@@ -1,0 +1,31 @@
+{
+    "key": "web",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/web/",
+    "name": "Web",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "elementalSchools": {"wood": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (spider web)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "webs in a 20-ft.-radius spread",
+    "duration": "10 min./level (d)",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p><i>Web<\/i> creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spiderwebs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become grappled by the sticky fibers. Attacking a creature in a web doesn't cause you to become grappled.<\/p><p>Anyone in the effect's area when the spell is cast must make a Reflex save. If this save succeeds, the creature is inside the web but is otherwise unaffected. If the save fails, the creature gains the grappled condition, but can break free by making a combat maneuver check or Escape Artist check as a standard action against the DC of this spell. The entire area of the web is considered difficult terrain. Anyone moving through the webs must make a combat maneuver check or Escape Artist check as part of their move action, with a DC equal to the spell's DC. Creatures that fail lose their movement and become grappled in the first square of webbing that they enter.<\/p><p>If you have at least 5 feet of web between you and an opponent, it provides cover. If you have at least 20 feet of web between you, it provides total cover.<\/p><p>The strands of a <i>web<\/i> spell are flammable. A <i>flaming weapon<\/i> can slash them away as easily as a hand brushes away cobwebs. Any fire can set the webs alight and burn away one 5-foot square in 1 round. All creatures within flaming webs take 2d4 points of fire damage from the flames.<\/p><p><i>Web<\/i> can be made permanent with a permanency spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.<\/p>",
+    "name_zh": "蛛网术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (蜘蛛网)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "半径20尺扩散范围的蜘蛛网",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>蛛网术可造出一大片多层又坚韧又粘稠的丝状物。这些粘丝会困住其中的生物。它们看起来像蜘蛛网，但远比蜘蛛网更大更粗。这些粘丝必须固定在两个或多个完全相对的固定点上，否则就会因不能完全张开而消失。在蛛网中的生物会被粘丝擒抱。但攻击蛛网内的生物不会让你也被擒抱。<\/p><p>在施放法术时处于效果区域内的任何人都必须进行反射豁免。若豁免成功，生物就会处于蜘蛛网内但是不受影响。若豁免失败，生物会获得擒抱状态，但是可以通过以标准动作进行战技检定或者逃脱检定对抗法术的DC。蛛网区域内被视为困难地形。任何生物若在蛛网内移动，则必须以移动动作的一部分进行战技检定或者逃脱检定，DC等同于法术的DC。检定失败的生物会失去他们的移动并且被擒抱在他们在蛛网内进入的第一个方格。<\/p><p>若你与一名敌人之间至少有5尺的蛛网，那么它会提供掩蔽。若你们之间至少有20尺的蛛网，则会提供全掩蔽。<\/p><p>蛛网术创造的丝状物是可燃的。〈炽焰〉武器可以简单扯开这些蛛网，就如同用手拨开普通的蜘蛛网一般。任何火焰都可以点燃蛛网，以每轮5尺方格的速度烧掉蛛网。所有在燃烧的蛛网内的生物会由于这些火焰受到2d4点火焰伤害。<\/p><p>蛛网术能够被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。被损坏 (或被摧毁) 的永久蛛网术会在10分钟后复原。<\/p>",
+    "source": "CRB"
+}

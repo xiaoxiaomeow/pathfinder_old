@@ -1,0 +1,35 @@
+{
+    "key": "blade barrier",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-barrier/",
+    "name": "Blade Barrier",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6
+    },
+    "domains":     {
+        "good": 6,
+        "war": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "wall of whirling blades up to 20 ft. long/level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form is 20 ft. high",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Reflex half or Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.<\/p><p>If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful Reflex save.<\/p><p>A <i>blade barrier<\/i> provides cover (+4 bonus to AC, +2 bonus on Reflex saves) against attacks made through it.<\/p>",
+    "mythicText": "You may cast this spell as an immediate action. The barrier's damage increases to 1d8 per caster level (maximum 20d8). <br><p style=\"margin-left:20px\"><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can spend a move action to move the barrier up to 10 feet in any direction. the shape (flat or ring) and orientation (vertical or horizontal) of the wall must remain the same. If you move the barrier through A creature's space, it can attempt a saving throw to avoid the wall, as if you had created it where the creature is. ",
+    "name_zh": "剑刃护壁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "旋转刀刃的墙壁，至多每等级20尺长，或者是半径至多为每2个等级5尺",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则减半 或 反射, 通过则无效; 见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术造出纯力场的旋转刀刃，构成一道垂直固定帐幕。任何穿越这道墙的生物都会受到每CL 1d6的伤害 (最多15d6)，成功的反射豁免可以使伤害减半。<\/p><p>如果你在已经有生物的地方唤出这道屏障，任何这些生物都会受到伤害，如同穿越这道墙一样。每一个这类生物都可以试图躲开刀墙 (由它选择停留在墙壁的哪一边)，成功通过的反射豁免可以免受伤害。<\/p><p>对抗穿过剑刃护壁的攻击时，它会提供掩蔽 (AC +4，反射豁免+2)。<\/p>",
+    "source": "CRB"
+}

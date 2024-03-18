@@ -1,0 +1,30 @@
+{
+    "key": "blaze of glory",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blaze-of-glory/",
+    "name": "Blaze of Glory",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors":     [
+        "good",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"paladin": 4},
+    "castingTime": "1 standard action or immediate action; see text",
+    "components": "V",
+    "area": "30-ft.-radius burst centered on you",
+    "duration": "instantaneous and 1 round/level; see text",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You fall unconscious but also unleash a spectacular wave of holy energy that heartens and heals your allies while leaving your opponents daunted and damaged. You can cast this spell as either a standard action on your turn, or as an immediate action when brought to below 0 hit points. If cast as a standard action, you are immediately reduced to -1 hit points, but stable, after casting the spell.<\/p><p>When you cast this spell, any good creature within range is healed for 1d6 points of damage per two caster levels. All evil creatures within range take the same amount as damage instead (a successful Will save halves this damage). In addition, all allies and enemies within range are affected as if by the <i>prayer<\/i> spell for 1 round per caster level.<\/p>",
+    "name_zh": "荣誉之辉",
+    "castingTime_zh": "标准动作 或 直觉动作；见下文",
+    "components_zh": "语言",
+    "area_zh": "以自身为中心，半径30尺的爆发范围",
+    "duration_zh": "立即 和 1轮/等级；见下文",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>当你昏迷的同时，会放射出一股惊人的圣能，激励并治疗你的盟友，并伤害你的敌人，使其畏惧。你能够在你的回合以标准动作施放该法术，也可以在你的生命值低于0时以直觉动作施放。如果是以标准动作施放，你的生命值立刻降至-1，但是在施法后会稳定。<\/p><p>当你施放该法术时，任何范围内的善良生物会被治愈每2个施法者等级1d6点伤害。范围内的所有邪恶生物会受到相同数值的伤害 (成功的意志豁免可以将伤害减半)。此外，所有在此范围内的盟友以及敌人会受到祈祷术 (Prayer) 影响，持续每施法者等级1轮。<\/p>",
+    "source": "APG"
+}

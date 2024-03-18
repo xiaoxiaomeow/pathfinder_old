@@ -1,0 +1,28 @@
+{
+    "key": "hedging weapons",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hedging-weapons/",
+    "name": "Hedging Weapons",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["force"],
+    "levels":     {
+        "antipaladin": 1,
+        "cleric": 1,
+        "inquisitor": 1,
+        "paladin": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>A weapon made from divine force appears and floats near you.<\/p><p>This weapon takes the shape of your deity's favored weapon (if you have no deity, the weapon appears as a simple weapon with special significance to you). You gain one additional weapon at 6th level and every 4 caster levels thereafter—two at 6th, three at 10th, four at 14th, and a maximum of five weapons at 18th level. The weapon averts and deflects attacks, granting you a +1 deflection bonus to AC for each weapon summoned (maximum +5 at 18th level). As a standard action, you can grasp a weapon and throw it as a ranged attack at any target you can see within 30 feet of you (even if it's a type of weapon that can't normally be thrown).<\/p><p>On a successful hit, the weapon deals 2d6 points of force damage to the target. This force weapon has the same threat range and critical multiplier as a standard weapon of its type, but no other special abilities. Because it deals force damage, DR doesn't apply.<\/p><p>Each weapon thrown lowers the total deflection bonus to your AC by 1 as it disappears immediately after the attack action. The spell immediately ends once you throw all the weapons.<\/p>",
+    "name_zh": "护神武具",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (D) ",
+    "text_zh": "<p>一件由神圣力量构成的武器漂浮、显现在你身周。此武器的形状为你信仰神祇的偏好武器(如果你没有信仰，那此武器显现为一种对你有着特殊意义的简易武器)。你在6等与之后每4个施法者等级额外获得一件武器，意即6等有两件、10等有三件、14等有四件，最多到18等有五件。这武器能阻止、偏斜攻击，每一把被召唤的武器，都让你在AC上获得+1偏斜加值(最大为18等时+5)。以一个标准动作，你可以抓住一件武器，并丢向(如同一次远程攻击)30尺内你可以看见的任何目标(就算这件武器按常理来说不能丢掷)。成功击中，该武器对目标造成2d6点力场伤害。这件力场武器有着与它同种类的标准武器般的重击威胁范围与重击倍率，但没有其他的特殊能力。因为它造成的是力场伤害，DR并无效果。每件抛掷出去的武器都会让整体偏斜加值降低1，如同它于攻击动作结束之后立即消失般。一旦你将所有的武器都丢光了，此法术立即结束。<\/p>",
+    "source": "HA"
+}

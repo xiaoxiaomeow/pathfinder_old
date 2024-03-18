@@ -1,0 +1,30 @@
+{
+    "key": "thunder fire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thunder-fire/",
+    "name": "Thunder Fire",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of spent thunderstone)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 loaded firearm",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object), see text",
+    "spellResistance": "yes (object), see text",
+    "text": "<p>The firearm targeted creates a thunderous report, even if the firearm is not loaded. Every creature within 15 feet of the creature wielding or carrying the firearm must succeed at a Fortitude save or be deafened for 1 minute. The creature wielding or carrying the firearm takes a –4 penalty on this saving throw, and his misfire range increases by 1 for 1d4 rounds. If the firearm was loaded when it was targeted by this spell, that ammunition is wasted.<\/p>",
+    "name_zh": "雷鸣枪击",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一小块黄铁矿)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一把装填火器",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效 (物体，见下文)",
+    "spellResistance_zh": "可 (物体，见下文)",
+    "text_zh": "<p>这个法术工作方式如同巧言术 (Tongues)，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,39 @@
+{
+    "key": "shield other",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-other/",
+    "name": "Shield Other",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "paladin": 2,
+        "psychic": 2
+    },
+    "domains":     {
+        "community": 2,
+        "protection": 2
+    },
+    "subdomains":     {
+        "friendship": 2,
+        "martyr": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a pair of platinum rings worth 50 gp worn by both you and the target)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell wards the subject and creates a mystic connection between you and the subject so that some of its wounds are transferred to you. The subject gains a +1 deflection bonus to AC and a +1 resistance bonus on saves. Additionally, the subject takes only half damage from all wounds and attacks (including those dealt by special abilities) that deal hit point damage. The amount of damage not taken by the warded creature is taken by you. Forms of harm that do not involve hit points, such as <i>charm<\/i> effects, temporary ability damage, level draining, and death effects, are not affected. If the subject suffers a reduction of hit points from a lowered Constitution score, the reduction is not split with you because it is not hit point damage. When the spell ends, subsequent damage is no longer divided between the subject and you, but damage already split is not reassigned to the subject.<\/p><p>If you and the subject of the spell move out of range of each other, the spell ends.<\/p>",
+    "name_zh": "护卫他人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (一对价值50gp的白金戒指，分别佩戴在你与目标身上)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>此法术在你和受术者之间形成某种神秘的联结，使得他遭受的部分伤害可以转移到你身上。受术者的AC获得+1偏斜加值，豁免检定获得+1抗力加值。另外受术者所受的任何造成HP损失的创伤和攻击均减半 (包括由特殊能力造成的)，剩下的部分则由施法者承受。不减少HP的伤害，比如魅惑、暂时性属性伤害、吸取等级及即死效果则不受影响。若受术者的HP因体质降低而减少，施法者亦不受影响，因为这不是HP伤害。法术结束后，后续的伤害不会再分给你与受术者，但已分配的伤害也不会转回受术者身上。<\/p><p>一旦你和受术者之间的距离超出法术范围，则法术结束。<\/p>",
+    "source": "CRB"
+}

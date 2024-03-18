@@ -1,0 +1,34 @@
+{
+    "key": "envious urge",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/envious-urge/",
+    "name": "Envious Urge",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You fill creatures with feelings of seething envy. Affected targets turn upon the nearest creature (whether an ally or enemy) and attempt to disarm it of a valuable weapon, steal something it is holding, or grapple it and strip it of something it prizes (your choice). Affected targets can attempt a new Will save each round as a free action to end this effect.<\/p>",
+    "name_zh": "羡慕嫉妒恨",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每等级一个生物，互相之间不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标陷入羡慕与嫉妒中不可自拔。<\/p><p>受术目标将会朝向最近的生物 (无论是盟友还是敌人)，并且试图从它手中夺取一把有价值的武器、偷取它的持有物或擒抱它并强夺一些物品 (可由你选择)。<\/p><p>受影响的目标每一轮可以用一个自由动作进行一次新的意志检定以试图打破法术效果。<\/p>",
+    "source": "UM"
+}

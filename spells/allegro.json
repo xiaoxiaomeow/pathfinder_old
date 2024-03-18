@@ -1,0 +1,22 @@
+{
+    "key": "allegro",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/allegro/",
+    "name": "Allegro",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels": {"bard": 2},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d) or until discharged",
+    "text": "<p>This spell allows you to act more swiftly while maintaining a bardic performance. You must already be maintaining a bardic performance before you can cast <i>allegro<\/i>. You gain the benefits of the spell <i>haste<\/i> for as long as you maintain that bardic performance. If you cease maintaining the bardic performance or it is interrupted, this spell's duration ends. As an immediate action while you are maintaining a bardic performance, you can dismiss <i>allegro<\/i> to reroll a Reflex save or Dexterity-based skill check. You must choose to reroll before the result of the original roll is known. You must take the result of the reroll, even if it's worse than the original roll. Allegro dispels and is dispelled by <i>slow<\/i>.<\/p>",
+    "name_zh": "快板演奏",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级或 直至解消",
+    "text_zh": "<p>持续时间    1轮/等级或 直至解消<\/p><p>当你维持吟游表演时，该法术使得你的动作更加迅捷。在施放快板演奏之前，你必须已经开始维持你的吟游表演。只要你还在维持此类吟游表演，你就会获得加速术 (haste) 的好处。如果你停止维持吟游表演，或者表演被中断的话，该法术的持续时间结束。当你维持吟游表演时，你能够以直觉动作解消快板演奏，同时重骰一次反射豁免或者基于敏捷的技能检定——你必须在得知之前掷骰的结果之前选择是否重骰。并且必须使用重骰的结果，即使它比之前更差。快板演奏可以反制或解除缓慢术 (slow)。<\/p>",
+    "source": "UM"
+}

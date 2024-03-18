@@ -1,0 +1,14 @@
+{
+    "key": "psychic crush iv",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
+    "name": "Psychic Crush IV",
+    "base": "psychic crush i",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 8},
+    "text": "<p>This functions as <i>psychic crush I<\/i>, but the target takes 9d6 points of damage + 1 point of damage per caster level on a successful Fortitude or Will save. The target does not receive any saving throw bonus because of its hit points. If it is at fewer than half its total hit points, it doesn't gain a Fortitude save to resist this spell but instead proceeds as if it had automatically failed its Fortitude save. This spell can be undercast.<\/p>",
+    "name_zh": "心灵碾压 IV",
+    "text_zh": "<p>该法术的功能如同心灵碾压 I（Psychic Crush I）一般，不过成功通过强韧豁免或意志豁免时，目标会受到9d6 + 每施法者等级1点伤害。目标不会由于生命值的多寡而在豁免检定中获得加值。如果目标剩余的总生命值低于半额，则不会在抵御该法术时获得强韧豁免的机会，取而代之的是被视为在强韧豁免中自动失败。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

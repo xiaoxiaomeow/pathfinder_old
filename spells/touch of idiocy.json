@@ -1,0 +1,43 @@
+{
+    "key": "touch of idiocy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-idiocy/",
+    "name": "Touch of Idiocy",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bloodrager": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "spiritualist": 2,
+        "witch": 2
+    },
+    "domains": {"madness": 2},
+    "subdomains": {"lust": 2},
+    "bloodlines":     {
+        "accursed": 2,
+        "daemon": 2,
+        "div": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "10 min./level",
+    "savingThrow": "no",
+    "spellResistance": "yes",
+    "text": "<p>With a touch, you reduce the target's mental faculties. Your successful melee touch attack applies a 1d6 penalty to the target's Intelligence, Wisdom, and Charisma scores. This penalty can't reduce any of these scores below 1.<\/p><p>This spell's effect may make it impossible for the target to cast some or all of its spells, if the requisite ability score drops below the minimum required to cast spells of that level.<\/p>",
+    "name_zh": "愚者之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你通过接触降低目标的智能。通过成功的近战接触攻击检定，你能对目标的智力、感知和魅力属性造成1d6点减值。这种减值不会让其中任何一项减到低于1。<\/p><p>若法术的效果使目标的属性低于某些法术环位所需要的最低要求，则可能会让目标无法施放部分，甚至是所有法术。<\/p>",
+    "source": "CRB"
+}

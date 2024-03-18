@@ -1,0 +1,22 @@
+{
+    "key": "shadow projection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-projection/",
+    "name": "Shadow Projection",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels": {"sorcerer/wizard": 4},
+    "castingTime": "1 minute",
+    "components": "S",
+    "range": "personal",
+    "duration": "1 hour/level (d)",
+    "text": "<p>With this spell, you infuse your life force and psyche into your shadow, giving it independent life and movement as if it were an undead shadow. Your physical body lies comatose while you are projecting your shadow, and your body has no shadow or reflection while the spell is in effect.<\/p><p>While projecting your shadow, you gain a shadow's darkvision, defensive abilities, fly speed, racial stealth modifier, and strength damage attack. You do not gain the creature's <i>create spawn<\/i> ability, nor its skill ranks or Hit Dice.<\/p><p>Your shadow has Hit Dice and hit points equal to your own.<\/p><p>Your <i>shadow projection<\/i> has the undead type and may be turned or affected as undead.<\/p><p>If your <i>shadow projection<\/i> is slain, you return to your physical body and are immediately reduced to -1 hit points. Your condition becomes dying, and you must begin making Constitution checks to stabilize.<\/p>",
+    "name_zh": "幽影投射",
+    "castingTime_zh": "1分钟",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级 (可解消)",
+    "text_zh": "<p>当你施放这个法术，你将自己的生命能量和灵魂注入你自己的影子，使其获得生命，可以像一个不死生物幽影 (Shadow) 一样独立活动。<\/p><p>你的物理身体将会昏迷，而你的意识投射在幽影里，并且你的身体在法术持续中失去影子。<\/p><p>当你投射在你的影子中，你获得幽影的黑暗视觉、防护能力、飞行速度、种族隐匿能力和力量伤害攻击。你不会获得幽影的创造衍体的能力，也不会获得技能等级和生命骰。<\/p><p>你的影子使用你自己的生命骰和生命值。<\/p><p>幽影拥有不死生物类别，并且可以如同一个不死生物一般被超度或正负能量影响。<\/p><p>如果你的投影幽影被杀害，你回到你的身体并且HP降为-1。你陷入濒死状态，所以你必须开始进行体质检定以稳定伤势。<\/p>",
+    "source": "APG"
+}

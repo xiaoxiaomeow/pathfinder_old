@@ -1,0 +1,30 @@
+{
+    "key": "vermin shape i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vermin-shape-i/",
+    "name": "Vermin Shape I",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 4,
+        "bloodrager": 4,
+        "druid": 3,
+        "magus": 4,
+        "sorcerer/wizard": 4,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>When you cast this spell, you assume the form of any Small or Medium creature of the vermin type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, scent, and lunge. You don't gain full immunity to mind-affecting effects, but you do gain a +2 resistance bonus on all saving throws against such effects.<\/p><ul><li><b>Small vermin<\/b>: If you take the form of a Small vermin, you gain a +2 size bonus to your Dexterity and a +2 natural armor bonus.<\/li><li><b>Medium vermin<\/b>: If you take the form of a Medium vermin, you gain a +2 size bonus to your Strength and a +3 natural armor bonus.<\/li><\/ul>",
+    "name_zh": "虫类形态I",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片你所选择的生物的身体组织)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>持续时间    1分钟/等级<\/p><p>当你施放该法术，你可以从小型或中型的虫类中选择一种。<\/p><p>如果你所选择的生物拥有以下列表中的能力，你获得这些能力：30尺攀爬，30尺飞行 (普通机动性)，30尺游泳，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，突刺。<\/p><p>你不会得到虫类的完全免疫影响心智效果的能力，但是你可以在所有对抗这些效果的检定中获得+2抗力加值。\n－小型虫类：如果你选择的是小型虫类，你获得+2敏捷的体型加值和+2天生护甲。\n－中型虫类：如果你选择的是中型虫类，你获得+2力量的体质加值和+3天生护甲。<\/p>",
+    "source": "UM"
+}

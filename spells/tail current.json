@@ -1,0 +1,23 @@
+{
+    "key": "tail current",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tail-current/",
+    "name": "Tail Current",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["water"],
+    "levels":     {
+        "bloodrager": 4,
+        "cleric": 4,
+        "druid": 3,
+        "magus": 4,
+        "occultist": 3,
+        "ranger": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 4,
+        "spiritualist": 3
+    },
+    "text": "<p>This spell functions as <em>tailwind<\/em> except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.<\/p>",
+    "name_zh": "顺水术",
+    "text_zh": "<p>这种法术如同顺风术，除了它创造的是助力水流，而非气流。它会在游泳而非飞行时提供免费移动，且只在水下起效。<\/p>",
+    "source": "UW"
+}

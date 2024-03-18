@@ -1,0 +1,35 @@
+{
+    "key": "magic vestment",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-vestment/",
+    "name": "Magic Vestment",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "shaman": 3
+    },
+    "domains":     {
+        "nobility": 3,
+        "strength": 3,
+        "war": 3
+    },
+    "mysteries": {"battle": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "armor or shield touched",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).<\/p><p>An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.<\/p>",
+    "name_zh": "魔化防具",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的护甲或盾牌",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>你可以对一套护甲或盾牌赋予每四个CL+1增强加值 (最高为20级时的+5)。<\/p><p>在判断该法术的功能时，普通服装被视为没有AC加值的护甲。<\/p>",
+    "source": "CRB"
+}

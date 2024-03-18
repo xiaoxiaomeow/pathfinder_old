@@ -1,0 +1,31 @@
+{
+    "key": "arcane eye",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-eye/",
+    "name": "Arcane Eye",
+    "school": "divination",
+    "subSchool": ["scrying"],
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "subdomains": {"arcane": 4},
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a bit of bat fur)",
+    "range": "unlimited",
+    "effect": "magical sensor",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You create an invisible magical sensor that sends you visual information. You can create the <i>arcane eye <\/i>at any point you can see, but it can then travel outside your line of sight without hindrance. An <i>arcane eye <\/i>travels at 30 feet per round (300 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead. It sees exactly as you would see if you were there.<br><br> The eye can travel in any direction as long as the spell lasts. Solid barriers block its passage, but it can pass through a hole or space as small as 1 inch in diameter. The eye can't enter another plane of existence, even through a gate or similar magical portal.<br><br> You must concentrate to use an <i>arcane eye. <\/i>If you do not concentrate, the eye is inert until you again concentrate.<\/p>",
+    "name_zh": "秘法眼",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (一点蝙蝠毛发)",
+    "range_zh": "无限",
+    "effect_zh": "魔法感受器",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造出一个隐形的魔法感受器，它可以提供给你视觉信息。你可以在任何你能看见的地点创造出一个秘法眼，但是它可以不受限制地移出你的视觉线。如果秘法眼像人一样正视前方 (主要观察地板)，那么它可以以每轮30尺 (每分钟300尺) 的速度移动，如果同时还检查前方的天花板和墙壁，那么移动速度为每轮10尺 (每分钟100尺)。它所看到的如同你在现场看到的一样。<\/p><p>只要法术仍在持续，这只眼睛就可以向任意方向移动。固体屏障会挡住它的路，但是它可以穿过小洞，或者直径1英吋左右的小空间。这只眼睛不能进入另一个位面，甚至不能穿越‘<a href=\"spell.html?spell=gate\">异界之门 (gate)<\/a>’或类似的魔法传送门。<\/p><p>你必须专注才能使用秘法眼。如果你不进行专注，这只眼睛会停止活动。直到你再度进行专注为止。<\/p>",
+    "source": "CRB"
+}

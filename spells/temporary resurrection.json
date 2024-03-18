@@ -1,0 +1,25 @@
+{
+    "key": "temporary resurrection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/temporary-resurrection/",
+    "name": "Temporary Resurrection",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (diamond dust worth 500 gp)",
+    "range": "touch",
+    "target": "dead creature touched",
+    "duration": "24 hours",
+    "text": "<p>You restore temporary life to a body that has been dead for less than 48 hours. The spell lasts for 24 hours, after which the target dies again. The target gains 1 permanent negative level while under the effect of this spell; this negative level goes away when the target dies or is permanently raised from the dead (such as with raise dead). The target still counts as a dead corpse (but not undead) for the purpose of spells that revive dead creatures, so a cleric can cast raise dead or a similar spell on the target even while this spell is active. Once a creature has been revived with <i>temporary resurrection<\/i>, this spell cannot be used on it again until it is permanently raised from the dead.<\/p>",
+    "name_zh": "死者苏生",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (价值500GP的钻石粉)",
+    "range_zh": "接触",
+    "target_zh": "接触到的已死生物",
+    "duration_zh": "24小时",
+    "text_zh": "<p>持续时间    24小时<\/p><p>你让一具死亡时间不超过48小时的尸体暂时复活。<\/p><p>法术持续24小时，在此之后目标会再次死亡。<\/p><p>当法术生效期间，目标获得一个永久的负向等级；而如果当目标再次死亡或被永久复活 (例如死者复活 (Raise Dead) )，负向等级消失。<\/p><p>在一些法术或效果的判定上，目标仍然被视作一具死尸 (但并非不死生物)，所以一个牧师可以施放死者复活 (Raise Dead) 或类似的法术在一具被本法术影响的尸体上。<\/p><p>如果一个生物已经被本法术影响过一次，那么不能再次受到本法术影响，直到它被真正的复活。<\/p>",
+    "source": "UM"
+}

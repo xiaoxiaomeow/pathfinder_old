@@ -1,0 +1,33 @@
+{
+    "key": "fire snake",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-snake/",
+    "name": "Fire Snake",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 5,
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "elementalSchools": {"fire": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a snake scale)",
+    "range": "60 ft.",
+    "area": "see text",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>You create a sinuous line of flames that you may shape as desired. The <i>fire snake<\/i> affects one 5-foot square per caster level, and each square must be adjacent to the previous square, starting with you. The <i>fire snake<\/i> may not extend beyond its maximum range. Creatures in the path of the <i>fire snake<\/i> take 1d6 points of fire damage per caster level (maximum 15d6).<\/p>",
+    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>The damage dealt increases to 1d10 points of damage per level (maximum 15d10). Any creature that fails its saving throw against the spell is grappled by a snake made of fire that lasts for 1 round per caster level. The snake can be dispelled, but not attacked. A grappled creature takes 1d10 points of fire damage on your turn each round. The snake's CMB is equal to your caster level plus your tier, and its CMD is equal to its CMB + 10. ",
+    "name_zh": "火蛇术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片蛇鳞)",
+    "range_zh": "60尺",
+    "area_zh": "见下文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造一条蜿蜒的线形火焰，你可以按你的要求塑造其形状。火蛇可以影响每施法者等级一个5英尺方格，每一格必须彼此毗邻，以你为起始点。火蛇不能超出最大法术射程。火蛇的路径中的生物会受到每施法者等级1d6点火焰伤害 (最高15d6)。<\/p>",
+    "source": "APG"
+}

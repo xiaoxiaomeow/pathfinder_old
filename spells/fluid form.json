@@ -1,0 +1,31 @@
+{
+    "key": "fluid form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fluid-form/",
+    "name": "Fluid Form",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["water"],
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 6
+    },
+    "subdomains":     {
+        "flowing": 6,
+        "rivers": 6
+    },
+    "elementalSchools": {"water": 6},
+    "mysteries": {"waves": 6},
+    "castingTime": "1 standard action",
+    "components": "S, M (a mixture of oil and water)",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>When you cast this spell, your body takes on a slick, oily appearance. For the duration of this spell, your form can stretch and shift with ease and becomes slightly transparent, as if you were composed of liquid. This transparency is not enough to grant concealment. You gain DR 10/slashing and your reach increases by 10 feet. In addition, you can pass through small holes or narrow openings, even mere cracks, with anything you were carrying at the time the spell was cast (except other creatures). Finally, you can move through water with a swim speed of 60 feet and can breathe both water and air for the duration of this effect. You are treated as if you had the water subtype while this spell is in effect.<\/p>",
+    "name_zh": "液体形态",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势, 材料 (一份油水混合物)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>当你施放该法术，你的身体外表变得油光水亮。<\/p><p>在法术持续过程中，你的身体可以自由延伸和变形，并略微透明，就像你的身体由液体构成一样。透明度不足以让你形成隐蔽。<\/p><p>你获得DR10/挥砍并且你的触及范围增加10尺。<\/p><p>此外，在法术效果持续中，你可以携带你自己的所有物品 (除了其他生物) 自由穿过小孔或窄口，甚至仅仅是一条细缝。<\/p><p>最后，在法术效果持续中，你可以以60尺的游泳速度穿过液体，并且可以进行水下和空气呼吸。<\/p><p>在法术效果持续中，你被视为拥有水生亚种。<\/p>",
+    "source": "APG"
+}

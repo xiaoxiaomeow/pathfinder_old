@@ -1,0 +1,30 @@
+{
+    "key": "burst of adrenaline",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-adrenaline/",
+    "name": "Burst of Adrenaline",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "mesmerist": 1,
+        "psychic": 1,
+        "spiritualist": 1
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You draw upon your body's inner reserves of strength, leaving you winded. When you are about to make a d20 roll based on Strength, Dexterity, or Constitution, you can cast this spell to gain a +8 enhancement bonus to Strength, Dexterity, or Constitution for that roll, but you are fatigued for 1 round afterward.<\/p>",
+    "name_zh": "肾上腺素激增",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你榨取着身体的内在之力，并因此而气喘吁吁。当你即将做出一次基于力量、敏捷或体质的d20检定时，你能够施放该法术，并在该次检定中让力量、敏捷或体质获得+8增强加值，但是在此之后你会疲乏（fatigued）1轮。<\/p>",
+    "source": "OA"
+}

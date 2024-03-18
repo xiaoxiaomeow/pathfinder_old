@@ -1,0 +1,29 @@
+{
+    "key": "spiked pit",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spiked-pit/",
+    "name": "Spiked Pit",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "sorcerer/wizard": 3,
+        "summoner/unchained summoner": 3
+    },
+    "subdomains": {"caves": 3},
+    "elementalSchools": {"earth": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (miniature shovel costing 10 gp)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "10-ft.-by-10-ft. hole, 10 ft. deep/2 levels",
+    "duration": "1 round + 1 round/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as create pit, except that the pit is lined with wickedly sharp spikes along its bottom and walls and has a maximum depth of 50 feet. Creatures who fall into the pit take falling damage as normal, plus 2d6 points of piercing damage from the spikes. Any creature or object coming into contact with the spikes along the walls, such as a creature trying to climb out, or rope or other typical aids to climbing, takes 1d6 points of piercing damage each round they are in contact with the walls. For those willing to accept the damage incurred while climbing, the pit's walls have a Climb DC of 20.<\/p>",
+    "name_zh": "刺坑",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>类似于造坑术，除了坑的底部和四壁充满了尖刺并且最大深度为50英尺。落入坑中的生物受到正常的坠落伤害，加上尖刺造成的2d6穿刺伤害。任何接触坑中尖刺四壁的生物或物体，例如试图爬出来的生物，或着绳索和其他帮助攀爬的物体，在他们接触四壁期间每轮受到1d6穿刺伤害。对于那些愿意接受攀登时受到伤害的生物来说，四壁的攀爬DC为20。<\/p>",
+    "source": "APG"
+}

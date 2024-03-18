@@ -1,0 +1,42 @@
+{
+    "key": "wind wall",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-wall/",
+    "name": "Wind Wall",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["air"],
+    "levels":     {
+        "bloodrager": 3,
+        "cleric/oracle": 3,
+        "druid": 3,
+        "magus": 3,
+        "ranger": 2,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 2,
+        "unchained summoner": 3
+    },
+    "domains": {"air": 2},
+    "elementalSchools":     {
+        "air": 3,
+        "wood": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a tiny fan and an exotic feather)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "wall up to 10 ft./level long and 5 ft./level high (S)",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>An invisible vertical curtain of wind appears. It is 2 feet thick and of considerable strength. It is a roaring blast sufficient to blow away any bird smaller than an eagle, or tear papers and similar materials from unsuspecting hands. (A Reflex save allows a creature to maintain its grasp on an object.) Tiny and Small flying creatures cannot pass through the barrier. Loose materials and cloth garments fly upward when caught in a <i>wind wall<\/i>. Arrows and bolts are deflected upward and miss, while any other normal ranged weapon passing through the wall has a 30% miss chance. (A giant-thrown boulder, a siege engine projectile, and other massive ranged weapons are not affected.) Gases, most gaseous breath weapons, and creatures in gaseous form cannot pass through the wall (although it is no barrier to incorporeal creatures).<\/p><p>While the wall must be vertical, you can shape it in any continuous path along the ground that you like. It is possible to create cylindrical or square <i>wind walls<\/i> to enclose specific points.<\/p>",
+    "name_zh": "风墙术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一把微型的扇子或者一根罕见的羽毛)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "至多长10尺/等级, 高5尺/等级的墙壁 (可变)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>本法术会造出一道隐形的竖直风帘。其厚度为两英尺，且有一定的强度。风帘中总是存在咆哮的气流，比鹰小的鸟类会被吹走，未抓紧的纸片或轻质物品也会被吹飞 (生物可通过反射检定以抓住物品)。小型和超小型的飞行生物无法穿过风墙。服装和没绑紧的物品会在风墙内会被向上吹。箭矢或弩失会向上偏斜而射失，其他穿过风帘的普通远程武器有30%的失手机率 (巨人投掷的大石块，攻城器的投射物，以及其他巨大的远程武器则不受影响)。气体，多数气态喷吐武器和处于‘<a href=\"spell.html?spell=gaseous form\">气化形体 (gaseous form)<\/a>’的生物无法通过该墙 (虚体生物不受影响)。<\/p><p>风墙必须垂直于地面，但是你可以按照自身喜好以任意形状的连续路径安置在地面上。因此完全可以制造圆柱形或立方体形风墙来隔离特定地点。<\/p>",
+    "source": "CRB"
+}

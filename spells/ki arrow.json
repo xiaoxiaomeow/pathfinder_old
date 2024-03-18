@@ -1,0 +1,31 @@
+{
+    "key": "ki arrow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/ki-arrow/",
+    "name": "Ki Arrow",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "touch",
+    "target": "1 arrow touched",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus).<\/p>",
+    "name_zh": "气灌飞矢",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "接触",
+    "target_zh": "一根接触到的箭矢",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>法术抗力    可 (物体)<\/p><p>你用你的内息灌注在箭矢中，并且将它投掷出100英尺之远。<\/p><p>进行一次远程攻击投骰。如果命中，目标会受到相当于你的单次徒手打击的伤害 (使用你的力量加值)。<\/p>",
+    "source": "UM"
+}

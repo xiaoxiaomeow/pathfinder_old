@@ -1,0 +1,31 @@
+{
+    "key": "arcane sight",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-sight/",
+    "name": "Arcane Sight",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 3,
+        "inquisitor": 3,
+        "magus": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "elementalSchools": {"void": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you. The effect is similar to that of a detect magic spell, but arcane sight does not require concentration and discerns aura location and power more quickly.<\/p><p>You know the location and power of all magical auras within your sight. An aura's power depends on a spell's functioning level or an item's caster level, as noted in the description of the detect magic spell (see tables above.) If the items or creatures bearing the auras are in line of sight, you can make Spellcraft skill checks to determine the school of magic involved in each. (Make one check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell effect.)<\/p><p>If you concentrate on a specific creature within 120 feet of you as a standard action, you can determine whether it has any spellcasting or spell-like abilities, whether these are arcane or divine (spell-like abilities register as arcane), and the strength of the most powerful spell or spell-like ability the creature currently has available for use.<\/p><p>As with detect magic, you can use this spell to identify the properties of magic items, but not artifacts.<\/p><p>Arcane sight can be made permanent with a permanency spell.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\" rowspan=\"2\">Spell or Object<\/th>    <th class=\"text\" colspan=\"4\">Aura Power<\/th>   <\/tr>   <tr>    <th class=\"text\">Faint<\/th>    <th class=\"text\">Moderate<\/th>    <th class=\"text\">Strong<\/th>    <th class=\"text\">Overwhelming<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Functioning spell (spell level)<\/td>    <td class=\"text\">3rd or lower<\/td>    <td class=\"number\">4th-6th<\/td>    <td class=\"number\">7th-9th<\/td>    <td class=\"text\">10th+ (deity-level)<\/td>   <\/tr>   <tr>    <td class=\"text\">Magic item (caster level)<\/td>    <td class=\"text\">5th or lower<\/td>    <td class=\"number\">6th-11th<\/td>    <td class=\"number\">12th-20th<\/td>    <td class=\"text\">21st+ (artifact)<\/td>   <\/tr>  <\/tbody> <\/table> <table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Original Strength<\/th>    <th class=\"text\">Duration of Lingering Aura<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Faint<\/td>    <td class=\"text\">1d6 rounds<\/td>   <\/tr>   <tr>    <td class=\"text\">Moderate<\/td>    <td class=\"text\">1d6 minutes<\/td>   <\/tr>   <tr>    <td class=\"text\">Strong<\/td>    <td class=\"text\">1d6x10 minutes<\/td>   <\/tr>   <tr>    <td class=\"text\">Overwhelming<\/td>    <td class=\"text\">1d6 days<\/td>   <\/tr>  <\/tbody> <\/table><p><\/p>",
+    "name_zh": "秘法视力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这个法术让你的眼睛发出蓝光，并且能让你看见120尺内的魔法灵光。该效果和‘<a href=\"spell.html?spell=detect magic\">侦测魔法 (detect magic)<\/a>’相类似，只是秘法视力不需要专注，识别灵光位置和强度也更快。<\/p><p>你能知道你视野中所有魔法灵光的位置和强度。灵光的强度依赖于法术环位或物品的CL，这和‘侦测魔法’的法术说明一样。如果带有灵光的物品或生物和你之间有视觉线，那么你可以分别做法术辨识技能检定来判断相关的魔法学派。(为每一个灵光做一次检定；DC {15+法术环位}，对于非法术效果来说DC等于 {15+1/2施法者等级}。)<\/p><p>如果你以一个标准动作对120尺内的特定生物维持专注，你能发现它是否有施法能力或类法术能力，以及是奥术还是神术 (类法术能力按奥术显示)，以及该生物当前可使用的最强法术或类法术能力的强度。<\/p><p>与‘侦测魔法’一样，你能够使用该法术鉴别魔法物品的功能，但是这对神器无效。<\/p><p>秘法视力可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

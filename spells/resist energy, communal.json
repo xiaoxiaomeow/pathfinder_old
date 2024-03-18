@@ -1,0 +1,24 @@
+{
+    "key": "resist energy, communal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resist-energy/",
+    "name": "Resist Energy, Communal",
+    "base": "resist energy",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "levels":     {
+        "alchemist": 3,
+        "druid": 3,
+        "inquisitor": 3,
+        "occultist": 3,
+        "paladin": 3,
+        "psychic": 3,
+        "ranger": 3,
+        "sorcerer/wizard": 3,
+        "summoner/unchained summoner": 3
+    },
+    "target": "creatures touched",
+    "text": "<p>This spell functions like <i>resist energy<\/i>, except you divide the duration in 10-minute intervals among the creatures touched.<\/p><\/div>",
+    "name_zh": "共用抵抗能量伤害",
+    "target_zh": "接触到的复数生物",
+    "text_zh": "<p>这个法术的工作方式如同抵抗能量伤害 (resist energy)，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。<\/p>",
+    "source": "UC"
+}

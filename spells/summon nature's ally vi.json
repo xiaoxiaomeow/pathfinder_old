@@ -1,0 +1,16 @@
+{
+    "key": "summon nature's ally vi",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-natures-ally/",
+    "name": "Summon Nature's Ally VI",
+    "base": "summon nature's ally i",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "druid": 6,
+        "shaman": 6
+    },
+    "text": "<p>This spell functions like <i>summon nature's ally I<\/i>, except that you can summon one 6th-level creature, 1d3 5th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.<\/p>",
+    "name_zh": "召唤自然盟友 VI",
+    "text_zh": "<p>该法术的功能如同‘召唤自然盟友I’，不过你能够召唤一个6环生物、1d3个5环的同类生物、或者1d4+1个更低等环且同一种类的生物。<\/p>",
+    "source": "CRB"
+}

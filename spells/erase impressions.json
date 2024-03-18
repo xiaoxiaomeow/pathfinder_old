@@ -1,0 +1,32 @@
+{
+    "key": "erase impressions",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/erase-impressions/",
+    "name": "Erase Impressions",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "medium": 3,
+        "mesmerist": 4,
+        "occultist": 3,
+        "psychic": 5,
+        "spiritualist": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "touch",
+    "target": "object touched",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You banish psychic impressions from the object touched, rendering it devoid of recent history. You choose how much time to erase, up to a maximum of 1 day per caster level.<\/p><p>You must erase impressions from the present time back; you cannot choose to leave recent events untouched. Impressions erased in this manner cannot be recovered via object reading, legend lore, or similar measures.<\/p><p>Casting erase impressions on a corpse removes recent psychic impressions from when the creature was alive as well, making those memories unavailable to speak with dead. For example, a 5th-level caster casting the spell on a 2-day-old corpse could erase the past 2 days of psychic impressions from the corpse and 3 additional days of information from just before the creature died.<\/p>",
+    "name_zh": "抹除异能",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你消除了接触到的物体中存留的异能信息，使它没有近期的历史信息。由你选择抹除多长一段时间的信息，至多为每施法者等级1天。你必须从当前的时间开始向前抹消；因此你无法选择留下最近的某些信息不受影响。以此方式被抹除的信息无法被读取物体（Object Reading），通晓传奇（Legend Lore）或类似的方法恢复。\n对一具尸体施放抹除异能能够抹除该生物的异能信息，甚至可以追溯到它生前的情况，这可以让死者交谈（Speak with Dead）无法读取这段记忆。举例说明，5级的施法者对已经死亡2天的尸体施放该法术，可以抹消尸体过去2天的异能信息，外加生物死前3天内的信息。<\/p>",
+    "source": "OA"
+}

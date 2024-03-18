@@ -1,0 +1,32 @@
+{
+    "key": "blade of light",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-of-light/",
+    "name": "Blade of Light",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one melee weapon",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p class=\"desciption\">This spell infuses a weapon with pure sunlight (the weapon need not be a bladed weapon).<\/p><p>A weapon enhanced by this spell sheds light as if daylight had been cast on it. It functions as a magic and good weapon for the purposes of overcoming damage reduction.<\/p><p>The weapon grants a +2 sacred bonus on attack rolls against undead and deals +1d6 points of damage on a successful hit against such foes; against incorporeal undead, it functions as if it had the ghost touch weapon special ability. The weapon automatically confirms critical hits against foes that are vulnerable to sunlight.<\/p>",
+    "name_zh": "光之刃",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "effect_zh": "一头复霜的猛玛",
+    "target_zh": "一把近战武器",
+    "duration_zh": "1轮/CL",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>虽然老巫师并不是第一个向异界存在寻求答案的人，但贾特比与异界生物的交涉在他对启迪的追寻中尤为传奇，而玛甘比学院则将这一法术的创造归功于老巫师。\n当被施放时，这个法术将会把一个生物从其他位面呼唤到你的精确位置，如同次级异界誓盟，除了所提到的。当你用异界谘询呼唤来一个生物时，你唯一可以让该生物做的任务就是回答问题或收集关于某个特定主题的信息（一个人，一个地方，或者一个东西）。在听到你的请求后，如果该生物有适当的知识技能，他可以尝试进行一次检定以提供他所拥有的信息。如果他缺乏这样一种技能，被呼唤来的生物会离开1d4小时去收集这些信息。在他返回时，你进行1d20投骰，并加上你的施法者等级，并使用结果来确定该生物已经收集到的关于这个主题的信息（如同使用交涉）。当他将这些信息传递给你时，被呼唤的生物会停留最久达10分钟，然后他就会返回原位面。如果该生物在法术持续时间内被攻击或伤害，法术就会结束，该生物会返回你将他召唤来的位面。\n当你施放这个法术的时候，你可以选择呼唤一个特定种类的异界生物，甚至用名字呼唤特定个体。呼唤的异界生物种类不会改变法术效果，但当你用异界谘询来召唤一个元素亚种的生物时，法术就会变为该元素种类。你不能呼唤一个生命骰超出你施法者等级（最多18HD）的异界生物，你不能用这个法术来联系一个特有的异界生物（如一位神灵的神使）或拥有神话等级的异界生物。\n准则符文 Rune of Rule\n学派 变化系\n环位 奥能师2，吟游诗人2，秘学士2，歌者2，术士/法师2，女巫2\n施法时间 1分钟\n成分 语言，姿势，材料（价值25gp的一小瓶颜料）\n范围 近距\n目标 一个活物\n持续时间 1天 或 直至被启动（见描述）\n豁免 意志通过则无效（无害）；\n法术抗力 可（无害）\n描述\n在秘文法师们对阿兹兰特的研究中，他们发现这个失落的人类帝国曾经有过一项神秘而古老的传统，那就是七种美德的行事准则，这个传统后来在魔印王的玷污下成为了世人更为熟悉的七大罪行。该发现启发秘文法师们发明出准则符文。这个法术允许你将符文施放在另一个生物上，这些符文可以在之后对它起到帮助。施法时，你需要使用一剂特别准备的价值25gp的颜料，用手指在受术者的身体上描绘特定的符文，来决定法术的具体效果。被描绘的符文持续24小时或直到法术被启动。除非另有说明，否则绘有符文的生物可以在任何时候以一个迅捷动作启动它。若法术的效果未被使用，与符文相关联的所有徽记都会消失，其效果也会消散。你永远不能将该法术施放在自己身上 - 它必须被赐予别人。以下是七种准则符文，以及使用者启动它们的具体效果。一个生物一次只能带有一个符文符号。\n仁爱：带有该符文的生物可以在因另外一个生物的请求而进行的单一次攻击检定或技能检定时启动符文。只要启动符文的生物不会因为进行这次攻击或尝试该检定而获得立即的好处或回报，他就能在检定中获得+5洞察加值。\n慷慨：当30尺范围内有其他生物启动一件由带有慷慨符文的生物所给予的消耗性魔法物品（例如药水或卷轴）时，带有慷慨符文的生物就必须以一个直觉动作启动自己的符文。当符文被激活时，决定那件消耗性魔法物品的效果时视为该物品的施法者等级比原本高2级。\n谦逊：当一个生物激活谦逊符文时，它在一轮内不会引发借机攻击。\n善良：一个生物必须在使用援助他人动作或施放治疗法术时才能启动善良符文。如果生物在援助他人的同时启动符文，则成功后提供的加值将增加到+5。如果生物在施放治疗法术的同时激活符文，法术的等效施法者等级将增加2。\n爱情：当一个生物在施展一个带有魅惑描述符的法术时，他可以启动爱情符文，使该法术豁免DC增加1。或者，一个生物可以在他的武器或法术攻击伤害之后启动爱情符文，使得造成的伤害变为非致命伤害。\n节制：当一个带有节制符文的生物在一次对抗毒素、疾病、毒品或类似效果的豁免时失败时，它可以立即用一个直觉动作启动该符文。该生物可以立即尝试第二次豁免对抗次效果，并可将该第二次豁免的结果作为实际结果。\n热情：一个激活热情符文的生物会在意志豁免上获得+3加值，并且由该生物创造的所有基于语言（language-dependent）的效果的豁免DC增加1。这些效果持续1轮。\nPFS Clarification：仁爱符文不能用于帮助PC。它只会在你正直接援助一位NPC时才生效（例如，在他正被其他生物攻击时保护他）。<\/p>",
+    "source": "AG"
+}

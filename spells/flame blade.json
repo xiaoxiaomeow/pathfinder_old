@@ -1,0 +1,30 @@
+{
+    "key": "flame blade",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flame-blade/",
+    "name": "Flame Blade",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "0 ft.",
+    "effect": "sword-like beam",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>A 3-foot-long, blazing beam of red-hot fire springs forth from your hand. You wield this blade-like beam as if it were a scimitar. Attacks with the <i>flame blade<\/i> are melee touch attacks. The blade deals 1d8 points of fire damage + 1 point per two caster levels (maximum +10). Since the blade is immaterial, your Strength modifier does not apply to the damage. A <i>flame blade<\/i> can ignite combustible materials such as parchment, straw, dry sticks, and cloth.<\/p><h3>By the way&#8230;<\/h3><p>This spell can start fires on a ship.<\/p>",
+    "mythicText": "The blade's damage increases to 2d6 points of fire damage + 1 point per caster level (maximum +20). The blade threatens a critical hit on a natural 18–20 as if it were an actual scimitar. ",
+    "name_zh": "火焰刀",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "0尺",
+    "effect_zh": "剑形光束",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>从你的手中喷射出一道三尺长，赤热的火焰光束。你能像持握着弯刀 (scimitar) 一样挥舞这道刃状光束。使用火焰刀攻击是近战接触攻击。它造成 {1d8+1/2CL (最高+10)} 点火焰伤害。由于这把刀是非物质的，因此你的力量修正无法用于影响它的伤害。火焰刀可以引燃易燃材料，例如羊皮纸、稻草、干柴，以及衣服。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "water of lamashtu",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/water-of-maddening/",
+    "name": "Water of Lamashtu",
+    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "alchemist": 2,
+        "antipaladin": 2,
+        "cleric": 3,
+        "druid": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (250 gp of powdered amber)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "up to 1 flask per 2 levels",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "no",
+    "text": "<p>This spell generates what appears to be clear, pure water, but it is in fact a foul secretion known as <em>water of Lamashtu<\/em>. The liquid functions in all the same ways as unholy water (see curse water).<\/p><p>In addition, any creature that is anointed with or drinks this fluid must attempt a Fortitude save (drinking the <em>water of Lamashtu<\/em> is particularly effective—a creature that drinks the liquid takes a –4 penalty on its save to resist its effects). Success causes the creature to become violently ill, vomit up the fluid, and become sickened for 1d4 rounds. Failure indicates the water takes root and wreaks havoc on the victim's mind (dealing 1d6 points of Intelligence damage) and twists and deforms its body (dealing 1d6 points of Dexterity damage). The subject's Dexterity and Intelligence cannot drop below 1 as a result of this effect. Casting this spell creates approximately 2 ounces—enough for one dose or, if bottled, one use as a thrown weapon.<\/p><p>The fluid can be created and stored indefinitely, though it cannot be created inside a creature. Extensive exposure to the <em>water of Lamashtu<\/em> (such as drinking nothing else for months at a time) can have other long-term effects on the target, including the development of monstrous deformities or even total transformation into a beast, depending on the GM's discretion (these mutations are rarely, if ever, beneficial to the victim).<\/p>",
+    "name_zh": "拉玛什图之水",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（价值 250 gp 的琥珀粉末）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "最多每两个等级1瓶的拉玛什图之水",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术会制造出看上去清澈无比的纯水，但它实际上是一种叫做“拉玛什图之水”的邪恶分泌物。这种液体与邪水完全相同（详见诅咒邪水）。此外，涂抹（anointed）或饮用这液体的生物必须通过强韧豁免（饮用拉玛什图之水时效果尤其强力，饮用该液体的生物在抵抗其效果的豁免上要承受–4减值）。成功会使得该生物感到猛烈反胃，吐出该液体并恶心1d4轮。失败代表邪水深入骨髓，给受害者的心灵带来毁灭性的打击（造成1d6点智力伤害）并使其身体变得畸形（造成1d6点敏捷伤害）。此效果不能使目标的敏捷与智力降到1以下。施展此法术会制造出大约2盎司的拉玛什图之水，大约是一份的量，或者装瓶的话，足够用来作为一次溅射武器使用。\n此液体制造出来后可以无限期保存，但是不能直接在生物体内制造。长期接触拉玛什图之水（例如好几个月除了拉玛什图之水什么都不喝）可能会让目标承受其它长期效果，例如更进一步出现恐怖的畸变，或甚至完全变形成野兽，由GM定夺（即便真有这种可能，这些突变也很少对受害者产生有利影响）。<\/p>",
+    "source": "BotD"
+}

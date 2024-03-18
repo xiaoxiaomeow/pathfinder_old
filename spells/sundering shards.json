@@ -1,0 +1,32 @@
+{
+    "key": "sundering shards",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sundering-shards/",
+    "name": "Sundering Shards",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "target": "melee weapon touched",
+    "duration": "1 hour/level or until discharged",
+    "savingThrow": "Reflex negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You channel power into a melee weapon. If the weapon's wielder destroys an item with a successful sunder combat maneuver, she can release the extra power in the weapon, shattering the sundered item into jagged shards that deal 1d6 points of piercing and slashing damage to the creature that was wearing, carrying, or wielding the now-shattered item. Any creature (other than the wielder of the weapon targeted by this spell) adjacent to that creature must succeed at a Reflex saving throw or take 1d6 points of piercing and slashing damage from flying shards. The shards also count as whatever special materials the sundered item was made of (for example, the shards from a shattered cold iron weapon are cold iron). Once the weapon's extra power is unleashed, the spell is discharged.<\/p><\/div>",
+    "name_zh": "破片四溅",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "接触",
+    "target_zh": "接触到的近战武器",
+    "duration_zh": "1小时/等级 或 直至耗散",
+    "savingThrow_zh": "反射，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向一个近战武器中灌入能量。若武器的持用者成功使用破武战技摧毁一件物品，那么她能够施放武器中的额外力量，将被破坏的物品化为锯齿状的破片，对穿戴、携带或持有被破坏物品的生物造成1d6点穿刺和挥砍伤害。任何与其相邻的生物（作为该法术目标的武器的持用者之外的生物）必须进行反射豁免检定，失败则会由于飞溅的破片而受到1d6点穿刺和挥砍伤害。这些碎片还被视为制作被击破武器的特殊材料（若被击破的是寒铁武器，那么碎片也被视为寒铁）。一旦武器的额外力量被释放出来，该法术便被耗散。<\/p>",
+    "source": "ACG"
+}

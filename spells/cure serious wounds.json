@@ -1,0 +1,25 @@
+{
+    "key": "cure serious wounds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cure-serious-wounds/",
+    "name": "Cure Serious Wounds",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "alchemist": 3,
+        "bard": 3,
+        "cleric/oracle": 3,
+        "druid": 4,
+        "inquisitor": 3,
+        "paladin": 4,
+        "shaman": 3,
+        "ranger": 4,
+        "witch": 4
+    },
+    "domains": {"healing": 3},
+    "text": "<p>This spell functions like cure light wounds, except that it cures 3d8 points of damage + 1 point per caster level (maximum +15).<\/p>",
+    "mythicText": "The damage cured increases to 6d8 points of damage + 2 points per caster level (maximum +30). The spell cures up to 3 points of ability damage if the target is a living creature. The target chooses what types of ability damage are cured. <br><\/div>",
+    "name_zh": "治疗重伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds\">治疗轻伤 (cure light wounds)<\/a>’一般，不过它能治疗 {3d8+CL (最高+15)} 点伤害。<\/p>",
+    "source": "CRB"
+}

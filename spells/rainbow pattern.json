@@ -1,0 +1,31 @@
+{
+    "key": "rainbow pattern",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rainbow-pattern/",
+    "name": "Rainbow Pattern",
+    "school": "illusion",
+    "subSchool": ["pattern"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 4
+    },
+    "mysteries": {"heavens": 4},
+    "castingTime": "1 standard action",
+    "components": "V (bard only), S, M (a piece of phosphor), F (a crystal prism); see text",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "colorful lights with a 20-ft.-radius spread",
+    "duration": "concentration +1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>A glowing, rainbow-hued pattern of interweaving colors fascinates those within it. <i>Rainbow pattern<\/i> fascinates a maximum of 24 HD of creatures. Creatures with the fewest HD are affected first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. An affected creature that fails its saves is fascinated by the pattern.<\/p><p>With a simple gesture (a free action), you can make the <i>rainbow pattern<\/i> move up to 30 feet per round (moving its effective point of origin). All fascinated creatures follow the moving rainbow of light, trying to remain within the effect. Fascinated creatures who are restrained and removed from the pattern still try to follow it. If the pattern leads its subjects into a dangerous area, each fascinated creature gets a second save. If the view of the lights is completely blocked, creatures who can't see them are no longer affected.<\/p><p>The spell does not affect sightless creatures.<\/p>",
+    "name_zh": "虹彩图纹",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言 (限吟游诗人)，姿势, 材料 (一块磷), 器材 (一块水晶棱镜); 见后文",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "20尺半径扩散区域的彩色光芒",
+    "duration_zh": "专注 + 1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一个由多种色彩交织而成的彩虹般的图纹使它范围内的生物陷入迷魂状态。虹彩图纹可使HD总数不超过24的多个生物迷魂。HD最少的生物首先受到影响。HD相等的生物中，最靠近法术源起点的生物首先受到影响。受到影响的生物如果意志豁免失败，则会因这个图纹而迷魂。<\/p><p>用一个简单的手势 (自由动作)，你可以使此虹彩图纹以最高每轮30尺的速度移动 (移动它的源起点)。所有迷魂的生物会跟随着移动的图纹，试图进入或保持在图纹效果范围内。受到限制或离开图纹的迷魂生物仍然会试图跟随着它。如果图纹将把受它影响的生物带入危险区域，所有迷魂的生物将得到第二次豁免。如果图纹的光芒被完全阻挡，看不到它的生物将不再受到影响。<\/p><p>此法术不会影响无视力的生物。<\/p>",
+    "source": "CRB"
+}

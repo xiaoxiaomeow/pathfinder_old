@@ -1,0 +1,32 @@
+{
+    "key": "guidance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/guidance/",
+    "name": "Guidance",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 0,
+        "druid": 0,
+        "inquisitor": 0,
+        "summoner/unchained summoner": 0,
+        "witch": 0
+    },
+    "elementalSchools": {"void": 0},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min. or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>This spell imbues the subject with a touch of divine guidance.<\/p><p>The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.<\/p>",
+    "name_zh": "神导术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟 或 直至能量发散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术通过接触将神之指引灌注给受术者。生物的单次攻击检定、豁免检定、或技能检定获得+1表现加值。他必须在进行法术可以应用的检定之前，决定是否使用此加值。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,23 @@
+{
+    "key": "cure critical wounds, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/",
+    "name": "Cure Critical Wounds, Mass",
+    "base": "cure critical wounds",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "cleric/oracle": 8,
+        "druid": 9,
+        "shaman": 8,
+        "witch": 9
+    },
+    "domains":     {
+        "community": 8,
+        "healing": 8
+    },
+    "text": "<p>This spell functions like <i>mass cure light wounds<\/i>, except that it cures 4d8 points of damage + 1 point per caster level (maximum +40).<\/p><\/div>",
+    "name_zh": "群体治疗致命伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds, mass\">群体治疗轻伤 (cure light wounds, mass)<\/a>’一般，不过它能治疗 {4d8+CL (最高+40)} 点伤害。<\/p>",
+    "source": "CRB"
+}

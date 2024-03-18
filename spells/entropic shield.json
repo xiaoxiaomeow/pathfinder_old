@@ -1,0 +1,28 @@
+{
+    "key": "entropic shield",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/entropic-shield/",
+    "name": "Entropic Shield",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 1,
+        "psychic": 1
+    },
+    "subdomains": {"entropy": 1},
+    "mysteries": {"dark tapestry": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>A magical field appears around you, glowing with a chaotic blast of multicolored hues. This field deflects incoming arrows, rays, and other ranged attacks. Each ranged attack directed at you for which the attacker must make an attack roll has a 20% miss chance (similar to the effects of concealment). Other attacks that simply work at a distance are not affected.<\/p>",
+    "mythicText": "When a ranged attack misses because of this spell, there is a 50% chance that the attack is redirected back at the attacker rather than just being deflected harmlessly. The attack uses the same result as the attack roll the attacker made against you. ",
+    "name_zh": "熵光护盾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>你周围出现闪着多种混乱色调的魔法场。这个魔法场可使箭矢、射线以及其他远程攻击偏斜。这些瞄准你的远程攻击的攻击者若必须做攻击检定的话，则有20%的失手率，这类似于隐蔽的效果。其他仅仅是从远处发起的攻击不受影响。<\/p>",
+    "source": "CRB"
+}

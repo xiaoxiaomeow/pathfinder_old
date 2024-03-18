@@ -1,0 +1,32 @@
+{
+    "key": "unerring weapon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unerring-weapon/",
+    "name": "Unerring Weapon",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 1,
+        "inquisitor": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>This spell causes a weapon to veer closer to vital areas, improving the result of a critical threat. This transmutation grants a +2 bonus on attack rolls to confirm critical hits plus 1 additional bonus point per four caster levels (maximum total bonus +7). If the spell is cast on projectiles, the effect ends on a specific projectile whenever that projectile is used to make an attack, regardless of whether the attack hits. For this spell, shuriken are considered projectiles.<\/p>",
+    "name_zh": "精准武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一把武器或20发弹药，必须在施放时聚在一起",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>这个法术让武器可以自动寻找敌人的弱点，提高重击的效果。<\/p><p>这个变化会让使用该武器确认重击的攻击检定获得+2加值，每4施法者等级增加1点 (最高7)。<\/p><p>如果法术被施放在弹药上，每一发弹药上的法术效果会在进行攻击后消失，而无论该次攻击是否命中。<\/p><p>在这个法术中，手里剑算作弹药类别。<\/p>",
+    "source": "UC"
+}

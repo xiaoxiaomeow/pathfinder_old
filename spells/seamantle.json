@@ -1,0 +1,29 @@
+{
+    "key": "seamantle",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/seamantle/",
+    "name": "Seamantle",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["water"],
+    "levels":     {
+        "druid": 8,
+        "sorcerer/wizard": 8
+    },
+    "elementalSchools": {"water": 8},
+    "bloodlines": {"aquatic": 8},
+    "mysteries": {"waves": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a cup of water)",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>You sheathe yourself within a churning column of pure elemental water up to 30 feet high that fills your space. You gain a swim speed equal to your land speed and can see, hear, and breathe normally within the <i>seamantle<\/i>, but attacks against you are treated as if you were under the surface of the water. You gain improved cover (+8 cover bonus to AC, +4 bonus on Reflex saves) against foes that do not have freedom of movement effects. The cover granted by the <i>seamantle<\/i> does not enable you to make Stealth checks or prevent attacks of opportunity. Magical attacks against you are unaffected unless they require attack rolls or state that they do not function underwater (such as cloudkill).<\/p><p>The <i>seamantle<\/i> blocks line of effect for any fire spell or supernatural fire effect, but enemies can attempt to use fire spells within the <i>seamantle<\/i>; this requires a caster level check (DC 20 + spell level), and if successful the fire spell takes as a bubble of steam contained within the <i>seamantle<\/i> rather than its usual effect.<\/p><p>The <i>seamantle<\/i> allows you to make a slam attack by forming a pseudopod of water, inflicting damage appropriate for your size. This slam attack has a reach of 30 feet. In addition, as a standard action, you can attempt to extinguish fires by touch.<\/p><p>You automatically extinguish up to a 10-foot cube of normal fire. Against magical fire effects, your touch acts as dispel magic; this also applies to any non-instantaneous fire affect that comes into contact with you (such as flame blade, flaming sphere, or incendiary cloud). Even if you fail to extinguish a fire, you are not harmed by it. A <i>flaming<\/i> or <i>flaming burst<\/i> weapon that strikes you has its power suppressed for 1d4 rounds if the wielder fails a Fortitude save.<\/p>",
+    "name_zh": "水幕天华",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一杯水)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你将自己包裹在一个由翻腾的纯净元素之水构成的圆柱中，它充斥着你占据的整个方格，并且向上延伸最多30英尺高。<\/p><p>你获得等同陆地速度的游泳速度，并且可以在法术区域内正常看、听和呼吸，但是外界针对你的攻击被视为你位于水面以下。<\/p><p>在针对那些没有行动自如 (freedom of movement) 效果的敌人时，你获得掩蔽效果 (AC获得+8掩蔽加值，反射检定获得+4掩蔽加值)。本法术赋予的掩蔽效果不能让你进行隐秘行动检定或是免于被藉机攻击。<\/p><p>针对你的魔法攻击不会受到影响，除非是需要攻击投骰或无法影响水下目标的 (例如死云术 (Cloudkill) )。<\/p><p>本法术会阻挡任何火焰法术或超自然火焰效果的效果线，但是敌人可以尝试穿透本法术效果施放火焰法术，这需要一个施法者等级检定 (DC为20加法术等级)；如果成功的话，法术的视觉效果将并非由火焰，而是由水体内部的气泡来加以表现。<\/p><p>本法术可以允许你每一轮一次将塑造成型并进行挥击。这会造成与你体型相应的伤害。这次挥击伤害的触及范围是30尺。<\/p><p>此外，你可以用标准动作触摸一处火焰以尝试将其熄灭。你可以自动熄灭最多10英尺边长立方体的普通火焰。对于魔法火焰效果，你可以接触它，并产生如同一次解除魔法的效果；这也适用于作用于你的任何非立即生效的火焰效果 (如火焰刀 (Flame Blade)，炽焰法球 (Flaming Sphere) 或焚云术 (incendiary cloud) )。即使你无法熄灭火焰，你也不会被它伤害。<\/p><p>如果一把炽焰或焰爆武器命中你，持有者必须进行一次强韧检定，失败将会导致其魔法能量被压制1d4轮。<\/p>",
+    "source": "APG"
+}

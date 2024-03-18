@@ -1,0 +1,29 @@
+{
+    "key": "borrow skill",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-skill/",
+    "name": "Borrow Skill",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "psychic": 1
+    },
+    "subdomains": {"cooperation": 1},
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "touch",
+    "duration": "up to 1 round/level (see description)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You borrow one of the target's known skills. After touching the subject, you can make a single check with the chosen skill using the subject's skill ranks, but modified by your own key ability.<\/p><p>If you take longer than the spell's duration to make the check or the check requires more time, then it fails and you must use your own skill ranks (if any). If the borrowed skill is a class skill for you, you gain the +3 bonus on checks using that skill.<\/p>",
+    "name_zh": "借技术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "最多1轮/等级 (见描述)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你借用一种目标的已知技能。在接触受术者之后，你可以使用所选技能，应用受术者的技能等级进行单一一次检定，但是仍旧使用你的属性调整值。如果你进行检定的时间比法术持续时间更长，或者该次检定要求更多的时间，那么法术失败，并且你必须使用你自己的技能等级 (如果有的话)。如果借来的技能对你来说是本职技能，那么你会在使用该技能时检定获得+3加值。<\/p>",
+    "source": "APG"
+}

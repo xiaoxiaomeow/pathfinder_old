@@ -1,0 +1,30 @@
+{
+    "key": "shrink item",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shrink-item/",
+    "name": "Shrink Item",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "occultist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one touched object of up to 2 cu. ft./level",
+    "duration": "1 day/level; see text",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You are able to shrink one non-magical item (if it is within the size limit) to 1/16 of its normal size in each dimension (to about 1/4,000 the original volume and mass). This change effectively reduces the object's size by four categories. Optionally, you can also change its now shrunken composition to a cloth-like one. Objects changed by a <i>shrink item<\/i> spell can be returned to normal composition and size merely by tossing them onto any solid surface or by a word of command from the original caster. Even a burning fire and its fuel can be shrunk by this spell. Restoring the shrunken object to its normal size and composition ends the spell.<\/p><p><i>Shrink item<\/i> can be made permanent with a <i>permanency<\/i> spell, in which case the affected object can be shrunk and expanded an indefinite number of times, but only by the original caster.<\/p>",
+    "name_zh": "缩物术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的物体，体积至多为2立方尺/等级",
+    "duration_zh": "1日/等级; 见后文",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你可将体一个非魔法物体 (若它在尺寸限定的大小之内) 在各方面缩小至正常大小的1/16 (这使得它的体积和质量缩小至1/4000)。这种变化会导致物体的体型减小4级。你也可以选择将被缩小物体上的部分构造变得和布料差不多。被缩物术改变的物体只要丢到固体表面、或者由原施法者下令，便能恢复至原有的构造和大小。即便是燃烧中的火焰及其燃料也可被该法术缩小。被缩小的物体变回原状后，法术即告结束。<\/p><p>缩物术可通过‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定，此时受影响的物体可以无限制地变小再还原，但只能由原施法者下令才能进行。<\/p>",
+    "source": "CRB"
+}

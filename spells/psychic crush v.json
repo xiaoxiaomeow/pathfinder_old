@@ -1,0 +1,14 @@
+{
+    "key": "psychic crush v",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
+    "name": "Psychic Crush V",
+    "base": "psychic crush i",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 9},
+    "text": "<p>This functions as <i>psychic crush IV<\/i>, but on a successful Fortitude or Will save, the target takes 11d6 points of damage + 1 point of damage per caster level. If it is at fewer than half its total hit points, the target takes a –2 penalty on the Will save to resist this spell. This spell can be undercast.<\/p><\/div>   <\/div>  <\/div> <\/div>",
+    "name_zh": "心灵碾压 V",
+    "text_zh": "<p>该法术的功能如同心灵碾压 IV（Psychic Crush IV）一般，不过成功通过强韧豁免或意志豁免时，目标会受到11d6 + 每施法者等级1点伤害。如果目标剩余的总生命值低于半额，还会在抵御该法术的意志豁免中受到-2减值。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

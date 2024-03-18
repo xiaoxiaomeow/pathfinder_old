@@ -1,0 +1,29 @@
+{
+    "key": "major creation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/major-creation/",
+    "name": "Major Creation",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "sorcerer/wizard": 5,
+        "summoner/unchained summoner": 4,
+        "witch": 5
+    },
+    "domains": {"artifice": 6},
+    "subdomains": {"flotsam": 5},
+    "elementalSchools":     {
+        "metal": 5,
+        "void": 5
+    },
+    "mysteries": {"metal": 5},
+    "castingTime": ": 10 minutes",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "see text",
+    "text": "<p>This spell functions like <i>minor creation<\/i>, except that you can also create an object of mineral nature: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.<\/p><table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Hardness and Rarity Examples<\/th><th class=\"text\">Duration<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">Vegetable matter<\/td><td class=\"text\">2 hr./level<\/td><\/tr><tr><td class=\"text\">Stone, crystal, base metals<\/td><td class=\"text\">1 hr./level<\/td><\/tr><tr><td class=\"text\">Precious metals<\/td><td class=\"text\">20 min./level<\/td><\/tr><tr><td class=\"text\">Gems<\/td><td class=\"text\">10 min./level<\/td><\/tr><tr><td class=\"text\">Rare metal*<\/td><td class=\"text\">1 round/level<\/td><\/tr><\/tbody><\/table><p style=\"font-size: 12px\">* Includes adamantine, alchemical silver, and mithral. You can't use major creation to create a cold iron item.<\/p>",
+    "name_zh": "强效造物术",
+    "castingTime_zh": "10分钟",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "duration_zh": "见后文",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=minor creation\">弱效造物术 (minor creation)<\/a>’一般，不过你还可以造出矿物性质的物体，如：石头、水晶、金属等等。创造物的持续时间跟它的硬度与稀有度有关，详见下表：\n硬度与稀有度范例\n 持续时间\n植物\n 2小时/等级\n石头, 水晶, 一般金属\n 1小时/等级\n贵金属\n 20分钟/等级\n宝石\n 10分钟/等级\n稀有金属*\n 1轮/等级\n* 包括精金, 炼银以及秘银. 你无法使用强效造物术创造寒铁物品。<\/p>",
+    "source": "CRB"
+}

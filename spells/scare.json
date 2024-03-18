@@ -1,0 +1,43 @@
+{
+    "key": "scare",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scare/",
+    "name": "Scare",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "spiritualist": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "subdomains": {"fear": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bone from an undead creature)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level or 1 round; see text for <i>cause fear<\/i>",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like <i>cause fear<\/i>, except that it causes all targeted creatures of less than 6 HD to become frightened.<\/p>",
+    "name_zh": "恐吓术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (不死生物的骨头)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每三个等级一个活物, 任意两者之间的距离不超过30尺",
+    "duration_zh": "1轮/等级 或 1轮; 见惊恐术描述",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cause fear\">惊恐术 (cause fear)<\/a>’一般，不过它能够使低于6HD的目标生物变得惊惧。<\/p>",
+    "source": "CRB"
+}

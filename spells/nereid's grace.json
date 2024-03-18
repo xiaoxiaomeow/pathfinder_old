@@ -1,0 +1,26 @@
+{
+    "key": "nereid's grace",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nereid-s-grace/",
+    "name": "Nereid's Grace",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "druid": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>You radiate the unearthly grace of a nereid. If you're not wearing armor, you gain a deflection bonus to your AC and CMD equal to your Charisma bonus (maximum +3). The maximum increases by 1 for every 6 levels you possess (maximum +6 at 18th level).<\/p>",
+    "name_zh": "海灵优雅",
+    "race_zh": "水元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自身",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>你浑身散发着海灵的超自然魅力。如果你没有穿戴盔甲，你可以在AC以及CMD上获得等同于你魅力加值的偏斜加值（最高+3）。这个最大值每有6个施法者等级就+1（最高18级+6）。<\/p>",
+    "source": "ARG"
+}

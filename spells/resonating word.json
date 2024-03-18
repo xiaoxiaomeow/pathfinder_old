@@ -1,0 +1,30 @@
+{
+    "key": "resonating word",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resonating-word/",
+    "name": "Resonating Word",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["sonic"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "3 rounds",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You speak a terrible word of power, setting up potentially lethal vibrations in the chosen target. The target must save once each round on your turn, and the effects grow stronger for each saving throw the creature fails.<\/p><p style=\"margin-left:40px\"><i>On the first round<\/i>, the target takes 5d6 points of sonic damage and is staggered for 1 round. A successful save halves the damage and negates the staggered effect.<\/p><p style=\"margin-left:40px\"><i>On the second round<\/i>, the target takes 5d6 points of damage and is stunned for 1 round. A successful save halves the damage and negates the stunning effect.<\/p><p style=\"margin-left:40px\"><i>On the third round<\/i>, the target takes 10d6 points of damage and is stunned for 1d4+1 rounds. A successful save halves the damage and negates the stunning effect.<\/p><p>The <i>resonating word<\/i> has no power after the third round, even if the spell's duration is increased.<\/p>",
+    "name_zh": "共振之语",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "3轮",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你说出一个带有可怕力量的单字，让它的声响在选定目标身上产生潜在而致命的震动。<\/p><p>目标在每一轮当你行动时都需要进行一次豁免检定，每当检定失败，受到的影响就会变得更大。<\/p><p>第一轮，目标受到5d6点音波伤害，并且恍惚 (staggered) 一轮。成功的豁免检定可以减半伤害并免疫恍惚效果。<\/p><p>第二轮，目标受到5d6点音波伤害，并且震慑 (stunned) 一轮。成功的豁免检定可以减半伤害并免疫震慑效果。<\/p><p>第三轮，目标受到10d6点音波伤害，并且震慑 (stunned) 1d4+1轮。成功的豁免检定可以减半伤害并免疫震慑效果。<\/p><p>本法术在第三轮以后将不会产生任何效果，即使你用某些方式增加了法术持续时间。<\/p>",
+    "source": "UM"
+}

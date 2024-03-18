@@ -1,0 +1,13 @@
+{
+    "key": "plant shape iii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-shape-i/",
+    "name": "Plant Shape III",
+    "base": "plant shape i",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels": {"sorcerer/wizard": 7},
+    "text": "<p>This spell functions as <i>plant shape II<\/i> except that it also allows you to assume the form of a Huge creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: Damage Reduction, regeneration 5, and trample.<\/p>",
+    "name_zh": "植物形态 III",
+    "text_zh": "<p>该法术的功能如同‘植物形态II’一般，不过它还允许你变为任何植物类型中，超大型生物的形态。如果该形态的生物拥有下述的能力，那么你也会获得：DR，再生5以及践踏。<\/p><p>超大型植物：如果你选择超大型植物的形态，你的力量获得+8体型加值，敏捷受到-2减值，体质获得+4体型加值，以及+6天生护甲加值。<\/p>",
+    "source": "CRB"
+}

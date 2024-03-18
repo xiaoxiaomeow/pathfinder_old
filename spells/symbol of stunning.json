@@ -1,0 +1,21 @@
+{
+    "key": "symbol of stunning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-stunning/",
+    "name": "Symbol of Stunning",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "components": "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)",
+    "savingThrow": "Will negates",
+    "text": "<p>This spell functions like <i>symbol of death<\/i>, except that all creatures within 60 feet of a <i>symbol of stunning<\/i> instead become stunned for 1d6 rounds.<\/p>",
+    "name_zh": "震慑徽记",
+    "components_zh": "语言, 姿势, 材料 (水银、磷以及钻石和猫眼石粉末，总价值为5000gp)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "text_zh": "<p>此法术作用类似于‘<a href=\"spell.html?spell=symbol of death\">死亡徽记 (symbol of death)<\/a>’，不过震慑徽记会使60尺范围内的所有生物震慑1d6轮。<\/p><p>注意：诸如震慑徽记之类的魔法陷阱是很难被侦测、解除的。尽管任何角色都能够使用察觉技能来找到徽记，不过只有具有【寻找陷阱】职业能力的角色才能使用解除装置来将其解除。DC为 {25+法术环位}，对于震慑徽记来说则是32。<\/p>",
+    "source": "CRB"
+}

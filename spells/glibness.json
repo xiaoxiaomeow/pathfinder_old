@@ -1,0 +1,21 @@
+{
+    "key": "glibness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glibness/",
+    "name": "Glibness",
+    "school": "transmutation",
+    "levels": {"bard": 3},
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min./level (d)",
+    "text": "<p>Your speech becomes fluent and more believable, causing those who hear you to believe every word you say. You gain a +20 bonus on Bluff checks made to convince another of the truth of your words. This bonus doesn't apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a hidden message via innuendo.<\/p><p>If a magical effect is used against you that would detect your lies or force you to speak the truth, the user of the effect must succeed on a caster level check (1d20 + caster level) against a DC of 15 + your caster level to succeed. Failure means the effect does not detect your lies or force you to speak only the truth.<\/p>",
+    "name_zh": "花言巧语",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>你的讲话很流利，而且更可信，这使得那些听你说话的人更加相信你所说出的事情。当你进行唬骗检定，来让他人相信你所说内容的是真实的时候，检定获得+20加值。该加值不能用在唬骗技能的其他使用方式上，例如战斗中的虚招，转移注意力来躲藏，或者使用暗语来传递隐藏信息等。<\/p><p>如果有魔法效果来检查你是否说谎，或者强迫你只能说真话，那么该效果的使用者必须进行一次施法者等级检定 (1d20 + CL)，对抗DC为 {15+你的CL}。检定失败意味着该效果没有侦测出你撒谎，或者未能迫使你只说真话。<\/p>",
+    "source": "CRB"
+}

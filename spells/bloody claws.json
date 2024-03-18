@@ -1,0 +1,28 @@
+{
+    "key": "bloody claws",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloody-claws/",
+    "name": "Bloody Claws",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "druid": 4,
+        "ranger": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You give a creature the ability to deal bleed damage when making natural attacks so long as the attack deals slashing or piercing damage. This bleed damage for each attack is equal to one-half your caster level (limited to the creature's maximum damage with that attack), though bleed damage does not stack. When two or more attacks deal bleed damage, take the worse effect.<\/p>",
+    "name_zh": "血腥之爪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你使目标的天生武器获得特殊能力——只要目标的天生武器攻击能造成挥砍或穿刺伤害，就会获得造成流血伤害的能力。每次攻击造成的流血伤害等同于你的施法者等级的一半 (但是不能超过生物该次攻击正常造成的最高伤害)，不过流血伤害不会叠加。当有2个或更多次攻击造成流血伤害，则选取最严重的效果。<\/p>",
+    "source": "APG"
+}

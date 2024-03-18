@@ -1,0 +1,36 @@
+{
+    "key": "curse of fell seasons",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-fell-seasons/",
+    "name": "Curse of Fell Seasons",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors":     [
+        "curse",
+        "darkness"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 9,
+        "shaman": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, F (darkwood carving of a tree worth 15,000 gp)",
+    "range": "touch",
+    "area": "2-mile radius emanating from the touched point",
+    "duration": "permanent (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>By touching the ground, you drastically change the weather in the area, as the unseasonable weather curse. The focus merges into the cursed area as part of the spell and can only be retrieved if the curse is lifted.<\/p>",
+    "name_zh": "诅咒：季节错乱",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、器材 (一颗由黑木雕刻而成的树。价值15000gp)",
+    "range_zh": "接触",
+    "area_zh": "从接触点起，弥漫半径2哩",
+    "duration_zh": "永久 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>透过触摸大地，你大大地改变此区域的天气，如同天气异变诅咒(见Page.145)。器材做为法术的一部分，与被诅咒区域相融合，只有当诅咒被解除时才能重新取回。<\/p>",
+    "source": "HA"
+}

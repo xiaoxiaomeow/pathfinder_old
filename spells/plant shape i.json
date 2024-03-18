@@ -1,0 +1,25 @@
+{
+    "key": "plant shape i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-shape-i/",
+    "name": "Plant Shape I",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>When you cast this spell you can assume the form of any Small or Medium creature of the plant type. If the form you assume has any of the following abilities, you gain the listed ability: darkvision 60 feet, low-light vision, <b>c<\/b>onstrict, grab, and poison. If the form you assume does not possess the ability to move, your speed is reduced to 5 feet and you lose all other forms of movement. If the creature has vulnerability to an element, you gain that vulnerability.<\/p>",
+    "name_zh": "植物形态 I",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (你想要变成的生物的一小块肢体)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>当你施放该法术，你能够变为任何植物类型中，小型或中型生物的形态。如果该形态的生物拥有下述的能力，那么你也会获得：60尺黑暗视觉，昏暗视觉，紧勒，攫抓以及毒素。如果在该形态下没有移动的能力，那么你的移动速度降低至5尺并且失去所有其他形式的移动方式。如果该生物对一种元素易伤 (vulnerability to an element)，那么你也获得该弱点。<\/p><p>小型植物：如果你选择小型植物的形态，你的体质获得+2体型加值以及+2天生护甲加值。<\/p><p>中型植物：如果你选择中型植物的形态，你的力量获得+2体型加值，体质获得+2增强加值，以及+2天生护甲加值。<\/p>",
+    "source": "CRB"
+}

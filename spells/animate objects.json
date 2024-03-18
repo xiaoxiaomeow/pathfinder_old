@@ -1,0 +1,32 @@
+{
+    "key": "animate objects",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animate-objects/",
+    "name": "Animate Objects",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 6,
+        "cleric/oracle": 6,
+        "witch": 6
+    },
+    "domains": {"chaos": 6},
+    "subdomains": {"flotsam": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.<\/p><p>An animated object can be of any non-magical material. You may animate one Small or smaller object or a corresponding number of larger objects as follows: A Medium object counts as two Small or smaller objects, a Large object as four, a Huge object as eight, a Gargantuan object as 16, and a Colossal object as 32. You can change the designated target or targets as a move action, as if directing an active spell.<\/p><p>This spell cannot affect objects carried or worn by a creature.<\/p><p><i>Animated objects<\/i> can be made permanent with a permanency spell.<\/p>",
+    "mythicText": "Animated objects you create with this spell get the maximum number of hit points per level, gain a +4 bonus to their Strength ability scores, and have 1–1/2 times the normal number of construction points. ",
+    "name_zh": "活化物体",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每CL一个小型物体; 见后文",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你给一件没生命的物体赋予了活动的能力和生命的表征。这些被活化的物体会立刻攻击之前你指定的任何人或任何东西。<\/p><p>活化物体可以是任何非魔法物质。你每个CL可以活化一件小型或更小的物体，或者相当于该数量的较大物体；一件中型物体算作两个小型或更小的物体，大型物体算四个，超大型算八个，巨型算十六个，超巨型算三十二个。你可以以移动动作来改变指定的目标或多个目标，如同引导已启动法术一样。<\/p><p>这个法术不能活化被生物携带或穿戴的物品。<\/p><p>活化物体可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

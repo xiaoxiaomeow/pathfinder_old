@@ -1,0 +1,33 @@
+{
+    "key": "animal messenger",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animal-messenger/",
+    "name": "Animal Messenger",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "druid": 2,
+        "psychic": 2,
+        "ranger": 1,
+        "shaman": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (a morsel of food the animal likes)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one tiny animal",
+    "duration": "1 day/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.<\/p><p>Using some type of food desirable to the animal as a lure, you call the animal to you. It advances and awaits your bidding. You can mentally impress on the animal a certain place well known to you or an obvious landmark. The directions must be simple, because the animal depends on your knowledge and can't find a destination on its own. You can attach a small item or note to the messenger. The animal then goes to the designated location and waits there until the duration of the spell expires, whereupon it resumes its normal activities.<\/p><p>During this period of waiting, the messenger allows others to approach it and remove any scroll or token it carries. The intended recipient gains no special ability to communicate with the animal or read any attached message (if it's written in a language he doesn't know, for example).<\/p>",
+    "name_zh": "动物信使",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言, 姿势, 材料 (一点动物喜欢的食物)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个超小型动物",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你迫使一只超小型动物去你指定的地点。该法术最通常的用法是让动物给你的盟友携带信息。此动物不能是任何被他人驯养过或训练过的，包括魔宠和动物伙伴。<\/p><p>你可以用某种该动物喜欢的食物来把它引诱过来。它会靠近过来并等待你的命令。你可以用精神将你所熟知的或者有明显地标的特定地点灌输给这个动物。这个方向必须很简单，这是因为该动物是依赖于你的知识而非靠自己去找到目的地。你可以让这个信使带上一些小东西或者便条。之后该动物会前往目的地，然后在那里等候，直到法术持续时间结束，之后它会继续它的正常活动。<\/p><p>在等候期间内，信使会允许其它人靠近它并拿走它所携带的卷轴或其它东西。信息接收者不会获得和此动物沟通的特殊能力，也不会获得阅读附带信息的特殊能力 (例如信息是被接收者所不懂的语言写成)。<\/p>",
+    "source": "CRB"
+}

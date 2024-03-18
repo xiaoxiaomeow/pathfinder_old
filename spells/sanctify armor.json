@@ -1,0 +1,29 @@
+{
+    "key": "sanctify armor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-armor/",
+    "name": "Sanctify Armor",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels":     {
+        "inquisitor": 4,
+        "paladin": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You imbue your armor with a righteous aura. It gains a +1 enhancement bonus per four caster levels (maximum +5 at 20th level). When using your judgment or smite ability, you gain DR 5/evil.<\/p><p>An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell.<\/p>",
+    "name_zh": "神圣护甲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的护甲",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>你使用正义的灵光将自身的护甲同质化。使其获得每4个施法者等级1点增强加值 (最高为20级时+5)。当你使用你的审判或制裁能力 (judgment or smite ability) 时，获得DR 5/邪恶。<\/p><p>一套普通的外衣对于该法术来说，视为提供0点AC加值的护甲。<\/p>",
+    "source": "APG"
+}

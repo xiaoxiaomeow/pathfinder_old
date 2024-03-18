@@ -1,0 +1,29 @@
+{
+    "key": "touch of fatigue",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-fatigue/",
+    "name": "Touch of Fatigue",
+    "school": "necromancy",
+    "levels":     {
+        "shaman": 0,
+        "sorcerer/wizard": 0,
+        "witch": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of sweat)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target. The subject is immediately fatigued for the spell's duration.<\/p><p>This spell has no effect on a creature that is already fatigued. Unlike with normal fatigue, the effect ends as soon as the spell's duration expires.<\/p>",
+    "name_zh": "疲乏之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴汗水)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你在接触时引导负能量使目标陷入疲乏。你必须通过成功的接触攻击来攻击到目标。对方会立即在法术持续时间内陷入疲乏状态。<\/p><p>本法术对已经陷入疲乏的生物无效。和普通的疲乏不同，这效果会在法术持续时间结束后消失。<\/p>",
+    "source": "CRB"
+}

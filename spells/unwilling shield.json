@@ -1,0 +1,30 @@
+{
+    "key": "unwilling shield",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unwilling-shield/",
+    "name": "Unwilling Shield",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "bard": 5,
+        "inquisitor": 5,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (ruby dust worth 250 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Like <i>shield other<\/i>, <i>unwilling shield<\/i> creates a mystic connection between you and the target, but unlike <i>shield other<\/i>, the target shares the wounds that you receive. In addition, the link draws upon the target's life force to supplement your own defenses. You gain a +1 luck bonus to AC and on saving throws. You take only half damage from all wounds and attacks (including those dealt by special abilities) that deal hit point damage. The amount of damage not taken by you is taken by the target. Forms of harm that do not involve hit points, such as <i>charm<\/i> effects, ability damage, level draining, and death effects are not affected. If you take a reduction in hit points from a lowered Constitution score, the reduction is not split with the target because it is not hit point damage.<\/p><p>When the spell ends, subsequent damage is no longer divided between you and the subject, but damage already split is not assigned to you.<\/p><p>If you and the target of the spell move out of range of each other, the spell remains active, but damage is no longer shared until you are once again within range of each other.<\/p>",
+    "name_zh": "强迫护卫",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值250GP的红宝石粉)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>类似护卫他人 (Shield Other)，本法术将会在你和目标之间创建一条神秘的链接，不过与护卫他人不同，这个目标将会分享你受到的伤害。<\/p><p>此外，本法术还会吸收对方的生命能量以增强你的防御能力。你的AC和豁免检定获得+1幸运加值。<\/p><p>所有减损生命值的伤害效果和攻击都只会对你造成一半伤害 (包括特殊能力造成的伤害)。减免的部分则由不幸的对手替你承担。<\/p><p>如果攻击不造成生命值损失，例如魅惑效果、属性伤害、等级吸取或即死效果，都不会受到本法术的减免。而如果是由于你的体质属性减少而造成生命值下降，由于这不是攻击造成的伤害所以也不会与目标分摊。<\/p><p>法术结束后，你和目标将不再会分摊伤害，但是之前分摊的伤害不会重新反馈给你。<\/p><p>如果你和目标之间的距离超过法术范围，法术仍然持续，但是在你们的距离重新回到范围之前，不会再分摊伤害。<\/p>",
+    "source": "APG"
+}

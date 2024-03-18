@@ -1,0 +1,19 @@
+{
+    "key": "chameleon stride, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chameleon-stride/",
+    "name": "Chameleon Stride, Greater",
+    "base": "chameleon stride",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels": {"ranger": 3},
+    "range": "5 ft.",
+    "area": "allies in a 10-ft.-radius emanation centered on you",
+    "duration": "1 min./level (see text)",
+    "text": "<p>This spell functions as <i>chameleon stride<\/i>, except it confers its bonuses upon all allies within 10 feet of you at the time the spell is cast. Those affected by this spell are able to see each other and themselves as if they were unaffected by the spell. If an affected creature moves out of the area, it loses the benefit of the spell. Creatures that move into the area after the spell is cast do not gain its benefit.<\/p><\/div>",
+    "name_zh": "高等变色龙诡步",
+    "area_zh": "：以你为中心，半径10尺发散区域内的盟友",
+    "duration_zh": "1分钟/等级（见后文）",
+    "text_zh": "<p>该法术的功能如同变色龙诡步（Chameleon Stride；出自APG）一般，不过它会将加值赋予给施放法术时距离你10尺范围内的所有盟友。受到该法术影响的生物能够看到彼此和自己，就如同没有受到法术影响一般。若受到影响的生物移出了法术的区域，则会失去法术带来的好处。在施法后进入法术区域的生物不会获得法术的效果。<\/p>",
+    "source": "ACG"
+}

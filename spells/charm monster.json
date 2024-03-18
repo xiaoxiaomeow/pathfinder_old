@@ -1,0 +1,26 @@
+{
+    "key": "charm monster",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/charm-monster/",
+    "name": "Charm Monster",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 4,
+        "summoner": 3,
+        "unchained summoner": 4,
+        "witch": 4
+    },
+    "domains": {"charm": 5},
+    "elementalSchools": {"wood": 4},
+    "mysteries": {"juju": 4},
+    "target": "one living creature",
+    "duration": "1 day/level",
+    "text": "<p>This spell functions like <i>charm person<\/i>, except that the effect is not restricted by creature type or size.<\/p><p><\/p>",
+    "name_zh": "魅惑怪物",
+    "target_zh": "一个活物",
+    "duration_zh": "1天/等级",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Charm Person\">魅惑人类 (Charm Person)<\/a>’一般，不过法术效果不受生物类型和体型的限制。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "escaping ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/escaping-ward/",
+    "name": "Escaping Ward",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2,
+        "magus": 2,
+        "ranger": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>This ward grants you extra maneuverability when you avoid attacks against larger foes. While affected by this spell, when you are attacked and missed by a creature that is at least one size category larger than you, you can, as an immediate action, move up to 5 feet away from the attacking creature. You can increase this movement by 5 feet for every 5 caster levels. This movement does not provoke attacks of opportunity.<\/p>",
+    "name_zh": "逃之夭夭",
+    "race_zh": "半身人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>当你闪躲较大的敌人攻击时，这个法术给予你灵活性。法术持续时，当你被一个至少比你大一个体型的敌人攻击、并且闪躲了此次攻击后，你能以一个直觉动作移动5尺来远离此敌人。每5个施法者等级此次移动距离增加5尺。此次移动不会引发藉机攻击。<\/p>",
+    "source": "ARG"
+}

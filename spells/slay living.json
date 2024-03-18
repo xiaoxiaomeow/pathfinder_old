@@ -1,0 +1,36 @@
+{
+    "key": "slay living",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/slay-living/",
+    "name": "Slay Living",
+    "school": "necromancy",
+    "descriptors": ["death"],
+    "levels":     {
+        "antipaladin": 4,
+        "cleric/oracle": 5,
+        "shaman": 6,
+        "witch": 6
+    },
+    "domains":     {
+        "death": 5,
+        "repose": 5
+    },
+    "mysteries": {"bones": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You can attempt to slay any one living creature. When you cast this spell, your hand seethes with eerie dark fire. You must succeed on a melee touch attack to touch the target. The target takes 12d6 points of damage + 1 point per caster level. If the target's Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.<\/p>",
+    "name_zh": "杀生术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你可以杀死任何活物。当你施放该法术时，你的手掌燃起可怕的黑暗之炎。你必须成功进行近战接触攻击的碰触目标。目标受到 {12d6+CL} 点伤害。若目标的强韧豁免成功，则只受到 {3d6+CL} 点伤害。即便受术者成功豁免该法术，他也可能由于伤害而死亡。<\/p>",
+    "source": "CRB"
+}

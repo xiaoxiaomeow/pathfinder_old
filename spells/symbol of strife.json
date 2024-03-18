@@ -1,0 +1,24 @@
+{
+    "key": "symbol of strife",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-strife/",
+    "name": "Symbol of Strife",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "components": "V, S, M (mercury and phosphorous, plus powdered diamond opal worth a total of 15,000 gp)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as symbol of death, except all creatures within the radius of a <i>symbol of strife<\/i> are compelled to attack the nearest conscious creature for 1 round per caster level (similar to the “attack nearest creature” result of the confusion spell), even after leaving the symbol's area of effect. If no other creatures are visible, an affected creature can act normally. Once triggered, the symbol remains active for 10 minutes per caster level.<\/p><p><i>Symbol of strife<\/i> can be made permanent with a permanency spell by a caster of 18th level or higher for the cost of 25,000 gp.<\/p>",
+    "name_zh": "斗争徽记",
+    "components_zh": "语言, 姿势, 材料 (水银、磷，加上合计15000gp的钻石和蛋白石粉末)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式类似死亡徽记 (symbol of death)，不过所有在斗争徽记影响范围内的生物都会被强迫攻击离自己最近的有意识的生物，类似困惑术 (confusion) 的‘攻击最接近的生物’效果。<\/p><p>效果持续每施法者等级一轮，即使在生物离开斗争徽记影响范围后仍然生效。如果视野内没有可见的生物可供攻击，受影响的生物可以正常行动。<\/p><p>一旦被触发，徽记仍然会活动每施法者等级10分钟。<\/p><p>斗争徽记可以被魔法恒定术 (Permanency) 所恒定，需要施法者等级18级以及花费25000GP。<\/p>",
+    "source": "UM"
+}

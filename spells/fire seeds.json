@@ -1,0 +1,35 @@
+{
+    "key": "fire seeds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-seeds/",
+    "name": "Fire Seeds",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 6,
+        "shaman": 6
+    },
+    "domains":     {
+        "fire": 6,
+        "sun": 6
+    },
+    "mysteries": {"flame": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (acorns or holly berries)",
+    "range": "touch",
+    "duration": "10 min./level or until used",
+    "savingThrow": "none or Reflex half",
+    "spellResistance": "no",
+    "text": "<p>Depending on the version of <i>fire seeds<\/i> you choose, you turn acorns into splash weapons that you or another character can throw, or you turn holly berries into bombs that you can detonate on command.<\/p><p style=\"margin-left: 40px\"><i>Acorn Grenades<\/i>: As many as four acorns turn into special thrown splash weapons. An acorn grenade has a range increment of 20 feet. A ranged touch attack roll is required to strike the intended target. Together, the acorns are capable of dealing 1d4 points of fire damage per caster level (maximum 20d4) divided among the acorns as you wish. No acorn can deal more than 10d4 points of damage.<\/p><p style=\"margin-left: 40px\">Each acorn grenade explodes upon striking any hard surface. In addition to its regular fire damage, all creatures adjacent to the explosion take 1 point of fire damage per die of the explosion. This explosion of fire ignites any combustible materials adjacent to the target.<\/p><p style=\"margin-left: 40px\"><i>Holly Berry Bombs<\/i>: You turn as many as eight holly berries into special bombs. The holly berries are usually placed by hand, since they are too light to make effective thrown weapons (they can be tossed only 5 feet). If you are within 200 feet and speak a word of command, each berry instantly bursts into flame, causing 1d8 points of fire damage + 1 point per caster level to every creature in a 5-foot-radius burst and igniting any combustible materials within 5 feet. A creature in the area that makes a successful Reflex saving throw takes only half damage.<\/p><h3>By the way&#8230;<\/h3><p>This spell can start fires on a ship.<\/p>",
+    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>Each acorn's damage increases to 1d6 points of fire damage per caster level (maximum 20d6 for all acorns, no more than 10d6 for any particular acorn). <br>Each holly berry's damage increases to 2d6 points of fire damage + 2 points per caster level. <br>Any creature that fails its Reflex save against an acorn or holly berry catches on fire, taking 2d6 points of fire damage each round until the fire is extinguished. Attempts to extinguish this fire use the spell's save DC. <br><\/div>",
+    "name_zh": "火种术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (橡实或冬青浆果)",
+    "range_zh": "接触",
+    "target_zh": "至多四个橡实 或 至多八个冬青浆果",
+    "duration_zh": "10分钟/等级 或 直至使用",
+    "savingThrow_zh": "无 或 反射, 通过则减半; 见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>根据选择的不同功效的火种术，你能将橡实转变为可以让你或其他人投掷出去的溅射武器；或者将冬青浆果转变为你可以控制引爆的炸弹。<\/p><p>橡实手雷 (Acorn Grenades): 可以将至多四个橡实转变为一种特殊的溅射武器，可以至多扔到100尺的距离。要打到目标需要作一次远程接触攻击检定。所有橡实总共可造成的伤害上限为每CL 1d4点火焰伤害 (最高20d4)，你可以自由的来给这些橡实分配伤害。但是每颗橡实能够造成的伤害不得超过10d4点。<\/p><p>每个橡实在撞击到任何坚硬表面的时候都会爆炸。除了正常的火焰伤害外，所有与爆炸相邻的生物都会受到每爆炸伤害骰1点火焰伤害。爆炸产生的火焰会点燃任何与目标相邻的易燃物。<\/p><p>冬青浆果炸弹 (Holly Berry Bombs): 可以将至多八个冬青浆果转变为特殊炸弹。这些冬青浆果一般都是手动放置的，因为它们太轻了，不能当作投掷武器 (它们只能扔出5尺远)。如果你在距离它们200尺的范围并说出命令词，每个浆果都会立刻炸出火焰，对5尺半径爆发区域内的每个生物造成 {1d8+CL} 点火焰伤害，同时点燃5尺内所有易燃物。在此区域内的生物可以通过成功反射豁免来使伤害减半。<\/p>",
+    "source": "CRB"
+}

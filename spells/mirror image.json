@@ -1,0 +1,33 @@
+{
+    "key": "mirror image",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-image/",
+    "name": "Mirror Image",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "subdomains": {"deception": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>This spell creates a number of illusory doubles of you that inhabit your square. These doubles make it difficult for enemies to precisely locate and attack you.<\/p><p>When <i>mirror image<\/i> is cast, 1d4 images plus one image per three caster levels (maximum eight images total) are created. These images remain in your space and move with you, mimicking your movements, sounds, and actions exactly. Whenever you are attacked or are the target of a spell that requires an attack roll, there is a possibility that the attack targets one of your images instead. If the attack is a hit, roll randomly to see whether the selected target is real or a figment. If it is a figment, the figment is destroyed. If the attack misses by 5 or less, one of your figments is destroyed by the near miss. Area spells affect you normally and do not destroy any of your figments. Spells and effects that do not require an attack roll affect you normally and do not destroy any of your figments. Spells that require a touch attack are harmlessly discharged if used to destroy a figment.<\/p><p>An attacker must be able to see the figments to be fooled. If you are invisible or the attacker is blind, the spell has no effect (although the normal miss chances still apply).<\/p>",
+    "name_zh": "镜影术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>该法术会在你所占据的空间内创造出数个你的镜像分身。这些分身会使得敌人难以对你进行攻击和判断你的位置。<\/p><p>当镜影术被施放之后，总共会创造出1d4加每三个CL 1个镜像 (总数最多8个)。这些镜像会保持在你占据的空间内，与你一同移动，并且精确地模仿你的移动、声音以及动作。每当你被攻击、或者成为需要进行攻击检定的法术目标时，都会有可能攻击到你的分身来替代你的本体。如果攻击命中，随机掷骰来决定被打到的目标是本体还是分身，如果是分身的话分身会被摧毁。若攻击失手5点以内，一个分身会被几乎命中的攻击摧毁。区域法术如常影响你，并且不会摧毁任何镜像。不需要进行攻击检定的法术与效果会如常影响你，并且不会摧毁任何镜像。若需要接触攻击的法术用于摧毁一个镜像，则会无害耗散。<\/p><p>攻击者必须能够看到镜像才会被这个法术所愚弄。若你是隐身的或者攻击者目盲，则法术不会有任何效果 (尽管正常的失手率仍旧适用)。<\/p>",
+    "source": "CRB"
+}

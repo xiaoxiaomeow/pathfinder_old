@@ -1,0 +1,31 @@
+{
+    "key": "summoner conduit",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summoner-conduit/",
+    "name": "Summoner Conduit",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 5,
+        "summoner/unchained summoner": 4,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (two flies)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one summoned creature or eidolon",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You exploit the invisible, mystic connection between the target creature and its summoner to harm that summoner. Whenever the target's summoned creature is the target of a spell that deals damage, the target's summoner is also considered to be a target of that spell. Such a summoner gains his normal defenses against the spell, such as a saving throw and spell resistance, and cannot be affected if he is on another plane of existence.<\/p>",
+    "name_zh": "灵魂连接",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (两只苍蝇)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个召唤生物或一个精神向导",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你可以利用召唤生物和召唤者之间那无形而神秘的联系来伤害召唤者。<\/p><p>每当目标召唤生物成为一个伤害法术的目标，它的召唤者也会同时被认为是法术的目标。<\/p><p>这种情况下召唤者可以正常对法术进行防御，例如豁免和法术抗力。另外，如果他存在于另一个位面，该法术不会对他造成影响。<\/p>",
+    "source": "UC"
+}

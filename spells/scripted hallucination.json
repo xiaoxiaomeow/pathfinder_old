@@ -1,0 +1,24 @@
+{
+    "key": "scripted hallucination",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scripted-hallucination/",
+    "name": "Scripted Hallucination",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 5,
+        "magus": 5,
+        "medium": 4,
+        "mesmerist": 5,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer/wizard": 5
+    },
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell functions as audiovisual hallucination, except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your concentration and can react to stimuli the targets perceive.<\/p>",
+    "name_zh": "演剧错觉",
+    "duration_zh": "1分钟/等级（可解消）",
+    "text_zh": "<p>该法术的功能如同视听错觉（Audiovisual Hallucination；见本书204页）一般，不过魅影幻觉还包含视觉、听觉、嗅觉、触觉和温度成分，且魅影幻觉会遵从1套复杂的脚本（complex script）。魅影幻觉不需要你对其维持专注便能够遵从脚本，而且它能够由目标的认知而产生应激反应。<\/p>",
+    "source": "UI"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "replay tracks",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/replay-tracks/",
+    "name": "Replay Tracks",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "druid": 5,
+        "inquisitor": 4,
+        "medium": 3,
+        "occultist": 3,
+        "psychic": 5,
+        "ranger": 2
+    },
+    "castingTime": "3 rounds",
+    "components": "V, S, F (a track or other sign of a creature's passing found with Perception or Survival)",
+    "range": "personal",
+    "target": "you",
+    "duration": "concentration, up to 1 hour/level",
+    "text": "<p>This spell allows you to reconstruct past events that occurred in your current location based on the tracks and other signs left behind. Replay tracks reveals events that occurred while the tracks that serve as the focus for the spell were being left, revealing events in the order they happened in real time or in reverse, depending on whether you are following the tracks forward or backward, although the image isn't clear enough to make out details (such as a creature's exact identity). You can attempt Survival checks to follow tracks as part of concentrating on the spell, but only events connected to the tracks used as the focus of the spell are revealed by the spell. Elements that left no trace detectable by you, such as creatures benefiting from pass without trace, are absent from the events you visualize.<\/p>",
+    "name_zh": "足迹重演",
+    "castingTime_zh": "3轮",
+    "components_zh": "语言，姿势，器材（用察觉或生存发现的其他生物的痕迹）",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "专注，最长1小时/等级",
+    "text_zh": "<p>这个法术可以让你根据足迹和其他留下的痕迹来重建在你当前位置上发生过的事件。足迹重演会显示过去发生的事件，留下的痕迹就是法术的器材，法术会按照事件发生在真正时间顺序或者逆序来揭示事件，这取决于你是向前或向后追踪足迹，但图像不够清晰到发现细节（如生物的确切身份）。你可以尝试生存检定以跟踪足迹以作为专注法术的一部分，但是只有联系到用来作为法术器材的足迹的事件会被法术揭示。不会留下你能侦测到的痕迹的元素，例如拥有行踪无迹的生物，不会出现在你具象化的事件里。<\/p>",
+    "source": "UW"
+}

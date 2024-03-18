@@ -1,0 +1,40 @@
+{
+    "key": "nixie's lure",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nixie-s-lure/",
+    "name": "Nixie's Lure",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors":     [
+        "mind-affecting",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "druid": 4,
+        "mesmerist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 4,
+        "summoner": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "300 ft.",
+    "target": "all creatures within a 300-ft.-radius burst centered on you",
+    "duration": "concentration + 1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell creates an unearthly and infectious song that seductively summons all who hear it. <i>Nixie's lure<\/i> affects a maximum of 24 Hit Dice of creatures. Creatures in the area who fail their saves are lured by the song and move toward you using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, the creatures each receive a second saving throw to end the effect before moving into peril. Creatures lured by the spell's song can take no actions other than to defend themselves. A victim within 5 feet of you simply stands still and for the duration of the spell remains fascinated.<\/p>",
+    "name_zh": "水妖诱惑",
+    "race_zh": "水元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "以你为中心，半径300尺爆发范围内所有的生物",
+    "duration_zh": "专注+1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术创造出神秘并且有感染力的歌声，诱惑并呼唤所有听到它的生物。水妖的诱惑最高能够影响24HD的生物。在范围内的生物，如果没有通过歌声的意志豁免检定，则会以最直接的方式走向你。如果如此移动会将他们置于危险的区域 (比如穿过火焰或者悬崖)，那么每当进入这些区域之前，生物都可以重新进行一次豁免检定以结束该效果。被法术的歌声所诱惑的生物除了保护自己以外无法做任何其他动作。走到你身边5尺距离的受术者只会呆呆站立，在法术持续时间会保持迷魂状态。<\/p>",
+    "source": "ARG"
+}

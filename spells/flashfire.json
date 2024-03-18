@@ -1,0 +1,29 @@
+{
+    "key": "flashfire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flashfire/",
+    "name": "Flashfire",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 3,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "one 5-ft. square/2 levels",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates (object) and Fort negates",
+    "spellResistance": "yes (object)",
+    "text": "<p>You cause flames to spring up in the area of effect. These flames deal 1d6 points of fire damage for every 3 caster levels you have (maximum 5d6) to each creature that enters a burning area or begins its turn in the area; these creatures also catch on fire. A creature that succeeds at a Reflex save negates the damage and avoids catching on fire. the area and all adjacent 5-foot squares are smoky, providing concealment within. You can concentrate as a standard action to ignite one 5-foot square adjacent to a currently burning square. Heavy precipitation (including sleet storm) ends the spell. Strong and severe winds spread each square of flashfire downwind by one square each round, but windstorm-force or stronger winds extinguish the fires.<\/p>",
+    "name_zh": "闪燃术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "duration_zh": "一个5平方英尺/2等级",
+    "savingThrow_zh": "反射过则无效（物体）和强韧过则无效",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你能使火焰在效果范围内冒起。这些火焰会对每一个进入燃烧区域或在该区域内开始回合的生物造成每3施法者等级造成1d6点的火焰伤害（最高5d6）；这些生物也会着火。在反射豁免中成功的生物会消除伤害并避免着火。该区域和所有邻近的5平方英尺方格都会烟雾缭绕，提供隐蔽。你可以用一个标准动作来专注，点燃一个临近正在燃烧的方格的5平方英尺方格。强降水（包括雪风暴）会结束这个法术。强风和烈风会让火焰沿着下风方向蔓延，每一轮一个方格，但风暴级的强风或更强烈的强风会把火扑灭。<\/p>",
+    "source": "UW"
+}

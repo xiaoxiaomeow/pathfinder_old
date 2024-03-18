@@ -1,0 +1,33 @@
+{
+    "key": "gusting sphere",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gusting-sphere/",
+    "name": "Gusting Sphere",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["air"],
+    "levels":     {
+        "bloodrager": 2,
+        "druid": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "5-ft.-diameter sphere of air",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (object) or Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>A swirling ball of wind rolls in whichever direction you point, hurling those it strikes with great force. The sphere is treated in all ways as an area of severe wind, applying a –4 penalty on ranged weapon attacks that pass through it. The sphere moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a target. If it enters a space containing a Medium or smaller creature, it stops moving for that round and generates a sharp thrust of wind to bull rush the creature. The sphere's CMB for bull rush combat maneuvers uses your caster level in place of its base attack bonus, with a +2 bonus for its Strength score (14). Whether or not the bull rush is successful, the creature takes 1d6 points of nonlethal bludgeoning damage from the attack. If the bull rush fails, the creature is still subject to the severe winds from the sphere as long as they remain in the same square as it. A gusting sphere rolls over objects or barriers that are less than 4 feet tall.<\/p><p>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest. A gusting sphere immediately dissipates if it exceeds the spell's range.<\/p>",
+    "name_zh": "狂风法球",
+    "race_zh": "风元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "5尺直径的球形气体",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (物体) 或反射, 通过则无效；见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一个旋转的球形气体向着你指向的方向滚去，用巨大的力量推动其碰到的事物。法球内总是视为一片烈风 (severe wind) 区域，任何通过它的远程武器，在攻击检定上受到-4减值。法球每轮可以移动30尺。作为移动的一部分，它可以向上攀爬或跳起30英尺来击中目标。如果它进入的区域内包含中型或更小的生物，则会停止其该轮的行动并且用突风冲撞生物。在计算法球的冲撞战技检定所用的CMB时，使用你的施法者等级替代基本攻击加值，并且力量修正为+2。无论冲撞是否成功，目标生物均会因为该次攻击受到1d6点非致命伤害。若冲撞失败，目标生物仍旧会受到法球造成的烈风影响——只要他们还停留在法球所在的方格。狂风法球可以滚过低于4尺高的物体或障碍物。<\/p><p>法球会按照你的主动引导 (对你来说是一个移动动作) 进行移动；否则它只会停留在原地。如果狂风法球离开法术的范围则会立刻消散。<\/p>",
+    "source": "ARG"
+}

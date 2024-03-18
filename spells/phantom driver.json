@@ -1,0 +1,30 @@
+{
+    "key": "phantom driver",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-driver/",
+    "name": "Phantom Driver",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "10 ft.",
+    "effect": "one quasi-real, humanlike creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You conjure a Small or Medium, quasi-real, humanlike creature (the exact physical features can be customized as you wish). This creation can drive any vehicle you command it to. This phantom creature does not fight, and while animals that power a muscle-propelled vehicle driven by the creature do respond to its commands, animals otherwise shun the creature and refuse to attack it.<\/p><p>The rider has an AC of 20 (+1 size, +4 natural armor, +5 Dex) if it is a Small creature or an AC of 19 (+4 natural armor, +5 Dexterity) if it is a Medium creature. It has 7 hit points + 1 hit point per caster level. If it loses all its hit points, the phantom driver disappears. A phantom driver has a land speed of 30 feet, and makes all driver skill checks (no matter what skills are needed to drive the vehicle) as your caster level + your Intelligence modifier.<\/p>",
+    "name_zh": "幻影车夫",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势",
+    "range_zh": "10尺",
+    "effect_zh": "一个虚幻的类人生物",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术如同魅影驹 (Phantom Steed) 一般作用，不过你最多能够召唤6匹，并且以1小时为单位将持续时间分给每匹魅影驹。<\/p>",
+    "source": "UC"
+}

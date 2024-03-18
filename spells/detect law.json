@@ -1,0 +1,15 @@
+{
+    "key": "detect law",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-law/",
+    "name": "Detect Law",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "shaman": 1
+    },
+    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.<\/p>",
+    "name_zh": "侦测秩序",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测秩序生物、秩序神祇的牧师、秩序法术以及秩序魔法物品的灵光，而且如若你是混乱阵营，则有可能被刺目的秩序灵光所伤。<\/p>",
+    "source": "CRB"
+}

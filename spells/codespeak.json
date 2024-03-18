@@ -1,0 +1,33 @@
+{
+    "key": "codespeak",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/codespeak/",
+    "name": "Codespeak",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a complex rune inscribed on a slip of paper that is then placed under your tongue)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "you plus one willing creature per 2 levels, no two of which can be more than 30 ft. apart",
+    "duration": "10 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Upon casting this spell, all recipients gain the ability to speak a new language. This language sounds like random, babbling syllables to anyone not under the influence of the spell, but the targets understand each other perfectly.<\/p><p>Anyone using <i>codespeak<\/i> can read and write in this new language as well. Once the spell expires, however, any coded writing suddenly appears as gibberish. If the exact same group of individuals become the targets of a <i>codespeak<\/i> spell again, cast by the same caster, they can once again read any coded writings. A dedicated codebreaker can crack such writing's code, deciphering it one page at a time with a series of DC 30 Linguistics checks.<\/p><p>Comprehend languages doesn't enable a caster to understand the language of another's <i>codespeak<\/i> spell, but it does reveal that the targets are speaking a magical language. Tongues translates <i>codespeak<\/i> normally.<\/p>",
+    "name_zh": "编码语言",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（在1片纸上写下复杂的符文，并将纸片置于你的舌头下方）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "你外加1个自愿生物/2级，任意两者之间的距离不超过30尺",
+    "duration_zh": "10分钟/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>通过施放该法术，所有受术者会获得以1种新语言对话的能力。对于没有受到该法术影响的存在来说，此语言的发音听起来像是随机发出的音节，但是法术目标可以完美地理解彼此说出的话语。\n任何使用编码语言的人也都能够读写这种新语言。一旦法术的持续时间结束，任何以此语言写出的内容会突然变得如同是胡言乱语一样。如果完全相同的成员再次成为编码语言法术的目标，法术由相同的施法者施放，那么它们便能够再次阅读任何受到法术编码的文字。专业破译者也可以解开此类文字的编码，这需要以1次1页的速率进行一系列DC为30的语言学检定。\n通晓语言（Comprehend Languages）无法让施法者理解他人经过编码语言法术产生的语言，但是能够了解到目标说的是某种魔法语言。巧言术（Tongues）可以如常转化编码语言。<\/p>",
+    "source": "UI"
+}

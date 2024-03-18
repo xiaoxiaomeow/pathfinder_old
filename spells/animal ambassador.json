@@ -1,0 +1,33 @@
+{
+    "key": "animal ambassador",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animal-ambassador/",
+    "name": "Animal Ambassador",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "druid": 4,
+        "ranger": 3,
+        "shaman": 4
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a morsel of food the animal likes)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one Medium or smaller animal",
+    "duration": "1 day/level or until message is delivered",
+    "savingThrow": "none (see text)",
+    "spellResistance": "no",
+    "text": "<p>You compel a single animal to travel to a spot you designate and deliver a message to a creature you identify. This spell is similar to animal messenger, but can affect larger animals. In addition, the target animal is temporarily awakened to sentience (as the awaken spell) for the duration of this spell, and it can use its increased mental acuity to come up with creative solutions to overcome obstacles to delivering its message. The awakened target animal speaks any one language you know. In addition, you can imbue the animal with up to 5 ranks in any of the following skills: Bluff, Diplomacy, Knowledge (local), Knowledge (nobility), Linguistics, or Sense Motive. It treats any of these skills that are class skills for you as class skills. The number of ranks you imbue in any of these skills can't exceed the target animal's Hit Dice nor the number of ranks you possess in that skill.<\/p><p>The message you send with your animal ambassador can be a verbal message, which the awakened target animal can speak using its own voice or deliver using your voice. It can engage in conversation using its own intellect, knowledge, and linguistic abilities. The animal ambassador is loyal to you, but it is otherwise susceptible to mind-affecting effects like any other creature. You can also send your animal ambassador with an object or container that is within its physical ability to carry, making it deliver the contents to the target of your intended message. If the object it is given to carry is poisonous, trapped, or otherwise inherently dangerous (even if it would normally be dangerous only to the creature receiving it rather than the animal), or if you or your allies attack the target animal, the animal ambassador spell fails and the animal becomes hostile toward you. The animal ambassador intelligently but singlemindedly attempts to deliver the message to its intended target, and you can't task it with other tasks like fighting, scouting, searching for traps, and so on. It leaves on its delivery once it receives its message.<\/p><p>Once the animal ambassador has located its target and delivered its message (and object, if desired), its enhanced mental abilities fade within 2d6 minutes. The spell then ends, even if its duration hasn't elapsed.<\/p>",
+    "name_zh": "动物使节",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料（少量动物喜欢的食物）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1只中型或更小的动物",
+    "duration_zh": "1日/等级 或 直至讯息送达",
+    "savingThrow_zh": "无（见后文）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你迫使单个动物旅行至你所指定的地点，并向你确认（identify）的1名生物传递1条讯息。该法术类似于动物信使（Animal Messenger），不过能够影响更大的动物。此外，目标动物在法术持续期间暂时性地被启迪了认知能力，就如同启蒙术（Awaken）一般，而且它能够利用被强化的认知能力，为了传递讯息而使用具有创造性的应对措施以克服障碍。被启蒙的目标动物能够说出你所了解的任意1门语言。此外，你还能向动物灌输5点技能点，但仅限后述技能：唬骗、交涉、知识(本地)、知识(贵族)、语言学或察言观色。其中对你来说属于本职技能的技能，对于动物使节来说也会被视为本职技能。你向动物灌输的技能中，在任意技能中灌输的技能点数既无法超过目标动物的生命骰（Hit Dice），也无法超过你在对应技能中投入的技能点数。\n你让动物使节传递的讯息可以是1条口信（verbal message），启蒙目标动物能够以自身的声音、或者你的声音来传递口信。它能使用自身的智力、知识和语言能力参与到对话中。动物使节忠实于你，但是它就和其他生物一样会受到影响心灵（mind-affecting）效果的影响。你也可以让动物使节携带1件物体或容器，不过需要动物具有携带相应物品的身体能力。若你给动物的物品带毒（poisonous）、装有陷阱（trapped）、其本质具有其他危险性（即便该物品通常来说只对接收者有害，而非对动物有害）、或者如果你或你的盟友攻击目标动物的话，动物使节法术会立即失效，而这头动物也会变得敌视（hostile）你。动物使节会聪明且一心一意地尝试向其预期目标传递信息，你无法向它下达其他任务，比如战斗、侦查、搜寻陷阱等等。当动物使节接收完讯息后，它便会离开并开始递送。\n一旦动物使节定位了目标，并且传递讯息（和物品，若需要的话）后，其被增强的心智属性会在2d6分钟内褪去。之后该法术会结束，即便持续时间还未结束也是如此。<\/p>",
+    "source": "UI"
+}

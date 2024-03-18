@@ -1,0 +1,33 @@
+{
+    "key": "adjustable disguise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/adjustable-disguise/",
+    "name": "Adjustable Disguise",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "alchemist": 3,
+        "antipaladin": 3,
+        "bard": 3,
+        "inquisitor": 3,
+        "mesmerist": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level (d)",
+    "text": "<p>This spell functions as disguise self, except as a swift action you can alter the disguise (within the limitations of disguise self). For example, you could make yourself look like a young human city guard, then an old elven wizard of the opposite gender, then a halfling thief, and so on. You can change the disguise a number of times equal to your caster level.<\/p>",
+    "name_zh": "可调易容术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级（可解消）",
+    "text_zh": "<p>该法术的功能如同易容术（Disguise Self）一般，不过你能够通过迅捷动作来改变自身的伪装（依旧受到易容术的相关限制）。例如，你可以让自己看起来像是年轻的人类城镇守卫、之后变为不同性别的老年精灵法师、再化身为半身人盗贼，等等。你能够改变伪装的次数等同于你的施法者等级。<\/p>",
+    "source": "ACG"
+}

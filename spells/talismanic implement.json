@@ -1,0 +1,20 @@
+{
+    "key": "talismanic implement",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/talismanic-implement/",
+    "name": "Talismanic Implement",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "evocation",
+    "levels": {"occultist": 3},
+    "castingTime": "10 minutes",
+    "components": "V",
+    "range": "personal target you",
+    "duration": "1 hour/level (d) or until discharged",
+    "text": "<p>This spell functions as contingency, but you invest a spell whose level doesn't exceed one-quarter of your level (rounded down, maximum spell level 3rd) into one of your implements that holds 2 or more points of mental focus. The spell's school must match that of the implement, and the spell must be one that affects only your person.<\/p><p>Casting <i>talismanic implement<\/i> reduces the selected implement's mental focus by 2, including for the purposes of determining the effects of resonant powers. When you refresh your mental focus, <i>talismanic implement<\/i> ends automatically, even if the duration hasn't elapsed. Unlike contingency, you may have multiple <i>talismanic implements<\/i> simultaneously, though a single implement can hold only one <i>talismanic implement<\/i> spell, and if you have any <i>talismanic implements<\/i>, you can't have any other kind of contingency in effect.<\/p>",
+    "name_zh": "灵器触发术",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级（可解消）或直至耗散为止",
+    "text_zh": "<p>该法术的功能如同触发术（Contingency）一般，不过你会将一个法术存入一个存有2点或更多心智点（Mental Focus）的灵器（Implements）内，该法术的等级不得超过你的等级的四分之一（向下取整，最高为3级法术）。该法术的学派必须与灵器相符，而且法术本身必须仅影响你本人（affects only your person）。施放灵器触发术会让被选择的灵器的心智点降低2点，这种降低也影响共鸣之力（Resonant Power）的效果。当你恢复心智点时，灵器触发术也会自动结束，即便该法术本身的持续时间还未结束也是如此。和触发术不同，你可以同时具有复数的灵器触发术，不过单个灵器中仅能存储一个灵器触发术，而且一旦你具有任何灵器触发术之后，便不能再让任何其他类型的触发术对自己产生效用。<\/p>",
+    "source": "OA"
+}

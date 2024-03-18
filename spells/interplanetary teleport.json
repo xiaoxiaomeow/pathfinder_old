@@ -1,0 +1,31 @@
+{
+    "key": "interplanetary teleport",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/interplanetary-teleport/",
+    "name": "Interplanetary Teleport",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "cleric/oracle": 9,
+        "sorcerer/wizard": 9
+    },
+    "domains": {"void": 9},
+    "mysteries": {"dark tapestry": 9},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal and touch",
+    "target": "you and touched objects or other touched willing creatures",
+    "duration": "instantaneous",
+    "savingThrow": "none and Will negates (object)",
+    "spellResistance": "no and yes (object)",
+    "text": "<p>This spell functions as teleport, except there is truly no range limit and you do not need to have seen your destination, though you must have a solid grasp of which world you wish to travel to (“the third planet from the sun” is an acceptable destination, but “a habitable world near that bright star” is not). If you have a specific location on a planet in mind, you arrive there without a chance of failure; otherwise you arrive at a location that would not immediately be life-threatening. If no such safe landing zone exists on the world, such as someone attempting to travel into the sun without the proper precautions in place, the spell simply fails.<\/p>",
+    "name_zh": "跨位面传送术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "target_zh": "你自己加上接触到的物体或接触到的自愿生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无 和 意志，通过则无效 (物体)",
+    "spellResistance_zh": "否 和 可 (物体)",
+    "text_zh": "<p>法术抗力    否 和 可 (物体)<\/p><p>这个法术工作方式如同传送术 (teleport)，不过真正意义上的没有范围限制。<\/p><p>你不需要见过你的目的地，但是你必须对你的目标位面有一个稳定且确切的印象 (例如‘太阳系的第三颗行星’是一个可以接受的目标，但‘最近的一个有明亮恒星的可居住世界’则不是)。<\/p><p>如果你知道目标位面的一个确切地点，那么你会没有失败机率的到达那里；否则你会随机到达目标位面的某个不会立即对你造成危险的区域。<\/p><p>如果目标地没有安全地点可供着陆，例如有人试图在没有防护措施的情况下传送到太阳里，那么法术直接无效。<\/p>",
+    "source": "UM"
+}

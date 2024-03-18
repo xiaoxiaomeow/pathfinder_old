@@ -1,0 +1,30 @@
+{
+    "key": "sonic thrust",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-thrust/",
+    "name": "Sonic Thrust",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["sonic"],
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "see text",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object) or none (see text)",
+    "spellResistance": "yes (object) (see text)",
+    "text": "<p>You produce a sweeping rush of sound that can hurl creatures or objects away from you, like the violent thrust version of telekinesis. You can hurl one object or creature per caster level (maximum 15) that is within range; it flies in a straight line away from you. Any objects of creatures thrown must be within 10 feet of each other. You can hurl a total weight of up to 25 pounds per caster level (maximum 375 pounds at 15th level).<\/p><p>You can use this spell to hurl an object or creature toward a particular target. You must succeed on attack rolls (one per creature or object thrown) to hit the target with the items, using your base attack bonus + your Intelligence modifier (if a wizard) or Charisma modifier (if a bard or sorcerer). Hurled weapons cause standard damage (with no Strength bonus; note that arrows or bolts deal damage as daggers of their size when used in this manner). Other objects cause damage ranging from 1 point per 25 pounds (for less dangerous objects) to 1d6 points of damage per 25 pounds (for hard, dense objects). Objects and creatures that miss their target land in a square adjacent to the target.<\/p><p>Creatures that fall within the weight capacity of the spell can be hurled, but they are allowed Will saves (and spell resistance) to negate the effect, as are those whose held possessions are targeted by the spell.<\/p><p>If a hurled creature is thrown against a solid surface, it takes damage as if it had fallen 10 feet (1d6 points).<\/p>",
+    "name_zh": "音波冲击",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "见下文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效 (物体) 或 无 (见下文)",
+    "spellResistance_zh": "可 (物体)  (见下文)",
+    "text_zh": "<p>法术抗力    可 (物体)  (见下文)<\/p><p>你施放了一道席卷而出的声波，使其将生物或物体推后，效果类似心灵传动的推力效果。<\/p><p>你可以推动范围内的每施法者等级一个物体或生物 (最高15个)；它被击飞后会沿着直线远离你。任何被生物投掷的物品都必须彼此间隔10尺以内。你可以击飞总重量为每施法者等级25磅的物体 (最高15级375磅)。<\/p><p>你也可以用这个法术向一个特定目标投掷物品或生物。你必须进行一次成功的攻击检定 (每个投掷的生物或物体一次) 才能让投掷物命中目标。使用你的基础攻击加值加上智力 (法师) 或魅力 (诗人或术士) 作为攻击加值。<\/p><p>投掷的武器会造成标准伤害 (没有力量加值，另外箭矢造成同体积匕首伤害)。其他物体造成每25磅1点 (无害物体) 到1d6点的伤害 (坚硬、致密物体)。未能命中的物体和生物会落在目标的临近方格上。<\/p><p>该法术可以投掷处于重量范围内的生物，但是它们将被允许进行一次意志检定 (和法术抗力) 来免疫该效果；同时如果目标是一个生物的持有物，该生物也可以同样可以进行豁免和法术抗力。<\/p><p>如果生物被丢在一层坚固表面上，它会如同坠落了10尺一样受到伤害 (1d6点)。<\/p>",
+    "source": "UM"
+}

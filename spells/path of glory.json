@@ -1,0 +1,29 @@
+{
+    "key": "path of glory",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/path-of-glory/",
+    "name": "Path of Glory",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "bard": 2,
+        "cleric": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch (see text)",
+    "area": "four 5-ft. squares/level (see text)",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You cause four 5-foot squares (one of which must be your space) to glow with dim illumination. Starting on your next turn, as a swift action you can extend the glowing area by an additional four 5-foot squares; each new square must be adjacent to a square that was previously glowing. Allies that end their turns on a glowing square (including one who falls unconscious in the square) are healed of 1 point of damage.<\/p>",
+    "name_zh": "荣耀之路",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "area_zh": "：每等级4个5尺方格（见后文）",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你让4个5尺方格（其中之一必须位于你所占据的空间）散发出昏暗的光亮。从你的下个回合开始，以迅捷动作，你能够让发光的区域额外延伸出4个5尺方格；每个新的方格都必须与已经发光的方格相邻。在自身的回合结束时，位于发光方格内的盟友（包括那些在方格中昏迷的盟友）都会被治愈1点伤害。<\/p>",
+    "source": "ACG"
+}

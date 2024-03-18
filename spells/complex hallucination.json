@@ -1,0 +1,25 @@
+{
+    "key": "complex hallucination",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/complex-hallucination/",
+    "name": "Complex Hallucination",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "magus": 4,
+        "medium": 3,
+        "mesmerist": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "duration": "concentration + 3 rounds",
+    "text": "<p>This spell functions as audiovisual hallucination, except that the phantasm you create can also include olfactory, tactile, and thermal effects.<\/p>",
+    "name_zh": "复合错觉",
+    "duration_zh": "专注 + 3轮",
+    "text_zh": "<p>该法术的功能就如同视听错觉（Audiovisual Hallucination；见本书204页）一般，不过由你创造的魅影幻觉还能够包含嗅觉、触觉和温度效果。<\/p>",
+    "source": "UI"
+}

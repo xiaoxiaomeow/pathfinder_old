@@ -1,0 +1,30 @@
+{
+    "key": "unholy aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-aura/",
+    "name": "Unholy Aura",
+    "school": "abjuration",
+    "descriptors": ["evil"],
+    "levels": {"cleric/oracle": 8},
+    "domains": {"evil": 8},
+    "bloodlines":     {
+        "abyssal": 8,
+        "ghoul": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a tiny reliquary worth 500 gp)",
+    "range": "20 ft.",
+    "duration": "1 round/level (d)",
+    "savingThrow": "see text",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>A malevolent darkness surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by good creatures, and weakening good creatures when they strike the subjects. This abjuration has four effects:<\/p><ol><li>Each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saves. Unlike the effect of <i>protection from good<\/i>, this benefit applies against all attacks, not just against attacks by good creatures.<\/li><li>A warded creature gains spell resistance 25 against good spells and spells cast by good creatures.<\/li><li>The abjuration protects the subjects from possession and mental influence, just as <i>protection from good<\/i> does.<\/li><li>If a good creature succeeds on a melee attack against a warded creature, the offending attacker takes 1d6 points of Strength damage (Fortitude negates).<\/li><\/ol>",
+    "name_zh": "邪恶灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (价值500gp的小圣物盒)",
+    "range_zh": "20尺",
+    "target_zh": "以你为中心, 半径20尺爆发范围内的每等级1个生物",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>一股恶毒的黑暗围绕着受术者，让他们在受到攻击时能获得保护，获得对抗善良生物法术的抗力，同时削弱击中受术者的善良生物。此防护有四种效果。<\/p><p>第一，每个被保护的生物的AC获得+4的偏斜加值，豁免检定或+4的抗力加值。与‘<a href=\"spell.html?spell=protection from good\">防护善良 (protection from good)<\/a>’不同，此效果对所有攻击都有效，而非只针对善良生物发起的攻击。<\/p><p>第二，一个被保护的生物获得25点法术抗力对抗善良法术以及善良生物施放的法术。<\/p><p>第三，此法书可阻挡影响精神 (mental influence) 或支配 (possession)，如同‘<a href=\"spell.html?spell=protection from good\">防护善良 (protection from good)<\/a>’一样。<\/p><p>最后，若善良生物通过近战攻击检定击中被防护生物，攻击者将受到1d6点力量伤害 (强韧, 通过则无效)。<\/p>",
+    "source": "CRB"
+}

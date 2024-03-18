@@ -1,0 +1,18 @@
+{
+    "key": "hex glyph, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hex-glyph/",
+    "name": "Hex Glyph, Greater",
+    "base": "hex glyph",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "shaman": 5,
+        "witch": 5
+    },
+    "components": "V, S, M (powdered diamond worth 400 gp)",
+    "text": "<p>This spell functions as <i>hex glyph<\/i>, except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).<\/p><p>Read magic allows its caster to identify a greater hex glyph with a DC 16 Spellcraft check.<\/p>",
+    "name_zh": "高等巫术刻文",
+    "components_zh": "语言，姿势，材料（价值400gp的钻石尘）",
+    "text_zh": "<p>该法术的功能如同巫术刻文（Hex Glyph）一般，不过你可以将巫术（hex）或强力巫术（Major Hex）储存在刻文内，高等巫术（Grand Hex）依旧无法存储进刻文。你需要使用熏香来绘制刻文，这么做必须撒上钻石尘（这已经标注在法术成分的描述里）。\n施放阅读魔法（Read magic）可以让施法者鉴别高等巫术刻文，不过这需要进行DC 16的法术辨识检定。<\/p>",
+    "source": "ACG"
+}

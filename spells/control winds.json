@@ -1,0 +1,34 @@
+{
+    "key": "control winds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/control-winds/",
+    "name": "Control Winds",
+    "school": "transmutation",
+    "descriptors": ["air"],
+    "levels":     {
+        "druid": 5,
+        "shaman": 5
+    },
+    "domains":     {
+        "air": 5,
+        "weather": 6
+    },
+    "mysteries": {"wind": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "40 ft./level",
+    "area": "40 ft./level radius cylinder 40 ft. high",
+    "duration": "10 min./level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "no",
+    "text": "<p>You alter wind force in the area surrounding you. You can make the wind blow in a certain direction or manner, increase its strength, or decrease its strength. The new wind direction and strength persist until the spell ends or until you choose to alter your handiwork, which requires concentration. You may create an &#8220;eye&#8221; of calm air up to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any cylindrical area less than your full limit.<\/p><p><i>Wind Direction<\/i>: You may choose one of four basic wind patterns to function over the spell's area.<\/p><ul><li>A downdraft blows from the center outward in equal strength in all directions.<\/li><li>An updraft blows from the outer edges in toward the center in equal strength from all directions, veering upward before impinging on the eye in the center.<\/li><li>Rotation causes the winds to circle the center in clockwise or counterclockwise fashion.<\/li><li>A blast simply causes the winds to blow in one direction across the entire area from one side to the other.<\/li><\/ul><p><i>Wind Strength<\/i>: For every three caster levels, you can increase or decrease wind strength by one level. Each round on your turn, a creature in the wind must make a Fortitude save or suffer the effect of being in the windy area. See Environment for more details.<\/p><p>Strong winds (21+ mph) make sailing difficult.<\/p><p>A severe wind (31+ mph) causes minor ship and building damage.<\/p><p>A windstorm (51+ mph) drives most flying creatures from the skies, uproots small trees, knocks down light wooden structures, tears off roofs, and endangers ships.<\/p><p>Hurricane force winds (75+ mph) destroy wooden buildings, uproot large trees, and cause most ships to founder.<\/p><p>A tornado (175+ mph) destroys all nonfortified buildings and often uproots large trees.<\/p><h3>By the way&#8230;<\/h3><p>The area of winds created by this spell does not move with a ship.<\/p>",
+    "name_zh": "操纵风相",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "40尺/等级",
+    "area_zh": "半径为每等级40尺, 高为40尺的柱形区域",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以改变周围区域内的风力。你可以使风朝着特定的方向或者使用特定的方式吹、增强或减弱风力。新的风力与风向将持续至法术结束、或直至你通过专注来对其加以改变为止。如果你愿意，可以在直径至多为80尺的区域中心创造出平静无风的“风眼”，你也可以选择这个柱形区域的大小，只要比法术的最大区域小就可以。<\/p><p>风向 (Wind Direction): 你可以选择下列四条基本风向中的一种出现在法术区域内。\nl  从中心向外吹出向下流动的风，各个方向强度相等。\nl  由周围往中心区域以相同风力流淌的上升气流，在即将抵达“风眼”区域前变为向上直升。\nl  以顺时针或逆时针围绕中心旋转的风。\nl  一股疾风，单纯向着一个方向，从一边穿过中心区域吹向另一边。<\/p><p>风力 (Wind Strength): 每三个CL，你都能够增强或减弱一个等级的风力。每轮到你的回合时，区域内的生物都要进行强韧豁免，失败则会承受风力带来的效果。详细请见环境章节了解更多信息。\nl  强风 (strong wind) 为时速21英里以上，它会使航行变得困难。\nl  烈风 (severe wind) 为时速31英里以上，它会使较小的船只和建筑物遭受损害。\nl  暴风 (windstorm) 为时速51英里以上，它会让大多数的飞行生物吹离此片天空，将小树连根拔起，吹倒小型木质结构建筑，吹翻屋顶，并威胁到船只。\nl  飓风 (hurricane force wind) 为时速75英里以上，它会摧毁木质建筑物，偶尔也会将大树连根拔起，导致大部分船只沉没。\nl  龙卷风 (tornado) 为时速175英里以上，它会摧毁所有未经加固强化的建筑，并常常将大树连根拔起。<\/p>",
+    "source": "CRB"
+}

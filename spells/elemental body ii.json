@@ -1,0 +1,27 @@
+{
+    "key": "elemental body ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-body/",
+    "name": "Elemental Body II",
+    "base": "elemental body",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 5,
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "subdomains": {"rivers": 5},
+    "elementalSchools":     {
+        "air": 5,
+        "earth": 5,
+        "fire": 5,
+        "water": 5
+    },
+    "bloodlines": {"elemental": 5},
+    "mysteries": {"elemental": 5},
+    "text": "<p>This spell functions as <i>elemental body I<\/i>, except that it also allows you to assume the form of a Medium air elemental, Medium earth elemental, Medium fire elemental, or Medium water elemental. The abilities you gain depend upon the elemental.<\/p><ul><li><i>Air elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.<\/li><li><i>Earth elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Strength and a +5 natural armor bonus.<\/li><li><i>Fire elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Dexterity and a +3 natural armor bonus.<\/li><li><i>Water elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Constitution and a +5 natural armor bonus.<\/li><\/ul>",
+    "name_zh": "元素形态 II",
+    "text_zh": "<p>该法术的功能如同‘元素形态I’一般，不过它还允许你变为中型气元素、中型土元素、中型火元素或中型水元素的形态。你获得的能力取决于你化身的元素的类型。<\/p><p>气元素：如同‘元素形态I’，不过你的敏捷获得+4体型加值以及+3天生护甲加值。<\/p><p>土元素：如同‘元素形态I’，不过你的力量获得+4体型加值以及+5天生护甲加值。<\/p><p>火元素：如同‘元素形态I’，不过你的敏捷获得+4体型加值以及+3天生护甲加值。<\/p><p>水元素：如同‘元素形态I’，不过你的体质获得+4体型加值以及+5天生护甲加值。<\/p>",
+    "source": "CRB"
+}

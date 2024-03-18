@@ -1,0 +1,30 @@
+{
+    "key": "inflict pain, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-pain/",
+    "name": "Inflict Pain, Mass",
+    "base": "inflict pain",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "descriptors":     [
+        "mind-affecting",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 4,
+        "inquisitor": 5,
+        "medium": 4,
+        "mesmerist": 5,
+        "occultist": 5,
+        "psychic": 6,
+        "sorcerer/wizard": 7,
+        "spiritualist": 5,
+        "witch": 7
+    },
+    "target": "one creature/level, no two of which can be more than 30 ft. apart.",
+    "text": "<p>This spell functions like <i>inflict pain<\/i> except as noted above.<\/p><\/div>",
+    "name_zh": "群体苦痛刑罚",
+    "target_zh": "每等级一个生物，任意两者之间的距离不超过30尺",
+    "text_zh": "<p>除了上文所述内容之外，该法术的功能如同苦痛刑罚（Inflict Pain）一般。<\/p>",
+    "source": "OA"
+}

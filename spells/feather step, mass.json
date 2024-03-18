@@ -1,0 +1,19 @@
+{
+    "key": "feather step, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/feather-step/",
+    "name": "Feather Step, Mass",
+    "base": "feather step",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 3,
+        "druid": 3,
+        "psychic": 3,
+        "ranger": 3
+    },
+    "text": "<p>As <i>feather step<\/i>, except this spell affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体轻羽步",
+    "target_zh": "每等级一个生物，任意两者之间不得超过30尺",
+    "text_zh": "<p>如同轻羽步，不过该法术影响多名生物。<\/p>",
+    "source": "APG"
+}

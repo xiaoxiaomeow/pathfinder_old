@@ -1,0 +1,33 @@
+{
+    "key": "delectable flesh",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/delectable-flesh/",
+    "name": "Delectable Flesh",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors":     [
+        "mind-affecting",
+        "polymorph"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 7,
+        "shaman": 7,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Choose a creature within range as the object of hunger. All other creatures within 15 feet of the target that can see or smell the target's delectable flesh must succeed at a Will save or spiral into a depraved state from which they gain a single purpose—to consume as much of the target's delicious flesh as possible. the creature chosen as the target of this spell is not affected by this depravity.<\/p><p>A depraved creature gains a bite attack, two claw attacks, and the scent ability if it didn't already have them. It drops any items it was carrying and attacks the target of the spell with these natural weapons, acting as if it were confused and the target had attacked it first. This effect lasts for the spell's duration or until the depraved creature can no longer see or smell the object of its hunger for a full minute. Additionally, a depraved creature can attempt a new saving throw to end this effect at the end of any turn in which the affected creature makes an attack against the object of its hunger. If a creature that eats for nourishment succeeds at a save to end the depraved effect early, it takes a –2 penalty on ability checks, attack rolls, concentration checks, saving throws, and skill checks whenever it is within 15 feet of the target.<\/p>",
+    "name_zh": "鲜美血肉",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "15英尺半径爆发内的所有生物，以一个生物为中心",
+    "duration_zh": "1分钟/等级（可消解）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>选择范围内一个生物作为饥饿的对象。在目标15英尺范围内的所有其他能看到或闻到目标血肉的生物必须成功通过一次意志豁免，否则将进入一种堕落状态，心中只有一个欲求——尽可能多地吞食目标的鲜美血肉。被选为法术目标的生物不会受到这种堕落的影响。\n一个堕落的生物会获得一个啮咬攻击，两个爪抓攻击，还有灵敏嗅觉能力，如果他们没有的话。他会将携带的所有物品掉落，用这些天生武器来攻击目标，就好像他被困惑，且目标首先攻击了他。这种效果会持续等于法术持续时间的时长，或者直到该堕落生物无法再看到或闻到饥饿目标整整一分钟。此外，一个堕落的生物可以在任何受影响的生物对其饥饿对象进行攻击的回合结束时尝试一个新的豁免检定来结束该效果。如果一个渴求营养的生物成功通过了豁免以提早结束了堕落效果，那么他就会在属性检定、攻击骰、专注检定、豁免检定，和技能检定上受到-2惩罚，只要他处于目标15英尺以内。\n藤莱西法术（VINE LESHY SPELLS）\n藤莱西可以使用以下法术。<\/p>",
+    "source": "UW"
+}

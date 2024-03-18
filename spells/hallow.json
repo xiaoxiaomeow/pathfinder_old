@@ -1,0 +1,30 @@
+{
+    "key": "hallow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hallow/",
+    "name": "Hallow",
+    "school": "evocation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "druid": 5,
+        "inquisitor": 5
+    },
+    "castingTime": "24 hours",
+    "components": "V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the <i>hallowed<\/i> area), DF",
+    "range": "touch",
+    "area": "40-ft. radius emanating from the touched point",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "see text",
+    "text": "<p><i>Hallow<\/i> makes a particular site, building, or structure a holy site. This has four major effects.<\/p>",
+    "name_zh": "圣居",
+    "castingTime_zh": "24小时",
+    "components_zh": "语言, 姿势, 材料 (至少价值1000gp的草药、香油与熏香，还需要加上被固定在圣居区域内的法术，每法术环位1000gp), 法器",
+    "range_zh": "接触",
+    "area_zh": "以接触到的点为中心, 半径40尺发散区域",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "见后文",
+    "text_zh": "<p>圣居可以让一个地点、建筑或者居所物成为神圣之地。这会产生四种功效。<\/p><p>第一，此地被‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’所保护。<\/p><p>第二，在法术效果的区域内，抵抗引导正能量的DC获得+4神圣加值，抵抗引导负能量的DC受到-4减值。法术抗力对此效果无效。该效果不适用于德鲁伊版的圣居。<\/p><p>第三，埋葬在圣居范围内的任何尸体都不会被转变为不死生物。<\/p><p>最后，你能够在圣居中固定一个法术效果。不管该法术正常持续时间和范围如何，被固定后都将持续一年，并作用于整个圣居范围内。你可以决定该法术是作用于全体生物，还是和你具有相同阵营或信仰的生物，或是忠于另一阵营或信仰的生物。一年后，你所固定的效果消失，但只用在该处再次施展圣居即可更新或重置该效果。<\/p><p>可以在圣居内固定的法术如下。豁免检定与法术抗力会对这些法术效果起作用 (详见各法术说明)。\nl  援助术 (aid)\n l  侦测邪恶 (detect evil)\n l  防护能量伤害 (protection from energy)\nl  绝望术 (bane)\n l  侦测魔法 (detect magic)\n l  移除恐惧 (remove fear)\nl  祝福术 (bless)\n l  次元锚 (dimensional anchor)\n l  抵抗能量伤害 (resist energy)\nl  惊恐术 (cause fear)\n l  辨识谎言 (discern lies)\n l  沉默术 (silence)\nl  黑暗术 (darkness)\n l  解除魔法 (dispel magic)\n l  巧言术 (tongues)\nl  昼明术 (daylight)\n l  忍受环境 (endure elements)\n l  诚实之域 (zone of truth)\nl  防死结界 (death ward)\n l  行动自如 (freedom of movement)\nl  深幽黑暗术 (deeper darkness)\n l  消除隐形 (invisibility purge)<\/p><p>在一个区域内，同一时间受到一个圣居效果影响 (及其驻留的法术效果)。圣居能反制但无法解除‘<a href=\"spell.html?spell=unhallow\">邪居 (unhallow)<\/a>’。<\/p>",
+    "source": "CRB"
+}

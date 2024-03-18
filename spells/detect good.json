@@ -1,0 +1,15 @@
+{
+    "key": "detect good",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-good/",
+    "name": "Detect Good",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "shaman": 1
+    },
+    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.<\/p>",
+    "name_zh": "侦测善良",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测善良生物、善良神祇的牧师、善良法术以及善良魔法物品的灵光，而且如若你是邪恶阵营，则有可能被刺目的善良灵光所伤。<\/p>",
+    "source": "CRB"
+}

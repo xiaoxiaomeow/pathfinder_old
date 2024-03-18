@@ -1,0 +1,31 @@
+{
+    "key": "phantasmal web",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-web/",
+    "name": "Phantasmal Web",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 5
+    },
+    "subdomains": {"insanity": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will disbelief, then Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You implant within the minds of your targets the illusion that they are engulfed in tangled webs teeming with swarms of tiny spiders. Those who fail to disbelieve the <i>phantasmal web<\/i> are treated as if in a <i>web<\/i> spell, but must also make a Fortitude save at the beginning of each turn or become nauseated for that round by the phantasmal spiders.<\/p><p>As the <i>phantasmal web<\/i> exists only in the minds of the targets, it cannot be burned or destroyed, and it provides no cover (though it does provide concealment) against attacks made by the targets. Targets cannot escape the <i>phantasmal web<\/i> by moving, even by teleportation. <i>Freedom of movement<\/i> allows unobstructed movement but does not negate the concealment or nausea effects.<\/p><p>Targets of the spell perceive everyone else around them to be engulfed in webs and swarming spiders, but the spell has no visible effect to other creatures (who may assist allies to disbelieve the effect).<\/p>",
+    "name_zh": "魅影蛛网",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每等级一个生物，互相之间间隔不超过30尺",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志，痛过则不相信；强韧，通过则部分生效；见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你让目标陷入被淹没在蠕动的小蜘蛛群以及被无数蛛丝纠缠的幻觉之中。<\/p><p>那些检定失败而相信幻象的生物将会如同被蛛网术 (Web) 所影响，但是它们每一轮行动开始时必须进行强韧检定，否则就会因为幻象中的小蜘蛛群而陷入反胃 (nauseated) 状态。<\/p><p>魅影蛛网只存在于受术生物的心智之中，所以它不会被烧毁或破坏，但是它也不会为目标提供掩蔽 (尽管它会对目标的视野造成隐蔽)。<\/p><p>目标无法依靠移动来摆脱魅影蛛网，即使是传送也不行。自由行动 (Freedom of movement) 法术可以暂时为目标提供自如活动的能力，不过不能使其免于受到隐蔽和反胃的影响。<\/p><p>在法术目标的感知之中，自己和周围的所有人都被无数的蛛丝和小蜘蛛群所淹没，但是这个法术对受术目标之外的生物没有任何视觉影响 (他们可以协助队友看穿幻术效果)。<\/p>",
+    "source": "APG"
+}

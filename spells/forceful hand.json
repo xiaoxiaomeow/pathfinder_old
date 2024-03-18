@@ -1,0 +1,16 @@
+{
+    "key": "forceful hand",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forceful-hand/",
+    "name": "Forceful Hand",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "magus": 6,
+        "sorcerer/wizard": 6
+    },
+    "mysteries": {"godclaw": 6},
+    "text": "<p>This spell functions as <i>interposing hand<\/i>, except that it can also pursue and bull rush one opponent you select.<\/p><p>The <i>forceful hand<\/i> gets one bull rush attack per round. This attack does not provoke an attack of opportunity. Its Combat Maneuver Bonus for bull rush checks uses your caster level in place of its base attack bonus, with a +8 bonus for its Strength score (27), and a +1 bonus for being Large. The hand always moves with the opponent to push them back as far as possible. It has no movement limit for this purpose. Directing the spell to a new target is a move action.<\/p><p><i>Forceful hand<\/i> prevents the opponent from moving closer to you without first succeeding on a bull rush attack, moving both the <i>forceful<\/i> hand and the target closer to you. The <i>forceful hand<\/i> can instead be directed to interpose itself, as <i>interposing hand<\/i> does.<\/p>",
+    "name_zh": "飞击掌",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=interposing hand\">护身掌 (interposing hand)<\/a>’一般，不过飞击掌还能够追赶并冲撞你选定的敌人。飞击掌每轮能进行一次冲撞攻击。这次攻击不会引起借机攻击。在判断飞击掌进行冲撞的CMB时，使用你的CL替代它的BAB，由于力量 (27) 而获得+8加值，并由于大体型而获得+1加值。手掌总是随着敌人移动并尽可能推开他。手掌在这么做时没有速度限制。将法术定向至新的目标是一个移动动作。即使飞击掌没有成功冲撞敌人，它依然能防止敌人接近你，此时飞击掌将与目标一同接近你。你也可以将飞击掌指定至你与目标之间，就如同‘护身掌’一般生效。<\/p>",
+    "source": "CRB"
+}

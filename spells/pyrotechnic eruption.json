@@ -1,0 +1,32 @@
+{
+    "key": "pyrotechnic eruption",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pyrotechnic-eruption/",
+    "name": "Pyrotechnic Eruption",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 3,
+        "magus": 4,
+        "occultist": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of coal)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "see text",
+    "savingThrow": "Reflex half (see text)",
+    "spellResistance": "yes",
+    "text": "<p>The caster causes jets of flame to erupt from the ground and surround the target. The target takes 1d6 points of damage per caster level (maximum 15d6) unless it succeeds at a Reflex save for half damage. The blaze surrounds the target for the duration of the spell, forcing the creature to attempt a new save each round.<\/p><p>Each round, the damage dealt is reduced to half as many d6; the spell expires when it would deal no damage. If the target moves, the pyrotechnic eruption follows, even if the target teleports.<\/p><p>Anyone attempting to touch the target takes damage, using the same amount of dice as the last time the target attempted a save (Reflex half). A creature can take the place of the target by bull rushing or grappling it and switching places. The new creature then automatically takes the current round's damage with no saving throw and can begin to attempt Reflex saves starting on its next turn.<\/p>",
+    "name_zh": "烟火喷发",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一撮煤)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "见下",
+    "savingThrow_zh": "反射，通过则减半 (见下)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>施法者使一喷发的火焰从受术者周围的地面喷涌而出。受术者受到1d6点/施法者等级的伤害(最大15d6)，通过反射豁免检定可以将伤害减半。这股熊熊烈焰在法术持续时间内环绕受术者，迫使受术者每一轮尝试一次新的豁免检定。每一轮，受到的伤害以D6数目的方式减少一半(译注：例如14d6，减少至7d6，下次减少至3d6，以此类推)，当此法术不造成任何伤害后，结束。如果受术者移动，烟火喷发会跟着他，就算受术者传送。\n任何尝试碰触受术者的动作会受到伤害，使用受术者最后一次尝试新豁免时相同的骰子数(反射，通过则减半)。一个生物可以透过冲撞(bull rushing)或是擒抱(grappling)受术者来取代他的位置。这个新生物将会自动受到当前轮的伤害，并且不能尝试豁免，而且可以在他下一轮开始时尝试反射豁免检定。<\/p>",
+    "source": "HA"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "awaken construct",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/awaken-construct/",
+    "name": "Awaken Construct",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 7,
+        "occultist": 5,
+        "psychic": 6,
+        "shaman": 6,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "24 hours",
+    "components": "V, S, M (herbs and oils worth 2,000 gp per HD of target), DF",
+    "range": "touch target mindless construct touched",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p>You amplify the animating force of a construct to more closely resemble a true soul, granting the construct humanlike sentience. To do so, you must succeed at a Spellcraft check (DC = 15 + the construct's current Hit Dice). If the construct's master (if any) is present, this is an opposed Spellcraft check.<\/p><p>You have no special empathy or connection with a creature you awaken—it is a free-willed creature. Golems previously under another creature's control, either as shield guardians or a golem crafter's creations, break all connections with that creature.<\/p><p>Roll 3d6 to determine the Intelligence score of the awakened construct, and increase its Charisma score by 2d6. It gains feats and skill points according to its new Intelligence score, and the skill points are assigned appropriately for its function, as determined by the GM.<\/p><p>An awakened construct speaks one language that its creator spoke, plus one additional language that its creator knew per point of the construct's Intelligence bonus (if any). Its alignment is determined by the GM, but is usually within one step of its creator's alignment. This spell doesn't function on a construct with an Intelligence score.<\/p>",
+    "name_zh": "构装启蒙术",
+    "castingTime_zh": "24小时",
+    "components_zh": "语言，姿势，材料（目标具有的每个HD都需要价值2000gp的草药和油），法器",
+    "target_zh": "接触到的无心智构装体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你将活化构装体的力量进行增强，使它变得更加接近真正的灵魂，赋予构装体类似于人类的感受力。要这么做，你必须进行一次法术辨识检定（DC = 15 + 构装体当前的生命骰）。若构装体的主人（若有的话）在场（present），那么这会是一次对抗性的法术辨识检定。经由你启蒙的生物和你之间没有特殊的情感或联系——它是拥有自由意志的生物。曾经遭受其他生物控制的魔像（Golems），无论之前是作为盾卫（shield guardians）还是作为魔像制造者的造物，现在与该生物的联系都会被打破。\n投掷3d6来判断启蒙构装体的智力属性，之后让它的魅力属性增加2d6点。它会由于新的智力属性而获得专长与技能点数，而且技能点会适当地分配到它所具有的功能上，这些均由GM所决定。启蒙构装体会说一种创造者能够说的语言，构装体具有的每个智力加值（若有的话）都会为它提供一个额外语言，该语言也取自制造者所知晓的语言。构装体的阵营取决于GM，但是通常来说它的阵营与制造者阵营的差距在一阶以内。该法术对具有智力属性的构装体没有效果。<\/p>",
+    "source": "OA"
+}

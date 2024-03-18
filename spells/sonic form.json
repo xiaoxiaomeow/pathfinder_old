@@ -1,0 +1,28 @@
+{
+    "key": "sonic form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-form/",
+    "name": "Sonic Form",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "descriptors": ["sonic"],
+    "levels":     {
+        "alchemist": 6,
+        "bard": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>Upon casting this spell, you keep your relative shape, but you and your equipment are transformed into semisolid sound. While in this sonic form, you take no penalties for squeezing, and you can move through spaces without penalty as if you were a creature three size categories smaller. You can make a melee touch attack once per round that deals 1d6 points of sonic damage + 1 point per caster level. You are considered incorporeal (although you cannot move through solid objects). Any non-magical attacks you make deal half damage. Magical attacks are unaffected, and you can use your magic items and other equipment as normal.<\/p><p>You cannot enter an area of silence. If you are in the area of a silence spell, you take 1d6 points of sonic damage per caster level of the silence spell in the round it is cast and in each round when you end your turn within the spell's area. You can attempt a Fortitude saving throw each round to take half damage.<\/p><p>If this spell's duration ends when you are in a square that a creature of your size cannot normally occupy, you take 3d6 points of damage and are shunted to the nearest open space that you can normally occupy.<\/p>",
+    "name_zh": "音波形态",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一捧来自墓碑或神龛的灰尘）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>通过施放该法术，你能够保持自身的相对形态，但是身体和装备被转化为半固态的声纹。在处于音波形态时，你不会由于被挤压（squeezing）而受到惩罚，而且你可以如同体型小3级的生物一般穿越方格（move through spaces）而不会受到惩罚。每轮1次，你能够进行一次近战接触攻击，造成1d6 + 每施法者等级1点音波伤害。你被视为虚体（incorporeal；不过你无法穿过实体的物体）。任何由你作出的非魔法攻击仅能造成半额伤害。魔法攻击不受影响，而且你能够如常使用自己的魔法物品和其他装备。\n你无法进入沉默术（silence）的区域。若你身处于沉默术的区域，那么你会在沉默术被施放出的那一轮，以及之后当你在回合结束时身处沉默术区域的每一轮中，都会受到沉默术的每施法者等级1d6点音波伤害。你能够每轮尝试一次强韧豁免来使伤害减半。\n若法术的持续时间结束时，你身处的空间是和你体型相符的生物通常无法占据的空间，则会受到3d6点伤害，并且被挪到你能够占据的最近的开放空间中。<\/p>",
+    "source": "ACG"
+}

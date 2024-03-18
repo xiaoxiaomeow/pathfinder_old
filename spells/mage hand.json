@@ -1,0 +1,32 @@
+{
+    "key": "mage hand",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mage-hand/",
+    "name": "Mage Hand",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 0,
+        "magus": 0,
+        "psychic": 0,
+        "sorcerer/wizard": 0,
+        "summoner/unchained summoner": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one non-magical, unattended object weighing up to 5 lbs.",
+    "duration": "concentration",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range.<\/p>",
+    "name_zh": "法师之手",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个非魔法的无主物品，至多5磅重",
+    "duration_zh": "专注",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你用手指着一个物品，使其浮起并向着一个方向移动。以移动动作，你可以指挥目标物品向任意方向移动至多15尺。但是一旦你和物品之间的距离超过法术范围，法术就会终止。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "ghoul touch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-touch/",
+    "name": "Ghoul Touch",
+    "school": "necromancy",
+    "descriptors": ["poison (stench aspect only)"],
+    "levels":     {
+        "bloodrager": 2,
+        "sorcerer/wizard": 2
+    },
+    "subdomains": {"undead": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (cloth from a ghoul or earth from a ghoul's lair)",
+    "range": "touch",
+    "target": "living humanoid touched",
+    "duration": "1d6+2 rounds",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>Imbuing you with negative energy, this spell allows you to paralyze a single living humanoid for the duration of the spell with a successful melee touch attack.<\/p><p>A paralyzed subject exudes a carrion stench that causes all living creatures (except you) in a 10-foot-radius spread to become sickened (Fortitude negates). A neutralize poison spell removes the effect from a sickened creature, and creatures immune to poison are unaffected by the stench. This is a poison effect.<\/p>",
+    "name_zh": "食尸鬼之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (食尸鬼的衣物破片或食尸鬼巢穴的泥土)",
+    "range_zh": "接触",
+    "target_zh": "接触到的活着的类人生物",
+    "duration_zh": "1d6+2轮",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你身上浸满了负能量，通过成功的近战接触攻击，这个法术能让你在法术持续时间内麻痹一个活着的类人生物。<\/p><p>被麻痹的受术者会散发出一股腐肉的恶臭，这股恶臭会导致半径10尺扩散范围内的所有活物 (除了你) 陷入恶心状态 (强韧通过则无效)。‘<a href=\"spell.html?spell=neutralize poison\">中和毒性 (neutralize poison)<\/a>’可以将恶心生物身上的效果移除，免疫毒素的生物不受恶臭的影响。这是一个毒素效果。<\/p>",
+    "source": "CRB"
+}

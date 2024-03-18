@@ -1,0 +1,26 @@
+{
+    "key": "undeath to death",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undeath-to-death/",
+    "name": "Undeath to Death",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6,
+        "sorcerer/wizard": 6
+    },
+    "domains":     {
+        "glory": 6,
+        "repose": 6
+    },
+    "mysteries": {"reaper": 6},
+    "components": ": V, S, M/DF (diamond powder worth 500 gp)",
+    "area": "several undead creatures within a 40-ft.-radius burst",
+    "savingThrow": "Will negates",
+    "text": "<p>This spell functions like circle of death, except that it destroys undead creatures as noted above.<\/p>",
+    "name_zh": "亡灵归亡",
+    "components_zh": "语言, 姿势, 材料/法器 (价值500gp的钻石尘)",
+    "area_zh": "半径40尺爆发范围内的不死生物",
+    "savingThrow_zh": "意志, 通过则无效",
+    "text_zh": "<p>此法术作用类似‘<a href=\"spell.html?spell=circle of death\">死亡法阵 (circle of death)<\/a>’，但本法术会如上文描述中的那样摧毁不死生物。<\/p>",
+    "source": "CRB"
+}

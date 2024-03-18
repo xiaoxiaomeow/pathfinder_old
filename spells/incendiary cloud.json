@@ -1,0 +1,36 @@
+{
+    "key": "incendiary cloud",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/incendiary-cloud/",
+    "name": "Incendiary Cloud",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["fire"],
+    "levels":     {
+        "sorcerer/wizard": 8,
+        "summoner": 6
+    },
+    "domains": {"fire": 8},
+    "elementalSchools": {"fire": 8},
+    "mysteries":     {
+        "apocalypse": 8,
+        "flame": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "cloud spreads in 20-ft. radius, 20 ft. high",
+    "duration": "1 round/level (d)",
+    "savingThrow": ": Reflex half, see text",
+    "spellResistance": "no",
+    "text": "<p>An <i>incendiary cloud<\/i> spell creates a cloud of roiling smoke shot through with white-hot embers. The smoke obscures all sight as a fog cloud does. In addition, the white-hot embers within the cloud deal 6d6 points of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each round to take half damage.<\/p><p>As with a cloudkill spell, the smoke moves away from you at 10 feet per round. Figure out the smoke's new spread each round based on its new point of origin, which is 10 feet farther away from where you were when you cast the spell. By concentrating, you can make the cloud move as much as 60 feet each round. Any portion of the cloud that would extend beyond your maximum range dissipates harmlessly, reducing the remainder's spread thereafter.<\/p><p>As with fog cloud, wind disperses the smoke, and the spell can't be cast underwater.<\/p>",
+    "name_zh": "焚云术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "烟云，扩散至半径20尺、高20尺的区域",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则减半; 见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>焚云术会造出一股充满白热灰烬的沸腾烟云。这股烟云就如同‘<a href=\"spell.html?spell=fog cloud\">云雾术 (fog cloud)<\/a>’一样阻碍所有视线。此外，每一轮在你的回合中，白热灰烬都会对烟云中的所有事物造成6d6点火焰伤害。所有目标每轮都能做反射豁免，成功则伤害减半。<\/p><p>如同‘<a href=\"spell.html?spell=cloudkill\">死云术 (cloudkill)<\/a>’一般，烟云会以每轮10尺的速度远离你。每轮都要以烟云的新源发点开始计算新的扩散区域，源发点会从施放该法术时你所处的位置，每轮向着远离的方向移动10尺。通过专注，你可以指引烟云每轮以至多60尺的速度移动。烟云中任何超出最高法术范围的部分都会无害消散，从而减少剩余部分的扩散区域。<\/p><p>如同云雾术一样，风能吹散烟云，而且该法术无法被施放至水下。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "rumormonger",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rumormonger/",
+    "name": "Rumormonger",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2,
+        "medium": 1,
+        "mesmerist": 2,
+        "psychic": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "long (400 ft. + 40 ft./level)",
+    "effect": "1 rumor",
+    "duration": "1 day/level (d)",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You utter a brief anecdote or bit of news as the verbal component of this spell and track its progress through a social gathering or other crowd. When someone who heard the rumor directly from you and repeated the rumor is within your range, they glow silver to your sight, though this glow doesn't occur if the creature is in disguise (unless it was in the same disguise at the time of casting). You can choose to follow the rumor by selecting any such creature in range, at which point the creatures who heard the rumor from you no longer glow silver, and now the creatures who heard the rumor from your chosen creature glow silver instead. You can follow the rumor's path until you reach a creature that heard the rumor but didn't repeat it (or repeated it incorrectly). The glow identifies only creatures who heard the same information you conveyed. Minor cosmetic changes in the rumor don't interrupt the chain, but when the rumor no longer resembles the information you imparted, the trail stops and the spell ends.<\/p><p>You can instead use this spell to trace a rumor back to its source once you hear it. In this case, you repeat the rumor as you heard it for the spell's verbal component. The person who told you the rumor can attempt a Will save to end the effect. Failure indicates the silver glow leads to the individual that told her. This process continues each time you locate the next individual spreading the same information. Each individual attempts the save until one of them succeeds (in which case the spell ends and you can't attempt to trace this particular rumor again) or you trace the rumor to its original source. As with the other application of the spell, tracing a rumor back fails to cause a creature to glow if it is in disguise, unless it was in the same disguise at the time of speaking the rumor.<\/p>",
+    "name_zh": "标记谣言",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "effect_zh": "1个传闻",
+    "duration_zh": "1日/等级（可解消）",
+    "savingThrow_zh": "意志，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你说出个短故事或者一些消息作为该法术的语言成分，并且通过社交集会或其他人群跟进这些信息的发展。当某人直接从你口中听到谣言，并且在法术范围内重复了这条谣言后，它们便会在你的视野中散发出银色的光亮，不过若该生物易容了（in disguise），便不会产生这些光芒（如果在施法时它保持着与现在相同的易容，则仍会发光）。你能通过任意选择范围内的这些生物来追踪谣言，从此时起，那些从你口中听到谣言的生物便会不再发出银光，而那些从你选择的生物口中听到谣言的生物则开始散发银光作为替代。你能这样追寻着谣言的传播，直至某个生物听到谣言并且不再重复为止（或者重复了错误的谣言为止）。光亮仅能识别出那些听到信息与你说出的谣言相同的生物。对谣言进行无关紧要的修饰（Minor cosmetic）并不会中断这道联系，但是当谣言与你给出的信息不再相似时，这条谣言链便会停止，而法术也就此结束。\n当你听到1条谣言时，也能使用该法术反向追踪其源头。在此情况下，你要重复自己听到的谣言作为该法术的语言成分。告诉你这条谣言的人要尝试1次意志豁免，成功则终止该效果。失败则会产生出1道银光引导你，带你见到将谣言告知对方的那个个体。每当你定位了下一位传播相同信息的个体，就要重复该步骤。每个个体都要尝试豁免，直至其中某人豁免成功（再次情况下法术会结束，而你无法再次尝试追踪该条特定的谣言），或者你追踪到谣言的源头为止。就如同该法术的其他使用方法一般，若有生物易容了，便会导致反向追踪谣言时该生物不会散发光芒，除非它在说出谣言时与现在保持着相同的易容。<\/p>",
+    "source": "UI"
+}

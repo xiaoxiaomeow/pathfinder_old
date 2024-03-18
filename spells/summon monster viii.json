@@ -1,0 +1,27 @@
+{
+    "key": "summon monster viii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/",
+    "name": "Summon Monster VIII",
+    "base": "summon monster i",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 8,
+        "psychic": 8,
+        "sorcerer/wizard": 8,
+        "summoner": 6,
+        "witch": 8
+    },
+    "elementalSchools":     {
+        "air": 8,
+        "earth": 8,
+        "fire": 8,
+        "water": 8
+    },
+    "bloodlines": {"elemental": 8},
+    "text": "<\/div><p>This spell functions like <i>summon monster I<\/i>, except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind from the 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list.<\/p>",
+    "name_zh": "召唤怪物 VIII",
+    "text_zh": "<p>该法术的功能如同‘召唤怪物I’，不过你能够召唤一个来自8环列表的生物、1d3个来自7环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。<\/p>",
+    "source": "CRB"
+}

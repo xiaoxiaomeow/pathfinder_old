@@ -1,0 +1,17 @@
+{
+    "key": "summon nature's ally ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-natures-ally/",
+    "name": "Summon Nature's Ally II",
+    "base": "summon nature's ally i",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "druid": 2,
+        "ranger": 2,
+        "shaman": 2
+    },
+    "text": "<p>This spell functions as <i>summon nature's ally I<\/i>, except that you summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.<\/p>",
+    "name_zh": "召唤自然盟友 II",
+    "text_zh": "<p>该法术的功能如同‘召唤自然盟友I’，不过你能够召唤一个2环生物或者1d3个1环的同类生物。<\/p>",
+    "source": "CRB"
+}

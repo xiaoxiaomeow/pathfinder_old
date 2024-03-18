@@ -1,0 +1,31 @@
+{
+    "key": "alter self",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alter-self/",
+    "name": "Alter Self",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "magus": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>When you cast this spell, you can assume the form of any Small or Medium creature of the humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: darkvision 60 feet, low-light vision, scent, and swim 30 feet.<\/p><p style=\"margin-left: 40px\"><i>Small creature<\/i>: If the form you take is that of a Small humanoid, you gain a +2 size bonus to your Dexterity.<\/p><p style=\"margin-left: 40px\"><i>Medium creature<\/i>: If the form you take is that of a Medium humanoid, you gain a +2 size bonus to your Strength.<\/p>",
+    "name_zh": "变身术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (你想要变成的生物的一小块肢体)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>当你施放该法术时，你能够呈现出任何小型或中型的类人生物之形态。若你呈现的形态具有任何后述能力，那么你也会获得这些能力：60尺黑暗视觉、昏暗视觉、灵敏嗅觉以及30尺游泳速度。<\/p><p><b>小型生物<\/b>：若你呈现的形态是小型类人生物，你的敏捷获得+2体型加值。<\/p><p><b>中型生物<\/b>：若你呈现的形态是中型类人生物，你的力量获得+2体型加值。<\/p>",
+    "source": "CRB"
+}

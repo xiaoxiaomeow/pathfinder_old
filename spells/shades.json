@@ -1,0 +1,15 @@
+{
+    "key": "shades",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shades/",
+    "name": "Shades",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels": {"sorcerer/wizard": 9},
+    "domains": {"darkness": 9},
+    "mysteries": {"shadow": 9},
+    "text": "<p>This spell functions like <i>shadow conjuration<\/i>, except that it mimics conjuration spells of 8th level or lower. The illusory conjurations created deal four-fifths (80%) damage to nonbelievers, and non-damaging effects are 80% likely to work against nonbelievers.<\/p>",
+    "name_zh": "阴魂咒法术",
+    "text_zh": "<p>法术的功能与‘<a href=\"spell.html?spell=shadow conjuration\">幽影咒法术 (shadow conjuration)<\/a>’一样，不过它可以模拟8环或更低环位的咒法系法术。对于不相信的生物来说，幽影咒法术仅造成4/5 (80%) 的伤害，非伤害性效果有80%的可能对他们起作用。<\/p>",
+    "source": "CRB"
+}

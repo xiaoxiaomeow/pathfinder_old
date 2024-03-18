@@ -1,0 +1,36 @@
+{
+    "key": "blasphemy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blasphemy/",
+    "name": "Blasphemy",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "evil",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 7,
+        "inquisitor": 6
+    },
+    "domains": {"evil": 7},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "40 ft.",
+    "area": "nonevil creatures in a 40-ft.-radius spread centered on you",
+    "duration": "instantaneous",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>Any nonevil creature within the area of a <i>blasphemy<\/i> spell suffers the following ill effects:<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"source text\">HD<\/th>    <th class=\"text\">Effect<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Equal to caster level<\/td>    <td class=\"text\">Dazed<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -1<\/td>    <td class=\"text\">Weakened, dazed<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -5<\/td>    <td class=\"text\">Paralyzed, weakened, dazed<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -10<\/td>    <td class=\"text\">Killed, paralyzed, weakened, dazed<\/td>   <\/tr>  <\/tbody> <\/table><p>The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.<\/p><p style=\"margin-left:40px\"><b><i>Dazed<\/i><\/b>: The creature can take no actions for 1 round, though it defends itself normally. Save negates.<\/p><p style=\"margin-left:40px\"><b><i>Weakened<\/i><\/b>: The creature's Strength score decreases by 2d6 points for 2d4 rounds. Save for half.<\/p><p style=\"margin-left:40px\"><b><i>Paralyzed<\/i><\/b>: The creature is paralyzed and helpless for 1d10 minutes. Save reduces the paralyzed effect to 1 round.<\/p><p style=\"margin-left:40px\"><b><i>Killed<\/i><\/b>: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).<\/p><p>Furthermore, if you are on your home plane when you cast this spell, nonevil extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the <i>blasphemy<\/i> or not<i>.<\/i> The banishment effect allows a Will save (at a -4 penalty) to negate.<\/p><p>Creatures whose Hit Dice exceed your caster level are unaffected by <i>blasphemy.<\/i><\/p>",
+    "mythicText": "When determining the spell's effect on non-mythic creatures, add your tier to your caster level. Non-evil creatures that fail the save take a –4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell's other effects last. ",
+    "name_zh": "渎神之语",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "40尺",
+    "area_zh": "以你为中心, 半径40尺扩散区域内的非邪恶生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>任何在渎神之语区域内的非邪恶生物都会受到如下不良效果。\nHD\n 效果\n等于CL\n 晕眩\n至多为CL-1\n 虚弱, 晕眩\n至多为CL-5\n 麻痹, 虚弱, 晕眩\n至多为CL-10\n 死亡, 麻痹, 虚弱, 晕眩<\/p><p>这些效果会累加并且同时发生。成功的意志豁免会减弱或消除这些效果。受到复数效果影响的生物只能进行一次豁免，并且将结果应用至所有效果上。<\/p><p>晕眩 (Dazed): 生物1轮内无法进行动作，但是它依然可以正常防卫自己。豁免通过则无效。<\/p><p>虚弱 (Weakened): 生物的力量减少2d6点，持续2d4轮。豁免通过则减半。<\/p><p>麻痹 (Paralyzed): 生物被麻痹并无助，持续1d10分钟。豁免通过则会将麻痹效果降低至1轮。<\/p><p>死亡 (Killed): 活物死掉。不死生物被摧毁。豁免通过则无效。若豁免成功，生物会受到 {3d6+每CL 1点伤害 (最高+25)} 作为替代。<\/p><p>另外，如果你在你的原属位面施展此法术，区域内的所有非邪恶跨位面生物都会被立刻驱逐回它们的原属位面。被这样驱逐的生物24小时内无法返回。无论生物是否听见渎神之语，效果都会产生。渎神之语的驱逐效果允许进行意志豁免 (有-4减值) 来避免被驱逐, 通过则不会被驱逐。<\/p><p>HD超过你CL的生物不受渎神之语影响。<\/p>",
+    "source": "CRB"
+}

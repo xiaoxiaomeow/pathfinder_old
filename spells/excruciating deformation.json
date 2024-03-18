@@ -1,0 +1,37 @@
+{
+    "key": "excruciating deformation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/excruciating-deformation/",
+    "name": "Excruciating Deformation",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "descriptors":     [
+        "evil",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bloodrager": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>Your touch attack causes your target to become painfully malformed. Its limbs twist and buckle, while its body contorts uncontrollably, shifting and warping. Each round the target suffers excruciating pain and takes 2d6 points of nonlethal damage, 1 point of Dexterity damage, and 1 point of Constitution damage, and its speed is reduced by 10 feet. Once per round as a free action on its turn, the target can attempt a new Fortitude saving throw to resist the spell for 1 round.<\/p>",
+    "name_zh": "痛苦异变",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你的接触让目标产生痛苦的畸形变异。它的四肢扭曲而纠缠在一起，身体不受控的扭动、错位和变形。<\/p><p>每一轮目标都会受到难以忍受的痛苦，受到2d6点非致命伤害，1点敏捷伤害和1点体质伤害，并且速度降低10英尺。<\/p><p>每轮一次，以一个自由动作，目标可以尝试进行一次新的强韧检定以抵抗该法术一轮。<\/p>",
+    "source": "UM"
+}

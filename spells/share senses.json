@@ -1,0 +1,31 @@
+{
+    "key": "share senses",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/share-senses/",
+    "name": "Share Senses",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "divination",
+    "subSchool": ["scrying"],
+    "levels":     {
+        "medium": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 4,
+        "witch": 3
+    },
+    "castingTime": "1 full round",
+    "components": "V, S, M (a hair, scale, or feather from your familiar)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>Spending a moment in meditation and conjuring an image of the creature to mind, you reshape your link with your familiar, causing it to functions like a <i>scrying<\/i> sensor. Upon this spell you can hear, see, or smell (any one, your choice) what your familiar is experiencing. You gain the benefits of any nonmagical special abilities your familiar has tied to the chosen sense (such as low-light vision or scent), but use your own Perception skill. You don't need line of sight or line of effect to your familiar, but you must have an active empathic link. You may change the sense you are sharing as a standard action. Unlike other <i>scrying<\/i> spells, share senses does not allow magically or supernaturally enhanced senses to work through it, and you are unable to see in magical or natural darkness unless your familiar possesses the ability to see in such conditions.<\/p><p>The sensory link with your familiar can be detected as though it were a <i>scrying<\/i> sensor.<\/p>",
+    "name_zh": "感官共享",
+    "castingTime_zh": "1轮 (1 full round)",
+    "components_zh": "语言, 姿势, 材料 (一根毛发、鳞片或羽毛，来自你的魔宠)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "你的魔宠",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>通过一次短暂的冥想，你的魔宠形象浮现在你的思想中，然后你强化了你和魔宠之间的链接，产生了类似探知术 (scrying) 传感器的功能。<\/p><p>当你施放本法术，你可以分享你的魔宠的感官，让你知道它看到、听到或嗅到了什么 (只有一种，由你选择)。<\/p><p>你可以享受到你的魔宠的任何非魔法感官的优势 (例如昏暗视觉或嗅觉敏锐)，但是你仍然使用你自己的察觉技能检定。<\/p><p>你无需和你的魔宠之间有一条效果线，但是你必须保持情感链接。<\/p><p>你可以用一个标准动作切换共享的感官种类。<\/p><p>与其他探知法术不同，本法术不允许传递魔法或超自然感官感受到的信息，而如果你的魔宠不具备相应能力，你也无法看穿魔法或自然黑暗。<\/p><p>这个法术如同一个施放在你的魔宠上的探知术 (Scrying)，因而有被侦测到的可能。<\/p>",
+    "source": "APG"
+}

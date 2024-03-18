@@ -1,0 +1,30 @@
+{
+    "key": "maze",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/maze/",
+    "name": "Maze",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "sorcerer/wizard": 8,
+        "summoner": 6,
+        "witch": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You banish the subject into an extra-dimensional labyrinth. Each round on its turn, it may attempt a DC 20 Intelligence check to escape the labyrinth as a full-round action. If the subject doesn't escape, the maze disappears after 10 minutes, freeing the subject.<\/p><p>On escaping or leaving the maze, the subject reappears where it had been when the <i>maze<\/i> spell was cast. If this location is filled with a solid object, the subject appears in the nearest open space. Spells and abilities that move a creature within a plane, such as teleport and dimension door, do not help a creature escape a <i>maze<\/i> spell, although a plane shift spell allows it to exit to whatever plane is designated in that spell. Minotaurs are not affected by this spell.<\/p>",
+    "name_zh": "迷宫术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将受术者驱逐至由异次元迷宫中。每一轮到受术者的回合时，他都可以尝试通过DC 20的智力检定从迷宫中逃脱，该动作为整轮动作。如果受术者未能逃脱，迷宫会在10分钟后消失，并释放受术者。<\/p><p>逃出或离开迷宫后，受术者出现在原来迷宫术被施展时他所在的地点。如果此地点已经被固体物质塞满，则受术者会出现在距离最近的开放空间中。能使生物在同一个位面中移动的法术或能力，例如‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’和‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’，并不能帮助生物从迷宫术中脱逃，但‘<a href=\"spell.html?spell=plane shift\">异界传送 (plane shift)<\/a>’则可以把受术者送到想去的位面。此法术对牛头人 (Minotaurs) 无效。<\/p>",
+    "source": "CRB"
+}

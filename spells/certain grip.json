@@ -1,0 +1,31 @@
+{
+    "key": "certain grip",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/certain-grip/",
+    "name": "Certain Grip",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bloodrager": 2,
+        "druid": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a tiny ball of tar)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The subject's grip and footing become sure, granting a +4 competence bonus on Climb checks, on Acrobatics checks to balance, and to CMD against bull rush, drag, reposition, and trip attempts. While affected by this spell, the target is also immune to the disarm combat maneuver.<\/p>",
+    "name_zh": "稳固抓握",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一颗沥青球)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>目标能自然的抓握和站稳，攀爬检定和用于维持平衡的特技动作检定，以及对抗冲撞、拖曳、复位和摔绊的CMD检定获得+4表现加值。<\/p><p>此外，法术持续时间内，目标免疫卸除武器。<\/p>",
+    "source": "UC"
+}

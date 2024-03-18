@@ -1,0 +1,27 @@
+{
+    "key": "magic fang, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-fang/",
+    "name": "Magic Fang, Greater",
+    "base": "magic fang",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 3,
+        "ranger": 3,
+        "summoner/unchained summoner": 3
+    },
+    "domains": {"scalykind": 3},
+    "subdomains":     {
+        "cannibalism": 3,
+        "fist": 3
+    },
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 hour/level",
+    "text": "<p>This spell functions like <i>magic fang<\/i>, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5). This bonus does not allow a natural weapon or unarmed strike to bypass damage reduction aside from magic.<\/p><p>Alternatively, you may imbue all of the creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).<\/p><p><i>Greater magic fang<\/i> can be made permanent with a permanency spell.<\/p><\/div>",
+    "name_zh": "高等魔牙术",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Magic Fang\">魔牙术 (Magic Fang)<\/a>’一般，不过每四个CL都会给攻击检定与伤害检定提供+1增强加值 (最高+5)。这些加值不会使天生武器或徒手打击能够克服除魔法之外的任何伤害减免。<\/p><p>你也可以选择法术的另一种效果。选择该效果时，你可以使受影响生物所有的天生武器均获得+1增强加值 (此效果不受你的CL影响)。<\/p><p>高等魔牙术可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

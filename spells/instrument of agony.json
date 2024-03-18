@@ -1,0 +1,30 @@
+{
+    "key": "instrument of agony",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instrument-of-agony/",
+    "name": "Instrument of Agony",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 2,
+        "inquisitor": 2
+    },
+    "subdomains": {"kyton": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "weapon touched",
+    "duration": "1 min.s/level",
+    "savingThrow": "Will negates (harmless, object), see text",
+    "spellResistance": "yes (harmless, object), see text",
+    "text": "<p>You cause a weapon to exude a palpable aura of divine fury. While wielding this weapon, a creature gains a +2 morale bonus on Intimidate checks. When an attack made using the targeted weapon hits, the wielder can spend a free action to discharge the effect to inflict agony on the creature the weapon hit. If that creature has spell resistance, it applies against this effect. If the creature fails a Will save, it is nauseated for 1d4+1 rounds. If it succeeds at the saving throw, the creature is instead sickened for 1 round. The sickened condition created by the instrument is a mind-affecting effect.<\/p>",
+    "name_zh": "痛苦刑具",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的武器",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体，见下文)",
+    "spellResistance_zh": "可 (无害，物体，见下文)",
+    "text_zh": "<p>你让武器散发出一层可见的神圣愤怒灵光。当持有这件武器，生物在威吓检定上获得+2士气加值。<\/p><p>如果在攻击中，受术武器命中，则持有者可以以一个自由动作释放法术的能量对武器击中的生物造成剧烈的疼痛。如果目标生物拥有法术抗力，可以对该效果生效。<\/p><p>如果目标没能通过一次意志豁免，它将反胃1d4+1轮。如果成功通过豁免，则会恶心一轮。这个恶心效果是一个影响心灵效果。<\/p>",
+    "source": "UC"
+}

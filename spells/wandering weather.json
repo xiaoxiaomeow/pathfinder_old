@@ -1,0 +1,18 @@
+{
+    "key": "wandering weather",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-weather/",
+    "name": "Wandering Weather",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 8,
+        "druid": 8,
+        "shaman": 8,
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "text": "<p>This spell functions as control weather except you can opt for the weather to remain centered on you as you move.<\/p>",
+    "name_zh": "巡游天气",
+    "text_zh": "<p>这种法术如同操控天气，除了你可以选择让天气在你移动时随你移动，始终以你为中心。<\/p>",
+    "source": "UW"
+}

@@ -1,0 +1,39 @@
+{
+    "key": "confusion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/confusion/",
+    "name": "Confusion",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 3,
+        "bloodrager": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "domains": {"madness": 4},
+    "subdomains":     {
+        "entropy": 5,
+        "lust": 4,
+        "whimsy": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (three nutshells)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell causes confusion in the targets, making them unable to determine their actions. Roll on the following table at the start of each subject's turn each round to see what it does in that round.<\/p><table border=\"1\" cellpadding=\"5\"><caption>Table: Confusion Effects<\/caption><thead><tr><th class=\"text\">d%<\/th><th class=\"text\">Behavior<\/th><\/tr><\/thead><tbody><tr><td class=\"number\">01-25<\/td><td class=\"text\">Acts normally<\/td><\/tr><tr><td class=\"number\">26-50<\/td><td class=\"text\">Does nothing but babble incoherently<\/td><\/tr><tr><td class=\"number\">51-75<\/td><td class=\"text\">Deals 1d8 points of damage + Str modifier to self with item in hand<\/td><\/tr><tr><td class=\"number\">76-100<\/td><td class=\"text\">Attacks nearest creature (for this purpose, a familiar counts as part of the subject's self)<\/td><\/tr><\/tbody><\/table><p>A confused character who can't carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused character. Any confused character who is attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes. Note that a confused character will not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).<\/p><p><\/p>",
+    "mythicText": "Roll on the table below instead of the non-mythic version at the start of each subject's turn to see what it does in that round. <br><table><tbody><tr><th class=\"text\">d%<\/th><th class=\"text\">Behavior<\/th><\/tr><tr><td class=\"text\">01–25<\/td><td class=\"text\">Subject acts normally, but takes a –2 penalty on all attack rolls, skill checks, and ability checks until its next turn.<\/td><\/tr><tr><td class=\"text\">26–50<\/td><td class=\"text\">Subject does nothing but babble incoherently, and takes a –4 penalty to AC until its next turn.<\/td><\/tr><tr><td class=\"text\">51–75<\/td><td class=\"text\">Subject deals 2d8 points of damage + Str modifier to self with item in hand.<\/td><\/tr><tr><td class=\"text\">76–100<\/td><td class=\"text\">Subject attacks nearest ally (for this purpose, a familiar counts as an ally).<\/td><\/tr><\/tbody><\/table><p style=\"margin-left: 20px\"><b>Augmented<\/b>: If you expend two uses of mythic power when casting the spell, you force one affected creature per round to roll on the table twice and take the higher result. <br><\/div>",
+    "name_zh": "困惑术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (三个坚果壳)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "半径15尺爆发区域内的所有生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会使目标困惑，使它们无法决定自己要做什么。每轮在受术者的回合开始时按照后述表格进行检定，以此来判断它在该轮做什么。\nd%\n 行为\n01 – 25\n 正常行动\n26 – 50\n 除了胡言乱语外什么都不做\n51 – 75\n 使用手中的物品对自己造成 {1d8+力量修正} 点伤害\n76 – 100\n 攻击最近的生物 (在判断该效果时, 魔宠被视为受术者自身的一部分)<\/p><p>困惑的角色若无法执行表中的行动，则会除了胡言乱语外什么都不做。在攻击困惑的生物时，攻击者不会获得什么特别的优势。被攻击的困惑的生物在被攻击后，只要仍旧在之后的回合保持困惑状态，就会在它的下个回合自动反击攻击者。请注意，除了已经成为被困惑生物攻击的目标 (这包括它最新动作的目标以及刚刚攻击它的目标) 以外，困惑生物不会对任何生物进行借机攻击。<\/p>",
+    "source": "CRB"
+}

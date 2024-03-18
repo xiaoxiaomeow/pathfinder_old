@@ -1,0 +1,18 @@
+{
+    "key": "call lightning storm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning-storm/",
+    "name": "Call Lightning Storm",
+    "school": "evocation",
+    "descriptors": ["electricity"],
+    "levels":     {
+        "druid": 5,
+        "shaman": 5
+    },
+    "subdomains": {"storms": 5},
+    "range": "long (400 ft. + 40 ft./level)",
+    "text": "<p>This spell functions like call lightning, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.<\/p>",
+    "name_zh": "召唤雷暴",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=call lightning\">召雷术 (call lightning)<\/a>’一般，不过每道闪电会造成5d6点闪电伤害 (在户外且风雨交加的区域则造成5d10点)，并且你最高可以召唤15道闪电。<\/p>",
+    "source": "CRB"
+}

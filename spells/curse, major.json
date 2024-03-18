@@ -1,0 +1,31 @@
+{
+    "key": "curse, major",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-major/",
+    "name": "Curse, Major",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "shaman": 5,
+        "sorcerer/wizard": 6,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "text": "<p>This spell functions as bestow curse, except the DC to remove the curse is equal to the save DC +5.<\/p>",
+    "name_zh": "强效诅咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式如同降咒 (bestow curse)，不过移除诅咒所需进行的检定DC+5。<\/p>",
+    "source": "UM"
+}

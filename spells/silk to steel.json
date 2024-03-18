@@ -1,0 +1,31 @@
+{
+    "key": "silk to steel",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/silk-to-steel/",
+    "name": "Silk to Steel",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "elementalSchools": {"metal": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one scarf",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You imbue an ordinary scarf (or similar piece of clothing) with the strength of steel without altering its weight or flexibility. Each round on your turn, you can decide to use the scarf to defend yourself (gaining a +2 shield bonus to your Armor Class) or to attack as if the scarf were a whip.<\/p>",
+    "name_zh": "束布成钢",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "一条围巾",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>你给一条普通的围巾 (或类似服装部件) 灌输能量，使其在保持轻盈和灵活的同时获得钢铁的硬度。每一轮当你行动时，你可以选择用围巾保护你自己 (AC获得+2护盾加值)，或者用其进行攻击，视同一条长鞭。<\/p>",
+    "source": "UM"
+}

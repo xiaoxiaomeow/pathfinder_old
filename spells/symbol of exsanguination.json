@@ -1,0 +1,32 @@
+{
+    "key": "symbol of exsanguination",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-exsanguination/",
+    "name": "Symbol of Exsanguination",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "bloodrager": 2,
+        "cleric": 3,
+        "occultist": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered garnet and bloodstone worth a total of 500 gp)",
+    "range": "0 ft.; see text effect one symbol",
+    "duration": "10 min.s/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like symbol of death, except that each creature within the radius of <i>symbol of exsanguination<\/i> begins to bleed uncontrollably and violently from their eyes, ears, nose, and mouth, as well as any existing open wounds. Creatures that failed their saving throws immediately take 1d6 points of bleed damage and are sickened as long as they continue to take bleed damage from the symbol.<\/p><p>While a DC 15 Heal check or magical healing can end the bleed damage as normal, the bleed damage and sickened condition begin again each round so long as the creature begins its turn still within 60 feet of the symbol, including if the creature leaves the area and returns. Creatures that succeed at their saving throw suffer no ill effects from the symbol, even if they leave its area and return.<\/p><p>Unlike symbol of death, <i>symbol of exsanguination<\/i> has no hit point limit on the creatures it can affect. Once triggered, a <i>symbol of exsanguination<\/i> remains active for 10 minutes per caster level.<\/p><p>Magic traps such as <i>symbol of exsanguination<\/i> are hard to detect and disable.<\/p><p>While any character can use Perception to find a symbol, only a character who has the trapfinding class feature can use Disable Device to disarm it.<\/p><p>The DC in each case is equal to 25 + spell level, or 28 (27 for a bloodrager) for <i>symbol of exsanguination<\/i>.<\/p>",
+    "name_zh": "驱血徽记",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、材料 (总价值500gp的石榴石粉末与血石粉末)",
+    "effect_zh": "一枚圣徽",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将部分被肢解的躯体嫁接到你身上。你必须拥有这部分肢体的所有权，否则此法术没有效果。被嫁接的肢体必须来自跟你同体型类别的生物。同一时间内，你只能有一个嫁接部份活动着。嫁接一个新肢体会立即结束较早施展的此法术效果，并使较早的嫁接肢体掉落。嫁接的效果取决于你选择嫁接到自己身上的身体部位的类型，如下所列。\n鳍：鳍会给你40尺游泳速度。\n头：头会给你全域视野(all-around vision)。如果头是来自一个拥有黑暗视觉、昏暗视觉或灵敏嗅觉的生物，你能获得这些适合的感知正常距离的一半。你可以透过另一颗头说话，但两颗头不能同时说。你不会获得这颗头可能有的任何额外的特殊能力(像是蛇发女妖的石化凝视能力)。\n腿：腿会增加你的基础移动速度5尺，并在闯越与摔拌战技的CMD上给你+2加值(因为额外的腿，通常会给予的加值)。\n翅膀：翅膀会给你40尺飞行速度(不良)。<\/p>",
+    "source": "HA"
+}

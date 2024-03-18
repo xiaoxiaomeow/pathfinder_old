@@ -1,0 +1,33 @@
+{
+    "key": "mindscape door",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mindscape-door/",
+    "name": "Mindscape Door",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 3,
+        "mesmerist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one illusory portal",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "no",
+    "text": "<p>You or other creatures enter into or escape from a mindscape through an imaginary doorway. This doorway takes on any form of your choosing, but can be no larger than a 5-foot cube. This spell has different effects depending on whether you are inside a mindscape when you cast it.<\/p><p>When you cast this spell outside a mindscape, the doorway connects to one mindscape inhabited by a creature of your choice within close range (25 feet + 5 feet per 2 levels) of the door. That creature becomes the door's conduit, but can attempt a Will save to deny access to the mindscape. You must be aware of the mindscape to connect a mindscape door to it.<\/p><p>If you connect to the mindscape, you designate any number of creatures to be able to see and pass through the door as though it were a normal doorway. You can name specific creatures or categories of creatures, or allow all creatures access. Creatures other than those you designate can't perceive or use the door, nor can mindless creatures or those immune to mind-affecting effects. Once anyone enters the mindscape through the door, a duplicate of the door appears inside the mindscape next to the creature you used as a conduit. Anyone inside a mindscape is able to perceive and use a mindscape door within that mindscape. Anyone who enters is subject to all rules of the mindscape, but is aware she is in a mindscape if you informed her where the portal leads.<\/p><p>When you cast this spell inside a mindscape, a duplicate of the door appears next to your body in the real world. The creator of the mindscape can attempt a Will saving throw to prevent you from creating the door if she is within the mindscape. The two doors operate as if you'd cast the spell outside a mindscape.<\/p><p>You still designate who can use the door from the real world to get into the mindscape, but you can't prevent creatures within the mindscape from exiting to the real world.<\/p><p>Typically, a mindscape door operates in both directions, but you can create it as a one-way door if you so choose. Unlike with other spells, you can cast this spell as a full-round action while engaged in a psychic duel. This spell can be used to exit a binary mindscape, but not to enter one. If you successfully cast mindscape door within a veiled mindscape, you learn that you are in a mindscape, but other creatures observing the door don't automatically realize they are.<\/p>",
+    "name_zh": "心像门",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一道幻象门（illusory portal）",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志，通过则无效（见后文）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你或其他生物能够通过这道虚构的门扉进入或离开心像结界（Mindscape）。这道门扉的外观由你选择，但它的体积不会大于边长五尺的立方体。根据施法之时，你自身是否身处于心像结界之内，该法术会有几个不同的效果。\n当你在心像结界之外施放该法术时，心像门会通往一个有生物存在的心像结界内，这个生物与门扉的距离在近距范围（25尺 + 每2个等级5尺）内，且由你来选定目标。该名生物会成为心像门的导体，不过它也能够尝试一次意志豁免来抗拒它人进入心像结界。你必须意识到心像结界的存在，才能够开启心像门通向那里。当你与心像结界联通时，能够指定任意数量的生物，使它们能够看到和穿过心像门，就如同通过一道普通的门扉一般。你可以指名特定的生物、指名特定类型的生物、或者允许所有生物通过。在你指定范围之外的生物、无心智（mindless）和免疫影响心灵（mind-affecting）效果的生物无法察觉和使用心像门。一旦有任何生物通过心像门进入到心像结界内，一个心像门的复制品便会出现在心像结界之内，位于该名生物的旁边，使之成为一条通道。任何位于该心像结界之内的生物都能够意识到和使用这个心像门。所有进入心像结界的受术者都要遵循心像结界内的所有准则，不过如果你告知了进入心像门的生物，通路的另一侧是心像结界的话，这些生物也会意识到自己身处于心像结界之内。\n当你在心像结界之内施放该法术时，心像门的复制品会出现在现实世界中，位于你的身体的旁边。如果心像结界的创造者也身处在心像结界内，那么她就能够尝试一次意志豁免来防止你创造心像门。两侧心像门的使用方式均如同你在心像结界之外施法时一般。你仍旧需要指定现实世界中谁能够使用心像门进入心像结界，但是你无法防止心像结界内的生物逃离到现实世界中。\n通常来说，心像门是双向的，但是你也可以选择开启一道单向的心像门。与其他法术不同，你可以在一场异能决斗（Psychic Duels）中以整轮动作施放该法术。该法术可以被用于逃离并行式心像结界（Binary Mindscape），但是无法用于进入这样的心像结界。当你成功在隐蔽（Veiled）心像结界（mindscape）之内施放心像门，那么你能够了解到自己身处在心像结界之内，但是其他看到心像门的生物无法自动意识到自己身处在心像结界之内。<\/p>",
+    "source": "OA"
+}

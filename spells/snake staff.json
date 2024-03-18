@@ -1,0 +1,29 @@
+{
+    "key": "snake staff",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/snake-staff/",
+    "name": "Snake Staff",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 5,
+        "druid": 5,
+        "shaman": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a knife suitable for whittling)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>With a long hissing whisper, you transform ordinary pieces of wood into various sorts of snakes that immediately attack your foes.<\/p><p>As long as the snakes remain within sight, you can direct their actions telepathically as a free action. You can only apply this spell to wooden objects not in a creature's possession or not part of a larger structure or plant. Each time you cast this spell you can create a number of snakes equal to your caster level. More powerful snakes take up more than one of your available total, as noted below.<\/p><p style=\"margin-left:40px\">Venomous Snake: A stick or piece of firewood. Counts as 1 snake.<\/p><p style=\"margin-left:40px\">Constrictor Snake: A staff or tree branch. Counts as 2 snakes.<\/p><p style=\"margin-left:40px\">Advanced Venomous Snake: A stick or piece of firewood. Counts as 2 snakes.<\/p><p style=\"margin-left:40px\">Advanced Constrictor Snake: A staff or tree branch. Counts as 3 snakes.<\/p><p style=\"margin-left:40px\">Advanced Giant Venomous Snake: A log or pile of debris. Counts as 4 snakes.<\/p><p style=\"margin-left:40px\">Advanced Giant Constrictor Snake: A fallen tree or a large pile of debris. Counts as 5 snakes.<\/p>",
+    "name_zh": "灵蛇杖",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一把小刻刀)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一块或多块木头，互相之间间隔不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>随着一阵嘶嘶低语，你将各种普通木块转变成蛇群并立即攻击你的敌人。<\/p><p>只要蛇还在你的视野内，你就可以以一个自由动作用心灵感应指挥它们行动。<\/p><p>你不能用一个生物的所有物或一个大型构装或植物的一部分来施放该法术。<\/p><p>当你施放该法术，你可以创造数量等同你施法者等级的蛇群。更强大的蛇类将占用更多可用数量，如下所述。\n－毒蛇 (Venomous Snake): 一根或一片木柴。计为一条。\n－蟒蛇 (Constrictor Snake): 一根木杖或树枝。计为两条。\n－进化的毒蛇 (Advanced Venomous Snake): 一根或一片木柴。计为两条。\n－进化的蟒蛇 (Advanced Constrictor Snake): 一根木杖或树枝。计为三条。\n－进化的巨型毒蛇 (Advanced Giant Venomous Snake): 大量或一堆木片。计为四条。\n－进化的巨型蟒蛇 (Advanced Giant Constrictor Snake): 一棵倒下的大树或巨量的木片。计为五条。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "create pit",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-pit/",
+    "name": "Create Pit",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2
+    },
+    "subdomains": {"caves": 2},
+    "elementalSchools": {"earth": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (miniature shovel costing 10 gp)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "10-ft.-by-10-ft. hole, 10 ft. deep/2 levels",
+    "duration": "1 round + 1 round/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p>You create a 10-foot-by-10-foot extra-dimensional hole with a depth of 10 feet per two caster levels (maximum 30 feet). You must create the pit on a horizontal surface of sufficient size. Since it extends into another dimension, the pit has no weight and does not otherwise displace the original underlying material. You can create the pit in the deck of a ship as easily as in a dungeon floor or the ground of a forest. Any creature standing in the area where you first conjured the pit must make a Reflex saving throw to jump to safety in the nearest open space. In addition, the edges of the pit are sloped, and any creature ending its turn on a square adjacent to the pit must make a Reflex saving throw with a +2 bonus to avoid falling into it. Creatures subjected to an effect intended to push them into the pit (such as bull rush) do not get a saving throw to avoid falling in if they are affected by the pushing effect.<\/p><p>Creatures who fall into the pit take falling damage as normal. The pit's coarse stone walls have a Climb DC of 25. When the duration of the spell ends, creatures within the hole rise up with the bottom of the pit until they are standing on the surface over the course of a single round.<\/p>",
+    "name_zh": "造坑术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，器材 (价值10GP的铲子小模型)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "10英尺长宽的洞，深10英尺/两等级",
+    "duration_zh": "1轮 + 每等级1轮",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造出一个10英尺长宽，深10英尺/两施法者等级 (最大30英尺) 的次元坑。你必须将坑创造在具有足够尺存的水平表面上，因为它延伸于其他的次元中，所以这个坑没有重量并且不会改变创造地的原始材质。将坑创造于船的甲板上并不会比将它创造于地城地板或森林土地上更困难。当你创造出坑的那一刻，任何处于该区域内的生物必须进行一次反射豁免以安全地跳到最近的可进入空间。此外，坑的边缘是倾斜的，任何在临近于坑的格子结束其回合的生物都必须进行一次得到额外+2加值的反射豁免以避免落入坑中。如果一个效果 (比如冲撞) 将生物推入坑中，那么他无法进行豁免以避免落入。<\/p><p>落入坑中的生物受到正常的坠落伤害。攀爬其粗糙的石制四壁需要通过DC25的攀爬检定。当法术持续时间结束时，坑中的生物随坑的底部上升，直到他们回到正常表面，整个上升过程需要一轮。<\/p>",
+    "source": "APG"
+}

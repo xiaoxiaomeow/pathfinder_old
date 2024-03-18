@@ -1,0 +1,36 @@
+{
+    "key": "true strike",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/true-strike/",
+    "name": "True Strike",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 1,
+        "bloodrager": 1,
+        "inquisitor": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "domains":     {
+        "destruction": 1,
+        "luck": 1
+    },
+    "subdomains": {"fist": 1},
+    "elementalSchools": {"void": 1},
+    "bloodlines": {"astral": 1},
+    "castingTime": "1 standard action",
+    "components": "V, F (small wooden replica of an archery target)",
+    "range": "personal",
+    "target": "you",
+    "duration": "see text",
+    "text": "<p>You gain temporary, intuitive insight into the immediate future during your next attack. Your next single attack roll (if it is made before the end of the next round) gains a +20 insight bonus. Additionally, you are not affected by the miss chance that applies to attackers trying to strike a concealed target.<\/p>",
+    "name_zh": "克敌机先",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 器材 (小型木质箭靶复制品)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "见后文",
+    "text_zh": "<p>你暂时获得敏锐的洞察力，可以看出下次攻击时的短暂未来走向。你的下一次攻击检定 (必须在下一轮结束前) 获得+20的洞察加值。除此之外，你不会受到在攻击隐蔽的目标时所产生的失手率影响。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,38 @@
+{
+    "key": "curse terrain, lesser",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-terrain/",
+    "name": "Curse Terrain, Lesser",
+    "base": "curse terrain",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 2,
+        "druid": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 350 gp)",
+    "range": "touch",
+    "area": "300-ft. radius emanating from the touched point",
+    "duration": "1 day (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>By touching the ground, you curse the land with three unnatural hazards, as the minor perilous demesne curse. Though this makes the hazards appear frequently, their manifestations are still unpredictable—you can't control when the hazards begin or end, nor where they appear within the cursed terrain.<\/p><p>Curse terrain spells can be made permanent with a permanency spell. The minimum caster level and gp cost are shown on the table. The spell is still dismissable if made permanent.<\/p><table border=\"1\" cellpadding=\"5\">   <thead>    <tr>     <th class=\"text\">Spell<\/th>     <th class=\"text\">Minimum Caster Level<\/th>     <th class=\"text\">Cost (gp)<\/th>    <\/tr>   <\/thead>   <tbody>    <tr>     <td class=\"text\">Lesser curse terrain<\/td>     <td class=\"number\">9th<\/td>     <td class=\"number\">2,500<\/td>    <\/tr>    <tr>     <td class=\"text\">Curse terrain<\/td>     <td class=\"number\">11th<\/td>     <td class=\"number\">7,500<\/td>    <\/tr>    <tr>     <td class=\"text\">Greater curse terrain<\/td>     <td class=\"number\">15th<\/td>     <td class=\"number\">17,500<\/td>    <\/tr>    <tr>     <td class=\"text\">Supreme curse terrain<\/td>     <td class=\"number\">19th<\/td>     <td class=\"number\">27,500<\/td>    <\/tr>   <\/tbody>  <\/table>",
+    "name_zh": "次级诅咒地形",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、材料 (一颗居住在此地区生物的心脏，以及价值350gp的玛瑙粉末)",
+    "range_zh": "接触",
+    "area_zh": "从接触的点向外弥漫半径300尺",
+    "duration_zh": "1天 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>透过触摸大地，你令三个超自然危机诅咒这片土地，如同低等危险地域诅咒(见Page.145)。尽管此法术能让危机频繁显现，但这些变异仍然变幻莫测，你无法控制危机何时开始与结束，也不能控制它们会于诅咒地形内何处出现。\n诅咒地形可以被魔法恒定术(permanency)所恒定。最小施法者等级以及需花费之金币已经显现在列表中。就算被恒定，此法术仍可以被解除。<\/p>",
+    "source": "HA"
+}

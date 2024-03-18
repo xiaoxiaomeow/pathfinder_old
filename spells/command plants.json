@@ -1,0 +1,31 @@
+{
+    "key": "command plants",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/command-plants/",
+    "name": "Command Plants",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 4,
+        "ranger": 3,
+        "shaman": 4
+    },
+    "domains": {"plant": 4},
+    "elementalSchools": {"wood": 5},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 day/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell allows you some degree of control over one or more plant creatures. Affected plant creatures can understand you, and they perceive your words and actions in the most favorable way (treat their attitude as friendly). They will not attack you while the spell lasts. You can try to give a subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. (Retries are not allowed.) A commanded plant never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.<\/p><p>You can affect a number of plant creatures whose combined level or HD do not exceed twice your level.<\/p>",
+    "name_zh": "命令植物",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "至多每等级2个HD的植物类生物，任意两者之间的距离不超过30尺",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术允许你在一定程度上控制一个或者更多个植物类生物。受影响的植物类生物将能够理解你的意思，并且会认为你的言行都是最有利于它们的 (它们对你的态度视为友善)。只要法术仍在持续，它们就不会攻击你。你可以尝试对它们下令，但你必须通过魅力对抗检定才能让它们去做通常不会做的事情 (无法重试)。被控制的植物决不可能服从自杀或者明显对自己有伤害的命令，但它或许会相信一些非常危险的事情是值得去做的。<\/p><p>你可以命令复数植物类生物，其等级或HD的总和不能超过你的CL的两倍。<\/p>",
+    "source": "CRB"
+}

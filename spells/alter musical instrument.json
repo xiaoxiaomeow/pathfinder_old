@@ -1,0 +1,31 @@
+{
+    "key": "alter musical instrument",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alter-musical-instrument/",
+    "name": "Alter Musical Instrument",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "bard": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (an instrument)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one musical instrument",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You alter an instrument so it sounds like a different kind of instrument you are familiar with. The change could be minor (such as making a lute sound like a guitar) or major (making a keyboard sound like drums). All other aspects of the instrument—such as volume, pitch, and how it is played—are unchanged. For example, a piccolo made to sound like an organ is no louder than a normal piccolo, can produce only high notes in the piccolo range, and is a wind instrument.<\/p>",
+    "name_zh": "乐器变音",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（一件乐器）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一件乐器",
+    "duration_zh": "1小时/等级（可解消）",
+    "savingThrow_zh": "强韧，通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你可以改变一个乐器，让它的音色听起来像是另一种你所熟悉的乐器。这种改变可以并不明显（比如让鲁特琴的音色听起来像六弦琴一般），也能够产生很大幅度的变化（比如让键盘式乐器发出鼓的声音）。乐器的所有其他方面——比如音量、音高以及如何演奏——都不会改变。例如，你能够让短笛的音色听起来和风琴一样，但是并不能使它发出超过普通短笛所能发出的音量，它所能够发出的高音也仍旧在短笛的音域之内，并且仍旧还是吹管乐器。<\/p>",
+    "source": "ACG"
+}

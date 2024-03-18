@@ -1,0 +1,31 @@
+{
+    "key": "burst of speed",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-speed/",
+    "name": "Burst of Speed",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 3,
+        "antipaladin": 3,
+        "bloodrager": 3,
+        "magus": 3,
+        "medium": 3,
+        "inquisitor": 3,
+        "paladin": 3,
+        "psychic": 3,
+        "ranger": 3
+    },
+    "castingTime": "1 swift action",
+    "range": "personal",
+    "target": "you",
+    "duration": "see text",
+    "text": "<p>Until the end of your turn, you gain a +20-foot bonus to speed (or +10-foot bonus if you are wearing Medium or Heavy armor), your movement does not provoke attacks of opportunity, and you can move through the space of creatures that are larger than you are, but you cannot end your movement this round in a space occupied by a creature.<\/p>",
+    "name_zh": "速度爆发",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "见下文",
+    "text_zh": "<p>持续时间    见下文<\/p><p>在你本轮行动结束之前，你的移动速度提高20英尺 (如果身穿中甲或重甲，则为10英尺)，你的移动不会导致藉机攻击。<\/p><p>并且你可以穿越比你体型大的生物占据的位置，但是你不能在本轮结束时仍跟它重叠在一起。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "river whip",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/river-whip/",
+    "name": "River Whip",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["water"],
+    "levels":     {
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "0 ft.",
+    "effect": "whip of water",
+    "duration": "1 min./level (d) or until discharged (see text)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You create a coil of flowing fresh water, functioning a whip appropriate for your size, except you make a melee touch attack instead of a regular attack. Anything you strike with the whip takes damage and is doused with 1 pint of water. A creature with the fire subtype takes an additional 1d6 points of damage. If the target is on fire, it gains a +2 bonus on its next saving throw to extinguish the flames.<\/p><p>After you have successfully used the whip to hit a creature a number of times equal to your caster level, the water is expended and the spell is discharged. The water created by this spell is otherwise identical to that produced by create water.<\/p>",
+    "name_zh": "流水长鞭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "0尺",
+    "effect_zh": "水鞭",
+    "duration_zh": "1分钟/等级（可解消）或直至耗散（见后文）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造出一卷流动的活水，它被视为符合你体型的长鞭（whip），不过你可以使用它作出一次近战接触攻击以取代一次普通的攻击（regular attack）。任何被你用水鞭击打的事物都会受到伤害，并且被淋上1品脱的水。具有火系亚种（fire subtype）的生物会额外受到1d6点伤害。若目标着火了（on fire），那么它能够在下一次熄灭火焰的豁免检定中获得+2加值。\n当你使用水鞭成功命中生物的次数等同于你的施法者等级时，组成鞭子的水就会被耗尽而法术也会耗散。由该法术造出的水在其他方面与造水术（Create Water）造出的水是相同的。<\/p>",
+    "source": "ACG"
+}

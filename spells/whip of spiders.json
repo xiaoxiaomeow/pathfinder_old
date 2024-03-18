@@ -1,0 +1,33 @@
+{
+    "key": "whip of spiders",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/whip-of-spiders/",
+    "name": "Whip of Spiders",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "bard": 2,
+        "druid": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a square of red cloth)",
+    "range": "0 ft.",
+    "effect": "whiplike swarm",
+    "duration": "1 round/level (d (see text)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You summon hundreds of Diminutive spiders, which cling together in the form of a whip made for a creature of your size. You can wield this object as if it were an actual whip, except you make a melee touch attack with it instead of a regular attack. Any creature you strike with the whip takes swarm damage as if it were attacked by a spider swarm (1d6 points of damage plus poison and distraction). The swarm whip is able to damage creatures with armor or natural armor, even if a normal whip could not. It cannot be used to make bull rush, grapple, or trip attacks, and (unlike a swarm) is subject to a miss chance for concealment and cover.<\/p><p>The whip is immune to all weapon damage, is never staggered or reduced to a dying state by damage, and is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as disintegrate). The whip takes half again as much damage from spells or effects that affect an area, but since it is considered part of your gear, it takes damage only if you fail a saving throw on a 1 or if it is specifically targeted by an opponent. The whip does not have a swarm's susceptibility to high winds.<\/p><p>As a standard action, you can transform the whip into a spider swarm (all squares of the swarm must be within 15 feet of you); thereafter it functions as summon swarm. The spider swarm has 3 hit points and persists in that form for 2 rounds or until the end of this spell's duration, whichever comes first.<\/p>",
+    "name_zh": "蜘蛛长鞭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（方形红布）",
+    "range_zh": "0尺",
+    "effect_zh": "鞭子形状的集群",
+    "duration_zh": "1轮/等级（可解消；见后文）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你召唤出上百只微型蜘蛛，它们会黏在一起，组成一根与你体型相符的鞭子形状。你能够持用这个物体，就如同使用真正的长鞭（whip）一般，不过你可以使用它进行一次近战接触攻击来取代一次普通的攻击（regular attack）。任何被你用鞭子命中的生物都会受到集群伤害，就如同被蜘蛛群（Spider Swarm）攻击了一般（1d6伤害 外加 毒素和 扰乱心神；见Bestiary 258页）。集群长鞭可以伤害具有护甲或天生防御的生物，即便正常的长鞭做不到这点也可以。它无法被用于冲撞、擒抱或摔绊攻击，而且（与集群不同）会受到隐蔽（concealment）和掩蔽（cover）带来的失手率影响。\n长鞭免疫所有武器伤害，绝对不会由于伤害而陷入恍惚（staggered）或濒死（dying）状态，免疫任何以特定数量的生物为目标的法术或效果，比如解离术（disintegrate）。长鞭在受到影响一片区域的法术或效果时，也仅会承受半额伤害，不过由于它被视为你的装备的一部分，所以只有在你丢出自然1点而导致豁免失败、或者被一个敌人特别指定为目标时才会受到伤害。长鞭也不具有集群那易受强风影响的弱点。\n以标准动作，你能够将长鞭变化为蜘蛛集群（集群所占据的所有方格都必须在距离你15尺的范围内）；在此之后该法术的功能就如同飞虫走兽（Summon Swarm）一般。蜘蛛集群具有3点生命值，并且会在此形态中维持2轮、或者直至该法术的持续时间结束为止，以较早发生者为准。<\/p>",
+    "source": "ACG"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "pernicious poison",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pernicious-poison/",
+    "name": "Pernicious Poison",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["poison"],
+    "levels":     {
+        "antipaladin": 2,
+        "druid": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "subdomains": {"venom": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min./level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.<\/p>",
+    "name_zh": "致命药引",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你弱化了目标对毒素的抵抗能力。目标在针对毒素的豁免检定上获得-4罚值，并且毒素对目标会造成额外两次后续效果。 (例如：黑蝰蛇毒会持续8轮而非原先的6轮，而砒霜将会持续6分钟而非4分钟。)<\/p><p>试图治愈目标身上的中毒效果的技能或法术检定也会受到-4罚值。<\/p>",
+    "source": "UM"
+}

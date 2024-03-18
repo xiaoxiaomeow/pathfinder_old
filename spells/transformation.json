@@ -1,0 +1,30 @@
+{
+    "key": "transformation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transformation/",
+    "name": "Transformation",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 6,
+        "magus": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "bloodlines":     {
+        "abyssal": 6,
+        "boreal": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a <i>potion<\/i> of bull's strength, which you drink and whose effects are subsumed by the spell effects)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>You become a fighting machine &#8211; stronger, tougher, faster, and more skilled in combat. Your mindset changes so that you relish combat and you can't cast spells, even from magic items.<\/p><p>You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, a +4 natural armor bonus to AC, a +5 competence bonus on Fortitude saves, and proficiency with all simple and martial weapons. Your base attack bonus equals your character level (which may give you multiple attacks).<\/p><p>You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if the spells were no longer on your class list.<\/p>",
+    "name_zh": "转变术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一瓶牛之力量药水, 你要喝下它, 而它的效果已经包含在法术效果内)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>你变成一个纯粹的战斗机器——更强，更狠，更快，更精于战斗。你的思维完全转型成为战斗类型，所以你无法施法，甚至不能通过魔法物品施法 (比如魔杖)。<\/p><p>你的力量，敏捷和体质获得+4增强加值，AC获得+4的天生护甲加值，强韧豁免获得+5表现加值，并且擅长所有简易和军用武器。你的BAB等同于你的角色等级 (这也许会使你可以进行多次攻击)。<\/p><p>你将失去施法能力，包括使用法术启动型 (spell activation) 或法术完成型 (spell completion) 魔法物品的能力，就好像你的职业能力里不再具有那些法术一般。<\/p>",
+    "source": "CRB"
+}

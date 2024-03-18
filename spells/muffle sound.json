@@ -1,0 +1,32 @@
+{
+    "key": "muffle sound",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/muffle-sound/",
+    "name": "Muffle Sound",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 2,
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "mesmerist": 2,
+        "psychic": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You suppress sounds made by the targets, granting them a +4 bonus on Stealth checks. The targets have a 20% chance of spell failure when casting spells with verbal components or using abilities that have audible components (such as some bardic performances). This spell does not hamper the targets' ability to hear other sounds and provides no protection against language-dependent or sonic spells and effects.<\/p><\/div>",
+    "name_zh": "消音术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个盟友",
+    "duration_zh": "1分钟/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你压制了由目标发出的声音，这使得他们在潜行检定中获得+4加值。当目标施放具有语言成分的法术或者使用需要声音成分的能力（比如某些吟游表演）时，都有20%概率失败。该法术不会妨碍目标听到其他声音的能力，而且也无法保护目标免受依赖语言或音波法术和效果的影响。<\/p>",
+    "source": "ACG"
+}

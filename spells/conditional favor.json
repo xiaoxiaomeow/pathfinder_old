@@ -1,0 +1,33 @@
+{
+    "key": "conditional favor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/conditional-favor/",
+    "name": "Conditional Favor",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "antipaladin": 1,
+        "bard": 2,
+        "cleric": 2,
+        "inquisitor": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "paladin": 1,
+        "witch": 2
+    },
+    "castingTime": "1 swift action",
+    "components": "V",
+    "target": "1 creature",
+    "duration": "1 day/level (d)",
+    "savingThrow": "none (see below)",
+    "spellResistance": "yes",
+    "text": "<p>You must cast this spell immediately before casting another spell on the same creature, eliciting a promise or warning against a behavior and binding the target to the paired spell. If you don't cast a paired spell, conditional favor has no effect. The paired spell must be from the abjuration, conjuration (healing), enchantment, or transmutation school or subschool, and must be cast on a willing creature. If the spell's recipient violates the oath or prohibition while conditional favor remains in effect, the paired spell is undone as if never cast. If the spell was a healing spell, the hit point damage or condition you removed returns immediately, even if the subject has enjoyed subsequent rest or healing. Poisons, diseases, curses, restored ability damage, and negative levels removed by the paired spell return as well.<\/p><p>Conditional favor recognizes the spirit of your condition and doesn't trigger a violation due to unintended consequences or circumstances that the subject could not predict with her current knowledge of the situation. For instance, if the prohibition prevented the subject from laying a finger on royalty, touching a disguised prince would not count as a violation if the subject did not recognize the prince, nor would touching a member of royalty while dominated.<\/p><p>The subject of the spell intuitively knows beforehand whether an action will cause it to lose the paired spell's benefit.<\/p>",
+    "name_zh": "条件式恩惠",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言",
+    "target_zh": "1个生物",
+    "duration_zh": "1日/等级（可解消）",
+    "savingThrow_zh": "无（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你必须在向着相同生物施放其他法术的前一瞬施放该法术，由此带来关于某种行为（behavior）的誓言或警告，并将关联法术（paired spell）与目标束缚在一起。如果你不施放关联法术，条件式恩惠也不会产生任何效果。关联法术必须来自防护系、咒法系(医疗)、附魔系或变化系的学派或子学派（subschool），而且必须能够施放至1名自愿生物上。当条件式恩惠仍在生效时，若法术的受术者违背了誓言或禁令的话，关联法术会被解开，就如同之前没有被施放一般。若关联法术是治疗法术（healing spell），你治愈的生命值伤害或移除的状态会立即恢复，即便受术者已经在那之后享受了休息或医疗也是如此。由关联法术移除的毒素（poisons）、疾病（diseases）、诅咒（curses）、属性伤害（ability damage）、以及负向等级（negative levels）均会恢复。\n条件式恩惠会识别你所列出的条件的要领，如果发生以受术者对现状的认知无法预测到的意外结果或情况的话，该法术便不会被触发。举例说明：若施法者的禁令是“受术者连1根手指都不能碰到皇族”，那么受术者碰触到易容后的王子、并且受术者确实没有辨认出王子时，不算是违反禁令；当受术者是受到控制从而碰触到皇室成员的话，也不算是违反禁令。该法术的受术者会凭直觉了解到某个行为是否会导致关联法术的失效。<\/p>",
+    "source": "UI"
+}

@@ -1,0 +1,34 @@
+{
+    "key": "power word blind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-blind/",
+    "name": "Power Word Blind",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "domains":     {
+        "darkness": 7,
+        "war": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature with 200 hp or less",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You utter a single word of power that causes a creature to become blinded, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 201 or more hit points is unaffected.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Hit Points<\/th>    <th class=\"text\">Duration<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">50 or less<\/td>    <td class=\"text\">Permanent<\/td>   <\/tr>   <tr>    <td class=\"number\">51-100<\/td>    <td class=\"text\">1d4+1 minutes<\/td>   <\/tr>   <tr>    <td class=\"number\">101-200<\/td>    <td class=\"text\">1d4+1 rounds<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "真言术：盲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个HP为200或更低的生物",
+    "duration_zh": "见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你仅说出一个威力无比的词就能让你选定的一个生物目盲，不管它是否能听见那个词。该法术的持续时间和目标的当前总HP相关。任何当前具有201或者更多HP的生物都不受真言术：盲影响。\nHP\n 持续时间\n50以下\n 永久\n51 – 100\n  {1d4+1} 分钟\n101 – 200\n {1d4+1} 轮<\/p>",
+    "source": "CRB"
+}

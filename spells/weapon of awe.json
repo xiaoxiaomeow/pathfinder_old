@@ -1,0 +1,30 @@
+{
+    "key": "weapon of awe",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/weapon-of-awe/",
+    "name": "Weapon of Awe",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["emotion"],
+    "levels":     {
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You transform a single weapon into an awe-inspiring instrument. The weapon gains a +2 sacred bonus on damage rolls, and if the weapon scores a critical hit, the target of that critical hit becomes shaken for 1 round with no Saving Throw.<\/p><p>This is a mind-affecting fear effect. A ranged weapon affected by this spell applies these effects to its ammunition.<\/p><p>You can't cast this spell on a natural weapon, but you can cast it on an unarmed strike.<\/p>",
+    "name_zh": "敬畏武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的武器",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>你把一件武器变成了一件令人敬畏的象征物。这把武器在伤害骰上获得+2神圣加值，并且当武器重击，被重击的目标将会无豁免的战栗一轮。<\/p><p>这个恐惧是一个影响心灵效果。一把远程武器可以自动让弹药附加这些效果。<\/p><p>你不能在天生武器上施放该法术，但是你可以把它用在徒手打击上。<\/p>",
+    "source": "APG"
+}

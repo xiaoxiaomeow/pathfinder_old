@@ -1,0 +1,28 @@
+{
+    "key": "vision",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vision/",
+    "name": "Vision",
+    "school": "divination",
+    "levels":     {
+        "shaman": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "elementalSchools": {"void": 7},
+    "bloodlines": {"dreamspun": 7},
+    "mysteries":     {
+        "ancestor": 8,
+        "apocalypse": 7,
+        "ascetic": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)",
+    "range": "personal",
+    "duration": "see text",
+    "text": "<p>This spell functions like legend lore, except that it works more quickly and produces some strain on you. You pose a question about some person, place, or object, then cast the spell. If the person or object is at hand or if you are in the place in question, you receive a vision about it by succeeding on a caster level check (1d20 + 1 per caster level; maximum +25) against DC 20. If only detailed information on the person, place, or object is known, the DC is 25, and the information gained is incomplete. If only rumors are known, the DC is 30, and the information gained is vague. After this spell is complete, you are fatigued.<\/p>",
+    "name_zh": "灵视",
+    "castingTime_zh": "标准动作",
+    "range_zh": "自身",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=legend lore\">通晓传奇 (legend lore)<\/a>’一般，但更快也更费力。你可以提出一个关于某人、某地或某物的问题，然后施展此法术。若你就在该物体或该人边上，或者就在问题中的地点，那么通过DC 20的施法者等级检定 (1D20+CL {最多+25})，你可以得到关于它的一个幻景。若仅仅知道该人、该物、该地的详细信息，则DC为25, 而且获得的信息是不完整的。若只是听到些传闻，并没有完整信息，则DC为30, 且只能得到含糊的信息。在法术完成后，你会疲乏。<\/p>",
+    "source": "CRB"
+}

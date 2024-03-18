@@ -1,0 +1,30 @@
+{
+    "key": "synesthesia",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/synesthesia/",
+    "name": "Synesthesia",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "mesmerist": 3,
+        "psychic": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You overstimulate the senses of the affected creature, causing its senses to interfere with another. While a creature is under the effects of this spell, sensory input is processed by the wrong senses, such that noise triggers bursts of colors, smells create sounds, and so on. The affected creature moves at half speed, has a 20% miss chance on attacks, and takes a –4 penalty to AC and on skill checks and Reflex saves. Successful spellcasting while affected requires a concentration check with a DC equal to this spell's save DC plus the level of spell being cast.<\/p><p>In addition, the affected creature is considered distracted for the purpose of attempting Perception checks. Effects that negate or reduce concealment do not affect the miss chance from <em>synesthesia<\/em>.<\/p>",
+    "name_zh": "通感超载",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你让受影响生物的感官受到过度的刺激，并由此干扰目标的其他知觉。当生物处于该法术的效果影响时，感知器官会接收到错误的信息，比如声响会引发视觉上的炫目色彩、嗅觉会造成噪音等等。受影响的生物会以半速移动，攻击具有20%的失手率，AC、技能检定以及反射豁免受到-4减值。在受到该法术影响时如果想要成功施法的话，需要进行一次专注检定，DC为该法术的豁免DC + 想要施放的法术等级。<\/p>",
+    "source": "OA"
+}

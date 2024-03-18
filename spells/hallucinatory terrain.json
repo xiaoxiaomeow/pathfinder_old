@@ -1,0 +1,30 @@
+{
+    "key": "hallucinatory terrain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hallucinatory-terrain/",
+    "name": "Hallucinatory Terrain",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 4
+    },
+    "elementalSchools": {"wood": 4},
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a stone, a twig, and a green leaf)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "one 30-ft. cube/level (S)",
+    "duration": "2 hours/level (d)",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "<p>You make natural terrain look, sound, and smell like some other sort of natural terrain. Structures, equipment, and creatures within the area are not hidden or changed in appearance.<\/p>",
+    "name_zh": "幻景",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (一个石头, 一支嫩枝和一片绿叶)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "每等级一个边长30尺的方形区域 (可变)",
+    "duration_zh": "2小时/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使一片自然地貌看、听、闻起来像是另一种自然地貌。范围内的建筑、装备与生物并不会隐藏起来或是改变外貌。<\/p>",
+    "source": "CRB"
+}

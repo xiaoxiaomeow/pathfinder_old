@@ -1,0 +1,43 @@
+{
+    "key": "elemental touch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-touch/",
+    "name": "Elemental Touch",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "acid",
+        "cold",
+        "electricity",
+        "or fire"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "elementalSchools":     {
+        "air": 2,
+        "earth": 2,
+        "fire": 2,
+        "water": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bit of the chosen element: earth, water, air, or fire)",
+    "range": "personal",
+    "duration": "1 round/level (d)",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p>Upon completing the casting of this spell, elemental energy infuses your hands.<\/p><p>Choose an energy type: acid, cold, electricity, or fire. You gain a melee touch attack causing 1d6 points of damage of that energy type, along with a special effect described below. You also deal energy damage and the related special effect when you attack with your hands using an unarmed strike, a single claw, or a single slam attack. This bonus damage can never apply to multiple weapons.<\/p><ul>  <li><b>Acid<\/b>: Your touch attack causes 1 point of ongoing acid damage per round for 1 round per three caster levels. The target must make a Fortitude save or be sickened for the duration of the ongoing acid damage.<\/li>  <li><b>Cold<\/b>: The target must make a Fortitude save or be fatigued. A creature that is already fatigued suffers no additional effect.<\/li>  <li><b>Electricity<\/b>: The target must make a Fortitude save or be staggered for 1 round.<\/li>  <li><b>Fire<\/b>: Your hands ignite and shed light as a torch. Your touch may cause targets to catch on fire.<\/li> <\/ul><p>Subsequent attacks inflict the normal damage, but the additional effects do not stack. This spell grants no special protection to anything held in or worn on your hands. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.<\/p>",
+    "name_zh": "元素之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (少量选定元素：土，水，气或火)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "见下文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当法术施放完毕后，元素能量灌注在你的手中。<\/p><p>选择一个能量类型：酸，寒冷，电或火。你获得用近战接触攻击造成1d6点选定能量伤害，并造成一种下述特殊效果的能力。同时，你也可以用那些使用你的手进行的攻击，例如徒手打击、爪击和挥击来造成这个伤害。这个能量伤害任何情况下都不会由武器触发。<\/p><p>额外效果：\n－酸：你的接触攻击造成每轮1点酸性持续伤害，持续每3施法者等级一轮。目标必须通过强韧检定，不然就会在伤害持续时间内陷入恶心 (sickened) 状态。\n－冷：你的目标必须通过强韧检定，否则就会陷入疲乏 (fatigued) 状态。已经疲乏的伤害不会再受到额外效果。\n－电：你的目标必须通过强韧检定，否则恍惚 (staggered) 一轮。\n－火：你的手开始燃烧并如同火炬一样发光。你的接触会导致目标被点燃。<\/p><p>后续攻击将可以造成正常伤害，但是额外效果不会叠加。这个法术不会对你手上穿戴的物体提供任何额外的防护。<\/p><p>当你用选定能量伤害类型发动该法术时，该法术使用对应的描述符。<\/p>",
+    "source": "APG"
+}

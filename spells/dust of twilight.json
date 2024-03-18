@@ -1,0 +1,32 @@
+{
+    "key": "dust of twilight",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dust-of-twilight/",
+    "name": "Dust of Twilight",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "descriptors": ["darkness"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "sorcerer/wizard": 2
+    },
+    "mysteries": {"dark tapestry": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (coal dust)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude negates (fatigue only)",
+    "spellResistance": "no",
+    "text": "<p>A shower of iridescent black particles clings to and extinguishes torches, lanterns, sunrods, and similar mundane light sources and dispels any spell of 2nd level or lower with the light descriptor (as <i>dispel magic<\/i>). Creatures in the area must make a Fortitude save or become fatigued.<\/p>",
+    "mythicText": "A creature that fails its Fortitude save against the spell must also succeed at a Will save at the same DC or fall asleep (as the sleep spell). <br>Creatures that succeed at their saves are merely drowsy (as the lullaby spell). <br><p style=\"margin-left: 20px\"><b>Augmented<\/b>: If you expend two uses of mythic power, add half your tier to the level of light spells mythic dust of twilight dispels. ",
+    "name_zh": "暮光之尘",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (煤灰)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "10尺半径内的生物和物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效 (仅对疲乏)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>一股紫黑色的烟尘倾泻而下，附着在火把、提灯、照明棒或任何非魔法光源上使其熄灭，并且驱散任何二级或以下法术造成的魔法光源 (如同解除魔法)。范围内的生物除非通过一次强韧检定否则进入疲乏(fatigued)状态。<\/p>",
+    "source": "APG"
+}

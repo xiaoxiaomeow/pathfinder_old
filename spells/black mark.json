@@ -1,0 +1,36 @@
+{
+    "key": "black mark",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/black-mark/",
+    "name": "Black Mark",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "fear"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 7,
+        "witch": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a flask of seawater)",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You mark the target with a black marking on its skin; the mark's exact appearance determined by you, but can be no larger than your hand. The black mark functions as a mark of justice, and when the mark is activated, the target becomes shaken anytime it is on or in the water more than a 5 feet from shore. In addition, as long as the black mark is active, the target is affected as if subject to nature's exile, but all creatures with the aquatic or water subtype or with a swim speed are made hostile, even those not of the animal type, though non-aquatic animals are not.<\/p>",
+    "mythicText": "Any time the cursed creature travels on or in the water more than 1 mile from shore, each day it (or the vessel it's on) is attacked by one or more aquatic or water monsters, as if summoned by summon nature's ally VII (caster level 13th). ",
+    "name_zh": "黑色印记",
+    "race_zh": "人类",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一瓶海水)",
+    "range_zh": "接触",
+    "target_zh": "一个生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你用黑色的印记标记在目标的皮肤上；你可以精确地决定它的外观，但是大小不能超过你的手掌。黑色印记是制裁的印记，当它被激活时，只要目标离开海岸超过5尺并且在海面或者海里则总处在战栗状态。只要黑色印记保持激活状态，目标就如同受到‘自然流放’法术一般，不同点在于所有水生生物、水系亚种以及或者有游泳速度的生物的态度均为敌对，即使它们并不是动物。非水生生物不受此影响。<\/p><p>【法术速查】自然流放 (Nature's Exile, APG): 使受术者的生存检定-10。<\/p>",
+    "source": "ARG"
+}

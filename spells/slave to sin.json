@@ -1,0 +1,40 @@
+{
+    "key": "slave to sin",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/slave-to-sin/",
+    "name": "Slave to Sin",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "cleric": 3,
+        "inquisitor": 3,
+        "mesmerist": 2,
+        "paladin": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a scrap of paper inscribed with a sin rune)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (see below)",
+    "spellResistance": "yes",
+    "text": "<p class=\"desciption\">This spell allows you to reach into an evil creature's mind to expose and exploit its susceptibility to whichever of the seven so-called deadly sins it is most susceptible to.<\/p><p>The targeted creature must succeed at a Will save or it is overwhelmed with an inability to repress urges to indulge in whatever sin most closely mirrors its personality, and a glowing rune appears upon the creature's body (usually the brow), identifying the sin. (The GM adjudicates which rune manifests on the creature's body, as appropriate.)<\/p><p>Each round, at the start of its turn, the target must attempt a new Will saving throw against the spell's DC to resist the sin's enslavement. If the target succeeds at this saving throw, it is sickened for that round by the distractions of its sin. If it fails, it is sickened and staggered as it spends part of its action wallowing in its targeted sin (a wrathful victim might waste time spouting threats and profanity, while a slothful victim might merely be slow and hesitant, and a lustful victim could well spend precious moments ogling or fawning over something of beauty).<\/p>",
+    "name_zh": "屈从罪孽",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一张印有七芒印（Sihedron）符文的纸片）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志无效（见下文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术可以让你进入一个邪恶生物的思想，以暴露和利用它对七种所谓“致命罪”中最容易受到影响的一种的脆弱性。目标生物必须成功通过一次意志豁免，否则它会被无法抑制的冲动所淹没，沉溺于最能反映其个性的罪孽中，并且一个发光的符文会出现在该生物的身体（通常是额头）上以确认具体罪孽。（由GM酌情决定在该生物的身体上显示哪种符文）\n每一轮在其回合开始时，目标必须尝试一次新的对抗法术DC的意志豁免投骰来抵抗罪孽的束缚。如果目标在这次豁免检定中成功，他将在该轮中因罪孽的分心而陷入恶心。如果它失败了，它会陷入恶心和恍惚，因为它会花费一部分动作沉溺在它的罪孽中（一个愤怒的受术者可能会浪费时间喷出威胁和脏话，一个懒惰的受术者可能只是缓慢和犹豫，而一个欲念的受术者可能会花很多宝贵的时间对美人抛媚眼或奉承）。<\/p>",
+    "source": "AG"
+}

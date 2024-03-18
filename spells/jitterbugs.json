@@ -1,0 +1,32 @@
+{
+    "key": "jitterbugs",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/j/jitterbugs/",
+    "name": "Jitterbugs",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 1,
+        "mesmerist": 1,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "short (25 ft. +5 ft. 2/levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "text": "<p>You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. This causes the target to become jittery and unable to stay still, forcing it to constantly move and twitch. The target takes a –4 penalty on all Dexterity checks and Dexterity-based skill checks, and cannot take the delay, ready, or total defense actions.<\/p>",
+    "name_zh": "附体虫影",
+    "race_zh": "侏儒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使得目标感觉自身身体上覆盖着正在爬行、蠕动、刺咬的虫群。这使得目标变得神经紧张、坐立不安，并且迫使其不断地抖动。目标在所有敏捷检定以及基于敏捷的技能检定上受到-4减值，并且无法进行延迟动作、准备动作或全防御动作。<\/p>",
+    "source": "ARG"
+}

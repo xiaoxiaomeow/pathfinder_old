@@ -1,0 +1,28 @@
+{
+    "key": "deadman's contingency",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadman-s-contingency/",
+    "name": "Deadman's Contingency",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "bard": 4,
+        "cleric": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "10 minutes or more; see text",
+    "components": "V, S, M (a scorpion's tail), F (ivory statuette of you worth 1,500 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "up to 1 hour/level plus 1d6 rounds (d); see text",
+    "text": "<p>This spell functions as contingency, except as noted above. This spell also only comes into effect after your death and works only with certain spells. The companion spell triggers 1d6 rounds after your death. All decisions made involving the companion spell must be made when <i>deadman's contingency<\/i> is cast (including messages and recipients for spells like magic mouth or sending).<\/p><p>If the spell targets an object or appears in a certain location, it must target or be centered on your corpse.<\/p><p>The following spells can be companion spells for <i>deadman's contingency<\/i>: animate dead (animating your corpse as an uncontrolled skeleton or zombie), disintegrate, fireball, gentle repose, magic mouth, major image (with a duration of 3 rounds), permanent image, sending, stinking cloud, and teleport object.<\/p>",
+    "name_zh": "亡者触发术",
+    "castingTime_zh": "10分钟或更长；见后文",
+    "components_zh": "语言，姿势，材料（蝎子尾巴），器材（价值1500gp以你为模特的象牙小雕像）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级 外加 1d6轮（可解消）；见后文",
+    "text_zh": "<p>该法术的功能如同触发术（Contingency）一般，差异如上所述。此外，该法术只有在你死亡之后才会生效，而且仅适用于某些特定的法术。关联法术会在你死亡1d6轮后被触发。所有涉及到关联法术的决定必须在施放亡者触发术时作出，这包括了类似于魔嘴（Magic Mouth）或短讯术（Sending）的法术中，关于短讯和收信者的设定。若法术以1件物体为目标或者出现在特定地点的话，则必须以你的尸体为目标或以你的尸体为中心。\n后述法术可以成为亡者触发术的关联法术：操纵死尸（Animate Dead；将你的尸体活化为不受控制的骷髅或丧尸）、解离术（Disintegrate）、火球术（Fireball）、遗体防腐（Gentle Repose）、魔嘴（Magic Mouth）、强效幻影（Major Image；持续时间仅限3轮）、永恒幻影（Permanent Image）、短讯术（Sending）、臭云术（Stinking Cloud）、以及物品传送术（Teleport Object）。<\/p>",
+    "source": "UI"
+}

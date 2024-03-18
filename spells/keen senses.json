@@ -1,0 +1,30 @@
+{
+    "key": "keen senses",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/keen-senses/",
+    "name": "Keen Senses",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "druid": 1,
+        "ranger": 1
+    },
+    "elementalSchools": {"void": 1},
+    "castingTime": "1 standard action",
+    "components": "V, M/DF (a hawk&#8216;s feather)",
+    "range": "touch",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The subject gains a +2 competence bonus on Perception checks and gains low-light vision. Subjects that have low-light vision double the distance they can see under the effects of this spell.<\/p>",
+    "name_zh": "感官锐化",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料/法器 (一根鹰的羽毛)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>受术者的察觉检定获得+2表现加值，并且获得昏暗视觉。已经拥有昏暗视觉的生物在该法术的影响下会使可视距离加倍。\nKing's Castle<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "negative reaction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/negative-reaction/",
+    "name": "Negative Reaction",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any Bluff, Diplomacy, and Intimidate checks as well as any performance combat checks it attempts.<\/p>",
+    "name_zh": "忽视存在",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术工作方式如同回避侦测 (Nondetection)，但是你可以将持续时间以一小时为单位分配给接触到的复数生物或物体。<\/p>",
+    "source": "UC"
+}

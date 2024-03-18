@@ -1,0 +1,30 @@
+{
+    "key": "suffocation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suffocation/",
+    "name": "Suffocation",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "subdomains": {"murder": 5},
+    "elementalSchools": {"air": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a vial containing a bit of the caster's breath)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "3 rounds",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>This spell extracts the air from the target's lungs, causing swift suffocation.<\/p><p>The target can attempt to resist this spell's effects with a Fortitude save-if he succeeds, he is merely staggered for 1 round as he gasps for breath. If the target fails, he immediately begins to suffocate. On the target's next turn, he falls unconscious and is reduced to 0 hit points. One round later, the target drops to -1 hit points and is dying. One round after that, the target dies. Each round, the target can delay that round's effects from occurring by making a successful Fortitude save, but the spell continues for 3 rounds, and each time a target fails his Fortitude save, he moves one step further along the track to suffocation. This spell only affects living creatures that must breathe. It is impossible to defeat the effects of this spell by simply holding one's breath-if the victim fails the initial Saving Throw, the air in his lungs is extracted.<\/p>",
+    "name_zh": "绞杀",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一个存有你呼出空气的瓶子)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名活物",
+    "duration_zh": "3轮",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术会从受害者的肺部抽出所有空气，迅速使其窒息。<\/p><p>目标可以用强韧检定尝试抵抗法术效果，如果成功，它只会恍惚 (staggered) 一轮但可以开始正常呼吸。<\/p><p>如果失败，它将会立刻窒息。下一轮，它将会摔倒并昏迷，同时生命值被降低到0。再下一轮，目标生命值降低至-1并陷入濒死。再下一轮，目标死亡。<\/p><p>每一轮，目标都可以用一次成功的强韧检定来推迟该轮的法术效果，不过法术持续三轮，目标每次失败的强韧检定都会导致陷入下一步状态从而进一步窒息。这个法术只会影响那些需要呼吸的活物。<\/p><p>即使目标屏住呼吸也无法阻止该法术效果，因为在一开始的强韧检定失败时，它肺部的空气就已经被抽空了。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "speak with soul",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-soul/",
+    "name": "Speak with Soul",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "antipaladin": 4,
+        "cleric": 6,
+        "medium": 4,
+        "paladin": 4,
+        "shaman": 6,
+        "spiritualist": 6
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (a drop of candle wax)",
+    "range": "10 ft.",
+    "target": "see text",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p class=\"description\">You commune with the soul of a dead creature.<\/p><p>To cast this spell, you must be at the soul's place of death or be in the soul's presence, whether it is contained in a receptacle, powers an intelligent magic item, or other possibilities. The soul can attempt a Will save to resist the spell as if it were alive.<\/p><p>A soul contacted this way can speak normally in any language it knows. Unlike speak with dead and similar spells, you are not limited to asking questions and can engage in normal conversation with the soul (and vice versa). The soul isn't an undead creature and isn't compelled to speak or be truthful.<\/p><p>Generally, the soul only knows what it knew in life, although souls that persisted with awareness of their surroundings after death may have more to offer.<\/p>",
+    "name_zh": "灵魂交谈",
+    "castingTime_zh": "1分钟",
+    "components_zh": "言语，姿势，材料（一滴烛蜡）",
+    "range_zh": "10尺",
+    "target_zh": "见下文",
+    "duration_zh": "1分钟/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你与一个死去的生物的灵魂交流。要施放这个法术，你必须在灵魂死亡的地方或灵魂存在的地方施法，无论它是被装在一个容器里，为一个智能魔法物品供能，或其他可能。灵魂可以尝试一次意志豁免来抵抗法术，就像它是活着的一样。\n以这种方式接触的灵魂可以正常地用它所知道的任何语言说话。不像死者交谈（speak with dead）或类似的法术，你不局限于提出问题，而是可以与灵魂进行正常的对话（反之亦然）。灵魂不是不死生物，也不会被强迫说话或说真话。一般来说，灵魂只知道它在生活中所知道的东西，尽管那些死后仍坚持保留意识，能感知到周围环境的灵魂可能会提供更多信息。<\/p>",
+    "source": "PA"
+}

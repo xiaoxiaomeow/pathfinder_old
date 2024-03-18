@@ -1,0 +1,32 @@
+{
+    "key": "false life",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-life/",
+    "name": "False Life",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "alchemist": 2,
+        "bloodrager": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "bloodlines": {"astral": 2},
+    "mysteries": {"bones": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of blood)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level or until discharged; see text",
+    "text": "<p>You harness the power of unlife to grant yourself a limited ability to avoid death. While this spell is in effect, you gain temporary hit points equal to 1d10 + 1 per caster level (maximum +10).<\/p>",
+    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>The temporary hit points gained increase to 2d8 + 2 per caster level (maximum +20). As an immediate action, you can dismiss the remaining duration of the spell to prevent 1 point of Strength, Dexterity, or Constitution damage per 10 temporary hit points remaining from the spell. This takes effect after the attack hits you and the damage is rolled, but before you take the damage. For example, if you have 22 temporary hit points from mythic false life and a wyvern stings you for 3 points of Constitution damage, you can dismiss the spell to prevent 2 points of Constitution damage from that attack. <br><\/div>",
+    "name_zh": "虚假生命",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴血)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级 或 直至能量发散; 见后文",
+    "text_zh": "<p>通过驾驭死灵之力，你让自身获得能够在一定限度内避免死亡的能力。在该法术生效时，你获得 {1d10+CL (最高+10)} 的临时HP。<\/p>",
+    "source": "CRB"
+}

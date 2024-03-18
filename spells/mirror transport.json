@@ -1,0 +1,29 @@
+{
+    "key": "mirror transport",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-transport/",
+    "name": "Mirror Transport",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a glass or metal marble and a twisted loop of parchment)",
+    "range": "touch",
+    "target": "one mirror",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "yes (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>This spell functions as mirror hideaway, except any creature that enters the target mirror can spend a swift action to exit through another mirror within 500 feet as if using dimension door; this is a one-way transport. The creature can exit through a mirror only if it could fit through an opening the same size as the mirror. Each transport through the target mirror reduces the spell's duration by 1 hour.<\/p>",
+    "name_zh": "镜面传送术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（玻璃或金属弹子和绘有扭曲通路的羊皮纸）",
+    "range_zh": "接触",
+    "target_zh": "一面镜子",
+    "duration_zh": "1小时/等级（可解消）",
+    "savingThrow_zh": "可（物体）【原文如此，大概是复制粘贴错了】",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>该法术的功能如同镜中藏身处（Mirror Hideaway）一般，不过任何进入目标镜面的生物都可以花费迅捷动作，来从500尺范围内的另一个镜面中离开，就如同使用了任意门（dimension door）一般；这是单向传送。生物仅有在自身体型与镜面的尺寸相适合时才能穿过镜子离开。每次通过目标镜面进行传送都会使法术的持续时间减少1小时。<\/p>",
+    "source": "ACG"
+}

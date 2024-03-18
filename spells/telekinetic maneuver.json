@@ -1,0 +1,31 @@
+{
+    "key": "telekinetic maneuver",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-maneuver/",
+    "name": "Telekinetic Maneuver",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 4,
+        "psychic": 3,
+        "sorcerer/wizard": 4,
+        "spiritualist": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "concentration (up to 1 round/level)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as telekinesis, but it can be used only to perform a bull rush, disarm, drag, grapple (including pin), reposition, steal, or trip combat maneuver.<\/p>",
+    "name_zh": "念动战技",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "专注（至多为1轮/等级）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同心灵遥控（Telekinesis）一般，不过它仅能被用于执行冲撞（bull rush）、卸武（disarm）、拖拽（drag）、擒抱（grapple；包括压制）、移位（reposition）、盗取（steal）或摔绊（trip）战技。<\/p>",
+    "source": "OA"
+}

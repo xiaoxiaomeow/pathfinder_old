@@ -1,0 +1,22 @@
+{
+    "key": "heal, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heal/",
+    "name": "Heal, Mass",
+    "base": "heal",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "cleric/oracle": 9,
+        "shaman": 9
+    },
+    "domains": {"healing": 9},
+    "mysteries": {"life": 8},
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "One or more creatures, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions like <i>heal<\/i>, except as noted above. The maximum number of hit points restored to each creature is 250.<\/p><\/div>",
+    "name_zh": "群体医疗术",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个或更多生物，任意两者之间的距离不超过30尺",
+    "text_zh": "<p>除了上文记述的内容之外，该法术的功能如同‘<a href=\"spell.html?spell=heal\">医疗术 (heal)<\/a>’一般。每个生物可以恢复的HP至多为250点。<\/p>",
+    "source": "CRB"
+}

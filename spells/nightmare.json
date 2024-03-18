@@ -1,0 +1,37 @@
+{
+    "key": "nightmare",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nightmare/",
+    "name": "Nightmare",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors":     [
+        "mind-affecting",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 5,
+        "bard": 5,
+        "sorcerer/wizard": 5
+    },
+    "domains": {"madness": 5},
+    "subdomains": {"sleep": 6},
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "unlimited",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.<\/p><p>The <i>nightmare<\/i> prevents restful sleep and causes 1d10 points of damage. The <i>nightmare<\/i> leaves the subject fatigued and unable to regain arcane spells for the next 24 hours.<\/p><p>The difficulty of the save depends on your knowledge the subject and the physical connection (if any) you have to that creature.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Knowledge<\/th>    <th class=\"text\">Will Save Modifier<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">None*<\/td>    <td class=\"number\">+10<\/td>   <\/tr>   <tr>    <td class=\"text\">Secondhand (you have heard of the subject)<\/td>    <td class=\"number\">+5<\/td>   <\/tr>   <tr>    <td class=\"text\">Firsthand (you have met the subject)<\/td>    <td class=\"number\">+0<\/td>   <\/tr>   <tr>    <td class=\"text\">Familiar (you know the subject well)<\/td>    <td class=\"number\">-5<\/td>   <\/tr>   <tr>    <th class=\"text\">Connection<\/th>    <th class=\"text\">Will Save Modifier<\/th>   <\/tr> <\/thead><tbody>  <tr>    <td class=\"text\">Likeness or picture<\/td>    <td class=\"number\">-2<\/td>   <\/tr>   <tr>    <td class=\"text\">Possession or garment<\/td>    <td class=\"number\">-4<\/td>   <\/tr>   <tr>    <td class=\"text\">Body part, lock of hair, bit of nail, etc.<\/td>    <td class=\"number\">-10<\/td>   <\/tr>  <\/tbody> <\/table> <p class=\"source\">*You must have some sort of connection to a creature of which you have no knowledge.<\/p><p>Dispel evil cast on the subject while you are casting the spell dispels the <i>nightmare<\/i> and causes you to be stunned for 10 minutes per caster level of the dispel evil.<\/p><p>If the recipient is awake when the spell begins, you can choose to cease casting (ending the spell) or to enter a trance until the recipient goes to sleep, whereupon you become alert again and complete the casting. If you are disturbed during the trance, you must succeed on a Concentration check as if you were in the midst of casting a spell or the spell ends.<\/p><p>If you choose to enter a trance, you are not aware of your surroundings or the activities around you while in the trance.<\/p><p>You are defenseless, both physically and mentally, while in the trance. (You always fail Will saving throws, for example.)<\/p><p>Creatures who don't sleep (such as elves, but not half-elves) or dream are immune to this spell.<\/p>",
+    "name_zh": "梦魇",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势",
+    "range_zh": "无限",
+    "target_zh": "一个活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向着某个特定生物发送一个让人毛虎悚然的魅影幻象，你需要知道这个生物的名字，或者能够以其他方式特别指定出来。<\/p><p>梦魇会使人失眠并对目标造成1d10点伤害。被梦魇缠住的生物会进入疲乏状态，在接下来的24小时内都无法获得奥术。<\/p><p>法术的豁免难度与两个因素有关，一是你对目标生物的了解程度，二是你是否具有与该名生物有关的物品。\n了解程度\n 意志豁免修正\n一无所知*\n +10\n二手信息 (你对受术者有所耳闻)\n +5\n一手信息 (你见过受术者)\n +0\n熟悉 (你认识受术者)\n –5\n关联物\n 意志豁免修正\n画像或图片\n –2\n所有物或衣物\n –4\n身体的一部分, 一束毛发, 指甲等\n –10\n* 若你对目标生物一无所知, 就必须具有某种关联物.<\/p><p>当你施展此法术时，如果有另一名施法者对受术者使用‘<a href=\"spell.html?spell=dispel evil\">反制邪恶 (dispel evil)<\/a>’，则梦魇会被解除，同时你会被震慑，震慑时间为‘反制邪恶’法术的每CL 10分钟。<\/p><p>如果施法时目标生物是清醒的，你可以选择停止施法 (法术终止)，或是进入出神状态静待该生物入睡。只要他一睡着，你就会立即得知并完成施法。如果在出神状态时被打搅，你必须通过专注检定 (如同你在施法时被打搅一样)，否则法术就会终止。<\/p><p>若你选择进入出神状态的话，那么在出神状态中你无法得知外界发生的事情。<\/p><p>出神状态中你的身心都处于完全不设防状态 (例如你总是会在反射与意志豁免中失败)。<\/p><p>不会睡觉 (如异界生物) 或做梦的生物免疫该法术。<\/p>",
+    "source": "CRB"
+}

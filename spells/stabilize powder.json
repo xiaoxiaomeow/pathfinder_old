@@ -1,0 +1,29 @@
+{
+    "key": "stabilize powder",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stabilize-powder/",
+    "name": "Stabilize Powder",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a few drops of liquor)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 loaded firearm",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>Ammunition currently loaded in the target firearm is less prone to misfire. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.<\/p>",
+    "name_zh": "火药稳定",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (少量烈酒)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一把装填过的火器",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>这个法术工作方式如同石肤术 (stoneskin)，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。<\/p><p>一旦这个法术为一个生物吸收了每施法者等级10点伤害 (最高150)，该生物身上的法术效果结束。<\/p>",
+    "source": "UC"
+}

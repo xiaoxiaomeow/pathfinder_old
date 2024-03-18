@@ -1,0 +1,25 @@
+{
+    "key": "solid fog",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/solid-fog/",
+    "name": "Solid Fog",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "unchained summoner": 4,
+        "witch": 4
+    },
+    "subdomains": {"cloud": 4},
+    "elementalSchools": {"water": 4},
+    "components": ": V, S, M (powdered peas and an animal hoof)",
+    "duration": "1 min./level",
+    "text": "<p>This spell functions like fog cloud, but in addition to obscuring sight, the solid fog is so thick that it impedes movement. Creatures moving through a solid fog move at half their normal speed and take a -2 penalty on all melee attack and melee damage rolls. The vapors prevent effective ranged weapon attacks (except for magic rays and the like). A creature or object that falls into solid fog is slowed so that each 10 feet of vapor that it passes through reduces the falling damage by 1d6. A creature cannot take a 5-foot-step while in solid fog. Solid fog, and effects that work like solid fog, do not stack with each other in terms of slowed movement and attack penalties.<\/p><p>Unlike normal fog, only a severe wind (31+ mph) disperses these vapors, and it does so in 1 round.<\/p><p>Solid fog can be made permanent with a permanency spell. A permanent solid fog dispersed by wind reforms in 10 minutes.<\/p>",
+    "name_zh": "重雾术",
+    "components_zh": "语言, 姿势, 材料 (豌豆与动物蹄粉末)",
+    "duration_zh": "1分钟/等级",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>该法术的功能与‘<a href=\"spell.html?spell=fog cloud\">云雾术 (fog cloud)<\/a>’类似，不过除了遮蔽视线外，这团重雾过于致密，以至于会阻碍移动。对于任何穿越重雾的生物来说，速度为正常速度的一半，同时在近战攻击检定和近战伤害上受到-2的减值。雾气还可以有效防止远程攻击 (魔法射线和类似效果除外)。掉进重雾区域的生物或物体会减速，因此每经过10尺雾气，它所受到的坠落伤害就会减少1d6点。在重雾中，生物不能进行5尺快步。重雾术、以及运作方式类似于重雾术的效果不会在减速和攻击减值的方面相互叠加。<\/p><p>与普通雾气不同，只有烈风 (时速31英里以上) 才能吹散它，并且需花费1轮时间。<\/p><p>重雾术可以用‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。被风吹散的恒定重雾会在10分钟后会重新形成。<\/p>",
+    "source": "CRB"
+}

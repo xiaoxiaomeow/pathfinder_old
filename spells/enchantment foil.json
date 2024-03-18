@@ -1,0 +1,28 @@
+{
+    "key": "enchantment foil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enchantment-foil/",
+    "name": "Enchantment Foil",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 4,
+        "cleric": 4,
+        "inquisitor": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level (see text)",
+    "text": "<p>You gain a +4 bonus on saving throws against enchantment effects. If you succeed at a save against an enchantment effect, you identify the effect as if you had succeeded at a Spellcraft check to do so. Furthermore, you can choose to act as if you had failed your saving throw. If you do so, you gain a +20 bonus on Bluff checks to convince others that you failed your save and are under the enchantment's effects. A creature that attempts to use magic to detect this ruse or to make you speak truthfully about it must succeed at a caster level check (DC 15 + your caster level) to do so.<\/p>",
+    "name_zh": "迫退附魔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级（见后文）",
+    "text_zh": "<p>你在对抗附魔系效果（enchantment effects）时，豁免检定获得+4加值。若你成功进行豁免对抗了一个附魔系效果，便能立刻鉴别出效果，就如同你在法术辨识检定中成功了一般。此外，你能够选择如同豁免检定失败一般进行行动。若你要这么做，就会在让别人相信你在豁免检定中失败并且受到附魔系效果影响的唬骗检定中获得+20加值。若有生物尝试使用魔法来侦测这个诡计、或者让你说出实话的话，则必须进行成功的施法者检定（DC 15 + 你的施法者等级）才能这么做。<\/p>",
+    "source": "ACG"
+}

@@ -1,0 +1,36 @@
+{
+    "key": "malediction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/malediction/",
+    "name": "Malediction",
+    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 4,
+        "cleric": 4,
+        "shaman": 4,
+        "spiritualist": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "1 creature touched",
+    "duration": "1 min. and instantaneous (see text)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Channeling the blasphemy of fiends into your hand, you mark your target with a brief but fundamental corruption, causing its soul to be irretrievably damned should it die within the next minute. If you are lawful evil, souls are sent to Hell. If you are neutral evil, souls are sent to Abaddon. If you are chaotic evil, souls are sent to the Abyss.<\/p><p>A target killed while under the effect of this spell cannot be resurrected by normal means. Only a worshiper of a deity or demigod of your alignment can return a soul damned by <em>malediction<\/em> to life without difficulty. Other spellcasters must succeed at a caster level check (DC = 10 + your caster level) to restore to life a creature slain while under the effects of <em>malediction<\/em>. Miracle or wish can return the victim of a <em>malediction<\/em> to life without requiring a caster level check.<\/p><p>A soul can also be freed by the efforts of someone bodily going to the appropriate plane, locating the affected soul, and leading it out of the plane, which allows it to go to its intended destination in the afterlife and be resurrected as normal. You can end the effects of your own <em>malediction<\/em> by casting the spell again and concentrating on a past target. Doing so only frees the past target to go to its rightful place in death; it does not return the target to life.<\/p><p>Spells such as break enchantment, dispel magic, and remove curse negate this spell if successfully cast before the target dies.<\/p>",
+    "name_zh": "咒魂",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "duration_zh": "1分钟 与 立即（见后文）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将魔族的亵渎之力引入手中，用短暂但深入骨髓的腐化侵染对方，若它在接下来的一分钟内死亡，灵魂将不可避免的受到诅咒。若你是守序邪恶，灵魂会被送往地狱。若你是中立邪恶，灵魂会被送至末日荒原。若你是混乱邪恶，则灵魂会被送到深渊。\n在仍处于此法术效果下死亡的目标无法被正常手段复活。只有你所属阵营的神祇或半神的信徒，才能不费功夫地直接复活一个被咒魂诅咒的生物。其它施法者必须成功通过施法者等级检定（DC = 10 + 你的施法者等级），才能复活被杀时处于咒魂效果影响下的生物。神迹术或祈愿术可以不需进行施法者等级检定，直接复活咒魂的受害者。\n若有人愿意亲身前往对应位面，定位受到影响的灵魂并且带其离开该位面，灵魂也可以获得自由，从而能够前往他在死后世界应去之地，并能够如常被复活。你可以再次施展咒魂并专注在过去的目标身上，解除你自己的咒魂效果。这么做只会让你过去的法术目标能够前往死后应去之地，并不会让他们活过来。\n破除魔咒（Break Enchantment）、解除魔法与移除诅咒之类的法术若在目标死亡前施展，可以无效此法术。<\/p>",
+    "source": "BotD"
+}

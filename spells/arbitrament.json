@@ -1,0 +1,30 @@
+{
+    "key": "arbitrament",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arbitrament/",
+    "name": "Arbitrament",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["sonic"],
+    "levels":     {
+        "cleric": 7,
+        "inquisitor": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "40 ft.",
+    "target": "non-neutral creatures in a 40-ft.-radius spread centered on you",
+    "duration": "instantaneous",
+    "savingThrow": "Will partial, see text",
+    "spellResistance": "yes",
+    "text": "<p>All chaotic evil, chaotic good, lawful evil, and lawful good creatures within the area of this spell suffer the following conditions, based on their Hit Dice.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Hit Dice<\/th>    <th class=\"text\">Effect<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Equal to caster level<\/td>    <td class=\"text\">Sickened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level – 1<\/td>    <td class=\"text\">Sickened, staggered<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level – 5<\/td>    <td class=\"text\">Nauseated, sickened, staggered<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level – 10<\/td>    <td class=\"text\">Killed, nauseated, sickened, staggered<\/td>   <\/tr>  <\/tbody> <\/table><p>The effects are concurrent. A creature can attempt a Will save to reduce or negate the effects. If subject to multiple effects, the creature rolls once and applies the result to each effect.<\/p><p><b>Sickened<\/b> The creature is sickened for 1d4 rounds (Will negates).<\/p><p><b>Staggered<\/b> The creature is staggered for 2d4 rounds, or for 1d4 rounds on a successful Will save.<\/p><p><b>Nauseated<\/b> The creature is nauseated for 1d10 minutes, or for 1d4 rounds on a successful Will save.<\/p><p><b>Killed<\/b> Living creatures die, and undead creatures are destroyed. On a successful Will save, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum v+25).<\/p><p>Furthermore, if you are on your home plane when you cast this spell, all chaotic evil, chaotic good, lawful evil, and lawful good extraplanar creatures within the area are banished to their home planes (Will negates, at a –4 penalty). Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the arbitrament.<\/p><p>Creatures whose Hit Dice exceed your caster level are unaffected by arbitrament.<\/p>",
+    "name_zh": "裁决之声",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语",
+    "range_zh": "40尺",
+    "target_zh": "以你为中心40英尺半径扩散内的非中立生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>最大为施法者等级-1   恶心，恍惚\n最大为施法者等级-5   反胃，恶心，恍惚\n最大为施法者等级-10   死亡，反胃，恶心，恍惚\n这些效果是同时发生的。生物可以尝试进行一次意志豁免来削弱或消除效果。如果受到多重效果，该生物掷骰一次，并将此结果应用于每种效果。\n恶心：该生物恶心1d4轮（意志过则无效）。\n恍惚：该生物恍惚2d4轮，意志豁免成功则恍惚1d4轮。\n反胃：该生物反胃1d10分钟，意志豁免成功则反胃1d4轮。\n死亡：活的生物死亡，不死生物被消灭。在成功的意志豁免时，该生物受到3d6点+1点/施法者等级（最大+25）的伤害。\n此外，如果你在自己的原属位面上施放这个法术，所有的混乱邪恶，混乱善良，秩序邪恶和秩序善良的跨位面生物都将被驱逐回自己的原属位面（意志过则无效，有-4减值）。被驱逐的生物至少在24小时内不能返回。这个效果的发生与生物是否能听到仲裁之声无关。\n生命骰超过你施法者等级的生物不受法术的任何影响。<\/p>",
+    "source": "PA"
+}

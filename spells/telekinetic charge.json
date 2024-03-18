@@ -1,0 +1,30 @@
+{
+    "key": "telekinetic charge",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-charge/",
+    "name": "Telekinetic Charge",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "bloodrager": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one willing creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You telekinetically launch an ally across the battlefield to anywhere within this spell's range. While moving, your ally is flying just above the ground unless you wish otherwise. Movement from this spell provokes attacks of opportunity as normal, although you can lift your ally over objects or out of enemy reach, as long as your ally remains within this spell's range. If your ally lands adjacent to an opponent, he can spend an immediate action to make a melee attack against that opponent with a +2 bonus on the attack roll.<\/p>",
+    "name_zh": "念动冲锋",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个自愿生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你用心灵传动的力量为法术范围内任何地点的一位盟友提供移动。<\/p><p>当移动时，除非你不想，不然你的盟友将会在稍稍高于地面的地方悬浮。<\/p><p>这个法术会正常触发藉机攻击，但是你可以控制你的盟友绕过或远离敌人的触及范围，但是你的盟友必须全程处于法术范围之内。<\/p><p>如果你的盟友在移动结束时刚好与一个对手相邻，它可以立刻以一个直觉动作对其发起一次攻击，并且攻击骰有+2加值。<\/p>",
+    "source": "UC"
+}

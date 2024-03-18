@@ -1,0 +1,26 @@
+{
+    "key": "summon monster ix",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/",
+    "name": "Summon Monster IX",
+    "base": "summon monster i",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 9,
+        "psychic": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "domains":     {
+        "chaos": 9,
+        "evil": 9,
+        "good": 9,
+        "law": 9
+    },
+    "bloodlines": {"abyssal": 9},
+    "text": "<\/div><p>This spell functions like <i>summon monster I<\/i>, except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.<\/p><h3>Alternative Summoning Options<\/h3><p>Many adventure paths include custom summoning options for characters who follow certain gods, or must meet other special requirements (such as only being available to members of certain races).<\/p><p>Like any other optional rules, players should always consult their GM to see if they are approved for use. The <b>Source<\/b> column indicates which Adventure Path or specific book included that creature as an alternative summoning option.<\/p><h3>Applicable Feats<\/h3><p>There are a few feats which have special effects on the summon monster spells.<\/p><ul><li>If the caster is good-aligned he may choose the Summon Good Monster feat.<\/li><li>If the caster is neutral-aligned he may choose the Summon Neutral Monster feat.<\/li><li>If the caster is evil-aligned he may choose the Summon Evil Monster feat.<\/li><\/ul><p>These feats include custom summoning lists and are fully detailed in the feats section of this site.<\/p>",
+    "name_zh": "召唤怪物 IX",
+    "text_zh": "<p>该法术的功能如同‘召唤怪物I’，不过你能够召唤一个来自9环列表的生物、1d3个来自8环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,22 @@
+{
+    "key": "hero's defiance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hero-s-defiance/",
+    "name": "Hero's Defiance",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "descriptors": ["healing"],
+    "levels": {"paladin": 1},
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "duration": "instantaneous",
+    "text": "<p>The instant before you are reduced to 0 or fewer hit points, you can expend a use of your lay on hands ability to heal yourself as if you had used lay on hands, plus an additional 1d6 hit points.<\/p><p>If this healing brings your hit point total above 0 hit points, you do not fall, and may continue to act. If you have no more uses of lay on hands this spell has no effect.<\/p>",
+    "name_zh": "英雄不屈",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>在你的生命值降低至0或者更低的前一瞬间，只要你还能够使用圣疗，就能够使用你的圣疗能力治疗自己，加上额外1d6点生命值。如果该治疗使你的总生命值高于0点，你不会倒下并可以继续行动。如果你当日无法再使用圣疗能力的话，该法术无效。<\/p>",
+    "source": "APG"
+}

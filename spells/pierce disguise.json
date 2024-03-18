@@ -1,0 +1,30 @@
+{
+    "key": "pierce disguise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pierce-disguise/",
+    "name": "Pierce Disguise",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "medium": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You see through magical disguises (whether illusions or polymorph effects) of the same spell level or lower. This allows you to see the true forms of creatures magically disguised by such methods. The true form appears as a ghostly overlay on the creature's disguised appearance.<\/p>",
+    "name_zh": "洞见伪装",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你能够看破与法术等级相同或更低等级的魔法伪装，无论伪装是由幻术（illusions）还是变形（polymorph）效果达成的。若生物使用上述方式进行魔法伪装，那么你能够看到通过它们的真实形态。生物的真实形态会像幽灵一样覆盖在生物伪装的外表上。<\/p>",
+    "source": "ACG"
+}

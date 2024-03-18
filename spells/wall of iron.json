@@ -1,0 +1,38 @@
+{
+    "key": "wall of iron",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-iron/",
+    "name": "Wall of Iron",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 5,
+        "unchained summoner": 6
+    },
+    "domains": {"artifice": 7},
+    "subdomains": {"metal": 6},
+    "elementalSchools":     {
+        "earth": 6,
+        "metal": 6
+    },
+    "mysteries": {"metal": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small iron sheet plus gold dust worth 50 gp)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "iron wall whose area is up to one 5-ft. square/level; see text",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p>You cause a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.<\/p><p>A <i>wall of iron<\/i> is 1 inch thick per four caster levels. You can double the wall's area by halving its thickness. Each 5-foot square of the wall has 30 hit points per inch of thickness and hardness 10. A section of wall whose hit points drop to 0 is breached. If a creature tries to break through the wall with a single attack, the DC for the Strength check is 25 + 2 per inch of thickness.<\/p><p>If you desire, the wall can be created vertically resting on a flat surface but not attached to the surface, so that it can be tipped over to fall on and crush creatures beneath it. The wall is 50% likely to tip in either direction if left unpushed. Creatures can push the wall in one direction rather than letting it fall randomly. A creature must make a DC 40 Strength check to push the wall over. Creatures with room to flee the falling wall may do so by making successful Reflex saves. Any Large or smaller creature that fails takes 10d6 points of damage while fleeing from the wall. The wall cannot crush Huge and larger creatures.<\/p><p>Like any iron wall, this wall is subject to rust, perforation, and other natural phenomena. Iron created by this spell is not suitable for use in the creation of other objects and cannot be sold.<\/p>",
+    "name_zh": "铁墙术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一小片铁块外加价值50gp的金粉)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "面积至多占据5尺见方/等级的铁墙; 见后文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以凭空造出光滑的竖直铁墙。铁墙可以放置在任何附近的无生命材质中——只要它所在区域允许这么做。若你想让墙壁出现的地点已经有生物或物品占据着，则墙不会出现。墙壁必须是光滑的平面，但边缘的形状可以适应周围的可用空间。<\/p><p>铁墙厚度为每四个CL 1英吋。你可以令厚度减半以使得其面积翻倍。每5英尺见方的墙面，每英吋厚度有30点HP，硬度为10点。一块墙面的HP若降到0则会碎裂。若要一击贯穿墙面，需要通过力量检定，DC为25, 每英吋厚度DC再+2。<\/p><p>你可以在水平表面造出竖直的墙，而不与该表面接触，这样墙就会倒下并压住其下方的生物。若没有外力的影响，墙向两边倒下的概率各为50%。生物可以去推墙而不是让它随机地倒下，但这必须通过DC 40的力量检定。如果有空间，生物可以通过反射检定来避开倒下的墙。没能躲开的大型或更小的生物会受到10d6点伤害。该墙无法压伤超大型或更大的生物。<\/p><p>和所有铁墙一样，该墙会出现生锈穿孔等自然现象。以此法术创造出的钢铁无法用于创造其他物体，也无法用于销售。<\/p>",
+    "source": "CRB"
+}

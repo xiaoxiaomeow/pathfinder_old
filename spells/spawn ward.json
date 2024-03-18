@@ -1,0 +1,30 @@
+{
+    "key": "spawn ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spawn-ward/",
+    "name": "Spawn Ward",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 5,
+        "inquisitor": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min.s/level",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect.<\/p><p>If the attacking undead's Hit Dice is less than or equal to your caster level, the blood drain or energy drain has no effect. If the attacking undead's Hit Dice are greater than your caster level, the undead must make a Fortitude save (against the DC of the spell) with each attack for those special abilities to have any effect. The spell only prevents the Constitution damage from blood drain and negative levels from energy drain, but not any other effects of these attacks.<\/p>",
+    "name_zh": "防衍体结界",
+    "race_zh": "吸血裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>目标可以抵御不死生物造成的能量吸取以及吸血效果，并且不会在法术持续时间内被杀死而变为不死衍体。<\/p><p>若不死生物的HD小于等于你的施法者等级，则其攻击造成的能量吸取以及吸血不会有任何效果。若不死生物的HD大于你的施法者等级，亡灵必须进行一次成功的强韧豁免 (对抗法术DC) 才能使他的特殊能力对其攻击的目标造成影响。该法术只能防止吸血造成的体质伤害以及能量吸取造成的负向等级，对其他效果没有任何影响。<\/p>",
+    "source": "ARG"
+}

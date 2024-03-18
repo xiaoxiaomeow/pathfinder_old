@@ -1,0 +1,30 @@
+{
+    "key": "prestidigitation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prestidigitation/",
+    "name": "Prestidigitation",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "universal",
+    "levels":     {
+        "bard": 0,
+        "magus": 0,
+        "psychic": 0,
+        "sorcerer/wizard": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "10 ft.",
+    "duration": "1 hour",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p>Prestidigitations are minor tricks that novice spellcasters use for practice. Once cast, a <i>prestidigitation<\/i> spell enables you to perform simple magical effects for 1 hour. The effects are minor and have severe limitations. A prestidigitation can slowly lift 1 pound of material. It can color, clean, or soil items in a 1-foot cube each round. It can chill, warm, or flavor 1 pound of nonliving material. It cannot deal damage or affect the concentration of spellcasters. <i>Prestidigitation<\/i> can create small objects, but they look crude and artificial. The materials created by a <i>prestidigitation<\/i> spell are extremely fragile, and they cannot be used as tools, weapons, or spell components. Finally, <i>prestidigitation<\/i> lacks the power to duplicate any other spell effects. Any actual change to an object (beyond just moving, cleaning, or soiling it) persists only 1 hour.<\/p>",
+    "name_zh": "魔法伎俩",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "10尺",
+    "target_zh": ", 效果或区域        见后文",
+    "duration_zh": "1小时",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>魔法伎俩是新手施法者用来练习的小把戏。每次施放它，魔法伎俩能让你在1小时内做出简单的魔法效果。这种魔法效果微弱且作用有限。它可以缓慢提升1磅重的物体。它也可以每轮把1尺见方内的物品染色、清洁或弄脏一次。它可以改变让一磅无生命物质变冷、变热或者加点味道。它不能造成伤害，也无法对施法者的专注造成影响。魔法伎俩可以创造小物品，但是它们看起来是非常粗糙的假货。用魔法伎俩创造的物品极其不结实，无法用作工具、武器或者法术成分。最后，魔法伎俩无法模仿其他法术效果。对物品的任何实质性改变 (仅除了移动、清洁或者弄脏) 都只能持续1小时。<\/p>",
+    "source": "CRB"
+}

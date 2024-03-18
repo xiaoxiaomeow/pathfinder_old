@@ -1,0 +1,47 @@
+{
+    "key": "suggestion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suggestion/",
+    "name": "Suggestion",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 3,
+        "psychic": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "domains": {"charm": 3},
+    "subdomains":     {
+        "corruption": 2,
+        "devil": 3,
+        "innuendo": 3
+    },
+    "mysteries": {"intrigue": 3},
+    "castingTime": "1 standard action",
+    "components": "V, M (a snake's tongue and a honeycomb)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 hour/level or until completed",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You influence the actions of the target creature by suggesting a course of activity (limited to a sentence or two). The <i>suggestion<\/i> must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell.<\/p><p>The suggested course of activity can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do. You can instead specify conditions that will trigger a special activity during the duration. If the condition is not met before the spell duration expires, the activity is not performed.<\/p><p>A very reasonable <i>suggestion<\/i> causes the save to be made with a penalty (such as -1 or -2).<\/p>",
+    "name_zh": "暗示术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 材料 (一段蛇舌和一块蜂巢)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1小时/等级 或 直至完成",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你通过暗示受术者 (最多一两句话) 采取某种方式的活动影响它的行动。你的暗示言辞必须能让那种活动听上去合情合理。若要求生物作出明显对自身有害的行为将使法术自动失效。<\/p><p>受术者将在法术持续时间内始终遵循被暗示的行动。如果该行动很快达成，则受术者达成目标后法术即告结束。你也可以设定特殊条件来在法术持续时间内触发受术者的行为。如果在法术结束前未达成触发条件，则暗示的行为不会发生。<\/p><p>一个相当合理的暗示会使受术者在进行豁免检定时受到减值 (比如-1或-2)。<\/p>",
+    "source": "CRB"
+}

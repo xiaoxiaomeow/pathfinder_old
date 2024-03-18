@@ -1,0 +1,35 @@
+{
+    "key": "enervation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enervation/",
+    "name": "Enervation",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "bloodrager": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "subdomains":     {
+        "loss": 5,
+        "undead": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "ray of negative energy",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You point your finger and fire a black ray of negative energy that suppresses the life force of any living creature it strikes. You must make a ranged touch attack to hit. If you hit, the subject gains 1d4 temporary negative levels (see Special Abilities). Negative levels stack.<\/p><p>Assuming the subject survives, it regains lost levels after a number of hours equal to your caster level (maximum 15 hours). Usually, negative levels have a chance of becoming permanent, but the negative levels from <i>enervation<\/i> don't last long enough to do so.<\/p><p>An undead creature struck by the ray gains 1d4 x 5 temporary hit points for 1 hour.<\/p>",
+    "mythicText": "The number of negative levels inflicted increases to 1d6, and the target is sickened for 24 hours. An undead creature struck by the ray gains 1d6 × 5 temporary hit points for a number of hours equal to your caster level. <br><p style=\"margin-left:20px\"><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, any creature attempting to remove the target's negative levels must succeed at a caster level check (DC 10 + your caster level + your tier). ",
+    "name_zh": "弱能术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "负能量射线",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你伸出手指并发射出一道负能量组成的黑色射线，它所命中的活物的生命能量都将受到抑制。你必须进行远程接触攻击来命中目标。若你命中，受术者就会承受1d4个暂时负向等级 (见特殊能力)。负向等级会叠加。<\/p><p>若目标能存活，则会在等同于你的CL的小时后 (最多15个小时) 恢复失去的等级。一般来说负向等级有机会变为永久的，但弱能术造成的负向等级的持续时间不足以达成这点。<\/p><p>被射线击中的不死生物获得 {1d4×5} 点临时HP，持续1小时。<\/p>",
+    "source": "CRB"
+}

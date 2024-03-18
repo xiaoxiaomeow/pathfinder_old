@@ -1,0 +1,39 @@
+{
+    "key": "phobia",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phobia/",
+    "name": "Phobia",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 5,
+        "mesmerist": 5,
+        "psychic": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a single white hair)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one intelligent creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You instill the target with an intense, instinctual fear of a condition or circumstance, more powerful than the phobia lesser madness. You can name an energy type (acid, cold, electricity, fire, or sonic), a hazard (such as an avalanche or earthquake), or a single creature of the animal type or all vermin (applying when the target sees a swarm or a single Small or larger creature). Alternatively, you can name the following specific environments: darkness (darker than dim light, and you can't apply this phobia to a creature with natural racial darkvision, see in darkness, blindsight, or similar senses), enclosed spaces (places that require the creature to squeeze),heights (10 times the target's height, and you can't apply this phobia to creatures with a natural fly speed), or water (you can't apply this phobia to aquatic creatures or creatures with a natural swim speed).<\/p><p>When the target takes damage of the energy type (for an energy type phobia), or perceives the presence of the creature, environment, or hazard, it must attempt a DC 20 Will save. If it fails, it becomes panicked, but even if it succeeds, it becomes shaken and feels intensely uncomfortable; a creature shaken in this way does not need to roll further saving throws against its phobia until its shaken condition ends, even if it continues to be exposed to its phobia.<\/p><p>A creature panicked by <i>phobia<\/i> can begin to act normally 1 minute after it ceases being able to perceive its <i>phobia<\/i> or after taking the energy damage if the phobia is an energy type, though the shaken condition ends immediately after the creature can no longer perceive its phobia. Break enchantment, heal, limited wish, miracle, or wish can remove a <i>phobia<\/i> spell.<\/p>",
+    "name_zh": "恐惧症",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一根白头发)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个智慧生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向目标注入对某个情况或是环境强烈、发自本能的恐惧，比次级疯狂：恐惧症(phobia lesser madness)还要更加强大(见本书P.182)。你可以指定一种能量(酸、寒冷、电、火或是音波)，一种危险(像是山崩或地震)，或着动物类别中单一种动物，或是所有虫类(当受术者看到一个集群或一个小体型或更大的生物)。此外，你可以选则下列的特殊环境：黑暗(比昏暗更暗，而你不能对天生带有黑暗视觉、看破黑暗、盲视或类似感官的生物使用此恐惧症)，狭窄的空间(窄到需要生物通过挤压的地方)，高地(受术者身高的10倍，而你不能对天生拥有飞行速度的生物使用此恐惧症)，或水(你不能对水生生物或天生拥有游泳速度的生物使用此恐惧症)。\n当受术者受到该种能量类型的伤害时(所选择恐惧的能量类型)，或察觉到该生物、环境或危机的存在，受术者必须尝试一个DC20的意志豁免检定。如果他失败了，他陷入恐慌(panicked)状态，但就算他豁免成功了，他也会陷入战栗(shaken)状态，并且会强烈的感到不舒服；直到他的战栗状态结束，一个以此原因战栗的生物，并不需要再去丢豁免检定来对抗他的恐惧对象，就算他一直暴露在他的恐惧对象之下。\n一个因恐惧症而恐慌的生物可以于不再能觉察到恐惧对象后1分钟如常行动；或着，如果恐惧对象是一种能量，那就是不在受到这种能量伤害1分钟后，而当该生物不再意识到他的恐惧对象之后，战栗状态立刻结束。破除结界(Break enchantment)、医疗术(heal)、有限祈愿术(limited wish)、神迹术(miracle)或祈愿术(wish)可以移除恐惧症(Phobia)。<\/p>",
+    "source": "HA"
+}

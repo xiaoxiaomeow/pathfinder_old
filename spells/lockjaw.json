@@ -1,0 +1,28 @@
+{
+    "key": "lockjaw",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lockjaw/",
+    "name": "Lockjaw",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (sticky tree gum)",
+    "range": "touch",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You give a creature the ability to use one of its natural attacks to firmly attach itself to an opponent. Choose one of the creature's natural attacks (usually a claw or bite attack). The creature gains the grab ability with that natural attack, including the +4 bonus on combat maneuver checks to start or maintain a grapple. A creature with multiple natural attacks can strike at its grappled opponent with its other natural attacks, but cannot attack any other creature.<\/p>",
+    "name_zh": "钳颚术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (粘性树胶)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你使被接触的生物获得一项能力，使他能够使用其中一种天生武器将自身紧紧附着在敌人身上。选择生物的一个天生武器 (通常是爪或者啮咬攻击)。他的这项天生武器获得攫取 (grab) 能力，这也包括在尝试以及维持擒抱时，战技检定获得的+4加值。拥有多种天生武器的生物可以使用其他天生武器攻击被擒抱的敌人，但是不能够攻击其他生物。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,28 @@
+{
+    "key": "telekinetic projectile",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-projectile/",
+    "name": "Telekinetic Projectile",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "occultist": 0,
+        "psychic": 0,
+        "spiritualist": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "instantaneous",
+    "savingThrow": "no",
+    "spellResistance": "no",
+    "text": "<p>You fling an object weighing up to 5 pounds at the target. You must succeed at a ranged attack (not a ranged touch attack) to hit your target; if you hit, you deal 1d6 points of bludgeoning damage to both the target and the object. The type of object thrown doesn't change the damage type or any other properties of the attack, even if you throw a weapon or magic item in this way.<\/p>",
+    "name_zh": "念动射弹",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你将一个至多5磅重的物体掷向目标。你必须成功通过远程攻击（而非远程接触攻击）来命中目标；若命中，你会对物体和目标同时造成1d6点钝击伤害。被投掷的物体类型不会改变伤害类型或攻击的其他特性，即便你以此方式抛掷武器或魔法物品也是如此。<\/p>",
+    "source": "OA"
+}

@@ -1,0 +1,28 @@
+{
+    "key": "truespeak",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/truespeak/",
+    "name": "Truespeak",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 4,
+        "cleric": 6,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You can communicate with any creature that is not mindless. As long as you can be heard, your speech is understandable to all creatures, each of which hears you as though you were conversing in its language or other natural mode of communication, and you hear their responses as though in your own native language. You may ask questions and receive answers, though this spell does not make creatures more friendly or cooperative than normal, and non-sentient creatures may give limited responses. While using truespeak, your language-dependent effects can affect any creature that is not mindless.<\/p>",
+    "name_zh": "真实之语",
+    "race_zh": "神裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你可以与任何非无心智的生物进行交谈。只要你的语言可以被听到，所有的生物就都能明白你的意思；虽然所有生物都在以其自身的自然模式进行沟通，不过你会像听到他们在说你的母语一样理解其意思。你可以问问题和寻求答案，不过该法术不会让生物变得比通常更友善或更合作，无感知的生物也仅会给出非常有限的反应。当真实之语生效期间，你的依赖语言效果可以影响所有非无心智生物。<\/p>",
+    "source": "ARG"
+}

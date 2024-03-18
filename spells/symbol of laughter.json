@@ -1,0 +1,23 @@
+{
+    "key": "symbol of laughter",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-laughter/",
+    "name": "Symbol of Laughter",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "components": "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as symbol of death, except that all creatures within 60 feet are affected with uncontrollable laughter (as hideous laughter) for 1 round per caster level.<\/p><p>Unlike symbol of death, symbol of laughter has no hit point limit; once it is triggered, a symbol of laughter remains active for 1 minute per caster level.<\/p><p>Symbol of laughter can be made permanent with a permanency spell by a caster of 10th level or higher at a cost of 5,000 gp.<\/p>",
+    "name_zh": "狂笑徽记",
+    "components_zh": "语言，姿势，材料（水银和磷，以及分别价值至少1000gp的钻石和猫眼石粉末）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同死亡徽记（symbol of death）一般，不过60尺范围内的生物都会不可控制地大笑起来，就如同狂笑术（Hideous Laughter）一般，持续时间为每施法者等级1轮。\n和死亡徽记不同的是，狂笑徽记没有生命值限制，一旦被触发后，狂笑徽记会在每施法者等级1分钟内持续生效。\n狂笑徽记可以被魔法恒定术（permanency）恒定。这需要10级或更高等级的施法者，并且花费5000gp。<\/p>",
+    "source": "ACG"
+}

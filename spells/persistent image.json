@@ -1,0 +1,18 @@
+{
+    "key": "persistent image",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/persistent-image/",
+    "name": "Persistent Image",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 5
+    },
+    "bloodlines": {"efreeti": 5},
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish.<\/p>",
+    "name_zh": "长驻幻影",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=silent image\">无声幻影 (silent image)<\/a>’一般，不过本法术的虚假幻觉包含视觉、听觉、嗅觉、温度，而且虚假幻觉遵从一段由你预先决定的行动。你不必维持专注，虚假幻觉就能遵从这些行动。如果你愿意，幻象还可以做清晰的演说。<\/p>",
+    "source": "CRB"
+}

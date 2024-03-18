@@ -1,0 +1,25 @@
+{
+    "key": "contact entity ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contact-entity/",
+    "name": "Contact Entity II",
+    "base": "contact entity",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "cleric": 3,
+        "medium": 2,
+        "occultist": 3,
+        "psychic": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 3,
+        "witch": 3
+    },
+    "range": "200 miles",
+    "target": "up to 20 entities of 12 HD or fewer",
+    "text": "<p>This spell functions like <i>contact entity I<\/i>, except that you can contact creatures from the <i>contact entity II<\/i> list, and as noted above.<\/p>",
+    "name_zh": "联系怪诞存在 II",
+    "target_zh": "至多20名12HD或更低的存在 ",
+    "text_zh": "<p>此法术如同联系怪诞存在 I(contact entity I)般作用，除了你可以接触联系怪诞存在 II列表中的生物，如上图所述。<\/p>",
+    "source": "HA"
+}

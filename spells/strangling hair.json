@@ -1,0 +1,31 @@
+{
+    "key": "strangling hair",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/strangling-hair/",
+    "name": "Strangling Hair",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "concentration, up to 1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Your hair animates and extends to grapple and constrict an opponent. Make a grapple check against the target using your caster level as the base attack bonus plus a bonus equal to your Intelligence bonus (if a witch or wizard) or Charisma bonus (if a sorcerer). This grapple check does not provoke attacks of opportunity. If your hair succeeds in grappling a foe, that creature takes 1d6 points of damage or your unarmed strike damage, whichever is greater, and gains the grappled condition. Your hair receives a +5 bonus on grapple checks made against opponents it is already grappling, but cannot move foes or pin foes. Each round that your hair succeeds on a grapple check, it deals an additional 1d6 points of damage. The CMD of your hair, for the purposes of escaping the grapple, is equal to 10 + its CMB.<\/p><p>Once you choose a target, your hair continues to attack that target independently of your own actions. You may designate a new target as a move action, which causes your hair to release its current target (if any) and attack the new target that round. Your hair cannot be targeted as a separate creature, but it can be dispelled.<\/p>",
+    "mythicText": "You may use your hair to attempt dirty trick, disarm, steal, or trip combat maneuvers instead of grapple combat maneuvers. Add your tier to combat maneuver checks attempted with your hair and to your hair's damage rolls made as part of a grapple. ",
+    "name_zh": "窒息之发",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "专注，最高1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你活化你的头发，使其自如伸缩并擒抱你的对手。<\/p><p>针对目标进行一次擒抱检定，使用你的施法者等级替代基础攻击加值，加上你的智力 (法师、女巫) 或魅力 (术士) 调整值作为加值。这次擒抱检定不会引发藉机攻击。<\/p><p>如果你的头发成功擒抱住对手，生物受到1d6点伤害或你的徒手打击伤害 (取其高)，并且进入擒抱状态。<\/p><p>你的头发对已经被擒抱的生物的擒抱检定有+5加值，不过不能使其移动或者将其压制。<\/p><p>每一轮，只要你的头发保持擒抱成功，它就再造成1d6点伤害。你的头发对抗打破擒抱的CMD等于10加上它的CMB。<\/p><p>一旦你选择了一个目标，你的头发就会自行独立的攻击目标。你可以用一个移动动作给头发指定一个新目标，这会使头发放弃当前目标 (如果有的话) 并对新目标进行攻击。<\/p><p>你的头发不能被作为一个单独目标，不过它可以被解除魔法影响。<\/p>",
+    "source": "UM"
+}

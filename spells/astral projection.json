@@ -1,0 +1,32 @@
+{
+    "key": "astral projection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/astral-projection/",
+    "name": "Astral Projection",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "domains": {"travel": 9},
+    "bloodlines": {"dreamspun": 9},
+    "mysteries": {"ancestor": 9},
+    "castingTime": "30 minutes",
+    "components": "V, S, M (1,000 gp jacinth)",
+    "range": "touch",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>By freeing your spirit from your physical body, this spell allows you to project an astral body onto another plane altogether. You can bring the astral forms of other willing creatures with you, provided that these subjects are linked in a circle with you at the time of the casting. These fellow travelers are dependent upon you and must accompany you at all times. If something happens to you during the journey, your companions are stranded wherever you left them.<\/p><p>You project your astral self onto the Astral Plane, leaving your physical body behind on the Material Plane in a state of suspended animation. The spell projects an astral copy of you and all you wear or carry onto the Astral Plane. Since the Astral Plane touches upon other planes, you can travel astrally to any of these other planes as you will. To enter one, you leave the Astral Plane, forming a new physical body (and equipment) on the plane of existence you have chosen to enter.<\/p><p>While you are on the Astral Plane, your astral body is connected at all times to your physical body by an incorporeal silver cord. If the cord is broken, you are killed, astrally and physically. Luckily, very few things can destroy a silver cord. When a second body is formed on a different plane, the silver cord remains invisibly attached to the new body. If the second body or the astral form is slain, the cord simply returns to your body where it rests on the Material Plane, thereby reviving it from its state of suspended animation. This is a traumatic affair, however, and you gain two permanent negative levels if your second body or astral form is slain. Although astral projections are able to function on the Astral Plane, their actions affect only creatures existing on the Astral Plane; a physical body must be materialized on other planes.<\/p><p>You and your companions may travel through the Astral Plane indefinitely. Your bodies simply wait behind in a state of suspended animation until you choose to return your spirits to them. The spell lasts until you desire to end it, or until it is terminated by some outside means, such as dispel magic cast upon either the physical body or the astral form, the breaking of the silver cord, or the destruction of your body back on the Material Plane (which kills you).<\/p><p>When this spell ends, your astral body and all of its gear, vanishes.<\/p>",
+    "name_zh": "星界投射",
+    "castingTime_zh": "30分钟",
+    "components_zh": "语言, 姿势, 材料 (价值1000gp的红锆石)",
+    "range_zh": "接触",
+    "target_zh": "你加上每两个CL一个接触到的自愿生物",
+    "duration_zh": "见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>通过将你的灵魂从你血肉之躯中释放出来，这个法术能让你在另一个位面上完全投射出一个星界身体。你能够将其他自愿与你同行的生物变为星界形体，前提是在你施法的时候这些受术者和你连成一个环形。这些旅行同伴依靠你，而且必须在任何时候都与你在一起。如果旅行中你出了什么事导致离开了他们，你的同伴将会被困在你离开他们的地方。<\/p><p>你将你的星界自我投射到星界位面，你的肉体躯体留在了主物质位面，肉体处于一种假死的状态。这个法术会把你和你装备或携带的所有装备都投射到星界，创造出一个星界副本。由于星界和其它位面相连，你可以根据自己意愿来进行星界旅行到其它位面。在进入其它位面的时候，你将离开星界，并在你选择进入的位面重组一个新的肉身 (和装备)。<\/p><p>当你处在星界的时候，你的星界身体和你的肉体之间始终以一根虚体银线 (incorporeal silvery cord) 相连。如果这根银线断掉，你的星界形体和肉体都会死亡。幸运的是，极少有东西能破坏这根银线。当在其它位面组成第二个肉体时，这根虚体银线会以不可见的形式继续和这个新身体相连。如果第二个身体或星界形体被杀，这根银线仅会退缩到你留在主物质位面的身体里，之后这个身体会从假死状态中复苏。这是创伤性事件，所以如果你的第二个身体或星界形态被杀的话，你会获得2个永久负向等级。尽管星界投射体能在星界活动，他们的行动仅仅对存在于星界的生物才起作用；肉身必须在其它位面物质化。<\/p><p>你和你的同伴可以无限期的通过星界旅行。你们的身体会处于假死状态等在那里，直到你们决定将灵魂返回躯体为止。该法术只有在你们决定停止的时候才会结束，或者直到它被其它外界因素所终止为止，例如在肉身上或星界形体上施展‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’、切断银线、或者毁掉留在主物质位面的身体 (这样会杀死你们)。在该法术结束后，你的星界身体以及它们携带的装备都会消失。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "savage maw",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/savage-maw/",
+    "name": "Savage Maw",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "antipaladin": 1,
+        "cleric": 2,
+        "druid": 2,
+        "inquisitor": 2,
+        "magus": 2,
+        "psychic": 2,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d), special (see below)",
+    "text": "<p>Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. You gain a bite attack that deals 1d4 points of damage plus your Strength modifier. If you confirm a critical hit with this attack, it also deals 1 point of bleed damage. If you already have a bite attack, your bite deals 2 points of bleed damage on a critical hit. You are considered proficient with this attack. If used as part of a full-attack action, the bite is considered a secondary attack, is made at your full base attack bonus –5, and adds half your Strength modifier to its damage. You can end this spell before its normal duration by making a bestial roar as a swift action. When you do, you can make an Intimidate check to demoralize all foes within a 30-foot radius that can hear the roar.<\/p>",
+    "name_zh": "野蛮大嘴",
+    "race_zh": "半兽人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)，特殊 (见下文)",
+    "text_zh": "<p>你的牙齿伸长变尖，你的嘴被转变为充满锋利尖牙的大嘴。你获得啮咬攻击，能够造成“1d4+力量修正”的伤害。如果你使用啮咬攻击确认重击，它还会造成1点出血伤害。如果你已经拥有啮咬攻击，那么你的啮咬攻击会在确认重击时造成2点流血伤害。你被视为擅长该种攻击。如果你将其作为全力攻击的一部分，那么啮咬攻击被视为次要攻击，使用你全部基本攻击加值-5进行攻击，并且其伤害只获得你的力量修正的一半。<\/p><p>你可以在该法术正常持续时间之内以迅捷动作进行一次野性咆哮并结束该法术。当你这么做时，你能够对距离半径30尺内所有能够听到咆哮的人进行威吓检定以挫败士气。<\/p>",
+    "source": "ARG"
+}

@@ -1,0 +1,34 @@
+{
+    "key": "word of chaos",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/word-of-chaos/",
+    "name": "Word of Chaos",
+    "school": "evocation",
+    "descriptors":     [
+        "chaotic",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 7,
+        "inquisitor": 6
+    },
+    "domains": {"chaos": 7},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "40 ft.",
+    "area": "non-chaotic creatures in a 40-ft.-radius spread centered on you",
+    "duration": "instantaneous",
+    "savingThrow": "none or Will negates",
+    "spellResistance": "yes",
+    "text": "<table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"source text\">HD<\/th>    <th class=\"text\">Effect<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Equal to caster level<\/td>    <td class=\"text\">Deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -1<\/td>    <td class=\"text\">Stunned, deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -5<\/td>    <td class=\"text\">Confused, stunned, deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -10<\/td>    <td class=\"text\">Killed, Confused, stunned, deafened<\/td>   <\/tr>  <\/tbody> <\/table><p>Any non-chaotic creature within the area of a <i>word of chaos<\/i> spell suffers the following ill effects, depending on their HD.<\/p><p>The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.<\/p>",
+    "name_zh": "混沌真言",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "40尺",
+    "area_zh": "以你为中心, 半径40尺扩散区域内的非混乱生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无 或 意志, 通过则无效; 见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>在混沌真言法术区域内的任何非混乱生物都会承受后述不良效果，具体效果取决于他们的HD。\nHD\n 效果\n等于CL\n 耳聋\n至多为CL-1\n 震慑, 耳聋\n至多为CL-5\n 困惑, 震慑, 耳聋\n至多为CL-10\n 死亡, 困惑, 震慑, 耳聋<\/p><p>这些效果会累加并且同时发生。成功的意志豁免会减弱或消除这些效果。受到复数效果影响的生物只能进行一次豁免，并且将结果应用至所有效果上。<\/p><p>耳聋 (Deafened): 生物会耳聋1d4轮。豁免通过则无效。<\/p><p>震慑 (Stunned): 生物被震慑1轮。豁免通过则无效。<\/p><p>困惑 (Confused): 生物会困惑1d10分钟。这是影响心灵的惑控系效果。豁免通过会使困惑降低至1轮。<\/p><p>死亡 (Killed): 活物死掉。不死生物被摧毁。豁免通过则无效。若豁免成功，生物会受到 {3d6+每CL 1点伤害 (最高+25)} 作为替代。<\/p><p>此外，若你在原属位面 (home plane) 施放该法术，区域内的非混乱跨位面生物 (extraplanar creatures) 会立刻被驱逐回其原属位面。被如此驱逐的生物在至少24小时内无法返回。无论这些生物是否能够听到混沌真言，这个效果都会产生。驱逐效果可以通过一次意志豁免 (受到-4减值) 来无效化。<\/p><p>HD高于你的CL的生物不受混沌真言影响。<\/p>",
+    "source": "CRB"
+}

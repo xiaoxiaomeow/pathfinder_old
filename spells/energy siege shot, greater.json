@@ -1,0 +1,21 @@
+{
+    "key": "energy siege shot, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-siege-shot/",
+    "name": "Energy Siege Shot, Greater",
+    "base": "energy siege shot",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["variable"],
+    "levels":     {
+        "sorcerer/wizard": 6,
+        "summoner": 6
+    },
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one siege engine of any size",
+    "text": "<p>This spell functions like <i>energy siege shot<\/i>, except it can target siege engines of any size, not just Large siege engines.<\/p><\/div>",
+    "name_zh": "高等能量炮击",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一台任何大小的攻城器械",
+    "text_zh": "<p>这个法术工作方式如同能量炮击 (Energy Siege Shot)，不过它可以作用于任何体积的攻城器械，而不只是大型的。<\/p>",
+    "source": "UC"
+}

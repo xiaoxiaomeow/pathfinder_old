@@ -1,0 +1,42 @@
+{
+    "key": "obscuring mist",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/obscuring-mist/",
+    "name": "Obscuring Mist",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "druid": 1,
+        "magus": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "unchained summoner": 1,
+        "witch": 1
+    },
+    "domains":     {
+        "air": 1,
+        "darkness": 1,
+        "water": 1,
+        "weather": 1
+    },
+    "elementalSchools": {"water": 1},
+    "bloodlines": {"ectoplasm": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "effect": "cloud spreads in 20-ft. radius from you, 20 ft. high",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>A misty vapor arises around you. It is stationary. The vapor obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).<\/p><p>A moderate wind (11+ mph), such as from a <i>gust of wind<\/i> spell, disperses the fog in 4 rounds. A strong wind (21+ mph) disperses the fog in 1 round. A fireball, flame strike, or similar spell burns away the fog in the explosive or fiery spell's area. A wall of fire burns away the fog in the area into which it deals damage.<\/p><p>This spell does not function underwater.<\/p>",
+    "name_zh": "隐雾术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "20尺",
+    "effect_zh": "从你扩散出高20尺、半径20尺范围的云雾",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>一团雾气从你四周升起。雾气是静止的。它遮蔽了所有的视线，包括黑暗视觉，任何生物都无法看见5尺外的东西。距离5尺的生物有隐蔽 (20%的失手率)，更远的生物则有全隐蔽效果 (50%失手率，并且攻击者无法以视觉确定对方的位置)。<\/p><p>和风 (时速11英里以上)，例如由‘<a href=\"spell.html?spell=gust of wind\">造风术 (gust of wind)<\/a>’产生的风，可以在4轮之内吹散云雾。强风 (时速21英里以上) 可以用一轮吹散。‘<a href=\"spell.html?spell=fireball\">火球术 (fireball)<\/a>’、‘<a href=\"spell.html?spell=flame strike\">焰击术 (flame strike)<\/a>’或类似的法术可以将爆炸范围或火焰范围内的雾气烧光。‘<a href=\"spell.html?spell=wall of fire\">火墙术 (wall of fire)<\/a>’则可以把它能造成伤害的范围内的雾气烧光。<\/p><p>此法术在水中无效。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,27 @@
+{
+    "key": "remote viewing",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/remote-viewing/",
+    "name": "Remote Viewing",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "subSchool": ["scrying"],
+    "levels":     {
+        "medium": 4,
+        "occultist": 5,
+        "psychic": 5,
+        "spiritualist": 5
+    },
+    "castingTime": "1 hour",
+    "components": "V, S, M (incense)",
+    "range": "see text",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>Your body enters a trance as you send your psychic senses to a distant location and gain psychic impressions of that location. You must specify the distance and direction to the location you desire to view remotely. This spell doesn't allow you to see the visual appearance of the location's surface, so it isn't useful for casting spells like teleport, but it grants you a psychic impression of the location, which could give you deeper information. For example, a forest that is home to a tight-knit community of fey might appear as a city in the trees, or a beautiful palace ruled by an evil king and warded by forbiddance might appear as a dark fortress encased in insubstantial chains.<\/p><p>During the 1 hour casting time of remote viewing, your real body is unconscious and helpless, and you are unaware of its surroundings.<\/p>",
+    "name_zh": "遥感术",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言，姿势，材料（焚香）",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>你的身体陷入一种出神的状态，此刻你的精神感应被送往遥远的地点，并获得此处的精神映像。你必须明确阐明想要远程观察的地点所处的方位以及距离。该法术无法让你看到目标地点的视觉影像，因此该法术对传送术（Teleport）的法术没有用处，但是它能向你提供目标地点的精神映像，借由这一点你可以了解到更深层的信息。举例说明：一片与精类（fey）有着紧密联系的森林可能看起来像是坐落于树木中的城市，而受到禁制术（Forbiddance）保护、由邪恶帝王所统治的华美宫殿则看起来像是由无实体的链条所包围的黑暗堡垒。\n在遥感术这1小时的施法时间内，你的真实身体会陷入昏迷（unconscious）和无助（helpless），你自己也无法感受到身体周围的环境。<\/p>",
+    "source": "OA"
+}

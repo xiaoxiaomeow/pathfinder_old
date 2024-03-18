@@ -1,0 +1,30 @@
+{
+    "key": "break",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/break/",
+    "name": "Break",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a twig)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You can attempt to break or at least damage any one Medium or smaller object within range. If the target fails its Fortitude Saving Throw, it gains the broken condition. If cast on a broken item, that item is destroyed on a failed save.<\/p>",
+    "mythicText": "<p class=\"source\">You can target up to 1 Medium or smaller object per caster level. <br><p style=\"margin-left: 20px\"><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, target objects gain the broken condition on a successful save and are destroyed on a failed save. This doesn't affect mythic objects or objects held or carried by mythic creatures. ",
+    "name_zh": "破坏术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一根树枝)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个中型或更小的物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你可以尝试破坏或至少损伤一件范围内的中型或更小的物体。<\/p><p>如果目标强韧检定失败，它会进入破损状态。<\/p><p>如果该法术被施放在一件破损物体上，检定失败后物体会被彻底销毁。<\/p>",
+    "source": "APG"
+}

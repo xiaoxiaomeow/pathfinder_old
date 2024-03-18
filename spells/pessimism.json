@@ -1,0 +1,39 @@
+{
+    "key": "pessimism",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pessimism/",
+    "name": "Pessimism",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "medium": 4,
+        "mesmerist": 4,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a shard of a broken mirror)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You erode the target's confidence and instill a sense of despair.<\/p><p>This fear of failure manifests as a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls. Additionally, the target can't gain morale bonuses of any kind while the spell remains in effect. No amount of achievement counters the spell's effects—the target simply explains away positive events with a self-critical perspective.<\/p><p>Certain events can solidify the character's belief that it is doomed. Whenever the target rolls a natural 1 on an attack roll or saving throw, fails an ability or skill check by more than 5, or takes additional damage as a result of a foe's confirmed critical hit, the penalty to roll imposed by pessimism becomes –3 for 1 round.<\/p><p>This increased penalty doesn't stack, even if multiple catastrophes occur on the same round.<\/p>",
+    "name_zh": "悲观主义",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一块破镜的碎片)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你腐蚀受术者的信心，并且徐徐注入着绝望。这股对失败的恐惧使其在攻击骰、豁免检定、属性检定、技能检定以及武器伤害骰上承受-2减值。除此之外，当此法术生效时，受术者不能获得任何种类的士气加值。无论多少的成就都不能抵消此法术─受术者仅是简单的将正向的结果用自我批判的角度解读罢了。\n必然的结果会坚定该角色对厄运的想法。无论何时，受术者在一个攻击骰或豁免检定投出自然1，在一次属性或技能检定失败超过5点，或因为一个敌人确认重击受到了额外的伤害，则因为悲观主义所被强加的减值变成-3，持续1轮。此减值不会叠加，就算在同一轮中发生数次大失败。<\/p>",
+    "source": "HA"
+}

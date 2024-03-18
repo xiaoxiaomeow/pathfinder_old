@@ -1,0 +1,26 @@
+{
+    "key": "aldori alacrity",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alacrity/",
+    "name": "Aldori Alacrity",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "magus": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (ginger root shavings)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p class=\"desciption\">This spell's energy quickens your steps, allowing fancy footwork.<\/p><p>You gain a +10-foot enhancement bonus to your speed and a +1 dodge bonus to your AC. These bonuses do not stack with those granted by haste or similar effects. While under the effects of alacrity, you can take 5-foot steps in difficult terrain.<\/p>",
+    "name_zh": "奥多里迅捷咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（姜根片）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>曾经有一个叫代冯的奥多里魔战士因为艳羡剑客们灵巧的格挡招架技巧而设计了这个法术，因此，它在吟游诗人和魔战士之间获得了绝赞好评。你在电光石火间做出反应，用自己的武器偏斜开致命的剑刃。你可以在一个敌人对你发动近战攻击时施放本法术，如果你这时持用一把单手或轻型武器，那么你可以立刻用它格挡这次攻击，如同你使用了游荡剑客的适时格挡反击炫技一样（这样做不需要你拥有时髦值），但是，你只能进行格挡，不能反击。\n数个世纪以来，红螳螂刺客开发了许多魔法手段，并以此来强化自身对阿卡艾克克那致命的信仰。下面介绍了几个组织所创造的法术。请注意除了萨扎里暗影记忆（Sarzari Shadow Memory）之外（因为该法术对红螳螂刺客来说法术环级太高了），所有后述法术均为红螳螂刺客的可选法术，就好像这些法术是术士/法师法术列表中的幻术系或变化系法术一般。<\/p>",
+    "source": "AG"
+}

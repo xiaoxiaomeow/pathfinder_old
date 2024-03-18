@@ -1,0 +1,44 @@
+{
+    "key": "command",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/command/",
+    "name": "Command",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 1,
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "witch": 1
+    },
+    "subdomains":     {
+        "devil": 1,
+        "toil": 1,
+        "tyranny": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 round",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity. You may select from the following options.<\/p><p style=\"margin-left: 40px\"><i>Approach<\/i>: On its turn, the subject moves toward you as quickly and directly as possible for 1 round. The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.<\/p><p style=\"margin-left: 40px\"><i>Drop<\/i>: On its turn, the subject drops whatever it is holding. It can't pick up any dropped item until its next turn.<\/p><p style=\"margin-left: 40px\"><i>Fall<\/i>: On its turn, the subject falls to the ground and remains prone for 1 round. It may act normally while prone but takes any appropriate penalties.<\/p><p style=\"margin-left: 40px\"><i>Flee<\/i>: On its turn, the subject moves away from you as quickly as possible for 1 round. It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.<\/p><p style=\"margin-left: 40px\"><i>Halt<\/i>: The subject stands in place for 1 round. It may not take any actions but is not considered helpless.<\/p><p>If the subject can't carry out your command on its next turn, the spell automatically fails.<\/p><p><\/p>",
+    "mythicText": "You can target up to one creature per level, each of which must receive the same command. <br>Creatures that succeed at their saving throws are staggered for 1 round (this is a mind-affecting effect). <br><\/div>",
+    "name_zh": "命令术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你对受术者下达单字的命令，他将尽其所能在最早的时候去完成它。你可以从下列选项中挑选命令：\nl  来 (Approach): 在他的回合内，受术者将在1轮内尽可能快地直接向你靠近。受术者在自己的回合内除了朝你靠近之外什么都不做，如此移动会如常引起借机攻击。\nl  掉 (Drop): 在他的回合内，受术者会将手里的所有东西都扔掉，直至他的下一回合之前都不会捡起任何丢掉的东西。\nl  倒 (Fall): 在他的回合内，受术者会在1轮内躺倒在地。在俯卧中他可以如正常情况一般行动，但是要受到倒地带来的相应惩罚。\nl  逃 (Flee): 在他的回合内，受术者将在1轮内尽全可能快地远离你。受术者在自己的回合内除了移动之外什么都不做，如此移动会如常引起借机攻击。\nl  停 (Halt): 受术者将原地不动1轮。他将不能做任何动作，但并非处于无助状态。<\/p><p>如果受术者在他接下来的回合内无法执行你所下达的命令，该法术将自动失效。<\/p>",
+    "source": "CRB"
+}

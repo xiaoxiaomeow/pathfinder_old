@@ -1,0 +1,31 @@
+{
+    "key": "old salt's curse",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/old-salt-s-curse/",
+    "name": "Old Salt's Curse",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "druid": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a flask of seawater)",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though remove curse or break enchantment can negate it.<\/p>",
+    "name_zh": "老水手的诅咒",
+    "race_zh": "人类",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一瓶海水)",
+    "range_zh": "接触",
+    "target_zh": "一个生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你把一瓶受到诅咒的海水淋到目标身上，使其永远感到恶心。无论何时只要目标离开海岸超过1里并且在海面或者海里，他便会晕船。这个诅咒无法被‘解除魔法’解除，但是‘移除诅咒’和‘破除结界’可以祛除它。<\/p>",
+    "source": "ARG"
+}

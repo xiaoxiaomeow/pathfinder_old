@@ -1,0 +1,31 @@
+{
+    "key": "pied piping",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pied-piping/",
+    "name": "Pied Piping",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "mind-affecting",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"bard": 6},
+    "castingTime": "1 standard action",
+    "components": "V or F (musical instrument)",
+    "range": "90 ft.",
+    "area": "90-ft.-radius emanation, centered on you",
+    "duration": "concentration + 1 round/level",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You call forth a melody so compelling and attractive that creatures belonging to a group with a specific, identifiable physical trait (such as type, subtype, age, gender, or hair color) find it almost impossible not to approach and follow you. You choose the nature of the creatures you seek to attract when you cast the spell and, once you make this choice, cannot alter it. You can only use physical traits to determine your audience. You can never use social and other more voluntary criteria (such as alignment, religion, nationality, or class) to select targets for this spell.<\/p><p>Eligible creatures must make a Saving Throw each round spent within the area of the spell and, once they fail, approach you at their normal movement speed and stand as close to you as possible without actually entering an occupied square.<\/p><p>If you move, they do their best to maintain their proximity to you and follow. Affected creatures can take no actions other than listening to your music and following you if you move.<\/p><p>Those entering the area while the spell is in effect must also successfully save or be compelled to come to you.<\/p><p>The attractive power of the spell does not cause affected creatures to put themselves in jeopardy and they have enough presence of mind to avoid or negotiate around obstacles and other perilous hazards. If unable to approach or follow you without endangering themselves, they simply wait, swaying to the music, until you pass out of range, at which point they regain their senses after 1 round/caster level. If circumstances change once you move out of range, making it possible for affected creatures to resume their attempts to get near you they do so, and, if they manage to return to within the area of the spell before it wears off, the spell continues as normal.<\/p><p>If attacked, affected creatures can take defensive measures, even going so far as to avoid existing threats by moving out of the area of the spell, but cannot make attacks themselves or take any other actions until the effects of the spell wear off. The effects of the spell persist for 1 round/caster level even after you stop concentrating. Once the spell ceases, the affected creatures continue to stay near you until the effects of the spell wear off.<\/p>",
+    "name_zh": "花衣魔幻曲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言 或 器材 (乐器)",
+    "area_zh": "以你为中心，半径90尺弥散范围",
+    "duration_zh": "专注 + 1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你奏出引人入胜的曲调并且吸引同属于一种具体、可辨认的物理特征 (比如生物类型，生物子类，年龄，性别或者发色) 的生物，他们会发现几乎不可能不靠近跟随你。你需要在施放法术时决定你要吸引的生物的性质，一旦你做出决定就无法更改。你只能使用物理性质来限定你的听众。你永远无法使用社会性质或者其他自选的标准 (比如阵营，宗教，国籍或者职业) 来选择该法术的目标。<\/p><p>符合条件并且在法术范围内的生物每轮均需进行豁免，一旦豁免失败，他们就会使用正常移动速度靠近你，并且尽可能站在靠近你的位置而不会进入你所占据的空间。如果你开始移动，他们会尽可能靠近并跟随你。除了听着你的音乐并且在你移动时跟随你之外，被影响的生物无法做任何其他动作。<\/p><p>法术的吸引力不会使生物将自身至于危险之中，他们有足够的理智来避免或绕过障碍或者其他可能造成伤害的物体。如果无法在不危及自己的情况下靠近或者跟随你，他们会原地等待并随着音乐摇摆，直至你走出他们所在的范围，以此为分界线，他们会在每施法者等级1轮之后恢复神智。如果你在移出范围后环境改变，使得被影响的生物重新能够尝试靠近你的话，他们就会如此去做，如果他们赶在法术效果消退之前重新回到法术范围内，那么法术如常对其生效。如果被影响的生物受到攻击，他们能够采取防御措施，即便移动出法术的区域他们也会避免当前的威胁，但是在法术的影响消散之前他们无法由自身发起攻击，或者进行任何其他动作。即使在你停止专注之后，该法术的影响仍会持续每施法者等级1轮。一旦法术被停止，被影响的生物会持续待在靠近你的位置直至法术消散。<\/p>",
+    "source": "APG"
+}

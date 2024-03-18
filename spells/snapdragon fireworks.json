@@ -1,0 +1,34 @@
+{
+    "key": "snapdragon fireworks",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/snapdragon-fireworks/",
+    "name": "Snapdragon Fireworks",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors":     [
+        "fire",
+        "light"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "S, V, M (a bundle of sulfur wrapped in cloth)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "effect": "dragon-shaped fireworks",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>A favorite display at halfling midsummer festivals, this spell lets you create fireworks in the shape of tiny dragons. Once per round, as a move action, you may designate a target 5-foot-square within range and launch a pyrotechnic in that direction. The pyrotechnic takes a zigzag path from you to that square, always missing creatures and objects in its path, and detonates in that square with a bang and a colorful burst of fire and light. Creatures in the target square take 1d4 points of fire damage and are dazzled for 1 round (Reflex half, a successful save negates the dazzled condition). Normally when this spell is used as part of a festival, the chosen target is high in the sky to increase visibility and protect observers.<\/p>",
+    "name_zh": "火龙烟花",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一小块用布抱起来的硫磺球)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "effect_zh": "龙型烟花",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>作为半身人在庆祝仲夏节时最受欢迎的节目，这个法术可以让你创造出一颗小型巨龙形状的烟花。<\/p><p>每轮一次，以一个移动动作，你可以向一个5尺方格的目标方向发射一枚烟火。烟花会在你和目标地点之间划出一条弯弯曲曲的轨迹，并且总是会避开目标生物和物体，然后在目标方格产生一声响亮的爆炸声和绚丽的火花。<\/p><p>在目标方格的生物受到1d4点火焰伤害，并目眩一轮 (反射减半并不会目眩)。<\/p><p>通常情况下，这个法术会在节庆时使用，目标会选择正上方的天空，以获得更好的观察效果顺便避免伤害围观群众。<\/p>",
+    "source": "UM"
+}

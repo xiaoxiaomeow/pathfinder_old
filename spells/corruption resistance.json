@@ -1,0 +1,36 @@
+{
+    "key": "corruption resistance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/corruption-resistance/",
+    "name": "Corruption Resistance",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors":     [
+        "chaotic",
+        "evil",
+        "good",
+        "or lawful"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "10 min.s/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You grant the touched creature limited protection from magical effects that inflict damage based on the target creature's alignment, such as <i>holy smite<\/i>, order's wrath, a paladin&#8216;s smite evil attack, or an <i>unholy<\/i> weapon. Choose one alignment type: chaos, evil, good, or law. The subject takes 5 less points of damage from effects that specifically harm creatures of that alignment. The value of the protection increases to 10 points at 7th level and 15 points at 11th level. The spell protects the recipient's equipment as well.<\/p><p>Corruption resistance protects against spells, spell-like abilities, and special abilities, not physical attacks. <i>Corruption resistance<\/i> only protects against damage. The subject can still suffer side effects from such attacks. When you use this spell to protect an alignment, it gains the descriptor of that alignment.<\/p>",
+    "name_zh": "亵渎抵抗",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你授予接触的目标以有限的防护以对抗会伤害它的基于施放者阵营的魔法效果，例如神圣打击，秩序之怒，圣骑士的破邪斩，或一把邪恶武器。<\/p><p>选一个阵营类型：混乱，邪恶，善良，或守序。目标对选定的阵营攻击效果获得5的伤害减免。伤害见面在7级达到10，在11级达到15。法术亦将保护受术者的装备。<\/p><p>受亵渎抵抗可以防止法术、类法术能力或特殊能力，但不包括物理攻击。它只会对伤害效果提供防护。受术者仍会收到攻击带来的负面效果影响。<\/p><p>当你使用这个法术防护一个阵营时，它的名称和描述以阵营为准。<\/p>",
+    "source": "APG"
+}

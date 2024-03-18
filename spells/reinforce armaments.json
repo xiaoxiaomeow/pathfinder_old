@@ -1,0 +1,31 @@
+{
+    "key": "reinforce armaments",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reinforce-armaments/",
+    "name": "Reinforce Armaments",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a metal pin)",
+    "range": "touch",
+    "target": "one armor suit or weapon touched",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You reinforce a weapon or armor suit to give it a temporarily upgrade or mitigate the fragile quality. A suit of armor or weapon touched that has the fragile quality is not considered to have the fragile quality for the spell's duration. Normal armor suits or weapons subjected to this spell instead gain the masterwork quality for the spell's duration and their hardness is doubled. If this spell is cast on masterwork or magical armor or weapons, their hardness is doubled for the duration of the spell.<\/p>",
+    "name_zh": "强固武装",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一根金属刺)",
+    "range_zh": "接触",
+    "target_zh": "接触到的一套盔甲或一件武器",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>这个法术工作方式如同强固武装 (Reinforce Armaments)，不过你可以将持续时间以10分钟为单位分配给复数物体。<\/p>",
+    "source": "UC"
+}

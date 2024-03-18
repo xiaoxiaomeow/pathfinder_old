@@ -1,0 +1,31 @@
+{
+    "key": "binding earth",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/binding-earth/",
+    "name": "Binding Earth",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "druid": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature or unattended object (see text)",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>If the target of this spell fails its Fortitude save, areas of earth and stone floor act as a snapping quagmire that pulls the target down and damages it if it attempts to move through such terrain.<\/p><p>If the target is a creature, it treats all areas of earth and stone it moves through as difficult terrain. Furthermore, for each 5 feet a creature moves through such areas, it takes 1d6 points of damage. Creatures with a burrow speed or the earth glide ability are unaffected by binding earth.<\/p><p>If cast on an unattended object resting on an area of stone or earth, the stone or earth warps and wraps around it, pulling it firmly to the ground. A DC 15 Strength check is required to pull the object free from snapping earth or stone.<\/p>",
+    "name_zh": "地缚术",
+    "race_zh": "土元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物或无人持用的物品 (见下文)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>如果目标在强韧豁免检定中失败，那么他所在的那片地面或者石板会如同泥潭一般拉扯他，并且伤害试图通过这片区域的人。<\/p><p>如果目标是一个生物，该法术会将其通过的所有泥土或石质地面变为困难地形。此外，每个在这些区域中移动的生物，会受到每5尺1d6点伤害。拥有掘地速度或者“潜地”能力的生物不会受到‘地缚术’影响。<\/p><p>如果法术施放在无人持用并且摆放在泥土或石质地面的物品上时，地面会层层包裹住它，将其牢牢固定在地面上。必须通过DC为15的力量检定才能将物品从包裹它的地面中拔出。<\/p>",
+    "source": "ARG"
+}

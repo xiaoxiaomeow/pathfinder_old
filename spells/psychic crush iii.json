@@ -1,0 +1,14 @@
+{
+    "key": "psychic crush iii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
+    "name": "Psychic Crush III",
+    "base": "psychic crush i",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 7},
+    "text": "<p>This functions as <i>psychic crush I<\/i>, but the target takes 7d6 points of damage + 1 point of damage per caster level on a successful Fortitude save and 1 point of damage per caster level on a successful Will save. The target receives a +2 circumstance bonus on the Fortitude save if it is at full hit points, and no bonus if it has taken any damage. This spell can be undercast.<\/p>",
+    "name_zh": "心灵碾压 III",
+    "text_zh": "<p>该法术的功能如同心灵碾压 I（Psychic Crush I）一般，不过成功通过强韧豁免时，目标会受到7d6 + 每施法者等级1点伤害，即便成功通过意志豁免，目标也会受到每施法者等级1点伤害。此外，目标仅在生命值全满的时候于强韧豁免中获得+2环境加值；受到任何伤害之后都不会获得此类加值。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

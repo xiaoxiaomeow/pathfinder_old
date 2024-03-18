@@ -1,0 +1,31 @@
+{
+    "key": "web cloud",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/web-cloud/",
+    "name": "Web Cloud",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "cloud spreads in 20-ft. radius, 20 ft. high",
+    "duration": "1 min./level",
+    "savingThrow": "Reflex partial",
+    "spellResistance": "no",
+    "text": "<p>You create a cloud of flame-resistant strands of adhesive webbing that billows and flows much like a cloudkill spell. The cloud moves away from you at a rate of 10 feet per round, rolling along the surface of the ground.<\/p><p>Figure out the cloud's new spread each round based on its new point of origin, which is 10 feet farther away from the point of origin where the caster cast the spell. Creatures trapped in the webbing remain trapped even after the cloud passes, but the area the cloud leaves behind does not count as difficult terrain.<\/p><p>Because the webbing is heavier than air, it sinks to the lowest level of the land, even pouring down den or sinkhole openings. The cloud of webbing cannot penetrate liquids, nor can it be cast underwater. The cloud otherwise acts like a web spell. A creature in the cloud at the start of its turn must save against the cloud or be affected. The webbing of this spell is flammable (see the web spell), but has fire resistance 5.<\/p>",
+    "name_zh": "蛛网之云",
+    "race_zh": "卓尔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "20尺半径，20尺高范围的云团",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造了由粘着蛛网组成的抗燃云团，它翻腾移动的方式就如同‘死云术’一般。云团沿着地表以每轮10尺的速度远离你。<\/p><p>每一轮都要以云雾新的源发点开始计算新的扩散范围，源发点的距离为每轮远离施法时的起点10英尺。之前被困在蛛网中的生物在云团离去后依旧保持被困的状态，但是云团经过的地区不算做困难地形。<\/p><p>因为云雾比空气重，它们将往低处蔓延，甚至会侵入洞穴或洼地。它不能渗透液体，也不能在水下施放。<\/p><p>这个云团在其他方面运作如同‘蛛网术’。生物在它回合的开始时若在云团之中则必须进行豁免否则会被云团影响。该法术创造的蛛网是可燃的 (见‘蛛网术’)，但是其拥有5点火焰抗力。<\/p>",
+    "source": "ARG"
+}

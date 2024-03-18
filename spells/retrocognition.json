@@ -1,0 +1,27 @@
+{
+    "key": "retrocognition",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/retrocognition/",
+    "name": "Retrocognition",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "medium": 3,
+        "occultist": 3,
+        "psychic": 5,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "concentration, up to 1 min./level",
+    "text": "<p>This spell allows you to gain psychic impressions from past events that occurred in your current location. Retrocognition reveals psychic impressions from events that occurred over the course of the last hour throughout the first minute of the duration, followed by impressions from the next hour back the next minute you concentrate, and so on. If a psychically traumatic or turbulent event happened during that time period, You must succeed at a concentration check (DC = 20, 30, or 40, depending on the severity of the psychic disturbance) or lose concentration on the spell.<\/p><p>At caster level 13th and higher, you can choose to collect impressions from over the course of a longer interval of time than an hour, beginning at 1 week per minute of concentration (as listed on the table below). The amount of detail you receive diminishes, so this eventually makes it harder to distinguish impressions left by anything but the most major events.<\/p><p>Caster Level Time Period<\/p><p>13th–15th 1 week per minute<\/p><p>16th–18th 1 year per minute<\/p><p>19th+ 1 century per minute<\/p>",
+    "name_zh": "回溯过去",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "专注，至多为1分钟/等级",
+    "text_zh": "<p>该法术让你能够获得关于目前你所处的地点中，过去发生的事件的精神映像。在回溯过去的持续时间内的第一个分钟内，法术会揭示过去一个小时的期间内所发生的事件的精神映像，当你继续进行持续下一分钟的专注时，法术会再向回追溯一个小时，以此类推。在这段期间内，如果发生了在精神上使人受创或致人混乱的事件，那么你必须进行专注检定（DC = 20、30或40，取决于精神上受到干扰的严重程度），失败则会失去对法术的专注。\n如果施法者的施法者等级为13级或更高的话，则能够选择使用比一小时更长的时间间隔来收集来自过去的映像，从而以至少每分钟一周的周期来进行专注（详见下表）。你所能得到的细节将会减少，因此这么做最终会使得你难以分辨最重要的事件与其他稀松平常的时期。\n施法者等级 \n 时间周期\n \n13级 - 15级      \n 每分钟一周\n \n16级 - 18级 \n 每分钟一年\n \n19级以上 \n 每分钟一世纪<\/p>",
+    "source": "OA"
+}

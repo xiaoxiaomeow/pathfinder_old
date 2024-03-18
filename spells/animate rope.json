@@ -1,0 +1,32 @@
+{
+    "key": "animate rope",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animate-rope/",
+    "name": "Animate Rope",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "domains": {"artifice": 1},
+    "elementalSchools": {"wood": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one rope-like object, length up to 50 ft. + 5 ft./level; see text",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You can animate a nonliving rope-like object. The maximum length assumes a rope with a 1-inch diameter. Reduce the maximum length by 50% for every additional inch of thickness, and increase it by 50% for each reduction of the rope's diameter by half.<\/p><p>The possible commands are &#8220;coil&#8221; (form a neat, coiled stack), &#8220;coil and knot,&#8221; &#8220;loop,&#8221; &#8220;loop and knot,&#8221; &#8220;tie and knot,&#8221; and the opposites of all of the above (&#8220;uncoil,&#8221; and so forth). You can give one command each round as a move action, as if directing an active spell.<\/p><p>The rope can enwrap only a creature or an object within 1 foot of it &#8211; it does not snake outward &#8211; so it must be thrown near the intended target. Doing so requires a successful ranged touch attack roll (range increment 10 feet). A typical 1-inch-diameter hemp rope has 2 hit points, AC 10, and requires a DC 23 Strength check to burst it. The rope does not deal damage, but it can be used as a trip line or to cause a single opponent that fails a Reflex saving throw to become entangled. A creature capable of spellcasting that is bound by this spell must make a concentration check with a DC of 15 + the spell's level to cast a spell. An entangled creature can slip free with a DC 20 Escape Artist check.<\/p><p>The rope itself and any knots tied in it are not magical.<\/p><p>The spell cannot affect objects carried or worn by a creature.<\/p>",
+    "name_zh": "活化绳",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一根绳状物体，长度至多为 {50尺+每等级5尺}; 见后文",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以活化一根无生命的绳状物品。该最大长度是按照一根直径1英吋的绳子计算的。厚度每额外增加1英吋，最大长度会减少50%，同时绳子的直径每缩小一半，该长度会增加50%。<\/p><p>可用的命令有“卷”(整齐地卷成一摞)，“卷，结”，“圈”，“圈，结”，“绑，结”，以及所有和之前相反的命令 (如“解”等)。每轮你可以以一个移动动作下一个命令，如同引导已启动法术一样。<\/p><p>绳子仅可围绕1尺内一个生物或物品——它没法蛇形前进——因此它必须被扔在目标边上。这样做需要一个成功的远程接触攻击 (射程增量为10尺)。普通的一英吋粗麻绳具有2点HP，AC 10, 需要DC 23的力量检定才能崩坏。该绳索不会造成伤害，但是它可以被用作绊绳，或者致使反射豁免失败的单个生物受到纠缠。被这道法术所纠缠的生物要施法必须进行一次DC {15+法术环位} 的专注检定。被纠缠的生物可以通过DC 20的脱逃检定来获得自由。<\/p><p>绳索本身和它上面打的结不具魔法。<\/p><p>这个法术不能活化被生物携带或穿戴的物品。<\/p>",
+    "source": "CRB"
+}

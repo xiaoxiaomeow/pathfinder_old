@@ -1,0 +1,27 @@
+{
+    "key": "planar ally",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planar-ally/",
+    "name": "Planar Ally",
+    "book": "Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "descriptors": ["see text for <i>lesser planar ally<\/i>"],
+    "levels":     {
+        "cleric/oracle": 6,
+        "shaman": 6
+    },
+    "subdomains":     {
+        "agathion": 6,
+        "archon": 6,
+        "azata": 6,
+        "psychopomp": 6
+    },
+    "components": "V, S, M (offerings worth 1,250 gp plus payment), DF",
+    "effect": "one or two called outsiders, totaling no more than 12 HD, which cannot be more than 30 ft. apart when they appear",
+    "text": "<p>This spell functions like <i>lesser planar ally<\/i>, except you may call a single creature of 12 HD or less, or two creatures of the same kind whose HD total no more than 12. The creatures agree to help you and request your return payment together.<\/p>",
+    "name_zh": "异界盟友",
+    "components_zh": "语言, 姿势, 材料 (报酬外加价值1250gp的祭品, 见后文), 法器",
+    "effect_zh": "呼唤一个或两个异界生物, 总HD不超过12, 出现时任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=lesser planar ally\">次等异界盟友 (lesser planar ally)<\/a>’一般，不过你可以呼唤1个不超过12HD的生物；或2个同一种类的生物，总HD不超过12。呼唤来的生物会一起同意帮助你，也会共同向你要求回报。<\/p>",
+    "source": "CRB"
+}

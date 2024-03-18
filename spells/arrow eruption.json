@@ -1,0 +1,30 @@
+{
+    "key": "arrow eruption",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arrow-eruption/",
+    "name": "Arrow Eruption",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "ranger": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (arrow or crossbow bolt)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "30-ft.-radius burst",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You create exact duplicates of the arrow or crossbow bolt you used to kill a creature in the previous round and launch one at enemy creatures within a 30-foot radius of the corpse. You can target one creature per caster level (maximum 15) within range of the burst and must make a single attack roll and apply it to each arrow. These duplicate arrows possess all the intrinsic magical properties of the arrow that killed the original creature as well as those passed on to it by your bow. They also enjoy the full benefit of any bonuses or modifiers you applied to the attack from other magical items, feats, and class or racial features. However, this spell cannot reproduce any spells or other limited-use magical effects that you used to enhance that particular attack. This includes such effects as the <i>true strike<\/i> spell, as well as any area spell you might have placed on the arrow by means of the arcane archer's imbue arrow class feature.<\/p>",
+    "name_zh": "箭雨喷发",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (箭矢或十字弓矢)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "30尺爆发范围",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你完美地复制在上一轮中杀死生物的箭矢或十字弓矢，并且攻击距离该尸体30尺范围内的目标。你每级可以多选定一个目标，至多十五个，对所有目标你只需要做一次攻击检定，这些箭矢具有杀死生物那只箭矢上所有的魔法特性，效果如同你亲自将那些箭矢射出，他们同时具有所有来自你的职业特性，专长，种族和其他魔法物品提供的加值与增强加值，不过，此法术无法复制用来增强特定攻击的法术或魔法效果。这包括克敌机先之类的法术，或是魔射手的灌法箭能力所附加的范围法术。<\/p>",
+    "source": "APG"
+}

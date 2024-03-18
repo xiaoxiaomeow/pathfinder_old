@@ -1,0 +1,29 @@
+{
+    "key": "wilderness soldiers",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wilderness-soldiers/",
+    "name": "Wilderness Soldiers",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation: <b>Level<\/b> druid 2, ranger 2",
+    "levels":     {
+        "druid": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "30 ft.",
+    "area": "30-ft.-radius emanation, centered on you",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You call on the plants nearby to aid you in combat. This spell is ineffective if no plants you can direct are within the area. You can spend a swift action and/or a standard action on each of your turns to direct one of the following attacks. The attack bonus or CMB for these attacks equals your base attack bonus + your Wisdom modifier. You grant a +1 bonus per three caster levels (maximum +5) on damage rolls due to this spell. Your wilderness soldiers never provoke attacks of opportunity, and they do not count as allies for flanking or other purposes.<\/p><p style=\"margin-left:40px\"><b>Tree<\/b>: A tree makes a melee attack with a 10-foot reach from its trunk. A hit deals an amount of damage equal to 1d8 points + your Wisdom modifier. The tree can instead attempt a bull rush, drag, or reposition combat maneuver with the same reach, but the tree cannot move itself.<\/p><p style=\"margin-left:40px\"><b>Undergrowth or Hedgerow<\/b>: Acting as a Medium creature, one square of undergrowth or hedgerow attempts a grapple combat maneuver against an opponent within or adjacent to that square. Heavy undergrowth gains a +2 bonus to its CMD. Undergrowth cannot move the grapple or pin a foe, but it can deal an amount of damage equal to 1d4 points + your Wisdom modifier by making a successful grapple check against a foe it is grappling. The undergrowth's CMD is 5 + its CMB. If you fail to direct the undergrowth to maintain the grapple, it releases its opponent.<\/p>",
+    "name_zh": "荒野兵团",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "30尺",
+    "area_zh": "以你为中心，30尺半径弥漫范围",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你能够在战斗中呼唤附近的植物帮助你。如果在该区域范围内没有植物供你指挥，那么该法术无效。每当到你的回合时，你可以以迅捷动作和/或标准动作命令进行下列攻击之一。这些攻击的攻击加值或CMB等同于你的基本攻击加值 + 你的感知调整值。由于该法术造成的伤害检定，每3个施法者等级会获得+1加值 (最高+5)。你的荒野兵团不会引发藉机攻击，也不能用于作为盟友进行夹击或者其他用途。\n－树木：树木可以用它的树干进行10尺触及的近战攻击。命中造成等同于1d8 + 你的感知调整值点伤害。树木可以以相同的触及进行冲撞，拖行或复位战技，但是树木本身无法移动。\n－灌木或绿篱：它们视为中型生物，一个方格内的灌木或绿篱能够对正处于或者接邻该方格的生物进行擒抱战技。茂密灌木 (Heavy undergrowth) 的CMD获得+2加值。灌木无法挪动被擒抱或压制的敌人，但是能够通过对被擒抱的敌人进行成功的擒抱检定造成1d4 + 你的感知调整值点伤害。灌木的CMD为5 + 它的CMB。如果你未能指示灌木维持擒抱，那么它会施放敌人。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "ice crystal teleport",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-crystal-teleport/",
+    "name": "Ice Crystal Teleport",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "descriptors": ["cold"],
+    "levels":     {
+        "sorcerer/wizard": 6,
+        "summoner": 5,
+        "unchained summoner": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one creature",
+    "duration": "1d4 rounds and instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as teleport, except you use it to teleport yourself or one other creature to a safe location you specify (the target can bring along objects as long as their weight doesn't exceed the target's heavy load). You can only send the target to a location with which you are very familiar. The target is first trapped in ice (hardness 0, 3 hit points per inch of thickness, 1 inch thick per caster level) for 1d4 rounds, during which time it is paralyzed, aware but unable to take any physical actions, and begins to fade away as the teleportation aspect takes effect. At the end of the 1d4 rounds, the target teleports to the specified location, and the ice's hit points drop to 0 and it quickly melts away. If the ice is destroyed before the target teleports, the spell ends and the teleport doesn't occur.<\/p>",
+    "name_zh": "冰晶传送",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1d4轮和立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式如同传送术 (teleport)，不过你可以用它将你自己或别的生物移动到一个你熟悉的安全位置 (目标可以携带不超过重载的物品)。<\/p><p>你只能将生物送到一个你非常熟悉 (very familiar) 的地方。<\/p><p>目标会首先被困在一层冰块之中 (硬度0，每英吋3HP，每施法者等级1英吋)，持续1d4轮，同时陷入麻痹状态 (paralyzed)。在此期间虽然它意识清醒，但是不能进行任何物理动作，并且会由于传送效果而开始渐渐消失。<\/p><p>在1d4轮结束后，目标将会被传送到指定位置，冰块的HP会立刻下降到0并溶解消失。<\/p><p>如果在完成传送前，冰块被摧毁，法术立刻结束，并且传送也不会发动。<\/p>",
+    "source": "UM"
+}

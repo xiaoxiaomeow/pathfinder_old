@@ -1,0 +1,26 @@
+{
+    "key": "iron body",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/iron-body/",
+    "name": "Iron Body",
+    "school": "transmutation",
+    "levels": {"sorcerer/wizard": 8},
+    "subdomains": {"metal": 8},
+    "elementalSchools":     {
+        "earth": 8,
+        "metal": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a piece of iron from an iron golem, a hero's armor, or a war machine)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell transforms your body into living iron, which grants you several powerful resistances and abilities. You gain damage reduction 15/adamantine. You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You take only half damage from acid and fire. However, you also become vulnerable to all special attacks that affect iron golems.<\/p><p>You gain a +6 enhancement bonus to your Strength score, but you take a -6 penalty to Dexterity as well (to a minimum Dexterity score of 1), and your speed is reduced to half normal. You have an arcane spell failure chance of 35% and a -6 armor check penalty, just as if you were clad in full plate armor. You cannot drink (and thus can't use potions) or play wind instruments.<\/p><p>Your unarmed attack deals damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters), and you are considered armed when making unarmed attacks.<\/p><p>Your weight increases by a factor of 10, causing you to sink in water like a stone. However, you could survive the lack of air at the bottom of the ocean&#8211;at least until the spell duration expires.<\/p>",
+    "name_zh": "钢筋铁骨",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (铁魔像, 英雄的护甲或者战争机器上的一块金属)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>该法术会将你的身体变为活生生的钢铁，从而具有多种强大的抗力和能力。你获得15/精金的伤害减免。你免疫目盲、重击、属性伤害、耳聋、疾病、溺水、电击、毒素、震慑，同时免疫所有影响生理机能及呼吸方面的法术或攻击，因为在法术生效期间你已完全没有生理反应和呼吸。强酸和火焰对你带来的伤害减半。但所有那些能影响铁魔像 (iron golems) 的特殊攻击也会成为你的弱点。<\/p><p>你的力量获得+6增强加值，但敏捷承受-6减值 (最低到1)，并且速度降至正常的一半。你的奥术失败率达到35%并有-6的防具检定减值，就如同身穿全身甲一般。你不能饮水 (因此不能使用药剂) 或演奏吹奏乐器。<\/p><p>你的徒手打击视作持有武器，造成的伤害如同和你体型对应的木棒 (小型角色为1d4, 中型角色为1d6)。<\/p><p>你的体重增加10倍，这使你在水中如石头般下沉。但你能承受水底的高压和无空气状态——至少在法术持续时间内。<\/p>",
+    "source": "CRB"
+}

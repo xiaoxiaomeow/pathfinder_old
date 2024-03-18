@@ -1,0 +1,31 @@
+{
+    "key": "entrap spirit",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/entrap-spirit/",
+    "name": "Entrap Spirit",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "medium": 4,
+        "occultist": 5,
+        "psychic": 5,
+        "spiritualist": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a small silver mirror)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "incorporeal creature or haunt",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You trap the target in the mirror used as the spell's focus. The target cannot be affected by any means while inside the mirror.<\/p><p>If the mirror is destroyed, any incorporeal creature within is immediately freed and any haunt within returns to its original location. Creatures that assumed incorporeal form through a spell or other means remain incorporeal while trapped, even if the duration of the effect that rendered them incorporeal expires. If your focus mirror belonged to the target, the target takes a –2 penalty on its saving throw.<\/p>",
+    "name_zh": "囚困魂魄",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（一面小银镜）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "虚体生物或作祟",
+    "duration_zh": "1小时/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将目标困到作为法术器材的镜子中。目标在镜中无法被任何手段所影响。若镜子被打破，任何镜中的虚体生物（incorporeal creature）都会被立即释放，任何镜中的作祟（haunt）都会返回其原本所在的地点。通过法术或其他方法变为虚体形态的生物在被困入镜中时仍会维持虚体形态，即便使其化为虚体的法术持续时间已经经过也是如此。若你的器材镜子属于目标，目标便会在豁免检定中承受-2减值。<\/p>",
+    "source": "OA"
+}

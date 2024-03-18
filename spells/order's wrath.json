@@ -1,0 +1,31 @@
+{
+    "key": "order's wrath",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/order-s-wrath/",
+    "name": "Order's Wrath",
+    "school": "evocation",
+    "descriptors": ["lawful"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "inquisitor": 4
+    },
+    "domains": {"law": 4},
+    "mysteries": {"godclaw": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "non-lawful creatures within a burst that fills a 30-ft. cube",
+    "duration": "instantaneous (1 round); see text",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You channel lawful power to smite enemies. The power takes the form of a three-dimensional grid of energy. Only chaotic and neutral (not lawful) creatures are harmed by the spell.<\/p><p>The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to chaotic creatures (or 1d6 points of damage per caster level, maximum 10d6, to chaotic outsiders) and causes them to be dazed for 1 round. A successful Will save reduces the damage to half and negates the daze effect.<\/p><p>The spell deals only half damage to creatures who are neither chaotic nor lawful, and they are not dazed. They can reduce the damage in half again (down to one-quarter of the roll) with a successful Will save.<\/p>",
+    "name_zh": "秩序之怒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "边长30尺的立方形爆发区域内的所有非秩序生物",
+    "duration_zh": "立即 (1轮); 见后文",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你引导秩序的力量重击敌人。这股力量会形成一个由能量网组成的三维立方体。只有混乱或者中立 (非秩序) 阵营的生物会被该法术伤害。<\/p><p>法术对混乱生物造成每两个CL 1d8点伤害 (最高5d8)，对于混乱异界生物造成每CL 1d6点伤害 (最高10d6)，之后使其晕眩1轮。成功的意志豁免能使伤害减半并且，且不会晕眩。<\/p><p>对于既非秩序又非混乱的生物而言，该法术只会造成一半伤害，且不会使他们晕眩。如果他们能成功地通过意志豁免的话，伤害会再减半 (即投骰结果的1/4)。<\/p>",
+    "source": "CRB"
+}

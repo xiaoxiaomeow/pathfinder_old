@@ -1,0 +1,29 @@
+{
+    "key": "youthful appearance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/y/youthful-appearance/",
+    "name": "Youthful Appearance",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 hour/level",
+    "text": "<p>You make your target look like a younger version of itself. You select how much younger it looks (for example, “10 years” or “as a young adult”). You cannot otherwise change details of the target's appearance other than those directly associated with aging (for example, gray hair returns to its original color). The target cannot appear so much younger that it changes size. This spell does not affect any age-based modifications to ability scores or other age-related effects.<\/p>",
+    "name_zh": "返老还童",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>持续时间    1小时/等级<\/p><p>你让目标变成它年轻时候的样子。<\/p><p>你可以选择让目标看起来变年轻了多少 (例如‘10年前’或者‘刚成年’)。<\/p><p>你只能让目标的外观变成选择年龄段应有的样子，而不能变成其他外观 (比如花白的头发只会回到其原本的颜色)。<\/p><p>目标的年龄不能被改变到足以影响其体型大小的程度。<\/p><p>这个法术不会影响任何年龄导致的属性加值或罚值。<\/p>",
+    "source": "UM"
+}

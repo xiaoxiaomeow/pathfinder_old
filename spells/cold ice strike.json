@@ -1,0 +1,28 @@
+{
+    "key": "cold ice strike",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cold-ice-strike/",
+    "name": "Cold Ice Strike",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["cold"],
+    "levels":     {
+        "cleric/oracle": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "30 feet",
+    "area": "30-ft. line",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex half",
+    "text": "<p>You create a shredding flurry of ice slivers, which blast from your hand in a line. The line deals 1d6 points of cold damage per caster level (maximum 15d6).<\/p>",
+    "name_zh": "碎冰之击",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言, 姿势",
+    "area_zh": "30尺线形范围",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你创造了一群飞舞着的锋利冰刃，它们从你手中飞出并且席卷一整条直线。<\/p><p>线上生物受到每施法者等级1d6点寒冷伤害 (最高15d6)。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,15 @@
+{
+    "key": "detect chaos",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-chaos/",
+    "name": "Detect Chaos",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "shaman": 1
+    },
+    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.<\/p>",
+    "name_zh": "侦测混乱",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测混乱生物、混乱神祇的牧师、混乱法术以及混乱魔法物品的灵光，而且如若你是秩序阵营，则有可能被刺目的混乱灵光所伤。<\/p>",
+    "source": "CRB"
+}

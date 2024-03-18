@@ -1,0 +1,34 @@
+{
+    "key": "litany of righteousness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-righteousness/",
+    "name": "Litany of Righteousness",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "good",
+        "language-dependent"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "inquisitor": 3,
+        "paladin": 2
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Calling down a litany of anathema, you make an evil more susceptible to the attacks of good creatures. If the target is evil, it takes double damage from attacks made by creatures with a good aura (from a class feature or as a creature with the good subtype). If the target also has the evil subtype; when it is hit with attacks made by creatures with a good aura, it is also dazzled for 1d4 rounds. If this spell targets a nonevil creature (or one that lacks the evil subtype), it has no effect, and the spell is wasted.<\/p><p>While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "name_zh": "正义祷言",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>随着祷言引来的神罚，你让一个邪恶生物更容易被善良生物攻击。如果目标是邪恶阵营，它被拥有善良灵光的生物 (拥有该能力的种族类别或者子类别) 攻击时受到双倍伤害。<\/p><p>如果目标同时拥有邪恶子类别，它被拥有善良灵光的生物攻击时还会目眩1d4轮。<\/p><p>如果目标并非邪恶生物 (或非邪恶的子类别)，不会产生效果，法术被浪费。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
+    "source": "UC"
+}

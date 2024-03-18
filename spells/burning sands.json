@@ -1,0 +1,37 @@
+{
+    "key": "burning sands",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-sands/",
+    "name": "Burning Sands",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors":     [
+        "earth",
+        "fire"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 1,
+        "ranger": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a handful of sand)/DF",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "20-ft. radius",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You cause sheets of hot sand to spread over the ground in the area of effect. This layer of sand is 1 foot deep and constantly shifts and churns, transforming the ground in the area into difficult terrain. The sand itself burns, and periodic flames rise from the grit. While these flames cannot ignite objects, they deal 1d4 points of fire damage to any creature that ends its turn in contact with the ground within the area of effect. At the end of the duration, the sand vanishes, leaving no aftereffects (other than damage dealt).<\/p>",
+    "name_zh": "燃烧流沙",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一把沙子/法器）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使一大片炙热的沙子复盖在地表上。这些沙子深1英尺,并且不断地变化翻滚使该区域变为困难地形。这些熊熊燃烧的沙子虽然不能点燃物体,但是会对在效果区域中任何与地面接触的生物造成1d4的火焰伤害。法术效果结束后,沙子会消失,不会有遗留效果(除了受到的伤害)。<\/p>",
+    "source": "AG"
+}

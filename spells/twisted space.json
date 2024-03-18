@@ -1,0 +1,31 @@
+{
+    "key": "twisted space",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/twisted-space/",
+    "name": "Twisted Space",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a length of wire bent into a circle)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You distort the space around a creature, twisting the path of its melee attacks unpredictably, but always toward a nearby creature that the target threatens. Until the start of your next turn, melee attacks made by the target creature affect a random target instead of their intended target.<\/p>",
+    "name_zh": "扭曲空间",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一个铁丝圈)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你扭曲了目标生物周围的空间，使其近战攻击的路径变得不可预知，不过总是向着目标威胁范围内的生物而去。<\/p><p>在你下一轮行动开始之前，目标生物造成的所有近战攻击都不会直接命中目标而是会命中一个随机目标。<\/p>",
+    "source": "UC"
+}

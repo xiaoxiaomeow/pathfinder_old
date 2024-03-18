@@ -1,0 +1,32 @@
+{
+    "key": "touch of the sea",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-the-sea/",
+    "name": "Touch of the Sea",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "bloodrager": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1
+    },
+    "elementalSchools": {"water": 1},
+    "mysteries": {"waves": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a fish scale)",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You cause webs to grow between the target's fingers and its feet to transform into flippers, granting a swim speed of 30 feet along with the standard +8 bonus on Swim checks and the ability to take 10 even if distracted or endangered. You can also use the run action while swimming, provided you swim in a straight line. This transformation causes any boots or gloves the target is wearing to meld into its form (although magic items with a continuous effect continue to function). This spell does not grant the target any ability to breathe water.<\/p>",
+    "name_zh": "海洋之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片鱼鳞)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你让目标的手指和脚趾之间长出蹼，这会给予它30尺游泳速度，并且让它的游泳检定获得+8加值以及在分心和危险情况下游泳检定取10的能力。<\/p><p>同时，目标可以在游泳直线前进时使用奔跑动作。<\/p><p>这种变化同时也会影响到目标穿的靴子和手套以适应新的形态 (不会影响到魔法物品的运作)。<\/p><p>这个法术不会给予目标任何水下呼吸的能力。<\/p>",
+    "source": "APG"
+}

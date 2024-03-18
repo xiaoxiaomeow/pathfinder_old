@@ -1,0 +1,22 @@
+{
+    "key": "resurgent transformation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resurgent-transformation/",
+    "name": "Resurgent Transformation",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels": {"alchemist": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of meteoric iron worth 100 gp)",
+    "range": "personal",
+    "duration": "1 hour/level or until triggered, then 1 round/level",
+    "text": "<p><i>Resurgent transformation<\/i> grants you the ability to recover from deadly wounds with restored vitality and a will to fight, but at a price. Once cast, <i>resurgent transformation<\/i> lies dormant for up to 1 hour per level until you are reduced to one-quarter hit points or less. Once triggered, you immediately gain a +4 enhancement bonus to Constitution and Strength, damage reduction 5/-, and the benefits of a <i>haste<\/i> spell. In addition, you heal 4d8 points of damage + 1 point per caster level (maximum +25). <i>Resurgent transformation<\/i> can even save you from death by healing the damage from an otherwise mortal wound, though it does not prevent death from massive damage or from causes other than hit point loss. Your mental faculties are impaired by this magical transformation, however, causing 1d4 points of Intelligence and Wisdom damage.<\/p><p>The advantages from your transformation persist for 1 round per caster level after the spell is triggered. Once the spell ends, it takes a heavy toll, leaving you exhausted and inflicting 1d4 points of Constitution damage. Utilizing more than one <i>resurgent transformation<\/i> in a day is particularly risky.<\/p><p>The expiration of a second <i>resurgent transformation<\/i> in a 24- hour period inflicts an additional 1d4 points of Constitution damage and results in death from system shock unless you succeed at a DC 15 Fortitude save, made after the Constitution damage has been applied.<\/p><p>If the spell expires or is dispelled before the transformation has been triggered, no adverse effects result.<\/p>",
+    "name_zh": "转灵强愈剂",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值100gp的秘银)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级或 直到触发，之后持续1轮/等级",
+    "text_zh": "<p>只需要花点小钱，转灵强愈剂就能够使你获得从致命伤中痊愈，恢复活力并使你恢复继续战斗的意志。一旦施放，转灵强愈剂最多能在未激活状态持续每等级1小时，直到你的生命值降低至四分之一或更低的时候。一旦被触发，你的体质与力量会立刻获得+4增强加值，伤害减免 5/—并且受到加速术 (haste) 的影响。此外还能治愈4d8 + 每施法者等级1点 (最高+25) 点伤害。转灵强愈剂甚至能够通过治疗你所受到致命伤的伤害，将你从死亡中救回，但是它无法防止巨创 (massive damage) 或流失生命值以外的方式造成的死亡。你的智能会由于这种魔法性质的转变而受损，不管如何，你会受到1d4点智力与感知伤害。<\/p><p>你从这种转变中获得的优势会在法术被触发后持续每施法者等级1轮。一旦法术结束，它会是你付出沉重的代价，使你进入力竭状态并造成1d4点体质伤害。在一天内使用1次以上转灵强愈剂是十分冒险的行为。在24小时之内第二次被触发的转灵强愈剂持续时间结束的话，会造成额外1d4点体质伤害，并且如果你没有成功进行DC 15的强韧豁免就会猝死，该检定在造成上述体质伤害后进行。<\/p><p>如果法术在被触发之前持续时间结束或者被驱散的话，则不会产生任何负面影响。<\/p>",
+    "source": "APG"
+}

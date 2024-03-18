@@ -1,0 +1,28 @@
+{
+    "key": "protection from spells",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-spells/",
+    "name": "Protection from Spells",
+    "school": "abjuration",
+    "levels":     {
+        "sorcerer/wizard": 8,
+        "summoner": 6
+    },
+    "domains": {"magic": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (diamond worth 500 gp), F (One 1,000 gp diamond per target. Each subject must carry the gem for the duration of the spell. If a subject loses the gem, the spell ceases to affect him.)",
+    "range": "touch",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The subject gains a +8 resistance bonus on saving throws against spells and spell-like abilities (but not against supernatural and extraordinary abilities).<\/p>",
+    "name_zh": "防护法术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值500gp的钻石), 器材 (每个目标需要价值1000gp的钻石, 每个",
+    "range_zh": "接触",
+    "target_zh": "至多每四级1个接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>受术者在对抗法术和类法术能力 (但不包括超自然能力和特异能力) 时豁免获得+8抗力加值。<\/p>",
+    "source": "CRB"
+}

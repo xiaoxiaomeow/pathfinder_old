@@ -1,0 +1,22 @@
+{
+    "key": "mage's lucubration",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mage-s-lucubration/",
+    "name": "Mage's Lucubration",
+    "school": "transmutation",
+    "levels": {"wizard": 6},
+    "elementalSchools": {"void": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>You instantly prepare any one spell of 5th level or lower that you have used during the past 24 hours. The spell must have been actually cast during that period. The chosen spell is stored in your mind as through prepared in the normal fashion.<\/p><p>If the recalled spell requires material components, you must provide them. The recovered spell is not usable until the material components are available.<\/p>",
+    "name_zh": "法师回忆术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>你可以立即准备任何一个5环或更低环位的法术，不过这个法术必须是你在过去24小时内使用过的。你必须在之前的期间内真正的施放过该法术。被选择法术会储存在你的心灵，就如同通过正常方式准备好的法术一样。<\/p><p>要施放被唤回的法术时，如果该法术需要材料成分，你也必须准备好。在准备好材料成分之前你无法使用被唤回的法术。<\/p>",
+    "source": "CRB"
+}

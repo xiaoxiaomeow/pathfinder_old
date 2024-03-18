@@ -1,0 +1,33 @@
+{
+    "key": "dismissal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dismissal/",
+    "name": "Dismissal",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 4,
+        "inquisitor": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "unchained summoner": 5
+    },
+    "bloodlines": {"abyssal": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one extraplanar creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell forces an extraplanar creature back to its proper plane if it fails a Will save. If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.<\/p>",
+    "name_zh": "驱逐术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个跨位面生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会强行将一个跨位面生物 (extraplanar creature) 送回它的原属位面，不过前提是该生物的意志豁免失败。若法术成功，该生物会立即被送走，但有20%的机率将受术者送至其原属位面以外的位面。<\/p>",
+    "source": "CRB"
+}

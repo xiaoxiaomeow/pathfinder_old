@@ -1,0 +1,23 @@
+{
+    "key": "prismatic sphere",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prismatic-sphere/",
+    "name": "Prismatic Sphere",
+    "school": "abjuration",
+    "levels": {"sorcerer/wizard": 9},
+    "domains":     {
+        "artifice": 9,
+        "protection": 9,
+        "sun": 9
+    },
+    "mysteries": {"solar": 9},
+    "components": ": V",
+    "range": "10 ft.",
+    "effect": "10-ft.-radius sphere centered on you",
+    "text": "<p>This spell functions like <i>prismatic wall<\/i>, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum.<\/p><p>The sphere's <i>blindness<\/i> effect on creatures with less than 8 HD lasts 2d4 x 10 minutes.<\/p><p>You can pass into and out of the <i>prismatic sphere<\/i> and remain near it without harm. When you're inside it, however, the sphere blocks any attempt to project something through the sphere (including spells). Other creatures that attempt to attack you or pass through suffer the effects of each color, one at a time.<\/p><p>Typically, only the upper hemisphere of the globe exists, since you are at the center of the sphere, so the lower half is usually occluded by the floor surface you are standing on.<\/p><p>The colors of the sphere have the same effects as the colors of a <i>prismatic wall<\/i>.<\/p><p><i>Prismatic sphere<\/i> can be made permanent with a <i>permanency<\/i> spell.<\/p>",
+    "name_zh": "虹光法球",
+    "components_zh": "语言",
+    "range_zh": "10尺",
+    "effect_zh": "以你为中心, 半径10尺的球体",
+    "text_zh": "<p>该法术功能如同‘<a href=\"spell.html?spell=prismatic wall\">虹光法墙 (prismatic wall)<\/a>’一般，不过你会塑造出的是一个固定的闪着微光的不透明球体，它散发着多彩光线围绕着你，并且从所有形式的攻击中保护你。这个球体能闪耀出视觉光谱内的一切色彩光芒。<\/p><p>这个法球对少于8HD的生物所造成的的目盲效果持续2d4×10分钟。<\/p><p>你可以进入和离开虹光法球，也可以停留在它附近而不受伤害。一旦你身处其中，任何尝试将物体 (包括法术) 射穿法球的尝试都会被阻止。尝试攻击你或穿越法球的生物会在同时受到所有色彩的效果。<\/p><p>通常情况下，只有上半个法球是存在的，因为你是在法球中心，所以下半个法球通常会被你所站的地面所排除。<\/p><p>法球的色彩具有和‘<a href=\"spell.html?spell=prismatic wall\">虹光法墙 (prismatic wall)<\/a>’色彩同样的效果。<\/p><p>虹光法球可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

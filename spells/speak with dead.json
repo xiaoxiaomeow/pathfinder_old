@@ -1,0 +1,39 @@
+{
+    "key": "speak with dead",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-dead/",
+    "name": "Speak with Dead",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["language-dependent"],
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "medium": 2,
+        "psychic": 3,
+        "shaman": 3,
+        "spiritualist": 3,
+        "witch": 3
+    },
+    "domains":     {
+        "knowledge": 3,
+        "repose": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, DF",
+    "range": "10 ft.",
+    "target": "one dead creature",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p>You grant the semblance of life to a corpse, allowing it to answer questions. You may ask one question per two caster levels. The corpse's knowledge is limited to what it knew during life, including the languages it spoke. Answers are brief, cryptic, or repetitive, especially if the creature would have opposed you in life.<\/p><p>If the dead creature's alignment was different from yours, the corpse gets a Will save to resist the spell as if it were alive. If successful, the corpse can refuse to answer your questions or attempt to deceive you, using Bluff. The soul can only speak about what it knew in life. It cannot answer any questions that pertain to events that occurred after its death.<\/p><p>If the corpse has been subject to <i>speak with dead<\/i> within the past week, the new spell fails. You can cast this spell on a corpse that has been deceased for any amount of time, but the body must be mostly intact to be able to respond. A damaged corpse may be able to give partial answers or partially correct answers, but it must at least have a mouth in order to speak at all. This spell does not affect a corpse that has been turned into an undead creature.<\/p>",
+    "name_zh": "死者交谈",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "10尺",
+    "target_zh": "一个已死的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使一具尸体获得虚假的生命，使它可以回答你的问题。你每拥有两个CL可提出一个问题。尸体的知识仅限于其生前所知，包括它所讲的语言。回答通常是简短、含糊或重复的，特别在该名生物生前时于你敌对的情况下尤为如此。<\/p><p>若已死的生物阵营与你不同，则可如活着一般进行意志豁免来抗拒你的法术。若豁免成功，尸体能够拒绝回答你的问题，或者尝试使用唬骗来欺骗你。这个灵魂只能说出生前所知的事情。它无法回答任何与其死后发生的事件相关的问题。<\/p><p>若该尸体在过去的一周内已经被施展过死者交谈，则新施展的法术失效。无论死者已经死亡多久，你都能够对它的尸体施放该法术，不过尸体必须大致完好才能做出回应。受损的尸体可能会给出部分回答或者部分正确的回答，但是它必须有嘴才能够说话。该法术对已变成不死生物的尸体无效。<\/p>",
+    "source": "CRB"
+}

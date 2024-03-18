@@ -1,0 +1,19 @@
+{
+    "key": "fey form iv",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fey-form/",
+    "name": "Fey Form IV",
+    "base": "fey form",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 8,
+        "shaman": 8,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "text": "<p>This spell functions as <em>fey form III<\/em> except it doesn't limit your base speed and also allows you to use more abilities. If the form you assume has any of the following abilities, you gain those abilities: burrow speed 60 feet, climb speed 90 feet, fly speed 120 feet (good maneuverability), swim speed 120 feet, all-around vision, blindsense 60 feet, blindsight 30 feet, darkvision 90 feet, low-light vision, scent, see in darkness, tremorsense 60 feet, abduct, animated hair, beguiling aura, bleed, blood rage, boot stomp, burn, compression, constrict, crushing leap, DR 5/cold iron, fast healing 5, fear aura, frightful presence, grab, heavy weapons, hide in plain sight, icewalking, kneecapper, luminous, nasal spray, no shadow, oversized weapons, poison, putrid vomit, rend, rock Throwing (120 feet, 2d10 damage), sound mimicry, supernatural speed, tear shadow, trackless step, trample, transparency, tree meld, undersized weapons, vault, and woodland stride. If the creature has immunity or resistance to any energy types, you gain resistance 30 to those energy types. If the creature has immunity to mind-affecting effects or poison, you gain a +8 resistance bonus on saves against those effects. If the creature has spell resistance, you gain spell resistance 6 + your caster level. If the creature has any weaknesses, you gain those weaknesses.<\/p><\/div>",
+    "name_zh": "精类形态 IV",
+    "text_zh": "<p>这种法术如同精类形态 III，除了它不会限制你的基础速度，且还允许你使用更多的能力。如果你获得的形态有下列能力，你就能获得这些能力：60英尺的掘洞速度，90英尺的攀爬速度，120英尺的飞行速度（良好机动性），120英尺游泳速度，全域视野，60英尺盲感，30英尺盲视，90英尺黑暗视觉，昏暗视觉，灵敏嗅觉，看破黑暗，颤动感知60英尺，绑架（abduct），活化毛发（animated hair），迷诱灵光（beguiling aura），流血（bleed），鲜血狂怒（blood rage），铁靴践踏（boot stomp），燃烧（burn），压缩（compression），紧勒（constrict），毁灭跃击（crushing leap），伤害减免 5/寒铁，快速医疗 5，恐惧灵光，气势凶猛，擒抱，重型武器（heavy weapons），视线躲藏（hide in plain sight），冰行（icewalking），碎膝（kneecapper），发光（luminous），鼻腔喷雾（nasal spray），无影（no shadow），越型武器（oversized weapons），毒素（poison），腐臭呕吐（putrid vomit），撕扯（rend），投石（rock throwing）（120英尺，2d10点伤害），拟音（sound mimicry），超自然速度（supernatural speed），撕破阴影（tear shadow），无踪步（trackless step），践踏（trample），透明（transparency），融身入树（tree meld），小号武器（undersized weapons），跳跃（vault），和穿林步（woodland stride）。\n如果该生物对任何能量种类免疫或有抗力，你会获得对于这些能量种类的30抗力。如果该生物免疫于影响心灵效果或毒素，你在对抗这些效果的豁免上得到+8的抗力加值。如果该生物拥有法术抗力，你可以获得6+你的施法者等级的法术抗力。如果这个生物有任何弱点，你就会得到这些弱点。<\/p>",
+    "source": "UW"
+}

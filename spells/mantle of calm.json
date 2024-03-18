@@ -1,0 +1,39 @@
+{
+    "key": "mantle of calm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mantle-of-calm/",
+    "name": "Mantle of Calm",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 3,
+        "inquisitor": 3,
+        "mesmerist": 2,
+        "paladin": 3,
+        "psychic": 3,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none and Will negates (see text)",
+    "spellResistance": "no and yes (see text)",
+    "text": "<p>You surround yourself with a mantle of calm serenity. You take a –2 penalty on attack rolls, and opponents gain a +2 bonus on saving throws against spells you cast. Any creature affected by a rage effect (barbarian's rage, bloodrager&#8216;s bloodrage, blood rage monster ability, rage spell, skald's inspired rage raging song, and so on) that strikes you with a melee attack must attempt a Will saving throw, without the rage effect's bonus to Will; failure means the rage effect ends (as if it were dispelled or the creature voluntarily ended it, as appropriate).<\/p><p>If you become affected by a rage effect while this spell is active, this spell immediately ends. If your rage effect comes from a skald's raging song, then it ends only for you, and you cannot re-accept the effects of the song.<\/p>",
+    "name_zh": "宁静斗篷",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "无 和 意志，通过则无效（见后文）",
+    "spellResistance_zh": "否 和 可（见后文）",
+    "text_zh": "<p>你让一件能够让人心神平静斗篷覆盖身体。你的攻击检定受到-2减值，敌人在对抗你所施放的法术时，豁免获得+2加值。任何受到狂暴效果（rage effect）影响的生物在使用近战攻击命中你之后，都必须尝试一次意志豁免，这次意志豁免无法获得由狂暴效果提供的加值，狂暴效果包括但不限于野蛮人的狂暴（rage）、血脉狂怒者的血怒（bloodrage）、鲜血狂怒（blood rage）怪物能力、狂暴术（rage）、歌者的激发狂暴（inspired rage）战怒之歌（raging song）等等；豁免失败意味着狂暴效果的结束（就如同被解除或者生物自愿终止它一般，视终止效果的具体方式而定）。\n若你在法术生效时被狂暴效果所影响，那么该法术会立刻结束。若你的狂暴效果来自歌者的战怒之歌，那么就只有对于你产生的效果被终止，而且你不能重新接受战怒之歌的效果。<\/p>",
+    "source": "ACG"
+}

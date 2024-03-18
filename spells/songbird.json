@@ -1,0 +1,30 @@
+{
+    "key": "songbird",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/songbird/",
+    "name": "Songbird",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["good"],
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "mesmerist": 1,
+        "paladin": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 swift action",
+    "components": "S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round",
+    "text": "<p>You conjure uplifting music from the wilds of Elysium, Heaven, or Nirvana to bolster other musical activities.<\/p><p>If you cast songbird during the same round in which you attempt a Perform check, songbird acts as accompaniment and grants a +3 bonus on that Perform check.<\/p><p>If you cast songbird in the same round in which you activate a bardic performance, that round of bardic performance does not count against your total rounds of bardic performance available for the day.<\/p><p>If you cast songbird in the same round in which you cast a spell with the sonic descriptor, that spell's save DC increases by 1.<\/p>",
+    "name_zh": "鸟之歌",
+    "castingTime_zh": "1迅捷动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "1轮",
+    "text_zh": "<p>你召唤来自极乐原野（Elysium）、七重天堂（Heaven）或涅槃桃源（Nirvana）的空灵妙音，以支持其他的音乐活动。\n如果你在尝试执行一次表演检定的同一轮中使用了此法术，法术提供的音乐将作为伴奏，并给检定给予+3加值。\n如果你在激活一个吟游表演的同一轮中使用了此法术，那么这一轮的吟游表演不计入你当天可用的全部吟游表演次数。\n如果你在施展一个带有音波描述符的法术的同一轮中施放此法术，该法术的豁免DC获得+1。<\/p>",
+    "source": "PA"
+}

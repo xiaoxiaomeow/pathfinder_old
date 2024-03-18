@@ -1,0 +1,21 @@
+{
+    "key": "mnemonic enhancer",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mnemonic-enhancer/",
+    "name": "Mnemonic Enhancer",
+    "school": "transmutation",
+    "levels": {"wizard": 4},
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a piece of string, and ink consisting of squid secretion mixed with black dragon's blood), F (an ivory plaque worth 50 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>Casting this spell allows you to prepare additional spells or retain spells recently cast. Pick one of these two versions when the spell is cast.<\/p><p style=\"margin-left:40px\"><b>Prepare<\/b>: You prepare up to three additional levels of spells. A cantrip counts as 1/2 level for this purpose. You prepare and cast these spells normally.<\/p><p style=\"margin-left:40px\"><b>Retain<\/b>: You retain any spell of 3rd level or lower that you had cast up to 1 round before you started casting the <i>mnemonic enhancer<\/i>. This restores the previously cast spell to your mind.<\/p><p>In either event, the spell or spells prepared or retained fade after 24 hours (if not cast).<\/p>",
+    "name_zh": "强记术",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (一根细绳, 乌贼墨汁与黑龙血混合而成的墨水), 器材 (价值50gp的象牙薄片)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>施放该法术可以使你准备额外的法术或唤回刚施放过的法术。施法时从以下两种功效之中选取一种。<\/p><p>准备 (Prepare): 你可以准备环位总和不超过3的额外法术。戏法在以此方式计算时视为1/2个等级。你准备并如常施放这些法术。<\/p><p>唤回 (Retain): 你可以唤回任何在你开始施展强记术前一轮中所施放的法术，法术环位为3级或更低。该被唤回的法术会立即回到你的记忆中。<\/p><p>无论是上述哪种情况，被准备或者唤回的法术都会在24小时后失去 (若你不施放这些法术的话)。<\/p>",
+    "source": "CRB"
+}

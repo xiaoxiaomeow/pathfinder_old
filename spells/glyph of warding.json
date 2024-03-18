@@ -1,0 +1,32 @@
+{
+    "key": "glyph of warding",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glyph-of-warding/",
+    "name": "Glyph of Warding",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "witch": 3
+    },
+    "domains": {"rune": 3},
+    "subdomains": {"home": 3},
+    "mysteries": {"streets": 3},
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered diamond worth 200 gp)",
+    "range": "touch",
+    "targetOrArea": "<b>Target or Area<\/b>",
+    "duration": "permanent until discharged (d)",
+    "savingThrow": "see text",
+    "spellResistance": "no (object) and yes",
+    "text": "<p>This powerful inscription harms those who enter, pass, or open the warded area or object. A <i>glyph of warding<\/i> can guard a bridge or passage, ward a portal, trap a chest or box, and so on.<\/p><p>You set all of the conditions of the ward. Typically, any creature entering the warded area or opening the warded object without speaking a password (which you set when casting the spell) is subject to the magic it stores. Alternatively or in addition to a password trigger, glyphs can be set according to physical characteristics (such as height or weight) or creature type, subtype, or kind. Glyphs can also be set with respect to good, evil, law, or chaos, or to pass those of your religion. They cannot be set according to class, HD, or level. Glyphs respond to invisible creatures normally but are not triggered by those who travel past them ethereally. Multiple glyphs cannot be cast on the same area. However, if a cabinet has three different drawers, each can be separately warded.<\/p><p>When casting the spell, you weave a tracery of faintly glowing lines around the warding sigil. A glyph can be placed to conform to any shape up to the limitations of your total square footage. When the spell is completed, the glyph and tracery become nearly invisible.<\/p><p>Glyphs cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. <i>Mislead<\/i>, <i>polymorph<\/i>, and nondetection (and similar magical effects) can fool a glyph, though non-magical disguises and the like can't. Read magic allows you to identify a <i>glyph of warding<\/i> with a DC 13 Knowledge (arcana) check. Identifying the glyph does not discharge it and allows you to know the basic nature of the glyph (version, type of damage caused, what spell is stored).<\/p><p>Depending on the version selected, a glyph either blasts the intruder or activates a spell.<\/p><ul><li><i>Blast Glyph<\/i>: A <i>blast glyph<\/i> deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster's choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell resistance applies against this effect.<\/li><li><i>Spell Glyph<\/i>: You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the glyph. If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect, the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Saving throws and spell resistance operate as normal, except that the DC is based on the level of the spell stored in the glyph.<\/li><\/ul>",
+    "name_zh": "守卫刻文",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (价值200gp的钻石尘)",
+    "range_zh": "接触",
+    "targetOrArea_zh": "接触到的物体 或 至多每等级5平方尺的区域",
+    "duration_zh": "永久 直至能量发散 (可解消)",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "否 (物体) 和 可; 见后文",
+    "text_zh": "<p>这种强力铭文能够伤害到那些进入、穿过、打开被守护的区域或物品的人。守卫刻文能够守护一座桥或通道、守护大门、给箱子或盒子设置陷阱等等。<\/p><p>你可以设置守护的条件。通常来说，没有讲出口令 (由你在施法时设定) 就进入被守护区域、或打开被守护物品的任何生物都会成为储存魔法的目标。作为口令的替代或者附加条件，刻文可以依照物理特征 (例如高度或重量) 或者生物类型、亚种、种类来设置。刻文也可以依照善良、邪恶、秩序或混乱进行设置，还可以根据你的信仰来设置。但是不能根据职业、HD或等级来设置。结界能对隐形生物作出正常的反应，但是以灵化状态穿越则不会触发它。相同区域不能设置多个刻文。但是如果一个柜子有三个抽屉，那么可以单独守护每一个抽屉。<\/p><p>在施放该法术时，你在守护符印周围绘制出散发着微光的线状纹饰。只要符合你可法术区域的尺寸限制，那么刻文能以任何形状进行放置。当法术完成的时候，刻文和纹饰将变得几乎不可见。<\/p><p>刻文不能被物理或魔法探查所影响或回避，但是它们可以被解除 (dispelled)。‘<a href=\"spell.html?spell=mislead\">假象术 (mislead)<\/a>’、‘<a href=\"spell.html?spell=polymorph\">变形术 (polymorph)<\/a>’、‘<a href=\"spell.html?spell=nondetection\">回避侦测 (nondetection)<\/a>’和类似的魔法效果都可以愚弄刻文，但是非魔法的易容和类似方式无法做到这一点。‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’能让你通过DC为13的知识 (奥秘) 检定鉴定守卫刻文。鉴定刻文不会触发它，而是能让你知道刻文的本质 (功效、造成伤害的类型、储有什么法术)。<\/p><p>注意：守卫刻文这类魔法陷阱很难被侦测和解除。虽然任何角色都能使用察觉技能来找到守卫刻文，但是只有具有【寻找陷阱 (trapfinding)】职业能力的角色才能使用解除装置技能解除它。<\/p><p>根据选择不同功效的守卫刻文，结界可以爆炸来伤害入侵者，也可以启动一个法术。<\/p><p>爆裂刻文 (Blast Glyph): 爆裂刻文能对入侵者和距他/她周围5尺范围内的一切造成伤害，伤害总量为每两个CL 1d8点 (最多5d8)。该伤害可以是强酸、寒冷、火焰、闪电或音波 (由施法者在施法的时候选定)。每个被影响的生物可以尝试进行一次反射豁免来减半伤害。法术抗力对这种效果有效。<\/p><p>法术刻文 (Spell Glyph): 你可以储藏你所知道的任何3环或更低环位的有害法术。该法术的任何和等级相关的特性均基于你在施放结界时的CL。如果该法术有目标，那么目标就是入侵者。如果该法术为区域或不定形的效果，那么该区域或效果以入侵者为中心。如果该法术召唤生物，那么召唤生物将会在最靠近入侵者的地方出现，并攻击入侵者。豁免和法术抗力如常判定，不过其DC取决于储藏在刻文中的法术环位。<\/p>",
+    "source": "CRB"
+}

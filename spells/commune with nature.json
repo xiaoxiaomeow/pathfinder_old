@@ -1,0 +1,25 @@
+{
+    "key": "commune with nature",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/commune-with-nature/",
+    "name": "Commune with Nature",
+    "school": "divination",
+    "levels":     {
+        "druid": 5,
+        "ranger": 4,
+        "shaman": 5
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>You become one with nature, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: the ground or terrain, plants, minerals, bodies of water, people, general animal population, presence of woodland creatures, presence of powerful unnatural creatures, or even the general state of the natural setting.<\/p><p>In outdoor settings, the spell operates in a radius of 1 mile per caster level. In natural underground settings &#8212; caves, caverns, and the like &#8212; the spell is less powerful, and its radius is limited to 100 feet per caster level. The spell does not function where nature has been replaced by construction or settlement, such as in dungeons and towns.<\/p>",
+    "name_zh": "问道自然",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>你将成为自然界的一部分，来获得周围环境的信息。你将立即获得下列信息中的其中三种：地貌、植物、矿藏、水体、居民、一般动物分布情况、林地生物出没的情况、强大的非自然生物出没的情况，或自然环境的概况。<\/p><p>在户外场所，该法术会对半径为每CL 1英里的范围产生作用。在天然地下场所中——洞穴、山洞及类似的地方——法术会被削弱，产生作用范围半径缩小为每CL 100尺。该法术对被改造为建筑物或居住地的地点不起作用，比如地下城和城镇。<\/p>",
+    "source": "CRB"
+}

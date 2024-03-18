@@ -1,0 +1,36 @@
+{
+    "key": "prayer",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prayer/",
+    "name": "Prayer",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "paladin": 3
+    },
+    "domains": {"community": 3},
+    "subdomains":     {
+        "archon": 3,
+        "leadership": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "40 ft.",
+    "area": "all allies and foes within a 40-ft.-radius burst centered on you",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a -1 penalty on such rolls.<\/p>",
+    "name_zh": "祈祷术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "40尺",
+    "area_zh": "以你为中心，40尺半径爆发范围内的所有盟友与敌人",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将神之恩宠带给你自己和你的盟友，同时将厌恶带给你的敌人。你和你的每个盟友在攻击检定、武器伤害检定、豁免检定和技能检定上都获得+1幸运加值，同时你的每个敌人都会在这些检定上获得-1减值。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "gentle repose",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gentle-repose/",
+    "name": "Gentle Repose",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 3,
+        "witch": 2
+    },
+    "domains": {"repose": 2},
+    "mysteries": {"time": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (salt and a copper piece for each of the corpse's eyes)",
+    "range": "touch",
+    "target": "corpse touched",
+    "duration": "1 day/level",
+    "savingThrow": "Spell Resistance negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You preserve the remains of a dead creature so that they do not decay. Doing so effectively extends the time limit on raising that creature from the dead (see <i>raise dead<\/i>). Days spent under the influence of this spell don't count against the time limit. Additionally, this spell makes transporting a slain (and thus decaying) comrade less unpleasant.<\/p><p>The spell also works on severed body parts and the like.<\/p>",
+    "name_zh": "遗体防腐",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (盐以及每个尸体的眼睛一个铜片)",
+    "range_zh": "接触",
+    "target_zh": "接触到的尸体",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你对一个死去生物的遗骸进行了防腐处理，这样它们就不会继续腐坏了。这样处理可以有效的延长复活死者的时间限制，详见‘<a href=\"spell.html?spell=raise dead\">死者复活 (raise dead)<\/a>’。在这个法术影响下经过的日期不计入那个时间限制。另外，该法术能让运输被杀死 (并因此腐烂) 的战友时较为舒坦些。<\/p><p>该法术也能用在被切断的身体部分或其他类似东西上。<\/p>",
+    "source": "CRB"
+}

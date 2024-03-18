@@ -1,0 +1,27 @@
+{
+    "key": "daze, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/daze/",
+    "name": "Daze, Mass",
+    "base": "daze",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "inquisitor": 4,
+        "psychic": 3,
+        "sorcerer/wizard": 4,
+        "summoner/unchained summoner": 4,
+        "witch": 4
+    },
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "text": "<p>This spell functions as <i>daze<\/i>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体晕眩术",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个或多个类人生物，互相之间不超过30尺",
+    "text_zh": "<p>本法术工作方式如同晕眩术 (Daze)，除了上述部分。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,36 @@
+{
+    "key": "blistering invective",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blistering/",
+    "name": "Blistering Invective",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "fire",
+        "language-dependent"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "inquisitor": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "area": "30-ft. radius",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex partial, see text",
+    "spellResistance": "special, see below",
+    "text": "<p>You unleash an insulting tirade so vicious and spiteful that enemies who hear it are physically scorched by your fury. When you cast this spell, make an Intimidate check to demoralize each enemy within 30 feet of you. Enemies that are demoralized this way take 1d10 points of fire damage and must succeed at a Reflex save or catch fire. Spell Resistance can negate the fire damage caused by this spell, but does not protect the creature from the demoralizing effect.<\/p>",
+    "mythicText": "<p style=\"font-size:12px\">Enemies that are demoralized by your Intimidate check take 2d8 points of fire damage and catch fire (no saving throw). <br>Any Reflex save attempted to extinguish the flames automatically fails as long as the creature remains demoralized by your Intimidate check. <br><p style=\"margin-left:20px\"><b>Augmented (5th)<\/b>: If you expend two uses of mythic power, the spell doesn't have the language-dependent descriptor and you don't take A penalty on your Intimidate check to demoralize creatures that are larger than you. ",
+    "name_zh": "酷烈苛责",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "area_zh": "30尺半径范围",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射，通过则部分生效 (见下文)",
+    "spellResistance_zh": "特殊，见下文",
+    "text_zh": "<p>你狠毒的发出一长串侮辱性的咒骂，而敌方的身体甚至会被你的怒火所烧焦。<\/p><p>当你施放该法术，对半径30尺内的敌方做一个威吓检定。<\/p><p>如果敌方被成功威吓而战栗，则会受到1d10点火焰伤害，可以通过一个成功的反射检定减半。<\/p><p>法术抗力可以阻挡法术造成的火焰伤害，但是对威吓造成的战栗效果无效。<\/p>",
+    "source": "UC"
+}

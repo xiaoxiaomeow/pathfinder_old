@@ -1,0 +1,21 @@
+{
+    "key": "hold person, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-person/",
+    "name": "Hold Person, Mass",
+    "base": "hold person",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "text": "<p style=\"margin-left: 40px\"><b>Targets<\/b> one or more humanoid creatures, no two of which can be more than 30 ft. apart<\/p><p style=\"margin-left: 40px\">This spell functions like <i>hold person<\/i>, except as noted above.<\/p>",
+    "name_zh": "群体人类定身术",
+    "target_zh": "一个或更多类人生物，任意两者之间的距离不超过30尺",
+    "text_zh": "<p>除了上述区别之外，该法术的功能如同‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’一般。<\/p>",
+    "source": "CRB"
+}

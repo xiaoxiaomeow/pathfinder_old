@@ -1,0 +1,36 @@
+{
+    "key": "destruction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/destruction/",
+    "name": "Destruction",
+    "school": "necromancy",
+    "descriptors": ["death"],
+    "levels":     {
+        "cleric/oracle": 7,
+        "shaman": 8,
+        "witch": 8
+    },
+    "domains":     {
+        "death": 7,
+        "repose": 7
+    },
+    "subdomains": {"entropy": 7},
+    "mysteries": {"reaper": 7},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (holy or unholy symbol costing 500 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>This spell instantly delivers 10 points of damage per caster level. If the spell slays the target, it consumes the remains utterly in holy (or unholy) fire (but not its equipment or possessions). If the target's Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore life to a character who has failed to save against this spell (and was slain) is to use true resurrection, a carefully worded wish spell followed by resurrection, or miracle.<\/p>",
+    "name_zh": "灰飞烟灭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (价值500gp的圣徽或邪徽)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会立即造成每CL 10点伤害。若法术杀死目标，则它会在神圣 (或不洁) 的火焰中燃烧殆尽 (不包括它的装备和物品)。若目标成功通过强韧豁免，则会受到10d6点伤害作为替代。对抗该法术豁免失败 (并且因此死亡) 的生物只能通过‘<a href=\"spell.html?spell=true resurrection\">完全复生术 (true resurrection)<\/a>’、措辞谨慎的‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’外加‘<a href=\"spell.html?spell=resurrection\">复生术 (resurrection)<\/a>’或‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’复活。<\/p>",
+    "source": "CRB"
+}

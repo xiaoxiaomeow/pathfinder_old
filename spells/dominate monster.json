@@ -1,0 +1,20 @@
+{
+    "key": "dominate monster",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dominate-monster/",
+    "name": "Dominate Monster",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "sorcerer/wizard": 9,
+        "summoner": 6,
+        "witch": 9
+    },
+    "domains": {"charm": 9},
+    "target": "one creature",
+    "text": "<p>This spell functions like <i>dominate person<\/i>, except that the spell is not restricted by creature type.<\/p>",
+    "name_zh": "支配怪物",
+    "target_zh": "一个生物",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=dominate person\">支配人类 (dominate person)<\/a>’一般，不过该法术没有生物类型的限制。<\/p>",
+    "source": "CRB"
+}

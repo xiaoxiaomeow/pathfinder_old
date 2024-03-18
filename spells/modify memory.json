@@ -1,0 +1,31 @@
+{
+    "key": "modify memory",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/modify-memory/",
+    "name": "Modify Memory",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels": {"bard": 4},
+    "subdomains":     {
+        "loss": 6,
+        "memory": 6
+    },
+    "castingTime": "1 round; see text",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You reach into the subject's mind and modify as many as 5 minutes of its memories in one of the following ways.<\/p><ul>  <li>Eliminate all memory of an event the subject actually experienced. This spell cannot negate charm, geas/quest, suggestion, or similar spells.<\/li>  <li>Allow the subject to recall with perfect clarity an event it actually experienced.<\/li>  <li>Change the details of an event the subject actually experienced.<\/li>  <li>Implant a memory of an event the subject never experienced.<\/li> <\/ul><p>Casting the spell takes 1 round. If the subject fails to save, you proceed with the spell by spending as much as 5 minutes (a period of time equal to the amount of memory you want to modify) visualizing the memory you wish to modify in the subject. If your concentration is disturbed before the visualization is complete, or if the subject is ever beyond the spell's range during this time, the spell is lost.<\/p><p>A modified memory does not necessarily affect the subject's actions, particularly if it contradicts the creature's natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream, too much wine, or another similar excuse.<\/p>",
+    "name_zh": "篡改记忆",
+    "castingTime_zh": "1轮; 见后文",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你可以潜入受术者的心灵，修改一段总长度不超过5分钟的记忆，可选择的方式包括：\nl  彻底抹除受术者曾经经历过的某件事的所有记忆。此效果不能解除魅惑法术 (charm)，‘<a href=\"spell.html?spell=geas/quest\">指使术 (geas/quest)<\/a>’，‘<a href=\"spell.html?spell=suggestion\">暗示术 (suggestion)<\/a>’或类似的法术。\nl  使受术者清晰地回忆起某件曾经经历过的事情的完整细节。\nl  改变受术者对某件曾经经历过的事情细节的记忆。\nl  给受术者植入一段从未经历过的事情的记忆。<\/p><p>施放该法术需要1轮的时间。如果受术者豁免失败，你可以接下来花至多5分钟时间 (花的时间与你要修改的记忆时间长度相同) 来对受术者具象化那些你希望修改的记忆。如果在记忆具象化完成之前你的专注就被打断，或者受术者在这段时间内离开法术范围，则法术丢失。<\/p><p>修改记忆不一定会影响受术者的行为，尤其是如果修改过的记忆内容跟生物的天性相违背的时候。一段不合逻辑的记忆往往会被受术者认为只是做了恶梦、喝醉酒或者其他类似的理由而忽视。<\/p>",
+    "source": "CRB"
+}

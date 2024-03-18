@@ -1,0 +1,36 @@
+{
+    "key": "soothing mud",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soothing-mud/",
+    "name": "Soothing Mud",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors":     [
+        "earth",
+        "water"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 3,
+        "ranger": 3,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "dust, earth, sand, or water in one 5-ft. square/level",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You create an area of healing mud. Water, earth, sand, and dust thicken into a wet mud. The mud functions as difficult terrain and does not sink if created in water unless weighed down by more than 100 pounds per caster level you have. Each round a creature begins its turn in or on the mud, the mud restores 1 hit point to it; this healing is unaffected by effects that increase a creature's healing. A creature that rests partially or completely submerged in this mud for 1 full minute is also healed of 1d4 points of ability damage to an ability score of its choice. A creature can be healed of ability damage this way only once per day.<\/p>",
+    "name_zh": "抚慰之泥",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "在5平方英尺/等级内的任何灰尘，土，沙或水",
+    "duration_zh": "1轮/等级（可消解）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造出一片饱含治疗力量的泥巴区域。水、土壤、沙和尘埃都会变稠，成为湿泥。泥巴区域被视为困难地形，如果在水面上被创造出来，它不会下沉，除非负重超过了100磅每施法者等级。对于在泥巴上面开始其回合的生物，泥巴每轮会帮他恢复1点生命值；这种治疗不会受到提升生物治疗的效果的影响。一个部分或完全浸泡在泥中整整1分钟的生物，还会在其选择的属性上获得1d4点的属性伤害治疗。一个生物每天只可以通过这种方式被治愈一次。<\/p>",
+    "source": "UW"
+}

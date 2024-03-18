@@ -1,0 +1,32 @@
+{
+    "key": "acid arrow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/acid-arrow/",
+    "name": "Acid Arrow",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["acid"],
+    "levels":     {
+        "bloodrager": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "elementalSchools": {"earth": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (rhubarb leaf and an adder's stomach), F (a dart)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "effect": "one arrow of acid",
+    "duration": "1 round + 1 round per three levels",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>An arrow of acid springs from your hand and speeds to its target. You must succeed on a ranged touch attack to hit your target. The arrow deals 2d4 points of acid damage with no splash damage. For every three caster levels you possess, the acid, unless neutralized, lasts for another round (to a maximum of 6 additional rounds at 18th level), dealing another 2d4 points of damage in each round.<\/p>",
+    "name_zh": "强酸箭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (大黄叶与蝰蛇胃囊), 器材 (一个飞镖)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "effect_zh": "一支强酸箭",
+    "duration_zh": "1轮+每3个等级1轮",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>从你手中飞出一支魔法强酸箭迅速射向目标。你必须做一次成功的远程接触攻击才能命中你的目标。这支箭造成2d4的强酸伤害，但并没有溅射伤害。除非被某种方法中和掉，否则每3个CL都会额外持续1轮 (至多为18级时的额外6轮)，每轮都会额外造成额外2d4点伤害。<\/p>",
+    "source": "CRB"
+}

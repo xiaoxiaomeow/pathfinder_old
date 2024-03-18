@@ -1,0 +1,31 @@
+{
+    "key": "heightened awareness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heightened-awareness/",
+    "name": "Heightened Awareness",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "druid": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "ranger": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M/DF (a coffee bean)",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level (d)",
+    "text": "<p>You enter a heightened state of awareness that allows you to notice more about your surroundings and recall information effortlessly. You gain a +2 competence bonus on Perception checks and on all Knowledge checks that you are trained in.<\/p><p>If this spell is active when you have to make an initiative check, you can instantly dismiss this spell and gain a +4 bonus on that check.<\/p>",
+    "name_zh": "强化认知",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料/法器（咖啡豆）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级（可解消）",
+    "text_zh": "<p>你进入了一种强化认知力的状态，这使得你能够从周围环境中觉察到更多事情，而且能够毫不费力的回忆知识。你的察觉检定以及所有已受训的知识检定获得+2表现加值。\n当你在法术生效时进行一次先攻检定的话，能够立即解消该法术，来让该次检定获得+4加值。<\/p>",
+    "source": "ACG"
+}

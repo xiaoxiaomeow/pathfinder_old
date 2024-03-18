@@ -1,0 +1,33 @@
+{
+    "key": "shadow claws",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-claws/",
+    "name": "Shadow Claws",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "antipaladin": 1,
+        "arcanist": 2,
+        "bard": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "skald": 2,
+        "sorcerer/wizard": 2,
+        "spiritualist": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You summon a pair of claws over your hands formed from semireal material. This grants you two primary claw attacks dealing 1d4 points of damage if you are Medium (1d3 if Small) plus 1 point of Strength damage. A successful Fortitude saving throw negates the Strength damage (DC = this spell's DC).<\/p>",
+    "name_zh": "阴影之爪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你召唤了一对由半真实材料构成的爪子在你的双手上。这使你获得了两个主要天武的爪抓攻击，如果你是中体型，那爪抓造成1d4点(如果是小体型则是1d3)的伤害并附加1点力量伤害。成功通过强韧豁免检定可以使力量伤害无效(DC=此法术的DC)。<\/p>",
+    "source": "VC"
+}

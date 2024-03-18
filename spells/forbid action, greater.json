@@ -1,0 +1,26 @@
+{
+    "key": "forbid action, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forbid-action/",
+    "name": "Forbid Action, Greater",
+    "base": "forbid action",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 5,
+        "inquisitor": 5,
+        "psychic": 5
+    },
+    "duration": "1 round/level",
+    "text": "<p>This spell functions as <em>forbid action<\/em>, except up to one creature per level may be affected. Each creature must receive the same forbidden action.<\/p><\/div>",
+    "name_zh": "高等行动禁制",
+    "target_zh": "一个生物/等级，互相之间不能超过30尺",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>持续时间    1轮/等级<\/p><p>这个法术工作方式如同行动禁制 (Forbid Action)，不过目标数量增加到每等级一个。每个目标都必须被禁止同样的动作。<\/p>",
+    "source": "UM"
+}

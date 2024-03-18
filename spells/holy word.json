@@ -1,0 +1,34 @@
+{
+    "key": "holy word",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-word/",
+    "name": "Holy Word",
+    "school": "evocation",
+    "descriptors":     [
+        "good",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 7,
+        "inquisitor": 6
+    },
+    "domains": {"good": 7},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "40 ft.",
+    "area": "nongood creatures in a 40-ft.-radius spread centered on you",
+    "duration": "instantaneous",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"source text\">HD<\/th>    <th class=\"text\">Effect<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Equal to caster level<\/td>    <td class=\"text\">Deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -1<\/td>    <td class=\"text\">Blinded, Deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -5<\/td>    <td class=\"text\">Paralyzed, Blinded, Deafened<\/td>   <\/tr>   <tr>    <td class=\"text\">Up to caster level -10<\/td>    <td class=\"text\">Killed, Paralyzed, Blinded, Deafened<\/td>   <\/tr>  <\/tbody> <\/table><p>Any non-good creature within the area of a <i>holy word<\/i> spell suffers the following ill effects.<\/p><p>The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.<\/p>",
+    "name_zh": "圣言",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "40尺",
+    "area_zh": "以你为中心, 半径40尺扩散区域内的非善良生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>在圣言法术区域内的任何非善良生物会承受后述不良效果:\nHD\n 效果\n等于CL\n 耳聋\n至多为CL-1\n 目盲, 耳聋\n至多为CL-5\n 麻痹, 目盲, 耳聋\n至多为CL-10\n 死亡, 麻痹, 目盲, 耳聋<\/p><p>这些效果会累加并且同时发生。成功的意志豁免会减弱或消除这些效果。受到复数效果影响的生物只能进行一次豁免，并且将结果应用至所有效果上。<\/p><p>耳聋 (Deafened): 生物会耳聋1d4轮。豁免通过则无效。<\/p><p>目盲 (Blinded): 生物会目盲2d4轮。豁免通过则将目盲效果降至1d4轮。<\/p><p>麻痹 (Paralyzed): 生物被麻痹并无助，持续1d10分钟。豁免通过则会将麻痹效果降低至1轮。<\/p><p>死亡 (Killed): 活物死掉。不死生物被摧毁。豁免通过则无效。若豁免成功，生物会受到 {3d6+每CL 1点伤害 (最高+25)} 作为替代。<\/p><p>另外，如果你在你的原属位面施展此法术，区域内的所有非善良跨位面生物 (nongood extraplanar creatures) 都会被立刻驱逐回它们的原属位面。被这样驱逐的生物24小时内无法返回。无论生物是否听见圣言，效果都会产生。圣言的驱逐效果允许进行意志豁免 (有-4减值) 来避免被驱逐, 通过则不会被驱逐。<\/p><p>HD超过你CL的生物不受圣言影响。<\/p>",
+    "source": "CRB"
+}

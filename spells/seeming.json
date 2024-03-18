@@ -1,0 +1,27 @@
+{
+    "key": "seeming",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/seeming/",
+    "name": "Seeming",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "12 hours (d)",
+    "savingThrow": "Will negates or Will disbelief (if interacted with)",
+    "text": "<p>This spell functions like disguise self, except that you can change the appearance of other people as well. Affected creatures resume their normal appearances if slain. Unwilling targets can negate the spell's effect on them by making Will saves or with Spell Resistance.<\/p>",
+    "name_zh": "伪装术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每两个等级一个生物, 任意两者之间不能超过30尺距离",
+    "duration_zh": "12小时 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 或 意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "可 或 否; 见后文",
+    "text_zh": "<p>该法术功能与‘<a href=\"spell.html?spell=disguise self\">易容术 (disguise self)<\/a>’类似，不过你同样可以改变其它人的外观。被影响的生物被杀后将恢复正常外观。非自愿的目标可以通过意志豁免或法术抗力来抵消法术的效果。<\/p>",
+    "source": "CRB"
+}

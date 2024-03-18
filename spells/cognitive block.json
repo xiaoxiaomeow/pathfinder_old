@@ -1,0 +1,32 @@
+{
+    "key": "cognitive block",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cognitive-block/",
+    "name": "Cognitive Block",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 2,
+        "mesmerist": 2,
+        "psychic": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You create a mental block in the target's mind, impeding the flow of his mental spellcasting process and forcing him to incorporate a thought component into any spell or spell-like ability he uses. This is in addition to any other components the spell already requires, and doesn't replace the verbal component. Spell-like abilities require this thought component, even though they normally don't need spell components.<\/p><p>As usual with thought components, this addition increases the DC of any concentration checks the target attempts by 10 unless the target takes a move action to center his mind and satisfy the spell's thought component.<\/p>",
+    "name_zh": "认知妨碍",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你在目标的意识中制造出一道精神屏障，妨碍他在施法过程中的意识流，迫使他使用的任何法术或类法术能力都包含有思维成分（Thought Components）。这个成分是在法术本身所需要的所有成分外额外添加的，而且不能用语言成分（verbal component）替代。类法术能力也需要这个思维成分，即便类法术能力通常来说并不需要法术成分也是如此。\n就如同正常的思维成分一般，额外添加的这个成分会让目标尝试的任何专注检定DC上升10点，除非目标以一个移动动作集中精神并满足法术的思维成分。<\/p>",
+    "source": "OA"
+}

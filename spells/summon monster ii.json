@@ -1,0 +1,31 @@
+{
+    "key": "summon monster ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/",
+    "name": "Summon Monster II",
+    "base": "summon monster i",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 2,
+        "cleric/oracle": 2,
+        "medium": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2,
+        "spiritualist": 2,
+        "witch": 2
+    },
+    "subdomains": {"dark tapestry": 2},
+    "elementalSchools":     {
+        "air": 2,
+        "earth": 2,
+        "fire": 2,
+        "water": 2
+    },
+    "text": "<\/div><p>This spell functions like <i>summon monster I<\/i>, except that you can summon one creature from the 2nd-level list or 1d3 creatures of the same kind from the 1st-level list.<\/p>",
+    "name_zh": "召唤怪物 II",
+    "text_zh": "<p>该法术的功能如同‘召唤怪物I’，不过你能够召唤一个来自2环列表的生物或者1d3个来自1环列表的同类生物。<\/p>",
+    "source": "CRB"
+}

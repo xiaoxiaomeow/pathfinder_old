@@ -1,0 +1,21 @@
+{
+    "key": "saddle surge",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/saddle-surge/",
+    "name": "Saddle Surge",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels": {"paladin": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "1 round/level (d); see text",
+    "text": "<p>You and your mount form a perfect synergy that endows both of you with advantages based upon how far you travel each round. For every 5 feet your mount moves in a given round, you gain a +1 competence bonus on Ride checks and both you and your mount gain a +1 morale bonus on damage rolls made with weapons or natural attacks for 1 round. For instance, if your mount traveled 40 feet in a round, you would gain a +8 bonus on Ride checks and you and your mount would both gain a +8 bonus on damage rolls for 1 round, to a maximum bonus equal to your caster level. You must be mounted to enjoy the benefits of this spell. If you dismount, get knocked off, or take any other action that separates you from your mount, the spell immediately ends.<\/p>",
+    "name_zh": "彪勇骑冲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "你与你的坐骑",
+    "duration_zh": "1轮/等级 (可解消)；见下文",
+    "text_zh": "<p>你与你的坐骑间形成了完美的协同作用，依照你每轮移动的距离使你们同时获得增强。你的坐骑在当前回合每移动5尺，你的骑术检定获得+1表现加值，并且你和你的坐骑在使用武器或天生武器进行的伤害检定获得+1士气加值，持续1轮。比如：如果你的坐骑在1轮内移动40尺，你的骑术检定会获得+8加值，你与你的坐骑的伤害检定同时获得+8加值，持续1轮，最高加值等同于你的施法者等级。你必须在骑乘的状态下才能享受该法术的好处。如果你下马，被击落或者进行其他会使你与坐骑分开的动作的话，该法术立刻结束。<\/p>",
+    "source": "APG"
+}

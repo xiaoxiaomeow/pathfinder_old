@@ -1,0 +1,35 @@
+{
+    "key": "malicious spite",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/malicious-spite/",
+    "name": "Malicious Spite",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (powdered turquoise worth 150 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 day/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You invoke feelings of a driving malicious intent. The target's malice is directed at a second individual as designated by you at the time of casting. Thereafter, the target attempts to slander, abuse, and even plot murder against the target of its spite. This loathing is not overt, and the target's actions against the object of its spite remain subtle and indirect. The enchanted target remains within its financial and ethical means when acting against the second individual, though the malice toward this other person pushes the target to the limit of what it would do to a hated individual.<\/p><p>Each day, the target takes 2 points of Wisdom damage as the all-encompassing spite dominates its thoughts. The target can only alleviate the ability damage by acting upon the emotion and performing a spiteful act. Examples of spiteful acts are spiking the target's drink to make it an easier target for thugs, damaging the target's property, starting foul rumors about the target, framing the target for a crime, paying lepers or beggars to accost the target, extorting or blackmailing the target, or arranging for others to physically harm the target.<\/p><p>When the spell ends, the target remembers the spiteful behavior, but not the motivation for it.<\/p>",
+    "name_zh": "恶意迫害",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值150GP的青绿石)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标被恶意所驱使。<\/p><p>施法时，你为目标的恶意选择一个对像 (以下简称对像)。此后，目标将会诽谤、中伤、背叛，甚至试图谋杀对象。<\/p><p>这种恶意并不是明确的，但是会微妙和间接的影响目标的所有思考和行为。<\/p><p>虽然受术目标针对对像时仍然会残留最后的和仅有的一点伦理观并受其财力和道德所限，但是其行为都等于一个人憎恶另一个人到了极限的样子。<\/p><p>每天，目标都会因为被恶意充斥整个头脑而受到2点感知伤害。这个伤害只能在对目标进行恶意迫害行为后才能得到缓解。<\/p><p>恶意行为包括但不限于向对象的饮料中加入烈性酒让其出丑、破坏对象的所有物、散播对象的谣言、陷害对像犯罪、收买麻风病人和乞丐来纠缠对像、敲诈和勒索对像或直接谋划对对像进行身体伤害。<\/p><p>当法术结束后，目标会记得自己做了什么，但是会忘记动机。<\/p>",
+    "source": "UM"
+}

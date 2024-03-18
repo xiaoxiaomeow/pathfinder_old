@@ -1,0 +1,21 @@
+{
+    "key": "elude time",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elude-time/",
+    "name": "Elude Time",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels": {"alchemist": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 500 gp)",
+    "range": "personal",
+    "duration": "up to 1 min./level; see text",
+    "text": "<p>You place yourself in a state of suspended animation, similar to <i>temporal stasis<\/i>. At the time of casting, you choose when the stasis will expire, up to the maximum duration of the spell.<\/p><p>Until the duration ends, time ceases to flow for you, and all bodily functions cease. No force or effect can harm you until the spell expires or is removed, such as by a successful <i>dispel magic<\/i> spell.<\/p>",
+    "name_zh": "假死",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值500gp的钻石、绿宝石、红宝石和蓝宝石的混合宝石粉)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级；见下文",
+    "text_zh": "<p>你将自己置于类似于永恒静滞 (Temporal Stasis) 法术的假死状态。在施放法术时，你必须决定假死持续多久，最高为法术的持续时间。直到持续时间结束为止，对你而言时间停止了流动并且所有身体机能停止。在法术结束或被移除 (比如成功的解除魔法法术) 之前没有任何力量或效果能够伤害你。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "synapse overload",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/synapse-overload/",
+    "name": "Synapse Overload",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "mesmerist": 4,
+        "psychic": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You cause the target's mind to unleash a vast overflowing torrent of information throughout the target's body, causing the target's synapses to violently trigger. The target takes 1d6 points of electrical damage per caster level (maximum 15d6) and is staggered for 1 minute. A successful Fortitude saving throw doesn't reduce the damage, but it negates the staggered effect.<\/p>",
+    "name_zh": "神经过载",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则部分生效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你让目标的精神在自己的体内释放出强烈的信息洪流，由此而激烈地触动目标的神经突触。目标受到每施法者等级1d6点闪电伤害（最高15d6点），而且还会恍惚（staggered）1分钟。成功通过强韧豁免不会降低伤害，但是可以免受恍惚效果。<\/p>",
+    "source": "OA"
+}

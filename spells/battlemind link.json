@@ -1,0 +1,30 @@
+{
+    "key": "battlemind link",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/battlemind-link/",
+    "name": "Battlemind Link",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "divination",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "inquisitor": 4,
+        "sorcerer/wizard": 6
+    },
+    "elementalSchools": {"wood": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal and close (25 ft. + 5 ft./2 levels)",
+    "target": "you and 1 ally",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "text": "<p>You fuse your thoughts with an ally's, allowing the two of you to fight in tandem, perfectly coordinated. You and the ally each roll initiative in combat and use the higher die result before adding modifiers. This has three effects.<\/p>",
+    "mythicText": "When you cast this spell, if your linked ally uses a mythic path ability against a creature, you can use the same path ability against that creature as if you had it yourself, and your linked ally can likewise use any path abilities you use against a creature (even if that ally isn't mythic). For example, if you're a champion attacking a frost giant using the precision path ability, your linked ally can use your precision ability when she attacks that frost giant. If a path ability requires expending uses of mythic power or any other cost, your linked ally must expend that cost for you to use the ability. ",
+    "name_zh": "心有灵犀",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "自己和1名盟友",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你和你的盟友的思考融为一体，让你们可以完美无瑕的进行联合行动。你和她可以在先攻检定时使用彼此两个投骰结果中较高的一个。<\/p><p>同时，该法术还有以下三项效果：\n－近战：如果你们同时攻击一个生物，你们可以使用你们两个投骰中较高的一个结果 (然后加上加值)。\n－远程：如果你们同时射击一个生物，你们可以使用你们两个投骰中较高的一个结果 (然后加上加值)。\n－施法：如果你们同时对一个生物或者同一片区域施法，受影响的生物的豁免检定将会有-2罚值。<\/p><p>如果你们不能看到彼此则失去这些优势，如果你们两个其中一个失去意识或陷入无助也是一样。<\/p>",
+    "source": "UM"
+}

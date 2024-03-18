@@ -1,0 +1,19 @@
+{
+    "key": "ray of sickening",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-sickening/",
+    "name": "Ray of Sickening",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "bloodrager": 1,
+        "cleric/oracle": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1,
+        "summoner/unchained summoner": 1,
+        "witch": 1
+    },
+    "text": "<p>This spell functions as ray of exhaustion, except the target is sickened if it fails its save and unaffected if it makes its save.<\/p>",
+    "name_zh": "恶心射线",
+    "text_zh": "<p>这个法术类似力竭射线，但是目标豁免失败的话将会恶心，一直到它豁免成功为止。<\/p>",
+    "source": "UM"
+}

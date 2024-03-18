@@ -1,0 +1,31 @@
+{
+    "key": "alpha instinct",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alpha-instinct/",
+    "name": "Alpha Instinct",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 3,
+        "druid": 2,
+        "medium": 2,
+        "mesmerist": 3,
+        "ranger": 2,
+        "shaman": 2
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a bit of musk from an alpha wolf or another socially dominant animal)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level (d)",
+    "text": "<p>Animals perceive you as a social superior. the starting attitude of animals you interact with improves by one step, and you gain a +2 morale bonus on Handle Animal checks. Helpful animals provide simple assistance (such as using the aid another action on skill checks they understand) as long as the spell lasts, but they flee from attacks and do not support you in combat. At one point during the spell's duration, you can issue a nonverbal command to helpful animals within 60 feet to forage for you; the animal or animals immediately head out into the wilderness to do just that. After 1 hour, the animals return to the location where you issued the command to make you an offering of edible food sufficient for one meal for you and a number of others equal to your caster level.<\/p>",
+    "name_zh": "原初本能",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料（一些来自一只狼群首领或其他占据社会领导地位的动物的麝香）",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "1小时/等级（可解消）",
+    "text_zh": "<p>动物会认为你是一个社交优越者。当你与动物互动时，动物对你的初始态度会提高一级，你在驯养动物检定上得到+2的士气加值。可以提供帮助的动物会提供一些简单的帮助（比如在它们能理解的技能检定上使用援助他人动作），只要法术还在持续，但他们会逃避攻击，不会在战斗中支援你。在法术的持续时间里的任意时刻，你可以对60英尺范围内对帮助你的动物发出一个非语言的指令，让它们为你搜集食物；这只或这群动物会立即出发到荒野中去觅食。在1小时后，动物们会返回到你发出指令的地方，为你提供一份可食用的食物，足以喂饱你和一群人数与你的施法者等级相等的其他人。<\/p>",
+    "source": "UW"
+}

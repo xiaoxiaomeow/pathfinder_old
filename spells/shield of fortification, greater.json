@@ -1,0 +1,19 @@
+{
+    "key": "shield of fortification, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-fortification/",
+    "name": "Shield of Fortification, Greater",
+    "base": "shield of fortification",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 3,
+        "paladin": 3,
+        "psychic": 4
+    },
+    "mysteries": {"succor": 4},
+    "text": "<p>This spell functions as <i>shield of fortification<\/i>, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.<\/p>",
+    "name_zh": "高等护命屏障",
+    "text_zh": "<p>该法术的功能如同护命屏障（Shield of Fortification）一般，不过它有50%的概率使重击或偷袭失效，仅造成普通的伤害，而非原本的25%。<\/p>",
+    "source": "ACG"
+}

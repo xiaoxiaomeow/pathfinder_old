@@ -1,0 +1,32 @@
+{
+    "key": "burning entanglement",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-entanglement/",
+    "name": "Burning Entanglement",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "druid": 3,
+        "hunter": 3,
+        "ranger": 3,
+        "shaman": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "40-ft.-radius spread",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates or partial (see text)",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as per entangle, except it sets the foliage on fire. A creature that begins its turn entangled by the spell takes 4d6 points of fire damage (Reflex half), and a creature that begins its turn in the area but is not entangled takes 2d6 points of fire damage (Reflex negates). Smoke rising from the vines partially obscures visibility. Creatures can see things in the smoke within 5 feet clearly, but attacks against anything farther away in the smoke must contend with concealment (20% miss chance). When the spell's duration expires, the vines burn away entirely.<\/p>",
+    "name_zh": "燃烧纠缠术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、知识、法器",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "：半径40尺扩散",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "反射，通过则无效 或 部分生效 (见下)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术如同纠缠术般作用，除了它使枝叶都着火了。一个生物因此法术被纠缠，在他的行动轮开始时，他受到4d6点火焰伤害(反射减半)，而一个生物在他的行动轮开始时没有被纠缠，则受到2d6点火焰伤害(反射无效)。从藤蔓中攀升的烟雾遮蔽了部分能见度。生物能于烟雾中清晰的看到周围5尺，但对烟雾中更远的任何东西进行攻击，需要应付隐蔽(20%失手率)。当此法术的持续时间结束时，藤蔓会完全的烧尽。<\/p>",
+    "source": "VC"
+}

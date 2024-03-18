@@ -1,0 +1,16 @@
+{
+    "key": "inflict critical wounds, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-critical-wounds/",
+    "name": "Inflict Critical Wounds, Mass",
+    "base": "inflict critical wounds",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 8,
+        "shaman": 8,
+        "witch": 9
+    },
+    "text": "<p>This spell functions like <i>mass inflict light wounds<\/i>, except that it deals 4d8 points of damage + 1 point per caster level (maximum +40).<\/p><\/div>",
+    "name_zh": "群体造成致命伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds, mass\">群体造成轻伤 (inflict light wounds, mass)<\/a>’一般，不过你能造成 {4d8+CL (最高+40)} 点伤害。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,35 @@
+{
+    "key": "shocking grasp",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shocking-grasp/",
+    "name": "Shocking Grasp",
+    "school": "evocation",
+    "descriptors": ["electricity"],
+    "levels":     {
+        "bloodrager": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1
+    },
+    "elementalSchools":     {
+        "air": 1,
+        "metal": 1
+    },
+    "bloodlines": {"djinni": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature or object touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Your successful melee touch attack deals 1d6 points of electricity damage per caster level (maximum 5d6). When delivering the jolt, you gain a +3 bonus on attack rolls if the opponent is wearing metal armor (or is carrying a metal weapon or is made of metal).<\/p>",
+    "name_zh": "电爪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物或物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>若你成功做出近战接触攻击，则造成每CL 1d6的闪电伤害 (最多5d6)。当你传递电击时，对穿着金属护甲的敌人 (或者携带金属武器、或者敌人本身由金属组成) 进行的攻击检定获得+3加值。<\/p>",
+    "source": "CRB"
+}

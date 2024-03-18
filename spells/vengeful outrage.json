@@ -1,0 +1,37 @@
+{
+    "key": "vengeful outrage",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vengeful-outrage/",
+    "name": "Vengeful Outrage",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "language- dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You place a magical command upon a creature to seek out and destroy a single enemy that has inflicted some perceived or actual harm to the target. You designate the enemy at the time of casting, which must be known by the target (such as “your brother's murderer”) or can easily identify by sight (such as “the hill giant king”). The target is under the effect of a geas to find and capture or kill this enemy, and the target takes the penalties of that spell as long as it is not actively trying to reach the enemy. When the target enters combat with the enemy, it gains a +6 morale bonus to Strength and Constitution, a +3 morale bonus on Will saves, and is immune to the shaken and frightened conditions.<\/p><p>If you designate one of the target's friends or loved ones as the enemy, the target gains another saving throw to overcome the spell as soon as it enters combat with the enemy.<\/p>",
+    "name_zh": "复仇之怒",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你对目标下达充满魔法力量的命令，让它找出并摧毁一个对其造成潜在或实际危害的特定敌人。<\/p><p>在施法期间，你必须指定一个目标认识的敌人 (例如‘杀死你哥哥的凶手’) 或易于分辨的外观特征 (例如‘丘陵巨人王’)。<\/p><p>在法术效果持续期间，目标会尽全力找到并捕获或杀死敌人。如果目标不积极达成目标，则会受到如同指使术 (Geas) 的惩罚。<\/p><p>当目标与指定敌人进入战斗状态，它的力量和体质将会获得+6士气加值，意志豁免获得+3士气加值，并且免疫战栗 (shaken ) 和惊惧 (frightened) 效果。<\/p><p>如果你选择的敌人是目标的朋友或亲人，目标在与其进入战斗状态时将会获得第二次豁免机会以打破法术效果。<\/p>",
+    "source": "UM"
+}

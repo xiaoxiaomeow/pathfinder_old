@@ -1,0 +1,31 @@
+{
+    "key": "feast of ashes",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/feast-of-ashes/",
+    "name": "Feast of Ashes",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["curse"],
+    "levels":     {
+        "druid": 2,
+        "psychic": 2,
+        "witch": 2
+    },
+    "bloodlines": {"ghoul": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of ash)",
+    "range": "close (25 ft. + 5 ft/2 levels)",
+    "duration": "2 days/level (d)",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You curse the target with a hunger no food can assuage. On a failed Saving Throw, the target begins to starve. The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of eating can counter the effect and, further, even attempting to eat causes the target to become nauseated for 1 round unless they make a DC 12 Fortitude save. The target still experiences the other normal effects of anything consumed (such as poisons or potions).<\/p><p><i>Feast of ashes<\/i> can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or <i>wish<\/i> spell, but effects suffered as a result of starvation must be healed by normal means.<\/p>",
+    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>On a failed save, the target immediately takes 1d6 points of nonlethal damage per tier. Add your tier to the DC of any further Constitution checks the target attempts to resist the effects of starvation as part of this spell's effects. <br>While the curse is in effect, the target gains no benefit from any spell, effect, or item that requires eating, such as the food from a heroes' feast spell (though the food is still used up when the target eats it). <br><\/div>",
+    "name_zh": "尘埃之宴",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一撮灰尘)",
+    "target_zh": "一名生物",
+    "duration_zh": "2天/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你诅咒目标，使其进入任何食物都无法满足的饥饿状态。通过失败的强韧豁免，目标会陷入饥饿 (starve) 状态。由该法术所造成的非致命伤害无法超出目标所拥有的生命值。无论吃下多少东西都无法消除这个效果，反而会使其更甚，即使尝试进食也会导致目标反胃1轮——除非通过DC为12的强韧豁免。目标仍旧如常受到任何进食获得的其他正常效果 (比如毒药或药水)。尘埃之宴可以被破除结界 (Break Enchantment)，有限祈愿术 (Limited Wish)，神迹术 (Miracle)，移除诅咒 (Remove Curse) 或者祈愿术 (Wish) 移除，但是由于饥饿而遭受的效果必须通过正常的途径治愈 (must be healed by normal means)。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "magic jar",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-jar/",
+    "name": "Magic Jar",
+    "school": "necromancy",
+    "levels":     {
+        "alchemist": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "unchained summoner": 5,
+        "witch": 5
+    },
+    "mysteries": {"juju": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a gem or crystal worth at least 100 gp)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "1 hour/level or until you return to your body",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>By casting <i>magic jar<\/i>, you place your soul in a gem or large crystal (known as the <i>magic jar<\/i>), leaving your body lifeless. Then you can attempt to take control of a nearby body, forcing its soul into the <i>magic jar<\/i>. You may move back to the jar (thereby returning the trapped soul to its body) and attempt to possess another body. The spell ends when you send your soul back to your own body, leaving the receptacle empty. To cast the spell, the <i>magic jar<\/i> must be within spell range and you must know where it is, though you do not need line of sight or line of effect to it. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.<\/p><p>While in the <i>magic jar<\/i>, you can sense and attack any life force within 10 feet per caster level (and on the same plane of existence). You do need line of effect from the jar to the creatures. You cannot determine the exact creature types or positions of these creatures. In a group of life forces, you can sense a difference of 4 or more HD between one creature and another and can determine whether a life force is powered by positive or negative energy. (Undead creatures are powered by negative energy. Only sentient undead creatures have, or are, souls.)<\/p><p>You could choose to take over either a stronger or a weaker creature, but which particular stronger or weaker creature you attempt to possess is determined randomly.<\/p><p>Attempting to possess a body is a full-round action. It is blocked by protection from evil or a similar ward. You possess the body and force the creature's soul into the <i>magic jar<\/i> unless the subject succeeds on a Will save. Failure to take over the host leaves your life force in the <i>magic jar<\/i>, and the target automatically succeeds on further saving throws if you attempt to possess its body again.<\/p><p>If you are successful, your life force occupies the host body, and the host's life force is imprisoned in the <i>magic jar<\/i>. You keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, and mental abilities. The body retains its Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities. A body with extra limbs does not allow you to make more attacks (or more advantageous two-weapon attacks) than normal. You can't choose to activate the body's extraordinary or supernatural abilities. The creature's spells and spell-like abilities do not stay with the body.<\/p><p>As a standard action, you can shift freely from a host to the <i>magic jar<\/i> if within range, sending the trapped soul back to its body. The spell ends when you shift from the jar to your own body.<\/p><p>If the host body is slain, you return to the <i>magic jar<\/i>, if within range, and the life force of the host departs (it is dead). If the host body is slain beyond the range of the spell, both you and the host die. Any life force with nowhere to go is treated as slain.<\/p><p>If the spell ends while you are in the <i>magic jar<\/i>, you return to your body (or die if your body is out of range or destroyed). If the spell ends while you are in a host, you return to your body (or die, if it is out of range of your current position), and the soul in the <i>magic jar<\/i> returns to its body (or dies if it is out of range). Destroying the receptacle ends the spell, and the spell can be dispelled at either the <i>magic jar<\/i> or the host's location.<\/p>",
+    "name_zh": "魔魂壶",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (至少价值100gp的宝石或水晶)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级 或 直至你回到你的身体",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>通过施放魔魂壶，你可以使自己的灵魂转移到一颗宝石或一大块水晶中 (该宝石或水晶被称为魔魂壶)，而肉体留在那里没有生命。之后你可以尝试控制附近另一个生物的肉体，并将该生物的灵魂关在魔魂壶中。你的灵魂可以回到壶中 (由此，被占据的生物的灵魂也会从壶中回归它原本的身体)，然后再尝试占据另一具身体。如果你的灵魂回到你自己原本的肉体，则法术终止，容器将会空置。要施放这个法术，魔魂壶必须在法术范围内。你与它并不需要有视觉线或者效果线，但你必须知道其确切位置。当你通过施法转移你的灵魂后，你原本的身体就像死掉一样。<\/p><p>当你处在魔魂壶中时，你可以察觉并尝试占据任何处于每CL 10尺内的生命力量 (必须在同一位面)。目标和壶之间需要有效果线。然而，你无法准确地得知这些生物的类型和位置。在一片生命力量中，若某个生物与其他生物之间的HD相差4或更多，则你可以感受到上述差异。此外你还可以分辨出某个生命力量是由正能量驱动还是由负能量驱动 (不死生物由负能量驱动。只有拥有意识的不死生物才拥有或本身就是灵魂)。<\/p><p>你可以选择占据在生命力量较强或是较弱的生物上，但具体占据到哪一个较强或是较弱的生物上则随机决定。<\/p><p>尝试占据是一个整轮动作。它会被‘<a href=\"spell.html?spell=protection from evil\">防护邪恶 (protection from evil)<\/a>’或类似的防护阻挡。如果目标生物未能通过意志豁免，则灵魂会被关入魔魂壶，而肉体被你占据。如果占据失败则你的生命力量仍然留在魔魂壶中，并且如果你尝试再次占据同一个目标，该目标的意志豁免将自动成功。<\/p><p>若成功，你的生命力量将占据宿主的肉体，而目标的生命力量将被囚禁在魔魂壶中。你将保留你的智力、感知、魅力、等级、职业、BAB、基本豁免加值、阵营和心智能力 (mental abilities)。身体会保留自身的力量、敏捷、体质、HP、天生能力 (natural abilities) 和自发能力 (automatic abilities)。新的身体如果拥有额外的肢体并不会增加你的攻击次数 (使用双武器攻击也不会更有利)。你不能使用新身体的特异能力与超自然能力，该生物的法术和类法术能力也不在身体中。<\/p><p>只要魔魂壶和被占据的躯体之间的距离不超出法术范围，你能以一个标准动作将你的灵魂从宿主身上转移回魔魂壶中，同时该生物的灵魂也会回到它自己的肉体内。如果你将灵魂转移回自己的身体，法术即终止。<\/p><p>当宿主的身体死亡时，如果魔魂壶和宿主之间的距离在法术范围内，你会立即回到魔魂壶中，而原宿主的生命力则会消散 (也就是死亡)。如果宿主身体死亡时，魔魂壶和宿主之间的距离超出了法术范围，则宿主和你都会死亡。任何无处可去的生命力都视作被杀。<\/p><p>如果法术结束时你还在魔魂壶中，你的灵魂会回到你原本的身体中 (如果你的身体和魔魂壶之间的距离超过法术范围，或你的身体被摧毁，则你会死亡)。如果法术效果结束时你仍然在宿主体内，你的灵魂会回到你原本的身体中 (如果你当前的位置和原本身体之间的距离超过法术范围，则你会死亡)，而魔魂壶中宿主的灵魂也会回到它自己的身体中 (如果魔魂壶和宿主身体之间的距离超过法术范围，则宿主会死亡)。若魔魂壶被摧毁，法术立刻终止，同时法术可以从魔魂壶处或者宿主处被解除。<\/p>",
+    "source": "CRB"
+}

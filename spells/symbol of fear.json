@@ -1,0 +1,25 @@
+{
+    "key": "symbol of fear",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-fear/",
+    "name": "Symbol of Fear",
+    "school": "necromancy",
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "components": "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)",
+    "savingThrow": "Will negates",
+    "text": "<p>This spell functions like <i>symbol of death<\/i>, except that all creatures within 60 feet of the <i>symbol of fear<\/i> instead become panicked for 1 round per caster level.<\/p>",
+    "name_zh": "恐惧徽记",
+    "components_zh": "语言, 姿势, 材料 (水银, 磷以及钻石和猫眼石粉末, 总价值为1000gp)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "text_zh": "<p>此法术作用类似于‘<a href=\"spell.html?spell=symbol of death\">死亡徽记 (symbol of death)<\/a>’，不过它会使恐惧徽记60尺范围内的所有生物陷入恐慌，持续时间每CL 1轮。<\/p><p>注意：诸如恐惧徽记之类的魔法陷阱是很难被侦测、解除的。尽管任何角色都能够使用察觉技能来找到徽记，不过只有具有【寻找陷阱】职业能力的角色才能使用解除装置来将其解除。DC为 {25+法术环位}，对于恐惧徽记来说则是31。<\/p>",
+    "source": "CRB"
+}

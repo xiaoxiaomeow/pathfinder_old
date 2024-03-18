@@ -1,0 +1,21 @@
+{
+    "key": "synesthesia, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/synesthesia/",
+    "name": "Synesthesia, Mass",
+    "base": "synesthesia",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "mesmerist": 5,
+        "psychic": 7
+    },
+    "range": "medium (100 ft. + 10 ft./level)",
+    "text": "<p class=\"divider\">EFFECT<\/p><p><b>Range<\/b> medium (100 ft. + 10 ft./level)<\/p><p><b>Targets<\/b> one or more living creatures, no two of which can be more than 30 ft. apart<\/p><p>This spell functions like <i>synesthesia<\/i>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体通感超载",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个或更多个活物，任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同通感超载（Synesthesia）一般，差异如上所述。<\/p>",
+    "source": "OA"
+}

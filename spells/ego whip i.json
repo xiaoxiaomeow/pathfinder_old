@@ -1,0 +1,32 @@
+{
+    "key": "ego whip i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ego-whip/",
+    "name": "Ego Whip I",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"psychic": 3},
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You can use your psychic power to overwhelm the target's ego, leaving the target feeling hopeless and unsure of itself. Choose Intelligence, Wisdom, or Charisma. The target takes a –2 penalty to that ability score, and is also staggered for the first round it's affected. A successful Will save negates the staggered effect and reduces the duration of the penalty to 1 round.<\/p>",
+    "name_zh": "自性鞭笞 I",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你能使用自身的异能力量来淹没目标的自我，使其感到绝望和自我怀疑。选择智力、感知或魅力。目标在该项属性上受到-2减值，而且还会在受到法术影响的第一轮陷入恍惚（staggered）。成功通过意志豁免能够免受恍惚效果，而且能够让减值的持续时间下降至1轮。<\/p>",
+    "source": "OA"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "demanding message",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/demanding-message/",
+    "name": "Demanding Message",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "medium": 3,
+        "mesmerist": 3,
+        "occultist": 4,
+        "psychic": 3,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "duration": "10 min.s/level, then 1 hour/level or until completed (d); see text",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>This spell initially functions as message (allowing no save or spell resistance). Once during the message effect, you can concentrate as a standard action to issue a suggestion to one target as part of delivering a message. Spell resistance and a Will save apply to the suggestion, and it lasts for 1 hour per level or until completed.<\/p>",
+    "name_zh": "强令传讯术",
+    "duration_zh": "10分钟/等级，之后 1小时/等级 或 直至完成（可解消）；见后文",
+    "savingThrow_zh": "意志，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术初始的功能就如同传讯术（Message）一般（不需要进行豁免也不允许法术抗力生效）。一旦进入到传讯效果途中（Once during the message effect），你便能以标准动作进行专注，以传递1条讯息的一部分对1个目标发出1个暗示术（Suggestion）。法术抗力与意志豁免均会对暗示术生效，它会持续1小时/等级或者直至完成为止。<\/p>",
+    "source": "UI"
+}

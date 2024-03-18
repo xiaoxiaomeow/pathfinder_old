@@ -1,0 +1,33 @@
+{
+    "key": "slough",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/slough/",
+    "name": "Slough",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 5,
+        "occultist": 4,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "spiritualist": 4,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a pinch of dried skin flakes)",
+    "range": "medium (100 ft. + 10 ft./levels)",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>The target takes 1d4 points of Constitution damage each round as its skin loosens and splits. Once it has taken 5 or more points of Constitution damage in this way, its skin falls off to reveal its musculature. The creature ceases taking Constitution damage, but takes a –4 penalty on saving throws against disease, pain effects, or poison, and on Charisma-based skill checks with the exception of Intimidate and Use Magic Device. The creature's skin regrows rapidly—once its Constitution damage is fully healed, its skin becomes intact once again and the penalties end.<\/p>",
+    "name_zh": "落皮症",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一撮干燥的死皮)",
+    "target_zh": "一个活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>因为他的皮肤松落并且龟裂，受术者每轮受到1d4点体质伤害。一但他因为这法术受到5点或更多的体质伤害，他的皮肤脱落并且露出肌肉组织。该生物停止受到体质伤害，但在对抗疾病、痛苦效果或是毒药，以及基于魅力的技能(威吓与使用魔法装置例外)检定上承受-4的减值。一但受术者的体质伤害被完全治愈，该生物的皮肤会迅速再生，并且他的皮肤会再次完整，而减值结束。<\/p>",
+    "source": "HA"
+}

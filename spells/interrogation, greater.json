@@ -1,0 +1,21 @@
+{
+    "key": "interrogation, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/interrogation/",
+    "name": "Interrogation, Greater",
+    "base": "interrogation",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "inquisitor": 4,
+        "psychic": 4
+    },
+    "text": "<p>This spell functions as <i>interrogation<\/i>, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn't answer a question.<\/p><\/div>",
+    "name_zh": "高等拷问",
+    "text_zh": "<p>该法术的功能如同拷问 (Interrogation) 一般，不过你可以询问每施法者等级1个问题，如果目标不回答问题，法术会造成1d8 + 你的感知加值点伤害。<\/p>",
+    "source": "UM"
+}

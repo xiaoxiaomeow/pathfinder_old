@@ -1,0 +1,13 @@
+{
+    "key": "shadow conjuration, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration/",
+    "name": "Shadow Conjuration, Greater",
+    "base": "shadow conjuration",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "levels": {"sorcerer/wizard": 7},
+    "text": "<p>This spell functions like <i>shadow conjuration<\/i>, except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and non-damaging effects are 60% likely to work against nonbelievers.<\/p><\/div>",
+    "name_zh": "高等幽影咒法术",
+    "text_zh": "<p>该法术的功能与幽影咒法术一样，你可模拟术士或法师的咒法系 (创造) 或咒法系 (召唤) 法术，法术环位不超过6环。对于不相信的生物来说，幽影咒法术仅造成3/5 (60%) 的伤害，非伤害性效果有60%的可能对他们起作用。<\/p>",
+    "source": "CRB"
+}

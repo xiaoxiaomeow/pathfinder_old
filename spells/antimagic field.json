@@ -1,0 +1,35 @@
+{
+    "key": "antimagic field",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/antimagic-field/",
+    "name": "Antimagic Field",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 8,
+        "sorcerer/wizard": 6
+    },
+    "domains":     {
+        "magic": 6,
+        "protection": 6
+    },
+    "mysteries": {"dragon": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (pinch of powdered iron or iron filings)",
+    "range": "10 ft.",
+    "area": "10-ft.-radius emanation, centered on you",
+    "duration": "10 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "see text",
+    "text": "<p>An invisible barrier surrounds you and moves with you. The space within this barrier is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines.<\/p><p>An <i>antimagic field<\/i> suppresses any spell or magical effect used within, brought into, or cast into the area, but does not dispel it. Time spent within an <i>antimagic field<\/i> counts against the suppressed spell's duration.<\/p><p>Summoned creatures of any type wink out if they enter an <i>antimagic field<\/i>. They reappear in the same spot once the field goes away. Time spent winked out counts normally against the duration of the conjuration that is maintaining the creature. If you cast <i>antimagic field<\/i> in an area occupied by a summoned creature that has spell resistance, you must make a caster level check (1d20 + caster level) against the creature's spell resistance to make it wink out. (The effects of instantaneous conjurations are not affected by an <i>antimagic field<\/i> because the conjuration itself is no longer in effect, only its result.)<\/p><p>A normal creature can enter the area, as can normal missiles. Furthermore, while a magic sword does not function magically within the area, it is still a sword (and a masterwork sword at that). The spell has no effect on golems and other constructs that are imbued with magic during their creation process and are thereafter self-supporting (unless they have been summoned, in which case they are treated like any other summoned creatures). Elementals, undead, and outsider are likewise unaffected unless summoned. These creatures' spell-like or supernatural abilities may be temporarily nullified by the field. Dispel magic does not remove the field.<\/p><p>Two or more <i>antimagic fields<\/i> sharing any of the same space have no effect on each other. Certain spells, such as wall of force, prismatic sphere, and prismatic wall, remain unaffected by <i>antimagic field<\/i>. Artifacts and deities are unaffected by mortal magic such as this.<\/p><p>Should a creature be larger than the area enclosed by the barrier, any part of it that lies outside the barrier is unaffected by the field.<\/p>",
+    "mythicText": "Select a number of spell schools equal to half your tier. Spells and effects of the chosen schools are unaffected by the antimagic field. ",
+    "name_zh": "反魔场",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一捧铁粉或铁屑)",
+    "range_zh": "10尺",
+    "area_zh": "以你为中心, 半径10尺发散区域",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "见后文",
+    "text_zh": "<p>一道隐形屏障围绕着你，并随你移动。大部分魔法效果都无法进入屏障之内的空间，包括法术、类法术能力以及超自然能力。同时，它也阻止了范围内的任何魔法物品或法术的运转。<\/p><p>反魔场压制了在范围内使用、带入范围内、或者对区域内施展的所有法术或魔法效果，但并不是解除它。在反魔场内的时间计入被压制法术的持续时间内。<\/p><p>任何种类的召唤生物在进入反魔场区域时会消失不见。当反魔场移开后它们又会在原地重新出现。消失的时间计入维持生物的咒语持续时间。如果你对一个已经被召唤生物占据的空间施展反魔场，该生物又具有法术抗力，那么你必须做一个施法者等级检定 (1d20+CL) 来对抗该生物的法术抗力，从而让它消失。(持续时间为立即的咒法系法术不会受到反魔场影响，因为该咒术本身并不存在于效果，这只是它的结果。)<\/p><p>普通生物可以进入这一区域，也可以正常地射击。而且，就算一把魔法剑在这区域内没有魔法能力，它依然是把剑 (而且是精制品剑)。对魔像和其它构装体来说，它们在制造过程中灌注了魔法，之后就靠自己维持，反魔场队它们无效 (除非它们是被召唤来的，这种情况下将它们视作其它召唤生物)。类似地，元素、不死生物以及异界生物也不受影响，除非它们是被召唤来的。当然，这些生物的类法术能力和超自然能力暂时会被反魔场无效化。‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’不会移除反魔场。<\/p><p>共享同一空间的两个或多个反魔场不会互相影响。某些法术，例如‘<a href=\"spell.html?spell=wall of force\">力墙术 (wall of force)<\/a>’，‘<a href=\"spell.html?spell=prismatic sphere\">虹光法球 (prismatic sphere)<\/a>’，‘<a href=\"spell.html?spell=prismatic wall\">虹光法墙 (prismatic wall)<\/a>’不受反魔场影响。神器和神祇不会被类似此法术的凡间法术所影响。<\/p><p>如果生物比屏障占据的空间还要大，那么所有在屏障外的部分都不受影响。<\/p>",
+    "source": "CRB"
+}

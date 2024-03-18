@@ -1,0 +1,29 @@
+{
+    "key": "shambler",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shambler/",
+    "name": "Shambler",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "druid": 9,
+        "shaman": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "three or more shambling mounds, no two of which can be more than 30 ft. apart; see text",
+    "duration": "7 days or 7 months (d); see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>The <i>shambler<\/i> spell creates 1d4+2 shambling mounds with the advanced template. The creatures willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for 7 days unless you dismiss them. If the shamblers are created only for guard duty, however, the duration of the spell is 7 months. In this case, the shamblers can only be ordered to guard a specific site or location. Shamblers summoned to guard duty cannot move outside the spell's range, which is measured from the point where each first appeared. You can only have one <i>shambler<\/i> spell in effect at one time. If you cast this spell while another casting is still in effect, the previous casting is dispelled. The shamblers have resistance to fire as normal shambling mounds do only if the terrain where they are summoned is rainy, marshy, or damp.<\/p>",
+    "name_zh": "蔓生术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "三个或更多个蔓生怪，任意两者之间的距离不超过30尺; 见后文",
+    "duration_zh": "7天或7个月 (可解消); 见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>蔓生术可造出1d4+2个具有进化模板的蔓生怪 (shambling mound)。这些生物会自愿帮你作战、执行特殊任务或者作为保镖工作。只要你不解消它们，它们就可以在你身边逗留七天。若它们的任务仅仅是护卫，法术的持续时间则变为七个月。在这种情况下，蔓生怪只能被命令护卫特定地点或场所。为护卫而造成的蔓生怪不可离开法术距离，该距离这从它们的首次出现位置算起。若你在施放该法术时，已经有之前施放的蔓生术正在生效，那么之前的法术会被解消。仅在下雨、沼泽或湿地环境中召唤的蔓生怪才与普通蔓生怪一样具有火焰抗力。<\/p>",
+    "source": "CRB"
+}

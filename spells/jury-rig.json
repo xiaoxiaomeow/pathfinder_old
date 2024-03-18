@@ -1,0 +1,31 @@
+{
+    "key": "jury-rig",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/j/jury-rig/",
+    "name": "Jury-Rig",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1,
+        "summoner/unchained summoner": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of tree resin)",
+    "range": "touch",
+    "target": "one broken object of up to 2 lbs./level",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>When you cast this spell, a spectral force binds a broken weapon together, relieving the broken condition for a short time. While under the effects of this spell, an item with the broken condition suffers no adverse effects from that condition, and is treated as if it is not broken. The object regains no hit points, and damage can still destroy the object.<\/p>",
+    "name_zh": "应急措施",
+    "castingTime_zh": "标准动作",
+    "components_zh": "(原味未注明)",
+    "range_zh": "接触",
+    "target_zh": "一件破损物体，最多每等级2磅",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>当你施放该法术，你可以将一把武器的碎片凝聚在一起，短时间内消除破损状态。<\/p><p>在这个法术作用下，武器的破损状态不会被修复，但是在法术持续时间内不会有任何不良影响，就像它完好无损一样。<\/p><p>受术物体不会恢复任何生命值，并且伤害仍然可以摧毁物体。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "rune trace",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rune-trace/",
+    "name": "Rune Trace",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "occultist": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (pinch of powdered gemstones worth 25 gp)",
+    "range": "touch",
+    "target": "rune touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p class=\"desciption\">By immersing yourself fully in the intricacies of a carved or written rune of any kind, you can divine the elements of that rune's nature.<\/p><p>While casting rune trace, you must run your fingers (which cannot be gloved at the time) over the rune, glyph, symbol, or other marking you want to examine (hereafter referred to as the -rune-). This does not trigger any effects that touching the rune would normally trigger. Runes, symbols, and other effects that trigger when read still trigger as normal if you do so-but note that this spell does not require you to view and read the rune that you're targeting. When the spell's casting time ends, you instantly receive flashes of insight regarding the rune's nature, history, and purpose, including the following information.<\/p><ul><li><em>Age<\/em>: You learn if the rune was placed within the last 24 hours, within the last month, within the last year, within the last decade, within the last century, or prior to the last century.<\/li><li><em>Insight<\/em>: If you have cast rune trace on a magical rune, you gain a +5 bonus on all skill rolls and checks to dispel, disable, or otherwise tamper with the rune.<\/li><li><em>Language<\/em>: You learn what language the character of the rune is taken from, or in the case of a rune that has no language, you learn that it is a unique image.<\/li><li><em>Purpose<\/em>: You learn the general purpose of the rune (such as whether it's a decoration, information, a magical defense, or a warning).<\/li><\/ul>",
+    "name_zh": "符文追溯",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势，材料（一撮价值25gp的宝石粉）",
+    "range_zh": "接触",
+    "target_zh": "接触到的符文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>通过将自己完全沉浸在任何类型的雕刻或书写符文的错综复杂中，您可以占卜该符文的性质。在施放符文追溯时，你必须用手指（此时不能戴手套）抚摸你想要检查的符文、字形、符号或其他标记（以下简称“符文”）。这不会触发接触符文通常会触发的任何效果。但如果你用这个法术，符文、符号和其他在阅读时触发的效果仍然会正常触发——但请注意，这个法术不需要你查看和阅读你所选的符文。当法术的施法时间结束时，你会立即收到关于符文的性质、历史和目的的闪现片段，它们包含以下信息。\n年代：您可以了解符文是在过去24小时内、上个月内、去年内、过去十年内、上个世纪内还是上个世纪之前放置的。\n内在：如果你在一个魔法符文上施展符文追溯，你在所有用于解除、禁用或着就是篡改符文的技能投骰和检定上获得+5加值。\n语言：你了解了符文的文字来自哪种语言，或者在符文没有语言的情况下，你了解到它是一个独特的图像。\n目的：你了解到符文的一般用途（例如它是装饰、信息、魔法防御还是警告）。<\/p>",
+    "source": "AG"
+}

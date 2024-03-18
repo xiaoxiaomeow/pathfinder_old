@@ -1,0 +1,37 @@
+{
+    "key": "glitterdust",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glitterdust/",
+    "name": "Glitterdust",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2,
+        "witch": 2
+    },
+    "elementalSchools":     {
+        "earth": 2,
+        "metal": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (ground mica)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "creatures and objects within 10-ft.-radius spread",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (blinding only)",
+    "spellResistance": "no",
+    "text": "<p>A cloud of golden particles covers everyone and everything in the area, causing creatures to become blinded and visibly outlining invisible things for the duration of the spell. All within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades. Each round at the end of their turn blinded creatures may attempt new saving throws to end the blindness effect.<\/p><p>Any creature covered by the dust takes a -40 penalty on Stealth checks.<\/p>",
+    "name_zh": "闪光尘",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (云母粉)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "半径10尺扩散区域内的生物和物体",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (仅限目盲)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>一团金色微粒的烟云笼罩在区域内的所有人和物上，在法术的持续时间内生物会变得目盲，隐形的事物会被勾勒出可见的轮廓。整个区域的一切都被光尘所覆盖，光尘无法被移除，它会一直闪烁着直到熄灭为止。目盲的生物每轮都会在自身回合结束时，都可以尝试一次新的豁免检定来结束目盲效果。<\/p><p>任何被光尘所笼罩的生物，隐匿检定都会受到-40减值。<\/p>",
+    "source": "CRB"
+}

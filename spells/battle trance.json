@@ -1,0 +1,41 @@
+{
+    "key": "battle trance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/battle-trance/",
+    "name": "Battle Trance",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 3,
+        "antipaladin": 3,
+        "cleric": 4,
+        "inquisitor": 3,
+        "ranger": 3,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You are transformed into a single-minded force of destruction. You gain the ferocity monster special ability, a number of temporary hit points equal to 1d6 + your caster level (maximum +10), and a +4 morale bonus on saving throws against mind-affecting effects. You cannot use the withdraw action or willingly move away from a creature that has attacked you.<\/p><p>When you use this spell, you immediately take 4 points of Intelligence damage. You must make a DC 20 concentration check to cast spells, and all other concentration checks to cast spells have a –5 penalty.<\/p>",
+    "mythicText": "The number of temporary hit points you gain increases to 2d6 + your caster level (maximum +10) + your tier. The morale bonus on saving throws against mind-affecting effects increases to +6. <br><p style=\"margin-left:20px\"><b>Augmented (5th)<\/b>: If you expend two uses of mythic power, you gain a +4 morale bonus to Strength, immunity to non-mythic mind-affecting effects, and DR 5/epic. ",
+    "name_zh": "忘我争战",
+    "race_zh": "半兽人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你被转化为纯粹的破坏之力。你获得“凶猛”怪物特性、等同于“1d6+施法者等级 (最高+10) ”点临时生命、并且在对抗影响心灵效果时豁免检定获得+4士气加值。但是你无法使用撤退动作或以自己的意愿远离曾经攻击过你的生物。当你使用该法术后，你立刻受到4点智力伤害。此外你必须通过DC20的专注检定才能施放法术，并且所有其他施放法术的专注检定受到-5减值。<\/p>",
+    "source": "ARG"
+}

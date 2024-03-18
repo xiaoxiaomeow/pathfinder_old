@@ -1,0 +1,33 @@
+{
+    "key": "wind blades",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-blades/",
+    "name": "Wind Blades",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["air"],
+    "levels":     {
+        "druid": 5,
+        "magus": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You harden the air around the target into jagged invisible blades that deal damage based on how fast the target moves. On its turn, the target takes 1d6 points of slashing damage if it moves at least 5 feet, plus 1d6 points of slashing damage for each additional 10 feet of movement. Movement that doesn't pass through air (such as burrowing, swimming, or teleportation) doesn't cause this damage. In areas of strong wind, the target takes damage on its turn, even if it doesn't move. The wind deals 1d8 points of slashing damage for strong wind, plus 1d8 for every wind category above strong. This extra damage does not occur from instantaneous wind effects (such as gust of wind), only from wind effects that last at least 1 round.<\/p>",
+    "name_zh": "风刃术",
+    "race_zh": "风元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将目标周围的空气硬化为隐形的锯齿利刃，基于目标的移动速度对其造成伤害。在它的回合，如果目标移动至少5尺就会受到1d6点挥砍伤害，并且目标每额外移动10尺会再受到1d6点挥砍伤害。不需要通过空气的移动方式 (比如掘地，游泳或传送) 不会受到这些伤害。<\/p><p>在刮着强风 (Strong Wind) 的区域内，目标会在它的回合受到伤害，即使它并没有移动。强风会对其造成1d8点挥砍伤害，并且风力每加强一个等级就会额外再受到1d8点伤害。瞬时的风效果不会造成额外伤害 (比如‘造风术’)，只有至少持续1轮的风的效果才能够产生额外伤害。<\/p>",
+    "source": "ARG"
+}

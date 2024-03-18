@@ -1,0 +1,31 @@
+{
+    "key": "erase",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/erase/",
+    "name": "Erase",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "domains": {"rune": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one scroll or two pages",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p><i>Erase<\/i> removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove <i>explosive runes<\/i>, a <i>glyph of warding<\/i>, a <i>sepia snake sigil<\/i>, or an <i>arcane mark<\/i>, but not <i>illusory script<\/i> or a <i>symbol<\/i> spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.<\/p><p>Magic writing must be touched to be erased, and you also must succeed on a caster level check (1d20 + caster level) against DC 15. A natural 1 is always a failure on this check. If you fail to erase <i>explosive runes<\/i>, a <i>glyph of warding<\/i>, or a <i>sepia snake sigil<\/i>, you accidentally activate that writing instead.<\/p>",
+    "name_zh": "抹消术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个卷轴 或 两页纸",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>抹消术可去除卷轴、一两页纸、羊皮纸、或者类似表面上的魔法或一般文稿。你可以籍该法术移除‘<a href=\"spell.html?spell=explosive runes\">爆裂符文 (explosive runes)<\/a>’、‘<a href=\"spell.html?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’、‘<a href=\"spell.html?spell=sepia snake sigil\">蛇纹法印 (sepia snake sigil)<\/a>’或‘<a href=\"spell.html?spell=arcane mark\">秘法印记 (arcane mark)<\/a>’，但不能移除‘<a href=\"spell.html?spell=illusory script\">谜幻手稿 (illusory script)<\/a>’或徽记 (symbol) 法术。不被他人持有的非魔法文稿在你接触它后会自动抹消。否则，非魔法文稿有90%的机率被抹消。<\/p><p>要抹消魔法文稿，你必须接触它，同时你必须成功通过DC 15的施法等级检定 (1d20+CL) 才能将其抹消。在该检定中投掷出自然1点总是视作失败。若你在抹消‘爆裂符文’、‘守卫刻文’或‘蛇纹法印’时失败，则会意外激活这些文字。<\/p>",
+    "source": "CRB"
+}

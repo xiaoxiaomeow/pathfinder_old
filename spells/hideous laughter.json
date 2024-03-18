@@ -1,0 +1,43 @@
+{
+    "key": "hideous laughter",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hideous-laughter/",
+    "name": "Hideous Laughter",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 1,
+        "medium": 2,
+        "mesmerist": 1,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "subdomains":     {
+        "revelry": 2,
+        "whimsy": 1
+    },
+    "bloodlines": {"fey": 2},
+    "mysteries":     {
+        "juju": 2,
+        "whimsy": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (tiny fruit tarts and a feather)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature; see text",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell afflicts the subject with uncontrollable laughter. It collapses into gales of manic laughter, falling prone. The subject can take no actions while laughing, but is not considered helpless. After the spell ends, it can act normally. On the creature's next turn, it may attempt a new saving throw to end the effect. This is a full round action that does not provoke attacks of opportunity. If this save is successful, the effect ends. If not, the creature continues laughing for the entire duration.<\/p><p>A creature with an Intelligence score of 2 or lower is not affected. A creature whose type is different from the caster's receives a +4 bonus on its saving throw, because humor doesn't &#8220;translate&#8221; well.<\/p>",
+    "name_zh": "狂笑术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (小号水果蛋挞或羽毛)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物; 见后文",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术使受术者陷入无法控制的大笑之中。他会笑得歇斯底里，扑倒在地。受术者在狂笑的时候无法作任何动作，但不视作无助。法术结束后，目标可正常行动。在该生物的下一回合中，它可以尝试进行一次新的豁免检定来结束该效果，这是一个不会引起借机攻击的整轮动作。若豁免成功，效果就会结束。若失败，该生物会在整个法术持续时间内狂笑不止。<\/p><p>智力属性为2或更低的生物不受该法术影响。与施法者生物类型不同的生物在豁免检定上获得+4加值，因为幽默“翻译”起来可不那么容易。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "theft ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/theft-ward/",
+    "name": "Theft Ward",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 1,
+        "inquisitor": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one object",
+    "duration": "1 day",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You ward a single object in your possession against theft. You gain a +10 bonus on Perception checks to notice someone trying to take the object from you.<\/p>",
+    "name_zh": "防盗结界",
+    "race_zh": "天狗",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的物品",
+    "duration_zh": "1天",
+    "savingThrow_zh": "意志, 通过则无效 (无害，物品)",
+    "spellResistance_zh": "可 (无害，物品)",
+    "text_zh": "<p>你可以使你身上的单件物品难以被盗。你在发现有人尝试从你身上取走该物品的察觉检定上获得+10加值。<\/p>",
+    "source": "ARG"
+}

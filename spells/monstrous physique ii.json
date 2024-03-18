@@ -1,0 +1,19 @@
+{
+    "key": "monstrous physique ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/monstrous-physique-i/",
+    "name": "Monstrous Physique II",
+    "base": "monstrous physique i",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 4,
+        "bloodrager": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4
+    },
+    "text": "<p>This spell functions as <i>monstrous physique I<\/i>, except it also allows you to assume the form of a Tiny or Large creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, scent, freeze, grab, leap attack, mimicry, pounce, sound mimicry, speak with sharks, and trip. If the creature has the undersized weapons special quality, you gain that quality.<\/p><ul>   <li><b>Tiny monstrous humanoid<\/b>: If the form you take is that of a Tiny monstrous humanoid, you gain a +4 size bonus to your Dexterity, a –2 penalty to your Strength, and a +1 natural armor bonus.<\/li>   <li><b>Large monstrous humanoid<\/b>: If the form you take is that of a Large monstrous humanoid, you gain a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus.<\/li>  <\/ul>",
+    "name_zh": "类人形态 II",
+    "text_zh": "<p>这个法术工作方式如同类人形态I (Monstrous Physique I)，不过本法术允许你选择一个超小型或大型的类人怪物形态。<\/p><p>如果你选择的生物类别拥有以下能力，你获得它们：60尺攀爬，60尺飞行 (良好机动性)，60尺游泳，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，静立 (freeze)、攫取 (grab)、飞跃攻击 (leap attack)、模仿 (mimicry)、猛扑 (pounce)、声音模仿 (sound mimicry)、与鲨交谈 (speak with sharks) 和摔绊 (trip)。\n－超小型类人怪物：如果你选择的是一个超小型类人怪物，你的敏捷获得+4体型加值，力量获得-2罚值，+1天生护甲。\n－大型类人怪物：如果你选择是一个大型类人怪物，你的力量获得+4体型加值，敏捷获得-2罚值，+4天生护甲。<\/p>",
+    "source": "UM"
+}

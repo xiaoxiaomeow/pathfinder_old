@@ -1,0 +1,30 @@
+{
+    "key": "grasping vine",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grasping-vine/",
+    "name": "Grasping Vine",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "druid": 2,
+        "occultist": 2,
+        "ranger": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>You cause a long, thin vine to sprout from your body—typically from the center of your chest or from the palm of an outstretched hand. As a standard action, you can direct the end of the vine to move to any square within 20 feet of you and perform one of the following tasks: deliver a touch spell that you cast after the vine has grown, pick up an unattended object weighing 20 pounds or less, give a held object to another creature, attempt to disable a trap or lock using your Disable Device modifier with a –2 penalty, or perform any other task that the GM deems reasonable. the vine does not threaten squares and cannot make attacks of opportunity, nor can it wield weapons.<\/p>",
+    "name_zh": "贪婪藤蔓",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "1分钟/等级（可消解）",
+    "text_zh": "<p>你让一根长而细的藤蔓从你的身体上长出，通常是从你的胸膛中心或伸出的手掌上。作为一个标准动作，你可以命令蔓藤的尾端移动到距离你20英尺内的任何方格中，和执行下列任务：传递一个在蔓藤长出后你施展的接触法术，拿起一个重20磅或更轻的无人看管的物体，将一件被持有的物体交给另一个生物，试图解除一个陷阱或锁，这会使用你的解除装置修正值，但受到-2惩罚，或执行任何其他任务，只要城主认为合理。蔓藤不会威胁方格，也不会制造藉机攻击，也不会使用武器。<\/p>",
+    "source": "UW"
+}

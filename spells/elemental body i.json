@@ -1,0 +1,37 @@
+{
+    "key": "elemental body i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-body/",
+    "name": "Elemental Body I",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 4,
+        "bloodrager": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4
+    },
+    "elementalSchools":     {
+        "air": 4,
+        "earth": 4,
+        "fire": 4,
+        "water": 4
+    },
+    "bloodlines": {"elemental": 4},
+    "mysteries": {"elemental": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (the element you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min/level (d)",
+    "text": "<p>When you cast this spell, you can assume the form of a Small air elemental, Small earth elemental, Small fire elemental, or Small water elemental. The abilities you gain depend upon the type of elemental into which you change. Elemental abilities based on size, such as burn, vortex, and whirlwind, use the size of the elemental you transform into to determine their effect.<\/p><ul><li><i>Air elemental<\/i>: If the form you take is that of a Small air elemental, you gain a +2 size bonus to your Dexterity and a +2 natural armor bonus. You also gain fly 60 feet (perfect), darkvision 60 feet, and the ability to create a whirlwind.<\/li><li><i>Earth elemental<\/i>: If the form you take is that of a Small earth elemental, you gain a +2 size bonus to your Strength and a +4 natural armor bonus. You also gain darkvision 60 feet and the ability to earth glide.<\/li><li><i>Fire elemental<\/i>: If the form you take is that of a Small fire elemental, you gain a +2 size bonus to your Dexterity and a +2 natural armor bonus. You gain darkvision 60 feet, resist fire 20, vulnerability to cold, and the burn ability.<\/li><li><i>Water elemental<\/i>: If the form you take is that of a Small water elemental, you gain a +2 size bonus to your Constitution and a +4 natural armor bonus. You also gain swim 60 feet, darkvision 60 feet, the ability to create a vortex, and the ability to breathe water.<\/li><\/ul>",
+    "mythicText": "Each mythic elemental body spell must be learned individually, and you must know the respective non-mythic elemental body spell to learn its mythic version. You don't have to learn them in order, and aren't required to know a lower-level mythic elemental body spell before you learn A higher-level one (for example, you can learn mythic elemental body II if you know elemental body II, even if you don't know mythic elemental body I). <br>Each mythic elemental body spell adds the following benefits to its respective non-mythic version. <br>The spell's bonuses to ability scores increase by 2, the natural armor bonus increases by 1, and the ability score penalties 92 decrease by 2 (minimum penalty of 0). There is a 50% chance any critical hit or sneak attack against you is treated as a normal hit, as if you were wearing medium fortification armor. <br><p style=\"margin-left: 20px\"><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. You can also, a number of times equal to your tier, add half your tier to the DC of one spell you cast with an energy descriptor that matches your elemental type (air: electricity, earth: acid, fire: fire, water: cold). ",
+    "name_zh": "元素形态 I",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (你想要变成的元素)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>当你施放该法术，你能够变为小型气元素、小型土元素、小型火元素或小型水元素的形态。你获得的能力取决于你化身的元素的类型。基于体型的元素能力，比如烧灼、漩涡以及旋风，使用你变身后的元素的体型来决定其效果。<\/p><p>气元素：如果你选择小型气元素的形态，你的敏捷获得+2体型加值以及+2天生护甲加值。你还获得60尺飞行 (完美)，60尺黑暗视觉以及制造旋风的能力。<\/p><p>土元素：如果你选择小型土元素的形态，你的力量获得+2体型加值以及+4天生护甲加值。你还获得60尺黑暗视觉以及潜地能力。<\/p><p>火元素：如果你选择小型火元素的形态，你的敏捷获得+2体型加值以及+2天生护甲加值。你还获得60尺黑暗视觉，火焰抗力20，寒冷易伤以及烧灼能力。<\/p><p>水元素：如果你选择小型水元素的态，你的体质获得+2体型加值以及+4天生护甲加值。你还获得60尺游泳，60尺黑暗视觉，制造漩涡的能力以及水下呼吸的能力。<\/p>",
+    "source": "CRB"
+}

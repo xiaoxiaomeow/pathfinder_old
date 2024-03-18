@@ -1,0 +1,33 @@
+{
+    "key": "mind probe",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-probe/",
+    "name": "Mind Probe",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 3,
+        "mesmerist": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You gain access to the subject's memories and knowledge. You can attempt to learn the answer to one question per round.<\/p><p>A successful Will save ends the spell. Otherwise, the creature can attempt a Bluff check with a DC equal to 11 + your Sense Motive modifier. If it fails its Bluff check, you gain the answer you desire. If it succeeds at its check, you gain no information.<\/p><p>If it succeeds by 5 or more, it answers whatever it chooses, and you believe that wrong answer to be true. Your questions are purely telepathic inquiries, and the answers to those questions are imparted directly to your mind. You and the target don't need to speak the same language, though less intelligent creatures may yield up only appropriate sensory images in answer to your questions.<\/p>",
+    "name_zh": "精神质询",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你能够使用受术者的记忆与知识。每轮你能够尝试寻找一个问题的答案。成功通过意志豁免能够结束该法术。否则，该生物能够尝试一次唬骗检定，对抗DC为11 + 你的察言观色调整值。若唬骗检定失败，那么你就能够得到想要寻求的答案。若目标鉴定成功，那么你就不会得到信息。若目标的检定成功5点或更多的话，它就能够依照自己的选择进行回答，而你也会相信这个错误答案是真实的。你的问题完全是通过心灵感应进行问询，而得到的答覆也会直接传到你的心中。你和目标不需要以相同的语言进行对话，不过智力较低的生物也许只能提供适当的感官印象（sensory images）来回答你的问题。<\/p>",
+    "source": "OA"
+}

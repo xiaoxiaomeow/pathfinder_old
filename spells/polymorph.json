@@ -1,0 +1,29 @@
+{
+    "key": "polymorph",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/polymorph/",
+    "name": "Polymorph",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you choose)",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 min/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell transforms a willing creature into an animal, humanoid or elemental of your choosing; the spell has no effect on unwilling creatures, nor can the creature being targeted by this spell influence the new form assumed (apart from conveying its wishes, if any, to you verbally).<\/p><p>If you use this spell to cause the target to take on the form of an animal, the spell functions as beast shape II. If the form is that of an elemental, the spell functions as elemental body I. If the form is that of a humanoid, the spell functions as <i>alter self<\/i>. The subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject.<\/p>",
+    "name_zh": "变形术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (你想要变成的生物的一小块肢体)",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术会将一名自愿的生物变为一个动物、类人生物或者元素，具体由你选择；法术对非自愿生物没有效果，法术目标无法改变他所获得的新形态 (除非对你口头表达自身意愿之外)。<\/p><p>如果你使用该法术将目标变为动物的形态，它的功能如同‘<a href=\"spell.html?spell=beast shape II\">野兽形态II (beast shape II)<\/a>’。如果变为元素的形态，该法术的功能如同‘<a href=\"spell.html?spell=elemental body I\">元素形态I (elemental body I)<\/a>’。如果变为类人生物的形态，该法术的功能如同‘<a href=\"spell.html?spell=alter self\">变身术 (alter self)<\/a>’。受术者可以选择以整轮动作变为正常的形态；这么做会立刻结束受术者的法术。<\/p>",
+    "source": "CRB"
+}

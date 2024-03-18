@@ -1,0 +1,24 @@
+{
+    "key": "false resurrection, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-resurrection/",
+    "name": "False Resurrection, Greater",
+    "base": "false resurrection",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "descriptors":     [
+        "evil",
+        "lawful",
+        "ruse"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"cleric": 9},
+    "components": "V, S, M (diamond worth 25,000 gp), DF",
+    "duration": "permanent",
+    "text": "<p>This spell functions as <i>false resurrection<\/i> except that it calls a belier devil with the young simple template to possess the body and all parts of <i>false resurrection<\/i> that function like resurrection instead function like true resurrection.<\/p><p>Attempts to identify <i>greater false resurrection<\/i> with a skill check incorrectly identify it as true resurrection (see the ruse descriptor). A fooled viewer mistakes <i>greater false resurrection's<\/i> aura as the lingering aura of an instantaneous conjuration effect.<\/p><\/div>",
+    "name_zh": "高等虚假复生术",
+    "components_zh": "语言，姿势，材料（价值25000gp的钻石），法器",
+    "duration_zh": "永久",
+    "text_zh": "<p>该法术的功能如同虚假复生术（False Resurrection）一般，不过它呼唤的是具有幼体简单模板（young simple template）的虚妄魔（belier devil；Bestiary II）来占据尸体，而且所有在虚假复生术（False Resurrection）中如同复生术（Resurrection）一般的功能，在该法术中均如同完全复生术（True Resurrection）一般。\n尝试以技能检定鉴别高等虚假复生术时，会将其误认为完全复生术（True Resurrection）。详细请见192页诡计描述符（ruse descriptor）的说明。被愚弄的观察者会将高等虚假复生术的灵光误认为立即咒法效果（instantaneous conjuration effect）的残存灵光（lingering aura）。<\/p>",
+    "source": "UI"
+}

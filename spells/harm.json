@@ -1,0 +1,32 @@
+{
+    "key": "harm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/harm/",
+    "name": "Harm",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6,
+        "shaman": 7,
+        "witch": 7
+    },
+    "domains": {"destruction": 6},
+    "subdomains": {"decay": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Will half",
+    "spellResistance": "yes",
+    "text": "<p><i>Harm<\/i> charges a subject with negative energy that deals 10 points of damage per caster level (to a maximum of 150 points at 15th level). If the creature successfully saves, <i>harm<\/i> deals half this amount. <i>Harm<\/i> cannot reduce the target's hit points to less than 1.<\/p><p>If used on an undead creature, <i>harm<\/i> acts like <i>heal<\/i>.<\/p>",
+    "name_zh": "重伤术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>重伤术会将负能量充入一个受术者，这会造成每CL 10点伤害 (最高可达到15级时的150点)。如果该生物成功通过豁免，则重伤术只会造成一半伤害，但此时该法术无法让目标的HP降至1点以下。<\/p><p>当作用于不死生物时，其作用如同‘<a href=\"spell.html?spell=heal\">医疗术 (heal)<\/a>’一般。<\/p>",
+    "source": "CRB"
+}

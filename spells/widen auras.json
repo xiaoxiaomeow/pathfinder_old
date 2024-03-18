@@ -1,0 +1,25 @@
+{
+    "key": "widen auras",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/widen-auras/",
+    "name": "Widen Auras",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "antipaladin": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>The range of your antipaladin or paladin auras doubles. For example, if you're a paladin, your aura of courage affects allies within 20 feet instead of within 10 feet.<\/p>",
+    "name_zh": "灵光扩展",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级（可解消）",
+    "text_zh": "<p>你的反圣武士或圣武士灵光的范围加倍。举例说明：若你是圣武士，你的勇气灵光（Aura of Courage）能够影响20尺范围内的盟友，而非原本的10尺。<\/p>",
+    "source": "ACG"
+}

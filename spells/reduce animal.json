@@ -1,0 +1,28 @@
+{
+    "key": "reduce animal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reduce-animal/",
+    "name": "Reduce Animal",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 2,
+        "ranger": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one willing animal of Small, Medium, Large, or Huge size",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like <i>reduce person<\/i>, except that it affects a single willing animal. Reduce the damage dealt by the animal's natural attacks as appropriate for its new size (see <b>Table: Tiny and Large Weapon Damage<\/b> to adjust damage for size).<\/p><table border=\"1\" cellpadding=\"5\"><caption>Table: Weapon Damage Size Conversion<\/caption><thead><tr><th class=\"text\">Tiny Weapon Damage<\/th><th class=\"text\">Small Weapon Damage<\/th><th class=\"text\">Medium Weapon Damage<\/th><th class=\"text\">Large Weapon Damage<\/th><th class=\"text\">Huge Weapon Damage<\/th><\/tr><\/thead><tbody><tr><td class=\"marker\">—<\/td><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><\/tr><tr><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><\/tr><tr><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><\/tr><tr><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">1d12<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">2d4<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><td class=\"number\">4d8<\/td><\/tr><tr><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">2d10<\/td><td class=\"number\">4d8<\/td><td class=\"number\">6d8<\/td><\/tr><\/tbody><\/table>",
+    "name_zh": "动物缩小术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "一个小型, 中型, 大型或巨型体型的自愿动物",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=reduce person\">缩小术 (reduce person)<\/a>’一般，不过它会影响一只自愿的动物。按照它的新体型减小动物的天生武器所能造成的伤害 (见装备部分体型对伤害的调整)。<\/p>",
+    "source": "CRB"
+}

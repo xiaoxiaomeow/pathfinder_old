@@ -1,0 +1,29 @@
+{
+    "key": "cultural adaptation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cultural-adaptation/",
+    "name": "Cultural Adaptation",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "medium": 1,
+        "occultist": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a document written in the language of the culture to be emulated)",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "text": "<p>When casting this spell, you must concentrate on a culture or subculture to which you wish to adapt. If you speak the native language of the culture in question, then for the duration of this spell, you speak the language with a native accent. The spell doesn't teach you the language in question, but can be combined with tongues or a similar spell. Your body language and gestures mark you as a native of the culture, and you unconsciously make small decisions that help you blend in. Combined, these grant you a +2 circumstance bonus on Diplomacy checks to influence members of the culture to which you have adapted, which doesn't stack with other circumstance bonuses you might possess by virtue of being a member of the chosen culture. You also gain a +2 circumstance bonus on Disguise checks to pass yourself off as if you were a member of the culture, if you are not.<\/p><p>This doesn't provide benefits when disguising yourself as a specific member of the culture, though it negates any circumstance penalties you might otherwise have taken due to not acting appropriately for that person's culture. Finally, the DCs of enchantment (charm) spells you cast against natives of the culture to which you are attuned increase by 1.<\/p><\/div>",
+    "name_zh": "适应文化",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（1份文件，用法术要模仿的文化所使用的语言书写）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>当你施放该法术时，必须专注于自身想要适应的那种文化或亚文化。如果你说出上述文化中的本地语言（native language），那么在法术的持续时间内，在说这种语言时会带有本地口音。该法术不会教会你上述语言，但是你可以将该法术与巧言术（Tongues）或类似的法术结合使用。你的肢体语言与姿态都会表现出属于上述文化的特征，而且你会不自觉地做出微小的决定，来帮助你融入到该文化中。上述内容结合起来，使你在尝试影响相应文化的成员时，交涉检定获得+2环境加值；如果你会由于身为相应文化的成员而获得其他环境加值的话，该法术的加值不会与其叠加。你还会在以易容检定将自身伪装成该文化的成员时获得+2环境加值（前提是你本身并非属于该文化）。\n当你将自身伪装成对应文化的特定成员时，该法术不会提供好处，不过它可以让你免受由于行为看起来与这个特定成员的文化不符而带来的环境惩罚。最后，当你对相应文化的成员施放附魔系（魅惑）法术时，其DC会增加1点。<\/p>",
+    "source": "UI"
+}

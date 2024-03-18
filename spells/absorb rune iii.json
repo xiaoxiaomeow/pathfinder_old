@@ -1,0 +1,22 @@
+{
+    "key": "absorb rune iii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/absorb-rune-i/",
+    "name": "Absorb Rune III",
+    "base": "absorb rune i",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 9,
+        "sorcerer/wizard": 9
+    },
+    "text": "<p>This spell functions like absorb rune I, but it can affect runes equivalent to a spell of 8th level or lower.<\/p>",
+    "name_zh": "吸收符文 III",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一只价值25gp的白色丝绸手套）",
+    "target_zh": "一个法术效果",
+    "duration_zh": "立即+1分钟/等级（见下文）",
+    "savingThrow_zh": "意志无效（无害）",
+    "spellResistance_zh": "是（无害）",
+    "text_zh": "<p>该法术如同吸收符文 I一样作用，但它可以影响效果等同于8环或以下法术的符文。<\/p>",
+    "source": "AG"
+}

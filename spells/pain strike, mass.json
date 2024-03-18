@@ -1,0 +1,23 @@
+{
+    "key": "pain strike, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pain-strike/",
+    "name": "Pain Strike, Mass",
+    "base": "pain strike",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "evil",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "psychic": 4,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "text": "<p>This spell works like <i>pain strike<\/i>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体痛苦打击",
+    "target_zh": "每等级1名活物，互相之间不超过30尺",
+    "text_zh": "<p>这个法术工作方式如同痛苦打击 (pain strike)，除了上述部分。\nPaladin's Sacrifice<\/p>",
+    "source": "APG"
+}

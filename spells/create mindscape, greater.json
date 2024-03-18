@@ -1,0 +1,23 @@
+{
+    "key": "create mindscape, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-mindscape/",
+    "name": "Create Mindscape, Greater",
+    "base": "create mindscape",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "mesmerist": 6,
+        "psychic": 6,
+        "sorcerer/wizard": 7
+    },
+    "target": "one creature/level",
+    "duration": "1 day/level this spell functions like create mindscape, except it can affect more creatures, the mindscape lasts longer, and you can choose the mindscape's magic trait. you can also direct a number of believable creatures at a time equal to your caster level.",
+    "text": "<p><b>Target<\/b> one creature/level<\/p><p><b>Duration<\/b> 1 day/level this spell functions like create mindscape, except it can affect more creatures, the mindscape lasts longer, and you can choose the mindscape's magic trait. You can also direct a number of believable creatures at a time equal to your caster level.<\/p><p><i>Greater create mindscape<\/i> can be made permanent with a permanency spell by a caster of 15th level or higher at a cost of 17,500 gp. You and other creatures aware of a permanent mindscape can come and go using the mindscape door spell.<\/p><\/div>",
+    "name_zh": "高等塑造心像结界",
+    "target_zh": "每级1个生物",
+    "duration_zh": "1天/等级",
+    "text_zh": "<p>该法术的功能如同塑造心像结界（Create Mindscape）一般，不过它可以影响更多个生物，心像结界的存续时间也更久，而且你能够选择心像结界的魔法特性（magic trait）。同一时间你还能够指定一定数量的生物成为能够让人相信（believable）的寻在，数量与你的施法者等级相同。高等塑造心像结界可以被魔法恒定术（permanency）所恒定，这需要15级或更高等级的施法者以及17500gp的开销。你和其他了解这个永久心像结界存在的生物能够使用心像门（Mindscape Door）法术进入和离开心像结界。<\/p>",
+    "source": "OA"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "sunstalker",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sunstalker/",
+    "name": "Sunstalker",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 3,
+        "ranger": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>A touched creature becomes invisible (as per invisibility) as long as it is in direct sunlight (or bright light shed by a daylight spell). If an action the target creature takes causes the invisible creature to become visible but does not end the sunstalker spell's duration, the creature can use this spell's magic to become invisible again as a standard action as long as it stands in an area of sunlight (as defined above). The creature gains only concealment (20% miss chance) in normal light.<\/p>",
+    "name_zh": "日隐术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>被接触的生物只要在阳光直射下(或日光法术投射的强光下)就会隐形。如果目标生物采取的动作使自身的隐形解除，但日隐术的持续时间还未结束，则只要该生物处于阳光照射区域(如上所述)，该生物就可以使用该法术的力量以一个标准动作再次隐形。受到该法术影响的生物在正常光线下只获得隐蔽(20%失手率)。<\/p>",
+    "source": "AG"
+}

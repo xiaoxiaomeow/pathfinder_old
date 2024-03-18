@@ -1,0 +1,24 @@
+{
+    "key": "positive pulse, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/positive-pulse/",
+    "name": "Positive Pulse, Greater",
+    "base": "positive pulse",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "paladin": 3,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "spiritualist": 4,
+        "summoner": 3,
+        "witch": 4
+    },
+    "area": "15-ft.-radius burst",
+    "text": "<p>This spell functions like positive pulse, except that the damage dealt increases to 3d6 plus your caster level, and the bonus on saving throws increases to +8.<\/p><\/div>",
+    "name_zh": "高等正能量脉冲",
+    "area_zh": "15英尺半径爆发",
+    "text_zh": "<p>这种法术类似于正能量脉冲（Positive Pulse），不过造成的伤害提升为3d6点+施法者等级，豁免检定的加值提升为+8。<\/p>",
+    "source": "PA"
+}

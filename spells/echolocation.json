@@ -1,0 +1,28 @@
+{
+    "key": "echolocation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/echolocation/",
+    "name": "Echolocation",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["sonic"],
+    "levels":     {
+        "alchemist": 4,
+        "bard": 4,
+        "druid": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "text": "<p>You can perceive the world by creating high-pitched noises and listening to their echoes. This gives you blindsight to a range of 40 feet. The echo-producing noises are too high-pitched to be heard by most creatures, and can only be detected by dragons, other creatures with this ability (such as bats), and creatures with hearing-based blindsense or blindsight. You cannot use this ability if you are deaf, and cannot detect anything in an area of silence.<\/p>",
+    "name_zh": "回声定位",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>持续时间    10分钟/等级<\/p><p>这个法术会创造出高频声波，并且赋予你从回声中感知周围环境的能力。它会赋予你40尺盲视 (Blindsight) 能力。<\/p><p>用于回声定位的音波频率过高，大部分生物无法听到，只有龙、其他有类似能力的生物 (如蝙蝠) 以及拥有基于声音的盲视或盲感能力的生物可以听到。<\/p><p>你不能在耳聋状态下使用该法术的能力，也不能探测到被沉默术 (silence) 影响的区域。<\/p>",
+    "source": "UM"
+}

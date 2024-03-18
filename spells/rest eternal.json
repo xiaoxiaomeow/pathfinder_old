@@ -1,0 +1,32 @@
+{
+    "key": "rest eternal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rest-eternal/",
+    "name": "Rest Eternal",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "druid": 5,
+        "shaman": 5,
+        "witch": 5
+    },
+    "subdomains": {"ancestors": 4},
+    "castingTime": "1 round",
+    "components": "V, S, M/DF (ashes and a vial of holy or unholy water)",
+    "range": "touch",
+    "duration": "permanent",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. <i>Rest eternal<\/i> cannot be dispelled, but it can be negated with <i>remove curse<\/i> or break enchantment.<\/p>",
+    "name_zh": "永恒安眠",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势, 材料/法器 (灰尘和一份圣水/邪水)",
+    "range_zh": "接触",
+    "target_zh": "接触到的一个死掉的生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你对一个死去的生物施放诅咒，阻止它的精神返回肉体。<\/p><p>任何想要施展法术与尸体交谈、将尸体复活，或是想要将其变成一个亡灵生物的人，必须进行一次DC等于11加你的施法者等级的施法者等级检定。<\/p><p>永恒安眠不会被驱散，不过可以被移除诅咒 (remove curse) 或破除结界 (break enchantment) 解除。<\/p>",
+    "source": "APG"
+}

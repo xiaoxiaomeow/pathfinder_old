@@ -1,0 +1,27 @@
+{
+    "key": "hide from undead",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hide-from-undead/",
+    "name": "Hide from Undead",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "10 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>Undead cannot see, hear, or smell creatures warded by this spell. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Non-intelligent undead creatures (such as skeletons or zombies) are automatically affected and act as though the warded creatures are not there. An intelligent undead creature gets a single Will saving throw. If it fails, the subject can't see any of the warded creatures. If it has reason to believe unseen opponents are present, however, it can attempt to find or strike them. If a warded creature attempts to channel positive energy, turn or command undead, touches an undead creature, or attacks any creature (even with a spell), the spell ends for all recipients.<\/p>",
+    "name_zh": "亡灵无视术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "每等级一个接触到的生物",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>不死生物无法看、听或闻到被该法术保护的生物。就算是特异能力或是超自然能力的感觉方式，比如盲感、盲视、灵敏嗅觉和颤动感知，都无法侦测或是定位受术者。无智能的不死生物 (比如骷髅或丧尸) 自动受该法术影响，就像受术者完全不存在一样行动。智能不死生物可以做单次意志豁免检定，如果失败则无法发现任何被保护的生物。但是，若有任何迹象让他相信有隐形的家伙存在，他会试着去找到或攻击他们。如果受术者尝试引导正能量、驱散或命令不死生物、触碰不死生物或是攻击任何生物 (即便通过法术)，所有受术者的该法术都会结束。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "sun metal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sun-metal/",
+    "name": "Sun Metal",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "paladin": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one melee weapon",
+    "duration": "1 round/level (see text)",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>The target weapon ignites into flame that does not hurt the weapon or the wielder, but damages those hit by the weapon. When the weapon's wielder hits with this weapon, it deals an additional 1d4 points of fire damage. This damage is not multiplied in the case of a critical hit. This effect immediately ends if the weapon is submerged in water. This effect does not stack with the flaming or flaming burst weapon special ability or any other effect that grants the weapon extra fire damage. It does not function on weapons with the frost or icy burst weapon special ability or any other effect that grants a weapon extra cold damage.<\/p>",
+    "name_zh": "阳炎武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "一把近战武器",
+    "duration_zh": "1轮/等级 (见下文)",
+    "savingThrow_zh": "强韧，通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你让一把武器被火焰包裹，但它不会伤害到武器本身和持有者，而是伤害被击中的目标。<\/p><p>当持有者用这把武器命中时，它造成额外的1d4点火焰伤害。这些伤害不会在重击中翻倍。<\/p><p>如果武器被浸没在水中，法术效果立刻结束。<\/p><p>法术效果不会和火焰或焰爆武器特效，或任何使武器获得额外火焰伤害的效果叠加。<\/p><p>同时，它也不会在拥有冻寒或冰爆武器等产生额外寒冷伤害的效果的武器上生效。<\/p>",
+    "source": "UC"
+}

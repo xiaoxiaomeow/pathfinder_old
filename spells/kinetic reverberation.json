@@ -1,0 +1,30 @@
+{
+    "key": "kinetic reverberation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/kinetic-reverberation/",
+    "name": "Kinetic Reverberation",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (rubber tree sap)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>This spell converts the momentum and force from melee attacks made against the target of the spell, reflecting them back upon the attacker's weapon. After making a successful melee attack against the target, an attacker must make a Fortitude saving throw for the weapon used. If the weapon fails the save, it takes damage equal to the damage rolled against the target. Creatures using natural attacks or unarmed strikes are unaffected by this spell.<\/p>",
+    "name_zh": "反作用力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (橡树树液)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>这个法术会反射受术者造成的近战攻击的势头和力量，将其作用于攻击者自己的武器上。<\/p><p>当目标做出一次成功的近战攻击，攻击者必须让其武器做出一次强韧豁免检定。如果武器豁免失败，它会受到等于这次近战攻击伤害的伤害。<\/p><p>使用天生武器或徒手打击进行攻击的生物不会受到该法术的影响。<\/p>",
+    "source": "UC"
+}

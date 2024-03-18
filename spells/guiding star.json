@@ -1,0 +1,27 @@
+{
+    "key": "guiding star",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/guiding-star/",
+    "name": "Guiding Star",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 3,
+        "psychic": 3,
+        "ranger": 2,
+        "shaman": 2,
+        "witch": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (a spool of thread or string)",
+    "range": "personal",
+    "duration": "1 day/level (d)",
+    "text": "<p>You form a bond with your surroundings when you cast this spell. For the remaining duration of the spell you can always, as a standard action, determine your approximate distance from that area as well as the direction you must travel in order to reach it. You cannot determine the location of the area if you are on a different plane. The area counts as &#8220;very familiar&#8221; for the purposes of <i>teleport<\/i> or similar spells. You can only attune yourself to one location at a time. If you cast the spell at another spot you lose the ability to locate your original area.<\/p>",
+    "name_zh": "群星的引导",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言, 姿势, 材料 (一小截线或绳子)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1天/等级 (可解消)",
+    "text_zh": "<p>你通过这个法术与周围的环境紧密的联系在一起。<\/p><p>在法术持续期间，你可以随时以一个标准动作来确认从你的所在地到你的目的地之间的大概距离和方向，你必须正在前往这个地点。<\/p><p>如果你与目标地点处于不同位面，你无法确认目标地区的所在位置。<\/p><p>你对目标地区必须‘非常熟悉’，至少能够让你可能使用传送术或类似法术。<\/p><p>你同一时间只能选择一个目标地点。如果你施法选择了另一个目标地点，你不会再得知原目的地的位置信息。<\/p>",
+    "source": "APG"
+}

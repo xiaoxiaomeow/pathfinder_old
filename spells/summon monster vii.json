@@ -1,0 +1,28 @@
+{
+    "key": "summon monster vii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-monster/",
+    "name": "Summon Monster VII",
+    "base": "summon monster i",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 7,
+        "psychic": 7,
+        "sorcerer/wizard": 7,
+        "summoner": 5,
+        "unchained summoner": 6,
+        "witch": 7
+    },
+    "elementalSchools":     {
+        "air": 7,
+        "earth": 7,
+        "fire": 7,
+        "water": 7
+    },
+    "bloodlines": {"aquatic": 7},
+    "text": "<\/div><p>This spell functions like <i>summon monster I<\/i>, except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list.<\/p>",
+    "name_zh": "召唤怪物 VII",
+    "text_zh": "<p>该法术的功能如同‘召唤怪物I’，不过你能够召唤一个来自7环列表的生物、1d3个来自6环列表的同类生物、或者1d4+1个来自更低等环列表且同一种类的生物。<\/p>",
+    "source": "CRB"
+}

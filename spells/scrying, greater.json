@@ -1,0 +1,26 @@
+{
+    "key": "scrying, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scrying/",
+    "name": "Scrying, Greater",
+    "base": "scrying",
+    "school": "divination",
+    "subSchool": ["scrying"],
+    "levels":     {
+        "bard": 6,
+        "cleric/oracle": 7,
+        "druid": 7,
+        "shaman": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "mysteries": {"intrigue": 7},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "duration": "1 hour/level",
+    "text": "<p>This spell functions like scrying, except as noted above. Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues.<\/p><\/div>",
+    "name_zh": "高等探知",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "text_zh": "<p>除了上面注明的内容之外，这个法术功能与‘<a href=\"spell.html?spell=scrying\">探知 (scrying)<\/a>’类似。另外，所有后述法术都必然可以透过魔法感受器来发挥作用：‘<a href=\"spell.html?spell=detect chaos\">侦测混乱 (detect chaos)<\/a>’、‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’、‘<a href=\"spell.html?spell=detect good\">侦测善良 (detect good)<\/a>’、‘<a href=\"spell.html?spell=detect law\">侦测秩序 (detect law)<\/a>’、‘<a href=\"spell.html?spell=detect magic\">侦测魔法 (detect magic)<\/a>’、‘<a href=\"spell.html?spell=message\">传讯术 (message)<\/a>’、‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’和‘<a href=\"spell.html?spell=tongues\">巧言术 (tongues)<\/a>’。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,37 @@
+{
+    "key": "calm animals",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/calm-animals/",
+    "name": "Calm Animals",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 1,
+        "psychic": 1,
+        "ranger": 1,
+        "shaman": 1
+    },
+    "domains": {"animal": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell soothes and quiets animals, rendering them docile and harmless. Only ordinary animals (those with Intelligence scores of 1 or 2) can be affected by this spell. All the subjects must be of the same kind, and no two may be more than 30 feet apart. The maximum number of HD of animals you can affect is equal to 2d4 + caster level.<\/p><p>The affected creatures remain where they are and do not attack or flee. They are not helpless and defend themselves normally if attacked. Any threat breaks the spell on the threatened creatures.<\/p>",
+    "name_zh": "安抚动物",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "彼此相距不超过30尺的动物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术能平复动物的情绪，使它们变得温顺而无害。只有普通动物 (智力属性为1或2的动物) 会受该法术影响。所有受术动物必须种类相同，且任意两只动物之间的距离不能超过30尺。你能够使用该法术影响的动物HD总和最高为 {2d4+CL}。<\/p><p>被影响的动物会留在原地，不会攻击或逃跑。它们并非无助，在受到攻击时仍会正常保卫自己。任何威胁都会打破施加至被威胁生物的法术。<\/p>",
+    "source": "CRB"
+}

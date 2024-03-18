@@ -1,0 +1,30 @@
+{
+    "key": "litany of weakness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-weakness/",
+    "name": "Litany of Weakness",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["language-dependent"],
+    "levels":     {
+        "antipaladin": 1,
+        "inquisitor": 1
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round",
+    "savingThrow": "no",
+    "spellResistance": "yes",
+    "text": "<p>Your litany proclaims your target weak, sapping its strength. The target is fatigued for 1 round. While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "name_zh": "虚弱祷言",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你的祷言致使目标陷入虚弱，削弱他的力量。目标将会疲乏一轮。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "magic missile",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-missile/",
+    "name": "Magic Missile",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "bloodrager": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>A missile of magical energy darts forth from your fingertip and strikes its target, dealing 1d4+1 points of force damage.<\/p><p>The missile strikes unerringly, even if the target is in melee combat, so long as it has less than total cover or total concealment. Specific parts of a creature can't be singled out. Objects are not damaged by the spell.<\/p><p>For every two caster levels beyond 1st, you gain an additional missile &#8211; two at 3rd level, three at 5th, four at 7th, and the maximum of five missiles at 9th level or higher. If you shoot multiple missiles, you can have them strike a single creature or several creatures. A single missile can strike only one creature. You must designate targets before you check for spell resistance or roll damage.<\/p>",
+    "name_zh": "魔法飞弹",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "至多5个生物，任意两者之间的距离不超过15尺",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一颗以魔法能量构成的飞弹从你的指尖射出并攻击目标，对目标造成1d4+1点力场伤害。<\/p><p>只要目标不具有全掩蔽或全隐蔽，飞弹都会精确命中目标，即便是在近战中也一样。你不能指定飞弹攻击生物的特定部位。物体不会被该法术所伤害。<\/p><p>1级之后，你的CL每提升2级可以多发射一颗飞弹——3级时2颗，5级时3颗，7级时4颗，9级或更高等级时为最多的5颗。如果你射出多颗飞弹，你可以决定让所有飞弹攻击同一个目标，也可以决定让飞弹射向不同目标，但每颗飞弹只能击中一个生物。你必须在进行判断法术抗力和伤害检定前决定目标。<\/p>",
+    "source": "CRB"
+}

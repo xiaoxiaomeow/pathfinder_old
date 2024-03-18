@@ -1,0 +1,17 @@
+{
+    "key": "inflict critical wounds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-critical-wounds/",
+    "name": "Inflict Critical Wounds",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 4,
+        "inquisitor": 4,
+        "shaman": 4,
+        "witch": 5
+    },
+    "domains": {"destruction": 4},
+    "text": "<p>This spell functions like <i>inflict light wounds<\/i>, except that you deal 4d8 points of damage + 1 point per caster level (maximum +20).<\/p>",
+    "name_zh": "造成致命伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds\">造成轻伤 (inflict light wounds)<\/a>’一般，不过你能造成 {4d8+CL (最高+20)} 点伤害。<\/p>",
+    "source": "CRB"
+}

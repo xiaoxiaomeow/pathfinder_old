@@ -1,0 +1,32 @@
+{
+    "key": "infernal challenger",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/infernal-challenger/",
+    "name": "Infernal Challenger",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "descriptors": ["lawful"],
+    "levels":     {
+        "cleric": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 3
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (an iron badge or medallion)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one called bearded devil and testing ground; see text",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell summons a bearded devil, causing it to appear where you designate. The area within a 50-foot radius of where the devil appears is ringed with a smoldering, red glow. This area is the testing ground. To successfully cast this spell, no creature other than the devil's challenger (see below) can be within this area while the spell is being cast.<\/p><p>On the round it appears, the devil identifies itself (typically by name and with a brief recitation of honors) and states it is prepared to do battle with a sole mortal champion. In the same round, either you or a creature you designate while casting the spell must identify the devil's challenger. For the duration of the spell, the devil does everything in its power to kill the challenger. You do not control the devil or have any influence over how it conducts itself in battle, but the devil cannot leave the testing ground. Unlike with summon monster and similar spells, you cannot dismiss the devil. Rather, the conjured devil remains until any one of the following criteria is met: it is reduced below 0 hit points or otherwise defeated, its challenger is slain, its challenger leaves the testing ground, or it takes damage from any source other than its challenger. Upon any of these occurrences, the devil vanishes.<\/p><p>Conjuring a devil is typically an evil act. If cast for any purpose besides the administering of a Hell Knight test, this spell has the evil descriptor.<\/p>",
+    "name_zh": "炼狱试炼",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材/法器（一个铁质徽章或奖章）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "一个被强征来的魔鬼出现在测试地点",
+    "duration_zh": "1分钟/级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>学派 咒法系（呼唤）【秩序】\n环位 牧师3，术士/法师3，召唤师3\n施法时间 1轮\n成分 语言，姿势，器材/法器（一个铁质徽章或奖章）\n距离 近距（25尺+5尺/2级）\n区域 一个被强征来的魔鬼出现在测试地点\n持续时间 1分钟/级\n豁免 无\n法术抗力 否\n这个法术会强行束缚一个被召唤而来的魔鬼，并让它出现在你指定的地点。魔鬼出现的50尺半径区域会出现环状的浓烟和红光。这里便是试炼场所。要成功施放该法术，在法术施放过程中，除了该魔鬼的挑战者外任何生物都不能位于这片区域中。\n在试炼开始的回合，这名魔鬼会了解到当前情况并进行自我介绍（通常是它的名字和事迹），同时做好成为唯一生还者的战前准备；同轮，你必须决定好这名魔鬼的挑战者。在法术持续时间内，魔鬼会尽全力杀死它的挑战者。你无法控制或是指挥这个魔鬼的战斗方法，它也无法离开试炼的场地。不同于召唤怪物或是其他类似法术，你无法解散这名魔鬼。这个被召唤来的魔鬼会在达成以下条件中任意一个时被遣返：魔鬼的生命值低于0或是被击败；试炼者被杀死；试炼者离开考核场地；或是魔鬼受到了来自其他人的伤害。\n召唤魔鬼是一项邪恶的行为。当你将这个法术用于试炼以外的场合时，它被视为邪恶法术。<\/p>",
+    "source": "AG"
+}

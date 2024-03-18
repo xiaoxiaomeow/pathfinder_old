@@ -1,0 +1,29 @@
+{
+    "key": "miasmatic form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/miasmatic-form/",
+    "name": "Miasmatic Form",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors":     [
+        "air",
+        "poison"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 4
+    },
+    "components": "S, M (contact or inhaled poison worth 100 gp)",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like gaseous form, except the target's vaporous body is dangerous to creatures that touch it. A creature can make a Fortitude save (DC 14 + your Intelligence modifier) on its turn to resist the vapors. When you cast this spell, you select one of the following options.<\/p><p style=\"margin-left:40px\"><i>Stinking cloud<\/i>: The target's body nauseates creatures that fail their saving throws, as stinking cloud (Fort negates, see text). This form of the spell does not require a material component.<\/p><p style=\"margin-left:40px\"><i>Poisonous cloud<\/i>: The target's body is deadly poison, dealing 1d2 points of Constitution damage to creatures that fail their saves (Fortitude halves). This form of the spell requires a material component.<\/p>",
+    "name_zh": "瘴气形态",
+    "race_zh": "风元素裔",
+    "components_zh": "姿势, 材料 (价值100gp的接触或吸入型毒药)",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>除了目标那模糊的身体对接触其的生物非常危险以外，该法术的功能如同‘气化形体’。生物能够在他的回合进行DC为“14+智力修正”的强韧豁免检定抵御瘴气。当你施放该法术时，可以在以下效果中选择一个：<\/p><p>臭云：目标的身体会使在豁免检定中失败的生物反胃，如同‘臭云术’一般 (强韧通过则无效，见‘臭云术’描述)。使用法术变为该形态不需要材料成分。<\/p><p>毒云：目标的身体成为致命的毒素，在豁免检定中失败的生物会受到1d2点体质伤害 (强韧，通过则减半)。使用法术变为该形态需要材料成分。<\/p>",
+    "source": "ARG"
+}

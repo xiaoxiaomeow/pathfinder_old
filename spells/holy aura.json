@@ -1,0 +1,29 @@
+{
+    "key": "holy aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-aura/",
+    "name": "Holy Aura",
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels": {"cleric/oracle": 8},
+    "domains":     {
+        "glory": 8,
+        "good": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a tiny reliquary worth 500 gp)",
+    "range": "20 ft.",
+    "duration": "1 round/level (d)",
+    "savingThrow": "see text",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>A brilliant divine radiance surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by evil creatures, and causing evil creatures to become blinded when they strike the subjects. This abjuration has four effects.<\/p><ul>  <li>First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saves. Unlike <i>protection from evil<\/i>, this benefit applies against all attacks, not just against attacks by evil creatures.<\/li>  <li>Second, each warded creature gains spell resistance 25 against evil spells and spells cast by evil creatures.<\/li>  <li>Third, the abjuration protects the recipient from possession and mental influence, just as <i>protection from evil<\/i> does.<\/li>  <li>Finally, if an evil creature succeeds on a melee attack against a creature warded by a <i>holy aura<\/i>, the offending attacker is blinded (Fortitude save negates, as <i>blindness/deafness<\/i>, but against <i>holy aura's<\/i> save DC).<\/li> <\/ul>",
+    "name_zh": "圣洁灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (价值500gp的小型圣物匣)",
+    "range_zh": "20尺",
+    "target_zh": "以你为中心, 半径20尺爆发区域内的每等级1个生物",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>一道辉煌圣洁的光辉环绕着受术者，保护他们免受打击，让他们能够抵抗邪恶生物施放的法术，让击中受术者的邪恶生物目盲。这道防护有四个效果。<\/p><p>首先，每个被保护的生物的AC获得+4偏斜加值，豁免获得+4抗力加值。与‘<a href=\"spell.html?spell=protection from evil\">防护邪恶 (protection from evil)<\/a>’不同，这益处对所有的攻击都有效，而不仅仅对抗邪恶生物的攻击。<\/p><p>其次，每个受术者在对抗邪恶法术和邪恶生物施放的法术时获得法术抗力25。<\/p><p>第三，该防护能保护受术者免受占据和影响精神效果，就如同防护邪恶一样。<\/p><p>最后，如果一个邪恶生物成功利用近战攻击击中受术者，该攻击者会目盲。如同‘<a href=\"spell.html?spell=blindness/deafness\">目盲/耳聋术 (blindness/deafness)<\/a>’一样，强韧通过则无效，但使用圣洁灵光的豁免DC。<\/p>",
+    "source": "CRB"
+}

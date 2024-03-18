@@ -1,0 +1,32 @@
+{
+    "key": "status",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/status/",
+    "name": "Status",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "cleric/oracle": 2,
+        "medium": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "spiritualist": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>When you need to keep track of comrades who may get separated, <i>status<\/i> allows you to mentally monitor their relative positions and general condition. You are aware of direction and distance to the creatures and any conditions affecting them: unharmed, wounded, disabled, staggered, unconscious, dying, nauseated, panicked, stunned, poisoned, diseased, confused, or the like. Once the spell has been cast upon the subjects, the distance between them and the caster does not affect the spell as long as they are on the same plane of existence. If a subject leaves the plane, or if it dies, the spell ceases to function for it.<\/p>",
+    "name_zh": "关照术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "每3个等级1个接触到的活物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>当你要和即将分离的同伴保持关注时，关照术使你可以从心中察觉同伴的相对位置和大致状态。你可以感觉到受术者的方向、距离和他们所承受的任何状态，如：未受伤 (unharmed)、受伤 (wounded)、瘫痪、恍惚、昏迷、濒死、反胃、恐慌、震慑、毒素、疾病、困惑等等。一旦法术施展在受术者身上，那么只要施法者与受术者处于同一位面，他们之间的距离远近不影响法术效果。若一个受术者离开该位面或死亡，则法术结束该受术者的部分。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "fins to feet",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fins-to-feet/",
+    "name": "Fins to Feet",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "willing creature touched",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You transform the target's fins, flippers, or tail into legs and feet, allowing it to walk on land. The target loses its swim speed but gains a base speed appropriate for a humanoid of its size (speed 30 if a Medium or larger creature, speed 20 if Small). If the creature is immersed in water for 1 round, the transformation reverts, allowing it to swim normally. One round after leaving the water, the transformation occurs again, allowing it to walk.<\/p><p>This spell only works on merfolk, tritons, seals, fish, and other creatures whose bodies or limbs are used mainly for swimming and are not suitable for walking. It does not give the target the ability to breathe air.<\/p>",
+    "name_zh": "化鳍为趾",
+    "race_zh": "人鱼",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的自愿生物",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将目标的鱼鳍、脚蹼或者尾巴转化为腿部与脚部，使其能够在陆地上行走。目标失去他的游泳速度，但是获得相当于他体型的类人生物的基本速度 (中型或大型获得30尺速度，小型获得20尺)。如果该生物浸泡在水中1轮，变化的效果就会恢复，并允许其正常游泳。而当他离开水1轮之后，变化会再度发生，使其能够行走。<\/p><p>该法术只对人鱼、梭螺鱼人、海豹、鱼类以及其他身体或肢体适于游泳但是不适于行走的生物有效。但是该法术不会给予目标在空气中呼吸的能力。<\/p>",
+    "source": "ARG"
+}

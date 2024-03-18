@@ -1,0 +1,31 @@
+{
+    "key": "break, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/break/",
+    "name": "Break, Greater",
+    "base": "break",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 4,
+        "occultist": 6,
+        "psychic": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (an unbroken platinum tuning fork worth 100 gp)",
+    "range": "30 ft.",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes (object)",
+    "text": "<p>You release a burst of destructive energy. Each Medium or smaller object in the area gains the broken condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.<\/p><\/div>",
+    "name_zh": "高等破坏术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，材料（价值100gp的完整白金音叉）",
+    "range_zh": "30尺",
+    "target_zh": "以你为中心，半径30尺爆发范围内的所有中型或更小的物体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你释放出爆发性的破坏能量。除非成功通过强韧豁免检定，否则法术区域内的每个中型或更小的物体都会获得破损（broken）状态。破损物体在豁免失败后，则会被破坏（destroyed）作为替代。魔法物品也会因该法术而破损，但是不会被破坏。你本人随身携带的物体不会免疫该效果。<\/p>",
+    "source": "UI"
+}

@@ -1,0 +1,25 @@
+{
+    "key": "aspect of the bear",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-bear/",
+    "name": "Aspect of the Bear",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>You take on an aspect of a bear. You gain a +2 enhancement bonus to natural armor and a +2 enhancement bonus on CMB rolls. You can also perform bull rush, grapple, and overrun combat maneuvers without provoking attacks of opportunity.<\/p>",
+    "name_zh": "熊之型",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你呈现出熊的一些特征。你的天生防御与CMB检定获得+2增强加值。此外你在进行冲撞、擒抱以及闯越战技时不会引起藉机攻击。<\/p>",
+    "source": "APG"
+}

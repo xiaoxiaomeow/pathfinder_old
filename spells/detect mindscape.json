@@ -1,0 +1,31 @@
+{
+    "key": "detect mindscape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-mindscape/",
+    "name": "Detect Mindscape",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "medium": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p>This spell functions similarly to detect thoughts, allowing you to sense when one or more creatures' consciousnesses are inside a mindscape. The amount of information revealed depends on how long you study a particular subject.<\/p>",
+    "name_zh": "侦测心像结界",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "60尺",
+    "area_zh": "：锥形发散区域",
+    "duration_zh": "专注，至多1分钟/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能类似于侦测思想（Detect Thoughts），使你能够感知到一个或更多生物的意识正处于心像结界（mindscape）之内。你所能了解到的信息量取决于投入多少时间来研究特定受术者。\n第一轮（First Round）：你能够感知到是否有心像结界的存在。要侦测到心像结界，必须至少有一个身处于心像结界内的生物位于法术的锥形区域内。\n第二轮（Second Round）：你能够感知到心像结界内的意识的数量。要计算出人数，并不需要心像结界内的所有生物都身处于法术的锥形区域内；只需要有一名处于心像结界内的生物在法术区域内便可能读取到这条信息。不过如果你无法看到这些生物本体，就无法判断出这些生物的具体位置。你只能以一种抽像的方式感知到它们的存在。\n第三轮（Third Round）：你能够感知到心像结界内正在发生什么。控制心像结界的生物能够感知到你的行为，而且当它不希望你看到心像结界内的情况时，能够通过一次成功的意志豁免防止这种视觉效果。否则你能够间接地通过视觉进行感知，就好像透过窗户查看一般。如果有生物伪装了自己，那么你就只能看到该生物的心智伪装（Mental Masks），而非真正的样貌。\n每一轮，你都能够转向到一片新的区域来侦测心像结界。该法术能够穿过许多障碍，不过1尺厚的石材、1英吋厚的常见金属、一层很薄的铅或者3尺厚的木材或泥土能够阻挡该法术。\n如果你在心像结界内施放该法术的话，便会意识到自己正身处于心像结界之中。在第二轮，你能够侦测出心像结界内含有多少个意识，但是你无法在第三轮侦测出心像结界内的景象。<\/p>",
+    "source": "OA"
+}

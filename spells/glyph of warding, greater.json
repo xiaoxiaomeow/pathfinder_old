@@ -1,0 +1,16 @@
+{
+    "key": "glyph of warding, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glyph-of-warding/",
+    "name": "Glyph of Warding, Greater",
+    "base": "glyph of warding",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6
+    },
+    "domains": {"rune": 6},
+    "text": "<p>This spell functions like <i>glyph of warding,<\/i> except that a <i>greater blast glyph<\/i> deals up to 10d8 points of damage, and a <i>greater spell glyph<\/i> can store a spell of 6th level or lower.<\/p><p><i>Read magic<\/i> allows you to identify a <i>greater glyph of warding<\/i> with a DC 16 Spellcraft check.<\/p><p><i>Material Component<\/i>: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.<\/p><\/div>",
+    "name_zh": "高等守卫刻文",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’ 一般，不过高等爆裂刻文造成的伤害至多为10d8点，高等法术刻文至多储存6环或更低环位的法术。<\/p><p>‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’使你能够进行DC为16的法术辨识检定来鉴定高等守卫刻文。<\/p><p>材料成分：你需要使用熏香来绘制刻文，熏香必须之前洒上至少价值400gp的钻石尘。<\/p>",
+    "source": "CRB"
+}

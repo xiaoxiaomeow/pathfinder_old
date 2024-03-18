@@ -1,0 +1,29 @@
+{
+    "key": "absolution",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/absolution/",
+    "name": "Absolution",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (a vial of holy water), DF",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You purge impure thoughts from the target's mind and fill him with exultant relief at the forgiveness of his sins.<\/p><p><i>Absolution<\/i> ends all charm or compulsion effects affecting the target (including harmless compulsions, such as heroism) as per break enchantment. If the target was forced to perform any actions contrary to his alignment, monk vows, paladin oath, or similar code of conduct by that charm or compulsion effect, that action doesn't cause him to lose access to class abilities, including divine spellcasting.<\/p><p>Unlike an atonement spell, <i>absolution<\/i> can't reverse alignment change or the effects of willing transgressions, induce a creature to change its alignment, or restore class abilities lost because of misdeeds performed in the past. <i>Absolution<\/i> automatically works if the caster and the target share the same alignment or the same patron deity. If they don't, but their alignments are within one step of each other, <i>absolution<\/i> has a 5% chance of success per caster level. If neither of these is true, the spell automatically fails.<\/p><p>If using the honor subsystem, casting <i>absolution<\/i> also eliminates the honor loss for events and actions committed by the target while he was affected by a charm or compulsion effect that the spell ended.<\/p>",
+    "name_zh": "赦免术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，材料（1瓶圣水），法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你从目标的精神中净涤邪念，并填入罪孽受到宽恕而带来的狂喜。赦免术会如同破除结界（Break Enchantment）一般结束所有正在影响目标的魅惑（charm）或胁迫（compulsion）效果，这也包含英雄气概（Heroism）这样的无害胁迫效果在内。若被终止的魅惑或胁迫效果曾经迫使目标执行某些行为，且这些行为违反了目标的阵营、武僧清规（Monk Vows）、圣武士誓约（paladin oath）或类似的行为准则的话，那么这些行动不会让目标失去包括神术施法能力在内的相关职业能力。\n与赎罪术（Atonement）不同，赦免术无法逆转阵营的变更或自愿犯下的罪行所产生的效果，这包括角色变更自身的阵营、或者恢复由于过去犯下的罪过而失去的职业能力。若施法者与目标具有相同的阵营或信仰相同的神祇，赦免术便会自动生效。若两者不满足上述条件，但是他们彼此间的阵营差异在1阶以内，则赦免术的成功率为每施法者等级5%。如果上文所述的所有条件均无法满足，那么该法术会自动失败。\n若使用出自极限战役（Pathfinder RPG Ultimate Campaign 160页）的荣誉（Honor）子系统的话，在施放赦免术终止魅惑与胁迫效果时，被终止的效果生效期间让目标犯下的事件（events）和行为致使其失去了荣誉（honor loss）的话，该法术也可以恢复这些荣誉。<\/p>",
+    "source": "UI"
+}

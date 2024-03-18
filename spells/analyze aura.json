@@ -1,0 +1,32 @@
+{
+    "key": "analyze aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/analyze-aura/",
+    "name": "Analyze Aura",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "medium": 2,
+        "mesmerist": 3,
+        "occultist": 2,
+        "psychic": 3,
+        "spiritualist": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature or object",
+    "duration": "concentration, up to 1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You peer into the aura of one target creature or object, gaining valuable information about its condition and nature. Each round, choose one of the target's four auras. This spell functions similarly to the read aura occult skill unlock, but doesn't require checks and returns results on all the target's auras in an instant.<\/p><ul><li><b>Alignment Aura<\/b>: You study the target's spiritual nature to determine its alignment. You also learn the type and power of its alignment aura, as detect evil.<\/li><li><b>Emotion Aura<\/b>: The colors playing within the target's aura reveal its emotional state, granting valuable insight into its psyche. You learn a general summary of the target's current disposition, as well as its attitude toward any other creatures within 30 feet of it. For the duration of the spell and for 1 hour afterward, you gain a +2 circumstance bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks you attempt against the target. Objects do not have emotion auras, except intelligent weapons and similar sentient oddities.<\/li><li><b>Health Aura<\/b>: The flow of vital force animating the target becomes plainly visible, giving you insight into its physical condition. You know whether the target is unharmed or wounded, Whether it is poisoned or diseased, and whether it is under any of the following conditions: confused, disabled, dying, nauseated, panicked, staggered, stunned, or unconscious. Further, your insight into the overall strength of the target's vital force reveals the total number of points available in its <i>ki<\/i> pool, grit pool, or similar resource. Objects and most undead creatures don't have health auras.<\/li><li><b>Magic Aura<\/b>: You determine the number and power of all magical auras on the target (as detect magic to determine a magic aura's power), as well as the school of each aura. You can attempt Knowledge (arcana) or Spellcraft skill checks to determine the school or identify properties of a magic item, as normal. If cast on an item, analyze aura cuts through the obfuscation of the magic aura spell.<\/li><\/ul>",
+    "name_zh": "分析灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物或物体",
+    "duration_zh": "专注，至多为1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你凝视着一个目标生物或物体的灵光，并借此获得与它的状态和性质相关的贵重情报。每轮都要从目标的四个灵光中选取一种。该法术的功能类似于神秘技能解放（Occult Skill Unlocks）中的望气（read aura），但是该法术不需要进行检定，而且所有目标灵光的结果都能立刻得到反馈。\n阵营灵光（Alignment Aura）：你会研究目标的精神本质，并以此来判断它的阵营。你还会知晓它的阵营灵光的类型与强度，就如同侦测邪恶（detect evil）一般。\n情绪灵光（Emotion Aura）：目标所散发的灵光颜色会揭示出它的情绪状态，这会为你洞察它的内心提供有价值的信息。你能够大致了解到目标当前的性情，而且能够了解到目标对距离它自己30尺内任意其他生物的态度。在法术的持续时间以及之后的1个小时内，你能够在尝试对抗目标的唬骗、交涉、威吓和察言观色检定中获得+2环境加值。除了智能武器（intelligent weapons）或者类似的有意识的物体以外，其他物体都不具有情绪灵光。\n健康灵光（Health Aura）：目标体内的生命力的流动变得清晰可见，这使得你能够洞见它的身体状态。你能够了解到目标是否受伤，是否中毒或染病，以及是否受到任何后述状态的影响：困惑（confused）、瘫痪（disabled）、濒死（dying）、反胃（nauseated）、恐慌（panicked）、恍惚（staggered）、震慑（stunned）或昏迷（unconscious）。更进一步，你能够洞察目标生命力的强度，并凭此揭示出气池（ki pool）、勇毅池（grit pool）或类似资源的可用总点数。物体以及大多数不死生物不具有健康灵光。\n魔法灵光（Magic Aura）：你能够判断出目标身上的所有魔法灵光的数量和强度，就如同使用侦测魔法（detect magic）判断魔法灵光的强度一般，此外你还能够得知每个灵光的学派。你能够如常尝试知识（神秘）或者法术辨识技能检定来判断魔法物品学派或鉴别魔法物品的特性。若对一件物品施放该法术，分析灵光能够洞穿魔法灵光（Magic Aura）法术做出的伪装。<\/p>",
+    "source": "OA"
+}

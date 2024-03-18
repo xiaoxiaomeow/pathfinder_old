@@ -1,0 +1,21 @@
+{
+    "key": "spite",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spite/",
+    "name": "Spite",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels": {"witch": 4},
+    "castingTime": "1 round",
+    "components": "V, S, M (rare inks worth 250 gp)",
+    "range": "personal",
+    "duration": "1 hour/level (d) or until discharged",
+    "text": "<p>Choose a single touch range spell of 4th level or lower with a casting time of 1 standard action or less. As part of the action of casting <i>spite<\/i>, you cast the associated spell and bind it into a defensive ward in the form of a tattoo, birthmark, or wart somewhere upon your body. The next time you are hit by a melee attack or a combat maneuver is used successfully against you, the stored spell is triggered against your foe. You do not need to succeed on a touch attack to affect the target, but in all other respects the spell is treated as though you had cast it normally. If the attacking creature is not a valid target for the spell, the stored spell is lost with no effect.<\/p><p>You can have only one <i>spite<\/i> spell in effect at a time; if you cast this spell a second time, the previous spell effect ends.<\/p>",
+    "name_zh": "怨毒反击",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势, 材料 (价值250gp的罕见墨水)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级 (可解消) 或直至散发为止",
+    "text_zh": "<p>选择一个单一的范围为接触，等级为4级或以下，并且施法时间为标准动作或以下的法术。作为施放怨毒反击的动作的一部分，你施放之前选择的法术并绑定在一块防御结界上——以纹身，胎记或者你身体上的某处的疣的形式。在下一次你被近战攻击命中或者成功对你运用战技时，被储存的法术会被触发对抗你的敌人。你不需要进行成功的接触攻击影响目标，但是法术在其他所有方面均视为你如常施放它。如果进行攻击的生物对于你存储的法术来说不是有效的目标，那么被存储的法术无效发散。<\/p><p>在同一时间你只能储存一个法术；如果你在前一次法术失效前再次施放，那么前一个法术效果结束。<\/p>",
+    "source": "APG"
+}

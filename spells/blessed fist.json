@@ -1,0 +1,30 @@
+{
+    "key": "blessed fist",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessed-fist/",
+    "name": "Blessed Fist",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 1,
+        "paladin": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>The target is considered to be armed even when unarmed, so it doesn't provoke attacks of opportunity when it attacks foes with unarmed strikes. Its unarmed strikes can deal lethal or nonlethal damage (target's choice). If the target already has this ability (such as from the monk unarmed strike ability or the Improved Unarmed Strike feat), its unarmed strikes gain a +1 enhancement bonus on attack rolls and damage rolls, and they count as good-aligned weapons for the purposes of overcoming damage reduction.<\/p>",
+    "name_zh": "祝福之拳",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>目标会被视为已经武装，即便是徒手状态也是如此，因此当他使用徒手打击攻击敌人时，不会引起藉机攻击。目标的徒手打击能够造成致命或非致命伤害（由目标选择）。若目标已经具有该能力（比如通过武僧的徒手打击能力或者精通徒手打击专长），那么他的徒手打击会在攻击检定和伤害检定中获得+1增强加值，而且在判断是否能够克服伤害减免时，被视为善良阵营武器。<\/p>",
+    "source": "ACG"
+}

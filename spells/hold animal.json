@@ -1,0 +1,24 @@
+{
+    "key": "hold animal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-animal/",
+    "name": "Hold Animal",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "druid": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "ranger": 2
+    },
+    "domains": {"animal": 2},
+    "components": ": V, S",
+    "target": "one animal",
+    "text": "<p>This spell functions like <i>hold person<\/i>, except that it affects an animal instead of a humanoid.<\/p>",
+    "name_zh": "动物定身术",
+    "components_zh": "语言, 姿势",
+    "target_zh": "一个动物",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’一般，不过它影响的是一只动物而非类人生物。<\/p>",
+    "source": "CRB"
+}

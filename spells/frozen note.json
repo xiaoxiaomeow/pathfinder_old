@@ -1,0 +1,31 @@
+{
+    "key": "frozen note",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/frozen-note/",
+    "name": "Frozen Note",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "mind-affecting",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"bard": 5},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "area": "30-ft.-radius emanation centered on you",
+    "duration": "concentration (up to 1 round/level); see text",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You produce and sustain a single perfect musical note that holds nearby creatures, friend as well as foe, utterly spellbound until you stop singing. Affected creatures are both paralyzed and oblivious to their surroundings so long as you maintain the note.<\/p><p>Maintaining this note requires your absolute attention; if you take damage or take any other action, including moving from your current square, the spell instantly ends. Creatures that succeed in their initial Saving Throw must make a new one for each round they spend within the area of the spell until they fail and become captivated. Creatures with 4 or more Hit Dice greater than your caster level are not affected by this spell. However, those with 4 or more Hit Dice less than your caster level do not receive a Saving Throw to resist it. The note is so clear and flawless that less than extraordinary attempts to avoid hearing it merely grant targets a bonus on their saving throws. Targets get a +2 circumstance bonus on their Saving Throw for each barrier between your voice and their ears. This includes such things as a creature stopping up its ears with wax, closing all windows and doors in a nearby building, or even crawling into a barrel and pulling down the top.<\/p><p>If a target that had previously made its Saving Throw loses the benefit of one or more of its barriers it must immediately make a new Saving Throw. Similarly, any target that had previously failed its Saving Throw gets a new save each time it gains the protection of a barrier.<\/p>",
+    "name_zh": "冻结音符",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "target_zh": "范围内任意数量的生物",
+    "area_zh": "以你为中心，半径30尺弥散范围",
+    "duration_zh": "专注 (最高为1轮/等级)；见下文",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你发出并维持单一一个完美的音节，完全迷住附近的生物，盟友以及敌人，直至你停止歌唱。只要你维持这个音节，被影响的生物就同时处于麻痹以及忽视周围事物的状态。维持音节需要你保持高度的专注力；如果你受到伤害或者进行任何其他动作 (包括移出你当前所在的方格)，该法术会立即结束。在初次豁免检定中成功的生物在法术范围内必须每轮进行一次新的豁免，直至他们豁免失败并被迷住为止。生命骰比你的施法者等级高4级或更多的生物不受该法术影响。然而生命骰比你的施法者等级低4级或更多的生物无法进行豁免抵御该法术。这个声音是如此纯粹无暇，以至于那些避免听到它的尝试只会在豁免检定上给予目标加值。从你的声音到目标的耳边之间的每道屏障都会给予目标的豁免检定+2环境加值。这包含了下列尝试，比如使用蜡封住耳朵，进入附近的建筑并关闭门窗，或者进入桶中并盖住顶部。如果任何之前成功豁免的目标在失去了一道或更多屏障带来的优势时，必须立即进行新的豁免。同样，任何曾经在豁免中失败的生物每当获得屏障的优势时会获得一次新的豁免机会。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "acute senses",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/acute-senses/",
+    "name": "Acute Senses",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "inquisitor": 2,
+        "psychic": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a glass lens)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>The target gains a +10 enhancement bonus on Perception checks. The bonus increases to +20 at caster level 8th, and +30 (the maximum) at caster level 16th.<\/p>",
+    "name_zh": "敏锐感官",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一块玻璃透镜)",
+    "range_zh": "接触",
+    "target_zh": "接触到的目标",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>目标的察觉检定获得+10增强加值。加值在施法者等级到达8时变为+20，在16级时+30 (最大)。<\/p>",
+    "source": "UM"
+}

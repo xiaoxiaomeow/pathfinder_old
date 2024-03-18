@@ -1,0 +1,17 @@
+{
+    "key": "inflict moderate wounds, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-moderate-wounds/",
+    "name": "Inflict Moderate Wounds, Mass",
+    "base": "inflict moderate wounds",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6,
+        "shaman": 6,
+        "witch": 7
+    },
+    "text": "<p>This spell functions like <i>mass inflict light wounds<\/i>, except that it deals 2d8 points of damage + 1 point per caster level (maximum +30).<\/p><\/div>",
+    "name_zh": "群体造成中度伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds, mass\">群体造成轻伤 (inflict light wounds, mass)<\/a>’一般，不过你能造成 {2d8+CL (最高+30)} 点伤害。<\/p>",
+    "source": "CRB"
+}

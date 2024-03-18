@@ -1,0 +1,37 @@
+{
+    "key": "eldritch fever",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-fever/",
+    "name": "Eldritch Fever",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "disease",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "inquisitor": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>The target gains the eldritch ague spellblight.<\/p>",
+    "name_zh": "恐怖高热",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>目标立刻染上法术荒疫：恐怖疟疾 (Spellblight:Eldritch Ague)\n[i]恐怖疟疾 (Eldritch Ague): 恐怖疟疾作为一种疾病能够削弱施法者的能力。一个染上这种法术荒疫的施法者将会一直生病，直到诅咒被移除。当受诅咒的目标试图施放一个法术时，她会无法自制的进入战栗状态，持续一轮；并且她必须通过一个成功的专注检定 (DC=15+法术等级的两倍) 才能正常施放法术或使用类法术能力。如果豁免失败，法术丢失。虽然恐怖疟疾这种诅咒看起来很像疾病，但是那些免疫疾病的生物仍然会被它感染。移除疾病法术仍然可以治疗恐怖疟疾；不像其他法术荒疫效果，在使用移除疾病治疗恐怖疟疾时，施法者检定上没有-5罚值。 [/i]<\/p>",
+    "source": "UM"
+}

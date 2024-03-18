@@ -1,0 +1,40 @@
+{
+    "key": "curse of the outcast",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-the-outcast/",
+    "name": "Curse of the Outcast",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "curse",
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "cleric": 6,
+        "inquisitor": 4,
+        "mesmerist": 4,
+        "shaman": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a handful of earthworms)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Everything about the target seems off-putting and grating, and everyone he meets is compelled to see the worst in him.<\/p><p>Whenever the target attempts a Bluff, Diplomacy, Intimidate, or Perform check, he must roll twice and take the lower result.<\/p><p>Additionally, each creature he encounters has its initial attitude toward him reduced by one step (helpful becomes friendly, friendly becomes indifferent, and so on).<\/p>",
+    "name_zh": "放逐者诅咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（1把蚯蚓）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>关于目标的任何事情都看起来让人烦躁和令人不快，目标所见到的任何人都会被迫看到他最坏的方面。每当目标尝试唬骗、交涉、威吓或表演检定时，他必须投掷2次并取较差的结果。此外，目标所遭遇的每个生物对他的初始态度均会降低1级（乐于帮助变为友善，友善变为冷漠，以此类推）。<\/p>",
+    "source": "UI"
+}

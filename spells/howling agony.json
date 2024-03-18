@@ -1,0 +1,39 @@
+{
+    "key": "howling agony",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/howling-agony/",
+    "name": "Howling Agony",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "death",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bloodrager": 3,
+        "inquisitor": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 3,
+        "spiritualist": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a needle and a dried eyeball)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You send wracking pains through the targets' bodies. Because of the pain, affected creatures take a –2 penalty to AC, attacks, melee damage rolls, and Reflex saving throws, and must succeed at a concentration check (DC equal to the DC of this spell) to cast spells. However, if an affected creature spends a move action screaming as loudly as possible, it can act without any other penalties for the remainder of its turn. “Screaming,” for the purposes of this spell, includes any vocalization of pain or its telepathic equivalent; creatures that cannot scream (such as creatures without the natural ability to communicate or vocalize) suffer the full effect of the spell.<\/p>",
+    "name_zh": "惨嚎剧痛",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一根针和一颗风干的眼球)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个活物/每等级，互相之间间隔不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你对目标的身体造成极度的疼痛。因为剧痛，受术者在AC，攻击，近战伤害投骰以及反射检定上受到-2惩罚，并且必须在施法时进行专注检定 (DC等于该法术DC)。<\/p><p>但是，如果一个受术生物花费一个移动动作来用最大的嗓门进行一次号叫，它可以在本轮剩下部分可以不用受到罚值的行动。<\/p><p>‘惨叫’是本法术的目的，可以包含任何发声方法或心灵感应。一个不能惨叫的生物 (如没有沟通和发声能力的动物)，直接承受法术的全部效果。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,27 @@
+{
+    "key": "swallow poison",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/swallow-poison/",
+    "name": "Swallow Poison",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 5,
+        "druid": 5,
+        "shaman": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level or until discharged",
+    "text": "<p>A special gland grows on the inside of your throat, which absorbs any poisons that you ingest, and can be used to expel them in a toxic spray. Any time you consume ingested poison during the spell's duration, you can roll a caster level check against the poison's save DC in order to harmlessly absorb the poison, ignoring its effects. The spell can absorb up to 1 dose of poison per 3 caster levels, after which the gland is unable to process any more poison, and any further doses of ingested poison affect you normally.<\/p><p>You store each dose of absorbed poison within the gland, and you can end the spell to spray one dose of absorbed poison out of your mouth as a standard action. This sprays the poison in a 15-foot cone. Each creature in the area must succeed at a Reflex save (at swallow poison's DC) or be exposed to the sprayed poison, which is treated as though it were a contact poison for this purpose. Everything about the poison other than its type, including its frequency, effect, and saving throw DC, are unaffected by this spell. Any other doses of poison you had absorbed instantly become inert when you end the spell. If the spell's duration ends without you spraying a poison, all poisons you had absorbed become inert.<\/p>",
+    "name_zh": "吞毒之喉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级 或 直至耗散",
+    "text_zh": "<p>你的喉咙中生长出1个特殊腺体，它能吸收你所摄入（ingest）的任何毒素，并且可以在之后将其以有毒喷雾的形式排出体外。当你在法术持续时间内消耗摄入型毒素（ingested poison）时，为了无害吸收毒素并忽略其产生的效果，你要投掷1次施法者等级检定对抗毒素的豁免DC。该法术至多能吸收每3个施法者等级1剂毒素，当腺体无法吸收更多毒素时，后续摄入的每剂毒素都会如常对你生效。\n你会把每剂被吸收的毒素储存在腺体内，你可以用标准动作从口中喷射出1剂被吸收的毒素，并以此来结束法术。有毒喷雾为15尺锥形区域。每个区域内的生物必须通过1次反射豁免（DC为被吸收毒素的DC），否则便会暴露在毒素喷雾中，在判断此效果时，被吸收的毒素被视同为接触性毒素（contact poison）。除了类型之外，毒素的发作频率、效果以及豁免DC均不会受到该法术影响。当你结束法术时，其他被腺体吸收的毒素均会立即失效。若直至法术持续时间结束为止，你都没有喷出过毒素，那么所有被你的腺体吸收的毒素均会失效。<\/p>",
+    "source": "UI"
+}

@@ -1,0 +1,21 @@
+{
+    "key": "possess object",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/possess-object/",
+    "name": "Possess Object",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "target": "one object; see text",
+    "duration": "1 hour/level or until you return to your body",
+    "text": "<p>This spell functions as magic jar, except you transfer your mind to a single object, animating it as if using animate objects, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.<\/p>",
+    "name_zh": "控物术",
+    "castingTime_zh": "标准动作",
+    "target_zh": "一个物体；见下文",
+    "duration_zh": "1小时/等级或直到你返回自己身体",
+    "text_zh": "<p>持续时间    1小时/等级或直到你返回自己身体<\/p><p>这个法术工作方式类似魔魂壶 (Magic Jar)，不过你可以将你的心智附身于一件单一物体，如同使用活化物体 (Animate Objects) 将其活化，不过你的心智可以如同它是你的躯体一样控制它。<\/p><p>在你附身于物体期间，你不能说话或施法。此外，你原本的身体在你附身期间由于本法术效果而被视为已死亡，所以可以暂时停止疾病、毒药和正折磨你的其他苦难效果。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "unbearable brightness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unbearable-brightness/",
+    "name": "Unbearable Brightness",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["light"],
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal and 30 ft. (see text)",
+    "area": "30-ft.-radius emanation centered on you",
+    "duration": "1 round/level",
+    "savingThrow": "none and Reflex partial (see text)",
+    "spellResistance": "no and yes (see text)",
+    "text": "<p>Your body glows with a terrible light. Creatures within 30 feet of you that can see you are dazzled (no saving throw). Creatures with light sensitivity must succeed at a Reflex saving throw or be blinded. This light counts as daylight for the purpose of affecting darkness effects (and vice versa). If the emanation enters an area under the effect of magical darkness (or vice versa), both effects are temporarily negated so that the otherwise prevailing light conditions exist in the overlapping areas of effect. Dazzled and blinded conditions from your light end when the spell ends or when the creature is out of line of sight.<\/p>",
+    "name_zh": "刺目强光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "area_zh": "：以你为中心，半径30尺发散区域",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无 和 反射，通过则部分生效（见后文）",
+    "spellResistance_zh": "否 和 可（见后文）",
+    "text_zh": "<p>你的身体散发着让人恐惧的光芒。在距离你30尺范围内并且能够看到你的生物会目眩（dazzled；无豁免）。具有强光敏感（Light Sensitivity）的生物必须进行一次反射豁免，失败则会目盲（blinded）。在判断对黑暗效果（darkness effects）产生的作用时（反之亦然），该法术被视为昼明术（daylight）。若该法术发散的光亮进入受到魔法黑暗影响的区域内（或者反之亦然），那么两个效果都会暂时失效，现有的光照等级会影响效果重叠的区域。由于你的光亮而产生的目眩和目盲状态，会在法术结束或者生物移出视线时结束。<\/p>",
+    "source": "ACG"
+}

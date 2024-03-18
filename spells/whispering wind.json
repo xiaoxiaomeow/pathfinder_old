@@ -1,0 +1,39 @@
+{
+    "key": "whispering wind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/whispering-wind/",
+    "name": "Whispering Wind",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["air"],
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "subdomains": {"wind": 1},
+    "elementalSchools":     {
+        "air": 2,
+        "wood": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "1 mile/level",
+    "area": "10-ft.-radius spread",
+    "duration": "no more than 1 hour/level or until discharged (destination is reached)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You send a message or sound on the wind to a designated spot. The <i>whispering wind<\/i> travels to a specific location within range that is familiar to you, provided that it can find a way to the location. A <i>whispering wind<\/i> is as gentle and unnoticed as a zephyr until it reaches the location. It then delivers its whisper-quiet message or other sound. Note that the message is delivered regardless of whether anyone is present to hear it. The wind then dissipates.<\/p><p>You can prepare the spell to bear a message of no more than 25 words, cause the spell to deliver other sounds for 1 round, or merely have the <i>whispering wind<\/i> seem to be a faint stirring of the air. You can likewise cause the <i>whispering wind<\/i> to move as slowly as 1 mile per hour or as quickly as 1 mile per 10 minutes.<\/p><p>When the spell reaches its objective, it swirls and remains in place until the message is delivered. As with <i>magic mouth, whispering wind<\/i> cannot speak verbal components, use command words, or activate magical effects.<\/p>",
+    "name_zh": "风讯术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "1英里/等级",
+    "area_zh": "半径10尺扩散区域",
+    "duration_zh": "不超过1小时/等级或者直至能量发散 (持续时间结束)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以利用风向指定地点传送讯息或声音。风讯会前往法术范围内你所熟悉的特定地点，前提是有路径可以到达那里。在到达目的地之前携带讯息的风如同微风一般轻柔而不为人察觉。抵达目的地后便低声发出讯息或其他声音。注意，无论当地是否有人能听到它，讯息都会被发出。之后微风便会消散。<\/p><p>你可以传送的讯息不能多于25个字，也可以传送其他可以在一轮内发出的声音，或仅仅是传出风声。你可以控制风讯的速度，最低为每小时只走1英里，最高则为10分钟急行1英里。<\/p><p>风讯抵达目的地后会在目标上空盘旋，直到传完讯息。就像‘<a href=\"spell.html?spell=magic mouth\">魔嘴 (magic mouth)<\/a>’一样，风讯不能作为法术的语言成分使用，也不能作为命令词或启动魔法效果。<\/p>",
+    "source": "CRB"
+}

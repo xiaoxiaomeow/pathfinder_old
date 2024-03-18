@@ -1,0 +1,33 @@
+{
+    "key": "piercing shriek",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/piercing-shriek/",
+    "name": "Piercing Shriek",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "pain",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "psychic": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "medium (100 ft. + 10ft./level)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You emit an ear-splitting shriek which can be heard only by the target of this spell; all other observers merely see you screaming silently. The target suffers wracking pain from the scream, gaining the staggered condition. This spell has no effect on deaf creatures and cannot penetrate an area of silence.<\/p>",
+    "name_zh": "厉声尖啸",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你发出震耳欲聋的尖叫，不过只有该法术的目标才能听到；其他观察你的人只能看到你尖叫却寂静无声。目标由于尖叫声而被痛苦地折磨，并进入恍惚状态。该法术对耳聋的生物以及处于沉默术 (Silence) 范围内的生物没有效果。<\/p>",
+    "source": "UM"
+}

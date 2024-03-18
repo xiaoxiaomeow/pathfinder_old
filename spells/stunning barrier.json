@@ -1,0 +1,32 @@
+{
+    "key": "stunning barrier",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stunning-barrier/",
+    "name": "Stunning Barrier",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 1,
+        "inquisitor": 1,
+        "paladin": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level or until discharged",
+    "savingThrow": "none and Will negates (see text)",
+    "spellResistance": "no and yes (see text)",
+    "text": "<p>You are closely surrounded by a barely visible magical field. The field provides a +1 deflection bonus to AC and a +1 resistance bonus on saves. Any creature that strikes you with a melee attack is stunned for 1 round (Will negates). Once the field has stunned an opponent, the spell is discharged.<\/p>",
+    "name_zh": "反震屏障",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 或 直至耗散",
+    "savingThrow_zh": "无 和 意志，通过则无效（见后文）",
+    "spellResistance_zh": "否 和 可（见后文）",
+    "text_zh": "<p>你被几乎不可见的魔法场包裹得密不透风。这个魔法场会为AC提供+1偏斜加值，为豁免提供+1抗力加值。任何使用近战攻击命中你的生物会被震慑（stunned）1轮（意志，通过则无效）。一旦魔法场让一个敌人陷入震慑，该法术就会耗散。<\/p>",
+    "source": "ACG"
+}

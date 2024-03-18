@@ -1,0 +1,28 @@
+{
+    "key": "apport animal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/apport-animal/",
+    "name": "Apport Animal",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "druid": 3,
+        "medium": 3,
+        "mesmerist": 3,
+        "psychic": 3,
+        "ranger": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 3,
+        "witch": 3
+    },
+    "target": "one touched animal of Tiny or smaller size",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like <i>apport object<\/i> except the target is an animal. Only normal, non-magical creatures of the animal type can be teleported.<\/p>",
+    "name_zh": "动物召来",
+    "target_zh": "一个接触到的动物，其体形为超小型或更小",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同隔空取物（Apport Object）一般，不过目标是一个动物（animal）。只有属于动物类（animal type）的正常的（normal）、非魔法生物（nonmagical creatures）能够被该法术传送。<\/p>",
+    "source": "OA"
+}

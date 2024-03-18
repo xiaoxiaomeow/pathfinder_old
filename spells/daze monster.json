@@ -1,0 +1,26 @@
+{
+    "key": "daze monster",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/daze-monster/",
+    "name": "Daze Monster",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 1,
+        "witch": 2
+    },
+    "mysteries": {"godclaw": 2},
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one living creature of 6 HD or less",
+    "text": "<p>This spell functions like <i>daze<\/i>, but it can affect any one living creature of any type. Creatures of 7 or more HD are not affected.<\/p>",
+    "name_zh": "怪物晕眩术",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个HD为6或更少的活物",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Daze\">晕眩术 (Daze)<\/a>’一般，不过它能够影响一个任何种类的活物。具有7个或更多HD的生物不受影响。<\/p>",
+    "source": "CRB"
+}

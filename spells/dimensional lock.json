@@ -1,0 +1,32 @@
+{
+    "key": "dimensional lock",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-lock/",
+    "name": "Dimensional Lock",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 8,
+        "sorcerer/wizard": 8,
+        "summoner": 6
+    },
+    "bloodlines": {"accursed": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "20-ft.-radius emanation centered on a point in space",
+    "duration": "1 day/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred include astral projection, blink, <i>dimension door<\/i>, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like abilities. Once <i>dimensional lock<\/i> is in place, extradimensional travel into or out of the area is not possible.<\/p><p>A <i>dimensional lock<\/i> does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, the spell does not prevent summoned creatures from disappearing at the end of a summoning spell.<\/p>",
+    "mythicText": "The spell doesn't interfere with your extradimensional travel spells and effects. <br><p style=\"margin-left:20px\"><b>Augmented (4th)<\/b>: You can augment mythic dimensional lock to redirect teleporting creatures to another location. If you expend two uses of mythic power, designate a location that you're very familiar with. <br>This location must be on the same plane as you. Any creature attempting to use extradimensional travel from outside the spell's area into that area is instead redirected to this other location. <br>The creature can attempt a Spellcraft check against your caster level. If it succeeds, it's aware of the redirection (though not the destination) and can interrupt its spellcasting, losing the spell but not teleporting. ",
+    "name_zh": "次元锁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "以空间中的一点为中心, 半径20尺发散区域",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一个泛着微光的翠绿色屏障来阻止跨维度旅行 (extradimensional travel)。被阻止的形式包括下表以及其他类似的类法术能力。一旦次元锁生成，跨维度进出该区域都是不可能的。\nl  星界投射 (astral projection)\n l  同游灵界 (etherealness)\n l  行影术 (shadow walk)\nl  闪现术 (blink)\n l  异界之门 (gate)\n l  传送术 (teleport)\nl  任意门 (dimension door)\n l  迷宫术 (maze)\nl  幻化灵体 (ethereal jaunt)\n l  异界传送 (plane shift)<\/p><p>对于施法时已经处在灵体和星界形态的生物，次元锁对其移动没有影响，次元锁也不会影响跨维度感知和攻击形式。同时，此法术不能阻止召唤生物在召唤法术结束后消失。<\/p>",
+    "source": "CRB"
+}

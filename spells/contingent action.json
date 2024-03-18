@@ -1,0 +1,30 @@
+{
+    "key": "contingent action",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contingent-action/",
+    "name": "Contingent Action",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "bard": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one willing creature",
+    "duration": "1 min./level (d) or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "Yes (harmless)",
+    "text": "<p>The target gains an extra action that becomes available when a condition which you dictate is met. At the time of casting, you dictate the condition, and the target specifies a readied action that occurs when triggered by this condition.<\/p><p>The condition needed to trigger the readied action must be clear, although it can be general. If a complicated or convoluted condition is prescribed, the whole combination might fail when triggered. For example, suppose the trigger and the action are stated as &#8220;If the target is attacked while he is not holding a weapon, he draws a weapon.&#8221; If the target has no weapon to draw when the trigger occurs, the action fails. If the trigger and the action are &#8220;If an ally within 20 feet falls unconscious, the target moves to a space adjacent to that ally&#8221; but the target is chained to a wall when the trigger occurs and can't reach the unconscious ally, the action fails.<\/p><p>The readied action must be a standard, move, or swift action—it cannot be used to cast a spell or use a supernatural ability. This action counts as a readied action and doesn't count toward the number of actions the creature can take in a round. When the condition occurs, the target can decide not to use the readied action. Once the condition is triggered, the spell is discharged—whether or not the target uses the readied action or the action is successful.<\/p><p>This spell counts as a contingency spell for the purpose of having multiple contingent effects on a creature at the same time.<\/p>",
+    "name_zh": "行动触发术",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个自愿的生物",
+    "duration_zh": "1分钟/等级（可解消）或直至耗散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可（无害）",
+    "text_zh": "<p>当满足你所决定的条件后，目标便会获得一个额外动作并且可以行动。在施放法术后，由你指定条件，而目标来指定这个条件触发后所产生的准备动作（readied action）。\n触发准备动作的条件必须清晰明确，不过这个条件也可以是一般的事件。若你指定出繁复或复杂的条件，那么整个法术的组合将有可能在触发时失效。举例说明：若触发条件和动作设定为“若目标在未持有武器时受到攻击，他就会拔出一件武器。”若触发条件时，目标没有武器可拔，那么动作便会失败。若触发条件和动作设定为“若20尺内的一个盟友陷入昏迷，目标就会移动至与该名盟友相邻的方格”。但是目标触发条件时被束缚在墙壁上，无法抵达昏迷盟友的身边，那么动作便会失败。\n被准备的动作必须是标准、移动或者迅捷动作——它无法用于施放法术或者使用超自然能力。这个动作被视为准备动作，而且不会被计入该名生物在这轮内所能做的动作数量中。当设定的条件发生时，目标能够决定是否使用这个被准备的动作。一旦条件被触发，法术就会被耗散——无论目标是否能够使用准备动作，也不管动作是否能够成功。\n在判断同一时间一个生物是否具有多个触发效果时（contingent effects），该法术被视为触发术（Contingency）。<\/p>",
+    "source": "ACG"
+}

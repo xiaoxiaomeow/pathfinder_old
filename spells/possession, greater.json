@@ -1,0 +1,33 @@
+{
+    "key": "possession, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/possession/",
+    "name": "Possession, Greater",
+    "base": "possession",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "occultist": 6,
+        "psychic": 8,
+        "sorcerer/wizard": 8,
+        "spiritualist": 6,
+        "witch": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as <em>possession<\/em>, but when you possess a host, You enter the host's body and your physical body vanishes. You are ejected to the closest empty square upon expiration of the spell or upon the host's death.<\/p>",
+    "name_zh": "高等占据术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同占据术（Possession）一般，不过当你占据一个宿主时，你会进入到宿主的体内，而你的实体身躯会消失不见。当宿主死亡或者法术持续时间结束时，你会被驱离到最近的开放空间（empty square）。<\/p>",
+    "source": "OA"
+}

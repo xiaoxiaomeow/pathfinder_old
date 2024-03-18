@@ -1,0 +1,33 @@
+{
+    "key": "matchmaker",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/matchmaker/",
+    "name": "Matchmaker",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (a rose petal)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "two living creatures",
+    "duration": "1 hour/level",
+    "savingThrow": "Will partial, see text",
+    "spellResistance": "yes",
+    "text": "<p>You entice the target creatures to become romantically interested in one another. Each creature saves and applies spell resistance separately. Both must be affected for the spell to have an effect. If either creatures has a prior unfriendly or hostile attitude toward the other, it receives a +4 bonus on its saving throw.<\/p><p>This spell doesn't override the targets' normal sexual preferences or other limitations. If romantic feelings are incompatible for this reason, the creature instead feels an intimate platonic bond with the other.<\/p>",
+    "name_zh": "说媒术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，材料（玫瑰花瓣）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "2个活物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志，通过则部分生效；见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你引诱目标生物对另一个目标产生情趣（romantically interested）。每个生物均要分别判断豁免和法术抗力是否生效。必须两方都受到影响，法术才会产生效果。若其中一名生物对另一方的态度在施法前已经是不友善（unfriendly）或敌对（hostile）的话，该生物则会在豁免检定中获得+4加值。\n该法术不会改变目标的正常性取向或者其他限制（limitations）。若因为此种原因而导致情趣不会产生的话，这些生物会感觉与对方产生了一种亲密的柏拉图式关系（intimate platonic bond）作为替代。<\/p>",
+    "source": "UI"
+}

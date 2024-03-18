@@ -1,0 +1,27 @@
+{
+    "key": "instant armor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-armor/",
+    "name": "Instant Armor",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["force"],
+    "levels":     {
+        "cleric/oracle": 2,
+        "paladin": 2,
+        "psychic": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "1 min./level (d)",
+    "text": "<p>You instantly wrap your body in a suit of armor made from opaque force. At your option, the armor can be decorated with your religion's holy symbol in a prominent place, such as upon the breastplate or helm. While it exists, this armor replaces any garments or other sort of armor worn, magical as well as mundane. You lose access to, and all benefits from, armor replaced by this spell until the spell ends and the <i>instant armor<\/i> disappears.<\/p><p><i>Instant armor<\/i> acts in all ways as armor typical of its type (armor bonus, maximum Dexterity bonus, arcane spell failure chance, and so on). Since <i>instant armor<\/i> is made of force, incorporeal creatures can't bypass it the way they do normal armor. The sort of armor you can create with this spell depends on your caster level.<\/p><table border=\"1\" cellpadding=\"5\"> <thead>  <tr>   <th class=\"text\">Caster Level<\/td>    <td class=\"text\">Armor Created<\/td>   <\/tr>   <tr>    <td class=\"text\">5th or lower<\/td>    <td class=\"text\">chainmail<\/td>   <\/tr>   <tr>    <td class=\"number\">6th-8th<\/td>    <td class=\"text\">banded mail<\/td>   <\/tr>   <tr>    <td class=\"number\">9th-11th<\/td>    <td class=\"text\">half-plate<\/td>   <\/tr>   <tr>    <td class=\"text\">12th or higher<\/td>    <td class=\"text\">full plate<\/td>   <\/tr>  <\/tbody> <\/table><p>If you choose to create lesser armor than your level allows you gain a +1 magical enhancement bonus to the armor you do create for every type of armor you pass over. For instance, if you have the capacity to create full plate <i>instant armor<\/i> you could instead choose to create <i>+1 half-plate<\/i>, <i>+2 banded mail<\/i>, or <i>+3 chainmail<\/i>. You cannot replace these bonuses with armor special properties.<\/p>",
+    "name_zh": "临时盔甲",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>12或以上： 全身甲<\/p><p>如果你选择创建比你等级允许的最高级轻一级的装甲，那么你可以给盔甲赋予每轻一级+1的附魔加值。<\/p><p>例如：如果你最高能创造一套全身甲，那么你可以选择创造+1半身甲，+2板条甲或者+3链甲。你不能以特殊属性附魔来取代这些附魔加值。<\/p>",
+    "source": "APG"
+}

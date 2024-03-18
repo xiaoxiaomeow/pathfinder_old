@@ -1,0 +1,32 @@
+{
+    "key": "project image",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/project-image/",
+    "name": "Project Image",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "bard": 6,
+        "sorcerer/wizard": 7
+    },
+    "subdomains": {"deception": 7},
+    "mysteries": {"occult": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small replica of you worth 5 gp)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "one shadow duplicate",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "<p>You tap energy from the Plane of Shadow to create a quasi-real, illusory version of yourself. The projected image looks, sounds, and smells like you but is intangible. The projected image mimics your actions (including speech) unless you direct it to act differently (which is a move action).<\/p><p>You can see through its eyes and hear through its ears as if you were standing where it is, and during your turn you can switch from using its senses to using your own, or back again, as a free action. While you are using its senses, your body is considered blinded and deafened.<\/p><p>If you desire, any spell you cast whose range is touch or greater can originate from the projected image instead of from you. The projected image can't cast any spells on itself except for illusion spells. The spells affect other targets normally, despite originating from the projected image.<\/p><p>Objects are affected by the projected image as if they had succeeded on their Will save. You must maintain line of effect to the projected image at all times. If your line of effect is obstructed, the spell ends. If you use dimension door, teleport, plane shift, or a similar spell that breaks your line of effect, even momentarily, the spell ends.<\/p>",
+    "name_zh": "投影术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (你的人偶, 价值5gp)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "一个幽影复制体",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则不信 (如果有互动)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>汲取阴影位面的能量，你制造出一个你自己的半真实幻象。这个投射出来的镜像看起来、听起来、闻起来都很像你，但是触摸不到。除非你指引投射出来的镜像做其他行动 (需要移动动作)，否则他会模拟你的行动 (包括说话)。<\/p><p>你可以通过它的眼睛观察，也可以通过它的耳朵听，就如同你在它所在的地方一样。在你的回合内你可以从它的感觉来切换回你自己的感觉，或者反过去，这些都是一个自由动作。当你使用它的感觉时，你的躯体视作目盲和耳聋。<\/p><p>如果你愿意，你施展的任何法术范围为接触或更远的法术都能以投射镜像为源发点进行计算，而非从你本身。除了幻术系法术外，这个投射镜像不能施展任何法术在它自己身上。即便源发点是从投射镜像开始计算，施展的法术依然能正常影响其他目标。<\/p><p>物品会被投射镜像所影响，就如同它们成功通过了意志豁免一样。你必须始终和你的投射镜像之间维持一条效果线。如果你的效果线被阻断，那么法术终止。如果你使用‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’，‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’，‘<a href=\"spell.html?spell=plane shift\">异界传送 (plane shift)<\/a>’或者类似能打断你效果线的法术，即便是片刻时间，这个法术都会终止。<\/p>",
+    "source": "CRB"
+}

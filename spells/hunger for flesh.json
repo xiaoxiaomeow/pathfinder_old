@@ -1,0 +1,39 @@
+{
+    "key": "hunger for flesh",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunger-for-flesh/",
+    "name": "Hunger for Flesh",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 4,
+        "psychic": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "spiritualist": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a ghoul fang)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid, magical beast, or monstrous humanoid",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Your target's belly distends and its front teeth grow longer and sharper. The creature ravenously craves the flesh of its own kind, gaining the staggered condition as hunger pangs rack its altered body. The target gains a bite attack as a primary natural attack that deals damage appropriate for its size (1d6 if Medium, 1d4 if Small). There's a 25% chance on each of the creature's turns that it can't overcome its hunger. If so, it must move directly toward the nearest corporeal creature of its type and subtype (if applicable) and make a bite attack against it. If the target lacks enough actions to attack on that turn, it moves as close to the creature as it can, but on its next turn, if the percentile dice indicate it overcomes its hunger, the target is not forced to pursue or attack further.<\/p><p>On any round after the target deals damage to another creature of its own type and subtype (if applicable) with its bite attack, the target loses the staggered condition. If it doesn't continue dealing bite damage to applicable creatures, the target regains the staggered condition at the beginning of its next turn.<\/p>",
+    "name_zh": "渴饮血肉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一颗石尸鬼之牙)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一位类人生物、魔法兽或人形怪物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>受术者的食欲激增，并且前排的牙齿变的长且尖锐。这生物急切的渴望他同类的血肉，这种饥饿，对该生物被变化身体来说是种折磨，导致他得到蹒跚(Staggered)状态。受术者获得噬咬做为主要天生武器，造成的伤害与自身体型相称(中体型1d6，小体型1d4)。有25%的机率，该生物无法忍受这种饥饿。如果是这样，他必须直接前往距离他最近的尸体，该尸体必须跟他是同种类且同子类(如果有子类的话)，然后对尸体进行一次噬咬攻击。如果受术者在当轮缺乏足够的行动力去做到这件事情，他会尽他可能的移动到离尸体最近的地方，但如果到了下一轮，如果百面骰表示受术者克服了自身的饥渴，那他也不会被强迫要继续靠近或噬咬。\n任何轮，受术者对另一个跟他同种类且同子类(如果有子类的话)的生物用噬咬攻击造成伤害的话，受术者失去蹒跚状态。如果受术者不能持续对同种类且同子类(如果有子类的话)的生物造成噬咬伤害的话，那受术者会在他下一轮的一开始重新获得蹒跚状态。<\/p>",
+    "source": "HA"
+}

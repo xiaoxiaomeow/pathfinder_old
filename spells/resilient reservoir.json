@@ -1,0 +1,32 @@
+{
+    "key": "resilient reservoir",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resilient-reservoir/",
+    "name": "Resilient Reservoir",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 3,
+        "paladin": 3,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "area": "special, see text",
+    "duration": "1 round/level",
+    "savingThrow": "none (see below)",
+    "spellResistance": "yes",
+    "text": "<p>This spell creates a magical well of retribution that a caster can unleash with blinding speed.<\/p><p>Upon casting this spell, damage from melee attacks and touch spells gets transferred into a special pool that you then redirect before the spell's duration expires.<\/p><p>Each time you are struck by a melee attack or touch spell that deals hit point damage, 1 point of damage is negated and transferred into the reservoir created by this spell. The total number of points in the reservoir cannot exceed your caster level (to a maximum of 20 points at 20th level). As an immediate action, anytime before the spell's duration expires, you can expend a number of points of energy from the reservoir, granting yourself an insight bonus on one skill check, attack roll, damage roll, or combat maneuver check, but you must do so before the roll is made. The bonus is equal to the number of points spent. For every five caster levels, you may call upon the reservoir one additional time (maximum of four times at 15th level).<\/p><p>If you are reduced to negative hit points while you are under the effect of this spell, the spell automatically release the remaining magic of the reservoir in a concussive blast of force. All creatures within a 15-foot radius take 1d6 points of force damage per 2 points remaining in the reserve (maximum of 10d6). A successful Reflex save halves this damage, and spell resistance applies to this effect.<\/p>",
+    "name_zh": "惩戒之池",
+    "race_zh": "半精灵",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "特殊, 见下文",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会创造惩戒用的魔法波动，施法者能够极快地将其中的力量释放出来。\n　 当施放该法术后，所受到的近战攻击以及接触法术造成的伤害会被转移至特殊的贮存池之中，你可以在法术持续时间结束之前将这些伤害重定向。\n　 每当你被近战攻击或接触法术打击并受到生命值伤害，其中1点伤害被无效化并转移至该法术创造的贮存池之中。贮存池内能够存储的总伤害无法超过你的施法者等级（最高在20级时储存20点）。以一个直觉动作，在法术持续时间结束之前的任何时刻，你都能释放出一定额的能量，使你自身在一次技能检定、攻击检定、伤害检定或战技检定中获得洞察加值，加值等同于释放出的能量数，但是你必须在想要加强的检定进行之前这么做。每5个施法者等级，你能够额外多召唤贮存池一次（最高为15级时的4次）。\n　 如果你在该法术的效果的影响下，生命值降低至负值，该法术会自动释放贮存池中剩余的魔法，造成爆炸性的力场冲击。所有在15尺半径范围内的生物会受到1d6点力场伤害/每2点贮存池内的剩余能量（最高10d6）。成功的反射豁免可以将该伤害减半，同时法术抗力也适用于该效果。<\/p>",
+    "source": "ARG"
+}

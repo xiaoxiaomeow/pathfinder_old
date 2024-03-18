@@ -1,0 +1,31 @@
+{
+    "key": "flame arrow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flame-arrow/",
+    "name": "Flame Arrow",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 3,
+        "magus": 3,
+        "sorcerer/wizard": 3
+    },
+    "elementalSchools": {"fire": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of oil and a small piece of flint)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "fifty projectiles, all of which must be together at the time of casting",
+    "duration": "10 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell allows you to turn ammunition (such as arrows, crossbow bolts, shuriken, and sling stones) into fiery projectiles. Each piece of ammunition deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable object or structure, but it won't ignite a creature it strikes.<\/p><h3>By the way&#8230;<\/h3><p>This spell can start fires on a ship.<\/p>",
+    "name_zh": "火焰箭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴油或小片打火石)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "50发弹药，所有弹药在施法时必须互相碰触",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术允许你将弹药 (例如箭矢、弩矢、手里剑、投石索弹丸) 转变为燃烧的弹药。每个弹药都会对其命中的目标额外造成1d6点火焰伤害。燃烧的弹药很容易就能引燃可燃物品或建筑，但是不会引燃它所击中的生物。<\/p>",
+    "source": "CRB"
+}

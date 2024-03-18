@@ -1,0 +1,33 @@
+{
+    "key": "hypnotism",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hypnotism/",
+    "name": "Hypnotism",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "several living creatures, no two of which may be more than 30 ft. apart",
+    "duration": "2d4 rounds (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Your gestures and droning incantation fascinate nearby creatures, causing them to stop and stare blankly at you. In addition, you can use their rapt attention to make your suggestions and requests seem more plausible. Roll 2d4 to see how many total HD of creatures you affect. Creatures with fewer HD are affected before creatures with more HD. Only creatures that can see or hear you are affected, but they do not need to understand you to be fascinated.<\/p><p>If you use this spell in combat, each target gains a +2 bonus on its saving throw. If the spell affects only a single creature not in combat at the time, the saving throw has a penalty of -2.<\/p><p>While the subject is fascinated by this spell, it reacts as though it were two steps more friendly in attitude. This allows you to make a single request of the affected creature (provided you can communicate with it). The request must be brief and reasonable. Even after the spell ends, the creature retains its new attitude toward you, but only with respect to that particular request.<\/p><p>A creature that fails its saving throw does not remember that you enspelled it.<\/p>",
+    "name_zh": "催眠术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "复数活物，任意两者之间的距离不超过30尺",
+    "duration_zh": "2d4轮 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你的手势和咒语能让周围的生物迷魂，这会使他们停住并茫然的看着你。然后，你可以趁此时给他建议，此时他会觉得你的要求听起来更有道理。投2d4决定你能够影响生物的总HD数量。HD最少的生物最先被影响。只有看得到或听得到你的生物才会被影响，但它们不需要理解你的话语就能被迷魂。<\/p><p>如果你在战斗中使用该法术，那么每个目标的豁免检定都会得到+2加值。如果法术只对一个施法时并未在战斗中的生物使用，那么他的豁免检定会受到-2减值。<\/p><p>当受术者被法术影响而迷魂时，他对你的态度会比以前好两级。你可以向受影响的生物提一个要求 (若你能与对方沟通)。该要求必须简单而合理。甚至在法术结束后，在这个特定的要求上，该生物对你依然保留新的态度。<\/p><p>豁免检定失败的生物不会记得你对他施放过该法术。<\/p>",
+    "source": "CRB"
+}

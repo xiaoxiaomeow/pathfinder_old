@@ -1,0 +1,40 @@
+{
+    "key": "agonizing rebuke",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/agonizing-rebuke/",
+    "name": "Agonizing Rebuke",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "cleric": 3,
+        "inquisitor": 3,
+        "mesmerist": 3,
+        "psychic": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 level)",
+    "target": "one living creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>With a word and a gesture, you instill such apprehension about attacking you in your target that doing so causes it mental distress and pain. Each time the target makes an attack against you, targets you with a harmful spell, or otherwise takes an action that would harm you, it takes 2d6 points of nonlethal damage.<\/p>",
+    "name_zh": "苦痛责难",
+    "race_zh": "大地精",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>以一个词和一个手势，你将攻击你不安灌输进你的目标，并在他如此做的时候对其造成精神上的苦难与疼痛。每当目标对你进行攻击、以你为目标施放有害法术、或者其他能够伤害你的类似动作时，他会受到2d6点非致命伤害。<\/p>",
+    "source": "ARG"
+}

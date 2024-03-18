@@ -1,0 +1,31 @@
+{
+    "key": "sepia snake sigil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sepia-snake-sigil/",
+    "name": "Sepia Snake Sigil",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["force"],
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered amber worth 500 gp and a snake scale)",
+    "range": "touch",
+    "target": "one touched book or written work",
+    "duration": "permanent or until discharged; until released or 1d4 days + 1 day/level; see text",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p>You cause a small symbol to appear in the text of a written work. The text containing the symbol must be at least 25 words long. When anyone reads the text containing the symbol, the <i>sepia snake sigil<\/i> springs into being, transforming into a large sepia serpent that strikes at the reader, provided there is line of effect between the symbol and the reader.<\/p><p>Simply seeing the enspelled text is not sufficient to trigger the spell; the subject must deliberately read it. The target is entitled to a save to evade the snake's strike. If it succeeds, the <i>sepia snake<\/i> dissipates in a flash of brown light accompanied by a puff of dun-colored smoke and a loud noise. If the target fails its save, it is engulfed in a shimmering amber field of force and immobilized until released, either at your command or when 1d4 days + 1 day per caster level have elapsed.<\/p><p>While trapped in the amber field of force, the subject does not age, breathe, grow hungry, sleep, or regain spells. It is preserved in a state of suspended animation, unaware of its surroundings. It can be damaged by outside forces (and perhaps even killed), since the field provides no protection against physical injury. However, a dying subject does not lose hit points or become stable until the spell ends.<\/p><p>The hidden sigil cannot be detected by normal observation, and detect magic reveals only that the entire text is magical.<\/p><p>A dispel magic can remove the sigil. An <i>erase<\/i> spell destroys the entire page of text.<\/p><p><i>Sepia snake sigil<\/i> can be cast in combination with other spells that hide or garble text, such as <i>secret page<\/i>.<\/p>",
+    "name_zh": "蛇纹法印",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (一片蛇鳞和价值500gp的琥珀粉)",
+    "range_zh": "接触",
+    "target_zh": "接触到的一本书或文字作品",
+    "duration_zh": "永久 或 直至发散；直至被释放 或 1d4日+每等级1日; 见后文",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你能够将使一个小型的印记出现在文字作品的文本之中。包含这个印记的文字长度必须至少有二十五个词。当任何人读到这段包含印记的文字时，如果阅读者和印记之间有效果线，那么蛇纹就会显现并攻击阅读者。<\/p><p>仅仅是看到这段有魔法的文字并不足以触发此法术；受术者必须有意阅读它。目标可以进行一次豁免来避开蛇的攻击。如果豁免成功，蛇纹会在一道褐色闪光中消失，同时伴随着一团棕色烟雾和强烈响声。如果目标在豁免中失败，那么他就会被卷入一团散发着微光的琥珀色力场中动弹不得，直到被释放为止。在你的命令下，或者在 {1d4+CL} 天后，目标就会被释放。<\/p><p>当被困在琥珀力场中时，目标不会衰老，不必呼吸，也不会饥饿、睡眠，或者重获得法术。他处在一种暂时的假死状态下，无法感觉到周围环境。由于力场不能保护任何物理伤害，因此他可以被外部力量所伤害 (甚至被杀)。但是在法术结束之前，一个濒死的生物也不会损失HP，同时也不会变得稳定。<\/p><p>隐藏的印记不会被任何普通观测手段侦测到，‘<a href=\"spell.html?spell=detect magic\">侦测魔法 (detect magic)<\/a>’只能揭示出那段文字是有魔法的。<\/p><p>‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’能将此印记移除。‘<a href=\"spell.html?spell=erase\">抹消术 (erase)<\/a>’则会将整页文字毁掉。<\/p><p>蛇纹法印可以和其他隐藏或混淆文字的法术合并使用，例如‘<a href=\"spell.html?spell=secret page\">秘密文页 (secret page)<\/a>’。<\/p>",
+    "source": "CRB"
+}

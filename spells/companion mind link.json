@@ -1,0 +1,28 @@
+{
+    "key": "companion mind link",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/companion-mind-link/",
+    "name": "Companion Mind Link",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "druid": 3,
+        "ranger": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "your animal companion",
+    "duration": "1 min./level",
+    "text": "<p>The link between you and your animal companion becomes stronger. As long as you are within line of sight of your animal companion, you can telepathically communicate with it as if you two shared a language. Also, as long as you are within line of sight of the animal companion, you can push your animal companion a swift action instead of a move action, and you do not need to succeed at Handle Animal checks to handle your animal companion. Such checks automatically succeed.<\/p>",
+    "mythicText": "Your animal companion understands complex instructions transmitted by the spell. It can perform any trick (even one it doesn't know) as well as any activity that could be understood by a creature with an Intelligence score of 8. ",
+    "name_zh": "友伴心桥",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "你的动物伙伴",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>持续时间    1分钟/等级<\/p><p>你与你的动物伙伴之间的联系变得愈发强烈。只要你与你的动物伙伴间拥有视觉线相连，就能够使用心灵感应与其沟通，就如同你们使用相同的语言交流一般。此外，只要你与你的动物伙伴间拥有视觉线相连，就能够使用迅捷动作 (而非原本的移动动作) 逼迫 (push) 你的动物伙伴，这么做并不需要成功的驯养动物检定操作动物伙伴。这些检定自动成功。<\/p>",
+    "source": "UC"
+}

@@ -1,0 +1,25 @@
+{
+    "key": "cure moderate wounds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cure-moderate-wounds/",
+    "name": "Cure Moderate Wounds",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "cleric/oracle": 2,
+        "druid": 3,
+        "inquisitor": 2,
+        "paladin": 3,
+        "ranger": 3,
+        "shaman": 2,
+        "witch": 2
+    },
+    "domains": {"healing": 2},
+    "text": "<p>This spell functions like cure light wounds, except that it cures 2d8 points of damage + 1 point per caster level (maximum +10).<\/p><p><\/p>",
+    "mythicText": "The damage cured increases to 4d8 points of damage + 2 points per caster level (maximum +20). The spell cures up to 2 points of ability damage if the target is a living creature. The target chooses what types of ability damage are cured. ",
+    "name_zh": "治疗中伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds\">治疗轻伤 (cure light wounds)<\/a>’一般，不过它能治疗 {2d8+CL (最高+10)} 点伤害。<\/p>",
+    "source": "CRB"
+}

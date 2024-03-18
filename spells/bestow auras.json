@@ -1,0 +1,29 @@
+{
+    "key": "bestow auras",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-auras/",
+    "name": "Bestow Auras",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "antipaladin": 3,
+        "paladin": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>You transfer one or more of your paladin or antipaladin auras (such as aura of courage and aura of resolve) to another creature. You retain the personal effect of that aura, but the target becomes the center of the aura effect instead of you. For example, if you transfer your aura of courage, you remain immune to fear, but the target becomes the center of the aura that grants a +4 morale bonus on saves against fear effects. If an aura functions only when you are conscious, the transferred aura functions only when the target is conscious. If an aura functions only when you expend uses of another ability (such as with aura of justice or aura of vengeance), the transferred aura functions only if the target has that other ability and expends uses of it to activate the aura.<\/p><p>You cannot transfer an aura that affects only you (such as aura of good).<\/p>",
+    "name_zh": "授予灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1分钟/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你能够将1个或多个自身的圣武士或反圣武士灵光能力（比如勇气灵光（Aura of Courage）和虔诚灵光（Aura of Resolve））转移到其他生物身上。你仍旧能保留灵光的个人效果，但是目标会取代你成为灵光的中心点。例如，你将勇气灵光转移给了目标，那么你仍旧免疫恐惧（fear），但是目标变为赋予对抗恐惧效果豁免+4士气加值的灵光中心点。若灵光只有在你有意识的时候才会生效，那么被转移之后它也只会在目标具有意识时才生效。若灵光只有在你花费其他能力之后才能生效（比如审判灵光（Aura of Justice）或复仇灵光（Aura of Vengeance）），那么被转移的灵光也只有在目标具有相关能力并且花费次数启动灵光后才生效。\n你无法转移仅影响自身的灵光，比如善良灵光（Aura of Good）。<\/p>",
+    "source": "ACG"
+}

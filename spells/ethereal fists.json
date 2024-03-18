@@ -1,0 +1,25 @@
+{
+    "key": "ethereal fists",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-fists/",
+    "name": "Ethereal Fists",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 4,
+        "spiritualist": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>Your hands reach simultaneously into the Ethereal and Material planes, allowing you to deal normal damage with claws, unarmed strikes, and touch spells or effects to ethereal creatures.<\/p><p>Miss chance due to etherealness (such as from the blink spell) doesn't apply, though miss chance based on concealment does.<\/p>",
+    "name_zh": "灵界拳",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级（可解消）",
+    "text_zh": "<p>你的手同时进入到灵界和主物质位面中，这使得你能够使用爪抓（claws）、徒手打击（unarmed strikes）和接触法术或效果对灵界生物（ethereal creatures）造成正常伤害。闪现术（blink）这样由于灵化（etherealness）而造成的失手率无法生效，尽管这些失手率是由隐蔽（concealment）产生的也是一样。<\/p>",
+    "source": "OA"
+}

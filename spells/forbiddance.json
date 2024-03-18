@@ -1,0 +1,28 @@
+{
+    "key": "forbiddance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forbiddance/",
+    "name": "Forbiddance",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 6,
+        "inquisitor": 6
+    },
+    "castingTime": "6 rounds",
+    "components": "V, S, M (holy water and incense worth 1,500 gp, plus 1,500 gp per 60-foot cube), DF",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "60-ft. cube/level (S)",
+    "duration": "permanent",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "<p><i>Forbiddance<\/i> seals an area against all planar travel into or within it. This includes all teleportation spells (such as dimension door and teleport), <i>plane shifting<\/i>, astral travel, ethereal travel, and all summoning spells. Such effects simply fail automatically.<\/p><p>In addition, it damages entering creatures whose alignments are different from yours. The effect on those attempting to enter the warded area is based on their alignment relative to yours (see below). A creature inside the area when the spell is cast takes no damage unless it exits the area and attempts to reenter, at which time it is affected as normal.<\/p><p style=\"margin-left:40px\"><i>Alignments identical<\/i>: No effect. The creature may enter the area freely (although not by planar travel).<\/p><p style=\"margin-left:40px\"><i>Alignments different with respect to either law/chaos or good/evil<\/i>: The creature takes 6d6 points of damage. A successful Will save halves the damage, and Spell Resistance applies.<\/p><p style=\"margin-left:40px\"><i>Alignments different with respect to both law/chaos and good/evil<\/i>: The creature takes 12d6 points of damage. A successful Will save halves the damage, and Spell Resistance applies.<\/p><p>At your option, the abjuration can include a password, in which case creatures of alignments different from yours can avoid the damage by speaking the password as they enter the area. You must select this option (and the password) at the time of casting. Adding a password requires the burning of additional rare incenses worth at least 1,000 gp, plus 1,000 gp per 60-foot cube.<\/p><p>Dispel magic does not dispel a <i>forbiddance<\/i> effect unless the dispeller's level is at least as high as your caster level.<\/p><p>You can't have multiple overlapping <i>forbiddance<\/i> effects. In such a case, the more recent effect stops at the boundary of the older effect.<\/p>",
+    "name_zh": "禁制术",
+    "castingTime_zh": "6轮",
+    "components_zh": "语言, 姿势, 材料 (价值1500gp的圣水与焚香，外加每60尺边长立方体1500gp), 法器",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "每等级一个60尺边长的立方体 (可变)",
+    "duration_zh": "永久",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>禁制术能阻止所有位面旅行进入一个区域，或者该区域内部的位面旅行。这包括所有的传送法术，比如‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’、‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’、‘<a href=\"spell.html?spell=plane shift\">异界传送 (plane shift)<\/a>’、星界旅行、灵界旅行，以及所有的召唤法术。这类效果仅仅是自动失败。<\/p><p>此外，阵营和你不同的生物进入该区域时还会受到伤害。这些试图进入被守护区域的生物所遭受的效果和它阵营与你之间的关系相关 (见后文)。当施法的时候已经在此区域的生物不会受到伤害，除非它离开后想再次进入，此时它如常受到影响。<\/p><p>相同阵营：不受影响。该生物可以自由进入此区域 (当然不能通过位面旅行的方式)。<\/p><p>在秩序/混乱方向或善良/邪恶方向之一有差异：该生物受到6d6点伤害。成功的意志豁免可以减半伤害，可以应用法术抗力。<\/p><p>在秩序/混乱方向和善良/邪恶方向上都有差异：该生物受到12d6点伤害。成功的意志豁免可以减半伤害，可以应用法术抗力。<\/p><p>根据你的选择，这个法术可以包括一个口令，此时那些阵营和你不同的生物在进入区域的时候可以说出口令来避免受到伤害。你必须在施法的时候决定是否使用口令 (以及口令内容)。添加口令需要额外焚烧至少价值1000gp的稀有焚香，外加每个边长60尺立方体1000gp的焚香。<\/p><p>‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’不能解除禁制术效果，除非解除者的等级至少和你的CL一样高。<\/p><p>你不能叠加多重禁制术效果。在这种情况下，此时新产生的效果会在较早效果的边界线处中止。<\/p>",
+    "source": "CRB"
+}

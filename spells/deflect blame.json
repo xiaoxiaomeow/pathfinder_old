@@ -1,0 +1,33 @@
+{
+    "key": "deflect blame",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deflect-blame/",
+    "name": "Deflect Blame",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You can cast this spell immediately after attacking a creature, causing that creature to believe that a different creature that threatens it was responsible for the attack rather than you.<\/p><p>You can instead cast this spell immediately after a failed Bluff, Diplomacy, or Intimidate check, causing the target of that check to believe that a different creature you designate within spell range was responsible for the content of that failed check. Using the spell in these ways doesn't compel the target to undertake a specific action in response to its belief of where the blame lies.<\/p>",
+    "name_zh": "推卸责任",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你能在攻击1个生物后立即施放该法术，让该名生物相信你不该为此次攻击负责，而是另1个此时正在威胁到目标的其他生物。你可以在1次失败的唬骗、交涉或威吓检定后立即施放该法术，让上述检定的目标相信你不该为失败的检定负责，而是位于法术范围内、由你指定的另1名生物为失败的检定承担责任。以上述方式使用该法术时，不会迫使目标对他认为应当背负责任的对象采取特定的行动。<\/p>",
+    "source": "UI"
+}

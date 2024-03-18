@@ -1,0 +1,37 @@
+{
+    "key": "miserable pity",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/miserable-pity/",
+    "name": "Miserable Pity",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level and 1 min.; see text",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as sanctuary, except creatures attempting to attack the target who fail their saves also feel a strong sense of pity toward the target, as if it were weak, pathetic, and not a threat. If the target breaks the spell by attacking, any creature that failed its save against the spell gains a +2 morale bonus on attack rolls against the target for 1 minute.<\/p>",
+    "name_zh": "示敌以弱",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1小时/等级和 1分钟；见下文",
+    "savingThrow_zh": "意志，通过则无效 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式类似圣域术 (sanctuary)，不过试图攻击受术者并失败的原因是一种强烈的印象，它使得目标看起来非常弱小，非常可怜，毫无威胁。<\/p><p>当受术目标进行攻击并打破该法术效果时，所有那些曾经在针对该法术的豁免检定中失败的生物对受术目标的攻击检定都有+2士气加值，该效果持续一分钟。<\/p>",
+    "source": "UM"
+}

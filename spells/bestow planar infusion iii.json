@@ -1,0 +1,18 @@
+{
+    "key": "bestow planar infusion iii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-planar-infusion-i/",
+    "name": "Bestow Planar Infusion III",
+    "base": "bestow planar infusion i",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "cleric": 7,
+        "psychic": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "text": "<p>This functions as bestow planar infusion I, except that the touched creature gains the greater infusion of the current plane.<\/p><\/div>",
+    "name_zh": "位面注能III",
+    "text_zh": "<p>这种法术如同位面注能I（Bestow Planar Infusion I），除了接触的生物获得当前所处位面的高等注能效果。<\/p>",
+    "source": "PA"
+}

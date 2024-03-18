@@ -1,0 +1,33 @@
+{
+    "key": "groundswell",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/groundswell/",
+    "name": "Groundswell",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "cleric": 2,
+        "druid": 2,
+        "magus": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell allows the target to cause the ground to rise up beneath him. As a swift action, the target can cause the ground to rise 5 feet, while all adjacent squares are treated as steep slopes. The groundswell precludes flanking from creatures standing at lower elevations than the target. If the target moves after creating a groundswell, the ground returns to its normal elevation at the end of his turn; otherwise, it remains in place until the target moves or uses a swift action to return the ground to normal. A groundswell cannot increase elevation of the ground beyond 5 feet.<\/p>",
+    "name_zh": "隆地术",
+    "race_zh": "矮人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术允许目标使他脚下的地面隆起。以一个迅捷动作，目标能够让地面隆起5尺高，所有相邻的方格视为陡坡。隆地术会防止站在低处的生物对目标进行夹击。如果目标在制造地面隆起后移开，地面会在他的回合结束时恢复正常；否则地面的隆起会持续至目标移开或以一个迅捷动作使地面恢复正常。隆地术无法使地面隆起的高度超过5尺。<\/p>",
+    "source": "ARG"
+}

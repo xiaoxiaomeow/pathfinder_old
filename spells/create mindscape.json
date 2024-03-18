@@ -1,0 +1,33 @@
+{
+    "key": "create mindscape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-mindscape/",
+    "name": "Create Mindscape",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 4,
+        "mesmerist": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one creature",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will disbelief",
+    "spellResistance": "yes",
+    "text": "<p>You create an immersive mindscape that the minds of both you and another creature enter together.<\/p><p>You choose whether the mindscape is overt or veiled, and whether it's harmless or harmful. You can choose any shape and size trait, as well as any gravity trait (though you can't make it so the gravity is so strong it harms creatures within).<\/p><p>The mindscape has normal time, no alignment traits, and normal magic.<\/p><p>You designate where both you and your subject appear.<\/p><p>You don't need line of sight to draw the subject creature into the mindscape, but you must be aware of its presence within range. If you target an area with more than one sentient creature and you have never seen any of the creatures before (for example, if you know a group of soldiers is inside a barracks but you can't see them through the door), the subject of this spell is selected at random. If you have seen firsthand the creature you wish to target (continuing the example, if you spied the sergeant entering the room moments before), You can select it unerringly from among all the creatures.<\/p><p>You must appear somewhere in your mindscape, though it's relatively easy to shield yourself from the view of any other creatures inside if they don't realize they're in a mindscape.<\/p><p>You must also create a method of exit from the mindscape when you cast this spell, and that method must be possible to achieve based on the traits of the mindscape, even if it is obscure or difficult. The GM decides whether a method of escape is reasonable. Anything that would be a reasonable method of waking from a dream during deep sleep could allow one to leave a mindscape.<\/p><p>More creatures than the initial two can enter an existing mindscape, typically through the use of the mindscape door spell. You can create illusory creatures within the mindscape, but you're able to direct or concentrate on only one at a time.<\/p><p>Only this creature is believable; any others largely remain silent or speak generic, repetitive phrases.<\/p><p>As is normal with mindscapes, you and any other creatures within the mindscape are unable to take actions within the real world, and your bodies lose their Dexterity bonuses to AC.<\/p><p>If you choose to create a veiled mindscape, the first time another creature interacts with the environment, it can attempt a Will save to disbelieve the effect. Disbelieving a mindscape reveals to that creature that it's within a mindscape and gives it the knowledge needed to leave the mindscape, but doesn't free it from the mindscape. For example, if you create a mindscape that takes the form of a parlor inside a stately mansion, and your target creature succeeds at its Will save, it gains the understanding that walking out the front door of the mansion allows it to return to its physical body, but it must actually move through the mental landscape of the mansion to reach the front door and exit in order to flee the mindscape. If the mindscape is overt, the creature automatically knows how to exit if it so chooses.<\/p><p>This spell ends at any time that you choose to depart the mindscape, freeing the target as well. Any creature that drops below 0 hit points while inside the mindscape returns to its body. If this happens to you, the spell also ends, freeing anyone still inside.<\/p><p><i>Create mindscape<\/i> can be made permanent with a permanency spell by a caster of 12th level or higher at a cost of 10,000 gp. You and other creatures aware of a permanent mindscape can come and go using the <i>mindscape door<\/i> spell.<\/p>",
+    "name_zh": "塑造心像结界",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则不相信",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一个沉浸式心像结界（Immersive Mindscapes），并使你和另一个生物的精神一同进入其中。由你选择这个心像结界为易识别（Overt）还是隐蔽（Veiled），以及有害（Harmful）还是无害（Harmless）。你可以选择任意的形状与大小特性以及重力特性（不过你无法让重力强大到伤害其中的生物）。心像结界还具有正常时间（Normal Time）特性、无阵营特性、以及正常魔法（Normal Magic）特性。\n由你指定你和受术者出现在何处。你不需要具有视觉线（line of sight）便能将受术生物拉进心像结界，不过你必须注意到身处法术范围内的目标的存在。若你以一片具有多个有知觉（sentient）生物的区域为目标，而且在此之前你从未见过其中的生物的话（举例说明：如果你知道有一群士兵驻扎在兵营内，但是你无法透过门看到他们），那么法术的受术者会被随机选取。如果你曾经直接看到希望成为法术目标的生物（继续使用上文中的例子：比如通过侦查，你在片刻之前看到士兵长进入了房间的话），那么你能够从这群生物中正确地选择目标。你必须出现在自己的心像结界的某处，不过当任何其他生物无法意识到自己身处于心像结界内时，从这些生物的视野中保护自身也是件相对容易的事情。当你施放法术时，也必须创造出一个从心像结界内离开的方法，而且该方法必须能够基于心像结界的特性来实现，即便该方法本身比较模糊或者困难也要设置。由GM判断逃离方法是否合理。任何能够从深度睡眠的梦境中醒来的合理方法都可以作为离开心像结界的方法来比较。\n除了最初的两人之外，更多数量的生物也能够进入现有的心像结界之内，这通常要使用心像门（Mindscape Door）法术来达成。你能够在心像结界内创造幻象生物（illusory creatures），但你在同一时间内只能指挥或专注于一个幻象生物。只有这个生物是能够让人相信（believable）的存在；任何其他生物都会保持沉默，或者以普通而重复的措辞进行交谈。\n与通常的心像结界一样，你和任何其他身处于心像结界的生物均无法在现实世界中执行动作，而且你们的身体会失去AC上的敏捷加值。\n若你选择创造隐蔽（Veiled）心像结界的话，那么当其他生物第一次与周遭环境进行互动时，它能够尝试一次意志豁免以不相信心像结界。不相信心像结界会对该生物揭示出它当前正处于心像结界之内的事实，并且赋予它离开心像结界所需要的知识，不过这并不会直接将它从心像结界中释放。举例说明：如果你创造出一个心像结界，它看起来像是位于宏伟宅邸内的起居室，此时你的目标成功通过了它的意志豁免，它会明白走出宅邸的正门便能够返回自己的体内，但它必须实际穿过这精神景观内的宅邸并抵达正门才能够逃离心像结界。若心像结界具有易识别（Overt）特性，那么该生物会自动了解到如何离开心像结界。\n无论何时，当你选择离开心像结界时，该法术便会结束，于此同时目标也会被释放。在心像结界之内时，任何生命值降至0点的生物也会返回自己的身体。如果这情况发生在你身上，该法术也会停止并且释放任何仍处于其中的生物。\n塑造心像结界（Create Mindscape）可以被魔法恒定术（permanency）所恒定，这需要12级或更高等级的施法者以及10000gp的开销。你和其他了解这个永久心像结界存在的生物能够使用心像门（Mindscape Door）法术进入和离开心像结界。<\/p>",
+    "source": "OA"
+}

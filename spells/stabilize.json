@@ -1,0 +1,33 @@
+{
+    "key": "stabilize",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stabilize/",
+    "name": "Stabilize",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "cleric/oracle": 0,
+        "druid": 0,
+        "inquisitor": 0,
+        "psychic": 0,
+        "witch": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V,S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature is automatically stabilized and does not lose any further hit points. If the creature later takes damage, it continues dying normally.<\/p>",
+    "name_zh": "稳定伤势",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>在施放该法术时，你要将一名HP为-1或更低的活物作为目标。该名生物会自动稳定伤势并且不会进一步损失HP。如果该名生物在之后受到伤害，会如常回到濒死状态。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "trade items",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trade-items/",
+    "name": "Trade Items",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "bard": 3,
+        "mesmerist": 3,
+        "sorcerer/wizard": 4,
+        "summoner": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (any held object weighing no more than 5 lbs./level)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one object weighing no more than 5 lbs./level",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You cause the target object and the object used as a focus for the spell to immediately swap places. The target object appears in your hand (or falls to the ground in your square if you are unable to hold it). The stronger the connection between the two objects, the more difficult the spell is to resist, as indicated on the table below. The modifiers are cumulative.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Similarity<\/th>    <th class=\"text\">DC<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">The two objects are the same type of object (such as “keys,” “swords,” “scrolls”)<\/td>    <td class=\"number\">+1<\/td>   <\/tr>   <tr>    <td class=\"text\">The two objects are made of the same material<\/td>    <td class=\"number\">+1<\/td>   <\/tr>   <tr>    <td class=\"text\">The two objects have the same weight (accurate to the nearest ounce)<\/td>    <td class=\"number\">+1<\/td>   <\/tr>   <tr>    <td class=\"text\">The two objects are part of the same set or made +2 in the exact same mold<\/td>    <td class=\"number\">+2<\/td>   <\/tr>   <tr>    <td class=\"text\">The target object has a higher gp value than the focus item<\/td>    <td class=\"number\">-2<\/td>   <\/tr>   <tr>    <td class=\"text\">The target object is tied its holder, such as a bonded item<\/td>    <td class=\"number\">-2<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "物品置换术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（任意你手持的物体，其重量不超过5磅/级）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个物体，其重量不超过5磅/级",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你让目标物体与用作该法术器材的物体立即交换位置。目标物体出现在你手中（若你无法持握它，则会掉落在你所占据空间的地面上）。两件物体之间的关联性越强，该法术就越难以抵御，详细请见后述表格。其调整值均可累计。\n相似点 DC调整 \n两件物体是相同类型的物体（比如‘钥匙’、‘剑’、‘卷轴’） +1 \n两件物体由相同的材料制作 +1 \n两件物体重量相同（单位精确到盎司） +1 \n两件物体是同一套物体的一部分或者由相同的模具制成      +2 \n目标物体的gp价值高于器材物体 -2 \n目标物体与持有者连在一起，比如捆在目标身上 -2<\/p>",
+    "source": "UI"
+}

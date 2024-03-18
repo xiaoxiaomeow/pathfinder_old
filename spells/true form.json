@@ -1,0 +1,28 @@
+{
+    "key": "true form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/true-form/",
+    "name": "True Form",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "druid": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p><i>True form<\/i> removes any <i>polymorph<\/i> effect from a target creature, returning it to its true form, even against its will. Against creatures affected by <i>polymorph<\/i> spell effects (such as <i>baleful polymorph<\/i> or <i>giant form<\/i>), you must make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the <i>polymorph<\/i> immediately ends.<\/p><p>A creature with the supernatural ability to change shape (such as a lycanthrope) must make a Will Saving Throw or immediately revert to its true form. If it fails this first Saving Throw, the creature can attempt another Will Saving Throw to overcome the spell as a full-round action that does not provoke attacks of opportunity. If this save succeeds, the spell ends and the creature is capable of changing shape once again. If the second save fails, the creature is locked in its true form for the duration of the spell, preventing any further <i>polymorph<\/i> effects from changing its shape.<\/p>",
+    "name_zh": "现形术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "最多每3等级一个生物，互相之间不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术会从目标生物身上移除任何变形效果，使其现出真实的外形，即使这会违背它的意愿。<\/p><p>本法术对受到变形法术效果影响 (例如恶意变形或巨人形态)，你必须进行一次DC为11加对方施法者等级的施法者等级检定 (1d20加你的施法这等级，最高+15)。成功则意味着变形效果立刻结束。<\/p><p>使用超自然能力改变形态的生物 (如兽化人) 必须通过一次意志豁免，否则立刻恢复其真实形态。<\/p><p>如果第一次意志豁免失败，生物可以再用一个整轮动作进行第二次意志豁免来试图抵抗法术效果，这不会引发藉机攻击。如果豁免成功，法术效果立刻结束，生物可以再次进行变形。<\/p><p>如果第二次豁免仍然失败，生物在法术效果结束前被锁定在真实形态，不能再受到任何变形效果的影响，直到法术结束。<\/p>",
+    "source": "APG"
+}

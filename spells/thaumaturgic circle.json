@@ -1,0 +1,21 @@
+{
+    "key": "thaumaturgic circle",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thaumaturgic-circle/",
+    "name": "Thaumaturgic Circle",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "medium": 3,
+        "occultist": 3,
+        "sorcerer/wizard": 4,
+        "summoner": 4
+    },
+    "components": "V, S, M (a 3-ft.-diameter circle of powdered silver), DF  <div>",
+    "text": "<p>This spell functions as magic circle against chaos, evil, good, or law, but rather than stipulating an alignment descriptor, You can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and devils.<\/p>",
+    "name_zh": "反异界法阵",
+    "components_zh": "语言，姿势，材料（由银粉画出的直径三尺的圆环），法器",
+    "text_zh": "<p>该法术的功能如同反混乱、邪恶、善良或秩序法阵（Magic Circle against Chaos, Evil, Good, or Law）一般，不过取代阵营描述符（alignment descriptor），你能够指定任意一种异界生物（outsider）的非阵营亚种（non-alignment subtype），这包括气系（air）、土系（earth）、火系（fire）和水系（water），你也可以选择异界生物的种族，比如天使（angels）和魔鬼（devils）。<\/p>",
+    "source": "OA"
+}

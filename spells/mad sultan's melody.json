@@ -1,0 +1,39 @@
+{
+    "key": "mad sultan's melody",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mad-sultan-s-melody/",
+    "name": "Mad Sultan's Melody",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "mind-affecting",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "mesmerist": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (masterwork flute, pipe, or string instrument)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/2 levels, no two of which may be more than 30 ft. apart (see text)",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You imitate the mad cacophony created by the awful beings associated with the Outer God, Azathoth. This spell targets only creatures with the ooze type, creatures with the amorphous special ability, and non-bipedal creatures with a special association with the Outer Gods. This music draws the targets' attention to the caster, as per the fascinate bardic performance. It affects mindless creatures despite the mindless quality typically granting immunity to mind-affecting effects, though it doesn't ignore any other immunity to mind-affecting effects the creature might have. The caster doesn't have to maintain the effect each round—the music continues for the duration of the spell. Creatures fascinated by <i>mad sultan's melody<\/i> become immune to any other casting of the spell for 24 hours after the spell ends, and the spell ends if the fascination breaks on any of its targets for any reason (such as an attack).<\/p><p>If you have the bardic performance class feature and the fascinate bardic performance, you can choose to use the spell's saving throw DC or a DC equal to 10 + 1/2 your levels in the class that grants you bardic performance + your Charisma modifier, whichever is higher. If you choose to use the latter DC, each round of the melody costs 1 round of bardic performance and it counts as an active performance for determining how many performances you can have active.<\/p><p>This spell takes a toll on the caster. Each time you cast it, you take 1d4 points of Wisdom damage. If your campaign uses the sanity rules, you instead take 2d6 points of sanity damage.<\/p>",
+    "name_zh": "疯狂主宰的旋律",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (精制品长笛、管乐器或弦乐器)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1位生物/2等级，任意两者之间不得相距超过30尺 (见下)",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你模仿由不可名状之存在的外神：阿撒托斯所创造的疯狂的噪音。此法术仅能瞄准泥怪类型的生物、拥有不定形体(amorphous)特殊能力的生物，以及和外神们有特殊关联的非两足生物。这股乐音将受术者的注意力集中至施法者上，按吟游表演(Bardic Performance)：迷魂(Fascinate)来。此法术也影响无心智的生物，尽管无心智这项特质一般会给予其免疫影响心灵效果，但此法术不能忽视该生物拥有的其他任何免疫影响心灵效果。施法者不必每轮保持该效果，此乐音会在法术持续时间持续不停。被疯狂主宰的旋律所迷魂的生物，会在此法术结束之后，免疫此法术任何其他来源24小时，并且如果此法术的任一目标的迷魂状态因为任何理由(像是被攻击)被打破，则此法术结束。\n如果你有吟游表演职业能力以及吟游表演：迷魂，你可以选择使用该法术的豁免检定DC，或着一个数值等同于10+1/2等级(此等级为授予你吟游表演能力的职业之等级)+你的魅力调整值的DC，选择较高者。如果你选择使用后者的DC，乐音每一轮会花费一轮的吟游表演使用轮数，并且在决定你可以启动多少表演时，算作是一个启动的表演。\n此法术需要施法者付出代价。每一次你施展它，你会受到1d4点感知伤害。如果你的战役使用理智系统，你受到2d6理智伤害来取代感知伤害。<\/p>",
+    "source": "HA"
+}

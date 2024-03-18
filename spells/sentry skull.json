@@ -1,0 +1,33 @@
+{
+    "key": "sentry skull",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sentry-skull/",
+    "name": "Sentry Skull",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "antipaladin": 1,
+        "cleric": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 hour",
+    "components": "V, S, M (an onyx gem worth at least 10 gp)",
+    "range": "touch",
+    "target": "severed head touch",
+    "duration": "permanent (d); see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on Perception checks.<\/p><p>If you are within 30 feet of the head, as a standard action you can shift your senses to it, seeing and hearing from its location and gaining the benefit of its darkvision and low-light vision, and you may use its Perception skill instead of your own. While your senses are in the severed head, your body is blind and deaf until you spend a free action to shift your senses back to your own body.<\/p><p>When you create the head, you can imprint it with a single triggering condition, similar to magic mouth. Once this triggering condition is set, it can never be changed. If you are within 30 feet of the head, you immediately know if it is triggered (if you have multiple active sentry skulls, you also know which one was triggered). This wakens you from normal sleep but does not otherwise disturb your concentration. For example, you could have a sentry skull alert you if any humanoid comes into view, if a particular rival approaches, if your guard animal is killed, and so on, as long as it occurs where the severed head can see it.<\/p><p>This spell does not give the head any ability to speak, think, or take any kind of action other than to turn itself, though it is a suitable target for other spells such as magic mouth.<\/p>",
+    "name_zh": "头颅哨卫",
+    "race_zh": "兽人",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言, 姿势, 材料 (一块价值至少10gp的玛瑙石)",
+    "range_zh": "接触",
+    "target_zh": "接触的被切下的头颅",
+    "duration_zh": "永久 (可解消)；见详述",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使在24小时内被杀死的类人生物或人形怪物的被切下的头颅重获感官。头颅必须被固定在一根杆子，长矛，树枝或类似稳定物体上，且法术会在头颅或固定物品被移动后结束。头颅具有60尺黑暗视觉和昏暗视觉，可以原地旋转以观察任何方向，同时在察觉检定上获得+5加值。<\/p><p>如果你在该头颅的30尺内，以一个标准动作，你可以分享其感官，通过它的位置看和听，并获得黑暗视觉和昏暗视觉的效果，你可以用它的察觉技能代替你自己的。当你的感官处于被切下的头颅中时，你的身体目盲并耳聋，直到你花费一个自由动作在将你的感官切换回你自己的身体。<\/p><p>当你创造该头颅时，你可以在它上面刻印一个单独的触发条件，类似‘魔嘴术’。一旦该触发条件被设置，就不可再被改变。若你处于头颅的30尺内，你可以立刻知道它是否被触发过了 (若你拥有数个可用的头颅哨兵，你还能知道哪一个被触发了)。这会让你从普通的睡眠中醒来，但是不会影响你的专注。举例来说，你可以让一个头颅哨卫在任何类人生物进入视野中时、在一个特殊的敌人靠近时、在你的守卫用动物被杀死时，以及诸如此类时警告你，只要事件发生在头颅哨兵可以看见的地方。<\/p><p>这一法术不会给予头颅任何说话，思考或进行任何除了转动自身之外的行动，尽管它是其他魔法，比如‘魔嘴术’的目标。<\/p>",
+    "source": "ARG"
+}

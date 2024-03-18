@@ -1,0 +1,33 @@
+{
+    "key": "appearance of life, greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Appearance%20of%20Life,%20Greater",
+    "name": "Appearance of Life, Greater",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "medium": 4,
+        "mesmerist": 5,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "spiritualist": 4,
+        "witch": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (one Tiny or larger living creature)",
+    "range": "touch",
+    "target": "one willing undead creature touched",
+    "duration": "1 hour/level",
+    "savingThrow": "Will disbelief or Will negates (see text)",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as appearance of life (Pathfinder RPG Horror Adventures 108), except that you can disguise a single undead creature regardless of its number of Hit Dice, and the illusion also creates relevant smells, sounds, textures, and temperatures to match the appearance. If you disguise the target as a living version of itself, creatures that interact with the target take a –5 penalty on their Will saving throws to disbelieve the illusion, though if the target attacks a creature, the attacked creature no longer takes this penalty.<\/p>",
+    "name_zh": "高等鲜活外观",
+    "castingTime_zh": "1轮",
+    "range_zh": "接触",
+    "target_zh": "一个自愿被碰触的不死生物",
+    "duration_zh": "1小时/等级",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术如同鲜活外观(appearance of lifeHA)般作用，除了你可以易容一个单一的不死生物，而且不用理会它的HD数，并且此幻术也创造相关的味道、声音、肌肤纹理与温度来匹配易容的外观。如果你将目标易容成该目标物的活物形象，那生物与此目标互动时，会在不相信幻术的意志豁免检定上得到-5减值，但如果目标攻击这个生物，那被攻击的生物不会得到这减值。<\/p>",
+    "source": "VC"
+}

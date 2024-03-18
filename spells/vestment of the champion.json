@@ -1,0 +1,28 @@
+{
+    "key": "vestment of the champion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vestment-of-the-champion/",
+    "name": "Vestment of the Champion",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "antipaladin": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "range": "touch",
+    "target": "armor or shield touched",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This functions as magic vestment, except it only affects armor or a shield you are wearing or carrying. If the armor or shield is worn or carried by anyone other than you, the spell has no effect, but resumes its effect when you are wearing or carrying it again.<\/p>",
+    "name_zh": "斗士法衣",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的盔甲或盾牌",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>该法术的功能如同魔化防具 (magic vestment) 一般，不过它只影响你正在穿着或携带着的盔甲或盾牌。如果盔甲或盾牌被除你之外的其他人穿戴或携带的话，该法术会失效，但是当这些装备重回你手中时会再次生效。<\/p>",
+    "source": "UM"
+}

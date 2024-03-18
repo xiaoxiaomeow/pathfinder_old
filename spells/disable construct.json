@@ -1,0 +1,30 @@
+{
+    "key": "disable construct",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disable-construct/",
+    "name": "Disable Construct",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "construct touched",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p>You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the construct fails its saving throw, it becomes helpless, but it receives a new save each round at the end of its turn to shake off the effect. If the construct is normally immune to magic, the pulse is less effective and the construct receives a +4 bonus on its saving throw.<\/p>",
+    "name_zh": "构装体残废术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的构装体",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你能够对目标进行一次近战接触攻击，并将一道脉冲传输过去，这会干扰赋予构装体生命的魔法。若构装体在意志豁免检定中失败，则会在法术持续时间内变得无助（helpless），但目标每轮内在他回合结束时都可以进行一次豁免以摆脱该法术效果。如果目标构装体免疫魔法，则在对抗该法术时将会获得+4豁免加值。<\/p>",
+    "source": "ACG"
+}

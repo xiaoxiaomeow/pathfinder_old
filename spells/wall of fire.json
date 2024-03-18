@@ -1,0 +1,41 @@
+{
+    "key": "wall of fire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-fire/",
+    "name": "Wall of Fire",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 4,
+        "druid": 5,
+        "magus": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 3,
+        "unchained summoner": 4
+    },
+    "domains": {"fire": 4},
+    "elementalSchools": {"fire": 4},
+    "bloodlines": {"efreeti": 4},
+    "mysteries":     {
+        "battle": 4,
+        "flame": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a piece of phosphor)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "opaque sheet of flame up to 20 ft. long/level or a ring of fire with a radius of up to 5 ft./two levels; either form 20 ft. high",
+    "duration": "concentration + 1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>An immobile, blazing curtain of shimmering violet fire springs into existence. One side of the wall, selected by you, sends forth waves of heat, dealing 2d4 points of fire damage to creatures within 10 feet and 1d4 points of fire damage to those past 10 feet but within 20 feet. The wall deals this damage when it appears, and to all creatures in the area on your turn each round. In addition, the wall deals 2d6 points of fire damage + 1 point of fire damage per caster level (maximum +20) to any creature passing through it. The wall deals double damage to undead creatures.<\/p><p>If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. If any 5-foot length of wall takes 20 points or more of cold damage in 1 round, that length goes away. (Do not divide cold damage by 2, as normal for objects.)<\/p><p><i>Wall of fire<\/i> can be made permanent with a permanency spell. A permanent <i>wall of fire<\/i> that is extinguished by cold damage becomes inactive for 10 minutes, then reforms at normal strength.<\/p>",
+    "name_zh": "火墙术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一块磷)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "至多每等级20尺长的不透明火墙, 或者半径至多为每两个等级5尺半径的",
+    "duration_zh": "专注+1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一道燃烧着紫色火焰的帘幕跃然而出，它是固定不可动的。火墙的一面——由你决定——会喷出热浪，对10尺内的生物造成2d4点火焰伤害，对10尺外、20尺内的生物造成1d4点火焰伤害。火墙出现时就会造成伤害，自后每到你的行动回合，区域内的生物都会受伤。另外，火墙对试图穿越的生物造成2d6点火焰伤害，施法者每等级再+1点伤害 (最多+20点)。火墙对不死生物造成双倍伤害。<\/p><p>若你在有生物的地方召出火墙，该处的生物所受伤害和穿越火墙一样。每5尺长度的墙面在一轮中若受到20点以上的寒冷伤害，则该这段墙面消失 (寒冷伤害不用像以物体为对像那样将伤害减半)。<\/p><p>火墙术可使用‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。恒定的火墙在被寒冷伤害熄灭后，会消失10分钟，然后恢复原状。<\/p>",
+    "source": "CRB"
+}

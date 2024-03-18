@@ -1,0 +1,30 @@
+{
+    "key": "ghostly disguise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghostly-disguise/",
+    "name": "Ghostly Disguise",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "inquisitor": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min./level (d)",
+    "text": "<p>You make yourself—including clothing, armor, weapons, and equipment—appear translucent like a ghost. Any mundane or magical disguise on you is affected by this illusion as well; for example, if you are disguised as the king or a sahuagin, you look like a ghostly version of the king or a sahuagin. Your ghostly form may have a pale green, blue, or violet coloration, or a muted version of your normal appearance.<\/p><p>The spell does not actually make you ghostly or provide any incorporeal abilities. If you choose, the illusion can make you appear to float slightly above the ground, though you are actually still on the ground. A creature that interacts with the glamer gets a Will save to recognize it as an illusion.<\/p>",
+    "name_zh": "幽灵伪装",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>持续时间    10分钟/等级 (可解消)<\/p><p>你使你自己——包括服装、盔甲、武器和装备——变得像幽灵一样半透明。任何其他物理和魔法的易容效果都将继续有效。例如如果你已经易容成一个国王或一个沙华鱼人，则现在你看起来像一个幽灵国王或幽灵沙华鱼人。<\/p><p>你的幽灵外观可以呈现浅绿色、蓝色或紫色，或者干脆是你本来外形的透明版。<\/p><p>这个法术事实上没有使你变成幽灵，也不会给你任何虚体的能力。如果你想要，幻术可以让你看起来悬浮于地面之上，即使你仍站在地面上。<\/p><p>一个与你进行感官交互的生物可以进行一个意志检定以察觉这是一个幻术。<\/p>",
+    "source": "UM"
+}

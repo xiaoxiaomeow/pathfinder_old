@@ -1,0 +1,30 @@
+{
+    "key": "fabricate",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fabricate/",
+    "name": "Fabricate",
+    "school": "transmutation",
+    "levels": {"sorcerer/wizard": 5},
+    "domains": {"artifice": 5},
+    "elementalSchools":     {
+        "void": 5,
+        "wood": 5
+    },
+    "castingTime": "see text",
+    "components": "V, S, M (the original material, which costs the same amount as the raw materials required to craft the item to be created)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "up to 10 cu. ft./level; see text",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You convert material of one sort into a product that is of the same material. Creatures or magic items cannot be created or transmuted by the <i>fabricate<\/i> spell. The quality of items made by this spell is commensurate with the quality of material used as the basis for the new fabrication. If you work with a mineral, the target is reduced to 1 cubic foot per level instead of 10 cubic feet.<\/p><p>You must make an appropriate Craft check to fabricate articles requiring a high degree of craftsmanship.<\/p><p>Casting requires 1 round per 10 cubic feet of material to be affected by the spell.<\/p>",
+    "name_zh": "鬼斧神工",
+    "castingTime_zh": "见后文",
+    "components_zh": "语言, 姿势, 材料 (原材料，与将要被创造出的物品在制造时所需要的原材料数量相同)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "至多每等级10立方尺; 见后文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你将一种材料转化成同种材料的产品。鬼斧神工不能用来改变或制造生物或魔法物品。用该法术制造的物品品质和制成品中主要部分的原料品质相称。如果你使用矿石来制造物品，那么法术目标会降低至每等级1立方尺，而非每等级10立方尺。<\/p><p>对于那些需要高度工艺的产品而言，你必须进行一次相应的工艺检定。<\/p><p>该法术的施法时间为每影响10立方尺材料1轮。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,38 @@
+{
+    "key": "euphoric tranquility",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/euphoric-tranquility/",
+    "name": "Euphoric Tranquility",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 6,
+        "cleric/oracle": 8,
+        "druid": 8,
+        "sorcerer/wizard": 8
+    },
+    "subdomains": {"love": 8},
+    "elementalSchools": {"wood": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a poppy flower)",
+    "range": "touch",
+    "duration": "1 round/level",
+    "savingThrow": "none and Will partial (see below)",
+    "spellResistance": "yes",
+    "text": "<p>A creature under the effect of this enchantment enters a state of euphoria. The target treats all creatures as dear friends and abhors violence, but may rise up to protect itself if violence is perpetrated against it. Until the end of the spell's duration, the creature's speed is halved, and it cannot make attacks or cast spells. If the creature is attacked, it gets a Will Saving Throw. If the Saving Throw succeeds, the creature can make act normally for 1 round. If the Saving Throw fails, the creature moves half its speed away from the attacker as its next action.<\/p><p>Furthermore, if the creature is interacted with, or questioned while under the effects of this spell, it is considered to have an attitude of Helpful (see <b>Table: Starting Attitudes and Diplomacy DC's to Modify<\/b> below or see the full Diplomacy skill details for more information), though any advice or answers it gives may be disjointed or stream of consciousness due to its euphoric state.<\/p><h4>Table: Starting Attitudes and Diplomacy DC's to Modify<\/h4> <table border=\"1\" cellpadding=\"5\"> <thead>  <tr>   <th class=\"text\">Starting Attitude<\/td>    <td class=\"text\">Diplomacy DC<\/td>   <\/tr>   <tr>    <td class=\"text\">Hostile<\/td>    <td class=\"text\">25 + creature's Cha Modifier<\/td>   <\/tr>   <tr>    <td class=\"text\">Unfriendly<\/td>    <td class=\"text\">20 + creature's Cha Modifier<\/td>   <\/tr>   <tr>    <td class=\"text\">Indifferent<\/td>    <td class=\"text\">15 + creature's Cha Modifier<\/td>   <\/tr>   <tr>    <td class=\"text\">Friendly<\/td>    <td class=\"text\">10 + creature's Cha Modifier<\/td>   <\/tr>   <tr>    <td class=\"text\">Helpful<\/td>    <td class=\"text\">0 + creature's Cha Modifier<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "爱与和平",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一朵罂粟花)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无 或 意志，通过则部分生效 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>被这个法术影响的生物会进入一种奇特的快乐和兴奋状态。<\/p><p>目标将会把所有生物都视作亲密的朋友并厌恶一切暴力行为；不过面对针对自己的暴力行为，仍然会保护自己。<\/p><p>在法术持续时间结束前，目标移动速度减半，并且不能攻击或施法。<\/p><p>如果被其他生物攻击，它可以进行一次意志豁免检定。如果检定通过，该生物这一轮可以正常行动。如果检定失败，该生物则会在下次行动时用减半的速度尽可能的远离攻击者。<\/p><p>此外，如果法术效果影响下的目标被互动或提出询问，它会表现出乐意协助的态度 (见后表：初始态度和改变对方态度的交涉检定DC，或查看完整的交涉技能说明以获得更多信息)。<\/p><p>不过因为目标所处的奇怪心理状态，它很可能给你一些很脱线或很意识流的意见和答案。\n初始态度　 交涉ＤＣ\n敌视　 　 　 ２５＋目标魅力调整值\n不友善　 　  ２０＋目标魅力调整值\n冷淡　 　 　 １５＋目标魅力调整值\n友善　 　 　 １０＋目标魅力调整值\n乐意协助　 　０＋目标魅力调整值<\/p>",
+    "source": "APG"
+}

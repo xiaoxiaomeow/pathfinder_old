@@ -1,0 +1,29 @@
+{
+    "key": "ki shout",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/ki-shout/",
+    "name": "Ki Shout",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["sonic"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>With a guttural bark, you unleash a sudden blast of sonic energy that strikes your opponent. The target takes 1d6 points of sonic damage per level (maximum 20d6) and is stunned for 1 round; a successful Fortitude save reduces the damage by half and negates the stun.<\/p>",
+    "name_zh": "狮子吼",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "一名活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>随着一声大吼，你释放强烈的声波能量冲击你的敌人。<\/p><p>目标受到每等级1d6点音波伤害 (最多20d6) 并且震慑 (stunned) 一轮。<\/p><p>成功的强韧检定可以减半伤害并不会被震慑。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "spontaneous immolation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spontaneous-immolation/",
+    "name": "Spontaneous Immolation",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (pinch of saltpeter)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude half and Reflex (see description)",
+    "spellResistance": "yes",
+    "text": "<p>You point your finger at a creature, causing it to spontaneously burst into flame. The target takes 3d6 points of fire damage and catches on fire. A successful Fortitude save reduces this damage by half and prevents the target from catching on fire. Each round on your turn, a burning target can attempt a new save to extinguish the flames (DC equal to the DC of the spell); otherwise it takes another 1d6 fire damage.<\/p>",
+    "name_zh": "献祭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一撮硝石)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则减半 和 反射 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你伸出手指向一个生物，使其开始燃烧。目标受到3d6点火焰伤害并且被点燃。<\/p><p>成功的强韧检定可以减半伤害并免于点燃。每当轮到你行动，一个点燃的目标可以进行一次新的反射豁免检定以试图熄灭火焰 (DC等于法术DC)，否则再次受到1d6火焰伤害。<\/p>",
+    "source": "UC"
+}

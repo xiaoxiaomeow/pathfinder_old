@@ -1,0 +1,29 @@
+{
+    "key": "produce flame",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/produce-flame/",
+    "name": "Produce Flame",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "0 ft.",
+    "effect": "flame in your palm",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Flames as bright as a torch appear in your open hand. The flames harm neither you nor your equipment.<\/p><p>In addition to providing illumination, the flames can be hurled or used to touch enemies. You can strike an opponent with a melee touch attack, dealing fire damage equal to 1d6 + 1 point per caster level (maximum +5). Alternatively, you can hurl the flames up to 120 feet as a thrown weapon. When doing so, you attack with a ranged touch attack (with no range penalty) and deal the same damage as with the melee attack. No sooner do you hurl the flames than a new set appears in your hand. Each attack you make reduces the remaining duration by 1 minute. If an attack reduces the remaining duration to 0 minutes or less, the spell ends after the attack resolves.<\/p><p>This spell does not function underwater.<\/p>",
+    "name_zh": "燃火术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "0尺",
+    "effect_zh": "在你掌心的火焰",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>在你打开的手掌中出现如火把般明亮的火焰。这火焰既不会伤害你也不会伤害你的装备。<\/p><p>除了提供照明之外，这个火焰可以被投出去或者用来接触敌人。你可以用一个近战接触攻击来攻击一个敌人，造成的火焰伤害为 {1d6+CL (最多+5)}。你也可以将这个火焰象投掷武器一样投出至多120英尺。当这么做时，你需要用一个远程接触攻击 (没有距离减值) 进行攻击，造成的伤害和近战相同。一旦你将火焰投出去，一股新的火焰会出现在你手中。每次攻击都会使剩余的持续时间缩短1分钟。如果一次攻击会将剩余持续时间降低到0分钟或更短，那么法术在攻击结束后结束。<\/p><p>此法术在水下无法作用。<\/p>",
+    "source": "CRB"
+}

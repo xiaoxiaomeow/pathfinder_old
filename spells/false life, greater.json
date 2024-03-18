@@ -1,0 +1,19 @@
+{
+    "key": "false life, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-life/",
+    "name": "False Life, Greater",
+    "base": "false life",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "alchemist": 4,
+        "bloodrager": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "text": "<p>This spell functions as <em>false life<\/em>, except you gain temporary hit points equal to 2d10 + 1 point per caster level (maximum +20). The effects of this spell do not stack with those of <em>false life<\/em>.<\/p><\/div>",
+    "name_zh": "高等虚假生命",
+    "text_zh": "<p>这个法术工作方式如同虚假生命 (False Life)，但是你可以获得2d10+1点每施法者等级 (最高+20) 的临时生命。<\/p><p>此法术效果不能与虚假生命法术共存。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "hunter's howl",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-howl/",
+    "name": "Hunter's Howl",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"ranger": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "area": "20-ft.-radius burst",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "none",
+    "text": "<p>With a single primal howl, you strike fear in your opponents. Until the end of the spell's duration, you treat those affected by it as if they were your favored enemy, gaining a +2 bonus on weapon attack and damage rolls against them, and a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against them. If an affected creature is already one of your favored enemies, it is shaken instead. This is a mind-affecting fear effect.<\/p>",
+    "name_zh": "猎手怒嚎",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "20尺",
+    "area_zh": "半径20尺爆发范围",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>通过原始的怒嚎，你将恐惧植入敌人心中。直至该法术持续时间结束为止，你会将那些受此影响的敌人视为宿敌，对其使用武器进行的攻击检定以及伤害检定获得+2加值，并在使用唬骗，知识，察觉，察言观色以及生存对抗他们时获得+2加值。如果受影响的生物本身就是你的宿敌，那么它会战栗以取代上述效果。这是一个影响心灵的恐惧效果。<\/p>",
+    "source": "APG"
+}

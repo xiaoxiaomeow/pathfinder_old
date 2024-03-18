@@ -1,0 +1,22 @@
+{
+    "key": "reduce person, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reduce-person/",
+    "name": "Reduce Person, Mass",
+    "base": "reduce person",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 4,
+        "magus": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 3,
+        "unchained summoner": 4
+    },
+    "target": "one humanoid creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions like <i>reduce person<\/i>, except that it affects multiple creatures.<\/p><h3>Mythic<\/h3><p>You can decrease the target's size by up to two categories, to a minimum of Tiny. If the target shrinks two sizes, its weight decreases by a factor of 16 and it gains a +4 size bonus to Dexterity, a –4 size penalty to Strength, and a +2 bonus on attack rolls and to AC because of its decreased size. A Medium or Small humanoid creature whose size decreases to Tiny has a space of 2-1/2 feet and a natural reach of 0 feet.<\/p><p>Mythic <em>reduce person<\/em> counters and dispels mythic <i>enlarge person.<\/i><\/p><\/div>",
+    "name_zh": "群体缩小术",
+    "target_zh": "每等级1个类人生物, 任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=reduce person\">缩小术 (reduce person)<\/a>’一般，不过它能影响复数生物。<\/p>",
+    "source": "CRB"
+}

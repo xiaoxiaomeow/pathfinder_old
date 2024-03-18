@@ -1,0 +1,25 @@
+{
+    "key": "cat's grace, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cat-s-grace/",
+    "name": "Cat's Grace, Mass",
+    "base": "cat's grace",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 6,
+        "druid": 6,
+        "magus": 6,
+        "psychic": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 4,
+        "unchained summoner": 6
+    },
+    "elementalSchools": {"wood": 6},
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "text": "<p>This spell functions like <i>cat's grace<\/i>, except that it affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体猫之优雅",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个生物, 任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同猫之优雅 (cat's grace) 一般，不过它可以影响复数生物。<\/p>",
+    "source": "CRB"
+}

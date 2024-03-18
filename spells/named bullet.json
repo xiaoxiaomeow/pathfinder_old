@@ -1,0 +1,31 @@
+{
+    "key": "named bullet",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/named-bullet/",
+    "name": "Named Bullet",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "inquisitor": 4,
+        "ranger": 3,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (an item from the selected creature or creature type)",
+    "range": "touch",
+    "target": "one piece of ammunition or one thrown weapon",
+    "duration": "10 min.s/level or until discharged",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You imbue the target with deadly accuracy against a selected creature type (and subtype for humanoids or outsiders) or a specific creature you know and can name. When used against the selected creature, the ammunition never misfires and is unaffected by concealment (but not total concealment), and at a range of 30 feet or less, the attack targets the selected creature's touch AC. When the target hits the selected creature, you must overcome that creature's spell resistance, or this spell has no effect. A normal hit scored using the target against the selected creature is considered to be a critical threat and deals 1 extra point of damage per caster level (maximum 20), which is not multiplied on a critical hit. A natural critical hit deals the same extra damage, but that damage is multiplied due to the critical.<\/p><p>Once the target is used to attack the selected creature, successfully or not, this spell is discharged.<\/p>",
+    "name_zh": "指名狙杀",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一件来自选定生物或生物类型的物品)",
+    "range_zh": "接触",
+    "target_zh": "一份弹药或一把投掷武器",
+    "duration_zh": "10分钟/等级或直至",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>这个法术工作方式如同指名狙杀 (Named Bullet)，但是它会造成每施法者等级2点的额外伤害 (最高40)。<\/p>",
+    "source": "UC"
+}

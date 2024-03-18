@@ -1,0 +1,31 @@
+{
+    "key": "soul bind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soul-bind/",
+    "name": "Soul Bind",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 9,
+        "shaman": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "bloodlines": {"daemon": 9},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (see text)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "corpse",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "no",
+    "text": "<p>You draw the soul from a newly dead body and imprison it in a black sapphire gem. The subject must have been dead no more than 1 round per caster level. The soul, once trapped in the gem, cannot be returned through clone, raise dead, reincarnation, resurrection, true resurrection, or even a miracle or a wish. Only by destroying the gem or dispelling the spell on the gem can one free the soul (which is then still dead).<\/p><p>The focus for this spell is a black sapphire of at least 1,000 gp value for every HD possessed by the creature whose soul is to be bound. If the gem is not valuable enough, it shatters when the binding is attempted. (While creatures have no concept of level or HD as such, the value of the gem needed to trap an individual can be researched.)<\/p>",
+    "name_zh": "缚魂术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (见后文)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "尸体",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你将新亡的生物灵魂吸出并禁锢在一块深蓝宝石内。目标的死亡时间不得超过每CL 1轮。一旦被禁锢，灵魂便无法通过‘<a href=\"spell.html?spell=clone\">克隆术 (clone)<\/a>’，‘<a href=\"spell.html?spell=raise dead\">死者复活 (raise dead)<\/a>’，‘<a href=\"spell.html?spell=reincarnation\">转生术 (reincarnation)<\/a>’，‘<a href=\"spell.html?spell=resurrection\">复生术 (resurrection)<\/a>’，‘<a href=\"spell.html?spell=true resurrection\">完全复生术 (true resurrection)<\/a>’复活，甚至‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’和‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’也做不到。只有摧毁宝石或者解消宝石上的魔法才能释放灵魂 (该生物仍处于死亡状态)。<\/p><p>该法术的器材成分是一块深蓝宝石，价值由灵魂被禁锢的受术者所拥有的HD决定，每HD价值1000gp。如果宝石的价值不足，则会在尝试禁锢的时候粉碎 (若受术者没有等级或HD这类概念，那么囚禁某个个体所需要的宝石价值可以通过研究得知)。<\/p>",
+    "source": "CRB"
+}

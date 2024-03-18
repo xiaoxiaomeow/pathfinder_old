@@ -1,0 +1,22 @@
+{
+    "key": "transmute potion to poison",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-potion-to-poison/",
+    "name": "Transmute Potion to Poison",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["poison"],
+    "levels": {"alchemist": 2},
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "personal",
+    "duration": "1 round then 1 min./level; see text",
+    "text": "<p>This extract causes you to take on a pale, sickly pallor for 1 round. During this time, if you consume a potion, it has no effect. Instead, your mouth fills with a vile poison that you can spit onto a weapon as a free action. If you do not spit out the poison in 1 round, it affects you instead. The effect of the poison depends on the level of spell contained in the potion consumed (see sidebar). If the poison is not used within 1 minute per caster level it becomes inert. You can only create one dose of poison in this way per casting of this spell.<\/p><h3>Transmuted Poisons<\/h3> <h4>0-Level Potion Poison<\/h4><p><i>Type<\/i> poison, injury; <i>Save<\/i> Fortitude DC 10; <i>Frequency<\/i> 1/round for 2 rounds; <i>Effect<\/i> 1 Dex damage; <i>Cure<\/i> 1 save<\/p><h4>1st-Level Potion Poison<\/h4><p><i>Type<\/i> poison, injury; <i>Save<\/i> Fortitude DC 11; <i>Frequency<\/i> 1/round for 4 rounds; <i>Effect<\/i> 1d2 Dex damage; <i>Cure<\/i> 1 save<\/p><h4>2nd-Level Potion Poison<\/h4><p><i>Type<\/i> poison, injury; <i>Save<\/i> Fortitude DC 13; <i>Frequency<\/i> 1/round for 6 rounds; <i>Effect<\/i> 1d4 Str damage; <i>Cure<\/i> 1 save<\/p><h4>3rd-Level Potion Poison<\/h4><p><i>Type<\/i> poison, injury; <i>Save<\/i> Fortitude DC 14; <i>Frequency<\/i> 1/round for 6 rounds; <i>Effect<\/i> 1d4 Con damage; <i>Cure<\/i> 2 consecutive saves<\/p>",
+    "name_zh": "化药为毒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮之后1分钟/等级；见下文",
+    "text_zh": "<p>这种化合炼成会使你的脸色在1轮内变为病态般黯淡的苍白色。如果你在持续时间之内消费药剂的话，不会获得任何效果。取而代之的是你的口腔内充满了剧毒，并可以以自由动作将其喷到一件武器之上。如果你在1轮内不吐出毒液的话，它会对你生效。毒液的效果取决于你所消费的药剂中所包含的法术的等级 (见下文)。如果这些毒液没有在每施法者等级1分钟内被使用的话，它将会失效。每次使用这个化合炼成你只能以此方式创造一剂毒液。<\/p><p>转化后的毒素<\/p><p>下列毒素是通过化药为毒创造的。毒素的效果取决于所转化的药剂中包含的法术的等级。\n－0级药毒\n毒素类型：伤口；强韧豁免DC：10；发作频率：1次/轮 持续2轮；效果：敏捷伤害1点；治愈：1次豁免\n－1级药毒\n毒素类型：伤口：强韧豁免DC：11；发作频率：1次/轮 持续4轮；效果：敏捷伤害1d2点；治愈：1次豁免\n－2级药毒\n毒素类型：伤口：强韧豁免DC：13；发作频率：1次/轮 持续6轮；效果：力量伤害1d4点；治愈：1次豁免\n－3级药毒\n毒素类型：伤口：强韧豁免DC：14；发作频率：1次/轮 持续6轮；效果：体质伤害1d4点；治愈：2次豁免<\/p>",
+    "source": "APG"
+}

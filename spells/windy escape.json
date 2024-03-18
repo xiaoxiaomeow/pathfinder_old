@@ -1,0 +1,31 @@
+{
+    "key": "windy escape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/windy-escape/",
+    "name": "Windy Escape",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["air"],
+    "religion": "sylph",
+    "levels":     {
+        "bard": 1,
+        "bloodrager": 1,
+        "druid": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p class=\"description\">You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass harmlessly through you.<\/p><p>You gain DR 10/magic against this attack and are immune to any poison, sneak attacks, or critical hit effect from that attack.<\/p><p>You cannot use windy escape against an attack of opportunity you provoked by casting a spell, using a spell-like ability, or using any other magical ability that provokes an attack of opportunity when used.<\/p>",
+    "name_zh": "风闪术",
+    "race_zh": "风元素裔",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>你可以通过瞬时将身体变得虚幻无形，以应对一次攻击，使其无害地穿过你。你针对该次攻击获得伤害减免“10/魔法”，并且免疫任何该次攻击带来的毒素、偷袭或重击效果。<\/p><p>你无法使用风闪术躲避自己施放法术、使用类法术能力、或者使用任何其他会引起藉机攻击的魔法性质的能力时所引起的藉机攻击。<\/p>",
+    "source": "ARG"
+}

@@ -1,0 +1,37 @@
+{
+    "key": "death clutch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-clutch/",
+    "name": "Death Clutch",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "death",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 8,
+        "druid": 9,
+        "psychic": 8,
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>Chanting an unholy litany, you reach out with a grasping motion toward your target and cause its heart to leap out of its chest and into your hand. A target with 200 or fewer hit points remaining that fails its saving throw is instantly reduced to a number of negative hit points equal to your caster level or its Constitution score – 1, whichever is less negative. The creature is staggered until the beginning of your next turn, at which point it dies. If the affected creature receives a regenerate spell before the beginning of your next turn, the creature gains the normal benefits of that spell and, thanks to its heart's regeneration, it doesn't immediately die when your next turn begins. If a creature that dies from death clutch is brought back from the dead by a breath of life or raise dead spell, it must also be targeted with regenerate on the following round to restore its missing heart or be unable to return to life.<\/p><p>A target with 201 or more hit points that fails its saving throw manages to keep its heart from leaping out of its chest, but it is still staggered for 1 minute and takes 1d4 points of Constitution drain and 1d4 points of Constitution bleed.<\/p><p>Regardless of its current hit points, if the target succeeds at its Fortitude save, it is still staggered until the beginning of your next turn as it feels its heart wrenching within its chest.<\/p>",
+    "name_zh": "死亡之握",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则部分生效 (见下)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>吟咏一连串不义之亵渎，你伸出手来抓住你的目标，让他的心脏跳出胸膛，来到你的手上。一个剩下的生命值在200或更少的目标，在豁免检定失败后，立即将生命值减少至与你施法者等级相同之负生命值，或着目标的体质属性-1，以较低者为准。该生物会蹒跚(staggered)，直到你下一轮开始，在那时他会死去。如果受影响的生物在你下一轮开始前接收到一个再生术(regenerate)，该生物会如常获得此法术的效益，而他的心脏也会再生，所以他不会在你下一轮开始时立即死去。如果一个生物死于死亡之握，但被生命之息(breath of life)或死者复活(raise dead spell)带回来，那该目标还是要在下一轮获得再生术来回覆他施去的心脏，不然他无法复活。\n一位保有201点或更多生命值的目标于豁免检定失败后，心脏还是能设法保留在他的胸膛，但他仍会蹒跚1分钟，并受到1d4点体质吸取以及1d4点体质流血。\n无论当前生命值是多少，如果目标成功通过强韧豁免检定，他仍会因心脏在胸膛的剧烈绞痛而蹒跚，直到你的下一轮开始。<\/p>",
+    "source": "HA"
+}

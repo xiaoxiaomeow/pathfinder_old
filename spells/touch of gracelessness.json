@@ -1,0 +1,29 @@
+{
+    "key": "touch of gracelessness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-gracelessness/",
+    "name": "Touch of Gracelessness",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "bloodrager": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>With a single touch, you reduce a creature to a fumbling clown.<\/p><p>The target takes a penalty to its Dexterity equal to 1d6+1 per two caster levels (maximum 1d6+5). This penalty cannot drop the target's Dexterity score below 1.<\/p><p>In addition, if the subject moves more than half its speed, it falls prone. If the subject flies, its maneuverability is reduced by one step (perfect maneuverability becomes good, good becomes average, and so on).<\/p><p>A successful Fortitude save halves the penalty to Dexterity and negates the possibility of falling prone or the reduction to fly maneuverabilities.<\/p>",
+    "name_zh": "笨拙之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>对着一次简单的接触，你让目标的动作变得笨拙而可笑。<\/p><p>在法术持续时间内，目标的敏捷属性减少1d6加上每2施法者等级1点 (最高1d6+5)。这个效果不会让目标的敏捷降低到1以下。<\/p><p>此外，如果目标以超过半速移动，它会摔倒。如果目标正在飞行，那么它的灵活性会降低一个等级 (完美变成良好，良好变成普通，以此类推)。<\/p><p>成功的强韧检定可以让敏捷罚值减半，并不会摔倒或降低飞行灵活性。<\/p>",
+    "source": "APG"
+}

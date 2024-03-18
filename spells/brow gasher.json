@@ -1,0 +1,32 @@
+{
+    "key": "brow gasher",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/brow-gasher/",
+    "name": "Brow Gasher",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "bloodrager": 2,
+        "inquisitor": 2,
+        "magus": 2,
+        "ranger": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "area": "one slashing melee weapon touched",
+    "duration": "1 round/level or until discharged",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You imbue a slashing melee weapon with the ability to deal a gruesome head wound. When the target weapon hits a living creature, in addition to the normal effects of that hit, the wielder can discharge this spell as a free action to open a gash on the target's forehead that deals bleed damage equal to half your caster level. At the start of each of the target's turns, when it takes bleed damage, it also takes a cumulative –1 penalty on all attack rolls. When that penalty reaches –3, the target also treats all targets as having concealment (20% miss chance). When the penalty reaches –5, the target is blinded. Stopping the bleed damage ends the effects this spell imposes on the bleeding creature. A target that is immune to bleed damage is also immune to all this spell's effects.<\/p>",
+    "name_zh": "血流满面",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的一把挥砍近战武器",
+    "duration_zh": "1轮/等级或 直至",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>你给一把近战武器灌输了可以对目标额头造成可怕伤口的能力。<\/p><p>当目标武器击中一个活物时，除了正常的命中效果，持有者可以以一个自由动作在目标的额头上开一条鲜血淋漓的伤口，造成你施法者等级一半的流血伤害。<\/p><p>在目标每一轮开始时，它都会受到流血伤害，并且在所有攻击检定上获得-1惩罚。当罚值达到-3时，所有目标对它都视同隐蔽 (20%失手)。当罚值达到-5，目标目盲。<\/p><p>停止流血伤害将结束法术对该生物的影响。一个免疫流血的目标也免疫这个法术的影响。<\/p>",
+    "source": "UC"
+}

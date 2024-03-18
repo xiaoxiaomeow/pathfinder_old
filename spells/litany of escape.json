@@ -1,0 +1,32 @@
+{
+    "key": "litany of escape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-escape/",
+    "name": "Litany of Escape",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "descriptors": ["language-dependent"],
+    "levels":     {
+        "antipaladin": 3,
+        "inquisitor": 4,
+        "paladin": 3
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one willing creature that is grappled",
+    "duration": "instantaneous",
+    "savingThrow": "no",
+    "spellResistance": "yes",
+    "text": "<p>With a powerful prayer, you call upon the servants of your god to whisk a friend out of a grapple. The target loses the grappled and pinned conditions and is teleported 10 feet. If there is no available space for the target to teleport to, the spell fails.<\/p>",
+    "name_zh": "脱逃祷言",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个被擒抱中的自愿生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>随着一次强力的祈祷，你呼唤出你的神的仆人助你的盟友脱离擒抱。<\/p><p>目标立刻脱离擒抱和攫取，并且传送10尺远。<\/p>",
+    "source": "UC"
+}

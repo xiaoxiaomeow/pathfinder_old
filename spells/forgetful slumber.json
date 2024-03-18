@@ -1,0 +1,32 @@
+{
+    "key": "forgetful slumber",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forgetful-slumber/",
+    "name": "Forgetful Slumber",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (a few drops of river water)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "text": "<p>This spell acts as the <i>deep slumber<\/i> spell, but only affects one creature of 10 Hit Dice or fewer. In addition, a creature affected by this spell awakens with no knowledge of the events that led to the spell's casting. The target loses all memory from the 5 minutes prior to falling asleep. No effect short of a miracle or wish can restore memories lost by this spell.<\/p>",
+    "name_zh": "遗忘沉眠",
+    "race_zh": "半精灵",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势, 材料 (几滴河水)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名活物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术如同‘深度睡眠’一般作用，但是只影响一名生命骰为10或更低的生物。此外，被该法术影响的生物在醒来后不会有被施放该法术的记忆。目标失去了在进入睡眠之前5分钟内的记忆。除了‘神迹术’与‘祈愿术’之外没有任何效果能够恢复由此法术所丧失的记忆。<\/p>",
+    "source": "ARG"
+}

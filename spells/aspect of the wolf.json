@@ -1,0 +1,26 @@
+{
+    "key": "aspect of the wolf",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-wolf/",
+    "name": "Aspect of the Wolf",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 5,
+        "ranger": 4
+    },
+    "mysteries": {"lunar": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>When you cast this spell, you take on an aspect of a wolf, including some of its physical characteristics. You become more rugged, your ears become elongated, and you sprout sharp fangs and fur.<\/p><p>You gain a +4 enhancement bonus to Strength and Dexterity, the scent ability, a +2 enhancement bonus on trip attacks, and can make a trip combat maneuver as a swift action. This trip attack does not provoke attacks of opportunity.<\/p>",
+    "name_zh": "狼之型",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>当你施放该法术时，你会呈现出狼的一些特征，包括它的部分身体特征。你变得更加强壮，双耳变长并且长出锋利的牙齿与毛发。你的力量与敏捷获得+4增强加值，获得灵敏嗅觉 (scent) 能力，摔绊攻击获得+2增强加值，并且能够以迅捷动作进行摔绊战技。这种摔绊攻击不会引起藉机攻击。<\/p>",
+    "source": "APG"
+}

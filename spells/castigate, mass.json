@@ -1,0 +1,24 @@
+{
+    "key": "castigate, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/castigate/",
+    "name": "Castigate, Mass",
+    "base": "castigate",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "fear",
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"inquisitor": 5},
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart.",
+    "text": "<p>This spell functions as <i>castigate<\/i>, except it affects many creatures.<\/p><\/div>",
+    "name_zh": "群体严加斥责",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每施法者等级1名生物，任意两名之间的距离不得超过30尺",
+    "text_zh": "<p>该法术的功能如同严加斥责 (Castigate) 一般，不过它可以影响多个生物。<\/p>",
+    "source": "APG"
+}

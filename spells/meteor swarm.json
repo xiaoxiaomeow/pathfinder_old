@@ -1,0 +1,33 @@
+{
+    "key": "meteor swarm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/meteor-swarm/",
+    "name": "Meteor Swarm",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels": {"sorcerer/wizard": 9},
+    "subdomains": {"stars": 9},
+    "elementalSchools":     {
+        "fire": 9,
+        "metal": 9
+    },
+    "bloodlines": {"boreal": 9},
+    "mysteries": {"apocalypse": 9},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "four 40-ft.-radius spreads, see text",
+    "duration": "instantaneous",
+    "savingThrow": "none or Reflex half, see text",
+    "spellResistance": "yes",
+    "text": "<p><i>Meteor swarm<\/i> is a very powerful and spectacular spell that is similar to fireball in many aspects. When you cast it, four 2-foot-diameter spheres spring from your outstretched hand and streak in straight lines to the spots you select. The meteor spheres leave a fiery trail of sparks.<\/p><p>If you aim a sphere at a specific creature, you may make a ranged touch attack to strike the target with the meteor. Any creature struck by a sphere takes 2d6 points of bludgeoning damage (no save) and takes a -4 penalty on the saving throw against the sphere's fire damage (see below). If a targeted sphere misses its target, it simply explodes at the nearest corner of the target's space. You may aim more than one sphere at the same target.<\/p><p>Once a sphere reaches its destination, it explodes in a 40-foot-radius spread, dealing 6d6 points of fire damage to each creature in the area. If a creature is within the area of more than one sphere, it must save separately against each. Despite stemming from separate spheres, all of the fire damage is added together after the saves have been made, and fire resistance is applied only once.<\/p><h3>By the way&#8230;<\/h3><p>This spell can start fires on a ship.<\/p>",
+    "name_zh": "流星爆",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "4个半径40尺扩散区域, 见后文",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无 或 反射, 通过则减半; 见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>流星爆是一个强力而且壮观的法术，它很多方面都跟‘<a href=\"spell.html?spell=fireball\">火球术 (fireball)<\/a>’很像。当你施展此法术时，四颗直径2尺的火球从你伸展的手中飞出，这些流星会拖着一条火光灿烂的尾巴，以直线路径飞向你选定的地点。<\/p><p>如果你将流星瞄准一个特定的生物，你可以进行一次远程接触攻击来用流星轰击目标。任何被流星击中的生物会受到2d6点钝击伤害 (无豁免)，并且在对抗流星的火焰伤害时，豁免检定承受-4减值 (见后文)。若指向目标的流星没有命中，则会在目标所占据空间最近的方格交叉点爆炸。你可以指定多颗流星瞄准同一个目标。<\/p><p>一旦流星到达目的地，它就会爆炸并扩散至半径40尺区域，这会对区域内的每个生物造成6d6点火焰伤害。如果生物在多颗流星的爆炸范围内，则必须分别对每颗流星做豁免。尽管来自不同的爆炸区域，所有火焰伤害都会在做出豁免后相互叠加，火焰抗力只对其生效一次。<\/p>",
+    "source": "CRB"
+}

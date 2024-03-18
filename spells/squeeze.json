@@ -1,0 +1,32 @@
+{
+    "key": "squeeze",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/squeeze/",
+    "name": "Squeeze",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The target becomes flexible regardless of its actual size and mass. It can move through areas at least half its size with no penalty for squeezing. It can move through a space at least one-quarter its width using the penalties for squeezing through a space at least half its width.<\/p>",
+    "name_zh": "柔体术",
+    "race_zh": "蝮血裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>目标变得柔韧到可以无视的实际尺寸以及质量的程度。他可以穿过至少自身体型一半宽的区域而不会受到任何惩罚。并且可以通过等同于自身宽度1/4的空间，却只受到正常情况下穿过自身宽度一半区域的惩罚。<\/p>",
+    "source": "ARG"
+}

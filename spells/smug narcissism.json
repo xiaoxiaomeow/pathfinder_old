@@ -1,0 +1,36 @@
+{
+    "key": "smug narcissism",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/smug-narcissism/",
+    "name": "Smug Narcissism",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a tiny shard of a mirror)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous*",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You cause your target to become overwhelmed by its own importance, talents, and attractiveness. The target cannot help but look at itself in every reflective surface at every possible opportunity. In social situations, the target always tries to comment about how attractive it is or how ugly someone else is by comparison. The target remains constantly distracted, always looking for a reflective surface to gaze upon (such as a mirror, pool of water, a polished shield, and so on). The distraction gives the target a –2 penalty on all skill checks. In combat, the target worries about enemies damaging its appearance, and focuses on defense rather than offense (casting defensive spells rather than offensive spells, using the fight defensively or total defense action, and so on).<\/p>",
+    "name_zh": "极度自恋",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一小片镜子)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你导致你的目标开始注意到自身的重要性、才能和吸引力。<\/p><p>目标会不可自拔的试图用每一个可能的机会在任何一个反射面看着自己。<\/p><p>在社交场合，目标总是会试图表现自己是多么有吸引力，或是刻薄的将其他人贬低到一无是处。<\/p><p>目标会不断的分心，试图寻找一个反射面来凝望自己的倒影 (如镜子、水池、抛光的盾牌等)。分心会导致目标所有技能检定获得-2罚值。<\/p><p>在战斗中，目标会担心受伤会损害其外观，所以重点会变成防守而非进攻 (会施放防御法术而非攻击法术，总是使用防御式战斗或全防御，以此类推)。<\/p>",
+    "source": "UM"
+}

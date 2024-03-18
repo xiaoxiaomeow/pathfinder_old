@@ -1,0 +1,18 @@
+{
+    "key": "ooze form ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/ooze-form/",
+    "name": "Ooze Form II",
+    "base": "ooze form",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 6,
+        "magus": 6,
+        "sorcerer/wizard": 6
+    },
+    "text": "<p>This spell functions as ooze form I except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.<\/p><p style=\"padding-left: 30px\"><b>Large Ooze<\/b>: If you assume this form, you gain a +2 size bonus to your Strength score, a +8 size bonus to your Constitution score, a slam attack (2d4 plus 1d6 acid and grab), and constrict (2d4), and you take a –8 penalty to your Dexterity score.<\/p>",
+    "name_zh": "泥怪形态 II",
+    "text_zh": "<p>这种法术如同泥怪形状 I，除了你还能获得大型泥怪的形态。你获得30英尺的盲视，免疫重击和精准伤害。\n大型泥怪：如果你获得这种形态，你在力量属性上得到+2体型加值，在体质上得到+8的体型奖励，一个挥击伤害（2d4+1d6强酸和擒抱），和紧勒（2d4），并在敏捷属性上受到-8惩罚。<\/p>",
+    "source": "UW"
+}

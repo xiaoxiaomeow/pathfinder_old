@@ -1,0 +1,26 @@
+{
+    "key": "climbing beanstalk",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/climbing-beanstalk/",
+    "name": "Climbing Beanstalk",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "druid": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "5-ft. square of climbable beanstalks",
+    "duration": "instantaneous",
+    "text": "<p>You cause a thick, sturdy beanstalk to sprout from the ground and grow upward to a height of 10 feet + 5 feet per 2 caster levels. The growing stalk anchors itself to sturdy objects such as walls or ceilings, and grows around objects that do not fully obstruct its square (such as tree branches), but is stopped by solid obstacles. The beanstalk provides numerous hand- and footholds; its climb DC 5. The beanstalk can support up to 200 pounds plus 50 pounds per caster level, or double that amount if anchored on its upper end. If it anchors itself to a sturdy mobile object (such as a ship or a siege engine), breaking the object free requires a DC 23 Strength check or cutting through the beanstalk (hardness 2, 40 hp).<\/p><p>If the ground is capable of supporting plant life, the beanstalk continues to live as a normal plant, and it produces nutritious (if unappetizing) beans. Otherwise, the plant dies after 1d6 hours; its husk remains as durable as a small tree.<\/p>",
+    "name_zh": "攀行豆茎",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "5尺方格的豆茎",
+    "duration_zh": "立即",
+    "text_zh": "<p>你让一株粗大、坚固的豆茎从地上发芽，并且向上成长到10尺 + 每两个施法者等级5尺的高度。成长中的豆茎会将自己固定在坚固的物体上，比如墙壁或天花板，而且只要它周围的物体没有完全阻塞它所在的空间（比如树枝）便能持续向上生长，不过坚实的障碍仍然能够停止它的成长。豆茎能够提供大量供人攀爬使用的立足点；它的攀爬DC是5。豆茎能够承载至多200磅外加每施法者等级50磅的重量，若它的顶端被固定住则可以承载双倍的重量。若豆茎将自身固定在可动的坚固物体上（比如船只或攻城武器），那么让该物体解除束缚需要进行DC 23的力量检定或者将豆茎切断（40点生命值，2点硬度）。\n若豆茎成长的地面能够支持植物存活，那么它会如同普通植物一般继续生存于此，而且可以结出有营养（但是未必好吃）的豆子。否则，这株植物会在1d6小时后枯萎死亡；它的外壳会保留下来并且如同小型树木一般坚固。<\/p>",
+    "source": "ACG"
+}

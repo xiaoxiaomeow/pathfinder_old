@@ -1,0 +1,17 @@
+{
+    "key": "spellcrash",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcrash/",
+    "name": "Spellcrash",
+    "base": "spellcrash, lesser",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "text": "<p>This spell functions as <i>lesser spellcrash<\/i>, except that it affects 5th-level or lower prepared spells or spell slots.<\/p>",
+    "name_zh": "碎法咒",
+    "text_zh": "<p>该法术的功能如同次等碎法咒（Spellcrash, Lesser）一般，不过它能够影响5级或者更低等级的准备好的法术或法术位。<\/p>",
+    "source": "ACG"
+}

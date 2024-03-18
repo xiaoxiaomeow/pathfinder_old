@@ -1,0 +1,39 @@
+{
+    "key": "dreadscape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dreadscape/",
+    "name": "Dreadscape",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "medium": 3,
+        "mesmerist": 3,
+        "psychic": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of black sand)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "up to one creature/level, no two of which can be more than 30 feet apart",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Your targets see their surroundings as a nightmarish reflection of the world around them. Buildings and furnishings take on a dirty, ruined appearance. Even allies appear foreign and hostile, with friendly speech turning into garbled mockery and threats.<\/p><p>Each target gains the scared condition and has a hostile attitude toward any new creature it encounters (though not toward creatures that were already present at the time of the casting).<\/p><p>Being hostile doesn't necessarily mean the target will attack, and creatures can attempt Diplomacy checks to gain a target's trust at the normal DC. If a creature becomes frightened or panicked while under the influence of dreadscape, that creature takes 1d6 points of Wisdom damage, though only once per casting of <i>dreadscape<\/i>.<\/p><p>If your campaign uses the sanity rules, creatures that become frightened or panicked take 2d6 sanity damage instead of Wisdom damage.<\/p>",
+    "name_zh": "末日景色",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一撮黑沙)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "至多一个生物/等级，任两者之间不得相距超过30尺",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你选择的受术者在看他们的周围的情况像是如反射恶梦般的世界。建筑物与家具呈现积满灰尘、破败不堪的样子。即使是盟友都看起来像是外来、有敌意的，友善的言论变成了断章取义的嘲弄和威胁。\n每个受术者获得惊吓(scared)状态，而且对任何心遭遇的生物皆采取敌意(hostile)的态度(但不会对那些在施法时已经出现的生物这样)。敌意的态度不意味者受术者一定会展开攻击，应用正常的DC，生物可以尝试交涉检定来获得受术者的信任。如果生物因为在末日景色的影响下变成惊惧(frightened)或恐慌(panicked)，则该生物受到1d6点感知伤害，尽管施展一次末日景色只会造成一次这种伤害。如果你的战役有使用理智系统(sanity system)，变成惊惧(frightened)或恐慌(panicked)的生物会受到2d6点理智伤害取代感知伤害。<\/p>",
+    "source": "HA"
+}

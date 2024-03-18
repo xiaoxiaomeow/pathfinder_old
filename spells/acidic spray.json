@@ -1,0 +1,31 @@
+{
+    "key": "acidic spray",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/acidic-spray/",
+    "name": "Acidic Spray",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["acid"],
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a vial of acid worth 10 gp)",
+    "range": "60 ft.",
+    "effect": "60-ft. line",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>A spray of acid erupts from your outstretched hand, dealing 1d6 points of acid damage per caster level (maximum 15d6) to each creature within its area (Reflex half). This acid continues to burn for 1 round, dealing 1d6 points of acid damage per two caster levels (maximum 7d6) to any creature that failed its saving throw against the spell (a second Reflex save on the creature's turn negates this additional damage).<\/p>",
+    "name_zh": "酸液喷发",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一瓶酸液，价值10GP)",
+    "range_zh": "60尺",
+    "effect_zh": "60尺线形范围",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射，通过则部分生效 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>一道酸液从你伸出的手中喷出，对区域内每个生物造成每施法者等级1d6点伤害 (最高15d6)，反射减半。<\/p><p>酸液会持续燃烧一轮，在第二轮再对之前反射豁免失败的生物造成每两施法者等级1d6点伤害 (最高7d6)。生物可以进行第二次反射豁免检定以免疫这次额外伤害。<\/p>",
+    "source": "UM"
+}

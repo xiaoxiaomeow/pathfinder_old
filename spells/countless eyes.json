@@ -1,0 +1,33 @@
+{
+    "key": "countless eyes",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/countless-eyes/",
+    "name": "Countless Eyes",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 3,
+        "bloodrager": 3,
+        "inquisitor": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "text": "<p>The target sprouts extra eyes all over its body, including on the back of its head. It gains all-around vision and cannot be flanked.<\/p>",
+    "name_zh": "无尽之眼",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>目标全身长出无数额外的眼睛，包括它的后脑勺上。目标获得全域视野，并且不能被夹击。<\/p>",
+    "source": "UM"
+}

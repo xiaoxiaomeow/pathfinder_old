@@ -1,0 +1,22 @@
+{
+    "key": "deeper darkness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deeper-darkness/",
+    "name": "Deeper Darkness",
+    "school": "evocation",
+    "descriptors": ["darkness"],
+    "levels":     {
+        "antipaladin": 3,
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "shaman": 3
+    },
+    "domains": {"darkness": 3},
+    "bloodlines": {"div": 3},
+    "mysteries": {"shadow": 3},
+    "duration": "10 min./level (d)",
+    "text": "<p>This spell functions as darkness, except that objects radiate darkness in a 60-foot radius and the light level is lowered by two steps. Bright light becomes dim light and normal light becomes darkness. Areas of dim light and darkness become supernaturally dark. This functions like darkness, but even creatures with darkvision cannot see within the spell's confines.<\/p><p>This spell does not stack with itself. <i>Deeper darkness<\/i> can be used to counter or dispel any light spell of equal or lower spell level.<\/p>",
+    "name_zh": "深幽黑暗术",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=darkness\">黑暗术 (darkness)<\/a>’一般，不过物体会辐射出半径60尺的黑暗，并且使光照等级降低2级。强光变为昏暗，常光变为黑暗。昏暗与黑暗的区域会变为超自然黑暗 (supernaturally dark)。这效果与正常黑暗光照相同，但是即便具有黑暗视觉的生物也无法在法术区域中视物。<\/p><p>该法术的效果无法与自身叠加。深幽黑暗术能够用于反制或解除任何与其法术环位相等或更低的任何光亮法术 (light spell)。<\/p>",
+    "source": "CRB"
+}

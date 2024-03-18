@@ -1,0 +1,33 @@
+{
+    "key": "firestream",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/firestream/",
+    "name": "Firestream",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 3,
+        "magus": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "area": "20-ft. line",
+    "duration": "concentration, up to 1 round/level; see text",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every creature in the area. Each round you continue to concentrate on the spell, you can select a new area for it to affect.<\/p><p>Firestream sets fire to combustibles and damages objects in the area. It can melt metals with low melting points, such as lead, gold, copper, silver, and bronze. If the damage caused to an interposing barrier shatters or breaks through it, the firestream may continue beyond the barrier if the area permits; otherwise it stops at the barrier just as any other spell effect does.<\/p>",
+    "mythicText": "The damage dealt increases to 2d10 points of fire damage. Any creature that fails its saving throw also catches fire (Core Rulebook 444). The continuous line of fire pushes against all creatures, making them treat the spell's area as difficult terrain. ",
+    "name_zh": "火焰之流",
+    "race_zh": "火元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "20尺",
+    "target_zh": "20尺线状",
+    "duration_zh": "专注，最高1轮/等级；见下文",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>湍急的火焰之流从你张开的手中喷出，对区域范围内的每个生物造成2d6点火焰伤害。每一轮你专注于持续法术效果时，你可以选择一片新的区域受到影响。火焰之流会点燃区域内的可燃物并对物品造成伤害。它也能够融化低熔点的金属，比如铅，金，铜，银和青铜。如果它造成的伤害毁坏或者突破了阻挡物，只要区域允许，火焰之流可以越过障碍；否则它会阻挡物阻止，就如同其他法术效果一般。<\/p>",
+    "source": "ARG"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "divine favor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-favor/",
+    "name": "Divine Favor",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "paladin": 1
+    },
+    "domains": {"nobility": 1},
+    "subdomains": {"archon": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min.",
+    "text": "<p>Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn't apply to spell damage.<\/p>",
+    "mythicText": "You also gain the luck bonus on saving throws and skill checks. <br>Alternatively, you can cast this spell on another willing creature, changing the range to touch and target to living creature touched. ",
+    "name_zh": "神恩",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟",
+    "text_zh": "<p>通过呼唤神祇的力量与智慧，你的攻击和武器伤害检定上获得每三个CL +1点幸运加值 (至少+1, 最高+3)。该加值无法应用至法术伤害。<\/p>",
+    "source": "CRB"
+}

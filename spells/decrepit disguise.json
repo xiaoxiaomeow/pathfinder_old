@@ -1,0 +1,33 @@
+{
+    "key": "decrepit disguise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/decrepit-disguise/",
+    "name": "Decrepit Disguise",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 1,
+        "medium": 1,
+        "mesmerist": 1,
+        "occultist": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./level)",
+    "target": "one object of no more than 10 cu. ft./level",
+    "duration": "1 day/level",
+    "savingThrow": "none (object) or Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "<p>You make an object seem like a worthless version of itself. A masterwork or magic sword could seem to be a useless, rusting, discarded blade, and a luxurious throne could appear to be a decrepit wooden chair. If used against an attended object, the wielder can immediately attempt a Will save to disbelieve the effect. Decrepit disguise counters and dispels quintessence.<\/p><p>Decrepit disguise can be made permanent with a permanency spell by a caster of 9th level or higher for the cost of 500 gp.<\/p><\/div>",
+    "name_zh": "破旧伪装",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "target_zh": "一个物体，其体积不超过每等级10立方尺",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "无（物体）或 意志，通过则不相信（若有互动）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你让一个物体变得看起来但却毫无价值。精制品或魔法剑会变得好像是一把破旧、生锈、且毫无用处的剑，豪华的王座可能会看起来像是一把破木椅。若将该法术使用在被持有的物体上，那么持有者能够立刻尝试一次意志豁免，成功则不相信该效果。破旧伪装反制和解除完美假象（Quintessence）。破旧伪装可以被魔法恒定术（permanency）所恒定，这需要9级或更高等级的施法者以及500gp的开销。<\/p>",
+    "source": "OA"
+}

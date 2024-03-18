@@ -1,0 +1,18 @@
+{
+    "key": "cure serious wounds, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cure-serious-wounds/",
+    "name": "Cure Serious Wounds, Mass",
+    "base": "cure serious wounds",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "levels":     {
+        "cleric/oracle": 7,
+        "druid": 8,
+        "shaman": 7,
+        "witch": 8
+    },
+    "text": "<p>This spell functions like <i>mass cure light wounds<\/i>, except that it cures 3d8 points of damage + 1 point per caster level (maximum +35).<\/p>",
+    "name_zh": "群体治疗重伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds, mass\">群体治疗轻伤 (cure light wounds, mass)<\/a>’一般，不过它能治疗 {3d8+CL (最高+35)} 点伤害。<\/p>",
+    "source": "CRB"
+}

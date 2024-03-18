@@ -1,0 +1,32 @@
+{
+    "key": "crimson breath",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/crimson-breath/",
+    "name": "Crimson Breath",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 4,
+        "cleric": 4,
+        "druid": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fort negates",
+    "spellResistance": "no",
+    "text": "<p class=\"desciption\">When you cast this spell, your salivary glands transform and instantly fill with potent venom.<\/p><p>Make a ranged touch attack against a single target in range; if you hit, the target is affected by a dose of breath of the mantis god. The Fortitude save DC for this poison is the same as the spell's DC, not the standard save DC for the poison.<\/p>",
+    "name_zh": "腥红之息",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当你施放该法术时，你的唾液腺会被转化，并且立即充满剧毒（potent venom）。进行1次远程接触攻击对抗范围内的单个目标；若命中，目标会受到1剂螳螂神之息（Breath of The Mantis God；见上文装备一栏）的影响。这剂毒素的强韧豁免DC与法术的DC相同，而非装备中毒素自身的标准豁免DC。<\/p>",
+    "source": "AG"
+}

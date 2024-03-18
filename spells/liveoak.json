@@ -1,0 +1,29 @@
+{
+    "key": "liveoak",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/liveoak/",
+    "name": "Liveoak",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 6,
+        "shaman": 7
+    },
+    "elementalSchools": {"wood": 7},
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "touch",
+    "target": "tree touched",
+    "duration": "1 day/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell turns an oak tree into a protector or guardian. The spell can only be cast on a single tree at a time; while <i>liveoak<\/i> is in effect, you can't cast it again on another tree.<i> Liveoak<\/i> must be cast on a healthy, Huge oak. A triggering phrase of up to one word per caster level is placed on the targeted oak. The <i>liveoak<\/i> spell triggers the tree into animating as a treant.<\/p><p>If <i>liveoak<\/i> is dispelled, the tree takes root immediately wherever it happens to be. If released by you, the tree tries to return to its original location before taking root.<\/p>",
+    "name_zh": "橡树守卫",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的树木",
+    "duration_zh": "1天/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术会把一棵橡树活化成一个守卫。同一时间，该法术只能施放至一颗树木上；在橡树守卫生效时，你无法向其他树木再次施放该法术。橡树守卫的目标必须是一株健康的超大型橡树。一段控制短句放置在目标橡树上，这段短句的字数至多为每CL一个字。之后橡树守卫会将橡树活化而变为一个树人 (treant)。<\/p><p>如果法术被解除，橡树会立即就地生根。如果是施法者自行解消法术，它会试着回到原本生长的地方重新生根。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,25 @@
+{
+    "key": "hold monster",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-monster/",
+    "name": "Hold Monster",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "inquisitor": 4,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "unchained summoner": 5,
+        "witch": 5
+    },
+    "domains": {"law": 6},
+    "components": "V, S, M/DF (one hard metal bar or rod, which can be as small as a three-penny nail)",
+    "target": "one living creature",
+    "text": "<p>This spell functions like <i>hold person<\/i>, except that it affects any living creature that fails its Will save.<\/p><p>",
+    "name_zh": "怪物定身术",
+    "components_zh": "语言, 姿势, 材料/法器 (坚硬的金属棒或杆，小如钉子也可以)",
+    "target_zh": "一个活物",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’一般，不过它会影响任何意志豁免失败的活物。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "abjuring step",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/abjuring-step/",
+    "name": "Abjuring Step",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "subSchool": ["force"],
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a rabbit's foot)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level or until discharged",
+    "text": "<p>This spell creates a subtle and complicated force effect that is most effective when used by a still or slow-moving spellcaster or formula user. While you are subject to this spell, you can take two 5-foot steps each round and still cast spells and use spell-like abilities without provoke attacks of opportunity.<\/p><p>This spell automatically discharges as soon as you make an attack, cast a harmful spell against another creature, or move more than 5 feet with a single move action. If the action that discharges the spell also provokes attacks of opportunity, that action still provokes attacks of opportunity as normal.<\/p>",
+    "name_zh": "谨慎步伐",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一只兔脚)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级或 直至能量散发",
+    "text_zh": "<p>持续时间    1轮/等级或 直至能量散发<\/p><p>这个法术会创造一系列微妙和复杂的力场效果，对那些原地不动、缓慢移动的施法者或炼金公式使用者大有助益。<\/p><p>当你成为该目标的法术，你可以每轮进行两次五尺快步并仍能施放法术和使用类法术能力，而不会触发藉机攻击。<\/p><p>法术效果在当你进行攻击、对另一个生物施放有害法术或一个单独移动动作移动超过5尺时散发掉。<\/p><p>如果你导致法术能量散发的动作也会引发藉机攻击的话，这个动作会如常引发藉机攻击。<\/p>",
+    "source": "UC"
+}

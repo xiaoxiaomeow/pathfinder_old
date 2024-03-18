@@ -1,0 +1,30 @@
+{
+    "key": "mask dweomer",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mask-dweomer/",
+    "name": "Mask Dweomer",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "occultist": 1,
+        "psychic": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of gauze)",
+    "range": "touch",
+    "duration": "1 day/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means of <i>detect magic<\/i> or <i>arcane sight<\/i>.<\/p><p>Both the desired spell effect and <i>mask dweomer<\/i> are hidden from <i>detect magic<\/i>, although more powerful spells (such as <i>arcane sight<\/i>) pierce the deception if the caster succeeds on a Will save. <i>Analyze dweomer<\/i> automatically detects both <i>mask dweomer<\/i> and any masked spell effects.<\/p>",
+    "name_zh": "掩饰魔力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片纱)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物或物体",
+    "duration_zh": "1天/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你掩饰并操控法术的魔法灵光，使其难以被侦测到。选择目标生物或物体上的一个法术效果。你必须自身能够施放该法术，或者能够感知这个效果，比如使用侦测魔法 (detect magic) 或者秘法视力 (arcane sight)。你所希望掩盖的法术效果以及掩饰魔力均会在侦测魔法的效果中隐藏起来，但是更强大的法术 (比如秘法视力) 的施法者如果成功通过意志豁免则会洞察这一假象。解析咒文 (Analyze dweomer) 能够自动侦测到掩饰魔力以及任何被掩藏的法术效果。<\/p>",
+    "source": "APG"
+}

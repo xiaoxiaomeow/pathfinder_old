@@ -1,0 +1,38 @@
+{
+    "key": "poisonous balm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/poisonous-balm/",
+    "name": "Poisonous Balm",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors":     [
+        "poison",
+        "ruse"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 4,
+        "druid": 5,
+        "occultist": 4,
+        "shaman": 4,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous, then 1 hour or until triggered plus 6 rounds; see text",
+    "savingThrow": "Will partial (harmless), then Fort negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You mend the target's injuries, curing 3d8 hit points + 1 point per caster level (maximum +15) as cure serious wounds, but leaving its body laced with a subtle toxin that remains inert until you activate it. A target that decides to attempt the Will save and succeeds is healed for half (as cure serious wounds) and negates the toxin. Otherwise, you can activate the toxin by concentrating on the spell as a standard action, at which point the victim takes 1d3 points of Strength damage per round for 6 rounds. Once the poison is active, the target can attempt a Fortitude save each round to negate that round's damage and end the affliction. If you don't trigger the poison for 1 hour, the spell ends and leaves the target unharmed.<\/p><p>Detect poison reveals an inert <i>poisonous balm<\/i> only if the caster succeeds at a caster level check against a DC equal to 15 + your caster level. Attempts to identify <i>poisonous balm<\/i> with a skill check incorrectly identify it as cure serious wounds (see the ruse descriptor). A fooled viewer mistakes <i>poisonous balm's<\/i> aura as the lingering aura of an instantaneous effect.<\/p>",
+    "name_zh": "浸毒药膏",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物",
+    "duration_zh": "立即，之后1小时 或 直至触发 外加 6轮；见后文",
+    "savingThrow_zh": "意志，通过则部分生效（无害），之后 强韧，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你修复了目标的伤口，如同治疗重伤（Cure Serious Wounds）一般治愈3d6 + 每施法者等级1点生命值（最高+15点），但在其体内留下难以察觉的毒素，直至你将其激活为止都会潜伏在目标体内。决定尝试意志豁免检定，并且成功让治疗量减半的目标（如治疗重伤法术）不会受到毒素影响。否则，你便能够以标准动作专注于法术，激活其体内的毒素；在此时点，受害者会每轮承受1d3点力量伤害，持续6轮。一旦毒素被激活，目标便能够每轮尝试1次强韧豁免来让该轮免受伤害，并终止该项苦难。若你在1小时内没有激活毒素，该法术便会结束并且不会对目标产生损害。\n使用侦测毒性（Detect Poison）的人只有成功进行施法者等级检定对抗15 + 你的施法者等级的DC才能揭示出浸毒药膏的存在。尝试以技能检定鉴别浸毒药膏时，会将其误认为治疗重伤（Cure Serious Wounds）。详细请见192页诡计描述符（ruse descriptor）的说明。被愚弄的观察者会将浸毒药膏的灵光误认为立即效果（instantaneous effect）的残存灵光（lingering aura）。<\/p>",
+    "source": "UI"
+}

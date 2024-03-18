@@ -1,0 +1,31 @@
+{
+    "key": "move earth",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/move-earth/",
+    "name": "Move Earth",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "druid": 6,
+        "sorcerer/wizard": 6
+    },
+    "elementalSchools": {"earth": 6},
+    "bloodlines": {"ghoul": 6},
+    "castingTime": "see text",
+    "components": "V, S, M (clay, loam, sand, and an iron blade)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "dirt in an area up to 750 ft. square and up to 10 ft. deep (S)",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p><i>Move earth<\/i> moves dirt (clay, loam, sand, and soil), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.<\/p><p>In no event can rock formations be collapsed or moved. The area to be affected determines the casting time. For every 150-foot square (up to 10 feet deep), casting takes 10 minutes. The maximum area, 750 feet by 750 feet, takes 4 hours and 10 minutes to move.<\/p><p>This spell does not violently break the surface of the ground. Instead, it creates wavelike crests and troughs, with the earth reacting with glacial fluidity until the desired result is achieved. Trees, structures, rock formations, and such are mostly unaffected except for changes in elevation and relative topography.<\/p><p>The spell cannot be used for tunneling and is generally too slow to trap or bury creatures. Its primary use is for digging or filling moats or for adjusting terrain contours before a battle.<\/p><p>This spell has no effect on earth creatures.<\/p>",
+    "name_zh": "地动术",
+    "castingTime_zh": "见后文",
+    "components_zh": "语言, 姿势, 材料 (黏土, 壤土, 砂土和一把铁刃)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "边长为750尺的方形区域之中, 至多10尺深的泥土 (可变)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>地动术可以移动泥土 (黏土、壤土、砂土)，有可能造成堤防塌陷、搬动小丘、沙丘移位等。<\/p><p>不过不管怎样的情况，岩石地层都不会塌陷或被移动。法术影响的区域大小取决于施法时间。每改变边长150尺的方形区域 (至多10英尺深)，就需要10分钟施法时间。如果要影响最大平面范围 (750尺见方)，则要花费4小时10分钟。<\/p><p>该法术并不会剧烈破坏地表。相对的，受到影响的区域会先出现波浪状的皱折，整个地表像是冰河一样缓慢移动，直到达成特定形状。树木、房屋、岩石地层和大部分地上物，只会改变高度和地势，除此之外没有其他影响。<\/p><p>该法术不能用来挖掘隧道，而且由于改变速度太慢，它也没办法用来困住或活埋生物。一般来说此法术主要用来挖沟，填平壕沟，或在战争前调整地形轮廓等。<\/p><p>该法术对土系生物没有效果。<\/p>",
+    "source": "CRB"
+}

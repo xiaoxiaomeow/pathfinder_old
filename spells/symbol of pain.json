@@ -1,0 +1,26 @@
+{
+    "key": "symbol of pain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-pain/",
+    "name": "Symbol of Pain",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "subdomains":     {
+        "kyton": 5,
+        "torture": 5
+    },
+    "components": "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)",
+    "text": "<p>This spell functions like <i>symbol of death<\/i>, except that each creature within the radius of a <i>symbol of pain<\/i> instead suffers wracking pains that impose a -4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.<\/p><p>Unlike <i>symbol of death<\/i>, <i>symbol of pain<\/i> has no hit point limit; once triggered, a <i>symbol of pain<\/i> simply remains active for 10 minutes per caster level.<\/p>",
+    "name_zh": "痛苦徽记",
+    "components_zh": "语言, 姿势, 材料 (水银, 磷以及钻石和猫眼石粉末, 总价值为1000gp)",
+    "text_zh": "<p>此法术作用类似于‘<a href=\"spell.html?spell=symbol of death\">死亡徽记 (symbol of death)<\/a>’，不过痛苦徽记会使60尺范围内的所有生物受到极度的痛苦，因此在攻击检定、技能检定以及属性检定上受到-4减值。这些效果会持续下去，直到该生物离开徽记60英尺达到1小时。<\/p><p>与死亡徽记不同，恐惧徽记没有HP的限制；一旦被触发，它会在每CL 10分钟内保持启动状态。<\/p><p>注意：诸如恐惧徽记之类的魔法陷阱是很难被侦测、解除的。尽管任何角色都能够使用察觉技能来找到徽记，不过只有具有【寻找陷阱】职业能力的角色才能使用解除装置来将其解除。DC为 {25+法术环位}，对于痛苦徽记来说则是30。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "floating disk",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/floating-disk/",
+    "name": "Floating Disk",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "subdomains": {"trade": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of mercury)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "3-ft.-diameter disk of force",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You create a slightly concave, circular plane of force that follows you about and carries loads for you. The disk is 3 feet in diameter and 1 inch deep at its center. It can hold 100 pounds of weight per caster level. If used to transport a liquid, its capacity is 2 gallons. The disk floats approximately 3 feet above the ground at all times and remains level. It floats along horizontally within spell range and will accompany you at a rate of no more than your normal speed each round. If not otherwise directed, it maintains a constant interval of 5 feet between itself and you. The disk winks out of existence when the spell duration expires. The disk also winks out if you move beyond its range or try to take the disk more than 3 feet away from the surface beneath it. When the disk winks out, whatever it was supporting falls to the surface beneath it.<\/p><h3>Floating Disk Tricks<\/h3><p class=\"source\">PCS:DR<\/p><p>There are some additional options related to this spell if a character has the Magic Trick feat:<\/p><p>Although most spellcasters use floating disks as little more than a means of moving luggage, the shulsagas of the Astral Plane have mastered the ability to ride atop a floating disk. A combination of cultural importance, astral secrets, and constant practice allows shulsagas to push the spell's magic beyond its normal limits. Masters of the art can perform truly extraordinary maneuvers with proper training. In addition to the feat, skill, or other requirements listed for each of these tricks, you must have the Magic Trick (floating disk) feat to use the trick.<\/p><p style=\"padding-left: 30px;\"><i>Defensive Disk<\/i> (Fly 3 ranks, Shield Proficiency): While riding atop your floating disk with at least one hand free, you can spend a move action to grip the disk by its edge, tilt it, and use it to deflect blows. Until the beginning of your next turn, your floating disk grants you the benefits of the spell shield. If you are already under the effects of the shield spell from another source, this effect instead increases the spell's shield bonus by 1 until the beginning of your next turn.<\/p><p style=\"padding-left: 30px;\"><i>Disk Rider<\/i> (Fly 3 ranks): You can ride atop any floating disk you create, so long as it has the capacity to support your weight. This grants you a fly speed of 30 feet (average), but the disk cannot move itself or you more than 5 feet above the ground at any time. If you are on a location within the Astral Plane—the disk can instead fly to any height, and your fly speed while standing on it increases to 40 feet (good). When you cast floating disk, you can step onto the disk in your space as part of the action required to cast the spell.<\/p><p style=\"padding-left: 30px;\"><i>Drifting Defense<\/i> (Fly 6 ranks, Mobility, Shield Proficiency): Whenever you move at least 10 feet during your turn, you can activate the defensive disk trick as a free action.<\/p><p style=\"padding-left: 30px;\"><i>Expanded Disk<\/i> (Fly 3 ranks, Heighten Spell): If you are Large or larger, you can create a larger floating disk capable of supporting your weight and size; however, for each size category you are larger than Medium, you must use a spell slot that is one level higher (for example, a 4th-level spell is required to create a disk capable of supporting a Gargantuan creature). Once created, a disk augmented with this trick will always support the weight of you and your personal gear, even if this combined mass exceeds the disk's capacity.<\/p><p style=\"padding-left: 30px;\"><i>Force Check<\/i> (Fly 3 ranks, Catch Off-Guard or Improved Bull Rush): When you successfully charge and bull rush a creature while riding atop your floating disk, you can veer the disk into your target, dealing 1d6 points of bludgeoning damage in addition to moving the target. You gain a +4 circumstance bonus to your Armor Class against any attack of opportunity attempted against you when performing a bull rush in this way.<\/p><p style=\"padding-left: 30px;\"><i>Spurn Gravity<\/i> (Fly 6 ranks): While astride your floating disk, you can fly higher than 5 feet above the ground. However, you must return to a location 5 feet above a stable surface before the end of your turn or fall. If you take damage from this fall, you fall prone atop your floating disk. As a swift action, you can also reduce the remaining duration of your floating disk to 1 round per level. For the remaining duration of the spell, your fly speed increases to 50 feet and your disk ignores all altitude limitations.<\/p><p>&nbsp;<\/p>",
+    "mythicText": "The disk created by this spell lasts for 2 hours per caster level and can carry up to 200 pounds of weight per caster level. <br>The disk accompanies you regardless of your speed, always catching up no matter how far you move. If you stand or sit on the disk, as a move action you can direct it to travel up to 30 feet in any direction. <br>Any objects resting on the disk count as weightless parts of your gear for the purpose of teleportation effects (allowing these items to go with you when you teleport despite the weight limit of the teleportation spell). <br>As a free action, you can transform the plane of force from a concave disk into a bucket-like shape that holds up to 4 gallons (or transform it from the bucket-like form back to its normal disk form). ",
+    "name_zh": "浮碟术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴水银)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "直径3尺的力场碟",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造了一个微凹的力场圆盘，它会跟随你并为你携带货物。圆盘直径3尺，中心厚度为1英吋。它可以放置每CL 100磅的重量。如果用来运输液体，它的容量为2加仑。圆盘总是漂浮在距地面大约3尺高度，并保持水平。它在法术距离内水平漂浮，而且会跟随你行动，每轮最大速度为你的正常速度。如果没有其他指引，它会和你保持5尺间隔。如果法术持续时间结束，浮碟会消散。同样如果你移出了法术范围，或者试图让浮碟和最近地面之间的距离超过3尺，那么浮碟也会消散。当浮碟消散时，它上面装的所有东西都会掉到浮碟下方的地面上。<\/p>",
+    "source": "CRB"
+}

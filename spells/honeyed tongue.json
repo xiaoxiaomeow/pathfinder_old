@@ -1,0 +1,25 @@
+{
+    "key": "honeyed tongue",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/honeyed-tongue/",
+    "name": "Honeyed Tongue",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2,
+        "paladin": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M/DF (a drop of honey)",
+    "range": "personal",
+    "duration": "10 min.s/level",
+    "text": "<p>This spell augments your diplomacies. While under the effects of spell, you roll two dice each time you make a Diplomacy check to change a creature's attitude, taking the highest roll.<\/p><p>If this results in a roll low enough to reduce the creature's attitude by a step, that creature gets some clue that you are manipulating it with a spell. Alternatively you can cast this spell before making a Diplomacy check to gather information, gaining a +5 competence bonus on the check.<\/p>",
+    "name_zh": "甜言蜜语",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料/法器 (一滴蜂蜜)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>这个法术增强你的交涉能力。当你受到法术效果影响时，你可以在一个交涉检定中丢两次骰，并取其中较好的一个。<\/p><p>如果你在投骰中掷出了足够低的结果以至于目标生物对你的态度降低一级，则该生物会察觉你使用了法术。<\/p><p>此外，你可以在使用交涉技能收集信息之前施放该法术，这样会让你收集信息的交涉检定获得+5表现加值。<\/p>",
+    "source": "APG"
+}

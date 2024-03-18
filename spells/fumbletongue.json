@@ -1,0 +1,32 @@
+{
+    "key": "fumbletongue",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fumbletongue/",
+    "name": "Fumbletongue",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "witch": 1
+    },
+    "mysteries": {"lunar": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. +5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1d4 rounds",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This enchantment causes a creature to be unable to speak intelligibly. Any effort the target makes to talk, in any language, comes out as a useless mix of unconnected words and noises. Even magic words are affected to some extent; the target has a 20% spell failure chance for any spell it attempts to cast with verbal components, and a 20% chance to incorrectly use a command word to activate a magic item. This spell has no effect on telepathic communication, or the vocalizations of creatures that lack a spoken language.<\/p>",
+    "name_zh": "大舌头咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "一名生物",
+    "duration_zh": "1d4轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个惑控系法术会导致生物无法清楚地使用语言。无论目标进行怎样地努力去说话，无论使用任何语言，他也只能发出毫无意义的不连贯单词和音节。即使是咒语也会受到一定程度的影响；目标施放带有语言成分的法术时有20%概率失败，并且在用口令激活魔法道具时有20%的概率失误。该法术对心灵沟通没有影响，也无法影响不使用语言的生物的发声。<\/p>",
+    "source": "UM"
+}

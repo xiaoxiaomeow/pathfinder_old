@@ -1,0 +1,31 @@
+{
+    "key": "unerring tracker",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unerring-tracker/",
+    "name": "Unerring Tracker",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 5,
+        "druid": 6,
+        "occultist": 4,
+        "ranger": 4
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>During this spell's duration, you can touch the sign of a creature's passage that you have identified using the Survival skill to make the other steps in the creature's path perfectly clear to you, no matter how minute. This trail can't be more than 24 hours old. You can follow the trail at any speed, provided you have line of sight to the trail. You can distinguish the trail of the particular creature followed even if it joins and splits with other trails. Once you have selected a trail to follow using this spell, it can't be changed.<\/p><p>The spell is unable to follow teleportation or interplanar travel for any distance. The trail appears to end where the creature teleported (though a successful Spellcraft check allows you to determine the method of teleportation, if a spell was used). Unerring tracker can't track creatures under the effect of a pass without trace spell, as those creatures leave no trail at all, but can track creatures using nondetection (though not mind blank).<\/p><p>This spell can be used to track flying creatures, but the trail must at least begin on a solid surface.<\/p><p>This spell doesn't reveal the creature's current position or any shorter path than the one it followed (for instance, it will not reveal that the creature doubled back upon the trail until you reach the point where the creature turned around.) It doesn't reveal traps or other hazards along the trail.<\/p>",
+    "name_zh": "精确追迹术",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>在法术的持续时间内，你可以触碰那些你靠着生存技能发现的线索，让这个生物所留下的每一个蛛丝马迹都完美的显现出来，包括任何足迹，或者细节的线索。这条足迹存留的时间不得超过24小时。你能够以任意速度追踪这条足迹，但前提条件是你必须与足迹有视觉线相连。你能分辨出特定生物的足迹并加以追踪，即便目标足迹加入到其他足迹之后再分开也不能混淆你的判断。一旦你使用该法术并决定追踪1条足迹后，便无法更改。\n任何距离的传送或跨位面旅行对于该法术来说都是无法追踪的。目标生物传送的位置看起来像是足迹的终点（通过成功的法术辨识检定能让你判断出传送的方式——如果目标是使用法术传送的话）。精确追迹术无法追踪受到行踪无迹（Pass without Trace）法术影响的生物，因为这些生物完全没有留下足迹；此外心灵屏障（Mind Blank）也可以阻碍该法术，不过对于使用回避侦测（Nondetection）法术的生物来说，该法术依旧可以进行追踪。\n该法术可以用于追踪飞行移动的生物，但是至少足迹的起点要在实体表面上。\n该法术不会揭示出留下足迹的生物的当前位置，也不会提供比足迹更短的近路（举例来说，直至抵达目标生物折返的位置为止，你都无法了解到目标顺着自己的足迹折返了）。该法术也不会揭示出足迹经过的陷阱或其他危害。<\/p>",
+    "source": "UI"
+}

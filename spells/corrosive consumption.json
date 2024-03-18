@@ -1,0 +1,31 @@
+{
+    "key": "corrosive consumption",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/corrosive-consumption/",
+    "name": "Corrosive Consumption",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["acid"],
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "subdomains": {"demodand": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "3 rounds",
+    "savingThrow": "none",
+    "text": "<p>With a touch, this spell causes a small, rapidly growing patch of corrosive acid to appear on the target. On the first round, the acid deals 1 point of acid damage per caster level (maximum 15). On the second round, the acid patch grows and deals 1d4 points of acid damage per caster level (maximum 15d4). On the third and final round, the acid patch covers the entire creature and deals 1d6 points of acid damage per caster level (maximum 15d6). The target can spend a full-round action to scrape off the acid, or can wash it off with at least 1 gallon of liquid to halve the damage for that round and negate the remaining rounds of the spell.<\/p>",
+    "name_zh": "酸蚀术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "3轮",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>随着一次触摸，这个法术会在目标身上造成一个微小但是会快速增殖的腐蚀性酸蚀区域。<\/p><p>第一轮，酸液造成每施法者等级1点酸液伤害 (最高15)。<\/p><p>第二轮，酸蚀区域持续增长，造成每施法者等级1d4点伤害 (最高15d4)。<\/p><p>第三轮，即最后一轮，酸蚀区域覆盖整个生物并造成每施法者等级1d6点伤害 (最高15d6)。<\/p><p>目标可以用一个整轮动作刮去酸液或用至少一加仑的液体冲洗全身，这可以减半当轮伤害并免于受到后续伤害。<\/p>",
+    "source": "UM"
+}

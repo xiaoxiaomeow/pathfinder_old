@@ -1,0 +1,20 @@
+{
+    "key": "magic circle against chaos",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-chaos/",
+    "name": "Magic Circle against Chaos",
+    "school": "abjuration",
+    "descriptors": ["lawful"],
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3,
+        "paladin": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "summoner/unchained summoner": 3
+    },
+    "domains": {"law": 3},
+    "text": "<p>This spell functions like magic circle against evil, except that it is similar to protection from chaos instead of protection from evil, and it can imprison a non-lawful called creature.<\/p>",
+    "name_zh": "反混乱法阵",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’一般，不过效果是‘<a href=\"spell.html?spell=protection from chaos\">防护混乱 (protection from chaos)<\/a>’而非‘<a href=\"spell.html?spell=protection from evil\">防护邪恶 (protection from evil)<\/a>’，并且它可以用来束缚被呼唤而来的非秩序生物。<\/p>",
+    "source": "CRB"
+}

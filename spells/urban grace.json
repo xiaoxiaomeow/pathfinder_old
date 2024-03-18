@@ -1,0 +1,29 @@
+{
+    "key": "urban grace",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/urban-grace/",
+    "name": "Urban Grace",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "ranger": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You become one with the city around you, allowing you to move more easily through its crowds and buildings. For the duration of this spell, your base land speed increases by 10 feet. In addition, it does not cost you 2 squares of movement to enter a square with crowds, though the crowd still provides cover to you. This ability does not allow you to enter the space of enemy creatures without making the appropriate Acrobatics check. In addition, you receive a +4 circumstance bonus on Acrobatics checks made to move across uneven urban surfaces, such as roofs and broken pavement, and on Climb checks made to scale walls and other artificial surfaces. Whenever you make an Acrobatics check to make a long jump between two buildings or artificial structures, you are always treated as if you had a running start, regardless of the actual distance traveled.<\/p>",
+    "name_zh": "城镇恩典",
+    "race_zh": "半精灵",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你被城镇所眷顾，它使你更易于在建筑群与人群之间穿行。在法术的存续期间，你的陆上基本速度提高10尺。此外，进入被人群占据的方格并不会使你消耗两倍的移动速度，但人群依旧会给你提供遮蔽。不过即使在法术存续期间，当你进入敌人所占据的方格时，仍需进行适当特技检定。另外，当你使用特技检定通过崎岖的城镇地形时 (比如屋顶与破损的路面)，以及在使用攀爬检定攀登墙壁以及其他人造表面时获得+4环境加值。每当你在两栋建筑或其他人工构造之间进行特技检定进行跳远时，无论你实际行动的距离，总是被视为进行过了助跑)。<\/p>",
+    "source": "ARG"
+}

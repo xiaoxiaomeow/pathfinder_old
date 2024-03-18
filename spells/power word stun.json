@@ -1,0 +1,32 @@
+{
+    "key": "power word stun",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-stun/",
+    "name": "Power Word Stun",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "domains": {"war": 8},
+    "bloodlines": {"arcane": 8},
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature with 150 hp or less",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You utter a single word of power that instantly causes one creature of your choice to become stunned, whether the creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature that currently has 151 or more hit points is unaffected by <i>power word stun<\/i>.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Hit Points<\/th>    <th class=\"text\">Duration<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">50 or less<\/td>    <td class=\"text\">4d4 rounds<\/td>   <\/tr>   <tr>    <td class=\"number\">51-100<\/td>    <td class=\"text\">2d4 rounds<\/td>   <\/tr>   <tr>    <td class=\"number\">101-150<\/td>    <td class=\"text\">1d4 rounds<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "真言术：震",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个HP为150或更低的生物",
+    "duration_zh": "见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你仅说出一个威力无比的词就能让你选定的一个生物震慑，不管它是否能听见那个词。该法术的持续时间和目标的当前总HP相关。任何当前具有151或者更多HP的生物都不受真言术：震影响。\nHP\n 持续时间\n50以下\n 4d4轮\n51 – 100\n 2d4轮\n101 – 150\n 1d4轮<\/p>",
+    "source": "CRB"
+}

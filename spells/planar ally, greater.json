@@ -1,0 +1,23 @@
+{
+    "key": "planar ally, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planar-ally/",
+    "name": "Planar Ally, Greater",
+    "base": "planar ally",
+    "book": "Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "descriptors": ["see text for <i>lesser planar ally<\/i>"],
+    "levels":     {
+        "cleric/oracle": 8,
+        "shaman": 8
+    },
+    "subdomains": {"tactics": 8},
+    "components": "V, S, M (offerings worth 2,500 gp plus payment), DF",
+    "effect": "up to three called outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.",
+    "text": "<p>This spell functions like <i>lesser planar ally<\/i>, except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. The creatures agree to help you and request your return payment together.<\/p>",
+    "name_zh": "高等异界盟友",
+    "components_zh": "语言, 姿势, 材料 (报酬外加价值2500gp的祭品, 见后文), 法器",
+    "effect_zh": "至多呼唤三个异界生物, 总HD不超过18, 出现时任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=lesser planar ally\">次等异界盟友 (lesser planar ally)<\/a>’一般，不过你可以呼唤1个不超过18HD的生物；或至多3个同一种类的生物，总HD不超过18。呼唤来的生物会一起同意帮助你，也会共同向你要求回报。<\/p>",
+    "source": "CRB"
+}

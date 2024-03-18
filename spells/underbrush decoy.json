@@ -1,0 +1,30 @@
+{
+    "key": "underbrush decoy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/underbrush-decoy/",
+    "name": "Underbrush Decoy",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 1,
+        "ranger": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 swift action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one non-creature plant of size Tiny, Small, or Medium",
+    "duration": "1 round",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You cause a plant to rustle noisily, distracting nearby creatures.<\/p><p>You can attempt a Bluff check to create a distraction to hide, using your caster level + your Wisdom modifier in place of your total Bluff skill bonus and applying the result to all creatures within 30 feet. You count the target as distracted, as do any creatures that knew about your distraction in advance. Creatures might not be distracted if they detect you casting the spell or otherwise anticipate your subterfuge.<\/p>",
+    "name_zh": "风吹草动",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个体型为超小型、小型或中型的非生物植物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志，通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你让植物沙沙作响，并以此来让周遭的生物分心。你能尝试1次唬骗检定分散注意力来进行隐藏，使用你的施法者等级 + 你的感知调整值来取代你在唬骗技能上的总加值，并将结果应用至30尺范围内的所有生物上。你会让目标视同为被分散了注意力，而其他事先知道你会分散目标注意力的生物也可以获得这个优势。若有生物侦测到你在施法或者以其他方式料到你的计策，那么它们则不会被分散注意力。<\/p>",
+    "source": "UI"
+}

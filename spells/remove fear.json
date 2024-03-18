@@ -1,0 +1,33 @@
+{
+    "key": "remove fear",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/remove-fear/",
+    "name": "Remove Fear",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "shaman": 1
+    },
+    "domains": {"liberation": 1},
+    "subdomains": {"loyalty": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "10 min.s; see text",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You instill courage in the subject, granting it a +4 morale bonus against fear effects for 10 minutes. If the subject is under the influence of a fear effect when receiving the spell, that effect is suppressed for the duration of the spell.<\/p><p><i>Remove fear<\/i> counters and dispels <i>cause fear<\/i>.<\/p>",
+    "name_zh": "移除恐惧",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1个生物外加每四个等级额外1个生物，任意两者之间的距离不超过30尺",
+    "duration_zh": "10分钟; 见后文",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你将勇气注入受术者的心中，使之10分钟内对抗恐惧效果时得到+4士气加值。如果受到本法术时受术者已在恐惧效果影响下，在本法术的持续时间内那效果都会被压制。<\/p><p>移除恐惧反制和解除‘<a href=\"spell.html?spell=cause fear\">惊恐术 (cause fear)<\/a>’。<\/p>",
+    "source": "CRB"
+}

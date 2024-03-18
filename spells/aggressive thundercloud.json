@@ -1,0 +1,32 @@
+{
+    "key": "aggressive thundercloud",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aggressive-thundercloud/",
+    "name": "Aggressive Thundercloud",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["electricity"],
+    "levels":     {
+        "druid": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a piece of a tree struck by lightning)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "5-ft.-diameter sphere",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>A crackling, spherical storm cloud flies in whichever direction you point and deals electricity damage to those it strikes. It has a fly speed of 20 feet with perfect maneuverability. If it enters a space that contains a creature, the storm stops moving for the round and deals 3d6 points of electricity damage to that creature, though a successful Reflex save negates that damage. It provides concealment (20% miss chance) to anything within it, and its flickering light illuminates the same area a candle would.<\/p><p>The sphere moves as long as you actively direct it (as a move action for you); otherwise, it stays at rest and crackles with lightning. It can be moved by wind effects and counts as a Small creature for the purpose of determining how winds affect it. The sphere has no physical substance and cannot exert any force on corporeal creatures or objects. It disperses if it exceeds the spell's range.<\/p>",
+    "name_zh": "雷云侵袭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（被雷劈过的树木碎块）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "直径5尺的球体",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一个劈啪作响的球形雷云飞向你所指定的地点，并对敌人造成闪电伤害。雷云具有20尺飞行速度以及完美的机动性。若雷云进入到一个生物所占据的空间，那么它便会在该轮内停止移动，并对该名生物造成3d6点闪电伤害，成功通过反射豁免可以免受伤害。雷云会对任何占据相同空间的生物提供隐蔽（concealment；20%失手率），并且它那闪烁的光芒会如同蜡烛一般照亮相同的区域。\n只要你主动对球体下达指示（以移动动作），它便会移动；否则它便会保持静止，并发出闪电的辟啪声响。雷云也能够被风所影响，在判断风力产生的影响时，雷云被视为小型生物。这个球体并不具备实体，也无法对任何实体的生物或物体施加力量。雷云在移出法术范围之后便会消散。<\/p>",
+    "source": "ACG"
+}

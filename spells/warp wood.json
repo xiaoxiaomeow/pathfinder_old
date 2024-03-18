@@ -1,0 +1,28 @@
+{
+    "key": "warp wood",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/warp-wood/",
+    "name": "Warp Wood",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 Small wooden object/level, all within a 20-ft. radius",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You cause wood to bend and warp, permanently destroying its straightness, form, and strength. A warped door springs open (or becomes stuck, requiring a Strength check to open, at your option). A boat or ship springs a leak. Warped ranged weapons are useless. A warped melee weapon causes a -4 penalty on attack rolls.<\/p><p>You may warp one Small or smaller object or its equivalent per caster level. A Medium object counts as two Small objects, a Large object as four, a Huge object as eight, a Gargantuan object as 16, and a Colossal object as 32.<\/p><p>Alternatively, you can unwarp wood (effectively warping it back to normal) with this spell. <i>Make whole<\/i>, on the other hand, does no good in repairing a warped item.<\/p><p>You can combine multiple consecutive <i>warp wood<\/i> spells to warp (or unwarp) an object that is too large for you to warp with a single spell. Until the object is completely warped, it suffers no ill effects.<\/p>",
+    "name_zh": "曲木术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级1个小型木质物体, 全部处于半径20尺的区域内",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你可以使木材弯曲变形，永久的摧毁它的强度和形状，让它变得不再笔直。弯曲了的门会弹开 (或被卡住，以致需要通过力量检定来砸开，两种可能由你选择)。船会产生裂缝。扭曲了的远程武器无法使用。扭曲的近战武器在攻击检定上受-4减值。<\/p><p>每CL可弯曲一件小型或更小的物体，或者综合与此相当物体。1件中型物体视作2件小型物体，1件大型物体视作4件小型物体，1件超大型物体视作8件小型物体，1件巨型物体视作16件小型物体，1件超巨型物体视作32件小型物体。<\/p><p>除了上述内容之外，你也能够使用该法术矫直木材 (将手术的物体恢复正常)。换句话说，‘<a href=\"spell.html?spell=make whole\">完全修复术 (make whole)<\/a>’无法修复被扭曲的物品。<\/p><p>你可以连续使用多个曲木术来弯曲 (或变直) 一个过于庞大，以至于无法使用单个法术弯曲的物体。直至物体完全被扭曲之前，它不会受到任何不良效果。<\/p>",
+    "source": "CRB"
+}

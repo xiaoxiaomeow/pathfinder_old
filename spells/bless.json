@@ -1,0 +1,40 @@
+{
+    "key": "bless",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bless/",
+    "name": "Bless",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "paladin": 1,
+        "shaman": 1
+    },
+    "domains": {"community": 1},
+    "subdomains":     {
+        "leadership": 1,
+        "resolve": 1
+    },
+    "bloodlines": {"celestial": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "50 ft.",
+    "area": "The caster and all allies within a 50-ft. burst, centered on the caster",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "<p><i>Bless<\/i> fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.<\/p><p><i>Bless<\/i> counters and dispels <i>bane<\/i>.<\/p>",
+    "mythicText": "The +1 morale bonus applies on attack rolls, weapon damage rolls, and all saving throws. Once during the spell's duration, an affected creature can roll an attack roll or saving throw twice and take the higher result. The target must decide to use this ability before the first roll is attempted. ",
+    "name_zh": "祝福术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "50尺",
+    "area_zh": "施法者，以及以施法者为中心半径50尺爆发区域内的所有盟友",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>祝福术让你的盟友充满了勇气。每个盟友都在攻击检定和对抗恐惧的豁免检定中获得+1士气加值。<\/p><p>祝福术反制和解除‘<a href=\"spell.html?spell=bane\">绝望术 (bane)<\/a>’。<\/p>",
+    "source": "CRB"
+}

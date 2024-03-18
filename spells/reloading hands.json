@@ -1,0 +1,31 @@
+{
+    "key": "reloading hands",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reloading-hands/",
+    "name": "Reloading Hands",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 2,
+        "ranger": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "projectile weapon touched",
+    "duration": "1 round/caster level (d)",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>Once per round, phantom hands load a single ranged weapon or firearm with conjured ammunition. This ammunition counts as magical for overcoming damage reduction and attacking incorporeal creatures, but is the standard for its type (a normal bullet or pellets and black powder in the case of firearms). Conjured ammunition ceases to exist 1 round after it is removed from the weapon, or at the end of the duration, whichever comes first.<\/p>",
+    "name_zh": "自动装填",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的投射武器",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
+    "spellResistance_zh": "可 (无害，物体)",
+    "text_zh": "<p>每轮一次，一只幻影之手都会给一把远程武器或火器装填咒法弹药。<\/p><p>这种弹药克服伤害减免时视为魔法武器，并且能够伤害虚体生物，不过其属性仍然是正常类型。 (一颗普通子弹或散弹，或火器里的黑火药)<\/p><p>咒法弹药在离开武器一轮后消失，或者在法术效果结束时消失，取决于哪个在先。<\/p>",
+    "source": "UC"
+}

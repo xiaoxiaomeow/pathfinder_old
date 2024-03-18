@@ -1,0 +1,24 @@
+{
+    "key": "triggered suggestion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/triggered-suggestion/",
+    "name": "Triggered Suggestion",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "duration": "1 day/level or until completed",
+    "text": "<p>This spell functions as suggestion, except you can use it only to specify a condition that triggers a special activity, and the subject does not remember that you made the suggestion. For example, you could use <i>triggered suggestion<\/i> on a palace guard to make him attack the king the next time he and the king are alone, and the guard would not remember the suggestion to do so until the trigger occurred.<\/p>",
+    "name_zh": "触发型暗示术",
+    "duration_zh": "1日/等级 或 直至耗散",
+    "text_zh": "<p>该法术的功能如同暗示术（Suggestion）一般，不过你能够使用它来在特定的条件下触发特定的行动，而且受术者不会记得你所作出的暗示。举例说明：你能够对一名皇宫守卫使用触发型暗示术，让他在下一次与国王独处时攻击国王，而且直至触发条件满足之前，他不会记得关于此事的暗示。<\/p>",
+    "source": "ACG"
+}

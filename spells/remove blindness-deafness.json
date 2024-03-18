@@ -1,0 +1,33 @@
+{
+    "key": "remove blindness-deafness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/remove-blindness-deafness/",
+    "name": "Remove Blindness-Deafness",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "alchemist": 3,
+        "cleric/oracle": 3,
+        "paladin": 3,
+        "shaman": 3,
+        "witch": 3
+    },
+    "subdomains": {"purity": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p><i>Remove blindness/deafness<\/i> cures blindness or deafness (your choice), whether the effect is normal or magical in nature. The spell does not restore ears or eyes that have been lost, but it repairs them if they are damaged.<\/p><p><i>Remove blindness/deafness<\/i> counters and dispels <i>blindness/deafness<\/i>.<\/p>",
+    "name_zh": "移除目盲/耳聋",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>移除目盲/耳聋能够治愈目盲或者耳聋 (依照你的选择)，不论这目盲和耳聋的效果是魔法还是自然造成的。本法术不会恢复耳朵或眼睛失去的部分，但是能修复受损伤的部分。<\/p><p>移除目盲/耳聋反制和解除‘<a href=\"spell.html?spell=blindness/deafness\">目盲/耳聋术 (blindness/deafness)<\/a>’。<\/p>",
+    "source": "CRB"
+}

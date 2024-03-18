@@ -1,0 +1,22 @@
+{
+    "key": "treacherous teleport",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/treacherous-teleport/",
+    "name": "Treacherous Teleport",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "descriptors": ["ruse"],
+    "levels":     {
+        "magus": 6,
+        "occultist": 6,
+        "psychic": 6,
+        "sorcerer/wizard": 6,
+        "spiritualist": 6,
+        "summoner": 6,
+        "witch": 6
+    },
+    "text": "<p>This spell functions as teleport except that you can opt to intentionally cause any number of the creatures traveling with you to suffer a mishap or arrive in a specific different location you visualize simultaneously with the original destination, or both.<\/p><p>Attempts to identify <i>treacherous teleport<\/i> with a skill check incorrectly identify it as teleport (see the ruse descriptor).<\/p>",
+    "name_zh": "诡诈传送术",
+    "text_zh": "<p>该法术的功能如同传送术（Teleport）一般，不过你能选择故意让与你一同旅行的任意数量生物遇难（mishap）、抵达不同的特定地点（该地点要和原始目的地同时想像决定）、或者让上述两者情况同时发生。\n尝试以技能检定鉴别诡诈传送术时，会将其误认为传送术（Teleport）。详细请见192页诡计描述符（ruse descriptor）的说明。<\/p>",
+    "source": "UI"
+}

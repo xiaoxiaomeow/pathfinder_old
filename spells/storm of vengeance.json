@@ -1,0 +1,38 @@
+{
+    "key": "storm of vengeance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/storm-of-vengeance/",
+    "name": "Storm of Vengeance",
+    "book": "Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 9,
+        "druid": 9,
+        "shaman": 9,
+        "witch": 9
+    },
+    "domains":     {
+        "nobility": 9,
+        "weather": 9
+    },
+    "subdomains": {"cloud": 9},
+    "mysteries": {"battle": 9},
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "effect": "360-ft.-radius storm cloud",
+    "duration": "concentration (maximum 10 rounds) (d)",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "<p>You create a huge black storm cloud in the air. Each creature under the cloud must succeed on a Fortitude save or be deafened for 1d4 x 10 minutes. Each round you continue to concentrate, the spell generates additional effects as noted below. Each effect occurs on your turn.<\/p>",
+    "name_zh": "复仇风暴",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "effect_zh": "半径360尺的暴风云",
+    "duration_zh": "专注 (至多10轮)  (可解消)",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会创造出一团巨大的黑色暴风云。云下的每个生物必须通过强韧豁免否则耳聋1d4×10分钟。你持续专注该法术的每一轮，法术都会按照后述内容产生额外效果。每一种效果都在你的回合中生效。<\/p><p>第二轮：影响区域中降下酸雨，造成1d6点强酸伤害 (无豁免)。<\/p><p>第三轮：从云上召下6道闪电。由你决定闪电击向何方。任何两道闪电不能击向同一个目标。每道闪电造成10d6点闪电伤害。被闪电轰击的生物若通过反射豁免则伤害减半。<\/p><p>第四轮：这片区域内降下冰雹，造成5d6点钝击伤害 (无豁免)。<\/p><p>第五至十轮：狂风暴雨降低了能见度。大雨遮蔽5尺距离外的所有视觉，包括黑暗视觉。距离5尺远的生物会获得隐蔽 (攻击有20%失手率)。更远距离的生物获得全隐蔽 (50%失手机率，攻击者无法靠视觉确定目标位置)。<\/p><p>暴风雨区域内无法进行远程攻击。在暴风雨区域内施法均会被扰乱，因此必须先进行专注检定，DC为 {复仇风暴豁免DC+尝试施放的法术环位}。<\/p>",
+    "source": "CRB"
+}

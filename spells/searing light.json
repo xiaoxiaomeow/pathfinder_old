@@ -1,0 +1,32 @@
+{
+    "key": "searing light",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/searing-light/",
+    "name": "Searing Light",
+    "school": "evocation",
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 3
+    },
+    "domains":     {
+        "glory": 3,
+        "sun": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "ray",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Focusing divine power like a ray of the sun, you project a blast of light from your open palm. You must succeed on a ranged touch attack to strike your target.<\/p><p>A creature struck by this ray of light takes 1d8 points of damage per two caster levels (maximum 5d8).<\/p><p>An undead creature takes 1d6 points of damage per caster level (maximum 10d6), and an undead creature particularly vulnerable to bright light takes 1d8 points of damage per caster level (maximum 10d8).<\/p><p>A construct or inanimate object takes only 1d6 points of damage per two caster levels (maximum 5d6).<\/p>",
+    "name_zh": "灼热光辉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "射线",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>将神力聚焦凝聚成如同太阳的光束，你从你打开的手掌中放射出一道光的冲击。要击中目标，你必须进行一次成功的远程接触攻击。被这道光束击中的生物要受到每两个CL 1d8点伤害 (最多5d8)。不死生物受到每CL 1d6点伤害 (最多10d6)，如果是易受到强光伤害的不死生物则受到每CL 1d8的伤害 (最多10d8)。构装体或者非活化物品仅受到每两个CL1d6的伤害 (最多5d6)。<\/p>",
+    "source": "CRB"
+}

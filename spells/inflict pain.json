@@ -1,0 +1,41 @@
+{
+    "key": "inflict pain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-pain/",
+    "name": "Inflict Pain",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "descriptors":     [
+        "mind-affecting",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "inquisitor": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 3,
+        "spiritualist": 2,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You telepathically wrack the target's mind and body with agonizing pain that imposes a –4 penalty on attack rolls, skill checks, and ability checks. A successful Will save reduces the duration to 1 round.<\/p>",
+    "name_zh": "苦痛刑罚",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>通过心灵感应，你使用极端的苦痛来伤害目标的精神与肉体，这使得它在攻击检定、技能检定和属性检定中承受-4减值。成功通过意志豁免能够将该法术的持续时间降低至1轮。<\/p>",
+    "source": "OA"
+}

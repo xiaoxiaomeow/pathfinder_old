@@ -1,0 +1,14 @@
+{
+    "key": "psychic crush ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
+    "name": "Psychic Crush II",
+    "base": "psychic crush i",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 6},
+    "text": "<p>This functions as <i>psychic crush I<\/i>, but on a successful Fortitude save, the target takes 5d6 points of damage + 1 point of damage per caster level. In addition, the target receives a +4 circumstance bonus on the Fortitude save only if it is at full hit points; otherwise, it gains a +2 bonus if it has more than half its total hit points remaining. This spell can be undercast.<\/p>",
+    "name_zh": "心灵碾压 II",
+    "text_zh": "<p>该法术的功能如同心灵碾压 I（Psychic Crush I）一般，不过成功通过强韧豁免时，目标会受到5d6 + 每施法者等级1点伤害。此外，目标仅在生命值全满的时候于强韧豁免中获得+4环境加值；剩余的总生命值在半额以上时仅会获得+2环境加值。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

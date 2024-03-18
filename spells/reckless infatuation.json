@@ -1,0 +1,38 @@
+{
+    "key": "reckless infatuation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reckless-infatuation/",
+    "name": "Reckless Infatuation",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 day/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You fill your target with feelings of intense infatuation for a specific individual known to the target. At the time of the casting, you designate a single creature as the focus of the target's desire. Thereafter, the target does all it can to remain within 30 feet of the object of its desire. If the target moves outside this range, it gains the staggered condition until it is again near the focus of its desire. If remaining within 30 feet of the focus of its affection would place the target in obvious physical danger, the target can attempt a second save to break the spell's effect.<\/p><p><i>Reckless infatuation<\/i> counters unadulterated loathing.<\/p>",
+    "name_zh": "疯狂迷恋",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标对其所知的一个特定对像产生强烈的迷恋。<\/p><p>在法术施放时，你需要为目标指定一个它所知的单独生物作为法术的焦点对象。<\/p><p>此后，法术目标会尽一切可能靠近并留在对象的30尺范围内。如果目标移出这个范围，它会陷入恍惚 (Staggered) 状态，直到再次靠近对像为止。<\/p><p>如果靠近对像30尺范围这一行为会使法术目标受到明显物理伤害威胁，目标可以再次豁免以试图打破法术效果。<\/p><p>疯狂迷恋可以反制纯粹厌恶 (Unadulterated Loathing)。<\/p>",
+    "source": "UM"
+}

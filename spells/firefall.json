@@ -1,0 +1,31 @@
+{
+    "key": "firefall",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/firefall/",
+    "name": "Firefall",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4
+    },
+    "elementalSchools": {"fire": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (one fire source)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates and Reflex negates",
+    "spellResistance": "no",
+    "text": "<p><i>Firefall<\/i> causes a fire to erupt into a geyser of dazzlingly bright liquid flame. The spell uses one fire source, which is immediately extinguished. A fire larger than a 20-foot cube is only partly extinguished. Magical fires are not extinguished, but a creature of the fire subtype used as the source takes 1 point of damage per caster level (no Saving Throw).<\/p><p>The coruscating rain of fire fills a hemispherical burst with a radius of 60 feet. All creatures and objects in the area take 5d6 points of fire damage and catch on fire.<\/p><p>Creatures who make successful Reflex saves take half damage and don't catch on fire. Creatures within 120 feet of the original fire source are blinded for 1d4+1 rounds (Will negates).<\/p>",
+    "name_zh": "火焰之雨",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一个火源)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一个最多20尺边长立方体的火源",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效 以及 反射，通过则部分生效；见下文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>本法术可以将一个火源变为一道刺眼的火焰喷泉。<\/p><p>法术需要使用一个火种，火种在法术生效后会立即熄灭。如果火源大小超过20尺立方体，则仅会部分熄灭。魔法火焰不会熄灭，但是一个火焰亚种的生物会被该法术造成每施法者等级1点的伤害 (无豁免)。<\/p><p>刺眼的火焰之雨会倾泻在半径60尺的半球形范围内。所有范围内的生物都会受到5d6点伤害并被点燃。<\/p><p>成功的反射检定可以让生物只受到一半伤害并且不会被点燃。原火源120尺范围内的生物都会目盲 (blinded) 1d4+1轮 (意志豁免)。<\/p>",
+    "source": "APG"
+}

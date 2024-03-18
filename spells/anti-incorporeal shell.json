@@ -1,0 +1,30 @@
+{
+    "key": "anti-incorporeal shell",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/anti-incorporeal-shell/",
+    "name": "Anti-Incorporeal Shell",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "shaman": 4,
+        "witch": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "10 ft.",
+    "area": "10-ft.-radius emanation centered on you",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You bring into being a mobile, hemispherical energy field that incorporeal creatures cannot enter.<\/p><p>This spell can be used only defensively, not aggressively. Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier.<\/p><\/div>",
+    "name_zh": "反虚体护罩",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "10尺",
+    "area_zh": "：以你为中心，10尺半径发散区域",
+    "duration_zh": "1分钟/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你制造出一个可移动的半球形能量场，虚体生物（incorporeal creatures）无法进入到这个能量场内。\n该法术只能用于防守，且不具有攻击性。强行将护罩逼向无法进入能量场的生物会导致护罩的崩塌。<\/p>",
+    "source": "ACG"
+}

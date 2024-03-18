@@ -1,0 +1,17 @@
+{
+    "key": "sea stallion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sea-stallion/",
+    "name": "Sea Stallion",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 4,
+        "paladin": 4,
+        "ranger": 4
+    },
+    "text": "<p>This spell functions as <em>sea steed<\/em>, but as long as you stay mounted on the target, you also gain the amphibious quality and your melee attacks function as if you were under the effect of freedom of movement. the benefits you gain from this spell are not polymorph effects. If you dismount from the target, you retain the amphibious quality for up to 1 minute, but not the other benefits. You regain all of the benefits once you mount the target creature again.<\/p>",
+    "name_zh": "海中俊骑",
+    "text_zh": "<p>该法术的功能如同海中坐骑（Sea Steed），不过只要你骑乘在受影响的目标生物之上，你也会获得两栖属性，并且你的近战攻击被视为正处于行动自如一般。你从这种法术中获得的增益不是变形效果。如果你离开坐骑，两栖属性仍会保留最久1分钟，但没有其他增益。如果你在这段时间内再次骑乘目标生物，你可以重获所有的增益。<\/p>",
+    "source": "UW"
+}

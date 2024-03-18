@@ -1,0 +1,22 @@
+{
+    "key": "chameleon stride",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chameleon-stride/",
+    "name": "Chameleon Stride",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels": {"ranger": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>You fade into the background, and while you are not truly invisible, you are hard to pinpoint due to your translucent state. While under the effects of this spell, you gain a +4 bonus on Stealth checks and have concealment from creatures more than 5 feet away (attacks have a 20% miss chance).<\/p>",
+    "name_zh": "变色龙诡步",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你融入了周围环境，尽管你不是真的隐形了，不过由于你那半透明的状态，他人难以将你精确定位。在该法术的影响下，你的潜行检定获得+4加值，并且在距离你5尺之外的生物均视你处于隐蔽中 (攻击有20%概率失手)。<\/p>",
+    "source": "APG"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "suggestion, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suggestion/",
+    "name": "Suggestion, Mass",
+    "base": "suggestion",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 5,
+        "medium": 4,
+        "mesmerist": 4,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "subdomains": {"innuendo": 6},
+    "mysteries": {"juju": 5},
+    "range": "medium (100 ft. + 10 ft./level)",
+    "text": "<p>This spell functions like <i>suggestion<\/i>, except that it can affect more creatures. The same <i>suggestion<\/i> applies to all these creatures.<\/p><\/div>",
+    "name_zh": "群体暗示术",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每等级1个生物, 任意两个生物之间的距离不能超过30尺",
+    "text_zh": "<p>该法术的功能与‘暗示术’相同，不过它能够影响多个生物。全部生物将受到同一种暗示影响。<\/p>",
+    "source": "CRB"
+}

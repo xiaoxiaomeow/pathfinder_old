@@ -1,0 +1,49 @@
+{
+    "key": "tongues",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tongues/",
+    "name": "Tongues",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 3,
+        "bard": 2,
+        "cleric/oracle": 4,
+        "inquisitor": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "psychic": 3,
+        "shaman": 4,
+        "sorcerer/wizard": 3,
+        "spiritualist": 3,
+        "summoner/unchained summoner": 3,
+        "witch": 3
+    },
+    "subdomains":     {
+        "agathion": 3,
+        "language": 3
+    },
+    "elementalSchools": {"wood": 3},
+    "bloodlines": {"aberrant": 3},
+    "mysteries":     {
+        "dark tapestry": 3,
+        "lore": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M/DF (a clay model of a ziggurat)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>This spell grants the creature touched the ability to speak and understand the language of any intelligent creature, whether it is a racial tongue or a regional dialect. The subject can speak only one language at a time, although it may be able to understand several languages. <i>Tongues<\/i> does not enable the subject to speak with creatures who don't speak. The subject can make itself understood as far as its voice carries. This spell does not predispose any creature addressed toward the subject in any way.<\/p><p><i>Tongues<\/i> can be made permanent with a <i>permanency<\/i> spell.<\/p>",
+    "name_zh": "巧言术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 材料/法器 (一个陶制阶梯金字塔小模型)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>本法术使被接触的生物能够听懂和叙说其他任何智能生物的语言，无论是种族语言或方言。受术者一次只能说一种语言，但是他能理解多种语言。巧言术无法使受术者与不会讲话的生物交谈。在嗓音可传达的范围内，所有生物都能理解受术者的话。此法术不能决定其他生物会向受术者说些什么。<\/p><p>巧言术可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

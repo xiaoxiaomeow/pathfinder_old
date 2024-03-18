@@ -1,0 +1,38 @@
+{
+    "key": "unseen servant",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unseen-servant/",
+    "name": "Unseen Servant",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "bard": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "summoner/unchained summoner": 1,
+        "witch": 1
+    },
+    "mysteries":     {
+        "ancestor": 1,
+        "occult": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of string and a bit of wood)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one invisible, mindless, shapeless servant",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>An <i>unseen servant<\/i> is an invisible, mindless, shapeless force that performs simple tasks at your command. It can run and fetch things, open unstuck doors, and hold chairs, as well as clean and mend. The servant can perform only one activity at a time, but it repeats the same activity over and over again if told to do so as long as you remain within range. It can open only normal doors, drawers, lids, and the like. It has an effective Strength score of 2 (so it can lift 20 pounds or drag 100 pounds). It can trigger traps and such, but it can exert only 20 pounds of force, which is not enough to activate certain pressure plates and other devices. It can't perform any task that requires a skill check with a DC higher than 10 or that requires a check using a skill that can't be used untrained. This servant cannot fly, climb, or even swim (though it can walk on water). Its base speed is 15 feet.<\/p><p>The servant cannot attack in any way; it is never allowed an attack roll. It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks. (It gets no saves against attacks.) If you attempt to send it beyond the spell's range (measured from your current position), the servant ceases to exist.<\/p><\/div>",
+    "name_zh": "隐形仆役",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一段绳子和一块木头)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一个不可见、无心智、无形体的仆役",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>隐形仆役是一股不可见、无心智、无形体的力量，在你的指挥下可以为你完成简单的任务。它可以跑步取来东西，开没有拴住的门，端椅子，进行清理或者缝缝补补。仆役一次只能做一件事，但只要在法术有效距离内，你可以要求它不断重复做同一件事。它只能打开普通的门，抽屉，盖子等。它的有效力量属性为2 (所以它可以举起20磅或拉动100磅)。它可以触发陷阱，但因为它只能加20磅的力，所以可能无法压动某些压力板或机关。若它从事的工作需要进行一次DC超过10的技能检定，或者该工作需要使用必须受训的技能，那么它将不能完成任务。仆役无法飞行、攀爬、甚至不能游泳 (不过它能够在水上行走)。它的基础速度为15尺。<\/p><p>该仆役无法以任何方式攻击；它绝不被允许进行攻击检定，它不会被杀，但如果因区域性攻击受到6点伤害，它就会消散 (遭袭时，它不能进行豁免检定)。若你试图让它前往法术有效范围外的地方 (从你的当前位置算起)，仆役就会消失。<\/p>",
+    "source": "CRB"
+}

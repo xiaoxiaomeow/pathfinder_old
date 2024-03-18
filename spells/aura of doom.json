@@ -1,0 +1,31 @@
+{
+    "key": "aura of doom",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-doom/",
+    "name": "Aura of Doom",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"cleric/oracle": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (powdered bone)",
+    "range": "personal",
+    "area": "20-ft.-radius emanation centered on you",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates",
+    "text": "<p>You emanate an almost palpable aura of horror. All non-allies within this spell's area, or that later enter the area, must make a Will save to avoid becoming shaken. A successful save suppresses the effect. Creatures that leave the area and come back must save again to avoid being affected by the effect.<\/p>",
+    "name_zh": "毁灭灵气",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (骨粉)",
+    "range_zh": "自身",
+    "area_zh": "以你为中心半径20尺爆发范围",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你散发出一道可见的恐怖灵气。<\/p><p>所有法术范围内的，或是后来进入范围的非友方必须进行一次意志检定，失败的话会进入战栗状态。豁免成功会避免战栗。<\/p><p>一旦生物离开此区域后再次进入，必须再次进行豁免检定以避免受到效果影响。<\/p>",
+    "source": "UM"
+}

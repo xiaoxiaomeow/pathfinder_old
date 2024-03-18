@@ -1,0 +1,30 @@
+{
+    "key": "badger's ferocity",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/badger-s-ferocity/",
+    "name": "Badger's Ferocity",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 3,
+        "druid": 3,
+        "ranger": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one weapon/3 levels",
+    "duration": "concentration",
+    "savingThrow": "Will negates (harmless)",
+    "text": "<p>This functions like keen edge, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.<\/p>",
+    "name_zh": "獾之凶暴",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1把武器/3等级",
+    "duration_zh": "专注",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>这个法术类似锐锋术，不过它可以被施放在更多种类的武器上，并且需要你保持专注。<\/p><p>你选择会被影响的武器，并且每个生物持有的武器中只能被选择一把。<\/p><p>如果生物的武器离开了法术范围，该武器上的法术效果结束。<\/p>",
+    "source": "UM"
+}

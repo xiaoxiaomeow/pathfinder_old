@@ -1,0 +1,17 @@
+{
+    "key": "arcane sight, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-sight/",
+    "name": "Arcane Sight, Greater",
+    "base": "arcane sight",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "psychic": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "text": "<p>This spell functions like <em>arcane sight<\/em>, except that you automatically know which spells or magical effects are active upon any individual or object you see.<\/p><p>Unlike arcane sight, this spell cannot be made permanent with a permanency spell.<\/p><\/div>",
+    "name_zh": "高等秘法视力",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=arcane sight\">秘法视力 (arcane sight)<\/a>’一般，不过你自动得知你所看到的任何个体或物品上正启用的法术或魔法效果。<\/p><p>和秘法视力不同，该法术不能被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,39 @@
+{
+    "key": "haunting mists",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-mists/",
+    "name": "Haunting Mists",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "descriptors":     [
+        "fear",
+        "shadow"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "elementalSchools": {"void": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "effect": "cloud spreads in 20-ft. radius, 20 ft. high",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will partial (see text)",
+    "spellResistance": "no",
+    "text": "<p>An illusion of misty vapor inhabited by shadowy shapes arises around you. It is stationary. The illusory mist obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). All creatures within the mist must save or take 1d2 points of Wisdom damage and gain the shaken condition. The shaken condition lasts as long as the creature remains in the mist.<\/p>",
+    "name_zh": "鬼灵迷雾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "20尺",
+    "effect_zh": "20尺半径弥散、20尺高的云雾",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志，通过则部分生效 (见下文)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>一股包含着蠢动的阴影的形似雾气的幻影出现在你周围。它是固定不动的。<\/p><p>这团幻觉雾气会遮挡5尺以外的所有视线，包括黑暗视觉。5尺距离的生物具有隐蔽性 (攻击失手率20%)。更远的生物则会全隐蔽 (失手率50%，且攻击者不能用视线定位目标)。<\/p><p>云雾之内的所有生物都会进入战栗状态 (shaken)，并且必须通过豁免检定，否则受到1d2点感知伤害。只要生物扔在雾气之中，战栗效果就一直持续。<\/p>",
+    "source": "UM"
+}

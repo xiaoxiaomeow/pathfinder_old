@@ -1,0 +1,38 @@
+{
+    "key": "wandering star motes",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-star-motes/",
+    "name": "Wandering Star Motes",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["pattern"],
+    "descriptors":     [
+        "light",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "elementalSchools": {"void": 4},
+    "bloodlines": {"astral": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a sprinkle of flash powder)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1/round per level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You create sparkling motes of bright light that shoot toward the target and swirl around it in a complex pattern. The pattern clearly outlines the target and radiates light as if it were a sunrod, negating any concealment for the target. The target must make a successful Will save. If the target fails its save, it is dazed for 1 round and must make another save on its next turn or be dazed again for 1 round. The target must continue making Will saves each round. If a target makes its Will save, the <i>wandering star motes<\/i> jump to the nearest enemy within 30 feet, who must now make Will saves every round or be dazed. Any time a target makes its Will save, the <i>wandering star motes<\/i> jump to the next nearest enemy within 30 feet.<\/p><p>A given creature can only be affected by the <i>wandering star motes<\/i> once; once a target has successfully saved against the spell, it cannot be affected again. If there are no new targets within 30 feet of a target that has successfully made its save, the spell immediately ends. The spell only affects enemy creatures; your allies are not affected.<\/p>",
+    "name_zh": "游荡星尘",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一捧闪光粉尘)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物以及特殊；见下文",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造了一团闪闪发光的尘雾射向目标，然后绕着目标旋转。<\/p><p>这个尘雾会清晰的勾勒出目标的轮廓，并且发出等于一根照明棒的光亮，同时目标的任何隐蔽都将无效。<\/p><p>目标必须进行一次意志检定。如果失败，它将晕眩 (dazed) 一轮，并且下一轮必须再次进行检定，失败则再晕眩一轮。目标必须每一轮都进行一次意志检定。<\/p><p>如果目标检定成功，这团尘雾会立刻跳跃到30尺内最近的另一名敌方身上，然后它也必须每一轮通过意志检定否则晕眩。任何时候，只要当前目标意志检定通过，尘雾就会立刻跳跃到30尺内最近的另一名敌方身上。<\/p><p>一个既定生物只能被一次尘雾影响一次，一旦一名目标通过了这次法术的检定，它就不会被同一次法术影响。<\/p><p>如果当前目标是30尺范围内没有其他能被影响的目标，法术立刻结束。<\/p><p>法术只会影响敌方生物，而不会影响你的盟友。<\/p>",
+    "source": "APG"
+}

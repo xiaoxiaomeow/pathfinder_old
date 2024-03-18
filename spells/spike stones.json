@@ -1,0 +1,31 @@
+{
+    "key": "spike stones",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spike-stones/",
+    "name": "Spike Stones",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "druid": 4,
+        "shaman": 4
+    },
+    "domains": {"earth": 4},
+    "bloodlines": {"deep earth": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "one 20-ft. square/level",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Reflex partial",
+    "spellResistance": "yes",
+    "text": "<p>Rocky ground, stone floors, and similar surfaces shape themselves into long, sharp points that blend into the background.<\/p><p><i>Spike stones<\/i> impede progress through an area and deal damage. Any creature moving on foot into or through the spell's area moves at half speed. In addition, each creature moving through the area takes 1d8 points of piercing damage for each 5 feet of movement through the spiked area.<\/p><p>Any creature that takes damage from this spell must also succeed on a Reflex save to avoid injuries to its feet and legs. A failed save causes the creature's speed to be reduced to half normal for 24 hours or until the injured creature receives a <i>cure<\/i> spell (which also restores lost hit points). Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell's save DC.<\/p>",
+    "name_zh": "刺石术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "每等级1个边长20尺的方形区域",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>多石地面、石头地板以及类似地表表面发生变化，变成融入环境的尖锐长刺。<\/p><p>刺石术可妨碍通行，并造成伤害。任何徒步进入或经过法术区域的生物速度均会减半。此外在此尖刺区域内，生物每行进5英尺都会受到1d8点穿刺伤害。<\/p><p>任何被这个法术所伤的生物都需要成功通过反射豁免，才能避免腿脚受伤。若豁免失败，则生物在24小时内速度减半或直到该生物受到治疗法术 (这也能回复已经失去的HP)。其他角色可以进行医疗检定来帮其包扎伤口来移除上述惩罚，这要花费10分钟，DC等于此法术的豁免DC。<\/p><p>刺石术是难以察觉的魔法陷阱。只有具有【寻找陷阱】职业能力的角色才能使用察觉技能发现刺石术。DC为 {25+法术环位}。对于刺石术来说的DC为29。刺石术是无法用解除装置技能除去的魔法陷阱。<\/p>",
+    "source": "CRB"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "alchemical tinkering",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alchemical-tinkering/",
+    "name": "Alchemical Tinkering",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 2,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "firearm or alchemical item touched",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes",
+    "text": "<p>You transform one alchemical item or firearm into another alchemical item or firearm of the same or lesser cost. Magic Items are unaffected by this spell. At the end of the spell's duration, alchemical items used while transformed are destroyed and do not return to a usable state and firearms transformed revert back to their original type.<\/p>",
+    "name_zh": "炼金物转化术",
+    "race_zh": "鼠族",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的火器或炼金道具",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (物品)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你可以将炼金道具或火器转化为相同或更低价值的炼金道具或火器。魔法物品不受此法术影响。在这个法术的持续时间结束后，转化期间内使用过的炼金道具会被摧毁并且无法恢复到可用的状态，火器则会重新恢复回他们原本的类型。<\/p>",
+    "source": "ARG"
+}

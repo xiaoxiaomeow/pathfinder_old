@@ -1,0 +1,32 @@
+{
+    "key": "creeping ice",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/creeping-ice/",
+    "name": "Creeping Ice",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["cold"],
+    "levels":     {
+        "druid": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 3,
+        "unchained summoner": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "anchored plane of ice, up to one 10-ft. square/level",
+    "duration": "10 min.s/level",
+    "savingThrow": "Reflex negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle river) with a sheet of slowly growing ice. The initial sheet of ice cannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created. The ice is hard, strong, and opaque, and is 1 inch thick per caster level. The ice is strong enough to support the weight of a typical horse, making it possible for creatures to cross a body of water.<\/p><p>Each 10-foot square of ice has 3 hit points per inch of thickness. Creatures can hit the ice automatically. A section of ice whose hit points drop to 0 is destroyed, leaving an area of ice chunks, slush, and snow that counts as difficult terrain. If a creature tries to break through the ice with a single attack, the DC for the Strength check is 15 + your caster level.<\/p><p>Each round on your turn, the sheet of ice grows 1 foot in all directions except toward you. This growth is slow enough that any creature in the area has time to move out of the way or step onto the ice. If the growing ice completely covers a creature's square, the creature must choose whether it moves onto the sheet of ice, is knocked prone on the sheet of ice, or is bull rushed into an adjacent square.<\/p>",
+    "name_zh": "蠕行冰川",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "固定的冰面，至多每等级一个边长10尺的方格",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "反射，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术会使用一片缓慢增长的冰面覆盖地板、地面或其他安定的水平表面（比如平静的湖泊或河流）。冰面最初不能形成在有实体的物体或生物所占据的区域。在被创造时，它的表面必须是光滑而连贯的。这些冰十分坚硬，而且是不透明的，它的厚度为每施法者等级1英吋厚。这些冰面的强度足以支撑马匹的重量，这使得它们能够让生物穿过水体。\n对于每个10尺边长的冰面来说，每英吋厚度具有3点生命值。生物能够自动命中冰面。生命值降至0点的一段冰面会被摧毁，只留下一片散落着冰块、湿泥和雪的区域，这片区域被视为困难地形。若生物要尝试以力量检定击破冰面，那么DC为15 + 你的施法者等级。\n每轮到你的回合时，除了朝向你的一侧以外，冰面会向着所有方向延伸1尺。这种生长足够缓慢，能够让任何处于延伸区域内的生物有时间让开或者踏上冰面。若延伸的冰面完全覆盖了一个生物所处的空间，那么该名生物必须选择移动到冰面上、倒（knocked prone）在冰面上、或者被推入相邻的空间。<\/p>",
+    "source": "ACG"
+}

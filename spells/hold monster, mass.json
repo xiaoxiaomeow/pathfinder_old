@@ -1,0 +1,18 @@
+{
+    "key": "hold monster, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-monster/",
+    "name": "Hold Monster, Mass",
+    "base": "hold monster",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "text": "<p>This spell functions like <i>hold person<\/i>, except that it affects multiple creatures and holds any living creature that fails its Will save.<\/p><\/div>",
+    "name_zh": "群体怪物定身术",
+    "target_zh": "一个或更多生物，任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’一般，不过它会影响复数生物，并且能够定住任何意志豁免失败的活物。<\/p>",
+    "source": "CRB"
+}

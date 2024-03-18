@@ -1,0 +1,30 @@
+{
+    "key": "sleepwalk",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sleepwalk/",
+    "name": "Sleepwalk",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "inquisitor": 4,
+        "witch": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (a sprig of belladonna worth 100 gp)",
+    "range": "touch",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You compel an unconscious or sleeping creature to rise and move in a half-awake state. The target creature staggers about if led or guided, but remains helpless for all other purposes.<\/p><p>The subject moves at half speed and is limited to a single move action each round. It is not capable of moving at a higher rate of speed or taking actions other than movement except by magical assistance, and automatically fails any Dexterity&#8211; or Strength-based skill checks. If the creature takes any damage while <i>sleepwalking<\/i> it must make a new saving throw or the spell ends and the creature awakes (if it has more than 0 hit points). When the spell ends or is dismissed, the target remains unconscious and must be awoken normally. While <i>sleepwalk<\/i> allows an unconscious creature to move, it does not awaken the creature, nor does it stabilize or otherwise heal them. A disabled creature that moves about while under the effects of this spell does not start dying again as a result of this movement.<\/p>",
+    "name_zh": "梦游",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势, 材料 (一只价值100gp的颠茄)",
+    "range_zh": "接触",
+    "target_zh": "接触到的失去意识的生物",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你迫使一名失去意识或正在睡觉的生物起身并以半梦半醒的状态行动。目标生物若被引导，将会蹒跚前行，但对于其他行动仍视为处于无助状态。受术者每轮能够以单一一次移动动作半速移动。除非有魔法协助，否则他无法以更高的速率移动或者做移动以外的动作，并且他会在任何给予敏捷或力量的技能检定中自动失败。如果该生物在梦游中受到任何伤害的话，他必须进行一次新的豁免，否则法术结束并且该生物被唤醒 (只要他的生命值大于0)。当该法术结束或被解消时，目标仍保持失去意识并且必须如常被唤醒。当梦游驱使一名失去意识的生物移动时不会将其唤醒，也不会使其伤势稳定或以别的方式治愈他。当瘫痪的生物受该法术影响并移动时，不会因为如此移动而再次进入濒死状态。<\/p>",
+    "source": "APG"
+}

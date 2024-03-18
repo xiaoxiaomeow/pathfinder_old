@@ -1,0 +1,19 @@
+{
+    "key": "binding earth, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/binding-earth/",
+    "name": "Binding Earth, Mass",
+    "base": "binding earth",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "druid": 6,
+        "witch": 6
+    },
+    "text": "<p>This spell functions as <i>binding earth<\/i>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体地缚术",
+    "race_zh": "土元素裔",
+    "target_zh": "1个生物或物品/等级，互相之间不超过30尺",
+    "text_zh": "<p>除了上述内容之外，该法术如同‘地缚术’一般作用。<\/p>",
+    "source": "ARG"
+}

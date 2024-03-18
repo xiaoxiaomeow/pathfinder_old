@@ -1,0 +1,32 @@
+{
+    "key": "sun's disdain, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suns-disdain/",
+    "name": "Sun's Disdain, Mass",
+    "base": "sun's disdain",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["curse"],
+    "levels":     {
+        "bloodrager": 5,
+        "cleric/oracle": 5,
+        "inquisitor": 5,
+        "shaman": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like <em>sun's disdain<\/em>, except that it can affect multiple creatures.<\/p><\/div>",
+    "name_zh": "群体日之蔑视",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一片玻璃）/法器",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "每等级一个生物，任意两者之间的距离不超过30尺",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术如同日之蔑视一样作用，除了它可以影响复数生物。<\/p>",
+    "source": "AG"
+}

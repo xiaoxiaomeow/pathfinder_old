@@ -1,0 +1,22 @@
+{
+    "key": "symbol of slowing",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-slowing/",
+    "name": "Symbol of Slowing",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "components": "V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as symbol of death, except all creatures within 60 feet of a symbol of slowing are slowed (as the slow spell) for 1 round per caster level.<\/p><p><i>Symbol of slowing<\/i> can be made permanent with a permanency spell by a caster of 11th level or higher for the cost of 10,000 gp.<\/p>",
+    "name_zh": "迟缓徽记",
+    "components_zh": "语言, 姿势, 材料 (水银、磷，加上合计1000gp的钻石和蛋白石粉末)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式类似死亡徽记，不过所有60尺以内的生物都会变得迟缓 (如同缓慢术 (Slow) )，持续1轮每施法者等级。<\/p><p>迟缓徽记可以被魔法恒定术 (Permanency) 所恒定，需要施法者等级11级以及花费10000GP。<\/p>",
+    "source": "UM"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "scamper",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scamper/",
+    "name": "Scamper",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "your animal companion",
+    "duration": "1 round; see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Your animal companion moves with astonishing agility and speed until the end of its turn. It can move at full speed while using Acrobatics, and it gains a competence bonus equal to twice your caster level (maximum +20 at 10th level) on Acrobatics checks to avoid attacks of opportunity or move through a square occupied by an enemy.<\/p>",
+    "name_zh": "蹦蹦跳跳",
+    "castingTime_zh": "1迅捷动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "你的动物伙伴",
+    "duration_zh": "1轮；见正文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你的动物伙伴能以惊人的灵巧性以及速度移动，直至其回合结束。它能够在使用杂技时以全速移动，并且在用于避免藉机攻击或通过一个被敌人占据空间所进行的杂技检定中，获得两倍于你的施法者等级的表现加值（最高为10级时的+20）。<\/p>",
+    "source": "UW"
+}

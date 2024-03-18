@@ -1,0 +1,17 @@
+{
+    "key": "cacophonous call, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cacophonous-call/",
+    "name": "Cacophonous Call, Mass",
+    "base": "cacophonous call",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels": {"bard": 5},
+    "target": "one creature/level (all of which must be within 30 feet)",
+    "text": "<p>This spell functions as <i>cacophonous call<\/i>, except that is affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体扰神唤音",
+    "target_zh": "每等级1名生物 (所有目标之间的距离不超过30尺)",
+    "text_zh": "<p>该法术的功能如同扰神唤音 (Cacophonous Call) 一般，不过该法术可以影响复数生物。<\/p>",
+    "source": "APG"
+}

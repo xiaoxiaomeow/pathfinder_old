@@ -1,0 +1,26 @@
+{
+    "key": "vampiric shadow shield",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vampiric-shadow-shield/",
+    "name": "Vampiric Shadow Shield",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "mysteries": {"shadow": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "text": "<p>This spell wreathes you in shadowy energy and damages those that make melee attacks against you. Any creature that strikes you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of negative energy damage + 1 point per caster level (maximum +15). If the attacker has spell resistance, it applies to this effect. Creatures wielding melee weapons with reach are not subject to this damage. When an attacker takes damage from the spell, you heal a number of hit points equal to 25% of the damage the spell dealt.<\/p>",
+    "name_zh": "吸血影障",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级（可解消）",
+    "text_zh": "<p>该法术会用阴影能量笼罩你，并且伤害那些对你使用近战攻击的人。任何使用自己的身体或人造武器命中你的生物都会造成正常伤害，但是与此同时，攻击者会受到1d6 + 每施法者等级1点负能量伤害（最高+15）。若攻击者具有法术抗力，则可以应用至该效果。使用具有长武（Reach）特性的近战武器进行攻击的生物不会成为这些伤害的受术者。当攻击者由于该法术而受到伤害时，你会受到治疗，数值相当于该法术造成伤害的25%。<\/p>",
+    "source": "ACG"
+}

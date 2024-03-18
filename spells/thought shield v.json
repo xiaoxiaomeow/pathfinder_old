@@ -1,0 +1,15 @@
+{
+    "key": "thought shield v",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thought-shield/",
+    "name": "Thought Shield V",
+    "base": "thought shield",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels": {"psychic": 6},
+    "duration": "1 round/level; see text",
+    "text": "<p><b>Duration<\/b> 1 round/level; see text<\/p><p>This functions as <em>thought shield IV<\/em>, except as noted above. This spell immediately ends if you fail a Will saving throw against a mind-affecting effect. This spell can be undercast.<\/p>",
+    "name_zh": "思维护盾 V",
+    "duration_zh": "1轮/等级；见后文",
+    "text_zh": "<p>该法术的功能如同思维护盾 IV（Thought Shield IV）一般，差异如上所述。当你在对抗影响心灵（mind-affecting）效果的意志豁免中失败时，该法术会立即结束。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

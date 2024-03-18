@@ -1,0 +1,28 @@
+{
+    "key": "goodberry",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/goodberry/",
+    "name": "Goodberry",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 1,
+        "shaman": 1
+    },
+    "subdomains": {"seasons": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "1 day/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Casting <i>goodberry<\/i> makes 2d4 freshly picked berries magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.<\/p>",
+    "name_zh": "神莓",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的2d4个新鲜浆果",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>施放神莓可以让2d4颗摘下来的新鲜浆果充满魔力。你 (以及任何3级或更高等级的德鲁伊) 能立刻识别出哪些是受影响的。每颗被转变的浆果可以提供一个中型生物正常一餐的营养。在吃下浆果的同时，还能治疗1点伤害，在任何24小时内只能以这种方式治疗至多8点伤害。<\/p>",
+    "source": "CRB"
+}

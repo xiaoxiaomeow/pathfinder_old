@@ -1,0 +1,28 @@
+{
+    "key": "elemental body iv",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-body/",
+    "name": "Elemental Body IV",
+    "base": "elemental body",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels": {"sorcerer/wizard": 7},
+    "domains":     {
+        "air": 7,
+        "earth": 7,
+        "fire": 7,
+        "water": 7
+    },
+    "elementalSchools":     {
+        "air": 7,
+        "earth": 7,
+        "fire": 7,
+        "water": 7
+    },
+    "bloodlines": {"elemental": 7},
+    "mysteries": {"elemental": 7},
+    "text": "<p>This spell functions as <i>elemental body III<\/i>, except that it also allows you to assume the form of a Huge air elemental, Huge earth elemental, Huge fire elemental, or Huge water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form and gain DR 5/—.<\/p><ul><li><i>Air elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Strength, +6 size bonus to your Dexterity, and a +4 natural armor bonus. You also gain fly 120 feet (perfect).<\/li><li><i>Earth elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +8 size bonus to your Strength, a -2 penalty on your Dexterity, a +4 size bonus to your Constitution, and a +6 natural armor bonus.<\/li><li><i>Fire elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +6 size bonus to your Dexterity, a +4 size bonus to your Constitution, and a +4 natural armor bonus.<\/li><li><i>Water elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Strength, a -2 penalty on your Dexterity, a +8 size bonus to your Constitution, and a +6 natural armor bonus. You also gain swim 120 feet.<\/li><\/ul><\/div>",
+    "name_zh": "元素形态 IV",
+    "text_zh": "<p>该法术的功能如同‘元素形态III’一般，不过它还允许你变为超大型气元素、超大型土元素、超大型火元素或超大型水元素的形态。你获得的能力取决于你化身的元素的类型。此外你在元素形态下还免疫流血伤害，重击以及偷袭。同时还获得DR 5/-。<\/p><p>气元素：如同‘元素形态I’，不过你的力量获得+4体型加值，敏捷获得+6体型加值以及+3天生护甲加值。你还获得120尺飞行速度 (机动性完美)。<\/p><p>土元素：如同‘元素形态I’，不过你的力量获得+8体型加值，敏捷受到-2减值，体质获得+4体型加值以及+6天生护甲加值。<\/p><p>火元素：如同‘元素形态I’，不过你的敏捷获得+6体型加值，体质获得+4体型加值以及+4天生护甲加值。<\/p><p>水元素：如同‘元素形态I’，不过你的力量获得+4体型加值，敏捷受到-2减值，体质获得+8体型加值以及+6天生护甲加值。你还获得120尺游泳速度。<\/p>",
+    "source": "CRB"
+}

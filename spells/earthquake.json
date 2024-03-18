@@ -1,0 +1,41 @@
+{
+    "key": "earthquake",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/earthquake/",
+    "name": "Earthquake",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "cleric/oracle": 8,
+        "druid": 8,
+        "shaman": 8
+    },
+    "domains":     {
+        "destruction": 8,
+        "earth": 8
+    },
+    "bloodlines":     {
+        "deep earth": 8,
+        "div": 8
+    },
+    "mysteries": {"battle": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "80-ft.-radius spread (S)",
+    "duration": "1 round",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p>When you cast <i>earthquake<\/i>, an intense but highly localized tremor rips the ground. The powerful shockwave created by this spell knocks creatures down, collapses structures, opens cracks in the ground, and more. The effect lasts for 1 round, during which time creatures on the ground can't move or attack. A spellcaster on the ground must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast. The earthquake affects all terrain, vegetation, structures, and creatures in the area. The specific effect of an <i>earthquake<\/i> spell depends on the nature of the terrain where it is cast.<\/p>",
+    "mythicText": "Increase the damage dealt to structures by 10 points of damage per tier. Increase the damage dealt by cave-ins and landslides to 10d8 points of damage. Increase the damage dealt to those pinned beneath rubble to 1d10 points per minute. Add your tier to the DC of concentration checks and Constitution checks attempted as a consequence of this spell. <br><p style=\"margin-left: 20px\"><b>Augmented (8th)<\/b>: If you expend two uses of mythic power, the spell lasts for an additional round and the spread's radius increases by 20 feet. Each round this spell is in effect, on your turn you may expend one use of mythic power to continue its duration for 1 round and increase its radius by another 20 feet. <br><h3>By the way&#8230;<\/h3>This spell has no effect in the deep waters of the ocean. ",
+    "name_zh": "地震术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "area_zh": "半径80尺扩散区域 (可变)",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当你施放地震术之后，地面开始剧烈而高度局部化的震动。这震动使生物跌倒，建筑物倒塌，地面开裂等。这些效果将持续1轮，其间地面上的生物无法移动或攻击。地面上的施法者需通过专注检定 (DC {20+法术环位}) 才能施法，否则会失去尝试施放的法术。地震会影响区域内所有地形、植被、建筑和生物。地震术的特殊效果由当地的地形决定。<\/p><p>洞穴，山洞或隧道 (Cave, Cavern, or Tunnel): 地震使得天花板崩塌，对里面的所有生物造成8d6点伤害 (通过DC 15的反射检定则伤害减半) 并将生物埋入碎石 (见后文)。施放在巨大山洞顶部的地震术可能危及到在实际作用区域外但是正好处在落石之下的生物。<\/p><p>悬崖 (Cliffs): 地震术会使悬崖崩塌，造成在水平方向移动的幅度与竖直方向相同的山崩。所有在其路径上的生物会受到8d6点钝击伤害 (通过DC 15的反射检定则伤害减半) 并被埋入碎石 (见后文)。<\/p><p>开阔的地面 (Open Ground): 站在区域内的所有生物需通过DC 15的反射检定，否则就会跌倒。土地会裂开，生物有25%的机率落入地缝 (通过DC 20的反射检定可避免跌入裂缝)。地缝有40尺深。在法术结束后地缝会合拢。所有被困于其中的生物就如同在被雪崩掩埋区域一般，被困在没有空气的地方 (详见环境章节)。<\/p><p>建筑物 (Structure): 所有开阔地面上的建筑物受到100点伤害，这足以摧毁普通的木结构或砖制建筑，但不足以摧毁石制或加固过的砖制建筑。硬度不会降低伤害，建筑也不会通过像物品一样的方式减半伤害。倒塌的建筑物内的所有生物受到8d6点钝击伤害 (通过DC 15的反射检定则伤害减半)，并被埋入碎石 (见后文)。<\/p><p>河流、湖泊或沼泽 (River, Lake, or Marsh): 水底出现裂缝，吸走区域中所有流水，由此形成泥泞的地面。湿地、沼泽在法术持续时间内则变成流沙吞噬生物和建筑物。区域内所有生物需通过DC 15的反射检定，否则就会陷入泥地或流沙。法术结束后，被吸走的水会重新出现，这很可能会淹死被陷的生物。<\/p><p>被埋入碎石 (Pinned Beneath Rubble): 被碎石压制的生物每分钟会受到1d6点非致命伤害。若被压制的角色陷入昏迷，则每分钟必须进行一次DC 15的体质检定，失败则受到1d6点致命伤害，直到被救出或死亡为止。<\/p>",
+    "source": "CRB"
+}

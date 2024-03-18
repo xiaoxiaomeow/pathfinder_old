@@ -1,0 +1,31 @@
+{
+    "key": "crimson confession",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/crimson-confession/",
+    "name": "Crimson Confession",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "touch",
+    "target": "or Area object touched or up to 1 sq. ft.",
+    "targetOrArea": "<b>Target<\/b> or Area",
+    "duration": "permanent and 1 hour/level (see text)",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>You ward an object or an area with your personal rune or mark. You can choose for the writing to be visible or invisible, and it doesn't harm the material upon which it is placed. A detect magic spell causes an invisible mark to glow and be visible. If any creature other than you touches the warded object or area and fails a Fortitude save, its skin turns bright red for 1 hour per level. This coloring cannot be washed away, but it can be dispelled.<\/p><p>See invisibility, true seeing, a gem of seeing, or a robe of eyes likewise allows the user to see an invisible mark. A read magic spell reveals the words, if any. The ward cannot be dispelled, but it can be removed by the caster or by an erase spell.<\/p>",
+    "name_zh": "深红罪状",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "targetOrArea_zh": "接触到的物体或至多1平方尺的区域",
+    "duration_zh": "永久 和 1小时/等级（见后文）",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使用个人专属的符文或标记保护一个物体或一片区域。你可以选择符号是否可见，而且放置这个符号也不会损害物质。侦测魔法（detect magic）能够使隐形的符号发出光芒，并且变得可见。若除你以外的任何生物碰触到被保护的物体或者区域，还在强韧豁免中失败的话，它的皮肤就会转变为鲜红色，持续每等级1小时。如此染上的颜色无法被洗掉，但是可以被解除（dispelled）。\n识破隐形（See Invisibility）、真知术（True Seeing）、真知宝石（gem of seeing）、百眼法袍（robe of eyes）或者类似效果能够让使用者看到隐形的标记。标记中若有文字的话，阅读魔法（read magic）也可以将文字显示出来。这个防护效果无法被解除（dispelled），但是它能够被施法者或者抹消术（erase）移除。<\/p>",
+    "source": "ACG"
+}

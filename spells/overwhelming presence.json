@@ -1,0 +1,41 @@
+{
+    "key": "overwhelming presence",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/overwhelming-presence/",
+    "name": "Overwhelming Presence",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 6,
+        "cleric/oracle": 9,
+        "inquisitor": 6,
+        "sorcerer/wizard": 9
+    },
+    "bloodlines": {"imperious": 9},
+    "mysteries":     {
+        "dragon": 9,
+        "intrigue": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a swan feather)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates, see text",
+    "spellResistance": "yes",
+    "text": "<p>Your presence inspires incredible awe in those nearby. A creature that fails a save against this spell falls to the ground and prostrates itself before you, believing it bows before a divine presence. A flying creature incapable of hovering must land immediately in order to prostrate itself. These creatures are considered to be helpless for the duration of the spell. Each round on its turn, a target of this spell may attempt a new saving throw to end the effect; this is a full-round action that does not provoke attacks of opportunity. A creature that recovers from this spell early after being affected by it for at least 1 round takes 1d6 points of Wisdom drain and is staggered for 1d4 rounds. A creature that makes the initial save to resist this spell is merely staggered for 1 round.<\/p>",
+    "name_zh": "神威如狱",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片天鹅羽毛)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每等级一个生物，互相之间不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则无效；见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你散发出无可反抗的气势，让附近的生物产生发自内心的敬畏。<\/p><p>对本法术豁免失败的生物，会相信你是一个神圣的存在，落到地面上并对你五体投地倒头膜拜。飞行生物无法进行盘旋，而必须立刻降落到地面并匍匐在地。这些生物在法术持续时间内被视作无助 (Helpless) 状态。<\/p><p>每一轮当它们行动时，每个目标可以选择进行一次新的豁免检定以试图终止法术效果，这是一个不会引发藉机攻击的整轮动作。<\/p><p>如果目标受到法术影响已经超过一轮，那么当它提前终止法术效果时，会受到1d6点感知吸取并恍惚1d4轮。<\/p><p>如果目标受到影响后第一轮便豁免成功，那么只会恍惚一轮。<\/p>",
+    "source": "UM"
+}

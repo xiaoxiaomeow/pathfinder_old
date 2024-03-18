@@ -1,0 +1,33 @@
+{
+    "key": "vocal alteration",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vocal-alteration/",
+    "name": "Vocal Alteration",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid creature",
+    "duration": "1 min./level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You alter the target's voice to something else. For example, you could make the target's voice high-pitched, husky, or nasal, or change its accent to an accent you are familiar with. If this spell is used as part of a disguise, the target gets a +10 bonus on the Disguise check when trying to fool a listener.<\/p><p>The target can vary the disguised voice just as it could its normal voice. For example, a halfling female given a male dwarf noble's voice and accent could speak in falsetto, with a rural halfling accent, and so on.<\/p>",
+    "name_zh": "扭曲嗓音",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名类人生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你改变目标的声音。比如，你可以让目标的声音变得高亢，沙哑，充满鼻音，或带上一个你熟悉的口音。如果这个法术被包含在一套易容效果里，目标在愚弄一个聆听者时在易容检定上获得+10加值。<\/p><p>目标可以如同使用自己正常的嗓音那样，对伪装的嗓音加以改变。一个被赋予了男性矮人贵族嗓音的半身人女性依旧可以用带着半身人平民口音的假声说话，以此类推。<\/p>",
+    "source": "UM"
+}

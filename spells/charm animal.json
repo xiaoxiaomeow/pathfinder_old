@@ -1,0 +1,22 @@
+{
+    "key": "charm animal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/charm-animal/",
+    "name": "Charm Animal",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "druid": 1,
+        "psychic": 1,
+        "ranger": 1,
+        "shaman": 1
+    },
+    "mysteries": {"nature": 1},
+    "target": "one animal",
+    "text": "<p>This spell functions like <i>charm person<\/i>, except that it affects a creature of the animal type.<\/p>",
+    "name_zh": "魅惑动物",
+    "target_zh": "一只动物",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Charm Person\">魅惑人类 (Charm Person)<\/a>’一般，不过它影响的是一只动物类的生物。<\/p>",
+    "source": "CRB"
+}

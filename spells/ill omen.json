@@ -1,0 +1,36 @@
+{
+    "key": "ill omen",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ill-omen/",
+    "name": "Ill Omen",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "curse",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "psychic": 1,
+        "witch": 1,
+        "mesmerist": 1
+    },
+    "bloodlines": {"harrow": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (hair from a black cat)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level or until discharged",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You afflict the target with bad luck. On the next d20 roll the target makes, it must roll twice and take the less favorable result. For every five caster levels you have, the target must roll twice on an additional d20 roll (to a maximum of five rolls at 20th level).<\/p><p>A target who can speak and has at least one free hand and who is aware of the spell and its effects (such as from a Spellcraft check to identify the spell as it is cast) can negate one reroll by spending a move action to utter a brief prayer or good luck charm to appease the spirits of ill fortune.<\/p>",
+    "name_zh": "凶兆",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (黑猫的毛)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1轮/等级或 直至散发",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你利用厄运使目标遭受痛苦。在目标进行的下一次d20检定时，他必须掷两次并取较差的结果。你每拥有5个施法者等级，目标便需要在一次额外的d20检定中掷两次 (最高为20级时的5个检定)。<\/p><p>如果一个能够说话并且有至少一只手空着的目标察觉到法术以及它的效果的话 (比如使用法术辨识检定在施法时识别出法术)，便能够通过花费一个移动动作进行简短的祈祷或者使用好运咒文安抚厄运之灵，以此方式使一次重骰失效。<\/p>",
+    "source": "APG"
+}

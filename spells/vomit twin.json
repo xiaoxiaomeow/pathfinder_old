@@ -1,0 +1,33 @@
+{
+    "key": "vomit twin",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vomit-twin/",
+    "name": "Vomit Twin",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool":     [
+        "creation",
+        "teleportation"
+    ],
+    "subSchoolOperator": "and",
+    "levels":     {
+        "alchemist": 3,
+        "magus": 3,
+        "sorcerer/wizard": 4,
+        "summoner": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "effect": "creates one ooze duplicate of the caster",
+    "duration": "1 round/level",
+    "text": "<p>Upon casting this spell, you vomit forth a disgusting ooze copy of yourself into a single adjacent square. As long as the twin exists, whenever you take a move action to move, the twin can move as well, although it does not need to follow you and cannot take any other actions. On subsequent rounds, at the start of your turn, you can instantaneously exchange places with your twin, as if using teleport. This is not an action and does not provoke an attack of opportunity.<\/p><p>The twin has a speed of 30 feet and provokes attacks of opportunity from movement as normal. It has an AC equal to 10 + 1/2 your caster level and a number of hit points equal to your caster level. If the twin is reduced to 0 hit points, it is destroyed, although you can create a new one on your turn as a standard action as long as the duration persists. You cannot have more than one vomit twin at a time.<\/p>",
+    "name_zh": "吐个分身",
+    "race_zh": "地精",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "effect_zh": "创造一个施法者的泥造复制品",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>当你施放这个法术后，你向着一个相邻的方格呕吐，以此造出你自己的泥造复制品。只要这个复制品存在，每当你使用移动动作移动它也会跟着移动，尽管它不需要跟随你，并且也无法做任何其他动作。在随后的几轮中，每当你的回合开始时，你都可以即刻与复制品交换位置，就如同使用传送术一般。这不是一个动作也不会引起藉机攻击。<\/p><p>复制品拥有30尺的移动速度并且它的移动会正常引发藉机攻击。它的AC等同于“10+1/2施法者等级”，并且拥有等同于你施法者等级的生命值。复制品的生命值若减少至0则被破坏，但是只要法术持续时间还没有过，你可以在你的回合以一个标准动作重新制造一个新的复制品。同一时间你不能有超过一个复制品。<\/p>",
+    "source": "ARG"
+}

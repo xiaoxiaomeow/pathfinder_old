@@ -1,0 +1,39 @@
+{
+    "key": "reinvigorating wind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reinvigorating-wind/",
+    "name": "Reinvigorating Wind",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "air",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "druid": 3,
+        "hunter": 3,
+        "shaman": 2,
+        "skald": 2,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a flower petal)",
+    "range": "30 ft.",
+    "area": "cone-shaped burst",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You exhale deeply, creating a gentle magical wind that invigorates any allies in the affected area, as follows. Any sleeping allies immediately wake up. Fascinated allies are shaken free of the fascinate effect. Flat-footed allies no longer count as flat-footed even if they have not acted yet. The duration of effects that cause any allies to be confused, frightened, paralyzed, slowed, or stunned is decreased by 1d4 rounds (roll separately for each target). If the duration of any such effect is reduced to 0 rounds or fewer, the effect ends for that ally. Finally, any allies lying prone may stand up as an immediate action, provoking attacks of opportunity as normal.<\/p>",
+    "name_zh": "苏活之风",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一片花瓣)",
+    "range_zh": "30尺",
+    "area_zh": "：锥形爆发",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你深深的呼了口气，创造一股温和的魔法之风，鼓舞了受影响区域内所有的盟友，效果如下。任何睡着的盟友立即苏醒。被迷魂的盟友从迷魂效果中惊醒。措手不及的盟友不再算为措手不及，就算他们还没有行动过。造成任何盟友困惑、惊惧、麻痹、缓慢或震慑效果的持续时间，减少1d4轮(要为每个目标单独骰)。如果任何这类效果的持续时间被减少至0或更少，此效果从盟友身上结束。最后，任何盟友卧倒的盟友可以以一个直觉动作站起来，并如常引发藉机攻击。<\/p>",
+    "source": "VC"
+}

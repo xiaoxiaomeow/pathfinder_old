@@ -1,0 +1,22 @@
+{
+    "key": "callback, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/callback/",
+    "name": "Callback, Greater",
+    "base": "callback",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "shaman": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "range": "1 mile/level",
+    "duration": "1 hour/level or until expended",
+    "text": "<p>This spell functions as <em>callback<\/em>, except as noted above.<\/p><\/div>",
+    "name_zh": "高等魔宠召还术",
+    "range_zh": "1英里/等级",
+    "duration_zh": "1小时/等级或直至耗散",
+    "text_zh": "<p>除了上述差异之外，该法术的功能如同魔宠召还术一般。<\/p>",
+    "source": "UW"
+}

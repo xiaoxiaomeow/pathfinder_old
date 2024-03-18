@@ -1,0 +1,29 @@
+{
+    "key": "transport via plants",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transport-via-plants/",
+    "name": "Transport via Plants",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "druid": 6,
+        "shaman": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "unlimited",
+    "target": "you and touched objects or other touched willing creatures",
+    "duration": "1 round",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You can enter any normal plant (equal to your size or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The plants must be alive. The destination plant need not be familiar to you. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and the <i>transport via plants<\/i> spell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.<\/p><p>You can bring along objects as long as their weight doesn't exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. Use the following equivalents to determine the maximum number of larger creatures you can bring along: a Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth. All creatures to be transported by the spell must be in physical contact with one another, and at least one of those creatures must be in contact with you.<\/p><p>You can't use this spell to travel through plant creatures.<\/p><p>The destruction of an occupied plant slays you and any creatures you have brought along, and ejects the bodies and all carried objects from it.<\/p>",
+    "name_zh": "木遁术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "无限",
+    "target_zh": "你和被接触到的物体或其他被接触的自愿生物",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可进入任何普通植物 (与你的体型相同或更大) 并在一轮内传送到一棵同类的植物内，不论两者距离多远。你进入的植物必须是活的。你不需要熟悉你将到达的植物，但它必须是活的。如果你不确定特定目标植物的位置，只需指出方向和距离，木遁术会将你移动到距离该点最近的同种植物中去。如果你希望抵达的特定目标植物已经死亡，则法术失效，你会从入口植物弹出。<\/p><p>你可以携带不超过你最大负重的物品。每三个CL，你可以携带一个自愿的中型生物或更小的生物 (携带不超过其最大负载的装备、物品) 或等同于此的生物。通过以下代换决定可以携带的更大体型生物的最大数量：一个大型生物相当于两个中型生物，一个超大型生物相当于四个中型生物，以此类推。所有被传送的生物必须和其他一个被传送者接触，并且至少有一个被传送者要与你接触。<\/p><p>此法术不能用于传送植物类生物。<\/p><p>若你所在的植物被破坏，你和你携带的生物都会死亡，尸体和所带的物品都会被弹出。<\/p>",
+    "source": "CRB"
+}

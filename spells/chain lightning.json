@@ -1,0 +1,38 @@
+{
+    "key": "chain lightning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chain-lightning/",
+    "name": "Chain Lightning",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["electricity"],
+    "levels":     {
+        "magus": 6,
+        "sorcerer/wizard": 6,
+        "witch": 7
+    },
+    "domains": {"air": 6},
+    "elementalSchools":     {
+        "air": 6,
+        "metal": 6
+    },
+    "bloodlines": {"djinni": 6},
+    "mysteries": {"heavens": 6},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin per caster level)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike lightning bolt, <i>chain lightning<\/i> strikes one object or creature initially, then arcs to other targets.<\/p><p>The bolt deals 1d6 points of electricity damage per caster level (maximum 20d6) to the primary target. After it strikes, lightning can arc to a number of secondary targets equal to your caster level (maximum 20). The secondary bolts each strike one target and deal as much damage as the primary bolt.<\/p><p>Each target can attempt a Reflex saving throw for half damage. The Reflex DC to halve the damage of the secondary bolts is 2 lower than the DC to halve the damage of the primary bolt. You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can choose to affect fewer secondary targets than the maximum.<\/p>",
+    "mythicText": "This spell deals 1d10 points of damage per caster level (maximum 20d10) and the save DC isn't reduced for secondary targets. Secondary targets have to be within 30 feet of any other target, not necessarily the primary target. ",
+    "name_zh": "连环闪电",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (少量皮毛; 一块琥珀, 玻璃或水晶棒; 外加每CL一根银钉)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一个主要目标, 外加每等级一个次要目标 (任意次要目标与主要目标的距离都不超过30尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术在你的指尖上制造出一道电流。与‘<a href=\"spell.html?spell=lightning bolt\">闪电束 (lightning bolt)<\/a>’不同，连环闪电首先会击中一个物体或生物，再通过电弧击中其他目标。<\/p><p>闪电会对主要目标造成每CL 1d6点闪电伤害 (最高20d6)。在击中后，闪电弧还可击中一定数量的次要目标，这个数量等同于你的CL (最高20个)。次要目标会一个接一个地被击中并受到与主要目标等量的伤害。<\/p><p>所有目标都能尝试进行反射豁免来使伤害减半。次要目标用于减半伤害的反射DC要比主要目标用于减半伤害的反射DC低2点。你可以随意选定次要目标，但他们与主要目标的距离不得超过30尺，而且同一目标只会被击中一次。你所选择的次要目标数量可以少于法术限定的最高次要目标数量。<\/p>",
+    "source": "CRB"
+}

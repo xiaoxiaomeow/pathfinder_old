@@ -1,0 +1,31 @@
+{
+    "key": "straitjacket",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/straitjacket/",
+    "name": "Straitjacket",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "inquisitor": 4,
+        "occultist": 4,
+        "sorcerer/wizard": 5,
+        "summoner": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (leather strap)",
+    "range": "close (25 ft. + 5 ft./2 caster levels)",
+    "target": "one creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You cause a straitjacket to spring into existence to restrain the target creature. You attempt a combat maneuver against the target's CMD. Your CMB for this check is equal to your caster level + 5 due to the <i>straightjacket's<\/i> Strength. This combat maneuver doesn't provoke an attack of opportunity, and if it succeeds, the target is restrained. This is similar to the grappled condition, except the target is able to move at its normal speed, the restraint doesn't cause the target to require concentration checks to use abilities that require concentration, and the target can't take actions that require one or more hands or arms to perform (including casting spells that require a somatic or material component).<\/p><p>Once it has been restrained for 1 round, the target can attempt an additional saving throw against a magical effect that makes it confused, a curse, a fear effect, or a madness. The caster chooses which effect the target gets an extra save against. This extra save applies to only effects with durations of 10 minutes per level or less, and it doesn't apply to instantaneous effects. This extra save occurs only once per casting of straitjacket.<\/p><p>A creature can attempt to escape the straitjacket with a combat maneuver check or Escape Artist check, with a DC equal to 10 + your caster level + your Intelligence, Wisdom, or Charisma modifier, whichever is highest.<\/p>",
+    "name_zh": "临空拘束",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (皮革带)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使一件拘束衣突然出现，并拘束目标生物。你尝试一次战技来对抗受术者的CMD。在这次检定中，你的CMB等同你的施法者等级+5(因为拘束衣的力量)。这个战技并不引发藉机攻击，并且如果成功，受术者被拘束。这很类似被擒抱状态(grappled condition)，除了受术者能够以他的正常速度移动，这拘束并不会使受术者在使用需要专注的能力时必须进行专注检定，并且受术者不能作需要一只或更多只，或手臂的行动(包括施展需要姿势或材料成份的法术)。\n他受术者已经被拘束一轮时，受术者可以额外尝试一次豁免检定来对抗让他困惑(confused)、一个诅咒、一个恐惧效果，或一种疯狂的这些魔法效果。施法者选择受术者于哪个效果中获得额外的豁免对抗。这次额外的豁免只能应用在持续时间为10分钟/等级或更短的效果上，并且不能应用在持续时间为立即的效果上。一次临空拘束只会发生一次额外豁免。\n一名生物可以透过一次战技检定或逃脱术检定来逃离这件拘束衣，DC等同10+你的施法者等级+你的智力、感知或是魅力调整值，取其高者。<\/p>",
+    "source": "HA"
+}

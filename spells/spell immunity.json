@@ -1,0 +1,34 @@
+{
+    "key": "spell immunity",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-immunity/",
+    "name": "Spell Immunity",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 4,
+        "cleric/oracle": 4,
+        "inquisitor": 4
+    },
+    "domains":     {
+        "protection": 4,
+        "strength": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The warded creature is immune to the effects of one specified spell for every four levels you have. The spells must be of 4th level or lower. The warded creature effectively has unbeatable spell resistance regarding the specified spell or spells. Naturally, that immunity doesn't protect a creature from spells for which spell resistance doesn't apply. <i>Spell immunity<\/i> protects against spells, spell-like effects of magic items, and innate spell-like abilities of creatures. It does not protect against supernatural or extraordinary abilities, such as breath weapons or gaze attacks.<\/p><p>Only a particular spell can be protected against, not a certain domain or school of spells or a group of spells that are similar in effect. A creature can have only one <i>spell immunity<\/i> or <i>greater spell immunity<\/i> spell in effect on it at a time.<\/p>",
+    "name_zh": "法术免疫",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你每拥有四个等级可以使被防护的生物免疫一个特定法术的效果。该法术不得高于4环。被防护的生物特定的法术具有绝对的法术抗力。因此对于法术抗力无法生效的法术，此保护无效。法术免疫可防护法术、魔法物品的类法术效果、以及生物天生的类法术能力。它对超自然能力或特异能力无效，比如喷吐武器和凝视攻击。<\/p><p>此法术只能防护单个特定的法术，而不能针对某领域、学派或一组效果类似的法术。同一时间一个生物身上只能有一个法术免疫或高等法术免疫生效。<\/p>",
+    "source": "CRB"
+}

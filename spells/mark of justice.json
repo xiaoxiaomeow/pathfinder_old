@@ -1,0 +1,32 @@
+{
+    "key": "mark of justice",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-justice/",
+    "name": "Mark of Justice",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "inquisitor": 5,
+        "paladin": 4,
+        "witch": 5
+    },
+    "subdomains": {"judgment": 5},
+    "castingTime": "10 minutes",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "permanent; see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You mark a subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of undesirable behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect of <i>bestow curse<\/i>.<\/p><p>Since this spell takes 10 minutes to cast and involves writing on the target, you can cast it only on a creature that is willing or restrained.<\/p><p>Like the effect of <i>bestow curse<\/i>, a <i>mark of justice<\/i> cannot be dispelled, but it can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or wish spell.<i> Remove curse<\/i> works only if its caster level is equal to or higher than your <i>mark of justice<\/i> caster level. These restrictions apply regardless of whether the mark has activated.<\/p>",
+    "name_zh": "审判烙印",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "永久; 见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你在受术者身上画出烙印并设定该烙印的触发条件。当烙印被触发时，受术者将受到诅咒。一般来说，你可以设定一些不良行为作为烙印的触发条件，但你也可以将任何行动指定为触发条件。烙印的诅咒效果与‘<a href=\"spell.html?spell=bestow curse\">降咒 (bestow curse)<\/a>’相同。<\/p><p>因为此法术的施法时间长达10分钟，并要在受术者身上画下烙印，因此你只能在自愿或被绑住的生物上施放该法术。<\/p><p>与降咒的效果相同，审判烙印不能被解除，但可以被‘<a href=\"spell.html?spell=break enchantment\">破除结界 (break enchantment)<\/a>’、‘<a href=\"spell.html?spell=limited wish\">有限祈愿术 (limited wish)<\/a>’、‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’、‘<a href=\"spell.html?spell=remove curse\">移除诅咒 (remove curse)<\/a>’或‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’移除。‘移除诅咒’只有在CL与你的审判烙印CL相同或更高时，才能生效。无论烙印是否已被触发，都受到上述限制。\n群体 (Mass) [法术名]<\/p><p>任何名字以群体开头的法术，在法术列表中均会以法术名称按照字母顺序进行排列。因此，带有群体描述的法术说明总是在它的基础法术说明附近出现。带有群体法术的基础法术如下。\nl  熊之坚韧 (bear's endurance)\n l  鹰之威仪 (eagle's splendor)\n l  造成中伤 (inflict moderate wounds)\nl  牛之力量 (bull's strength)\n l  变巨术 (enlarge person)\n l  造成重伤 (inflict serious wounds)\nl  猫之优雅 (cat's grace)\n l  狐之狡黠 (fox's cunning)\n l  隐形术 (invisibility)\nl  魅惑怪物 (charm monster)\n l  医疗术 (heal)\n l  枭之睿智 (owl's wisdom)\nl  治疗致命伤 (cure critical wounds)\n l  怪物定身术 (hold monster)\n l  缩小术 (reduce person)\nl  治疗轻伤 (cure light wounds)\n l  人类定身术 (hold person)\n l  暗示术 (suggestion)\nl  治疗中伤 (cure moderate wounds)\n l  造成致命伤 (inflict critical wounds)\nl  治疗重伤 (cure serious wounds)\n l  造成轻伤 (inflict light wounds)<\/p>",
+    "source": "CRB"
+}

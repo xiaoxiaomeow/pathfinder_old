@@ -1,0 +1,31 @@
+{
+    "key": "reverse gravity",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reverse-gravity/",
+    "name": "Reverse Gravity",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 8,
+        "sorcerer/wizard": 7
+    },
+    "domains": {"void": 7},
+    "elementalSchools": {"earth": 7},
+    "mysteries": {"dark tapestry": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (lodestone and iron filings)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "up to one 10-ft. cube/level (S)",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell reverses gravity in an area, causing unattached objects and creatures in the area to fall upward and reach the top of the area in 1 round. If a solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it in the same manner as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, until the spell ends. At the end of the spell duration, affected objects and creatures fall downward.<\/p><p>Provided it has something to hold onto, a creature caught in the area can attempt a Reflex save to secure itself when the spell strikes. Creatures who can fly or levitate can keep themselves from falling.<\/p>",
+    "name_zh": "反重力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (磁石与铁屑)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "至多每等级一个10尺边长的立方体 (可变)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>本法术使一个区域内的重力颠倒，使区域内所有未固定的物体和生物向上“坠落”并在1轮内到达此区域的顶部。如果在坠落过程中遇到任何固体 (比如天花板)，坠落的物体和生物会受到同样情况下正常坠落时所会受到的撞击。如果一个物体或生物到达了该区域的顶部并且没有撞击到任何固体，它将停留在那里并有些微的振荡直到法术结束。法术持续时间结束后，受影响的物体和生物会坠落下来。<\/p><p>如果有什么东西能够抓住，受法术影响时一个生物可以通过一次成功的反射豁免来保护自己。能够飞行或漂浮的生物可以避免自己坠落。<\/p>",
+    "source": "CRB"
+}

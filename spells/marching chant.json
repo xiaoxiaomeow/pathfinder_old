@@ -1,0 +1,28 @@
+{
+    "key": "marching chant",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/marching-chant/",
+    "name": "Marching Chant",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "cleric": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "concentration",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You invigorate your allies, who can hustle as long as you continue to sing or chant (which requires your concentration). This movement counts as a walk (not a hustle) for the purpose of accruing nonlethal damage and fatigue. You can concentrate on this spell and hustle at the same time.<\/p>",
+    "name_zh": "行军号子",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个生物",
+    "duration_zh": "专注",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你鼓舞着盟友，只要你持续进行歌唱或吟诵（这需要你进行专注），它们便能够进行急行军（hustle；见核心手册170页关于移动的章节）。在判断这种移动所累积的非致命伤害和疲劳时，它被视为行走（walk；而非急行军）。你可以在进行急行军同时专注该法术。<\/p>",
+    "source": "ACG"
+}

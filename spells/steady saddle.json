@@ -1,0 +1,30 @@
+{
+    "key": "steady saddle",
+    "name": "Steady Saddle",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "antipaladin": 1,
+        "druid": 1,
+        "paladin": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "saddle touched",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>A saddle affected by this spell becomes more comfortable to sit in, and the magic stabilizes any shaking motion caused by riding at a high speed. For the duration of the spell, the penalty to use ranged weapons while mounted in the target saddle decreases by 2. This stacks with the benefit of the Mounted Archery feat and similar effects. Furthermore, the DC for any concentration check required as a result of the mount’s movement decreases by 2.<\/p>",
+    "name_zh": "平稳鞍座",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的鞍座",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "意志，通过则无效 (无害，物品)",
+    "spellResistance_zh": "有 (无害，物品)",
+    "text_zh": "<p>一个受此法术所影响的鞍座坐起来变得更加舒适，因为高速骑乘所造成的任何颠颇都会受到此魔法稳定。在此法术的持续时间，当乘坐在目标鞍座时，远程武器受到的减值减少2。这会跟骑乘射击(Mounted Archery)专长以及类似的效果叠加。此外。因为骑乘行动所要求进行的任何专注检定的DC减少2。<\/p>",
+    "source": "VC"
+}

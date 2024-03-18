@@ -1,0 +1,35 @@
+{
+    "key": "expeditious retreat",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/expeditious-retreat/",
+    "name": "Expeditious Retreat",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "inquisitor": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "summoner/unchained summoner": 1
+    },
+    "subdomains":     {
+        "azata": 1,
+        "exploration": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell increases your base land speed by 30 feet. This adjustment is treated as an enhancement bonus. There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases your speed, this spell affects your jumping distance (see the Acrobatics skill).<\/p>",
+    "mythicText": "The speed bonus from the spell increases to 40 feet. Add your tier to Acrobatics checks to avoid attacks of opportunity from movement, and when your movement provokes an attack of opportunity, add your tier to your AC against that attack. ",
+    "name_zh": "脚底抹油",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>该法术可将你的基本陆上速度提高30尺。这个调整视作增强加值。对其他移动方式没有影响，如：掘地、攀爬、飞行或游泳。不过与任何能够增加速度的效果一样，该法术的效果能够增加你跳跃的距离 (见特技动作技能)。<\/p>",
+    "source": "CRB"
+}

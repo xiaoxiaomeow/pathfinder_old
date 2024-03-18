@@ -1,0 +1,31 @@
+{
+    "key": "wall of thorns",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-thorns/",
+    "name": "Wall of Thorns",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "druid": 5,
+        "shaman": 5
+    },
+    "domains": {"plant": 5},
+    "subdomains": {"blood": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "wall of thorny brush, up to one 10-ft. cube/level (S)",
+    "duration": "10 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>A <i>wall of thorns<\/i> spell creates a barrier of very tough, pliable, tangled brush bearing needle-sharp thorns as long as a human's finger. Any creature forced into or attempting to move through a <i>wall of thorns<\/i> takes piercing damage per round of movement equal to 25 minus the creature's AC. Dexterity and dodge bonuses to AC do not count for this calculation. (Creatures with an AC of 25 or higher, without considering Dexterity and dodge bonuses, take no damage from contact with the wall.)<\/p><p>You can make the wall as thin as 5 feet thick, which allows you to shape the wall as a number of 10-by-10-by-5-foot blocks equal to twice your caster level. This has no effect on the damage dealt by the thorns, but any creature attempting to break through takes that much less time to force its way through the barrier.<\/p><p>Creatures can force their way slowly through the wall by making a Strength check as a full-round action. For every 5 points by which the check exceeds 20, a creature moves 5 feet (up to a maximum distance equal to its normal land speed). Of course, moving or attempting to move through the thorns incurs damage as described above. A creature trapped in the thorns can choose to remain motionless in order to avoid taking any more damage.<\/p><p>Any creature within the area of the spell when it is cast takes damage as if it had moved into the wall and is caught inside. In order to escape, it must attempt to push its way free, or it can wait until the spell ends. Creatures with the ability to pass through overgrown areas unhindered can pass through a <i>wall of thorns<\/i> at normal speed without taking damage.<\/p><p>A <i>wall of thorns<\/i> can be breached by slow work with edged weapons. Chopping away at the wall creates a safe passage 1 foot deep for every 10 minutes of work. Normal fire cannot harm the barrier, but magical fire burns it away in 10 minutes.<\/p>",
+    "name_zh": "棘墙术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "荆棘之墙，至多每等级一个边长为10尺的立方体 (可变)",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>棘墙术会造出一道坚韧的荆棘障碍，上面长有和人手指差不多长的尖刺。任何想要在棘墙中移动的生物，每轮受到25减去生物AC点穿刺伤害。在此次计算之中，AC的敏捷与闪避加值不算在内 (若不考虑敏捷和闪避加值的情况下生物AC高于25则不会受伤)。<\/p><p>你可以造出5尺厚的墙，如此便可造出大小为10×10×5尺的棘墙垛，数目等同于你CL的两倍。这对于荆棘造成的伤害没有影响，但是任何生物在尝试强行通过荆棘的时候会花费更少的时间。<\/p><p>生物必须通过力量检定才能在棘墙里移动，这是个整轮动作。检定结果每比20高5, 生物可前进5尺 (最高可以正常陆上速度前进)。如上所述，移动或试图移动都会造成伤害。被困在棘墙里的生物可以选择不动，以避免伤害。<\/p><p>施放棘墙术时位于法术范围内生物会受伤，就如同在其中移动一样。为了逃脱，生物可以试图离开，亦可等在里面直至法术终止。生物若具有自由穿越茂密植物 (overgrown) 的能力则可以正常速度毫发无伤地通过棘墙术的区域。<\/p><p>锋利武器可以慢慢斩开棘墙，每10分钟可开出一英尺深的通路。普通火焰无法点燃棘墙，但魔法火焰可在10分钟内烧毁它。<\/p>",
+    "source": "CRB"
+}

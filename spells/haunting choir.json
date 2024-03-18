@@ -1,0 +1,31 @@
+{
+    "key": "haunting choir",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-choir/",
+    "name": "Haunting Choir",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "mind-affecting",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"bard": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "30-ft.-radius emanation",
+    "duration": "concentration + 2 rounds",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You create a spectral choir and conduct its tortured, ghostly moans, deluding listeners into believing they are suffering the torments of the dead. The transparent singers occupy a 10-foot cube, but they are intangible and do not interfere with creatures in any physical way, nor can they be attacked. Creatures within 30 feet of the choir experience wracking pain that causes them to take a –2 penalty on attack rolls, skill checks, and ability checks. Individuals who exit the area of effect take these penalties for an additional 2 rounds before the delusion wears off.<\/p>",
+    "name_zh": "哀鸣合唱团",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "半径30尺弥散范围",
+    "duration_zh": "专注 + 2轮 ",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你创造出幽灵合唱团，并带领他们发出痛苦、可怕的悲鸣，致使听者相信自身在遭受死亡的折磨。这些透明的歌者占据边长10尺的立方体，但是它们是无形的，并且无法以任何物理方式与其他生物互动，亦不会被如是影响，也无法被攻击。在合唱团周围30尺范围内的生物会遭受痛苦，这使得他们在攻击检定，技能检定或者属性检定中受到-2减值。撤出该区域的人在痛苦消退之前，会额外受到2轮减值影响。<\/p>",
+    "source": "UM"
+}

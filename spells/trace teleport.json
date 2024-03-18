@@ -1,0 +1,28 @@
+{
+    "key": "trace teleport",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trace-teleport/",
+    "name": "Trace Teleport",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "psychic": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a magnifying lens)",
+    "range": "40 feet",
+    "area": "40-ft.-radius emanation centered on you",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You immediately become aware of any teleportation effects that begin or end within the spell's area. The spell's area radiates from you and moves as you move. You know the exact origin point of any teleportation effect that originates within the spell's area, and the exact end point of any teleportation effect that terminates within the spell's area. Further, you can detect the lingering traces of any teleportation effect that occurred up to 1 hour previously, in the same fashion.<\/p><p>You intuitively know, to the nearest minute, when the teleportation effect occurred.<\/p><p>Whenever you detect the origin point or termination point of any teleportation effect with this spell, you can study that origin point or termination point for 1 round. If you do, you can attempt a caster level check (DC = 11 + the teleportation effect's caster level), taking a –5 penalty if the effect occurred more than 1 minute ago. If you succeed, you gain a glimpse of the teleportation effect's termination point (if you detected an origin point) or origin point (if you detected a termination point).<\/p><p>This glimpse lasts long enough for you to get a brief look at the area, but not long enough to scrutinize it in detail. It doesn't come with any geographic knowledge of the location, so it is not sufficient for teleport or similar magic. You can't retry the caster level check, even if you cast <i>trace teleport<\/i> again.<\/p>",
+    "name_zh": "传送追迹术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（放大镜）",
+    "area_zh": "以你为中心，半径40尺发散区域",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你立即变得能够意识到任何起点或终点在法术区域内的传送效果。法术区域以你为中心并且随着你一同移动。若任何传送效果的源发点在法术区域内，那么你能够精确了解到它的起点位置，若任何传送效果在法术区域内结束的话，你能够精确了解到它的终点位置。此外，你能够以相同的方式侦测到至多距今1小时内，过去发生的任何传送效果的残存痕迹（lingering traces）。当传送效果发生时，你会在最接近的一刻直觉性地了解到这一点。\n每当你以该法术侦测到任何传送效果（teleportation effect）的起点（origin point）或终点（termination point）时，能用1轮时间来研究该起点或终点。若你这么做的话，能够尝试1次施法者等级检定（DC = 11 + 传送效果的施法者等级），若该效果发生在1分钟1之前则要额外承受-5减值。若检定成功，你能一窥传送效果的终点（若你侦测的是起点）或起点（若你侦测的是终点）。这一窥的时常足够你草草观察这片区域，但是这段时间不足矣让你仔细观察周遭的细节。它不会给你带来该地区的任何地理知识，因此这一窥不足以支持传送术（teleport）或类似的魔法。你无法重试施法者等级检定，即便你再次施放该法术也不行。<\/p>",
+    "source": "UI"
+}

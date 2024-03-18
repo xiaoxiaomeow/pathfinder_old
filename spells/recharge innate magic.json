@@ -1,0 +1,33 @@
+{
+    "key": "recharge innate magic",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/recharge-innate-magic/",
+    "name": "Recharge Innate Magic",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "cleric": 1,
+        "druid": 1,
+        "inquisitor": 1,
+        "magus": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>You channel magic energy into your own aura, recharging your innate magic abilities. You regain one use of all 0-level and 1st-level spell-like abilities you can use as a result of a racial trait.<\/p>",
+    "name_zh": "自法充盈",
+    "race_zh": "侏儒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>你将魔法能量引导至自身体内，填充你内在的魔法能力。所有你能够使用并且通过种族特性获得的0环以及1环类法术能力全部重新获得1次使用机会。<\/p>",
+    "source": "ARG"
+}

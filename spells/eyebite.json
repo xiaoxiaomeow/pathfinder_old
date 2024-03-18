@@ -1,0 +1,42 @@
+{
+    "key": "eyebite",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eyebite/",
+    "name": "Eyebite",
+    "school": "necromancy",
+    "descriptors":     [
+        "emotion",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 6,
+        "bard": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "domains": {"scalykind": 6},
+    "subdomains": {"curse": 6},
+    "bloodlines":     {
+        "abyssal": 6,
+        "accursed": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "<\/td>   <\/tr>   <tr>    <td class=\"text\">10 or more<\/td>    <td class=\"text\">Sickened<\/td>   <\/tr>   <tr>    <td class=\"number\">5-9<\/td>    <td class=\"text\">Panicked, sickened<\/td>   <\/tr>   <tr>    <td class=\"text\">4 or less<\/td>    <td class=\"text\">Comatose, panicked, sickened<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "target": "one living creature",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>Each round, you can target a single living creature, striking it with waves of power. Depending on the target's HD, this attack has as many as three effects.<\/p><table border=\"1\" cellpadding=\"5\"> <thead>  <tr>   <th class=\"text\"><b>HD<\/b><\/td>    <td class=\"text\"><b>Effect<\/b><\/td>   <\/tr>   <tr>    <td class=\"text\">10 or more<\/td>    <td class=\"text\">Sickened<\/td>   <\/tr>   <tr>    <td class=\"number\">5-9<\/td>    <td class=\"text\">Panicked, sickened<\/td>   <\/tr>   <tr>    <td class=\"text\">4 or less<\/td>    <td class=\"text\">Comatose, panicked, sickened<\/td>   <\/tr>  <\/tbody> <\/table><p>The effects are cumulative and concurrent.<\/p>",
+    "name_zh": "摄心目光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>每轮你都能够以单个活物为目标，驱使力量的波动对其发动袭击。根据目标的HD，这种攻击能够产生至多三种效果。\nHD\n 效果\n10以上\n 恶心\n5 – 9\n 恐慌, 恶心\n4以下\n 沉睡, 恐慌, 恶心<\/p><p>恶心 (Sickened): 目标的身体会遭受到突如其来的痛苦及热病。受到该法术影响的生物会恶心，持续每CL 10分钟。‘<a href=\"spell.html?spell=remove disease\">移除疾病 (remove disease)<\/a>’和‘<a href=\"spell.html?spell=heal\">医疗术 (heal)<\/a>’无法去除此效果，但‘<a href=\"spell.html?spell=remove curse\">移除诅咒 (remove curse)<\/a>’可以。<\/p><p>恐慌 (Panicked): 目标会在1d4轮内陷入恐慌。即便恐慌结束，目标依然会在每CL 10分钟内处于战栗状态，如果在此期间它又进入你的视线范围，则会自动重新陷入恐慌。这属于恐惧效果。<\/p><p>沉睡 (Comatose): 目标陷入僵硬的病态沉眠，持续每CL 10分钟。在此期间，他无法以任何不足以解除该效果的方式叫醒。这并非是睡眠效果，因此精灵不能免疫它。<\/p><p>在法术的第一轮之后，你必须每轮花费一个迅捷动作来瞄准目标。<\/p>",
+    "source": "CRB"
+}

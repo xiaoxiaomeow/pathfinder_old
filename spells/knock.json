@@ -1,0 +1,33 @@
+{
+    "key": "knock",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/knock/",
+    "name": "Knock",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "inquisitor": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one door, box, or chest with an area of up to 10 sq. ft./level",
+    "duration": "instantaneous; see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<table border=\"1\" cellpadding=\"5\">   <thead>    <tr>     <th class=\"text\">Lock Quality<\/th>     <th class=\"text\">DC<\/th>    <\/tr>   <\/thead>   <tbody>    <tr>     <td class=\"text\">Simple<\/td>     <td class=\"number\">20<\/td>    <\/tr>    <tr>     <td class=\"text\">Average<\/td>     <td class=\"number\">25<\/td>    <\/tr>    <tr>     <td class=\"text\">Good<\/td>     <td class=\"number\">30<\/td>    <\/tr>    <tr>     <td class=\"text\">Amazing<\/td>     <td class=\"number\">40<\/td>    <\/tr>   <\/tbody>  <\/table><p><i>Knock<\/i> opens stuck, barred, or locked doors, as well as those subject to hold portal or arcane lock. When you complete the casting of this spell, make a caster level check against the DC of the lock (see table at right) with a +10 bonus. If successful, <i>knock<\/i> opens up to two means of closure. This spell opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold something shut). If used to open an arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. <i>Knock<\/i> does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each casting can undo as many as two means of preventing access.<\/p>",
+    "name_zh": "敲击术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一扇门, 一个箱子或盒子, 面积至多为每等级10平方尺",
+    "duration_zh": "立即; 见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>敲击术可以打开被卡住、闩住、锁住、封住以及被‘<a href=\"spell.html?spell=arcane lock\">秘法锁 (arcane lock)<\/a>’锁住的门。当你施放完该法术是，进行一次施法者等级检定对抗锁的DC，你在这次检定中具有+10加值。若成功，敲击术会打开两个阻碍打开的手段。该法术可以打开密门，也可以打开上锁的盒子或密件箱。也可以用来松开焊缝、镣铐或者锁链 (前提是它们保持闭合状态)。若使用该法术打开被秘法锁锁着的门，那么法术并不会移除秘法锁，只是使其在10分钟内失去作用。在所有其他的情况下，被打开的门都不会自行再次锁住或是卡住。敲击术不能使抬起木栅城门或者类似的障碍 (例如铁闸门)，它也不能影响绳索、藤蔓之类的东西。法术效果受法术区域的限制。每次施法可以移除至多两种阻碍门打开的原因。<\/p>",
+    "source": "CRB"
+}

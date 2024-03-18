@@ -1,0 +1,23 @@
+{
+    "key": "deflection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deflection/",
+    "name": "Deflection",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors": ["force"],
+    "levels": {"sorcerer/wizard": 7},
+    "subdomains": {"defense": 7},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of rubber dipped in glue)",
+    "range": "personal",
+    "duration": "1 round/level",
+    "text": "<p>You surround yourself in a whirling barrier of force that sends any attack that misses you hurling back toward its source.<\/p><p>This applies to any melee or ranged attack directed against you so long as it uses an attack roll to determine whether or not it strikes you. If an attack misses you, the attacker must make a second attack roll against its own Armor Class, using all of the applicable modifiers of the original attack and if it hits, the attacker takes the attack's damage and suffers all the other consequences of getting struck with that attack. You cannot deflect attacks that miss you for any reason besides a failed attack roll (such as concealment). Similarly, you cannot deflect attacks that actually do strike you but simply fail to do any harm.<\/p>",
+    "name_zh": "偏转术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一片蘸有胶水的橡胶)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>你被旋转的力场屏障所环绕，它会将任何没有击中你的攻击调转至攻击者自身。只要针对你的远程或近战攻击使用攻击检定确认是否命中你，该法术的效果就适用。如果攻击没有命中你，攻击者必须进行第二次攻击检定对抗其自身的AC，使用所有原本攻击所适用的调整值，一旦命中，攻击者会受到攻击的伤害并且承受所有该次伤害带来的其他结果。由于攻击检定失败以外的原因而没有命中的攻击你无法偏转 (比如由于隐蔽)。同样，你不能偏转那些攻击你，但是单纯无法造成伤害的攻击。<\/p>",
+    "source": "APG"
+}

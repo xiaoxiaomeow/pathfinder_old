@@ -1,0 +1,33 @@
+{
+    "key": "create drug",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-drug/",
+    "name": "Create Drug",
+    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "alchemist": 3,
+        "cleric": 4,
+        "druid": 3,
+        "occultist": 3
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "0 ft.",
+    "effect": "1 dose of a drug/3 levels",
+    "duration": "1 min.",
+    "savingThrow": "none (see below)",
+    "spellResistance": "no",
+    "text": "<p>The caster conjures into being one of the following drugs: aether, flayleaf, opium, keif, scour, shiver, or zerk. (At the GM's discretion, other drugs of similar power can be included on this list.) The drug doses the caster creates with this spell must be used within 1 minute of being conjured, or they dissolve into worthless dust or evaporate into noxious but fleeting vapors, though the effects of the drug may last far longer if taken before it decays.<\/p><p>The drugs created by this spell cannot be sold, but they can be given to other creatures. A creature that takes a dose of one of these drug typically must be either willing or helpless, though some drugs might be inhaled, applied to injuries, or secretly slipped into food if the caster acts swiftly (see each drug's description). The DC to resist a drug created by this spell is based on the conjurer's caster level, not the DC listed in the common versions of the drug.<\/p><p>As a special use of this spell, a lawful evil worshiper can create doses of the drug adyton (see the sidebar above). A worshiper can create adyton only once per week, regardless of her level or how many times she casts this spell. The spell otherwise functions—and creates as many doses—as normal.<\/p>",
+    "name_zh": "制造毒品",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
+    "range_zh": "0尺",
+    "effect_zh": "受影响的生物额外进行一次DC 20的意志豁免掷骰，若成功则其意识被送往一处名叫阿底顿的心像空间，它在这里想停留多久都可以，想回去时可以用一个整轮动作返回。在第二次豁免掷骰中失败的生物会断断续续地睡上2d4个小时，醒来时只记得离奇梦境的些许片段。",
+    "target_zh": "每等级1份毒品",
+    "duration_zh": "1分钟",
+    "savingThrow_zh": "无（见后文）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>施法者创造出以下其中一种毒品：醚（aether）、剥皮叶（flayleaf）、鸦片（opium）、仙人掌粹（pesh）、刷子叶（scour）、搐颤（shiver）或躁狂（zerk）。其它强度相近的毒品也可以放入此表中，具体由GM定夺。施法者以此法术制造出来的毒品必须在创造出来的1分钟后使用，否则就会崩解成一堆废土，或者蒸发变成有害但是迅速消散的蒸气，不过如果在毒品衰变前用掉，其效果会持续的更久。\n由此法术制造出的毒品不能够贩售，但可以给予其它生物。使用这些毒品的生物通常必须是自愿或无助状态，但有些毒品可能是吸入、从伤口渗入，或者手脚够快的施法者也能将其暗中加入食物里（见每种毒品的描述）。而要抵抗以此法术制造出来的毒品，其DC基于制造者的施法者等级，而非该类毒品常规版本所列的DC。若想知道更多的信息，请见《探索者角色扮演游戏：游戏运作指南》第236页。\n作为此法术的特殊用途，‘幻象贵妇’玛汉沙拉的守序邪恶信徒可以创造出一份阿底顿（adyton），详见下方边栏。玛汉沙拉的信徒每周只能制造一次阿底顿，无论她等级多寡或施展了多少次此法术。此法术其它方面如常运作，包括制造的毒品份数。\n阿底顿（adyton）\n阿底顿这种毒品，在玛汉沙拉的信仰中与传播她的教义占有重要地位。它只能从玛汉沙拉的信徒处购买，通常也只有服侍这位女神的人才能够买。\n阿底顿（adyton）\n类型 接触；成瘾性 强，强韧DC 20\n价格 2,000 gp\n效果 受影响的生物额外进行一次DC 20的意志豁免掷骰，若成功则其意识被送往一处名叫阿底顿的心像空间，它在这里想停留多久都可以，想回去时可以用一个整轮动作返回。在第二次豁免掷骰中失败的生物会断断续续地睡上2d4个小时，醒来时只记得离奇梦境的些许片段。\n伤害 1d4力量<\/p>",
+    "source": "BotD"
+}

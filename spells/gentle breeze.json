@@ -1,0 +1,32 @@
+{
+    "key": "gentle breeze",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gentle-breeze/",
+    "name": "Gentle Breeze",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "subSchool": ["air"],
+    "levels":     {
+        "druid": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature or object",
+    "duration": "1 hour (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You create a light wind that blows only against the target, from a direction of your choice. The breeze grants the target a +2 circumstance bonus on saves against very hot conditions, severe heat, and saves against clouds, vapors, and gases (such as cloudkill, stinking cloud, and inhaled poisons). There must be air present to use this spell.<\/p>",
+    "name_zh": "和风吹拂",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物或物体",
+    "duration_zh": "1小时（可解消）",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你创造出一股仅会吹向目标的轻风，风向由你选择。轻风会使目标在对抗非常炎热的环境（very hot conditions）、酷暑（severe heat）的豁免中，以及对抗云雾（clouds）、蒸汽（vapors）以及气体（gases；比如死云术、臭云术和吸入性毒素）的豁免中，提供+2环境加值。必须身处空气之中才能使用该法术。<\/p>",
+    "source": "ACG"
+}

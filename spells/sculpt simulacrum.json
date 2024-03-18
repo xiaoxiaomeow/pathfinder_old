@@ -1,0 +1,27 @@
+{
+    "key": "sculpt simulacrum",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-simulacrum/",
+    "name": "Sculpt Simulacrum",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "components": "V, S",
+    "range": "touch",
+    "target": "simulacrum touched",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You create cosmetic changes to a simulacrum, similar to disguise self, except the changes are physical rather than illusory. This does not change any of the simulacrum's abilities.<\/p>",
+    "name_zh": "雕塑拟像",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的拟像",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你对一个拟像 (Simulacrum) 做出一些修改，如同一次易容术 (Disguise Self)，不过你所做出的是物理改变而非幻术。这不会让拟像的能力产生任何变化。<\/p>",
+    "source": "UM"
+}

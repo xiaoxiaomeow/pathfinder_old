@@ -1,0 +1,21 @@
+{
+    "key": "age resistance, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/age-resistance/",
+    "name": "Age Resistance, Greater",
+    "base": "age resistance",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 5,
+        "druid": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "bloodlines": {"imperious": 7},
+    "components": "V, S",
+    "text": "<p>This spell functions as <i>lesser age <\/i>resistance, except you ignore all Strength, Dexterity, and Constitution penalties gained from middle age, old age, and venerable age.<\/p>",
+    "name_zh": "高等岁月抵抗",
+    "components_zh": "语言, 姿势",
+    "text_zh": "<p>这个法术类似次级岁月抵抗 (Age Resistance, Lesser)，不过它可以抵消掉中年、老年和暮年的力量、敏捷和体质罚值。<\/p>",
+    "source": "UM"
+}

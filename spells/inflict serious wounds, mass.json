@@ -1,0 +1,17 @@
+{
+    "key": "inflict serious wounds, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-serious-wounds/",
+    "name": "Inflict Serious Wounds, Mass",
+    "base": "inflict serious wounds",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 7,
+        "shaman": 7,
+        "witch": 8
+    },
+    "subdomains": {"blood": 7},
+    "text": "<p>This spell functions like <i>mass inflict light wounds<\/i>, except that it deals 3d8 points of damage + 1 point per caster level (maximum +35).<\/p><\/div>",
+    "name_zh": "群体造成重伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds, mass\">群体造成轻伤 (inflict light wounds, mass)<\/a>’一般，不过你能造成 {3d8+CL (最高+35)} 点伤害。<\/p>",
+    "source": "CRB"
+}

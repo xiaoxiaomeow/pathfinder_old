@@ -1,0 +1,35 @@
+{
+    "key": "whirlwind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/whirlwind/",
+    "name": "Whirlwind",
+    "school": "evocation",
+    "descriptors": ["air"],
+    "levels":     {
+        "druid": 8,
+        "shaman": 8
+    },
+    "domains":     {
+        "air": 8,
+        "weather": 8
+    },
+    "elementalSchools": {"void": 8},
+    "mysteries": {"wind": 8},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "long (400 ft. + 40 ft./level)",
+    "effect": "cyclone 10 ft. wide at base, 30 ft. wide at top, and 30 ft. tall",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell creates a powerful cyclone of raging wind that moves through the air, along the ground, or over water at a speed of 60 feet per round. You can concentrate on controlling the cyclone's every movement or specify a simple program. Directing the cyclone's movement or changing its programmed movement is a standard action for you. The cyclone always moves during your turn. If the cyclone exceeds the spell's range, it moves in a random, uncontrolled fashion for 1d3 rounds and then dissipates. (You can't regain control of the cyclone, even if it comes back within range.)<\/p><p>Any Large or smaller creature that comes in contact with the spell effect must succeed on a Reflex save or take 3d6 points of damage. A Medium or smaller creature that fails its first save must succeed on a second one or be picked up bodily by the cyclone and held suspended in its powerful winds, taking 1d8 points of damage each round on your turn with no save allowed. You may direct the cyclone to eject any carried creatures whenever you wish, depositing the hapless souls wherever the cyclone happens to be when they are released.<\/p>",
+    "name_zh": "旋风术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "effect_zh": "底宽10英尺，顶宽30英尺, 高30英尺的旋风",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术造出一股狂暴的旋风，旋风可以在空中、陆上或海面行进，它的速度为每轮60英尺。你可以专注控制旋风的每一步走向，或以简单的命令指示。指挥走向或改变指令都属于标准动作。旋风总是在你的回合中移动。如果旋风移到法术距离以外，则会完全不受控制的随机移动1d3轮，然后消散。 (即便旋风回到法术范围内，你无法再次获得它的控制权。)<\/p><p>任何大型或更小的生物一旦接触到法术效果就必须进行反射检定，失败则受到3d6点伤害。任何大型或更小的生物一旦遇到旋风就必须进行反射检定，未通过则受到3d6点伤害。中型或更小的生物若第一次检定失败，则需再次进行检定，若失败则被卷到旋风中，在你的回合中每轮受1d8点伤害，且不允许进行豁免检定。你可以随时要求旋风甩出卷入的生物，这些倒霉的家伙将落在被甩出时旋风所在的地方。<\/p>",
+    "source": "CRB"
+}

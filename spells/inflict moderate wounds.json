@@ -1,0 +1,17 @@
+{
+    "key": "inflict moderate wounds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-moderate-wounds/",
+    "name": "Inflict Moderate Wounds",
+    "school": "necromancy",
+    "levels":     {
+        "antipaladin": 3,
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "shaman": 2,
+        "witch": 2
+    },
+    "text": "<p>This spell functions like <i>inflict light wounds<\/i>, except that you deal 2d8 points of damage + 1 point per caster level (maximum +10).<\/p>",
+    "name_zh": "造成中度伤",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds\">造成轻伤 (inflict light wounds)<\/a>’一般，不过你能造成 {2d8+CL (最高+10)} 点伤害。<\/p>",
+    "source": "CRB"
+}

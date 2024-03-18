@@ -1,0 +1,25 @@
+{
+    "key": "invisibility, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility/",
+    "name": "Invisibility, Mass",
+    "base": "invisibility",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer/wizard": 7,
+        "summoner": 5,
+        "unchained summoner": 6
+    },
+    "domains": {"trickery": 8},
+    "mysteries": {"shadow": 7},
+    "range": "long (400 ft. + 40 ft./level)",
+    "text": "<h4>EFFECT<\/h4><p><b>Range<\/b> long (400 ft. + 40 ft./level)<br /><b>Targets<\/b> any number of creatures, no two of which can be more than 180 ft. apart<\/p><h4>DESCRIPTION<\/h4><p>This spell functions like <i>invisibility<\/i>, except that the effect moves with the group and is broken when anyone in the group attacks. Individuals in the group cannot see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other, they both become visible when the distance between them exceeds 180 feet.<\/p><\/div><\/div>",
+    "name_zh": "群体隐形术",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "任意数量的生物，任意两者之间的距离不超过180尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=invisibility\">隐形术 (invisibility)<\/a>’一般，不过法术效果随着整个团体判断的，团体内的任意一人进行攻击就会打破法术。团体内的受术者无法看见彼此。任何隐形的受术者只要移动至距离团体中离他最近的受术者180尺以上，他身上的法术会中止。如果只有两个受术者受影响，那么当一个受术者移动离开另外一个受术者180尺以上时，他身上的法术会中止。如果两者都在远离对方，那么当它们之间的距离超过180尺时会同时显形。<\/p>",
+    "source": "CRB"
+}

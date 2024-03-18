@@ -1,0 +1,27 @@
+{
+    "key": "phantom blood",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-blood/",
+    "name": "Phantom Blood",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "alchemist": 1,
+        "bloodrager": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "text": "<p>You bolster your life energy. If the loss of hit points at the end of a temporary effect that modifies your Constitution (such as barbarian's rage or bloodrager&#8216;s bloodrage) would cause you to become unconscious or kill you, you gain temporary hit points equal to your caster level (maximum 10). Each casting of this spell grants you temporary hit points only once.<\/p>",
+    "name_zh": "虚幻之血",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>你设法支撑着自己的生命力。若你由于调整自己体质属性的暂时性效果结束而失去生命值（比如野蛮人的狂暴，或者血脉狂怒者的血怒），而且这会导致你昏迷或者杀死你，那么你会获得等同于你施法者等级点临时生命值（最高10点）。每次施放该法术仅会赋予你一次临时生命值。<\/p>",
+    "source": "ACG"
+}

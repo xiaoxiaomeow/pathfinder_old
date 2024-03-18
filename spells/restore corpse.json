@@ -1,0 +1,32 @@
+{
+    "key": "restore corpse",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/restore-corpse/",
+    "name": "Restore Corpse",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 1,
+        "druid": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "corpse touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You grow flesh on a decomposed or skeletonized corpse of a Medium or smaller creature, providing it with sufficient flesh that it can be animated as a zombie rather than a skeleton. The corpse looks as it did when the creature died. The new flesh is somewhat rotted and not fit for eating.<\/p>",
+    "name_zh": "尸体重构",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的尸体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>你让一具中型或更小的生物的已腐烂或只剩骨架的尸体上重新长出肉，使其能被活化成一具僵尸而非骷髅。尸体看起来就像生物刚死时的模样。新长出的肉有些腐坏，所以不适合食用。<\/p>",
+    "source": "UM"
+}

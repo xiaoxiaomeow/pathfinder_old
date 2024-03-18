@@ -1,0 +1,25 @@
+{
+    "key": "bloodhound",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloodhound/",
+    "name": "Bloodhound",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 3,
+        "inquisitor": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of blood and a pinch of cinnamon)",
+    "range": "personal",
+    "duration": "1 hour/level",
+    "text": "<p>You gain the scent special quality, including the ability to track by scent. You receive a +8 competence bonus on Perception checks involving smell and a +4 competence bonus on Survival checks to track using scent. You take a -4 penalty on saving throws against odor-related effects such as the stench ability and <i>stinking cloud<\/i>. A creature under the effects of <i>bloodhound<\/i> can detect poison by scent with a DC 20 Perception check.<\/p>",
+    "name_zh": "猎犬追踪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴鲜血和一撮肉桂粉)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>你获得对气味的特殊感应，包括追踪气味的能力。你可以在涉及气味的察觉检定中获得+8加值，以及跟踪气味的生存检定中获得+4加值。<\/p><p>你在对气味相关的豁免检定，例如恶臭能力和臭云术等的检定中获得-4惩罚。<\/p><p>一个处于该法术效果下的生物可以以DC20的察觉检定发现毒物。<\/p>",
+    "source": "APG"
+}

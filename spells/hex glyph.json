@@ -1,0 +1,19 @@
+{
+    "key": "hex glyph",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hex-glyph/",
+    "name": "Hex Glyph",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "shaman": 3,
+        "witch": 3
+    },
+    "savingThrow": "see text",
+    "spellResistance": "no (object) and yes (see text)",
+    "text": "<p>This spell functions like the spell glyph version (see box at right) of glyph of warding, except you can store a hex you know (but not a major hex or a grand hex) instead of a spell. If the hex has a target, it targets the intruder. If the hex has an area or an amorphous effect, the area or effect is centered on the intruder. The triggered hex uses this spell's caster level and DC.<\/p>",
+    "name_zh": "巫术刻文",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "否（物体）和可（见后文）",
+    "text_zh": "<p>该法术的功能如同法术刻文（Spell Glyph）版本的守卫刻文（Glyph of Warding）法术一般，不过你能使用自己了解的巫术（hex）来取代法术储存在刻文中，不过你无法将强力巫术（Major Hex）和高等巫术（Grand Hex）存储在刻文内。若巫术需要指定目标，那么它会以侵入者为目标。若巫术影响一片区域，或者是没有固定形态的效果（amorphous effect），那么区域或效果会以侵入者为中心。被触发的巫术使用法术的施法者等级和DC。\n施放阅读魔法（Read magic）可以让施法者鉴别巫术刻文，不过这需要进行DC 13的知识（神秘）检定。辨识刻文不会将其触发，而且可以标示出刻文内存储的是巫术，但是这并不能揭示出巫术会产生的效果。<\/p>",
+    "source": "ACG"
+}

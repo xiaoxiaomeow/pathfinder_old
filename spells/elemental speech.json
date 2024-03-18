@@ -1,0 +1,39 @@
+{
+    "key": "elemental speech",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-speech/",
+    "name": "Elemental Speech",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "divination",
+    "descriptors":     [
+        "air",
+        "earth",
+        "fire",
+        "or water"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "cleric/oracle": 3,
+        "druid": 2,
+        "sorcerer/wizard": 2
+    },
+    "elementalSchools":     {
+        "air": 2,
+        "earth": 2,
+        "fire": 2,
+        "water": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (iron filings)",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>This spell enables you to converse with creatures associated with a chosen element, including but not limited to true elemental creatures. This spell gains the elemental subtype based on the version of the spell you cast. <i>Elemental speech<\/i> does not guarantee a friendly reaction; it merely enables communication. You may converse with all creatures of the selected type with an Intelligence score of 1 or greater, even if they do not understand one another.<\/p><ul>  <li>When cast as an air spell, you can converse in Auran and with any creature that has the air subtype or a fly speed.<\/li>  <li>When cast as an earth spell, you can converse in Terran and with any creature that has the earth subtype or a burrow speed.<\/li>  <li>When cast as a fire spell, you can converse in Ignan and with any creature that has the fire subtype.<\/li>  <li>When cast as a water spell, you can converse in Aquan and with any creature that has the water subtype or a swim speed.<\/li> <\/ul>",
+    "name_zh": "元素之语",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一撮铁屑)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>这个法术可以让你能够跟一些与选定的元素有所关联的生物进行沟通，包括但不限于真正的元素生物。<\/p><p>这个法术按照你所施放的法术类型获得对应元素的描述符。<\/p><p>元素之语法术并不会保证一次友好的交流，它只会给你一个沟通的可能。你可以一次与智力属性大于等于1的一个或更多选定类型的任何生物进行沟通，即使它们之间彼此并不认识。<\/p><p>作为一个气法术施放时，你可以用风族语与空气亚种生物或拥有飞行速度的生物进行沟通<\/p><p>作为一个地法术施放时，你可以用土族语与地系亚种生物或拥有掘洞速度的生物进行沟通<\/p><p>作为一个火法术施放时，你可以用火族语与火系亚种生物进行沟通<\/p><p>作为一个水法术施放时，你可以用水族语与水系亚种生物或拥有游泳速度的生物进行沟通<\/p>",
+    "source": "APG"
+}

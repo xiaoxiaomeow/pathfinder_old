@@ -1,0 +1,33 @@
+{
+    "key": "darkvision",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/darkvision/",
+    "name": "Darkvision",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "antipaladin": 2,
+        "psychic": 2,
+        "ranger": 3,
+        "sorcerer/wizard": 2
+    },
+    "bloodlines": {"deep earth": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (either a pinch of dried carrot or an agate)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight.<\/p><p><i>Darkvision<\/i> can be made permanent with a <i>permanency<\/i> spell.<\/p>",
+    "name_zh": "黑暗视觉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (少量胡萝卜干或玛瑙)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>受术者获得在完全黑暗的环境中看到60尺远的能力。黑暗视觉只能看到黑白影像，其它方面则同正常视觉一样。<\/p><p>黑暗视觉可用‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
+    "source": "CRB"
+}

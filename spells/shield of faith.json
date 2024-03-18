@@ -1,0 +1,30 @@
+{
+    "key": "shield of faith",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-faith/",
+    "name": "Shield of Faith",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1
+    },
+    "domains": {"glory": 1},
+    "subdomains": {"agathion": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (parchment with a holy text written on it)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell creates a shimmering, magical field around the target that averts and deflects attacks. The spell grants the subject a +2 deflection bonus to AC, with an additional +1 to the bonus for every six levels you have (maximum +5 deflection bonus at 18th level).<\/p>",
+    "name_zh": "虔诚护盾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (写有神圣文字的羊皮纸)",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>此法术创造出一种闪着微光的魔法场，保卫着受术者以防御敌人的攻击。受术者的AC获得+2偏斜加值，同时施法者每6级多获得1点偏斜加值 (最多在18级时获得+5偏斜加值)。<\/p>",
+    "source": "CRB"
+}

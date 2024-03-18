@@ -1,0 +1,28 @@
+{
+    "key": "focused scrutiny",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/focused-scrutiny/",
+    "name": "Focused Scrutiny",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "inquisitor": 2,
+        "psychic": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level (d)",
+    "text": "<p>You gain heightened sensitivity to the mannerisms, reactions, and body language of one creature you can perceive, allowing you to sense its state of mind and easily influence it. You gain a +10 bonus on Perception, Sense Motive, and Survival checks attempted against the target creature, as well as a +5 bonus on Diplomacy and Intimidate checks attempted against it.<\/p>",
+    "name_zh": "监察焦点",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级（可解消）",
+    "text_zh": "<p>针对一个你能够察觉到的生物，你能够极为敏感地感受到它的举止、反应和肢体语言，这使得你能够敏锐地察觉它的思想状态并且很容易影响到它。你在尝试对抗目标生物的察觉、察言观色和生存检定中获得+10加值，而且还会在尝试对抗它的交涉和威吓检定中获得+5加值。<\/p>",
+    "source": "ACG"
+}

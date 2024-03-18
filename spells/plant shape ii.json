@@ -1,0 +1,16 @@
+{
+    "key": "plant shape ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-shape-i/",
+    "name": "Plant Shape II",
+    "base": "plant shape i",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 6,
+        "sorcerer/wizard": 6
+    },
+    "text": "<p>This spell functions as <i>plant shape I<\/i> except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain energy resistance 20 to those elements. If the creature has vulnerabilty to an element, you gain that vulnerabilty.<\/p>",
+    "name_zh": "植物形态 II",
+    "text_zh": "<p>该法术的功能如同‘植物形态I’一般，不过它还允许你变为任何植物类型中，大型生物的形态。如果该生物对任何元素免疫或者拥有抗力，那么你对这些元素获得20点抗力。如果该生物对一种元素易伤，那么你也获得该弱点。<\/p><p>大型植物：如果你选择大型植物的形态，你的力量获得+4体型加值，体质获得+2体型加值，以及+4天生护甲加值。<\/p>",
+    "source": "CRB"
+}

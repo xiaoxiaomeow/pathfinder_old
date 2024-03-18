@@ -1,0 +1,29 @@
+{
+    "key": "perceive cues",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/perceive-cues/",
+    "name": "Perceive Cues",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "inquisitor": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "ranger": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of water)",
+    "range": "personal",
+    "duration": "10 min.s/level",
+    "text": "<p>Your senses become preternaturally keen, and you gain insight into subtle behavioral cues. For the duration of the spell, you receive a +5 competence bonus on Perception and Sense Motive checks.<\/p>",
+    "name_zh": "察觉细节",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一滴水)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>你的感官变得无比敏锐，让你可以察觉那些平时没有注意的细节。<\/p><p>在法术持续时间内，你在察觉和察言观色检定中获得+5表现价值。<\/p>",
+    "source": "APG"
+}

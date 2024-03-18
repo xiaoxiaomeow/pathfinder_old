@@ -1,0 +1,33 @@
+{
+    "key": "cup of dust",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cup-of-dust/",
+    "name": "Cup of Dust",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["curse"],
+    "levels":     {
+        "druid": 3,
+        "mesmerist": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of dust)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 day/level (d)",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You curse the target with a thirst no drink can quench. On a failed saving throw, the target begins to dehydrate (see starvation and thirst). The effects of this spell cannot inflict more nonlethal damage than the target has hit points. No amount of drinking can counter this effect, although the target still experiences the other normal effects of any liquid imbibed (such as poisons or potions). <i>Cup of dust<\/i> can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or <i>wish<\/i> spell, but effects suffered as a result of dehydration must be healed by normal means.<\/p>",
+    "mythicText": "On a failed save, the target immediately takes 1d6 points of non-lethal damage per tier. Add your tier to the DC of any further Constitution checks the target attempts to resist dehydration as part of this spell's effects. While the curse is in effect, the target gains no benefit from any spell, effect, or item that requires drinking, such as potions and elixirs (though these are still used up when the target drinks them). ",
+    "name_zh": "尘埃之饮",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一撮灰尘)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "1天/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你诅咒目标，使其进入任何饮料都无法满足的口渴状态。通过失败的强韧豁免，目标会陷入脱水 (dehydrate) 状态。由该法术所造成的非致命伤害无法超出目标所拥有的生命值。无论喝下多少量都无法消除这个效果，不过目标仍旧如常受到任何吸收液体获得的其他正常效果 (比如毒药或药水)。尘埃之饮可以被破除结界 (Break Enchantment)，有限祈愿术 (Limited Wish)，神迹术 (Miracle)，移除诅咒 (Remove Curse) 或者祈愿术 (Wish) 移除，但是由于脱水而遭受的效果必须通过正常的途径治愈 (must be healed by normal means)。<\/p>",
+    "source": "APG"
+}

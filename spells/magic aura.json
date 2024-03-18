@@ -1,0 +1,32 @@
+{
+    "key": "magic aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-aura/",
+    "name": "Magic Aura",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "subdomains": {"arcane": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a small square of silk that must be passed over the object that receives the aura)",
+    "range": "touch",
+    "target": "one touched object weighing up to 5 lbs./level",
+    "duration": "1 day/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You alter an item's aura so that it registers to <i>detect<\/i> spells (and spells with similar capabilities) as though it were non-magical, or a magic item of a kind you specify, or the subject of a spell you specify. If the object bearing <i>magic aura<\/i> has <i>identify<\/i> cast on it or is similarly examined, the examiner recognizes that the aura is false and detects the object's actual qualities if he succeeds on a Will save. Otherwise, he believes the aura and no amount of testing reveals what the true magic is.<\/p><p>If the targeted item's own aura is exceptionally powerful (if it is an artifact, for instance), <i>magic aura<\/i> doesn't work.<\/p><p style=\"margin-left: 40px\"><i>Note<\/i>: A magic weapon, shield, or suit of armor must be a masterwork item, so a sword of average make, for example, looks suspicious if it has a magical aura.<\/p>",
+    "name_zh": "魔法灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (一块方形丝绸, 必须用来擦拭目标物品)",
+    "range_zh": "接触",
+    "target_zh": "一个接触到的物体，至多每等级5磅重",
+    "duration_zh": "1天/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以改变物品的魔法灵光以瞒过侦测法术 (和拥有类似效果的法术)，来使物品看起来没有魔法、看起来像你所指定魔法物品的魔法灵光、或者使物品的灵光看起来像你指定的法术的魔法灵光。如果对附有魔法灵光法术的物品施展‘<a href=\"spell.html?spell=identify\">鉴定术 (identify)<\/a>’或进行类似的鉴定，鉴定者必须进行意志豁免。如果通过则可看穿伪装的灵光，并可得知其本质。如果未通过，则会相信伪装的灵光，再怎么尝试也无法了解它真正的所具有的魔法。<\/p><p>如果物品本身的魔法灵光过于强大 (例如神器)，魔法灵光就无法起作用。<\/p><p>注意：魔法武器、盾牌或盔甲必须是精制品。因此，如果你在一把品质一般的剑上施展魔法灵光，则看起来相当可疑。<\/p>",
+    "source": "CRB"
+}

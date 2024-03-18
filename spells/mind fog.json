@@ -1,0 +1,32 @@
+{
+    "key": "mind fog",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-fog/",
+    "name": "Mind Fog",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "elementalSchools": {"void": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "fog spreads in 20-ft. radius, 20 ft. high",
+    "duration": "30 min.s and 2d6 rounds; see text",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p><i>Mind fog<\/i> produces a bank of thin mist that weakens the mental resistance of those caught in it. Creatures in the <i>mind fog<\/i> take a -10 penalty on Wisdom checks and Will saves. (A creature that successfully saves against the fog is not affected and need not make further saves even if it remains in the fog.) Affected creatures take the penalty as long as they remain in the fog and for 2d6 rounds thereafter. The fog is stationary and lasts for 30 minutes (or until dispersed by wind).<\/p><p>A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.<\/p><p>The fog is thin and does not significantly hamper vision.<\/p>",
+    "name_zh": "心灵迷雾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "半径20尺扩散范围, 高20尺的迷雾",
+    "duration_zh": "30分钟 和 2d6轮; 见后文",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>心灵迷雾可以产生一片薄雾，生物若身处其中，心智抵抗力就会受到削弱。雾气中的生物，在进行感知检定和意志豁免时，受到-10减值 (如果生物成功通过对抗雾气的意志检定，则不受影响，并且不用再对同一团雾气再做豁免，即使是继续待在雾中也是一样)。受影响的生物只要不离开雾气范围就会一直受到影响，离开后也需要2d6轮才能恢复正常。雾气是静止的，并且持续30分钟 (或直到被风吹散为止)。<\/p><p>和风 (时速11英里以上) 会在4轮之内吹散雾气；强风 (时速21英里以上) 可以一轮吹散雾气。<\/p><p>雾气本身很稀薄，不会影响视觉。<\/p>",
+    "source": "CRB"
+}

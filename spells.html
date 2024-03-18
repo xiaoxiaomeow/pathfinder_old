@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>pf法术速查</title>
+	<link rel="shortcut icon" href="bluebear.ico">
+    <script src="script/jquery.min.js"></script>
+    <script src="script/marked.min.js"></script>
+    <script src="script/common.js"></script>
+    <script src="spellsIndex.js"></script>
+    <script src="spells.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css"></style>
+</head>
+
+<body onload="loadTransAndSearchElements();">
+    <div style="font-family:Consolas;">
+
+        <h1>Pathfinder法术速查</h1>
+
+        <div style="display: flex; flex-wrap: wrap;">
+            <div>名称：</div>
+            <input type="text" id="name">
+            <input type="button" onclick="search();" value="查找">
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="school">
+            <div>学派：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="subSchool">
+            <div>子学派：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="descriptors">
+            <div>描述符：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="clazz">
+            <div>职业：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="levels">
+            <div>环位：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="source">
+            <div>出处：</div>
+        </div>
+        <details>
+            <summary>出版物缩写：</summary>
+            <table style="text-align: center;">
+                <tr><th>缩写</th><th>全名</th><th>译名</th><th>编号</th></th>
+                <tr><td>CRB</td><td>Core Rulebook</td><td>核心规则手册</td><td>PZO1110</td></tr>
+                <tr><td>APG</td><td>Advanced Player’s Guide</td><td>进阶玩家手册</td><td>PZO1115</td></tr>
+                <tr><td>UM</td><td>Ultimate Magic</td><td>极限魔法</td><td>PZO1117</td></tr>
+                <tr><td>UC</td><td>Ultimate Combat</td><td>极限战斗</td><td>PZO1118</td></tr>
+                <tr><td>ARG</td><td>Advanced Race Guide</td><td>进阶种族手册</td><td>PZO1121</td></tr>
+                <tr><td>OA</td><td>Occult Adventures</td><td>异能冒险</td><td>PZO1132</td></tr>
+                <tr><td>ACG</td><td>Advanced Class Guide</td><td>进阶职业手册</td><td>PZO1129</td></tr>
+                <tr><td>UI</td><td>Ultimate Intrigue</td><td>极限诡道</td><td>PZO1134</td></tr>
+                <tr><td>HA</td><td>Horror Adventures</td><td>惧怖冒险</td><td>PZO1135</td></tr>
+                <tr><td>VC</td><td>Villain Codex</td><td>恶棍志</td><td>PZO1136</td></tr>
+                <tr><td>AG</td><td>Adventurer's Guide</td><td>冒险者手册</td><td>PZO1138</td></tr>
+                <tr><td>BotD</td><td>Book of the Damned</td><td>永罪之书</td><td>PZO1139</td></tr>
+                <tr><td>UW</td><td>Ultimate Wilderness</td><td>极限荒野</td><td>PZO1140</td></tr>
+                <tr><td>PA</td><td>Planar Adventures</td><td>位面冒险</td><td>PZO1141</td></tr>
+                <tr><td>AP</td><td>Adventure Paths</td><td>冒险之路</td><td>PZO90xx</td></tr>
+                <tr><td>PPC</td><td>Campaign Setting Sourcebooks</td><td>战役设定</td><td>PZO92xx</td></tr>
+                <tr><td>PCS</td><td>Player Companion Sourcebooks</td><td>玩家伴侣</td><td>PZO94xx</td></tr>
+                <tr><td>Mod</td><td>Modules</td><td>模组</td><td>PZO95xx</td></tr>
+            </table>
+        </details>
+
+		<div style="width: 100%; overflow-x: auto; overflow-y: visible;" id="table">
+		</div>
+    </div>
+
+</body>
+
+</html>

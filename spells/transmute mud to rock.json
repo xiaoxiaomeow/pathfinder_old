@@ -1,0 +1,30 @@
+{
+    "key": "transmute mud to rock",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-mud-to-rock/",
+    "name": "Transmute Mud to Rock",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "druid": 5,
+        "sorcerer/wizard": 5
+    },
+    "elementalSchools": {"earth": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (sand, lime, and water)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "up to two 10-ft. cubes/level (S)",
+    "duration": "permanent",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p>This spell permanently transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral).<\/p><p>Any creature in the mud is allowed a Reflex save to escape before the area is hardened to stone.<\/p><p><i>Transmute mud to rock<\/i> counters and dispels <i>transmute rock to mud<\/i>.<\/p>",
+    "name_zh": "化泥为石",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (砂，石灰和水)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "至多每等级两个边长10英尺的立方区域 (可变)",
+    "duration_zh": "永久",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术可将任意深度的普通泥浆或流沙永久变成软性石材 (砂岩或类似材质)。<\/p><p>泥浆内的生物若可通过反射检定则可在区域变硬成石头前及时逃离。<\/p><p>化泥为石可以反制和解除‘<a href=\"spell.html?spell=transmute rock to mud\">化石为泥 (transmute rock to mud)<\/a>’。<\/p>",
+    "source": "CRB"
+}

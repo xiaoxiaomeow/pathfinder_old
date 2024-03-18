@@ -1,0 +1,29 @@
+{
+    "key": "sacred bond",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sacred-bond/",
+    "name": "Sacred Bond",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "cleric/oracle": 3,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)",
+    "range": "touch; see text",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>To use this spell, you first touch the intended recipient, creating a sympathetic field of healing energies between you.<\/p><p>Once the spell has been cast, you and the target may cast conjuration (healing) spells with a range of touch upon each other so long as you are within close range (25 ft. + 5 ft./2 levels). Should either you or the target remove your bracelet, the spell immediately ends.<\/p>",
+    "name_zh": "神圣链接",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势，器材 (你自己和目标一人佩戴一枚的一对价值分别至少为100GP的黄金手镯)",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>要使用这个法术，你必须先接触要接受法术的人，以在你们之间创建一个同步链接以传递治疗能量。<\/p><p>一旦法术被施放，你和你的目标可以间隔近距(25ft+5ft/2CL)互相施放咒法 (医疗) 系列法术如同你们在接触距离一样。<\/p><p>如果你和你的目标取下手镯，法术立刻结束。<\/p>",
+    "source": "APG"
+}

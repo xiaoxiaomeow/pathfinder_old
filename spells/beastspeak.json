@@ -1,0 +1,26 @@
+{
+    "key": "beastspeak",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/beastspeak/",
+    "name": "Beastspeak",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "druid": 2,
+        "shaman": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "text": "<p>When you're in the form of an animal (such as when you are using wild shape or are affected by a polymorph effect), you can speak normally, including when you cast spells with verbal components, and you sound like your normal self when you speak. You can cast this spell while in animal form, using animal-appropriate somatic components.<\/p>",
+    "name_zh": "兽言术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>当你处于动物的形态时（比如当你使用自然变身（Wild Shape）或者被变形效果（polymorph effect）改变）能够正常说话，这也包括让你施放具有语言成分（verbal components）的法术，而且你听起来和正常形态下说话的声音一样。你能够在身处动物形态时，使用适当的动物肢体施放该法术。<\/p>",
+    "source": "ACG"
+}

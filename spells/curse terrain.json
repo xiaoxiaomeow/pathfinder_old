@@ -1,0 +1,30 @@
+{
+    "key": "curse terrain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-terrain/",
+    "name": "Curse Terrain",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "components": "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 700 gp)",
+    "range": "touch",
+    "area": "1-mile radius emanating from the touched point",
+    "text": "<p>By touching the ground, you curse the land with four unnatural hazards. This functions as <i>lesser curse terrain<\/i>, but with the effects of the major perilous demesne curse.<\/p>",
+    "name_zh": "诅咒地形",
+    "castingTime_zh": "语言、姿势、材料 (一颗居住在此地区生物的心脏，以及价值700gp的玛瑙粉末)",
+    "range_zh": "接触",
+    "area_zh": "从接触的点向外弥漫半径1哩",
+    "duration_zh": "1天 (D) ",
+    "text_zh": "<p>透过触摸大地，你令四个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是中等危险地域诅咒(见Page.145)。<\/p>",
+    "source": "HA"
+}

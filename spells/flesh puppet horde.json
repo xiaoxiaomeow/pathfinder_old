@@ -1,0 +1,30 @@
+{
+    "key": "flesh puppet horde",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-puppet/",
+    "name": "Flesh Puppet Horde",
+    "base": "flesh puppet",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 4,
+        "occultist": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 5,
+        "spiritualist": 4,
+        "witch": 5
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (an onyx worth 50 gp for each zombie and a silken string)",
+    "range": "touch",
+    "target": "one or more corpses touched",
+    "text": "<p>This spell functions as flesh puppet, but can animate multiple zombies. As noted in animate dead, you can't control more than 4 HD per caster level worth of undead in total, nor can a single casting create more than 2 HD per caster level. A separate string attaches to each zombie in your horde. Severing a zombie's string reverts that zombie to a corpse, but doesn't end the spell for other zombies.<\/p><p>Because commanding a flesh puppet requires a swift action, you can issue commands to only one zombie per round, though zombies you previously commanded continue to follow their orders.<\/p><p>Likewise, you can command only one zombie to speak per round.<\/p><p>Unlike with flesh puppet, you can command a zombie to attack.<\/p><p>If you do, all your zombies immediately gain the staggered quality and no longer appear to be alive.<\/p><p>This spell ends automatically if you cast flesh puppet or flesh puppet horde on a new corpse.<\/p><\/div>",
+    "name_zh": "血肉傀儡群",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、材料 (每具尸体一颗价值50gp的玛瑙，还有一条丝线)",
+    "range_zh": "接触",
+    "target_zh": "一具或更多具接触的尸体 ",
+    "text_zh": "<p>此法术如同血肉傀儡般作用，但可以操控复数具尸体。如操纵死尸(animate dead)所写，你不能控制总合超过4HD/等级的不死生物，而单一次施法所创造的也不能超过2HD/等级。一条单独的丝线连接你群中每一位僵尸。切断一个僵尸的丝线会让该僵尸回覆为一具尸体，但不会让其他僵尸身上的此法术效果中止。因为命令一具血肉傀儡需要一个迅捷动作，所以你每轮只能命令一个僵尸，但你先前命令的僵尸会持续执行你的命令。同样地，你每轮只能命令一位僵尸说话。\n不同于血肉傀儡，你可以命令一位僵尸攻击。如果你这么做，所有你控制的僵尸立即获得蹒跚(staggered)特质，并且外表看上去不再像是活着的。\n如果你施展血肉傀儡或血肉傀儡群(flesh puppet horde)在一具新尸体上，此法术自动结束。<\/p>",
+    "source": "HA"
+}

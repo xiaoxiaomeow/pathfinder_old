@@ -1,0 +1,28 @@
+{
+    "key": "follow aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/follow-aura/",
+    "name": "Follow Aura",
+    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "school": "divination",
+    "descriptors":     [
+        "chaotic",
+        "evil",
+        "good",
+        "or lawful"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"inquisitor": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "duration": "10 min.s/level (d)",
+    "text": "<p>Choose one alignment type: chaotic, evil, good, or lawful. You gain the ability to follow the trail of a strong or overwhelming aura of that alignment (see detect evil). This is treated as tracking using the scent special quality, except you are following the traces of their aura upon the ground rather than their scent, and you receive no bonus on Perception checks. At 10th level, you can track the trail of creatures with a moderate alignment aura as well.<\/p><p>When you use this spell to track a given alignment, it gains the descriptor of the opposite alignment. For example, when <i>follow aura<\/i> is used to track evil, it gains the good descriptor.<\/p>",
+    "name_zh": "追踪灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>选择一个阵营类型：混乱，邪恶，善良，或守序。你获得了能够追踪对应阵营的一个强烈或刺目灵光 (见侦测邪恶) 的痕迹的能力。这被视为追踪气味的特殊应用方式，除了你是在追踪他们留在地上的灵光痕迹而非气味，所以你无法受到追踪气味的相关察觉检定奖励。<\/p><p>从10级开始，你可以追踪一个拥有中等灵光的生物。<\/p><p>当你使用此法术时，使用你所追踪的阵营相反的描述符。例如你追踪邪恶时，使用善良描述符。\nFool's Forbiddance<\/p>",
+    "source": "APG"
+}

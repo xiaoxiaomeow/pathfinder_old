@@ -1,0 +1,41 @@
+{
+    "key": "cruel jaunt",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cruel-jaunt/",
+    "name": "Cruel Jaunt",
+    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "descriptors":     [
+        "evil",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 4,
+        "cleric": 6,
+        "inquisitor": 6,
+        "magus": 6,
+        "psychic": 6,
+        "shaman": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a dilated human eyeball)",
+    "range": "medium (100 feet + 10 ft./level)",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You gain the ability to detect fear, as per <i>sense fear<\/i>, but you sense creatures within medium range.<\/p><p>Once per round as a standard action, you can teleport to a creature suffering from a fear effect within the spell's range if you are aware of the creature and its rough location. You can carry objects with you so long as you don't transport more than your maximum load. You arrive in a random open space within 20 feet of the creature and immediately begin sensing the location of creatures with a fear condition from your new location.<\/p><p>Once you teleport to a new location with this spell, you can take no additional actions for the round, as if casting dimension door. You can't teleport if there are no creatures suffering from a fear effect in range.<\/p>",
+    "name_zh": "残酷旅跃",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一颗膨胀的人类眼球)",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你获得侦测恐惧的能力，如同感知恐惧(sense fear)，但你感知的距离是中距。每一轮以一个标准动作，你可以在法术范围内，传送到一个被恐惧效果影响的生物附近，你要意识到该名生物，并且知道它大概的位置。你可以携带物品一起传送，只要不超过你的最大负重。你会在该生物附近随机20尺内的开阔空间出现，并立即从你新的位置开始感知附近有恐惧状态的生物。一旦你透过此法术传送到一个新位置，你在该轮中不能做其他的动作，如同施展任意门(dimension door)。如果范围内没有生物被恐惧效果影响，那么你不能传送。<\/p>",
+    "source": "HA"
+}

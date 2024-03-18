@@ -1,0 +1,32 @@
+{
+    "key": "planar ally, lesser",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planar-ally/",
+    "name": "Planar Ally, Lesser",
+    "base": "planar ally",
+    "book": "Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "descriptors": ["see text"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "shaman": 4
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (offerings worth 500 gp plus payment, see text), DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one called outsider of 6 HD or less",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>By casting this spell, you request your deity to send you an outsider (of 6 HD or less) of the deity's choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your philosophical alignment. If you know an individual creature's name, you may request that individual by speaking the name during the spell (though you might get a different creature anyway).<\/p><p>You may ask the creature to perform one task in exchange for a payment from you. Tasks might range from the simple to the complex. You must be able to communicate with the creature called in order to bargain for its services.<\/p><p>The creature called requires a payment for its services. This payment can take a variety of forms, from donating gold or magic items to an allied temple, to a gift given directly to the creature, to some other action on your part that matches the creature's alignment and goals. Regardless, this payment must be made before the creature agrees to perform any services. The bargaining takes at least 1 round, so any actions by the creature begin in the round after it arrives.<\/p><p>A task taking up to 1 minute per caster level requires a payment of 100 gp per HD of the creature called. For a task taking up to 1 hour per caster level, the creature requires a payment of 500 gp per HD. A long-term task, one requiring up to 1 day per caster level, requires a payment of 1,000 gp per HD.<\/p><p>A nonhazardous task requires only half the indicated payment, while an especially hazardous task might require a greater gift. Few if any creatures will accept a task that seems suicidal (remember, a called creature actually dies when it is killed, unlike a summoned creature). However, if the task is strongly aligned with the creature's ethos, it may halve or even waive the payment.<\/p><p>At the end of its task, or when the duration bargained for expires, the creature returns to its home plane (after reporting back to you, if appropriate and possible).<\/p><p><i>Note<\/i>: When you use a calling spell that calls an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.<\/p><\/div> <h3>Considering Calling an Outsider?<\/h3><p>See Binding Outsiders for an in-depth examination of the act of calling upon outsiders for aid.<\/p>",
+    "name_zh": "次等异界盟友",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 材料 (报酬外加价值500gp的祭品, 见后文), 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "呼唤一个异界生物, 其HD不超过6",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>通过施放本法术，你请求你的神祇选择一个异界生物 (HD不大于6) 并派它来帮助你。如果你并不侍奉某位特定的神祇，则本法术成为一个普适诉求，并由一个和你哲学阵营相符的生物来回应此诉求。如果你知晓某一生物的名字，你可以在施放法术时说出这一名字来请求该生物的帮助 (虽然你仍可能得到完全不同的生物)。<\/p><p>你可以要求呼唤来的生物执行一项任务，作为交换你需要支付报酬。任务可以简单也可以复杂。为了协商服务以及报酬，你必须能和呼唤来的生物沟通。<\/p><p>呼唤来的生物会为它的服务索要报酬。而报酬的形式多种多样，可以是向他所属的神庙捐钱或魔法物品，可以是一件直接送给该生物的礼物，也可以是你的某些符合该生物的阵营和目标的行动。无论如何，在生物同意给予任何服务之前，报酬必须先支付。协商需要花去至少1轮时间，因此生物的任何行动都要从召唤来的后一轮开始。<\/p><p>如果任务的耗时不超过每CL 1分钟，则需要支付的金额是被呼唤生物的每HD 100gp。如果任务的耗时不超过每CL 1小时，则是被呼唤生物的每HD 500gp。一个长期任务，如果耗时不超过每CL 1天，那么是被呼唤生物的每HD 1000gp。<\/p><p>一个不危险的任务仅需要上述报酬的一半，而一个特别危险的任务将需要更多的报酬。几乎没有生物会接受看来是自杀性的任务 (要知道和召唤来的生物不同，被呼唤来的生物在被杀时会确确实实地死去)。但是如果任务和生物的道德思想标准高度吻合，那么生物有可能将报酬减半，甚至不要报酬。<\/p><p>在任务结束时，或在协商好的期限结束时，该生物将回到它居住的位面 (如果需要且可行的话会在向你回报之后赶回去)。<\/p><p>注意：当你使用一个呼唤法术来呼唤气 (air)、混乱 (chaotic)、土 (earth)、邪恶 (evil)、火 (fire)、善良 (good)、秩序 (lawful)、或水 (water) 生物时，呼唤法术和生物属于同类型。<\/p>",
+    "source": "CRB"
+}

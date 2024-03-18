@@ -1,0 +1,31 @@
+{
+    "key": "wall of blindness-deafness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-blindness-deafness/",
+    "name": "Wall of Blindness-Deafness",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "bard": 4,
+        "cleric": 5,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "translucent wall 20 ft. long/level or a translucent ring with a radius of up to 5 ft./two levels; either form 20 ft. high",
+    "duration": "concentration + 1 round/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>You create a translucent wall of energy, within which can be seen indistinct images of faces with their eyes or ears sewn shut. When you create the wall, decide whether it blinds or deafens. Any creature that passes through the wall must save or become permanently blinded or deafened (as blindness/deafness).<\/p><p>The wall must be vertical and either rectangular or a ring. It need not touch the ground. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature when it is cast, the spell fails.<\/p>",
+    "name_zh": "目盲/耳聋之墙",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "长度为每等级20尺的半透明墙壁或者半径至多为每两个等级5尺的半透明圆环；高度均为20尺",
+    "duration_zh": "专注 + 1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一股半透明的能量墙，墙壁上会浮现出许多眼睛被缝上或者耳朵被割掉的脸孔。当你创造墙壁时，要决定它会造成目盲（blinds）还是耳聋（deafens）。任何穿过墙壁的生物都必须进行豁免，失败则会永久性目盲或耳聋，就如同目盲/耳聋术（blindness/deafness）一般。\n墙壁必须是垂直（vertical）的矩形或环形。它不需要接触到地面。墙壁在被塑造时必须连续而且没有破洞，若它的表面在施法时被任何物体或生物隔断，那么法术便会失败。<\/p>",
+    "source": "ACG"
+}

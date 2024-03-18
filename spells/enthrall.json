@@ -1,0 +1,44 @@
+{
+    "key": "enthrall",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enthrall/",
+    "name": "Enthrall",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting",
+        "sonic"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "witch": 2
+    },
+    "domains": {"nobility": 2},
+    "subdomains":     {
+        "love": 2,
+        "revolution": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 hour or less",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>If you have the attention of a group of creatures, you can use this spell to hold them enthralled. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw.<\/p><p>A target with 4 or more HD or with a Wisdom score of 16 or higher remains aware of its surroundings and has an attitude of indifferent. It gains a new saving throw if it witnesses actions that it opposes.<\/p><p>The effect lasts as long as you speak or sing, to a maximum of 1 hour. Those enthralled by your words take no action while you speak or sing and for 1d3 rounds thereafter while they discuss the topic or performance. Those entering the area during the performance must also successfully save or become enthralled. The speech ends (but the 1d3-round delay still applies) if you lose concentration or do anything other than speak or sing.<\/p><p>If those not enthralled have unfriendly or hostile attitudes toward you, they can collectively make a Charisma check to try to end the spell by jeering and heckling. For this check, use the Charisma bonus of the creature with the highest Charisma in the group; others may make Charisma checks to assist. The heckling ends the spell if this check result beats your Charisma check result. Only one such challenge is allowed per use of the spell.<\/p><p>If any member of the audience is attacked or subjected to some other overtly hostile act, the spell ends and the previously enthralled members become immediately unfriendly toward you. Each creature with 4 or more HD or with a Wisdom score of 16 or higher becomes hostile.<\/p>",
+    "name_zh": "注目术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "任意数量的生物",
+    "duration_zh": "1小时 或 更短",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>如果你已经吸引了一群生物的注意，你可以用此法术来吸引他们。要施放该法术，你必须花一整轮的时间来演说或是唱歌。随后，被影响的生物将完全专注于你，而忽略周围发生的事情。在法术的影响下，他们的态度为友善 (friendly)。对你的种族或是信仰不友善的生物在豁免检定上获得+4的加值。<\/p><p>具有4个或更多HD、或是感知达到16或更高的生物仍能察觉周围的变化，态度为冷漠 (indifferent)。当他们看到他们反对的行为时，可再做一次豁免检定。<\/p><p>只要你持续演讲或歌唱，法术效果就可持续，最多达一个小时。被吸引的生物在你演讲或歌唱时不会有任何行动，之后，他们还会花1d3轮讨论你的主题或表演。在你表演时进入法术影响范围的生物必须通过豁免检定，否则也会被吸引。若你无法保持专注或是作了演说、歌唱以外的事情，则表演结束 (1d3轮的讨论仍有效)。<\/p><p>若没有被吸引的生物对你的态度为不友善 (unfriendly) 或是敌对 (hostile)，他们会利用讥讽或质疑，集体进行一次魅力检定来打断法术。此时，可使用群体中魅力最高者的魅力加值；其他人以魅力检定协助他。若检定高于你的魅力检定，则法术结束。每次使用该法术时只有一次机会进行这种行为。<\/p><p>若任何一个听众被攻击或遭受公开的敌对行为，则法术结束，同时所有之前的听众对你的态度立即变为不友善。具有4个或更多HD、或是感知达到16或更高的生物对你的态度变为敌对。<\/p>",
+    "source": "CRB"
+}

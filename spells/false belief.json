@@ -1,0 +1,33 @@
+{
+    "key": "false belief",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-belief/",
+    "name": "False Belief",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "mesmerist": 2,
+        "psychic": 2
+    },
+    "mysteries": {"intrigue": 2},
+    "castingTime": "10 minutes, plus length of memory to be altered",
+    "components": "V, S, M (lemon juice and a scrap of parchment)",
+    "range": "touch",
+    "target": "willing creature touched",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You temporarily alter the target's memory (similar to modify memory) to eliminate, change, or implant a memory of up to 1 hour in length. When the duration of this expires, the target's real memory returns, and the false memory fades to little more than a vague outline, like a dream. This false memory seems true to the target, so effects that detect lies or force the target to speak the truth (as the subject understands it) don't detect the falsehood.<\/p>",
+    "name_zh": "虚假记忆",
+    "castingTime_zh": "10分钟，外加被改变的记忆时长",
+    "components_zh": "语言，姿势，材料（柠檬汁与废羊皮纸）",
+    "range_zh": "接触",
+    "target_zh": "接触到的自愿生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你暂时改变了目标的记忆，这类似于修改记忆（Modify Memory），你消除、植入或改变至多长度为1小时的记忆。当法术的持续时间结束后，目标的真实记忆便会恢复，虚假的记忆则褪去，成为如梦一般的模糊轮廓。这些虚假的记忆对目标来说看起来很真实，因此辨识谎言（Discern Lies）或者迫使目标说出真话的效果无法将伪造的记忆视为谎言（就如同目标所认为的那样）。<\/p>",
+    "source": "UI"
+}

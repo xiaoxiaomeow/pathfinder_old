@@ -1,0 +1,23 @@
+{
+    "key": "life conduit",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/life-conduit/",
+    "name": "Life Conduit",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels": {"summoner/unchained summoner": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>You utilize life conduit to share hit points with your eidolon. While this spell is active, you can spend a swift action to transfer 1d6 hit points between you and your eidolon, either taking damage yourself and healing your eidolon or healing yourself and damaging your eidolon. If your eidolon moves farther than 50 feet from you, this spell ends.<\/p>",
+    "name_zh": "生命通道",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>该法术如同生命通道 (Life Conduit) 一般作用，不过你可以以迅捷动作转移3d6点生命值。<\/p>",
+    "source": "UC"
+}

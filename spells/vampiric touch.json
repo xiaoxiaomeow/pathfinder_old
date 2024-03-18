@@ -1,0 +1,45 @@
+{
+    "key": "vampiric touch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vampiric-touch/",
+    "name": "Vampiric Touch",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "antipaladin": 3,
+        "bloodrager": 3,
+        "magus": 3,
+        "medium": 3,
+        "mesmerist": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "spiritualist": 3,
+        "witch": 3
+    },
+    "subdomains":     {
+        "blood": 3,
+        "daemon": 3
+    },
+    "bloodlines":     {
+        "daemon": 3,
+        "ghoul": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "instantaneous/1 hour; see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You must succeed on a melee touch attack. Your touch deals 1d6 points of damage per two caster levels (maximum 10d6). You gain temporary hit points equal to the damage you deal. You can't gain more than the subject's current hit points + the subject's Constitution score (which is enough to kill the subject). The temporary hit points disappear 1 hour later.<\/p>",
+    "mythicText": "The spell's damage increases to 1d8 points of damage per 2 caster levels (maximum 10d8). Your melee touch attack to deliver the spell threatens a critical hit on a 19 or 20. This expanded threat range doesn't stack with other effects or abilities that increase the threat range. If the damage kills the target, you gain fast healing 5 for a number of rounds equal to the Hit Dice of the target. ",
+    "name_zh": "吸血鬼之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物",
+    "duration_zh": "立即/1小时; 见后文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你必须成功进行一次近战接触攻击。你的接触会造成每两个CL 1d6点伤害 (最高10d6)。你获得等同于造成的伤害点临时HP。你获得的HP不能超过 {受术者的当前HP+受术者的体质属性} (这已经足矣杀死受术者)。这些临时HP会在1小时后消散。<\/p>",
+    "source": "CRB"
+}

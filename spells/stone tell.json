@@ -1,0 +1,29 @@
+{
+    "key": "stone tell",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stone-tell/",
+    "name": "Stone Tell",
+    "school": "divination",
+    "levels":     {
+        "druid": 6,
+        "shaman": 7
+    },
+    "bloodlines": {"deep earth": 6},
+    "mysteries":     {
+        "nature": 6,
+        "stone": 6
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You gain the ability to speak with stones, which relate to you who or what has touched them as well as revealing what is covered or concealed behind or under them. The stones relate complete descriptions if asked. A stone's perspective, perception, and knowledge may prevent the stone from providing the details you are looking for. You can speak with natural or worked stone.<\/p>",
+    "name_zh": "石言术",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你获得了与石头交谈的能力，由此了解谁或什么接触过它们，或者它后面或下面藏有什么东西等。被讯问的石头会给以完整的描述。受石头本身的视野，理解力，知识的限制，你未必能得到你想要的细节。你可以与天然或人工石头交谈。<\/p>",
+    "source": "CRB"
+}

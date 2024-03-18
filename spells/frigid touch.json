@@ -1,0 +1,32 @@
+{
+    "key": "frigid touch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-touch/",
+    "name": "Frigid Touch",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["cold"],
+    "levels":     {
+        "bloodrager": 2,
+        "druid": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p><i>This spell causes your hand to glow with a pale blue radiance.<\/i><\/p><p>Your melee touch attack deals 4d6 points of cold damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead.<\/p>",
+    "name_zh": "极寒之触",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术会让你的手被一层朦胧蓝光所包围。<\/p><p>你的近战接触攻击可以造成4d6点寒冷伤害，并且目标会恍惚 (staggered) 一轮。<\/p><p>如果这次攻击造成重击，那么目标则会恍惚一分钟。<\/p>",
+    "source": "UM"
+}

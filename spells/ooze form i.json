@@ -1,0 +1,27 @@
+{
+    "key": "ooze form i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/ooze-form/",
+    "name": "Ooze Form I",
+    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 5,
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bit of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>You assume the form of a Small or Medium ooze. Regardless of the type of ooze you transform into, you gain base speed 10 feet, climb speed 10 feet, swim speed 20 feet, and blindsense 30 feet. You gain a +4 resistance bonus on saving throws against mind-affecting effects and poison. A wood or metal weapon that strikes you takes acid damage as if from your slam unless the wielder succeeds at a Reflex saving throw.<\/p><p style=\"padding-left: 30px\"><b>Small Ooze<\/b>: If you assume this form, you gain a +4 size bonus to your Constitution score, a slam attack (1d3 plus 1d3 acid), and constrict (1d3), and take, a –4 penalty to your Dexterity score.<\/p><p style=\"padding-left: 30px\"><b>Medium Ooze<\/b>: If you assume this form, you gain a +6 size bonus to your Constitution score, a –6 penalty to your Dexterity score, a slam attack (1d4 plus 1d4 acid), and constrict (1d4).<\/p>",
+    "name_zh": "泥怪形态 I",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（来自你想要变形的生物的一部分）",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "1分钟/等级（可消解）",
+    "text_zh": "<p>你获得一个小型或中型泥怪的形态。无论泥怪种类，你获得10英尺的基础陆地速度，10英尺的攀爬速度，20英尺的游泳速度，30英尺盲感。\n你\n你在对抗影响心灵效果和毒素的豁免上得到+4的抗力加值。一个击中你的木制或金属武器会受到强酸伤害，如果受到你的挥击，除非使用者通过一次反射豁免检定。\n小型泥怪：如果你获得这种形态，你的体质上得到+4的体型奖励，一个挥击伤害（1d3+1d3强酸），和紧勒（1d3），并在敏捷属性上受到-4惩罚。\n中型泥怪：如果你获得这种形态，你的体质上得到+6的体型奖励，一个挥击伤害（1d4+1d4强酸），和紧勒（1d4），并在敏捷属性上受到-6惩罚。<\/p>",
+    "source": "UW"
+}

@@ -1,0 +1,13 @@
+{
+    "key": "spell immunity, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-immunity/",
+    "name": "Spell Immunity, Greater",
+    "base": "spell immunity",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels": {"cleric/oracle": 8},
+    "text": "<p>This spell functions like <i>spell immunity<\/i>, except the immunity applies to spells of 8th level or lower. A creature can have only one <i>spell immunity<\/i> or <i>greater spell immunity<\/i> spell in effect on it at a time.<\/p>",
+    "name_zh": "高等法术免疫",
+    "text_zh": "<p>该法术的功能如同‘法术免疫’一般，不过该法术可免疫8环或更低等级的法术。同一时间一个生物身上只能有一个法术免疫或高等法术免疫生效。<\/p>",
+    "source": "CRB"
+}

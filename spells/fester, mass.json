@@ -1,0 +1,17 @@
+{
+    "key": "fester, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fester/",
+    "name": "Fester, Mass",
+    "base": "fester",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "inquisitor": 6,
+        "witch": 6
+    },
+    "text": "<p>This spell functions as <i>fester<\/i>, except that it affects multiple foes.<\/p><\/div>",
+    "name_zh": "群体死疽",
+    "target_zh": "每等级1名生物，任意两名之间的距离不得超过30尺",
+    "text_zh": "<p>该法术的功能如同死疽 (Fester)，不过它可以影响复数敌人。<\/p>",
+    "source": "APG"
+}

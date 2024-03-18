@@ -1,0 +1,32 @@
+{
+    "key": "command, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/command/",
+    "name": "Command, Greater",
+    "base": "command",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 5,
+        "inquisitor": 5
+    },
+    "domains": {"nobility": 5},
+    "subdomains":     {
+        "inevitable": 5,
+        "loyalty": 5,
+        "tactics": 5
+    },
+    "bloodlines": {"imperious": 5},
+    "duration": "1 round/level",
+    "text": "<p>This spell functions like <i>command,<\/i> except that up to one creature per level may be affected, and the activities continue beyond 1 round. At the start of each commanded creature's action after the first, it gets another Will save to attempt to break free from the spell. Each creature must receive the same command.<\/p>",
+    "name_zh": "高等命令术",
+    "target_zh": "每等级一个生物, 任意两者之间的距离不超过30尺",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=command\">命令术 (command)<\/a>’一般，不过该法术至多可以影响每CL一个生物，而且生效时间超过1轮。在第一个命令之后、每个被下达命令的生物行动之前，他们都会获得另一次意志豁免来尝试打消法术的影响。所有生物所收到的命令都必须相同。<\/p>",
+    "source": "CRB"
+}

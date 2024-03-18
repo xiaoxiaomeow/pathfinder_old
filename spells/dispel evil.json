@@ -1,0 +1,31 @@
+{
+    "key": "dispel evil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dispel-evil/",
+    "name": "Dispel Evil",
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "inquisitor": 5,
+        "paladin": 4,
+        "shaman": 5
+    },
+    "domains": {"good": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "1 round/level or until discharged, whichever comes first",
+    "savingThrow": "see text",
+    "spellResistance": "see text",
+    "text": "<p>Shimmering, white holy energy surrounds you. This energy has three effects.<\/p><p>First, you gain a +4 deflection bonus to AC against attacks by evil creatures.<\/p><p>Second, on making a successful melee touch attack against an evil creature from another plane, you can choose to drive that creature back to its home plane. The creature can negate the effects with a successful Will save (Spell Resistance applies). This use discharges and ends the spell.<\/p><p>Third, with a touch you can automatically dispel any one enchantment spell cast by an evil creature or any one evil spell. Spells that can't be dispelled by <i>dispel magic<\/i> also can't be dispelled by <i>dispel evil<\/i>. Saving throws and Spell Resistance do not apply to this effect. This use discharges and ends the spell.<\/p>",
+    "name_zh": "反制邪恶",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "接触",
+    "target_zh": "自己和一个接触到的来自其他位面的邪恶生物 或",
+    "duration_zh": "1轮/等级 或 直至能量耗散，以先到的为准",
+    "savingThrow_zh": "见后文",
+    "spellResistance_zh": "见后文",
+    "text_zh": "<p>微微发光的白色圣洁能量包围着你。这股能量有三种效果。<\/p><p>首先，对抗邪恶生物的攻击时，你的AC获得+4偏斜加值。<\/p><p>其次，在对来自其他位面的邪恶生物进行成功的近战接触攻击之后，你可以选择将其驱逐回它的原属位面。若该生物成功进行意志豁免则无效 (可使用法术抗力)。如此使用会消耗并中止该法术。<\/p><p>第三，通过接触，你可以自动解除由邪恶生物施放的任意一个惑控系法术、或任何邪恶法术。无法被‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’解除的法术同样不会被反制邪恶解除。该效果无法进行豁免或应用法术抗力。这种使用会消耗并中止此法术。<\/p>",
+    "source": "CRB"
+}

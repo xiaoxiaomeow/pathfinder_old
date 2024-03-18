@@ -1,0 +1,17 @@
+{
+    "key": "path of glory, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/path-of-glory/",
+    "name": "Path of Glory, Greater",
+    "base": "path of glory",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "bard": 4,
+        "cleric": 4
+    },
+    "text": "<p>This spell functions as <i>path of glory<\/i>, except as noted above, and a square provides 5 points of healing instead of 1.<\/p><\/div>",
+    "name_zh": "高等荣耀之路",
+    "text_zh": "<p>该法术的功能如同荣耀之路（Path of Glory）一般，不过法术能够提供5点治疗以取代原本的1点。<\/p>",
+    "source": "ACG"
+}

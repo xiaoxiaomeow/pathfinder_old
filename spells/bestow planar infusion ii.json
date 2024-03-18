@@ -1,0 +1,23 @@
+{
+    "key": "bestow planar infusion ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-planar-infusion-i/",
+    "name": "Bestow Planar Infusion II",
+    "base": "bestow planar infusion i",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "magus": 4,
+        "medium": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 4,
+        "witch": 4
+    },
+    "text": "<p>This functions as bestow planar infusion I, except that the touched creature gains the improved infusion of the current plane.<\/p>",
+    "name_zh": "位面注能II",
+    "text_zh": "<p>这种法术如同位面注能I（Bestow Planar Infusion I），除了接触的生物获得当前所处位面的进阶注能效果。<\/p>",
+    "source": "PA"
+}

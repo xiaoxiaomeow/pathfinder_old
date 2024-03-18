@@ -1,0 +1,32 @@
+{
+    "key": "boiling blood",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/boiling-blood/",
+    "name": "Boiling Blood",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "cleric/oracle": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "concentration + 1 round/level (d)",
+    "savingThrow": "Fortitude negates (see text)",
+    "text": "<p>The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.<\/p><p>If a target has the orc subtype, it doesn't take fire damage and instead gains a +2 morale bonus to Strength.<\/p>",
+    "mythicText": "<p class=\"source\">A target that fails its save takes 1d3 points of fire damage per round. If a target has the orc subtype, it also gains fire resistance 5. <br><p style=\"margin-left: 20px\"><b>Augmented<\/b>: If you expend two uses of mythic power, you can affect allies as though they had the orc subtype. ",
+    "name_zh": "血沸",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "每3等级一个生物，互相之间间隔不超过30尺",
+    "duration_zh": "专注 + 1轮/等级 (可解消)",
+    "savingThrow_zh": "强韧，通过则无效 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>目标生物的血液开始沸腾。如果目标豁免失败，它会每轮受到一点火焰伤害。这个法术对没有血液的生物无效。<\/p><p>如果目标是一个兽人或亚种，它不会受到火焰伤害，并且在力量上获得+2士气加值。<\/p>",
+    "source": "UM"
+}

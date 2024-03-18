@@ -1,0 +1,38 @@
+{
+    "key": "heat metal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heat-metal/",
+    "name": "Heat Metal",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 2,
+        "occultist": 2,
+        "psychic": 2
+    },
+    "domains": {"sun": 2},
+    "subdomains": {"metal": 2},
+    "elementalSchools": {"metal": 3},
+    "mysteries":     {
+        "metal": 2,
+        "volcano": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lbs. of metal/level, all of which must be within a 30-ft. circle",
+    "duration": "7 rounds",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Round<\/th><th class=\"text\">Metal Temperature<\/th><th class=\"text\">Damage<\/th><\/tr><\/thead><tbody><tr><td class=\"number\">1<\/td><td class=\"text\">Warm<\/td><td class=\"text\">None<\/td><\/tr><tr><td class=\"number\">2<\/td><td class=\"text\">Hot<\/td><td class=\"text\">1d4 points<\/td><\/tr><tr><td class=\"number\">3-5<\/td><td class=\"text\">Searing<\/td><td class=\"text\">2d4 points<\/td><\/tr><tr><td class=\"number\">6<\/td><td class=\"text\">Hot<\/td><td class=\"text\">1d4 points<\/td><\/tr><tr><td class=\"number\">7<\/td><td class=\"text\">Warm<\/td><td class=\"text\">None<\/td><\/tr><\/tbody><\/table><p><i>Heat metal<\/i> causes metal objects to become red-hot. Unattended, non-magical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.<\/p><p>A creature takes fire damage if its equipment is heated. It takes full damage if its armor, shield, or weapon is affected. The creature takes minimum damage (1 point or 2 points; see the table) if it's not wearing or wielding such an item.<\/p><p>On the first round of the spell, the metal becomes warm and uncomfortable to touch but deals no damage. The same effect also occurs on the last round of the spell's duration. During the second (and also the next-to-last) round, intense heat causes pain and damage. In the third, fourth, and fifth rounds, the metal is searing hot, and causes more damage, as shown on the table.<\/p><p>Any cold intense enough to damage the creature negates fire damage from the spell (and vice versa) on a point-for-point basis. If cast underwater, <i>heat metal<\/i> deals half damage and boils the surrounding water.<\/p><p><i>Heat metal<\/i> counters and dispels chill metal.<\/p>",
+    "name_zh": "灼热金属",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每两个等级一个生物的金属装备, 任意两者之间的距离不超过30尺;",
+    "duration_zh": "7轮",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>灼热金属使金属物质变得异常炙热。未被持用的非魔法金属无法进行豁免。带有魔法的金属可做豁免检定对抗该法术。除非物品本身的豁免加值更高，否则被生物携带的物品会使用携带者的豁免加值。<\/p><p>在装备变热时，拥有者将受到火焰伤害。如果受影响的是护甲、盾牌或武器，则会受到全额伤害。若该名生物并未穿戴或持用这些武器，则仅受到最低伤害 (1点或2点；见下表)。<\/p><p>在法术的第一轮，金属开始发热并让接触者不适，但不造成伤害。最后一轮也是如此。在第二轮 (以及倒数第二轮)，高温会造成痛苦和伤害。在第三、第四和第五轮，金属将变得炽热，造成更多伤害，就如同下表所示。\n轮数\n 金属温度\n 伤害\n1\n 温暖\n 无\n2\n 发烫\n 1d4点\n3 – 5\n 炽热\n 2d4点\n6\n 发烫\n 1d4点\n7\n 温暖\n 无<\/p><p>任何足以造成伤害的寒冷效果都会一点换一点地抵消这火焰伤害 (反之亦然)。若该法术施放至水下时，灼热金属造成的伤害减半，并会使周围的水沸腾。<\/p><p>灼热金属可以反制和解除‘<a href=\"spell.html?spell=chill metal\">冻寒金属 (chill metal)<\/a>’。<\/p>",
+    "source": "CRB"
+}

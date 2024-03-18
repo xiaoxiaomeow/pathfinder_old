@@ -1,0 +1,32 @@
+{
+    "key": "node of blasting",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/node-of-blasting/",
+    "name": "Node of Blasting",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 3,
+        "mesmerist": 3,
+        "occultist": 2,
+        "psychic": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "target": "one touched object weighing no more than 10 lbs.",
+    "duration": "permanent until discharged (d)",
+    "savingThrow": "Will partial",
+    "spellResistance": "no",
+    "text": "<p>You imbue an object with psychic energy. The <em>node of blasting<\/em> unleashes a mental blast when a creature with a mind touches the object, dealing 6d6 points of damage to the creature touching the object and causing the creature to be staggered for 1 minute. A successful saving throw halves the damage and negates the staggered condition.<\/p><p>Magic traps such as <em>node of blasting<\/em> are hard to detect and disable. A character with the trapfinding class feature can use Disable Device to thwart <em>node of blasting<\/em>. The DCs to find a <em>node of blasting<\/em> using Perception and to disable it using Disable Device are both equal to 25 + the spell's level. Additionally, a creature with the read aura occult skill unlock can attempt the same Perception check to notice a <em>node of blasting<\/em>.<\/p>",
+    "name_zh": "结点冲击",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "接触",
+    "target_zh": "接触到的一个物体，其重量不超过10磅重",
+    "duration_zh": "永久，直至耗散为止（可解消）",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你向一个物体内灌输异能。当一个具有心智的生物碰触物体时（when a creature with a mind touches the object），结点冲击施放的精神攻击会对接触物体的生物造成6d6点伤害，并且导致该生物恍惚（staggered）1分钟。成功通过豁免的能够使伤害减半，还可以免受恍惚状态。\n结点冲击这样的魔法陷阱很难被侦测和解除。具有寻找陷阱（Trapfinding）职业能力的角色能够使用解除装置阻碍结点冲击。使用察觉发现结点冲击和使用解除装置将其解除的DC均为25 + 法术的等级。除此之外，使用神秘技能解放（Occult Skill Unlocks）中的望气（Read Aura）也能尝试相同的察觉检定来注意到结点冲击。<\/p>",
+    "source": "OA"
+}

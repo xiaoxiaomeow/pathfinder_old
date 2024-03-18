@@ -1,0 +1,35 @@
+{
+    "key": "denounce",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/denounce/",
+    "name": "Denounce",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "inquisitor": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "30-ft.-radius burst",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You speak out against a single creature within line of sight and turn possible allies against it by drawing upon the power of your voice and conviction. Creatures in the area who can see the <i>denounced<\/i> creature must make a Will Saving Throw or have their starting attitude toward the <i>denounce<\/i>d creature worsened by two levels (see Diplomacy skill or table on this page for details). For example, creatures previously indifferent to the subject turn unfriendly.<\/p><p>Diplomacy checks made to reverse the effects of <i>denounce<\/i> are made at a -10 penalty.<\/p>",
+    "name_zh": "谴责",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "半径30尺爆发范围",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你公然反对视觉线内的单一一名生物，通过你的声音与信念的力量致使潜在的盟友对抗他。能够看到被谴责的目标，并且在区域内的生物必须进行一次意志豁免检定，失败则对被谴责的生物的起始态度降低2级。比如之前对谴责对像态度为冷淡的生物，会转变为不友善。试图逆转谴责效果的交涉检定会受到-10减值。\n[i]译者注：原文如此，之前态度降级写的是 [worsened by two levels]，之后举例则是 [For example, creatures previously indifferent to the subject turn unfriendly]。 [/i]<\/p>",
+    "source": "APG"
+}

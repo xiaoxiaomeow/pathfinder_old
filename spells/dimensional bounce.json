@@ -1,0 +1,30 @@
+{
+    "key": "dimensional bounce",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-bounce/",
+    "name": "Dimensional Bounce",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "sorcerer/wizard": 7,
+        "summoner/unchained summoner": 6,
+        "witch": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level or until discharged",
+    "savingThrow": "none and Will negates (object)",
+    "spellResistance": "no and yes (object)",
+    "text": "<p>You designate two locations within range and create a dimensional link between them; you must have line of effect to both locations when casting this spell. As a swift action, you can teleport from your current location to either of the designated locations as if you had cast dimension door. The spell is discharged once you have used it to teleport a number of times equal to one-fourth your caster level (maximum 5 times).<\/p>",
+    "name_zh": "次元弹跃",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "你 和 接触到的物体 或 其他接触到的自愿生物",
+    "duration_zh": "1轮/等级 或 直至耗散",
+    "savingThrow_zh": "无 和 意志，通过则无效（物体）",
+    "spellResistance_zh": "否 和 可（物体）",
+    "text_zh": "<p>你能够指定两个在法术范围内的地点，并且在它们之间创造出一道次元链接；你必须与这两个地点都具有效果线才能施放该法术。以迅捷动作，你能够从你当前的位置传送至这两个指定地点中的一处，就如同施放了任意门（Dimension Door）一般。当你使用该法术进行传送的次数等同于你的施法者等级的四分之一时（最高5次），该法术便会耗散。<\/p>",
+    "source": "ACG"
+}

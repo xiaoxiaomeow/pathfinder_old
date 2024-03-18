@@ -1,0 +1,23 @@
+{
+    "key": "flaming sphere, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flaming-sphere/",
+    "name": "Flaming Sphere, Greater",
+    "base": "flaming sphere",
+    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "bloodrager": 4,
+        "druid": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4
+    },
+    "savingThrow": "Reflex negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as <i>flaming sphere<\/i>, except that it deals 6d6 points of fire damage to any creature it strikes. Any creature that fails its save against the sphere catches on fire. If a creature catches on fire, the DC to extinguish the flames is equal to the DC of this spell.<\/p><h3>By the way&#8230;<\/h3><p>This spell can start fires on a ship.<\/p>",
+    "name_zh": "高等炽焰法球",
+    "savingThrow_zh": "反射，通过则无效（见后文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同炽焰法球（Flaming Sphere）一般，不过它会对任何命中的敌人造成6d6点火焰伤害。在对抗法球的豁免中失败的生物会被点燃（catchs on fire；见核心手册的444页）。若生物被该法术点燃，那么熄灭火焰的DC与该法术的DC相同。<\/p>",
+    "source": "ACG"
+}

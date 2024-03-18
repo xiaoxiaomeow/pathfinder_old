@@ -1,0 +1,24 @@
+{
+    "key": "surmount affliction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/surmount-affliction/",
+    "name": "Surmount Affliction",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 2,
+        "inquisitor": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "you",
+    "target": "personal",
+    "duration": "1 round/level",
+    "text": "<p>You temporarily overcome one harmful condition. This does not end the effect causing the condition; it just suspends that condition's effect for the duration of the spell. You can surmount any one of the following conditions: blinded, confused, dazed, dazzled, deafened, fatigued, frightened, paralyzed, shaken, or sickened.<\/p>",
+    "name_zh": "克服困境",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>持续时间    1轮/等级<\/p><p>你可以暂时克服一种有害状态。这并不会结束异常状态，它只是在法术持续时间之内暂缓它们。<\/p><p>你可以克服下列异常状态之一：目盲，困惑，晕眩，目眩，耳聋，疲乏，惊惧，麻痹，战栗，或是恶心。<\/p>",
+    "source": "UM"
+}

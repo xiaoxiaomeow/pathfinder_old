@@ -1,0 +1,19 @@
+{
+    "key": "ego whip v",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ego-whip/",
+    "name": "Ego Whip V",
+    "base": "ego whip i",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels": {"psychic": 7},
+    "text": "<p>This functions as <i>ego whip I<\/i>, but the target takes –10 penalty to the chosen ability score and is staggered for 1d10 rounds on a failed Will save. This spell can be undercast.<\/p><\/div>    <\/div>   <\/div>  <\/div>",
+    "name_zh": "自性鞭笞 V",
+    "text_zh": "<p>该法术的功能如同自性鞭笞 I（Ego Whip I）一般，不过当目标的意志豁免检定失败时，会在被选择的属性上承受-10减值，并且恍惚（staggered）1d10轮。该法术可以被降阶施法。<\/p>",
+    "source": "OA"
+}

@@ -1,0 +1,19 @@
+{
+    "key": "mount, communal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mount/",
+    "name": "Mount, Communal",
+    "base": "mount",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "levels":     {
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "summoner/unchained summoner": 2,
+        "witch": 2
+    },
+    "effect": "up to six mounts",
+    "text": "<p style=\"margin-left:40px\">This spell functions like <i>mount<\/i>, except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.<\/p>",
+    "name_zh": "共用召唤坐骑",
+    "effect_zh": "最多6匹坐骑",
+    "text_zh": "<p>这个法术工作方式如同召唤坐骑 (Mount)，不过你可以召唤最多6匹轻型马或矮种马，然后你可以将法术持续时间以2小时为单位分配给每一只召唤物。<\/p>",
+    "source": "UC"
+}

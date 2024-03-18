@@ -1,0 +1,15 @@
+{
+    "key": "shadow evocation, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation/",
+    "name": "Shadow Evocation, Greater",
+    "base": "shadow evocation",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "levels": {"sorcerer/wizard": 8},
+    "domains": {"darkness": 8},
+    "mysteries": {"shadow": 8},
+    "text": "<h4>DESCRIPTION<\/h4><p>This spell functions like <i>shadow evocation<\/i>, except that it enables you to create partially real, illusory versions of sorcerer or wizard evocation spells of 7th level or lower. If recognized as a <i>greater shadow evocation<\/i>, a damaging spell deals only three-fifths (60%) damage.<\/p><\/div>",
+    "name_zh": "高等幽影塑能术",
+    "text_zh": "<p>该法术的功能与幽影塑能术一样，不过你可以创造出半真实的、7环或更低等级的术士或法师塑能法术的幻术系版本。若受术者辨识出这是高等幽影塑能术，则伤害性法术仅造成3/5 (60%) 的伤害。<\/p>",
+    "source": "CRB"
+}

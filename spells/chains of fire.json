@@ -1,0 +1,28 @@
+{
+    "key": "chains of fire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chains-of-fire/",
+    "name": "Chains of Fire",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "magus": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a drop of oil and a small piece of flint)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like chain lightning, except as noted above, and the spell deals fire damage instead of electricity damage.<\/p>",
+    "name_zh": "连环炽焰",
+    "race_zh": "火元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 器材 (一滴油和一小块燧石)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>除了上述提到的内容以及使用火焰伤害替代闪电伤害以外，该法术的作用方式和‘连环闪电’一样。<\/p>",
+    "source": "ARG"
+}

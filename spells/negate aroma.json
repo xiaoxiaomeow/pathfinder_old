@@ -1,0 +1,29 @@
+{
+    "key": "negate aroma",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/negate-aroma/",
+    "name": "Negate Aroma",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "druid": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a pinch of alum)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Fortitude negates <b>Spell Resistance<\/b> yes",
+    "spellResistance": "yes",
+    "text": "<p>With a gesture, this spell allows you to dismiss even the foulest or most distinctive scents. When cast, the targeted creatures or objects lose all natural and unnatural odors. A creature under the effect of <i>negate aroma<\/i> cannot be tracked, located, or pinpointed by the scent special quality. In addition, this spell prevents the target creature from using the stench special ability and similar odor-based abilities (such as those possessed by troglodytes).<\/p><p><i>Negate aroma<\/i> does not prevent the target from acquiring outside smells or odors. Dowsing the creature with a pungent substance effectively negates the benefits of the spell until the substance is neutralized or washed away.<\/p>",
+    "name_zh": "消除气味",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一撮明矾)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "接触到的一个生物或物体/等级",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>以一个手势，该法术允许你消除气味——即使是最强烈或者最独特的味道。该法术施放后，作为目标的生物或物品失去所有自然或非自然的气味。在消除气味法术影响下的生物无法被灵敏嗅觉特殊能力追踪、发现或定位。此外，该法术也能妨碍目标生物使用恶臭 (stench) 特殊能力以及类似的基于气味的能力 (比如穴居人 (troglodytes) 拥有的能力)。<\/p><p>消除气味不会妨碍目标闻到外界的味道或气味。将刺鼻的物质浇在生物之上能够有效地消除该法术的效果，直到这些物质被中和或洗净为止。<\/p>",
+    "source": "APG"
+}

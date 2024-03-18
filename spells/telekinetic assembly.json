@@ -1,0 +1,30 @@
+{
+    "key": "telekinetic assembly",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-assembly/",
+    "name": "Telekinetic Assembly",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, F (a miniature of the target siege engine, costing 10 gp)",
+    "range": "close (25 ft + 5 ft./2 levels)",
+    "target": "one disassembled siege engine",
+    "duration": "instantaneous",
+    "savingThrow": "none <b>Spell Resistance<\/b> no",
+    "spellResistance": "no",
+    "text": "<p>You assemble a siege engine, using up to one fewer worker per two caster levels you possess. You can do without one additional worker if you have any ranks in Knowledge (engineering), plus one additional worker per 5 ranks you have in that skill. If your caster level combined with Knowledge (engineering) fails to eliminate the need for workers, this spell fails.<\/p>",
+    "name_zh": "念动拼装",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言, 姿势，器材 (一架目标攻城器械的迷你模型，价值10GP)",
+    "target_zh": "一台分解的攻城器械",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>每二施法者等级你便可以少用一个工人进行攻城器械组装。<\/p><p>如果你在知识 (工程学) 上拥有任意等级，你可以再少用一个工人，加上每5点技能等级再少用一个。<\/p><p>如果算上你的施法者等级和知识 (工程学) 之后人手仍然不足，法术失败。<\/p>",
+    "source": "UC"
+}

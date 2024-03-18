@@ -1,0 +1,37 @@
+{
+    "key": "terrible remorse",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/terrible-remorse/",
+    "name": "Terrible Remorse",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "cleric/oracle": 4,
+        "inquisitor": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 living creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial (see text at right)",
+    "spellResistance": "yes",
+    "text": "<p>You fill a target with such profound remorse that it begins to harm itself. Each round, the target must save or deal 1d8 points of damage + its Strength modifier to itself using an item held in its hand or with unarmed attacks. If the creature saves, it is staggered for 1 round and takes a -2 penalty to Armor Class, after which the spell ends.<\/p>",
+    "name_zh": "深沉忏悔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名活物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则部分生效 (见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标产生了如此深刻的悔意，以至于让它开始伤害自己的身体。<\/p><p>每一轮目标都可以进行一次豁免检定，如果没能通过，便会使用手中的武器或徒手攻击对自己造成1d8加它的力量调整值的伤害。<\/p><p>如果目标通过了豁免，它会恍惚一轮，并且在AC上有-2罚值，之后法术效果结束。<\/p>",
+    "source": "UM"
+}

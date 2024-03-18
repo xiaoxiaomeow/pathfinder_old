@@ -1,0 +1,36 @@
+{
+    "key": "scouring winds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scouring-winds/",
+    "name": "Scouring Winds",
+    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "air",
+        "earth"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "elementalSchools": {"wood": 7},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "sandstorm in 20-ft. radius, 20 ft. high",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes (see text)",
+    "text": "<p>This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.<\/p><p>Any creature in the area takes 3d6 points of piercing damage each round. The area is considered a windstorm (see Table: Wind Effects).<\/p><p>If a creature with spell resistance successfully resists this spell, it is unaffected by the winds and sand, but still unable to see within the area of the spell.<\/p>",
+    "name_zh": "冲搅之风",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "20尺半径20尺高的沙尘暴",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (见下文)",
+    "text_zh": "<p>法术抗力    可 (见下文)<\/p><p>这个法术将带来一阵由尖锐的沙子构成的沙尘暴，它会遮断所有的视线。<\/p><p>你可以用一个移动动作将风暴移动最多30尺远。<\/p><p>任何区域内的生物每一轮都会受到3d6点伤害。区域内的风力等级被视为风暴 (windstorm)。<\/p><p>如果一个拥有法术抗力的生物成功的抵抗这个法术，它不会受到风沙的影响，但仍然无法看清区域内的东西。<\/p>",
+    "source": "UM"
+}

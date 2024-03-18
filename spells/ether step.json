@@ -1,0 +1,26 @@
+{
+    "key": "ether step",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ether-step/",
+    "name": "Ether Step",
+    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 6,
+        "summoner": 5
+    },
+    "castingTime": "1 immediate action",
+    "components": "S",
+    "range": "personal",
+    "target": "you",
+    "duration": "see text",
+    "text": "<p>You step into the Ethereal Plane long enough to dodge a blow or confound a spell; you must cast ether step after you are targeted by an attack or effect but before you learn the results of the attack or effect. This spell functions as ethereal jaunt, except that you become ethereal until the beginning of your next turn. On the turn after you cast this spell and return to your starting point, you can take only move actions or free actions.<\/p>",
+    "name_zh": "以太步",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "target_zh": "自我",
+    "duration_zh": "见下文",
+    "text_zh": "<p>你短暂地跨入灵界，以躲避一次打击或法术；你必须在自己成为一次攻击或效果的目标后，但在知道攻击或效果的结果之前施放以太步法术。这个法术的作用类似于幻化灵体（Ethereal Jaunt），除了你的灵体状态会保持到下一个回合开始前。在你施放此法术并返回起点后的回合里，你只能采取移动动作或自由动作。<\/p>",
+    "source": "PA"
+}

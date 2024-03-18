@@ -1,0 +1,25 @@
+{
+    "key": "oneiric horror, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/oneiric-horror/",
+    "name": "Oneiric Horror, Greater",
+    "base": "oneiric horror",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "medium": 2,
+        "mesmerist": 3,
+        "psychic": 4,
+        "sorcerer/wizard": 5
+    },
+    "savingThrow": "Will negates, Fort negates",
+    "spellResistance": "yes",
+    "text": "<p class=\"divider\">EFFECT<\/p><p>This spell functions as <em>oneiric horror<\/em> except each round the subject fails its Will save, it takes 1 point of Strength damage, and after the spell ends, the subject must succeed at a Fortitude save or be fatigued for a number of minutes equal to the number of rounds spent under the spell's effect.<\/p><\/div>",
+    "name_zh": "高等恐惧梦魇",
+    "savingThrow_zh": "意志，通过则无效；强韧，通过则无效；见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同恐惧梦魇（Oneiric Horror）一般，不过每轮当受术者的意志豁免失败时，它会受到1点力量伤害，而且在法术结束后，受术者必须进行一次强韧豁免，失败则会在等同于法术效果生效轮数的分钟数内陷入疲乏（fatigued）。<\/p>",
+    "source": "OA"
+}

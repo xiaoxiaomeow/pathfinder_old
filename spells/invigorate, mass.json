@@ -1,0 +1,18 @@
+{
+    "key": "invigorate, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invigorate/",
+    "name": "Invigorate, Mass",
+    "base": "invigorate",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "illusion",
+    "descriptors": ["figment"],
+    "levels":     {
+        "bard": 3,
+        "psychic": 4
+    },
+    "text": "<p>This spell work as <i>invigorate<\/i>, except it affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体战意鼓舞",
+    "target_zh": "接触到的生物，最多每等级一名",
+    "text_zh": "<p>该法术如同战意鼓舞 (invigorate) 一般运作，不过可以影响复数生物。<\/p>",
+    "source": "APG"
+}

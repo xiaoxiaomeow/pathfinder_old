@@ -1,0 +1,33 @@
+{
+    "key": "disguise self",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disguise-self/",
+    "name": "Disguise Self",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "alchemist": 1,
+        "antipaladin": 1,
+        "bard": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "sorcerer/wizard": 1
+    },
+    "domains": {"trickery": 1},
+    "bloodlines": {"div": 1},
+    "mysteries": {"streets": 1},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min./level (d)",
+    "text": "<p>You make yourself &#8211; including clothing, armor, weapons, and equipment &#8211; look different. You can seem 1 foot shorter or taller, thin, fat, or in between. You cannot change your creature type (although you can appear as another subtype). Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature or look like an entirely different person or gender.<\/p><p>The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile (touch) or audible (sound) properties of you or your equipment. If you use this spell to create a disguise, you get a +10 bonus on the Disguise check. A creature that interacts with the glamer gets a Will save to recognize it as an illusion.<\/p>",
+    "name_zh": "易容术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>你使得你自己——包括服装、护甲、武器和装备——看上去不同。你可以看起来变高或变矮1尺高度，或是变胖变瘦之类。你不能改变自己的生物类型 (尽管你能够看起来像是其他类型的生物)。此外，你可以随心改变外貌。你可以添加或掩饰一些外貌特征或看起来完全变成不同的人或性别。<\/p><p>该法术不会提供你所选择形态的能力或习性，也不改变你和你装备的触感 (触觉) 或声音 (听觉)。若你用该法术进行易容，则会在易容检定中获得+10加值。与你发生感官互动的生物可以通过意志豁免来发现这是幻觉。<\/p>",
+    "source": "CRB"
+}

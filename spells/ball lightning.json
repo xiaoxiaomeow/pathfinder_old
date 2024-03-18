@@ -1,0 +1,38 @@
+{
+    "key": "ball lightning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/ball-lightning/",
+    "name": "Ball Lightning",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "air",
+        "electricity"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bloodrager": 4,
+        "druid": 4,
+        "magus": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4
+    },
+    "elementalSchools": {"air": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a small iron ring)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "two or more 5-ft.-diameter spheres",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "yes",
+    "text": "<p>You create two globes of lightning that fly in whichever direction you indicate. For every 4 caster levels above 7th, you create an additional globe of lightning (3 globes at 11th, 4 globes at 15th, to the maximum of 5 globes at 19th). These globes fly at a rate of 20 feet per round and have perfect maneuverability. Wind does not affect a flying sphere's course.<\/p><p>If a globe enters a space with a creature, it stops moving for the round and deals 3d6 points of electricity damage to that creature, though a successful Reflex save negates the damage. Creatures wearing metal armor take a -4 penalty on this Saving Throw.<\/p><p>Each globe moves as long as you actively direct it (it's a move action for you to direct all the spheres created by a single casting of this spell); otherwise they stay at rest. These globes have no mass and cannot push aside unwilling creatures or move solid objects. A <i>ball lightning<\/i> globe winks out if it exceeds the spell's range.<\/p>",
+    "name_zh": "球形闪电",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料/法器 (一个小铁质铃铛)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "两个或更多5尺直径的球体",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造了两个闪电构成的球体，能随你的指示在空中自由飞行。<\/p><p>你的施法者等级每比7级高出4级就可以多创造一个闪电球 (11级3个，15级4个，最高19级5个)。这些球体拥有20尺飞行速度和完美机动性。风力不会对其飞行造成影响。<\/p><p>如果一个球体进入一个生物占据的空间，它本轮会停止移动并对其造成3d6点电击伤害，不过一次成功的反射检定可以免疫伤害。身着金属盔甲的生物的豁免检定有-4罚值。<\/p><p>每个球体都会随你的主动指挥而移动 (以一个移动动作，你能指挥一次法术创造的全部球体)；否则它们会留在原地。<\/p><p>这些球体没有质量，不会推开一个非资源生物或移动一个固体物体。<\/p><p>如果被移出法术范围，球体消失。<\/p>",
+    "source": "APG"
+}

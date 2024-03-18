@@ -1,0 +1,26 @@
+{
+    "key": "owl's wisdom, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/owl-s-wisdom/",
+    "name": "Owl's Wisdom, Mass",
+    "base": "owl's wisdom",
+    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 6,
+        "druid": 6,
+        "psychic": 6,
+        "shaman": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 4,
+        "unchained summoner": 6
+    },
+    "mysteries": {"lore": 6},
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "One creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p class=\"divider\">EFFECT<\/p><p><b>Range<\/b> close (25 ft. + 5 ft./2 levels)<br /><b>Target<\/b> One creature/level, no two of which can be more than 30 ft. apart<\/p><p class=\"divider\">EFFECT<\/p><p>This spell functions like <i>owl's wisdom<\/i>, except that it affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体枭之睿智",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个生物, 任意两者之间的距离不超过30尺",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=owl's wisdom\">枭之睿智 (owl's wisdom)<\/a>’一般，不过它可以影响复数生物。<\/p>",
+    "source": "CRB"
+}

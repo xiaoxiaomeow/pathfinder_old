@@ -1,0 +1,30 @@
+{
+    "key": "touch injection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-injection/",
+    "name": "Touch Injection",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "psychic": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You must hold an elixir, infused extract, poison, or potion in hand as you cast this spell. The held substance drains from its container into a magical sac in your body. While the spell lasts, you can deliver the substance with a mere touch. To do so to an opponent, you must make a successful melee touch attack. If you hit, the substance takes effect immediately, despite any onset period, and that opponent receives the normal saving throw (if any) against the substance. In the case of a personal infused extract, the opponent receives both a Fortitude save and spell resistance. If you miss, the substance remains in the magical sac for you to use later.<\/p><p>This spell protects you from poison in the sac, but unless you have the poison use class feature, you suffer a 5% chance of exposing yourself to the poison when you first cast the spell. If you roll a natural 1 while attempting to inject the poison into an enemy, you are exposed to it.<\/p>",
+    "mythicText": "Add half your tier to the DC of a poison or potion you inject into another creature with this spell. If you do this with a substance that grants a skill bonus, add your tier to that skill bonus. ",
+    "name_zh": "接触注射",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>在施放该法术时，你必须手持一瓶灌注化合炼成 (infused extract)，灵药 (elixir)，毒素 (poison) 或药水 (potion)。这些液体会在施法后从瓶中转移到你身体里一个魔法形成的囊中。在法术持续时间中，你可以单靠接触就提供这些物质。<\/p><p>要对目标生效，你必须进行一次成功的近战接触攻击。如果命中，液体会立刻生效 (潜伏期无效)，并且对方需要正常进行对应的豁免检定 (如果有)。如果攻击失败，液体会继续储存在魔法囊中，稍后仍可继续使用。<\/p><p>这个法术不会让你被囊中的毒液伤害，不过如果你没有‘用毒’的职业特性，在最初施放该法术时候你有5%的机率让自己中毒。同时，在你尝试给对方注入毒液的接触攻击中如果掷出1，你也会中毒。<\/p>",
+    "source": "UC"
+}

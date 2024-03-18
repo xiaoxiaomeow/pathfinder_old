@@ -1,0 +1,31 @@
+{
+    "key": "undetectable trap",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undetectable-trap/",
+    "name": "Undetectable Trap",
+    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "antipaladin": 2,
+        "occultist": 3,
+        "ranger": 2
+    },
+    "castingTime": "10 minutes (see text)",
+    "components": "V, S, M (a square of black silk worth 50 gp)",
+    "range": "touch",
+    "target": "trap touched",
+    "duration": "1 day/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You shroud a single trap with a powerful illusion to make it more difficult to locate. Spells like detect magic can't locate any magic aura from either the target trap or from <i>undetectable trap<\/i>. Furthermore, a character under the effect of the find traps spell doesn't receive an automatic chance to locate the target trap when she comes within 10 feet of it, and the bonus on Perception checks from find traps doesn't apply to attempts to notice the target trap. Add 1/2 your caster level to the DC for any creature without the trapfinding class ability to notice the target trap with Perception checks.<\/p><p>A ranger with the ranger traps class feature can cast this spell on a ranger trap he creates as part of the same action he uses to prepare a ranger trap. This doesn't reduce the spell's casting time if such a ranger casts this spell on an ordinary trap, even one that he created himself using Craft (traps).<\/p>",
+    "name_zh": "无痕陷阱",
+    "castingTime_zh": "10分钟（见后文）",
+    "components_zh": "语言，姿势，材料（价值50gp的方形黑绸）",
+    "range_zh": "接触",
+    "target_zh": "接触到的陷阱",
+    "duration_zh": "1日/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你用强大的幻象遮盖单个陷阱，让它更加难以被人定位。侦测魔法（detect magic）之类的法术无法定位任何来自目标陷阱或无痕陷阱法术的魔法灵光。此外，处于寻找陷阱（Find Traps）法术影响下的角色在位于目标陷阱10尺距离之内时，不会获得自动定位目标陷阱的机会，而且寻找陷阱为察觉检定提供的加值无法应用在察觉目标陷阱的尝试中。若尝试以察觉检定发现目标陷阱的生物不具有寻找陷阱（Trapfinding）职业能力，那么将你的施法者等级的一半加到该检定的DC上。\n具有游侠陷阱（Ranger Traps）职业能力（出自UM 64页）的游侠能够在准备1个游侠陷阱时，以相同动作的一部分对1个游侠陷阱施放该法术。若此类游侠将该法术施放至1个普通陷阱（ordinary trap）上的话，则法术的施法时间并不会因此而缩短，即便这个陷阱是由他亲手以工艺（陷阱）技能制作也无法缩短施法时间。<\/p>",
+    "source": "UI"
+}

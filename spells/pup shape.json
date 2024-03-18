@@ -1,0 +1,30 @@
+{
+    "key": "pup shape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pup-shape/",
+    "name": "Pup Shape",
+    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one animal",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (and Will special, see text)",
+    "spellResistance": "yes",
+    "text": "<p>You transform the subject animal into a Small magical beast (or a magical beast one size category smaller than the original creature, whichever is smaller), creating a young magical version of itself for a short period of time. While in this form, the target has only 1 HD (maximum hit points), and the target takes a –4 penalty to Strength, Constitution, Intelligence and Wisdom (minimum 1). The creature also gains a +4 size bonus to Dexterity and a +2 natural bonus.<\/p><p>Any nonevil creature that attempts to attack a creature in this form must succeed at a Will saving throw (using the DC of the spell) to overcome feelings of guilt and protectiveness toward the young and innocent-seeming creature. On a failed saving throw, it cannot follow through with the attack, that part of the action is lost, and it can't directly attack the transformed creature for the duration of the spell or until the spell's target attacks it. This part of the spell is a mind-affecting (emotion) effect. Evil creatures have no qualms about attacking the target of this spell, in fact, some particularly heinous creatures might go out of their ways to do the target harm.<\/p>",
+    "name_zh": "动物萌化",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (一个布偶)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一只动物或魔法兽",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效 (和意志，特殊；见下文)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将目标生物变形为一只小型魔法兽，在魔法的短暂持续时间中被视为它的幼年加上魔法兽模板。<\/p><p>在这种形态下，目标只拥有一个HD (取满)，力量、体质、智力和感知都获得-4罚值 (最小为1)。目标生物同时获得+4敏捷的体型加值和+2天生护甲。<\/p><p>任何试图攻击这种形态下的目标的生物，都必须进行一次意志检定 (使用本法术DC)，以克服内心中对于伤害年幼无辜小生命的罪恶和内疚感。如果豁免失败，此次攻击失败并且动作并浪费，并且在法术剩余持续时间中都不能攻击或使用法术伤害受术生物。法术的这部分效果是一个影响心灵的效果。<\/p><p>邪恶阵营的生物可以没有任何顾虑的伤害受术生物。此外，一些性质特殊的生物可能以他们自己的方式使目标生物受到伤害。<\/p>",
+    "source": "UC"
+}

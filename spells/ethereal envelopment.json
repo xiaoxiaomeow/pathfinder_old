@@ -1,0 +1,30 @@
+{
+    "key": "ethereal envelopment",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-envelopment/",
+    "name": "Ethereal Envelopment",
+    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "psychic": 7,
+        "spiritualist": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (empty crystal box)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates, see text",
+    "spellResistance": "yes",
+    "text": "<p>This spell is similar to <i>ethereal envelope<\/i>, but it allows you to shunt an unwilling creature to the Ethereal Plane and seal it there within a cocoon of misty ethereal fibers. If the target fails its save, it's forced into a cataleptic meditative state as if unconscious. However, each round at the end of its turn, it can attempt a Will save to awaken itself from this meditation.<\/p><p>Once the target awakens, it is considered pinned, treating your caster level as your CMB and your CMD as 10 + your caster level + your ability modifier for your primary spellcasting ability score. A successful grapple combat maneuver check or Escape Artist check leaves the creature grappled rather than pinned but doesn't allow it to escape. However, a trapped creature can attack the cocoon as described in the <i>ethereal envelope<\/i> spell description.<\/p><p>If the creature breaks free of the ethereal envelopment or you dismiss the spell, the target is returned to its prior location on the Material Plane, as described for <i>ethereal envelope<\/i>, but if the target is conscious at the time, it doesn't spend a round asleep or staggered.<\/p>",
+    "name_zh": "灵界封禁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，材料（空水晶盒）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级（可解消）",
+    "savingThrow_zh": "意志，通过则无效；见后文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能类似于灵界睡茧（Ethereal Envelope），不过它允许你将一名非自愿生物移入到灵界位面（Ethereal Plane），并将其封入到由飘渺的灵质所紧紧包裹的茧中。若目标豁免失败，则会被迫进入到僵直的冥想状态，就如同陷入昏迷（unconscious）一般。不过，在每轮中它的回合结束时，能够尝试一次意志豁免将自己从这种状态中唤醒。当目标苏醒过来时，它被视为被压制（pinned），将你的施法者等级作为你的CMB，并将你的CMD视为10 + 你的施法者等级 + 你的主要施法属性的调整值。成功的擒抱战技或逃脱检定能够让该生物变为被擒抱（grappled），而非被压制，但是这并不能让它逃脱。不论如何，被困的生物能够按照灵界睡茧（Ethereal Envelope）中的描述攻击茧。\n若该生物打破灵界封禁，或者你解消该法术，那么目标会返回主物质位面中它原本所在的位置，就如同灵界睡茧（Ethereal Envelope）中的描述一般，但是目标此时是有意识的，不会在几轮内陷入睡眠或恍惚。<\/p>",
+    "source": "OA"
+}

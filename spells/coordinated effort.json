@@ -1,0 +1,30 @@
+{
+    "key": "coordinated effort",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/coordinated-effort/",
+    "name": "Coordinated Effort",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "inquisitor": 3
+    },
+    "subdomains": {"cooperation": 3},
+    "mysteries": {"succor": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Choose a single teamwork feat that you possess. You forge a link with your allies, allowing them to gain the benefits of the chosen feat even if they do not have it themselves. You must be a part of the group qualifying for a given bonus for your allies to gain the benefits. For example, two of your allies flanking an orc would gain no benefit from your Outflank feat, but an ally flanking the orc with you would. Your allies' positioning and actions must still meet the prerequisites listed in the teamwork feat for either of you to receive the listed bonus.<\/p>",
+    "name_zh": "协调行动",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "自己，加上每3个等级1名自愿生物，并且相互之间距离不得超过30尺",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>选择一个你所拥有的团队协作专长。你创造了一道和你的盟友们之间的连接，使他们能够获得该项协作专长的好处，即使他们自己没有这个专长。<\/p><p>你必须作为盟友们获得专长优势的先决条件的一部分。<\/p><p>例如：两个你的盟友正在夹击一个兽人，如果你没有参与夹击，则他们不会从你共享给他们的包抄专长中获得好处；但是一个与你一起夹击兽人的盟友则可以获得该项好处。<\/p><p>你的盟友所处的位置和行动仍然必须满足协作专长的先决条件才能获得上述奖励。<\/p>",
+    "source": "APG"
+}

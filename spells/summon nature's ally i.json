@@ -1,0 +1,30 @@
+{
+    "key": "summon nature's ally i",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-natures-ally/",
+    "name": "Summon Nature's Ally I",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "druid": 1,
+        "ranger": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell summons to your side a natural creature (typically an animal, fey, magical beast, outsider with the elemental subtype, or a giant). The summoned ally appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions as you command.<\/p><p>A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities. Creatures cannot be summoned into an environment that cannot support them. Creatures summoned using this spell cannot use spells or spell-like abilities that duplicate spells that have expensive material components (such as wish).<\/p><p>The spell conjures one of the creatures from the 1st Level list on <b>Table: Nature's Ally<\/b>. You choose which kind of creature to summon, and you can change that choice each time you cast the spell. All the creatures on the table are neutral unless otherwise noted.<\/p><p>When you use a summoning spell to summon a creature with an alignment or elemental subtype, it is a spell of that type. All creatures summoned with this spell without alignment subtypes have an alignment that matches yours, regardless of their usual alignment. Summoning these creatures makes the summoning spell's type match your alignment.<\/p>",
+    "name_zh": "召唤自然盟友 I",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势, 法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一个被召唤的生物",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术会在你的身边召唤一个自然生物 (通常为动物、精类、魔法兽、具有元素亚种的异界生物或者巨人)。被召唤的盟友会在你的回合出现在你指定的位置，并且立即展开行动。它会尽全力攻击你的敌人。如果你能与该生物交流，则能够指示他停止攻击，攻击特定敌人或按照你的命令展开其他行动。<\/p><p>召唤来的怪物无法召唤 (summon) 或者以其他方式呼唤 (conjure) 其他生物，也不能使用传送或位面旅行能力。这些生物不能被召唤到它们无法生存的环境中。被该法术召唤的生物无法使用法术或类法术能力来复制那些具有昂贵材料成分的法术 (如祈愿术)。<\/p><p>该法术可召唤出召唤自然盟友表格中1环列表内的一个生物。你可以选择要召唤的生物，而且每次施法时都可以改变选择。除非另有标注，表格中的所有生物均为绝对中立。<\/p><p>当你使用召唤法术来召唤一个具有阵营或元素亚种的生物时，这个法术也会具此种类别。对于该法术所召唤出的不具有阵营亚种的生物，无论它们通常的阵营为何，都会具有与你相同的阵营。召唤这些生物会使得召唤法术的类别与你的阵营相符合。<\/p>",
+    "source": "CRB"
+}

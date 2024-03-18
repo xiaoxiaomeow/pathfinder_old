@@ -1,0 +1,30 @@
+{
+    "key": "shadow evocation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-evocation/",
+    "name": "Shadow Evocation",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "see text",
+    "effect": "see text",
+    "duration": "see text",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "yes",
+    "text": "<p>You tap energy from the Plane of Shadow to cast a quasi-real, illusory version of a sorcerer or wizard evocation spell of 4th level or lower. Spells that deal damage have normal effects unless an affected creature succeeds on a Will save. Each disbelieving creature takes only one-fifth damage from the attack. If the disbelieved attack has a special effect other than damage, that effect is one-fifth as strong (if applicable) or only 20% likely to occur. If recognized as a <i>shadow evocation<\/i>, a damaging spell deals only one-fifth (20%) damage. Regardless of the result of the save to disbelieve, an affected creature is also allowed any save (or spell resistance) that the spell being simulated allows, but the save DC is set according to <i>shadow evocation'<\/i>s level (5th) rather than the spell's normal level.<\/p><p>Non-damaging effects have normal effects except against those who disbelieve them. Against disbelievers, they have no effect.<\/p><p>Objects automatically succeed on their Will saves against this spell.<\/p>",
+    "name_zh": "幽影塑能术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "见后文",
+    "effect_zh": "见后文",
+    "duration_zh": "见后文",
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你从阴影位面吸取能量，来施放一个不超过4环的术士或法师的塑能系法术的幻术系版本。除非受影响的生物成功通过意志豁免，否则法术会造成正常效果的伤害。不相信的生物只受到1/5的伤害。若该法术还有非伤害性效果，在生物不相信的情况下，仅产生1/5法术效果或仅有20%的机率发生。若被辨识出是幽影塑能术，则伤害性法术只造成1/5 (20%) 的伤害。无论受术者是否通过意志检定，只要该法术允许，都可以对模拟出的法术进行豁免检定 (或使用法术抗力)，但是豁免DC由幽影塑能术 (5环) 决定，而非它本来的环位。<\/p><p>非伤害性法术造成正常效果，除非受术者不信。若受术者不信，则法术无效<\/p><p>所有物体都可视作自动通过意志检定。<\/p>",
+    "source": "CRB"
+}

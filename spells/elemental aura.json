@@ -1,0 +1,45 @@
+{
+    "key": "elemental aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-aura/",
+    "name": "Elemental Aura",
+    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "acid",
+        "cold",
+        "electricity",
+        "or fire"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 3,
+        "bloodrager": 3,
+        "magus": 3,
+        "sorcerer/wizard": 3
+    },
+    "elementalSchools":     {
+        "air": 3,
+        "earth": 3,
+        "fire": 3,
+        "water": 3
+    },
+    "bloodlines": {"boreal": 3},
+    "mysteries": {"elemental": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>This spell forms an aura of energy around you, damaging all those that come near you. Choose an energy type: acid, cold, electricity, or fire. Creatures adjacent to you when this spell is cast and at the start of your turn take 2d6 points of energy damage of the selected type. This aura has an additional effect, depending upon the type of energy chosen.<\/p><ul><li><b>Acid<\/b>: Creatures affected by your aura take 1 point of ongoing acid damage per round for 1 round per three caster levels, and are sickened for the duration of the ongoing acid damage.<\/li><li><b>Cold<\/b>: Creatures affected by your aura are fatigued. A creature that is already fatigued suffers no additional effect.<\/li><li><b>Electricity<\/b>: Creatures affected by your aura are staggered for 1 round.<\/li><li><b>Fire<\/b>: Creatures affected by your aura catch on fire.<\/li><\/ul><p>Creatures adjacent to you are allowed a Reflex save to halve the damage and negate the additional effect. The aura's additional effects do not stack if a creature takes damage from your aura multiple times. You may only have one <i>elemental aura<\/i> in effect at one time. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.<\/p>",
+    "name_zh": "元素光环",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一道能量光环环绕于你，对靠近你的生物造成伤害。<\/p><p>选择一种能量类型：酸、冷、电或火。在法术施放时和每轮当你行动时，邻接你的生物都会受到选定能量种类的2d6点伤害。<\/p><p>依照你选定的能量类型，光环还会给它们带去一种附加效果。<\/p><p>酸：受光环影响的生物将会每一轮受到1点额外酸液伤害，并且陷入恶心 (sickened) 状态，持续每等级一轮<\/p><p>冷：受光环影响的生物将会疲乏。如果一个生物已经疲乏，它不会受到进一步影响。<\/p><p>电：受光环影响的生物将会困惑 (staggered) 一轮。<\/p><p>火：受光环影响的生物将会将会被点燃。<\/p><p>邻接你的生物可以进行一次反射检定以减半伤害并且免疫附加效果。<\/p><p>即使一个生物被你的光环伤害了多次，附加效果也不会生效复数次。<\/p><p>你同一时间只能拥有一种元素光环效果。此外，本法术的描述符依照你选定的能量类型而定。<\/p>",
+    "source": "APG"
+}

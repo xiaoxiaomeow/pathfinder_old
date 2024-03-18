@@ -1,0 +1,30 @@
+{
+    "key": "imbue with elemental might",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/imbue-with-elemental-might/",
+    "name": "Imbue with Elemental Might",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors": ["see text"],
+    "levels":     {
+        "bloodrager": 2,
+        "cleric": 2,
+        "magus": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "duration": "24 hours or until discharged (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell functions like imbue with spell ability, except you transfer the use of your elemental assault ability to the target. The target must have an Intelligence score of at least 5 to use the ability. The imbued elemental assault functions exactly like yours, except the ability's duration is based on the target's level or Hit Dice. Once you cast this spell, you cannot use your elemental assault ability until the duration of the spell is over.<\/p>",
+    "name_zh": "元素力量灌输",
+    "race_zh": "巨灵裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "duration_zh": "24小时或直到能量散发 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>除了你将你的【元素攻袭】能力转移至目标以外，该法术的作用方式如同‘法术灌输 (Imbue with Spell Ability) ’一般。目标的智力属性必须至少达到5才能使用该能力。除了元素灌输能力的持续时间以目标的等级或生命骰计算以外，灌入的元素攻袭的效果和你的一样。一旦你施放该法术，在法术的持续时间结束之前你无法使用自己的元素攻袭能力。<\/p>",
+    "source": "ARG"
+}

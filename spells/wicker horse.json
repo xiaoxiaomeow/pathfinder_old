@@ -1,0 +1,33 @@
+{
+    "key": "wicker horse",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wicker-horse/",
+    "name": "Wicker Horse",
+    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "religion": "unchained",
+    "levels":     {
+        "occultist": 2,
+        "shaman": 2,
+        "summoner": 2,
+        "witch": 2
+    },
+    "castingTime": "10 minutes; see text",
+    "components": "V, S, M/DF (a reed or twig)",
+    "range": "touch",
+    "effect": "a horselike wicker construct",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Reeds, grasses, creepers, or thin tree branches (your choice) that you touch animate, twisting and bending to form a wicker horse complete with a riding saddle. The object is animated, but retains a wickerlike appearance.<\/p><p>A wicker horse has the statistics of a light horse or a pony, except it gains construct traits and counts as both an animal and a construct for the purposes of spells and effects. It gains a number of extra hit points equal to your caster level. It has no skills or feats except as noted below.<\/p><p>A horse made of reeds gains a number of Swim ranks equal to your caster level. A horse made of grasses gains the Run feat and a number of Acrobatics ranks equal to your caster level. A horse made of creepers gains a number of ranks in Climb and Stealth equal to your caster level. A horse made of tree branches is continually affected by barkskin, as cast by a magic-user with a caster level equal to yours.<\/p><p>The wicker horse does not follow any commands given with the Handle Animal skill, and only you can ride it. You can cast this spell only in an environment where suitable plant material is available. When the spell ends or the horse loses all its hit points, the horse falls apart.<\/p>",
+    "name_zh": "柳条马",
+    "castingTime_zh": "10分钟；见下",
+    "components_zh": "语言、姿势、材料/法器 (一条芦苇或树枝)",
+    "range_zh": "接触",
+    "effect_zh": "a horselike wicker construct",
+    "duration_zh": "1小时/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>芦苇、青草、蔓生植物或着细树枝(由你选择)被你赋予活力，扭曲缠绕形成一匹完整的柳条马与一套坐骑鞍座。此物体是有生命的，但它保留了柳条状的外观。\n一匹柳条马有着一匹轻型马或一匹矮种马的数据，除了它获得构装体特性，以及在被法术当作目标时，同时算做动物与构装体。它获得等同于你施法者等级的额外生命值。除了下面所写的，它没有技能与专长。\n一匹由芦苇做的马获得等同于你施法者等级的游泳技能等级。一匹由青草做的马获得飞跑(Run)专长以及等同于你施法者等级的特技技能等级。一匹由蔓生植物做的马获得等同于你施法者等级的攀爬与隐匿技能等级。一匹由细树枝做的马持续的受到树肤术(barkskin)影响，如同一个有着等同你施法者等级的施法者对其施法。\n此柳条马不会遵从由驯养动物技能给出的任何指令，并且只有你能骑它。你只能在有适合可用的植物材料的环境中施展此法术。当此法术结束或这匹马失去所有生命值时，此马分崩离析。<\/p>",
+    "source": "VC"
+}

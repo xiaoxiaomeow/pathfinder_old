@@ -1,0 +1,30 @@
+{
+    "key": "scorching ash form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scorching-ash-form/",
+    "name": "Scorching Ash Form",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (a bit of gauze and a handful of ashes)",
+    "range": "touch",
+    "target": "willing corporeal creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. The target gains the fire subtype. Any creature that begins its turn sharing a space with the target takes 2d6 points of fire damage and must make a Fortitude save (DC 15, + 1 per previous check) or suffer the effects of smoke inhalation.<\/p>",
+    "name_zh": "焚云形态",
+    "race_zh": "火元素裔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势, 材料 (一段薄纱和一把灰烬)",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的作用方式和‘气化形体 (gaseous form) ’一样，除了目标变化为可以看到的烟与粉尘组成的灼热漩涡而非透明缥缈的无害雾气。目标获得火系亚种。如果任何生物在自身的回合开始时与其共享一片空间的话，会受到2d6点火焰伤害，并且必须进行一次成功的强韧豁免检定 (DC 1 5, 每次检定再+1) 否则将会受到吸入浓烟的影响。<\/p>",
+    "source": "ARG"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "ward of the season",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/ward-of-the-season/",
+    "name": "Ward of the Season",
+    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "druid": 3,
+        "ranger": 3,
+        "shaman": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "text": "<p>This spell harnesses the power of the seasons to protect the target and grant a number of bonuses. This spell has one of four different effects. The caster of the spell can select any one of the following four effects, but can change the effect as a standard action that reduces the total remaining duration by 1 hour.<\/p>",
+    "name_zh": "四季之守护",
+    "race_zh": "精灵",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "接触",
+    "target_zh": "一名生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "否",
+    "text_zh": "<p>该法术能够驾驭四季的力量以保护目标，并且给予一些奖励。该法术拥有四种不同的效果。施放者能够从下列四种效果中选择一个，并且可以通过降低1小时总持续时间以一个标准动作切换效果。<\/p><p>春：目标被发光的藤蔓所包裹，最后这些藤蔓会形成一个明亮、美丽的花冠。只要法术效果存在，目标就能够免疫出血效果。并且只要目标存活，在生命值低于0时每回合恢复1点生命值，该效果会使目标伤势稳定。以该方式每恢复1点生命值，法术的总持续时间减少1小时。<\/p><p>夏：目标被光之尘所环绕。只要法术效果存在，目标的基本速度提高10尺。目标可以通过降低1小时法术的总持续时间使自己的基本速度提高30尺，持续1轮。<\/p><p>秋：由秋叶组成的披风出现在目标身上。只要法术效果存在，目标的强韧豁免就会获得+2士气加值。目标可以通过降低1小时法术的总持续时间使自身在一次对抗疾病或毒素的强韧豁免中掷骰两次，并且取较好的结果。<\/p><p>冬：清新的空气以及飘扬的雪花围绕着目标。只要法术效果存在，目标在光滑或狭窄平面上进行移动，并使用特技检定避免摔倒时能够自动成功。目标可以通过降低1小时法术的总持续时间使自己能够在困难地形中自由移动，持续1轮。魔法效果造成的困难地形如常影响目标。<\/p>",
+    "source": "ARG"
+}
