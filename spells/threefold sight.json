@@ -1,0 +1,31 @@
+{
+    "key": "threefold sight",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-sight/",
+    "name": "Threefold Sight",
+    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "arcanist": 3,
+        "bard": 3,
+        "medium": 3,
+        "occultist": 3,
+        "psychic": 3,
+        "skald": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a three-pointed knot)",
+    "range": "personal",
+    "target": "you",
+    "duration": "3 min.s",
+    "text": "<p class=\"description\">You view several possible futures at once, allowing you to thread a needle around disasters by taking a middle path.<\/p><p>For the duration of this spell, whenever you roll for an attack, saving throw, or skill check, roll three d20 and use the middle of the three rolls (or the highest, if more than one die shows the same highest value, or the lowest, if more than one die shows the same lowest value). If another ability would make you roll an attack roll, saving throw, or skill check twice and take the higher result, roll twice and take the lower result, or reroll, that ability has no effect and threefold sight ends immediately.<\/p>",
+    "name_zh": "三相之视",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，材料/法器（一个三端之结）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "3分钟",
+    "text_zh": "<p>你可以同时观察着数个可能的未来，这可以让你通过选择一条居中的道路来在灾难中绝境逢生。在法术的持续时间内，当你投一个攻击骰，豁免，或者技能检定时，投三次d20使用三者居中的作为最终结果（或者最高的，如果多于一个骰子出现了相同最高数目，又或者是最低的，如果多于一个骰子出现了相同的最低数目）。如果有其他能力让你在投攻击骰，豁免，或者技能检定时双骰取高或双骰取低，这个能力在不会生效而三相之视将会立即结束。\n时光法术TEMPORAL SPELLS \n下列法术运用了夏依卡对于时间的掌握。夏依卡的牧师将三相APG作为4环法术加入到他们的法术列表中。他们也能将时间分歧和时间回溯（见31页）作为8环法术加入到他们的法术列表中。<\/p>",
+    "source": "PC-LotFW"
+}

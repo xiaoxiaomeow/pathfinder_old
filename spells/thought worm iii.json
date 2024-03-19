@@ -1,0 +1,16 @@
+{
+    "key": "thought worm iii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thought-worm-i/",
+    "name": "Thought Worm III",
+    "base": "thought worm i",
+    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 4},
+    "savingThrow": "Will partial (see text)",
+    "text": "<p>This functions as per <i>thought worm II<\/i>, except a target that succeeds at its Will save still takes a –2 penalty on Will saves against your mind-affecting spells and effects for the same duration. This spell can be undercast.<\/p>",
+    "name_zh": "精神蛀虫 III",
+    "text_zh": "<p>该法术的功能如同精神蛀虫II一般，除了目标在成功通过该法术意志豁免时，其意志豁免依然会在相同的持续时间内承受-2减值。该法术可以被降阶施法。<\/p>",
+    "source": "PC-PA"
+}

@@ -1,0 +1,24 @@
+{
+    "key": "phantom hunt",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-hunt/",
+    "name": "Phantom Hunt",
+    "book": "Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 4,
+        "ranger": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal (see text)",
+    "target": "you and one animal companion within 30 ft.",
+    "duration": "1 hour/level (d)",
+    "text": "<p>You affect yourself and a single animal companion within 30 feet of you. Both you and the animal companion gain darkvision to 100 feet, tremorsense to 20 feet, and a 40-foot enhancement bonus to movement. Furthermore, you can track while moving at full speed without taking any penalty. If you already have the ability to track at full speed, you gain a +4 bonus on Survival checks while tracking instead.<\/p><p>The duration of this spell immediately ends if you or the animal companion attack another creature or are attacked by another creature.<\/p>",
+    "name_zh": "幽影狩猎",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "target_zh": "你与一名在30呎内的动物伙伴",
+    "duration_zh": "1小时/等级 (D)",
+    "text_zh": "<p>你影响自己与30尺内你的一位动物伙伴。你与你的动物伙伴皆获得100呎的黑暗视觉、20呎的震颤感知，以及在移动速度上获得40呎的增强加值。此外，你可以以全速进行追踪并且不受任何罚值。如果你已经有了进行全速追踪且不受罚值的能力，取而代之，你在追踪时鱼生存检定上获得+4加值。\n在此法术的持续时间内，如果你或你的动物伙伴攻击另一个生物，或是被另一个生物所攻击，那此法术立即结束。<\/p>",
+    "source": "PC-ACO"
+}

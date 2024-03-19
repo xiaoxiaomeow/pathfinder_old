@@ -1,0 +1,29 @@
+{
+    "key": "vigor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vigor/",
+    "name": "Vigor",
+    "book": "Pathfinder Companion: Orcs of Golarion. Copyright 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "adept": 0,
+        "cleric/oracle": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "duration": "1 min. or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>This spell infuses the subject with a small surge of strength.<\/p><p>The creature gets a +1 competence bonus on a single melee damage roll. It must choose to use the bonus before making the roll to which it applies. Ranged or spell attacks are unaffected by this spell.<\/p>",
+    "name_zh": "活力术",
+    "race_zh": "兽人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "被碰触的生物",
+    "duration_zh": "1分钟或直至发散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术向受术者注入一小股力量之潮。该生物在一次单一近战伤害骰上获得+1表现加值。他必须在投骰前决定是否应用此加值。远程或法术攻击并不受此法术影响。<\/p>",
+    "source": "PC-OoG"
+}

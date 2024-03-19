@@ -1,0 +1,29 @@
+{
+    "key": "die for your master",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/die-for-your-master/",
+    "name": "Die for Your Master",
+    "book": "Pathfinder Player Companion: Animal Archive © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "levels":     {
+        "antipaladin": 4,
+        "druid": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "your animal companion, familiar, or fiendish servant",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell allows your companion or familiar to intercept any attack that targets you, including those that do not require attack rolls (e.g., chain lightning, hold monster, and magic missile).<\/p><p>Your companion or familiar cannot intercept effects that do not affect creatures of its type (e.g., dominate person).<\/p>",
+    "name_zh": "为主而亡",
+    "castingTime_zh": "直觉动作",
+    "range_zh": "接触",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同为主而伤（Bleed For Your Master）一般，不过它允许你的动物伙伴或者魔宠抵挡任何以你为目标的攻击，包括那些不需要攻击检定的攻击（例如连环闪电[chain lightning] ，怪物定身术[hold monster] 以及魔法飞弹[magic missile] ）。你的动物伙伴或魔宠无法阻挡那些对其生物类型无效的效果（例如支配人类[dominate person] ）。<\/p>",
+    "source": "PC-AArch"
+}

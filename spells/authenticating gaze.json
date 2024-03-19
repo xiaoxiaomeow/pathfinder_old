@@ -1,0 +1,26 @@
+{
+    "key": "authenticating gaze",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/authenticating-gaze/",
+    "name": "Authenticating Gaze",
+    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 1,
+        "cleric": 1,
+        "inquisitor": 1,
+        "occultist": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF/M (a miniature magnifying glass or spectacles)",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>Your understanding of the written word becomes analytical and discerning. You gain an insight bonus equal to your caster level (maximum +10) on Appraise checks to determine the value of books and scrolls and on Linguistics checks to detect forgeries, and you can attempt a Linguistics check to detect a forged document at a glance, rather than taking the normal 1 round of examination per page. In addition, you immediately detect whether written works within 30 feet and within your line of sight have a magical aura and the strength of any such auras, as though you had concentrated on each written work for 1 round using detect magic.<\/p>",
+    "name_zh": "鑑识视线",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器/材料 (一个微型放大镜或眼镜)",
+    "range_zh": "自身",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你对于书写文字的理解更加擅长与敏锐。你在评估书本与卷轴价值的估价检定，以及辨认伪造的语言学检定上，获得等同你施法者等级(最大为+10)的内在加值，只需你一瞥，就可以尝试检定辨认伪造的语言学检定，而非正常的每页1轮来检查。此外，你可以立即检测位于你30尺内或是在你视线范围内的书写文字，你可以看出是否有魔法灵光以及任何种类灵光的强度，就好像你使用侦测魔法专注于每一个书写文字上1轮一样。<\/p>",
+    "source": "PC-BM"
+}

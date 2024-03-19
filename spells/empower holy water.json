@@ -1,0 +1,31 @@
+{
+    "key": "empower holy water",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/empower-holy-water/",
+    "name": "Empower Holy Water",
+    "book": "Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "paladin": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one or more vials of holy water",
+    "duration": "1 min./level",
+    "savingThrow": "none (object)",
+    "spellResistance": "no",
+    "text": "<p>You empower a vial of holy water to deal additional damage to undead creatures. You can empower one vial of holy water at 4th level, two at 8th level, and three at 12th level. When thrown at an undead creature, the affected vial of holy water deals an amount of bonus damage equal to your caster level (maximum +10) on a direct hit, and half that amount of bonus damage (maximum +5) to creatures caught in the splash area. This additional damage is positive energy damage, and has no effect on living creatures.<\/p>",
+    "name_zh": "强效圣水",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "一或多份圣水",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无（物体）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你增强了圣水的效力，它们可以对不死生物造成更大的伤害。你4级时可以增强1份圣水，8级时增强2份，12级时可以增强3份。增强圣水直接命中的不死生物受到的伤害增加等同于施法者等级的点数（最大+10），泼溅范围内的单位受到的伤害增加施法者等级的一半（最大+5）。该额外伤害是正能量伤害，对活物无效。<\/p>",
+    "source": "PC-USH"
+}

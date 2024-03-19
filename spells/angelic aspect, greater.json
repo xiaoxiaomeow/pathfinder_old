@@ -1,0 +1,25 @@
+{
+    "key": "angelic aspect, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/angelic-aspect/",
+    "name": "Angelic Aspect, Greater",
+    "base": "angelic aspect, lesser",
+    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 8,
+        "paladin": 4,
+        "sorcerer/wizard": 8
+    },
+    "text": "<p>This spell functions like <i>lesser angelic aspect<\/i>, except you gain low-light vision; darkvision 60 feet; DR 10/evil; immunity to acid, cold, and petrification; resistance to electricity and fire 10; a +4 racial bonus on saves against poison; and protective aura and truespeech as supernatural abilities for the duration of the spell. Also, your wings give you a fly speed of 60 feet with good maneuverability.<\/p><p>Protective aura provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws against attacks made or effects created by evil creatures to anyone within 20 feet. Otherwise, it functions as a magic circle against evil and a lesser globe of invulnerability, both with a radius of 20 feet.<\/p><p>Truespeech allows you to speak with any creature that has a language, as though using the tongues spell.<\/p><\/div>",
+    "name_zh": "高等天使之颜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "target_zh": "自己",
+    "area_zh": "锥状爆发",
+    "duration_zh": "1分钟/级（D）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "无",
+    "text_zh": "<p>听到如同号角亚空的号声般强大的回响，区域内所有生物麻痹1d4轮。<\/p>",
+    "source": "PC-CoP"
+}

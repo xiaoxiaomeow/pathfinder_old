@@ -1,0 +1,30 @@
+{
+    "key": "mind over matter",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-over-matter/",
+    "name": "Mind Over Matter",
+    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "mesmerist": 2,
+        "psychic": 2,
+        "spiritualist": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>You blur the lines between mind and body, reassigning ability damage or drain your target has taken to a corresponding ability score, as per the following table.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Physical Ability Score<\/th>    <th class=\"text\">Mental Ability Score<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Strength<\/td>    <td class=\"text\">Intelligence<\/td>   <\/tr>   <tr>    <td class=\"text\">Dexterity<\/td>    <td class=\"text\">Wisdom<\/td>   <\/tr>   <tr>    <td class=\"text\">Constitution<\/td>    <td class=\"text\">Charisma<\/td>   <\/tr>  <\/tbody> <\/table><p>The transfer of damage can go either way—you can convert Intelligence damage to Strength damage and vice versa. You can transfer any number of points of damage or drain in a single casting, though only from one ability score to the corresponding ability score. You cannot transfer enough ability damage or drain to reduce an ability score to 0.<\/p>",
+    "name_zh": "精神胜于物质",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "一名生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你模糊了心灵与肉体之间的界线，重新分配对你敌人对你造成属性伤害或吸取，至相对应的属性值，按照下表。\n身体属性值   心灵属性值\n力量      智力\n敏捷      感知\n体质      魅力\n转移的伤害是可以双向的─你可以将智力伤害改变成力量伤害，反之亦然。你能够在一次施法中转移任何数量的伤害或吸取伤害，但只能从一种属性值转移到另一种相对应的属性值上。你不能转移足够让属性值减为0的属性伤害或吸取。<\/p>",
+    "source": "PC-OO"
+}

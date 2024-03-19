@@ -1,0 +1,26 @@
+{
+    "key": "threefold form",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-form/",
+    "name": "Threefold Form",
+    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "druid": 9,
+        "psychic": 9,
+        "witch": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a green, three-pointed knot made of mithral worth 729 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "9 rounds",
+    "text": "<p class=\"description\">You pull forth idealized versions of yourself at various ages from your mind, splitting into three copies of yourself.<\/p><p class=\"description\">Threefold form functions as <em>bilocation<\/em>, except there are three of you instead of two, and each of the three bodies is under the effect of threefold aspect with a different idealized age. Other than the differences from threefold aspect, each body shares all other effects with you, as normal for bilocation.<\/p>",
+    "name_zh": "三重形态",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，器材（一个由秘银制成的价值729gp的绿色三端之结）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "9轮 ",
+    "text_zh": "<p>你从你的脑海中唤出了你在不同年龄下最理想的样子，并将其分成三个你的复制品。三重形态和二重分身（开拓者RPG异能冒险 158）的效果差不多，但是将会出现三个你而不是两个，这三副躯体都处在三相APG的效果之下，每一个都处于不同的理想年龄。除开三相带来的影响外，每一个身体都拥有所有影响着你的效果，就如同一般的双重分身一样。<\/p>",
+    "source": "PC-LotFW"
+}

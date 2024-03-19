@@ -1,0 +1,33 @@
+{
+    "key": "fairness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fairness/",
+    "name": "Fairness",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid creature per level",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Humanoid creatures affected by this spell must trade fairly with others to the best of their knowledge. If they know the fair value (or even an estimated fair value) of a good or service, they cannot participate in a trade if it would benefit one side unfairly, and must attempt to stop such trades from occurring, preventing them from cheating another while under the influence of this spell.<\/p><p><b>Note<\/b> This spell is associated with a particular deity. The caster must worship the associated deity. The symbol of the associated deity appears above the heads of those affected by this spell, making those affected and unaffected by the spell immediately apparent.<\/p>",
+    "name_zh": "童叟无欺",
+    "race_zh": "阿巴达尔",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个人型生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>被这个法术所影响的人型生物将被迫以他们所知尽可能合理的价格进行货物交易或提供服务（或者至少是他们所知最接近“合理”的价格）。在法术的作用下，他们无法在交易中使得单方获得不当的暴利也不能欺骗交易对象。在法术生效时，一个阿布达尔的圣徽将出现在受影响者的前额，使在场所有人都可以知道他们是否在本法术的监控之下。<\/p>",
+    "source": "PC-FoB"
+}

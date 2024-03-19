@@ -1,0 +1,32 @@
+{
+    "key": "shared suffering",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shared-suffering/",
+    "name": "Shared Suffering",
+    "book": "Pathfinder Player Companion: Champions of Corruption © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "antipaladin": 2,
+        "inquisitor": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, F (a silver dagger inlaid with onyx and jade worth 100 gp)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one living creature",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p><i>You infuse a dagger with necromantic energy, then plunge it into your own body.<\/i><\/p><p>You take 1d6 points of negative energy damage plus 1d6 points of damage for every 2 caster levels you possess beyond 1st (to a maximum of 5d6 at 9th level). The target takes an amount of damage equal to the damage you took this way, plus an amount equal to your Intelligence modifier (if you're a witch or wizard), Wisdom modifier (if you're an inquisitor), or Charisma modifier (if you're an antipaladin or sorcerer).<\/p><p>Damage from this spell cannot be divided by effects such as shield other or unwilling shield; it cuts through such protections completely.<\/p>",
+    "name_zh": "分担痛苦",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、器材 (镶有玛瑙与翡翠的银匕首，价值100gp)",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一名活物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向一把匕首注入死灵性能量，接着将这把匕首插入你自己的身体内。你受到1d6点负能量伤害，再加上从1级后，你每拥有两个施法者等级/1d6点的伤害(最大在9等时，5d6)。目标会受到等同你用这种方式所造成的伤害，再加上等同你智力调整值(如果你是一名女巫或法师)、感知调整值(如果你是一名审判者)、或魅力调整值(如果你是一名反圣武士或术士)的伤害。\n用此法术所造成的伤害，无法被像是护卫他人(shield other)或强迫护卫(unwilling shield)APG等效果分割；它能完全穿过这种保护。<\/p>",
+    "source": "PC-CoC"
+}

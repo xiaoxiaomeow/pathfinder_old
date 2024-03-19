@@ -1,0 +1,32 @@
+{
+    "key": "snow shape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/snow-shape/",
+    "name": "Snow Shape",
+    "book": "Pathfinder Player Companion: Humans of Golarion. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["water"],
+    "levels":     {
+        "cleric": 2,
+        "druid": 1,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a miniature shovel)",
+    "range": "touch",
+    "target": "snow or snow-sculpted object touched, up to 5 cubic ft. + 1 cubic ft./level",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p><i>In frozen northern lands, where the earth may be hidden beneath heavy drifts of snow, druids have developed a variation of stone shape that other spellcasters have since learned.<\/i><\/p><p>You can form a mass of snow into any shape that suits your purpose, as per the spell stone shape. While it's possible to make crude objects with snow shape, most fine details aren't possible. However, a successful Craft (weapons) check allows you to create a bladed weapon from the snow. The DC of this check is equal to the DC listed with the Craft (weapons) skill. You must be the one to make the Craft check and must do so at the time of casting this spell. A failed check means that the spell is cast normally but the weapon created is malformed and useless. This spell can only be used to craft weapons and not more precise tools or elaborate armors.<\/p><p>Once you create the item with this spell, it solidifies into super-hard ice, gaining a hardness of 5 and 10 hit points per inch of thickness. This weapon takes double damage from fire. Anyone using an ice weapon takes a –2 penalty on attacks due to the slippery, unwieldy nature of the weapon, but the weapon deals 1 point of cold damage in addition to its normal damage. A weapon created by this spell lasts for 24 hours before melting into uselessness.<\/p>",
+    "name_zh": "冰雪塑形",
+    "race_zh": "乌尔芬人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一个小型铲)",
+    "range_zh": "接触",
+    "target_zh": "被接触的雪或冰雕物体，至多5立方公尺+1立方公尺/等级",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>在寒冷的北方大陆，大地被深藏在厚重的飘雪之下，乌尔芬的德鲁伊们发明了一种改变石头形状的方法，其它的施法者则从那时开始学得。\n你可以让大量的雪形塑成你想要的形状，就像塑石术(stone shape)。尽管可以用冰雪塑形做出粗糙的物品，但精密的细节是办不到的。但是，成功通过一次手艺(制作武器)检定令你可以创造以雪创作一件有刃武器。这检定的DC等同于在核心手册P.93 手艺(制作武器)技能列表的DC。你必须是那个做手艺检定的人，也必须在施展此法术时做这件事。检定失败意味着此法术正常的施放，但这被创造的武器形状畸形并且毫无用处。此法术只能用来制作武器，不能更进一步的用来做精细的工具或是精密的盔甲。\n当你使用此法术创造一件物品时，它会迅速凝固成非常坚硬的冰，每英吋获得5点硬度与10点生命值。火焰对此武器的伤害双倍计算。因为此武器光滑、且笨重的性质，任何人使用此武器在攻击上成受-2的减値，但此武器会在正常伤害中，额外造成1点寒冷伤害。透过此法术创造的这把武器持续24小时，之后融化无法再用。<\/p>",
+    "source": "PC-HoG"
+}

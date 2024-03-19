@@ -1,0 +1,23 @@
+{
+    "key": "passing fancy, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/passing-fancy/",
+    "name": "Passing Fancy, Mass",
+    "base": "passing fancy",
+    "book": "Pathfinder Player Companion: Spymaster's Handbook © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 4,
+        "mesmerist": 4,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "target": "one living creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions as per <i>passing fancy<\/i> except as noted.<\/p><\/div>",
+    "name_zh": "群体心血来潮",
+    "target_zh": "一个活物/等级，彼此相距不超过30呎",
+    "text_zh": "<p>这种法术如同心血来潮，除了以上区别。<\/p>",
+    "source": "PC-SH"
+}

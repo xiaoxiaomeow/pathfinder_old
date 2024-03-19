@@ -1,0 +1,33 @@
+{
+    "key": "reaper's coterie",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reaper-s-coterie/",
+    "name": "Reaper's Coterie",
+    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "antipaladin": 2,
+        "bloodrager": 2,
+        "cleric": 3,
+        "inquisitor": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "weapon touched",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>The target weapon becomes a reservoir of spiritual energy, fueling its destructive power by drawing in a tiny fragment of the essence of each creature it is used to defeat.<\/p><p>When the targeted weapon is used to reduce a living creature to 0 or fewer hit points, it gains a +1 profane bonus on damage rolls.<\/p><p>This bonus increases by 1 for each creature reduced to 0 hit points or fewer with that weapon, up to a maximum bonus equal to 1/2 your caster level.<\/p>",
+    "name_zh": "收割者之喜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的武器",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>接触到的武器将会成为精力的积蓄池，每一次击倒敌人都会给池子添加一部分毁灭性的力量。每当用该武器将一个活物hp降到0或以下时，该武器的伤害就获得+1亵渎加值。该加值在每一次将活物hp降到0或以下时都会增加1，最高可达1/2你施法者等级数。<\/p>",
+    "source": "PC-MeleeTT"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "gird ally",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gird-ally/",
+    "name": "Gird Ally",
+    "book": "Pathfinder Player Companion: Monster Summoner's Handbook © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 2,
+        "druid": 2,
+        "sorcerer/wizard": 2,
+        "summoner": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one summoned creature you control/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You create a magical field around summoned creatures you control that deflects attacks made against them. The targets gain a deflection bonus to their AC equal to 1 + 1 for every 6 caster levels you possess (maximum +4 deflection bonus at 18th level). A summoner can target his eidolon with this spell.<\/p>",
+    "name_zh": "缚护盟友",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个由你控制的被召唤生物/等级，任两者之间不得相距超过30呎",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造一个环绕着你控制的召唤生物的魔法区域以偏转针对它们的攻击。目标在AC上获得1点外加每6个施法者等级1点的偏斜加值（18级时达到最大+4偏斜加值）。一个召唤师可以以自己的幻灵作为法术目标<\/p>",
+    "source": "PC-MSH"
+}

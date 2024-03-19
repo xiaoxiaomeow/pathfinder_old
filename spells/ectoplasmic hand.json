@@ -1,0 +1,29 @@
+{
+    "key": "ectoplasmic hand",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ectoplasmic-hand/",
+    "name": "Ectoplasmic Hand",
+    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "occultist": 5,
+        "psychic": 5,
+        "spiritualist": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./level)",
+    "effect": "one ectoplasmic appendage",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You draw forth a ghostly, animated hand through the ectoplasmic veil to manipulate objects, attack creatures, and deliver touch spells at a distance. The hand remains tethered to you by tendrils of ectoplasm. The ectoplasmic hand and its tether have hardness 10 and hit points equal to 10 + your caster level. The tether can be damaged or sundered anywhere along its length, ending the spell. The ectoplasmic hand has improved evasion, uses your save bonuses, and has an AC of 24 (+6 natural armor, +8 size). The ectoplasmic hand moves up to 30 feet per round, and on each of your turns you can spend a move action to move it an additional 30 feet. If you spend a swift action, the ectoplasmic hand can make an attack using your base attack bonus, modifying its attack rolls and damage rolls with your spellcasting ability score (the ability score that determines your spell save DCs). It deals 1d6 points of damage with a slam attack, and it can wield any light or one-handed weapon. The ectoplasmic hand threatens and can flank targets.<\/p><p>The ectoplasmic hand can also perform additional functions.<\/p><p style=\"margin-left:40px\"><i>Deliver Touch Spell<\/i>: The ectoplasmic hand can deliver any spell of 6th level or lower that has a range of touch that you cast. You gain a +2 bonus on your melee touch attack roll when doing so.<\/p><p style=\"margin-left:40px\"><i>Manipulate Object<\/i>: The ectoplasmic hand can manipulate unattended objects weighing no more than 5 pounds per caster level, moving them up to 20 feet per round in any direction you desire, to the limits of this spell's range. It can pull levers, open unstuck doors, or knock over objects. If the ectoplasmic hand must attempt a Strength check, it uses your spellcasting ability score as its Strength score. Using the ectoplasmic hand in this way requires you to concentrate and spend any actions you would normally need to use to manipulate the object yourself.<\/p><p style=\"margin-left:40px\"><i>Combat Maneuver<\/i>: You can spend a standard action to command the ectoplasmic hand to perform a bull rush, disarm, drag, steal, or trip combat maneuver against a target creature, using your caster level as its CMB and your spellcasting ability score as its Strength score. The ectoplasmic hand takes no penalties for its size. This action doesn't provoke attacks of opportunity against the ectoplasmic hand.<\/p>",
+    "name_zh": "灵质手",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "effect_zh": "一只灵质附肢",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你穿透灵质的面纱牵引出一只幽魂般，可以活动的手来操纵物体、攻击生物并且在一定距离内传递接触法术。你用灵质触须拴住这只手。灵质手与它的拴绳有10点硬度以及10+你施法者等级的生命值。这栓绳可以再沿着绳长的任何一处被伤害或被破武(sundered)，这会使此法术结束。灵质手有精通反射闪避(improved evasion)，使用你的豁免加值，以及拥有24的AC (+6天生护甲，+8体型)。灵质手每轮至多移动30呎，你每一个回合可以使用一个移动动作来额外移动一次30呎。如果你使用一个迅捷动作，灵质手可以做出一次攻击，使用你的基本攻击加值，用你的施法属性值(所谓施法属性值就是决定你法术DC的那个属性)来调整它的攻击骰与伤害骰。它能使用一次挥击并造成1d6点伤害，并且可以挥舞任何轻型或单手武器。灵质手有威胁范围，并且能夹击目标。\n灵质手还提供额外的用法。\n传递接触法术：灵质手可以传递任何6环或更低环，由你施展范围是接触的法术。当这么做时，你在你的近战接触攻击骰上获得+2加值。\n操纵物体：灵质手可以操纵无主物体，重量不超过每施法者等级/5磅，每轮最多移动他们20呎，方向由你决定，距离极限为此法术的范围。它可以推动操纵杆、打开没被封住的们，或打翻物体。如果灵质手必须尝试一次力量检定，它使用你的施法属性值当作力量属性。用这种方式使用灵质手需要你专注，并且花费正常来说如果是你自己操纵这件物体的话，所要花费的动作。\n战技：你能花费一个标准动作，来命令灵质手对目标生物进行冲撞(bull rush)、卸武(disarm)、托拽(drag)APG、盗取(steal)APG或绊摔(trip)战技，使用你的施法者等级作为它的CMB，并且使用你的施法属性值作为力量属性。灵质手不会因它的体型承受罚值。使用这些动作并不会引发对灵质手的借机攻击。<\/p>",
+    "source": "PC-OO"
+}

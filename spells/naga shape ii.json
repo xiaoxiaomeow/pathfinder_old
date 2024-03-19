@@ -1,0 +1,29 @@
+{
+    "key": "naga shape ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/naga-shape/",
+    "name": "Naga Shape II",
+    "base": "naga shape",
+    "book": "Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 5,
+        "bloodrager": 5,
+        "magus": 5,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you want to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>This spell functions as <i>naga shape I<\/i>. Additionally, if the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, blindsense 30 feet, darkvision 60 feet, low-light vision, compression, constrict, detect thoughts, dreamsight, grab, hypnosis, poison, sneak attack +2d6, and spit.<\/p>",
+    "name_zh": "娜迦形态 II",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（你想要变成的生物的一小块肢体）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/级（D）",
+    "text_zh": "<p>这个法术如同娜迦形态I。另外，如果你呈现的形态具有下列能力，那么你也会获得这些能力：掘地30呎，攀爬90呎，飞行90呎（良好），游泳90呎，盲感30呎，黑暗视觉60呎，昏暗视觉，压缩，紧勒，侦测思想，dreamsight，攫取，催眠，毒素，偷袭+2D6和喷吐。<\/p>",
+    "source": "PC-BotB"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "disrupt link",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disrupt-link/",
+    "name": "Disrupt Link",
+    "book": "Pathfinder Player Companion: Familiar Folio © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 3,
+        "inquisitor": 3,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>The target has her link with her bonded creature temporarily severed. If the subject has a familiar, she loses the benefits of the alertness, deliver touch spells, empathic link, scry on familiar, share spells, and speak with master abilities. If the target has an animal companion, she loses the benefits of the link, share spells, and devotion abilities. The target and her familiar or animal companion also lose any other abilities (such as those from archetypes or feats) that rely on the two having a connection.<\/p>",
+    "name_zh": "联结崩解",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "1个生物和她的动物伙伴、魔宠或其他联结生物（bonded creature），彼此之间的距离不得超过30呎",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>目标与和她具有联结的生物（bonded creature）之间的联系被暂时切断了。若受术者具有魔宠，她会失去警觉（Alertness）、传递接触法术（Deliver Touch Spells）、情感连接（Empathic Link）、探知魔宠（Scry on Familiar）、法术共享（Share Spells）以及与主人交谈（Speak with Master）带来的好处。若目标具有动物伙伴，她会失去链接（Link）、法术共享（Share Spells）以及忠诚（Devotion）能力带来的好处。目标和她的魔宠或动物伙伴也会失去任何其他依赖两者之间联系的能力（比如来自专长或其他变体的能力）。<\/p>",
+    "source": "PC-FF"
+}

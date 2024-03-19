@@ -1,0 +1,31 @@
+{
+    "key": "metabolic molting",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/metabolic-molting/",
+    "name": "Metabolic Molting",
+    "book": "Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 6,
+        "druid": 6,
+        "shaman": 6,
+        "witch": 6
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a valuable gemstone worth at least 250 gp)",
+    "range": "touch",
+    "target": "willing creature or dead body touched",
+    "duration": "see text",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>You encase the willing subject in a jeweled shell that has the same hardness and hit points as 5 inches of iron (hardness 10, hp 150). For 7 days, the subject enters a state of suspended animation (as per temporal stasis), during which it heals from even the most grievous wounds. Each day, the subject regains 5 hit points per Hit Die it has as well as recovering from 2 points of ability damage or ability drain from any ability score of its choice. After 7 days, the shell crumbles away and the subject emerges, its body's severed limbs, broken bones, and ruined organs regrown (as per regenerate).<\/p><p>If the gemstone you use for the component is worth at least 5,000 gp, metabolic molting can bring a target back to life, as long as it has been dead for no more than 1 hour when the spell is cast. When the spell is used on such a creature, the creature comes back to life after 7 days and stabilizes at 0 hit points. A creature brought back to life through metabolic molting gains 1 permanent negative level, or 2 points of Constitution drain if it is 1st level. Like raise dead, this spell can't save creatures slain by death effects.<\/p><\/div>",
+    "name_zh": "蜕皮代谢",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料（至少价值250gp的珍贵宝石）",
+    "range_zh": "接触",
+    "target_zh": "自愿的生物或被接触的尸体",
+    "duration_zh": "见下文",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你将一个自愿的对象用一层宝石装饰的壳包裹起来，这层壳与5英呎厚的铁一样（硬度10，HP150）。对象进入一种暂停画面（如同永恒静滞Temporal Stasis)，持续7天，法术持续时间内对象会恢复即使是最为严重的伤势。每一天，对象可以恢复每HD2点HP或者恢复任意一项他选择的属性的2点属性伤害或者属性吸取。7天后，外壳会碎裂并且暴露出被包裹的对象，他被砍断的肢体，碎裂的骨头和毁坏的器官都会重新长出来（如同再生术regenerate）<\/p><p>如果你用作成分的宝石至少价值5000gp，蜕皮代谢能够复活目标，只要在施法时目标死亡不超过1小时。如果对死亡的生物使用这个法术，那么目标会在7天后复活并且生命值稳定在0。以此方法复活的生物会获得一个永久负向等级，或者如果他是1级的话则获得2点体质吸取。类似死者复活（raise dead），这个法术不能复活被即死效果杀死的生物。<\/p>",
+    "source": "PC-BotB"
+}

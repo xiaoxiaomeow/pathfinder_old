@@ -222,7 +222,7 @@ function loadTransAndSearchElements () {
             levelTranslations[i] = i + "环";
         }
         addBoxes(levelTranslations, document.getElementById("levels"), levelsBoxes, true, false);
-        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Module"], document.getElementById("source"), sourceBoxes, true, true, false);
+        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "CS", "PC", "Mod"], document.getElementById("source"), sourceBoxes, true, true, false);
     }).catch(error => {
         alert('Error: ' + error.message);
     });
@@ -327,7 +327,7 @@ function search() {
         let source = sp["source"];
         let source_legal = false;
         for (i in sourceBoxes) {
-            source_legal |= sourceBoxes[i].checked && sourceBoxes[i].name == source.split(":")[0];
+            source_legal |= sourceBoxes[i].checked && sourceBoxes[i].name == source.split("-")[0];
         }
 
         let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchool_legal && descriptors_legal && levels_legal && source_legal);

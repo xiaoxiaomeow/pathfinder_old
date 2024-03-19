@@ -1,0 +1,32 @@
+{
+    "key": "curative distillation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curative-distillation/",
+    "name": "Curative Distillation",
+    "book": "Pathfinder Player Companion: Healer's Handbook © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "alchemist": 2,
+        "cleric/oracle": 3,
+        "investigator": 2,
+        "warpriest": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (healing herb, alchemical remady, or potion of a healing spell worth at least 50 gp)",
+    "range": "touch",
+    "target": "one living creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Will half (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You concentrate the healing potential of the material component so that it's exceptionally potent and restorative. This spell restores a number of hit points equal to 1d8 + 1 point per caster level (maximum +10) to the target, and also grants the target the benefits of the material component. Roll the hit points restored separately when determining how many total hit points this spell and the material component restore.<\/p>",
+    "name_zh": "疗效升华",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，动作，材料（治疗药草，炼金药，或者至少价值50GP的治疗药水）",
+    "range_zh": "接触",
+    "target_zh": "一个接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则减半 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你将材料的治愈成分浓缩起来，因此它变得异常有效和滋补。这个法术恢复目标1D8+每施法者等级1点生命值（最大+10），同时给予目标材料成分的好处。分开投掷决定这个法术和材料成分恢复的生命值。<\/p>",
+    "source": "PC-HH"
+}

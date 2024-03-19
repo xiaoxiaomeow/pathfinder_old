@@ -1,0 +1,32 @@
+{
+    "key": "unholy ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ward/",
+    "name": "Unholy Ward",
+    "book": "Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["evil"],
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 4,
+        "inquisitor": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell grants you resistance to the holy powers of good-aligned deities and their servants. You resist 10 points of damage from holy sources (divine power damage from flame strike, additional damage from smite evil, channeled positive energy, etc.), provided they originate from a good-aligned source or a servant of a good-aligned god. You ignore a maximum of 10 points of damage per caster level, at which point the spell ends.<\/p>",
+    "name_zh": "亵渎防护",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势、语言、器材",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效（无害）",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>此法术帮助你抵抗来自善神和其仆从的力量，你得到10点针对神圣来源的抗力（神圣力量伤害包括焰击术，制裁邪恶的额外伤害，引导正能量），只要它们来自于一个善良阵营源或一个善神的仆从。你最多可以抵抗每施法者等级10点伤害，随后法术结束。\n罪恶法术\n邪恶的施法者们所开发的魔法，用以跨越那条他人所不会跨越的边界。<\/p>",
+    "source": "PC-AoE"
+}

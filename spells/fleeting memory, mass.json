@@ -1,0 +1,23 @@
+{
+    "key": "fleeting memory, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fleeting-memory/",
+    "name": "Fleeting Memory, Mass",
+    "base": "fleeting memory",
+    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 6,
+        "mesmerist": 5,
+        "occultist": 6,
+        "psychic": 7,
+        "sorcerer/wizard": 8
+    },
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions as <i>fleeting memory<\/i>, except that it affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体转眼即逝",
+    "target_zh": "一个生物/等级，任两者之间不得超过30呎",
+    "text_zh": "<p>此法术如同转眼即逝 (Fleeting Memory)一般作用，不过它能影响复数生物。<\/p>",
+    "source": "PC-BM"
+}

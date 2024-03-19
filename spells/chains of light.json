@@ -1,0 +1,32 @@
+{
+    "key": "chains of light",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chains-of-light/",
+    "name": "Chains of Light",
+    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 6,
+        "inquisitor": 5,
+        "paladin": 4,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a length of fine golden chain)",
+    "range": "short (25 ft. + 5 ft./level)",
+    "target": "one creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p>A creature targeted by this spell is held immobile by glowing golden chains composed of pure light. The creature is paralyzed and held in place, but may attempt a new saving throw each round to end the effect. While held by the golden chains, a creature cannot use any sort of extradimensional travel, such as astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spells and spell-like abilities. The spell does not affect creatures that are already in ethereal or astral form when the spell is cast.<\/p>",
+    "name_zh": "光之锁链",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (一段精巧的金链条)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>被该法术命中的生物立刻被光构成的黄金锁链缠绕。该生物被麻痹并困住，但每轮可以尝试新的豁免。当被困住时生物无法尝试任何超空间移动，如星界投影，闪现，任意门，幻化灵体（Ethereal Jaunt），同游灵界（Etherealness），异界之门，迷宫术，位面传送，行影术（shadow walk），传送术和类似法术与类法术能力。该法术不影响在施放时已经处在灵体或星界形态的生物。<\/p>",
+    "source": "PC-CoP"
+}

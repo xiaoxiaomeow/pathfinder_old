@@ -1,0 +1,32 @@
+{
+    "key": "globe of tranquil water",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/globe-of-tranquil-water/",
+    "name": "Globe of Tranquil Water",
+    "book": "Pathfinder Player Companion: Heroes of the Wild © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 5,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a glass globe)",
+    "range": "20 ft.",
+    "area": "20-ft.-radius emanation, centered on you",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Upon casting this spell, a rippling bubble of calm water extends outward from you to a radius of 20 feet and remains centered on you when you move. The bubble blocks all natural and magical precipitation such as rain, snow, and hail (including spells such as ice storm). This bubble also pushes out any fog or mist within the area, though it does not affect temperature and can't block natural or magical lightning.<\/p><p>All water in this radius counts as calm water for the purposes of Swim checks, and the bubble prevents sprays and blasts of mundane and magic water from striking with enough force to deal damage, move creatures or halt their movement, or perform any action that requires an attack roll or combat maneuver check.<\/p><p>Water elementals are affected by a globe of tranquil water the same way creatures of the plant type are affected by an antiplant shell.<\/p>",
+    "name_zh": "静水球仪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一颗玻璃球)",
+    "range_zh": "20尺",
+    "area_zh": "半径20呎弥漫，以你为中心",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>在施法时，一个由平静水表，微微泛起波纹的气泡，以你开始向外延伸半径20呎，并且当你移动时，它会以你为中心的跟随移动。这气泡阻挡自然以及魔法的降落物，像是雨、雪以及冰雹(这包含像是冰风暴(ice storm)等法术)。这气泡也会推移在区域内的任何雾气与迷雾，尽管气泡并不影响温度，也不阻碍自然或魔法的雷电。\n在判定游泳检定时，半径内所有的水都算作静水(calm water)，并且气泡能阻碍世俗的喷洒或爆裂物，以及有足够力度，能造成伤害的魔法水体，使生物移动或暂停他们的行动(movement)，或是进行任何需要一次攻击骰，或战技检定的行动。\n水元素会被静水球仪以与植物类生物被反植物护罩(antiplant shell)相同的方式所影响。<\/p>",
+    "source": "PC-HotW"
+}

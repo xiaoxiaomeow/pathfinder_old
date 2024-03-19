@@ -1,0 +1,33 @@
+{
+    "key": "sculpted cape",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sculpted-cape/",
+    "name": "Sculpted Cape",
+    "book": "Pathfinder Player Companion: Adventurer's Armory 2 © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "occultist": 1,
+        "ranger": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (cape or loose outer garment)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Your cape, cloak, or shawl stiffens and maintains its shape even if removed. A sculpted cape has hardness 2 and a number of hit points equal to your caster level, and it can support 1 pound of weight per caster level. An unworn sculpted cape can provide cover.<\/p>",
+    "name_zh": "塑形围巾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (披肩，或宽松的外衣)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你的围巾、斗篷或披肩硬化并且就算被移开也保持着它的形状。一件塑型围巾有着2点硬度以及等同你施法者等级的生命值，并且可以支撑每施法者等级/1磅重。一件未被穿着的塑形围巾可以提供掩蔽(cover)。<\/p>",
+    "source": "PC-AA2"
+}

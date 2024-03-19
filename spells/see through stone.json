@@ -1,0 +1,30 @@
+{
+    "key": "see through stone",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/see-through-stone/",
+    "name": "See Through Stone",
+    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "druid": 4,
+        "ranger": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "concentration up to 1 round/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You gain the ability to see through solid rock as if it were transparent glass. You may see through 1 foot of stone per caster level. You see within the stone as if you were looking at the area in normal light, even if there is no illumination, though low-light vision and darkvision have no effect on your ability to see through stone. Metal at least 1 inch thick or wood or dirt at least 3 feet thick blocks your vision.<\/p><p>The spell does not negate concealment for those creatures hiding behind stone objects (the stone is still an obstacle to your attacks).<\/p>",
+    "name_zh": "看穿岩石",
+    "race_zh": "矮人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "area_zh": "接触的生物",
+    "duration_zh": "专注，最长为1轮/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你能看穿坚硬的岩石，就如同其是透明的玻璃。你可以看穿每施法者等级1英尺的石头。你可以看到石头里面的东西，就像你在正常光线下看这个区域，即使没有照明，但昏暗视觉和黑岩视觉不会对你看穿石头的能力起效。至少1英寸厚的金属或至少3英尺厚的木头或泥土会挡住你的视线。\n这个法术不能抵消藏在石质物品后面的生物的掩蔽（石头仍然是你攻击的障碍）。\n术士和法师法术\n矮人法师和术士相对于其他种类的施法者来说是比较罕见的。尽管练习了几千年的锻造和工程艺术，但很少有矮人刻意追求奥法艺术。然而，对于那些掌握了魔法艺术或选择拥抱自身术士天赋的少数矮人，他们往往会采用一种独特的方式，在物品上印上符文，从而提高物品的耐久性，或者使它们无法被人通行。<\/p>",
+    "source": "PC-DoG"
+}

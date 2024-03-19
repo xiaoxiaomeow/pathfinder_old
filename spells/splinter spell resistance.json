@@ -1,0 +1,33 @@
+{
+    "key": "splinter spell resistance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/splinter-spell-resistance/",
+    "name": "Splinter Spell Resistance",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 2,
+        "magus": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "no",
+    "text": "<p>You create an aura around the target weapon that weakens a foe's magical defenses. The first time each round the weapon damages a creature with spell resistance, that creature's spell resistance is reduced by 5 for 1 round. This reduction is not cumulative for multiple attacks within the same round, even if the target is struck by different weapons, each affected by a different casting of splinter spell resistance. However, the same creature's spell resistance can be reduced on multiple rounds by subsequent hits.<\/p>",
+    "name_zh": "崩解抗力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势",
+    "range_zh": "接触",
+    "target_zh": "近战或投掷武器或接触的最多50枚弹药",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你在目标武器周围创造出一层灵光，削弱敌人的魔法防御。每轮当武器第一次伤害到一个具有法术抗力的生物，该生物的法术抗力会在1轮内减少5。这种减弱不会在同一轮内由于多重攻击而叠加，即使目标是被多把分别施展了崩解抗力的不同武器击中也不行。不过，该生物在之后的轮内，都可以因被崩解抗力武器攻击命中而减少当轮的法术抗力。<\/p>",
+    "source": "PC-AAnth"
+}

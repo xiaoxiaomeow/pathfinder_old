@@ -1,0 +1,29 @@
+{
+    "key": "cosmic ray",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cosmic-ray/",
+    "name": "Cosmic Ray",
+    "book": "Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.",
+    "school": "evocation",
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of meteorite)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "ray",
+    "duration": "instantaneous and 1 round/level (see text)",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You fling a ray of deadly cosmic energy at the target creature.<\/p><p>If you succeed at a ranged touch attack with the ray, the target takes 1d6 points of damage per caster level (maximum 20d6) and must make a Fortitude save. On a failed save, the target becomes sickened for 1 round per caster level and emits toxic cosmic energy for as long as it is sickened; any creature that comes within 5 feet of the affected target must succeed at a Fortitude save (DC = spell's DC) or become sickened for 1 round per 2 caster levels.<\/p>",
+    "name_zh": "宇宙射线",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一块陨石)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "射线",
+    "duration_zh": "立即 与 1轮/等级 (见下)",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向目标生物射出一道致命的宇宙能量。如果你用这道射线成功一次远程接触攻击，目标受到1d6点/等级的伤害(最多20d6)并且必须做强韧豁免检定。如果豁免失败，目标变得恶心1轮/等级，并且只要他还在恶心，会散发出有毒的宇宙能量，任何在它5呎内的生物必须做一次强韧豁免检定(DC=此法术的DC)，不然也变得恶心1轮/2等级。<\/p>",
+    "source": "PC-PoS"
+}

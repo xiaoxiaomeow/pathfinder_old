@@ -1,0 +1,38 @@
+{
+    "key": "arcane disruption",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-disruption/",
+    "name": "Arcane Disruption",
+    "book": "Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "curse",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of pepper)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell makes it difficult for the subject to cast arcane spells, use spell-like abilities, and use some abilities granted by arcane spellcasting classes. The subject must succeed at a concentration check (DC = 10 + 1/2 its caster level) in order to cast an arcane spell, use any spell-like ability (even those that come from a divine source), use arcane spell completion or spell trigger magic items, or use any of the following class features that come from an arcane spellcasting class: arcane school powers, arcanist exploits, bardic performances, magus arcana, or witch hexes. Spells, spell-like abilities, or class features that take a free, swift, or immediate action aren't affected by this spell, nor are mythic spells or mythic powers.<\/p><p>While under the effect of this spell, if the subject must attempt a concentration check to cast an arcane spell or use an arcane spell-like ability for any reason other than the effect of this spell (such as casting defensively, being injured while casting, and so on), it takes a penalty on that check equal to 1/2 its caster level.<\/p>",
+    "name_zh": "破法咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一撮胡椒)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术能让受术者更难以施展奥术、使用类法术能力，以及使用一些由奥术施法职业所给予的能力。受术者必须通过一次专注检定(DC=10+1/2它的施法者等级)才能够施展奥术、使用任何类法术能力(就算这些有着神术来源)、使用奥术法术完成型或法术触发型的魔法物品，或使用任何下列来自奥术施法职业的职业能力：奥术学派能力(arcane school powers)、奥能技艺(arcanist exploits)、吟游诗人表演(bardic performances)、魔战士奥能(magus arcana)或女巫巫术(witch hexes)。使用一个自由、迅捷或是直觉动作的法术、类法术能力，或职业能力不受此法术影响，神话法术或神话之力也不受影响。\n在此法术的效果之下，如果受术者因为任何不是此法术效果的理由，必须尝试一次专注检定来施展一个奥术法术，或是使用一次奥术类法术能力(像是防御性施法、在施法时受伤，诸如此类)，它会在这检定上承受1/2其施法者等级的罚值。<\/p>",
+    "source": "PC-ACO"
+}

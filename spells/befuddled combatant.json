@@ -1,0 +1,41 @@
+{
+    "key": "befuddled combatant",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/befuddled-combatant/",
+    "name": "Befuddled Combatant",
+    "book": "Pathfinder Player Companion: Healer's Handbook © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "curse",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "arcanist": 5,
+        "bard": 5,
+        "mesmerist": 5,
+        "psychic": 5,
+        "shaman": 5,
+        "skald": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (cooked noodles)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>As a way to befuddle your target, you fill its mind with all manner of swirling images as well as baffling and incoherent thoughts, making the target an ineffective combatant and rendering its spellcasting and other such abilities much more feeble.<\/p><p>For the spell's duration, the DCs of all of the target's spells, spell-like abilities, supernatural abilities, and extraordinary abilities are reduced by 4. Any of its attacks that would deal hit point damage, including its melee and ranged physical attacks, deal minimum damage for the duration of this spell.<\/p><p>This curse applies only to effects created by the creature while this spell is actively affecting the target; applying or removing this curse doesn't alter the ongoing damage of effects previously created by the target (such as an incendiary cloud spell that was cast before the target became affected by this spell).<\/p>",
+    "name_zh": "愚者之灾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（煮熟的面条）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>当你以这个方法来困惑你的目标，你在他的脑海中填充了扭曲的图像以及满是冲突和不连贯的思想，这使得目标变成一个低效的斗士以及极大削弱他的施法以及类似的能力。\n在法术持续时间内，目标所有法术，类法术能力，超自然能力以及特异能力的DC减少4。目标任何会导致伤害的攻击，包括近战和远程物理攻击都会自动造成最小伤害。\n这个法术的诅咒只会影响目标在受到诅咒后所造成的效果，而应用或者消除这个法术并不会改变目标已经释放的持续伤害效果。（例如目标被这个诅咒影响之前所施展的火云术）<\/p>",
+    "source": "PC-HH"
+}

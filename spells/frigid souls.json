@@ -1,0 +1,41 @@
+{
+    "key": "frigid souls",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/frigid-souls/",
+    "name": "Frigid Souls",
+    "book": "Pathfinder Player Companion: Haunted Heroes Handbook © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "subSchool": ["haunted"],
+    "descriptors":     [
+        "cold",
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "ranger": 3,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF/M (a bloody icicle)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "one 5-ft. cube/level (S)",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You harness fear of frozen environments into a haunt that withers defenses against the cold. Any creature that enters the affected area must succeed at a Will save or gain spell resistance equal to 11 + your caster level against any abjuration effect that provides resistance to or protection against cold damage or cold climates. This spell resistance cannot be voluntarily lowered. Once every 30 minutes as an immediate action, the haunt attempts a dispel check (1d20 + your caster level) against an active abjuration effect currently protecting a creature in the affected area against cold, even if it was active before the creature was haunted or it successfully bypassed the spell resistance imposed by the haunt. Against creatures with multiple layers of protection, these dispel checks start with the highest-level abjuration effects and work their way down the list. Each time the haunt attempts a dispel check, the spell's haunt-like manifestation occurs during that round.<\/p><p class=\"divider\">HAUNT STATISTICS<\/p><p><b>Notice<\/b> Perception DC 25 (to feel a biting chill as if through the touch of a frozen hand); <b>hp<\/b> 2 hp/level; <b>Trigger<\/b> proximity; <b>Reset<\/b> none<\/p>",
+    "name_zh": "严寒之魂",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器/材料（一把染血的冰锥）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "5立方呎/等级（S）",
+    "duration_zh": "1小时/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>伊利森人对他们的寒冷环境和残酷的雅德薇领主有着一种明显的恐惧，你能利用这种恐惧，将其塑造为一个能削弱别人对寒冷抗力的作祟灵。任何进入受影响区域的生物都必须成功通过一次意志豁免，否则在面对任何会提供对寒冷伤害或严寒气候的抗力或保护的效果时，他们将会获得等于11+你的施法者等级的法术抗力。这种法术抗力不能被自愿降低。每隔30分钟，作为一个自觉动作，作祟灵能尝试一次解除检定（1d20+你的施法者等级）来解除一个目前正在保护受影响区域内的一个生物免于寒冷的激活的防护效果，即使该防护效果在生物被作祟前就已经激活，或者其成功突破了作祟带来的法术抗力。对于具有多层保护的生物，这些解除检定以最高级的防护效果开始，并依次解除。每次当这个作祟灵尝试一次解除检定，法术的类作祟现象就会在该轮中出现。\n作祟数据\n察觉：察觉检定DC 25（感觉一股刺骨的寒意，彷彿是被一只冻僵的手触碰）\n生命值：2hp/等级；触发：接近；再起：无<\/p>",
+    "source": "PC-HHH"
+}

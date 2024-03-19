@@ -1,0 +1,36 @@
+{
+    "key": "tactical miscalculation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-miscalculation/",
+    "name": "Tactical Miscalculation",
+    "book": "Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "<p>The target becomes fixated on avoiding damage and fails to spot even the most opportune moments to attack. Whenever a creature the target threatens would provoke an attack of opportunity from the target, the target must succeed at a Will save or be unable to make the attack of opportunity against that creature.<\/p>",
+    "name_zh": "错失良机",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>目标会在最适合攻击的时候也执着于避免伤害，当一个目标威胁的生物激起了目标的借机攻击时，目标生物必须通过一个意志豁免，否则无法对该生物进行借机。<\/p>",
+    "source": "PC-PSP"
+}

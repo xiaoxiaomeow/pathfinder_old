@@ -1,0 +1,32 @@
+{
+    "key": "trial by fire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trial-by-fire/",
+    "name": "Trial By Fire",
+    "book": "Pathfinder Player Companion: Spymaster's Handbook © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 3,
+        "inquisitor": 3,
+        "paladin": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "None",
+    "spellResistance": "yes",
+    "text": "<p>You test a creature's purity of convictions by exposing it to a sheet of divine fire. Unless the target's alignment is within one step of your deity's, the spell deals 1d6 points of damage per 2 caster levels (maximum 5d6 points of damage). Half the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks. Additionally, if the target has an element of its alignment that is in direct opposition to your (chaos opposes law and evil opposes good), you can also attempt an Intimidate check to demoralize the target as a free action.<\/p>",
+    "name_zh": "烈火之试",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "接触的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你通过让生物被神圣之火焚烧来测试出他信念的纯洁度。除非目标的阵营和你的神祗在一阶之内，否则法术将会对他造成每2个施法者等级1d6点的伤害（最大为5d6点伤害）。一半伤害是火焰伤害，但另一半的伤害直接源于神圣力量，因此不会被对火焰攻击的抗力削弱。此外，如果目标有一个阵营元素与你相反（混乱对应守序，邪恶对应善良），你可以尝试一个威吓检定来挫败目标士气，这是一个自由动作。\n间谍法术（Espionage Spells）\n从明海（Minkai）的忍者氏族到塔尔多（Taldor）的静默公会（Guild of Silence），格拉利昂的间谍们依赖于魔法手段来跟踪目标和渗透进社会事件以收集组织要求的情报，以离目标更近一步。以下法术让狡猾的施法者可以分散敌人的注意力和神不知鬼不觉的窃取秘密。<\/p>",
+    "source": "PC-SH"
+}

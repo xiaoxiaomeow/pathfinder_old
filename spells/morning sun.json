@@ -1,0 +1,32 @@
+{
+    "key": "morning sun",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/morning-sun/",
+    "name": "Morning Sun",
+    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["light"],
+    "levels":     {
+        "cleric/oracle": 7,
+        "druid": 7,
+        "inquisitor": 6,
+        "shaman": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (500 gp worth of gold dust)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "60-ft. radius",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Fort negates and Reflex half",
+    "spellResistance": "no",
+    "text": "<p>This spell conjures a miniature sphere of sunlight, approximately the size of a human fist, at a desired location within range.<\/p><p>The sphere sheds bright light in a 60-foot-radius burst. Creatures that take penalties in bright light do so while within the sphere's area of illumination. Creatures that start their turns within the area of illumination and that are damaged or destroyed by sunlight must succeed at a Fortitude save or become staggered until 1d4+1 rounds after they leave the affected area. Non-creatures, such as hazardous fungi and mold that are destroyed by sunlight, become inert for the duration of the spell. The sphere cannot be moved from the place it was cast. The sphere deals 10d6 points of fire damage to anything it touches and anything that passes within 5 feet of it. A successful Reflex save reduces this damage by half.<\/p>",
+    "name_zh": "晨曦",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (价值500gp的金砂)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "半径60呎",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "强韧，通过则无效以及反射，通过则减半；见下",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术在法术范围内所需的地点，召唤一个微型太阳光球体，大约有一个人类的拳头这么大。这个球体在半径60呎爆发的范围，放射强光(bright light)。在强光中会承受减値的生物，那在此球体的照射范围内也会承受减値。那些在球体的放射范围内开始他们回合，会因为阳光所受伤获被摧毁的生物，必须通过一个强韧豁免检定否则就会蹒跚(staggered)，直到他们离开受影响区域后1d4+1轮结束。非生物，像是会被阳光所摧毁的危险的真菌或与霉菌，会在法术持续时间内呈现惰性。\n这个球体不能从施展时决定的位置移动。任何碰触或穿过它的东西都会受到10d6点的火焰伤害。一个成功的反射豁免检定能将此伤害减少至一半。<\/p>",
+    "source": "PC-HotD"
+}

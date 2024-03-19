@@ -1,0 +1,31 @@
+{
+    "key": "heart of the mammoth",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heart-of-the-mammoth/",
+    "name": "Heart of the Mammoth",
+    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 8,
+        "druid": 8,
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a fetish of mammoth hair soaked in dragon's blood)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Will (harmless)",
+    "spellResistance": "no",
+    "text": "<p>The target creature becomes stronger, hardier, and imbued with the courage of the greatest megafauna of the tundra.<\/p><p>The spell grants a +8 enhancement bonus to Strength and Constitution, immunity to fear, a +4 morale bonus to Will saves, and doubles the critical threat range of all its attacks against creatures of the dragon type (this does not stack with Improved Critical, keen edge, or similar effects).<\/p>",
+    "name_zh": "猛犸之心",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（一份浸在龙血中作为崇拜物的猛犸象毛发）",
+    "range_zh": "接触",
+    "target_zh": "被触碰的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则无效（无害）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>受术者变得更强壮，更坚毅并且充满了冻土上体型最大的生物的勇气。该法术给予受术者+8的增强加值在力量和体质上，免疫恐惧，在意志检定上获得+4士气加值，并且在对抗龙类生物时所有攻击的重击范围翻倍（此效果和精通重击，锋锐术(keen edge) ，或类似效果不互相叠加）<\/p>",
+    "source": "PC-DragH"
+}

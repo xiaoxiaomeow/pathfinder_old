@@ -1,0 +1,29 @@
+{
+    "key": "aura of distraction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-distraction/",
+    "name": "Aura of Distraction",
+    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "area": "20-ft.-radius emanation centered on you",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You emit an aura of subsonic noise and mental imagery that makes concentrating difficult.<\/p><p>Any creature within the aura that fails its save takes a –5 penalty on concentration checks. A creature must attempt the Will save upon entering the area of the aura, and the penalty ends as soon as the creature leaves the aura. A creature that succeeds at its save is immune to the effects of the aura for this casting of the spell, even if it leaves and reenters the aura, but must attempt another Will save each additional time this spell is cast. You are immune to your own aura of distraction.<\/p>",
+    "name_zh": "躁乱灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "area_zh": "以自己为中心，20呎半径弥漫",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你散发出由次声波噪音以及心理意象组成的灵光，这令专注变得困难。任何在灵光范围内豁免失败的生物在专注检定上承受-5减值。一个生物在进入灵光范围内时必须尝试意志豁免，并且在生物离开灵光范围的时候，减值立即结束。在豁免中成功的生物免疫本次施放的该法术，即使它离开并重新进入了灵光范围。但是当法术重新施放时，它必须进行另外一次意志豁免。你免疫你自己的躁乱灵光。<\/p>",
+    "source": "PC-PA"
+}

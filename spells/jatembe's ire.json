@@ -1,0 +1,24 @@
+{
+    "key": "jatembe's ire",
+    "url": "https://aonprd.com/SpellDisplay.aspx?ItemName=Jatembe%27s%20Ire",
+    "name": "Jatembe's Ire",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "druid": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (octopus or squid tentacle)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "120-ft.-radius spread",
+    "duration": "1 round/level (D)",
+    "text": "<p>The scholars of the Magaambya claim that Old-Mage Jatembe developed this spell to help eradicate the lost city of Ird, although such claims have never been confirmed. This spell causes tall grass, weeds, and other plants to swell into Gargantuan vines and tendrils that erupt from the ground, reaching for any structure or any creature of evil alignment, functioning like black tentacles except as noted. When you are determining the tendrils’ CMB, the tendrils use your caster level as their base attack bonus and have a +13 bonus due to their Strength. Any tendril that succeeds in grappling a foe deals 4d6+13 points of damage to the grappled creature. Additionally, the tendrils created by this spell can detect evil auras, as if they had spent 3 rounds observing all creatures and objects within the spell’s area using detect evil, and attack and impede the movement of only evil creatures, though they also attack any structures in their area. Each structure suffers a single attack each round; your caster level acts as the base attack bonus for these attacks, and the tendrils deal 4d6+13 points of damage on each successful attack. Creatures that lack evil auras are not attacked or impeded by this spell.<\/p>",
+    "name_zh": "贾特比之怒",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "120呎半径扩散",
+    "text_zh": "<p>玛甘比的学者声称，老巫师贾特比发明了这种法术来帮助灭除失落之城埃尔德（the lost city of Ird），尽管这种说法从未得到证实。这种法术会导致灌木、杂草和其他植物破土而出，膨胀成粗壮的藤蔓和卷须，卷向任何建筑或邪恶生物，如同黑触手，除了以下所述。当你判定卷须的CMB的时候，卷须会使用你的施法者等级作为它们的基础攻击加值，并因为它们的力量而有+13奖励。任何成功擒抱一个敌人的卷须会对被擒抱的生物造成4d6+13点的伤害。此外，由此法术创造出的蔓藤可以探测到邪恶灵光，就好像它们以侦测邪恶观察了法术区域内所有的生物和物体以3轮，且蔓藤只会攻击和妨碍邪恶生物的移动，但它们也会攻击所在区域内的任何建筑。每一个建筑在每一轮内都会遭受一次攻击；你的施法者等级作为这些攻击的基础攻击加值，而每次成功的攻击，蔓藤都会造成4d6+13点的伤害。没有邪恶灵光的生物不会被此法术攻击或阻碍。<\/p>",
+    "source": "PC-AAnth"
+}

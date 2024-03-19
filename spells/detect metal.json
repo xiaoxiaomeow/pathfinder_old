@@ -1,0 +1,31 @@
+{
+    "key": "detect metal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-metal/",
+    "name": "Detect Metal",
+    "book": "Pathfinder Player Companion: People of the River © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "sorcerer/wizard": 1,
+        "summoner": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a magnetized nail or nugget of ore)",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You detect any metal objects or creatures within a 60-foot cone.<\/p><p>You can specify all metal objects or one or more specific types of metal (such as silver, cold iron, or a type of skymetal) when you cast this spell; in the case of the latter, you detect only objects or creatures made of the specified metal.<\/p>",
+    "name_zh": "侦测金属",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材(一根磁化的钉子或矿石)",
+    "range_zh": "60尺",
+    "area_zh": "锥形弥漫",
+    "duration_zh": "专注，至多1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以探测到60呎锥形内任何金属物体或是生物。你在施展此法术时，可以指定所有金属物体，或是一种或多种类型的金属(例如银、寒铁、或是某种天金)，如果是后者，你只能检测由你所指定金属种类的物体或生物。<\/p>",
+    "source": "PC-PotRiver"
+}

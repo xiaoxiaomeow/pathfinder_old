@@ -1,0 +1,30 @@
+{
+    "key": "undeath inversion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undeath-inversion/",
+    "name": "Undeath Inversion",
+    "book": "Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (a gold piece with one scratched face)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one undead creature",
+    "duration": "1 round/level (d); see text",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You alter an undead creature's energy affinity so that it takes damage from negative energy and gains healing from positive energy, as if it were a living creature. If the target was able to channel negative energy or produce negative energy effects (such as inflict spells), these abilities produce positive energy instead, healing living targets and harming the undead. The target cannot impose negative levels on other creatures for the duration of the spell. The target's creature type does not change, and it is still considered an undead creature. Each round on its turn, the subject may attempt a new saving throw to end the effect. This is a full-round action that does not provoke attacks of opportunity.<\/p>",
+    "name_zh": "不死转化",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器（一块刮花的金箔）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个不死生物",
+    "duration_zh": "1轮/等级（D）；见下",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你改变了该不死生物的性质使它受到负能量伤害得到正能量治疗，如同活物一般。若目标可以引导负能量或使用负能量效果（比如造成伤害系列法术），则此时这些能力会引导正能量，伤害不死治疗活物。持续时间内目标无法对其它单位造成负向等级。目标的生物类型不会被改变，目标依然被视为不死生物。每轮在目标的回合，目标都可以进行一次豁免尝试结束该法术效果。这种尝试是一个不引发借机攻击的整轮动作。<\/p>",
+    "source": "PC-USH"
+}

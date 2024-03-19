@@ -24,12 +24,12 @@
     "text": "<p>You weaken a creature's resistance against one energy type you select: acid, cold, electricity, fire, or sonic. The creature's resistance to that energy type decreases by 5 (minimum 0), plus an additional 5 for every 5 caster levels beyond 3rd (to a maximum of 20 at 18th level).<\/p>",
     "name_zh": "削弱抗力",
     "castingTime_zh": "标准动作",
-    "components_zh": "言语，姿势，材料/法器（ 一撮粗砂）",
+    "components_zh": "语言、姿势、材料/法器",
     "range_zh": "中距 (100尺+10尺/等级)",
     "target_zh": "一个生物",
-    "duration_zh": "1轮/等级（可解消）",
-    "savingThrow_zh": "强韧过则无效",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你削弱一个生物对你选择的一种类型的能量的抗力：强酸、寒冷、电击、火焰或音波。该生物对该种能量的抗力降低5点（最低0点），3级后，每5施法者增加5点（18级时达到最多的20点）。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>你削弱一个生物的一种能量抗力，是哪种则由你选择：强酸、寒冷、电击、火焰或音波。该名生物对这种能量的抗力减少5(最少为0)。在施法者等级3之后每5个施法者等级，此法术减少该生物的能量抗力额外多5点，最大到18等时的20点。<\/p>",
+    "source": "PC-MHH"
 }

@@ -1,0 +1,29 @@
+{
+    "key": "firewalker's meditation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/firewalker-s-meditation/",
+    "name": "Firewalker's Meditation",
+    "book": "Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["meditative"],
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "paladin": 3,
+        "shaman": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 hour",
+    "components": "V, M (soothing incense worth 400 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "24 hours or until discharged",
+    "text": "<p>You focus your mind on blocking out pain, allowing your body to endure punishments that would be otherwise unbearable.<\/p><p>While under the effects of this spell, you continue to register pain—you simply don't suffer the deleterious effects such sensations bring. For example, if you were lit on fire as you slept, you would still wake from the pain of burning even though some of the fire damage you endured (perhaps all of it) would be negated by this spell.<\/p><p>You gain DR 5/magic, resist fire 10, and a +4 bonus on saving throws to resist pain effects. Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged. At any time during the spell's duration when you take damage that would be subject to the damage reduction or energy resistance granted by this spell, you can expend the spell's remaining duration as an immediate action in order to increase the effects to DR 10/magic, resist fire 30, and immunity to pain effects. If you do so, these enhanced effects persist for 3 rounds. After this time, the spell ends.<\/p>",
+    "name_zh": "踏焰行者",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言，材料（价值400gp的舒缓香料）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "24小时或直到被释放",
+    "text_zh": "<p>你专注于防止疼痛，让你的身体能忍耐其他人无法忍受的惩罚。在此法术的作用下，你仍能感到疼痛——你仅仅只是不会受到这种感觉带来的有害影响。例如，如果你在睡觉的时候被点燃，你仍会因燃烧的痛苦而醒来，但你忍受的部分火焰伤害（也许是所有的）都将被此法术抵挡。\n你获得5/魔法的DR，火焰抗力10，在抵抗疼痛效果的豁免检定上获得+4奖励。一旦魔法已经阻挡了每施法者等级（最大100点）10点的伤害，法术就会耗尽能量。在法术持续时间中的任何时候，当你受到会被此法术赋予的伤害减免或能量抗力所影响的伤害时，你可以用一个直觉动作来消耗法术的剩余持续时间以增强效果，获得10/魔法的DR，30火焰抗力，免疫痛苦效果。如果你这么做，这些强化效果会持续3轮。法术此后就会结束。<\/p>",
+    "source": "PC-DA"
+}

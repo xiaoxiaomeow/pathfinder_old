@@ -1,0 +1,30 @@
+{
+    "key": "righteous blood",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-blood/",
+    "name": "Righteous Blood",
+    "book": "Pathfinder Player Companion: Demon Hunter's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels":     {
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "one creature of good alignment",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The target creature's innate goodness infuses its body with holy energy. While this energy does not directly empower the target, it can harm embodiments of evil. Any creature that damages the target with a slashing or piercing melee weapon is sprayed by the target's holy blood. If the attacker is a creature with the evil subtype, it takes 1d6 points of damage from divine power each time it successfully hits the target. If the target has the good subtype or an ability that grants it an aura of good (like paladins or some clerics), its blood instead deals 2d6 points of damage.<\/p><p>Creatures that don't have the evil subtype or that are using reach weapons are not subject to this damage.<\/p>",
+    "name_zh": "正义之血",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "一个善良阵营的生物",
+    "duration_zh": "10分钟/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>目标生物的内在善良赋予了他的身体以神圣的能量。虽然这种能量不能直接赋予目标力量，但它却能伤害邪恶的化身。任何以挥砍或穿刺近战武器伤害目标的生物都将被目标的圣血所喷溅到。如果攻击者是一个邪恶亚种的生物，每次成功击中目标时，他都会因为神圣能量而受到1d6点伤害。如果目标具有善良亚种或一种能赋予善良灵光的能力（如同圣武士或某些牧师），他的血液会造成2d6点伤害。那些没有邪恶亚种或使用远程武器的生物不会受到这种伤害。<\/p>",
+    "source": "PC-DHH"
+}

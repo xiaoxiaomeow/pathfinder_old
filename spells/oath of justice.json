@@ -1,0 +1,31 @@
+{
+    "key": "oath of justice",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/o/oath-of-justice/",
+    "name": "Oath of Justice",
+    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "religion": "Kols",
+    "levels":     {
+        "cleric/oracle": 3,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "two creatures touched",
+    "duration": "permanent (see text)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell seals a solemn vow between two creatures. When this spell is cast, the targets must clasp hands and swear their oath in Kols's name. The spell functions like mark of justice, except as noted above and rather than being cursed, the oath-breaker gains a mark on the face indicating to all dwarves who see it that the target has broken a sacred oath, which gives the oath-breaker a –4 penalty to influence dwarves. The mark can be removed as described in the mark of justice spell, or the other target can forgive the oath- breaker, which causes the mark to vanish.<\/p>",
+    "name_zh": "正义誓言",
+    "race_zh": "科欧斯",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "接触的两个生物",
+    "duration_zh": "永久（见下文）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这种法术会在两个生物之间建立起一道庄严的誓言。当这道法术被施放时，目标必须握紧双手，以科欧斯的名讳宣誓。除了上述所提到的，而且不是被诅咒，这个法术就像审判烙印（mark of justice）一样，破誓者的脸上会出现一个标记，让所有看到的矮人明白目标曾经违背过一个神圣的誓言，这让破誓者在所有影响到矮人的事情上受到-4惩罚。徽记可以按照审判烙印的移除方法来移除，或者如果另一个目标如果原谅破誓者，也会导致徽记消失。<\/p>",
+    "source": "PC-DoG"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "shifting shadows",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shifting-shadows/",
+    "name": "Shifting Shadows",
+    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["darkness"],
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of ink)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "20-ft.-radius emanation centered on a point in space",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none, see text",
+    "spellResistance": "no",
+    "text": "<p>Waves of shifting shadows obscure the appearance of all creatures caught within the emanation, making it harder to tell friends from foes.<\/p><p>This spell does not cause affected creatures to risk accidentally attacking their allies, but it does require them to concentrate harder to keep track of their allies and foes. While this spell is in effect, every creature in the area can treat any other creature in the area as an allied threatening creature for the purpose of flanking. Further, whenever a creature in the area would provoke an attack of opportunity from an enemy, that creatures' allies in the area must succeed at a Reflex save or lose one attack of opportunity for that round as they suppress the instinct to attack a vulnerable target that might be an ally. The shadows do not hinder precision-based attacks or create areas of dim light.<\/p><p>Creatures under the effect of true seeing are not affected by this spell. Creatures with scent or keen scent, creatures that are blind, and creatures that operate effectively without vision (such as creatures with blindsight or blindsense) are also not affected by this spell.<\/p>",
+    "name_zh": "蠕动之影",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一滴墨水）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "以空间中一点为中心的20呎半径弥漫",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "无，见下文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>由不断变化的阴影所构成的波浪掩盖了所有在弥漫范围内的生物，使他们更难分辨敌友。\n这一法术不会使受影响的生物偶然间攻击到他们的盟友，但法术确实会让他们要更加努力才能分辨出他们的盟友和敌人。当此法术生效时，该地区内的所有生物都可以将该地区内的任何其他生物作为一个在夹击中会威胁到盟友的生物。进一步说，只要在该地区的生物将会引发一次来自敌人的借机攻击，该生物在区域内的盟友就必须通过一次成功的反射豁免，否则会在该轮失去一次借机攻击的机会，因为他们会抑制攻击一个可能是盟友的脆弱目标的冲动。阴影不会阻碍基于精确的攻击，也不会产生低光区域。\n在真知术效果下的生物不会受到此法术的影响。有灵敏嗅觉或超灵敏嗅觉的生物，目盲的生物，和没有视力也能感知周围的生物（例如拥有盲视或盲感的生物）同样不受此法术的影响。<\/p>",
+    "source": "PC-DTT"
+}

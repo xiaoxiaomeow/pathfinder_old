@@ -1,0 +1,30 @@
+{
+    "key": "blot",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blot/",
+    "name": "Blot",
+    "book": "Pathfinder Player Companion: Goblins of Golarion. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 3,
+        "cleric": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bit of cloth made wet with saliva)",
+    "range": "close (25 ft. + 5 ft/2 levels)",
+    "area": "10 ft.-radius burst",
+    "duration": "24 hours",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>This spell reduces all types of writing and other recognizable symbols found on any sort of surface within range into illegible smears. It affects books, carvings on stone, or even tattoos with equal ease. It does not affect writing that is not actually on a surface, such as an illusion, projection, reflection, or anything similar. Spellbooks and magical items that contain writing (such as scrolls) gain a saving throw to resist the effects of this spell. Against magical writing created by spell effects (such as glyphs of warding or symbols), blot instead functions as a dispel magic spell capable of targeting all such spell effects in the area. This spell has no effect on writing found on artifacts or similarly unique surfaces.<\/p>",
+    "name_zh": "抹除术",
+    "race_zh": "地精",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一片用唾液沾湿的碎布)",
+    "target_zh": "半径10呎爆发",
+    "duration_zh": "24小时",
+    "savingThrow_zh": "意志，通过则无效 (物体)",
+    "spellResistance_zh": "有 (物体)",
+    "text_zh": "<p>这个法术会让所有类型的字迹或有可辨认的记号或符号的任何表面的模糊不清而难以辨认。它可以影响书籍、石头上的雕刻、甚至是皮肤上的纹身和刺青。它不会影响并非书写在表面上的文字，例如幻术、投影、反射或类似的效果。\n法术书和包含书面文字的魔法物品（比如卷轴）可以进行一次豁免检定以抵抗该法术的效果。对于魔法创造的文字(例如守卫符文[glyphs of warding]或各种徽记类[symbol]法术)，本法术的效果如同一次目标为法术区域所有类似效果的解除魔法(dispel magic)。\n这个法术对神器和类似的特殊表面上的文字没有效果。<\/p>",
+    "source": "PC-GoG"
+}

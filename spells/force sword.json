@@ -1,0 +1,33 @@
+{
+    "key": "force sword",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/force-sword/",
+    "name": "Force Sword",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "bloodrager": 2,
+        "magus": 2,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2,
+        "spiritualist": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "0 ft.",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You create a +1 longsword of pure force sized appropriately for you that you can wield or give to another creature like any other longsword. At 8th level, the sword functions as a +2 longsword.<\/p><p>At 13th level, it functions as a +3 longsword. A force sword cannot be attacked or harmed by physical attacks, but dispel magic, disintegrate, a sphere of annihilation, or a rod of cancellation affects it.<\/p><p>If a creature you attack with the sword has spell resistance, you must attempt a caster level check (1d20 + your caster level) against that spell resistance the first time the force sword strikes it. If you fail the check, the spell is dispelled. If you succeed, the weapon has its normal full effect on that creature for the duration of the spell.<\/p>",
+    "name_zh": "力场剑",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势",
+    "range_zh": "0尺",
+    "effect_zh": "一把剑形的武器力场",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一把由纯粹力场构成的+1的长剑，其呎寸与你相配，你可以使用武器或将其赐予其他生物，就如同任何其他的长剑一般。在8级时，力场剑如同一把+2的长剑。13级时，其如同一把+3长剑。力场剑不能被物理攻击攻击或伤害，但解除魔法、解离术、一个毁灭黑洞、或一根消抹权杖可以影响力场剑。\n如果一个你用剑攻击的生物拥有法术抗力，你必须在力场剑第一次击中时尝试一次施法者等级检定（1d20+你的施法者等级）来克服法术抗力。如果你失败，法术被解除。如果你成功，武器会对该生物在法术持续时间内造成通常的完整效果。<\/p>",
+    "source": "PC-AAnth"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "duplicate familiar",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/duplicate-familiar/",
+    "name": "Duplicate Familiar",
+    "book": "Pathfinder Player Companion: Familiar Folio © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "alchemist": 4,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (alchemically preserved mockingfey feathers), F (familiar)",
+    "range": "touch",
+    "effect": "temporary duplicate of familiar touched",
+    "duration": "10 min.s/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "no",
+    "text": "<p>You create a duplicate of a familiar. The familiar's master can use the duplicate as if it were his familiar in all respects, though he doesn't gain the bonus special ability from more than one familiar at a time. When the spell's duration expires, the familiar duplicate shrivels into nothing, even if petrified or otherwise transformed.<\/p>",
+    "name_zh": "魔宠复制术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（经过防腐处理的妖精羽毛），器材（魔宠）",
+    "range_zh": "接触",
+    "effect_zh": "接触到的魔宠的临时复制品",
+    "target_zh": "1个动物伙伴、魔宠或其他联结生物（bonded creature）以及其主人，彼此之间的距离不得超过30呎",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你造目标主人和其魔宠之间建立了一种通道，这使得你在对主人或其魔宠施放法术时，可以影响到它们两者间的另一方。若主人成功通过豁免以抵抗本法术，而魔宠豁免失败的话，你能够选择让原本以法师为目标的法术转而影响魔宠作为替代。若魔宠抵抗本法术而主人豁免失败，你以魔宠为目标的法术可以转而影响主人作为替代。若两者都在对抗本法术的豁免中失败的话，那么无论你的法术以其中哪一方为目标，都可以选择影响主人或魔宠。当你以主人为目标去影响她的魔宠时（反之亦然），目标可以使用自己的豁免加值尝试一次豁免（若法术允许豁免），但受法术影响的会是另外一方。\n只有以1个或更多个生物为目标的法术能够通过共鸣通道来施放。被影响的生物仍旧需要是法术的有效目标才能进行施放，例如：你无法通过共鸣通道来使用魅惑人类（Charm Person）影响魔宠。若通过共鸣通道施放的法术的持续时间不是立即，那么法术的持续时间为其正常的持续时间或者直至共鸣通道失效为止，以较先发生者为准。每当主人或其魔宠成为法术的目标，而这个法术是为了影响另一方的话，那么目标生物可以尝试一次额外的豁免以对抗共鸣通道。<\/p>",
+    "source": "PC-FF"
+}

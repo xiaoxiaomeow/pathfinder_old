@@ -1,0 +1,31 @@
+{
+    "key": "summon ancestral guardian",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-ancestral-guardian/",
+    "name": "Summon Ancestral Guardian",
+    "book": "Pathfinder Companion: Dwarves of Golarion © 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "bard": 3,
+        "cleric/oracle": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (stone metal image of your ancestor)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "two summoned ancestor spirits",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You call the spirits of two ancestors to manifest in the mortal world and attack your enemies. Each appears as a transparent image of a powerful, wise dwarf armed with a traditional dwarven weapon of your choice. These spirits move and attack at your direction, each having the abilities of a spiritual weapon, except they can attack different targets and deal physical damage (bludgeoning, piercing, or slashing, according to the weapon the spirit wields) instead of force damage. Like creatures conjured with a summon monster spell, your ancestors are not harmed if these manifestations are destroyed.<\/p>",
+    "name_zh": "召唤祖先守卫",
+    "race_zh": "矮人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材/法器（你的祖先的石质或金属刻像）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "召唤两个祖先精魂",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你可以呼唤来两个祖先精魂在凡尘世界中显化，并攻击你的敌人。祖先守卫看起来都像是一个强大而智慧的透明矮人形象，拥有你选择的传统矮人武器。这些精魂会按你的指令移动和攻击，每个守卫都拥有一把灵能武器，除了他们能攻击不同的目标并造成物理伤害（根据精魂使用的武器，造成钝击，穿刺，或挥砍）而不是力场伤害。就像用召唤怪物法术召唤来的生物一样，如果这些显像被毁灭，你的祖先也不会受到伤害。\n游侠和德鲁伊法术\n在孤独的洞穴和隧道中漫游，许多矮人游侠和德鲁伊都是他们的城堡和堡垒最深处的守护者。这矮人中的大多数自愿承担起保护家园免受地下威胁的负担，把他们的职责视为责任和使命。然而，封闭恐怖的幽暗地域中有着令人生畏的地形，且与太阳和自然世界的清新空气分离开来，矮人游侠和德鲁伊要学会以全新的方式感知地下土地。为了在幽暗地域中和敌人作战，矮人游侠和德鲁伊已经发展出一种独特的魔法，使他们成为更高效的隧道战士。<\/p>",
+    "source": "PC-DoG"
+}

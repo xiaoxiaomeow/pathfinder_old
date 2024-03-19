@@ -1,0 +1,30 @@
+{
+    "key": "blood boil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-boil/",
+    "name": "Blood Boil",
+    "book": "Pathfinder Player Companion: Magical Marketplace © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a drop of mercury)",
+    "range": "touch",
+    "target": "one living creature",
+    "duration": "3 rounds",
+    "savingThrow": "Fort negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>The temperature of the target creature's blood (or other similar body fluid) begins to rise over the next 3 rounds during the caster's turn. Each round starting with the first, the target creature attempts a new saving throw at the start of the caster's turn to resist that round's effect. A successful save does not end the spell effect, but does prevent that round's effect. On the round that this spell is cast, the target becomes fatigued. On the next round, as the blood temperature begins to rise, the target's capillaries burst, dealing 1d6 points of Constitution damage to the target. On the third and final round, the target's blood begins to boil; the spell deals 1d6 points of damage per caster level (to a maximum of 15d6), and—if the target is still alive—the target becomes exhausted rather than fatigued.<\/p>",
+    "name_zh": "血液沸腾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一滴水银)",
+    "range_zh": "接触",
+    "target_zh": "一名活物",
+    "duration_zh": "3轮",
+    "savingThrow_zh": "强韧，通过则无效 (见下)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>目标生物的血液(或其他类似的身体液体)温度在之后3轮，施法者的回合中开始急遽升高。在每一轮的开头，目标生物在施法者的回合，尝试一次新的豁免检定，来抵抗该轮的效果。豁免成功不会终止法术，但会阻止该轮的效果。在此法术施展的那轮，目标变得疲乏(fatigued)。下一轮，血液的温度开始升高，目标的微血管爆裂，对目标造成1d6点体质伤害。在第三轮也是最后一轮，目标的血液开始沸腾，此法术造成1d6点/等级的伤害(最大15d6)，并且，如果目标还活着的话，目标变得力竭(exhausted)而不是疲乏。<\/p>",
+    "source": "PC-MM"
+}

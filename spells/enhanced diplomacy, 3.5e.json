@@ -1,0 +1,29 @@
+{
+    "key": "enhanced diplomacy, 3.5e",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enhanced-diplomacy/",
+    "name": "Enhanced Diplomacy, 3.5E",
+    "book": "Pathfinder Companion: Taldor, Echoes of Glory. Copyright 2009, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "cleric": 0,
+        "druid": 0
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min. or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You imbue the subject with divine diplomacy skills. The creature gets a +2 competence bonus on a single Diplomacy or Intimidate check. It must choose to use the bonus before making the roll to which it applies.<\/p>",
+    "name_zh": "增强交涉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "被碰触的目标",
+    "duration_zh": "1分钟或直至发散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你将一个主题融入了神圣的交涉技巧。生物在交涉或威吓检定上获得+2表现加值。你必须要在投掷骰子之前，选择是否要将此加值应用其上。<\/p>",
+    "source": "PC-TEoG"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "plant voice",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-voice/",
+    "name": "Plant Voice",
+    "book": "Pathfinder Player Companion: Cohorts and Companions © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 3,
+        "druid": 2,
+        "shaman": 2,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small root cutting)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one plant creature",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You grant one plant creature the ability to speak, hear, and understand any of the languages you know. If you know more than one language, you may grant the plant creature up to one language per 2 caster levels and you decide which languages to grant when the spell is cast. This spell does not cause the plant creature to be predisposed toward you in any way, but allows you to interact with them with Charisma-based skills normally. Plant creatures with an Intelligence score of 2 or lower can communicate and understand only the simplest of concepts, such as “friend,” “food,” and “danger.” This spell has no effect on ordinary plants and fungus.<\/p>",
+    "name_zh": "植物之音",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一小段被切下来的树根)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名植物生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你给予一名植物生物说话、倾听以及了解任何你所知晓语言的能力。如果你知晓的语言超过一种，你每有两个施法者等级，就可以给予该植物生物一种语言，并在施展此法术时决定你要给予那些语言。此法术不会使植物生物以任何方式倾向于你，但这令你可以正常的使用基于魅力属性的技能与他们互动。智力属性为2或更低的植物生物仅能了解或以极其简单的概念交谈，像是”朋友”、”食物”以及”危险”。此法术对一般的植物还有真菌没有效果。<\/p>",
+    "source": "PC-CaC"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "discern value",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/discern-value/",
+    "name": "Discern Value",
+    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (platinum monocle worth 100 gp)",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p><i>You can quickly analyze the monetary value of objects and identify which are most valuable to an average trader.<\/i><\/p><p>You must specify a minimum value to detect when you cast this spell (such as 1 gp, 100 gp, or 1,000 gp). The amount of information revealed depends on how long you study a particular area or subject.<\/p>",
+    "name_zh": "识别价值",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (价值100gp的白金单眼镜)",
+    "range_zh": "60尺",
+    "area_zh": "锥状弥漫",
+    "duration_zh": "专注，至多1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你能迅速分析物品的货币价值，并且辨识出对于一位普通商人来说，哪一件是最有价值的。当你施展此法术时，你必须明确说明欲侦测的最小价值(像是1gp、100gp、1000gp)。获得的资讯多寡取决于你研究了这片特定区域或场地多长时间。\n1轮：达到具体指定数值的物品存在与否。\n2轮：在范围内最有价值的物品会发出比其他物品更明亮的光。如果灵光是在你视觉线范围外，那你可以隐约感到它的方向，但不知道准确的位置。\n3轮：范围内，价值在最高价物品10%误差以内的物品，发微光。\n此法术的效果不会指出物品是否有魔法品质，也不会侦测神器或没有价值的物品。<\/p>",
+    "source": "PC-DungH"
+}

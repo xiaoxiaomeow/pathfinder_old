@@ -1,0 +1,27 @@
+{
+    "key": "ancestral gift",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-gift/",
+    "name": "Ancestral Gift",
+    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "bard": 4,
+        "cleric/oracle": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (stone or metal image of your ancestor)",
+    "range": "personal",
+    "effect": "magical weapon",
+    "duration": "10 min.s/level",
+    "text": "<p>A ghostly manifestation of one of your ancestors appears before you bearing a weapon of your choice in its hands. The weapon may be any simple, martial, or dwarven weapon. It has a +1 enhancement bonus and one weapon special ability (your choice) from Magic Weapons with a price equivalent to a +1 bonus (if the weapon is a double weapon, the ability and the enhancement bonus only apply to one end, or the weapon can have a +1 enhancement bonus on both ends but no other magical abilities).<\/p><p>You may use the weapon as if you were proficient in it. The weapon may not be wielded by anyone else, and if removed from your grasp, it vanishes and the spell ends immediately.<\/p><p>If you conjure a weapon with the <i>flaming<\/i>, <i>frost<\/i>, <i>shock<\/i>, or <i>thundering<\/i> property, this spell has the fire, cold, electricity, or sonic descriptor (respectively).<\/p>",
+    "name_zh": "先祖的赋礼",
+    "race_zh": "矮人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材/法器（你的祖先的石质或金属刻像）",
+    "range_zh": "自身",
+    "effect_zh": "魔法武器",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>你的面前出现一位你的祖先的幽灵显像，手中握着一把你选择的武器。武器可能是任何简单的、军事的或矮人的武器。武器有+1的增强加值和一个来自核心规则书的武器特殊能力（由你选择），其价值等同于+1加值（如果武器是双头武器，能力和增强加值只适用于一端，或武器两端都有+1的增强加值，但没有其他的特殊能力)。\n你可以如同拥有熟稔一般使用武器。武器不能被任何其他人使用，如果武器被从你的手中拿走，武器就会消失，法术立即结束。\n如果你召唤一把拥有火焰、霜冻、电击或雷鸣属性的武器，法术会拥有火焰、寒冷、闪电或音波描述符（分别的）。<\/p>",
+    "source": "PC-DoG"
+}

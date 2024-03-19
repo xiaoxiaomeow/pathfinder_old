@@ -1,0 +1,33 @@
+{
+    "key": "night of blades",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/night-of-blades/",
+    "name": "Night of Blades",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "evocation",
+    "levels":     {
+        "antipaladin": 4,
+        "inquisitor": 3,
+        "ranger": 4,
+        "sorcerer/wizard": 3,
+        "summoner": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "wall of blades up to 10 ft. long/level and 10 ft. tall",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "<p>Useful primarily to those who skulk in the darkness, this spell is a temporary trap for the unwary. You create an immobile wall of tiny black blades that whirl and tear into creatures like a cyclone. Anyone who enters this space takes 1d4 points of damage per caster level (maximum 10d4), though a successful Reflex save halves the damage. The spell cannot be cast so that it appears in a space already occupied by Small or larger creatures.<\/p>",
+    "name_zh": "尖刀之夜",
+    "race_zh": "诺格巴",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一面宽10尺/等级，高10尺的刀锋墙壁",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>对于那些躲藏在暗夜中的杀手来说，这个法术足以为他们不够谨慎的目标安排一具临时的死亡陷阱。法术将唤来一阵由无数细小的漆黑刀刃所组成，犹如死亡龙卷风一样的刀墙撕扯误入的目标。任何进入刀墙范围内的目标将承受每施法者等级1d4点伤害（最高10d4），通过一个成功的反射检定减半。这个法术无法施放在一个已经被一个小型或更大的生物占据的格子里。\n厄迦图娅\n苍姬的信徒使用污秽的法术来腐化他们敌人的内部，从使用疾病，或著启发善神教会的敌人体验贪得无厌和痛苦暴食，那自我毁灭的感受。<\/p>",
+    "source": "PC-FoC"
+}

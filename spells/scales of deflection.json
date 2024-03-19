@@ -1,0 +1,32 @@
+{
+    "key": "scales of deflection",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scales-of-deflection/",
+    "name": "Scales of Deflection",
+    "book": "Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["draconic"],
+    "levels":     {
+        "bloodrager": 2,
+        "magus": 3,
+        "occultist": 3,
+        "paladin": 3,
+        "psychic": 3,
+        "sorcerer/wizard": 3,
+        "spiritualist": 3,
+        "summoner": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M (a dragon scale)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (see text)",
+    "text": "<p>Brilliant draconic iconography matching your draconic heritage (or a kind of dragon whose alignment matches your own) surrounds you. Any touch attack attempted against you resolves against your normal AC. Once such an attack has been resolved, this spell is dismissed at the end of your next turn.<\/p>",
+    "name_zh": "偏转之鳞",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，材料（一枚龙鳞）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级（见正文）",
+    "text_zh": "<p>你被一个明亮的巨龙肖像所包裹住，其与你的龙血相匹配的（或一种符合你阵营的龙类）。任何接触攻击都需要对抗你通常的AC。当这样的一次攻击发生后，此法术将在你的下回合结束时消解。<\/p>",
+    "source": "PC-LoD"
+}

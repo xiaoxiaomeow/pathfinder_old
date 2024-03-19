@@ -1,0 +1,30 @@
+{
+    "key": "signifer's rally",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/signifier-s-rally/",
+    "name": "Signifer's Rally",
+    "book": "Pathfinder Chronicles &#8211; Cheliax: Empire of Devils Copyright 2009, Paizo Publishing, LL",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric/oracle": 7,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (100 gp worth of bloodstone for every ally teleported)",
+    "range": "medium (100 f. + 10 f./level)",
+    "target": "one willing ally/5 levels",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You teleport up to one ally per five caster levels to your location. You determine which allies you want to teleport at the time of casting; these allies have 1 round to decide to allow or refuse your spell, and they teleport immediately upon accepting. Allies are teleported as if you had cast teleport on them (your current location is at least “studied carefully” for this purpose), appearing in a puff of brimstone in a space adjacent to you. If you are in combat and your allies were not, your allies may roll initiative upon arrival but are not considered fat-footed even though they have not taken any actions. The spell does not function in areas warded against intrusion by evil creatures (such as a magic circle against evil effect).<\/p>",
+    "name_zh": "持节士的集会",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（每个被传送的盟友一枚价值100gp的血石）",
+    "target_zh": "一个自愿盟友/5等级",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你能最多每五施法者一个的盟友传送到你的位置。你要在施法时决定你想要传送哪一些盟友；这些盟友有1轮时间来决定是允许还是拒绝你的法术，如果接受，他们会立刻被传送。盟友会如同被你施展传送术(teleport) 一般被传送（你目前的位置在这一方面至少会被视为“被仔细研究过”），伴随着一股硫磺烟出现你附近的地方。如果你在战斗中，而你的盟友不是，你的盟友可以在达到时进行先攻投骰，但如果他们没有采取任何行动，他们也不会视为措手不及。法术不会在有防范邪恶生物侵入措施的区域（例如反邪恶法阵）中生效。<\/p>",
+    "source": "PC-CEoD"
+}

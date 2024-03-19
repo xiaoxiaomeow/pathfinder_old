@@ -1,0 +1,29 @@
+{
+    "key": "impede speech",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/impede-speech/",
+    "name": "Impede Speech",
+    "book": "Pathfinder Companion: Second Darkness Player's Guide. Copyright 2008, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This minor curse interferes with the target's ability to speak. On a failed save, the target has diﬃculty stringing words together. Only with great concentration can he communicate intelligibly. Speaking in combat becomes a move-equivalent action rather than a free action. If the target attempts to cast a spell with a verbal component, he has a 50% chance of making an error and losing the spell. Even if he can successfully cast a spell, doing so takes 1 round if the spell's normal casting time is less than 1 round. If the spell's casting time is usually 1 round or longer, its casting time doubles (up until the end of <i>impede speech<\/i>). <i>Impede speech<\/i> cannot be dispelled, but break enchantment, limited wish, miracle, remove curse, or wish can end it prematurely.<\/p>",
+    "name_zh": "妨碍言谈",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "被碰触的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这小小的诅咒会干扰受术者说话的能力。豁免检定失败后，受术者会难以将字词串连在一起。唯有在高度专注之下才能够清晰的沟通。在战斗中说话将会变成与移动动作等价的行动，而非一个自由动作。如果受术者尝试施展一个带有语言成分的法术，他会有50%的机会犯错并失去该法术。就算他可以成功施展一个法术，如果该法术正常需要的施法时间少于1轮的话，则该法术的施法时间变为1轮。如果该法术正常需要的施法时间是1轮或著更长，则施展时间双倍计算(最多长到妨碍言谈结束为止)。妨碍言谈不能被解除魔法，但破除结界(Break enchantment)、移除诅咒(remove curse)、有限祈愿术(limited wish)、神蹟术(miracle)或祈愿术(wish)可以提早结束它。<\/p>",
+    "source": "PC-SDPG"
+}

@@ -1,0 +1,28 @@
+{
+    "key": "harrowing, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/harrowing/",
+    "name": "Harrowing, Greater",
+    "base": "harrowing",
+    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 5,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "bloodlines": {"harrow": 7},
+    "castingTime": "10 minutes",
+    "components": "V, S, F (a harrow deck)",
+    "range": "touch",
+    "target": "one creature, plus one additional creature for every 3 caster levels",
+    "duration": "1 day/level or until fulfilled",
+    "text": "<p>This spell functions as <em>harrowing<\/em>, except it can affect an entire group of creatures and allows its subjects some measure of control over their destiny. Subjects of a <i>greater harrowing<\/i> spell record and spend their accumulated bonuses and penalties individually, according to their own alignment.<\/p><p>Each participant in a <i>greater harrowing<\/i> can gain a special ability to seize control of fate if a card that matches that participant's alignment is drawn. Like the bonuses and penalties granted by the spell, the special ability can be used once before the end of the spell's duration. The exact ability gained depends on the card's suit; if multiple cards that match a participant's alignment are drawn, the participant can select one suit of her choice during the spell's casting.<\/p><ul> <li><b>Hammers<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Strength for 1 minute. While this bonus persists, you can reroll any bull rush, grapple, or sunder combat maneuver checks. You must use the result of this second roll, even if it is worse.<\/li> <li><b>Keys<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Dexterity for 1 minute. While this bonus persists, you gain evasion, as the rogue class feature. If you already possess evasion, you instead gain improved evasion, as the advanced rogue talent.<\/li> <li><b>Shields<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Constitution for 1 minute. While this bonus persists, you gain fast healing 1 and don't die until you reach a number of negative hit points equal to double your Constitution.<\/li> <li><b>Books<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Intelligence for 1 minute. While this bonus persists, you gain a +3 enhancement bonus on checks with all skills you have no ranks in, and you can use those skills even if they can't normally be used untrained.<\/li> <li><b>Stars<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Wisdom for 1 minute. While this bonus persists, you gain immunity to one of the following (your choice): charm and compulsion effects, curse effects, or fear effects.<\/li> <li><b>Crowns<\/b>: As a standard action, you can grant yourself a +4 enhancement bonus to Charisma for 1 minute. While this bonus persists, whenever you succeed at a Diplomacy or Intimidate check to improve a non-hostile creature's attitude toward you, that creature's attitude toward you becomes helpful for the remaining duration of the Charisma bonus, regardless of the number of steps by which you would normally improve its attitude. The creature reverts to its original attitude after the duration expires.<\/li> <\/ul><p>A single creature can be under the effects of only one <em>harrowing<\/em> or <i>greater harrowing<\/i> at a time. If the subject is targeted with a second harrowing or <i>greater harrowing<\/i> spell while a previous <em>harrowing<\/em> or <i>greater harrowing<\/i> is s till affecting him, the new spell automatically fails for that subject.<\/p><\/div>",
+    "name_zh": "高等哈罗占卜",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、器材 (一副哈罗牌)",
+    "range_zh": "接触",
+    "target_zh": "一名生物，每3个施法者等级额外增加一名",
+    "duration_zh": "1天/等级或直到应验",
+    "text_zh": "<p>此法术如同哈罗占卜(harrowing)般运作，除了它可以影响一整个生物群体，并且允许受术者对他们的命运进行一定程度的控制。高等哈罗占卜的受术者会根据他们自身的阵营，个别地去计算与花费他们累计的加值与减值。\n如果被抽出的卡符合参与者的本身的阵营的话，每位高等哈罗占卜的参与者可以获得一种特殊能力好扼住命运的咽喉。像是因此法术所获得的加值与减值，在法术的持续时间结束前，该特殊能力可以被使用一次。所获得的确切的能力要看卡片的组别；如果抽出来有数张卡符合参与者的阵营，则参与者可以在法术施展时挑选她所选择的一套(the participant can select one suit of her choice)。\n锤：以一个标准动作，你可以让自己在力量上获得+4增强加值，持续1分钟。当此加值持续时，你可以重骰任何冲撞、擒抱或破武战技检定。你必须使用重骰后的结果，就算重骰后的结果更糟。\n钥：以一个标准动作，你可以让自己在敏捷上获得+4增强加值，持续1分钟。当此加值持续时，你获得反射闪避，如盗贼的职业能力一般。如果你已经有了反射闪避，你换成获得精通反射闪避，如盗贼的高级盗贼天赋一般。\n盾：以一个标准动作，你可以让自己在体质上获得+4增强加值，持续1分钟。当此加值持续时，你获得快速医疗1，并且直到你的负生命值等同你的体质双倍，否则不会死。\n书：以一个标准动作，你可以让自己在智力上获得+4增强加值，持续1分钟。当此加值持续时，你在所有没有等级的技能上获得+3增强加值，并且你可以使用这些技能，就算正常情况下非受训不得使用它们。\n星：以一个标准动作，你可以让自己在感知上获得+4增强加值，持续1分钟。当此加值持续时，你获得下述某一项的免疫(由你选择)：魅惑与胁迫效果、诅咒效果或著恐惧效果。\n冠：以一个标准动作，你可以让自己在魅力上获得+4增强加值，持续1分钟。当此加值持续时，无论何时，当你成功改善一位非敌意生物对你态度的交涉或威吓检定时，该生物在你保有魅力加值得持续时间内，对你的态度变成乐于帮助，而非正常情况下你改善态度所走的阶级。在持续时间结束后，该生物回复一开始的态度。\n一位生物同时间只能有一次哈罗占卜或高等哈罗占卜的影响，如果受术者还在被之前的哈罗占卜或高等哈罗占卜影响时，又作为第二次哈罗占卜或高等哈罗占卜的目标，那对受术者的新法术将自动失败。<\/p>",
+    "source": "PC-THH"
+}

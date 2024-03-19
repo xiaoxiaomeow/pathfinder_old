@@ -1,0 +1,25 @@
+{
+    "key": "rubberskin",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rubberskin/",
+    "name": "Rubberskin",
+    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 4,
+        "magus": 4,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of rubber or drop of tar)",
+    "range": "personal",
+    "duration": "10 min.s/level",
+    "text": "<p>Your skin becomes more elastic, distributing crushing damage efficiently.<\/p><p>For the duration of the spell, all bludgeoning and falling damage you take is converted into nonlethal damage.<\/p><p>This spell has no effect if you're immune to nonlethal damage.<\/p>",
+    "name_zh": "橡胶皮肤",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料（一块橡胶或沥青）",
+    "range_zh": "自身",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>你的皮肤更有弹性，可以分散冲击力。法术持续时间内，你所受的所有钝击伤害和坠落伤害都会被转为瘀伤。当你免疫瘀伤时该法术无效。<\/p>",
+    "source": "PC-MeleeTT"
+}

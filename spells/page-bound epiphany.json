@@ -1,0 +1,29 @@
+{
+    "key": "page-bound epiphany",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/page-bound-epiphany/",
+    "name": "Page-Bound Epiphany",
+    "book": "Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 2,
+        "cleric": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F (a book with blank pages)",
+    "range": "personal",
+    "duration": "1 round/level (see text)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You magically scour the world's libraries for information that might refresh your memory about a topic. Upon casting this spell, the focus book's pages fill with snippets and selections from countless books. You can spend up to 1 round per caster level (maximum 10) reading these notes. You may cease reading at any time, and when you do you can immediately attempt one Knowledge check with a +1 circumstance bonus for each round you spent studying the book (maximum +10). The writing disappears when the spell ends, and if you fail to succeed at a Knowledge check on the round you stop reading the notes, you don't gain the benefits of this spell.<\/p>",
+    "name_zh": "无字天书",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势、器材（一本无字书）",
+    "range_zh": "自身",
+    "duration_zh": "1轮/等级（见下文）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你奇迹般的全世界的图书馆中搜索想要的信息，可能会更新你对某一主题的记忆。当施放该法术时，你所看的书页上会不断变换着显示来自无尽书籍中的相关片段和节选。每个施法者等级可以阅读这些知识一轮（最高10）。你可以随时停止阅读，而你在阅读停止时，阅读的每一轮都能立即为你在一项知识鉴定中提供+1环境加值（最高10点）。当法术结束时，文字就消失了，如果你在停止阅读当轮进行的知识鉴定失败了，那你无法继续获得这个法术的好处。\n介绍\n对那些在协会中追随术法之道分枝，靠自己发明并磨砺了许多奥术工具的探索者们，它应该毫不稀奇。<\/p>",
+    "source": "PC-PSP"
+}

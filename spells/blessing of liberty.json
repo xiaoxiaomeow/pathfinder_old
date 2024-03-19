@@ -1,0 +1,25 @@
+{
+    "key": "blessing of liberty",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessing-of-liberty/",
+    "name": "Blessing of Liberty",
+    "book": "Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a feather or small object that symbolizes good fortune)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You imbue yourself with the blessings of liberty. You gain a +1 luck bonus per 6 caster levels (minimum +1, maximum +3) to your CMD and on saving throws against spells and traps that would move you or impede your movement. You can end the spell's effects as a swift action to gain a +20 foot enhancement bonus to your base speed for 1 round per whole minute of duration remaining.<\/p>",
+    "name_zh": "自由无价",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (象征幸运的一根羽毛或一件小物品)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你的胸臆充塞著自由万岁的祝福。你在你的CMD，以及对抗会移动你或阻碍你行动的法术与陷阱的豁免检定上，获得每6个施法者等级+1的幸运加值(最小+1，最大+3)。你能以一个迅捷动作结束此法术的效果，在你的基础速度上获得20呎速度的增强加值，此时间为本法术剩余之持续时间，每一个完整的一分钟/1轮。<\/p>",
+    "source": "PC-HotS"
+}

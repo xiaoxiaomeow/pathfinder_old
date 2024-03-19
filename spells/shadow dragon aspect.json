@@ -1,0 +1,30 @@
+{
+    "key": "shadow dragon aspect",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-dragon-aspect/",
+    "name": "Shadow Dragon Aspect",
+    "book": "Pathfinder Player Companion: Kobolds of Golarion. © 2013 Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "bard": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "duration": "1 round/level",
+    "savingThrow": "Will disbelief (if interacted with), see text",
+    "spellResistance": "yes, see text",
+    "text": "<p>You wreathe yourself in the quasi-real form of a dragon. You gain two claw attacks (1d6 plus caster level slashing damage) and a bite attack (1d8 plus caster level piercing damage). These are primary attacks. In addition, you gain shadowy wings, granting you a fly speed equal to your base speed (good maneuverability).<\/p><p>Your shadowy natural weapons are only half as strong as the real things, though creatures that believe them to be real are affected at full strength. A creature is permitted one Will save the first time you strike it. If it succeeds, the creature takes half damage from such attacks for the duration of the spell. If you overcome a creature's spell resistance on your first attack, that creature remains vulnerable for the spell's duration; otherwise, it's immune.<\/p>",
+    "name_zh": "阴影巨龙型态",
+    "race_zh": "狗头人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志，通过则不信 (如果有互动)，见下",
+    "spellResistance_zh": "有，见下",
+    "text_zh": "<p>你用半真实的巨龙型态盘附自身。你获得两次爪抓攻击(1d6+施法者等级，挥砍伤害)与一次噬咬攻击(1d8+施法者等级，穿刺伤害)。这些都是主要攻击。此外，你获得阴影翅膀，给予等同你基本速度的飞行速度(机动性良好)。\n你的阴影天生武器只有真物的一半强大。当你首次击中一名生物时，他可以过一次意志豁免检定。如果成功，该名生物在法术的持续时间内，受到这类攻击所承受的伤害减半。如果你在首次攻击时克服一名生物的法术抗力，该名生物在法术持续时间内保持被伤害的状态(creature remains vulnerable)，不然，他就免疫。\n译注：一般vulnerable被翻译成易伤，可是在这边的意思比较贴近「capable of being wounded or hurt(能够被伤害)」。<\/p>",
+    "source": "PC-KoG"
+}

@@ -16,14 +16,14 @@
     "savingThrow": "see text",
     "spellResistance": "see text",
     "text": "<p>Pulsing bronze energy surrounds you, bestowing three effects.<\/p><p>First, you gain a +3 deflection bonus to AC against attacks by chaotic neutral, lawful neutral, neutral evil, and neutral good creatures. Against attacks by creatures whose alignment is neutral with no other alignment components, this deflection bonus is instead +5.<\/p><p>Second, upon making a successful melee touch attack against a creature from another plane with a neutral component to its alignment, you can banish that creature back to its home plane.<\/p><p>The creature's spell resistance applies to this attempt, and the creature can negate this effect with a successful Will save. If the creature's alignment is neutral with no other alignment components, the creature takes a –2 penalty on this saving throw. This use discharges and ends the spell.<\/p><p>Third, with a touch, you can automatically dispel any one enchantment spell cast by a creature with a neutral component to its alignment. Spells that can't be dispelled by dispel magic also can't be dispelled by dispel balance. Saving throws and spell resistance do not apply to this effect. This use discharges and ends the spell.<\/p>",
-    "name_zh": "反制平衡",
+    "name_zh": "解除中立",
     "castingTime_zh": "标准动作",
-    "components_zh": "言语，姿势，法器",
+    "components_zh": "语言、姿势、法器",
     "range_zh": "接触",
-    "target_zh": "自我和一个接触的，来自其他位面的中立生物，或者你和一个被接触的生物或物体上的惑控效果",
-    "duration_zh": "1轮/等级或直到释放，先到者为准",
-    "savingThrow_zh": "见下文",
-    "spellResistance_zh": "见下文",
-    "text_zh": "<p>脉动着的青铜色能量围绕着你，赋予你三种效果。\n首先，你的AC在面对来自混乱中立，秩序中立，中立邪恶和中立善良生物的攻击时获得+3偏斜加值。在对抗绝对中立，没有其他阵营成分的生物的攻击时，偏斜加值改为+5。\n第二，当你成功地对另一个来自其他位面的，阵营包含中立成分的生物进行一次近战接触攻击时，你可以将该生物驱逐回它的原属位面。该生物的法术抗力作用于此尝试，并且该生物可以通过一次成功的意志豁免抵消此效果。如果该生物的阵营是绝对中立，没有其他阵营成分，该生物在这次豁免中将受到-2的减值。这种用法会立刻结束法术。\n第三，通过一次触摸，你可以自动解除一个阵营中包含中立成分的生物所施展的任何一个惑控法术。不能被解除魔法（dispel magic）驱散的法术也不能被此法术驱散。豁免检定和法术抗力不适用于此效果。这种用法会使法术立刻结束。<\/p>",
-    "source": "PA"
+    "target_zh": "或目标们：你与一名来自另一个位面，被碰触到的中立生物；或你与一个在被碰触生物或物体上的惑控系法术",
+    "duration_zh": "1轮/等级 或 直至消散，看哪个先",
+    "savingThrow_zh": "见下",
+    "spellResistance_zh": "见下",
+    "text_zh": "<p>跳动的青铜光芒围绕着你，给予你三种效果。\n第一：在对抗混乱中立、守序中立、中立邪恶以及中立善良生物的攻击时，你在AC上获得+3偏斜加值。在对抗绝对中立生物的攻击时，此偏斜加值是+5。\n第二：对一名来自另一位面，阵营中有中立成分的生物，做一次成功的近战接触攻击，你可以选择将该生物驱逐回他的原位面。该生物可以通过成功的意志豁免检定使此效果无效(可以应用法术抗力)。如果该生物的阵营是绝对中立，这个豁免检定承受-2减值。这样使用会使能量消散，并且此法术结束。\n第三：透过一次接触，你能够自动解除由一位阵营中有着中立成分的生物，所施展的一个惑控系法术。不能被解除魔法(dispel magic)所解除的法术也同样不能被解除中立所解除。豁免检定与法术抗力不能用在此效果上。这样使用会使能量消散，并且此法术结束。<\/p>",
+    "source": "PC-CoB"
 }

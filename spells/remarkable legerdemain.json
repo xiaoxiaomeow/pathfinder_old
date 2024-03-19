@@ -1,0 +1,25 @@
+{
+    "key": "remarkable legerdemain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/remarkable-legerdemain/",
+    "name": "Remarkable Legerdemain",
+    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>While this spell is in effect, your body and clothing flutter and distort subtly, allowing you to conceal items with uncanny skill.<\/p><p>You treat any object you can hold in one hand as a coin-sized object for the purposes of Sleight of Hand checks to palm the object or make it disappear; however, you can hide only one such item per caster level on your person at one time. This effect does not change the actual sizes of the objects.<\/p>",
+    "name_zh": "经典骗术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (D)",
+    "text_zh": "<p>当此法术生效时，你的身体与衣服以一种巧妙的方式颤动与扭曲，让你以不可思议的技巧隐藏物品。你能将任何能应用在巧手检定中，能一手掌握，体积大小为一枚硬币的物体隐藏起来或是让它消失；但是，你同一时间只能隐藏一件─每施法者等级─这样的物品在你自己身上。此效果不会改变该物体的真实大小。<\/p>",
+    "source": "PC-BM"
+}

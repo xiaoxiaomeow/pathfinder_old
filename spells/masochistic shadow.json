@@ -1,0 +1,38 @@
+{
+    "key": "masochistic shadow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/masochistic-shadow/",
+    "name": "Masochistic Shadow",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "shadow"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 4,
+        "bloodrager": 4,
+        "magus": 4,
+        "occultist": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./level)",
+    "target": "one creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates, then Reflex partial",
+    "spellResistance": "yes",
+    "text": "<p>You animate the target's shadow with semi-living energies drawn from the Shadow Plane, instilling a maddening hunger for its owner's life energy within it. If the target fails its Will save, it takes 1d4 points of Strength damage as a quasi-real shadow manifests in its space and attacks it. This shadow remains attached to the target and moves wherever the target moves.<\/p><p>At the start of each subsequent round, the target must succeed at a Reflex save or take 1d4 additional points of Strength damage; a successful save reduces the Strength damage to 1 point. If its Strength score is reduced to 0 by this spell's effects, the target dies. If the target is in bright light, it gains a +2 bonus on Reflex saves against this spell. If the target is in darkness, it takes a –2 penalty on Reflex saves against this spell.<\/p>",
+    "name_zh": "受虐之影",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "意志，通过则无效，随后反射，通过则部分生效；见描述",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你以来自阴影位面的半活能量活化目标的影子，并灌输它以对它主人的生命能量的病态饥渴，如果目标意志豁免失败了，他承受1d4力量伤害如同一个部分真实的影子在它所处的位置攻击它，这个影子附着在目标身上并随着目标移动而移动。\n在这之后的每一轮，目标必须通过一个反射豁免或受到额外1D4力量伤害，一个成功的豁免将会使得力量伤害变成1点，如果目标的力量因为这个法术效果变为0，目标死亡。如果目标身处明亮光线下，它在对抗这个法术的反射豁免上获得+2加值，如果目标身处黑暗中，它在对抗这个法术的反射豁免上承受-2减值。<\/p>",
+    "source": "PC-BoS"
+}

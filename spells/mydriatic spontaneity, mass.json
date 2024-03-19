@@ -1,0 +1,25 @@
+{
+    "key": "mydriatic spontaneity, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mydriatic-spontaneity/",
+    "name": "Mydriatic Spontaneity, Mass",
+    "base": "mydriatic spontaneity",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors":     [
+        "darkness",
+        "light"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 5,
+        "mesmerist": 5,
+        "psychic": 6,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "text": "<p>This spell functions as <i>mydriatic spontaneity<\/i>, except it can affect multiple creatures.<\/p><\/div>",
+    "name_zh": "群体自发性散瞳",
+    "target_zh": "一名或更多名活物，任两者之间不得相距超过30呎。",
+    "text_zh": "<p>此法术如同自发性散瞳般作用，除了此法术可以影响数个目标。<\/p>",
+    "source": "PC-BoS"
+}

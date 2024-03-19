@@ -1,0 +1,32 @@
+{
+    "key": "legendary proportions",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/legendary-proportions/",
+    "name": "Legendary Proportions",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 6,
+        "druid": 7,
+        "shaman": 7,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a dinosaur bone and powdered amber worth at least 200 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 creature (see text)",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>You call upon the primordial power of ancient megafauna to boost the size of your target. Because of its connection to living creatures of the distant past, the spell does not function on outsiders, undead, and summoned creatures. Your target grows to legendary proportions, increasing in size by one category. The creature's height doubles and its weight increases by a factor of 8. The target gains a +6 size bonus to its Strength score and a +4 size bonus to its Constitution score. It gains a +6 size bonus to its natural armor, and DR 10/adamantine. Its carrying capacity changes to reflect its new size. The creature's equipment and weapons, if any, also increase in size. Any enlarged item that leaves the creature's possession returns to its original size (though thrown weapons and ammunition deal damage at their enlarged size before returning to their true proportions).<\/p><p>If insufficient room is available to accommodate the creature's growth, it attains the maximum possible size and can attempt a Strength check (using its increased Strength score) to burst any enclosures in the process. If it fails, it is constrained without harm by the materials enclosing it. The spell cannot crush a creature by enclosing it.<\/p>",
+    "name_zh": "力拔山兮",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（一根恐龙骨头和至少价值200gp的琥珀粉）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物（见正文）",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效（无害）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你呼唤来古巨兽的原始力量以增大你目标的体型。由于其与遥远过去的生物之间的联系，法术不能作用于异界生物、不死生物、和召唤生物。你的目标会长大到传奇级的比例，体型增加一个等级。生物的高度会加1倍，体重增加8倍。该目标在力量属性上获得+6的体型加值，体质上获得+4体型加值。他在天生护甲上获得+6的体型加值，和DR 10/精金。他的负重能力会根据新体型而改变。生物的装备和武器，如果有的话，也会变大。任何变大的物品如果离开该生物的手上，就会恢复到原来大小（尽管投掷武器和弹药在恢复大小之前会按增大后的体型造成伤害）。 \n如果没有足够的空间容纳该生物的变大，他将达到可能的最大体型，并可以尝试一次力量检定（使用提升后的力量属性）来在过程中撑爆任何围墙。如果他失败，他会被限制在周围的墙壁范围内，且不受到伤害。法术不会在胀大过程中碾压一个生物。<\/p>",
+    "source": "PC-AAnth"
+}

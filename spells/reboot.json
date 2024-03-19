@@ -1,0 +1,31 @@
+{
+    "key": "reboot",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reboot/",
+    "name": "Reboot",
+    "book": "Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "witch": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F (a ruby worth at least 25 gp per HD of the target construct)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one destroyed construct of up to 2 HD/level",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Whispering in the dense, information-rich machine language of the First Ones, you bring a destroyed construct back to operational status for a short time, restoring it to 1 hit point. The construct can be further healed with spells like make whole, but it returns to its destroyed state as soon as this spell's duration expires or it is brought to 0 hit points, whichever comes first. As long as the construct is active, it obeys your commands to the best of its ability, fighting on your behalf and carrying out tasks that it is capable of performing.<\/p><p>Constructs with more than twice as many Hit Dice as your caster level cannot be targeted by this spell.<\/p>",
+    "name_zh": "重启",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势、器材 (一枚价值至少25gp/目标构装体每个生命骰的红宝石)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一具被摧毁的构装体，至多2HD/等级",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>倾听最初者(the First Ones)那密集，含有丰富资讯的机械语言，你将一具被摧毁的构装体回溯至能运作的状态一小段时间，恢复它的生命值至1。该构装体可以被完全修复术(make whole)更进一步的治疗，但一但此法术的持续时间结束，或着它的生命值又变回0，它就会返回被摧毁的状态，取决于哪一个先发生。只要构装体还活动着，它会尽其所能的服从你的命令，为你而战并执行能够执行的任务。\n生命骰超过你施法者等级双倍的构装体，不能成为此法术的目标。<\/p>",
+    "source": "PC-PoS"
+}

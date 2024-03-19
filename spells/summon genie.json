@@ -1,0 +1,19 @@
+{
+    "key": "summon genie",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-genie/",
+    "name": "Summon Genie",
+    "base": "summon genie, lesser",
+    "book": "Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "witch": 5
+    },
+    "text": "<p>This spell functions like <i>lesser summon genie<\/i>, except you can summon one djinni or 1d3 jann.<\/p>",
+    "name_zh": "召唤巨灵",
+    "text_zh": "<p>这个法术类似次级召唤巨灵(lesser summon genie) ，除了你可以召唤1D3个小巨灵（janni）或者1个风巨灵（djinni）<\/p>",
+    "source": "PC-PotS"
+}

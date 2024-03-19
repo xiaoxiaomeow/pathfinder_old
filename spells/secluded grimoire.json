@@ -1,0 +1,30 @@
+{
+    "key": "secluded grimoire",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/secluded-grimoire/",
+    "name": "Secluded Grimoire",
+    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "magus": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "touch",
+    "target": "spellbook touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell sends a spellbook into a random but safe location on the Ethereal Plane, where it remains indefinitely. When you cast this spell, the target spellbook dissolves into quickly fading lines of energy and runes that reflect all of the spells stored within. Thereafter, you can retrieve the spellbook by concentrating as a standard action, causing it to reappear in your hands. You cannot cast this spell on another spellbook if you currently have a spellbook in the Ethereal Plane. No other creatures or objects accompany the spellbook you send away, and the duration of any spells currently affecting the spellbook continue normally.<\/p>",
+    "name_zh": "隐匿魔法书",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "被触碰的法术书",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术将法术书传送到灵界位面中一个随机但安全的位置，在那里它可以无限期的存在。当你施放这个法术时，目标法术书消解为迅速褪去的能量之线和符文，反映了所有它储存的法术。之后，你可以以一个标准动作专注，来唤回法术书，让它在你的手上重新出现。当你已经存了一本法术书在灵界位面时你不能再将该法术施放在另一本法术书上。其他生物或者物品都不能与你送走的法术书相伴，并且作用在法术书上的其他法术的持续时间照常计算。\n诅咒法术\n「诅咒」这个法术描述符，首见于极限魔法(Ultimate Magic)P.137。诅咒常常是永久的效果，并且通常不能够被解除，但他们可以被破除结界(break enchantment)、有限祈愿术(limited wish)、神迹术(miracle)、移除诅咒(remove curse)或祈愿术(wish)所移除。<\/p>",
+    "source": "PC-MagicTT"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "conjure deadfall",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/conjure-deadfall/",
+    "name": "Conjure Deadfall",
+    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 5,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (fistful of mithral tacks)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "one spiked, falling block",
+    "area": "see text",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p><i>You conjure a large metal cube covered in sharp spikes.<\/i><\/p><p>If you conjure the block so that it appears in midair, it immediately plummets downward onto all creatures below it. When you cast this spell, you select the size of the square area you wish it to affect. If you choose to create a deadfall over a single 5-foot square, the block deals 1d6 points of bludgeoning damage per caster level (maximum 15d6) to each creature in the area. A deadfall over a 10-foot square deals 1d6 points of bludgeoning damage per 2 caster levels (maximum 7d6), a deadfall over a 15-foot square deals 1d6 points of bludgeoning damage per 3 caster levels (maximum 5d6), and so on, to a maximum size of a 25-foot square. Only creatures that are on the outer edge of the area affected by a conjure deadfall spell can attempt Reflex saves to avoid the effect; creatures whose space does not touch the edge of the deadfall do not receive a save.<\/p><p>In order to deal damage, the conjured deadfall must start at least 10 feet above the tallest creature in the area to be affected. A conjured deadfall is as tall as it is wide, and the spell fails if you attempt to conjure a deadfall in an area already occupied by a creature or object (including the ceiling). Regardless, a deadfall conjured by this spell disappears as soon as it deals damage or strikes the ground.<\/p>",
+    "name_zh": "召唤致命陷阱",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一把密银大头钉)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "一个布满钉刺，下坠的块状物",
+    "area_zh": "见下",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射，通过则无效 (见下)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你召唤一个布满尖锐尖刺的大型金属立方体。如果你召唤的块状物是在空中显现，它会立即笔直下落到下方所有生物身上。当你施展此法术时，你选择你希望影响的方形区域的大小。如果你选择创造一个5呎方形的致命陷阱，这块状物对区域内的每一个生物，造成每等级1d6点钝击伤害(最大15d6)。一个10呎方形的致命陷阱每两等级造成1d6点钝击伤害(最大7d6)，一个15呎方形的致命陷阱每三等级造成1d6点钝击伤害(最大5d6)，以此类推，最尺寸为25呎方形。生物只有在召唤致命陷阱影响区域的边缘，才可以尝试一次反射豁免来避免此效果，生物的位置并没有接触到致命陷阱的边缘，则不会获得豁免机会。\n为了造成伤害，受到召唤的致命陷阱必须在影响区域中最高生物的上方10呎。一个被召唤的致命陷阱高与宽相等，如果你在一个已经被一位生物或物体(包含天花板)占据的区域内召唤致命陷阱，则此法术失败。无轮如何，一个透过此法术召唤的致命陷阱再造成伤害或击打地面后迅速消失。<\/p>",
+    "source": "PC-DungH"
+}

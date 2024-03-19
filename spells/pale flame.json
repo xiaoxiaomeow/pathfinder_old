@@ -1,0 +1,31 @@
+{
+    "key": "pale flame",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pale-flame/",
+    "name": "Pale Flame",
+    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "druid": 2,
+        "hunter": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (caphorite shard)",
+    "range": "0 ft.",
+    "effect": "flame in your palm",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions as per produce flame, except that the flames never glow brighter than dim light, including any fires started by this spell. These flames cast light only half the distance of a torch and cannot be seen from more than 100 feet away. The flames deal 2d6 points of fire damage + 1 point per caster level (maximum +5). Against plants, this damage increases to 2d6 points + 2 points per caster level (maximum +10).<\/p>",
+    "name_zh": "暗淡之焰",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (卡弗莱特矿石的碎片)",
+    "range_zh": "0尺",
+    "effect_zh": "火焰出现在你的手心",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术如同燃火术(produce flame)般作用，除了这火焰永远不会比昏暗光亮程度(dim light)更亮，这也包括那些因此法术而燃起的火。这些火焰的光亮距离只有一根火把光照范围的一半，并且在超过100呎外的地方看不到。这火焰造成2d6+1点/施法者等级的火焰伤害(最多+5)。对植物，这伤害增加至2d6+2点/施法者等级(最多+10)。\n译注：卡弗莱特矿石(Caphorite)暂时还没有人翻译，这是一种专门在幽暗地域中出产的矿石，它能发出有蜡烛亮度的澄紫色光芒。而又因为卓尔会在这种矿石附近种植真菌与其他植物(他们认为这些矿石有助于这些植物生长)，所以又被称作卓尔石(drowstone)。<\/p>",
+    "source": "PC-HotD"
+}

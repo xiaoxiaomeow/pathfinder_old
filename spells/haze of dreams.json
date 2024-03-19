@@ -1,0 +1,40 @@
+{
+    "key": "haze of dreams",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/haze-of-dreams/",
+    "name": "Haze of Dreams",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "paladin": 1,
+        "shaman": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M (pinch of sand)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You fill an enemy's head with waking dreams, a reminder of the pleasures, delights, and terrors to be found in the dream world. While in this strange dream state, the target moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.<\/p><p>Multiple <i>haze of dreams<\/i> effects do not stack, nor does this spell's effect stack with slow.<\/p>",
+    "name_zh": "游离幻梦",
+    "race_zh": "黛丝娜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料（一撮细砂）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>活生生的梦境萦绕在你的敌人脑中，这感觉可能愉悦，可能迷离也可能恐怖。在他被白日梦所困扰的状态下，目标生物只能以半速移动（以5尺为一个单位），速度的降低同时也影响目标的跳跃距离。\n多个游离幻梦的效果并不叠加，这个法术与法术缓慢术的效果也不叠加。<\/p>",
+    "source": "PC-FoP"
+}

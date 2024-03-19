@@ -1,0 +1,32 @@
+{
+    "key": "hermean potential",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hermean-potential/",
+    "name": "Hermean Potential",
+    "book": "Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "medium": 1,
+        "mesmerist": 1,
+        "psychic": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a gold dragon scale)",
+    "range": "touch",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>You gift the target with the ability to perfect its actions via mental clarity. On the next attack roll, saving throw, ability check, or skill check the target attempts, it rolls twice and takes the more favorable result. For every 5 caster levels you have, the target can roll twice on an additional attack roll, saving throw, ability check, or skill check (to a maximum of 5 rolls at 20th level).<\/p><p>Hermean potential is countered and dispelled by ill omen, but does not itself counter or dispel ill omen.<\/p>",
+    "name_zh": "赫迷亚之潜力",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，器材（一枚金龙鳞片）",
+    "range_zh": "接触",
+    "target_zh": "接触的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你让目标头脑清晰，可以完美地执行动作。在目标尝试下一次的攻击投骰，豁免检定，属性检定，或技能检定时，他能投骰两次，并取更有利的结果。目标重复投骰的个数等于你施法者等级的五分之一（最多为20级时的5个投骰）。\n赫迷亚之潜力会被凶兆APG法术反制和解除，但它本身不能反制或解除凶兆法术。<\/p>",
+    "source": "PC-LoD"
+}

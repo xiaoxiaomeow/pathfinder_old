@@ -1,0 +1,38 @@
+{
+    "key": "knell of the depths",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/knell-of-the-depths/",
+    "name": "Knell of the Depths",
+    "book": "Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "descriptors":     [
+        "curse",
+        "water"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 3,
+        "magus": 2,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 3,
+        "witch": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves.<\/p><p>The target takes a –10 penalty on Swim checks and automatically sinks 15 feet per round when in any body of liquid. The creature does not sink if standing upon a solid surface capable of supporting its weight, even if it is submerged.<\/p>",
+    "name_zh": "深渊丧钟",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "一名生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你令受术者被诅咒元素能量所复盖，当受术者靠近水时，附近的水体就会被扰动，并且水之卷须会将之拖向更深的海低。受术者在游泳检定上承受-10的罚值，并且在任何液体中自动下沉15呎/每轮。如果能站在一个可以支撑他体重的固态表面，则该生物不会下沉，就算他被淹没了。<\/p>",
+    "source": "PC-BotC"
+}

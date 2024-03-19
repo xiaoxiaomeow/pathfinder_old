@@ -1,0 +1,19 @@
+{
+    "key": "shadow transmutation, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-transmutation/",
+    "name": "Shadow Transmutation, Greater",
+    "base": "shadow transmutation",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "shaman": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "text": "<p>This spell functions like <i>shadow transmutation<\/i>, except it can mimic greater polymorph instead of polymorph. The illusory attacks and special abilities of any shape assumed using <i>greater shadow transmutation<\/i> deal three-fifths (60%) damage to nonbelievers, and non-damaging effects are 60% likely to work against nonbelievers.<\/p><\/div>",
+    "name_zh": "高等阴影转变术",
+    "text_zh": "<p>这个法术如同阴影转变术一般运作，除了它可以复制高等变形术而不是变形术。幻象的攻击和特殊能力对于不相信的生物造成60%的伤害，非伤害效果对于不相信的生物也有60%几率生效。<\/p>",
+    "source": "PC-BoS"
+}

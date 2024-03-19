@@ -1,0 +1,30 @@
+{
+    "key": "weapons against evil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/weapons-against-evil/",
+    "name": "Weapons Against Evil",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "paladin": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>Each weapon this spell affects each shines with pale light that dimly illuminates a 5-foot square. These weapons also ignore the DR of evil creatures that have DR 5 or lower, as long as the damage reduction is not DR/epic.<\/p>",
+    "name_zh": "正义之兵",
+    "race_zh": "艾梅奥黛",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一件武器 /等级，任两件武器之间相距不得超过20呎。",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效（物体）",
+    "spellResistance_zh": "有 (物体)",
+    "text_zh": "<p>这个法术能让一件武器亮起灰白的光芒，照亮它所处位置为中心5尺半径的范围。除此之外，被法术影响的武器在对抗邪恶生物时，视为目标生物的DR降低5点（除非目标拥有DR/史诗）。<\/p>",
+    "source": "PC-FoP"
+}

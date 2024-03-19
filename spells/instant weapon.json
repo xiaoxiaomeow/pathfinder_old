@@ -1,0 +1,31 @@
+{
+    "key": "instant weapon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-weapon/",
+    "name": "Instant Weapon",
+    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["force"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "cleric": 2,
+        "inquisitor": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "0 ft.",
+    "effect": "melee weapon of opaque force",
+    "duration": "1 min./level",
+    "text": "<p>You create a melee weapon sized appropriately for you from opaque force.<\/p><p>You are considered proficient with this weapon, which acts in all ways as a masterwork weapon typical of its type. The instant weapon has hardness 20 and the same number of hit points as a typical weapon of its type. As a force effect, it can strike and damage incorporeal creatures. If the instant weapon leaves your hand at any time, the spell ends at the beginning of your next turn.<\/p>",
+    "name_zh": "瞬造武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "0尺",
+    "effect_zh": "透明力场近战武器",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你用力场创造一把符合你体型的近战武器。你被视为擅长该武器，并且它在各方面都被视为一把精制品的原型武器。瞬造武器硬度20，并拥有其原型武器相同点数的hp。作为力场效果，它可以命中并伤害虚体。一旦瞬造武器离开你的手，法术就会在你的下一轮开始时结束。<\/p>",
+    "source": "PC-MeleeTT"
+}

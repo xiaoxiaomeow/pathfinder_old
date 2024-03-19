@@ -1,0 +1,40 @@
+{
+    "key": "garrulous grin",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/garrulous-grin/",
+    "name": "Garrulous Grin",
+    "book": "Pathfinder Player Companion: Spymaster's Handbook © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 2,
+        "inquisitor": 2,
+        "mesmerist": 2,
+        "psychic": 2,
+        "shaman": 2,
+        "spiritualist": 2,
+        "witch": 3
+    },
+    "castingTime": "1 round",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell plants a seed of supernatural fear deep in a subject's mind, causing self-doubt, stuttering, and evasiveness.<\/p><p>Affected creatures have difficulty meeting anyone's gaze and seem dishonest or guilty.<\/p><p>The target takes a –4 penalty on Bluff and Diplomacy checks to convince another of the truth of her words, and on Diplomacy or Intimidate checks to influence another creature's attitude.<\/p>",
+    "name_zh": "饶舌嬉笑",
+    "castingTime_zh": "1轮",
+    "components_zh": "姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这种尼达莱丝（Nidalese）的法术会在目标心中埋下超自然恐惧的种子，引起自我怀疑、口吃和逃避。受影响的生物会难以与他人对视，并看起来不诚实或内疚。目标在说服他人信任自己的唬骗和交涉检定和影响其他生物态度的交涉或威吓检定中受到-4惩罚。<\/p>",
+    "source": "PC-SH"
+}

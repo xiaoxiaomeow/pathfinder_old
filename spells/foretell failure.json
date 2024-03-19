@@ -1,0 +1,29 @@
+{
+    "key": "foretell failure",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/foretell-failure/",
+    "name": "Foretell Failure",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 4,
+        "occultist": 5,
+        "oracle": 4,
+        "psychic": 4,
+        "sorcerer/wizard": 5,
+        "witch": 4
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>You cast this spell immediately before you would take an action that requires a d20 roll, such as a skill check, attack roll, or ability check. The action must be something you can complete in a single round. The spell magically informs you whether the action will succeed if you roll a 10 or better on the d20 roll involved. If the action would be successful under those circumstances, you must take the action. If the action would not be successful, you can take a different action.<\/p>",
+    "name_zh": "预测失败",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "言语，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>在你进行一个需要d20投骰的动作之前，你可以立即施放此法术，比如技能检定，攻击投骰，或属性检定。该动作必须是你可以在一轮中完成的。魔法会让你知道如果你在涉及的d20中投出10或更好的结果，动作是否会成功。如果动作在这种情况下将成功，你必须采取动作。如果动作不会成功，你可以采取不同的行动。<\/p>",
+    "source": "PC-AAnth"
+}

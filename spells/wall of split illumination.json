@@ -1,0 +1,39 @@
+{
+    "key": "wall of split illumination",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-split-illumination/",
+    "name": "Wall of Split Illumination",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors":     [
+        "darkness",
+        "light"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "cleric": 3,
+        "sorcerer/wizard": 3,
+        "inquisitor": 3,
+        "magus": 3,
+        "occultist": 3,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "10-ft.-high vertical sheet of illumination up to 5 ft. long/level",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>An immobile curtain of illumination springs into existence. When created, one side of the wall (designated by you) radiates bright light to a range of 60 feet away from that side while the other side radiates darkness to an equal distance. This effect alters the illumination level by up to two steps toward either bright light (the light side) or darkness (the dark side). The wall also obstructs vision through it, regardless of which side of the wall the viewer is on.<\/p><p>Whereas the shadows that permeate the Material Plane merely denote the absence of light, the darkness of the Shadow Plane is in part created by the Negative Energy Plane. The Shadow Plane is home to beings and structures twisted by this influence into pale, quasi-real reflections of true creatures and objects native to the Material Plane. Closely tied to the forces that animate undead and abounding with phantasmal figments, shadow magic is heavily associated with the schools of illusion and necromancy. The following new spells use the energy of the Shadow Plane to fuel their effects.<\/p>",
+    "name_zh": "分离光照之壁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "10呎高会照明的垂直帆布，至多5呎长/等级",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>一面固定不动的照明窗帘突然显现它的存在。当被创造时，墙的其中一面(由你决定)从墙面辐射出60呎远的强光，另一面则辐射同样距离的黑暗。此效果至多将光照程度向强光(光亮面)或黑暗(黑暗面)迈向两阶段。这墙也能阻碍视线穿透，无论观察者在哪一侧。\n阴影法术\n尽管弥入主物质位面的阴影仅是缺乏光亮，阴影位面黑暗的那部分是由负能量位面所创造的。阴影位面是被这种影响扭曲成苍白、半真实，主物质位面本土真实生物之投影的存在与建筑物的避难所。与驱动死灵和充满著的魅影幻象紧密相依，阴影魔法与幻术和死灵学派有非常密切的关连。下列的新法术使用阴影位面的能量来提高它们的效果。<\/p>",
+    "source": "PC-BoS"
+}

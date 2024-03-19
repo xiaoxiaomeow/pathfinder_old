@@ -1,0 +1,28 @@
+{
+    "key": "rite of centered mind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rite-of-centered-mind/",
+    "name": "Rite of Centered Mind",
+    "book": "Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["meditative"],
+    "levels":     {
+        "cleric": 1,
+        "druid": 1,
+        "shaman": 1,
+        "wizard": 1
+    },
+    "castingTime": "1 hour",
+    "components": "V, M (soothing incense worth 100 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "24 hours or until discharged",
+    "text": "<p>You heighten your awareness of your own thoughts, allowing you to more easily resist outside influences.<\/p><p>You gain a +1 resistance bonus on saving throws to resist mind-affecting effects. This resistance bonus is increased to +2 if the effect is an emotion or fear effect. Additionally, at any time during the spell's duration, whenever you fail a saving throw to resist a mind-affecting effect, you can expend the spell's remaining duration as an immediate action in order to reroll that saving throw. You must take the second result, even if it's worse. The +2 resistance bonus granted by the spell applies to the reroll, but after you make this reroll, the spell ends.<\/p>",
+    "name_zh": "专注仪典",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言，材料（价值100gp的舒缓香料）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "24小时或直到被释放",
+    "text_zh": "<p>你提高了自身的意志力，让你更容易抵抗外界的影响。你可以获得+1的抗力加值来抵抗影响心灵效果。如果该效果是情绪或恐惧效果，则加值提升到+2。此外，在法术持续时间内的任何时候，无论何时当你在一次抵抗影响心灵效果的豁免检定中失败，你可以将法术的剩余持续时间以一个直觉动作消耗掉，以重新进行豁免投骰。你必须采取第二个结果，即使它更糟。法术的+2抗力加值也适用于重新投骰，但是在你完成重骰后，法术就会结束。<\/p>",
+    "source": "PC-DA"
+}

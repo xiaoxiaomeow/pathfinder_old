@@ -1,0 +1,38 @@
+{
+    "key": "curse of dragonflies",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-dragonflies/",
+    "name": "Curse of Dragonflies",
+    "book": "Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "descriptors":     [
+        "air",
+        "curse"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "druid": 3,
+        "magus": 3,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 4,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a paper insect)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "permanent (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You invest a target with cursed elemental energy, making the open skies anathema to it. If the affected creature ever tries to fly more than 5 feet above the ground, paper insects erupt from the air around the creature to interfere with its movement. The affected creature's flight maneuverability decreases by one step for every 3 caster levels you have. A creature whose maneuverability would be brought below clumsy must land at the end of its turn each round or fall.<\/p><p>This spell does not affect incorporeal creatures or creatures that are otherwise intangible (such as a wizard using gaseous form to fly).<\/p>",
+    "name_zh": "蜻蜓诅咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "永久 (D)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你令受术者被诅咒元素能量所复盖，让辽阔的天空对它深痛恶绝。如果受术生物想要试着飞离地面超过5呎，纸片虫会从天空喷发而出，环绕生物的周围阻碍他的行动。你每有3个施法者等级，受影响的生物的飞行机动性降低一阶。一名机动性降低到笨拙(clumsy)的生物必须每轮中它的回合结束时着陆，或著坠落。\n此法术并不影响虚体生物或那些以其他方式致使难以捉模的生物(像是法师使用气化形体(gaseous form)来飞行)。<\/p>",
+    "source": "PC-BotC"
+}

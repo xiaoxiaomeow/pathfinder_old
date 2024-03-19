@@ -1,0 +1,31 @@
+{
+    "key": "mage's crawl space",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mages-crawl-space/",
+    "name": "Mage's Crawl Space",
+    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 2,
+        "bard": 2,
+        "shaman": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of clay)",
+    "range": "personal",
+    "effect": "5-foot sphere centered on yourself",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>When you cast this spell, you merge with an adjacent natural stone surface, forming a 5-foot pocket within. If the stone surface does not have enough volume to safely contain a 5-foot sphere of empty space, the spell fails. When created, there is sufficient air within the pocket for up to one Medium creature to survive for the spell's duration, including one additional Tiny or smaller creature, such as a familiar. At the end of the spell's duration, you are immediately expelled into the nearest available open space adjacent to the surface you merged with.<\/p>",
+    "name_zh": "法师的徐行空间",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一块粘土)",
+    "range_zh": "自身",
+    "target_zh": "以你为中心的5呎球体",
+    "duration_zh": "1小时/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当你施展此法术时，你与邻接的自然岩石表面相融合，在内形成5呎的小型区域。如果此岩石的表面没有足够的体机，安全的容纳5呎球型中空区域，此法术失败。创造时，在这个中空区域内有充足空气可以给至多一个中体型生物在法术持续时间内生存所用，也可以多包含额外一个超小体型或更小的生物，像是一只魔宠。在法术持续时间结束时，你会立即被驱逐出在你融入地点，相邻最近的开阔空间。<\/p>",
+    "source": "PC-HotD"
+}

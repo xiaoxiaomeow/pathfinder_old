@@ -1,0 +1,37 @@
+{
+    "key": "umbral weapon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-weapon/",
+    "name": "Umbral Weapon",
+    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "illusion",
+    "descriptors":     [
+        "cold",
+        "shadow"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "bard": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pair of miniature swords)",
+    "range": "touch",
+    "target": "melee weapon touched",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>A shadowy afterimage trails behind the targeted weapon, potentially damaging foes even when the weapon misses.<\/p><p>Once per round, when the weapon's wielder misses a creature with the target weapon, the wielder can reroll the attack. If the reroll hits, the spell hits the targeted creature and deals 1d8 points of cold damage, plus 1 additional point per 2 caster levels (maximum +10). If an attacked creature has spell resistance, you must attempt a caster level check (1d20 + caster level) against that spell resistance the first time the spell damages the target.<\/p><p>If the creature successfully resists <i>umbral weapon<\/i>, the spell is dispelled. If not, the creature takes damage as normal.<\/p>",
+    "name_zh": "阴影武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料（一对微型剑）",
+    "range_zh": "接触",
+    "target_zh": "接触到的近战武器",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>挥舞剑时会留下幻影迹象，就算攻击丢失也可能对敌人造成伤害。每轮1次，该武器持用者对敌人攻击失败时，持用者可以重骰该次攻击骰。若重骰命中，幻影之剑会对目标造成1d8+每2施法等级1点（最大+10）的寒冷伤害。若被攻击者有法术抗力，你必须在首次通过阴影武器造成伤害时进行施法者等级检定对抗法术抗力。若目标成功抵抗了阴影武器，法术会解消。若抵抗失败，目标正常受到伤害。<\/p>",
+    "source": "PC-MeleeTT"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "telepathic censure",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telepathic-censure/",
+    "name": "Telepathic Censure",
+    "book": "Pathfinder Player Companion: Demon Hunter's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 2,
+        "inquisitor": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature (see text)",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell creates an invisible psychic interference that inhibits telepathic communication. When cast upon a creature that can communicate via telepathy, this spell prevents that ability's use— either to receive or project thoughts. When cast upon a creature without telepathy, the spell merely prevents the target from receiving telepathic communication. Those affected by this spell or that attempt to telepathically communicate with creatures under its effects are not innately aware that their communication is being inhibited. This spell temporarily disrupts spells and effects like telepathic bond or telepathic messages sent by a helm of telepathy, but not attacks and effects unrelated to communication like detect thoughts or a neothelid's psychic crush.<\/p>",
+    "name_zh": "心电谴责",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个生物（见下文）",
+    "duration_zh": "1分钟/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术会创造一种无形的精神干扰，抑制了心灵感应交流。当被施展到一个可以通过心灵感应来进行交流的生物身上时，这个法术会阻止他使用这种能力——无论是接受还是发送。当施展在没有心灵感应能力的生物上时，这种法术只会阻止目标接收心灵感应的通讯。受此法术影响或试图与受影响生物进行心灵感应交流的人，并不会自然而然的知道他们的沟通被抑制。这种法术会暂时打断法术和效果，例如心灵连线，或心电感应头盔发送的心灵传讯，但不会影响与交流无关的攻击和效果，如侦测思想或一个夺心巨虫的灵能碾压。<\/p>",
+    "source": "PC-DHH"
+}

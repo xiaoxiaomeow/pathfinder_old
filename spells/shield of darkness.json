@@ -1,0 +1,37 @@
+{
+    "key": "shield of darkness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-darkness/",
+    "name": "Shield of Darkness",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "evocation",
+    "descriptors":     [
+        "darkness",
+        "shadow"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 3,
+        "inquisitor": 3,
+        "shaman": 3,
+        "spiritualist": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You shield yourself with darkness, reducing the illumination level in your space to magical darkness and granting you total concealment. Your opponents are automatically aware of which squares you occupy, preventing you from attempting Stealth checks using this concealment unless every square adjacent to you has an illumination level of darkness or lower. Shield of darkness does not hinder your vision, and creatures that can see in magical darkness ignore this effect.<\/p>",
+    "name_zh": "黑暗之盾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你用黑暗护卫自身，减少你占据空间处的照明程度，形成一股超自然黑暗，并且给予你全隐蔽。你的敌人能自动意识到你占据的空间，阻止你使用这隐蔽来尝试隐匿检定，除非邻近你的每一处空间的光照程度都在黑暗或更低。黑暗之盾并不阻碍你的视线，并且可以看破魔法黑暗的生物能忽视此效果。<\/p>",
+    "source": "PC-BoS"
+}

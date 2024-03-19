@@ -1,0 +1,29 @@
+{
+    "key": "adroit retrieval",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/adroit-retrieval/",
+    "name": "Adroit Retrieval",
+    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "occultist": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You instill the target with the ability to withdraw small items from her pockets or packs with supernatural swiftness. When the target retrieves an item stored on itself, it can retrieve the item either as a move action without provoking attacks of opportunity, or as a swift action that provokes attacks of opportunity. This effect functions only when the target attempts to retrieve a stored item that weighs less than 1 pound per caster level (maximum 15 pounds).<\/p>",
+    "name_zh": "心灵手巧",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你向目标灌输一项能力，让目标能以超常的速度从她的口袋或是包中将小物品取出。当目标想取出位于她身上的物品时，她能以一个不会造成借机攻击的移动动作将物品取出，或是一个会造成借机攻击的迅捷动作将物品取出。只有在目标取出东西的重量，小于每施法者等级1磅(最大到15磅)时，此效果才会生效。<\/p>",
+    "source": "PC-BM"
+}

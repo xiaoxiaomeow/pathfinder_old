@@ -1,0 +1,29 @@
+{
+    "key": "harvest season",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/harvest-season/",
+    "name": "Harvest Season",
+    "book": "Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "druid": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one plant",
+    "duration": "instantaneous; see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You cause an explosive burst of growth in a single plant, causing it to grow through a cycle of flower, fruit, or grain production as appropriate. If the plant is not one that normally produces food fit for humanoid consumption, it produces edible flowers under the effect of this spell. The plant produces enough food to nourish one Medium creature per caster level. Food harvested through this spell rots if not eaten within 24 hours. This spell nourishes, fertilizes, and pollinates the plant, and doesn't harm the plant in any way. This spell has no effect on plant creatures.<\/p>",
+    "name_zh": "丰收季",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言、姿势、材料",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一棵植物",
+    "duration_zh": "立即；见下",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使单一种植物呈现井喷式的生长，令花卉、水果或谷物以适恰的周期生长生产。如果该植物在正常情形下，生产的并非适合类人所食用，那该植物在此法术作用下将会生产可食用的花卉。该植物生产的食物足够喂饱每施法者等级/1名中体型生物。透过此法术所收获之食物，如果没有在24小时内吃完，会腐烂。此法术对植物滋养、施肥以及授粉，并且不会以任何方式伤害该植物。此法术对植物生物没有效果。<\/p>",
+    "source": "PC-HotS"
+}

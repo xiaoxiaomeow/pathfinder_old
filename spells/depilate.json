@@ -1,0 +1,31 @@
+{
+    "key": "depilate",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/depilate/",
+    "name": "Depilate",
+    "book": "Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "bard": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 round",
+    "components": "S, M (a sliver of cow's tongue)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature with hair or fur",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This simple jinx causes a target's hair or fur to fall out in patchy clumps, leaving the creature disheveled and less commanding.<\/p><p>A jinxed creature takes a –2 penalty on all Diplomacy, Intimidate, and Perform checks until the hair begins to regrow 1 week later, or until the damage can be concealed with a successful Disguise or Heal check (the DC is equal to the original save DC of the spell). A successful break enchantment, remove curse, or similar effect instantly regrows the target's hair or fur and removes the spell's effects.<\/p>",
+    "name_zh": "脱毛咒",
+    "castingTime_zh": "1轮",
+    "components_zh": "姿势，材料（一片牛舌）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个有头发或皮毛的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个简单的厄运诅咒一个生物的头发或者毛发不匀称地团块状脱落，让这个生物变得邋遢落魄。被厄运附身的生物在所有交涉，威吓和表演检定中承受-2罚值，直到1周后头发再生或者直到这个伤害被一次成功的伪装或医疗检定遮蔽起来（DC等于法术DC）。一个成功的破除结界，移除诅咒或类似的效果可以立即再生脱落的头发或毛发，并且移除这个法术的效果。<\/p>",
+    "source": "PC-BotB"
+}

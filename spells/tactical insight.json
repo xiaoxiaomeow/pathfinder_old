@@ -1,0 +1,27 @@
+{
+    "key": "tactical insight",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-insight/",
+    "name": "Tactical Insight",
+    "book": "Pathfinder Player Companion: Quests &amp; Campaigns © 2013, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 6,
+        "inquisitor": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "1 hex",
+    "duration": "1 battle",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Choose a single army tactic. You grant mastery of this tactic to the target army for the spell's duration. This tactic may bring an army's total known tactics to a number greater than normally allowed.<\/p>",
+    "name_zh": "战术洞察",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "area_zh": "一支军队",
+    "duration_zh": "一场战斗",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>选择一个单一的军队战术。你在法术持续时间内将这一战术运用到目标军队上。这一战术会让军队的已知战术超出其通常允许的数量。<\/p>",
+    "source": "PC-QC"
+}

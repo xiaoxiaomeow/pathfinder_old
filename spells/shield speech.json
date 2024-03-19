@@ -1,0 +1,31 @@
+{
+    "key": "shield speech",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-speech/",
+    "name": "Shield Speech",
+    "book": "Pathfinder Companion: Taldor, Echoes of Glory. Copyright 2009, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "10 ft.",
+    "target": "you and one other creature",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You can securely communicate with one creature within range. So long as your target remains within 10 feet of you, you and it can speak freely to each other without fear of being overheard. Communications that involve shield speech cannot be spied on, such as with a divination spell, and observers of the conversation can tell you are communicating but cannot read lips or hear the conversation unless they are the target of the spell. If you or the target speak to any other creatures, they can hear you normally (only communication between you and the target is protected).<\/p><p>The spell does not shield writing, sign language, or any form of communication other than speaking.<\/p>",
+    "name_zh": "秘密交谈",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "10尺",
+    "target_zh": "你与另一个生物",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>在可以与一个在法术范围内的生物进行秘密沟通。只要你的目标距离你10呎内，你和它可以互相说话，而不必担心被偷听。被秘密交谈守护的谈话不能被窥探，例如【预言】系法术，观察对话的人可以转述，你正在进行交流，但除非他们是法术的目标，否则既不能读唇也不能听到对话内容。如果你或著目标对其他生物说话，他们可以正常的听到你在说什么(只有你跟目标之间的对话是被保护的)。这法术并不会屏蔽书写、手语或任何非说话型式的沟通方式。<\/p>",
+    "source": "PC-TEoG"
+}

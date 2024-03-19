@@ -1,0 +1,33 @@
+{
+    "key": "darting duplicate",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/darting-duplicate/",
+    "name": "Darting Duplicate",
+    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "antipaladin": 1,
+        "bard": 1,
+        "magus": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "5 ft.",
+    "effect": "visual figment of the caster",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>An illusory duplicate of you steps clumsily into an adjacent square, presenting a tempting target before winking out of existence.<\/p><p>Any creature that threatens that square must succeed at a Will save or make an attack of opportunity against the image. The image's AC is equal to 10 + 1/2 your caster level, but as a figment, the image is unaffected by any attack.<\/p>",
+    "name_zh": "瞬身幻象",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言、姿势",
+    "effect_zh": "施法者自己的视觉幻象",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你在移动过程中一个幻象复制品出现在一个邻接的区域，在眨眼之间显露在目标眼前吸引注意力。然后威胁幻象所在区域的生物都必须通过意志豁免检定，失败则会对幻象进行借机攻击。幻象的AC=10+1/2施法者等级，但作为一个虚假幻觉，幻象不会受到任何攻击影响。<\/p>",
+    "source": "PC-MeleeTT"
+}

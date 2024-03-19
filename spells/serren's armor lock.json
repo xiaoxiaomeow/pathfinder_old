@@ -1,0 +1,30 @@
+{
+    "key": "serren's armor lock",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/armor-lock/",
+    "name": "Serren's Armor Lock",
+    "book": "Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of rust)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one armored creature",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Reflex partial",
+    "spellResistance": "yes",
+    "text": "<p>Upon pointing at an armored foe, you cause all of the joints of the target's armor to stiffen as otherworldly chains wrap around the target.<\/p><p>On a failed Reflex save, a target in heavy metal armor becomes staggered. A target in light or medium metal armor instead becomes entangled. Targets wearing no armor or nonmetallic armor are unaffected. If the target is wearing heavy metal armor and succeeds at its Reflex save, it becomes entangled instead of staggered; a target in light or medium metal armor that succeeds at its saving throw is unaffected by the spell.<\/p>",
+    "name_zh": "赛伦的盔甲枷锁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一搓铁锈)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一位著甲的生物",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>指着一位著甲的敌人，你使受术者盔甲所有的关节处变得僵硬，就好似其他世界的锁链綑复环绕着该受术者。在反射豁免失败时，身着重型金属盔甲的受术者会变成蹒跚(staggered)状态。身着轻型或中型金属盔甲则变成纠缠(entangled)状态。未著盔甲或是著非金属制的盔甲则不受影响。如果受术者身着重型金属盔甲并成功通过反射豁免检定，则他不变成蹒跚，改为纠缠；如果身着轻型或中型金属盔甲并成功通过反射豁免检定，则他不受此法术影响。<\/p>",
+    "source": "PC-KotIS"
+}

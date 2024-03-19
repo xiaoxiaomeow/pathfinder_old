@@ -1,0 +1,19 @@
+{
+    "key": "summon genie, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-genie/",
+    "name": "Summon Genie, Greater",
+    "base": "summon genie, lesser",
+    "book": "Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 5,
+        "witch": 6
+    },
+    "text": "<p>This spell functions like <i>lesser summon genie<\/i>, except you can summon one shaitan, 1d3 djinni, or 1d4+1 jann.<\/p>",
+    "name_zh": "召唤巨灵，高等",
+    "text_zh": "<p>这个法术类似次级召唤巨灵(lesser summon genie) ，除了你可以召唤1D4+1个小巨灵（janni）或者1D3个风巨灵（djinni）或者1个土巨灵（shaitan）\n新法术\n下面这个新法术，对在拉哈多姆(Rahadoum)的虔诚施法者来说是无价之宝，在那他们必须要掩藏他们魔法中的神圣本质。<\/p>",
+    "source": "PC-PotS"
+}

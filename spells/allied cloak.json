@@ -1,0 +1,33 @@
+{
+    "key": "allied cloak",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/allied-cloak/",
+    "name": "Allied Cloak",
+    "book": "Pathfinder Player Companion: Adventurer's Armory 2 © 2017, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 3,
+        "bloodrager": 3,
+        "magus": 3,
+        "occultist": 2,
+        "sorcerer/wizard": 3,
+        "summoner": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (cloak or outer garment)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You cause a cloak, shawl, poncho, or other outer garment you are wearing to animate to aid and defend you. The cloak provides a +2 shield bonus to your AC. In addition, once each round during your turn, you can take a free action to direct your cloak to use the aid another action to assist your skill check, attack roll, or AC. The cloak has an attack bonus or a total skill bonus equal to your caster level plus your key spellcasting ability score modifier (Charisma for bards, Intelligence for wizards, and so on). If another creature dons the cloak during the duration, the cloak provides its protection and aid to the wearer, but it still uses the same bonus on the aid another actions as if you were the wearer. The cloak cannot take any other type of action.<\/p>",
+    "name_zh": "盟军斗篷",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (斗篷或外衣)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你使一件斗篷(cloak)、披肩、斗篷(poncho)或其他你穿戴着的外衣活化，援助与守护你。这斗篷对你的AC提供+2的盾牌加值。此外，每轮一次，在你的回合内，你可以以一个自由动作，指挥你的斗篷使用援助他人行动来协助你的技能检定、攻击骰或AC。斗篷的攻击加值或总技能加值，等同你的施法者等级+施法关键属性调整值(吟游诗人是魅力、法师是智力，以此类推)。如果在法术持续时间中，另一个生物穿戴着斗篷，该斗篷会提供它的保护与援助给穿戴者，但斗篷在使用援助他人行动上，使用同样的加值，如同你还是穿戴者。这斗篷不能采取任何其他种类的行动。\n译注：cloak、poncho都是斗篷，但cloak就是一般我们常看到的，披在身后的那种；poncho则是南美人穿戴的，会罩住上半身，手下从下方伸出的那种。<\/p>",
+    "source": "PC-AA2"
+}

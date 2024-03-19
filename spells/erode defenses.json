@@ -1,0 +1,29 @@
+{
+    "key": "erode defenses",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/erode-defenses/",
+    "name": "Erode Defenses",
+    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "magus": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./level)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (see below)",
+    "spellResistance": "yes",
+    "text": "<p>Your spell slowly begins to eat away at the defenses of your target.<\/p><p>If the target fails its saving throw, it loses 1 point from any damage reduction and natural armor bonus it may have. If the initial save was not successful, the target may attempt a new saving throw each round for the duration of the spell or continue to suffer cumulative losses. If the first save fails but a subsequent save succeeds, the eroding effects stop at that point, though any of the penalties already accrued remain until the spell expires. At the end of the spell's duration, the target's damage reduction and natural armor bonus immediately return to normal.<\/p><p>Only one erode defenses spell can affect a particular target at any one time.<\/p>",
+    "name_zh": "侵蚀防御",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "target_zh": "一个生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效（见下文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你的法术会慢慢侵蚀目标生物的防御。如果目标在豁免中失败，任何他所拥有的伤害减免和天生防御加值都会减少1点。如果他一开始豁免失败，在接下来的每轮他都可以尝试一次新的豁免检定。如果第一次豁免失败，但之后的豁免成功，则侵蚀作用立刻停止，但任何已承受的罚值则会在法术持续时间结束时才会恢复。在法术的持续时间结束时，受术者的伤害减免和天生防御加值立刻恢复正常。\n在同一时间内，一个特定的目标只会受到一个侵蚀防御法术的影响。<\/p>",
+    "source": "PC-DragH"
+}

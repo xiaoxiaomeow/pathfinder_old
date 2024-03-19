@@ -1,0 +1,33 @@
+{
+    "key": "sensory amplifier",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sensory-amplifier/",
+    "name": "Sensory Amplifier",
+    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "school": "divination",
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "druid": 4,
+        "medium": 2,
+        "mesmerist": 3,
+        "psychic": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "personal",
+    "area": "10-ft.-radius emanation centered on you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You open the minds of all creatures near you and enhance their sensory receptors. All living creatures other than you in the area gain a +5 bonus on Perception checks. Sighted creatures gain low-light vision, and creatures with a sense of smell gain scent. In addition, the first time each round that a creature in the area takes damage, it takes an additional 2d6 points of damage of the same type. Despite being within the area, the caster does not take this extra damage.<\/p>",
+    "name_zh": "感官放大",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "自身",
+    "area_zh": "10呎弥漫，以你为中心",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你打开靠近你的所有生物的心灵，并增强他们的感官受器。在此区域内除你之外的所有活物在察觉检定上获得+5加值。视觉生物(Sighted creatures)获得低光视觉，而嗅觉生物(creatures with a sense of smell)获得灵敏嗅觉。此外，每轮第一次在此区域内的受到伤害的生物，它会额外受到2d6点相同类型的伤害。尽管身在区域内，施法者不受任何额外伤害。<\/p>",
+    "source": "PC-OO"
+}

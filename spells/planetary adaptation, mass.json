@@ -1,0 +1,27 @@
+{
+    "key": "planetary adaptation, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planetary-adaptation/",
+    "name": "Planetary Adaptation, Mass",
+    "base": "planetary adaptation",
+    "book": "Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 6,
+        "sorcerer/wizard": 7,
+        "summoner": 6
+    },
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell functions like <i>planetary adaptation<\/i>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体行星适应",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一位生物/等级，任两者之间不得相距超过30呎",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>此法术如同行星适应般作用，除了上面记载的外。<\/p>",
+    "source": "PC-PoS"
+}

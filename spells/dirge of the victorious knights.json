@@ -15,14 +15,14 @@
     "spellResistance": "yes",
     "text": "<p class=\"desciption\">By performing part of an opera, you call forth spectral illusions of mounted knights to trample your foes under the hooves of their glorious steeds.<\/p><p>The shadowy knights appear in an adjacent 10-foot square and ride forward in the direction you indicate, dealing 1d6 points of damage per caster level (maximum 20d6) to all creatures in their path. Half of this damage is cold damage, while half results directly from arcane power and is not subject to cold resistance or immunity. The knights cannot pass through force effects or barriers that block incorporeal creatures or undead.<\/p>",
     "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>The damage increases to 1d10 points of damage per caster level (maximum 20d10). Any creature that fails its Reflex saving throw is knocked prone, and must succeed at a Fortitude save or be stunned for 1 round. <br><p style=\"margin-left: 20px\"><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, the area increases to a 240-foot line 20 feet wide. All cold damage dealt by the spell ignores cold resistance and cold immunity. <br><\/div>",
-    "name_zh": "凯旋骑士的挽歌",
+    "name_zh": "胜利骑士的挽歌",
     "castingTime_zh": "1轮",
-    "components_zh": "语言，姿势，器材（100gp，以及一名死亡地狱骑士的勋章或是一份切利亚斯歌剧手稿复件（a copy of a Chelish opera script））",
+    "components_zh": "语言，姿势，器材（一枚已死的地狱骑士的勋章或一份歌剧剧本的复本）",
     "range_zh": "120尺",
-    "area_zh": "120尺长，10尺宽",
-    "duration_zh": "瞬间",
+    "effect_zh": "120呎的线形，10呎宽",
+    "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>学派 幻术系（幽影）\n环位 吟游诗人6\n施法时间 1轮\n成分 语言，姿势，器材（100gp，以及一名死亡地狱骑士的勋章或是一份切利亚斯歌剧手稿复件（a copy of a Chelish opera script））\n距离 120尺\n区域 120尺长，10尺宽\n持续时间 瞬间\n豁免 反射，通过则减半；\n法术抗力 可\n通过表演切利亚斯歌剧-地狱骑士的挽歌（dirge of the Hellknights），你会呼唤出地狱骑士的幻象驾驭战马冲锋践踏你的敌人。这些幽影骑士会出现在你附近的一个10尺方形区域，向指定的方向冲锋，对轨迹上的所有生物造成每施法者等级1d6的伤害（最高20d6）。这些伤害一半属于寒冷伤害，一半属于不受寒冷抗性影响的魔法伤害。这批骑士无法通过力场范围，和由虚体生物或不死生物构成的障碍。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>通过表演一小段歌剧，你可以召唤出闪耀着光芒的骑士幻影，让他们以光辉战马的铁蹄践踏敌人。朦胧的骑士会出现在你的方格内并策马向你所指示的方向奔驰而去，对路径上的所有生物造成1d6点每施法者等级（最大20d6）的伤害。这种伤害的一半是寒冷伤害，另一半直接来自于奥术能量，因此不会受寒冷抗力或免疫所减免。幻影骑士无法穿过能阻止虚体生物或不死生物的力场效果或障碍。<\/p>",
+    "source": "PC-CEoD"
 }

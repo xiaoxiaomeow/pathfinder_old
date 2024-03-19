@@ -1,0 +1,30 @@
+{
+    "key": "call the void",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/call-the-void/",
+    "name": "Call the Void",
+    "book": "Pathfinder Player Companion: Dragon Empires Primer © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "levels":     {
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "elementalSchools": {"void": 3},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Reflex for half",
+    "spellResistance": "yes",
+    "text": "<p><i>This spell surrounds you with an aura of nothingness that channels mysterious energies.<\/i><\/p><p>Creatures adjacent to you when this spell is cast and at the start of your turn take 2d6 points of damage. In addition, creatures affected by your aura are fatigued, cannot breathe, and cannot speak or cast spells with verbal components. Creatures adjacent to you are allowed a Reflex save to halve the damage and negate the fatigue effect, but cannot breathe or speak regardless of whether their save is successful as long as they are adjacent to you.<\/p>",
+    "name_zh": "虚空召唤",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "反射，通过则减半；见下",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术将召来黑暗异面（Dark Tapestry）的虚无能量环绕在你的身周。任何毗邻你的生物将在法术施放以及之后你的每轮开始时受到2d6点伤害。除此之外，受到虚能影响的生物将陷入力竭，无法呼吸也不能说话，不能施放任何带有语言成分的法术。受到影响的生物可以通过一个反射检定以减半伤害并避免力竭，但是只要他依然邻接你就仍然无法语言和呼吸。<\/p>",
+    "source": "PC-DEP"
+}

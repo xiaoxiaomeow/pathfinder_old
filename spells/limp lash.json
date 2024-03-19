@@ -1,0 +1,30 @@
+{
+    "key": "limp lash",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/limp-lash/",
+    "name": "Limp Lash",
+    "book": "Pathfinder Player Companion: Goblins of Golarion. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a dead wasp)",
+    "range": "20 ft.",
+    "target": "1 creature",
+    "duration": "special (see below)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p><i>You create a dark whip-shaped field of energy that wraps around an enemy's neck, leaving everything except his head paralyzed until you let go of the whip or it is destroyed.<\/i><\/p><p>You must make a ranged touch attack with this spell. If you strike your target, he takes a 1d6 penalty to his Strength, Dexterity, and Constitution each round. This penalty cannot reduce any attribute to less than 1, and once any of these attributes reaches 1 the target collapses and his body, except his head, becomes paralyzed. While paralyzed in this way, the target retains full use of his senses, including the ability to feel pain, and can speak (including casting spells with only verbal components). The whip has a maximum length of 20 feet, 15 hit points, and a hardness of 5. The spell ends immediately if you let go of the whip or it is destroyed. When the spell ends, all penalties the target took from this spell also end.<\/p>",
+    "name_zh": "束缚鞭笞",
+    "race_zh": "地精",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一只死掉的胡蜂)",
+    "range_zh": "20尺",
+    "target_zh": "1个生物",
+    "duration_zh": "特殊 (见下)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一根由阴影位面能量构成的鞭子，用它缠绕敌人的脖子，使其头部以下被麻痺，直到你撤去鞭子或它被摧毁。\n当你施放本法术，你必须进行一次远程接触攻击检定。如果你命中目标，它会每轮受到1d6点力量、敏捷和体质罚值。这个罚值不会导致任何属性小于1。一旦目标的任一属性被减到1，它会立刻倒下，并且头部以下全部陷入麻痺（paralyzed）状态。\n如果目标被这种方式麻痺，它会保留全部的感官，包括完整的感知疼痛的能力，并且可以说话（这会导致它可能会施放一些仅需语言成分的法术）。\n鞭子最大长度为20尺，拥有15点HP和5点硬度。当你撤去长鞭或长鞭被摧毁，法术立刻结束。\n当法术结束，目标生物被本法术造成的所有减值也立刻结束。<\/p>",
+    "source": "PC-GoG"
+}

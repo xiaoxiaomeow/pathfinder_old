@@ -1,0 +1,39 @@
+{
+    "key": "besmara's grasping depths",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grasping-depths/",
+    "name": "Besmara's Grasping Depths",
+    "book": "Pathfinder Player Companion: Haunted Heroes Handbook © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "subSchool": ["haunted"],
+    "descriptors":     [
+        "emotion",
+        "fear",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 5,
+        "inquisitor": 6,
+        "shaman": 6,
+        "spiritualist": 5,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a vial of sea water)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "one 5-ft. cube/level (S)",
+    "duration": "see text",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "<p>You call upon the restless souls of those who died at sea. This spell can be cast only on an area of deep water. When a creature enters the area, the haunt manifests, automatically grabbing the creature and dragging it under the water on initiative count 10. Each round, the haunt deals 1d6 points of nonlethal damage as it drags its victim down 10 feet; a successful DC 15 Swim check reduces the descent to 5 feet and negates the nonlethal damage.<\/p><p>Each round in the haunt's clutches reduces the duration the victim can hold her breath by 2 rounds. A victim can make a single move or standard action each round while in the haunt's grasp if she succeeds at a Will save; on a failed save, she can only struggle helplessly against the haunt.<\/p><p>A victim cannot use her actions to swim toward the surface while the haunt is active. If the haunt reaches the bottom of its body of water, it pounds its victim against the bottom, dealing 2d6 points of nonlethal damage per round to the victim and reducing the duration the victim can hold her breath by an additional round.<\/p><p>This continues until either the haunt is neutralized (in which case the victim must still swim to the surface) or the victim drowns.<\/p><p>The haunt can grab and attempt to drown multiple creatures in its area on its initiative count. The magic holding the haunt together is unstable and deteriorates while the haunt is active.<\/p><p>Each round at the end of its turn, the haunt automatically loses 1d6 hit points per creature it is currently affecting. Furthermore, the spell's haunt-like manifestation is active throughout the spell's duration, rendering it vulnerable to effects that damage haunts. When the haunt reaches 0 hit points, the spell ends.<\/p><p class=\"divider\">HAUNT STATISTICS<\/p><p><b>Notice<\/b> Perception DC 30 (to detect the smell of brine); <b>hp<\/b> 5 hp/level; <b>Trigger<\/b> proximity; <b>Reset<\/b> none<\/p>",
+    "name_zh": "贝丝玛拉的水鬼之爪",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一瓶海水）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一立方呎/等级（S）",
+    "duration_zh": "见下文",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你召来死于海中之人的不安灵魂。这种法术只能被施放在深水地区。当一个生物进入该区域时，作祟灵就会显现，自动抓住该生物并以10先攻权将其拖拽到水面下。每一轮中，它都会将受害者往下拖10英呎，并造成1d6点非致命伤害；若成功通过一次DC15的游泳检定，受害者被拖曳的深度将减少到5英呎，且不受到非致命伤害。每被作祟灵抓握一轮，受害者能屏住呼吸的时长就会减少2轮（核心规则书445）。如果受害者成功通过一次意志豁免，她每轮能做一个移动或标准动作；若豁免失败，她只能在作祟灵的手中无助地挣扎。在作祟灵还处于活跃态时，受害者不能用她的动作来向水面游去。如果作祟灵已经到达了水底，那么它就会把受害者的身体不断砸向底面，每轮对受害者造成2d6点的非致命伤害，并将受害者的憋气时间额外缩短一轮。这种情况会一直持续到作祟灵被中和（在这种情况下，受害者仍必须游到水面）或受害者溺毙。\n作祟灵可用其先攻权来擒抱和尝试溺毙其区域内的多个目标。将作祟灵聚在一起的魔法并不稳定，并且会在作祟灵活动时恶化。在其回合结尾的每轮中，作祟灵都会自动失去1d6点生命值/当前影响生物数目。此外，法术的类作祟现象在整个法术持续期间都为激活态，使其很容易受到伤害作祟灵的效果影响。当作祟灵的生命值降为0点时，法术就会结束。\n作祟数据\n察觉：察觉检定DC 30（闻到咸水的气味）\n生命值：5hp/等级；触发：5hp/等级；再起：无<\/p>",
+    "source": "PC-HHH"
+}

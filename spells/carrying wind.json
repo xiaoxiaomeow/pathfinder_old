@@ -1,0 +1,26 @@
+{
+    "key": "carrying wind",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/carrying-wind/",
+    "name": "Carrying Wind",
+    "book": "Pathfinder Player Companion: Elemental Master's Handbook © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "descriptors": ["air"],
+    "levels":     {
+        "druid": 3,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level",
+    "text": "<p>When you cast this spell, a wind spirit envelopes you and carries you with it at your direction. You gain a +10-foot enhancement bonus to your base speed and fly speed while this spell is in effect. If you don't have a fly speed, you instead gain a fly speed of 10 feet with poor maneuverability. If your caster level is 10th–14th, the enhancement bonus to these speeds is +20 feet (if applicable, your temporary fly speed is 20 feet with average maneuverability). If your caster level is 15th or higher, the enhancement bonus to these speeds is +30 feet (if applicable, your temporary fly speed is 30 feet with average maneuverability).<\/p>",
+    "name_zh": "携风术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>当你施展这个法术时，一股风暴精魄会包裹着你并且依你指挥来载运你。当法术效果起效时，你在基础移动速度和和飞行速度上获得10呎增强加值。如果你没有飞行速度，你会获得10呎飞行速度和机动性不良。如果你的施法者等级在10-14，增强加值就会变为20呎（如果起效的话，你的飞行速度会变为20呎，和普通机动性）。如果你的施法者等级比15更高，增强加值会变为30呎（如果起效的话，你的飞行速度会变为30呎，和普通机动性）。<\/p>",
+    "source": "PC-EMH"
+}

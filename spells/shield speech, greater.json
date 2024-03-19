@@ -1,0 +1,24 @@
+{
+    "key": "shield speech, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-speech/",
+    "name": "Shield Speech, Greater",
+    "base": "shield speech",
+    "book": "Pathfinder Companion: Taldor, Echoes of Glory. Copyright 2009, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 4,
+        "druid": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "range": "30ft",
+    "area": "30-ft. emanation centered on you",
+    "duration": "10 min./level",
+    "text": "<p>This spell functions as shield speech, except all creatures within the dome may communicate with each other as if linked by shield speech. If they speak with anyone outside the area, those outside the area hear them normally.<\/p><\/div>",
+    "name_zh": "高等秘密交谈",
+    "castingTime_zh": "标准动作",
+    "area_zh": "以你为圆心，30呎弥漫",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p>此法术如同秘密交谈般作用，除了所有在这半圆形遮盖中可以与其他人交谈就好像被秘密交谈所连接般。如果他们与该区域以外的任何人交谈，该区域以外的人会正常听到他们的声音。<\/p>",
+    "source": "PC-TEoG"
+}

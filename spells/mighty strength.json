@@ -1,0 +1,26 @@
+{
+    "key": "mighty strength",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mighty-strength/",
+    "name": "Mighty Strength",
+    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>As bull's strength, except it grants a +8 enhancement bonus to Strength.<\/p>",
+    "name_zh": "强壮之力",
+    "race_zh": "杜鲁德",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>如同牛之力量（bull's strength），除了本法术赋予力量的增强加值为+8。<\/p>",
+    "source": "PC-DoG"
+}

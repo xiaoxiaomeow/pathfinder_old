@@ -1,0 +1,18 @@
+{
+    "key": "nature's ravages, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-ravages/",
+    "name": "Nature's Ravages, Greater",
+    "base": "nature's ravages",
+    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 8,
+        "witch": 7
+    },
+    "castingTime": "10 minute/hd of target",
+    "text": "<p>This spell functions like <i>nature's ravages<\/i>, except the target corpse ages a number of years equal to up to 1 year per caster level (maximum 20 years at 20th level).<\/p><\/div>",
+    "name_zh": "高等自然蹂躏",
+    "castingTime_zh": "10分钟/目标的生命骰",
+    "text_zh": "<p>此法术如同自然蹂躏般作用，除了目标尸体腐朽的年数，至多等同于1年/等级 (最长20年/20等)。<\/p>",
+    "source": "PC-DungH"
+}

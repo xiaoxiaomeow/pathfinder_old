@@ -1,0 +1,32 @@
+{
+    "key": "grappling scarf",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grappling-scarf/",
+    "name": "Grappling Scarf",
+    "book": "Pathfinder Player Companion: Adventurer's Armory 2 © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "inquisitor": 1,
+        "occultist": 1,
+        "skald": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (scarf)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>A scarf you are wearing frays at the end into hook-like shapes and can extend to incredible lengths. Although your scarf retains its weight, its frayed ends function as a grappling hook that can be thrown with a range increment of 20 feet. Your scarf elongates to 100 feet the first time it is thrown during the spell duration.<\/p><p>Regardless of its apparent material, the scarf is as strong and easy to climb as a knotted silk rope. At the end of the duration, the scarf detaches and returns to its former shape, fluttering down from its position if you haven't already retrieved it.<\/p>",
+    "name_zh": "攀爬抓勾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材 (围巾)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>一条你穿着的围巾磨损，最终变成勾状，并可以延长到不可思议的长度。尽管你的勾子重量跟围巾一样，在磨损结束后如爪勾(grappling hook)般运作，并可以用来扔掷，射程增量为20呎。在此法术持续时间内，你的勾子在首次扔掷可以伸长至100呎。不论材料为何，勾子足够强韧，并能轻易用来攀爬，就好像打好结的丝绳。在法术持续时间结束时，勾子分离并且返回先前的形状，如果你还没准备好取回它，它会在它的位置上缓缓飘落。<\/p>",
+    "source": "PC-AA2"
+}

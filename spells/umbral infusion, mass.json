@@ -1,0 +1,20 @@
+{
+    "key": "umbral infusion, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/umbral-infusion/",
+    "name": "Umbral Infusion, Mass",
+    "base": "umbral infusion",
+    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["shadow"],
+    "levels":     {
+        "cleric": 8,
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "target": "one mindless undead creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions as <i>umbral infusion<\/i>, except it can affect multiple mindless undead creatures.<\/p><\/div>",
+    "name_zh": "群体暗影灌注",
+    "target_zh": "每施法者等级一个无心智不死生物，两两之间距离不能超过30呎",
+    "text_zh": "<p>这个法术运作如同暗影灌注，除了它能影响复数的无心智不死生物。<\/p>",
+    "source": "PC-BoS"
+}

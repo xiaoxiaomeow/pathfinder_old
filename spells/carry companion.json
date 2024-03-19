@@ -1,0 +1,32 @@
+{
+    "key": "carry companion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/carry-companion/",
+    "name": "Carry Companion",
+    "book": "Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 2,
+        "paladin": 2,
+        "ranger": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of sand or limestone dust)",
+    "range": "touch",
+    "target": "one willing creature touched",
+    "duration": "permanent; see text",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You touch an animal or magical beast that has a helpful attitude toward you, instantly transforming the creature into a miniature figurine of stone, small enough to fit into the palm of your hand. Creatures with an attitude of less than helpful will not tolerate this spell, and it automatically fails to work on them.<\/p><p>An intelligent animal or magical beast must be a willing subject in order for this spell to take effect. Any items that the creature wears (such as a harness or saddle) or carries (such as those stowed in saddlebags) are transformed along with the creature.<\/p><p>While miniaturized, the creature is under an effect similar to that of a flesh to stone spell: It is mindless and inert, and does not seem alive when viewed with spells like deathwatch. However, you may return the creature to its normal form at any time simply by placing the figurine on the ground, touching it, and uttering a word of command. Otherwise, the creature remains in miniature form unless the spell is broken, such as by dispel magic or stronger magic. Unlike a flesh to stone spell, a creature affected by carry companion is unaffected by stone to flesh. If the miniature figurine is broken or damaged, the creature (if returned to its original state) has similar damage or deformities.<\/p>",
+    "name_zh": "携带伙伴",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（一把沙或石灰粉）",
+    "range_zh": "接触",
+    "target_zh": "接触到的自愿生物",
+    "duration_zh": "永久；见下文",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你触摸一个对你态度为乐于帮助的动物或魔法兽，立刻把该生物变为一个石制小雕像模型，小到能放进手里。态度低于乐于帮助的生物不会容许该法术，且法术自动失效。有智慧的动物或魔法兽必须自愿接受法术才能生效。该生物穿戴的任何装备（例如挽具或鞍座）和携带的任何物品（例如放在鞍座包里的东西）也一同被转换。\n当变为模型时，生物犹如受到石化术(flesh to stone)的影响；它变得没有心智且完全静止，甚至用类似观命术(Deathwatch)的法术查看也显示无生命。然而，任何时候你只要把模型放在地上，触摸它并说出命令词，它就能变回本来的样貌。除此之外，生物都一直保持的雕像模型的形态，除非法术受到破坏，例如被解除魔法(dispel magic)或是更高级的法术解除。不同于石化术的是，一个受到携带伙伴影响的生物不会受到解除石化的影响。如果雕像模型受到破坏，该生物（如果变回原本的形态）也会受到类似的伤害或缺损。<\/p>",
+    "source": "PC-KotIS"
+}

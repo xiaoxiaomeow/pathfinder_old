@@ -1,0 +1,31 @@
+{
+    "key": "enhance water",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enhance-water/",
+    "name": "Enhance Water",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "paladin": 1
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "touch",
+    "target": "1 pint of water/level",
+    "duration": "instantaneous",
+    "savingThrow": "Fort negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>This spell transforms water into an alcoholic beverage, typically ale, beer, mead, or wine. The alcohol is of middling quality but perfectly drinkable. The spell also serves to remove poisons, diseases, minerals, and other toxins from the water as it transforms. The more contaminants that exist in the water, the darker the ale or the more full-bodied the wine becomes. The beverage's alcohol content is not affected by the presence or absence of contaminants.<\/p><p>This spell does not work on unholy water, potions, or other liquids with magical power.<\/p>",
+    "name_zh": "化水为酒",
+    "race_zh": "凯登•凯利恩",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "1品脱水/等级",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效（物体）",
+    "spellResistance_zh": "有 (物体)",
+    "text_zh": "<p>该法术可以将清水化为美酒，通常情况下是麦酒，啤酒，蜂蜜酒或葡萄酒。酒的质量一般但足敷饮用，并且在法术完成时，它可以移除水中的毒素，疾病，矿质或其他对人有害的物质。原本水中的污物越多，它所变成的麦酒或葡萄酒颜色就越深，但其总量不会有变化。这个法术对邪水，药水或其他拥有魔法力量的水没有效果。<\/p>",
+    "source": "PC-FoP"
+}

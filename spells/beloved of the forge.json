@@ -1,0 +1,27 @@
+{
+    "key": "beloved of the forge",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/beloved-of-the-forge/",
+    "name": "Beloved of the Forge",
+    "book": "Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "cleric": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level",
+    "text": "<p>You gain an innate sense of the direction to your home or to the place where you last attempted a Craft check, whichever you choose when you cast the spell. You gain a +10 insight bonus on Survival checks made to find your way back to the chosen place.<\/p><p>While under the effects of this spell, items in your possession gain a +2 luck bonus on saving throws against spells and effects, and you gain a +5 luck bonus on Craft checks to create or repair objects with Craft skills in which you are trained.<\/p>",
+    "name_zh": "钟情铸造",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>你获得了对你的家乡，或最后一次尝试工艺检定的地方的天生方向感，当你施展法术时，由你选择是哪个。你在寻找回到选择地点的路上，于生存检定中获得+10内在加值。当处于此法术效果时，你的所有物在对抗法术与效果的豁免检定上获得+2幸运加值，并且，你在受训过并用来创造或修复物品的工艺技能检定上，获得+5的幸运加值。<\/p>",
+    "source": "PC-HotS"
+}

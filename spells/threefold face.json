@@ -1,0 +1,27 @@
+{
+    "key": "threefold face",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-face/",
+    "name": "Threefold Face",
+    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 3,
+        "medium": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a three-pointed knot)",
+    "range": "personal",
+    "target": "you",
+    "duration": "9 min.s",
+    "text": "<p>You grow two additional faces set equidistantly around your head, each embodying a different aspect of your personality that you choose (such as kindliness, joy, or wrath). You gain all-around vision and can't be flanked. Effects that would blind you, deafen you, block your mouth, or otherwise affect your face, including beneficial effects that grant you exceptional vision, only affect a single face (for example, it would take three castings of blindness/deafness to blind you). You lose all-around vision if even a single face becomes blind. This spell doesn't grant you additional magic item slots or additional heads. When threefold face ends, you gain all the conditions from all three faces, for good or ill.<\/p>",
+    "name_zh": "三重面相",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一个三端之结）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "9分钟",
+    "text_zh": "<p>你长出了两张额外的脸，这三张脸等间距地环绕在你的头上， 每一张脸都是你性格不同方面的具象化（像是仁慈，欢愉，或者愤怒）。你获得全域视野并且不能被夹击。让你目盲，耳聋，变哑或者其他影响你面部的效果，包括赋予你更强视觉的正面效果，都只能影响你的一张脸（举个例子，需要施放三次目盲/耳聋术才能让你目盲）。即使在一张脸失明的时候你也会失去全域视野。这个法术不会赋予你额外的奇物位或者更多的头。当三重面相效果结束时，你将获得来自三张脸的所有状态，无论是正面的还是负面的。<\/p>",
+    "source": "PC-LotFW"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "defoliate",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/defoliate/",
+    "name": "Defoliate",
+    "book": "Pathfinder Companion: Sargava, the Lost Colony. Copyright 2010, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "druid": 2,
+        "ranger": 1,
+        "sorcerer/wizard": 2
+    },
+    "subdomains": {"radiation": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a locust)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "targetOrArea": "<b>Target or Area<\/b>",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You hurl a tiny ball of negative energy, destroying plant life either in a line 60 feet long or a 10-foot-radius spread. This effect removes the cover and concealment provided by trees and undergrowth, eliminates the movement penalties associated with undergrowth, and so forth.<br><br>You may also target a single plant creature with this spell. You must succeed on a ranged touch attack to hit your target. An affected plant creature takes 2d8 points of damage.<\/p>",
+    "name_zh": "枯萎术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一只蝗虫）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "targetOrArea_zh": "见下",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你掷出一颗由负能量构成的小球，摧毁60呎长度直线上或半径10呎发散区域内的植物。这个效果能移除由树木或低矮树丛所提供的掩蔽和隐蔽效果，消除了与低矮树丛相关的移动惩罚等等。\n你也可以用此法术瞄准一个植物生物。你必须成功用远程接触攻击击中你的目标。受影响的植物生物受到2d8点伤害。 \n译注：此处格里菲因遗漏大半，应该是来源网站出现问题，笔者已补完。<\/p>",
+    "source": "PC-STLC"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "hag's seasoning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hags-seasoning/",
+    "name": "Hag's Seasoning",
+    "book": "Pathfinder Player Companion: Blood of the Coven © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["curse"],
+    "levels":     {
+        "antipaladin": 2,
+        "bloodrager": 2,
+        "druid": 3,
+        "shaman": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (a handful of spices)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "permanent (d)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>You render the affected creature supernaturally delicious, making it the preferred target for animalistic monsters, as well as biting insects, stray animals, and vermin. A creature that makes a successful bite attack against or otherwise ingests a portion of the victim (such as with drain blood or swallow whole) gains a number of temporary hit points equal to half your caster level. These temporary hit points last for 1 hour. A creature cannot gain temporary hit points from this spell more than once per day, no matter how many times it bites your target or how many different cursed targets it bites.<\/p>",
+    "name_zh": "鬼婆的调味料",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势、材料 (少许香料)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名生物",
+    "duration_zh": "永久 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使受影响的生物有了超乎寻常的美味，令他成为兽性怪物、咬人昆虫、离群动物以及害虫的首选目标。对受害者成功进行噬咬攻击的生物，或以其他方式摄入受害者的一部份(像是吸血或活吞)会获得等于你施法者等级一半的临时生命值。这些临时生命值持续一小时。生物每天只能从此法术获得临时生命值一次，无论它咬了受术者多少次，或是咬了多少个不同的受诅咒目标。<\/p>",
+    "source": "PC-BotC"
+}

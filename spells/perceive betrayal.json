@@ -1,0 +1,27 @@
+{
+    "key": "perceive betrayal",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/perceive-betrayal/",
+    "name": "Perceive Betrayal",
+    "book": "Pathfinder Player Companion: Heroes of the High Court © 2017, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "cleric": 6,
+        "inquisitor": 4,
+        "sorcerer/wizard": 7,
+        "witch": 6
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (12 drops of blood), F (a silver circlet worth 500 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level",
+    "text": "<p>By donning a silver circlet anointed with blood, you gain the ability to sense traitorous intent toward a single person to whom you defer, designated when you cast the spell. The spell alerts you when a creature with traitorous intent is within 200 feet, although it doesn't identify the source. By concentrating, you can learn the strength of the greatest threat, based on the following categories.<\/p>",
+    "name_zh": "谋逆探知",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势，材料（12滴鲜血），器材（一枚价值500gp的银饰圈）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>借由在银饰圈上涂上鲜血，你能感知到那些针对你遵从对象的叛逆意图，该对象在施法的时候选定。一旦有抱?谋逆意图的生物进入200尺范围内，该法术就会向你示警。然而这个法术无法定位该生物的位置。通过集中精神，你能判别出这个意图的强度，主要有下列分类：<\/p><p>恶意（Ill Will）：有人不喜欢你的主上，但他尚未打算与之对抗。<\/p><p>图谋（Plotting）：有人正在密谋对付你的主上<\/p><p>迫在眉睫（Imminent）：有人已经开始实施对付你主上的阴谋<\/p><p>谋逆探知无法探测到免疫影响心灵效果或者思想探知的生物的意图<\/p>",
+    "source": "PC-HotHC"
+}

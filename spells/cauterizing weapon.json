@@ -1,0 +1,31 @@
+{
+    "key": "cauterizing weapon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cauterizing-weapon/",
+    "name": "Cauterizing Weapon",
+    "book": "Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "magus": 2,
+        "ranger": 2,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a gobbet of melted wax)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one weapon or 50 projectiles, all of which must be together at the time of casting",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You infuse a weapon with faint but pernicious energy that stymies accelerated healing. Damage dealt by the weapon or ammunition is treated as acid, cold, electricity, and fire, but only for the purpose of negating a creature's regeneration. The weapon is also treated as silver and cold iron at 8th level and is treated as chaotic, evil, good, and lawful at 11th level for the purpose of negating regeneration.<\/p>",
+    "name_zh": "伤蚀武器",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料（一坨融化的蜡）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一把武器或者50发弹药（在施法时必须统一装好）",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效（无害，物体）",
+    "spellResistance_zh": "有效（无害，物体）",
+    "text_zh": "<p>你向武器灌输微弱但是致命的能量来阻止再生。该武器的伤害变为酸、冷、电、火，但只在用于击破生物的再生能力时有效。在计算击破再生时，在8级时，该武器可以被视为银和寒铁，在11级时被同时视为混乱、邪恶、善良、守序武器。<\/p>",
+    "source": "PC-PSP"
+}

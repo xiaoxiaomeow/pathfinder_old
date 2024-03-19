@@ -1,0 +1,20 @@
+{
+    "key": "guardian monument, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-monument-lesser/",
+    "name": "Guardian Monument, Greater",
+    "base": "guardian monument, lesser",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 5,
+        "inquisitor": 5,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "text": "<p>This spell functions as <i>lesser guardian monument<\/i>, except it grants DR 4/magic.<\/p><\/div>",
+    "name_zh": "高等守护石碑",
+    "text_zh": "<p>这种法术如同次级守护石碑，除了会赋予DR 4/魔法。<\/p>",
+    "source": "PC-AAnth"
+}

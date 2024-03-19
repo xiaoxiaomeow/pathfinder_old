@@ -1,0 +1,32 @@
+{
+    "key": "abstemiousness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/abstemiousness/",
+    "name": "Abstemiousness",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "druid": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "target": "a handful of berries, grains, nuts, or rice",
+    "duration": "1 hour",
+    "savingThrow": "Fort negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell magically enhances a handful of simple food, imbuing it with enough nutrition to satisfy a Medium or smaller creature for a full day. The spell does not create food, and thus will not alone prevent someone from starving, but it can extend even limited reserves for lengthy periods.<\/p>",
+    "name_zh": "辟谷术",
+    "race_zh": "义洛里",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料",
+    "range_zh": "接触",
+    "target_zh": "一小撮麦粒，浆果，坚果或稻米",
+    "duration_zh": "1小时",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>不是每一个凡人修行者都能达到得道武僧那样超脱皮囊的空明之境。不过，对于必须要在修行时依赖俗物维生的信徒，义洛理指点了他们如何以极少的食物满足饥饿的方法。这个法术能通过魔法的力量为一小把食物制造特别多的营养，足以让一个体型为中型或更小的的生物满足一日之所需。这个法术并不能制造额外的粮食也不能让它的使用者完全免于饥饿，但在它的帮助下，一个修行者可以依靠极少的储备生存很长的时间。<\/p>",
+    "source": "PC-FoB"
+}

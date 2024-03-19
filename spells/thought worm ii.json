@@ -1,0 +1,15 @@
+{
+    "key": "thought worm ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thought-worm-i/",
+    "name": "Thought Worm II",
+    "base": "thought worm i",
+    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels": {"psychic": 3},
+    "text": "<p>This spell functions as per <i>thought worm I<\/i>, but the penalty on Will saves is –4. This spell can be undercast.<\/p>",
+    "name_zh": "精神蛀虫 II",
+    "text_zh": "<p>该法术的功能如同精神蛀虫I一般，除了目标的意志豁免减值改为-4。该法术可以被降阶施法。<\/p>",
+    "source": "PC-PA"
+}

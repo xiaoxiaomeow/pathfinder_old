@@ -1,0 +1,33 @@
+{
+    "key": "lighten object",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lighten-object/",
+    "name": "Lighten Object",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "cleric/oracle": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1,
+        "summoner": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M (goose down)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 object of up to 1 cubic ft./level",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>The target's weight decreases by half. If this spell is cast on armor, the armor's armor check penalty decreases by 1, though its categorization as light, medium, or heavy does not change.<\/p>",
+    "name_zh": "轻量化",
+    "race_zh": "古拉姆",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，材料（鹅毛）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一件一立方英呎的物体/等级",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效（物体）",
+    "spellResistance_zh": "有（物体）",
+    "text_zh": "<p>该法术的功能如同物品轻量一般，不过该法术可以影响的物品数量等同于你施法者等级的一半。<\/p>",
+    "source": "PC-FoB"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "create holds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-holds/",
+    "name": "Create Holds",
+    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 4,
+        "ranger": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (handful of pebbles)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "path of handholds",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p><i>You create a path of handholds on earthen, plaster, stone, or wooden walls. <\/i><\/p><p><b>Restriction<\/b>: You can not create handholds on walls made of metal or other, harder materials.<\/p><p>The handholds are created in pairs and are approximately 3 feet apart, located in a specific path indicated by your gestures while casting the spell. The handholds' path can span up to 30 feet out from you plus an additional 10 feet per 3 caster levels (maximum 90 feet at 18th level). The handholds protrude approximately 6 inches from the wall, measure 10 inches lengthwise, and are perfectly suited for gripping with fingers or claws. At the end of the spell's duration, any creature being supported by the handholds immediately begins to fall.<\/p>",
+    "name_zh": "创造扶手",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一把鹅卵石)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "一条扶手道",
+    "duration_zh": "1小时/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你在泥土、灰泥、岩石或木墙上(不能是比金属或著其他更坚硬材质造的墙)创造一条扶手道。这扶手成对创造，并且相距3呎，当展此法术时，透过你的手势，指定该条道路落在何处。这条扶手道能以你开始，横跨30呎加上额外每3个施法者等级10呎(最长90呎/18等)。这条扶手从墙上突出的部分约为6呎，纵向长度为10吋，并且完美贴合手指或爪抓的耙抓。在法术的持续时间结束时，位在扶手道上的任何生物会立即开始向下坠落。<\/p>",
+    "source": "PC-DungH"
+}

@@ -1,0 +1,26 @@
+{
+    "key": "spindrift spritz, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spindrift-spritz/",
+    "name": "Spindrift Spritz, Mass",
+    "base": "spindrift spritz",
+    "book": "Pathfinder Player Companion: Elemental Master's Handbook © 2017, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors": ["water"],
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "inquisitor": 4,
+        "paladin": 3,
+        "ranger": 3,
+        "shaman": 4,
+        "spiritualist": 4
+    },
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "text": "<p>This spell functions as <em>spindrift spritz<\/em>, except as noted above.<\/p><\/div>",
+    "name_zh": "群体浪尘飞溅",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物/等级，任意两个生物之间的距离不能超过20呎。",
+    "text_zh": "<p>这个法术视为浪沫飞溅，除了上面提及的区别。<\/p>",
+    "source": "PC-EMH"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "akashic communion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/akashic-communion/",
+    "name": "Akashic Communion",
+    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "medium": 3,
+        "mesmerist": 4,
+        "occultist": 3,
+        "psychic": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 4,
+        "spiritualist": 4,
+        "witch": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M/DF (a square of reflective silver worth 100 gp)",
+    "range": "personal",
+    "duration": "1 min./level",
+    "text": "<p>You attempt to obtain a glimpse of some specific event from the Akashic Record, the extraplanar repository of all experiences that have ever occurred. This allows you to attempt one Knowledge skill check of your choice per 3 caster levels you have, each with a +10 insight bonus. You are treated as trained in any Knowledge skills used for these checks, and can use this spell to reroll a Knowledge skill check you have already failed. The GM rolls these Knowledge checks in secret, as the Akashic Record is incredibly remote, and impressions gleaned from the distant repository are sometimes skewed when received. On a natural 1, the resulting answer is wildly inaccurate.<\/p><p>This spell provides experiential guidance based on your ability to understand the flashes of insight gleaned from the Akashic Record, rather than the perfect knowledge available to those who travel to the extraplanar repository of knowledge. If you lag, discuss the answers, or go off to do anything else, the spell ends. Once you have used this spell to gain information on a specific topic or event, you cannot use it for Knowledge checks regarding that topic or event again until you have gained a caster level.<\/p>",
+    "name_zh": "阿卡西交流",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言、姿势、材料/法器 （一方价值100gp的发亮的银版）",
+    "range_zh": "自身",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你尝试从阿卡西记录（异能冒险OA244页）这个记录了所有已经发生过的经验的异位面知识库中一瞥某些特殊的事件。这允许你每拥有有3个施法者等级，就可以进行一种你选定的知识技能检定，每一种都获得+10洞察加值。你被视为在所有这些检定中用到的知识技能中已受训，并可以用该法术对你之前已经失败的知识检定进行重骰。GM暗骰这些知识检定，因为阿卡西记录无比的遥远，从中获取的信息经常会发生扭曲。如果骰出自然1，会获得极其不准确的答案。该法术是在你用自身能力理解并抓取阿卡西记录中飞掠思绪时提供经验指导，而非直接提供那些去过这个异位面知识库的人能获取的完美知识。如果你发生了停顿，与他人讨论答案，或走开干别的事情，法术结束。一旦你已经用过该法术来对某特特定话题或事件收集信息，你不能再次使用该法术来了解相同的话题或事件，直到你获得了新的施法等级。<\/p>",
+    "source": "PC-MagicTT"
+}

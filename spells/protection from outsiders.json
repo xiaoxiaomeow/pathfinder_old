@@ -1,0 +1,31 @@
+{
+    "key": "protection from outsiders",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-outsiders/",
+    "name": "Protection from Outsiders",
+    "book": "Pathfinder Player Companion: Demon Hunter's Handbook © 2013, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors": ["see text"],
+    "levels":     {
+        "cleric": 2,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>This spell wards a creature from attacks by outsiders with a specific racial subtype, from mental control exerted by creatures of the chosen subtype, and from summoned creatures of that subtype. Only the subtypes of specific outsider races—angel, azata, demon, oni, psychopomp, protean, and so on—can be chosen as the subtype this spell protects against. Alignment subtypes or other general subtypes (like elemental, extraplanar, or native) cannot be selected. Outsiders without an outsider racial subtype (like genies, night hags, yeth hounds, or xills) are not affected by this spell.<\/p><p>This spell creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has three major effects.<\/p><p>First, the subject gains a +4 deflection bonus to AC and a +4 resistance bonus on saves when targeted by creatures of the chosen subtype.<\/p><p>Second, the subject immediately receives another saving throw (if one was allowed to begin with) against any spells or effects that possess or exercise mental control over the target creature. This functions in the same fashion as protection from evil, but only when the effect stems from outsiders of the chosen subtype, and the target's saving throw is made with a +4 morale bonus (using the same DC as the original effect).<\/p><p>Third, the spell prevents bodily contact by summoned creatures of the chosen subtype in the same manner as detailed in protection from evil.<\/p><p>This spell's descriptor varies depending on the outsider race selected, gaining the alignment descriptors opposite to the alignment of the outsider race—for example, lawful and good if the race is chaotic and evil, chaotic if the selected race is lawful, or none if the selected race is neutral.<\/p>",
+    "name_zh": "﹝见正文﹞防护异界生物",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "接触的生物",
+    "duration_zh": "1分钟/等级（D）",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这种法术能保护一个生物免于一种拥有特定种族亚种的异界生物的攻击，也会让他不能被选中亚种的生物进行心灵控制，被召唤出的此类亚种的生物也不能靠近受术者。只有特定的异界种族的亚种——天使、爱塔、恶魔、恶鬼、招魂者、幻蛇等等——可以被选为此法术防护的亚种。阵营亚种或其他通常亚种（例如元素生物、跨位面生物、本地生物）不能被选中。没有异界种族亚种的异界生物（像巨灵、夜鬼婆、夜嘶猎犬、锡尔族）不会被此法术影响。\n这个法术会在目标周围1英呎以外创造出一个魔法屏障。屏障会随目标移动，并有三种主要效果。\n首先，当被选中的亚种生物攻击时，目标在AC上获得+4的偏斜加值，并在豁免上获得+4的抵抗加值。\n第二，在对抗任何会对目标生物造成附身或心灵控制的法术和效果时，目标立刻获得另外的豁免检定（如果开始允许一次豁免检定）。这种功效如同防护邪恶，但只有在效果是由选中亚种的异界生物造成时才有效，目标的豁免检定将获得+4的士气加值（使用与原效果相同的DC）。\n第三，法术可以防止被选择亚种的召唤生物与目标发生身体接触，具体细节也与防护邪恶一样。\n这个法术的描述符会根据所选择的异界种族的不同而有所不同，会获得了与异界种族的阵营相反的阵营描述符——例如，如果选择的种族是混乱邪恶，法术将获得守序善良的描述符，如果选中种族守序则为混乱，如果选中种族是中立的，则无描述符。<\/p>",
+    "source": "PC-DHH"
+}

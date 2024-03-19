@@ -1,0 +1,33 @@
+{
+    "key": "contact high",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contact-high/",
+    "name": "Contact High",
+    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "cleric": 3,
+        "mesmerist": 3,
+        "shaman": 3,
+        "skald": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creatures touched (up to one per level)",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>While under the effects of a drug, you can duplicate those effects in others. You can touch another creature once per round (this requires a melee touch attack if the target is unwilling). When touched, the target begins experiencing the effects of the same drug by which you are currently affected (select one, if you are under the influence of more than one drug). The target doesn't take any ability damage or risk addiction from the drug.<\/p><p>You cannot impart the effects of any potion, poison, elixir, or mutagen currently affecting you.<\/p>",
+    "name_zh": "接触性迷醉",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物 (至多每等级一个)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>当你在毒品(drug)的影响下时，你可以把效果复制给其他人。每轮一次，你可以触摸另外一个生物(如果目标非自愿，需要进行一次近战接触攻击)。当触摸时，目标开始经历你当前因为同一种毒品，所受的的影响(如果你同时受到不只一种药物的影响，选择一种)。目标不会因此遭到属性伤害，或是有对此毒品上瘾的风险。\n你不能传递目前正影响你的任何药水、毒药、化合练成、突变药剂的效果。<\/p>",
+    "source": "PC-BM"
+}

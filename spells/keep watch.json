@@ -1,0 +1,32 @@
+{
+    "key": "keep watch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/keep-watch/",
+    "name": "Keep Watch",
+    "book": "Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "levels":     {
+        "inquisitor": 1,
+        "magus": 1,
+        "paladin": 1,
+        "ranger": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one creature touched/2 levels",
+    "duration": "8 hours or less; see text",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>This spell enables the subjects to stand watch or keep vigil throughout the night without any ill effects.<\/p><p>The subjects suffer no fatigue and gain all the usual benefits of a full night's rest.<\/p><p>The subjects gain hit points as though from resting, wizards may prepare their spells as though they had slept for 8 hours, and so on. Effects that rely on actual sleep or dreaming are ineffective, though the subjects are still susceptible to effects that would put them to sleep, such as sleep or deep slumber. Any vigorous activity, including fighting, immediately ends the effect, and the affected creatures must either have the spell cast on them again or sleep for the remaining hours to avoid fatigue and gain the benefits of a full night's rest.<\/p>",
+    "name_zh": "守夜术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "至多每2等级一个接触到的生物",
+    "duration_zh": "8小时或更少；见后文",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>此法术允许目标整夜保持警戒、守夜而不遭受任何不良效果。目标不会因此而疲乏，并能得到所有通常的整夜休息所带来的好处。目标能得到休息带来的生命值恢复，施法者也能准备法术就像他们已经睡够了8小时一样，等等。依赖于实际睡眠或做梦的影响不会因此生效，虽然目标仍然能被让他们陷入睡眠的效果所影响，例如睡眠术或深度睡眠。任何剧烈的活动，包括战斗，会立即结束该法术的影响，而曾被施以法术的目标必须再次受到法术的影响，或睡足他仍需要的休息时间，才能避免疲乏并得到整夜休息所带来的好处。<\/p>",
+    "source": "PC-KotIS"
+}

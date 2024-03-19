@@ -1,0 +1,31 @@
+{
+    "key": "telekinetic strikes",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-strikes/",
+    "name": "Telekinetic Strikes",
+    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["force"],
+    "levels":     {
+        "magus": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The touched creature's limbs are charged with telekinetic force.<\/p><p>For the duration of the spell, the target's unarmed attacks or natural weapons deal an additional 1d4 points of force damage on each successful unarmed melee attack.<\/p>",
+    "name_zh": "念力打击",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "一个生物",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>接触的生物的肢体充满了意念力量。在法术持续时间内，目标的徒手攻击或者天生武器攻击在成功的徒手攻击命中时造成额外1d4点力场伤害。<\/p>",
+    "source": "PC-PA"
+}

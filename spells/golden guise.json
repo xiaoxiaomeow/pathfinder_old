@@ -1,0 +1,30 @@
+{
+    "key": "golden guise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/golden-guise/",
+    "name": "Golden Guise",
+    "book": "Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (10 gold pieces)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one object weighing no more than 5 lbs./level",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "<p>You cause an object to briefly transform into gold. Affected items gain the properties of gold until the spell expires. Weapons reduce their hardness by half and gain the fragile quality, while piercing and slashing weapons take a –2 penalty on damage rolls (minimum 1 damage). This spell increases the affected item's armor check penalty by 2 and decreases its armor or shield bonus by 2. Gold armor has hardness 5.<\/p>",
+    "name_zh": "黄金假象",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料（10金币）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个物品，重量不超过5磅/等级",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你召唤由影子组成的黑暗鬼火来保护你。如果你的HP低于0或陷入昏迷，幽影耐力立即生效，将你身体转移至阴影位面的一个秘密地点。你立刻伤势稳定，但无法苏醒或作出其他动作直到法术第二段效果结束。\n当你消失后，一个由幽影物质组成的你的复制品出现在你所倒下的地方如同一个幽影咒法术所创造的生物。复制品服从你的命令并会按其行动。你的复制品有1/4的真实度并且有着你的总生命值的25%。任何在意志豁免检定中失败的生物都会把复制品当成你。复制品同样有你身上装备的物品所提供的加成。但只能对敌人造成通常的1/4的伤害。他可以施展你能施展的法术，使用你剩余的法术，但施法者等级只有你的施法者等级的1/4。无关你的阵营，你的阴影复制品的阵营总是中立邪恶。虽然它不会伤害你的朋友和盟军。\n当法术的第二段持续时间效果结束时，你的复制品消失并且你的身体出现在你消失的地方。如果幻象被摧毁了，法术立刻结束且你的身体会重新出现。<\/p>",
+    "source": "PC-AoE"
+}

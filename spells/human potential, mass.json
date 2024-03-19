@@ -1,0 +1,21 @@
+{
+    "key": "human potential, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/human-potential/",
+    "name": "Human Potential, Mass",
+    "base": "human potential",
+    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 6,
+        "psychic": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 6
+    },
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "text": "<p>This spell functions like <i>human potential<\/i>, except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.<\/p>",
+    "name_zh": "群体人性潜力",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物/等级，彼此相距不得超过30呎",
+    "text_zh": "<p>这种法术类似于人性潜力，除了可以影响多个生物。每个目标可以选择不同的属性来强化。<\/p>",
+    "source": "PC-AAnth"
+}

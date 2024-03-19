@@ -1,0 +1,33 @@
+{
+    "key": "skyshroud",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/skyshroud/",
+    "name": "Skyshroud",
+    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "school": "divination",
+    "subSchool": ["scrying"],
+    "levels":     {
+        "arcanist": 3,
+        "bard": 3,
+        "cleric/oracle": 3,
+        "skald": 3,
+        "sorcerer/wizard": 3,
+        "warpriest": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, F (a jar of earth from the surface)",
+    "range": "long (400 ft. + 40 ft./level); see text",
+    "effect": "hemisphere that cannot extend beyond four 10-ft. cubes + one 10-ft. cube/level (S)",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>The caster designates the area of a hemisphere within the spell's range. If a solid object would block the creation of the hemisphere (such as a ceiling or wall), the spell instead conforms to the geometry of the location up to the maximum area of effect for the spell. The hemisphere displays an image of the sky as it appears directly above where the spell was cast. This effect bypasses natural impediments, such as rock or stone, that would obstruct the targeted location from the sky.<\/p><p>The image of the sky created by this spell counts as the actual sky for purposes of effects that require view of the sky, sun, stars, or other features (including for spell preparation or deific obediences). It does not enable spells or effects that draw effects from the sky (such as call lightning).<\/p><p>Light created by this effect functions normally and harms creatures vulnerable to bright light or direct sunlight.<\/p>",
+    "name_zh": "天帷",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言、姿势、器材 (一瓶地表的泥土)",
+    "effect_zh": "一个半球，不能超过4+1/等级个10呎立方体 (S)",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>施法者于法术范围内选定一片半球型区域。如果一个坚实的物体会防碍到创造的半球(像是天花板或墙壁)，那么此法术会用符合该区域的几何形状呈现，至多此法术效果选定的最大区域。这半球展示此法术施展点笔直向上的天空的图像。此效果会绕开天然的障碍物，像是岩石或石头，这些会阻碍目标位置到天空的东西。\n此法术所创造的天空的图像，在需要用来观测天空、太阳、星星或其他特征(包含准备法术或是崇神典仪)的效果时，算作是真实的天空。此法术不会让某些法术或效果在半球型天空中显示图像[像是召雷术(call lightning)]。\n此法术所创造出来的光亮正常作用，并且会对强光或阳光直射有易伤的生物造成伤害。\n下列的法术可以帮助探险家躲避狩猎于瀬加美名幽深黑暗中的生物，与充满敌意的环境。有些法术只有较老练的施法者能够使用\n但其他的就算是低阶冒险者也可以施展自如。<\/p>",
+    "source": "PC-HotD"
+}

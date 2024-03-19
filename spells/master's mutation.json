@@ -1,0 +1,31 @@
+{
+    "key": "master's mutation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/master-s-mutation/",
+    "name": "Master's Mutation",
+    "book": "Pathfinder Player Companion: Monster Summoner's Handbook © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "druid": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./level)",
+    "target": "you and one summoned creature you control",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You can mold the ephemeral substance of the Outer Planes, mutating one summoned creature that you control to better suit your needs. Select up to two of the following abilities and grant them to the target for the spell's duration: burrow 30 feet, climb 40 feet, constrict, darkvision 90 feet, ferocity, fly 60 feet (average maneuverability), grab, jet, low-light vision, poison, rake, scent, swim 60 feet, trample, trip, or water breathing.<\/p><p>Additionally, instead of selecting an ability, you can replace one of the target's primary natural attacks with another natural attack that deals the same amount of damage, such as replacing a Medium target's bite attack (1d6) with a gore attack (1d6). If you choose to alter a creature's natural attacks, all attacks of the chosen type are altered. A summoner can target his eidolon with this spell.<\/p>",
+    "name_zh": "主宰异变",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "target_zh": "你和一个你控制的召唤生物",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你可以塑造异位面的源质来将你的召唤生物改变成更符合你需求的形态。选择以下两项选项，在法术持续时间内目标将会获得它们：30尺掘地（burrow 30 feet），40尺攀爬（climb 40 feet），压缩（怪物同名能力），90尺黑暗视觉，60尺飞行（普通机动性）（fly 60 feet (average maneuverability)），攫取，喷射推进，昏暗视觉，毒素（poison），耙抓（rake），灵敏嗅觉，60尺游泳（swim 60 feet），践踏，摔绊，或是水下呼吸。此外，取代选定一个能力，你可以将目标的一个主要天生武器改为另一个造成同样伤害的武器，例如将一个中型目标的主要天生武器从啮咬（1D6）改为抵撞（1D6）。如果你选择改变一个生物的天生武器，所有被选择的天生武器类别将被全部改变。一个召唤师可以以他的幻灵为目标使用这个法术。<\/p>",
+    "source": "PC-MSH"
+}

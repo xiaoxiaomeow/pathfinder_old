@@ -1,0 +1,30 @@
+{
+    "key": "devil snare",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/devil-snare/",
+    "name": "Devil Snare",
+    "book": "Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 full-round action",
+    "components": "V, S, M (a pouch of silvered powder worth 25 gp)",
+    "range": "touch",
+    "effect": "10-ft.-radius circle",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Your touch creates an invisible circle on a flat surface.<\/p><p>Any outsider passing through this circle must succeed at a Will save or be caught within. Once trapped, a creature must succeed at a Will save as a standard action to physically exit the confines of the circle, teleport, or use any form of extradimensional travel (as per dimensional anchor). Contained outsiders can still attack adjacent creatures outside of the circle, or target others with ranged attacks, spells, and spell-like abilities. Despite the spell's name, <i>devil snare<\/i> captures outsiders of any type, not only devils.<\/p><p>As a standard action, you can dismiss the circle, expelling any outsiders still trapped within to their planes of origin (as per dismissal). An outsider can resist this effect with a successful Will save, enabling it to remain after the spell is dismissed.<\/p>",
+    "name_zh": "魔鬼圈套",
+    "castingTime_zh": "整轮动作",
+    "components_zh": "语言、姿势、材料（一袋价值25GP的银粉）",
+    "range_zh": "接触",
+    "effect_zh": "一个半径10呎的圆环",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你的接触在平面上创造一个隐形的圆环，任何通过这个圆环的异界生物必须成功通过一次意志检定否则会被抓住。试图逃离陷阱或者使用传送或跨位面旅行的生物必须以一个标准动作并通过意志豁免才能离开圆环范围。被抓住的异界生物依然可以攻击圆环外的生物，或以圆环外的生物作为目标使用远程攻击、法术、以及类法术能力。虽然这个法术叫这个名字，但魔鬼圈套捕捉所有类别的异界生物，不仅仅是魔鬼。\n以一个标准动作，你可以解消这个圆环以使被捕捉的异界生物回到其原属位面（如同一个驱逐术），一个异界生物可以通过一个意志豁免抵抗这个效果以在法术解消后继续存留。\n对抗善良的法术\n无论阵营，任何角色皆可以学习下列的法术，但它们主要是用来对抗献身于善良之人。<\/p>",
+    "source": "PC-AoE"
+}

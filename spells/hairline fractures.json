@@ -1,0 +1,33 @@
+{
+    "key": "hairline fractures",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hairline-fractures/",
+    "name": "Hairline Fractures",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "druid": 1,
+        "shaman": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a broken twig)",
+    "range": "touch",
+    "target": "5-foot-square section of stone or a creature with the earth subtype",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>With a single touch, you create temporary hairline fractures in a piece of stone or a creature with the earth subtype. If you cast this spell on a section of stone, you reduce its hardness to 5 and its hit points to 10/inch of thickness. If you cast this spell on a creature with the earth subtype, that creature takes a –2 penalty to AC for the spell's duration. Make whole reverses this spell's effect.<\/p>",
+    "name_zh": "溃堤之穴",
+    "race_zh": "托拉格",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料",
+    "range_zh": "接触",
+    "target_zh": "5呎见方的石头或一个拥有土系亚种的生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则无效（物体）",
+    "spellResistance_zh": "有（物体）",
+    "text_zh": "<p>通过一次接触，你可以在一方石头或是一个拥有土系亚种的生物身上制造出临时性的细小裂纹。如果目标是石头，那么它的硬度下降到5，每英吋厚度的生命值下降到10点。如果目标是一个拥有土系亚种的生物，那么他在法术持续时间内在AC上承受-2减值。一个法术完全修复术(Make Whole)可以解除本法术的影响。<\/p>",
+    "source": "PC-FoP"
+}

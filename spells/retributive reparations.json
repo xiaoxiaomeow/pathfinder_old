@@ -1,0 +1,33 @@
+{
+    "key": "retributive reparations",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/retributive-reparations/",
+    "name": "Retributive Reparations",
+    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "antipaladin": 3,
+        "inquisitor": 3,
+        "occultist": 3,
+        "spiritualist": 3,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one object",
+    "duration": "1 day/level or until triggered, and permanent; see text",
+    "savingThrow": "Will negates (object) and Will negates",
+    "spellResistance": "yes",
+    "text": "<p>If a creature successfully takes the item targeted by this spell while you are holding, wearing, or wielding it, the creature must attempt a Will save. If the creature fails its save, it becomes fatigued, and it must attempt a new saving throw at the end of its turn every round it does not return the item to you. Failing a second saving throw causes the target to become exhausted. As long as the victim of the curse is actively working to return the object, its exhaustion is reduced to fatigue. The fatigue and exhaustion cannot be removed by effects that normally remove them, though immunity to fatigue and exhaustion protect against the conditions as normal.<\/p><p>This curse can be ended with remove curse or by returning the item to you. You can have this spell active on one item at a time.<\/p>",
+    "name_zh": "报复性赔偿",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "一件物体",
+    "duration_zh": "1天/等级 或 直到消散，以及永久",
+    "savingThrow_zh": "意志，通过则无效 (物体) 与 意志，通过则无效；见下",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>当你持握、穿着或挥舞着一件此法术标记的物品时，如果生物成功拿走了这件物品，该生物必须尝试一次意志豁免检定。如果该生物在豁免上失败，它会变得疲乏(fatigued)，并且如果它没有将物品归还给你，它必须在每轮它的回合结束时尝试一次新的豁免检定。第二次豁免检定失败，会使目标变得力竭(exhausted)。只要此诅咒的受害者积极归还著这件物品，它的力竭减弱为疲乏。此疲乏与力竭不能以通常能移除他们的效果来移除，但对抗疲乏与力竭状态的免疫保护正常运作。\n这诅咒能被移除诅咒(remove curse)或将物品归还你来终止。你同时只能用此法术在一件物品上生效。<\/p>",
+    "source": "PC-OO"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "coin shot",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/coin-shot/",
+    "name": "Coin Shot",
+    "book": "Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 1,
+        "antipaladin": 1,
+        "bard": 1,
+        "bloodrager": 1,
+        "magus": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "touch",
+    "target": "up to three coins touched",
+    "duration": "10 min.s or until discharged",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>You turn up to three coins into deadly projectiles that gain the velocity of a bullet when thrown. The coins retain their normal appearance but can be used as simple thrown weapons with a range increment of 20 feet and a critical multiplier of ×2. The transmuted coins are treated as ammunition for the purposes of drawing them. Like firearm bullets, the coins deal bludgeoning and piercing damage, and attacks with them are resolved as touch attacks within the first range increment. Regardless of whether a transmuted coin hits or misses the target, it is destroyed after the attack. Only you can make attacks with the coins, though other creatures can safely handle them without discharging the spell.<\/p><p>You can make a single ranged attack with a coin as part of casting this spell. Different types of coins create different bullet effects. Copper coins deal 1d4 points of damage. Silver coins deal 1d6 points of damage and count as silver for the purpose of overcoming damage reduction. Gold coins deal 1d8 points of damage and count as masterwork weapons. Platinum coins deal 1d10 points of damage, count as masterwork weapons, and are treated as adamantine weapons for the purposes of overcoming damage reduction and bypassing hardness. All coin bullets deal an additional 1 point of damage per 2 caster levels (to a maximum of an extra 10 points of damage at 20th level).<\/p>",
+    "name_zh": "银弹击",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势",
+    "range_zh": "接触",
+    "target_zh": "至多三枚接触到的硬币",
+    "duration_zh": "10分钟 或 直至消散",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "有 (无害，物体)",
+    "text_zh": "<p>你为最多三枚金属硬币注入魔力，将它们转化为拥有致命速度与动能的飞弹并投射出去。这些硬币的外观不会有明显的改变，但是它们可以当做具有20尺射程增量，重击倍数为x2的简单投掷武器来使用。在决定被取出的时间时，这些被转化的硬币视为弹药。如同火器的弹药一样，它们同时可以造成钝击与穿刺伤害，并且在第一个射击射程增量内视为远程接触攻击。无论一发银弹是否在射击时命中目标，它们在发射时都必然会被摧毁。只有施法者自己可以使用这些银弹攻击，但任何他的盟友都可以安全的持有被转化的硬币而无需担心消解其上的能量。\n你可以以施法动作的一部分发射这些银弹中的一发，并且不同种类的硬币有不同的攻击效果。一枚铜币造成1d4点伤害；一枚银币造成1d6点伤害且在穿透伤害减免时视为银质武器；一枚金币造成1d8点伤害且被视为精制品武器；一枚白金币1d10点伤害，视为精制品武器且在穿透伤害减免时视为精金武器。除此之外，你每拥有两个施法者等级，这些银弹造成的伤害就额外+1（最高在20级时达到+10）。\n[/spoiler]\n◎[聆听城市]译文大部分援引自[傻豆]于自用翻译杂项之法术翻译。<\/p>",
+    "source": "PC-HotS"
+}

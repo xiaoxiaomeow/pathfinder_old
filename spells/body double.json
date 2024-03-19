@@ -1,0 +1,32 @@
+{
+    "key": "body double",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/body-double/",
+    "name": "Body Double",
+    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "bard": 2,
+        "bloodrager": 2,
+        "magus": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (two glass beads)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "two creatures; see text",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>Upon casting this spell, choose a primary target and a secondary target, both of which must be within range. If the primary target fails or forfeits its saving throw, its appearance, scent, sounds, and mannerisms change to match those of the secondary target.<\/p><p>As long as the two targets are of the same size category, they are indistinguishable. As a consequence, if the targets are adjacent and a creature takes an action that would affect one of the targets (such as an attack, a targeted spell, or an area effect), that action has a 50% chance of affecting the other target instead.<\/p><p>Any action that would affect both of the creatures affects them both normally.<\/p><p>This spell does not deceive creatures that have true seeing.<\/p><p>Likewise, a creature that can't perceive one of the targets is not fooled by this spell (even if the spell fooled that creature earlier), and its attacks, targeted spells, and other actions affect targets as normal.<\/p>",
+    "name_zh": "双身术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (两颗玻璃珠)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "两个生物；见下",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>在施法时，你要选择一个主要目标和一个次要目标，这两个目标必须都在法术距离内。如果主要目标放弃豁免或在豁免检定中失败，他的外观、气味、声音和动作习惯会发生改变，从而与次要目标相匹配。\n只要两个目标拥有相同的体型种类，他们就会变得很难区分。因此，如果两个目标相邻，而一个生物采取会影响到其中一个目标的行动（例如攻击、有针对性的法术或区域效果），那么这个动作有50%的几率会影响另一个目标。\n任何会同时影响这两个生物的动作都会如常影响他们。\n这种法术不会欺骗那些拥有真知术的生物。同样的，一个不能感知到目标之一的生物不会被这种法术愚弄（即使法术之前曾愚弄该生物），而他的攻击，目标型法术，和其他动作会如常影响目标。<\/p>",
+    "source": "PC-DTT"
+}

@@ -1,0 +1,33 @@
+{
+    "key": "sword to snake",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sword-to-snake/",
+    "name": "Sword to Snake",
+    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["poison"],
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a hair from a spider)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one Medium or smaller item",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>When you make an undulating gesture using your hand, the target item changes slightly in shape and appearance to resemble a cross between its original form and that of a venomous animal.<\/p><p>For example, a staff might change to resemble a snake, a shield might change to resemble an enormous venomous beetle, or the hilt of a sword might change to resemble a scorpion's tail.<\/p><ul>  <li>If this spell is cast on a <b>held item<\/b>, the wielder adds his Will save bonus to the saving throw. You must be able to see the item to cast this spell on it. The item retains all its properties, but whenever a creature picks up, attacks with, activates, or otherwise manipulates the item (with the exception of dropping the item) after this spell is cast, it animates and bites the creature. The attack is resolved before the action that triggered it. This spell otherwise does not affect the creature's ability to use the item. <\/li>  <li>If the item is a <b>non-magical weapon<\/b>, it has an attack bonus equal to your caster level plus your spellcasting ability score modifier, and its attack deals 1d4 points of piercing damage.<\/li>  <li>If the target item is a <b>magic weapon<\/b>, it retains any magical qualities, and its enhancement bonus is still added to both the attack roll and the damage roll.<\/li> <\/ul><p>A creature that takes damage from the bite is affected as if by a venomous snake&#8216;s poison (frequency 1/round for 6 rounds; effect 1d2 Con; cure 1 save). The poison's save DC is equal to this spell's DC.<\/p>",
+    "name_zh": "化剑为蛇",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一只蜘蛛的绒毛）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个中型或更小的物品",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "意志无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>随着你做出一个波浪起伏的手势，目标物品的形状和外观发生了轻微的变化，就像变成了一个从它的原形到有毒动物的过渡形状。例如，一根法杖可能会变成像一条蛇，一个盾牌可能变成一个巨大的毒甲虫，或者剑的柄可能变成像一只蠍子的尾巴。\n如果此法术被施展在一个被持有的物品上，持用者会将他的意志豁免奖励加到豁免检定上。你必须能够看到要施法的物品。\n这个物品会保留它的所有属性，但是当有一个生物在法术被施展后捡起该物品，用其攻击，激活物品，或者用其他方式操纵物品（除了掉落物品），它都会活化并咬人。攻击会在触发它的动作之前就已经进行。这个法术不影响生物使用物品的能力。如果物品是一件非魔法武器，它的攻击加值等于你的施法者等级，加上你的施法属性值的调整值，其攻击会造成1d4点的穿刺伤害。\n如果目标物品是一件魔法武器，它会保留所有的魔法属性，并且它的增强加值还仍会被增加到攻击骰和伤害骰上。\n被咬伤的生物会如同受到一只毒蛇的毒液影响（发作频率 1/轮，持续6轮；效果 1d2体质；治癒 1豁免）。毒素的豁免DC等于此法术的DC。<\/p>",
+    "source": "PC-DTT"
+}

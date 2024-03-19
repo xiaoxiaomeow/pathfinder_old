@@ -1,0 +1,30 @@
+{
+    "key": "burning disarm",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-disarm/",
+    "name": "Burning Disarm",
+    "book": "Pathfinder Chronicles &#8211; Cheliax: Empire of Devils Copyright 2009, Paizo Publishing, LL",
+    "school": "transmutation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "short (25 ft. + 5 ft./2 levels)",
+    "target": "Held metal item of one creature or 15 lbs. of unattended metal",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex negates (object, see text)",
+    "spellResistance": "Yes (object)",
+    "text": "<p>This spell causes a metal object to instantly become red hot. A creature holding the item may attempt a Reflex save to drop it and take no damage (even if it is not their turn), otherwise the hot metal deals 1d4 points of fire damage per caster level (maximum 5d4). Circumstances that prevent the creature from dropping the item (such as a locked gauntlet) mean the creature gets no saving throw. The heat does not harm the item, and it does not get hot enough or last long enough to ignite flammable objects. The item cools to its previous temperature almost instantly. If cast underwater, burning disarm deals half damage and boils the surrounding water.<\/p>",
+    "name_zh": "灼热缴械",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "target_zh": "一个生物持有的金属物品或15磅的非持有金属",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射，通过则无效（物品，见下文）",
+    "spellResistance_zh": "有(物品)",
+    "text_zh": "<p>这道法术会使一个金属物体立即变得红热。持有该物品的生物可以尝试通过一次反射豁免来丢下物品，从而避免伤害（即使是不在他们的回合里），否则，灼热的金属会造成1d4点火焰伤害每施法者等级（最高为5d4点）。如果环境不允许生物掉落物品（例如一个被锁上的金属护手），则该生物无法进行豁免检定。热量不会对物品造成伤害，而且温度也不够热，持续时间也不够久，无法点燃易燃物品。物品几乎会立刻冷却至原来的温度。如果是在水下施展，灼热缴械只会造成一半的伤害，并使周围的水沸腾起来。<\/p>",
+    "source": "PC-CEoD"
+}

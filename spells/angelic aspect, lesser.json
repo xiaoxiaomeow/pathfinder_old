@@ -1,0 +1,31 @@
+{
+    "key": "angelic aspect, lesser",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/angelic-aspect/",
+    "name": "Angelic Aspect, Lesser",
+    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 2,
+        "paladin": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You take on an aspect of an angelic being, including some of its physical characteristics.<\/p><p>You gain low-light vision, resistance to acid 5, resistance to cold 5, and the benefits of protection from evil.<\/p>",
+    "name_zh": "次等天使之颜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级（D）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你拥有一部分天使的形态和其物理特性。你获得低光视觉，抗酸5，抗冷5和防护邪恶效果(protection from evil) 。<\/p>",
+    "source": "PC-CoP"
+}

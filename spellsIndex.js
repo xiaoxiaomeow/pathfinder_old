@@ -38,6 +38,15 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "ablative sphere",
+        "name": "Ablative Sphere",
+        "name_zh": "夺离法球",
+        "school": "abjuration",
+        "levels": {"sorcerer/wizard": 3},
+        "source": "PC-HoG",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "aboleth's lung",
         "name": "Aboleth's Lung",
         "name_zh": "底栖魔鱼之肺",
@@ -160,6 +169,22 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效 (物体)"
     },
         {
+        "key": "abstemiousness",
+        "name": "Abstemiousness",
+        "name_zh": "辟谷术",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "druid": 1,
+            "witch": 1
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "absurdity",
         "name": "Absurdity",
         "name_zh": "荒谬术",
@@ -217,6 +242,41 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
+        "key": "accept affliction",
+        "name": "Accept Affliction",
+        "name_zh": "承受苦难",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["good"],
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "druid": 3,
+            "paladin": 3,
+            "witch": 3
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
+        "key": "accursed glare",
+        "name": "Accursed Glare",
+        "name_zh": "诅咒瞪视",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BotM",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "acid arrow",
         "name": "Acid Arrow",
         "name_zh": "强酸箭",
@@ -249,6 +309,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "acid maw",
+        "name": "Acid Maw",
+        "name_zh": "酸液口腔",
+        "school": "transmutation",
+        "descriptors": ["acid"],
+        "levels":         {
+            "druid": 1,
+            "ranger": 1
+        },
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "acid pit",
@@ -389,6 +464,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "admonishing ray, 3.5e",
+        "name": "Admonishing Ray, 3.5E",
+        "name_zh": "训诫射线",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "cleric/oracle": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "adoration",
         "name": "Adoration",
         "name_zh": "魅力四射",
@@ -402,6 +492,20 @@ var spellsIndex = [
         "source": "UC",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "adroit retrieval",
+        "name": "Adroit Retrieval",
+        "name_zh": "心灵手巧",
+        "school": "transmutation",
+        "levels":         {
+            "occultist": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -656,6 +760,25 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "akashic communion",
+        "name": "Akashic Communion",
+        "name_zh": "阿卡西交流",
+        "school": "divination",
+        "levels":         {
+            "bard": 3,
+            "medium": 3,
+            "mesmerist": 4,
+            "occultist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 4,
+            "witch": 3
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "10分钟"
+    },
+        {
         "key": "akashic form",
         "name": "Akashic Form",
         "name_zh": "阿卡西构形",
@@ -683,6 +806,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "alaznist's jinx",
+        "name": "Alaznist's Jinx",
+        "name_zh": "阿拉兹尼斯特的厄运",
+        "school": "evocation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 4,
+            "bard": 4,
+            "cleric": 6,
+            "inquisitor": 5,
+            "occultist": 5,
+            "psychic": 6,
+            "shaman": 5,
+            "sorcerer/wizard": 6,
+            "witch": 5
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "alchemical allocation",
@@ -761,6 +906,26 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "alleviate addiction",
+        "name": "Alleviate Addiction",
+        "name_zh": "缓解成瘾",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "alchemist": 1,
+            "cleric": 1,
+            "druid": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
         "key": "alleviate corruption",
         "name": "Alleviate Corruption",
         "name_zh": "缓和腐化",
@@ -787,6 +952,65 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志，通过则无效 (物体)"
+    },
+        {
+        "key": "allied cloak",
+        "name": "Allied Cloak",
+        "name_zh": "盟军斗篷",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 3,
+            "bloodrager": 3,
+            "magus": 3,
+            "occultist": 2,
+            "sorcerer/wizard": 3,
+            "summoner": 3
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "alluring spores",
+        "name": "Alluring Spores",
+        "name_zh": "诱惑孢子",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "druid": 2,
+            "hunter": 2,
+            "shaman": 2,
+            "witch": 2
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "ally across time",
+        "name": "Ally Across Time",
+        "name_zh": "时之盟友",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "arcanist": 2,
+            "bard": 2,
+            "cleric/oracle": 2,
+            "hunter": 1,
+            "inquisitor": 2,
+            "medium": 1,
+            "psychic": 2,
+            "ranger": 1,
+            "skald": 2,
+            "sorcerer/wizard": 2,
+            "warpriest": 2
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "alpha instinct",
@@ -823,6 +1047,22 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效（物体）"
     },
         {
+        "key": "alter river",
+        "name": "Alter River",
+        "name_zh": "河流改道",
+        "school": "transmutation",
+        "descriptors": ["water"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "alter self",
         "name": "Alter Self",
         "name_zh": "变身术",
@@ -840,6 +1080,27 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "alter summoned monster",
+        "name": "Alter Summoned Monster",
+        "name_zh": "变更召唤生物",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "cleric": 2,
+            "druid": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2,
+            "witch": 2
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "alter winds",
@@ -936,6 +1197,31 @@ var spellsIndex = [
         "savingThrow_zh": "无 或 意志, 通过则无效, 见后文"
     },
         {
+        "key": "ancestral communion",
+        "name": "Ancestral Communion",
+        "name_zh": "先祖的护佑",
+        "school": "divination",
+        "levels":         {
+            "bard": 2,
+            "cleric/oracle": 2
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "1分钟"
+    },
+        {
+        "key": "ancestral gift",
+        "name": "Ancestral Gift",
+        "name_zh": "先祖的赋礼",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "bard": 4,
+            "cleric/oracle": 4
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "ancestral regression",
         "name": "Ancestral Regression",
         "name_zh": "返祖术",
@@ -969,6 +1255,54 @@ var spellsIndex = [
         },
         "source": "ACG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "angelic aspect, greater",
+        "name": "Angelic Aspect, Greater",
+        "name_zh": "高等天使之颜",
+        "school": "transmutation",
+        "descriptors": ["good"],
+        "levels":         {
+            "cleric": 8,
+            "paladin": 4,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "angelic aspect, lesser",
+        "name": "Angelic Aspect, Lesser",
+        "name_zh": "次等天使之颜",
+        "school": "transmutation",
+        "descriptors": ["good"],
+        "levels":         {
+            "cleric": 2,
+            "paladin": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "angelic aspect",
+        "name": "Angelic Aspect",
+        "name_zh": "天使之颜",
+        "school": "transmutation",
+        "descriptors": ["good"],
+        "levels":         {
+            "cleric": 5,
+            "paladin": 3,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无",
+        "savingThrow_zh": "无"
     },
         {
         "key": "animal ambassador",
@@ -1197,6 +1531,36 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "animus mine, greater",
+        "name": "Animus Mine, Greater",
+        "name_zh": "高等对敌意地雷",
+        "school": "abjuration",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "mesmerist": 4,
+            "psychic": 5
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "animus mine",
+        "name": "Animus Mine",
+        "name_zh": "对敌意地雷",
+        "school": "abjuration",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "mesmerist": 2,
+            "psychic": 2
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "anonymous interaction",
         "name": "Anonymous Interaction",
         "name_zh": "无名路人",
@@ -1262,6 +1626,22 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "anti-summoning shield",
+        "name": "Anti-Summoning Shield",
+        "name_zh": "逆反召唤场",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 2,
+            "inquisitor": 3,
+            "sorcerer/wizard": 2,
+            "summoner": 2
+        },
+        "source": "PC-DHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "anticipate peril",
@@ -1363,6 +1743,23 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "antithetical constraint",
+        "name": "Antithetical Constraint",
+        "name_zh": "对立约束",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-CoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "anywhere but here",
         "name": "Anywhere But Here",
         "name_zh": "浪迹天涯",
@@ -1378,6 +1775,21 @@ var spellsIndex = [
         "source": "PA",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "ape walk",
+        "name": "Ape Walk",
+        "name_zh": "猿之攀爬",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 3,
+            "ranger": 2,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-STLC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -1480,6 +1892,27 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则无效（物体）"
     },
         {
+        "key": "apsu's shining scales",
+        "name": "Apsu's Shining Scales",
+        "name_zh": "阿普苏的闪耀之鳞",
+        "school": "evocation",
+        "descriptors":         [
+            "draconic",
+            "good"
+        ],
+        "levels":         {
+            "alchemist": 3,
+            "bloodrager": 3,
+            "medium": 3,
+            "sorcerer/wizard": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "aquatic cavalry",
         "name": "Aquatic Cavalry",
         "name_zh": "海中铁骑",
@@ -1527,10 +1960,10 @@ var spellsIndex = [
             "cleric": 7,
             "inquisitor": 6
         },
-        "source": "PA",
+        "source": "PC-CoB",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志过则部分生效"
+        "savingThrow_zh": "无 或 意志，通过则无效；见下"
     },
         {
         "key": "arboreal hammer",
@@ -1577,6 +2010,29 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "arcane disruption",
+        "name": "Arcane Disruption",
+        "name_zh": "破法咒",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "curse",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "arcane eye",
         "name": "Arcane Eye",
         "name_zh": "秘法眼",
@@ -1617,6 +2073,18 @@ var spellsIndex = [
             "witch": 0
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "arcane pocket",
+        "name": "Arcane Pocket",
+        "name_zh": "祕法口袋",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels": {"sorcerer/wizard": 1},
+        "source": "PC-BM",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -1672,16 +2140,88 @@ var spellsIndex = [
         {
         "key": "ardor's onslaught",
         "name": "Ardor's Onslaught",
-        "name_zh": "阿多尔的猛击",
+        "name_zh": "狂热冲锋",
         "school": "evocation",
         "levels":         {
             "cleric": 4,
             "inquisitor": 4
         },
-        "source": "PA",
+        "source": "PC-CoB",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志过则部分生效"
+        "savingThrow_zh": "意志，通过则部分生效；见下"
+    },
+        {
+        "key": "arid refuge",
+        "name": "Arid Refuge",
+        "name_zh": "避水小屋",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "bard": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-BotS",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "army across time",
+        "name": "Army Across Time",
+        "name_zh": "时之军势",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "arcanist": 5,
+            "bard": 4,
+            "cleric/oracle": 5,
+            "hunter": 3,
+            "inquisitor": 4,
+            "medium": 3,
+            "psychic": 5,
+            "ranger": 3,
+            "skald": 4,
+            "sorcerer/wizard": 5,
+            "warpriest": 5
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "aroden's magic army",
+        "name": "Aroden's Magic Army",
+        "name_zh": "奥罗登的魔法军势",
+        "school": "transmutation",
+        "levels":         {
+            "shaman": 8,
+            "sorcerer/wizard": 7
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（无害，物品）",
+        "savingThrow_zh": "意志，通过则无效（无害，物品）"
+    },
+        {
+        "key": "aroden's spellsword",
+        "name": "Aroden's Spellsword",
+        "name_zh": "奥罗登的魔法之剑",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 4,
+            "bloodrager": 4,
+            "magus": 3,
+            "occultist": 4,
+            "sorcerer/wizard": 3,
+            "witch": 4
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可（无害，物品）",
+        "savingThrow_zh": "意志，通过则无效（无害，物品）"
     },
         {
         "key": "arrow eruption",
@@ -1712,6 +2252,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志，通过则部分生效 (见下文)"
+    },
+        {
+        "key": "artificer's curse",
+        "name": "Artificer's Curse",
+        "name_zh": "奇械诅咒",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 6,
+            "cleric": 7,
+            "inquisitor": 6,
+            "occultist": 6,
+            "shaman": 7,
+            "sorcerer/wizard": 7,
+            "witch": 7
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（物品）"
     },
         {
         "key": "ascension",
@@ -1943,6 +2502,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
+        "key": "augmenting wall",
+        "name": "Augmenting Wall",
+        "name_zh": "增效墙",
+        "school": "evocation",
+        "descriptors": ["see text"],
+        "levels":         {
+            "magus": 5,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-RTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无（物品）",
+        "savingThrow_zh": "无（物体）"
+    },
+        {
         "key": "augury",
         "name": "Augury",
         "name_zh": "占卜术",
@@ -1990,6 +2564,22 @@ var spellsIndex = [
         "savingThrow_zh": "强韧通过则无效"
     },
         {
+        "key": "aura of distraction",
+        "name": "Aura of Distraction",
+        "name_zh": "躁乱灵光",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "aura of doom",
         "name": "Aura of Doom",
         "name_zh": "毁灭灵气",
@@ -2017,6 +2607,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "aura of inviolate ownership",
+        "name": "Aura of Inviolate Ownership",
+        "name_zh": "所有权灵光",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 3,
+            "inquisitor": 3,
+            "paladin": 3
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
     },
         {
         "key": "aura of the unremarkable",
@@ -2054,6 +2659,21 @@ var spellsIndex = [
             "witch": 3
         },
         "source": "ACG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "authenticating gaze",
+        "name": "Authenticating Gaze",
+        "name_zh": "鑑识视线",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "occultist": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-BM",
         "castingTime_zh": "标准动作"
     },
         {
@@ -2164,6 +2784,26 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "balance of suffering",
+        "name": "Balance of Suffering",
+        "name_zh": "痛苦平衡",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "cleric/oracle": 6,
+            "inquisitor": 6,
+            "occultist": 6,
+            "shaman": 6,
+            "spiritualist": 6,
+            "warpriest": 6,
+            "witch": 6
+        },
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则减半"
+    },
+        {
         "key": "baleful polymorph",
         "name": "Baleful Polymorph",
         "name_zh": "恶意变形术",
@@ -2182,6 +2822,29 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效；意志, 通过则部分生效; 见后文"
+    },
+        {
+        "key": "baleful shadow transmutation",
+        "name": "Baleful Shadow Transmutation",
+        "name_zh": "恶意阴影变形术",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "descriptors": ["shadow"],
+        "levels":         {
+            "alchemist": 6,
+            "bard": 6,
+            "druid": 7,
+            "medium": 6,
+            "shaman": 6,
+            "sorcerer/wizard": 6,
+            "spiritualist": 6,
+            "summoner": 6,
+            "witch": 6
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则不相信，然后强韧，通过则无效"
     },
         {
         "key": "ball lightning",
@@ -2260,6 +2923,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "banishing blade",
+        "name": "Banishing Blade",
+        "name_zh": "放逐之刃",
+        "school": "abjuration",
+        "levels":         {
+            "antipaladin": 4,
+            "bloodrager": 4,
+            "inquisitor": 5,
+            "magus": 5,
+            "medium": 4,
+            "paladin": 4,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "spiritualist": 5,
+            "summoner": 5
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（见正文）",
+        "savingThrow_zh": "无或意志，通过则部分生效（见正文）"
     },
         {
         "key": "banishment",
@@ -2367,6 +3052,23 @@ var spellsIndex = [
         "source": "ACG",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "batrachian surge",
+        "name": "Batrachian Surge",
+        "name_zh": "蛙力涌现",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 1,
+            "druid": 1,
+            "inquisitor": 1,
+            "ranger": 1,
+            "summoner": 1
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
         {
@@ -2535,6 +3237,48 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "bed of iron",
+        "name": "Bed of Iron",
+        "name_zh": "卧重若轻",
+        "school": "necromancy",
+        "levels":         {
+            "inquisitor": 1,
+            "magus": 1,
+            "paladin": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
+        "key": "befuddled combatant",
+        "name": "Befuddled Combatant",
+        "name_zh": "愚者之灾",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "curse",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "arcanist": 5,
+            "bard": 5,
+            "mesmerist": 5,
+            "psychic": 5,
+            "shaman": 5,
+            "skald": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "beguiling gift",
         "name": "Beguiling Gift",
         "name_zh": "诱人赠礼",
@@ -2550,6 +3294,44 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "beloved of the forge",
+        "name": "Beloved of the Forge",
+        "name_zh": "钟情铸造",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "cleric": 2,
+            "shaman": 2
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "besmara's grasping depths",
+        "name": "Besmara's Grasping Depths",
+        "name_zh": "贝丝玛拉的水鬼之爪",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "cleric": 5,
+            "inquisitor": 6,
+            "shaman": 6,
+            "spiritualist": 5,
+            "witch": 6
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
         "key": "bestow auras",
@@ -2710,6 +3492,24 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "billowing skirt",
+        "name": "Billowing Skirt",
+        "name_zh": "华裙翩翩",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "inquisitor": 2,
+            "occultist": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "bilocation",
         "name": "Bilocation",
         "name_zh": "二重分身",
@@ -2723,6 +3523,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "bind sage",
+        "name": "Bind Sage",
+        "name_zh": "先知誓缚",
+        "school": "conjuration",
+        "subSchool": ["calling"],
+        "levels":         {
+            "occultist": 5,
+            "psychic": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 4,
+            "summoner": 4,
+            "witch": 5
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "无 与 有；见下文。",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "binding earth, mass",
@@ -2768,6 +3587,42 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "bit of luck",
+        "name": "Bit of Luck",
+        "name_zh": "一点幸运",
+        "school": "evocation",
+        "levels":         {
+            "alchemist": 4,
+            "bard": 3,
+            "cleric": 4,
+            "psychic": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "biting words",
+        "name": "Biting Words",
+        "name_zh": "咬人之语",
+        "school": "evocation",
+        "descriptors":         [
+            "language-dependent",
+            "sonic"
+        ],
+        "levels":         {
+            "bard": 1,
+            "bloodrager": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "black mark",
         "name": "Black Mark",
         "name_zh": "黑色印记",
@@ -2782,6 +3637,21 @@ var spellsIndex = [
         },
         "descriptorOperator": "and",
         "source": "ARG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "black spot",
+        "name": "Black Spot",
+        "name_zh": "黑斑",
+        "school": "necromancy",
+        "levels":         {
+            "cleric": 4,
+            "sorcerer/wizard": 5,
+            "witch": 4
+        },
+        "source": "PC-PotIS",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
@@ -2874,6 +3744,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "blade tutor's spirit",
+        "name": "Blade Tutor's Spirit",
+        "name_zh": "剑魂指引",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "antipaladin": 2,
+            "magus": 1,
+            "paladin": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "blasphemy",
         "name": "Blasphemy",
         "name_zh": "渎神之语",
@@ -2891,6 +3777,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
+    },
+        {
+        "key": "blast of wind",
+        "name": "Blast of Wind",
+        "name_zh": "暴风术",
+        "school": "evocation",
+        "descriptors": ["air"],
+        "levels":         {
+            "druid": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "blaze of glory",
@@ -2978,6 +3879,26 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "blend with surroundings",
+        "name": "Blend With Surroundings",
+        "name_zh": "融为一体",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "druid": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1,
+            "witch": 1
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害) 或意志来识破 (若有互动)"
+    },
+        {
         "key": "blend",
         "name": "Blend",
         "name_zh": "融境迷彩",
@@ -2995,6 +3916,19 @@ var spellsIndex = [
         },
         "source": "ARG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "bless army",
+        "name": "Bless Army",
+        "name_zh": "振奋军心",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels": {"cleric": 6},
+        "source": "PC-QC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无"
     },
         {
         "key": "bless water",
@@ -3084,6 +4018,18 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "blessing of liberty",
+        "name": "Blessing of Liberty",
+        "name_zh": "自由无价",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 2,
+            "shaman": 2
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "blessing of luck and resolve, mass",
         "name": "Blessing Of Luck And Resolve, Mass",
         "name_zh": "群体祥瑞之助",
@@ -3160,6 +4106,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半"
+    },
+        {
+        "key": "blightburn weapon",
+        "name": "Blightburn Weapon",
+        "name_zh": "炽辐武器",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 4,
+            "inquisitor": 4,
+            "magus": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "意志，通过则无效 (物体)"
     },
         {
         "key": "blinding ray",
@@ -3314,6 +4277,21 @@ var spellsIndex = [
         "savingThrow_zh": "强韧则无效 (无害)"
     },
         {
+        "key": "blood boil",
+        "name": "Blood Boil",
+        "name_zh": "血液沸腾",
+        "school": "necromancy",
+        "levels":         {
+            "magus": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-MM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效 (见下)"
+    },
+        {
         "key": "blood crow strike",
         "name": "Blood Crow Strike",
         "name_zh": "血鸦势",
@@ -3358,6 +4336,33 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效 (见下文)"
     },
         {
+        "key": "blood rage",
+        "name": "Blood Rage",
+        "name_zh": "血怒",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "adept": 3,
+            "bard": 2,
+            "cleric": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-OoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "blood salvation",
+        "name": "Blood Salvation",
+        "name_zh": "血之救赎",
+        "school": "abjuration",
+        "levels": {"bloodrager": 3},
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "blood scent",
         "name": "Blood Scent",
         "name_zh": "嗅血术",
@@ -3392,6 +4397,35 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "否（无害）",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "blood song",
+        "name": "Blood Song",
+        "name_zh": "血之歌",
+        "school": "evocation",
+        "levels": {"bard": 4},
+        "source": "PC-FP",
+        "castingTime_zh": "2分钟",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "blood tentacles",
+        "name": "Blood Tentacles",
+        "name_zh": "鲜血触手",
+        "school": "necromancy",
+        "levels":         {
+            "antipaladin": 4,
+            "cleric": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 4,
+            "witch": 5
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "blood ties",
@@ -3465,6 +4499,38 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "bloodsworn retribution",
+        "name": "Bloodsworn Retribution",
+        "name_zh": "复仇血誓",
+        "school": "necromancy",
+        "levels":         {
+            "cleric/oracle": 6,
+            "paladin": 4,
+            "ranger": 4
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "1轮"
+    },
+        {
+        "key": "bloody arrows",
+        "name": "Bloody Arrows",
+        "name_zh": "血箭术",
+        "school": "necromancy",
+        "levels":         {
+            "antipaladin": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "ranger": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-RTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无（无害）",
+        "savingThrow_zh": "无（无害）"
+    },
+        {
         "key": "bloody claws",
         "name": "Bloody Claws",
         "name_zh": "血腥之爪",
@@ -3477,6 +4543,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
+    },
+        {
+        "key": "blot",
+        "name": "Blot",
+        "name_zh": "抹除术",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-GoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "意志，通过则无效 (物体)"
     },
         {
         "key": "blur",
@@ -3529,6 +4610,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "body double",
+        "name": "Body Double",
+        "name_zh": "双身术",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "boiling blood",
         "name": "Boiling Blood",
         "name_zh": "血沸",
@@ -3554,6 +4652,25 @@ var spellsIndex = [
         "levels": {"alchemist": 1},
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "bone fists",
+        "name": "Bone Fists",
+        "name_zh": "骸骨之拳",
+        "school": "necromancy",
+        "levels":         {
+            "bloodrager": 2,
+            "cleric": 2,
+            "druid": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（无害）"
     },
         {
         "key": "bone flense",
@@ -3591,6 +4708,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则部分生效或无效 (见下)"
+    },
+        {
+        "key": "boneshatter",
+        "name": "Boneshatter",
+        "name_zh": "碎骨术",
+        "school": "necromancy",
+        "levels":         {
+            "arcanist": 4,
+            "cleric/oracle": 5,
+            "sorcerer/wizard": 4,
+            "warpriest": 5
+        },
+        "source": "PC-OLoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则部分生效"
     },
         {
         "key": "borrow corruption",
@@ -3638,6 +4771,17 @@ var spellsIndex = [
         "source": "APG",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "bouncing bomb admixture",
+        "name": "Bouncing Bomb Admixture",
+        "name_zh": "弹性炸弹添加剂",
+        "school": "transmutation",
+        "levels": {"alchemist": 3},
+        "source": "PC-MagicTT",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -3845,6 +4989,24 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "brittle portal",
+        "name": "Brittle Portal",
+        "name_zh": "脆弱裂痕",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 2,
+            "druid": 2,
+            "inquisitor": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有",
+        "savingThrow_zh": "意志，通过则无效（物体）"
+    },
+        {
         "key": "brow gasher",
         "name": "Brow Gasher",
         "name_zh": "血流满面",
@@ -3972,7 +5134,7 @@ var spellsIndex = [
         {
         "key": "buoyancy",
         "name": "Buoyancy",
-        "name_zh": "上浮术",
+        "name_zh": "浮力术",
         "school": "transmutation",
         "levels":         {
             "bard": 2,
@@ -3981,10 +5143,56 @@ var spellsIndex = [
             "sorcerer/wizard": 2,
             "witch": 2
         },
-        "source": "ACG",
+        "source": "PC-PotIS",
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "可（物体）",
-        "savingThrow_zh": "意志，通过则无效（无害）或 意志，通过则无效（物体）"
+        "spellResistance_zh": "有 (物品)",
+        "savingThrow_zh": "意志，通过则无效（无害） 或 意志，通过则无效（物品）"
+    },
+        {
+        "key": "burdened thoughts",
+        "name": "Burdened Thoughts",
+        "name_zh": "累赘思考",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "druid": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 3,
+            "witch": 2
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "burning arc",
+        "name": "Burning Arc",
+        "name_zh": "弧焰击",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels": {"sorcerer/wizard": 2},
+        "source": "PC-HoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "burning disarm",
+        "name": "Burning Disarm",
+        "name_zh": "灼热缴械",
+        "school": "transmutation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "cleric/oracle": 1,
+            "druid": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-CEoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有(物品)",
+        "savingThrow_zh": "反射，通过则无效（物品，见下文）"
     },
         {
         "key": "burning entanglement",
@@ -4106,6 +5314,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "burst of force",
+        "name": "Burst of Force",
+        "name_zh": "力场爆发",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "psychic": 5,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则减半（见描述）"
+    },
+        {
         "key": "burst of insight",
         "name": "Burst of Insight",
         "name_zh": "洞察力激增",
@@ -4134,6 +5357,26 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "burst of radiance",
+        "name": "Burst of Radiance",
+        "name_zh": "光耀爆发",
+        "school": "evocation",
+        "descriptors":         [
+            "good",
+            "light"
+        ],
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "sorcerer/wizard": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
         "key": "burst of speed",
         "name": "Burst of Speed",
         "name_zh": "速度爆发",
@@ -4151,6 +5394,35 @@ var spellsIndex = [
         },
         "source": "UC",
         "castingTime_zh": "迅捷动作"
+    },
+        {
+        "key": "burst with light",
+        "name": "Burst With Light",
+        "name_zh": "光爆术",
+        "school": "evocation",
+        "descriptors": ["light"],
+        "levels":         {
+            "cleric": 4,
+            "paladin": 4
+        },
+        "source": "PC-DHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "见下文"
+    },
+        {
+        "key": "business booms",
+        "name": "Business Booms",
+        "name_zh": "门庭若市",
+        "school": "enchantment",
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-QC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "cackling skull",
@@ -4196,6 +5468,25 @@ var spellsIndex = [
         "levels": {"alchemist": 6},
         "source": "UC",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "calamitous flailing",
+        "name": "Calamitous Flailing",
+        "name_zh": "灾难连枷",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "bard": 3,
+            "cleric": 4,
+            "mesmerist": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 3,
+            "witch": 3
+        },
+        "source": "PC-BotC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "calcific touch",
@@ -4288,6 +5579,20 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "call the void",
+        "name": "Call the Void",
+        "name_zh": "虚空召唤",
+        "school": "evocation",
+        "levels":         {
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-DEP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射，通过则减半；见下"
+    },
+        {
         "key": "callback, greater",
         "name": "Callback, Greater",
         "name_zh": "高等魔宠召还术",
@@ -4315,6 +5620,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则无效（无害）"
+    },
+        {
+        "key": "calm air",
+        "name": "Calm Air",
+        "name_zh": "平稳大气",
+        "school": "abjuration",
+        "descriptors": ["air"],
+        "levels":         {
+            "druid": 4,
+            "sorcerer/wizard": 5,
+            "summoner": 4
+        },
+        "source": "PC-RTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无（物体）",
+        "savingThrow_zh": "无（物体）"
     },
         {
         "key": "calm animals",
@@ -4399,6 +5720,25 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "canopic conversion",
+        "name": "Canopic Conversion",
+        "name_zh": "卡诺皮克的转变",
+        "school": "necromancy",
+        "descriptors":         [
+            "death",
+            "evil"
+        ],
+        "levels":         {
+            "cleric/oracle": 9,
+            "sorcerer/wizard": 9
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OLoP",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则减半"
+    },
+        {
         "key": "cape of wasps",
         "name": "Cape of Wasps",
         "name_zh": "蜂群斗篷",
@@ -4409,6 +5749,52 @@ var spellsIndex = [
             "witch": 4
         },
         "source": "UM",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "carrion compass",
+        "name": "Carrion Compass",
+        "name_zh": "腐烂罗盘",
+        "school": "divination",
+        "levels":         {
+            "cleric": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 2,
+            "witch": 1
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "carry companion",
+        "name": "Carry Companion",
+        "name_zh": "携带伙伴",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 2,
+            "paladin": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "carrying wind",
+        "name": "Carrying Wind",
+        "name_zh": "携风术",
+        "school": "conjuration",
+        "descriptors": ["air"],
+        "levels":         {
+            "druid": 3,
+            "shaman": 3
+        },
+        "source": "PC-EMH",
         "castingTime_zh": "标准动作"
     },
         {
@@ -4555,6 +5941,39 @@ var spellsIndex = [
         "savingThrow_zh": "反射，通过则减半 (见下文)"
     },
         {
+        "key": "caustic safeguard",
+        "name": "Caustic Safeguard",
+        "name_zh": "腐蚀防护",
+        "school": "abjuration",
+        "descriptors": ["acid"],
+        "levels":         {
+            "alchemist": 3,
+            "bloodrager": 3,
+            "magus": 3,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射，通过则减半（见描述）"
+    },
+        {
+        "key": "cauterizing weapon",
+        "name": "Cauterizing Weapon",
+        "name_zh": "伤蚀武器",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "magus": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-PSP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有效（无害，物体）",
+        "savingThrow_zh": "意志，通过则无效（无害，物体）"
+    },
+        {
         "key": "cave fangs",
         "name": "Cave Fangs",
         "name_zh": "洞穴之牙",
@@ -4570,6 +5989,43 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "反射过则减半（见后文）"
+    },
+        {
+        "key": "celestial healing, greater",
+        "name": "Celestial Healing, Greater",
+        "name_zh": "高等天界治疗",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["good"],
+        "levels":         {
+            "bloodrager": 4,
+            "cleric": 4,
+            "magus": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 4,
+            "witch": 4
+        },
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "celestial healing",
+        "name": "Celestial Healing",
+        "name_zh": "天界治疗",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["good"],
+        "levels":         {
+            "bloodrager": 1,
+            "cleric": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1,
+            "witch": 1
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "certain grip",
@@ -4636,6 +6092,24 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "chains of light",
+        "name": "Chains of Light",
+        "name_zh": "光之锁链",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["good"],
+        "levels":         {
+            "cleric": 6,
+            "inquisitor": 5,
+            "paladin": 4,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射, 通过则无效"
+    },
+        {
         "key": "challenge evil",
         "name": "Challenge Evil",
         "name_zh": "挑战邪恶",
@@ -4647,6 +6121,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "chameleon scales",
+        "name": "Chameleon Scales",
+        "name_zh": "变色龙之鳞",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 1,
+            "druid": 0,
+            "ranger": 1,
+            "sorcerer/wizard": 0
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "chameleon stride, greater",
@@ -4839,6 +6327,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "cheetah's sprint",
+        "name": "Cheetah's Sprint",
+        "name_zh": "豹急",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 1,
+            "druid": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "迅捷动作"
+    },
+        {
         "key": "chill metal",
         "name": "Chill Metal",
         "name_zh": "冻寒金属",
@@ -4912,6 +6415,48 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
+        "key": "claim identity, greater",
+        "name": "Claim Identity, Greater",
+        "name_zh": "高等宣布身份",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 5,
+            "antipaladin": 4,
+            "bard": 5,
+            "druid": 6,
+            "inquisitor": 5,
+            "shaman": 6,
+            "sorcerer/wizard": 6,
+            "witch": 5
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通通通过则无效"
+    },
+        {
+        "key": "claim identity",
+        "name": "Claim Identity",
+        "name_zh": "宣布身份",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 3,
+            "antipaladin": 3,
+            "bard": 3,
+            "druid": 4,
+            "inquisitor": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 3
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通通通过则无效"
+    },
+        {
         "key": "clairaudience-clairvoyance",
         "name": "Clairaudience-Clairvoyance",
         "name_zh": "锐耳术/鹰眼术",
@@ -4932,6 +6477,22 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "clarion call",
+        "name": "Clarion Call",
+        "name_zh": "号角响起",
+        "school": "illusion",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
     },
         {
         "key": "clashing rocks",
@@ -4979,6 +6540,22 @@ var spellsIndex = [
         "source": "AG",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "clear grove",
+        "name": "Clear Grove",
+        "name_zh": "除碍植被",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 3,
+            "ranger": 2,
+            "shaman": 3,
+            "witch": 3
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -5032,6 +6609,25 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "cloak of secrets",
+        "name": "Cloak of Secrets",
+        "name_zh": "窃语斗篷",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "cloak of shade",
@@ -5168,6 +6764,24 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "coin shot",
+        "name": "Coin Shot",
+        "name_zh": "银弹击",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 1,
+            "antipaladin": 1,
+            "bard": 1,
+            "bloodrager": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (无害，物体)",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "cold ice strike",
         "name": "Cold Ice Strike",
         "name_zh": "碎冰之击",
@@ -5181,6 +6795,47 @@ var spellsIndex = [
         "castingTime_zh": "迅捷动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "cold iron fetters",
+        "name": "Cold Iron Fetters",
+        "name_zh": "寒铁之缚",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "arcanist": 5,
+            "cleric/oracle": 5,
+            "hunter": 3,
+            "inquisitor": 4,
+            "occultist": 5,
+            "ranger": 3,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 4,
+            "warpriest": 5,
+            "witch": 5
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射, 通过则无效"
+    },
+        {
+        "key": "collaborative thaumaturgy",
+        "name": "Collaborative Thaumaturgy",
+        "name_zh": "协律奇术",
+        "school": "universal",
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "druid": 3,
+            "magus": 3,
+            "summoner": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-PSP",
+        "castingTime_zh": "直觉动作"
     },
         {
         "key": "color spray",
@@ -5419,6 +7074,45 @@ var spellsIndex = [
         "savingThrow_zh": "见下文"
     },
         {
+        "key": "compel tongue, mass",
+        "name": "Compel Tongue, Mass",
+        "name_zh": "群体授言术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 4,
+            "cleric/oracle": 5,
+            "druid": 5,
+            "medium": 4,
+            "mesmerist": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-BM"
+    },
+        {
+        "key": "compel tongue",
+        "name": "Compel Tongue",
+        "name_zh": "授言术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 2,
+            "druid": 2,
+            "medium": 2,
+            "mesmerist": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "compelling rant",
         "name": "Compelling Rant",
         "name_zh": "激情演说",
@@ -5492,6 +7186,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "concealed breath",
+        "name": "Concealed Breath",
+        "name_zh": "消除呼吸",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 4,
+            "arcanist": 4,
+            "cleric/oracle": 4,
+            "druid": 4,
+            "hunter": 4,
+            "investigator": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 4,
+            "warpriest": 4
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "condensed ether",
@@ -5679,6 +7395,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "conjure deadfall",
+        "name": "Conjure Deadfall",
+        "name_zh": "召唤致命陷阱",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "magus": 5,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射，通过则无效 (见下)"
+    },
+        {
         "key": "consecrate",
         "name": "Consecrate",
         "name_zh": "祝圣术",
@@ -5743,6 +7474,24 @@ var spellsIndex = [
             "witch": 7
         },
         "source": "HA"
+    },
+        {
+        "key": "contact high",
+        "name": "Contact High",
+        "name_zh": "接触性迷醉",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "cleric": 3,
+            "mesmerist": 3,
+            "shaman": 3,
+            "skald": 3
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "contact other plane",
@@ -5816,6 +7565,29 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "contagious suggestion",
+        "name": "Contagious Suggestion",
+        "name_zh": "蔓延性暗示",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "language-dependent",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 4,
+            "medium": 4,
+            "mesmerist": 4,
+            "occultist": 5,
+            "psychic": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "contagious zeal",
@@ -6065,6 +7837,18 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "conversing wind",
+        "name": "Conversing Wind",
+        "name_zh": "对话之风",
+        "school": "transmutation",
+        "descriptors": ["air"],
+        "levels":         {
+            "bard": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-RTT"
+    },
+        {
         "key": "coordinated effort",
         "name": "Coordinated Effort",
         "name_zh": "协调行动",
@@ -6135,15 +7919,29 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
-        "key": "counterbalancing aura",
-        "name": "Counterbalancing Aura",
-        "name_zh": "失衡灵光",
-        "school": "abjuration",
-        "levels": {"cleric": 8},
-        "source": "PA",
+        "key": "cosmic ray",
+        "name": "Cosmic Ray",
+        "name_zh": "宇宙射线",
+        "school": "evocation",
+        "levels":         {
+            "magus": 5,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-PoS",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "见下文"
+        "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "counterbalancing aura",
+        "name": "Counterbalancing Aura",
+        "name_zh": "平衡灵光",
+        "school": "abjuration",
+        "levels": {"cleric": 8},
+        "source": "PC-CoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "见下"
     },
         {
         "key": "countless eyes",
@@ -6189,6 +7987,27 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "coward's cowl",
+        "name": "Coward's Cowl",
+        "name_zh": "懦夫的蒙头斗篷",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 1,
+            "mesmerist": 1,
+            "psychic": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "coward's lament",
         "name": "Coward's Lament",
         "name_zh": "懦夫之悔恨",
@@ -6226,6 +8045,53 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "crafter's nightmare",
+        "name": "Crafter's Nightmare",
+        "name_zh": "工匠的梦魇",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "druid": 2,
+            "medium": 1,
+            "mesmerist": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "spiritualist": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "create armaments",
+        "name": "Create Armaments",
+        "name_zh": "创造军备",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "bard": 4,
+            "medium": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 4,
+            "spiritualist": 3,
+            "witch": 4
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "create demiplane, greater",
@@ -6318,6 +8184,21 @@ var spellsIndex = [
             "sorcerer/wizard": 8
         },
         "source": "CRB"
+    },
+        {
+        "key": "create holds",
+        "name": "Create Holds",
+        "name_zh": "创造扶手",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 4,
+            "ranger": 3,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "create mindscape, greater",
@@ -6638,6 +8519,23 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
+        "key": "curative distillation",
+        "name": "Curative Distillation",
+        "name_zh": "疗效升华",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "alchemist": 2,
+            "cleric/oracle": 3,
+            "investigator": 2,
+            "warpriest": 3
+        },
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则减半 (无害)"
+    },
+        {
         "key": "cure critical wounds, mass",
         "name": "Cure Critical Wounds, Mass",
         "name_zh": "群体治疗致命伤",
@@ -6777,6 +8675,26 @@ var spellsIndex = [
         "source": "CRB"
     },
         {
+        "key": "curse of befouled fortune",
+        "name": "Curse of Befouled Fortune",
+        "name_zh": "不幸诅咒",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 3,
+            "bloodrager": 4,
+            "cleric": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 3,
+            "witch": 3
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "curse of burning sleep",
         "name": "Curse of Burning Sleep",
         "name_zh": "燃眠诅咒",
@@ -6819,6 +8737,29 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "curse of dragonflies",
+        "name": "Curse of Dragonflies",
+        "name_zh": "蜻蜓诅咒",
+        "school": "conjuration",
+        "descriptors":         [
+            "air",
+            "curse"
+        ],
+        "levels":         {
+            "druid": 3,
+            "magus": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 4,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BotC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "curse of fell seasons",
         "name": "Curse of Fell Seasons",
         "name_zh": "诅咒：季节错乱",
@@ -6838,6 +8779,24 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "curse of keeping",
+        "name": "Curse of Keeping",
+        "name_zh": "保管诅咒",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 2,
+            "mesmerist": 2,
+            "shaman": 2,
+            "witch": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "curse of magic negation",
@@ -7072,6 +9031,36 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "cyclic reincarnation",
+        "name": "Cyclic Reincarnation",
+        "name_zh": "循环转生术",
+        "school": "transmutation",
+        "levels": {"druid": 6},
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "dahak's release",
+        "name": "Dahak's Release",
+        "name_zh": "达哈克的释放",
+        "school": "enchantment",
+        "descriptors":         [
+            "draconic",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "mesmerist": 5,
+            "occultist": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "damnation stride",
         "name": "Damnation Stride",
         "name_zh": "降罚传送",
@@ -7135,6 +9124,31 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"bard": 6},
         "source": "UM"
+    },
+        {
+        "key": "dancing darkness",
+        "name": "Dancing Darkness",
+        "name_zh": "起舞于黯",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "shadow"
+        ],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "magus": 1,
+            "shaman": 1,
+            "psychic": 1,
+            "sorcerer/wizard": 1,
+            "spiritualist": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "dancing lantern",
@@ -7203,6 +9217,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "dark-light",
+        "name": "Dark-Light",
+        "name_zh": "闇光",
+        "school": "evocation",
+        "descriptors": ["light"],
+        "levels":         {
+            "cleric": 3,
+            "druid": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
         "key": "darkness",
         "name": "Darkness",
         "name_zh": "黑暗术",
@@ -7218,6 +9248,25 @@ var spellsIndex = [
             "sorcerer/wizard": 2
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "darkvault",
+        "name": "Darkvault",
+        "name_zh": "黑暗穹顶",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 3,
+            "cleric": 5,
+            "druid": 5,
+            "psychic": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-BoS",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -7255,6 +9304,25 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "darting duplicate",
+        "name": "Darting Duplicate",
+        "name_zh": "瞬身幻象",
+        "school": "illusion",
+        "subSchool": ["figment"],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "magus": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "daybreak arrow",
         "name": "Daybreak Arrow",
         "name_zh": "破晓之箭",
@@ -7289,6 +9357,22 @@ var spellsIndex = [
         "source": "CRB",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "daywalker",
+        "name": "Daywalker",
+        "name_zh": "日行者",
+        "school": "necromancy",
+        "levels":         {
+            "antipaladin": 4,
+            "cleric": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-CaC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
         {
@@ -7497,6 +9581,23 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "death pact",
+        "name": "Death Pact",
+        "name_zh": "死亡契约",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 5,
+            "mesmerist": 5,
+            "psychic": 6,
+            "witch": 6
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "death ward",
         "name": "Death Ward",
         "name_zh": "防死结界",
@@ -7541,6 +9642,43 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "debilitating pain, mass",
+        "name": "Debilitating Pain, Mass",
+        "name_zh": "群体衰竭剧痛",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "mind-affecting",
+            "pain"
+        ],
+        "levels":         {
+            "psychic": 5,
+            "witch": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-PA"
+    },
+        {
+        "key": "debilitating pain",
+        "name": "Debilitating Pain",
+        "name_zh": "衰竭剧痛",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "mind-affecting",
+            "pain"
+        ],
+        "levels":         {
+            "psychic": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则部分生效（见描述）"
     },
         {
         "key": "debilitating portent",
@@ -7683,6 +9821,15 @@ var spellsIndex = [
         "source": "CRB"
     },
         {
+        "key": "defensive grace",
+        "name": "Defensive Grace",
+        "name_zh": "防御仪态",
+        "school": "transmutation",
+        "levels": {"investigator": 5},
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "defensive shock",
         "name": "Defensive Shock",
         "name_zh": "闪电之盾",
@@ -7739,6 +9886,40 @@ var spellsIndex = [
         "levels": {"sorcerer/wizard": 7},
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "defoliate",
+        "name": "Defoliate",
+        "name_zh": "枯萎术",
+        "school": "necromancy",
+        "levels":         {
+            "druid": 2,
+            "ranger": 1,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-STLC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "deft digits",
+        "name": "Deft Digits",
+        "name_zh": "灵犀指",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 3,
+            "medium": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 3,
+            "spiritualist": 3,
+            "summoner": 3
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（无害，物品）"
     },
         {
         "key": "deja vu",
@@ -7986,6 +10167,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "depilate",
+        "name": "Depilate",
+        "name_zh": "脱毛咒",
+        "school": "necromancy",
+        "levels":         {
+            "bard": 1,
+            "druid": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "desecrate",
         "name": "Desecrate",
         "name_zh": "亵渎术",
@@ -8139,8 +10336,23 @@ var spellsIndex = [
             "spiritualist": 1,
             "witch": 1
         },
-        "source": "AG",
+        "source": "PC-ASoL",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "detect demon",
+        "name": "Detect Demon",
+        "name_zh": "侦测恶魔",
+        "school": "divination",
+        "levels":         {
+            "cleric": 1,
+            "inquisitor": 1,
+            "paladin": 1
+        },
+        "source": "PC-DHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（见正文）"
     },
         {
         "key": "detect desires",
@@ -8177,6 +10389,23 @@ var spellsIndex = [
             "shaman": 1
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "detect fiendish presence",
+        "name": "Detect Fiendish Presence",
+        "name_zh": "侦测魔鬼存在",
+        "school": "divination",
+        "levels":         {
+            "bard": 0,
+            "cleric": 0,
+            "magus": 0,
+            "sorcerer/wizard": 0,
+            "witch": 0
+        },
+        "source": "PC-AoE",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -8254,6 +10483,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "detect metal",
+        "name": "Detect Metal",
+        "name_zh": "侦测金属",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "detect mindscape",
         "name": "Detect Mindscape",
         "name_zh": "侦测心像结界",
@@ -8307,6 +10552,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "detect relations",
+        "name": "Detect Relations",
+        "name_zh": "侦测血缘",
+        "school": "divination",
+        "levels":         {
+            "bard": 2,
+            "cleric": 2,
+            "inquisitor": 2,
+            "witch": 2
+        },
+        "source": "PC-QC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "detect scrying",
@@ -8415,6 +10676,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "determine depth",
+        "name": "Determine Depth",
+        "name_zh": "判定深度",
+        "school": "divination",
+        "levels":         {
+            "bard": 2,
+            "druid": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "detonate",
         "name": "Detonate",
         "name_zh": "自爆术",
@@ -8455,6 +10731,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "devil snare",
+        "name": "Devil Snare",
+        "name_zh": "魔鬼圈套",
+        "school": "abjuration",
+        "descriptors": ["good"],
+        "levels":         {
+            "cleric": 4,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "整轮动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "devolution",
@@ -8509,6 +10800,23 @@ var spellsIndex = [
         "savingThrow_zh": "无 或 意志, 通过则无效; 见后文"
     },
         {
+        "key": "die for your master",
+        "name": "Die for Your Master",
+        "name_zh": "为主而亡",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "levels":         {
+            "antipaladin": 4,
+            "druid": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-AArch",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "dimension door",
         "name": "Dimension Door",
         "name_zh": "任意门",
@@ -8543,6 +10851,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "dimensional blade",
+        "name": "Dimensional Blade",
+        "name_zh": "次元剑",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 4,
+            "bloodrager": 4,
+            "cleric": 6,
+            "inquisitor": 5,
+            "magus": 5,
+            "paladin": 4,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "迅捷动作"
     },
         {
         "key": "dimensional bounce",
@@ -8604,19 +10929,19 @@ var spellsIndex = [
             "sorcerer/wizard": 2,
             "witch": 2
         },
-        "source": "PA",
+        "source": "PC-MHH",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧过则无效"
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "dirge of the victorious knights",
         "name": "Dirge of the Victorious Knights",
-        "name_zh": "凯旋骑士的挽歌",
+        "name_zh": "胜利骑士的挽歌",
         "school": "illusion",
         "subSchool": ["shadow"],
         "levels": {"bard": 6},
-        "source": "AG",
+        "source": "PC-CEoD",
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
@@ -8687,6 +11012,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志，通过则无效（见后文）"
+    },
+        {
+        "key": "discern value",
+        "name": "Discern Value",
+        "name_zh": "识别价值",
+        "school": "divination",
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "discordant blast",
@@ -8819,16 +11158,16 @@ var spellsIndex = [
         {
         "key": "dispel balance",
         "name": "Dispel Balance",
-        "name_zh": "反制平衡",
+        "name_zh": "解除中立",
         "school": "abjuration",
         "levels":         {
             "cleric": 5,
             "inquisitor": 5
         },
-        "source": "PA",
+        "source": "PC-CoB",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "见下文",
-        "savingThrow_zh": "见下文"
+        "spellResistance_zh": "见下",
+        "savingThrow_zh": "见下"
     },
         {
         "key": "dispel chaos",
@@ -8962,6 +11301,40 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "display aversion",
+        "name": "Display Aversion",
+        "name_zh": "厌恶幻象",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "levels":         {
+            "bard": 2,
+            "cleric/oracle": 2,
+            "inquisitor": 2,
+            "sorcerer/wizard": 3,
+            "witch": 2
+        },
+        "source": "PC-BotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可"
+    },
+        {
+        "key": "disrupt link",
+        "name": "Disrupt Link",
+        "name_zh": "联结崩解",
+        "school": "abjuration",
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 3,
+            "inquisitor": 3,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-FF",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "disrupt silence",
         "name": "Disrupt Silence",
         "name_zh": "瓦解沉默",
@@ -9005,6 +11378,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体); 见后文"
+    },
+        {
+        "key": "dissolution",
+        "name": "Dissolution",
+        "name_zh": "消失术",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 4,
+            "sorcerer/wizard": 5,
+            "spiritualist": 6,
+            "summoner": 6
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（物品）"
     },
         {
         "key": "distracting cacophony",
@@ -9187,6 +11576,23 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "domination link",
+        "name": "Domination Link",
+        "name_zh": "支配连接",
+        "school": "divination",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 3,
+            "inquisitor": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "doom",
         "name": "Doom",
         "name_zh": "丧志术",
@@ -9226,6 +11632,51 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "draconic ally",
+        "name": "Draconic Ally",
+        "name_zh": "萌龙仆从",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["draconic"],
+        "levels":         {
+            "antipaladin": 3,
+            "bloodrager": 3,
+            "paladin": 3,
+            "psychic": 3,
+            "occultist": 3,
+            "sorcerer/wizard": 3,
+            "spiritualist": 3,
+            "summoner": 3
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "draconic malice",
+        "name": "Draconic Malice",
+        "name_zh": "龙威术",
+        "school": "enchantment",
+        "descriptors": ["draconic"],
+        "levels":         {
+            "antipaladin": 3,
+            "bard": 3,
+            "bloodrager": 3,
+            "cleric": 3,
+            "inquisitor": 3,
+            "mesmerist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "draconic reservoir",
         "name": "Draconic Reservoir",
         "name_zh": "斗转星移",
@@ -9246,6 +11697,34 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
+    },
+        {
+        "key": "draconic suppression",
+        "name": "Draconic Suppression",
+        "name_zh": "抑制龙类",
+        "school": "abjuration",
+        "levels":         {
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "dragon turtle shell",
+        "name": "Dragon Turtle Shell",
+        "name_zh": "龙龟之壳",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 3,
+            "cleric": 3,
+            "druid": 2,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "dragon's breath",
@@ -9269,6 +11748,39 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "dragonvoice",
+        "name": "Dragonvoice",
+        "name_zh": "龙之声",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "drain poison",
+        "name": "Drain Poison",
+        "name_zh": "汲取毒素",
+        "school": "transmutation",
+        "descriptors": ["poison"],
+        "levels":         {
+            "alchemist": 3,
+            "antipaladin": 3,
+            "cleric": 3,
+            "druid": 3,
+            "ranger": 3,
+            "witch": 3
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "dread bolt",
@@ -9326,6 +11838,23 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "dream dalliance",
+        "name": "Dream Dalliance",
+        "name_zh": "玩弄梦境",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "mesmerist": 3,
+            "psychic": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则不相信，随后意志，通过则部分生效（见描述）"
+    },
+        {
         "key": "dream scan",
         "name": "Dream Scan",
         "name_zh": "窥视梦境",
@@ -9342,6 +11871,26 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "dream shield",
+        "name": "Dream Shield",
+        "name_zh": "梦境之盾",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "medium": 2,
+            "mesmerist": 2,
+            "psychic": 3,
+            "shaman": 2,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "dream travel",
@@ -9405,6 +11954,36 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "dungeonsight",
+        "name": "Dungeonsight",
+        "name_zh": "地城视野",
+        "school": "divination",
+        "levels":         {
+            "bard": 4,
+            "cleric": 5,
+            "inquisitor": 4,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "duplicate familiar",
+        "name": "Duplicate Familiar",
+        "name_zh": "魔宠复制术",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "alchemist": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-FF",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
         "key": "dust form",
         "name": "Dust Form",
         "name_zh": "沙化形态",
@@ -9448,6 +12027,31 @@ var spellsIndex = [
         "source": "MC",
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "dwarven veil",
+        "name": "Dwarven Veil",
+        "name_zh": "矮人之纱",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 2,
+            "paladin": 2
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "dweomer retaliation",
+        "name": "Dweomer Retaliation",
+        "name_zh": "咒文复仇",
+        "school": "abjuration",
+        "levels": {"sorcerer/wizard": 3},
+        "source": "PC-CEoD",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
         {
@@ -9538,6 +12142,54 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则部分生效 (见下文)"
+    },
+        {
+        "key": "early judgment",
+        "name": "Early Judgment",
+        "name_zh": "审判将至",
+        "school": "divination",
+        "levels":         {
+            "cleric/oracle": 2,
+            "inquisitor": 2,
+            "witch": 1
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "ears of the city",
+        "name": "Ears of the City",
+        "name_zh": "聆听城市",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "earsend",
+        "name": "Earsend",
+        "name_zh": "顺风耳",
+        "school": "necromancy",
+        "levels":         {
+            "alchemist": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "earth glide",
@@ -9644,6 +12296,21 @@ var spellsIndex = [
         "savingThrow_zh": "反射，通过则减半 和 意志，通过则部分生效；见后文"
     },
         {
+        "key": "ectoplasmic hand",
+        "name": "Ectoplasmic Hand",
+        "name_zh": "灵质手",
+        "school": "evocation",
+        "levels":         {
+            "occultist": 5,
+            "psychic": 5,
+            "spiritualist": 4
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "ectoplasmic snare",
         "name": "Ectoplasmic Snare",
         "name_zh": "灵质捕网",
@@ -9748,6 +12415,26 @@ var spellsIndex = [
         "levels": {"psychic": 7},
         "descriptorOperator": "and",
         "source": "OA"
+    },
+        {
+        "key": "egorian diplomacy",
+        "name": "Egorian Diplomacy",
+        "name_zh": "艾格利安外交术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "magus": 1,
+            "mesmerist": 1,
+            "psychic": 1
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "eldritch fever",
@@ -9915,6 +12602,52 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "emblazon crest",
+        "name": "Emblazon Crest",
+        "name_zh": "炫示纹章",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 1,
+            "paladin": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "emblem of greed",
+        "name": "Emblem of Greed",
+        "name_zh": "贪婪之徽",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "cleric": 6,
+            "inquisitor": 6,
+            "magus": 6,
+            "medium": 6,
+            "shaman": 7,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（物品）"
+    },
+        {
+        "key": "emergency force sphere",
+        "name": "Emergency Force Sphere",
+        "name_zh": "紧急力场护罩",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels": {"sorcerer/wizard": 4},
+        "source": "PC-CEoD",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "emotive block",
         "name": "Emotive Block",
         "name_zh": "情感障碍",
@@ -9932,6 +12665,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "empower holy water",
+        "name": "Empower Holy Water",
+        "name_zh": "强效圣水",
+        "school": "transmutation",
+        "descriptors": ["good"],
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "paladin": 1
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（物体）"
+    },
+        {
         "key": "enchantment foil",
         "name": "Enchantment Foil",
         "name_zh": "迫退附魔",
@@ -9944,6 +12693,28 @@ var spellsIndex = [
             "witch": 4
         },
         "source": "ACG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "enchantment sight",
+        "name": "Enchantment Sight",
+        "name_zh": "惑控视力",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "cleric": 2,
+            "inquisitor": 2,
+            "medium": 2,
+            "mesmerist": 2,
+            "occultist": 2,
+            "paladin": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "spiritualist": 2,
+            "witch": 2
+        },
+        "source": "PC-HotHC",
         "castingTime_zh": "标准动作"
     },
         {
@@ -9993,7 +12764,7 @@ var spellsIndex = [
         {
         "key": "enemy's heart",
         "name": "Enemy's Heart",
-        "name_zh": "噬心术",
+        "name_zh": "啖敌之心",
         "school": "necromancy",
         "descriptors":         [
             "death",
@@ -10006,8 +12777,8 @@ var spellsIndex = [
             "witch": 2
         },
         "descriptorOperator": "and",
-        "source": "ARG",
-        "castingTime_zh": "1个整轮动作，特殊见下文",
+        "source": "PC-OoG",
+        "castingTime_zh": "整轮动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -10023,6 +12794,15 @@ var spellsIndex = [
         },
         "source": "CRB",
         "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "energy hack",
+        "name": "Energy Hack",
+        "name_zh": "能量窃取",
+        "school": "transmutation",
+        "levels": {"sorcerer/wizard": 4},
+        "source": "PC-ACO",
+        "castingTime_zh": "直觉动作"
     },
         {
         "key": "energy siege shot, greater",
@@ -10067,6 +12847,35 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "enhance water",
+        "name": "Enhance Water",
+        "name_zh": "化水为酒",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "paladin": 1
+        },
+        "source": "PC-FoP",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "强韧，通过则无效（物体）"
+    },
+        {
+        "key": "enhanced diplomacy, 3.5e",
+        "name": "Enhanced Diplomacy, 3.5E",
+        "name_zh": "增强交涉",
+        "school": "divination",
+        "levels":         {
+            "cleric": 0,
+            "druid": 0
+        },
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "enlarge person, mass",
         "name": "Enlarge Person, Mass",
         "name_zh": "群体变巨术",
@@ -10099,6 +12908,41 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "enlarge tail",
+        "name": "Enlarge Tail",
+        "name_zh": "巨化尾扫",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 1,
+            "antipaladin": 1,
+            "druid": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1,
+            "witch": 1
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "enlightened step",
+        "name": "Enlightened Step",
+        "name_zh": "启迪步伐",
+        "school": "transmutation",
+        "descriptors":         [
+            "air",
+            "meditative"
+        ],
+        "levels":         {
+            "cleric": 6,
+            "druid": 6,
+            "shaman": 6
+        },
+        "descriptorOperator": "and",
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
     },
         {
         "key": "enshroud thoughts",
@@ -10225,6 +13069,39 @@ var spellsIndex = [
         "source": "UI"
     },
         {
+        "key": "enticing adulation",
+        "name": "Enticing Adulation",
+        "name_zh": "迷人阿谀",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "entomb",
+        "name": "Entomb",
+        "name_zh": "埋葬",
+        "school": "transmutation",
+        "descriptors": ["earth"],
+        "levels":         {
+            "arcanist": 8,
+            "druid": 8,
+            "shaman": 8,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "entrap spirit",
         "name": "Entrap Spirit",
         "name_zh": "囚困魂魄",
@@ -10324,6 +13201,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "见后文"
+    },
+        {
+        "key": "erode defenses",
+        "name": "Erode Defenses",
+        "name_zh": "侵蚀防御",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 2,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效（见下文）"
     },
         {
         "key": "eruptive postules",
@@ -10519,6 +13411,22 @@ var spellsIndex = [
         "savingThrow_zh": "无 或 意志，通过则部分生效 (见下文)"
     },
         {
+        "key": "evaluator's lens",
+        "name": "Evaluator's Lens",
+        "name_zh": "评估者的镜片",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "inquisitor": 2,
+            "occultist": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 2,
+            "witch": 3
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "evolution surge, greater",
         "name": "Evolution Surge, Greater",
         "name_zh": "高等激励进化",
@@ -10571,6 +13479,22 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则部分生效"
     },
         {
+        "key": "expeditious construction",
+        "name": "Expeditious Construction",
+        "name_zh": "快速建构",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["earth"],
+        "levels":         {
+            "druid": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "expeditious excavation",
         "name": "Expeditious Excavation",
         "name_zh": "快速挖掘",
@@ -10602,6 +13526,26 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "expel blood",
+        "name": "Expel Blood",
+        "name_zh": "驱除血液",
+        "school": "conjuration",
+        "descriptors":         [
+            "evil",
+            "water"
+        ],
+        "levels":         {
+            "sorcerer/wizard": 7,
+            "summoner": 6,
+            "witch": 7
+        },
+        "descriptorOperator": "and",
+        "source": "PC-EMH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "expend",
@@ -10767,6 +13711,42 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "fair is foul",
+        "name": "Fair Is Foul",
+        "name_zh": "苍天无眼",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 3,
+            "witch": 2
+        },
+        "source": "PC-BotC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "fairness",
+        "name": "Fairness",
+        "name_zh": "童叟无欺",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "cleric/oracle": 1,
+            "inquisitor": 2,
+            "paladin": 2
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "fairy ring retreat",
         "name": "Fairy Ring Retreat",
         "name_zh": "休养仙环",
@@ -10798,6 +13778,23 @@ var spellsIndex = [
         "castingTime_zh": "10分钟，外加被改变的记忆时长",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "false face",
+        "name": "False Face",
+        "name_zh": "虚假面容",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "inquisitor": 1,
+            "mesmerist": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "false future",
@@ -10933,6 +13930,21 @@ var spellsIndex = [
         "spellResistance_zh": "不可"
     },
         {
+        "key": "familiar figment",
+        "name": "Familiar Figment",
+        "name_zh": "魔宠幻象",
+        "school": "illusion",
+        "subSchool": ["figment"],
+        "levels":         {
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-AArch",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "familiar melding",
         "name": "Familiar Melding",
         "name_zh": "魔宠融合",
@@ -10946,6 +13958,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "fear the sun",
+        "name": "Fear the Sun",
+        "name_zh": "太阳恐惧",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 1,
+            "bloodrager": 1,
+            "cleric": 2,
+            "druid": 2,
+            "inquisitor": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "fear",
@@ -11227,6 +14261,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "fiery runes",
+        "name": "Fiery Runes",
+        "name_zh": "烈焰符文",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "alchemist": 2,
+            "bloodrager": 2,
+            "druid": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (见下)",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "fiery shuriken",
         "name": "Fiery Shuriken",
         "name_zh": "爆炎手里剑",
@@ -11235,6 +14287,47 @@ var spellsIndex = [
         "descriptors": ["fire"],
         "levels": {"sorcerer/wizard": 2},
         "source": "UC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "final sacrifice",
+        "name": "Final Sacrifice",
+        "name_zh": "最终奉献",
+        "school": "evocation",
+        "levels":         {
+            "antipaladin": 3,
+            "bloodrager": 2,
+            "cleric": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 2,
+            "witch": 4
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效；然后反射，通过则减半"
+    },
+        {
+        "key": "find fault",
+        "name": "Find Fault",
+        "name_zh": "寻找破绽",
+        "school": "divination",
+        "levels":         {
+            "bard": 3,
+            "bloodrager": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "medium": 3,
+            "oracle": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-AAnth",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
@@ -11422,6 +14515,26 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "fire sneeze",
+        "name": "Fire Sneeze",
+        "name_zh": "火焰喷嚏",
+        "school": "evocation",
+        "descriptors":         [
+            "air",
+            "fire"
+        ],
+        "levels":         {
+            "alchemist": 2,
+            "druid": 2,
+            "sorcerer/wizard": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-GoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
         "key": "fire storm",
         "name": "Fire Storm",
         "name_zh": "火焰风暴",
@@ -11528,6 +14641,39 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "firewalker's meditation",
+        "name": "Firewalker's Meditation",
+        "name_zh": "踏焰行者",
+        "school": "abjuration",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "paladin": 3,
+            "shaman": 4,
+            "wizard": 4
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
+    },
+        {
+        "key": "first world revisions",
+        "name": "First World Revisions",
+        "name_zh": "返初溯源",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 2,
+            "antipaladin": 3,
+            "cleric": 2,
+            "medium": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 3,
+            "witch": 2
+        },
+        "source": "PC-BoS"
     },
         {
         "key": "flame arrow",
@@ -11674,6 +14820,30 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则无效 (物体，见下文)"
     },
         {
+        "key": "flash forward",
+        "name": "Flash Forward",
+        "name_zh": "时光闪回",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels":         {
+            "alchemist": 4,
+            "antipaladin": 4,
+            "bard": 4,
+            "bloodrager": 4,
+            "inquisitor": 4,
+            "magus": 4,
+            "medium": 4,
+            "occultist": 4,
+            "paladin": 4,
+            "psychic": 5,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无 (无害)"
+    },
+        {
         "key": "flashfire",
         "name": "Flashfire",
         "name_zh": "闪燃术",
@@ -11687,6 +14857,57 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可（物体）",
         "savingThrow_zh": "反射过则无效（物体）和强韧过则无效"
+    },
+        {
+        "key": "fleeting defect",
+        "name": "Fleeting Defect",
+        "name_zh": "蚁穴溃堤",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效 (无害，物体)；见下"
+    },
+        {
+        "key": "fleeting memory, mass",
+        "name": "Fleeting Memory, Mass",
+        "name_zh": "群体转眼即逝",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 6,
+            "mesmerist": 5,
+            "occultist": 6,
+            "psychic": 7,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-BM"
+    },
+        {
+        "key": "fleeting memory",
+        "name": "Fleeting Memory",
+        "name_zh": "转眼即逝",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 3,
+            "mesmerist": 2,
+            "occultist": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
         "key": "flesh puppet horde",
@@ -11808,6 +15029,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "flexile curse",
+        "name": "Flexile Curse",
+        "name_zh": "软化诅咒",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "bard": 3,
+            "cleric": 5,
+            "inquisitor": 3,
+            "psychic": 5,
+            "sorcerer/wizard": 5,
+            "witch": 3
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "flickering lights",
         "name": "Flickering Lights",
         "name_zh": "光与暗的境界",
@@ -11859,6 +15099,27 @@ var spellsIndex = [
         },
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "flurry of snowballs",
+        "name": "Flurry of Snowballs",
+        "name_zh": "雪球风暴",
+        "school": "evocation",
+        "descriptors":         [
+            "cold",
+            "water"
+        ],
+        "levels":         {
+            "druid": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-PotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "fly, mass",
@@ -12003,6 +15264,22 @@ var spellsIndex = [
         "savingThrow_zh": "无 或 意志，通过则不相信 (见下)"
     },
         {
+        "key": "fool's teleport",
+        "name": "Fool's Teleport",
+        "name_zh": "欺敌传送",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "mesmerist": 3,
+            "psychic": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "forbid action, greater",
         "name": "Forbid Action, Greater",
         "name_zh": "高等行动禁制",
@@ -12056,6 +15333,24 @@ var spellsIndex = [
         "savingThrow_zh": "见后文"
     },
         {
+        "key": "force anchor",
+        "name": "Force Anchor",
+        "name_zh": "力场锚",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["force"],
+        "levels":         {
+            "inquisitor": 2,
+            "magus": 2,
+            "sorcerer/wizard": 3,
+            "summoner": 2
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "force hook charge",
         "name": "Force Hook Charge",
         "name_zh": "力场钩链",
@@ -12087,6 +15382,26 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "force sword",
+        "name": "Force Sword",
+        "name_zh": "力场剑",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "bloodrager": 2,
+            "magus": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "spiritualist": 2,
+            "witch": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "forcecage",
@@ -12197,6 +15512,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "foretell failure",
+        "name": "Foretell Failure",
+        "name_zh": "预测失败",
+        "school": "divination",
+        "levels":         {
+            "bard": 4,
+            "occultist": 5,
+            "oracle": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 5,
+            "witch": 4
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "迅捷动作"
+    },
+        {
         "key": "forgetful slumber",
         "name": "Forgetful Slumber",
         "name_zh": "遗忘沉眠",
@@ -12212,6 +15543,47 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "form of the alien dragon i",
+        "name": "Form of The Alien Dragon I",
+        "name_zh": "异龙形态 I",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 6,
+            "magus": 6,
+            "psychic": 7,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "见正文"
+    },
+        {
+        "key": "form of the alien dragon ii",
+        "name": "Form of The Alien Dragon II",
+        "name_zh": "异龙形态 II",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "psychic": 8,
+            "sorcerer/wizard": 7
+        },
+        "source": "PC-LoD"
+    },
+        {
+        "key": "form of the alien dragon iii",
+        "name": "Form of The Alien Dragon III",
+        "name_zh": "异龙形态 III",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "psychic": 9,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-LoD"
     },
         {
         "key": "form of the dragon i",
@@ -12246,6 +15618,46 @@ var spellsIndex = [
         "subSchool": ["polymorph"],
         "levels": {"sorcerer/wizard": 8},
         "source": "CRB"
+    },
+        {
+        "key": "form of the exotic dragon i",
+        "name": "Form of The Exotic Dragon I",
+        "name_zh": "奇龙形态 I",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 6,
+            "druid": 7,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "见正文"
+    },
+        {
+        "key": "form of the exotic dragon ii",
+        "name": "Form of The Exotic Dragon II",
+        "name_zh": "奇龙形态 II",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "druid": 8,
+            "sorcerer/wizard": 7
+        },
+        "source": "PC-LoD"
+    },
+        {
+        "key": "form of the exotic dragon iii",
+        "name": "Form of The Exotic Dragon III",
+        "name_zh": "奇龙形态 III",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "druid": 9,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-LoD"
     },
         {
         "key": "foster hatred",
@@ -12357,6 +15769,32 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "frigid souls",
+        "name": "Frigid Souls",
+        "name_zh": "严寒之魂",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "cold",
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "ranger": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "frigid touch",
         "name": "Frigid Touch",
         "name_zh": "极寒之触",
@@ -12388,6 +15826,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "frost mammoth",
+        "name": "Frost Mammoth",
+        "name_zh": "复霜猛玛",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["cold"],
+        "levels":         {
+            "cleric": 7,
+            "druid": 7,
+            "shaman": 7,
+            "sorcerer/wizard": 7,
+            "summoner": 6
+        },
+        "source": "PC-PotN",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "frostbite",
@@ -12425,6 +15882,41 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
+        "key": "full pouch",
+        "name": "Full Pouch",
+        "name_zh": "琳琅满盆",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "druid": 2,
+            "inquisitor": 3,
+            "occultist": 3,
+            "ranger": 3,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（物品）"
+    },
+        {
+        "key": "fumblestep",
+        "name": "Fumblestep",
+        "name_zh": "笨拙步伐",
+        "school": "conjuration",
+        "levels":         {
+            "mesmerist": 1,
+            "sorcerer/wizard": 1,
+            "spiritualist": 1,
+            "witch": 1
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无（见下文）"
+    },
+        {
         "key": "fumbletongue",
         "name": "Fumbletongue",
         "name_zh": "大舌头咒",
@@ -12452,6 +15944,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "furious fire barrage",
+        "name": "Furious Fire Barrage",
+        "name_zh": "怒火弹幕",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "bloodrager": 4,
+            "magus": 5,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "fury of the sun",
@@ -12482,6 +15990,50 @@ var spellsIndex = [
         "castingTime_zh": "直觉动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "garden of peril",
+        "name": "Garden of Peril",
+        "name_zh": "厄难花园",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["poison"],
+        "levels":         {
+            "druid": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2,
+            "witch": 2
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "garrulous grin",
+        "name": "Garrulous Grin",
+        "name_zh": "饶舌嬉笑",
+        "school": "necromancy",
+        "descriptors":         [
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "inquisitor": 2,
+            "mesmerist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "spiritualist": 2,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-SH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "gaseous form",
@@ -12702,10 +16254,10 @@ var spellsIndex = [
             "sorcerer/wizard": 4,
             "summoner": 2
         },
-        "source": "ARG",
+        "source": "PC-OoG",
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "无 (见描述)"
+        "savingThrow_zh": "无(见后文)"
     },
         {
         "key": "ghostbane dirge, mass",
@@ -12823,6 +16375,23 @@ var spellsIndex = [
         "savingThrow_zh": "强韧通过则无效（无害）"
     },
         {
+        "key": "gird ally",
+        "name": "Gird Ally",
+        "name_zh": "缚护盟友",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2,
+            "witch": 2
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "glibness",
         "name": "Glibness",
         "name_zh": "花言巧语",
@@ -12847,6 +16416,15 @@ var spellsIndex = [
         },
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "glimpse of the akashic",
+        "name": "Glimpse of The Akashic",
+        "name_zh": "阿卡西窥视术",
+        "school": "divination",
+        "levels": {"psychic": 8},
+        "source": "PC-PA",
+        "castingTime_zh": "整轮动作"
     },
         {
         "key": "glimpse of truth",
@@ -12907,6 +16485,23 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"sorcerer/wizard": 6},
         "source": "CRB"
+    },
+        {
+        "key": "globe of tranquil water",
+        "name": "Globe of Tranquil Water",
+        "name_zh": "静水球仪",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 5,
+            "witch": 4
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "gloomblind bolts",
@@ -12971,6 +16566,21 @@ var spellsIndex = [
         "savingThrow_zh": "见后文"
     },
         {
+        "key": "golden guise",
+        "name": "Golden Guise",
+        "name_zh": "黄金假象",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "good hope",
         "name": "Good Hope",
         "name_zh": "强大希望",
@@ -13014,6 +16624,66 @@ var spellsIndex = [
         "castingTime_zh": "迅捷动作"
     },
         {
+        "key": "grand destiny",
+        "name": "Grand Destiny",
+        "name_zh": "辉煌天命",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "alchemist": 5,
+            "bard": 4,
+            "medium": 4,
+            "mesmerist": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 5
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无（无害）"
+    },
+        {
+        "key": "grappling scarf",
+        "name": "Grappling Scarf",
+        "name_zh": "攀爬抓勾",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "inquisitor": 1,
+            "occultist": 1,
+            "skald": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "grasp",
+        "name": "Grasp",
+        "name_zh": "绝处逢生",
+        "school": "divination",
+        "levels":         {
+            "arcanist": 0,
+            "bard": 0,
+            "cleric/oracle": 0,
+            "druid": 0,
+            "hunter": 0,
+            "magus": 0,
+            "psychic": 0,
+            "skald": 0,
+            "sorcerer/wizard": 0,
+            "warpriest": 0,
+            "witch": 0
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "grasping corpse",
         "name": "Grasping Corpse",
         "name_zh": "掌控尸体",
@@ -13041,6 +16711,21 @@ var spellsIndex = [
         "descriptors": ["force"],
         "levels": {"sorcerer/wizard": 7},
         "source": "CRB"
+    },
+        {
+        "key": "grasping tentacles",
+        "name": "Grasping Tentacles",
+        "name_zh": "抓挠触手",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "bloodrager": 3,
+            "magus": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3,
+            "witch": 3
+        },
+        "source": "PC-DTT"
     },
         {
         "key": "grasping vine",
@@ -13087,6 +16772,48 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "gravity sphere",
+        "name": "Gravity Sphere",
+        "name_zh": "重力法球",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 6,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无 (见下)"
+    },
+        {
+        "key": "gravity well",
+        "name": "Gravity Well",
+        "name_zh": "重力井",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 6,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "grease, greater",
+        "name": "Grease, Greater",
+        "name_zh": "高等油腻术",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "bard": 5,
+            "magus": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 5
+        },
+        "source": "PC-DTT"
+    },
+        {
         "key": "grease",
         "name": "Grease",
         "name_zh": "油腻术",
@@ -13118,6 +16845,32 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "grim stalker",
+        "name": "Grim Stalker",
+        "name_zh": "冷酷猎犬",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "death",
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "cleric": 7,
+            "magus": 6,
+            "shaman": 7,
+            "sorcerer/wizard": 7,
+            "summoner": 6,
+            "witch": 7
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "意志，通过则无效（物体）；见下文"
     },
         {
         "key": "groundswell",
@@ -13153,6 +16906,63 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "guardian armor",
+        "name": "Guardian Armor",
+        "name_zh": "守护盔甲",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels":         {
+            "antipaladin": 1,
+            "bloodrager": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "magus": 1,
+            "occultist": 1,
+            "paladin": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-AMH",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "guardian monument, greater",
+        "name": "Guardian Monument, Greater",
+        "name_zh": "高等守护石碑",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 5,
+            "inquisitor": 5,
+            "occultist": 5,
+            "psychic": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "guardian monument, lesser",
+        "name": "Guardian Monument, Lesser",
+        "name_zh": "次等守护石碑",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "occultist": 3,
+            "paladin": 3,
+            "psychic": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "1整轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "guardian of faith",
         "name": "Guardian of Faith",
         "name_zh": "信仰戍卫",
@@ -13166,6 +16976,27 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "guarding knowledge",
+        "name": "Guarding Knowledge",
+        "name_zh": "守护知识",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 3,
+            "arcanist": 3,
+            "bard": 3,
+            "cleric/oracle": 3,
+            "inquisitor": 2,
+            "investigator": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "skald": 3,
+            "sorcerer/wizard": 3,
+            "warpriest": 3
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "guards and wards",
@@ -13214,6 +17045,27 @@ var spellsIndex = [
         "castingTime_zh": "1分钟"
     },
         {
+        "key": "gullibility",
+        "name": "Gullibility",
+        "name_zh": "轻信之言",
+        "school": "enchantment",
+        "subSchool": ["charm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "antipaladin": 3,
+            "bard": 3,
+            "inquisitor": 3,
+            "mesmerist": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "gust of wind",
         "name": "Gust of Wind",
         "name_zh": "造风术",
@@ -13246,6 +17098,41 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (物体) 或反射, 通过则无效；见下文"
+    },
+        {
+        "key": "hag's seasoning",
+        "name": "Hag's Seasoning",
+        "name_zh": "鬼婆的调味料",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 2,
+            "bloodrager": 2,
+            "druid": 3,
+            "shaman": 3,
+            "witch": 3
+        },
+        "source": "PC-BotC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "hairline fractures",
+        "name": "Hairline Fractures",
+        "name_zh": "溃堤之穴",
+        "school": "transmutation",
+        "descriptors": ["earth"],
+        "levels":         {
+            "cleric/oracle": 1,
+            "druid": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-FoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（物体）",
+        "savingThrow_zh": "强韧，通过则无效（物体）"
     },
         {
         "key": "half-blood extraction",
@@ -13296,6 +17183,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
+        "key": "hallucinogenic smoke",
+        "name": "Hallucinogenic Smoke",
+        "name_zh": "迷幻烟雾",
+        "school": "conjuration",
+        "descriptors": ["poison"],
+        "levels":         {
+            "cleric": 4,
+            "witch": 4
+        },
+        "source": "PC-FP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
         "key": "halt undead",
         "name": "Halt Undead",
         "name_zh": "死灵定身术",
@@ -13325,6 +17227,23 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效（物体）"
     },
         {
+        "key": "hanspur's flotsam vessel",
+        "name": "Hanspur's Flotsam Vessel",
+        "name_zh": "汉斯布的漂流船",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "ranger": 1,
+            "summoner": 1
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "harm",
         "name": "Harm",
         "name_zh": "重伤术",
@@ -13339,6 +17258,51 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半"
+    },
+        {
+        "key": "harmless form",
+        "name": "Harmless Form",
+        "name_zh": "无害外型",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "druid": 2,
+            "ranger": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
+        "key": "harrowing, greater",
+        "name": "Harrowing, Greater",
+        "name_zh": "高等哈罗占卜",
+        "school": "divination",
+        "levels":         {
+            "bard": 5,
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-THH",
+        "castingTime_zh": "10分钟"
+    },
+        {
+        "key": "harvest season",
+        "name": "Harvest Season",
+        "name_zh": "丰收季",
+        "school": "abjuration",
+        "levels":         {
+            "druid": 2,
+            "shaman": 2
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "haste",
@@ -13460,6 +17424,30 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "haze of dreams",
+        "name": "Haze of Dreams",
+        "name_zh": "游离幻梦",
+        "school": "enchantment",
+        "subSchool": ["charm"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "inquisitor": 1,
+            "paladin": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-FoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "heal mount",
         "name": "Heal Mount",
         "name_zh": "医疗坐骑",
@@ -13503,6 +17491,28 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "healing flames",
+        "name": "Healing Flames",
+        "name_zh": "医疗圣炎",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors":         [
+            "fire",
+            "good"
+        ],
+        "levels":         {
+            "cleric/oracle": 4,
+            "inquisitor": 4,
+            "paladin": 4,
+            "warpriest": 4
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
         "key": "healing thief",
         "name": "Healing Thief",
         "name_zh": "治疗窃取",
@@ -13520,6 +17530,27 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "healing token",
+        "name": "Healing Token",
+        "name_zh": "医疗标记",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "cleric/oracle": 2,
+            "druid": 2,
+            "hunter": 2,
+            "inquisitor": 2,
+            "paladin": 2,
+            "ranger": 2,
+            "shaman": 2,
+            "warpriest": 2
+        },
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（物体）",
+        "savingThrow_zh": "意志，通过则无效（物体）"
+    },
+        {
         "key": "healing warmth",
         "name": "Healing Warmth",
         "name_zh": "宜人暖意",
@@ -13533,6 +17564,22 @@ var spellsIndex = [
         },
         "source": "ARG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "heart of the mammoth",
+        "name": "Heart of the Mammoth",
+        "name_zh": "猛犸之心",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 8,
+            "druid": 8,
+            "sorcerer/wizard": 8,
+            "witch": 8
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志，通过则无效（无害）"
     },
         {
         "key": "heart of the metal",
@@ -13565,6 +17612,61 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
+    },
+        {
+        "key": "heatstroke",
+        "name": "Heatstroke",
+        "name_zh": "酷暑射线",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "druid": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-STLC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则部分生效；见下"
+    },
+        {
+        "key": "heavy water",
+        "name": "Heavy Water",
+        "name_zh": "重水",
+        "school": "transmutation",
+        "descriptors": ["water"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "ranger": 4
+        },
+        "source": "PC-MM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无 (见下)"
+    },
+        {
+        "key": "heckle",
+        "name": "Heckle",
+        "name_zh": "诘问术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "magus": 3,
+            "mesmerist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "hedging weapons",
@@ -13661,6 +17763,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "hermean potential",
+        "name": "Hermean Potential",
+        "name_zh": "赫迷亚之潜力",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "medium": 1,
+            "mesmerist": 1,
+            "psychic": 1,
+            "witch": 1
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "hero's defiance",
@@ -13814,6 +17934,42 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "hidden blades",
+        "name": "Hidden Blades",
+        "name_zh": "隐藏之刃",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "alchemist": 2,
+            "antipaladin": 2,
+            "bard": 2,
+            "inquisitor": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可（无害，物品）",
+        "savingThrow_zh": "意志，通过则无效（无害，物品）"
+    },
+        {
+        "key": "hidden knowledge",
+        "name": "Hidden Knowledge",
+        "name_zh": "隐藏知识",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "medium": 2,
+            "mesmerist": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-SDPG",
+        "castingTime_zh": "1轮"
+    },
+        {
         "key": "hidden presence",
         "name": "Hidden Presence",
         "name_zh": "隐藏存在感",
@@ -13936,6 +18092,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "hide weapon",
+        "name": "Hide Weapon",
+        "name_zh": "隐藏武器",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 1,
+            "bloodrager": 1,
+            "inquisitor": 1,
+            "magus": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "hideous laughter",
@@ -14074,6 +18246,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "hollow blades",
+        "name": "Hollow Blades",
+        "name_zh": "空心刃",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 2,
+            "ranger": 1,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "hollow heroism, greater",
@@ -14358,6 +18547,34 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "horrifying visage",
+        "name": "Horrifying Visage",
+        "name_zh": "恐怖鬼面",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "spiritualist": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "hostile juxtaposition",
         "name": "Hostile Juxtaposition",
         "name_zh": "恶意换位",
@@ -14417,6 +18634,36 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "human potential, mass",
+        "name": "Human Potential, Mass",
+        "name_zh": "群体人性潜力",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 6,
+            "psychic": 6,
+            "sorcerer/wizard": 6,
+            "summoner": 6
+        },
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "human potential",
+        "name": "Human Potential",
+        "name_zh": "人性潜力",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "medium": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "hunger for flesh, mass",
@@ -14507,6 +18754,20 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "hunter's friend",
+        "name": "Hunter's Friend",
+        "name_zh": "猎手之友",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 3,
+            "ranger": 2
+        },
+        "source": "PC-AArch",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "hunter's howl",
         "name": "Hunter's Howl",
         "name_zh": "猎手怒嚎",
@@ -14522,6 +18783,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "huntmaster's spear",
+        "name": "Huntmaster's Spear",
+        "name_zh": "狩猎大师之矛",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 1,
+            "bloodrager": 2,
+            "druid": 2,
+            "hunter": 1,
+            "inquisitor": 2,
+            "magus": 2,
+            "occultist": 2,
+            "paladin": 1,
+            "ranger": 1,
+            "shaman": 2
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "有 (无害、物体)",
+        "savingThrow_zh": "意志，通过则无效 (无害、物体)"
     },
         {
         "key": "hydraulic push",
@@ -14559,6 +18842,64 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "hydrophobia",
+        "name": "Hydrophobia",
+        "name_zh": "恐水症",
+        "school": "necromancy",
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "cleric": 3,
+            "druid": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-MM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "hymn of mercy",
+        "name": "Hymn of Mercy",
+        "name_zh": "慈悲赞歌",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "good",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 5,
+            "cleric": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "hymn of peace",
+        "name": "Hymn of Peace",
+        "name_zh": "和平赞歌",
+        "school": "abjuration",
+        "descriptors": ["good"],
+        "levels":         {
+            "bard": 6,
+            "cleric": 7
+        },
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "hypercognition",
         "name": "Hypercognition",
         "name_zh": "极化认知",
@@ -14590,6 +18931,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "hypnotism, greater",
+        "name": "Hypnotism, Greater",
+        "name_zh": "高等催眠术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 4,
+            "mesmerist": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-BotB"
     },
         {
         "key": "hypnotism",
@@ -14779,6 +19137,27 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "ignoble form",
+        "name": "Ignoble Form",
+        "name_zh": "低贱形态",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 2,
+            "antipaladin": 2,
+            "bard": 2,
+            "druid": 3,
+            "medium": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
+    },
+        {
         "key": "ill omen",
         "name": "Ill Omen",
         "name_zh": "凶兆",
@@ -14852,6 +19231,38 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
+        "key": "illusory crowd",
+        "name": "Illusory Crowd",
+        "name_zh": "虚假人群",
+        "school": "illusion",
+        "subSchool": ["figment"],
+        "levels":         {
+            "bard": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志，通过则不信 (如果与幻象互动)"
+    },
+        {
+        "key": "illusory hoard",
+        "name": "Illusory Hoard",
+        "name_zh": "虚假宝藏",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 4,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-DragH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（见下文）"
+    },
+        {
         "key": "illusory script",
         "name": "Illusory Script",
         "name_zh": "迷幻手稿",
@@ -14881,6 +19292,47 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
+    },
+        {
+        "key": "imbue army special ability",
+        "name": "Imbue Army Special Ability",
+        "name_zh": "赋军强能",
+        "school": "evocation",
+        "levels": {"cleric": 9},
+        "source": "PC-QC",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无或意志，通过则无效（无害）"
+    },
+        {
+        "key": "imbue hex",
+        "name": "Imbue Hex",
+        "name_zh": "授予巫术",
+        "school": "evocation",
+        "levels":         {
+            "shaman": 5,
+            "witch": 5
+        },
+        "source": "PC-ACO",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "imbue with addiction",
+        "name": "Imbue With Addiction",
+        "name_zh": "瘾入骨髓",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "mesmerist": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-MM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "imbue with aura",
@@ -14926,6 +19378,38 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "impede speech",
+        "name": "Impede Speech",
+        "name_zh": "妨碍言谈",
+        "school": "necromancy",
+        "levels":         {
+            "bard": 2,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-SDPG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "impenetrable veil",
+        "name": "Impenetrable Veil",
+        "name_zh": "无解面纱",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 6,
+            "mesmerist": 6,
+            "psychic": 9,
+            "sorcerer/wizard": 9,
+            "spiritualist": 6,
+            "witch": 9
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "implant false reading",
         "name": "Implant False Reading",
         "name_zh": "虚妄植入术",
@@ -14940,6 +19424,26 @@ var spellsIndex = [
         "castingTime_zh": "1分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "implanted projection",
+        "name": "Implanted Projection",
+        "name_zh": "蜇伏投影",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "mesmerist": 3,
+            "psychic": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "implosion",
@@ -15014,6 +19518,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "反射, 通过则减半; 见后文"
+    },
+        {
+        "key": "incendiary runes",
+        "name": "Incendiary Runes",
+        "name_zh": "燃烧符文",
+        "school": "abjuration",
+        "descriptors": ["fire"],
+        "levels":         {
+            "occultist": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-BM",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "incorporeal chains",
@@ -15224,6 +19742,26 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "inner focus",
+        "name": "Inner Focus",
+        "name_zh": "内在法器",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "adept": 2,
+            "antipaladin": 1,
+            "cleric": 2,
+            "druid": 2,
+            "inquisitor": 2,
+            "paladin": 1,
+            "ranger": 1
+        },
+        "source": "PC-PotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（无害）"
+    },
+        {
         "key": "innocence",
         "name": "Innocence",
         "name_zh": "无罪术",
@@ -15231,6 +19769,24 @@ var spellsIndex = [
         "levels": {"bard": 1},
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "innocuous shape",
+        "name": "Innocuous Shape",
+        "name_zh": "人畜无害",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 4,
+            "psychic": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "insanity",
@@ -15267,6 +19823,28 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "insect scouts",
+        "name": "Insect Scouts",
+        "name_zh": "昆虫侦察者",
+        "school": "divination",
+        "levels":         {
+            "antipaladin": 4,
+            "bard": 4,
+            "druid": 2,
+            "inquisitor": 3,
+            "psychic": 4,
+            "ranger": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 3,
+            "summoner": 3,
+            "witch": 3
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "insect spies, greater",
         "name": "Insect Spies, Greater",
         "name_zh": "高等昆虫探子",
@@ -15297,6 +19875,26 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "inspiring recovery",
+        "name": "Inspiring Recovery",
+        "name_zh": "鼓舞复苏",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "cleric/oracle": 6,
+            "hunter": 4,
+            "inquisitor": 6,
+            "paladin": 4,
+            "ranger": 4,
+            "warpriest": 6
+        },
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则减半 (无害)"
+    },
+        {
         "key": "instant armor",
         "name": "Instant Armor",
         "name_zh": "临时盔甲",
@@ -15310,6 +19908,28 @@ var spellsIndex = [
         },
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "instant clot",
+        "name": "Instant Clot",
+        "name_zh": "速凝术",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 1,
+            "druid": 1,
+            "inquisitor": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-BotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无（无害）"
     },
         {
         "key": "instant enemy",
@@ -15365,6 +19985,24 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "instant restoration",
+        "name": "Instant Restoration",
+        "name_zh": "速效治癒",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "shaman": 4,
+            "summoner": 4,
+            "witch": 4
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "instant summons, greater",
         "name": "Instant Summons, Greater",
         "name_zh": "高等即刻召唤",
@@ -15394,6 +20032,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "instant weapon",
+        "name": "Instant Weapon",
+        "name_zh": "瞬造武器",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["force"],
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "cleric": 2,
+            "inquisitor": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "instigate psychic duel",
@@ -15454,6 +20110,34 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 6},
         "source": "OA"
+    },
+        {
+        "key": "intensify psyche",
+        "name": "Intensify Psyche",
+        "name_zh": "强化精神",
+        "school": "enchantment",
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "arcanist": 2,
+            "bard": 1,
+            "cleric/oracle": 2,
+            "medium": 2,
+            "mesmerist": 1,
+            "psychic": 2,
+            "skald": 1,
+            "sorcerer/wizard": 2,
+            "spiritualist": 2,
+            "warpriest": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "interplanetary teleport",
@@ -15568,6 +20252,32 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "invigorating poison",
+        "name": "Invigorating Poison",
+        "name_zh": "鼓舞毒药",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 2,
+            "cleric": 2,
+            "druid": 2,
+            "shaman": 2
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
+    },
+        {
+        "key": "invigorating repose",
+        "name": "Invigorating Repose",
+        "name_zh": "活力安息",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels": {"cleric/oracle": 5},
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "invisibility alarm",
@@ -15716,6 +20426,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "iron spine",
+        "name": "Iron Spine",
+        "name_zh": "钢脊",
+        "school": "transmutation",
+        "levels":         {
+            "arcanist": 3,
+            "cleric/oracle": 4,
+            "magus": 3,
+            "sorcerer/wizard": 3,
+            "warpriest": 4,
+            "witch": 3
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "iron stake",
         "name": "Iron Stake",
         "name_zh": "铁桩术",
@@ -15783,6 +20511,29 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "irregular size",
+        "name": "Irregular Size",
+        "name_zh": "不正体型",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 3,
+            "bloodrager": 4,
+            "cleric": 3,
+            "medium": 2,
+            "mesmerist": 3,
+            "occultist": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 4,
+            "witch": 3
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
         "key": "irresistible dance",
         "name": "Irresistible Dance",
         "name_zh": "迷舞",
@@ -15819,6 +20570,66 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
+    },
+        {
+        "key": "itching curse",
+        "name": "Itching Curse",
+        "name_zh": "痕痒诅咒",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "druid": 1,
+            "inquisitor": 1,
+            "occultist": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "jatembe's ire",
+        "name": "Jatembe's Ire",
+        "name_zh": "贾特比之怒",
+        "school": "transmutation",
+        "descriptors": ["good"],
+        "levels":         {
+            "druid": 6,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "jealous rage",
+        "name": "Jealous Rage",
+        "name_zh": "忌妒狂怒",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "bloodrager": 2,
+            "mesmerist": 2,
+            "psychic": 3,
+            "shaman": 3,
+            "spiritualist": 2,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "jester's jaunt",
@@ -15926,6 +20737,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "jungle mind",
+        "name": "Jungle Mind",
+        "name_zh": "丛林之心",
+        "school": "divination",
+        "subSchool": ["scrying"],
+        "levels":         {
+            "druid": 5,
+            "oracle": 5,
+            "ranger": 4
+        },
+        "source": "PC-FP",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志，通过则无效 (见下)"
+    },
+        {
         "key": "jury-rig",
         "name": "Jury-Rig",
         "name_zh": "应急措施",
@@ -15941,6 +20768,28 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
+    },
+        {
+        "key": "kalistocrat's nightmare",
+        "name": "Kalistocrat's nightmare",
+        "name_zh": "卡利斯拉德的梦魇",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "alchemist": 2,
+            "bard": 2,
+            "cleric": 3,
+            "inquisitor": 2,
+            "investigator": 2,
+            "magus": 2,
+            "occultist": 2,
+            "sorcerer/wizard": 3,
+            "witch": 2
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "karmic blessing",
@@ -15984,6 +20833,23 @@ var spellsIndex = [
             "ranger": 1
         },
         "source": "APG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "keep watch",
+        "name": "Keep Watch",
+        "name_zh": "守夜术",
+        "school": "enchantment",
+        "levels":         {
+            "inquisitor": 1,
+            "magus": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-KotIS",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -16060,6 +20926,29 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "knell of the depths",
+        "name": "Knell of the Depths",
+        "name_zh": "深渊丧钟",
+        "school": "conjuration",
+        "descriptors":         [
+            "curse",
+            "water"
+        ],
+        "levels":         {
+            "druid": 3,
+            "magus": 2,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BotC",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "knight's calling",
@@ -16145,6 +21034,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "kreighton's perusal",
+        "name": "Kreighton's Perusal",
+        "name_zh": "奎通精读术",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-PSP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（无害，物体）",
+        "savingThrow_zh": "意志，通过则无效（无害，物体）"
+    },
+        {
         "key": "languid bomb admixture",
         "name": "Languid Bomb Admixture",
         "name_zh": "呆滞炸弹添加剂",
@@ -16191,6 +21096,47 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效（见后文）"
     },
         {
+        "key": "last azlanti's defending sword, mass",
+        "name": "Last Azlanti's Defending Sword, Mass",
+        "name_zh": "群体奥罗登的捍卫之剑",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels": {"sorcerer/wizard": 9},
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "last azlanti's defending sword",
+        "name": "Last Azlanti's Defending Sword",
+        "name_zh": "奥罗登的捍卫之剑",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "magus": 6,
+            "occultist": 6,
+            "psychic": 7,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "lay of the land",
+        "name": "Lay of the Land",
+        "name_zh": "遍览大地",
+        "school": "divination",
+        "levels":         {
+            "cleric": 2,
+            "bard": 2,
+            "druid": 2,
+            "ranger": 2,
+            "witch": 2
+        },
+        "source": "PC-FP",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "lead blades",
         "name": "Lead Blades",
         "name_zh": "重压之刃",
@@ -16198,6 +21144,25 @@ var spellsIndex = [
         "levels": {"ranger": 1},
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "lead plating",
+        "name": "Lead Plating",
+        "name_zh": "镀铅",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "alchemist": 3,
+            "cleric": 2,
+            "druid": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (无害，物体)",
+        "savingThrow_zh": "意志，通过则无效 (无害，物体)"
     },
         {
         "key": "leashed shackles",
@@ -16227,6 +21192,23 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "见后文"
+    },
+        {
+        "key": "legendary proportions",
+        "name": "Legendary Proportions",
+        "name_zh": "力拔山兮",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 6,
+            "druid": 7,
+            "shaman": 7,
+            "sorcerer/wizard": 7,
+            "witch": 7
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
     },
         {
         "key": "lend judgement, greater",
@@ -16285,6 +21267,24 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "lesser nondetection",
+        "name": "Lesser Nondetection",
+        "name_zh": "次等回避侦测",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 2,
+            "antipaladin": 2,
+            "inquisitor": 2,
+            "ranger": 3,
+            "sorcerer/wizard": 2,
+            "summoner": 2
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "levitate",
@@ -16432,6 +21432,20 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "life shield",
+        "name": "Life Shield",
+        "name_zh": "生命护盾",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "cleric": 3,
+            "druid": 3,
+            "paladin": 2
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "light lance",
         "name": "Light Lance",
         "name_zh": "光之枪",
@@ -16469,6 +21483,38 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "lighten object",
+        "name": "Lighten Object",
+        "name_zh": "轻量化",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（物体）",
+        "savingThrow_zh": "意志，通过则无效（物体）"
+    },
+        {
+        "key": "lightfingers",
+        "name": "Lightfingers",
+        "name_zh": "光速手指",
+        "school": "transmutation",
+        "levels":         {
+            "psychic": 1,
+            "spiritualist": 1,
+            "witch": 1
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "lightning arc",
         "name": "Lightning Arc",
         "name_zh": "闪电弧",
@@ -16496,6 +21542,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "lightning conductor",
+        "name": "Lightning Conductor",
+        "name_zh": "避雷针",
+        "school": "transmutation",
+        "descriptors": ["air"],
+        "levels":         {
+            "bloodrager": 2,
+            "druid": 3,
+            "magus": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "lightning lash bomb admixture",
@@ -16532,6 +21593,20 @@ var spellsIndex = [
         "savingThrow_zh": "无, 见后文"
     },
         {
+        "key": "limp lash",
+        "name": "Limp Lash",
+        "name_zh": "束缚鞭笞",
+        "school": "necromancy",
+        "levels":         {
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-GoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "line in the sand",
         "name": "Line In The Sand",
         "name_zh": "警戒线",
@@ -16561,6 +21636,42 @@ var spellsIndex = [
         },
         "source": "ARG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "linked legacy",
+        "name": "Linked Legacy",
+        "name_zh": "链接学识",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "medium": 1,
+            "mesmerist": 1,
+            "occultist": 1,
+            "psychic": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "liquefy",
+        "name": "Liquefy",
+        "name_zh": "液化术",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 3,
+            "bard": 3,
+            "druid": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（物品）"
     },
         {
         "key": "litany of defense",
@@ -16910,6 +22021,23 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "locksight",
+        "name": "Locksight",
+        "name_zh": "鑑锁视线",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "antipaladin": 1,
+            "bard": 1,
+            "inquisitor": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "long arm",
         "name": "Long Arm",
         "name_zh": "长臂咒",
@@ -16966,6 +22094,46 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "lose the trail",
+        "name": "Lose the Trail",
+        "name_zh": "淼无踪迹",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "antipaladin": 2,
+            "ranger": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "lost legacy",
+        "name": "Lost Legacy",
+        "name_zh": "失落馈赠",
+        "school": "enchantment",
+        "descriptors":         [
+            "curse",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 6,
+            "cleric": 7,
+            "inquisitor": 6,
+            "occultist": 6,
+            "psychic": 7,
+            "sorcerer/wizard": 7,
+            "witch": 6
+        },
+        "descriptorOperator": "and",
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "lullaby",
@@ -17095,6 +22263,22 @@ var spellsIndex = [
             "summoner/unchained summoner": 0
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "mage's crawl space",
+        "name": "Mage's Crawl Space",
+        "name_zh": "法师的徐行空间",
+        "school": "transmutation",
+        "levels":         {
+            "arcanist": 2,
+            "bard": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-HotD",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -17498,6 +22682,24 @@ var spellsIndex = [
         "source": "UW"
     },
         {
+        "key": "magnetic field",
+        "name": "Magnetic Field",
+        "name_zh": "磁力场域",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 6,
+            "cleric": 7,
+            "magus": 6,
+            "sorcerer/wizard": 7,
+            "summoner": 6,
+            "witch": 7
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "反射，通过则无效 (物体；见下)"
+    },
+        {
         "key": "magnifying chime",
         "name": "Magnifying Chime",
         "name_zh": "渐强钟鸣",
@@ -17664,6 +22866,25 @@ var spellsIndex = [
         "savingThrow_zh": "无 和 意志，通过则无效（见后文）"
     },
         {
+        "key": "mantle of doubt",
+        "name": "Mantle of Doubt",
+        "name_zh": "疑虑斗篷",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "mesmerist": 6,
+            "psychic": 8
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "marching chant",
         "name": "Marching Chant",
         "name_zh": "行军号子",
@@ -17806,6 +23027,48 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "mask from divination",
+        "name": "Mask From Divination",
+        "name_zh": "遮蔽预言",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 5,
+            "bloodrager": 4,
+            "magus": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（无害，物品）",
+        "savingThrow_zh": "意志，通过则无效（无害，物品）"
+    },
+        {
+        "key": "masochistic shadow",
+        "name": "Masochistic Shadow",
+        "name_zh": "受虐之影",
+        "school": "necromancy",
+        "descriptors":         [
+            "evil",
+            "shadow"
+        ],
+        "levels":         {
+            "antipaladin": 4,
+            "bloodrager": 4,
+            "magus": 4,
+            "occultist": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效，随后反射，通过则部分生效；见描述"
+    },
+        {
         "key": "massacre",
         "name": "Massacre",
         "name_zh": "大屠杀",
@@ -17822,6 +23085,41 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "master's escape",
+        "name": "Master's Escape",
+        "name_zh": "主宰脱逃",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 3,
+            "witch": 4
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "master's mutation",
+        "name": "Master's Mutation",
+        "name_zh": "主宰异变",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "druid": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 5,
+            "witch": 5
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "masterwork transformation",
@@ -17894,6 +23192,18 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "medusa's bane",
+        "name": "Medusa's Bane",
+        "name_zh": "蛇发女妖之灾",
+        "school": "abjuration",
+        "levels":         {
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "meld into stone",
@@ -18052,6 +23362,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "metabolic molting",
+        "name": "Metabolic Molting",
+        "name_zh": "蜕皮代谢",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 6,
+            "druid": 6,
+            "shaman": 6,
+            "witch": 6
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "meteor swarm",
         "name": "Meteor Swarm",
         "name_zh": "流星爆",
@@ -18129,6 +23455,18 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "mighty strength",
+        "name": "Mighty Strength",
+        "name_zh": "强壮之力",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 4,
+            "paladin": 4
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "mind blank",
         "name": "Mind Blank",
         "name_zh": "心灵屏障",
@@ -18158,6 +23496,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "mind over matter",
+        "name": "Mind Over Matter",
+        "name_zh": "精神胜于物质",
+        "school": "necromancy",
+        "levels":         {
+            "mesmerist": 2,
+            "psychic": 2,
+            "spiritualist": 2
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "mind probe",
@@ -18324,6 +23677,30 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "意志，通过则无效（见后文）"
+    },
+        {
+        "key": "mindshock",
+        "name": "Mindshock",
+        "name_zh": "心灵震荡",
+        "school": "divination",
+        "descriptors":         [
+            "mind-affecting",
+            "pain"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "bloodrager": 2,
+            "inquisitor": 2,
+            "medium": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "spiritualist": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "mindwipe",
@@ -18553,6 +23930,33 @@ var spellsIndex = [
         "savingThrow_zh": "可（物体）【原文如此，大概是复制粘贴错了】"
     },
         {
+        "key": "mischievous shadow",
+        "name": "Mischievous Shadow",
+        "name_zh": "顽劣鬼影",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 4,
+            "magus": 4,
+            "medium": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "spiritualist": 4,
+            "summoner": 4,
+            "witch": 4
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "misdirection",
         "name": "Misdirection",
         "name_zh": "误导术",
@@ -18704,6 +24108,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "monstrous extremities",
+        "name": "Monstrous Extremities",
+        "name_zh": "肢体畸变",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "bloodrager": 3,
+            "cleric": 3,
+            "sorcerer/wizard": 3,
+            "witch": 4
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "monstrous physique i",
         "name": "Monstrous Physique I",
         "name_zh": "类人形态 I",
@@ -18779,6 +24200,78 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "morning sun",
+        "name": "Morning Sun",
+        "name_zh": "晨曦",
+        "school": "evocation",
+        "descriptors": ["light"],
+        "levels":         {
+            "cleric/oracle": 7,
+            "druid": 7,
+            "inquisitor": 6,
+            "shaman": 7
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效以及反射，通过则减半；见下"
+    },
+        {
+        "key": "mortal terror",
+        "name": "Mortal Terror",
+        "name_zh": "凡人怖惧",
+        "school": "enchantment",
+        "descriptors":         [
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "arcanist": 2,
+            "bard": 2,
+            "cleric/oracle": 2,
+            "inquisitor": 2,
+            "mesmerist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "skald": 2,
+            "sorcerer/wizard": 2,
+            "warpriest": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则部分生效（见下文）"
+    },
+        {
+        "key": "motes of dusk and dawn",
+        "name": "Motes of Dusk And Dawn",
+        "name_zh": "晨昏之尘",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "light"
+        ],
+        "levels":         {
+            "bard": 3,
+            "magus": 3,
+            "medium": 3,
+            "mesmerist": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "mount, communal",
@@ -18907,6 +24400,47 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "mydriatic spontaneity, mass",
+        "name": "Mydriatic Spontaneity, Mass",
+        "name_zh": "群体自发性散瞳",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "light"
+        ],
+        "levels":         {
+            "bard": 5,
+            "mesmerist": 5,
+            "psychic": 6,
+            "sorcerer/wizard": 7,
+            "witch": 7
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS"
+    },
+        {
+        "key": "mydriatic spontaneity",
+        "name": "Mydriatic Spontaneity",
+        "name_zh": "自发性散瞳",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "light"
+        ],
+        "levels":         {
+            "bard": 3,
+            "mesmerist": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "mythic severance",
         "name": "Mythic Severance",
         "name_zh": "隔绝神力",
@@ -18922,6 +24456,51 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "naga shape i",
+        "name": "Naga Shape I",
+        "name_zh": "娜迦形态 I",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 4,
+            "bloodrager": 4,
+            "magus": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "naga shape ii",
+        "name": "Naga Shape II",
+        "name_zh": "娜迦形态 II",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 5,
+            "bloodrager": 5,
+            "magus": 5,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "naga shape iii",
+        "name": "Naga Shape III",
+        "name_zh": "娜迦形态 III",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 6,
+            "bloodrager": 6,
+            "magus": 6,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "named bullet",
@@ -18996,6 +24575,32 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "nature's ravages, greater",
+        "name": "Nature's Ravages, Greater",
+        "name_zh": "高等自然蹂躏",
+        "school": "necromancy",
+        "levels":         {
+            "cleric": 8,
+            "witch": 7
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "10分钟/目标的生命骰"
+    },
+        {
+        "key": "nature's ravages",
+        "name": "Nature's Ravages",
+        "name_zh": "自然蹂躏",
+        "school": "necromancy",
+        "levels":         {
+            "cleric": 4,
+            "witch": 3
+        },
+        "source": "PC-DungH",
+        "castingTime_zh": "1分钟/目标的生命骰",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "nauseating dart",
         "name": "Nauseating Dart",
         "name_zh": "毒针吹刺",
@@ -19030,6 +24635,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无 和 强韧，通过则无效（见后文）"
+    },
+        {
+        "key": "necromantic burden",
+        "name": "Necromantic Burden",
+        "name_zh": "死灵负担",
+        "school": "necromancy",
+        "levels":         {
+            "cleric/oracle": 2,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "negate aroma",
@@ -19077,6 +24697,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "neutralize poison, greater",
+        "name": "Neutralize Poison, Greater",
+        "name_zh": "高等中和毒素",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "alchemist": 6,
+            "bard": 6,
+            "cleric": 6,
+            "druid": 5,
+            "inquisitor": 6,
+            "witch": 6
+        },
+        "source": "PC-DTT"
+    },
+        {
         "key": "neutralize poison",
         "name": "Neutralize Poison",
         "name_zh": "中和毒性",
@@ -19097,6 +24733,46 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+    },
+        {
+        "key": "night blindness",
+        "name": "Night Blindness",
+        "name_zh": "夜盲术",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "bloodrager": 1,
+            "cleric": 2,
+            "mesmerist": 1,
+            "psychic": 1,
+            "shaman": 2,
+            "sorcerer/wizard": 1,
+            "spiritualist": 2,
+            "witch": 1
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "night of blades",
+        "name": "Night of Blades",
+        "name_zh": "尖刀之夜",
+        "school": "evocation",
+        "levels":         {
+            "antipaladin": 4,
+            "inquisitor": 3,
+            "ranger": 4,
+            "sorcerer/wizard": 3,
+            "summoner": 3
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "night terrors",
@@ -19221,6 +24897,35 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+    },
+        {
+        "key": "oasis",
+        "name": "Oasis",
+        "name_zh": "绿洲涌泉",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 6,
+            "druid": 5,
+            "sorcerer/wizard": 6
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "30分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "oath of justice",
+        "name": "Oath of Justice",
+        "name_zh": "正义誓言",
+        "school": "necromancy",
+        "levels":         {
+            "cleric/oracle": 3,
+            "paladin": 2
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "oath of peace",
@@ -19503,6 +25208,17 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
+        "key": "open arms",
+        "name": "Open Arms",
+        "name_zh": "热烈欢迎",
+        "school": "transmutation",
+        "levels": {"sorcerer/wizard": 5},
+        "source": "PC-AAnth",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "open book",
         "name": "Open Book",
         "name_zh": "私密全无",
@@ -19613,6 +25329,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
+    },
+        {
+        "key": "out of sight",
+        "name": "Out of Sight",
+        "name_zh": "视线之外",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "medium": 3,
+            "mesmerist": 3,
+            "psychic": 4
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "outbreak",
@@ -19772,6 +25504,22 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "page-bound epiphany",
+        "name": "Page-Bound Epiphany",
+        "name_zh": "无字天书",
+        "school": "divination",
+        "levels":         {
+            "bard": 2,
+            "cleric": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-PSP",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "pain strike, mass",
         "name": "Pain Strike, Mass",
         "name_zh": "群体痛苦打击",
@@ -19819,6 +25567,22 @@ var spellsIndex = [
         "castingTime_zh": "直觉动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
+    },
+        {
+        "key": "pale flame",
+        "name": "Pale Flame",
+        "name_zh": "暗淡之焰",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "druid": 2,
+            "hunter": 2,
+            "shaman": 2
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "paragon surge",
@@ -19902,6 +25666,23 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "particulate form",
+        "name": "Particulate Form",
+        "name_zh": "粒子形态",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 7,
+            "occultist": 5,
+            "psychic": 7,
+            "sorcerer/wizard": 7,
+            "witch": 7
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（无害）"
+    },
+        {
         "key": "pass without trace",
         "name": "Pass without Trace",
         "name_zh": "行踪无迹",
@@ -19915,6 +25696,41 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "passing fancy, mass",
+        "name": "Passing Fancy, Mass",
+        "name_zh": "群体心血来潮",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 4,
+            "mesmerist": 4,
+            "psychic": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-SH"
+    },
+        {
+        "key": "passing fancy",
+        "name": "Passing Fancy",
+        "name_zh": "心血来潮",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 2,
+            "mesmerist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "passwall",
@@ -19970,6 +25786,35 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
+        "key": "pattern recognition",
+        "name": "Pattern Recognition",
+        "name_zh": "模式识别",
+        "school": "transmutation",
+        "levels": {"sorcerer/wizard": 1},
+        "source": "PC-SDPG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "peace bond",
+        "name": "Peace Bond",
+        "name_zh": "和平联系",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "druid": 1,
+            "inquisitor": 1,
+            "paladin": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "peacebond, greater",
         "name": "Peacebond, Greater",
         "name_zh": "高等和平条令",
@@ -20003,6 +25848,41 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则无效 (物体)"
     },
         {
+        "key": "peacemaker's parley",
+        "name": "Peacemaker's Parley",
+        "name_zh": "和平谈判",
+        "school": "enchantment",
+        "subSchool": ["charm"],
+        "descriptors":         [
+            "language-dependent",
+            "mind- affecting"
+        ],
+        "levels": {"cleric/oracle": 2},
+        "descriptorOperator": "and",
+        "source": "PC-DoG",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "peerless integrity",
+        "name": "Peerless Integrity",
+        "name_zh": "诚信无双",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "mesmerist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无",
+        "savingThrow_zh": "无；或意志，通过则无效；见下"
+    },
+        {
         "key": "pellet blast",
         "name": "Pellet Blast",
         "name_zh": "散弹爆发",
@@ -20021,6 +25901,40 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "penumbral disguise",
+        "name": "Penumbral Disguise",
+        "name_zh": "半影伪装",
+        "school": "conjuration",
+        "descriptors": ["shadow"],
+        "levels":         {
+            "alchemist": 3,
+            "bard": 3,
+            "inquisitor": 3,
+            "mesmerist": 3,
+            "occultist": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "perceive betrayal",
+        "name": "Perceive Betrayal",
+        "name_zh": "谋逆探知",
+        "school": "divination",
+        "levels":         {
+            "cleric": 6,
+            "inquisitor": 4,
+            "sorcerer/wizard": 7,
+            "witch": 6
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "1分钟"
+    },
+        {
         "key": "perceive cues",
         "name": "Perceive Cues",
         "name_zh": "察觉细节",
@@ -20036,6 +25950,24 @@ var spellsIndex = [
         },
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "perfect placement",
+        "name": "Perfect Placement",
+        "name_zh": "完美部署",
+        "school": "divination",
+        "levels":         {
+            "bard": 2,
+            "bloodrager": 2,
+            "magus": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "permanency",
@@ -20128,6 +26060,29 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "pesh vigor",
+        "name": "Pesh Vigor",
+        "name_zh": "仙人掌粹的活力",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 1,
+            "antipaladin": 1,
+            "bloodrager": 1,
+            "cleric": 1,
+            "druid": 1,
+            "magus": 1,
+            "medium": 1,
+            "psychic": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "pessimism",
@@ -20237,6 +26192,27 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则不信；然后 强韧，通过则部分生效 (见下)"
     },
         {
+        "key": "phantasmal reminder",
+        "name": "Phantasmal Reminder",
+        "name_zh": "魅影重温",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "antipaladin": 3,
+            "bard": 4,
+            "mesmerist": 3,
+            "psychic": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则不相信，之后强韧通过部分生效；见下文"
+    },
+        {
         "key": "phantasmal revenge",
         "name": "Phantasmal Revenge",
         "name_zh": "复仇鬼影",
@@ -20315,6 +26291,32 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "phantom hunt",
+        "name": "Phantom Hunt",
+        "name_zh": "幽影狩猎",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 4,
+            "ranger": 4
+        },
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "phantom limb",
+        "name": "Phantom Limb",
+        "name_zh": "幻肢",
+        "school": "necromancy",
+        "levels":         {
+            "psychic": 6,
+            "spiritualist": 5
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "phantom steed",
         "name": "Phantom Steed",
         "name_zh": "魅影驹",
@@ -20364,6 +26366,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "phasic challenge",
+        "name": "Phasic Challenge",
+        "name_zh": "相位挑战",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 8,
+            "psychic": 8,
+            "shaman": 8,
+            "sorcerer/wizard": 8,
+            "spiritualist": 6,
+            "witch": 7
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（见下文）"
     },
         {
         "key": "phobia",
@@ -20422,6 +26442,25 @@ var spellsIndex = [
         },
         "source": "ACG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "pierce facade",
+        "name": "Pierce Facade",
+        "name_zh": "戳破假象",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "psychic": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "piercing shriek",
@@ -20635,6 +26674,42 @@ var spellsIndex = [
         "source": "CRB"
     },
         {
+        "key": "planar inquiry",
+        "name": "Planar Inquiry",
+        "name_zh": "异界咨询",
+        "school": "conjuration",
+        "subSchool": ["calling"],
+        "levels":         {
+            "cleric": 3,
+            "druid": 3,
+            "inquisitor": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3,
+            "witch": 3
+        },
+        "source": "PC-AAnth"
+    },
+        {
+        "key": "planar refuge",
+        "name": "Planar Refuge",
+        "name_zh": "位面庇护所",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "cleric": 7,
+            "druid": 7,
+            "sorcerer/wizard": 7,
+            "shaman": 7,
+            "summoner": 6,
+            "witch": 7
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "1小时",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "plane shift",
         "name": "Plane Shift",
         "name_zh": "异界传送",
@@ -20672,6 +26747,69 @@ var spellsIndex = [
         "source": "ACG",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "planetarium",
+        "name": "Planetarium",
+        "name_zh": "行星仪",
+        "school": "illusion",
+        "subSchool": ["figment"],
+        "levels":         {
+            "bard": 2,
+            "cleric": 2,
+            "druid": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2,
+            "witch": 2
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "意志，通过则不信 (无害)",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "planetary adaptation, mass",
+        "name": "Planetary Adaptation, Mass",
+        "name_zh": "群体行星适应",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 6,
+            "sorcerer/wizard": 7,
+            "summoner": 6
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "planetary adaptation",
+        "name": "Planetary Adaptation",
+        "name_zh": "行星适应",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 5,
+            "cleric/oracle": 4,
+            "sorcerer/wizard": 5,
+            "summoner": 5
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "planned assault",
+        "name": "Planned Assault",
+        "name_zh": "预谋突袭",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 3,
+            "paladin": 3,
+            "ranger": 4
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -20723,6 +26861,22 @@ var spellsIndex = [
         "source": "CRB"
     },
         {
+        "key": "plant voice",
+        "name": "Plant Voice",
+        "name_zh": "植物之音",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 3,
+            "druid": 2,
+            "shaman": 2,
+            "witch": 3
+        },
+        "source": "PC-CaC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "play instrument",
         "name": "Play Instrument",
         "name_zh": "即兴演奏",
@@ -20768,6 +26922,22 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "强韧，通过则无效（物体）"
+    },
+        {
+        "key": "poison breath",
+        "name": "Poison Breath",
+        "name_zh": "剧毒吐息",
+        "school": "evocation",
+        "descriptors": ["poison"],
+        "levels":         {
+            "cleric": 7,
+            "druid": 6,
+            "witch": 7
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "poison",
@@ -20955,6 +27125,18 @@ var spellsIndex = [
             "witch": 5
         },
         "source": "UM",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "possession trap",
+        "name": "Possession Trap",
+        "name_zh": "附身陷阱",
+        "school": "necromancy",
+        "levels":         {
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-USH",
         "castingTime_zh": "标准动作"
     },
         {
@@ -21326,6 +27508,39 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不信 (如果有互动)"
     },
         {
+        "key": "project weakness",
+        "name": "Project Weakness",
+        "name_zh": "弱点投射",
+        "school": "necromancy",
+        "descriptors":         [
+            "curse",
+            "evil"
+        ],
+        "levels":         {
+            "cleric/oracle": 3,
+            "sorcerer/wizard": 4,
+            "witch": 3
+        },
+        "source": "PC-BotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有",
+        "savingThrow_zh": "意志，通过则无效"
+    },
+        {
+        "key": "prosperous room",
+        "name": "Prosperous Room",
+        "name_zh": "繁荣房间",
+        "school": "enchantment",
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-QC",
+        "castingTime_zh": "1天",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "protection from arrows",
         "name": "Protection from Arrows",
         "name_zh": "防护箭矢",
@@ -21440,6 +27655,43 @@ var spellsIndex = [
             "summoner/unchained summoner": 1
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "protection from natural attacks",
+        "name": "Protection from Natural Attacks",
+        "name_zh": "防护天生武器",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 3,
+            "druid": 4,
+            "hunter": 2,
+            "investigator": 3,
+            "psychic": 4,
+            "ranger": 2,
+            "shaman": 4,
+            "spiritualist": 3,
+            "summoner": 3
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
+        "key": "protection from outsiders",
+        "name": "Protection from Outsiders",
+        "name_zh": "﹝见正文﹞防护异界生物",
+        "school": "abjuration",
+        "descriptors": ["see text"],
+        "levels":         {
+            "cleric": 2,
+            "inquisitor": 2,
+            "paladin": 2
+        },
+        "source": "PC-DHH",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -21590,6 +27842,32 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则不相信（若有互动）"
     },
         {
+        "key": "psychic leech",
+        "name": "Psychic Leech",
+        "name_zh": "异能寄生",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bloodrager": 3,
+            "magus": 3,
+            "medium": 3,
+            "mesmerist": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 3,
+            "spiritualist": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则部分生效"
+    },
+        {
         "key": "psychic reading",
         "name": "Psychic Reading",
         "name_zh": "读心阅人",
@@ -21623,6 +27901,41 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "psychonaut manifestation",
+        "name": "Psychonaut Manifestation",
+        "name_zh": "太虚内视",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels": {"psychic": 2},
+        "descriptorOperator": "and",
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "savingThrow_zh": "见下"
+    },
+        {
+        "key": "punishing armor",
+        "name": "Punishing Armor",
+        "name_zh": "惩戒装甲",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 1,
+            "bloodrager": 1,
+            "magus": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "spiritualist": 1,
+            "summoner": 1
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效；见下"
     },
         {
         "key": "pup shape",
@@ -21679,6 +27992,25 @@ var spellsIndex = [
         "levels": {"summoner/unchained summoner": 4},
         "source": "APG",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "purify body",
+        "name": "Purify Body",
+        "name_zh": "净化躯体",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "alchemist": 4,
+            "cleric/oracle": 4,
+            "medium": 4,
+            "paladin": 4,
+            "psychic": 5,
+            "warpriest": 4
+        },
+        "source": "PC-HH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "purify food and drink",
@@ -21762,6 +28094,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "quell energy",
+        "name": "Quell Energy",
+        "name_zh": "镇压能量",
+        "school": "abjuration",
+        "levels":         {
+            "druid": 3,
+            "inquisitor": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
         "key": "quench",
@@ -21855,6 +28206,27 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则无效（无害）和意志，通过则不相信；见后文"
     },
         {
+        "key": "radiation ward",
+        "name": "Radiation Ward",
+        "name_zh": "防卫辐射",
+        "school": "abjuration",
+        "levels":         {
+            "alchemist": 2,
+            "arcanist": 2,
+            "cleric/oracle": 2,
+            "druid": 2,
+            "hunter": 1,
+            "ranger": 1,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "warpriest": 2
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
         "key": "rage",
         "name": "Rage",
         "name_zh": "狂暴术",
@@ -21898,6 +28270,37 @@ var spellsIndex = [
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "rags to riches",
+        "name": "Rags to Riches",
+        "name_zh": "白手起家",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 3,
+            "bard": 3,
+            "cleric": 4,
+            "medium": 3,
+            "occultist": 3,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，过则无效（物品）"
+    },
+        {
+        "key": "rain of arrows",
+        "name": "Rain of Arrows",
+        "name_zh": "箭雨术",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels": {"sorcerer/wizard": 8},
+        "source": "PC-RTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射，通过则减半"
     },
         {
         "key": "rain of frogs",
@@ -22016,6 +28419,24 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "raven's flight",
+        "name": "Raven's Flight",
+        "name_zh": "鹎鶋翱翔",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 3,
+            "druid": 3,
+            "inquisitor": 3,
+            "magus": 2,
+            "ranger": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "迅捷动作"
+    },
+        {
         "key": "ray of enfeeblement",
         "name": "Ray of Enfeeblement",
         "name_zh": "衰弱射线",
@@ -22101,6 +28522,56 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "read weather",
+        "name": "Read Weather",
+        "name_zh": "判读天气",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "druid": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "1分钟"
+    },
+        {
+        "key": "reaper's coterie",
+        "name": "Reaper's Coterie",
+        "name_zh": "收割者之喜",
+        "school": "necromancy",
+        "descriptors": ["evil"],
+        "levels":         {
+            "antipaladin": 2,
+            "bloodrager": 2,
+            "cleric": 3,
+            "inquisitor": 3,
+            "witch": 3
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "reboot",
+        "name": "Reboot",
+        "name_zh": "重启",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 4,
+            "witch": 5
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "rebuke",
         "name": "Rebuke",
         "name_zh": "叱责",
@@ -22111,6 +28582,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "recentering drone",
+        "name": "Recentering Drone",
+        "name_zh": "重定嗡鸣",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 2,
+            "druid": 2
+        },
+        "source": "PC-CoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "recharge innate magic",
@@ -22255,6 +28740,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志，通过则无效（无害，物体）"
     },
         {
+        "key": "reflexive barrier",
+        "name": "Reflexive Barrier",
+        "name_zh": "直觉屏障",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "magus": 3,
+            "psychic": 3
+        },
+        "source": "PC-PA",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "无（无害）",
+        "savingThrow_zh": "无（无害）"
+    },
+        {
         "key": "refuge",
         "name": "Refuge",
         "name_zh": "脱身术",
@@ -22389,6 +28889,25 @@ var spellsIndex = [
         "source": "APG"
     },
         {
+        "key": "release the hounds",
+        "name": "Release The Hounds",
+        "name_zh": "关门放狗",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "bard": 5,
+            "druid": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 5,
+            "witch": 5
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "reloading hands",
         "name": "Reloading Hands",
         "name_zh": "自动装填",
@@ -22403,6 +28922,18 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
+    },
+        {
+        "key": "remarkable legerdemain",
+        "name": "Remarkable Legerdemain",
+        "name_zh": "经典骗术",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "remote viewing",
@@ -22527,6 +29058,55 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
+        "key": "rend body i",
+        "name": "Rend Body I",
+        "name_zh": "撕扯肢体 I",
+        "school": "evocation",
+        "levels": {"psychic": 5},
+        "source": "PC-PA",
+        "castingTime_zh": "整轮动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则部分生效（见描述）"
+    },
+        {
+        "key": "rend body ii",
+        "name": "Rend Body II",
+        "name_zh": "撕扯肢体 II",
+        "school": "evocation",
+        "levels": {"psychic": 6},
+        "source": "PC-PA"
+    },
+        {
+        "key": "rend body iii",
+        "name": "Rend Body III",
+        "name_zh": "撕扯肢体 III",
+        "school": "evocation",
+        "levels": {"psychic": 7},
+        "source": "PC-PA"
+    },
+        {
+        "key": "rend body iv",
+        "name": "Rend Body IV",
+        "name_zh": "撕扯肢体 IV",
+        "school": "evocation",
+        "levels": {"psychic": 8},
+        "source": "PC-PA"
+    },
+        {
+        "key": "renovation",
+        "name": "Renovation",
+        "name_zh": "装修术",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 5,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-QC",
+        "castingTime_zh": "8小时",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无（物品；见正文）"
+    },
+        {
         "key": "repair undead, mass",
         "name": "Repair Undead, Mass",
         "name_zh": "群体修复死灵",
@@ -22640,6 +29220,29 @@ var spellsIndex = [
         "castingTime_zh": "1分钟",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "repugnant taste",
+        "name": "Repugnant Taste",
+        "name_zh": "作恶体味",
+        "school": "transmutation",
+        "descriptors": ["poison"],
+        "levels":         {
+            "alchemist": 3,
+            "bard": 3,
+            "druid": 4,
+            "hunter": 3,
+            "investigator": 3,
+            "mesmerist": 3,
+            "ranger": 3,
+            "shaman": 4,
+            "skald": 3,
+            "witch": 4
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
     },
         {
         "key": "repulsion",
@@ -22826,6 +29429,17 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则部分生效"
     },
         {
+        "key": "resounding clang",
+        "name": "Resounding Clang",
+        "name_zh": "引导共鸣",
+        "school": "transmutation",
+        "levels": {"bard": 2},
+        "source": "PC-PotRiver",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "反射, 通过则无效"
+    },
+        {
         "key": "resplendent mansion",
         "name": "Resplendent Mansion",
         "name_zh": "辉煌豪宅",
@@ -22854,6 +29468,25 @@ var spellsIndex = [
         },
         "source": "APG",
         "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "restful cloak",
+        "name": "Restful Cloak",
+        "name_zh": "安逸斗篷",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "occultist": 2,
+            "paladin": 2,
+            "ranger": 2,
+            "shaman": 2
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
@@ -23016,6 +29649,24 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则部分生效"
     },
         {
+        "key": "retributive reparations",
+        "name": "Retributive Reparations",
+        "name_zh": "报复性赔偿",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 3,
+            "inquisitor": 3,
+            "occultist": 3,
+            "spiritualist": 3,
+            "witch": 4
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效 (物体) 与 意志，通过则无效；见下"
+    },
+        {
         "key": "retrocognition",
         "name": "Retrocognition",
         "name_zh": "回溯过去",
@@ -23051,6 +29702,64 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
+    },
+        {
+        "key": "reveal emotions",
+        "name": "Reveal Emotions",
+        "name_zh": "揭露情绪",
+        "school": "divination",
+        "levels":         {
+            "medium": 3,
+            "mesmerist": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "spiritualist": 4
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "revealing light",
+        "name": "Revealing Light",
+        "name_zh": "揭露光华",
+        "school": "evocation",
+        "descriptors": ["light"],
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 2,
+            "inquisitor": 2,
+            "medium": 1,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "revenant armor",
+        "name": "Revenant Armor",
+        "name_zh": "亡魂盔甲",
+        "school": "transmutation",
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 4,
+            "magus": 4,
+            "medium": 4,
+            "occultist": 4,
+            "paladin": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 4,
+            "spiritualist": 3,
+            "witch": 3
+        },
+        "source": "PC-AMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "reverse gravity",
@@ -23163,6 +29872,21 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
+        "key": "righteous blood",
+        "name": "Righteous Blood",
+        "name_zh": "正义之血",
+        "school": "abjuration",
+        "descriptors": ["good"],
+        "levels":         {
+            "inquisitor": 2,
+            "paladin": 2
+        },
+        "source": "PC-DHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "righteous might",
         "name": "Righteous Might",
         "name_zh": "正气如虹",
@@ -23212,6 +29936,59 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则部分生效；见下"
     },
         {
+        "key": "rising water",
+        "name": "Rising Water",
+        "name_zh": "提升水位",
+        "school": "conjuration",
+        "descriptors": ["water"],
+        "levels":         {
+            "bloodrager": 3,
+            "druid": 4,
+            "magus": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "ranger": 3,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 4
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "rite of bodily purity",
+        "name": "Rite of Bodily Purity",
+        "name_zh": "净躯仪典",
+        "school": "abjuration",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 1,
+            "druid": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "shaman": 1
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
+    },
+        {
+        "key": "rite of centered mind",
+        "name": "Rite of Centered Mind",
+        "name_zh": "专注仪典",
+        "school": "abjuration",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 1,
+            "druid": 1,
+            "shaman": 1,
+            "wizard": 1
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
+    },
+        {
         "key": "river of wind",
         "name": "River of Wind",
         "name_zh": "风之河",
@@ -23241,6 +30018,65 @@ var spellsIndex = [
             "witch": 2
         },
         "source": "ACG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "riversight",
+        "name": "Riversight",
+        "name_zh": "河域视力",
+        "school": "divination",
+        "subSchool": ["scrying"],
+        "levels":         {
+            "cleric": 3,
+            "druid": 2,
+            "inquisitor": 3,
+            "ranger": 2,
+            "witch": 3
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "roaming pit",
+        "name": "Roaming Pit",
+        "name_zh": "追踪坑",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "cleric": 6,
+            "druid": 6,
+            "psychic": 6,
+            "sorcerer/wizard": 5,
+            "summoner": 5
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射, 通过则无效"
+    },
+        {
+        "key": "rock whip",
+        "name": "Rock Whip",
+        "name_zh": "岩之鞭",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "arcanist": 2,
+            "cleric/oracle": 2,
+            "druid": 2,
+            "hunter": 1,
+            "magus": 2,
+            "ranger": 1,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "warpriest": 2,
+            "witch": 2
+        },
+        "source": "PC-HotD",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -23295,6 +30131,20 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效 (物体)"
     },
         {
+        "key": "rubberskin",
+        "name": "Rubberskin",
+        "name_zh": "橡胶皮肤",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 4,
+            "magus": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "rumormonger",
         "name": "Rumormonger",
         "name_zh": "标记谣言",
@@ -23310,6 +30160,46 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志，通过则无效（见后文）"
+    },
+        {
+        "key": "rune of durability",
+        "name": "Rune of Durability",
+        "name_zh": "坚韧符文",
+        "school": "transmutation",
+        "levels": {"sorcerer/wizard": 3},
+        "source": "PC-DoG",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "rune of ruin",
+        "name": "Rune of Ruin",
+        "name_zh": "毁灭符文",
+        "school": "transmutation",
+        "descriptors": ["curse"],
+        "levels":         {
+            "alchemist": 4,
+            "bard": 4,
+            "inquisitor": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效（物品）"
+    },
+        {
+        "key": "rune of warding",
+        "name": "Rune of Warding",
+        "name_zh": "守卫符文",
+        "school": "abjuration",
+        "levels": {"sorcerer/wizard": 3},
+        "source": "PC-DoG",
+        "castingTime_zh": "1小时",
+        "spellResistance_zh": "不可（物品） 和 可（见下文）",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "rune trace",
@@ -23329,6 +30219,23 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "runic overload",
+        "name": "Runic Overload",
+        "name_zh": "符文超载",
+        "school": "evocation",
+        "descriptors": ["sonic"],
+        "levels":         {
+            "bloodrager": 3,
+            "magus": 4,
+            "sorcerer/wizard": 5,
+            "witch": 6
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "见下",
+        "savingThrow_zh": "见下"
+    },
+        {
         "key": "rusting grasp",
         "name": "Rusting Grasp",
         "name_zh": "锈蚀爪",
@@ -23338,6 +30245,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "sabotage construct",
+        "name": "Sabotage Construct",
+        "name_zh": "困惑构装体",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 5,
+            "inquisitor": 5,
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-PotRiver",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
         "key": "sacramental seal",
@@ -23432,6 +30355,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "salvage",
+        "name": "Salvage",
+        "name_zh": "废船打捞",
+        "school": "transmutation",
+        "levels":         {
+            "cleric": 9,
+            "sorcerer/wizard": 9
+        },
+        "source": "PC-PotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物品)",
+        "savingThrow_zh": "强韧，通过则无效 (物品)"
+    },
+        {
         "key": "sanctify armor",
         "name": "Sanctify Armor",
         "name_zh": "神圣护甲",
@@ -23495,6 +30432,27 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "sand whirlwind, greater",
+        "name": "Sand Whirlwind, Greater",
+        "name_zh": "高等沙涡流",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels": {"cleric/oracle": 5},
+        "source": "PC-TEoG"
+    },
+        {
+        "key": "sand whirlwind",
+        "name": "Sand Whirlwind",
+        "name_zh": "沙涡流",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels": {"cleric/oracle": 3},
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志，通过则无效 (仅目盲)"
     },
         {
         "key": "sands of time",
@@ -23597,6 +30555,25 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效（无害）"
+    },
+        {
+        "key": "scales of deflection",
+        "name": "Scales of Deflection",
+        "name_zh": "偏转之鳞",
+        "school": "abjuration",
+        "descriptors": ["draconic"],
+        "levels":         {
+            "bloodrager": 2,
+            "magus": 3,
+            "occultist": 3,
+            "paladin": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 3,
+            "spiritualist": 3,
+            "summoner": 3
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "scamper",
@@ -23760,6 +30737,22 @@ var spellsIndex = [
         "savingThrow_zh": "无 或 意志, 通过则不相信 (若有互动); 见后文"
     },
         {
+        "key": "scribe's binding",
+        "name": "Scribe's Binding",
+        "name_zh": "抄写员之缚",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "occultist": 6,
+            "sorcerer/wizard": 9,
+            "witch": 9
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通通过则无效"
+    },
+        {
         "key": "scripted hallucination",
         "name": "Scripted Hallucination",
         "name_zh": "演剧错觉",
@@ -23848,6 +30841,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
+    },
+        {
+        "key": "sculpted cape",
+        "name": "Sculpted Cape",
+        "name_zh": "塑形围巾",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "occultist": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "sea of dust",
@@ -23941,6 +30952,38 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "secluded grimoire",
+        "name": "Secluded Grimoire",
+        "name_zh": "隐匿魔法书",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "magus": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "second wind",
+        "name": "Second Wind",
+        "name_zh": "复苏之风",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["air"],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 3,
+            "inquisitor": 3,
+            "paladin": 3,
+            "ranger": 3
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "迅捷动作或者是直觉动作；见下文"
+    },
+        {
         "key": "secret chest",
         "name": "Secret Chest",
         "name_zh": "秘藏箱",
@@ -23956,6 +30999,18 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "secret coffer",
+        "name": "Secret Coffer",
+        "name_zh": "秘藏柜",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BM"
+    },
+        {
         "key": "secret page",
         "name": "Secret Page",
         "name_zh": "秘密文页",
@@ -23968,6 +31023,36 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "secret sign",
+        "name": "Secret Sign",
+        "name_zh": "秘密标记",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 1,
+            "inquisitor": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (无害，物体)",
+        "savingThrow_zh": "意志，通过则无效 (物体)"
+    },
+        {
+        "key": "secret vault",
+        "name": "Secret Vault",
+        "name_zh": "秘藏窖",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "sorcerer/wizard": 8,
+            "witch": 8
+        },
+        "source": "PC-BM"
     },
         {
         "key": "secure shelter",
@@ -23986,6 +31071,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "seducer's eyes",
+        "name": "Seducer's Eyes",
+        "name_zh": "诱惑者之眼",
+        "school": "enchantment",
+        "subSchool": ["charm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "see alignment",
         "name": "See Alignment",
         "name_zh": "检视阵营",
@@ -23998,6 +31098,21 @@ var spellsIndex = [
         },
         "source": "UC",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "see beyond",
+        "name": "See Beyond",
+        "name_zh": "超越之视",
+        "school": "divination",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 3,
+            "shaman": 3,
+            "witch": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
     },
         {
         "key": "see invisibility",
@@ -24019,6 +31134,20 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "see through stone",
+        "name": "See Through Stone",
+        "name_zh": "看穿岩石",
+        "school": "divination",
+        "levels":         {
+            "druid": 4,
+            "ranger": 3
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "seed spies",
@@ -24095,6 +31224,26 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "selective invisibility",
+        "name": "Selective Invisibility",
+        "name_zh": "选择性隐形术",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "alchemist": 3,
+            "antipaladin": 3,
+            "bard": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "sending",
         "name": "Sending",
         "name_zh": "短讯术",
@@ -24141,6 +31290,55 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "sense vitals",
+        "name": "Sense Vitals",
+        "name_zh": "感知器官",
+        "school": "divination",
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "ranger": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "sensory amplifier",
+        "name": "Sensory Amplifier",
+        "name_zh": "感官放大",
+        "school": "divination",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "druid": 4,
+            "medium": 2,
+            "mesmerist": 3,
+            "psychic": 3,
+            "witch": 3
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "sensory overload",
+        "name": "Sensory Overload",
+        "name_zh": "感官过载",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "psychic": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（见描述）"
     },
         {
         "key": "sentry skull",
@@ -24211,6 +31409,36 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "serren's armor lock",
+        "name": "Serren's Armor Lock",
+        "name_zh": "赛伦的盔甲枷锁",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 2,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
+        "key": "serren's swift girding",
+        "name": "Serren's Swift Girding",
+        "name_zh": "塞伦的迅捷复甲",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 1,
+            "paladin": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无"
     },
         {
         "key": "sessile spirit",
@@ -24350,6 +31578,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则不相信 (若有互动); 可变; 见后文"
     },
         {
+        "key": "shadow dragon aspect",
+        "name": "Shadow Dragon Aspect",
+        "name_zh": "阴影巨龙型态",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "descriptors": ["shadow"],
+        "levels":         {
+            "bard": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有，见下",
+        "savingThrow_zh": "意志，通过则不信 (如果有互动)，见下"
+    },
+        {
         "key": "shadow evocation, greater",
         "name": "Shadow Evocation, Greater",
         "name_zh": "高等幽影塑能术",
@@ -24437,6 +31681,64 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "shadow transmutation, greater",
+        "name": "Shadow Transmutation, Greater",
+        "name_zh": "高等阴影转变术",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "descriptors": ["shadow"],
+        "levels":         {
+            "shaman": 9,
+            "sorcerer/wizard": 9,
+            "witch": 9
+        },
+        "source": "PC-BoS"
+    },
+        {
+        "key": "shadow transmutation",
+        "name": "Shadow Transmutation",
+        "name_zh": "阴影转变术",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "descriptors": ["shadow"],
+        "levels":         {
+            "bard": 6,
+            "medium": 6,
+            "shaman": 6,
+            "sorcerer/wizard": 6,
+            "spiritualist": 6,
+            "summoner": 6,
+            "witch": 6
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则不相信（如果产生互动）；可变；见描述"
+    },
+        {
+        "key": "shadow trap",
+        "name": "Shadow Trap",
+        "name_zh": "阴影陷阱",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "bloodrager": 1,
+            "cleric": 1,
+            "mesmerist": 1,
+            "occultist": 1,
+            "psychic": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "shadow walk",
         "name": "Shadow Walk",
         "name_zh": "行影术",
@@ -24483,6 +31785,70 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "shadowfade",
+        "name": "Shadowfade",
+        "name_zh": "渐消阴影",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "levels":         {
+            "arcanist": 1,
+            "bard": 1,
+            "inquisitor": 1,
+            "mesmerist": 1,
+            "skald": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "shadowform",
+        "name": "Shadowform",
+        "name_zh": "暗影形态",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "descriptors": ["shadow"],
+        "levels":         {
+            "antipaladin": 4,
+            "bard": 4,
+            "mesmerist": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 4,
+            "spiritualist": 4,
+            "witch": 4
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（见下）"
+    },
+        {
+        "key": "shadowmind",
+        "name": "Shadowmind",
+        "name_zh": "阴影意志",
+        "school": "illusion",
+        "descriptors": ["phantasm)"],
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 3,
+            "druid": 3,
+            "inquisitor": 2,
+            "mesmerist": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 2
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "shadowy haven",
@@ -24656,6 +32022,73 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "share shape",
+        "name": "Share Shape",
+        "name_zh": "共享形态",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "ranger": 3,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-AArch",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "share skin, greater",
+        "name": "Share Skin, Greater",
+        "name_zh": "高等分享皮肤",
+        "levels": {"witch": 8},
+        "source": "PC-BotM"
+    },
+        {
+        "key": "share skin",
+        "name": "Share Skin",
+        "name_zh": "分享皮肤",
+        "school": "necromancy",
+        "levels":         {
+            "druid": 6,
+            "witch": 6
+        },
+        "source": "PC-BotM"
+    },
+        {
+        "key": "shared sacrifice",
+        "name": "Shared Sacrifice",
+        "name_zh": "共受血祭",
+        "school": "necromancy",
+        "descriptors": ["evil"],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 2,
+            "shaman": 2,
+            "summoner": 3,
+            "witch": 2
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "shared suffering",
+        "name": "Shared Suffering",
+        "name_zh": "分担痛苦",
+        "school": "necromancy",
+        "descriptors": ["evil"],
+        "levels":         {
+            "antipaladin": 2,
+            "inquisitor": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-CoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "shared wrath",
         "name": "Shared Wrath",
         "name_zh": "众怒",
@@ -24708,6 +32141,58 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "shield companion, pc-aarch",
+        "name": "Shield Companion, PC-AArch",
+        "name_zh": "护卫伙伴",
+        "school": "abjuration",
+        "levels":         {
+            "antipaladin": 1,
+            "druid": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-AArch"
+    },
+        {
+        "key": "shield companion, pcs-aarch",
+        "name": "Shield Companion, PCS-AArch",
+        "name_zh": "护卫伙伴",
+        "school": "abjuration",
+        "levels":         {
+            "antipaladin": 1,
+            "druid": 1,
+            "paladin": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PCS-AArch"
+    },
+        {
+        "key": "shield of darkness",
+        "name": "Shield of Darkness",
+        "name_zh": "黑暗之盾",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "shadow"
+        ],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 3,
+            "inquisitor": 3,
+            "shaman": 3,
+            "spiritualist": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "shield of faith",
@@ -24765,6 +32250,42 @@ var spellsIndex = [
         "savingThrow_zh": "见后文"
     },
         {
+        "key": "shield of shards",
+        "name": "Shield of Shards",
+        "name_zh": "碎盾飞射",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 1,
+            "cleric": 2,
+            "inquisitor": 2,
+            "magus": 2,
+            "medium": 2,
+            "paladin": 1,
+            "shaman": 2
+        },
+        "source": "PC-AMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "shield of wings",
+        "name": "Shield of Wings",
+        "name_zh": "斥火羽翼",
+        "school": "transmutation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "cleric": 3,
+            "inquisitor": 3,
+            "paladin": 3,
+            "ranger": 3
+        },
+        "source": "PC-PotRight",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "shield other",
         "name": "Shield Other",
         "name_zh": "护卫他人",
@@ -24779,6 +32300,49 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "shield speech, greater",
+        "name": "Shield Speech, Greater",
+        "name_zh": "高等秘密交谈",
+        "school": "abjuration",
+        "levels":         {
+            "cleric/oracle": 4,
+            "druid": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "shield speech",
+        "name": "Shield Speech",
+        "name_zh": "秘密交谈",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "druid": 1,
+            "sorcerer/wizard": 1
+        },
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "shield the banner",
+        "name": "Shield the Banner",
+        "name_zh": "保卫旗帜",
+        "school": "abjuration",
+        "levels":         {
+            "adept": 1,
+            "cleric/oracle": 1
+        },
+        "source": "PC-OoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "shield",
@@ -24836,6 +32400,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "反射, 通过则无效"
+    },
+        {
+        "key": "shifting shadows",
+        "name": "Shifting Shadows",
+        "name_zh": "蠕动之影",
+        "school": "evocation",
+        "descriptors": ["darkness"],
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无，见下文"
     },
         {
         "key": "shillelagh",
@@ -24946,6 +32526,26 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
         {
+        "key": "shroud of innocuity",
+        "name": "Shroud of Innocuity",
+        "name_zh": "无害遮掩",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 3,
+            "medium": 3,
+            "mesmerist": 3,
+            "psychic": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无 (无害；见下)"
+    },
+        {
         "key": "sickening entanglement",
         "name": "Sickening Entanglement",
         "name_zh": "毒液纠缠术",
@@ -25014,6 +32614,38 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "sign of the dawnflower",
+        "name": "Sign of the Dawnflower",
+        "name_zh": "晨花印记",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 0,
+            "druid": 0,
+            "paladin": 1,
+            "ranger": 1
+        },
+        "source": "PC-TEoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "signifer's rally",
+        "name": "Signifer's Rally",
+        "name_zh": "持节士的集会",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "descriptors": ["evil"],
+        "levels":         {
+            "cleric/oracle": 7,
+            "sorcerer/wizard": 7
+        },
+        "source": "PC-CEoD",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "signs of the land",
@@ -25098,6 +32730,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "silt sphere",
+        "name": "Silt Sphere",
+        "name_zh": "淤泥法球",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-BotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "silver darts",
         "name": "Silver Darts",
         "name_zh": "银镖闪",
@@ -25140,6 +32787,23 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "siphon might",
+        "name": "Siphon Might",
+        "name_zh": "虹吸之力",
+        "school": "necromancy",
+        "levels":         {
+            "druid": 3,
+            "magus": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3,
+            "witch": 3
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则减半"
+    },
+        {
         "key": "sirocco",
         "name": "Sirocco",
         "name_zh": "燃烧之风",
@@ -25158,6 +32822,47 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则部分生效；见下文"
+    },
+        {
+        "key": "skeleton crew",
+        "name": "Skeleton Crew",
+        "name_zh": "骷髅船员",
+        "school": "necromancy",
+        "levels":         {
+            "cleric": 3,
+            "sorcerer/wizard": 4,
+            "summoner": 4,
+            "witch": 4
+        },
+        "source": "PC-PotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "skin tag",
+        "name": "Skin Tag",
+        "name_zh": "人面疮",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "alchemist": 1,
+            "medium": 1,
+            "occultist": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "无 (物体)；有 (生物)",
+        "savingThrow_zh": "无 (物体)；强韧，通过则无效；见下"
     },
         {
         "key": "skinsend",
@@ -25185,6 +32890,42 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "sky swim",
+        "name": "Sky Swim",
+        "name_zh": "遨游天空",
+        "school": "transmutation",
+        "descriptors": ["air"],
+        "levels":         {
+            "cleric/oracle": 3,
+            "druid": 3,
+            "shaman": 3,
+            "witch": 3
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "skyshroud",
+        "name": "Skyshroud",
+        "name_zh": "天帷",
+        "school": "divination",
+        "subSchool": ["scrying"],
+        "levels":         {
+            "arcanist": 3,
+            "bard": 3,
+            "cleric/oracle": 3,
+            "skald": 3,
+            "sorcerer/wizard": 3,
+            "warpriest": 3
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "1分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "slave to sin",
@@ -25299,6 +33040,25 @@ var spellsIndex = [
             "witch": 3
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "slick walls",
+        "name": "Slick Walls",
+        "name_zh": "油腻之墙",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "arcanist": 2,
+            "bard": 2,
+            "magus": 2,
+            "skald": 2,
+            "sorcerer/wizard": 2,
+            "summoner": 2
+        },
+        "source": "PC-MHH",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -25447,6 +33207,68 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "snow shape",
+        "name": "Snow Shape",
+        "name_zh": "冰雪塑形",
+        "school": "transmutation",
+        "descriptors": ["water"],
+        "levels":         {
+            "cleric": 2,
+            "druid": 1,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-HoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "snowball, pc-potn",
+        "name": "Snowball, PC-PotN",
+        "name_zh": "雪球术",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors":         [
+            "cold",
+            "water"
+        ],
+        "levels":         {
+            "druid": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-PotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则部分生效 (见下)"
+    },
+        {
+        "key": "snowball, pcs-potn",
+        "name": "Snowball, PCS-PotN",
+        "name_zh": "雪球术",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors":         [
+            "cold",
+            "water"
+        ],
+        "levels":         {
+            "druid": 1,
+            "magus": 1,
+            "sorcerer/wizard": 1,
+            "summoner": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PCS-PotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则部分生效 (见下)"
+    },
+        {
         "key": "snowball, uw",
         "name": "Snowball, UW",
         "name_zh": "雪球术",
@@ -25508,6 +33330,26 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "solidify earth",
+        "name": "Solidify Earth",
+        "name_zh": "凝实大地",
+        "school": "transmutation",
+        "descriptors": ["earth"],
+        "levels":         {
+            "arcanist": 2,
+            "cleric/oracle": 2,
+            "druid": 2,
+            "hunter": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "warpriest": 2
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射，通过则无效 (见下)"
     },
         {
         "key": "song of discord",
@@ -25680,6 +33522,26 @@ var spellsIndex = [
         "savingThrow_zh": "意志过则无效（见下文）"
     },
         {
+        "key": "soulswitch",
+        "name": "Soulswitch",
+        "name_zh": "灵魂互换",
+        "school": "necromancy",
+        "levels":         {
+            "bard": 5,
+            "cleric": 5,
+            "druid": 5,
+            "inquisitor": 5,
+            "magus": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-FF",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "sound burst",
         "name": "Sound Burst",
         "name_zh": "音鸣爆",
@@ -25693,6 +33555,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "source severance",
+        "name": "Source Severance",
+        "name_zh": "本源断绝",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 6,
+            "druid": 6,
+            "witch": 6
+        },
+        "source": "PC-FP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "见下",
+        "savingThrow_zh": "无"
     },
         {
         "key": "sow thought",
@@ -25744,6 +33621,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
+    },
+        {
+        "key": "speak local language",
+        "name": "Speak Local Language",
+        "name_zh": "方言术",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无",
+        "savingThrow_zh": "意志，通过则无效 (无害)"
     },
         {
         "key": "speak with animals",
@@ -25827,6 +33722,19 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "speak with waves",
+        "name": "Speak With Waves",
+        "name_zh": "涛言术",
+        "school": "divination",
+        "descriptors": ["water"],
+        "levels":         {
+            "druid": 6,
+            "shaman": 7
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "10分钟"
+    },
+        {
         "key": "spear of purity",
         "name": "Spear of Purity",
         "name_zh": "纯善之矛",
@@ -25855,6 +33763,59 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "spectral saluqi",
+        "name": "Spectral Saluqi",
+        "name_zh": "幽灵塞鲁奇",
+        "school": "necromancy",
+        "levels":         {
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-OLoP",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "speechreader's sight",
+        "name": "Speechreader's Sight",
+        "name_zh": "读唇者视力",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "medium": 1,
+            "mesmerist": 1,
+            "occultist": 1,
+            "psychic": 1,
+            "sorcerer/wizard": 1,
+            "spiritualist": 1,
+            "witch": 1
+        },
+        "source": "PC-HotHC",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "spell gauge",
+        "name": "Spell Gauge",
+        "name_zh": "法术窥管",
+        "school": "divination",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 2,
+            "cleric/oracle": 2,
+            "inquisitor": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-FoB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "spell immunity, greater",
@@ -25947,6 +33908,26 @@ var spellsIndex = [
         "source": "ACG"
     },
         {
+        "key": "spellcurse",
+        "name": "Spellcurse",
+        "name_zh": "法咒",
+        "school": "necromancy",
+        "descriptors": ["curse"],
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 3,
+            "inquisitor": 2,
+            "occultist": 4,
+            "psychic": 3,
+            "shaman": 4,
+            "witch": 3
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则减半"
+    },
+        {
         "key": "spellstaff",
         "name": "Spellstaff",
         "name_zh": "储法杖",
@@ -25971,6 +33952,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "sphere of warding",
+        "name": "Sphere of Warding",
+        "name_zh": "守护神球",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 5,
+            "inquisitor": 4,
+            "witch": 5
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志，通过则无效（见下）"
     },
         {
         "key": "spider climb",
@@ -26038,6 +34034,72 @@ var spellsIndex = [
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
+        "key": "spindrift spritz, mass",
+        "name": "Spindrift Spritz, Mass",
+        "name_zh": "群体浪尘飞溅",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["water"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "inquisitor": 4,
+            "paladin": 3,
+            "ranger": 3,
+            "shaman": 4,
+            "spiritualist": 4
+        },
+        "source": "PC-EMH"
+    },
+        {
+        "key": "spindrift spritz",
+        "name": "Spindrift Spritz",
+        "name_zh": "浪尘飞溅",
+        "school": "conjuration",
+        "subSchool": ["healing"],
+        "descriptors": ["water"],
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "inquisitor": 2,
+            "paladin": 1,
+            "ranger": 1,
+            "shaman": 2,
+            "spiritualist": 2
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "spirit bonds",
+        "name": "Spirit Bonds",
+        "name_zh": "精魂之契",
+        "school": "divination",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 3,
+            "shaman": 3,
+            "witch": 3,
+            "wizard": 3
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
+    },
+        {
+        "key": "spirit call",
+        "name": "Spirit Call",
+        "name_zh": "魂灵呼唤",
+        "school": "enchantment",
+        "levels":         {
+            "druid": 1,
+            "shaman": 1
+        },
+        "source": "PC-ACO",
+        "castingTime_zh": "整轮动作"
+    },
+        {
         "key": "spirit-bound blade",
         "name": "Spirit-Bound Blade",
         "name_zh": "感心之刃",
@@ -26068,6 +34130,25 @@ var spellsIndex = [
         "source": "APG",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "spiritual squire",
+        "name": "Spiritual Squire",
+        "name_zh": "魂灵护卫",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 2,
+            "inquisitor": 2,
+            "paladin": 2,
+            "shaman": 2,
+            "spiritualist": 2
+        },
+        "source": "PC-AMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -26113,6 +34194,25 @@ var spellsIndex = [
         "castingTime_zh": "1轮"
     },
         {
+        "key": "splinter spell resistance",
+        "name": "Splinter Spell Resistance",
+        "name_zh": "崩解抗力",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 2,
+            "magus": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
         "key": "spontaneous immolation",
         "name": "Spontaneous Immolation",
         "name_zh": "献祭",
@@ -26126,6 +34226,50 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧，通过则减半 和 反射 (见下文)"
+    },
+        {
+        "key": "spore burst",
+        "name": "Spore Burst",
+        "name_zh": "孢子喷发",
+        "school": "conjuration",
+        "descriptors": ["poison"],
+        "levels":         {
+            "druid": 2,
+            "ranger": 3,
+            "shaman": 2,
+            "witch": 2
+        },
+        "source": "PC-CaC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "特殊；见下"
+    },
+        {
+        "key": "spotlight",
+        "name": "Spotlight",
+        "name_zh": "聚光灯",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "light"
+        ],
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "druid": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "occultist": 3,
+            "paladin": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射, 通过则减半"
     },
         {
         "key": "squeeze",
@@ -26174,6 +34318,49 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "stage fright",
+        "name": "Stage Fright",
+        "name_zh": "怯场术",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "antipaladin": 3,
+            "bard": 3,
+            "inquisitor": 3,
+            "mesmerist": 3,
+            "psychic": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "starsight",
+        "name": "Starsight",
+        "name_zh": "星视",
+        "school": "divination",
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 1,
+            "druid": 1,
+            "ranger": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-PoS",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "statue",
@@ -26286,6 +34473,23 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "steal size",
+        "name": "Steal Size",
+        "name_zh": "窃取体型",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 2,
+            "druid": 3,
+            "magus": 3,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
         "key": "steal voice",
         "name": "Steal Voice",
         "name_zh": "盗取嗓音",
@@ -26299,6 +34503,38 @@ var spellsIndex = [
             "witch": 2
         },
         "source": "UM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "steal years, greater",
+        "name": "Steal Years, Greater",
+        "name_zh": "高等窃取流年",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 5,
+            "druid": 5,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-BotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "steal years",
+        "name": "Steal Years",
+        "name_zh": "窃取流年",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 3,
+            "druid": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-BotN",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
@@ -26443,6 +34679,24 @@ var spellsIndex = [
         "castingTime_zh": "10分钟"
     },
         {
+        "key": "stone throwing",
+        "name": "Stone Throwing",
+        "name_zh": "掷石术",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 1,
+            "cleric": 2,
+            "druid": 2,
+            "magus": 2,
+            "ranger": 1,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效 (无害)"
+    },
+        {
         "key": "stone to flesh",
         "name": "Stone to Flesh",
         "name_zh": "解除石化",
@@ -26478,6 +34732,22 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "storm of blades",
+        "name": "Storm of Blades",
+        "name_zh": "剑刃风暴",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "cleric": 3,
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-PotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "storm of vengeance",
@@ -26550,6 +34820,21 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "strand of the tangled knot",
+        "name": "Strand of the Tangled Knot",
+        "name_zh": "纠缠之结",
+        "school": "abjuration",
+        "levels":         {
+            "cleric/oracle": 1,
+            "inquisitor": 1,
+            "shaman": 1,
+            "warpriest": 1,
+            "witch": 1
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "strangling hair",
         "name": "Strangling Hair",
         "name_zh": "窒息之发",
@@ -26583,6 +34868,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "strip scales",
+        "name": "Strip Scales",
+        "name_zh": "剥除鳞片",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 4,
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
     },
         {
         "key": "strong jaw",
@@ -26686,6 +34986,25 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "subjective reality",
+        "name": "Subjective Reality",
+        "name_zh": "主观现实",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 6,
+            "medium": 5,
+            "mesmerist": 5,
+            "psychic": 6,
+            "sorcerer/wizard": 7
+        },
+        "source": "PC-OO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "suffocation, mass",
         "name": "Suffocation, Mass",
         "name_zh": "群体绞杀",
@@ -26758,6 +35077,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "summon ancestral guardian",
+        "name": "Summon Ancestral Guardian",
+        "name_zh": "召唤祖先守卫",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "bard": 3,
+            "cleric/oracle": 3
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "summon eidolon",
         "name": "Summon Eidolon",
         "name_zh": "向导召唤术",
@@ -26784,7 +35118,7 @@ var spellsIndex = [
         {
         "key": "summon flight of eagles",
         "name": "Summon Flight of Eagles",
-        "name_zh": "召唤雄鹰",
+        "name_zh": "召唤巨鹰",
         "school": "conjuration",
         "subSchool": ["summoning"],
         "levels":         {
@@ -26796,7 +35130,7 @@ var spellsIndex = [
             "summoner": 6,
             "witch": 6
         },
-        "source": "AG",
+        "source": "PC-ASoL",
         "castingTime_zh": "1轮",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
@@ -26814,6 +35148,51 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "summon genie, greater",
+        "name": "Summon Genie, Greater",
+        "name_zh": "召唤巨灵，高等",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "cleric": 6,
+            "sorcerer/wizard": 6,
+            "summoner": 5,
+            "witch": 6
+        },
+        "source": "PC-PotS"
+    },
+        {
+        "key": "summon genie, lesser",
+        "name": "Summon Genie, Lesser",
+        "name_zh": "召唤巨灵，次级",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "cleric": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 3,
+            "witch": 4
+        },
+        "source": "PC-PotS",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "summon genie",
+        "name": "Summon Genie",
+        "name_zh": "召唤巨灵",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "cleric": 5,
+            "sorcerer/wizard": 5,
+            "summoner": 4,
+            "witch": 5
+        },
+        "source": "PC-PotS"
+    },
+        {
         "key": "summon instrument",
         "name": "Summon Instrument",
         "name_zh": "召唤乐器",
@@ -26822,6 +35201,23 @@ var spellsIndex = [
         "levels": {"bard": 0},
         "source": "CRB",
         "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "summon laborers",
+        "name": "Summon Laborers",
+        "name_zh": "召唤劳工",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "cleric": 6,
+            "shaman": 6,
+            "summoner": 6,
+            "witch": 6
+        },
+        "source": "PC-MSH",
+        "castingTime_zh": "10分钟",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
@@ -27153,6 +35549,24 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "summon totem creature",
+        "name": "Summon Totem Creature",
+        "name_zh": "召唤图腾生物",
+        "school": "conjuration",
+        "subSchool": ["summoning"],
+        "levels":         {
+            "cleric": 3,
+            "druid": 3,
+            "ranger": 3,
+            "sorcerer/wizard": 3,
+            "summoner": 3
+        },
+        "source": "PC-HoG",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "summoner conduit",
         "name": "Summoner Conduit",
         "name_zh": "灵魂连接",
@@ -27333,9 +35747,62 @@ var spellsIndex = [
             "shaman": 2,
             "sorcerer/wizard": 2
         },
-        "source": "AG",
+        "source": "PC-ASoL",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "sure casting",
+        "name": "Sure Casting",
+        "name_zh": "精确施法",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "inquisitor": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-PSP",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "surefoot boots",
+        "name": "Surefoot Boots",
+        "name_zh": "适足之靴",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 2,
+            "occultist": 2,
+            "ranger": 2,
+            "shaman": 2
+        },
+        "source": "PC-AA2",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "surface excursion",
+        "name": "Surface Excursion",
+        "name_zh": "表面旅程",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels":         {
+            "arcanist": 5,
+            "magus": 5,
+            "occultist": 4,
+            "psychic": 5,
+            "shaman": 5,
+            "sorcerer/wizard": 5,
+            "spiritualist": 4,
+            "summoner": 4,
+            "witch": 5
+        },
+        "source": "PC-HotD",
+        "castingTime_zh": "3轮",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -27349,6 +35816,22 @@ var spellsIndex = [
         },
         "source": "UM",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "suspend drowning",
+        "name": "Suspend Drowning",
+        "name_zh": "暂缓溺水",
+        "school": "transmutation",
+        "levels":         {
+            "bard": 1,
+            "cleric": 1,
+            "druid": 1,
+            "ranger": 1
+        },
+        "source": "PC-BotS",
+        "castingTime_zh": "直觉动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "swallow poison",
@@ -27395,6 +35878,41 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "sweat poison",
+        "name": "Sweat Poison",
+        "name_zh": "甜美毒药",
+        "school": "necromancy",
+        "subSchool": ["poison"],
+        "levels":         {
+            "alchemist": 2,
+            "druid": 3,
+            "inquisitor": 3,
+            "ranger": 2
+        },
+        "source": "PC-BotB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "sword to snake",
+        "name": "Sword to Snake",
+        "name_zh": "化剑为蛇",
+        "school": "transmutation",
+        "descriptors": ["poison"],
+        "levels":         {
+            "cleric": 4,
+            "druid": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "summoner": 4
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可（物体）",
+        "savingThrow_zh": "意志无效（物体）"
+    },
+        {
         "key": "symbol of death",
         "name": "Symbol of Death",
         "name_zh": "死亡徽记",
@@ -27409,6 +35927,27 @@ var spellsIndex = [
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "symbol of distraction",
+        "name": "Symbol of Distraction",
+        "name_zh": "分心徽记",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 6,
+            "cleric": 6,
+            "mesmerist": 6,
+            "occultist": 4,
+            "psychic": 6,
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "symbol of exsanguination",
@@ -27861,6 +36400,56 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "tactical formation",
+        "name": "Tactical Formation",
+        "name_zh": "战术编队",
+        "school": "abjuration",
+        "levels":         {
+            "cleric/oracle": 3,
+            "paladin": 3,
+            "ranger": 4
+        },
+        "source": "PC-DoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "tactical insight",
+        "name": "Tactical Insight",
+        "name_zh": "战术洞察",
+        "school": "divination",
+        "levels":         {
+            "bard": 6,
+            "inquisitor": 6
+        },
+        "source": "PC-QC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "tactical miscalculation",
+        "name": "Tactical Miscalculation",
+        "name_zh": "错失良机",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "emotion",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "inquisitor": 2,
+            "ranger": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-PSP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "见下文"
+    },
+        {
         "key": "tail current",
         "name": "Tail Current",
         "name_zh": "顺水术",
@@ -27878,6 +36467,23 @@ var spellsIndex = [
             "spiritualist": 3
         },
         "source": "UW"
+    },
+        {
+        "key": "tail strike",
+        "name": "Tail Strike",
+        "name_zh": "尾击术",
+        "school": "transmutation",
+        "descriptors": ["draconic"],
+        "levels":         {
+            "alchemist": 4,
+            "antipaladin": 3,
+            "bloodrager": 3,
+            "medium": 3,
+            "paladin": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-LoD",
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "tailwind",
@@ -27928,6 +36534,19 @@ var spellsIndex = [
         "savingThrow_zh": "意志过则部分生效（见正文）"
     },
         {
+        "key": "tap inner beauty",
+        "name": "Tap Inner Beauty",
+        "name_zh": "内在之美",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric/oracle": 1,
+            "witch": 1
+        },
+        "source": "PC-FoP",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "tar ball",
         "name": "Tar Ball",
         "name_zh": "沥青球",
@@ -27967,6 +36586,36 @@ var spellsIndex = [
         "levels": {"alchemist": 1},
         "source": "UC",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "tears to wine",
+        "name": "Tears to Wine",
+        "name_zh": "化泪为酒",
+        "school": "transmutation",
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "cleric": 2,
+            "druid": 1,
+            "medium": 1,
+            "occultist": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（物品）",
+        "savingThrow_zh": "意志，通过则无效（物品）"
+    },
+        {
+        "key": "tectonic communion",
+        "name": "Tectonic Communion",
+        "name_zh": "与大地交流",
+        "school": "divination",
+        "levels": {"druid": 7},
+        "source": "PC-FP",
+        "castingTime_zh": "1小时"
     },
         {
         "key": "telekinesis",
@@ -28069,6 +36718,36 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则部分生效（见后文）"
     },
         {
+        "key": "telekinetic strikes",
+        "name": "Telekinetic Strikes",
+        "name_zh": "念力打击",
+        "school": "evocation",
+        "descriptors": ["force"],
+        "levels":         {
+            "magus": 2,
+            "psychic": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "telekinetic volley",
+        "name": "Telekinetic Volley",
+        "name_zh": "心控射击",
+        "school": "transmutation",
+        "levels":         {
+            "magus": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-RTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "无（物体）",
+        "savingThrow_zh": "无（物体）"
+    },
+        {
         "key": "telempathic projection",
         "name": "Telempathic Projection",
         "name_zh": "心绪投影",
@@ -28105,6 +36784,38 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "telepathic censure",
+        "name": "Telepathic Censure",
+        "name_zh": "心电谴责",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 2,
+            "inquisitor": 2
+        },
+        "source": "PC-DHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "telepathic silence",
+        "name": "Telepathic Silence",
+        "name_zh": "沉寂心灵",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "medium": 4,
+            "mesmerist": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "spiritualist": 4
+        },
+        "source": "PC-MHH",
+        "castingTime_zh": "1轮",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "telepathy",
         "name": "Telepathy",
         "name_zh": "心灵感应",
@@ -28134,6 +36845,18 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
+    },
+        {
+        "key": "teleport structure",
+        "name": "Teleport Structure",
+        "name_zh": "传送建筑",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels": {"sorcerer/wizard": 6},
+        "source": "PC-QC",
+        "castingTime_zh": "8小时",
+        "spellResistance_zh": "无（物体）",
+        "savingThrow_zh": "意志，通过则无效（物体）"
     },
         {
         "key": "teleport, greater",
@@ -28186,6 +36909,38 @@ var spellsIndex = [
         "source": "CRB",
         "castingTime_zh": "10分钟",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "temporal divergence",
+        "name": "Temporal Divergence",
+        "name_zh": "时间分歧",
+        "school": "transmutation",
+        "levels":         {
+            "arcanist": 7,
+            "psychic": 7,
+            "sorcerer/wizard": 7,
+            "witch": 7
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "迅捷动作"
+    },
+        {
+        "key": "temporal regression",
+        "name": "Temporal Regression",
+        "name_zh": "时间回溯",
+        "school": "conjuration",
+        "subSchool": ["teleportation"],
+        "levels":         {
+            "arcanist": 8,
+            "druid": 9,
+            "psychic": 8,
+            "witch": 8,
+            "wizard": 8
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -28317,6 +37072,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "thirsting entanglement",
+        "name": "Thirsting Entanglement",
+        "name_zh": "饥渴纠缠",
+        "school": "transmutation",
+        "levels":         {
+            "druid": 4,
+            "hunter": 4,
+            "ranger": 4,
+            "shaman": 4
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "反射, 通过则减半"
+    },
+        {
         "key": "thorn body",
         "name": "Thorn Body",
         "name_zh": "荆刺之躯",
@@ -28419,6 +37190,49 @@ var spellsIndex = [
         "source": "OA"
     },
         {
+        "key": "thought worm i",
+        "name": "Thought Worm I",
+        "name_zh": "精神蛀虫 I",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels": {"psychic": 2},
+        "source": "PC-PA",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "thought worm ii",
+        "name": "Thought Worm II",
+        "name_zh": "精神蛀虫 II",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels": {"psychic": 3},
+        "source": "PC-PA"
+    },
+        {
+        "key": "thought worm iii",
+        "name": "Thought Worm III",
+        "name_zh": "精神蛀虫 III",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels": {"psychic": 4},
+        "source": "PC-PA"
+    },
+        {
+        "key": "thought worm iv",
+        "name": "Thought Worm IV",
+        "name_zh": "精神蛀虫 IV",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors": ["mind-affecting"],
+        "levels": {"psychic": 5},
+        "source": "PC-PA"
+    },
+        {
         "key": "thoughtsense",
         "name": "Thoughtsense",
         "name_zh": "感知思维",
@@ -28444,6 +37258,51 @@ var spellsIndex = [
             "witch": 4
         },
         "source": "APG",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "threefold face",
+        "name": "Threefold Face",
+        "name_zh": "三重面相",
+        "school": "transmutation",
+        "levels":         {
+            "arcanist": 3,
+            "medium": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "threefold form",
+        "name": "Threefold Form",
+        "name_zh": "三重形态",
+        "school": "divination",
+        "levels":         {
+            "druid": 9,
+            "psychic": 9,
+            "witch": 9
+        },
+        "source": "PC-LotFW",
+        "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "threefold sight",
+        "name": "Threefold Sight",
+        "name_zh": "三相之视",
+        "school": "divination",
+        "levels":         {
+            "arcanist": 3,
+            "bard": 3,
+            "medium": 3,
+            "occultist": 3,
+            "psychic": 3,
+            "skald": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-LotFW",
         "castingTime_zh": "标准动作"
     },
         {
@@ -28629,6 +37488,21 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "tomb legion",
+        "name": "Tomb Legion",
+        "name_zh": "亡灵天灾",
+        "school": "necromancy",
+        "descriptors": ["evil"],
+        "levels":         {
+            "cleric": 8,
+            "sorcerer/wizard": 8
+        },
+        "source": "PC-OLoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "tongues",
         "name": "Tongues",
         "name_zh": "巧言术",
@@ -28685,6 +37559,48 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "touch of blindness",
+        "name": "Touch of Blindness",
+        "name_zh": "目盲之触",
+        "school": "necromancy",
+        "descriptors":         [
+            "darkness",
+            "shadow"
+        ],
+        "levels":         {
+            "antipaladin": 1,
+            "bard": 1,
+            "cleric": 1,
+            "sorcerer/wizard": 1,
+            "shaman": 1,
+            "witch": 1
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效"
+    },
+        {
+        "key": "touch of bloodletting",
+        "name": "Touch of Bloodletting",
+        "name_zh": "溢血之触",
+        "school": "necromancy",
+        "levels":         {
+            "antipaladin": 2,
+            "bloodrager": 1,
+            "cleric": 1,
+            "druid": 1,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "touch of combustion",
@@ -28758,6 +37674,27 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "touch of mercy",
+        "name": "Touch of Mercy",
+        "name_zh": "慈悲之触",
+        "school": "enchantment",
+        "subSchool": ["compulsion"],
+        "descriptors":         [
+            "good",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "cleric": 2,
+            "sorcerer/wizard": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-CoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "touch of slime",
         "name": "Touch of Slime",
         "name_zh": "软泥之触",
@@ -28777,6 +37714,26 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
+        "key": "touch of slumber",
+        "name": "Touch of Slumber",
+        "name_zh": "沉眠之触",
+        "school": "enchantment",
+        "descriptors": ["mind-affecting"],
+        "levels":         {
+            "bard": 6,
+            "cleric/oracle": 5,
+            "druid": 5,
+            "psychic": 6,
+            "shaman": 5,
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "touch of the sea",
         "name": "Touch of the Sea",
         "name_zh": "海洋之触",
@@ -28791,6 +37748,24 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
+    },
+        {
+        "key": "tough crowd",
+        "name": "Tough Crowd",
+        "name_zh": "众志成城",
+        "school": "abjuration",
+        "levels":         {
+            "bard": 4,
+            "inquisitor": 4,
+            "mesmerist": 4,
+            "psychic": 3,
+            "sorcerer/wizard": 4,
+            "witch": 3
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "tower of iron will i",
@@ -28859,6 +37834,23 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效 (见下文)"
     },
         {
+        "key": "toxic rupture",
+        "name": "Toxic Rupture",
+        "name_zh": "毒腺反噬",
+        "school": "necromancy",
+        "descriptors": ["poison"],
+        "levels":         {
+            "druid": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧，通过则无效；见下文"
+    },
+        {
         "key": "trace teleport",
         "name": "Trace Teleport",
         "name_zh": "传送追迹术",
@@ -28871,6 +37863,23 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "track ship",
+        "name": "Track Ship",
+        "name_zh": "追踪船只",
+        "school": "divination",
+        "subSchool": ["scrying"],
+        "descriptors": ["travel"],
+        "levels":         {
+            "bard": 2,
+            "cleric": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-PotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可（物品）",
+        "savingThrow_zh": "意志，通过则无效（物品）"
     },
         {
         "key": "trade items",
@@ -28888,6 +37897,35 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可（物体）",
         "savingThrow_zh": "意志，通过则无效（物体）"
+    },
+        {
+        "key": "trail of the rose",
+        "name": "Trail of the Rose",
+        "name_zh": "步步生华",
+        "school": "illusion",
+        "subSchool": ["phantasm"],
+        "levels":         {
+            "bard": 2,
+            "cleric/oracle": 2
+        },
+        "source": "PC-FoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "transfer familiar",
+        "name": "Transfer Familiar",
+        "name_zh": "魔宠转借",
+        "school": "evocation",
+        "levels":         {
+            "sorcerer/wizard": 6,
+            "witch": 6
+        },
+        "source": "PC-FF",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "transfer regeneration",
@@ -28948,6 +37986,21 @@ var spellsIndex = [
         "savingThrow_zh": "强韧, 通过则减半"
     },
         {
+        "key": "transmute golem",
+        "name": "Transmute Golem",
+        "name_zh": "转变魔像",
+        "school": "transmutation",
+        "subSchool": ["polymorph"],
+        "levels":         {
+            "alchemist": 6,
+            "sorcerer/wizard": 9
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "9小时",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "transmute metal to wood",
         "name": "Transmute Metal to Wood",
         "name_zh": "化铁为木",
@@ -28997,6 +38050,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "见后文"
+    },
+        {
+        "key": "transmute wine to blood",
+        "name": "Transmute Wine to Blood",
+        "name_zh": "化酒为血",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "source": "PC-BotN",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "强韧，通过则无效 (物体)"
     },
         {
         "key": "transport via plants",
@@ -29086,6 +38154,23 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "trial by fire",
+        "name": "Trial By Fire",
+        "name_zh": "烈火之试",
+        "school": "evocation",
+        "descriptors": ["fire"],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 3,
+            "inquisitor": 3,
+            "paladin": 3
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "trial of fire and acid",
@@ -29304,6 +38389,36 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "twine double",
+        "name": "Twine Double",
+        "name_zh": "纺线双胞",
+        "school": "illusion",
+        "subSchool": ["shadow"],
+        "levels": {"sorcerer/wizard": 3},
+        "source": "PC-CEoD",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "twisted futures",
+        "name": "Twisted Futures",
+        "name_zh": "扭曲未来",
+        "school": "divination",
+        "levels":         {
+            "bard": 1,
+            "cleric": 2,
+            "druid": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 2,
+            "witch": 1
+        },
+        "source": "PC-GHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "twisted space",
         "name": "Twisted Space",
         "name_zh": "扭曲空间",
@@ -29318,6 +38433,86 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "umbral infusion, mass",
+        "name": "Umbral Infusion, Mass",
+        "name_zh": "群体暗影灌注",
+        "school": "necromancy",
+        "descriptors": ["shadow"],
+        "levels":         {
+            "cleric": 8,
+            "sorcerer/wizard": 8,
+            "witch": 8
+        },
+        "source": "PC-BoS"
+    },
+        {
+        "key": "umbral infusion",
+        "name": "Umbral Infusion",
+        "name_zh": "暗影灌注",
+        "school": "necromancy",
+        "descriptors": ["shadow"],
+        "levels":         {
+            "alchemist": 4,
+            "antipaladin": 4,
+            "cleric": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "umbral strike",
+        "name": "Umbral Strike",
+        "name_zh": "暗影打击",
+        "school": "necromancy",
+        "subSchool": ["shadow"],
+        "descriptors": ["darkness"],
+        "levels":         {
+            "cleric": 7,
+            "druid": 7,
+            "inquisitor": 6,
+            "magus": 6,
+            "occultist": 6,
+            "psychic": 7,
+            "shaman": 7,
+            "sorcerer/wizard": 7,
+            "spiritualist": 6,
+            "witch": 7
+        },
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则部分生效"
+    },
+        {
+        "key": "umbral weapon",
+        "name": "Umbral Weapon",
+        "name_zh": "阴影武器",
+        "school": "illusion",
+        "descriptors":         [
+            "cold",
+            "shadow"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "bard": 2,
+            "magus": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-MeleeTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
     },
         {
         "key": "unadulterated loathing",
@@ -29419,6 +38614,21 @@ var spellsIndex = [
         "subSchool": ["polymorph"],
         "levels": {"sorcerer/wizard": 8},
         "source": "UM"
+    },
+        {
+        "key": "undeath inversion",
+        "name": "Undeath Inversion",
+        "name_zh": "不死转化",
+        "school": "necromancy",
+        "levels":         {
+            "cleric/oracle": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-USH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "undeath to death",
@@ -29636,6 +38846,23 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "unholy ward",
+        "name": "Unholy Ward",
+        "name_zh": "亵渎防护",
+        "school": "abjuration",
+        "descriptors": ["evil"],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 4,
+            "inquisitor": 3,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-AoE",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
+    },
+        {
         "key": "universal formula",
         "name": "Universal Formula",
         "name_zh": "万用公式",
@@ -29706,6 +38933,39 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "unseen crew",
+        "name": "Unseen Crew",
+        "name_zh": "隐形船员",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "bard": 4,
+            "sorcerer/wizard": 5,
+            "summoner": 5,
+            "witch": 5
+        },
+        "source": "PC-PotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "unseen engineers",
+        "name": "Unseen Engineers",
+        "name_zh": "隐形工程师",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "sorcerer/wizard": 3,
+            "summoner": 2,
+            "witch": 3
+        },
+        "source": "PC-KoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "unseen servant",
         "name": "Unseen Servant",
         "name_zh": "隐形仆役",
@@ -29723,6 +38983,33 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
+    },
+        {
+        "key": "unsettling presence",
+        "name": "Unsettling Presence",
+        "name_zh": "不安存在",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "bard": 2,
+            "medium": 1,
+            "mesmerist": 2,
+            "occultist": 2,
+            "psychic": 2,
+            "shaman": 2,
+            "sorcerer/wizard": 2,
+            "witch": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有",
+        "savingThrow_zh": "意志，通过则无效"
     },
         {
         "key": "unshakable chill",
@@ -29827,6 +39114,29 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "urgathoa's beacon",
+        "name": "Urgathoa's Beacon",
+        "name_zh": "厄迦图娅的信标",
+        "school": "necromancy",
+        "subSchool": ["haunted"],
+        "descriptors":         [
+            "emotion",
+            "evil",
+            "fear",
+            "mind-affecting"
+        ],
+        "levels":         {
+            "antipaladin": 2,
+            "cleric": 2,
+            "inquisitor": 2
+        },
+        "descriptorOperator": "and",
+        "source": "PC-HHH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
         "key": "utter contempt",
         "name": "Utter Contempt",
         "name_zh": "目中无人",
@@ -29839,6 +39149,40 @@ var spellsIndex = [
         },
         "source": "UM",
         "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "vacuous vessel",
+        "name": "Vacuous Vessel",
+        "name_zh": "空洞器皿",
+        "school": "illusion",
+        "subSchool": ["glamer"],
+        "levels":         {
+            "bard": 0,
+            "sorcerer/wizard": 0
+        },
+        "source": "PC-BM",
+        "castingTime_zh": "迅捷动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效"
+    },
+        {
+        "key": "vampiric hunger",
+        "name": "Vampiric Hunger",
+        "name_zh": "吸血冲动",
+        "school": "necromancy",
+        "subSchool": ["polymorph"],
+        "descriptors": ["evil"],
+        "levels":         {
+            "antipaladin": 3,
+            "cleric": 3,
+            "druid": 3,
+            "sorcerer/wizard": 3,
+            "witch": 3
+        },
+        "source": "PC-FoC",
+        "castingTime_zh": "1轮",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29952,6 +39296,25 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
+        "key": "venomous bite",
+        "name": "Venomous Bite",
+        "name_zh": "毒之啮咬",
+        "school": "transmutation",
+        "descriptors": ["poison"],
+        "levels":         {
+            "alchemist": 2,
+            "druid": 2,
+            "ranger": 2,
+            "shaman": 2,
+            "summoner": 2,
+            "witch": 2
+        },
+        "source": "PC-DTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "强韧，通过则无效（无害）"
+    },
+        {
         "key": "venomous bolt",
         "name": "Venomous Bolt",
         "name_zh": "毒失咒",
@@ -29962,6 +39325,28 @@ var spellsIndex = [
         "castingTime_zh": "迅捷动作",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
+    },
+        {
+        "key": "venomous promise",
+        "name": "Venomous Promise",
+        "name_zh": "阴毒之诺",
+        "school": "transmutation",
+        "descriptors":         [
+            "language-dependent",
+            "poison"
+        ],
+        "levels":         {
+            "antipaladin": 3,
+            "bard": 3,
+            "mesmerist": 3,
+            "shaman": 3,
+            "witch": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BM",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "有"
     },
         {
         "key": "ventriloquism",
@@ -30103,6 +39488,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志（无害）"
+    },
+        {
+        "key": "vigor",
+        "name": "Vigor",
+        "name_zh": "活力术",
+        "school": "transmutation",
+        "levels":         {
+            "adept": 0,
+            "cleric/oracle": 0
+        },
+        "source": "PC-OoG",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "vile dog transformation",
@@ -30255,6 +39654,37 @@ var spellsIndex = [
         },
         "source": "CRB",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "visualization of the body",
+        "name": "Visualization of The Body",
+        "name_zh": "身体具现",
+        "school": "transmutation",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 2,
+            "druid": 2,
+            "magus": 2,
+            "ranger": 2,
+            "shaman": 2,
+            "wizard": 2
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
+    },
+        {
+        "key": "visualization of the mind",
+        "name": "Visualization of The Mind",
+        "name_zh": "心灵具现",
+        "school": "transmutation",
+        "descriptors": ["meditative"],
+        "levels":         {
+            "cleric": 2,
+            "shaman": 2,
+            "wizard": 2
+        },
+        "source": "PC-DA",
+        "castingTime_zh": "1小时"
     },
         {
         "key": "vitriolic mist",
@@ -30477,6 +39907,39 @@ var spellsIndex = [
         "savingThrow_zh": "强韧，通过则无效"
     },
         {
+        "key": "wall of bone",
+        "name": "Wall of Bone",
+        "name_zh": "骸骨之墙",
+        "school": "necromancy",
+        "levels":         {
+            "antipaladin": 4,
+            "bloodrager": 4,
+            "cleric": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 4,
+            "spiritualist": 4
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "wall of clockwork",
+        "name": "Wall of Clockwork",
+        "name_zh": "齿轮之墙",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "levels":         {
+            "cleric": 5,
+            "sorcerer/wizard": 5
+        },
+        "source": "PC-HotS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "反射，通过则减半 或 反射，通过则无效；见下"
+    },
+        {
         "key": "wall of ectoplasm",
         "name": "Wall of Ectoplasm",
         "name_zh": "灵质墙",
@@ -30583,6 +40046,23 @@ var spellsIndex = [
         "savingThrow_zh": "见下文"
     },
         {
+        "key": "wall of mist",
+        "name": "Wall of Mist",
+        "name_zh": "迷雾之墙",
+        "school": "conjuration",
+        "subSchool": ["creation"],
+        "descriptors": ["air"],
+        "levels":         {
+            "magus": 3,
+            "shaman": 3,
+            "sorcerer/wizard": 3
+        },
+        "source": "PC-EMH",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
+        "savingThrow_zh": "无"
+    },
+        {
         "key": "wall of nausea",
         "name": "Wall of Nausea",
         "name_zh": "晕厥之墙",
@@ -30614,6 +40094,30 @@ var spellsIndex = [
         "source": "UM",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "wall of split illumination",
+        "name": "Wall of Split Illumination",
+        "name_zh": "分离光照之壁",
+        "school": "evocation",
+        "descriptors":         [
+            "darkness",
+            "light"
+        ],
+        "levels":         {
+            "bard": 3,
+            "cleric": 3,
+            "sorcerer/wizard": 3,
+            "inquisitor": 3,
+            "magus": 3,
+            "occultist": 3,
+            "shaman": 3
+        },
+        "descriptorOperator": "and",
+        "source": "PC-BoS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -30717,6 +40221,22 @@ var spellsIndex = [
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
+        "key": "ward shield",
+        "name": "Ward Shield",
+        "name_zh": "盾卫术",
+        "school": "abjuration",
+        "levels":         {
+            "cleric": 4,
+            "inquisitor": 4,
+            "magus": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-KotIS",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
         "key": "ward the faithful",
         "name": "Ward the Faithful",
         "name_zh": "信仰之卫",
@@ -30742,6 +40262,26 @@ var spellsIndex = [
         },
         "source": "UC",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "warp metal",
+        "name": "Warp Metal",
+        "name_zh": "扭曲金属",
+        "school": "transmutation",
+        "descriptors": ["earth"],
+        "levels":         {
+            "bloodrager": 4,
+            "cleric": 4,
+            "druid": 4,
+            "medium": 4,
+            "occultist": 4,
+            "psychic": 4,
+            "sorcerer/wizard": 4
+        },
+        "source": "PC-MagicTT",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（物品）",
+        "savingThrow_zh": "意志，通过则无效（物品）"
     },
         {
         "key": "warp wood",
@@ -30775,6 +40315,24 @@ var spellsIndex = [
         "source": "UM",
         "castingTime_zh": "1分钟",
         "spellResistance_zh": "可",
+        "savingThrow_zh": "无"
+    },
+        {
+        "key": "watchful animal",
+        "name": "Watchful Animal",
+        "name_zh": "守望动物",
+        "school": "divination",
+        "subSchool": ["scrying"],
+        "levels":         {
+            "druid": 4,
+            "ranger": 4,
+            "shaman": 4,
+            "sorcerer/wizard": 4,
+            "witch": 4
+        },
+        "source": "PC-SH",
+        "castingTime_zh": "10分钟",
+        "spellResistance_zh": "不可",
         "savingThrow_zh": "无"
     },
         {
@@ -30831,6 +40389,29 @@ var spellsIndex = [
             "witch": 3
         },
         "source": "CRB",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可 (无害)",
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "waterproof",
+        "name": "Waterproof",
+        "name_zh": "防水术",
+        "school": "abjuration",
+        "descriptors": ["water"],
+        "levels":         {
+            "alchemist": 1,
+            "bard": 1,
+            "bloodrager": 1,
+            "cleric": 1,
+            "druid": 1,
+            "magus": 1,
+            "ranger": 1,
+            "shaman": 1,
+            "sorcerer/wizard": 1,
+            "witch": 1
+        },
+        "source": "PC-EMH",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
@@ -30951,6 +40532,21 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
+    },
+        {
+        "key": "weapons against evil",
+        "name": "Weapons Against Evil",
+        "name_zh": "正义之兵",
+        "school": "transmutation",
+        "levels":         {
+            "cleric/oracle": 1,
+            "inquisitor": 1,
+            "paladin": 1
+        },
+        "source": "PC-FoP",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "强韧，通过则无效（物体）"
     },
         {
         "key": "web bolt",
@@ -31163,6 +40759,20 @@ var spellsIndex = [
         "castingTime_zh": "标准动作"
     },
         {
+        "key": "wild instinct",
+        "name": "Wild Instinct",
+        "name_zh": "野性本能",
+        "school": "divination",
+        "levels":         {
+            "bloodrager": 2,
+            "druid": 2,
+            "ranger": 2,
+            "shaman": 2
+        },
+        "source": "PC-HotW",
+        "castingTime_zh": "标准动作"
+    },
+        {
         "key": "wilderness soldiers",
         "name": "Wilderness Soldiers",
         "name_zh": "荒野兵团",
@@ -31280,6 +40890,24 @@ var spellsIndex = [
         },
         "source": "UW",
         "castingTime_zh": "标准动作"
+    },
+        {
+        "key": "winged sword",
+        "name": "Winged Sword",
+        "name_zh": "羽翼之剑",
+        "school": "transmutation",
+        "levels":         {
+            "bloodrager": 2,
+            "inquisitor": 3,
+            "magus": 2,
+            "occultist": 2,
+            "paladin": 2,
+            "sorcerer/wizard": 2
+        },
+        "source": "PC-AAnth",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有（无害，物品）",
+        "savingThrow_zh": "意志，通过则无效（无害，物品）"
     },
         {
         "key": "winter feathers",
@@ -31535,6 +41163,25 @@ var spellsIndex = [
         "savingThrow_zh": "无"
     },
         {
+        "key": "wracking ray",
+        "name": "Wracking Ray",
+        "name_zh": "剧痛射线",
+        "school": "necromancy",
+        "descriptors":         [
+            "evil",
+            "pain"
+        ],
+        "levels":         {
+            "sorcerer/wizard": 5,
+            "witch": 5
+        },
+        "descriptorOperator": "and",
+        "source": "PC-CoC",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "可",
+        "savingThrow_zh": "强韧, 通过则减半"
+    },
+        {
         "key": "wrath",
         "name": "Wrath",
         "name_zh": "狂怒",
@@ -31567,6 +41214,18 @@ var spellsIndex = [
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
+    },
+        {
+        "key": "wrathful weapon",
+        "name": "Wrathful Weapon",
+        "name_zh": "神怒武器",
+        "school": "transmutation",
+        "descriptors": ["see text"],
+        "levels": {"cleric": 4},
+        "source": "PC-ACO",
+        "castingTime_zh": "标准动作",
+        "spellResistance_zh": "有 (物体)",
+        "savingThrow_zh": "意志 (无害，物体)"
     },
         {
         "key": "wreath of blades",

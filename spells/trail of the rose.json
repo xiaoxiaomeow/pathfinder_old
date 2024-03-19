@@ -1,0 +1,31 @@
+{
+    "key": "trail of the rose",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trail-of-the-rose/",
+    "name": "Trail of the Rose",
+    "book": "Pathfinder Player Companion: Faiths of Purity. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "levels":     {
+        "bard": 2,
+        "cleric/oracle": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "S, V",
+    "range": "touch",
+    "target": "1 rose touched",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "no",
+    "spellResistance": "no",
+    "text": "<p>This spell creates an illusory trail in the form of a misty and visible scent coming from the rose used as this spell's material component. When you cast this spell, the scent of the rose leaves a faint pink-tinged illusion that ripples and flows in the area. Only you and up to six creatures you designate upon casting the spell can see the illusion. To designate a creature, you must know it well. It is not enough simply to have met that creature once or heard of the creature. When you move, this illusory scent leaves a trail, though there are no telltale signs of which direction you moved if creatures designated by this spell find a middle section of the trail. This is typically used to create backtracking method for the caster's handpicked allies, useful for navigating in and out of mazes or labyrinthine cave complexes without leaving behind an obvious trail.<\/p>",
+    "name_zh": "步步生华",
+    "race_zh": "莎琳",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，法器",
+    "range_zh": "接触",
+    "target_zh": "一朵玫瑰花",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术可以制造出类似于你施法时手持的那朵玫瑰花一样，但是更加飘渺且带有香味的幻像。当你施放这个法术时，玫瑰花的香气将在它飘过的地方留下粉红色，微弱的悬浮印迹——只有你自己和最多6个选定的生物才能看到这印迹。你必须足够了解一个生物才能赋予他追踪这痕迹的权利（仅仅见过一次面或是听说过是不够的）。在你移动时，这香气和印迹会形成路标，可以看见它的生物可以追踪它当无法分辨一段路标指向的具体方向。这个法术通常被施法者用来指引自己可靠的盟友，在复杂的迷宫或洞窟中探险时留下有效而不易被他人发觉的记号。<\/p>",
+    "source": "PC-FoP"
+}

@@ -1,0 +1,30 @@
+{
+    "key": "familiar figment",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/familiar-figment/",
+    "name": "Familiar Figment",
+    "book": "Pathfinder Player Companion: Animal Archive © 2013, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "your familiar",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p class=\"description\">You create an illusory duplicate of your familiar that moves erratically around your familiar's space, frequently moving through the familiar's body with a blurring effect that makes it indistinguishable from the real creature.<\/p><p>Attacks against your familiar have a 50% miss chance; attacks that miss instead target the <i>familiar figment<\/i>, which reacts as if damaged as appropriate to the attack but unlike a mirror image is not destroyed when struck. This spell does not grant your familiar concealment or prevent it from being targeted by spell effects that do not require an attack roll.<\/p><p>In addition, as a swift action, your familiar can direct the <i>familiar figment<\/i> to attempt a melee touch attack, using your base attack bonus and the familiar's Dexterity modifier. If this attack hits, your familiar (but not other creatures) treats that target as flanked until the end of its turn.<\/p>",
+    "name_zh": "魔宠幻象",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "你的魔宠",
+    "duration_zh": "1轮/等级（D）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你创造出一个和你的魔宠一样的幻影复制体，它不规则的环绕着你的魔宠所处的空间，并且经常穿过魔宠的身体，创造出使两者难以被分辨的朦胧（blurring）效果。对魔宠的攻击都有50%概率失手；失手的攻击会以魔宠幻象为目标，它的反应就像受到攻击一般，但是与镜影术（mirror image）不同的是它被击中时不会被摧毁。该法术不会赋予魔宠隐蔽（concealment），那些不需要攻击检定的法术效果仍旧可以将其作为目标。<\/p><p>此外以迅捷动作，你的魔宠能够指示魔宠幻象，让其尝试进行一次近战接触攻击，使用你的基本攻击加值以及魔宠的敏捷调整值。如果攻击命中，你的魔宠（而非其他生物）会在其回合结束前视该目标为受到夹击一般。<\/p>",
+    "source": "PC-AArch"
+}

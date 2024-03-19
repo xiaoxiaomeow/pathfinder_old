@@ -1,0 +1,35 @@
+{
+    "key": "contagious suggestion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-suggestion/",
+    "name": "Contagious Suggestion",
+    "book": "Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "medium": 4,
+        "mesmerist": 4,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./level)",
+    "target": "one living creature",
+    "duration": "1 hour/level or until completed (d)",
+    "text": "<p>This spell functions as per suggestion, except the target can pass on the enchantment to other targets. The target is compelled to communicate your suggestion to another creature, forcing the new target to attempt a saving throw as if it were the initial target. If a secondary target successfully saves, the suggestion effect on the initial target isn't negated. If a secondary target fails, it is placed under the same compulsion as the initial target and can further spread the suggestion. This spell can affect a total number of Hit Dice of creatures equal to your caster level.<\/p><p>Creatures that save against this spell cannot be affected by that particular casting of <i>contagious suggestion<\/i> for 24 hours.<\/p>",
+    "name_zh": "蔓延性暗示",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级 或 直到完成 (D)",
+    "text_zh": "<p>这个法术如同暗示术（suggestion）一般运作，除了目标可以将惑控效果传递给其他目标。目标不等不将你的暗示传递给其他生物，并强制新的目标如同初始目标一样进行豁免。如果次级目标成功豁免，初始目标的暗示效果也不会失效。如果次级目标豁免失败，那么它会陷入和初始目标一样的暗示并且能够进一步扩散暗示。这个法术能够暗示的生物的总HD等于你的施法者等级。成功豁免这个法术的生物在24小时内不会再被特定的蔓延性暗示影响。<\/p>",
+    "source": "PC-BotB"
+}

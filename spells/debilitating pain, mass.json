@@ -1,0 +1,24 @@
+{
+    "key": "debilitating pain, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/",
+    "name": "Debilitating Pain, Mass",
+    "base": "debilitating pain",
+    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "mind-affecting",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "psychic": 5,
+        "witch": 5
+    },
+    "target": "one creature/4 levels",
+    "text": "<p>This spell functions as per <i>debilitating pain<\/i>, except you can target one creature for every 4 caster levels you have.<\/p><\/div>",
+    "name_zh": "群体衰竭剧痛",
+    "target_zh": "一个生物/4等级",
+    "text_zh": "<p>该法术的功能如同衰竭剧痛一般，除了你可以每4个施法者等级指定一个生物为目标。<\/p>",
+    "source": "PC-PA"
+}

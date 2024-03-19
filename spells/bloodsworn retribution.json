@@ -1,0 +1,27 @@
+{
+    "key": "bloodsworn retribution",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloodsworn-retribution/",
+    "name": "Bloodsworn Retribution",
+    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric/oracle": 6,
+        "paladin": 4,
+        "ranger": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (your blood)",
+    "range": "personal",
+    "target": "you",
+    "duration": "special (see text)",
+    "text": "<p>When you cast this spell, you cut yourself and swear an oath of retribution on your own blood. You decide how much damage you want to take from this attack, up to 25 points. This damage cannot be healed for as long as the spell is in effect. Anytime you perform an attack, save, or check that is directly related to the oath and brings you closer to the fulfillment of that oath, you gain a morale bonus to that roll equal to the number of hit points of damage you took from the oath divided by 5. The GM is the final arbiter over whether or not an action qualifies for this bonus. When you fulfill the oath (or choose to forsake it), the spell ends, and the lost hit points can be healed as normal.<\/p>",
+    "name_zh": "复仇血誓",
+    "race_zh": "德朗维特",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，材料（你的血）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "特殊（见正文）",
+    "text_zh": "<p>当你施放这个法术，你要在自己身上割出伤口，并向你自己的血发誓必定报仇。你可以自己决定这对自己造成多大伤害，最高为25点。只要法术效果还在持续，这些伤害就不能被治愈。每当你进行能够让你更加接近实现誓言的攻击、豁免或其他检定时，你获得等同伤害值除以5的士气加值奖励。GM要最终判定你的该次行为是否能够让你接近实现誓言。当你完成誓言（或决定放弃它）时，法术效果结束，失去的生命值就可以正常愈合。\n例如，一个臭名昭著的强盗头子杀害了斯特格尔（Stigur）的兄弟，而斯特格尔发誓要为死去的兄弟报仇。斯特格尔施放了这个法术，牺牲了20点生命值。此后，斯特格尔对强盗头子的爪牙的攻击骰获得+4士气加值，面对爪牙的法术的豁免、以及强迫线人告诉自己强盗头子所在位置的情报的威吓检定也获得加值，以此类推。<\/p>",
+    "source": "PC-DoG"
+}

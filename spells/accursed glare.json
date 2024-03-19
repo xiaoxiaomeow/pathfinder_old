@@ -1,0 +1,31 @@
+{
+    "key": "accursed glare",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/accursed-glare/",
+    "name": "Accursed Glare",
+    "book": "Pathfinder Player Companion: Blood of the Moon © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["curse"],
+    "levels":     {
+        "antipaladin": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 day/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You channel a fell curse through your glare. If the target fails its saving throw, it begins to obsessively second guess its actions and attract bad luck. Whenever the target attempts an attack roll or saving throw while the curse lasts, it must roll twice and take the lower result. While you cast this spell, an ally within range of the subject can attempt an Intimidate check as a move action (DC = save DC of this spell); on a success, the ally adds its own glare to yours, granting you a +2 bonus on your caster level check to overcome spell resistance (if any). Multiple allies can attempt Intimidate checks; this bonus stacks.<\/p>",
+    "name_zh": "诅咒瞪视",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你以目光引导一个凶猛的诅咒。如果目标豁免失败，他开始犹豫不决、恶运缠身。当他攻击或豁免时，他必须双骰取低。当你释放该法术时，范围内的盟友可以用类移动作做一个威吓检定（DC为该法术的DC）；若成功，他与你一起瞪视目标，让你克服目标法术抗力的施法者等级检定得到+2加值。多个盟友可以尝试该威吓检定，得到的加值叠加。\n新法术\n此法术常被熊人、冷嗣以及与他们有关的生物所使用。<\/p>",
+    "source": "PC-BotM"
+}

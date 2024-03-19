@@ -1,0 +1,26 @@
+{
+    "key": "speak local language",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-local-language/",
+    "name": "Speak Local Language",
+    "book": "Pathfinder Player Companion: Heroes of the Street © 2015, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "inquisitor": 1,
+        "ranger": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "components": "V, M/DF (a worn-out coin)",
+    "text": "<p>This spell functions as tongues, except the creature touched gains only the ability to speak and understand a regional human language and the language granted must be one you know. You must select the language at the time of casting.<\/p><p>The language can't be a dead language.<\/p><p>The target speaks the language with a native accent, but the spell doesn't impart knowledge about any culture associated with the language, nor does it change the target's appearance.<\/p>",
+    "name_zh": "方言术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、材料/法器 (一枚破旧的硬币)",
+    "target_zh": "接触到的生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志，通过则无效 (无害)",
+    "spellResistance_zh": "无",
+    "text_zh": "<p>此法术如同巧言术般作用，除了被接触的生物只能说与理解一门地区性的人类语言，例如瓦瑞西安或通用语(内海地区的塔尔多人或天夏的天洲语)，并且要被授予的语言必须是你所知道的。你必须在施法时选择该语言。这语言不能是绝迹语言，像是古奥西里昂语(Ancient Osiriani)或吉斯塔克语(Jistka)。\n目标说出的该语言会带有地方口音，但是该法术并不授予与该语言相关的任何文化的知识，也不会改变目标的外观。<\/p>",
+    "source": "PC-HotS"
+}

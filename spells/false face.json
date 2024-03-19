@@ -1,0 +1,30 @@
+{
+    "key": "false face",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-face/",
+    "name": "False Face",
+    "book": "Pathfinder Player Companion: Heroes of the High Court © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "alchemist": 1,
+        "bard": 1,
+        "inquisitor": 1,
+        "mesmerist": 1,
+        "sorcerer/wizard": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a folded-paper mask)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level",
+    "text": "<p>This spell alters details of your appearance so that you are no longer recognizable as yourself. Your new appearance is within the norms for your race, ethnicity, and gender. You lack control over the details of your appearance; however, when casting false face, you can choose an appearance you previously used, allowing you to maintain specific identities.<\/p>",
+    "name_zh": "虚假面容",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一个折叠起来的纸面具）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1小时/等级",
+    "text_zh": "<p>这个法术能改变你面容的细节，以至于你看起来和之前判若两人。你的新面孔必须与你原来的的种族，种族特性以及性别相适应。你无法控制自己外表的细枝末节。然而，在施放该法术时，你能选择一个曾经用过的外形，这点允许你可以一直保有一个特定的身份<\/p>",
+    "source": "PC-HotHC"
+}

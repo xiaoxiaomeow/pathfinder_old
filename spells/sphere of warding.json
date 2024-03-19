@@ -1,0 +1,30 @@
+{
+    "key": "sphere of warding",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sphere-of-warding/",
+    "name": "Sphere of Warding",
+    "book": "Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 5,
+        "inquisitor": 4,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "effect": "10-ft.-radius sphere emanating from point touched",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You create a luminescent sphere of orbiting energy that harms incorporeal creatures and dispossesses them of any stolen bodies. An incorporeal creature must succeed at a Will save to enter a space overlapping with the sphere; failure means the creature cannot pass through the sphere, as though it were a wall of force. If the incorporeal creature succeeds, it may pass through the sphere at will, though if it ends its turn within the sphere, it takes a number of points of force damage equal to 1d6 + 1 per caster level (maximum +10).<\/p><p>If a creature possessing another creature's body (via either magic jar or a similar effect) enters a sphere of warding, that creature is immediately ejected from its host body, the host's spirit returns to its body if it's able, and the possession effect immediately ends. When ejected, the body enters the sphere, while the possessing creature takes the appropriate amount of force damage (no save) and is shunted to the exterior of the sphere.<\/p>",
+    "name_zh": "守护神球",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "接触",
+    "effect_zh": "从接触点10呎半径弥漫",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志，通过则无效（见下）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一圈冷色弧光伤害虚体生物并将他们从占据体从驱除出来。尝试进入范围的虚体生物必须通过意志豁免，失败则无法进入，如同被力墙术阻挡一般。若豁免成功，则可自由进出区域，但在区域内结束回合的虚体生物会受到1d6+1/cl（最大+10）的力场伤害。\n若占据体（例如魔魂壶等效果）进入区域，占据者被驱除，占据效果立刻结束，被占据体的灵魂尽可能的回到本身。被驱除的瞬间占据者会受到如上力场伤害（无豁免），并被隔绝在区域外。\n亡灵杀手法术\n像处理那些奴仆等级的不死生物(如殭尸、骷髅)，朴实的棍棒与弯刀已经足够了。但是，经验丰物的亡灵杀手们知道当遇到那些奴仆们的主人，单纯的暴力是不够的。那些希望与巫妖、夜影、尸妖以及其他进阶的不死生物战斗的人，最好带着强大的法术去战斗。下列几个新法术在与不死生物交战时特别有用。<\/p>",
+    "source": "PC-USH"
+}

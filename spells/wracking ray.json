@@ -1,0 +1,34 @@
+{
+    "key": "wracking ray",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wracking-ray/",
+    "name": "Wracking Ray",
+    "book": "Pathfinder Player Companion: Champions of Corruption © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "pain"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, M (an old bone, broken in the casting)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "ray",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude half",
+    "spellResistance": "yes",
+    "text": "<p>A ray of sickly greenish-gray negative energy issues forth from the palm of your hand.<\/p><p>Make a ranged touch attack against the target. A creature hit by this spell is wracked by painful spasms as its muscles and sinews wither and twist. The subject takes 1d4 points of Dexterity and Strength damage per 3 caster levels you possess (maximum 5d4 each). This spell cannot reduce an ability score below 1. A successful Fortitude save halves the damage.<\/p>",
+    "name_zh": "剧痛射线",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、材料 (一根老骨头，在施法中破碎)",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "射线",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>一道恶心的绿灰色负能量射线，从你的手掌向外发出。对目标进行一次远程接触攻击。被此法术击中的生物会因痛苦的痉挛而崩坏，它的肌肉与肌腱会萎缩并扭曲。受术者在敏捷与力量上，会受到1d4点伤害/每三个你拥有的施法者等级(最大每项5d4)。此法术无法将一项属性降至低于1。强韧豁免检定成功，可以将此伤害减半。<\/p>",
+    "source": "PC-CoC"
+}

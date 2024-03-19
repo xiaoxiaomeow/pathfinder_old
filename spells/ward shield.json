@@ -1,0 +1,31 @@
+{
+    "key": "ward shield",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/ward-shield/",
+    "name": "Ward Shield",
+    "book": "Pathfinder Player Companion: Knights of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "shield touched",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>With a touch, you enchant a shield and enable it to protect its wielder from hostile spells.<\/p><p>The shield grants spell resistance 10 + your caster level against spells so long as the shield can be interposed between the wielder and the spell effect. A spell shield does not provide spell resistance against area effect spells such as fireball, but does provide a +5 bonus on Reflex saving throws against such spells.<\/p>",
+    "name_zh": "盾卫术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "被碰到的盾牌",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>透过触碰，你对一面盾牌施法，并使其能够从带有敌意的法术中保护挥舞者。只要这面盾牌可以插进挥舞者与法术效果之中，此盾牌会给予10+你的施法者等级的法术抗力来对抗法术。法术护盾(spell shield，魔战士奥能)不能对区域效果的法术，像是火球术(fireball)提供法术抗力，但在对抗此类的法术时会在反射豁免检定上给予+5的加值。\n边拦：赛伦的盔甲\n尽管赛伦的战地手册是以这位魔战士的名义所留下来最知名的遗产，但这不代表着他对骑士风格魔法领域的贡献仅仅只有如此。鲜为人知的是这位魔战士的魔法盔甲，这件半身甲(half-plate)之所以引人注意，不仅仅是因为它防护的性能，也因为那藏在每一片金属板里面的学问。\n在每一块赛伦盔甲的内部，这位半精灵刻着由他自己创造的法术，在本质上\n是转变每一块金属板，让每一块金属板同时是盔甲与卷轴一部分。那些够幸运能找到目前散落在世界各地的赛伦盔甲的部分的人，无论是保存在收藏家的宝库内，被当作大军阀的陪葬品，或著是与失事的船只沉眠深海，都被认为不仅获得了魔法装备的好处，也知晓了赛伦手创魔法的内情。赛伦甚至从他的战地手册中省略了某些失落的法术，像是强大的塑能系法术，可以完全泯灭掉攻城武器以及复苏并聚在一起的不死大军，他害怕并认为这样的魔法不应该落入错误的人的手中。<\/p>",
+    "source": "PC-KotIS"
+}

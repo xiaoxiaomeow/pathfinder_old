@@ -1,0 +1,30 @@
+{
+    "key": "suspend drowning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suspend-drowning/",
+    "name": "Suspend Drowning",
+    "book": "Pathfinder Player Companion: Blood of the Sea © 2017, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "druid": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The affected creatures immediately—though temporarily—stop drowning and cannot suffocate or drown while this spell is in effect. A target that had been reduced to below 1 hit point from drowning immediately returns to 1 hit point. The magic of this spell allows the targets to breathe, drink, and talk normally for the duration of the spell, but targets cannot inhale to increase the amount of air remaining in their lungs. When the spell effect ends, the target resumes drowning unless it is in an environment that allows it to breathe normally (such as an air-breathing creature returning to the surface) or has obtained a method of breathing normally (such as by consuming a potion of water breathing).<\/p>",
+    "name_zh": "暂缓溺水",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个中型或更小的溺水生物/等级，彼此相距不得超过20呎",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>受影响的生物立即——虽然是暂时的——停止溺水，且在法术生效时不能窒息或溺毙。一个生命值已经因为溺水降到1以下的目标会立刻恢复到1点生命值。魔法会让目标在法术的持续时间里可以正常呼吸、喝水和说话，但是目标不能吸入空气以增加肺部剩余的空气量。当法术效果结束时，目标会恢复溺水状态，除非处于一个允许他正常呼吸的环境中（例如一个呼吸空气的生物返回到了水面），或者已经获得了正常呼吸的方法（比如通过喝下一瓶水下呼吸药剂）。<\/p>",
+    "source": "PC-BotS"
+}
