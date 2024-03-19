@@ -1,0 +1,30 @@
+{
+    "key": "lipstitch",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lipstitch/",
+    "name": "Lipstitch",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (a bone needle and sinew thread)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>A rare spell without verbal components, <i>lipstitch<\/i> sews the target's lips tightly together if it fails a saving throw, such that no clear speech, bite attacks, spellcasting, or use of command words is possible. The target takes 1d6 points of damage as the stitches weave through flesh. The victim can still make enough noise to be heard at a distance with a DC 10 Perception check.<\/p><p>The thread created by <i>lipstitch<\/i> can be burst with a DC 20 Strength check as a standard action or can be sliced open with a piercing or slashing weapon (wielded by the target or an ally) as a full-round action. Cutting the thread provokes attacks of opportunity, while making a Strength check does not. Either option causes 1d6 points of damage and 1 point of bleed damage. The target has a 20% chance of failing to cast spells with verbal components until the bleeding is stopped. The effects of multiple castings of this spell do not stack. Optionally, the thread can be removed more carefully over the course of a minute with a DC 20 Heal check. If the check fails, the target takes damage and bleeds as described above. If the check succeeds, the stitches are removed with no harm. Creatures with no mouths are unaffected by <i>lipstitch<\/i>. Creatures with multiple mouths lose the use of only one mouth per casting—the particular mouth is chosen by the caster.<\/p>",
+    "name_zh": "缝唇术",
+    "race_zh": "",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势、材料 (一根骨针与线卷)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这是少数不需要语言成分的法术，如果受术者豁免失败，缝唇术能将受术者的嘴唇紧密缝合，让他无法清楚地说话、使用噬咬攻击、施法或使用关键字。受术者会因为针织缝合血肉的缘故，受到1d6点伤害。受术者仍可以弄出够大，通过DC10的察觉检定可以在一定距离内听到的噪音。\n被缝唇术缝合的嘴唇能以一个标准动作，通过DC20的力量检定来挣开，或以一个整轮动作，使用穿刺或挥砍武器划开(由受术者或其一位盟友进行)。切断缝线会引发借机攻击，但进行力量检定不会。无论你选择哪个，都会受到1d6点伤害以及1点流血伤害。受术者施展带有语言成分的法术，会有20%的机率施法失败，直到流血停止。多次施法本法术，其效果不会叠加。你还可以选择花一分钟，通过DC20的医疗检定，小心翼翼的拆除缝线。如果检定失败，受术者会受到上述所说的伤害以及流血。如果检定成功，缝线可以无害的拆除。没有嘴巴的生物不受缝唇术影响。有好几张嘴巴的生物，每一次施法会使他无法使用一张嘴巴─具体是哪张嘴，由施法者决定。<\/p>",
+    "source": "CS-PSFG"
+}

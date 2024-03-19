@@ -1,0 +1,30 @@
+{
+    "key": "khain's army",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-army/",
+    "name": "Khain's Army",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a handful of ghoul's teeth)",
+    "range": "5 feet",
+    "effect": "1d4+1 ghouls and 1 ghast",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude half (see text)",
+    "spellResistance": "no",
+    "text": "<p>By scattering a handful of ghoul's teeth across the ground, you cause 1d4+1 ghouls led by a single ghast to rise up from the ground around you. The ghouls and their ghast leader must appear in squares adjacent to you, but after that they follow your spoken commands unerringly.<\/p><p>If one of the ghouls is destroyed while the spell's duration is still in effect, it bursts into a spray of rotten flesh and necromantic energy that deals 1d6 points of negative energy damage to all adjacent targets—this energy heals undead targets as typical for negative energy damage. If the ghast is destroyed in this manner, it deals twice as much negative energy damage as a ghoul. A successful Fortitude save halves the negative energy damage dealt. When this spell's duration expires, any remaining undead created by this spell crumble apart into dust and blow away without dealing any additional negative energy damage.<\/p>",
+    "name_zh": "科罕之军势",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一把食尸鬼牙齿）",
+    "effect_zh": "1d4 + 1个食尸鬼和1个妖鬼",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧，通过则减半（见后文）",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术最初由尼姆莱特诺托瑞亚的神王（priest-king of Nemret Noktoria）食尸鬼科塔什科罕（the ghoul Kortash Khain）所创，他的爪牙们使用这个法术支援军队以对抗敌人，科罕之军势已经成为了奥希里昂（Osirion）乃至于其他地区的死灵师最为青睐的法术。通过往地面洒出一把食尸鬼牙齿，你能够从周围的土地中唤起1d4 + 1个食尸鬼（ghouls），还有1个妖鬼（ghast）领导它们。这些食尸鬼与它们的妖鬼队长必须出现在与你相邻的方格中，但是在此之后他们就能够正确地遵从你说出的命令。\n若在法术的持续时间仍在生效时，其中1个食尸鬼被摧毁，那么它会爆炸并喷溅出腐肉与负能量，这会对所有相邻的目标造成1d6点负能量伤害——作为负能量那具有代表性的效果，这些能量会治愈不死目标。若妖鬼以此种方式被摧毁，那么它会造成的负能量伤害为食尸鬼的两倍。成功的强韧豁免能使负能量伤害减半。在该法术的持续时间结束时，任何该法术所创造的剩余不死生物会化作飞灰，并且不会造成任何额外的负能量伤害。<\/p>",
+    "source": "CS-ISM"
+}

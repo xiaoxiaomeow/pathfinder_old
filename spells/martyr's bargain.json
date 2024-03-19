@@ -1,0 +1,30 @@
+{
+    "key": "martyr's bargain",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/martyr-s-bargain/",
+    "name": "Martyr's Bargain",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "subSchool": ["good"],
+    "levels":     {
+        "cleric": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>Among the faithful followers of the gods of purity <i>martyr's bargain<\/i> represents true faith and true sacrifice.<\/p><p>You cast this spell as an immediate action when you are subject to a spell or spell-like ability that deals hit point damage, after attack rolls and saving throws have been rolled but before the damage itself is determined. The damage dealt by the spell and any related effects are then delayed for you (and you only) for a number of rounds equal to your caster level.<\/p><p>At the end of that time (or immediately if martyr's bargain is dispelled), the delayed damage takes effect on you as it would have at the time it was cast, but is maximized as if affected by the Maximize Spell metamagic feat. Spells and spell-like abilities that were already maximized gain no additional benefit from this spell. Nothing can prevent this delayed damage from affecting you.<\/p><p>You can be affected by only one martyr's bargain spell at a time. If you cast this spell while you are already under the effects of a previous martyr's bargain, the previous spell effect ends and you immediately take the damage it had delayed.<\/p>",
+    "name_zh": "殉道者之约",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>对于那些纯洁之神的忠实追随者来说——无论是潜伏于奈多（Nidal）的黛丝娜（Desna）之仆从，对抗切利亚斯魔鬼政权的密拉妮（Milani）的热诚信徒，对抗四溢着恐惧的世界之殇（Worldwound）的艾奥梅黛（Iomedae）圣武士，还是其他在世界各地对抗邪恶的勇士——殉道者之约均代表着真正的信仰与纯粹的奉献。\n当你成为能够造成生命值伤害的法术或类法术能力的受术者，并且攻击检定或豁免检定已经做出，而伤害确定之前，你能够以直觉动作施放该法术。由法术或任何相关效果造成的伤害对你来说（且只是对你自己来说）会延后，延后的轮数等同于你的施法者等级。\n在这段时间结束时（若殉道者之约被解除则立即结算后述效果），被延迟的伤害会对你生效，就如同之前对你施放的时候一样，但是它会产生极效，就如同受到法术极效（Maximize Spell）超魔专长影响一般。已经被极效的法术或类法术能力则不会由于该法术产生额外的影响。没有能够阻止被延迟的伤害对你产生影响的方法。\n同一时间你仅能受到一个殉道者之约的影响。若你在施放该法术时，已经处于之前所施放的殉道者之约影响，那么先前的效果结束，并且你会立即受到已经延迟的伤害。<\/p>",
+    "source": "CS-ISM"
+}

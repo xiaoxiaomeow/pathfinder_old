@@ -1,0 +1,32 @@
+{
+    "key": "summon vanth",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-vanth/",
+    "name": "Summon Vanth",
+    "book": "Pathfinder Adventure Path #80: Empty Graves © 2014, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 5,
+        "witch": 6
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (a vulture skull funerary mask)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned vanth psychopomp",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like summon monster, except that it summons a single vanth psychopomp.<\/p>",
+    "name_zh": "召唤护魂使",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材/法器（一副秃鹫头骨制作的葬礼面具）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一只召唤的万特护魂使",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术如同召唤怪物一样作用，除了它召唤单独一只万特护魂使。万特护魂使的详细数据在《怪物图鉴4》的221页。\n（译注：有种骨园的员工都在走穴的既视感......）<\/p>",
+    "source": "AP-MM"
+}

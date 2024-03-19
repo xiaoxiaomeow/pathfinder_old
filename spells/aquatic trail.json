@@ -1,0 +1,33 @@
+{
+    "key": "aquatic trail",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aquatic-trail/",
+    "name": "Aquatic Trail",
+    "book": "Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.",
+    "school": "divination",
+    "descriptors": ["water"],
+    "levels":     {
+        "druid": 3,
+        "hunter": 2,
+        "inquisitor": 3,
+        "ranger": 2,
+        "shaman": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "circle centered on you, with a radius of 100 feet + 10 feet per level",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You use divination magic to enhance the underwater trails in the area around you, allowing you to track creatures through the water as if across soft ground as long as they passed through the area less than 1 week ago (this lets you notice trails that are much older than normal underwater trails). The spell's area moves with you, so you can follow the trail through the water over long distances. Other creatures can also follow the trail as long as they move with you. Because of the plethora of sea creatures in the higher zones, it's possible that the trail that most interests you will be covered by the trails of other aquatic creatures.<\/p>",
+    "name_zh": "水下追迹",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "以你为中心的圆形区域，半径为100呎+10呎/等级",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你用预言魔法来放大你周围水体中的踪迹，只要有生物在一周内经过了该法术的区域，你就可以追踪他们，就如同它们走在柔软的地面上（这能让你觉察到比通常水下踪迹更久远的那些踪迹）。该法术的区域会随着你移动，所以在法术持续时间内，你可以一直跟随那些踪迹。因为绝大部分的海洋生物都生活在较浅的海洋区域，所以你最感兴趣的那条踪迹很有可能会被其他水下生物的踪迹掩盖，这让这个法术在深渊区域（Abyssal）和无底区域（Abaddonian）变得比平常更为有用。<\/p>",
+    "source": "CS-AquaA"
+}

@@ -1,0 +1,27 @@
+{
+    "key": "lost locale, samsaran",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lost-locale-samsaran/",
+    "name": "Lost Locale, Samsaran",
+    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "psychic": 9,
+        "sorcerer/wizard": 9
+    },
+    "castingTime": "24 hours",
+    "range": "1 mile/level",
+    "area": "one 1-mile cube/level",
+    "text": "<p>This spell functions as lost passage (see below), except that it affects a larger area.<\/p><p>Lost locale can be made permanent with permanency at a cost of 90,000 gp.<\/p>",
+    "name_zh": "迷失方位",
+    "castingTime_zh": "24小时",
+    "components_zh": "语言，姿势",
+    "range_zh": "1英里/等级",
+    "area_zh": "每等级一个 1英里立方体（可变）",
+    "duration_zh": "2小时/等级（可解消）",
+    "savingThrow_zh": "意志过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>如同迷路术（Lost Passage），区别如上所述。此法术可以用90000gp来通过魔法恒定术（permanency）进行恒定。<\/p>",
+    "source": "CS-ISR"
+}

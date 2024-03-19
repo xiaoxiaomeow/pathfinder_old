@@ -1,0 +1,29 @@
+{
+    "key": "rebuke technology",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rebuke-technology/",
+    "name": "Rebuke Technology",
+    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "druid": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (powdered fragments of technology)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one technological object or creature",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>You shroud the targeted technological object or creature (such as a robot or a nanotech swarm) with magical energy. If the targeted creature fails to resist the spell, it is rendered inert and unusable (or unconscious in the case of creatures) for the spell's duration. A creature can attempt a new Fortitude saving throw to end the effect early at the end of its turn after the first full round it is affected by this spell.<\/p>",
+    "name_zh": "打击科技",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，语言，材料/法器（一把碾碎的科技产品）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个科技物体或构造体",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧无效（物体）；",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>你操控破坏性的魔法能量笼罩住目标科技物品或生物（比如一个机体或纳米机械群），如果这个生物在对抗法术的豁免检定上失败，它就会在法术的持续时间内停机并无法启动（对于生物来说则是失去意识）。在法术效果开始一轮后，目标生物可以在它的回合时进行一次新的豁免检定以结束本法术的影响。<\/p>",
+    "source": "CS-TG"
+}

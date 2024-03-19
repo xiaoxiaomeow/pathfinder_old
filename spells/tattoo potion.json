@@ -1,0 +1,30 @@
+{
+    "key": "tattoo potion",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tattoo-potion/",
+    "name": "Tattoo Potion",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 2,
+        "bard": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (a potion to be tattooed, special inks worth 500 gp)",
+    "range": "one potion",
+    "effect": "one spell tattoo",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>When you cast this spell, you mix special tattoo inks into a potion of your choice. Once you finish casting <i>tattoo potion<\/i> , the potion begins bubbling and fizzing—if no one drinks the potion within 1 minute of the spell being cast, the potion bubbles away into vapor and is destroyed.<\/p><p>When a potion under the effects of <i>tattoo potion<\/i> is imbibed, the effects of the potion do not occur. Instead, the potion transforms into a <i>spell tattoo<\/i> on the drinker's chest tattoo slot—if the drinker already has a magic tattoo in this location, the <i>tattoo potion<\/i> is wasted. Once the potion transforms into a <i>tattoo spell<\/i>, it remains in place permanently until it is used as a <i>spell tattoo<\/i>.<\/p>",
+    "name_zh": "刺青药剂",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势，材料（要用于刺青的药水，外加价值500gp的特殊墨水）",
+    "effect_zh": "一个魔法刺青",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当你施放该法术时，会将特殊的刺青墨水和你所选择的一瓶药水混合起来。当你完成施放刺青药剂后，这瓶药水会开始冒泡并发出滋滋的声音——若在法术施放完成后的1分钟内无人喝下这瓶药水，那么它就会不断起泡蒸发，最终被摧毁。\n当一瓶药水处于刺青药剂的效果影响之时，饮用这瓶药水并不会产生任何效果。这瓶药水反而会转化为一个法术刺青（Spell Tattoo，见内海魔法），并占用饮用者的前胸刺青位（chest tattoo slot）——若饮用者在这个部位已经有一个魔法刺青了，那么刺青药剂会被浪费。一旦药水被转化为法术刺青，她会永久保持在这个位置，直至法术刺青被使用掉为止。<\/p>",
+    "source": "CS-ISM"
+}

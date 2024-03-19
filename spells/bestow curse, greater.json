@@ -1,0 +1,23 @@
+{
+    "key": "bestow curse, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse/",
+    "name": "Bestow Curse, Greater",
+    "base": "bestow curse",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 7,
+        "sorcerer/wizard": 8,
+        "witch": 7
+    },
+    "subdomains": {"corruption": 6},
+    "text": "<\/div>",
+    "name_zh": "高等降咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "target_zh": "接触到的生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "意志无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你对受术者降下诅咒。从后述效果中选择一项：\n一项属性值受到-12减值，或两项属性值受到-6减值（最低降至1点）。 \n攻击投骰、豁免、属性检定以及技能检定受到-8减值。 \n每回合目标只有25%概率能正常行动；否则它无法进行动作。 \n施加本文（this article，是啥我也不知道）中的诅咒或变体之一。 \n施加岁月诅咒或厄运（《核心规则书》557页）。\n如果被施加了特定的苦难，法术的豁免DC将取代该苦难的通常豁免DC。你也可以创造出你自己的诅咒，但它不应该比上面描述的这些效果更强。\n该法术所施加的诅咒不能被解除，但可以用破除结界、有限祈愿术、神迹术或祈愿术来移除。它不能被移除诅咒移除或被延缓诅咒压制。使用破除结界移除这一诅咒的DC增加5点。<\/p>",
+    "source": "AP-MM"
+}

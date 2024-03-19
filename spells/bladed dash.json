@@ -1,0 +1,26 @@
+{
+    "key": "bladed dash",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bladed-dash/",
+    "name": "Bladed Dash",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 2,
+        "magus": 2,
+        "skald": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>When you cast this spell, you immediately move up to 30 feet in a straight line any direction, momentarily leaving a multi-hued cascade of images behind you. This movement does not provoke attacks of opportunity. You may make a single melee attack at your highest base attack bonus against any one creature you are adjacent to at any point along this 30 feet. You gain a circumstance bonus on your attack roll equal to your Intelligence or Charisma modifier, whichever is higher. You must end the bonus movement granted by this spell in an unoccupied square. If no such space is available along the trajectory, the spell fails. Despite the name, the spell works with any melee weapon.<\/p>",
+    "name_zh": "飞刃袭",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>量子城（Quantium，奈克斯首都）与扎摩诔（Jalmeray）都声称该法术是诞生自本国的奥术学府中。无论该法术的起源为何，它迅速传遍了整个内海地区，并且不再局限于那些用剑战斗的施法者所学的范畴中。\n当你施放该法术时，你会立即向着任意方向以直线移动至多30尺，并在身后留下彩色的残影。这次移动不会引起借机攻击。你可以使用自身最高的基本攻击加值进行单次近战攻击，对抗与沿着30尺路径中任意一点相邻的一个生物。你的攻击检定获得等同于智力或者魅力调整值（取较高者）的环境加值。你必须在一个未被占用的空间内结束该法术给予的额外移动。若沿着轨迹并没有上述可用空间的话，则该法术失败。尽管该法术叫做飞刃袭，不过使用任何近战武器时均可施放它。<\/p>",
+    "source": "CS-ISM"
+}

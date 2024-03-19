@@ -1,0 +1,28 @@
+{
+    "key": "fallback strategy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fallback-strategy/",
+    "name": "Fallback Strategy",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "paladin": 1,
+        "magus": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level or until discharged; see text",
+    "text": "<p>While this spell is active, you may reroll one attack roll, combat maneuver check, or skill check before the result of the roll or check is known. You must take the result of the reroll, even if it's worse than the original roll. Once the reroll is used, the spell ends. You can have no more than one <i>fallback strategy<\/i> active on you at the same time.<\/p>",
+    "name_zh": "转进战略",
+    "race_zh": "拖拉格",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 或 直到释放 (见下)",
+    "text_zh": "<p>你可以重投一个你刚刚进行而GM还没宣布该次投骰结果是成功或失败的一次投骰。你必须接受重投的结果，就算它比原先的更糟。本法术只能用在你有计划(就算只是一瞬间)并且决定依计行事的行动上，因为其他人的行动所做出的反应行动(reactive actions)不算。\n你在任何时间只能拥有此法术一次在身上。<\/p>",
+    "source": "CS-GaM"
+}

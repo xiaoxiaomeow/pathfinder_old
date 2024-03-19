@@ -1,0 +1,21 @@
+{
+    "key": "summon ceustodaemon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-ceustodaemon/",
+    "name": "Summon Ceustodaemon",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "witch": 5
+    },
+    "components": "V, S, F (ashes of a dead animal)",
+    "text": "<p>This spell functions like summon monster, except it summons a single ceustodaemon.<\/p>",
+    "name_zh": "召唤仆役邪魔",
+    "components_zh": "语言、姿势、器材(死亡的动物的灰烬)",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只仆役邪魔。<\/p>",
+    "source": "CS-BotD3"
+}

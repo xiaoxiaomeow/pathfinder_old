@@ -1,0 +1,30 @@
+{
+    "key": "cloud of seasickness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloud-of-seasickness/",
+    "name": "Cloud of Seasickness",
+    "book": "Pathfinder Adventure Path #55: The Wormwood Mutiny © 2012, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "descriptors": ["poison"],
+    "levels":     {
+        "cleric": 2,
+        "druid": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of seaweed)",
+    "range": "close (25 ft. + 5 ft./2 levels) effect cloud spreads in 20-ft. radius, 20 ft. high",
+    "duration": "1 round/level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like stinking cloud, except as noted above and that the vapors make creatures sickened instead of nauseated.<\/p><p><i>Cloud of seasickness<\/i> can be made permanent with a permanency spell (requiring a 9th-level caster and costing 2,500 gp). A permanent cloud of seasickness dispersed by wind reforms in 10 minutes.<\/p>",
+    "name_zh": "恶心之云",
+    "castingTime_zh": "标准动作",
+    "components_zh": "　           语言，姿势，材料（一片海草）",
+    "effect_zh": "　           半径20尺扩散范围，20尺高的云团",
+    "duration_zh": "　           1轮/等级",
+    "savingThrow_zh": "　           强韧，通过则无效；见后文",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术如同臭云术（Stinking Cloud），除了上述注明外，此云雾使生物恶心而非反胃。\n恶心之云（Cloud of Seasickness）能以魔法恒定术（Permanency）恒定（需要9级施法者和2500gp）。被风吹散的恒定恶心之云（Cloud of Seasickness）会在十分钟后重组。<\/p>",
+    "source": "AP-SkullS"
+}

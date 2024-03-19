@@ -1,0 +1,32 @@
+{
+    "key": "summon lesser psychopomp",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-lesser-psychopomp/",
+    "name": "Summon Lesser Psychopomp",
+    "book": "Pathfinder Adventure Path #80: Empty Graves © 2014, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "sorcerer/wizard": 5,
+        "summoner": 4,
+        "witch": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (a crocodile skull funerary mask)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one or more summoned psychopomps (see text)",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like summon monster, except that it summons 1d3 esobok psychopomps or 1d4+1 nosoi psychopomps.<\/p>",
+    "name_zh": "召唤次级招魂者",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材/法器（一副鳄鱼头骨制作的葬礼面具）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一只或更多召唤的招魂者（见下文）",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术如同召唤怪物一样作用，除了它召唤1d3只招魂者，埃斯波克或1d4+1只招魂者，疫鸟。招魂者，埃斯波克的详细数据在本书84页。招魂者，疫鸟的详细数据在《怪物图鉴4》的220页。<\/p>",
+    "source": "AP-MM"
+}

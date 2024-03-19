@@ -1,0 +1,32 @@
+{
+    "key": "vexing miscalculation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vexing-miscalculation/",
+    "name": "Vexing Miscalculation",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 2,
+        "inquisitor": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 min./level or until discharged",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You frustrate an opponent with ill fortune that leads even its most accurate attacks astray. The target is unable to score critical threats for the duration of this spell, even if the result of its roll would normally be a critical threat. If the creature rolls a natural 20, the attack still hits regardless of its opponent's AC, but the hit is not eligible for a critical confirmation roll. Once a critical threat has been foiled by vexing miscalculation, the spell is discharged.<\/p>",
+    "name_zh": "恶意误判",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1分钟/等级或直到消解",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你用恶毒的霉运困扰一个敌人，让他打出的最精妙的攻击也徒劳无力。在法术生效期间，目标无法确认重击，即使他的攻击检定结果已经落入了重击范围也一样。如果目标在攻击检定中骰出了自然骰20，那么他也只能无视防御等级命中目标而不能确认重击。一旦这个法术成功的阻止了一次重击，那么它就消解了。<\/p>",
+    "source": "CS-ISG"
+}

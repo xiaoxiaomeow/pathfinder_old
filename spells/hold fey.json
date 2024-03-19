@@ -1,0 +1,24 @@
+{
+    "key": "hold fey",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-fey/",
+    "name": "Hold Fey",
+    "book": "Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "cleric": 2,
+        "inquisitor": 2,
+        "sorcerer/wizard": 3,
+        "witch": 2
+    },
+    "components": "V, S, F/DF (a small, straight piece of iron)",
+    "target": "one fey creature",
+    "text": "<p>This spell functions as per hold person, except it affects a fey instead of a humanoid.<\/p>",
+    "name_zh": "精类定身术",
+    "components_zh": "语言、姿势、器材/法器(一小条笔直的铁片)",
+    "target_zh": "一名精类生物",
+    "text_zh": "<p>此法术效果如同人类定身术(hold person)，除了只影响精类而非类人外。<\/p>",
+    "source": "CS-TFWRotF"
+}

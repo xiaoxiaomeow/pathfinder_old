@@ -1,0 +1,19 @@
+{
+    "key": "summon derghodaemon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-derghodaemon/",
+    "name": "Summon Derghodaemon",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 9,
+        "sorcerer/wizard": 9,
+        "witch": 9
+    },
+    "components": "V, S, F (a handful of bug carapaces)",
+    "text": "<p>This spell functions like summon monster, except it summons a single derghodaemon.<\/p>",
+    "name_zh": "召唤异虫邪魔",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只异虫邪魔。<\/p>",
+    "source": "CS-BotD3"
+}

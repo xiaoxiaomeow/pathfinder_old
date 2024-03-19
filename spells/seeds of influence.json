@@ -1,0 +1,37 @@
+{
+    "key": "seeds of influence",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/seeds-of-influence/",
+    "name": "Seeds of Influence",
+    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 3,
+        "medium": 3,
+        "mesmerist": 3,
+        "psychic": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "S, M (a rose)",
+    "range": "close (25 ft. + 5 ft./2 levels) targets one creature",
+    "duration": "1 hour/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You leave a magical trace in the mind of a creature with an attitude of at least indifferent toward you. The target takes a cumulative –2 penalty on its Will save to negate the spell for each step by which its attitude is better than indifferent.<\/p><p>The target takes a –2 penalty on saving throws against divination spells you cast. You can target that creature with mind-affecting spells of a spell level lower than seeds of influence as if those spells were modified by Enlarge Spell (the modified spell doesn't take longer to cast and doesn't use a higher-level spell slot). Whenever the target succeeds at a saving throw against a divination or mind-affecting spell you cast, seeds of influence ends for that target. A creature can be subject to only one seeds of influence spell at a time; later castings of seeds of influence remove any previous casting.<\/p>",
+    "name_zh": "影响之种",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，材料（一朵玫瑰）",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级（可消解）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你在一个生物的脑海中留下一种魔法痕迹，他对你的态度至少要为冷淡。他对你的态度每比冷淡好一层，就在抵消法术的意志豁免上获得-2的积累惩罚。目标在对抗你施放的预言法术的豁免检定上受到-2惩罚。如果你对生物使用等级低于影响之种的影响心灵法术，则这些法术如同受到法术增远调整（调整后的法术不会需要更长时间施展，也不会占用更高级的法术位）。无论何时当目标成功完成一次对预言或影响心灵法术的豁免，影响之种就会结束。一个生物同时只能受到一个影响之种法术的影响；之后施展的任何影响之种都会抹消以前施展的相同法术。<\/p>",
+    "source": "CS-ISI"
+}

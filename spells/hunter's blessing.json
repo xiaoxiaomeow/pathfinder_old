@@ -1,0 +1,32 @@
+{
+    "key": "hunter's blessing",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-blessing/",
+    "name": "Hunter's Blessing",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 5,
+        "druid": 5,
+        "inquisitor": 5,
+        "shaman": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>When casting this spell, you designate a type or type and subtype of creature (using the ranger's favored enemy categories and a type of terrain (using the list of ranger's favored terrain categories).<\/p><p>Targets of the spell gain a +2 sacred bonus on Bluff, Perception, Sense Motive, and Survival checks attempted against creatures of the selected type, and a +2 sacred bonus on attack rolls and damage rolls made against creatures of that type.<\/p><p>Furthermore, they gain a +2 sacred bonus on initiative checks, Perception, Stealth, and Survival checks while they are in the type of terrain you designate.<\/p><p>Lastly, when tracking the designated creature type in the chosen terrain, the targets can follow the tracks of such creatures untrained, even if the DC for the task is 11 or higher.<\/p>",
+    "name_zh": "猎手祝福",
+    "race_zh": "埃拉斯蒂尔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物/等级，每个生物之间相距不能超过30尺",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>当施放这个法术时，你选择一种（以及特定亚种）生物（使用游侠的宿敌列表以确定该生物）。在对抗此类生物时，目标在唬骗，察觉，察言观色和生存检定上获得+2神圣加值，在攻击和伤害检定上也获得+2神圣加值。除此之外，你选择一种地形，目标在该地形中在先攻检定，察觉，潜行和生存检定上获得+2神圣加值，并且可以在该地形中进行追踪，即使他们未受训且DC高于11。<\/p>",
+    "source": "CS-ISG"
+}

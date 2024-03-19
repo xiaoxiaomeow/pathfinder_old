@@ -1,0 +1,27 @@
+{
+    "key": "beacon of luck",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/beacon-of-luck/",
+    "name": "Beacon of Luck",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "cleric/oracle": 3,
+        "inquisitor": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a tuft of rabbit fur)",
+    "range": "personal; see text",
+    "target": "you",
+    "duration": "1 min./level (d)",
+    "text": "<p>You send out a burst of luck with a 30-foot radius centered around you. While the beacon of luck is in effect, you gain a +2 sacred bonus on all saving throws. As an immediate action before a saving throw is made, allies within the area can choose to benefit from this luck, rolling twice for a saving throw and taking the better result. Once a creature benefits from the beacon of luck in this way, it cannot gain the benefit of this spell for 24 hours.<\/p>",
+    "name_zh": "幸运灯塔",
+    "race_zh": "戴斯娜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一撮兔毛）",
+    "target_zh": "你",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你成为散发好运的信标，在法术生效期间，你在豁免检定上获得+2神圣加值。在你周围30尺内的所有盟友都可以被运气所浸染，可以在一次豁免检定上双骰取高。如果一个生物通过这种方法获得了幸运灯塔的好处，那么他在接下来的24小时内无法在获得此法术的好处。<\/p>",
+    "source": "CS-ISG"
+}

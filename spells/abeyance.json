@@ -1,0 +1,30 @@
+{
+    "key": "abeyance",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/abeyance/",
+    "name": "Abeyance",
+    "book": "Pathfinder Adventure Path #82: Secrets of the Sphinx © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 2,
+        "inquisitor": 2,
+        "paladin": 2
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M (a flask of holy water worth 25 gp), DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "24 hours",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>Abeyance suppresses the effects of a single curse on a creature. It does not restore any damage or drain that might have been caused by the curse. Abeyance cannot suppress curses that cannot be removed by remove curse, but it can suppress curses such as lycanthropy that require remove curse along with additional measures. An individual curse can be suppressed only once by abeyance, even if cast by a different caster.<\/p><p>Abeyance does not allow a creature to divest itself of cursed objects, though it can suppress a curse contracted from an object.<\/p>",
+    "name_zh": "延缓诅咒",
+    "castingTime_zh": "1分钟",
+    "components_zh": "V，S，M（一瓶价值25gp的圣水），DF",
+    "range_zh": "接触",
+    "target_zh": "接触到的一个生物",
+    "duration_zh": "24小时",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>延缓诅咒会压制接触到生物身上的单一个诅咒效果。诅咒造成的伤害或吸取不会被回复。延缓诅咒不能压制那些无法被移除诅咒移除的诅咒，但是能压制例如兽化症（Lycanthropy）这类需要移除诅咒和额外措施同时使用才能解除的效果。同一个诅咒一次只能被一个延缓诅咒压制，哪怕它被另一个施法者施放。\n延缓诅咒不会使得生物得以脱下诅咒物品，但是它能压制一个来自物品上的诅咒。<\/p>",
+    "source": "AP-MM"
+}

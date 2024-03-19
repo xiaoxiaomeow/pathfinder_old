@@ -1,0 +1,40 @@
+{
+    "key": "assumed likeness",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/assumed-likeness/",
+    "name": "Assumed Likeness",
+    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["phantasm"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 1,
+        "magus": 2,
+        "medium": 1,
+        "mesmerist": 1,
+        "occultist": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Will disbelief",
+    "spellResistance": "yes",
+    "text": "<p>You draw upon the memories of the targets to create a visual disguise for yourself that only they can see. When you cast the spell, you choose an emotion from the table below. Each target perceives you as a creature it feels that way toward. If it doesn't feel that way toward anyone, it instead perceives you as a stranger with features likely to evoke that emotion (e.g., if you choose respect, a guard who was taught to respect her elders but who currently knows no elders might see you as an elderly version of yourself).<\/p><p>Since you don't know how you will appear to each target, you must match your actions and statements to fit with the illusion as best you can. While the spell grants a +10 bonus on Disguise checks like disguise self does, you also take a –5 penalty on Disguise checks until you can get a sense of who the target thinks you are. Each target who fails to disbelieve the phantasm) and is fooled by your Disguise check takes a –2 penalty on Sense Motive checks to notice your lies, and each emotion choice grants you an additional benefit against such targets, as listed in the table below.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Emotion<\/th>    <th class=\"text\">Effect<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Fear<\/td>    <td class=\"text\">+4 bonus on Intimidate checks<\/td>   <\/tr>   <tr>    <td class=\"text\">Hate<\/td>    <td class=\"text\">+2 bonus on attack rolls, –2 penalty to AC<\/td>   <\/tr>   <tr>    <td class=\"text\">Lust<\/td>    <td class=\"text\">+4 bonus on Sleight of Hand checks<\/td>   <\/tr>   <tr>    <td class=\"text\">Respect<\/td>    <td class=\"text\">+4 bonus on Diplomacy checks<\/td>   <\/tr>   <tr>    <td class=\"text\">Trust<\/td>    <td class=\"text\">+4 bonus on Bluff checks<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "假定伪装",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物/等级，彼此相距不超过30英尺",
+    "duration_zh": "10分钟/等级（可消解）",
+    "savingThrow_zh": "意志, 通过则不相信",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你利用目标的记忆来为自己创造出一种只有他们能看到的视觉伪装。当你施法时，你从下表中选择一种情绪。每一个目标都会认为你是一个会给他们带来这种情绪的生物。如果他对任何人都不会有这种情绪，他就只会把你看成一个面容比较容易引发这种情绪的陌生人（例如：如果你选择了尊敬，一个被教导要尊敬长辈、但知道自己现在没有长辈的守卫可能会把你看作是一个更年长的你）。因为你不知道你将在每个目标的眼中的模样，你必须尽力使自己的行为和腔调符合幻象。虽然这种法术会像易容术一样对易容检定给予+10的奖励，但在你搞明白目标到底把你当成谁之前，你还会在易容检定上受到-5惩罚。每一个被幻术和易容所愚弄的目标在识破你说谎的察言观色检定上受到-2惩罚，每一种情绪选择都能让你对这些目标拥有额外的增益，如下表所示。\n情绪   效果\n恐惧   先攻检定上获得+4奖励\n仇恨   攻击骰上获得+2奖励，AC上得到-2惩罚\n欲求   手上功夫检定获得+4奖励\n尊敬   交涉检定获得+4奖励\n信任   哄骗检定获得+4奖励<\/p>",
+    "source": "CS-ISI"
+}

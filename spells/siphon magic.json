@@ -1,0 +1,30 @@
+{
+    "key": "siphon magic",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/siphon-magic/",
+    "name": "Siphon Magic",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a coiled length of copper wire wrapped around the palm)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell attempts to transfer a magical effect from a creature you touch to yourself. When you touch the creature, <i>siphon magic<\/i> attempts to end one ongoing spell that has been cast on that creature, as if via a targeted dispel magic. If you know the specific spell effect you wish to target, you can name that spell effect to target that specific spell; otherwise <i>siphon magic<\/i> begins with the highest-level spell in effect and works its way down through all spells affecting the target until it dispels one or runs out of effects, as per dispel magic.<\/p><p>If <i>siphon magic<\/i> successfully ends a spell effect on the target, the remaining duration of that spell effect is transferred to you. That spell effect plays out for the rest of its duration as if you had been the original target. If the spell allows a saving throw to resist the effect, you gain a saving throw as if the spell were just being cast upon you, although this does not “reset” the spell's duration.<\/p>",
+    "name_zh": "虹吸咒",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（绕在手掌之上的一卷黄铜线）",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术会尝试将你所接触到的生物身上的一个魔法效果转移给你自己。当你接触到生物时，虹吸咒会尝试结束一个已经施放在该名生物身上的持续性法术，就如同进行一次目标型解除魔法（targeted dispel magic）一般。若你知道目标身上所具有的特定法术效果，则能够指名这个法术效果并以这个特定法术为目标；否则虹吸咒会以正在生效的最高等级法术开始，对所有正在影响目标的法术依次生效，直至解除其中之一或者依次处理完所有效果为止，按照解除魔法（dispel magic）描述的一般。\n若虹吸咒成功结束目标身上的一个法术效果，那么这个法术效果所剩余的持续时间会转移给你。该法术效果会在剩下的持续时间内对你产生效果，就如同你是法术的原始目标一般。若法术允许豁免检定来抵抗效果，那么你也会获得豁免机会，就如同该法术刚刚对着你施放一般，不过这并不会‘重制’法术的持续时间。<\/p>",
+    "source": "CS-ISM"
+}

@@ -1,0 +1,32 @@
+{
+    "key": "make lost",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/make-lost/",
+    "name": "Make Lost",
+    "book": "Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "druid": 2,
+        "ranger": 1
+    },
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You strip the targets of their senses of direction and recent memories of travel. They immediately forget the route they took in the last hour (but not details of encounters along the way) and become lost.<\/p>",
+    "name_zh": "迷失术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物/等级，任两者之间不得相距超过30呎",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你剥夺目标的方向感以及最近关于旅行的记忆。他们会立刻忘记上个小时自己走过的路径(但沿途的细节则不会)，然后迷路(PFCRB P.424)。<\/p>",
+    "source": "CS-ISMC"
+}

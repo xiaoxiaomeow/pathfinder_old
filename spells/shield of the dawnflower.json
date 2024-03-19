@@ -1,0 +1,39 @@
+{
+    "key": "shield of the dawnflower",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-dawn/",
+    "name": "Shield of the Dawnflower",
+    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "fire",
+        "good",
+        "light"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "cleric/oracle": 4,
+        "magus": 4,
+        "paladin": 4,
+        "ranger": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "<p><i>You create a disk of sunlight on one arm.<\/i><\/p><p>Any creature that strikes you with a melee attack deals normal damage, but also takes 1d6 points of fire damage + 1 point per caster level (maximum +15).<\/p><p>Creatures with reach weapons are not subject to this damage if they attack you. The shield provides illumination as if it were a continual flame spell. You can only have one instance of this spell in effect at a time. It does not stack with similar damaging aura spells such as fire shield.<\/p>",
+    "name_zh": "晨花之盾",
+    "race_zh": "莎伦莱",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "见下",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你在一件武装上创造一轮日光。任何用近战攻击你的生物造成正常的伤害，但也会承受1d6点+1点/施法者等级的火焰伤害。拥有长触击武器的生物，在攻击你时不会承受此伤害。此法术就好像不灭明焰(continual flame)那样发光。同一时间本法术只有一个会在你身上生效。本法术也不会跟像是火焰护盾(fire shield)等类似的灵光法术叠加伤害。<\/p>",
+    "source": "CS-GaM"
+}

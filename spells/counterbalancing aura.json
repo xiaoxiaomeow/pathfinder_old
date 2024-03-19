@@ -13,14 +13,14 @@
     "savingThrow": "see text",
     "spellResistance": "yes",
     "text": "<p>An oscillating bronze glow surrounds the targets, protecting them from attacks, granting them resistance to spells cast by neutral creatures, and sickening or nauseating neutral creatures that strike the targets. This abjuration has four effects.<\/p><p>First, each warded creature gains a +4 deflection bonus to AC and a +4 resistance bonus on saving throws. This benefit applies against all attacks and effects, not just attacks by neutral creatures.<\/p><p>Second, a warded creature gains spell resistance 23 against spells cast by chaotic neutral, lawful neutral, neutral evil, and neutral good creatures, and spell resistance 27 against spells cast by neutral creatures with no other alignment components.<\/p><p>Third, the spell protects warded creatures from possession and influence by such creatures (otherwise as protection from evil).<\/p><p>Finally, if a chaotic neutral, lawful neutral, neutral evil, or neutral good creature successfully hits a warded creature with a melee attack, the attacker is sickened for 1d6 rounds (Fort negates). If a neutral creature successfully hits a warded creature with a melee attack, the attacker is instead nauseated for 1d6 rounds (Fort negates).<\/p>",
-    "name_zh": "平衡灵光",
+    "name_zh": "失衡灵光",
     "castingTime_zh": "标准动作",
-    "components_zh": "语言、姿势、器材 (一套价值500gp的秤)",
+    "components_zh": "言语，姿势，器材（一套价值500gp的天平）",
     "range_zh": "20尺",
-    "target_zh": "以你为中心，半径20呎爆发内的一名生物/等级",
-    "duration_zh": "1轮/等级 (D)",
-    "savingThrow_zh": "见下",
+    "target_zh": "在以你为中心的半径20英尺爆发中的一个生物/等级",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "见下文",
     "spellResistance_zh": "可",
-    "text_zh": "<p>跳动的青铜光芒围绕着目标，保护他们免受攻击，给予他们对中立生物所施展法术的抗力，并且使攻击目标的中立生物感到恶心或反胃。这防护系法术有四个效果。\n第一：每位被守护的生物在AC上获得+4偏斜加值，在豁免上获得+4抗力加值。这些效益应用在对抗所有的攻击上，并不仅是用在对抗中立生物的攻击。\n第二：一名被守护的生物，在对抗由混乱中立、守序中立、中立邪恶以及中立善良生物所施展的法术上，获得23点法术抗力；在对抗由绝对中立生物所施展的法术上，获得27点法术抗力。\n第三：这防护系法术能从占据与心灵影响中保护被守护的生物，就像防护邪恶一样(protection from evil)。\n最后，如果一名混乱中立、守序中立、中立邪恶或中立善良生物用近战攻击成功对抗被守护的目标，攻击者会恶心1d6轮(强韧，通过则无效)。如果一名中立生物用近战攻击成功对抗被守护的目标，取而代之的，攻击者会反胃1d6轮(强韧，通过则无效)。<\/p>",
-    "source": "PC-CoB"
+    "text_zh": "<p>一团振荡着的青铜色光芒围绕着目标，保护他们免受攻击，给予他们对中立生物所施展法术的抗力，并且使攻击目标的中立生物感到恶心或反胃。这种防护法术有四个效果。\n首先，每个被保护的生物在AC上获得+4偏斜加值，在豁免检定上获得+4抗力加值。这些增益应用在对抗所有的攻击和效果上，并不仅是用在对抗中立生物的攻击。\n第二，一名被保护的生物，在对抗由混乱中立，秩序中立，中立邪恶以及中立善良生物所施展的法术上，获得23点法术抗力；在对抗由绝对中立生物所施展的法术上，获得27点法术抗力。\n第三，这种防护法术能保护生物免受附身与影响心灵效果，就像防护邪恶（protection from evil）一样。\n最后，如果一名混乱中立，秩序中立，中立邪恶或中立善良生物用近战攻击成功击中被守护的目标，攻击者会恶心1d6轮（强韧过则无效）。如果一名中立生物用近战攻击成功击中被守护的目标，取而代之的，攻击者会反胃1d6轮（强韧过则无效）。<\/p>",
+    "source": "PA"
 }

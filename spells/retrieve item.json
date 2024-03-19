@@ -1,0 +1,29 @@
+{
+    "key": "retrieve item",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/r/retrieve-item/",
+    "name": "Retrieve Item",
+    "book": "Pathfinder Chronicles: Classic Treasures Revisited. Copyright 2010, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["calling"],
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 full round",
+    "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "permanent until discharged",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You call a specific nonliving item directly to your hand from a nearby location. First, you must cast the spell on the item while holding it. Thereafter, you can summon the item by speaking a special word (set by you when the spell is cast) and snapping your fingers. The item appears instantly in your hand.<\/p><p>If the item is in the possession of another creature, the spell fails.<\/p>",
+    "name_zh": "取物术",
+    "castingTime_zh": "1个整轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一件重量小于等于1磅的无主物品，它的最长边小于等于6英吋",
+    "duration_zh": "永久 或 释放",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你呼唤一个非活物的物体从附近某个地点直接来到你手中。首先，你必须握住那件物体并且对其施法。然后，你可以说出一个特殊词汇并弹个响指(在你施法时设定)来召唤该件物体。这件物体会立刻出现在你的手上。\n如果这件物体被另一名生物拥有，此法术失效。\n原文\n新法术：水晶探知<\/p>",
+    "source": "CS-CTR"
+}

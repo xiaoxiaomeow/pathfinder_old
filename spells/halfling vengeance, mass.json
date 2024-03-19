@@ -1,0 +1,26 @@
+{
+    "key": "halfling vengeance, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/halfling-vengeance/",
+    "name": "Halfling Vengeance, Mass",
+    "base": "halfling vengeance",
+    "book": "Pathfinder Adventure Path #131: The Reaper's Right Hand © 2018, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "antipaladin": 4,
+        "cleric": 7,
+        "inquisitor": 6
+    },
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one Small or smaller creature/level, no two of which can be more than 30 ft. apart",
+    "text": "<p>This spell functions like <em>halfling vengeance<\/em>, except that it affects multiple creatures.<\/p><\/div>",
+    "name_zh": "群体半身人的复仇",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "每等级一个小体型或更小的生物，任意两者之间的距离不超过30尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志无效（无害）",
+    "spellResistance_zh": "可（无害）",
+    "text_zh": "<p>该法术如同半身人的复仇一样作用，除了它可以影响复数生物。<\/p>",
+    "source": "AP-WftC"
+}

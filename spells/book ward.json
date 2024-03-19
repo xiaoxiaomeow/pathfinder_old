@@ -1,0 +1,30 @@
+{
+    "key": "book ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/book-ward/",
+    "name": "Book Ward",
+    "book": "Pathfinder Chronicles: Seekers of Secrets. Copyright 2009, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "bard": 2,
+        "cleric/oracle": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a drop of clear oil)",
+    "range": "touch",
+    "target": "one touched object of up to 10 pounds/level",
+    "duration": "1 day/level or until discharged (see text)",
+    "savingThrow": "Will negates",
+    "spellResistance": "Yes (harmless)",
+    "text": "<p>As <i>protection from energy<\/i>, except as noted above and that the spell only protects against acid and fire damage. While the energy protection remains, the item is also completely waterproof (this protection extends to other liquids as well, such as alcohol and oil).<\/p>",
+    "name_zh": "防护书本",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一滴干净的油)",
+    "range_zh": "接触",
+    "target_zh": "一件被碰触最多10磅/等级的物体",
+    "duration_zh": "1天/等级 或 直到释放 (见下)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "有 (无害，物体)",
+    "text_zh": "<p>如同防护能量伤害(protection from energy)，除了上面写得以及此本法术只在对抗酸液与火焰伤害时进行保护。在能量保护存在的期间，此物体也完全防水(这种保护也扩及到其他液体，像是酒精与油)。<\/p>",
+    "source": "CS-DDR"
+}

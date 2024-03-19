@@ -1,0 +1,38 @@
+{
+    "key": "summon accuser",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-accuser/",
+    "name": "Summon Accuser",
+    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors":     [
+        "evil",
+        "lawful"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "cleric/oracle": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 4,
+        "witch": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (chunk of rotten meat)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one accuser devil",
+    "duration": "10 min.s/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell summons a single accuser devil from Hell to do the spellcaster's bidding, similar to how <i>summon monster<\/i> spells function. Accuser devils, known to diabolists as zebubs, are hideous flying creatures with the torso of a plump human infant and the body and wings of an enormous fly. They make excellent spies, for they have the ability to grant visions of what they have witnessed to others—the Queen's Hands sometimes use summoned zebubs to observe suspects from afar.<\/p>",
+    "name_zh": "召唤控斥魔",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势、器材/法器 (一大块腐烂的肉)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一只控斥魔(accuser devil)",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>本法术会从九层地狱中召唤一只控斥魔，遵从施法者的命令，跟召唤怪物法术(summon monster)的效果类似。控斥魔，被魔鬼大师(diabolist)称为蝇魔(zebubs)，这个丑陋的飞行生物，有着人类婴孩的丰腴躯干，身躯以及翅膀则像一只巨大的苍蝇。他们是优秀的间谍，因为他们有着能够分享给他人自己曾目击的场景的能力，女王之手有时候会召唤蝇魔从远方观察嫌疑人。控斥魔在PF的怪物手册2中第84页有详细描述。<\/p>",
+    "source": "CS-RG"
+}

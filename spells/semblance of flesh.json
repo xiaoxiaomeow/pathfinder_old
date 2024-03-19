@@ -1,0 +1,26 @@
+{
+    "key": "semblance of flesh",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/semblance-of-flesh/",
+    "name": "Semblance of Flesh",
+    "book": "Pathfinder Adventure Path #86: Lords of Rust © 2018, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["glamer"],
+    "levels":     {
+        "cleric/oracle": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "construct touched",
+    "duration": "10 min./level (d)",
+    "text": "<p>You make the target construct appear to be a living creature of flesh and bone, regardless of its actual materials. You can make it seem 1 foot shorter or taller, and appear thin, fat, or anywhere in between. Its bodily configuration does not change; for example, a centaur-like construct looks like a centaur rather than a human. The extent of the apparent change (such as flesh color, hair color, apparent age, and so on) is up to you.<\/p><p>The spell does not provide the abilities or mannerisms of the chosen form, nor does it alter the perceived tactile or audible properties of the construct. If you use this spell to create a disguise, the construct gains a +10 bonus on the Disguise check. A creature that interacts with the glamer receives a Will save to recognize it as an illusion.<\/p>",
+    "name_zh": "血肉外观",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的构装体",
+    "duration_zh": "10分钟/等级（可解消）",
+    "text_zh": "<p>你让目标构装体看起来像是一个有骨有肉的生物，不管它的实际材料是什么。你可以让它看起来矮或高1尺，变瘦、变胖或介于两者之间。它的身体构造不会改变：例如，人马形的构造体看起来更像人马而不是人类。外观变化的程度（例如肤色、发色、外貌年龄等）由你决定。\n该法术不会提供所选形态的能力或习性，也不会改变构装体的触感（触觉）或声音（听觉）。如果你使用这个法术来易容，构装体会在易容检定上获得+10加值。与五官幻觉发生感官互动的生物可以通过意志豁免来发现这是幻觉。<\/p>",
+    "source": "AP-IG"
+}

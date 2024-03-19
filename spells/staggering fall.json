@@ -1,0 +1,30 @@
+{
+    "key": "staggering fall",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/staggering-fall/",
+    "name": "Staggering Fall",
+    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric/oracle": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one falling creature",
+    "duration": "1 round/level (see below)",
+    "savingThrow": "Will partial (see below)",
+    "spellResistance": "yes",
+    "text": "<p>This spell must be cast on a creature as it falls, either from a height or after being knocked prone or tripped. The magic of this spell causes the creature to hit the ground particularly hard, knocking the wind from it. The creature takes an additional 1d6 points of damage from the fall. In addition, the creature becomes staggered for the duration of the spell unless it makes a Will save. Each round the spell's effects persist, the creature may attempt a new Will save as a free action to end the staggered effect early. A creature under the effects of this spell must take a standard action to stand up.<\/p>",
+    "name_zh": "突兀下坠",
+    "castingTime_zh": "直觉动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "一个正坠落的生物",
+    "duration_zh": "1轮/等级 (见下)",
+    "savingThrow_zh": "强韧，通过则部分生效 (见下)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>突兀下坠必须在一名生物坠落时施放，不论是从高处还是被撞倒或摔倒。本法术会让该名生物重重的摔落地上，连气都喘不上来。该生物因坠落需额外承受1d6点的伤害。此外，除非通过意志豁免，不然在法术持续时间内，该名生物陷入蹒跚状态。每一轮都可以抵抗此法术的效果，该生物可以用一个自由动作，进行新一次意志豁免检定好提前解除蹒跚状态。生物处于此法术效果下，要站起来的话必须得花费一个标准动作。\n炼狱咒术\n虽然有许多像是异界盟友(planar ally)、异界誓缚(planar binding)还有召唤怪物(summon monster)这样的法术，可以召唤常见的各类恶魔与炼狱生物，可切利亚斯的施法者们开发了为数众多，特别用来召唤其他九层地狱居民的法术，好做为工具或充当守卫。下面两个法术经常被女皇之手(Queen’s Hands)所使用。<\/p>",
+    "source": "CS-RG"
+}

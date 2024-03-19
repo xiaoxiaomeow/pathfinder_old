@@ -1,0 +1,28 @@
+{
+    "key": "channel vigor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/channel-vigor/",
+    "name": "Channel Vigor",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "alchemist": 3,
+        "cleric": 3,
+        "inquisitor": 3,
+        "magus": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>You focus the energy of your mind, body, and spirit into a specific part of your being, granting yourself an exceptional ability to perform certain tasks. When you cast the spell, choose one of the following portions of your self as your focus target. Thereafter, you may change the focus target as a move action. You can gain the benefit of only one <i>channel vigor<\/i> spell at a time.<\/p><ul>  <li><i>Limbs<\/i>: You gain the benefits of a haste spell.<\/li>  <li><i>Mind<\/i>: You gain a +4 competence bonus on Knowledge and Perception skill checks and on ranged attack rolls.<\/li>  <li><i>Spirit<\/i>: You gain a +6 competence bonus on Will saving throws and Bluff and Intimidate checks.<\/li>  <li><i>Torso<\/i>: You gain a +6 competence bonus on Fortitude saving throws and concentration checks.<\/li> <\/ul>",
+    "name_zh": "导引精气",
+    "race_zh": "义洛里",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>你凝聚你心灵、肉体以及灵魂的能量，到你肉体的某个特殊部位去，给予你杰出的能力去达成任务。当你施放本法术，选择下列中一样要凝聚的目标。你能以一个移动动作来改变凝聚的目标。同一时间你只能接受一个导引精气法术的效益。\n心灵：你在知识、聆听、搜寻以及侦查和远程攻击骰的检定上获得+4表现加值。\n四肢：你获得加速术效果。\n灵魂：你在意志豁免检定、唬骗还有威吓检定上获得+6表现加值。\n身躯：你在强韧豁免检定以及体质检定上获得+6表现加值。<\/p>",
+    "source": "CS-GaM"
+}

@@ -1,0 +1,27 @@
+{
+    "key": "janni's jaunt",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/j/janni-s-jaunt/",
+    "name": "Janni's Jaunt",
+    "book": "Pathfinder Campaign Setting: Planes of Power © 2016, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["teleportation"],
+    "levels":     {
+        "cleric": 4,
+        "medium": 3,
+        "psychic": 4,
+        "shaman": 6,
+        "sorcerer/wizard": 6,
+        "summoner": 5,
+        "witch": 6
+    },
+    "text": "<p>This spell functions as per plane shift, but with the following exceptions.<\/p><p>First, you are able to transport only willing creatures.<\/p><p>Second, the spell can transport you and any other willing targets only to an Elemental Planes, the Astral Plane, or the Material Plane.<\/p>",
+    "name_zh": "小巨灵的短程旅行",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材(一根能与位面旅行谐调的分岔金属棒)",
+    "target_zh": "最多八名自愿生物一起",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志，通过则无效 (无害)",
+    "spellResistance_zh": "有 (无害)",
+    "text_zh": "<p>此法术效果如同异界传送(plane shift)，除了以下差异。首先，你只能和自愿的生物一起传送。其次，此法术能传送你和其他自愿生物到元素位面(Elemental Plane)、灵界(Astral Plane)或是物质位面(Material Plane)。<\/p>",
+    "source": "CS-PoP"
+}

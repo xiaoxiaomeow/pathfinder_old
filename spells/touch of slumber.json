@@ -4,7 +4,7 @@
     "name": "Touch of Slumber",
     "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
     "school": "enchantment",
-    "subschool": "compulsion",
+    "subSchool": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 6,

@@ -1,0 +1,27 @@
+{
+    "key": "unspoken name",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unspoken-name/",
+    "name": "Unspoken Name",
+    "book": "Pathfinder Adventure Path #140: Eulogy for Roslar's Coffer © 2019, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "cleric": 3,
+        "inquisitor": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "24 hours or until discharged",
+    "text": "<p>When you cast this spell, designate a word, phrase, or name. If a creature within 1 mile of you uses that word, phrase, or name to refer to you, you immediately learn that creature's name, appearance, and location. This discharges the spell.<\/p>",
+    "name_zh": "禁称",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "24小时，或直到消解",
+    "text_zh": "<p>这个法术对那些想知道有谁在关注着自己的人十分有用。据传，阿拉兹妮用这个法术来辨别出那些胆敢称她为「娼妇皇后」（Harlot Queen）的信徒，这样她便可以立即弃逐他们。当你施展此法术时，先设置一个字、片语或名字。若你1哩内有生物用了那个字、片语或名字来指称你，你会立即知道该生物的名字、外表与所在位置。这会消解此法术。<\/p>",
+    "source": "AP-TG"
+}

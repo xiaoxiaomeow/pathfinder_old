@@ -1,0 +1,20 @@
+{
+    "key": "surelife",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surelife",
+    "name": "Surelife",
+    "school": "abjuration",
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/2 levels",
+    "text": "<p>This spell protects you (but not your gear) from a natural occurrence or condition (not against a spell or the action of a creature) that would kill you. You must specify the condition, and the spell is effective only against that condition. If you are subjected to that condition during the duration of the spell, you feel no discomfort and take no damage from the condition. At the end of the spell’s duration, the condition has full normal effects if you are still subjected to it.<\/p>",
+    "name_zh": "保命术",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/2等级",
+    "text_zh": "<p>此法术能从将会杀死你的自然事件或状况(但不会是对抗法术或一名生物的行动)中保护你(但不包括你的装备)。你必须说明该种状况，而此法术只会在对抗该种状况时生效。如果你在法术持续时间之内遇到该种状况，你不会感到任何不适，也不会因这种状况受到任何伤害。在法术持续时间结束时，如果妳仍然处于那种情况下，则情况会有的效果正常生效。<\/p>",
+    "source": "CS-PCCS"
+}

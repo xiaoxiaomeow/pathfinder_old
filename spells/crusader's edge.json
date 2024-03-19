@@ -1,0 +1,32 @@
+{
+    "key": "crusader's edge",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/crusader-s-edge/",
+    "name": "Crusader's Edge",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["good"],
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (dried blood from an evil outsider, sprinkled on the weapon)",
+    "range": "touch",
+    "target": "melee weapon touched",
+    "duration": "1 min./level",
+    "savingThrow": "Fort negates",
+    "spellResistance": "no",
+    "text": "<p>When you cast this spell on a melee weapon you imbue it with a powerful holy energy, granting the weapon the bane weapon quality against evil outsiders. Furthermore, whenever you score a successful critical hit against an outsider with the evil subtype, you not only deal normal critical damage with the weapon but also nauseate the outsider for 1d3 rounds—the outsider can reduce this nauseated condition to sickened for 1 round with a successful Fortitude save.<\/p>",
+    "mythicText": "<p class=\"source\"><span>Whenever you confirm a<span> critical hit<span> <span>against an<span> outsider<span> <span>with the<span> evil<span> <span>subtype, you gain 2d6<span> temporary hit points<span>. While wielding this weapon, you gain a +2<span> sacred bonus<span> <span>on saving throws against spells,<span> spell-like abilities<span>, and special abilities originating from evil<span> outsiders<span>. <br><p style=\"margin-left: 20px\"><b>Augmented (5th)<\/b>: You can expend two uses of mythic power to give the touched weapon the holy weapon special ability. ",
+    "name_zh": "十字军利剑术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（来自邪恶异界生物的血粉，洒在武器上）",
+    "range_zh": "接触",
+    "target_zh": "接触到的近战武器",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧，通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术由蒙蒂维十字军的圣武士所创，并被致力于追踪和猎杀恶魔、魔鬼以及其他邪恶跨位面生物的审判者和游侠所增强。当你对一个近战武器施放该法术时，会向它灌注神圣能量，使得武器获得对抗邪恶异界生物的破敌（bane）武器特性。此外，每当你成功对具有邪恶亚种的异界生物成功造成重击时，不仅如常使用武器造成重击伤害，还能够让异界生物反胃（nauseate）1d3轮——异界生物能够通过成功的强韧豁免使反胃状态减弱为恶心（sickened）1轮。<\/p>",
+    "source": "CS-ISM"
+}

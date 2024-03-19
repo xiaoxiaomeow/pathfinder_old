@@ -1,0 +1,30 @@
+{
+    "key": "symbol of dispelling",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-dispelling/",
+    "name": "Symbol of Dispelling",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "cleric/oracle": 8,
+        "shaman": 8,
+        "sorcerer/wizard": 8,
+        "witch": 8
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (pure grain alcohol and powdered diamond worth 5,000 gp)",
+    "range": "0 ft.; see text",
+    "effect": "one symbol",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as symbol of death, except that all creatures within 40 feet of the <i>symbol of dispelling<\/i> are instead affected as if by the area dispel function of greater dispel magic. Attempt a dispel check when casting <i>symbol of dispelling<\/i>. Once the symbol is triggered, apply the result of that check to each creature in the area, as well as each object that is the target of one or more spells. Unlike symbol of death, <i>symbol of dispelling<\/i> grants no saving throws, and it is not subject to spell resistance.<\/p>",
+    "name_zh": "灭法徽记",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料（高纯度的粮食酒和价值5000GP的钻石粉）",
+    "effect_zh": "一个徽记",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术的工作原理与死亡徽记的作用方法类似，但所有处于灭法徽记周围40尺内的生物会立刻受到一个法术高等解除魔法的效果。你只需要为灭法徽记进行一次解除魔法检定，并以同样的结果作用于所有的目标和物体上的一个或多个法术效果。不过和死亡徽记不同，灭法徽记不受法术抗力的影响，也不会因为豁免检定而被抵抗。<\/p>",
+    "source": "CS-ISG"
+}

@@ -1,0 +1,28 @@
+{
+    "key": "harrowing",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/h/harrowing/",
+    "name": "Harrowing",
+    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "bard": 3,
+        "shaman": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "bloodlines": {"harrow": 3},
+    "castingTime": "10 minutes",
+    "components": "V, S, F (a Harrow deck)",
+    "range": "touch",
+    "target": "one creature",
+    "duration": "1 day/level or until fulfilled",
+    "text": "<p>You use a Harrow deck to tell a fortune for yourself or someone else. If you cast harrowing on another creature, you must remain adjacent to the target for the duration of the casting time. A harrowing must describe one set of events or course of action (for example, “hunting down the pirate king,” or “traveling to Viperwall to search for a magic sword”) that the target of the spell intends to undertake at some point during the spell's duration. If you have access to a Harrow deck, draw nine cards when this spell is cast. If you do not have a Harrow deck, you can simulate the draws by rolling a d6 and a d10 for each of the nine cards.<\/p><p>Record the ability score and alignment associated with each card. Each of these cards grants a luck bonus or a penalty on a specific type of d20 check; the magnitude of the penalty or bonus depends upon how closely that particular card's alignment matches the target creature's alignment. If the card and target's alignments are identical, that card provides a +2 luck bonus on the associated suit's check. If the card and target's alignments are of the opposite alignment (see below), the card inflicts a –1 penalty on that associated check. If the card has any other alignment, it provides a +1 luck bonus on the associated suit's check.<\/p><p>While penalties persist on all associated checks for as long as the harrowing persists, the bonuses are one-use bonuses that the harrowed character can “spend” at any time to modify that card's associated check. You can spend a bonus to modify an appropriate roll after the die is rolled, but cannot spend the bonus once you know the result of the roll. Since all of the bonuses granted by a harrowing are luck bonuses, they do not stack with each other. Penalties, on the other hand, do stack. Once you spend all of the bonuses granted by a harrowing, or once the spell's duration ends, the spell ends and the penalties are removed.<\/p><p>A single creature can only be under the effects of one harrowing at a time. If it is subjected to a second harrowing while a previous harrowing is still in effect, the new harrowing automatically fails.<\/p><table border=\"1\" cellpadding=\"5\"><caption>Associated Suit Checks<\/caption><thead><tr><th class=\"text\">Suit<\/th><th class=\"text\">Associated check<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">Hammer (Str)<\/td><td class=\"text\">Attack rolls (ranged and melee)<\/td><\/tr><tr><td class=\"text\">Key (Dex)<\/td><td class=\"text\">Reflex saving throws<\/td><\/tr><tr><td class=\"text\">Shield (Con)<\/td><td class=\"text\">Fortitude saving throws<\/td><\/tr><tr><td class=\"text\">Book (Int)<\/td><td class=\"text\">Skill checks<\/td><\/tr><tr><td class=\"text\">Star (Wis)<\/td><td class=\"text\">Will saving throws<\/td><\/tr><tr><td class=\"text\">Crown (Cha)<\/td><td class=\"text\">Any d20 roll<\/td><\/tr><\/tbody><\/table><table border=\"1\" cellpadding=\"5\"><caption>Opposition Alignments<\/caption><thead><tr><th class=\"text\">Alignment<\/th><th class=\"text\">Opposition<\/th><\/tr><\/thead><tbody><tr><td class=\"source text\">LG<\/td><td class=\"source text\">CE<\/td><\/tr><tr><td class=\"source text\">NG<\/td><td class=\"source text\">NE<\/td><\/tr><tr><td class=\"source text\">CG<\/td><td class=\"source text\">LE<\/td><\/tr><tr><td class=\"source text\">LN<\/td><td class=\"source text\">CN<\/td><\/tr><tr><td class=\"text\">N<\/td><td class=\"text\">LG, LE, CG, or CE <br />(pick one when spell is cast)<\/td><\/tr><tr><td class=\"source text\">CN<\/td><td class=\"source text\">LN<\/td><\/tr><tr><td class=\"source text\">LE<\/td><td class=\"source text\">CG<\/td><\/tr><tr><td class=\"source text\">NE<\/td><td class=\"source text\">NG<\/td><\/tr><tr><td class=\"source text\">CE<\/td><td class=\"source text\">LG<\/td><\/tr><\/tbody><\/table>",
+    "name_zh": "哈罗占卜",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，器材（一副哈罗牌）",
+    "range_zh": "接触",
+    "target_zh": "一个生物",
+    "duration_zh": "一天/等级或直到应验",
+    "text_zh": "<p>你使用一副Harrow Deck为你自己或另一人占卜。若你对另一名生物施展Harrowing，在施法时间内你必须同他保持邻接。一次Harrowing必须描述一组受术者在法术的持续时间内将要完成的事件或行动进程（如‘猎杀海盗王’或者‘前往Viperwall去寻找一把魔法剑’）。若你身边有一套Harrow deck，在施法时从里面抽出9张卡片。若没有，你可以为每一张卡片投一个d6以及一个d10来模拟抽取过程。\n记录下每张卡片上的属性值和阵营。每一张卡片会令单一类别的d20检定获得幸运加值或者罚值。具体的加值或罚值取决于那张卡片的阵营与受术者阵营的接近程度。若卡片的阵营和受术者相同，受术者在此卡片相关的检定上获得+2幸运加值。若卡片的阵营和受术者相反（见下），卡片会令受术者在相关检定上获得-1罚值。其他情况下，受术者在相关检定上获得+1幸运加值。\n罚值会在法术持续时间内一直生效，而幸运加值却是一次性的。受术者可以在任何时候‘消耗’掉奖励以改变与卡片相关的检定加值。你可以在投骰结束后使用此奖励，但无法在得知投骰造成的效果以后使用。因为Harrowing给予的所有奖励都是幸运加值，因此他们无法互相叠加。然而，所有的罚值将会叠加。当你用掉了所有的加值奖励，或者法术的持续时间用尽时，法术结束，而所有的罚值也会被移除。\n一名生物在同一时间最多受到一个Harrowing法术的影响。若他在第一个Harrowing的持续时间内被指定为另一个Harrowing法术的目标，则新的Harrowing自动失败。\n卡片的关联检定：\n卡片 相关检定\n大锤（力量） 攻击检定（远程和近战）\n钥匙（敏捷） 反射豁免\n盾牌（体质） 强韧豁免\n书籍（智力） 技能检定\n星星（感知） 意志豁免\n王冠（魅力） 任意d20投骰\n对立阵营：\n阵营 对立\n守序善良  混乱邪恶\n中立善良  中立邪恶\n混乱善良  守序邪恶\n绝对中立  施法时决定（从守序善良，守序邪恶，混乱善良，混乱邪恶四种中任选其一）\n守序邪恶  混乱善良\n中立邪恶  中立善良\n混乱邪恶  守序善良<\/p>",
+    "source": "CS-ISWG"
+}

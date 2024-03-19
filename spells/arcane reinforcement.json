@@ -1,0 +1,22 @@
+{
+    "key": "arcane reinforcement",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-reinforcement/",
+    "name": "Arcane Reinforcement",
+    "book": "Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels": {"sorcerer/wizard": 3},
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "concentration (up to 8 hours)",
+    "text": "<p>You cast this spell as you begin crafting an item using a Craft skill, and add your Spellcraft ranks to Craft checks made to create that item. As part of concentrating on the spell, you must continue chanting the verbal components, pausing at most for a few seconds at a time to speak, chew, and so on. If the crafting takes more than 1 day to complete, you must cast the spell each day to gain its benefit.<\/p>",
+    "name_zh": "奥法工艺",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "专注 (最长8小时)",
+    "text_zh": "<p>施展此法术的你如同使用手艺技能开始制造一件物品，将你的法术辨识等级加到制作此件物品的手艺检定中。作为此法术专注的一部份，你必须持续吟诵语言成分，顶多只能中断几秒来说话、咀嚼等等。如果这是制作无法在1天内完成，你必须每天都施展此法术来获取增益。\n此法术起源于奥法大学院(Arcanamirium)的法师，但探索者协会也会使用。<\/p>",
+    "source": "CS-FG"
+}

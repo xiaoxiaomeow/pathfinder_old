@@ -1,0 +1,21 @@
+{
+    "key": "charm fey",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/charm-fey/",
+    "name": "Charm Fey",
+    "book": "Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 1,
+        "sorcerer/wizard": 1
+    },
+    "components": "V, S",
+    "target": "one fey creature",
+    "text": "<p>This spell functions as charm person, except it affects a fey instead of a humanoid.<\/p>",
+    "name_zh": "魅惑精类",
+    "components_zh": "语言、姿势",
+    "target_zh": "一名精类生物",
+    "text_zh": "<p>此法术效果类似魅惑人类(charm person)，除了影响的是精类而非类人生物。<\/p>",
+    "source": "CS-TFWRotF"
+}

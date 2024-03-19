@@ -1,0 +1,20 @@
+{
+    "key": "daemon ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/daemon-ward/",
+    "name": "Daemon Ward",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 4,
+        "druid": 5,
+        "paladin": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "components": "V, S, M (50 gp worth of powdered silver)",
+    "text": "<p>This spell functions like death ward, except as noted above and it only protects against these attacks from daemons.<\/p>",
+    "name_zh": "邪魔结界",
+    "components_zh": "语言、姿势、材料 (价值50金币的银粉末)",
+    "text_zh": "<p>本法术的效果如同防死结界，除了上述的纪载，并且只在对抗来自邪魔的攻击时提供保护。<\/p>",
+    "source": "CS-BotD3"
+}

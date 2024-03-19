@@ -18,12 +18,12 @@
     "duration": "10 min.s/level (d)",
     "text": "<p>You gain a bonus on Charisma-based skill checks equal to 1 +1 for every 4 caster levels you possess (to a maximum of +5), but only when interacting with those who might conceivably find you sexually attractive. You do not gain this bonus against those you or your allies are attacking or threatening.<\/p>",
     "name_zh": "诱惑者之眼",
-    "race_zh": "卡莉丝翠",
+    "race_zh": "卡莉斯翠",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
     "range_zh": "自身",
-    "target_zh": "自己",
-    "duration_zh": "10分钟/等级",
-    "text_zh": "<p>这个法术可以增强你肉体的诱人程度。你在所有的基于魅力的技能检定上获得每4个施法者等级+1加值（最高为+5），但这个加值只在与对你可能有性趣的生物接触时才能生效。这个法术的效果对正在与你战斗或是威胁你的敌人无效。\n译注：此法术Inner sea gods已有同名新版。<\/p>",
-    "source": "PC-FoB"
+    "target_zh": "你",
+    "duration_zh": "10分钟/等级（可解消）",
+    "text_zh": "<p>这个法术可以增强你肉体的诱人程度。你在所有的基于魅力的技能检定上获得每4个施法者等级+1加值（最高为+5），但这个加值只在与对你可能有性趣的生物接触时才能生效。这个法术的效果对正在战斗或是威胁你和你的盟友的敌人无效。<\/p>",
+    "source": "CS-ISG"
 }

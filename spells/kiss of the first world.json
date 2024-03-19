@@ -1,0 +1,29 @@
+{
+    "key": "kiss of the first world",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/k/kiss-of-the-first-world/",
+    "name": "Kiss of the First World",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 4,
+        "druid": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (diamond dust worth 100 gp)",
+    "range": "touch",
+    "area": "living or undead creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p><span>This spell infuses a living creature with a surge of positive energy, filling the target with the raw energies of life. The exact effects of this spell vary, depending on the nature of the creature touched. Constructs<span> are immune to the effects of this spell.<\/p><ul>  <li><b>Living Creature<\/b>: A living creature gains a 20-foot increase to his base land speed and a +2 insight bonus on all Charisma-based skill checks. In addition, the creature gains fast healing 2. Fire, acid, and negative energy cause this fast healing to stop functioning on the round following the attack.<\/li>  <li><b>Undead<\/b> <b>Creature<\/b>: An undead creature targeted by this spell is staggered for the duration of this spell. It does not gain the benefits of any channel resistance it might normally enjoy, and the save DCs for any of its special attacks (but not spell-like abilities or spells) are reduced by 2.<\/li> <\/ul>",
+    "name_zh": "第一世界之吻",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（价值100gp的钻石尘）",
+    "range_zh": "接触",
+    "target_zh": "接触到的活物或不死生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术——精类施法者偏好的法术——通常会通过一个吻来赐予对方，不过要想将第一世界之吻的好处赐予某人，实际上只需要一次碰触即可。该法术会向着活物灌入来自第一世界的正能量，使得目标体内充满原始的生命力量。依照被接触生物本身的性质，这个法术的确切效果会有所不同。构装体免疫该法术的效果。\n活物：活物的基础陆上速度会增加20尺，并且所有基于魅力的技能检定会获得+2加值。此外，该名生物还会获得2点快速回复。火焰、强酸以及负能量会导致快速回复在攻击之后的那一轮内停止生效。\n不死生物：不死生物若成为该法术的目标，则会在法术的持续时间内恍惚（staggered）。它不会从通常能够享受的任何引导抗力获得好处，而且它的任何特殊攻击的豁免DC降低2点（不包括法术与类法术能力）。<\/p>",
+    "source": "CS-ISM"
+}

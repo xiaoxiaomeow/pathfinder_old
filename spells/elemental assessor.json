@@ -1,0 +1,36 @@
+{
+    "key": "elemental assessor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-assessor/",
+    "name": "Elemental Assessor",
+    "book": "Pathfinder Campaign Setting: Chronicle of the Righteous. © 2013 Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "acid",
+        "cold",
+        "electricity",
+        "fire"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 6,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (four needles)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one elemental ray",
+    "duration": "1d4+1 rounds (see text)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "<p>Azata champions developed this spell to deal with fiends with unknown resistances. A ray of spiraling colors springs from your hand and streaks to its target.<\/p><p>You must make a successful ranged touch attack to hit your target with the ray, which deals 2d6 points of acid damage, 2d6 points of cold damage, 2d6 points of electricity damage, and 2d6 points of fire damage.<\/p><p>The type of energy that does the most points of damage to the target then persists, dealing another 4d6 points of that type of damage per round for 1d4 rounds.<\/p>",
+    "name_zh": "元素评估",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器(四根针)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一条元素射线",
+    "duration_zh": "1d4+1轮(见下)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>爱塔族勇士开发了这道法术来对抗元素抗性未知的魔族。一道螺旋的多彩光束从你手中射出，像目标飞去。你需要成功的远程接触攻击来命中目标，造成2d6点酸性伤害，2d6点寒冷伤害，2d6点火焰伤害，2d6点闪电伤害。而造成最高伤害的那类元素效果会固着，在随后的1d4轮里每轮对目标造成4d6该种能量伤害。<\/p>",
+    "source": "CS-CotR"
+}

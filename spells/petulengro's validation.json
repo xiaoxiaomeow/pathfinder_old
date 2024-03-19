@@ -1,0 +1,30 @@
+{
+    "key": "petulengro's validation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/form-validation/",
+    "name": "Petulengro's Validation",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "alchemist": 1,
+        "inquisitor": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bit of hair, a fingernail, or a similar portion of a creature)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>To cast this spell, you must have a bit of hair, a fingernail clipping, or some other portion of a creature. The sample must be no more than 1 week old per caster level. As part of casting, you touch the target creature, and instantly know whether the target is the same creature the sample is from.<\/p><p>Note that if you wish to be discrete, you can cast the spell away from the target and hold the charge before touching the creature, so that the casting is not noticed. You can also use this spell to divine whether a dead body, or even partial remains from a body, belonged to the same person whose fingernail clipping or bit of hair you used when casting the spell.<\/p>",
+    "name_zh": "派图莱格萝的批准",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>在一次由变形怪引发，伴随死亡的恐怖冲突后，冒险队长伊利萨?派图莱格萝设计了一个方法来确保她的同伴确如外表所呈现的那般。要施放此法术，你必须有该生物的一些头发、一片剪下的手指甲或其他部分。上述的象征物品不得超过1星期/施法者等级。作为施法的一部分，你碰触目标生物，便能立即知晓该目标是否与象征物品取自的生物为同一位。记住如果妳想分开进行，妳可以在远离目标的地方施法，接着维持法术的能量，然后碰触该生物，如此一来施法就不会被注意到。妳也可以对着一具尸体或甚至某具身体的一部分使用这个法术，确认是不是跟妳施展此法术时所使用的头发、手指甲属于同一人。<\/p>",
+    "source": "CS-PSFG"
+}

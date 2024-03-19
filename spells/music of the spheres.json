@@ -1,0 +1,31 @@
+{
+    "key": "music of the spheres",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/music-of-the-spheres/",
+    "name": "Music of the Spheres",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors": ["sonic"],
+    "levels":     {
+        "bard": 5,
+        "cleric": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a stick of incense treated with special balms)",
+    "range": "20 ft.",
+    "area": "20-ft.-radius spherical emanation, centered on you",
+    "duration": "concentration, up to 1 round per level",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The music of the spheres is the harmonic constant that plays under and through all of reality. It is this constant song, this otherworldly music, that keeps the laws of reality constant and the connections between the planes of existence strong.<\/p><p>With this spell, one can amplify the underlying music of the spheres in the spell's area of effect to infuse yourself and all creatures within 20 feet of you, friend and foe alike. All creatures that begin their turn within the area of this spell's effect gain fast healing 5, resistance 10 to all energy types, and a +3 sacred bonus on all saving throws against poison and disease. Any creature that enters the area of effect does not gain the benefits of the music of the spheres until it begins its turn in that area. You must maintain concentration on the amplification of the music or the effects immediately end, but you can move around to prevent enemies from gaining the benefits of this spell.<\/p>",
+    "name_zh": "天体之音",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（经过特殊药膏处理过的一炷香）",
+    "range_zh": "20尺",
+    "area_zh": "以你为中心，半径20尺的球形发散区域",
+    "duration_zh": "专注，至多1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>任何研究黛丝娜（Desnan）传说的学者或占星师都能够告诉你，天体之音是一种在现实之中恒久持续的协和乐曲。它是永不停息的歌唱，是超脱凡世的音乐，它不停地维持着现实的因果并且使得位面之间的存在变得强大。\n通过使用该法术，它能够放大法术效果范围内所蕴藏的天体之音，并将之灌入你自身以及20尺内所有的生物之中，无论是友是敌。所有处于该法术效果的区域范围内的生物，在他们的回合开始时，都会获得5点快速回复，10点对所有能量类型的抗力，并且在所有对抗毒素与疾病的豁免检定中获得+3神圣加值。任何进入效果区域的生物不会立刻获得天体之音的好处，需要等到他在这片区域内的回合开始才行。你必须保持专注来扩大天体之音，否则效果会立刻结束，不过你能够通过移动来避免敌人获得该法术的好处。<\/p>",
+    "source": "CS-ISM"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "water shield",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/w/water-shield/",
+    "name": "Water Shield",
+    "book": "Pathfinder 24: The Final Wish. Copyright 2009, Paizo Publishing, LLC",
+    "school": "evocation",
+    "descriptors":     [
+        "acid",
+        "water"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric/oracle": 4,
+        "druid": 3,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (1 cup of water)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "text": "<p>This spell surrounds you in a spout of clear acid that aids in defecting attacks and damages creatures that attack you in melee. The constantly upward-rushing waters grant you a measure of protecting, shielding you so you only take half damage from acid and fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.<\/p><p>Any creature striking you with its body or a hand-held weapon deals normal damage, but at the same time the attacker takes 1d6 points of acid damage + 1 point per 2 caster levels (maximum +10). If the attacker has spell resistance, it applies to this effect. Creatures wielding weapons with exceptional reach are not subject to this damage if they attack you.<\/p>",
+    "name_zh": "水盾",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（1杯水）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级（可解消）",
+    "text_zh": "<p>该法术将你包围在一股清澈的酸液中，有助于偏转攻击并伤害近战攻击你的生物。不断向上涌动的液体为你提供了一定程度的保护，庇护你只受到基于酸和火的攻击的一半伤害。如果这样的攻击允许通过反射豁免以将伤害减半，那么你在成功豁免时不会受到伤害。\n任何用身体或手持武器攻击你的生物都会对你造成正常伤害，但同时攻击者会受到1d6+1/2CL（最高+10）的强酸伤害。如果攻击者具有法术抗力，则它适用于此效果。挥舞着特殊触及武器的生物在攻击你时不会受到这种伤害。\n（译注：这是个3.5时期的法术，所以用词有些奇怪真不是我的错（逃））<\/p>",
+    "source": "AP-LoF"
+}

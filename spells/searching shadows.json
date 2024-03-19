@@ -1,0 +1,31 @@
+{
+    "key": "searching shadows",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/searching-shadows/",
+    "name": "Searching Shadows",
+    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "school": "illusion",
+    "subSchool": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "shadows in a 10-foot-radius spread",
+    "duration": "concentration",
+    "savingThrow": "Reflex partial",
+    "spellResistance": "yes",
+    "text": "<p>Strands of shadow probe an area, searching for a creature or object you specify by shape, size, or texture. Each round, the shadows attempt a Perception check on the squares they touch with a total bonus equal to your caster level + your Charisma or Intelligence modifier, whichever is higher. You can move the shadows up to 30 feet or change the search criteria as part of concentrating on the spell. Whenever the shadows come into contact with a creature with spell resistance, you must attempt a caster level check to overcome its spell resistance. If you fail, the spell ends.<\/p><p>When the shadows locate a desired item or creature, you are aware of its shape and size and can order the shadows to try to seize it. If the shadows are seeking a creature, the area they cover becomes difficult terrain for that creature, and the creature must succeed at a Reflex saving throw or become entangled and unable to move. Changing the criteria of the creature or object sought or moving the shadows away from an entangled target frees it. If the target is an object carried by a creature, the shadows attempt a disarm or steal combat maneuver check as appropriate, using the same modifier as for their Perception check. The shadows can pick up and move unattended, non-magical objects that weigh up to 5 pounds.<\/p><\/div>",
+    "name_zh": "搜寻之影",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "effect_zh": "10英尺半径扩散的阴影",
+    "duration_zh": "专注",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>暗影细丝会探测一片区域，寻找一个你指定形状，大小，或质地的生物或物品。每一轮，阴影对接触的方格尝试一次观察检定，总奖励等于你的施法者等级+你的魅力或智力修饰值，取较高值。你可以将阴影移动到最远30英尺或专注于法术以改变搜索标准。当阴影接触到有法术抗力的生物时，你必须尝试一次施法者等级检定以克服他的法术抗力。如果你失败，法术就会结束。\n当阴影定位到你想要的物品或生物时，你会知晓它的形状和大小，并能命令阴影试图抓住他。如果阴影正在寻找一个生物，它们所覆盖的区域对于该生物而言变为困难地形，生物必须成功通过反射豁免检定，否则会被纠缠，无法移动。改变搜索生物或物体的标准，或将阴影移离一个被纠缠的生物都会释放他。如果目标是一件由生物携带的物体，那么阴影要适当尝试一次卸武或偷窃战技检定，使用相同的修饰值。阴影可以拾取和移动无人看管的非魔法物品，重量最大可达5磅。<\/p>",
+    "source": "CS-ISI"
+}

@@ -1,0 +1,38 @@
+{
+    "key": "apathy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/apathy/",
+    "name": "Apathy",
+    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 4,
+        "mesmerist": 4,
+        "psychic": 5,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "S, V, M (a shiny bead)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one creature",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You cause a creature to temporarily lose interest in a passion or pursuit, taking the heat off your trail to facilitate a getaway, the finalization of a scheme, or the elimination of incriminating evidence. When casting the spell, you designate a subject or activity about which the target becomes indifferent. While under the effects of apathy, the target takes a –5 penalty on all skill checks and ability checks to investigate, pursue, or otherwise advance its goals in relation to the designated subject. In most cases, however, the target does not attempt such checks if they can be avoided, as it simply has no interest in putting effort into the endeavor.<\/p><p>If the chosen activity is something that would be harmful for the target to refrain from doing (such as eating, sleeping, or holding its breath underwater), the target receives a +5 bonus on the saving throw or other check required by its inaction, and receives a new saving throw to negate the effects of this spell with the same +5 bonus immediately after. The bonus on these saving throws and checks increases by 1 for each subsequent check required by the same condition. If you directly interact with the target of this spell (such as engaging it in combat or targeting it with another spell or effect), the spell immediately ends.<\/p>",
+    "name_zh": "冷漠术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（一颗闪亮的珠子）",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使一个生物暂时失去对激情或追求的兴趣，帮自己摆脱追踪者以逃之夭夭，终结阴谋，或消除犯罪证据。当施法时，你指定一个目标或一件想让目标对此变得无所谓的事情。在冷漠术的影响下，目标在所有技能检定和属性检定上受到-5惩罚，只要这些检定是用来做调查、追踪、或以其他方式将目标向指定主题推进的事情。然而在大多数情况下，如果这些尝试可以被避免，目标甚至都不会进行这些尝试，因为他根本没有兴趣去对此付诸行动。\n如果所选择的活动是目标不做就会有害的事情（诸如吃饭、睡觉，或在水下屏住呼吸），目标在豁免检定或其他因无作为而需要的检定上获得+5奖励，并在之后立即获得一次拥有+5奖励的新豁免检定来否定法术效果。豁免投骰和检定的奖励在随后每次因相同状况而需要的检定上增加1。如果你直接与法术的目标进行互动（比如与他战斗，或对他使用另一个法术或效果），法术会马上结束。<\/p>",
+    "source": "CS-ISI"
+}

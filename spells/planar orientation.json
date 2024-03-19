@@ -1,0 +1,33 @@
+{
+    "key": "planar orientation",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planar-orientation/",
+    "name": "Planar Orientation",
+    "book": "Pathfinder Campaign Setting: The First World, Realm of the Fey © 2016, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "bard": 1,
+        "cleric": 1,
+        "druid": 1,
+        "inquisitor": 1,
+        "psychic": 1,
+        "ranger": 1,
+        "shaman": 1,
+        "sorcerer/wizard": 1,
+        "summoner": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<p>This spell helps creatures accustomed to the concrete reality of the Material Plane to navigate within the confusing realities of other planes. When cast, it functions as know direction, save that instead of revealing true north, it reveals the direction of the palace or demesnes most associated with that plane or demiplane's ruling god or demigod, as well as a brief and generic vision of that entity's appearance or holy symbol. The spell functions only within whatever plane or demiplane you are located in at the time; for instance, if cast within a specific demon lord's Abyssal realm or on a given layer of Hell, it would point to the seat of power for that demon lord or archdevil. If a plane or demiplane has multiple gods or rulers, it reveals the directions of the closest three, allowing for triangulation.<\/p><p>This spell reveals the location of the god or demigod's official seat of power only, not the entity itself, and if such a location is deliberately hidden via magic of any sort, the spell automatically fails. It does not function on the Material Plane.<\/p>",
+    "name_zh": "位面定位术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "立即",
+    "text_zh": "<p>此法术能让习惯了主物质位面的具体事实的生物，能在其他位面的混乱事实中航行。施法时，其效果如同指北术(know direction)，但它不会告诉你北方的正确方位，而是会指出与此位面或此半位面最相关的统治神祇或半神的殿堂或领地的位智，并让你看到该存在外型或圣徽的简要、普遍的幻影。此法术只在你当时位处于该位面或半位面时生效。举个例子，如果你在某个特定恶魔领主的深渊国度或地狱某层施放此法术，它会指向该恶魔领主或魔鬼大公的权力中心，而非拉玛什图或阿莫斯蒂亚斯。如果该位面或半位面有不只一个神祇或统治者，例如第一世界的古老者(Eldest)或天堂的至高天领主与神祇们，它会指出最靠近的三个的方向，让你能进行三角测量。此法术只会指出该神祇或半神公开的权力中心，而不会指出该存在本体，而如果该处被魔法蓄意隐藏，法术自动失败。此法术在主物质位面不会生效。<\/p>",
+    "source": "CS-TFWRotF"
+}

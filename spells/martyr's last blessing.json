@@ -1,0 +1,29 @@
+{
+    "key": "martyr's last blessing",
+    "url": "https://aonprd.com/SpellDisplay.aspx?ItemName=Martyr%27s%20Last%20Blessing",
+    "name": "Martyr's Last Blessing",
+    "book": "Pathfinder Adventure Path #71: Rasputin Must Die! © 2013, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "levels":     {
+        "cleric/oracle": 3,
+        "ranger": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, DF",
+    "range": "personal (see text)",
+    "target": "you and one ally/level, no two of which can be more than 30 ft. apart (see text)",
+    "duration": "1 hour/level or instantaneous (see text)",
+    "savingThrow": "Will half (harmless, see text)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You charge your body with healing energy, which erupts from you if you are dying or are killed before 1 hour per level has passed. If you’re brought below 0 hit points or killed (including by effects that kill without dealing damage, such as phantasmal killer and power word kill), the eruption of healing energy acts as mass cure light wounds on allies (other than you). Allies with the fewest Hit Dice are affected first. Among allies with equal HD, those closest to you are affected first. If the duration ends, the stored healing energy dissipates with no effect.<\/p>",
+    "name_zh": "殉道者的最终祝福",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势，法器",
+    "target_zh": "自己 或 至多每等级一个盟友，任意两者之间的距离不超过30尺（见下文）",
+    "duration_zh": "1小时/等级 或 立即（见下文）",
+    "savingThrow_zh": "意志减半（无害，见下文）",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你为自己的身体注入治疗能量，如果你在1小时/等级过去前濒死或被杀死，那么这种能量会从你身上爆发。如果你的生命值低于0或被杀死（包括杀人但不造成伤害的效果，如魅影杀手和真言术：死），治疗能量的爆发将如同群体治疗轻伤一般对盟友（除了你）作用。HD最少的盟友首先受到影响。在具有相同HD的盟友中，最接近你的盟友首先受到影响。如果持续时间结束，储存的治疗能量会无效地消散。<\/p>",
+    "source": "AP-RoW"
+}

@@ -1,0 +1,19 @@
+{
+    "key": "fleshwarping swarm, drow",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fleshwarping-swarm-drow/",
+    "name": "Fleshwarping Swarm, Drow",
+    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "levels":     {
+        "sorcerer/wizard": 3,
+        "summoner": 3,
+        "witch": 3
+    },
+    "duration": "concentration + 2 rounds and 1 hour/level (see text)",
+    "text": "<p>This spell functions as <i>summon swarm<\/i>, except that living and undead creatures that fail their saving throw against the swarm's distraction find that their limbs twist and spasm, as their bodies become susceptible to transmutations. Such creatures take a –4 penalty to Dexterity and on saving throws against transmutation effects for 1 hour per caster level.<\/p>",
+    "name_zh": "变形虫群",
+    "duration_zh": "专注+2 轮和1小时/等级（见下）",
+    "text_zh": "<p>该法术如同飞虫走兽（summon swarm），但在对抗集群的扰乱心神的豁免检定中失败的活物和不死生物会发现他们的四肢扭曲和痉挛，身体更容易发生变化。 这样的生物在敏捷属性和在对抗变化效果的豁免检定上受到-4减值，持续时间为每施法者等级1小时。<\/p>",
+    "source": "CS-ISR"
+}

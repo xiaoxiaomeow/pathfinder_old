@@ -1,0 +1,29 @@
+{
+    "key": "sympathetic wounds",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sympathetic-wounds/",
+    "name": "Sympathetic Wounds",
+    "book": "Pathfinder Chronicles: Gods and Magic. Copyright 2008, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric/oracle": 2,
+        "druid": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (250 gp of powdered amber)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell functions like shield other, except some of your wounds transfer to the targeted creature rather than some of their wounds transferring to you. For example, you could link yourself to a nearby chained slave so that when you are wounded, some of the damage is transferred to the slave. You must have at least as many hit dice as the target, otherwise the spell fails. A creature can only be under the effects of one instance of this spell at a time.<\/p>",
+    "name_zh": "交感痛楚",
+    "race_zh": "宗─库山",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (250金币的琥珀粉末)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "1名生物",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>本法术如护卫他人(shield other)般运作，除了你有部分的伤口会转移到目标生物上，而不是他们有部分伤口会转移到你身上。举例，你可以把你与旁边被锁起来的奴隶连接起来，这样当你在受伤时，有些伤害会转移到奴隶身上。你的生命\n骰必须要和目标一样多，不然此法术失效。你在同一时间，只能拥有此法术一次在身上。<\/p>",
+    "source": "CS-GaM"
+}

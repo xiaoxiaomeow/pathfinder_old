@@ -1,0 +1,31 @@
+{
+    "key": "create variant mummy",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-variant-mummy/",
+    "name": "Create Variant Mummy",
+    "book": "Pathfinder Adventure Path #81: Shifting Sands © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "arcanist": 7,
+        "cleric/oracle": 7,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 hour",
+    "components": "V, S, M (onyx gems worth 50 gp per HD of the undead to be created)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "1 corpse steeped in a peat bog for at least 24 hours",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as create undead, except it creates one of the following variant mummies: bog mummy, ice mummy, or pharaonic guardian.<\/p>",
+    "name_zh": "唤起变种木乃伊",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言，姿势，材料（要创造的不死生物所具有的每个HD价值50gp的黑玛瑙）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一具浸泡在泥炭沼泽（a peat bog）中至少24小时的尸体",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术如同唤起死灵（《核心规则书》262页）一样作用，除了它创造的是以下的变体木乃伊之一：沼泽木乃伊，冰封木乃伊，或奥斯里昂墓穴守卫。<\/p>",
+    "source": "AP-MM"
+}

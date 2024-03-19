@@ -1,0 +1,35 @@
+{
+    "key": "curse of unexpected death",
+    "url": "hhttps://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Unexpected%20Death",
+    "name": "Curse of Unexpected Death",
+    "book": "Pathfinder Adventure Path #86: Lords of Rust © 2018, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "curse",
+        "death"
+    ],
+    "subSchool": ["glamer"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "shaman": 5,
+        "witch": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 minute/level (see text)",
+    "savingThrow": "Fortitude partial (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You curse one living creature with a chance of instant and unexpected death. When you cast this spell, your hand seethes with eerie gray fire. You must succeed at a melee touch attack to touch the target, at which time the fire buries itself within the target’s body and disappears. On the round you touch the creature and once per minute thereafter, roll 1d100. On a result of 01–05, the spell is triggered and the creature takes 8d6 points of damage + 1 point per caster level; the creature can attempt a saving throw to reduce the damage to 2d6 points of damage + 1 point per caster level. On a result of 06–100, nothing happens.<\/p><p>Once the spell is triggered or if the duration expires before it triggers, the magic ends and no further 1d100 rolls are made. If the target has spell resistance, a caster level check is made when you succeed at the touch attack. A creature can be affected by only one instance of this spell at a time. The untriggered spell can be removed with dispel magic, remove curse, or similar effects.<\/p>",
+    "name_zh": "诅咒：意外死亡",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "碰触到的活物",
+    "duration_zh": "1分钟/等级 (见下)",
+    "savingThrow_zh": "强韧，通过则部分生效 (见下)；法术抗力：有 ",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你诅咒一个活物有机会无预警且立即的死去。当你施展此法术时，你的手燃起了诡异的灰色火焰。你必须成功一个近战接触攻击来碰触目标，此时火焰会没入目标的身体并消失不见。在你碰触该生物的当轮以及之后的每一分钟，投掷一个1d100。结果是01-05的话，此法树会被触发而该生物会受到8d6+1/施法者等级的伤害；该生物可以尝试一个豁免检定来将伤害减少到2d6+1/施法者等级。结果是06-100的话，没事发生。一但此法术被触发或著在被触发前持续时间结束了，此法术结束而且不会有1d100要骰。如果目标具有法术抗力，那在你的接触攻击成功时你要做一个施法者等级检定。一个生物同时只能受到此法术影响一次。未被触发的法术可以被解除魔法、移除诅咒或类似效果移除。<\/p>",
+    "source": "AP-IG"
+}

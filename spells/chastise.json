@@ -1,0 +1,25 @@
+{
+    "key": "chastise",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chastise/",
+    "name": "Chastise",
+    "book": "Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "<p>You gain a +5 bonus on Bluff, Diplomacy, and Intimidate checks to convince a listener that they will get in trouble with their superiors or with the law if they don't do what you ask.<\/p><p>This spell is primarily used by certain martial orders.<\/p>",
+    "name_zh": "告诫合作",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>你说服听众，如果他们不照你的要求做，他们就会被上司找碴或陷入法律纠纷中，你在做这件事的唬骗、交涉与威吓检定上获得+5加值。\n这法术常被雄鹰骑士(Eagle Knights)所使用，尽管这并不是他们创造的；地狱骑士们也广泛的使用此法术以获取讯息以及促进合作。<\/p>",
+    "source": "CS-FG"
+}

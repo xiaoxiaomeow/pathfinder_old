@@ -1,0 +1,40 @@
+{
+    "key": "plague bearer",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-bearer/",
+    "name": "Plague Bearer",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "disease",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "alchemist": 6,
+        "antipaladin": 6,
+        "cleric/oracle": 6,
+        "druid": 6,
+        "inquisitor": 6,
+        "sorcerer/wizard": 7,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one living creature",
+    "duration": "1 round/level; see text",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>You make the target an asymptomatic carrier for a host of virulent diseases. Creatures that end their turn adjacent to the target must succeed at a Fortitude save or be affected as if by the spell contagion. The target itself does not become diseased, and suffers no ill effects from this spell. Once plague bearer ends, the target is no longer contagious, though any creature it infected remains diseased.<\/p>",
+    "name_zh": "瘟疫携带者",
+    "race_zh": "厄加图娅",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "一个活物",
+    "duration_zh": "1轮/等级，见下文",
+    "savingThrow_zh": "强韧通过则无效，见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使目标成为一系列致命疾病的无症状携带者。在目标相邻区域结束回合的生物必须成功进行强韧豁免，否则会受到疫病术（contagion）法术的影响。目标本身不会患病，也不会受到该法术的疾病效果。一旦瘟疫携带者结束，该目标不再具有传染性，尽管任何被其传染的生物仍有疾病。<\/p>",
+    "source": "CS-ISG"
+}

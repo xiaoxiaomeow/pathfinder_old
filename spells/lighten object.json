@@ -24,10 +24,10 @@
     "castingTime_zh": "标准动作",
     "components_zh": "语言，材料（鹅毛）",
     "range_zh": "近距 (25尺+5尺/2等级)",
-    "target_zh": "一件一立方英呎的物体/等级",
+    "target_zh": "一件一立方英尺的物体/等级",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "意志，通过则无效（物体）",
-    "spellResistance_zh": "有（物体）",
-    "text_zh": "<p>该法术的功能如同物品轻量一般，不过该法术可以影响的物品数量等同于你施法者等级的一半。<\/p>",
-    "source": "PC-FoB"
+    "savingThrow_zh": "意志通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>这个法术将会减轻目标的重量至原先的一半。如果施放在盔甲上，这将会减轻1点防具检定减值，尽管这不会改变轻、中、重的盔甲类型。<\/p>",
+    "source": "CS-ISG"
 }

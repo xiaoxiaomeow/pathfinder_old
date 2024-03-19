@@ -1,0 +1,31 @@
+{
+    "key": "blade snare",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-snare/",
+    "name": "Blade Snare",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels":     {
+        "druid": 3,
+        "magus": 3,
+        "ranger": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell creates an invisible magic field that does not stop weapons (whether manufactured or natural) from moving toward you, but impedes their motion when they are retracted. When you are hit with a melee attack, attempt a caster level check against your opponent's CMD. If your check succeeds, your opponent's attacking weapon or body part becomes caught in the field, as if magically affixed to your body. If your check fails, your opponent may retract its weapon.<\/p><p>If your opponent's melee weapon becomes trapped in the field, the opponent may release the weapon and move away from you. If your opponent attacked with a part of its body (such as a fist, a horn, a tail, etc.) or it attacked with a weapon but refuses to release it, your opponent gains the grappled condition. Because you are not using any part of your body to maintain control over your opponent, you do not gain the grappled condition.<\/p><p>Once an opponent's weapon is snared, you may attempt a new caster level check against that opponent's CMD on each of your subsequent turns to maintain the grapple. This is a standard action, during which you may make any of the usual grappling actions, but if you choose to pin the opponent, you gain the grappled condition as well. On your opponent's turn, it may try to retract its weapon or limb by attempting a combat maneuver check or Escape Artist check, the DC of which is equal to the spell's saving throw.<\/p><p>While blade snare is active, you may make melee attacks and cast spells as normal, though you may not make ranged weapon attacks; the magic field thwarts such attacks. You may not snare more than one limb or weapon in the field at a time. If you already have an opponent's weapon or limb stuck in the field and you are hit by a second melee attack, you must choose which weapon or limb to snare. The other limb or weapon is unaffected by the spell.<\/p>",
+    "name_zh": "白刃锁",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "你",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术会产生一层不会主动防御你，但是却会使攻击者无法收回武器（无论是天生或人造武器）的抑制力场。每当你被近战攻击击中时，做一次施法者等级检定以对抗对方的CMD。如果你胜出，那么你对手的武器或身体部分被固定在你的身上；如果你失败，那么对方可以成功收回武器。\n如果对手的近战武器被力场困住，那么他可以选择丢下武器自行离开。如果你的对手使用天生武器攻击你或者是拒绝丢下武器，那么他进入擒抱状态——因为你并没有尝试擒抱他，你并不会进入擒抱状态。\n一旦对方的武器被困住，你就可以在接下来的每轮中进行一个新的施法者等级检定对抗对方的CMD并以此维持擒抱。在此期间，你仍然能自由发起擒抱。在你对手的回合，他也可以尝试一个战技攻击检定或是逃脱术检定，DC等同于这个法术的豁免DC。\n在法术的生效期间，你仍然能自由的攻击和施法，但你不行以远程武器攻击，力场会阻止此类攻击。如果你已经困住了一个生物的一件武器或身体部分，那么你无法尝试再控制另一个生物的武器，除非你放弃原来的目标而选用新目标。目标除了被锁住部分外的其他武器或肢体攻击不会被法术影响。<\/p>",
+    "source": "CS-ISG"
+}

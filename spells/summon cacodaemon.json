@@ -1,0 +1,21 @@
+{
+    "key": "summon cacodaemon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-cacodaemon/",
+    "name": "Summon Cacodaemon",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 2,
+        "sorcerer/wizard": 2,
+        "summoner": 2,
+        "witch": 2
+    },
+    "components": "V, S, F (a silver hook)",
+    "text": "<p>This spell functions like summon monster, except it summons a single cacodaemon.<\/p>",
+    "name_zh": "召唤狂躁邪魔",
+    "components_zh": "语言、姿势、器材(一根银色钩子)",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只狂躁邪魔。<\/p>",
+    "source": "CS-BotD3"
+}

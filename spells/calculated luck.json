@@ -1,0 +1,29 @@
+{
+    "key": "calculated luck",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/calculated-luck/",
+    "name": "Calculated Luck",
+    "book": "Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.",
+    "school": "divination",
+    "levels":     {
+        "cleric": 3,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You are able to use the Path of Numbers to substantially boost your combat preparedness, but your foresight comes at a price.<\/p><p>Roll 3d8 and refer to the Eight Basic Energies table.<\/p><p>After rolling, assign each die to one of the following.<\/p><ul>  <li><b>Energy Type<\/b>: You gain vulnerability to the energy type that matches the die's result for the duration of the spell. You take half again as much damage (+50%) from that energy type, regardless of whether you successfully saved against the damaging spell or effect.<\/li>  <li><b>Magic School<\/b>: For the spell's duration, you cast all spells from the school that matches the die's result at +1 caster level.<\/li>  <li><b>d20 Roll Type<\/b>: You receive a +2 luck bonus on the d20 roll that matches the die's result for the duration of the spell.<\/li> <\/ul> <h3>The Path of Numbers<\/h3><p>The Path of Numbers is a system of numerology that describes eight basic energies. Any of these types of energy can interact at any time, producing 64 possible combinations. It is believed that those 64 combinations are sufficient to describe the basis of every interaction in the cosmos. No matter the plane, creature, or time in question, every event in the multiverse is based on one of those 64 templates. In short, the Path of Numbers is a periodic table of energetic elements.<\/p><table border=\"1\" cellpadding=\"5\">  <caption>   Table: Eight Basic Energies  <\/caption>  <thead>   <tr>    <th class=\"number\">d8<\/th>    <th class=\"text\">Energy Type<\/th>    <th class=\"text\">Magic School<\/th>    <th class=\"text\">d20 Roll<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"number\">1<\/td>    <td class=\"text\">Air<\/td>    <td class=\"text\">Enchantment<\/td>    <td class=\"text\">Will saves<\/td>   <\/tr>   <tr>    <td class=\"number\">2<\/td>    <td class=\"text\">Electricity<\/td>    <td class=\"text\">Illusion<\/td>    <td class=\"text\">Reflex saves<\/td>   <\/tr>   <tr>    <td class=\"number\">3<\/td>    <td class=\"text\">Fire<\/td>    <td class=\"text\">Necromancy<\/td>    <td class=\"text\">Attack rolls<\/td>   <\/tr>   <tr>    <td class=\"number\">4<\/td>    <td class=\"text\">Sonic<\/td>    <td class=\"text\">Evocation<\/td>    <td class=\"text\">Initiative rolls<\/td>   <\/tr>   <tr>    <td class=\"number\">5<\/td>    <td class=\"text\">Acid<\/td>    <td class=\"text\">Abjuration<\/td>    <td class=\"text\">Fortitude saves<\/td>   <\/tr>   <tr>    <td class=\"number\">6<\/td>    <td class=\"text\">Water<\/td>    <td class=\"text\">Transmutation<\/td>    <td class=\"text\">Caster level checks<\/td>   <\/tr>   <tr>    <td class=\"number\">7<\/td>    <td class=\"text\">Cold<\/td>    <td class=\"text\">Divination<\/td>    <td class=\"text\">Concentration checks<\/td>   <\/tr>   <tr>    <td class=\"number\">8<\/td>    <td class=\"text\">Earth<\/td>    <td class=\"text\">Conjuration<\/td>    <td class=\"text\">Combat Maneuver Checks<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "name_zh": "精心谋划的幸运",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你能够使用天元道（the Path of Numbers）来强化你的备战能力，但你的这份远见是有代价的。掷3个d8骰子，并将每一个骰子分配给以下一项。\n能量类型：在法术持续时间内，你会受到与骰子结果相匹配的能量类型的易伤。无论你是否成功地豁免了伤害性法术或效果，你都会从该能量类型中再次受到一半的伤害 (+50%)。（按原文可能是受到豁免前的伤害的一半）\n魔法学派：在法术持续时间内，你施展所有与骰子结果相匹配的学派法术时，施法者等级+1。\nd20掷骰类型：在法术持续时间内，你在与骰子结果相匹配的 d20 掷骰上获得 +2 幸运加值。\n引用 天元道表格\nd8 能量类型 魔法学派 d20掷骰类型 \n1   　气 　惑控 　意志豁免 \n2　　电 　幻术 　反射豁免 \n3　　火 　死灵 　攻击检定 \n4　　音波 　塑能 　先攻检定 \n5　　强酸 　防护 　强韧豁免 \n6　　水 　变化 　施法者等级检定 \n7　　寒冷 　预言 　专注检定 \n8　　土 　咒法 　战技检定<\/p>",
+    "source": "CS-OM"
+}

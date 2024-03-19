@@ -1,0 +1,31 @@
+{
+    "key": "burst of glory",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-glory/",
+    "name": "Burst of Glory",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "cleric/oracle": 5,
+        "inquisitor": 4,
+        "paladin": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "area": "10-ft.-radius burst, centered on you",
+    "duration": "1 round/level (d; see text)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>Allies in the area of this spell at the time of casting gain a +1 sacred bonus on attack rolls and saves against fear effects, plus 1 temporary hit point per caster level (maximum 20). You shine with a white or golden radiance equal to a torch for the spell's duration, though you can dismiss the glow effect as a free action.<\/p>",
+    "name_zh": "荣耀奔涌",
+    "race_zh": "爱奥梅黛",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、法器",
+    "area_zh": "10呎半径爆发，以你为中心",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>在区域内的目标于攻击骰与对抗恐惧效果的豁免上获得+1神圣加值，以及每施法者等级+1临时生命值(最多+20)。你浑身发出白色或金黄色的光辉，在法术持续时间内等同一把火炬，但你可以以一个自由动作解消发光。<\/p>",
+    "source": "CS-GaM"
+}

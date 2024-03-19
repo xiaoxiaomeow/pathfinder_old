@@ -1,0 +1,24 @@
+{
+    "key": "inveigle monster",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inveigle-monster/",
+    "name": "Inveigle Monster",
+    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "school": "enchantment",
+    "subSchool": ["charm"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 5,
+        "mesmerist": 5,
+        "psychic": 6,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "target": "one living creature",
+    "duration": "1 day/level",
+    "text": "<p>This spell functions as <i>inveigle person<\/i> except as noted above.<\/p>",
+    "name_zh": "诱骗怪物",
+    "target_zh": "一个活物",
+    "duration_zh": "1天/等级",
+    "text_zh": "<p>这种法术如同诱骗人类，除了以上所述。<\/p>",
+    "source": "CS-ISI"
+}

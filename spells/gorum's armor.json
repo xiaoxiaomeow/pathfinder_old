@@ -1,0 +1,33 @@
+{
+    "key": "gorum's armor",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spiked-armor/",
+    "name": "Gorum's Armor",
+    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bloodrager": 1,
+        "cleric/oracle": 1,
+        "inquisitor": 1,
+        "magus": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (1 iron spike)",
+    "range": "touch",
+    "target": "1 suit of metal armor or 1 metal shield",
+    "duration": "10 min.s/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The targeted suit of armor or shield sprouts thousands of tiny iron spikes like porcupine quills. These do not harm the armor's wearer (though donning or removing armor under the effects of this spell takes twice as long), but they act as armor spikes or shield spikes (as appropriate). Any creature attacking the wearer with natural weapons takes 1 point of piercing damage for each attack that hits.<\/p><p>At 5th level, the spikes gain a +1 enhancement bonus on attack and damage rolls; this bonus increases to +2 at 10th level. At 15th level, the spikes also gain the anarchic weapon quality.<\/p>",
+    "name_zh": "古拉姆的盔甲",
+    "race_zh": "古拉姆",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一根钢钉)",
+    "range_zh": "接触",
+    "target_zh": "一套金属盔甲(包含盾牌)",
+    "duration_zh": "强韧，通过则无效 (无害)",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>目标盔甲长出像豪猪外刺般的数千根钢钉。这些钢钉不会伤到穿戴本盔甲的人(但穿上或脱下会花上双倍时间)，他们就像甲刺一样(以及盾刺，如果有盾的话)。任何使用天生武器攻击穿戴者的生物，每打中一下，都会受到1点穿刺伤害。在5级时，用来攻击与伤害的甲刺会获得+1增强加值。<\/p>",
+    "source": "CS-GaM"
+}

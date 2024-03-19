@@ -1,0 +1,21 @@
+{
+    "key": "summon meladaemon",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-meladaemon/",
+    "name": "Summon Meladaemon",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 8,
+        "sorcerer/wizard": 8,
+        "summoner": 6,
+        "witch": 8
+    },
+    "components": "V, S, F (an empty wooden bowl)",
+    "text": "<p>This spell functions like summon monster, except it summons a single meladaemon.<\/p>",
+    "name_zh": "召唤饥馑邪魔",
+    "components_zh": "语言、姿势、器材(一个空木碗)",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只饥馑邪魔。<\/p>",
+    "source": "CS-BotD3"
+}

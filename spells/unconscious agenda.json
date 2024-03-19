@@ -1,0 +1,37 @@
+{
+    "key": "unconscious agenda",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unconscious-agenda/",
+    "name": "Unconscious Agenda",
+    "book": "Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition © 2012, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 6,
+        "inquisitor": 6,
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "castingTime": "10 minutes",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "One humanoid",
+    "duration": "one week/level or until discharged (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell plants a subconscious directive in the target's mind that forces him to act as you dictate when specific circumstances arise. The target humanoid can be either conscious or unconscious, but must understand your language. Upon casting this spell, you must state a course of action you wish the target to take. This course of action must be described in 20 words or fewer. You must then state the condition under which you wish the target to take this action, also describing it in 20 or fewer words. Actions or conditions more elaborate than 20 words cause the spell to fail. <i>Unconscious agenda<\/i> cannot compel a target to kill himself, though it can compel him to perform exceedingly dangerous acts, face impossible odds, or undertake almost any other course of activity. You cannot issue new commands to the target after the spell is cast.<\/p><p>If the target fails his save against this spell, he is not compelled to act in any way until the specified trigger circumstances are encountered. He also has no knowledge of the details of the spell affecting him, and has no memory of the last 10 minutes (although he might come to notice the missing time or the presence of the caster). He can function as he wishes until the events you detailed as the condition take place. Upon experiencing the prerequisite condition, the target is forced to perform the course of action you described as per the spell dominate person. (If the compelled action is against the victim's nature, he immediately gains a new saving throw at a +5 bonus against the spell to end its effects.) For the next hour, the target acts as you dictated, doing all he can to fulfill your command. If, at the end of the hour, the target still has not completed your command, the target is released from the enchantment and the spell ends. Once the course of action is completed, the spell ends. The target has full memory of acts performed during this hour.<\/p><p>It's difficult to detect an <i>unconscious agenda<\/i> before the spell is triggered. Casting detect magic on one affected by it only reveals an aura of enchantment if the caster of detect magic has a higher caster level then the caster of <i>unconscious agenda<\/i>. Even if the spell is detected, it can only be removed by break enchantment, limited wish, remove curse, miracle, or wish. Dispel magic does not affect <i>unconscious agenda<\/i>.<\/p>",
+    "name_zh": "无意识行仪",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个类人生物",
+    "duration_zh": "1周/等级 或 直到消解（D）",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术在目标的心灵中植入潜意识的指令，当特定状况发生时会强迫他按照你的指令行动。目标类人生物可以是有意识（conscious）或失去意识（unconscious）的，但必须要能够理解你所说的语言。施展此法术后，你必须声明你希望目标在此过程中执行的一系列动作。这一系列动作必须用20字或更少字数进行描述。复杂程度超过20字的动作或状态会导致此法术失败。无意识行仪不能强迫目标自杀，但可以强迫他进行极度危险的行动、挑战不可能，或进行基本上其他所有的活动。你施展完此法术之后，不能再给目标下达新的命令。\n若目标在对抗此法术时豁免失败，那么直到遭遇特定的触发状况为止，他不会以任何方式被强迫去行动。他对影响自己的法术详细状况也一无所知，对过去的10分钟毫无记忆（虽然他可能会察觉到有段时间被跳过了，或者发现施法者的存在）。直到你描述的状况发生为止，他可以随意行动。碰上预定的状况时，目标将如同法术支配人类一样被迫执行你所描述的一系列行动（若此强迫行动违抗受害者的本性，那么他立即获得一次新的豁免机会来终结其效果，并且获得+5加值）。在接下来一小时内，目标会依照你的指示行动，尽他所能地完成你的命令。若是这一小时结束时目标尚未完成你的命令，那么他不再被此惑控法术控制，法术结束。当行动完成时，法术亦结束。目标清楚记得他在这一小时内所进行的行动。\n在无意识行仪触发之前，很难侦测到它的存在。若对受到此法术影响的生物施展侦测魔法，那么在侦测魔法的施法者的施法者等级高于此法术的施法者的施法者等级时，侦测魔法只会揭露惑控系灵光。即使侦测到此法术，也只能透过破除结界、有限祈愿术、移除诅咒、奇迹术或祈愿术来移除它。解除魔法对无意识行仪无效。<\/p>",
+    "source": "AP-RetotR"
+}

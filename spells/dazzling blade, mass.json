@@ -1,0 +1,18 @@
+{
+    "key": "dazzling blade, mass",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dazzling-blade/",
+    "name": "Dazzling Blade, Mass",
+    "base": "dazzling blade",
+    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["pattern"],
+    "levels": {"sorcerer/wizard": 3},
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "One metal weapon/level, no two of which can be more than 30 ft. apart",
+    "text": "<p style=\"margin-left:40px\">This spell functions like <i>dazzling blade<\/i>, except as noted above and that it affects multiple weapons. Each wielder of a <i>dazzling blade<\/i> can discharge the weapon's effect to attempt to blind a foe independently of the others.<\/p>",
+    "name_zh": "群体闪耀之刃",
+    "castingTime_zh": "近距 (25呎+5呎/2等级)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "text_zh": "<p>此法术的效果类似闪耀之刃，但它可以对多件武器产生影响。每位闪耀之刃的持有者可以释放武器的效果，尝试让一名独立于其他人的敌人目盲。<\/p>",
+    "source": "CS-RG"
+}

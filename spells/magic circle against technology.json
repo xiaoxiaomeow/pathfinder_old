@@ -1,0 +1,28 @@
+{
+    "key": "magic circle against technology",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-circle-against-technology/",
+    "name": "Magic Circle Against Technology",
+    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a 3-ft.-diameter circle of powdered copper)",
+    "range": "touch",
+    "duration": "10 min./level",
+    "savingThrow": "Will negates (harmless), see text",
+    "spellResistance": "no",
+    "text": "<p>All creatures within the area gain the effects of a protection from technology spell. Creatures in the area, or that later enter the area, receive only one attempt to suppress technological effects that are controlling them. If a creature succeed at this save, such effects are suppressed as long as the creature remains in the area. Creatures that leave the area and then return are not protected. Robots receive a saving throw and spell resistance to avoid being kept at bay, but the deflection and resistance bonuses and the protection from mental control apply to non-technological creatures in the area even if a robot succeeds at its saving throw and is thus able to enter the area.<\/p><p>This spell is not cumulative with protection from technology and vice versa.<\/p>",
+    "name_zh": "反科技法阵",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，语言，材料/法器（用铜粉画出3尺直径的圈）",
+    "range_zh": "接触",
+    "area_zh": "接触生物周围10尺半径",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志无效（无害），见下文；",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>所有处于本法术范围内的生物都会受到法术防护科技的影响。处于或之后进入法术影响范围内的生物，本法术只能压制正在心灵控制他们的科技效果。如果生物成功通过了对抗这些效果的豁免检定，那么它们处于本法术范围的保护下这些效果就将一直被压制，但如果他们离开法术范围再返回则保护获得这一好处。机体生物可以骰一次豁免检定（以及法术抗力检定，如果有）以强行进入本法术的影响范围，但这样做并不会使受到此法术保护的生物失去他们在对抗机体生物的攻击时在防御等级上的偏斜加值和豁免检定上的抗力加值。\n本法术不能和法术防护科技的效果叠加，反之亦然。<\/p>",
+    "source": "CS-TG"
+}

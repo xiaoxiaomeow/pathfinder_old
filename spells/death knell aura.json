@@ -1,0 +1,36 @@
+{
+    "key": "death knell aura",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell-aura/",
+    "name": "Death Knell Aura",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "death",
+        "evil"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "cleric": 4,
+        "inquisitor": 4,
+        "sorcerer/wizard": 4,
+        "witch": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "area": "20-ft.-radius emanation, centered on you",
+    "duration": "1 round/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You gain a shimmering gray aura that feeds on the souls of creatures who die within it. The aura sheds light as a candle. If a creature at –1 or fewer hit points is within the aura at the start of its turn, it must save or die, granting you the benefits of death knell.<\/p>",
+    "name_zh": "死亡丧钟灵光",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "20尺",
+    "area_zh": "20呎半径弥漫，以你为中心",
+    "duration_zh": "1轮/等级 (D)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>妳获得了一道闪烁灰色微光的灵光，此灵魂会吞噬区域内死去生物的灵魂。此灵光散发的光芒如同蜡烛。如果有生物的生命值为-1或更低，并且在灵光区域内开始它的回合，他必须通过豁免，否则死亡，并且给予施法者死亡丧钟法术的好处。<\/p>",
+    "source": "CS-BotD3"
+}

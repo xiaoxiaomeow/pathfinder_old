@@ -1,0 +1,20 @@
+{
+    "key": "summon cacodaemon, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-cacodaemon/",
+    "name": "Summon Cacodaemon, Greater",
+    "base": "summon cacodaemon",
+    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 3,
+        "witch": 4
+    },
+    "text": "<p>This spell functions like <i>summon cacodaemon<\/i>, except it summons 1d4+1 cacodaemons.<\/p>",
+    "name_zh": "高等召唤狂躁邪魔",
+    "text_zh": "<p>本法术的效果和召唤狂躁邪魔一样，除了本法术召唤的是1d4+1只狂躁邪魔。<\/p>",
+    "source": "CS-BotD3"
+}

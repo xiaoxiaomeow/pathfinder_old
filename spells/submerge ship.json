@@ -1,0 +1,29 @@
+{
+    "key": "submerge ship",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/submerge-ship/",
+    "name": "Submerge Ship",
+    "book": "Pathfinder Adventure Path #56: Raiders of the Fever Sea © 2012, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 7,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 minute",
+    "components": "V, S, M/DF (a glass marble or piece of soap)",
+    "range": "touch",
+    "target": "1 sailing vessel",
+    "duration": "10 min.s/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "<p>When this spell is cast upon a vessel, the ship is surrounded by a protective bubble of constantly replenishing, breathable air and sinks beneath the waves. For the duration of the spell, the ship can travel beneath the water as easily as it did above. While under the effects of this spell, the ship has magical propulsion that gives it a maximum speed of 120 feet and an acceleration of 30 feet. The ship's pilot uses the normal sailing skill to control the ship while under this spell's effects, and can command it to dive and ascend as part of the vessel's normal movement.<\/p><p>Despite the magical propulsion, the ship still requires its crew to perform its normal functions.<\/p><p>The spell protects the ship and all aboard from the dangers of drowning and pressure, but not from damage from outside obstacles or creatures. The bubble cannot be used offensively and prevents an affected ship from rising into a space that won't accommodate it (like a sea cave too small to contain it or under another vessel). Creatures can enter or leave the bubble at will, but those outside the sphere cannot be forced inside against their will, the sphere proving substantial enough that such creatures may choose whether to enter or to slip away along its sides. At the end of the spell's duration the bubble pops, causing a ship still underwater at that time to gain the sinking condition. This spell has no effect if cast upon a ship in water that cannot cover the vessel entirely.<\/p><p>Although largely beneficial, this spell can be cast on a ship whose pilot does not want to submerge her vessel. The ship itself uses its Will saving throw to resist this effect.<\/p>",
+    "name_zh": "潜水艇",
+    "castingTime_zh": "1分钟",
+    "components_zh": "语言，姿势，材料/法器 (一颗玻璃珠或一块肥皂)",
+    "range_zh": "接触",
+    "target_zh": "一艘航船",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>当这个法术被施放在一艘船上时，船只会被一个不断补充著可供呼吸的空气的保护气泡所包裹，幷且沉入水下。在法术持续时间内，船只可以像水面一样在水下航行。在这个法术的影响下，船只获得魔法动力，这使得它获得120尺的最高速度以及30尺的加速度。在法术效果影响下，船只的驾驶员仍然使用通常的航行技能控制船只，命令船只下沉或是上浮被视为船只正常移动的一部分。尽管拥有魔法动力，船只仍然需要它的船员以维持正常功能。\n法术保护著船只以及所有船员免受溺水与水压的威胁，但无法阻挡外界的障碍物与生物所造成的伤害。气泡无法用于进攻，幷且防止受影响的船只上浮至无法容纳它的空间中。（例如一个过小以至于无法容纳船只的海洞，或在另一艘船的下方）生物可以自由进出气泡，但气泡外的生物无法违背自己的意愿被强迫进入其中。这个巨大的气泡允许这样的生物自行选择进入其中或是沿着他的表面滑开。在法术持续时间结束时，气泡将会破裂，此时仍然处于水下的船只将会进入沉没状态（Sinking Condition）。法术对处于无法完全包裹船只的水域中的船只没有任何效果。\n虽然极为有用，但这个法术也会被释放在驾驶员不想淹没她的船只的船舶上。这时，船只本身使用其意志豁免以抵抗这种效果。<\/p>",
+    "source": "AP-SkullS"
+}

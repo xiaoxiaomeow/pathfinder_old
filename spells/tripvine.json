@@ -1,0 +1,30 @@
+{
+    "key": "tripvine",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tripvine/",
+    "name": "Tripvine",
+    "book": "Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "bard": 1,
+        "druid": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "10-foot-long rope or vine",
+    "duration": "10 min.s/level",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "<p>You animate a rope, vine, or similar object so that it attempts to trip any creature that comes near. The rope attacks anything in a 10-foot-square area you designate. The rope does not provoke an attack of opportunity. Its CMB is equal to your caster level +2. A tripped target that was running, jumping, or charging takes 1d6 points of nonlethal damage. Creatures aware of the tripvine gain a +4 bonus to their CMD against it.<\/p><p>A nature-worshiping faith created this spell, but it is now common.<\/p>",
+    "name_zh": "摔绊之藤",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "接触",
+    "target_zh": "10呎长的绳索或是藤蔓",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你赋予一条绳子、藤蔓或类似的物体生命力，使它们可以尝试摔绊附近的生物。这绳子能攻击由你指定的10呎方格内的任何东西。这绳子并不会引起借机攻击。它的CMB等同你的施法者等级+2。一个奔跑、跳跃或冲刺却被摔绊的目标，受到1d6点非致命伤害。注意到摔绊之藤的生物会在CMD上获得+4加值来对抗此摔绊。\n此法术是由苍翠誓约(Green Faith)所发明，但现在十分常见。<\/p>",
+    "source": "CS-FG"
+}

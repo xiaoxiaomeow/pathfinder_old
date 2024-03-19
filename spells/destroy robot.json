@@ -1,0 +1,29 @@
+{
+    "key": "destroy robot",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/destroy-robot/",
+    "name": "Destroy Robot",
+    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "levels":     {
+        "druid": 5,
+        "sorcerer/wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one robot (see below)",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You attempt to destroy any one robot in range. When you cast this spell, your hand crackles with electricity.<\/p><p>You must succeed at a ranged touch attack to affect the target. The target takes 12d6 points of damage + 1 point per caster level, or 3d6 points of damage + 1 point per caster level on a successful saving throw. A cyborg or android can be damaged by this spell, but takes half damage and gains a +4 bonus on the saving throw to resist the spell's effects.<\/p>",
+    "name_zh": "机体破坏",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，语言，法器/材料",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个机体生物（见下文）",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你尝试击毁法术范围内的一个机体亚种生物。当施展这个法术时，明亮的电流将在你的手掌间跳跃。你需要对目标进行一次远程接触攻击来传递法术。受到这个法术攻击的目标奖承受12d6+你的施法者等级点伤害，如果豁免成功则受到3d6+你的施法者等级点伤害。电子义体人和自动人也会受到这个法术的影响，但所受伤害减半且在对抗法术DC的豁免检定上获得+4加值。<\/p>",
+    "source": "CS-TG"
+}

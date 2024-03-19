@@ -1,0 +1,17 @@
+{
+    "key": "summon giant ally ii",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-giant-ally/",
+    "name": "Summon Giant Ally II",
+    "base": "summon giant ally",
+    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors": ["see text"],
+    "levels": {"druid": 7},
+    "effect": "one or more giants",
+    "text": "<p>This spell functions as summon giant ally I, except you can summon one desert, fire, frost, or jungle giant or 1d3 cave, hill, marsh, river, slag, stone, or wood giants.<\/p>",
+    "name_zh": "召唤巨人II",
+    "effect_zh": "一头或更多巨人",
+    "text_zh": "<p>如同召唤巨人I（Summon Giant Ally I），除了可以召唤一头霜巨人（frost giant），火巨人（fire giant），丛林巨人（jungle giant）或沙漠巨人（desert giant）或1d3头穴巨人（cave giant），山丘巨人（hill giant），河巨人（river giant），石巨人（stone giant），木巨人（wood giant），沼泽巨人（marsh giant）或炼巨人（slag giant）。<\/p>",
+    "source": "CS-ISR"
+}

@@ -1,0 +1,31 @@
+{
+    "key": "pugwampi's grace",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pugwampi-s-grace/",
+    "name": "Pugwampi's Grace",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pugwampi's hair)",
+    "range": "short (25 ft. + 5 ft./2 levels)",
+    "target": "one creature (see below)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>The gremlins known as pugwampis infect those around them with a malignant form of unluck—an effect that this spell emulates. If the target fails its Will save, it becomes infused with the so-called “grace of the pugwampi.” A creature affected by this spell must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. As with the aura shed by actual pugwampies, this spell has no effect on animals, gremlins, or gnolls. The effects of this spell are negated as long as a target gains any sort of luck bonus to a d20 roll (such as those granted by a luckstone or divine favor), but the spell's duration is not impacted by these effects. If the luck bonus goes away before the <i>pugwampi's grace<\/i> effect ends, the unluck returns and remains until the spell's normal duration runs out.<\/p>",
+    "name_zh": "魔怪之善意",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（小魔怪的毛发）",
+    "target_zh": "一个生物（见后文）",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>被冒险家恨之入骨的厄运小魔怪（Gremlin，Pugwampi）遍及整个内海地区，它们能够将致命的霉运传给身边的人——也就是这个法术所模拟的效果。若目标的意志豁免失败，那么他就会被灌入所谓的“厄运小魔怪之善意”。被该法术影响的生物在需要进行d20检定时（比如攻击检定、技能检定、或者豁免检定），必须投掷两次而且取其中较低的结果。就如同实际处于厄运小魔怪的灵光影响之下一般，该法术对动物、小魔怪（gremlins）、或者豺狼人（gnolls）没有效果。只要目标的d20检定获得任何幸运加值（比如来自幸运石或者神恩法术），那么该法术的效果就会失效，但是法术的持续时间并不会受到这些效果的影响。若这些幸运加值在该法术的效果结束前就消失的话，那么厄运会再度归来，并且直至法术正常的持续时间结束之前都保持下去。<\/p>",
+    "source": "CS-ISM"
+}

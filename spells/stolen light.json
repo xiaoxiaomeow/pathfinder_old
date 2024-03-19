@@ -1,0 +1,30 @@
+{
+    "key": "stolen light",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stolen-light/",
+    "name": "Stolen Light",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["figment"],
+    "levels":     {
+        "bard": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 full round",
+    "components": "V, S, F (a gem worth at least 500 gp)",
+    "range": "touch",
+    "target": "transparent gem touched",
+    "duration": "permanent or 1 min./level (see text)",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p><i>Stolen light<\/i> stores images within a gem. To store an image, as part of casting you must touch a gem worth not less than 500 gp. You trap within the gem an image of everything visible within a 30-foot cone measured from the gem, in a direction of your choice. Alternatively, you can capture a less detailed image of a single object within sight. Once the casting is complete, the gem turns opaque, and the image inside cannot be seen. The stolen image remains within the gem until released or dispelled.<\/p><p>To release an image, you touch a gem holding <i>stolen light<\/i> as a standard action and speak a command word chosen at the time of casting. For 1 minute per caster level, the image stored within the gem becomes visible. Details can be made out as clearly as they could be perceived at the time of casting. Darkvision is of no use for making out details in a stolen image, though low-light vision or other exceptional visual talents may reveal information the caster did not see. Light sources brighter than bright light are reduced to bright light in the stolen image. Once the image has been released, it cannot again be recovered from the gem.<\/p><p><i>Stolen light<\/i> can be made permanent with the permanency spell by a caster of 10th level for a cost of 5,000 gp. This leaves the gem capable of projecting the image indefinitely, activated and deactivated by its command word, until it is destroyed or dispelled.<\/p>",
+    "name_zh": "存影术",
+    "castingTime_zh": "1个整轮",
+    "components_zh": "语言、姿势、器材 (一颗价值至少500金币的宝石)",
+    "range_zh": "接触",
+    "target_zh": "碰触到的透明宝石",
+    "duration_zh": "永久 或 1分钟/等级 (见下)",
+    "savingThrow_zh": "意志，通过则无效 (物品)",
+    "spellResistance_zh": "有 (物品)",
+    "text_zh": "<p>科瑞通?沙尼在一处诡异的乌荼罗人苦行僧的坟墓中，从其破碎的笔记里发觉此法术，并有谣言说他的书房隔间和抽屉有不下于十数枚存影术宝石。要储存一个图像，做为施法的一部分，你必须碰触一枚价值不亚于500gp的宝石。妳能把以宝石为中心，30呎锥状内所有可见画面捕捉到宝石内部，锥状的方位由你选择。又或着妳可以捕抓在妳视线范围内一件物品不太详细的画面。一旦法术施展完毕，宝石会变得不再透明，画面会在宝石内部并且你看不见。被捕获的画面会一直留存在宝石内，直到释出或是被解除。\n想要释放画面，妳要使用一个标准动作碰触存有存影术的宝石，并且说出在施法时决定的关键字。在1分钟/施法者等级的期间，储存在宝石内的画面会变得肉眼可见。画面的细节，其清晰程度和在施法之时所观察到的相同。黑暗视觉无法从存影术中发现更多细节，但昏暗视觉或其他特别的视觉天赋或许能够揭露施法者没看到的细节。在存影术中若有比强光更亮的光源，那在画面中其亮度会自动减弱成强光。当画面被释放，就无法从宝石里再次释放了。\n存影术可以被魔法恒定术恒定，这需要施法者等级10，以及5000gp。这能让宝石无限次数投射画面，使用关键字来激活或取消，直到宝石被摧毁或是被解除。<\/p>",
+    "source": "CS-PSFG"
+}

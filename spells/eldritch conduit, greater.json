@@ -1,0 +1,22 @@
+{
+    "key": "eldritch conduit, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-conduit/",
+    "name": "Eldritch Conduit, Greater",
+    "base": "eldritch conduit",
+    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "sorcerer/wizard": 6,
+        "witch": 6
+    },
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 min./level",
+    "text": "<h4>EFFECT<\/h4><p><b>Range<\/b> medium (100 ft. + 10 ft./level)<br> <b>Area<\/b> one creature/level, no two of which can be more than 30 ft. apart<br> <b>Duration<\/b> 1 minute/level<\/p><h4>DESCRIPTION<\/h4><p>This spell functions like <i>eldritch conduit<\/i> save for the differences listed above and that the target must be within medium range (100 ft. + 10 ft./level) in order for you to use the conduit. Using a creature as a conduit for a spell ends the greater <i>eldritch conduit<\/i> effect on that creature, but does not end the effect for other <i>eldritch conduits<\/i>.<\/p>",
+    "name_zh": "高等魔力通道",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "area_zh": "每等级1个生物，任意两个生物之间的距离不超过30尺",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>除了上述内容之外，该法术的功能与魔力通道类似，目标必须在中距范围（100尺 + 10尺/级）才能被你作为通道使用。将一个生物作为法术通道使用，会使在该名生物身上的高等魔力通道效果结束，但是其他仍未使用的魔力通道效果仍会持续。<\/p>",
+    "source": "CS-ISM"
+}

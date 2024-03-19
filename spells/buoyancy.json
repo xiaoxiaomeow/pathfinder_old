@@ -18,14 +18,14 @@
     "savingThrow": "Will negates (harmless) or Will negates (object)",
     "spellResistance": "yes (object)",
     "text": "<p>The affected creatures or objects become incredibly buoyant. The affected creatures (including gear and carried objects up to each creature's maximum load) and objects naturally float on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 Swim check every round to stay underwater. The spell ends if the creature or object spends at least 1 round on dry land.<\/p>",
-    "name_zh": "浮力术",
+    "name_zh": "上浮术",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
     "range_zh": "近距 (25尺+5尺/2等级)",
-    "target_zh": "一个中型或者更小的物体或生物/等级，彼此间隔不超过20呎",
-    "duration_zh": "直到踏上干燥地面或1轮/等级",
-    "savingThrow_zh": "意志，通过则无效（无害） 或 意志，通过则无效（物品）",
-    "spellResistance_zh": "有 (物品)",
-    "text_zh": "<p>受影响的生物和物体会获得令人难以想象的浮力。被影响的生物（包括每个生物最大负重以下的装备和携带物品）和物体将会自然漂浮在至少有一尺深的水面上。受影响的生物如果试图潜水，则必须每轮都成功通过一次DC20的游泳检定才能留在水面以下。如果受术生物或物体处于干燥的地面上长达1轮或以上，则法术结束。\n译注：ACG有同名法术(翻译为上浮术)，效果有些微不同，使用时请注意。<\/p>",
-    "source": "PC-PotIS"
+    "target_zh": "每等级一个中型或更小的物体或生物，任意两者之间的距离不超过20尺",
+    "duration_zh": "至多为1轮/等级（见后文）",
+    "savingThrow_zh": "意志，通过则无效（无害）或 意志，通过则无效（物体）",
+    "spellResistance_zh": "可（物体）",
+    "text_zh": "<p>受影响的目标会具有极强的浮力，它会自然地漂浮在任何至少1尺深的水中。受影响的生物若要主动潜入到水中，则必须每轮都进行DC 20的游泳检定才可以保持身处水下。若目标至少在干燥的陆地上停留1轮，那么仅对于该生物来说，法术结束。<\/p>",
+    "source": "ACG"
 }

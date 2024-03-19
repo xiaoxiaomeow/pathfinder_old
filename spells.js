@@ -198,11 +198,16 @@ var sourceBoxes = [];
 var translations;
 function loadTransAndSearchElements () {
     fetch("/pathfinder/script/translations.json").then(response => {
-        if (!response.ok) {
+        if (response.ok) {
+			return response.text();
+        } else {
             alert('Failed to fetch translation content.');
-        }
-        return response.text();
+			return null;
+		}
     }).then(text => {
+		if (text == null) {
+			return;
+		}
         translations = JSON.parse(text);
 
         addBoxes(translations.schoolTranslations, document.getElementById("school"), schoolBoxes, true);
@@ -229,11 +234,16 @@ function loadTransAndSearchElements () {
 }
 function loadTransAndUrlSpell () {
 	fetch ("/pathfinder/script/translations.json").then(response => {
-		if (!response.ok) {
-			alert('Failed to fetch translation content.');
+        if (response.ok) {
+			return response.text();
+        } else {
+            alert('Failed to fetch translation content.');
+			return null;
 		}
-		return response.text();
 	}).then(text => {
+		if (text == null) {
+			return;
+		}
 		translations = JSON.parse(text);
         loadUrlSpell();
     }).catch(error => {

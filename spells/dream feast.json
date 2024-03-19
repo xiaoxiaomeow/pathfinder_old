@@ -1,0 +1,33 @@
+{
+    "key": "dream feast",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-feast/",
+    "name": "Dream Feast",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "cleric/oracle": 1,
+        "druid": 1,
+        "ranger": 1,
+        "shaman": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>The next time the target sleeps (within the next 8 hours), she dreams of a rich feast with her favorite foods and drinks. When she awakens, she is sated as if she had eaten a nutritious meal, regardless of what she dreamed she ate. The target must sleep for at least 1 hour to gain the benefits of this spell. Being awakened during this period interrupts the spell and cancels its effects.<\/p><p>If you sleep with this spell prepared, you may automatically expend it while you sleep to gain the spell's benefit. This expenditure does not count as spellcasting for the purpose of determining available spell slots (you could go to sleep at midnight, expend this spell during an 8-hour period of sleep, and still prepare your full allotment of spells in the morning).<\/p>",
+    "name_zh": "梦中飨宴",
+    "race_zh": "戴斯娜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "立刻",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>当法术的目标下一次入睡时（8小时内），他将做梦梦到自己在享受一餐盛宴：吃到自己最喜欢的食物，喝到自己最喜爱的饮品。当目标醒来时他将处于满足的状态——如同真的进食了有营养的食物。你必须睡足至少一小时来获得这个法术的好处，如果在睡眠过程中被吵醒这个法术将直接失效。\n如果你在准备好了这个法术时入睡，你将自动使用这个法术并获得它的好处，这个法术将不会占据本日额外的法术位（你可以在午夜入睡，在8小时的睡眠中消耗这个法术，然后在第二天醒来准备法术时仍然拥有所有的法术位）。<\/p>",
+    "source": "CS-ISG"
+}

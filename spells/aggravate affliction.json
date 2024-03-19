@@ -1,0 +1,31 @@
+{
+    "key": "aggravate affliction",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aggravate-affliction/",
+    "name": "Aggravate Affliction",
+    "book": "Pathfinder Adventure Path #82: Secrets of the Sphinx © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "levels":     {
+        "cleric": 3,
+        "druid": 3,
+        "sorcerer/wizard": 4,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "<p>All recurring afflictions (those with a frequency, including curses, diseases, and poison) possessed by the targeted creature immediately trigger, requiring an immediate saving throw (as described in the affliction) to avoid suffering their effects. A successful saving throw does not count toward ending the affliction, and this extra save does not change the timing of the next save against the affliction. Afflictions without a frequency are unaffected by this spell.<\/p>",
+    "name_zh": "加剧苦难",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见下文",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>目标生物所拥有的所有可反复发作的苦难（那些具有频率的，包括诅咒、疾病和毒素）会立即触发，需要立即进行豁免（如发作的苦难中所述）以避免遭受其影响。（对该法术）一次成功的豁免投骰不会计入结束苦难所需次数，并且这次额外的豁免不会改变下一次对抗苦难的豁免时间。没有频率的苦难效果不受该法术影响。<\/p>",
+    "source": "AP-MM"
+}

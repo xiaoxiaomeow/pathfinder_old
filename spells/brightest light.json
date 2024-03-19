@@ -1,0 +1,26 @@
+{
+    "key": "brightest light",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/brightest-light/",
+    "name": "Brightest Light",
+    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors": ["light"],
+    "levels":     {
+        "bard": 4,
+        "cleric": 4,
+        "druid": 4,
+        "inquisitor": 4,
+        "magus": 4,
+        "occultist": 4,
+        "paladin": 4,
+        "ranger": 4,
+        "shaman": 4,
+        "sorcerer/wizard": 4
+    },
+    "duration": "1 hour/level (d)",
+    "text": "<p>This spell functions as daylight, except it lasts longer. In addition, as a swift action once during the spell's duration, you can will the light to try to end a magical darkness effect located within 60 feet of the light this spell emits. Attempt a dispel check (1d20 + your caster level), with a DC equal to 11 + the caster level of the darkness effect. If you succeed, the darkness effect ends. Regardless of whether you are successful, the light from this spell dims to the brightness of a torch for the spell's remaining duration.<\/p>",
+    "name_zh": "至亮之光",
+    "duration_zh": "1小时/等级（可消解）",
+    "text_zh": "<p>这是掌灯人（Lantern Bearer）——秘密精灵组织——的标志性法术。法术如同昼明术，除了持续时间更久，且能自动解除那些源头进入到其照明范围的较低等级的黑暗法术。此外，在法术持续时间内，你有一次机会指挥光芒去尝试驱散一个魔法黑暗效果，这是一个标准动作，魔法黑暗的等级可以等于或高于至亮之光，且能距离该法术散发的光芒60英尺以内。尝试一次解除检定（1d20+你的施法者等级），DC=11+黑暗效果的施法者等级。如果你成功，黑暗效果就会结束。不管你是否成功，至亮之光会在法术的剩余持续时间里减弱到一个火炬的亮度。<\/p>",
+    "source": "CS-ISI"
+}

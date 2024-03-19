@@ -17,14 +17,14 @@
     "spellResistance": "yes (harmless, object)",
     "text": "<p>Each weapon this spell affects each shines with pale light that dimly illuminates a 5-foot square. These weapons also ignore the DR of evil creatures that have DR 5 or lower, as long as the damage reduction is not DR/epic.<\/p>",
     "name_zh": "正义之兵",
-    "race_zh": "艾梅奥黛",
+    "race_zh": "艾奥梅黛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，法器",
     "range_zh": "近距 (25尺+5尺/2等级)",
-    "target_zh": "一件武器 /等级，任两件武器之间相距不得超过20呎。",
+    "target_zh": "一件武器 /等级，任两件武器之间相距不得超过20尺。",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧，通过则无效（物体）",
-    "spellResistance_zh": "有 (物体)",
-    "text_zh": "<p>这个法术能让一件武器亮起灰白的光芒，照亮它所处位置为中心5尺半径的范围。除此之外，被法术影响的武器在对抗邪恶生物时，视为目标生物的DR降低5点（除非目标拥有DR/史诗）。<\/p>",
-    "source": "PC-FoP"
+    "savingThrow_zh": "强韧通过则无效（无害，物体）",
+    "spellResistance_zh": "可（无害，物体）",
+    "text_zh": "<p>这个法术能让一件武器亮起淡淡的光芒，并其5尺半径的范围照明至昏暗。除此之外，被法术影响的武器在对抗邪恶生物时，除非该生物拥有DR/传奇，则视为目标生物的DR降低5点。<\/p>",
+    "source": "CS-ISG"
 }

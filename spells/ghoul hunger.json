@@ -1,0 +1,37 @@
+{
+    "key": "ghoul hunger",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghoul-hunger/",
+    "name": "Ghoul Hunger",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors":     [
+        "evil",
+        "mind-affecting"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "antipaladin": 2,
+        "cleric/oracle": 2,
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid creature",
+    "duration": "1 round/level; see text",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You awaken an unnatural hunger in the target, compelling it to fall upon a nearby helpless or dead humanoid creature and begin eating its flesh. The target defends itself normally but takes no other actions while eating. The target does not take extraordinary risks to satisfy this urge (it wouldn't jump over a pit or swim through lava to reach a suitable victim). If the target can't fulfill this urge on its next turn, the spell fails. Each round on its turn, the target can attempt a new saving throw to end the effect.<\/p>",
+    "name_zh": "食尸鬼的饥饿",
+    "race_zh": "厄迦图娅",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名纇人生物",
+    "duration_zh": "1轮/等级；见下",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你让受术者复苏了一股反自然的饥饿，迫使他去追寻最靠近的无助或死亡的纇人生物，并且开始享用它的血肉。受术者能够正常的保护自己，但当进食时不会做其他行动。受术者不会因为这个冲动而采取特别危险的行动(它不会跳进一个坑里，也不会为了合适的受害者而游过岩浆)。如果受术者无法在下一轮满足他的冲动，本法术失效。每一轮到他的回合时，受术者能获得一次新的豁免检定来结束此效果。<\/p>",
+    "source": "CS-GaM"
+}

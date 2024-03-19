@@ -27,7 +27,7 @@
     "spellResistance": "yes",
     "text": "<p>You fill an enemy's head with waking dreams, a reminder of the pleasures, delights, and terrors to be found in the dream world. While in this strange dream state, the target moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.<\/p><p>Multiple <i>haze of dreams<\/i> effects do not stack, nor does this spell's effect stack with slow.<\/p>",
     "name_zh": "游离幻梦",
-    "race_zh": "黛丝娜",
+    "race_zh": "戴斯娜",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，材料（一撮细砂）",
     "range_zh": "近距 (25尺+5尺/2等级)",
@@ -35,6 +35,6 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>活生生的梦境萦绕在你的敌人脑中，这感觉可能愉悦，可能迷离也可能恐怖。在他被白日梦所困扰的状态下，目标生物只能以半速移动（以5尺为一个单位），速度的降低同时也影响目标的跳跃距离。\n多个游离幻梦的效果并不叠加，这个法术与法术缓慢术的效果也不叠加。<\/p>",
-    "source": "PC-FoP"
+    "text_zh": "<p>你将清醒梦填满你敌人的脑中，在梦世界中可能会引起快乐、喜悦和恐惧的回忆。当处于奇妙的梦境状态时，目标生物只能以半速移动（以5尺为一个单位），速度的降低同时也影响目标的跳跃距离。\n多个游离幻梦的效果并不叠加，这个法术与缓慢术（slow）的效果也不叠加。<\/p>",
+    "source": "CS-ISG"
 }

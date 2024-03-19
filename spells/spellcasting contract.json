@@ -1,0 +1,19 @@
+{
+    "key": "spellcasting contract",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcasting-contract/",
+    "name": "Spellcasting Contract",
+    "book": "Pathfinder 29: Mother of Flies. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "religion": "must worship the associated deity",
+    "levels": {"cleric/oracle": 7},
+    "text": "<p>This spell functions like <i>lesser spellcasting contract<\/i>, except if the target has 9 HD or more, you can imbue him with one or two 2nd- level spells and one 3rd-level spell.<\/p>",
+    "name_zh": "法术契约",
+    "castingTime_zh": "10分钟",
+    "components_zh": "姿势，语言，法器",
+    "target_zh": "接触到的生物；见下文",
+    "duration_zh": "永久直到发散（可消解）",
+    "savingThrow_zh": "意志，通过无效（无害）",
+    "spellResistance_zh": "可（无害）",
+    "text_zh": "<p>这个法术的作用类似于“次级法术契约”，如果目标拥有9HD以上生命骰，你可以向他灌输一到两个2环和一个3环法术。<\/p>",
+    "source": "AP-CoT"
+}

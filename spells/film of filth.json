@@ -1,0 +1,33 @@
+{
+    "key": "film of filth",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Film%20of%20Filth",
+    "name": "Film of Filth",
+    "book": "Pathfinder Adventure Path #74: Sword of Valor © 2014, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "descriptors": ["poison"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "druid": 4,
+        "ranger": 3,
+        "crimson assassin": 4,
+        "sorcerer/wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "<p>You cause the target’s flesh to exude a layer of putrescent slime so foul that the target is sickened (Fortitude negates) for the duration of the spell and for 1d4 rounds thereafter. All creatures within 20 feet also become sickened (Fortitude negates), and remain sickened for as long as they remain within 20 feet of the target and for 1d4 rounds thereafter. A creature that strikes the target with a bite attack must succeed at an additional save or become nauseated for 1d4 rounds. Creatures immune to poison are unaffected.<\/p>",
+    "name_zh": "污秽薄膜",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "接触到的生物",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你使目标的身体流出一层腐烂的粘液，其恶臭使目标在法术持续时间内和之后的1d4轮内恶心（强韧无效）。所有在20尺内的生物也会变得恶心（强韧无效），并且在他们待在目标20尺内以及离开范围后的1d4轮内也会保持恶心。以啮咬攻击攻击目标的生物必须通过额外的豁免，否则会反胃1d4轮。免疫毒素的生物不受影响。<\/p>",
+    "source": "AP-WotR"
+}

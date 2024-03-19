@@ -1,0 +1,22 @@
+{
+    "key": "aram zey's trap ward",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trap-ward/",
+    "name": "Aram Zey's Trap Ward",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "abjuration",
+    "levels": {"sorcerer/wizard": 4},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (masterwork thieves' tools worth 100 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "10 min.s/level or until discharged",
+    "text": "<p>The protection provided by this spell comes into play whenever the caster is subjected to the effects of a magical trap.<\/p><p>The spell immediately discharges and interferes with the trap's function in an attempt to counter the trap's magic. When this occurs, make a caster level check as an immediate action. The DC of this check is equal to the trap's Disable Device DC. If you're successful, the trap ward dispels the magical effect of the trap before the effect actually manifests, effectively preventing the trap from triggering for the next 1d4 rounds and ending this spell immediately.<\/p>",
+    "name_zh": "阿兰姆·扎依的陷阱防护",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (价值100gp的精制品盗贼工具)",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 或 直到释放",
+    "text_zh": "<p>尽管阿兰姆正在研究因为防护系重叠所创造出的谐振的根本原因，但他也发现了一种操纵这谐振的方式，让施法者遇到魔法陷阱时获得优势。阿兰姆·扎依的陷阱防护所提供的保护，会在施法者遇到一个魔法陷阱的影响时显现。这法术会立即释放，并且借由反制陷阱的魔法，来阻碍该陷阱的运作。当出现这种情况时，以一个直觉动作进行一次施法者等级检定。此检定的DC等于该陷阱解除装置的DC。如果妳成功了，那这法术会在陷阱把魔法效果实际发挥之前解除，在接下的1d4轮内有效的防止该陷阱触发，而阿兰姆·扎依的陷阱防护会立即结束。<\/p>",
+    "source": "CS-PSFG"
+}

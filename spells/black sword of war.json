@@ -1,0 +1,32 @@
+{
+    "key": "black sword of war",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/black-sword-of-war/",
+    "name": "Black Sword of War",
+    "book": "Pathfinder Adventure Path #71: Rasputin Must Die! © 2013, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "religion": "Religion",
+    "levels":     {
+        "antipaladin": 3,
+        "cleric": 3,
+        "ranger": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F",
+    "range": "touch",
+    "target": "piercing or slashing manufactured weapon touched",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p>This spell is available to followers of the Horseman of War.<\/p><p>The target weapon turns a glossy black color and deals bleed damage if it deals hit point damage to a creature. The amount of bleed damage is equal to 1/2 your caster level (maximum bleed 5).<\/p>",
+    "name_zh": "战争黑剑",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "接触",
+    "target_zh": "接触到的穿刺或挥砍人造武器",
+    "duration_zh": "1分钟/等级（可解消）",
+    "savingThrow_zh": "意志无效（无害，物体）",
+    "spellResistance_zh": "可（无害，物体）",
+    "text_zh": "<p>如果目标武器能对生物造成生命值伤害，它会变成一把有光泽的黑剑并造成流血伤害。流血伤害的数量等于你施法者等级的1/2（流血伤害最高为5）。<\/p>",
+    "source": "AP-RoW"
+}

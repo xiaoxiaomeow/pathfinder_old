@@ -1,0 +1,33 @@
+{
+    "key": "charitable impulse",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/charitable-impulse/",
+    "name": "Charitable Impulse",
+    "book": "Pathfinder Campaign Setting: Chronicle of the Righteous. © 2013 Paizo Publishing, LLC",
+    "school": "enchantment",
+    "subSchool": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "levels":     {
+        "bard": 2,
+        "cleric/oracle": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (a miniature collection plate)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>This spell makes a creature more charitable, compelling it to aid others rather than use violence.<\/p><p>An affected creature practices nonviolent combat behaviors according to the following list of priorities, beginning with the first priority. The subject continues to perform a priority until he can no longer fulfill its demands (at which point he moves to the next priority) or until the spell ends, whichever comes first.<\/p><ul>  <li><b>1st Priority<\/b>: Heal injured creatures within 30 feet, beginning with the closest creatures and using whatever methods the subject has at hand (including potions, spells, and so on).<\/li>  <li><b>2nd Priority<\/b>: The subject gives his weapon away to the nearest creature within 30 feet who will accept it. If no creature accepts the weapon, the subject drops the weapon on the ground.<\/li>  <li><b>3rd Priority<\/b>: Cast beneficial spells and/or use beneficial magic items (including potions, wands, and so on) on creatures within 30 feet, starting with the closest creatures.<\/li>  <li><b>4th Priority<\/b>: The subject gives away his non-worn possessions—the contents of a backpack or similar item count as one item each, as does the container itself—to creatures within 30 feet. If no creature accepts the items, the subject drops the items on the ground.<\/li>  <li><b>5th Priority<\/b>: The subject gives away his remaining possessions (including his armor, boots, cloak, and so on) to creatures within 30 feet. If no creature accepts the items, the subject drops them on the ground.<\/li> <\/ul><p>If the subject fulfills all five priorities, the spell effect ends.<\/p><p>The subject cannot attack or take attacks of opportunity, but can defend himself as normal. If the subject is attacked, the spell's effect immediately ends.<\/p>",
+    "name_zh": "慈善冲动",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、器材/法器(一个微型的捐献盆)",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一名类人生物",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术令目标更为乐施好善，强制帮助其他人而非付诸暴力。被影响的生物按下表进行非暴力行为，按照下表优先级逐次进行。受术者会持续进行该行为直至无法满足行为要求（随后进行下一优先级的行为），或是直至法术结束，取其先者。\n第一优先：治疗30呎内受伤的生物，从最近的开始（使用任何可用手段如药水，法术等）\n第二优先：把手中武器交给30呎内最近且愿意接受的生物。如果没有生物接受武器，就将其抛到地上。\n第三优先：在30呎内，从最近的生物开始施展增益性的法术和/或使用增益性魔法物品（包括药水，魔杖等）。\n第四优先：将非穿戴的装备递给30呎内的生物，背包内的东西或类似的物品，都视为一件物品。如果没有接受的人，受术者会把这些东西抛到地上\n第五优先：受术者会将他的财产（包含装甲，靴子，披风等等）交给30呎内生物，如果无人接受，受术者会把这些东西抛到地上。\n当受术者完成五个优先后，法术自动结束。受术者不能攻击或进行借机攻击，但依然能自卫。如果受术者遭到攻击，法术效果立刻终止。<\/p>",
+    "source": "CS-CotR"
+}

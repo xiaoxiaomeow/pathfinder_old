@@ -1,0 +1,23 @@
+{
+    "key": "spellcasting contract, lesser",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcasting-contract/",
+    "name": "Spellcasting Contract, Lesser",
+    "base": "spellcasting contract",
+    "book": "Pathfinder 29: Mother of Flies. Copyright 2010, Paizo Publishing, LLC",
+    "school": "evocation",
+    "religion": "must worship the associated deity",
+    "levels": {"cleric/oracle": 5},
+    "components": "V, S, F (a written contract)",
+    "target": "willing creature touched",
+    "duration": "permanent until contractually terminated",
+    "text": "<p>This spell functions exactly like <i>imbue with spell ability<\/i>, except that you can imbue the target with any spell you have prepared (instead of just abjuration, divination, or conjuration [healing] spells) and the target may have more than one use of the imbued spells, depending upon the arrangements made when it is cast.<\/p><p>Casting this spell requires a contract between you and the target, explaining what spells are to be imbued and the circumstances that cause the contract to expire. The contract may be as simple as allowing the target one casting of each of the imbued spells (as per imbue with spell ability), or may continue for multiple days or even indefinitely, with the target regaining use of the imbued spells when you next prepare your own spells. You may include any proviso you see ft, such as requiring the target to pray to Asmodeus each morning, or restricting the target to only casting the imbued spells on himself. If the target does not agree to all the conditions in the contract, this spell fails when cast. The contract (and this spell) automatically expires if you or the target dies. While the contract remains in effect, you gain a profane bonus to your Armor Class, saving throws, and checks equal to the highest- level spell you have imbued.<\/p><p>Once you cast this spell, you cannot prepare a new 5th-level spell to replace it until the contract expires. If the number of 5th-level spells you can cast decreases, and that number drops below your current number of active lesser spellcasting contract spells, the more recently cast imbued spells are dispelled.<\/p><p>Unlike imbue with spell ability, how the target uses the spell has no refection on your alignment or relationship with Asmodeus; the Prince of Darkness accepts that allowing another access to his magic for good may benefit his plans in the long run. Note that unlike imbue with spell ability, you cannot dismiss this spell; you must abide by the contract's termination clause (though the contract may include a proviso for at-will nullification by either or both parties). This spell cannot be combined with imbue with spell ability or similar spells to give a target more spells than the limit.<\/p><p>Example: You cast this spell on your 5 HD fighter cohort after negotiating an appropriate contract, imbuing him with the ability to cast cure moderate wounds, magic weapon, and shield of faith once per day for 1 month. If he casts any of these spells, he recovers them when you prepare your spells. Until the contract ends, your 5th-level spell slot used to cast this spell remains expended and cannot be filled with a new spell. Because you imbued your cohort with a 2nd-level spell, you gain a +2 profane bonus to attacks, saves, and checks while the contract remains in effect.<\/p>",
+    "name_zh": "次级法术契约",
+    "castingTime_zh": "10分钟",
+    "components_zh": "姿势，语言，法器",
+    "target_zh": "接触到的生物；见下文",
+    "duration_zh": "永久直到发散（可消解）",
+    "savingThrow_zh": "意志，通过无效（无害）",
+    "spellResistance_zh": "可（无害）",
+    "text_zh": "<p>这个法术功能如同法术灌输 (Imbue with Spell Ability)一样,除了你可以转移任何你准备的法术给目标(而不只是防护系、预言系与咒法系 (医疗) 法术)和目标可能拥有不止一个被灌输的法术,根据其释放的顺序。（帮忙捉一下虫，这里有点迷depending upon the arrangements made when it is cast.）\n施放这个法术需要你和目标之间签订一份契约，解释需要灌输什么法术，以及导致契约终止的情形。该契约可以非常简单，允许目标施放那些被灌输的法术(如同法术灌输)，也可以持续数天甚至永久，当你下一次准备你自己的法术时，目标可以恢复施法次数。你可以加上任何你认为合适的附加条款，例如要求目标每天早晨向阿斯摩蒂斯祈祷，或者限制目标只能对自己施放被灌注的法术。如果目标不同意契约中的所有条件，该法术会在施放时失效。如果你或目标死亡，契约(和这个法术)会自动失效。当契约生效时，你在你的防御等级、豁免和检定上获得亵渎加值，加值等于你所灌输的最高的法术环级。\n一旦你施放这个法术，你不能准备其他5环法术来取代该法术的法术位，直到契约终止。如果你能够施放的5环法术数量减少，并且比你施放法术灌输时的数量要少，那么所灌输的法术中比较晚施展的失效。\n与法术灌输 (Imbue with Spell Ability)不同，目标如何使用法术不会影响你的阵营或与阿斯摩蒂斯的关系;黑暗王子承认，允许他人使用他的魔法可能对他的计划有长远的好处。注意，与法术灌输不同，你不能解除这个法术;你必须遵守契约的终止条款(尽管契约可能包含任意一方或双方废除合同的附带条款)。此法术不能与法术灌输或类似法术组合，从而使其施法数量超出上限。\n例子:你在与你的一个5HD的战士随从签订了一份合适的契约后，向他施放了这个法术，在1个月内，他每天可以施放一次治疗中度伤、魔化武器和虔诚护盾。如果他使用这些法术，他会在每天你准备法术时恢复它们。在契约结束之前，你用来施展这个法术的5级法术位将被消耗，并且不能用于准备一个新的法术。因为你向你的同伴灌输了一个2环法术，所以在契约有效期间，你的攻击、豁免和检定获得+2亵渎加值。<\/p>",
+    "source": "AP-CoT"
+}

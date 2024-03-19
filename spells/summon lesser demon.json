@@ -1,0 +1,36 @@
+{
+    "key": "summon lesser demon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Lesser%20Demon",
+    "name": "Summon Lesser Demon",
+    "book": "Pathfinder Adventure Path #74: Sword of Valor © 2014, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["summoning"],
+    "descriptors":     [
+        "chaotic",
+        "evil"
+    ],
+    "levels":     {
+        "cleric/oracle": 5,
+        "summoner/unchained summoner": 4,
+        "sorcerer/wizard": 5,
+        "witch": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (a tiny bag and a small candle)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like summon monster, except it allows you to summon a single brimorak (Lords of Chaos 56), one incubus (Bestiary 3 73), one thoxel demon (see page 86), 1d3 schir demons (Bestiary 3 74), or 1d4+1 vermlek demons (Lords of Chaos 54).<\/p>",
+    "name_zh": "召唤次级恶魔",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材/法器（一个小袋子和一小根蜡烛）",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "effect_zh": "一只召唤的生物",
+    "duration_zh": "1轮/等级（可解消）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术如同召唤怪物一样作用，除了它允许你召唤单独一只火灾魔（《混沌诸王》56页），一只魅魔（《怪物图鉴3》73页），一只瘢叛魔（见本书86页），1d3只希尔魔（《怪物图鉴3》74页），或1d4+1只虫裂魔（《混沌诸王》54页）。\n（译注：火灾魔和虫裂魔在B6也有，虫裂魔翻译没找到，但真不想加坑了！）<\/p>",
+    "source": "AP-WotR"
+}

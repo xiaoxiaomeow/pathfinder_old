@@ -1,0 +1,33 @@
+{
+    "key": "tracking mark",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tracking-mark/",
+    "name": "Tracking Mark",
+    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "school": "evocation",
+    "levels":     {
+        "bloodrager": 1,
+        "cleric/oracle": 1,
+        "druid": 1,
+        "paladin": 1,
+        "ranger": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "S, DF",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one creature",
+    "duration": "10 min.s/level (d)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "<p>You gain a supernatural ability to detect tracks and other clues left behind by the target. You treat the DCs of all Survival checks made to track the target as if they were 5 lower than normal, and you gain a +5 bonus on Perception checks made to notice the target if it is using Stealth or recognize it if it is using Disguise.<\/p>",
+    "name_zh": "追猎印记",
+    "race_zh": "埃拉斯蒂尔",
+    "castingTime_zh": "标准动作",
+    "components_zh": "姿势，法器",
+    "range_zh": "远距 (400尺+40尺/等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>通过这个法术，你对于目标生物的行动轨迹获得了超自然的敏锐识别力。你用来追踪目标生物的生存检定DC降低5点，并且如果目标使用潜行或易容技能企图避开你的探知，你在发觉该生物伪装的察觉检定上获得+5加值。<\/p>",
+    "source": "CS-ISG"
+}

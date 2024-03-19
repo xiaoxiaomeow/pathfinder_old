@@ -1,0 +1,22 @@
+{
+    "key": "infernal healing, greater",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/i/infernal-healing/",
+    "name": "Infernal Healing, Greater",
+    "base": "infernal healing",
+    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "school": "conjuration",
+    "subSchool": ["healing"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric/oracle": 4,
+        "magus": 4,
+        "sorcerer/wizard": 4,
+        "summoner": 4,
+        "witch": 4
+    },
+    "text": "<p style=\"margin-left:40px\">As infernal healing, except the target gains fast healing 4 and the target detects as an evil cleric.<\/p>",
+    "name_zh": "高等地狱治疗",
+    "race_zh": "阿莫斯蒂亚斯",
+    "text_zh": "<p>如同地狱治疗，除了目标获得快速治疗4，以及被侦测时如同一位邪恶牧师。<\/p>",
+    "source": "CS-GaM"
+}

@@ -1,0 +1,29 @@
+{
+    "key": "gilded whispers",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gilded-whispers/",
+    "name": "Gilded Whispers",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "divination",
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (100 gp of powdered gemstones)",
+    "range": "touch",
+    "target": "a gold or platinum coin",
+    "duration": "1 day/level (d)",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "<p>Developed by priests to catch thieves and skimmers, gilded whispers later spread to other faiths and was adapted to the arcane arts. This spell is most commonly used to track bribes and illicit purchases back to their ultimate source.<\/p><p>Gilded whispers allows you to use a single coin as a conduit for an eavesdropping spell. When you use a divination (scrying) spell or item, such as clairvoyance/clairaudience, scrying, or a crystal ball, you can choose to target a coin you have affected with gilded whispers instead of a creature or location (even if you would not otherwise be able to target an object), though any range limits on the scrying effect still apply. If the coin is held or carried by a creature, its owner receives any applicable saving throw against the effect. The caster of gilded whispers treats the coin as a familiar subject. The residual psychic impressions left upon the coin by other handlers help mask this dweomer from detection, protecting gilded whispers against location by detect magic, arcane sight, and similar effects unless the latter spell's caster succeeds on a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the spellcaster who cast gilded whispers. The scrying sensor created by using a divination (scrying) spell to observe or listen to the coin's surroundings can be detected as normal.<\/p>",
+    "name_zh": "虚金耳语",
+    "castingTime_zh": "1轮",
+    "components_zh": "语言、姿势、材料",
+    "range_zh": "接触",
+    "target_zh": "一枚黄金或白金币",
+    "duration_zh": "1天/等级 (D)",
+    "savingThrow_zh": "意志，通过则无效 (物品)",
+    "spellResistance_zh": "有 (物品)",
+    "text_zh": "<p>虚金耳语是由阿巴达尔祭司研发，用来追缉盗贼跟诈骗犯的，随后这法术传播到其他信仰中，而在阿兰姆·扎依以及柯瑞通?沙尼(Kreighton Shaine)的努力下，出现了奥术的改编版本。探索者们往往使用此法术去追溯贿赂和非法交易的最终来源，尤其是当他们猜这有蛇徽探员的影子时。\n虚金耳语让你使用一枚硬币，作为窃听法术的导管。当你使用一个法术创造出来的魔法传感器， 能被如常侦测。<\/p>",
+    "source": "CS-PSFG"
+}

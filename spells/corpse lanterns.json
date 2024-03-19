@@ -1,0 +1,30 @@
+{
+    "key": "corpse lanterns",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/c/corpse-lanterns/",
+    "name": "Corpse Lanterns",
+    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "school": "necromancy",
+    "descriptors": ["light"],
+    "levels":     {
+        "sorcerer/wizard": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "up to 4 lights, all within a 10-ft.-radius area",
+    "duration": "1 min./level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions as dancing lights, except it summons up to four spheres of light, each of which glows a sickly pale green. These corpse lanterns shed dim light in a 20-foot radius, and do not increase the light level in areas of normal light or bright light. In dim or normal light, the radiance of corpse lanterns provides a strange contrast, giving all creatures in the area a –5 penalty on Stealth checks. In addition, the hue interferes with illusion (pattern) spells, giving all creatures in the illuminated area a +2 bonus on any saving throws against such spells. Unlike dancing lights, you may have more than one corpse lanterns spell active at a time, but you may only move one set in any given round. Moving the corpse lanterns does not require concentration. Corpse lanterns can be made permanent on an area with a permanency spell by a caster of at least 11th level for the cost of 7,500 gp.<\/p>",
+    "name_zh": "尸体提灯",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "至多四个光源，全都聚集于10呎半径区域内",
+    "duration_zh": "1分钟/等级 (D)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术运作方式如同舞光术，但它最多能召唤四颗球形光源，每颗都发出病态的苍白色绿光。尸体提灯会在半径20尺内散发流光，如果区域内的光照等级是常光或是强光，那它就不会增加区域内的光照程度。于昏暗或常光光照时，尸体提灯的光会提供奇异的对比，会让所有在区域内的生物，于隐匿检定中承受-5罚值。此外，因为对幻术系(心灵幻觉)法术的色调干扰(hue interferes)，本法术会让所有在照亮区域内的生物，在对炕这类法术时于所有豁免检定上获得+2加值。不同于舞光术，你同时间可以激活多个尸体提灯，但你在一轮中只能控制其中一个。尸体提灯可以被魔法恒定术恒定，这需要11级的师法者以及7500gp。<\/p>",
+    "source": "CS-PSFG"
+}

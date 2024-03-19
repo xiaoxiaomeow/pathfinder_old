@@ -1,0 +1,30 @@
+{
+    "key": "dazzling blade",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dazzling-blade/",
+    "name": "Dazzling Blade",
+    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "school": "illusion",
+    "subSchool": ["pattern"],
+    "levels":     {
+        "bard": 1,
+        "sorcerer/wizard": 1
+    },
+    "castingTime": "1 swift action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one metal weapon",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "<p><i>Dazzling blade<\/i> makes a weapon appear dazzlingly shiny, as if crafted from pure silver and heavily polished. In combat, the flashing movements of a <i>dazzling blade<\/i> become almost hypnotic. The wielder of a weapon under the effects of <i>dazzling blade<\/i> gains a +1 competence bonus on all Bluff checks made to feint in combat. The wielder also gains a +1 competence bonus on all CMB checks made to disarm a foe, and a +1 competence bonus to his CMD against disarm attempts made against the weapon bearing the <i>dazzling blade<\/i> effect. This bonus increases by +1 for every 3 caster levels, to a maximum bonus of +5 at 12th level.<\/p><p>The wielder of a <i>dazzling blade<\/i> can discharge the spell into a blinding burst of silvery light as a free action. The wielder selects an adjacent opponent as the focal point of this burst of light—that creature must make a Will save to avoid being blinded for 1 round (with a successful save, the creature is instead dazzled for 1 round).<\/p><p>Despite its shiny appearance, a <i>dazzling blade<\/i> grants no extra benefit against creatures that are vulnerable to silver.<\/p>",
+    "name_zh": "闪耀之刃",
+    "castingTime_zh": "迅捷动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "接触",
+    "target_zh": "一把金属武器",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志，通过则无效(见后文)",
+    "spellResistance_zh": "可(无害，物体)",
+    "text_zh": "<p>闪耀之刃令一件武器显得炫目非常，就好像以纯银打造并精密抛光。在战斗中，闪耀之刃那发光的轨迹几乎是种催眠。持有者处于闪耀之刃效果的武器的人，在战斗中用来虚招的所有唬骗检定中获得+1表现加值。持有者也能在对敌人卸武时，于所有CMB的检定中获得+1表现加值，并且针对这把武器的卸武，持有者能在CMD上也获得+1表现加值。这些加值每3个施法者等级就会增加1，最多到12级的时候能到+5。\n闪耀之刃的持有者能以一个自由动作释放本法术，造成致盲的银色光爆。持有者能够选择邻接的一名敌人作为光爆的焦点，该名生物必须进行意志豁免检定来避免目盲1轮(如果豁免成功，该名生物不会目盲，改为目眩1轮)\n尽管它的外表闪闪发光，但闪耀之刃在对峙对银易伤的生物时并不会有额外的效益。<\/p>",
+    "source": "CS-RG"
+}

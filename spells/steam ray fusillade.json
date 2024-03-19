@@ -1,0 +1,30 @@
+{
+    "key": "steam ray fusillade",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/steam-ray-fusillade/",
+    "name": "Steam Ray Fusillade",
+    "book": "Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.",
+    "school": "evocation",
+    "descriptors":     [
+        "fire",
+        "water"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer/wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a scraping from a hydrothermal vent)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "<p>For the duration of the spell, you can fire three rays of steam once per round as a standard action (and you also fire three such rays as part of casting the spell). These rays function similarly to the rays from scorching ray (you can fire them at close range, they're ranged touch attacks, they deal 4d6 points of fire damage each, and spell resistance negates them) except that they work both underwater and above water without a caster level check for being a fire spell.<\/p>",
+    "name_zh": "蒸汽射线连射",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势，材料（深海热液喷口的一片刮屑）",
+    "range_zh": "自身",
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>在法术持续时间内，你每轮能以一个标准动作发射三道蒸汽射线（在你施放法术的同时，作为法术的一部分，你也能发射三道射线）。这些射线的效果类似于灼热射线（你可以攻击距离为近距的目标，这些射线是接触攻击，每条射线造成4d6点伤害，并能被法术抗力抵消掉），但该法术能在地面上和水下正常生效而无需施法者等级检定。<\/p>",
+    "source": "CS-AquaA"
+}

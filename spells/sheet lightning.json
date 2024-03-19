@@ -1,0 +1,30 @@
+{
+    "key": "sheet lightning",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sheet-lightning/",
+    "name": "Sheet Lightning",
+    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "school": "evocation",
+    "subSchool": ["electricity"],
+    "levels":     {
+        "druid": 3,
+        "sorcerer/wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "20-ft.-radius spread",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "<p>You create a dazzling flash of electricity that fills the target area. <i>Sheet lightning<\/i> inflicts 1 point of electricity damage to all creatures within the area of effect (no save). The true power of the spell, though, lies not in the damage it inflicts but in the overwhelming pain the lightning creates. The sudden flash and jolt dazes living creatures for 1 round if they fail a saving throw. Creatures that save are instead dazzled for 1 round. Any creature wearing metal armor takes a –2 penalty to its saving throw against this spell.<\/p>",
+    "name_zh": "片状闪电",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "target_zh": "20呎半径扩散",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造的刺目闪烁的雷电充斥着目标区域。片状闪电会对影响区域内所有生物造成1点电击伤害(无豁免)。但，这法术真正的强大之处，并非造成的伤害，而在于雷电所造成的压倒性的痛楚。突如其来的闪光以及震荡，会使豁免失败的活物眩晕一轮。豁免成功的则不会眩晕，改为目眩一轮。穿戴金属盔甲的生物会在对抗此法术的豁免检定中承受-2罚值。\n身躯越大，摔得越重\n莎莉尔?浦里马克(Shaleera Priymak)是一位托拉格的牧师，在她消失于秋尔克(Chorak)的坟墓之前，她研究了许多特别设计用来协助对抗巨人类，或任何特别大的敌人的法术。尽管许多法术很高环，所以碎膝者(Kneecappers)的新成员没办法施放，但有一个特别的法术，叫做突兀下坠，这法术的环位很低，所以成为了组织内部钟爱的法术。<\/p>",
+    "source": "CS-RG"
+}

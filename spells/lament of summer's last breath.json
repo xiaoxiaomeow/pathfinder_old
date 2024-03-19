@@ -1,0 +1,34 @@
+{
+    "key": "lament of summer's last breath",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lament-of-summer-s-last-breath/",
+    "name": "Lament of Summer's Last Breath",
+    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "school": "abjuration",
+    "descriptors":     [
+        "fire",
+        "good"
+    ],
+    "descriptorOperator": "and",
+    "levels":     {
+        "bard": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "30-ft. radius spread centered on a creature, object, or point in space",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (see text)",
+    "spellResistance": "yes",
+    "text": "<p>You wrap the target in a mantle of summery air, within which the ambient temperature never falls below 70 degrees Fahrenheit.<\/p><p>Creatures with the cold subtype that start their turns in the area take an amount of fire damage equal to 1d4 points + 1 point per 2 caster levels (maximum 1d4+5) with no saving throw.<\/p><p>Each time an evil dragon, fey, or giant takes damage from the spell, it must succeed at a Will saving throw or become shaken for 1 round. Creatures attempting to cast a cold spell in the area must succeed at a Will save or the spell fails. Succeeding at one such save to cast a spell allows a creature to continue casting cold spells in the area for the spell's remainder.<\/p>",
+    "name_zh": "夏末哀歌",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "area_zh": "30 英尺半径扩散，以生物、物体或空间点为中心",
+    "duration_zh": "1 轮/等级",
+    "savingThrow_zh": "意志过则无效（见正文）",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你将目标包裹在夏季的空气中，其中的环境温度永远不会低于70℉。在该区域开始其回合的具有寒系亚种的生物将受到1d4+每2个施法者等级1点（最大1d4+5）的火焰伤害，无豁免。每当邪恶龙类，精类或巨人受到该法术的伤害时，必须通过意志豁免，否则会被战栗1 轮。试图在该区域施展寒冷法术的生物必须通过意志豁免，否则法术失败。成功通过一次这样的豁免来成功施展法术的经历会允许生物继续在该区域施展寒冷法术，直到法术剩余持续时间结束。<\/p>",
+    "source": "CS-ISR"
+}
