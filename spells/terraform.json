@@ -1,0 +1,30 @@
+{
+    "key": "terraform",
+    "url": "https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-magic/mythic-spells/terraform/",
+    "name": "Terraform",
+    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "school": "transmutation",
+    "levels":     {
+        "cleric": 7,
+        "druid": 6,
+        "sorcerer/wizard": 7,
+        "witch": 7
+    },
+    "castingTime": "1 hour",
+    "components": "V, S, M (10,000 gp worth of precious minerals, see text)",
+    "range": "100 feet",
+    "area": "100-foot-radius emanation, centered on you",
+    "duration": "1 day/level (see text)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>You alter the area's terrain and climate to a new terrain and climate type appropriate to the planet or plane. For example, you might transform a desert to plains. To cast this spell, you must expend 10 uses of mythic power along with the material cost. This magically alters the area's climate and normal plants to those appropriate to the new terrain, but doesn't affect creatures or the configuration of the earth. Transforming rocky hills into forested areas converts grasses into shrubs and small trees, but doesn't flatten the hills or change the animals to suit the new environment.<\/p><p>You can alter the climate by one step (warm, temperate, or cold). The maximum extent of the terrain change is up to the GM, but in general is to a similar terrain type or one step within that terrain type (such as from A typical forest to a forest with massive trees or light undergrowth, from a shallow bog to a deep bog, and so on). You might be able to shift the land to a similar terrain type, such as turning a sparse forest into a relatively dry swamp. Local creatures adversely affected by these alterations either flee the area or quickly die, depending on their mobility and awareness of the change.<\/p><p>Multiple castings of the spell in the same area can create an area with radically different terrain and climate than the surrounding land. The GM can decide that certain terrain shifts are unsustainable and shorten the duration, or that some are suitable for the area and extend the duration.<\/p><p>This spell could have many secondary effects based on the nature of the change, the type of bordering terrain, and so on; these should be determined by the GM on a case-by-case basis.<\/p><p>For example, transforming A desert requires drawing water up from underground to sustain the plants, which could deplete the water table in nearby areas. Creating a warm desert in the middle of a snowy tundra will create a bordering area of mud and frequent storms from the clash of hot and cold air fronts.<\/p><p>If you're at least 8th tier, you can expend 20 uses of mythic power instead of 10 to increase the range to 1 mile, the area to a 1-mile-radius emanation centered on you, and the duration to 1 month per caster level.<\/p>",
+    "name_zh": "地形改造",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言，姿势，材料（价值10000gp的珍贵矿石，见后文）",
+    "area_zh": "以你为中心，半径100尺发散范围",
+    "duration_zh": "1日/级（见后文）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>你改变了区域内的地形与气候，使它成为适合于行星或者位面的新地形与气候类型。例如：你可以将沙漠变换为平原。要施放该法术，你必须在消耗材料的同时花费10次神话之力。这种魔法性质的改变会使得区域内的气候和普通植物变得适合新地形，但是不会影响生物或者大地的构造。将岩石山脉转变为森林区域会使得草地变为灌木丛和小型乔木，但是它并不能使山脉变平，也不能将动物改变为与新环境相应的生物。\n你能将气候改变一级（燥热warm、暖温temperate、或寒冷cold）。地形改变的最高程度取决于DM的判断，不过通常来说改变为类似的地形种类，或者与先前的地形种类相差一阶以内（比如将典型的森林转变为具有高大树木或者低矮灌木的森林，将浅水沼泽变为深水沼泽，等等）。你可以将土地转换为类似的地形种类，比如将稀疏的森林转变成相对干燥的湿地。由于这些变化而产生不良反应的本地生物要么会逃离此片区域，要么就会快速死亡，这取决于它们对这种变化的认知与应对能力。\n如果对同一片区域施放多次法术，就能够创造出与周围的土地相比完全不同的地形与气候。DM能够判定某些地形的转变是不可持续的并且会缩短持续时间，或者由于适宜这片区域而延长持续时间。\n该法术可能会基于变化的性质、周围地形的类型等因素而产生许多副作用；这些都应当由DM按照个例的情况进行判断。例如：改造沙漠需要从地下汲取水分来维持植物，这可能会降低附近区域的地下水位，在苔原中心创造温暖干燥的沙漠可能会创造出一片泥泞的接壤区域，冷热气流的冲突也会频繁地引起风暴。\n若你至少达到了第8阶，你能够花费20次神话之力以取代原本的10次，来使范围增加至1英里，区域变为以你为中心，半径1英里的发散范围，持续时间也变为每施法者等级1个月。<\/p>",
+    "source": "MA"
+}

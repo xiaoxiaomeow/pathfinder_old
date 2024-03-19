@@ -1,0 +1,30 @@
+{
+    "key": "blood in the water",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-in-the-water/",
+    "name": "Blood in the Water",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "subSchool": ["emotion"],
+    "levels":     {
+        "cleric": 2,
+        "psychic": 2,
+        "sorcerer/wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "20 ft.",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>As part of the casting of this spell, you must deal 1 point of piercing or slashing damage to yourself to release your blood. This causes you to take 1 point of bleed damage. While the spell is in effect, all sharks, feeders in the depths, and creatures with the blood frenzy ability in the area gain a +2 bonus to Strength and Constitution and take a –2 penalty to AC. This is treated as blood frenzy for the purposes of other feats and effects, and doesn't stack with the effects of actual blood frenzy. If you cease bleeding, the spell immediately ends.<\/p>",
+    "name_zh": "嗅血术",
+    "race_zh": "沙华鱼人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "20尺",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>作为施法动作的一部分，你必须对自己造成1点穿刺或挥砍伤害来放血，这也会使你承受1点流血伤害。当本法术的效果生效时所有在其影响范围内的鲨鱼，深渊饕兽（见后）以及所有拥有血性狂怒能力的生物都会在力量和体质属性上获得+2加值，在防御等级上获得-2减值，这个法术在用来判断专长和其他效果时视为血性狂怒能力，并且不与血性狂怒效果叠加。如果你不再流血则本法术的效果结束。<\/p>",
+    "source": "MC"
+}

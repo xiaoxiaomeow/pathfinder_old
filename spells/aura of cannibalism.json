@@ -1,0 +1,32 @@
+{
+    "key": "aura of cannibalism",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aura-of-cannibalism/",
+    "name": "Aura of Cannibalism",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "necromancy",
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 3,
+        "sorcerer/wizard": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of flesh from another creature of your species)",
+    "range": "personal",
+    "area": "20-ft.-radius emanation centered on you",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p class=\"description\">You emanate an aura that saps the strength of others of your kind and channels their energy into you.<\/p><p>Each round that a creature starts its turn in the spell's area and shares both your creature type and at least one subtype you possess (if any), that creature must succeed at a Fortitude save or take 1d4 points of damage.<\/p><p>You gain a number of temporary hit points equal to the amount of damage you deal with this spell (maximum 10 + your caster level). These temporary hit points go away when the spell ends.<\/p><p>As long as you have at least 5 temporary hit points while this spell is in effect, you gain a +1 competence bonus on attack rolls, saving throws, and skill checks. If you have 15 or more temporary hit points, this competence bonus increases to +2.<\/p>",
+    "name_zh": "饕食灵气",
+    "race_zh": "沼蜍人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一小片与你同一物种生物的肉）",
+    "range_zh": "自身",
+    "area_zh": "以你自己为中心的20尺半径灵光",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你周围散发的灵气可以汲取同族生物的生命力和能量，并把这些能量源源不断地输送给你。每一轮中在你的法术范围内开始它们回合，与你的生物类型和至少一个亚种类型（如果有）相同的生物都必须通过一个强韧检定否则将承受1d4点伤害。你可以吸取这些伤害并将它们转化为你的临时生命值（最多10+你的施法者等级点）在法术结束时这些临时生命值也将消失。\n  当法术生效时，只要你仍然拥有至少5点临时生命值，你就会在攻击检定，豁免检定和技能检定上拥有+1表现加值。如果你拥有15或更多点临时生命值，这些加值还会上升到+2。<\/p>",
+    "source": "MC"
+}

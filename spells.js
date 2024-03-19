@@ -222,7 +222,7 @@ function loadTransAndSearchElements () {
             levelTranslations[i] = i + "环";
         }
         addBoxes(levelTranslations, document.getElementById("levels"), levelsBoxes, true, false);
-        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Module"], document.getElementById("source"), sourceBoxes, true, true, false);
+        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Module"], document.getElementById("source"), sourceBoxes, true, true, false);
     }).catch(error => {
         alert('Error: ' + error.message);
     });

@@ -1,0 +1,32 @@
+{
+    "key": "sundered serpent coil",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sundered-serpent-coil/",
+    "name": "Sundered Serpent Coil",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "conjuration",
+    "subSchool": ["creation"],
+    "levels":     {
+        "magus": 3,
+        "sorcerer/wizard": 3,
+        "summoner": 3,
+        "witch": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a snake scale)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "one 5-foot square",
+    "duration": "1 round/level (d)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<p>This spell functions like black tentacles, except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its grappled target and direct it to attack a different creature.<\/p>",
+    "name_zh": "狂蟒之灾",
+    "race_zh": "蛇人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一片蛇鳞）",
+    "range_zh": "中距 (100尺+10尺/等级)",
+    "duration_zh": "1轮/等级（可消解）",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术的效果如同法术黑触手，但它创造出的是一条巨大蟒蛇的半身。这条巨蛇会从地下探出并尝试擒抱一个5尺范围内的指定生物。以一个标准动作，你可以命令巨蛇放开目前被擒抱的生物而尝试擒抱另一个生物。<\/p>",
+    "source": "MC"
+}

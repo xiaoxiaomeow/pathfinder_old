@@ -1,0 +1,33 @@
+{
+    "key": "mark of the reptile god",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mark-of-the-reptile-god/",
+    "name": "Mark of the Reptile God",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["curse"],
+    "levels":     {
+        "antipaladin": 4,
+        "cleric": 4,
+        "inquisitor": 4,
+        "oracle": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "permanent",
+    "savingThrow": "Fort negates",
+    "spellResistance": "yes",
+    "text": "<p>If you succeed at a ranged touch attack, you burn your handprint onto the flesh of a creature, dealing 1d6 points of acid damage.<\/p><p>The mark can be placed on any exposed portion of the creature, typically the head or forearm. The flesh around the handprint becomes rough and scaly, like the hide of a lizard. It also glows with a green radiance (shedding light as a torch) when brought within 60 feet of you. While the handprint glows, the target takes a -2 penalty to AC against your attacks and on saving throws to resist any spell you cast or spell-like ability you use.<\/p><p>Additionally, each day the target remains cursed, more and more of its flesh becomes covered in reptilian scales. The target must succeed at a Fortitude save each day or take 1d4 points of Charisma damage, 1 point of which is Charisma drain instead. A creature reduced to 0 Charisma by this effect is immediately transformed into a small, harmless cave lizard, as the baleful polymorph spell.<\/p><p>As with the effects of bestow curse, the curse inflicted by this spell cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell.<\/p>",
+    "name_zh": "蜥神之印",
+    "race_zh": "战蜥人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个生物",
+    "duration_zh": "永久",
+    "savingThrow_zh": "强韧通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>如果你能成功地对目标进行一个远程接触攻击检定，那么你就能将自己的爪印烙在目标的皮肤上，对其造成1d6点强酸伤害。这个爪印可以被烙在该生物任何暴露的皮肤表面——通常是额头或是手臂上。很快，在这烙印周围的血肉就会开始慢慢地变硬，长出鳞片。当你接近（距离该生物的距离不超过60尺）时，这个烙印还会发出光照程度如同火炬般亮度的诡异绿光。只要这个烙印在发光，被烙印的目标就会在对抗你的攻击的防御等级，以及对抗你的法术与类法能力的豁免DC上承受-2减值。\n  只要蜥神的烙印在它的身上存在一天，这个生物就会被缓慢地诅咒变形，身体变得越来越僵硬并长出越来越多的鳞片。在受到法术影响后的每一天，这个生物都必须通过一个强韧豁免检定否则将承受1d4点魅力伤害，这1d4魅力伤害中的1点为魅力吸取。当它的魅力属性被这个法术降到0时，该生物就会完全被变成一只无害的小洞穴蜥蜴，如同承受了一个法术恶意变形术的效果。\n  如同法术降咒一般，这个法术的效果并不能被简单的使用解除魔法解除，但法术破除附魔，有限许愿术，奇迹术，移除诅咒或是许愿术可以解除它。<\/p>",
+    "source": "MC"
+}

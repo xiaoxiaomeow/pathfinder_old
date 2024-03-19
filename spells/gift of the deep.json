@@ -1,0 +1,31 @@
+{
+    "key": "gift of the deep",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gift-of-the-deep/",
+    "name": "Gift of the Deep",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "subSchool": ["polymorph"],
+    "levels":     {
+        "cleric": 4,
+        "sorcerer/wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one non-mutated sahuagin/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 min./level (d)",
+    "savingThrow": "Fortitude negate (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "<p>You give the targets the appearance and many of the abilities of sahuagin mutants, with effects as described below. Choose one benefit for all targets of this spell. This spell has no effect on sahuagin that are already mutants or already under the effects of gift of the deep.<\/p><ul>  <li><b>Four-Armed<\/b>: The sahuagin sprouts an extra pair of arms—which can be used to make claw attacks (dealing 1d4 points of damage), or to wield weapons or hold items. It gains the benefits of the Multiattack and Multiweapon Fighting feats.<\/li>  <li><b>Malenti<\/b>: The sahuagin's features shift to resemble those of an aquatic elf. It loses its light blindness as well as its claw and bite attacks. The sahuagin gains a +4 enhancement bonus to Dexterity and Charisma, and a +10 circumstance bonus on Disguise checks to appear to be an aquatic elf.<\/li>  <li><b>Prehistoric<\/b>: The sahuagin grows in size, as enlarge person. It also gains a +2 enhancement bonus to its natural armor.<\/li>  <li><b>Shark-Blooded<\/b>: The sahuagin's tail elongates and melds with its legs. Its mouth enlarges, increasing its bite damage by one size category (to 1d6 for a typical sahuagin). Its swim speed increases by 20 feet, but its land speed is reduced to 5 feet. The sahuagin can't be tripped.<\/li>  <li><b>Sightless<\/b>: The sahuagin is blinded, but gains the benefits of the Blind Fight feat and blindsense with a range of 90 feet.<\/li>  <li><b>Spined<\/b>: Spines grow on the sahuagin's scales. Any creature that successfully grapples with it, is grappled by it, or hits it with an unarmed strike or natural weapon takes 1d4 points of piercing damage. The sahuagin also gains the benefits of the Improved Grapple feat.<\/li> <\/ul>",
+    "name_zh": "海渊之赠礼",
+    "race_zh": "沙华鱼人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
+    "range_zh": "近距 (25尺+5尺/2等级)",
+    "target_zh": "一个非变异沙华鱼人/等级，每两个目标之间间距不能超过30尺",
+    "duration_zh": "1分钟/等级（可消解）",
+    "savingThrow_zh": "强韧通过则无效（无害）",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>你为目标注入沙华鱼人的变异外形和能力，每一种变异的效果见下。所有本法术的目标都只能享受一个你所选择的变异。这个法术的效果对已经拥有变异或是受到海渊之赠礼法术效果影响的目标无效。\n  四臂：沙华鱼人长出一对额外的手臂——它可以用他们发动额外的爪抓攻击（造成1d4点伤害）或是持用武器，它也获得多武器战斗和多重攻击专长。\n  玛兰提：沙华鱼人变得像海生精灵，它失去强光致盲和天生武器，在敏捷和魅力上获得+4增强加值，并在伪装成海生精灵的易容检定上获得+10环境加值。\n  史前：沙华鱼人的体型增大，如同受到了法术人类变巨术的好处一般，并且他在天生护甲上获得+2增强加值。\n  鲨脉：沙华鱼人的双腿和伸长的尾巴融为一体，并且获得伤害骰比体型大一级的啮咬攻击（通常的沙华鱼人为1d6），他的游泳速度也增加20尺，但陆地移动速度降低到5尺，获得对摔绊的免疫。\n  无目：沙华鱼人变得目盲，但它获得盲斗专长和90尺盲感。\n  尖刺：沙华鱼人的鳞片上生满尖刺，任何成功地擒抱沙华鱼人，被沙华鱼人擒抱或是使用天生武器和徒手击打攻击命中沙华鱼人的生物都会受到1d4点穿刺伤害。沙华鱼人同时获得精通擒抱作为奖励专长。<\/p>",
+    "source": "MC"
+}

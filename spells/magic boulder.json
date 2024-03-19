@@ -1,0 +1,19 @@
+{
+    "key": "magic boulder",
+    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-boulder/",
+    "name": "Magic Boulder",
+    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "levels":     {
+        "cleric": 2,
+        "druid": 2
+    },
+    "target": "up to three boulders touched",
+    "text": "<p>This spell works like magic stone, except you transmute as many as three boulders (rocks up to two size categories smaller than yourself) to use with the rock throwing ability or as siege engine ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.<\/p>",
+    "name_zh": "魔岩术",
+    "race_zh": "霜巨人",
+    "target_zh": "最多三块接触到的岩石",
+    "text_zh": "<p>本法术的效果类似于法术魔石术，但你可以将最多三块岩块（体积至少比你小一级）转化为魔法武器或是攻城武器的弹药。这些变化后的岩石会造成体型大一级的伤害，并在攻击和伤害检定上拥有+1增强加值。<\/p>",
+    "source": "MC"
+}
