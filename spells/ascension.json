@@ -1,15 +1,18 @@
 {
     "key": "ascension",
-    "url": "https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-magic/mythic-spells/ascension/",
     "name": "Ascension",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ascension",
+    "source": ["Mythic Adventures pg. 113"],
     "school": "universal",
     "levels":     {
+        "arcanist": 9,
         "cleric": 9,
         "druid": 9,
-        "sorcerer/wizard": 9,
+        "oracle": 9,
+        "psychic": 9,
+        "sorcerer": 9,
         "witch": 9,
-        "psychic": 9
+        "wizard": 9
     },
     "castingTime": "1 hour",
     "components": "V, S, F (minor artifact), M (10,000 gp in rare herbs, gems, and other exotic materials)",
@@ -18,15 +21,16 @@
     "duration": "2 hours/level; see text",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You imbue a number of creatures with mythic power, granting each of them 1st tier in a mythic path of its choice. The creatures immediately gain the benefits of their chosen paths. Divide the duration evenly among all targets.<\/p><p>The targets retain their mythic tier only while they're within 100 feet of the spell's focus component. A target that goes outside this range loses its mythic tier, but instantly regains it if it moves into range again. If the focus component is destroyed while the spell is in effect, the spell immediately ends and all targets gain 1d4 permanent negative levels.<\/p><p><b>Mythic<\/b>: If you expend one use of mythic power when casting this spell, the duration increases to 1 day per level, and you can use yourself as the focus for this spell instead of a lesser artifact. If you're the focus, the targets retain their mythic tier only while they're within 100 feet of you, and if you die, the spell immediately ends and all targets gain 1d4 permanent negative levels.<\/p>",
+    "text": "You imbue a number of creatures with mythic power, granting each of them 1st tier in a mythic path of its choice. The creatures immediately gain the benefits of their chosen paths. Divide the duration evenly among all targets.<br><br> The targets retain their mythic tier only while they’re within 100 feet of the spell’s focus component. A target that goes outside this range loses its mythic tier, but instantly regains it if it moves into range again. If the focus component is destroyed while the spell is in effect, the spell immediately ends and all targets gain 1d4 permanent negative levels.<h2 class=\"title\">Mythic Ascension<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 113<\/i><br>If you expend one use of mythic power when casting this spell, the duration increases to 1 day per level, and you can use yourself as the focus for this spell instead of a lesser artifact. If you’re the focus, the targets retain their mythic tier only while they’re within 100 feet of you, and if you die, the spell immediately ends and all targets gain 1d4 permanent negative levels.",
+    "mythicSource": ["Mythic Adventures pg. 113"],
+    "mythicText": "If you expend one use of mythic power when casting this spell, the duration increases to 1 day per level, and you can use yourself as the focus for this spell instead of a lesser artifact. If you’re the focus, the targets retain their mythic tier only while they’re within 100 feet of you, and if you die, the spell immediately ends and all targets gain 1d4 permanent negative levels.",
     "name_zh": "晋升之术",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "语言，姿势，器材（次级神器），材料（价值10000gp的罕见药材、宝石和其他稀有材料）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个非神话生物/3级",
-    "duration_zh": "2小时/等级；见后文",
+    "duration_zh": "2小时/等级; 见文本",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你让多个生物被神话力量所侵染，使它们达到第1阶，并且按照他自身的选择获得神话之道。这些生物会立刻获得所选道途带来的优势。将持续时间平分给所有目标。\n目标只有在距离法术的器材成分100尺范围内时，才能保持他们的神话阶层。离开此范围的目标会失去其神话阶层，但是会在回到范围后立刻重新恢复阶层。若器材成分在法术生效的时间内被摧毁，该法术会立刻结束，并且所有目标获得1d4个永久负向等级。\n神话：若你在施放该法术时花费1次神话之力，持续时间就会增加至1日/级，而且你能够使用自身作为该法术的器材，以取代次级神器。若你是器材成分，目标只会在与你相距100尺的范围内保持神话阶层，若你死亡，法术会立刻结束并且所有目标获得1d4个永久负向等级。<\/p>",
-    "source": "MA"
+    "text_zh": "<p>你让多个生物被神话力量所侵染，使它们达到第1阶，并且按照他自身的选择获得神话之道。这些生物会立刻获得所选道途带来的优势。将持续时间平分给所有目标。<\/p><p>目标只有在距离法术的器材成分100尺范围内时，才能保持他们的神话阶层。离开此范围的目标会失去其神话阶层，但是会在回到范围后立刻重新恢复阶层。若器材成分在法术生效的时间内被摧毁，该法术会立刻结束，并且所有目标获得1d4个永久负向等级。<\/p><p>神话：若你在施放该法术时花费1次神话之力，持续时间就会增加至1日/级，而且你能够使用自身作为该法术的器材，以取代次级神器。若你是器材成分，目标只会在与你相距100尺的范围内保持神话阶层，若你死亡，法术会立刻结束并且所有目标获得1d4个永久负向等级。<\/p>"
 }

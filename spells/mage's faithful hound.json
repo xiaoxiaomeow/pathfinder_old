@@ -1,13 +1,17 @@
 {
     "key": "mage's faithful hound",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mage-s-faithful-hound/",
     "name": "Mage's Faithful Hound",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mage's%20Faithful%20Hound",
+    "source": ["PRPG Core Rulebook pg. 306"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
-        "sorcerer/wizard": 5,
+        "arcanist": 5,
+        "sorcerer": 5,
+        "spiritualist": 5,
         "summoner": 4,
-        "unchained summoner": 5
+        "summoner (unchained)": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a tiny silver whistle, a piece of bone, and a thread)",
@@ -16,15 +20,14 @@
     "duration": "1 hour/caster level or until discharged, then 1 round/caster level; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You conjure up a phantom watchdog that is invisible to everyone but yourself. It then guards the area where it was conjured (it does not move). The hound immediately starts barking loudly if any Small or larger creature approaches within 30 feet of it. (Those within 30 feet of the hound when it is conjured may move about in the area, but if they leave and return, they activate the barking.) The hound sees invisible and ethereal creatures. It does not react to figments, but it does react to shadow illusions.<\/p><p>If an intruder approaches to within 5 feet of the hound, the dog stops barking and delivers a vicious bite (+10 attack bonus, 2d6+3 points of piercing damage) once per round. The dog also gets the bonuses appropriate to an invisible creature (see <i>invisibility<\/i>).<\/p><p>The dog is considered ready to bite intruders, so it delivers its first bite on the intruder's turn. Its bite is the equivalent of a magic weapon for the purpose of damage reduction. The hound cannot be attacked, but it can be dispelled.<\/p><p>The spell lasts for 1 hour per caster level, but once the hound begins barking, it lasts only 1 round per caster level. If you are ever more than 100 feet distant from the hound, the spell ends.<\/p>",
+    "text": "You conjure up a phantom watchdog that is invisible to everyone but yourself. It then guards the area where it was conjured (it does not move). The hound immediately starts barking loudly if any Small or larger creature approaches within 30 feet of it. (Those within 30 feet of the hound when it is conjured may move about in the area, but if they leave and return, they activate the barking.) The hound sees invisible and ethereal creatures. It does not react to figments, but it does react to shadow illusions.<br><br>If an intruder approaches to within 5 feet of the hound, the dog stops barking and delivers a vicious bite (+10 attack bonus, 2d6+3 points of piercing damage) once per round. The dog also gets the bonuses appropriate to an invisible creature (see <i>invisibility<\/i>).<br><br>The dog is considered ready to bite intruders, so it delivers its first bite on the intruder's turn. Its bite is the equivalent of a magic weapon for the purpose of damage reduction. The hound cannot be attacked, but it can be dispelled.<br><br>The spell lasts for 1 hour per caster level, but once the hound begins barking, it lasts only 1 round per caster level. If you are ever more than 100 feet distant from the hound, the spell ends.",
     "name_zh": "法师忠犬",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (银哨, 骨片和线头)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "魅影守护犬",
-    "duration_zh": "1小时/等级 或 直至能量散发, 之后1轮/等级; 见后文",
+    "duration_zh": "1小时/等级 或 直至能量散发, 之后1轮/等级; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你造出一条只有你看得见的魅影守护犬。它会保卫自身被创造出的区域 (它不会移动)。如果有小型或更大的生物进入魅影守护犬附近30尺内，它就会大声开始吠叫 (如果守护犬出现时30尺范围内已经有生物存在，则这些生物可以在这一区域内自由移动。但如果他们离开此区域又再进来，还是会引发吠叫)。守护犬可以看见隐形生物和灵体生物。它不会理会虚假幻影 (figments)，但会对幽影幻象 (shadow illusions) 做出反应。<\/p><p>如果入侵者接近守护犬周围5尺范围内，它会停止吠叫并展开凶狠的攻击，每轮可以咬一口 (+10攻击加值，2d6+3点穿刺伤害)。守护犬拥有隐形生物的战斗优势，详见‘<a href=\"spell.html?spell=invisibility\">隐形术 (invisibility)<\/a>’。<\/p><p>守护犬处于准备攻击的状态，所以可以在入侵者的回合中咬第一下。在对抗伤害减免时，守护犬的啮咬视为魔法武器。守护犬可以被解除，但不能被攻击。<\/p><p>法术的持续时间是每CL 1小时，然而一旦守护犬开始吠叫，持续时间就只剩下每CL 1轮。如果你和狗的距离超过100尺，法术就会终止。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你造出一条只有你看得见的魅影守护犬。它会保卫自身被创造出的区域 (它不会移动)。如果有小型或更大的生物进入魅影守护犬附近30尺内，它就会大声开始吠叫 (如果守护犬出现时30尺范围内已经有生物存在，则这些生物可以在这一区域内自由移动。但如果他们离开此区域又再进来，还是会引发吠叫)。守护犬可以看见隐形生物和灵体生物。它不会理会虚假幻影 (figments)，但会对幽影幻象 (shadow illusions) 做出反应。<\/p><p>如果入侵者接近守护犬周围5尺范围内，它会停止吠叫并展开凶狠的攻击，每轮可以咬一口 (+10攻击加值，2d6+3点穿刺伤害)。守护犬拥有隐形生物的战斗优势，详见‘<a href=\"spell.html?spell=invisibility\">隐形术 (invisibility)<\/a>’。<\/p><p>守护犬处于准备攻击的状态，所以可以在入侵者的回合中咬第一下。在对抗伤害减免时，守护犬的啮咬视为魔法武器。守护犬可以被解除，但不能被攻击。<\/p><p>法术的持续时间是每CL 1小时，然而一旦守护犬开始吠叫，持续时间就只剩下每CL 1轮。如果你和狗的距离超过100尺，法术就会终止。<\/p>"
 }

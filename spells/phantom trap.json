@@ -1,25 +1,28 @@
 {
     "key": "phantom trap",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantom-trap/",
     "name": "Phantom Trap",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Phantom%20Trap",
+    "source": ["PRPG Core Rulebook pg. 320"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 2,
         "mesmerist": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "spiritualist": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "spiritualist": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (special dust worth 50 gp)",
     "range": "touch",
     "target": "object touched",
-    "duration": "permanent (d)",
+    "duration": "permanent (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell makes a lock or other small mechanism seem to be trapped to anyone who can detect traps. You place the spell upon any small mechanism or device, such as a lock, hinge, hasp, cork, cap, or ratchet. Any character able to detect traps, or who uses any spell or device enabling trap detection, is certain a real trap exists. Of course, the effect is illusory and nothing happens if the trap is &#8220;sprung&#8221;; its primary purpose is to frighten away thieves or make them waste precious time.<\/p><p>If another <i>phantom trap<\/i> is active within 50 feet when the spell is cast, the casting fails.<\/p>",
+    "text": "This spell makes a lock or other small mechanism seem to be trapped to anyone who can detect traps. You place the spell upon any small mechanism or device, such as a lock, hinge, hasp, cork, cap, or ratchet. Any character able to detect traps, or who uses any spell or device enabling trap detection, is certain a real trap exists. Of course, the effect is illusory and nothing happens if the trap is “sprung”; its primary purpose is to frighten away thieves or make them waste precious time.<br><br>If another <i>phantom trap<\/i> is active within 50 feet when the spell is cast, the casting fails.",
     "name_zh": "魅影陷阱",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值50gp的特殊粉末)",
@@ -28,6 +31,5 @@
     "duration_zh": "永久 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术用在一把锁或其他小型机械装置上，它使得任何可以侦测陷阱的人都以为这把锁或小型机械装置上有陷阱。你可以在任何小型机械装置或装备上使用本法术，比如锁，门铰链，窗搭扣，软木塞子，封闭盖，或者棘轮。任何可以侦测陷阱的角色，或是使用了法术或装置后能侦测陷阱的角色，将100%地确信有一个真实的陷阱存在。当然所有的效果都是幻觉，而当陷阱被“触发”时什么也不会发生。本法术主要意图是吓退盗贼或让他们浪费宝贵的时间。<\/p><p>如果施放本法术时在50尺内有另一个魅影陷阱正在起作用，则施放失败。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术用在一把锁或其他小型机械装置上，它使得任何可以侦测陷阱的人都以为这把锁或小型机械装置上有陷阱。你可以在任何小型机械装置或装备上使用本法术，比如锁，门铰链，窗搭扣，软木塞子，封闭盖，或者棘轮。任何可以侦测陷阱的角色，或是使用了法术或装置后能侦测陷阱的角色，将100%地确信有一个真实的陷阱存在。当然所有的效果都是幻觉，而当陷阱被“触发”时什么也不会发生。本法术主要意图是吓退盗贼或让他们浪费宝贵的时间。<\/p><p>如果施放本法术时在50尺内有另一个魅影陷阱正在起作用，则施放失败。<\/p>"
 }

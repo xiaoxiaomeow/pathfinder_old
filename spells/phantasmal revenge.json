@@ -1,31 +1,38 @@
 {
     "key": "phantasmal revenge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-revenge/",
     "name": "Phantasmal Revenge",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Phantasmal%20Revenge",
+    "source": ["Advanced Player's Guide pg. 235"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors":     [
         "emotion",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
-    "levels": {"sorcerer/wizard": 7},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 7,
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch and unlimited; see text",
+    "target": "dead body touched",
     "duration": "instantaneous",
-    "savingThrow": "Will disbelief then Fortitude partial",
+    "savingThrow": "Will disbelief then Fortitude partial, see text",
     "spellResistance": "yes",
-    "text": "<p>When you cast this eerie spell upon a recently slain creature, you cause a ghastly, spectral image of it to rise up from its corpse, shrieking for vengeance before it vanishes in a burst of unnatural light. This phantom then unerringly seeks out the creature that killed it, as long as that creature is on the same plane, and tries to slay its killer in turn.<\/p><p>Only the corpse's killer can see the phantasmal image created by this spell. You and any others who witness the spell's casting or its ultimate effects see only a vague shape. The target first gets a Will save to disbelieve the illusion. If that save fails, the target must succeed on Fortitude Saving Throw or take 10 points of damage per caster level from the phantasmal image. Even if the Fortitude save is successful, the target takes 5d6 points of damage + 1 point of damage per caster level. You know immediately if the spell succeeded or failed to kill its target but gain no other information, including the identity of the target of the spell.<\/p><p>The creature providing the corpse must have died no more than 1 day per caster level prior to the casting of this spell. If the creature that provided the corpse was not, in fact, killed by another, or if the killer is dead or no longer on the same plane, the spell fails. <i>Phantasmal revenge<\/i> makes no moral judgments; it targets winners of fair fights just as easily as murderers. Any given body can only be targeted by a <i>phantasmal revenge<\/i> spell once.<\/p>",
+    "text": "When you cast this eerie spell upon a recently slain creature, you cause a ghastly, spectral image of it to rise up from its corpse, shrieking for vengeance before it vanishes in a burst of unnatural light. This phantom then unerringly seeks out the creature that killed it, as long as that creature is on the same plane, and tries to slay its killer in turn.<br><br>Only the corpse’s killer can see the phantasmal image created by this spell. You and any others who witness the spell’s casting or its ultimate effects see only a vague shape. The target first gets a Will save to disbelieve the illusion. If that save fails, the target must succeed on Fortitude saving throw or take 10 points of damage per caster level from the phantasmal image. Even if the Fortitude save is successful, the target takes 5d6 points of damage + 1 point of damage per caster level. You know immediately if the spell succeeded or failed to kill its target but gain no other information, including the identity of the target of the spell. <br><br>The creature providing the corpse must have died no more than 1 day per caster level prior to the casting of this spell. If the creature that provided the corpse was not, in fact, killed by another, or if the killer is dead or no longer on the same plane, the spell fails. <i>Phantasmal revenge <\/i>makes no moral judgments; it targets winners of fair fights just as easily as murderers. Any given body can only be targeted by a <i>phantasmal revenge <\/i>spell once.",
     "name_zh": "复仇鬼影",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
+    "range_zh": "接触 和 无限; 见文本",
     "target_zh": "接触到的死尸",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，痛过则不相信；强韧，通过则部分生效；见下文",
+    "savingThrow_zh": "意志, 痛过则不相信; 强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你用阴森可怖的语气吟诵此法术，你让一个恐怖的虚像从一个新近被杀的尸体上浮现。它会尖叫着宣誓复仇，然后消失在一阵超自然的光芒中。只要与其处于同一个位面内，这个幻影就会立刻准确无误的找到杀害它的生物，并且试图将其杀死。<\/p><p>只有凶手本人可以看到这个法术造成的幻影虚像；而你本人，以及任何在法术施放或生效地点的人都只能看到一团模糊的影像。<\/p><p>目标首先必须进行一次意志检定以否认这个幻术。如果检定失败，目标必须再进行一次强韧检定，失败则会在幻影的攻击中受到每施法者等级10点的伤害。即使强韧检定通过，目标也仍然会受到5d6加上每施法者等级1点的伤害。<\/p><p>你会立刻知道法术是否成功的杀死目标，但是无法获得其他任何信息，包括法术目标的身份。<\/p><p>受术生物的尸体的死亡时间，在截止施法时不能超过每施法者等级一天。如果生物的死亡实际上不是由于他杀，或凶手已死亡或不处于同一个位面，法术失败。<\/p><p>本法术不会有任何道德判断，即使是一场公平决斗的获胜者也会被单纯的判定为杀人凶手。任何既定的尸体都只能被施放一次本法术。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>当你用阴森可怖的语气吟诵此法术，你让一个恐怖的虚像从一个新近被杀的尸体上浮现。它会尖叫着宣誓复仇，然后消失在一阵超自然的光芒中。只要与其处于同一个位面内，这个幻影就会立刻准确无误的找到杀害它的生物，并且试图将其杀死。<\/p><p>只有凶手本人可以看到这个法术造成的幻影虚像；而你本人，以及任何在法术施放或生效地点的人都只能看到一团模糊的影像。<\/p><p>目标首先必须进行一次意志检定以否认这个幻术。如果检定失败，目标必须再进行一次强韧检定，失败则会在幻影的攻击中受到每施法者等级10点的伤害。即使强韧检定通过，目标也仍然会受到5d6加上每施法者等级1点的伤害。<\/p><p>你会立刻知道法术是否成功的杀死目标，但是无法获得其他任何信息，包括法术目标的身份。<\/p><p>受术生物的尸体的死亡时间，在截止施法时不能超过每施法者等级一天。如果生物的死亡实际上不是由于他杀，或凶手已死亡或不处于同一个位面，法术失败。<\/p><p>本法术不会有任何道德判断，即使是一场公平决斗的获胜者也会被单纯的判定为杀人凶手。任何既定的尸体都只能被施放一次本法术。<\/p>"
 }

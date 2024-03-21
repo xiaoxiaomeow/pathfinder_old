@@ -1,30 +1,32 @@
 {
     "key": "prosperous room",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prosperous-room/",
     "name": "Prosperous Room",
-    "book": "Pathfinder Player Companion: Quests &amp; Campaigns © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prosperous%20Room",
+    "source": ["Quests and Campaigns pg. 29"],
     "school": "enchantment",
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
-        "sorcerer/wizard": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 day",
     "components": "V, S",
     "range": "touch",
     "target": "room you own; see text",
-    "duration": "1 day/level (d)",
+    "duration": "1 day/level (D)",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>The targeted room is enchanted to have magical appeal for customers, an increase in the workflow of its employees, or the generation of additional materials to work with. While this spell is in effect, the targeted room produces 1 more Goods, Labor, Influence, or Magic than it already does. If the room produces multiple types of capital, it produces an additional capital of each type. If the room generates gp, it generates 25% more.<\/p><p>Only the capital that the room normally generates increases— rooms that do not already generate Magic, for instance, do not generate Magic because of this spell.<\/p><p>While this spell is in effect, neither you nor your allies can further interact with the affected room or the spell's effects immediately end. You cannot spend downtime actions to run a business with a room that is affected by this spell, though any employees or workers that operate within the room may continue to do so normally.<\/p>",
+    "text": "The targeted room is enchanted to have magical appeal for customers, an increase in the workflow of its employees, or the generation of additional materials to work with. While this spell is in effect, the targeted room produces 1 more Goods, Labor, Influence, or Magic than it already does. If the room produces multiple types of capital, it produces an additional capital of each type. If the room generates gp, it generates 25% more. Only the capital that the room normally generates increases— rooms that do not already generate Magic, for instance, do not generate Magic because of this spell.<br><br>While this spell is in effect, neither you nor your allies can further interact with the affected room or the spell’s effects immediately end. You cannot spend downtime actions to run a business with a room that is affected by this spell, though any employees or workers that operate within the room may continue to do so normally.",
     "name_zh": "繁荣房间",
     "castingTime_zh": "1天",
     "components_zh": "语言，姿势",
     "range_zh": "接触",
     "target_zh": "房间会被附上吸引客人的魔法，雇员的工作效率会更高，材料会有额外的产出。当这种法术生效时，目标房间会产生比现在多出1的物品、劳力、影响或魔法。如果房间能产生多种类型的资本，则其将在每种上都产生额外的资本。如果房间能生产出金币，其产量将增加25%。只有房间通常能产生的资本会增加——例如，本来不会产生魔法的房间不会因为此法术而产生魔法。",
     "area_zh": "你拥有的房间；见正文",
-    "duration_zh": "1天/等级（D）",
+    "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标房间会被附上吸引客人的魔法，雇员的工作效率会更高，材料会有额外的产出。当这种法术生效时，目标房间会产生比现在多出1的物品、劳力、影响或魔法。如果房间能产生多种类型的资本，则其将在每种上都产生额外的资本。如果房间能生产出金币，其产量将增加25%。只有房间通常能产生的资本会增加——例如，本来不会产生魔法的房间不会因为此法术而产生魔法。\n当此法术生效时，你和你的盟友都不能与受影响的房间进行进一步的互动，也不能立即终止法术效果。你不能用修整期时间来使用一个被此法术影响的房间以经营生意，但任何在房间内工作的员工或工人可以继续如常这样做。<\/p>",
-    "source": "PC-QC"
+    "text_zh": "<p>目标房间会被附上吸引客人的魔法，雇员的工作效率会更高，材料会有额外的产出。当这种法术生效时，目标房间会产生比现在多出1的物品、劳力、影响或魔法。如果房间能产生多种类型的资本，则其将在每种上都产生额外的资本。如果房间能生产出金币，其产量将增加25%。只有房间通常能产生的资本会增加——例如，本来不会产生魔法的房间不会因为此法术而产生魔法。<\/p><p>当此法术生效时，你和你的盟友都不能与受影响的房间进行进一步的互动，也不能立即终止法术效果。你不能用修整期时间来使用一个被此法术影响的房间以经营生意，但任何在房间内工作的员工或工人可以继续如常这样做。<\/p>"
 }

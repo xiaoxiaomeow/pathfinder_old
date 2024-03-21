@@ -1,21 +1,31 @@
 {
     "key": "energy siege shot, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-siege-shot/",
     "name": "Energy Siege Shot, Greater",
-    "base": "energy siege shot",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Siege%20Shot,%20Greater",
+    "source": ["Ultimate Combat pg. 229"],
     "school": "transmutation",
     "descriptors": ["variable"],
     "levels":     {
-        "sorcerer/wizard": 6,
-        "summoner": 6
+        "arcanist": 6,
+        "occultist": 6,
+        "sorcerer": 6,
+        "summoner": 6,
+        "wizard": 6
     },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (a ball of pitch)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one siege engine of any size",
-    "text": "<p>This spell functions like <i>energy siege shot<\/i>, except it can target siege engines of any size, not just Large siege engines.<\/p><\/div>",
+    "duration": "10 minute/level",
+    "savingThrow": "Fortitude negates (harmless, object)",
+    "spellResistance": "yes (harmless/object)",
+    "text": "This spell functions like <i>energy shot<\/i>, except it can target siege engines of any size, not just Large siege engines. ",
     "name_zh": "高等能量炮击",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "castingTime_zh": "10分钟",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一台任何大小的攻城器械",
-    "text_zh": "<p>这个法术工作方式如同能量炮击 (Energy Siege Shot)，不过它可以作用于任何体积的攻城器械，而不只是大型的。<\/p>",
-    "source": "UC"
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>这个法术工作方式如同能量炮击 (Energy Siege Shot)，不过它可以作用于任何体积的攻城器械，而不只是大型的。<\/p>"
 }

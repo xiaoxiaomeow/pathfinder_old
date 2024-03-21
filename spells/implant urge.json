@@ -1,18 +1,21 @@
 {
     "key": "implant urge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/implant-urge/",
     "name": "Implant Urge",
-    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Implant%20Urge",
+    "source": ["Inner Sea Intrigue pg. 60"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "medium": 1,
         "mesmerist": 1,
-        "sorcerer/wizard": 1,
+        "skald": 1,
+        "sorcerer": 1,
         "spiritualist": 1,
-        "witch": 1
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +24,14 @@
     "duration": "1 hour/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>You make the target unconsciously desire a goal you define when you cast this spell. The DC of any Diplomacy check to ask the target to act in a way that it believes will lead it toward that goal decreases by 5. The target takes a –2 penalty on saving throws against mind-affecting effects that compel it to act in a way that it believes will lead it toward that goal.<\/p><p>Spells that reveal the target's goals or thoughts reveal the implanted urge as the target's most important goal and the target does not register as thinking of anything else as long as it is presented with the focus of its urge or a way to move toward its goal. Anyone studying the target's thoughts can notice the implanted nature of this urge with a successful caster level check.<\/p>",
+    "text": "You make the target unconsciously desire a goal you define when you cast this spell. The DC of any Diplomacy check to ask the target to act in a way that it believes will lead it toward that goal decreases by 5. The target takes a –2 penalty on saving throws against mind-affecting effects that compel it to act in a way that it believes will lead it toward that goal. Spells that reveal the target’s goals or thoughts reveal the implanted urge as the target’s most important goal and the target does not register as thinking of anything else as long as it is presented with the focus of its urge or a way to move toward its goal. Anyone studying the target’s thoughts can notice the implanted nature of this urge with a successful caster level check.",
     "name_zh": "植入渴求",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你让目标无意识地渴望一个你在施法时定义的目标。任何建议目标去进行他相信有助于他完成目标的交涉检定的DC都减少5。在对抗影响心灵效果的豁免检定上也是如此。揭示人物的目标或思想的法术会将被植入的渴求视为人物最迫切的目的，只要人物面对他冲动的焦点或一条通往目标的路，他就不能思考任何其他的事情。任何研究目标思想的人都可以通过成功的施法者等级检定来注意到这种冲动是由魔法植入的。<\/p>",
-    "source": "CS-ISI"
+    "text_zh": "<p>你让目标无意识地渴望一个你在施法时定义的目标。任何建议目标去进行他相信有助于他完成目标的交涉检定的DC都减少5。在对抗影响心灵效果的豁免检定上也是如此。揭示人物的目标或思想的法术会将被植入的渴求视为人物最迫切的目的，只要人物面对他冲动的焦点或一条通往目标的路，他就不能思考任何其他的事情。任何研究目标思想的人都可以通过成功的施法者等级检定来注意到这种冲动是由魔法植入的。<\/p>"
 }

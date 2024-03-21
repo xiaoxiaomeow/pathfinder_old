@@ -1,23 +1,38 @@
 {
     "key": "death knell aura, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-knell-aura/",
     "name": "Death Knell Aura, Greater",
-    "base": "death knell aura",
-    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20Knell%20Aura,%20Greater",
+    "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"],
     "school": "necromancy",
     "descriptors":     [
         "death",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
         "inquisitor": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as <i>death knell aura<\/i>, except a dying creature in the area cannot stabilize on its own and automatically takes 1 point of bleed damage on its turn each round. An incorporeal undead or living spirit traveling outside the body (such as a person using astral projection or magic jar) within the aura at the start of its turn takes 1d8 points of damage.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "20 ft.",
+    "area": "20-ft.-radius emanation, centered on you",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>death knell aura<\/i>, except a dying creature in the area cannot stabilize on its own and automatically takes 1 point of bleed damage on its turn each round. An incorporeal undead or living spirit traveling outside the body (such as a person using <i>astral projection <\/i>or <i>magic jar<\/i>) within the aura at the start of its turn takes 1d8 points of damage.",
     "name_zh": "高等死亡丧钟灵光",
-    "text_zh": "<p>此法术功效与死亡丧钟灵光相同，除了区域内的濒死生物不能靠自己稳定伤势，并且每轮到它的回合时，它会承受1点流血伤害。虚体不死生物或游离出躯壳的活物灵魂(像是某个人使用星界投射或魔魂术)，在他们回合开始时位处灵光之内，会受到1d8点伤害。<\/p>",
-    "source": "CS-BotD3"
+    "castingTime_zh": "标准动作",
+    "range_zh": "20尺",
+    "area_zh": "20尺半径弥漫, 以你为中心",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术功效与死亡丧钟灵光相同，除了区域内的濒死生物不能靠自己稳定伤势，并且每轮到它的回合时，它会承受1点流血伤害。虚体不死生物或游离出躯壳的活物灵魂(像是某个人使用星界投射或魔魂术)，在他们回合开始时位处灵光之内，会受到1d8点伤害。<\/p>"
 }

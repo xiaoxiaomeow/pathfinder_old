@@ -1,14 +1,17 @@
 {
     "key": "sanctify corpse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-corpse/",
     "name": "Sanctify Corpse",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sanctify%20Corpse",
+    "source": ["Ultimate Magic pg. 236"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels":     {
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
+        "oracle": 1,
         "paladin": 1,
+        "spiritualist": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -18,15 +21,15 @@
     "duration": "24 hours",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell blesses a corpse with positive energy, preventing it from being turned into an undead creature. Attempts to raise the corpse as an undead automatically fail. If the corpse is of a person slain by a creature that creates undead out of its slain foes (such as a shadow, vampire, or wraith), that effect is delayed until the end of this spell. It is possible to protect a corpse for an extended time by casting this spell each day.<\/p><p><i>Sanctify corpse<\/i> can be made permanent with a permanency spell by a caster of 9th level or higher for the cost of 500 gp.<\/p>",
+    "text": "This spell blesses a corpse with positive energy, preventing it from being turned into an undead creature. Attempts to raise the corpse as an undead automatically fail. If the corpse is of a person slain by a creature that creates undead out of its slain foes (such as a shadow, vampire, or wraith), that effect is delayed until the end of this spell. It is possible to protect a corpse for an extended time by casting this spell each day.<br><br><i>Sanctify corpse <\/i>can be made permanent with a <i>permanency <\/i>spell by a caster of 9th level or higher for the cost of 500 gp.",
     "name_zh": "尸体圣化",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一撮银粉)，法器",
     "range_zh": "接触",
     "target_zh": "接触到的尸体",
+    "area_zh": "corpse touched",
     "duration_zh": "24小时",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>该法术会用正能量祝福一具尸体，以使其不会转化成不死生物。<\/p><p>如果尸体是被能够创建衍体的生物所杀 (例如幽影或吸血鬼和幽灵等)，效果会被延迟到法术效果结束以后。如果你每天都施放这个法术，则可以保护该尸体更长时间。<\/p><p>尸体圣化可以被恒定，需要9级施法者等级以及至少500gp的费用。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>该法术会用正能量祝福一具尸体，以使其不会转化成不死生物。<\/p><p>如果尸体是被能够创建衍体的生物所杀 (例如幽影或吸血鬼和幽灵等)，效果会被延迟到法术效果结束以后。如果你每天都施放这个法术，则可以保护该尸体更长时间。<\/p><p>尸体圣化可以被恒定，需要9级施法者等级以及至少500gp的费用。<\/p>"
 }

@@ -1,19 +1,34 @@
 {
     "key": "mount, communal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mount/",
     "name": "Mount, Communal",
-    "base": "mount",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mount,%20Communal",
+    "source": ["Ultimate Combat pg. 237"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 2,
         "magus": 2,
-        "sorcerer/wizard": 2,
-        "summoner/unchained summoner": 2,
-        "witch": 2
+        "occultist": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "witch": 2,
+        "wizard": 2
     },
+    "castingTime": "1 round",
+    "components": "V, S, M (a bit of horse hair)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "up to six mounts",
-    "text": "<p style=\"margin-left:40px\">This spell functions like <i>mount<\/i>, except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.<\/p>",
+    "duration": "2 hours/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>mount<\/i>, except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.",
     "name_zh": "共用召唤坐骑",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "最多6匹坐骑",
-    "text_zh": "<p>这个法术工作方式如同召唤坐骑 (Mount)，不过你可以召唤最多6匹轻型马或矮种马，然后你可以将法术持续时间以2小时为单位分配给每一只召唤物。<\/p>",
-    "source": "UC"
+    "duration_zh": "2小时/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术工作方式如同召唤坐骑 (Mount)，不过你可以召唤最多6匹轻型马或矮种马，然后你可以将法术持续时间以2小时为单位分配给每一只召唤物。<\/p>"
 }

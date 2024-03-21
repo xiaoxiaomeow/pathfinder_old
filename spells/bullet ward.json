@@ -1,31 +1,34 @@
 {
     "key": "bullet ward",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bullet-ward/",
     "name": "Bullet Ward",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bullet%20Ward",
+    "source": ["Advanced Class Guide pg. 176"],
     "school": "abjuration",
     "levels":     {
         "antipaladin": 2,
+        "arcanist": 2,
         "bard": 2,
+        "hunter": 2,
         "inquisitor": 2,
         "paladin": 2,
         "psychic": 2,
         "ranger": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (one to four adamantine bullets, each worth 61 gp)",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level or until discharged",
-    "text": "<p>You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks targeting you. The number of bullets protecting you is equal to half your caster level (maximum 4). When an opponent takes a shot at you with a firearm, as an immediate action you can designate a hovering bullet to attempt to block the attack, increasing your AC against that attack by 10. Doing this destroys the adamantine bullet whether or not the attack hits. The spell is discharged when all affected adamantine bullets are destroyed or taken from you. Each adamantine bullet has AC 24, 20 hit points, and hardness 20.<\/p>",
+    "duration": "10 minutes/level or until discharged",
+    "text": "You toss several adamantine bullets into the air, which then hover protectively nearby and intercept firearm attacks targeting you. The number of bullets protecting you is equal to half your caster level (maximum 4). When an opponent takes a shot at you with a firearm, as an immediate action you can designate a hovering bullet to attempt to block the attack, increasing your AC against that attack by 10. Doing this destroys the adamantine bullet whether or not the attack hits. The spell is discharged when all affected adamantine bullets are destroyed or taken from you. Each adamantine bullet has AC 24, 20 hit points, and hardness 20.",
     "name_zh": "弹丸结界",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，器材（1至4颗精金弹丸，每颗价值61gp）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级 或直至耗散",
-    "text_zh": "<p>你将几颗精金弹丸丢向空中，它们会在你身边盘旋进行防护并且拦截以你为目标的火器攻击。保护你的弹丸数量等同于你的施法者等级的一半（最高4颗）。当敌人使用火器对你射击时，你能够以直觉动作指定一颗悬浮的子弹来尝试阻挡攻击，使你在对抗该次攻击时AC增加10点。无论攻击是否命中，这么做都会摧毁精金弹丸。当所有受法术影响的弹丸都被摧毁或者离开你时，法术便会被耗散。每颗精金弹丸的AC均为24，具有20点生命值和20点硬度。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你将几颗精金弹丸丢向空中，它们会在你身边盘旋进行防护并且拦截以你为目标的火器攻击。保护你的弹丸数量等同于你的施法者等级的一半（最高4颗）。当敌人使用火器对你射击时，你能够以直觉动作指定一颗悬浮的子弹来尝试阻挡攻击，使你在对抗该次攻击时AC增加10点。无论攻击是否命中，这么做都会摧毁精金弹丸。当所有受法术影响的弹丸都被摧毁或者离开你时，法术便会被耗散。每颗精金弹丸的AC均为24，具有20点生命值和20点硬度。<\/p>"
 }

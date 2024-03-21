@@ -1,32 +1,39 @@
 {
     "key": "aspect of the nightingale",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-nightingale/",
     "name": "Aspect of the Nightingale",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aspect%20of%20the%20Nightingale",
+    "source":     [
+        "Inner Sea Gods pg. 228",
+        "Pathfinder #50: Night of Frozen Shadows pg. 75"
+    ],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
+    "race": "Shelyn",
     "levels":     {
         "bard": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "druid": 1,
+        "hunter": 1,
         "inquisitor": 1,
+        "oracle": 1,
         "paladin": 1,
         "ranger": 1,
-        "shaman": 1
+        "shaman": 1,
+        "skald": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You take on an aspect of a nightingale. Your voice becomes clear and pleasant. You gain a +2 competence bonus on Perform (sing) checks and a +2 competence bonus on Diplomacy checks. Once per minute, if you are subject to a charm effect that allows a saving throw, you may roll twice and take the more favorable result.<\/p>",
+    "duration": "1 minute/level",
+    "text": "You take on an aspect of a nightingale. Your voice becomes clear and pleasant. You gain a +2 competence bonus on Perform (sing) checks and a +2 competence bonus on Diplomacy checks. Once per minute, if you are subject to a charm effect that allows a saving throw, you may roll twice and take the more favorable result.",
     "name_zh": "夜莺之型",
-    "race_zh": "莎琳",
+    "race_zh": "纱琳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你获得夜莺的特质，嗓音婉转而动听。你在表演（歌唱）检定上获得+2表现加值。每分钟一次，当你对一个魅惑效果做出豁免检定时，你可以双骰取高。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你获得夜莺的特质，嗓音婉转而动听。你在表演（歌唱）检定上获得+2表现加值。每分钟一次，当你对一个魅惑效果做出豁免检定时，你可以双骰取高。<\/p>"
 }

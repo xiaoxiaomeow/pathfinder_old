@@ -1,26 +1,31 @@
 {
     "key": "teleport object",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/teleport-object/",
     "name": "Teleport Object",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport%20Object",
+    "source": ["PRPG Core Rulebook pg. 359"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "arcanist": 7,
+        "psychic": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V",
     "range": "touch",
     "target": "one touched object of up to 50 lbs./level and 3 cu. ft./level",
+    "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>This spell functions like <i>teleport<\/i>, except that it teleports an object, not you. Creatures and magical forces cannot be teleported.<\/p><p>If desired, the target object can be sent to a distant location on the Ethereal Plane. In this case, the point from which the object was teleported remains faintly magical until the item is retrieved. A successful targeted dispel magic spell cast on that point brings the vanished item back from the Ethereal Plane.<\/p>",
+    "text": "This spell functions like <i>teleport<\/i>, except that it teleports an object, not you. Creatures and magical forces cannot be teleported.<br><br>If desired, the target object can be sent to a distant location on the Ethereal Plane. In this case, the point from which the object was teleported remains faintly magical until the item is retrieved. A successful targeted <i>dispel magic<\/i> spell cast on that point brings the vanished item back from the Ethereal Plane.",
     "name_zh": "物品传送术",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
     "target_zh": "最多50磅/等级，3立方英尺/等级的接触到的一个物品",
+    "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>该法术的功能与‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’相同，但本法术传送的是物品而不是你本身。生物和魔法力场 (magical forces) 不能被传送。<\/p><p>如果愿意，可以将目标物品传送到灵界的远处。在这种情况下，物品被传走的地点保持微弱的魔力，直到物品被取回。在该点成功地施展目标型‘<a href=\"spell.html?spell=targeted dispel magic\">解除魔法 (targeted dispel magic)<\/a>’可以将物品自灵界位面取回。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的功能与‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’相同，但本法术传送的是物品而不是你本身。生物和魔法力场 (magical forces) 不能被传送。<\/p><p>如果愿意，可以将目标物品传送到灵界的远处。在这种情况下，物品被传走的地点保持微弱的魔力，直到物品被取回。在该点成功地施展目标型‘<a href=\"spell.html?spell=targeted dispel magic\">解除魔法 (targeted dispel magic)<\/a>’可以将物品自灵界位面取回。<\/p>"
 }

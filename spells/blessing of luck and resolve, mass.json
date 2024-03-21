@@ -1,23 +1,33 @@
 {
     "key": "blessing of luck and resolve, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessings-of-luck-and-resolve/",
-    "name": "Blessing Of Luck And Resolve, Mass",
-    "base": "blessings of luck and resolve",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "name": "Blessing of Luck and Resolve, Mass",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blessing%20of%20Luck%20and%20Resolve,%20Mass",
+    "source": ["Advanced Race Guide pg. 68"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
+    "race": "halfling",
     "levels":     {
         "cleric": 6,
         "inquisitor": 6,
-        "paladin": 4
+        "oracle": 6,
+        "paladin": 4,
+        "warpriest": 6
     },
+    "castingTime": "1 standard action",
+    "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "text": "<h4>EFFECT<\/h4><p><b>Range<\/b> close (25 ft. + 5 ft./2 levels)<br> <b>Targets<\/b> one creature/level, no two of which can be more than 30 ft. apart<\/p><h4>DESCRIPTION<\/h4><p>This spell functions like <i>blessing of luck and resolve<\/i>, except that it affects multiple creatures.<\/p>",
+    "duration": "1 minute/level (D), special see below",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>blessing of luck and resolve<\/i>, except that it affects multiple creatures.",
     "name_zh": "群体祥瑞之助",
     "race_zh": "半身人",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每级1个生物，每相邻两个目标之间距离不超过30尺",
-    "text_zh": "<p>这个法术如同‘祥瑞之祝’一般发生作用，只不过作用于群体。<\/p>",
-    "source": "ARG"
+    "duration_zh": "1分钟/等级, 特殊见文本",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>这个法术如同‘祥瑞之祝’一般发生作用，只不过作用于群体。<\/p>"
 }

@@ -1,21 +1,24 @@
 {
     "key": "life of crime",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/life-of-crime/",
     "name": "Life of Crime",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Life%20of%20Crime",
+    "source": ["Ultimate Intrigue pg. 218"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "curse",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 8,
         "bard": 6,
         "mesmerist": 6,
         "psychic": 8,
-        "sorcerer/wizard": 8
+        "skald": 6,
+        "sorcerer": 8,
+        "wizard": 8
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a black mask)",
@@ -24,15 +27,14 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You unleash the basest instincts of iniquity in the target and cause them to become his overriding reason for being. The target neither gains nor provides benefit from teamwork feats or the aid another action and can't willingly accept harmless magical effects from others.<\/p><p>The target moves by Stealth whenever possible, and lies and deceives others instinctively to further its personal agenda. In addition, when the target is conscious, it must succeed at a Will save against the spell's save DC each hour (or each round during combat or a similarly stressful situation) or behave as if affected by a <em>crime wave<\/em> spell for 1 round.<\/p><p><i>Life of crime<\/i> is particularly difficult to remove. Only a <em>remove curse<\/em> with a higher caster level than <i>life of crime's<\/i> caster level, or a <em>limited wish<\/em>, <em>wish<\/em>, or <em>miracle<\/em> can remove its effects.<\/p>",
+    "text": "You unleash the basest instincts of iniquity in the target and cause them to become his overriding reason for being. The target neither gains nor provides benefit from teamwork feats or the aid another action and can’t willingly accept harmless magical effects from others.<br><br> The target moves by Stealth whenever possible, and lies and deceives others instinctively to further its personal agenda. In addition, when the target is conscious, it must succeed at a Will save against the spell’s save DC each hour (or each round during combat or a similarly stressful situation) or behave as if affected by a <i>crime wave<\/i> spell for 1 round.<br><br> <i>Life of crime<\/i> is particularly difficult to remove. Only a <i>remove curse <\/i>with a higher caster level than life of crime’s caster level, or a <i>limited wish, wish<\/i>, or <i>miracle <\/i>can remove its effects.",
     "name_zh": "罪恶人生",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（黑面具）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个活物",
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你释放出目标的邪恶本性，让他把这些本性当做生存的主要动机。目标不再会从团队专长（teamwork feats）或者协助他人动作（aid another action）中获益，也不会为他人提供上述好处，而且变得无法自愿接受源自他人的无害魔法效果（harmless magical effects）。\n目标会在所有可能潜行的时候以潜行来移动，为了达成自己的个人目的而本能性地撒谎和欺骗他人。此外，当目标有意识（conscious）时，必须每小时进行1次意志豁免来对抗该法术的豁免DC（在战斗中或者类似的紧张情况下则为每轮1次），失败则相当于在1轮内受到犯罪浪潮（Crime Wave）法术影响。\n罪恶人生很难被移除。只有有限祈愿术（Limited Wish）、祈愿术（Wish）、神迹术（Miracle）或施法者等级高于罪恶人生的施法者等级的移除诅咒（Remove Curse）能移除该效果。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你释放出目标的邪恶本性，让他把这些本性当做生存的主要动机。目标不再会从团队专长（teamwork feats）或者协助他人动作（aid another action）中获益，也不会为他人提供上述好处，而且变得无法自愿接受源自他人的无害魔法效果（harmless magical effects）。<\/p><p>目标会在所有可能潜行的时候以潜行来移动，为了达成自己的个人目的而本能性地撒谎和欺骗他人。此外，当目标有意识（conscious）时，必须每小时进行1次意志豁免来对抗该法术的豁免DC（在战斗中或者类似的紧张情况下则为每轮1次），失败则相当于在1轮内受到犯罪浪潮（Crime Wave）法术影响。<\/p><p>罪恶人生很难被移除。只有有限祈愿术（Limited Wish）、祈愿术（Wish）、神迹术（Miracle）或施法者等级高于罪恶人生的施法者等级的移除诅咒（Remove Curse）能移除该效果。<\/p>"
 }

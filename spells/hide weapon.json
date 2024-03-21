@@ -1,29 +1,31 @@
 {
     "key": "hide weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hide-weapon/",
     "name": "Hide Weapon",
-    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20Weapon",
+    "source": ["Dirty Tactics Toolbox pg. 30"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 1,
+        "arcanist": 1,
         "bloodrager": 1,
+        "hunter": 1,
         "inquisitor": 1,
         "magus": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 hour/level (d)",
-    "text": "<p>Upon casting this spell, a light or one-handed melee weapon in your hand melds with your flesh, accompanied by a disgusting sucking sound. The weapon disappears completely inside your arm, and thereafter for the duration of the spell, you can extend and retract the weapon as a move action.<\/p><p>While extended, the weapon remains partially melded with your hand and arm, providing a +5 bonus to your CMD against disarm combat maneuvers. While the weapon is retracted, its shape adjusts to fit inside your arm, and you retain the use of your hand. Spotting the weapon on casual inspection is impossible, but anyone frisking you can attempt a DC 25 Perception check to notice a light weapon or a DC 20 Perception check to notice a one-handed weapon hidden inside your arm. If the weapon grants a bonus on Sleight of Hand checks to hide it (as does a dagger), the bonus is added to the DC to find the item. Anyone who sees you casting this spell doesn't need to succeed at a Perception check to know you have the hidden weapon.<\/p><p>If you cast this spell a second time, you can hide another weapon inside your other arm. You can extend and retract both weapons as part of the same action.<\/p>",
+    "duration": "1 hour/level (D)",
+    "text": "Upon casting this spell, a light or one-handed melee weapon in your hand melds with your flesh, accompanied by a disgusting sucking sound. The weapon disappears completely inside your arm, and thereafter for the duration of the spell, you can extend and retract the weapon as a move action.<br><br> While extended, the weapon remains partially melded with your hand and arm, providing a +5 bonus to your CMD against disarm combat maneuvers. While the weapon is retracted, its shape adjusts to fit inside your arm, and you retain the use of your hand. Spotting the weapon on casual inspection is impossible, but anyone frisking you can attempt a DC 25 Perception check to notice a light weapon or a DC 20 Perception check to notice a one-handed weapon hidden inside your arm. If the weapon grants a bonus on Sleight of Hand checks to hide it (as does a dagger), the bonus is added to the DC to find the item. Anyone who sees you casting this spell doesn’t need to succeed at a Perception check to know you have the hidden weapon.<br><br> If you cast this spell a second time, you can hide another weapon inside your other arm. You can extend and retract both weapons as part of the same action.",
     "name_zh": "隐藏武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1小时/等级 (D)",
-    "text_zh": "<p>施放这个法术后，伴随着一阵令人恶心的吸吮声，一件在你手中的轻型或单手近战武器与你的肉体融合。武器完全融入你的手臂理面，然后在法术的持续时间内，你可以以一个移动动作取出或收回武器。\n当取出时，武器仍与你的手和手臂有部分的融合，给予你在对抗卸武战技+5的战技防御加值。当武器收回时，武器最自动调整型状，以适应你的手臂，并且你的手仍可自由活动。漫不经心的检查是不可能注意到武器的，但任何搜你身的人，都可以尝试一次DC25的察觉检定，来注意到一件轻型武器，或DC20的察觉检定，来注意一件藏在你手臂内的单手武器。如果一件武器能由巧手检定来藏起(如一把匕首)来获得加值，那此加值也增加至寻找此物品的DC上。任何看见你施展此法术的人，无须通过察觉检定，就可以知晓你藏了武器。\n如果施展此法术两次，你可以将另一件武器藏进你另一只手臂。以同一动作的一部分，你就可以将这两件武器取出或收回。<\/p>",
-    "source": "PC-DTT"
+    "duration_zh": "1小时/等级 (可解消)",
+    "text_zh": "<p>施放这个法术后，伴随着一阵令人恶心的吸吮声，一件在你手中的轻型或单手近战武器与你的肉体融合。武器完全融入你的手臂理面，然后在法术的持续时间内，你可以以一个移动动作取出或收回武器。<\/p><p>当取出时，武器仍与你的手和手臂有部分的融合，给予你在对抗卸武战技+5的战技防御加值。当武器收回时，武器最自动调整型状，以适应你的手臂，并且你的手仍可自由活动。漫不经心的检查是不可能注意到武器的，但任何搜你身的人，都可以尝试一次DC25的察觉检定，来注意到一件轻型武器，或DC20的察觉检定，来注意一件藏在你手臂内的单手武器。如果一件武器能由巧手检定来藏起(如一把匕首)来获得加值，那此加值也增加至寻找此物品的DC上。任何看见你施展此法术的人，无须通过察觉检定，就可以知晓你藏了武器。<\/p><p>如果施展此法术两次，你可以将另一件武器藏进你另一只手臂。以同一动作的一部分，你就可以将这两件武器取出或收回。<\/p>"
 }

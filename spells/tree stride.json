@@ -1,28 +1,26 @@
 {
     "key": "tree stride",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tree-stride/",
     "name": "Tree Stride",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tree%20Stride",
+    "source": ["PRPG Core Rulebook pg. 362"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
         "druid": 5,
+        "hunter": 4,
         "ranger": 4
     },
-    "elementalSchools": {"wood": 6},
-    "bloodlines": {"fey": 5},
-    "mysteries": {"wood": 5},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
     "duration": "1 hour/level or until expended; see text",
-    "text": "<p>When you cast this spell, you gain the ability to step into a tree, magically infusing yourself with the plant. Once within a tree, you can teleport from that particular tree to another tree. The trees you enter must be of the same kind, must be living, and must have girth at least equal to yours. By moving into an oak tree (for example), you instantly know the location of all other oak trees within transport range (see below) and may choose whether you want to pass into one or simply step back out of the tree you moved into. You may choose to pass to any tree of the appropriate kind within the transport range as shown on the following table.<\/p><table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Type of Tree<\/th><th class=\"text\" style=\"text-align: center\">Transport Range<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">Oak, ash, yew<\/td><td class=\"text\" style=\"text-align: center\">3,000 ft.<\/td><\/tr><tr><td class=\"text\">Elm, linden<\/td><td class=\"text\" style=\"text-align: center\">2,000 ft.<\/td><\/tr><tr><td class=\"text\">Other deciduous<\/td><td class=\"text\" style=\"text-align: center\">1,500 ft.<\/td><\/tr><tr><td class=\"text\">Any coniferous<\/td><td class=\"text\" style=\"text-align: center\">1,000 ft.<\/td><\/tr><\/tbody><\/table><p>You may move into a tree up to one time per caster level (passing from one tree to another counts only as moving into one tree). The spell lasts until the duration expires or you exit a tree. Each transport is a full-round action.<\/p><p>You can, at your option, remain within a tree without transporting yourself, but you are forced out when the spell ends. If the tree in which you are concealed is chopped down or burned, you are slain if you do not exit before the process is complete.<\/p>",
+    "text": "When you cast this spell, you gain the ability to step into a tree, magically infusing yourself with the plant. Once within a tree, you can teleport from that particular tree to another tree. The trees you enter must be of the same kind, must be living, and must have girth at least equal to yours. By moving into an oak tree (for example), you instantly know the location of all other oak trees within transport range (see below) and may choose whether you want to pass into one or simply step back out of the tree you moved into. You may choose to pass to any tree of the appropriate kind within the transport range as shown on the following table.<br><br><table class=\"inner\"><tr><td><b>Type of Tree<\/b><\/td><td><b>Transport Range<\/b><\/td><\/tr><tr><td>Oak, ash, yew<\/td><td>3,000 feet<\/td><\/tr><tr><td>Elm, linden<\/td><td>2,000 feet<\/td><\/tr><tr><td>Other deciduous<\/td><td>1,500 feet<\/td><\/tr><tr><td>Any coniferous<\/td><td>1,000 feet<\/td><\/tr><\/table><br>You may move into a tree up to one time per caster level (passing from one tree to another counts only as moving into one tree). The spell lasts until the duration expires or you exit a tree. Each transport is a full-round action.<br><br>You can, at your option, remain within a tree without transporting yourself, but you are forced out when the spell ends. If the tree in which you are concealed is chopped down or burned, you are slain if you do not exit before the process is complete.",
     "name_zh": "融身入林",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1小时/等级 或 直至离开树木; 见后文",
-    "text_zh": "<p>当你施放该法术时，会获得进入树木的能力，这使得你将自身融入树木之中。一旦你进入树木之内，你就能够从特定的树木中传送到另一颗树中。你进入的树木必须是相同的种类的、活着的且大小至少与你相同。当你进入一棵橡树 (举例而已) 后，你马上会知道传送范围 (见下表) 内其它橡树的位置，同时你可以选择你想进入的树，或仅仅是从你进入的树里出来。如下表所示，你可以选择进入传送范围内任何对应种类的树。\n树木种类\n 传送距离\n橡树, 白蜡木, 紫杉\n 3000尺\n榆木, 菩提树\n 2000尺\n其它落叶树\n 1500尺\n任意针叶树\n 1000尺<\/p><p>每天进入树木的次数最多等于你的CL (从一棵树传送到另一棵算进入一次)。若超过法术持续时间或你离开树木时，法术就会结束。每次传送为整轮动作。<\/p><p>如果你愿意，你可以一直待在树里而不传送，但当法术终止时，你会被迫离开。若你所在的树被砍伐或焚烧，且你未在该行动完成时离开，你会死亡。<\/p>",
-    "source": "CRB"
+    "duration_zh": "1小时/等级 或 直至离开树木; 见文本",
+    "text_zh": "<p>当你施放该法术时，会获得进入树木的能力，这使得你将自身融入树木之中。一旦你进入树木之内，你就能够从特定的树木中传送到另一颗树中。你进入的树木必须是相同的种类的、活着的且大小至少与你相同。当你进入一棵橡树 (举例而已) 后，你马上会知道传送范围 (见下表) 内其它橡树的位置，同时你可以选择你想进入的树，或仅仅是从你进入的树里出来。如下表所示，你可以选择进入传送范围内任何对应种类的树。<\/p><p>树木种类 传送距离<\/p><p>橡树, 白蜡木, 紫杉 3000尺<\/p><p>榆木, 菩提树 2000尺<\/p><p>其它落叶树 1500尺<\/p><p>任意针叶树 1000尺<\/p><p>每天进入树木的次数最多等于你的CL (从一棵树传送到另一棵算进入一次)。若超过法术持续时间或你离开树木时，法术就会结束。每次传送为整轮动作。<\/p><p>如果你愿意，你可以一直待在树里而不传送，但当法术终止时，你会被迫离开。若你所在的树被砍伐或焚烧，且你未在该行动完成时离开，你会死亡。<\/p>"
 }

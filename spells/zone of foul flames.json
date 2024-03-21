@@ -1,26 +1,28 @@
 {
     "key": "zone of foul flames",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/z/zone-of-foul-flames/",
     "name": "Zone of Foul Flames",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Zone%20of%20Foul%20Flames",
+    "source": ["Inner Sea Magic pg. 63"],
     "school": "transmutation",
-    "levels": {"druid": 4},
+    "levels":     {
+        "druid": 4,
+        "hunter": 4
+    },
     "castingTime": "1 standard action",
-    "components": "V, S, M (a sliver of tree bark from a burnt tree)",
+    "components": "V, S, M (a sliver of tree bark from a burnt tree from the Uskwood)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "area": "20-ft.-radius spread",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell creates a zone where magical fire effects twist and lash out against those who create the effects. A <i>zone of foul flames<\/i> looks unremarkable to the casual observer, but a Perception check (DC = 20 + the caster's level) reveals a faint rippling effect in the area, as if of heat distortions in the air.<\/p><p>Whenever a creature casts a spell with the fire descriptor or activates a magical fire effect (as from a magic item or a special attack) while that creature is located in a <i>zone of foul flames<\/i>, that creature takes full fire damage from the effect. If the effect allows a saving throw to reduce the damage, the victim may attempt the same saving throw to reduce the damage. All creatures in a <i>zone of foul flames<\/i> gain a +4 circumstance bonus on all saving throws against fire effects, except for those made by a creature attempting to save against fire damage from his own magic. Nonmagical fire in a <i>zone of foul flames<\/i> burns half as brightly but is otherwise not affected.<\/p>",
+    "text": "The twisted druids of the Uskwood forsook fire in ages past for the glory of Zon-Kuthon. Despite this aversion, these servants of Nidal know well the sting of flame, and have learned to turn it back on those that wield it. This spell creates a zone where magical fire effects twist and lash out against those who create the effects. A <i>zone of foul flames <\/i>looks unremarkable to the casual observer, but a Perception check (DC = 20 + the caster’s level) reveals a faint rippling effect in the area, as if of heat distortions in the air.<br><br>Whenever a creature casts a spell with the fire descriptor or activates a magical fire effect (as from a magic item or a special attack) while that creature is located in a <i>zone of foul flames<\/i>, that creature takes full fire damage from the effect. If the effect allows a saving throw to reduce the damage, the victim may attempt the same saving throw to reduce the damage. All creatures in a <i>zone of foul flames <\/i>gain a +4 circumstance bonus on all saving throws against fire effects, except for those made by a creature attempting to save against fire damage from his own magic. Nonmagical fire in a <i>zone of foul flames <\/i>burns half as brightly but is otherwise not affected.",
     "name_zh": "逆焰之域",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一片从乌斯克森林的焦木上取下的树皮）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "20尺半径扩散区域",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺扩散区域",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在过去的岁月里，乌斯克森林（Uskwood）中的那些扭曲德鲁伊为了宗·库山（Zon-Kuthon）的荣光背弃了火焰。尽管对此心生厌恶，但是这些奈多（Nidal）的仆从十分了解火焰带来的苦楚，并由此习得了以火制火的方法。该法术会创造出一片领域，在这里魔法火焰效果都会转而冲击那些创造效果的人。逆焰之域对于那些漫不经心的家伙来说看起来没什么不同，但是通过察觉检定（DC = 20 + 施法者等级）能了解到这片区域的空气会泛起淡淡的涟漪，就好像空气中的热浪那样。\n当有生物在逆焰之域所在的地点内施放带有火描述符（fire descriptor）的法术或者启动魔法火焰效果（比如来自魔法物品或者特殊能力）时，该名生物会受到来自该效果的完整火焰伤害。若这个效果允许进行豁免来减低伤害，那么受害者也可以尝试相同的豁免检定来减低伤害。所有在逆焰之域范围内的生物都会在对抗火焰效果的豁免中获得+4环境加值，不过那些由于自身的魔法火焰而需要进行豁免的生物则不能享受这个加值。非魔法火焰在逆焰之域内燃烧产生的亮度减半，不过其他方面没有影响。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>在过去的岁月里，乌斯克森林（Uskwood）中的那些扭曲德鲁伊为了宗·库山（Zon-Kuthon）的荣光背弃了火焰。尽管对此心生厌恶，但是这些奈多（Nidal）的仆从十分了解火焰带来的苦楚，并由此习得了以火制火的方法。该法术会创造出一片领域，在这里魔法火焰效果都会转而冲击那些创造效果的人。逆焰之域对于那些漫不经心的家伙来说看起来没什么不同，但是通过察觉检定（DC = 20 + 施法者等级）能了解到这片区域的空气会泛起淡淡的涟漪，就好像空气中的热浪那样。<\/p><p>当有生物在逆焰之域所在的地点内施放带有火描述符（fire descriptor）的法术或者启动魔法火焰效果（比如来自魔法物品或者特殊能力）时，该名生物会受到来自该效果的完整火焰伤害。若这个效果允许进行豁免来减低伤害，那么受害者也可以尝试相同的豁免检定来减低伤害。所有在逆焰之域范围内的生物都会在对抗火焰效果的豁免中获得+4环境加值，不过那些由于自身的魔法火焰而需要进行豁免的生物则不能享受这个加值。非魔法火焰在逆焰之域内燃烧产生的亮度减半，不过其他方面没有影响。<\/p>"
 }

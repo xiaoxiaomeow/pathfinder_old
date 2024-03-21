@@ -1,14 +1,13 @@
 {
     "key": "death pact",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-pact/",
     "name": "Death Pact",
-    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20Pact",
+    "source": ["Occult Origins pg. 13"],
     "school": "enchantment",
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 5,
-        "mesmerist": 5,
-        "psychic": 6,
+        "skald": 5,
         "witch": 6
     },
     "castingTime": "1 minute",
@@ -16,9 +15,9 @@
     "range": "touch",
     "target": "one creature",
     "duration": "24 hours",
-    "savingThrow": "Will negates",
+    "savingThrow": "Will negates, see text",
     "spellResistance": "yes",
-    "text": "<p>You take control of a creature's mind and implant deadly subconscious commands. This spell functions as dominate person, allowing you to control your subject and see through her senses, but also implants a powerful burst of psychic energy in the subject's mind. At any point during the spell's duration, you can trigger this burst as an immediate action, dealing 1d8 points of damage per caster level (Fortitude half) to the subject. If this damage is enough to reduce to target to 0 or fewer hit points, the target dies instantly.<\/p><p>Your target can also willingly trigger this psychic burst as an immediate action. You can specify conditions (such as being captured) when she should do so, though such orders are considered dangerous and allow the subject a new Will saving throw with a +2 bonus.<\/p>",
+    "text": "You take control of a creature’s mind and implant deadly subconscious commands. This spell functions as dominate person, allowing you to control your subject and see through her senses, but also implants a powerful burst of psychic energy in the subject’s mind. At any point during the spell’s duration, you can trigger this burst as an immediate action, dealing 1d8 points of damage per caster level (Fortitude half) to the subject. If this damage is enough to reduce to target to 0 or fewer hit points, the target dies instantly.<br><br> Your target can also willingly trigger this psychic burst as an immediate action. You can specify conditions (such as being captured) when she should do so, though such orders are considered dangerous and allow the subject a new Will saving throw with a +2 bonus.",
     "name_zh": "死亡契约",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、材料 (一张以血定契的合约)",
@@ -27,6 +26,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你控制一名生物的心灵，并灌输致死的潜意识指令。此法术如同支配人类(dominate person)般作用，令你能控制受术者，并看透她的感官知觉，这也对受术者的心灵灌注了一股强大的爆破性异能能量。在法术持续时间的任何点上，你可以以一个直觉动作触发这股爆破，对受术者造成每施法者等级1d8点伤害(强韧，通过则减半)。如果这伤害足以让目标的生命值减少至0或更低，目标立即死亡。\n你的目标也能够自愿以一个直觉动作触发这股异能爆破。你可以明确说明当她处于这种状态时必须自愿触发(例如被俘虏)，。但这命令被认为是危险的，并且令受术者有一次新的意志豁免检定，并有+2加值。<\/p>",
-    "source": "PC-OO"
+    "text_zh": "<p>你控制一名生物的心灵，并灌输致死的潜意识指令。此法术如同支配人类(dominate person)般作用，令你能控制受术者，并看透她的感官知觉，这也对受术者的心灵灌注了一股强大的爆破性异能能量。在法术持续时间的任何点上，你可以以一个直觉动作触发这股爆破，对受术者造成每施法者等级1d8点伤害(强韧，通过则减半)。如果这伤害足以让目标的生命值减少至0或更低，目标立即死亡。<\/p><p>你的目标也能够自愿以一个直觉动作触发这股异能爆破。你可以明确说明当她处于这种状态时必须自愿触发(例如被俘虏)，。但这命令被认为是危险的，并且令受术者有一次新的意志豁免检定，并有+2加值。<\/p>"
 }

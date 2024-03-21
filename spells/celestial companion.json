@@ -1,0 +1,33 @@
+{
+    "key": "celestial companion",
+    "name": "Celestial Companion",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Celestial%20Companion",
+    "source": ["Plane-Hopper's Handbook pg. 12"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 2,
+        "druid": 2,
+        "hunter": 2,
+        "paladin": 1,
+        "ranger": 2,
+        "shaman": 2,
+        "sorcerer": 2,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "witch": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF/M",
+    "range": "touch",
+    "target": "animal companion, eidolon, familiar, or mount",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "You bestow divine protection on your companion. The target gains spell resistance equal to 5 plus half your caster level against spells and spell-like effects produced by evil creatures. The target also gains a +1 sacred bonus on saving throws and DR 5/evil or silver. Creatures under the effects of this spell often take on a celestial appearance, such as golden feathers or a radiant aura, but they are not truly celestial creatures.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

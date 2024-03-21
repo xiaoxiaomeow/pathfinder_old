@@ -1,33 +1,38 @@
 {
     "key": "defending bone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/defending-bone/",
     "name": "Defending Bone",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Defending%20Bone",
+    "source":     [
+        "Inner Sea Gods pg. 232",
+        "Gods and Magic pg. 31"
+    ],
     "school": "necromancy",
+    "race": "Pharasma",
     "levels":     {
-        "cleric/oracle": 2,
+        "arcanist": 2,
+        "cleric": 2,
         "inquisitor": 2,
         "magus": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "oracle": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
-    "components": "V, S, F (a Medium creature's skull or femur), DF",
+    "components": "V, S, F (a Medium creature’s skull or femur), DF",
     "range": "personal",
     "target": "you",
     "duration": "1 hour/level or until discharged",
-    "savingThrow": "none",
-    "spellResistance": "no",
-    "text": "<p>You animate a bone with necromantic energy, giving it the power to float near your body and interpose itself against physical attacks.<\/p><p>You gain damage reduction 5/bludgeoning. Once the bone has prevented a total of 5 points of damage per caster level (maximum 50 points), it is destroyed and the spell is discharged. This spell has no effect if you have damage reduction from another source.<\/p>",
+    "text": "You animate a bone with necromantic energy, giving it the power to float near your body and interpose itself against physical attacks. This gives you damage reduction 5/bludgeoning. Once the bone has prevented a total of 5 points of damage per caster level (maximum 50 points), it is destroyed and the spell is discharged. This spell has no effect if you have damage reduction from another source.",
     "name_zh": "防御骨盾",
-    "race_zh": "法拉斯玛",
+    "race_zh": "法莱斯玛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (一根中体型生物的头骨或大腿骨)、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1小时/等级 或 直至释放",
+    "duration_zh": "1小时/等级 或 直至能量散发",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>你用死灵系能量活化一根骨头，让它漂浮在你的身体的四周，并且介入朝向你的物体攻击。这位给予你伤害减免5/钝击。当这根骨头阻挡了5点/施法者等级(最多50点)的伤害时，它会被毁并且此法术会释放。如果你有另一来源的伤害减免，此法术无效。<\/p>",
-    "source": "CS-GaM"
+    "spellResistance_zh": "无",
+    "text_zh": "<p>你用死灵系能量活化一根骨头，让它漂浮在你的身体的四周，并且介入朝向你的物体攻击。这位给予你伤害减免5/钝击。当这根骨头阻挡了5点/施法者等级(最多50点)的伤害时，它会被毁并且此法术会释放。如果你有另一来源的伤害减免，此法术无效。<\/p>"
 }

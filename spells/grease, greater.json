@@ -1,23 +1,29 @@
 {
     "key": "grease, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grease/",
     "name": "Grease, Greater",
-    "base": "grease",
-    "book": "Pathfinder Roleplaying Game Core Rulebook © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grease,%20Greater",
+    "source": ["Dirty Tactics Toolbox pg. 30"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
         "magus": 5,
-        "sorcerer/wizard": 5,
-        "summoner": 5
+        "skald": 5,
+        "sorcerer": 5,
+        "summoner": 5,
+        "wizard": 5
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (butter)",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "one object/2 levels or 1 10-ft. square/2 levels; see text",
-    "text": "<p>This spell functions like <i>grease<\/i>, except as noted here. When you use this spell to cover a solid surface with slippery grease, the 10-foot squares must form a continuous area, each part of which must be within the spell's range. When you use this spell to create a greasy coating on items, no two of the targeted items can be more than 30 feet apart. You cannot target both items and surfaces with a single casting of this spell.<\/p><\/div>",
+    "duration": "1 min./level (D)",
+    "text": "This spell functions like <i>grease<\/i>, except as noted here. When you use this spell to cover a solid surface with slippery grease, the 10-foot squares must form a continuous area, each part of which must be within the spell’s range. When you use this spell to create a greasy coating on items, no two of the targeted items can be more than 30 feet apart. You cannot target both items and surfaces with a single casting of this spell.",
     "name_zh": "高等油腻术",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个物体/2等级或1个10平方呎/2等级；见下文",
-    "text_zh": "<p>这种法术如同油腻术（Grease），除了这里所提到的。当你用这个法术在固体表面复盖上滑脂时，10平方英呎的方格必须形成一个连续的区域，每个部分都必须在法术距离内。当你用这个法术在物品上制造一层油腻涂层时，两个目标物品之间不可以超过30英呎。你不能只通过施展一次该法术就既影响物品又影响表面。<\/p>",
-    "source": "PC-DTT"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这种法术如同油腻术（Grease），除了这里所提到的。当你用这个法术在固体表面复盖上滑脂时，10平方英呎的方格必须形成一个连续的区域，每个部分都必须在法术距离内。当你用这个法术在物品上制造一层油腻涂层时，两个目标物品之间不可以超过30英呎。你不能只通过施展一次该法术就既影响物品又影响表面。<\/p>"
 }

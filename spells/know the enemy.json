@@ -1,14 +1,17 @@
 {
     "key": "know the enemy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/know-the-enemy/",
     "name": "Know the Enemy",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Know%20the%20Enemy",
+    "source": ["Ultimate Magic pg. 226"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 1,
+        "cleric": 1,
+        "hunter": 1,
         "inquisitor": 1,
+        "oracle": 1,
         "paladin": 1,
-        "ranger": 1
+        "ranger": 1,
+        "warpriest": 1
     },
     "castingTime": "1 minute",
     "components": "S, V, DF",
@@ -17,15 +20,16 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.<\/p>",
+    "text": "You commune with the divine, reflecting on one type of creature you encountered in the last day. You may make a Knowledge check regarding that creature type with a +10 insight bonus.<h2 class=\"title\">Mythic Know the Enemy<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 99<\/i><br>The insight bonus increases to +15 plus your tier. If the check is successful, you gain a +5 insight bonus on your next attack roll or saving throw against a creature of that type, as long as the roll occurs within 24 hours of casting the spell. ",
+    "mythicSource": ["Mythic Adventures pg. 99"],
+    "mythicText": "The insight bonus increases to +15 plus your tier. If the check is successful, you gain a +5 insight bonus on your next attack roll or saving throw against a creature of that type, as long as the roll occurs within 24 hours of casting the spell. ",
     "name_zh": "知己知彼",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你请示神谕，回想一个你前一天所遇到的生物类型。在施法完成后，你可以进行一次该生物所属类别的知识检定，并且在检定中获得+10洞察加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你请示神谕，回想一个你前一天所遇到的生物类型。在施法完成后，你可以进行一次该生物所属类别的知识检定，并且在检定中获得+10洞察加值。<\/p>"
 }

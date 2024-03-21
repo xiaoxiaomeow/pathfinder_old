@@ -1,35 +1,36 @@
 {
     "key": "holy ice weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice-weapon/",
     "name": "Holy Ice Weapon",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Holy%20Ice%20Weapon",
+    "source": ["Advanced Class Guide pg. 185"],
     "school": "transmutation",
     "descriptors":     [
         "cold",
         "good",
         "water"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)",
     "range": "0 ft.",
     "effect": "one ice weapon",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a masterwork weapon that has the qualities of ice and holy water. This weapon must be a simple weapon or your deity's favored weapon. The weapon deals normal damage for a weapon of that type, plus 1 point of cold damage per caster level (maximum 10). In addition, any creature struck by the weapon is also hit by holy water, dealing 1d4 points of damage if the creature is susceptible to holy water. If the weapon leaves your hands for more than 1 round, it melts and the spell ends.<\/p><p>At caster level 6th, the weapon gains the returning weapon special ability when thrown, melting away after an attack and re-forming in your hand just before your next turn.<\/p>",
+    "text": "You create a masterwork weapon that has the qualities of ice and holy water. This weapon must be a simple weapon or your deity’s favored weapon. The weapon deals normal damage for a weapon of that type, plus 1 point of cold damage per caster level (maximum 10). In addition, any creature struck by the weapon is also hit by holy water, dealing 1d4 points of damage if the creature is susceptible to holy water. If the weapon leaves your hands for more than 1 round, it melts and the spell ends.<br><br> At caster level 6th, the weapon gains the <i>returning<\/i> weapon special ability when thrown, melting away after an attack and re-forming in your hand just before your next turn.",
     "name_zh": "圣冰武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一瓶圣水，或者价值25gp的5磅重的银粉）",
     "range_zh": "0尺",
     "effect_zh": "一件冰造武器",
-    "duration_zh": "1分钟/等级（可解消）",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一把精制品武器，它同时具有冰和圣水的特性。这把武器必须是简易武器或你所信仰的神祇的偏好武器。这把武器会造成同类武器的正常伤害，外加每施法者等级1点寒冷伤害（最高10点）。此外，任何被该武器命中的生物同时还会被圣水击中，若目标生物会受到圣水影响，则会额外造成1d4点伤害。若武器离开你的手的时间超过1轮，就会融化且法术结束。\n当施法者等级达到6级时，武器还会在被投掷出去时获得回力（Returning）武器特殊能力，它会在你投掷攻击后融化，并且在你的下个回合将要开始前重新在你的手中构造成型。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一把精制品武器，它同时具有冰和圣水的特性。这把武器必须是简易武器或你所信仰的神祇的偏好武器。这把武器会造成同类武器的正常伤害，外加每施法者等级1点寒冷伤害（最高10点）。此外，任何被该武器命中的生物同时还会被圣水击中，若目标生物会受到圣水影响，则会额外造成1d4点伤害。若武器离开你的手的时间超过1轮，就会融化且法术结束。<\/p><p>当施法者等级达到6级时，武器还会在被投掷出去时获得回力（Returning）武器特殊能力，它会在你投掷攻击后融化，并且在你的下个回合将要开始前重新在你的手中构造成型。<\/p>"
 }

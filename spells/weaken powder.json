@@ -1,13 +1,17 @@
 {
     "key": "weaken powder",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/weaken-powder/",
     "name": "Weaken Powder",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Weaken%20Powder",
+    "source": ["Ultimate Combat pg. 249"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
         "druid": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "hunter": 1,
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (an empty paper cartridge)",
@@ -16,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>Ammunition in the target firearm generates less of an explosive charge when fired. With such ammunition, the firearm's range increment is halved and the firer takes a –2 penalty on damage rolls. If aware of this spell's effect prior to firing the altered ammunition (a DC 16 Spellcraft check to identify the spell being cast or similar effect), the firearm's user can spend a standard action to clear the altered ammunition from the firearm. Doing so destroys that ammunition.<\/p>",
+    "text": "Ammunition in the target firearm generates less of an explosive charge when fired. With such ammunition, the firearm’s range increment is halved and the firer takes a –2 penalty on damage rolls. If aware of this spell’s effect prior to firing the altered ammunition (a DC 16 Spellcraft check to identify the spell being cast or similar effect), the firearm’s user can spend a standard action to clear the altered ammunition from the firearm. Doing so destroys that ammunition.",
     "name_zh": "弱化火药",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一个空的纸制子弹盒)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一把已装填的火器",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，通过则无效 (物体)",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>目标火器内的弹药在发射时的爆炸推进力会被显著的减弱。当这一发弹药被发射时，火器的射程增量减半，并且伤害骰有-2罚值。<\/p><p>如果目标武器的使用者在使用受术弹药开火之前就知道这种法术的效果 (DC16的法术辨识或者类似效果以鉴定出该法术)，那么火器使用者可以使用一个标准动作来将弹药退膛清除。这么做会摧毁这发弹药。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>目标火器内的弹药在发射时的爆炸推进力会被显著的减弱。当这一发弹药被发射时，火器的射程增量减半，并且伤害骰有-2罚值。<\/p><p>如果目标武器的使用者在使用受术弹药开火之前就知道这种法术的效果 (DC16的法术辨识或者类似效果以鉴定出该法术)，那么火器使用者可以使用一个标准动作来将弹药退膛清除。这么做会摧毁这发弹药。<\/p>"
 }

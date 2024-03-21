@@ -1,26 +1,29 @@
 {
     "key": "stoke the inner fire",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stoke-the-inner-fire/",
     "name": "Stoke the Inner Fire",
-    "book": "Pathfinder Adventure Path #95: Anvil of Fire © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stoke%20the%20Inner%20Fire",
+    "source": ["Pathfinder #95: Anvil of Fire pg. 66"],
     "school": "transmutation",
     "descriptors": ["fire"],
+    "race": "Zursvaater",
     "levels":     {
         "cleric": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>You increase the natural heat within your body, transferring it to your weapons and armor. As a swift action, you may grant one of your natural or manufactured weapons the flaming special ability for 1 round. If you have the fire subtype, your weapon instead gains the flaming burst special ability. If the weapon leaves your hand for any reason, it loses the flaming (or flaming burst) special ability until you spend a swift action to activate it again. You can only have stoke the inner fire active on one weapon at a time, and spending a swift action to imbue a second weapon with the spell's power immediately ends its effect on the first weapon.<\/p><p>The spell also builds a wall of searing heat between your armor and your flesh. Anyone striking you with a natural weapon or unarmed strike takes 1 point of fire damage. A creature that grapples you or is grappled by you takes 1 point of fire damage each round the grapple persists. If you have the fire subtype, these damage values increase to 1d6 points of fire damage each. Removing your armor causes this wall of heat to dissipate and ends these effects.<\/p>",
+    "text": "You increase the natural heat within your body, transferring it to your weapons and armor. As a swift action, you may grant one of your natural or manufactured weapons the <i>flaming<\/i> special ability for 1 round. If you have the fire subtype, your weapon instead gains the <i>flaming burst<\/i> special ability. If the weapon leaves your hand for any reason, it loses the <i>flaming<\/i> (or <i>flaming burst<\/i>) special ability until you spend a swift action to activate it again. You can only have <i>stoke the inner fire<\/i> active on one weapon at a time, and spending a swift action to imbue a second weapon with the spell’s power immediately ends its effect on the first weapon.<br><br> The spell also builds a wall of searing heat between your armor and your flesh. Anyone striking you with a natural weapon or unarmed strike takes 1 point of fire damage. A creature that grapples you or is grappled by you takes 1 point of fire damage each round the grapple persists. If you have the fire subtype, these damage values increase to 1d6 points of fire damage each. Removing your armor causes this wall of heat to dissipate and ends these effects.",
     "name_zh": "激发内火",
+    "race_zh": "Zursvaater",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自身",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你增强了体内的自然热量，将其转移到你的武器和盔甲上。以一个迅捷动作，你可以赋予你的一件天生或人造武器以炽焰特殊能力，持续1轮。如果你具有火系亚种，你的武器取而代之会获得焰爆特殊能力作为替代。如果武器出于任何原因离开你的手，它将失去炽焰（或焰爆）特殊能力，直到你花费一个迅捷动作再次激活它。你一次只能在一把武器上激活激发内火，然后如果用一个迅捷动作将法术的力量灌注到第二把武器上会立即终止它对第一把武器的影响。\n该法术还会在你的盔甲和躯体之间建立一道灼热的热墙。任何使用天生武器或徒手攻击击中（striking，要命中吗）你的人都会受到1点火焰伤害。擒抱你或被你擒抱的生物在擒抱维持的每一轮也会受到1点火焰伤害。如果你有火系亚种，这些伤害值会增加到每个1d6点火焰伤害。脱掉你的盔甲会使这道热墙消散并结束这些效果。<\/p>",
-    "source": "AP-GS"
+    "text_zh": "<p>你增强了体内的自然热量，将其转移到你的武器和盔甲上。以一个迅捷动作，你可以赋予你的一件天生或人造武器以炽焰特殊能力，持续1轮。如果你具有火系亚种，你的武器取而代之会获得焰爆特殊能力作为替代。如果武器出于任何原因离开你的手，它将失去炽焰（或焰爆）特殊能力，直到你花费一个迅捷动作再次激活它。你一次只能在一把武器上激活激发内火，然后如果用一个迅捷动作将法术的力量灌注到第二把武器上会立即终止它对第一把武器的影响。<\/p><p>该法术还会在你的盔甲和躯体之间建立一道灼热的热墙。任何使用天生武器或徒手攻击击中（striking，要命中吗）你的人都会受到1点火焰伤害。擒抱你或被你擒抱的生物在擒抱维持的每一轮也会受到1点火焰伤害。如果你有火系亚种，这些伤害值会增加到每个1d6点火焰伤害。脱掉你的盔甲会使这道热墙消散并结束这些效果。<\/p>"
 }

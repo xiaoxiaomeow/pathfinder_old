@@ -1,19 +1,25 @@
 {
     "key": "touch of slumber",
-    "url": "https://aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Slumber",
     "name": "Touch of Slumber",
-    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Slumber",
+    "source": ["Magic Tactics Toolbox pg. 26"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 5,
         "bard": 6,
-        "cleric/oracle": 5,
+        "cleric": 5,
         "druid": 5,
+        "hunter": 5,
+        "oracle": 5,
         "psychic": 6,
         "shaman": 5,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "skald": 6,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "witch": 6,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a bit of seaweed)",
@@ -22,7 +28,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions only against a creature with an attitude toward you of indifferent or better, and only if the target is not hostile toward you or your visible allies. A target touched by you (this touch usually requires a successful melee touch attack) must succeed at a Will saving throw or fall asleep for 2d6 hours. While asleep, the creature is helpless. For 1 minute after the creature is affected, any loud noise or rough contact causes it to awaken immediately. Thereafter, slapping or wounding an affected creature awakens it, but normal noise does not. Awakening a creature is a standard action (this is an application of the aid another action).<\/p>",
+    "text": "This spell functions only against a creature with an attitude toward you of indifferent or better, and only if the target is not hostile toward you or your visible allies. A target touched by you (this touch usually requires a successful melee touch attack) must succeed at a Will saving throw or fall asleep for 2d6 hours. While asleep, the creature is helpless. For 1 minute after the creature is affected, any loud noise or rough contact causes it to awaken immediately. Thereafter, slapping or wounding an affected creature awakens it, but normal noise does not. Awakening a creature is a standard action (this is an application of the aid another action).",
     "name_zh": "沉眠之触",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料（一小块海藻）",
@@ -31,6 +37,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术只会生效于对你态度为冷漠或更好态度，而且和你跟你的可见伙伴都非敌对的生物。被你触碰的目标（这通常需要一个成功的近战接触攻击）必须通过一个成功的意志豁免检定，否则会沉睡2d6小时。当睡着的时候，该生物无助。该生物被法术影响的1分钟内，任何吵闹声或者粗暴的身体接触都会让它马上醒来。之后，拍击或伤害被该法术影响的生物能唤醒它，不过通常的噪音则并不能唤醒它。唤醒一个生物是一个标准动作（这是援助他人动作的应用）<\/p>",
-    "source": "PC-MagicTT"
+    "text_zh": "<p>该法术只会生效于对你态度为冷漠或更好态度，而且和你跟你的可见伙伴都非敌对的生物。被你触碰的目标（这通常需要一个成功的近战接触攻击）必须通过一个成功的意志豁免检定，否则会沉睡2d6小时。当睡着的时候，该生物无助。该生物被法术影响的1分钟内，任何吵闹声或者粗暴的身体接触都会让它马上醒来。之后，拍击或伤害被该法术影响的生物能唤醒它，不过通常的噪音则并不能唤醒它。唤醒一个生物是一个标准动作（这是援助他人动作的应用）<\/p>"
 }

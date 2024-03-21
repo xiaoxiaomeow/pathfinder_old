@@ -1,16 +1,28 @@
 {
     "key": "shapechanger's gift, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shapechangers-gift/",
     "name": "Shapechanger's Gift, Greater",
-    "base": "shapechanger's gift",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shapechanger's%20Gift,%20Greater",
+    "source": ["Ultimate Wilderness pg. 235"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
-    "levels": {"sorcerer/wizard": 7},
+    "subSchools": ["polymorph"],
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "touch",
+    "target": "willing living creature touched",
     "duration": "1 hour/level",
-    "text": "<p>This spell functions as shapechanger's gift except the chosen form can be an animal (as per beast shape I), elemental (as per elemental body I), fey (as per <em>fey form I<\/em>), humanoid (as per alter self), monstrous humanoid (as per <em>monstrous physique I<\/em>), or vermin (as per vermin shape I) and the chosen form can have a fly speed.<\/p><\/div>",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions as <i>shapechanger’s gift<\/i> except the chosen form can be an animal (as per <i>beast shape I<\/i>), elemental (as per <i>elemental body I<\/i>), fey (as per <i>fey form I<\/i>), humanoid (as per <i>alter self<\/i>), monstrous humanoid (as per <i>monstrous physique I<\/i>), or vermin (as per <i>vermin shape I<\/i>) and the chosen form can have a fly speed.",
     "name_zh": "高等变形者的恩赐",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
     "duration_zh": "1小时/等级",
-    "text_zh": "<p>法术如同变形者的恩赐，除了选择的形态可以是动物（如同野兽形态 I），元素生物（动物（如同元素形态 I），精类（如同精类形态 I），类人生物（如同变身术），类人怪物（如同类人形态 I），或虫类（如同虫类形态 I），且选定的形态可以有飞行速度。<\/p>",
-    "source": "UW"
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>法术如同变形者的恩赐，除了选择的形态可以是动物（如同野兽形态 I），元素生物（动物（如同元素形态 I），精类（如同精类形态 I），类人生物（如同变身术），类人怪物（如同类人形态 I），或虫类（如同虫类形态 I），且选定的形态可以有飞行速度。<\/p>"
 }

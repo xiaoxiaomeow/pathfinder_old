@@ -1,8 +1,8 @@
 {
     "key": "litany of vengeance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-vengeance/",
     "name": "Litany of Vengeance",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Vengeance",
+    "source": ["Ultimate Combat pg. 235"],
     "school": "transmutation",
     "descriptors": ["language-dependent"],
     "levels":     {
@@ -17,15 +17,14 @@
     "duration": "1 round",
     "savingThrow": "no",
     "spellResistance": "yes",
-    "text": "<p>This litany causes your enemy to feel the pain of blows more sharply. Anyone who hits the target with an attack gains a +5 sacred or profane bonus (depending on the alignment of the caster) to that attack's damage. While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "text": "This litany causes your enemy to feel the pain of blows more sharply. Anyone who hits the target with an attack gains a +5 sacred or profane bonus (depending on the alignment of the caster) to that attack’s damage. <br><br>While subject to this spell, the target cannot be the target of another spell that has the word \"litany\" in the title.",
     "name_zh": "复仇祷言",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这段祷言会让你的敌人感受到更加尖锐的痛苦。任何命中该目标的攻击，伤害都将获得+5神圣或亵渎加值 (取决于施法者阵营)。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>这段祷言会让你的敌人感受到更加尖锐的痛苦。任何命中该目标的攻击，伤害都将获得+5神圣或亵渎加值 (取决于施法者阵营)。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>"
 }

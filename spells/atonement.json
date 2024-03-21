@@ -1,16 +1,16 @@
 {
     "key": "atonement",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/atonement/",
     "name": "Atonement",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Atonement",
+    "source": ["PRPG Core Rulebook pg. 245"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 5,
+        "cleric": 5,
         "druid": 5,
-        "inquisitor": 5
-    },
-    "subdomains":     {
-        "purity": 5,
-        "redemption": 5
+        "hunter": 5,
+        "inquisitor": 5,
+        "oracle": 5,
+        "warpriest": 5
     },
     "castingTime": "1 hour",
     "components": "V, S, M (burning incense), F (a set of prayer beads or other prayer device worth at least 500 gp), DF",
@@ -19,15 +19,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>This spell removes the burden of misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion, <i>atonement<\/i> operates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds, you must intercede with your deity (requiring you to expend 2,500 gp in rare incense and offerings). <i>Atonement<\/i> may be cast for one of several purposes, depending on the version selected.<\/p><p style=\"margin-left:40px\"><i>Reverse Magical Alignment Change<\/i>: If a creature has had its alignment magically changed, <i>atonement<\/i> returns its alignment to its original status at no additional cost.<\/p><p style=\"margin-left:40px\"><i>Restore Class<\/i>: A paladin, or other class, who has lost her class features due to violating the alignment restrictions of her class may have her class features restored by this spell.<\/p><p style=\"margin-left:40px\"><i>Restore Cleric or Druid Spell Powers<\/i>: A cleric or druid who has lost the ability to cast spells by incurring the anger of her deity may regain that ability by seeking <i>atonement<\/i> from another cleric of the same deity or another druid. If the transgression was intentional, the casting cleric must expend 2,500 gp in rare incense and offerings for her god's intercession.<\/p><p style=\"margin-left:40px\"><i>Redemption or Temptation<\/i>: You may cast this spell upon a creature of an opposing alignment in order to offer it a chance to change its alignment to match yours. The prospective subject must be present for the entire casting process. Upon completion of the spell, the subject freely chooses whether it retains its original alignment or acquiesces to your offer and changes to your alignment. No duress, compulsion, or magical influence can force the subject to take advantage of the opportunity offered if it is unwilling to abandon its old alignment. This use of the spell does not work on outsiders or any creature incapable of changing its alignment naturally.<\/p><p>Though the spell description refers to evil acts, <i>atonement<\/i> can be used on any creature that has performed acts against its alignment, regardless of the actual alignment in question.<\/p><p><b>Note<\/b>: Normally, changing alignment is up to the player. This use of <i>atonement<\/i> offers a method for a character to change his or her alignment drastically, suddenly, and definitively.<\/p>",
+    "text": "This spell removes the burden of misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. If the atoning creature committed the evil act unwittingly or under some form of compulsion, <i>atonement<\/i> operates normally at no cost to you. However, in the case of a creature atoning for deliberate misdeeds, you must intercede with your deity (requiring you to expend 2,500 gp in rare incense and offerings). Atonement may be cast for one of several purposes, depending on the version selected.<br><br><i>Reverse Magical Alignment Change<\/i>: If a creature has had its alignment magically changed, <i>atonement<\/i> returns its alignment to its original status at no additional cost.<br><br><i>Restore Class<\/i>: A paladin, or other class, who has lost her class features due to violating the alignment restrictions of her class may have her class features restored by this spell.<br><br><i>Restore Cleric or Druid Spell Powers<\/i>: A cleric or druid who has lost the ability to cast spells by incurring the anger of her deity may regain that ability by seeking <i>atonement<\/i> from another cleric of the same deity or another druid. If the transgression was intentional, the casting cleric must expend 2,500 gp in rare incense and offerings for her god's intercession.<br><br><i>Redemption or Temptation<\/i>: You may cast this spell upon a creature of an opposing alignment in order to offer it a chance to change its alignment to match yours. The prospective subject must be present for the entire casting process. Upon completion of the spell, the subject freely chooses whether it retains its original alignment or acquiesces to your offer and changes to your alignment. No duress, compulsion, or magical influence can force the subject to take advantage of the opportunity offered if it is unwilling to abandon its old alignment. This use of the spell does not work on outsiders or any creature incapable of changing its alignment naturally.<br><br>Though the spell description refers to evil acts, <i>atonement<\/i> can be used on any creature that has performed acts against its alignment, regardless of the actual alignment in question.<br><br><i>Note<\/i>: Normally, changing alignment is up to the player. This use of <i>atonement<\/i> offers a method for a character to change his or her alignment drastically, suddenly, and definitively.",
     "name_zh": "赎罪术",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "语言, 姿势, 材料 (焚香), 器材 (一套至少价值500gp的祷告念珠或其他祷告器具), 法器",
     "range_zh": "接触",
     "target_zh": "接触到的活物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会从目标身上移除由于罪行带来的重负。该寻求赎罪的生物必须真心忏悔，并渴望纠正自己的罪行。如果此生物犯罪是出于无心或被迫，那么通常你不必为施展赎罪术付出代价。但是，如果赎罪生物是故意犯罪，那么你必须为卸除受术者的重负和你的神祇进行调解 (需要你花费价值2500gp的稀有焚香和祭品)。赎罪术可以为不同目的施展，取决于使用何种功效。<\/p><p>反转阵营的魔法改变：如果生物的阵营被魔法改变了，赎罪术可以将其阵营恢复为原始状态，此时不需要支付任何额外开销。<\/p><p>恢复职业：若圣骑士或其他职业由于进行了违背阵营的行为而导致自身失去职业特性，那么可以通过该法术恢复。<\/p><p>恢复牧师或德鲁伊法术力量：若牧师或德鲁伊由于触怒自己神祇而失去施法能力，则可以通过向该神祇的其它牧师或其它德鲁伊寻求赎罪术来恢复施法能力。如果罪行是故意为之，那么施法牧师必须为了准备罕见的焚香或祭品而花费2500gp。<\/p><p>救赎或诱惑：你可以将此法术施展在一个对立阵营的生物上，以此让它有机会将它的阵营改变为你的。该受术者必须在整个施法过程中都在场。在这个法术完成时，受术者可以自由决定是保留原有阵营还是接受你的邀请并将阵营转变为你的阵营。若受术者不愿意放弃原本的阵营，则没有任何压力、强制力或者魔法影响能够利用这次机会逼迫受术者。法术的这种用法对异界生物或其它无法自然改变阵营的生物无效。<\/p><p>尽管法术说明中使用的词是邪恶的行为，赎罪术同样可以用在任何做出有违自己阵营行为的生物上，不管这些行为是邪恶、善良、混乱，或是秩序。<\/p><p>注意：通常来说，改变阵营只是对玩家而言。赎罪术的这种用法仅仅是提供了一种可靠的方式，来彻底而迅速完全地改变人物的阵营。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会从目标身上移除由于罪行带来的重负。该寻求赎罪的生物必须真心忏悔，并渴望纠正自己的罪行。如果此生物犯罪是出于无心或被迫，那么通常你不必为施展赎罪术付出代价。但是，如果赎罪生物是故意犯罪，那么你必须为卸除受术者的重负和你的神祇进行调解 (需要你花费价值2500gp的稀有焚香和祭品)。赎罪术可以为不同目的施展，取决于使用何种功效。<\/p><p>反转阵营的魔法改变：如果生物的阵营被魔法改变了，赎罪术可以将其阵营恢复为原始状态，此时不需要支付任何额外开销。<\/p><p>恢复职业：若圣骑士或其他职业由于进行了违背阵营的行为而导致自身失去职业特性，那么可以通过该法术恢复。<\/p><p>恢复牧师或德鲁伊法术力量：若牧师或德鲁伊由于触怒自己神祇而失去施法能力，则可以通过向该神祇的其它牧师或其它德鲁伊寻求赎罪术来恢复施法能力。如果罪行是故意为之，那么施法牧师必须为了准备罕见的焚香或祭品而花费2500gp。<\/p><p>救赎或诱惑：你可以将此法术施展在一个对立阵营的生物上，以此让它有机会将它的阵营改变为你的。该受术者必须在整个施法过程中都在场。在这个法术完成时，受术者可以自由决定是保留原有阵营还是接受你的邀请并将阵营转变为你的阵营。若受术者不愿意放弃原本的阵营，则没有任何压力、强制力或者魔法影响能够利用这次机会逼迫受术者。法术的这种用法对异界生物或其它无法自然改变阵营的生物无效。<\/p><p>尽管法术说明中使用的词是邪恶的行为，赎罪术同样可以用在任何做出有违自己阵营行为的生物上，不管这些行为是邪恶、善良、混乱，或是秩序。<\/p><p>注意：通常来说，改变阵营只是对玩家而言。赎罪术的这种用法仅仅是提供了一种可靠的方式，来彻底而迅速完全地改变人物的阵营。<\/p>"
 }

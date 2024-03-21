@@ -1,16 +1,19 @@
 {
     "key": "anywhere but here",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/anywhere-but-here/",
-    "name": "Anywhere But Here",
-    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "name": "Anywhere but Here",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anywhere%20but%20Here",
+    "source": ["Planar Adventures pg. 38"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
+        "arcanist": 4,
         "magus": 4,
         "psychic": 4,
-        "sorcerer/wizard": 4,
+        "sorcerer": 4,
         "summoner": 4,
-        "witch": 4
+        "summoner (unchained)": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -19,7 +22,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>This spell functions similarly to plane shift, but instead of transporting the targets to a destination near an intended location on a specific plane, anywhere but here transports affected creatures to a random plane. A creature can be affected by anywhere but here only if it is currently not on its home plane (although targets can, by chance, end up traveling to their home plane as a result of this spell). Subjects always appear in a location that is not inherently harmful, but the exact destination is otherwise random. The specific plane is determined by the table below; the location on the destination plane where the transported creatures arrive is completely subject to the GM's whim.<\/p><table border=\"1\" cellpadding=\"5\" data-ognbot=\"1\">  <thead>   <tr>    <th class=\"text\">d%<\/th>    <th class=\"text\">Planar Destination<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">1–7<\/td>    <td class=\"text\">Abyss<\/td>   <\/tr>   <tr>    <td class=\"text\">8–14<\/td>    <td class=\"text\">Abaddon<\/td>   <\/tr>   <tr>    <td class=\"text\">15–20<\/td>    <td class=\"text\">Hell<\/td>   <\/tr>   <tr>    <td class=\"text\">21–24<\/td>    <td class=\"text\">Shadow Plane<\/td>   <\/tr>   <tr>    <td class=\"text\">25–28<\/td>    <td class=\"text\">Fey World<\/td>   <\/tr>   <tr>    <td class=\"text\">29–35<\/td>    <td class=\"text\">Maelstrom<\/td>   <\/tr>   <tr>    <td class=\"text\">36–42<\/td>    <td class=\"text\">Boneyard<\/td>   <\/tr>   <tr>    <td class=\"text\">43–49<\/td>    <td class=\"text\">Axis<\/td>   <\/tr>   <tr>    <td class=\"text\">50–56<\/td>    <td class=\"text\">Ethereal Plane<\/td>   <\/tr>   <tr>    <td class=\"text\">57–63<\/td>    <td class=\"text\">Elysium<\/td>   <\/tr>   <tr>    <td class=\"text\">64–70<\/td>    <td class=\"text\">Nirvana<\/td>   <\/tr>   <tr>    <td class=\"text\">71–77<\/td>    <td class=\"text\">Heaven<\/td>   <\/tr>   <tr>    <td class=\"text\">78–84<\/td>    <td class=\"text\">Astral Plane<\/td>   <\/tr>   <tr>    <td class=\"text\">85–90<\/td>    <td class=\"text\">Random demiplane<\/td>   <\/tr>   <tr>    <td class=\"text\">91–95<\/td>    <td class=\"text\">Material Plane (random world)<\/td>   <\/tr>   <tr>    <td class=\"text\">96–100<\/td>    <td class=\"text\">GM's choice<\/td>   <\/tr>  <\/tbody> <\/table><p>A creature that is transported by anywhere but here cannot be affected by a subsequent casting of anywhere but here for 24 hours afterward (but can be affected normally by other forms of planar travel).<\/p>",
+    "text": "This spell functions similarly to <i>plane shift<\/i>, but instead of transporting the targets to a destination near an intended location on a specific plane, <i>anywhere but here<\/i> transports affected creatures to a random plane. A creature can be affected by <i>anywhere but here<\/i> only if it is currently not on its home plane (although targets can, by chance, end up traveling to their home plane as a result of this spell). Subjects always appear in a location that is not inherently harmful, but the exact destination is otherwise random. The specific plane is determined by the table below; the location on the destination plane where the transported creatures arrive is completely subject to the GM’s whim. <table class=\"inner\"><tr><td><b>d%<\/b><\/td><td><b>Planar Destination<\/b><\/td><\/tr><tr><td>1-7<\/td><td>Abyss<\/td><\/tr><tr><td>8-14<\/td><td>Abaddon<\/td><\/tr><tr><td>15-20<\/td><td>Hell<\/td><\/tr><tr><td>21-24<\/td><td>Shadow Plane<\/td><\/tr><tr><td>25-28<\/td><td>First World<\/td><\/tr><tr><td>29-35<\/td><td>Maelstrom<\/td><\/tr><tr><td>36-42<\/td><td>Boneyard<\/td><\/tr><tr><td>43-49<\/td><td>Axis<\/td><\/tr><tr><td>50-56<\/td><td>Ethereal Plane<\/td><\/tr><tr><td>57-63<\/td><td>Elysium<\/td><\/tr><tr><td>64-70<\/td><td>Nirvana<\/td><\/tr><tr><td>71-77<\/td><td>Heaven<\/td><\/tr><tr><td>78-84<\/td><td>Astral Plane<\/td><\/tr><tr><td>85-90<\/td><td>Random demiplane<\/td><\/tr><tr><td>91-95<\/td><td>Material Plane (random world)<\/td><\/tr><tr><td>96-100<\/td><td>GM's choice<\/td><\/tr><\/table> A creature that is transported by <i>anywhere but here<\/i> cannot be affected by a subsequent casting of <i>anywhere but here<\/i> for 24 hours afterward (but can be affected normally by other forms of planar travel).",
     "name_zh": "浪迹天涯",
     "castingTime_zh": "标准动作",
     "components_zh": "言语",
@@ -28,6 +31,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>01-07   无底深渊（Abyss）\n08-14   末日荒原（Abaddon）\n15-20   地狱（Hell）\n21-24   影界（Shadow Plane）\n25-28   第一世界（First World）\n29–35   大漩涡（Maelstrom）\n36–42   骨园（Boneyard）\n43–49   轴心城（Axis）\n50–56   灵界（Ethereal Plane）\n57–63   极乐原野（Elysium）\n64–70   涅槃境（Nirvana）\n71–77   天堂（Heaven）\n78–84   星界（Astral Plane）\n85–90   随机半位面\n91–95   物质位面（随机世界）\n96–100   GM选择\n一个被这种法术传送到任何地方的生物在24小时内都不会被随后施展的相同法术所影响（但可以如常被其他形式的位面传送所影响）。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>01-07   无底深渊（Abyss）<\/p><p>08-14   末日荒原（Abaddon）<\/p><p>15-20   地狱（Hell）<\/p><p>21-24   影界（Shadow Plane）<\/p><p>25-28   第一世界（First World）<\/p><p>29–35   大漩涡（Maelstrom）<\/p><p>36–42   骨园（Boneyard）<\/p><p>43–49   轴心城（Axis）<\/p><p>50–56   灵界（Ethereal Plane）<\/p><p>57–63   极乐原野（Elysium）<\/p><p>64–70   涅槃境（Nirvana）<\/p><p>71–77   天堂（Heaven）<\/p><p>78–84   星界（Astral Plane）<\/p><p>85–90   随机半位面<\/p><p>91–95   物质位面（随机世界）<\/p><p>96–100   GM选择<\/p><p>一个被这种法术传送到任何地方的生物在24小时内都不会被随后施展的相同法术所影响（但可以如常被其他形式的位面传送所影响）。<\/p>"
 }

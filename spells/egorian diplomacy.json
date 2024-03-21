@@ -1,10 +1,10 @@
 {
     "key": "egorian diplomacy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-diplomacy/",
     "name": "Egorian Diplomacy",
-    "book": "Pathfinder Player Companion: Spymaster's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Egorian%20Diplomacy",
+    "source": ["Spymaster's Handbook pg. 28"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 1,
@@ -12,7 +12,10 @@
         "inquisitor": 1,
         "magus": 1,
         "mesmerist": 1,
-        "psychic": 1
+        "oracle": 1,
+        "psychic": 1,
+        "skald": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a bent coin)",
@@ -21,15 +24,14 @@
     "duration": "instant; see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>As part of casting this spell, you can attempt a single Intimidate skill check to make a target act friendly toward you. If you succeed, the target assists you normally, but hidden diplomacy clouds the memory of any threats or pressure you applied. The target remembers assisting you, but can't remember why, and its attitude toward you doesn't worsen as a result of being intimidated.<\/p><p>Whether a creature fails or succeeds at its saving throw, it becomes immune to further castings of hidden diplomacy for 24 hours.<\/p>",
+    "text": "As part of casting this spell, you can attempt a single Intimidate skill check to make a target act friendly toward you. If you succeed, the target assists you normally, but <i>Egorian diplomacy<\/i> clouds the memory of any threats or pressure you applied. The target remembers assisting you, but can’t remember why, and its attitude toward you doesn’t worsen as a result of being intimidated. <br><br> Whether a creature fails or succeeds at its saving throw, it becomes immune to further castings of Egorian diplomacy for 24 hours.",
     "name_zh": "艾格利安外交术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一枚弯曲的硬币）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "立即，见正文",
+    "duration_zh": "立即, 见正文",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>作为施法的一部分，你可以尝试一次威吓技能检定，以使目标对你友善。如果你成功，目标会如常帮助你，但是艾格利安外交术会混淆任何关于你施加的威胁或压力的记忆。目标记得要协助你，但不记得为什么，他对你的态度不会因为被威吓而恶化。\n无论生物在豁免检定中成败结果，他在接下来24小时内都不会再受到艾格利安外交术的影响。<\/p>",
-    "source": "PC-SH"
+    "text_zh": "<p>作为施法的一部分，你可以尝试一次威吓技能检定，以使目标对你友善。如果你成功，目标会如常帮助你，但是艾格利安外交术会混淆任何关于你施加的威胁或压力的记忆。目标记得要协助你，但不记得为什么，他对你的态度不会因为被威吓而恶化。<\/p><p>无论生物在豁免检定中成败结果，他在接下来24小时内都不会再受到艾格利安外交术的影响。<\/p>"
 }

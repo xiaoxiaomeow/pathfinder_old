@@ -1,26 +1,25 @@
 {
     "key": "threefold aspect",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/threefold-aspect/",
     "name": "Threefold Aspect",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Threefold%20Aspect",
+    "source": ["Advanced Player's Guide pg. 249"],
     "school": "transmutation",
     "levels":     {
         "druid": 5,
+        "hunter": 5,
         "witch": 4
     },
-    "bloodlines": {"imperious": 4},
-    "mysteries": {"time": 4},
     "castingTime": "1 standard action",
     "components": "S, F (silver crescent worth 5 gp)",
     "range": "personal",
-    "duration": "24 hours (d)",
-    "text": "<p><i>Threefold aspect<\/i> allows you to shift your appearance between your natural age and three idealized age categories: young adult (youth/maiden), adulthood (father/mother), or elderly (elder/crone). In each case, your appearance is your own at the appropriate age, rather than that of a new individual.<\/p><p>You may change between these three aspects or your actual age as a standard action. As the young adult, you gain a +2 enhancement bonus to Dexterity and Constitution, but suffer a -2 penalty to Wisdom. In the adult aspect, you gain a +2 enhancement bonus to Wisdom and Intelligence, but take a -2 penalty to Dexterity. As the elderly aspect, you gain a +4 enhancement bonus to Wisdom and Intelligence, but take a -2 penalty to Strength and Dexterity. As enhancement bonuses, these stack with any bonuses or penalties you may have from your actual age (which are untyped bonuses)-the bonuses granted by this spell represent your idealized form in this threefold aspect rather than simply duplicating your ability scores at any one particular age.<\/p><p><i>True seeing<\/i> reveals your natural appearance overlaid with that your aspect, recognizing both as part of your true self.<\/p><p>Individuals who study you closely and have interacted with you at another apparent age recognize a resemblance (as though family) with a successful DC 20 Perception check.<\/p><p><i>Threefold aspect<\/i> does not alter your clothing or equipment, and does not heal any deformity or injury unrelated to age.<\/p>",
+    "target": "you",
+    "duration": "24 hours (D)",
+    "text": "<i>Threefold aspect <\/i>allows you to shift your appearance between your natural age and three idealized age categories: young adult (youth/maiden), adulthood (father/mother), or elderly (elder/crone). In each case, your appearance is your own at the appropriate age, rather than that of a new individual.<br><br>You may change between these three aspects or your actual age as a standard action. As the young adult, you gain a +2 enhancement bonus to Dexterity and Constitution, but suffer a –2 penalty to Wisdom. In the adult aspect, you gain a +2 enhancement bonus to Wisdom and Intelligence, but take a –2 penalty to Dexterity. As the elderly aspect, you gain a +4 enhancement bonus to Wisdom and Intelligence, but take a –2 penalty to Strength and Dexterity. As enhancement bonuses, these stack with any bonuses or penalties you may have from your actual age (which are untyped bonuses)—the bonuses granted by this spell represent your idealized form in this threefold aspect rather than simply duplicating your ability scores at any one particular age.<br><br><i>True seeing <\/i>reveals your natural appearance overlaid with that your aspect, recognizing both as part of your true self. Individuals who study you closely and have interacted with you at another apparent age recognize a resemblance (as though family) with a successful DC 20 Perception check.<br><br><i>Threefold aspect <\/i>does not alter your clothing or equipment, and does not heal any deformity or injury unrelated to age.",
     "name_zh": "三相",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，器材 (价值5gp的银质新月)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "24小时 (可解消)",
-    "text_zh": "<p>三相允许你改变你的外在变为三个理想化的年龄阶段之一：青年，中年以及老年，无论选择哪种，你的外貌变为你所选择年龄而不是使你成为一个新的个体。<\/p><p>你可以以一个标准动作在这三个年龄段中切换或者变回自己原本的样貌。在青年阶段，你的敏捷与体质获得+2增强加值，感知受到-2减值。在中年阶段，你的感知与智力获得+2增强加值，敏捷受到-2减值。在老年阶段，你的感知与智力获得+4增强加值，力量与敏捷受到-2减值。这些增强加值可以与实际年龄带来的加值或减值叠加——这些加值仅仅代表在三个年龄段的理想化形态，而非单纯的复制某个特定年龄段的属性。<\/p><p>真知术可以揭露你的真面目并且发现外在的样貌同样也是真实的你。平时经常与你接触的人可以以一个成功的察觉检定 (DC20) 发现你的外在样貌与你真实的样貌很相似 (比如家人)。<\/p><p>三相不会改变你的服装与装备，也不能治愈任何与年龄无关的缺陷 (deformity) 或伤害 (injury)。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>三相允许你改变你的外在变为三个理想化的年龄阶段之一：青年，中年以及老年，无论选择哪种，你的外貌变为你所选择年龄而不是使你成为一个新的个体。<\/p><p>你可以以一个标准动作在这三个年龄段中切换或者变回自己原本的样貌。在青年阶段，你的敏捷与体质获得+2增强加值，感知受到-2减值。在中年阶段，你的感知与智力获得+2增强加值，敏捷受到-2减值。在老年阶段，你的感知与智力获得+4增强加值，力量与敏捷受到-2减值。这些增强加值可以与实际年龄带来的加值或减值叠加——这些加值仅仅代表在三个年龄段的理想化形态，而非单纯的复制某个特定年龄段的属性。<\/p><p>真知术可以揭露你的真面目并且发现外在的样貌同样也是真实的你。平时经常与你接触的人可以以一个成功的察觉检定 (DC20) 发现你的外在样貌与你真实的样貌很相似 (比如家人)。<\/p><p>三相不会改变你的服装与装备，也不能治愈任何与年龄无关的缺陷 (deformity) 或伤害 (injury)。<\/p>"
 }

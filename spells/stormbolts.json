@@ -1,20 +1,19 @@
 {
     "key": "stormbolts",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stormbolts/",
     "name": "Stormbolts",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stormbolts",
+    "source": ["Advanced Player's Guide pg. 247"],
     "school": "evocation",
     "descriptors": ["electricity"],
     "levels":     {
-        "cleric/oracle": 8,
+        "arcanist": 8,
+        "cleric": 8,
         "druid": 8,
+        "oracle": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
-    },
-    "elementalSchools":     {
-        "air": 8,
-        "metal": 8
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a copper rod)",
@@ -23,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>When you cast this spell, lightning spills forth from your body in all directions. The bolts do not harm natural vegetation or creatures in the area you wish to exclude from damage. Any other creatures within the area take 1d8 points of electricity damage per caster level (maximum 20d8) and are stunned for 1 round. A successful Saving Throw halves the damage and negates the stun effect.<\/p>",
+    "text": "When you cast this spell, lightning spills forth from your body in all directions. The bolts do not harm natural vegetation or creatures in the area you wish to exclude from damage. Any other creatures within the area take 1d8 points of electricity damage per caster level (maximum 20d8) and are stunned for 1 round. A successful saving throw halves the damage and negates the stun effect.",
     "name_zh": "雷暴箭雨",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一根铜棒)",
     "range_zh": "30尺",
     "area_zh": "以你为中心30尺弥散范围",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你施法该法术，闪电能量从你的身体溢出并射向四面八方。闪电箭不会伤害自然植被和你不希望伤害的生物。<\/p><p>所有其他的生物都会受到每施法者等级1d8的电击伤害 (最高20d8)，并且震慑 (stunned) 一轮。<\/p><p>成功的豁免检定可以将伤害减半并免疫震慑效果。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>当你施法该法术，闪电能量从你的身体溢出并射向四面八方。闪电箭不会伤害自然植被和你不希望伤害的生物。<\/p><p>所有其他的生物都会受到每施法者等级1d8的电击伤害 (最高20d8)，并且震慑 (stunned) 一轮。<\/p><p>成功的豁免检定可以将伤害减半并免疫震慑效果。<\/p>"
 }

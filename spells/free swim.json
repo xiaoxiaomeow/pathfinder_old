@@ -1,13 +1,13 @@
 {
     "key": "free swim",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/free-swim/",
     "name": "Free Swim",
-    "book": "Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Free%20Swim",
+    "source": ["Aquatic Adventures pg. 59"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 3,
         "bard": 3,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "druid": 3,
         "hunter": 3,
         "inquisitor": 3,
@@ -15,6 +15,7 @@
         "medium": 3,
         "mesmerist": 3,
         "occultist": 3,
+        "oracle": 3,
         "psychic": 3,
         "ranger": 3,
         "skald": 3,
@@ -25,10 +26,10 @@
     "components": "V, S, M (a strip of kelp bound to the target), DF",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of freedom of movement. However, the target doesn't gain any protections against grapple, paralysis, and magical effects that impede movement (such as solid fog, slow, and web).<\/p>",
+    "text": "The target can move and attack underwater normally without the usual penalties involved with underwater combat, as if under the effects of <i>freedom of movement<\/i>. However, the target doesn’t gain any protections against grapple, paralysis, and magical effects that impede movement (such as <i>solid fog<\/i>, <i>slow<\/i>, and <i>web<\/i>).",
     "name_zh": "自如游泳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，材料（一条连着目标的海带），法器",
@@ -37,6 +38,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标可以在水下如常自由攻击和移动而不会有通常情况下水下战斗的罚值，就如同处于行动自如的效果下。但目标并不会获得任何对抗擒抱，麻痹以及干扰行动的魔法效果（例如重雾术，缓慢术和蛛网术）的防御。<\/p>",
-    "source": "CS-AquaA"
+    "text_zh": "<p>目标可以在水下如常自由攻击和移动而不会有通常情况下水下战斗的罚值，就如同处于行动自如的效果下。但目标并不会获得任何对抗擒抱，麻痹以及干扰行动的魔法效果（例如重雾术，缓慢术和蛛网术）的防御。<\/p>"
 }

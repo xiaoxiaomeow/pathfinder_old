@@ -1,26 +1,35 @@
 {
     "key": "lover's vengeance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lover-s-vengeance/",
     "name": "Lover's Vengeance",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lover's%20Vengeance",
+    "source":     [
+        "Inner Sea World Guide pg. 296",
+        "Pathfinder #17: A Memory of Darkness pg. 62",
+        "Gods and Magic pg. 9"
+    ],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
-        "cleric/oracle": 3,
+        "cleric": 3,
+        "oracle": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 minute",
     "components": "V, M (a piece of jewelry worth at least 100 gp)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "up to 1 day/level (d) or until discharged",
+    "duration": "up to 1 day/level (D) or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You inspire yourself or a lover to a vengeful rage against a chosen enemy, who must be a creature that has wronged you in some way.<\/p><p>If cast on you, the next time you are in combat with that enemy, you gain the benefits of a rage spell. If cast on a lover, he or she gains the benefits of a rage spell the next time the lover is in combat against your enemy. This variant of the spell must be cast within 1 hour of an intimate encounter with the target. The rage effect lasts 1 round per level. If the creature that triggers the rage effect is one of your lovers or ex-lovers, the benefits granted by the rage spell double. This spell counts as a contingency spell on the target for the purpose of multiple contingent effects.<\/p>",
+    "text": "You inspire yourself or a lover to a vengeful rage against a chosen enemy, who must be a creature that has wronged you in some way. If cast on you, the next time you are in combat with that enemy, you gain the benefits of a <i>rage<\/i> spell. If cast on a lover, he or she gains the benefits of a <i>rage<\/i> spell the next time the lover is in combat against your enemy. This variant of the spell must be cast within 1 hour of an intimate encounter with the target. The <i>rage<\/i> effect lasts 1 round per level. If the creature that triggers the <i>rage<\/i> effect is one of your lovers or ex-lovers, the benefits granted by the rage spell double. This spell counts as a <i>contingency<\/i> spell on the target for the purpose of multiple contingent effects. Worshipers of Calistria are fond of using this spell, and many keep the effect running whenever possible.",
     "name_zh": "为爱复仇",
     "race_zh": "卡莉丝翠",
     "castingTime_zh": "1分钟",
@@ -30,6 +39,5 @@
     "duration_zh": "最多1天/等级 (D) 或 直到释放",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>选择一位敌人，你激起了自己或一位爱人内心复仇的怒火，针对这位曾经以某种方式辜负过你的「爱人」。如果妳施放在自己身上，下次你与该名敌人同处于一场战斗中时，你获得狂暴术(rage)的效果。如果放在一位爱人身上，他(她)在下一次战斗中与你的敌人交战时，获得狂暴术的效果。这法术的多样使用必须施放在1小时内有过经密接触的目标身上。狂暴术的效果持续1轮/等级。在决定目标身上多重触发效果时，本法术算做一次触发术(contingency)。<\/p>",
-    "source": "CS-GaM"
+    "text_zh": "<p>选择一位敌人，你激起了自己或一位爱人内心复仇的怒火，针对这位曾经以某种方式辜负过你的「爱人」。如果妳施放在自己身上，下次你与该名敌人同处于一场战斗中时，你获得狂暴术(rage)的效果。如果放在一位爱人身上，他(她)在下一次战斗中与你的敌人交战时，获得狂暴术的效果。这法术的多样使用必须施放在1小时内有过经密接触的目标身上。狂暴术的效果持续1轮/等级。在决定目标身上多重触发效果时，本法术算做一次触发术(contingency)。<\/p>"
 }

@@ -1,30 +1,33 @@
 {
     "key": "hallow",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hallow/",
     "name": "Hallow",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hallow",
+    "source": ["PRPG Core Rulebook pg. 293"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels":     {
-        "cleric/oracle": 5,
+        "cleric": 5,
         "druid": 5,
-        "inquisitor": 5
+        "hunter": 5,
+        "inquisitor": 5,
+        "oracle": 5,
+        "warpriest": 5
     },
     "castingTime": "24 hours",
-    "components": "V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be included in the <i>hallowed<\/i> area), DF",
+    "components": "V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of he spell to be included in the <i>hallowed<\/i> area), DF",
     "range": "touch",
     "area": "40-ft. radius emanating from the touched point",
     "duration": "instantaneous",
     "savingThrow": "see text",
     "spellResistance": "see text",
-    "text": "<p><i>Hallow<\/i> makes a particular site, building, or structure a holy site. This has four major effects.<\/p>",
+    "text": "<i>Hallow<\/i> makes a particular site, building, or structure a holy site. This has four major effects.<br><br>First, the site is warded by a <i>magic circle against evil<\/i> effect.<br><br>Second, the DC to resist positive channeled energy within this area gains a +4 sacred bonus and the DC to resist negative energy is reduced by 4. Spell resistance does not apply to this effect. This provision does not apply to the druid version of the spell.<br><br>Third, any dead body interred in a <i>hallowed<\/i> site cannot be turned into an undead creature.<br><br>Finally, you can fix a single spell effect to the <i>hallowed<\/i> site. The spell effect lasts for 1 year and functions throughout the entire site, regardless of the normal duration and area or effect. You may designate whether the effect applies to all creatures, creatures who share your faith or alignment, or creatures who adhere to another faith or alignment. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting <i>hallow<\/i> again.<br><br>Spell effects that may be tied to a <i>hallowed<\/i> site include <i>aid<\/i>, <i>bane<\/i>, <i>bless<\/i>, <i>cause fear<\/i>, <i>darkness<\/i>, <i>daylight<\/i>, <i>death ward<\/i>, <i>deeper darkness<\/i>, <i>detect evil<\/i>, <i>detect magic<\/i>, <i>dimensional anchor<\/i>, <i>discern lies<\/i>, <i>dispel magic<\/i>, <i>endure elements<\/i>, <i>freedom of movement<\/i>, <i>invisibility purge<\/i>, <i>protection from energy<\/i>, <i>remove fear<\/i>, <i>resist energy<\/i>, <i>silence<\/i>, <i>tongues<\/i>, and <i>zone of truth<\/i>. Saving throws and spell resistance might apply to these spells' effects. (See the individual spell descriptions for details.)<br><br>An area can receive only one <i>hallow<\/i> spell (and its associated spell effect) at a time. <i>Hallow<\/i> counters but does not dispel <i>unhallow<\/i>.",
     "name_zh": "圣居",
     "castingTime_zh": "24小时",
     "components_zh": "语言, 姿势, 材料 (至少价值1000gp的草药、香油与熏香，还需要加上被固定在圣居区域内的法术，每法术环位1000gp), 法器",
     "range_zh": "接触",
     "area_zh": "以接触到的点为中心, 半径40尺发散区域",
     "duration_zh": "立即",
-    "savingThrow_zh": "见后文",
-    "spellResistance_zh": "见后文",
-    "text_zh": "<p>圣居可以让一个地点、建筑或者居所物成为神圣之地。这会产生四种功效。<\/p><p>第一，此地被‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’所保护。<\/p><p>第二，在法术效果的区域内，抵抗引导正能量的DC获得+4神圣加值，抵抗引导负能量的DC受到-4减值。法术抗力对此效果无效。该效果不适用于德鲁伊版的圣居。<\/p><p>第三，埋葬在圣居范围内的任何尸体都不会被转变为不死生物。<\/p><p>最后，你能够在圣居中固定一个法术效果。不管该法术正常持续时间和范围如何，被固定后都将持续一年，并作用于整个圣居范围内。你可以决定该法术是作用于全体生物，还是和你具有相同阵营或信仰的生物，或是忠于另一阵营或信仰的生物。一年后，你所固定的效果消失，但只用在该处再次施展圣居即可更新或重置该效果。<\/p><p>可以在圣居内固定的法术如下。豁免检定与法术抗力会对这些法术效果起作用 (详见各法术说明)。\nl  援助术 (aid)\n l  侦测邪恶 (detect evil)\n l  防护能量伤害 (protection from energy)\nl  绝望术 (bane)\n l  侦测魔法 (detect magic)\n l  移除恐惧 (remove fear)\nl  祝福术 (bless)\n l  次元锚 (dimensional anchor)\n l  抵抗能量伤害 (resist energy)\nl  惊恐术 (cause fear)\n l  辨识谎言 (discern lies)\n l  沉默术 (silence)\nl  黑暗术 (darkness)\n l  解除魔法 (dispel magic)\n l  巧言术 (tongues)\nl  昼明术 (daylight)\n l  忍受环境 (endure elements)\n l  诚实之域 (zone of truth)\nl  防死结界 (death ward)\n l  行动自如 (freedom of movement)\nl  深幽黑暗术 (deeper darkness)\n l  消除隐形 (invisibility purge)<\/p><p>在一个区域内，同一时间受到一个圣居效果影响 (及其驻留的法术效果)。圣居能反制但无法解除‘<a href=\"spell.html?spell=unhallow\">邪居 (unhallow)<\/a>’。<\/p>",
-    "source": "CRB"
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "见文本",
+    "text_zh": "<p>圣居可以让一个地点、建筑或者居所物成为神圣之地。这会产生四种功效。<\/p><p>第一，此地被‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’所保护。<\/p><p>第二，在法术效果的区域内，抵抗引导正能量的DC获得+4神圣加值，抵抗引导负能量的DC受到-4减值。法术抗力对此效果无效。该效果不适用于德鲁伊版的圣居。<\/p><p>第三，埋葬在圣居范围内的任何尸体都不会被转变为不死生物。<\/p><p>最后，你能够在圣居中固定一个法术效果。不管该法术正常持续时间和范围如何，被固定后都将持续一年，并作用于整个圣居范围内。你可以决定该法术是作用于全体生物，还是和你具有相同阵营或信仰的生物，或是忠于另一阵营或信仰的生物。一年后，你所固定的效果消失，但只用在该处再次施展圣居即可更新或重置该效果。<\/p><p>可以在圣居内固定的法术如下。豁免检定与法术抗力会对这些法术效果起作用 (详见各法术说明)。<\/p><p>l  援助术 (aid)l  侦测邪恶 (detect evil)l  防护能量伤害 (protection from energy)<\/p><p>l  绝望术 (bane)l  侦测魔法 (detect magic)l  移除恐惧 (remove fear)<\/p><p>l  祝福术 (bless)l  次元锚 (dimensional anchor)l  抵抗能量伤害 (resist energy)<\/p><p>l  惊恐术 (cause fear)l  辨识谎言 (discern lies)l  沉默术 (silence)<\/p><p>l  黑暗术 (darkness)l  解除魔法 (dispel magic)l  巧言术 (tongues)<\/p><p>l  昼明术 (daylight)l  忍受环境 (endure elements)l  诚实之域 (zone of truth)<\/p><p>l  防死结界 (death ward)l  行动自如 (freedom of movement)<\/p><p>l  深幽黑暗术 (deeper darkness)l  消除隐形 (invisibility purge)<\/p><p>在一个区域内，同一时间受到一个圣居效果影响 (及其驻留的法术效果)。圣居能反制但无法解除‘<a href=\"spell.html?spell=unhallow\">邪居 (unhallow)<\/a>’。<\/p>"
 }

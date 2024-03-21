@@ -1,21 +1,29 @@
 {
     "key": "suffocation, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suffocation/",
     "name": "Suffocation, Mass",
-    "base": "suffocation",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Mass",
+    "source": ["Advanced Player's Guide pg. 248"],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 9,
-        "witch": 9
+        "arcanist": 9,
+        "psychic": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
     },
-    "subdomains": {"murder": 9},
-    "elementalSchools": {"air": 9},
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a vial containing a bit of the caster’s breath)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "1 round/level",
-    "text": "<p>This spell functions as <i>suffocation<\/i> except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.<\/p><\/div>",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>suffocation <\/i>except as noted above. Note that the duration of this spell is much longer, forcing those suffering from the effect to make far more Fortitude saves to stave off eventual suffocation.",
     "name_zh": "群体绞杀",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每2级一个活物 (互相之间距离不超过30尺)",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>这个法术运作方式如同绞杀 (Suffocation)，除了上述部分。<\/p><p>注意，本法术持续时间更长，如果一个生物想免于最终的彻底窒息，必须在充满痛苦的法术持续时间中通过更多次的强韧检定。<\/p>",
-    "source": "APG"
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术运作方式如同绞杀 (Suffocation)，除了上述部分。<\/p><p>注意，本法术持续时间更长，如果一个生物想免于最终的彻底窒息，必须在充满痛苦的法术持续时间中通过更多次的强韧检定。<\/p>"
 }

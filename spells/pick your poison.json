@@ -1,25 +1,32 @@
 {
     "key": "pick your poison",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pick-your-poison/",
     "name": "Pick Your Poison",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pick%20Your%20Poison",
+    "source":     [
+        "Inner Sea Gods pg. 238",
+        "Gods and Magic pg. 11"
+    ],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["mind-affecting"],
+    "race": "Cayden Cailean",
     "levels":     {
         "bard": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
+        "oracle": 1,
+        "skald": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min./level",
-    "savingThrow": "Fort negates (harmless)",
+    "duration": "10 minute/level",
+    "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell temporarily converts even the deadliest poison affecting a creature into an intoxicating alcohol. If the subject is affected by a poison effect while under the effects of this spell, instead of the poison's normal effect, she feels intoxicated as if she'd just had a very strong drink and takes a –2 penalty on attacks, saves, and checks for the duration of the spell. When the spell's duration expires, the penalty ends and the poison's normal effects apply. <i>Pick your poison<\/i> does not affect any poison effects that occurred before the spell was cast.<\/p>",
+    "text": "This spell temporarily converts even the deadliest poison affecting a creature into an intoxicating alcohol. If the subject is affected by a poison effect while under the effects of this spell, instead of the poison’s normal effect, she feels intoxicated as if she’d just had a very strong drink and takes a –2 penalty on attacks, saves, and checks for the duration of the spell. When the spell’s duration expires, the penalty ends and the poison’s normal effects apply. <i>Pick your poison <\/i>does not affect any poison effects that occurred before the spell was cast.",
     "name_zh": "畅饮毒酒",
     "race_zh": "凯登·凯连",
     "castingTime_zh": "标准动作",
@@ -27,8 +34,7 @@
     "range_zh": "接触",
     "target_zh": "被碰触到的生物",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "强韧，通过则无效 (无害)",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>此法术如同祕法眼(arcane eye)般运作，除了上面写的。在施放此法术时，你在法术持续时间内陷入睡眠，创造一个不可见的魔法传感器(名称为梦境探知者)，它的体型与形状跟你的身体大小相当，可以认出来就是你，并且不能通过你的身体无法进入的空间。不同于祕法眼创造的不可见传感器，任何种族与动物的孩幼童(不能比相当于人类10岁还大)可以看见你的梦境探知者。入睡的生物可以感知探知者的存在并可能将你的形象融入他们的梦中。守护生物的立场效果与防护系法术(像是反邪恶法镇[magic circle against evil])在对抗梦境探知者时是有效的屏障(无论你的生物种类、阵营或其他特性)。如果妳解消此法术或是梦境探知者被解除或被摧毁，你会醒来。<\/p>",
-    "source": "CS-GaM"
+    "text_zh": "<p>此法术如同祕法眼(arcane eye)般运作，除了上面写的。在施放此法术时，你在法术持续时间内陷入睡眠，创造一个不可见的魔法传感器(名称为梦境探知者)，它的体型与形状跟你的身体大小相当，可以认出来就是你，并且不能通过你的身体无法进入的空间。不同于祕法眼创造的不可见传感器，任何种族与动物的孩幼童(不能比相当于人类10岁还大)可以看见你的梦境探知者。入睡的生物可以感知探知者的存在并可能将你的形象融入他们的梦中。守护生物的立场效果与防护系法术(像是反邪恶法镇[magic circle against evil])在对抗梦境探知者时是有效的屏障(无论你的生物种类、阵营或其他特性)。如果妳解消此法术或是梦境探知者被解除或被摧毁，你会醒来。<\/p>"
 }

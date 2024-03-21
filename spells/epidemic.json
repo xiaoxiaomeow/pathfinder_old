@@ -1,19 +1,24 @@
 {
     "key": "epidemic",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/epidemic/",
     "name": "Epidemic",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Epidemic",
+    "source": ["Ultimate Magic pg. 218"],
     "school": "necromancy",
     "descriptors":     [
         "disease",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 6,
+        "arcanist": 7,
+        "cleric": 6,
         "druid": 6,
-        "sorcerer/wizard": 7,
-        "witch": 6
+        "hunter": 6,
+        "oracle": 6,
+        "sorcerer": 7,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -22,15 +27,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>The target contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom (Core Rulebook 557), as the spell contagion. However, the disease is highly contagious, and any creature that touches the infected target, is touched by the target, or spends more than an hour in a confined space with the target must make a save against the disease's normal DC (not the spell DC) or contract the disease. If the initial target overcomes the disease by making the required number of saving throws, it remains a carrier of the disease for a length of time equal to the disease's frequency, and can continue to infect others during this time.<\/p>",
+    "text": "The target contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom, as the spell <i>contagion<\/i>. However, the disease is highly contagious, and any creature that touches the infected target, is touched by the target, or spends more than an hour in a confined space with the target must make a save against the disease’s normal DC (not the spell DC) or contract the disease. If the initial target overcomes the disease by making the required number of saving throws, it remains a carrier of the disease for a length of time equal to the disease’s frequency, and can continue to infect others during this time.",
     "name_zh": "传染病",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>目标立刻患上下列疾病之一：失明 (blinding sickness)、鼠疫 (bubonic plague)、失心疯 (cackle fever)、腐热症 (filth fever)、麻风 (leprosy)、脑热症 (mindfire)、红肿症 (red ache)、发颤症 (the shakes) 或恶心症 (slimy doom)，如同疫病术 (contagion)。<\/p><p>不过，疾病具有高度的传染性，任何接触了受术者或者被受术者接触，或与受术者在同一个密闭空间里共处超过一小时的生物，必须进行一次针对疾病正常DC (非法术DC) 的强韧检定，否则就会感染疾病。<\/p><p>如果最初感染了疾病的法术目标通过了足够多次的豁免检定而让疾病痊愈，它仍然是一个疾病的带原者，在疾病应有的持续时间内仍然会继续感染其他人。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>目标立刻患上下列疾病之一：失明 (blinding sickness)、鼠疫 (bubonic plague)、失心疯 (cackle fever)、腐热症 (filth fever)、麻风 (leprosy)、脑热症 (mindfire)、红肿症 (red ache)、发颤症 (the shakes) 或恶心症 (slimy doom)，如同疫病术 (contagion)。<\/p><p>不过，疾病具有高度的传染性，任何接触了受术者或者被受术者接触，或与受术者在同一个密闭空间里共处超过一小时的生物，必须进行一次针对疾病正常DC (非法术DC) 的强韧检定，否则就会感染疾病。<\/p><p>如果最初感染了疾病的法术目标通过了足够多次的豁免检定而让疾病痊愈，它仍然是一个疾病的带原者，在疾病应有的持续时间内仍然会继续感染其他人。<\/p>"
 }

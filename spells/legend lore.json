@@ -1,33 +1,33 @@
 {
     "key": "legend lore",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/legend-lore/",
     "name": "Legend Lore",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Legend%20Lore",
+    "source": ["PRPG Core Rulebook pg. 304"],
     "school": "divination",
     "levels":     {
+        "arcanist": 6,
         "bard": 4,
         "inquisitor": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
-    },
-    "domains": {"knowledge": 7},
-    "elementalSchools": {"void": 6},
-    "bloodlines": {"harrow": 6},
-    "mysteries":     {
-        "ascetic": 6,
-        "lore": 4
+        "medium": 4,
+        "occultist": 6,
+        "psychic": 6,
+        "skald": 4,
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "see text",
     "components": "V, S, M (incense worth 250 gp), F (four pieces of ivory worth 50 gp each)",
     "range": "personal",
     "target": "you",
     "duration": "see text",
-    "text": "<p><i>Legend lore<\/i> brings to your mind legends about an important person, place, or thing. If the person or thing is at hand, or if you are in the place in question, the casting time is only 1d4 x 10 minutes. If you have only detailed information on the person, place, or thing, the casting time is 1d10 days, and the resulting lore is less complete and specific (though it often provides enough information to help you find the person, place, or thing, thus allowing a better <i>legend lore<\/i> result next time). If you know only rumors, the casting time is 2d6 weeks, and the resulting lore is vague and incomplete (though it often directs you to more detailed information, thus allowing a better <i>legend lore<\/i> result next time).<\/p><p>During the casting, you cannot engage in other than routine activities: eating, sleeping, and so forth. When completed, the divination brings legends (if any) about the person, place, or things to your mind. These may be legends that are still current, legends that have been forgotten, or even information that has never been generally known. If the person, place, or thing is not of legendary importance, you gain no information. As a rule of thumb, characters who are 11th level and higher are &#8220;legendary,&#8221; as are the sorts of creatures they contend with, the major magic items they wield, and the places where they perform their key deeds.<\/p>",
+    "text": "<i>Legend lore<\/i> brings to your mind legends about an important person, place, or thing. If the person or thing is at hand, or if you are in the place in question, the casting time is only 1d4 × 10 minutes. If you have only detailed information on the person, place, or thing, the casting time is 1d10 days, and the resulting lore is less complete and specific (though it often provides enough information to help you find the person, place, or thing, thus allowing a better <i>legend lore<\/i> result next time). If you know only rumors, the casting time is 2d6 weeks, and the resulting lore is vague and incomplete (though it often directs you to more detailed information, thus allowing a better <i>legend lore<\/i> result next time).<br><br>During the casting, you cannot engage in other than routine activities: eating, sleeping, and so forth. When completed, the divination brings legends (if any) about the person, place, or things to your mind. These may be legends that are still current, legends that have been forgotten, or even information that has never been generally known. If the person, place, or thing is not of legendary importance, you gain no information. As a rule of thumb, characters who are 11th level and higher are “legendary,” as are the sorts of creatures they contend with, the major magic items they wield, and the places where they perform their key deeds.",
     "name_zh": "通晓传奇",
-    "castingTime_zh": "见后文",
+    "castingTime_zh": "见文本",
     "components_zh": "语言, 姿势, 材料 (价值250gp的焚香), 器材 (4支象牙, 每根价值50gp)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "见后文",
-    "text_zh": "<p>通晓传奇可以使你得到关于某个重要人物、地点或者事物的传奇事迹。如果该人或事物就在你的眼前，或者你就在该地点，则施法时间只需要1d4×10分钟。如果你只有关于该人物、地点或事物的详细信息，则施法时间需要1d10天，且得到的信息将不那么完整而明确 (但是它通常足以使你找到该人、地点或事物，如此你可以再次使用通晓传奇来得到更好的结果)。如果你只知道些许的传闻，则施法时间需要2d6星期，而且只能得到模糊的片段信息 (但是你可以籍此找到更多信息，以便再次使用通晓传奇来得到更好的效果)。<\/p><p>在施法期间你只能进行普通的日常活动，如：进食，睡眠等。当法术完成时，关于该人、地点或事物的传奇 (如果有的话) 就会映入你的意识之中。这些传奇也许仍然被人传诵，或者已被遗忘，甚至从来不为人知。如果该人物、地点或事物没有任何传奇事迹，则你一无所获。一般来说，11级或以上的角色、他们对付的各种各样的生物、他们主要使用的魔法物品、以及他们重要事迹的发生地，都可算做“传奇”的内容。\n次等 (Lesser) [法术名]<\/p><p>任何名字以次等开头的法术，在法术列表中均会以法术名称按照字母顺序进行排列。因此，带有次等描述的法术说明总是在它的基础法术说明附近出现。带有次等法术的基础法术如后所述：困惑术 (confusion)，指使术 (geas)，法术无效结界 (globe of invulnerability)，异界盟友 (planar ally)，异界誓缚 (planar binding) 和复原术 (restoration)。<\/p>",
-    "source": "CRB"
+    "duration_zh": "见文本",
+    "text_zh": "<p>通晓传奇可以使你得到关于某个重要人物、地点或者事物的传奇事迹。如果该人或事物就在你的眼前，或者你就在该地点，则施法时间只需要1d4×10分钟。如果你只有关于该人物、地点或事物的详细信息，则施法时间需要1d10天，且得到的信息将不那么完整而明确 (但是它通常足以使你找到该人、地点或事物，如此你可以再次使用通晓传奇来得到更好的结果)。如果你只知道些许的传闻，则施法时间需要2d6星期，而且只能得到模糊的片段信息 (但是你可以籍此找到更多信息，以便再次使用通晓传奇来得到更好的效果)。<\/p><p>在施法期间你只能进行普通的日常活动，如：进食，睡眠等。当法术完成时，关于该人、地点或事物的传奇 (如果有的话) 就会映入你的意识之中。这些传奇也许仍然被人传诵，或者已被遗忘，甚至从来不为人知。如果该人物、地点或事物没有任何传奇事迹，则你一无所获。一般来说，11级或以上的角色、他们对付的各种各样的生物、他们主要使用的魔法物品、以及他们重要事迹的发生地，都可算做“传奇”的内容。<\/p><p>次等 (Lesser) [法术名]<\/p><p>任何名字以次等开头的法术，在法术列表中均会以法术名称按照字母顺序进行排列。因此，带有次等描述的法术说明总是在它的基础法术说明附近出现。带有次等法术的基础法术如后所述：困惑术 (confusion)，指使术 (geas)，法术无效结界 (globe of invulnerability)，异界盟友 (planar ally)，异界誓缚 (planar binding) 和复原术 (restoration)。<\/p>"
 }

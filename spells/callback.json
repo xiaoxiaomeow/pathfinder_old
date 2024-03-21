@@ -1,31 +1,35 @@
 {
     "key": "callback",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/callback/",
     "name": "Callback",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Callback",
+    "source":     [
+        "Ultimate Wilderness pg. 228",
+        "Familiar Folio pg. 22"
+    ],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
+        "arcanist": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a crushed grasshopper)",
     "range": "long (400 ft. + 40 ft./level)",
     "target": "your familiar or spirit animal",
-    "duration": "10 min.s/level or until expended (see text)",
-    "savingThrow": "Fort negates (harmless)",
-    "spellResistance": "yes",
-    "text": "<p>If the target takes hit point damage while within range of this spell, it immediately teleports to your space (or adjacent to your space) after the damage is applied. If the target is killed, its corpse teleports instead. Optionally, you can specify a number of points of damage for your familiar to take before the spell takes effect, but you must do so when the spell is cast. Once the familiar has teleported back to you, the spell ends.<\/p>",
+    "duration": "10 minutes/level or until expended (see text)",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "If the target takes hit point damage while within range of this spell, it immediately teleports to your space (or adjacent to your space) after the damage is applied. If the target is killed, its corpse teleports instead. Optionally, you can specify a number of points of damage for your familiar to take before the spell takes effect, but you must do so when the spell is cast. Once the familiar has teleported back to you, the spell ends.",
     "name_zh": "魔宠召还术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一只被碾碎的蝗虫）",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "你的魔宠或魂兽",
-    "duration_zh": "10分钟/等级或直至耗散（见后文）",
-    "savingThrow_zh": "强韧，通过则无效（无害）",
-    "spellResistance_zh": "可",
-    "text_zh": "<p>如果目标在处于法术距离内时受到生命值伤害，它会在受到伤害后立刻传送至你所占据的空间（或临近你的空间）。若目标被杀害，则它的尸体会被传送回来。视情况需要，你能够指定你的魔宠在被法术的效果传送之前要承受的具体伤害量。一旦魔宠被传送回你身边，法术就会结束。<\/p>",
-    "source": "UW"
+    "duration_zh": "10分钟/等级或直至耗散; 见文本",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>如果目标在处于法术距离内时受到生命值伤害，它会在受到伤害后立刻传送至你所占据的空间（或临近你的空间）。若目标被杀害，则它的尸体会被传送回来。视情况需要，你能够指定你的魔宠在被法术的效果传送之前要承受的具体伤害量。一旦魔宠被传送回你身边，法术就会结束。<\/p>"
 }

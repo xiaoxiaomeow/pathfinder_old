@@ -1,16 +1,17 @@
 {
     "key": "regenerate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/regenerate/",
     "name": "Regenerate",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Regenerate",
+    "source": ["PRPG Core Rulebook pg. 331"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
-        "cleric/oracle": 7,
+        "cleric": 7,
         "druid": 9,
+        "oracle": 7,
         "shaman": 7,
         "witch": 7
     },
-    "domains": {"healing": 7},
     "castingTime": "3 full rounds",
     "components": "V, S, DF",
     "range": "touch",
@@ -18,15 +19,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject's severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multi-headed creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.<\/p><p><i>Regenerate<\/i> also cures 4d8 points of damage + 1 point per caster level (maximum +35), rids the subject of exhaustion and fatigue, and eliminates all nonlethal damage the subject has taken. It has no effect on nonliving creatures (including undead).<\/p>",
+    "text": "The subject's severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.<br><br><i>Regenerate<\/i> also cures 4d8 points of damage + 1 point per caster level (maximum +35), rids the subject of exhaustion and fatigue, and eliminates all nonlethal damage the subject has taken. It has no effect on nonliving creatures (including undead).<h2 class=\"title\">Mythic Regenerate<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 105<\/i><br>The casting time changes to 1 standard action and the target changes to 1 living creature or corpse touched. The spell removes the blinded, dazzled, and deafened conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as <i>breath of life<\/i>), treating it as if it had negative hp equal to its Constitution score. ",
+    "mythicSource": ["Mythic Adventures pg. 105"],
+    "mythicText": "The casting time changes to 1 standard action and the target changes to 1 living creature or corpse touched. The spell removes the blinded, dazzled, and deafened conditions. The target gains regeneration equal to your tier (overcome by acid and fire) for 1 round per caster level. If the target was killed by amputation or decapitation (such as from a vorpal weapon) within the past 1 round, the spell regenerates lost body parts and brings the creature back to life (as <i>breath of life<\/i>), treating it as if it had negative hp equal to its Constitution score. ",
     "name_zh": "再生术",
-    "castingTime_zh": "3整轮",
+    "castingTime_zh": "3轮",
     "components_zh": "语言, 姿势, 法器",
     "range_zh": "接触",
     "target_zh": "接触到的活物",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标失去的身体部位 (手指、脚趾、手、足、手臂、腿、尾甚至多头生物的头)，断骨和损伤的内脏会重新长好。本法术施放后，如果失去的身体部位被接合在目标生物身上，再生只需要1轮就可完成，否则需要花费2d10轮重新长出新的部分。<\/p><p>再生术同时能治疗 {4d8+CL (最高+35)} 点伤害，使目标摆脱疲乏和力竭状态，并清除目标受到的所有非致命伤害。本法术对无生命的生物 (包括不死生物) 无效。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>目标失去的身体部位 (手指、脚趾、手、足、手臂、腿、尾甚至多头生物的头)，断骨和损伤的内脏会重新长好。本法术施放后，如果失去的身体部位被接合在目标生物身上，再生只需要1轮就可完成，否则需要花费2d10轮重新长出新的部分。<\/p><p>再生术同时能治疗 {4d8+CL (最高+35)} 点伤害，使目标摆脱疲乏和力竭状态，并清除目标受到的所有非致命伤害。本法术对无生命的生物 (包括不死生物) 无效。<\/p>"
 }

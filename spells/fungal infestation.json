@@ -1,11 +1,14 @@
 {
     "key": "fungal infestation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fungal-infestation/",
     "name": "Fungal Infestation",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fungal%20Infestation",
+    "source": ["Ultimate Magic pg. 221"],
     "school": "necromancy",
     "descriptors": ["disease"],
-    "levels": {"druid": 3},
+    "levels":     {
+        "druid": 3,
+        "hunter": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
@@ -13,7 +16,7 @@
     "duration": "1d3 days",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You coat the target in necrotic fungus that makes its flesh soft and fragile. Toadstools, ringworm, and other disgusting fungal growths sprout from its skin. The target takes 1d3 points of Charisma damage. Any physical attack against the target automatically adds 1d6 points of bleed damage.<\/p>",
+    "text": "You coat the target in necrotic fungus that makes its flesh soft and fragile. Toadstools, ringworm, and other disgusting fungal growths sprout from its skin. The target takes 1d3 points of Charisma damage. Any physical attack against the target automatically adds 1d6 points of bleed damage.",
     "name_zh": "菌皮疫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -22,6 +25,5 @@
     "duration_zh": "1d3天",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你使目标被坏死性真菌所覆盖，这些真菌会使其皮肤软化脆弱。毒蕈，癣以及其他令人作呕的真菌从目标的表皮上生长发芽。这使得目标受到1d3点魅力伤害。任何攻击目标的物理攻击会自动附加1d6点流血伤害。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你使目标被坏死性真菌所覆盖，这些真菌会使其皮肤软化脆弱。毒蕈，癣以及其他令人作呕的真菌从目标的表皮上生长发芽。这使得目标受到1d3点魅力伤害。任何攻击目标的物理攻击会自动附加1d6点流血伤害。<\/p>"
 }

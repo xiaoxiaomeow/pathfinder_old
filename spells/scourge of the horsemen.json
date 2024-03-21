@@ -1,17 +1,20 @@
 {
     "key": "scourge of the horsemen",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scourge-of-the-horsemen/",
     "name": "Scourge of the Horsemen",
-    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scourge%20of%20the%20Horsemen",
+    "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
     "school": "necromancy",
     "descriptors":     [
         "acid",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 9,
         "cleric": 9,
-        "sorcerer/wizard": 9
+        "oracle": 9,
+        "sorcerer": 9,
+        "wizard": 9
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,15 +23,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude half",
     "spellResistance": "yes",
-    "text": "<p>This spell blasts the area with a horrific combination of soul-rending energy and physical corrosion. Creatures in the area of effect gain 1d4 negative levels, and take 1d6 points of acid damage per caster level (maximum 20d6).<\/p>",
+    "text": "This spell blasts the area with a horrific combination of soul-rending energy and physical corrosion. Creatures in the area of effect gain 1d4 negative levels, and take 1d6 points of acid damage per caster level (maximum 20d6).",
     "name_zh": "天启诸骑的蹂躏",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "30呎爆发",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "30尺爆发",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则减半",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术令这片区域喷发出灵魂被撕碎的能量以及物理腐败的双重结合。在此区域内的受到影响生物，会获得1d4个负向等级，并且承受1d6点/施法者等级的酸液伤害(最多20d6)。<\/p>",
-    "source": "CS-BotD3"
+    "text_zh": "<p>此法术令这片区域喷发出灵魂被撕碎的能量以及物理腐败的双重结合。在此区域内的受到影响生物，会获得1d4个负向等级，并且承受1d6点/施法者等级的酸液伤害(最多20d6)。<\/p>"
 }

@@ -1,15 +1,30 @@
 {
     "key": "clenched fist",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/clenched-fist/",
     "name": "Clenched Fist",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Clenched%20Fist",
+    "source": ["PRPG Core Rulebook pg. 255"],
     "school": "evocation",
     "descriptors": ["force"],
-    "levels": {"sorcerer/wizard": 8},
-    "domains": {"strength": 8},
+    "levels":     {
+        "arcanist": 8,
+        "psychic": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 standard action",
     "components": "V, S, F/DF (a leather glove)",
-    "text": "<p>This spell functions like interposing hand, except that the hand can also push or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack invisible or concealed creatures is no better than yours.<\/p><p>The hand attacks once per round, and its attack bonus equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively) + 11 for the hand's Strength score (33), -1 for being Large. The hand deals 1d8+11 points of damage on each attack, and any creature struck must make a Fortitude save (against this spell's save DC) or be stunned for 1 round. Directing the spell to a new target is a move action.<\/p><p>The <i>clenched fist<\/i> can also interpose itself as interposing hand does, or it can bull rush an opponent as forceful hand does. Its CMB for bull rush checks uses your caster level in place of its base attack bonus, with a +11 bonus for its Strength score and a +1 bonus for being Large.<\/p>",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "10-ft. hand",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>interposing hand<\/i>, except that the hand can also push or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack invisible or concealed creatures is no better than yours.<br><br>The hand attacks once per round, and its attack bonus equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively) + 11 for the hand's Strength score (33), – 1 for being Large. The hand deals 1d8+11 points of damage on each attack, and any creature struck must make a Fortitude save (against this spell's save DC) or be stunned for 1 round. Directing the spell to a new target is a move action.<br><br>The <i>clenched fist<\/i> can also interpose itself as <i>interposing hand<\/i> does, or it can bull rush an opponent as <i>forceful hand<\/i> does. Its CMB for bull rush checks uses your caster level in place of its base attack bonus, with a +11 bonus for its Strength score and a +1 bonus for being Large.",
     "name_zh": "金刚拳",
+    "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材/法器 (软手套)",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=interposing hand\">护身掌 (interposing hand)<\/a>’一般，不过这个手掌还能推开或攻击一名由你选择的敌人。这个漂浮的魔手每轮可以移动60尺，并在同一轮中进行攻击。因为魔手是由你控制，所以它发现隐身和隐蔽生物的能力与你相同。<\/p><p>魔手每轮可以攻击一次，它的攻击加值为 {你的CL+你的智力/魅力/感知修正+10} (属性修正分别对应法师/术士/牧师，魔手本身的力量属性33，最后因为是大体型而-1)。魔手每次攻击造成 {1d8+11} 点伤害，任何被击中的生物必须进行一次强韧豁免 (对抗该法术的豁免DC)，失败则会震慑1轮。将该法术定向至新的目标是移动动作。<\/p><p>金刚拳可以如同‘护身掌’一样将自己插入到适当的位置，也可以尝试像‘<a href=\"spell.html?spell=forceful hand\">飞击掌 (forceful hand)<\/a>’一样冲撞敌人。它的冲撞检定的CMB使用你的CL替代其BAB，通过力量获得+11加值，并且由于大体型而获得+1加值。<\/p>",
-    "source": "CRB"
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=interposing hand\">护身掌 (interposing hand)<\/a>’一般，不过这个手掌还能推开或攻击一名由你选择的敌人。这个漂浮的魔手每轮可以移动60尺，并在同一轮中进行攻击。因为魔手是由你控制，所以它发现隐身和隐蔽生物的能力与你相同。<\/p><p>魔手每轮可以攻击一次，它的攻击加值为 {你的CL+你的智力/魅力/感知修正+10} (属性修正分别对应法师/术士/牧师，魔手本身的力量属性33，最后因为是大体型而-1)。魔手每次攻击造成 {1d8+11} 点伤害，任何被击中的生物必须进行一次强韧豁免 (对抗该法术的豁免DC)，失败则会震慑1轮。将该法术定向至新的目标是移动动作。<\/p><p>金刚拳可以如同‘护身掌’一样将自己插入到适当的位置，也可以尝试像‘<a href=\"spell.html?spell=forceful hand\">飞击掌 (forceful hand)<\/a>’一样冲撞敌人。它的冲撞检定的CMB使用你的CL替代其BAB，通过力量获得+11加值，并且由于大体型而获得+1加值。<\/p>"
 }

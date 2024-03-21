@@ -1,35 +1,38 @@
 {
     "key": "puzzle box",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/puzzle-box/",
     "name": "Puzzle Box",
-    "book": "Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Puzzle%20Box",
+    "source": ["Inner Sea Monster Codex pg. 41"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "curse",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 2,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
-    "range": "close (25 ft. + 5 ft./2 levels) or touch; see text",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature or one object up to 5 lbs./level",
     "duration": "1 round/level or permanent; see text",
     "savingThrow": "Will negates or none",
     "spellResistance": "yes",
-    "text": "<p>This spell causes even commonly used objects to become conundrums. When cast on a creature, the target loses all weapon and shield proficiencies. The target also forgets how to use all spell-completion, spell-trigger, and use-activated magic items, as well as any mundane items used as part of a skill check, imposing a –5 penalty on all ability and skill checks attempted with such items. These effects last for 1 round per level. As a move action, the target can attempt a skill check to negate the effects of this spell for one object. Weapons, shields, and mundane objects require a successful Craft skill check of the type required to craft the item in question, with a DC equal to the spell's save DC. Magic items require a successful Spellcraft or Use Magic Device skill check against the spell's save DC.<\/p><p>Alternatively, this spell can be cast on a single touched object that weighs up to 5 pounds per the caster's level. Use of this object becomes a puzzle even to those previously familiar with it. Any creature attempting to use an item affected in this way is treated as though the creature was the target of puzzle box for that item only. When cast on an object, the duration of this spell is permanent.<\/p>",
+    "text": "This spell causes even commonly used objects to become conundrums. When cast on a creature, the target loses all weapon and shield proficiencies. The target also forgets how to use all spell-completion, spell-trigger, and use-activated magic items, as well as any mundane items used as part of a skill check, imposing a –5 penalty on all ability and skill checks attempted with such items. These effects last for 1 round per level. As a move action, the target can attempt a skill check to negate the effects of this spell for one object. Weapons, shields, and mundane objects require a successful Craft skill check of the type required to craft the item in question, with a DC equal to the spell’s save DC. Magic items require a successful Spellcraft or Use Magic Device skill check against the spell’s save DC.<br><br> Alternatively, this spell can be cast on a single touched object that weighs up to 5 pounds per the caster’s level. Use of this object becomes a puzzle even to those previously familiar with it. Any creature attempting to use an item affected in this way is treated as though the creature was the target of puzzle box for that item only. When cast on an object, the duration of this spell is permanent.",
     "name_zh": "谜箱术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物，或一件物体(最多5磅/等级)",
-    "duration_zh": "1轮/等级 或 永久；见下",
-    "savingThrow_zh": "意志，通过则无效 或 无",
+    "duration_zh": "1轮/等级 或 永久; 见文本",
+    "savingThrow_zh": "意志, 通过则无效 或 无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术能让最为平常的物体变成难题。当施放在一名生物上时，目标会失去所有武器和盾牌的熟练。目标也会完全遗忘要如何使用法术完成型、法术触发型，还有可被激活的魔法物品，并且所有作为技能检定的一部分使用的普通物品，会让你在所有属性和技能检定上承受-5罚值。这些效果持续1轮/施法者等级。以一个移动动作，目标可以进行一次技能检定，让一件物体上此法术的效果无效。武器、盾牌还有普通物品会需要对应类型的工艺技能检定好顺畅的使用，DC为此法术的豁免DC。魔法品需要通过一次法术辨识或使用魔法装置技能检定对抗此法术的豁免DC。\n或着你也可以将此法术对一件你接触的物品施放，其重量最重为5磅/施法者等级。想要使用此物体将成为一个难题，即使对这类物体娴熟于心的人也是如此。任何试图使用此物体的生物，会被视为谜箱的目标(仅对此物体)。当对一件物体施放此法术时，此法术的持续时间为永久。<\/p>",
-    "source": "CS-ISMC"
+    "text_zh": "<p>此法术能让最为平常的物体变成难题。当施放在一名生物上时，目标会失去所有武器和盾牌的熟练。目标也会完全遗忘要如何使用法术完成型、法术触发型，还有可被激活的魔法物品，并且所有作为技能检定的一部分使用的普通物品，会让你在所有属性和技能检定上承受-5罚值。这些效果持续1轮/施法者等级。以一个移动动作，目标可以进行一次技能检定，让一件物体上此法术的效果无效。武器、盾牌还有普通物品会需要对应类型的工艺技能检定好顺畅的使用，DC为此法术的豁免DC。魔法品需要通过一次法术辨识或使用魔法装置技能检定对抗此法术的豁免DC。<\/p><p>或着你也可以将此法术对一件你接触的物品施放，其重量最重为5磅/施法者等级。想要使用此物体将成为一个难题，即使对这类物体娴熟于心的人也是如此。任何试图使用此物体的生物，会被视为谜箱的目标(仅对此物体)。当对一件物体施放此法术时，此法术的持续时间为永久。<\/p>"
 }

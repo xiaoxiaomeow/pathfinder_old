@@ -1,14 +1,17 @@
 {
     "key": "expeditious construction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/expeditious-construction/",
     "name": "Expeditious Construction",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Expeditious%20Construction",
+    "source": ["Arcane Anthology pg. 7"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 1,
         "druid": 1,
-        "sorcerer/wizard": 1
+        "hunter": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a handful of earth or stone)",
@@ -17,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a low wall or other simple structure of packed earth or loose stone measuring 3 feet thick, 3 feet tall, and 10 feet long per 3 caster levels you possess (minimum 10 feet). Each square of the structure can appear only in unoccupied spaces atop earthen or stone surfaces able to support it. The wall grants cover as per a low wall and can be climbed with a successful DC 5 Climb check.<\/p><p>Large and larger creatures don't need to attempt a Climb check to climb over it.<\/p><p>At your discretion, you can make the structure half as long but thicker by forming it into a berm consisting of a steep slope on each side. Characters moving uphill (to an adjacent square of higher elevation) must spend 2 squares of movement to enter a square of steep slope. Characters running or charging downhill (moving to an adjacent square of lower elevation) must attempt a DC 10 Acrobatics check upon entering the first steep slope square. Mounted characters attempt a DC 10 Ride check instead. Characters who fail this check stumble and must end their movement 1d2 × 5 feet later. Characters who fail by 5 or more fall prone in the square where they end their movement. A steep slope increases the DC of Acrobatics checks by 2.<\/p>",
+    "text": "You create a low wall or other simple structure of packed earth or loose stone measuring 3 feet thick, 3 feet tall, and 10 feet long per 3 caster levels you possess (minimum 10 feet). Each square of the structure can appear only in unoccupied spaces atop earthen or stone surfaces able to support it. The wall grants cover as per a low wall and can be climbed with a successful DC 5 Climb check. Large and larger creatures don’t need to attempt a Climb check to climb over it.<br><br> At your discretion, you can make the structure half as long but thicker by forming it into a berm consisting of a steep slope on each side. Characters moving uphill (to an adjacent square of higher elevation) must spend 2 squares of movement to enter a square of steep slope. Characters running or charging downhill (moving to an adjacent square of lower elevation) must attempt a DC 10 Acrobatics check upon entering the first steep slope square. Mounted characters attempt a DC 10 Ride check instead. Characters who fail this check stumble and must end their movement 1d2 × 5 feet later. Characters who fail by 5 or more fall prone in the square where they end their movement. A steep slope increases the DC of Acrobatics checks by 2.",
     "name_zh": "快速建构",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，材料（一把土或石头）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一或多堵矮墙，长度为10呎每3等级（最短10呎）",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一面矮墙或其他的简单建筑，由夯土或松动的石头构成，厚达3呎，高达3呎，长度为10呎每3施法者等级（最短10呎）。建筑的每个方格只能出现在足以支撑它的土壤或石质表面上的未被占据的方格里。墙壁会如一堵矮墙一般提供掩蔽，并可以通过一个成功的DC5的攀爬检定来被爬上去。大型或更大的生物在翻墙时不需要尝试攀爬检定。\n根据你的判断，你可以缩短和加厚建筑，将其塑造成一个两侧是陡坡的坡台。想要登上去的人物（到一个更高的相邻方格）必须花费两方格的移动来进入一个有陡坡的方格。沿坡向下奔跑或冲锋的人物（到一个更低的相邻方格）必须在进入第一个斜坡方格时尝试一次DC10的杂技检定。乘骑的人物必须尝试一次DC10的骑术检定。失败的人物会被摔绊，并必须在1d2×5呎后停止移动。失败结果为5或更差的人物会倒地在结束移动的方格里。一面陡坡会让杂技检定的DC增加2。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你创造出一面矮墙或其他的简单建筑，由夯土或松动的石头构成，厚达3呎，高达3呎，长度为10呎每3施法者等级（最短10呎）。建筑的每个方格只能出现在足以支撑它的土壤或石质表面上的未被占据的方格里。墙壁会如一堵矮墙一般提供掩蔽，并可以通过一个成功的DC5的攀爬检定来被爬上去。大型或更大的生物在翻墙时不需要尝试攀爬检定。<\/p><p>根据你的判断，你可以缩短和加厚建筑，将其塑造成一个两侧是陡坡的坡台。想要登上去的人物（到一个更高的相邻方格）必须花费两方格的移动来进入一个有陡坡的方格。沿坡向下奔跑或冲锋的人物（到一个更低的相邻方格）必须在进入第一个斜坡方格时尝试一次DC10的杂技检定。乘骑的人物必须尝试一次DC10的骑术检定。失败的人物会被摔绊，并必须在1d2×5呎后停止移动。失败结果为5或更差的人物会倒地在结束移动的方格里。一面陡坡会让杂技检定的DC增加2。<\/p>"
 }

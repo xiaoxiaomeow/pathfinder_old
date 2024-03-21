@@ -1,36 +1,27 @@
 {
     "key": "fly",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fly/",
     "name": "Fly",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fly",
+    "source": ["PRPG Core Rulebook pg. 284"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "bloodrager": 3,
+        "investigator": 3,
         "magus": 3,
         "medium": 3,
         "occultist": 3,
         "psychic": 3,
+        "redmantisassassin": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
+        "sorcerer": 3,
         "spiritualist": 3,
-        "summoner/unchained summoner": 3,
-        "witch": 3
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "witch": 3,
+        "wizard": 3
     },
-    "domains":     {
-        "travel": 3,
-        "void": 3
-    },
-    "subdomains":     {
-        "azata": 3,
-        "feather": 3
-    },
-    "elementalSchools": {"air": 3},
-    "bloodlines":     {
-        "djinni": 3,
-        "draconic": 3
-    },
-    "mysteries": {"dragon": 3},
     "castingTime": "1 standard action",
     "components": "V, S, F (a wing feather)",
     "range": "touch",
@@ -38,8 +29,9 @@
     "duration": "1 min./level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject can fly at a speed of 60 feet (or 40 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good.<\/p><p>Using a <i>fly<\/i> spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a <i>fly<\/i> spell can charge but not run, and it cannot carry aloft more weight than its maximum load, plus any armor it wears. The subject gains a bonus on Fly skill checks equal to 1/2 your caster level.<\/p><p>Should the spell duration expire while the subject is still aloft, the magic fails slowly. The subject floats downward 60 feet per round for 1d6 rounds. If it reaches the ground in that amount of time, it lands safely. If not, it falls the rest of the distance, taking 1d6 points of damage per 10 feet of fall. Since dispelling a spell effectively ends it, the subject also descends safely in this way if the <i>fly<\/i> spell is dispelled, but not if it is negated by an antimagic field.<\/p><p>See Falling Damage if something bad happens!<\/p>",
-    "mythicText": "The fly speed changes to 120 feet (or 80 feet if the target is wearing medium or heavy armor, or carrying a medium or heavy load) with perfect maneuverability. When the duration expires, the target is protected by feather fall for a number of rounds equal to your caster level. ",
+    "text": "The subject can fly at a speed of 60 feet (or 40 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good. Using a <i>fly<\/i> spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a <i>fly<\/i> spell can charge but not run, and it cannot carry aloft more weight than its maximum load, plus any armor it wears. The subject gains a bonus on Fly skill checks equal to 1/2 your caster level.<br><br>Should the spell duration expire while the subject is still aloft, the magic fails slowly. The subject floats downward 60 feet per round for 1d6 rounds. If it reaches the ground in that amount of time, it lands safely. If not, it falls the rest of the distance, taking 1d6 points of damage per 10 feet of fall. Since dispelling a spell effectively ends it, the subject also descends safely in this way if the <i>fly<\/i> spell is dispelled, but not if it is negated by an <i>antimagic field<\/i>.<h2 class=\"title\">Mythic Fly<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 95<\/i><br>The fly speed changes to 120 feet (or 80 feet if the target is wearing medium or heavy armor, or carrying a medium or heavy load) with perfect maneuverability. When the duration expires, the target is protected by <i>feather fall<\/i> for a number of rounds equal to your caster level. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the target adds your tier on Reflex saves and as a dodge bonus to AC. It gains these bonuses only while flying. ",
+    "mythicSource": ["Mythic Adventures pg. 95"],
+    "mythicText": "The fly speed changes to 120 feet (or 80 feet if the target is wearing medium or heavy armor, or carrying a medium or heavy load) with perfect maneuverability. When the duration expires, the target is protected by <i>feather fall<\/i> for a number of rounds equal to your caster level. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the target adds your tier on Reflex saves and as a dodge bonus to AC. It gains these bonuses only while flying. ",
     "name_zh": "飞行术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材 (翅膀羽毛)",
@@ -48,6 +40,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>受术者能以60尺的速度飞行 (如果他穿戴中型或重型护甲，或者负重达到中载或重载，那么速度为40尺)。他能以半速上升，也能以倍速下降，他的飞行机动性为良好。使用飞行术所需要的专注力就好像和在地面上行走一样，因此受术者可以正常地攻击或施法。飞行术的受术者可以冲锋但不能奔跑，他的携带重量也不能超过它最大负重，加上其穿戴的所有护甲。受术者的飞行技能检定会获得相当于你的CL一半的加值。<\/p><p>如果法术持续时间结束时受术者还在空中，这个魔法会缓慢的结束掉。受术者会以每轮60尺的速度漂浮着下降1d6轮。如果在此期间内他接触到了地面，那么他将安全着陆。如果没有，他会从剩余的高度处跌落，受到每10尺坠落距离1d6点伤害。由于解除一个魔法实际上就是结束它，因此如果飞行术被解除掉，受术者依然能以这种方式下降。但是如果是被‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’所抵消就不能这样飘落。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者能以60尺的速度飞行 (如果他穿戴中型或重型护甲，或者负重达到中载或重载，那么速度为40尺)。他能以半速上升，也能以倍速下降，他的飞行机动性为良好。使用飞行术所需要的专注力就好像和在地面上行走一样，因此受术者可以正常地攻击或施法。飞行术的受术者可以冲锋但不能奔跑，他的携带重量也不能超过它最大负重，加上其穿戴的所有护甲。受术者的飞行技能检定会获得相当于你的CL一半的加值。<\/p><p>如果法术持续时间结束时受术者还在空中，这个魔法会缓慢的结束掉。受术者会以每轮60尺的速度漂浮着下降1d6轮。如果在此期间内他接触到了地面，那么他将安全着陆。如果没有，他会从剩余的高度处跌落，受到每10尺坠落距离1d6点伤害。由于解除一个魔法实际上就是结束它，因此如果飞行术被解除掉，受术者依然能以这种方式下降。但是如果是被‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’所抵消就不能这样飘落。<\/p>"
 }

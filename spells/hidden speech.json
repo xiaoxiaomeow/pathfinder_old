@@ -1,8 +1,8 @@
 {
     "key": "hidden speech",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-speech/",
     "name": "Hidden Speech",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hidden%20Speech",
+    "source": ["Advanced Player's Guide pg. 227"],
     "school": "transmutation",
     "descriptors": ["language-dependent"],
     "levels":     {
@@ -11,23 +11,24 @@
         "medium": 2,
         "mesmerist": 2,
         "psychic": 2,
+        "skald": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a cipher written on a piece of parchment)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "10 min.s/level (d)",
-    "savingThrow": "Will negates (harmless) <b>Spell Resistance<\/b> yes",
+    "target": "you plus one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "10 minutes/level (D)",
+    "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>You greatly enhance the ability of the subjects to communicate hidden messages to each other. Each target gains a +10 competence bonus on Bluff checks to send secret messages to other recipients. Others using opposed Sense Motive checks to decipher these messages receive a -5 penalty. All subjects affected by the spell must share a language to be able to pass messages.<\/p>",
+    "text": "You greatly enhance the ability of the subjects to communicate hidden messages to each other. Each target gains a +10 competence bonus on Bluff checks to send secret message to other recipients. Others using opposed Sense Motive checks to decipher these messages receive a –5 penalty. All subjects affected by the spell must share a language to be able to pass messages.",
     "name_zh": "隐秘传信",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一张写有密码的羊皮纸)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "自己，加上一个生物/每等级，互相之间不得超过30尺",
     "duration_zh": "10分钟/等级 (可解消)",
-    "savingThrow_zh": "意志，通过则无效 (无害)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你们互相之间传递暗号的能力得到大大提升。每个目标在给彼此传递暗号的唬骗检定中获得+10表现加值。而其他人试图使用察言观色检定解读你们传递的暗号时，察言观色检定获得-5减值。受该法术影响的所有目标必须共用一种语言用以沟通。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你们互相之间传递暗号的能力得到大大提升。每个目标在给彼此传递暗号的唬骗检定中获得+10表现加值。而其他人试图使用察言观色检定解读你们传递的暗号时，察言观色检定获得-5减值。受该法术影响的所有目标必须共用一种语言用以沟通。<\/p>"
 }

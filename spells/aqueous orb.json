@@ -1,20 +1,22 @@
 {
     "key": "aqueous orb",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aqueous-orb/",
     "name": "Aqueous Orb",
-    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aqueous%20Orb",
+    "source": ["Advanced Player's Guide pg. 202"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["water"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
-        "sorcerer/wizard": 3,
-        "summoner/unchained summoner": 3
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
     },
-    "elementalSchools": {"water": 3},
-    "bloodlines": {"aquatic": 3},
     "castingTime": "1 standard action",
     "components": "V, S, M (a drop of water and a glass bead)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -22,15 +24,14 @@
     "duration": "1 round/level",
     "savingThrow": "Reflex negates",
     "spellResistance": "no",
-    "text": "<p>You create a rolling sphere of churning water that can engulf those it strikes. The aqueous orb can move up to 30 feet per round, rolling over barriers less than 10 feet tall. It automatically quenches any non-magical fires and functions as <i>dispel magic<\/i> against magical fires as long as those fires are size Large or less.<\/p><p>Any creature in the path of the aqueous orb takes 2d6 points of nonlethal damage. A successful Reflex save negates this damage, but a Large or smaller creature that fails its save must make a second save or be engulfed by the aqueous orb and carried along with it. Engulfed creatures are immersed in water and must hold their breath unless capable of breathing water. They gain cover against attacks from outside the aqueous orb but are considered entangled by its churning currents, takes 2d6 points of nonlethal damage at the beginning of their turn each round they remain trapped. Creatures within the orb may attempt a new Reflex save each round to escape into a random square adjacent to the aqueous orb. The orb may hold one Large creature, 4 Medium, or 16 Small or smaller creatures within it.<\/p><p>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and churns in place. An aqueous orb stops if it moves outside the spell's range.<\/p>",
+    "text": "You create a rolling sphere of churning water that can engulf those it strikes. The aqueous orb can move up to 30 feet per round, rolling over barriers less than 10 feet tall. It automatically quenches any nonmagical fires and functions as <i>dispel magic <\/i>against magical fires as long as those fires are size Large or less.<br><br>Any creature in the path of the <i>aqueous orb <\/i>takes 2d6 points of nonlethal damage. A successful Reflex save negates this damage, but a Large or smaller creature that fails its save must make a second save or be engulfed by the <i>aqueous orb <\/i>and carried along with it. Engulfed creatures are immersed in water and must hold their breath unless capable of breathing water. They gain cover against attacks from outside the <i>aqueous orb <\/i>but are considered entangled by its churning currents, takes 2d6 points of nonlethal damage at the beginning of their turn each round they remain trapped. Creatures within the orb may attempt a new Reflex save each round to escape into a random square adjacent to the aqueous orb. The orb may hold one Large creature, 4 Medium, or 16 Small or smaller creatures within it.<br><br>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and churns in place. An <i>aqueous orb <\/i>stops if it moves outside the spell’s range.",
     "name_zh": "水牢法球",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一滴水和一颗小玻璃珠)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "直径十尺的球体",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "反射, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造了一个内部有水翻腾的球体，它吞没了自身所攻击的敌人。水牢法球每轮可以移动30尺，也可以滚过小于10尺的障碍。它会自动熄灭所有非魔法火焰，并且对大型一下的魔法火焰有解除魔法的功效。<\/p><p>在水牢法球路径中的生物会受到2d6点非致命伤害，反射豁免成功则可以避免这些伤害，大型或更小的生物如果豁免失败则必须进行第二次豁免，第二次失败意味着会被水牢法球吞没带走。被吞没的生物会浸在水中，如果不能在水中呼吸就必须屏息。他们对来自水牢法球之外的攻击具有掩蔽效果，但是会被翻腾的水流纠缠，只要还困在水牢法球之中，每到他们的回合就会受到2d6点非致命伤害。水牢法球中的生物每轮可以重新进行一次反射豁免以跳进随机一个周围的格子。水牢法球可以困住1个大型生物，4个中型生物或16个小型或更小的生物。<\/p><p>你可以用移动动作控制法球的移动，不然它就只会停留在原地。水牢法球如果移出法术范围就会停止 (stop)。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你创造了一个内部有水翻腾的球体，它吞没了自身所攻击的敌人。水牢法球每轮可以移动30尺，也可以滚过小于10尺的障碍。它会自动熄灭所有非魔法火焰，并且对大型一下的魔法火焰有解除魔法的功效。<\/p><p>在水牢法球路径中的生物会受到2d6点非致命伤害，反射豁免成功则可以避免这些伤害，大型或更小的生物如果豁免失败则必须进行第二次豁免，第二次失败意味着会被水牢法球吞没带走。被吞没的生物会浸在水中，如果不能在水中呼吸就必须屏息。他们对来自水牢法球之外的攻击具有掩蔽效果，但是会被翻腾的水流纠缠，只要还困在水牢法球之中，每到他们的回合就会受到2d6点非致命伤害。水牢法球中的生物每轮可以重新进行一次反射豁免以跳进随机一个周围的格子。水牢法球可以困住1个大型生物，4个中型生物或16个小型或更小的生物。<\/p><p>你可以用移动动作控制法球的移动，不然它就只会停留在原地。水牢法球如果移出法术范围就会停止 (stop)。<\/p>"
 }

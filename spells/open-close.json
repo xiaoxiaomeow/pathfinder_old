@@ -1,15 +1,23 @@
 {
     "key": "open-close",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/open-close/",
-    "name": "Open-Close",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "name": "Open/Close",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Open/Close",
+    "source": ["PRPG Core Rulebook pg. 317"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 0,
         "bard": 0,
         "magus": 0,
+        "medium": 0,
+        "mesmerist": 0,
+        "occultist": 0,
         "psychic": 0,
-        "sorcerer/wizard": 0,
-        "summoner/unchained summoner": 0
+        "skald": 0,
+        "sorcerer": 0,
+        "spiritualist": 0,
+        "summoner": 0,
+        "summoner (unchained)": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a brass key)",
@@ -18,15 +26,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You can open or close (your choice) a door, chest, box, window, bag, pouch, bottle, barrel, or other container. If anything resists this activity (such as a bar on a door or a lock on a chest), the spell fails. In addition, the spell can only open and close things weighing 30 pounds or less. Thus, doors, chests, and similar objects sized for enormous creatures may be beyond this spell's ability to affect.<\/p>",
+    "text": "You can open or close (your choice) a door, chest, box, window, bag, pouch, bottle, barrel, or other container. If anything resists this activity (such as a bar on a door or a lock on a chest), the spell fails. In addition, the spell can only open and close things weighing 30 pounds or less. Thus, doors, chests, and similar objects sized for enormous creatures may be beyond this spell's ability to affect.",
     "name_zh": "开关术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材 (一把黄铜钥匙)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "至多重达30磅的物体, 或者能够被开启或关闭的门户",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>你可以开或关 (由你选择) 门、箱子、盒子、窗户、袋子、瓶子或其他容器。如果任何东西阻碍了开、关动作 (例如门上的门闩或箱子上的锁)，此法术就会失败。另外，此法术只能开关重量轻于30磅的东西。因此，为身形巨大生物而设计的门、箱子或类似的物品将超出法术的能力范围。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以开或关 (由你选择) 门、箱子、盒子、窗户、袋子、瓶子或其他容器。如果任何东西阻碍了开、关动作 (例如门上的门闩或箱子上的锁)，此法术就会失败。另外，此法术只能开关重量轻于30磅的东西。因此，为身形巨大生物而设计的门、箱子或类似的物品将超出法术的能力范围。<\/p>"
 }

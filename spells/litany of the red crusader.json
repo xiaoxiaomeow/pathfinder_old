@@ -1,8 +1,8 @@
 {
     "key": "litany of the red crusader",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-the-red-crusader/",
     "name": "Litany of the Red Crusader",
-    "book": "Pathfinder Adventure Path #140: Eulogy for Roslar's Coffer © 2019, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20the%20Red%20Crusader",
+    "source": ["Pathfinder #140: Eulogy for Roslar's Coffer pg. 72"],
     "school": "necromancy",
     "levels":     {
         "antipaladin": 1,
@@ -14,17 +14,16 @@
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
     "duration": "1 round",
-    "savingThrow": "Fort negates",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>Followers of Arazni have made use of this litany since her days as a crusader and herald. Each time the target creature takes piercing or slashing damage, it takes 1 point of bleed damage; this bleed damage stacks with itself. While subject to this spell, the target cannot be the target of another spell that has the word “litany” in the title.<\/p>",
+    "text": "Followers of Arazni have made use of this litany since her days as a crusader and herald. Each time the target creature takes piercing or slashing damage, it takes 1 point of bleed damage; this bleed damage stacks with itself. While subject to this spell, the target cannot be the target of another spell that has the word “litany” in the title.",
     "name_zh": "鲜红十字军祷言",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮",
-    "savingThrow_zh": "强韧，通过则无效",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>阿拉兹妮的信徒从她仍是十字军与神使时就在使用这句祷言。每次目标生物受到穿刺或挥砍伤害时，它都会受到1点流血伤害；此流血伤害与自身叠加。成为此法术的目标时，将不能成为名称中拥有「祷言（Litany）」的其他法术之目标。<\/p>",
-    "source": "AP-TG"
+    "text_zh": "<p>阿拉兹妮的信徒从她仍是十字军与神使时就在使用这句祷言。每次目标生物受到穿刺或挥砍伤害时，它都会受到1点流血伤害；此流血伤害与自身叠加。成为此法术的目标时，将不能成为名称中拥有「祷言（Litany）」的其他法术之目标。<\/p>"
 }

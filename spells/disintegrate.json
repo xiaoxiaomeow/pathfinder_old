@@ -1,18 +1,18 @@
 {
     "key": "disintegrate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disintegrate/",
     "name": "Disintegrate",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Disintegrate",
+    "source": ["PRPG Core Rulebook pg. 271"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
+        "occultist": 6,
+        "psychic": 6,
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "wizard": 6
     },
-    "domains": {"destruction": 7},
-    "subdomains": {"ash": 7},
-    "elementalSchools": {"metal": 6},
-    "bloodlines": {"div": 6},
-    "mysteries": {"time": 7},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a lodestone and a pinch of dust)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -20,16 +20,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial (object)",
     "spellResistance": "yes",
-    "text": "<p class=\"description\">A thin, green ray springs from your pointing finger.<\/p><p>You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.<\/p><p>When used against an object, the ray simply disintegrates as much as a 10-foot cube of nonliving matter. Thus, the spell disintegrates only part of any very large object or structure targeted. The ray affects even objects constructed entirely of force, such as <i>forceful hand<\/i> or a <i>wall of force<\/i>, but not magical effects such as a <i>globe of invulnerability<\/i> or an antimagic field.<\/p><p>A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated.<\/p><p>Only the first creature or object struck can be affected; that is, the ray affects only one target per casting.<\/p>",
-    "mythicText": "The damage dealt increases to 3d6 points of damage per caster level (maximum 60d6) plus 1d4 points of Constitution damage. <br>A creature that succeeds at its saving throw takes 5d8 points of damage plus 1 point of Constitution damage. <br>A creature whose Constitution score is reduced to 0 by this spell is entirely disintegrated. <br><p style=\"margin-left: 20px\"><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you fire two rays. Alternatively, you may fire only one ray, but if the target is a non-mythic creature and it fails its saving throw, it's automatically disintegrated regardless of its current hp. ",
+    "text": "A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is unaffected.<br><br>When used against an object, the ray simply disintegrates as much as a 10-foot cube of nonliving matter. Thus, the spell disintegrates only part of any very large object or structure targeted. The ray affects even objects constructed entirely of force, such as <i>forceful hand<\/i> or a <i>wall of force<\/i>, but not magical effects such as a <i>globe of invulnerability<\/i> or an <i>antimagic field<\/i>.<br><br>A creature or object that makes a successful Fortitude save is partially affected, taking only 5d6 points of damage. If this damage reduces the creature or object to 0 or fewer hit points, it is entirely disintegrated.<br><br>Only the first creature or object struck can be affected; that is, the ray affects only one target per casting.<h2 class=\"title\">Mythic Disintegrate<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 91<\/i><br>The damage dealt increases to 3d6 points of damage per caster level (maximum 60d6) plus 1d4 points of Constitution damage.<br><br> A creature that succeeds at its saving throw takes 5d8 points of damage plus 1 point of Constitution damage. A creature whose Constitution score is reduced to 0 by this spell is entirely disintegrated.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you fire two rays. <br><br>Alternatively, you may fire only one ray, but if the target is a non-mythic creature and it fails its saving throw, it’s automatically disintegrated regardless of its current hp.",
+    "mythicSource": ["Mythic Adventures pg. 91"],
+    "mythicText": "The damage dealt increases to 3d6 points of damage per caster level (maximum 60d6) plus 1d4 points of Constitution damage.<br><br> A creature that succeeds at its saving throw takes 5d8 points of damage plus 1 point of Constitution damage. A creature whose Constitution score is reduced to 0 by this spell is entirely disintegrated.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you fire two rays. <br><br>Alternatively, you may fire only one ray, but if the target is a non-mythic creature and it fails its saving throw, it’s automatically disintegrated regardless of its current hp.",
     "name_zh": "解离术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (天然磁石与一撮灰尘)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "射线",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则部分生效 (物体)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一道细细的绿色射线从你指尖射出。你必须进行一次成功的远程接触攻击来命中目标。被击中的生物会受到每CL 2d6点伤害 (最高40d6)。HP被此射线降到0或更低则立即被完全分解，只留下一点微细的灰烬痕迹。被解离生物的装备不受影响。<\/p><p>当你用将该法术用于物体时，射线可解离至多10立方尺的非生命物质。因此，该法术只能解离庞大物体或建筑的一部分。该法术甚至对完全由力场构成的物体也有效，如‘<a href=\"spell.html?spell=forceful hand\">飞击掌 (forceful hand)<\/a>’或‘<a href=\"spell.html?spell=wall of force\">力墙术 (wall of force)<\/a>’，但对‘<a href=\"spell.html?spell=globe of invulnerability\">法术无效结界 (globe of invulnerability)<\/a>’或‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’之类的法术效果无效。<\/p><p>成功通过强韧检定的生物或物体只会受到部分影响，承受5d6点伤害。若它们的HP因此降到0或更低则立即被完全分解。<\/p><p>只有第一个被击中的生物或物体会被影响；也就是说，每次施法射线只对一个目标有效。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一道细细的绿色射线从你指尖射出。你必须进行一次成功的远程接触攻击来命中目标。被击中的生物会受到每CL 2d6点伤害 (最高40d6)。HP被此射线降到0或更低则立即被完全分解，只留下一点微细的灰烬痕迹。被解离生物的装备不受影响。<\/p><p>当你用将该法术用于物体时，射线可解离至多10立方尺的非生命物质。因此，该法术只能解离庞大物体或建筑的一部分。该法术甚至对完全由力场构成的物体也有效，如‘<a href=\"spell.html?spell=forceful hand\">飞击掌 (forceful hand)<\/a>’或‘<a href=\"spell.html?spell=wall of force\">力墙术 (wall of force)<\/a>’，但对‘<a href=\"spell.html?spell=globe of invulnerability\">法术无效结界 (globe of invulnerability)<\/a>’或‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’之类的法术效果无效。<\/p><p>成功通过强韧检定的生物或物体只会受到部分影响，承受5d6点伤害。若它们的HP因此降到0或更低则立即被完全分解。<\/p><p>只有第一个被击中的生物或物体会被影响；也就是说，每次施法射线只对一个目标有效。<\/p>"
 }

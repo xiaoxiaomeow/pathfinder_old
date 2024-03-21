@@ -1,23 +1,29 @@
 {
     "key": "imbue with addiction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/imbue-with-addiction/",
     "name": "Imbue With Addiction",
-    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Imbue%20With%20Addiction",
+    "source":     [
+        "Black Markets pg. 19",
+        "Magical Marketplace pg. 24"
+    ],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
-        "mesmerist": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "arcanist": 3,
+        "investigator": 2,
+        "sahirafiyun": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a dose of an addictive drug or substance)",
     "range": "touch",
     "target": "one living creature",
     "duration": "instantaneous",
-    "savingThrow": "Fort negates",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a –4 penalty on its saving throw.<\/p>",
+    "text": "The target immediately becomes addicted to the drug used as the material component during the casting of the spell. If the target was ever addicted to the drug at any point in the past, it takes a –4 penalty on its saving throw.",
     "name_zh": "瘾入骨髓",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一剂量的成瘾毒品或物质)",
@@ -25,8 +31,7 @@
     "effect_zh": ": 1小时后, 疲乏1d2小时",
     "target_zh": "一个活物",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则无效",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标在该法术的施法过程中，立刻变得对用作施法材料的毒品成瘾。\n如果目标在过去任何时候，曾对该毒品上瘾过，那他在豁免检定上获得-4减值。\n仙人掌粹(PESH)\n有关药物和成瘾的详细信息，请参阅Pathfinder RPG GameMastery指南的第236-237页。强化成分以及卡塔佩什毒药工艺的非法艺术可以在玩家伴侣：鍊金术手册中找到。\n仙人掌萃 (Pesh)\n类型: 吸入或摄取; 成瘾性: 中度; 豁免: 强韧DC 20\n价格: 15gp\n立即效果: 1小时; +1d2力量炼金加值\n对抗幻术系和影响心灵效果的豁免-2炼金加值\n效果: 1小时后, 疲乏1d2小时\n伤害: 1d2体质与1d2感知伤害\n强化成份\n剂量：1（价格15GP）；可增强法术：惑控系法术\n效果：在决定法术的持续时间时施法者等级+1。<\/p>",
-    "source": "PC-BM"
+    "text_zh": "<p>目标在该法术的施法过程中，立刻变得对用作施法材料的毒品成瘾。<\/p><p>如果目标在过去任何时候，曾对该毒品上瘾过，那他在豁免检定上获得-4减值。<\/p><p>仙人掌粹(PESH)<\/p><p>有关药物和成瘾的详细信息，请参阅Pathfinder RPG GameMastery指南的第236-237页。强化成分以及卡塔佩什毒药工艺的非法艺术可以在玩家伴侣：鍊金术手册中找到。<\/p><p>仙人掌萃 (Pesh)<\/p><p>类型: 吸入或摄取; 成瘾性: 中度; 豁免: 强韧DC 20<\/p><p>价格: 15gp<\/p><p>立即效果: 1小时; +1d2力量炼金加值<\/p><p>对抗幻术系和影响心灵效果的豁免-2炼金加值<\/p><p>效果: 1小时后, 疲乏1d2小时<\/p><p>伤害: 1d2体质与1d2感知伤害<\/p><p>强化成份<\/p><p>剂量：1（价格15GP）；可增强法术：惑控系法术<\/p><p>效果：在决定法术的持续时间时施法者等级+1。<\/p>"
 }

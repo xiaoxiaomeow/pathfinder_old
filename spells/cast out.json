@@ -1,17 +1,22 @@
 {
     "key": "cast out",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cast-out/",
     "name": "Cast Out",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cast%20Out",
+    "source": ["Advanced Player's Guide pg. 210"],
     "school": "abjuration",
-    "levels": {"inquisitor": 3},
+    "levels":     {
+        "inquisitor": 3,
+        "medium": 2,
+        "psychic": 4
+    },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
+    "target": "creature touched",
     "duration": "instantaneous",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>With a melee touch attack you blast a single creature and disrupt any magic controlling it. The target takes 2d8 points of damage + 1 point per caster level (maximum +15). In addition, you make a dispel check against any <i>magic jar<\/i> effect (including a ghost&#8216;s malevolence ability) or enchantment (compulsion) spells on the target creature, starting with the highest level spells and proceeding to lower level spells. Treat this as a targeted <i>dispel magic<\/i> spell, except <i>cast out<\/i> can dispel one such spell for every four caster levels you possess. A successful Will save halves the damage and limits the dispelling to a single spell or effect.<\/p>",
+    "text": "With a melee touch attack you blast a single creature and disrupt any magic controlling it. The target takes 2d8 points of damage + 1 point per caster level (maximum +15). In addition, you make a dispel check against any <i>magic jar <\/i>effect (including a ghost’s malevolence ability) or enchantment (compulsion) spells on the target creature, starting with the highest level spells and proceeding to lower level spells. Treat this as a targeted <i>dispel magic <\/i>spell, except <i>cast out <\/i>can dispel one such spell for every four caster levels you possess. A successful Will save halves the damage and limits the dispelling to a single spell or effect.",
     "name_zh": "祓除",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -20,6 +25,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>随着一次近战接触攻击，你让目标生物发生爆炸，并且破坏它身上的任何魔法控制效果。目标受到2d8加上每施法者等级1点伤害 (最多15)。此外，你可以对目标身上任何魔魂壶效果 (或幽灵的附身能力) 或任何惑控 (胁迫) 法术进行一次解除检定，从最高级别法术开始逐级向下。<\/p><p>它如同一次以该生物为目标的解除魔法法术，但是与解除魔法不同，你每4个施法者等级能多解除一个魔法效果。一个成功的意志检定可以减半伤害，并且让该法术只能解除一个单一的法术或效果。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>随着一次近战接触攻击，你让目标生物发生爆炸，并且破坏它身上的任何魔法控制效果。目标受到2d8加上每施法者等级1点伤害 (最多15)。此外，你可以对目标身上任何魔魂壶效果 (或幽灵的附身能力) 或任何惑控 (胁迫) 法术进行一次解除检定，从最高级别法术开始逐级向下。<\/p><p>它如同一次以该生物为目标的解除魔法法术，但是与解除魔法不同，你每4个施法者等级能多解除一个魔法效果。一个成功的意志检定可以减半伤害，并且让该法术只能解除一个单一的法术或效果。<\/p>"
 }

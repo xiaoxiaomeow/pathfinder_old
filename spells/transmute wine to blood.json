@@ -1,13 +1,18 @@
 {
     "key": "transmute wine to blood",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-wine-to-blood/",
     "name": "Transmute Wine to Blood",
-    "book": "Pathfinder Player Companion: Blood of the Night © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transmute%20Wine%20to%20Blood",
+    "source": ["Blood of the Night pg. 30"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "arcanist": 2,
+        "cleric": 2,
+        "oracle": 2,
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (drop of animal blood)",
@@ -16,15 +21,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You transform one bottle of fine wine into 1 pint of animal blood, sufficient for a creature with the blood drain ability to feed upon as if it came from a Medium animal with 1 Hit Die. If you are using the optional hunger rules, this blood satiates an undead creature's hunger, negating any withdrawal effects, but does not grant the creature a feeding bonus. The blood coagulates and spoils at the normal rate.<\/p>",
+    "text": "You transform one bottle of fine wine into 1 pint of animal blood, sufficient for a creature with the blood drain ability to feed upon as if it came from a Medium animal with 1 Hit Die. If you are using the optional hunger rules (see page 22), this blood satiates an undead creature’s hunger, negating any withdrawal effects, but does not grant the creature a feeding bonus. The blood coagulates and spoils at the normal rate.",
     "name_zh": "化酒为血",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一瓶动物血液)",
     "range_zh": "接触",
     "target_zh": "一瓶至少价值10gp的葡萄酒",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则无效 (物体)",
-    "spellResistance_zh": "有 (物体)",
-    "text_zh": "<p>你将一瓶优质葡萄酒转化成一品脱的动物血液，足以喂饱一个有吸血(blood drain)能力的生物，这瓶血液如同来自一个1HD，中体型的动物。如果你使用了饥渴可选规则(见本书P.22)，这血能满足一个不死生物的饥渴，使任何戒断效果无效，但并不会给予生物进食加值。这血会以正常的速度凝固与腐败。<\/p>",
-    "source": "PC-BotN"
+    "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你将一瓶优质葡萄酒转化成一品脱的动物血液，足以喂饱一个有吸血(blood drain)能力的生物，这瓶血液如同来自一个1HD，中体型的动物。如果你使用了饥渴可选规则(见本书P.22)，这血能满足一个不死生物的饥渴，使任何戒断效果无效，但并不会给予生物进食加值。这血会以正常的速度凝固与腐败。<\/p>"
 }

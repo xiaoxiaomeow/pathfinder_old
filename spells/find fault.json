@@ -1,10 +1,11 @@
 {
     "key": "find fault",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/find-fault/",
     "name": "Find Fault",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20Fault",
+    "source": ["Arcane Anthology pg. 24"],
     "school": "divination",
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
         "bloodrager": 3,
         "inquisitor": 3,
@@ -13,24 +14,26 @@
         "oracle": 3,
         "psychic": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
-    "range": "medium (100 ft. plus 10 ft./level)",
+    "range": "medium (100 ft. + 10 ft./level)",
     "target": "1 creature",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You instantly learn many of the target's weaknesses, as if you had made an appropriate Knowledge skill check with a result equal to 20 + your caster level. Additionally, your first melee or ranged attack roll against the creature before the end of your next turn gains a +5 insight bonus. If the creature is polymorphed, disguised, or hidden by an illusion and you are not aware of it's true form, this spell fails as if the target has spell resistance you failed to penetrate (the GM may have you attempt a caster level check to conceal the true reason for the spell's failure).<\/p>",
+    "text": "You instantly learn many of the target’s weaknesses, as if you had made an appropriate Knowledge skill check with a result equal to 20 + your caster level. Additionally, your first melee or ranged attack roll against the creature before the end of your next turn gains a +5 insight bonus. If the creature is polymorphed, disguised, or hidden by an illusion and you are not aware of it’s true form, this spell fails as if the target has spell resistance you failed to penetrate (the GM may have you attempt a caster level check to conceal the true reason for the spell’s failure).",
     "name_zh": "寻找破绽",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "1个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你马上了解到目标的很多弱点，好像你已经做出了一个适当的知识技能检查，结果等于20 +你的施法者等级。此外，在你下一次回合结束前，你对该生物的第一次近战或远程攻击投骰获得+5的洞察加值。如果生物变形，易容，或者被幻术隐藏起来，你并不知道他的真实形态，这种法术就会失败，如同你没能穿透目标的法术抗力（GM可能会让你尝试一次施法者等级检定来掩盖法术失败的真正原因）。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你马上了解到目标的很多弱点，好像你已经做出了一个适当的知识技能检查，结果等于20 +你的施法者等级。此外，在你下一次回合结束前，你对该生物的第一次近战或远程攻击投骰获得+5的洞察加值。如果生物变形，易容，或者被幻术隐藏起来，你并不知道他的真实形态，这种法术就会失败，如同你没能穿透目标的法术抗力（GM可能会让你尝试一次施法者等级检定来掩盖法术失败的真正原因）。<\/p>"
 }

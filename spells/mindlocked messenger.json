@@ -1,23 +1,26 @@
 {
     "key": "mindlocked messenger",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mindlocked-messenger/",
     "name": "Mindlocked Messenger",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mindlocked%20Messenger",
+    "source": ["Advanced Class Guide pg. 187"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "language-dependent",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
         "mesmerist": 2,
         "psychic": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
+        "skald": 2,
+        "sorcerer": 3,
         "spiritualist": 3,
-        "witch": 3
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "10 minutes",
     "components": "V, S",
@@ -26,15 +29,14 @@
     "duration": "permanent until discharged (see text)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You speak a short message (up to 10 words per caster level), implanting both it and the identity of the message's intended recipient in the mind of a willing creature. The creature is aware of the message and who the recipient is. Any attempt to speak, write, or otherwise communicate the message to anyone other than its intended recipient causes the target to forget the message for 1d6 minutes. Attempts to read the target's mind (such as with detect thoughts) or to force the target to reveal the message (such as with torture or magical compulsion) likewise cause temporary amnesia regarding the message.<\/p><p>The target can communicate the message only to someone it believes is the intended recipient, which means that disguises, illusions, and polymorph effects might fool the target into delivering the message. Once the target communicates the message, the message is permanently erased from the target's memory.<\/p>",
+    "text": "You speak a short message (up to 10 words per caster level), implanting both it and the identity of the message’s intended recipient in the mind of a willing creature. The creature is aware of the message and who the recipient is. Any attempt to speak, write, or otherwise communicate the message to anyone other than its intended recipient causes the target to forget the message for 1d6 minutes. Attempts to read the target’s mind (such as with <i>detect thoughts<\/i>) or to force the target to reveal the message (such as with torture or magical compulsion) likewise cause temporary amnesia regarding the message.<br><br> The target can communicate the message only to someone it believes is the intended recipient, which means that disguises, illusions, and polymorph effects might fool the target into delivering the message. Once the target communicates the message, the message is permanently erased from the target’s memory.",
     "name_zh": "心锁信使",
     "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个自愿的活物",
-    "duration_zh": "永久 直至 耗散（见后文）",
+    "duration_zh": "永久 直至 耗散; 见文本",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你说出一条简讯（至多每施法者等级10个字），并同时将简讯的预定接受者的身份以及简讯内容植入到自愿生物的意识中。该名生物能够知道简讯和简讯的接受者。任何对预定接受者之外的人说出、写出或者以其他方式表达简讯内容的尝试都会使信使在1d6分钟内忘记简讯的内容。诸如侦测思想（detect thoughts）之类的阅读目标精神的尝试，或者利用拷问或者魔法迫使目标泄露简讯的尝试，都会基于同样的原因让信使短暂忘记简讯的内容。\n目标仅能对自己认为是预定接受者的某人说出简讯的内容，这意味着易容（disguises）、幻术（illusions）以及变形（polymorph）效果都可以愚弄目标，让他传达简讯。一旦目标将简讯传达完毕，那么简讯的内容就会永久从目标的记忆中消除。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你说出一条简讯（至多每施法者等级10个字），并同时将简讯的预定接受者的身份以及简讯内容植入到自愿生物的意识中。该名生物能够知道简讯和简讯的接受者。任何对预定接受者之外的人说出、写出或者以其他方式表达简讯内容的尝试都会使信使在1d6分钟内忘记简讯的内容。诸如侦测思想（detect thoughts）之类的阅读目标精神的尝试，或者利用拷问或者魔法迫使目标泄露简讯的尝试，都会基于同样的原因让信使短暂忘记简讯的内容。<\/p><p>目标仅能对自己认为是预定接受者的某人说出简讯的内容，这意味着易容（disguises）、幻术（illusions）以及变形（polymorph）效果都可以愚弄目标，让他传达简讯。一旦目标将简讯传达完毕，那么简讯的内容就会永久从目标的记忆中消除。<\/p>"
 }

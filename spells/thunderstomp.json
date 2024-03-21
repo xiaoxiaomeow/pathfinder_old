@@ -1,16 +1,19 @@
 {
     "key": "thunderstomp",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thunderstomp/",
     "name": "Thunderstomp",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thunderstomp",
+    "source": ["Advanced Class Guide pg. 196"],
     "school": "evocation",
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
         "magus": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use to trip a creature. Attempt the combat maneuver check to trip the target, but instead of your base attack bonus you can use your caster level, and instead of your Strength modifier you can use your spellcasting ability score modifier (Intelligence for magi and wizards; Wisdom for druids and rangers; Charisma for bloodragers and sorcerers). This does not provoke an attack of opportunity. This spell has no effect if you cannot reach the ground or floor, or if your target is not in contact with the ground or floor.<\/p>",
+    "text": "You stomp your foot or strike your weapon against the ground or floor, creating a ripple of power that you can use to trip a creature. Attempt the combat maneuver check to trip the target, but instead of your base attack bonus you can use your caster level, and instead of your Strength modifier you can use your spellcasting ability score modifier (Intelligence for magi and wizards; Wisdom for druids and rangers; Charisma for bloodragers and sorcerers). This does not provoke an attack of opportunity. This spell has no effect if you cannot reach the ground or floor, or if your target is not in contact with the ground or floor.",
     "name_zh": "雷霆重踏",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你用力跺脚或者使用武器击打地面，这会创造出能够用于摔绊一个生物的强大震波。尝试战技检定来摔绊目标，不过你能够使用自己的施法者等级来取代你的基本攻击加值，而且能够使用施法关键属性的调整值（对于魔战士和法师来说是智力；对于德鲁伊和游侠来说是感知；对于血脉狂怒者和术士来说是魅力）取代你的力量调整值。这不会引起藉机攻击。若果你无法碰到地板或地面、或者你的目标没有和地板或地面接触的话，该法术就不会产生效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你用力跺脚或者使用武器击打地面，这会创造出能够用于摔绊一个生物的强大震波。尝试战技检定来摔绊目标，不过你能够使用自己的施法者等级来取代你的基本攻击加值，而且能够使用施法关键属性的调整值（对于魔战士和法师来说是智力；对于德鲁伊和游侠来说是感知；对于血脉狂怒者和术士来说是魅力）取代你的力量调整值。这不会引起藉机攻击。若果你无法碰到地板或地面、或者你的目标没有和地板或地面接触的话，该法术就不会产生效果。<\/p>"
 }

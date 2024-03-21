@@ -1,12 +1,16 @@
 {
     "key": "finger of death",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/finger-of-death/",
     "name": "Finger of Death",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Finger%20of%20Death",
+    "source": ["PRPG Core Rulebook pg. 282"],
     "school": "necromancy",
     "descriptors": ["death"],
     "levels":     {
+        "arcanist": 7,
         "druid": 8,
-        "sorcerer/wizard": 7
+        "psychic": 7,
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -15,16 +19,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>This spell instantly delivers 10 points of damage per caster level. If the target's Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.<\/p>",
-    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>The damage dealt increases to 15 points of damage per caster level plus 1d8 points of Constitution damage. A creature that succeeds at its Saving Throw takes 3d8 points of damage + 1 point per caster level, takes 1d4 points of Constitution damage, and is staggered for 1 round. <br><\/div>",
+    "text": "This spell instantly delivers 10 points of damage per caster level. If the target's Fortitude saving throw succeeds, it instead takes 3d6 points of damage + 1 point per caster level. The subject might die from damage even if it succeeds on its saving throw.<h2 class=\"title\">Mythic Finger of Death<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 94<\/i><br>The damage dealt increases to 15 points of damage per caster level plus 1d8 points of Constitution damage. A creature that succeeds at its saving throw takes 3d8 points of damage + 1 point per caster level, takes 1d4 points of Constitution damage, and is staggered for 1 round. ",
+    "mythicSource": ["Mythic Adventures pg. 94"],
+    "mythicText": "The damage dealt increases to 15 points of damage per caster level plus 1d8 points of Constitution damage. A creature that succeeds at its saving throw takes 3d8 points of damage + 1 point per caster level, takes 1d4 points of Constitution damage, and is staggered for 1 round. ",
     "name_zh": "死亡一指",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会立即造成每CL 10点伤害。若目标的强韧豁免成功，则会将伤害降至 {3d6+CL}。即便受术者通过豁免检定，也可能由于法术的伤害而死亡。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会立即造成每CL 10点伤害。若目标的强韧豁免成功，则会将伤害降至 {3d6+CL}。即便受术者通过豁免检定，也可能由于法术的伤害而死亡。<\/p>"
 }

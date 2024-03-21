@@ -1,11 +1,13 @@
 {
     "key": "bowstaff",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bowstaff/",
     "name": "Bowstaff",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bowstaff",
+    "source": ["Ultimate Combat pg. 224"],
     "school": "transmutation",
     "levels":     {
+        "hunter": 1,
         "inquisitor": 1,
+        "occultist": 2,
         "paladin": 1,
         "ranger": 1
     },
@@ -13,18 +15,17 @@
     "components": "V",
     "range": "personal",
     "target": "one weapon (bow)",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p>The bow that is touched takes on the rigidity and toughness of forged steel, allowing it to be used as a melee weapon. The spell allows a shortbow to be used as a club or a longbow to be used as a quarterstaff, although the bow retains its normal hit points and hardness. The bow's enhancement bonus, if any, applies on melee attack and damage rolls. Additional weapon special weapon qualities also apply to melee attacks if such qualities can be added to a melee weapon.<\/p>",
+    "text": "The bow that is touched takes on the rigidity and toughness of forged steel, allowing it to be used as a melee weapon. The spell allows a shortbow to be used as a club or a longbow to be used as a quarterstaff, although the bow retains its normal hit points and hardness. The bow’s enhancement bonus, if any, applies on melee attack and damage rolls. Additional weapon special weapon qualities also apply to melee attacks if such qualities can be added to a melee weapon.",
     "name_zh": "弓杖",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "一件武器 (弓)",
     "duration_zh": "1轮/等级 (可解消)",
-    "savingThrow_zh": "意志，通过则无效 (无害，物体)",
-    "spellResistance_zh": "可 (无害，物体)",
-    "text_zh": "<p>你所接触的弓将获得钢铁的硬度和韧性，以使它可以被当做一把近战武器来使用。法术允许一把短弓被当做木棒，或是一把长弓可以被当做木棍来使用，同时弓仍然保持其本身的HP与硬度。<\/p><p>弓的增强加值 (如果有的话) 也将适用于近战攻击骰与伤害骰。如果弓的其他附魔可以在近战中生效，则也依然有效。<\/p>",
-    "source": "UC"
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>你所接触的弓将获得钢铁的硬度和韧性，以使它可以被当做一把近战武器来使用。法术允许一把短弓被当做木棒，或是一把长弓可以被当做木棍来使用，同时弓仍然保持其本身的HP与硬度。<\/p><p>弓的增强加值 (如果有的话) 也将适用于近战攻击骰与伤害骰。如果弓的其他附魔可以在近战中生效，则也依然有效。<\/p>"
 }

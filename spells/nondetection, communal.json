@@ -1,0 +1,28 @@
+{
+    "key": "nondetection, communal",
+    "name": "Nondetection, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nondetection,%20Communal",
+    "source": ["Ultimate Combat pg. 238"],
+    "school": "abjuration",
+    "levels":     {
+        "antipaladin": 4,
+        "arcanist": 4,
+        "mesmerist": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "sorcerer": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (diamond dust worth 25 gp per target)",
+    "range": "touch",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "This spell functions like <i>nondetection<\/i>, except you divide the duration in 1-hour increments among the creatures or objects touched. ",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)"
+}

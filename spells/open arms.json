@@ -1,18 +1,22 @@
 {
     "key": "open arms",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/open-arms/",
     "name": "Open Arms",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Open%20Arms",
+    "source": ["Arcane Anthology pg. 21"],
     "school": "transmutation",
-    "levels": {"sorcerer/wizard": 5},
+    "levels":     {
+        "arcanist": 5,
+        "sorcerer": 5,
+        "wizard": 5
+    },
     "castingTime": "1 immediate action",
     "components": "V, S, F (a magical or masterwork melee weapon)",
     "range": "touch",
     "target": "melee weapon touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You cast this spell in response to a specific cavalier's challenge, inquisitor's judgment, or smite (such as a paladin's smite evil) declared against you by an enemy creature. It can also be cast if a creature uses a spell that causes you to qualify as the creature's favored enemy when you normally wouldn't, such as instant enemy.<\/p><p>You imbue your weapon with a powerful ability to ward off attacks made against you by the creature that challenged you.<\/p><p>You gain a +5 insight bonus to your AC and CMD against the attacks of the initiating creature as long as you hold the weapon.<\/p><p>If you release the weapon for any reason, the spell ends. You can cast this spell only in response to one of the conditions listed above. The spell fails if you attempt to cast it when you were not subject to a challenge or similar effect since your last turn.<\/p>",
+    "text": "You cast this spell in response to a specific cavalier’s challenge (<i>Pathfinder Roleplaying Game: Advanced Player’s Guide<\/i> 32), inquisitor’s judgment (<i>Advanced Player’s Guide<\/i> 38), or smite (such as a paladin’s smite evil) declared against you by an enemy creature. It can also be cast if a creature uses a spell that causes you to qualify as the creature’s favored enemy when you normally wouldn’t, such as <i>instant enemy<\/i> (<i>Advanced Player’s Guide<\/i> 229).<br><br> You imbue your weapon with a powerful ability to ward off attacks made against you by the creature that challenged you. You gain a +5 insight bonus to your AC and CMD against the attacks of the initiating creature as long as you hold the weapon. If you release the weapon for any reason, the spell ends. You can cast this spell only in response to one of the conditions listed above. The spell fails if you attempt to cast it when you were not subject to a challenge or similar effect since your last turn.",
     "name_zh": "热烈欢迎",
     "castingTime_zh": "直觉动作",
     "components_zh": "言语，姿势，器材（一件魔法或精品近战武器）",
@@ -21,6 +25,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你施展此法术来回应一个敌对生物发起来对抗你的骑士挑战（Advanced Player’s Guide 32），审判者的审判能力（Advanced Player’s Guide 38），或制裁（例如圣武士的制裁邪恶）。如果一个生物使用法术来将你识别为宿敌，例如即刻仇敌（Advanced Player’s Guide 229），而你通常并不是他的宿敌，则你也可以施展此法术。你向武器中注入强大的能量，以抵御挑战你的生物对你发起的攻击。只要你持有武器，你就在AC和对抗初始生物的攻击的CMD上获得+5的洞察加值。如果你出于任何原因放开了武器，法术就会结束。你只能根据上面列出的其中一个条件来施放该法术。如果你尝试在上一回合后没有受到挑战或类似影响的情况下施放本法术，法术就会失败。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你施展此法术来回应一个敌对生物发起来对抗你的骑士挑战（Advanced Player’s Guide 32），审判者的审判能力（Advanced Player’s Guide 38），或制裁（例如圣武士的制裁邪恶）。如果一个生物使用法术来将你识别为宿敌，例如即刻仇敌（Advanced Player’s Guide 229），而你通常并不是他的宿敌，则你也可以施展此法术。你向武器中注入强大的能量，以抵御挑战你的生物对你发起的攻击。只要你持有武器，你就在AC和对抗初始生物的攻击的CMD上获得+5的洞察加值。如果你出于任何原因放开了武器，法术就会结束。你只能根据上面列出的其中一个条件来施放该法术。如果你尝试在上一回合后没有受到挑战或类似影响的情况下施放本法术，法术就会失败。<\/p>"
 }

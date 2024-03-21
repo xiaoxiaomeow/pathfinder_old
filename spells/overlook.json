@@ -1,0 +1,24 @@
+{
+    "key": "overlook",
+    "name": "Overlook",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Overlook",
+    "source": ["Inner Sea Races pg. 221"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "race": "Halfling",
+    "levels":     {
+        "bard": 3,
+        "skald": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "You enhance your natural ability to seem small and unimportant, causing those around you to overlook you. You gain a +20 bonus on Stealth checks, which doesn’t stack with bonuses from effects that actually make you sneakier, such as <i>invisibility<\/i> or <i>respectful quiet<\/i> (see below); you do not need cover or concealment to hide; and you can hide while you are being observed. If a creature fails to notice you because of this spell, that creature can still remember seeing a halfling pass by, but attach no importance to the memory. You do not gain these benefits against creatures that are immune to compulsions or mind-affecting effects, and spell resistance applies. If you take an actively aggressive or extremely conspicuous action, creatures automatically notice you, and you gain no further benefits against those creatures for the remainder of the spell’s duration.",
+    "race_zh": "Halfling",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级"
+}

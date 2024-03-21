@@ -1,28 +1,30 @@
 {
     "key": "nature's ravages",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-ravages/",
     "name": "Nature's Ravages",
-    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nature's%20Ravages",
+    "source": ["Dungeoneer's Handbook pg. 31"],
     "school": "necromancy",
     "levels":     {
         "cleric": 4,
+        "oracle": 4,
+        "warpriest": 4,
         "witch": 3
     },
-    "castingTime": "1 minute/hd of target",
+    "castingTime": "1 minute/HD of target",
     "components": "V, S, M/DF (dried maggots)",
-    "range": "close (25 ft. + 5 ft./level)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "corpse of creature whose total number of HD does not exceed your caster level",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You greatly speed up the decomposition process of a nearby corpse and warp the fibers of time that permeate it, aging the corpse an additional amount of time equal to up to 1 day per 2 caster levels (maximum 10 days at 20th level). This spell prompts all the natural effects of the intended decomposition period, including crumbled clothing, rotted or liquefied flesh, maggot infestations, and the infiltration of any surrounding vegetation.<\/p><p>In addition to hindering mundane autopsies and investigations, this spell may effectively prohibit the use of raise dead on the target, though more powerful magic such as resurrection or true resurrection may still work.<\/p>",
+    "text": "You greatly speed up the decomposition process of a nearby corpse and warp the fibers of time that permeate it, aging the corpse an additional amount of time equal to up to 1 day per 2 caster levels (maximum 10 days at 20th level). This spell prompts all the natural effects of the intended decomposition period, including crumbled clothing, rotted or liquefied flesh, maggot infestations, and the infiltration of any surrounding vegetation.<br><br>In addition to hindering mundane autopsies and investigations, this spell may effectively prohibit the use of raise dead on the target, though more powerful magic such as <i>resurrection <\/i>or <i>true resurrection <\/i>may still work.",
     "name_zh": "自然蹂躏",
-    "castingTime_zh": "1分钟/目标的生命骰",
+    "castingTime_zh": "目标每HD1分钟",
     "components_zh": "语言、姿势、材料/法器 (干燥的蛆)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "总生命骰数不高于你施法者等级的生物的尸体",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你大幅加速周遭尸体分解的进程，并扭曲纤维渗进身体内的时间，额外的腐朽尸体，至多等同1天/2等级(最长10天/20等)。此法术促进所有预期分解进程的自然效果，包含衣服破碎、腐烂或肌肉液化，活蛆横行，与周围植物的侵入。\n除了妨碍世俗的验尸工作与调查外，此法术能有效的禁止对该尸体使用死者复活，但更为强大的魔法，像是复生术(resurrection)或完全复生术(true resurrection)仍能起校。\n译注：原文的范围写近距 (25呎+5呎/等级)，疑为印刷错误，已更正为近距 (25呎+5呎/2等级)。<\/p>",
-    "source": "PC-DungH"
+    "text_zh": "<p>你大幅加速周遭尸体分解的进程，并扭曲纤维渗进身体内的时间，额外的腐朽尸体，至多等同1天/2等级(最长10天/20等)。此法术促进所有预期分解进程的自然效果，包含衣服破碎、腐烂或肌肉液化，活蛆横行，与周围植物的侵入。<\/p><p>除了妨碍世俗的验尸工作与调查外，此法术能有效的禁止对该尸体使用死者复活，但更为强大的魔法，像是复生术(resurrection)或完全复生术(true resurrection)仍能起校。<\/p><p>译注：原文的范围写近距 (25呎+5呎/等级)，疑为印刷错误，已更正为近距 (25呎+5呎/2等级)。<\/p>"
 }

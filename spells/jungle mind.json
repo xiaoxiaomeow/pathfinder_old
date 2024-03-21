@@ -1,12 +1,13 @@
 {
     "key": "jungle mind",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/j/jungle-mind/",
     "name": "Jungle Mind",
-    "book": "Pathfinder Player Companion: Faiths &amp; Philosophies © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jungle%20Mind",
+    "source": ["Faiths and Philosophies pg. 28"],
     "school": "divination",
-    "subSchool": ["scrying"],
+    "subSchools": ["scrying"],
     "levels":     {
         "druid": 5,
+        "hunter": 4,
         "oracle": 5,
         "ranger": 4
     },
@@ -14,18 +15,17 @@
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "no",
-    "text": "<p>You merge your mind into the jungle's social hierarchy, mystically establishing yourself as a master of wild beasts and an apex predator. You attain knowledge about the general animal population in a radius of 1 mile as commune with nature, and you then select one type of animal (such as birds, cats, snakes, or fish). For the duration of the spell, you can sense the location, movement, and size of creatures of this type in the area, though you can't discern species or individual identity. In addition, you improve the starting attitude of animals of the chosen type by one step for the duration of the spell.<\/p><p>As a full-round action, you may focus on a single animal that you can sense with this spell to establish a mental link.<\/p><p>You can read the animal's surface thoughts as detect thoughts, and can see, hear, and smell what the animal is experiencing using your own Perception skill. If you target another creature's animal companion, the spell ends if the animal succeeds at a Will save. Using this ability reduces the spell's remaining duration to 1 round/level, and the selected animal is treated as the scrying sensor.<\/p><p>Despite the name, jungle mind functions within any terrain.<\/p>",
+    "text": "You merge your mind into the jungle’s social hierarchy, mystically establishing yourself as a master of wild beasts and an apex predator. You attain knowledge about the general animal population in a radius of 1 mile as <i>commune with nature<\/i>, and you then select one type of animal (such as birds, cats, snakes, or fish). For the duration of the spell, you can sense the location, movement, and size of creatures of this type in the area, though you can’t discern species or individual identity. In addition, you improve the starting attitude of animals of the chosen type by one step for the duration of the spell.<br><br>As a full-round action, you may focus on a single animal that you can sense with this spell to establish a mental link. You can read the animal’s surface thoughts as <i>detect thoughts<\/i>, and can see, hear, and smell what the animal is experiencing using your own Perception skill. If you target another creature’s animal companion, the spell ends if the animal succeeds at a Will save. Using this ability reduces the spell’s remaining duration to 1 round/level, and the selected animal is treated as the scrying sensor.<br><br>Despite the name, <i>jungle mind <\/i>functions within any terrain.",
     "name_zh": "丛林之心",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "意志，通过则无效 (见下)",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你让你的思维与丛林的社会阶级融为一体，神秘的让自己成为野兽与顶层掠食者的主人。你获得半径1哩内的动物总数，如同问道自然(commune with nature)，并且你之后可以选择一种动物(像是鸟、猫、蛇或鱼)。在法术持续时间内，你可以感知此区域内，这种动物的位置、移动与体型，但你不能感知物种或个体的特性。此外，在法术的持续时间内，你改善你所选择动物的种类的起始态度，向上一阶。\n以一个整轮动作，你能专注于透过此法术能感知道的一个动物，来建立心灵连接。你能够阅读该生物的表层思维，如同侦测思想(detect thoughts)，并且可以看见、听见与嗅道该名动物正在经历的东西，使用你自己的察觉技能。如果你瞄准另一位生物的动物伙伴，如果该名动物成功一次意志豁免，则此法术结束。使用此能力会减少法术剩余的持续时间1轮/等级，并且被拣选的动物被视为探知侦测器(scrying sensor)。\n尽管名字是这样，丛林之心可以用在任何地形上。<\/p>",
-    "source": "PC-FP"
+    "text_zh": "<p>你让你的思维与丛林的社会阶级融为一体，神秘的让自己成为野兽与顶层掠食者的主人。你获得半径1哩内的动物总数，如同问道自然(commune with nature)，并且你之后可以选择一种动物(像是鸟、猫、蛇或鱼)。在法术持续时间内，你可以感知此区域内，这种动物的位置、移动与体型，但你不能感知物种或个体的特性。此外，在法术的持续时间内，你改善你所选择动物的种类的起始态度，向上一阶。<\/p><p>以一个整轮动作，你能专注于透过此法术能感知道的一个动物，来建立心灵连接。你能够阅读该生物的表层思维，如同侦测思想(detect thoughts)，并且可以看见、听见与嗅道该名动物正在经历的东西，使用你自己的察觉技能。如果你瞄准另一位生物的动物伙伴，如果该名动物成功一次意志豁免，则此法术结束。使用此能力会减少法术剩余的持续时间1轮/等级，并且被拣选的动物被视为探知侦测器(scrying sensor)。<\/p><p>尽管名字是这样，丛林之心可以用在任何地形上。<\/p>"
 }

@@ -1,29 +1,27 @@
 {
     "key": "miracle",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/miracle/",
     "name": "Miracle",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Miracle",
+    "source": ["PRPG Core Rulebook pg. 314"],
     "school": "evocation",
-    "levels": {"cleric/oracle": 9},
-    "domains":     {
-        "community": 9,
-        "luck": 9
+    "levels":     {
+        "cleric": 9,
+        "oracle": 9
     },
-    "subdomains": {"divine": 9},
     "castingTime": "1 standard action",
     "components": "V, S; see text",
     "range": "see text",
     "duration": "see text",
     "savingThrow": "see text",
     "spellResistance": "yes",
-    "text": "<p>You don't so much cast a <i>miracle<\/i> as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.<\/p><p>A <i>miracle<\/i> can do any of the following things.<\/p><ul>  <li>Duplicate any cleric spell of 8th level or lower. <\/li>  <li>Duplicate any other spell of 7th level or lower.<\/li>  <li>Undo the harmful effects of certain spells, such as feeblemind or <i>insanity<\/i>.<\/li>  <li>Have any effect whose power level is in line with the above effects.<\/li> <\/ul><p>Alternatively, a cleric can make a very powerful request. Casting such a <i>miracle<\/i> costs the cleric 25,000 gp in powdered diamond because of the powerful divine energies involved. Examples of especially powerful <i>miracles<\/i> of this sort could include the following:<\/p><ul>  <li>Swinging the tide of a battle in your favor by raising fallen allies to continue fighting.<\/li>  <li>Moving you and your allies, with all your and their gear, from one plane to a specific locale through planar barriers with no chance of error.<\/li>  <li>Protecting a city from an earthquake, volcanic eruption, flood, or other major natural disaster.<\/li> <\/ul><p>In any event, a request that is out of line with the deity's (or alignment's) nature is refused.<\/p><p>A duplicated spell allows saving throws and spell resistance as normal, but the save DCs are as for a 9th-level spell. When a <i>miracle<\/i> spell duplicates a spell with a material component that costs more than 100 gp, you must provide that component.<\/p>",
+    "text": "You don't so much cast a <i>miracle<\/i> as request one. You state what you would like to have happen and request that your deity (or the power you pray to for spells) intercede.<br><br>A <i>miracle<\/i> can do any of the following things.<ul><li>Duplicate any cleric spell of 8th level or lower.<\/li><li>Duplicate any other spell of 7th level or lower.<\/li><li>Undo the harmful effects of certain spells, such as <i>feeblemind<\/i> or <i>insanity<\/i>.<\/li><li>Have any effect whose power level is in line with the above effects.<\/li><\/ul>Alternatively, a cleric can make a very powerful request. Casting such a <i>miracle<\/i> costs the cleric 25,000 gp in powdered diamond because of the powerful divine energies involved. Examples of especially powerful <i>miracles<\/i> of this sort could include the following:<ul><li>Swinging the tide of a battle in your favor by raising fallen allies to continue fighting.<\/li><li>Moving you and your allies, with all your and their gear, from one plane to a specific locale through planar barriers with no chance of error.<\/li><li>Protecting a city from an earthquake, volcanic eruption, flood, or other major natural disaster.<\/li><\/ul>In any event, a request that is out of line with the deity's (or alignment's) nature is refused.<br><br>A duplicated spell allows saving throws and spell resistance as normal, but the save DCs are as for a 9th-level spell. When a <i>miracle<\/i> spell duplicates a spell with a material component that costs more than 100 gp, you must provide that component.",
     "name_zh": "神迹术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势; 见后文",
-    "range_zh": "见后文",
+    "range_zh": "见文本",
     "target_zh": ", 区域或效果        见后文",
-    "duration_zh": "见后文",
-    "savingThrow_zh": "见后文",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>神迹术其实比较像是祈求而非施法。你向神祇 (或那些能在你祈祷后赋予你法术的存在) 祷告并请求希望发生的事情或需求。<\/p><p>神迹术可以产生以下任意效果之一：\nl  复制任何8环或更低环位的牧师法术。\nl  复制任何7环或更低环位的其他法术。\nl  撤销某些法术产生的有害效果，比如‘<a href=\"spell.html?spell=feeblemind\">弱智术 (feeblemind)<\/a>’或‘<a href=\"spell.html?spell=insanity\">精神错乱 (insanity)<\/a>’。\nl  产生和上述效果强度相当的效果。<\/p><p>另外，一个牧师也可以祈求非常伟大的神迹。由于涉及到强大的圣力能量，因此施展这样一个神迹术需要消耗这名牧师的价值25000gp的钻石尘。这类强大的神迹可能是：\nl  使阵亡的同伴起死回生以逆转战局。\nl  使你的队伍和所有装备精确无误地传送到另一位面。\nl  保护一个城市免于地震、火山爆发、洪水或其他天灾摧毁。<\/p><p>无论何种情况，违背神祇 (或阵营的) 本性的祈求均会失败。<\/p><p>由神迹术复制产生的法术如常允许法术抗力生效和进行豁免，但豁免DC须以9环法术计算。当神迹术复制的法术需要使用价值100gp以上的材料成分时，你也必须支付这些材料成分。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>神迹术其实比较像是祈求而非施法。你向神祇 (或那些能在你祈祷后赋予你法术的存在) 祷告并请求希望发生的事情或需求。<\/p><p>神迹术可以产生以下任意效果之一：<\/p><p>l  复制任何8环或更低环位的牧师法术。<\/p><p>l  复制任何7环或更低环位的其他法术。<\/p><p>l  撤销某些法术产生的有害效果，比如‘<a href=\"spell.html?spell=feeblemind\">弱智术 (feeblemind)<\/a>’或‘<a href=\"spell.html?spell=insanity\">精神错乱 (insanity)<\/a>’。<\/p><p>l  产生和上述效果强度相当的效果。<\/p><p>另外，一个牧师也可以祈求非常伟大的神迹。由于涉及到强大的圣力能量，因此施展这样一个神迹术需要消耗这名牧师的价值25000gp的钻石尘。这类强大的神迹可能是：<\/p><p>l  使阵亡的同伴起死回生以逆转战局。<\/p><p>l  使你的队伍和所有装备精确无误地传送到另一位面。<\/p><p>l  保护一个城市免于地震、火山爆发、洪水或其他天灾摧毁。<\/p><p>无论何种情况，违背神祇 (或阵营的) 本性的祈求均会失败。<\/p><p>由神迹术复制产生的法术如常允许法术抗力生效和进行豁免，但豁免DC须以9环法术计算。当神迹术复制的法术需要使用价值100gp以上的材料成分时，你也必须支付这些材料成分。<\/p>"
 }

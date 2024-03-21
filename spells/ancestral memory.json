@@ -1,27 +1,30 @@
 {
     "key": "ancestral memory",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-memory/",
     "name": "Ancestral Memory",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Memory",
+    "source": ["Inner Sea World Guide pg. 294"],
     "school": "divination",
     "levels":     {
         "alchemist": 5,
-        "cleric/oracle": 5,
+        "cleric": 5,
         "druid": 4,
-        "shaman": 5
+        "hunter": 4,
+        "investigator": 5,
+        "oracle": 5,
+        "shaman": 5,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning something pertinent about your current situation. The chance of successfully finding an ancestral memory that is pertinent is equal to 70% + your caster level. Failure indicates you merely gain a +5 insight bonus on all Intelligence-based skill checks for the duration of the spell.<\/p><p>Success indicates that you not only gain the +5 insight bonus on all Intelligence-based skill checks, but that one of your ancestors came across a situation or problem similar to one you are currently facing. In this case, the GM provides you with some specific information to assist you in overcoming your problem.<\/p><p>For example, a character might encounter a clay golem deep underground, and finds that her magic weapon and spells seem to be useless against the creature. She successfully casts <i>ancestral memory<\/i>, and “remembers” the proper type of weapons and spells that work against such creatures.<\/p>",
+    "text": "When you cast this spell, you open your mind to the vast experiences of your ancestors in the hope of learning something pertinent about your current situation. The chance of successfully finding an ancestral memory that is pertinent is equal to 70% + your caster level. Failure indicates you merely gain a +5 insight bonus on all Intelligence-based skill checks for the duration of the spell.<br><br>Success indicates that you not only gain the +5 insight bonus on all Intelligence-based skill checks, but that one of your ancestors came across a situation or problem similar to one you are currently facing. In this case, the GM provides you with some specific information to assist you in overcoming your problem.<br><br>For example, a character might encounter a clay golem deep underground, and finds that her magic weapon and spells seem to be useless against the creature. She successfully casts <i>ancestral memory<\/i>, and “remembers” the proper type of weapons and spells that work against such creatures.",
     "name_zh": "先祖的记忆",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你自己",
-    "duration_zh": "一轮/等级",
-    "text_zh": "<p>当你施放这个法术，你对你的先祖之灵敞开心扉，从他们广博的人生经验中学习如何应对你目前所处的情势。\n你有（70加你的施法者等级）%的机率成功找到一个先祖的记忆。如果法术失败，那么你只能在法术持续时间中获得所有基于智力的技能检定+5的洞察加值奖励。\n如果法术成功，你不仅在基于智力的技能检定获得上述+5洞察加值奖励，你的先祖之一还会提供给你类似你目前所处情况和面对的问题的建议。在这种情况下，你的DM应给你一些具体的信息以克服你面对的问题。\n例如：一个角色可能会在地下遇到一只粘土傀儡，并且发现她的魔法武器和法术都对它无效。这时，如果她成功的施放了一个先祖的记忆法术，那么她就能‘记起’哪些武器和法术能对这种生物起效。<\/p>",
-    "source": "CS-ISWG"
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>当你施放这个法术，你对你的先祖之灵敞开心扉，从他们广博的人生经验中学习如何应对你目前所处的情势。<\/p><p>你有（70加你的施法者等级）%的机率成功找到一个先祖的记忆。如果法术失败，那么你只能在法术持续时间中获得所有基于智力的技能检定+5的洞察加值奖励。<\/p><p>如果法术成功，你不仅在基于智力的技能检定获得上述+5洞察加值奖励，你的先祖之一还会提供给你类似你目前所处情况和面对的问题的建议。在这种情况下，你的DM应给你一些具体的信息以克服你面对的问题。<\/p><p>例如：一个角色可能会在地下遇到一只粘土傀儡，并且发现她的魔法武器和法术都对它无效。这时，如果她成功的施放了一个先祖的记忆法术，那么她就能‘记起’哪些武器和法术能对这种生物起效。<\/p>"
 }

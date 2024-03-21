@@ -1,33 +1,32 @@
 {
     "key": "vortex",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vortex/",
     "name": "Vortex",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vortex",
+    "source": ["Advanced Player's Guide pg. 254"],
     "school": "evocation",
     "descriptors": ["water"],
     "levels":     {
+        "arcanist": 7,
         "druid": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7
+        "sorcerer": 7,
+        "wizard": 7
     },
-    "elementalSchools": {"water": 7},
-    "mysteries": {"waves": 7},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a stirring spoon)",
     "range": "long (400 ft. + 40 ft./level)",
     "effect": "whirlpool 50 ft. deep, 30 ft. wide at top, and 5 ft. wide at base",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Reflex negates, see text",
     "spellResistance": "yes",
-    "text": "<p>You create a powerful and immobile whirlpool in any body of liquid large enough to contain the spell's effect. Any Large or smaller creature that comes in contact with the spell effect must succeed on a Reflex save or take 3d6 points of bludgeoning damage. A Medium or smaller creature that fails its first save must succeed on a second one or be pulled into the whirlpool and held suspended in its powerful currents, taking 1d8 points of damage each round on your turn with no save allowed.<\/p><p>You may direct the whirlpool to eject any carried creatures whenever you wish. A boat that is equal in length or shorter than the vortex's width that passes through a vortex takes 6d6 points of damage and is caught up by the current. If the boat's captain makes a DC 25 Profession (sailor) check (or if the boat is longer than the vortex's width), the boat takes only half damage and is not caught up by the vortex.<\/p>",
+    "text": "You create a powerful and immobile whirlpool in any body of liquid large enough to contain the spell’s effect. Any Large or smaller creature that comes in contact with the spell effect must succeed on a Reflex save or take 3d6 points of bludgeoning damage. A Medium or smaller creature that fails its first save must succeed on a second one or be pulled into the whirlpool and held suspended in its powerful currents, taking 1d8 points of damage each round on your turn with no save allowed. You may direct the whirlpool to eject any carried creatures whenever you wish. A boat that is equal in length or shorter than the vortex’s width that passes through a vortex takes 6d6 points of damage and is caught up by the current. If the boat’s captain makes a DC 25 Profession (sailor) check (or if the boat is longer than the vortex’s width), the boat takes only half damage and is not caught up by the vortex.",
     "name_zh": "漩涡之流",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一把搅拌勺)",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "50尺深，顶端30尺宽，底部5尺宽的漩涡",
     "duration_zh": "1轮/等级 (可解消)",
-    "savingThrow_zh": "反射，通过则无效；见下文",
+    "savingThrow_zh": "反射, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你在一片足够大的液体创造出一个强力而固定的漩涡。<\/p><p>任何大型或更小的生物在接触到法术效果区域时，如果反射豁免检定失败则会受到3d6点钝击伤害。<\/p><p>如果一个中型或更小的生物在第一次豁免检定中失败，那么它们必须进行第二次检定，否则会被拖进漩涡中并被束缚在强力的水流之中，它们还会每一轮当你行动时受到1d8点伤害并且没有减免。<\/p><p>你可以依你的意愿让漩涡将已经捕获的生物喷出来。<\/p><p>一艘长度小于或等于漩涡宽度的船只，在通过漩涡时会受到6d6点伤害并被漩涡捕获。<\/p><p>如果船只的船长通过一次DC为25的专业 (水手) 检定 (或船只长度超过漩涡宽度)，那么船只会受到一半伤害，并且不会被卷入漩涡。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你在一片足够大的液体创造出一个强力而固定的漩涡。<\/p><p>任何大型或更小的生物在接触到法术效果区域时，如果反射豁免检定失败则会受到3d6点钝击伤害。<\/p><p>如果一个中型或更小的生物在第一次豁免检定中失败，那么它们必须进行第二次检定，否则会被拖进漩涡中并被束缚在强力的水流之中，它们还会每一轮当你行动时受到1d8点伤害并且没有减免。<\/p><p>你可以依你的意愿让漩涡将已经捕获的生物喷出来。<\/p><p>一艘长度小于或等于漩涡宽度的船只，在通过漩涡时会受到6d6点伤害并被漩涡捕获。<\/p><p>如果船只的船长通过一次DC为25的专业 (水手) 检定 (或船只长度超过漩涡宽度)，那么船只会受到一半伤害，并且不会被卷入漩涡。<\/p>"
 }

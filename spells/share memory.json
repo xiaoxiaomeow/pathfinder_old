@@ -1,19 +1,21 @@
 {
     "key": "share memory",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/share-memory/",
     "name": "Share Memory",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Memory",
+    "source": ["Ultimate Magic pg. 238"],
     "school": "divination",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "medium": 2,
         "mesmerist": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
-    "elementalSchools": {"void": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
@@ -21,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You momentarily link your mind with the target and share a single memory of no longer than 1 minute. You can show the target one of your memories, show the target one of its own memories, or view one of the target's memories.<\/p>",
+    "text": "You momentarily link your mind with the target and share a single memory of no longer than 1 minute. You can show the target one of your memories, show the target one of its own memories, or view one of the target’s memories.",
     "name_zh": "共享记忆",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -30,6 +32,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你暂时将你的思想与目标连接到一起并且可以共享一段不超过一分钟长度的记忆。<\/p><p>你可以向目标展示你的一段记忆，向目标展示它自己的一段记忆，或者查看一段目标的记忆。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你暂时将你的思想与目标连接到一起并且可以共享一段不超过一分钟长度的记忆。<\/p><p>你可以向目标展示你的一段记忆，向目标展示它自己的一段记忆，或者查看一段目标的记忆。<\/p>"
 }

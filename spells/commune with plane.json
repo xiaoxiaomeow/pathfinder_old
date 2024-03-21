@@ -1,24 +1,30 @@
 {
     "key": "commune with plane",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/commune-with-plane/",
-    "name": "Commune With Plane",
-    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "name": "Commune with Plane",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Commune%20with%20Plane",
+    "source": ["Planar Adventures pg. 39"],
     "school": "divination",
     "levels":     {
         "cleric": 5,
+        "hunter": 4,
+        "oracle": 5,
         "psychic": 5,
         "ranger": 4,
         "summoner": 5,
+        "summoner (unchained)": 5,
+        "warpriest": 5,
         "witch": 5
     },
     "castingTime": "10 minutes",
     "components": "V, S",
+    "range": "personal",
+    "target": "you",
     "duration": "instantaneous",
-    "text": "<p class=\"description\">You become one with the plane around you, attaining knowledge of the surrounding territory.<\/p><p>You instantly gain knowledge of as many as three facts from among the following subjects: areas with different planar traits, the layout and topography of local terrain, local divine influences, planar phenomena, portals between planes, presence of creatures native to the plane, presence of powerful nonnative creatures, the general state of the plane, or valuable planar substances.<\/p><p>On standard planes, the spell operates with a radius of 1 mile per caster level. On demiplanes, the spell is less powerful, and its radius is limited to 100 feet per caster level. This spell has no effect when cast on the Material Plane.<\/p>",
+    "text": "You become one with the plane around you, attaining knowledge of the surrounding territory. You instantly gain knowledge of as many as three facts from among the following subjects: areas with different planar traits, the layout and topography of local terrain, local divine influences, planar phenomena, portals between planes, presence of creatures native to the plane, presence of powerful nonnative creatures, the general state of the plane, or valuable planar substances.<br><br> On standard planes, the spell operates with a radius of 1 mile per caster level. On demiplanes, the spell is less powerful, and its radius is limited to 100 feet per caster level. This spell has no effect when cast on the Material Plane.",
     "name_zh": "问道位面",
     "castingTime_zh": "10分钟",
     "components_zh": "言语，姿势",
+    "range_zh": "个人",
     "duration_zh": "立即",
-    "text_zh": "<p>你与周围的位面环境融为一体，获得周围领域的知识。你立即获得以下知识中的三种：拥有不同的位面特性的区域，当前地区的布局和地形，当地的神力影响，位面现象，位面之间的通道，位面原生生物的存在，外来强大生物的存在，位面的大致情况或有价值的位面物质。\n在标准位面中，该法术的区域为半径每施法者等级1英里。在半位面，法术的威力较弱，并且它的半径被限制为每施法者等级100英尺。此法术在物质位面施展时无效。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>你与周围的位面环境融为一体，获得周围领域的知识。你立即获得以下知识中的三种：拥有不同的位面特性的区域，当前地区的布局和地形，当地的神力影响，位面现象，位面之间的通道，位面原生生物的存在，外来强大生物的存在，位面的大致情况或有价值的位面物质。<\/p><p>在标准位面中，该法术的区域为半径每施法者等级1英里。在半位面，法术的威力较弱，并且它的半径被限制为每施法者等级100英尺。此法术在物质位面施展时无效。<\/p>"
 }

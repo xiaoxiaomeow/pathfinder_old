@@ -1,14 +1,18 @@
 {
     "key": "ward of the season",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/ward-of-the-season/",
     "name": "Ward of the Season",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ward%20of%20the%20Season",
+    "source": ["Advanced Race Guide pg. 29"],
     "school": "abjuration",
+    "race": "elf",
     "levels":     {
         "cleric": 4,
         "druid": 3,
+        "hunter": 3,
+        "oracle": 4,
         "ranger": 3,
         "shaman": 3,
+        "warpriest": 4,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -17,7 +21,8 @@
     "target": "one creature",
     "duration": "1 hour/level",
     "savingThrow": "Will negates (harmless)",
-    "text": "<p>This spell harnesses the power of the seasons to protect the target and grant a number of bonuses. This spell has one of four different effects. The caster of the spell can select any one of the following four effects, but can change the effect as a standard action that reduces the total remaining duration by 1 hour.<\/p>",
+    "spellResistance": "no",
+    "text": "This spell harnesses the power of the seasons to protect the target and grant a number of bonuses. This spell has one of four different effects. The caster of the spell can select any one of the following four effects, but can change the effect as a standard action that reduces the total remaining duration by 1 hour.<br><br><i>Spring<\/i>: The target is wrapped in light vines, culminating in a crown of bright, beautiful flowers. While the spell remains in effect, the target is immune to bleed effects and regains 1 hit point per round whenever below 0 hit points, as long as the target is still alive. This stabilizes the target. For each hit point restored in this way, the spell’s total remaining duration is reduced by 1 hour.<br><br><i>Summer<\/i>: The target is surrounded by tiny motes of light. While the spell remains in effect, the target’s base speed increases 10 feet. The target may instead increase its base speed by 30 feet for 1 round by reducing the spell’s total remaining duration by 1 hour.<br><br><i>Fall<\/i>: A cloak of autumn leaves appears on the target. While the spell remains in effect, the target gains a +2 morale bonus on Fortitude saves. The target can decide to roll twice on any saving throw against disease or poison and take the higher result by reducing the spell’s total remaining duration by 1 hour.<br><br><i>Winter<\/i>: A flutter of snow and crisp air surrounds the target. While this spell remains in effect, the target automatically succeeds at Acrobatics skill checks made to avoid falling while moving across slick or narrow surfaces. The target can move freely through difficult terrain for 1 round by reducing the spell’s remaining duration by 1 hour. Difficult terrain created by magic affects the target normally.",
     "name_zh": "四季之守护",
     "race_zh": "精灵",
     "castingTime_zh": "标准动作",
@@ -26,7 +31,6 @@
     "target_zh": "一名生物",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "否",
-    "text_zh": "<p>该法术能够驾驭四季的力量以保护目标，并且给予一些奖励。该法术拥有四种不同的效果。施放者能够从下列四种效果中选择一个，并且可以通过降低1小时总持续时间以一个标准动作切换效果。<\/p><p>春：目标被发光的藤蔓所包裹，最后这些藤蔓会形成一个明亮、美丽的花冠。只要法术效果存在，目标就能够免疫出血效果。并且只要目标存活，在生命值低于0时每回合恢复1点生命值，该效果会使目标伤势稳定。以该方式每恢复1点生命值，法术的总持续时间减少1小时。<\/p><p>夏：目标被光之尘所环绕。只要法术效果存在，目标的基本速度提高10尺。目标可以通过降低1小时法术的总持续时间使自己的基本速度提高30尺，持续1轮。<\/p><p>秋：由秋叶组成的披风出现在目标身上。只要法术效果存在，目标的强韧豁免就会获得+2士气加值。目标可以通过降低1小时法术的总持续时间使自身在一次对抗疾病或毒素的强韧豁免中掷骰两次，并且取较好的结果。<\/p><p>冬：清新的空气以及飘扬的雪花围绕着目标。只要法术效果存在，目标在光滑或狭窄平面上进行移动，并使用特技检定避免摔倒时能够自动成功。目标可以通过降低1小时法术的总持续时间使自己能够在困难地形中自由移动，持续1轮。魔法效果造成的困难地形如常影响目标。<\/p>",
-    "source": "ARG"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术能够驾驭四季的力量以保护目标，并且给予一些奖励。该法术拥有四种不同的效果。施放者能够从下列四种效果中选择一个，并且可以通过降低1小时总持续时间以一个标准动作切换效果。<\/p><p>春：目标被发光的藤蔓所包裹，最后这些藤蔓会形成一个明亮、美丽的花冠。只要法术效果存在，目标就能够免疫出血效果。并且只要目标存活，在生命值低于0时每回合恢复1点生命值，该效果会使目标伤势稳定。以该方式每恢复1点生命值，法术的总持续时间减少1小时。<\/p><p>夏：目标被光之尘所环绕。只要法术效果存在，目标的基本速度提高10尺。目标可以通过降低1小时法术的总持续时间使自己的基本速度提高30尺，持续1轮。<\/p><p>秋：由秋叶组成的披风出现在目标身上。只要法术效果存在，目标的强韧豁免就会获得+2士气加值。目标可以通过降低1小时法术的总持续时间使自身在一次对抗疾病或毒素的强韧豁免中掷骰两次，并且取较好的结果。<\/p><p>冬：清新的空气以及飘扬的雪花围绕着目标。只要法术效果存在，目标在光滑或狭窄平面上进行移动，并使用特技检定避免摔倒时能够自动成功。目标可以通过降低1小时法术的总持续时间使自己能够在困难地形中自由移动，持续1轮。魔法效果造成的困难地形如常影响目标。<\/p>"
 }

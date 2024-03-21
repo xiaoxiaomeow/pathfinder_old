@@ -1,30 +1,33 @@
 {
     "key": "distracting cacophony",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/distracting-cacophony/",
     "name": "Distracting Cacophony",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Distracting%20Cacophony",
+    "source": ["Ultimate Magic pg. 217"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
         "psychic": 3,
-        "sorcerer/wizard": 3
+        "skald": 2,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "area": "20-ft. spread",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
-    "text": "<p>The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of Perception checks involving hearing is likewise increased by 5.<\/p>",
+    "spellResistance": "yes",
+    "text": "The air fills with loud and discordant noise, making concentration difficult. Casting a spell in this area of cacophony requires a concentration check (DC 15 + the level of the spell being cast). Any other concentration checks in the area have their DCs increased by 5. The DC of Perception checks involving hearing is likewise increased by 5.",
     "name_zh": "扰人噪音",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "20尺弥散范围",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "20尺半径范围",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你让目标区域的空气中充满吵闹而烦人的噪音，使人难以专心。<\/p><p>在受影响的区域内施放法术需要进行一次专注检定 (DC为15加你的施法者等级)。<\/p><p>另外，在法术影响范围内，任何其他用途的专注检定的DC都会增加5。<\/p><p>除此之外，区域范围内的察觉检定也同样会增加5。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标区域的空气中充满吵闹而烦人的噪音，使人难以专心。<\/p><p>在受影响的区域内施放法术需要进行一次专注检定 (DC为15加你的施法者等级)。<\/p><p>另外，在法术影响范围内，任何其他用途的专注检定的DC都会增加5。<\/p><p>除此之外，区域范围内的察觉检定也同样会增加5。<\/p>"
 }

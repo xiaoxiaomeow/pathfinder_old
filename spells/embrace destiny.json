@@ -1,26 +1,27 @@
 {
     "key": "embrace destiny",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/embrace-destiny/",
     "name": "Embrace Destiny",
-    "book": "Pathfinder Campaign Setting: Lost Kingdoms © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Embrace%20Destiny",
+    "source": ["Lost Kingdoms pg. 12"],
     "school": "divination",
     "levels":     {
+        "arcanist": 2,
         "oracle": 1,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level (see text)",
-    "text": "<p>Upon completing this spell, roll a single d20 and record the result. At any point during the duration of this spell, you may use that roll for a single ability check, attack roll, initiative check, saving throw, or skill check, using the recorded result in place of a roll. This spell cannot be used to replace a roll that has already been made; the recorded result must be used instead of a roll. Once you have used this recorded result or the duration of the spell ends, the spell's effect ends. You can't have more than one instance of embrace destiny active on you at the same time.<\/p>",
+    "text": "Upon completing this spell, roll a single d20 and record the result. At any point during the duration of this spell, you may use that roll for a single ability check, attack roll, initiative check, saving throw, or skill check, using the recorded result in place of a roll. This spell cannot be used to replace a roll that has already been made; the recorded result must be used instead of a roll. Once you have used this recorded result or the duration of the spell ends, the spell’s effect ends. You can’t have more than one instance of embrace destiny active on you at the same time.",
     "name_zh": "拥抱命运",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级 (见下)",
-    "text_zh": "<p>在完成这个法术后，投掷一个D20,并记录结果。在法术持续时间内，如果你要进行一次属性检定，攻击检定，先攻检定，豁免检定或者技能检定而需要投骰，可以运用该记录的骰子结果来替代结果。这个法术不能被用于替换已经被骰出的骰子；记录的骰子必须用来替换一个骰子。如果你使用了记录的骰子或者法术的持续时间结束，则法术效果终止。你无法在同一时间让多个“拥抱命运”在你身上生效。<\/p>",
-    "source": "CS-LK"
+    "duration_zh": "1轮/等级; 见文本",
+    "text_zh": "<p>在完成这个法术后，投掷一个D20,并记录结果。在法术持续时间内，如果你要进行一次属性检定，攻击检定，先攻检定，豁免检定或者技能检定而需要投骰，可以运用该记录的骰子结果来替代结果。这个法术不能被用于替换已经被骰出的骰子；记录的骰子必须用来替换一个骰子。如果你使用了记录的骰子或者法术的持续时间结束，则法术效果终止。你无法在同一时间让多个“拥抱命运”在你身上生效。<\/p>"
 }

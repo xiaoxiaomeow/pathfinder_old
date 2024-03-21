@@ -1,15 +1,19 @@
 {
     "key": "blast barrier",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blast-barrier/",
     "name": "Blast Barrier",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blast%20Barrier",
+    "source": ["Inner Sea Magic pg. 52"],
     "school": "transmutation",
-    "subSchool": ["sonic"],
+    "descriptors": ["sonic"],
     "levels":     {
+        "arcanist": 3,
         "druid": 4,
+        "hunter": 3,
         "ranger": 3,
-        "sorcerer/wizard": 3,
-        "witch": 4
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "witch": 4,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (handful of snow, earth, or gravel)",
@@ -18,14 +22,14 @@
     "duration": "concentration, up to 1 round/2 levels",
     "savingThrow": "Reflex half (see below)",
     "spellResistance": "yes (see below)",
-    "text": "<p>When you cast blast barrier, you cause a rippling wall of loose earth, mud, snow, sand, or gravel to spring up in a designated space within the spell's range. This wall provides total cover to all Large or smaller creatures and objects. The barrier can only spring up in an area of natural, unworked ground. The energy that forms the wall's matrix is unstable, and you must concentrate to maintain the wall's shape. A blast barrier has an AC of 9, hardness 0, and 5 hit points per caster level. When a blast barrier reaches 0 hit points, or when you cease concentrating on maintaining it, the energies that maintain the barrier's shape fail with explosive results, sending sharp chunks of the materials comprising the wall and magical energy out along both sides. Any creature that is adjacent to a blast barrier when it explodes takes 2d6 points of slashing damage and 1d6 points of sonic damage per 3 caster levels (maximum 6d6). A successful Reflex save halves the total damage done. Spell resistance applies as well.<\/p>",
+    "text": "Originally used by the winter witches on the field of battle in the early days of Irrisen, <i>blast barrier <\/i>has entered the oral traditions of many northern barbarian tribes as legends of winter witches possessing powers to bend the very ground of a battlefield to their will. <i>Blast barrier<\/i>, however, has proven to be an exceptionally versatile spell as far as terrains are concerned, for it works equally well in swamps, deserts, or any region where the ground is soft or easy to shape.<br><br>When you cast <i>blast barrier<\/i>, you cause a rippling wall of loose earth, mud, snow, sand, or gravel to spring up in a designated space within the spell’s range. This wall provides total cover to all Large or smaller creatures and objects. The barrier can only spring up in an area of natural, unworked ground. The energy that forms the wall’s matrix is unstable, and you must concentrate to maintain the wall’s shape. A <i>blast barrier<\/i> has an AC of 9, hardness 0, and 5 hit points per caster level. When a <i>blast barrier <\/i>reaches 0 hit points, or when you cease concentrating on maintaining it, the energies that maintain the barrier’s shape fail with explosive results, sending sharp chunks of the materials comprising the wall and magical energy out along both sides. Any creature that is adjacent to a <i>blast barrier<\/i> when it explodes takes 2d6 points of slashing damage and 1d6 points of sonic damage per 3 caster levels (maximum 6d6). A successful Reflex save halves the total damage done. Spell resistance applies as well.<br><br>This instability can make using a <i>blast barrier <\/i>risky, but many of the spellcasters that pioneered the spell became experts at its tactical applications, often using the barriers to cover an escape while lobbing spells and parting shots, hoping to trigger the barrier’s destruction just as their would-be pursuers approached.",
     "name_zh": "爆裂屏障",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（少量的雪、土和沙石）",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "1尺厚的墙壁，至多10尺高，20尺宽",
-    "duration_zh": "专注，至多1轮/2级",
-    "savingThrow_zh": "反射，通过则减半（见后文）",
-    "spellResistance_zh": "可（见后文）",
-    "text_zh": "<p>这原本是在伊利森（Irrisen）最初岁月的战场上，冬女巫（winter witches）所使用的法术，现在这个法术在许多北方蛮族部落中，已经成为关于冬女巫按照自身意愿随意歪曲战场的口耳相传的传说。爆裂屏障已经被证实是在地形相关的法术中，具有许多作用的法术，它在沼泽、荒漠或者任何其他地面柔软易于塑形的地形中都运作良好。\n当你施放爆裂屏障时，会在法术范围内的指定区域中，利用松软的土地、泥浆、雪地、沙地或者碎石地中涌起涟漪之墙。墙壁会为所有大型或更小的生物及物体提供全掩蔽（total cover）。屏障只能在自然的、未经人工处理的地面区域中涌现。构筑墙体的能量十分不稳定，因此你必须专注才能维持墙壁的形状。屏障的AC为9，硬度为0，具有每施法者等级5点生命值。当屏障的生命值降低到0点、或者当你停止专注时，用于保持屏障形态的能量会随着爆发而消散，构成墙体的物质会化为尖锐的碎片向着墙体两侧爆发。任何与在屏障爆炸时与爆裂屏障相邻的生物会受到2d6点挥砍伤害、以及每三个施法者等级1d6点音波伤害（最高6d6点）。成功的反射豁免会使得总伤害减半。法术抗力如常生效。<\/p>",
-    "source": "CS-ISM"
+    "duration_zh": "专注, 至多1轮/2级",
+    "savingThrow_zh": "反射过则减半; 见文本",
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>这原本是在伊利森（Irrisen）最初岁月的战场上，冬女巫（winter witches）所使用的法术，现在这个法术在许多北方蛮族部落中，已经成为关于冬女巫按照自身意愿随意歪曲战场的口耳相传的传说。爆裂屏障已经被证实是在地形相关的法术中，具有许多作用的法术，它在沼泽、荒漠或者任何其他地面柔软易于塑形的地形中都运作良好。<\/p><p>当你施放爆裂屏障时，会在法术范围内的指定区域中，利用松软的土地、泥浆、雪地、沙地或者碎石地中涌起涟漪之墙。墙壁会为所有大型或更小的生物及物体提供全掩蔽（total cover）。屏障只能在自然的、未经人工处理的地面区域中涌现。构筑墙体的能量十分不稳定，因此你必须专注才能维持墙壁的形状。屏障的AC为9，硬度为0，具有每施法者等级5点生命值。当屏障的生命值降低到0点、或者当你停止专注时，用于保持屏障形态的能量会随着爆发而消散，构成墙体的物质会化为尖锐的碎片向着墙体两侧爆发。任何与在屏障爆炸时与爆裂屏障相邻的生物会受到2d6点挥砍伤害、以及每三个施法者等级1d6点音波伤害（最高6d6点）。成功的反射豁免会使得总伤害减半。法术抗力如常生效。<\/p>"
 }

@@ -1,20 +1,27 @@
 {
     "key": "compassionate ally",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/compassionate-ally/",
     "name": "Compassionate Ally",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Compassionate%20Ally",
+    "source": ["Ultimate Magic pg. 211"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
+        "medium": 2,
+        "mesmerist": 2,
+        "oracle": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -22,15 +29,15 @@
     "target": "one creature",
     "duration": "1 round/level",
     "savingThrow": "Will negates",
-    "text": "<p>At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a Heal check. The target remains with the injured ally to assure her safety and refuses to leave the ally's side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.<\/p>",
+    "spellResistance": "yes",
+    "text": "At the sight of an injured ally, the target immediately disengages from its current course of action and rushes to provide aid. If the target possesses curative spells or magic items, it utilizes them to help the injured ally. If not, the target provides aid by performing a Heal check. The target remains with the injured ally to assure her safety and refuses to leave the ally’s side until her wounds are fully treated or the spell ends, but can otherwise defend itself and make attacks.",
     "name_zh": "战友情深",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>当目标视野中有一个受伤的盟友时，目标会立刻放弃当前的任何行动，冲到其身边进行救助。<\/p><p>如果目标拥有治疗法术或魔法物品，他会毫不犹豫的用来治疗盟友的伤势。如果没有，则进行试图进行治疗并进行相关医疗检定。<\/p><p>目标将会一直守在受伤的盟友身边以守护其安全，并拒绝离开盟友的身边，直到她的伤口被完全治愈或法术效果结束。不过目标可以保护他自己或是进行攻击。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>当目标视野中有一个受伤的盟友时，目标会立刻放弃当前的任何行动，冲到其身边进行救助。<\/p><p>如果目标拥有治疗法术或魔法物品，他会毫不犹豫的用来治疗盟友的伤势。如果没有，则进行试图进行治疗并进行相关医疗检定。<\/p><p>目标将会一直守在受伤的盟友身边以守护其安全，并拒绝离开盟友的身边，直到她的伤口被完全治愈或法术效果结束。不过目标可以保护他自己或是进行攻击。<\/p>"
 }

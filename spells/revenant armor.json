@@ -1,20 +1,24 @@
 {
     "key": "revenant armor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/revenant-armor/",
     "name": "Revenant Armor",
-    "book": "Pathfinder Player Companion: Armor Master's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Revenant%20Armor",
+    "source": ["Armor Master's Handbook pg. 23"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 3,
+        "arcanist": 4,
         "cleric": 4,
         "magus": 4,
         "medium": 4,
         "occultist": 4,
+        "oracle": 4,
         "paladin": 3,
         "shaman": 3,
-        "sorcerer/wizard": 4,
+        "sorcerer": 4,
         "spiritualist": 3,
-        "witch": 3
+        "warpriest": 4,
+        "witch": 3,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (one suit of armor)",
@@ -23,15 +27,14 @@
     "duration": "1 day/level or 1 hour/level; see below",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell endows a suit of armor with a singular purpose realized only after its wearer goes unconscious or is killed; whenever the wearer of a suit of armor warded by <i>revenant armor<\/i> is brought below 0 hit points or otherwise rendered unconscious (but not paralyzed or held) in combat, the armor is immediately brought to life as a Medium-sized animated object.<\/p><p>This animated suit of armor still contains the unconscious (or dead) body of its former wearer and moves with a shambling gait at a speed of 20 feet. This animated object has average hit points and, if the armor is made from metal, it has the metal animated object extraordinary ability (plus additional abilities based on the type of metal). Once animated, the <i>revenant armor<\/i> remains standing (and stands if knocked prone, doing so without provoking attacks of opportunity), and prevents the wearer of the armor from being considered helpless. If an ally of the wearer is within range of the armor, she can direct it to move, though it refuses to go anywhere that requires a skill check. If grappled or otherwise restrained, it can attempt to break free with a Strength score equal to your caster level and a CMB equal to 1 + your caster level + the armor's Strength modifier. If the armor's wearer is reduced to dust, made conscious, or removed from the armor, the spell ends.<\/p>",
+    "text": "This spell endows a suit of armor with a singular purpose realized only after its wearer goes unconscious or is killed; whenever the wearer of a suit of armor warded by <I>revenant armor<\/I> is brought below 0 hit points or otherwise rendered unconscious (but not paralyzed or held) in combat, the armor is immediately brought to life as a Medium animated object. This animated suit of armor still contains the unconscious (or dead) body of its former wearer and moves with a shambling gait at a speed of 20 feet. This animated object has average hit points and, if the armor is made from metal, it has the metal animated object extraordinary ability (plus additional abilities based on the type of metal, as indicated on page 14 of the <I>Pathfinder RPG Bestiary<\/I>). Once animated, the <I>revenant armor<\/I> remains standing (and stands if knocked prone, doing so without provoking attacks of opportunity), and prevents the wearer of the armor from being considered helpless. If an ally of the wearer is within range of the armor, she can direct it to move, though it refuses to go anywhere that requires a skill check. If grappled or otherwise restrained, it can attempt to break free with a Strength score equal to your caster level and a CMB equal to 1 + your caster level + the armor’s Strength modifier. If the armor’s wearer is reduced to dust, made conscious, or removed from the armor, the spell ends.",
     "name_zh": "亡魂盔甲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (一套盔甲)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一套盔甲",
-    "duration_zh": "1天/等级 或 1小时/等级；见下",
+    "duration_zh": "1天/等级 或 1小时/等级; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术赋予了一套盔甲特定的目的，只有在穿戴盔甲的人陷入昏迷或被杀害时才会启动；无论何时，被亡魂盔甲法术所守护的这套盔甲的穿戴者，在战斗中，当它的生命值抵达0点或以其他方式陷入昏迷(但不是麻痺或被擒住)，这盔甲会立即被赋予生命，如同一个中体型活化物体(Medium animated object)。这套活化的盔甲仍装着它前任穿戴者昏迷(或死去)的身躯，并且有着20呎的步履蹒跚的步伐。这活化物体有着平均生命值，如果该盔甲是由金属(metal)所制，它拥有该金属活化物体的特异能力(extraordinary ability，加上基于金属(metal)种类的额外能力，如同怪物图鑑P.14 所指示的那般)。一旦活化，亡魂盔甲保持站立(并且如果被击倒至俯卧，会站起来，这样做不会引发借机攻击)，并防止该穿盔甲的穿戴者陷于无助状态。如果一名穿戴者的盟友在该盔甲的法术距离内，她可以指挥盔甲移动，但盔甲可以拒绝前往任何需要技能检定的地方。如果被擒抱或被其他方式所束缚住，盔甲可以尝试使用力量属性来重获自由，力量属性等于你的施法者等级，而CMB等于1+你的施法者等级+该盔甲的力量调整值。如果盔甲的穿戴者化为尘埃、恢复意识或被从这副盔甲中移出，此法术结束。<\/p>",
-    "source": "PC-AMH"
+    "text_zh": "<p>此法术赋予了一套盔甲特定的目的，只有在穿戴盔甲的人陷入昏迷或被杀害时才会启动；无论何时，被亡魂盔甲法术所守护的这套盔甲的穿戴者，在战斗中，当它的生命值抵达0点或以其他方式陷入昏迷(但不是麻痺或被擒住)，这盔甲会立即被赋予生命，如同一个中体型活化物体(Medium animated object)。这套活化的盔甲仍装着它前任穿戴者昏迷(或死去)的身躯，并且有着20呎的步履蹒跚的步伐。这活化物体有着平均生命值，如果该盔甲是由金属(metal)所制，它拥有该金属活化物体的特异能力(extraordinary ability，加上基于金属(metal)种类的额外能力，如同怪物图鑑P.14 所指示的那般)。一旦活化，亡魂盔甲保持站立(并且如果被击倒至俯卧，会站起来，这样做不会引发借机攻击)，并防止该穿盔甲的穿戴者陷于无助状态。如果一名穿戴者的盟友在该盔甲的法术距离内，她可以指挥盔甲移动，但盔甲可以拒绝前往任何需要技能检定的地方。如果被擒抱或被其他方式所束缚住，盔甲可以尝试使用力量属性来重获自由，力量属性等于你的施法者等级，而CMB等于1+你的施法者等级+该盔甲的力量调整值。如果盔甲的穿戴者化为尘埃、恢复意识或被从这副盔甲中移出，此法术结束。<\/p>"
 }

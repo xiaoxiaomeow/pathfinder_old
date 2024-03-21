@@ -1,25 +1,28 @@
 {
     "key": "allfood",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/allfood/",
     "name": "Allfood",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Allfood",
+    "source": ["Advanced Player's Guide pg. 201"],
     "school": "transmutation",
-    "levels": {"ranger": 2},
+    "levels":     {
+        "hunter": 2,
+        "ranger": 2
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a pinch of salt and pepper)",
     "range": "touch",
+    "target": "object touched, weighing up to 5 lbs./level",
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You can transform one object, weighing up to 5 lbs. per caster level, into an edible substance that any living creature can chew, swallow, and safely digest. This allfood always has a bland taste and slightly gooey consistency when chewed regardless of its original nature.<\/p><p>One pound of allfood provides enough sustenance to support a Medium creature for an entire day.<\/p><p>Objects of similar nature in close proximity, such as a pile of rocks, count as a single object for the purpose of this spell. You cannot use this spell to transform objects with magical or other exceptional qualities. An object's hardness is considered to be 0 for the purposes of eating it, but it retains its normal hardness for all other situations, and becomes no more vulnerable to sunder attacks, break attempts, or any other action typically directed against objects. Objects such as hot coals or a burning torch continue to produce energy even after you transform them into allfood and if a creature attempts to eat such an object, it takes damage accordingly.<\/p>",
+    "text": "You can transform one object, weighing up to 5 lbs. per caster level, into an edible substance that any living creature can chew, swallow, and safely digest. This allfood always has a bland taste and slightly gooey consistency when chewed regardless of its original nature. One pound of <i>allfood <\/i>provides enough sustenance to support a Medium creature for an entire day.<br><br>Objects of similar nature in close proximity, such as a pile of rocks, count as a single object for the purpose of this spell. You cannot use this spell to transform objects with magical or other exceptional qualities. An object’s hardness is considered to be 0 for the purposes of eating it, but it retains its normal hardness for all other situations, and becomes no more vulnerable to sunder attacks, break attempts, or any other action typically directed against objects. Objects such as hot coals or a burning torch continue to produce energy even after you transform them into <i>allfood <\/i>and if a creature attempts to eat such an object, it takes damage accordingly.",
     "name_zh": "万物化食",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (少许的盐和胡椒粉)",
     "range_zh": "接触",
     "target_zh": "接触到的物体，重量最高5磅/等级",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，通过则无效 (物体)",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>你可以转变最高每施法者等级5磅重的物体，将其变为任何活物都可以咀嚼、吞咽的安全的可食用物质。无论物体原本的自然属性，万物化食转化的食物总是具有平淡的味道和粘稠的口感。每磅万物化食能够为一名中型生物提供其一整天的活动的营养。<\/p><p>被转化的物体必须具有相近的性质，比如一堆石头在该法术中被视为一个单一物体。你无法以该法术转变带有魔法性质或者其他特殊性质的物品。在吃该物体时，它的硬度被视为0，不过在对其进行其他行动时硬度维持正常不变，比如击破武器攻击，尝试破坏 (break attempts) 或者其他针对该物体的行动的时候。一些物体，比如被烧热的煤炭或者燃烧中的火炬，会在你用万物化食将其转化为食物之后继续产生能量，如果有生物尝试吃下这些物体则会因此受伤。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你可以转变最高每施法者等级5磅重的物体，将其变为任何活物都可以咀嚼、吞咽的安全的可食用物质。无论物体原本的自然属性，万物化食转化的食物总是具有平淡的味道和粘稠的口感。每磅万物化食能够为一名中型生物提供其一整天的活动的营养。<\/p><p>被转化的物体必须具有相近的性质，比如一堆石头在该法术中被视为一个单一物体。你无法以该法术转变带有魔法性质或者其他特殊性质的物品。在吃该物体时，它的硬度被视为0，不过在对其进行其他行动时硬度维持正常不变，比如击破武器攻击，尝试破坏 (break attempts) 或者其他针对该物体的行动的时候。一些物体，比如被烧热的煤炭或者燃烧中的火炬，会在你用万物化食将其转化为食物之后继续产生能量，如果有生物尝试吃下这些物体则会因此受伤。<\/p>"
 }

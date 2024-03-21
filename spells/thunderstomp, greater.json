@@ -1,17 +1,19 @@
 {
     "key": "thunderstomp, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thunderstomp/",
     "name": "Thunderstomp, Greater",
-    "base": "thunderstomp",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thunderstomp,%20Greater",
+    "source": ["Advanced Class Guide pg. 196"],
     "school": "evocation",
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
         "ranger": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,7 +22,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as <i>thunderstomp<\/i>, except as noted, and it affects all creatures in the area, regardless of size. When you attempt the combat maneuver check, apply its result to each creature within the area.<\/p><\/div>",
+    "text": "This spell functions as <i>thunderstomp<\/i>, except as noted, and it affects all creatures in the area, regardless of size. When you attempt the combat maneuver check, apply its result to each creature within the area.",
     "name_zh": "高等雷霆重踏",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -29,6 +31,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>除了后述内容以外，该法术的同能如同雷霆重踏（Thunderstomp）一般，法术对效果区域内所有生物有效，无关目标体型大小。当你尝试战技检定时，要将结果应用至区域内的每个生物。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>除了后述内容以外，该法术的同能如同雷霆重踏（Thunderstomp）一般，法术对效果区域内所有生物有效，无关目标体型大小。当你尝试战技检定时，要将结果应用至区域内的每个生物。<\/p>"
 }

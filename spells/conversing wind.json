@@ -1,18 +1,31 @@
 {
     "key": "conversing wind",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/conversing-wind/",
     "name": "Conversing Wind",
-    "book": "Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Conversing%20Wind",
+    "source": ["Ranged Tactics Toolbox pg. 30"],
     "school": "transmutation",
     "descriptors": ["air"],
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
-        "sorcerer/wizard": 4
+        "skald": 4,
+        "sorcerer": 4,
+        "wizard": 4
     },
-    "duration": "1 hour/level (d)",
-    "text": "<p>This spell functions as whispering wind, except it can carry responses and doesn't end after delivering its first message.<\/p><p>After the wind completes its initial message, it waits for 1 round, then copies what it hear, and returns at the same speed and by the same route. It delivers what it heard to the location where the spell was originally cast. The wind continues back and forth in this way until the duration ends or the spell is dismissed.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "1 mile/level",
+    "area": "10-ft.-radius spread",
+    "duration": "1 hour/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>whispering wind<\/i>, except it can carry responses and doesn’t end after delivering its first message. After the wind completes its initial message, it waits for 1 round, then copies what it hear, and returns at the same speed and by the same route. It delivers what it heard to the location where the spell was originally cast. The wind continues back and forth in this way until the duration ends or the spell is dismissed.",
     "name_zh": "对话之风",
-    "duration_zh": "1小时/等级（D）",
-    "text_zh": "<p>该法术类似风讯术(whispering wind)，但该法术在传送完最初的信息后不会结束。在法术传递完最初的信息后，会在原地待1轮，记录该轮内所能听到的声音，然后按原速度原路径返回。并在施法地点放出那1轮内它所记录下的声音。之后继续记录1轮前往目的地。这股风会不断这样往返传递声音信息，直到时间结束。\n有远程攻击的召唤怪物\n下列的生物可以借由召唤怪物或召唤自然盟有法术被召唤出来(由GM决定)所以你可以使用他们远程攻击能力，在对抗你的敌人时提供支援，并且有效的在远程战斗中利用他们的特殊能力。如果还需要更多资讯，可以参考在PF怪物图鑑内各别怪物的条目。\n召唤怪物II\n巨蜘蛛(Giant spider)\n召唤怪物III\n圣光神使 (Lantern archon)\n召唤怪物IV\n地狱犬 (Hell hound)\n魔蝠(Mephit)\n召唤怪物V\n巴拉尼天使 (Bralani azata)\n锡尔族 (Xill)\n召唤怪物VI\n怒魔 (Devil, erinyes)\n翼蛇人 (Lillend azata)\n魅魔 (Demon, succubus)\n召唤怪物VII\n狩魔蛛 (Bebelith)\n鹫魔 (Demon, vrock)\n召唤怪物VIII\n尖刺魔 (Barbed devil)\n狂战魔 (Demon, hezrou)\n召唤怪物IX\n迦勒天 (Ghaele azata)\n判魂魔 (Demon, nalfeshnee)\n号角神使 (Trumpet archon)\n召唤自然盟友 I\n螨精 (Mite)\n召唤自然盟友 II\n巨蜘蛛 (Giant spider)\n召唤自然盟友 IV\n魔蝠 (Mephit)\n萨特羊人 (Satyr)\n召唤自然盟友 V\n独眼巨人 (Cyclops)\n双头巨人 (Ettin)\n蠍狮 (Manticore)\n召唤自然盟友 VI\n山丘巨人 (Hill giant)\n石巨人 (Stone giant)\n召唤自然盟友 VII\n火巨人 (Fire giant)\n霜巨人 (Frost giant)\n召唤自然盟友 VIII\n云巨人 (Cloud giant)\n召唤自然盟友 IX\n皮克精 (Pixie, 有迷舞与昏睡箭)\n风暴巨人 (Storm giant)<\/p>",
-    "source": "PC-RTT"
+    "castingTime_zh": "标准动作",
+    "range_zh": "每等级1里",
+    "area_zh": "半径10尺扩散区域",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术类似风讯术(whispering wind)，但该法术在传送完最初的信息后不会结束。在法术传递完最初的信息后，会在原地待1轮，记录该轮内所能听到的声音，然后按原速度原路径返回。并在施法地点放出那1轮内它所记录下的声音。之后继续记录1轮前往目的地。这股风会不断这样往返传递声音信息，直到时间结束。<\/p><p>有远程攻击的召唤怪物<\/p><p>下列的生物可以借由召唤怪物或召唤自然盟有法术被召唤出来(由GM决定)所以你可以使用他们远程攻击能力，在对抗你的敌人时提供支援，并且有效的在远程战斗中利用他们的特殊能力。如果还需要更多资讯，可以参考在PF怪物图鑑内各别怪物的条目。<\/p><p>召唤怪物II<\/p><p>巨蜘蛛(Giant spider)<\/p><p>召唤怪物III<\/p><p>圣光神使 (Lantern archon)<\/p><p>召唤怪物IV<\/p><p>地狱犬 (Hell hound)<\/p><p>魔蝠(Mephit)<\/p><p>召唤怪物V<\/p><p>巴拉尼天使 (Bralani azata)<\/p><p>锡尔族 (Xill)<\/p><p>召唤怪物VI<\/p><p>怒魔 (Devil, erinyes)<\/p><p>翼蛇人 (Lillend azata)<\/p><p>魅魔 (Demon, succubus)<\/p><p>召唤怪物VII<\/p><p>狩魔蛛 (Bebelith)<\/p><p>鹫魔 (Demon, vrock)<\/p><p>召唤怪物VIII<\/p><p>尖刺魔 (Barbed devil)<\/p><p>狂战魔 (Demon, hezrou)<\/p><p>召唤怪物IX<\/p><p>迦勒天 (Ghaele azata)<\/p><p>判魂魔 (Demon, nalfeshnee)<\/p><p>号角神使 (Trumpet archon)<\/p><p>召唤自然盟友 I<\/p><p>螨精 (Mite)<\/p><p>召唤自然盟友 II<\/p><p>巨蜘蛛 (Giant spider)<\/p><p>召唤自然盟友 IV<\/p><p>魔蝠 (Mephit)<\/p><p>萨特羊人 (Satyr)<\/p><p>召唤自然盟友 V<\/p><p>独眼巨人 (Cyclops)<\/p><p>双头巨人 (Ettin)<\/p><p>蠍狮 (Manticore)<\/p><p>召唤自然盟友 VI<\/p><p>山丘巨人 (Hill giant)<\/p><p>石巨人 (Stone giant)<\/p><p>召唤自然盟友 VII<\/p><p>火巨人 (Fire giant)<\/p><p>霜巨人 (Frost giant)<\/p><p>召唤自然盟友 VIII<\/p><p>云巨人 (Cloud giant)<\/p><p>召唤自然盟友 IX<\/p><p>皮克精 (Pixie, 有迷舞与昏睡箭)<\/p><p>风暴巨人 (Storm giant)<\/p>"
 }

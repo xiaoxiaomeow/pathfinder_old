@@ -1,15 +1,19 @@
 {
     "key": "ray of exhaustion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-exhaustion/",
     "name": "Ray of Exhaustion",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ray%20of%20Exhaustion",
+    "source": ["PRPG Core Rulebook pg. 330"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "magus": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "mesmerist": 3,
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "witch": 3,
+        "wizard": 3
     },
-    "bloodlines": {"accursed": 3},
     "castingTime": "1 standard action",
     "components": "V, S, M (a drop of sweat)",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -17,15 +21,14 @@
     "duration": "1 min./level",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>A black ray projects from your pointing finger. You must succeed on a ranged touch attack with the ray to strike a target.<\/p><p>The subject is immediately exhausted for the spell's duration. A successful Fortitude save means the creature is only fatigued.<\/p><p>A character that is already fatigued instead becomes exhausted.<\/p><p>This spell has no effect on a creature that is already exhausted. Unlike normal exhaustion or fatigue, the effect ends as soon as the spell's duration expires.<\/p>",
+    "text": "A black ray projects from your pointing finger. You must succeed on a ranged touch attack with the ray to strike a target.<br><br>The subject is immediately exhausted for the spell's duration. A successful Fortitude save means the creature is only fatigued.<br><br>A character that is already fatigued instead becomes exhausted.<br><br>This spell has no effect on a creature that is already exhausted. Unlike normal exhaustion or fatigue, the effect ends as soon as the spell's duration expires.",
     "name_zh": "力竭射线",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一滴汗)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "射线",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一条黑色的射线从你的手指射出。你必须成功进行一次远程接触攻击以击中一个目标。<\/p><p>在法术持续时间内，目标立刻变为力竭状态。一次成功的强韧豁免意味着该生物只会变为疲乏。<\/p><p>一个已经处于疲乏状态的生物将变为力竭。<\/p><p>此法术对于已经力竭的生物没有效果。与正常的力竭或疲乏不同，此效果在此法术持续时间结束后终止。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一条黑色的射线从你的手指射出。你必须成功进行一次远程接触攻击以击中一个目标。<\/p><p>在法术持续时间内，目标立刻变为力竭状态。一次成功的强韧豁免意味着该生物只会变为疲乏。<\/p><p>一个已经处于疲乏状态的生物将变为力竭。<\/p><p>此法术对于已经力竭的生物没有效果。与正常的力竭或疲乏不同，此效果在此法术持续时间结束后终止。<\/p>"
 }

@@ -1,18 +1,23 @@
 {
     "key": "burst of radiance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-radiance/",
     "name": "Burst of Radiance",
-    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Radiance",
+    "source": ["Champions of Purity pg. 29"],
     "school": "evocation",
     "descriptors":     [
         "good",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "cleric": 2,
         "druid": 2,
-        "sorcerer/wizard": 2
+        "hunter": 2,
+        "oracle": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a piece of flint and a pinch of silver dust)",
@@ -21,15 +26,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex partial",
     "spellResistance": "yes",
-    "text": "<p>This spell fills the area with a brilliant flash of shimmering light. Creatures in the area are blinded for 1d4 rounds, or dazzled for 1d4 rounds if they succeed at a Reflex save. Evil creatures in the area of the burst take 1d4 points of damage per caster level (max 5d4), whether they succeed at the Reflex save or not.<\/p>",
+    "text": "This spell fills the area with a brilliant flash of shimmering light. Creatures in the area are blinded for 1d4 rounds, or dazzled for 1d4 rounds if they succeed at a Reflex save. Evil creatures in the area of the burst take 1d4 points of damage per caster level (max 5d4), whether they succeed at the Reflex save or not.",
     "name_zh": "光耀爆发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一片燧石和一撮银粉)",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "area_zh": "10尺半径爆发",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "10英尺半径爆发",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射, 通过则减半",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术把目标区域笼罩在耀眼的闪光中。区域内生物目盲1d4轮，反射豁免成功目眩（dazzled）1d4轮。邪恶生物遭到每施法等级1d4点伤害（最高5d4），无论是否豁免成功。<\/p>",
-    "source": "PC-CoP"
+    "text_zh": "<p>该法术把目标区域笼罩在耀眼的闪光中。区域内生物目盲1d4轮，反射豁免成功目眩（dazzled）1d4轮。邪恶生物遭到每施法等级1d4点伤害（最高5d4），无论是否豁免成功。<\/p>"
 }

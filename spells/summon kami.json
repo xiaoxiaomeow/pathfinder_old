@@ -1,0 +1,28 @@
+{
+    "key": "summon kami",
+    "name": "Summon Kami",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Kami",
+    "source": ["Inner Sea Races pg. 223"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "race": "Tian",
+    "levels":     {
+        "druid": 5,
+        "hunter": 5,
+        "shaman": 5
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one or more kami",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>summon nature’s ally V<\/i>, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikigami.",
+    "race_zh": "Tian",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

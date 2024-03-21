@@ -1,15 +1,15 @@
 {
     "key": "implanted projection",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/implanted-projection/",
     "name": "Implanted Projection",
-    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Implanted%20Projection",
+    "source": ["Occult Origins pg. 13"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "mesmerist": 3,
         "psychic": 3
@@ -21,15 +21,14 @@
     "duration": "1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "Yes",
-    "text": "<p>This spell functions as <i>telempathic projection<\/i>, except its mood-altering effects remain dormant in the target's mind. Upon casting this spell, the caster designates a command word or phrase, of which the target retains no memory. The next creature to speak the command word or phrase to the target triggers the implanted telempathic projection, treating the speaker as the original spellcaster.<\/p>",
+    "text": "This spell functions as <i>telempathic projection<\/i><sup>OA<\/sup>, except its mood-altering effects remain dormant in the target’s mind. Upon casting this spell, the caster designates a command word or phrase, of which the target retains no memory. The next creature to speak the command word or phrase to the target triggers the implanted <i>telempathic projection<\/i>, treating the speaker as the original spellcaster.",
     "name_zh": "蜇伏投影",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一名生物",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "有",
-    "text_zh": "<p>此法术如同心绪投影(telempathic projection)OA般作用，除了它改变心情的效果在目标的心灵中保持蜇伏。在施放此法术时，施法者指定一个命令字或词组，然后目标会遗忘这段记忆。下一个说出这个命令字或词组的生物，会触发目标潜伏著的心绪投影，目标会将说话者视为最初的施法者。\n秘学法术\n异能魔法并没有被其他施法者所忽视，尤其是在夸恩提姆(Quantium)和在艾巴萨罗姆的奥术大学堂(Arcanamirium)。对复制或模仿异能法术的努力通常是保密的，但这吸引秘学的追求者。下列的法术常见于迦伦德(Garund)北部以及艾巴萨罗姆。<\/p>",
-    "source": "PC-OO"
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术如同心绪投影(telempathic projection)OA般作用，除了它改变心情的效果在目标的心灵中保持蜇伏。在施放此法术时，施法者指定一个命令字或词组，然后目标会遗忘这段记忆。下一个说出这个命令字或词组的生物，会触发目标潜伏著的心绪投影，目标会将说话者视为最初的施法者。<\/p><p>秘学法术<\/p><p>异能魔法并没有被其他施法者所忽视，尤其是在夸恩提姆(Quantium)和在艾巴萨罗姆的奥术大学堂(Arcanamirium)。对复制或模仿异能法术的努力通常是保密的，但这吸引秘学的追求者。下列的法术常见于迦伦德(Garund)北部以及艾巴萨罗姆。<\/p>"
 }

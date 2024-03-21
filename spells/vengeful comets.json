@@ -1,13 +1,16 @@
 {
     "key": "vengeful comets",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vengeful-comets/",
     "name": "Vengeful Comets",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vengeful%20Comets",
+    "source": ["Inner Sea Magic pg. 62"],
     "school": "evocation",
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 3,
         "druid": 3,
-        "sorcerer/wizard": 3
+        "hunter": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,15 +19,14 @@
     "duration": "1 round/level or until completely discharged (see below)",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>This spell causes a number of miniature comets (up to one per four caster levels) to orbit in the air above your head. Bits of snow and cold wind drift down from the orbiting comets, granting you a circumstance bonus equal to the number of comets on all saving throws against fire effects.<\/p><p>The actual use for the comets, though, is to make vengeful strikes against foes who dare to target you with offensive spells. As an immediate action whenever you are affected by a spell cast by another creature, you can fire one of your vengeful comets as a bolt of icy retribution (provided the source of the offensive spell is within range of your vengeful comet, of course). The comet requires a ranged touch attack to hit. If it hits, a comet deals 1d6 points of bludgeoning damage and 3d6 points of cold damage to the target, plus an additional amount of cold damage equal to the level of the spell you are retaliating against. If the spell you're retaliating against had the fire descriptor, you may opt to fire two comets instead of one.<\/p>",
+    "text": "This spell causes a number of miniature comets (up to one per four caster levels) to orbit in the air above your head. Bits of snow and cold wind drift down from the orbiting comets, granting you a circumstance bonus equal to the number of comets on all saving throws against fire effects.<br><br>The actual use for the comets, though, is to make vengeful strikes against foes who dare to target you with offensive spells. As an immediate action whenever you are affected by a spell cast by another creature, you can fire one of your <i>vengeful comets <\/i>as a bolt of icy retribution (provided the source of the offensive spell is within range of your <i>vengeful comet<\/i>, of course). The comet requires a ranged touch attack to hit. If it hits, a comet deals 1d6 points of bludgeoning damage and 3d6 points of cold damage to the target, plus an additional amount of cold damage equal to the level of the spell you are retaliating against. If the spell you’re retaliating against had the fire descriptor, you may opt to fire two comets instead of one.",
     "name_zh": "复仇彗星",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "每4级1个彗星",
-    "duration_zh": "1轮/等级 或 直至完全耗尽（见后文）",
+    "duration_zh": "1轮/等级 或 直至完全耗尽; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术创造出许多小型彗星（至多每四个施法者等级1颗），它们会在你头顶上方的环绕飞行。雪花与寒风从环绕着的彗星上洒落，这使得你在对抗所有火焰效果（fire effects）时，豁免获得等同于彗星数量点环境加值。\n然而这些彗星的实际用途并非这些，它们的作用是对那些胆敢对你使用攻击性法术的目标进行报复性打击。每当你被其他生物所施放的法术所影响时，你能够以直觉动作发射一颗复仇彗星，以此作为报复用的冰弹（当然，这是假定攻击性法术的源头处于你的复仇彗星的法术范围内的时候）。彗星需要进行一次远程接触攻击才能命中。若它命中，彗星会对目标造成1d6点钝击伤害以及3d6点寒冷伤害，此外还会额外造成等同于引起你的报复的法术等级点寒冷伤害。若引起报复的法术具有火焰描述符，那么你能够选择发射两颗彗星而非原本的一颗。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>法术创造出许多小型彗星（至多每四个施法者等级1颗），它们会在你头顶上方的环绕飞行。雪花与寒风从环绕着的彗星上洒落，这使得你在对抗所有火焰效果（fire effects）时，豁免获得等同于彗星数量点环境加值。<\/p><p>然而这些彗星的实际用途并非这些，它们的作用是对那些胆敢对你使用攻击性法术的目标进行报复性打击。每当你被其他生物所施放的法术所影响时，你能够以直觉动作发射一颗复仇彗星，以此作为报复用的冰弹（当然，这是假定攻击性法术的源头处于你的复仇彗星的法术范围内的时候）。彗星需要进行一次远程接触攻击才能命中。若它命中，彗星会对目标造成1d6点钝击伤害以及3d6点寒冷伤害，此外还会额外造成等同于引起你的报复的法术等级点寒冷伤害。若引起报复的法术具有火焰描述符，那么你能够选择发射两颗彗星而非原本的一颗。<\/p>"
 }

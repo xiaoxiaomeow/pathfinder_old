@@ -1,26 +1,33 @@
 {
     "key": "ancestral regression",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-regression/",
     "name": "Ancestral Regression",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Regression",
+    "source": ["Advanced Race Guide pg. 107"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
+    "race": "drow",
     "levels":     {
         "alchemist": 2,
         "antipaladin": 3,
+        "arcanist": 3,
         "cleric": 2,
+        "investigator": 2,
+        "oracle": 2,
         "psychic": 2,
-        "sorcerer/wizard": 3,
-        "witch": 2
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "willing drow touched",
-    "duration": "24 hours (d)",
+    "duration": "24 hours (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target drow transforms into a surface elf. The drow loses her darkvision and light-blindness racial traits and gains the low-light vision racial trait in their place. The alignment and personality of the drow are not affected by the transformation, but the spell conceals her alignment as an undetectable alignment spell. The spell grants the target a +10 bonus on Disguise checks to pass as an elf, though she appears to be an elven analog of herself and can be recognized as such by other drow who know her.<\/p>",
+    "text": "The target drow transforms into a surface elf. The drow loses her darkvision and light-blindness racial traits and gains the low-light vision racial trait in their place. The alignment and personality of the drow are not affected by the transformation, but the spell conceals her alignment as an <i>undetectable alignment <\/i>spell. The spell grants the target a +10 bonus on Disguise checks to pass as an elf, though she appears to be an elven analog of herself and can be recognized as such by other drow who know her.",
     "name_zh": "返祖术",
     "race_zh": "卓尔",
     "castingTime_zh": "标准动作",
@@ -30,6 +37,5 @@
     "duration_zh": "24小时 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术将目标卓尔转化为地表的精灵。卓尔失去她的黑暗视觉以及【强光致盲]种族特性，并获得昏暗视觉种族特性。卓尔的阵营以及人格不会受到转化影响，但是该法术会隐藏她的阵营就如同受到‘隐匿阵营’法术一般。该法术使目标伪装成精灵时的易容检定获得+10加值。尽管她自己看起来像是精灵，但是了解目标的卓尔依旧可以认出她。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>法术将目标卓尔转化为地表的精灵。卓尔失去她的黑暗视觉以及【强光致盲]种族特性，并获得昏暗视觉种族特性。卓尔的阵营以及人格不会受到转化影响，但是该法术会隐藏她的阵营就如同受到‘隐匿阵营’法术一般。该法术使目标伪装成精灵时的易容检定获得+10加值。尽管她自己看起来像是精灵，但是了解目标的卓尔依旧可以认出她。<\/p>"
 }

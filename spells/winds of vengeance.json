@@ -1,33 +1,30 @@
 {
     "key": "winds of vengeance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/winds-of-vengeance/",
     "name": "Winds of Vengeance",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Winds%20of%20Vengeance",
+    "source": ["Advanced Player's Guide pg. 256"],
     "school": "evocation",
     "descriptors": ["air"],
     "levels":     {
-        "cleric/oracle": 9,
+        "arcanist": 9,
+        "cleric": 9,
         "druid": 9,
+        "oracle": 9,
         "shaman": 9,
-        "sorcerer/wizard": 9
+        "sorcerer": 9,
+        "wizard": 9
     },
-    "subdomains": {"wind": 9},
-    "elementalSchools":     {
-        "air": 9,
-        "wood": 9
-    },
-    "mysteries": {"wind": 9},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
-    "duration": "1 min./level",
-    "text": "<p>You surround yourself with a buffeting shroud of supernatural, tornado-force winds. These winds grant you a fly speed of 60 feet with perfect maneuverability. Neither your armor nor your load affects this fly speed. The winds shield you from any other wind effects, and form a shell of breathable air around you, allowing you to fly and breathe underwater or in outer space.<\/p><p>Ranged weapons (including giant-thrown boulders, siege weapon projectiles, and other massive ranged weapons) passing through the winds are deflected by the winds and automatically miss you. Gases and most gaseous breath weapons cannot pass though the winds.<\/p><p>In addition, when a creature hits you with a melee attack, you can shape your winds so they lash out at that creature as an immediate action. The creature must make a Fortitude Saving Throw or take 5d8 points of bludgeoning damage and be knocked prone (if on the ground). On a failed save, Huge flying creatures are checked and Large-sized or smaller flying creatures are blown away instead of knocked prone.<\/p><p>On a successful save, the damage is halved and the creature is not knocked prone (or checked or blown away).<\/p>",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "You surround yourself with a buffeting shroud of supernatural, tornado-force winds. These winds grant you a fly speed of 60 feet with perfect maneuverability. Neither your armor nor your load affects this fly speed. The winds shield you from any other wind effects, and form a shell of breathable air around you, allowing you to fly and breathe underwater or in outer space. Ranged weapons (including giant-thrown boulders, siege weapon projectiles, and other massive ranged weapons) passing through the winds are deflected by the winds and automatically miss you. Gases and most gaseous breath weapons cannot pass though the winds.<br><br>In addition, when a creature hits you with a melee attack, you can shape your winds so they lash out at that creature as an immediate action. The creature must make a Fortitude saving throw or take 5d8 points of bludgeoning damage and be knocked prone (if on the ground). On a failed save, Huge flying creatures are checked and Large-sized or smaller flying creatures are blown away instead of knocked prone. On a successful save, the damage is halved and the creature is not knocked prone (or checked or blown away).",
     "name_zh": "复仇之风",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你让自己被一股超自然的猛烈强风所包围，风力等于龙卷风。<\/p><p>这些风会给予你60尺的飞行速度和完美机动性。你的盔甲和负载都不会影响这个飞行速度。<\/p><p>风层使你免受任何其他风系效果影响，并且会形成一层可供呼吸的空气外壳，使你能够在太空或水下飞行和呼吸。<\/p><p>所以试图穿过风层的远程武器 (包括巨型投石机、攻城炮和其他重型远程武器) 都会被风力偏转并自动未命中。气体和大部分基于气体的喷吐攻击都不能穿过风层。<\/p><p>此外，如果一个生物用近战武器命中你，你可以以一个直觉动作用风力重击他们。生物必须进行一次强韧豁免检定，不然就会受到5d8点钝击伤害并被击倒 (如果在地面上)。如果在空中，一个豁免失败的巨型飞行生物会被阻拦而不是被击倒，而超大型或更小的生物会直接被击飞。<\/p><p>如果豁免成功，伤害减半，并且不会被击倒 (或阻拦和吹飞)。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你让自己被一股超自然的猛烈强风所包围，风力等于龙卷风。<\/p><p>这些风会给予你60尺的飞行速度和完美机动性。你的盔甲和负载都不会影响这个飞行速度。<\/p><p>风层使你免受任何其他风系效果影响，并且会形成一层可供呼吸的空气外壳，使你能够在太空或水下飞行和呼吸。<\/p><p>所以试图穿过风层的远程武器 (包括巨型投石机、攻城炮和其他重型远程武器) 都会被风力偏转并自动未命中。气体和大部分基于气体的喷吐攻击都不能穿过风层。<\/p><p>此外，如果一个生物用近战武器命中你，你可以以一个直觉动作用风力重击他们。生物必须进行一次强韧豁免检定，不然就会受到5d8点钝击伤害并被击倒 (如果在地面上)。如果在空中，一个豁免失败的巨型飞行生物会被阻拦而不是被击倒，而超大型或更小的生物会直接被击飞。<\/p><p>如果豁免成功，伤害减半，并且不会被击倒 (或阻拦和吹飞)。<\/p>"
 }

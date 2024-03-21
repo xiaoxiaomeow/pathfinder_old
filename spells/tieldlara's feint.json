@@ -1,12 +1,15 @@
 {
     "key": "tieldlara's feint",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/duelists-feint/",
     "name": "Tieldlara's Feint",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tieldlara's%20Feint",
+    "source": ["Adventurer's Guide pg. 27"],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors": ["mind-affecting"],
-    "levels": {"bard": 2},
+    "levels":     {
+        "bard": 2,
+        "skald": 2
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "20 ft.",
@@ -14,7 +17,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p class=\"desciption\">With a lascivious wink and a sensuous sway, you flood a foe's mind with lustful thoughts of you, distracting your target and rendering that creature vulnerable to your attacks.<\/p><p>An affected creature takes a penalty equal to half your caster level on concentration checks and to its CMD against dirty trick, grapple, and steal combat maneuvers you perform. The creature is also denied its Dexterity bonus to AC for the first melee attack you make against it each round.<\/p><p>If the target would not normally be sexually attracted to you, it receives a +4 bonus on its saving throw. If you end your turn more than 20 feet from the target or end your turn where your target cannot see you, this spell immediately ends.<\/p>",
+    "text": "With a lascivious wink and a sensuous sway, you flood a foe’s mind with lustful thoughts of you, distracting your target and rendering that creature vulnerable to your attacks. An affected creature takes a penalty equal to half your caster level on concentration checks and to its CMD against dirty trick<sup>APG<\/sup>, grapple, and steal<sup>APG<\/sup> combat maneuvers you perform. The creature is also denied its Dexterity bonus to AC for the first melee attack you make against it each round.<br><br> If the target would not normally be sexually attracted to you, it receives a +4 bonus on its saving throw. If you end your turn more than 20 feet from the target or end your turn where your target cannot see you, this spell immediately ends.",
     "name_zh": "蒂悠达拉的勾引",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -23,6 +26,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你眼含春色、扭腰摆臀，让敌人满脑子都是对你的淫念，无法专心，也更容易被你的攻击所伤。受影响的生物在进行专注检定时承受等同你施法者等级一半的减值，其CMD在对抗由你进行的阴招、擒抱与窃取战技时也要承受同样的减值。在你每轮对其进行的第一次近战攻击上，该生物会失去其AC上的敏捷加值。\n若目标通常不会对你感“性”趣的话，它在豁免掷骰上获得+4加值。若你在离目标超过20尺的地方或在目标无法看见你的地方结束回合，此法术立刻结束。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>你眼含春色、扭腰摆臀，让敌人满脑子都是对你的淫念，无法专心，也更容易被你的攻击所伤。受影响的生物在进行专注检定时承受等同你施法者等级一半的减值，其CMD在对抗由你进行的阴招、擒抱与窃取战技时也要承受同样的减值。在你每轮对其进行的第一次近战攻击上，该生物会失去其AC上的敏捷加值。<\/p><p>若目标通常不会对你感“性”趣的话，它在豁免掷骰上获得+4加值。若你在离目标超过20尺的地方或在目标无法看见你的地方结束回合，此法术立刻结束。<\/p>"
 }

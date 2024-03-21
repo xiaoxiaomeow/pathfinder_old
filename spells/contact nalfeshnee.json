@@ -1,26 +1,29 @@
 {
     "key": "contact nalfeshnee",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contact-nalfeshnee/",
     "name": "Contact Nalfeshnee",
-    "book": "Pathfinder Campaign Setting: Demons Revisited © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Nalfeshnee",
+    "source": ["Demons Revisited pg. 50"],
     "school": "divination",
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 round",
     "components": "V, S, M (powdered sapphire worth 250 gp), F (bejeweled cold iron mirror worth at least 2,000 gp)",
     "range": "personal",
     "target": "you",
     "duration": "concentration",
-    "text": "<p>When you cast this spell, you fall into a trance and become helpless as long as you continue concentrating.<\/p><p>Choose any one Knowledge skill other than arcana or planes. Your mind is placed in telepathic contact with a nalfeshnee demon skilled at that particular Knowledge skill, in addition to arcana and planes. Each round that you continue to concentrate, you may ask the nalfeshnee one question and it will answer as best it can. If you ask a question about arcana or planes, the nalfeshnee has a +23 bonus to the skill check. If you ask about the Knowledge skill you selected, the nalfeshnee has a +20 bonus. It cannot answer questions pertaining to other Knowledge skills—to do so, you must cast the spell again.<\/p><p>Contact with Abyssal minds is dangerous, and each time the nalfeshnee answers a question, you suffer 1d4 points of ability drain to Intelligence, Wisdom, or Charisma (determined randomly) unless you make a DC 22 Will save. Each additional question you ask with this spell over the course of a single 24-hour period imparts a cumulative –1 penalty on this saving throw. Chaotic evil spellcasters always gain a +4 bonus on this saving throw.<\/p>",
+    "text": "When you cast this spell, you fall into a trance and become helpless as long as you continue concentrating. Choose any one Knowledge skill other than arcana or planes. Your mind is placed in telepathic contact with a nalfeshnee demon skilled at that particular Knowledge skill, in addition to arcana and planes. Each round that you continue to concentrate, you may ask the nalfeshnee one question and it will answer as best it can. If you ask a question about arcana or planes, the nalfeshnee has a +23 bonus to the skill check. If you ask about the Knowledge skill you selected, the nalfeshnee has a +20 bonus. It cannot answer questions pertaining to other Knowledge skills—to do so, you must cast the spell again.<br><br>Contact with Abyssal minds is dangerous, and each time the nalfeshnee answers a question, you suffer 1d4 points of ability drain to Intelligence, Wisdom, or Charisma (determined randomly) unless you make a DC 22 Will save. Each additional question you ask with this spell over the course of a single 24-hour period imparts a cumulative –1 penalty on this saving throw. Chaotic evil spellcasters always gain a +4 bonus on this saving throw.",
     "name_zh": "沟通判魂魔",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、材料(价值250金币的蓝宝石粉末)、器材(一面价值至少2000金币，饰有宝石的寒铁镜子)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "专注",
-    "text_zh": "<p>在你施法时，你开始出神，只要你保持专注，你就处于无助。选择一个非奥术或位面的知识技能。你的思维与一名判魂魔架起了心灵联接，除了奥术和位面外，他也熟知你所选择的知识技能。你每保持专注一轮，你就可以询问判魂魔一个问题，而牠会尽其所能的回答你。如果你询问有关奥术或位面的问题，判魂魔在该技能检定上的加值为+23。如果你询问的是自己选择的知识技能，判魂魔在该技能检定上的加值为+20。牠不能回答与其它知识技能相关的问题─如果你想问，你必需再次施法。\n与深渊对视极其危险，每当判魂魔回答问题后，你需要进行一次DC22的意志豁免检定，否则会在智力、感知或魅力(随机决定)上受到1d4点属性吸取(ability drain)。以24小时为一个区间，你借由此法术每多问一个问题，会在此豁免检定上承受-1罚值(累计)。混乱邪恶的施法者会在此豁免检定上获得+4加值。<\/p>",
-    "source": "CS-DR"
+    "text_zh": "<p>在你施法时，你开始出神，只要你保持专注，你就处于无助。选择一个非奥术或位面的知识技能。你的思维与一名判魂魔架起了心灵联接，除了奥术和位面外，他也熟知你所选择的知识技能。你每保持专注一轮，你就可以询问判魂魔一个问题，而牠会尽其所能的回答你。如果你询问有关奥术或位面的问题，判魂魔在该技能检定上的加值为+23。如果你询问的是自己选择的知识技能，判魂魔在该技能检定上的加值为+20。牠不能回答与其它知识技能相关的问题─如果你想问，你必需再次施法。<\/p><p>与深渊对视极其危险，每当判魂魔回答问题后，你需要进行一次DC22的意志豁免检定，否则会在智力、感知或魅力(随机决定)上受到1d4点属性吸取(ability drain)。以24小时为一个区间，你借由此法术每多问一个问题，会在此豁免检定上承受-1罚值(累计)。混乱邪恶的施法者会在此豁免检定上获得+4加值。<\/p>"
 }

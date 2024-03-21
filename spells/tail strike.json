@@ -1,30 +1,32 @@
 {
     "key": "tail strike",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tail-strike/",
     "name": "Tail Strike",
-    "book": "Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tail%20Strike",
+    "source": ["Legacy of Dragons pg. 31"],
     "school": "transmutation",
     "descriptors": ["draconic"],
     "levels":     {
         "alchemist": 4,
         "antipaladin": 3,
+        "arcanist": 3,
         "bloodrager": 3,
+        "investigator": 4,
         "medium": 3,
         "paladin": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, M (a dragon scale)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (see text)",
-    "text": "<p>You grow a draconic tail (clothing and armor adjust as necessary), or if you already have a tail, it takes on a draconic appearance. If you have a draconic bloodline, the tail matches the appearance of that dragon type; otherwise, it matches the appearance of a dragon type whose alignment matches your own. You gain a tail slam attack that deals 1d6 points of damage (1d4 if Small, 1d8 if Large) + your Strength modifier. If you already have a tail attack, you instead extend the reach of your tail attack by 5 feet.<\/p><p>If you have a tail sweep attack, this spell increases its radius by 10 feet.<\/p><p>If used as part of a full-attack action, the tail slam is considered a secondary attack, is made at your full base attack bonus –5, and adds half your Strength modifier to its damage. You can end this spell before its normal duration by uttering a bestial roar as a swift action. When you do, you can attempt an Intimidate check to demoralize all foes within a 30-foot radius that can hear the roar.<\/p><p>Clerics, inquisitors, oracles, and warpriests who worship dragon deities add tail strike to their class spell lists as a 4th-level spell.<\/p>",
+    "duration": "1 minute/level (see text)",
+    "text": "You grow a draconic tail (clothing and armor adjust as necessary), or if you already have a tail, it takes on a draconic appearance. If you have a draconic bloodline, the tail matches the appearance of that dragon type; otherwise, it matches the appearance of a dragon type whose alignment matches your own. You gain a tail slam attack that deals 1d6 points of damage (1d4 if Small, 1d8 if Large) + your Strength modifier. If you already have a tail attack, you instead extend the reach of your tail attack by 5 feet. If you have a tail sweep attack, this spell increases its radius by 10 feet. <br><br> If used as part of a full-attack action, the tail slam is considered a secondary attack, is made at your full base attack bonus – 5, and adds half your Strength modifier to its damage. You can end this spell before its normal duration by uttering a bestial roar as a swift action. When you do, you can attempt an Intimidate check to demoralize all foes within a 30-foot radius that can hear the roar. <br><br>Clerics, inquisitors, oracles, and warpriests who worship dragon deities add <i>tail strike<\/i> to their class spell lists as a 4th-level spell.",
     "name_zh": "尾击术",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，材料（一枚龙鳞）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级（见正文）",
-    "text_zh": "<p>你长出一只龙尾（衣服和盔甲会根据需要调整），或者如果当你已经有尾巴，它就会呈现出龙尾的样子。如果你有巨龙血脉，尾巴会与该龙种相匹配；否则，它将匹配与你阵营一致的龙类。你得到一个尾巴攻击，会造成1d6点的伤害（如果小型则为1d4，如果是大型的话则为1d8）+你的力量调整值。如果你已经有了扫尾攻击，你可以将你的尾巴攻击范围扩展5呎。如果你有一个尾扫攻击，法术会将半径增加10呎。\n如果作为整轮攻击行动的一部分，扫尾被认为是一个次要攻击，在你全部的基础攻击加值上-5，并在伤害中加上你力量调整值的一半。你可以在法术正常的持续时间之前结束法术，通过以一个迅捷动作发出一声野兽般的怒吼。当你这样做的时候，你可以尝试一个威吓检定，挫败30呎半径内所有能听见吼声的敌人的士气。\n崇拜龙神的牧师，审判者，先知，战斗祭司可以将尾击术添加到他们的职业法术列表，作为一个4级法术。<\/p>",
-    "source": "PC-LoD"
+    "duration_zh": "1分钟/等级; 见文本",
+    "text_zh": "<p>你长出一只龙尾（衣服和盔甲会根据需要调整），或者如果当你已经有尾巴，它就会呈现出龙尾的样子。如果你有巨龙血脉，尾巴会与该龙种相匹配；否则，它将匹配与你阵营一致的龙类。你得到一个尾巴攻击，会造成1d6点的伤害（如果小型则为1d4，如果是大型的话则为1d8）+你的力量调整值。如果你已经有了扫尾攻击，你可以将你的尾巴攻击范围扩展5呎。如果你有一个尾扫攻击，法术会将半径增加10呎。<\/p><p>如果作为整轮攻击行动的一部分，扫尾被认为是一个次要攻击，在你全部的基础攻击加值上-5，并在伤害中加上你力量调整值的一半。你可以在法术正常的持续时间之前结束法术，通过以一个迅捷动作发出一声野兽般的怒吼。当你这样做的时候，你可以尝试一个威吓检定，挫败30呎半径内所有能听见吼声的敌人的士气。<\/p><p>崇拜龙神的牧师，审判者，先知，战斗祭司可以将尾击术添加到他们的职业法术列表，作为一个4级法术。<\/p>"
 }

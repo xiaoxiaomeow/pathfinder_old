@@ -1,25 +1,28 @@
 {
     "key": "instant enemy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-enemy/",
     "name": "Instant Enemy",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Enemy",
+    "source": ["Advanced Player's Guide pg. 229"],
     "school": "enchantment",
-    "levels": {"ranger": 3},
+    "levels":     {
+        "hunter": 3,
+        "ranger": 3
+    },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 min./level",
+    "target": "one creature that is not your favored enemy.",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>With this spell you designate the target as your favored enemy for the remainder of its duration. Select one of your favored enemy types. For the duration of the spell, you treat the target as if it were that type of favored enemy for all purposes.<\/p>",
+    "text": "With this spell you designate the target as your favored enemy for the remainder of its duration. Select one of your favored enemy types. For the duration of the spell, you treat the target as if it were that type of favored enemy for all purposes.",
     "name_zh": "即刻仇敌",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名不属于你的宿敌的生物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>使用该法术指定的目标会在持续时间内视同为你的宿敌。从你的宿敌类型中选择一种。在该法术持续时间内，你会在任何方面均将目标视同为该类宿敌。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>使用该法术指定的目标会在持续时间内视同为你的宿敌。从你的宿敌类型中选择一种。在该法术持续时间内，你会在任何方面均将目标视同为该类宿敌。<\/p>"
 }

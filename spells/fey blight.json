@@ -1,0 +1,25 @@
+{
+    "key": "fey blight",
+    "name": "Fey Blight",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Blight",
+    "source": ["Pathfinder #119: Prisoners of the Blight pg. 73"],
+    "school": "transmutation",
+    "descriptors":     [
+        "curse",
+        "ruse"
+    ],
+    "descriptorsOperator": ",",
+    "castingTime": "1 minute",
+    "components": "V",
+    "range": "touch or close (25 ft. + 5 ft./2 levels)",
+    "target": "one living non-fey, non-plant creature",
+    "duration": "see below (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "The target is cursed, gaining the bane of the caster’s fey race (see below for details on each specific fey race’s bane and duration). A creature that succeeds at its saving throw is immune to further castings of <i>fey blight<\/i> from the same type of fey for 24 hours. <i>Fey blight<\/i> cannot be dispelled, but effects that remove curses function against it.<br><br> Attempts to identify <i>fey blight<\/i> with a skill check incorrectly identify it as <i>fey boon<\/i> (see the ruse descriptor on page 192 of <i>Pathfinder RPG Ultimate Intrigue<\/i>).",
+    "castingTime_zh": "1分钟",
+    "range_zh": "接触 和 近距 (25尺+每2等级5尺)",
+    "duration_zh": "see below (D)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

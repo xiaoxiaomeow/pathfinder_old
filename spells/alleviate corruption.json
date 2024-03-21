@@ -1,14 +1,16 @@
 {
     "key": "alleviate corruption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alleviate-corruption/",
     "name": "Alleviate Corruption",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alleviate%20Corruption",
+    "source": ["Horror Adventures pg. 108"],
     "school": "abjuration",
     "levels":     {
         "cleric": 6,
+        "occultist": 6,
         "psychic": 6,
         "shaman": 6,
         "spiritualist": 6,
+        "warpriest": 6,
         "witch": 6
     },
     "castingTime": "1 minute",
@@ -18,7 +20,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You combat the rising corruption in another creature or advance the long-term process of exorcising it entirely. This spell has two purposes, and you choose which application to use at the time of casting.<\/p><p style=\"margin-left:40px\"><b>Combat Corruption<\/b>: Each time a creature fails a saving throw to prevent its corruption from progressing (as described in that corruption's Progression section), it advances to the next corruption stage—at stage 3, it loses the battle against its corruption. Using this spell can lower the target's corruption stage by 1. This has no effect if the target isn't at progression stage of 1 or higher.<\/p><p style=\"margin-left:40px\"><b>Remove Corruption<\/b>: You can remove 1 manifestation level from the target creature, as well as the most recently acquired manifestation and its corresponding gift and stain. Doing this also reduces the power of gifts and stains that vary based upon manifestation level. This application of alleviate corruption doesn't reduce the target's corruption stage. If the target creature loses all manifestation levels, it is cured of the corruption.<\/p><p>Either application of the spell requires a caster level check. The DC is equal to 10 + double the target's manifestation level + 3 times the target's corruption stage (effectively 0, 3, or 6, since stage 3 removes the character from player control).<\/p><p>Tampering with corruptions is dangerous, as their nature is contagious. If you fail this caster level check by 5 or more, you contract the corruption and gain a manifestation (the rules for the useful and vile corruption variants still apply). A roll of natural 1 on the caster level check is an automatic failure. If you already have the same corruption, you must instead attempt an immediate saving throw against it. Casting alleviate corruption on yourself automatically fails, as does casting it on a target who has fully succumbed to a corruption (failed three saving throws against it).<\/p><p>A creature can be the beneficiary of this spell only once per week, whether it succeeds or not.<\/p>",
+    "text": "You combat the rising corruption (see page 14) in another creature or advance the long-term process of exorcising it entirely. This spell has two purposes, and you choose which application to use at the time of casting.<br><br> <i>Combat Corruption<\/i>: Each time a creature fails a saving throw to prevent its corruption from progressing (as described in that corruption’s Progression section), it advances to the next corruption stage—at stage 3, it loses the battle against its corruption. Using this spell can lower the target’s corruption stage by 1. This has no effect if the target isn’t at progression stage of 1 or higher.<br><br> <i>Remove Corruption<\/i>: You can remove 1 manifestation level from the target creature, as well as the most recently acquired manifestation and its corresponding gift and stain. Doing this also reduces the power of gifts and stains that vary based upon manifestation level. This application of <i>alleviate corruption<\/i> doesn’t reduce the target’s corruption stage. If the target creature loses all manifestation levels, it is cured of the corruption.<br><br> Either application of the spell requires a caster level check. The DC is equal to 10 + double the target’s manifestation level + 3 times the target’s corruption stage (effectively 0, 3, or 6, since stage 3 removes the character from player control).<br><br> Tampering with corruptions is dangerous, as their nature is contagious. If you fail this caster level check by 5 or more, you contract the corruption and gain a manifestation (the rules for the useful and vile corruption variants still apply). A roll of natural 1 on the caster level check is an automatic failure. If you already have the same corruption, you must instead attempt an immediate saving throw against it. Casting <i>alleviate corruption<\/i> on yourself automatically fails, as does casting it on a target who has fully succumbed to a corruption (failed three saving throws against it). A creature can be the beneficiary of this spell only once per week, whether it succeeds or not.",
     "name_zh": "缓和腐化",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、材料 (价值500gp的稀有药草、凝神香以及珠宝/目标的角色等级或HD)",
@@ -27,6 +29,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你与另一个生物不断提高的腐败争斗，或更进一步的推动完全驱逐它的长期过程。此法术有两个目的，而你可以在施法时选择你要运用的那个。\n与腐败争斗：每当一个生物在防止他的腐败发展(如同腐败的发展章节所描述的)的豁免检定中失败，它将会进入下一个腐化阶段，在阶段3，他在与他的腐化的争斗中失败了。使用此法术可以此目标的腐化阶段降低一阶。此如果目标没有处于发展阶段1或更高的情况下，此法术无效。\n移除腐化：你可以从目标生物身上移除一阶段的变异(manifestation)，以及最近那次获得的变异和与它相符的恩典(gift)与污染(stain)。\n这么做也会减弱恩典与污染基于变异阶段而变化的力量。这样运用缓和腐化并不会减少目标的腐化程度。如果目标生物失去所有的变异阶段，那腐化被治愈。\n该法术的任意一种运用皆要求施法者等级检定。DC为10+双倍受术者变异阶段+三倍受术者腐化程度(于0、3、6生效，从程度三开始角色不再受玩家控制)。\n影响腐化是危险的，因为他们有传染的性质。如果你在施法者等级检定失败超过5点或更多，你会感染腐化并获得一个变异(实用腐化Useful Corruption以及黑暗腐化vile corruption的变体规则仍旧适用)。在施法者等级检定上天然骰出1自动失败。如果你已经有了相同的腐化，则你必须立即尝试一次豁免检定来对抗它。对你自己施展缓和腐化自动失败，而对完全屈服于腐化的目标施展也一样(在对抗腐化的豁免检定上失败三次)。一个生物一周只能受益一次此法术，不管成功还是失败。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你与另一个生物不断提高的腐败争斗，或更进一步的推动完全驱逐它的长期过程。此法术有两个目的，而你可以在施法时选择你要运用的那个。<\/p><p>与腐败争斗：每当一个生物在防止他的腐败发展(如同腐败的发展章节所描述的)的豁免检定中失败，它将会进入下一个腐化阶段，在阶段3，他在与他的腐化的争斗中失败了。使用此法术可以此目标的腐化阶段降低一阶。此如果目标没有处于发展阶段1或更高的情况下，此法术无效。<\/p><p>移除腐化：你可以从目标生物身上移除一阶段的变异(manifestation)，以及最近那次获得的变异和与它相符的恩典(gift)与污染(stain)。<\/p><p>这么做也会减弱恩典与污染基于变异阶段而变化的力量。这样运用缓和腐化并不会减少目标的腐化程度。如果目标生物失去所有的变异阶段，那腐化被治愈。<\/p><p>该法术的任意一种运用皆要求施法者等级检定。DC为10+双倍受术者变异阶段+三倍受术者腐化程度(于0、3、6生效，从程度三开始角色不再受玩家控制)。<\/p><p>影响腐化是危险的，因为他们有传染的性质。如果你在施法者等级检定失败超过5点或更多，你会感染腐化并获得一个变异(实用腐化Useful Corruption以及黑暗腐化vile corruption的变体规则仍旧适用)。在施法者等级检定上天然骰出1自动失败。如果你已经有了相同的腐化，则你必须立即尝试一次豁免检定来对抗它。对你自己施展缓和腐化自动失败，而对完全屈服于腐化的目标施展也一样(在对抗腐化的豁免检定上失败三次)。一个生物一周只能受益一次此法术，不管成功还是失败。<\/p>"
 }

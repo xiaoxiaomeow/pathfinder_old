@@ -1,28 +1,32 @@
 {
     "key": "undead anatomy i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undead-anatomy-i/",
     "name": "Undead Anatomy I",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Undead%20Anatomy%20I",
+    "source": ["Ultimate Magic pg. 244"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "bloodrager": 3,
+        "investigator": 3,
         "magus": 3,
-        "sorcerer/wizard": 3
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a piece of the creature whose form you plan to assume)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>When you cast this spell, you can assume the form of any Small or Medium corporeal creature of the undead type, which must be vaguely humanoid-shaped (like a ghoul, skeleton, or zombie). You gain a bite attack (1d6 for Medium forms, 1d4 for Small forms), two claw or slam attacks (1d6 for Medium forms, 1d4 for Small forms), and darkvision 60 feet. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, low-light vision, and scent.<\/p><p>In this form, you detect as an undead creature (such as with detect undead, but not with magic that reveals your true form, such as true seeing) and are treated as undead for the purposes of channeled energy, cure spells, and inflict spells, but not for other effects that specifically target or react differently to undead (such as searing light).<\/p><ul>  <li><b>Small undead<\/b>: If the form you take is that of a Small undead, you gain a +2 size bonus to your Dexterity and a +1 natural armor bonus.<\/li>  <li><b>Medium undead<\/b>: If the form you take is that of a Medium undead, you gain a +2 size bonus to your Strength and a +2 natural armor bonus.<\/li> <\/ul>",
+    "duration": "1 minute/level (D)",
+    "text": "When you cast this spell, you can assume the form of any Small or Medium corporeal creature of the undead type, which must be vaguely humanoid-shaped (like a ghoul, skeleton, or zombie). You gain a bite attack (1d6 for Medium forms, 1d4 for Small forms), two claw or slam attacks (1d6 for Medium forms, 1d4 for Small forms), and darkvision 60 feet. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, low-light vision, and scent.<br><br>In this form, you detect as an undead creature (such as with <i>detect undead<\/i>, but not with magic that reveals your true form, such as <i>true seeing<\/i>) and are treated as undead for the purposes of channeled energy, <i>cure <\/i>spells, and <i>inflict <\/i>spells, but not for other effects that specifically target or react differently to undead (such as <i>searing light<\/i>).<br><br><i>Small undead<\/i>: If the form you take is that of a Small undead, you gain a +2 size bonus to your Dexterity and a +1 natural armor bonus.<br><br><i>Medium undead<\/i>: If the form you take is that of a Medium undead, you gain a +2 size bonus to your Strength and a +2 natural armor bonus.",
     "name_zh": "亡灵形态I",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一片你所选择的生物的身体组织)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>当你施放该法术，你可以从小型或中型的实体不死生物中选择一种，它必须是类人型的 (例如食尸鬼、骷髅或僵尸)。<\/p><p>你获得一次噬咬攻击 (中型1d6，小型1d4)，两次爪抓或挥击 (中型1d6，小型1d4)，黑暗视觉60尺。<\/p><p>如果你所选择的生物拥有以下列表中的能力，你获得这些能力：30尺攀爬，30尺飞行 (普通机动性)，30尺游泳，昏暗视觉和嗅觉敏锐。<\/p><p>在这种形态下，你被侦测时被视为一个不死生物 (如侦测亡灵，不过如果还伴有一个能揭示你原本形态的法术则无效，例如真知术)，并且在受到引导能量、治疗和造成伤害法术时视为不死生物。不过你不会有目标不死生物其他的特性 (比如畏光)。\n－小型不死生物：如果你选择的是小型不死生物，你获得+2敏捷的体型加值和+1天生护甲加值。\n－中型不死生物：如果你选择的是中型不死生物，你获得+2力量的体型加值和+2天生护甲加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>当你施放该法术，你可以从小型或中型的实体不死生物中选择一种，它必须是类人型的 (例如食尸鬼、骷髅或僵尸)。<\/p><p>你获得一次噬咬攻击 (中型1d6，小型1d4)，两次爪抓或挥击 (中型1d6，小型1d4)，黑暗视觉60尺。<\/p><p>如果你所选择的生物拥有以下列表中的能力，你获得这些能力：30尺攀爬，30尺飞行 (普通机动性)，30尺游泳，昏暗视觉和嗅觉敏锐。<\/p><p>在这种形态下，你被侦测时被视为一个不死生物 (如侦测亡灵，不过如果还伴有一个能揭示你原本形态的法术则无效，例如真知术)，并且在受到引导能量、治疗和造成伤害法术时视为不死生物。不过你不会有目标不死生物其他的特性 (比如畏光)。<\/p><p>－小型不死生物：如果你选择的是小型不死生物，你获得+2敏捷的体型加值和+1天生护甲加值。<\/p><p>－中型不死生物：如果你选择的是中型不死生物，你获得+2力量的体型加值和+2天生护甲加值。<\/p>"
 }

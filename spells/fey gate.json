@@ -1,17 +1,25 @@
 {
     "key": "fey gate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fey-gate/",
     "name": "Fey Gate",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Gate",
+    "source":     [
+        "Ultimate Wilderness pg. 230",
+        "The First World, Realm of the Fey pg. 12"
+    ],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 8,
         "bard": 6,
         "cleric": 8,
         "druid": 8,
-        "sorcerer/wizard": 8,
+        "oracle": 8,
+        "skald": 6,
+        "sorcerer": 8,
         "summoner": 6,
-        "witch": 8
+        "summoner (unchained)": 6,
+        "witch": 8,
+        "wizard": 8
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,14 +27,13 @@
     "duration": "1 round/level; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions as the planar travel function of gate, except it can be used to travel only between points on the Material Plane and the Fey World, and it comes with additional dangers.<\/p><p>This spell forms a circular portal between 5 and 20 feet in diameter (your choice) oriented in the direction you desire when it comes into being (typically vertical and facing you). the portal is full of gray fog that blocks line of sight.<\/p><p>Anyone or anything that moves through the portal to enter the Fey World is shunted instantly to a random point on that plane (the same point for everything traveling via a particular casting). At the end of the spell's duration, the caster can attempt a DC 30 Spellcraft check. On a success, the portal remains open for 1d4+1 days. Creatures exiting the Fey World through a <em>fey gate<\/em> always arrive at the location the spell was cast.<\/p><p>While the spell always deposits travelers on solid ground in the Fey World, it conveys no protections against whatever creatures or environmental hazards may be present there.<\/p>",
+    "text": "This spell functions as the planar travel function of <i>gate<\/i>, except it can be used to travel only between points on the Material Plane and the First World, and it comes with additional dangers.<br><br> This spell forms a circular portal between 5 and 20 feet in diameter (your choice) oriented in the direction you desire when it comes into being (typically vertical and facing you). The portal is full of gray fog that blocks line of sight. Anyone or anything that moves through the portal to enter the First World is shunted instantly to a random point on that plane (the same point for everything traveling via a particular casting). At the end of the spell’s duration, the caster can attempt a DC 30 Spellcraft check. On a success, the portal remains open for 1d4+1 days. Creatures exiting the First World through a <i>fey gate<\/i> always arrive at the location the spell was cast.<br><br> While the spell always deposits travelers on solid ground in the First World, it conveys no protections against whatever creatures or environmental hazards may be present there.",
     "name_zh": "妖精之门",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "duration_zh": "1轮/等级，见正文",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术的作用和异界之门的位面旅行（planar travel）功能相似，除了这种法术只能用于连接物质位面和第一世界（the First World），而且还伴随着额外的危险。这个法术会形成一个直径为5到20英尺（由你选择）的圆形通道，方向在成形时按照你想要的方向设定（通常是垂直且面向你）。通道入口充满了灰雾，挡住视线。\n任何通过传送门进入第一个世界的人或东西都会立即被转移到该位面中的一个随机地点（每次施法所传送的所有事物都将被转移到同一位置）。在法术持续时间结束的时候，施法者可以尝试一次DC 30的法术辨识检定。在成功的情况下，通道会维持开放长达1d4+1天。通过妖精之门离开第一世界的生物总是会到达法术被施展的位置。\n虽然\n这个法术总是会把旅行者放置在第一个世界的坚实地面上，但它不会给被传送者提供任何对针对目的地可能存在的生物或环境危害的保护。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>这个法术的作用和异界之门的位面旅行（planar travel）功能相似，除了这种法术只能用于连接物质位面和第一世界（the First World），而且还伴随着额外的危险。这个法术会形成一个直径为5到20英尺（由你选择）的圆形通道，方向在成形时按照你想要的方向设定（通常是垂直且面向你）。通道入口充满了灰雾，挡住视线。<\/p><p>任何通过传送门进入第一个世界的人或东西都会立即被转移到该位面中的一个随机地点（每次施法所传送的所有事物都将被转移到同一位置）。在法术持续时间结束的时候，施法者可以尝试一次DC 30的法术辨识检定。在成功的情况下，通道会维持开放长达1d4+1天。通过妖精之门离开第一世界的生物总是会到达法术被施展的位置。<\/p><p>虽然<\/p><p>这个法术总是会把旅行者放置在第一个世界的坚实地面上，但它不会给被传送者提供任何对针对目的地可能存在的生物或环境危害的保护。<\/p>"
 }

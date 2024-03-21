@@ -1,16 +1,22 @@
 {
     "key": "winter feathers",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/winter-feathers/",
     "name": "Winter Feathers",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Winter%20Feathers",
+    "source": ["Advanced Race Guide pg. 167"],
     "school": "abjuration",
+    "race": "tengu",
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "cleric": 1,
         "druid": 1,
+        "hunter": 1,
         "inquisitor": 1,
+        "oracle": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "warpriest": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,7 +25,7 @@
     "duration": "24 hours",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target's feathers thicken and fluff up to ward against winter's chill. The target suffers no harm from being in a cold environment, and can exist comfortably in conditions as low as –50 degrees Fahrenheit without having to make Fortitude saves. The creature's equipment is likewise protected. This spell doesn't provide any protection from cold damage, nor does it protect against other environmental hazards associated with cold weather (such as slipping on ice, blindness from snow, and so on).<\/p><p>When you cast this spell, you may have the target's feathers turn white for the duration, granting it a +4 circumstance bonus on Stealth checks to hide in ice and snow.<\/p>",
+    "text": "The target’s feathers thicken and fluff up to ward against winter’s chill. The target suffers no harm from being in a cold environment, and can exist comfortably in conditions as low as –50 degrees Fahrenheit without having to make Fortitude saves. The creature’s equipment is likewise protected. This spell doesn’t provide any protection from cold damage, nor does it protect against other environmental hazards associated with cold weather (such as slipping on ice, blindness from snow, and so on).<br><br>When you cast this spell, you may have the target’s feathers turn white for the duration, granting it a +4 circumstance bonus on Stealth checks to hide in ice and snow.",
     "name_zh": "冬之羽",
     "race_zh": "天狗",
     "castingTime_zh": "标准动作",
@@ -29,6 +35,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标的羽毛变得厚实蓬松到足以抵御冬季的寒冷。目标不会受到寒冷环境的损害，并可以在华氏-50度的环境下生存而无需进行强韧检定。该生物的装备受到同样的保护。该法术无法防护寒冷伤害，也不能防止其他与严寒季节有关的环境产生的危害 (比如在冰面打滑，雪盲等等)。<\/p><p>当你使用该法术时，可以在法术持续时间内将目标的羽毛变为白色，这使得目标在冰雪中隐藏的隐匿检定获得+4环境加值。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>目标的羽毛变得厚实蓬松到足以抵御冬季的寒冷。目标不会受到寒冷环境的损害，并可以在华氏-50度的环境下生存而无需进行强韧检定。该生物的装备受到同样的保护。该法术无法防护寒冷伤害，也不能防止其他与严寒季节有关的环境产生的危害 (比如在冰面打滑，雪盲等等)。<\/p><p>当你使用该法术时，可以在法术持续时间内将目标的羽毛变为白色，这使得目标在冰雪中隐藏的隐匿检定获得+4环境加值。<\/p>"
 }

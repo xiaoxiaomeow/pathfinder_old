@@ -1,33 +1,27 @@
 {
     "key": "stoneskin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stoneskin/",
     "name": "Stoneskin",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stoneskin",
+    "source": ["PRPG Core Rulebook pg. 350"],
     "school": "abjuration",
     "levels":     {
+        "adept": 4,
         "alchemist": 4,
+        "arcanist": 4,
         "bloodrager": 4,
         "druid": 5,
+        "hunter": 5,
         "inquisitor": 4,
+        "investigator": 4,
         "magus": 4,
+        "occultist": 4,
+        "psychic": 4,
         "shaman": 5,
-        "sorcerer/wizard": 4,
+        "sorcerer": 4,
         "summoner": 3,
-        "unchained summoner": 4
+        "summoner (unchained)": 4,
+        "wizard": 4
     },
-    "domains":     {
-        "earth": 6,
-        "strength": 6
-    },
-    "elementalSchools":     {
-        "earth": 4,
-        "metal": 4
-    },
-    "bloodlines":     {
-        "abyssal": 4,
-        "deep earth": 4
-    },
-    "mysteries": {"stone": 5},
     "castingTime": "1 standard action",
     "components": "V, S, M (granite and diamond dust worth 250 gp)",
     "range": "touch",
@@ -35,15 +29,16 @@
     "duration": "10 min./level or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.<\/p>",
+    "text": "The warded creature gains resistance to blows, cuts, stabs, and slashes. The subject gains DR 10/adamantine. It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.<h2 class=\"title\">Mythic Stoneskin<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 109<\/i><br>The target gains a +4 bonus on saving throws against disease, poison, and stun effects. There is a 50% chance any critical hit or sneak attack against the target is treated as a normal hit, as if the target were wearing <i>medium fortification<\/i> armor. ",
+    "mythicSource": ["Mythic Adventures pg. 109"],
+    "mythicText": "The target gains a +4 bonus on saving throws against disease, poison, and stun effects. There is a 50% chance any critical hit or sneak attack against the target is treated as a normal hit, as if the target were wearing <i>medium fortification<\/i> armor. ",
     "name_zh": "石肤术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值250gp的花岗岩与钻石粉末)",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
-    "duration_zh": "10分钟/等级 或 直至能量散发",
+    "duration_zh": "10分钟/等级 或 直至耗散",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>受术者获得对刀砍斧削的抵抗能力。受术者获得DR 10/精金。每次受到武器伤害时吸收前10点伤害，但无法吸收精金武器造成的伤害。当法术吸收的总伤害值达到每CL 10点 (最高150点) 后，法术效果消失。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者获得对刀砍斧削的抵抗能力。受术者获得DR 10/精金。每次受到武器伤害时吸收前10点伤害，但无法吸收精金武器造成的伤害。当法术吸收的总伤害值达到每CL 10点 (最高150点) 后，法术效果消失。<\/p>"
 }

@@ -1,29 +1,35 @@
 {
     "key": "seducer's eyes",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/seducer-s-eyes/",
     "name": "Seducer's Eyes",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Seducer's%20Eyes",
+    "source":     [
+        "Inner Sea Gods pg. 240",
+        "Faiths of Balance pg. 28"
+    ],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors": ["mind-affecting"],
+    "race": "Calistria",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level (d)",
-    "text": "<p>You gain a bonus on Charisma-based skill checks equal to 1 +1 for every 4 caster levels you possess (to a maximum of +5), but only when interacting with those who might conceivably find you sexually attractive. You do not gain this bonus against those you or your allies are attacking or threatening.<\/p>",
+    "duration": "10 minutes/level (D)",
+    "text": "You gain a bonus on Charisma-based skill checks equal to 1 + 1 for every 4 caster levels you possess (to a maximum of +5), but only when interacting with those who might conceivably find you sexually attractive. You do not gain this bonus against those you or your allies are attacking or threatening.",
     "name_zh": "诱惑者之眼",
     "race_zh": "卡莉斯翠",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
-    "duration_zh": "10分钟/等级（可解消）",
-    "text_zh": "<p>这个法术可以增强你肉体的诱人程度。你在所有的基于魅力的技能检定上获得每4个施法者等级+1加值（最高为+5），但这个加值只在与对你可能有性趣的生物接触时才能生效。这个法术的效果对正在战斗或是威胁你和你的盟友的敌人无效。<\/p>",
-    "source": "CS-ISG"
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>这个法术可以增强你肉体的诱人程度。你在所有的基于魅力的技能检定上获得每4个施法者等级+1加值（最高为+5），但这个加值只在与对你可能有性趣的生物接触时才能生效。这个法术的效果对正在战斗或是威胁你和你的盟友的敌人无效。<\/p>"
 }

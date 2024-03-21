@@ -1,21 +1,23 @@
 {
     "key": "sharesister",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sharesister/",
     "name": "Sharesister",
-    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sharesister",
+    "source": ["Pathfinder Society Field Guide pg. 58"],
     "school": "necromancy",
     "levels":     {
         "cleric": 3,
+        "oracle": 3,
+        "warpriest": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a drop of your own blood)",
     "range": "touch",
     "target": "you and one creature of your gender",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>While the name of this spell is <i>sharesister<\/i>, it works equally well on male or female creatures—both targets of the spell must simply be of the same gender.<\/p><p>When you deliver the spell, you receive a negative level for the duration of the spell, and the other target receives a +1 insight bonus to her caster level and a +1 insight bonus to the save DCs of all of her spells. At 11th level, you can opt to take four negative levels to grant a +2 insight bonus to the other target's caster level and spell save DCs if you wish, while at 17th level you can take 6 negative levels to increase the insight bonus to +3. Any effect that removes or prevents the negative level immediately ends the sharesister spell. Negative levels received from the spell vanish as soon as this spell effect ends. Negative levels from multiple castings of this spell stack.<\/p>",
+    "text": "Ithuna Vardsdottir claims to have unearthed this ancient prayer in a ruined temple of Desna, though Pathfinders have reported the use of similar magic in Irrisen among the White Witches. While the name of this spell is <i>sharesister<\/i>, it works equally well on male or female creatures—both targets of the spell must simply be of the same gender.<br><br>When you deliver the spell, you receive a negative level for the duration of the spell, and the other target receives a +1 insight bonus to her caster level and a +1 insight bonus to the save DCs of all of her spells. At 11th level, you can opt to take four negative levels to grant a +2 insight bonus to the other target’s caster level and spell save DCs if you wish, while at 17th level you can take 6 negative levels to increase the insight bonus to +3. Any effect that removes or prevents the negative level immediately ends the <i>sharesister <\/i>spell. Negative levels received from the spell vanish as soon as this spell effect ends. Negative levels from multiple castings of this spell stack.",
     "name_zh": "姊妹齐心",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一滴你的血)",
@@ -24,6 +26,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>伊菲恩娜?伐尔斯塔德坚称这个法术是从戴斯娜废弃神殿中的古代祈祷者娜发掘的，但探索者们回报，说在伊利森的冬女巫那有看到类似的法术。虽然这法术的名称叫做姊妹齐心，但无论是雄性还是雌性的生物，效果都一样，本法术的受术者必须要相同性别。\n当你放了这个法术，在法术持续时间妳会获得一个负向等级，而另一位受术者会在她的施法者等级以及她所有法术的DC，都获得+1洞察加值。在11级，你可以选择承受4个负向等级，让洞察加值变为+2，如果你愿意，在17级，妳可以承受6个负向等级，让洞察加值变为+3。任何能移除或阻止负向等级的效果会使本法术立即结束。在本法术的效果结束时，获得的负向等级也会立刻消失。多次施展本法术获得的负向等级会叠加。<\/p>",
-    "source": "CS-PSFG"
+    "text_zh": "<p>伊菲恩娜?伐尔斯塔德坚称这个法术是从戴斯娜废弃神殿中的古代祈祷者娜发掘的，但探索者们回报，说在伊利森的冬女巫那有看到类似的法术。虽然这法术的名称叫做姊妹齐心，但无论是雄性还是雌性的生物，效果都一样，本法术的受术者必须要相同性别。<\/p><p>当你放了这个法术，在法术持续时间妳会获得一个负向等级，而另一位受术者会在她的施法者等级以及她所有法术的DC，都获得+1洞察加值。在11级，你可以选择承受4个负向等级，让洞察加值变为+2，如果你愿意，在17级，妳可以承受6个负向等级，让洞察加值变为+3。任何能移除或阻止负向等级的效果会使本法术立即结束。在本法术的效果结束时，获得的负向等级也会立刻消失。多次施展本法术获得的负向等级会叠加。<\/p>"
 }

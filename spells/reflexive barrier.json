@@ -1,8 +1,8 @@
 {
     "key": "reflexive barrier",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reflexive-barrier/",
     "name": "Reflexive Barrier",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reflexive%20Barrier",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
@@ -16,15 +16,14 @@
     "duration": "1 round (see text)",
     "savingThrow": "none (harmless)",
     "spellResistance": "no (harmless)",
-    "text": "<p>In the blink of an eye, you erect a deflective barrier of force to protect one target.<\/p><p>The target gains a deflection bonus to its AC equal to half your caster level. This bonus lasts until the beginning of your next turn. You can cast this spell as a reaction to an attack, but you must do so before the result of the attack is revealed.<\/p>",
+    "text": "In the blink of an eye, you erect a deflective barrier of force to protect one target. The target gains a deflection bonus to its AC equal to half your caster level. This bonus lasts until the beginning of your next turn. You can cast this spell as a reaction to an attack, but you must do so before the result of the attack is revealed.",
     "name_zh": "直觉屏障",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "1轮（见描述）",
-    "savingThrow_zh": "无（无害）",
-    "spellResistance_zh": "无（无害）",
-    "text_zh": "<p>通过眨一只眼睛，你创造了一个偏折攻击的力场护壁来保护一个目标。目标在AC上获得等于你的施法者等级一半的偏斜加值。这个加值持续到你的下一轮开始。你可以作为对一次攻击的反应施放该法术，但是你必须在攻击检定结果揭示之前使用。<\/p>",
-    "source": "PC-PA"
+    "duration_zh": "1轮; 见文本",
+    "savingThrow_zh": "无 (无害)",
+    "spellResistance_zh": "不可 (无害)",
+    "text_zh": "<p>通过眨一只眼睛，你创造了一个偏折攻击的力场护壁来保护一个目标。目标在AC上获得等于你的施法者等级一半的偏斜加值。这个加值持续到你的下一轮开始。你可以作为对一次攻击的反应施放该法术，但是你必须在攻击检定结果揭示之前使用。<\/p>"
 }

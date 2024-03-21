@@ -1,31 +1,33 @@
 {
     "key": "remove paralysis",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/remove-paralysis/",
     "name": "Remove Paralysis",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Remove%20Paralysis",
+    "source": ["PRPG Core Rulebook pg. 332"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
+        "oracle": 2,
         "paladin": 2,
-        "shaman": 2
+        "shaman": 2,
+        "spiritualist": 2,
+        "warpriest": 2
     },
-    "domains": {"liberation": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You can free one or more creatures from the effects of temporary paralysis or related magic, including spells and effects that cause a creature to gain the staggered condition. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, each receives another Will save with a +4 resistance bonus against the effect that afflicts it. If cast on three or four creatures, each receives another Will save with a +2 resistance bonus.<\/p><p>The spell does not restore ability scores reduced by penalties, damage, or drain.<\/p>",
+    "text": "You can free one or more creatures from the effects of temporary paralysis or related magic, including spells and effects that cause a creature to gain the staggered condition. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, each receives another save with a +4 resistance bonus against the effect that afflicts it. If cast on three or four creatures, each receives another save with a +2 resistance bonus.<br><br>The spell does not restore ability scores reduced by penalties, damage, or drain.",
     "name_zh": "移除麻痹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "至多4个生物, 任意两者之间的距离不能超过30尺",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你可以消除一个或多个生物受到的任何暂时性麻痹或相关魔法效果，包括导致生物获得恍惚状态的法术与效果。如果本法术被施展在一个生物身上，麻痹会被消除。如果被施展在两个生物身上，它们都能做一次额外的豁免检定以对抗受到的麻痹效果，并在此次检定中得到+4抗力加值。如果施展在三或四个生物身上，它们都能做一次额外的豁免检定以对抗受到的麻痹效果，并在此次检定中得到+2抗力加值。<\/p><p>本法术不会回复受属性减值、属性伤害、或属性吸取损失的属性值。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以消除一个或多个生物受到的任何暂时性麻痹或相关魔法效果，包括导致生物获得恍惚状态的法术与效果。如果本法术被施展在一个生物身上，麻痹会被消除。如果被施展在两个生物身上，它们都能做一次额外的豁免检定以对抗受到的麻痹效果，并在此次检定中得到+4抗力加值。如果施展在三或四个生物身上，它们都能做一次额外的豁免检定以对抗受到的麻痹效果，并在此次检定中得到+2抗力加值。<\/p><p>本法术不会回复受属性减值、属性伤害、或属性吸取损失的属性值。<\/p>"
 }

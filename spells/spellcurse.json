@@ -1,8 +1,8 @@
 {
     "key": "spellcurse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcurse/",
     "name": "Spellcurse",
-    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellcurse",
+    "source": ["Magic Tactics Toolbox pg. 6"],
     "school": "necromancy",
     "descriptors": ["curse"],
     "levels":     {
@@ -10,6 +10,7 @@
         "cleric": 3,
         "inquisitor": 2,
         "occultist": 4,
+        "oracle": 3,
         "psychic": 3,
         "shaman": 4,
         "witch": 3
@@ -17,19 +18,18 @@
     "castingTime": "1 standard action",
     "components": "V, S, M (a fragment of a destroyed magical item)",
     "range": "medium (100 ft. + 10 ft./level)",
-    "target": "one creature",
+    "target": "1 creature",
     "duration": "instantaneous",
     "savingThrow": "Will half",
     "spellResistance": "yes",
-    "text": "<p>You disrupt any spell energy affecting your target, causing that energy to crackle with power and harm the target. The target takes 1d6 points of damage for each spell with a duration of 1 round or greater currently affecting it. The spells themselves are not dispelled or modified.<\/p>",
+    "text": "You disrupt any spell energy affecting your target, causing that energy to crackle with power and harm the target. The target takes 1d6 points of damage for each spell with a duration of 1 round or greater currently affecting it. The spells themselves are not dispelled or modified.",
     "name_zh": "法咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料（一块毁坏的魔法物品的碎片）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志, 通过则减半",
+    "savingThrow_zh": "意志, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你扰乱了影响你目标的所有法术能量，使得这些能量猛然碎裂并伤害目标。每有一个持续时间至少在1轮以上的法术正影响目标，它就会额外承受1d6伤害。那些法术并不会被解除或调整。<\/p>",
-    "source": "PC-MagicTT"
+    "text_zh": "<p>你扰乱了影响你目标的所有法术能量，使得这些能量猛然碎裂并伤害目标。每有一个持续时间至少在1轮以上的法术正影响目标，它就会额外承受1d6伤害。那些法术并不会被解除或调整。<\/p>"
 }

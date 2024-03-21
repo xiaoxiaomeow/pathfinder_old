@@ -1,0 +1,25 @@
+{
+    "key": "violent misfire, greater",
+    "name": "Violent Misfire, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Violent%20Misfire,%20Greater",
+    "source": ["People of the Wastes pg. 29"],
+    "school": "evocation",
+    "levels":     {
+        "arcanist": 6,
+        "sorcerer": 6,
+        "wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small piece of flint)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one early or advanced firearm/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "This spell functions as <i>violent misfire<\/i> except as noted above.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)"
+}

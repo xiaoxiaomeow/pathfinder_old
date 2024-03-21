@@ -1,0 +1,31 @@
+{
+    "key": "demon dream",
+    "name": "Demon Dream",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Demon%20Dream",
+    "source": ["Pathfinder Comics #10 pg. 26"],
+    "school": "illusion",
+    "subSchools": ["phantasm"],
+    "descriptors":     [
+        "evil",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "cleric": 6,
+        "oracle": 6,
+        "warpriest": 6
+    },
+    "castingTime": "see text",
+    "components": "V, S, DF",
+    "range": "unlimited",
+    "target": "one living creature",
+    "duration": "see text",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "When the target of <i>demon<\/i> dream is a worshiper of a demon lord  or Lamashtu, the caster has the option of making the spell function instead as a <i>dream<\/i> spell. Otherwise, this spell functions like <i>nightmare<\/i> (see <i>Pathfinder RPG Core Rulebook 316<\/i>), save that the subject matter of the dream always involves demons. Upon waking from a <i>demon dream<\/i>, the victim must make a saving throw against the spell to resist taking 1d6 points of Wisdom drain from the unsettling, madness- inducing dream—this is in addition to the damage and fatigue normally caused by the <i>nightmare<\/i>.",
+    "castingTime_zh": "见文本",
+    "range_zh": "无限",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "可"
+}

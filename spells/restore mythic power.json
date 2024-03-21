@@ -1,16 +1,22 @@
 {
     "key": "restore mythic power",
-    "url": "https://www.d20pfsrd.com/alternative-rule-systems/mythic/mythic-magic/mythic-spells/restore-mythic-power/",
     "name": "Restore Mythic Power",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restore%20Mythic%20Power",
+    "source": ["Mythic Adventures pg. 114"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "medium": 2,
+        "oracle": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "redmantisassassin": 3,
+        "skald": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,7 +24,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<\/div>",
+    "text": "By laying your hands on the target, you’re able to transfer some of your mythic essence to the target. You expend three uses of your mythic power to restore one use of the target’s mythic power.",
     "name_zh": "复原神力",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -27,6 +33,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>通过将你的手放在目标身上，你能够将自身的一部分神话力量传输到目标身上。你花费3次你的神话之力，以此来恢复目标的1次神话之力。<\/p>",
-    "source": "MA"
+    "text_zh": "<p>通过将你的手放在目标身上，你能够将自身的一部分神话力量传输到目标身上。你花费3次你的神话之力，以此来恢复目标的1次神话之力。<\/p>"
 }

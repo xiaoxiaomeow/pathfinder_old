@@ -1,10 +1,10 @@
 {
     "key": "temporal regression",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/temporal-regression/",
     "name": "Temporal Regression",
-    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Temporal%20Regression",
+    "source": ["Legacy of the First World pg. 31"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
         "arcanist": 8,
         "druid": 9,
@@ -18,13 +18,13 @@
     "duration": "1 round/level or until discharged",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>When you complete this spell, note your current location and condition, including your hit point total and any ongoing conditions affecting you as well as their durations (e.g. poison, sickened, ability damage, and spell effects). This spell creates a beacon in space-time that's imperceptible to anyone but you. As a standard action while you are within range of the beacon before the spell's duration expires, you can discharge the spell to transport yourself back to the marked location and restore yourself to the condition you were in when you cast the spell; this does not restore any expended items, charges, or spells you may have used during that time. This does not reverse effects for anyone else, and to bystanders it appears as though you teleported to the beacon location and regained conditions you had when the beacon was set. Temporal regression strains your body; when the spell is discharged, you gain 1 temporary negative level for every 2 rounds that passed since you cast the spell. These negative levels disappear after 24 hours.<\/p><p>You can discharge the spell to transport yourself back to your beacon as an immediate action instead of a standard action, but doing so utterly and entirely consumes the spell's focus.<\/p>",
+    "text": "When you complete this spell, note your current location and condition, including your hit point total and any ongoing conditions affecting you as well as their durations (e.g. poison, sickened, ability damage, and spell effects). This spell creates a beacon in space-time that’s imperceptible to anyone but you. As a standard action while you are within range of the beacon before the spell’s duration expires, you can discharge the spell to transport yourself back to the marked location and restore yourself to the condition you were in when you cast the spell; this does not restore any expended items, charges, or spells you may have used during that time. This does not reverse effects for anyone else, and to bystanders it appears as though you teleported to the beacon location and regained conditions you had when the beacon was set. <i>Temporal regression<\/i> strains your body; when the spell is discharged, you gain 1 temporary negative level for every 2 rounds that passed since you cast the spell. These negative levels disappear after 24 hours.<br><br> You can discharge the spell to transport yourself back to your beacon as an immediate action instead of a standard action, but doing so utterly and entirely consumes the spell’s focus.",
     "name_zh": "时间回溯",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，法器（装有价值1500gp时铜（horacalcum）粉末的沙漏）",
-    "duration_zh": "1轮/等级 或 直至发散",
+    "range_zh": "个人 和 近距 (25尺+每2等级5尺); 见文本",
+    "duration_zh": "1轮/等级 或 直至耗散",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>当你完成这个法术时，记录下你当前的位置状态，包括你的总生命值以及正在影响你的效果和它们的持续时间（e.g.毒药，恶心，属性伤害，以及法术效果）。这个法术可以创造出一个在时空中的灯塔，它不能被除了你之外的任何人侦测到。以一个标淮动作，当你在灯塔范围内并且法术的效果还没有消散时，你可以发散这个法术来让你传送到原来的位置，并让你恢复到你在施放这个法术时的状态；这不会回复任何已经消耗的物体，充能，或者你在这段时间中使用过的法术。这不会扭转其他人身上的效果，对于其他人来讲这看起来就是你传送到了灯塔的位置然后回复到了你在灯塔被设置时的状态。时间回溯会损伤你的身体，当法术发散时，法术在施放后的每2轮你都会承受1个临时负向等级。这个负向等级会在24小时小时后消失。\n你也可以以一个直觉动作而不是标淮动作来将这个法术发散，这将使你传送回你灯塔的位置，但这会完全地毁掉该法术的法器。<\/p>",
-    "source": "PC-LotFW"
+    "text_zh": "<p>当你完成这个法术时，记录下你当前的位置状态，包括你的总生命值以及正在影响你的效果和它们的持续时间（e.g.毒药，恶心，属性伤害，以及法术效果）。这个法术可以创造出一个在时空中的灯塔，它不能被除了你之外的任何人侦测到。以一个标淮动作，当你在灯塔范围内并且法术的效果还没有消散时，你可以发散这个法术来让你传送到原来的位置，并让你恢复到你在施放这个法术时的状态；这不会回复任何已经消耗的物体，充能，或者你在这段时间中使用过的法术。这不会扭转其他人身上的效果，对于其他人来讲这看起来就是你传送到了灯塔的位置然后回复到了你在灯塔被设置时的状态。时间回溯会损伤你的身体，当法术发散时，法术在施放后的每2轮你都会承受1个临时负向等级。这个负向等级会在24小时小时后消失。<\/p><p>你也可以以一个直觉动作而不是标淮动作来将这个法术发散，这将使你传送回你灯塔的位置，但这会完全地毁掉该法术的法器。<\/p>"
 }

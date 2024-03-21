@@ -1,21 +1,23 @@
 {
     "key": "grasp",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grasp/",
     "name": "Grasp",
-    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grasp",
+    "source": ["Heroes of the Darklands pg. 9"],
     "school": "divination",
     "levels":     {
         "arcanist": 0,
         "bard": 0,
-        "cleric/oracle": 0,
+        "cleric": 0,
         "druid": 0,
         "hunter": 0,
         "magus": 0,
+        "oracle": 0,
         "psychic": 0,
         "skald": 0,
-        "sorcerer/wizard": 0,
+        "sorcerer": 0,
         "warpriest": 0,
-        "witch": 0
+        "witch": 0,
+        "wizard": 0
     },
     "castingTime": "1 immediate action",
     "components": "V",
@@ -24,14 +26,13 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You can cast this spell as an immediate action when you fail a Climb check and would fall. You can immediately attempt another Climb check as a free action at a –2 penalty. Each successive use of this spell in a particular situation increases the penalty by 2. If successful, you don't fall, but you don't progress at climbing.<\/p>",
+    "text": "You can cast this spell as an immediate action when you fail a Climb check and would fall. You can immediately attempt another Climb check as a free action at a –2 penalty. Each successive use of this spell in a particular situation increases the penalty by 2. If successful, you don’t fall, but you don’t progress at climbing.",
     "name_zh": "绝处逢生",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你在一个攀爬检定中失败，并且将会坠落时，你能以一个直觉动作(immediate action)，施法此法术。你能以一个自由动作并承受-2的减値，立即尝试另一个攀爬检定。在一个特定的情况下，每一次连续的使用此法术，都会让减値增加2。如果成功，则你不会坠落，但你也不会因此在攀爬中更进一步。<\/p>",
-    "source": "PC-HotD"
+    "text_zh": "<p>你在一个攀爬检定中失败，并且将会坠落时，你能以一个直觉动作(immediate action)，施法此法术。你能以一个自由动作并承受-2的减値，立即尝试另一个攀爬检定。在一个特定的情况下，每一次连续的使用此法术，都会让减値增加2。如果成功，则你不会坠落，但你也不会因此在攀爬中更进一步。<\/p>"
 }

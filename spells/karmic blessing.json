@@ -1,12 +1,15 @@
 {
     "key": "karmic blessing",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/karmic-blessing/",
     "name": "Karmic Blessing",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
-    "school": "<b>School<\/b> divination",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Karmic%20Blessing",
+    "source": ["Advanced Race Guide pg. 199"],
+    "school": "divination",
     "descriptors": ["good"],
+    "race": "samsaran",
     "levels":     {
         "cleric": 1,
+        "oracle": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -14,9 +17,7 @@
     "range": "touch",
     "target": "creature touched",
     "duration": "1 round/level",
-    "savingThrow": "Will negates (harmless)",
-    "spellResistance": "yes (harmless)",
-    "text": "<p>The target treats one skill of your choice as a class skill.<\/p>",
+    "text": "The target treats one skill of your choice as a class skill.",
     "name_zh": "因果祝福",
     "race_zh": "轮回者",
     "castingTime_zh": "标准动作",
@@ -26,6 +27,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标视一种你选择的技能为本职技能。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>目标视一种你选择的技能为本职技能。<\/p>"
 }

@@ -1,27 +1,30 @@
 {
     "key": "sense vitals",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sense-vitals/",
     "name": "Sense Vitals",
-    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sense%20Vitals",
+    "source": ["Dirty Tactics Toolbox pg. 31"],
     "school": "divination",
     "levels":     {
         "antipaladin": 2,
+        "arcanist": 2,
         "bard": 2,
+        "hunter": 2,
         "ranger": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a drop of blood)",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>This spell makes your eyes shine blood red and allows you to see the vital areas and weak points of creatures within 30 feet of you as a warm glow. This allows you to use any manufactured weapon to make sneak attacks, as the rogue ability of the same name, dealing an additional 1d6 points of damage; this additional damage increases by 1d6 for every 3 caster levels you possess beyond 3rd, to a maximum of +5d6 at 15th level. This additional damage stacks with other sources of precision damage.<\/p>",
+    "text": "This spell makes your eyes shine blood red and allows you to see the vital areas and weak points of creatures within 30 feet of you as a warm glow. This allows you to use any manufactured weapon to make sneak attacks, as the rogue ability of the same name, dealing an additional 1d6 points of damage; this additional damage increases by 1d6 for every 3 caster levels you possess beyond 3rd, to a maximum of +5d6 at 15th level. This additional damage stacks with other sources of precision damage.",
     "name_zh": "感知器官",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一瓶血)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>这个法术让你的眼睛闪耀着血红色，30英呎内生物的致命区域和弱点在你眼中变成了一道道暖流。这允许你通过使用任何人造武器来进行偷袭攻击，与盗贼同名能力一样，造成额外的1d6点伤害；这种额外伤害在你施法者等级超过3后每三级增加1d6点，在15级达到最多的+5d6点。这些额外伤害与其他来源的精确伤害相叠加。<\/p>",
-    "source": "PC-DTT"
+    "text_zh": "<p>这个法术让你的眼睛闪耀着血红色，30英呎内生物的致命区域和弱点在你眼中变成了一道道暖流。这允许你通过使用任何人造武器来进行偷袭攻击，与盗贼同名能力一样，造成额外的1d6点伤害；这种额外伤害在你施法者等级超过3后每三级增加1d6点，在15级达到最多的+5d6点。这些额外伤害与其他来源的精确伤害相叠加。<\/p>"
 }

@@ -1,15 +1,17 @@
 {
     "key": "forceful strike",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forceful-strike/",
     "name": "Forceful Strike",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forceful%20Strike",
+    "source": ["Inner Sea Magic pg. 55"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
         "cleric": 4,
         "inquisitor": 4,
         "magus": 4,
-        "paladin": 4
+        "oracle": 4,
+        "paladin": 4,
+        "warpriest": 4
     },
     "castingTime": "1 swift action",
     "components": "V, S",
@@ -18,14 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>You cast this spell as you strike a creature with a melee weapon, unarmed strike, or natural attack to unleash a concussive blast of force. You deal normal weapon damage from the blow, but also deal an additional amount of force damage equal to 1d4 points per caster level (maximum of 10d4). The force of the blow may be enough to knock the target backward as well. To determine if the target is pushed back, make a combat maneuver check with a bonus equal to your caster level to resolve a bull rush attempt against the creature struck. You do not move as a result of this free bull rush, but it can push the target back if it defeats the target's CMD. A successful Fortitude save halves the force damage and negates the bull rush effect.<\/p>",
+    "text": "You cast this spell as you strike a creature with a melee weapon, unarmed strike, or natural attack to unleash a concussive blast of force. You deal normal weapon damage from the blow, but also deal an additional amount of force damage equal to 1d4 points per caster level (maximum of 10d4). The force of the blow may be enough to knock the target backward as well. To determine if the target is pushed back, make a combat maneuver check with a bonus equal to your caster level to resolve a bull rush attempt against the creature struck. You do not move as a result of this free bull rush, but it can push the target back if it defeats the target’s CMD. A successful Fortitude save halves the force damage and negates the bull rush effect.",
     "name_zh": "强力击",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言，姿势",
+    "range_zh": "接触 或 近战武器触及范围",
     "target_zh": "1个生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你使用近战武器、徒手打击或者天生武器攻击敌人时，施放该法术会施放出力场爆发来撼动敌人。你会从打击中造成正常的武器伤害，并且造成一定量的额外力场伤害，数值等同于每施法者等级1d4点（最高10d4）。力场打击足矣击退目标。要判断目标是否被推开，需要进行战技检定，使用你的施法者等级作为加值来进行冲撞，尝试对抗被打击的生物。你不会由于这次自由冲撞而随着移动，但是若结果高于目标的CMD则可以推开他。成功的强韧豁免能够使力场伤害减半，并使冲撞效果无效化。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>当你使用近战武器、徒手打击或者天生武器攻击敌人时，施放该法术会施放出力场爆发来撼动敌人。你会从打击中造成正常的武器伤害，并且造成一定量的额外力场伤害，数值等同于每施法者等级1d4点（最高10d4）。力场打击足矣击退目标。要判断目标是否被推开，需要进行战技检定，使用你的施法者等级作为加值来进行冲撞，尝试对抗被打击的生物。你不会由于这次自由冲撞而随着移动，但是若结果高于目标的CMD则可以推开他。成功的强韧豁免能够使力场伤害减半，并使冲撞效果无效化。<\/p>"
 }

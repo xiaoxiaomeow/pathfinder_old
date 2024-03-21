@@ -1,27 +1,36 @@
 {
     "key": "aggressive thundercloud, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aggressive-thundercloud/",
     "name": "Aggressive Thundercloud, Greater",
-    "base": "aggressive thundercloud",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aggressive%20Thundercloud,%20Greater",
+    "source": ["Advanced Class Guide pg. 172"],
     "school": "evocation",
     "descriptors":     [
         "electricity",
         "sonic"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
         "druid": 4,
+        "hunter": 4,
         "magus": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
-    "savingThrow": "Reflex negates and Fort negates (see text)",
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a piece of a tree struck by lightning)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "5-ft.-diameter sphere",
+    "duration": "1 round/level",
+    "savingThrow": "Reflex negates and Fortitude negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as <i>aggressive thundercloud<\/i>, except it deals 6d6 points of electricity damage to any creature it strikes. The first creature damaged by the cloud is also stunned for 1 round (Fort negates); this is a sonic effect.<\/p><\/div>",
+    "text": "This spell functions as <i>aggressive thundercloud<\/i>, except it deals 6d6 points of electricity damage to any creature it strikes. The first creature damaged by the cloud is also stunned for 1 round (Fortitude negates); this is a sonic effect.",
     "name_zh": "高等雷云侵袭",
-    "savingThrow_zh": "反射，通过则无效和强韧，通过则无效（见后文）",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "反射, 通过则无效和强韧, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能如同雷云侵袭（Aggressive Thundercloud）一般，不过它的攻击会对生物造成6d6点闪电伤害。第一个受到雷云伤害的生物还会被震慑（stunned）1轮（强韧，通过则无效）；这是个音波效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>该法术的功能如同雷云侵袭（Aggressive Thundercloud）一般，不过它的攻击会对生物造成6d6点闪电伤害。第一个受到雷云伤害的生物还会被震慑（stunned）1轮（强韧，通过则无效）；这是个音波效果。<\/p>"
 }

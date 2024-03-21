@@ -1,20 +1,26 @@
 {
     "key": "curse of disgust",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-disgust/",
     "name": "Curse of Disgust",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Disgust",
+    "source": ["Ultimate Magic pg. 215"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "curse",
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 5,
         "bard": 3,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "mesmerist": 3,
+        "occultist": 4,
+        "psychic": 6,
+        "skald": 3,
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -23,15 +29,14 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You place a curse upon a creature, causing it to avoid the sight of a specific trigger, which is a kind of creature, object, or condition designated by you. When the target is within 30 feet of a trigger and is aware of the trigger, it gains the sickened condition and feels an urge to leave. A successful Will save negates the urge to leave, but the sickened condition persists as long as the target is within 30 feet of a trigger and aware of it. Example triggers include beggars, filthy clothing, diseased creatures, the king, blood, spiders, rats, corpses, and sewage.<\/p>",
+    "text": "You place a curse upon a creature, causing it to avoid the sight of a specific trigger, which is a kind of creature, object, or condition designated by you. When the target is within 30 feet of a trigger and is aware of the trigger, it gains the sickened condition and feels an urge to leave. A successful Will save negates the urge to leave, but the sickened condition persists as long as the target is within 30 feet of a trigger and aware of it. Example triggers include beggars, filthy clothing, diseased creatures, the king, blood, spiders, rats, corpses, and sewage.",
     "name_zh": "厌恶诅咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你对一个生物施以诅咒，使其会极力避免看到特定的触发物，诅咒的触发物可以是一种生物、物体或由你指定的其他条件。<\/p><p>当目标位于触发物30尺以内并且注意到触发物时，它会立刻陷入恶心 (sickened) 并产生离开的冲动。<\/p><p>一次成功的意志检定可以让它压抑住离开的冲动，但是只要目标还位于触发物30尺范围内且意识到其存在，恶心效果就会一直存在。<\/p><p>触发物可以是乞丐、肮脏的衣物、生病的动物、国王、血液、蜘蛛、老鼠、尸体或污水。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你对一个生物施以诅咒，使其会极力避免看到特定的触发物，诅咒的触发物可以是一种生物、物体或由你指定的其他条件。<\/p><p>当目标位于触发物30尺以内并且注意到触发物时，它会立刻陷入恶心 (sickened) 并产生离开的冲动。<\/p><p>一次成功的意志检定可以让它压抑住离开的冲动，但是只要目标还位于触发物30尺范围内且意识到其存在，恶心效果就会一直存在。<\/p><p>触发物可以是乞丐、肮脏的衣物、生病的动物、国王、血液、蜘蛛、老鼠、尸体或污水。<\/p>"
 }

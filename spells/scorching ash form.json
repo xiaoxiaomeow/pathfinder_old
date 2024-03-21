@@ -1,22 +1,29 @@
 {
     "key": "scorching ash form",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scorching-ash-form/",
     "name": "Scorching Ash Form",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scorching%20Ash%20Form",
+    "source": ["Advanced Race Guide pg. 131"],
     "school": "transmutation",
     "descriptors": ["fire"],
+    "race": "ifrit",
     "levels":     {
         "alchemist": 4,
-        "sorcerer/wizard": 4
+        "arcanist": 4,
+        "investigator": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "S, M (a bit of gauze and a handful of ashes)",
     "range": "touch",
     "target": "willing corporeal creature touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. The target gains the fire subtype. Any creature that begins its turn sharing a space with the target takes 2d6 points of fire damage and must make a Fortitude save (DC 15, + 1 per previous check) or suffer the effects of smoke inhalation.<\/p>",
+    "text": "This spell functions like <i>gaseous form<\/i>, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. The target gains the fire subtype. Any creature that begins its turn sharing a space with the target takes 2d6 points of fire damage and must make a Fortitude save (DC 15, + 1 per previous check) or suffer the effects of smoke inhalation.<h2 class=\"title\">Mythic Scorching Ash Form<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 107<\/i><br>The damage dealt increases to 3d6 points of fire damage. This otherwise makes the same changes as <i>mythic gaseous form<\/i>. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, the target can shift into or out of <i>scorching ash form<\/i> as a move action. ",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "The damage dealt increases to 3d6 points of fire damage. This otherwise makes the same changes as <i>mythic gaseous form<\/i>. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, the target can shift into or out of <i>scorching ash form<\/i> as a move action. ",
     "name_zh": "焚云形态",
     "race_zh": "火元素裔",
     "castingTime_zh": "标准动作",
@@ -25,6 +32,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术的作用方式和‘气化形体 (gaseous form) ’一样，除了目标变化为可以看到的烟与粉尘组成的灼热漩涡而非透明缥缈的无害雾气。目标获得火系亚种。如果任何生物在自身的回合开始时与其共享一片空间的话，会受到2d6点火焰伤害，并且必须进行一次成功的强韧豁免检定 (DC 1 5, 每次检定再+1) 否则将会受到吸入浓烟的影响。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>该法术的作用方式和‘气化形体 (gaseous form) ’一样，除了目标变化为可以看到的烟与粉尘组成的灼热漩涡而非透明缥缈的无害雾气。目标获得火系亚种。如果任何生物在自身的回合开始时与其共享一片空间的话，会受到2d6点火焰伤害，并且必须进行一次成功的强韧豁免检定 (DC 1 5, 每次检定再+1) 否则将会受到吸入浓烟的影响。<\/p>"
 }

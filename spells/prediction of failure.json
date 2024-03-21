@@ -1,20 +1,23 @@
 {
     "key": "prediction of failure",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prediction-of-failure/",
     "name": "Prediction of Failure",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prediction%20of%20Failure",
+    "source": ["Ultimate Magic pg. 232"],
     "school": "divination",
     "descriptors":     [
         "curse",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "occultist": 6,
+        "psychic": 8,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "bloodlines": {"imperious": 8},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -22,15 +25,14 @@
     "duration": "permanent or 1 round/level (see text)",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>You wrack the target's body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A successful Will save reduces the duration to 1 round per level. If the target is a spellcaster, failing this saving throw means it also gains a random minor spellblight.<\/p>",
+    "text": "You wrack the target’s body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A successful Will save reduces the duration to 1 round per level. If the target is a spellcaster, failing this saving throw means it also gains a random minor spellblight (see <i>Ultimate Magic<\/i>).",
     "name_zh": "天降祥瑞",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
-    "duration_zh": "永久 或 1轮/等级 (见下文)",
+    "duration_zh": "永久 或 1轮/等级; 见文本",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你让目标的精神和肉体被人生中的每一次失败的痛楚与苦难所折磨，使其永久陷入战栗 (shaken) 和恶心 (Sickened) 之中。<\/p><p>成功的豁免检定可以将持续时间降低到每等级一轮。<\/p><p>如果目标是一个施法者，豁免失败还意味着它将会遭受一种随机的次级法术荒疫 (minor spellblight) 的折磨。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标的精神和肉体被人生中的每一次失败的痛楚与苦难所折磨，使其永久陷入战栗 (shaken) 和恶心 (Sickened) 之中。<\/p><p>成功的豁免检定可以将持续时间降低到每等级一轮。<\/p><p>如果目标是一个施法者，豁免失败还意味着它将会遭受一种随机的次级法术荒疫 (minor spellblight) 的折磨。<\/p>"
 }

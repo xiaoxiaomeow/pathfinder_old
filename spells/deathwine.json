@@ -1,0 +1,34 @@
+{
+    "key": "deathwine",
+    "name": "Deathwine",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deathwine",
+    "source":     [
+        "Rise of the Runelords Anniversary Edition pg. 418",
+        "Pathfinder #5: Sins of the Saviors pg. 58"
+    ],
+    "school": "necromancy",
+    "levels":     {
+        "alchemist": 2,
+        "arcanist": 3,
+        "cleric": 2,
+        "investigator": 2,
+        "oracle": 2,
+        "sorcerer": 3,
+        "warpriest": 2,
+        "witch": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "touch",
+    "target": "1 potion touched/level",
+    "duration": "1 hour/level",
+    "savingThrow": "none (object)",
+    "spellResistance": "no (object)",
+    "text": "This spell allows you to turn a potion into a temporary pool of necromantic energy. Only a potion created using a conjuration (healing) spell can be affected by this spell. An affected potion turns dark red and reveals a necromantic aura if <i>detect magic<\/i> is cast on it while it remains under this spell’s effects.<br><br>When you drink a potion affected by this spell, you do not gain the potion’s normal effect. Instead, the first necromancy spell you cast within the next minute is cast at a higher caster level. The bonus to caster level is equal to the spell level of the spell used to create the potion that <i>deathwine<\/i> affects. For example, a 5th-level wizard who drinks <i>deathwine<\/i> made from a <i>potion of cure serious wounds<\/i> would cast his next necromancy spell as an 8th-level caster, as <i>cure serious wounds<\/i> is a 3rd-level spell.<br><br>In addition, any undead creature (or other creature healed by negative energy) that drinks a potion affected by <i>deathwine<\/i> is healed of 1d8 points of damage. Any potion not imbibed before this spell’s duration expires is destroyed at the end of the <i>deathwine’s<\/i> duration.",
+    "castingTime_zh": "1分钟",
+    "range_zh": "接触",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无 (物体)",
+    "spellResistance_zh": "否 (物体)"
+}

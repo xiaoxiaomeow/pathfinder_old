@@ -1,19 +1,34 @@
 {
     "key": "permanent image",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/permanent-image/",
     "name": "Permanent Image",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Permanent%20Image",
+    "source": ["PRPG Core Rulebook pg. 319"],
     "school": "illusion",
-    "subSchool": ["figment"],
+    "subSchools": ["figment"],
     "levels":     {
+        "arcanist": 6,
         "bard": 6,
-        "sorcerer/wizard": 6
+        "mesmerist": 6,
+        "occultist": 6,
+        "psychic": 6,
+        "skald": 6,
+        "sorcerer": 6,
+        "wizard": 6
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a bit of fleece)",
+    "range": "long (400 ft. + 40 ft./level)",
     "effect": "figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)",
-    "duration": "permanent (d)",
-    "text": "<p>This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal elements, and the spell is permanent. By concentrating, you can move the image within the limits of the range, but it is static while you are not concentrating.<\/p>",
+    "duration": "permanent (D)",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>silent image<\/i>, except that the figment includes visual, auditory, olfactory, and thermal elements, and the spell is permanent. By concentrating, you can move the image within the limits of the range, but it is static while you are not concentrating.",
     "name_zh": "永恒幻影",
+    "castingTime_zh": "标准动作",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "幻象，体积不超过边长20尺的立方体+每等级一个10尺边长的立方体 (可变)",
     "duration_zh": "永久 (可解消)",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=silent image\">无声幻影 (silent image)<\/a>’一般，不过本法术的虚假幻觉包含视觉、听觉、嗅觉、温度，而且法术的效果是永久的。通过进行专注，你可以在法术范围内移动这个影像。一旦你不再维持专注，影像就变为静止不动的。<\/p>",
-    "source": "CRB"
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=silent image\">无声幻影 (silent image)<\/a>’一般，不过本法术的虚假幻觉包含视觉、听觉、嗅觉、温度，而且法术的效果是永久的。通过进行专注，你可以在法术范围内移动这个影像。一旦你不再维持专注，影像就变为静止不动的。<\/p>"
 }

@@ -1,33 +1,34 @@
 {
     "key": "obscured script",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/obscured-script/",
     "name": "Obscured Script",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Obscured%20Script",
+    "source": ["Adventurer's Guide pg. 37"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "mesmerist": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a scrap of paper bearing a simple sentence written in at least five languages)",
     "range": "touch",
     "target": "one touched page, scroll, inscription, book, or other document no more than 3 feet in any dimension",
-    "duration": "24 hours (d)",
+    "duration": "24 hours (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a latent illusion that clouds the judgment and reading ability of any creature that examines a targeted text. While casting the spell, you can designate up to one creature other than yourself per level to be immune to the effects. All other creatures that read the text must succeed at a Will save or find it difficult to properly parse and decipher the contents. This increases the DC of Linguistics checks to decipher the text by an amount equal to your caster level (maximum +10), and it increases the DC of the Wisdom check to avoid drawing a false conclusion by an equal amount. Unaffected creatures gain a circumstance bonus equal to your caster level (maximum +10) on Bluff checks to deceive affected creatures about the text's contents. The spell obscures any magical glyphs, runes, or symbols within the text, increasing the Perception DC to find such traps by an amount equal to half your caster level (maximum +5). Obscured script can be made permanent with a permanency spell by a caster of 10th level or higher for the cost of 5,000 gp.<\/p>",
+    "text": "You create a latent illusion that clouds the judgment and reading ability of any creature that examines a targeted text. While casting the spell, you can designate up to one creature other than yourself per level to be immune to the effects. All other creatures that read the text must succeed at a Will save or find it difficult to properly parse and decipher the contents. This increases the DC of Linguistics checks to decipher the text by an amount equal to your caster level (maximum +10), and it increases the DC of the Wisdom check to avoid drawing a false conclusion by an equal amount. Unaffected creatures gain a circumstance bonus equal to your caster level (maximum +10) on Bluff checks to deceive affected creatures about the text’s contents. The spell obscures any magical glyphs, runes, or symbols within the text, increasing the Perception DC to find such traps by an amount equal to half your caster level (maximum +5). <i>Obscured script<\/i> can be made permanent with a <i>permanency<\/i> spell by a caster of 10th level or higher for the cost of 5,000 gp.",
     "name_zh": "朦胧手稿",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一张纸片，上面写着的短句至少5种语言写成）",
     "range_zh": "接触",
     "target_zh": "接触到的1页纸、卷轴、铭文、书、或其他任何尺寸不超过3尺的文档",
-    "duration_zh": "24小时（可解消）",
+    "duration_zh": "24小时 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出1个隐藏着的幻象，它会将阅读目标文本的任何生物的判断力与阅读能力蒙蔽。在施放该法术时，你能够指定除自己之外的其他生物免疫该效果，指定数量至多为每等级1个生物。所有其他生物在阅读文本时都要尝试1次意志豁免，失败则会难以正确分析和理解其中的内容。这会增加解读文本的语言学DC，DC增加量等同于你的施法者等级（最高+10点），而且它还会等量增加用于避免得出错误结论的感知检定DC。不受影响的生物在用唬骗检定欺骗受影响的生物时，如果唬骗内容与该文本的内容相关，则会在检定中获得等同于你的施法者等级的环境加值（最高+10点）。该法术会遮盖任何文本中的魔法刻文（glyphs）、符文（runes）、或徽记（symbols），增加寻找此类陷阱的察觉DC，增加量等同于你的施法者等级的一半（最高+5点）。朦胧手稿可以被魔法恒定术（permanency）所恒定，这需要10级或更高等级的施法者花费5000gp来达成。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>你创造出1个隐藏着的幻象，它会将阅读目标文本的任何生物的判断力与阅读能力蒙蔽。在施放该法术时，你能够指定除自己之外的其他生物免疫该效果，指定数量至多为每等级1个生物。所有其他生物在阅读文本时都要尝试1次意志豁免，失败则会难以正确分析和理解其中的内容。这会增加解读文本的语言学DC，DC增加量等同于你的施法者等级（最高+10点），而且它还会等量增加用于避免得出错误结论的感知检定DC。不受影响的生物在用唬骗检定欺骗受影响的生物时，如果唬骗内容与该文本的内容相关，则会在检定中获得等同于你的施法者等级的环境加值（最高+10点）。该法术会遮盖任何文本中的魔法刻文（glyphs）、符文（runes）、或徽记（symbols），增加寻找此类陷阱的察觉DC，增加量等同于你的施法者等级的一半（最高+5点）。朦胧手稿可以被魔法恒定术（permanency）所恒定，这需要10级或更高等级的施法者花费5000gp来达成。<\/p>"
 }

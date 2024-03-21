@@ -1,30 +1,29 @@
 {
     "key": "plant growth",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-growth/",
     "name": "Plant Growth",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plant%20Growth",
+    "source": ["PRPG Core Rulebook pg. 322"],
     "school": "transmutation",
     "levels":     {
         "druid": 3,
+        "hunter": 3,
         "ranger": 3
     },
-    "domains": {"plant": 3},
-    "elementalSchools": {"wood": 4},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "see text",
-    "targetOrArea": "<b>Target or Area<\/b>",
+    "targetOrArea": "see text",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p><i>Plant growth<\/i> has different effects depending on the version chosen.<\/p>",
+    "text": "<i>Plant growth<\/i> has different effects depending on the version chosen.<br><br><i>Overgrowth<\/i>: This effect causes normal vegetation (grasses, briars, bushes, creepers, thistles, trees, vines, and so on) within long range (400 feet + 40 feet per caster level) to become thick and overgrown. The plants entwine to form a thicket or jungle that creatures must hack or force a way through. Speed drops to 5 feet, or 10 feet for Large or larger creatures. The area must have brush and trees in it for this spell to take effect. If this spell is cast on an area that is already affected by any spell or effect that enhances plants, such as <i>entangle<\/i> or <i>wall of thorns<\/i>, any DC involved with these spells is increased by 4. This bonus is granted for 1 day after the casting of <i>plant growth<\/i>.<br><br>At your option, the area can be a 100-foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter circle.<br><br>You may designate places within the area that are not affected.<br><br><i>Enrichment<\/i>: This effect targets plants within a range of a half-mile, raising their potential productivity over the course of the next year to one-third above normal.<br><br><i>Plant growth<\/i> counters <i>diminish plants<\/i>.<br><br>This spell has no effect on plant creatures.",
     "name_zh": "植物滋长",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "见后文",
-    "targetOrArea_zh": "见后文",
+    "range_zh": "见文本",
+    "targetOrArea_zh": "见文本",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>选择不同的版本会让植物滋长产生不同的效果。<\/p><p>过度生长 (Overgrowth): 此效果将影响一个远距离内 (400尺+每CL 40尺) 的普通植物 (草地、灌木、矮树丛、爬行植物、蓟类、树、藤蔓植物等等)，受影响的植物变得粗壮并过度增长。植物相互纠结形成灌木丛或树丛，生物要通过就必须劈开植物或强行穿过。生物速度会降至5英尺，大型或更大体型的生物为10尺。要本法术生效，施法区域中必须有灌木丛和树。若该法术施放的区域已经被施展了任何强化植物的效果或法术，比如‘<a href=\"spell.html?spell=entangle\">纠缠术 (entangle)<\/a>’或‘<a href=\"spell.html?spell=wall of thorns\">棘墙术 (wall of thorns)<\/a>’的话，与这些法术相关的DC会增加4点。在施放植物滋长之后，这个加值能够持续1天时间。根据你的选择，施法区域可以是半径100尺的圆形, 半径为150尺的半圆，或半径为200尺的四分之一圆。在施法区域中，你可以指定某一区域不受法术影响。<\/p><p>丰沃 (Enrichment): 此效果以半英里范围内的植物为目标，它们在下一年可能的产量会比正常水平提升1/3。<\/p><p>植物滋长可以反制‘<a href=\"spell.html?spell=diminish plants\">植物凋零 (diminish plants)<\/a>’。<\/p><p>本法术对植物类生物不起作用。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>选择不同的版本会让植物滋长产生不同的效果。<\/p><p>过度生长 (Overgrowth): 此效果将影响一个远距离内 (400尺+每CL 40尺) 的普通植物 (草地、灌木、矮树丛、爬行植物、蓟类、树、藤蔓植物等等)，受影响的植物变得粗壮并过度增长。植物相互纠结形成灌木丛或树丛，生物要通过就必须劈开植物或强行穿过。生物速度会降至5英尺，大型或更大体型的生物为10尺。要本法术生效，施法区域中必须有灌木丛和树。若该法术施放的区域已经被施展了任何强化植物的效果或法术，比如‘<a href=\"spell.html?spell=entangle\">纠缠术 (entangle)<\/a>’或‘<a href=\"spell.html?spell=wall of thorns\">棘墙术 (wall of thorns)<\/a>’的话，与这些法术相关的DC会增加4点。在施放植物滋长之后，这个加值能够持续1天时间。根据你的选择，施法区域可以是半径100尺的圆形, 半径为150尺的半圆，或半径为200尺的四分之一圆。在施法区域中，你可以指定某一区域不受法术影响。<\/p><p>丰沃 (Enrichment): 此效果以半英里范围内的植物为目标，它们在下一年可能的产量会比正常水平提升1/3。<\/p><p>植物滋长可以反制‘<a href=\"spell.html?spell=diminish plants\">植物凋零 (diminish plants)<\/a>’。<\/p><p>本法术对植物类生物不起作用。<\/p>"
 }

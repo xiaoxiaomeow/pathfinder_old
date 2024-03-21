@@ -1,28 +1,32 @@
 {
     "key": "obscure object",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/obscure-object/",
     "name": "Obscure Object",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Obscure%20Object",
+    "source": ["PRPG Core Rulebook pg. 317"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 2,
         "bard": 1,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "inquisitor": 3,
         "mesmerist": 1,
         "occultist": 2,
+        "oracle": 3,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "spiritualist": 3
+        "skald": 1,
+        "sorcerer": 2,
+        "spiritualist": 3,
+        "warpriest": 3,
+        "wizard": 2
     },
-    "mysteries": {"spellscar": 2},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (chameleon skin)",
     "range": "touch",
     "target": "one object touched of up to 100 lbs./level",
-    "duration": "8 hours (d)",
+    "duration": "8 hours (D)",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>This spell hides an object from location by divination (scrying) effects, such as the <i>scrying<\/i> spell or a <i>crystal ball<\/i>. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).<\/p>",
+    "text": "This spell hides an object from location by divination (scrying) effects, such as the <i>scrying<\/i> spell or a <i>crystal ball<\/i>. Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).",
     "name_zh": "遮蔽物品",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (变色龙皮革)",
@@ -31,6 +35,5 @@
     "duration_zh": "8小时 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>该法术可以将物品隐藏起来，从而防止预言系 (探知) 效果对目标物品的定位，如探知 (scrying) 法术或<水晶球 (crystal ball)>等。这样的尝试将自动失败 (如果预言系法术以该物品为目标)，或者不能察觉到该物体的存在 (如果预言系法术以附近的地点、物体或人为目标)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术可以将物品隐藏起来，从而防止预言系 (探知) 效果对目标物品的定位，如探知 (scrying) 法术或<水晶球 (crystal ball)>等。这样的尝试将自动失败 (如果预言系法术以该物品为目标)，或者不能察觉到该物体的存在 (如果预言系法术以附近的地点、物体或人为目标)。<\/p>"
 }

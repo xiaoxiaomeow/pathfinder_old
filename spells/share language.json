@@ -1,30 +1,33 @@
 {
     "key": "share language",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/share-language/",
     "name": "Share Language",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Language",
+    "source": ["Advanced Player's Guide pg. 243"],
     "school": "divination",
     "levels":     {
+        "arcanist": 2,
         "bard": 1,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "druid": 2,
+        "hunter": 2,
         "medium": 1,
         "mesmerist": 1,
         "occultist": 2,
+        "oracle": 2,
         "psychic": 1,
-        "sorcerer/wizard": 2
-    },
-    "subdomains":     {
-        "cooperation": 2,
-        "language": 2
+        "skald": 1,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a page from a dictionary)",
     "range": "touch",
+    "target": "creature touched",
     "duration": "24 hours",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You can share your facility for one particular language with another creature. For 24 hours the target can read, understand, and communicate to the best of its ability in any one language which you already know. For every 5 levels you possess, you can grant the use of another language you know, to a maximum of 5 languages at 20th level. The target must have the physical capacity to articulate sounds, make gestures, or engage in whatever other method speakers of the language use to communicate with each other in order to actually converse. If the target lacks the mental capacity to grasp an actual language, it still gains enough knowledge to respond to and carry out even extremely complex commands or suggestions coached in the language (whether written or spoken). However, since this spell does not endow the target with greater reasoning capacity, merely a temporarily enhanced vocabulary, the person offering up instructions to non-sentient creatures must take care to remove any ambiguity or guesswork.<\/p><p>Similarly, this spell does not affect the basic nature of the target, or its disposition toward you or anyone else, so convincing it to actually carry out these instructions could require negotiation, threats, or outright bribery.<\/p>",
+    "text": "You can share your facility for one particular language with another creature. For 24 hours the target can read, understand, and communicate to the best of its ability in any one language which you already know. For every 5 levels you possess, you can grant the use of another language you know, to a maximum of 5 languages at 20th level. The target must have the physical capacity to articulate sounds, make gestures, or engage in whatever other method speakers of the language use to communicate with each other in order to actually converse. If the target lacks the mental capacity to grasp an actual language it still gains enough knowledge to respond to and carry out even extremely complex commands or suggestions coached in the language (whether written or spoken). However, since this spell does not endow the target with greater reasoning capacity, merely a temporarily enhanced vocabulary, the person offering up instructions to non-sentient creatures must take care to remove any ambiguity or guesswork. <br><br>Similarly, this spell does not affect the basic nature of the target, or its disposition toward you or anyone else, so convincing it to actually carry out these instructions could require negotiation, threats, or outright bribery.",
     "name_zh": "共享语言",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一页字典)",
@@ -33,6 +36,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你可以与另一个生物分享一种特定语言。选择一种你知道的语言，在24小时内目标将可以以符合其水平的语言能力进行阅读、理解和沟通。每5施法者等级可以多选一种语言，最多20级时达到5种。<\/p><p>目标必须具有物理性的发声、做手势或是以其他方法与人进行交流的能力。即使目标本来不具备理解这种语言的心智能力，目标仍然可以对用该种语言下达的即使是极为复杂的命令和指示做出反应 (无论是书面还是口头)。<\/p><p>但是，这个法术并不会给予目标更高的思维能力，只是暂时性增加对语言的理解能力，所以对于无感情的目标最好不要用太过简略或是秣陵两可的指示。<\/p><p>同时，这个法术不会影响目标的基本性质，或是对你的态度或其他，所以如果你要说服它进行这些指令，你还得采取谈判、威胁或是贿赂等方式。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你可以与另一个生物分享一种特定语言。选择一种你知道的语言，在24小时内目标将可以以符合其水平的语言能力进行阅读、理解和沟通。每5施法者等级可以多选一种语言，最多20级时达到5种。<\/p><p>目标必须具有物理性的发声、做手势或是以其他方法与人进行交流的能力。即使目标本来不具备理解这种语言的心智能力，目标仍然可以对用该种语言下达的即使是极为复杂的命令和指示做出反应 (无论是书面还是口头)。<\/p><p>但是，这个法术并不会给予目标更高的思维能力，只是暂时性增加对语言的理解能力，所以对于无感情的目标最好不要用太过简略或是秣陵两可的指示。<\/p><p>同时，这个法术不会影响目标的基本性质，或是对你的态度或其他，所以如果你要说服它进行这些指令，你还得采取谈判、威胁或是贿赂等方式。<\/p>"
 }

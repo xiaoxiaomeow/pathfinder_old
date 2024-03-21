@@ -1,19 +1,25 @@
 {
     "key": "spider climb",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spider-climb/",
     "name": "Spider Climb",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spider%20Climb",
+    "source": ["PRPG Core Rulebook pg. 347"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
         "druid": 2,
+        "hunter": 2,
+        "investigator": 2,
         "magus": 2,
         "medium": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "summoner/unchained summoner": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a live spider)",
@@ -22,7 +28,9 @@
     "duration": "10 min./level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does. The affected creature must have its hands free to climb in this manner. The subject gains a climb speed of 20 feet and a +8 racial bonus on Climb skill checks; furthermore, it need not make Climb checks to traverse a vertical or horizontal surface (even upside down). A <i>spider climbing<\/i> creature retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.<\/p>",
+    "text": "The subject can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does. The affected creature must have its hands free to climb in this manner. The subject gains a climb speed of 20 feet and a +8 racial bonus on Climb skill checks; furthermore, it need not make Climb checks to traverse a vertical or horizontal surface (even upside down). A <i>spider climbing<\/i> creature retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.<h2 class=\"title\">Mythic Spider Climb<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 109<\/i><br>The target gains a climb speed equal to its base land speed or 30 feet, whichever is higher. The target can take the run action while climbing and needs only one hand free to climb.<br><br> The target can move freely across spider webs (including giant spider webs), <i>web<\/i> spells, and similar adhesives of 2nd level or less (including tanglefoot bags) as if it were using <i>freedom of movement<\/i>. ",
+    "mythicSource": ["Mythic Adventures pg. 109"],
+    "mythicText": "The target gains a climb speed equal to its base land speed or 30 feet, whichever is higher. The target can take the run action while climbing and needs only one hand free to climb.<br><br> The target can move freely across spider webs (including giant spider webs), <i>web<\/i> spells, and similar adhesives of 2nd level or less (including tanglefoot bags) as if it were using <i>freedom of movement<\/i>. ",
     "name_zh": "蛛行术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一只活蜘蛛)",
@@ -31,6 +39,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>受术者可以如蜘蛛一般在垂直表面上攀爬移动，甚至天花板上也可以。在这种情况下，受术者必须腾出双手来爬行。受术者获得20尺攀爬速度，并且在攀爬技能检定中获得+8种族加值；此外，他在垂直或水平表面 (甚至是天花板顶下) 爬时不需要进行攀爬检定。蜘行术的受术者在攀爬时保留AC的敏捷加值 (若有)，且敌人在攻击它时不会获得特殊的加值。不过他在爬行时不能奔跑。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者可以如蜘蛛一般在垂直表面上攀爬移动，甚至天花板上也可以。在这种情况下，受术者必须腾出双手来爬行。受术者获得20尺攀爬速度，并且在攀爬技能检定中获得+8种族加值；此外，他在垂直或水平表面 (甚至是天花板顶下) 爬时不需要进行攀爬检定。蜘行术的受术者在攀爬时保留AC的敏捷加值 (若有)，且敌人在攻击它时不会获得特殊的加值。不过他在爬行时不能奔跑。<\/p>"
 }

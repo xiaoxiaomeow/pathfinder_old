@@ -1,32 +1,33 @@
 {
     "key": "tamer's lash",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tamers-lash/",
     "name": "Tamer's Lash",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tamer's%20Lash",
+    "source": ["Ultimate Wilderness pg. 236"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
         "bard": 1,
         "bloodrager": 1,
+        "hunter": 1,
         "magus": 1,
-        "ranger": 1
+        "ranger": 1,
+        "skald": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "0 ft.",
     "effect": "a whip of magical sound",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>A 15-foot-long whip of sonic energy springs from your hand, delivering a loud crack when you strike with it. The tamer's lash acts as a whip that deals 1d4 points of sonic damage on a hit, but it has no physical substance and you cannot use it to perform combat maneuvers, nor can it be sundered or disarmed. If you strike an animal with the tamer's lash, the animal must succeed at a Will saving throw or be unable to attack you for 1d3 rounds. Furthermore, if the whipped animal starts its turn unable to attack you as a result of this spell and it is within 30 feet of you, it must spend its first action moving away from you, if it is able. Combat-trained animals, animal companions, and animals with Hit Dice in excess of your caster level + 4 gain a +4 circumstance bonus on their saves to avoid being intimidated in this way. This intimidation effect is a mind-affecting fear effect.<\/p>",
+    "text": "A 15-foot-long whip of sonic energy springs from your hand, delivering a loud crack when you strike with it. The <i>tamer’s lash<\/i> acts as a whip that deals 1d4 points of sonic damage on a hit, but it has no physical substance and you cannot use it to perform combat maneuvers, nor can it be sundered or disarmed. If you strike an animal with the <i>tamer’s lash<\/i>, the animal must succeed at a Will saving throw or be unable to attack you for 1d3 rounds. Furthermore, if the whipped animal starts its turn unable to attack you as a result of this spell and it is within 30 feet of you, it must spend its first action moving away from you, if it is able. Combattrained animals, animal companions, and animals with Hit Dice in excess of your caster level + 4 gain a +4 circumstance bonus on their saves to avoid being intimidated in this way. This intimidation effect is a mind-affecting fear effect.",
     "name_zh": "驯服者的鞭笞",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "0尺",
     "effect_zh": "一把魔法音波鞭",
-    "duration_zh": "1轮/等级（可消解）",
-    "savingThrow_zh": "意志过则部分生效（见正文）",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一条15英尺长的音波能量从你的手中伸出，当你用它击打时发出一声巨响。驯服者的鞭笞可作为一条鞭子，每击造成1d4点的声波伤害，但是它没有物理实体，你不能用它来使用战技，也不能被夺走或卸武。\n如果你用驯服者的鞭笞来击打一个动物，动物必须成功通过意志豁免，否则在1d3轮内不能攻击你。此外，如果被鞭打的动物因为这种法术而无法在回合开始时攻击你，并且它还距离你在30英尺之内，它必须花费它的第一个动作来远离你，如果它可以的话。经过战斗训练的动物，动物伙伴，和生命骰超过你的施法者等级+4的动物在避免被这样威吓的豁免上得到+4的表现加值。这种威吓效应是一种影响心灵的恐惧效果。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>一条15英尺长的音波能量从你的手中伸出，当你用它击打时发出一声巨响。驯服者的鞭笞可作为一条鞭子，每击造成1d4点的声波伤害，但是它没有物理实体，你不能用它来使用战技，也不能被夺走或卸武。<\/p><p>如果你用驯服者的鞭笞来击打一个动物，动物必须成功通过意志豁免，否则在1d3轮内不能攻击你。此外，如果被鞭打的动物因为这种法术而无法在回合开始时攻击你，并且它还距离你在30英尺之内，它必须花费它的第一个动作来远离你，如果它可以的话。经过战斗训练的动物，动物伙伴，和生命骰超过你的施法者等级+4的动物在避免被这样威吓的豁免上得到+4的表现加值。这种威吓效应是一种影响心灵的恐惧效果。<\/p>"
 }

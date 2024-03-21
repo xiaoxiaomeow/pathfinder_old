@@ -1,28 +1,29 @@
 {
     "key": "deadly juggernaut",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadly-juggernaut/",
     "name": "Deadly Juggernaut",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deadly%20Juggernaut",
+    "source": ["Ultimate Combat pg. 227"],
     "school": "necromancy",
     "descriptors": ["death"],
     "levels":     {
         "antipaladin": 3,
         "cleric": 3,
         "inquisitor": 3,
-        "paladin": 3
+        "oracle": 3,
+        "paladin": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>With every enemy life you take, you become increasingly dangerous and difficult to stop. During the duration of the spell, you gain a cumulative +1 luck bonus on melee attack rolls, melee weapon damage rolls, Strength checks, and Strength-based skill checks as well as DR 2/— each time you reduce a qualifying opponent to 0 or few hit points (maximum +5 bonus and DR 10/—) with a melee attack. A qualifying opponent has a number of Hit Dice equal to or greater than your Hit Dice –4.<\/p>",
+    "duration": "1 minute/level",
+    "text": "With every enemy life you take, you become increasingly dangerous and difficult to stop. During the duration of the spell, you gain a cumulative +1 luck bonus on melee attack rolls, melee weapon damage rolls, Strength checks, and Strength-based skill checks as well as DR 2/— each time you reduce a qualifying opponent to 0 or few hit points (maximum +5 bonus and DR 10/—) with a melee attack. A qualifying opponent has a number of Hit Dice equal to or greater than your Hit Dice –4.",
     "name_zh": "死亡化身",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>持续时间    1分钟/等级<\/p><p>随着你的敌人一个个倒下，你变得愈发危险和势不可挡。<\/p><p>在法术持续期间，每当你用近战攻击将一个够格的对手的生命值减少到0或以下，你的近战投骰、近战伤害投骰、力量检定和基于力量的技能检定便会获得+1幸运加值，并且获得DR2/- (最大+5和DR10/-)<\/p><p>一个合格的对手要求HD大于等于你的HD-4。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1分钟/等级<\/p><p>随着你的敌人一个个倒下，你变得愈发危险和势不可挡。<\/p><p>在法术持续期间，每当你用近战攻击将一个够格的对手的生命值减少到0或以下，你的近战投骰、近战伤害投骰、力量检定和基于力量的技能检定便会获得+1幸运加值，并且获得DR2/- (最大+5和DR10/-)<\/p><p>一个合格的对手要求HD大于等于你的HD-4。<\/p>"
 }

@@ -1,14 +1,18 @@
 {
     "key": "lay of the land",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lay-of-the-land/",
     "name": "Lay of the Land",
-    "book": "Pathfinder Player Companion: Faiths &amp; Philosophies © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lay%20of%20the%20Land",
+    "source": ["Faiths and Philosophies pg. 29"],
     "school": "divination",
     "levels":     {
-        "cleric": 2,
         "bard": 2,
+        "cleric": 2,
         "druid": 2,
+        "hunter": 2,
+        "oracle": 2,
         "ranger": 2,
+        "skald": 2,
+        "warpriest": 2,
         "witch": 2
     },
     "castingTime": "1 minute",
@@ -18,15 +22,14 @@
     "duration": "1 day",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>In a flash of recognition, you learn about the geography of your surroundings within a radius of 1 mile per 2 caster levels (minimum 1 mile). This instant familiarity grants you an insight bonus equal to your caster level (maximum +5) on Knowledge (geography) checks and Survival checks to avoid getting lost so long as you remain in the affected area.<\/p><p>Additionally, for the duration of the spell you can make Knowledge (geography) checks regarding the affected area as though you were trained in that skill.<\/p>",
+    "text": "In a flash of recognition, you learn about the geography of your surroundings within a radius of 1 mile per 2 caster levels (minimum 1 mile). This instant familiarity grants you an insight bonus equal to your caster level (maximum +5) on Knowledge (geography) checks and Survival checks to avoid getting lost so long as you remain in the affected area.<br><br>Additionally, for the duration of the spell you can make Knowledge (geography) checks regarding the affected area as though you were trained in that skill.",
     "name_zh": "遍览大地",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、材料 (要被记住的地方的泥土)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1天",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>灵光一闪，你了解你周围半径1哩/2等级(最小1哩)内的地理情况。只要你还待在被影响的区域内，这瞬间的熟悉感给予你在知识(地理)检定以及避免迷路的生存检定上，等同你施法者等级(最大+5)的内在加值。\n此外，在法术的持续时间内，你可以进行关于受影响区域的知识(地理)检定，如同你已经在这项技能上受过训般。<\/p>",
-    "source": "PC-FP"
+    "text_zh": "<p>灵光一闪，你了解你周围半径1哩/2等级(最小1哩)内的地理情况。只要你还待在被影响的区域内，这瞬间的熟悉感给予你在知识(地理)检定以及避免迷路的生存检定上，等同你施法者等级(最大+5)的内在加值。<\/p><p>此外，在法术的持续时间内，你可以进行关于受影响区域的知识(地理)检定，如同你已经在这项技能上受过训般。<\/p>"
 }

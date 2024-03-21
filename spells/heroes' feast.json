@@ -1,18 +1,17 @@
 {
     "key": "heroes' feast",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heroes-feast/",
     "name": "Heroes' Feast",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroes'%20Feast",
+    "source": ["PRPG Core Rulebook pg. 295"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
         "bard": 6,
-        "cleric/oracle": 6,
-        "inquisitor": 6
-    },
-    "domains": {"community": 6},
-    "subdomains":     {
-        "resolve": 6,
-        "revelry": 6
+        "cleric": 6,
+        "inquisitor": 6,
+        "oracle": 6,
+        "skald": 6,
+        "warpriest": 6
     },
     "castingTime": "10 minutes",
     "components": "V, S, DF",
@@ -21,15 +20,14 @@
     "duration": "1 hour plus 12 hours; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You bring forth a great feast, including a magnificent table, chairs, service, and food and drink. The feast takes 1 hour to consume, and the beneficial effects do not set in until this hour is over. Every creature partaking of the feast is cured of all sickness and nausea, receives the benefits of both neutralize poison and <i>remove disease<\/i>, and gains 1d8 temporary hit points + 1 point per two caster levels (maximum +10) after imbibing the nectar-like beverage that is part of the feast. The ambrosial food grants each creature that partakes a +1 morale bonus on attack rolls and Will saves and a +4 morale bonus on saving throws against poison and fear effects for 12 hours.<\/p><p>If the feast is interrupted for any reason, the spell is ruined and all effects of the spell are negated.<\/p>",
+    "text": "You bring forth a great feast, including a magnificent table, chairs, service, and food and drink. The feast takes 1 hour to consume, and the beneficial effects do not set in until this hour is over. Every creature partaking of the feast is cured of all sickness and nausea, receives the benefits of both <i>neutralize poison<\/i> and <i>remove disease<\/i>, and gains 1d8 temporary hit points + 1 point per two caster levels (maximum +10) after imbibing the nectar-like beverage that is part of the feast. The ambrosial food grants each creature that partakes a +1 morale bonus on attack rolls and Will saves and a +4 morale bonus on saving throws against poison and fear effects for 12 hours.<br><br>If the feast is interrupted for any reason, the spell is ruined and all effects of the spell are negated.",
     "name_zh": "英雄宴",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "为每等级1个生物准备的餐宴",
-    "duration_zh": "1小时 加 12小时; 见后文",
+    "duration_zh": "1小时 加 12小时; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一份丰盛的宴席，包括豪华桌椅，完善服务，食物和饮料。享用这一顿大餐要花费1小时，所有该法术带来的好处在这个小时结束之前不会产生。所有与宴者的恶心和反胃将会痊愈，获得‘<a href=\"spell.html?spell=neutralize poison\">中和毒性 (neutralize poison)<\/a>’和‘<a href=\"spell.html?spell=remove disease\">移除疾病 (remove disease)<\/a>’的好处，并且在喝下纯美的佳酿后 (作为宴席的一部分) 获得 {1d8+1/2CL (最高+10)} 的临时HP。精致的食物会使与宴者的攻击检定和意志豁免获得+1士气加值，对抗毒素或恐惧效果的豁免检定获得+4士气加值，持续12小时。<\/p><p>如果宴席被打断，则法术中止并失去所有效果。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你创造出一份丰盛的宴席，包括豪华桌椅，完善服务，食物和饮料。享用这一顿大餐要花费1小时，所有该法术带来的好处在这个小时结束之前不会产生。所有与宴者的恶心和反胃将会痊愈，获得‘<a href=\"spell.html?spell=neutralize poison\">中和毒性 (neutralize poison)<\/a>’和‘<a href=\"spell.html?spell=remove disease\">移除疾病 (remove disease)<\/a>’的好处，并且在喝下纯美的佳酿后 (作为宴席的一部分) 获得 {1d8+1/2CL (最高+10)} 的临时HP。精致的食物会使与宴者的攻击检定和意志豁免获得+1士气加值，对抗毒素或恐惧效果的豁免检定获得+4士气加值，持续12小时。<\/p><p>如果宴席被打断，则法术中止并失去所有效果。<\/p>"
 }

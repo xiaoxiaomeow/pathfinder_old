@@ -1,14 +1,17 @@
 {
     "key": "illusory maze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-maze/",
     "name": "Illusory Maze",
-    "book": "Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusory%20Maze",
+    "source": ["Inner Sea Monster Codex pg. 41"],
     "school": "illusion",
-    "subSchool": ["figment"],
+    "subSchools": ["figment"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -17,15 +20,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will disbelief (if interacted with)",
     "spellResistance": "yes",
-    "text": "<p>This spell creates the illusion of a translucent, ever-changing maze of glass in the target area. Creatures in the area who believe the maze to be real cannot move more than 5 feet continuously in any one direction and can't move diagonally, forcing them to take a circuitous route to their destination.<\/p>",
+    "text": "This spell creates the illusion of a translucent, ever-changing maze of glass in the target area. Creatures in the area who believe the maze to be real cannot move more than 5 feet continuously in any one direction and can’t move diagonally, forcing them to take a circuitous route to their destination.",
     "name_zh": "幻象迷宫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "半径20呎扩散",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "半径20尺扩散区域",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志，通过则不信(若与之互动)",
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术在目标区域创造一座半透明、不断变化的玻璃迷宫的幻影。位在该区域且相信迷宫是真实存在的生物无法向任何方位连续移动超过5呎，也无法斜行移动，迫使他们以环型的路径前往目标。<\/p>",
-    "source": "CS-ISMC"
+    "text_zh": "<p>此法术在目标区域创造一座半透明、不断变化的玻璃迷宫的幻影。位在该区域且相信迷宫是真实存在的生物无法向任何方位连续移动超过5呎，也无法斜行移动，迫使他们以环型的路径前往目标。<\/p>"
 }

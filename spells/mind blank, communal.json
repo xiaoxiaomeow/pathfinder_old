@@ -1,0 +1,26 @@
+{
+    "key": "mind blank, communal",
+    "name": "Mind Blank, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mind%20Blank,%20Communal",
+    "source": ["Ultimate Combat pg. 236"],
+    "school": "abjuration",
+    "levels":     {
+        "arcanist": 9,
+        "psychic": 8,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "24 hours",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>mind blank<\/i>, except you divide the duration in 1-hour increments among the creatures touched.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "24小时",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

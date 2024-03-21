@@ -1,30 +1,33 @@
 {
     "key": "transfer tattoo",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transfer-tattoo/",
     "name": "Transfer Tattoo",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transfer%20Tattoo",
+    "source": ["Inner Sea Magic pg. 62"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "redmantisassassin": 1,
+        "skald": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (tattooing needle)",
     "range": "touch",
     "target": "one magic tattoo",
     "duration": "instantaneous",
-    "savingThrow": "Fort negates",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>With this spell, you can transfer one magic tattoo from one creature to another. A target that isn't willing to have his tattoo removed or to receive the transferred tattoo can resist this spell with a Fortitude save—if successful, the transfer fails and the caster of this spell is staggered for 1 round by the backlash of magical energy. A tattoo can be transferred from a dead creature in this manner to a living host, provided the body has been dead no longer than one hour per caster level.<\/p>",
+    "text": "With this spell, you can transfer one magic tattoo from one creature to another. A target that isn’t willing to have his tattoo removed or to receive the transferred tattoo can resist this spell with a Fortitude save—if successful, the transfer fails and the caster of this spell is staggered for 1 round by the backlash of magical energy. A tattoo can be transferred from a dead creature in this manner to a living host, provided the body has been dead no longer than one hour per caster level.",
     "name_zh": "刺青转移术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（墨箴针）",
     "range_zh": "接触",
     "target_zh": "一个魔法刺青",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则无效",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>通过该法术，你能够将一个魔法刺青（详见内海魔法）从一名生物转移到其他人身上。不愿将刺青从自己身上移除、或者不愿接受被转移的刺青的目标能够进行强韧豁免抵抗该法术——若成功，转移会失败，而该法术的施法者也会由于魔法能量反噬而恍惚（staggered）1轮。你能够使用该法术将已死生物身上的刺青转移到活着的宿主身上，不过这具尸体死亡的时间不能超过每施法者等级1小时。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>通过该法术，你能够将一个魔法刺青（详见内海魔法）从一名生物转移到其他人身上。不愿将刺青从自己身上移除、或者不愿接受被转移的刺青的目标能够进行强韧豁免抵抗该法术——若成功，转移会失败，而该法术的施法者也会由于魔法能量反噬而恍惚（staggered）1轮。你能够使用该法术将已死生物身上的刺青转移到活着的宿主身上，不过这具尸体死亡的时间不能超过每施法者等级1小时。<\/p>"
 }

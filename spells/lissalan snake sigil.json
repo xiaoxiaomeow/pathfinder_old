@@ -1,0 +1,30 @@
+{
+    "key": "lissalan snake sigil",
+    "name": "Lissalan Snake Sigil",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lissalan%20Snake%20Sigil",
+    "source": ["Pathfinder #65: Into the Nightmare Rift pg. 75"],
+    "subSchools": ["see text"],
+    "race": "Lissala",
+    "levels":     {
+        "arcanist": 3,
+        "cleric": 3,
+        "oracle": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "wizard": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered amber worth 500 gp and a snake scale)",
+    "range": "touch",
+    "target": "one touched book or written work",
+    "duration": "permanent or until discharged; 1 day/level; see text",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "no",
+    "text": "There are seven variants of this spell, one for each of the Thassilonian schools of magic. Each functions like <i>sepia snake sigil <\/i>(and counts as that spell for the purpose of combining other spells that hide or garble text), except instead of trapping the subject, the triggered sigil’s effect depends on this spell’s school. This effect lasts for 1 day/level. This is a curse effect that can be removed via <i>remove curse<\/i>.<br><br><i>Abjuration<\/i>: All beneficial magical effects on the target last half as long as normal.<br><br><i>Conjuration<\/i>: The target is nauseated. This is a poison effect.<br><br><i>Enchantment<\/i>: The target takes a 1d6 penalty to Intelligence, Wisdom, and Charisma. This is a compulsion effect.<br><br><i>Evocation<\/i>: The target gains vulnerability to an energy type, chosen randomly from the following: acid, cold, electricity, or fire. This is an acid, cold, electricity, or fire effect.<br><br><i>Illusion<\/i>: The target’s vision is blurred, giving it a –4 penalty on Perception checks relating to vision, and the target treats all other creatures as having <i>displacement<\/i>. This is a glamer effect.<br><br><i>Necromancy<\/i>: The target is exhausted. This condition cannot be removed with rest.<br><br><i>Transmutation<\/i>: Target is affected by <i>slow<\/i>.",
+    "race_zh": "Lissala",
+    "castingTime_zh": "10分钟",
+    "range_zh": "接触",
+    "duration_zh": "permanent or until discharged; 1 day/level; see text",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "不可"
+}

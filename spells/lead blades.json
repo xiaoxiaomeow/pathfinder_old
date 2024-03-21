@@ -1,22 +1,25 @@
 {
     "key": "lead blades",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lead-blades/",
     "name": "Lead Blades",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lead%20Blades",
+    "source": ["Advanced Player's Guide pg. 230"],
     "school": "transmutation",
-    "levels": {"ranger": 1},
-    "mysteries": {"metal": 1},
+    "levels":     {
+        "hunter": 1,
+        "occultist": 1,
+        "ranger": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
-    "duration": "1 min./level (d)",
-    "text": "<p><i>Lead blades<\/i> increases the momentum and density of your melee weapons just as they strike a foe. All melee weapons you are carrying when the spell is cast deal damage as if one size category larger than they actually are. For instance, a Medium longsword normally deals 1d8 points of damage, but it would instead deal 2d6 points of damage if benefiting from <i>lead blades<\/i> (see table below). Only you can benefit from this spell. If anyone else uses one of your weapons to make an attack it deals damage as normal for its size.<\/p><p><\/p><table border=\"1\" cellpadding=\"5\"><caption>Table: Weapon Damage Size Conversion<\/caption><thead><tr><th class=\"text\">Tiny Weapon Damage<\/th><th class=\"text\">Small Weapon Damage<\/th><th class=\"text\">Medium Weapon Damage<\/th><th class=\"text\">Large Weapon Damage<\/th><th class=\"text\">Huge Weapon Damage<\/th><\/tr><\/thead><tbody><tr><td class=\"marker\">—<\/td><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><\/tr><tr><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><\/tr><tr><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><\/tr><tr><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">1d12<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">2d4<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><td class=\"number\">4d8<\/td><\/tr><tr><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">2d10<\/td><td class=\"number\">4d8<\/td><td class=\"number\">6d8<\/td><\/tr><\/tbody><\/table>",
+    "target": "touch",
+    "duration": "1 minute/level (D)",
+    "text": "<i>Lead blades<\/i> increases the momentum and density of your melee weapons just as they strike a foe. All melee weapons you are carrying when the spell is cast deal damage as if one size category larger than they actually are. For instance, a Medium longsword normally deals 1d8 points of damage, but it would instead deal 2d6 points of damage if benefiting from <i>lead blades<\/i>. Only you can benefit from this spell. If anyone else uses one of your weapons to make an attack it deals damage as normal for its size.",
     "name_zh": "重压之刃",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "接触",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>当你使用近战武器攻击敌人时，重压之刃会增强它们的动量与密度。当你施放该法术后，你所携带的所有近战武器所造成的伤害视同比实际大小增大1级。比如，中等大小的长剑正常会造成1d8点伤害，由于重压之刃的效果，它将会造成2d6点伤害。只有你自己能从该法术受益。其他使用你的武器的人，在进行攻击时造成的伤害为武器正常大小的伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>当你使用近战武器攻击敌人时，重压之刃会增强它们的动量与密度。当你施放该法术后，你所携带的所有近战武器所造成的伤害视同比实际大小增大1级。比如，中等大小的长剑正常会造成1d8点伤害，由于重压之刃的效果，它将会造成2d6点伤害。只有你自己能从该法术受益。其他使用你的武器的人，在进行攻击时造成的伤害为武器正常大小的伤害。<\/p>"
 }

@@ -1,22 +1,34 @@
 {
     "key": "enlarge person, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/",
     "name": "Enlarge Person, Mass",
-    "base": "enlarge person",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enlarge%20Person,%20Mass",
+    "source": ["PRPG Core Rulebook pg. 278"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 4,
         "bloodrager": 4,
         "magus": 4,
         "psychic": 4,
-        "sorcerer/wizard": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
         "summoner": 3,
-        "unchained summoner": 4
+        "summoner (unchained)": 4,
+        "wizard": 4
     },
-    "target": "One humanoid creature/level, no two of which can be more than 30 ft. apart",
-    "text": "<p><b>Target<\/b> One humanoid creature/level, no two of which can be more than 30 ft. apart<\/p><p>This spell functions like <i>enlarge person<\/i>, except that it affects multiple creatures.<\/p><h3>Mythic Enlarge Person<\/h3><p>You can increase the target's size by up to two size categories, to a maximum of Huge. If the target grows two sizes, its weight increases by a factor of 25, it gains a +4 size bonus to Strength, and takes a –4 size penalty to Dexterity and a –2 penalty on attack rolls and to AC because of its increased size. A Medium humanoid creature whose size increases to Huge has a space of 15 feet and a natural reach of 10 feet. Mythic <em>enlarge person<\/em> counters and dispels mythic <i>reduce person<\/i>.<\/p>",
+    "castingTime": "1 round",
+    "components": "V, S, M (powdered iron)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one humanoid creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 min./level (D)",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>enlarge person<\/i>, except that it affects multiple creatures.",
     "name_zh": "群体变巨术",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个类人生物, 任意两者之间的距离不超过30尺",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Enlarge Person\">变巨术 (Enlarge Person)<\/a>’一般，不过它能够影响复数生物。<\/p>",
-    "source": "CRB"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=Enlarge Person\">变巨术 (Enlarge Person)<\/a>’一般，不过它能够影响复数生物。<\/p>"
 }

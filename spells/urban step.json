@@ -1,29 +1,32 @@
 {
     "key": "urban step",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/urban-step/",
     "name": "Urban Step",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Urban%20Step",
+    "source": ["Ultimate Intrigue pg. 228"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
         "magus": 3,
         "occultist": 3,
-        "sorcerer/wizard": 3,
-        "summoner": 3
+        "skald": 2,
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (scrap of cobweb)",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "two doors or other portals in range",
     "duration": "1 round",
-    "text": "<p>You set up a magical connection between two doors (or other physical portals, such as windows) that both must be within range, line of sight, and line of effect. During the spell's duration, you can move through one of the two portals. When you do, you teleport to the other portal, emerging in either direction. Both portals must be open and unobstructed when you cast the spell and enter the first portal, and they both must be large enough for you to fit through, otherwise the spell ends and the teleportation fails. You can bring along objects as long as their combined weight doesn't exceed your maximum load.<\/p><p>You can't bring other creatures with you, and other creatures that go through the portals don't teleport. Once you step through, the spell ends and you can't take any other actions until your next turn.<\/p>",
+    "text": "You set up a magical connection between two doors (or other physical portals, such as windows) that both must be within range, line of sight, and line of effect. During the spell’s duration, you can move through one of the two portals. When you do, you teleport to the other portal, emerging in either direction. Both portals must be open and unobstructed when you cast the spell and enter the first portal, and they both must be large enough for you to fit through, otherwise the spell ends and the teleportation fails. You can bring along objects as long as their combined weight doesn’t exceed your maximum load.<br><br> You can’t bring other creatures with you, and other creatures that go through the portals don’t teleport. Once you step through, the spell ends and you can’t take any other actions until your next turn.",
     "name_zh": "都市迁跃术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（少量蛛网）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "范围内的两扇门或其他门户",
     "duration_zh": "1轮",
-    "text_zh": "<p>你在两扇门（或者其他实体门户，比如窗户）之间设立起1道魔法通道，这两个门户必须都在法术的范围、视觉线（line of sight）以及效果线（line of effect）之内。在法术的持续时间内，你能穿过这两道门户之一。当你这么做时，你会传送到另外1个门户，出现在该门户两个方向的任意一侧。当你施放该法术以及进入到首个门户时，两个门户必须都是开启（open）且可以通行（unobstructed）的状态，都必须大到足以让你通过，否则该法术会结束且传送失败。你能够带着物体一起进行传送，但前提是这些物体的重量不得超过你的最大负重（maximum load）。你不能带着其他生物与你一同通过，其他生物在穿过门户时也不会被传送。一旦你穿过通道，该法术就会结束，而且直至你的下个回合为止，你都无法再做任何其他行动。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你在两扇门（或者其他实体门户，比如窗户）之间设立起1道魔法通道，这两个门户必须都在法术的范围、视觉线（line of sight）以及效果线（line of effect）之内。在法术的持续时间内，你能穿过这两道门户之一。当你这么做时，你会传送到另外1个门户，出现在该门户两个方向的任意一侧。当你施放该法术以及进入到首个门户时，两个门户必须都是开启（open）且可以通行（unobstructed）的状态，都必须大到足以让你通过，否则该法术会结束且传送失败。你能够带着物体一起进行传送，但前提是这些物体的重量不得超过你的最大负重（maximum load）。你不能带着其他生物与你一同通过，其他生物在穿过门户时也不会被传送。一旦你穿过通道，该法术就会结束，而且直至你的下个回合为止，你都无法再做任何其他行动。<\/p>"
 }

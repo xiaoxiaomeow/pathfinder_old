@@ -1,36 +1,36 @@
 {
     "key": "wall of lava",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-lava/",
     "name": "Wall of Lava",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Lava",
+    "source": ["Advanced Player's Guide pg. 255"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors":     [
         "earth",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 8,
         "druid": 8,
-        "sorcerer/wizard": 8
+        "sorcerer": 8,
+        "wizard": 8
     },
-    "elementalSchools": {"earth": 8},
-    "mysteries": {"volcano": 8},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a chunk of dried lava)",
     "range": "medium (100 ft. + 10 ft./level)",
-    "duration": "1 round/level (d)",
+    "target": "lava wall whose area is up to one 5-ft. square/level (S)",
+    "duration": "1 round/level (D)",
     "savingThrow": "see text",
     "spellResistance": "no",
-    "text": "<p>This spell creates a vertical <i>wall of lava<\/i> that is 1 inch thick for every 4 caster levels and composed of up to one 5-foot square per level. A <i>wall of lava<\/i>&#8216;s maximum height cannot exceed half of its width (with a minimum height of 5 feet). The wall cannot be conjured so that it occupies the same space as a creature or object. A section of a <i>wall of lava<\/i> can be destroyed by damage (hardness 4, hp 90), but if a section is destroyed, the remaining lava in the wall immediately fills in any such hole created, reducing the wall's overall size by one 5-foot square but remaining a contiguous barrier. Each time a weapon strikes a <i>wall of lava<\/i>, it takes 2d6 points of fire damage (or the creature who strikes the wall takes 2d6 fire damage if the attack was via an unarmed strike or natural attack).<\/p><p>A creature can move through a <i>wall of lava<\/i> as a full-round action by making a DC 25 Strength check-failure indicates that the creature is pushed back out of the wall to the point he just attempted to leave. A creature with a burrow speed can move through the wall using its burrow speed. An attempt to move through a <i>wall of lava<\/i> inflicts 20d6 fire damage. A <i>wall of lava<\/i> also radiates heat as if it were a <i>wall of fire<\/i>, although the heat from a <i>wall of lava<\/i> radiates from both sides.<\/p><p>Once per round as a move action, you can direct the <i>wall of lava<\/i> to erupt. This causes a plume of lava to fire at any target within 60 feet of either side of the wall, but reduces the wall's overall size by 1d4 5-foot square sections. You must make a ranged touch attack to hit the target, which takes 10d6 points of fire damage on a hit. Holes created in a <i>wall of lava<\/i> from this effect instantly reseal, reducing the overall size of the wall.<\/p><p>All damage inflicted by physical contact with a <i>wall of lava<\/i> continues for 1d3 rounds after exposure ceases, but this additional damage is only half that dealt during actual contact (that is, 1d6 or 5d6 or 10d6 points per round).<\/p>",
+    "text": "This spell creates a vertical <i>wall of lava <\/i>that is 1 inch thick for every 4 caster levels and composed of up to one 5-foot square per level. A <i>wall of lava’s <\/i>maximum height cannot exceed half of its width (with a minimum height of 5 feet). The wall cannot be conjured so that it occupies the same space as a creature or object. A section of a <i>wall of lava <\/i>can be destroyed by damage (hardness 4, hp 90), but if a section is destroyed, the remaining lava in the wall immediately fills in any such hole created, reducing the wall’s overall size by one 5-foot square but remaining a contiguous barrier. Each time a weapon strikes a <i>wall of lava<\/i>, it takes 2d6 points of fire damage (or the creature who strikes the wall takes 2d6 fire damage if the attack was via an unarmed strike or natural attack). <br><br>A creature can move through a <i>wall of lava <\/i>as a full-round action by making a DC 25 Strength check—failure indicates that the creature is pushed back out of the wall to the point he just attempted to leave. A creature with a burrow speed can move through the wall using its burrow speed. An attempt to move through a <i>wall of lava <\/i>inflicts 20d6 fire damage. A <i>wall of lava <\/i>also radiates heat as if it were a <i>wall of fire<\/i>, although the heat from a <i>wall of lava <\/i>radiates from both sides.<br><br>Once per round as a move action, you can direct the <i>wall of lava <\/i>to erupt. This causes a plume of lava to fire at any target within 60 feet of either side of the wall, but reduces the wall’s overall size by 1d4 5-foot square sections. You must make a ranged touch attack to hit the target, which takes 10d6 points of fire damage on a hit. Holes created in a <i>wall of lava <\/i>from this effect instantly reseal, reducing the overall size of the wall.<br><br>All damage inflicted by physical contact with a <i>wall of lava <\/i>continues for 1d3 rounds after exposure ceases, but this additional damage is only half that dealt during actual contact (that is, 1d6 or 5d6 or 10d6 points per round).",
     "name_zh": "熔岩墙",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一坨硬化的熔岩)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一堵最多每施法者等级5英尺方格的熔岩墙 (区域可变)",
     "duration_zh": "1轮/等级 (可解消)",
-    "savingThrow_zh": "见下文",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术会创造出一堵垂直的熔岩墙，厚度为每四施法者等级一英吋，占据最多每等级一个五英尺方格。熔岩墙的最大高度不得超过其宽度的一半 (最小高度为5英尺)。墙体不能出现在一个已被占据的方格中。<\/p><p>一段熔岩墙可以被伤害所破坏 (硬度4，HP90)，但是如果一个区域被破坏，剩余的熔岩会立刻将其填补修复并维持一个连续的屏障面，不过墙体的整体规模会减少5英尺方格。<\/p><p>每次一把武器命中熔岩墙，它都会受到2d6点火焰伤害 (如果是徒手打击或天生武器，攻击者本人受到伤害)。<\/p><p>生物可以用一个整轮动作进行一次DC为25的力量检定来尝试穿过熔岩墙，检定失败会导致生物被推出熔岩墙并回到出发点。拥有掘洞速度的生物可以使用掘洞速度穿过熔岩墙。任何企图通过熔岩墙的尝试都会导致20d6点火焰伤害。<\/p><p>熔岩墙本身也会散发热量，如同一堵火墙 (wall of fire)，不过熔岩墙同时向两侧都会辐射热量。<\/p><p>每轮一次，以一个移动动作，你可以让熔岩墙产生喷发。这会导致一股熔岩柱喷射而出，射向墙体两侧60尺内的任何一个生物，但是墙体整体规模将会减少1d4个5尺方格。你需要进行一次远程接触攻击检定以命中目标，命中则会造成10d6点火焰伤害。发射留下的空洞将会立刻被填补，同时减少墙体规模。<\/p><p>所有通过物理接触墙体造成的伤害都会持续1d3轮，但是额外伤害只有直接接触时的一半 (也就是说，每轮1d6或5d6或10d6)。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>这个法术会创造出一堵垂直的熔岩墙，厚度为每四施法者等级一英吋，占据最多每等级一个五英尺方格。熔岩墙的最大高度不得超过其宽度的一半 (最小高度为5英尺)。墙体不能出现在一个已被占据的方格中。<\/p><p>一段熔岩墙可以被伤害所破坏 (硬度4，HP90)，但是如果一个区域被破坏，剩余的熔岩会立刻将其填补修复并维持一个连续的屏障面，不过墙体的整体规模会减少5英尺方格。<\/p><p>每次一把武器命中熔岩墙，它都会受到2d6点火焰伤害 (如果是徒手打击或天生武器，攻击者本人受到伤害)。<\/p><p>生物可以用一个整轮动作进行一次DC为25的力量检定来尝试穿过熔岩墙，检定失败会导致生物被推出熔岩墙并回到出发点。拥有掘洞速度的生物可以使用掘洞速度穿过熔岩墙。任何企图通过熔岩墙的尝试都会导致20d6点火焰伤害。<\/p><p>熔岩墙本身也会散发热量，如同一堵火墙 (wall of fire)，不过熔岩墙同时向两侧都会辐射热量。<\/p><p>每轮一次，以一个移动动作，你可以让熔岩墙产生喷发。这会导致一股熔岩柱喷射而出，射向墙体两侧60尺内的任何一个生物，但是墙体整体规模将会减少1d4个5尺方格。你需要进行一次远程接触攻击检定以命中目标，命中则会造成10d6点火焰伤害。发射留下的空洞将会立刻被填补，同时减少墙体规模。<\/p><p>所有通过物理接触墙体造成的伤害都会持续1d3轮，但是额外伤害只有直接接触时的一半 (也就是说，每轮1d6或5d6或10d6)。<\/p>"
 }

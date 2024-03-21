@@ -1,21 +1,34 @@
 {
     "key": "symbol of insanity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-insanity/",
     "name": "Symbol of Insanity",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Symbol%20of%20Insanity",
+    "source": ["PRPG Core Rulebook pg. 356"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
-        "cleric/oracle": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "cleric": 8,
+        "occultist": 6,
+        "oracle": 8,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
+    "castingTime": "10 minutes",
     "components": "V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 5,000 gp)",
+    "range": "0 ft.; see text",
+    "effect": "one symbol",
+    "duration": "see text",
     "savingThrow": "Will negates",
-    "text": "<p>This spell functions like <i>symbol of death<\/i>, except that all creatures within the radius of the <i>symbol of insanity<\/i> instead become permanently insane (as the insanity spell).<\/p><p>Unlike <i>symbol of death<\/i>, symbol of insanity has no hit point limit; once triggered, a <i>symbol of insanity<\/i> simply remains active for 10 minutes per caster level.<\/p>",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>symbol of death<\/i>, except that all creatures within the radius of the <i>symbol of insanity<\/i> instead become permanently insane (as the <i>insanity<\/i> spell).<br><br>Unlike <i>symbol of death<\/i>, <i>symbol of insanity<\/i> has no hit point limit; once triggered, a <i>symbol of insanity<\/i> simply remains active for 10 minutes per caster level.<br><br><i>Note<\/i>: Magic traps such as <i>symbol of insanity<\/i> are hard to detect and disable. A rogue (only) can use the Perception skill to find a <i>symbol of insanity<\/i> and Disable Device to thwart it. The DC in each case is 25 + spell level, or 33 for <i>symbol of insanity<\/i>.",
     "name_zh": "摄魂徽记",
+    "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 材料 (水银, 磷以及钻石和猫眼石粉末, 总价值为5000gp)",
+    "range_zh": "0尺; 见文本",
+    "duration_zh": "见文本",
     "savingThrow_zh": "意志, 通过则无效",
-    "text_zh": "<p>此法术作用类似于‘<a href=\"spell.html?spell=symbol of death\">死亡徽记 (symbol of death)<\/a>’，不过摄魂徽记会使60尺范围内的所有生物永久性精神错乱，如同‘<a href=\"spell.html?spell=insanity\">精神错乱 (insanity)<\/a>’。<\/p><p>摄魂徽记没有HP的限制；一旦被触发，它会在每CL 10分钟内保持启动状态。<\/p><p>注意：诸如摄魂徽记之类的魔法陷阱是很难被侦测、解除的。尽管任何角色都能够使用察觉技能来找到徽记，不过只有具有【寻找陷阱】职业能力的角色才能使用解除装置来将其解除。DC为 {25+法术环位}，对于摄魂徽记来说则是33。<\/p>",
-    "source": "CRB"
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术作用类似于‘<a href=\"spell.html?spell=symbol of death\">死亡徽记 (symbol of death)<\/a>’，不过摄魂徽记会使60尺范围内的所有生物永久性精神错乱，如同‘<a href=\"spell.html?spell=insanity\">精神错乱 (insanity)<\/a>’。<\/p><p>摄魂徽记没有HP的限制；一旦被触发，它会在每CL 10分钟内保持启动状态。<\/p><p>注意：诸如摄魂徽记之类的魔法陷阱是很难被侦测、解除的。尽管任何角色都能够使用察觉技能来找到徽记，不过只有具有【寻找陷阱】职业能力的角色才能使用解除装置来将其解除。DC为 {25+法术环位}，对于摄魂徽记来说则是33。<\/p>"
 }

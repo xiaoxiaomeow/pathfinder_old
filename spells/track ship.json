@@ -1,15 +1,19 @@
 {
     "key": "track ship",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/track-ship/",
     "name": "Track Ship",
-    "book": "Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Track%20Ship",
+    "source": ["Pirates of the Inner Sea pg. 29"],
     "school": "divination",
-    "subSchool": ["scrying"],
-    "descriptors": ["travel"],
+    "subSchools": ["scrying"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "cleric": 2,
-        "sorcerer/wizard": 2
+        "oracle": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (piece of ship)",
@@ -18,14 +22,14 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>In order to cast this spell, you must have a piece of the ship you wish to track. Merchants often preserve slivers from their trade ships specifically for this purpose. You also need a nautical chart.<\/p><p>When you cast this spell, an icon of the targeted ship appears on the nautical chart. The icon moves as the ship moves for the duration of this spell. If the ship is not within the area delineated by the chart, the spell fails. If the ship is reduced to 0 or fewer hit points, its icon changes from a ship to a skull and crossbones.<\/p>",
+    "text": "In order to cast this spell, you must have a piece of the ship you wish to track. Merchants often preserve slivers from their trade ships specifically for this purpose. You also need a nautical chart.<br><br>When you cast this spell, an icon of the targeted ship appears on the nautical chart. The icon moves as the ship moves for the duration of this spell. If the ship is not within the area delineated by the chart, the spell fails. If the ship is reduced to 0 or fewer hit points, its icon changes from a ship to a skull and crossbones.",
     "name_zh": "追踪船只",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，器材（船的一部分）",
+    "range_zh": "见文本",
     "effect_zh": "魔法标记",
     "duration_zh": "1小时/等级",
-    "savingThrow_zh": "意志，通过则无效（物品）",
-    "spellResistance_zh": "可（物品）",
-    "text_zh": "<p>为了施放该法术，你必须拥有一片你想要追踪的船的碎片。商人们往往会保存一些他们自己的船的木条以备不时之需。当你施放法术，目标船只的图标会出现在你的海图上。在法术持续时间内，目标船只的移动都会如实反应在海图上的船只图标上。如果船只不在你的海图范围之内，法术则会失败。如果目标船只的生命值已被降低到0或以下，海图上的船只图标会变成一个骷髅头和交叉骨头的标记。<\/p>",
-    "source": "PC-PotIS"
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>为了施放该法术，你必须拥有一片你想要追踪的船的碎片。商人们往往会保存一些他们自己的船的木条以备不时之需。当你施放法术，目标船只的图标会出现在你的海图上。在法术持续时间内，目标船只的移动都会如实反应在海图上的船只图标上。如果船只不在你的海图范围之内，法术则会失败。如果目标船只的生命值已被降低到0或以下，海图上的船只图标会变成一个骷髅头和交叉骨头的标记。<\/p>"
 }

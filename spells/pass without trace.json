@@ -1,20 +1,23 @@
 {
     "key": "pass without trace",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pass-without-trace/",
     "name": "Pass without Trace",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pass%20without%20Trace",
+    "source": ["PRPG Core Rulebook pg. 318"],
     "school": "transmutation",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
+        "occultist": 1,
         "ranger": 1,
         "shaman": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject or subjects of this spell do not leave footprints or a scent trail while moving. Tracking the subjects is impossible by non-magical means.<\/p>",
+    "text": "The subject or subjects of this spell do not leave footprints or a scent trail while moving. Tracking the subjects is impossible by nonmagical means.",
     "name_zh": "行踪无迹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -23,6 +26,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术的受术者 (一个或多个) 既不会留下足迹也不留下气味。使用非魔法手段追踪受术者是不可能的。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的受术者 (一个或多个) 既不会留下足迹也不留下气味。使用非魔法手段追踪受术者是不可能的。<\/p>"
 }

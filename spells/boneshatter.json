@@ -1,31 +1,35 @@
 {
     "key": "boneshatter",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/boneshatter/",
     "name": "Boneshatter",
-    "book": "Pathfinder Adventure Path #84: Pyramid of the Sky Pharaoh © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Boneshatter",
+    "source":     [
+        "Pathfinder #84: Pyramid of the Sky Pharaoh pg. 15",
+        "Osirion, Land of the Pharaohs pg. 26"
+    ],
     "school": "necromancy",
     "levels":     {
         "arcanist": 4,
-        "cleric/oracle": 5,
-        "sorcerer/wizard": 4,
-        "warpriest": 5
+        "cleric": 5,
+        "oracle": 5,
+        "sorcerer": 4,
+        "warpriest": 5,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a broken bone)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one corporeal creature or object",
-    "duration": "instantaneous and 1 min./level (see text)",
+    "duration": "instantaneous and 1 minute/level (see text)",
     "savingThrow": "Fortitude partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>The target's bones (or exoskeleton) splinter, dealing 1d6 points of damage per caster level (maximum 15d6) to the target, which is also exhausted for 1 minute per caster level from the pain and exertion of the transformation.<\/p><p>If the target succeeds at its save, it takes half damage and is fatigued rather than exhausted. Objects made of bone, chitin, or similar material take half again as much damage (+50%) from this spell. This spell has no effect on a creature that has neither a skeleton nor a hard carapace.<\/p>",
+    "text": "The target’s bones (or exoskeleton) splinter, dealing 1d6 points of damage per caster level (maximum 15d6) to the target, which is also exhausted for 1 minute per caster level from the pain and exertion of the transformation.<br><br> If the target succeeds at its save, it takes half damage and is fatigued rather than exhausted. Objects made of bone, chitin, or similar material take half again as much damage (+50%) from this spell. This spell has no effect on a creature that has neither a skeleton nor a hard carapace.",
     "name_zh": "碎骨术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块断裂的骨头)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个具有肉身的生物或物体（见下文）",
-    "duration_zh": "立即 且 1分钟/等级（见下文）",
-    "savingThrow_zh": "强韧，通过则部分生效",
+    "duration_zh": "立即 和 1分钟/等级; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标的骨骼或外骨骼开始颤抖和碎裂，造成1d6/等级（最高15D6）的伤害，并且因为痛苦和这种费力的变化造成力竭，持续1分钟/等级。如果目标通过了豁免，则造成一半伤害并且仅仅陷入疲劳。由骨骼、甲壳或类似材料制成的物品会受到一半（50%）的额外伤害。这个法术对没有骨骼或硬壳的生物没有影响。<\/p>",
-    "source": "PC-OLoP"
+    "text_zh": "<p>目标的骨骼或外骨骼开始颤抖和碎裂，造成1d6/等级（最高15D6）的伤害，并且因为痛苦和这种费力的变化造成力竭，持续1分钟/等级。如果目标通过了豁免，则造成一半伤害并且仅仅陷入疲劳。由骨骼、甲壳或类似材料制成的物品会受到一半（50%）的额外伤害。这个法术对没有骨骼或硬壳的生物没有影响。<\/p>"
 }

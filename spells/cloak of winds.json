@@ -1,37 +1,37 @@
 {
     "key": "cloak of winds",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-winds/",
     "name": "Cloak of Winds",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Winds",
+    "source": ["Advanced Player's Guide pg. 211"],
     "school": "abjuration",
     "descriptors": ["air"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
+        "occultist": 3,
         "ranger": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "wizard": 3
     },
-    "elementalSchools":     {
-        "air": 3,
-        "wood": 3
-    },
-    "mysteries": {"wind": 3},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 min./level",
+    "target": "one living creature",
+    "duration": "1 minute/level",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>You shroud a creature in a whirling screen of strong, howling wind.<\/i><\/p><p>The subject is never checked or blown away by strong winds of windstorm or lesser strength (whether natural or magically created), and ranged attack rolls against the subject take a -4 penalty. Tiny or smaller creatures must succeed at a Fortitude save to successfully touch or attack the subject in melee. Failure knocks the attacker prone and pushes it 5 feet away from the subject per level of the caster. This movement can pass through the squares of other creatures without affecting them and does not provoke attacks of opportunity, but the creature takes 3d6 points of nonlethal damage, plus 1d6 if the creature strikes a solid object that blocks its movement.<\/p>",
+    "text": "You shroud a creature in a whirling screen of strong, howling wind. The subject is never checked or blown away by strong winds of windstorm or lesser strength (whether natural or magically created), and ranged attack rolls against the subject take a –4 penalty. Tiny or smaller creatures must succeed at a Fortitude save to successfully touch or attack the subject in melee. Failure knocks the attacker prone and pushes it 5 feet away from the subject per level of the caster. This movement can pass through the squares of other creatures without affecting them and does not provoke attacks of opportunity, but the creature takes 3d6 points of nonlethal damage, plus 1d6 if the creature strikes a solid object that blocks its movement.",
     "name_zh": "风之衣",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个活物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你将一个生物笼罩在一层呼啸的强风中。<\/p><p>目标在风暴或更弱的风力中 (不管是自然还是魔法风力) 都不需要进行力量检定，也不会被吹飞，并且针对目标的远程攻击命中获得-4罚值。<\/p><p>微型或超小型生物必须通过一次强韧豁免检定才能成功的攻击或接触到目标。豁免失败则攻击者摔倒并被击退每施法者等级15尺远。<\/p><p>这个运动可穿过其他生物所在的方格并且不会影响他们或引发藉机攻击，不过被吹飞的生物会受到3d6点非致命伤害，如果撞上一个坚固物体，伤害再加1d6。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你将一个生物笼罩在一层呼啸的强风中。<\/p><p>目标在风暴或更弱的风力中 (不管是自然还是魔法风力) 都不需要进行力量检定，也不会被吹飞，并且针对目标的远程攻击命中获得-4罚值。<\/p><p>微型或超小型生物必须通过一次强韧豁免检定才能成功的攻击或接触到目标。豁免失败则攻击者摔倒并被击退每施法者等级15尺远。<\/p><p>这个运动可穿过其他生物所在的方格并且不会影响他们或引发藉机攻击，不过被吹飞的生物会受到3d6点非致命伤害，如果撞上一个坚固物体，伤害再加1d6。<\/p>"
 }

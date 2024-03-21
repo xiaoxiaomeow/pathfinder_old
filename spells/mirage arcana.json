@@ -1,25 +1,34 @@
 {
     "key": "mirage arcana",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mirage-arcana/",
     "name": "Mirage Arcana",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mirage%20Arcana",
+    "source": ["PRPG Core Rulebook pg. 314"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
-        "sorcerer/wizard": 5
+        "mesmerist": 5,
+        "psychic": 5,
+        "skald": 5,
+        "sorcerer": 5,
+        "wizard": 5
     },
-    "subdomains": {"solitude": 5},
-    "elementalSchools": {"wood": 5},
     "castingTime": "1 standard action",
     "components": "V, S",
+    "range": "long (400 ft. + 40 ft./level)",
     "area": "one 20-ft. cube/level (S)",
-    "duration": "concentration +1 hour/level (d)",
-    "text": "<p>This spell functions like <i>hallucinatory terrain<\/i>, except that it enables you to make any area appear to be something other than it is. The illusion includes audible, visual, tactile, and olfactory elements. Unlike <i>hallucinatory terrain<\/i>, the spell can alter the appearance of structures (or add them where none are present). Still, it can't disguise, conceal, or add creatures (though creatures within the area might hide themselves within the illusion just as they can hide themselves within a real location).<\/p><h3>By the way&#8230;<\/h3><p>Ships are considered structures for the purposes of this spell.<\/p>",
+    "duration": "concentration +1 hour/level (D)",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>hallucinatory terrain<\/i>, except that it enables you to make any area appear to be something other than it is. The illusion includes audible, visual, tactile, and olfactory elements. Unlike <i>hallucinatory terrain<\/i>, the spell can alter the appearance of structures (or add them where none are present). Still, it can't disguise, conceal, or add creatures (though creatures within the area might hide themselves within the illusion just as they can hide themselves within a real location).",
     "name_zh": "海市蜃楼",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "area_zh": "每等级1个边长20尺的立方体 (可变)",
     "duration_zh": "专注 + 1小时/等级 (可解消)",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=hallucinatory terrain\">幻景 (hallucinatory terrain)<\/a>’一般，不过你可以用它将区域内的景物彻底改变。该法术的幻象包含视觉、听觉、触觉和嗅觉要素。与幻景不同的是，海市蜃楼可以改变原有建筑物的外观 (也可以添加不存在的建筑物)。但此法术仍旧无法伪装、隐藏或添加生物的幻象 (不过这片区域内的生物仍旧可以将自己躲在幻象中，就像他们能够将自身藏在真实的场所一样)。<\/p>",
-    "source": "CRB"
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=hallucinatory terrain\">幻景 (hallucinatory terrain)<\/a>’一般，不过你可以用它将区域内的景物彻底改变。该法术的幻象包含视觉、听觉、触觉和嗅觉要素。与幻景不同的是，海市蜃楼可以改变原有建筑物的外观 (也可以添加不存在的建筑物)。但此法术仍旧无法伪装、隐藏或添加生物的幻象 (不过这片区域内的生物仍旧可以将自己躲在幻象中，就像他们能够将自身藏在真实的场所一样)。<\/p>"
 }

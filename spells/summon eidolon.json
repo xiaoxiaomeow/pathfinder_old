@@ -1,26 +1,29 @@
 {
     "key": "summon eidolon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-eidolon/",
     "name": "Summon Eidolon",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Eidolon",
+    "source": ["Advanced Player's Guide pg. 248"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
-    "levels": {"summoner/unchained summoner": 2},
+    "subSchools": ["summoning"],
+    "levels":     {
+        "summoner": 2,
+        "summoner (unchained)": 2
+    },
     "castingTime": "1 round",
     "components": "V, S, M (a silver coin)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 min./level (d)",
+    "target": "one eidolon",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You open a rift between dimensions that summons your eidolon.<\/p><p>Treat this as if you had summoned your eidolon normally, except that it only remains with you for the duration of this spell. While summoned in this way, your eidolon cannot touch any creature warded by <i>protection from evil<\/i> or a similar effect and your eidolon can be sent back to its home plane by <i>dispel magic<\/i>.<\/p><p>If you cast this spell while your eidolon is already on your plane, this spell has no effect. This spell allows you to summon your eidolon even if it has been returned to its home plane due to damage.<\/p>",
+    "text": "You open a rift between dimensions that summons your eidolon. Treat this as if you had summoned your eidolon normally, except that it only remains with you for the duration of this spell. While summoned in this way, your eidolon cannot touch any creature warded by <i>protection from evil <\/i>or a similar effect and your eidolon can be sent back to its home plane by <i>dispel magic<\/i>.<br><br>If you cast this spell while your eidolon is already on your plane, this spell has no effect. This spell allows you to summon your eidolon even if it has been returned to its home plane due to damage.",
     "name_zh": "向导召唤术",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 材料 (一枚银币)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个精神向导",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你开启了一条通往异界的裂隙以召唤你的精神向导。这视同你正常召唤你的精神向导，不过它只在该法术的持续时间内存在于此。当你以此方式召唤你的精神向导，它将无法碰触任何被防护邪恶 (Protection from Evil) 或类似的效果保护的生物，并且你的精神向导能够被解除魔法 (dispel magic) 遣返回原属位面。<\/p><p>如果你的精神向导已经与你处于同一位面，那么施放该法术不会有任何效果。即使你的精神向导由于伤害而被遣返回原属位面，该法术也允许你召唤你的精神向导。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你开启了一条通往异界的裂隙以召唤你的精神向导。这视同你正常召唤你的精神向导，不过它只在该法术的持续时间内存在于此。当你以此方式召唤你的精神向导，它将无法碰触任何被防护邪恶 (Protection from Evil) 或类似的效果保护的生物，并且你的精神向导能够被解除魔法 (dispel magic) 遣返回原属位面。<\/p><p>如果你的精神向导已经与你处于同一位面，那么施放该法术不会有任何效果。即使你的精神向导由于伤害而被遣返回原属位面，该法术也允许你召唤你的精神向导。<\/p>"
 }

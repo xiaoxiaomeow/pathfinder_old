@@ -1,0 +1,32 @@
+{
+    "key": "raiment of command",
+    "name": "Raiment of Command",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Raiment%20of%20Command",
+    "source":     [
+        "Rise of the Runelords Anniversary Edition pg. 418",
+        "Pathfinder #5: Sins of the Saviors pg. 61"
+    ],
+    "school": "illusion",
+    "subSchools": ["glamer"],
+    "levels":     {
+        "arcanist": 2,
+        "bard": 2,
+        "redmantisassassin": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level",
+    "savingThrow": "Will",
+    "spellResistance": "No",
+    "text": "You are cloaked in an illusion of authority. Others perceive you to be a legitimate figure of authority, such as a higher-ranking official, a religious figure, or a more powerful warrior. This illusion grants you a +5 bonus on all Diplomacy and Intimidate checks. If you attempt to disguise yourself as a specific authority figure whom you have met in person, you gain a +10 competence bonus on the Disguise check and any Bluff check related to impersonating that authority figure.<br><br>In addition, others are uncomfortable acting against you. Creatures with an Intelligence of 3 or more take a –2 penalty on all opposed checks made against you, such as Sense Motive checks made to determine if you’re bluffing, or Perception checks made to notice you when you’re using Stealth to sneak (a result of their not wanting to question whether you belong there, and thus giving you the benefit of the doubt).",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "Will",
+    "spellResistance_zh": "不可"
+}

@@ -1,12 +1,19 @@
 {
     "key": "illusory wall",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/illusory-wall/",
     "name": "Illusory Wall",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusory%20Wall",
+    "source": ["PRPG Core Rulebook pg. 299"],
     "school": "illusion",
-    "subSchool": ["figment"],
-    "levels": {"sorcerer/wizard": 4},
-    "subdomains": {"ambush": 5},
-    "mysteries": {"streets": 4},
+    "subSchools": ["figment"],
+    "levels":     {
+        "arcanist": 4,
+        "mesmerist": 4,
+        "occultist": 4,
+        "psychic": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -14,15 +21,14 @@
     "duration": "permanent",
     "savingThrow": "Will disbelief (if interacted with)",
     "spellResistance": "no",
-    "text": "<p>This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear. Although the caster can see through his <i>illusory wall<\/i>, other creatures cannot, even if they succeed at their Will save (but they do learn that it is not real).<\/p>",
+    "text": "This spell creates the illusion of a wall, floor, ceiling, or similar surface. It appears absolutely real when viewed, but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, any detection abilities that do not require sight work normally. Touch or a probing search reveals the true nature of the surface, though such measures do not cause the illusion to disappear. Although the caster can see through his <i>illusory wall<\/i>, other creatures cannot, even if they succeed at their will save (but they do learn that it is not real).",
     "name_zh": "幻墙术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "幻象，大小为1尺×10尺×10尺",
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术能产生类似于墙、地板或是天花板等平面的幻象。它看上去绝对真实，但任何实体物体都可以轻易穿越它。当该法术用来隐藏洞穴、陷阱或是门时，任何不需要视觉的探测能力都能够正常生效。触摸或试探性的搜索都能揭露这个平面的幻象本质，但并不会使幻象消失。虽然施法者能够看透幻墙术，但是其他生物不行，即便他们成功通过意志豁免也是如此 (不过他们会知道幻象并非真实存在)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术能产生类似于墙、地板或是天花板等平面的幻象。它看上去绝对真实，但任何实体物体都可以轻易穿越它。当该法术用来隐藏洞穴、陷阱或是门时，任何不需要视觉的探测能力都能够正常生效。触摸或试探性的搜索都能揭露这个平面的幻象本质，但并不会使幻象消失。虽然施法者能够看透幻墙术，但是其他生物不行，即便他们成功通过意志豁免也是如此 (不过他们会知道幻象并非真实存在)。<\/p>"
 }

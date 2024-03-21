@@ -1,31 +1,28 @@
 {
     "key": "spell turning",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-turning/",
     "name": "Spell Turning",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spell%20Turning",
+    "source": ["PRPG Core Rulebook pg. 347"],
     "school": "abjuration",
     "levels":     {
-        "sorcerer/wizard": 7,
+        "arcanist": 7,
+        "psychic": 7,
+        "sorcerer": 7,
         "summoner": 5,
-        "unchained summoner": 6
+        "summoner (unchained)": 6,
+        "wizard": 7
     },
-    "domains":     {
-        "luck": 7,
-        "magic": 7
-    },
-    "bloodlines": {"destined": 7},
-    "mysteries": {"spellscar": 7},
     "castingTime": "1 standard action",
-    "components": "V, S, M/DF (a small silver mirror worth 100 gp)",
+    "components": "V, S, M/DF (a small silver mirror)",
     "range": "personal",
     "target": "you",
     "duration": "until expended or 10 min./level",
-    "text": "<p>Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. <i>Spell turning<\/i> also fails to stop touch range spells. From seven to ten (1d4+6) spell levels are affected by the turning. The exact number is rolled secretly.<\/p><p>When you are targeted by a spell of higher level than the amount of spell turning you have left, that spell is partially turned. Subtract the amount of spell turning left from the spell level of the incoming spell, then divide the result by the spell level of the incoming spell to see what fraction of the effect gets through. For damaging spells, you and the caster each take a fraction of the damage. For non-damaging spells, each of you has a proportional chance to be the one who is affected. If you and a spellcasting attacker are both warded by <i>spell turning<\/i> effects in operation, a resonating field is created. Roll randomly to determine the result.<\/p><p>If you and a spellcasting attacker are both warded by <em>spell turning<\/em> effects in operation, a resonating field is created.<\/p><p>Roll randomly to determine the result.<\/p><table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">d%<\/th><th class=\"text\">Effect<\/th><\/tr><\/thead><tbody><tr><td class=\"number\" style=\"text-align: center\">01-70<\/td><td class=\"text\">Spell drains away without effect.<\/td><\/tr><tr><td class=\"number\" style=\"text-align: center\">71-80<\/td><td class=\"text\">Spell affects both of you equally at full effect.<\/td><\/tr><tr><td class=\"number\" style=\"text-align: center\">81-97<\/td><td class=\"text\">Both turning effects are rendered nonfunctional for 1d4 minutes.<\/td><\/tr><tr><td class=\"number\" style=\"text-align: center\">98-100<\/td><td class=\"text\">Both of you go through a rift into another plane.<\/td><\/tr><\/tbody><\/table>",
+    "text": "Spells and spell-like effects targeted on you are turned back upon the original caster. The abjuration turns only spells that have you as a target. Effect and area spells are not affected. <i>Spell turning<\/i> also fails to stop touch range spells. From seven to ten (1d4+6) spell levels are affected by the turning. The exact number is rolled secretly.<br><br>When you are targeted by a spell of higher level than the amount of spell turning you have left, that spell is partially turned. Subtract the amount of spell turning left from the spell level of the incoming spell, then divide the result by the spell level of the incoming spell to see what fraction of the effect gets through. For damaging spells, you and the caster each take a fraction of the damage. For nondamaging spells, each of you has a proportional chance to be the one who is affected. If you and a spellcasting attacker are both warded by <i>spell turning<\/i> effects in operation, a resonating field is created. Roll randomly to determine the result.<br><br><table class=\"inner\"><tr><td><b>d%<\/b><\/td><td><b>Effect<\/b><\/td><\/tr><tr><td>01-70<\/td><td>Spell drains away without effect.<\/td><\/tr><tr><td>71-80<\/td><td>Spell affects both of you equally at full effect.<\/td><\/tr><tr><td>81-97<\/td><td>Both turning effects are rendered nonfunctional for 1d4 minutes.<\/td><\/tr><tr><td>98-100<\/td><td>Both of you go through a rift into another plane.<\/td><\/tr><\/table>",
     "name_zh": "法术反转",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一面小银镜)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "直至耗尽 或 10分钟/等级",
-    "text_zh": "<p>以你为目标的法术或类法术效果会弹回原施法者的身上。这种防护性质的法术只会反转以你为目标的法术。效果型和区域型的法术不受影响，对远程接触类法术也无效。可反转的法术环位为7到10 (1d4+6)。具体数值由暗投决定。<\/p><p>若剩余反转环位比受到的目标法术的环位低，则该法术只能被部分反转。此时，以该法术环位与剩余反转等级的差为分子，以该法术环位为分母，所得的结果即为该法术生效与被反转的比率。若为伤害性法术，你与施法者则按此比率受到伤害；若为非伤害性法术，你们受到影响的机率也依此计算。若你和施法攻击者都受法术反转的保护，则会产生共鸣场，结果要投百分骰随机决定。\nd%\n 效果\n01 – 70\n 法术衰竭，无任何效果\n71 – 80\n 法术完全生效，且对双方造成同样效果\n81 – 97\n 法术的反转均无效1d4分钟\n98 – 100\n 双方被抛入另一位面的裂缝中<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>以你为目标的法术或类法术效果会弹回原施法者的身上。这种防护性质的法术只会反转以你为目标的法术。效果型和区域型的法术不受影响，对远程接触类法术也无效。可反转的法术环位为7到10 (1d4+6)。具体数值由暗投决定。<\/p><p>若剩余反转环位比受到的目标法术的环位低，则该法术只能被部分反转。此时，以该法术环位与剩余反转等级的差为分子，以该法术环位为分母，所得的结果即为该法术生效与被反转的比率。若为伤害性法术，你与施法者则按此比率受到伤害；若为非伤害性法术，你们受到影响的机率也依此计算。若你和施法攻击者都受法术反转的保护，则会产生共鸣场，结果要投百分骰随机决定。<\/p><p>d% 效果<\/p><p>01 – 70 法术衰竭，无任何效果<\/p><p>71 – 80 法术完全生效，且对双方造成同样效果<\/p><p>81 – 97 法术的反转均无效1d4分钟<\/p><p>98 – 100 双方被抛入另一位面的裂缝中<\/p>"
 }

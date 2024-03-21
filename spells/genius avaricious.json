@@ -1,14 +1,18 @@
 {
     "key": "genius avaricious",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/genius-avaricious/",
     "name": "Genius Avaricious",
-    "book": "Pathfinder Adventure Path volume #30: The Twice-Damned Prince. © 2010 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Genius%20Avaricious",
+    "source": ["Pathfinder #30: The Twice-Damned Prince pg. 69"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["evil"],
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
-        "sorcerer/wizard": 6
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "wizard": 6
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (valuable offerings; see text), F (one gold coin)",
@@ -17,15 +21,14 @@
     "duration": "instantaneous (see text)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>Casting this spell constitutes performing a rite of sacrifice to the archdevil Mammon, making an offering to the Lord of Erebus and channeling a measure of his disembodied might into a single coin. The power and abilities of this vestige correspond directly to the value of the offering, allowing for three distinct effects.<\/p>",
+    "text": "Casting this spell constitutes performing a rite of sacrifice to the archdevil Mammon, making an offering to the Lord of Erebus and channeling a measure of his disembodied might into a single coin. The power and abilities of this vestige correspond directly to the value of the offering, allowing for three distinct effects.<br><br><i>Corrupted Coin<\/i>: Making a sacrifice worth 1,500 gp corrupts the focus into a “lucky” or “unlucky” coin as per the caster’s will for 1 month. Any creature that bears the coin gains a bonus or penalty (decided by the caster at the time of casting) on all Appraise, Bluff, Craft, and Profession checks. This bonus or penalty is equal to 1 per 3 caster levels (maximum +5 at 15th level). In addition, the coin can produce an effect similar to the spell <i>augury<\/i> once per day—its flip producing a weal (heads), woe (tails), or nothing result (landing on the edge). Potentially unknown to the bearer (if different from the caster), the caster can telepathically hear any question asked of the coin and, as a free action, influence the result as he chooses.<br><br><i>Mammon’s Mantle<\/i>: Making a sacrifice worth 3,000 gp transforms the coin into a kind of infernal aegis for any who swallow the coin. Upon ingesting the coin, the target gains a bonus to Charisma equal to +1 per 3 caster levels (maximum +5 at 15th level). The bearer’s blood also takes on a hue like liquid gold and runs slowly, granting him immunity to poison, disease, and aging effects, and causing him to automatically stabilize if reduced to fewer than 0 hit points. Additionally, the bearer can eat gold to heal himself, regaining 1 hit point for every 20 gold pieces he consumes (materials other than gold provide no benefit). The coin’s effects last for 1 day per caster level.<br><br><i>Gold Guardian<\/i>: Making a sacrifice worth 6,000 gp allows the focus coin to animate nearby coins. When cast into a pile of 100,000 coins, an animate hoard (see <i>Pathfinder #30: The Twice-Damned Prince<\/i> pg. 68) forms under the control of the caster. The guardian serves for 1 month. After this month, coins begin disappearing from the guardian at a rate of 100 gp per day, reducing the creature’s hit points by 1 per day. When the guardian’s hit points reach 0, the guardian collapses and the focus coin is destroyed. Coins lost from the guardian can be replaced, restoring any lost hit points.<br><br>In addition to the effects of any of these offerings, should the focus coin be swallowed, any being sired or conceived by the creature while the magic is in effect is born as a tiefling (bearing an indirect relation to Mammon himself ).",
     "name_zh": "贪婪魔金",
     "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势，材料（有价值的祭品；见下文），法器（一枚金币）",
     "range_zh": "接触",
     "effect_zh": "魔鬼大公玛门（Mammon）给一枚硬币灌注可兑现程度的力量的遗留物",
-    "duration_zh": "立即（见下文）",
+    "duration_zh": "立即; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>施展该法术构成了向魔鬼大公玛门——艾尔伯斯（Erebus）之主——举行的献祭仪式，向他献上祭品，并一定程度上引导他无形的力量灌入一枚硬币。遗留物的力量和能力直接与祭品的价值对应，并允许三种不同的效果。\n腐化硬币：根据施法者的意愿每持续1个月需要做出1500gp价值的献祭，这会将法器腐蚀成“幸运”或“不幸”的钱币。任何携带硬币的生物在所有估价、唬骗、工艺和专业检定上获得加值或减值（由施法者在施法时决定）。该加值或减值等同于每3个施法者等级1点（在15级时达到最大+5）。此外，硬币每天可以产生一次类似于法术占卜术的效果——它的翻转会产生吉（正面）、凶（背面）或平（边缘落地）的结果。此外持有者（如果不是施法者）可能不知道的是，施法者可以通过心灵感应听到问硬币的任何问题，并以自由动作选择影响结果。\n玛门的斗篷：做出价值3000gp的献祭，将硬币转化为对吞下它的人来说一种地狱盾（infernal aegis）。咽下硬币后，目标获得等同于每3个施法者等级+1的魅力加值（在15级时达到最大+5）。持有者的血液也呈现出液体黄金般的色调并缓慢流动，这使他对毒素、疾病和衰老效果免疫，并使他在生命值降至0以下时自动稳定伤势。此外，持有者可以吃黄金来治疗自己，每消耗20枚金币（gold pieces）他就恢复1点生命值（黄金以外的材料不能提供任何好处）。硬币的效果持续每施法者等级1天。\n黄金守卫：做出价值6000gp的献祭可以活化附近的硬币。当将硬币投入一堆 100000枚硬币时，会在施法者的控制下形成一个活化宝库（hoard）（见Pathfinder #30: The Twice-Damned Prince pg. 68）。守卫服务1个月。这个月之后，硬币开始以每天100gp的速度从守卫身上消失，这使该生物的生命值每天减少1点。当守卫的生命值降为0时，守卫崩溃并且法器硬币被摧毁。从守卫那里消失的硬币可以被替换以恢复任何损失的生命值。\n除了这些祭品的任意效果外，如果吞下法器硬币，任何在魔法生效时由该生物生育或孕育着的生物都会出生为魔裔（与玛门本人有间接关系）。<\/p>",
-    "source": "AP-CoT"
+    "text_zh": "<p>施展该法术构成了向魔鬼大公玛门——艾尔伯斯（Erebus）之主——举行的献祭仪式，向他献上祭品，并一定程度上引导他无形的力量灌入一枚硬币。遗留物的力量和能力直接与祭品的价值对应，并允许三种不同的效果。<\/p><p>腐化硬币：根据施法者的意愿每持续1个月需要做出1500gp价值的献祭，这会将法器腐蚀成“幸运”或“不幸”的钱币。任何携带硬币的生物在所有估价、唬骗、工艺和专业检定上获得加值或减值（由施法者在施法时决定）。该加值或减值等同于每3个施法者等级1点（在15级时达到最大+5）。此外，硬币每天可以产生一次类似于法术占卜术的效果——它的翻转会产生吉（正面）、凶（背面）或平（边缘落地）的结果。此外持有者（如果不是施法者）可能不知道的是，施法者可以通过心灵感应听到问硬币的任何问题，并以自由动作选择影响结果。<\/p><p>玛门的斗篷：做出价值3000gp的献祭，将硬币转化为对吞下它的人来说一种地狱盾（infernal aegis）。咽下硬币后，目标获得等同于每3个施法者等级+1的魅力加值（在15级时达到最大+5）。持有者的血液也呈现出液体黄金般的色调并缓慢流动，这使他对毒素、疾病和衰老效果免疫，并使他在生命值降至0以下时自动稳定伤势。此外，持有者可以吃黄金来治疗自己，每消耗20枚金币（gold pieces）他就恢复1点生命值（黄金以外的材料不能提供任何好处）。硬币的效果持续每施法者等级1天。<\/p><p>黄金守卫：做出价值6000gp的献祭可以活化附近的硬币。当将硬币投入一堆 100000枚硬币时，会在施法者的控制下形成一个活化宝库（hoard）（见Pathfinder #30: The Twice-Damned Prince pg. 68）。守卫服务1个月。这个月之后，硬币开始以每天100gp的速度从守卫身上消失，这使该生物的生命值每天减少1点。当守卫的生命值降为0时，守卫崩溃并且法器硬币被摧毁。从守卫那里消失的硬币可以被替换以恢复任何损失的生命值。<\/p><p>除了这些祭品的任意效果外，如果吞下法器硬币，任何在魔法生效时由该生物生育或孕育着的生物都会出生为魔裔（与玛门本人有间接关系）。<\/p>"
 }

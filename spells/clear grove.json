@@ -1,11 +1,12 @@
 {
     "key": "clear grove",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/clear-grove/",
     "name": "Clear Grove",
-    "book": "Pathfinder Player Companion: Heroes of the Wild © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Clear%20Grove",
+    "source": ["Heroes of the Wild pg. 30"],
     "school": "transmutation",
     "levels":     {
         "druid": 3,
+        "hunter": 2,
         "ranger": 2,
         "shaman": 3,
         "witch": 3
@@ -14,18 +15,17 @@
     "components": "V, S, M/DF (a miniature hoe)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "20-ft.-radius clearing",
-    "duration": "2 hours/level (d)",
+    "duration": "2 hours/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>Trees, shrubs, and other thick vegetation move out of the spell's area. The affected area is cleared of all vegetation thick enough to provide cover or concealment. This also creates a hole in any tree canopy, allowing sunlight to pass through. Affected trees and undergrowth form a 5-foot-wide ring along the edge of the clearing, which may provide cover or concealment based on the thickness of the vegetation (at the GM's discretion).<\/p><p>This spell doesn't affect creatures of the plant type. The spell can affect vegetation altered with spells of equal or lower level (such as entangle or spike growth). When the spell ends, the trees and undergrowth move back to their original places unless they're destroyed or somehow restrained (the amount of time this takes is subject to the GM's discretion).<\/p>",
+    "text": "Trees, shrubs, and other thick vegetation move out of the spell’s area. The affected area is cleared of all vegetation thick enough to provide cover or concealment. This also creates a hole in any tree canopy, allowing sunlight to pass through. Affected trees and undergrowth form a 5-foot-wide ring along the edge of the clearing, which may provide cover or concealment based on the thickness of the vegetation (at the GM’s discretion).<br><br> This spell doesn’t affect creatures of the plant type. The spell can affect vegetation altered with spells of equal or lower level (such as <i>entangle<\/i> or <i>spike growth<\/i>). When the spell ends, the trees and undergrowth move back to their original places unless they’re destroyed or somehow restrained (the amount of time this takes is subject to the GM’s discretion).",
     "name_zh": "除碍植被",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、材料/法器 (一把微型锄头)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "20呎半径清除",
-    "duration_zh": "2小时/等级 (D)",
+    "duration_zh": "2小时/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>树木、灌木与其他厚植移开此法术的区域。所有足够厚，能提供掩蔽或隐蔽的植被，在受影响的区域都被清除。这也会在任何树的树冠处创造一个洞，令阳光穿过。受影响的树与矮树丛会在空地的边缘处形成一个5呎的圆环，基于植被的厚度，这可能提供掩蔽或隐蔽(由GM决定)。\n这法术不影响植物类的生物。这法术能够影响同环级或更低环级，更动植被的法术(像是纠缠树[entangle]或是荆棘丛生[spike growth])。当此法术结束时，数目与矮树丛会移回他们原本的位置，除非他们被摧毁或是被什么所束缚住(这些情况由GM决定)。<\/p>",
-    "source": "PC-HotW"
+    "text_zh": "<p>树木、灌木与其他厚植移开此法术的区域。所有足够厚，能提供掩蔽或隐蔽的植被，在受影响的区域都被清除。这也会在任何树的树冠处创造一个洞，令阳光穿过。受影响的树与矮树丛会在空地的边缘处形成一个5呎的圆环，基于植被的厚度，这可能提供掩蔽或隐蔽(由GM决定)。<\/p><p>这法术不影响植物类的生物。这法术能够影响同环级或更低环级，更动植被的法术(像是纠缠树[entangle]或是荆棘丛生[spike growth])。当此法术结束时，数目与矮树丛会移回他们原本的位置，除非他们被摧毁或是被什么所束缚住(这些情况由GM决定)。<\/p>"
 }

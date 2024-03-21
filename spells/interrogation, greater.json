@@ -1,21 +1,31 @@
 {
     "key": "interrogation, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/interrogation/",
     "name": "Interrogation, Greater",
-    "base": "interrogation",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Interrogation,%20Greater",
+    "source": ["Ultimate Magic pg. 225"],
     "school": "necromancy",
     "descriptors":     [
         "evil",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "inquisitor": 4,
         "psychic": 4
     },
-    "text": "<p>This spell functions as <i>interrogation<\/i>, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn't answer a question.<\/p><\/div>",
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 minute/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>interrogation<\/i>, except you may ask one question per caster level and the spell deals damage equal to 1d8 points plus your Wisdom bonus if the target doesn’t answer a question.",
     "name_zh": "高等拷问",
-    "text_zh": "<p>该法术的功能如同拷问 (Interrogation) 一般，不过你可以询问每施法者等级1个问题，如果目标不回答问题，法术会造成1d8 + 你的感知加值点伤害。<\/p>",
-    "source": "UM"
+    "castingTime_zh": "1轮",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同拷问 (Interrogation) 一般，不过你可以询问每施法者等级1个问题，如果目标不回答问题，法术会造成1d8 + 你的感知加值点伤害。<\/p>"
 }

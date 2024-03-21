@@ -1,16 +1,17 @@
 {
     "key": "circle of death",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/circle-of-death/",
     "name": "Circle of Death",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Circle%20of%20Death",
+    "source": ["PRPG Core Rulebook pg. 255"],
     "school": "necromancy",
     "descriptors": ["death"],
     "levels":     {
+        "arcanist": 6,
         "inquisitor": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "wizard": 6
     },
-    "bloodlines": {"daemon": 6},
-    "mysteries": {"apocalypse": 6},
     "castingTime": "1 standard action",
     "components": "V, S, M (a crushed black pearl worth 500 gp)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -18,16 +19,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p><i>Circle of death<\/i> snuffs out the life force of living creatures, killing them instantly. The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected first. No creature of 9 or more HD can be affected, and HD that are not sufficient to affect a creature are wasted.<\/p>",
-    "mythicText": "The number of Hit Dice worth of creatures killed by the spell increases to 1d6 per caster level (maximum 20d6). Add your tier to the maximum HD of creatures that can be affected by the spell. (For example, at 3rd tier, a creature with 12 HD cannot be affected.) <br><p style=\"margin-left: 20px\"><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, creatures that succeed at their saves against this spell take 1d6 points of damage per tier. ",
+    "text": "<i>Circle of death<\/i> snuffs out the life force of living creatures, killing them instantly. The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected first. No creature of 9 or more HD can be affected, and HD that are not sufficient to affect a creature are wasted.<h2 class=\"title\">Mythic Circle of Death<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 88<\/i><br>The number of Hit Dice worth of creatures killed by the spell increases to 1d6 per caster level (maximum 20d6). Add your tier to the maximum HD of creatures that can be affected by the spell. (For example, at 3rd tier, a creature with 12 HD cannot be affected.)<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, creatures that succeed at their saves against this spell take 1d6 points of damage per tier.",
+    "mythicSource": ["Mythic Adventures pg. 88"],
+    "mythicText": "The number of Hit Dice worth of creatures killed by the spell increases to 1d6 per caster level (maximum 20d6). Add your tier to the maximum HD of creatures that can be affected by the spell. (For example, at 3rd tier, a creature with 12 HD cannot be affected.)<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, creatures that succeed at their saves against this spell take 1d6 points of damage per tier.",
     "name_zh": "死亡法阵",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值500gp的黑珍珠粉)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "半径40尺爆发区域内的活物",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>死亡法阵让活物的生命之火燃尽，从而立即杀死它们。该法术会杀死HD总和相当于每CL 1d4个HD的活物 (最高20d4)。HD最小的生物将首先被影响；HD相同时，最靠近法术爆发中心点的生物先受影响。HD大于等于9的生物不会受到法术影响。多余出来不足以影响生物的HD将被浪费掉。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>死亡法阵让活物的生命之火燃尽，从而立即杀死它们。该法术会杀死HD总和相当于每CL 1d4个HD的活物 (最高20d4)。HD最小的生物将首先被影响；HD相同时，最靠近法术爆发中心点的生物先受影响。HD大于等于9的生物不会受到法术影响。多余出来不足以影响生物的HD将被浪费掉。<\/p>"
 }

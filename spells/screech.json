@@ -1,8 +1,8 @@
 {
     "key": "screech",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/screech/",
     "name": "Screech",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Screech",
+    "source": ["Advanced Player's Guide pg. 241"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels": {"witch": 3},
@@ -13,15 +13,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful Saving Throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own <i>screech<\/i>.<\/p>",
+    "text": "You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful saving throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own <i>screech<\/i>.",
     "name_zh": "尖叫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
     "range_zh": "30尺",
-    "area_zh": "以你为中心，半径30尺弥散范围",
+    "area_zh": "以你为中心30尺爆发半径",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你发出一声尖锐、刺耳的尖叫，让那些围绕着你的人吃惊得忘记防范他人。在范围中的敌人必须进行一次成功的豁免，否则会立即引发正在威胁他们的对手的藉机攻击。你和你的盟友不受你尖叫的影响。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你发出一声尖锐、刺耳的尖叫，让那些围绕着你的人吃惊得忘记防范他人。在范围中的敌人必须进行一次成功的豁免，否则会立即引发正在威胁他们的对手的藉机攻击。你和你的盟友不受你尖叫的影响。<\/p>"
 }

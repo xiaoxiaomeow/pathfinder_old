@@ -1,18 +1,33 @@
 {
     "key": "wandering weather",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wandering-weather/",
     "name": "Wandering Weather",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wandering%20Weather",
+    "source": ["Ultimate Wilderness pg. 237"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 8,
         "cleric": 8,
         "druid": 8,
+        "oracle": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "text": "<p>This spell functions as control weather except you can opt for the weather to remain centered on you as you move.<\/p>",
+    "castingTime": "10 minutes; see text",
+    "components": "V, S",
+    "range": "2 miles",
+    "area": "2-mile-radius circle, centered on you; see text",
+    "duration": "4d12 hours; see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>control weather<\/i> except you can opt for the weather to remain centered on you as you move.",
     "name_zh": "巡游天气",
-    "text_zh": "<p>这种法术如同操控天气，除了你可以选择让天气在你移动时随你移动，始终以你为中心。<\/p>",
-    "source": "UW"
+    "castingTime_zh": "10分钟; 见文本",
+    "range_zh": "2里",
+    "area_zh": "以你为中心, 半径2英里的圆形区域; 见文本",
+    "duration_zh": "4d12小时; 见文本",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这种法术如同操控天气，除了你可以选择让天气在你移动时随你移动，始终以你为中心。<\/p>"
 }

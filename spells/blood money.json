@@ -1,26 +1,31 @@
 {
     "key": "blood money",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-money/",
     "name": "Blood Money",
-    "book": "Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Money",
+    "source":     [
+        "Rise of the Runelords Anniversary Edition pg. 418",
+        "Pathfinder #5: Sins of the Saviors pg. 59"
+    ],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
         "magus": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "0 ft.",
     "effect": "1 material component",
-    "duration": "instantaneous",
-    "text": "<p>You cast <i>blood money<\/i> just before casting another spell. As part of this spell's casting, you must cut one of your hands, releasing a stream of blood that causes you to take 1d6 points of damage. When you cast another spell in that same round, your blood transforms into one material component of your choice required by that second spell. Even valuable components worth more than 1 gp can be created, but creating such material components requires an additional cost of 1 point of Strength damage, plus a further point of damage for every full 500 gp of the component's value (so a component worth 500–999 gp costs a total of 2 points, 1,000–1,500 costs 3, etc.). You cannot create magic items with <i>blood money<\/i>.<\/p><p>For example, a sorcerer with the spell stoneskin prepared could cast <i>blood money<\/i> to create the 250 gp worth of diamond dust required by that spell, taking 1d6 points of damage and 1 point of Strength damage in the process.<\/p><p>Material components created by <i>blood money<\/i> transform back into blood at the end of the round if they have not been used as a material component. Spellcasters who do not have blood cannot cast <i>blood money<\/i>, and those who are immune to Strength damage (such as undead spellcasters) cannot use <i>blood money<\/i> to create valuable material components.<\/p>",
+    "duration": "Instantaneous",
+    "text": "You cast <i>blood money<\/i> just before casting another spell. As part of this spell’s casting, you must cut one of your hands, releasing a stream of blood that causes you to take 1d6 points of damage. When you cast another spell in that same round, your blood transforms into one material component of your choice required by that second spell. Even valuable components worth more than 1 gp can be created, but creating such material components requires an additional cost of 1 point of Strength damage, plus a further point of damage for every full 500 gp of the component’s value (so a component worth 500–999 gp costs a total of 2 points, 1,000–1,500 costs 3, etc.). You cannot create magic items with <i>blood money<\/i>.<br><br>For example, a sorcerer with the spell <i>stoneskin<\/i> prepared could cast <i>blood money<\/i> to create the 250 gp worth of diamond dust required by that spell, taking 1d6 points of damage and 1 point of Strength damage in the process.<br><br>Material components created by <i>blood money<\/i> transform back into blood at the end of the round if they have not been used as a material component. Spellcasters who do not have blood cannot cast <i>blood money<\/i>, and those who are immune to Strength damage (such as undead spellcasters) cannot use <i>blood money<\/i> to create valuable material components.",
     "name_zh": "染血之金",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言、姿势",
     "range_zh": "0尺",
     "effect_zh": "1个材料成分",
-    "duration_zh": "立即 ",
-    "text_zh": "<p>你在施展另一个法术之前，先施放了染血之金。作为施放此法术的一部分，你必须割开你的手，让鲜血流淌，此举会对你造成1d6点伤害。在你在同一轮施放另一个法术时，你流出的鲜血可以转变成你所施放的第二个法术要求的其中一项材料成分，由你所指定。就算是价值超过1gp的成分也可以被创造，但创造这种材料成分需要额外的1点力量伤害，再加上每满500gp价值的材料会逐步增加的伤害(所以一件价值500-999gp的成分总共要花费2点，1000-1500要花费3点，以此类推。)。你不能用染血之金来创造魔法物品。\n举例来说，一个准备施展石肤术(stoneskin)的术士，可以施放染血之金创造此法术需要的价值250gp的钻石尘，在此过程中受到1d6点伤害与1点力量属性伤害。\n染血之金创造的材料成分，如果在回合结束前都没有被以材料成分使用的话，会在回合结束时变回血液。没有鲜血的施法者不能施展染血之金，并且那些免疫属性伤害的(例如不死生物施法者)不能施展染血之金来创造有价值的材料成分。<\/p>",
-    "source": "AP-RetotR"
+    "duration_zh": "立即",
+    "text_zh": "<p>你在施展另一个法术之前，先施放了染血之金。作为施放此法术的一部分，你必须割开你的手，让鲜血流淌，此举会对你造成1d6点伤害。在你在同一轮施放另一个法术时，你流出的鲜血可以转变成你所施放的第二个法术要求的其中一项材料成分，由你所指定。就算是价值超过1gp的成分也可以被创造，但创造这种材料成分需要额外的1点力量伤害，再加上每满500gp价值的材料会逐步增加的伤害(所以一件价值500-999gp的成分总共要花费2点，1000-1500要花费3点，以此类推。)。你不能用染血之金来创造魔法物品。<\/p><p>举例来说，一个准备施展石肤术(stoneskin)的术士，可以施放染血之金创造此法术需要的价值250gp的钻石尘，在此过程中受到1d6点伤害与1点力量属性伤害。<\/p><p>染血之金创造的材料成分，如果在回合结束前都没有被以材料成分使用的话，会在回合结束时变回血液。没有鲜血的施法者不能施展染血之金，并且那些免疫属性伤害的(例如不死生物施法者)不能施展染血之金来创造有价值的材料成分。<\/p>"
 }

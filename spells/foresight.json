@@ -1,17 +1,18 @@
 {
     "key": "foresight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/foresight/",
     "name": "Foresight",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Foresight",
+    "source": ["PRPG Core Rulebook pg. 285"],
     "school": "divination",
     "levels":     {
+        "arcanist": 9,
         "druid": 9,
+        "psychic": 9,
         "shaman": 9,
-        "sorcerer/wizard": 9,
-        "witch": 9
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
     },
-    "domains": {"knowledge": 9},
-    "elementalSchools": {"void": 9},
-    "bloodlines": {"destined": 9},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a hummingbird's feather)",
     "range": "personal or touch",
@@ -19,8 +20,9 @@
     "duration": "10 min./level",
     "savingThrow": "none or Will negates (harmless)",
     "spellResistance": "no or yes (harmless)",
-    "text": "<p>This spell grants you a powerful sixth sense in relation to yourself or another. Once <i>foresight<\/i> is cast, you receive instantaneous warnings of impending danger or harm to the subject of the spell. You are never surprised or flat-footed. In addition, the spell gives you a general idea of what action you might take to best protect yourself and gives you a +2 insight bonus to AC and on Reflex saves. This insight bonus is lost whenever you would lose a Dexterity bonus to AC.<\/p><p>When another creature is the subject of the spell, you receive warnings about that creature. You must communicate what you learn to the other creature for the warning to be useful, and the creature can be caught unprepared in the absence of such a warning. Shouting a warning, yanking a person back, and even telepathically communicating (via an appropriate spell) can all be accomplished before some danger befalls the subject, provided you act on the warning without delay. The subject, however, does not gain the insight bonus to AC and Reflex saves.<\/p>",
-    "mythicText": "The spell's insight bonus increases to +3. If you cast the spell on another creature, you and the target are simultaneously warned by the spell, and the target gains the spell's insight bonuses. <br><\/div>",
+    "text": "This spell grants you a powerful sixth sense in relation to yourself or another. Once <i>foresight<\/i> is cast, you receive instantaneous warnings of impending danger or harm to the subject of the spell. You are never surprised or flat-footed. In addition, the spell gives you a general idea of what action you might take to best protect yourself and gives you a +2 insight bonus to AC and on Reflex saves. This insight bonus is lost whenever you would lose a Dexterity bonus to AC.<br><br>When another creature is the subject of the spell, you receive warnings about that creature. You must communicate what you learn to the other creature for the warning to be useful, and the creature can be caught unprepared in the absence of such a warning. Shouting a warning, yanking a person back, and even telepathically communicating (via an appropriate spell) can all be accomplished before some danger befalls the subject, provided you act on the warning without delay. The subject, however, does not gain the insight bonus to AC and Reflex saves.<h2 class=\"title\">Mythic Foresight<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 96<\/i><br>The spell’s insight bonus increases to +3. If you cast the spell on another creature, you and the target are simultaneously warned by the spell, and the target gains the spell’s insight bonuses. ",
+    "mythicSource": ["Mythic Adventures pg. 96"],
+    "mythicText": "The spell’s insight bonus increases to +3. If you cast the spell on another creature, you and the target are simultaneously warned by the spell, and the target gains the spell’s insight bonuses. ",
     "name_zh": "预警术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (蜂鸟羽毛)",
@@ -29,6 +31,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无 或 意志, 通过则无效 (无害)",
     "spellResistance_zh": "否 或 可 (无害)",
-    "text_zh": "<p>这个法术让你对你自身或其他人获得一种强有力的第六感。一旦预警术施放出来，当有危险或伤害迫近此法术受术者时，你能即刻获得警报。你永远不会处在被突袭或措手不及状态。另外，这个法术能让你知道通常采取什么行动能最大程度地保护自己，而且你的AC和反射豁免获得+2洞察加值。在你失去AC的敏捷加值时，这种洞察加值也会随之失去。<\/p><p>当该法术的受术者是其他生物时，你能获得关于该生物的警报。你必须告知其他生物你所收到的警报，才能让警报发挥作用，否则该生物会在没有这样的警报时中埋伏。只要你在得到警报时立刻采取行动，比如大声喊叫、把人猛拽回来，甚至是心灵沟通 (通过相应法术)，都可以在危险降临在受术者前完成。但是该生物的AC和反射豁免并不能由该法术获得洞察加值。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术让你对你自身或其他人获得一种强有力的第六感。一旦预警术施放出来，当有危险或伤害迫近此法术受术者时，你能即刻获得警报。你永远不会处在被突袭或措手不及状态。另外，这个法术能让你知道通常采取什么行动能最大程度地保护自己，而且你的AC和反射豁免获得+2洞察加值。在你失去AC的敏捷加值时，这种洞察加值也会随之失去。<\/p><p>当该法术的受术者是其他生物时，你能获得关于该生物的警报。你必须告知其他生物你所收到的警报，才能让警报发挥作用，否则该生物会在没有这样的警报时中埋伏。只要你在得到警报时立刻采取行动，比如大声喊叫、把人猛拽回来，甚至是心灵沟通 (通过相应法术)，都可以在危险降临在受术者前完成。但是该生物的AC和反射豁免并不能由该法术获得洞察加值。<\/p>"
 }

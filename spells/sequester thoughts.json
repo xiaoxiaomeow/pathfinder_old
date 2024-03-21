@@ -1,27 +1,29 @@
 {
     "key": "sequester thoughts",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sequester-thoughts/",
     "name": "Sequester Thoughts",
-    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sequester%20Thoughts",
+    "source": ["Pathfinder Society Field Guide pg. 58"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 5,
         "bard": 3,
-        "sorcerer/wizard": 5
+        "skald": 3,
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (a gemstone worth at least 500 gp)",
     "range": "personal",
     "target": "one willing creature",
     "duration": "permanent until discharged (see text)",
-    "text": "<p>Sequester thoughts allows you to erase a creature's memory of either an event lasting not more than 1 minute per caster level or all of its knowledge about a single topic (using the GM's discretion as to what constitutes a single topic). For example, you could erase a single battle from a creature's memory, or all knowledge of a plot to assassinate a king. The memories you remove are stored within the gem used at the time of casting. If the gem is shattered, the memories return to the creature as long as the two are within 30 feet of each other. Once sequester thoughts has been cast, the spell remains active on the gem and can be dispelled (which shatters it). No portion of the spell remains active on the target creature, and the target does not radiate magic as a consequence of the spell, nor can its memories be returned by dispelling the creature or subjecting it to antimagic. If the gem is shattered or dispelled out of range from the creature, the thoughts sequestered within are forever lost save by the use of wish, miracle, or the like.<\/p><p>Sequester thoughts protects against detect thoughts, zone of truth, discern lies, and similar spells where the memories removed are concerned, though careful questioning may reveal the gaps in the creature's memory, or that it has been affected by the spell. Note that the creature itself does not remember any details of what memories were removed until the gem is broken.<\/p>",
+    "text": "<i>Sequester thoughts<\/i> allows you to erase a creature’s memory of either an event lasting not more than 1 minute per caster level or all of its knowledge about a single topic (using the GM’s discretion as to what constitutes a single topic). For example, you could erase a single battle from a creature’s memory, or all knowledge of a plot to assassinate a king. The memories you remove are stored within the gem used at the time of casting. If the gem is shattered, the memories return to the creature as long as the two are within 30 feet of each other. Once <i>sequester thoughts <\/i>has been cast, the spell remains active on the gem and can be dispelled (which shatters it). No portion of the spell remains active on the target creature, and the target does not radiate magic as a consequence of the spell, nor can its memories be returned by dispelling the creature or subjecting it to antimagic. If the gem is shattered or dispelled out of range from the creature, the thoughts sequestered within are forever lost save by the use of <i>wish<\/i>, <i>miracle<\/i>, or the like.<br><br><i>Sequester thoughts<\/i> protects against <i>detect thoughts<\/i>, <i>zone of truth<\/i>, <i>discern lies<\/i>, and similar spells where the memories removed are concerned, though careful questioning may reveal the gaps in the creature’s memory, or that it has been affected by the spell. Note that the creature itself does not remember any details of what memories were removed until the gem is broken.",
     "name_zh": "隔绝思维",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、材料 (一颗价值至少500金币的宝石)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "一名自愿生物",
-    "duration_zh": "永久 或 释放 (见下)",
-    "text_zh": "<p>隔绝思维能让你抹除一位生物的记忆，可以是一个持续时间不超过1分钟/施法者等级的事件，所有关某一主题的所有知识(由GM决定到底怎样算是一个主题)。举个例子，你可以某除生物对某一场战斗的记忆，或对暗杀一位国王的阴谋的所有了解。妳所移除的记忆会保存在一颗妳施法时使用的宝石中。如果这枚宝石碎裂，只要生物与该枚宝石相距不超过30呎，该生物就会重获这部分的记忆。一旦施展了隔绝思维，此法术会在宝石上保持活跃，而且能被解除(这会让它碎掉)。目标生物身上不会有任何此魔法活跃的痕迹，而目标也不会辐散任何受本法术影响的魔力，对着目标解除魔法，或是受反魔法环境影响，也不会使记忆回归。如果宝石在该生物距离30呎外碎裂或被解除，那些被隔绝的思维会永远的消失，除非使用祈愿术、神蹟术或类似的方式。\n隔绝思维能在侦测思维、诚实之域、辨识谎言或类似的会注意到记忆被移除的法术中保护记忆，但是谨慎的发问有可能会揭露生物记忆中的断层，或了解到他被此法术所影响。请记住生物自身不会记得到底是什么记忆被移除的任何细节，直到宝石碎裂。<\/p>",
-    "source": "CS-PSFG"
+    "duration_zh": "永久 直至 耗散; 见文本",
+    "text_zh": "<p>隔绝思维能让你抹除一位生物的记忆，可以是一个持续时间不超过1分钟/施法者等级的事件，所有关某一主题的所有知识(由GM决定到底怎样算是一个主题)。举个例子，你可以某除生物对某一场战斗的记忆，或对暗杀一位国王的阴谋的所有了解。妳所移除的记忆会保存在一颗妳施法时使用的宝石中。如果这枚宝石碎裂，只要生物与该枚宝石相距不超过30呎，该生物就会重获这部分的记忆。一旦施展了隔绝思维，此法术会在宝石上保持活跃，而且能被解除(这会让它碎掉)。目标生物身上不会有任何此魔法活跃的痕迹，而目标也不会辐散任何受本法术影响的魔力，对着目标解除魔法，或是受反魔法环境影响，也不会使记忆回归。如果宝石在该生物距离30呎外碎裂或被解除，那些被隔绝的思维会永远的消失，除非使用祈愿术、神蹟术或类似的方式。<\/p><p>隔绝思维能在侦测思维、诚实之域、辨识谎言或类似的会注意到记忆被移除的法术中保护记忆，但是谨慎的发问有可能会揭露生物记忆中的断层，或了解到他被此法术所影响。请记住生物自身不会记得到底是什么记忆被移除的任何细节，直到宝石碎裂。<\/p>"
 }

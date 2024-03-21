@@ -1,8 +1,8 @@
 {
     "key": "rite of bodily purity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rite-of-bodily-purity/",
     "name": "Rite of Bodily Purity",
-    "book": "Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rite%20of%20Bodily%20Purity",
+    "source": ["Divine Anthology pg. 13"],
     "school": "abjuration",
     "descriptors": ["meditative"],
     "levels":     {
@@ -10,20 +10,20 @@
         "druid": 1,
         "paladin": 1,
         "ranger": 1,
-        "shaman": 1
+        "shaman": 1,
+        "warpriest": 1
     },
     "castingTime": "1 hour",
     "components": "V, M (soothing incense worth 100 gp)",
     "range": "personal",
     "target": "you",
     "duration": "24 hours or until discharged",
-    "text": "<p>You energize your body's immune system, improving your ability to resist toxins and ailments.<\/p><p>You gain a +2 resistance bonus on saving throws to resist diseases, drugs, and poisons.<\/p><p>Additionally, at any time during the spell's duration, whenever you fail a saving throw to resist a disease, drug, or poison, you can expend the spell's remaining duration as an immediate action in order to reroll that saving throw. You must take the second result, even if it's worse. The +2 resistance bonus granted by the spell applies to the reroll, but after you make this reroll, the spell ends.<\/p>",
+    "text": "You energize your body’s immune system, improving your ability to resist toxins and ailments. You gain a +2 resistance bonus on saving throws to resist diseases, drugs, and poisons. Additionally, at any time during the spell’s duration, whenever you fail a saving throw to resist a disease, drug, or poison, you can expend the spell’s remaining duration as an immediate action in order to reroll that saving throw. You must take the second result, even if it’s worse. The +2 resistance bonus granted by the spell applies to the reroll, but after you make this reroll, the spell ends.",
     "name_zh": "净躯仪典",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "语言，材料（价值100gp的舒缓香料）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "24小时或直到被释放",
-    "text_zh": "<p>你激活你身体中的免疫系统，提高你对毒素和疾病的抵抗能力。你在抵抗疾病，药物和毒药的豁免检定上获得+2抗力加值。此外，在法术持续时间内，无论何时当你没能通过一个抵抗疾病、药物或毒药的豁免检定，你都可以将法术的剩余持续时间以一个直觉动作来重骰豁免检定。你必须采纳第二个结果，即使它更糟。由法术赋予的+2抗力加值适用于重新投骰，但是在你完成该重骰后，法术就会结束。<\/p>",
-    "source": "PC-DA"
+    "duration_zh": "24小时, 或直到消解",
+    "text_zh": "<p>你激活你身体中的免疫系统，提高你对毒素和疾病的抵抗能力。你在抵抗疾病，药物和毒药的豁免检定上获得+2抗力加值。此外，在法术持续时间内，无论何时当你没能通过一个抵抗疾病、药物或毒药的豁免检定，你都可以将法术的剩余持续时间以一个直觉动作来重骰豁免检定。你必须采纳第二个结果，即使它更糟。由法术赋予的+2抗力加值适用于重新投骰，但是在你完成该重骰后，法术就会结束。<\/p>"
 }

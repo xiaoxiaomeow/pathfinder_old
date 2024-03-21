@@ -1,28 +1,33 @@
 {
     "key": "crafter's fortune",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/crafter-s-fortune/",
     "name": "Crafter's Fortune",
-    "book": ". © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Crafter's%20Fortune",
+    "source": ["Advanced Player's Guide pg. 213"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 1,
-        "sorcerer/wizard": 1
+        "arcanist": 1,
+        "investigator": 1,
+        "occultist": 1,
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a tool)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 day/level or until discharged (d)",
+    "target": "one creature",
+    "duration": "1 day/level or until discharged (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target is struck by inspiration and gains a +5 luck bonus on its next Craft skill check.<\/p>",
+    "text": "The target is struck by inspiration and gains a +5 luck bonus on its next Craft skill check.",
     "name_zh": "匠人祝福",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一把工具)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "1天/等级或消耗 (可解消)",
+    "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标在法术持续时间内的下一次工艺检定获得+5幸运加值。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>目标在法术持续时间内的下一次工艺检定获得+5幸运加值。<\/p>"
 }

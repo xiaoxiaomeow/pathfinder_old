@@ -1,13 +1,14 @@
 {
     "key": "thorn javelin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thorn-javelin/",
     "name": "Thorn Javelin",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thorn%20Javelin",
+    "source": ["Advanced Class Guide pg. 196"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["poison"],
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "ranger": 1,
         "shaman": 1
     },
@@ -15,18 +16,17 @@
     "components": "V, S",
     "range": "0 ft.",
     "effect": "javelin-like thorn",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A wooden thorn the size of a javelin (appropriate for your size) appears in your open hand. You can wield this thorn as a javelin, and you are proficient in its use. Any creature struck by the javelin must succeed at a Fortitude save or be sickened for 1 round. If you throw the javelin, another one appears in your hand. Any javelin that leaves your grasp disappears at the end of your turn. Each javelin attack you make reduces the spell's remaining duration by 1 minute. If an attack reduces the remaining duration to 0 minutes or less, the spell ends after that attack resolves.<\/p>",
+    "text": "A wooden thorn the size of a javelin (appropriate for your size) appears in your open hand. You can wield this thorn as a javelin, and you are proficient in its use. Any creature struck by the javelin must succeed at a Fortitude save or be sickened for 1 round. If you throw the javelin, another one appears in your hand. Any javelin that leaves your grasp disappears at the end of your turn. Each javelin attack you make reduces the spell’s remaining duration by 1 minute. If an attack reduces the remaining duration to 0 minutes or less, the spell ends after that attack resolves.",
     "name_zh": "荆刺标枪",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "0尺",
     "effect_zh": "标枪形状的荆刺",
-    "duration_zh": "1分钟/等级（可解消）",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>标枪大小的木荆（大小会适合你的体型）出现在你的手中。你能够如同持用标枪一般使用它，而且你被视为擅长这种武器。任何被标枪击打的生物都必须进行强韧豁免，失败则会恶心（sickened）1轮。若你将标枪投掷出去，另一根会出现在你的手中。任何离手的标枪都会在你的回合结束时消失。每根被你用于攻击的标枪都会让法术的持续时间降低1分钟。若以此攻击让法术的持续时间降至0分钟或更低，该法术便会在该次攻击判定结束后终止。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>标枪大小的木荆（大小会适合你的体型）出现在你的手中。你能够如同持用标枪一般使用它，而且你被视为擅长这种武器。任何被标枪击打的生物都必须进行强韧豁免，失败则会恶心（sickened）1轮。若你将标枪投掷出去，另一根会出现在你的手中。任何离手的标枪都会在你的回合结束时消失。每根被你用于攻击的标枪都会让法术的持续时间降低1分钟。若以此攻击让法术的持续时间降至0分钟或更低，该法术便会在该次攻击判定结束后终止。<\/p>"
 }

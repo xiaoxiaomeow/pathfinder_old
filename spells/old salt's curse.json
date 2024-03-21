@@ -1,12 +1,15 @@
 {
     "key": "old salt's curse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/old-salt-s-curse/",
     "name": "Old Salt's Curse",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Old%20Salt's%20Curse",
+    "source": ["Advanced Race Guide pg. 69"],
     "school": "necromancy",
     "descriptors": ["curse"],
+    "race": "human",
     "levels":     {
         "druid": 5,
+        "hunter": 5,
+        "mesmerist": 4,
         "witch": 5
     },
     "castingTime": "1 standard action",
@@ -16,7 +19,7 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though remove curse or break enchantment can negate it.<\/p>",
+    "text": "You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though <i>remove curse <\/i>or <i>break enchantment <\/i>can negate it.",
     "name_zh": "老水手的诅咒",
     "race_zh": "人类",
     "castingTime_zh": "标准动作",
@@ -26,6 +29,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你把一瓶受到诅咒的海水淋到目标身上，使其永远感到恶心。无论何时只要目标离开海岸超过1里并且在海面或者海里，他便会晕船。这个诅咒无法被‘解除魔法’解除，但是‘移除诅咒’和‘破除结界’可以祛除它。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>你把一瓶受到诅咒的海水淋到目标身上，使其永远感到恶心。无论何时只要目标离开海岸超过1里并且在海面或者海里，他便会晕船。这个诅咒无法被‘解除魔法’解除，但是‘移除诅咒’和‘破除结界’可以祛除它。<\/p>"
 }

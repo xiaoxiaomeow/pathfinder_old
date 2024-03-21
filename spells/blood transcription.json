@@ -1,15 +1,17 @@
 {
     "key": "blood transcription",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-transcription/",
     "name": "Blood Transcription",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Transcription",
+    "source": ["Ultimate Magic pg. 209"],
     "school": "divination",
     "descriptors": ["evil"],
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
+        "investigator": 2,
         "magus": 2,
-        "wizard": 2,
-        "witch": 2
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -17,7 +19,8 @@
     "target": "one dead spellcaster",
     "duration": "24 hours",
     "savingThrow": "none",
-    "text": "<p>By consuming 1 pint of blood from a spellcaster killed within the last 24 hours, you can attempt to learn a spell that spellcaster knew. Select one spell available to the dead spellcaster (this must be a spell on your spell list); you gain the knowledge of this spell for 24 hours. During this time, you may write it down (or teach it to your familiar, if you are a witch) using the normal rules for copying a spell from another source. Once you have learned it, you may prepare the spell normally.<\/p>",
+    "spellResistance": "no",
+    "text": "By consuming 1 pint of blood from a spellcaster killed within the last 24 hours, you can attempt to learn a spell that spellcaster knew. Select one spell available to the dead spellcaster (this must be a spell on your spell list); you gain the knowledge of this spell for 24 hours. During this time, you may write it down (or teach it to your familiar, if you are a witch) using the normal rules for copying a spell from another source. Once you have learned it, you may prepare the spell normally.",
     "name_zh": "血液解读",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -25,7 +28,6 @@
     "target_zh": "一个死亡的施法者",
     "duration_zh": "24小时",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "否",
-    "text_zh": "<p>法术抗力    否<\/p><p>通过消耗一品脱取自一个24小时之内被杀害的施法者的血液，你可以对其进行分析并习得一种他知道的法术。<\/p><p>选择一种死亡的施法者能够施放的法术 (必须是你的法术列表中的)；你会知道这种法术的知识，持续24小时。<\/p><p>在这段时间之内，你可以将其写下来 (或教授给魔宠，如果你是个女巫)，使用正常的法术誊抄规则。<\/p><p>一旦你习得了它，你可以正常准备学到的法术。<\/p>",
-    "source": "UM"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>通过消耗一品脱取自一个24小时之内被杀害的施法者的血液，你可以对其进行分析并习得一种他知道的法术。<\/p><p>选择一种死亡的施法者能够施放的法术 (必须是你的法术列表中的)；你会知道这种法术的知识，持续24小时。<\/p><p>在这段时间之内，你可以将其写下来 (或教授给魔宠，如果你是个女巫)，使用正常的法术誊抄规则。<\/p><p>一旦你习得了它，你可以正常准备学到的法术。<\/p>"
 }

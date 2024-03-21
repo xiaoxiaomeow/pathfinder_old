@@ -1,44 +1,38 @@
 {
     "key": "sirocco",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sirocco/",
     "name": "Sirocco",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sirocco",
+    "source": ["Advanced Player's Guide pg. 244"],
     "school": "evocation",
     "descriptors":     [
         "air",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "druid": 6,
+        "hunter": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
-    },
-    "subdomains": {"storms": 6},
-    "elementalSchools":     {
-        "air": 6,
-        "fire": 6
-    },
-    "mysteries":     {
-        "solar": 6,
-        "wind": 6
+        "occultist": 6,
+        "sorcerer": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (handful of fine sand cast into the air)",
     "range": "medium (100 ft. + 10 ft./level)",
     "area": "cylinder (20-ft. radius, 60 ft. high)",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Fortitude partial, see text",
     "spellResistance": "yes",
-    "text": "<p>A blast of furnace-hot wind blasts downward, inflicting 4d6 fire damage +1 point per caster level to all creatures in the area and knocking them prone. A successful Fortitude save halves the fire damage and negates being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Fly check, in which case they remain at their original altitude.<\/p><p>Any creature that takes damage from a <i>sirocco<\/i> becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure to a <i>sirocco<\/i> spell). Creatures with the water subtype take a -4 penalty on all saving throws against this spell and take double normal damage.<\/p>",
+    "text": "A blast of furnace-hot wind blasts downward, inflicting 4d6 fire damage +1 point per caster level to all creatures in the area and knocking them prone. A successful Fortitude save halves the fire damage and negates being knocked prone. Flying creatures forced into the ground by the powerful downdraft take damage as if they fell unless they make a DC 15 Fly check, in which case they remain at their original altitude. Any creature that takes damage from a sirocco becomes fatigued (or exhausted, if already fatigued, such as from a previous round of exposure to a <i>sirocco <\/i>spell). Creatures with the water subtype take a –4 penalty on all saving throws against this spell and take double normal damage.",
     "name_zh": "燃烧之风",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (将一把沙子撒入空气中)",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "圆柱形，20尺半径，60尺高",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "圆柱形, 20尺半径, 60尺高",
     "duration_zh": "1轮/等级 (可解消)",
-    "savingThrow_zh": "强韧，通过则部分生效；见下文",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一股滚烫的炽热气流向下爆发，对区域内的所有生物造成4d6加每施法者等级1点火焰伤害，并将他们击倒。成功的强韧检定可以减半伤害并免于被击倒。<\/p><p>飞行生物需要进行一个DC15的飞行检定，如果成功，它可以保留在原本的高度，否则会被强大的冲力压到地面上，并受到相应的摔落伤害。<\/p><p>任何被本法术伤害到的生物都会进入疲乏 (fatigued) 状态 (如果原本就是疲乏状态，那么进入力竭 (exhausted) 状态，例如前一轮被另一次本法术伤害过)。<\/p><p>水生亚种的生物对本法术的豁免检定有-4罚值，并且受到双倍正常伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>一股滚烫的炽热气流向下爆发，对区域内的所有生物造成4d6加每施法者等级1点火焰伤害，并将他们击倒。成功的强韧检定可以减半伤害并免于被击倒。<\/p><p>飞行生物需要进行一个DC15的飞行检定，如果成功，它可以保留在原本的高度，否则会被强大的冲力压到地面上，并受到相应的摔落伤害。<\/p><p>任何被本法术伤害到的生物都会进入疲乏 (fatigued) 状态 (如果原本就是疲乏状态，那么进入力竭 (exhausted) 状态，例如前一轮被另一次本法术伤害过)。<\/p><p>水生亚种的生物对本法术的豁免检定有-4罚值，并且受到双倍正常伤害。<\/p>"
 }

@@ -1,14 +1,24 @@
 {
     "key": "giant form ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/giant-form-i/",
     "name": "Giant Form II",
-    "base": "giant form i",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Giant%20Form%20II",
+    "source": ["PRPG Core Rulebook pg. 289"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
-    "levels": {"sorcerer/wizard": 8},
-    "bloodlines": {"efreeti": 8},
-    "text": "<p>This spell functions as <i>giant form I<\/i> except that it also allows you to assume the form of any Huge creature of the giant subtype (<i>cloud giant and storm giant are the only core Huge creatures with giant subtype<\/i>). You gain the following abilities:<\/p><ul><li>+8 size bonus to Strength<\/li><li>-2 penalty to Dexterity<\/li><li>+6 size bonus to Constitution<\/li><li>+6 natural armor bonus<\/li><li>low-light vision<\/li><li>+10 foot enhancement bonus to your speed<\/li><\/ul><p>If the form you assume has any of the following abilities, you gain the listed ability:<\/p><ul><li>Swim 60 feet<\/li><li>darkvision 60 feet<\/li><li>rend (2d8 damage)<\/li><li>regeneration 5<\/li><li>rock catching<\/li><li>rock throwing (range 120 feet, 2d10 damage)<\/li><\/ul><p>If the creature has immunity or resistance to one element, you gain that immunity or resistance.<\/p><p>If the creature has vulnerability to an element, you gain that vulnerability.<\/p><\/div>",
+    "subSchools": ["polymorph"],
+    "levels":     {
+        "arcanist": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (D)",
+    "text": "This spell functions as <i>giant form I<\/i> except that it also allows you to assume the form of any Huge creature of the giant type. You gain the following abilities: a +8 size bonus to Strength, a –2 penalty to Dexterity, a +6 size bonus to Constitution, a +6 natural armor bonus, low-light vision, and a +10 foot enhancement bonus to your speed. If the form you assume has any of the following abilities, you gain the listed ability: swim 60 feet, darkvision 60 feet, rend (2d8 damage), regeneration 5, rock catching, and rock throwing (range 120 feet, 2d10 damage). If the creature has immunity or resistance to one element, you gain that immunity or resistance. If the creature has vulnerability to an element, you gain that vulnerability.",
     "name_zh": "巨人形态 II",
-    "text_zh": "<p>该法术的功能如同‘巨人形态I’一般，不过它还允许你变为任何超大型生物中巨人亚种的生物形态。你获得下述能力：力量获得+8体型加值，敏捷受到-2减值，体质获得+6体型加值以及+6天生护甲加值，昏暗视觉，你的速度获得+10尺增强加值。如果该形态的生物拥有下述的能力，那么你也会获得：60尺游泳速度，60尺黑暗视觉，“撕扯 (2d8伤害)”，再生5, “接石”以及投石攻击 (射程120尺, 2d10伤害)。如果该类生物对一类元素免疫或者具有抗力，那么你也获得免疫或者抗力。如果该生物对一种元素脆弱，那么你也获得该弱点。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>该法术的功能如同‘巨人形态I’一般，不过它还允许你变为任何超大型生物中巨人亚种的生物形态。你获得下述能力：力量获得+8体型加值，敏捷受到-2减值，体质获得+6体型加值以及+6天生护甲加值，昏暗视觉，你的速度获得+10尺增强加值。如果该形态的生物拥有下述的能力，那么你也会获得：60尺游泳速度，60尺黑暗视觉，“撕扯 (2d8伤害)”，再生5, “接石”以及投石攻击 (射程120尺, 2d10伤害)。如果该类生物对一类元素免疫或者具有抗力，那么你也获得免疫或者抗力。如果该生物对一种元素脆弱，那么你也获得该弱点。<\/p>"
 }

@@ -1,19 +1,31 @@
 {
     "key": "feather step, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/feather-step/",
     "name": "Feather Step, Mass",
-    "base": "feather step",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Feather%20Step,%20Mass",
+    "source": ["Advanced Player's Guide pg. 221"],
     "school": "transmutation",
     "levels":     {
         "bard": 3,
         "druid": 3,
+        "hunter": 3,
         "psychic": 3,
-        "ranger": 3
+        "ranger": 3,
+        "skald": 3
     },
-    "text": "<p>As <i>feather step<\/i>, except this spell affects multiple creatures.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "10 minutes/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes",
+    "text": "As <i>feather step<\/i>, except this spell affects multiple creatures.",
     "name_zh": "群体轻羽步",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个生物，任意两者之间不得超过30尺",
-    "text_zh": "<p>如同轻羽步，不过该法术影响多名生物。<\/p>",
-    "source": "APG"
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>如同轻羽步，不过该法术影响多名生物。<\/p>"
 }

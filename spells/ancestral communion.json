@@ -1,26 +1,28 @@
 {
     "key": "ancestral communion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ancestral-communion/",
     "name": "Ancestral Communion",
-    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ancestral%20Communion",
+    "source": ["Dwarves of Golarion pg. 24"],
     "school": "divination",
     "levels":     {
         "bard": 2,
-        "cleric/oracle": 2
+        "cleric": 2,
+        "oracle": 2,
+        "skald": 2,
+        "warpriest": 2
     },
     "castingTime": "1 minute",
     "components": "V, S, F/DF (stone or metal image of your ancestor)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You contact the spirits of your ancestors and use their great wisdom to bolster your own knowledge. Consulting with the spirits is a full-round action. If you consult with the spirits before making a Knowledge check, you gain a +4 insight bonus on the check. If you have already failed at a Knowledge check, you may consult with your ancestors and make another attempt. The insight bonus on these checks increases to +6 at caster level 7th and +8 at caster level 11th. You may consult with the spirits for this purpose as often as you like while the spell remains in effect. Only you can hear the spirits speak to you.<\/p>",
+    "duration": "1 minute/level",
+    "text": "You contact the spirits of your ancestors and use their great wisdom to bolster your own knowledge. Consulting with the spirits is a full-round action. If you consult with the spirits before making a Knowledge check, you gain a +4 insight bonus on the check. If you have already failed at a Knowledge check, you may consult with your ancestors and make another attempt. The insight bonus on these checks increases to +6 at caster level 7th and +8 at caster level 11th. You may consult with the spirits for this purpose as often as you like while the spell remains in effect. Only you can hear the spirits speak to you.",
     "name_zh": "先祖的护佑",
     "race_zh": "矮人",
     "castingTime_zh": "1分钟",
     "components_zh": "语言，姿势，器材/法器（你的祖先的石质或金属刻像）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你联系你祖先的精魂，用他们的大智慧巩固你的知识。与精魂沟通是一个整轮动作。如果你在进行知识检定之前沟通精魂，那么你在检定中获得+4洞察加值。如果你已在知识检定中失败，那么你可以咨询你的先祖，并可以再做一次尝试。检定中的洞察加值在施法者等级6时变成+6，在11级时变成+8。你可以在法术效果持续时间内随意沟通精魂以咨询信息。只有你本人能听到精魂说话的声音。<\/p>",
-    "source": "PC-DoG"
+    "text_zh": "<p>你联系你祖先的精魂，用他们的大智慧巩固你的知识。与精魂沟通是一个整轮动作。如果你在进行知识检定之前沟通精魂，那么你在检定中获得+4洞察加值。如果你已在知识检定中失败，那么你可以咨询你的先祖，并可以再做一次尝试。检定中的洞察加值在施法者等级6时变成+6，在11级时变成+8。你可以在法术效果持续时间内随意沟通精魂以咨询信息。只有你本人能听到精魂说话的声音。<\/p>"
 }

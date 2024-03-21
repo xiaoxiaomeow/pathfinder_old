@@ -1,30 +1,32 @@
 {
     "key": "silt sphere",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/silt-sphere/",
     "name": "Silt Sphere",
-    "book": "Pathfinder Player Companion: Blood of the Sea © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Silt%20Sphere",
+    "source": ["Blood of the Sea pg. 21"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
-        "sorcerer/wizard": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a smooth stone)",
     "range": "20 ft.",
-    "effect": "20-ft.-radius sphere centered on you",
-    "duration": "1 min./level (d)",
+    "effect": "20-ft.-radius centered on you",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell generates an illusory silt cloud that drifts around you and moves with you. The cloud provides total concealment to creatures within it (including you) when the spell is cast.<\/p><p>Creatures moving into the cloud after the spell is cast gain concealment (but not total concealment) due to the illusion. Any creatures within the cloud can see each other normally and can see out from within the cloud as though it were transparent. If a creature other than you that has total concealment due to the cloud makes an attack against any foe, it loses total concealment and gains concealment instead. If you make an attack against any creature, the spell ends.<\/p><p>A creature that examines the cloud from the outside and succeeds at a DC 20 Knowledge (nature) check notices the silt cloud is unnaturally compact and fast moving, and that creature can attempt an immediate saving throw to disbelieve the illusion. Other circumstances (such as if the silt cloud floats in the middle of otherwise clear waters) can modify the DC of the Knowledge (nature) check.<\/p><p>This spell can be cast only underwater.<\/p>",
+    "text": "This spell generates an illusory silt cloud that drifts around you and moves with you. The cloud provides total concealment to creatures within it (including you) when the spell is cast. Creatures moving into the cloud after the spell is cast gain concealment (but not total concealment) due to the illusion. Any creatures within the cloud can see each other normally and can see out from within the cloud as though it were transparent. If a creature other than you that has total concealment due to the cloud makes an attack against any foe, it loses total concealment and gains concealment instead. If you make an attack against any creature, the spell ends.<br><br> A creature that examines the cloud from the outside and succeeds at a DC 20 Knowledge (nature) check notices the silt cloud is unnaturally compact and fast moving, and that creature can attempt an immediate saving throw to disbelieve the illusion. Other circumstances (such as if the silt cloud floats in the middle of otherwise clear waters) can modify the DC of the Knowledge (nature) check.<br><br> This spell can be cast only underwater.",
     "name_zh": "淤泥法球",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一颗光滑的石头）",
     "range_zh": "20尺",
     "effect_zh": "以你为中心的20呎半径的球体",
-    "duration_zh": "1分钟/等级（D）",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这种法术会产生一团虚幻的淤泥之云，飘荡在你的周围，并随你一起移动。当法术被施放的时候，泥巴云会为其中的生物（包括你）提供全隐蔽。在法术被施展之后进入云里的生物会由于幻象而获得隐蔽（但不是全隐蔽）。云里的任何生物都能正常地看到彼此，并能从云里往外看，如同云雾是透明的。如果一个生物，除了你之外，因为云而获得全隐蔽，并对任何敌人发起一次攻击，他就会失去全隐蔽，获得隐蔽。如果你对任何生物发起一次攻击，法术就会结束。\n一个从外部检观察云雾的生物若成功通过DC20的知识（自然）检定，就能注意到淤泥云的紧凑和快速移动十分不自然，而这种生物可以尝试一次直觉豁免检定来看穿幻觉。其他情况（例如，如果淤泥云漂浮在其他清澈的水域中）可以修改知识（自然）检定的DC。\n这个法术只能在水下施展。<\/p>",
-    "source": "PC-BotS"
+    "text_zh": "<p>这种法术会产生一团虚幻的淤泥之云，飘荡在你的周围，并随你一起移动。当法术被施放的时候，泥巴云会为其中的生物（包括你）提供全隐蔽。在法术被施展之后进入云里的生物会由于幻象而获得隐蔽（但不是全隐蔽）。云里的任何生物都能正常地看到彼此，并能从云里往外看，如同云雾是透明的。如果一个生物，除了你之外，因为云而获得全隐蔽，并对任何敌人发起一次攻击，他就会失去全隐蔽，获得隐蔽。如果你对任何生物发起一次攻击，法术就会结束。<\/p><p>一个从外部检观察云雾的生物若成功通过DC20的知识（自然）检定，就能注意到淤泥云的紧凑和快速移动十分不自然，而这种生物可以尝试一次直觉豁免检定来看穿幻觉。其他情况（例如，如果淤泥云漂浮在其他清澈的水域中）可以修改知识（自然）检定的DC。<\/p><p>这个法术只能在水下施展。<\/p>"
 }

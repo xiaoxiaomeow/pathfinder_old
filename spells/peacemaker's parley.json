@@ -1,17 +1,21 @@
 {
     "key": "peacemaker's parley",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/peacemaker-s-parley/",
     "name": "Peacemaker's Parley",
-    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Peacemaker's%20Parley",
+    "source": ["Dwarves of Golarion pg. 23"],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors":     [
         "language-dependent",
-        "mind- affecting"
+        "mind-affecting"
     ],
-    "descriptorOperator": "and",
-    "religion": "Grundinnar",
-    "levels": {"cleric/oracle": 2},
+    "descriptorsOperator": ",",
+    "race": "Grundinnar",
+    "levels":     {
+        "cleric": 2,
+        "oracle": 2,
+        "warpriest": 2
+    },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -19,16 +23,15 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You can attempt to influence unfriendly or hostile creatures, altering their attitudes toward you. After casting, make a Diplomacy check against the creatures as a free action; you gain a +2 sacred bonus on this check against creatures that failed their saves against the spell. Even if you favorably manipulate the attitude of the affected targets, they quickly revert to their previous attitude if threatened or treated poorly.<\/p>",
+    "text": "You can attempt to influence unfriendly or hostile creatures, altering their attitudes toward you. After casting, make a Diplomacy check against the creatures as a free action; you gain a +2 sacred bonus on this check against creatures that failed their saves against the spell. Even if you favorably manipulate the attitude of the affected targets, they quickly revert to their previous attitude if threatened or treated poorly.",
     "name_zh": "和平谈判",
     "race_zh": "奎因迪勒",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "20呎半径扩散中的生物",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺扩散区域内的生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你可以尝试影响不友好或敌对的生物，改变他们对你的态度。在施法之后，以一个自由行动对这些生物进行一次交涉检定；你在对豁免失败的生物进行检定时获得+2的神圣加值。即便你可以亲切地操纵这些受影响目标的态度，但如果受到威胁或处理不当的话，他们也会迅速恢复到原来的态度。<\/p>",
-    "source": "PC-DoG"
+    "text_zh": "<p>你可以尝试影响不友好或敌对的生物，改变他们对你的态度。在施法之后，以一个自由行动对这些生物进行一次交涉检定；你在对豁免失败的生物进行检定时获得+2的神圣加值。即便你可以亲切地操纵这些受影响目标的态度，但如果受到威胁或处理不当的话，他们也会迅速恢复到原来的态度。<\/p>"
 }

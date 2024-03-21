@@ -1,18 +1,23 @@
 {
     "key": "vile dog transformation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vile-dog-transformation/",
     "name": "Vile Dog Transformation",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vile%20Dog%20Transformation",
+    "source": ["Horror Adventures pg. 130"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "descriptors": ["evil"],
     "levels":     {
         "antipaladin": 3,
+        "arcanist": 5,
         "cleric": 5,
         "druid": 5,
+        "hunter": 5,
+        "oracle": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "sorcerer": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (a strip of leather)",
@@ -21,15 +26,14 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "no",
-    "text": "<p>You transform one or more dogs into evil, monstrous creatures.<\/p><p>Each dog can attempt a Will save to negate the transformation, but if the dog trusts you (it has been trained by you for a purpose, or has been in your care for at least 30 days and generally treated well), it takes a –4 penalty on this saving throw. Each transformed dog has the same stats as a hell hound except that it doesn't have fire immunity and cold vulnerability and instead has acid, cold, and fire resistance 5. Additionally, each transformed dog deals an extra 1d6 points of acid damage with its bite attack (instead of fire damage), and its breath weapon is replaced with a vaporous cloud that spreads out in front of the creature in a 10-foot cone, dealing 2d4 points of acid damage. The creature can't understand Infernal but understands any languages you know. The dog is normally neutral evil, but is chaotic evil if you are chaotic or lawful evil if you are lawful.<\/p><p>For every 3 caster levels you have, you can transform one dog (to a maximum of five dogs at 15th level). At the end of the spell's duration, the dogs immediately dissolve into a stinking pile of gore and bones.<\/p><p>You can command the creature in the same way you would a creature you summoned via a summon monster spell. If you buy dogs to use with this spell, they cost 15 gp for a lap dog, 25 gp for a guard dog, or 150 gp for a riding dog. Any kind of dog can be transformed by this spell and has the same statistics.<\/p>",
+    "text": "You transform one or more dogs into evil, monstrous creatures. Each dog can attempt a Will save to negate the transformation, but if the dog trusts you (it has been trained by you for a purpose, or has been in your care for at least 30 days and generally treated well), it takes a –4 penalty on this saving throw. Each transformed dog has the same stats as a hell hound (<i>Bestiary 173<\/i>) except that it doesn’t have fire immunity and cold vulnerability and instead has acid, cold, and fire resistance 5. Additionally, each transformed dog deals an extra 1d6 points of acid damage with its bite attack (instead of fire damage), and its breath weapon is replaced with a vaporous cloud that spreads out in front of the creature in a 10-foot cone, dealing 2d4 points of acid damage. The creature can’t understand Infernal but understands any languages you know. The dog is normally neutral evil, but is chaotic evil if you are chaotic or lawful evil if you are lawful.<br><br> For every 3 caster levels you have, you can transform one dog (to a maximum of five dogs at 15th level). At the end of the spell’s duration, the dogs immediately dissolve into a stinking pile of gore and bones.<br><br> You can command the creature in the same way you would a creature you summoned via a summon monster spell. If you buy dogs to use with this spell, they cost 15 gp for a lap dog, 25 gp for a guard dog, or 150 gp for a riding dog (<i>Pathfinder RPG Ultimate Equipment 82<\/i>). Any kind of dog can be transformed by this spell and has the same statistics.",
     "name_zh": "恶犬转化术",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、材料 (一条皮革条)",
     "range_zh": "接触",
     "target_zh": "一只或更多只触碰到的狗",
     "duration_zh": "1小时/等级",
-    "savingThrow_zh": "意志，通过则无效 (见下)",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你将一只或一只以上的狗转变成邪恶的怪物。每只狗可以尝试一次意志豁免，使这次转化无效，但如果狗信任你(他是因为这个目的被你所训练出来的，或是你已经照料他至少30天，并且普遍来说你对他还不错)，他会在这次豁免检定上承受-4的减值。每只被转化的狗都有着与地狱犬(hell hound，怪物图鉴 P.173)相同的数据，除了这些狗没有火焰免疫与寒冷易伤，有的是对酸、冷、火的5点抗力。此外，每只被转化的狗在噬咬攻击上额外造成1d6点酸液伤害(取代火焰伤害)，并且喷吐武器内容被气云所替换，气云会在该生物的前方以10尺锥状扩散，造成2d4点酸液伤害。该生物不了解炼狱语(Infernal)，但他了解任何你知道的语言。这狗通常是中立邪恶，但如果你是混乱，则狗是混乱邪恶；如果你是守序，则狗是守序邪恶。\n你每有3个施法者等级，你可以转化一条狗(最多15等时转化5条狗)。此法术持续时间结束时，被转化的狗立刻融解成一摊恶臭的血液与骨骸。\n你可以用与召唤怪物(summon monster)法术召唤出的生物相同的方式来命令这些被转化的狗。如果你把法术用在买来的狗上，那么一只宠物犬(lap dog)15gp、一只警卫犬(guard dog)25gp，而一只骑乘用犬(riding dog)150gp(见极限宝具 P.82)。任何种类的狗都可以被此法术转化，并且数据相同。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你将一只或一只以上的狗转变成邪恶的怪物。每只狗可以尝试一次意志豁免，使这次转化无效，但如果狗信任你(他是因为这个目的被你所训练出来的，或是你已经照料他至少30天，并且普遍来说你对他还不错)，他会在这次豁免检定上承受-4的减值。每只被转化的狗都有着与地狱犬(hell hound，怪物图鉴 P.173)相同的数据，除了这些狗没有火焰免疫与寒冷易伤，有的是对酸、冷、火的5点抗力。此外，每只被转化的狗在噬咬攻击上额外造成1d6点酸液伤害(取代火焰伤害)，并且喷吐武器内容被气云所替换，气云会在该生物的前方以10尺锥状扩散，造成2d4点酸液伤害。该生物不了解炼狱语(Infernal)，但他了解任何你知道的语言。这狗通常是中立邪恶，但如果你是混乱，则狗是混乱邪恶；如果你是守序，则狗是守序邪恶。<\/p><p>你每有3个施法者等级，你可以转化一条狗(最多15等时转化5条狗)。此法术持续时间结束时，被转化的狗立刻融解成一摊恶臭的血液与骨骸。<\/p><p>你可以用与召唤怪物(summon monster)法术召唤出的生物相同的方式来命令这些被转化的狗。如果你把法术用在买来的狗上，那么一只宠物犬(lap dog)15gp、一只警卫犬(guard dog)25gp，而一只骑乘用犬(riding dog)150gp(见极限宝具 P.82)。任何种类的狗都可以被此法术转化，并且数据相同。<\/p>"
 }

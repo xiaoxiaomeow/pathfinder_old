@@ -1,8 +1,8 @@
 {
     "key": "litany of warding",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-warding/",
     "name": "Litany of Warding",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Warding",
+    "source": ["Ultimate Combat pg. 235"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 2,
@@ -14,13 +14,12 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round",
-    "text": "<p>With this litany, you become more aware of your opponents. You can make two additional attacks of opportunity this round. Furthermore, you gain a +2 sacred bonus to AC against attacks of opportunity. While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "text": "With this litany, you become more aware of your opponents. You can make two additional attacks of opportunity this round. Furthermore, you gain a +2 sacred bonus to AC against attacks of opportunity. <br><br>While subject to this spell, the target cannot be the target of another spell that has the word \"litany\" in the title.",
     "name_zh": "戒卫祷言",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
-    "text_zh": "<p>持续时间    1轮<\/p><p>随着祷言，你变得更加善于抓住机会。<\/p><p>你本轮可以进行两次额外的藉机攻击。此外，你在对抗藉机攻击时，AC获得+2神圣加值。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1轮<\/p><p>随着祷言，你变得更加善于抓住机会。<\/p><p>你本轮可以进行两次额外的藉机攻击。此外，你在对抗藉机攻击时，AC获得+2神圣加值。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>"
 }

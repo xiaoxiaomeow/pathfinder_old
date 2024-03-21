@@ -1,14 +1,17 @@
 {
     "key": "spit venom",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spit-venom/",
     "name": "Spit Venom",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spit%20Venom",
+    "source": ["Ultimate Magic pg. 240"],
     "school": "transmutation",
     "descriptors": ["poison"],
     "levels":     {
-        "cleric/oracle": 4,
+        "cleric": 4,
         "druid": 3,
+        "hunter": 3,
+        "oracle": 4,
         "shaman": 4,
+        "warpriest": 4,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -18,15 +21,14 @@
     "duration": "instantaneous; see text",
     "savingThrow": "Fortitude partial",
     "spellResistance": "no",
-    "text": "<p>You spit a stream of venom at a target using a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by black adder venom; the DC in successive rounds of the poison is equal to the spell's DC.<\/p>",
+    "text": "You spit a stream of venom at a target using a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by black adder venom; the DC in successive rounds of the poison is equal to the spell’s DC.",
     "name_zh": "毒液喷吐",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一股毒液蒸汽",
-    "duration_zh": "立即；见下文",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "duration_zh": "立即; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>以一个远程接触攻击，你对目标喷出了一股毒液蒸汽。<\/p><p>如果毒液命中，它会导致目标失明一轮。<\/p><p>目标必须通过强韧检定否则就会中黑奎蛇毒 (black adder venom)；毒药的后续豁免DC也等于法术DC。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>以一个远程接触攻击，你对目标喷出了一股毒液蒸汽。<\/p><p>如果毒液命中，它会导致目标失明一轮。<\/p><p>目标必须通过强韧检定否则就会中黑奎蛇毒 (black adder venom)；毒药的后续豁免DC也等于法术DC。<\/p>"
 }

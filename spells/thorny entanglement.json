@@ -1,25 +1,29 @@
 {
     "key": "thorny entanglement",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thorny-entanglement/",
     "name": "Thorny Entanglement",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thorny%20Entanglement",
+    "source": ["Advanced Class Guide pg. 196"],
     "school": "transmutation",
     "levels":     {
         "druid": 3,
+        "hunter": 3,
         "ranger": 3,
         "shaman": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
-    "savingThrow": "Reflex partial (see text)",
-    "spellResistance": "no",
-    "text": "<p>This spell functions as entangle, except the plants also grow thorns and can fling them up to 15 feet. Any creature that moves within 15 feet of the spell's area is attacked once on its turn by the animated plants. The plants use your caster level as their base attack bonus and add your spellcasting ability score modifier (Intelligence for witches; Wisdom for druids, rangers, and shamans) to the attack roll. A volley of thorns counts as a thrown weapon and deals 2d6 points of piercing damage on a successful hit. A creature that enters the spell's area or ends its turn there automatically takes 2d6 points of piercing damage.<\/p>",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "plants in a 40-ft.-radius spread",
+    "duration": "1 min./level (D)",
+    "text": "This spell functions as <i>entangle<\/i>, except the plants also grow thorns and can fling them up to 15 feet. Any creature that moves within 15 feet of the spell’s area is attacked once on its turn by the animated plants. The plants use your caster level as their base attack bonus and add your spellcasting ability score modifier (Intelligence for witches; Wisdom for druids, rangers, and shamans) to the attack roll. A volley of thorns counts as a thrown weapon and deals 2d6 points of piercing damage on a successful hit. A creature that enters the spell’s area or ends its turn there automatically takes 2d6 points of piercing damage.",
     "name_zh": "飞刺纠缠术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "半径40尺扩散区域内的植物",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "反射，通过则部分生效（见后文）",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术的功能如同纠缠术（Entangle）一般，不过这些植物还会长出可以发射至最多15尺远的荆刺。任何进入距离法术区域15尺范围内的生物，都会在它的回合内被活化植物攻击一次。这些植物使用你的施法者等级作为它们的基本攻击加值，并且将你的施法关键属性调整值（对于女巫是智力，对于德鲁伊、游侠和萨满来说是感知）加到攻击检定上。发射出的荆刺被视为投掷武器，并且在成功命中时造成2d6点穿刺伤害。进入区域或者在回合结束时处于区域内的生物则会自动受到2d6点穿刺伤害。<\/p>",
-    "source": "ACG"
+    "spellResistance_zh": "否",
+    "text_zh": "<p>该法术的功能如同纠缠术（Entangle）一般，不过这些植物还会长出可以发射至最多15尺远的荆刺。任何进入距离法术区域15尺范围内的生物，都会在它的回合内被活化植物攻击一次。这些植物使用你的施法者等级作为它们的基本攻击加值，并且将你的施法关键属性调整值（对于女巫是智力，对于德鲁伊、游侠和萨满来说是感知）加到攻击检定上。发射出的荆刺被视为投掷武器，并且在成功命中时造成2d6点穿刺伤害。进入区域或者在回合结束时处于区域内的生物则会自动受到2d6点穿刺伤害。<\/p>"
 }

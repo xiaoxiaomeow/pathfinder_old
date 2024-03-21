@@ -1,30 +1,29 @@
 {
     "key": "animate plants",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animate-plants/",
     "name": "Animate Plants",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Animate%20Plants",
+    "source": ["PRPG Core Rulebook pg. 242"],
     "school": "transmutation",
     "levels":     {
         "druid": 7,
         "shaman": 7
     },
-    "domains": {"plant": 7},
     "castingTime": "1 standard action",
     "components": "V",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "1 round/level or 1 hour/level; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You imbue inanimate plants with mobility and a semblance of life. Each animated plant then immediately attacks whomever or whatever you initially designate as though it were an animated object of the appropriate size category. You may animate one Large or smaller plant, or a number of larger plants as follows: a Huge plant counts as two Large or smaller plants, a Gargantuan plant as four, and a Colossal plant as eight. You can change the designated target or targets as a move action, as if directing an active spell.<\/p><p>Use the statistics for animated objects, except that plants smaller than Large don't have hardness.<\/p><p><i>Animate plants<\/i> cannot affect plant creatures, nor does it affect nonliving vegetable material.<\/p><p style=\"margin-left:40px\"><i>Entangle<\/i>: Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an entangle spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.<\/p>",
-    "mythicText": "Animated plants you create with this spell get the maximum number of hit points per level, gain a +4 bonus to their Strength ability scores, and have 1–1/2 times the normal number of construction points. ",
+    "text": "You imbue inanimate plants with mobility and a semblance of life. Each animated plant then immediately attacks whomever or whatever you initially designate as though it were an animated object of the appropriate size category. You may animate one Large or smaller plant, or a number of larger plants as follows: a Huge plant counts as two Large or smaller plants, a Gargantuan plant as four, and a Colossal plant as eight. You can change the designated target or targets as a move action, as if directing an active spell.<br><br>Use the statistics for animated objects, except that plants smaller than Large don't have hardness.<br><br><i>Animate plants<\/i> cannot affect plant creatures, nor does it affect nonliving vegetable material.<br><br><i>Entangle<\/i>: Alternatively, you may imbue all plants within range with a degree of mobility, which allows them to entwine around creatures in the area. This usage of the spell duplicates the effect of an <i>entangle<\/i> spell. Spell resistance does not keep creatures from being entangled. This effect lasts 1 hour per caster level.<h2 class=\"title\">Mythic Animate Plants<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 84<\/i><br>Animated plants  you create with this spell get the maximum number of hit points per level, gain a +4 bonus to their Strength ability scores, and have 1–1/2 times the normal number of construction points.",
+    "mythicSource": ["Mythic Adventures pg. 84"],
+    "mythicText": "Animated plants  you create with this spell get the maximum number of hit points per level, gain a +4 bonus to their Strength ability scores, and have 1–1/2 times the normal number of construction points.",
     "name_zh": "活化植物",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每三个CL一个大型植物 或 范围内的所有植物; 见后文",
-    "duration_zh": "1轮/等级 或 1小时/等级; 见后文",
+    "duration_zh": "1轮/等级 或 1小时/等级; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你给一件没有活力的植物赋予了活动的能力和生命的表征。每个被活化的植物都会立刻攻击你之前指定的任何人或任何东西，就好像它是相应大小的活化物体一般。你每具有三个CL就可以活化一个大型或更小的植物，或者相当于该数量的较大植物。一个超大型植物算作两个大型或更小的植物，巨型植物算四个，超巨型算八个。你可以以一个移动动作来改变指定的目标或多个目标，如同引导已启动法术一样。<\/p><p>活化植物使用活化物体的数据，只是比大型小的植物通常没有硬度。<\/p><p>活化植物对植物类生物无效，对无生命的植物材料也无效<\/p><p><b>纠缠 (Entangle)<\/b>: 作为一种选择，你可以给法术距离内所有植物都赋予一定量的活动力，让它们能缠住区域内的生物。法术的这种用法效果与‘<a href=\"spell.html?spell=entangle\">纠缠术 (entangle)<\/a>’相同。生物的法术抗力无法让它不被纠缠。这种效果持续时间为每CL 1小时。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你给一件没有活力的植物赋予了活动的能力和生命的表征。每个被活化的植物都会立刻攻击你之前指定的任何人或任何东西，就好像它是相应大小的活化物体一般。你每具有三个CL就可以活化一个大型或更小的植物，或者相当于该数量的较大植物。一个超大型植物算作两个大型或更小的植物，巨型植物算四个，超巨型算八个。你可以以一个移动动作来改变指定的目标或多个目标，如同引导已启动法术一样。<\/p><p>活化植物使用活化物体的数据，只是比大型小的植物通常没有硬度。<\/p><p>活化植物对植物类生物无效，对无生命的植物材料也无效<\/p><p>纠缠 (Entangle): 作为一种选择，你可以给法术距离内所有植物都赋予一定量的活动力，让它们能缠住区域内的生物。法术的这种用法效果与‘<a href=\"spell.html?spell=entangle\">纠缠术 (entangle)<\/a>’相同。生物的法术抗力无法让它不被纠缠。这种效果持续时间为每CL 1小时。<\/p>"
 }

@@ -1,20 +1,30 @@
 {
     "key": "fey form iii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fey-form/",
     "name": "Fey Form III",
-    "base": "fey form",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Form%20III",
+    "source": ["Ultimate Wilderness pg. 230"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
+        "arcanist": 7,
         "druid": 6,
+        "hunter": 6,
+        "investigator": 6,
         "shaman": 6,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "text": "<p>This spell functions as <em>fey form II<\/em> except it allows you to assume the form of a Diminutive or Huge creature of the fey type. If the form you assume has any of the following abilities, you gain those abilities: burrow speed 60 feet, climb speed 90 feet, fly speed 90 feet (good maneuverability), swim speed 90 feet, all-around vision, blindsense 60 feet, blindsight 30 feet, darkvision 90 feet, low-light vision, scent, see in darkness, tremorsense 60 feet, abduct, animated hair, bleed, blood rage, boot stomp, burn, compression, constrict, crushing leap, DR 5/cold iron, fear aura, frightful presence, grab, heavy weapons, icewalking, kneecapper, luminous, nasal spray, no shadow, oversized weapons, poison, putrid vomit, rend, rock throwing (100 feet, 2d6 damage), sound mimicry, supernatural speed, tear shadow, trackless step, trample, tree meld, undersized weapons, and woodland stride. If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has immunity to mind-affecting effects or poison, you gain a +8 resistance bonus on saves against those effects. If the creature has any weaknesses, you gain those weaknesses.<\/p><p style=\"padding-left: 30px\"><b>Diminutive Fey<\/b>: If you assume this form, you gain a +8 size bonus to your Dexterity score and take a –4 penalty to your Strength score.<\/p><p style=\"padding-left: 30px\"><b>Huge Fey<\/b>: If you assume this form, you gain a +6 size bonus to your Strength and Constitution scores and take a –4 penalty to your Dexterity score.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "This spell functions as <i>fey form II<\/i> except it allows you to assume the form of a Diminutive or Huge creature of the fey type. If the form you assume has any of the following abilities, you gain those abilities: burrow speed 60 feet, climb speed 90 feet, fly speed 90 feet (good maneuverability), swim speed 90 feet, all-around vision, blindsense 60 feet, blindsight 30 feet, darkvision 90 feet, low-light vision, scent, see in darkness, tremorsense 60 feet, abduct, animated hair, bleed, blood rage, boot stomp, burn, compression, constrict, crushing leap, DR 5/cold iron, fear aura, frightful presence, grab, heavy weapons, icewalking, kneecapper, luminous, nasal spray, no shadow, oversized weapons, poison, putrid vomit, rend, rock throwing (100 feet, 2d6 damage), sound mimicry, supernatural speed, tear shadow, trackless step, trample, tree meld, undersized weapons, and woodland stride. If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has immunity to mind-affecting effects or poison, you gain a +8 resistance bonus on saves against those effects. If the creature has any weaknesses, you gain those weaknesses.<br><br> <b>Diminutive Fey<\/b>: If you assume this form, you gain a +8 size bonus to your Dexterity score and take a –4 penalty to your Strength score.<br><br> <b>Huge Fey<\/b>: If you assume this form, you gain a +6 size bonus to your Strength and Constitution scores and take a –4 penalty to your Dexterity score.",
     "name_zh": "精类形态 III",
-    "text_zh": "<p>这种法术如同精类形态 II，除了它还让你能获得微型或超大型的精类生物的形态。如果你获得的形态有下列能力，你就能获得这些能力：60英尺的掘洞速度，90英尺的攀爬速度，90英尺的飞行速度（良好机动性），90英尺游泳速度，全域视野，60英尺盲感，30英尺盲视，90英尺黑暗视觉，昏暗视觉，灵敏嗅觉，看破黑暗，颤动感知60英尺，绑架（abduct），活化毛发（animated hair），流血（bleed），鲜血狂怒（blood rage），铁靴践踏（boot stomp），燃烧（burn），压缩（compression），紧勒（constrict），毁灭跃击（crushing leap），伤害减免 5/寒铁，恐惧灵光，气势凶猛，擒抱，重型武器（heavy weapons），冰行（icewalking），碎膝（kneecapper），发光（luminous），鼻腔喷雾（nasal spray），无影（no shadow），越型武器（oversized weapons），毒素（poison），腐臭呕吐（putrid vomit），撕扯（rend），投石（rock throwing）（100英尺，2d6点伤害），拟音（sound mimicry），超自然速度（supernatural speed），撕破阴影（tear shadow），无踪步（trackless step），践踏（trample），融身入树（tree meld），小号武器（undersized weapons），和穿林步（woodland stride）。\n如果该生物对任何能量种类免疫或有抗力，你会获得对于这些能量种类的20抗力。如果该生物免疫于影响心灵效果或毒素，你在对抗这些效果的豁免上得到+8的抗力加值。如果这个生物有任何弱点，你就会得到这些弱点。\n微型精类：如果你获得这种形态，你的敏捷上得到+8的体型奖励，并在力量属性上受到-4惩罚。\n超大型精类：如果你获得这种形态，你在力量和体质属性上得到+6的体型奖励，在敏捷属性上得到-4的惩罚。<\/p>",
-    "source": "UW"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这种法术如同精类形态 II，除了它还让你能获得微型或超大型的精类生物的形态。如果你获得的形态有下列能力，你就能获得这些能力：60英尺的掘洞速度，90英尺的攀爬速度，90英尺的飞行速度（良好机动性），90英尺游泳速度，全域视野，60英尺盲感，30英尺盲视，90英尺黑暗视觉，昏暗视觉，灵敏嗅觉，看破黑暗，颤动感知60英尺，绑架（abduct），活化毛发（animated hair），流血（bleed），鲜血狂怒（blood rage），铁靴践踏（boot stomp），燃烧（burn），压缩（compression），紧勒（constrict），毁灭跃击（crushing leap），伤害减免 5/寒铁，恐惧灵光，气势凶猛，擒抱，重型武器（heavy weapons），冰行（icewalking），碎膝（kneecapper），发光（luminous），鼻腔喷雾（nasal spray），无影（no shadow），越型武器（oversized weapons），毒素（poison），腐臭呕吐（putrid vomit），撕扯（rend），投石（rock throwing）（100英尺，2d6点伤害），拟音（sound mimicry），超自然速度（supernatural speed），撕破阴影（tear shadow），无踪步（trackless step），践踏（trample），融身入树（tree meld），小号武器（undersized weapons），和穿林步（woodland stride）。<\/p><p>如果该生物对任何能量种类免疫或有抗力，你会获得对于这些能量种类的20抗力。如果该生物免疫于影响心灵效果或毒素，你在对抗这些效果的豁免上得到+8的抗力加值。如果这个生物有任何弱点，你就会得到这些弱点。<\/p><p>微型精类：如果你获得这种形态，你的敏捷上得到+8的体型奖励，并在力量属性上受到-4惩罚。<\/p><p>超大型精类：如果你获得这种形态，你在力量和体质属性上得到+6的体型奖励，在敏捷属性上得到-4的惩罚。<\/p>"
 }

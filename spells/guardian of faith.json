@@ -1,30 +1,31 @@
 {
     "key": "guardian of faith",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-of-faith/",
     "name": "Guardian of Faith",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Guardian%20of%20Faith",
+    "source": ["Advanced Class Guide pg. 183"],
     "school": "abjuration",
     "descriptors": ["see text"],
     "levels":     {
         "cleric": 4,
-        "paladin": 4
+        "oracle": 4,
+        "paladin": 4,
+        "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (parchment with a holy text written on it)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one ally",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>The target gains the benefit of shield of faith and your choice of protection from chaos, evil, good, or law. As a move action, the target can transfer this spell to a touched ally, who becomes the new target of the spell.<\/p><p>The alignment descriptor of this spell matches the alignment descriptor of the protection spell you chose when casting it. For example, granting the target protection from evil gives this spell the good descriptor.<\/p>",
+    "text": "The target gains the benefit of <i>shield of faith<\/i> and your choice of <i>protection from chaos<\/i>, <i>evil<\/i>, <i>good<\/i>, or <i>law<\/i>. As a move action, the target can transfer this spell to a touched ally, who becomes the new target of the spell.<br><br> The alignment descriptor of this spell matches the alignment descriptor of the protection spell you chose when casting it. For example, granting the target <i>protection from evil<\/i> gives this spell the good descriptor.",
     "name_zh": "信仰戍卫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（写有宗教篇章的羊皮纸）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个盟友",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>目标获得虔诚护盾（Shield of Faith）的效果，并且依照你的选择获得防护混乱、邪恶、善良、或秩序（protection from chaos, evil, good, or law）。以移动动作，目标能够将该法术转移给一个被接触到的盟友，这名盟友会成为该法术的新目标。\n该法术的阵营描述符（alignment descriptor）会与你施法时所选择的防护法术的阵营描述符一致。举例说明，若该法术会赋予目标防护邪恶，就会具有善良描述符。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>目标获得虔诚护盾（Shield of Faith）的效果，并且依照你的选择获得防护混乱、邪恶、善良、或秩序（protection from chaos, evil, good, or law）。以移动动作，目标能够将该法术转移给一个被接触到的盟友，这名盟友会成为该法术的新目标。<\/p><p>该法术的阵营描述符（alignment descriptor）会与你施法时所选择的防护法术的阵营描述符一致。举例说明，若该法术会赋予目标防护邪恶，就会具有善良描述符。<\/p>"
 }

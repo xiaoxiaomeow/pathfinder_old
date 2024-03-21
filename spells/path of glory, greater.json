@@ -1,17 +1,31 @@
 {
     "key": "path of glory, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/path-of-glory/",
     "name": "Path of Glory, Greater",
-    "base": "path of glory",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Path%20of%20Glory,%20Greater",
+    "source": ["Advanced Class Guide pg. 189"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
         "bard": 4,
-        "cleric": 4
+        "cleric": 4,
+        "oracle": 4,
+        "skald": 4,
+        "warpriest": 4
     },
-    "text": "<p>This spell functions as <i>path of glory<\/i>, except as noted above, and a square provides 5 points of healing instead of 1.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch (see text)",
+    "area": "four 5-ft. squares/level (see text)",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>path of glory<\/i>, except as noted above, and a square provides 5 points of healing instead of 1.",
     "name_zh": "高等荣耀之路",
-    "text_zh": "<p>该法术的功能如同荣耀之路（Path of Glory）一般，不过法术能够提供5点治疗以取代原本的1点。<\/p>",
-    "source": "ACG"
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触; 见文本",
+    "area_zh": "：每等级4个5尺方格; 见文本",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同荣耀之路（Path of Glory）一般，不过法术能够提供5点治疗以取代原本的1点。<\/p>"
 }

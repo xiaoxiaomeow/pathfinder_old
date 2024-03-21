@@ -1,29 +1,34 @@
 {
     "key": "hidden knowledge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hidden-knowledge/",
     "name": "Hidden Knowledge",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hidden%20Knowledge",
+    "source":     [
+        "Adventurer's Guide pg. 60",
+        "Second Darkness Player's Guide pg. 26"
+    ],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "medium": 2,
         "mesmerist": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 round",
     "components": "V, S, M (a drop of ink)",
     "range": "personal",
     "target": "you",
     "duration": "up to 1 day/level (see text)",
-    "text": "<p class=\"desciption\">This subtle but useful spell allows you to safeguard important knowledge-even from yourself. While casting this spell, you recite one piece of knowledge (up to a maximum of 50 words). Upon completion of the spell's casting, you transfer the knowledge from your mind to your skin in the form of an intricate, runic tattoo placed anywhere you choose on your body. The knowledge disappears utterly from your mind, and you might not realize you forgot something. The magic of the spell patches over gaps in your memory with recollections from the past. Until the spell's duration ends, the knowledge is lost to you.<\/p><p>When you cast this spell, you decide how long you wish the spell's duration to be, up to a maximum duration of 1 day per level.<\/p><p>Many Cyphermages commission non-magical tattoos to disguise the effects of this spell. A detect magic spell or a successful Linguistics or Spellcraft check (DC 20 + your Intelligence modifier) reveals an enchanted tattoo, but not its contents. The effects of hidden knowledge can be dispelled normally, in which case the knowledge is completely lost.<\/p>",
+    "text": "This subtle but useful spell allows you to safeguard important knowledge—even from yourself. While casting this spell, you recite one piece of knowledge (up to a maximum of 50 words). Upon completion of the spell’s casting, you transfer the knowledge from your mind to your skin in the form of an intricate, runic tattoo placed anywhere you choose on your body. The knowledge disappears utterly from your mind, and you might not realize you forgot something. The magic of the spell patches over gaps in your memory with recollections from the past. Until the spell’s duration ends, the knowledge is lost to you. When you cast this spell, you decide how long you wish the spell’s duration to be, up to a maximum duration of 1 day per level.<br><br> Many Cyphermages commission nonmagical tattoos to disguise the effects of this spell. A <i>detect magic<\/i> spell or a successful Linguistics or Spellcraft check (DC 20 + your Intelligence modifier) reveals an enchanted tattoo, but not its contents. The effects of <i>hidden knowledge<\/i> can be dispelled normally, in which case the knowledge is completely lost.",
     "name_zh": "隐藏知识",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势，材料（一滴墨水）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1天/等级",
-    "text_zh": "<p>这个微妙但实用的法术可以让施法者能够安全的保存重要知识——甚至连他自己也不例外。当你施放这个法术，你需要背诵一段知识（最多50个字）。当法术施放完毕，你的知识将从你的头脑中被转移到你的皮肤上任一你选择的位置形成一块复杂的、由符文构成的纹身。知识将会从你的头脑中完全消失，你甚至可能不确定你是否忘记了什么。这个法术的力量会复盖你的记忆里与之相关的部分。直到法术持续时间结束，知识将会重新回到你的大脑中。\n很多密文法师(Cyphermage)会在皮肤上纹上很多非魔法的纹身来掩盖该法术的效果。\n一个侦测魔法或语言学检定（DC15加上你的智力调整值）可以确认一块纹身，但是无法揭示其内容。该法术效果可以被正常的解除魔法，但是这种情况下其中的知识内容会永久丢失。<\/p>",
-    "source": "PC-SDPG"
+    "text_zh": "<p>这个微妙但实用的法术可以让施法者能够安全的保存重要知识——甚至连他自己也不例外。当你施放这个法术，你需要背诵一段知识（最多50个字）。当法术施放完毕，你的知识将从你的头脑中被转移到你的皮肤上任一你选择的位置形成一块复杂的、由符文构成的纹身。知识将会从你的头脑中完全消失，你甚至可能不确定你是否忘记了什么。这个法术的力量会复盖你的记忆里与之相关的部分。直到法术持续时间结束，知识将会重新回到你的大脑中。<\/p><p>很多密文法师(Cyphermage)会在皮肤上纹上很多非魔法的纹身来掩盖该法术的效果。<\/p><p>一个侦测魔法或语言学检定（DC15加上你的智力调整值）可以确认一块纹身，但是无法揭示其内容。该法术效果可以被正常的解除魔法，但是这种情况下其中的知识内容会永久丢失。<\/p>"
 }

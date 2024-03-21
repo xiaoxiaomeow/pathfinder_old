@@ -1,15 +1,15 @@
 {
     "key": "telempathic projection",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telempathic-projection/",
     "name": "Telempathic Projection",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Telempathic%20Projection",
+    "source": ["Occult Adventures pg. 188"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "mesmerist": 1,
         "psychic": 1,
@@ -19,18 +19,17 @@
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "one creature",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You alter the target's mood, adjusting its attitude toward you or another creature you designate by one step either positively or negatively (see the Diplomacy skill). You can instead use this spell to assist your own or an ally's Bluff, Diplomacy, Intimidate, Perform, or Sense Motive check, granting that check a +5 insight bonus against the target of your <em>telempathic projection<\/em> with no save. In this case, the spell's duration expires immediately when the skill check is complete.<\/p><\/div>",
+    "text": "You alter the target’s mood, adjusting its attitude toward you or another creature you designate by one step either positively or negatively (see the Diplomacy skill on page 94 of the <i>Pathfinder RPG Core Rulebook<\/i>). You can instead use this spell to assist your own or an ally’s Bluff, Diplomacy, Intimidate, Perform, or Sense Motive check, granting that check a +5 insight bonus against the target of your <i>telempathic projection<\/i> with no save. In this case, the spell’s duration expires immediately when the skill check is complete.",
     "name_zh": "心绪投影",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "意志，通过则无效（见后文）",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你改变了目标的心情，将它对你或者由你指定的其他生物的态度向着好或坏的方向调整1级（详细请见核心手册中关于交涉技能的部分）。你也可以使用该法术辅助你自己或一名盟友做出的唬骗、交涉、威吓、表演或察言观色检定作为替代，让上述检定在对抗心绪投影的目标时获得+5洞察加值，如此使用时该法术无需豁免。在这种情况下，法术的持续时间会在检定完成后立即结束。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你改变了目标的心情，将它对你或者由你指定的其他生物的态度向着好或坏的方向调整1级（详细请见核心手册中关于交涉技能的部分）。你也可以使用该法术辅助你自己或一名盟友做出的唬骗、交涉、威吓、表演或察言观色检定作为替代，让上述检定在对抗心绪投影的目标时获得+5洞察加值，如此使用时该法术无需豁免。在这种情况下，法术的持续时间会在检定完成后立即结束。<\/p>"
 }

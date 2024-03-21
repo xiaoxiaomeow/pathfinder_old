@@ -1,31 +1,33 @@
 {
     "key": "enticing adulation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enticing-adulation/",
     "name": "Enticing Adulation",
-    "book": "Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enticing%20Adulation",
+    "source": ["Agents of Evil pg. 30"],
     "school": "enchantment",
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 4,
         "bard": 3,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "skald": 3,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a lock of your hair)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>A targeted creature that fails its saving throw is filled with a deep desire to protect and care for you, fawning over your needs and ensuring your comfort. If another creature harms you, the target is immediately overcome with rage and is compelled to attack the aggressor, gaining a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to its Armor Class. These bonuses last until the instigating creature is defeated or retreats, or the target of the spell is killed or rendered unconscious.<\/p><p>If other creatures have harmed you while the target is under this effect, the target continues to rage until all threats against you are defeated or driven off, after which the target creature is fatigued for as many rounds as it raged. Your target continues to fly into defensive rages each time a creature harms you so long as the spell's duration lasts, but cannot rage while fatigued.<\/p><p>If you are reduced below 0 hit points by an attack, the target creature must succeed at a second Will save or be compelled to defend your body, attacking anyone who comes near, for the remainder of the spell's duration. If the creature succeeds at this second save, the spell immediately ends.<\/p>",
+    "text": "A targeted creature that fails its saving throw is filled with a deep desire to protect and care for you, fawning over your needs and ensuring your comfort. If another creature harms you, the target is immediately overcome with rage and is compelled to attack the aggressor, gaining a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to its Armor Class. These bonuses last until the instigating creature is defeated or retreats, or the target of the spell is killed or rendered unconscious. If other creatures have harmed you while the target is under this effect, the target continues to rage until all threats against you are defeated or driven off, after which the target creature is fatigued for as many rounds as it raged. Your target continues to fly into defensive rages each time a creature harms you so long as the spell’s duration lasts, but cannot rage while fatigued.<br><br> If you are reduced below 0 hit points by an attack, the target creature must succeed at a second Will save or be compelled to defend your body, attacking anyone who comes near, for the remainder of the spell’s duration. If the creature succeeds at this second save, the spell immediately ends.",
     "name_zh": "迷人阿谀",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料（你的一绺头发）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一个在豁免检定中失败的生物将会满心想要保护和关怀你，满足你的需求并确保你的舒适，如果另外一个生物试图伤害你。目标将会立刻狂暴并且开始攻击那个侵略者，目标在力量和体质上获得+2士气加值，在意志豁免上获得+1士气加值，在AC上获得-2减值。这些加值持续到引起愤怒的生物被打败或撤退。或者法术的目标被杀害或昏迷。如果其他生物在目标处于法术效果影响时伤害了你。目标会继续狂暴直到所有对抗你的敌人被打败或者被打跑。在这之后该生物会疲乏，轮数等同于狂暴的轮数。只要法术效果持续，每当有一个生物伤害你时目标都会陷入狂暴，但他不能在疲乏时狂暴。\n如果你由于一次攻击而使得生命值低于0，目标必须进行第二次意志检定否则将被迫开始保护你的躯体，攻击任何试图靠近的人直到法术效果结束。如果目标通过了第二次豁免，法术效果立刻结束。<\/p>",
-    "source": "PC-AoE"
+    "text_zh": "<p>一个在豁免检定中失败的生物将会满心想要保护和关怀你，满足你的需求并确保你的舒适，如果另外一个生物试图伤害你。目标将会立刻狂暴并且开始攻击那个侵略者，目标在力量和体质上获得+2士气加值，在意志豁免上获得+1士气加值，在AC上获得-2减值。这些加值持续到引起愤怒的生物被打败或撤退。或者法术的目标被杀害或昏迷。如果其他生物在目标处于法术效果影响时伤害了你。目标会继续狂暴直到所有对抗你的敌人被打败或者被打跑。在这之后该生物会疲乏，轮数等同于狂暴的轮数。只要法术效果持续，每当有一个生物伤害你时目标都会陷入狂暴，但他不能在疲乏时狂暴。<\/p><p>如果你由于一次攻击而使得生命值低于0，目标必须进行第二次意志检定否则将被迫开始保护你的躯体，攻击任何试图靠近的人直到法术效果结束。如果目标通过了第二次豁免，法术效果立刻结束。<\/p>"
 }

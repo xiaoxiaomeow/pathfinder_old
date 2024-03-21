@@ -1,27 +1,32 @@
 {
     "key": "teleport trap",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/teleport-trap/",
     "name": "Teleport Trap",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleport%20Trap",
+    "source":     [
+        "Inner Sea World Guide pg. 296",
+        "Seekers of Secrets pg. 18"
+    ],
     "school": "abjuration",
-    "levels": {"sorcerer/wizard": 7},
-    "subdomains": {"trap": 7},
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
     "castingTime": "10 minutes",
-    "components": "V, S, M (powdered lodestones and silver worth 100 gp per 40-ft. cube)",
+    "components": "V, S, M (powdered lodestone and silver worth 100 gp per 40-ft. cube)",
     "range": "medium (100 ft. + 10 ft./level)",
     "area": "one 40-ft. cube/level (S)",
     "duration": "1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p><i>Teleport trap<\/i> wards an area, redirecting all teleportation into or out of the area to a specific point within the area determined by you at the time of casting. The destination must be an open space on a solid surface. The spell's area overlaps walls and other solid and liquid objects (preventing intruders from bypassing the ward by teleporting into a wall or through similar means). A teleporting creature that is affected by a <i>teleport trap<\/i> can resist the effect with a Will save—if the save is successful, the creature simply doesn't teleport at all (but the use of the teleport effect is still consumed)—either to the intended location or the <i>teleport trap's<\/i> actual destination. A DC 27 Knowledge (arcana) allows such a creature to recognize the <i>teleport trap's<\/i> presence, but does not reveal the trap's linked destination.<\/p><p>At your discretion, the <i>teleport trap<\/i> can exclude a category of creatures, such as an alignment, a type of creature, or creatures that carry a specific item or know a password (though this only works if the creature is teleporting out of the area, not into it). You select this option and the conditions at the time you cast the spell. Overly complicated conditions may cause the spell to fail entirely. Multiple castings of <i>teleport trap<\/i> can be linked to cover a larger area, allowing teleported creatures to be directed to a single point within the combined area of the spells.<\/p><p><i>Teleport trap<\/i> can be made permanent at the cost of 7,000 gp. A single <i>permanency<\/i> spell can be used on all <i>teleport traps<\/i> that share a linked destination, but the gold piece cost must be paid for each individual spell.<\/p>",
+    "text": "<i>Teleport trap<\/i> wards an area, redirecting all teleportation into or out of the area to a specific point within the area determined by you at the time of casting. The destination must be an open space on a solid surface. The spell’s area overlaps walls and other solid and liquid objects (preventing intruders from bypassing the ward by teleporting into a wall or through similar means). A teleporting creature that is affected by a <i>teleport trap<\/i> can resist the effect with a Will save—if the save is successful, the creature simply doesn’t teleport at all (but the use of the teleport effect is still consumed)—either to the intended location or the <i>teleport trap’s<\/i> actual destination. A DC 27 Knowledge (arcana) allows such a creature to recognize the <i>teleport trap’s<\/i> presence, but does not reveal the trap’s linked destination.<br><br>At your discretion, the <i>teleport trap<\/i> can exclude a category of creatures, such as an alignment, a type of creature, or creatures that carry a specific item or know a password (though this only works if the creature is teleporting out of the area, not into it). You select this option and the conditions at the time you cast the spell. Overly complicated conditions may cause the spell to fail entirely. Multiple castings of teleport trap can be linked to cover a larger area, allowing teleported creatures to be directed to a single point within the combined area of the spells.<br><br><i>Teleport trap<\/i> can be made permanent at the cost of 7,000 gp. A single <i>permanency<\/i> spell can be used on all <i>teleport traps<\/i> that share a linked destination, but the gold piece cost must be paid for each individual spell.<br><br>The Pathfinders of the Grand Lodge make use of permanent <i>teleport traps<\/i> in several key locations, trapping would-be intruders in a small wing of jail cells. At least one crypt of the Whispering Tyrant makes use of the spell as well, trapping grave robbers in coffin-sized stone cysts, there to die a slow and agonizing death from thirst and starvation.",
     "name_zh": "传送陷阱",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、材料 (天然磁石的粉末以及每40立方呎，价值100金币的银立方体)",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "一个40呎的立方体/等级 (S)",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "一个40尺的立方体/等级 (可变)",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>传送陷阱会守卫一块区域，重新导向传送进区域内或从区域内传送出去的传送术，到一处你施法之时在此区域内部指定的地点。这个地点必须是一处开放空间，但它并不需要是可以让目标能站立其上的固体表面。此法术的区域会和墙壁以及其他固态与液态的体重叠(这防止入侵者绕过防护范围，传送到墙内或类似的方式)。\n依据你的决定，传送陷阱可以排除某一类的生物，像是某个阵营、某种(type)生物或是携带着某件特定物品或知道某个密码的生物(尽管这只在该生物试图传离此区域时运作，进入不会)。你在施展本法术时选择哪个情况以及哪个条件。太过复杂的条件可能会导致此法术完全失败。多次施放并连接传送陷阱可以复盖一个更大的区域，令传送的生物被导向至本法术联合形成的区域内的一个地点。\n传送陷阱可以花7000金币来恒定。一个魔法恒定术(permanency)可以衡定所有连接起来的传送陷阱，但金币的花费还是要依法术数量个别计算。\n探索者协会的本部在几个关键地点中使用恒定的传送陷阱，将可能的入侵者传送到一件单人小牢房中。默语暴君(Whispering Tyrant)在至少一个地下室中使用了此法术，将盗墓者传送到棺材大小的石制囊包内，让他们在那里因为口渴和饥饿缓慢且受尽苦楚的死去。<\/p>",
-    "source": "CS-DDR"
+    "text_zh": "<p>传送陷阱会守卫一块区域，重新导向传送进区域内或从区域内传送出去的传送术，到一处你施法之时在此区域内部指定的地点。这个地点必须是一处开放空间，但它并不需要是可以让目标能站立其上的固体表面。此法术的区域会和墙壁以及其他固态与液态的体重叠(这防止入侵者绕过防护范围，传送到墙内或类似的方式)。<\/p><p>依据你的决定，传送陷阱可以排除某一类的生物，像是某个阵营、某种(type)生物或是携带着某件特定物品或知道某个密码的生物(尽管这只在该生物试图传离此区域时运作，进入不会)。你在施展本法术时选择哪个情况以及哪个条件。太过复杂的条件可能会导致此法术完全失败。多次施放并连接传送陷阱可以复盖一个更大的区域，令传送的生物被导向至本法术联合形成的区域内的一个地点。<\/p><p>传送陷阱可以花7000金币来恒定。一个魔法恒定术(permanency)可以衡定所有连接起来的传送陷阱，但金币的花费还是要依法术数量个别计算。<\/p><p>探索者协会的本部在几个关键地点中使用恒定的传送陷阱，将可能的入侵者传送到一件单人小牢房中。默语暴君(Whispering Tyrant)在至少一个地下室中使用了此法术，将盗墓者传送到棺材大小的石制囊包内，让他们在那里因为口渴和饥饿缓慢且受尽苦楚的死去。<\/p>"
 }

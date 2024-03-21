@@ -1,15 +1,32 @@
 {
     "key": "detect good",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-good/",
     "name": "Detect Good",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Good",
+    "source": ["PRPG Core Rulebook pg. 267"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 1,
+        "adept": 1,
+        "cleric": 1,
         "inquisitor": 1,
-        "shaman": 1
+        "oracle": 1,
+        "shaman": 1,
+        "spiritualist": 1,
+        "warpriest": 1
     },
-    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 10 min./level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>detect evil<\/i>, except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil.",
     "name_zh": "侦测善良",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测善良生物、善良神祇的牧师、善良法术以及善良魔法物品的灵光，而且如若你是邪恶阵营，则有可能被刺目的善良灵光所伤。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "60尺",
+    "area_zh": "锥形发散区域",
+    "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测善良生物、善良神祇的牧师、善良法术以及善良魔法物品的灵光，而且如若你是邪恶阵营，则有可能被刺目的善良灵光所伤。<\/p>"
 }

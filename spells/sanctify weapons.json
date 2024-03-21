@@ -1,12 +1,14 @@
 {
     "key": "sanctify weapons",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctify-weapons/",
     "name": "Sanctify Weapons",
-    "book": "Pathfinder Campaign Setting: Chronicle of the Righteous. © 2013 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sanctify%20Weapons",
+    "source": ["Chronicle of the Righteous pg. 50"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 5,
-        "paladin": 3
+        "cleric": 5,
+        "oracle": 5,
+        "paladin": 3,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -15,15 +17,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p>This spell originated among the armies of Heaven. Choose a specific subtype of evil outsider when you cast this spell, such as daemon, demon, devil, or div.<\/p><p>All manufactured weapons in the area of effect bypass the DR of that type of outsider. The weapons do not become aligned or change composition.<\/p>",
+    "text": "This spell originated among the armies of Heaven. Choose a specific subtype of evil outsider when you cast this spell, such as daemon, demon, devil, or div. All manufactured weapons in the area of effect bypass the DR of that type of outsider. The weapons do not become aligned or change composition.",
     "name_zh": "圣化武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "半径20呎扩散",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺扩散区域",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志，通过则无效(无害，物体)",
-    "spellResistance_zh": "有(无害，物体)",
-    "text_zh": "<p>这道法术源出天堂军团。当施展该法术时指定一类邪恶异界生物的子类，如邪魔，恶魔，魔鬼，妖灵等。在法术效果区域内所有人造武器都能穿透那类生物的伤害减免。武器并不会因此获得阵营或改变材质。<\/p>",
-    "source": "CS-CotR"
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>这道法术源出天堂军团。当施展该法术时指定一类邪恶异界生物的子类，如邪魔，恶魔，魔鬼，妖灵等。在法术效果区域内所有人造武器都能穿透那类生物的伤害减免。武器并不会因此获得阵营或改变材质。<\/p>"
 }

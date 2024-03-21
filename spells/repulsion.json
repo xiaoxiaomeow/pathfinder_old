@@ -1,28 +1,30 @@
 {
     "key": "repulsion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/repulsion/",
     "name": "Repulsion",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Repulsion",
+    "source": ["PRPG Core Rulebook pg. 333"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 7,
+        "arcanist": 6,
+        "cleric": 7,
         "inquisitor": 6,
-        "sorcerer/wizard": 6,
+        "occultist": 6,
+        "oracle": 7,
+        "psychic": 7,
+        "sorcerer": 6,
+        "spiritualist": 6,
         "summoner": 5,
-        "unchained summoner": 6
+        "summoner (unchained)": 6,
+        "wizard": 6
     },
-    "domains":     {
-        "nobility": 7,
-        "protection": 7
-    },
-    "bloodlines": {"imperious": 6},
     "castingTime": "1 standard action",
     "components": "V, S, F/DF (a pair of canine statuettes worth 50 gp)",
     "range": "up to 10 ft./level",
     "area": "up to 10-ft.-radius/level emanation centered on you",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>An invisible, mobile field surrounds you and prevents creatures from approaching you. You decide how big the field is at the time of casting (to the limit your level allows). Any creature within or entering the field must attempt a save. If it fails, it becomes unable to move toward you for the duration of the spell. Repelled creatures' actions are not otherwise restricted. They can fight other creatures and can cast spells and attack you with ranged weapons. If you move closer to an affected creature, nothing happens. The creature is not forced back. The creature is free to make melee attacks against you if you come within reach. If a repelled creature moves away from you and then tries to turn back toward you, it cannot move any closer if it is still within the spell's area.<\/p>",
+    "text": "An invisible, mobile field surrounds you and prevents creatures from approaching you. You decide how big the field is at the time of casting (to the limit your level allows). Any creature within or entering the field must attempt a save. If it fails, it becomes unable to move toward you for the duration of the spell. Repelled creatures' actions are not otherwise restricted. They can fight other creatures and can cast spells and attack you with ranged weapons. If you move closer to an affected creature, nothing happens. The creature is not forced back. The creature is free to make melee attacks against you if you come within reach. If a repelled creature moves away from you and then tries to turn back toward you, it cannot move any closer if it is still within the spell's area.",
     "name_zh": "排斥术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材/法器 (一对价值50gp的犬类雕像)",
@@ -31,6 +33,5 @@
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一个隐形的移动魔法场包围着你并阻挡其它生物接近你。你在施法时决定魔法场的大小 (受到你的CL限制)。任何魔法场内或试图进入的生物都必须进行一次豁免检定。如果失败，在法术持续时间内它不能朝你移动。试图离开的生物的行动不会受到影响。它们可以与其他生物战斗、对你施展法术或使用远程武器攻击你。如果你向一个受影响的生物靠近，不会发生任何事。其他生物不会被强迫退后。如果你进入生物的触及范围，那么它可以自由对你进行近战攻击。如果一个被驱离的生物远离你之后重新试图接近你，那么它只要仍在法术区域内就无法接近你。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一个隐形的移动魔法场包围着你并阻挡其它生物接近你。你在施法时决定魔法场的大小 (受到你的CL限制)。任何魔法场内或试图进入的生物都必须进行一次豁免检定。如果失败，在法术持续时间内它不能朝你移动。试图离开的生物的行动不会受到影响。它们可以与其他生物战斗、对你施展法术或使用远程武器攻击你。如果你向一个受影响的生物靠近，不会发生任何事。其他生物不会被强迫退后。如果你进入生物的触及范围，那么它可以自由对你进行近战攻击。如果一个被驱离的生物远离你之后重新试图接近你，那么它只要仍在法术区域内就无法接近你。<\/p>"
 }

@@ -1,8 +1,8 @@
 {
     "key": "marks of forbiddance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/marks-of-forbiddance/",
-    "name": "Marks of Forbiddance",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "name": "Marks Of Forbiddance",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Marks%20Of%20Forbiddance",
+    "source": ["Advanced Player's Guide pg. 232"],
     "school": "abjuration",
     "descriptors": ["mind-affecting"],
     "levels": {"paladin": 3},
@@ -10,17 +10,16 @@
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "1 round/level",
-    "savingThrow": "Will negates",
+    "savingThrow": "Will negates, see text",
     "spellResistance": "yes",
-    "text": "<p><i>Marks of Forbiddance<\/i> magically brand two creatures, preventing them from committing violence against one another. When you cast this spell choose one enemy and one ally within range. Both targets become branded with the sigil of forbiddance. Until the end of the spell's duration, in order for the two targets to attack one another, even with a targeted spell, each attacker must attempt a Will save. If the save succeeds, that target can attack the other normally.<\/p><p>If the save fails, the target can't follow through with the attack and the action is lost. This spell does not prevent the targets from attacking each other with area of effect spells or abilities.<\/p>",
+    "text": "<i>Marks of Forbiddance <\/i>magically brand two creatures, preventing them from committing violence against one another. When you cast this spell choose one enemy and one ally within range. Both targets become branded with the sigil of forbiddance. Until the end of the spell’s duration, in order for the two targets to attack one another, even with a targeted spell, each attacker must attempt a Will save. If the save succeeds, that target can attack the other normally. If the save fails, the target can’t follow through with the attack and the action is lost. This spell does not prevent the targets from attacking each other with area of effect spells or abilities.",
     "name_zh": "禁令印记",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名敌人以及一名盟友",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>禁令印记会将两名生物以魔法联结，防止他们对彼此犯下暴行。当你施放该法术时需要选择处于施法范围内的一名敌人以及一名盟友。两个目标均会被烙印禁令印记。在法术的持续时间结束之前，这两名目标中的一名对另一名进行攻击，甚至是目标型法术时，攻击者均需先进行一次意志豁免。如果豁免失败，目标无法进行攻击，并且失去该动作。该法术无法防止目标使用范围性法术或能力攻击对方。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>禁令印记会将两名生物以魔法联结，防止他们对彼此犯下暴行。当你施放该法术时需要选择处于施法范围内的一名敌人以及一名盟友。两个目标均会被烙印禁令印记。在法术的持续时间结束之前，这两名目标中的一名对另一名进行攻击，甚至是目标型法术时，攻击者均需先进行一次意志豁免。如果豁免失败，目标无法进行攻击，并且失去该动作。该法术无法防止目标使用范围性法术或能力攻击对方。<\/p>"
 }

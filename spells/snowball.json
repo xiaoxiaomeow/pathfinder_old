@@ -1,0 +1,45 @@
+{
+    "key": "snowball",
+    "name": "Snowball",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Snowball",
+    "source":     [
+        "Ultimate Wilderness pg. 235",
+        "People of the North pg. 26",
+        "Pathfinder #67: The Snows of Summer pg. 73"
+    ],
+    "school": "evocation",
+    "descriptors":     [
+        "cold",
+        "water"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 1,
+        "bloodrager": 1,
+        "druid": 1,
+        "hunter": 1,
+        "magus": 1,
+        "sorcerer": 1,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "witch": 1,
+        "wizard": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one ball of ice and snow",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "You throw a ball of elemental ice and snow at a single target as a ranged touch attack. The snowball deals 1d6 points of cold damage per caster level you have (maximum 5d6).",
+    "name_zh": "雪球术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一枚冰雪组成的雪球",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你向一个目标扔出一枚由冰雪元素制成的雪球，这是一次远程接触攻击。雪球会造成每施法者等级1d6点的寒冷伤害（最高5d6）。<\/p>"
+}

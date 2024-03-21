@@ -1,17 +1,21 @@
 {
     "key": "flare burst",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flare-burst/",
     "name": "Flare Burst",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flare%20Burst",
+    "source": ["Advanced Player's Guide pg. 223"],
     "school": "evocation",
     "descriptors": ["light"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
         "magus": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -20,15 +24,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as <i>flare<\/i>, except it affects all creatures in a 10-foot-radius burst from the target point.<\/p>",
+    "text": "This spell functions as <i>flare<\/i>, except it affects all creatures in a 10-foot-radius burst from the target point.",
     "name_zh": "闪光爆",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "10尺半径的闪光爆发",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术类似闪光术 (Flare)，不过它可以影响目标地点10尺爆发半径内的所有生物。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>这个法术类似闪光术 (Flare)，不过它可以影响目标地点10尺爆发半径内的所有生物。<\/p>"
 }

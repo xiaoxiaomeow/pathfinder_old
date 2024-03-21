@@ -1,36 +1,38 @@
 {
     "key": "pain strike",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pain-strike/",
     "name": "Pain Strike",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pain%20Strike",
+    "source": ["Advanced Player's Guide pg. 234"],
     "school": "evocation",
     "descriptors":     [
         "evil",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "psychic": 2,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "witch": 3,
+        "wizard": 3
     },
-    "subdomains": {"torture": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 round/level (d)",
+    "target": "one living creature",
+    "duration": "1 round/level (D)",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p><i>Pain strike<\/i> racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds). Additionally, the affected creature is sickened for the spell's duration, and the caster gains a +4 circumstance bonus on Intimidate checks against the target.<\/p>",
+    "text": "<i>Pain strike <\/i>racks the targeted creature with agony, inflicting 1d6 points of nonlethal damage per round for 1 round per level (maximum 10 rounds). Additionally, the affected creature is sickened for the spell’s duration, and the caster gains a +4 circumstance bonus on Intimidate checks against the target.",
     "name_zh": "痛苦打击",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>本法术可以让受术目标受到痛苦的折磨，每一轮造成1d6点非致命伤害，持续每等级一轮 (最高10轮)。<\/p><p>此外，受影响的目标在法术持续时间内会恶心 (sickened)，并且施法者对其的威吓检定有+4环境加值。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>本法术可以让受术目标受到痛苦的折磨，每一轮造成1d6点非致命伤害，持续每等级一轮 (最高10轮)。<\/p><p>此外，受影响的目标在法术持续时间内会恶心 (sickened)，并且施法者对其的威吓检定有+4环境加值。<\/p>"
 }

@@ -1,25 +1,29 @@
 {
     "key": "dweomer retaliation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dweomer-retaliation/",
     "name": "Dweomer Retaliation",
-    "book": "Pathfinder Companion: Cheliax, Empire of Devils&gt;. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dweomer%20Retaliation",
+    "source": ["Cheliax, Empire of Devils pg. 22"],
     "school": "abjuration",
-    "levels": {"sorcerer/wizard": 3},
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
     "castingTime": "1 immediate action",
     "components": "V",
-    "range": "long (400 f. + 40 f./level)",
+    "range": "long (400 ft. + 40 ft./level)",
     "target": "one creature you counterspelled since your last turn",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You may only cast this spell immediately after successfully counterspelling an opponent. Drawing upon the residual energy of the countered spells, you gain a number of temporary hit points equal to the level of the countered spell plus your Charisma or Intelligence modifier (for sorcerers and wizards, respectively); your counterspelled opponent takes damage equal to this amount.<\/p><p>If the countered spell was at least 4th level, you and your opponent make opposed concentration checks. If you beat your opponent by 10 or more, you retain this spell (or its spell slot, if you are a sorcerer) as if you had not cast it.<\/p>",
+    "text": "You may only cast this spell immediately after successfully counterspelling an opponent. Drawing upon the residual energy of the countered spells, you gain a number of temporary hit points equal to the level of the countered spell plus your Charisma or Intelligence modifier (for sorcerers and wizards, respectively); your counterspelled opponent takes damage equal to this amount.<br><br>If the countered spell was at least 4th level, you and your opponent make opposed concentration checks. If you beat your opponent by 10 or more, you retain this spell (or its spell slot, if you are a sorcerer) as if you had not cast it.",
     "name_zh": "咒文复仇",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "一个上回合被你反制法术的生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你只能在成功反制了一个敌人的法术后立即施展这种法术。通过吸取被反制法术的剩余能量，你会获得等于被反制法术的等级加上你的魅力或智力调整值（分别对于术士和法师）的临时生命值；被你反制法术的敌人会受到等于此生命值的伤害。如果被反制的法术为4环或以上，你和你的敌人要进行一个专注对抗检定。如果你的结果超过敌人10或更多，你会保留这种法术（或其法术位，如果你是一个术士），就如同你从未施展过这道法术。<\/p>",
-    "source": "PC-CEoD"
+    "text_zh": "<p>你只能在成功反制了一个敌人的法术后立即施展这种法术。通过吸取被反制法术的剩余能量，你会获得等于被反制法术的等级加上你的魅力或智力调整值（分别对于术士和法师）的临时生命值；被你反制法术的敌人会受到等于此生命值的伤害。如果被反制的法术为4环或以上，你和你的敌人要进行一个专注对抗检定。如果你的结果超过敌人10或更多，你会保留这种法术（或其法术位，如果你是一个术士），就如同你从未施展过这道法术。<\/p>"
 }

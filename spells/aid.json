@@ -1,18 +1,23 @@
 {
     "key": "aid",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aid/",
     "name": "Aid",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aid",
+    "source": ["PRPG Core Rulebook pg. 239"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "adept": 2,
         "alchemist": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
-        "shaman": 2
+        "investigator": 2,
+        "medium": 2,
+        "oracle": 2,
+        "shaman": 2,
+        "spiritualist": 2,
+        "warpriest": 2
     },
-    "domains": {"luck": 2},
-    "subdomains": {"tactics": 2},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -20,7 +25,7 @@
     "duration": "1 min./level",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>Aid<\/i> grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).<\/p>",
+    "text": "<i>Aid<\/i> grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).",
     "name_zh": "援助术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -29,6 +34,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>援助术给目标的攻击检定与对抗恐惧效果的豁免检定提供+1士气加值，外加 {1d8+CL} 的临时HP (临时HP在CL 10时达到最大，为 {1d8+10} 点)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>援助术给目标的攻击检定与对抗恐惧效果的豁免检定提供+1士气加值，外加 {1d8+CL} 的临时HP (临时HP在CL 10时达到最大，为 {1d8+10} 点)。<\/p>"
 }

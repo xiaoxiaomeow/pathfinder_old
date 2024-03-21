@@ -1,0 +1,33 @@
+{
+    "key": "ja noi aspect",
+    "name": "Ja Noi Aspect",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ja%20Noi%20Aspect",
+    "source": ["Pathfinder #115: Trail of the Hunted pg. 74"],
+    "school": "transmutation",
+    "subSchools": ["polymorph"],
+    "levels":     {
+        "alchemist": 3,
+        "arcanist": 3,
+        "bloodrager": 3,
+        "druid": 3,
+        "hunter": 3,
+        "investigator": 3,
+        "magus": 3,
+        "ranger": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level (D; see below)",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "You gain some of the appearance and qualities of the ja noi, oni who take hobgoblin form. Your skin turns a fiery red color and you gain fast healing 3, although this ability cannot repair damage caused by acid or fire. You can dismiss this spell as an immediate action when you fail a Will saving throw; if you do, you can reroll your saving throw, but you must take the second result.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮/等级 (D; 见文本)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)"
+}

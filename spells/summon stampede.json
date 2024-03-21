@@ -1,14 +1,18 @@
 {
     "key": "summon stampede",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-stampede/",
     "name": "Summon Stampede",
-    "book": "Pathfinder Campaign Setting: Chronicle of the Righteous. © 2013 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Stampede",
+    "source": ["Chronicle of the Righteous pg. 51"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
-        "cleric/oracle": 6,
+        "cleric": 6,
         "druid": 6,
-        "summoner": 4
+        "hunter": 6,
+        "oracle": 6,
+        "summoner": 4,
+        "summoner (unchained)": 4,
+        "warpriest": 6
     },
     "castingTime": "1 round",
     "components": "V, S, M (piece of fur from a herd animal)",
@@ -17,15 +21,14 @@
     "duration": "1 round/level",
     "savingThrow": "Reflex halves (see text)",
     "spellResistance": "no",
-    "text": "<p>You conjure a herd of aurochs or similar herd animal that immediately stampedes in the direction you indicate. The herd takes up a 20-foot-radius space and moves at a rate of 120 feet per round in a straight line. Any creatures caught in the herd's path take 4d6+9 points of damage that round as they are trampled beneath dozens of animals' hooves. A successful Reflex save halves this damage.<\/p><p>If the stampede's path would put it in an obviously dangerous area (such as over a cliff or through a fire) or force it to move through a solid barrier, the herd stops at the obstacle and moves in a new randomly determined direction until it reaches another obstacle or the spell's duration ends.<\/p>",
+    "text": "You conjure a herd of aurochs or similar herd animal that immediately stampedes in the direction you indicate. The herd takes up a 20-foot-radius space and moves at a rate of 120 feet per round in a straight line. Any creatures caught in the herd’s path take 4d6+9 points of damage that round as they are trampled beneath dozens of animals’ hooves. A successful Reflex save halves this damage.<br><br>If the stampede’s path would put it in an obviously dangerous area (such as over a cliff or through a fire) or force it to move through a solid barrier, the herd stops at the obstacle and moves in a new randomly determined direction until it reaches another obstacle or the spell’s duration ends.",
     "name_zh": "召唤狂野兽群",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、材料(群居动物的毛皮)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "半径20呎的群居动物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "反射，通过则减半(见下)",
+    "savingThrow_zh": "反射, 通过则减半; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你召唤一大群野牛或其他群居动物朝你所指方向狂奔而去。兽群占据20呎半径的空间，以每轮120呎速度直线移动。沿路上所有的生物都会被兽群的铁蹄踩扁，在该轮受到4d6+9点伤害，反射豁免成功会将伤害减半。\n如果路线指向明显危险的区域（如冲过悬崖或穿越火堆），或强制其穿过固体屏障，兽群会在障碍物前停止，并随机选择新的方向，直到遇到下一个障碍或法术持续时间结束为止。<\/p>",
-    "source": "CS-CotR"
+    "text_zh": "<p>你召唤一大群野牛或其他群居动物朝你所指方向狂奔而去。兽群占据20呎半径的空间，以每轮120呎速度直线移动。沿路上所有的生物都会被兽群的铁蹄踩扁，在该轮受到4d6+9点伤害，反射豁免成功会将伤害减半。<\/p><p>如果路线指向明显危险的区域（如冲过悬崖或穿越火堆），或强制其穿过固体屏障，兽群会在障碍物前停止，并随机选择新的方向，直到遇到下一个障碍或法术持续时间结束为止。<\/p>"
 }

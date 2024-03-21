@@ -1,15 +1,16 @@
 {
     "key": "rotgut",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rotgut/",
     "name": "Rotgut",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rotgut",
+    "source": ["Villain Codex pg. 188"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 2,
         "bard": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
         "occultist": 2,
+        "oracle": 2,
         "skald": 2,
         "warpriest": 2
     },
@@ -18,17 +19,16 @@
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "1 gallon of water/level",
     "duration": "instantaneous",
-    "savingThrow": "Fort negates (object)",
+    "savingThrow": "Fortitude negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You transform the target into a cheap alcohol of your choice, such as beer, grog, mead, rum, or wine. The alcohol doesn't taste good, but it's drinkable and just as effective as normal alcohol in making creatures inebriated. This spell doesn't work on holy water, potions, magical liquids, or water that is part of a creature.<\/p>",
+    "text": "You transform the target into a cheap alcohol of your choice, such as beer, grog, mead, rum, or wine. The alcohol doesn’t taste good, but it’s drinkable and just as effective as normal alcohol in making creatures inebriated (<i>Pathfinder RPG GameMastery Guide<\/i> 237). This spell doesn’t work on holy water, potions, magical liquids, or water that is part of a creature.",
     "name_zh": "劣酒",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、材料 (少量的啤酒花)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1加仑的水/等级",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则无效 (物体)",
-    "spellResistance_zh": "有 (物体)",
-    "text_zh": "<p>你将目标转换成由你选择的廉价酒精，像是啤酒、格罗格酒、蜂蜜酒、朗姆酒或葡萄酒。这酒味道并不好，但它是可以饮用的，并且效果如同正常的酒精一样使生物醉酒(inebriated，Pathfinder RPG GameMastery Guide 237)。此法术无法作用在圣水、药水、魔法液体或是生物一部分的水上。<\/p>",
-    "source": "VC"
+    "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你将目标转换成由你选择的廉价酒精，像是啤酒、格罗格酒、蜂蜜酒、朗姆酒或葡萄酒。这酒味道并不好，但它是可以饮用的，并且效果如同正常的酒精一样使生物醉酒(inebriated，Pathfinder RPG GameMastery Guide 237)。此法术无法作用在圣水、药水、魔法液体或是生物一部分的水上。<\/p>"
 }

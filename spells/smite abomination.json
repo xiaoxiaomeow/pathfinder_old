@@ -1,26 +1,31 @@
 {
     "key": "smite abomination",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/smite-abomination/",
     "name": "Smite Abomination",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Smite%20Abomination",
+    "source":     [
+        "Inner Sea Gods pg. 241",
+        "Pathfinder #44: Trial of the Beast pg. 69"
+    ],
     "school": "evocation",
+    "race": "Pharasma",
     "levels":     {
-        "cleric/oracle": 5,
-        "inquisitor": 4
+        "cleric": 5,
+        "inquisitor": 4,
+        "oracle": 5,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>Drawing upon positive energy, you emulate some of a paladin's power to smite undead. Choose one undead creature as your target. Your melee attacks against that target gain a bonus equal to your Charisma or Wisdom modifier, whichever is higher, on your attack rolls, and a bonus equal to your caster level on damage rolls. Your melee attacks also bypass the target's damage reduction. These bonuses do not stack with the bonuses from a paladin's smite.<\/p>",
+    "text": "Drawing upon positive energy, you emulate some of a paladin’s power to smite undead. Choose one undead creature as your target. Your melee attacks against that target gain a bonus equal to your Charisma or Wisdom modifier, whichever is higher, on your attack rolls, and a bonus equal to your caster level on damage rolls. Your melee attacks also bypass the target’s damage reduction. These bonuses do not stack with the bonuses from a paladin’s smite.",
     "name_zh": "破魍斩",
     "race_zh": "法莱斯玛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你可以将强大的正能量充斥全身，模仿圣武士的破邪斩能力以对抗亡灵。你在对抗不死生物的近战攻击检定上获得相当于你的感知调整值或魅力调整值（取其高者）的加值，在伤害投骰上获得相当于你的施法者等级的加值，并且你的近战攻击将忽视目标的所有伤害减免。这个法术的效果与圣武士的破邪斩不可叠加。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你可以将强大的正能量充斥全身，模仿圣武士的破邪斩能力以对抗亡灵。你在对抗不死生物的近战攻击检定上获得相当于你的感知调整值或魅力调整值（取其高者）的加值，在伤害投骰上获得相当于你的施法者等级的加值，并且你的近战攻击将忽视目标的所有伤害减免。这个法术的效果与圣武士的破邪斩不可叠加。<\/p>"
 }

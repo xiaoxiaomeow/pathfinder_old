@@ -1,29 +1,31 @@
 {
     "key": "defensive shock",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/defensive-shock/",
     "name": "Defensive Shock",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Defensive%20Shock",
+    "source": ["Ultimate Magic pg. 216"],
     "school": "evocation",
     "descriptors": ["electricity"],
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
+        "investigator": 2,
         "magus": 2,
-        "sorcerer/wizard": 2
+        "occultist": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
-    "elementalSchools": {"metal": 2},
     "castingTime": "1 standard action",
     "components": "V, S, M (a hollow metal sphere)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level or until discharged",
-    "text": "<p>Electrical energy floods your body, shocking the next creature that touches you. Any creature striking you with its body or a handheld weapon takes 1d6 points of electricity damage per two caster levels (maximum 6d6). If the attacker has spell resistance, it applies against this damage. Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell's damage dice reach 0, the spell ends.<\/p>",
+    "duration": "1 minute/level or until discharged",
+    "text": "Electrical energy floods your body, shocking the next creature that touches you. Any creature striking you with its body or a handheld weapon takes 1d6 points of electricity damage per two caster levels (maximum 6d6). If the attacker has spell resistance, it applies against this damage. Each time the spell discharges, the number of damage dice it deals is halved (rounded down); when the spell’s damage dice reach 0, the spell ends.",
     "name_zh": "闪电之盾",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一个空心金属球)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级或直至能量耗尽",
-    "text_zh": "<p>持续时间    1分钟/等级或直至能量耗尽<\/p><p>电能覆盖你的躯体，电击下一个接触到你的生物。<\/p><p>当任何生物用身体或可导电的武器接触到你时都会受到每2施法者等级1d6点电击伤害 (最高6d6)。<\/p><p>如果攻击者拥有法术抗力，可以用于对抗该法术。<\/p><p>每当该法术造成一次伤害，它的伤害骰数减半 (向下取整)；如果伤害骰数降到0，法术结束。<\/p>",
-    "source": "UM"
+    "duration_zh": "1分钟/等级 或 直至耗散",
+    "text_zh": "<p>持续时间    1分钟/等级或直至能量耗尽<\/p><p>电能覆盖你的躯体，电击下一个接触到你的生物。<\/p><p>当任何生物用身体或可导电的武器接触到你时都会受到每2施法者等级1d6点电击伤害 (最高6d6)。<\/p><p>如果攻击者拥有法术抗力，可以用于对抗该法术。<\/p><p>每当该法术造成一次伤害，它的伤害骰数减半 (向下取整)；如果伤害骰数降到0，法术结束。<\/p>"
 }

@@ -1,8 +1,8 @@
 {
     "key": "holy whisper",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-whisper/",
     "name": "Holy Whisper",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Holy%20Whisper",
+    "source": ["Advanced Player's Guide pg. 228"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels": {"paladin": 3},
@@ -11,17 +11,16 @@
     "range": "30 ft.",
     "area": "cone-shaped burst",
     "duration": "instantaneous",
-    "savingThrow": "Fortitude negates",
+    "savingThrow": "Fortitude negates, see text",
     "spellResistance": "yes",
-    "text": "<p>You whisper a single word in the primordial language of good that is anathema to the minions of evil and strengthens the resolve of good creatures. Evil creatures within the burst must make a Fortitude Saving Throw or become sickened for 1 round/ level. Evil outsiders with the evil subtype, evil-aligned dragons, and undead in the burst also take 2d8 points of damage if they fail their saves. Good-aligned creatures in the burst gain a +2 sacred bonus on attack and damage rolls for 1 round.<\/p>",
+    "text": "You whisper a single word in the primordial language of good that is anathema to the minions of evil and strengthens the resolve of good creatures. Evil creatures within the burst must make a Fortitude saving throw or become sickened for 1 round/level. Evil outsiders with the evil subtype, evil-aligned dragons, and undead in the burst also take 2d8 points of damage if they fail their saves. Good-aligned creatures in the burst gain a +2 sacred bonus on attack and damage rolls for 1 round.",
     "name_zh": "神圣低语",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "30尺",
-    "area_zh": "爆发性锥形范围",
+    "area_zh": "锥形爆发区域",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你低语着原初语言中代表善良的单词，以此诅咒邪恶的爪牙并加强善良生物的决心。在这股爆发中的邪恶生物必须进行强韧豁免检定，失败则会恶心1轮/等级。邪恶子类的异界生物，邪恶龙类或者不死生物如果豁免失败还会受到2d8点伤害。在这股爆发中的善良阵营生物的攻击检定以及伤害检定会获得+2神圣加值，持续1轮。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你低语着原初语言中代表善良的单词，以此诅咒邪恶的爪牙并加强善良生物的决心。在这股爆发中的邪恶生物必须进行强韧豁免检定，失败则会恶心1轮/等级。邪恶子类的异界生物，邪恶龙类或者不死生物如果豁免失败还会受到2d8点伤害。在这股爆发中的善良阵营生物的攻击检定以及伤害检定会获得+2神圣加值，持续1轮。<\/p>"
 }

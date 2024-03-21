@@ -1,15 +1,17 @@
 {
     "key": "simulacrum",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/simulacrum/",
     "name": "Simulacrum",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Simulacrum",
+    "source": ["PRPG Core Rulebook pg. 343"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "levels":     {
-        "sorcerer/wizard": 7,
-        "summoner": 5
+        "arcanist": 7,
+        "psychic": 7,
+        "sorcerer": 7,
+        "summoner": 5,
+        "wizard": 7
     },
-    "elementalSchools": {"void": 7},
     "castingTime": "12 hours",
     "components": "V, S, M (ice sculpture of the target plus powdered rubies worth 500 gp per HD of the simulacrum)",
     "range": "0 ft.",
@@ -17,7 +19,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p><i>Simulacrum<\/i> creates an illusory duplicate of any creature. The duplicate creature is partially real and formed from ice or snow. It appears to be the same as the original, but it has only half of the real creature's levels or HD (and the appropriate hit points, feats, skill ranks, and special abilities for a creature of that level or HD). You can't create a simulacrum of a creature whose HD or levels exceed twice your caster level. You must make a Disguise check when you cast the spell to determine how good the likeness is. A creature familiar with the original might detect the ruse with a successful Perception check (opposed by the caster's Disguise check) or a DC 20 Sense Motive check.<\/p><p>At all times, the simulacrum remains under your absolute command. No special telepathic link exists, so command must be exercised in some other manner. A simulacrum has no ability to become more powerful. It cannot increase its level or abilities. If reduced to 0 hit points or otherwise destroyed, it reverts to snow and melts instantly into nothingness. A complex process requiring at least 24 hours, 100 gp per hit point, and a fully equipped magical laboratory can repair damage to a simulacrum.<\/p>",
+    "text": "<i>Simulacrum<\/i> creates an illusory duplicate of any creature. The duplicate creature is partially real and formed from ice or snow. It appears to be the same as the original, but it has only half of the real creature's levels or HD (and the appropriate hit points, feats, skill ranks, and special abilities for a creature of that level or HD). You can't create a simulacrum of a creature whose HD or levels exceed twice your caster level. You must make a Disguise check when you cast the spell to determine how good the likeness is. A creature familiar with the original might detect the ruse with a successful Perception check (opposed by the caster's Disguise check) or a DC 20 Sense Motive check.<br><br>At all times, the simulacrum remains under your absolute command. No special telepathic link exists, so command must be exercised in some other manner. A simulacrum has no ability to become more powerful. It cannot increase its level or abilities. If reduced to 0 hit points or otherwise destroyed, it reverts to snow and melts instantly into nothingness. A complex process requiring at least 24 hours, 100 gp per hit point, and a fully equipped magical laboratory can repair damage to a simulacrum.",
     "name_zh": "拟象术",
     "castingTime_zh": "12小时",
     "components_zh": "语言, 姿势, 材料 (目标的冰雕，外加总价值为拟象所具有的HD×500gp的红宝石粉)",
@@ -26,6 +28,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>拟象术可造出任何生物的复制幻象。复制品是部分真实的，它由冰雪所构成。它与原生物看起来一样，但是只有原生物一半的等级或HD (以及该名生物相应等级或HD所具有的HP、专长、技能等级和特殊能力)。你无法给HD或等级超过你的CL两倍的生物创造拟像。当你施放法术时，必须进行易容检定来判断拟像与原生物有多相似。熟悉原生物的生物可以通过成功的察觉检定 (与施法者的易容检定对抗)、或者通过DC 20的察言观色检定看破幻术。<\/p><p>在任何时候这个幻象都完全服从你的指令。你和它之间没有特殊的心灵联结，因此命令必须以其它方式发布。幻象无法变得更强大，它也不能提升等级或增加属性。如果它的HP降到0或被其他方式摧毁，则会化作冰雪继而迅速消融。要修复幻象所受的伤害是一个复杂的过程，这至少需要24小时，每修复一点HP需花费100gp，并且需要一间设备齐全的魔法实验室。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>拟象术可造出任何生物的复制幻象。复制品是部分真实的，它由冰雪所构成。它与原生物看起来一样，但是只有原生物一半的等级或HD (以及该名生物相应等级或HD所具有的HP、专长、技能等级和特殊能力)。你无法给HD或等级超过你的CL两倍的生物创造拟像。当你施放法术时，必须进行易容检定来判断拟像与原生物有多相似。熟悉原生物的生物可以通过成功的察觉检定 (与施法者的易容检定对抗)、或者通过DC 20的察言观色检定看破幻术。<\/p><p>在任何时候这个幻象都完全服从你的指令。你和它之间没有特殊的心灵联结，因此命令必须以其它方式发布。幻象无法变得更强大，它也不能提升等级或增加属性。如果它的HP降到0或被其他方式摧毁，则会化作冰雪继而迅速消融。要修复幻象所受的伤害是一个复杂的过程，这至少需要24小时，每修复一点HP需花费100gp，并且需要一间设备齐全的魔法实验室。<\/p>"
 }

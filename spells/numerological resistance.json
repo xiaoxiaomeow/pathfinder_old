@@ -1,0 +1,28 @@
+{
+    "key": "numerological resistance",
+    "name": "Numerological Resistance",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Numerological%20Resistance",
+    "source": ["Occult Mysteries pg. 51"],
+    "school": "abjuration",
+    "levels":     {
+        "arcanist": 3,
+        "cleric": 3,
+        "oracle": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "see text",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "<i>Numerological resistance<\/i> allows numerologists to use the Path of Numbers to grant their allies resilience in the face of elemental dangers. Roll 5d8; this is your dice pool. You will use each die in the pool exactly once to customize <i>numerological resistance<\/i>.<br><br> Choose one of the dice, and match its result to the appropriate value in the first column of the Eight Basic Energies table to determine the type of energy to which <i>numerological resistance<\/i> grants resistance. Next, allocate one of the dice to represent the number of creatures you can affect with <i>numerological resistance<\/i> (including yourself). All of these creatures must be within the spell’s range. Then allocate one of the dice to represent the number of rounds <i>numerological resistance<\/i> lasts. Finally, sum the remaining two dice. This is the number of points of resistance that <i>numerological resistance<\/i> grants.<br><br><table class=\"inner\"><tr><td><b>d8<\/b><\/td><td><b>Energy Type<\/b><\/td><td><b>Magic School<\/b><\/td><td><b>d20 Roll Type<\/b><\/td><\/tr> <tr><td>1<\/td><td>Air<\/td><td>Enchantment<\/td><td>Will save<\/td><\/tr> <tr><td>2<\/td><td>Electricity<\/td><td>Illusion<\/td><td>Reflex save<\/td><\/tr> <tr><td>3<\/td><td>Fire<\/td><td>Necromancy<\/td><td>Attack roll<\/td><\/tr> <tr><td>4<\/td><td>Sonic<\/td><td>Evocation<\/td><td>Initiative roll<\/td><\/tr> <tr><td>5<\/td><td>Acid<\/td><td>Abjuration<\/td><td>Fortitude save<\/td><\/tr> <tr><td>6<\/td><td>Water<\/td><td>Transmutation<\/td><td>Caster level check<\/td><\/tr> <tr><td>7<\/td><td>Cold<\/td><td>Divination<\/td><td>Concentration check<\/td><\/tr> <tr><td>8<\/td><td>Earth<\/td><td>Conjuration<\/td><td>Combat Maneuver Check<\/td><\/tr><\/table>",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

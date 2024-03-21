@@ -1,14 +1,16 @@
 {
     "key": "anonymous interaction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/anonymous-interaction/",
     "name": "Anonymous Interaction",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anonymous%20Interaction",
+    "source": ["Advanced Class Guide pg. 174"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 2,
+        "mesmerist": 2,
         "psychic": 2,
+        "skald": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
@@ -18,15 +20,14 @@
     "duration": "permanent (see text)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You cause the targets to forget all but the most general information about you. If they saw you or interacted with you, they still remember your presence and your general shape (such as humanoid), as well as the gist of your interactions with them (such as &#8220;<i>She was asking about the queen<\/i>&#8220;), but they don't remember specifically what you said, details of your appearance, or any identifying information about you. This spell targets any memories of you in the minute preceding its casting, but is otherwise permanent.<\/p>",
+    "text": "You cause the targets to forget all but the most general information about you. If they saw you or interacted with you, they still remember your presence and your general shape (such as humanoid), as well as the gist of your interactions with them (such as “She was asking about the queen”), but they don’t remember specifically what you said, details of your appearance, or any identifying information about you. This spell targets any memories of you in the minute preceding its casting, but is otherwise permanent.",
     "name_zh": "无名路人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级1个生物，任意两者之间的距离不超过30尺",
-    "duration_zh": "永久（见后文）",
+    "duration_zh": "永久; 见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你能让目标忘记近乎所有关于你的普通讯息。若他们看到你或与你产生互动，则仍旧有可能回忆起你的存在、你的大致形态（比如是人形）、以及与你互动的主要原因（比如“她曾经询问我和女王相关的事情”），但是他们不会记得你具体说了什么、关于你外貌的细节、或者任何和你相关的确切信息。该法术会以你施法之前的任何与你相关的记忆为目标，不过在其他方面都是永久性的。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你能让目标忘记近乎所有关于你的普通讯息。若他们看到你或与你产生互动，则仍旧有可能回忆起你的存在、你的大致形态（比如是人形）、以及与你互动的主要原因（比如“她曾经询问我和女王相关的事情”），但是他们不会记得你具体说了什么、关于你外貌的细节、或者任何和你相关的确切信息。该法术会以你施法之前的任何与你相关的记忆为目标，不过在其他方面都是永久性的。<\/p>"
 }

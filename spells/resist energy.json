@@ -1,31 +1,32 @@
 {
     "key": "resist energy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resist-energy/",
     "name": "Resist Energy",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Resist%20Energy",
+    "source": ["PRPG Core Rulebook pg. 334"],
     "school": "abjuration",
     "levels":     {
+        "adept": 2,
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "druid": 2,
+        "hunter": 1,
         "inquisitor": 2,
+        "investigator": 2,
         "occultist": 2,
+        "oracle": 2,
         "paladin": 2,
         "psychic": 2,
         "ranger": 1,
         "shaman": 2,
-        "sorcerer/wizard": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "summoner/unchained summoner": 2
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
-    "elementalSchools":     {
-        "air": 2,
-        "earth": 2,
-        "fire": 2,
-        "water": 2
-    },
-    "bloodlines": {"celestial": 2},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -33,7 +34,9 @@
     "duration": "10 min./level",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This abjuration grants a creature limited protection from damage of whichever one of five energy types you select: acid, cold, electricity, fire, or sonic. The subject gains resist energy 10 against the energy type chosen, meaning that each time the creature is subjected to such damage (whether from a natural or magical source), that damage is reduced by 10 points before being applied to the creature's hit points. The value of the energy resistance granted increases to 20 points at 7th level and to a maximum of 30 points at 11th level. The spell protects the recipient's equipment as well.<\/p><p><i>Resist energy<\/i> absorbs only damage. The subject could still suffer unfortunate side effects.<\/p><p><i>Resist energy<\/i> overlaps (and does not stack with) <i>protection from energy<\/i>. If a character is warded by <i>protection from energy<\/i> and <i>resist energy<\/i>, the <i>protection<\/i> spell absorbs damage until its power is exhausted.<\/p>",
+    "text": "This abjuration grants a creature limited protection from damage of whichever one of five energy types you select: acid, cold, electricity, fire, or sonic. The subject gains resist energy 10 against the energy type chosen, meaning that each time the creature is subjected to such damage (whether from a natural or magical source), that damage is reduced by 10 points before being applied to the creature's hit points. The value of the energy resistance granted increases to 20 points at 7th level and to a maximum of 30 points at 11th level. The spell protects the recipient's equipment as well.<br><br><i>Resist energy<\/i> absorbs only damage. The subject could still suffer unfortunate side effects.<br><br><i>Resist energy<\/i> overlaps (and does not stack with) <i>protection from energy<\/i>. If a character is warded by <i>protection from energy<\/i> and <i>resist energy<\/i>, the <i>protection<\/i> spell absorbs damage until its power is exhausted.<h2 class=\"title\">Mythic Resist Energy<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 105<\/i><br>The target gains a +4 bonus on saves against effects that deal damage of the selected energy type. Once each round as a free action, the target can choose one adjacent ally to gain energy resistance 5 against the chosen energy type for 1 round. This increases to energy resistance 10 at caster level 7 and energy resistance 15 at caster level 11. ",
+    "mythicSource": ["Mythic Adventures pg. 105"],
+    "mythicText": "The target gains a +4 bonus on saves against effects that deal damage of the selected energy type. Once each round as a free action, the target can choose one adjacent ally to gain energy resistance 5 against the chosen energy type for 1 round. This increases to energy resistance 10 at caster level 7 and energy resistance 15 at caster level 11. ",
     "name_zh": "抵抗能量伤害",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -42,6 +45,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>对以下五种能量类别之一的伤害，此防护法术给予一个生物一定的有限保护，能量类别由你选择：强酸、寒冷、电击、火焰或音波。受术者得到对于选定能量形式的10点能量抗力，意味着每次它受到该类能量伤害 (无论是来源于自然还是魔法) 时，这个伤害在应用至受术者的HP之前降低10点。此能量抗力在第7级时增加至20点，第11级时达到最高的30点。此法术也会保护目标生物的装备。<\/p><p>抵抗能量伤害只吸收能量伤害。目标仍然会受到其他负面效果的影响。<\/p><p>‘<a href=\"spell.html?spell=Protection from Energy\">防护能量伤害 (Protection from Energy)<\/a>’覆盖 (而非叠加) 抵抗能量伤害。如果一个角色被防护能量伤害和抵抗能量伤害所同时防护，那么防护能量伤害会吸收伤害，直到它的效果耗散为止。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>对以下五种能量类别之一的伤害，此防护法术给予一个生物一定的有限保护，能量类别由你选择：强酸、寒冷、电击、火焰或音波。受术者得到对于选定能量形式的10点能量抗力，意味着每次它受到该类能量伤害 (无论是来源于自然还是魔法) 时，这个伤害在应用至受术者的HP之前降低10点。此能量抗力在第7级时增加至20点，第11级时达到最高的30点。此法术也会保护目标生物的装备。<\/p><p>抵抗能量伤害只吸收能量伤害。目标仍然会受到其他负面效果的影响。<\/p><p>‘<a href=\"spell.html?spell=Protection from Energy\">防护能量伤害 (Protection from Energy)<\/a>’覆盖 (而非叠加) 抵抗能量伤害。如果一个角色被防护能量伤害和抵抗能量伤害所同时防护，那么防护能量伤害会吸收伤害，直到它的效果耗散为止。<\/p>"
 }

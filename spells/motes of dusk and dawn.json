@@ -1,15 +1,16 @@
 {
     "key": "motes of dusk and dawn",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/motes-of-dusk-and-dawn/",
-    "name": "Motes of Dusk And Dawn",
-    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "name": "Motes of Dusk and Dawn",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Motes%20of%20Dusk%20and%20Dawn",
+    "source": ["Blood of Shadows pg. 28"],
     "school": "evocation",
     "descriptors":     [
         "darkness",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
         "magus": 3,
         "medium": 3,
@@ -17,25 +18,26 @@
         "occultist": 3,
         "psychic": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "Up to four motes, all within a 10-ft.-radius area",
-    "duration": "1 min. (d)",
+    "duration": "1 minute (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>When you cast this spell, you create up to four motes that shed light or darkness in a 20-foot-radius, increasing or decreasing the illumination level by up to two categories. You decide whether each individual mote sheds light or darkness when the spell is cast.<\/p><p>The motes of dusk and dawn must stay within a 10-foot-radius area of one another but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like. The motes can move up to 100 feet per round. A mote winks out if the distance between you and it exceeds the spell's range.<\/p>",
+    "text": "When you cast this spell, you create up to four motes that shed light or darkness in a 20-foot-radius, increasing or decreasing the illumination level by up to two categories. You decide whether each individual mote sheds light or darkness when the spell is cast.<br><br>The <i>motes of dusk and dawn<\/i> must stay within a 10-foot-radius area of one another but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like. The motes can move up to 100 feet per round. A mote winks out if the distance between you and it exceeds the spell’s range.",
     "name_zh": "晨昏之尘",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "至多四团微尘，必须全部位于半径10呎范围之内",
-    "duration_zh": "1分钟（D）",
+    "duration_zh": "1分钟 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>当你施展这个法术，你创造四团光亮或黑暗之尘，在20尺半径内范围提高或降低两个光照等级。在施法时你决定每团尘埃创造光亮或是黑暗。每团晨昏之尘必须处于任意另一团的10尺半径内，不过可以在你的指令下随意移动（不需要专注）：前后、上下、直行或者转弯。这些尘埃可以每轮移动100尺，如果效果与你的距离超出了法术距离那么效果结束。<\/p>",
-    "source": "PC-BoS"
+    "text_zh": "<p>当你施展这个法术，你创造四团光亮或黑暗之尘，在20尺半径内范围提高或降低两个光照等级。在施法时你决定每团尘埃创造光亮或是黑暗。每团晨昏之尘必须处于任意另一团的10尺半径内，不过可以在你的指令下随意移动（不需要专注）：前后、上下、直行或者转弯。这些尘埃可以每轮移动100尺，如果效果与你的距离超出了法术距离那么效果结束。<\/p>"
 }

@@ -1,36 +1,38 @@
 {
     "key": "shield of the dawnflower, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-dawn/",
     "name": "Shield of the Dawnflower, Greater",
-    "base": "Shield of the Dawnflower",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shield%20of%20the%20Dawnflower,%20Greater",
+    "source": ["Inner Sea Gods pg. 240"],
     "school": "evocation",
     "descriptors":     [
         "fire",
         "good",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "Sarenrae",
     "levels":     {
         "bard": 6,
         "cleric": 6,
-        "magus": 6
+        "magus": 6,
+        "oracle": 6,
+        "skald": 6,
+        "warpriest": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>You create a disk of sunlight on one arm. Any creature that strikes you with a melee attack deals normal damage, but also takes 1d6 points of damage + 1 point per caster level. Half of this damage is fire damage and half is holy damage (as the spell flame strike). An undead creature or a creature particularly vulnerable to light that hits you instead takes 2d6 points of damage +1 point per caster level. Creatures with reach weapons are not subject to this damage if they attack you. The shield provides illumination equivalent to a daylight spell. You can have only one instance of this spell in effect at a time. It does not stack with similar damaging aura spells such as fire shield or <i>shield of dawn<\/i>.<\/p><\/div>",
+    "text": "You create a disk of sunlight on one arm. Any creature that strikes you with a melee attack deals normal damage, but also takes 1d6 points of damage + 1 point per caster level. Half of this damage is fire damage and half is holy damage (as the spell flame strike). An undead creature or a creature particularly vulnerable to light that hits you instead takes 2d6 points of damage +1 point per caster level. Creatures with reach weapons are not subject to this damage if they attack you. The shield provides illumination equivalent to a <i>daylight <\/i>spell. You can have only one instance of this spell in effect at a time. It does not stack with similar damaging aura spells such as <i>fire shield<\/i> or <i>shield of the Dawnflower <\/i>(<i>The Inner Sea World Guide <\/i>296).",
     "name_zh": "高等晨花之盾",
     "race_zh": "莎伦莱",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "见下文",
     "spellResistance_zh": "无",
-    "text_zh": "<p>你在你的手臂上创造了一面由阳光组成的圆盘。任何使用近战攻击命中你的生物，在造成普通攻击的同时，都会受到1d6加每施法者等级1点伤害。这伤害一半是火焰伤害，另一半则是源于神力（如同焰击术法术）。一名命中你的不死生物或对强光尤为易伤的生物则会受到2d6加每施法者等级1点伤害。使用长武器或远程命中你的生物在攻击你时不会受到该伤害。盾牌可以提供如同一道昼明术（daylight）法术的照明。你同一时间只能维持一个该法术的效果。该法术不会与类似的伤害性灵光类法术效果叠加，比如火盾术（fire shield）或日蚀之盾（shield of the Dawnflower）（内海世界指南第296页）。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你在你的手臂上创造了一面由阳光组成的圆盘。任何使用近战攻击命中你的生物，在造成普通攻击的同时，都会受到1d6加每施法者等级1点伤害。这伤害一半是火焰伤害，另一半则是源于神力（如同焰击术法术）。一名命中你的不死生物或对强光尤为易伤的生物则会受到2d6加每施法者等级1点伤害。使用长武器或远程命中你的生物在攻击你时不会受到该伤害。盾牌可以提供如同一道昼明术（daylight）法术的照明。你同一时间只能维持一个该法术的效果。该法术不会与类似的伤害性灵光类法术效果叠加，比如火盾术（fire shield）或日蚀之盾（shield of the Dawnflower）（内海世界指南第296页）。<\/p>"
 }

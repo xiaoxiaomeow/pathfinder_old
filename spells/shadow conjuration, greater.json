@@ -1,13 +1,29 @@
 {
     "key": "shadow conjuration, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-conjuration/",
     "name": "Shadow Conjuration, Greater",
-    "base": "shadow conjuration",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Conjuration,%20Greater",
+    "source": ["PRPG Core Rulebook pg. 340"],
     "school": "illusion",
-    "subSchool": ["shadow"],
-    "levels": {"sorcerer/wizard": 7},
-    "text": "<p>This spell functions like <i>shadow conjuration<\/i>, except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and non-damaging effects are 60% likely to work against nonbelievers.<\/p><\/div>",
+    "subSchools": ["shadow"],
+    "descriptors": ["shadow"],
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "see text",
+    "effect": "see text",
+    "duration": "see text",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "yes; see text",
+    "text": "This spell functions like <i>shadow conjuration<\/i>, except that it duplicates any sorcerer or wizard conjuration (summoning) or conjuration (creation) spell of 6th level or lower. The illusory conjurations created deal three-fifths (60%) damage to nonbelievers, and nondamaging effects are 60% likely to work against nonbelievers.",
     "name_zh": "高等幽影咒法术",
-    "text_zh": "<p>该法术的功能与幽影咒法术一样，你可模拟术士或法师的咒法系 (创造) 或咒法系 (召唤) 法术，法术环位不超过6环。对于不相信的生物来说，幽影咒法术仅造成3/5 (60%) 的伤害，非伤害性效果有60%的可能对他们起作用。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "见文本",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>该法术的功能与幽影咒法术一样，你可模拟术士或法师的咒法系 (创造) 或咒法系 (召唤) 法术，法术环位不超过6环。对于不相信的生物来说，幽影咒法术仅造成3/5 (60%) 的伤害，非伤害性效果有60%的可能对他们起作用。<\/p>"
 }

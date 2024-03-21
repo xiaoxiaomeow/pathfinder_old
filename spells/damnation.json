@@ -1,29 +1,30 @@
 {
     "key": "damnation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/damnation/",
     "name": "Damnation",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Damnation",
+    "source": ["Horror Adventures pg. 115"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels":     {
         "cleric": 3,
         "inquisitor": 3,
-        "paladin": 3
+        "oracle": 3,
+        "paladin": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a drop of holy water)",
     "area": "30-ft.-radius burst centered on you",
     "duration": "instantaneous",
-    "savingThrow": "Will half",
+    "savingThrow": "Will  half",
     "spellResistance": "yes",
-    "text": "<p>You pass judgment on your enemies' intentions and punish them with holy power. Each creature in the spell's area takes 1d8 points of damage per spell level, determined by the most powerful effect with the evil descriptor either affecting that creature or in its spell repertoire. A caster who prepares spells takes this damage based on the highest-level evil spell he prepared that day, even if he already cast that spell.<\/p><p>A spontaneous spellcaster takes this damage based on the highest-level evil spell she knows, even if she has no remaining spell slots available to cast that spell. A creature with evil spell-like abilities takes this damage based on the highest-level evil spell-like ability it can use. A creature who doesn't cast spells but is the willing beneficiary of evil spells takes this damage based on the highest-level evil spell currently affecting it, including spells that affect an area such as desecrate. A creature subject to the harmful effects of an evil spell are unaffected unless it voluntarily accepted the spell's effects.<\/p>",
+    "text": "You pass judgment on your enemies’ intentions and punish them with holy power. Each creature in the spell’s area takes 1d8 points of damage per spell level, determined by the most powerful effect with the evil descriptor either affecting that creature or in its spell repertoire. A caster who prepares spells takes this damage based on the highest-level evil spell he prepared that day, even if he already cast that spell. A spontaneous spellcaster takes this damage based on the highest-level evil spell she knows, even if she has no remaining spell slots available to cast that spell. A creature with evil spell-like abilities takes this damage based on the highest-level evil spell-like ability it can use. A creature who doesn’t cast spells but is the willing beneficiary of evil spells takes this damage based on the highest-level evil spell currently affecting it, including spells that affect an area such as <i>desecrate<\/i>. A creature subject to the harmful effects of an evil spell are unaffected unless it voluntarily accepted the spell’s effects.",
     "name_zh": "咒诅",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一瓶圣水)",
-    "area_zh": "以你为中心，半径30尺爆发",
+    "area_zh": "以自身为中心, 半径30尺的爆发范围",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你对你敌人的目的进行审判，并用神圣的力量惩罚他们。法术区域内的每个生物受到1d8/每个法术环级点的伤害，取决于影响该生物或位在该生物已知法术中之最强大的拥有邪恶描述符的效果。一位准备施法者受到的伤害基于他那天所准备的最高环的邪恶法术，即使他已经用掉了。一位自发施法者受到的伤害是基于他已知最高环的邪恶法术，即使他已经没有剩余的使用次数可以施展该法术了。一个拥有邪恶类法术能力的生物受到的伤害基于他能使用之最高环的邪恶类法术能力。一位不能施展法术但自愿接受邪恶法术的效益，所受的伤害基于当前影响该生物之最高环的邪恶法术，这包含区域型影响的法术，例如亵渎术(desecrate)。一位受到邪恶法术有害影响的生物并不会被此法术影响，除非他是自愿被该邪恶法术所影响的。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你对你敌人的目的进行审判，并用神圣的力量惩罚他们。法术区域内的每个生物受到1d8/每个法术环级点的伤害，取决于影响该生物或位在该生物已知法术中之最强大的拥有邪恶描述符的效果。一位准备施法者受到的伤害基于他那天所准备的最高环的邪恶法术，即使他已经用掉了。一位自发施法者受到的伤害是基于他已知最高环的邪恶法术，即使他已经没有剩余的使用次数可以施展该法术了。一个拥有邪恶类法术能力的生物受到的伤害基于他能使用之最高环的邪恶类法术能力。一位不能施展法术但自愿接受邪恶法术的效益，所受的伤害基于当前影响该生物之最高环的邪恶法术，这包含区域型影响的法术，例如亵渎术(desecrate)。一位受到邪恶法术有害影响的生物并不会被此法术影响，除非他是自愿被该邪恶法术所影响的。<\/p>"
 }

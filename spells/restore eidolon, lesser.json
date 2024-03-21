@@ -1,12 +1,14 @@
 {
     "key": "restore eidolon, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/restore-eidolon/",
     "name": "Restore Eidolon, Lesser",
-    "base": "restore eidolon",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restore%20Eidolon,%20Lesser",
+    "source": ["Ultimate Magic pg. 235"],
     "school": "conjuration",
-    "subSchool": ["healing"],
-    "levels": {"summoner/unchained summoner": 2},
+    "subSchools": ["healing"],
+    "levels":     {
+        "summoner": 2,
+        "summoner (unchained)": 2
+    },
     "castingTime": "3 rounds",
     "components": "V, S",
     "range": "touch",
@@ -14,7 +16,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions as lesser restoration, except it only affects an eidolon.<\/p><\/div>",
+    "text": "This spell functions as <i>lesser restoration<\/i>, except it only affects an eidolon.",
     "name_zh": "次级幻灵复原术",
     "castingTime_zh": "3轮",
     "components_zh": "语言, 姿势",
@@ -23,6 +25,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同次等复原术 (lesser restoration) 一般作用，不过只影响一个幻灵。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同次等复原术 (lesser restoration) 一般作用，不过只影响一个幻灵。<\/p>"
 }

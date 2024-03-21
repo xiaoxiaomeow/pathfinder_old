@@ -1,16 +1,24 @@
 {
     "key": "bleed",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bleed/",
     "name": "Bleed",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bleed",
+    "source": ["PRPG Core Rulebook pg. 249"],
     "school": "necromancy",
     "levels":     {
-        "cleric/oracle": 0,
+        "arcanist": 0,
+        "cleric": 0,
         "inquisitor": 0,
+        "medium": 0,
+        "mesmerist": 0,
+        "occultist": 0,
+        "oracle": 0,
         "psychic": 0,
         "shaman": 0,
-        "sorcerer/wizard": 0,
-        "witch": 0
+        "sorcerer": 0,
+        "spiritualist": 0,
+        "warpriest": 0,
+        "witch": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +27,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You cause a living creature that is below 0 hit points but stabilized to resume dying. Upon casting this spell, you target a living creature that has -1 or fewer hit points. That creature begins dying, taking 1 point of damage per round. The creature can be stabilized later normally. This spell causes a creature that is dying to take 1 point of damage.<\/p>",
+    "text": "You cause a living creature that is below 0 hit points but stabilized to resume dying. Upon casting this spell, you target a living creature that has –1 or fewer hit points. That creature begins dying, taking 1 point of damage per round. The creature can be stabilized later normally. This spell causes a creature that is dying to take 1 point of damage.",
     "name_zh": "出血术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你致使一名HP低于0点但是已经稳定的生物重新面临死亡。当施放该法术时，你要选择一名HP为-1或更低的活物作为目标。该名生物会开始死亡，每回合受到1点伤害。这名生物能在之后如常稳定伤势。该法术会使濒死的生物受到1点伤害。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你致使一名HP低于0点但是已经稳定的生物重新面临死亡。当施放该法术时，你要选择一名HP为-1或更低的活物作为目标。该名生物会开始死亡，每回合受到1点伤害。这名生物能在之后如常稳定伤势。该法术会使濒死的生物受到1点伤害。<\/p>"
 }

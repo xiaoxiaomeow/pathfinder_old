@@ -1,8 +1,8 @@
 {
     "key": "extreme buoyancy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/extreme-buoyancy/",
     "name": "Extreme Buoyancy",
-    "book": "Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Extreme%20Buoyancy",
+    "source": ["Aquatic Adventures pg. 59"],
     "school": "evocation",
     "levels":     {
         "alchemist": 2,
@@ -22,10 +22,10 @@
     "components": "V, S, M (a bag of air), DF",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>The target's buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are. Among other effects, the target needs to succeed at a DC 20 Swim check to submerge itself and to stay submerged.<\/p>",
+    "text": "The target’s buoyancy becomes and stays swiftly rising, regardless of how dense the target and its gear are. Among other effects, the target needs to succeed at a DC 20 Swim check to submerge itself and to stay submerged (see Buoyancy on page 43).",
     "name_zh": "极限浮力",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，材料（一袋空气），法器",
@@ -34,6 +34,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术目标的浮力水平将会立即达到并保持在快速上升级别，无视目标和它装备的密度。除了上述效果，目标还需要通过一个DC20的游泳检定来保持在沉没状态（参见43页的浮力规则）。<\/p>",
-    "source": "CS-AquaA"
+    "text_zh": "<p>该法术目标的浮力水平将会立即达到并保持在快速上升级别，无视目标和它装备的密度。除了上述效果，目标还需要通过一个DC20的游泳检定来保持在沉没状态（参见43页的浮力规则）。<\/p>"
 }

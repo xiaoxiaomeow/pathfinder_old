@@ -1,24 +1,32 @@
 {
     "key": "hypnotism, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hypnotism/",
     "name": "Hypnotism, Greater",
-    "base": "hypnotism",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hypnotism,%20Greater",
+    "source": ["Blood of the Beast pg. 19"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
+    "race": "Nagaji",
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
         "mesmerist": 4,
         "occultist": 4,
         "psychic": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "skald": 4,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
-    "duration": "10 min.s/level (d)",
-    "text": "<p>This functions as <i>hypnotism<\/i>, except it affects 2 Hit Die of creatures per caster level you have. You can make up to five requests (instead of a single request) to each creature affected by the spell, and the requests can be as long and as complicated as you desire (though they still must be reasonable).<\/p><\/div>",
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "2d4 rounds (D)",
+    "text": "This functions as <i>hypnotism<\/i>, except it affects 2 Hit Die of creatures per caster level you have. You can make up to five requests (instead of a single request) to each creature affected by the spell, and the requests can be as long and as complicated as you desire (though they still must be reasonable).",
     "name_zh": "高等催眠术",
-    "duration_zh": "10分钟/等级",
-    "text_zh": "<p>此法术如同催眠术运作，除了可以影响每施法者等级2HD的生物。你可以对每个被法术影响的生物提出最多5个要求（取代1个要求），并且这些要求可以如你所愿一样足够长和复杂（但是他们仍然需要合理）。<\/p>",
-    "source": "PC-BotB"
+    "race_zh": "Nagaji",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "2d4轮 (可解消)",
+    "text_zh": "<p>此法术如同催眠术运作，除了可以影响每施法者等级2HD的生物。你可以对每个被法术影响的生物提出最多5个要求（取代1个要求），并且这些要求可以如你所愿一样足够长和复杂（但是他们仍然需要合理）。<\/p>"
 }

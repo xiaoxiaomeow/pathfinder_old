@@ -1,16 +1,26 @@
 {
     "key": "plant shape ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plant-shape-i/",
     "name": "Plant Shape II",
-    "base": "plant shape i",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plant%20Shape%20II",
+    "source": ["PRPG Core Rulebook pg. 323"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
-        "sorcerer/wizard": 6
+        "arcanist": 6,
+        "investigator": 6,
+        "sorcerer": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as <i>plant shape I<\/i> except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain energy resistance 20 to those elements. If the creature has vulnerabilty to an element, you gain that vulnerabilty.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level (D)",
+    "text": "This spell functions as <i>plant shape I<\/i> except that it also allows you to assume the form of a Large creature of the plant type. If the creature has immunity or resistance to any elements, you gain resistance 20 to those elements. If the creature has vulnerability to an element, you gain that vulnerability.<br><br><i>Large plant<\/i>: If the form you take is that of a Large plant, you gain a +4 size bonus to your Strength, a +2 size bonus to your Constitution, and a +4 natural armor bonus.",
     "name_zh": "植物形态 II",
-    "text_zh": "<p>该法术的功能如同‘植物形态I’一般，不过它还允许你变为任何植物类型中，大型生物的形态。如果该生物对任何元素免疫或者拥有抗力，那么你对这些元素获得20点抗力。如果该生物对一种元素易伤，那么你也获得该弱点。<\/p><p>大型植物：如果你选择大型植物的形态，你的力量获得+4体型加值，体质获得+2体型加值，以及+4天生护甲加值。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>该法术的功能如同‘植物形态I’一般，不过它还允许你变为任何植物类型中，大型生物的形态。如果该生物对任何元素免疫或者拥有抗力，那么你对这些元素获得20点抗力。如果该生物对一种元素易伤，那么你也获得该弱点。<\/p><p>大型植物：如果你选择大型植物的形态，你的力量获得+4体型加值，体质获得+2增强加值，以及+4天生护甲加值。<\/p>"
 }

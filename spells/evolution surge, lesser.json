@@ -1,19 +1,28 @@
 {
     "key": "evolution surge, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/evolution-surge/",
     "name": "Evolution Surge, Lesser",
-    "base": "evolution surge",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Evolution%20Surge,%20Lesser",
+    "source": ["Advanced Player's Guide pg. 220"],
     "school": "transmutation",
-    "levels": {"summoner/unchained summoner": 2},
-    "text": "<p>This spell causes your eidolon to take on new characteristics.<\/p><p>You can grant the eidolon any evolution whose total cost does not exceed 2 evolution points. You may only grant one evolution with this spell, even if that evolution can be taken multiple times.<\/p><p>You can grant an evolution that allows you to spend additional evolution points to upgrade that evolution. This spell cannot be used to grant an upgrade to an evolution that the eidolon already possesses. The eidolon must meet any prerequisites of the selected evolution. This spell does not allow an eidolon to exceed its maximum number of natural attacks.<\/p><p>",
+    "levels":     {
+        "summoner": 2,
+        "summoner (unchained)": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a chameleon scale)",
+    "range": "touch",
+    "target": "your eidolon",
+    "duration": "1 minute/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "no",
+    "text": "This spell causes your eidolon to take on new characteristics. You can grant the eidolon any evolution whose total cost does not exceed 2 evolution points. You may only grant one evolution with this spell, even if that evolution can be taken multiple times. You can grant an evolution that allows you to spend additional evolution points to upgrade that evolution. This spell cannot be used to grant an upgrade to an evolution that the eidolon already possesses. The eidolon must meet any prerequisites of the selected evolution. This spell does not allow an eidolon to exceed its maximum number of natural attacks.",
     "name_zh": "次级激励进化",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块变色龙的鳞片)",
+    "range_zh": "接触",
     "target_zh": "你的精神向导",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "意志，通过则无效 (无害)",
-    "spellResistance_zh": "否",
-    "text_zh": "<p>此法术能使你的向导获得新的特性。你可以给予向导任何不超过两个进化点的进化。你只能通过此法术给予一项进化，即使那项进化能被多次选择。你可以给予一个需要花费额外进化点来升级获得的进化。这个法术不能用来升级向导己经有的进化。向导必须满足获得该进化的先决条件。此法术不能使一个向导获得超过它最大数量限制的天生武器。<\/p>",
-    "source": "APG"
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术能使你的向导获得新的特性。你可以给予向导任何不超过两个进化点的进化。你只能通过此法术给予一项进化，即使那项进化能被多次选择。你可以给予一个需要花费额外进化点来升级获得的进化。这个法术不能用来升级向导己经有的进化。向导必须满足获得该进化的先决条件。此法术不能使一个向导获得超过它最大数量限制的天生武器。<\/p>"
 }

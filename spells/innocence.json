@@ -1,21 +1,25 @@
 {
     "key": "innocence",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/innocence/",
     "name": "Innocence",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Innocence",
+    "source": ["Advanced Player's Guide pg. 229"],
     "school": "transmutation",
-    "levels": {"bard": 1},
+    "levels":     {
+        "bard": 1,
+        "mesmerist": 1,
+        "skald": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
-    "duration": "1 min./level (d)",
-    "text": "<p>You surround yourself with an aura of innocence and trustworthiness. You gain a +10 competence bonus on Bluff skill checks to convince others of your innocence. They find it difficult to believe you capable of any wrongdoing. This bonus does not apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating secret messages via innuendo, nor does it apply to any use of the skill to convince anyone of anything other than your complete innocence and blamelessness.<\/p>",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "You surround yourself with an aura of innocence and trustworthiness. You gain a +10 competence bonus on Bluff skill checks to convince others of your innocence. They find it difficult to believe you capable of any wrongdoing. This bonus does not apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating secret messages via innuendo, nor does it apply to any use of the skill to convince anyone of anything other than your complete innocence and blamelessness.",
     "name_zh": "无罪术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>你被无辜可信的光环围绕，在试图说服他人你自身无罪时，你的唬骗技能获得+10能力加值。对方很难相信你会做什么坏事。这项加成在其他与唬骗技能相关检定中无效，如虚招、转移对方注意力寻找遮蔽或者通过暗示传递秘密信息，此加成仅能用于说服他人你自身无罪的时候。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你被无辜可信的光环围绕，在试图说服他人你自身无罪时，你的唬骗技能获得+10能力加值。对方很难相信你会做什么坏事。这项加成在其他与唬骗技能相关检定中无效，如虚招、转移对方注意力寻找遮蔽或者通过暗示传递秘密信息，此加成仅能用于说服他人你自身无罪的时候。<\/p>"
 }

@@ -1,14 +1,15 @@
 {
     "key": "purify body",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/purify-body/",
     "name": "Purify Body",
-    "book": "Pathfinder Player Companion: Healer's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Body",
+    "source": ["Healer's Handbook pg. 9"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
         "alchemist": 4,
-        "cleric/oracle": 4,
+        "cleric": 4,
         "medium": 4,
+        "oracle": 4,
         "paladin": 4,
         "psychic": 5,
         "warpriest": 4
@@ -20,7 +21,7 @@
     "duration": "instantaneous and 1 hour or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You align the target's chakras and soothe any unwanted imperfections found within its physical form, leaving its body pristine and without any pain or weakness.<\/p><p>You restore a number of hit points to the creature equal to 3d8 + 1 per caster level (maximum +20). If the healing would cause the target to exceed its maximum hit points, the target immediately gains half the excess healing from this spell as temporary hit points that last for 1 hour. These temporary hit points are lost first when the target takes damage (although some temporary hit points are lost even before these temporary hit points, such as the temporary hit points from the shell of succor oracle mystery or the shell of succor hex granted by the restoration spirit specialization).<\/p><p>This spell also ends any pain effects, removes all physical ability score damage (from Strength, Dexterity, and Constitution), and removes the following conditions: blinded, dazzled, deafened, nauseated, paralyzed, and sickened.<\/p>",
+    "text": "You align the target’s chakras and soothe any unwanted imperfections found within its physical form, leaving its body pristine and without any pain or weakness.<br><br> You restore a number of hit points to the creature equal to 3d8 + 1 per caster level (maximum +20). If the healing would cause the target to exceed its maximum hit points, the target immediately gains half the excess healing from this spell as temporary hit points that last for 1 hour. These temporary hit points are lost first when the target takes damage (although some temporary hit points are lost even before these temporary hit points, such as the temporary hit points from the shell of succor oracle mystery or the shell of succor hex granted by the restoration spirit specialization).<br><br> This spell also ends any pain<sup>UM<\/sup> effects, removes all physical ability score damage (from Strength, Dexterity, and Constitution), and removes the following conditions: blinded, dazzled, deafened, nauseated, paralyzed, and sickened.",
     "name_zh": "净化躯体",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -29,6 +30,5 @@
     "duration_zh": "立即 和 1小时 或 直到消散",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你重列了对象的脉轮，并且减轻了他肉体上的痛苦，使他的身体回归原初，并消除任何痛苦或虚弱状态。<\/p><p>你恢复对象3D8+每施法者等级1点生命值（最大+20）。如果治疗会使目标生命值超过其最大生命值，则目标立刻获得溢出生命值一半的临时生命，持续1小时。这些临时生命会在受到伤害的第一时间失去（尽管有一些临时生命会先于这些临时生命，例如来自 救助密示域的救助之盾 P21，或者来自复原专精魂域的巫术救助之盾P27）。<\/p><p>这个法术同样会结束痛苦UM效果，移除所有肉体属性的属性伤害（基于力量，敏捷和体质）以及移除下列状态：目盲，目眩，耳聋，反胃，麻痹，恶心。\n女巫法术\n最狡猾的女巫们意识到，所谓最好的医疗就是根本不需要医疗。因此，以下的法术是被创造来最小化敌人可以在战斗中造成的伤害(或甚至完全让这种敌人中立)。<\/p>",
-    "source": "PC-HH"
+    "text_zh": "<p>你重列了对象的脉轮，并且减轻了他肉体上的痛苦，使他的身体回归原初，并消除任何痛苦或虚弱状态。<\/p><p>你恢复对象3D8+每施法者等级1点生命值（最大+20）。如果治疗会使目标生命值超过其最大生命值，则目标立刻获得溢出生命值一半的临时生命，持续1小时。这些临时生命会在受到伤害的第一时间失去（尽管有一些临时生命会先于这些临时生命，例如来自 救助密示域的救助之盾 P21，或者来自复原专精魂域的巫术救助之盾P27）。<\/p><p>这个法术同样会结束痛苦UM效果，移除所有肉体属性的属性伤害（基于力量，敏捷和体质）以及移除下列状态：目盲，目眩，耳聋，反胃，麻痹，恶心。<\/p><p>女巫法术<\/p><p>最狡猾的女巫们意识到，所谓最好的医疗就是根本不需要医疗。因此，以下的法术是被创造来最小化敌人可以在战斗中造成的伤害(或甚至完全让这种敌人中立)。<\/p>"
 }

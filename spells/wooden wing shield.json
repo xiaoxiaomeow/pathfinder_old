@@ -1,12 +1,14 @@
 {
     "key": "wooden wing shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wooden-wing-shield/",
     "name": "Wooden Wing Shield",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wooden%20Wing%20Shield",
+    "source": ["Ultimate Wilderness pg. 14"],
     "school": "transmutation",
+    "race": "Gathlain",
     "levels":     {
         "bloodrager": 4,
         "druid": 4,
+        "hunter": 4,
         "magus": 5,
         "shaman": 4,
         "summoner": 4
@@ -16,13 +18,13 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round/level or until you move",
-    "text": "<p>Your wings transmute into a wooden barrier resembling a tower shield to block attacks, granting you a +4 shield bonus to AC. If you move, the spell ends immediately.<\/p>",
+    "text": "Your wings transmute into a wooden barrier resembling a tower shield to block attacks, granting you a +4 shield bonus to AC. If you move, the spell ends immediately.",
     "name_zh": "木翼之盾",
+    "race_zh": "Gathlain",
     "castingTime_zh": "直觉动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自我",
     "duration_zh": "1轮/等级或直到你移动",
-    "text_zh": "<p>你的翅膀会变成一面木制屏障，类似于塔盾（tower shield），可以阻挡攻击，让你在AC上得到+4的盾牌加值。如果你移动，法术马上结束。\n蒿兰人法术（GHORAN SPELL）\n蒿兰人可以使用以下法术。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>你的翅膀会变成一面木制屏障，类似于塔盾（tower shield），可以阻挡攻击，让你在AC上得到+4的盾牌加值。如果你移动，法术马上结束。<\/p><p>蒿兰人法术（GHORAN SPELL）<\/p><p>蒿兰人可以使用以下法术。<\/p>"
 }

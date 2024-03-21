@@ -13,6 +13,36 @@ function connectLevels(content, translation) {
     }
     return str.substring(0, str.length - 2);
 }
+function getTranslatedSource (sp) {
+    let sourceTrans = "";
+    for (key in sp["source"]) {
+        let cur = sp["source"][key].split(" pg.")[0];
+        sourceTrans += (translations.sourceTranslations[cur] ?? cur) + ", ";
+    }
+    return sourceTrans.substring(0, sourceTrans.length - 2);
+}
+function getSimpTranslatedSource (sp) {
+    if (sp["source"].length == 1) {
+        return getTranslatedSource(sp);
+    }
+    for (key in sp["source"]) {
+        let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
+        if (!cur.includes("-")) {
+            return cur + " ...";
+        }
+    }
+    for (key in sp["source"]) {
+        let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
+        if (cur.includes("PCS") || cur.includes("PPC")) {
+            return cur + " ...";
+        }
+    }
+    for (key in sp["source"]) {
+        let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
+        return cur + " ...";
+    }
+    return "";
+}
 function loadSpell(sp, div, containSource = false) {
     div.innerHTML = "";
 
@@ -21,32 +51,25 @@ function loadSpell(sp, div, containSource = false) {
     if (sp["race_zh"] != null) {
         name += " [" + sp["race_zh"] + "]";
     }
-    if (sp["source"] != null) {
-        name += " <sup>" + sp["source"] + "</sup>";
-    }
+    name += " <sup>" + getTranslatedSource(sp) + "</sup>";
     $(div).append($("<h3>" + name + "</h3>"));
 
     // school
     let schoolString = "<b>学派</b>&#12288;&#12288;&#12288;&#12288;" + translations.schoolTranslations[sp["school"]] ?? sp["school"];
-    if (sp["subSchool"] != null) {
-        let connector = sp["subSchoolOperator"] == "and" ? ", " : " 或 ";
-        let subSchoolString = connect(sp["subSchool"], connector, translations.subSchoolTranslations);
+    if (sp["subSchools"] != null) {
+        let connector = sp["subSchoolsOperator"] == "," ? ", " : " 或 ";
+        let subSchoolString = connect(sp["subSchools"], connector, translations.subSchoolsTranslations);
         schoolString += " (" + subSchoolString + ")";
     }
     if (sp["descriptors"] != null) {
-        let connector = sp["descriptorOperator"] == "and" ? ", " : " 或 ";
-        let descriptorsString = connect(sp["descriptors"], connector, translations.descriptorTranslations);
+        let connector = sp["descriptorsOperator"] == "," ? ", " : " 或 ";
+        let descriptorsString = connect(sp["descriptors"], connector, translations.descriptorsTranslations);
         schoolString += " [" + descriptorsString + "]";
     }
     $(div).append($("<div>" + schoolString + "</div>"));
 
     // levels
     if (sp["levels"] != null) $(div).append($("<div><b>环位</b>&#12288;&#12288;&#12288;&#12288;" + connectLevels(sp["levels"], translations.classTranslations) + "</div>"));
-    if (sp["domains"] != null) $(div).append($("<div>&#12288;<b>领域</b>&#12288;&#12288;&#12288;" + connectLevels(sp["domains"], translations.domainTranslations) + "</div>"));
-    if (sp["subdomains"] != null) $(div).append($("<div>&#12288;<b>子域</b>&#12288;&#12288;&#12288;" + connectLevels(sp["subdomains"], translations.subdomainsTranslations) + "</div>"));
-    if (sp["elementalSchools"] != null) $(div).append($("<div>&#12288;<b>元素学派</b>&#12288;" + connectLevels(sp["elementalSchools"], translations.elementalSchoolsTranslations) + "</div>"));
-    if (sp["bloodlines"] != null) $(div).append($("<div>&#12288;<b>血脉</b>&#12288;&#12288;&#12288;" + connectLevels(sp["bloodlines"], translations.bloodlinesTranslations) + "</div>"));
-    if (sp["mysteries"] != null) $(div).append($("<div>&#12288;<b>秘示域</b>&#12288;&#12288;" + connectLevels(sp["mysteries"], translations.mysteriesTranslations) + "</div>"));
 
     // other
     if (sp["castingTime_zh"] != null) $(div).append($("<div><b>施法时间</b>&#12288;&#12288;" + sp["castingTime_zh"] + "</div>"));
@@ -61,7 +84,18 @@ function loadSpell(sp, div, containSource = false) {
     if (sp["spellResistance_zh"] != null) $(div).append($("<div><b>法术抗力</b>&#12288;&#12288;" + sp["spellResistance_zh"] + "</div>"));
 
     // text
-    $(div).append($("<p>" + sp["text_zh"] + "</p>"));
+    if (sp["text_zh"] != null) {
+        $(div).append($("<p>" + sp["text_zh"] + "</p>"));
+    } else {
+        $(div).append($("<p>" + sp["text"] + "</p>"));
+    }
+
+    // source
+    let sourceStr = "";
+    for (key in sp["source"]) {
+        sourceStr += "<br>" + sp["source"][key];
+    }
+    $(div).append($("<p><b>出处</b>" + sourceStr + "</p>"));
 
     // url
     if (sp["url"] != null && containSource) {
@@ -174,6 +208,7 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
         keys = dict;
     }
     for (i in keys) {
+        if (keys[i].includes("see ") || keys[i] == "variable") continue;
         let box = document.createElement("div");
         box.style = "display: flex; ";
         let checkbox = document.createElement("input");
@@ -190,7 +225,7 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
 
 }
 var schoolBoxes = [];
-var subSchoolBoxes = [];
+var subSchoolsBoxes = [];
 var descriptorsBoxes = [];
 var classBoxes = [];
 var levelsBoxes = [];
@@ -211,23 +246,15 @@ function loadTransAndSearchElements () {
         translations = JSON.parse(text);
 
         addBoxes(translations.schoolTranslations, document.getElementById("school"), schoolBoxes, true);
-        addBoxes(translations.subSchoolTranslations, document.getElementById("subSchool"), subSchoolBoxes);
-        addBoxes(translations.descriptorTranslations, document.getElementById("descriptors"), descriptorsBoxes);
-        let singleClassTranslations = {};
-        for (k in translations.classTranslations) {
-            let keys = k.split("/");
-            let values = translations.classTranslations[k].split("/");
-            for (i in keys) {
-                singleClassTranslations[keys[i]] = values[i];
-            }
-        }
-        addBoxes(singleClassTranslations, document.getElementById("clazz"), classBoxes, true, false);
+        addBoxes(translations.subSchoolsTranslations, document.getElementById("subSchools"), subSchoolsBoxes);
+        addBoxes(translations.descriptorsTranslations, document.getElementById("descriptors"), descriptorsBoxes);
+        addBoxes(translations.classTranslations, document.getElementById("clazz"), classBoxes, true, false);
         let levelTranslations = {};
         for (let i = 0; i <= 9; i++) {
             levelTranslations[i] = i + "环";
         }
         addBoxes(levelTranslations, document.getElementById("levels"), levelsBoxes, true, false);
-        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "CS", "PC", "Mod"], document.getElementById("source"), sourceBoxes, true, true, false);
+        addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
     }).catch(error => {
         alert('Error: ' + error.message);
     });
@@ -284,7 +311,7 @@ function search() {
     table.style.whiteSpace = "nowrap";
     let title = document.createElement("tr");
     title.style.textAlign = "center";
-    title.innerHTML = "<th>法术</th><th>学派</th><th>子学派</th><th>描述符</th><th>出处</th><th>环位</th><th>施法时间</th><th>豁免</th><th>法术抗力</th>"
+    title.innerHTML = "<th>法术</th><th>学派</th><th>子学派</th><th>描述符</th><th>出处</th><th>环位</th><th>种族/神祇</th><th>施法时间</th><th>豁免</th><th>法术抗力</th>"
     table.appendChild(title);
     for (i in spellsIndex) {
         let sp = spellsIndex[i];
@@ -298,13 +325,13 @@ function search() {
             school_legal |= schoolBoxes[i].checked && schoolBoxes[i].name == school;
         }
 
-        let subSchool = sp["subSchool"];
+        let subSchool = sp["subSchools"];
         if (subSchool == null) {
             subSchool = "none";
         }
         let subSchool_legal = false;
-        for (i in subSchoolBoxes) {
-            subSchool_legal |= subSchoolBoxes[i].checked && subSchoolBoxes[i].name == subSchool;
+        for (i in subSchoolsBoxes) {
+            subSchool_legal |= subSchoolsBoxes[i].checked && subSchoolsBoxes[i].name == subSchool;
         }
 
         let descriptors = sp["descriptors"];
@@ -337,7 +364,12 @@ function search() {
         let source = sp["source"];
         let source_legal = false;
         for (i in sourceBoxes) {
-            source_legal |= sourceBoxes[i].checked && sourceBoxes[i].name == source.split("-")[0];
+            for (j in source) {
+                console.log(source[j].split(" pg.")[0]);
+                let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
+                console.log(src);
+                source_legal |= sourceBoxes[i].checked && sourceBoxes[i].name == src.split("-")[0];
+            }
         }
 
         let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchool_legal && descriptors_legal && levels_legal && source_legal);
@@ -348,19 +380,20 @@ function search() {
             row.appendChild(nameCell);
             row.appendChild(centerCell(translations.schoolTranslations[sp["school"]] ?? sp["school"]));
             let subSchoolString = null;
-            if (sp["subSchool"] != null) {
-                let connector = sp["subSchoolOperator"] == "and" ? ", " : " 或 ";
-                subSchoolString = connect(sp["subSchool"], connector, translations.subSchoolTranslations);
+            if (sp["subSchools"] != null) {
+                let connector = sp["subSchoolsOperator"] == "," ? ", " : " 或 ";
+                subSchoolString = connect(sp["subSchools"], connector, translations.subSchoolsTranslations);
             }
             row.appendChild(centerCell(subSchoolString));
             let descriptorsString = null;
             if (sp["descriptors"] != null) {
-                let connector = sp["descriptorOperator"] == "and" ? ", " : " 或 ";
-                descriptorsString = connect(sp["descriptors"], connector, translations.descriptorTranslations);
+                let connector = sp["descriptorsOperator"] == "," ? ", " : " 或 ";
+                descriptorsString = connect(sp["descriptors"], connector, translations.descriptorsTranslations);
             }
             row.appendChild(centerCell(descriptorsString));
-            row.appendChild(centerCell(sp["source"]));
+            row.appendChild(centerCell(getSimpTranslatedSource(sp)));
             row.appendChild(centerCell(getLevels(sp)));
+            row.appendChild(centerCell(translations.raceTranslations[sp["race"]]));
             row.appendChild(centerCell(restrict(sp["castingTime_zh"], 4)));
             row.appendChild(centerCell(restrict(sp["savingThrow_zh"], 11)));
             row.appendChild(centerCell(restrict(sp["spellResistance_zh"], 6)));

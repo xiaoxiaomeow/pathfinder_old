@@ -1,8 +1,8 @@
 {
     "key": "thirsting entanglement",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thirsting-entanglement/",
     "name": "Thirsting Entanglement",
-    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thirsting%20Entanglement",
+    "source": ["Legacy of the First World pg. 17"],
     "school": "transmutation",
     "levels":     {
         "druid": 4,
@@ -14,15 +14,16 @@
     "components": "V, S, DF",
     "range": "long (400 ft. + 40 ft./level)",
     "area": "plants in a 40-ft.-radius spread",
-    "duration": "1 min./level (d)",
+    "duration": "1 min./level (D)",
     "savingThrow": "Reflex partial",
     "spellResistance": "no",
-    "text": "<p>This spell functions as entangle, except the plants latch on to targets and drain away their vitality. Any creature that fails a save to avoid becoming entangled or fails a check to break free takes 1d2 points of Constitution damage.<\/p>",
+    "text": "This spell functions as <i>entangle<\/i>, except the plants latch on to targets and drain away their vitality. Any creature that fails a save to avoid becoming entangled or fails a check to break free takes 1d2 points of Constitution damage.",
     "name_zh": "饥渴纠缠",
     "castingTime_zh": "标准动作",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "savingThrow_zh": "反射, 通过则减半",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "半径40尺扩散区域内的植物",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术的功能如同纠缠术，只是植物会抓住目标并榨干他们的生命力。任何在避免被纠缠的豁免或者在挣脱检定中失败的生物会受到1d2点体质伤害。\n三相的魔法MAGIC OF THE THREE \n下列法术和奇物常被玛芙的代理人所使用。玛芙的牧师可以将三重面相和三相之视作为3环法术加入到她的法术列表中。她也能将三相APG作为4环法术加入到她的法术列表中，并将片刻预知作为8环法术加入进去。<\/p>",
-    "source": "PC-LotFW"
+    "text_zh": "<p>这个法术的功能如同纠缠术，只是植物会抓住目标并榨干他们的生命力。任何在避免被纠缠的豁免或者在挣脱检定中失败的生物会受到1d2点体质伤害。<\/p><p>三相的魔法MAGIC OF THE THREE<\/p><p>下列法术和奇物常被玛芙的代理人所使用。玛芙的牧师可以将三重面相和三相之视作为3环法术加入到她的法术列表中。她也能将三相APG作为4环法术加入到她的法术列表中，并将片刻预知作为8环法术加入进去。<\/p>"
 }

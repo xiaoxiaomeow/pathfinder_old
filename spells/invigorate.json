@@ -1,21 +1,25 @@
 {
     "key": "invigorate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invigorate/",
     "name": "Invigorate",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invigorate",
+    "source": ["Advanced Player's Guide pg. 230"],
     "school": "illusion",
-    "descriptors": ["figment"],
+    "subSchools": ["figment"],
     "levels":     {
         "bard": 1,
-        "psychic": 1
+        "medium": 1,
+        "mesmerist": 1,
+        "psychic": 1,
+        "skald": 1
     },
     "castingTime": "1 standard action",
     "components": "V",
     "range": "touch",
-    "duration": "10 min.s/level (d)",
+    "target": "creature touched",
+    "duration": "10 minutes/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell banishes feelings of weariness. For the duration, the subject takes no penalties from the fatigued or exhausted conditions. The effect of <i>invigorate<\/i> is merely an illusion, however, not a substitute for actual rest or respite. When the spell ends, the subject takes 1d6 points of nonlethal damage, along with the return of the original condition(s). A creature can be under the effects of only one <i>invigorate<\/i> spell at a time; if it is cast a second time on that creature, the first immediately ends.<\/p>",
+    "text": "This spell banishes feelings of weariness. For the duration, the subject takes no penalties from the fatigued or exhausted conditions. The effect of <i>invigorate <\/i>is merely an illusion, however, not a substitute for actual rest or respite. When the spell ends, the subject takes 1d6 points of nonlethal damage, along with the return of the original condition(s). A creature can be under the effects of only one <i>invigorate <\/i>spell at a time; if it is cast a second time on that creature, the first effect immediately ends.",
     "name_zh": "战意鼓舞",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
@@ -24,6 +28,5 @@
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术会驱逐厌战情绪。在法术持续时间内，受术者不会由于疲乏或力竭状态而受到惩罚。但是战意鼓舞的效果仅仅是幻觉，不管怎样都无法替代真正的休息。当该法术结束时，受术者受到1d6点非致命伤害，除此以外还会返回原先遭受的状态中。一名生物同一时间只能受到一个战意鼓舞法术影响；如果该生物再次被施放该法术，则原先的效果立刻终止。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>该法术会驱逐厌战情绪。在法术持续时间内，受术者不会由于疲乏或力竭状态而受到惩罚。但是战意鼓舞的效果仅仅是幻觉，不管怎样都无法替代真正的休息。当该法术结束时，受术者受到1d6点非致命伤害，除此以外还会返回原先遭受的状态中。一名生物同一时间只能受到一个战意鼓舞法术影响；如果该生物再次被施放该法术，则原先的效果立刻终止。<\/p>"
 }

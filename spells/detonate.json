@@ -1,27 +1,24 @@
 {
     "key": "detonate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detonate/",
     "name": "Detonate",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detonate",
+    "source": ["Advanced Player's Guide pg. 215"],
     "school": "evocation",
     "descriptors":     [
         "acid",
         "cold",
         "electricity",
-        "or fire"
+        "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "alchemist": 4,
+        "arcanist": 4,
         "bloodrager": 4,
+        "investigator": 4,
         "magus": 4,
-        "sorcerer/wizard": 4
-    },
-    "elementalSchools":     {
-        "air": 4,
-        "earth": 4,
-        "fire": 4,
-        "water": 4
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)",
@@ -30,15 +27,14 @@
     "duration": "1 round, then instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>You flood yourself with a potent surge of elemental energy.<\/p><p>One round after completing the casting of the spell, the energy explodes from your body.<\/p><p>When this spell creates the explosion of energy, choose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures and unattended objects within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a Saving Throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.<\/p>",
+    "text": "You flood yourself with a potent surge of elemental energy. One round after completing the casting of the spell, the energy explodes from your body.<br><br>When this spell creates the explosion of energy, choose one of the following four energy types: acid, cold, electricity, or fire. The explosion inflicts 1d8 points of damage of that energy type per caster level (maximum 10d8) to all creatures and unattended objects within 15 feet, and half that amount to targets past 15 feet but within 30 feet. You automatically take half damage from the explosion, without a saving throw, but any other energy resistance or energy immunity effects you may have in place can prevent or lessen this overflow damage caused by the explosion.",
     "name_zh": "自爆术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (两个分别装有酸液和碱液的溶液瓶，合计价值50GP)",
     "range_zh": "30尺",
     "area_zh": "以你为中心30尺爆发半径",
-    "duration_zh": "1轮，之后立即",
+    "duration_zh": "1轮, 之后立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你用一股激烈的元素能量淹没自己。<\/p><p>在你施放该法术后一轮，法术能量会从你身上爆发。<\/p><p>当你施放这个法术，选择下列能量伤害类型之一作为爆发能量：酸、冷、电或火。<\/p><p>爆炸对15英尺内的所有生物和无人持有的物体造成每施法者等级1d8点伤害 (最高10d8)，15到30尺受到伤害减半。<\/p><p>你本人的伤害自动减半，没有豁免检定，但是如果你有对应种类的能量抗力或能量免疫，你可以减少或免疫这次爆炸的伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你用一股激烈的元素能量淹没自己。<\/p><p>在你施放该法术后一轮，法术能量会从你身上爆发。<\/p><p>当你施放这个法术，选择下列能量伤害类型之一作为爆发能量：酸、冷、电或火。<\/p><p>爆炸对15英尺内的所有生物和无人持有的物体造成每施法者等级1d8点伤害 (最高10d8)，15到30尺受到伤害减半。<\/p><p>你本人的伤害自动减半，没有豁免检定，但是如果你有对应种类的能量抗力或能量免疫，你可以减少或免疫这次爆炸的伤害。<\/p>"
 }

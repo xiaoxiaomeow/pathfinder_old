@@ -1,22 +1,35 @@
 {
     "key": "animate dead, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animate-dead/",
     "name": "Animate Dead, Lesser",
-    "base": "animate dead",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Animate%20Dead,%20Lesser",
+    "source": ["Ultimate Magic pg. 205"],
     "school": "necromancy",
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 2,
+        "arcanist": 3,
+        "cleric": 2,
+        "occultist": 2,
+        "oracle": 2,
         "shaman": 2,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "spiritualist": 2,
+        "warpriest": 2,
+        "wizard": 3
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)",
+    "range": "touch",
     "target": "one corpse",
     "duration": "instantaneous",
-    "text": "<p>This spell functions as <i>animate dead<\/i>, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.<\/p><\/div>",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>animate dead<\/i>, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.",
     "name_zh": "次级操纵尸体",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
     "target_zh": "一具尸体",
     "duration_zh": "立即",
-    "text_zh": "<p>持续时间    立即<\/p><p>这个法术工作方式如同操纵尸体 (Animate Dead)，但是你只能操纵单独一具小型或中型的骷髅或僵尸。<\/p><p>你不能通过本法术唤起变异的骷髅和僵尸。<\/p>",
-    "source": "UM"
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>持续时间    立即<\/p><p>这个法术工作方式如同操纵尸体 (Animate Dead)，但是你只能操纵单独一具小型或中型的骷髅或僵尸。<\/p><p>你不能通过本法术唤起变异的骷髅和僵尸。<\/p>"
 }

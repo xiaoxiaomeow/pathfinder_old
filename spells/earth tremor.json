@@ -1,17 +1,20 @@
 {
     "key": "earth tremor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/earth-tremor/",
     "name": "Earth Tremor",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Earth%20Tremor",
+    "source": ["Ultimate Wilderness pg. 228"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,14 +23,15 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half (see text)",
     "spellResistance": "no",
-    "text": "<p>You strike the ground and unleash a tremor of seismic force, hurling up earth, rock, and sand.<\/p><p>You choose whether the earth tremor affects a 30-foot line, a 20-foot cone-shaped spread, or a 10-foot-radius spread centered on you. the space you occupy is not affected by earth tremor. the area you choose becomes dense rubble that costs 2 squares of movement to enter. Dense rubble adds 5 to the DC of Acrobatics checks and adds 2 to the DC of Stealth checks. Creatures on the ground in the area take 1d4 points of bludgeoning damage per caster level you have (maximum 10d4) or half damage on a successful save. Medium or smaller creatures that fail their saves are knocked prone.<\/p><p>This spell can be cast only on a surface of earth, sand, or stone. It has no effect if you are in a wooden or metal structure or if you are not touching the ground.<\/p>",
+    "text": "You strike the ground and unleash a tremor of seismic force, hurling up earth, rock, and sand. You choose whether the <i>earth tremor<\/i> affects a 30-foot line, a 20-foot cone-shaped spread, or a 10-foot-radius spread centered on you. The space you occupy is not affected by <i>earth tremor<\/i>. The area you choose becomes dense rubble that costs 2 squares of movement to enter. Dense rubble adds 5 to the DC of Acrobatics checks and adds 2 to the DC of Stealth checks. Creatures on the ground in the area take 1d4 points of bludgeoning damage per caster level you have (maximum 10d4) or half damage on a successful save. Medium or smaller creatures that fail their saves are knocked prone.<br><br> This spell can be cast only on a surface of earth, sand, or stone. It has no effect if you are in a wooden or metal structure or if you are not touching the ground. ",
     "name_zh": "地动术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
+    "range_zh": "至多30尺; 见文本",
     "target_zh": "30英尺线形，20英尺锥形扩散，或10英尺半径扩散（见正文）",
+    "area_zh": "30-ft. line, 20-ft. cone-shaped spread, or 10-ft.-radius spread (see text)",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射过则减半（见正文）",
+    "savingThrow_zh": "反射, 通过则减半; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你撞击地面，释放出引发地震的振动，把泥土、岩石和沙子都抛向空中。你可以选择让地震影响30英尺的线形，20英尺的锥形扩散，或者以你为中心的10英尺半径扩散。你所占据的方格不受地动的影响。你选择的区域变成了一个密集碎石堆积的区域，进入需要2方格的移动。密集的碎石堆会给杂技检定的DC增加5，对潜行检定的DC增加2。地面上的生物受到1d4点钝击伤害每施法者等级（最高10d4）或一半伤害，如果豁免成功。中型或更小的生物，豁免失败则会被击倒。\n这个法术只能被释放在泥土、沙子或石头表面上。如果你是在木制或金属结构中，或者你没有接触地面，则法术没有效果。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>你撞击地面，释放出引发地震的振动，把泥土、岩石和沙子都抛向空中。你可以选择让地震影响30英尺的线形，20英尺的锥形扩散，或者以你为中心的10英尺半径扩散。你所占据的方格不受地动的影响。你选择的区域变成了一个密集碎石堆积的区域，进入需要2方格的移动。密集的碎石堆会给杂技检定的DC增加5，对潜行检定的DC增加2。地面上的生物受到1d4点钝击伤害每施法者等级（最高10d4）或一半伤害，如果豁免成功。中型或更小的生物，豁免失败则会被击倒。<\/p><p>这个法术只能被释放在泥土、沙子或石头表面上。如果你是在木制或金属结构中，或者你没有接触地面，则法术没有效果。<\/p>"
 }

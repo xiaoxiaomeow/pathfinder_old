@@ -1,23 +1,26 @@
 {
     "key": "discovery torch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/discovery-torch/",
     "name": "Discovery Torch",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Discovery%20Torch",
+    "source": ["Ultimate Combat pg. 228"],
     "school": "evocation",
     "descriptors": ["light"],
     "levels":     {
         "bard": 2,
         "cleric": 3,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 3,
+        "skald": 2,
+        "warpriest": 3
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "touch",
     "target": "object touched",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>An object you touch emanates a 20-foot radius of bright light. The effect looks like a regular flame but creates no heat and uses no oxygen. Allies within the area of this light gain a +2 enhancement bonus on Perception and Sense Motive checks, as well as on Knowledge checks to identify monsters that are also within the area and their special powers and vulnerabilities.<\/p><p>When an inquisitor casts this spell, the light emanation doubles (40-ft.-radius emanation) while that inquisitor has a judgment active.<\/p><p>Light spells counter and dispel darkness spells of an equal or lower level.<\/p>",
+    "text": "An object you touch emanates a 20-foot radius of bright light. The effect looks like a regular flame but creates no heat and uses no oxygen. Allies within the area of this light gain a +2 enhancement bonus on Perception and Sense Motive checks, as well as on Knowledge checks to identify monsters that are also within the area and their special powers and vulnerabilities.<br><br>When an inquisitor casts this spell, the light emanation doubles (40-ft.-radius emanation) while that inquisitor has a judgment active.<br><br>Light spells counter and dispel darkness spells of an equal or lower level.",
     "name_zh": "探索之触",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
@@ -27,6 +30,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你所接触的物体发出明亮的光芒照亮了施法区域。效果看起来像是普通的火焰，但是不造成热量也不需要氧气。<\/p><p>你的盟友在灯光所及的范围内，在察觉和察言观色检定，以及在了解光照范围内怪物属性、弱点和特殊能力的知识检定上都有+2加值。<\/p><p>当一个审判者使用审判能力时，施放该法术所造成的照明范围翻倍 (40尺半径扩散)。<\/p><p>光亮法术可以解除和反制同级或更低的黑暗法术。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你所接触的物体发出明亮的光芒照亮了施法区域。效果看起来像是普通的火焰，但是不造成热量也不需要氧气。<\/p><p>你的盟友在灯光所及的范围内，在察觉和察言观色检定，以及在了解光照范围内怪物属性、弱点和特殊能力的知识检定上都有+2加值。<\/p><p>当一个审判者使用审判能力时，施放该法术所造成的照明范围翻倍 (40尺半径扩散)。<\/p><p>光亮法术可以解除和反制同级或更低的黑暗法术。<\/p>"
 }

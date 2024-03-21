@@ -1,32 +1,35 @@
 {
     "key": "holy ice",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-ice/",
     "name": "Holy Ice",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Holy%20Ice",
+    "source": ["Ultimate Magic pg. 223"],
     "school": "transmutation",
     "descriptors":     [
         "cold",
         "good",
         "water"
     ],
-    "descriptorOperator": "and",
-    "levels": {"cleric/oracle": 5},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "cleric": 5,
+        "oracle": 5,
+        "warpriest": 5
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a flask of holy water or 5 pounds of powdered silver worth 25 gp)",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "wall of ice or flying ice javelins (see text)",
-    "duration": "1 min./level, instantaneous, or until expended (see text)",
+    "duration": "1 minute/level, instantaneous, or until expended (see text)",
     "savingThrow": "Reflex negates or none (see text)",
     "spellResistance": "yes",
-    "text": "<p>This spell creates a large mass of frozen holy water that can be used for one of two effects.<\/p>",
+    "text": "This spell creates a large mass of frozen holy water that can be used for one of two effects.<br><br><i>Holy Ice Wall<\/i>: This functions like <i>wall of ice <\/i>(hemisphere or plane). Any creature that takes damage from holy water takes 1 point of damage every time it touches or attacks the ice wall with melee attacks; extended contact with the wall (such as standing or walking on it) deals 1d6 points of damage. Even when the ice has been broken through, a sheet of frigid holy air remains. Any creature that steps through it (including the one who broke through the wall) takes 1d6 points of damage + 1 point per caster level (no save); half of this damage is cold damage, half is damage from holy water (creatures unharmed by holy water do not take the damage).<br><br><i>Holy Ice Javelins<\/i>: The spell creates a number of javelins of frozen holy water in your square equal to your caster level (maximum 15), which hurl themselves toward one or more targets that are no more than 10 feet away from each other. You must succeed on attack rolls (one per javelin) to hit the target with the javelin, using your base attack bonus + your Wisdom modifier. The javelins deal 1d6 damage each, plus 1 point of cold damage and 1 point of damage from holy water. The javelins are destroyed by this attack.",
     "name_zh": "神圣冰川",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一份圣水或价值至少25gp的银粉)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "冰墙或冰投枪 (见下文)",
-    "duration_zh": "1分钟/等级，立即，或直至发散 (见下文)",
-    "savingThrow_zh": "反射，通过则无效 或 无 (见下文)",
+    "duration_zh": "1分钟/等级, 立即, 或直至发散; 见文本",
+    "savingThrow_zh": "反射, 通过则无效 或 无; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>这个法术可以用圣水创造出一个巨型的冰块，它可以被用作以下两种用途。\n－圣冰之墙：这种工作方式如同冰墙术 (wall of ice)  (半球形或平面)。任何会被圣水伤害的生物在接触或近战攻击冰墙时都会受到1点伤害，大面积接触墙体则会受到1d6点伤害 (如站立和步行其上)。甚至，当冰块已经被摧毁，一股神圣的寒冷空气仍然会笼罩该区域。任何通过它的生物 (包括那个打破冰墙的人) 都会受到1d6加1点每施法者等级的伤害 (无豁免)；一半伤害是寒冷伤害，另一半则是来自圣水 (不会被圣水伤害的生物不会受到这部分伤害)。\n－圣冰投枪：这个法术会在你的方格中创造数量等于你施法者等级 (最高15) 的由冰冻的圣水制成的投枪，它们会自行射向一个或多个互相之间不超过10尺距离的生物。你必须要进行一次攻击投骰 (每支投枪一次) 才能让投枪命中，使用你的基础攻击加值加上你的感知加值。每支投枪造成1d6伤害，加上1点寒冷伤害和1点圣水伤害。投枪在攻击后即被摧毁。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术可以用圣水创造出一个巨型的冰块，它可以被用作以下两种用途。<\/p><p>－圣冰之墙：这种工作方式如同冰墙术 (wall of ice)  (半球形或平面)。任何会被圣水伤害的生物在接触或近战攻击冰墙时都会受到1点伤害，大面积接触墙体则会受到1d6点伤害 (如站立和步行其上)。甚至，当冰块已经被摧毁，一股神圣的寒冷空气仍然会笼罩该区域。任何通过它的生物 (包括那个打破冰墙的人) 都会受到1d6加1点每施法者等级的伤害 (无豁免)；一半伤害是寒冷伤害，另一半则是来自圣水 (不会被圣水伤害的生物不会受到这部分伤害)。<\/p><p>－圣冰投枪：这个法术会在你的方格中创造数量等于你施法者等级 (最高15) 的由冰冻的圣水制成的投枪，它们会自行射向一个或多个互相之间不超过10尺距离的生物。你必须要进行一次攻击投骰 (每支投枪一次) 才能让投枪命中，使用你的基础攻击加值加上你的感知加值。每支投枪造成1d6伤害，加上1点寒冷伤害和1点圣水伤害。投枪在攻击后即被摧毁。<\/p>"
 }

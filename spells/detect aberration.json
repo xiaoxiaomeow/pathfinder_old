@@ -1,11 +1,12 @@
 {
     "key": "detect aberration",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-aberration/",
     "name": "Detect Aberration",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Aberration",
+    "source": ["Advanced Player's Guide pg. 215"],
     "school": "divination",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "psychic": 1,
         "ranger": 1
     },
@@ -13,18 +14,17 @@
     "components": "V, S",
     "range": "long (400 ft. + 40 ft./level)",
     "area": "cone-shaped emanation",
-    "duration": "concentration, up to 10 min.s/level (d)",
+    "duration": "concentration, up to 10 minutes/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions like <i>detect animals or plants<\/i>, except it detects creatures of the aberration type.<\/p>",
+    "text": "This spell functions like <i>detect animals or plants<\/i>, except it detects creatures of the aberration type.",
     "name_zh": "侦测异怪",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "area_zh": "锥形弥漫范围",
-    "duration_zh": "专注，最高10分钟/等级 (可解消)",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "锥形发散区域",
+    "duration_zh": "专注, 最高10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术的功能如同侦测动植物 (detect animals or plants)，不过它侦测的是异怪类的生物。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>该法术的功能如同侦测动植物 (detect animals or plants)，不过它侦测的是异怪类的生物。<\/p>"
 }

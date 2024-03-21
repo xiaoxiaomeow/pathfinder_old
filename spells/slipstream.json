@@ -1,39 +1,35 @@
 {
     "key": "slipstream",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/slipstream/",
     "name": "Slipstream",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Slipstream",
+    "source": ["Advanced Player's Guide pg. 244"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["water"],
     "levels":     {
+        "arcanist": 2,
         "bloodrager": 2,
         "druid": 2,
+        "hunter": 2,
         "ranger": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
-    "subdomains":     {
-        "oceans": 2,
-        "rivers": 2
-    },
-    "elementalSchools": {"water": 2},
-    "bloodlines": {"aquatic": 2},
-    "mysteries": {"waves": 2},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a few drops of oil and water)",
     "range": "touch",
-    "duration": "10 min.s/level (d)",
+    "target": "creature touched",
+    "duration": "10 minutes/level (D)",
     "savingThrow": "Reflex negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>You create a low-cresting wave of water that carries the target along the surface of water or the ground. When moving across level ground, the target's speed increases by 10 feet.<\/p><p>If going downhill, speed increases by 20 feet instead, but <i>slipstream<\/i> provides no movement bonus when going uphill.<\/p><p>While swimming, the <i>slipstream<\/i> increases the target's swim speed by 20 feet-if the target does not have a swim speed, this spell grants a swim speed of 20 ft.<\/p>",
+    "text": "You create a low-cresting wave of water that carries the target along the surface of water or the ground. When moving across level ground, the target’s speed increases by 10 feet. If going downhill, speed increases by 20 feet instead, but <i>slipstream <\/i>provides no movement bonus when going uphill. While swimming, the <i>slipstream <\/i>increases the target’s swim speed by 20 feet—if the target does not have a swim speed, this spell grants a swim speed of 20 ft.",
     "name_zh": "水流术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一滴水或油)",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
     "duration_zh": "10分钟/等级 (可解消)",
-    "savingThrow_zh": "反射，通过则无效 (无害)",
+    "savingThrow_zh": "反射, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造了一道平缓的水波，能够载着目标生物在水面或地面前进。<\/p><p>当在一个水平地面上移动时，目标速度提高10英尺。下坡时，速度改为提升20英尺，但是当上坡时不会提供任何移动加成。<\/p><p>当游泳时，水流增加目标20英尺游泳速度；如果目标没有游泳速度，这个法术赋予它20英尺游泳速度。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你创造了一道平缓的水波，能够载着目标生物在水面或地面前进。<\/p><p>当在一个水平地面上移动时，目标速度提高10英尺。下坡时，速度改为提升20英尺，但是当上坡时不会提供任何移动加成。<\/p><p>当游泳时，水流增加目标20英尺游泳速度；如果目标没有游泳速度，这个法术赋予它20英尺游泳速度。<\/p>"
 }

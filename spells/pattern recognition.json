@@ -1,22 +1,26 @@
 {
     "key": "pattern recognition",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pattern-recognition/",
     "name": "Pattern Recognition",
-    "book": "Pathfinder Companion: Second Darkness Player's Guide. Copyright 2008, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pattern%20Recognition",
+    "source": ["Second Darkness Player's Guide pg. 27"],
     "school": "transmutation",
-    "levels": {"sorcerer/wizard": 1},
+    "levels":     {
+        "arcanist": 1,
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "wizard": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "10 min./level",
-    "text": "<p>Pattern recognition allows you to notice unusual breaks in the patterns of stones in a wall, boards in a ﬂoor, cracks in glass, trees in a forest, or similar interruptions. You gain an insight bonus equal to one-half your caster level (minimum +1, maximum +10) on Perception checks.<\/p><p>You gain the same bonus on Survival checks made to follow tracks. Pattern recognition does not grant you the Track feat, a rogue's trapﬁnding ability, or the ability to disable traps. You can use it in conjunction with those abilities if you possess them, though.<\/p>",
+    "text": "<i>Pattern recognition<\/i> allows you to notice unusual breaks in the patterns of stones in a wall, boards in a floor, cracks in glass, trees in a forest, or similar interruptions. You gain an insight bonus equal to one-half your caster level (minimum +1, maximum +10) on Search checks.<br><br>You gain the same bonus on Survival checks made to follow tracks. <i>Pattern recognition<\/i> does not grant you the Track feat, a rogue’s trapfinding ability, or the ability to disable traps. You can use it in conjunction with those abilities if you possess them, though.",
     "name_zh": "模式识别",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>模式识别能令你注意到墙在上石制图案、地面木板上不寻常的裂缝，玻璃的裂缝、森林中的树，或类似的破绽处。你在搜索(Search)检定上获得等同于你施法者等级的一半(最小为+1，最大为+10)的内在加值。\n你也在生存检定中用来追寻踪迹上获得相同加值。 模式识别并不会让你获得追踪(Track)专长、盗贼的寻找陷阱职业能力、或解除陷阱的能力。但如果你拥有那些能力，你可以结合使用。\n译注：Second darkness 此时依然使用3R的规则，所以搜索(Search)技能已经与另外两个，合并为察觉技能、追踪专长则已经取消。<\/p>",
-    "source": "PC-SDPG"
+    "text_zh": "<p>模式识别能令你注意到墙在上石制图案、地面木板上不寻常的裂缝，玻璃的裂缝、森林中的树，或类似的破绽处。你在搜索(Search)检定上获得等同于你施法者等级的一半(最小为+1，最大为+10)的内在加值。<\/p><p>你也在生存检定中用来追寻踪迹上获得相同加值。 模式识别并不会让你获得追踪(Track)专长、盗贼的寻找陷阱职业能力、或解除陷阱的能力。但如果你拥有那些能力，你可以结合使用。<\/p><p>译注：Second darkness 此时依然使用3R的规则，所以搜索(Search)技能已经与另外两个，合并为察觉技能、追踪专长则已经取消。<\/p>"
 }

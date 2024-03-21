@@ -1,30 +1,33 @@
 {
     "key": "dimensional blade",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dimensional-blade/",
     "name": "Dimensional Blade",
-    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dimensional%20Blade",
+    "source": ["Melee Tactics Toolbox pg. 30"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 6,
         "bloodrager": 4,
         "cleric": 6,
         "inquisitor": 5,
         "magus": 5,
+        "oracle": 6,
         "paladin": 4,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "warpriest": 6,
+        "wizard": 6
     },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round",
-    "text": "<p>This spell gives you the power to turn one melee weapon in your hand into a two-dimensional object with length and height but no width. A sword becomes a flat image of a sword, a mace is reduced to a flat outline, and so on. The magic of the spell allows the weapon to be wielded by you normally, creating just enough depth to grasp it.<\/p><p>Attacks made with the weapon are melee touch attacks that ignore all armor. Force effects, such as mage armor and shield, still apply their AC against attacks made with a dimensional blade. Bludgeoning weapons used to make attacks with this spell deal half damage and are treated as slashing weapons. If the weapon leaves your hand before the end of the spell, the effect ends.<\/p>",
+    "text": "This spell gives you the power to turn one melee weapon in your hand into a two-dimensional object with length and height but no width. A sword becomes a flat image of a sword, a mace is reduced to a flat outline, and so on. The magic of the spell allows the weapon to be wielded by you normally, creating just enough depth to grasp it.<br><br> Attacks made with the weapon are melee touch attacks that ignore all armor. Force effects, such as <i>mage armor<\/i> and <i>shield<\/i>, still apply their AC against attacks made with a <i>dimensional blade<\/i>. Bludgeoning weapons used to make attacks with this spell deal half damage and are treated as slashing weapons. If the weapon leaves your hand before the end of the spell, the effect ends.",
     "name_zh": "次元剑",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
-    "text_zh": "<p>该法术让你手持的一把武器变成二维物品，只有长度和高度而没有宽度。剑会变成扁剑，锤子会变成扁锤子，这样。法术的力量让这些武器仍然可以被你正常持用，有足够的地方持握。\n使用这种武器进行的近战攻击，是近战接触攻击，能忽视了所有护甲。力场效果，比如法师护甲和护盾术，仍然能够提供AC对抗次元剑。接受次元剑效果的钝击武器只能造成一半伤害并视为挥砍武器。若在法术时间之前武器离手，效果结束。<\/p>",
-    "source": "PC-MeleeTT"
+    "text_zh": "<p>该法术让你手持的一把武器变成二维物品，只有长度和高度而没有宽度。剑会变成扁剑，锤子会变成扁锤子，这样。法术的力量让这些武器仍然可以被你正常持用，有足够的地方持握。<\/p><p>使用这种武器进行的近战攻击，是近战接触攻击，能忽视了所有护甲。力场效果，比如法师护甲和护盾术，仍然能够提供AC对抗次元剑。接受次元剑效果的钝击武器只能造成一半伤害并视为挥砍武器。若在法术时间之前武器离手，效果结束。<\/p>"
 }

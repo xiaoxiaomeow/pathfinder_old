@@ -1,31 +1,33 @@
 {
     "key": "good hope",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/good-hope/",
     "name": "Good Hope",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Good%20Hope",
+    "source": ["PRPG Core Rulebook pg. 291"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
-    "levels": {"bard": 3},
-    "subdomains": {"revelry": 3},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "bard": 3,
+        "skald": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "duration": "1 min./level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.<\/p><p><i>Good hope<\/i> counters and dispels crushing despair.<\/p>",
+    "text": "This spell instills powerful hope in the subjects. Each affected creature gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.<br><br><i>Good hope<\/i> counters and dispels <i>crushing despair<\/i>.",
     "name_zh": "强大希望",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "每等级一个活物，任意两者之间的距离不超过30尺",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>这个法术给受术者持续灌输以强有力的希望。每个受影响生物的豁免检定，攻击检定，属性检定，技能检定以及武器伤害检定均会获得+2士气加值。<\/p><p>强大希望反制和解除‘<a href=\"spell.html?spell=crushing despair\">极度绝望 (crushing despair)<\/a>’。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术给受术者持续灌输以强有力的希望。每个受影响生物的豁免检定，攻击检定，属性检定，技能检定以及武器伤害检定均会获得+2士气加值。<\/p><p>强大希望反制和解除‘<a href=\"spell.html?spell=crushing despair\">极度绝望 (crushing despair)<\/a>’。<\/p>"
 }

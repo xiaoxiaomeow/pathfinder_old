@@ -1,15 +1,32 @@
 {
     "key": "detect law",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-law/",
     "name": "Detect Law",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Law",
+    "source": ["PRPG Core Rulebook pg. 267"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 1,
+        "adept": 1,
+        "cleric": 1,
         "inquisitor": 1,
-        "shaman": 1
+        "oracle": 1,
+        "shaman": 1,
+        "spiritualist": 1,
+        "warpriest": 1
     },
-    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 10 min./level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>detect evil<\/i>, except that it detects the auras of lawful creatures, clerics of lawful deities, lawful spells, and lawful magic items, and you are vulnerable to an overwhelming lawful aura if you are chaotic.",
     "name_zh": "侦测秩序",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测秩序生物、秩序神祇的牧师、秩序法术以及秩序魔法物品的灵光，而且如若你是混乱阵营，则有可能被刺目的秩序灵光所伤。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "60尺",
+    "area_zh": "锥形发散区域",
+    "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测秩序生物、秩序神祇的牧师、秩序法术以及秩序魔法物品的灵光，而且如若你是混乱阵营，则有可能被刺目的秩序灵光所伤。<\/p>"
 }

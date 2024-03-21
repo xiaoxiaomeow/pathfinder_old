@@ -1,13 +1,19 @@
 {
     "key": "mental barrier v",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mental-barrier/",
     "name": "Mental Barrier V",
-    "base": "mental barrier i",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mental%20Barrier%20V",
+    "source": ["Occult Adventures pg. 176"],
     "school": "abjuration",
     "levels": {"psychic": 6},
-    "text": "<p>This functions as <i>mental barrier III<\/i>, but if you are struck by a critical hit or sneak attack, there is a 50% chance that the additional damage is negated (as moderate fortification). This does not stack with similar effects that negate the additional damage from a critical hit or sneak attack. In addition, you are immune to mind thrust I, II, and III, and you take half damage from <i>mind thrust IV, V, and VI<\/i> (reduced to one-quarter on a successful Will save). This spell can be undercast.<\/p><\/div>    <\/div>   <\/div>  <\/div> <\/div>",
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round",
+    "text": "This functions as <i>mental barrier III<\/i>, but if you are struck by a critical hit or sneak attack, there is a 50% chance that the additional damage is negated (as <i>moderate fortification<\/i>). This does not stack with similar effects that negate the additional damage from a critical hit or sneak attack. In addition, you are immune to <i>mind thrust I<\/i>, <i>II<\/i>, and <i>III<\/i>, and you take half damage from <i>mind thrust IV<\/i>, <i>V<\/i>, and <i>VI<\/i> (reduced to one-quarter on a successful Will save). This spell can be undercast.",
     "name_zh": "精神屏障 V",
-    "text_zh": "<p>该法术的功能如同精神屏障 III（Mental Barrier III）一般，不过当你被重击或者偷袭时，有50%的概率免受额外伤害，就如同中级护命（moderate fortification）一般。这不会与其他免受重击或偷袭造成的额外伤害的类似效果叠加。此外，你免疫心灵戳刺 I（mind thrust I）、II和III，心灵戳刺 IV（mind thrust IV）、V和VI对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。<\/p>",
-    "source": "OA"
+    "castingTime_zh": "直觉动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮",
+    "text_zh": "<p>该法术的功能如同精神屏障 III（Mental Barrier III）一般，不过当你被重击或者偷袭时，有50%的概率免受额外伤害，就如同中级护命（moderate fortification）一般。这不会与其他免受重击或偷袭造成的额外伤害的类似效果叠加。此外，你免疫心灵戳刺 I（mind thrust I）、II和III，心灵戳刺 IV（mind thrust IV）、V和VI对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。<\/p>"
 }

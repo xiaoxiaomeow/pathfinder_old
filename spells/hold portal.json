@@ -1,28 +1,33 @@
 {
     "key": "hold portal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hold-portal/",
     "name": "Hold Portal",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hold%20Portal",
+    "source": ["PRPG Core Rulebook pg. 297"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 1,
+        "occultist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
+    "components": "V",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "one portal, up to 20 sq. ft./level",
-    "duration": "1 min./level (d)",
+    "duration": "1 min./level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A <i>knock<\/i> spell or a successful <i>dispel magic<\/i> spell can negate a <i>hold portal<\/i> spell.<\/p><p>Add 5 to the normal DC for forcing open a portal affected by this spell.<\/p>",
+    "text": "This spell magically holds shut a door, gate, window, or shutter of wood, metal, or stone. The magic affects the portal just as if it were securely closed and normally locked. A <i>knock<\/i> spell or a successful <i>dispel magic<\/i> spell can negate a <i>hold portal<\/i> spell.<br><br>Add 5 to the normal DC for forcing open a portal affected by this spell.<h2 class=\"title\">Mythic Hold Portal<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 98<\/i><br>The target portal can be as large as 30 square feet per caster level. A creature attempting to force open the portal must first succeed at a Will save against the spell’s DC. This is a mindaffecting effect. Failure means the creature can’t open the door while the spell is in effect. ",
+    "mythicSource": ["Mythic Adventures pg. 98"],
+    "mythicText": "The target portal can be as large as 30 square feet per caster level. A creature attempting to force open the portal must first succeed at a Will save against the spell’s DC. This is a mindaffecting effect. Failure means the creature can’t open the door while the spell is in effect. ",
     "name_zh": "封门术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个入口，面积至多为每等级20平方尺",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术可以用魔力关一个门、大门、窗户、百叶窗，无论这些入口是由木头、金属还是石头制造都可以。被法术影响的入口就如同紧闭并正常上锁一般。‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’或是成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’可以抵消该法术。<\/p><p>对于被该法术影响的门来说，破门DC要在正常基础上增加5点。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术可以用魔力关一个门、大门、窗户、百叶窗，无论这些入口是由木头、金属还是石头制造都可以。被法术影响的入口就如同紧闭并正常上锁一般。‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’或是成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’可以抵消该法术。<\/p><p>对于被该法术影响的门来说，破门DC要在正常基础上增加5点。<\/p>"
 }

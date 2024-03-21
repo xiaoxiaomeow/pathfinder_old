@@ -1,17 +1,28 @@
 {
     "key": "icy prison, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/icy-prison/",
     "name": "Icy Prison, Mass",
-    "base": "icy prison",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Icy%20Prison,%20Mass",
+    "source": ["Ultimate Magic pg. 224"],
     "school": "evocation",
     "descriptors": ["cold"],
-    "levels": {"sorcerer/wizard": 9},
-    "mysteries": {"winter": 9},
-    "target": "one creature/level, no two of which can be more than 30 ft. apart.",
-    "text": "<p>This spell functions as <i>icy prison<\/i>, except as noted above.<\/p><\/div>",
+    "levels":     {
+        "arcanist": 9,
+        "sorcerer": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 minute/level; see text",
+    "savingThrow": "Reflex partial",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>icy prison<\/i>, except as noted above.",
     "name_zh": "群体冰封之牢",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "目标          每等级一个生物，互相之间不超过30尺",
-    "text_zh": "<p>这个法术工作方式如同冰封之牢 (Icy Prison)，除了上述部分。<\/p>",
-    "source": "UM"
+    "duration_zh": "1分钟/等级; 见文本",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术工作方式如同冰封之牢 (Icy Prison)，除了上述部分。<\/p>"
 }

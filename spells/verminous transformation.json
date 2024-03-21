@@ -1,12 +1,13 @@
 {
     "key": "verminous transformation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/verminous-transformation/",
     "name": "Verminous Transformation",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Verminous%20Transformation",
+    "source": ["Horror Adventures pg. 130"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
+        "investigator": 6,
         "shaman": 7,
         "witch": 7
     },
@@ -14,14 +15,13 @@
     "components": "V, S, M (a handful of bat wings, insects, and rat tails)",
     "range": "personal",
     "target": "you",
-    "duration": "1 round/level (d)",
-    "text": "<p>You partially transform your body into a swarm of bats, insects, rats, and spiders. As a standard action, you can send out a piece of your body to attack up to four Medium or smaller creatures (or one larger creature) within 10 feet of you. The creatures take 4d6 points of damage and must succeed at a Fortitude save or take 1d3 points of Constitution damage and 1d3 points of Strength damage; the ability damage is a poison effect. Abilities that protect against swarm attacks apply to this damage and spell resistance applies.<\/p><p>Additionally, since your body is partially a swarm, you take only half damage from piercing and slashing attacks, unless those attacks would deal full damage or greater to a swarm (for instance, an area piercing attack would deal full damage to you).<\/p><p>You can still be targeted by single-target spells but you gain a +2 circumstance bonus on any saving throws against them.<\/p><p>Casting spells in this form is difficult and any spells with somatic components require a concentration check as if casting defensively; if you are also casting the spell defensively, roll a single concentration check at a –5 penalty.<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "You partially transform your body into a swarm of bats, insects, rats, and spiders. As a standard action, you can send out a piece of your body to attack up to four Medium or smaller creatures (or one larger creature) within 10 feet of you. The creatures take 4d6 points of damage and must succeed at a Fortitude save or take 1d3 points of Constitution damage and 1d3 points of Strength damage; the ability damage is a poison effect. Abilities that protect against swarm attacks apply to this damage and spell resistance applies.<br><br> Additionally, since your body is partially a swarm, you take only half damage from piercing and slashing attacks, unless those attacks would deal full damage or greater to a swarm (for instance, an area piercing attack would deal full damage to you). You can still be targeted by single-target spells but you gain a +2 circumstance bonus on any saving throws against them.<br><br> Casting spells in this form is difficult and any spells with somatic components require a concentration check as if casting defensively; if you are also casting the spell defensively, roll a single concentration check at a –5 penalty.",
     "name_zh": "虫形转化",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一把蝙蝠翼，昆虫和老鼠尾巴)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级 (D) ",
-    "text_zh": "<p>你将你身体部分转变成一群蝙蝠、昆虫与蜘蛛。以一个标准动作，你可以将你身体的一部份送出并攻击在离你10尺范围内，至多四位中体型或小体型的生物(或一位大体形生物)。该生物受到4d6点的伤害，并且必须成功通过一次强认豁免检定，否则受到1d3点体质伤害与1d3点力量伤害；这属性伤害是毒素效果。防止集群攻击的能力也应用于这伤害，法术抗力也应用。\n此外，因你部分的生体变成集群，穿刺与挥砍攻击对你仅造成一半伤害，除非这些攻击将对集群造成完整或更高的伤害(例如一次区域性穿刺攻击将对你造成完整伤害)。你仍可以被目标为单体的法术所指定，但你在对抗这些法术的任何豁免检定上获得+2环境加值。\n在这种型态下施法很困难，任何需要姿势成份的法术需要一次专注检定，如同防御式施法；如果你同时也进行防御式施法，那骰掷一次单一的专注检定成受-5的减值。<\/p>",
-    "source": "HA"
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p>你将你身体部分转变成一群蝙蝠、昆虫与蜘蛛。以一个标准动作，你可以将你身体的一部份送出并攻击在离你10尺范围内，至多四位中体型或小体型的生物(或一位大体形生物)。该生物受到4d6点的伤害，并且必须成功通过一次强认豁免检定，否则受到1d3点体质伤害与1d3点力量伤害；这属性伤害是毒素效果。防止集群攻击的能力也应用于这伤害，法术抗力也应用。<\/p><p>此外，因你部分的生体变成集群，穿刺与挥砍攻击对你仅造成一半伤害，除非这些攻击将对集群造成完整或更高的伤害(例如一次区域性穿刺攻击将对你造成完整伤害)。你仍可以被目标为单体的法术所指定，但你在对抗这些法术的任何豁免检定上获得+2环境加值。<\/p><p>在这种型态下施法很困难，任何需要姿势成份的法术需要一次专注检定，如同防御式施法；如果你同时也进行防御式施法，那骰掷一次单一的专注检定成受-5的减值。<\/p>"
 }

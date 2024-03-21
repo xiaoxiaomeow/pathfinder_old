@@ -1,36 +1,35 @@
 {
     "key": "cause fear",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cause-fear/",
     "name": "Cause Fear",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cause%20Fear",
+    "source": ["PRPG Core Rulebook pg. 252"],
     "school": "necromancy",
     "descriptors":     [
         "emotion",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "adept": 1,
         "antipaladin": 1,
+        "arcanist": 1,
         "bard": 1,
         "bloodrager": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
+        "medium": 1,
+        "mesmerist": 1,
+        "occultist": 1,
+        "oracle": 1,
         "psychic": 1,
         "shaman": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
-    },
-    "domains": {"death": 1},
-    "subdomains":     {
-        "daemon": 1,
-        "fear": 1
-    },
-    "bloodlines": {"abyssal": 1},
-    "mysteries":     {
-        "bones": 1,
-        "dragon": 1,
-        "godclaw": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "spiritualist": 1,
+        "warpriest": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -39,15 +38,14 @@
     "duration": "1d4 rounds or 1 round; see text",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune to this effect. <i>Cause fear<\/i> counters and dispels <i>remove fear<\/i>.<\/p>",
+    "text": "The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more HD are immune to this effect. <i>Cause fear<\/i> counters and dispels <i>remove fear<\/i>.",
     "name_zh": "惊恐术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个HD为5或更低的活物",
-    "duration_zh": "1d4轮 或 1轮; 见后文",
+    "duration_zh": "1d4轮 或 1轮; 见文本",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受影响的生物会变得惊惧。若受术者成功通过意志豁免，则会战栗1轮。HD达到6或更多的生物免疫该效果。惊恐术反制和解除‘<a href=\"spell.html?spell=remove fear\">移除恐惧 (remove fear)<\/a>’。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受影响的生物会变得惊惧。若受术者成功通过意志豁免，则会战栗1轮。HD达到6或更多的生物免疫该效果。惊恐术反制和解除‘<a href=\"spell.html?spell=remove fear\">移除恐惧 (remove fear)<\/a>’。<\/p>"
 }

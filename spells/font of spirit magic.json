@@ -1,10 +1,10 @@
 {
     "key": "font of spirit magic",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/font-of-spirit-magic/",
     "name": "Font of Spirit Magic",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Font%20of%20Spirit%20Magic",
+    "source": ["Advanced Class Guide pg. 182"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels": {"shaman": 3},
     "castingTime": "1 standard action",
     "components": "V, S, M (gold dust worth 50 gp)",
@@ -13,15 +13,14 @@
     "duration": "concentration + 1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>You amplify the effect of magic associated with your spirit and wandering spirit (any spells on the spirit magic spell lists for these spirits). When allies within the area cast these spells, they gain a +2 bonus on caster level checks and concentration checks, as well as to spell DCs. This bonus is a sacred bonus if you are good-aligned or a profane bonus if you are evil-aligned; if you are neither good nor evil, you can choose what type of bonus the spell grants when you cast it.<\/p>",
+    "text": "You amplify the effect of magic associated with your spirit and wandering spirit (any spells on the spirit magic spell lists for these spirits). When allies within the area cast these spells, they gain a +2 bonus on caster level checks and concentration checks, as well as to spell DCs. This bonus is a sacred bonus if you are good-aligned or a profane bonus if you are evil-aligned; if you are neither good nor evil, you can choose what type of bonus the spell grants when you cast it.",
     "name_zh": "魂术圣泉",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（价值50gp的金粉）",
     "range_zh": "30尺",
-    "area_zh": "：以你为中心，半径30尺发散区域",
-    "duration_zh": "专注 + 1轮/等级",
+    "area_zh": "：以你为中心, 半径30尺发散区域",
+    "duration_zh": "专注+1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能够放大和自己的魂域（spirit）与飘渺魂域（wandering spirit）相关魔法效果（这些魂域中的魂术法术列表内的法术）。当盟友在法术区域内施放上述法术时，它们的施法者等级检定、专注检定以及法术DC获得+2加值。若你是善良阵营，这些加值就是神圣加值，若你是邪恶阵营，这些加值就是亵渎加值；若你既不属于善良也不属于邪恶阵营，那么当你施放该法术时，能够选择法术提供的加值类型。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你能够放大和自己的魂域（spirit）与飘渺魂域（wandering spirit）相关魔法效果（这些魂域中的魂术法术列表内的法术）。当盟友在法术区域内施放上述法术时，它们的施法者等级检定、专注检定以及法术DC获得+2加值。若你是善良阵营，这些加值就是神圣加值，若你是邪恶阵营，这些加值就是亵渎加值；若你既不属于善良也不属于邪恶阵营，那么当你施放该法术时，能够选择法术提供的加值类型。<\/p>"
 }

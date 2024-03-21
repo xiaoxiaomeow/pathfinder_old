@@ -1,19 +1,22 @@
 {
     "key": "tar pool",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tar-pool/",
     "name": "Tar Pool",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tar%20Pool",
+    "source": ["Ultimate Combat pg. 246"],
     "school": "transmutation",
     "descriptors":     [
         "earth",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "druid": 6,
-        "sorcerer/wizard": 6,
+        "hunter": 6,
+        "sorcerer": 6,
         "summoner": 5,
-        "unchained summoner": 6
+        "summoner (unchained)": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a ball of hardened tar)",
@@ -22,15 +25,14 @@
     "duration": "1 round/level",
     "savingThrow": "Reflex partial, see text",
     "spellResistance": "no",
-    "text": "<p>You convert a layer of the ground to hot tar. Creatures in the area when the tar appears take 1d6 points of fire damage per two caster levels (maximum of 10d6) and must succeed at a Reflex save or become entangled. An entangled creature receives a saving throw each round to free itself from the tar, and can also attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (DC = spell saving throw DC). It costs 2 squares of movement to enter a square in the area of effect, and the DC of Acrobatics checks within the area of effect increases by 5. The area is difficult terrain. A creature that moves into or starts its turn in the area takes 2d6 points of fire damage and must reattempt this Reflex save or become entangled. A creature that falls prone in the area takes a –4 penalty on its Reflex save against the tar and on Strength and Escape Artist checks to escape the tar.<\/p><p>A creature that escapes the tar still takes fire damage from the tar until the spell ends or that creature spends a full-round action removing the tar. A creature with tar on it takes a –4 penalty on Acrobatics and Fly checks made to fly with wings or similar appendages.<\/p>",
+    "text": "You convert a layer of the ground to hot tar. Creatures in the area when the tar appears take 1d6 points of fire damage per two caster levels (maximum of 10d6) and must succeed at a Reflex save or become entangled. An entangled creature receives a saving throw each round to free itself from the tar, and can also attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (DC = spell saving throw DC). <br><br>It costs 2 squares of movement to enter a square in the area of effect, and the DC of Acrobatics checks within the area of effect increases by 5. The area is difficult terrain. A creature that moves into or starts its turn in the area takes 2d6 points of fire damage and must reattempt this Reflex save or become entangled. A creature that falls prone in the area takes a –4 penalty on its Reflex save against the tar and on Strength and Escape Artist checks to escape the tar.<br><br>A creature that escapes the tar still takes fire damage from the tar until the spell ends or that creature spends a full-round action removing the tar. A creature with tar on it takes a –4 penalty on Acrobatics and Fly checks made to fly with wings or similar appendages.",
     "name_zh": "沥青池",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一颗硬沥青球)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "20尺爆发范围",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺爆发区域",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "反射，通过则部分生效；见下文",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你将地面转化为滚烫的沥青。<\/p><p>范围内的生物会受到每两施法者等级1d6的火焰伤害 (最高10d6)，并且必须通过反射检定否则陷入纠缠状态 (entangled)。<\/p><p>一个被纠缠的生物可以每轮进行一次豁免检定使自己从沥青中脱身，也可以消耗一个移动动作来进行力量检定或脱逃技能检定 (DC为法术豁免DC)。<\/p><p>进入一个受影响的方格需要消费两格的移动能力，并且范围内任何特技动作检定DC都会上升5。<\/p><p>整个区域都被视为困难地形。<\/p><p>任何进入或在范围内开始行动的生物都会受到2d6点火焰伤害，并且必须立刻重新进行反射检定，否则陷入纠缠。<\/p><p>在法术范围内倒地的生物的反射豁免检定和脱逃技能检定有-4罚值。<\/p><p>从沥青中逃出的生物仍然会继续受到火焰伤害，除非法术持续时间结束或使用一个整轮动作清除身上的沥青。<\/p><p>一个身上糊着沥青的生物的特技动作和使用翅膀或者类似构造飞行的飞行技能检定都有-4罚值。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你将地面转化为滚烫的沥青。<\/p><p>范围内的生物会受到每两施法者等级1d6的火焰伤害 (最高10d6)，并且必须通过反射检定否则陷入纠缠状态 (entangled)。<\/p><p>一个被纠缠的生物可以每轮进行一次豁免检定使自己从沥青中脱身，也可以消耗一个移动动作来进行力量检定或脱逃技能检定 (DC为法术豁免DC)。<\/p><p>进入一个受影响的方格需要消费两格的移动能力，并且范围内任何特技动作检定DC都会上升5。<\/p><p>整个区域都被视为困难地形。<\/p><p>任何进入或在范围内开始行动的生物都会受到2d6点火焰伤害，并且必须立刻重新进行反射检定，否则陷入纠缠。<\/p><p>在法术范围内倒地的生物的反射豁免检定和脱逃技能检定有-4罚值。<\/p><p>从沥青中逃出的生物仍然会继续受到火焰伤害，除非法术持续时间结束或使用一个整轮动作清除身上的沥青。<\/p><p>一个身上糊着沥青的生物的特技动作和使用翅膀或者类似构造飞行的飞行技能检定都有-4罚值。<\/p>"
 }

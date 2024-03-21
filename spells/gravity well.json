@@ -1,29 +1,31 @@
 {
     "key": "gravity well",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-well/",
     "name": "Gravity Well",
-    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gravity%20Well",
+    "source": ["Dragonslayer's Handbook pg. 29"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 5,
         "druid": 6,
-        "sorcerer/wizard": 5
+        "hunter": 6,
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a small lead weight)",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "one creature",
-    "duration": "1 round/level (d)",
-    "savingThrow": "Fort negates",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "no",
-    "text": "<p>You bring into being a localized region of increased gravity that crushes a creature to the ground.<\/p><p>Affected targets weigh twice as much as normal, can move only at half speed, jump only half as far as normal, and can lift and carry only half as much as normal. Any flying target has its maneuverability worsened by two steps (from good to poor, for example; minimum clumsy) and plummets to the ground unless it succeeds at a DC 25 Fly check to remain in the air.<\/p><p>Freedom of movement negates the effects of this spell. A creature targeted by gravity well behaves normally in the area of a reverse gravity spell.<\/p>",
+    "text": "You bring into being a localized region of increased gravity that crushes a creature to the ground. Affected targets weigh twice as much as normal, can move only at half speed, jump only half as far as normal, and can lift and carry only half as much as normal. Any flying target has its maneuverability worsened by two steps (from good to poor, for example; minimum clumsy) and plummets to the ground unless it succeeds at a DC 25 Fly check to remain in the air.<br><br> <i>Freedom of movement<\/i> negates the effects of this spell. A creature targeted by <i>gravity well<\/i> behaves normally in the area of a reverse <i>gravity spell<\/i>.",
     "name_zh": "重力井",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一个小铅制砝码）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
-    "duration_zh": "1轮/等级（D）",
-    "savingThrow_zh": "强韧，通过则无效",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你使局部区域的重力增加从而把一个生物压倒在地面上。受到影响的目标的重量变为普通状态的两倍，只能以半速移动，跳跃距离也只有普通状态的一半远。并且能抬起和推动的重量也降为普通状态的一半。任何受到影响的飞行目标的机动性下降两个级别（比如从良好降到笨拙）并且如果不成功通过DC25的飞行检定就会坠落到地面。\n行动自如(Freedom of movement)能将此法术的效果无效化。受到此法术影响的生物在重力井法术生效的区域内能够正常行动。<\/p>",
-    "source": "PC-DragH"
+    "text_zh": "<p>你使局部区域的重力增加从而把一个生物压倒在地面上。受到影响的目标的重量变为普通状态的两倍，只能以半速移动，跳跃距离也只有普通状态的一半远。并且能抬起和推动的重量也降为普通状态的一半。任何受到影响的飞行目标的机动性下降两个级别（比如从良好降到笨拙）并且如果不成功通过DC25的飞行检定就会坠落到地面。<\/p><p>行动自如(Freedom of movement)能将此法术的效果无效化。受到此法术影响的生物在重力井法术生效的区域内能够正常行动。<\/p>"
 }

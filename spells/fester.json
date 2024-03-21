@@ -1,8 +1,8 @@
 {
     "key": "fester",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fester/",
     "name": "Fester",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fester",
+    "source": ["Advanced Player's Guide pg. 221"],
     "school": "necromancy",
     "levels":     {
         "inquisitor": 3,
@@ -11,18 +11,18 @@
     "castingTime": "1 standard action",
     "components": "V, S, M (rotted meat)",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
     "duration": "1 round/level or 1 round; see text",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>Necrotic energy permeates the target, blocking healing abilities. The subject gains Spell Resistance equal to 12 + your caster level against effects that restore hit points or grant temporary hit points. In addition, any healing provided by effects that ignore Spell Resistance (such as fast healing, regeneration, and some spells) are halved. If the target succeeds on a Fortitude Saving Throw, <i>fester<\/i> lasts only a single round.<\/p>",
+    "text": "Necrotic energy permeates the target, blocking healing abilities. The subject gains spell resistance equal to 12 + your caster level against effects that restore hit points or grant temporary hit points. In addition, any healing provided by effects that ignore spell resistance (such as fast healing, regeneration, and some spells) are halved. If the target succeeds on a Fortitude saving throw, <i>fester <\/i>lasts only a single round.",
     "name_zh": "死疽",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (腐败的肉)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
-    "duration_zh": "1轮/等级或 1轮；见下文",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "duration_zh": "1轮/等级 或 1轮; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>死灵能量渗透目标的身体，阻止治疗效果。目标得到12+你的施法者等级的法术抗力，当且仅当它受到回复生命值或增加临时生命值的效果时，该法术抗力将会试图抵抗这些效果。<\/p><p>此外，任何能够忽略法术抗力的治疗效果 (比如快速愈合，再生，和其他一些法术) 的效果将会减半。<\/p><p>如果目标成功的通过了强韧检定，效果仅持续一轮。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>死灵能量渗透目标的身体，阻止治疗效果。目标得到12+你的施法者等级的法术抗力，当且仅当它受到回复生命值或增加临时生命值的效果时，该法术抗力将会试图抵抗这些效果。<\/p><p>此外，任何能够忽略法术抗力的治疗效果 (比如快速愈合，再生，和其他一些法术) 的效果将会减半。<\/p><p>如果目标成功的通过了强韧检定，效果仅持续一轮。<\/p>"
 }

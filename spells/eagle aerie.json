@@ -1,14 +1,16 @@
 {
     "key": "eagle aerie",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eagle-aerie/",
     "name": "Eagle Aerie",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Eagle%20Aerie",
+    "source": ["Ultimate Magic pg. 217"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "descriptors": ["good"],
     "levels":     {
         "druid": 6,
-        "summoner/unchained summoner": 6
+        "hunter": 6,
+        "summoner": 6,
+        "summoner (unchained)": 6
     },
     "castingTime": "1 round",
     "components": "V, S, DF",
@@ -17,15 +19,14 @@
     "duration": "1 hour/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You summon a flight of giant eagles (one per three caster levels, maximum of six) to ferry you and your allies across the skies. The eagles avoid combat if possible but defend themselves if attacked; if the eagles attack, the remaining duration of the spell changes from 1 hour per level to 1 round per level (so if the spell had 5 full hours left, the eagles remain in combat for 5 rounds before the spell ends).<\/p>",
+    "text": "You summon a flight of giant eagles (one per three caster levels, maximum of six; <i>Bestiary <\/i>118) to ferry you and your allies across the skies. The eagles avoid combat if possible but defend themselves if attacked; if the eagles attack, the remaining duration of the spell changes from 1 hour per level to 1 round per level (so if the spell had 5 full hours left, the eagles remain in combat for 5 rounds before the spell ends).",
     "name_zh": "召唤鹰群",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "召唤出的鹰群",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你召唤出飞行的巨鹰 (giant eagles)  (每三个施法者等级1只，最高6只；出自Bestiary 118页) 帮助你与你的盟友飞跃天际。如果可能的话，巨鹰会避免战斗，但是如果受到攻击它们也会保护自己；如果巨鹰进行攻击，那么该法术的持续时间会从每等级1小时降至每等级1轮 (因此如果法术剩余5小时时间，巨鹰会在法术结束前战斗5轮)。\nEar-Piercing Scream<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你召唤出飞行的巨鹰 (giant eagles)  (每三个施法者等级1只，最高6只；出自Bestiary 118页) 帮助你与你的盟友飞跃天际。如果可能的话，巨鹰会避免战斗，但是如果受到攻击它们也会保护自己；如果巨鹰进行攻击，那么该法术的持续时间会从每等级1小时降至每等级1轮 (因此如果法术剩余5小时时间，巨鹰会在法术结束前战斗5轮)。<\/p><p>Ear-Piercing Scream<\/p>"
 }

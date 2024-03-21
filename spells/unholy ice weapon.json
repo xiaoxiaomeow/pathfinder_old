@@ -1,23 +1,35 @@
 {
     "key": "unholy ice weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice-weapon/",
     "name": "Unholy Ice Weapon",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unholy%20Ice%20Weapon",
+    "source": ["Advanced Class Guide pg. 198"],
     "school": "transmutation",
     "descriptors":     [
         "cold",
         "evil",
         "water"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
-    "components": "V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)",
-    "text": "<p>This spell functions as <i>holy ice weapon<\/i>, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a flask of unholy water, or 5 pounds of powdered silver worth 25 gp)",
+    "range": "0 ft.",
+    "effect": "one ice weapon",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>holy ice weapon<\/i>, except the weapon is made of frozen unholy water, and instead deals additional damage to creatures that are susceptible to unholy water.",
     "name_zh": "邪冰武器",
+    "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一瓶邪水，或者价值25gp的5磅重的银粉）",
-    "text_zh": "<p>该法术的功能如同圣冰武器（Holy Ice Weapon）一般，不过武器是由冻结的邪水（unholy water）所构成，而且会对那些会由于邪水而受伤的生物造成额外伤害。<\/p>",
-    "source": "ACG"
+    "range_zh": "0尺",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同圣冰武器（Holy Ice Weapon）一般，不过武器是由冻结的邪水（unholy water）所构成，而且会对那些会由于邪水而受伤的生物造成额外伤害。<\/p>"
 }

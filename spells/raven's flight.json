@@ -1,31 +1,34 @@
 {
     "key": "raven's flight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/raven-s-flight/",
     "name": "Raven's Flight",
-    "book": "Pathfinder Player Companion: Heroes of the Wild © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Raven's%20Flight",
+    "source": ["Heroes of the Wild pg. 31"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "bard": 3,
         "druid": 3,
+        "hunter": 2,
         "inquisitor": 3,
         "magus": 2,
         "ranger": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 3,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 swift action",
     "components": "V",
     "range": "personal",
     "target": "you",
     "duration": "1 round",
-    "text": "<p>You can cast this spell only if it is the first action you take on your turn. In a burst of shadowy feathers, you turn into a Tiny blurred shape reminiscent of a black raven until the beginning of your next turn. You gain a fly speed of 50 feet with good maneuverability, and apply appropriate size modifiers (though your ability scores don't change). Until the beginning of your next turn, you can take only the 5-foot step, move, run, or withdraw actions. If the spell is dispelled while you are still aloft, the power of flight dissipates slowly; you float downward 60 feet on your next turn, then fall any remaining distance.<\/p>",
+    "text": "You can cast this spell only if it is the first action you take on your turn. In a burst of shadowy feathers, you turn into a Tiny blurred shape reminiscent of a black raven until the beginning of your next turn. You gain a fly speed of 50 feet with good maneuverability, and apply appropriate size modifiers (though your ability scores don’t change). Until the beginning of your next turn, you can take only the 5-foot step, move, run, or withdraw actions. If the spell is dispelled while you are still aloft, the power of flight dissipates slowly; you float downward 60 feet on your next turn, then fall any remaining distance.",
     "name_zh": "鹎鶋翱翔",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "个人",
     "duration_zh": "1轮",
-    "text_zh": "<p>你只能使用你回合中第一个进行的行动来施放此法术。阴暗朦胧的黑羽喷散而出，你变化成超小型(Tiny)乌鸦模糊的形貌，直到你下一轮的开始。你获得飞行速度50呎，机动性为良(good)好，并且运用适当的体型调整(尽管你的属性值并不随之改变)。直到你下一轮的开始，你只能进行5呎快步、移动(move)、奔跑或撤退动作。如果法术解除时你仍在空中，飞行的力量会缓慢的消散，在你下一回合中，你会向下漂浮60呎，之后，还有剩余距离的话，则会坠落。<\/p>",
-    "source": "PC-HotW"
+    "text_zh": "<p>你只能使用你回合中第一个进行的行动来施放此法术。阴暗朦胧的黑羽喷散而出，你变化成超小型(Tiny)乌鸦模糊的形貌，直到你下一轮的开始。你获得飞行速度50呎，机动性为良(good)好，并且运用适当的体型调整(尽管你的属性值并不随之改变)。直到你下一轮的开始，你只能进行5呎快步、移动(move)、奔跑或撤退动作。如果法术解除时你仍在空中，飞行的力量会缓慢的消散，在你下一回合中，你会向下漂浮60呎，之后，还有剩余距离的话，则会坠落。<\/p>"
 }

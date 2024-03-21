@@ -1,28 +1,22 @@
 {
     "key": "geyser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/geyser/",
     "name": "Geyser",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Geyser",
+    "source": ["Advanced Player's Guide pg. 225"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors":     [
         "fire",
         "water"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 5,
         "druid": 4,
+        "hunter": 4,
         "magus": 5,
-        "sorcerer/wizard": 5
-    },
-    "elementalSchools":     {
-        "fire": 5,
-        "water": 5
-    },
-    "bloodlines": {"aquatic": 4},
-    "mysteries":     {
-        "volcano": 5,
-        "waves": 5
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a piece of lava rock)",
@@ -31,15 +25,14 @@
     "duration": "concentration + 1 round/level",
     "savingThrow": "Reflex partial (see below)",
     "spellResistance": "no",
-    "text": "<p>You cause a column of boiling water to spring forth from any horizontal surface, knocking over creatures directly over it and exposing nearby creatures to searing droplets as its spray falls back to the ground.<\/p><p>Any creature entering the <i>geyser<\/i>, or occupying the square it appears in, must make a Reflex saving throw to avoid being hurled into the air and then tossed to the ground. If the creature fails its saving throw, it takes 3d6 points of fire damage from the boiling water and also takes falling damage based upon the height of the <i>geyser<\/i> (e.g., if the <i>geyser<\/i> is 50 feet tall, the creature takes 5d6 falling damage), landing prone in a random square adjacent to the <i>geyser<\/i>. A successful saving throw halves the damage and negates the falling damage, and the creature is moved to the closest square adjacent to the <i>geyser<\/i> (Large-sized or larger creatures are moved enough so that they are not on top of the <i>geyser<\/i> but still adjacent to it).<\/p><p>This movement does not provoke attacks of opportunity and does not count toward the creature's normal movement.<\/p><p>In addition, the <i>geyser<\/i> sprays boiling water in a hemispherical emanation around its square. The radius of this emanation is equal to one-half the <i>geyser<\/i>&#8216;s height (e.g., a 50-foot <i>geyser<\/i> has a 25-foot-radius emanation). Any creature within this area, including yourself, takes 1d6 points of fire damage each round as droplets of boiling water cascade on them.<\/p><p>You can choose to make a smaller <i>geyser<\/i> than your level permits if an obstruction prevents it from reaching its full height, or if you simply want to create a spread of boiling rain that's smaller than what would be created by a full-height <i>geyser<\/i> spell.<\/p>",
+    "text": "You cause a column of boiling water to spring forth from any horizontal surface, knocking over creatures directly over it and exposing nearby creatures to searing droplets as its spray falls back to the ground.<br><br>Any creature entering the <i>geyser<\/i>, or occupying the square it appears in, must make a Reflex saving throw to avoid being hurled into the air and then tossed to the ground. If the creature fails its saving throw, it takes 3d6 points of fire damage from the boiling water and also takes falling damage based upon the height of the <i>geyser <\/i>(e.g., if the <i>geyser <\/i>is 50 feet tall, the creature takes 5d6 falling damage), landing prone in a random square adjacent to the <i>geyser<\/i>. A successful saving throw halves the damage and negates the falling damage, and the creature is moved to the closest square adjacent to the <i>geyser <\/i>(Large-sized or larger creatures are moved enough so that they are not on top of the geyser but still adjacent to it). This movement does not provoke attacks of opportunity and does not count toward the creature’s normal movement.<br><br>In addition, the <i>geyser <\/i>sprays boiling water in a hemispherical emanation around its square. The radius of this emanation is equal to one-half the <i>geyser’s <\/i>height (e.g., a 50-foot <i>geyser <\/i>has a 25-foot-radius emanation). Any creature within this area, including yourself, takes 1d6 points of fire damage each round as droplets of boiling water cascade on them.<br><br>You can choose to make a smaller <i>geyser <\/i>than your level permits if an obstruction prevents it from reaching its full height, or if you simply want to create a spread of boiling rain that’s smaller than what would be created by a full-height <i>geyser <\/i>spell.",
     "name_zh": "间歇泉",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一片火山岩)",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "五尺范围，高度每2施法者等级10尺的沸水喷泉",
-    "duration_zh": "专注 + 1轮/等级",
-    "savingThrow_zh": "反射，通过则部分生效 (见下文)",
+    "duration_zh": "专注+1轮/等级",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你使一波沸水从任何水平表面涌出，击飞正上方的生物，并对附近的生物喷洒高温的水滴。<\/p><p>任何生物进入间歇泉范围，或是一开始就占据了间歇泉出现的方格，它必须进行一次反射豁免以避免被击飞到空中然后摔在地上。<\/p><p>如果生物豁免失败，它会因沸水受到3d6点火焰伤害，并且会受到等于间歇泉高度的摔伤伤害 (如果间歇泉高50尺，摔伤5d6)，并落在间歇泉的随机相邻方格内。反射成功可以减半伤害并免于摔伤，但是仍然会移动到间歇泉的相邻方格内。 (大型或更大的生物会被移动到不处于间歇泉正上方但与其相邻的位置)<\/p><p>这个法术造成的移动不会引发藉机攻击，也不计入生物的正常移动。<\/p><p>此外，喷泉会向周围喷洒灼热的水滴，喷洒的范围是半径为喷泉高度二分之一的半球体范围 (例如，一个50尺高的间歇泉喷洒半径为25尺)。任何范围内的生物，包括你自己，都会每轮因沸水而受到1d6点火焰伤害。<\/p><p>如果有一个障碍妨碍间歇泉到达足够的高度，你可以选择创造一个比应有高度更小的间歇泉；又或者你只是想制造一阵沸水之雨，这时你可以选择让喷洒范围缩小，即使喷泉仍然是正常高度。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你使一波沸水从任何水平表面涌出，击飞正上方的生物，并对附近的生物喷洒高温的水滴。<\/p><p>任何生物进入间歇泉范围，或是一开始就占据了间歇泉出现的方格，它必须进行一次反射豁免以避免被击飞到空中然后摔在地上。<\/p><p>如果生物豁免失败，它会因沸水受到3d6点火焰伤害，并且会受到等于间歇泉高度的摔伤伤害 (如果间歇泉高50尺，摔伤5d6)，并落在间歇泉的随机相邻方格内。反射成功可以减半伤害并免于摔伤，但是仍然会移动到间歇泉的相邻方格内。 (大型或更大的生物会被移动到不处于间歇泉正上方但与其相邻的位置)<\/p><p>这个法术造成的移动不会引发藉机攻击，也不计入生物的正常移动。<\/p><p>此外，喷泉会向周围喷洒灼热的水滴，喷洒的范围是半径为喷泉高度二分之一的半球体范围 (例如，一个50尺高的间歇泉喷洒半径为25尺)。任何范围内的生物，包括你自己，都会每轮因沸水而受到1d6点火焰伤害。<\/p><p>如果有一个障碍妨碍间歇泉到达足够的高度，你可以选择创造一个比应有高度更小的间歇泉；又或者你只是想制造一阵沸水之雨，这时你可以选择让喷洒范围缩小，即使喷泉仍然是正常高度。<\/p>"
 }

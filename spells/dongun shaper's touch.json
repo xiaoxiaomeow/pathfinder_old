@@ -1,13 +1,16 @@
 {
     "key": "dongun shaper's touch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shaper-s-touch/",
     "name": "Dongun Shaper's Touch",
-    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dongun%20Shaper's%20Touch",
+    "source": ["Inner Sea Intrigue pg. 59"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 3,
+        "investigator": 2,
         "occultist": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,15 +19,14 @@
     "duration": "concentration, up to 1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create an alchemical residue on your hands that allows you to reshape any non-magical, unattended object with hardness 19 or less as though it were clay. Objects with hardness 9 or less are like soft clay, allowing you to reshape up to 1 cubic foot per round of effort. Objects with hardness 10 or higher are harder to mold, allowing you to reshape up to 1/4 cubic foot per round. The object retains its new shape for 24 hours before returning to its original shape.<\/p><p>This spell does not allow you to reshape a portion of a large object, such as a wall; you must be able to reshape the entire target within the spell's duration or the spell fizzles and has no effect.<\/p>",
+    "text": "You create an alchemical residue on your hands that allows you to reshape any nonmagical, unattended object with hardness 19 or less as though it were clay. Objects with hardness 9 or less are like soft clay, allowing you to reshape up to 1 cubic foot per round of effort. Objects with hardness 10 or higher are harder to mold, allowing you to reshape up to 1/4 cubic foot per round. The object retains its new shape for 24 hours before returning to its original shape. This spell does not allow you to reshape a portion of a large object, such as a wall; you must be able to reshape the entire target within the spell’s duration or the spell fizzles and has no effect.",
     "name_zh": "顿加堡重塑者之触",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
     "range_zh": "接触",
     "target_zh": "接触的物品",
-    "duration_zh": "专注，最长1轮/等级",
+    "duration_zh": "专注, 至多每等级1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你的手中创造出一种化学残留物，它可以让你如粘土一般重塑任何非魔法的、无人看管的物体，其硬度可以达到19或更低。硬度为9或更低的物体就像软粘土，让你每轮能最多重塑1立方英尺的体积。硬度为10或更高的物体更难以成型，让你每轮只能重塑1/4立方英尺的物体。物体能保持新形状24小时，之后就会回到原来的形状。这种法术不允许你重塑一个大型物体的一部分，比如一面墙壁；你必须能够在法术持续时间内重塑整个目标，否则法术会失败且没有效果。<\/p>",
-    "source": "CS-ISI"
+    "text_zh": "<p>你的手中创造出一种化学残留物，它可以让你如粘土一般重塑任何非魔法的、无人看管的物体，其硬度可以达到19或更低。硬度为9或更低的物体就像软粘土，让你每轮能最多重塑1立方英尺的体积。硬度为10或更高的物体更难以成型，让你每轮只能重塑1/4立方英尺的物体。物体能保持新形状24小时，之后就会回到原来的形状。这种法术不允许你重塑一个大型物体的一部分，比如一面墙壁；你必须能够在法术持续时间内重塑整个目标，否则法术会失败且没有效果。<\/p>"
 }

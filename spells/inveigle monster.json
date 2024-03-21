@@ -1,24 +1,35 @@
 {
     "key": "inveigle monster",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inveigle-monster/",
     "name": "Inveigle Monster",
-    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inveigle%20Monster",
+    "source": ["Inner Sea Intrigue pg. 60"],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 7,
         "bard": 5,
         "mesmerist": 5,
         "psychic": 6,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "skald": 5,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
+    "castingTime": "1 standard action",
+    "components": "V, M (a drop of alcohol)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one living creature",
     "duration": "1 day/level",
-    "text": "<p>This spell functions as <i>inveigle person<\/i> except as noted above.<\/p>",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>inveigle person<\/i> except as noted above.",
     "name_zh": "诱骗怪物",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个活物",
     "duration_zh": "1天/等级",
-    "text_zh": "<p>这种法术如同诱骗人类，除了以上所述。<\/p>",
-    "source": "CS-ISI"
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这种法术如同诱骗人类，除了以上所述。<\/p>"
 }

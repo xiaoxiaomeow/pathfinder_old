@@ -1,23 +1,27 @@
 {
     "key": "share skin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/share-skin/",
     "name": "Share Skin",
-    "book": "Pathfinder Player Companion: Blood of the Moon © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Skin",
+    "source": ["Blood of the Moon pg. 11"],
     "school": "necromancy",
+    "race": "werebear",
     "levels":     {
         "druid": 6,
+        "hunter": 6,
         "witch": 6
     },
+    "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "one animal touched",
-    "duration": "1 min./level or until you return to your body",
-    "text": "<p>You can possess an animal's body in a manner that functions like magic jar, except as noted here. Your body vanishes while the effect lasts and you don't require a receptacle.<\/p>",
+    "duration": "1 minute/level or until you return to your body",
+    "text": "You can possess an animal’s body in a manner that functions like <i>magic jar<\/i>, except as noted here. Your body vanishes while the effect lasts and you don’t require a receptacle.",
     "name_zh": "分享皮肤",
+    "race_zh": "werebear",
+    "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "接触",
     "target_zh": "接触的一个动物",
     "duration_zh": "1分钟/等级 或 直到你回到你体内",
-    "text_zh": "<p>除了上文记述的内容之外，你可以如同使用魔魂壶(magic jar) 一般，占据一个动物的身体。当法术效果持续时，你的身体消失，而且你不需要一个容器(Receptacle)。<\/p>",
-    "source": "PC-BotM"
+    "text_zh": "<p>除了上文记述的内容之外，你可以如同使用魔魂壶(magic jar) 一般，占据一个动物的身体。当法术效果持续时，你的身体消失，而且你不需要一个容器(Receptacle)。<\/p>"
 }

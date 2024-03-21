@@ -1,19 +1,23 @@
 {
     "key": "rigor mortis",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rigor-mortis/",
     "name": "Rigor Mortis",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rigor%20Mortis",
+    "source": ["Horror Adventures pg. 126"],
     "school": "transmutation",
     "descriptors": ["pain"],
     "levels":     {
+        "arcanist": 4,
         "cleric": 4,
         "magus": 4,
         "occultist": 4,
+        "oracle": 4,
         "psychic": 4,
         "shaman": 4,
-        "sorcerer/wizard": 4,
+        "sorcerer": 4,
         "spiritualist": 3,
-        "witch": 4
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a knucklebone)",
@@ -22,15 +26,14 @@
     "duration": "instantaneous; see text",
     "savingThrow": "Fortitude partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>The joints of a creature affected by this spell stiffen and swell, making movement painful and slow. The target takes 1d6 points of nonlethal damage per caster level. Additionally, the target takes a –4 penalty to Dexterity and its movement speed decreases by 10 feet; these additional effects last for 1 minute per caster level, though another creature can spend 1 minute and attempt a DC 25 Heal check to end them early. A successful save halves the nonlethal damage and negates the penalty to Dexterity and movement.<\/p>",
+    "text": "The joints of a creature affected by this spell stiffen and swell, making movement painful and slow. The target takes 1d6 points of nonlethal damage per caster level. Additionally, the target takes a –4 penalty to Dexterity and its movement speed decreases by 10 feet; these additional effects last for 1 minute per caster level, though another creature can spend 1 minute and attempt a DC 25 Heal check to end them early. A successful save halves the nonlethal damage and negates the penalty to Dexterity and movement.",
     "name_zh": "尸僵",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一块掌指关节骨)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一位活物",
-    "duration_zh": "立即；见下",
-    "savingThrow_zh": "强韧，通过则部分生效；见下",
+    "duration_zh": "立即; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受此法术影响的生物，其关节变得僵硬且膨胀，让其行动更加的痛苦与缓慢。受术者承受1d6点/施法者等级的非致命伤害。此外，受术者在敏捷属性上承受-4的减值，并且它的移动速度减少10尺；这些额外效果持续1分钟/施法者等级，但另一个生物可以花费1分钟，并且尝试一个DC25的医疗检定来使这些效果提早结束。一次成功的豁免可以使非致命伤害减半，并且使敏捷属性与移动速度的减值无效化。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>受此法术影响的生物，其关节变得僵硬且膨胀，让其行动更加的痛苦与缓慢。受术者承受1d6点/施法者等级的非致命伤害。此外，受术者在敏捷属性上承受-4的减值，并且它的移动速度减少10尺；这些额外效果持续1分钟/施法者等级，但另一个生物可以花费1分钟，并且尝试一个DC25的医疗检定来使这些效果提早结束。一次成功的豁免可以使非致命伤害减半，并且使敏捷属性与移动速度的减值无效化。<\/p>"
 }

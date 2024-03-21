@@ -1,25 +1,33 @@
 {
     "key": "contact entity iv",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contact-entity/",
     "name": "Contact Entity IV",
-    "base": "contact entity",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contact%20Entity%20IV",
+    "source": ["Horror Adventures pg. 114"],
     "school": "evocation",
     "levels":     {
+        "arcanist": 7,
         "cleric": 7,
         "medium": 4,
         "occultist": 6,
+        "oracle": 7,
         "psychic": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
+        "sorcerer": 7,
         "summoner": 6,
-        "witch": 7
+        "summoner (unchained)": 6,
+        "witch": 7,
+        "wizard": 7
     },
+    "castingTime": "1 minute",
+    "components": "V, S, M (see text)",
     "range": "500 miles",
     "target": "up to 20 entities of 24 HD or fewer",
-    "text": "<p>This spell functions like <i>contact entity III<\/i>, except that you can contact creatures from the <i>contact entity IV<\/i> list, and as noted above.<\/p><\/div> <h3>Sidebar: Contact Spells<\/h3><p>There are a few nuances to contact entity spells that bear attention. First, not all eldritch creatures have a correlating contact spell. Contact spells do not replace or supplant planar ally or planar binding, so each contact spell targets an eldritch creature that is not an outsider. Contact entity spells might be useful for contacting other specific types of creatures that aren't listed, at the GM's discretion, and could be adapted for contacting certain outsiders.<\/p><p>It's recommended that contact entity spells should be discovered in actual play rather than granted to PCs through level advancement. They represent ancient knowledge lost to most spellcasting traditions. Usually found in the form of scrolls or spell trigger items, an individual contact entity spell comes predetermined to work with a single kind of entity, with the appropriate material component already expended. Copying a spell to a spellbook from such a scroll doesn't let the caster know how to contact other creatures with the spell. Though the class lists for these spells includes spontaneous casters, this is primarily to let them use the spell if found on a scroll, not to have unfettered access to contact entity as a spell known.<\/p><p>Some contact spells are evil, but many lower level contact spells are not. This is because certain Elder Mythos creatures are distinctly alien but not necessarily morally evil. There is also a rich tradition of spellcasters who traffic with dangerous creatures with the best of intentions; while actively summoning them onto the Material Plane is evil, merely speaking with them is not necessarily so.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Contact Entity I<\/th>    <th class=\"text\">Material Component<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Cerebric fungus<\/td>    <td class=\"text\">Scholarly tome<\/td>   <\/tr>   <tr>    <td class=\"text\">Deep one<\/td>    <td class=\"text\">Engraved stone tablet<\/td>   <\/tr>   <tr>    <td class=\"text\">Grioth<\/td>    <td class=\"text\">An eye struck blind during an eclipse [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Nightgaunt<\/td>    <td class=\"text\">Sculpture of an animal with the face filed smooth [chaotic]<\/td>   <\/tr>   <tr>    <td class=\"text\">Ratling<\/td>    <td class=\"text\">Spell scroll of 1st (level or higher [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Voonith<\/td>    <td class=\"text\">Bundle of cattail plants [chaotic]<\/td>   <\/tr>  <\/tbody>  <thead>   <tr>    <th class=\"text\">Contact Entity II<\/th>    <th class=\"text\">Material Component<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Colour out of space<\/td>    <td class=\"text\">Shard of a meteorite<\/td>   <\/tr>   <tr>    <td class=\"text\">Denizen of Leng<\/td>    <td class=\"text\">Painting of a memory from a dream worth 1,000 gp<\/td>   <\/tr>   <tr>    <td class=\"text\">Elder thing<\/td>    <td class=\"text\">Magic item or piece of technology worth 2,000 gp<\/td>   <\/tr>   <tr>    <td class=\"text\">Hound of Tindalos<\/td>    <td class=\"text\">Exotic, trance-inducing elixir worth 500 gp<\/td>   <\/tr>   <tr>    <td class=\"text\">Leng ghoul<\/td>    <td class=\"text\">Skull of a dead scholar<\/td>   <\/tr>   <tr>    <td class=\"text\">Mi-go<\/td>    <td class=\"text\">Fresh brains of an intelligent creature [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Neh-thalggu<\/td>    <td class=\"text\">Vial of cerebrospinal fluid from a creature that still lives [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Rhu-chalik<\/td>    <td class=\"text\">Brain of a creature that had 16 Int or higher [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Shantak<\/td>    <td class=\"text\">A shard of rock harvested from another world [chaotic]<\/td>   <\/tr>   <tr>    <td class=\"text\">Yangethe<\/td>    <td class=\"text\">Scroll of an emotion spell of 4th level or higher<\/td>   <\/tr>  <\/tbody>  <thead>   <tr>    <th class=\"text\">Contact Entity III<\/th>    <th class=\"text\">Material Component<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Aatheriexa<\/td>    <td class=\"text\">A swatch of flesh recently damaged by magic [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Deep one elder<\/td>    <td class=\"text\">Engraved stone tablet<\/td>   <\/tr>   <tr>    <td class=\"text\">Flying polyp<\/td>    <td class=\"text\">Eerie music played upon a wind instrument carved from the bone of a living creature [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Gug<\/td>    <td class=\"text\">Fresh flesh of a creature of 5 HD or more [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Leng spider<\/td>    <td class=\"text\">Head of a denizen of Leng [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Moon-beast<\/td>    <td class=\"text\">Intelligent humanoid sacrificed while dreaming [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Spawn of Yog-Sothoth<\/td>    <td class=\"text\">All blood drained from a sacrificed intelligent humanoid [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Wendigo<\/td>    <td class=\"text\">Must devour the flesh of sentient creatures with 8 HD total [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Yithian<\/td>    <td class=\"text\">Quartz geode<\/td>   <\/tr>  <\/tbody>  <thead>   <tr>    <th class=\"text\">Contact Entity IV<\/th>    <th class=\"text\">Material Component<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">Bhole<\/td>    <td class=\"text\">Jar of slime created by a bhole's breath weapon<\/td>   <\/tr>   <tr>    <td class=\"text\">Bodythief<\/td>    <td class=\"text\">Chunks of brain from a lobotomy subject [evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Neothelid<\/td>    <td class=\"text\">Ruby worth 3,000 gp [chaotic, evil]<\/td>   <\/tr>   <tr>    <td class=\"text\">Shoggoth<\/td>    <td class=\"text\">Art object worth 3,000 gp recovered from the bottom of a sea [chaotic]<\/td>   <\/tr>   <tr>    <td class=\"text\">Star-spawn of Cthulhu<\/td>    <td class=\"text\">Sacrificed humanoid of 10 HD or more [chaotic, evil]<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "duration": "instantaneous",
+    "text": "This spell functions like <i?=>contact entity III<\/i>, except that you can contact creatures from the <i>contact entity IV<\/i> list, and as noted above.",
     "name_zh": "联系怪诞存在 IV",
+    "castingTime_zh": "1分钟",
+    "range_zh": "500里",
     "target_zh": "至多20名24HD或更低的存在 ",
-    "text_zh": "<p>此法术如同联系怪诞存在 I(contact entity III)般作用，除了你可以接触联系怪诞存在 IV列表中的生物，如上图所述。<\/p>",
-    "source": "HA"
+    "duration_zh": "立即",
+    "text_zh": "<p>此法术如同联系怪诞存在 I(contact entity III)般作用，除了你可以接触联系怪诞存在 IV列表中的生物，如上图所述。<\/p>"
 }

@@ -1,19 +1,26 @@
 {
     "key": "minor phantom object",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/minor-phantom-object/",
     "name": "Minor Phantom Object",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Minor%20Phantom%20Object",
+    "source": ["Advanced Race Guide pg. 39"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors": ["shadow"],
-    "levels": {"sorcerer/wizard": 4},
+    "race": "gnome",
+    "levels":     {
+        "arcanist": 4,
+        "mesmerist": 4,
+        "psychic": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
+    },
     "castingTime": "1 minute",
     "components": "V, S",
     "range": "0 ft.",
-    "effect": "illusory, unattended, non-magical object of nonliving plant matter, up to 1 cu. ft./level",
-    "duration": "10 min.s/level (d)",
-    "savingThrow": "Will negates",
-    "text": "<p>This spell functions as the minor creation spell, except the object created is a semi-real illusion. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Spellcraft check in place of any Craft check required to make a complex item.<\/p>",
+    "effect": "illusory, unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level",
+    "duration": "10 minutes/level (D)",
+    "text": "This spell functions as the <i>minor creation <\/i>spell, except the object created is a semi-real illusion. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Spellcraft check in place of any Craft check required to make a complex item.",
     "name_zh": "弱效虚假物品",
     "race_zh": "侏儒",
     "castingTime_zh": "1分钟",
@@ -23,6 +30,5 @@
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术如同“弱效造物术 (Minor Creation) ”一般作用，不过创造出的物品为半真实的虚假幻觉。任何与物品进行互动的生物需要进行一次意志豁免，成功的豁免会造成虚假物品的消失。侏儒施放该法术时可以进行一次法术辨识检定以取代任何需要作出复杂物品所需的工艺检定。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>该法术如同“弱效造物术 (Minor Creation) ”一般作用，不过创造出的物品为半真实的虚假幻觉。任何与物品进行互动的生物需要进行一次意志豁免，成功的豁免会造成虚假物品的消失。侏儒施放该法术时可以进行一次法术辨识检定以取代任何需要作出复杂物品所需的工艺检定。<\/p>"
 }

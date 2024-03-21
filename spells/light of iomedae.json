@@ -1,33 +1,35 @@
 {
     "key": "light of iomedae",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-illumination/",
     "name": "Light of Iomedae",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Light%20of%20Iomedae",
+    "source": ["Inner Sea Magic pg. 58"],
     "school": "conjuration",
     "descriptors":     [
         "good",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 3,
         "inquisitor": 3,
-        "paladin": 2
+        "oracle": 3,
+        "paladin": 2,
+        "warpriest": 3
     },
     "castingTime": "1 minute",
     "components": "V, S, DF",
-    "range": "medium (100 ft. +5 ft./level)",
-    "duration": "1 min./level",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 minute/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>With this spell, you create shafts of blue light that illuminate all undead creatures in the area. Affected undead take a –20 penalty on all Stealth checks. Invisible undead are not made visible by this effect, but the light does make it easy to pinpoint the exact squares in which such undead are located (they still retain the 50% miss chance granted by invisibility). This spell increases light levels by one step in a 5-foot radius around an affected undead creature. Once an undead is affected, it remains illuminated as long as remains within the spell's range, even if it leaves the spell's original radius, until the spell's duration ends.<\/p><p>Affected undead must also make a Will save when they are first illuminated. Those who fail this save lose all benefits of channel resistance and take a –2 penalty on all saving throws made against positive energy effects.<\/p>",
+    "text": "With this spell, you create shafts of blue light that illuminate all undead creatures in the area. Affected undead take a –20 penalty on all Stealth checks. Invisible undead are not made visible by this effect, but the light does make it easy to pinpoint the exact squares in which such undead are located (they still retain the 50% miss chance granted by invisibility). The<i> light of Iomedae <\/i>increases light levels by one step in a 5-foot radius around an affected undead creature. Once an undead is affected, it remains illuminated as long as remains within the spell’s range, even if it leaves the spell’s original radius, until the spell’s duration ends.<br><br>Affected undead must also make a Will save when they are first illuminated by the light of Iomedae. Those who fail this save lose all benefits of channel resistance and take a –2 penalty on all saving throws made against positive energy effects.",
     "name_zh": "艾奥梅黛之光",
     "castingTime_zh": "1分钟",
     "components_zh": "语言，姿势，法器",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "半径10尺扩散范围内的所有不死生物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>通过该法术，你会创造一束蓝色的光芒，它会照亮所有区域内的不死生物。受影响的不死生物的潜行检定受到-20减值。隐形的不死生物并不会由该效果变得可见，但是光芒会使得它更容易被定位，让人了解到这些不死生物处于哪个确切的方格（它们仍旧保留隐形赋予的50%失手率）。艾奥梅黛之光会使得受影响的不死生物周围5尺半径范围的光照等级提高1级。一旦不死生物受到影响，那么只要它仍旧处于法术范围内，就会持续发光，即便它离开了法术原本影响的区域也是如此，直至法术的持续时间结束为止。\n受影响的不死生物在由于艾奥梅黛之光而开始发光时可以进行一次意志豁免。豁免失败的不死生物会失去所有引导抗力所带来的好处，并且在对抗正能量效果时的所有豁免中受到-2减值。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>通过该法术，你会创造一束蓝色的光芒，它会照亮所有区域内的不死生物。受影响的不死生物的潜行检定受到-20减值。隐形的不死生物并不会由该效果变得可见，但是光芒会使得它更容易被定位，让人了解到这些不死生物处于哪个确切的方格（它们仍旧保留隐形赋予的50%失手率）。艾奥梅黛之光会使得受影响的不死生物周围5尺半径范围的光照等级提高1级。一旦不死生物受到影响，那么只要它仍旧处于法术范围内，就会持续发光，即便它离开了法术原本影响的区域也是如此，直至法术的持续时间结束为止。<\/p><p>受影响的不死生物在由于艾奥梅黛之光而开始发光时可以进行一次意志豁免。豁免失败的不死生物会失去所有引导抗力所带来的好处，并且在对抗正能量效果时的所有豁免中受到-2减值。<\/p>"
 }

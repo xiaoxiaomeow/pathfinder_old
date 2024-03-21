@@ -1,18 +1,29 @@
 {
     "key": "invigorate, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invigorate/",
     "name": "Invigorate, Mass",
-    "base": "invigorate",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invigorate,%20Mass",
+    "source": ["Advanced Player's Guide pg. 230"],
     "school": "illusion",
-    "descriptors": ["figment"],
+    "subSchools": ["figment"],
     "levels":     {
         "bard": 3,
-        "psychic": 4
+        "mesmerist": 3,
+        "psychic": 4,
+        "skald": 3
     },
-    "text": "<p>This spell work as <i>invigorate<\/i>, except it affects multiple creatures.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "touch",
+    "duration": "10 minutes/level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell works as <i>invigorate<\/i>, except that it affects multiple creatures.",
     "name_zh": "群体战意鼓舞",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
     "target_zh": "接触到的生物，最多每等级一名",
-    "text_zh": "<p>该法术如同战意鼓舞 (invigorate) 一般运作，不过可以影响复数生物。<\/p>",
-    "source": "APG"
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术如同战意鼓舞 (invigorate) 一般运作，不过可以影响复数生物。<\/p>"
 }

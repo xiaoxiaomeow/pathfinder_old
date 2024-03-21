@@ -1,28 +1,24 @@
 {
     "key": "dragon's breath",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dragon-s-breath/",
     "name": "Dragon's Breath",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dragon's%20Breath",
+    "source": ["Advanced Player's Guide pg. 217"],
     "school": "evocation",
     "descriptors":     [
         "acid",
         "cold",
         "electricity",
-        "or fire"
+        "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "alchemist": 4,
+        "arcanist": 4,
         "bloodrager": 4,
+        "investigator": 4,
         "magus": 4,
-        "sorcerer/wizard": 4
-    },
-    "subdomains": {"dragon": 4},
-    "elementalSchools":     {
-        "air": 4,
-        "earth": 4,
-        "fire": 4,
-        "water": 4
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a dragon scale)",
@@ -31,15 +27,16 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>You breathe out a blast of energy. Creatures in the affected area take 1d6 points of energy damage per caster level (maximum of 12d6). A successful Reflex save results in half damage. The spell's effect and energy type depend on the type of dragon scale used:<\/p><ul>  <li><i>Black dragon<\/i>: 60-foot line of acid.<\/li>  <li><i>Blue or bronze dragon<\/i>: 60-foot line of electricity.<\/li>  <li><i>Green dragon<\/i>: 30-foot cone of acid.<\/li>  <li><i>Gold or red dragon<\/i>: 30-foot cone of fire.<\/li>  <li><i>Silver or white dragon<\/i>: 30-foot cone of cold.<\/li>  <li><i>Brass dragon<\/i>: 60-foot line of fire.<\/li>  <li><i>Copper dragon<\/i>: 60-foot line of acid.<\/li> <\/ul>",
-    "mythicText": "The spell's duration changes to 1 minute/level or until discharged. <br>You can use the breath weapon up to three times during this duration. On the round you cast the spell, using the breath weapon is a free action; later uses require a standard action. You must wait 1d4 rounds between each use of the breath weapon. All uses for A particular casting have the same range, area, and energy type. <br>You can have only one dragon's breath spell in effect at a time; casting a new one ends the previous one. ",
+    "text": "You breathe out a blast of energy. Creatures in the affected area take 1d6 points of energy damage per caster level (maximum of 12d6). A successful Reflex save results in half damage. The spell’s effect and energy type depend on the type of dragon scale used:<br><br><i>Black dragon<\/i>: 60-foot line of acid.<br> <i>Blue or bronze dragon<\/i>: 60-foot line of electricity.<br> <i>Green dragon<\/i>: 30-foot cone of acid.<br> <i>Gold or red dragon<\/i>: 30-foot cone of fire.<br> <i>Silver or white dragon<\/i>: 30-foot cone of cold.<br> <i>Brass dragon<\/i>: 60-foot line of fire.<br> <i>Copper dragon<\/i>: 60-foot line of acid.<h2 class=\"title\">Mythic Dragon's Breath<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 92<\/i><br>The spell’s duration changes to 1 minute/level or until discharged. You can use the breath weapon up to three times during this duration. On the round you cast the spell, using the breath weapon is a free action; later uses require a standard action. You must wait 1d4 rounds between each use of the breath weapon. All uses for a particular casting have the same range, area, and energy type. You can have only one <i>dragon’s breath<\/i> spell in effect at a time; casting a new one ends the previous one.",
+    "mythicSource": ["Mythic Adventures pg. 92"],
+    "mythicText": "The spell’s duration changes to 1 minute/level or until discharged. You can use the breath weapon up to three times during this duration. On the round you cast the spell, using the breath weapon is a free action; later uses require a standard action. You must wait 1d4 rounds between each use of the breath weapon. All uses for a particular casting have the same range, area, and energy type. You can have only one <i>dragon’s breath<\/i> spell in effect at a time; casting a new one ends the previous one.",
     "name_zh": "龙息术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一片龙鳞)",
+    "range_zh": "30尺 或 60尺",
     "area_zh": "锥形爆发或线形",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你吐出一道爆炸性的能量流，使区域内的生物受到每施法者等级1d6点伤害 (最高12d6)。成功的反射检定可以减半伤害。<\/p><p>伤害区域和类型取决于你施法材料中使用的龙鳞种类：\n－黑龙：60尺线形酸液\n－蓝或青铜龙：60尺线形电击\n－绿龙：30尺锥形酸液\n－金或红龙：30尺锥形火焰\n－银或白龙：30尺锥形寒冷\n－黄铜龙：60尺线形火焰\n－红铜龙：60尺线形酸液<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你吐出一道爆炸性的能量流，使区域内的生物受到每施法者等级1d6点伤害 (最高12d6)。成功的反射检定可以减半伤害。<\/p><p>伤害区域和类型取决于你施法材料中使用的龙鳞种类：<\/p><p>－黑龙：60尺线形酸液<\/p><p>－蓝或青铜龙：60尺线形电击<\/p><p>－绿龙：30尺锥形酸液<\/p><p>－金或红龙：30尺锥形火焰<\/p><p>－银或白龙：30尺锥形寒冷<\/p><p>－黄铜龙：60尺线形火焰<\/p><p>－红铜龙：60尺线形酸液<\/p>"
 }

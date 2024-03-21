@@ -1,27 +1,31 @@
 {
     "key": "dungeonsight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dungeonsight/",
     "name": "Dungeonsight",
-    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dungeonsight",
+    "source": ["Dragonslayer's Handbook pg. 28"],
     "school": "divination",
     "levels":     {
+        "arcanist": 5,
         "bard": 4,
         "cleric": 5,
         "inquisitor": 4,
-        "sorcerer/wizard": 5
+        "oracle": 5,
+        "skald": 4,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a small glass orb worth 150 gp)",
     "range": "personal",
     "area": "60-ft.-radius emanation",
     "duration": "instantaneous",
-    "text": "<p>You receive a clear and memorable view of the layout of chambers, barriers, and connecting passages within the area of effect.<\/p><p>This spell does not reveal the contents or inhabitants of any of these locations, only the basic architecture of the space. For example, a staircase leading up to a pair of doors would be apparent, but the iron golems guarding the doors would not. This spell does identify the locations of secret doors and hidden passages but gives no clue as to the means of opening or accessing them.<\/p>",
+    "text": "You receive a clear and memorable view of the layout of chambers, barriers, and connecting passages within the area of effect. This spell does not reveal the contents or inhabitants of any of these locations, only the basic architecture of the space. For example, a staircase leading up to a pair of doors would be apparent, but the iron golems guarding the doors would not. This spell does identify the locations of secret doors and hidden passages but gives no clue as to the means of opening or accessing them.",
     "name_zh": "地城视野",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，器材（一个价值150金币的小玻璃球）",
-    "range_zh": "自身",
-    "area_zh": "半径60呎弥漫",
+    "range_zh": "个人",
+    "area_zh": "半径60尺弥漫",
     "duration_zh": "立即",
-    "text_zh": "<p>你会收到一个清晰而难忘的画面，它揭示了此刻哦区域内的空间布局，障碍和链接通道。这个咒语不会透露这些地点的任何内容或居民，只显示空间的基本结构。例如，一个楼梯通向一对双开门是会明显显示出来的，但守在门前的铁魔像则不会被显示出来。这个法术的确能识别出秘门和秘道的位置但是却无法告诉你开启或到达那里的办法。<\/p>",
-    "source": "PC-DragH"
+    "text_zh": "<p>你会收到一个清晰而难忘的画面，它揭示了此刻哦区域内的空间布局，障碍和链接通道。这个咒语不会透露这些地点的任何内容或居民，只显示空间的基本结构。例如，一个楼梯通向一对双开门是会明显显示出来的，但守在门前的铁魔像则不会被显示出来。这个法术的确能识别出秘门和秘道的位置但是却无法告诉你开启或到达那里的办法。<\/p>"
 }

@@ -1,23 +1,23 @@
 {
     "key": "shatter",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shatter/",
     "name": "Shatter",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shatter",
+    "source": ["PRPG Core Rulebook pg. 341"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "bloodrager": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "magus": 2,
         "occultist": 2,
+        "oracle": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
-    },
-    "domains": {"destruction": 2},
-    "elementalSchools":     {
-        "earth": 2,
-        "metal": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a chip of mica)",
@@ -25,15 +25,16 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes",
-    "text": "<p><i>Shatter<\/i> creates a loud, ringing noise that breaks brittle, non-magical objects; sunders a single solid, non-magical object; or damages a crystalline creature.<\/p><p>Used as an area attack, <i>shatter<\/i> destroys non-magical objects of crystal, glass, ceramic, or porcelain. All such unattended objects within a 5-foot radius of the point of origin are smashed into dozens of pieces by the spell. Objects weighing more than 1 pound per your level are not affected, but all other objects of the appropriate composition are shattered.<\/p><p>Alternatively, you can target <i>shatter<\/i> against a single solid non-magical object, regardless of composition, weighing up to 10 pounds per caster level. Targeted against a crystalline creature (of any weight), <i>shatter<\/i> deals 1d6 points of sonic damage per caster level (maximum 10d6), with a Fortitude save for half damage.<\/p>",
+    "text": "<i>Shatter<\/i> creates a loud, ringing noise that breaks brittle, nonmagical objects; sunders a single solid, nonmagical object; or damages a crystalline creature.<br><br>Used as an area attack, <i>shatter<\/i> destroys nonmagical objects of crystal, glass, ceramic, or porcelain. All such unattended objects within a 5-foot radius of the point of origin are smashed into dozens of pieces by the spell. Objects weighing more than 1 pound per your level are not affected, but all other objects of the appropriate composition are shattered.<br><br>Alternatively, you can target <i>shatter<\/i> against a single solid nonmagical object, regardless of composition, weighing up to 10 pounds per caster level. Targeted against a crystalline creature (of any weight), <i>shatter<\/i> deals 1d6 points of sonic damage per caster level (maximum 10d6), with a Fortitude save for half damage.<h2 class=\"title\">Mythic Shatter<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 107<\/i><br>Add your tier to your caster level when determining the maximum object weight you can affect. When targeting a crystalline creature, the spell’s damage increases to 1d8 points of sonic damage per caster level (maximum 10d8). You may damage a single magical object as if it were a crystalline creature. If the spell destroys an object or damages a crystalline creature, broken shards litter the spell area or creature’s space and act as caltrops.",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "Add your tier to your caster level when determining the maximum object weight you can affect. When targeting a crystalline creature, the spell’s damage increases to 1d8 points of sonic damage per caster level (maximum 10d8). You may damage a single magical object as if it were a crystalline creature. If the spell destroys an object or damages a crystalline creature, broken shards litter the spell area or creature’s space and act as caltrops.",
     "name_zh": "粉碎音波",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一片云母)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "area_zh": "5尺半径扩散范围; 或者一个固态物体或者一个晶体生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志, 通过则无效 (物体); 意志, 通过则无效 (物体) 或 强韧, 通过则减半; 见后文",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>粉碎音波发出一阵巨大而尖锐的噪声，足以破坏易碎的非魔法物体，震裂一件固体非魔法物体，或是伤害晶体生物。<\/p><p>作为区域攻击时，此法术可破坏范围内所有由水晶、玻璃，陶器和瓷器组成的非魔法物品。从源起点算起半径5尺范围内的所有此类无主物品会直接被此法术震成一堆碎片(译注:因为无主物品无法过豁免。)。若物体的重量超过每CL 1磅，则不受影响，但其他由此类材质组成的物体都会受影响。<\/p><p>或者，你也可以向一件非魔法固态物体施放粉碎音波，不论其材质组成，其重量不可超过每CL 10磅。若是针对晶体生物 (不论其重量多少)，粉碎音波都对其造成每CL 1d6点的音波伤害 (最多10d6)，对方若通过强韧豁免检定，则伤害减半。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>粉碎音波发出一阵巨大而尖锐的噪声，足以破坏易碎的非魔法物体，震裂一件固体非魔法物体，或是伤害晶体生物。<\/p><p>作为区域攻击时，此法术可破坏范围内所有由水晶、玻璃，陶器和瓷器组成的非魔法物品。从源起点算起半径5尺范围内的所有此类无主物品会直接被此法术震成一堆碎片(译注:因为无主物品无法过豁免。)。若物体的重量超过每CL 1磅，则不受影响，但其他由此类材质组成的物体都会受影响。<\/p><p>或者，你也可以向一件非魔法固态物体施放粉碎音波，不论其材质组成，其重量不可超过每CL 10磅。若是针对晶体生物 (不论其重量多少)，粉碎音波都对其造成每CL 1d6点的音波伤害 (最多10d6)，对方若通过强韧豁免检定，则伤害减半。<\/p>"
 }

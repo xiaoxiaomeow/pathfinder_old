@@ -1,20 +1,23 @@
 {
     "key": "stone shape",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stone-shape/",
     "name": "Stone Shape",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stone%20Shape",
+    "source": ["PRPG Core Rulebook pg. 349"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
-        "cleric/oracle": 3,
+        "arcanist": 4,
+        "cleric": 3,
         "druid": 3,
+        "hunter": 3,
+        "occultist": 3,
+        "oracle": 3,
+        "redmantisassassin": 4,
         "shaman": 3,
-        "sorcerer/wizard": 4
+        "sorcerer": 4,
+        "warpriest": 3,
+        "wizard": 4
     },
-    "domains":     {
-        "artifice": 3,
-        "earth": 3
-    },
-    "elementalSchools": {"earth": 4},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (soft clay)",
     "range": "touch",
@@ -22,7 +25,9 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You can form an existing piece of stone into any shape that suits your purpose. While it's possible to make crude coffers, doors, and so forth with <i>stone shape<\/i>, fine detail isn't possible. There is a 30% chance that any shape including moving parts simply doesn't work.<\/p><\/div>",
+    "text": "You can form an existing piece of stone into any shape that suits your purpose. While it's possible to make crude coffers, doors, and so forth with <i>stone shape<\/i>, fine detail isn't possible. There is a 30% chance that any shape including moving parts simply doesn't work.<h2 class=\"title\">Mythic Stone Shape<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 109<\/i><br>The duration changes to 1 round/level and instantaneous (see text). Each round after the round you cast the spell, you can spend a standard action to shape up to 5 additional cubic feet of stone you touch. Shaped stone has an instantaneous duration (meaning it does not revert to its previous form when the spell ends). ",
+    "mythicSource": ["Mythic Adventures pg. 109"],
+    "mythicText": "The duration changes to 1 round/level and instantaneous (see text). Each round after the round you cast the spell, you can spend a standard action to shape up to 5 additional cubic feet of stone you touch. Shaped stone has an instantaneous duration (meaning it does not revert to its previous form when the spell ends). ",
     "name_zh": "塑石术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (软粘土)",
@@ -31,6 +36,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你可以将现成的石头变成你想要的任何样子。你可以使用塑石术造出简易的石箱、石门和石台，但无法精雕细琢。含可动零件的物体有30%的机率无法运作。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以将现成的石头变成你想要的任何样子。你可以使用塑石术造出简易的石箱、石门和石台，但无法精雕细琢。含可动零件的物体有30%的机率无法运作。<\/p>"
 }

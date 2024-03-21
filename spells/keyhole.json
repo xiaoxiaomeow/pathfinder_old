@@ -1,30 +1,33 @@
 {
     "key": "keyhole",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/keyhole/",
     "name": "Keyhole",
-    "book": "Pathfinder Adventure Path #143: Borne by the Sun's Grace © 2019, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Keyhole",
+    "source": ["Pathfinder #143: Borne by the Sun's Grace pg. 78"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "arcanist": 1,
+        "cleric": 1,
+        "oracle": 1,
+        "sorcerer": 1,
+        "warpriest": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 round",
     "components": "V, DF",
     "range": "touch",
     "target": "one touched door or portal",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "special (see text)",
     "spellResistance": "no",
-    "text": "<p>By touching a single door, gate, or other portal, you create a keyhole where none existed before or double the size of an existing keyhole. A conjured keyhole allows you to peer through the door, though the limited perspective imposes a –10 penalty on Perception checks to spot anything beyond. It also allows a sealed door to be locked or picked if it could not be before. Locking or unlocking such a door requires a successful Disable Device check with a DC equal to the barrier's break DC + 10. Enlarging an existing keyhole allows viewers to peer through to whatever lies beyond, even if the preexisting keyhole did not allow it, and it reduces the Disable Device DC to open or lock the door by 5.<\/p><p>This spell does not normally allow a saving throw, but magic doors and barriers can resist the effect with a successful Will saving throw, as if they were carried by their original creator.<\/p>",
+    "text": "By touching a single door, gate, or other portal, you create a keyhole where none existed before or double the size of an existing keyhole. A conjured keyhole allows you to peer through the door, though the limited perspective imposes a –10 penalty on Perception checks to spot anything beyond. It also allows a sealed door to be locked or picked if it could not be before. Locking or unlocking such a door requires a successful Disable Device check with a DC equal to the barrier’s break DC + 10. Enlarging an existing keyhole allows viewers to peer through to whatever lies beyond, even if the preexisting keyhole did not allow it, and it reduces the Disable Device DC to open or lock the door by 5.<br><br> This spell does not normally allow a saving throw, but magic doors and barriers can resist the effect with a successful Will saving throw, as if they were carried by their original creator.",
     "name_zh": "锁孔术",
     "castingTime_zh": "1轮",
     "components_zh": "语言，法器",
     "range_zh": "接触",
     "target_zh": "一扇接触的门或城门",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "特殊（见下文）",
+    "savingThrow_zh": "特殊; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>通过触摸一扇门、大门或其他的门（door, gate, or other portal），你可以创造一个之前不存在的锁孔，或是将现有的锁孔增大至两倍。\n一个魔法锁孔可以让你透过门端详，尽管有限的视角会使观察门外东西的察觉检定受到-10的罚值。\n如果之前不能，它还允许你锁上或撬开密闭的门。锁上或解锁这样一扇门需要DC等于障碍物的破坏DC+10的成功的解除装置检定。\n扩大现有的锁孔则可以让人看到外面的任何东西，即使先前存在的锁孔不允许这样做；而且它将降低开门锁门的解除装置的检定的DC5点。\n该法术通常不允许豁免，但魔法门和屏障可以通过成功的意志豁免来抵抗该效果，就好像它们由它们的最初创造者携带着一样。<\/p>",
-    "source": "AP-TG"
+    "text_zh": "<p>通过触摸一扇门、大门或其他的门（door, gate, or other portal），你可以创造一个之前不存在的锁孔，或是将现有的锁孔增大至两倍。<\/p><p>一个魔法锁孔可以让你透过门端详，尽管有限的视角会使观察门外东西的察觉检定受到-10的罚值。<\/p><p>如果之前不能，它还允许你锁上或撬开密闭的门。锁上或解锁这样一扇门需要DC等于障碍物的破坏DC+10的成功的解除装置检定。<\/p><p>扩大现有的锁孔则可以让人看到外面的任何东西，即使先前存在的锁孔不允许这样做；而且它将降低开门锁门的解除装置的检定的DC5点。<\/p><p>该法术通常不允许豁免，但魔法门和屏障可以通过成功的意志豁免来抵抗该效果，就好像它们由它们的最初创造者携带着一样。<\/p>"
 }

@@ -1,31 +1,34 @@
 {
     "key": "contest of skill",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contest-of-skill/",
     "name": "Contest of Skill",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contest%20of%20Skill",
+    "source": ["Adventurer's Guide pg. 27"],
     "school": "transmutation",
     "descriptors": ["curse"],
     "levels":     {
         "bard": 2,
         "cleric": 3,
         "magus": 2,
-        "paladin": 2
+        "oracle": 3,
+        "paladin": 2,
+        "skald": 2,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a tiny gong)",
-    "range": "close (25 ft. plus 5 ft./2 levels)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p class=\"desciption\">The randomness of critical hits has long vexed certain duelists in the school who consider luck to be an unwelcome addition to duels, which they view as contests of skill rather than chance.<\/p><p>The creature targeted by this spell is infused with magical power, altering the odds of combat to weaken lucky strikes. Critical threats made by the affected creature automatically fail to confirm. Critical threats that automatically confirm due to class features or feats, such as the Fighter's weapon Mastery, are unaffected by this spell.<\/p><p>In addition, when the initial target of this spell fails its Will save to resist contest of skill, it can select one additional creature within range of the spell to suffer the effects of the spell as well (Will negates). If this secondary target negates this spell with a successful save, the duration of contest of skill on the primary target is reduced to 1 round.<\/p>",
+    "text": "The randomness of critical hits has long vexed certain duelists in the Aldori school who consider luck to be an unwelcome addition to duels, which they view as contests of skill rather than chance. The creature targeted by this spell is infused with magical power, altering the odds of combat to weaken lucky strikes. Critical threats made by the affected creature automatically fail to confirm. Critical threats that automatically confirm due to class features or feats, such as the fighter’s weapon mastery, are unaffected by this spell.<br><br> In addition, when the initial target of this spell fails its Will save to resist <i>contest of skill<\/i>, it can select one additional creature within range of the spell to suffer the effects of the spell as well (Will negates). If this secondary target negates this spell with a successful save, the duration of <i>contest of skill<\/i> on the primary target is reduced to 1 round.",
     "name_zh": "技巧竞赛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一枚小勋章）",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>重击的随机性长期困扰着奥多里剑斗院的某些决斗者，他们认为运气是对决斗不受欢迎的补充，决斗应当是技巧而不是机会（chance）的竞赛。该法术的目标生物被注入了魔法力量，改变了战斗的几率以减弱幸运打击（的影响）。受影响的生物作出的重击威胁自动确认失败。由于职业特性或专长而自动确认的重击威胁，如战士的武器宗师，不受该法术的影响。\n此外，当该法术的初始目标在对抗技巧竞赛的意志豁免中失败时，它可以选择该法术范围内的另外一个生物也承受该法术的效果（意志无效）。如果次要目标通过成功豁免使该法术无效，则主要目标的技巧竞赛持续时间将减少为1轮。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>重击的随机性长期困扰着奥多里剑斗院的某些决斗者，他们认为运气是对决斗不受欢迎的补充，决斗应当是技巧而不是机会（chance）的竞赛。该法术的目标生物被注入了魔法力量，改变了战斗的几率以减弱幸运打击（的影响）。受影响的生物作出的重击威胁自动确认失败。由于职业特性或专长而自动确认的重击威胁，如战士的武器宗师，不受该法术的影响。<\/p><p>此外，当该法术的初始目标在对抗技巧竞赛的意志豁免中失败时，它可以选择该法术范围内的另外一个生物也承受该法术的效果（意志无效）。如果次要目标通过成功豁免使该法术无效，则主要目标的技巧竞赛持续时间将减少为1轮。<\/p>"
 }

@@ -1,8 +1,8 @@
 {
     "key": "ironskin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ironskin/",
     "name": "Ironskin",
-    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironskin",
+    "source": ["Monster Codex pg. 45"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
@@ -11,24 +11,27 @@
         "bloodrager": 2,
         "cleric": 2,
         "druid": 2,
+        "hunter": 2,
+        "investigator": 2,
+        "oracle": 2,
         "paladin": 2,
         "psychic": 2,
         "ranger": 2,
+        "warpriest": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF/M (a pinch of forge soot)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d; see text)",
-    "text": "<p class=\"description\">Your skin hardens and takes on the color and texture of rough iron.<\/p><p>You gain a +4 enhancement bonus to your existing natural armor bonus (if you do not have a natural armor bonus, you are considered to have an effective natural armor bonus of +0).<\/p><p>This enhancement bonus increases by 1 for every 4 caster levels above 4th, to a maximum of +7 at 15th level.<\/p><p>While you're under the effects of this spell, if an opponent confirms a critical hit or sneak attack against you with a physical weapon (not a spell or magical effect), you can dismiss this spell to negate the critical hit or sneak attack and treat it is as a normal hit. Dismissing the spell in this way is not an action, but you must be conscious and aware of the attack to do so.<\/p><p><em>Note*: <\/em>The math is incorrect in the spell description, and should cap at 16th level. Though there's been some dialogue about whether the prior change to 16th level or if the bonus is to iterate at &#8220;every 4 caster levels above 3rd&#8221; (like admonishing ray, scorching ray, etc), no update from Paizo has been provided.<\/p>",
+    "duration": "1 minute/level (D; see text)",
+    "text": "Your skin hardens and takes on the color and texture of rough iron. You gain a +4 enhancement bonus to your existing natural armor bonus (if you do not have a natural armor bonus, you are considered to have an effective natural armor bonus of +0). This enhancement bonus increases by 1 for every 4 caster levels above 4th, to a maximum of +7 at 15th level.<br><br> While you’re under the effects of this spell, if an opponent confirms a critical hit or sneak attack against you with a physical weapon (not a spell or magical effect), you can dismiss this spell to negate the critical hit or sneak attack and treat it is as a normal hit. Dismissing the spell in this way is not an action, but you must be conscious and aware of the attack to do so.",
     "name_zh": "皮肉成钢",
     "race_zh": "灰矮人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器/材料（一块铁渣）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你的皮肉变灰发硬，出现铸铁一样的纹理。你的天生护甲获得+4增强加值（如果你没有任何防御等级上的天生护甲加值，你视为天生护甲+0）。这个增强加值在你4级以后每拥有4个施法者等级就额外+1，直到15级达到最大+7。\n  当你受到此法术效果的影响时，如果一个对手对你进行的物理攻击（非法术与魔法效果）造成了重击或偷袭伤害，那么你可以消解本法术的效果并将这次偷袭或者重击转化为一次普通攻击。你不需要任何动作来消解这个法术，但你必须意识到这次对你发动的攻击。<\/p>",
-    "source": "MC"
+    "text_zh": "<p>你的皮肉变灰发硬，出现铸铁一样的纹理。你的天生护甲获得+4增强加值（如果你没有任何防御等级上的天生护甲加值，你视为天生护甲+0）。这个增强加值在你4级以后每拥有4个施法者等级就额外+1，直到15级达到最大+7。<\/p><p>当你受到此法术效果的影响时，如果一个对手对你进行的物理攻击（非法术与魔法效果）造成了重击或偷袭伤害，那么你可以消解本法术的效果并将这次偷袭或者重击转化为一次普通攻击。你不需要任何动作来消解这个法术，但你必须意识到这次对你发动的攻击。<\/p>"
 }

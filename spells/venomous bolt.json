@@ -1,18 +1,22 @@
 {
     "key": "venomous bolt",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-bolt/",
     "name": "Venomous Bolt",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Venomous%20Bolt",
+    "source": ["Advanced Player's Guide pg. 254"],
     "school": "necromancy",
     "descriptors": ["poison"],
-    "levels": {"ranger": 3},
+    "levels":     {
+        "hunter": 3,
+        "ranger": 3
+    },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "0 ft.",
+    "target": "one arrow or bolt",
     "duration": "instantaneous",
-    "savingThrow": "Fortitude negates",
+    "savingThrow": "Fortitude negates, see text",
     "spellResistance": "yes",
-    "text": "<p>You infuse a single arrow or crossbow bolt with natural venom as you fire it. In addition to its normal damage, anyone struck by this arrow or bolt is affected as if by the <i>poison<\/i> spell. If the arrow is not fired immediately, the spell ends with no effect.<\/p>",
+    "text": "You infuse a single arrow or crossbow bolt with natural venom as you fire it. In addition to its normal damage, anyone struck by this arrow or bolt is affected as if by the <i>poison <\/i>spell. If the arrow is not fired immediately, the spell ends with no effect.",
     "name_zh": "毒失咒",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势",
@@ -21,6 +25,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你将自然毒素灌入单一一根将要射出的箭矢或者弩矢之中。除了造成正常伤害，任何被这根箭矢击中的生物均会如同受到毒击术 (poison) 影响一般。如果箭矢没有被立即射出，该法术会结束并不再有任何效果。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你将自然毒素灌入单一一根将要射出的箭矢或者弩矢之中。除了造成正常伤害，任何被这根箭矢击中的生物均会如同受到毒击术 (poison) 影响一般。如果箭矢没有被立即射出，该法术会结束并不再有任何效果。<\/p>"
 }

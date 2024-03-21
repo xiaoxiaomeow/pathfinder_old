@@ -1,13 +1,19 @@
 {
     "key": "rend body iv",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rend-body-i/",
     "name": "Rend Body IV",
-    "base": "rend body i",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rend%20Body%20IV",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "evocation",
     "levels": {"psychic": 8},
-    "text": "<p>This functions as per <i>rend body III<\/i>, but the target takes 1d8 points of damage per caster level (maximum 20d8), and one of the target's limbs is ripped off if the amount of damage dealt is greater than 1/4 of its maximum hit point total. This spell can be undercast.<\/p><\/div>",
+    "castingTime": "1 full-round action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "text": "This functions as per <i>rend body III<\/i>, but the target takes 1d8 points of damage per caster level (maximum 20d8), and one of the target’s limbs is ripped off if the amount of damage dealt is greater than 1/4 of its maximum hit point total. This spell can be undercast.",
     "name_zh": "撕扯肢体 IV",
-    "text_zh": "<p>该法术的功能如同撕扯肢体III一般，除了目标承受每个你的施法者等级1d8点伤害（最大20d8点伤害），另外当造成了超过目标1/4最大生命值的伤害时，目标的一个肢体就会被扯断。该法术可以被降阶施法。<\/p>",
-    "source": "PC-PA"
+    "castingTime_zh": "整轮动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "text_zh": "<p>该法术的功能如同撕扯肢体III一般，除了目标承受每个你的施法者等级1d8点伤害（最大20d8点伤害），另外当造成了超过目标1/4最大生命值的伤害时，目标的一个肢体就会被扯断。该法术可以被降阶施法。<\/p>"
 }

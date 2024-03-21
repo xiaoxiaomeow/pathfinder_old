@@ -1,19 +1,23 @@
 {
     "key": "conjuration foil",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/conjuration-foil/",
     "name": "Conjuration Foil",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Conjuration%20Foil",
+    "source": ["Ultimate Intrigue pg. 207"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
         "magus": 3,
         "medium": 4,
         "occultist": 4,
         "psychic": 4,
-        "sorcerer/wizard": 4,
+        "skald": 4,
+        "sorcerer": 4,
         "spiritualist": 4,
         "summoner": 3,
-        "witch": 4
+        "summoner (unchained)": 3,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 immediate action",
     "components": "S",
@@ -22,15 +26,14 @@
     "duration": "1 round",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes (object)",
-    "text": "<p>All creatures in the area gain a +4 bonus on saving throws against teleportation effects. If any creature would enter or depart the area via a summoning or teleportation effect, that creature takes 1d6 points of damage per spell level of the triggering effect (or half the HD of the originating creature if the effect has no spell level) and arrives in a random similar location within the triggering effect's range, rather than the intended destination.<\/p><p>A successful Will save halves the damage and negates the altered destination.<\/p>",
+    "text": "All creatures in the area gain a +4 bonus on saving throws against teleportation effects. If any creature would enter or depart the area via a summoning or teleportation effect, that creature takes 1d6 points of damage per spell level of the triggering effect (or half the HD of the originating creature if the effect has no spell level) and arrives in a random similar location within the triggering effect’s range, rather than the intended destination.<br><br> A successful Will save halves the damage and negates the altered destination.",
     "name_zh": "咒法障壁",
     "castingTime_zh": "直觉动作",
     "components_zh": "姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "半径20尺扩散区域",
     "duration_zh": "1轮",
-    "savingThrow_zh": "意志，通过则部分生效（见后文）",
-    "spellResistance_zh": "可（物体）",
-    "text_zh": "<p>所有区域内的生物在对抗传送（teleportation）效果时，豁免检定获得+4加值。若有任何生物将会由于召唤（summoning）或传送（teleportation）效果进入或离开该区域的话，该生物会承受伤害，数值为触发效果的法术等级（若该效果不具有法术等级，则为产生效果的生物HD的一半）x 1d6点；而且该生物不会抵达原先的目的地，而是位于触发效果的范围内、随机的类似地点。成功通过意志豁免能够将伤害减半，并且目的地不会被改变。<\/p>",
-    "source": "UI"
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>所有区域内的生物在对抗传送（teleportation）效果时，豁免检定获得+4加值。若有任何生物将会由于召唤（summoning）或传送（teleportation）效果进入或离开该区域的话，该生物会承受伤害，数值为触发效果的法术等级（若该效果不具有法术等级，则为产生效果的生物HD的一半）x 1d6点；而且该生物不会抵达原先的目的地，而是位于触发效果的范围内、随机的类似地点。成功通过意志豁免能够将伤害减半，并且目的地不会被改变。<\/p>"
 }

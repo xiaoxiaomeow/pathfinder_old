@@ -1,17 +1,15 @@
 {
     "key": "fire storm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-storm/",
     "name": "Fire Storm",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fire%20Storm",
+    "source": ["PRPG Core Rulebook pg. 282"],
     "school": "evocation",
     "descriptors": ["fire"],
     "levels":     {
-        "cleric/oracle": 8,
+        "cleric": 8,
         "druid": 7,
+        "oracle": 8,
         "shaman": 8
-    },
-    "mysteries":     {
-        "flame": 7,
-        "volcano": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,16 +18,16 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>When a <i>fire storm<\/i> spell is cast, the whole area is shot through with sheets of roaring flame. The raging flames do not harm natural vegetation, ground cover, or any plant creatures in the area that you wish to exclude from damage. Any other creature within the area takes 1d6 points of fire damage per caster level (maximum 20d6). Creatures that fail their Reflex save catch on fire, taking 4d6 points of fire damage each round until the flames are extinguished. Extinguishing the flames is a full-round action that requires a DC 20 Reflex save.<\/p>",
-    "mythicText": "The damage dealt increases to 1d8 points of damage per caster level (maximum 20d8). Half of this damage is fire damage, and the other half is divine energy that bypasses fire resistance and fire immunity. You can exclude any number of animals from damage just as you can plant creatures. ",
+    "text": "When a <i>fire storm<\/i> spell is cast, the whole area is shot through with sheets of roaring flame. The raging flames do not harm natural vegetation, ground cover, or any plant creatures in the area that you wish to exclude from damage. Any other creature within the area takes 1d6 points of fire damage per caster level (maximum 20d6). Creatures that fail their Reflex save catch on fire, taking 4d6 points of fire damage each round until the flames are extinguished. Extinguishing the flames is a full-round action that requires a DC 20 Reflex save.<h2 class=\"title\">Mythic Fire Storm<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 94<\/i><br>The damage dealt increases to 1d8 points of damage per caster level (maximum 20d8). Half of this damage is fire damage, and the other half is divine energy that bypasses fire resistance and fire immunity. You can exclude any number of animals from damage just as you can plant creatures. <br><br><b>Augmented (8th)<\/b>: If you expend two uses of mythic power, choose one creature type (and subtype, if humanoid or outsider) to exclude from the effects of the spell. For each additional use of mythic power you expend when casting the spell, exclude another creature type. For example, if you expend two uses of mythic power and choose magical beasts, you can exclude from damage any number of magical beasts in the spell’s area. ",
+    "mythicSource": ["Mythic Adventures pg. 94"],
+    "mythicText": "The damage dealt increases to 1d8 points of damage per caster level (maximum 20d8). Half of this damage is fire damage, and the other half is divine energy that bypasses fire resistance and fire immunity. You can exclude any number of animals from damage just as you can plant creatures. <br><br><b>Augmented (8th)<\/b>: If you expend two uses of mythic power, choose one creature type (and subtype, if humanoid or outsider) to exclude from the effects of the spell. For each additional use of mythic power you expend when casting the spell, exclude another creature type. For example, if you expend two uses of mythic power and choose magical beasts, you can exclude from damage any number of magical beasts in the spell’s area. ",
     "name_zh": "火焰风暴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "每等级两个10尺边长的立方体 (可变)",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你施放火焰风暴法术时，整个区域都会被咆哮的烈焰扫过。狂暴的火焰不会伤害天然植物、地表、或者该区域内你想排除在伤害之外的任何植物类生物。任何其它处在该区域的生物都将受到每CL 1d6点火焰伤害 (最高20d6)。反射豁免失败的生物会被点燃，直至他们扑灭火焰为止，每轮都会受到4d6点火焰伤害。扑灭火焰是整轮动作，需要进行DC为20的反射豁免。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>当你施放火焰风暴法术时，整个区域都会被咆哮的烈焰扫过。狂暴的火焰不会伤害天然植物、地表、或者该区域内你想排除在伤害之外的任何植物类生物。任何其它处在该区域的生物都将受到每CL 1d6点火焰伤害 (最高20d6)。反射豁免失败的生物会被点燃，直至他们扑灭火焰为止，每轮都会受到4d6点火焰伤害。扑灭火焰是整轮动作，需要进行DC为20的反射豁免。<\/p>"
 }

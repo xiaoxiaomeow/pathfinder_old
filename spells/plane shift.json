@@ -1,19 +1,25 @@
 {
     "key": "plane shift",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plane-shift/",
     "name": "Plane Shift",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plane%20Shift",
+    "source": ["PRPG Core Rulebook pg. 322"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
-        "cleric/oracle": 5,
+        "arcanist": 7,
+        "cleric": 5,
+        "medium": 4,
+        "oracle": 5,
+        "psychic": 5,
         "shaman": 7,
-        "sorcerer/wizard": 7,
+        "sorcerer": 7,
+        "spiritualist": 5,
         "summoner": 5,
-        "unchained summoner": 6,
-        "witch": 7
+        "summoner (unchained)": 6,
+        "warpriest": 5,
+        "witch": 7,
+        "wizard": 7
     },
-    "subdomains": {"freedom": 5},
-    "bloodlines": {"aberrant": 7},
     "castingTime": "1 standard action",
     "components": "V, S, F (a forked metal rod attuned to the plane of travel)",
     "range": "touch",
@@ -21,7 +27,9 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You move yourself or some other creature to another plane of existence or alternate dimension. If several willing persons link hands in a circle, as many as eight can be affected by the <i>plane shift<\/i> at the same time. Precise accuracy as to a particular arrival location on the intended plane is nigh impossible. From the Material Plane, you can reach any other plane, though you appear 5 to 500 miles (5d%) from your intended destination. <i>Plane shift<\/i> transports creatures instantaneously and then ends. The creatures need to find other means if they are to travel back (including casting <i>plane shift<\/i> again).<\/p>",
+    "text": "You move yourself or some other creature to another plane of existence or alternate dimension. If several willing persons link hands in a circle, as many as eight can be affected by the <i>plane shift<\/i> at the same time. Precise accuracy as to a particular arrival location on the intended plane is nigh impossible. From the Material Plane, you can reach any other plane, though you appear 5 to 500 miles (5d%) from your intended destination. <i>Plane shift<\/i> transports creatures instantaneously and then ends. The creatures need to find other means if they are to travel back (including casting <i>plane shift<\/i> again).<h2 class=\"title\">Mythic Plane Shift<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 103<\/i><br>If you’ve been to the destination plane and are familiar with a location there, you may choose that location and arrive on target at that location with anyone else you transport with the spell. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, you grant transported creatures the effects of a <i>planar adaptation<\/i> spell (<i>Advanced Player’s Guide<\/i> 236) upon arrival, lasting for 1 hour. ",
+    "mythicSource": ["Mythic Adventures pg. 103"],
+    "mythicText": "If you’ve been to the destination plane and are familiar with a location there, you may choose that location and arrive on target at that location with anyone else you transport with the spell. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, you grant transported creatures the effects of a <i>planar adaptation<\/i> spell (<i>Advanced Player’s Guide<\/i> 236) upon arrival, lasting for 1 hour. ",
     "name_zh": "异界传送",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材 (调整成将要前往的位面的分叉金属杆)",
@@ -30,6 +38,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你将自己或其他生物移动到另一个位面或其他次元。如果多个自愿的人手拉手连成一个环形，那么一个异界传送可以同时影响最多八个人。要精准地抵达位面的某一地点几乎完全不可能。从主物质位面出发，你可以抵达任何其他位面，但是你出现的地点距离你想去的目的地会有5英里到500英里 (5d%) 的误差。异界传送会立即将生物传送，然后法术就结束了。要想返回，生物需要另寻他途 (包括再次施放异界传送)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你将自己或其他生物移动到另一个位面或其他次元。如果多个自愿的人手拉手连成一个环形，那么一个异界传送可以同时影响最多八个人。要精准地抵达位面的某一地点几乎完全不可能。从主物质位面出发，你可以抵达任何其他位面，但是你出现的地点距离你想去的目的地会有5英里到500英里 (5d%) 的误差。异界传送会立即将生物传送，然后法术就结束了。要想返回，生物需要另寻他途 (包括再次施放异界传送)。<\/p>"
 }

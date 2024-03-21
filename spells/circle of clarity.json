@@ -1,29 +1,33 @@
 {
     "key": "circle of clarity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/circle-of-clarity/",
     "name": "Circle of Clarity",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Circle%20of%20Clarity",
+    "source": ["Ultimate Magic pg. 211"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 7,
+        "arcanist": 7,
+        "cleric": 7,
+        "oracle": 7,
+        "psychic": 7,
         "shaman": 8,
-        "sorcerer/wizard": 7
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a crystal lens worth 100 gp)",
     "range": "medium (100 ft. + 10 ft./level)",
-    "effect": "20-ft.-radius emanation centered on a creature, object, or point in space",
-    "duration": "1 round/level (d)",
+    "effect": "20-ft.-radius emanation centered on a creature, object or point in space",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will negates (harmless)",
-    "text": "<p>You create a magical emanation that interferes with all figments and glamers within it, giving creatures a +4 bonus on saving throws to recognize them as illusions. The emanation negates concealment less than total concealment within the area. Perception checks to notice creatures or objects within the area gain a bonus equal to half your caster level (maximum +10). The spell is stationary if cast on a point in space. It is mobile if centered on a creature or object, though creatures or attended objects can negate the spell with a saving throw or spell resistance.<\/p>",
+    "spellResistance": "yes (harmless)",
+    "text": "You create a magical emanation that interferes with all figments and glamers within it, giving creatures a +4 bonus on saving throws to recognize them as illusions. The emanation negates concealment less than total concealment within the area. Perception checks to notice creatures or objects within the area gain a bonus equal to half your caster level (maximum +10). The spell is stationary if cast on a point in space. It is mobile if centered on a creature or object, though creatures or attended objects can negate the spell with a saving throw or spell resistance.",
     "name_zh": "明晰之环",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，器材 (价值100gp的水晶透镜)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "以一个有意识的生物为中心20尺半径发散范围",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你创造了一片魔法效果区域，能够让生物排除虚影和五官幻觉的干扰，使生物能够以+4加值来承认它们是幻觉。区域内所有全隐蔽以下的隐蔽都将无效。<\/p><p>注意到范围内的生物或物体而进行的察觉检定获得你施法者等级一半的加值 (最高+10)。<\/p><p>如果施放在空地上，该法术范围是固定的。如果以生物或物体为中心，该法术范围可移动，不过生物或有意识的物体可以进行豁免检定或者使用法术抗力将其无效化。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你创造了一片魔法效果区域，能够让生物排除虚影和五官幻觉的干扰，使生物能够以+4加值来承认它们是幻觉。区域内所有全隐蔽以下的隐蔽都将无效。<\/p><p>注意到范围内的生物或物体而进行的察觉检定获得你施法者等级一半的加值 (最高+10)。<\/p><p>如果施放在空地上，该法术范围是固定的。如果以生物或物体为中心，该法术范围可移动，不过生物或有意识的物体可以进行豁免检定或者使用法术抗力将其无效化。<\/p>"
 }

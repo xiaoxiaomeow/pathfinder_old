@@ -1,25 +1,29 @@
 {
     "key": "icicle dagger",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/icicle-dagger/",
     "name": "Icicle Dagger",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Icicle%20Dagger",
+    "source": ["Ultimate Magic pg. 224"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
-        "sorcerer/wizard": 1,
-        "summoner/unchained summoner": 1,
-        "witch": 1
+        "occultist": 1,
+        "sorcerer": 1,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "0 ft.",
     "effect": "one icicle",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a masterwork dagger out of ice. The dagger deals 1 point of cold damage in addition to normal dagger damage. If the dagger leaves your hand for more than 1 round, it melts and the spell ends. At 6th level, the dagger functions as a +1 frost dagger. At 11th level, it gains the returning property when thrown, melting away and reforming in your hand just before your next turn.<\/p>",
+    "text": "You create a masterwork dagger out of ice. The dagger deals 1 point of cold damage in addition to normal dagger damage. If the dagger leaves your hand for more than 1 round, it melts and the spell ends. At 6th level, the dagger functions as a <i>+1 frost dagger<\/i>. At 11th level, it gains the <i>returning <\/i>property when thrown, melting away and reforming in your hand just before your next turn.",
     "name_zh": "寒冰匕首",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -28,6 +32,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一把由寒冰构成的精制品匕首。它除了正常匕首的伤害以外还能造成1点寒冷伤害。<\/p><p>如果匕首离开你的手超过一轮时间，它会融化而法术结束。<\/p><p>在6级，匕首被视作+1霜寒匕首。在11级，匕首会被赋予回力属性，可以让你将其投掷出去并在你下次行动时前到你的手中。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一把由寒冰构成的精制品匕首。它除了正常匕首的伤害以外还能造成1点寒冷伤害。<\/p><p>如果匕首离开你的手超过一轮时间，它会融化而法术结束。<\/p><p>在6级，匕首被视作+1霜寒匕首。在11级，匕首会被赋予回力属性，可以让你将其投掷出去并在你下次行动时前到你的手中。<\/p>"
 }

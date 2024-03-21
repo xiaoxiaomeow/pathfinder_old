@@ -1,32 +1,35 @@
 {
     "key": "shock shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shock-shield/",
     "name": "Shock Shield",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shock%20Shield",
+    "source": ["Ultimate Combat pg. 243"],
     "school": "abjuration",
     "descriptors":     [
         "electricity",
         "force"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "alchemist": 1,
+        "arcanist": 1,
         "bloodrager": 1,
+        "investigator": 1,
         "magus": 1,
-        "sorcerer/wizard": 1
+        "occultist": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min.s/level (d)",
-    "text": "<p>This spell creates an invisible shield similar to but not as strong as the shield spell. This shield hovers in front of you and negates magic missile attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks. At any time, as a free action, you may dismiss your shield, at which point it deals 1d6 points of electrical damage to all creatures within a 5-foot burst, including you. A Reflex saving throw halves the damage.<\/p>",
+    "duration": "1 minutes/level (D)",
+    "text": "This spell creates an invisible shield similar to but not as strong as the <i>shield <\/i>spell. This shield hovers in front of you and negates <i>magic missile <\/i>attacks directed at you. The disk provides a +2 shield bonus to AC. This bonus applies against incorporeal touch attacks. <br><br>At any time, as a free action, you may dismiss your shield, at which point it deals 1d6 points of electrical damage to all creatures within a 5-foot burst, including you. A Reflex saving throw halves the damage.",
     "name_zh": "冲击屏障",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>这个法术会创造一块无形的盾牌，和护盾术类似但是不如它强力。<\/p><p>这块盾牌会悬浮在你面前并阻挡魔法飞弹攻击。盾牌为你提供AC+2的护盾加值。此加值适用于虚体的接触攻击。<\/p><p>在任何时候，以一个自由动作，你可以解消你的盾牌，让它爆炸并对你周围5尺范围内的生物造成1d6点电击伤害 (反射减半)。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>这个法术会创造一块无形的盾牌，和护盾术类似但是不如它强力。<\/p><p>这块盾牌会悬浮在你面前并阻挡魔法飞弹攻击。盾牌为你提供AC+2的护盾加值。此加值适用于虚体的接触攻击。<\/p><p>在任何时候，以一个自由动作，你可以解消你的盾牌，让它爆炸并对你周围5尺范围内的生物造成1d6点电击伤害 (反射减半)。<\/p>"
 }

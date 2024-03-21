@@ -19,15 +19,10 @@
 
         <h1>Pathfinder法术速查</h1>
 
-        <div style="display: flex; flex-wrap: wrap;">
-            <div>名称：</div>
-            <input type="text" id="name">
-            <input type="button" onclick="search();" value="查找">
-        </div>
         <div style="display: flex; flex-wrap: wrap;" id="school">
             <div>学派：</div>
         </div>
-        <div style="display: flex; flex-wrap: wrap;" id="subSchool">
+        <div style="display: flex; flex-wrap: wrap;" id="subSchools">
             <div>子学派：</div>
         </div>
         <div style="display: flex; flex-wrap: wrap;" id="descriptors">
@@ -63,11 +58,17 @@
                 <tr><td>UW</td><td>Ultimate Wilderness</td><td>极限荒野</td><td>PZO1140</td></tr>
                 <tr><td>PA</td><td>Planar Adventures</td><td>位面冒险</td><td>PZO1141</td></tr>
                 <tr><td>AP</td><td>Adventure Paths</td><td>冒险之路</td><td>PZO90xx</td></tr>
-                <tr><td>CS</td><td>Campaign Setting Sourcebooks</td><td>战役设定</td><td>PZO92xx</td></tr>
-                <tr><td>PC</td><td>Player Companion Sourcebooks</td><td>玩家伴侣</td><td>PZO94xx</td></tr>
+                <tr><td>PCS</td><td>Pathfinder Campaign Setting</td><td>战役设定</td><td>PZO92xx</td></tr>
+                <tr><td>PPC</td><td>Pathfinder Player Companion</td><td>玩家伴侣</td><td>PZO94xx</td></tr>
                 <tr><td>Mod</td><td>Modules</td><td>模组</td><td>PZO95xx</td></tr>
+                <tr><td>other</td><td></td><td>其它</td><td></td></tr>
             </table>
         </details>
+        <div style="display: flex; flex-wrap: wrap;">
+            <div>名称：</div>
+            <input type="text" id="name">
+            <input type="button" onclick="search();" value="查找">
+        </div>
 
 		<div style="width: 100%; overflow-x: auto; overflow-y: visible;" id="table">
 		</div>

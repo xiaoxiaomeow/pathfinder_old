@@ -1,35 +1,38 @@
 {
     "key": "bloatbomb",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloatbomb/",
     "name": "Bloatbomb",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloatbomb",
+    "source": ["Advanced Class Guide pg. 175"],
     "school": "necromancy",
     "descriptors":     [
         "acid",
         "death"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 4,
         "cleric": 4,
-        "sorcerer/wizard": 4
+        "oracle": 4,
+        "sorcerer": 4,
+        "warpriest": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "living creature touched",
-    "duration": "instantaneous and 1 min./level (see text)",
-    "savingThrow": "Fort negates or Reflex half (see text)",
+    "duration": "instantaneous and 1 minute/level (see text)",
+    "savingThrow": "Fortitude negates or Reflex half (see text)",
     "spellResistance": "yes",
-    "text": "<p>The target creature dies if it fails a Fortitude saving throw and its Hit Dice are no more than half your caster level. If it dies, its corpse rapidly putrefies. The next creature to touch the corpse within 1 minute per level of the target's death causes the corpse to explode in a 10-foot-radius burst, dealing 3d6 points of acid damage (Reflex half).<\/p>",
+    "text": "The target creature dies if it fails a Fortitude saving throw and its Hit Dice are no more than half your caster level. If it dies, its corpse rapidly putrefies. The next creature to touch the corpse within 1 minute per level of the target’s death causes the corpse to explode in a 10-foot-radius burst, dealing 3d6 points of acid damage (Reflex half).",
     "name_zh": "腐尸爆弹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "接触",
     "target_zh": "接触到的活物",
-    "duration_zh": "立即 和 1分钟/等级（见后文）",
-    "savingThrow_zh": "强韧，通过则无效 或 反射，通过则减半（见后文）",
+    "duration_zh": "立即 和 1分钟/等级; 见文本",
+    "savingThrow_zh": "强韧, 通过则无效 或 反射, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标生物如果在强韧豁免中失败，而且其生命骰不超过你的施法者等级的一半，则会死亡。若目标死亡，它的尸体会迅速腐败。在目标死亡后，每施法者等级1分钟内，下一个碰触该尸体的生物会导致尸体产生爆炸，影响半径10尺爆发区域，造成3d6点强酸伤害（反射，通过则减半）。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>目标生物如果在强韧豁免中失败，而且其生命骰不超过你的施法者等级的一半，则会死亡。若目标死亡，它的尸体会迅速腐败。在目标死亡后，每施法者等级1分钟内，下一个碰触该尸体的生物会导致尸体产生爆炸，影响半径10尺爆发区域，造成3d6点强酸伤害（反射，通过则减半）。<\/p>"
 }

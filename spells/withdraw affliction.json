@@ -1,8 +1,8 @@
 {
     "key": "withdraw affliction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/withdraw-affliction/",
     "name": "Withdraw Affliction",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Withdraw%20Affliction",
+    "source": ["Occult Adventures pg. 191"],
     "school": "necromancy",
     "levels":     {
         "psychic": 6,
@@ -17,7 +17,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You push your hand into the subject, then withdraw an affliction from the body of the sufferer as a tangible object.<\/p><p>This extraction appears as a slimy mass of flesh. The target creature is cured as if affected by remove disease, remove curse, or neutralize poison.<\/p><p>In addition, this slimy mass allows you to deliver the affliction to another as a touch attack, as if holding the charge for a touch spell. It has the same effect as the original affliction, with the same saving throw and DC.<\/p>",
+    "text": "You push your hand into the subject, then withdraw an affliction from the body of the sufferer as a tangible object. This extraction appears as a slimy mass of flesh. The target creature is cured as if affected by <i>remove disease<\/i>, <i>remove curse<\/i>, or <i>neutralize poison<\/i>.<br><br>In addition, this slimy mass allows you to deliver the affliction to another as a touch attack, as if holding the charge for a touch spell. It has the same effect as the original affliction, with the same saving throw and DC.",
     "name_zh": "提取苦难",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -26,6 +26,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你把手探入到受术者体内，将一个苦难（affliction）从受难者的体内取出，就好像拿出一个实实在在的物体一般。这种提取物看起来好像是黏糊糊的肉质。目标生物会被治愈，就好像受到了移除疾病（Remove Disease）、移除诅咒（Remove Curse）或中和毒性（Neutralize Poison）的影响一般。\n此外，这种粘稠的物质使得你能够以一次接触攻击将苦难传递给他人，就好像维持着一个接触法术一般（holding the charge for a touch spell）。这与原本的苦难有着相同的效果，而且有着相同的豁免检定和DC。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你把手探入到受术者体内，将一个苦难（affliction）从受难者的体内取出，就好像拿出一个实实在在的物体一般。这种提取物看起来好像是黏糊糊的肉质。目标生物会被治愈，就好像受到了移除疾病（Remove Disease）、移除诅咒（Remove Curse）或中和毒性（Neutralize Poison）的影响一般。<\/p><p>此外，这种粘稠的物质使得你能够以一次接触攻击将苦难传递给他人，就好像维持着一个接触法术一般（holding the charge for a touch spell）。这与原本的苦难有着相同的效果，而且有着相同的豁免检定和DC。<\/p>"
 }

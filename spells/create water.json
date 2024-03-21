@@ -1,16 +1,22 @@
 {
     "key": "create water",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-water/",
     "name": "Create Water",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Water",
+    "source": ["PRPG Core Rulebook pg. 262"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["water"],
     "levels":     {
-        "cleric/oracle": 0,
+        "adept": 0,
+        "cleric": 0,
         "druid": 0,
+        "hunter": 0,
         "inquisitor": 0,
+        "occultist": 0,
+        "oracle": 0,
         "paladin": 1,
-        "shaman": 0
+        "shaman": 0,
+        "warpriest": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +25,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as small as will actually contain the liquid, or in an area three times as large &#8212; possibly creating a downpour or filling many small receptacles. This water disappears after 1 day if not consumed.<\/p><p><b><i>Note<\/i><\/b>: Conjuration spells can't create substances or objects within a creature. Water weighs about 8 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.<\/p>",
+    "text": "This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as small as will actually contain the liquid, or in an area three times as large—possibly creating a downpour or filling many small receptacles. This water disappears after 1 day if not consumed.<br><br><i>Note<\/i>: Conjuration spells can't create substances or objects within a creature. Water weighs about 8 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.",
     "name_zh": "造水术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "至多每等级两加仑水",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术会造出卫生的可饮用水，就如同洁净的雨水一般。你可以将水创造至可以容纳液体的大小合适的区域中，或者三倍于上述大小的区域——这些水和可能像雨一样倾盆而落，或者充满许多较小的容器。如果这些水没有被消耗掉，则会在1天后消失。<\/p><p>注意：咒法系法术不能在生物体内造出物质或物体。每加仑水约重8磅。一立方尺可以容纳8加仑的水，大约60磅重。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会造出卫生的可饮用水，就如同洁净的雨水一般。你可以将水创造至可以容纳液体的大小合适的区域中，或者三倍于上述大小的区域——这些水和可能像雨一样倾盆而落，或者充满许多较小的容器。如果这些水没有被消耗掉，则会在1天后消失。<\/p><p>注意：咒法系法术不能在生物体内造出物质或物体。每加仑水约重8磅。一立方尺可以容纳8加仑的水，大约60磅重。<\/p>"
 }

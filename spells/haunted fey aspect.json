@@ -1,27 +1,31 @@
 {
     "key": "haunted fey aspect",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunted-fey-aspect/",
     "name": "Haunted Fey Aspect",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Haunted%20Fey%20Aspect",
+    "source": ["Ultimate Combat pg. 230"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 0,
         "bard": 0,
+        "medium": 0,
+        "mesmerist": 0,
         "psychic": 0,
-        "sorcerer/wizard": 0
+        "skald": 0,
+        "sorcerer": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "S",
-    "range": "personal",
+    "range": "Personal",
     "target": "You",
-    "duration": "1 round/level (d)",
-    "text": "<p>You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1/cold iron against a single opponent until the end of the spell, or until you take damage.<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1/cold iron against a single opponent until the end of the spell, or until you take damage.",
     "name_zh": "精怪之相",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级 (可解消)",
-    "text_zh": "<p>持续时间    1轮/等级 (可解消)<\/p><p>你用一层奇怪的幻觉覆盖自己，使你看起来像一个扭曲怪异的精类生物。<\/p><p>你在针对一次单次攻击，获得DR1/寒铁的伤害减免，持续到法术持续时间结束或受到一次伤害。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1轮/等级 (可解消)<\/p><p>你用一层奇怪的幻觉覆盖自己，使你看起来像一个扭曲怪异的精类生物。<\/p><p>你在针对一次单次攻击，获得DR1/寒铁的伤害减免，持续到法术持续时间结束或受到一次伤害。<\/p>"
 }

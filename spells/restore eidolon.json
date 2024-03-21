@@ -1,11 +1,14 @@
 {
     "key": "restore eidolon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/restore-eidolon/",
     "name": "Restore Eidolon",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restore%20Eidolon",
+    "source": ["Ultimate Magic pg. 235"],
     "school": "conjuration",
-    "subSchool": ["healing"],
-    "levels": {"summoner/unchained summoner": 3},
+    "subSchools": ["healing"],
+    "levels":     {
+        "summoner": 3,
+        "summoner (unchained)": 3
+    },
     "castingTime": "1 minute",
     "components": "V, S, M (diamond dust worth 100 gp or 1,000 gp, see text)",
     "range": "touch",
@@ -13,7 +16,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions as restoration, except it only affects an eidolon.<\/p>",
+    "text": "This spell functions as <i>restoration<\/i>, except it only affects an eidolon.",
     "name_zh": "幻灵复原术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势，材料 (价值100gp或1000gp的钻石尘，详见描述)",
@@ -22,6 +25,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同复原术 (restoration) 一般作用，不过只影响一个幻灵。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同复原术 (restoration) 一般作用，不过只影响一个幻灵。<\/p>"
 }

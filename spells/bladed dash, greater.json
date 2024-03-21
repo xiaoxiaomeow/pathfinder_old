@@ -1,17 +1,23 @@
 {
     "key": "bladed dash, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bladed-dash/",
     "name": "Bladed Dash, Greater",
-    "base": "bladed dash",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bladed%20Dash,%20Greater",
+    "source": ["Inner Sea Magic pg. 52"],
     "school": "transmutation",
     "levels":     {
         "bard": 5,
         "magus": 5,
         "skald": 5
     },
-    "text": "<p>This spell functions like <i>bladed dash<\/i>, save that you can make a single melee attack against every creature you pass during the 30 feet of your dash. You cannot attack an individual creature more than once with spell.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "This spell functions like <i>bladed dash<\/i>, save that you can make a single melee attack against every creature you pass during the 30 feet of your dash. You cannot attack an individual creature more than once with spell.",
     "name_zh": "高等飞刃袭",
-    "text_zh": "<p>该法术的功能如同飞刃袭一般，不过你能够对30尺冲刺距离内经过的每一名生物进行单次近战攻击。你不能使用该法术对某个特定的生物进行一次以上的攻击。<\/p>",
-    "source": "CS-ISM"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "立即",
+    "text_zh": "<p>该法术的功能如同飞刃袭一般，不过你能够对30尺冲刺距离内经过的每一名生物进行单次近战攻击。你不能使用该法术对某个特定的生物进行一次以上的攻击。<\/p>"
 }

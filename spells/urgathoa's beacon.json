@@ -1,38 +1,39 @@
 {
     "key": "urgathoa's beacon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undead-beacon/",
     "name": "Urgathoa's Beacon",
-    "book": "Pathfinder Player Companion: Haunted Heroes Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Urgathoa's%20Beacon",
+    "source": ["Haunted Heroes Handbook pg. 29"],
     "school": "necromancy",
-    "subSchool": ["haunted"],
+    "subSchools": ["haunted"],
     "descriptors":     [
         "emotion",
-        "evil",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 2,
         "cleric": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "area": "one 5-ft. cube/level (S)",
-    "duration": "1 hour/level (d)",
+    "area": "one 5-ft cube/level (S)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You shroud an area in unclean influence, rendering those who pass through it and fail their Will saving throws more enticing to ravenous undead. When an affected creature comes within 60 feet of an undead creature, the spell immediately draws the undead creature's attention, granting it a +4 bonus on Perception checks to notice the affected creature and on saving throws to resist spells that hide or disguise the affected creature (such as hide from undead). Once the undead creature notices the affected creature, it feels compelled to kill and devour the affected creature, and gains a +1 profane bonus on attack rolls made against the affected creature and a +1 profane bonus on saving throws against the affected creature's spells and special abilities. The undead also ignores any concealment less than total concealment that an affected creature has. Each time the spell draws an undead creature's attention to an affected creature, the spell's haunt-like manifestation occurs during that round.<\/p><p class=\"divider\">HAUNT STATISTICS<\/p><p><b>Notice<\/b> Perception DC 20 (to see a pale light briefly in the area); <b>hp<\/b> 2 hp/level; <b>Trigger<\/b> proximity; <b>Reset<\/b> none<\/p>",
+    "text": "You shroud an area in Urgathoa’s unclean influence, rendering those who pass through it and fail their Will saving throws more enticing to ravenous undead. When an affected creature comes within 60 feet of an undead creature, the spell immediately draws the undead creature’s attention, granting it a +4 bonus on Perception checks to notice the affected creature and on saving throws to resist spells that hide or disguise the affected creature (such as <i>hide from undead<\/i>). Once the undead creature notices the affected creature, it feels compelled to kill and devour the affected creature, and gains a +1 profane bonus on attack rolls made against the affected creature and a +1 profane bonus on saving throws against the affected creature’s spells and special abilities. The undead also ignores any concealment less than total concealment that an affected creature has. Each time the spell draws an undead creature’s attention to an affected creature, the spell’s haunt-like manifestation occurs during that round. <br><br><h3 class=\"framing\">Haunt Statistics<\/h3><b>Notice <\/b>Perception DC 20 (to see a pale light briefly in the area)<br><b>hp <\/b>2 hp/level;<b> Trigger <\/b>proximity;<b> Reset <\/b>none ",
     "name_zh": "厄迦图娅的信标",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "5立方呎/等级（S）",
-    "duration_zh": "1小时/等级（D）",
+    "area_zh": "one 5-ft cube/level (S)",
+    "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你用厄迦图娅的不洁影响包裹住一片区域，那些穿过区域的人如果意志豁免失败则会在贪婪的死灵眼中变得更诱人。当受影响的生物接近到一个不死生物的60英呎以内，法术会立刻吸引不死生物的注意，让不死生物在注意到受影响生物的察觉检定和抵抗伪装受影响生物的法术（例如亡灵无视术）的豁免检定上获得+4加值，一旦不死生物注意到受影响生物，他就会觉得有必要杀死和吞噬受影响生物，并且在对受影响生物的攻击骰上获得+1的亵渎奖励，并且在对抗受影响生物的法术和特殊能力的豁免检定上获得+1亵渎奖励。不死生物也会忽略受影响生物身上的任何低于全隐蔽的隐蔽。每当这个法术吸引一个不死生物的注意力，法术的类作祟现象就会在该轮中发生。\n作祟数据\n察觉：察觉检定DC 20（to see a pale light briefly in the area）\n生命值：2hp/等级；触发：接近；再起：无<\/p>",
-    "source": "PC-HHH"
+    "text_zh": "<p>你用厄迦图娅的不洁影响包裹住一片区域，那些穿过区域的人如果意志豁免失败则会在贪婪的死灵眼中变得更诱人。当受影响的生物接近到一个不死生物的60英呎以内，法术会立刻吸引不死生物的注意，让不死生物在注意到受影响生物的察觉检定和抵抗伪装受影响生物的法术（例如亡灵无视术）的豁免检定上获得+4加值，一旦不死生物注意到受影响生物，他就会觉得有必要杀死和吞噬受影响生物，并且在对受影响生物的攻击骰上获得+1的亵渎奖励，并且在对抗受影响生物的法术和特殊能力的豁免检定上获得+1亵渎奖励。不死生物也会忽略受影响生物身上的任何低于全隐蔽的隐蔽。每当这个法术吸引一个不死生物的注意力，法术的类作祟现象就会在该轮中发生。<\/p><p>作祟数据<\/p><p>察觉：察觉检定DC 20（to see a pale light briefly in the area）<\/p><p>生命值：2hp/等级；触发：接近；再起：无<\/p>"
 }

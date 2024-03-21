@@ -1,23 +1,25 @@
 {
     "key": "spirit call",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-call/",
     "name": "Spirit Call",
-    "book": "Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spirit%20Call",
+    "source": ["Advanced Class Origins pg. 31"],
     "school": "enchantment",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "shaman": 1
     },
     "castingTime": "1 full round",
     "components": "V, S, DF",
     "range": "100 ft.",
-    "duration": "1 min./level",
-    "text": "<p>You call out to nature spirits associated with your spirit (not your wandering spirit) if you are a shaman, or your domain if you are a druid, beckoning them forth to pay attention to your current location. For the duration of the spell, all spells from your spirit magic list or domain list that are cast within the affected area have their caster level increased by 1, and all spellcasters casting such spells receive a +4 insight bonus on their concentration checks for those spells only.<\/p><table>  <tbody>   <tr>    <td class=\"text\">  <img decoding=\"async\" border=\"0\" src=\"http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=1601256892&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=httpwwwd20pfs-20\">  <img decoding=\"async\" alt=\"\" border=\"0\" height=\"1\" src=\"http://d20pfsrd.opengamingnetwork.com/wp-content/uploads/sites/12/2017/01/irthttpwwwd20pfs-20amplas2ampo-2ampa-260-2256892-2\" style=\"border:none!important;margin:0px!important\" width=\"1\"> <\/td>    <td class=\"text\">",
+    "effect": "100-ft.-radius spread centered on you",
+    "duration": "1 minute/level",
+    "text": "You call out to nature spirits associated with your spirit (not your wandering spirit) if you are a shaman, or your domain if you are a druid, beckoning them forth to pay attention to your current location. For the duration of the spell, all spells from your spirit magic list or domain list that are cast within the affected area have their caster level increased by 1, and all spellcasters casting such spells receive a +4 insight bonus on their concentration checks for those spells only.",
     "name_zh": "魂灵呼唤",
     "castingTime_zh": "整轮动作",
     "components_zh": "语言、姿势、法器",
+    "range_zh": "100尺",
     "effect_zh": "以你为中心，半径100呎扩散区域",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>如果你是个萨满，你呼唤一个与你魂域相联系的自然精魂 (并非你的飘渺魂域)，如果你是个德鲁伊，那就是领域，召唤这些精魂前来并注意你当前所处的位置。在法术持续时间，所有从你的魂域法术表或著领域法术表内被施放的法术，在受影响区域内中，它们的施法者等级加1，而所有在施放此法术的施法者，在专注检定上获得+4内在加值。<\/p>",
-    "source": "PC-ACO"
+    "text_zh": "<p>如果你是个萨满，你呼唤一个与你魂域相联系的自然精魂 (并非你的飘渺魂域)，如果你是个德鲁伊，那就是领域，召唤这些精魂前来并注意你当前所处的位置。在法术持续时间，所有从你的魂域法术表或著领域法术表内被施放的法术，在受影响区域内中，它们的施法者等级加1，而所有在施放此法术的施法者，在专注检定上获得+4内在加值。<\/p>"
 }

@@ -1,15 +1,17 @@
 {
     "key": "waves of exhaustion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-exhaustion/",
     "name": "Waves of Exhaustion",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Waves%20of%20Exhaustion",
+    "source": ["PRPG Core Rulebook pg. 368"],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "arcanist": 7,
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "domains": {"repose": 8},
-    "subdomains": {"toil": 7},
-    "bloodlines": {"daemon": 7},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "60 ft.",
@@ -17,7 +19,7 @@
     "duration": "instantaneous",
     "savingThrow": "no",
     "spellResistance": "yes",
-    "text": "<p>Waves of negative energy cause all living creatures in the spell's area to become exhausted. This spell has no effect on a creature that is already exhausted.<\/p>",
+    "text": "Waves of negative energy cause all living creatures in the spell's area to become exhausted. This spell has no effect on a creature that is already exhausted.",
     "name_zh": "力竭波",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -26,6 +28,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>负能量波会使得法术区域内的所有活物力竭。该法术对已经力竭的生物没有效果。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>负能量波会使得法术区域内的所有活物力竭。该法术对已经力竭的生物没有效果。<\/p>"
 }

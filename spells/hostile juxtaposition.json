@@ -1,15 +1,19 @@
 {
     "key": "hostile juxtaposition",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hostile-juxtaposition/",
     "name": "Hostile Juxtaposition",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hostile%20Juxtaposition",
+    "source": ["Ultimate Combat pg. 231"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
-        "sorcerer/wizard": 5,
+        "arcanist": 5,
+        "mesmerist": 4,
+        "psychic": 5,
+        "sorcerer": 5,
         "summoner": 4,
-        "unchained summoner": 5,
-        "witch": 5
+        "summoner (unchained)": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a coin)",
@@ -18,15 +22,14 @@
     "duration": "1 round/level or until discharged",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You create a dimensional link to the target creature. When attacked or the subject of a spell that deals damage to you, you can spend an immediate action to cause yourself and the target creature to teleport and switch places. The target then becomes the target of the triggering attack or spell instead of you. If you fail to teleport out of the area of an effect, that effect might still affect you. If the target creature cannot fit safely into the new space without squeezing, or you try to teleport the target into an occupied space or a space it could not normally stand within, the juxtaposition fails. Further, if the target is unconscious or dead when you attempt to switch places, the juxtaposition fails. Once you have used it to teleport once, this spell is discharged.<\/p>",
+    "text": "You create a dimensional link to the target creature. When attacked or the subject of a spell that deals damage to you, you can spend an immediate action to cause yourself and the target creature to teleport and switch places. The target then becomes the target of the triggering attack or spell instead of you. If you fail to teleport out of the area of an effect, that effect might still affect you. If the target creature cannot fit safely into the new space without squeezing, or you try to teleport the target into an occupied space or a space it could not normally stand within, the juxtaposition fails. Further, if the target is unconscious or dead when you attempt to switch places, the juxtaposition fails. Once you have used it to teleport once, this spell is discharged.",
     "name_zh": "恶意换位",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一枚硬币)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个体型与你相等或更小的生物",
-    "duration_zh": "1轮/等级或 直至",
+    "duration_zh": "1轮/等级 或 直至耗散",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术工作方式如同恶意换位 (Hostile Juxtaposition)，不过你可以每4施法者等级设定一个目标，或者你可以将一个体积比你大的生物设为目标。<\/p><p>你可以在效果持续中随意和任何一个受术目标进行位置交换。<\/p><p>一旦你使用了本法术的传送效果与任何一个受术生物交换位置，法术效果结束。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>这个法术工作方式如同恶意换位 (Hostile Juxtaposition)，不过你可以每4施法者等级设定一个目标，或者你可以将一个体积比你大的生物设为目标。<\/p><p>你可以在效果持续中随意和任何一个受术目标进行位置交换。<\/p><p>一旦你使用了本法术的传送效果与任何一个受术生物交换位置，法术效果结束。<\/p>"
 }

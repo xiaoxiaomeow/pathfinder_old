@@ -1,0 +1,30 @@
+{
+    "key": "air walk, communal",
+    "name": "Air Walk, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Air%20Walk,%20Communal",
+    "source": ["Ultimate Combat pg. 222"],
+    "school": "transmutation",
+    "descriptors": ["air"],
+    "levels":     {
+        "alchemist": 5,
+        "cleric": 5,
+        "druid": 5,
+        "hunter": 5,
+        "investigator": 5,
+        "occultist": 5,
+        "oracle": 5,
+        "warpriest": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "touch",
+    "duration": "10 min./level",
+    "savingThrow": "none",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>air walk<\/i>, except divide the duration in 10-minute intervals among the creatures touched.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "10分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可 (无害)"
+}

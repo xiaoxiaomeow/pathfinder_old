@@ -1,19 +1,19 @@
 {
     "key": "planeslayer's call",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planeslayer-s-call/",
     "name": "Planeslayer's Call",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Planeslayer's%20Call",
+    "source": ["Advanced Class Guide pg. 190"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
-    "descriptors":     [
-        "mind-affecting",
-        "see text"
-    ],
-    "descriptorOperator": "and",
+    "subSchools": ["compulsion"],
+    "descriptors": ["mind-affecting"],
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 5,
         "inquisitor": 4,
-        "paladin": 4
+        "occultist": 4,
+        "oracle": 5,
+        "paladin": 4,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -21,7 +21,7 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>The magic of your allies in the area becomes more potent against certain outsiders. Chose one alignment subtype (chaotic, evil, good, or lawful). Against outsiders with that alignment component or subtype, your allies in the area gain a +2 bonus on caster level checks to overcome spell resistance, and their spells ignore the first 10 points of energy resistance (but not energy immunity).<\/p><p>This spell gains the alignment descriptor that is opposite the outsider alignment chosen. For example, if you choose for the spell to affect evil outsiders, then this spell has the good descriptor.<\/p>",
+    "text": "The magic of your allies in the area becomes more potent against certain outsiders. Chose one alignment subtype (chaotic, evil, good, or lawful). Against outsiders with that alignment component or subtype, your allies in the area gain a +2 bonus on caster level checks to overcome spell resistance, and their spells ignore the first 10 points of energy resistance (but not energy immunity).<br><br> This spell gains the alignment descriptor that is opposite the outsider alignment chosen. For example, if you choose for the spell to affect evil outsiders, then this spell has the good descriptor.",
     "name_zh": "异界杀手之念",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
@@ -30,6 +30,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>身处法术区域内的盟友的魔法，会对某些异界生物更为有效。选择一种阵营类型（混乱、邪恶、善良或秩序）。在对抗具有此类阵营要素或者亚种的异界生物时，区域内的盟友会在克服法术抗力的施法者等级检定中获得+2加值，并且他们的法术能够忽略前10点能量抗力（但是对能量免疫无效）。\n该法术会获得与你所选择的阵营类型相对的阵营描述符。举例说明：若你为选择让法术对邪恶异界生物生效，那么法术便会获得善良描述符。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>身处法术区域内的盟友的魔法，会对某些异界生物更为有效。选择一种阵营类型（混乱、邪恶、善良或秩序）。在对抗具有此类阵营要素或者亚种的异界生物时，区域内的盟友会在克服法术抗力的施法者等级检定中获得+2加值，并且他们的法术能够忽略前10点能量抗力（但是对能量免疫无效）。<\/p><p>该法术会获得与你所选择的阵营类型相对的阵营描述符。举例说明：若你为选择让法术对邪恶异界生物生效，那么法术便会获得善良描述符。<\/p>"
 }

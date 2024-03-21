@@ -1,13 +1,19 @@
 {
     "key": "rend body ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rend-body-i/",
     "name": "Rend Body II",
-    "base": "rend body i",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rend%20Body%20II",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "evocation",
     "levels": {"psychic": 6},
-    "text": "<p>This spell functions as per <i>rend body I<\/i>, but the target takes 1d8 points of damage per caster level you have (maximum 10d8). This spell can be undercast.<\/p>",
+    "castingTime": "1 full-round action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "text": "This spell functions as per <i>rend body I<\/i>, but the target takes 1d8 points of damage per caster level you have (maximum 10d8). This spell can be undercast.",
     "name_zh": "撕扯肢体 II",
-    "text_zh": "<p>该法术的功能如同撕扯肢体I一般，除了目标承受每个你的施法者等级1d8点伤害（最大10d8点伤害）。该法术可以被降阶施法。<\/p>",
-    "source": "PC-PA"
+    "castingTime_zh": "整轮动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "text_zh": "<p>该法术的功能如同撕扯肢体I一般，除了目标承受每个你的施法者等级1d8点伤害（最大10d8点伤害）。该法术可以被降阶施法。<\/p>"
 }

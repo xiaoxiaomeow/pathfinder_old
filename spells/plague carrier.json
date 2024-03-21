@@ -1,19 +1,24 @@
 {
     "key": "plague carrier",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-carrier/",
     "name": "Plague Carrier",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plague%20Carrier",
+    "source": ["Ultimate Magic pg. 231"],
     "school": "necromancy",
     "descriptors":     [
         "disease",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 4,
+        "arcanist": 5,
+        "cleric": 4,
         "druid": 4,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "hunter": 4,
+        "oracle": 4,
+        "sorcerer": 5,
+        "warpriest": 4,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -22,7 +27,7 @@
     "duration": "1 hour/level",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>The target's natural attacks carry filth fever (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)<\/p>",
+    "text": "The target’s natural attacks carry filth fever (DC 10 + 1/2 of the creature’s Hit Dice + creature’s Con modifier).",
     "name_zh": "瘟疫打击",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -31,6 +36,5 @@
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>目标的天生武器会诱发腐热症 (Filth Fever)，DC为10+1/2生物HD+生物体质调整值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>目标的天生武器会诱发腐热症 (Filth Fever)，DC为10+1/2生物HD+生物体质调整值。<\/p>"
 }

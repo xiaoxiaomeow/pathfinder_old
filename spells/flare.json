@@ -1,16 +1,23 @@
 {
     "key": "flare",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flare/",
     "name": "Flare",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flare",
+    "source": ["PRPG Core Rulebook pg. 284"],
     "school": "evocation",
     "descriptors": ["light"],
     "levels":     {
+        "arcanist": 0,
         "bard": 0,
         "druid": 0,
+        "hunter": 0,
         "magus": 0,
+        "medium": 0,
+        "mesmerist": 0,
+        "occultist": 0,
         "psychic": 0,
-        "sorcerer/wizard": 0
+        "skald": 0,
+        "sorcerer": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -19,15 +26,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>This cantrip creates a burst of light. If you cause the light to burst in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by <i>flare<\/i>.<\/p>",
+    "text": "This cantrip creates a burst of light. If you cause the light to burst in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by <i>flare<\/i>.",
     "name_zh": "闪光术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "爆发的闪光",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个戏法造出一股爆发的闪光。如果你在单个生物的面前造出这股闪光，那么除非该名生物成功通过强韧豁免，否则就会目眩1分钟。没有视觉的生物，以及已经目眩的生物不受闪光术影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个戏法造出一股爆发的闪光。如果你在单个生物的面前造出这股闪光，那么除非该名生物成功通过强韧豁免，否则就会目眩1分钟。没有视觉的生物，以及已经目眩的生物不受闪光术影响。<\/p>"
 }

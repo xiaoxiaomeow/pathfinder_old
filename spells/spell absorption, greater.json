@@ -1,13 +1,23 @@
 {
     "key": "spell absorption, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-absorption/",
     "name": "Spell Absorption, Greater",
-    "base": "spell absorption",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spell%20Absorption,%20Greater",
+    "source": ["Inner Sea Magic pg. 61"],
     "school": "abjuration",
-    "levels": {"sorcerer/wizard": 8},
-    "text": "<p>This spell functions as spell absorption, save that you can absorb countered spells of 6th level or lower.<\/p><\/div>",
+    "levels":     {
+        "arcanist": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M (a prism)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "This spell functions as <i>spell absorption<\/i>, save that you can absorb countered spells of 6th level or lower.",
     "name_zh": "高等法力吸收",
-    "text_zh": "<p>该法术的功能与法力吸收相同，不过你能够反制并吸收的是6级或更低等级的法术。<\/p>",
-    "source": "CS-ISM"
+    "castingTime_zh": "1轮",
+    "range_zh": "个人",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>该法术的功能与法力吸收相同，不过你能够反制并吸收的是6级或更低等级的法术。<\/p>"
 }

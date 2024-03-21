@@ -1,16 +1,20 @@
 {
     "key": "air walk",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-walk/",
     "name": "Air Walk",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Air%20Walk",
+    "source": ["PRPG Core Rulebook pg. 239"],
     "school": "transmutation",
     "descriptors": ["air"],
     "levels":     {
         "alchemist": 4,
-        "cleric/oracle": 4,
-        "druid": 4
+        "cleric": 4,
+        "druid": 4,
+        "hunter": 4,
+        "investigator": 4,
+        "occultist": 4,
+        "oracle": 4,
+        "warpriest": 4
     },
-    "domains": {"air": 4},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -18,7 +22,7 @@
     "duration": "10 min./level",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject can tread on air as if walking on solid ground. Moving upward is similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, at a rate equal to half the air walker's normal speed.<\/p><p>A strong wind (21+ miles per hour) can push the subject along or hold it back. At the end of a creature's turn each round, the wind blows the air walker 5 feet for each 5 miles per hour of wind speed. The creature may be subject to additional penalties in exceptionally strong or turbulent winds, such as loss of control over movement or physical damage from being buffeted about.<\/p><p>Should the spell duration expire while the subject is still aloft, the magic fails slowly. The subject floats downward 60 feet per round for 1d6 rounds. If it reaches the ground in that amount of time, it lands safely. If not, it falls the rest of the distance, taking 1d6 points of damage per 10 feet of fall. Since dispelling a spell effectively ends it, the subject also descends in this way if the air walk spell is dispelled, but not if it is negated by an antimagic field.<\/p><p>You can cast air walk on a specially trained mount so it can be ridden through the air. You can train a mount to move with the aid of air walk (counts as a trick; see Handle Animal skill) with 1 week of work and a DC 25 Handle Animal check.<\/p>",
+    "text": "The subject can tread on air as if walking on solid ground. Moving upward is similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, at a rate equal to half the air walker's normal speed.<br><br>A strong wind (21+ miles per hour) can push the subject along or hold it back. At the end of a creature's turn each round, the wind blows the air walker 5 feet for each 5 miles per hour of wind speed. The creature may be subject to additional penalties in exceptionally strong or turbulent winds, such as loss of control over movement or physical damage from being buffeted about.<br><br>Should the spell duration expire while the subject is still aloft, the magic fails slowly. The subject floats downward 60 feet per round for 1d6 rounds. If it reaches the ground in that amount of time, it lands safely. If not, it falls the rest of the distance, taking 1d6 points of damage per 10 feet of fall. Since dispelling a spell effectively ends it, the subject also descends in this way if the <i>air walk<\/i> spell is dispelled, but not if it is negated by an <i>antimagic field<\/i>.<br><br>You can cast <i>air walk<\/i> on a specially trained mount so it can be ridden through the air. You can train a mount to move with the aid of <i>air walk<\/i> (counts as a trick; see Handle Animal skill) with 1 week of work and a DC 25 Handle Animal check.",
     "name_zh": "凌空而行",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -27,6 +31,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>受术者可以在空气中行走，如同走在固体地面上一样。向上移动很像登上一座小山。向上或向下最大角度是45度，此时速度为受术者正常速度的一半。<\/p><p>一阵强风 (每小时21英里以上) 能推动受术者或将其吹停在原地。在每轮中受术者的回合结束时，风都会吹动凌空行走者，风速每达到5英里/小时就会吹动受术者5尺。在特别强的大风中生物可能还会遭受其它的惩罚，例如失去移动的控制，或者受到物理伤害等。<\/p><p>如果法术持续时间结束时受术者还在高处，这个魔法会缓慢地消逝。受术者会在1d6轮内以每轮60尺的速度漂落。如果在此期间内他接触到了地面，那么他将安全着陆。如果没有，他会从剩余的高度处跌落，每坠落10尺距离将会遭受1d6点伤害。由于解除一个魔法实际上就是结束它，因此如果凌空而行被解除掉，受术者依然可以以这种方式下降。但是如果是被‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’所抵消，那么将不会如此下降。<\/p><p>你可以给一匹受过特殊训练的坐骑施展凌空而行，这样就可以骑着它在空中行走。你可以花费一个星期来训练坐骑在有凌空而行的情况下行走 (计作一项技巧；见驯养动物技能)，驯养动物检定DC为25。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者可以在空气中行走，如同走在固体地面上一样。向上移动很像登上一座小山。向上或向下最大角度是45度，此时速度为受术者正常速度的一半。<\/p><p>一阵强风 (每小时21英里以上) 能推动受术者或将其吹停在原地。在每轮中受术者的回合结束时，风都会吹动凌空行走者，风速每达到5英里/小时就会吹动受术者5尺。在特别强的大风中生物可能还会遭受其它的惩罚，例如失去移动的控制，或者受到物理伤害等。<\/p><p>如果法术持续时间结束时受术者还在高处，这个魔法会缓慢地消逝。受术者会在1d6轮内以每轮60尺的速度漂落。如果在此期间内他接触到了地面，那么他将安全着陆。如果没有，他会从剩余的高度处跌落，每坠落10尺距离将会遭受1d6点伤害。由于解除一个魔法实际上就是结束它，因此如果凌空而行被解除掉，受术者依然可以以这种方式下降。但是如果是被‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’所抵消，那么将不会如此下降。<\/p><p>你可以给一匹受过特殊训练的坐骑施展凌空而行，这样就可以骑着它在空中行走。你可以花费一个星期来训练坐骑在有凌空而行的情况下行走 (计作一项技巧；见驯养动物技能)，驯养动物检定DC为25。<\/p>"
 }

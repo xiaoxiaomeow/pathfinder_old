@@ -1,39 +1,39 @@
 {
     "key": "fire shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-shield/",
     "name": "Fire Shield",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fire%20Shield",
+    "source": ["PRPG Core Rulebook pg. 282"],
     "school": "evocation",
     "descriptors":     [
         "fire",
         "cold"
     ],
-    "descriptorOperator": "or",
+    "descriptorsOperator": "or",
     "levels":     {
         "alchemist": 4,
+        "arcanist": 4,
         "bloodrager": 4,
+        "investigator": 4,
         "magus": 4,
-        "sorcerer/wizard": 4,
+        "occultist": 4,
+        "sorcerer": 4,
         "summoner": 3,
-        "unchained summoner": 4
+        "summoner (unchained)": 4,
+        "wizard": 4
     },
-    "domains":     {
-        "fire": 5,
-        "sun": 4
-    },
-    "elementalSchools": {"fire": 4},
     "castingTime": "1 standard action",
-    "components": "V, S, M (phosphorus for the <i>warm shield;<\/i> a firefly or glowworm for the <i>chill shield)<\/i>",
+    "components": "V, S, M (phosphorus for the <i>warm shield<\/i>; a firefly or glowworm for the <i>chill shield<\/i>)",
     "range": "personal",
     "target": "you",
-    "duration": "1 round/level (d)",
-    "text": "<p>This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks, depending on if you choose cool or warm flames for your <i>fire shield<\/i>.<\/p><p>Any creature striking you with its body or a hand-held weapon deals normal damage, but at the same time the attacker takes 1d6 points of damage + 1 point per caster level (maximum +15). This damage is either cold damage (if you choose a <i>chill shield<\/i>) or fire damage (if you choose a <i>warm shield<\/i>). If the attacker has spell resistance, it applies to this effect. Creatures wielding melee weapons with reach are not subject to this damage if they attack you.<\/p><p>When casting this spell, you appear to immolate yourself, but the flames are thin and wispy, increasing the light level within 10 feet by one step, up to normal light. The color of the flames is blue or green if the <i>chill shield<\/i> is cast, violet or red if the <i>warm shield<\/i> is employed. The special powers of each version are as follows.<\/p><p style=\"margin-left:40px\"><i>Chill Shield<\/i>: The flames are cool to the touch. You take only half damage from fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.<\/p><p style=\"margin-left:40px\"><i>Warm Shield<\/i>: The flames are warm to the touch. You take only half damage from cold-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.<\/p>",
-    "mythicText": "<p class=\"source\"><b>Source<\/b> PZO1126 <br>The damage dealt to your attackers increases to 1d8 points of damage + 1 point per caster level (maximum +15). A chill shield gives you fire immunity. A warm shield gives you cold immunity. <br><\/div>",
+    "duration": "1 round/level (D)",
+    "text": "This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks, depending on if you choose cool or warm flames for your fire shield.<br><br>Any creature striking you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of damage + 1 point per caster level (maximum +15). This damage is either cold damage (if you choose a <i>chill shield<\/i>) or fire damage (if you choose a <i>warm shield<\/i>). If the attacker has spell resistance, it applies to this effect. Creatures wielding melee weapons with reach are not subject to this damage if they attack you.<br><br>When casting this spell, you appear to immolate yourself, but the flames are thin and wispy, increasing the light level within 10 feet by one step, up to normal light. The color of the flames is blue or green if the <i>chill shield<\/i> is cast, violet or red if the <i>warm shield<\/i> is employed. The special powers of each version are as follows.<br><br><i>Chill Shield<\/i>: The flames are cool to the touch. You take only half damage from fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.<br><br><i>Warm Shield<\/i>: The flames are warm to the touch. You take only half damage from cold-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.<h2 class=\"title\">Mythic Fire Shield<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 94<\/i><br>The damage dealt to your attackers increases to 1d8 points of damage + 1 point per caster level (maximum +15). A chill shield gives you fire immunity. A warm shield gives you cold immunity.",
+    "mythicSource": ["Mythic Adventures pg. 94"],
+    "mythicText": "The damage dealt to your attackers increases to 1d8 points of damage + 1 point per caster level (maximum +15). A chill shield gives you fire immunity. A warm shield gives you cold immunity.",
     "name_zh": "火焰护盾",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (温暖护盾要一块磷；寒冷护盾要萤火虫或火萤)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级 (可解消)",
-    "text_zh": "<p>这个法术将火焰环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种火焰同时还在基于寒冷的攻击或基于火焰的攻击中保护你，产生何种效果取决于你选择使用何种功效的火焰护盾。<\/p><p>任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 {1d6+CL (最高+15)} 点伤害。该伤害可以是寒冷伤害 (如果你选择寒冷护盾)，也可以是火焰伤害 (如果你选择温暖护盾)。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。<\/p><p>当你施放该法术时，看起来好像是在自焚，但是火焰很薄也很稀疏，只能将10尺内的光照等级提高一阶，至多为常光 (normal light)。如果你施放的是寒冷护盾，那么火焰的颜色为蓝色或绿色；如果你施放的是温暖护盾，那么火焰的颜色则为是紫色或红色。每种功效的特殊能力见后文。<\/p><p>寒冷护盾 (Chill Shield): 火焰的触感是寒冷的。基于火焰的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。<\/p><p>温暖护盾 (Warm Shield): 火焰的触感是温暖的。基于寒冷的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术将火焰环绕在你的身上，并且对每个在近战中攻击你的生物造成伤害。这种火焰同时还在基于寒冷的攻击或基于火焰的攻击中保护你，产生何种效果取决于你选择使用何种功效的火焰护盾。<\/p><p>任何用肢体或手持武器攻击到你的人依然造成正常伤害，但是同时攻击者会受到 {1d6+CL (最高+15)} 点伤害。该伤害可以是寒冷伤害 (如果你选择寒冷护盾)，也可以是火焰伤害 (如果你选择温暖护盾)。如果攻击者有法术抗力，那么它可以应用在该效果上。使用长触及武器的生物在攻击你时不会受到这个伤害。<\/p><p>当你施放该法术时，看起来好像是在自焚，但是火焰很薄也很稀疏，只能将10尺内的光照等级提高一阶，至多为常光 (normal light)。如果你施放的是寒冷护盾，那么火焰的颜色为蓝色或绿色；如果你施放的是温暖护盾，那么火焰的颜色则为是紫色或红色。每种功效的特殊能力见后文。<\/p><p>寒冷护盾 (Chill Shield): 火焰的触感是寒冷的。基于火焰的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。<\/p><p>温暖护盾 (Warm Shield): 火焰的触感是温暖的。基于寒冷的攻击只能对你造成一半的伤害。如果这类攻击允许通过反射豁免来减半伤害，那么当豁免成功时，你将不受伤害。<\/p>"
 }

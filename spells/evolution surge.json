@@ -1,22 +1,26 @@
 {
     "key": "evolution surge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/evolution-surge/",
     "name": "Evolution Surge",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Evolution%20Surge",
+    "source": ["Advanced Player's Guide pg. 220"],
     "school": "transmutation",
-    "levels": {"summoner/unchained summoner": 3},
+    "levels":     {
+        "summoner": 3,
+        "summoner (unchained)": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a chameleon scale)",
     "range": "touch",
-    "duration": "1 min./level",
+    "target": "your eidolon",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>This spell functions as <i>lesser evolution surge<\/i> (see below), except that you can grant any evolution whose total cost does not exceed 4 evolution points.<\/p><p>",
+    "text": "This spell functions as <i>lesser evolution surge<\/i>, except that you can grant any evolution whose total cost does not exceed 4 evolution points.",
     "name_zh": "激励进化",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>类似于次级激励进化 (Evolution Surge, Lesser)，但是你能给予一项不超过四点进化点的进化。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>类似于次级激励进化 (Evolution Surge, Lesser)，但是你能给予一项不超过四点进化点的进化。<\/p>"
 }

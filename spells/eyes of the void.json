@@ -1,26 +1,30 @@
 {
     "key": "eyes of the void",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eyes-of-the-void/",
-    "name": "Eyes of The Void",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "name": "Eyes of the Void",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Eyes%20of%20the%20Void",
+    "source": ["Advanced Class Guide pg. 181"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 4,
         "antipaladin": 4,
-        "sorcerer/wizard": 4
+        "arcanist": 4,
+        "investigator": 4,
+        "psychic": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a pinch of dried carrot or an agate)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You gain darkvision, the ability to see 60 feet even in total darkness, including that created by deeper darkness. Darkvision is black-and-white only, but otherwise like normal sight. While affected, your eyes turn completely black (but appear white to anyone viewing you with darkvision).<\/p>",
+    "duration": "1 minute/level",
+    "text": "You gain darkvision, the ability to see 60 feet even in total darkness, including that created by <i>deeper darkness<\/i>. Darkvision is black-and-white only, but otherwise like normal sight. While affected, your eyes turn completely black (but appear white to anyone viewing you with darkvision).",
     "name_zh": "虚空之眼",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（少量胡萝卜干或玛瑙）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你获得黑暗视觉，该能力能看清60尺内的事物，即便在完全的黑暗中也是如此，这也包括深幽黑暗术（deeper darkness）所创造的黑暗。黑暗视觉只能看到黑白两色，但是在其他方面和正常的视觉一样。在受法术影响时，你的双眼会完全变为黑色（但是对于使用黑暗视觉看你的人来说，则是完全的白色）。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你获得黑暗视觉，该能力能看清60尺内的事物，即便在完全的黑暗中也是如此，这也包括深幽黑暗术（deeper darkness）所创造的黑暗。黑暗视觉只能看到黑白两色，但是在其他方面和正常的视觉一样。在受法术影响时，你的双眼会完全变为黑色（但是对于使用黑暗视觉看你的人来说，则是完全的白色）。<\/p>"
 }

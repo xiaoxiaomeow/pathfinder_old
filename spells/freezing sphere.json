@@ -1,30 +1,31 @@
 {
     "key": "freezing sphere",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/freezing-sphere/",
     "name": "Freezing Sphere",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Freezing%20Sphere",
+    "source": ["PRPG Core Rulebook pg. 287"],
     "school": "evocation",
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
+        "occultist": 6,
+        "sorcerer": 6,
+        "wizard": 6
     },
-    "subdomains": {"ice": 7},
-    "elementalSchools": {"water": 6},
     "castingTime": "1 standard action",
     "components": "V, S, F (a small crystal sphere)",
     "range": "long (400 ft. + 40 ft./level)",
     "duration": "instantaneous or 1 round/level; see text",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p><i>Freezing sphere<\/i> creates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 40-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each creature in the area. A creature of the water subtype instead takes 1d8 points of cold damage per caster level (maximum 15d8) and is staggered for 1d4 rounds.<\/p><p>If the <i>freezing sphere<\/i> strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches in a 40-foot radius. This ice lasts for 1 round per caster level. Creatures that were swimming on the surface of a targeted body of water become trapped in the ice. Attempting to break free is a full-round action. A trapped creature must make a DC 25 Strength check or a DC 25 Escape Artist check to do so.<\/p><p>You can refrain from firing the globe after completing the spell, if you wish. Treat this as a touch spell for which you are holding the charge. You can hold the charge for as long as 1 round per level, at the end of which time the <i>freezing sphere<\/i> bursts centered on you (and you receive no saving throw to resist its effect). Firing the globe in a later round is a standard action.<\/p><h3>By the way&#8230;<\/h3><p>This spell can be used to attempt to trap a ship in ice by targeting the water around the ship rather than the ship itself. The ship's speed is reduced to 0 for the duration of the spell unless the pilot of the ship makes a DC 25 sailing check to break free of the ice.<\/p>",
+    "text": "<i>Freezing sphere<\/i> creates a frigid globe of cold energy that streaks from your fingertips to the location you select, where it explodes in a 40-foot-radius burst, dealing 1d6 points of cold damage per caster level (maximum 15d6) to each creature in the area. A creature of the water subtype instead takes 1d8 points of cold damage per caster level (maximum 15d8) and is staggered for 1d4 rounds.<br><br>If the <i>freezing sphere<\/i> strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches in a 40-foot radius. This ice lasts for 1 round per caster level. Creatures that were swimming on the surface of a targeted body of water become trapped in the ice. Attempting to break free is a full-round action. A trapped creature must make a DC 25 Strength check or a DC 25 Escape Artist check to do so.<br><br>You can refrain from firing the globe after completing the spell, if you wish. Treat this as a touch spell for which you are holding the charge. You can hold the charge for as long as 1 round per level, at the end of which time the <i>freezing sphere<\/i> bursts centered on you (and you receive no saving throw to resist its effect). Firing the globe in a later round is a standard action.",
     "name_zh": "冰封法球",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材 (小水晶球)",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": ",效果或区域   见后文",
-    "duration_zh": "立即 或 1轮/等级; 见后文",
+    "duration_zh": "立即 或 1轮/等级; 见文本",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径40尺的爆发，对区域内的每个生物造成每CL 1d6点寒冷伤害 (最多15d6)。水系亚种生物会受到每CL 1d8点寒冷伤害 (最多15d8) 并且会恍惚1d4轮。<\/p><p>如果冰封法球击中水或主要是水的液体，不过这不包括水基 (water-based) 生物，它将冻结半径40尺区域内的深6英吋的液体表面。冰冻会持续每CL 1轮。正在目标水体表面游泳的生物会被冻结在冰里。尝试挣脱是一个整轮动作。被困住的生物必须做DC 25的力量检定或DC 25的脱逃检定才可挣脱。<\/p><p>如果你愿意，你可以在完成法术后暂不发射法球。如果你暂不发射该法术，该法术视作接触法术。你可以暂不散发的时间为每等级1轮，在这时间结束后冰封法球会以你为中心爆炸 (并且你不能进行豁免来抵抗此效果)。施法完成后在之后的行动轮中发射法球是标准动作。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>冰封法球以寒冷能量创造出一个冻寒能量组成的小球，从你的指尖射出飞向你选择的地点，之后在那里造成半径40尺的爆发，对区域内的每个生物造成每CL 1d6点寒冷伤害 (最多15d6)。水系亚种生物会受到每CL 1d8点寒冷伤害 (最多15d8) 并且会恍惚1d4轮。<\/p><p>如果冰封法球击中水或主要是水的液体，不过这不包括水基 (water-based) 生物，它将冻结半径40尺区域内的深6英吋的液体表面。冰冻会持续每CL 1轮。正在目标水体表面游泳的生物会被冻结在冰里。尝试挣脱是一个整轮动作。被困住的生物必须做DC 25的力量检定或DC 25的脱逃检定才可挣脱。<\/p><p>如果你愿意，你可以在完成法术后暂不发射法球。如果你暂不发射该法术，该法术视作接触法术。你可以暂不散发的时间为每等级1轮，在这时间结束后冰封法球会以你为中心爆炸 (并且你不能进行豁免来抵抗此效果)。施法完成后在之后的行动轮中发射法球是标准动作。<\/p>"
 }

@@ -1,30 +1,32 @@
 {
     "key": "unwitting ally",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unwitting-ally/",
     "name": "Unwitting Ally",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unwitting%20Ally",
+    "source": ["Advanced Player's Guide pg. 253"],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 0,
-        "psychic": 1
+        "mesmerist": 0,
+        "psychic": 1,
+        "skald": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
     "duration": "1 round",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You befuddle the target's mind. The target has difficulty telling friend from foe for a short period of time. The subject is considered your ally and not your enemies' ally while determining flanking. The subject takes no other hostile action against your enemies due to this spell's effect.<\/p>",
+    "text": "You befuddle the target’s mind. The target has difficulty telling friend from foe for a short period of time. The subject is considered your ally and not your enemies’ ally while determining flanking. The subject takes no other hostile action against your enemies due to this spell’s effect.",
     "name_zh": "敌我不分",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>通过迷惑目标的心智。目标会在短时间内难以分辨敌友。在判断夹击时，受术者被视为你的盟友，而非敌人的盟友。受术者不会由于该法术的效果进行其他敌对行动对抗你的敌人。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>通过迷惑目标的心智。目标会在短时间内难以分辨敌友。在判断夹击时，受术者被视为你的盟友，而非敌人的盟友。受术者不会由于该法术的效果进行其他敌对行动对抗你的敌人。<\/p>"
 }

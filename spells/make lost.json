@@ -1,15 +1,17 @@
 {
     "key": "make lost",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/make-lost/",
     "name": "Make Lost",
-    "book": "Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Make%20Lost",
+    "source": ["Inner Sea Monster Codex pg. 41"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 2,
         "druid": 2,
-        "ranger": 1
+        "hunter": 1,
+        "ranger": 1,
+        "skald": 2
     },
     "castingTime": "1 round",
     "components": "V, S",
@@ -18,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You strip the targets of their senses of direction and recent memories of travel. They immediately forget the route they took in the last hour (but not details of encounters along the way) and become lost.<\/p>",
+    "text": "You strip the targets of their senses of direction and recent memories of travel. They immediately forget the route they took in the last hour (but not details of encounters along the way) and become lost (<i>Pathfinder RPG Core Rulebook<\/i> 424).",
     "name_zh": "迷失术",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物/等级，任两者之间不得相距超过30呎",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你剥夺目标的方向感以及最近关于旅行的记忆。他们会立刻忘记上个小时自己走过的路径(但沿途的细节则不会)，然后迷路(PFCRB P.424)。<\/p>",
-    "source": "CS-ISMC"
+    "text_zh": "<p>你剥夺目标的方向感以及最近关于旅行的记忆。他们会立刻忘记上个小时自己走过的路径(但沿途的细节则不会)，然后迷路(PFCRB P.424)。<\/p>"
 }

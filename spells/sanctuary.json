@@ -1,16 +1,15 @@
 {
     "key": "sanctuary",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sanctuary/",
     "name": "Sanctuary",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sanctuary",
+    "source": ["PRPG Core Rulebook pg. 336"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 1,
-        "inquisitor": 1
-    },
-    "domains": {"protection": 1},
-    "subdomains":     {
-        "aeon": 1,
-        "freedom": 1
+        "cleric": 1,
+        "inquisitor": 1,
+        "oracle": 1,
+        "spiritualist": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -19,7 +18,9 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "no",
-    "text": "<p>Any opponent attempting to directly attack the warded creature, even with a targeted spell, must attempt a Will save. If the save succeeds, the opponent can attack normally and is unaffected by that casting of the spell. If the save fails, the opponent can't follow through with the attack, that part of its action is lost, and it can't directly attack the warded creature for the duration of the spell. Those not attempting to attack the subject remain unaffected. This spell does not prevent the warded creature from being attacked or affected by area of effect spells. The subject cannot attack without breaking the spell but may use non-attack spells or otherwise act.<\/p>",
+    "text": "Any opponent attempting to directly attack the warded creature, even with a targeted spell, must attempt a Will save. If the save succeeds, the opponent can attack normally and is unaffected by that casting of the spell. If the save fails, the opponent can't follow through with the attack, that part of its action is lost, and it can't directly attack the warded creature for the duration of the spell. Those not attempting to attack the subject remain unaffected. This spell does not prevent the warded creature from being attacked or affected by area of effect spells. The subject cannot attack without breaking the spell but may use nonattack spells or otherwise act.<h2 class=\"title\">Mythic Sanctuary<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 107<\/i><br>If an attacker succeeds at its Will save to attack the protected target, add your tier to the target’s AC against the attack. If the target uses a healing spell or ability on another creature, that creature gains the benefit of non-mythic <i>sanctuary<\/i> for 1 round. If the creature breaks the non-mythic <i>sanctuary<\/i> by attacking, subsequent healing by the target doesn’t create another non-mythic <i>sanctuary<\/i> effect on the creature. <br><br><b>Augmented (2nd)<\/b>: If you expend two uses of mythic power, select a number of additional creatures equal to half your tier that are within reach. These creatures gain the benefit of non-mythic <i>sanctuary<\/i>. ",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "If an attacker succeeds at its Will save to attack the protected target, add your tier to the target’s AC against the attack. If the target uses a healing spell or ability on another creature, that creature gains the benefit of non-mythic <i>sanctuary<\/i> for 1 round. If the creature breaks the non-mythic <i>sanctuary<\/i> by attacking, subsequent healing by the target doesn’t create another non-mythic <i>sanctuary<\/i> effect on the creature. <br><br><b>Augmented (2nd)<\/b>: If you expend two uses of mythic power, select a number of additional creatures equal to half your tier that are within reach. These creatures gain the benefit of non-mythic <i>sanctuary<\/i>. ",
     "name_zh": "圣域术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -28,6 +29,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>任何尝试直接攻击被保护生物的敌人，甚至只是使用目标型法术，都必须进行一次意志豁免。如果豁免成功，该敌人可以正常攻击，并且不再被此次法术所影响。如果豁免失败，那么该敌人将无法完成此次攻击，他动作中的这一部分将丢失，在法术持续期间内他也不能直接攻击被保护的生物。那些并非针对受术者的攻击依然不受影响。该法术不会让被保护的生物免受影响一片区域的法术效果所造成的攻击或影响。受术者本人也不能攻击，否则就会打断这个法术，但是他可以使用非攻击性法术或其他行动。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>任何尝试直接攻击被保护生物的敌人，甚至只是使用目标型法术，都必须进行一次意志豁免。如果豁免成功，该敌人可以正常攻击，并且不再被此次法术所影响。如果豁免失败，那么该敌人将无法完成此次攻击，他动作中的这一部分将丢失，在法术持续期间内他也不能直接攻击被保护的生物。那些并非针对受术者的攻击依然不受影响。该法术不会让被保护的生物免受影响一片区域的法术效果所造成的攻击或影响。受术者本人也不能攻击，否则就会打断这个法术，但是他可以使用非攻击性法术或其他行动。<\/p>"
 }

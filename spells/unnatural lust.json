@@ -1,21 +1,24 @@
 {
     "key": "unnatural lust",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unnatural-lust/",
     "name": "Unnatural Lust",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unnatural%20Lust",
+    "source": ["Ultimate Magic pg. 245"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "bard": 1,
         "mesmerist": 1,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 1,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -24,15 +27,14 @@
     "duration": "1 round",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>Your target is filled with lust and desire for a single creature or object as designated by you at the time of casting. That creature or object must be within the spell's range and perceivable by the target of the spell. The target is filled with the compulsion to rush to the subject of its lust and passionately kiss or caress that subject on its next turn, taking no other actions. If the target would not normally have lustful feelings toward the designated creature or object, it receives a +4 bonus on its saving throw.<\/p>",
+    "text": "Your target is filled with lust and desire for a single creature or object as designated by you at the time of casting. That creature or object must be within the spell’s range and perceivable by the target of the spell. The target is filled with the compulsion to rush to the subject of its lust and passionately kiss or caress that subject on its next turn, taking no other actions. If the target would not normally have lustful feelings toward the designated creature or object, it receives a +4 bonus on its saving throw.",
     "name_zh": "欲火焚身",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你让目标对你施法时指定的另一个生物或物体产生极大的性趣。这个生物或物体必须也在法术范围之内，并且在目标的感知中。<\/p><p>目标将会对指定生物或物体产生无可抑制的性趣，当它下一次行动时会笔直的冲过去对其进行亲吻或爱抚，且不会进行任何其他动作。<\/p><p>如果目标通常不会对生物或物体产生性趣，它对抗该法术的豁免检定有+4加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标对你施法时指定的另一个生物或物体产生极大的性趣。这个生物或物体必须也在法术范围之内，并且在目标的感知中。<\/p><p>目标将会对指定生物或物体产生无可抑制的性趣，当它下一次行动时会笔直的冲过去对其进行亲吻或爱抚，且不会进行任何其他动作。<\/p><p>如果目标通常不会对生物或物体产生性趣，它对抗该法术的豁免检定有+4加值。<\/p>"
 }

@@ -1,30 +1,31 @@
 {
     "key": "detect demon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-demon/",
     "name": "Detect Demon",
-    "book": "Pathfinder Player Companion: Demon Hunter's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Demon",
+    "source": ["Demon Hunter's Handbook pg. 26"],
     "school": "divination",
     "levels":     {
         "cleric": 1,
         "inquisitor": 1,
-        "paladin": 1
+        "oracle": 1,
+        "paladin": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "60 ft.",
     "area": "cone-shaped emanation",
-    "duration": "concentration, up to 10 min.s/level (d)",
+    "duration": "concentration, up to 10 minutes/level (D)",
     "savingThrow": "none (see text)",
     "spellResistance": "no",
-    "text": "<p>You sense the presence of a specific kind of evil—that of demons, their servants, and the Abyss. The amount of information revealed depends on how long you study a particular area or subject.<\/p><p><b>1st Round<\/b>: Presence or absence of creatures with the demon subtype, creatures possessed by demons, creatures under the effects of spells or spell-like abilities cast by demons, or creatures otherwise tainted by demons. Creatures tainted by demons include tieflings with demonic heritages, sorcerers with abyssal bloodlines, creatures affected by a succubus's profane gift, creatures with demonic implants, or creatures who have the Demonic Obedience feat, and those under significant demonic influence as determined by the GM. This spell does not detect creatures of chaotic evil alignment who are not demons or significantly influenced by demons.<\/p><p>Additionally, this spell detects whether or not a portal or similar magical passage leads to the Abyss.<\/p><p><b>2nd Round<\/b>: Number of evil auras shed by creatures with the demon subtype in the area, as well as the power of the most potent evil aura present. If you are of good alignment, and the strongest evil aura's strength is overwhelming; if the creature has HD equal to at least twice your character level, you are stunned for 1 round and the spell ends.<\/p><p><b>3rd Round<\/b>: The power and location of each aura, and what demon lord, if any, a demon is most closely affiliated with. If an aura is outside your line of sight, you discern the direction but not its exact location. Affiliation to a demon lord is only revealed when the creature detected is a demon (not merely a creature tainted by a demon). Demons receive a Will saving throw to resist revealing what demon lord they are affiliated with. If the demon succeeds at this saving throw or is not forsworn to a demon lord, you know only that this aspect of the spell returned no information.<\/p><p>Aside from what is detailed above, this spell otherwise functions similarly to detect evil in terms of aura power, lingering auras, overwhelming auras, and so forth.<\/p>",
+    "text": "You sense the presence of a specific kind of evil—that of demons, their servants, and the Abyss. The amount of information revealed depends on how long you study a particular area or subject.<br><br><i>1st Round<\/i>: Presence or absence of creatures with the demon subtype, creatures possessed by demons, creatures under the effects of spells or spell-like abilities cast by demons, or creatures otherwise tainted by demons. Creatures tainted by demons include tieflings with demonic heritages, sorcerers with abyssal bloodlines, creatures affected by a succubus’s profane gift, creatures with demonic implants (see page 44 of <i>Pathfinder Campaign Setting: Lords of Chaos, Book of the Damned, Vol. 2<\/i>), or creatures who have the Demonic Obedience feat (<i>Lords of Chaos <\/i>8), and those under significant demonic influence as determined by the GM. This spell does not detect creatures of chaotic evil alignment who are not demons or significantly influenced by demons.<br><br>Additionally, this spell detects whether or not a portal or similar magical passage leads to the Abyss.<br><br><i>2nd Round<\/i>: Number of evil auras shed by creatures with the demon subtype in the area, as well as the power of the most potent evil aura present. If you are of good alignment, and the strongest evil aura’s strength is overwhelming; if the creature has HD equal to at least twice your character level, you are stunned for 1 round and the spell ends.<br><br><i>3rd Round<\/i>: The power and location of each aura, and what demon lord, if any, a demon is most closely affiliated with. If an aura is outside your line of sight, you discern the direction but not its exact location. Affiliation to a demon lord is only revealed when the creature detected is a demon (not merely a creature tainted by a demon). Demons receive a Will saving throw to resist revealing what demon lord they are affiliated with. If the demon succeeds at this saving throw or is not forsworn to a demon lord, you know only that this aspect of the spell returned no information.<br><br>Aside from what is detailed above, this spell otherwise functions similarly to <i>detect evil <\/i>in terms of aura power, lingering auras, overwhelming auras, and so forth.",
     "name_zh": "侦测恶魔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
     "range_zh": "60尺",
-    "area_zh": "锥形弥漫",
-    "duration_zh": "专注，最长为10分钟/等级（D）",
-    "savingThrow_zh": "无（见正文）",
+    "area_zh": "锥形发散区域",
+    "duration_zh": "专注, 最高10分钟/等级 (可解消)",
+    "savingThrow_zh": "无; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能感觉到一种特定种类的邪恶——恶魔，他们的仆人和深渊。获得信息量取决于你研究某一特定区域或个体的时长。\n第1轮：是否存在以下生物：具有恶魔亚种的生物、被恶魔附身的生物、处于由恶魔施展的法术或类法术能力效果之下的生物、或被恶魔以其他方式污染的生物。被恶魔污染的生物包括具有恶魔血统的魔裔、拥有深渊血脉的术士、被一个魅魔的亵渎之赐（profane gift）所影响的生物、拥有恶魔移植物（demonic implants）的生物、或者拥有恶魔崇拜（Demonic Obedience）专长的生物、和那些经由GM判断处于恶魔有效影响下的生物。这种法术不会侦测出不是恶魔的混乱邪恶阵营生物，或明显受到恶魔影响的生物。\n此外，这种法术能侦测出一个传送门或类似的魔法通道是否通往无底深渊。\n第2轮：区域内拥有恶魔亚种的生物流露出的邪恶灵光的数目，以及存在的最强大邪恶灵光的力量。如果你是善良阵营，并且最强的邪恶灵光的力量对你而言是压倒性的；如果这个生物的HD至少两倍于你的角人物等级，你就会被震慑1轮，并且法术结束。\n第3轮：每个灵光的力量和位置，以及一个恶魔隶属于哪一位恶魔领主，如果有的话。如果一个灵光位于你的视线之外，你能辨别方向，但不会知道它的确切位置。与恶魔领主的关系只有当被揭露生物是一个恶魔（不只是一个被恶魔污染的生物）时才会被知晓。恶魔会进行一次意志豁免来抵抗被揭露他们与恶魔领主的关系。如果恶魔成功完成豁免，或者他没有向任何一位恶魔领主效忠，你就只会知道此法术在这个方面没有反馈任何信息。\n除了上面详细的内容以外，这个法术的作用在灵光强度，残留灵光，压倒性灵光等等方面和侦测邪恶一样。<\/p>",
-    "source": "PC-DHH"
+    "text_zh": "<p>你能感觉到一种特定种类的邪恶——恶魔，他们的仆人和深渊。获得信息量取决于你研究某一特定区域或个体的时长。<\/p><p>第1轮：是否存在以下生物：具有恶魔亚种的生物、被恶魔附身的生物、处于由恶魔施展的法术或类法术能力效果之下的生物、或被恶魔以其他方式污染的生物。被恶魔污染的生物包括具有恶魔血统的魔裔、拥有深渊血脉的术士、被一个魅魔的亵渎之赐（profane gift）所影响的生物、拥有恶魔移植物（demonic implants）的生物、或者拥有恶魔崇拜（Demonic Obedience）专长的生物、和那些经由GM判断处于恶魔有效影响下的生物。这种法术不会侦测出不是恶魔的混乱邪恶阵营生物，或明显受到恶魔影响的生物。<\/p><p>此外，这种法术能侦测出一个传送门或类似的魔法通道是否通往无底深渊。<\/p><p>第2轮：区域内拥有恶魔亚种的生物流露出的邪恶灵光的数目，以及存在的最强大邪恶灵光的力量。如果你是善良阵营，并且最强的邪恶灵光的力量对你而言是压倒性的；如果这个生物的HD至少两倍于你的角人物等级，你就会被震慑1轮，并且法术结束。<\/p><p>第3轮：每个灵光的力量和位置，以及一个恶魔隶属于哪一位恶魔领主，如果有的话。如果一个灵光位于你的视线之外，你能辨别方向，但不会知道它的确切位置。与恶魔领主的关系只有当被揭露生物是一个恶魔（不只是一个被恶魔污染的生物）时才会被知晓。恶魔会进行一次意志豁免来抵抗被揭露他们与恶魔领主的关系。如果恶魔成功完成豁免，或者他没有向任何一位恶魔领主效忠，你就只会知道此法术在这个方面没有反馈任何信息。<\/p><p>除了上面详细的内容以外，这个法术的作用在灵光强度，残留灵光，压倒性灵光等等方面和侦测邪恶一样。<\/p>"
 }

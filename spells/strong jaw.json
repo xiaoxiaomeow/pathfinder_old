@@ -1,20 +1,22 @@
 {
     "key": "strong jaw",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/strong-jaw/",
     "name": "Strong Jaw",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strong%20Jaw",
+    "source": ["Advanced Player's Guide pg. 247"],
     "school": "transmutation",
     "levels":     {
         "druid": 4,
+        "hunter": 3,
         "ranger": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
-    "duration": "1 min./level",
+    "target": "creature touched",
+    "duration": "1 minute/level",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>Laying a hand upon an allied creature's jaw, claws, tentacles, or other natural weapons, you enhance the power of that creature's natural attacks. Each natural attack that creature makes deals damage as if the creature were two sizes larger than it actually is. If the creature is already Gargantuan or Colossal-sized, double the amount of damage dealt by each of its natural attacks instead. This spell does not actually change the creature's size; all of its statistics except the amount of damage dealt by its natural attacks remain unchanged.<\/p><table border=\"1\" cellpadding=\"5\"> <thead>  <tr>   <th rowspan=\"2\" class=\"text\">Natural Attack<\/td>    <td colspan=\"9\" class=\"text\">Base Damage by Size*<\/td>   <\/tr>   <tr>    <td class=\"text\">Fine<\/td>    <td class=\"text\">Dim.<\/td>    <td class=\"text\">Tiny<\/td>    <td class=\"text\">Small<\/td>    <td class=\"text\">Medium<\/td>    <td class=\"text\">Large<\/td>    <td class=\"text\">Huge<\/td>    <td class=\"text\">Garg.<\/td>    <td class=\"text\">Col.<\/td>   <\/tr>   <tr>    <td class=\"text\">Bite<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>    <td class=\"number\">4d6<\/td>   <\/tr>   <tr>    <td class=\"text\">Claw<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>   <tr>    <td class=\"text\">Gore<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>    <td class=\"number\">4d6<\/td>   <\/tr>   <tr>    <td class=\"text\">Hoof, tentacle, wing<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>   <tr>    <td class=\"text\">Pincers, tail slap<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>    <td class=\"number\">4d6<\/td>   <\/tr>   <tr>    <td class=\"text\">Slam<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>   <tr>    <td class=\"text\">Sting<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>   <tr>    <td class=\"text\">Talons<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>   <tr>    <td class=\"text\">Other<\/td>    <td class=\"marker\">&#8211;<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">1d2<\/td>    <td class=\"number\">1d3<\/td>    <td class=\"number\">1d4<\/td>    <td class=\"number\">1d6<\/td>    <td class=\"number\">1d8<\/td>    <td class=\"number\">2d6<\/td>    <td class=\"number\">2d8<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "text": "Laying a hand upon an allied creature’s jaw, claws, tentacles, or other natural weapons, you enhance the power of that creature’s natural attacks. Each natural attack that creature makes deals damage as if the creature were two sizes larger than it actually is. If the creature is already Gargantuan or Colossal-sized, double the amount of damage dealt by each of its natural attacks instead. This spell does not actually change the creature’s size; all of its statistics except the amount of damage dealt by its natural attacks remain unchanged.",
     "name_zh": "铁碎颚",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -23,6 +25,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>通过用手触摸盟友的下颚，双爪，触手或其他天生武器，你增强了该名生物所拥有的天生武器的威力。该生物的每个天生武器所造成的伤害均视同比实际体型大2级。如果该名生物的体型已经为巨型 (Gargantuan) 或超巨型 (Colossal)，那么他的每次天生武器攻击均会造成双倍伤害。该法术并不会改变生物的体型；也不会改变目标的天生武器造成的伤害数值之外的任何属性。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>通过用手触摸盟友的下颚，双爪，触手或其他天生武器，你增强了该名生物所拥有的天生武器的威力。该生物的每个天生武器所造成的伤害均视同比实际体型大2级。如果该名生物的体型已经为巨型 (Gargantuan) 或超巨型 (Colossal)，那么他的每次天生武器攻击均会造成双倍伤害。该法术并不会改变生物的体型；也不会改变目标的天生武器造成的伤害数值之外的任何属性。<\/p>"
 }

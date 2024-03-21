@@ -1,31 +1,31 @@
 {
     "key": "enlightened step",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/enlightened-step/",
     "name": "Enlightened Step",
-    "book": "Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Enlightened%20Step",
+    "source": ["Divine Anthology pg. 12"],
     "school": "transmutation",
     "descriptors":     [
         "air",
         "meditative"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 6,
         "druid": 6,
-        "shaman": 6
+        "shaman": 6,
+        "warpriest": 6
     },
     "castingTime": "1 hour",
     "components": "V, M (soothing incense worth 600 gp)",
     "range": "personal",
     "target": "you",
     "duration": "24 hours or until discharged",
-    "text": "<p>Through careful regulation of your body's mystical energies, thoughtful control of your poise and balance, and the focus in your mind on the surety of each and every step you take, you are able to make your steps lighter than air.<\/p><p>This grants you the benefits of air walk, except as noted above. Additionally, at any time during the spell's duration, you can expend the spell's remaining duration as a swift action in order to gain a fly speed of 120 feet with perfect maneuverability for 1 minute. After this time, the spell ends.<\/p>",
+    "text": "Through careful regulation of your body’s mystical energies,  thoughtful control of your poise and balance, and the focus in your mind on the surety of each and every step you take, you are able to make your steps lighter than air. This grants you the benefits of <i>air walk<\/i>, except as noted above. Additionally, at any time during the spell’s duration, you can expend the spell’s remaining duration as a swift action in order to gain a fly speed of 120 feet with perfect maneuverability for 1 minute. After this time, the spell ends.",
     "name_zh": "启迪步伐",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "语言，材料（价值600gp的舒缓香料）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "24小时或直到释放",
-    "text_zh": "<p>通过调节你身体中的秘法能量，操纵自身平衡，将注意力集中在走的每一步上，你能让你的步伐比空气还轻。这赋予你凌空而行的优势，除了上面所提到的。除此之外，在法术持续时间的任何时候，你可以用一个迅捷动作将法术的剩余持续消耗掉，以换得120英尺的飞行速度，完美机动，持续1分钟。在这之后，法术就会结束。<\/p>",
-    "source": "PC-DA"
+    "duration_zh": "24小时, 或直到消解",
+    "text_zh": "<p>通过调节你身体中的秘法能量，操纵自身平衡，将注意力集中在走的每一步上，你能让你的步伐比空气还轻。这赋予你凌空而行的优势，除了上面所提到的。除此之外，在法术持续时间的任何时候，你可以用一个迅捷动作将法术的剩余持续消耗掉，以换得120英尺的飞行速度，完美机动，持续1分钟。在这之后，法术就会结束。<\/p>"
 }

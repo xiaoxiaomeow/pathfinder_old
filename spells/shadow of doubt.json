@@ -1,0 +1,34 @@
+{
+    "key": "shadow of doubt",
+    "name": "Shadow of Doubt",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20of%20Doubt",
+    "source": ["Inner Sea Races pg. 222"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors":     [
+        "darkness",
+        "emotion",
+        "evil",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "race": "Tiefling",
+    "levels":     {
+        "antipaladin": 4,
+        "bard": 4,
+        "skald": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial (see text)",
+    "spellResistance": "yes",
+    "text": "You create a shadowy aura of doubt fueled by a foe’s own inner flaws. Targets perceive all illumination as if it were one light level darker, to a minimum light level of darkness (not supernatural darkness), even on a successful saving throw.<br><br> Fleeting mental shadows of regrets and anxieties distract the spell’s targets; at the start of each of their turns, they must each succeed at a Will save or be staggered for 1 round. A good-aligned target takes a –4 penalty on saving throws against this effect; an evil-aligned target gains a +4 bonus instead.",
+    "race_zh": "Tiefling",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
+    "spellResistance_zh": "可"
+}

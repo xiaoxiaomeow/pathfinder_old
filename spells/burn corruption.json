@@ -1,18 +1,21 @@
 {
     "key": "burn corruption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burn-corruption-elf/",
     "name": "Burn Corruption",
-    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burn%20Corruption",
+    "source": ["Inner Sea Races pg. 218"],
     "school": "evocation",
     "descriptors":     [
         "fire",
         "good"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "Elf",
     "levels":     {
+        "arcanist": 5,
         "bloodrager": 4,
         "magus": 5,
-        "sorcerer/wizard": 5
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +24,15 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>This spell fills the area with violet flames that scour an area clean of life—especially of the corrupted life of the Abyss.<\/p><p>Creatures (and foliage) in the area take 1d8 points of fire damage per 2 caster levels you possess (maximum 7d8) unless they are outsiders with the chaotic and evil subtypes or are otherwise tainted by demons, in which case they instead take 1d6 points of fire damage per caster level (maximum 15d6).<\/p><p>This fire damage ignores the fire resistance granted by the demon subtype, but it does not penetrate any other form of fire resistance or immunity.<\/p>",
+    "text": "This spell fills the area with violet flames that scour an area clean of life—especially of the corrupted life of the Abyss. Creatures (and foliage) in the area take 1d8 points of fire damage per 2 caster levels you possess (maximum 7d8) unless they are outsiders with the chaotic and evil subtypes or are otherwise tainted by demons, in which case they instead take 1d6 points of fire damage per caster level (maximum 15d6). This fire damage ignores the fire resistance granted by the demon subtype, but it does not penetrate any other form of fire resistance or immunity.",
     "name_zh": "焚尽腐坏",
+    "race_zh": "Elf",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "area_zh": "一个10英尺立方体/等级（可变）",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "一个10英尺立方体/等级 (可变)",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术用紫色火焰填充区域，将该区域的生命烧个干净，尤其是在深渊中被腐蚀的生命。区域内的生物（包括植物）受到每2级1d8火焰伤害（最多7 d8）,如果目标是混乱或邪恶异界生物或被恶魔腐化，则受到每级1d6火焰伤害（最高15d6）。此火焰伤害能忽略恶魔的火焰抗力，但不穿透任何其他形式的火焰抗力或免疫。<\/p>",
-    "source": "CS-ISR"
+    "text_zh": "<p>这个法术用紫色火焰填充区域，将该区域的生命烧个干净，尤其是在深渊中被腐蚀的生命。区域内的生物（包括植物）受到每2级1d8火焰伤害（最多7 d8）,如果目标是混乱或邪恶异界生物或被恶魔腐化，则受到每级1d6火焰伤害（最高15d6）。此火焰伤害能忽略恶魔的火焰抗力，但不穿透任何其他形式的火焰抗力或免疫。<\/p>"
 }

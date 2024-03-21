@@ -1,22 +1,24 @@
 {
     "key": "vex giant",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vex-giant/",
     "name": "Vex Giant",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vex%20Giant",
+    "source": ["Inner Sea Magic pg. 63"],
     "school": "transmutation",
-    "levels": {"ranger": 3},
+    "levels":     {
+        "hunter": 3,
+        "ranger": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a fragment from a Large or larger weapon)",
     "range": "personal",
     "target": "you",
     "duration": "1 round per level",
-    "text": "<p><span>When you cast <i>vex giant<\/i><span>, your senses and reflexes become particularly honed against a single target within 60 feet, provided the target is at least one size category larger than you. You may select your focused foe as a free action<span> when you cast this spell—switching your focus to a different foe within 60 feet is a move action<span>. If a foe moves beyond 60 feet from you, you lose your focus on that foe, although you may regain it by moving within 60 feet and spending a move action<span>. Although the name of the spell is <i>vex giant<\/i><span>, it works equally well on any foe that's at least one size category larger than you.<\/p><p>Against a foe you are focused on, you do not provoke attacks of opportunity by moving through their threatened area. Additionally, the first successful melee attack you make against the foe in a round deals an additional 1d6 points of damage. Finally, you gain a +4 insight bonus on all combat maneuver checks made against your focused foe.<\/p>",
+    "text": "The giants and their kin have long plagued the peoples of Varisia, particularly the Shoanti of the Storval Plateau. Among the various tactics and methods the Shoanti have developed to fight against their enemies, this spell is one of the most widespread today.<br><br>When you cast <i>vex giant<\/i>, your senses and reflexes become particularly honed against a single target within 60 feet, provided the target is at least one size category larger than you. You may select your focused foe as a free action when you cast this spell—switching your focus to a different foe within 60 feet is a move action. If a foe moves beyond 60 feet from you, you lose your focus on that foe, although you may regain it by moving within 60 feet and spending a move action. Although the name of the spell is vex giant, it works equally well on any foe that’s at least one size category larger than you.<br><br>Against a foe you are focused on, you do not provoke attacks of opportunity by moving through their threatened area. Additionally, the first successful melee attack you make against the foe in a round deals an additional 1d6 points of damage. Finally, you gain a +4 insight bonus on all combat maneuver checks made against your focused foe.",
     "name_zh": "侵扰巨人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（从大型或更大的武器上取下的碎片）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>巨人和他们的亲族长期侵扰着瓦瑞西安（Varisia）的人民，这种问题对于生活在斯托瓦尔高原（Storval Plateau）的休盎提（Shoanti）部族来说尤为严重。因此，休盎提人研究出了多种策略与战术来对付他们的敌人，而该法术则是在今日最被广泛使用的方法之一。\n当你施放侵扰巨人后，若敌人的体型比你至少大1级，你的感官与身手会就在对抗60尺内的单个敌人时变得更加凌厉。你可以在施放该法术时以自由动作选择你所专注的敌人——将你专注的目标切换为60尺内的另一个敌人是移动动作。若敌人离开距你60尺的范围，就会失去对于该名敌人的专注，不过你可以在他重新回到60尺范围内之后以移动动作恢复专注。这个法术虽然叫侵扰巨人，但对付其他比你体型至少大1级的目标也有用。\n在对抗你所专注的敌人时，你不会在移动通过他所威胁的区域时引起借机攻击。此外，在一轮内你对该名敌人做出的第一次成功近战攻击会额外造成1d6点伤害。最后，在对抗专注敌人时，你的战技检定均会获得+4洞察加值。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>巨人和他们的亲族长期侵扰着瓦瑞西安（Varisia）的人民，这种问题对于生活在斯托瓦尔高原（Storval Plateau）的休盎提（Shoanti）部族来说尤为严重。因此，休盎提人研究出了多种策略与战术来对付他们的敌人，而该法术则是在今日最被广泛使用的方法之一。<\/p><p>当你施放侵扰巨人后，若敌人的体型比你至少大1级，你的感官与身手会就在对抗60尺内的单个敌人时变得更加凌厉。你可以在施放该法术时以自由动作选择你所专注的敌人——将你专注的目标切换为60尺内的另一个敌人是移动动作。若敌人离开距你60尺的范围，就会失去对于该名敌人的专注，不过你可以在他重新回到60尺范围内之后以移动动作恢复专注。这个法术虽然叫侵扰巨人，但对付其他比你体型至少大1级的目标也有用。<\/p><p>在对抗你所专注的敌人时，你不会在移动通过他所威胁的区域时引起借机攻击。此外，在一轮内你对该名敌人做出的第一次成功近战攻击会额外造成1d6点伤害。最后，在对抗专注敌人时，你的战技检定均会获得+4洞察加值。<\/p>"
 }

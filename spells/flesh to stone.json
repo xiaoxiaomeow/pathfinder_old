@@ -1,15 +1,17 @@
 {
     "key": "flesh to stone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flesh-to-stone/",
     "name": "Flesh to Stone",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flesh%20to%20Stone",
+    "source": ["PRPG Core Rulebook pg. 284"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "magus": 6,
         "shaman": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "elementalSchools": {"earth": 6},
     "castingTime": "1 standard action",
     "components": "V, S, M (lime, water, and earth)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -17,16 +19,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not dead, but it does not seem to be alive either when viewed with spells such as <i>deathwatch<\/i>.<\/p><p>Only creatures made of flesh are affected by this spell.<\/p>",
-    "mythicText": "A creature that succeeds at its saving throw is partially petrified, becoming slowed (as the slow spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the <i>slow<\/i> effect. <br>The spell can affect objects and undead, as long as the target is primarily made of flesh or bone, such as a corpse or zombie. <br>The spell doesn't affect the target's gear. If cast on a creature with equipment, the creature transforms into stone but its gear doesn't. ",
+    "text": "The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not dead, but it does not seem to be alive either when viewed with spells such as <i>deathwatch<\/i>.<br><br>Only creatures made of flesh are affected by this spell.<h2 class=\"title\">Mythic Flesh to Stone<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 94<\/i><br>A creature that succeeds at its saving throw is partially petrified, becoming slowed (as the <i>slow<\/i> spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the <i>slow<\/i> effect. The spell can affect objects and undead, as long as the target is primarily made of flesh or bone, such as a corpse or zombie. The spell doesn’t affect the target’s gear. If cast on a creature with equipment, the creature transforms into stone but its gear doesn’t. <br><br><b>Augmented (9th)<\/b>: If you expend two uses of mythic power, any Large or smaller creature fully petrified by the spell immediately animates and follows your commands, as if you had cast <i>animate objects<\/i>.",
+    "mythicSource": ["Mythic Adventures pg. 94"],
+    "mythicText": "A creature that succeeds at its saving throw is partially petrified, becoming slowed (as the <i>slow<\/i> spell) for a number of rounds equal to your tier. The creature can end this effect early by spending a full-round action breaking away its own petrified flesh, dealing 5d10 points of damage to itself. Any effect that removes or reverses petrification negates this partial petrification and the <i>slow<\/i> effect. The spell can affect objects and undead, as long as the target is primarily made of flesh or bone, such as a corpse or zombie. The spell doesn’t affect the target’s gear. If cast on a creature with equipment, the creature transforms into stone but its gear doesn’t. <br><br><b>Augmented (9th)<\/b>: If you expend two uses of mythic power, any Large or smaller creature fully petrified by the spell immediately animates and follows your commands, as if you had cast <i>animate objects<\/i>.",
     "name_zh": "石化术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (石灰，水和泥土)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受术者及其所有携带的装备都被转变为没有心智、完全静止的雕像。如果这座被法术制造的雕像被打坏或受损，受术者 (如果它转化回之前的状态) 也会受到类似的伤害或缺损。当用‘<a href=\"spell.html?spell=deathwatch\">观命术 (deathwatch)<\/a>’这类法术察看时，该生物并不算死，但是也不算活。<\/p><p>只有由血肉构成的生物才会被该法术影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者及其所有携带的装备都被转变为没有心智、完全静止的雕像。如果这座被法术制造的雕像被打坏或受损，受术者 (如果它转化回之前的状态) 也会受到类似的伤害或缺损。当用‘<a href=\"spell.html?spell=deathwatch\">观命术 (deathwatch)<\/a>’这类法术察看时，该生物并不算死，但是也不算活。<\/p><p>只有由血肉构成的生物才会被该法术影响。<\/p>"
 }

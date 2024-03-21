@@ -1,11 +1,19 @@
 {
     "key": "replenish ki",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/replenish-ki/",
     "name": "Replenish Ki",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Replenish%20Ki",
+    "source":     [
+        "Inner Sea Gods pg. 238",
+        "Pathfinder #53: Tide of Honor pg. 73"
+    ],
     "school": "conjuration",
-    "subSchool": ["healing"],
-    "levels": {"cleric/oracle": 4},
+    "subSchools": ["healing"],
+    "race": "Irori",
+    "levels":     {
+        "cleric": 4,
+        "oracle": 4,
+        "warpriest": 4
+    },
     "castingTime": "1 minute",
     "components": "V, S, DF",
     "range": "touch",
@@ -13,9 +21,9 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You attune the target's internal store of supernatural energy to the cosmos, replenishing its <i>ki<\/i> pool. If you are the target, you regain 2 <i>ki<\/i> points. If another creature is the target, it regains 1 <i>ki<\/i> point. This does not allow the target to exceed its <i>ki<\/i> pool's maximum. This spell has no effect if the target does not have a <i>ki<\/i> pool.<\/p>",
+    "text": "You attune the target’s internal store of supernatural energy to the cosmos, replenishing its ki pool. If you are the target, you regain 2 ki points. If another creature is the target, it regains 1 ki point. This does not allow the target to exceed its ki pool’s maximum. This spell has no effect if the target does not have a ki pool.",
     "name_zh": "回气术",
-    "race_zh": "义洛里",
+    "race_zh": "义洛理",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、法器",
     "range_zh": "接触",
@@ -23,6 +31,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你协调目标的内力，补充其气池。如果你自己是目标，可以回复2点气。如果其他生物是目标，可以回复1点气。本法术无法让生物超过其气池的最高上限。本法术对没有气池的生物无效。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你协调目标的内力，补充其气池。如果你自己是目标，可以回复2点气。如果其他生物是目标，可以回复1点气。本法术无法让生物超过其气池的最高上限。本法术对没有气池的生物无效。<\/p>"
 }

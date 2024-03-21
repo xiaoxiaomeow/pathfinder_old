@@ -1,14 +1,18 @@
 {
     "key": "time shudder",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/time-shudder/",
     "name": "Time Shudder",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Time%20Shudder",
+    "source": ["Advanced Class Guide pg. 196"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "magus": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "summoner/unchained summoner": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a tiny hourglass)",
@@ -17,15 +21,14 @@
     "duration": "1 round",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You cause a ripple in time that affects all creatures in the area. At the start of each creature's turn, there is a 50% chance the creature is hasted (as haste); otherwise it is slowed (as slow).<\/p>",
+    "text": "You cause a ripple in time that affects all creatures in the area. At the start of each creature’s turn, there is a 50% chance the creature is hasted (as <i>haste<\/i>); otherwise it is slowed (as <i>slow<\/i>).",
     "name_zh": "时间乱流",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（微型沙漏）",
     "range_zh": "30尺",
-    "area_zh": "：以你为中心，半径30尺发散区域",
+    "area_zh": "：以你为中心, 半径30尺发散区域",
     "duration_zh": "1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一股时间波动，能够影响到区域内的所有生物。在每个生物的回合开始时，有50%的概率会使生物如同受到加速术（Haste）一般被加速；否则就会如同受到缓慢术（Slow）一般被减速。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一股时间波动，能够影响到区域内的所有生物。在每个生物的回合开始时，有50%的概率会使生物如同受到加速术（Haste）一般被加速；否则就会如同受到缓慢术（Slow）一般被减速。<\/p>"
 }

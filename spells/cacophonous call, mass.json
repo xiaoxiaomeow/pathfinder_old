@@ -1,17 +1,29 @@
 {
     "key": "cacophonous call, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cacophonous-call/",
     "name": "Cacophonous Call, Mass",
-    "base": "cacophonous call",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cacophonous%20Call,%20Mass",
+    "source": ["Advanced Player's Guide pg. 208"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
-    "levels": {"bard": 5},
+    "levels":     {
+        "bard": 5,
+        "skald": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a scrap of sheet music)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature/level (all of which must be within 30 feet)",
-    "text": "<p>This spell functions as <i>cacophonous call<\/i>, except that is affects multiple creatures.<\/p><\/div>",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>cacophonous call<\/i>, except that it affects multiple creatures.",
     "name_zh": "群体扰神唤音",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级1名生物 (所有目标之间的距离不超过30尺)",
-    "text_zh": "<p>该法术的功能如同扰神唤音 (Cacophonous Call) 一般，不过该法术可以影响复数生物。<\/p>",
-    "source": "APG"
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同扰神唤音 (Cacophonous Call) 一般，不过该法术可以影响复数生物。<\/p>"
 }

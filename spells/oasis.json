@@ -1,13 +1,18 @@
 {
     "key": "oasis",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/oasis/",
     "name": "Oasis",
-    "book": "Pathfinder Player Companion: Heroes of the Wild © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Oasis",
+    "source": ["Heroes of the Wild pg. 31"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
         "druid": 5,
-        "sorcerer/wizard": 6
+        "hunter": 5,
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "wizard": 6
     },
     "castingTime": "30 minutes",
     "components": "V, S, M/DF (1 gallon of water)",
@@ -16,15 +21,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions in any natural terrain on the Material Plane. It redirects the flow of water in the ground toward the surface at the designated point, creating a permanent water source similar to a natural spring. The spring discharges 5 gallons of pure drinking water per caster level each hour.<\/p><p>If the shape of the terrain is suitable, a pond forms around the spring. If there is already a natural spring within 1 mile, its water output is reduced by an amount equal to the water produced by this spell's spring. A spring that has its water output reduced to 0 gallons per hour dries up and ceases to be a spring.<\/p><p>This spell functions differently depending on the terrain in which it's cast. In a desert, you must succeed at a DC 25 caster level check to actually create the spring, and its output is 1 gallon of drinking water per caster level each day.<\/p><p>Furthermore, in dry areas, erosion may cause the flow of water to be blocked if the affected area is left untended before a sufficient amount of vegetation has grown around it to keep the soil in place. In an arctic environment, low temperatures may cause the water to freeze. In a tropical environment, parasites may contaminate the water if the spring is created in a place where the water stands in a stagnant pool.<\/p>",
+    "text": "This spell functions in any natural terrain on the Material Plane. It redirects the flow of water in the ground toward the surface at the designated point, creating a permanent water source similar to a natural spring. The spring discharges 5 gallons of pure drinking water per caster level each hour. If the shape of the terrain is suitable, a pond forms around the spring. If there is already a natural spring within 1 mile, its water output is reduced by an amount equal to the water produced by this spell’s spring. A spring that has its water output reduced to 0 gallons per hour dries up and ceases to be a spring.<br><br> This spell functions differently depending on the terrain in which it’s cast. In a desert, you must succeed at a DC 25 caster level check to actually create the spring, and its output is 1 gallon of drinking water per caster level each day. Furthermore, in dry areas, erosion may cause the flow of water to be blocked if the affected area is left untended before a sufficient amount of vegetation has grown around it to keep the soil in place. In an arctic environment, low temperatures may cause the water to freeze. In a tropical environment, parasites may contaminate the water if the spring is created in a place where the water stands in a stagnant pool.",
     "name_zh": "绿洲涌泉",
     "castingTime_zh": "30分钟",
     "components_zh": "语言、姿势、材料/法器 (一加仑的水)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "类似天然泉水的水源",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术会在主物质界任何天然地形处运作。它会重新定位大地之上水的流动，引导至被设定好的地表的点，创造一个永久、类似天然泉水的水源。这水泉每小时释出，每施法者等级5加仑的纯净水。如果地形切合，泉水处周围会形成水塘。如果在1英哩内已经有了一处天然泉水，该处天然泉水的释出量，将减少与法术的泉水的水释出量相同的数量。一处泉水如果水释出量减少至0加仑/每小时，则会干涸，不再是泉水。\n这法术会依据施放地点的不同而有不同的运作方式。在沙漠，你必须一次DC为25的施法者等级检定来真正的创造泉水，并且，该泉水的产出囗为每天，每施法者等级/1加仑的可饮用水。此外，在干燥的区域内，如果之前受影响的区域有充足的植被生长环绕，有着充足的水土保持，那之后因无人看管所造成的侵蚀可能会导致水流被阻塞。在极地气候，低温会使水结冰。在热带气候，如果水泉落在一潭死水上，寄生虫可能会污染水源。<\/p>",
-    "source": "PC-HotW"
+    "text_zh": "<p>此法术会在主物质界任何天然地形处运作。它会重新定位大地之上水的流动，引导至被设定好的地表的点，创造一个永久、类似天然泉水的水源。这水泉每小时释出，每施法者等级5加仑的纯净水。如果地形切合，泉水处周围会形成水塘。如果在1英哩内已经有了一处天然泉水，该处天然泉水的释出量，将减少与法术的泉水的水释出量相同的数量。一处泉水如果水释出量减少至0加仑/每小时，则会干涸，不再是泉水。<\/p><p>这法术会依据施放地点的不同而有不同的运作方式。在沙漠，你必须一次DC为25的施法者等级检定来真正的创造泉水，并且，该泉水的产出囗为每天，每施法者等级/1加仑的可饮用水。此外，在干燥的区域内，如果之前受影响的区域有充足的植被生长环绕，有着充足的水土保持，那之后因无人看管所造成的侵蚀可能会导致水流被阻塞。在极地气候，低温会使水结冰。在热带气候，如果水泉落在一潭死水上，寄生虫可能会污染水源。<\/p>"
 }

@@ -1,23 +1,34 @@
 {
     "key": "illusion of treachery, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/illusion-of-treachery/",
     "name": "Illusion of Treachery, Greater",
-    "base": "illusion of treachery",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Illusion%20of%20Treachery,%20Greater",
+    "source": ["Ultimate Intrigue pg. 217"],
     "school": "illusion",
-    "subSchool": ["figment"],
+    "subSchools": ["glamer"],
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 6,
         "magus": 6,
         "mesmerist": 4,
         "occultist": 5,
         "psychic": 5,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
+    "castingTime": "1 standard action",
+    "components": "S, F (a tiny marionette)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "you and one creature",
-    "text": "<p>This spell functions as illusion of treachery except that it also conceals your own actions (as illusion of calm) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack's target (this doesn't cause the attack's target to be unable to avoid the attack, as they still see the attack originating from the spell's target).<\/p><\/div>",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Will disbelief",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>illusion of treachery<\/i> except that it also conceals your own actions (as <i>illusion of calm<sup>UC<\/sup><\/i>) and renders invisible all spell effects and ranged attacks originating from you until they reach the attack’s target (this doesn’t cause the attack’s target to be unable to avoid the attack, as they still see the attack originating from the spell’s target).",
     "name_zh": "高等背叛错觉",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "你与1个生物",
-    "text_zh": "<p>该法术的功能如同背叛错觉（Illusion of Treachery）一般，不过它还能如同平静幻象（Illusion of Calm；UC）一般隐藏你自身的行动，而且使得以你为源发点的所有法术效果和远程攻击都消失不见，直至它们抵达攻击目标为止（该效果并不会使攻击目标变得无法避免上述攻击，它们仍旧能看到攻击，只不过是以本法术的目标作为源发点而已）。<\/p>",
-    "source": "UI"
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则不相信",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同背叛错觉（Illusion of Treachery）一般，不过它还能如同平静幻象（Illusion of Calm；UC）一般隐藏你自身的行动，而且使得以你为源发点的所有法术效果和远程攻击都消失不见，直至它们抵达攻击目标为止（该效果并不会使攻击目标变得无法避免上述攻击，它们仍旧能看到攻击，只不过是以本法术的目标作为源发点而已）。<\/p>"
 }

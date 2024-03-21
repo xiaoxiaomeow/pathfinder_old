@@ -1,22 +1,27 @@
 {
     "key": "flickering lights",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flickering-lights/",
     "name": "Flickering Lights",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flickering%20Lights",
+    "source": ["Horror Adventures pg. 118"],
     "school": "evocation",
     "descriptors":     [
         "darkness",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "cleric": 2,
         "inquisitor": 2,
         "magus": 2,
         "occultist": 2,
+        "oracle": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 round",
     "components": "V, S, M (a patch of white cloth and a patch of black cloth)",
@@ -25,15 +30,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You cause the illumination in the area to seem to flicker erratically, fluctuating between absolute darkness and blinding brightness.<\/p><p>The level of light in the area changes at the start of each creature's turn, as determined by rolling a percentile die and consulting the following table.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">d%<\/th>    <th class=\"text\">Illumination level<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">1–10<\/td>    <td class=\"text\">Supernatural darkness<\/td>   <\/tr>   <tr>    <td class=\"text\">11–25<\/td>    <td class=\"text\">Darkness<\/td>   <\/tr>   <tr>    <td class=\"text\">26–50<\/td>    <td class=\"text\">Dim light<\/td>   <\/tr>   <tr>    <td class=\"text\">51–90<\/td>    <td class=\"text\">Normal light<\/td>   <\/tr>   <tr>    <td class=\"text\">91–00<\/td>    <td class=\"text\">Bright light<\/td>   <\/tr>  <\/tbody> <\/table><p>Even darkvision can't see through supernatural darkness (as deeper darkness). Bright light affects creatures with light blindness or light sensitivity. For the purpose of superseding its effects with higher-level <i>light<\/i> or darkness spells, flickering lights counts as a light spell when it increases the ambient light level and a darkness spell when it decreases the ambient light level.<\/p>",
+    "text": "You cause the illumination in the area to seem to flicker erratically, fluctuating between absolute darkness and blinding brightness. The level of light in the area changes at the start of each creature’s turn, as determined by rolling a percentile die and consulting the following table. <table class=\"inner\"><tr><td><b>d%<\/b><\/td><td><b>Illumination Level<\/b><\/td><\/tr> <tr><td>1-10<\/td><td>Supernatural darkness<\/td><\/tr> <tr><td>11-25<\/td><td>Darkness<\/td><\/tr> <tr><td>26-50<\/td><td>Dim light<\/td><\/tr> <tr><td>51-90<\/td><td>Normal light<\/td><\/tr> <tr><td>91-00<\/td><td>Bright light<\/td><\/tr><\/table> Even darkvision can’t see through supernatural darkness (as <i>deeper darkness<\/i>). Bright light affects creatures with light blindness or light sensitivity. For the purpose of superseding its effects with higher-level light or darkness spells, <i>flickering lights<\/i> counts as a light spell when it increases the ambient light level and a darkness spell when it decreases the ambient light level.",
     "name_zh": "光与暗的境界",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、材料 (一块白布和一块黑布)",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "由10尺立方体/等级组成的相连接的区域 (S)",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "由10尺立方体/等级组成的相连接的区域 (可变)",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你使该区域的照明看似闪烁不定，于纯粹的黑暗到刺目的强光中不断变动。该地区的光亮程度在每个生物于他的回合开始时改变，投掷一颗百面骰，并且查阅下表来决定。\n百面骰数值 光照等级 \n1-10 超自然黑暗 \n11-25 黑暗 \n26-50 昏暗 \n51-90 常光 \n91-100 强光 \n即便是黑暗视觉也不能看透超自然黑暗(如同幽深黑暗术deeper darkness)。强光(Bright light)会影响有强光失明(light blindness)或光线敏感(light sensitivity)的生物。在决定用更高环的光亮或黑暗法术取代此法术效果的目的时，当它增加周围光照等级时，光与暗的境界算作光亮法术；当它降低周围光照等级时，光与暗的境界算作黑暗法术。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你使该区域的照明看似闪烁不定，于纯粹的黑暗到刺目的强光中不断变动。该地区的光亮程度在每个生物于他的回合开始时改变，投掷一颗百面骰，并且查阅下表来决定。<\/p><p>百面骰数值 光照等级<\/p><p>1-10 超自然黑暗<\/p><p>11-25 黑暗<\/p><p>26-50 昏暗<\/p><p>51-90 常光<\/p><p>91-100 强光<\/p><p>即便是黑暗视觉也不能看透超自然黑暗(如同幽深黑暗术deeper darkness)。强光(Bright light)会影响有强光失明(light blindness)或光线敏感(light sensitivity)的生物。在决定用更高环的光亮或黑暗法术取代此法术效果的目的时，当它增加周围光照等级时，光与暗的境界算作光亮法术；当它降低周围光照等级时，光与暗的境界算作黑暗法术。<\/p>"
 }

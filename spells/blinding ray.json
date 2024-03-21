@@ -1,37 +1,40 @@
 {
     "key": "blinding ray",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blinding-ray/",
     "name": "Blinding Ray",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blinding%20Ray",
+    "source": ["Advanced Race Guide pg. 101"],
     "school": "evocation",
     "descriptors":     [
         "good",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "dhampir",
     "levels":     {
         "cleric": 2,
         "inquisitor": 3,
-        "paladin": 2
+        "oracle": 2,
+        "paladin": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "one or more rays of light",
     "duration": "instantaneous (see text)",
-    "savingThrow": "Fort negates",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You blast your enemies with blinding rays of sunlight. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit. If a ray hits, it explodes into powerful motes of light, and the target must save or be blinded for 1 round. If the target has light blindness, light sensitivity, or is otherwise vulnerable to bright light, it instead must save or be blinded for 1d4 rounds and take 1d4 points of damage per two caster levels (maximum 5d4). Any creature blinded by a ray sheds light as a sunrod for the duration of its blindness. The rays may be fired at the same or different targets, but all rays must be aimed at targets within 30 feet of each other and fired simultaneously.<\/p>",
-    "mythicText": "On a successful saving throw, the target is dazzled for 1 round. On a failed Saving Throw, the target is instead blinded for 1d4 rounds. <br>A target with light blindness, light sensitivity, or any other vulnerability to light is instead blinded for 1d4 rounds on a successful saving throw and permanently blinded on a failed saving throw. ",
+    "text": "You blast your enemies with blinding rays of sunlight. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit. If a ray hits, it explodes into powerful motes of light, and the target must save or be blinded for 1 round. If the target has light blindness, light sensitivity, or is otherwise vulnerable to bright light, it instead must save or be blinded for 1d4 rounds and take 1d4 points of damage per two caster levels (maximum 5d4). Any creature blinded by a ray sheds light as a sunrod for the duration of its blindness. The rays may be fired at the same or different targets, but all rays must be aimed at targets within 30 feet of each other and fired simultaneously.<h2 class=\"title\">Mythic Blinding Ray<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 86<\/i><br>On a successful saving throw, the target is dazzled for 1 round. On a failed saving throw, the target is instead blinded for 1d4 rounds.<br><br> A target with light blindness, light sensitivity, or any other vulnerability to light is instead blinded for 1d4 rounds on a successful saving throw and permanently blinded on a failed saving throw.",
+    "mythicSource": ["Mythic Adventures pg. 86"],
+    "mythicText": "On a successful saving throw, the target is dazzled for 1 round. On a failed saving throw, the target is instead blinded for 1d4 rounds.<br><br> A target with light blindness, light sensitivity, or any other vulnerability to light is instead blinded for 1d4 rounds on a successful saving throw and permanently blinded on a failed saving throw.",
     "name_zh": "炫目射线",
     "race_zh": "吸血裔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，圣物",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一或多条射线",
-    "duration_zh": "立即 (见后文)",
+    "duration_zh": "立即; 见文本",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你用与阳光一样耀眼的射线炸翻敌人。你可以发射一条射线，比3级每多4个等级可以额外增加一条射线 (最高为11级的3条射线)。每条射线都需要一次远程接触攻击来命中。如果射线命中，它会爆炸为强烈的光尘，目标必须通过豁免，否则会目盲1轮。若目标拥有“强光失明”、“强光敏感”或者其他对强光虚弱的特性，该法术豁免未通过时则会目盲1d4轮，并且受到每2个施法者等级1d4点伤害 (最高5d4)。任何因射线目盲的生物在目盲持续时间内都会如同照明杖一样发光。这些射线可以攻击同一个或多个目标，但是所有射线必须瞄准相距不超过30尺的生物并同时发射。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>你用与阳光一样耀眼的射线炸翻敌人。你可以发射一条射线，比3级每多4个等级可以额外增加一条射线 (最高为11级的3条射线)。每条射线都需要一次远程接触攻击来命中。如果射线命中，它会爆炸为强烈的光尘，目标必须通过豁免，否则会目盲1轮。若目标拥有“强光失明”、“强光敏感”或者其他对强光虚弱的特性，该法术豁免未通过时则会目盲1d4轮，并且受到每2个施法者等级1d4点伤害 (最高5d4)。任何因射线目盲的生物在目盲持续时间内都会如同照明杖一样发光。这些射线可以攻击同一个或多个目标，但是所有射线必须瞄准相距不超过30尺的生物并同时发射。<\/p>"
 }

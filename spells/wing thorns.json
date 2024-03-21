@@ -1,15 +1,18 @@
 {
     "key": "wing thorns",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wing-thorns/",
     "name": "Wing Thorns",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wing%20Thorns",
+    "source": ["Ultimate Wilderness pg. 14"],
     "school": "transmutation",
     "descriptors": ["poison"],
+    "race": "Gathlain",
     "levels":     {
         "alchemist": 3,
         "antipaladin": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
+        "investigator": 3,
         "magus": 4,
         "shaman": 3,
         "witch": 3
@@ -19,13 +22,13 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p class=\"description\">Your wings sprout poisonous thorns each the size of a dagger.<\/p><p>You can use these thorns like armor spikes. In addition, you can make two wing attacks as primary natural weapons. If you are Small, the wings deal 1d3 points of bludgeoning and piercing damage plus your Strength modifier (unless you also attack with a weapon, in which case they are treated as a secondary natural weapon). A creature damaged by your wing thorns experiences intense itching, gaining the sickened condition while the spell lasts unless it succeeds at a Fortitude saving throw.<\/p>",
+    "text": "Your wings sprout poisonous thorns each the size of a dagger. You can use these thorns like armor spikes. In addition, you can make two wing attacks as primary natural weapons. If you are Small, the wings deal 1d3 points of bludgeoning and piercing damage plus your Strength modifier (unless you also attack with a weapon, in which case they are treated as a secondary natural weapon). A creature damaged by your wing thorns experiences intense itching, gaining the sickened condition while the spell lasts unless it succeeds at a Fortitude saving throw.",
     "name_zh": "荆棘之翼",
+    "race_zh": "Gathlain",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自我",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你的翅膀长出了有毒的荆刺，每根都有匕首那么大。你可以像甲刺（armor spikes）一样使用这些荆刺。此外，你还可以将两支翅膀攻击作为主要的天生武器。如果你是小型，翅膀会造成1d3点的钝击和穿刺伤害加上你的力量修正值（除非你也用一把武器攻击，在这种情况下它们被当作次要的天生武器）。被你的翼刺伤害到的生物会经历强烈的瘙痒，在法术持续的时候获得恶心症状，除非他成功地进行了强韧豁免。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>你的翅膀长出了有毒的荆刺，每根都有匕首那么大。你可以像甲刺（armor spikes）一样使用这些荆刺。此外，你还可以将两支翅膀攻击作为主要的天生武器。如果你是小型，翅膀会造成1d3点的钝击和穿刺伤害加上你的力量修正值（除非你也用一把武器攻击，在这种情况下它们被当作次要的天生武器）。被你的翼刺伤害到的生物会经历强烈的瘙痒，在法术持续的时候获得恶心症状，除非他成功地进行了强韧豁免。<\/p>"
 }

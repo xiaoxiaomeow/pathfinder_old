@@ -1,14 +1,18 @@
 {
     "key": "transmute rock to mud",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transmute-rock-to-mud/",
     "name": "Transmute Rock to Mud",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transmute%20Rock%20to%20Mud",
+    "source": ["PRPG Core Rulebook pg. 361"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 5,
         "druid": 5,
-        "sorcerer/wizard": 5
+        "hunter": 5,
+        "occultist": 5,
+        "sorcerer": 5,
+        "wizard": 5
     },
-    "elementalSchools": {"earth": 5},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (clay and water)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -16,15 +20,14 @@
     "duration": "permanent; see text",
     "savingThrow": "see text",
     "spellResistance": "no",
-    "text": "<p>This spell turns natural, uncut, or unworked rock of any sort into an equal volume of mud. Magical stone is not affected by the spell. The depth of the mud created cannot exceed 10 feet. A creature unable to levitate, fly, or otherwise free itself from the mud sinks until hip- or chest-deep, reducing its speed to 5 feet and causing a -2 penalty on attack rolls and AC. Brush or similar material thrown atop the mud can support creatures able to climb on top of it. Creatures large enough to walk on the bottom can wade through the area at a speed of 5 feet.<\/p><p>If <i>transmute rock to mud<\/i> is cast upon the ceiling of a cavern or tunnel, the mud falls to the floor and spreads out in a pool at a depth of 5 feet. The falling mud and the ensuing cave-in deal 8d6 points of bludgeoning damage to anyone caught directly beneath the targeted area, or half damage to those who succeed on Reflex saves.<\/p><p>Castles and large stone buildings are generally immune to the effect of the spell, since <i>transmute rock to mud<\/i> can't affect worked stone and doesn't reach deep enough to undermine such buildings' foundations. However, small buildings or structures often rest upon foundations shallow enough to be damaged or even partially toppled by this spell.<\/p><p>The mud remains until a successful dispel magic or <i>transmute mud to rock<\/i> spell restores its substance but not necessarily its form. Evaporation turns the mud to normal dirt over a period of days. The exact time depends on exposure to the sun, wind, and normal drainage.<\/p><p><i>Transmute rock to mud<\/i> counters and dispels <i>transmute mud to rock<\/i>.<\/p>",
+    "text": "This spell turns natural, uncut, or unworked rock of any sort into an equal volume of mud. Magical stone is not affected by the spell. The depth of the mud created cannot exceed 10 feet. A creature unable to levitate, fly, or otherwise free itself from the mud sinks until hip- or chest-deep, reducing its speed to 5 feet and causing a –2 penalty on attack rolls and AC. Brush or similar material thrown atop the mud can support creatures able to climb on top of it. Creatures large enough to walk on the bottom can wade through the area at a speed of 5 feet.<br><br>If <i>transmute rock to mud<\/i> is cast upon the ceiling of a cavern or tunnel, the mud falls to the floor and spreads out in a pool at a depth of 5 feet. The falling mud and the ensuing cave-in deal 8d6 points of bludgeoning damage to anyone caught directly beneath the targeted area, or half damage to those who succeed on Reflex saves.<br><br>Castles and large stone buildings are generally immune to the effect of the spell, since <i>transmute rock to mud<\/i> can't affect worked stone and doesn't reach deep enough to undermine such buildings' foundations. However, small buildings or structures often rest upon foundations shallow enough to be damaged or even partially toppled by this spell.<br><br>The mud remains until a successful <i>dispel magic<\/i> or <i>transmute mud to rock<\/i> spell restores its substance—but not necessarily its form. Evaporation turns the mud to normal dirt over a period of days. The exact time depends on exposure to the sun, wind, and normal drainage.<br><br><i>Transmute rock to mud<\/i> counters and dispels <i>transmute mud to rock<\/i>.",
     "name_zh": "化石为泥",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (粘土和水)",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "至多每等级两个边长10尺的立方区域 (可变)",
-    "duration_zh": "永久; 见后文",
-    "savingThrow_zh": "见后文",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "至多每等级两个边长10英尺的立方区域 (可变)",
+    "duration_zh": "永久; 见文本",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术可将天然未经斧凿的任何石头变成等量泥浆。带魔法的石头不受此法术影响。制造出的泥浆深度不超过10尺。不能以漂浮、飞行或其他方式逃离泥浆的生物会下沉至臀部或胸部。这些生物的移动速度降为5英尺，攻击检定和AC受到-2的减值。把树干丢到泥浆上，可使生物爬上不至沉下。体形大到可以踩到泥底的生物可以缓慢趟过泥塘，速度为5尺。<\/p><p>如果对着洞穴或地道的顶部施放化石为泥，泥浆会从上落下，散成一滩5尺深的泥潭。掉落的泥巴和引起的塌方会导致正好位于泥块掉落范围下的所有生物受到8d6点钝击伤害，若通过反射检定，则伤害减半。<\/p><p>城堡或大型建筑的石块通常不受此法术的影响，因为化石为泥不能影响加工过的石块，而且影响深度不足以动摇地基。然而小型建筑的地基通常比较浅，因此有可能会受到些损害，或者甚至会由于此法术而倒塌。<\/p><p>泥巴会保持原状，而成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=transmute mud to rock\">化泥为石 (transmute mud to rock)<\/a>’可以将泥巴变回石头，但不一定会变回原来的形状。泥巴经过一段时间后会干涸成为尘土，所需时间取决于暴晒、风吹和正常排水状况而定。<\/p><p>化石为泥能够反制和解除‘<a href=\"spell.html?spell=Transmute Mud to Rock\">化泥为石 (Transmute Mud to Rock)<\/a>’。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术可将天然未经斧凿的任何石头变成等量泥浆。带魔法的石头不受此法术影响。制造出的泥浆深度不超过10尺。不能以漂浮、飞行或其他方式逃离泥浆的生物会下沉至臀部或胸部。这些生物的移动速度降为5英尺，攻击检定和AC受到-2的减值。把树干丢到泥浆上，可使生物爬上不至沉下。体形大到可以踩到泥底的生物可以缓慢趟过泥塘，速度为5尺。<\/p><p>如果对着洞穴或地道的顶部施放化石为泥，泥浆会从上落下，散成一滩5尺深的泥潭。掉落的泥巴和引起的塌方会导致正好位于泥块掉落范围下的所有生物受到8d6点钝击伤害，若通过反射检定，则伤害减半。<\/p><p>城堡或大型建筑的石块通常不受此法术的影响，因为化石为泥不能影响加工过的石块，而且影响深度不足以动摇地基。然而小型建筑的地基通常比较浅，因此有可能会受到些损害，或者甚至会由于此法术而倒塌。<\/p><p>泥巴会保持原状，而成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=transmute mud to rock\">化泥为石 (transmute mud to rock)<\/a>’可以将泥巴变回石头，但不一定会变回原来的形状。泥巴经过一段时间后会干涸成为尘土，所需时间取决于暴晒、风吹和正常排水状况而定。<\/p><p>化石为泥能够反制和解除‘<a href=\"spell.html?spell=Transmute Mud to Rock\">化泥为石 (Transmute Mud to Rock)<\/a>’。<\/p>"
 }

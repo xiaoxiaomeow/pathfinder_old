@@ -1,10 +1,14 @@
 {
     "key": "arcane cannon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-cannon/",
     "name": "Arcane Cannon",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Cannon",
+    "source": ["Ultimate Combat pg. 223"],
     "school": "transmutation",
-    "levels": {"sorcerer/wizard": 7},
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
     "castingTime": "1 round",
     "components": "V, S, F (an ornate miniature cannon forged with a drop of your blood that costs 5,000 gp)",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -12,16 +16,16 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>Your focus becomes a Medium arcane cannon that appears in an unoccupied square within the spell's range. If no unoccupied square is within range, the spell fails. The cannon comes into existence loaded. Each round thereafter, the cannon can either fire or load. A cannon must be loaded to fire. You do not need to supply ammunition for the cannon. On your turn, you can spend a move action to direct the cannon to wheel itself to a new location, moving the cannon up to 20 feet. If the arcane cannon ever leaves your line of sight, it winks out of existence, and the spell's duration ends. The cannon has a range increment of 50 feet. It targets touch attack in the first range increment, and it has no misfire chance. The cannon acts as a weapon with the conductive special weapon ability, which you can use to channel your spell-like or supernatural abilities as long as you are within the range of arcane cannon. The cannon's attack bonus is equal to your caster level + your Intelligence bonus or your Charisma bonus (for wizards or sorcerers, respectively) with an additional +1 per four caster levels (maximum +5 at 20th level). On a hit, the cannon deals 4d10 damage. The arcane cannon attacks have a critical modifier of ×4.<\/p><p>The cannon has AC 10, hardness 10, and 80 hit points. If the cannon is subject to a spell or effect that requires a save, it uses your saving throw modifiers. The cannon never provokes attacks of opportunity. If the cannon is destroyed, so is your focus.<\/p>",
-    "mythicText": "The cannon deals 6d10 points of damage on a successful hit. <br>Add your tier to the cannon's hardness and your tier × 5 to its hit points. Its conductive property can channel any spell with a range of touch (you have to expend only one spell for this, not two). You may cast a spell with an energy descriptor on the cannon. If you do, for a number of rounds equal to the spell's level, half the cannon's damage is untyped damage and the other half is energy damage of the spell's type. <br>Casting a spell with a different energy descriptor onto the cannon replaces its current energy type with that of the new spell. ",
+    "text": "Your focus becomes a Medium <i>arcane cannon <\/i>that appears in an unoccupied square within the spell’s range. If no unoccupied square is within range, the spell fails. The cannon comes into existence loaded. Each round thereafter, the cannon can either fire or load. A cannon must be loaded to fire. You do not need to supply ammunition for the cannon. <br><br>On your turn, you can spend a move action to direct the cannon to wheel itself to a new location, moving the cannon up to 20 feet. If the <i>arcane cannon <\/i>ever leaves your line of sight, it winks out of existence, and the spell’s duration ends. <br><br>The cannon has a range increment of 50 feet. It targets touch attack in the first range increment, and it has no misfire chance. The cannon acts as a weapon with the <i>conductive <\/i>special weapon ability, which you can use to channel your spell-like or supernatural abilities as long as you are within the range of <i>arcane cannon<\/i>. The cannon’s attack bonus is equal to your caster level + your Intelligence bonus or your Charisma bonus (for wizards or sorcerers, respectively) with an additional +1 per four caster levels (maximum +5 at 20th level). On a hit, the cannon deals 4d10 damage. The <i>arcane cannon <\/i>attacks have a critical modifier of ×4.<br><br>The cannon has AC 10, hardness 10, and 80 hit points. If the cannon is subject to a spell or effect that requires a save, it uses your saving throw modifiers. The cannon never provokes attacks of opportunity. If the cannon is destroyed, so is your focus.<h2 class=\"title\">Mythic Arcane Cannon<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 84<\/i><br>The cannon deals 6d10 points of damage on a successful hit. Add your tier to the cannon’s hardness and your tier × 5 to its hit points. Its <i>conductive <\/i>property can channel any spell with a range of touch (you have to expend only one spell for this, not two). You may cast a spell with an energy descriptor on the cannon. If you do, for a number of rounds equal to the spell’s level, half the cannon’s damage is untyped damage and the other half is energy damage of the spell’s type. Casting a spell with a different energy descriptor onto the cannon replaces its current energy type with that of the new spell.",
+    "mythicSource": ["Mythic Adventures pg. 84"],
+    "mythicText": "The cannon deals 6d10 points of damage on a successful hit. Add your tier to the cannon’s hardness and your tier × 5 to its hit points. Its <i>conductive <\/i>property can channel any spell with a range of touch (you have to expend only one spell for this, not two). You may cast a spell with an energy descriptor on the cannon. If you do, for a number of rounds equal to the spell’s level, half the cannon’s damage is untyped damage and the other half is energy damage of the spell’s type. Casting a spell with a different energy descriptor onto the cannon replaces its current energy type with that of the new spell.",
     "name_zh": "奥术大炮",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势，器材 (一个华丽的大炮模型，价值5000GP，需滴上你的鲜血)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一具活化的魔法大炮",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你的法术器材变成一尊中型的魔法大炮，出现在法术范围内的闲置方格内。如果法术范围内没有空格，法术失败。<\/p><p>大炮出现时已经装填完毕。此后，每一轮大炮都可以开火或装填。大炮必须装填后才能发射。你不需要为大炮提供任何弹药。<\/p><p>每当轮到你行动，你可以用一个移动动作指挥大炮移动最多20尺，到达一个新的位置。<\/p><p>如果奥术大炮离开你的视线，它会立刻消失，法术效果也立刻结束。<\/p><p>大炮拥有50尺的射程增量。它的第一个射程增量被视为接触攻击，并且它没有不发火机率。<\/p><p>大炮视为拥有传导 (conductive) 特性的武器，只要你在大炮近距范围内，你便可以用它来传递类法术或超自然能力。<\/p><p>大炮的的攻击加值为你的施法者等级加上你的智力或魅力调整值 (分别适用于法师和术士)，再加上每四施法者等级1点的额外加值 (最多20级+5)。一旦命中，大炮造成4d10点伤害。大炮的重击修正值为x4。<\/p><p>大炮拥有AC10，硬度10，以及80点生命值。如果大炮被一个需要检定的法术或效果影响，它使用你的豁免检定加值。<\/p><p>大炮永远不会引发藉机攻击。如果大炮被摧毁，你的法术器材也同时被摧毁。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你的法术器材变成一尊中型的魔法大炮，出现在法术范围内的闲置方格内。如果法术范围内没有空格，法术失败。<\/p><p>大炮出现时已经装填完毕。此后，每一轮大炮都可以开火或装填。大炮必须装填后才能发射。你不需要为大炮提供任何弹药。<\/p><p>每当轮到你行动，你可以用一个移动动作指挥大炮移动最多20尺，到达一个新的位置。<\/p><p>如果奥术大炮离开你的视线，它会立刻消失，法术效果也立刻结束。<\/p><p>大炮拥有50尺的射程增量。它的第一个射程增量被视为接触攻击，并且它没有不发火机率。<\/p><p>大炮视为拥有传导 (conductive) 特性的武器，只要你在大炮近距范围内，你便可以用它来传递类法术或超自然能力。<\/p><p>大炮的的攻击加值为你的施法者等级加上你的智力或魅力调整值 (分别适用于法师和术士)，再加上每四施法者等级1点的额外加值 (最多20级+5)。一旦命中，大炮造成4d10点伤害。大炮的重击修正值为x4。<\/p><p>大炮拥有AC10，硬度10，以及80点生命值。如果大炮被一个需要检定的法术或效果影响，它使用你的豁免检定加值。<\/p><p>大炮永远不会引发藉机攻击。如果大炮被摧毁，你的法术器材也同时被摧毁。<\/p>"
 }

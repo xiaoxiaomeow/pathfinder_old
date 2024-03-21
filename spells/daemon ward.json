@@ -1,20 +1,35 @@
 {
     "key": "daemon ward",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/daemon-ward/",
     "name": "Daemon Ward",
-    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Daemon%20Ward",
+    "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 4,
         "cleric": 4,
         "druid": 5,
+        "hunter": 5,
+        "oracle": 4,
         "paladin": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "sorcerer": 4,
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
     },
+    "castingTime": "1 standard action",
     "components": "V, S, M (50 gp worth of powdered silver)",
-    "text": "<p>This spell functions like death ward, except as noted above and it only protects against these attacks from daemons.<\/p>",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>death ward<\/i>, except as noted above and it only protects against these attacks from daemons.",
     "name_zh": "邪魔结界",
+    "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (价值50金币的银粉末)",
-    "text_zh": "<p>本法术的效果如同防死结界，除了上述的纪载，并且只在对抗来自邪魔的攻击时提供保护。<\/p>",
-    "source": "CS-BotD3"
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>本法术的效果如同防死结界，除了上述的纪载，并且只在对抗来自邪魔的攻击时提供保护。<\/p>"
 }

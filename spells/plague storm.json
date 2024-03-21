@@ -1,36 +1,40 @@
 {
     "key": "plague storm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plague-storm/",
     "name": "Plague Storm",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plague%20Storm",
+    "source": ["Ultimate Magic pg. 231"],
     "school": "necromancy",
     "descriptors":     [
         "disease",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 6,
+        "arcanist": 7,
+        "cleric": 6,
         "druid": 6,
-        "sorcerer/wizard": 7,
-        "witch": 6
+        "hunter": 6,
+        "oracle": 6,
+        "sorcerer": 7,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "cloud spreads in 20-ft. radius, 20 ft. high",
-    "duration": "1 min./level and instantaneous (see text)",
+    "duration": "1 minute/level and instantaneous (see text)",
     "savingThrow": "Fortitude negates",
     "spellResistance": "no",
-    "text": "<p>You create a hideous gray cloud, similar to fog cloud, that occasionally crackles with foul-smelling bolts of sickly green lightning. Creatures in the area must save or contract one of the following diseases: blinding sickness, bubonic plague, cackle fever, demon fever, devil chills, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom (the disease is chosen by you when you cast the spell and applies to all creatures that fail the save). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Use the disease's listed frequency to determine further effects, but the disease's save DC increases by +2.<\/p><p>Unlike a fog cloud, the <i>plague storm<\/i> moves away from you at 10 feet per round, rolling along the surface of the ground.<\/p><p>Figure out the cloud's new spread each round based on its new point of origin, which is 10 feet farther away from the point of origin where you cast the spell. Because the vapors are heavier than air, they sink to the lowest level of the terrain, even pouring down den or sinkhole openings. The cloud cannot penetrate liquids, nor can it be cast underwater.<\/p>",
+    "text": "You create a hideous gray cloud, similar to <i>fog cloud<\/i>, that occasionally crackles with foul-smelling bolts of sickly green lightning. Creatures in the area must save or contract one of the following diseases: blinding sickness, bubonic plague, cackle fever, demon fever, devil chills, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom (the disease is chosen by you when you cast the spell and applies to all creatures that fail the save). The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Use the disease’s listed frequency to determine further effects, but the disease’s save DC increases by +2. For more information see the diseases section.<br><br>Unlike a <i>fog cloud<\/i>, the <i>plague storm <\/i>moves away from you at 10 feet per round, rolling along the surface of the ground.<br><br>Figure out the cloud’s new spread each round based on its new point of origin, which is 10 feet farther away from the point of origin where you cast the spell.<br><br>Because the vapors are heavier than air, they sink to the lowest level of the terrain, even pouring down den or sinkhole openings. The cloud cannot penetrate liquids, nor can it be cast underwater.",
     "name_zh": "疫病风暴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "20尺半径，20尺高的云雾",
-    "duration_zh": "1分钟/等级和立即 (见下文)",
+    "duration_zh": "1分钟/等级和立即; 见文本",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一片可怖的云雾，类似云雾术 (Fog Cloud)，但是它充满恶臭、偶尔会爆出不详的绿色闪电。<\/p><p>范围内的生物必须通过检定，不然就会感染下列疾病之一：失明 (blinding sickness)、鼠疫 (bubonic plague)、失心疯 (cackle fever)、腐热症 (filth fever)、麻风 (leprosy)、脑热症 (mindfire)、红肿症 (red ache)、发颤症 (the shakes) 或恶心症 (slimy doom)，疾病种类由你在施法之前选择，并且所有豁免失败的生物都会患上该种疾病。<\/p><p>这种疾病将会立刻生效 (潜伏期无效)，并且它也会是一个瞬间效果。使用这种疾病本来应有的发作频率以确定后续效果，但是疾病的豁免DC为正常DC+2。<\/p><p>与云雾术不同，瘟疫风暴将会以每轮10英尺的速度远离你，并沿着地面滚动。云雾每一轮都会移动到离你原施法位置更远的10尺外并且以此地作为新的中心点。<\/p><p>由于雾气比空气重，所以它们总是处于当前地形的最低点，甚至落入洞穴或地窖入口。云雾无法穿透液体，也不可以在水下施放。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一片可怖的云雾，类似云雾术 (Fog Cloud)，但是它充满恶臭、偶尔会爆出不详的绿色闪电。<\/p><p>范围内的生物必须通过检定，不然就会感染下列疾病之一：失明 (blinding sickness)、鼠疫 (bubonic plague)、失心疯 (cackle fever)、腐热症 (filth fever)、麻风 (leprosy)、脑热症 (mindfire)、红肿症 (red ache)、发颤症 (the shakes) 或恶心症 (slimy doom)，疾病种类由你在施法之前选择，并且所有豁免失败的生物都会患上该种疾病。<\/p><p>这种疾病将会立刻生效 (潜伏期无效)，并且它也会是一个瞬间效果。使用这种疾病本来应有的发作频率以确定后续效果，但是疾病的豁免DC为正常DC+2。<\/p><p>与云雾术不同，瘟疫风暴将会以每轮10英尺的速度远离你，并沿着地面滚动。云雾每一轮都会移动到离你原施法位置更远的10尺外并且以此地作为新的中心点。<\/p><p>由于雾气比空气重，所以它们总是处于当前地形的最低点，甚至落入洞穴或地窖入口。云雾无法穿透液体，也不可以在水下施放。<\/p>"
 }

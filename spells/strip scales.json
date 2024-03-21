@@ -1,31 +1,33 @@
 {
     "key": "strip scales",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/strip-scales/",
     "name": "Strip Scales",
-    "book": "Pathfinder Player Companion: Kobolds of Golarion. © 2013 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strip%20Scales",
+    "source": ["Kobolds of Golarion pg. 27"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 5,
         "druid": 4,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "hunter": 4,
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a single reptile scale)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one living creature",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Fortitude",
     "spellResistance": "yes",
-    "text": "<p>You reduce the target's racial natural armor bonus by 1 point per 3 caster levels.<\/p>",
+    "text": "You reduce the target’s racial natural armor bonus by 1 point per 3 caster levels.",
     "name_zh": "剥除鳞片",
     "race_zh": "狗头人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一片爬行动物的鳞片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "强韧，通过则无效",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你减少目标的种族天生护甲加值1点/3等级。\n译注：原文在豁免上仅有Fortitude。一般豁免种类后还会加上通过后会如何，例如Fortitude partial(强韧，通过则部分生效)或是Fortitude negates(强韧，通过则无效)，这边疑似印刷错误，参考法术效果后，以通过则无效较为合理。<\/p>",
-    "source": "PC-KoG"
+    "text_zh": "<p>你减少目标的种族天生护甲加值1点/3等级。<\/p><p>译注：原文在豁免上仅有Fortitude。一般豁免种类后还会加上通过后会如何，例如Fortitude partial(强韧，通过则部分生效)或是Fortitude negates(强韧，通过则无效)，这边疑似印刷错误，参考法术效果后，以通过则无效较为合理。<\/p>"
 }

@@ -1,29 +1,33 @@
 {
     "key": "anchored step",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/anchored-step/",
     "name": "Anchored Step",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anchored%20Step",
+    "source": ["Advanced Class Guide pg. 173"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "druid": 3,
+        "hunter": 3,
+        "investigator": 3,
         "psychic": 3,
+        "redmantisassassin": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a bit of oak root)",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level (d)",
-    "text": "<p>Powerful tendrils grow out of the bottom of your feet or footwear, partially anchoring you to the ground and making it more difficult for others to move you against your will. These tendrils dig into any surface, but leave no trace of your passing. You gain a +10 bonus to your CMD against bull rush, overrun, pull, push, reposition, and trip combat maneuvers, as well as any other effect that would move you from your current position (such as being swallowed whole) or knock you prone. The tendrils slow your movement, however; your speed is reduced by 10 feet (to a minimum of 5 feet). This spell has no effect if you are moving without touching the ground (climbing, flying, swimming, and so on).<\/p>",
+    "duration": "10 minutes/level (D)",
+    "text": "Powerful tendrils grow out of the bottom of your feet or footwear, partially anchoring you to the ground and making it more difficult for others to move you against your will. These tendrils dig into any surface, but leave no trace of your passing. You gain a +10 bonus to your CMD against bull rush, overrun, pull, push, reposition, and trip combat maneuvers, as well as any other effect that would move you from your current position (such as being swallowed whole) or knock you prone. The tendrils slow your movement, however; your speed is reduced by 10 feet (to a minimum of 5 feet). This spell has no effect if you are moving without touching the ground (climbing, flying, swimming, and so on).",
     "name_zh": "足底生根",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一段像树根）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "10分钟/等级（可解消）",
-    "text_zh": "<p>强大的植物根须从你的脚底或鞋底长出，将你局部性地固定在地面上，使得他人更难在违背你自身意志的情况下迫使你移动。这些根须会探入任何平面中，但是并不会在你通过的路径留下痕迹。你在对抗冲撞、闯越、拉拽（Pull）、推离（Push）、移位（reposition）和摔绊战技，以及任何其他会将你从当前的位置挪开（比如活吞swallowed whole）或将你击倒（knock you prone）的效果时，CMD获得+10加值。然而这些根须会减慢你的速度；你的速度降低10尺（最低降至5尺）。若你在移动时没有接触到地面（攀爬、飞行、游泳等等），该法术就不会产生任何效果。<\/p>",
-    "source": "ACG"
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>强大的植物根须从你的脚底或鞋底长出，将你局部性地固定在地面上，使得他人更难在违背你自身意志的情况下迫使你移动。这些根须会探入任何平面中，但是并不会在你通过的路径留下痕迹。你在对抗冲撞、闯越、拉拽（Pull）、推离（Push）、移位（reposition）和摔绊战技，以及任何其他会将你从当前的位置挪开（比如活吞swallowed whole）或将你击倒（knock you prone）的效果时，CMD获得+10加值。然而这些根须会减慢你的速度；你的速度降低10尺（最低降至5尺）。若你在移动时没有接触到地面（攀爬、飞行、游泳等等），该法术就不会产生任何效果。<\/p>"
 }

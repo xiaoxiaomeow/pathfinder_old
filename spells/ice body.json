@@ -1,28 +1,28 @@
 {
     "key": "ice body",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-body/",
     "name": "Ice Body",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ice%20Body",
+    "source": ["Ultimate Magic pg. 224"],
     "school": "transmutation",
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "mysteries": {"winter": 7},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>Your form transmutes into living ice, granting you several abilities. You gain the cold subtype and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can't use potions) or play wind instruments.<\/p><p>Your unarmed attack deals damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters) plus 1 point of cold damage, and you are considered armed when making unarmed attacks. You may burrow through nonmagical ice or snow at your base speed as easily as a fish swims through water. You can move through magical ice and snow if you succeed on a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the effect; you automatically succeed on caster level checks against effects that you created. Your passage through snow and ice in this fashion leaves behind no tunnel or hole.<\/p>",
+    "duration": "1 minute/level (D)",
+    "text": "Your form transmutes into living ice, granting you several abilities. You gain the cold subtype and damage reduction 5/magic. You are immune to ability score damage, blindness, critical hits, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You cannot drink (and thus can’t use potions) or play wind instruments.<br><br>Your unarmed attack deals damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium characters) plus 1 point of cold damage, and you are considered armed when making unarmed attacks. You may burrow through nonmagical ice or snow at your base speed as easily as a fish swims through water. You can move through magical ice and snow if you succeed on a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the effect; you automatically succeed on caster level checks against effects that you created. Your passage through snow and ice in this fashion leaves behind no tunnel or hole.",
     "name_zh": "寒冰之躯",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>你将你的形态转变为活体冰块，这会赋予你若干特殊能力。<\/p><p>你获得寒冷亚种以及DR5/魔法。<\/p><p>你对属性伤害、目盲、重击、耳聋、疾病、溺水、电击、毒素、震慑以及所有对你的生理活动和呼吸造成影响的法术和效果免疫，因为在法术效果持续中你没有生理活动和呼吸。但同时你也不能吃喝 (包括药水) 和吹奏乐器。<\/p><p>你的徒手攻击将可以造成对应你体型的伤害 (小型1d4，中型1d6)，加上1点寒冷伤害，并且你在进行徒手打击时被视为已武装。<\/p><p>你可以以基础移动速度穿越非魔法的冰层或雪，这就如同一条鱼游泳通过水域一样容易。<\/p><p>你可以在一次施法者等级检定 (1d20+CL，DC为11+对方施法者等级) 后移动穿过魔法造成的冰雪。你对自己的魔法创造的冰雪自动检定成功。<\/p><p>你用上述方术穿越冰雪不会留下任何隧道或洞穴。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>你将你的形态转变为活体冰块，这会赋予你若干特殊能力。<\/p><p>你获得寒冷亚种以及DR5/魔法。<\/p><p>你对属性伤害、目盲、重击、耳聋、疾病、溺水、电击、毒素、震慑以及所有对你的生理活动和呼吸造成影响的法术和效果免疫，因为在法术效果持续中你没有生理活动和呼吸。但同时你也不能吃喝 (包括药水) 和吹奏乐器。<\/p><p>你的徒手攻击将可以造成对应你体型的伤害 (小型1d4，中型1d6)，加上1点寒冷伤害，并且你在进行徒手打击时被视为已武装。<\/p><p>你可以以基础移动速度穿越非魔法的冰层或雪，这就如同一条鱼游泳通过水域一样容易。<\/p><p>你可以在一次施法者等级检定 (1d20+CL，DC为11+对方施法者等级) 后移动穿过魔法造成的冰雪。你对自己的魔法创造的冰雪自动检定成功。<\/p><p>你用上述方术穿越冰雪不会留下任何隧道或洞穴。<\/p>"
 }

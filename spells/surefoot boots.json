@@ -1,11 +1,12 @@
 {
     "key": "surefoot boots",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/surefoot-boots/",
     "name": "Surefoot Boots",
-    "book": "Pathfinder Player Companion: Adventurer's Armory 2 © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Surefoot%20Boots",
+    "source": ["Adventurer's Armory 2 pg. 21"],
     "school": "transmutation",
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "occultist": 2,
         "ranger": 2,
         "shaman": 2
@@ -15,17 +16,14 @@
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "savingThrow": "none",
-    "spellResistance": "no",
-    "text": "<p>You touch your boots, shoes, or other footwear and imbue them with the ability to find purchase on even the most treacherous ground. While the spell is in effect, the footwear's wearer treats any Acrobatics skill check to balance as though the wearer had rolled a 20.<\/p>",
+    "text": "You touch your boots, shoes, or other footwear and imbue them with the ability to find purchase on even the most treacherous ground. While the spell is in effect, the footwear’s wearer treats any Acrobatics skill check to balance as though the wearer had rolled a 20.",
     "name_zh": "适足之靴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (鞋类)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>你碰触了你的靴子、鞋子或其他鞋类并对他们注入就算在最险峻的地形，也能牢牢抓稳的能力。当处于此法术的效果时，该鞋类的穿戴着在对待任何有关平衡的特技技能检定时，就好像穿戴者骰出了一颗20。<\/p>",
-    "source": "PC-AA2"
+    "spellResistance_zh": "无",
+    "text_zh": "<p>你碰触了你的靴子、鞋子或其他鞋类并对他们注入就算在最险峻的地形，也能牢牢抓稳的能力。当处于此法术的效果时，该鞋类的穿戴着在对待任何有关平衡的特技技能检定时，就好像穿戴者骰出了一颗20。<\/p>"
 }

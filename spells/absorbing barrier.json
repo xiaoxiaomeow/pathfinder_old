@@ -1,0 +1,30 @@
+{
+    "key": "absorbing barrier",
+    "name": "Absorbing Barrier",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Absorbing%20Barrier",
+    "source": ["People of the Wastes pg. 28"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 4,
+        "arcanist": 4,
+        "investigator": 4,
+        "sorcerer": 4,
+        "summoner": 4,
+        "summoner (unchained)": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a jagged scrap of metal)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "40-ft.-radius sphere; see text (S)",
+    "duration": "1 hour/level or until discharged",
+    "savingThrow": "none (harmless)",
+    "spellResistance": "no (harmless)",
+    "text": "You ward all creatures and objects in the area from ranged weapons. The spell’s area of effect is often a sphere, although you can shape it to be smaller than the maximum area or to exclude certain adjacent areas or objects (for example, if you are warding a specific structure, or if you are roughly warding the front lines of a battlefield). This spell’s area is also up to 40 feet in height, so flying creatures benefit as long as they are in this area of effect.<br><br> Creatures and objects in the warded area gain damage reduction 20/magic against ranged weapons. Once the spell has prevented a total of 20 points of damage per caster level (maximum 200 points) to creatures and objects in the area, it is discharged.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "40-ft.-radius sphere; see text (S)",
+    "duration_zh": "1小时/等级 或 直至能量散发",
+    "savingThrow_zh": "无 (无害)",
+    "spellResistance_zh": "不可 (无害)"
+}

@@ -1,26 +1,29 @@
 {
     "key": "aram zey's focus",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trapfinders-focus/",
     "name": "Aram Zey's Focus",
-    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aram%20Zey's%20Focus",
+    "source": ["Pathfinder Society Field Guide pg. 56"],
     "school": "divination",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bard": 2,
-        "sorcerer/wizard": 2
+        "investigator": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
-    "components": "V, S, F (masterwork thieves' tools worth 100 gp)",
+    "components": "V, S, F (masterwork thieves’ tools worth 100 gp)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>If you don't have the trapfinding class ability, this spell grants you the trapfinding ability of a rogue of half your character level.<\/p><p>If you have the trapfinding ability granted by class levels, however, this spell grants you a +5 competence bonus on all Disable Device checks made to disarm mechanical (but not magical) traps. While under the effects of this spell, whenever you trigger a trap by rolling poorly on a Disable Device check, you may roll a second Disable Device check. This new roll uses the same modifiers as the first roll. If your second roll is high enough to avoid accidentally springing the trap, you avoid setting it off, but still fail to disarm it. Each time you take advantage of this feature, the remaining duration of the spell is reduced by 1 minute—if less than a minute's worth of duration remains, the spell ends as soon as you reroll your Disable Device check.<\/p>",
+    "duration": "1 minute/level (D)",
+    "text": "Aram Zey created this spell for use by his students, both to increase their confidence in their skills and to ensure more of them survived encounters with deadly traps. If you don’t have the trapfinding class ability, this spell grants you the trapfinding ability of a rogue of half your character level. If you have the trapfinding ability granted by class levels, however, this spell grants you a +5 competence bonus on all Disable Device checks made to disarm mechanical (but not magical) traps. While under the effects of <i>Aram Zey’s focus<\/i>, whenever you trigger a trap by rolling poorly on a Disable Device check, you may roll a second Disable Device check. This new roll uses the same modifiers as the first roll. If your second roll is high enough to avoid accidentally springing the trap, you avoid setting it off, but still fail to disarm it. Each time you take advantage of this feature, the remaining duration of the spell is reduced by 1 minute—if less than a minute’s worth of duration remains, the spell ends as soon as you reroll your Disable Device check.",
     "name_zh": "阿兰姆·扎依的专注",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (价值100gp的精制品盗贼工具)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级 (D)",
-    "text_zh": "<p>阿兰姆·扎依创造本法术给他的学生使用，既是增进他们对自己技能的自信，也是确保他们在遭遇致命陷阱时存活下来。如果你没有寻找陷阱职业能力(trapfinding class ability)，这个法术会给予你此能力，并视你为等级为当前角色等级一半的盗贼。如果你通过职业等级拥有了寻找陷阱职业能力，这法术会在所有用来解除机械(但不能是魔法)陷阱上的解除装置检定，给予你+5表现(competence)加值。当你处于阿兰姆·扎依的专注效果，并在任何时间点因为进行解除装置检定骰低而触发陷阱时，你可以重骰该解除装置检定。这次重骰会应用与第一次投掷相同的调整值。如果你的重骰高到能避免意外触发这个陷阱，那你就能避免触发，但你的解除仍就算做失败。你每一次使用这种效果，法术剩余的持续时间会扣除1分钟，而如果剩下的时间连1分钟都不到，那在你重骰解除装置检定时，这法术结束。<\/p>",
-    "source": "CS-PSFG"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>阿兰姆·扎依创造本法术给他的学生使用，既是增进他们对自己技能的自信，也是确保他们在遭遇致命陷阱时存活下来。如果你没有寻找陷阱职业能力(trapfinding class ability)，这个法术会给予你此能力，并视你为等级为当前角色等级一半的盗贼。如果你通过职业等级拥有了寻找陷阱职业能力，这法术会在所有用来解除机械(但不能是魔法)陷阱上的解除装置检定，给予你+5表现(competence)加值。当你处于阿兰姆·扎依的专注效果，并在任何时间点因为进行解除装置检定骰低而触发陷阱时，你可以重骰该解除装置检定。这次重骰会应用与第一次投掷相同的调整值。如果你的重骰高到能避免意外触发这个陷阱，那你就能避免触发，但你的解除仍就算做失败。你每一次使用这种效果，法术剩余的持续时间会扣除1分钟，而如果剩下的时间连1分钟都不到，那在你重骰解除装置检定时，这法术结束。<\/p>"
 }

@@ -1,17 +1,23 @@
 {
     "key": "delay disease",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/delay-disease/",
     "name": "Delay Disease",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Delay%20Disease",
+    "source": ["Advanced Race Guide pg. 155"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
+    "race": "ratfolk",
     "levels":     {
         "alchemist": 2,
         "cleric": 2,
         "druid": 2,
+        "hunter": 2,
         "inquisitor": 2,
+        "investigator": 2,
+        "mesmerist": 2,
+        "oracle": 2,
         "paladin": 2,
         "ranger": 2,
+        "warpriest": 2,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -19,9 +25,9 @@
     "range": "touch",
     "target": "creature touched",
     "duration": "1 day",
-    "savingThrow": "Fort negates (harmless)",
+    "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target becomes temporarily immune to disease. Any disease to which it is exposed during the spell's duration does not affect the target until the spell's duration has expired. If the target is currently infected with a disease, you must make a caster level check against the disease's DC to suspend it for the duration of the spell; otherwise, that disease affects the target normally. <i>Delay disease<\/i> does not cure any damage a disease may have already done.<\/p>",
+    "text": "The target becomes temporarily immune to disease. Any disease to which it is exposed during the spell’s duration does not affect the target until the spell’s duration has expired. If the target is currently infected with a disease, you must make a caster level check against the disease’s DC to suspend it for the duration of the spell; otherwise, that disease affects the target normally. Delay disease does not cure any damage a disease may have already done.",
     "name_zh": "暂缓病发",
     "race_zh": "鼠族",
     "castingTime_zh": "标准动作",
@@ -31,6 +37,5 @@
     "duration_zh": "1天",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标暂时免疫疾病。任何在法术持续时间内感染的疾病在法术持续时间结束之前无法影响目标。若目标染上了疾病，你必须用施法者等级检定对抗疾病的DC，成功则在持续时间内暂缓疾病的效果；否则疾病正常影响目标。‘暂缓疾病’无法治愈疾病已经造成的伤害。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>目标暂时免疫疾病。任何在法术持续时间内感染的疾病在法术持续时间结束之前无法影响目标。若目标染上了疾病，你必须用施法者等级检定对抗疾病的DC，成功则在持续时间内暂缓疾病的效果；否则疾病正常影响目标。‘暂缓疾病’无法治愈疾病已经造成的伤害。<\/p>"
 }

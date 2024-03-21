@@ -1,34 +1,38 @@
 {
     "key": "detect the faithful",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-the-faithful/",
     "name": "Detect the Faithful",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20the%20Faithful",
+    "source":     [
+        "Ultimate Intrigue pg. 212",
+        "Taldor, Echoes of Glory pg. 25"
+    ],
     "school": "divination",
     "levels":     {
         "antipaladin": 1,
         "cleric": 1,
         "druid": 1,
+        "hunter": 1,
         "inquisitor": 1,
         "paladin": 1,
         "ranger": 1,
-        "shaman": 1
+        "shaman": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "60 ft.",
     "area": "cone-shaped emanation",
-    "duration": "concentration, up to 1 min./level (d)",
+    "duration": "concentration, up to 1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You can detect other worshipers of your deity (mortal worshipers, outsider servants, and so on). The amount of information revealed depends on how long you focus on a particular area or subject.<\/p><p><b>1st Round<\/b>: Presence or absence of the faithful.<\/p><p><b>2nd Round<\/b>: Number of individual faithful in the area.<\/p><p><b>3rd Round<\/b>: The exact location of each worshiper. If a fellow worshiper is outside your line of sight, then you discern his direction but not his exact location.<\/p><p>Each round, you can rotate to detect worshipers in a new area.<\/p><p>The spell can penetrate barriers, but a sheet of lead, 1 foot of stone, 1 inch of common metal, or 3 feet of wood or dirt blocks it. A creature's personal interpretation of its beliefs determines whether or not it is of the same faith as you—hence heretics and splinter cultists of your deity still count as worshipers of that deity. Furthermore, since the spell picks up a creature's current beliefs and feelings, a creature actively pretending to be a member of the same faith also appears to the spell to be a member. Thus, the spell is still useful in locating potential hidden members of the same faith among the general populace, but on its own, it doesn't weed out spies.<\/p>",
+    "text": "You can detect other worshipers of your deity (mortal worshipers, outsider servants, and so on). The amount of information revealed depends on how long you focus on a particular area or subject.<br><br> <i>1st Round<\/i>: Presence or absence of the faithful.<br><br> <i>2nd Round<\/i>: Number of individual faithful in the area.<br><br> <i>3rd Round<\/i>: The exact location of each worshiper. If a fellow worshiper is outside your line of sight, then you discern his direction but not his exact location.<br><br> Each round, you can rotate to detect worshipers in a new area. The spell can penetrate barriers, but a sheet of lead, 1 foot of stone, 1 inch of common metal, or 3 feet of wood or dirt blocks it. A creature’s personal interpretation of its beliefs determines whether or not it is of the same faith as you—hence heretics and splinter cultists of your deity still count as worshipers of that deity. Furthermore, since the spell picks up a creature’s current beliefs and feelings, a creature actively pretending to be a member of the same faith also appears to the spell to be a member. Thus, the spell is still useful in locating potential hidden members of the same faith among the general populace, but on its own, it doesn’t weed out spies.",
     "name_zh": "侦测同道",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
     "range_zh": "60尺",
     "area_zh": "锥形发散区域",
-    "duration_zh": "专注，至多1分钟/等级（可解消）",
+    "duration_zh": "专注, 至多1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能够侦测出与你的信仰相同的其他信徒（凡人信徒、异界侍从等等）。该法术能获取的信息量取决于你专注于1片特定区域或受术者的时间长短。\n第1轮：是否具有信徒（Presence or absence of the faithful）。\n第2轮：区域内的信徒数量。\n第3轮：准确定位每名信徒。若有同道信徒在你的视觉线之外，那么你会识别到他的方向，而非准确的位置。\n每轮你都可以转而侦测新的区域以侦测信徒。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅制的薄片或3尺厚的木头或泥土都可以挡住它。你与目标生物是否具有相同的信仰取决于该生物对其信仰的自我诠释——因此你的信仰中的异端（heretics）和其他派系（splinter cultists）仍旧被视作为相同神祇的信徒。此外，由于该法术会甄选出生物当前的信仰与情感，因此若有生物非常积极地想要装成相同信仰的一员的话，该法术也会将其显示为信徒。因此，该法术在一般民众中定位相同信仰的潜在隐藏信徒时会较为有效，但对于信徒本身来说，无法用于排查间谍。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你能够侦测出与你的信仰相同的其他信徒（凡人信徒、异界侍从等等）。该法术能获取的信息量取决于你专注于1片特定区域或受术者的时间长短。<\/p><p>第1轮：是否具有信徒（Presence or absence of the faithful）。<\/p><p>第2轮：区域内的信徒数量。<\/p><p>第3轮：准确定位每名信徒。若有同道信徒在你的视觉线之外，那么你会识别到他的方向，而非准确的位置。<\/p><p>每轮你都可以转而侦测新的区域以侦测信徒。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅制的薄片或3尺厚的木头或泥土都可以挡住它。你与目标生物是否具有相同的信仰取决于该生物对其信仰的自我诠释——因此你的信仰中的异端（heretics）和其他派系（splinter cultists）仍旧被视作为相同神祇的信徒。此外，由于该法术会甄选出生物当前的信仰与情感，因此若有生物非常积极地想要装成相同信仰的一员的话，该法术也会将其显示为信徒。因此，该法术在一般民众中定位相同信仰的潜在隐藏信徒时会较为有效，但对于信徒本身来说，无法用于排查间谍。<\/p>"
 }

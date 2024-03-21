@@ -1,23 +1,27 @@
 {
     "key": "contagion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contagion/",
     "name": "Contagion",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contagion",
+    "source": ["PRPG Core Rulebook pg. 259"],
     "school": "necromancy",
     "descriptors":     [
         "disease",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "adept": 3,
         "antipaladin": 3,
+        "arcanist": 4,
         "bloodrager": 4,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "druid": 3,
-        "sorcerer/wizard": 4
+        "hunter": 3,
+        "oracle": 3,
+        "sorcerer": 4,
+        "warpriest": 3,
+        "wizard": 4
     },
-    "subdomains": {"decay": 3},
-    "bloodlines": {"daemon": 4},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
@@ -25,8 +29,9 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease's listed frequency and save DC to determine further effects. For more information see Diseases.<\/p>",
-    "mythicText": "The affected target is highly contagious. Any creature it touches or that touches it with natural weapons or unarmed strikes must save or contract the disease. <br>The save DC for these targets is equal to the spell's DC – 4. <br>The target can't spread this disease to you. <br><p style=\"margin-left: 20px\"><b>Augmented (7th)<\/b>: If you expend five uses of mythic power, the spell targets every living creature within a 1-mile radius. <br>You can select one creature per caster level within your line of sight; these creatures are unaffected by the spell. ",
+    "text": "The subject contracts one of the following diseases: blinding sickness, bubonic plague, cackle fever, filth fever, leprosy, mindfire, red ache, shakes, or slimy doom. The disease is contracted immediately (the onset period does not apply). Use the disease's listed frequency and save DC to determine further effects. For more information see Diseases.<h2 class=\"title\">Mythic Contagion<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 89<\/i><br>The affected target is highly contagious. Any creature it touches or that touches it with natural weapons or unarmed strikes must save or contract the disease. The save DC for these targets is equal to the spell’s DC – 4. The target can’t spread this disease to you.<br><br><b>Augmented (7th)<\/b>: If you expend five uses of mythic power, the spell targets every living creature within a 1-mile radius. You can select one creature per caster level within your line of sight; these creatures are unaffected by the spell.",
+    "mythicSource": ["Mythic Adventures pg. 89"],
+    "mythicText": "The affected target is highly contagious. Any creature it touches or that touches it with natural weapons or unarmed strikes must save or contract the disease. The save DC for these targets is equal to the spell’s DC – 4. The target can’t spread this disease to you.<br><br><b>Augmented (7th)<\/b>: If you expend five uses of mythic power, the spell targets every living creature within a 1-mile radius. You can select one creature per caster level within your line of sight; these creatures are unaffected by the spell.",
     "name_zh": "疫病术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -35,6 +40,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受术者会染上后述疾病中的一种：失明症、黑死病、失心热症、麻风病、脑热症、红肿症、颤栗症或者胶质症。由于该法术染上的疾病会立即发病 (在这种情况下无潜伏期)。使用疾病列表的发病频率以及豁免DC来判断后续的效果。详细信息请见疾病。【编注：见核心规则部分的苦难章节，本文档已有收录。】<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者会染上后述疾病中的一种：失明症、黑死病、失心热症、麻风病、脑热症、红肿症、颤栗症或者胶质症。由于该法术染上的疾病会立即发病 (在这种情况下无潜伏期)。使用疾病列表的发病频率以及豁免DC来判断后续的效果。详细信息请见疾病。【编注：见核心规则部分的苦难章节，本文档已有收录。】<\/p>"
 }

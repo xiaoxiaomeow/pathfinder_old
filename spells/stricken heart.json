@@ -1,18 +1,20 @@
 {
     "key": "stricken heart",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stricken-heart/",
     "name": "Stricken Heart",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stricken%20Heart",
+    "source": ["Advanced Class Guide pg. 194"],
     "school": "necromancy",
     "descriptors": ["death"],
     "levels":     {
+        "arcanist": 2,
         "inquisitor": 2,
         "mesmerist": 2,
         "psychic": 2,
         "shaman": 3,
-        "sorcerer/wizard": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "witch": 2
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>This spell covers your hand with a writhing black aura. As part of casting the spell, you can make a melee touch attack that deals 2d6 points of negative energy damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. Creatures immune to precision damage are immune to the staggered effect.<\/p>",
+    "text": "This spell covers your hand with a writhing black aura. As part of casting the spell, you can make a melee touch attack that deals 2d6 points of negative energy damage and causes the target to be staggered for 1 round. If the attack is a critical hit, the target is staggered for 1 minute instead. Creatures immune to precision damage are immune to the staggered effect.",
     "name_zh": "剜心手",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -30,6 +32,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会用一股扭曲的黑色灵光包覆你的手掌。作为施法的一部分，你能够进行一次近战接触攻击，这会造成2d6点负能量伤害，并且导致目标恍惚（staggered）1轮。若这次攻击造成了重击，那么目标会恍惚1分钟作为替代。免疫精准伤害（precision damage）的生物也会免疫这个恍惚效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>该法术会用一股扭曲的黑色灵光包覆你的手掌。作为施法的一部分，你能够进行一次近战接触攻击，这会造成2d6点负能量伤害，并且导致目标恍惚（staggered）1轮。若这次攻击造成了重击，那么目标会恍惚1分钟作为替代。免疫精准伤害（precision damage）的生物也会免疫这个恍惚效果。<\/p>"
 }

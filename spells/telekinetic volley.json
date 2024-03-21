@@ -1,28 +1,29 @@
 {
     "key": "telekinetic volley",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telekinetic-volley/",
     "name": "Telekinetic Volley",
-    "book": "Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Telekinetic%20Volley",
+    "source": ["Ranged Tactics Toolbox pg. 31"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "magus": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
-    "duration": "1 round/level or until discharged (d)",
+    "duration": "1 round/level or until discharged (D)",
     "savingThrow": "none (object)",
     "spellResistance": "no (object)",
-    "text": "<p>The touched items levitate in your space. When you cast the spell and once per round thereafter, you can launch one item at a target of your choice as a standard action. The ranged attack is made as if you had thrown the item unless it's ammunition for a weapon, in which case the attack is made as if fired from a heavy crossbow (if a bolt), a halfling sling staff (if a sling bullet), a blowgun (if a blowgun dart), a composite longbow with a +2 Strength rating (if an arrow), an atlatl (if an atlatl dart), or a pistol (if a firearm bullet). A firearm pellet launched by the spell functions as a shuriken.<\/p><p>When you launch ammunition with this spell, you don't take a penalty on your attack rolls for lacking proficiency with the ammunition's weapon; you do, however, take the usual –4 penalty for throwing an improvised weapon if you launch an item not intended to be used as a weapon. The attack roll uses your caster level in place of your base attack bonus and your Intelligence or Charisma modifier (whichever is higher) in place of your Dexterity modifier. Range increment and proficiency penalties apply as normal. The attack has an effective Strength bonus, if applicable, equal to the higher of your Intelligence and Charisma modifiers. The spell is discharged when all touched items have been launched.<\/p>",
+    "text": "The touched items levitate in your space. When you cast the spell and once per round thereafter, you can launch one item at a target of your choice as a standard action. The ranged attack is made as if you had thrown the item unless it’s ammunition for a weapon, in which case the attack is made as if fired from a heavy crossbow (if a bolt), a halfling sling staff (if a sling bullet), a blowgun (if a blowgun dart), a composite longbow with a +2 Strength rating (if an arrow), an atlatl<sup>UE<\/sup> (if an atlatl dart), or a pistol<sup>UE<\/sup> (if a firearm bullet<sup>UE<\/sup>). A firearm pellet<sup>UE<\/sup> launched by the spell functions as a shuriken.<br><br> When you launch ammunition with this spell, you don’t take a penalty on your attack rolls for lacking proficiency with the ammunition’s weapon; you do, however, take the usual –4 penalty for throwing an improvised weapon if you launch an item not intended to be used as a weapon. The attack roll uses your caster level in place of your base attack bonus and your Intelligence or Charisma modifier (whichever is higher) in place of your Dexterity modifier. Range increment and proficiency penalties apply as normal. The attack has an effective Strength bonus, if applicable, equal to the higher of your Intelligence and Charisma modifiers. The spell is discharged when all touched items have been launched.",
     "name_zh": "心控射击",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
     "range_zh": "接触",
     "target_zh": "至多施法者等级个物品，每个最多5磅重",
-    "duration_zh": "1轮/等级或直到消散（D）",
-    "savingThrow_zh": "无（物体）",
-    "spellResistance_zh": "无（物体）",
-    "text_zh": "<p>被接触的物品会在你的区域内漂浮起来。你在施法轮可以施法同时发射一个物品向一个目标射击，之后每轮都可以用一个标动发射一个物品。若发射物不是弹药，这种远程攻击就视为你投掷出该物品；若为弹药，则如同你用重弩（若为矢）、半身人投石杖（若为投石索弹药）、吹箭（若为吹针）、+2力量等级复合长弓（若为箭）、掷镖器（若为掷镖）、手枪（若为火器子弹）发射了一发弹药。用此法发射的霰弹视为手里剑。\n当用此法发射弹药时，不会因为不擅长弹药对应武器而承受不擅长罚值；但无论发射的是弹药还是物品，只要不是正常远程武器，都会承受临时武器-4罚值。计算攻击时用施法者等级代替BAB，用智力调整值或魅力调整值（取高）代替敏捷调整值。射程增量和不擅长减值正常起效。若这种射击可以适应力量调整值，则其值等于智力调整值或魅力调整值（取高）。所有接触过的物品被发射后，法术解消。<\/p>",
-    "source": "PC-RTT"
+    "duration_zh": "1轮/等级或直到被摧毁为止 (可解消)",
+    "savingThrow_zh": "无 (物体)",
+    "spellResistance_zh": "否 (物体)",
+    "text_zh": "<p>被接触的物品会在你的区域内漂浮起来。你在施法轮可以施法同时发射一个物品向一个目标射击，之后每轮都可以用一个标动发射一个物品。若发射物不是弹药，这种远程攻击就视为你投掷出该物品；若为弹药，则如同你用重弩（若为矢）、半身人投石杖（若为投石索弹药）、吹箭（若为吹针）、+2力量等级复合长弓（若为箭）、掷镖器（若为掷镖）、手枪（若为火器子弹）发射了一发弹药。用此法发射的霰弹视为手里剑。<\/p><p>当用此法发射弹药时，不会因为不擅长弹药对应武器而承受不擅长罚值；但无论发射的是弹药还是物品，只要不是正常远程武器，都会承受临时武器-4罚值。计算攻击时用施法者等级代替BAB，用智力调整值或魅力调整值（取高）代替敏捷调整值。射程增量和不擅长减值正常起效。若这种射击可以适应力量调整值，则其值等于智力调整值或魅力调整值（取高）。所有接触过的物品被发射后，法术解消。<\/p>"
 }

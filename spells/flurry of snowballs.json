@@ -1,36 +1,41 @@
 {
     "key": "flurry of snowballs",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flurry-of-snowballs/",
     "name": "Flurry of Snowballs",
-    "book": "Pathfinder Player Companion: People of the North © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flurry%20of%20Snowballs",
+    "source":     [
+        "Pathfinder #67: The Snows of Summer pg. 72",
+        "People of the North pg. 26"
+    ],
     "school": "evocation",
     "descriptors":     [
         "cold",
         "water"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "druid": 2,
+        "hunter": 2,
         "magus": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "30 ft.",
-    "effect": "cone-shaped burst",
+    "area": "cone-shaped burst",
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "no",
-    "text": "<p><i>You send a flurry of snowballs hurtling at your foes.<\/i><\/p><p>Any creature in the area takes 4d6 points of cold damage from being pelted with the icy spheres.<\/p>",
+    "text": "You send a flurry of snowballs hurtling at your foes. Any creature in the area takes 4d6 points of cold damage from being pelted with the icy spheres.",
     "name_zh": "雪球风暴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "30尺",
-    "area_zh": "锥形爆发",
+    "area_zh": "锥形爆发区域",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你射出一阵雪球喷向你的敌人. 所有在范围内的生物都被雪球砸到受到4d6的寒冷伤害。<\/p>",
-    "source": "PC-PotN"
+    "text_zh": "<p>你射出一阵雪球喷向你的敌人. 所有在范围内的生物都被雪球砸到受到4d6的寒冷伤害。<\/p>"
 }

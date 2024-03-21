@@ -1,13 +1,15 @@
 {
     "key": "halfling vengeance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/halfling-vengeance/",
     "name": "Halfling Vengeance",
-    "book": "Pathfinder Adventure Path #131: The Reaper's Right Hand © 2018, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Halfling%20Vengeance",
+    "source": ["Pathfinder #131: The Reaper's Right Hand pg. 72"],
     "school": "divination",
     "levels":     {
         "antipaladin": 1,
         "cleric": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,7 +18,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You grant the touched target the ability to ascertain the weaknesses of foes. The target deals an additional 1d6 points of precision damage on successful attacks with daggers or slings against foes within 30 feet, as long as the attacked foe is denied its Dexterity bonus to Armor Class or is flanked by the target. This additional damage increases by 1d6 for every 4 caster levels you have beyond 3rd, to a maximum of 5d6 at 19th level. This bonus damage is precision damage and stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.<\/p><p>Once per round on a successful attack that deals this precision damage, the target can choose to forgo 2d6 points of precision damage (either granted by this spell or from other sources of precision damage, such as sneak attack) to inflict one of the following conditions on the attacked foe for 1 round:<\/p><p>• The attacked foe can't make attacks of opportunity against creatures smaller than it.<\/p><ul>  <li>The attacked foe is denied its Dexterity bonus to Armor Class against attacks made with daggers or slings.<\/li>  <li>The attacked foe takes a –2 penalty on attacks against creatures smaller than it.<\/li>  <li>The attacked foe can't take 5-foot steps.<\/li> <\/ul><p>A creature can benefit from only one <em>halfling vengeance<\/em> spell at a time.<\/p>",
+    "text": "You grant the touched target the ability to ascertain the weaknesses of foes. The target deals an additional 1d6 points of precision damage on successful attacks with daggers or slings against foes within 30 feet, as long as the attacked foe is denied its Dexterity bonus to Armor Class or is flanked by the target. This additional damage increases by 1d6 for every 4 caster levels you have beyond 3rd, to a maximum of 5d6 at 19th level. This bonus damage is precision damage and stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.<br><br> Once per round on a successful attack that deals this precision damage, the target can choose to forgo 2d6 points of precision damage (either granted by this spell or from other sources of precision damage, such as sneak attack) to inflict one of the following conditions on the attacked foe for 1 round: <ul><li>The attacked foe can’t make attacks of opportunity against creatures smaller than it. <\/li><li>The attacked foe is denied its Dexterity bonus to Armor Class against attacks made with daggers or slings. <\/li><li>The attacked foe takes a –2 penalty on attacks against creatures smaller than it. <\/li><li>The attacked foe can’t take 5-foot steps.<\/li><\/ul> A creature can benefit from only one <i>halfling vengeance<\/i> spell at a time.",
     "name_zh": "半身人的复仇",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
@@ -25,6 +27,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你赋予接触到的目标确定敌人弱点的能力。只要被攻击30尺内的敌人失去其在AC上的敏捷加值或被目标夹击，目标就会在成功使用匕首或投石索攻击时额外造成1d6点精准伤害。你在3级之后每有4个施法者等级，这个额外伤害就会增加1d6，在19级时达到最多5d6。这种额外伤害是精准伤害，并与其他来源的精准伤害叠加，如偷袭。此额外伤害不会在重击时翻倍。\n每轮一次，当造成这种精准伤害的攻击命中时，目标可以选择放弃2d6点精准伤害（由该法术提供或来自其他来源如偷袭的精准伤害均可）以对被攻击的敌人造成以下效果之一，持续1轮：\n·被攻击的敌人不能对比它体型小的生物进行借机攻击。\n·被攻击的敌人在面对匕首或投石索的攻击时失去AC上的敏捷加值。\n·被攻击的敌人在攻击比它小的生物时受到-2减值。\n·被攻击的敌人不能进行5尺快步。\n一个生物一次只能从一个半身人的复仇法术中受益。<\/p>",
-    "source": "AP-WftC"
+    "text_zh": "<p>你赋予接触到的目标确定敌人弱点的能力。只要被攻击30尺内的敌人失去其在AC上的敏捷加值或被目标夹击，目标就会在成功使用匕首或投石索攻击时额外造成1d6点精准伤害。你在3级之后每有4个施法者等级，这个额外伤害就会增加1d6，在19级时达到最多5d6。这种额外伤害是精准伤害，并与其他来源的精准伤害叠加，如偷袭。此额外伤害不会在重击时翻倍。<\/p><p>每轮一次，当造成这种精准伤害的攻击命中时，目标可以选择放弃2d6点精准伤害（由该法术提供或来自其他来源如偷袭的精准伤害均可）以对被攻击的敌人造成以下效果之一，持续1轮：<\/p><p>·被攻击的敌人不能对比它体型小的生物进行借机攻击。<\/p><p>·被攻击的敌人在面对匕首或投石索的攻击时失去AC上的敏捷加值。<\/p><p>·被攻击的敌人在攻击比它小的生物时受到-2减值。<\/p><p>·被攻击的敌人不能进行5尺快步。<\/p><p>一个生物一次只能从一个半身人的复仇法术中受益。<\/p>"
 }

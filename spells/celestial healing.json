@@ -1,18 +1,22 @@
 {
     "key": "celestial healing",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/celestial-healing/",
     "name": "Celestial Healing",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Celestial%20Healing",
+    "source": ["Arcane Anthology pg. 13"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["good"],
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "cleric": 1,
         "magus": 1,
-        "sorcerer/wizard": 1,
+        "oracle": 1,
+        "sorcerer": 1,
         "summoner": 1,
-        "witch": 1
+        "warpriest": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 round",
     "components": "V, S, M (1 drop of blood from a good outsider or 1 dose of holy water)",
@@ -21,15 +25,14 @@
     "duration": "1 round/2 levels",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You anoint a wounded creature with the blood of an outsider with the good subtype (such as an angel) or holy water, giving it fast healing 1. The target radiates the aura of a good creature for the duration of the spell and can sense the righteousness of the magic, though this has no long-term effect on the target's alignment. If the target has its own evil aura, this is not suppressed by celestial healing, and can also be detected normally.<\/p>",
+    "text": "You anoint a wounded creature with the blood of an outsider with the good subtype (such as an angel) or holy water, giving it fast healing 1. The target radiates the aura of a good creature for the duration of the spell and can sense the righteousness of the magic, though this has no long-term effect on the target’s alignment. If the target has its own evil aura, this is not suppressed by celestial healing, and can also be detected normally.",
     "name_zh": "天界治疗",
     "castingTime_zh": "1轮",
     "components_zh": "言语，姿势，材料（一滴善良异界生物的血或一份圣水）",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
-    "duration_zh": "1轮/2等级",
+    "duration_zh": "每2个施法者等级1轮",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你用善良亚种的异界生物（比如天使）的血液或圣水涂抹受伤生物，使其获得快速治疗1。在法术持续时间内，目标会散发出善良生物的灵光，并能感知到魔法的正义力量，不过这并不会对目标的阵营带来任何长期效果。如果目标自身具有邪恶灵光，则不会被天界治疗抑制，同样能被如常侦测到。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你用善良亚种的异界生物（比如天使）的血液或圣水涂抹受伤生物，使其获得快速治疗1。在法术持续时间内，目标会散发出善良生物的灵光，并能感知到魔法的正义力量，不过这并不会对目标的阵营带来任何长期效果。如果目标自身具有邪恶灵光，则不会被天界治疗抑制，同样能被如常侦测到。<\/p>"
 }

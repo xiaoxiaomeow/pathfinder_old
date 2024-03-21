@@ -1,27 +1,26 @@
 {
     "key": "light lance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/light-lance/",
     "name": "Light Lance",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Light%20Lance",
+    "source": ["Advanced Player's Guide pg. 231"],
     "school": "evocation",
     "descriptors":     [
         "good",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels": {"paladin": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "effect": "lance of light",
-    "duration": "1 round + 1 round/level (d)",
-    "text": "<p>You create a glorious beam of brilliant radiance that acts as a <i>+1 holy <\/i>lance suitable for your size. You must have a free hand when casting the spell and, once you call the lance into being, you cannot switch it to another hand or put it down without prematurely ending the spell. As a standard action while holding a <i>light lance<\/i>, you can choose not to make an attack and instead hold the lance aloft as a beacon of light and truth, creating an area of bright light with a radius of 90 feet. If you choose to do this for one or more additional rounds the lance also casts a spear of brilliant light up into the sky that grows progressively more visible as it continues to climb toward the heavens. Under cover of night or other darkness, if nothing obstructs the beam, it becomes visible for an additional 2 miles during each round in which you continue to aim your lance skyward (2 miles in the second round, 4 miles in the third round, and so on).<\/p>",
+    "duration": "1 round + 1 round/level (D)",
+    "text": "You create a glorious beam of brilliant radiance that acts as a <i>+1 holy lance <\/i>suitable for your size. You must have a free hand when casting the spell and, once you call the lance into being, you cannot switch it to another hand or put it down without prematurely ending the spell. As a standard action while holding a <i>light lance<\/i>, you can choose not to make an attack and instead hold the lance aloft as a beacon of light and truth, creating an area of bright light with a radius of 90 feet. If you choose to do this for one or more additional rounds the lance also casts a spear of brilliant light up into the sky that grows progressively more visible as it continues to climb toward the heavens. Under cover of night or other darkness, if nothing obstructs the beam, it becomes visible for an additional 2 miles during each round in which you continue to aim your lance skyward (2 miles in the second round, 4 miles in the third round, and so on).",
     "name_zh": "光之枪",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "effect_zh": "光之长枪",
     "duration_zh": "1轮 + 1轮/等级 (可解消)",
-    "text_zh": "<p>你创造了散发着辉煌地光芒的荣誉之光束，它被视为+1神圣长枪 (lance) 并且大小与你的体型相匹配。当施放该法术时你必须空出一只手，并且一旦召唤出长枪，你就无法在解消法术之前将其切换到另一只手中、或者将它放下。当你手持光之枪时可以选择不进行攻击，以一个标准动作举起手中之枪，在你的上方形成光与真理之灯塔，并创造出半径为90尺的光亮 (bright light) 区域。如果你选择这么做，并且额外持续1轮或更多的轮数，光之枪还会向天空发射光耀之矛，使这灯塔以明显的趋势逐步向上增长，仿佛会爬升到天堂一般。在夜色或者其他形式的黑暗之中，只要没有东西遮挡光束，能够看到它的范围会以每轮额外2英里的频率增长 (第二轮2英里，第三轮4英里，以此类推) ——只要你持续将长枪指向天空。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你创造了散发着辉煌地光芒的荣誉之光束，它被视为+1神圣长枪 (lance) 并且大小与你的体型相匹配。当施放该法术时你必须空出一只手，并且一旦召唤出长枪，你就无法在解消法术之前将其切换到另一只手中、或者将它放下。当你手持光之枪时可以选择不进行攻击，以一个标准动作举起手中之枪，在你的上方形成光与真理之灯塔，并创造出半径为90尺的光亮 (bright light) 区域。如果你选择这么做，并且额外持续1轮或更多的轮数，光之枪还会向天空发射光耀之矛，使这灯塔以明显的趋势逐步向上增长，仿佛会爬升到天堂一般。在夜色或者其他形式的黑暗之中，只要没有东西遮挡光束，能够看到它的范围会以每轮额外2英里的频率增长 (第二轮2英里，第三轮4英里，以此类推) ——只要你持续将长枪指向天空。<\/p>"
 }

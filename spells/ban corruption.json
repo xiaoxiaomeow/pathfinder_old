@@ -1,8 +1,8 @@
 {
     "key": "ban corruption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/ban-corruption/",
     "name": "Ban Corruption",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ban%20Corruption",
+    "source": ["Horror Adventures pg. 109"],
     "school": "abjuration",
     "descriptors": ["good"],
     "levels":     {
@@ -10,23 +10,24 @@
         "inquisitor": 4,
         "medium": 3,
         "occultist": 4,
+        "oracle": 5,
         "paladin": 4,
-        "shaman": 5
+        "shaman": 5,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a ceremonial dagger)",
-    "area": "30-ft.-radius emanation centered on you",
+    "area": "30 ft.-radius emanation centered on you",
     "duration": "concentration plus 1 round/level, up to 1 hour/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You strip all creatures within the emanation of any gifts associated with corruptions. Abilities associated with corruptions cease to function, as if they were magically dispelled.<\/p><p>The corruption stains still fully affect creatures. A creature that enters the emanation and fails its saving throw loses its gifts until the spell's duration ends, even if it leaves the emanation, but a successful saving throw renders a creature immune to the spell, even if it enters and exits the emanation several times.<\/p>",
+    "text": "You strip all creatures within the emanation of any gifts associated with corruptions (see page 14). Abilities associated with corruptions cease to function, as if they were magically dispelled. The corruption stains still fully affect creatures. A creature that enters the emanation and fails its saving throw loses its gifts until the spell’s duration ends, even if it leaves the emanation, but a successful saving throw renders a creature immune to the spell, even if it enters and exits the emanation several times.",
     "name_zh": "遏止腐化",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (一把仪式用匕首)",
-    "area_zh": "以你为中心，半径30尺弥漫",
-    "duration_zh": "专注 加上 1轮/等级，至多1小时/等级",
+    "area_zh": "以你为中心, 半径30尺弥漫",
+    "duration_zh": "专注 加上 1轮/等级, 至多1小时/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你剥夺弥漫范围内所有生物，因腐化(见Page.14)而获得的恩典。与腐化相关的能力失去作用，如同他们被魔法手段解除了。腐化污染(corruption stains)依然影响生物。一个进入此弥漫区域并豁免失败的生物，会失去腐化所赋予的恩典，直至法术持续时间结束，就算他离开了弥漫的区域；但成功通过豁免的生物能对此法术免疫，就算他一直在此弥漫区域内进进出出。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你剥夺弥漫范围内所有生物，因腐化(见Page.14)而获得的恩典。与腐化相关的能力失去作用，如同他们被魔法手段解除了。腐化污染(corruption stains)依然影响生物。一个进入此弥漫区域并豁免失败的生物，会失去腐化所赋予的恩典，直至法术持续时间结束，就算他离开了弥漫的区域；但成功通过豁免的生物能对此法术免疫，就算他一直在此弥漫区域内进进出出。<\/p>"
 }

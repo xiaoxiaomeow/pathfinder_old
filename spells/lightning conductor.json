@@ -1,28 +1,30 @@
 {
     "key": "lightning conductor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-conductor/",
     "name": "Lightning Conductor",
-    "book": "Pathfinder Player Companion: Elemental Master's Handbook © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightning%20Conductor",
+    "source": ["Elemental Master's Handbook pg. 18"],
     "school": "transmutation",
     "descriptors": ["air"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 2,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a miniature metal rod)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>You become capable of absorbing electricity with your body.<\/p><p>For the duration, you absorb all electricity damage dealt to you until you have stored a total of 18 points of damage. Any excess damage affects you as normally. The energy remains stored until it is expended or the spell expires.<\/p><p>If you have at least 6 points of damage stored, you can expend all the energy stored in you as a swift action, charging your hand or a metal weapon in your hand. As a standard action while your hand is charged, you can make a melee touch attack that doesn't provoke attacks of opportunity, or you can shoot the energy as a ray with a range of 30 feet. If the attack hits, you deal 1d6 points of electricity damage for every 6 points stored and the energy is expended (any remaining points are wasted). A weapon charged with this energy deals the damage as extra damage the first time you score a hit with the weapon. If your hand or weapon is still charged at the end of your turn, or if the charged weapon leaves your hand before the end of the turn, the energy dissipates harmlessly.<\/p><p>Once you have spent the absorbed energy, or if the absorbed energy dissipates, you can absorb more electricity damage. The maximum amount of damage you can store in your body at a time increases by 6 points for every 2 levels beyond 5th (to a maximum of 60 points of damage at 19th level).<\/p><p>If you are immune to electricity or have any amount of electricity resistance, you cannot absorb or expend energy with this spell.<\/p>",
+    "duration": "1 minute/level (D)",
+    "text": "You become capable of absorbing electricity with your body. For the duration, you absorb all electricity damage dealt to you until you have stored a total of 18 points of damage. Any excess damage affects you as normally. The energy remains stored until it is expended or the spell expires.<br><br> If you have at least 6 points of damage stored, you can expend all the energy stored in you as a swift action, charging your hand or a metal weapon in your hand. As a standard action while your hand is charged, you can make a melee touch attack that doesn’t provoke attacks of opportunity, or you can shoot the energy as a ray with a range of 30 feet. If the attack hits, you deal 1d6 points of electricity damage for every 6 points stored and the energy is expended (any remaining points are wasted). A weapon charged with this energy deals the damage as extra damage the first time you score a hit with the weapon. If your hand or weapon is still charged at the end of your turn, or if the charged weapon leaves your hand before the end of the turn, the energy dissipates harmlessly.<br><br> Once you have spent the absorbed energy, or if the absorbed energy dissipates, you can absorb more electricity damage. The maximum amount of damage you can store in your body at a time increases by 6 points for every 2 levels beyond 5th (to a maximum of 60 points of damage at 19th level).<br><br> If you are immune to electricity or have any amount of electricity resistance, you cannot absorb or expend energy with this spell.",
     "name_zh": "避雷针",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (微型金属棒)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级 (D)",
-    "text_zh": "<p>你可以用你的身体吸收闪电。在持续时间内，你可以吸收所有对你造成的闪电伤害，直到储存为18点伤害。任何过量伤害则会如常对你造成伤害。这些储存的能力会持续到他被花费或者是法术时间结束。如果你储存了至少6点伤害，你可以用一个迅捷动作，把所有能量在手上或者是手上的金属武器充能。当你充能手时，作为一个标准动作，你可以用一次不会引发借机攻击的近战接触攻击，或者是把这些能量作为一道射程30呎的射线发射。如果攻击命中，你会造成每储存6点伤害就会造成1D6的闪电伤害，并且这些能量会被消耗（剩余的部分则会被浪费）。充能武器则是会在你第一次用武器命中敌人时造成这种能量伤害。如果你的手或者是武器在回合结束时依旧有充能，或者是充能的武器在回合结束之前离开了你的手部，这些能量会无害消解。一旦你花费了吸收的能量，或者是吸收的能量消散了，你可以吸收更多的能量。储存在体内的最大能量上限是每比5级多2个等级就会有额外6点（最多在19级时到达60点吸收能量）。\n如果你免疫闪电或者是有任何数值的闪电抗力，你就不能用这个法术吸收或消耗能量。<\/p>",
-    "source": "PC-EMH"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>你可以用你的身体吸收闪电。在持续时间内，你可以吸收所有对你造成的闪电伤害，直到储存为18点伤害。任何过量伤害则会如常对你造成伤害。这些储存的能力会持续到他被花费或者是法术时间结束。如果你储存了至少6点伤害，你可以用一个迅捷动作，把所有能量在手上或者是手上的金属武器充能。当你充能手时，作为一个标准动作，你可以用一次不会引发借机攻击的近战接触攻击，或者是把这些能量作为一道射程30呎的射线发射。如果攻击命中，你会造成每储存6点伤害就会造成1D6的闪电伤害，并且这些能量会被消耗（剩余的部分则会被浪费）。充能武器则是会在你第一次用武器命中敌人时造成这种能量伤害。如果你的手或者是武器在回合结束时依旧有充能，或者是充能的武器在回合结束之前离开了你的手部，这些能量会无害消解。一旦你花费了吸收的能量，或者是吸收的能量消散了，你可以吸收更多的能量。储存在体内的最大能量上限是每比5级多2个等级就会有额外6点（最多在19级时到达60点吸收能量）。<\/p><p>如果你免疫闪电或者是有任何数值的闪电抗力，你就不能用这个法术吸收或消耗能量。<\/p>"
 }

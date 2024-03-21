@@ -1,16 +1,26 @@
 {
     "key": "brittle portal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/brittle-portal/",
     "name": "Brittle Portal",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Brittle%20Portal",
+    "source":     [
+        "Inner Sea Gods pg. 230",
+        "Faiths of Corruption pg. 29"
+    ],
     "school": "transmutation",
+    "race": "Rovagug",
     "levels":     {
         "antipaladin": 2,
+        "arcanist": 2,
         "cleric": 2,
         "druid": 2,
+        "hunter": 2,
         "inquisitor": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "oracle": 2,
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,16 +29,15 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>This spell weakens the bonds of existence, and reduces the hardness of any non-magical surface within its area of effect by 2 per caster level. The spell is centered on a flat surface chosen by the caster, and the hardness reduction effect persists for the duration of the spell.<\/p>",
+    "text": "This spell weakens the bonds of existence, and reduces the hardness of any nonmagical surface within its area of effect by 2 per caster level. The spell is centered on a flat surface chosen by the caster, and the hardness reduction effect persists for the duration of the spell.",
     "name_zh": "脆弱裂痕",
-    "race_zh": "洛瓦古格",
+    "race_zh": "拉瓦古格",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "area_zh": "5尺爆发",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志通过则无效（物体）",
-    "spellResistance_zh": "可（物体）",
-    "text_zh": "<p>这个法术将削弱实体存在的紧密度，任何处于法术影响范围内的非魔法物品都会降低每施法者等级2点的硬度。施法者须选择一片平面作为法术的影响中心点，任何硬度因为本法术被降低的物品将会保持这一变化直到法术的持续时间结束。<\/p>",
-    "source": "CS-ISG"
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>这个法术将削弱实体存在的紧密度，任何处于法术影响范围内的非魔法物品都会降低每施法者等级2点的硬度。施法者须选择一片平面作为法术的影响中心点，任何硬度因为本法术被降低的物品将会保持这一变化直到法术的持续时间结束。<\/p>"
 }

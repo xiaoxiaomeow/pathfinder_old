@@ -1,16 +1,30 @@
 {
     "key": "astral projection, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/astral-projection/",
     "name": "Astral Projection, Lesser",
-    "base": "astral projection",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Astral%20Projection,%20Lesser",
+    "source": ["Ultimate Magic pg. 207"],
     "school": "necromancy",
     "levels":     {
-        "cleric/oracle": 5,
-        "sorcerer/wizard": 5
+        "arcanist": 5,
+        "cleric": 5,
+        "oracle": 5,
+        "psychic": 5,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "wizard": 5
     },
-    "text": "<p>This spell functions as astral projection, except you cannot leave the Astral Plane and explore other planes (though you can still return to the plane you were on when you cast this spell).<\/p><\/div>",
+    "castingTime": "30 minutes",
+    "components": "V, S, M (1,000 gp jacinth)",
+    "range": "touch",
+    "duration": "see text",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>astral projection<\/i>, except you cannot leave the Astral Plane and explore other planes (though you can still return to the plane you were on when you cast this spell).",
     "name_zh": "次级星界投射",
-    "text_zh": "<p>这个法术工作方式如同星界投射 (Astral Projection)，不过你不能离开星界去探索其他位面 (你仍然可以返回你之前施放这个法术的位面)。<\/p>",
-    "source": "UM"
+    "castingTime_zh": "30分钟",
+    "range_zh": "接触",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术工作方式如同星界投射 (Astral Projection)，不过你不能离开星界去探索其他位面 (你仍然可以返回你之前施放这个法术的位面)。<\/p>"
 }

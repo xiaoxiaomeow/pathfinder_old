@@ -1,0 +1,29 @@
+{
+    "key": "hostile juxtaposition, greater",
+    "name": "Hostile Juxtaposition, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hostile%20Juxtaposition,%20Greater",
+    "source": ["Ultimate Combat pg. 231"],
+    "school": "conjuration",
+    "subSchools": ["teleportation"],
+    "levels":     {
+        "arcanist": 7,
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer": 7,
+        "summoner": 6,
+        "witch": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a coin)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level or until discharged",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>hostile juxtaposition<\/i>, except you can target one creature for every four caster levels you have or you can target a single creature that is larger than you are. You can switch places with each target only once while the effect lasts. Once you have used it to teleport and switch places with each affected target, the spell is discharged.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 或 直至耗散",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

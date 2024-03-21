@@ -1,19 +1,22 @@
 {
     "key": "spindrift spritz",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spindrift-spritz/",
     "name": "Spindrift Spritz",
-    "book": "Pathfinder Player Companion: Elemental Master's Handbook © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spindrift%20Spritz",
+    "source": ["Elemental Master's Handbook pg. 14"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["water"],
     "levels":     {
         "cleric": 2,
         "druid": 2,
+        "hunter": 1,
         "inquisitor": 2,
+        "oracle": 2,
         "paladin": 1,
         "ranger": 1,
         "shaman": 2,
-        "spiritualist": 2
+        "spiritualist": 2,
+        "warpriest": 2
     },
     "castingTime": "1 immediate action",
     "components": "V, S",
@@ -22,15 +25,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You can cast this spell only as a response to a target attempting a saving throw against an effect that would cause the fatigued, shaken, sickened, or staggered conditions. The target can roll its saving throw twice and take the higher result.<\/p>",
+    "text": "You can cast this spell only as a response to a target attempting a saving throw against an effect that would cause the fatigued, shaken, sickened, or staggered conditions. The target can roll its saving throw twice and take the higher result.",
     "name_zh": "浪尘飞溅",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你只有当一个目标尝试进行一次针对造成疲乏，战栗，恶心，恍惚效果的豁免检定时才能对那个生物使用。目标的这次豁免检定可以双骰取高。<\/p>",
-    "source": "PC-EMH"
+    "text_zh": "<p>你只有当一个目标尝试进行一次针对造成疲乏，战栗，恶心，恍惚效果的豁免检定时才能对那个生物使用。目标的这次豁免检定可以双骰取高。<\/p>"
 }

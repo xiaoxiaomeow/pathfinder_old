@@ -1,18 +1,19 @@
 {
     "key": "lightning bolt",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightning-bolt/",
     "name": "Lightning Bolt",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightning%20Bolt",
+    "source": ["PRPG Core Rulebook pg. 304"],
     "school": "evocation",
     "descriptors": ["electricity"],
     "levels":     {
+        "adept": 3,
+        "arcanist": 3,
         "bloodrager": 3,
         "magus": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
-    },
-    "elementalSchools":     {
-        "air": 3,
-        "metal": 3
+        "occultist": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (fur and a glass rod)",
@@ -21,7 +22,9 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.<\/p><p>The <i>lightning bolt<\/i> sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise, it stops at the barrier just as any other spell effect does.<\/p>",
+    "text": "You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.<br><br>The <i>lightning bolt<\/i> sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise, it stops at the barrier just as any other spell effect does.<h2 class=\"title\">Mythic Lightning Bolt<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 100<\/i><br>The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 10d8). Any creature that fails its save is staggered for 1 round. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is stunned for 1 round.",
+    "mythicSource": ["Mythic Adventures pg. 100"],
+    "mythicText": "The damage dealt increases to 1d8 points of electricity damage per caster level (maximum 10d8). Any creature that fails its save is staggered for 1 round. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can bend the line of the spell once up to 90 degrees. Any creature that fails its save is stunned for 1 round.",
     "name_zh": "闪电束",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (毛皮与玻璃棒)",
@@ -30,6 +33,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你从指尖释放出一道强力的电能，它对区域内的每个生物造成每CL 1d6点闪电伤害 (最多10d6)。<\/p><p>闪电束会引燃可燃物，同时会伤害路径上的物品。闪电会融化某些低熔点金属，如：铅、金、铜、银和青铜。如果闪电造成的伤害将障碍物击穿或是击碎，那么闪电会穿过障碍物继续在法术的范围内前进；否则就会像其他法术效果一样会被障碍物挡住。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你从指尖释放出一道强力的电能，它对区域内的每个生物造成每CL 1d6点闪电伤害 (最多10d6)。<\/p><p>闪电束会引燃可燃物，同时会伤害路径上的物品。闪电会融化某些低熔点金属，如：铅、金、铜、银和青铜。如果闪电造成的伤害将障碍物击穿或是击碎，那么闪电会穿过障碍物继续在法术的范围内前进；否则就会像其他法术效果一样会被障碍物挡住。<\/p>"
 }

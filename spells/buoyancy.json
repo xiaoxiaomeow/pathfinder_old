@@ -1,15 +1,22 @@
 {
     "key": "buoyancy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/buoyancy/",
     "name": "Buoyancy",
-    "book": "Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Buoyancy",
+    "source":     [
+        "Advanced Class Guide pg. 177",
+        "Pirates of the Inner Sea pg. 28"
+    ],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "psychic": 2,
+        "redmantisassassin": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 immediate action",
     "components": "V",
@@ -17,15 +24,14 @@
     "duration": "up to 1 round/level (see text)",
     "savingThrow": "Will negates (harmless) or Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>The affected creatures or objects become incredibly buoyant. The affected creatures (including gear and carried objects up to each creature's maximum load) and objects naturally float on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 Swim check every round to stay underwater. The spell ends if the creature or object spends at least 1 round on dry land.<\/p>",
+    "text": "The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 Swim check every round to stay underwater. If a target spends at least 1 round on dry land, the spell ends for that creature only.",
     "name_zh": "上浮术",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个中型或更小的物体或生物，任意两者之间的距离不超过20尺",
-    "duration_zh": "至多为1轮/等级（见后文）",
-    "savingThrow_zh": "意志，通过则无效（无害）或 意志，通过则无效（物体）",
-    "spellResistance_zh": "可（物体）",
-    "text_zh": "<p>受影响的目标会具有极强的浮力，它会自然地漂浮在任何至少1尺深的水中。受影响的生物若要主动潜入到水中，则必须每轮都进行DC 20的游泳检定才可以保持身处水下。若目标至少在干燥的陆地上停留1轮，那么仅对于该生物来说，法术结束。<\/p>",
-    "source": "ACG"
+    "duration_zh": "至多为1轮/等级; 见文本",
+    "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>受影响的目标会具有极强的浮力，它会自然地漂浮在任何至少1尺深的水中。受影响的生物若要主动潜入到水中，则必须每轮都进行DC 20的游泳检定才可以保持身处水下。若目标至少在干燥的陆地上停留1轮，那么仅对于该生物来说，法术结束。<\/p>"
 }

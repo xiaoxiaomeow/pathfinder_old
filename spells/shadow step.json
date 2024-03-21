@@ -1,17 +1,22 @@
 {
     "key": "shadow step",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-step/",
     "name": "Shadow Step",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Step",
+    "source": ["Ultimate Magic pg. 237"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors": ["shadow"],
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "psychic": 4,
+        "redmantisassassin": 4,
+        "skald": 4,
+        "sorcerer": 4,
+        "spiritualist": 4,
+        "witch": 4,
+        "wizard": 4
     },
-    "mysteries": {"shadow": 4},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -19,15 +24,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>To use this spell, you must be in an area of dim light or darkness. You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to another dim or dark location within range.<\/p>",
+    "text": "To use this spell, you must be in an area of dim light or darkness. You enter a shadow or area of darkness, which transports you along a coiling path of shadowstuff to another dim or dark location within range.",
     "name_zh": "暗影步",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "自己",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>当你施放该法术，你必须位于昏暗或黑暗区域里。你融入一片阴影或黑暗中，并沿着阴影路径传送到另一片昏暗或黑暗区域。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>当你施放该法术，你必须位于昏暗或黑暗区域里。你融入一片阴影或黑暗中，并沿着阴影路径传送到另一片昏暗或黑暗区域。<\/p>"
 }

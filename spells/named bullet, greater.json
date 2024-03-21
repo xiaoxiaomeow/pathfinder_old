@@ -1,0 +1,30 @@
+{
+    "key": "named bullet, greater",
+    "name": "Named Bullet, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Named%20Bullet,%20Greater",
+    "source": ["Ultimate Combat pg. 238"],
+    "school": "divination",
+    "levels":     {
+        "arcanist": 6,
+        "hunter": 4,
+        "inquisitor": 6,
+        "psychic": 6,
+        "ranger": 4,
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (an item from the selected creature or creature type)",
+    "range": "touch",
+    "target": "one piece of ammunition or one thrown weapon",
+    "duration": "10 minutes/level or until discharged",
+    "savingThrow": "Will negates (harmless, object)",
+    "spellResistance": "yes (harmless, object)",
+    "text": "This spell functions like <i>named bullet<\/i>, except it deals 2 extra points of damage per caster level (maximum 40).",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "10分钟/等级 或直至耗散",
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)"
+}

@@ -1,35 +1,36 @@
 {
     "key": "cleansing fire",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cleansing-fire/",
     "name": "Cleansing Fire",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cleansing%20Fire",
+    "source": ["Adventurer's Guide pg. 17"],
     "school": "evocation",
     "descriptors":     [
-        "good",
-        "fire"
+        "fire",
+        "good"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 5,
         "inquisitor": 4,
-        "paladin": 4
+        "oracle": 5,
+        "paladin": 4,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
-    "area": "30-ft. radius emanating from the touched point",
+    "area": "30-ft. rdius emanating from the touched point",
     "duration": "concentration, up to 1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>A ring of fire surrounds the area affected by the spell. The flames radiate heat, but not enough to damage adjacent creatures. The flames deal 2d6 points of fire damage to any creatures that pass through them (or 4d6 points of damage to undead creatures). If you manifest a portion of the ring in a square that contains a creature, that creature takes damage as if it passed through the ring.<\/p><p>The ring of flames attempts to dispel all ongoing spell effects with the evil descriptor within it, targeting each spell effect once per round as per dispel magic. Any attempt to cast a spell with the evil descriptor inside the ring of flames is targeted by a dispel magic affect that attempts to counterspell the evil spell.<\/p>",
+    "text": "A ring of fire surrounds the area affected by the spell. The flames radiate heat, but not enough to damage adjacent creatures. The flames deal 2d6 points of fire damage to any creatures that pass through them (or 4d6 points of damage to undead creatures). If you manifest a portion of the ring in a square that contains a creature, that creature takes damage as if it passed through the ring.<br><br> The ring of flames attempts to dispel all ongoing spell effects with the evil descriptor within it, targeting each spell effect once per round as per <i>dispel magic<\/i>. Any attempt to cast a spell with the evil descriptor inside the ring of flames is targeted by a <i>dispel magic<\/i> affect that attempts to counterspell the evil spell.",
     "name_zh": "净化之炎",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
     "range_zh": "接触",
     "area_zh": "以接触点为中心半径30尺弥散",
-    "duration_zh": "专注，至多1轮/等级",
+    "duration_zh": "专注, 至多每等级1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一个烈焰之环环绕着受法术影响的区域。烈焰散发着热量，但不足以伤害邻近的生物。烈焰对任何穿过它们的生物造成2d6点火焰伤害（或对不死生物造成4d6点伤害）。如果你将环的一部分显现在一个包含生物的方格中，该生物会像穿过环一样受到伤害。\n烈焰之环试图驱散所有持续的带有[邪恶]描述符的法术效果，每轮针对每个法术效果一次，如同解除魔法一般。任何试图在烈焰之环内施放带有[邪恶]描述符的法术的尝试都会受到一次试图反制邪恶法术的解除魔法效果的影响。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>一个烈焰之环环绕着受法术影响的区域。烈焰散发着热量，但不足以伤害邻近的生物。烈焰对任何穿过它们的生物造成2d6点火焰伤害（或对不死生物造成4d6点伤害）。如果你将环的一部分显现在一个包含生物的方格中，该生物会像穿过环一样受到伤害。<\/p><p>烈焰之环试图驱散所有持续的带有[邪恶]描述符的法术效果，每轮针对每个法术效果一次，如同解除魔法一般。任何试图在烈焰之环内施放带有[邪恶]描述符的法术的尝试都会受到一次试图反制邪恶法术的解除魔法效果的影响。<\/p>"
 }

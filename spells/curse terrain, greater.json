@@ -1,30 +1,36 @@
 {
     "key": "curse terrain, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-terrain/",
     "name": "Curse Terrain, Greater",
-    "base": "curse terrain",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain,%20Greater",
+    "source": ["Horror Adventures pg. 114"],
     "school": "necromancy",
     "descriptors":     [
         "curse",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
         "druid": 6,
+        "hunter": 6,
+        "oracle": 6,
         "shaman": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "components": "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 1,500 gp)",
+    "castingTime": "10 minutes",
+    "components": "V, S, M (the heart of the creature that dwelled in the area and powdered onyx worth 1,500 gp)",
     "range": "touch",
     "area": "5-mile radius emanating from the touched point",
-    "text": "<p>By touching the ground, you curse the land with six unnatural hazards. This functions as lesser curse terrain, but with the effects of the greater perilous demesne curse.<\/p>",
+    "duration": "1 day (D)",
+    "text": "By touching the ground, you curse the land with six unnatural hazards. This functions as <i>lesser curse terrain<\/i>, but with the effects of the greater perilous demesne curse (see page 145).<h2 class=\"title\">Perilous Demesne, Greater<\/h2><b>Type<\/b> regional curse; <b>Area<\/b> 6-mile-radius emanation; <b>Save<\/b> Will DC 19 to remove<br><br><b>Effect<\/b> As per major perilous demesne (see below), except up to six hazards, each of CR 10 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter’s effective CR from hazards must be no more than 11 (for instance, two CR 9 hazards could be encountered together).<br><br><b>Cure<\/b> <i>Remove curse<\/i> removes a greater perilous demesne only if followed by a casting of <i>hallow<\/i> at the effect’s center.",
     "name_zh": "高等诅咒地形",
-    "castingTime_zh": "语言、姿势、材料 (一颗居住在此地区生物的心脏，以及价值1500gp的玛瑙粉末)",
+    "castingTime_zh": "10分钟",
     "range_zh": "接触",
     "area_zh": "从接触的点向外弥漫半径5哩 ",
-    "text_zh": "<p>透过触摸大地，你令六个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是高等危险地域诅咒(见Page.145)。<\/p>",
-    "source": "HA"
+    "duration_zh": "1天 (可解消)",
+    "text_zh": "<p>透过触摸大地，你令六个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是高等危险地域诅咒(见Page.145)。<\/p>"
 }

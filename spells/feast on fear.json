@@ -1,36 +1,41 @@
 {
     "key": "feast on fear",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/feast-on-fear/",
-    "name": "Feast On Fear",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "name": "Feast on Fear",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Feast%20on%20Fear",
+    "source": ["Advanced Class Guide pg. 181"],
     "school": "necromancy",
     "descriptors":     [
         "emotion",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 5,
         "bard": 4,
+        "mesmerist": 4,
+        "psychic": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "skald": 4,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "1 round/level",
-    "savingThrow": "Fort negates",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>Each round as a standard action, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the target fails its saving throw, it becomes panicked for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.<\/p><p>These temporary hit points stack if they are from different creatures.<\/p>",
+    "text": "Each round, as a standard action, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the target fails its saving throw, it becomes panicked for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.<br><br> These temporary hit points stack if they are from different creatures.",
     "name_zh": "恐惧饕宴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个或更多个活物（见后文）",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧，通过则无效",
+    "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>每一轮，用一个标准动作，你都能够以单一一个生命骰至多为9HD的活物为目标，并且以恐惧浪潮的力量侵袭它。若目标豁免失败，则会恐慌（Panicked）1d4轮，而且你会获得5点临时生命值（这会在1小时后消散）。在恐慌结束后，这些生物还会陷入战栗（Shaken），持续时间为每施法者等级10分钟，并且如果它们在这段时间内再次出现在你的视线中，便会自动再次陷入恐慌。\n若临时生命值来自不同的生物，便可以叠加。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>每一轮，用一个标准动作，你都能够以单一一个生命骰至多为9HD的活物为目标，并且以恐惧浪潮的力量侵袭它。若目标豁免失败，则会恐慌（Panicked）1d4轮，而且你会获得5点临时生命值（这会在1小时后消散）。在恐慌结束后，这些生物还会陷入战栗（Shaken），持续时间为每施法者等级10分钟，并且如果它们在这段时间内再次出现在你的视线中，便会自动再次陷入恐慌。<\/p><p>若临时生命值来自不同的生物，便可以叠加。<\/p>"
 }

@@ -1,10 +1,10 @@
 {
     "key": "righteous vigor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/righteous-vigor/",
     "name": "Righteous Vigor",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Righteous%20Vigor",
+    "source": ["Advanced Player's Guide pg. 239"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "inquisitor": 3,
@@ -13,10 +13,11 @@
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
+    "target": "creature touched",
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>Infusing the target with a surge of furious divine energy, you enhance a creature's ability to hit an opponent based on the number of times it has already hit that opponent with a successful attack. Each time the subject successfully strikes an opponent with a successful melee attack, the subject gains a cumulative +1 morale bonus on attack rolls (maximum +4 bonus) and gains 1d8 temporary hit points (to a maximum of 20 temporary hit points). If an attack misses, the attack bonus resets to +0 but any accumulated temporary hit points remain. The temporary hit points disappear at the end of the spell's duration.<\/p>",
+    "text": "Infusing the target with a surge of furious divine energy, you enhance a creature’s ability to hit an opponent based on the number of times it has already hit that opponent with a successful attack. Each time the subject successfully strikes an opponent with a successful melee attack, the subject gains a cumulative +1 morale bonus on attack rolls (maximum +4 bonus) and gains 1d8 temporary hit points (to a maximum of 20 temporary hit points). If an attack misses, the attack bonus resets to +0 but any accumulated temporary hit points remain. The temporary hit points disappear at the end of the spell’s duration.",
     "name_zh": "正义狂热",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -25,6 +26,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你给目标注入了一股神圣的能量，提高了她的战力，让她能够更轻易的命中一个已经被命中过若干次的目标。<\/p><p>每当受术者的近战攻击成功的命中，受术者的攻击掷骰便会受到+1士气加值 (最大+4)，并且获得1d8点临时生命 (最大20点临时生命)。<\/p><p>当一次攻击未能命中，攻击骰加值便会复位为0，但临时生命将会保持。临时生命将在法术效果结束后消失。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你给目标注入了一股神圣的能量，提高了她的战力，让她能够更轻易的命中一个已经被命中过若干次的目标。<\/p><p>每当受术者的近战攻击成功的命中，受术者的攻击掷骰便会受到+1士气加值 (最大+4)，并且获得1d8点临时生命 (最大20点临时生命)。<\/p><p>当一次攻击未能命中，攻击骰加值便会复位为0，但临时生命将会保持。临时生命将在法术效果结束后消失。<\/p>"
 }

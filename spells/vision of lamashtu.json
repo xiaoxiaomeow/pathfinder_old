@@ -1,18 +1,22 @@
 {
     "key": "vision of lamashtu",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/vision-of-doom/",
     "name": "Vision of Lamashtu",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Vision%20of%20Lamashtu",
+    "source":     [
+        "Inner Sea World Guide pg. 297",
+        "Pathfinder #5: Sins of the Saviors pg. 71"
+    ],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors":     [
         "mind-affecting",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 7,
+        "cleric": 7,
         "inquisitor": 6,
+        "oracle": 7,
         "shaman": 7,
         "witch": 7
     },
@@ -23,15 +27,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>This spell functions exactly as the spell <i>nightmare<\/i>.<\/p><p>In addition to the effects of that spell, you can cause a second spell to be delivered when the target wakes at the nightmare's conclusion. You must have this second spell prepared and it must be cast immediately after this spell (effectively adding the two spells' casting times). This second spell “rides along” with the nightmare, affecting the target as soon as it wakes from its fitful sleep. Any spell can be sent along with the nightmare, so long as it is of 6th level or lower, affects one target (which is always the nightmare's recipient), and does not deal hit point damage. The second spell's range is irrelevant for the purposes of this spell and even touch attacks can be delivered in this manner (you must still make a successful touch attack in order to affect the target, though, with the act of touching occurring within the context of the victim's nightmare). The target is allowed to save against the second spell if a save is allowed. For example, a cleric could send bestow curse along as part of the spell but not blade barrier (affects an area), destruction (too high level), or inflict moderate wounds (deals hit point damage).<\/p>",
+    "text": "This spell functions exactly as the spell <i>nightmare<\/i>. In addition to the effects of that spell, you can cause a second spell to be delivered when the target wakes at the <i>nightmare<\/i>’s conclusion. You must have this second spell prepared, and it must be cast immediately after <i>vision of Lamashtu<\/i> (effectively adding the two spells’ casting times). This second spell “rides along” with the <i>nightmare<\/i>, affecting the target as soon as it wakes from its fitful sleep. Any spell can be sent along with the nightmare, so long as it is of 6th level or lower, affects one target (which is always the <i>nightmare<\/i>’s recipient), and does not deal hit point damage. The second spell’s range is irrelevant for the purposes of <i>vision of Lamashtu<\/i>, and even touch attacks can be delivered in this manner (you must still make a successful touch attack in order to affect the target, though, with the act of touching occurring within the context of the victim’s <i>nightmare<\/i>). The target is allowed to save against the second spell if a save is allowed. For example, a cleric of Lamashtu could send <i>bestow curse<\/i> along as part of a <i>vision of Lamashtu<\/i>, but not <i>blade barrier<\/i> (affects an area), <i>destruction<\/i> (too high level), or <i>inflict moderate wounds<\/i> (deals hit point damage).",
     "name_zh": "拉玛什图之幻景",
-    "castingTime_zh": "10分钟（见后文）",
+    "castingTime_zh": "10分钟; 见文本",
     "components_zh": "语言，姿势",
     "range_zh": "无限",
     "target_zh": "一个活物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志无效（见后文）",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术工作方式和梦魇（Nightmare）法术完全一样。\n除了梦魇术的效果，在目标从梦魇之中醒来时，你还可以传递第二个法术的效果。\n你必须准备有这第二个法术，并且必须立即在拉玛什图之幻景施放后施放（两个法术的施法时间叠加）。\n第二个法术会‘被附加’在梦魇中，并且在目标从它那恐怖的睡眠中醒来时立刻影响它。\n只有6级或更低的法术可以被附加在梦魇中来影响目标，法术目标必须是梦魇术的目标，并且不能造成生命值伤害。\n第二个法术的施法范围和拉玛什图之幻景无关，甚至连接触攻击也可以通过这种方式被传递（你仍然需要进行一次成功的接触攻击检定，不过这次接触攻击发生在目标的梦魇之中）。\n如果目标能够对第二个法术进行豁免，那么目标就被允许针对第二个法术进行豁免。\n例如：一个拉玛什图的牧师可以选择传递一个降咒术（Bestow Curse）作为拉玛什图之幻景的一部分，但是剑刃屏障（影响区域）、解离术（等级过高）和造成中度伤（造成伤害）则不行。<\/p>",
-    "source": "CS-ISWG"
+    "text_zh": "<p>这个法术工作方式和梦魇（Nightmare）法术完全一样。<\/p><p>除了梦魇术的效果，在目标从梦魇之中醒来时，你还可以传递第二个法术的效果。<\/p><p>你必须准备有这第二个法术，并且必须立即在拉玛什图之幻景施放后施放（两个法术的施法时间叠加）。<\/p><p>第二个法术会‘被附加’在梦魇中，并且在目标从它那恐怖的睡眠中醒来时立刻影响它。<\/p><p>只有6级或更低的法术可以被附加在梦魇中来影响目标，法术目标必须是梦魇术的目标，并且不能造成生命值伤害。<\/p><p>第二个法术的施法范围和拉玛什图之幻景无关，甚至连接触攻击也可以通过这种方式被传递（你仍然需要进行一次成功的接触攻击检定，不过这次接触攻击发生在目标的梦魇之中）。<\/p><p>如果目标能够对第二个法术进行豁免，那么目标就被允许针对第二个法术进行豁免。<\/p><p>例如：一个拉玛什图的牧师可以选择传递一个降咒术（Bestow Curse）作为拉玛什图之幻景的一部分，但是剑刃屏障（影响区域）、解离术（等级过高）和造成中度伤（造成伤害）则不行。<\/p>"
 }

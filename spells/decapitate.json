@@ -1,14 +1,16 @@
 {
     "key": "decapitate",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/decapitate/",
     "name": "Decapitate",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Decapitate",
+    "source": ["Horror Adventures pg. 115"],
     "school": "evocation",
     "levels":     {
+        "arcanist": 6,
         "inquisitor": 5,
         "magus": 6,
         "psychic": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
     "castingTime": "1 immediate action",
     "components": "V, S, F (a sliver from a guillotine blade)",
@@ -17,15 +19,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You can cast this spell only as a response to a confirmed critical hit against the target that would deal slashing damage. If the target fails the saving throw and has a discernible head, the attack deals an extra 4d6 points of damage and the critical multiplier of the critical hit increases by 1. If the critical hit then brings the target to 0 hit points or fewer, the target is instantly decapitated and dies unless it can survive decapitation. Even on a successful saving throw, the critical hit deals an extra 4d6 points of damage.<\/p>",
+    "text": "You can cast this spell only as a response to a confirmed critical hit against the target that would deal slashing damage. If the target fails the saving throw and has a discernible head, the attack deals an extra 4d6 points of damage and the critical multiplier of the critical hit increases by 1. If the critical hit then brings the target to 0 hit points or fewer, the target is instantly decapitated and dies unless it can survive decapitation. Even on a successful saving throw, the critical hit deals an extra 4d6 points of damage.",
     "name_zh": "枭首",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言、姿势、器材 (一块断头台刀刃的碎片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物 (见下)",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则部分生效 (见下)",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一条细红线环绕着受术者的脖子。只要她自愿移除，那受术者的头就可以分离。当受术者的头是分离的时，她获得DR2/─并且免疫斩首效果以及其他要求受术者有颗头或特别的面部特征的效果。只要她没有头，则受术者目盲(blind)，但她获得15尺的盲视。而受术者能正常的听，就算她没有头。\n当头分离时，受术者的头在外观上看上去是死的。受术者无法透过头的眼睛或耳朵来知道头周遭的情况。目标的身体知道头所在的方向与距离。这颗被分开的头AC为7，硬度为5，生命值为10，此外没有其他的保护。在法术仍生效的期间将头破坏，会将受术者给杀死。如果法术在持续时间到时正常的结束，而头没有被重新联接起来，则受术者死亡。如果目标或他的头被移到不同的位面，或着此法术被解除，这颗头会传送回其所有者，重新联接并不会受到进一步的伤害。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>一条细红线环绕着受术者的脖子。只要她自愿移除，那受术者的头就可以分离。当受术者的头是分离的时，她获得DR2/─并且免疫斩首效果以及其他要求受术者有颗头或特别的面部特征的效果。只要她没有头，则受术者目盲(blind)，但她获得15尺的盲视。而受术者能正常的听，就算她没有头。<\/p><p>当头分离时，受术者的头在外观上看上去是死的。受术者无法透过头的眼睛或耳朵来知道头周遭的情况。目标的身体知道头所在的方向与距离。这颗被分开的头AC为7，硬度为5，生命值为10，此外没有其他的保护。在法术仍生效的期间将头破坏，会将受术者给杀死。如果法术在持续时间到时正常的结束，而头没有被重新联接起来，则受术者死亡。如果目标或他的头被移到不同的位面，或着此法术被解除，这颗头会传送回其所有者，重新联接并不会受到进一步的伤害。<\/p>"
 }

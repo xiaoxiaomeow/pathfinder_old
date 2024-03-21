@@ -1,20 +1,18 @@
 {
     "key": "blight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blight/",
     "name": "Blight",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blight",
+    "source": ["PRPG Core Rulebook pg. 250"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 5,
         "druid": 4,
+        "hunter": 4,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
-    "subdomains":     {
-        "radiation": 4,
-        "seasons": 4
-    },
-    "bloodlines": {"daemon": 5},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -22,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude half",
     "spellResistance": "yes",
-    "text": "<p>This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn't a creature doesn't receive a save and immediately withers and dies.<\/p><p>This spell has no effect on the soil or surrounding plant life.<\/p>",
+    "text": "This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn't a creature doesn't receive a save and immediately withers and dies.<br><br>This spell has no effect on the soil or surrounding plant life.",
     "name_zh": "枯萎术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
     "range_zh": "接触",
     "target_zh": "接触到的植物",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则减半",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术会使任意大小的一株植物枯萎凋谢。受影响的植物生物会受到每等级1d6点伤害 (最多15d6)，它可以进行一次强韧豁免, 通过则伤害减半。非生物的植物不能进行豁免，并且会立刻凋谢而死。【编注：这里所谓的“非生物的植物”是指那些视为物体，而非植物类生物的东西。】<\/p><p>这个法术对土壤或周围的植物生命无效。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术会使任意大小的一株植物枯萎凋谢。受影响的植物生物会受到每等级1d6点伤害 (最多15d6)，它可以进行一次强韧豁免, 通过则伤害减半。非生物的植物不能进行豁免，并且会立刻凋谢而死。【编注：这里所谓的“非生物的植物”是指那些视为物体，而非植物类生物的东西。】<\/p><p>这个法术对土壤或周围的植物生命无效。<\/p>"
 }

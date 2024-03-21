@@ -1,15 +1,19 @@
 {
     "key": "raise dead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/raise-dead/",
     "name": "Raise Dead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Raise%20Dead",
+    "source": ["PRPG Core Rulebook pg. 329"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
-        "cleric/oracle": 5,
+        "adept": 5,
+        "cleric": 5,
+        "oracle": 5,
         "shaman": 6,
+        "spiritualist": 5,
+        "warpriest": 5,
         "witch": 6
     },
-    "subdomains": {"resurrection": 5},
     "castingTime": "1 minute",
     "components": "V, S, M (diamond worth 5,000 gp), DF",
     "range": "touch",
@@ -17,15 +21,14 @@
     "duration": "instantaneous",
     "savingThrow": "none, see text",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You restore life to a deceased creature. You can raise a creature that has been dead for no longer than 1 day per caster level. In addition, the subject's soul must be free and willing to return. If the subject's soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.<\/p><p>Coming back from the dead is an ordeal. The subject of the spell gains two permanent negative levels when it is raised, just as if it had been hit by an energy-draining creature. If the subject is 1st level, it takes 2 points of Constitution drain instead (if this would reduce its Con to 0 or less, it can't be raised). A character who died with spells prepared has a 50% chance of losing any given spell upon being raised. A spellcasting creature that doesn't prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell.<\/p><p>A raised creature has a number of hit points equal to its current HD. Any ability scores damaged to 0 are raised to 1. Normal poison and normal disease are cured in the process of raising the subject, but magical diseases and curses are not undone. While the spell closes mortal wounds and repairs lethal damage of most kinds, the body of the creature to be raised must be whole. Otherwise, missing parts are still missing when the creature is brought back to life. None of the dead creature's equipment or possessions are affected in any way by this spell.<\/p><p>A creature who has been turned into an undead creature or killed by a death effect can't be raised by this spell. Constructs, elementals, outsiders, and undead creatures can't be raised. The spell cannot bring back a creature that has died of old age.<\/p>",
+    "text": "You restore life to a deceased creature. You can raise a creature that has been dead for no longer than 1 day per caster level. In addition, the subject's soul must be free and willing to return. If the subject's soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.<br><br>Coming back from the dead is an ordeal. The subject of the spell gains two permanent negative levels when it is raised, just as if it had been hit by an energy-draining creature. If the subject is 1st level, it takes 2 points of Constitution drain instead (if this would reduce its Con to 0 or less, it can't be raised). A character who died with spells prepared has a 50% chance of losing any given spell upon being raised. A spellcasting creature that doesn't prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell.<br><br>A raised creature has a number of hit points equal to its current HD. Any ability scores damaged to 0 are raised to 1. Normal poison and normal disease are cured in the process of raising the subject, but magical diseases and curses are not undone. While the spell closes mortal wounds and repairs lethal damage of most kinds, the body of the creature to be raised must be whole. Otherwise, missing parts are still missing when the creature is brought back to life. None of the dead creature's equipment or possessions are affected in any way by this spell.<br><br>A creature who has been turned into an undead creature or killed by a death effect can't be raised by this spell. Constructs, elementals, outsiders, and undead creatures can't be raised. The spell cannot bring back a creature that has died of old age.",
     "name_zh": "死者复活",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 材料 (价值5000gp的钻石尘), 法器",
     "range_zh": "接触",
     "target_zh": "接触到的已死生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "无, 见后文",
+    "savingThrow_zh": "无, 见文本",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你恢复一个已死生物的生命。你可以复活一个死亡时间不超过每CL 1天的生物。另外，受术者的灵魂必须是自由且愿意复活的。如果该生物的灵魂不愿复活，这个法术就不会生效；所以，一个愿意复活的受术者无需进行豁免。<\/p><p>死而复生是一个痛苦的体验。该法术的受术者会受到2个永久负向等级后复活，如同它被能够“能量吸取 (energy-draining)”的生物命中一般。如果受术者只有1级，它改为受到2点体质吸取 (如果这将使它的体质属性降到0或更低，它将不能复活)。一个死亡时拥有已准备好的法术的角色，复活时有50%机率失去任何准备的法术。一个不需要准备法术的生物 (比如术士) 有50%机率失去任何未使用的法术位，如同它已经被用于施法一样。<\/p><p>一个复活的生物拥有等于其现有HD的HP。所有因属性伤害降到0的属性恢复到1。普通的毒素和疾病会在受术者复活的过程中治愈，但是魔法疾病和诅咒不会消失。虽然此法术会愈合致命的伤口并修复大多数损伤，但是该生物复活时身体必须是完整的。否则，该生物复活时失去的身体部分依然不会恢复。该生物的装备和物品均不会以任何方式被这个法术影响。<\/p><p>一个被转化为不死生物或被即死效果杀死的生物不能被这个法术复活。构装生物、元素生物、异界生物和不死生物无法复活。这个法术无法复活因年老而死亡的生物。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你恢复一个已死生物的生命。你可以复活一个死亡时间不超过每CL 1天的生物。另外，受术者的灵魂必须是自由且愿意复活的。如果该生物的灵魂不愿复活，这个法术就不会生效；所以，一个愿意复活的受术者无需进行豁免。<\/p><p>死而复生是一个痛苦的体验。该法术的受术者会受到2个永久负向等级后复活，如同它被能够“能量吸取 (energy-draining)”的生物命中一般。如果受术者只有1级，它改为受到2点体质吸取 (如果这将使它的体质属性降到0或更低，它将不能复活)。一个死亡时拥有已准备好的法术的角色，复活时有50%机率失去任何准备的法术。一个不需要准备法术的生物 (比如术士) 有50%机率失去任何未使用的法术位，如同它已经被用于施法一样。<\/p><p>一个复活的生物拥有等于其现有HD的HP。所有因属性伤害降到0的属性恢复到1。普通的毒素和疾病会在受术者复活的过程中治愈，但是魔法疾病和诅咒不会消失。虽然此法术会愈合致命的伤口并修复大多数损伤，但是该生物复活时身体必须是完整的。否则，该生物复活时失去的身体部分依然不会恢复。该生物的装备和物品均不会以任何方式被这个法术影响。<\/p><p>一个被转化为不死生物或被即死效果杀死的生物不能被这个法术复活。构装生物、元素生物、异界生物和不死生物无法复活。这个法术无法复活因年老而死亡的生物。<\/p>"
 }

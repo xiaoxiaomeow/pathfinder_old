@@ -1,24 +1,32 @@
 {
     "key": "sky swim",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sky-swim/",
     "name": "Sky Swim",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sky%20Swim",
+    "source":     [
+        "Inner Sea Gods pg. 241",
+        "Faiths of Balance pg. 28"
+    ],
     "school": "transmutation",
     "descriptors": ["air"],
+    "race": "Gozreh",
     "levels":     {
-        "cleric/oracle": 3,
+        "bloodrager": 3,
+        "cleric": 3,
         "druid": 3,
+        "hunter": 3,
+        "oracle": 3,
         "shaman": 3,
+        "warpriest": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "target": "Large or smaller creature touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell grants the target the ability to swim through the air.<\/p><p>If the target has a swim speed, it can move through the air at that speed. Otherwise, it must succeed at Swim checks to move as normal. Still air is treated as calm water, light or moderate wind is treated as rough water, strong or severe wind is treated as stormy water, and the target cannot swim through stronger winds. This spell does not grant the ability to breathe air to creatures that normally can't.<\/p>",
+    "text": "This spell grants the target the ability to swim through the air. If the target has a swim speed, it can move through the air at that speed. Otherwise, it must succeed at Swim checks to move as normal. Still air is treated as calm water, light or moderate wind is treated as rough water, strong or severe wind is treated as stormy water, and the target cannot swim through stronger winds (<i>Core Rulebook <\/i>439). This spell does not grant the ability to breathe air to creatures that normally can’t.",
     "name_zh": "遨游天空",
     "race_zh": "哥兹莱",
     "castingTime_zh": "标准动作",
@@ -26,8 +34,7 @@
     "range_zh": "接触",
     "target_zh": "接触到的生物（大型或更小）",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "无（无害）",
+    "savingThrow_zh": "无 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>这个法术可以让目标在空气中游泳，拥有游泳速度的生物可以以自己的游泳速度在空中移动，而没有游泳速度的生物则需要通过一个游泳技能检定来正常移动。无风的环境在游泳时视为平静的水体，微风或中等强度的风力视为有波澜的水体而强风则视为惊涛骇浪（见核心规则书439页）。这个法术并不能使无法呼吸空气的生物获得呼吸空气的能力。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>这个法术可以让目标在空气中游泳，拥有游泳速度的生物可以以自己的游泳速度在空中移动，而没有游泳速度的生物则需要通过一个游泳技能检定来正常移动。无风的环境在游泳时视为平静的水体，微风或中等强度的风力视为有波澜的水体而强风则视为惊涛骇浪（见核心规则书439页）。这个法术并不能使无法呼吸空气的生物获得呼吸空气的能力。<\/p>"
 }

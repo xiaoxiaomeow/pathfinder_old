@@ -1,26 +1,30 @@
 {
     "key": "burst of nettles",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-nettles/",
     "name": "Burst of Nettles",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Nettles",
+    "source": ["Ultimate Magic pg. 210"],
     "school": "conjuration",
     "descriptors": ["acid"],
-    "levels": {"druid": 3},
+    "levels":     {
+        "druid": 3,
+        "hunter": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "area": "10-ft.-radius burst",
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
-    "text": "<p>You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.<\/p>",
+    "spellResistance": "yes",
+    "text": "You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.",
     "name_zh": "爆射荨麻",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "半径10尺爆发范围",
+    "area_zh": "10英尺半径爆发",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你将大量带有尖刺并且灌满强酸的荨麻爆发出去。在爆发范围内的生物会受到3d6点伤害并在下一回合受到1d6点强酸伤害。通过豁免的生物可以使最初的爆发伤害减半并免受下一轮的伤害。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你将大量带有尖刺并且灌满强酸的荨麻爆发出去。在爆发范围内的生物会受到3d6点伤害并在下一回合受到1d6点强酸伤害。通过豁免的生物可以使最初的爆发伤害减半并免受下一轮的伤害。<\/p>"
 }

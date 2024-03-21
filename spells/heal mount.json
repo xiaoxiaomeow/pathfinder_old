@@ -1,9 +1,10 @@
 {
     "key": "heal mount",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heal-mount/",
     "name": "Heal Mount",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heal%20Mount",
+    "source": ["PRPG Core Rulebook pg. 294"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels": {"paladin": 3},
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -12,7 +13,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions like <i>heal<\/i>, but it affects only the paladin's special mount (typically a horse).<\/p>",
+    "text": "This spell functions like <i>heal<\/i>, but it affects only the paladin's special mount (typically a horse).",
     "name_zh": "医疗坐骑",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -21,6 +22,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=heal\">医疗术 (heal)<\/a>’一般，不过只影响圣骑士的特殊坐骑 (通常为马匹)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=heal\">医疗术 (heal)<\/a>’一般，不过只影响圣骑士的特殊坐骑 (通常为马匹)。<\/p>"
 }

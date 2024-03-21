@@ -1,32 +1,38 @@
 {
     "key": "demanding message, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/demanding-message/",
     "name": "Demanding Message, Mass",
-    "base": "demanding message",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Demanding%20Message,%20Mass",
+    "source": ["Ultimate Intrigue pg. 210"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "language-dependent",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 7,
         "bard": 6,
         "mesmerist": 6,
         "occultist": 6,
         "psychic": 6,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "skald": 6,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "duration": "10 min.s/level, then 1 hour/level or until completed (d); see text",
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a piece of copper wire)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "10 minutes/level, then 1 hour/level or until completed (D); see text",
     "savingThrow": "Will negates (see text)",
-    "spellResistance": "yes",
-    "text": "<p>This spell functions as <i>demanding message<\/i>, except that you can issue one suggestion to each of the spell's targets instead of just one. Each time you do so, it takes a standard action. You can issue a different suggestion to each target.<\/p><\/div>",
+    "spellResistance": "yes; see text",
+    "text": "This spell functions as <i>demanding message<\/i>, except that you can issue one <i>suggestion<\/i> to each of the spell’s targets instead of just one. Each time you do so, it takes a standard action. You can issue a different <i>suggestion<\/i> to each target.",
     "name_zh": "群体强令传讯术",
-    "duration_zh": "10分钟/等级，之后 1小时/等级 或 直至完成（可解消）；见后文",
-    "savingThrow_zh": "意志，通过则无效（见后文）",
-    "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能就如同强令传讯术一般，不过你能够对法术的每个目标发出1个暗示术（Suggestion），以取代的只对1个目标进行暗示。每当你这么做时，都需要耗费标准动作。你能对每个目标发出不同的暗示术。<\/p>",
-    "source": "UI"
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直至完成 (可解消) ; 见文本",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>该法术的功能就如同强令传讯术一般，不过你能够对法术的每个目标发出1个暗示术（Suggestion），以取代的只对1个目标进行暗示。每当你这么做时，都需要耗费标准动作。你能对每个目标发出不同的暗示术。<\/p>"
 }

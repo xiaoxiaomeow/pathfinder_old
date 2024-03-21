@@ -1,15 +1,22 @@
 {
     "key": "false alibi",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-alibi/",
     "name": "False Alibi",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Alibi",
+    "source":     [
+        "Inner Sea Gods pg. 234",
+        "Pathfinder #59: The Price of Infamy pg. 75"
+    ],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
+    "race": "Norgorber",
     "levels":     {
         "bard": 3,
-        "cleric/oracle": 3,
-        "inquisitor": 3
+        "cleric": 3,
+        "inquisitor": 3,
+        "oracle": 3,
+        "skald": 3,
+        "warpriest": 3
     },
     "castingTime": "1 round",
     "components": "V, S, M (emerald dust worth 100 gp)",
@@ -18,16 +25,15 @@
     "duration": "permanent; see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions similarly to modify memory, except you can modify the target's memory only in a specific way.<\/p><p>In response to a triggering condition you determine, up to the last 5 minutes of the target's memory are eliminated and replaced with a memory of your choosing (or no memory at all).<\/p><p>For example, you could cast this on an assassin, set it to trigger when he completes his kill, and replace his memory of the murder with the memory of him discovering the body and picking up the murder weapon. You can cast this spell multiple times on the same target, even with the same trigger, affecting different memories. A single casting of false alibi affects a creature only until the specified condition has been triggered; once a condition has been triggered and the target's memory altered, that condition no longer triggers this spell unless the victim is subject to another casting of false alibi that specifies the same trigger.<\/p>",
+    "text": "This spell functions similarly to <i>modify memory<\/i>, except you can modify the target’s memory only in a specific way. In response to a triggering condition you determine, up to the last 5 minutes of the target’s memory are eliminated and replaced with a memory of your choosing (or no memory at all). For example, you could cast this on an assassin, set it to trigger when he completes his kill, and replace his memory of the murder with the memory of him discovering the body and picking up the murder weapon. You can cast this spell multiple times on the same target, even with the same trigger, affecting different memories. A single casting of <i>false alibi<\/i> affects a creature only until the specified condition has been triggered; once a condition has been triggered and the target’s memory altered, that condition no longer triggers this spell unless the victim is subject to another casting of <i>false alibi <\/i>that specifies the same trigger.",
     "name_zh": "伪证术",
     "race_zh": "诺格巴",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势，材料（价值100GP的翡翠尘）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个活物",
-    "duration_zh": "永久（见下文）",
+    "duration_zh": "永久; 见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术的效果与法术篡改记忆相同，不过你只能以一种特别的方式来影响目标的记忆。你设定一个篡改记忆的触发条件，一旦目标达到了触发法术的条件，那么他过去5分钟的记忆将全部丧失，取而代之以你事先编排好的全新记忆（或空白）。举例来说，你可以将这个法术施放在一个即将行动的刺客身上，将触发的条件设定为“成功的完成刺杀”，然后编排一段“你发现了谋杀现场的尸体，捡起了凶器”的虚假记忆。你可以在一个生物身上反覆施放本法术，并以相同的触发条件，触发完全不同的记忆，但是一旦目标因为条件触发而被修正了记忆，他就无法被同一个条件触发相同的记忆，直到你重新对他施放伪证术并制定条件和记忆为止。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>这个法术的效果与法术篡改记忆相同，不过你只能以一种特别的方式来影响目标的记忆。你设定一个篡改记忆的触发条件，一旦目标达到了触发法术的条件，那么他过去5分钟的记忆将全部丧失，取而代之以你事先编排好的全新记忆（或空白）。举例来说，你可以将这个法术施放在一个即将行动的刺客身上，将触发的条件设定为“成功的完成刺杀”，然后编排一段“你发现了谋杀现场的尸体，捡起了凶器”的虚假记忆。你可以在一个生物身上反覆施放本法术，并以相同的触发条件，触发完全不同的记忆，但是一旦目标因为条件触发而被修正了记忆，他就无法被同一个条件触发相同的记忆，直到你重新对他施放伪证术并制定条件和记忆为止。<\/p>"
 }

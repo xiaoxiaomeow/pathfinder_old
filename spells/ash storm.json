@@ -1,15 +1,18 @@
 {
     "key": "ash storm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ash-storm/",
     "name": "Ash Storm",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ash%20Storm",
+    "source": ["Ultimate Magic pg. 207"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["fire"],
     "levels":     {
+        "arcanist": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "hunter": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a pinch of ash)",
@@ -17,15 +20,15 @@
     "area": "cylinder (40-ft. radius, 20 ft. high)",
     "duration": "1 round/level",
     "savingThrow": "none",
-    "text": "<p>Driving ash blocks all sight (even darkvision) within the spell's area of effect, and falling cinders cause the ground in the area to become difficult terrain.<\/p>",
+    "spellResistance": "no",
+    "text": "Driving ash blocks all sight (even darkvision) within the spell’s area of effect, and falling cinders cause the ground in the area to become difficult terrain.",
     "name_zh": "灰烬风暴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一撮灰烬)",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "area_zh": "圆柱 (40尺半径，20尺高)",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "柱型区域 (半径40尺, 高20尺)",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "否",
-    "text_zh": "<p>法术抗力    否<\/p><p>法术效果范围内，飞舞的灰烬遮断所有视野 (包括黑暗视觉)。另外，落地的煤渣将会让效果范围内变成困难地形。<\/p>",
-    "source": "UM"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>法术抗力    否<\/p><p>法术效果范围内，飞舞的灰烬遮断所有视野 (包括黑暗视觉)。另外，落地的煤渣将会让效果范围内变成困难地形。<\/p>"
 }

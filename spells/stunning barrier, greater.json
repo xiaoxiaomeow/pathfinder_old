@@ -1,21 +1,33 @@
 {
     "key": "stunning barrier, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stunning-barrier/",
     "name": "Stunning Barrier, Greater",
-    "base": "stunning barrier",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stunning%20Barrier,%20Greater",
+    "source": ["Advanced Class Guide pg. 195"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 3,
         "cleric": 3,
         "inquisitor": 3,
+        "oracle": 3,
         "paladin": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "warpriest": 3,
+        "wizard": 3
     },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
     "duration": "1 round/level or until discharged",
-    "text": "<p>This spell functions as <em>stunning barrier<\/em>, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.<\/p><\/div> <\/div>",
+    "savingThrow": "none and Will negates (see text)",
+    "spellResistance": "no and yes (see text)",
+    "text": "This spell functions as <i>stunning barrier<\/i>, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.",
     "name_zh": "高等反震屏障",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
     "duration_zh": "1轮/等级 或 直至耗散",
-    "text_zh": "<p>该法术的功能如同反震屏障（Stunning Barrier）一般，不过它会为AC何豁免检定提供的加值提升至+2点。而且直至震慑生物的数量等同于你的施法者等级之时，它才会被耗散。<\/p>",
-    "source": "ACG"
+    "savingThrow_zh": "无 和 意志, 通过则无效; 见文本",
+    "spellResistance_zh": "否 和 可; 见文本",
+    "text_zh": "<p>该法术的功能如同反震屏障（Stunning Barrier）一般，不过它会为AC何豁免检定提供的加值提升至+2点。而且直至震慑生物的数量等同于你的施法者等级之时，它才会被耗散。<\/p>"
 }

@@ -1,18 +1,29 @@
 {
     "key": "call lightning storm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/call-lightning-storm/",
     "name": "Call Lightning Storm",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Call%20Lightning%20Storm",
+    "source": ["PRPG Core Rulebook pg. 252"],
     "school": "evocation",
     "descriptors": ["electricity"],
     "levels":     {
         "druid": 5,
+        "hunter": 5,
+        "occultist": 5,
         "shaman": 5
     },
-    "subdomains": {"storms": 5},
+    "castingTime": "1 round",
+    "components": "V, S",
     "range": "long (400 ft. + 40 ft./level)",
-    "text": "<p>This spell functions like call lightning, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.<\/p>",
+    "effect": "one or more 30-ft.-long vertical lines of lightning",
+    "duration": "1 min./level",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>call lightning<\/i>, except that each bolt deals 5d6 points of electricity damage (or 5d10 if created outdoors in a stormy area), and you may call a maximum of 15 bolts.",
     "name_zh": "召唤雷暴",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=call lightning\">召雷术 (call lightning)<\/a>’一般，不过每道闪电会造成5d6点闪电伤害 (在户外且风雨交加的区域则造成5d10点)，并且你最高可以召唤15道闪电。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "1轮",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=call lightning\">召雷术 (call lightning)<\/a>’一般，不过每道闪电会造成5d6点闪电伤害 (在户外且风雨交加的区域则造成5d10点)，并且你最高可以召唤15道闪电。<\/p>"
 }

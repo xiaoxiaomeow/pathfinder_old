@@ -1,24 +1,28 @@
 {
     "key": "invisibility purge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility-purge/",
     "name": "Invisibility Purge",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invisibility%20Purge",
+    "source": ["PRPG Core Rulebook pg. 302"],
     "school": "evocation",
     "levels":     {
-        "cleric/oracle": 3,
-        "inquisitor": 3
+        "cleric": 3,
+        "inquisitor": 3,
+        "occultist": 3,
+        "oracle": 3,
+        "spiritualist": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility.<\/p><p>Anything invisible becomes visible while in the area.<\/p>",
+    "duration": "1 min./level (D)",
+    "text": "You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility.<br><br>Anything invisible becomes visible while in the area.",
     "name_zh": "消除隐形",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>你被一种可以中和任何形式隐形的球形力量所包围，该球形的半径是每CL5尺。<\/p><p>任何隐形事物在此区域内都会显形。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你被一种可以中和任何形式隐形的球形力量所包围，该球形的半径是每CL5尺。<\/p><p>任何隐形事物在此区域内都会显形。<\/p>"
 }

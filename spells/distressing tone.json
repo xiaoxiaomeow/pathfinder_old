@@ -1,13 +1,14 @@
 {
     "key": "distressing tone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/distressing-tone/",
     "name": "Distressing Tone",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Distressing%20Tone",
+    "source": ["Ultimate Magic pg. 217"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
         "bard": 2,
-        "inquisitor": 2
+        "inquisitor": 2,
+        "skald": 2
     },
     "castingTime": "1 round",
     "components": "V, S",
@@ -15,15 +16,15 @@
     "target": "1d4 living creatures",
     "duration": "1 round/level",
     "savingThrow": "Fortitude negates",
-    "text": "<p class=\"description\">You create a powerful tone that vibrates living flesh.<\/p><p>Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.<\/p>",
+    "spellResistance": "yes",
+    "text": "You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.",
     "name_zh": "痛苦之声",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1d4名活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你制造了一次强有力的声波以震荡活物的内脏。目标必须进行一次强韧检定否则陷入恶心状态。免疫重击的生物也免疫该法术。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你制造了一次强有力的声波以震荡活物的内脏。目标必须进行一次强韧检定否则陷入恶心状态。免疫重击的生物也免疫该法术。<\/p>"
 }

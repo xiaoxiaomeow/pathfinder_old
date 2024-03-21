@@ -1,8 +1,8 @@
 {
     "key": "reveal emotions",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reveal-emotions/",
     "name": "Reveal Emotions",
-    "book": "Pathfinder Player Companion: Heroes of the High Court © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20Emotions",
+    "source": ["Heroes of the High Court pg. 10"],
     "school": "divination",
     "levels":     {
         "medium": 3,
@@ -15,18 +15,17 @@
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "area": "40-ft.-radius spread",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You create an area that draws out a creature's emotion aura. Creatures within this area constantly glow with colors that represent their current overall emotional state and continue to do so for 1d4 rounds after leaving the area. This glow is clearly visible to any creature that can see the creature. Emotionless creatures or creatures unaffected by this spell glow with a dull purple hue while within the area.<\/p>",
+    "text": "You create an area that draws out a creature’s emotion aura (<i>Pathfinder RPG Occult Adventures 198<\/i>). Creatures within this area constantly glow with colors that represent their current overall emotional state and continue to do so for 1d4 rounds after leaving the area. This glow is clearly visible to any creature that can see the creature. Emotionless creatures or creatures unaffected by this spell glow with a dull purple hue while within the area.",
     "name_zh": "揭露情绪",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "半径40呎扩散",
-    "duration_zh": "1小时/等级 (D)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "：半径40尺扩散",
+    "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造一个能抽出一名生物情绪灵光(PF异能冒险[OA]P.198)的区域。在此区域内的生物持续散发著代表他当前整体情绪装况的颜色，并且在离开此区域后还会持续1d4轮。这光对能看见该生物的生物来说都清晰可见。无情绪的生物或著不受此法术影响的生物，处于这片区域时散发暗紫色。<\/p>",
-    "source": "PC-HotHC"
+    "text_zh": "<p>你创造一个能抽出一名生物情绪灵光(PF异能冒险[OA]P.198)的区域。在此区域内的生物持续散发著代表他当前整体情绪装况的颜色，并且在离开此区域后还会持续1d4轮。这光对能看见该生物的生物来说都清晰可见。无情绪的生物或著不受此法术影响的生物，处于这片区域时散发暗紫色。<\/p>"
 }

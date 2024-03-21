@@ -1,12 +1,15 @@
 {
     "key": "disrupt undead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disrupt-undead/",
     "name": "Disrupt Undead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Disrupt%20Undead",
+    "source": ["PRPG Core Rulebook pg. 273"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 0,
         "inquisitor": 0,
         "magus": 0,
-        "sorcerer/wizard": 0
+        "sorcerer": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -15,15 +18,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p class=\"description\">You direct a ray of positive energy.<\/p><p>You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.<\/p>",
+    "text": "You direct a ray of positive energy. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d6 points of damage to it.",
     "name_zh": "打击死灵",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "射线",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你射出一股正能量射线。你必须通过远程接触攻击来命中目标，若射线命中不死生物，则会造成1d6点伤害。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你射出一股正能量射线。你必须通过远程接触攻击来命中目标，若射线命中不死生物，则会造成1d6点伤害。<\/p>"
 }

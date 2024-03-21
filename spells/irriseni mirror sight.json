@@ -1,0 +1,34 @@
+{
+    "key": "irriseni mirror sight",
+    "name": "Irriseni Mirror Sight",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Irriseni%20Mirror%20Sight",
+    "source":     [
+        "Pathfinder #67: The Snows of Summer pg. 73",
+        "Cities of Golarion pg. 63"
+    ],
+    "school": "divination",
+    "subSchools": ["scrying"],
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, F (a mirror)",
+    "range": "see text",
+    "effect": "magical sensor",
+    "duration": "1 minute/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell lets you look into a mirror near you and see an image that is reflected in another specific mirror (chosen by you) or an individual reflected in any other mirror. This works like a <i>scrying <\/i>spell, except you can only view creatures on the same plane as you. Each time you cast the spell, you can choose to see one of three types of reflections in your mirror.<br><br> <i>Known Mirror<\/i>: The current reflection in another mirror with which you are familiar.<br><i>Known Person<\/i>: The current reflection of a person you know well, assuming that person is near a mirror.<br><i>Known Place<\/i>: The current reflection of a place you know well, assuming the location is being reflected in a mirror.<br><br> You receive only visual information through this ability. You can choose to transmit information both ways so that a person reflected in the remote mirror can view whatever appears in the mirror you are using.<br><br> For example, Urion Petresky knows that Queen Elvanna keeps a mirror in a hall near her throne room. He can look through his own handheld mirror and see into this hall, even if the queen is not there. Alternatively, he can attempt to find the queen (wherever she is) by looking into his mirror; if, at that moment, the queen is near any mirror at all, he can see her. He may instead cast the spell and try to see into her throne room, hoping that someone has brought a mirror there. If any of these conditions fails, Urion sees nothing but his own reflection.<br><br> This spell works with intentionally fabricated mirrors only; it is not effective with other reflective surfaces, such as still pools or polished metal shields. Effects that block <i>scrying <\/i>block this spell.",
+    "name_zh": "伊利森镜视术",
+    "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料( 一面镜子)",
+    "range_zh": "见文本",
+    "effect_zh": "镜子传感器",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术允许你通过你附近的一面镜子来观看另一面特定的镜子( 由你选择) 中映出的景象，或者从任意一面镜子中映出的某个特定的人。作用方式类似于探知法术，除了你只能观看与你相同位面的生物。每次你施展此法术，你可以从以下三种类型选择其一显示在你的镜子上。<\/p><p>·已知镜子：显示你熟悉的一面镜子中映出的景象。<\/p><p>·已知某人：显示出一个你所熟悉的人的影像，只要正被映在某一面镜子当中。<\/p><p>·已知地点：显示出一个你所熟悉的地点的景象，只要正被映在某一面镜子当中。<\/p><p>通过此法术你只会接收到视觉影像。你可以选择双向传送影像，这样所连接的那面镜子中也会出现你所观看的镜子所映出的影像。<\/p><p>例如，W知道Q在王座厅附近的另一个大厅里有一面镜子。他可以通过自己手持的一面镜子看到大厅中的景象，即使Q并不在那里。同样，他也可以试图通过镜子来尝试寻找Q( 不论她在哪里)；如果此时此刻Q附近有任何的镜子，那么他就可以通过那面镜子看到她。他还可以在施展此法术时尝试观看王座厅的景象，期待会有什么人携带了一面镜子在那里。如果这些条件均不满足，那么W只会看到镜子中自己的镜像。<\/p><p>此法术只会作用在真正的镜子而非镜面上。并不是任何可以反射影像的光滑表面上都会生效，例如平静的池塘表面或抛光的金属盾牌。任何能够阻挡探知法术的效果同样可以阻挡此法术。<\/p>"
+}

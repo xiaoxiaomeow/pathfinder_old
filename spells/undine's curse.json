@@ -1,17 +1,20 @@
 {
     "key": "undine's curse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undine-s-curse/",
     "name": "Undine's Curse",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Undine's%20Curse",
+    "source": ["Advanced Race Guide pg. 179"],
     "school": "necromancy",
     "descriptors":     [
         "curse",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "undine",
     "levels":     {
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "arcanist": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,16 +23,15 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>The target loses its body's natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever unconscious (including sleeping) or unable to take physical actions, it stops breathing, must hold its breath, and might begin to suffocate.. Creatures that do not have to breathe are immune to this spell.<\/p>",
+    "text": "The target loses its body’s natural ability to breathe automatically. As long as it remains conscious and is able to take physical actions, it keeps breathing and is able to function normally. If it is ever unconscious (including sleeping) or unable to take physical actions, it stops breathing, must hold its breath, and might begin to suffocate. Creatures that do not have to breathe are immune to this spell.",
     "name_zh": "水裔诅咒",
     "race_zh": "水元素裔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标的身体失去自动呼吸的本能。只要目标保持清醒并且能够行动，那么他就可以正常呼吸。但是如果他失去意识 (包括睡觉) 或无法行动，那么他就会停止呼吸并且开始窒息。不需要呼吸的生物免疫该法术。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>目标的身体失去自动呼吸的本能。只要目标保持清醒并且能够行动，那么他就可以正常呼吸。但是如果他失去意识 (包括睡觉) 或无法行动，那么他就会停止呼吸并且开始窒息。不需要呼吸的生物免疫该法术。<\/p>"
 }

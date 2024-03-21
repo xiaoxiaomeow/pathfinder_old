@@ -1,21 +1,36 @@
 {
     "key": "darkvision, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/darkvision/",
     "name": "Darkvision, Greater",
-    "base": "darkvision",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Darkvision,%20Greater",
+    "source": ["Ultimate Magic pg. 216"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 4,
         "antipaladin": 4,
+        "arcanist": 4,
+        "hunter": 4,
+        "investigator": 4,
+        "medium": 4,
+        "occultist": 4,
         "psychic": 4,
         "ranger": 4,
-        "sorcerer/wizard": 4
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
-    "text": "<p>This spell functions as <i>darkvision<\/i>, except the target's darkvision has a range of 120 feet.<\/p><\/div>",
+    "components": "V, S, M (either a pinch of dried carrot or an agate)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 hour/level",
+    "savingThrow": "will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions as <i>darkvision<\/i>, except the target’s darkvision has a range of 120 feet.",
     "name_zh": "高等黑暗视觉",
     "castingTime_zh": "标准动作",
-    "text_zh": "<p>施法时间    标准动作<\/p><p>这个法术工作方式如同黑暗视觉 (Darkvision)，不过目标获得的黑暗视觉范围增加到120尺。<\/p>",
-    "source": "UM"
+    "range_zh": "接触",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "will negates (harmless)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>施法时间    标准动作<\/p><p>这个法术工作方式如同黑暗视觉 (Darkvision)，不过目标获得的黑暗视觉范围增加到120尺。<\/p>"
 }

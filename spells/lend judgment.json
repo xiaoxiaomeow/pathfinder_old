@@ -1,8 +1,8 @@
 {
     "key": "lend judgment",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lend-judgment/",
     "name": "Lend Judgment",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lend%20Judgment",
+    "source": ["Ultimate Magic pg. 226"],
     "school": "divination",
     "levels": {"inquisitor": 1},
     "castingTime": "1 standard action",
@@ -12,7 +12,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You create a conduit of divine knowledge and outrage between you and an ally. That ally gains the benefit of one of your active judgments (as do you). If you cannot use a judgment (for example, if you are not in combat, are frightened or unconscious, and so on) or change judgments, the ally loses the benefit of the judgment. If you have multiple judgments active, the ally gains only one, chosen when you cast this spell.<\/p>",
+    "text": "You create a conduit of divine knowledge and outrage between you and an ally. That ally gains the benefit of one of your active judgments (as do you). If you cannot use a judgment (for example, if you are not in combat, are frightened or unconscious, and so on) or change judgments, the ally loses the benefit of the judgment. If you have multiple judgments active, the ally gains only one, chosen when you cast this spell.",
     "name_zh": "传递审判",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，法器",
@@ -21,6 +21,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你在你和盟友之间创建一条渠道，以传递神圣的愤怒和知识。这将使你的盟友获得你的审判所带来的好处 (和你一样)。<\/p><p>如果你不能使用一个审判 (例如你没有进入战斗，或是恐惧或无意识状态，或其他) 或更改审判时，盟友失去你的审判的好处。<\/p><p>如果你同时使用了复数种审判，在施法时选择一种。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你在你和盟友之间创建一条渠道，以传递神圣的愤怒和知识。这将使你的盟友获得你的审判所带来的好处 (和你一样)。<\/p><p>如果你不能使用一个审判 (例如你没有进入战斗，或是恐惧或无意识状态，或其他) 或更改审判时，盟友失去你的审判的好处。<\/p><p>如果你同时使用了复数种审判，在施法时选择一种。<\/p>"
 }

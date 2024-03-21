@@ -1,13 +1,18 @@
 {
     "key": "inflict light wounds",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-light-wounds/",
     "name": "Inflict Light Wounds",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inflict%20Light%20Wounds",
+    "source": ["PRPG Core Rulebook pg. 300"],
     "school": "necromancy",
     "levels":     {
         "antipaladin": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
+        "occultist": 1,
+        "oracle": 1,
         "shaman": 1,
+        "spiritualist": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -17,15 +22,16 @@
     "duration": "instantaneous",
     "savingThrow": "Will half",
     "spellResistance": "yes",
-    "text": "<p>When laying your hand upon a creature, you channel negative energy that deals 1d8 points of damage + 1 point per caster level (maximum +5).<\/p><p>Since undead are powered by negative energy, this spell cures such a creature of a like amount of damage, rather than harming it.<\/p>",
+    "text": "When laying your hand upon a creature, you channel negative energy that deals 1d8 points of damage + 1 point per caster level (maximum +5).<br><br>Since undead are powered by negative energy, this spell cures such a creature of a like amount of damage, rather than harming it.<h2 class=\"title\">Mythic Inflict Light Wounds<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 99<\/i><br>The damage dealt increases to 2d8 points of damage + 2 points per caster level (maximum +10). A living target is sickened for 1 round per caster level (maximum 5 rounds) if it fails its saving throw. ",
+    "mythicSource": ["Mythic Adventures pg. 99"],
+    "mythicText": "The damage dealt increases to 2d8 points of damage + 2 points per caster level (maximum +10). A living target is sickened for 1 round per caster level (maximum 5 rounds) if it fails its saving throw. ",
     "name_zh": "造成轻伤",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志, 通过则减半",
+    "savingThrow_zh": "意志, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你的手放在生物身体上时，你引导负能量造成 {1d8+CL (最高+5)} 点伤害。<\/p><p>由于不死生物由负能量驱动，因此该法术会对不死生物治疗等量的伤害，而不是伤害它们。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>当你的手放在生物身体上时，你引导负能量造成 {1d8+CL (最高+5)} 点伤害。<\/p><p>由于不死生物由负能量驱动，因此该法术会对不死生物治疗等量的伤害，而不是伤害它们。<\/p>"
 }

@@ -1,24 +1,35 @@
 {
     "key": "cloud shape",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloud-shape/",
     "name": "Cloud Shape",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloud%20Shape",
+    "source": ["Advanced Race Guide pg. 160"],
     "school": "transmutation",
     "descriptors": ["air"],
+    "race": "sylph",
     "levels":     {
+        "arcanist": 4,
         "druid": 4,
+        "hunter": 4,
         "ranger": 4,
-        "sorcerer/wizard": 4
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "wizard": 4
     },
+    "castingTime": "1 standard action",
+    "components": "S, M/DF (a bit of gauze and a wisp of smoke)",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level (d)",
-    "text": "<p>This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30 feet. You choose the general appearance of the cloud (white, stormy, fluffy, flat, and so on), after which your appearance cannot be changed. Even the closest inspection cannot reveal that the cloud in question is actually a magically concealed creature. To all normal tests you are, in fact, a cloud, although a detect magic spell reveals a moderate transmutation aura on the cloud. Your fly speed in cloud form is 30 feet.<\/p>",
+    "duration": "10 min./level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>gaseous form<\/i>, except you assume the shape of a Colossal cloud with a space of 30 feet. You choose the general appearance of the cloud (white, stormy, fluffy, flat, and so on), after which your appearance cannot be changed. Even the closest inspection cannot reveal that the cloud in question is actually a magically concealed creature. To all normal tests you are, in fact, a cloud, although a <i>detect magic <\/i>spell reveals a moderate transmutation aura on the cloud. Your fly speed in cloud form is 30 feet.",
     "name_zh": "化云术",
     "race_zh": "风元素裔",
-    "range_zh": "自身",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级 (可解消)",
-    "text_zh": "<p>除了你呈现出30尺范围巨大云雾的形态以外，该法术的功能如同‘气化形体’。你需要选择云雾的大致外观 (白色的，暴雨云状的，蓬松的，扁平的等等)，外观在决定之后无法改变。即使接近检查也无法发现云雾实际上是通过魔法隐蔽的生物。所有通常的调查只能显示你为一团云雾，即使是‘侦测魔法’也只能发现云雾散发着中等变化系灵光。你在云雾形态的飞行速度为30尺。<\/p>",
-    "source": "ARG"
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>除了你呈现出30尺范围巨大云雾的形态以外，该法术的功能如同‘气化形体’。你需要选择云雾的大致外观 (白色的，暴雨云状的，蓬松的，扁平的等等)，外观在决定之后无法改变。即使接近检查也无法发现云雾实际上是通过魔法隐蔽的生物。所有通常的调查只能显示你为一团云雾，即使是‘侦测魔法’也只能发现云雾散发着中等变化系灵光。你在云雾形态的飞行速度为30尺。<\/p>"
 }

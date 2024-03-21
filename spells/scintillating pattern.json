@@ -1,12 +1,17 @@
 {
     "key": "scintillating pattern",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/scintillating-pattern/",
     "name": "Scintillating Pattern",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Scintillating%20Pattern",
+    "source": ["PRPG Core Rulebook pg. 336"],
     "school": "illusion",
-    "subSchool": ["pattern"],
+    "subSchools": ["pattern"],
     "descriptors": ["mind-affecting"],
-    "levels": {"sorcerer/wizard": 8},
-    "domains": {"madness": 8},
+    "levels":     {
+        "arcanist": 8,
+        "psychic": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a crystal prism)",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -14,15 +19,14 @@
     "duration": "concentration + 2 rounds",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>A twisting pattern of coruscating colors weaves through the air, affecting creatures within. The spell affects a total number of HD of creatures equal to your caster level (maximum 20). Creatures with the fewest HD are affected first, and among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. The spell affects each subject according to its HD.<\/p>",
+    "text": "A twisting pattern of coruscating colors weaves through the air, affecting creatures within. The spell affects a total number of HD of creatures equal to your caster level (maximum 20). Creatures with the fewest HD are affected first, and among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. The spell affects each subject according to its HD.<br><br><i>6 or less<\/i>: Unconscious for 1d4 rounds, then stunned for 1d4 rounds, and then <i>confused<\/i> for 1d4 rounds. (Treat an unconscious result as stunned for nonliving creatures.)<br><br><i>7 to 12<\/i>: Stunned for 1d4 rounds, then <i>confused<\/i> for an additional 1d4 rounds.<br><br><i>13 or more<\/i>: <i>Confused<\/i> for 1d4 rounds.<br><br>Sightless creatures are not affected by <i>scintillating pattern<\/i>.",
     "name_zh": "闪光图纹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一个水晶棱柱)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "20尺半径扩散区域内的多彩光芒",
     "duration_zh": "专注 + 2轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>不协调的光芒组成扭曲的图纹，闪烁的色彩在空气中跃动，影响着在其内的生物。该法术影响生物的HD总数等于你的CL (最多20)。HD最少的生物最先被影响；对于HD相等的生物来说，最靠近法术源发点的生物较先被影响。不足以影响一个生物的HD被浪费了。对每个受术者来说，法术的影响和它的HD有关。<\/p><p>6以下：昏迷1d4轮，之后震慑1d4轮，接下来困惑1d4轮 (对非活物来说，昏迷视同为震慑)。<\/p><p>7 – 12：震慑1d4轮，接下来困惑1d4轮。<\/p><p>13以上：困惑1d4轮。<\/p><p>无视力的生物不受闪光图纹影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>不协调的光芒组成扭曲的图纹，闪烁的色彩在空气中跃动，影响着在其内的生物。该法术影响生物的HD总数等于你的CL (最多20)。HD最少的生物最先被影响；对于HD相等的生物来说，最靠近法术源发点的生物较先被影响。不足以影响一个生物的HD被浪费了。对每个受术者来说，法术的影响和它的HD有关。<\/p><p>6以下：昏迷1d4轮，之后震慑1d4轮，接下来困惑1d4轮 (对非活物来说，昏迷视同为震慑)。<\/p><p>7 – 12：震慑1d4轮，接下来困惑1d4轮。<\/p><p>13以上：困惑1d4轮。<\/p><p>无视力的生物不受闪光图纹影响。<\/p>"
 }

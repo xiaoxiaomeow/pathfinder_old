@@ -1,21 +1,22 @@
 {
     "key": "snare",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/snare/",
     "name": "Snare",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Snare",
+    "source": ["PRPG Core Rulebook pg. 344"],
     "school": "transmutation",
     "levels":     {
         "druid": 3,
+        "hunter": 2,
         "ranger": 2
     },
-    "subdomains": {"trap": 2},
     "castingTime": "3 rounds",
     "components": "V, S, DF",
     "range": "touch",
-    "target": "touched nonmagical circle of vine, rope, or thong with a 2ft. diameter + 2ft./level",
+    "target": "touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level",
     "duration": "until triggered or broken",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell enables you to make a snare that functions as a magic trap. The snare can be made from any supple vine, a thong, or a rope. When you cast <i>snare<\/i> upon it, the cord-like object blends with its surroundings (DC 23 Perception check for a character with the trapfinding ability to locate). One end of the snare is tied in a loop that contracts around one or more of the limbs of any creature stepping inside the circle. If a strong and supple tree is nearby, the snare can be fastened to it. The spell causes the tree to bend, straightening when the loop is triggered, dealing 1d6 points of damage to the creature trapped and lifting it off the ground by the trapped limb or limbs. If no such tree is available, the cord-like object tightens around the creature, dealing no damage but causing it to be entangled.<\/p><p>The snare is magical. To escape, a trapped creature must make a DC 23 Escape Artist check or a DC 23 Strength check that is a full-round action. The snare has AC 7 and 5 hit points. A successful escape from the snare breaks the loop and ends the spell.<\/p>",
+    "text": "This spell enables you to make a snare that functions as a magic trap. The snare can be made from any supple vine, a thong, or a rope. When you cast snare upon it, the cordlike object blends with its surroundings (DC 23 Perception check for a character with the trapfinding ability to locate). One end of the snare is tied in a loop that contracts around one or more of the limbs of any creature stepping inside the circle.<br><br>If a strong and supple tree is nearby, the snare can be fastened to it. The spell causes the tree to bend, straightening when the loop is triggered, dealing 1d6 points of damage to the creature trapped and lifting it off the ground by the trapped limb or limbs. If no such tree is available, the cordlike object tightens around the creature, dealing no damage but causing it to be entangled.<br><br>The snare is magical. To escape, a trapped creature must make a DC 23 Escape Artist check or a DC 23 Strength check that is a full-round action. The snare has AC 7 and 5 hit points. A successful escape from the snare breaks the loop and ends the spell.",
     "name_zh": "圈套术",
     "castingTime_zh": "3轮",
     "components_zh": "语言, 姿势, 法器",
@@ -24,6 +25,5 @@
     "duration_zh": "直至触发 或 损毁",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术能做出一个可作为魔法陷阱的圈套。它可以利用任何藤蔓、皮带或绳索制成。当你施展圈套术时，环状物体会和环境融为一体，具有【寻找陷阱】能力的角色需要进行DC 23的察觉检定才能定位它。一旦任何生物步入圈内，圈套的一端就会紧紧地缠住该生物的一个或多个肢体上。<\/p><p>如果周围有坚韧的大树，圈套可系于其上。法术可以将树木弯曲，而当圈套触发时树木又会弹直，从而对被陷阱困住的生物造成1d6点伤害，并且由于它的肢体被缠住，它还会被拽离地面。如果环状物体收紧时周围没有合适的树木，则生物不受伤害，但是他会被纠缠。<\/p><p>圈套附有魔法。为了逃离陷阱，被困住的生物需用一个整轮动作进行脱逃或力量检定，DC均为23。圈套的AC为7, HP为5。生物成功逃脱后，陷阱即遭破坏，法术随之结束。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术能做出一个可作为魔法陷阱的圈套。它可以利用任何藤蔓、皮带或绳索制成。当你施展圈套术时，环状物体会和环境融为一体，具有【寻找陷阱】能力的角色需要进行DC 23的察觉检定才能定位它。一旦任何生物步入圈内，圈套的一端就会紧紧地缠住该生物的一个或多个肢体上。<\/p><p>如果周围有坚韧的大树，圈套可系于其上。法术可以将树木弯曲，而当圈套触发时树木又会弹直，从而对被陷阱困住的生物造成1d6点伤害，并且由于它的肢体被缠住，它还会被拽离地面。如果环状物体收紧时周围没有合适的树木，则生物不受伤害，但是他会被纠缠。<\/p><p>圈套附有魔法。为了逃离陷阱，被困住的生物需用一个整轮动作进行脱逃或力量检定，DC均为23。圈套的AC为7, HP为5。生物成功逃脱后，陷阱即遭破坏，法术随之结束。<\/p>"
 }

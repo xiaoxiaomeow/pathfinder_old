@@ -1,25 +1,30 @@
 {
     "key": "sculpt corpse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-corpse/",
     "name": "Sculpt Corpse",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sculpt%20Corpse",
+    "source": ["Advanced Player's Guide pg. 241"],
     "school": "necromancy",
-    "levels": {"sorcerer/wizard": 1},
+    "levels":     {
+        "arcanist": 1,
+        "occultist": 1,
+        "sorcerer": 1,
+        "wizard": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (lump of wax)",
     "range": "touch",
+    "target": "one dead creature touched",
     "duration": "instantaneous",
-    "savingThrow": "Will partial",
+    "savingThrow": "Will partial, see text",
     "spellResistance": "no",
-    "text": "<p>With a clammy caress and a word to the powers lurking beyond death, you can reshape a dead body look like another creature or even a specific person so long as you have firsthand knowledge of how that creature or person actually looks.<\/p><p>You can make the corpse one size larger or smaller and change anything else about it including its apparent type, gender, or age. Creatures with a reason to suspect deception may make a Will Saving Throw to realize that the corpse was altered. If you chose to make the corpse look like a specific individual anyone who knows that individual can make a Will save to realize that the corpse is not actually that person. However, if a creature fails its Will save by 5 or less they believe the corpse is that of someone who closely resembled the person they knew rather than a deliberate fake. This spell merely changes the appearance of the corpse. Any spell or effect that targets the corpse (such as <i>speak with dead<\/i> or <i>raise dead<\/i>) treats it as if it still had its original appearance.<\/p>",
+    "text": "With a clammy caress and a word to the powers lurking beyond death, you can reshape a dead body look like another creature or even a specific person so long as you have first-hand knowledge of how that creature or person actually looks. You can make the corpse one size larger or smaller and change anything else about it including its apparent type, gender, or age. Creatures with a reason to suspect deception may make a Will saving throw to realize that the corpse was altered. If you chose to make the corpse look like a specific individual anyone who knows that individual can make a Will save to realize that the corpse is not actually that person. However, if a creature fails its Will save by 5 or less they believe the corpse is that of someone who closely resembled the person they knew rather than a deliberate fake. This spell merely changes the appearance of the corpse. Any spell or effect that targets the corpse (such as <i>speak with dead <\/i>or <i>raise dead<\/i>) treats it as if it still had its original appearance.",
     "name_zh": "尸体重塑",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块蜡)",
     "range_zh": "接触",
     "target_zh": "接触到的一名死亡的生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志, 通过则部分生效",
+    "savingThrow_zh": "意志, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>通过一次冰冷的触摸，加上一个拥有足矣隐藏死亡之力的咒文，你能够重塑一具尸体，使其看上去像是另一个生物，甚至是某个特定的人物——只要你拥有关于该名生物或者人实际样貌的第一手资料。你可以使尸体的体型增大或变小1级，并且可以改变尸体的一切——包括外观的类型 (apparent type)，性别或年龄。拥有理由怀疑这种改变的生物可以进行一次成功的意志豁免发现尸体被重塑了。如果你选择将尸体弄得看起来想某个具体的人，那么了解这个特定人物的生物可以进行一次成功的意志豁免发现这不是本人。此外如果一名生物在意志豁免中失败5点或更少的话，则会相信尸体是与他们所知的那个特定人物的外貌十分相似的某人，而非刻意的伪装。该法术只会改变尸体的外观。任何以尸体为目标的法术或效果 (比如死者交谈或者死者复活) 会视其仍为原本的样子。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>通过一次冰冷的触摸，加上一个拥有足矣隐藏死亡之力的咒文，你能够重塑一具尸体，使其看上去像是另一个生物，甚至是某个特定的人物——只要你拥有关于该名生物或者人实际样貌的第一手资料。你可以使尸体的体型增大或变小1级，并且可以改变尸体的一切——包括外观的类型 (apparent type)，性别或年龄。拥有理由怀疑这种改变的生物可以进行一次成功的意志豁免发现尸体被重塑了。如果你选择将尸体弄得看起来想某个具体的人，那么了解这个特定人物的生物可以进行一次成功的意志豁免发现这不是本人。此外如果一名生物在意志豁免中失败5点或更少的话，则会相信尸体是与他们所知的那个特定人物的外貌十分相似的某人，而非刻意的伪装。该法术只会改变尸体的外观。任何以尸体为目标的法术或效果 (比如死者交谈或者死者复活) 会视其仍为原本的样子。<\/p>"
 }

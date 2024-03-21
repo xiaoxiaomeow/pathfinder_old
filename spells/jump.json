@@ -1,27 +1,33 @@
 {
     "key": "jump",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/j/jump/",
     "name": "Jump",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jump",
+    "source": ["PRPG Core Rulebook pg. 303"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 1,
+        "arcanist": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
+        "investigator": 1,
         "magus": 1,
         "psychic": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1,
-        "summoner/unchained summoner": 1
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a grasshopper's hind leg)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min./level (d)",
+    "duration": "1 min./level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>The subject gets a +10 enhancement bonus on Acrobatics checks made to attempt high jumps or long jumps. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.<\/p>",
+    "text": "The subject gets a +10 enhancement bonus on Acrobatics checks made to attempt high jumps or long jumps. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.",
     "name_zh": "跳跃术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (蚱蜢的后腿)",
@@ -30,6 +36,5 @@
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在尝试跳高或跳远时，受术者的特技检定获得+10增强加值。当CL到达5时，增强加值增加至+20点。当CL到达9时，增强加值增加至+30点 (最高)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>在尝试跳高或跳远时，受术者的特技检定获得+10增强加值。当CL到达5时，增强加值增加至+20点。当CL到达9时，增强加值增加至+30点 (最高)。<\/p>"
 }

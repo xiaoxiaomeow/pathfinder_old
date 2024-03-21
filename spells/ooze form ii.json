@@ -1,18 +1,27 @@
 {
     "key": "ooze form ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/ooze-form/",
     "name": "Ooze Form II",
-    "base": "ooze form",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ooze%20Form%20II",
+    "source": ["Ultimate Wilderness pg. 233"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
+        "arcanist": 6,
+        "investigator": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as ooze form I except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.<\/p><p style=\"padding-left: 30px\"><b>Large Ooze<\/b>: If you assume this form, you gain a +2 size bonus to your Strength score, a +8 size bonus to your Constitution score, a slam attack (2d4 plus 1d6 acid and grab), and constrict (2d4), and you take a –8 penalty to your Dexterity score.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a bit of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "This spell functions as <i>ooze form I<\/i> except you can also assume the form of a Large ooze. You gain blindsight 30 feet and immunity to critical hits and precision damage as well.<br><br> <b>Large Ooze<\/b>: If you assume this form, you gain a +2 size bonus to your Strength score, a +8 size bonus to your Constitution score, a slam attack (2d4 plus 1d6 acid and grab), and constrict (2d4), and you take a –8 penalty to your Dexterity score.",
     "name_zh": "泥怪形态 II",
-    "text_zh": "<p>这种法术如同泥怪形状 I，除了你还能获得大型泥怪的形态。你获得30英尺的盲视，免疫重击和精准伤害。\n大型泥怪：如果你获得这种形态，你在力量属性上得到+2体型加值，在体质上得到+8的体型奖励，一个挥击伤害（2d4+1d6强酸和擒抱），和紧勒（2d4），并在敏捷属性上受到-8惩罚。<\/p>",
-    "source": "UW"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这种法术如同泥怪形状 I，除了你还能获得大型泥怪的形态。你获得30英尺的盲视，免疫重击和精准伤害。<\/p><p>大型泥怪：如果你获得这种形态，你在力量属性上得到+2体型加值，在体质上得到+8的体型奖励，一个挥击伤害（2d4+1d6强酸和擒抱），和紧勒（2d4），并在敏捷属性上受到-8惩罚。<\/p>"
 }

@@ -1,18 +1,28 @@
 {
     "key": "true resurrection",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/true-resurrection/",
     "name": "True Resurrection",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Resurrection",
+    "source": ["PRPG Core Rulebook pg. 362"],
     "school": "conjuration",
-    "subSchool": ["healing"],
-    "levels": {"cleric/oracle": 9},
-    "subdomains": {"resurrection": 9},
-    "mysteries": {"life": 9},
+    "subSchools": ["healing"],
+    "levels":     {
+        "cleric": 9,
+        "oracle": 9
+    },
     "castingTime": "10 minutes",
-    "components": "V, S, M, DF (diamond worth 25,000 gp)",
-    "text": "<p>This spell functions like <i>raise dead<\/i>, except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased's time and place of birth or death is the most common method).<\/p><p>Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no negative levels (or <i>loss of*<\/i> Constitution points) and all of the prepared spells possessed by the creature when it died.<\/p><p>You can revive someone killed by a death effect or someone who has been turned into an undead creature and then destroyed. This spell can also resurrect elementals or outsiders, but it can't resurrect constructs or undead creatures.<\/p><p>Even <i>true resurrection<\/i> can't restore to life a creature who has died of old age.<\/p>",
+    "components": "V, S, DF, M (diamond worth 25,000 gp)",
+    "range": "touch",
+    "target": "dead creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "none, see text",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>raise dead<\/i>, except that you can resurrect a creature that has been dead for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased's time and place of birth or death is the most common method).<br><br>Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no negative levels (or Constitution points) and all of the prepared spells possessed by the creature when it died.<br><br>You can revive someone killed by a death effect or someone who has been turned into an undead creature and then destroyed. This spell can also resurrect elementals or outsiders, but it can't resurrect constructs or undead creatures.<br><br>Even <i>true resurrection<\/i> can't restore to life a creature who has died of old age.",
     "name_zh": "完全复生术",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 材料, 法器 (价值25000gp的钻石)",
-    "text_zh": "<p>该法术的功能和‘<a href=\"spell.html?spell=raise dead\">死者复活 (raise dead)<\/a>’一样，但你可复活死亡时间不超过每CL 10年的生物。本法术甚至可以复活尸体已经毁坏的生物，只要你可以用某些方式明确指认死者 (最常用的方法是指出死者的出生或死亡时间地点)。<\/p><p>法术完成后，该生物的HP恢复到最大，健康而充满活力，不会有负向等级 (或损失体质)，也不会失去死亡时已准备好的所有法术。<\/p><p>你可以复活因即死效果而死的生物，或是被变成不死生物后被摧毁的生物。本法术可以复活元素生物和异界生物，但不可以复活构造生物和不死生物。<\/p><p>即便是完全复生术也不可以复活因年迈而自然死亡的生物。<\/p>",
-    "source": "CRB"
+    "range_zh": "接触",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无, 见文本",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术的功能和‘<a href=\"spell.html?spell=raise dead\">死者复活 (raise dead)<\/a>’一样，但你可复活死亡时间不超过每CL 10年的生物。本法术甚至可以复活尸体已经毁坏的生物，只要你可以用某些方式明确指认死者 (最常用的方法是指出死者的出生或死亡时间地点)。<\/p><p>法术完成后，该生物的HP恢复到最大，健康而充满活力，不会有负向等级 (或损失体质)，也不会失去死亡时已准备好的所有法术。<\/p><p>你可以复活因即死效果而死的生物，或是被变成不死生物后被摧毁的生物。本法术可以复活元素生物和异界生物，但不可以复活构造生物和不死生物。<\/p><p>即便是完全复生术也不可以复活因年迈而自然死亡的生物。<\/p>"
 }

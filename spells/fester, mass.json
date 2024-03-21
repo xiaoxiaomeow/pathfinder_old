@@ -1,17 +1,27 @@
 {
     "key": "fester, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fester/",
     "name": "Fester, Mass",
-    "base": "fester",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fester,%20Mass",
+    "source": ["Advanced Player's Guide pg. 221"],
     "school": "necromancy",
     "levels":     {
         "inquisitor": 6,
         "witch": 6
     },
-    "text": "<p>This spell functions as <i>fester<\/i>, except that it affects multiple foes.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (rotted meat)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level or 1 round; see text",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>fester<\/i>, except that it affects multiple foes.",
     "name_zh": "群体死疽",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级1名生物，任意两名之间的距离不得超过30尺",
-    "text_zh": "<p>该法术的功能如同死疽 (Fester)，不过它可以影响复数敌人。<\/p>",
-    "source": "APG"
+    "duration_zh": "1轮/等级 或 1轮; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同死疽 (Fester)，不过它可以影响复数敌人。<\/p>"
 }

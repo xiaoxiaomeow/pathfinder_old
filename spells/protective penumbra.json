@@ -1,26 +1,30 @@
 {
     "key": "protective penumbra",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protective-penumbra/",
     "name": "Protective Penumbra",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protective%20Penumbra",
+    "source": ["Ultimate Magic pg. 233"],
     "school": "evocation",
     "descriptors": ["darkness"],
     "levels":     {
-        "cleric/oracle": 2,
+        "arcanist": 2,
+        "cleric": 2,
         "occultist": 2,
+        "oracle": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "witch": 2
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
-    "components": "V, S",
+    "components": "V, S,",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>This spell keeps the target slightly in shadow. A target with light blindness, light sensitivity, or vulnerability to sunlight (such as vampires and wraiths) may ignore penalties from those qualities. The spell gives the target a +2 bonus on saving throws against nonmagical hazards related to bright light, such as glare or sunburn.<\/p>",
+    "text": "This spell keeps the target slightly in shadow. A target with light blindness, light sensitivity, or vulnerability to sunlight (such as vampires and wraiths) may ignore penalties from those qualities. The spell gives the target a +2 bonus on saving throws against nonmagical hazards related to bright light, such as glare or sunburn.",
     "name_zh": "防护之影",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -29,6 +33,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>这个法术让目标被一层薄薄的阴影覆盖。<\/p><p>那些在光线下失明，对光过敏，或是在阳光下变得脆弱的 (如吸血鬼和鬼魂) 生物可以忽略这些因素带来的惩罚。<\/p><p>该法术同时能让目标在对抗非魔法明亮效果的危害时 (如眩光或晒伤) 豁免检定获得+2加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术让目标被一层薄薄的阴影覆盖。<\/p><p>那些在光线下失明，对光过敏，或是在阳光下变得脆弱的 (如吸血鬼和鬼魂) 生物可以忽略这些因素带来的惩罚。<\/p><p>该法术同时能让目标在对抗非魔法明亮效果的危害时 (如眩光或晒伤) 豁免检定获得+2加值。<\/p>"
 }

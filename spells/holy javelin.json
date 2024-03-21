@@ -1,15 +1,17 @@
 {
     "key": "holy javelin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-javelin/",
     "name": "Holy Javelin",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Holy%20Javelin",
+    "source": ["Horror Adventures pg. 119"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["good"],
     "levels":     {
         "cleric": 3,
         "inquisitor": 3,
-        "paladin": 2
+        "oracle": 3,
+        "paladin": 2,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -18,15 +20,14 @@
     "duration": "1 round + 1 round/4 levels",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You create a shimmering javelin of holy energy to hurl at an enemy as a ranged touched attack. The javelin deals 1d6 points of damage to an evil creature on a successful attack; it dissipates harmlessly against creatures of any other alignment. Each time a creature starts its turn while impaled by the javelin, it takes another 1d6 points of damage. For every 4 caster levels you have, the javelin remains in the creature for an additional round (to a maximum of 5 rounds at 18th level). While the creature remains impaled, it takes a –2 penalty on attack rolls and skill checks.<\/p><p>As a move action, the creature (or another adjacent creature) can attempt to pull the javelin out (causing it to immediately disappear) with a DC 12 Strength check.<\/p><p>The holy javelin glows like a torch, and this light clearly indicates the impaled creature's location, even if it turns invisible. Since this light is not a light effect, just the glow of a conjured javelin, darkness spells always suppress it, even if they are lower level.<\/p>",
+    "text": "You create a shimmering javelin of holy energy to hurl at an enemy as a ranged touched attack. The javelin deals 1d6 points of damage to an evil creature on a successful attack; it dissipates harmlessly against creatures of any other alignment. Each time a creature starts its turn while impaled by the javelin, it takes another 1d6 points of damage. For every 4 caster levels you have, the javelin remains in the creature for an additional round (to a maximum of 5 rounds at 18th level). While the creature remains impaled, it takes a –2 penalty on attack rolls and skill checks. As a move action, the creature (or another adjacent creature) can attempt to pull the javelin out (causing it to immediately disappear) with a DC 12 Strength check.<br><br> The <i>holy javelin<\/i> glows like a torch, and this light clearly indicates the impaled creature’s location, even if it turns invisible. Since this light is not a light effect, just the glow of a conjured javelin, darkness spells always suppress it, even if they are lower level. ",
     "name_zh": "圣洁标枪",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "一根含有神圣能量的标枪",
     "duration_zh": "1轮 + 1轮/4等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造一把由神圣能量所制，闪烁着光芒的标枪，以远程接触攻击来猛力投向你的敌人。成功命中一位邪恶生物后，这把标枪造成1d6点伤害，在对抗任何其他阵营的生物，它将会无害地消散。被标枪所穿刺的生物，在他的回合开始时，会受到另一次1d6点伤害。你每有4个施法者等级，此标枪在该生物身上多保持一轮(最多在18等时保持五轮)。保持被穿刺状态的生物，会在所有攻击骰与技能检定上承受-2的减值。以一个移动动作，该生物(或另一个与他乡临的生物)可以尝试透过DC12的力量检定将此标枪拔出(这样做标枪会立即消失)。\n圣洁标枪像火炬般发光，并且这光清晰的指示出被标枪穿刺着的生物的位置，就算该生物是不可见的。这光并不是光亮效果，只是一根被唤出且会发光的标枪，黑暗法术总是能够压制它，就算这些黑暗法术比圣洁标枪更低环。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你创造一把由神圣能量所制，闪烁着光芒的标枪，以远程接触攻击来猛力投向你的敌人。成功命中一位邪恶生物后，这把标枪造成1d6点伤害，在对抗任何其他阵营的生物，它将会无害地消散。被标枪所穿刺的生物，在他的回合开始时，会受到另一次1d6点伤害。你每有4个施法者等级，此标枪在该生物身上多保持一轮(最多在18等时保持五轮)。保持被穿刺状态的生物，会在所有攻击骰与技能检定上承受-2的减值。以一个移动动作，该生物(或另一个与他乡临的生物)可以尝试透过DC12的力量检定将此标枪拔出(这样做标枪会立即消失)。<\/p><p>圣洁标枪像火炬般发光，并且这光清晰的指示出被标枪穿刺着的生物的位置，就算该生物是不可见的。这光并不是光亮效果，只是一根被唤出且会发光的标枪，黑暗法术总是能够压制它，就算这些黑暗法术比圣洁标枪更低环。<\/p>"
 }

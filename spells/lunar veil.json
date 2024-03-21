@@ -1,37 +1,39 @@
 {
     "key": "lunar veil",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lunar-veil/",
     "name": "Lunar Veil",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lunar%20Veil",
+    "source": ["Ultimate Magic pg. 227"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors":     [
         "darkness",
         "shadow"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 7,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "arcanist": 7,
+        "cleric": 7,
+        "oracle": 7,
+        "psychic": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "mysteries": {"lunar": 7},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "long (400 ft. + 40 ft./level)",
     "area": "120-ft.-radius emanation",
-    "duration": "10 min./level",
+    "duration": "10 minute/level",
     "savingThrow": "Will negates, see text",
     "spellResistance": "no",
-    "text": "<p>You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike deeper darkness, areas of normal light or dimmer become normal darkness rather than supernaturally dark). Lycanthropes in the area must make a Will save every round or revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.<\/p>",
+    "text": "You conjure a tremendous area of shadow to obscure moonlight within the area, creating something akin to a lunar eclipse. The light level is lowered by two steps (though unlike <i>deeper darkness<\/i>, areas of normal light or dimmer become normal darkness rather than supernaturally dark). Lycanthropes in the area must make a Will save every round or revert to their humanoid forms. In addition, lycanthropes attempting to assume animal or hybrid form within the affected area take a –5 penalty on Constitution checks to do so.",
     "name_zh": "月光面纱",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "area_zh": "120尺半径发散范围",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "意志，通过则无效；见下文",
+    "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一片巨大的阴影以在范围内遮挡月光，这种效果类似月蚀。<\/p><p>区域内的光照水平下降两个等级 (不过不同于深幽黑暗术 (deeper darkness)，区域内的正常照明和昏暗照明视同自然黑暗而非超自然黑暗)。<\/p><p>在该区域内的所有兽化人必须每轮进行一次意志检定，否则就会恢复人形态。<\/p><p>此外，区域内的兽化人如果试图转化为兽化形态或半兽化形态，在这么做时体质检定将有-5罚值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你创造了一片巨大的阴影以在范围内遮挡月光，这种效果类似月蚀。<\/p><p>区域内的光照水平下降两个等级 (不过不同于深幽黑暗术 (deeper darkness)，区域内的正常照明和昏暗照明视同自然黑暗而非超自然黑暗)。<\/p><p>在该区域内的所有兽化人必须每轮进行一次意志检定，否则就会恢复人形态。<\/p><p>此外，区域内的兽化人如果试图转化为兽化形态或半兽化形态，在这么做时体质检定将有-5罚值。<\/p>"
 }

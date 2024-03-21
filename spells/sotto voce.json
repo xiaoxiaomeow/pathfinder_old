@@ -1,36 +1,40 @@
 {
     "key": "sotto voce",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sotto-voce/",
     "name": "Sotto Voce",
-    "book": "Pathfinder Chronicles: Faction Guide © 2010, Paizo Publishing, LLC",
-    "school": "<b>School<\/b> necromancy",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sotto%20Voce",
+    "source": ["Faction Guide pg. 61"],
+    "school": "necromancy",
     "descriptors":     [
         "fear",
         "mind-affecting",
         "sonic"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 0,
         "bard": 1,
-        "cleric/oracle": 0,
-        "sorcerer/wizard": 0
+        "cleric": 0,
+        "oracle": 0,
+        "skald": 1,
+        "sorcerer": 0,
+        "warpriest": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
-    "components": "V, S",
+    "components": "V",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one humanoid creature of 4 HD or less",
     "duration": "1 round",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be shaken for 1 round.<\/p><p>This spell originated among the followers of the an undeath cult, but necromancers and other intimidating folk outside that group are known to use it.<\/p>",
+    "text": "Your dry, rasping whisper fills a living creature of 4 or fewer Hit Dice with unnatural dread. The affected creature must make a Will save or be shaken for 1 round.<br><br>This spell originated among the followers of the Whispering Way, but necromancers and other intimidating folk outside that group are known to use it.",
     "name_zh": "柔声倾诉",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个4HD或更少的人型生物",
-    "duration_zh": "一轮",
+    "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你瘖沙、刺耳的耳语填充满溢，使一个4HD或更少的活物陷入不自然的恐惧中。受影响的生物必须通过意志豁免，否则陷入战栗(shaken)一轮。\n此法术起源于默语魔道(Whispering Way)的追随者，但非该组织的死灵法师以及其他令人恐惧的人们也精于此术。<\/p>",
-    "source": "CS-FG"
+    "text_zh": "<p>你瘖沙、刺耳的耳语填充满溢，使一个4HD或更少的活物陷入不自然的恐惧中。受影响的生物必须通过意志豁免，否则陷入战栗(shaken)一轮。<\/p><p>此法术起源于默语魔道(Whispering Way)的追随者，但非该组织的死灵法师以及其他令人恐惧的人们也精于此术。<\/p>"
 }

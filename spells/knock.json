@@ -1,16 +1,19 @@
 {
     "key": "knock",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/knock/",
     "name": "Knock",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Knock",
+    "source": ["PRPG Core Rulebook pg. 303"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "inquisitor": 2,
         "medium": 2,
         "mesmerist": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -19,15 +22,16 @@
     "duration": "instantaneous; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<table border=\"1\" cellpadding=\"5\">   <thead>    <tr>     <th class=\"text\">Lock Quality<\/th>     <th class=\"text\">DC<\/th>    <\/tr>   <\/thead>   <tbody>    <tr>     <td class=\"text\">Simple<\/td>     <td class=\"number\">20<\/td>    <\/tr>    <tr>     <td class=\"text\">Average<\/td>     <td class=\"number\">25<\/td>    <\/tr>    <tr>     <td class=\"text\">Good<\/td>     <td class=\"number\">30<\/td>    <\/tr>    <tr>     <td class=\"text\">Amazing<\/td>     <td class=\"number\">40<\/td>    <\/tr>   <\/tbody>  <\/table><p><i>Knock<\/i> opens stuck, barred, or locked doors, as well as those subject to hold portal or arcane lock. When you complete the casting of this spell, make a caster level check against the DC of the lock (see table at right) with a +10 bonus. If successful, <i>knock<\/i> opens up to two means of closure. This spell opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold something shut). If used to open an arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. <i>Knock<\/i> does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each casting can undo as many as two means of preventing access.<\/p>",
+    "text": "<i>Knock<\/i> opens stuck, barred, or locked doors, as well as those subject to <i>hold portal<\/i> or <i>arcane lock<\/i>. When you complete the casting of this spell, make a caster level check against the DC of the lock with a +10 bonus. If successful, <i>knock<\/i> opens up to two means of closure. This spell opens secret doors, as well as locked or trick-opening boxes or chests. It also loosens welds, shackles, or chains (provided they serve to hold something shut). If used to open an <i>arcane locked<\/i> door, the spell does not remove the <i>arcane lock<\/i> but simply suspends its functioning for 10 minutes. In all other cases, the door does not relock itself or become stuck again on its own. <i>Knock<\/i> does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like. The effect is limited by the area. Each casting can undo as many as two means of preventing access.<h2 class=\"title\">Mythic Knock<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 99<\/i><br>The spell unlocks up to three means of closure instead of two. The spell automatically opens locks of simple or average quality, without requiring a caster level check to do so). If used on a door locked with <i>arcane lock<\/i>, you can attempt a free dispel check against it as if using a targeted <i>dispel magic<\/i>, adding your tier to the check. <br><br><b>Augmented (3rd)<\/b>: You can expend two uses of mythic power to target one locked item per tier, unlocking up to four means of closure on each, allowing a free dispel against an <i>arcane lock<\/i> on each, and automatically opening locks of up to good quality (no caster level check needed).<br><br> If the door has a trap that triggers when opened, you become aware of the trap and its general nature, and the door is unlocked but doesn’t automatically open.<br><br> The spell can raise a barred gate, portcullis, or similar impediment, but each one counts as two locked doors. ",
+    "mythicSource": ["Mythic Adventures pg. 99"],
+    "mythicText": "The spell unlocks up to three means of closure instead of two. The spell automatically opens locks of simple or average quality, without requiring a caster level check to do so). If used on a door locked with <i>arcane lock<\/i>, you can attempt a free dispel check against it as if using a targeted <i>dispel magic<\/i>, adding your tier to the check. <br><br><b>Augmented (3rd)<\/b>: You can expend two uses of mythic power to target one locked item per tier, unlocking up to four means of closure on each, allowing a free dispel against an <i>arcane lock<\/i> on each, and automatically opening locks of up to good quality (no caster level check needed).<br><br> If the door has a trap that triggers when opened, you become aware of the trap and its general nature, and the door is unlocked but doesn’t automatically open.<br><br> The spell can raise a barred gate, portcullis, or similar impediment, but each one counts as two locked doors. ",
     "name_zh": "敲击术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一扇门, 一个箱子或盒子, 面积至多为每等级10平方尺",
-    "duration_zh": "立即; 见后文",
+    "duration_zh": "立即; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>敲击术可以打开被卡住、闩住、锁住、封住以及被‘<a href=\"spell.html?spell=arcane lock\">秘法锁 (arcane lock)<\/a>’锁住的门。当你施放完该法术是，进行一次施法者等级检定对抗锁的DC，你在这次检定中具有+10加值。若成功，敲击术会打开两个阻碍打开的手段。该法术可以打开密门，也可以打开上锁的盒子或密件箱。也可以用来松开焊缝、镣铐或者锁链 (前提是它们保持闭合状态)。若使用该法术打开被秘法锁锁着的门，那么法术并不会移除秘法锁，只是使其在10分钟内失去作用。在所有其他的情况下，被打开的门都不会自行再次锁住或是卡住。敲击术不能使抬起木栅城门或者类似的障碍 (例如铁闸门)，它也不能影响绳索、藤蔓之类的东西。法术效果受法术区域的限制。每次施法可以移除至多两种阻碍门打开的原因。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>敲击术可以打开被卡住、闩住、锁住、封住以及被‘<a href=\"spell.html?spell=arcane lock\">秘法锁 (arcane lock)<\/a>’锁住的门。当你施放完该法术是，进行一次施法者等级检定对抗锁的DC，你在这次检定中具有+10加值。若成功，敲击术会打开两个阻碍打开的手段。该法术可以打开密门，也可以打开上锁的盒子或密件箱。也可以用来松开焊缝、镣铐或者锁链 (前提是它们保持闭合状态)。若使用该法术打开被秘法锁锁着的门，那么法术并不会移除秘法锁，只是使其在10分钟内失去作用。在所有其他的情况下，被打开的门都不会自行再次锁住或是卡住。敲击术不能使抬起木栅城门或者类似的障碍 (例如铁闸门)，它也不能影响绳索、藤蔓之类的东西。法术效果受法术区域的限制。每次施法可以移除至多两种阻碍门打开的原因。<\/p>"
 }

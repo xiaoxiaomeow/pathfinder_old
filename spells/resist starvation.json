@@ -1,12 +1,13 @@
 {
     "key": "resist starvation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resist-starvation/",
     "name": "Resist Starvation",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Resist%20Starvation",
+    "source": ["Villain Codex pg. 21"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
+        "oracle": 1,
         "shaman": 1,
         "warpriest": 1
     },
@@ -17,7 +18,7 @@
     "duration": "1 day/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>If the target doesn't eat on the day this spell is cast on it, the DC to avoid taking nonlethal damage from starvation on the following day doesn't increase by 1. This spell fails if the target hasn't already attempted at least one Constitution check to avoid starvation.<\/p>",
+    "text": "If the target doesn’t eat on the day this spell is cast on it, the DC to avoid taking nonlethal damage from starvation on the following day doesn’t increase by 1. This spell fails if the target hasn’t already attempted at least one Constitution check to avoid starvation.",
     "name_zh": "抵抗饥饿",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (食物碎屑)",
@@ -26,6 +27,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>如果一个目标在被施放此法术时的那天并未进食，第二天在避免因为饥饿而受到非致命伤害的DC不会增加1。如果目标并没有尝试过至少1次的体质检定来避免饥饿的话，此法术失败。<\/p>",
-    "source": "VC"
+    "text_zh": "<p>如果一个目标在被施放此法术时的那天并未进食，第二天在避免因为饥饿而受到非致命伤害的DC不会增加1。如果目标并没有尝试过至少1次的体质检定来避免饥饿的话，此法术失败。<\/p>"
 }

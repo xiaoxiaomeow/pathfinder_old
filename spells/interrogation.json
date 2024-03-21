@@ -1,28 +1,31 @@
 {
     "key": "interrogation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/interrogation/",
     "name": "Interrogation",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Interrogation",
+    "source": ["Ultimate Magic pg. 225"],
     "school": "necromancy",
     "descriptors":     [
         "evil",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 1,
         "inquisitor": 1,
+        "mesmerist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "touch",
     "target": "living creature touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You question the target, backed up by the threat of magical pain. You may ask one question per two caster levels. The target can either answer the question or take 1d4 points of damage plus your Wisdom bonus. The target is not compelled to answer truthfully, but the threat of pain gives it a –4 penalty on Bluff checks to convince you when it is lying.<\/p><p><\/p><p>",
+    "text": "You question the target, backed up by the threat of magical pain. You may ask one question per two caster levels. The target can either answer the question or take 1d4 points of damage plus your Wisdom bonus. The target is not compelled to answer truthfully, but the threat of pain gives it a –4 penalty on Bluff checks to convince you when it is lying.",
     "name_zh": "拷问",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
@@ -31,6 +34,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>以魔法造成的奇异疼痛为威胁，你对目标发出质问。每2个施法者等级，你可以询问一个问题。目标可以选择回答这个问题，或是闭口不言并受到1d4加上你的感知加值点伤害。<\/p><p>目标可以选择不如实回答，但是疼痛的威胁会使它在唬骗检定上获得-4惩罚，以让你发现它是在撒谎。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>以魔法造成的奇异疼痛为威胁，你对目标发出质问。每2个施法者等级，你可以询问一个问题。目标可以选择回答这个问题，或是闭口不言并受到1d4加上你的感知加值点伤害。<\/p><p>目标可以选择不如实回答，但是疼痛的威胁会使它在唬骗检定上获得-4惩罚，以让你发现它是在撒谎。<\/p>"
 }

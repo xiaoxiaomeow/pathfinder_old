@@ -1,21 +1,27 @@
 {
     "key": "summon infernal host",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-infernal-host/",
     "name": "Summon Infernal Host",
-    "book": "Pathfinder Campaign Setting: Rival Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Infernal%20Host",
+    "source": ["Rival Guide pg. 59"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "descriptors":     [
         "evil",
         "lawful"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
-        "cleric/oracle": 5,
-        "sorcerer/wizard": 5,
+        "cleric": 5,
+        "oracle": 5,
+        "skald": 5,
+        "sorcerer": 5,
         "summoner": 5,
-        "witch": 5
+        "summoner (unchained)": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 round",
     "components": "V, S, F/DF (strip of rune-inscribed parchment)",
@@ -24,15 +30,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions as <i>summon monster V<\/i>, save that it can only be used to summon host devils. These noxious flying devils are also known as gaavs and magaavs.<\/p>",
+    "text": "This spell functions as <i>summon monster V<\/i>, save that it can only be used to summon <i>host devils<\/i>. These noxious flying devils, known also as gaavs and magaavs, are detailed on page 58 of <i>Pathfinder Campaign Setting: Princes of Darkness, Book of the Damned, Vol. 1<\/i>.",
     "name_zh": "召唤炼狱群舞魔",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、器材/法器 (一条铭刻符文的羊皮纸)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "1d4+1只次级群舞魔(lesser host devil)或1只高等群舞魔(greater host devil)",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>本法术如同召唤怪物V(summon monster V)，但它只能用来召唤群舞魔。这些污秽的飞行恶魔，也被称为狩魂魔(gaavs)与首领狩魂魔(magaavs)，在PF战役设定：永罪之书首辑，黑暗诸侯P.58中有详细描述。<\/p>",
-    "source": "CS-RG"
+    "text_zh": "<p>本法术如同召唤怪物V(summon monster V)，但它只能用来召唤群舞魔。这些污秽的飞行恶魔，也被称为狩魂魔(gaavs)与首领狩魂魔(magaavs)，在PF战役设定：永罪之书首辑，黑暗诸侯P.58中有详细描述。<\/p>"
 }

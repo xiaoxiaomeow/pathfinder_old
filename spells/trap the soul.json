@@ -1,34 +1,32 @@
 {
     "key": "trap the soul",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trap-the-soul/",
     "name": "Trap the Soul",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Trap%20the%20Soul",
+    "source": ["PRPG Core Rulebook pg. 362"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "psychic": 8,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "subdomains":     {
-        "psychopomp": 8,
-        "souls": 9
-    },
-    "mysteries": {"juju": 8},
     "castingTime": "1 standard action or see text",
     "components": "V, S, M (gem worth 1,000 gp per HD of the trapped creature)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
     "duration": "permanent; see text",
     "savingThrow": "see text",
-    "spellResistance": "yes",
-    "text": "<p><i>Trap the soul<\/i> forces a creature's life force (and its material body) into a gem. The gem holds the trapped entity indefinitely or until the gem is broken and the life force is released, which allows the material body to reform. If the trapped creature is a powerful creature from another plane, it can be required to perform a service immediately upon being freed. Otherwise, the creature can go free once the gem imprisoning it is broken.<\/p><p>Depending on the version selected, the spell can be triggered in one of two ways.<\/p>",
+    "spellResistance": "yes; see text",
+    "text": "<i>Trap the soul<\/i> forces a creature's life force (and its material body) into a gem. The gem holds the trapped entity indefinitely or until the gem is broken and the life force is released, which allows the material body to reform. If the trapped creature is a powerful creature from another plane, it can be required to perform a service immediately upon being freed. Otherwise, the creature can go free once the gem imprisoning it is broken.<br><br>Depending on the version selected, the spell can be triggered in one of two ways.<br><br><i>Spell Completion<\/i>: First, the spell can be completed by speaking its final word as a standard action as if you were casting a regular spell at the subject. This allows spell resistance (if any) and a Will save to avoid the effect. If the creature's name is spoken as well, any spell resistance is ignored and the save DC increases by 2. If the save or spell resistance is successful, the gem shatters.<br><br><i>Trigger Object<\/i>: The second method is far more insidious, for it tricks the subject into accepting a trigger object inscribed with the final spell word, automatically placing the creature's soul in the trap. To use this method, both the creature's name and the trigger word must be inscribed on the trigger object when the gem is enspelled. A <i>sympathy<\/i> spell can also be placed on the trigger object. As soon as the subject picks up or accepts the trigger object, its life force is automatically transferred to the gem without the benefit of spell resistance or a save.",
     "name_zh": "锢魂术",
-    "castingTime_zh": "标准动作 或 见后文",
+    "castingTime_zh": "标准动作 或 见文本",
     "components_zh": "语言, 姿势, 材料 (一块宝石, 被囚困的生物所拥有的每个HD价值1000gp)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "永久; 见后文",
-    "savingThrow_zh": "见后文",
-    "spellResistance_zh": "可",
-    "text_zh": "<p>锢魂术会将一个生物的生命力 (以及他的物质形体) 囚入宝石。被禁锢的生命被永久保存在宝石内，直到宝石被打碎生命力才会释放，而物质形体也会重组。若被囚禁的是其他位面的强大生物，你可以要求他执行一项任务来换取自由，他必须在获得自由时立即执行任务。在其它情况下，宝石碎裂时生物就重获自由。<\/p><p>本法术有两种功效，其启动方式亦不同。<\/p><p>完成法术：首先，你如同施展其他法术一样，用标准动作念出最后的咒语以完成施法。目标生物可以进行法术抗力 (若有的话) 和意志豁免检定来避免该效果。若施法时说出了生物的名字，则法术抗力无效，豁免DC+2。若通过检定或法术抗力，宝石会碎裂。<\/p><p>物品触发：第二种方法则阴险得多，因为它需要欺骗目标生物接受写有最后咒语的物品，之后自动囚禁该生物的灵魂。要使用此方法的话，在向宝石施法时，目标生物的名字和最后的咒语都必须已经刻在宝石上。宝石也可附上‘<a href=\"spell.html?spell=sympathy\">共鸣术 (sympathy)<\/a>’。只要目标生物拿起或接受宝石，他的生命力就会自动进入宝石，无法进行法术抗力和豁免检定。<\/p>",
-    "source": "CRB"
+    "duration_zh": "永久; 见文本",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>锢魂术会将一个生物的生命力 (以及他的物质形体) 囚入宝石。被禁锢的生命被永久保存在宝石内，直到宝石被打碎生命力才会释放，而物质形体也会重组。若被囚禁的是其他位面的强大生物，你可以要求他执行一项任务来换取自由，他必须在获得自由时立即执行任务。在其它情况下，宝石碎裂时生物就重获自由。<\/p><p>本法术有两种功效，其启动方式亦不同。<\/p><p>完成法术：首先，你如同施展其他法术一样，用标准动作念出最后的咒语以完成施法。目标生物可以进行法术抗力 (若有的话) 和意志豁免检定来避免该效果。若施法时说出了生物的名字，则法术抗力无效，豁免DC+2。若通过检定或法术抗力，宝石会碎裂。<\/p><p>物品触发：第二种方法则阴险得多，因为它需要欺骗目标生物接受写有最后咒语的物品，之后自动囚禁该生物的灵魂。要使用此方法的话，在向宝石施法时，目标生物的名字和最后的咒语都必须已经刻在宝石上。宝石也可附上‘<a href=\"spell.html?spell=sympathy\">共鸣术 (sympathy)<\/a>’。只要目标生物拿起或接受宝石，他的生命力就会自动进入宝石，无法进行法术抗力和豁免检定。<\/p>"
 }

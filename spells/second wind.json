@@ -1,30 +1,32 @@
 {
     "key": "second wind",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/second-wind/",
     "name": "Second Wind",
-    "book": "Pathfinder Player Companion: Elemental Master's Handbook © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Second%20Wind",
+    "source": ["Elemental Master's Handbook pg. 18"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["air"],
     "levels":     {
         "antipaladin": 3,
         "cleric": 3,
+        "hunter": 3,
         "inquisitor": 3,
+        "oracle": 3,
         "paladin": 3,
-        "ranger": 3
+        "ranger": 3,
+        "warpriest": 3
     },
-    "castingTime": "1 swift action or immediate action; see text",
+    "castingTime": "1 swift action or 1 immediate action; see text",
     "components": "V",
     "range": "personal",
     "target": "you",
     "duration": "instantaneous",
-    "text": "<p>You can cast this spell only when you have fewer than one-quarter of your total hit points. With a gasping utterance, you summon invigorating air to fill your lungs. You heal 2d8 points of damage + 1 point per caster level (maximum +10). You can cast this spell either as a swift action on your turn or as an immediate action when you are brought to below 0 hit points. If you do not breathe, you can't benefit from this spell.<\/p>",
+    "text": "You can cast this spell only when you have fewer than one-quarter of your total hit points. With a gasping utterance, you summon invigorating air to fill your lungs. You heal 2d8 points of damage + 1 point per caster level (maximum +10). You can cast this spell either as a swift action on your turn or as an immediate action when you are brought to below 0 hit points. If you do not breathe, you can’t benefit from this spell.",
     "name_zh": "复苏之风",
-    "castingTime_zh": "迅捷动作或者是直觉动作；见下文",
+    "castingTime_zh": "迅捷动作 或 直觉动作; 见文本",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
-    "text_zh": "<p>当你血量低于25%时才能施展这个法术。随着深深的呼吸，你可以呼唤清新的空气充满着你的肺部。你可以恢复2D8+每施法者等级1（最多+10）的生命值。你可以在你回合用迅捷使用这个法术或者是当你血量被带至0点时，用直觉动作使用这个法术。如果你不呼吸，你就不能获得这个法术的效果。<\/p>",
-    "source": "PC-EMH"
+    "text_zh": "<p>当你血量低于25%时才能施展这个法术。随着深深的呼吸，你可以呼唤清新的空气充满着你的肺部。你可以恢复2D8+每施法者等级1（最多+10）的生命值。你可以在你回合用迅捷使用这个法术或者是当你血量被带至0点时，用直觉动作使用这个法术。如果你不呼吸，你就不能获得这个法术的效果。<\/p>"
 }

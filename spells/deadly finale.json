@@ -1,26 +1,28 @@
 {
     "key": "deadly finale",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadly-finale/",
     "name": "Deadly Finale",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deadly%20Finale",
+    "source": ["Advanced Player's Guide pg. 214"],
     "school": "evocation",
     "descriptors": ["sonic"],
-    "levels": {"bard": 6},
+    "levels":     {
+        "bard": 6,
+        "skald": 6
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>You must have a bardic performance in effect to cast this spell.<\/p><p>With a flourish, you immediately end your performance, dealing 2d8 points of sonic damage to each target. In addition, each target takes 3d6 points of bleed damage for 1d6 rounds. A save negates the bleed damage but not the sonic damage.<\/p>",
+    "text": "You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your performance, dealing 2d8 points of sonic damage to each target. In addition, each target takes 3d6 points of bleed damage for 1d6 rounds. A save negates the bleed damage but not the sonic damage.",
     "name_zh": "夺命谢幕曲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每3个施法者等级1名生物，任意两名之间的距离不得超过30尺",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，对每名目标造成2d8点音波伤害。此外，每个目标受到3d6点流血伤害并持续1d6轮。成功的豁免可以免受流血伤害但是无法减免音波伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>施放这个法术之前，你必须激活一种吟游表演。通过挥舞手臂进行谢幕，你会立即结束你的吟游表演，对每名目标造成2d8点音波伤害。此外，每个目标受到3d6点流血伤害并持续1d6轮。成功的豁免可以免受流血伤害但是无法减免音波伤害。<\/p>"
 }

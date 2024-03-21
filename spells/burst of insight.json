@@ -1,8 +1,8 @@
 {
     "key": "burst of insight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-insight/",
     "name": "Burst of Insight",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Insight",
+    "source": ["Occult Adventures pg. 160"],
     "school": "transmutation",
     "levels":     {
         "medium": 1,
@@ -17,15 +17,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You plumb the depths of your mind for insight, leaving you momentarily frazzled. When you are about to make a d20 roll based on Intelligence, Wisdom, or Charisma, you can cast this spell to gain a +8 enhancement bonus to Intelligence, Wisdom, or Charisma for that roll, but you are dazed for 1 round afterward.<\/p>",
+    "text": "You plumb the depths of your mind for insight, leaving you momentarily frazzled. When you are about to make a d20 roll based on Intelligence, Wisdom, or Charisma, you can cast this spell to gain a +8 enhancement bonus to Intelligence, Wisdom, or Charisma for that roll, but you are dazed for 1 round afterward.",
     "name_zh": "洞察力激增",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你为了强化思维能力而挖掘着心灵深处，这让你瞬间变得头晕目眩。当你即将做出一次基于智力、感知或魅力的d20检定时，你能够施放该法术，并在该次检定中让智力、感知或魅力获得+8增强加值，但是在此之后你会晕眩（dazed）1轮。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你为了强化思维能力而挖掘着心灵深处，这让你瞬间变得头晕目眩。当你即将做出一次基于智力、感知或魅力的d20检定时，你能够施放该法术，并在该次检定中让智力、感知或魅力获得+8增强加值，但是在此之后你会晕眩（dazed）1轮。<\/p>"
 }

@@ -1,20 +1,26 @@
 {
     "key": "waves of ecstasy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-ecstasy/",
     "name": "Waves of Ecstasy",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Waves%20of%20Ecstasy",
+    "source": ["Ultimate Magic pg. 249"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 7,
         "bard": 6,
-        "cleric/oracle": 7,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "cleric": 7,
+        "mesmerist": 6,
+        "oracle": 7,
+        "psychic": 7,
+        "skald": 6,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -23,15 +29,14 @@
     "duration": "1 round/level; see text",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.<\/p>",
+    "text": "You emanate waves of intense pleasure that cause all targets within range to falter. Affected creatures are stunned for 1 round and are staggered for the remainder of the spell. A creature that makes its save is staggered for the first round and can act normally thereafter.",
     "name_zh": "极乐波",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "30尺",
-    "area_zh": "锥形爆发范围",
-    "duration_zh": "1轮/等级；见下文",
-    "savingThrow_zh": "意志，通过则部分生效 (见下文)",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "1轮/等级; 见文本",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你使法术范围内的生物产生极端的快感而无法自控。<\/p><p>所有受影响的生物都被震慑 (Stunned) 一轮，并且在剩余法术时间内都会陷入恍惚 (staggered)。<\/p><p>如果生物豁免成功，则只会恍惚一轮并且之后可以如常行动。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你使法术范围内的生物产生极端的快感而无法自控。<\/p><p>所有受影响的生物都被震慑 (Stunned) 一轮，并且在剩余法术时间内都会陷入恍惚 (staggered)。<\/p><p>如果生物豁免成功，则只会恍惚一轮并且之后可以如常行动。<\/p>"
 }

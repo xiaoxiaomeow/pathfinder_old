@@ -1,0 +1,32 @@
+{
+    "key": "clay skin",
+    "name": "Clay Skin",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Clay%20Skin",
+    "source": ["Potions and Poisons pg. 17"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 3,
+        "arcanist": 3,
+        "bloodrager": 3,
+        "inquisitor": 3,
+        "investigator": 3,
+        "magus": 3,
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (clay and iron fillings)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "10 minutes/level or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "The target’s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "10分钟/等级 或直至耗散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

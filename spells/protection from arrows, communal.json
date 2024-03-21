@@ -1,0 +1,29 @@
+{
+    "key": "protection from arrows, communal",
+    "name": "Protection from Arrows, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Arrows,%20Communal",
+    "source": ["Ultimate Combat pg. 240"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 3,
+        "arcanist": 3,
+        "investigator": 3,
+        "psychic": 3,
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a piece of tortoiseshell or turtle shell)",
+    "range": "touch",
+    "duration": "1 hour/level or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>protection from arrows<\/i>, except you divide the duration in 1-hour intervals among the creatures touched. Once the spell absorbs 10 points of damage per caster level (maximum 100 points) for a subject, the spell’s effects end for that subject.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1小时/等级 或 直至能量散发",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

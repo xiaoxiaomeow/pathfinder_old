@@ -1,0 +1,31 @@
+{
+    "key": "planar adaptation, mass",
+    "name": "Planar Adaptation, Mass",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Planar%20Adaptation,%20Mass",
+    "source": ["Advanced Player's Guide pg. 236"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 7,
+        "cleric": 6,
+        "occultist": 6,
+        "oracle": 6,
+        "psychic": 6,
+        "sorcerer": 7,
+        "summoner": 6,
+        "summoner (unchained)": 6,
+        "warpriest": 6,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 hour/level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>planar adaptation<\/i>, except as noted above.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

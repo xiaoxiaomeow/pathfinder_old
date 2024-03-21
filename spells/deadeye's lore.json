@@ -1,28 +1,34 @@
 {
     "key": "deadeye's lore",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deadeye-s-lore/",
     "name": "Deadeye's Lore",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deadeye's%20Lore",
+    "source":     [
+        "Ultimate Combat pg. 226",
+        "Faiths of Purity pg. 28"
+    ],
     "school": "divination",
     "levels":     {
         "bard": 1,
         "cleric": 1,
         "druid": 1,
+        "hunter": 1,
         "inquisitor": 1,
-        "ranger": 1
+        "oracle": 1,
+        "ranger": 1,
+        "skald": 1,
+        "warpriest": 1
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 hour/level",
-    "text": "<p>While subject to this spell, you take upon yourself the mantle of the hunter, channeling the insights of the spirits of the wild.<\/p><p>You gain a +4 sacred bonus on all Survival checks for the duration of the spell, and you do not have to move at half your speed while traveling through the wilderness or while tracking.<\/p>",
+    "text": "While subject to this spell, you take upon yourself the mantle of the hunter, channeling the insights of the spirits of the wild. You gain a +4 sacred bonus on all Survival checks for the duration of the spell, and you do not have to move at half your speed while traveling through the wilderness or while tracking.",
     "name_zh": "神射手传奇",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1小时/等级",
-    "text_zh": "<p>持续时间    1小时/等级<\/p><p>随着你受到法术效果影响，你获得了猎人的专业知识，可以聆听荒野之灵的见解。<\/p><p>你的生存技能在法术持续时间内获得＋４神圣加值，同时你在穿越荒野和追踪时不用减半速度移动。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1小时/等级<\/p><p>随着你受到法术效果影响，你获得了猎人的专业知识，可以聆听荒野之灵的见解。<\/p><p>你的生存技能在法术持续时间内获得＋４神圣加值，同时你在穿越荒野和追踪时不用减半速度移动。<\/p>"
 }

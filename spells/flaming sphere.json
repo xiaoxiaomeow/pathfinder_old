@@ -1,19 +1,20 @@
 {
     "key": "flaming sphere",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flaming-sphere/",
     "name": "Flaming Sphere",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flaming%20Sphere",
+    "source": ["PRPG Core Rulebook pg. 283"],
     "school": "evocation",
     "descriptors": ["fire"],
     "levels":     {
+        "arcanist": 2,
         "bloodrager": 2,
         "druid": 2,
+        "hunter": 2,
         "magus": 2,
-        "sorcerer/wizard": 2
+        "occultist": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
-    "subdomains": {"arson": 2},
-    "elementalSchools": {"fire": 2},
-    "mysteries": {"solar": 2},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (tallow, brimstone, and powdered iron)",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -21,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "Reflex negates",
     "spellResistance": "yes",
-    "text": "<p>A burning globe of fire rolls in whichever direction you point and burns those it strikes. It moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a target. If it enters a space with a creature, it stops moving for the round and deals 3d6 points of fire damage to that creature, though a successful Reflex save negates that damage. A <i>flaming sphere<\/i> rolls over barriers less than 4 feet tall. It ignites flammable substances it touches and illuminates the same area as a torch would.<\/p><p>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and burns. It can be extinguished by any means that would put out a normal fire of its size. The surface of the sphere has a spongy, yielding consistency and so does not cause damage except by its flame. It cannot push aside unwilling creatures or batter down large obstacles. A <i>flaming sphere<\/i> winks out if it exceeds the spell's range.<\/p>",
+    "text": "A burning globe of fire rolls in whichever direction you point and burns those it strikes. It moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a target. If it enters a space with a creature, it stops moving for the round and deals 3d6 points of fire damage to that creature, though a successful Reflex save negates that damage. A <i>flaming sphere<\/i> rolls over barriers less than 4 feet tall. It ignites flammable substances it touches and illuminates the same area as a torch would.<br><br>The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and burns. It can be extinguished by any means that would put out a normal fire of its size. The surface of the sphere has a spongy, yielding consistency and so does not cause damage except by its flame. It cannot push aside unwilling creatures or batter down large obstacles. A <i>flaming sphere<\/i> winks out if it exceeds the spell's range.",
     "name_zh": "炽焰法球",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (牛油, 硫磺和铁粉)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "直径5尺的球体",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "反射, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一个燃烧的球形火团向你指向的方向滚去，并点燃它击中的东西。它以每轮30尺的速度移动。作为移动的一部分，它可以向上攀爬或跳起30尺来打击目标。如果它进入生物占据的空间，该轮内它会停止移动，并且对该生物造成3d6火焰伤害，不过成功的反射豁免可以避开伤害。炽焰法球可以滚过低于4尺的障碍。它会引燃接触到的易燃物品，并能和一支火把一样照亮周围。<\/p><p>这个球体会按照你的主动指引 (对你来说是一个移动动作) 进行移动；否则它会停在原地燃烧。任何能熄灭同样大小普通火焰的方法都可以扑灭它。球体具有柔软的海绵状表面，因此除了本身的火焰外，它不会造成其他伤害。它也不能推开不愿离开的生物，或者击倒大的阻碍物。炽焰法球在离开法术范围后就会熄灭。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一个燃烧的球形火团向你指向的方向滚去，并点燃它击中的东西。它以每轮30尺的速度移动。作为移动的一部分，它可以向上攀爬或跳起30尺来打击目标。如果它进入生物占据的空间，该轮内它会停止移动，并且对该生物造成3d6火焰伤害，不过成功的反射豁免可以避开伤害。炽焰法球可以滚过低于4尺的障碍。它会引燃接触到的易燃物品，并能和一支火把一样照亮周围。<\/p><p>这个球体会按照你的主动指引 (对你来说是一个移动动作) 进行移动；否则它会停在原地燃烧。任何能熄灭同样大小普通火焰的方法都可以扑灭它。球体具有柔软的海绵状表面，因此除了本身的火焰外，它不会造成其他伤害。它也不能推开不愿离开的生物，或者击倒大的阻碍物。炽焰法球在离开法术范围后就会熄灭。<\/p>"
 }

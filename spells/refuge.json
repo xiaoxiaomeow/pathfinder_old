@@ -1,19 +1,19 @@
 {
     "key": "refuge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/refuge/",
     "name": "Refuge",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Refuge",
+    "source": ["PRPG Core Rulebook pg. 331"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
-        "cleric/oracle": 7,
-        "sorcerer/wizard": 9,
-        "witch": 9
+        "arcanist": 9,
+        "cleric": 7,
+        "oracle": 7,
+        "psychic": 8,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
     },
-    "domains":     {
-        "community": 7,
-        "liberation": 7
-    },
-    "elementalSchools": {"wood": 9},
     "castingTime": "1 standard action",
     "components": "V, S, M (a prepared object worth 1,500 gp)",
     "range": "touch",
@@ -21,15 +21,14 @@
     "duration": "permanent until discharged",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>When you cast this spell, you create powerful magic in a specially prepared object. This object contains the power to instantly transport its possessor across any distance within the same plane to your abode. Once the item is so enhanced, you must give it willingly to a creature and at the same time inform it of a command word to be spoken when the item is used. To make use of the item, the subject speaks the command word at the same time that it rends or breaks the item (a standard action). When this is done, the individual and all objects it is wearing and carrying (to a maximum of the character's heavy load) are instantly transported to your abode. No other creatures are affected (aside from a familiar or animal companion that is touching the subject).<\/p><p>You can alter the spell when casting it so that it transports you to within 10 feet of the possessor of the item when it is broken and the command word spoken. You will have a general idea of the location and situation of the item possessor at the time the <i>refuge<\/i> spell is discharged, but once you decide to alter the spell in this fashion, you have no choice whether or not to be transported.<\/p>",
+    "text": "When you cast this spell, you create powerful magic in a specially prepared object. This object contains the power to instantly transport its possessor across any distance within the same plane to your abode. Once the item is so enhanced, you must give it willingly to a creature and at the same time inform it of a command word to be spoken when the item is used. To make use of the item, the subject speaks the command word at the same time that it rends or breaks the item (a standard action). When this is done, the individual and all objects it is wearing and carrying (to a maximum of the character's heavy load) are instantly transported to your abode. No other creatures are affected (aside from a familiar or animal companion that is touching the subject).<br><br>You can alter the spell when casting it so that it transports you to within 10 feet of the possessor of the item when it is broken and the command word spoken. You will have a general idea of the location and situation of the item possessor at the time the <i>refuge<\/i> spell is discharged, but once you decide to alter the spell in this fashion, you have no choice whether or not to be transported.",
     "name_zh": "脱身术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值1500gp的特别准备的物体)",
     "range_zh": "接触",
     "target_zh": "接触到的物体",
-    "duration_zh": "永久 直至耗散",
+    "duration_zh": "永久, 直至能量发散",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你在某个特别准备的物品上赋予强大的魔力。这个物品将拥有将它的持有者立刻传送到你住所的能力，传送不限距离，但需要处于同一位面。在该物品被如此强化后，你必须将它给予一个自愿的生物，同时告诉它使用此物品时所需要的指令字。要使用此物品，该生物需要说出指令字并同时破坏此物品 (标准动作)。这样做了之后，该生物和所有它穿着和携带的物品 (最高为该角色的重载) 会立刻被传送到你的住所。其它生物都不会被传送 (除了与受术者接触的魔宠或动物伙伴之外)。<\/p><p>施放此法术时你可以改变它，使得当此物品被破坏并说出指令字时将你传送至此物品的持有者10尺之内。你将会对脱身术生效时持有者所处的地点和环境有大致的认知，但是一旦你决定了如此改变此法术的效果，你无法决定自己是否会被传送。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你在某个特别准备的物品上赋予强大的魔力。这个物品将拥有将它的持有者立刻传送到你住所的能力，传送不限距离，但需要处于同一位面。在该物品被如此强化后，你必须将它给予一个自愿的生物，同时告诉它使用此物品时所需要的指令字。要使用此物品，该生物需要说出指令字并同时破坏此物品 (标准动作)。这样做了之后，该生物和所有它穿着和携带的物品 (最高为该角色的重载) 会立刻被传送到你的住所。其它生物都不会被传送 (除了与受术者接触的魔宠或动物伙伴之外)。<\/p><p>施放此法术时你可以改变它，使得当此物品被破坏并说出指令字时将你传送至此物品的持有者10尺之内。你将会对脱身术生效时持有者所处的地点和环境有大致的认知，但是一旦你决定了如此改变此法术的效果，你无法决定自己是否会被传送。<\/p>"
 }

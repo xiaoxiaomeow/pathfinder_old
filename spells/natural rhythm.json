@@ -1,17 +1,21 @@
 {
     "key": "natural rhythm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/natural-rhythm/",
     "name": "Natural Rhythm",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Natural%20Rhythm",
+    "source": ["Advanced Player's Guide pg. 233"],
     "school": "transmutation",
-    "levels": {"druid": 2},
+    "levels":     {
+        "druid": 2,
+        "hunter": 2
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a handful of pebbles dropped one by one onto the ground)",
     "range": "touch",
+    "target": "creature touched",
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You enhance a creature's ability to harm an opponent based on the number of times it has already injured that opponent with a natural attack. Each time the creature successfully strikes an opponent with a natural attack, the subject gains a cumulative +1 bonus on damage rolls made against that opponent when making natural attacks (maximum +5 bonus). If an attack misses, the bonus to damage for all attacks resets to +0.<\/p>",
+    "text": "You enhance a creature’s ability to harm an opponent based on the number of times it has already injured that opponent with a natural attack. Each time the creature successfully strikes an opponent with a natural attack, the subject gains a cumulative +1 bonus on damage rolls made against that opponent when making natural attacks (maximum +5 bonus). If an attack misses, the bonus to damage for all attacks resets to +0.",
     "name_zh": "野性节拍",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一把逐一掉落到地面上的鹅卵石)",
@@ -20,6 +24,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你增强了一名生物伤害一名敌人的能力，这基于该名生物已经使用天生武器命中该名敌人的次数。每当生物成功使用天生武器命中一名敌人时，他使用天生武器对抗该名敌人造成的伤害骰获得累计+1加值 (最高+5加值)。如果攻击失手，所有攻击所累计的伤害加值重置为+0。\nNature's Exile<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你增强了一名生物伤害一名敌人的能力，这基于该名生物已经使用天生武器命中该名敌人的次数。每当生物成功使用天生武器命中一名敌人时，他使用天生武器对抗该名敌人造成的伤害骰获得累计+1加值 (最高+5加值)。如果攻击失手，所有攻击所累计的伤害加值重置为+0。<\/p><p>Nature's Exile<\/p>"
 }

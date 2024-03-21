@@ -1,13 +1,14 @@
 {
     "key": "soulseeker",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soulseeker/",
     "name": "Soulseeker",
-    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soulseeker",
+    "source": ["Planar Adventures pg. 44"],
     "school": "divination",
     "levels":     {
         "cleric": 8,
         "medium": 4,
         "occultist": 6,
+        "oracle": 8,
         "shaman": 8,
         "spiritualist": 6,
         "witch": 8
@@ -17,17 +18,16 @@
     "range": "unlimited",
     "target": "one soul",
     "duration": "instantaneous or 1 hour/level",
-    "savingThrow": "Will negates (see text)",
+    "savingThrow": "Will negates",
     "spellResistance": "no",
-    "text": "<p>You identify the stage of a given soul's judgment, or determine its fate post-judgment. You must either unambiguously identify the soul you seek or use the skull of the body the soul vacated as a focus. If the subject does not share your alignment, the soul can attempt a Will save to resist this spell's effects as if it were still alive. If the subject is still alive or its soul has been destroyed, this spell fails without providing any information.<\/p><p>If the soul has not yet been judged and moved on to its final reward or punishment, soulseeker provides an estimate of its location; in most cases, this is somewhere in the River of Souls or Purgatory. While this may assist in physically traveling to the soul's location, especially in cases involving effects such as soul bind or a devourer's devour soul ability, the spell's primary purpose is to identify how long the subject has been dead (and what form of life-restoring magic is necessary). If the soul has already been judged, soulseeker instead identifies the plane to which the soul has been sent as a petitioner and the petitioner's general location on that plane.<\/p><p>If soulseeker is cast on the same plane on which the soul's new petitioner form currently exists, it guides you along the shortest, most direct physical route to the petitioner, as described in find the path. In this case, the spell's duration is 1 hour per level.<\/p>",
+    "text": "You identify the stage of a given soul’s judgment, or determine its fate post-judgment. You must either unambiguously identify the soul you seek or use the skull of the body the soul vacated as a focus. If the subject does not share your alignment, the soul can attempt a Will save to resist this spell’s effects as if it were still alive. If the subject is still alive or its soul has been destroyed, this spell fails without providing any information.<br><br> If the soul has not yet been judged and moved on to its final reward or punishment, <i>soulseeker<\/i> provides an estimate of its location; in most cases, this is somewhere in the River of Souls or the Boneyard. While this may assist in physically traveling to the soul’s location, especially in cases involving effects such as <i>soul bind<\/i> or a devourer’s devour soul ability, the spell’s primary purpose is to identify how long the subject has been dead (and what form of life-restoring magic is necessary). If the soul has already been judged, <i>soulseeker<\/i> instead identifies the plane to which the soul has been sent as a petitioner and the petitioner’s general location on that plane (such as “Elysium, beneath the boughs of the Witchwood”).<br><br> If <i>soulseeker<\/i> is cast on the same plane on which the soul’s new petitioner form currently exists, it guides you along the shortest, most direct physical route to the petitioner, as described in <i>find the path<\/i>. In this case, the spell’s duration is 1 hour per level.",
     "name_zh": "搜魂术",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "言语，姿势，材料（价值250gp的熏香），器材（见下文）",
     "range_zh": "无限",
     "target_zh": "一个灵魂",
-    "duration_zh": "立即或1小时/等级",
-    "savingThrow_zh": "意志过则无效（见下文）",
+    "duration_zh": "立即 或 1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能确定一个给定的灵魂被审判的阶段，或判定灵魂在被审判后的命运。你必须能明确地指名你所寻找的灵魂，或者使用灵魂所属于的尸体头骨作为法术器材。如果目标不与你的阵营一致，灵魂可以尝试意志豁免来抵抗这个法术的效果，就好像它还活着一样。如果目标还活着或者他的灵魂已经被摧毁，这个法术就会失效，不提供任何信息。\n如果灵魂还没有被审判和去往最后的奖励或惩罚，搜魂术会提供对它的位置的估计；在大多数情况下，这是在灵魂长河（River of Souls）或骨园（Boneyard）的某处。虽然这可能有助于旅行到灵魂的位置，特别是在涉及诸如缚魂术（soul bind）或囚魂魔（devourer）的夺魂能力的情况下，这个法术的主要目的是确定目标已经死亡多久（以及需要什么形式的复活魔法）。如果灵魂已经被审判，搜魂术会取而代之的找出灵魂作为祈并者（petitioner）被送到的位面，以及它在该位面的大致位置，比如“极乐原野，巫木的树枝之下”。\n如果搜魂术在灵魂的新祈并者当前存在的同一位面上被施放，法术将引导你沿着最短、最直接的物理路径到达祈并者面前，如寻找捷径（find the path）中所述。在这种情况下，法术的持续时间是每等级1小时。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>你能确定一个给定的灵魂被审判的阶段，或判定灵魂在被审判后的命运。你必须能明确地指名你所寻找的灵魂，或者使用灵魂所属于的尸体头骨作为法术器材。如果目标不与你的阵营一致，灵魂可以尝试意志豁免来抵抗这个法术的效果，就好像它还活着一样。如果目标还活着或者他的灵魂已经被摧毁，这个法术就会失效，不提供任何信息。<\/p><p>如果灵魂还没有被审判和去往最后的奖励或惩罚，搜魂术会提供对它的位置的估计；在大多数情况下，这是在灵魂长河（River of Souls）或骨园（Boneyard）的某处。虽然这可能有助于旅行到灵魂的位置，特别是在涉及诸如缚魂术（soul bind）或囚魂魔（devourer）的夺魂能力的情况下，这个法术的主要目的是确定目标已经死亡多久（以及需要什么形式的复活魔法）。如果灵魂已经被审判，搜魂术会取而代之的找出灵魂作为祈并者（petitioner）被送到的位面，以及它在该位面的大致位置，比如“极乐原野，巫木的树枝之下”。<\/p><p>如果搜魂术在灵魂的新祈并者当前存在的同一位面上被施放，法术将引导你沿着最短、最直接的物理路径到达祈并者面前，如寻找捷径（find the path）中所述。在这种情况下，法术的持续时间是每等级1小时。<\/p>"
 }

@@ -1,10 +1,13 @@
 {
     "key": "bouncing bomb admixture",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bouncing-bomb-admixture/",
     "name": "Bouncing Bomb Admixture",
-    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bouncing%20Bomb%20Admixture",
+    "source": ["Magic Tactics Toolbox pg. 10"],
     "school": "transmutation",
-    "levels": {"alchemist": 3},
+    "levels":     {
+        "alchemist": 3,
+        "investigator": 3
+    },
     "castingTime": "1 swift action",
     "components": "V, S",
     "range": "personal",
@@ -12,15 +15,14 @@
     "duration": "1 round",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of the next bomb you create and throw during this extract's duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (a formula with &#8216;bomb admixture' in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.<\/p><p>When you throw your next bomb, choose one target that would normally be hit by the bomb's splash damage. The target is affected as if it suffered a direct hit from the bomb instead.<\/p>",
+    "text": "Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of the next bomb you create and throw during this extract’s duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (a formula with “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.<br><br> When you throw your next bomb, choose one target that would normally be hit by the bomb’s splash damage. The target is affected as if it suffered a direct hit from the bomb instead.",
     "name_zh": "弹性炸弹添加剂",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>通过饮用这个公式制作的化合炼成，你注入炸弹的魔法产生显著变化，在该化合炼成的持续时间内制造并投掷的普通炼金炸弹基本性质均被改变。该效果对任何用于改变炸弹性质的科研发现没有影响，而且同一时间你只能拥有一种添加剂效果（名字中带有“炸弹添加剂：的公式）。如果你饮用另一剂炸弹添加剂，那么之前生效的炸弹添加剂效果结束，新获得的效果生效。\n当你投掷你下一个炸弹时，选择一个正常会被炸弹溅射伤害击中的目标。该目标改为如同被炸弹直接击中一般。<\/p>",
-    "source": "PC-MagicTT"
+    "text_zh": "<p>通过饮用这个公式制作的化合炼成，你注入炸弹的魔法产生显著变化，在该化合炼成的持续时间内制造并投掷的普通炼金炸弹基本性质均被改变。该效果对任何用于改变炸弹性质的科研发现没有影响，而且同一时间你只能拥有一种添加剂效果（名字中带有“炸弹添加剂：的公式）。如果你饮用另一剂炸弹添加剂，那么之前生效的炸弹添加剂效果结束，新获得的效果生效。<\/p><p>当你投掷你下一个炸弹时，选择一个正常会被炸弹溅射伤害击中的目标。该目标改为如同被炸弹直接击中一般。<\/p>"
 }

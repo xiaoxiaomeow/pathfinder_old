@@ -1,26 +1,30 @@
 {
     "key": "polypurpose panacea",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/polypurpose-panacea/",
     "name": "Polypurpose Panacea",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Polypurpose%20Panacea",
+    "source": ["Ultimate Magic pg. 232"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 1,
+        "arcanist": 1,
+        "investigator": 1,
+        "mesmerist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "S",
     "range": "personal",
     "target": "you",
     "duration": "see below",
-    "text": "<p>This creates one of several cantrip-level effects relating to your health, well-being, and entertainment. The panacea has no side effects (for example, the intoxication panacea does not cause a hangover). When you use <i>polypurpose panacea<\/i>, choose one of the following effects.<\/p>",
+    "text": "This creates one of several cantrip-level effects relating to your health, well-being, and entertainment. The panacea has no side effects (for example, the intoxication panacea does not cause a hangover). When you use <i>polypurpose panacea<\/i>, choose one of the following effects.<br><br><i>Analgesic<\/i>: You do not feel minor aches and pains, such as from arthritis, a cold, or a hangover, for 1 hour. For the duration, you gain a +2 resistance bonus against pain-related spells.<br><br><i>Clarity<\/i>: You get a +1 competence bonus on a single attack roll, saving throw, or skill check within 1 minute. You must choose to use the bonus before making the roll to which it applies.<br><br><i>Hallucination<\/i>: You have pleasant hallucinations for 1 hour, such as wandering lights, music, playful surreal animals, and so on. You can tell these are not real, but they are distracting, and you take a –2 penalty on Perception checks for the duration.<br><br><i>Intoxication<\/i>: You feel comfortably intoxicated for 1 hour, as if you had a few alcoholic beverages.<br><br><i>Lucid Dream<\/i>: If you take this panacea within 1 hour of going to sleep, you have a lucid dream that is under your control and lasts for an hour.<br><br><i>Resistance<\/i>: You gain a +1 resistance bonus on saves for 1 minute.<br><br><i>Sleep<\/i>: You enter a pleasant and restful sleep for at least 1 hour unless wakened. If you would normally begin sleeping at this time, when the panacea ends you continue sleeping normally.<br><br><i>Sobriety<\/i>: You become completely sober for 1 hour, negating any penalties to your actions for being drunk (<i>GameMastery Guide <\/i>237). Magical and alchemical methods (such as <i>detect poison<\/i>) still detect you as inebriated. Time spent under the effect of this panacea do not count toward the time necessary to sober up (it merely delays your intoxication).<br><br><i>Tenacity<\/i>: You gain 1 temporary hit point for 1 minute.<br><br><i>Wakefulness<\/i>: You remain awake for 2 hours without feeling sleepy, and without side effects such as jitteriness. You gain a +5 resistance bonus against sleep-related spells such as <i>lullaby <\/i>and <i>sleep<\/i>. This use of the panacea merely delays your need for sleep and does not count as rest or sleep. You can use it multiple times in succession, but as each effect wears off, you are as tired as you would be had you not used the panacea.",
     "name_zh": "万灵秘药",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "见下文",
-    "text_zh": "<p>持续时间    见下文<\/p><p>这个法术将在几种效果中选择并创造一种关于你的健康、幸福和快乐的有趣效果。秘药没有副作用 (例如，陶醉秘药不会引发宿醉)。<\/p><p>当你使用万灵秘药，选择以下效果之一：\n－镇痛：你在一个小时内可以忽略轻微痛苦，例如关节炎、感冒或宿醉。在这段时间内，你针对疼痛效果法术的豁免获得+2抗力加值。\n－明晰：你在一分钟内的一次单次攻击投骰、豁免检定或技能检定中获得+1表现加值。你可以自己选择在进行哪一次投骰时使用该加值，只要它适用。\n－幻觉：你在一个小时内可以看到各种有趣的幻象，例如徘徊的灯光、音乐、可爱的超现实小动物等等。你可以告诉你自己这些都是不真实的，不过它们会让你分心，让你的察觉检定获得-2罚值。\n－陶醉：让你飘飘欲仙，持续一小时，就如同你饮用了一些酒精饮料。\n－醒梦：如果你睡前一小时内使用了这种秘药，那么你将会做一个完全在你控制之下的醒梦，并且持续一小时。\n－抗性：你获得+1抗力加值在所有豁免上，持续一分钟。\n－睡眠：你进入了一个愉快和舒适的睡眠，持续至少一小时，除非被唤醒。如果这是你通常会睡觉的时间，那么秘药效果结束后你仍然会继续正常睡眠。\n－清醒：你在一个小时之内完全清醒，你的行动无视任何喝醉的罚值。魔法和炼金术效果 (如检测药剂) 仍然判定你处于酒醉状态。此秘药的持续时间不计入你醒酒所需要的时间 (因为它只是将其延迟了)。\n－坚韧：你获得1点临时生命值，持续1分钟。\n－觉醒：你在2个小时之内保持自己清醒无睡意，并且没有神经衰弱之类的副作用。你针对睡眠效果的豁免，例如催眠曲和睡眠术，获得+5抗力加值。这种秘药的使用方式只是延迟了你的睡眠时间，并不会被计入你的休息和睡眠时长。你可以多次使用这种秘药，不过每当秘药效果结束，你仍然会像没有使用秘药一样陷入疲乏状态。<\/p>",
-    "source": "UM"
+    "duration_zh": "见文本",
+    "text_zh": "<p>持续时间    见下文<\/p><p>这个法术将在几种效果中选择并创造一种关于你的健康、幸福和快乐的有趣效果。秘药没有副作用 (例如，陶醉秘药不会引发宿醉)。<\/p><p>当你使用万灵秘药，选择以下效果之一：<\/p><p>－镇痛：你在一个小时内可以忽略轻微痛苦，例如关节炎、感冒或宿醉。在这段时间内，你针对疼痛效果法术的豁免获得+2抗力加值。<\/p><p>－明晰：你在一分钟内的一次单次攻击投骰、豁免检定或技能检定中获得+1表现加值。你可以自己选择在进行哪一次投骰时使用该加值，只要它适用。<\/p><p>－幻觉：你在一个小时内可以看到各种有趣的幻象，例如徘徊的灯光、音乐、可爱的超现实小动物等等。你可以告诉你自己这些都是不真实的，不过它们会让你分心，让你的察觉检定获得-2罚值。<\/p><p>－陶醉：让你飘飘欲仙，持续一小时，就如同你饮用了一些酒精饮料。<\/p><p>－醒梦：如果你睡前一小时内使用了这种秘药，那么你将会做一个完全在你控制之下的醒梦，并且持续一小时。<\/p><p>－抗性：你获得+1抗力加值在所有豁免上，持续一分钟。<\/p><p>－睡眠：你进入了一个愉快和舒适的睡眠，持续至少一小时，除非被唤醒。如果这是你通常会睡觉的时间，那么秘药效果结束后你仍然会继续正常睡眠。<\/p><p>－清醒：你在一个小时之内完全清醒，你的行动无视任何喝醉的罚值。魔法和炼金术效果 (如检测药剂) 仍然判定你处于酒醉状态。此秘药的持续时间不计入你醒酒所需要的时间 (因为它只是将其延迟了)。<\/p><p>－坚韧：你获得1点临时生命值，持续1分钟。<\/p><p>－觉醒：你在2个小时之内保持自己清醒无睡意，并且没有神经衰弱之类的副作用。你针对睡眠效果的豁免，例如催眠曲和睡眠术，获得+5抗力加值。这种秘药的使用方式只是延迟了你的睡眠时间，并不会被计入你的休息和睡眠时长。你可以多次使用这种秘药，不过每当秘药效果结束，你仍然会像没有使用秘药一样陷入疲乏状态。<\/p>"
 }

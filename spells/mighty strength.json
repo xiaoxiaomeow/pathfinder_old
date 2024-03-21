@@ -1,26 +1,28 @@
 {
     "key": "mighty strength",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mighty-strength/",
     "name": "Mighty Strength",
-    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mighty%20Strength",
+    "source": ["Dwarves of Golarion pg. 22"],
     "school": "transmutation",
+    "race": "Trudd",
     "levels":     {
-        "cleric/oracle": 4,
-        "paladin": 4
+        "cleric": 4,
+        "oracle": 4,
+        "paladin": 4,
+        "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>As bull's strength, except it grants a +8 enhancement bonus to Strength.<\/p>",
+    "duration": "1 minute/level",
+    "text": "As <i>bull’s strength<\/i>, except it grants a +8 enhancement bonus to Strength.",
     "name_zh": "强壮之力",
     "race_zh": "杜鲁德",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>如同牛之力量（bull's strength），除了本法术赋予力量的增强加值为+8。<\/p>",
-    "source": "PC-DoG"
+    "text_zh": "<p>如同牛之力量（bull's strength），除了本法术赋予力量的增强加值为+8。<\/p>"
 }

@@ -1,21 +1,27 @@
 {
     "key": "hydrophobia",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hydrophobia/",
     "name": "Hydrophobia",
-    "book": "Pathfinder Player Companion: Magical Marketplace © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hydrophobia",
+    "source": ["Magical Marketplace pg. 8"],
     "school": "necromancy",
     "descriptors":     [
         "emotion",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
         "cleric": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "hunter": 3,
+        "oracle": 3,
+        "skald": 2,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -24,15 +30,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>Targets in the area must succeed at a Will save or become deathly afraid of drowning. If the target is swimming or otherwise submerged in water, it must spend all of its efforts attempting to escape from the water. As long as an affected target remains in water, it takes 1d6 points of nonlethal damage each round as it thrashes about and swallows water. Even out of water, targets cannot imbibe potions or willingly interact with any fluids for the duration of this spell.<\/p>",
+    "text": "Targets in the area must succeed at a Will save or become deathly afraid of drowning. If the target is swimming or otherwise submerged in water, it must spend all of its efforts attempting to escape from the water. As long as an affected target remains in water, it takes 1d6 points of nonlethal damage each round as it thrashes about and swallows water. Even out of water, targets cannot imbibe potions or willingly interact with any fluids for the duration of this spell.",
     "name_zh": "恐水症",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "半径30呎爆发",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "30尺爆发范围",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在区域内的目标必须成功一次意志豁免检定，否则变得极度恐惧溺水，如果目标正在游泳或潜在水中，他必须竭尽全力尝试从水中逃离。只要目标仍待在水中，他每一轮会受到1d6点非致命伤害，因为猛力拨水以及被水呛到。就算离开水中，在此法术持续时间内，目标也不能饮用药剂(potions)或自愿与任何液体互动。\n新法术\n拉哈内有为数众多的管道，特别是在对不法行为有兴趣的施法者中，她可以安排教授下列的法术给她最喜爱的顾客。<\/p>",
-    "source": "PC-MM"
+    "text_zh": "<p>在区域内的目标必须成功一次意志豁免检定，否则变得极度恐惧溺水，如果目标正在游泳或潜在水中，他必须竭尽全力尝试从水中逃离。只要目标仍待在水中，他每一轮会受到1d6点非致命伤害，因为猛力拨水以及被水呛到。就算离开水中，在此法术持续时间内，目标也不能饮用药剂(potions)或自愿与任何液体互动。<\/p><p>新法术<\/p><p>拉哈内有为数众多的管道，特别是在对不法行为有兴趣的施法者中，她可以安排教授下列的法术给她最喜爱的顾客。<\/p>"
 }

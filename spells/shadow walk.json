@@ -1,25 +1,29 @@
 {
     "key": "shadow walk",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shadow-walk/",
     "name": "Shadow Walk",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shadow%20Walk",
+    "source": ["PRPG Core Rulebook pg. 341"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors": ["shadow"],
     "levels":     {
         "alchemist": 6,
+        "arcanist": 6,
         "bard": 5,
-        "sorcerer/wizard": 6
+        "investigator": 6,
+        "mesmerist": 5,
+        "skald": 5,
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "wizard": 6
     },
-    "domains": {"darkness": 6},
-    "bloodlines": {"dreamspun": 6},
-    "mysteries": {"shadow": 6},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>To use the <i>shadow walk<\/i> spell, you must be in an area of dim light. You and any creature you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real. You can take more than one creature along with you (subject to your level limit), but all must be touching each other.<\/p><p>In the region of shadow, you move at a rate of 50 miles per hour, moving normally on the borders of the Plane of Shadow but much more rapidly relative to the Material Plane. Thus, you can use this spell to travel rapidly by stepping onto the Plane of Shadow, moving the desired distance, and then stepping back onto the Material Plane.<\/p><p>Because of the blurring of reality between the Plane of Shadow and the Material Plane, you can't make out details of the terrain or areas you pass over during transit, nor can you predict perfectly where your travel will end. It's impossible to judge distances accurately, making the spell virtually useless for scouting or spying. Furthermore, when the spell effect ends, you are shunted 1d10 x 100 feet in a random horizontal direction from your desired endpoint. If this would place you within a solid object, you are shunted 1d10 x 1,000 feet in the same direction. If this would still place you within a solid object, you (and any creatures with you) are shunted to the nearest empty space available, but the strain of this activity renders each creature fatigued (no save).<\/p><p><i>Shadow walk<\/i> can also be used to travel to other planes that border on the Plane of Shadow, but this usage requires the transit of the Plane of Shadow to arrive at a border with another plane of reality. The transit of the Plane of Shadow requires 1d4 hours.<\/p><p>Any creatures touched by you when <i>shadow walk<\/i> is cast also make the transition to the borders of the Plane of Shadow.<\/p><p>They may opt to follow you, wander off through the plane, or stumble back into the Material Plane (50% chance for either of the latter results if they are lost or abandoned by you). Creatures unwilling to accompany you into the Plane of Shadow receive a Will saving throw, negating the effect if successful.<\/p>",
+    "text": "To use the <i>shadow walk<\/i> spell, you must be in an area of dim light. You and any creature you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real. You can take more than one creature along with you (subject to your level limit), but all must be touching each other.<br><br>In the region of shadow, you move at a rate of 50 miles per hour, moving normally on the borders of the Plane of Shadow but much more rapidly relative to the Material Plane. Thus, you can use this spell to travel rapidly by stepping onto the Plane of Shadow, moving the desired distance, and then stepping back onto the Material Plane.<br><br>Because of the blurring of reality between the Plane of Shadow and the Material Plane, you can't make out details of the terrain or areas you pass over during transit, nor can you predict perfectly where your travel will end. It's impossible to judge distances accurately, making the spell virtually useless for scouting or spying. Furthermore, when the spell effect ends, you are shunted 1d10 × 100 feet in a random horizontal direction from your desired endpoint. If this would place you within a solid object, you are shunted 1d10 × 1,000 feet in the same direction. If this would still place you within a solid object, you (and any creatures with you) are shunted to the nearest empty space available, but the strain of this activity renders each creature fatigued (no save).<br><br><i>Shadow walk<\/i> can also be used to travel to other planes that border on the Plane of Shadow, but this usage requires the transit of the Plane of Shadow to arrive at a border with another plane of reality. The transit of the Plane of Shadow requires 1d4 hours.<br><br>Any creatures touched by you when shadow walk is cast also make the transition to the borders of the Plane of Shadow.<br><br>They may opt to follow you, wander off through the plane, or stumble back into the Material Plane (50% chance for either of the latter results if they are lost or abandoned by you). Creatures unwilling to accompany you into the Plane of Shadow receive a Will saving throw, negating the effect if successful.",
     "name_zh": "行影术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -28,6 +32,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>要施展行影术，你必须处在昏暗的区域内。之后你和你接触到的生物会沿着一条盘旋的阴影物质道路，进入阴影位面和主物质位面的交界。这效果是非常大的幻像，但路径却近乎真实。你可以带领多个生物前往 (数量受你等级所限)，但相互之间必须有接触。<\/p><p>在阴影区域内，你的移动速度可达50里/小时，这在阴影位面属于正常速度，而在主物质位面则非常快。因此你可以用这个法术快速移动：进入阴影位面，迅速移动一段距离，再返回主物质位面。<\/p><p>由于两位面之间一切都很模糊，你无法清楚地了解旅途中的一切，也无法准确确知旅行的终点。你无法精确了解移动距离，这使得该法术无法用于进行侦查或者间谍活动。法术结束后，你将出现在距离目标地点1d10×100尺的地点，水平方向完全随机。若这会使你或同行者出现在固体之内，则你们会出现在同一方向的1d10×1000尺处。若这还是会使你们出现在固体之内，则你 (以及任何与你同行的生物) 会出现在最近的空地，但这会使所有人陷入疲乏状态 (无豁免)。<\/p><p>行影术可以用以进入与阴影位面交界的其他位面，这需要穿越幽影位面并到达它与另一位面的交界处。穿越阴影位面需要1d4小时。<\/p><p>你施法时接触到的任何生物会随你一同进入阴影位面的边界。它们可以选择跟随你、在阴影位面游荡、或误返主物质位面 (若它们失散或被你抛弃，后两者发生的机率均为50%)。随你进入阴影位面的非自愿生物可进行意志检定，成功则不受影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>要施展行影术，你必须处在昏暗的区域内。之后你和你接触到的生物会沿着一条盘旋的阴影物质道路，进入阴影位面和主物质位面的交界。这效果是非常大的幻像，但路径却近乎真实。你可以带领多个生物前往 (数量受你等级所限)，但相互之间必须有接触。<\/p><p>在阴影区域内，你的移动速度可达50里/小时，这在阴影位面属于正常速度，而在主物质位面则非常快。因此你可以用这个法术快速移动：进入阴影位面，迅速移动一段距离，再返回主物质位面。<\/p><p>由于两位面之间一切都很模糊，你无法清楚地了解旅途中的一切，也无法准确确知旅行的终点。你无法精确了解移动距离，这使得该法术无法用于进行侦查或者间谍活动。法术结束后，你将出现在距离目标地点1d10×100尺的地点，水平方向完全随机。若这会使你或同行者出现在固体之内，则你们会出现在同一方向的1d10×1000尺处。若这还是会使你们出现在固体之内，则你 (以及任何与你同行的生物) 会出现在最近的空地，但这会使所有人陷入疲乏状态 (无豁免)。<\/p><p>行影术可以用以进入与阴影位面交界的其他位面，这需要穿越幽影位面并到达它与另一位面的交界处。穿越阴影位面需要1d4小时。<\/p><p>你施法时接触到的任何生物会随你一同进入阴影位面的边界。它们可以选择跟随你、在阴影位面游荡、或误返主物质位面 (若它们失散或被你抛弃，后两者发生的机率均为50%)。随你进入阴影位面的非自愿生物可进行意志检定，成功则不受影响。<\/p>"
 }

@@ -1,15 +1,19 @@
 {
     "key": "frosthammer",
-    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frosthammer",
     "name": "Frosthammer",
-    "book": "Pathfinder Adventure Path #71: Rasputin Must Die! © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frosthammer",
+    "source": ["Pathfinder #69: Maiden, Mother, Crone pg. 66"],
     "school": "evocation",
-    "descriptors": "cold",
+    "descriptors": ["cold"],
+    "race": "Kostchtchie",
     "levels":     {
         "antipaladin": 3,
-        "cleric/oracle": 3,
+        "cleric": 3,
+        "hunter": 3,
         "inquisitor": 3,
-        "ranger": 3
+        "oracle": 3,
+        "ranger": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -18,15 +22,15 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You create a warhammer of magically hardened ice and send it hurling toward the target. You must succeed at a ranged touch attack to strike the target. If hit, the target takes 1d8 points of damage per 2 caster levels you possess (maximum 5d8); half this damage is bludgeoning damage, half is cold damage. The frosthammer counts as having a +1 enhancement bonus for the purpose of bypassing DR. If the target takes any bludgeoning damage from the hammer, you may attempt a trip combat maneuver check against that target, except you may use your caster level instead of your BAB and your spellcasting ability modifier (Wisdom for clerics, and so on) instead of your Strength modifier.<\/p>",
+    "text": "You create a warhammer of magically hardened ice and send it hurling toward the target. You must succeed at a ranged touch attack to strike the target. If hit, the target takes 1d8 points of damage per 2 caster levels you possess (maximum 5d8); half this damage is bludgeoning damage, half is cold damage. The <i>frosthammer<\/i> counts as having a +1 enhancement bonus for the purpose of bypassing DR. If the target takes any bludgeoning damage from the hammer, you may attempt a trip combat maneuver check against that target, except you may use your caster level instead of your BAB and your spellcasting ability modifier (Wisdom for clerics, and so on) instead of your Strength modifier. ",
     "name_zh": "冰霜之锤",
+    "race_zh": "Kostchtchie",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一把用魔法硬化的寒冰制成的战锤（warhammer），然后将它投掷向目标。你必须成功进行一次远程接触攻击才能击中目标。如果被击中，目标受到你所具有的每2个施法者等级1d8点伤害（最大5d8）；这种伤害的一半是钝击伤害，一半是寒冷伤害。在用于绕过DR时冰霜之锤算作具有+1增强加值。如果目标受到这把锤子的任何钝击伤害，你可以尝试对该目标进行摔绊战技检定，除了你可以使用你的施法者等级代替你的BAB，用你的施法属性调整值（如牧师的感知等）代替你的力量调整值。<\/p>",
-    "source": "AP-RoW"
+    "text_zh": "<p>你创造出一把用魔法硬化的寒冰制成的战锤（warhammer），然后将它投掷向目标。你必须成功进行一次远程接触攻击才能击中目标。如果被击中，目标受到你所具有的每2个施法者等级1d8点伤害（最大5d8）；这种伤害的一半是钝击伤害，一半是寒冷伤害。在用于绕过DR时冰霜之锤算作具有+1增强加值。如果目标受到这把锤子的任何钝击伤害，你可以尝试对该目标进行摔绊战技检定，除了你可以使用你的施法者等级代替你的BAB，用你的施法属性调整值（如牧师的感知等）代替你的力量调整值。<\/p>"
 }

@@ -1,15 +1,19 @@
 {
     "key": "bountiful banquet",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bountiful-banquet/",
     "name": "Bountiful Banquet",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bountiful%20Banquet",
+    "source": ["Ultimate Intrigue pg. 205"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
         "bard": 4,
         "cleric": 4,
         "druid": 4,
-        "shaman": 4
+        "hunter": 4,
+        "oracle": 4,
+        "shaman": 4,
+        "skald": 4,
+        "warpriest": 4
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (a turkey bone)",
@@ -18,15 +22,14 @@
     "duration": "1 hour; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You conjure a beautiful and delicious feast with hors d'oeuvres, four courses worth of food, and plentiful drink. The food appears on ornate serving trays or in exquisite covered tureens, as appropriate to each type of dish. Place settings and serving utensils also appear—enough for each creature that will participate in the feast—along with elegant tablecloths and table linens. The spell doesn't create furniture, but the feast does adapt to appear on top of existing tables (or similar objects in the environment).<\/p><p>Though the feast and all the finery last only 1 hour, creatures that partake remain nourished and sated for 24 hours. Though you have little control over the fine details of the feast, you can specify what type of dish you want for each course and what sorts of beverages are provided. The feast automatically adjusts depending on the type of spellcaster you are. For instance, a druid casting this spell typically creates a spread of natural berries, whole roasted animals, and sweet (and possibly fermented) nectar for beverages, all on rough-hewn wooden plates with chopsticks instead of silverware and sizable leaves replacing napkins.<\/p>",
+    "text": "You conjure a beautiful and delicious feast with hors d’oeuvres, four courses worth of food, and plentiful drink. The food appears on ornate serving trays or in exquisite covered tureens, as appropriate to each type of dish. Place settings and serving utensils also appear—enough for each creature that will participate in the feast—along with elegant tablecloths and table linens. The spell doesn’t create furniture, but the feast does adapt to appear on top of existing tables (or similar objects in the environment).<br><br> Though the feast and all the finery last only 1 hour, creatures that partake remain nourished and sated for 24 hours. Though you have little control over the fine details of the feast, you can specify what type of dish you want for each course and what sorts of beverages are provided. The feast automatically adjusts depending on the type of spellcaster you are. For instance, a druid casting this spell typically creates a spread of natural berries, whole roasted animals, and sweet (and possibly fermented) nectar for beverages, all on rough-hewn wooden plates with chopsticks instead of silverware and sizable leaves replacing napkins.",
     "name_zh": "丰盛餐宴",
     "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势，材料（火鸡骨）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "为2个生物/等级提供的餐宴",
-    "duration_zh": "1小时；见后文",
+    "duration_zh": "1小时; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一桌色香味俱全的餐宴，这包含餐前甜点、4道菜肴和丰富的饮品。这些食物被装在华丽的托盘或盛在精制的汤盘中，每道菜都放置在相应的餐盘中。各种餐具也会一同出现——数量足够所有想要参加餐宴的生物取用——并放置在考究的桌布与台布上。该法术并不会创造家具，但是餐饮和用具会出现在合适的桌面上（或者当前环境中具有的类似物体）。\n尽管餐饮和所有装饰仅持续1小时，不过享用过食物的生物会获得维持24小时的营养与饱腹感。你对餐饮有着一定程度的掌控力，你能指定每道菜的类型，也可以决定饮料的种类。餐宴会自动与你的施法者类型相适应。举例说明，德鲁伊施放该法术会创造出天然蔬果和整只烧烤的动物组成的主菜，以甜蜜酒（很可能发酵过）作为饮料，而这些餐饮均使用了粗制的木造容器，桌布也以巨大的绿色叶子作为替代。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你创造出一桌色香味俱全的餐宴，这包含餐前甜点、4道菜肴和丰富的饮品。这些食物被装在华丽的托盘或盛在精制的汤盘中，每道菜都放置在相应的餐盘中。各种餐具也会一同出现——数量足够所有想要参加餐宴的生物取用——并放置在考究的桌布与台布上。该法术并不会创造家具，但是餐饮和用具会出现在合适的桌面上（或者当前环境中具有的类似物体）。<\/p><p>尽管餐饮和所有装饰仅持续1小时，不过享用过食物的生物会获得维持24小时的营养与饱腹感。你对餐饮有着一定程度的掌控力，你能指定每道菜的类型，也可以决定饮料的种类。餐宴会自动与你的施法者类型相适应。举例说明，德鲁伊施放该法术会创造出天然蔬果和整只烧烤的动物组成的主菜，以甜蜜酒（很可能发酵过）作为饮料，而这些餐饮均使用了粗制的木造容器，桌布也以巨大的绿色叶子作为替代。<\/p>"
 }

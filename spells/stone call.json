@@ -1,20 +1,21 @@
 {
     "key": "stone call",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stone-call/",
     "name": "Stone Call",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stone%20Call",
+    "source": ["Advanced Player's Guide pg. 247"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 2,
         "bloodrager": 2,
         "druid": 2,
+        "hunter": 2,
         "magus": 2,
         "ranger": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
-    "elementalSchools": {"earth": 2},
-    "mysteries": {"stone": 2},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -22,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast.<\/p><p>For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt).<\/p>",
+    "text": "A rain of dirt, gravel, and small pebbles fills the area, dealing 2d6 points of bludgeoning damage to every creature in the area. This damage only occurs once, when the spell is cast. For the remaining duration of the spell, this debris covers the ground, making the entire area difficult terrain. At the end of the duration, the rocks disappear, leaving no aftereffects (other than the damage dealt).",
     "name_zh": "召岩术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "圆柱体 (40英尺半径，20英尺高)",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "柱型区域 (半径40尺, 高20尺)",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>一阵泥土、沙石和鹅卵石在目标区域倾泻而下，对区域内的生物造成2d6点伤害。这个伤害只会在法术被施放时造成一次。<\/p><p>在法术剩余的持续时间内，这些杂物会覆盖目标区域的地面，使整个区域被视为困难地形。<\/p><p>当法术持续时间结束，沙石会全部消失，不会留下任何后遗症 (除了之前砸出来的伤害)。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>一阵泥土、沙石和鹅卵石在目标区域倾泻而下，对区域内的生物造成2d6点伤害。这个伤害只会在法术被施放时造成一次。<\/p><p>在法术剩余的持续时间内，这些杂物会覆盖目标区域的地面，使整个区域被视为困难地形。<\/p><p>当法术持续时间结束，沙石会全部消失，不会留下任何后遗症 (除了之前砸出来的伤害)。<\/p>"
 }

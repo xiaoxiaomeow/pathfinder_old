@@ -1,27 +1,36 @@
 {
     "key": "planetary adaptation, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planetary-adaptation/",
     "name": "Planetary Adaptation, Mass",
-    "base": "planetary adaptation",
-    "book": "Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Planetary%20Adaptation,%20Mass",
+    "source":     [
+        "People of the Stars pg. 29",
+        "Distant Worlds pg. 55"
+    ],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 6,
-        "sorcerer/wizard": 7,
-        "summoner": 6
+        "arcanist": 7,
+        "cleric": 6,
+        "oracle": 6,
+        "sorcerer": 7,
+        "summoner": 6,
+        "summoner (unchained)": 6,
+        "warpriest": 6,
+        "wizard": 7
     },
+    "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 hour/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions like <i>planetary adaptation<\/i>, except as noted above.<\/p><\/div>",
+    "text": "This spell functions as <i>planetary adaptation<\/i>, except as noted above.",
     "name_zh": "群体行星适应",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一位生物/等级，任两者之间不得相距超过30呎",
+    "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>此法术如同行星适应般作用，除了上面记载的外。<\/p>",
-    "source": "CS-DW"
+    "text_zh": "<p>此法术如同行星适应般作用，除了上面记载的外。<\/p>"
 }

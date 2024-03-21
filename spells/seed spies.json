@@ -1,19 +1,35 @@
 {
     "key": "seed spies",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/seed-spies/",
     "name": "Seed Spies",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Seed%20Spies",
+    "source": ["Ultimate Wilderness pg. 14"],
     "school": "divination",
+    "race": "Gathlain",
     "levels":     {
+        "arcanist": 3,
         "druid": 2,
+        "hunter": 2,
         "occultist": 2,
         "ranger": 2,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
-    "text": "<p>This spell functions as <em>insect spies<\/em>, except it creates wafting seeds with magical intellect instead of insects. the seeds can hear but not see. They fly at a speed of 10 feet (good maneuverability), but they can't crawl or climb, although they can cling to rough, soft, or sticky creatures or surfaces.<\/p>",
+    "castingTime": "1 round",
+    "components": "V, S, M (a drop of honey)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "up to one insect spy/4 levels",
+    "duration": "10 minutes/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>insect spies<\/i>, except it creates wafting seeds with magical intellect instead of insects. The seeds can hear but not see. They fly at a speed of 10 feet (good maneuverability), but they can’t crawl or climb, although they can cling to rough, soft, or sticky creatures or surfaces.",
     "name_zh": "种子密探",
-    "text_zh": "<p>这种法术就像昆虫探子（insect spy）一样，只不过这种法术会创造出具有魔法智能的飘飞种子，而不是昆虫。种子能听见，但不能看见。它们的飞行速度为10英尺（良好机动性），但它们不能匍匐前进（crawl）或攀爬，尽管它们可以附着在粗糙、柔软或粘滞的生物或表面上。<\/p>",
-    "source": "UW"
+    "race_zh": "Gathlain",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这种法术就像昆虫探子（insect spy）一样，只不过这种法术会创造出具有魔法智能的飘飞种子，而不是昆虫。种子能听见，但不能看见。它们的飞行速度为10英尺（良好机动性），但它们不能匍匐前进（crawl）或攀爬，尽管它们可以附着在粗糙、柔软或粘滞的生物或表面上。<\/p>"
 }

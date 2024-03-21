@@ -1,12 +1,15 @@
 {
     "key": "eldritch conduit",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eldritch-conduit/",
     "name": "Eldritch Conduit",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Eldritch%20Conduit",
+    "source": ["Inner Sea Magic pg. 54"],
     "school": "transmutation",
     "levels":     {
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "arcanist": 2,
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a small mirror)",
@@ -15,15 +18,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p><span>If the target of this spell fails to resist its effects with a Will<span> save, he becomes outlined in faint radiance, as if via faerie fire<span>. At any time before the <i>eldritch conduit<\/i><span> expires, you may cast another spell with an area effect of cone, cylinder, line, or sphere and use the subject of the <i>eldritch conduit<\/i><span> as the point of origin for that spell. Doing so ends the spell immediately. The target must be within close range (25 feet + 5 feet/2 levels) in order for you to use the conduit—if the target moves out of range, the <i>eldritch conduit<\/i><span> effect persists but cannot be utilized by you until you get back within range.<\/p>",
+    "text": "Originally created by a disciple of the archwizard Nex, this spell was used to turn enemy soldiers in Geb’s undead armies into conduits capable of blasting spell energy back into the far reaches of the Gebite lines. Since then, it has become a favorite among arcane casters with an understanding of battlefield tactics.<br><br>If the target of this spell fails to resist its effects with a Will save, he becomes outlined in faint radiance, as if via <i>faerie fire<\/i>. At any time before the <i>eldritch conduit <\/i>expires, you may cast another spell with an area effect of cone, cylinder, line, or sphere and use the subject of the <i>eldritch conduit <\/i>as the point of origin for that spell. Doing so ends the spell immediately. The target must be within close range (25 feet + 5 feet/2 levels) in order for you to use the conduit—if the target moves out of range, the eldritch conduit effect persists but cannot be utilized by you until you get back within range.",
     "name_zh": "魔力通道",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（小镜子）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术最初由奈克斯（Nex）的大法师学徒所创造，它用于将盖布（Geb）的不死军团转变为用于引导爆发性能量的通道，并将这些能量引导至盖布阵线深处。自那时起，这个法术就成为了多数理解战场战术的奥术施法者最爱。\n若该法术的目标在用于抵抗它的意志豁免中失败，则它的身体会笼罩着一层微光，如同妖火（faerie fire）一般。在魔力通道持续时间结束之前，你可以施放另一个区域效果为锥形（cone）、柱形（cylinder）、线形（line）或球形（sphere）的法术，并以魔力通道的受术者作为该法术的源发点。这么做会使法术立刻结束。目标必须在近距范围（25尺 + 5尺/2级）才能被你作为通道使用——若目标移出该范围，魔力通道的效果也会维持下去，但是直至你回到该范围内之前，无法作为通道被你利用。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>这个法术最初由奈克斯（Nex）的大法师学徒所创造，它用于将盖布（Geb）的不死军团转变为用于引导爆发性能量的通道，并将这些能量引导至盖布阵线深处。自那时起，这个法术就成为了多数理解战场战术的奥术施法者最爱。<\/p><p>若该法术的目标在用于抵抗它的意志豁免中失败，则它的身体会笼罩着一层微光，如同妖火（faerie fire）一般。在魔力通道持续时间结束之前，你可以施放另一个区域效果为锥形（cone）、柱形（cylinder）、线形（line）或球形（sphere）的法术，并以魔力通道的受术者作为该法术的源发点。这么做会使法术立刻结束。目标必须在近距范围（25尺 + 5尺/2级）才能被你作为通道使用——若目标移出该范围，魔力通道的效果也会维持下去，但是直至你回到该范围内之前，无法作为通道被你利用。<\/p>"
 }

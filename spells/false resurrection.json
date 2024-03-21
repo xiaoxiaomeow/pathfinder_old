@@ -1,18 +1,19 @@
 {
     "key": "false resurrection",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-resurrection/",
     "name": "False Resurrection",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Resurrection",
+    "source": ["Ultimate Intrigue pg. 214"],
     "school": "conjuration",
-    "subSchool": ["calling"],
+    "subSchools": ["calling"],
     "descriptors":     [
         "chaotic",
         "evil",
         "ruse"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "cleric": 7,
+        "oracle": 7,
         "shaman": 8,
         "witch": 8
     },
@@ -23,15 +24,14 @@
     "duration": "1 day/level",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions as resurrection except that instead of recalling the dead soul to life, the spell calls a shadow demon with the advanced simple template to possess the body. If you fail to overcome the subject's spell resistance, the subject's soul can negate the calling and gain the option to return to life (as resurrection) in the restored body. The possession otherwise functions (as possession) except that the subject's soul is not present to resist. When <i>false resurrection<\/i> ends or the demon is removed from the subject, the demon returns to the Abyss, leaving the body alive but soulless (like that created by clone). If the soul hasn't been returned to life already, it has the option to return in the now-empty body if it still lives (as resurrection). If the body was killed, the demon is sent back to the Abyss but the subject remains dead.<\/p><p>Attempts to identify <i>false resurrection<\/i> with a skill check incorrectly identify it as resurrection (see the ruse descriptor). A fooled viewer mistakes <i>false resurrection's<\/i> aura as the lingering aura of an instantaneous conjuration effect.<\/p>",
+    "text": "This spell functions as <i>resurrection<\/i> except that instead of recalling the dead soul to life, the spell calls a shadow demon with the advanced simple template (<i>Pathfinder RPG Bestiary 67, 294<\/i>) to possess the body. If you fail to overcome the subject’s spell resistance, the subject’s soul can negate the calling and gain the option to return to life (as <i>resurrection<\/i>) in the restored body. The possession otherwise functions (as <i>possession<sup>OA<\/sup><\/i>) except that the subject’s soul is not present to resist. When <i>false resurrection<\/i> ends or the demon is removed from the subject, the demon returns to the Abyss, leaving the body alive but soulless (like that created by clone). If the soul hasn’t been returned to life already, it has the option to return in the now-empty body if it still lives (as <i>resurrection<\/i>). If the body was killed, the demon is sent back to the Abyss but the subject remains dead.<br><br> Attempts to identify <i>false resurrection<\/i> with a skill check incorrectly identify it as <i>resurrection<\/i> (see the ruse descriptor). A fooled viewer mistakes <i>false resurrection’s<\/i> aura as the lingering aura of an instantaneous conjuration effect.",
     "name_zh": "虚假复生术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言，姿势，材料（价值10000gp的钻石），法器",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
-    "duration_zh": "1日/等级",
+    "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术的功能如同复生术（Resurrection）一般，不过取代原本让死者复生的效果，该法术会呼唤出1个带有进化简单模板（advanced simple template）的影魔（shadow demon；Bestiary I）占据尸体。若你未能克服受术者的法术抗力，受术者的灵魂便能够阻止呼唤，并且获得在被恢复的身体里复生的选择权，就如同复生术（Resurrection）一般。占据效果就如同占据术（Possession；OA）一般，不过受术者的灵魂无法进行抵御。当虚假复生术结束、或者从受术者体内驱离恶魔时，恶魔会返回深渊（Abyss），留下没有灵魂但还活着的躯体，这类似于克隆术（Clone）制造的复制体。若灵魂还未被覆生，那么它可以选择回到这具已经成为空壳的身体中（若身体还活着的话），就如同复生术（Resurrection）一般。若身体被杀死，那么恶魔会被送回深渊，但是受术者仍然处于死亡的状态。\n尝试以技能检定鉴别虚假复生术时，会将其误认为复生术（Resurrection）。详细请见192页诡计描述符（ruse descriptor）的说明。被愚弄的观察者会将虚假复生术的灵光误认为立即咒法效果（instantaneous conjuration effect）的残存灵光（lingering aura）。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>该法术的功能如同复生术（Resurrection）一般，不过取代原本让死者复生的效果，该法术会呼唤出1个带有进化简单模板（advanced simple template）的影魔（shadow demon；Bestiary I）占据尸体。若你未能克服受术者的法术抗力，受术者的灵魂便能够阻止呼唤，并且获得在被恢复的身体里复生的选择权，就如同复生术（Resurrection）一般。占据效果就如同占据术（Possession；OA）一般，不过受术者的灵魂无法进行抵御。当虚假复生术结束、或者从受术者体内驱离恶魔时，恶魔会返回深渊（Abyss），留下没有灵魂但还活着的躯体，这类似于克隆术（Clone）制造的复制体。若灵魂还未被覆生，那么它可以选择回到这具已经成为空壳的身体中（若身体还活着的话），就如同复生术（Resurrection）一般。若身体被杀死，那么恶魔会被送回深渊，但是受术者仍然处于死亡的状态。<\/p><p>尝试以技能检定鉴别虚假复生术时，会将其误认为复生术（Resurrection）。详细请见192页诡计描述符（ruse descriptor）的说明。被愚弄的观察者会将虚假复生术的灵光误认为立即咒法效果（instantaneous conjuration effect）的残存灵光（lingering aura）。<\/p>"
 }

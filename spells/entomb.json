@@ -1,15 +1,16 @@
 {
     "key": "entomb",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/entomb/",
     "name": "Entomb",
-    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Entomb",
+    "source": ["Heroes of the Darklands pg. 20"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
         "arcanist": 8,
         "druid": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8
+        "sorcerer": 8,
+        "wizard": 8
     },
     "castingTime": "1 minute",
     "components": "V, S, M (a pristine geode worth at least 1,000 gp)",
@@ -18,15 +19,14 @@
     "duration": "permanent",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p class=\"description\">You designate an aboveground area and send it deep within the earth.<\/p><p>During the casting of this spell, the chosen area is rocked by minor tremors that alert nearby creatures to the impending danger. Once the spell is complete, the chosen area is drawn into the earth and buried in a self-contained vault, with the uppermost point at a depth of up to 10 feet per caster level below the surface. The surrounding atmosphere and all creatures within the selected area at the end of the spell's casting time are entombed in this vault.<\/p><p>The magic of the vault maintains the natural light, temperature, and air quality of the area as it originally existed aboveground, but any magical effects that affected these qualities do not have their duration extended. For example, a sunny field would remain brightly lit indefinitely, despite being buried underground, while a daylight spell would expire at the end of that spell's duration.<\/p><p>When creating the vault, you can leave a tunnel to the surface world (up to 20 feet wide), or you can completely isolate the vault from the outside world. Casting this spell does not destroy or damage anything that may have existed in the ground where you choose to place this vault, but instead pushes it farther down into the earth. Should your vault be dispelled, the entombed area returns to the surface, and anything that may have been displaced by the vault returns to its original place. If there is something already on the surface that blocks the vault's path, the vault pushes it harmlessly aside when returning.<\/p>",
+    "text": "You designate an aboveground area and send it deep within the earth. During the casting of this spell, the chosen area is rocked by minor tremors that alert nearby creatures to the impending danger. Once the spell is complete, the chosen area is drawn into the earth and buried in a self-contained vault, with the uppermost point at a depth of up to 10 feet per caster level below the surface. The surrounding atmosphere and all creatures within the selected area at the end of the spell’s casting time are entombed in this vault.<br><br> The magic of the vault maintains the natural light, temperature, and air quality of the area as it originally existed aboveground, but any magical effects that affected these qualities do not have their duration extended. For example, a sunny field would remain brightly lit indefinitely, despite being buried underground, while a <i>daylight<\/i> spell would expire at the end of that spell’s duration.<br><br> When creating the vault, you can leave a tunnel to the surface world (up to 20 feet wide), or you can completely isolate the vault from the outside world. Casting this spell does not destroy or damage anything that may have existed in the ground where you choose to place this vault, but instead pushes it farther down into the earth. Should your vault be dispelled, the entombed area returns to the surface, and anything that may have been displaced by the vault returns to its original place. If there is something already on the surface that blocks the vault’s path, the vault pushes it harmlessly aside when returning.",
     "name_zh": "埋葬",
     "castingTime_zh": "1分钟",
     "components_zh": "语言、姿势、材料 (一枚古代的异质晶簇，至少价值1000gp)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "至多3个10呎立方体/等级 (S)",
     "duration_zh": "永久",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你指定一块地表的区域，并将它送到地下深处。在施法此法术时，被选择的区域将会轻微摇晃，警告附近的生物即将到来的危险。一旦此法术完成，被选择的区域将会被吸入地底，埋在一个独立的避难所中，内部的最高点离地表至多每施法者等级10呎。周围的大气与在被选择区域内的所有生物，在施法的最后也会一起被埋葬到避难所中。\n这个魔法避难所保持在原来存在地表处正常的光亮、气温以及空气品质，但任何影响这些东西的魔法效果的持续时间并不会被延长。举个例子，一处阳光明媚的区域，尽管被深埋在地底下，将永远保持明亮的光芒，但暨明术(daylight)在该处会于持续时间结束时正常结束。\n当创造避难所时，你可以在地表留下一条隧道(至多20呎宽)，又或着你可以将避难所与外界完全隔离。施展此法术不会毁灭或是伤害任何已存在于你所选择放置此避难所的区域的任何东西，但取而代之的是他们在地下会被推向更远处。如果你的避难所被解除了，此被埋入的区域将回归地表，而任何因为避难所而转移的东西会回归原位。如果在地表已经有什么东西挡住了避难所的路径，那在避难所回归时会无害的将之推向一边。<\/p>",
-    "source": "PC-HotD"
+    "text_zh": "<p>你指定一块地表的区域，并将它送到地下深处。在施法此法术时，被选择的区域将会轻微摇晃，警告附近的生物即将到来的危险。一旦此法术完成，被选择的区域将会被吸入地底，埋在一个独立的避难所中，内部的最高点离地表至多每施法者等级10呎。周围的大气与在被选择区域内的所有生物，在施法的最后也会一起被埋葬到避难所中。<\/p><p>这个魔法避难所保持在原来存在地表处正常的光亮、气温以及空气品质，但任何影响这些东西的魔法效果的持续时间并不会被延长。举个例子，一处阳光明媚的区域，尽管被深埋在地底下，将永远保持明亮的光芒，但暨明术(daylight)在该处会于持续时间结束时正常结束。<\/p><p>当创造避难所时，你可以在地表留下一条隧道(至多20呎宽)，又或着你可以将避难所与外界完全隔离。施展此法术不会毁灭或是伤害任何已存在于你所选择放置此避难所的区域的任何东西，但取而代之的是他们在地下会被推向更远处。如果你的避难所被解除了，此被埋入的区域将回归地表，而任何因为避难所而转移的东西会回归原位。如果在地表已经有什么东西挡住了避难所的路径，那在避难所回归时会无害的将之推向一边。<\/p>"
 }

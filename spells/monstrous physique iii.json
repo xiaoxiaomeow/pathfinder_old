@@ -1,18 +1,29 @@
 {
     "key": "monstrous physique iii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/monstrous-physique-i/",
     "name": "Monstrous Physique III",
-    "base": "monstrous physique i",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Monstrous%20Physique%20III",
+    "source": ["Ultimate Magic pg. 229"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 5,
+        "arcanist": 5,
+        "investigator": 5,
         "magus": 5,
-        "sorcerer/wizard": 5
+        "sorcerer": 5,
+        "wizard": 5
     },
-    "text": "<p>This spell functions as <i>monstrous physique II<\/i>, except it also allows you to assume the form of a Diminutive or Huge creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, blood frenzy, cold vigor, constrict, ferocity, freeze, grab, horrific appearance, jet, leap attack, mimicry, natural cunning, overwhelming, poison, pounce, rake, sound mimicry, speak with sharks, trample, trip, and web. If the creature has the undersized weapons special quality, you gain that quality.<\/p><ul>   <li><b>Diminutive monstrous humanoid<\/b>: If the form you take is that of a Diminutive monstrous humanoid, you gain a +6 size bonus to your Dexterity, a –4 penalty to your Strength, and a +1 natural armor bonus.<\/li>   <li><b>Huge monstrous humanoid<\/b>: If the form you take is that of a Huge monstrous humanoid, you gain a +6 size bonus to your Strength, a –4 penalty to your Dexterity, and a +6 natural armor bonus.<\/li>  <\/ul>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "This spell functions as <i>monstrous physique II<\/i>, except it also allows you to assume the form of a Diminutive or Huge creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, blood frenzy, cold vigor, constrict, ferocity, freeze, grab, horrific appearance, jet, leap attack, mimicry, natural cunning, overwhelming, poison, pounce, rake, sound mimicry, speak with sharks, trample, trip, and web. If the creature has the undersized weapons special quality, you gain that quality.<br><br><i>Diminutive monstrous humanoid<\/i>: If the form you take is that of a Diminutive monstrous humanoid, you gain a +6 size bonus to your Dexterity, a –4 penalty to your Strength, and a +1 natural armor bonus.<br><br><i>Huge monstrous humanoid<\/i>: If the form you take is that of a Huge monstrous humanoid, you gain a +6 size bonus to your Strength, a –4 penalty to your Dexterity, and a +6 natural armor bonus.<h2 class=\"title\">Mythic Monstrous Physique III<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 102<\/i><br>Each <i>mythic monstrous physique<\/i> spell must be learned individually, and you must know the respective non-mythic <i>monstrous physique<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic monstrous physique<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic monstrous physique II<\/i> if you know <i>monstrous physique II<\/i>, even if you don’t know <i>mythic monstrous physique I<\/i>). Each <i>mythic monstrous physique<\/i> spell adds the following benefits to its respective non-mythic version.<br><br> The spell’s bonuses to ability scores increase by 2 each, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 each (minimum penalty of 0). Alternatively, you can cast this spell on another willing creature, changing the range to touch and the target to one creature. <br><br><b>Augmented (4th)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. Additionally, you can cast this spell on other willing creatures, changing the range to touch and the target to one creature per tier. ",
+    "mythicSource": ["Mythic Adventures pg. 102"],
+    "mythicText": "Each <i>mythic monstrous physique<\/i> spell must be learned individually, and you must know the respective non-mythic <i>monstrous physique<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic monstrous physique<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic monstrous physique II<\/i> if you know <i>monstrous physique II<\/i>, even if you don’t know <i>mythic monstrous physique I<\/i>). Each <i>mythic monstrous physique<\/i> spell adds the following benefits to its respective non-mythic version.<br><br> The spell’s bonuses to ability scores increase by 2 each, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 each (minimum penalty of 0). Alternatively, you can cast this spell on another willing creature, changing the range to touch and the target to one creature. <br><br><b>Augmented (4th)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. Additionally, you can cast this spell on other willing creatures, changing the range to touch and the target to one creature per tier. ",
     "name_zh": "类人形态 III",
-    "text_zh": "<p>这个法术工作方式类似类人形态II (Monstrous Physique II)，不过你可以选择一种微型或超大型类人怪物形态。<\/p><p>如果你选择的形态有以下能力，你获得它们：30尺掘洞，90尺攀爬，90尺飞行 (良好机动性)，90尺游泳，全域视野 (all-around vision)，30尺盲感，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，血性狂暴 (blood frenzy)，寒冷活性 (cold vigor)，收缩 (constrict)，气势凶猛 (ferocity)，静立 (freeze)、攫取 (grab)、骇人外形 (horrific appearance)、喷射推进 (jet)、飞跃攻击 (leap attack)、模仿 (mimicry)、自然狡诈 (natural cunning)、压倒 (overwhelming)、毒素 (poison)、猛扑 (pounce)、耙抓 (rake)、声音模仿 (sound mimicry)、与鲨交谈 (speak with sharks)、摔绊 (trip)、践踏 (trample) 和织网 (web)。\n－微型类人怪物：如果你选择的是一个微型类人怪物，你的敏捷获得+6体型加值，力量获得-4罚值，+1天生护甲。\n－超大型类人怪物：如果你选择是一个超大型类人怪物，你的力量获得+6体型加值，敏捷获得-4罚值，+6天生护甲。<\/p>",
-    "source": "UM"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这个法术工作方式类似类人形态II (Monstrous Physique II)，不过你可以选择一种微型或超大型类人怪物形态。<\/p><p>如果你选择的形态有以下能力，你获得它们：30尺掘洞，90尺攀爬，90尺飞行 (良好机动性)，90尺游泳，全域视野 (all-around vision)，30尺盲感，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，血性狂暴 (blood frenzy)，寒冷活性 (cold vigor)，收缩 (constrict)，气势凶猛 (ferocity)，静立 (freeze)、攫取 (grab)、骇人外形 (horrific appearance)、喷射推进 (jet)、飞跃攻击 (leap attack)、模仿 (mimicry)、自然狡诈 (natural cunning)、压倒 (overwhelming)、毒素 (poison)、猛扑 (pounce)、耙抓 (rake)、声音模仿 (sound mimicry)、与鲨交谈 (speak with sharks)、摔绊 (trip)、践踏 (trample) 和织网 (web)。<\/p><p>－微型类人怪物：如果你选择的是一个微型类人怪物，你的敏捷获得+6体型加值，力量获得-4罚值，+1天生护甲。<\/p><p>－超大型类人怪物：如果你选择是一个超大型类人怪物，你的力量获得+6体型加值，敏捷获得-4罚值，+6天生护甲。<\/p>"
 }

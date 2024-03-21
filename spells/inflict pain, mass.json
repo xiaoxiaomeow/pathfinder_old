@@ -1,30 +1,41 @@
 {
     "key": "inflict pain, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/inflict-pain/",
     "name": "Inflict Pain, Mass",
-    "base": "inflict pain",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Inflict%20Pain,%20Mass",
+    "source": ["Occult Adventures pg. 174"],
     "school": "enchantment",
     "descriptors":     [
         "mind-affecting",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 7,
         "inquisitor": 5,
         "medium": 4,
         "mesmerist": 5,
         "occultist": 5,
         "psychic": 6,
-        "sorcerer/wizard": 7,
+        "sorcerer": 7,
         "spiritualist": 5,
-        "witch": 7
+        "witch": 7,
+        "wizard": 7
     },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature/level, no two of which can be more than 30 ft. apart.",
-    "text": "<p>This spell functions like <i>inflict pain<\/i> except as noted above.<\/p><\/div>",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial, see text",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>inflict pain<\/i> except as noted above.",
     "name_zh": "群体苦痛刑罚",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个生物，任意两者之间的距离不超过30尺",
-    "text_zh": "<p>除了上文所述内容之外，该法术的功能如同苦痛刑罚（Inflict Pain）一般。<\/p>",
-    "source": "OA"
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>除了上文所述内容之外，该法术的功能如同苦痛刑罚（Inflict Pain）一般。<\/p>"
 }

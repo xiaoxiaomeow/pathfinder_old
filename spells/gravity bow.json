@@ -1,28 +1,29 @@
 {
     "key": "gravity bow",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-bow/",
     "name": "Gravity Bow",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gravity%20Bow",
+    "source": ["Advanced Player's Guide pg. 226"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
+        "hunter": 1,
+        "occultist": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
-    },
-    "elementalSchools":     {
-        "metal": 1,
-        "void": 1
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
-    "duration": "1 min./level (d)",
-    "text": "<p><i>Gravity bow<\/i> significantly increases the weight and density of arrows or bolts fired from your bow or crossbow the instant before they strike their target and then return them to normal a few moments later. Any arrow fired from a bow or crossbow you are carrying when the spell is cast deals damage as if one size larger than it actually is. For instance, an arrow fired from a Medium longbow normally deals 1d8 points of damage, but it would instead deal 2d6 points of damage if fired from a <i>gravity bow<\/i> (see table on this page for associated increase/decrease in damage due to size change). Only you can benefit from this spell. If anyone else uses your bow to make an attack the arrows deal damage as normal for their size.<\/p><table border=\"1\" cellpadding=\"5\"><caption>Table: Weapon Damage Size Conversion<\/caption><thead><tr><th class=\"text\">Tiny Weapon Damage<\/th><th class=\"text\">Small Weapon Damage<\/th><th class=\"text\">Medium Weapon Damage<\/th><th class=\"text\">Large Weapon Damage<\/th><th class=\"text\">Huge Weapon Damage<\/th><\/tr><\/thead><tbody><tr><td class=\"marker\">—<\/td><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><\/tr><tr><td class=\"number\">1<\/td><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><\/tr><tr><td class=\"number\">1d2<\/td><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><\/tr><tr><td class=\"number\">1d3<\/td><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d6<\/td><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">1d12<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d4<\/td><td class=\"number\">1d6<\/td><td class=\"number\">2d4<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><\/tr><tr><td class=\"number\">1d8<\/td><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">3d6<\/td><td class=\"number\">4d6<\/td><\/tr><tr><td class=\"number\">1d10<\/td><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">3d8<\/td><td class=\"number\">4d8<\/td><\/tr><tr><td class=\"number\">2d6<\/td><td class=\"number\">2d8<\/td><td class=\"number\">2d10<\/td><td class=\"number\">4d8<\/td><td class=\"number\">6d8<\/td><\/tr><\/tbody><\/table>",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "<i>Gravity bow <\/i>significantly increases the weight and density of arrows or bolts fired from your bow or crossbow the instant before they strike their target and then return them to normal a few moments later. Any arrow fired from a bow or crossbow you are carrying when the spell is cast deals damage as if one size larger than it actually is. For instance, an arrow fired from a Medium longbow normally deals 1d8 points of damage, but it would instead deal 2d6 points of damage if fired from a <i>gravity bow<\/i>. Only you can benefit from this spell. If anyone else uses your bow to make an attack the arrows deal damage as normal for their size.",
     "name_zh": "重压之箭",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>本法术会在命中目前之前增加你用弓或十字弩发射的箭矢的重量和密度，并且稍后将其恢复正常。<\/p><p>当你受到该法术影响时，你用弓或十字弩造成的伤害视为比实际情况大一级的武器的伤害，如同它发射了比实际体积大了一级的箭矢。<\/p><p>例如：一把中型长弓发射的箭矢本来会造成1d8点伤害，但是如果受到本法术的影响，它现在会造成2d6点伤害。 (武器体积和伤害的变化请参考相关表格)<\/p><p>只有你本人可以从该法术获益，如果其他人拿着你的弓继续拧攻击，箭矢只会造成符合其正常体积的伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>本法术会在命中目前之前增加你用弓或十字弩发射的箭矢的重量和密度，并且稍后将其恢复正常。<\/p><p>当你受到该法术影响时，你用弓或十字弩造成的伤害视为比实际情况大一级的武器的伤害，如同它发射了比实际体积大了一级的箭矢。<\/p><p>例如：一把中型长弓发射的箭矢本来会造成1d8点伤害，但是如果受到本法术的影响，它现在会造成2d6点伤害。 (武器体积和伤害的变化请参考相关表格)<\/p><p>只有你本人可以从该法术获益，如果其他人拿着你的弓继续拧攻击，箭矢只会造成符合其正常体积的伤害。<\/p>"
 }

@@ -1,11 +1,14 @@
 {
     "key": "halt undead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/halt-undead/",
     "name": "Halt Undead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Halt%20Undead",
+    "source": ["PRPG Core Rulebook pg. 293"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 3,
         "inquisitor": 3,
-        "sorcerer/wizard": 3
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a pinch of sulfur and powdered garlic)",
@@ -13,15 +16,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>This spell renders as many as three undead creatures immobile. A non-intelligent undead creature gets no saving throw; an intelligent undead creature does. If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect of <i>hold person<\/i> on a living creature). The effect is broken if the <i>halted<\/i> creatures are attacked or take damage.<\/p>",
+    "text": "This spell renders as many as three undead creatures immobile. A nonintelligent undead creature gets no saving throw; an intelligent undead creature does. If the spell is successful, it renders the undead creature immobile for the duration of the spell (similar to the effect of <i>hold person<\/i> on a living creature). The effect is broken if the <i>halted<\/i> creatures are attacked or take damage.",
     "name_zh": "死灵定身术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一撮硫磺或大蒜粉末)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "至多三个不死生物, 任意两者之间的距离不超过30尺",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志, 通过则无效 (见后文)",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术能够让至多三个不死生物无法行动。非智能的不死生物无法进行豁免检定；智能的不死生物则可以。如果法术成功，在法术持续时间内不死生物都会动弹不得，这类似于‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’作用于活物的效果。在被定身的生物受到攻击或受到伤害时，该法术效果就会被打破。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术能够让至多三个不死生物无法行动。非智能的不死生物无法进行豁免检定；智能的不死生物则可以。如果法术成功，在法术持续时间内不死生物都会动弹不得，这类似于‘<a href=\"spell.html?spell=hold person\">人类定身术 (hold person)<\/a>’作用于活物的效果。在被定身的生物受到攻击或受到伤害时，该法术效果就会被打破。<\/p>"
 }

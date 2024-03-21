@@ -1,20 +1,19 @@
 {
     "key": "litany of madness",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-madness/",
     "name": "Litany of Madness",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Madness",
+    "source": ["Ultimate Combat pg. 234"],
     "school": "enchantment",
-    "subSchool": ["charm"],
+    "subSchools": ["charm"],
     "descriptors":     [
         "language-dependent",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 4,
         "inquisitor": 6
     },
-    "mysteries": {"lunar": 6},
     "castingTime": "1 swift action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -22,15 +21,14 @@
     "duration": "1 or more rounds (see below)",
     "savingThrow": "no, see below",
     "spellResistance": "yes",
-    "text": "<p>This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make a Will saving throw against the confused effect (DC of the spell). If the target fails the save, it continues to be confused. If it makes the save, the effect ends.<\/p><p>While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "text": "This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make a Will saving throw against the confused effect (DC of the spell). If the target fails the save, it continues to be confused. If it makes the save, the effect ends.<br><br>While subject to this spell, the target cannot be the target of another spell that has the word \"litany\" in the title.",
     "name_zh": "疯狂祷言",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
-    "duration_zh": "1或更多轮数 (见下文)",
-    "savingThrow_zh": "无；见下文",
+    "duration_zh": "1或更多轮数; 见文本",
+    "savingThrow_zh": "无; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这段祷言是致人疯狂的布道。目标陷入困惑状态。在它的每一轮开始时，它可以对这个困惑效果做一次豁免 (DC等于法术DC)。如果它在豁免中失败，继续困惑。如果豁免通过，效果结束。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>这段祷言是致人疯狂的布道。目标陷入困惑状态。在它的每一轮开始时，它可以对这个困惑效果做一次豁免 (DC等于法术DC)。如果它在豁免中失败，继续困惑。如果豁免通过，效果结束。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>"
 }

@@ -1,23 +1,30 @@
 {
     "key": "passing fancy, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/passing-fancy/",
     "name": "Passing Fancy, Mass",
-    "base": "passing fancy",
-    "book": "Pathfinder Player Companion: Spymaster's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Passing%20Fancy,%20Mass",
+    "source": ["Spymaster's Handbook pg. 29"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 4,
         "mesmerist": 4,
         "psychic": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "skald": 4,
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
-    "target": "one living creature/level, no two of which can be more than 30 ft. apart",
-    "text": "<p>This spell functions as per <i>passing fancy<\/i> except as noted.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature/level, no two of which can be more thatn 30 ft. apart",
+    "duration": "4d4 rounds (D)",
+    "text": "This spell functions as per <i>passing fancy<\/i> except as noted above.",
     "name_zh": "群体心血来潮",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个活物/等级，彼此相距不超过30呎",
-    "text_zh": "<p>这种法术如同心血来潮，除了以上区别。<\/p>",
-    "source": "PC-SH"
+    "duration_zh": "4d4轮 (可解消)",
+    "text_zh": "<p>这种法术如同心血来潮，除了以上区别。<\/p>"
 }

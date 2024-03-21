@@ -1,0 +1,29 @@
+{
+    "key": "betraying sting",
+    "name": "Betraying Sting",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Betraying%20Sting",
+    "source": ["Inner Sea Temples pg. 62"],
+    "school": "evocation",
+    "levels":     {
+        "cleric": 6,
+        "occultist": 6,
+        "oracle": 6,
+        "psychic": 6,
+        "shaman": 6,
+        "warpriest": 6,
+        "witch": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "long (400 ft. + 40 ft./level)",
+    "target": "one creature",
+    "duration": "instantaneous",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "You unleash divine power to smite those who wrongly trusted you. The power takes the form of a yellow-and-black bolt of energy that makes the sound of a thousand angry, swarming wasps. This spell affects only creatures that have an attitude toward you of indifferent, friendly, or helpful. The spell deals 1d8 points of damage per 2 caster levels you have.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可"
+}

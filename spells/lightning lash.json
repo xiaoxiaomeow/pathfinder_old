@@ -1,14 +1,17 @@
 {
     "key": "lightning lash",
-    "url": "https://aonprd.com/SpellDisplay.aspx?ItemName=Lightning%20Lash",
     "name": "Lightning Lash",
-    "book": "Pathfinder Adventure Path #74: Sword of Valor © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightning%20Lash",
+    "source": ["Pathfinder #74: Sword of Valor pg. 74"],
     "school": "evocation",
     "descriptors": ["electricity"],
     "levels":     {
-        "cleric/oracle": 3,
+        "cleric": 3,
+        "hunter": 2,
         "inquisitor": 3,
+        "oracle": 3,
         "ranger": 2,
+        "warpriest": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -18,15 +21,15 @@
     "duration": "1 round/level (D)",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>You create a crackling lash of unholy lightning that flickers and flashes in your hand like a whip, shifting color in response to your mood and will. Once per round, you can make a melee touch attack with the lightning lash against a target within 15 feet. If the attack is successful, it deals 1d6 points of electricity damage and 1d6 points of damage from divine power (similar to flame strike), and allows you to attempt a trip combat maneuver check as a free action against your target (using your caster level as your CMB).<\/p>",
+    "text": "You create a crackling lash of unholy lightning that flickers and flashes in your hand like a whip, shifting color in response to your mood and will. Once per round, you can make a melee touch attack with the <i>lightning lash<\/i> against a target within 15 feet. If the attack is successful, it deals 1d6 points of electricity damage and 1d6 points of damage from divine power (similar to <i>flame strike<\/i>), and allows you to attempt a trip combat maneuver check as a free action against your target (using your caster level as your CMB).",
     "name_zh": "闪电鞭笞",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "20尺半径扩散",
-    "duration_zh": "1轮/等级（可解消）",
+    "area_zh": "20尺爆发 ",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一道噼啪作响、发光闪烁的邪恶闪电，它在你手中像鞭子一样，根据你的心情和意愿改变颜色。每轮一次，你可以用闪电鞭笞对15尺内的目标进行一次近战接触攻击。如果攻击成功，它会造成1d6点闪电伤害和1d6点神力伤害（类似于焰击术），并允许你以自由动作尝试对目标进行绊摔战技检定（使用你的施法者等级作为你的CMB）。\n（译注：不知道20尺扩散了啥，光亮吗？原文如此。）<\/p>",
-    "source": "AP-WotR"
+    "text_zh": "<p>你创造出一道噼啪作响、发光闪烁的邪恶闪电，它在你手中像鞭子一样，根据你的心情和意愿改变颜色。每轮一次，你可以用闪电鞭笞对15尺内的目标进行一次近战接触攻击。如果攻击成功，它会造成1d6点闪电伤害和1d6点神力伤害（类似于焰击术），并允许你以自由动作尝试对目标进行绊摔战技检定（使用你的施法者等级作为你的CMB）。<\/p><p>（译注：不知道20尺扩散了啥，光亮吗？原文如此。）<\/p>"
 }

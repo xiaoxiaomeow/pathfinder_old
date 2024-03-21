@@ -1,34 +1,41 @@
 {
     "key": "euphoric cloud",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/euphoric-cloud/",
     "name": "Euphoric Cloud",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Euphoric%20Cloud",
+    "source":     [
+        "Advanced Class Guide pg. 181",
+        "Dark Markets - A Guide to Katapesh pg. 57"
+    ],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["poison"],
     "levels":     {
+        "arcanist": 2,
         "druid": 2,
+        "hunter": 2,
         "magus": 2,
+        "mesmerist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sahirafiyun": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (rare mushrooms worth 5 gp)",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "fog spreads in 20-ft. radius, 20 ft. high",
     "duration": "1 round/level",
-    "savingThrow": "Fort negates (see text)",
+    "savingThrow": "Fortitude negates (see text)",
     "spellResistance": "no",
-    "text": "<p>You create a bank of fog similar to that created by fog cloud except its vapors are intoxicating. Living creatures in the cloud become fascinated. This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. Any creature that succeeds at its save but remains in the cloud must continue to save each round on your turn.<\/p>",
+    "text": "You create a bank of fog similar to that created by <i>fog cloud<\/i> except its vapors are intoxicating. Living creatures in the cloud become fascinated. This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. Any creature that succeeds at its save but remains in the cloud must continue to save each round on your turn.",
     "name_zh": "欢欣之云",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（价值5gp的稀有蘑菇）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "扩散至半径20尺、高20尺的云雾",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧，通过则无效（见后文）",
+    "savingThrow_zh": "强韧, 通过则无效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一团云雾，这类似于云雾术（fog cloud）所创造的云雾，不过这股雾气会让人沉醉。进入云雾的活物会变得迷魂（fascinated）。只要生物还处于云雾之中，这个效果就会持续下去，即便离开云雾，该效果也会持续1d4 + 1轮。任何成功通过豁免的生物如果仍处于云雾之内，就必须在每轮中你的回合开始时再次进行豁免。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一团云雾，这类似于云雾术（fog cloud）所创造的云雾，不过这股雾气会让人沉醉。进入云雾的活物会变得迷魂（fascinated）。只要生物还处于云雾之中，这个效果就会持续下去，即便离开云雾，该效果也会持续1d4 + 1轮。任何成功通过豁免的生物如果仍处于云雾之内，就必须在每轮中你的回合开始时再次进行豁免。<\/p>"
 }

@@ -1,30 +1,33 @@
 {
     "key": "deceptive redundancy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deceptive-redundancy/",
     "name": "Deceptive Redundancy",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deceptive%20Redundancy",
+    "source": ["Adventurer's Guide pg. 37"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
         "mesmerist": 5,
         "psychic": 5,
-        "sorcerer/wizard": 5
+        "skald": 5,
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
-    "duration": "10 min.s/level or until triggered, then 1 round/level",
+    "target": "you",
+    "duration": "10 minutes/level or until triggered, then 1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p class=\"desciption\">You create a contingent ward that defies those who would dispel your magic, convincing them that their spell worked.<\/p><p>When a spell such as dispel magic would end one of your spells that's affecting you, you can dismiss deceptive redundancy as an immediate action to attempt an opposed caster level check against the spellcaster. If you succeed, the dispelling effect fails to end your spell, and your spell's aura becomes difficult to detect for 1 round per caster level. Any divination attempted during this time fails to perceive the spell's aura unless the caster succeeds at a caster level check (DC = 15 + your caster level). Deceptive redundancy is most effective when hiding auras for spells that don't have easily perceived effects, rather than visually obvious spells such as enlarge person or fire shield.<\/p>",
+    "text": "You create a contingent ward that defies those who would dispel your magic, convincing them that their spell worked. When a spell such as <i>dispel magic<\/i> would end one of your spells that’s affecting you, you can dismiss <i>deceptive redundancy<\/i> as an immediate action to attempt an opposed caster level check against the spellcaster. If you succeed, the dispelling effect fails to end your spell, and your spell’s aura becomes difficult to detect for 1 round per caster level. Any divination attempted during this time fails to perceive the spell’s aura unless the caster succeeds at a caster level check (DC = 15 + your caster level). <i>Deceptive redundancy<\/i> is most effective when hiding auras for spells that don’t have easily perceived effects, rather than visually obvious spells such as <i>enlarge person<\/i> or <i>fire shield<\/i>.",
     "name_zh": "伪解咒术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
-    "duration_zh": "10分钟/等级 或 直至被触发为止，之后为 1轮/等级",
+    "range_zh": "个人",
+    "duration_zh": "10分钟/等级 或 直至被触发为止, 之后为 1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出1道达成条件才会触发的屏障，它会对解除你的魔法的尝试产生反应，让敌人相信自己的法术生效了。在诸如解除魔法（Dispel Magic）这样的法术将会把正在影响你的1个法术中止时，你能以直觉动作（immediate action）解除伪解咒术，并尝试1次对抗性施法者等级检定对抗施法者。若你在检定中胜出了，解除魔法便无法中止正影响你的法术，而且在每施法者等级1轮内，你的法术魔法灵光会变得难以被侦测到。若有人在此期间尝试以预言法术侦测你的法术灵光，则必须先进行1次施法者等级检定（DC = 15 + 你的施法者等级），失败则无法察觉到灵光。伪解咒术在用于隐藏那些难以察觉的法术时较为有效，对于有着明显视觉效果的法术作用不大，比如变巨术（Enlarge Person）或火焰护盾（Fire Shield）。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>你创造出1道达成条件才会触发的屏障，它会对解除你的魔法的尝试产生反应，让敌人相信自己的法术生效了。在诸如解除魔法（Dispel Magic）这样的法术将会把正在影响你的1个法术中止时，你能以直觉动作（immediate action）解除伪解咒术，并尝试1次对抗性施法者等级检定对抗施法者。若你在检定中胜出了，解除魔法便无法中止正影响你的法术，而且在每施法者等级1轮内，你的法术魔法灵光会变得难以被侦测到。若有人在此期间尝试以预言法术侦测你的法术灵光，则必须先进行1次施法者等级检定（DC = 15 + 你的施法者等级），失败则无法察觉到灵光。伪解咒术在用于隐藏那些难以察觉的法术时较为有效，对于有着明显视觉效果的法术作用不大，比如变巨术（Enlarge Person）或火焰护盾（Fire Shield）。<\/p>"
 }

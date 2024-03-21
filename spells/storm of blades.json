@@ -1,14 +1,18 @@
 {
     "key": "storm of blades",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/storm-of-blades/",
     "name": "Storm of Blades",
-    "book": "Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Storm%20of%20Blades",
+    "source": ["People of the Sands pg. 11"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 2,
         "cleric": 3,
         "magus": 2,
-        "sorcerer/wizard": 2
+        "oracle": 3,
+        "sorcerer": 2,
+        "warpriest": 3,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a sword)",
@@ -17,15 +21,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create floating swords of the type used as the material component for this spell (such as a rapier or scimitar) and magically propel them at your target. You can create one sword for every 2 caster levels that you possess, up to a maximum of five swords at 10th level. You must have line of effect between you and the target, and the target must be within the spell's range. You make a ranged attack roll for each sword (with no penalties for range increments or using melee weapons as ranged weapons); each attack has the same threat range and critical modifier and deals the same damage as a standard sword of the type expended. Swords created by this spell disappear after striking (or missing) their targets.<\/p>",
+    "text": "You create floating swords of the type used as the material component for this spell (such as a rapier or scimitar) and magically propel them at your target. You can create one sword for every 2 caster levels that you possess, up to a maximum of five swords at 10th level. You must have line of effect between you and the target, and the target must be within the spell’s range. You make a ranged attack roll for each sword (with no penalties for range increments or using melee weapons as ranged weapons); each attack has the same threat range and critical modifier and deals the same damage as a standard sword of the type expended. Swords created by this spell disappear after striking (or missing) their targets.",
     "name_zh": "剑刃风暴",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一把剑）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一把类型与用于此法术材料成分的剑相同的浮空武器（例如细剑或弯刀），并用魔法驱动它们攻击目标。你每有2个施法者等级就可以创造出一把剑，在10级时最大5把。你和你的目标之间必须有效果线，并且目标必须在法术范围内。你为每把剑做一次远程攻击检定（没有射程增量和近战武器用于远程攻击的惩罚）；每次攻击使用相同的重击范围和重击倍率以及伤害骰，如同用于花费的剑的标准类型。以此法术创造的剑会在攻击（或失手）他们的目标后消失。<\/p>",
-    "source": "PC-PotS"
+    "text_zh": "<p>你创造出一把类型与用于此法术材料成分的剑相同的浮空武器（例如细剑或弯刀），并用魔法驱动它们攻击目标。你每有2个施法者等级就可以创造出一把剑，在10级时最大5把。你和你的目标之间必须有效果线，并且目标必须在法术范围内。你为每把剑做一次远程攻击检定（没有射程增量和近战武器用于远程攻击的惩罚）；每次攻击使用相同的重击范围和重击倍率以及伤害骰，如同用于花费的剑的标准类型。以此法术创造的剑会在攻击（或失手）他们的目标后消失。<\/p>"
 }

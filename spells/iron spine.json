@@ -1,16 +1,18 @@
 {
     "key": "iron spine",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/iron-spine/",
     "name": "Iron Spine",
-    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Iron%20Spine",
+    "source": ["Legacy of the First World pg. 13"],
     "school": "transmutation",
     "levels":     {
         "arcanist": 3,
-        "cleric/oracle": 4,
+        "cleric": 4,
         "magus": 3,
-        "sorcerer/wizard": 3,
+        "oracle": 4,
+        "sorcerer": 3,
         "warpriest": 4,
-        "witch": 3
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (cold iron ingot)",
@@ -19,15 +21,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p class=\"description\">You launch an ingot of iron at the target.<\/p><p>If you succeed at a ranged touch attack, the target's skeleton or exoskeleton turns into jagged shards of cold iron. Whenever the target moves, it takes 1d6 points of piercing damage and is sickened for 1 round as metal spines stab into its flesh. This damage is subject to damage reduction, but it overcomes damage reduction as though it were a weapon of cold iron and magic. A creature affected by this spell can choose to remain motionless to avoid taking damage. Creatures with DR/cold iron or DR/cold iron and magic affected by this spell are nauseated instead of sickened. This spell has no effect on a creature that has neither a skeleton nor a hard carapace.<\/p>",
+    "text": "You launch an ingot of iron at the target. If you succeed at a ranged touch attack, the target’s skeleton or exoskeleton turns into jagged shards of cold iron. Whenever the target moves, it takes 1d6 points of piercing damage and is sickened for 1 round as metal spines stab into its flesh. This damage is subject to damage reduction, but it overcomes damage reduction as though it were a weapon of cold iron and magic. A creature affected by this spell can choose to remain motionless to avoid taking damage. Creatures with DR/cold iron or DR/cold iron and magic affected by this spell are nauseated instead of sickened. This spell has no effect on a creature that has neither a skeleton nor a hard carapace.",
     "name_zh": "钢脊",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料/法器（寒铁锭）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你对目标发射出一块铁锭。如果你在一次远程接触攻击中成功命中，目标的骨骼或者外骨骼会变成锯齿状的寒铁碎片。在目标移动时，它会受到1d6点穿刺伤害，并会在1轮内陷入恶心，因为金属的脊椎刺进了他的血肉中。这个伤害会受到伤害减免的影响，但它会被视作寒铁和魔法武器来克服相应的伤害减免。被这个法术的影响的生物可以选择静止不动来避免受到伤害。拥有DR/寒铁或DR/寒铁与魔法的生物在被这个法术影响时会陷入反胃而不是恶心。这个法术对没有骨骼或硬质外壳的生物没有影响。<\/p>",
-    "source": "PC-LotFW"
+    "text_zh": "<p>你对目标发射出一块铁锭。如果你在一次远程接触攻击中成功命中，目标的骨骼或者外骨骼会变成锯齿状的寒铁碎片。在目标移动时，它会受到1d6点穿刺伤害，并会在1轮内陷入恶心，因为金属的脊椎刺进了他的血肉中。这个伤害会受到伤害减免的影响，但它会被视作寒铁和魔法武器来克服相应的伤害减免。被这个法术的影响的生物可以选择静止不动来避免受到伤害。拥有DR/寒铁或DR/寒铁与魔法的生物在被这个法术影响时会陷入反胃而不是恶心。这个法术对没有骨骼或硬质外壳的生物没有影响。<\/p>"
 }

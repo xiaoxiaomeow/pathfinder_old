@@ -1,26 +1,29 @@
 {
     "key": "ironwood",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ironwood/",
     "name": "Ironwood",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironwood",
+    "source": ["PRPG Core Rulebook pg. 303"],
     "school": "transmutation",
-    "levels": {"druid": 6},
-    "mysteries": {"wood": 6},
+    "levels":     {
+        "druid": 6,
+        "hunter": 6,
+        "occultist": 6
+    },
     "castingTime": "1 minute/lb. created",
     "components": "V, S, F (wood to be transformed)",
     "range": "0 ft.",
     "effect": "an <i>ironwood<\/i> object weighing up to 5 lbs./level",
-    "duration": "1 day/level (d)",
+    "duration": "1 day/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p><i>Ironwood<\/i> is a magical substance created by druids from normal wood. While remaining natural wood in almost every way, <i>ironwood<\/i> is as strong, heavy, and resistant to fire as steel. Spells that affect metal or iron do not function on <i>ironwood<\/i>. Spells that affect wood do affect <i>ironwood<\/i>, although <i>ironwood<\/i> does not burn. Using this spell with wood shape or a wood-related Craft check, you can fashion wooden items that function as steel items. Thus, wooden plate armor and wooden swords can be created that are as durable as their normal steel counterparts. These items are freely usable by druids.<\/p><p>Further, if you make only half as much <i>ironwood<\/i> as the spell would normally allow, any weapon, shield, or suit of armor so created is treated as a magic item with a +1 enhancement bonus.<\/p>",
+    "text": "<i>Ironwood<\/i> is a magical substance created by druids from normal wood. While remaining natural wood in almost every way, <i>ironwood<\/i> is as strong, heavy, and resistant to fire as steel. Spells that affect metal or iron do not function on <i>ironwood<\/i>. Spells that affect wood do affect <i>ironwood<\/i>, although <i>ironwood<\/i> does not burn. Using this spell with <i>wood shape<\/i> or a wood-related Craft check, you can fashion wooden items that function as steel items. Thus, wooden plate armor and wooden swords can be created that are as durable as their normal steel counterparts. These items are freely usable by druids.<br><br>Further, if you make only half as much <i>ironwood<\/i> as the spell would normally allow, any weapon, shield, or suit of armor so created is treated as a magic item with a +1 enhancement bonus.",
     "name_zh": "金刚木",
-    "castingTime_zh": "每创造1磅需要1分钟",
+    "castingTime_zh": "每创造1磅1分钟",
     "components_zh": "语言, 姿势, 器材 (要转化的木材)",
     "range_zh": "0尺",
     "effect_zh": "一个金刚木物体, 至多每等级5磅重",
     "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>金刚木是德鲁伊使用普通木材创造出的一种魔法材质。在保留木头的几乎所有天然特质的同时，金刚木在强度、重量和抗火上如同钢铁。会影响金属的法术对金刚木无效。影响木材的法术会影响金刚木，但金刚木不会燃烧。将此法术与‘<a href=\"spell.html?spell=wood shape\">塑木术 (wood shape)<\/a>’或木头相关的工艺检定结合，你能制作出功能犹如钢铁制品的木制品。因此，木剑和木铠甲可以与钢铁制造的一样使用。德鲁伊可以不受限制地使用这些物品。<\/p><p>另外，如果你仅制造出的法术正常限制数量一半的金刚木，那么以此制造出的任何武器、盾牌、盔甲都视作具有+1增强加值的魔法物品。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>金刚木是德鲁伊使用普通木材创造出的一种魔法材质。在保留木头的几乎所有天然特质的同时，金刚木在强度、重量和抗火上如同钢铁。会影响金属的法术对金刚木无效。影响木材的法术会影响金刚木，但金刚木不会燃烧。将此法术与‘<a href=\"spell.html?spell=wood shape\">塑木术 (wood shape)<\/a>’或木头相关的工艺检定结合，你能制作出功能犹如钢铁制品的木制品。因此，木剑和木铠甲可以与钢铁制造的一样使用。德鲁伊可以不受限制地使用这些物品。<\/p><p>另外，如果你仅制造出的法术正常限制数量一半的金刚木，那么以此制造出的任何武器、盾牌、盔甲都视作具有+1增强加值的魔法物品。<\/p>"
 }

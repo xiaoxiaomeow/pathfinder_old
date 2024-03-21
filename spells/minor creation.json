@@ -1,29 +1,30 @@
 {
     "key": "minor creation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/minor-creation/",
     "name": "Minor Creation",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Minor%20Creation",
+    "source": ["PRPG Core Rulebook pg. 313"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
-        "sorcerer/wizard": 4,
-        "summoner/unchained summoner": 3,
-        "witch": 4
+        "adept": 4,
+        "arcanist": 4,
+        "occultist": 3,
+        "psychic": 4,
+        "sorcerer": 4,
+        "spiritualist": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "witch": 4,
+        "wizard": 4
     },
-    "domains": {"artifice": 4},
-    "elementalSchools":     {
-        "void": 4,
-        "wood": 4
-    },
-    "bloodlines": {"djinni": 4},
-    "mysteries": {"wood": 3},
     "castingTime": "1 minute",
     "components": "V, S, M (a tiny piece of matter of the same sort of item you plan to create with <i>minor creation<\/i>)",
     "range": "0 ft.",
-    "effect": "unattended, non-magical object of nonliving plant matter, up to 1 cu. ft./level",
-    "duration": "1 hour/level (d)",
+    "effect": "unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level",
+    "duration": "1 hour/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a non-magical, unattended object of nonliving vegetable matter. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate Craft skill check to make a complex item.<\/p><p>Attempting to use any created object as a material component causes the spell to fail.<\/p>",
+    "text": "You create a nonmagical, unattended object of nonliving vegetable matter. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate Craft skill check to make a complex item.<br><br>Attempting to use any created object as a material component causes the spell to fail.",
     "name_zh": "弱效造物术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 材料 (一小块与你想要用弱效造物术创造的物品相同材质的原料)",
@@ -32,6 +33,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你可以造出一个未被持用、非魔法且以无生命的植物为组成成分的物品。该物品的体积不能超过每CL 1立方尺。你必须通过适当的工艺技能检定才能做出复杂的物品。<\/p><p>使用任何创造出的物品作为材料成分的尝试，均会导致法术失败。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以造出一个未被持用、非魔法且以无生命的植物为组成成分的物品。该物品的体积不能超过每CL 1立方尺。你必须通过适当的工艺技能检定才能做出复杂的物品。<\/p><p>使用任何创造出的物品作为材料成分的尝试，均会导致法术失败。<\/p>"
 }

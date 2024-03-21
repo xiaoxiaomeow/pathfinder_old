@@ -1,22 +1,27 @@
 {
     "key": "contagious zeal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/contagious-zeal/",
     "name": "Contagious Zeal",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Contagious%20Zeal",
+    "source": ["Occult Adventures pg. 162"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "inquisitor": 3,
+        "oracle": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "spiritualist": 3
+        "skald": 2,
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "warpriest": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -25,15 +30,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target gains a +2 morale bonus on attack rolls and weapon damage rolls, 1d6 temporary hit points, and a +4 morale bonus on saving throws against fear effects and to the DC of Intimidate checks attempted against her. Once per round, the target can select one other creature to gain this bonus as well.<\/p><p>The chosen creature can be no farther from the target than 25 feet + 5 feet for every 2 caster levels you possess, and a creature can't be selected more than once in this way. Such allies gain only the bonuses and temporary hit points; they don't continue to spread it to other creatures. The additional creatures' bonuses and temporary hit points share the original spell's duration, so when that duration ends, all affected creatures lose their bonuses and any remaining temporary hit points from this spell.<\/p>",
+    "text": "The target gains a +2 morale bonus on attack rolls and weapon damage rolls, 1d6 temporary hit points, and a +4 morale bonus on saving throws against fear effects and to the DC of Intimidate checks attempted against her. Once per round, the target can select one other creature to gain this bonus as well. The chosen creature can be no farther from the target than 25 feet + 5 feet for every 2 caster levels you possess, and a creature can’t be selected more than once in this way. Such allies gain only the bonuses and temporary hit points; they don’t continue to spread it to other creatures. The additional creatures’ bonuses and temporary hit points share the original spell’s duration, so when that duration ends, all affected creatures lose their bonuses and any remaining temporary hit points from this spell.",
     "name_zh": "热诚蔓延",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标的攻击检定和武器伤害检定获得+2士气加值，1d6点临时生命值，并且对抗恐惧（fear）效果的豁免检定以及尝试对抗目标的威吓检定DC也获得+4士气加值。每轮1次，目标能够选择一个其他生物也获得这些加值。被选择的生物和目标之间的距离不得超过25尺 + 每两个你具有的施法者等级5尺，而且每个生物仅能以此方式被选取1次。这些盟友仅会获得加值以及临时生命值；他们不能继续讲效果延伸到其他生物身上。额外受到影响的生物的加值和临时生命值共享原本的法术持续时间，因此当法术持续时间结束时，所有被影响的生物都会失去由该法术获得加值以及仍未消耗的临时生命值。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>目标的攻击检定和武器伤害检定获得+2士气加值，1d6点临时生命值，并且对抗恐惧（fear）效果的豁免检定以及尝试对抗目标的威吓检定DC也获得+4士气加值。每轮1次，目标能够选择一个其他生物也获得这些加值。被选择的生物和目标之间的距离不得超过25尺 + 每两个你具有的施法者等级5尺，而且每个生物仅能以此方式被选取1次。这些盟友仅会获得加值以及临时生命值；他们不能继续讲效果延伸到其他生物身上。额外受到影响的生物的加值和临时生命值共享原本的法术持续时间，因此当法术持续时间结束时，所有被影响的生物都会失去由该法术获得加值以及仍未消耗的临时生命值。<\/p>"
 }

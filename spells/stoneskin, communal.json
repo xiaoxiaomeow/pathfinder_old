@@ -1,0 +1,33 @@
+{
+    "key": "stoneskin, communal",
+    "name": "Stoneskin, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stoneskin,%20Communal",
+    "source": ["Ultimate Combat pg. 245"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 5,
+        "arcanist": 5,
+        "druid": 6,
+        "hunter": 6,
+        "inquisitor": 5,
+        "investigator": 5,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer": 5,
+        "summoner": 4,
+        "summoner (unchained)": 5,
+        "wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (granite and diamond dust worth 250 gp per creature affected)",
+    "range": "touch",
+    "duration": "10 min./level or until discharged",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>stoneskin<\/i>, except you divide the duration in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell’s effects end for that subject.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "10分钟/等级 或 直至耗散",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

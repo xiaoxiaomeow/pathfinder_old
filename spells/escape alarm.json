@@ -1,10 +1,9 @@
 {
     "key": "escape alarm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/escape-alarm/",
     "name": "Escape Alarm",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Escape%20Alarm",
+    "source": ["Villain Codex pg. 45"],
     "school": "abjuration",
-    "religion": "unchained",
     "levels":     {
         "arcanist": 2,
         "bard": 2,
@@ -14,9 +13,11 @@
         "psychic": 2,
         "ranger": 2,
         "skald": 2,
-        "sorcerer/wizard": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "summoner": 2
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a short segment of chain)",
@@ -25,15 +26,15 @@
     "duration": "24 hours",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You place a ward on an area that notifies you when a creature exits it. This functions as alarm, except as noted. It alerts you when a creature leaves, rather than enters, the area, and you can't select a password to bypass its effects. Instead, when you place an escape alarm, you can attune up to one additional creature per caster level to the spell. You are automatically attuned to your own escape alarm and don't count against the limit. Attuned creatures can enter and exit the spell's area without triggering the alarm. If you select a mental alarm rather than an audible one, all attuned creatures receive the mental alert when someone exits the warded area.<\/p>",
+    "text": "You place a ward on an area that notifies you when a creature exits it. This functions as <i>alarm<\/i>, except as noted. It alerts you when a creature leaves, rather than enters, the area, and you can’t select a password to bypass its effects. Instead, when you place an <i>escape alarm<\/i>, you can attune up to one additional creature per caster level to the spell. You are automatically attuned to your own <i>escape alarm<\/i> and don’t count against the limit. Attuned creatures can enter and exit the spell’s area without triggering the alarm. If you select a mental alarm rather than an audible one, all attuned creatures receive the mental alert when someone exits the warded area.",
     "name_zh": "逃离警报",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (一条锁炼的一段)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "十个10尺的立方体/等级",
+    "area_zh": "ten 10-foot cubes/level",
     "duration_zh": "24小时",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你在一处区域内安置一个守卫，当一个生物离开时，它会提醒你。此法术如同魔法警报(alarm)般作用，除非另有说明。\n它会在当一个生物离开此区域时提醒你，而非进入此区域，并且你无法选择一组密码来绕过此法术的效果。除此之外，当你安置一个逃离警报(escape alarm)时，你可以在每个施法者等级附加一个额外的生物。你自动的计入在你的逃离警报(escape alarm)上，并且不记入上限。被记入的生物们可以进入与离开法术的区域而不会触动警报。如果你选择的是一个精神警报(Mental Alarm)而不是一个声音警报(Audible Alarm)，所有被记入的生物，会在有人离开时收到精神警报。<\/p>",
-    "source": "VC"
+    "text_zh": "<p>你在一处区域内安置一个守卫，当一个生物离开时，它会提醒你。此法术如同魔法警报(alarm)般作用，除非另有说明。<\/p><p>它会在当一个生物离开此区域时提醒你，而非进入此区域，并且你无法选择一组密码来绕过此法术的效果。除此之外，当你安置一个逃离警报(escape alarm)时，你可以在每个施法者等级附加一个额外的生物。你自动的计入在你的逃离警报(escape alarm)上，并且不记入上限。被记入的生物们可以进入与离开法术的区域而不会触动警报。如果你选择的是一个精神警报(Mental Alarm)而不是一个声音警报(Audible Alarm)，所有被记入的生物，会在有人离开时收到精神警报。<\/p>"
 }

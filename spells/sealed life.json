@@ -1,8 +1,8 @@
 {
     "key": "sealed life",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sealed-life/",
     "name": "Sealed Life",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sealed%20Life",
+    "source": ["Occult Adventures pg. 185"],
     "school": "abjuration",
     "levels":     {
         "medium": 2,
@@ -10,19 +10,19 @@
     },
     "castingTime": "1 standard action",
     "components": "S",
-    "range": "close (25 ft. +5 ft./2 levels)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You seal the life force within the target, preventing it from sharing its vitality with others. Affected creatures can't transfer damage to or from another, such as through shield other, a spiritualist's life bond, or a summoner's life link. Effects such as vampiric touch that steal vitality from others deal damage normally, but provide no benefits.<\/p>",
+    "text": "You seal the life force within the target, preventing it from sharing its vitality with others. Affected creatures can’t transfer damage to or from another, such as through <i>shield other<\/i>, a spiritualist’s life bond, or a summoner’s life link. Effects such as <i>vampiric touch<\/i> that steal vitality from others deal damage normally, but provide no benefits.",
     "name_zh": "命力封印",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你能够封印目标体内的生命力量，防止它把自己的活力分享给他人。受影响的生物无法把伤害值转移至他人，也不能从他人那里接受伤害，比如护卫他人（Shield Other）、唤魂师的魅影联结（Spiritual Bond）或召唤师的生命连结（Life Link）。吸血鬼之触（Vampiric touch）这样的效果仍旧能够正常造成伤害，但却无法为施法者提供好处。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你能够封印目标体内的生命力量，防止它把自己的活力分享给他人。受影响的生物无法把伤害值转移至他人，也不能从他人那里接受伤害，比如护卫他人（Shield Other）、唤魂师的魅影联结（Spiritual Bond）或召唤师的生命连结（Life Link）。吸血鬼之触（Vampiric touch）这样的效果仍旧能够正常造成伤害，但却无法为施法者提供好处。<\/p>"
 }

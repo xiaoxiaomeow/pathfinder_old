@@ -1,16 +1,18 @@
 {
     "key": "moonrise arrow",
-    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Moonrise%20Arrow",
     "name": "Moonrise Arrow",
-    "book": "Pathfinder Adventure Path #134: It Came from Hollow Mountain © 2018, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Moonrise%20Arrow",
+    "source": ["Pathfinder #134: It Came from Hollow Mountain pg. 72"],
     "school": "evocation",
     "descriptors": ["light"],
     "levels":     {
-        "cleric/oracle": 3,
+        "cleric": 3,
         "inquisitor": 3,
         "magus": 3,
         "occultist": 3,
-        "paladin": 3
+        "oracle": 3,
+        "paladin": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +21,14 @@
     "duration": "10 minutes/level",
     "savingThrow": "Fortitude negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p>You cause ammunition, including shuriken, to glow with faint silvery light. The ammunition counts as magic and silver for the purpose of overcoming damage reduction, in addition to the properties of any other special material the ammunition has. Incorporeal undead and shapechangers take an additional 1d8 points of damage from such ammunition. The targeted ammunition sheds dim light in a 5-foot radius for 1 round after it is fired or thrown.<\/p>",
+    "text": "You cause ammunition, including shuriken, to glow with faint silvery light. The ammunition counts as magic and silver for the purpose of overcoming damage reduction, in addition to the properties of any other special material the ammunition has. Incorporeal undead and shapechangers take an additional 1d8 points of damage from such ammunition. The targeted ammunition sheds dim light in a 5-foot radius for 1 round after it is fired or thrown.",
     "name_zh": "月出之箭",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "接触",
     "target_zh": "至多50发弹药，所有弹药在施法时必须互相碰触",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "强韧无效（无害，物体）",
-    "spellResistance_zh": "可（无害，物体）",
-    "text_zh": "<p>你使包括手里剑在内的弹药发出微弱的银光。除了具有的任何其他特殊材料的属性外，弹药在克服伤害减免时也算作魔法和银。虚体亚种不死生物和变形亚种生物会受到这种弹药额外1d8点伤害。目标弹药在发射或投掷后会在5尺半径内散发出昏暗的光/微光（dim light），持续1轮。<\/p>",
-    "source": "AP-RisotR"
+    "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>你使包括手里剑在内的弹药发出微弱的银光。除了具有的任何其他特殊材料的属性外，弹药在克服伤害减免时也算作魔法和银。虚体亚种不死生物和变形亚种生物会受到这种弹药额外1d8点伤害。目标弹药在发射或投掷后会在5尺半径内散发出昏暗的光/微光（dim light），持续1轮。<\/p>"
 }

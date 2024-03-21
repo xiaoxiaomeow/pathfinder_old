@@ -1,13 +1,15 @@
 {
     "key": "burst of force",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burst-of-force/",
     "name": "Burst of Force",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burst%20of%20Force",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
+        "arcanist": 5,
         "psychic": 5,
-        "sorcerer/wizard": 5
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -15,13 +17,13 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude half (see text)",
     "spellResistance": "yes",
-    "text": "<p>With a burst of telekinetic force, you deal 1d6 points of force damage per caster level (maximum 15d6 points of damage) to all other creatures in the affected area. A successful Fortitude save reduces the damage taken by half. A creature that fails its Fortitude save must also succeed at a Reflex save or be knocked prone.<\/p>",
+    "text": "With a burst of telekinetic force, you deal 1d6 points of force damage per caster level (maximum 15d6 points of damage) to all other creatures in the affected area. A successful Fortitude save reduces the damage taken by half. A creature that fails its Fortitude save must also succeed at a Reflex save or be knocked prone.",
     "name_zh": "力场爆发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
+    "area_zh": "以你为中心, 半径20尺爆发范围",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则减半（见描述）",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>通过爆发式的念动力场，你对其他所有影响范围内的生物造成每施法者等级1d6点力场伤害（最大15d6点伤害）。通过成功的强韧豁免将伤害减半。在这个强韧豁免中失败的生物必须再通过一次强韧豁免，否则会被击倒在地。<\/p>",
-    "source": "PC-PA"
+    "text_zh": "<p>通过爆发式的念动力场，你对其他所有影响范围内的生物造成每施法者等级1d6点力场伤害（最大15d6点伤害）。通过成功的强韧豁免将伤害减半。在这个强韧豁免中失败的生物必须再通过一次强韧豁免，否则会被击倒在地。<\/p>"
 }

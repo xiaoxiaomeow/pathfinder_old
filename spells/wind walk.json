@@ -1,31 +1,33 @@
 {
     "key": "wind walk",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wind-walk/",
     "name": "Wind Walk",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wind%20Walk",
+    "source": ["PRPG Core Rulebook pg. 369"],
     "school": "transmutation",
     "descriptors": ["air"],
     "levels":     {
         "alchemist": 6,
-        "cleric/oracle": 6,
+        "cleric": 6,
         "druid": 7,
-        "shaman": 7
+        "investigator": 6,
+        "oracle": 6,
+        "shaman": 7,
+        "warpriest": 6
     },
-    "subdomains": {"wind": 6},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
-    "duration": "1 hour/level (d); see text",
+    "duration": "1 hour/level (D); see text",
     "savingThrow": "no and Will negates (harmless)",
     "spellResistance": "no and yes (harmless)",
-    "text": "<p>You alter the substance of your body to a cloud-like vapor (as the gaseous form spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.<\/p><p>Normally, a wind walker flies at a speed of 10 feet with perfect maneuverability. If desired by the subject, a magical wind wafts a wind walker along at up to 600 feet per round (60 mph) with poor maneuverability. Wind walkers are not invisible but rather appear misty and translucent. If fully clothed in white, they are 80% likely to be mistaken for clouds, fog, vapors, or the like.<\/p><p>A wind walker can regain its physical form as desired and later resume the cloud form. Each change to and from vaporous form takes 5 rounds, which counts toward the duration of the spell (as does any time spent in physical form). As noted above, you can dismiss the spell, and you can even dismiss it for individual wind walkers and not others.<\/p><p>For the last minute of the spell's duration, a wind walker in cloud form automatically descends 60 feet per round (for a total of 600 feet), though it may descend faster if it wishes. This descent serves as a warning that the spell is about to end.<\/p>",
+    "text": "You alter the substance of your body to a cloudlike vapor (as the <i>gaseous form<\/i> spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.<br><br>Normally, a wind walker flies at a speed of 10 feet with perfect maneuverability. If desired by the subject, a magical wind wafts a wind walker along at up to 600 feet per round (60 mph) with poor maneuverability. Wind walkers are not invisible but rather appear misty and translucent. If fully clothed in white, they are 80% likely to be mistaken for clouds, fog, vapors, or the like.<br><br>A wind walker can regain its physical form as desired and later resume the cloud form. Each change to and from vaporous form takes 5 rounds, which counts toward the duration of the spell (as does any time spent in physical form). As noted above, you can dismiss the spell, and you can even dismiss it for individual wind walkers and not others.<br><br>For the last minute of the spell's duration, a wind walker in cloud form automatically descends 60 feet per round (for a total of 600 feet), though it may descend faster if it wishes. This descent serves as a warning that the spell is about to end.",
     "name_zh": "御风而行",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
     "range_zh": "接触",
     "target_zh": "你以及每三个CL一名接触到的生物",
-    "duration_zh": "1小时/等级 (可解消); 见后文",
+    "duration_zh": "1小时/等级 (可解消); 见文本",
     "savingThrow_zh": "无 和 意志, 通过则无效 (无害)",
     "spellResistance_zh": "否 和 可 (无害)",
-    "text_zh": "<p>你将自己变成一团云样雾气在空气中高速穿梭，就如同‘<a href=\"spell.html?spell=gaseous form\">气化形体 (gaseous form)<\/a>’一般。你可以带上其他生物，它们各自独立行动。<\/p><p>通常，御风而行者以10尺的速度移动，并具有完美机动性。如果受术者愿意，一股魔法风可以将御风而行者吹起，最高可以每轮600尺的速度移动 (每小时60英里)，但机动性为不良。御风而行者并非隐形，而是呈半透明雾状。若全身均着白衣，那么会有80%的机率被误认作云、雾、蒸汽之类的东西。<\/p><p>御风而行者随时可以变回原形，之后又可恢复为云雾状。变成蒸汽和从蒸汽变回都须花费5轮时间，且计入法术的持续时间 (在实体形体期间的时间亦计入持续时间)。如法术说明，你可以解消法术，亦可只解消某个受术者的法术而不影响其他人。<\/p><p>法术持续时间中的最后一分钟，云雾状态下的御风而行者自动以每轮60尺的速度下降 (共下降600尺)，当然如果愿意也能以更快速度下降。这效果是法术即将终止的警告。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你将自己变成一团云样雾气在空气中高速穿梭，就如同‘<a href=\"spell.html?spell=gaseous form\">气化形体 (gaseous form)<\/a>’一般。你可以带上其他生物，它们各自独立行动。<\/p><p>通常，御风而行者以10尺的速度移动，并具有完美机动性。如果受术者愿意，一股魔法风可以将御风而行者吹起，最高可以每轮600尺的速度移动 (每小时60英里)，但机动性为不良。御风而行者并非隐形，而是呈半透明雾状。若全身均着白衣，那么会有80%的机率被误认作云、雾、蒸汽之类的东西。<\/p><p>御风而行者随时可以变回原形，之后又可恢复为云雾状。变成蒸汽和从蒸汽变回都须花费5轮时间，且计入法术的持续时间 (在实体形体期间的时间亦计入持续时间)。如法术说明，你可以解消法术，亦可只解消某个受术者的法术而不影响其他人。<\/p><p>法术持续时间中的最后一分钟，云雾状态下的御风而行者自动以每轮60尺的速度下降 (共下降600尺)，当然如果愿意也能以更快速度下降。这效果是法术即将终止的警告。<\/p>"
 }

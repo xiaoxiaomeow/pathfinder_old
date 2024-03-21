@@ -1,8 +1,8 @@
 {
     "key": "shining cord",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shining-cord/",
     "name": "Shining Cord",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shining%20Cord",
+    "source": ["Inner Sea Magic pg. 60"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels": {"magus": 3},
@@ -13,15 +13,14 @@
     "duration": "1 round/level or instantaneous (see below)",
     "savingThrow": "Fortitude partial (see below)",
     "spellResistance": "yes",
-    "text": "<p>When you cast this spell, you make a ranged touch attack against a single opponent within 30 feet. If you hit, a thin silver strand extends from your body to its, forming a connection that allows you to anticipate its actions. For the duration of the spell, you receive a +5 insight bonus on all Perception and Sense Motive checks opposed by the target. You gain a +5 insight bonus on all Spellcraft checks made to identify your opponent's spell as part of a counterspelling attempt. Finally, you gain a +2 dodge bonus to your AC against attacks made against you by the target.<\/p><p>Lastly, if either you or the target moves more than 30 feet away from the other, the cord crackles with a surge of light and sends a blast of force along its length to the other end. This blast deals 1d6 points of damage per two caster levels (maximum 10d6) and stuns the one who moved out of range for 1 round—a successful Fortitude save halves the damage and negates the stun effect. This blast ends the spell and severs the connection between you and your target.<\/p><p>Although the <i>shining cord<\/i> makes a visible connection between you and your target, creatures can move through it without ill effect. The cord even passes through solid objects as necessary to maintain the connection between you and the target.<\/p>",
+    "text": "When you cast this spell, you make a ranged touch attack against a single opponent within 30 feet. If you hit, a thin silver strand extends from your body to its, forming a connection that allows you to anticipate its actions. For the duration of the spell, you receive a +5 insight bonus on all Perception and Sense Motive checks opposed by the target. You gain a +5 insight bonus on all Spellcraft checks made to identify your opponent’s spell as part of a counterspelling attempt. Finally, you gain a +2 dodge bonus to your AC against attacks made against you by the target.<br><br>Lastly, if either you or the target moves more than 30 feet away from the other, the cord crackles with a surge of light and sends a blast of force along its length to the other end. This blast deals 1d6 points of damage per two caster levels (maximum 10d6) and stuns the one who moved out of range for 1 round—a successful Fortitude save halves the damage and negates the stun effect. This blast ends the spell and severs the connection between you and your target.<br><br>Although the <i>shining cord <\/i>makes a visible connection between you and your target, creatures can move through it without ill effect. The cord even passes through solid objects as necessary to maintain the connection between you and the target.",
     "name_zh": "闪银束链",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（价值100gp的优质细长银链）",
     "range_zh": "30尺",
     "target_zh": "1个生物",
-    "duration_zh": "1轮/等级 或 立即（见后文）",
-    "savingThrow_zh": "强韧，通过则部分生效（见后文）",
+    "duration_zh": "1轮/等级 或 立即; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当你施放该法术时，你要进行一次远程接触攻击对抗单个30尺内的敌人。若命中，一条细银链会从你的身体延伸到目标敌人，并在你们之间构筑一种联系，使得你能够预见到他的行动。在法术的持续时间内，你在所有对抗该名目标的察觉与察言观色检定中均会获得+5洞察加值。在尝试反制该名敌人的法术时，用于识别法术而做出的所有法术辨识检定也会获得+5洞察加值。最后，在对抗目标做出的攻击时，你的AC获得+2闪避加值。\n若你或者目标进行移动并使彼此间的距离超出30尺，银链会发出断裂声并爆发出闪光，同时向着一端施加爆发性的力量。这股爆发会对移出范围的那一方造成每两个施法者等级1d6点伤害（最高10d6）并且使之震慑（stuns）1轮——成功的强韧豁免会使伤害减半，并使震慑效果无效。这股爆发会结束法术效果，并且切断你与你的目标间的联系。\n尽管闪银束链会在你与你的目标间产生一条可见的连线，但是其他生物可以随便穿过它而不会产生任何不良效果。这条链子甚至能够穿过实心物体，并以此来保持你与目标间的联系。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>当你施放该法术时，你要进行一次远程接触攻击对抗单个30尺内的敌人。若命中，一条细银链会从你的身体延伸到目标敌人，并在你们之间构筑一种联系，使得你能够预见到他的行动。在法术的持续时间内，你在所有对抗该名目标的察觉与察言观色检定中均会获得+5洞察加值。在尝试反制该名敌人的法术时，用于识别法术而做出的所有法术辨识检定也会获得+5洞察加值。最后，在对抗目标做出的攻击时，你的AC获得+2闪避加值。<\/p><p>若你或者目标进行移动并使彼此间的距离超出30尺，银链会发出断裂声并爆发出闪光，同时向着一端施加爆发性的力量。这股爆发会对移出范围的那一方造成每两个施法者等级1d6点伤害（最高10d6）并且使之震慑（stuns）1轮——成功的强韧豁免会使伤害减半，并使震慑效果无效。这股爆发会结束法术效果，并且切断你与你的目标间的联系。<\/p><p>尽管闪银束链会在你与你的目标间产生一条可见的连线，但是其他生物可以随便穿过它而不会产生任何不良效果。这条链子甚至能够穿过实心物体，并以此来保持你与目标间的联系。<\/p>"
 }

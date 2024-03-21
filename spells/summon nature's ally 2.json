@@ -1,0 +1,29 @@
+{
+    "key": "summon nature's ally 2",
+    "name": "Summon Nature's Ally 2",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Nature's%20Ally%202",
+    "source": ["PRPG Core Rulebook pg. 354"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "levels":     {
+        "druid": 2,
+        "hunter": 2,
+        "ranger": 2,
+        "shaman": 2
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>summon nature's ally I<\/i>, except that you summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.",
+    "name_zh": "召唤自然盟友 II",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘召唤自然盟友I’，不过你能够召唤一个2环生物或者1d3个1环的同类生物。<\/p>"
+}

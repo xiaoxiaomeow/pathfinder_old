@@ -1,0 +1,33 @@
+{
+    "key": "traveling dream",
+    "name": "Traveling Dream",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Traveling%20Dream",
+    "source":     [
+        "Gods and Magic pg. 13",
+        "Pathfinder #2: The Skinsaw Murders pg. 72"
+    ],
+    "school": "divination",
+    "subSchools": ["scrying"],
+    "race": "Desna",
+    "levels":     {
+        "cleric": 4,
+        "druid": 4,
+        "hunter": 4,
+        "oracle": 4,
+        "warpriest": 4
+    },
+    "castingTime": "10 minutes",
+    "components": "V, DF",
+    "range": "unlimited",
+    "effect": "magical sensor",
+    "duration": "1 hour/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>arcane eye<\/i>, except as noted above. Upon casting this spell, you fall asleep for its duration, creating an invisible magic sensor (called a dreamscryer) that is the exact size and shape of your body, is recognizable as you, and cannot pass through spaces that your body cannot enter. Unlike the invisible sensor created by <i>arcane eye<\/i>, children of any race (no older than the human equivalent of 10) and animals can see your dreamscryer. Sleeping creatures can sense its presence and might incorporate your image into their dreams. Force effects and abjuration spells that ward out creatures (such as <i>magic circle against evil<\/i>) are effective barriers against a dreamscryer (regardless of your creature type, alignment, or other specifics). If you dismiss the spell or the dreamscryer is dispelled or destroyed, you awaken.",
+    "race_zh": "黛丝娜",
+    "castingTime_zh": "10分钟",
+    "range_zh": "无限",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

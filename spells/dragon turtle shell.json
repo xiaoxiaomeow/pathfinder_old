@@ -1,27 +1,32 @@
 {
     "key": "dragon turtle shell",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dragon-turtle-shell/",
     "name": "Dragon Turtle Shell",
-    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dragon%20Turtle%20Shell",
+    "source": ["Dragonslayer's Handbook pg. 28"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "cleric": 3,
         "druid": 2,
-        "sorcerer/wizard": 3
+        "hunter": 2,
+        "investigator": 3,
+        "oracle": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a piece of turtle shell)",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>When you are struck by an opponent's natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3–1 to determine an attack's altered base damage. If the creature's natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat. It is not possible to reduce the base damage of a creature's natural attack below 1d2 with this spell.<\/p>",
+    "text": "When you are struck by an opponent’s natural attacks, the damage is resolved as if the attack came from a creature one size smaller per 5 caster levels (maximum of four size categories smaller at CL 20th). Refer to Table 3–1 in the <i>Pathfinder RPG Bestiary<\/i> to determine an attack’s altered base damage. If the creature’s natural attack deals nonstandard damage, refer instead to the Improved Natural Attack feat on page 315 of the <i>Bestiary<\/i>. It is not possible to reduce the base damage of a creature’s natural attack below 1d2 with this spell.",
     "name_zh": "龙龟之壳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一块龟壳）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>当你被一个对手的天生武器攻击时，他所造成的伤害每5个施法者等级就下降一个体型等级（在CL20时为最大，下降4个体型等级）。参见探索者RPG怪物图鉴的表3-1来确定攻击者被改变后的基础伤害。如果此生物的天生武器攻击是非标准的伤害，那么就参考怪物图鉴第315页有关增强天生武器专长的部分。此法术无法将一个生物的天生武器的基础伤害值降低到1d2之下。<\/p>",
-    "source": "PC-DragH"
+    "text_zh": "<p>当你被一个对手的天生武器攻击时，他所造成的伤害每5个施法者等级就下降一个体型等级（在CL20时为最大，下降4个体型等级）。参见探索者RPG怪物图鉴的表3-1来确定攻击者被改变后的基础伤害。如果此生物的天生武器攻击是非标准的伤害，那么就参考怪物图鉴第315页有关增强天生武器专长的部分。此法术无法将一个生物的天生武器的基础伤害值降低到1d2之下。<\/p>"
 }

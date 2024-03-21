@@ -1,29 +1,25 @@
 {
     "key": "statue",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/statue/",
     "name": "Statue",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Statue",
+    "source": ["PRPG Core Rulebook pg. 349"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 6,
-        "sorcerer/wizard": 7
-    },
-    "domains": {"artifice": 8},
-    "elementalSchools":     {
-        "earth": 7,
-        "metal": 7
-    },
-    "mysteries":     {
-        "metal": 7,
-        "stone": 7
+        "arcanist": 7,
+        "investigator": 6,
+        "occultist": 6,
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 round",
     "components": "V, S, M (lime, sand, and a drop of water stirred by an iron spike)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>A <i>statue<\/i> spell turns the subject to solid stone, along with any garments and equipment worn or carried. In statue form, the subject gains hardness 8. The subject retains its own hit points. The subject can see, hear, and smell normally, but it does not need to eat or breathe. Feeling is limited to those sensations that can affect the granite-hard substance of the individual's body. Chipping is equal to a mere scratch, but breaking off one of the statue's arms constitutes serious damage. The subject of a <i>statue<\/i> spell can return to its normal state, act, and then return instantly to the statue state (a free action) if it so desires as long as the spell duration is in effect.<\/p>",
+    "text": "A <i>statue<\/i> spell turns the subject to solid stone, along with any garments and equipment worn or carried. In statue form, the subject gains hardness 8. The subject retains its own hit points. The subject can see, hear, and smell normally, but it does not need to eat or breathe. Feeling is limited to those sensations that can affect the granite-hard substance of the individual's body. Chipping is equal to a mere scratch, but breaking off one of the statue's arms constitutes serious damage. The subject of a <i>statue<\/i> spell can return to its normal state, act, and then return instantly to the statue state (a free action) if it so desires as long as the spell duration is in effect.",
     "name_zh": "雕像术",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 材料 (石灰，沙子，一滴水，以钉子之类的细铁棒搅拌)",
@@ -32,6 +28,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>雕像术可将目标连同其身上的任何衣物装备一同变成坚石。在雕像形态下，受术者获得8点硬度。受术者依然保留原有HP。受术者可以正常地看、听、闻，但不需要呼吸和进食。触觉则仅限于能使花岗岩般坚硬的物体有所反应的感觉。削凿就如同搔痒，但切下雕像的手臂仍然是严重的伤害。在法术持续时间内，只要雕像术的受术者愿意，他随时可以变回正常状态，展开行动，然后立即变回雕像状态 (自由动作)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>雕像术可将目标连同其身上的任何衣物装备一同变成坚石。在雕像形态下，受术者获得8点硬度。受术者依然保留原有HP。受术者可以正常地看、听、闻，但不需要呼吸和进食。触觉则仅限于能使花岗岩般坚硬的物体有所反应的感觉。削凿就如同搔痒，但切下雕像的手臂仍然是严重的伤害。在法术持续时间内，只要雕像术的受术者愿意，他随时可以变回正常状态，展开行动，然后立即变回雕像状态 (自由动作)。<\/p>"
 }

@@ -1,12 +1,15 @@
 {
     "key": "memory of function",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/memory-of-function/",
     "name": "Memory of Function",
-    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Memory%20of%20Function",
+    "source": ["Technology Guide pg. 10"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 7,
         "cleric": 7,
-        "sorcerer/wizard": 7
+        "oracle": 7,
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, powdered skymetal worth 10,000 gp",
@@ -15,7 +18,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p style=\"font-size:12px\"><b>Note<\/b>: The text has been updated per official errata. [Source]<\/p><p>Even a broken object remembers what it means to be a functioning whole. You restore a broken object or damaged construct to a functional state, as if it were new and intact. Any pieces missing from the object or construct remain missing. Significant missing pieces may prevent proper functioning. If the object uses charges, the object becomes fully charged. A timeworn object becomes fully charged, but doesn't lose the timeworn condition (this spell is one of the few ways a timeworn item can be recharged). For 1 hour after this spell is cast on a timeworn object, that object does not suffer any chance of glitching. Other consumables such as ammunition are not restored.<\/p><p>When this spell is cast upon a damaged construct, all hit point damage dealt to that construct is healed. When this spell is cast upon a destroyed construct, it is restored to full functionality and full hit points, provided no significant portion of the destroyed construct (such as an entire limb) is missing. Constructs brought back in this fashion regain their memories up to the moment of their destruction and have no particular inclination to serve the caster.<\/p><p>If you attempt to cast this spell on an object or a construct that has been destroyed for more than 10 years per caster level you possess, the spell fails.<\/p>",
+    "text": "Even a broken object remembers what it means to be a functioning whole. You restore a broken object or damaged construct to a functional state, as if it were new and intact. Any pieces missing from the object or construct remain missing. Significant missing pieces may prevent proper functioning. If the object uses charges, the object becomes fully charged. A timeworn object becomes fully charged, but doesn’t lose the timeworn condition (this spell is one of the few ways a timeworn item can be recharged). For 1 hour after this spell is cast on a timeworn object, that object does not suffer any chance of glitching. Other consumables such as ammunition are not restored.<br><br> When this spell is cast upon a damaged construct, all hit point damage dealt to that construct is healed. When this spell is cast upon a destroyed construct, it is restored to full functionality and full hit points, provided no significant portion of the destroyed construct (such as an entire limb) is missing. Constructs brought back in this fashion regain their memories up to the moment of their destruction and have no particular inclination to serve the caster.<br><br> If you attempt to cast this spell on an object or a construct that has been destroyed for more than 10 years per caster level you possess, the spell fails.",
     "name_zh": "功能记录",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，语言，价值10000GP的天金粉末",
@@ -24,6 +27,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>即使是破损的物品也保留着如何正常运行的记忆。你将损坏的物品或受伤害的构装体恢复到正常工作状态，就如同它是全新完整的一样。物品或构装体中缺失的任何部分仍然缺失。重要的缺失部分可能会妨碍正常运作。如果物品使用充能，则物品的充能将被充满。一个老旧（Timeworn）物品的充能将被充满，但不会失去老旧状态（这个法术是让老旧物品可以被充能的少数几种方式之一）。在这个法术施放在一个老旧物品上1小时后，该物体再也不会出现任何故障。其他消耗品如弹药之类的则不能恢复。\n当此法术施放在受伤害的构装体上时，构装体损失的所有生命值都被治愈。当此法术施放在被摧毁的构装体上时，只要它没有缺少任何重要部分（例如整个肢体），则将其恢复为完整功能和生命值全满。被本法术恢复的构造体将恢复它们被摧毁前一刻的记忆，并没有特别倾向于为施法者服务。\n如果你试图将此法术施放在，已经被摧毁超过你拥有的每个施法者等级10年的物品或构装体上，则该法术失败。<\/p>",
-    "source": "CS-TG"
+    "text_zh": "<p>即使是破损的物品也保留着如何正常运行的记忆。你将损坏的物品或受伤害的构装体恢复到正常工作状态，就如同它是全新完整的一样。物品或构装体中缺失的任何部分仍然缺失。重要的缺失部分可能会妨碍正常运作。如果物品使用充能，则物品的充能将被充满。一个老旧（Timeworn）物品的充能将被充满，但不会失去老旧状态（这个法术是让老旧物品可以被充能的少数几种方式之一）。在这个法术施放在一个老旧物品上1小时后，该物体再也不会出现任何故障。其他消耗品如弹药之类的则不能恢复。<\/p><p>当此法术施放在受伤害的构装体上时，构装体损失的所有生命值都被治愈。当此法术施放在被摧毁的构装体上时，只要它没有缺少任何重要部分（例如整个肢体），则将其恢复为完整功能和生命值全满。被本法术恢复的构造体将恢复它们被摧毁前一刻的记忆，并没有特别倾向于为施法者服务。<\/p><p>如果你试图将此法术施放在，已经被摧毁超过你拥有的每个施法者等级10年的物品或构装体上，则该法术失败。<\/p>"
 }

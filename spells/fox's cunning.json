@@ -1,24 +1,31 @@
 {
     "key": "fox's cunning",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fox-s-cunning/",
     "name": "Fox's Cunning",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fox's%20Cunning",
+    "source": ["PRPG Core Rulebook pg. 286"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bard": 2,
+        "investigator": 2,
+        "medium": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "summoner/unchained summoner": 2
+        "redmantisassassin": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (hairs or dung from a fox)",
     "range": "touch",
-    "target": "creature touched",
+    "target": "you",
     "duration": "1 min./level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>The target becomes smarter. The spell grants a +4 enhancement bonus to Intelligence, adding the usual benefits to Intelligence-based skill checks and other uses of the Intelligence modifier. Wizards (and other spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the increased Intelligence, but the save DCs for spells they cast while under this spell's effect do increase. This spell doesn't grant extra skill ranks.<\/p><p><\/p><p>",
+    "text": "The target becomes smarter. The spell grants a +4 enhancement bonus to Intelligence, adding the usual benefits to Intelligence-based skill checks and other uses of the Intelligence modifier. Wizards (and other spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the increased Intelligence, but the save DCs for spells they cast while under this spell's effect do increase. This spell doesn't grant extra skill ranks.",
     "name_zh": "狐之狡黠",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (狐狸的毛发或粪便)",
@@ -27,6 +34,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受术者变得更为聪慧。该法术会使受术者的智力获得+4的增强加值，从而会给智力有关的技能和其他使用智力修正的方式带来通常的好处。法师 (以及其他以智力为施法的关键属性的施法者) 接受狐之狡黠后并不会因为智力的增加而获得额外法术，但他们法术的DC会因为智力的增加而提升。该法术不会使受术者获得额外的技能点。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者变得更为聪慧。该法术会使受术者的智力获得+4的增强加值，从而会给智力有关的技能和其他使用智力修正的方式带来通常的好处。法师 (以及其他以智力为施法的关键属性的施法者) 接受狐之狡黠后并不会因为智力的增加而获得额外法术，但他们法术的DC会因为智力的增加而提升。该法术不会使受术者获得额外的技能点。<\/p>"
 }

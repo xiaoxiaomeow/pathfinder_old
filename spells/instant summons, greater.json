@@ -1,30 +1,32 @@
 {
     "key": "instant summons, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-summons/",
     "name": "Instant Summons, Greater",
-    "base": "instant summons",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Summons,%20Greater",
+    "source": ["Ultimate Intrigue pg. 217"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 8,
         "psychic": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
     "castingTime": "1 standard action",
-    "components": "V, S, M (sapphires worth 1,000 gp each)",
+    "components": "V, S, M (sapphires worht 1,000 gp each)",
     "range": "see text",
-    "target": "up to one object per 3 caster levels, each weighing 10 lbs. or less whose longest dimension is 6 ft. or less",
+    "target": "up to one object per 3 caster levels, each weighing 0 lbs. or less whose longest dimension is 6 ft. or less",
     "duration": "permanent or until discharged",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions as <i>instant summons<\/i>, except that you can target multiple objects. You must use a separate sapphire worth 1,000 gp for each one. For each item you target, you can touch a creature, granting that creature the ability to speak the special word for that item (each item has its own special word) while crushing the matched gem to call the item to hand. Only you or the touched creature can activate the gem or see the arcane mark upon it.<\/p><\/div>",
+    "text": "This spell functions as <i>instant summons<\/i>, except that you can target multiple objects. You must use a separate sapphire worth 1,000 gp for each one. For each item you target, you can touch a creature, granting that creature the ability to speak the special word for that item (each item has its own special word) while crushing the matched gem to call the item to hand. Only you or the touched creature can activate the gem or see the <i>arcane mark<\/i> upon it.",
     "name_zh": "高等即刻召唤",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（为每个物品提供价值1000gp的蓝宝石）",
+    "range_zh": "见文本",
     "target_zh": "至多1个物体/3级，每个物体重量为10磅或更轻，长度为6尺或更短",
     "duration_zh": "永久 或 直至耗散",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术的功能如同即刻召唤（Instant Summons）一般，不过你能以复数物体为目标。你必须为每个物体分别使用价值1000gp的蓝宝石。对于每个作为目标的物品，你都能碰触1个生物，将把对应物品呼唤到手中的能力赋予该生物，它仍旧需要打破宝石并说出对应的关键字才能召唤物品（每件物品都有各自独立的关键字）。只有你或者被碰触的生物能够激活宝石，或者看到宝石上的秘法印记（Arcane Mark）。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>该法术的功能如同即刻召唤（Instant Summons）一般，不过你能以复数物体为目标。你必须为每个物体分别使用价值1000gp的蓝宝石。对于每个作为目标的物品，你都能碰触1个生物，将把对应物品呼唤到手中的能力赋予该生物，它仍旧需要打破宝石并说出对应的关键字才能召唤物品（每件物品都有各自独立的关键字）。只有你或者被碰触的生物能够激活宝石，或者看到宝石上的秘法印记（Arcane Mark）。<\/p>"
 }

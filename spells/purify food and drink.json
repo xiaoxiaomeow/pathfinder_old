@@ -1,12 +1,18 @@
 {
     "key": "purify food and drink",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/purify-food-and-drink/",
     "name": "Purify Food and Drink",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Purify%20Food%20and%20Drink",
+    "source": ["PRPG Core Rulebook pg. 328"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 0,
+        "adept": 0,
+        "cleric": 0,
         "druid": 0,
-        "shaman": 0
+        "hunter": 0,
+        "occultist": 0,
+        "oracle": 0,
+        "shaman": 0,
+        "warpriest": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -15,7 +21,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>This spell makes spoiled, rotten, diseased, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking. This spell does not prevent subsequent natural decay or spoilage. Unholy water and similar food and drink of significance is spoiled by <i>purify food and drink<\/i>, but the spell has no effect on creatures of any type nor upon magic potions. Water weighs about 8 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.<\/p>",
+    "text": "This spell makes spoiled, rotten, diseased, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking. This spell does not prevent subsequent natural decay or spoilage. Unholy water and similar food and drink of significance is spoiled by <i>purify food and drink<\/i>, but the spell has no effect on creatures of any type nor upon magic potions. Water weighs about 8 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.",
     "name_zh": "净化食粮",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -24,6 +30,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>这个法术能把变质、腐臭、染疫、有毒或遭受其他污染的食物和水净化为可食用和饮用状态。这个法术不能阻止之后的自然腐败或变质。邪水和类似意义的食物和饮料被净化食粮处理后会失去作用，但是这个法术对任何类型生物或魔法药剂都无效。每加仑水重约8磅。一立方尺水大约为8加仑，重60磅。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术能把变质、腐臭、染疫、有毒或遭受其他污染的食物和水净化为可食用和饮用状态。这个法术不能阻止之后的自然腐败或变质。邪水和类似意义的食物和饮料被净化食粮处理后会失去作用，但是这个法术对任何类型生物或魔法药剂都无效。每加仑水重约8磅。一立方尺水大约为8加仑，重60磅。<\/p>"
 }

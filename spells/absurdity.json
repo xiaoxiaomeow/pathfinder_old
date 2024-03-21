@@ -1,38 +1,38 @@
 {
     "key": "absurdity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/absurdity/",
     "name": "Absurdity",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Absurdity",
+    "source": ["Horror Adventures pg. 108"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "bard": 2,
         "medium": 2,
         "mesmerist": 2,
         "psychic": 2,
+        "skald": 2,
         "spiritualist": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "up to one creature/level, no two of which can be more than 30 ft. apart",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "no",
-    "text": "<p>Your targets perceive intimidation and threats as laughably absurd.<\/p><p>A character attempting to intimidate your targets is instead perceived as having exaggerated facial features or babbling and awkward speech. Effects that impose fear conditions become objects of ridicule, with the targets making fun of the source of the object as it attempts to scare them.<\/p><p>Absurdity protects your targets from gaining lesser fear conditions (spooked, shaken, and scared), granting them immunity to spooked and a 50% chance to negate shaken or scared conditions instead of gaining them from any effect, including uses of the Intimidate skill to demoralize. Any other effect related to a spell or ability that generates fear (such as dying from a phantasmal killer) affects them normally, and effects that ignore immunity to fear also ignore absurdity.<\/p><p>However, target creatures also have serious difficulty noticing potential threats; they take a –10 penalty on Sense Motive checks to avoid surprise or to notice that a creature is actively threatening or malicious and a –2 penalty on initiative checks. The spell doesn't prevent spells or effects that provide early warning or a form of danger sense (like anticipate peril or find traps) from alerting the affected character to danger.<\/p>",
+    "text": "Your targets perceive intimidation and threats as laughably absurd. A character attempting to intimidate your targets is instead perceived as having exaggerated facial features or babbling and awkward speech. Effects that impose fear conditions become objects of ridicule, with the targets making fun of the source of the object as it attempts to scare them.<br><br> <i>Absurdity<\/i> protects your targets from gaining lesser fear conditions (spooked, shaken, and scared), granting them immunity to spooked and a 50% chance to negate shaken or scared conditions instead of gaining them from any effect, including uses of the Intimidate skill to demoralize. Any other effect related to a spell or ability that generates fear (such as dying from a <i>phantasmal killer<\/i>) affects them normally, and effects that ignore immunity to fear also ignore <i>absurdity<\/i>.<br><br> However, target creatures also have serious difficulty noticing potential threats; they take a –10 penalty on Sense Motive checks to avoid surprise or to notice that a creature is actively threatening or malicious and a –2 penalty on initiative checks. The spell doesn’t prevent spells or effects that provide early warning or a form of danger sense (like <i>anticipate peril<sup>UM<\/sup><\/i> or <i>find traps<\/i>) from alerting the affected character to danger.",
     "name_zh": "荒谬术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "至多1个生物/等级，任两者之间不得相距超过30尺",
-    "duration_zh": "1分钟/等级 (D)",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你的目标对恐吓与威胁感到荒谬且可笑。一位尝试威吓你法术目标的角色，反而会被认为有着夸大的面部特征或是含混笨拙的言论。施加恐惧状态的效果变成被嘲弄的对象，这位试图去惊吓法术目标的对象，却是法术目标感到乐趣的来源。\n荒谬术(Absurdity)会从给予弱效恐惧(Lesser Fear)状态[受惊(Spooked)、战栗(Shaken)、惊吓(Scared)]下保护你的目标，给予他们免疫受惊以及50%的机会使战栗或惊吓状态无效，让他们不受任何影响，包含使用威吓技能来挫败士气(Demoralize)。其余任何会导致恐惧效果的相关法术或能力(例如因魅影杀手(phantasmal killer)而死亡)正常的影响他们，而任何忽视免疫恐惧的效果也忽视荒谬术(Absurdity)。\n但是，目标生物同时也非常难注意到潜在的威胁，他们在避免突袭或注意那主动威胁或怀有恶意的生误，在察言观色检定上承受-10的减值，在先攻检定上承受-2的减值。此法术不会阻止那些对受影响之角色，提早给予警告或一种对危机感知(像是预知危险(anticipate perilUM))，来警告他们有危险的法术或效果。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你的目标对恐吓与威胁感到荒谬且可笑。一位尝试威吓你法术目标的角色，反而会被认为有着夸大的面部特征或是含混笨拙的言论。施加恐惧状态的效果变成被嘲弄的对象，这位试图去惊吓法术目标的对象，却是法术目标感到乐趣的来源。<\/p><p>荒谬术(Absurdity)会从给予弱效恐惧(Lesser Fear)状态[受惊(Spooked)、战栗(Shaken)、惊吓(Scared)]下保护你的目标，给予他们免疫受惊以及50%的机会使战栗或惊吓状态无效，让他们不受任何影响，包含使用威吓技能来挫败士气(Demoralize)。其余任何会导致恐惧效果的相关法术或能力(例如因魅影杀手(phantasmal killer)而死亡)正常的影响他们，而任何忽视免疫恐惧的效果也忽视荒谬术(Absurdity)。<\/p><p>但是，目标生物同时也非常难注意到潜在的威胁，他们在避免突袭或注意那主动威胁或怀有恶意的生误，在察言观色检定上承受-10的减值，在先攻检定上承受-2的减值。此法术不会阻止那些对受影响之角色，提早给予警告或一种对危机感知(像是预知危险(anticipate perilUM))，来警告他们有危险的法术或效果。<\/p>"
 }

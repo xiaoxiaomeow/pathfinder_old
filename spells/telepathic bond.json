@@ -1,39 +1,34 @@
 {
     "key": "telepathic bond",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/telepathic-bond/",
     "name": "Telepathic Bond",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Telepathic%20Bond",
+    "source": ["PRPG Core Rulebook pg. 358"],
     "school": "divination",
     "levels":     {
+        "arcanist": 5,
         "inquisitor": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
-    },
-    "domains": {"community": 5},
-    "subdomains":     {
-        "aeon": 5,
-        "friendship": 5,
-        "language": 5,
-        "thought": 5
-    },
-    "elementalSchools":     {
-        "void": 5,
-        "wood": 5
+        "medium": 4,
+        "mesmerist": 4,
+        "psychic": 4,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (two eggshells from two different creatures)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "10 min./level (d)",
+    "duration": "10 min./level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).<\/p><p>If desired, you may leave yourself out of the telepathic bond forged. This decision must be made at the time of casting.<\/p><p>Telepathic bond can be made permanent with a permanency spell, though it only bonds two creatures per casting of permanency.<\/p>",
+    "text": "You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).<br><br>If desired, you may leave yourself out of the telepathic bond forged. This decision must be made at the time of casting.<br><br><i>Telepathic bond<\/i> can be made permanent with a <i>permanency<\/i> spell, though it only bonds two creatures per casting of <i>permanency<\/i>.",
     "name_zh": "心灵连线",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (两种不同生物的蛋壳碎片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每3级可多影响一个生物, 其中任意两个间的距离不超过30尺",
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你在你自己和一些自愿的生物间建立心灵连线，这些生物的智力属性必须大于或等于3。这种连接内任一生物都与其他所有生物相连。不管语言如何，这些生物可以通过连线用心灵沟通。心灵连线不会产生任何特殊的力量或影响。一旦建立了心灵连线，它能在任何距离上起作用 (但不能跨位面)。<\/p><p>如果愿意，你可以不把自己包括在心灵连线内。这必须在施法时做出决定。<\/p><p>可以使用‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’建立永久的心灵连线，但每次施展魔法恒定术只能联系两个生物。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你在你自己和一些自愿的生物间建立心灵连线，这些生物的智力属性必须大于或等于3。这种连接内任一生物都与其他所有生物相连。不管语言如何，这些生物可以通过连线用心灵沟通。心灵连线不会产生任何特殊的力量或影响。一旦建立了心灵连线，它能在任何距离上起作用 (但不能跨位面)。<\/p><p>如果愿意，你可以不把自己包括在心灵连线内。这必须在施法时做出决定。<\/p><p>可以使用‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’建立永久的心灵连线，但每次施展魔法恒定术只能联系两个生物。<\/p>"
 }

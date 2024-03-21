@@ -1,26 +1,31 @@
 {
     "key": "saving finale",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/saving-finale/",
     "name": "Saving Finale",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Saving%20Finale",
+    "source": ["Advanced Player's Guide pg. 241"],
     "school": "evocation",
     "descriptors": ["mind-affecting"],
-    "levels": {"bard": 1},
+    "levels":     {
+        "bard": 1,
+        "skald": 1
+    },
     "castingTime": "1 immediate action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when a creature within range affected by your bardic performance fails a Saving Throw, allowing the subject to immediately reroll the failed Saving Throw.<\/p>",
+    "text": "You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when a creature within range affected by your bardic performance fails a saving throw, allowing the subject to immediately reroll the failed saving throw.<h2 class=\"title\">Mythic Saving Finale<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 107<\/i><br>Add your tier as a bonus on the saving throw reroll. ",
+    "mythicSource": ["Mythic Adventures pg. 107"],
+    "mythicText": "Add your tier as a bonus on the saving throw reroll. ",
     "name_zh": "拯救谢幕曲",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>施放这个法术之前，你必须激活一种吟游表演。当一名正在法术范围之内并且受到你的吟游表演影响的盟友在一次豁免中失败时，你可以通过挥舞手臂进行谢幕，立即结束你的吟游表演，并使受术者立刻重骰失败的豁免。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>施放这个法术之前，你必须激活一种吟游表演。当一名正在法术范围之内并且受到你的吟游表演影响的盟友在一次豁免中失败时，你可以通过挥舞手臂进行谢幕，立即结束你的吟游表演，并使受术者立刻重骰失败的豁免。<\/p>"
 }

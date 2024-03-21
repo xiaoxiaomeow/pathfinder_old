@@ -1,26 +1,29 @@
 {
     "key": "endure elements",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/endure-elements/",
     "name": "Endure Elements",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Endure%20Elements",
+    "source": ["PRPG Core Rulebook pg. 277"],
     "school": "abjuration",
     "levels":     {
+        "adept": 1,
         "alchemist": 1,
+        "arcanist": 1,
         "bloodrager": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "druid": 1,
+        "hunter": 1,
+        "investigator": 1,
+        "oracle": 1,
         "paladin": 1,
         "psychic": 1,
         "ranger": 1,
         "shaman": 1,
-        "sorcerer/wizard": 1,
-        "summoner/unchained summoner": 1
-    },
-    "domains": {"sun": 1},
-    "mysteries":     {
-        "elemental": 1,
-        "outer rifts": 1,
-        "winter": 1
+        "sorcerer": 1,
+        "spiritualist": 1,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "warpriest": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -29,8 +32,9 @@
     "duration": "24 hours",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>A creature protected by <i>endure elements<\/i> suffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between -50 and 140 degrees Fahrenheit (-45 and 60 degrees Celsius) without having to make Fortitude saves. The creature's equipment is likewise protected.<\/p><p><i>Endure elements<\/i> doesn't provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth.<\/p>",
-    "mythicText": "The target changes to one creature touched per level. Affected creatures gain cold resistance 5 and fire resistance 5. They're not slowed by snow, and ignore penalties on Perception checks and ranged weapon attacks from hail, rain, sleet, and snow. <br>They treat wind as one category weaker. ",
+    "text": "A creature protected by <i>endure elements<\/i> suffers no harm from being in a hot or cold environment. It can exist comfortably in conditions between –50 and 140 degrees Fahrenheit without having to make Fortitude saves. The creature's equipment is likewise protected.<br><br><i>Endure elements<\/i> doesn't provide any protection from fire or cold damage, nor does it protect against other environmental hazards such as smoke, lack of air, and so forth.<h2 class=\"title\">Mythic Endure Elements<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 93<\/i><br>The target changes to one creature touched per level. Affected creatures gain cold resistance 5 and fire resistance 5. They’re not slowed by snow, and ignore penalties on Perception checks and ranged weapon attacks from hail, rain, sleet, and snow. They treat wind as one category weaker. ",
+    "mythicSource": ["Mythic Adventures pg. 93"],
+    "mythicText": "The target changes to one creature touched per level. Affected creatures gain cold resistance 5 and fire resistance 5. They’re not slowed by snow, and ignore penalties on Perception checks and ranged weapon attacks from hail, rain, sleet, and snow. They treat wind as one category weaker. ",
     "name_zh": "忍受环境",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -39,6 +43,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>被忍受环境所保护的受术者不会因寒冷或炎热环境而受到伤害。他无需通过强韧豁免即可舒适的呆在-50至140华氏度 (-45.6至60摄氏度) 的环境中。该生物的装备同样被保护。<\/p><p>忍受环境不能防护寒冷和火焰伤害，也不可防护其他恶劣环境，如烟雾、空气稀薄等。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>被忍受环境所保护的受术者不会因寒冷或炎热环境而受到伤害。他无需通过强韧豁免即可舒适的呆在-50至140华氏度 (-45.6至60摄氏度) 的环境中。该生物的装备同样被保护。<\/p><p>忍受环境不能防护寒冷和火焰伤害，也不可防护其他恶劣环境，如烟雾、空气稀薄等。<\/p>"
 }

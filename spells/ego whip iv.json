@@ -1,19 +1,29 @@
 {
     "key": "ego whip iv",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ego-whip/",
     "name": "Ego Whip IV",
-    "base": "ego whip i",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ego%20Whip%20IV",
+    "source": ["Occult Adventures pg. 169"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels": {"psychic": 6},
-    "text": "<p>This functions as <i>ego whip I<\/i>, but the target takes –8 penalty to the chosen ability score and is staggered for 1d8 rounds on a failed Will save. This spell can be undercast.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will partial",
+    "spellResistance": "yes",
+    "text": "This functions as <i>ego whip I<\/i>, but the target takes –8 penalty to the chosen ability score and is staggered for 1d8 rounds on a failed Will save. This spell can be undercast.",
     "name_zh": "自性鞭笞 IV",
-    "text_zh": "<p>该法术的功能如同自性鞭笞 I（Ego Whip I）一般，不过当目标的意志豁免检定失败时，会在被选择的属性上承受-8减值，并且恍惚（staggered）1d8轮。该法术可以被降阶施法。<\/p>",
-    "source": "OA"
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则部分生效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同自性鞭笞 I（Ego Whip I）一般，不过当目标的意志豁免检定失败时，会在被选择的属性上承受-8减值，并且恍惚（staggered）1d8轮。该法术可以被降阶施法。<\/p>"
 }

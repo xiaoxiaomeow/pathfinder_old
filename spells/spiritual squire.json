@@ -1,32 +1,33 @@
 {
     "key": "spiritual squire",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spiritual-squire/",
     "name": "Spiritual Squire",
-    "book": "Pathfinder Player Companion: Armor Master's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spiritual%20Squire",
+    "source": ["Armor Master's Handbook pg. 23"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
         "antipaladin": 2,
         "cleric": 2,
         "inquisitor": 2,
+        "oracle": 2,
         "paladin": 2,
         "shaman": 2,
-        "spiritualist": 2
+        "spiritualist": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "medium (100 ft. + 10 ft./level)",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell causes an ally made of pure force to appear in a single 5-foot square within range. The ally takes the form of a servant of your god (if any) or an ancestor. The <i>spiritual squire<\/i> occupies its space, though you and your allies can move through it, since it is your ally. While the <i>spiritual squire<\/i> appears to wear armor and carry a weapon, it cannot make attacks and does not threaten any spaces. On your turn, the <i>spiritual squire<\/i> can do one of the following: retrieve one stowed item from your possessions, carry an object weighing no more than 10 pounds per caster level, hand you an object it is carrying, perform the aid another action on your behalf or for one of your allies, or help one creature of your choice don armor (which then takes half the normal time). When the <i>spiritual squire<\/i> attempts the aid another action in combat, its attack bonus is equal to your base attack bonus + your Wisdom modifier.<\/p><p>Each round after the first as a swift action, you can order the <i>spiritual squire<\/i> to move. It has a speed of 30 feet. Being a construct of force, the <i>spiritual squire<\/i> cannot be harmed by any physical attacks, but disintegrate, dispel magic, a <i>rod of cancellation<\/i>, or a <i>sphere of annihilation<\/i> affects it. A <i>spiritual squire's<\/i> AC against touch attacks is 10.<\/p>",
+    "text": "This spell causes an ally made of pure force to appear in a single 5-foot square within range. The ally takes the form of a servant of your god (if any) or an ancestor. The spiritual squire occupies its space, though you and your allies can move through it, since it is your ally. While the spiritual squire appears to wear armor and carry a weapon, it cannot make attacks and does not threaten any spaces. On your turn, the spiritual squire can do one of the following: retrieve one stowed item from your possessions, carry an object weighing no more than 10 pounds per caster level, hand you an object it is carrying, perform the aid another action on your behalf or for one of your allies, or help one creature of your choice don armor (which then takes half the normal time). When the spiritual squire attempts the aid another action in combat, its attack bonus is equal to your base attack bonus + your Wisdom modifier.<br><br>Each round after the first as a swift action, you can order the spiritual squire to move. It has a speed of 30 feet. Being a construct of force, the spiritual squire cannot be harmed by any physical attacks, but <I>disintegrate, dispel magic<\/i>, a <I>rod of cancellation<\/i>, or a <I>sphere of annihilation<\/i> affects it. A spiritual ally’s AC against touch attacks is 10.",
     "name_zh": "魂灵护卫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "duration_zh": "1分钟/等级 (D)",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术造出了一名由纯粹力场构成的盟友，出现在法术范围内一格5平方呎的方格内。这盟友的采取你所侍奉之神的侍从的外型(如果你有侍奉的神的话)或是一位祖灵，魂灵护卫占据它的方格，但你与你的盟友可以移动穿过它，因为它就是你们的盟友。当魂灵护卫显现出身着盔甲与携带一把武器的形象时，它不能进行攻击，也不能威胁任何空间。在你的回合，该魂灵护卫可以做下列事情中的一件：从你的财物中取出一件被存放好的东西、携带一件重量不超过10磅/等级的物体、递给你它携带着的一件物体、为你或你的一个盟友进行援助他人动作，或帮助一名由你选择的生物穿盔甲(这会让正常穿需要的时间减少一半)。当魂灵护卫在战斗中尝试一次援助他人动作时，它的攻击加值等于你的基本攻击加值(base attack bonus)+你的感知调整值。\n在首轮之后的每一轮，以一个迅捷动作，你可以命令魂灵护卫移动。它有30呎的速度。由力场所构筑，魂灵护卫不能被任何物理攻击所伤，但解离术(disintegrate)、解除魔法(dispel magic)、抹消权杖(rod of cancellation)或一个毁灭黑洞(sphere of annihilation)能影响它。一名魂灵盟友的AC在对抗接触攻击时为10。<\/p>",
-    "source": "PC-AMH"
+    "text_zh": "<p>此法术造出了一名由纯粹力场构成的盟友，出现在法术范围内一格5平方呎的方格内。这盟友的采取你所侍奉之神的侍从的外型(如果你有侍奉的神的话)或是一位祖灵，魂灵护卫占据它的方格，但你与你的盟友可以移动穿过它，因为它就是你们的盟友。当魂灵护卫显现出身着盔甲与携带一把武器的形象时，它不能进行攻击，也不能威胁任何空间。在你的回合，该魂灵护卫可以做下列事情中的一件：从你的财物中取出一件被存放好的东西、携带一件重量不超过10磅/等级的物体、递给你它携带着的一件物体、为你或你的一个盟友进行援助他人动作，或帮助一名由你选择的生物穿盔甲(这会让正常穿需要的时间减少一半)。当魂灵护卫在战斗中尝试一次援助他人动作时，它的攻击加值等于你的基本攻击加值(base attack bonus)+你的感知调整值。<\/p><p>在首轮之后的每一轮，以一个迅捷动作，你可以命令魂灵护卫移动。它有30呎的速度。由力场所构筑，魂灵护卫不能被任何物理攻击所伤，但解离术(disintegrate)、解除魔法(dispel magic)、抹消权杖(rod of cancellation)或一个毁灭黑洞(sphere of annihilation)能影响它。一名魂灵盟友的AC在对抗接触攻击时为10。<\/p>"
 }

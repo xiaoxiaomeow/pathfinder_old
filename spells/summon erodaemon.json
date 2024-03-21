@@ -1,21 +1,35 @@
 {
     "key": "summon erodaemon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-erodaemon/",
     "name": "Summon Erodaemon",
-    "book": "Pathfinder Campaign Setting: Horsemen of the Apocalypse: Book of the Damned, Vol. 3 © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Erodaemon",
+    "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "descriptors": ["evil"],
     "levels":     {
+        "arcanist": 8,
         "cleric": 8,
-        "sorcerer/wizard": 8,
+        "oracle": 8,
+        "sorcerer": 8,
         "summoner": 6,
-        "witch": 8
+        "summoner (unchained)": 6,
+        "witch": 8,
+        "wizard": 8
     },
+    "castingTime": "1 round",
     "components": "V, S, F (a bent or tarnished wedding band)",
-    "text": "<p>This spell functions like summon monster, except it summons a single erodaemon.<\/p>",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>summon monster<\/i>, except it summons a single erodaemon.",
     "name_zh": "召唤离间邪魔",
+    "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、器材(一枚弯曲或是被玷污的结婚戒指)",
-    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只离间邪魔。<\/p>",
-    "source": "CS-BotD3"
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>本法术的效果和召唤怪物一样，除了本法术召唤的是一只离间邪魔。<\/p>"
 }

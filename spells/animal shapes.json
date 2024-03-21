@@ -1,33 +1,28 @@
 {
     "key": "animal shapes",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animal-shapes/",
     "name": "Animal Shapes",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Animal%20Shapes",
+    "source": ["PRPG Core Rulebook pg. 241"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "druid": 8,
         "shaman": 8
     },
-    "domains":     {
-        "animal": 7,
-        "scalykind": 8
-    },
-    "mysteries": {"nature": 8},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "none, see text",
     "spellResistance": "yes (harmless)",
-    "text": "<p>As beast shape III, except you change the form of up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone.<\/p>",
+    "text": "As <i>beast shape III<\/i>, except you change the form of up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone.",
     "name_zh": "动物形态",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "至多每等级一个自愿的生物, 所有生物彼此间的距离不超过30尺",
     "duration_zh": "1小时/等级 (可解消)",
-    "savingThrow_zh": "无, 见后文",
+    "savingThrow_zh": "无, 见文本",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术如同‘<a href=\"spell.html?spell=beast shape III\">野兽形态III (beast shape III)<\/a>’一般，不过你能将至多每CL一个自愿生物变形成你选择的动物；该法术对非自愿生物无效。所有生物都必须转变为同一种动物形态。受术者将保持动物形态，直到法术持续时间结束，或者你将所有受术者的法术解消掉为止。另外，受术者个体可以选择以一个整轮动作恢复为他的正常形态，这样做会单独结束掉该受术者的法术。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术如同‘<a href=\"spell.html?spell=beast shape III\">野兽形态III (beast shape III)<\/a>’一般，不过你能将至多每CL一个自愿生物变形成你选择的动物；该法术对非自愿生物无效。所有生物都必须转变为同一种动物形态。受术者将保持动物形态，直到法术持续时间结束，或者你将所有受术者的法术解消掉为止。另外，受术者个体可以选择以一个整轮动作恢复为他的正常形态，这样做会单独结束掉该受术者的法术。<\/p>"
 }

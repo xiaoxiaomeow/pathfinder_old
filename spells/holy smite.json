@@ -1,16 +1,15 @@
 {
     "key": "holy smite",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/holy-smite/",
     "name": "Holy Smite",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Holy%20Smite",
+    "source": ["PRPG Core Rulebook pg. 297"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels":     {
-        "cleric/oracle": 4,
-        "inquisitor": 4
-    },
-    "domains":     {
-        "glory": 4,
-        "good": 4
+        "cleric": 4,
+        "inquisitor": 4,
+        "oracle": 4,
+        "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +18,16 @@
     "duration": "instantaneous (1 round); see text",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>You draw down holy power to smite your enemies. Only evil and neutral creatures are harmed by the spell; good creatures are unaffected.<\/p><p>The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to each evil creature in the area (or 1d6 points of damage per caster level, maximum 10d6, to an evil outsider) and causes it to become blinded for 1 round. A successful Will saving throw reduces damage to half and negates the blinded effect.<\/p><p>The spell deals only half damage to creatures who are neither good nor evil, and they are not blinded. Such a creature can reduce that damage by half (down to one-quarter of the roll) with a successful Will save.<\/p>",
+    "text": "You draw down holy power to smite your enemies. Only evil and neutral creatures are harmed by the spell; good creatures are unaffected.<br><br>The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to each evil creature in the area (or 1d6 points of damage per caster level, maximum 10d6, to an evil outsider) and causes it to become blinded for 1 round. A successful Will saving throw reduces damage to half and negates the blinded effect.<br><br>The spell deals only half damage to creatures who are neither good nor evil, and they are not blinded. Such a creature can reduce that damage by half (down to one-quarter of the roll) with a successful Will save.<h2 class=\"title\">Mythic Holy Smite<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 98<\/i><br>The damage dealt to evil outsiders increases to 1d10 points of damage per caster level (maximum 10d10) and the damage dealt to other evil creatures increases to 1d12 points of damage per 2 caster levels (maximum 5d12). The duration that creatures in the area are blinded increases to 2 rounds. On a successful save, an evil creature is blinded for 1 round. ",
+    "mythicSource": ["Mythic Adventures pg. 98"],
+    "mythicText": "The damage dealt to evil outsiders increases to 1d10 points of damage per caster level (maximum 10d10) and the damage dealt to other evil creatures increases to 1d12 points of damage per 2 caster levels (maximum 5d12). The duration that creatures in the area are blinded increases to 2 rounds. On a successful save, an evil creature is blinded for 1 round. ",
     "name_zh": "圣光击",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "半径20尺爆发区域",
-    "duration_zh": "立即 (1轮); 见后文",
+    "duration_zh": "立即 (1轮); 见文本",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你呼唤神圣之力打击敌人。只有邪恶和中立的生物会被法术伤害；善良生物不受影响。<\/p><p>该法术对区域内的邪恶生物造成每两个CL 1d8点伤害 (最高5d8)，对邪恶异界生物造成每CL 1d6点伤害 (最高10d6)，并使他们目盲1轮。成功通过意志豁免则伤害减半且不会受到目盲效果。<\/p><p>该法术对既非邪恶也非善良的生物只造成一半的伤害，且他们不会目盲。这些生物若成功通过的意志豁免，则可将伤害再减半 (即降到原来的1/4)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你呼唤神圣之力打击敌人。只有邪恶和中立的生物会被法术伤害；善良生物不受影响。<\/p><p>该法术对区域内的邪恶生物造成每两个CL 1d8点伤害 (最高5d8)，对邪恶异界生物造成每CL 1d6点伤害 (最高10d6)，并使他们目盲1轮。成功通过意志豁免则伤害减半且不会受到目盲效果。<\/p><p>该法术对既非邪恶也非善良的生物只造成一半的伤害，且他们不会目盲。这些生物若成功通过的意志豁免，则可将伤害再减半 (即降到原来的1/4)。<\/p>"
 }

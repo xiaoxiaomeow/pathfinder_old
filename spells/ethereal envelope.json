@@ -1,10 +1,10 @@
 {
     "key": "ethereal envelope",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ethereal-envelope/",
     "name": "Ethereal Envelope",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ethereal%20Envelope",
+    "source": ["Occult Adventures pg. 170"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
         "psychic": 5,
         "spiritualist": 4
@@ -13,14 +13,13 @@
     "components": "S, M (empty crystal box)",
     "range": "personal",
     "target": "you",
-    "duration": "1 hour/level (d)",
-    "text": "<p>You place yourself into a cataleptic meditative state and shunt yourself to the Ethereal Plane, where your body is cocooned within a folded ripple of misty space, with total cover from creatures on the Ethereal Plane. While inside your ethereal envelope, you are treated as being asleep for most purposes.<\/p><p>You can choose an amount of time within the duration when casting this spell, and you automatically dismiss the spell when that time elapses. Your ethereal envelope counts as an object of your size with AC 10, hardness 5, and hit points equal to twice your level, and it is immune to bludgeoning damage. An attacker must be on the Ethereal Plane or have a way to see ethereal objects in order to detect your ethereal envelope. The envelope can also be broken open with a successful Strength check with a DC equal to 15 + your caster level (to a maximum DC of 30). If the ethereal envelope is destroyed, the spell ends immediately.<\/p><p>When the spell ends, you remain asleep without the protection of the envelope for 1 round. At the end of that round, you are shunted back to the Material Plane at the location where you cast the spell, and you are staggered for 1 round as you reorient yourself to the Material Plane. You can't use this spell to travel from your location on the Ethereal Plane.<\/p><p>If the space you formerly occupied is now occupied by another creature or object, you are shunted to the nearest open space and take 1d10 points of damage.<\/p>",
+    "duration": "1 hour/level (D)",
+    "text": "You place yourself into a cataleptic meditative state and shunt yourself to the Ethereal Plane, where your body is cocooned within a folded ripple of misty space, with total cover from creatures on the Ethereal Plane. While inside your <i>ethereal envelope<\/i>, you are treated as being asleep for most purposes. You can choose an amount of time within the duration when casting this spell, and you automatically dismiss the spell when that time elapses. Your <i>ethereal envelope<\/i> counts as an object of your size with AC 10, hardness 5, and hit points equal to twice your level, and it is immune to bludgeoning damage. An attacker must be on the Ethereal Plane or have a way to see ethereal objects in order to detect your <i>ethereal envelope<\/i>. The envelope can also be broken open with a successful Strength check with a DC equal to 15 + your caster level (to a maximum DC of 30). If the <i>ethereal envelope<\/i> is destroyed, the spell ends immediately.<br><br>When the spell ends, you remain asleep without the protection of the envelope for 1 round. At the end of that round, you are shunted back to the Material Plane at the location where you cast the spell, and you are staggered for 1 round as you reorient yourself to the Material Plane. You can’t use this spell to travel from your location on the Ethereal Plane. If the space you formerly occupied is now occupied by another creature or object, you are shunted to the nearest open space and take 1d10 points of damage.",
     "name_zh": "灵界睡茧",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，材料（空水晶盒）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1小时/等级（可解消）",
-    "text_zh": "<p>你让自己陷入一种全身僵直的冥想状态，并将自身移入灵界位面（Ethereal Plane），你的身体在灵界位面会被宛如波纹一样飘渺的灵质所紧紧包围，对灵界位面的生物来说，你具有全掩蔽（total cover）。当你处于自己的灵界睡茧之内时，在大多数情况下你会被视为陷入睡眠（being asleep）。在施法时，你能够选定一个不超过法术持续时间的时点，当达到这个时点时，你会自动解消该法术。你的灵界睡茧被视为体型与你相同的物体，它的AC为10，5点硬度和两倍于你的等级的生命值，此外它还免疫钝击伤害。攻击者必须位于灵界位面，或者有办法看到灵质物体（ethereal objects）才能够侦测到你的灵界睡茧。成功通过力量检定也能够击碎灵界睡茧，DC为15 + 你的施法者等级（DC最高为30）。若灵界睡茧被摧毁，法术会立刻结束。\n当法术结束时，你会在不被灵界睡茧保护的情况下保持1轮的睡眠。在该轮结束时，你会被移回主物质位面（the Material Plane）中原本施放法术时的位置，接着你还会由于适应主物质位面的环境而恍惚（staggered）1轮。你无法使用该法术前往自身位置在灵界位面中的对应地点。如果施法时的位置现在被其他生物或物体所占据，那么你会移入到距离此处最近的开放空间，并且承受1d10点伤害。<\/p>",
-    "source": "OA"
+    "duration_zh": "1小时/等级 (可解消)",
+    "text_zh": "<p>你让自己陷入一种全身僵直的冥想状态，并将自身移入灵界位面（Ethereal Plane），你的身体在灵界位面会被宛如波纹一样飘渺的灵质所紧紧包围，对灵界位面的生物来说，你具有全掩蔽（total cover）。当你处于自己的灵界睡茧之内时，在大多数情况下你会被视为陷入睡眠（being asleep）。在施法时，你能够选定一个不超过法术持续时间的时点，当达到这个时点时，你会自动解消该法术。你的灵界睡茧被视为体型与你相同的物体，它的AC为10，5点硬度和两倍于你的等级的生命值，此外它还免疫钝击伤害。攻击者必须位于灵界位面，或者有办法看到灵质物体（ethereal objects）才能够侦测到你的灵界睡茧。成功通过力量检定也能够击碎灵界睡茧，DC为15 + 你的施法者等级（DC最高为30）。若灵界睡茧被摧毁，法术会立刻结束。<\/p><p>当法术结束时，你会在不被灵界睡茧保护的情况下保持1轮的睡眠。在该轮结束时，你会被移回主物质位面（the Material Plane）中原本施放法术时的位置，接着你还会由于适应主物质位面的环境而恍惚（staggered）1轮。你无法使用该法术前往自身位置在灵界位面中的对应地点。如果施法时的位置现在被其他生物或物体所占据，那么你会移入到距离此处最近的开放空间，并且承受1d10点伤害。<\/p>"
 }

@@ -1,26 +1,29 @@
 {
     "key": "body capacitance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/body-capacitance/",
     "name": "Body Capacitance",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Body%20Capacitance",
+    "source": ["Advanced Class Guide pg. 176"],
     "school": "transmutation",
     "descriptors": ["electricity"],
     "levels":     {
         "alchemist": 1,
-        "sorcerer/wizard": 1
+        "arcanist": 1,
+        "investigator": 1,
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (an iron coil)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level or until discharged (see text)",
-    "text": "<p>If you take electricity damage while this spell is active, some of the energy is stored on your skin, as with holding the charge on a touch spell. You can release this stored electricity by making a melee touch attack. You gain a +3 bonus on the attack roll if your opponent is wearing metal armor, is carrying a metal weapon, or is made of metal. The target of your touch attack is dealt electricity damage equal to half the amount of electricity damage you took after you cast this spell (for example, if you saved for half damage against a lightning bolt and took only 15 points of electricity damage, your next touch attack deals 7 points of electricity damage). This spell is discharged once you hit with a melee touch attack to deliver its damage. If you take electricity damage multiple times while this spell is active, use the largest amount of electricity damage you took to determine your touch attack damage.<\/p>",
+    "duration": "1 minute/level or until discharged (see text)",
+    "text": "If you take electricity damage while this spell is active, some of the energy is stored on your skin, as with holding the charge on a touch spell. You can release this stored electricity by making a melee touch attack. You gain a +3 bonus on the attack roll if your opponent is wearing metal armor, is carrying a metal weapon, or is made of metal. The target of your touch attack is dealt electricity damage equal to half the amount of electricity damage you took after you cast this spell (for example, if you saved for half damage against a <i>lightning bolt<\/i> and took only 15 points of electricity damage, your next touch attack deals 7 points of electricity damage). This spell is discharged once you hit with a melee touch attack to deliver its damage. If you take electricity damage multiple times while this spell is active, use the largest amount of electricity damage you took to determine your touch attack damage.",
     "name_zh": "活体电容",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一根铁丝）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级 或 直至耗散（见后文）",
-    "text_zh": "<p>若你在该法术生效时受到闪电伤害的话，部分能量会储存到你的皮肤上，就如同使用接触法术维持能量（Holding the charge）一般。你能够通过进行一次近战接触攻击来施放已储存的闪电能量。若敌人穿戴金属护甲、携带金属武器或者本身由金属构成的话，你能在攻击检定中获得+3加值。你的接触攻击的目标会受到闪电伤害，数值为你施放该法术后所受的闪电伤害总和的一半（例如，若你在对抗闪电束的豁免中成功，仅受到15点伤害，便可以使用接触攻击造成7点闪电伤害）。一旦你使用近战接触攻击命中并传递伤害，该法术便会被耗散。若你在法术生效时受到多次闪电伤害，那么使用你所承受的最大数值的闪电伤害来计算你的接触攻击伤害。<\/p>",
-    "source": "ACG"
+    "duration_zh": "1分钟/等级 或 直至耗散; 见文本",
+    "text_zh": "<p>若你在该法术生效时受到闪电伤害的话，部分能量会储存到你的皮肤上，就如同使用接触法术维持能量（Holding the charge）一般。你能够通过进行一次近战接触攻击来施放已储存的闪电能量。若敌人穿戴金属护甲、携带金属武器或者本身由金属构成的话，你能在攻击检定中获得+3加值。你的接触攻击的目标会受到闪电伤害，数值为你施放该法术后所受的闪电伤害总和的一半（例如，若你在对抗闪电束的豁免中成功，仅受到15点伤害，便可以使用接触攻击造成7点闪电伤害）。一旦你使用近战接触攻击命中并传递伤害，该法术便会被耗散。若你在法术生效时受到多次闪电伤害，那么使用你所承受的最大数值的闪电伤害来计算你的接触攻击伤害。<\/p>"
 }

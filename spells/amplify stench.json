@@ -1,30 +1,33 @@
 {
     "key": "amplify stench",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/amplify-stench/",
     "name": "Amplify Stench",
-    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Amplify%20Stench",
+    "source": ["Monster Codex pg. 213"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "cleric": 2,
         "druid": 2,
+        "hunter": 2,
         "oracle": 2,
         "psychic": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level",
-    "text": "<p>You amplify your natural stench special ability—its save DC increases by 2, and creatures that fail their saving throws against your stench become nauseated rather than sickened. If your stench ability normally causes a creature to become nauseated (such as with the foul stench ability), the radius of your stench doubles instead. This spell has no effect if you don't possess the stench special ability.<\/p>",
+    "duration": "10 minutes/level",
+    "text": "You amplify your natural stench special ability—its save DC increases by 2, and creatures that fail their saving throws against your stench become nauseated rather than sickened. If your stench ability normally causes a creature to become nauseated (such as with the foul stench ability), the radius of your stench doubles instead. This spell has no effect if you don’t possess the stench special ability.",
     "name_zh": "恶臭增幅",
     "race_zh": "战蜥人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>你将自己原本的恶臭特殊能力大幅度增强——它的豁免DC+2，并且被它所影响且豁免检定失败的生物会陷入反胃而非正常的恶心状态。如果你的恶臭特殊能力本来就会使被影响的生物反胃（比如如果你还拥有能力），那么你的恶臭能力的影响范围会翻倍。如果你没有恶臭特殊能力则本法术无效。<\/p>",
-    "source": "MC"
+    "text_zh": "<p>你将自己原本的恶臭特殊能力大幅度增强——它的豁免DC+2，并且被它所影响且豁免检定失败的生物会陷入反胃而非正常的恶心状态。如果你的恶臭特殊能力本来就会使被影响的生物反胃（比如如果你还拥有能力），那么你的恶臭能力的影响范围会翻倍。如果你没有恶臭特殊能力则本法术无效。<\/p>"
 }

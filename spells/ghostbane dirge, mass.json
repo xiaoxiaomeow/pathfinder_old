@@ -1,20 +1,34 @@
 {
     "key": "ghostbane dirge, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghostbane-dirge/",
     "name": "Ghostbane Dirge, Mass",
-    "base": "ghostbane dirge",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghostbane%20Dirge,%20Mass",
+    "source": ["Advanced Player's Guide pg. 225"],
     "school": "transmutation",
     "levels":     {
         "bard": 4,
-        "cleric/oracle": 5,
+        "cleric": 5,
         "inquisitor": 5,
+        "occultist": 5,
+        "oracle": 5,
         "paladin": 3,
-        "shaman": 5
+        "shaman": 5,
+        "skald": 4,
+        "warpriest": 5
     },
-    "text": "<p>This spell functions as <i>ghostbane dirge<\/i>, except that it affects multiple targets.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (an old reed from a wind instrument)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one incorporeal creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>ghostbane dirge<\/i>, except that it affects multiple targets.",
     "name_zh": "群体镇魂歌",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个虚体生物/等级，互相之间不得超过30尺",
-    "text_zh": "<p>这个法术工作方式如同镇魂歌 (Ghostbane Dirge)，不过能够影响复数目标。<\/p>",
-    "source": "APG"
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术工作方式如同镇魂歌 (Ghostbane Dirge)，不过能够影响复数目标。<\/p>"
 }

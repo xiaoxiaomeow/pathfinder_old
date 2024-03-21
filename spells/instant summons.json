@@ -1,16 +1,16 @@
 {
     "key": "instant summons",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/instant-summons/",
     "name": "Instant Summons",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Instant%20Summons",
+    "source": ["PRPG Core Rulebook pg. 301"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
-        "sorcerer/wizard": 7,
-        "witch": 7
-    },
-    "domains":     {
-        "artifice": 8,
-        "rune": 7
+        "arcanist": 7,
+        "psychic": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (sapphire worth 1,000 gp)",
@@ -19,15 +19,14 @@
     "duration": "permanent until discharged",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You call some nonliving item directly to your hand from virtually any location.<\/p><p>First, you must place your <i>arcane mark<\/i> on the item. Then you cast this spell, which magically and invisibly inscribes the name of the item on a sapphire worth at least 1,000 gp. Thereafter, you can summon the item by speaking a special word (set by you when the spell is cast) and crushing the gem. The item appears instantly in your hand. Only you can use the gem in this way.<\/p><p>If the item is in the possession of another creature, the spell does not work, but you know who the possessor is and roughly where that creature is located when the summons occurs.<\/p><p>The inscription on the gem is invisible. It is also unreadable, except by means of a read magic spell, to anyone but you.<\/p><p>The item can be summoned from another plane, but only if no other creature has claimed ownership of it.<\/p>",
+    "text": "You call some nonliving item directly to your hand from virtually any location.<br><br>First, you must place your <i>arcane mark<\/i> on the item. Then you cast this spell, which magically and invisibly inscribes the name of the item on a sapphire worth at least 1,000 gp. Thereafter, you can summon the item by speaking a special word (set by you when the spell is cast) and crushing the gem. The item appears instantly in your hand. Only you can use the gem in this way.<br><br>If the item is in the possession of another creature, the spell does not work, but you know who the possessor is and roughly where that creature is located when the summons occurs.<br><br>The inscription on the gem is invisible. It is also unreadable, except by means of a <i>read magic<\/i> spell, to anyone but you.<br><br>The item can be summoned from another plane, but only if no other creature has claimed ownership of it.",
     "name_zh": "即刻召唤",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值1000gp的蓝宝石)",
-    "range_zh": "见后文",
+    "range_zh": "见文本",
     "target_zh": "一个物体，重量为10磅或更轻，长度为6尺或更短",
-    "duration_zh": "永久，直至能量发散",
+    "duration_zh": "永久, 直至能量发散",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你将一件无生命的物体从任何地点直接传到你的手上。<\/p><p>首先，你必须在该物品上印下‘<a href=\"spell.html?spell=arcane mark\">秘法印记 (arcane mark)<\/a>’。然后你施放这个法术，用魔法将这个物品的名字隐形地刻在一块至少价值1000gp的蓝宝石上。之后当你说出一个关键字 (在施法时设定) 并打破该宝石的时候，该物品会瞬间被召唤在你的手上，你也只能如此利用这块宝石。<\/p><p>如果那件物品正在被其他生物所持有，该法术不会起作用，但进行召唤时你能知道是谁拥有该物品并大概地得知该生物的位置。<\/p><p>在宝石上的印记是不可见的。除非使用‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’，不然对你以外的任何人也是无法阅读的。<\/p><p>你可以从其他位面召唤物品，但是只有在没有任何其他生物拥有它的时候才能这么做。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你将一件无生命的物体从任何地点直接传到你的手上。<\/p><p>首先，你必须在该物品上印下‘<a href=\"spell.html?spell=arcane mark\">秘法印记 (arcane mark)<\/a>’。然后你施放这个法术，用魔法将这个物品的名字隐形地刻在一块至少价值1000gp的蓝宝石上。之后当你说出一个关键字 (在施法时设定) 并打破该宝石的时候，该物品会瞬间被召唤在你的手上，你也只能如此利用这块宝石。<\/p><p>如果那件物品正在被其他生物所持有，该法术不会起作用，但进行召唤时你能知道是谁拥有该物品并大概地得知该生物的位置。<\/p><p>在宝石上的印记是不可见的。除非使用‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’，不然对你以外的任何人也是无法阅读的。<\/p><p>你可以从其他位面召唤物品，但是只有在没有任何其他生物拥有它的时候才能这么做。<\/p>"
 }

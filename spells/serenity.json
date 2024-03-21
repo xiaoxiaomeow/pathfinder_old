@@ -1,19 +1,26 @@
 {
     "key": "serenity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/serenity/",
     "name": "Serenity",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Serenity",
+    "source": ["Ultimate Magic pg. 236"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "bard": 4,
-        "cleric/oracle": 5,
-        "sorcerer/wizard": 6
+        "cleric": 5,
+        "mesmerist": 4,
+        "oracle": 5,
+        "psychic": 5,
+        "skald": 4,
+        "sorcerer": 6,
+        "warpriest": 5,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +28,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You fill the targets' minds with feelings of tranquility. Those attempting to commit violence become stricken with wracking pain and take 3d6 points of nonlethal damage each round they attempt to harm another creature. If attacked, affected individuals can defend themselves and may participate in combat by using Combat Expertise, fighting defensively, or taking the total defense action without triggering the spell's nonlethal damage.<\/p>",
+    "text": "You fill the targets’ minds with feelings of tranquility. Those attempting to commit violence become stricken with wracking pain and take 3d6 points of nonlethal damage each round they attempt to harm another creature. If attacked, affected individuals can defend themselves and may participate in combat by using Combat Expertise, fighting defensively, or taking the total defense action without triggering the spell’s nonlethal damage.",
     "name_zh": "和谐",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "每等级一个生物，互相之间间隔不超过30尺",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你让目标的心智被安详与和谐充满。<\/p><p>一切做出任何暴力行为的企图都会导致尖锐的痛苦，这会使在他们每一轮试图伤害其他生物时受到3d6点非致命伤害。<\/p><p>如果受到攻击，受术目标可以使用战斗专长、防御式战斗或全防御动作来保护自己，这些行为不会触发非致命伤害。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你让目标的心智被安详与和谐充满。<\/p><p>一切做出任何暴力行为的企图都会导致尖锐的痛苦，这会使在他们每一轮试图伤害其他生物时受到3d6点非致命伤害。<\/p><p>如果受到攻击，受术目标可以使用战斗专长、防御式战斗或全防御动作来保护自己，这些行为不会触发非致命伤害。<\/p>"
 }

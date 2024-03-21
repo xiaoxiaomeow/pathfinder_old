@@ -1,38 +1,42 @@
 {
     "key": "geas, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/geas-quest/",
     "name": "Geas, Lesser",
-    "base": "geas-quest",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Geas,%20Lesser",
+    "source": ["PRPG Core Rulebook pg. 288"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "curse",
         "language-dependent",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
         "bard": 3,
         "inquisitor": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "mesmerist": 3,
+        "psychic": 4,
+        "skald": 3,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 round",
     "components": "V",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one living creature with 7 HD or less",
-    "duration": "1 day/level or until discharged (d)",
+    "duration": "1 day/level or until discharged (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>A <i>lesser geas<\/i> places a magical command on a creature to carry out some service or to refrain from some action or course of activity, as desired by you. The creature must have 7 or fewer HD and be able to understand you. While a <i>geas<\/i> cannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.<\/p><p>The geased creature must follow the given instructions until the geas is completed, no matter how long it takes.<\/p><p>If the instructions involve some open-ended task that the recipient cannot complete through his own actions, the spell remains in effect for a maximum of 1 day per caster level. A clever recipient can subvert some instructions.<\/p><p>If the subject is prevented from obeying the lesser geas for 24 hours, it takes a -2 penalty to each of its ability scores. Each day, another -2 penalty accumulates, up to a total of -8. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the <i>lesser geas<\/i>.<\/p><p>A <i>lesser geas<\/i> (and all ability score penalties) can be ended by break enchantment, limited wish, remove curse, miracle, or wish. Dispel magic does not affect a <i>lesser geas<\/i>.<\/p><\/div>",
+    "text": "A <i>lesser geas<\/i> places a magical command on a creature to carry out some service or to refrain from some action or course of activity, as desired by you. The creature must have 7 or fewer HD and be able to understand you. While a geas cannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.<br><br>The <i>geased<\/i> creature must follow the given instructions until the <i>geas<\/i> is completed, no matter how long it takes.<br><br>If the instructions involve some open-ended task that the recipient cannot complete through his own actions, the spell remains in effect for a maximum of 1 day per caster level. A clever recipient can subvert some instructions.<br><br>If the subject is prevented from obeying the <i>lesser geas<\/i> for 24 hours, it takes a –2 penalty to each of its ability scores. Each day, another –2 penalty accumulates, up to a total of –8. No ability score can be reduced to less than 1 by this effect. The ability score penalties are removed 24 hours after the subject resumes obeying the <i>lesser geas<\/i>.<br><br>A <i>lesser geas<\/i> (and all ability score penalties) can be ended by <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>remove curse<\/i>, <i>miracle<\/i>, or <i>wish<\/i>. <i>Dispel magic<\/i> does not affect a <i>lesser geas<\/i>.",
     "name_zh": "次等指使术",
     "castingTime_zh": "1轮",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个HD为7或更低的活物",
     "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>次等指使术会根据你的愿望给一个生物下达一个魔法命令，让它完成某些服务、或者禁止某些行为或活动。该生物的HD必须为7或更低，而且要能理解你的话。指令几乎可以包括所有方面，但是不能强迫生物自杀，也不能让它作一些会导致其死亡的行为。<\/p><p>不管会花费多长时间，被下达指令的生物都必须遵守给定的指示，直到指令完成为止。<\/p><p>如果指示包含一些受术者无法通过自身活动能完成的开放性任务，那么法术效果持续时间最多为每CL 1天。聪明的受术者可以曲解指示。<\/p><p>如果受术者不遵守次等指使术的时间达到24小时，那么它的每个属性均会受到-2减值。每天都会累计再受到-2减值，至多其总和达到-8减值。任何属性都不会因为这个效果降到1以下。该属性减值将会在受术者重新遵守次等指使术24小时后消失。<\/p><p>次等指使术 (和带来的所有属性减值) 可以被‘<a href=\"spell.html?spell=break enchantment\">破除结界 (break enchantment)<\/a>’、‘<a href=\"spell.html?spell=limited wish\">有限祈愿术 (limited wish)<\/a>’、‘<a href=\"spell.html?spell=remove curse\">移除诅咒 (remove curse)<\/a>’、‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’或‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’所中止。‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’对次等指使术无效。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>次等指使术会根据你的愿望给一个生物下达一个魔法命令，让它完成某些服务、或者禁止某些行为或活动。该生物的HD必须为7或更低，而且要能理解你的话。指令几乎可以包括所有方面，但是不能强迫生物自杀，也不能让它作一些会导致其死亡的行为。<\/p><p>不管会花费多长时间，被下达指令的生物都必须遵守给定的指示，直到指令完成为止。<\/p><p>如果指示包含一些受术者无法通过自身活动能完成的开放性任务，那么法术效果持续时间最多为每CL 1天。聪明的受术者可以曲解指示。<\/p><p>如果受术者不遵守次等指使术的时间达到24小时，那么它的每个属性均会受到-2减值。每天都会累计再受到-2减值，至多其总和达到-8减值。任何属性都不会因为这个效果降到1以下。该属性减值将会在受术者重新遵守次等指使术24小时后消失。<\/p><p>次等指使术 (和带来的所有属性减值) 可以被‘<a href=\"spell.html?spell=break enchantment\">破除结界 (break enchantment)<\/a>’、‘<a href=\"spell.html?spell=limited wish\">有限祈愿术 (limited wish)<\/a>’、‘<a href=\"spell.html?spell=remove curse\">移除诅咒 (remove curse)<\/a>’、‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’或‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’所中止。‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’对次等指使术无效。<\/p>"
 }

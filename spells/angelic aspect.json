@@ -1,24 +1,34 @@
 {
     "key": "angelic aspect",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/angelic-aspect/",
     "name": "Angelic Aspect",
-    "base": "angelic aspect, lesser",
-    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Angelic%20Aspect",
+    "source": ["Champions of Purity pg. 28"],
     "school": "transmutation",
     "descriptors": ["good"],
     "levels":     {
+        "arcanist": 5,
         "cleric": 5,
+        "oracle": 5,
         "paladin": 3,
-        "sorcerer/wizard": 5
+        "sorcerer": 5,
+        "warpriest": 5,
+        "wizard": 5
     },
-    "text": "<p>This spell functions like <i>lesser angelic aspect<\/i>, except you gain low-light vision, darkvision 60, resistance to acid and cold 10, and DR 5/evil, and you sprout white feathered wings allowing you to fly at a speed of 30 feet with average maneuverability. In addition, your natural weapons and any weapons you wield are considered good-aligned for the purpose of overcoming damage reduction.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like<i> lesser angelic aspect<\/i>, except you gain low-light vision, darkvision 60, resistance to acid 10, resistance to cold 10, and DR 5/evil, and you sprout white feathered wings allowing you to fly at a speed of 30 feet with average maneuverability. In addition, your natural weapons and any weapons you wield are considered good-aligned for the purpose of overcoming damage reduction.",
     "name_zh": "天使之颜",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/级（D）",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "无",
-    "text_zh": "<p>该法术同次等天使之颜(Angelic Aspect, lesser) ，但你获得低光视觉，黑暗视觉60尺，抗酸抗冷10，DR5/邪恶。你长出羽翼并获得30尺飞行（普通机动性）。此外你的天生武器和手持武器在穿透伤害减免时视为善良武器。<\/p>",
-    "source": "PC-CoP"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术同次等天使之颜(Angelic Aspect, lesser) ，但你获得低光视觉，黑暗视觉60尺，抗酸抗冷10，DR5/邪恶。你长出羽翼并获得30尺飞行（普通机动性）。此外你的天生武器和手持武器在穿透伤害减免时视为善良武器。<\/p>"
 }

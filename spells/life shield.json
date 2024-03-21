@@ -1,27 +1,29 @@
 {
     "key": "life shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/life-shield/",
     "name": "Life Shield",
-    "book": "Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Life%20Shield",
+    "source": ["Undead Slayer's Handbook pg. 27"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
         "cleric": 3,
         "druid": 3,
-        "paladin": 2
+        "hunter": 3,
+        "oracle": 3,
+        "paladin": 2,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level or until discharged",
-    "text": "<p>You surround yourself with a positive energy field that damages undead opponents. Each time an undead creature damages you with a melee attack, that creature takes an amount of positive energy damage equal to half the damage it dealt to you. This damage is calculated after applying your damage reduction, resistances, and other defenses. Once this spell has dealt 5 points of damage per caster level (maximum 50), it is discharged.<\/p>",
+    "duration": "1 minute/level or until discharged",
+    "text": "You surround yourself with a positive energy field that damages undead opponents. Each time an undead creature damages you with a melee attack, that creature takes an amount of positive energy damage equal to half the damage it dealt to you. This damage is calculated after applying your damage reduction, resistances, and other defenses. Once this spell has dealt 5 points of damage per caster level (maximum 50), it is discharged.",
     "name_zh": "生命护盾",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1分钟/等级或直到消散",
-    "text_zh": "<p>你将正能量塑成盾型环绕自己伤害不死生物。当不死生物每次用近战攻击命中你时，它同时会受到正能量伤害，数值等同于该次攻击它对你造成的伤害的一半。你所受的伤害是在计算DR、抗力、其它防御能力之后的数值。当该法术造成的伤害达到5/cl（最大50）后，法术解消。<\/p>",
-    "source": "PC-USH"
+    "duration_zh": "1分钟/等级 或 直至耗散",
+    "text_zh": "<p>你将正能量塑成盾型环绕自己伤害不死生物。当不死生物每次用近战攻击命中你时，它同时会受到正能量伤害，数值等同于该次攻击它对你造成的伤害的一半。你所受的伤害是在计算DR、抗力、其它防御能力之后的数值。当该法术造成的伤害达到5/cl（最大50）后，法术解消。<\/p>"
 }

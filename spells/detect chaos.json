@@ -1,15 +1,32 @@
 {
     "key": "detect chaos",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-chaos/",
     "name": "Detect Chaos",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Chaos",
+    "source": ["PRPG Core Rulebook pg. 266"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 1,
+        "adept": 1,
+        "cleric": 1,
         "inquisitor": 1,
-        "shaman": 1
+        "oracle": 1,
+        "shaman": 1,
+        "spiritualist": 1,
+        "warpriest": 1
     },
-    "text": "<p>This spell functions like <i>detect evil<\/i>, except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "60 ft.",
+    "area": "cone-shaped emanation",
+    "duration": "concentration, up to 10 min./level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>detect evil<\/i>, except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.",
     "name_zh": "侦测混乱",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测混乱生物、混乱神祇的牧师、混乱法术以及混乱魔法物品的灵光，而且如若你是秩序阵营，则有可能被刺目的混乱灵光所伤。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "60尺",
+    "area_zh": "锥形发散区域",
+    "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’一般，不过它会侦测混乱生物、混乱神祇的牧师、混乱法术以及混乱魔法物品的灵光，而且如若你是秩序阵营，则有可能被刺目的混乱灵光所伤。<\/p>"
 }

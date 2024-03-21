@@ -1,25 +1,29 @@
 {
     "key": "create armaments",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-armaments/",
     "name": "Create Armaments",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Armaments",
+    "source": ["Arcane Anthology pg. 7"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
         "medium": 4,
         "psychic": 4,
-        "sorcerer/wizard": 4,
+        "skald": 4,
+        "sorcerer": 4,
         "spiritualist": 3,
-        "witch": 4
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 minute",
     "components": "V, S, M (diamonds worth price of arms to be created)",
     "range": "0 ft.",
+    "effect": "one nonmagical weapon, shield, or set of armor",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create one non-magical weapon, shield, or set of armor. To determine whether the item functions as intended, you must attempt an appropriate Craft check with the DC required to create the item normally. If you fail, the item is created with the broken condition. You can create items made of rare or unusual materials if you include a bit of that material as an additional material component when you cast the spell, but cannot create cold iron items with this spell.<\/p>",
+    "text": "You create one nonmagical weapon, shield, or set of armor. To determine whether the item functions as intended, you must attempt an appropriate Craft check with the DC required to create the item normally. If you fail, the item is created with the broken condition. You can create items made of rare or unusual materials if you include a bit of that material as an additional material component when you cast the spell, but cannot create cold iron items with this spell.",
     "name_zh": "创造军备",
     "castingTime_zh": "1分钟",
     "components_zh": "言语，姿势，材料（价值等于武器的钻石）",
@@ -28,6 +32,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一把非魔法的武器，盾牌，或盔甲。为了判定物体的功效是否与预期一样，你必须尝试一次恰当的手艺检定，DC与通常制造该物品时一样。如果你失败，被制造的物品会获得破损症状。你可以创造出由稀有或不寻常材料构成的物品，只要你用一丁点该物质在施法时作为额外的材料组份，但你不能用该法术创造出寒铁物品。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你创造出一把非魔法的武器，盾牌，或盔甲。为了判定物体的功效是否与预期一样，你必须尝试一次恰当的手艺检定，DC与通常制造该物品时一样。如果你失败，被制造的物品会获得破损症状。你可以创造出由稀有或不寻常材料构成的物品，只要你用一丁点该物质在施法时作为额外的材料组份，但你不能用该法术创造出寒铁物品。<\/p>"
 }

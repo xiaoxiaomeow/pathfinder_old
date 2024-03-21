@@ -1,20 +1,25 @@
 {
     "key": "alaznist's jinx",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellblight-jinx/",
     "name": "Alaznist's Jinx",
-    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alaznist's%20Jinx",
+    "source": ["Magic Tactics Toolbox pg. 21"],
     "school": "evocation",
     "descriptors": ["curse"],
     "levels":     {
         "antipaladin": 4,
+        "arcanist": 6,
         "bard": 4,
         "cleric": 6,
         "inquisitor": 5,
         "occultist": 5,
+        "oracle": 6,
         "psychic": 6,
         "shaman": 5,
-        "sorcerer/wizard": 6,
-        "witch": 5
+        "skald": 4,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 5,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -23,7 +28,7 @@
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You inflict a curse similar to the spell burn spellblight on a creature. Each time a spellcaster who is afflicted with this curse casts a spell or uses a spell-like ability, her skin seems to burn as though she were on fire. With a successful concentration check (DC = 15 + double the spell level of the spell cast or spell-like ability used), the spellcaster can ignore the pain of the effect, but if she fails, she loses the spell or spell slot and is staggered for a round.<\/p><p>Unlike with the spell burn spellblight, the burning sensation is a tangible effect, visible during the act of spellcasting as an incorporeal, violet flame surrounding the caster.<\/p>",
+    "text": "You inflict a curse similar to the spell burn spellblight (<i>Pathfinder RPG Ultimate Magic 97<\/i>) on a creature. Each time a spellcaster who is afflicted with this curse casts a spell or uses a spell-like ability, her skin seems to burn as though she were on fire. With a successful concentration check (DC = 15 + double the spell level of the spell cast or spell-like ability used), the spellcaster can ignore the pain of the effect, but if she fails, she loses the spell or spell slot and is staggered for a round.<br><br> Unlike with the spell burn spellblight, the burning sensation is a tangible effect, visible during the act of spellcasting as an incorporeal, violet flame surrounding the caster.",
     "name_zh": "阿拉兹尼斯特的厄运",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
@@ -32,6 +37,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你使得一个生物引发了一个类似于法燃法术荒芜（UM）的诅咒。被这个诅咒影响的施法者每次施法或使用类法术能力时，他的皮肤会像着火一般燃烧。通过一个成功的专注检定（DC=15+2倍法术或类法术能力环级），施法者能忽略这种痛苦的影响，但如果他失败了，他会失去这个法术或法术位并恍惚一轮。和法燃法术荒芜不同，这种燃烧感是可见效果，施法者施法时无形而猛烈的火焰会环绕着他。<\/p>",
-    "source": "PC-MagicTT"
+    "text_zh": "<p>你使得一个生物引发了一个类似于法燃法术荒芜（UM）的诅咒。被这个诅咒影响的施法者每次施法或使用类法术能力时，他的皮肤会像着火一般燃烧。通过一个成功的专注检定（DC=15+2倍法术或类法术能力环级），施法者能忽略这种痛苦的影响，但如果他失败了，他会失去这个法术或法术位并恍惚一轮。和法燃法术荒芜不同，这种燃烧感是可见效果，施法者施法时无形而猛烈的火焰会环绕着他。<\/p>"
 }

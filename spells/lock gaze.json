@@ -1,18 +1,22 @@
 {
     "key": "lock gaze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lock-gaze/",
     "name": "Lock Gaze",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lock%20Gaze",
+    "source": ["Ultimate Combat pg. 236"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "inquisitor": 1,
         "magus": 1,
+        "mesmerist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +25,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You compel the target to look at you and only you for the spell's duration or until the spell is discharged. While staring at you, the target is considered to be averting its eyes from every creature but you, granting creatures other than you concealment against the target's attacks. If the target willingly leaves your line of sight, it is blinded for 1 round and the spell ends. If you willingly leave the target's line of sight or become unconscious or dead, the spell creature suffers no ill effects. Blind creatures and creatures immune to gaze attacks are immune to this spell.<\/p>",
+    "text": "You compel the target to look at you and only you for the spell’s duration or until the spell is discharged. While staring at you, the target is considered to be averting its eyes from every creature but you, granting creatures other than you concealment against the target’s attacks. If the target willingly leaves your line of sight, it is blinded for 1 round and the spell ends. If you willingly leave the target’s line of sight or become unconscious or dead, the spell creature suffers no ill effects. Blind creatures and creatures immune to gaze attacks are immune to this spell.",
     "name_zh": "强迫凝视",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你强迫目标看着并只能看着你的眼睛直到法术效果消失或被解除。<\/p><p>在盯着你时，目标将会无视其他所有生物而只注视你，从而使其他生物对它攻击时视作隐蔽。<\/p><p>如果目标主动将视线移离你的眼睛，它将会目盲一轮并且法术结束。<\/p><p>如果你主动将视线移离目标生物的眼睛，或是陷入昏迷或死亡，目标则不会受到任何影响。<\/p><p>没有视力和免疫凝视攻击的生物对该法术免疫。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你强迫目标看着并只能看着你的眼睛直到法术效果消失或被解除。<\/p><p>在盯着你时，目标将会无视其他所有生物而只注视你，从而使其他生物对它攻击时视作隐蔽。<\/p><p>如果目标主动将视线移离你的眼睛，它将会目盲一轮并且法术结束。<\/p><p>如果你主动将视线移离目标生物的眼睛，或是陷入昏迷或死亡，目标则不会受到任何影响。<\/p><p>没有视力和免疫凝视攻击的生物对该法术免疫。<\/p>"
 }

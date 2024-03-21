@@ -1,10 +1,15 @@
 {
     "key": "arcane lock",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-lock/",
     "name": "Arcane Lock",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Lock",
+    "source": ["PRPG Core Rulebook pg. 243"],
     "school": "abjuration",
-    "levels": {"sorcerer/wizard": 2},
-    "subdomains": {"wards": 1},
+    "levels":     {
+        "arcanist": 2,
+        "occultist": 2,
+        "sorcerer": 2,
+        "wizard": 2
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (gold dust worth 25 gp)",
     "range": "touch",
@@ -12,7 +17,7 @@
     "duration": "permanent",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>An <i>arcane lock<\/i> spell cast upon a door, chest, or portal magically locks it. You can freely pass your own <i>arcane lock<\/i> without affecting it. If the locked object has a lock, the DC to open that lock increases by 10 while it remains attached to the object. If the object does not have a lock, this spell creates one that can only be opened with a DC 20 Disable Device skill check. A door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell. Add 10 to the normal DC to break open a door or portal affected by this spell. A knock spell does not remove an <i>arcane lock;<\/i> it only suppresses the effect for 10 minutes.<\/p>",
+    "text": "An <i>arcane lock<\/i> spell cast upon a door, chest, or portal magically locks it. You can freely pass your own <i>arcane lock<\/i> without affecting it. If the locked object has a lock, the DC to open that lock increases by 10 while it remains attached to the object. If the object does not have a lock, this spell creates one that can only be opened with a DC 20 Disable Device skill check. A door or object secured with this spell can be opened only by breaking in or with a successful <i>dispel magic<\/i> or <i>knock<\/i> spell. Add 10 to the normal DC to break open a door or portal affected by this spell. A <i>knock<\/i> spell does not remove an <i>arcane lock<\/i>; it only suppresses the effect for 10 minutes.",
     "name_zh": "秘法锁",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值25gp的金粉)",
@@ -21,6 +26,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>施展在门、箱子、大门上的秘法锁能以魔法锁住它。你可以自由通过你自己的秘法锁而不受影响。如果被锁住的物体上本身附有锁，那么只要锁还附在物体上，打开这道锁的DC就增加10点。如果物体本身不附带锁，那么该法术会创造一个锁，这道锁只能通过DC为20的解除装置技能检定打开。用这个法术封住的门或物体只能被破坏的方式、或者成功使用‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’才能打开。被此法术影响的门或大门被破门的DC增加10点。敲击术不会移除秘法锁；它只是在10分钟内压制该效果。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>施展在门、箱子、大门上的秘法锁能以魔法锁住它。你可以自由通过你自己的秘法锁而不受影响。如果被锁住的物体上本身附有锁，那么只要锁还附在物体上，打开这道锁的DC就增加10点。如果物体本身不附带锁，那么该法术会创造一个锁，这道锁只能通过DC为20的解除装置技能检定打开。用这个法术封住的门或物体只能被破坏的方式、或者成功使用‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’才能打开。被此法术影响的门或大门被破门的DC增加10点。敲击术不会移除秘法锁；它只是在10分钟内压制该效果。<\/p>"
 }

@@ -1,37 +1,39 @@
 {
     "key": "death candle",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/death-candle/",
     "name": "Death Candle",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Death%20Candle",
+    "source": ["Advanced Race Guide pg. 131"],
     "school": "necromancy",
     "descriptors":     [
         "death",
         "evil",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "ifrit",
     "levels":     {
         "antipaladin": 1,
         "cleric": 2,
         "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2,
         "witch": 2
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "touch",
     "target": "living creature touched",
-    "duration": "instantaneous/1 round per hd of subject; see text",
-    "savingThrow": "Fort negates",
+    "duration": "instantaneous/1 round per HD of subject; see text",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions like death knell, except instead of using the slain target's life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with summon monster II. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.<\/p>",
+    "text": "This spell functions like <i>death knell<\/i>, except instead of using the slain target’s life energy to enhance yourself, you use it to summon a Small fire elemental resembling a burning, howling version of the slain creature. The elemental acts immediately on your turn and otherwise behaves as if you had summoned it with <i>summon monster II<\/i>. The elemental remains for a number of rounds equal to the Hit Dice of the slain creature.",
     "name_zh": "死亡丧烛",
     "race_zh": "火元素裔",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
     "range_zh": "接触",
-    "duration_zh": "立即/对像每HD1轮；见下文",
+    "duration_zh": "立即/对像每HD1轮; 见文本",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的作用方式和‘死亡丧钟’一样，不过它并非通过杀死目标并将对方的生命能量转移至自身，而是将其杀死用以召唤出看起来像是由于燃烧而在哀嚎的死者样貌的小型火元素。元素会在你的回合立刻行动，就如同你使用‘召唤怪物II’召唤出的一般来行动。元素持续的轮数等同于被杀死生物的生命骰。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>该法术的作用方式和‘死亡丧钟’一样，不过它并非通过杀死目标并将对方的生命能量转移至自身，而是将其杀死用以召唤出看起来像是由于燃烧而在哀嚎的死者样貌的小型火元素。元素会在你的回合立刻行动，就如同你使用‘召唤怪物II’召唤出的一般来行动。元素持续的轮数等同于被杀死生物的生命骰。<\/p>"
 }

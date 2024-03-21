@@ -1,21 +1,23 @@
 {
     "key": "nature's exile",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-exile/",
     "name": "Nature's Exile",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nature's%20Exile",
+    "source": ["Advanced Player's Guide pg. 233"],
     "school": "transmutation",
     "descriptors": ["curse"],
     "levels":     {
         "druid": 3,
+        "hunter": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
+    "target": "creature touched",
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell curses the creature touched, making it inimical to the natural world. All animals have an initial attitude of hostile toward the target. Familiars, being magical beasts, are not affected by this spell, but animal companions are. If you have an animal companion, it does not become hostile, but as long as you remain cursed, your animal companion takes a -2 penalty on all attack rolls, skill checks, and saving throws. The target also takes a -10 penalty on Survival skill checks as the weather and environment themselves seem to conspire to cause trouble.<\/p><p>Nature's exile can be removed with break enchantment, limited wish, miracle, remove curse, or wish.<\/p>",
+    "text": "This spell curses the creature touched, making it inimical to the natural world. All animals have an initial attitude of hostile toward the target. Familiars, being magical beasts, are not affected by this spell, but animal companions are. If you have an animal companion, it does not become hostile, but as long as you remain cursed, your animal companion takes a –2 penalty on all attack rolls, skill checks, and saving throws. The target also takes a –10 penalty on Survival skill checks as the weather and environment themselves seem to conspire to cause trouble.<br><br>Nature’s exile can be removed with <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, <i>remove curse<\/i>, or <i>wish<\/i>.",
     "name_zh": "自然的流放",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -24,6 +26,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术诅咒被接触的目标，使其与自然界相抵触。所有动物初始对其的态度均为敌对。魔宠视为魔法兽而不受此法术影响，但是对动物伙伴有效。如果你拥有动物伙伴，他不会与你敌对，但是只要你受到诅咒影响，它在所有的攻击检定、技能检定以及豁免均获得-2减值。目标还因为天气以及环境本身对其的排斥而在生存技能检定上受到-10减值。<\/p><p>自然的流放可以被破除结界 (Break Enchantment)，有限祈愿术 (Limited Wish)，神迹术 (Miracle)，移除诅咒 (Remove Curse) 或者祈愿术 (Wish) 移除。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>这个法术诅咒被接触的目标，使其与自然界相抵触。所有动物初始对其的态度均为敌对。魔宠视为魔法兽而不受此法术影响，但是对动物伙伴有效。如果你拥有动物伙伴，他不会与你敌对，但是只要你受到诅咒影响，它在所有的攻击检定、技能检定以及豁免均获得-2减值。目标还因为天气以及环境本身对其的排斥而在生存技能检定上受到-10减值。<\/p><p>自然的流放可以被破除结界 (Break Enchantment)，有限祈愿术 (Limited Wish)，神迹术 (Miracle)，移除诅咒 (Remove Curse) 或者祈愿术 (Wish) 移除。<\/p>"
 }

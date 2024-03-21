@@ -1,13 +1,17 @@
 {
     "key": "spell scourge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-scourge/",
     "name": "Spell Scourge",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spell%20Scourge",
+    "source": ["Inner Sea Gods pg. 243"],
     "school": "abjuration",
+    "race": "Nethys",
     "levels":     {
-        "cleric/oracle": 7,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "arcanist": 7,
+        "cleric": 7,
+        "oracle": 7,
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,16 +20,15 @@
     "duration": "instantaneous or 1d4 rounds; see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>A whip of cracking magical might appears in your hand, allowing you lash spells from the mind of enemy spellcasters. With a lash of bluish-purple energy, you strip many protective spells and effects from a single creature. If the target of this spell is currently under the effects of any harmless spells or effects, it must succeed at a Will save or all of those spells and effects end, stripping the target of the benefit of those spells. If the target is not currently under the effect of least one harmless spell, the target is instead confused for 1d4 rounds.<\/p>",
+    "text": "A whip of cracking magical might appears in your hand, allowing you lash spells from the mind of enemy spellcasters. With a lash of bluish-purple energy, you strip many protective spells and effects from a single creature. If the target of this spell is currently under the effects of any harmless spells or effects, it must succeed at a Will save or all of those spells and effects end, stripping the target of the benefit of those spells. If the target is not currently under the effect of least one harmless spell, the target is instead confused for 1d4 rounds.",
     "name_zh": "秘法鞭笞",
     "race_zh": "内希斯",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "立即或1d4轮，见下文",
+    "duration_zh": "立即或1d4轮, 见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一条辟啪作响的法术射流从你手中穿出，使你可以用它击碎敌人身上的魔法防护。只需用这条魔鞭一击，你就可以将敌人身上的所有增益魔法除去，目标如果不通过一个意志豁免检定就会失去所有作用在身上的无害魔法和效果。如果目标身上没有增益魔法效果的话，那么它会困惑1d4轮时间。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>一条辟啪作响的法术射流从你手中穿出，使你可以用它击碎敌人身上的魔法防护。只需用这条魔鞭一击，你就可以将敌人身上的所有增益魔法除去，目标如果不通过一个意志豁免检定就会失去所有作用在身上的无害魔法和效果。如果目标身上没有增益魔法效果的话，那么它会困惑1d4轮时间。<\/p>"
 }

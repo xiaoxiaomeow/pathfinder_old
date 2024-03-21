@@ -1,23 +1,27 @@
 {
     "key": "pox of rumors",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pox-of-rumors/",
     "name": "Pox of Rumors",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pox%20of%20Rumors",
+    "source": ["Ultimate Intrigue pg. 222"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "curse",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 7,
         "bard": 5,
         "cleric": 7,
         "mesmerist": 5,
+        "oracle": 7,
         "psychic": 7,
-        "sorcerer/wizard": 7,
+        "skald": 5,
+        "sorcerer": 7,
         "spiritualist": 5,
-        "witch": 7
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "8 hours",
     "components": "V, S, M (a physical connection to the target; see text)",
@@ -26,14 +30,14 @@
     "duration": "1 day/level",
     "savingThrow": "Will negates, then Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You curse the target to attract negative assumptions and rumors of a sort you specify when you cast the spell. If the target fails the initial save to negate the curse, every day that it spends in a settlement, it must attempt a Will save. If it fails, it accidentally says or does something that makes others assume the rumor you specified is true in some way that is unflattering or incriminating. If the creature is not aware of the nature of the rumors, it takes a –4 penalty on these secondary saves.<\/p><p>After the first failed save, the attitude each resident in the settlement has regarding the target is worsened by one step.<\/p><p>For each additional failure, the target becomes the victim of focused harassment. A group of residents taunts or attacks the creature, potentially sending the authorities to investigate if the rumor indicates criminal guilt.<\/p><p>The spell can be cast at any distance. The difficulty of the save depends on your knowledge of the subject and what sort of physical connection you have to that creature. The target gains the same bonuses and penalties on its Will save to resist this spell as the bonuses and penalties that apply to the scrying spell (including a +5 bonus if the target is on another plane), except that you can't cast <i>pox of rumors<\/i> without at least a possession or garment to use as the material component, and the target takes no penalty when you use a possession or garment and only a –5 penalty when you use a piece of the target's body. <i>Pox of rumors<\/i> is a curse, and until its duration expires, it can be removed only by remove curse or similar magic.<\/p>",
+    "text": "You curse the target to attract negative assumptions and rumors of a sort you specify when you cast the spell. If the target fails the initial save to negate the curse, every day that it spends in a settlement, it must attempt a Will save. If it fails, it accidentally says or does something that makes others assume the rumor you specified is true in some way that is unflattering or incriminating. If the creature is not aware of the nature of the rumors, it takes a –4 penalty on these secondary saves. After the first failed save, the attitude each resident in the settlement has regarding the target is worsened by one step. For each additional failure, the target becomes the victim of focused harassment. A group of residents taunts or attacks the creature, potentially sending the authorities to investigate if the rumor indicates criminal guilt.<br><br> The spell can be cast at any distance. The difficulty of the save depends on your knowledge of the subject and what sort of physical connection you have to that creature. The target gains the same bonuses and penalties on its Will save to resist this spell as the bonuses and penalties that apply to the <i>scrying<\/i> spell (including a +5 bonus if the target is on another plane), except that you can’t cast <i>pox of rumors<\/i> without at least a possession or garment to use as the material component, and the target takes no penalty when you use a possession or garment and only a –5 penalty when you use a piece of the target’s body. <i>Pox of rumors<\/i> is a curse, and until its duration expires, it can be removed only by <i>remove curse<\/i> or similar magic.",
     "name_zh": "谣言疫咒",
     "castingTime_zh": "8小时",
     "components_zh": "语言，姿势，材料（与目标相关的物质联系；见后文）",
+    "range_zh": "见文本",
     "target_zh": "1个生物",
-    "duration_zh": "1日/等级",
-    "savingThrow_zh": "意志，通过则无效，之后 意志，通过则部分生效（见后文）",
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效, 之后 意志, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你使得目标很容易引起某种类型的负面看法和谣言，具体类型由你施法时所指定。若目标在最初的豁免中失败，没能抵御诅咒的话，它在定居点（settlement）内所花费的每一天都必须尝试1次意志豁免。若豁免失败，则会以某种不受欢迎或让自己陷于不利的方式、不小心说出或作出某些事情，准确地引起你所指定的那类谣言。若该生物没有意识到这种谣言的本质，则会在这些后续豁免中承受-4减值。在首次失败的豁免后，定居点内每名居民对目标的态度都会恶化1级。对于每次额外的失败豁免，目标都会成为聚众骚扰（focused harassment）的受害者。一群居民会嘲弄或攻击该生物，若谣言指向刑事犯罪（criminal guilt）还有可能被送至当局并受到调查。\n你可以在任意距离施放该法术。法术豁免难度取决于你对受术者的了解程度、以及你所拥有的与该生物相关的物质联系（physical connection）的类型。目标会在抵御该法术的意志豁免中获得加值或减值，数值与应用至探知（Scrying）法术的加值和减值相同（包括目标位于其他位面时获得的+5加值），不过你至少要有目标的所有物或衣物（possession or garment）作为材料成分才能施放该法术，而且当你使用所有物或衣服作为物质联系时，目标不会承受减值；当你使用目标的身体部分（a piece of the target's body），目标也只会承受-5减值。谣言疫咒是一种诅咒，而且直至持续时间结束为止，它只能被移除诅咒（Remove Curse）或类似的法术所移除。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你使得目标很容易引起某种类型的负面看法和谣言，具体类型由你施法时所指定。若目标在最初的豁免中失败，没能抵御诅咒的话，它在定居点（settlement）内所花费的每一天都必须尝试1次意志豁免。若豁免失败，则会以某种不受欢迎或让自己陷于不利的方式、不小心说出或作出某些事情，准确地引起你所指定的那类谣言。若该生物没有意识到这种谣言的本质，则会在这些后续豁免中承受-4减值。在首次失败的豁免后，定居点内每名居民对目标的态度都会恶化1级。对于每次额外的失败豁免，目标都会成为聚众骚扰（focused harassment）的受害者。一群居民会嘲弄或攻击该生物，若谣言指向刑事犯罪（criminal guilt）还有可能被送至当局并受到调查。<\/p><p>你可以在任意距离施放该法术。法术豁免难度取决于你对受术者的了解程度、以及你所拥有的与该生物相关的物质联系（physical connection）的类型。目标会在抵御该法术的意志豁免中获得加值或减值，数值与应用至探知（Scrying）法术的加值和减值相同（包括目标位于其他位面时获得的+5加值），不过你至少要有目标的所有物或衣物（possession or garment）作为材料成分才能施放该法术，而且当你使用所有物或衣服作为物质联系时，目标不会承受减值；当你使用目标的身体部分（a piece of the target's body），目标也只会承受-5减值。谣言疫咒是一种诅咒，而且直至持续时间结束为止，它只能被移除诅咒（Remove Curse）或类似的法术所移除。<\/p>"
 }

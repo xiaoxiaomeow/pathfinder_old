@@ -1,21 +1,24 @@
 {
     "key": "twilight haze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/twilight-haze/",
     "name": "Twilight Haze",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Twilight%20Haze",
+    "source": ["Advanced Class Guide pg. 197"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors":     [
         "darkness",
         "shadow"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "mesmerist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
+        "redmantisassassin": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "witch": 2
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -24,15 +27,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a gray haze that obscures sight (as fog cloud) and causes the illumination level within it to drop one step (as darkness). Since this spell produces an illusion rather than a true physical fog, it is unaffected by wind and can be cast underwater.<\/p>",
+    "text": "You create a gray haze that obscures sight (as <i>fog cloud<\/i>) and causes the illumination level within it to drop one step (as <i>darkness<\/i>). Since this spell produces an illusion rather than a true physical fog, it is unaffected by wind and can be cast underwater.",
     "name_zh": "暮色烟云",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "半径20尺扩散区域的云雾",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一股灰色烟云，它可以如同云雾术（fog cloud）一般遮挡视线，而且能够如同黑暗术（darkness）一般让区域内的光照等级（illumination level）下降1级。由于法术产生的是幻觉，而非真正的实体云雾，所以它不会被风所影响，而且可以施放至水下。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一股灰色烟云，它可以如同云雾术（fog cloud）一般遮挡视线，而且能够如同黑暗术（darkness）一般让区域内的光照等级（illumination level）下降1级。由于法术产生的是幻觉，而非真正的实体云雾，所以它不会被风所影响，而且可以施放至水下。<\/p>"
 }

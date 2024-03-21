@@ -1,21 +1,25 @@
 {
     "key": "trial of fire and acid",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/trial-of-fire-and-acid/",
     "name": "Trial of Fire and Acid",
-    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Trial%20of%20Fire%20and%20Acid",
+    "source": ["Monster Codex pg. 225"],
     "school": "evocation",
     "descriptors":     [
         "acid",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "cleric": 3,
         "magus": 3,
+        "oracle": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -24,7 +28,7 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude half (see text)",
     "spellResistance": "no",
-    "text": "<p>The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round.<\/p><p>The subject can attempt a Fortitude saving throw each round to reduce the damage by half. Dousing the target in water ends the effect (both the acid and the fire), but rolling on the ground does not extinguish the fire or affect the acid.<\/p>",
+    "text": "The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half. Dousing the target in water ends the effect (both the acid and the fire), but rolling on the ground does not extinguish the fire or affect the acid.",
     "name_zh": "蚀火之罚",
     "race_zh": "巨魔",
     "castingTime_zh": "标准动作",
@@ -32,8 +36,7 @@
     "range_zh": "接触",
     "target_zh": "被接触的生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧通过则减半（见下文）",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术的目标被卷入一层燃烧的强酸物质中，每轮承受1d6点强酸和1d6点火焰伤害。在受到法术影响的每一轮中法术的目标都可以通过一个强韧豁免检定减半所受的伤害。如果目标将自己完全浸没在水中，这个法术的伤害效果会立刻结束（酸和火两者都是），但在地上打滚无法解除它的效果。<\/p>",
-    "source": "MC"
+    "text_zh": "<p>法术的目标被卷入一层燃烧的强酸物质中，每轮承受1d6点强酸和1d6点火焰伤害。在受到法术影响的每一轮中法术的目标都可以通过一个强韧豁免检定减半所受的伤害。如果目标将自己完全浸没在水中，这个法术的伤害效果会立刻结束（酸和火两者都是），但在地上打滚无法解除它的效果。<\/p>"
 }

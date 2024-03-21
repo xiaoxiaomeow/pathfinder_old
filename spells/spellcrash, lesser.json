@@ -1,13 +1,18 @@
 {
     "key": "spellcrash, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcrash/",
     "name": "Spellcrash, Lesser",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellcrash,%20Lesser",
+    "source": ["Advanced Class Guide pg. 194"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 4,
         "cleric": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "oracle": 4,
+        "psychic": 4,
+        "sorcerer": 4,
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,15 +21,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You create a discordant blast of energy that disrupts the target's available magic. If the target prepares spells, it must choose one of its prepared 3rd-level spells, which is immediately lost; if the target has no 3rd-level spells prepared, it must lose a 2nd-level spell it has prepared (progressing down to 1st-level spell if it has no 2nd-level spells prepared) each round at the start of its turn.<\/p><p>If the target is a spontaneous spellcaster, it loses one of its available 3rd-level spell slots; if the target has no available 3rd-level spell slots, it must lose a 2nd-level spell slot (progressing down to 1st-level spell if it has no 2nd-level spell slots available).<\/p><p>If the target has more than one spellcasting class, choose one at random to be affected. This spell has no effect on spell-like abilities.<\/p><p>Any spell or spell slot lost because of this spell is treated as if the caster had failed a concentration check while trying to cast it—the spell or spell slot is wasted and has no effect, but is recovered normally the next time the character prepares spells or regains spell slots.<\/p><p>There is no initial saving throw for this spell, but the target can attempt a Will saving throw each round at the end of its turn.<\/p>",
+    "text": "You create a discordant blast of energy that disrupts the target’s available magic each round at the start of its turn.<br><br> If the target prepares spells, it must choose one of its prepared 3rd-level spells, which is immediately lost; if the target has no 3rd-level spells prepared, it must lose a 2ndlevel spell it has prepared (progressing down to 1st-level spell if it has no 2nd-level spells prepared).<br><br> If the target is a spontaneous spellcaster, it loses one of its available 3rd-level spell slots; if the target has no available 3rd-level spell slots, it must lose a 2nd-level spell slot (progressing down to 1st-level spell if it has no 2nd-level spell slots available).<br><br>There is no initial saving throw for this spell, but the target can attempt a Will saving throw each round at the end of its turn.<br><br> If the target has more than one spellcasting class, choose one at random to be affected. This spell has no effect on spell-like abilities.<br><br> Any spell or spell slot lost because of this spell is treated as if the caster had failed a concentration check while trying to cast it—the spell or spell slot is wasted and has no effect, but is recovered normally the next time the character prepares spells or regains spell slots.",
     "name_zh": "次等碎法咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一股紊乱的能量波，以此来扰乱目标的可用魔法。每轮目标回合开始时，\n若目标是准备施法者，那么它需要选择一个准备好的3级法术，并且立即失去该法术；若目标没有准备好的3级法术，则必须失去一个准备好的2级法术（若它也没有准备好的2级法术，则会向下类推至1级法术）。\n若目标是自发施法者，它就会失去一个可用的3级法术位；若目标没有可用的3级法术位，则必须失去一个2级法术位（若它也没有可用的2级法术位，则会向下类推至1级法术位）。\n若目标具有多个施法职业，那么则会随机选择一个受到该法术影响。该法术对类法术能力没有效果。\n任何由于该法术而失去的法术或法术位，都视同为施法者在尝试施法时的专注检定中失败——法术或法术位被浪费掉而且还没有产生效果，但是到角色下一次准备法术或恢复法术位时会恢复正常。\n该法术没有最初的豁免来抵抗，但目标在每轮自己回合结束时可以进行豁免以终止法术效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一股紊乱的能量波，以此来扰乱目标的可用魔法。每轮目标回合开始时，<\/p><p>若目标是准备施法者，那么它需要选择一个准备好的3级法术，并且立即失去该法术；若目标没有准备好的3级法术，则必须失去一个准备好的2级法术（若它也没有准备好的2级法术，则会向下类推至1级法术）。<\/p><p>若目标是自发施法者，它就会失去一个可用的3级法术位；若目标没有可用的3级法术位，则必须失去一个2级法术位（若它也没有可用的2级法术位，则会向下类推至1级法术位）。<\/p><p>若目标具有多个施法职业，那么则会随机选择一个受到该法术影响。该法术对类法术能力没有效果。<\/p><p>任何由于该法术而失去的法术或法术位，都视同为施法者在尝试施法时的专注检定中失败——法术或法术位被浪费掉而且还没有产生效果，但是到角色下一次准备法术或恢复法术位时会恢复正常。<\/p><p>该法术没有最初的豁免来抵抗，但目标在每轮自己回合结束时可以进行豁免以终止法术效果。<\/p>"
 }

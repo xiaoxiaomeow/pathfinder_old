@@ -1,22 +1,25 @@
 {
     "key": "spell absorption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spell-absorption/",
     "name": "Spell Absorption",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spell%20Absorption",
+    "source": ["Inner Sea Magic pg. 61"],
     "school": "abjuration",
-    "levels": {"sorcerer/wizard": 5},
+    "levels":     {
+        "arcanist": 5,
+        "sorcerer": 5,
+        "wizard": 5
+    },
     "castingTime": "1 round",
     "components": "V, S, M (a prism)",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>If you successfully counterspell a 3rd-level or lower level spell (through either dispel magic or normal means) while <em>spell absorption<\/em> is in effect, you absorb the countered spell and use it to regain spells you have already cast. If you're a wizard, you regain the use of any single spell that you have cast since the last time you prepared spells. If you're a sorcerer, you regain a single spell slot. The spell recovered or spell slot regained must be of an equal level or lower than the spell you counterspelled.<\/p>",
+    "text": "If you successfully counterspell a 3rd-level or lower level spell (through either <i>dispel magic <\/i>or normal means) while <i>spell absorption <\/i>is in effect, you absorb the countered spell and use it to regain spells you have already cast. If you’re a wizard, you regain the use of any single spell that you have cast since the last time you prepared spells. If you’re a sorcerer, you regain a single spell slot. The spell recovered or spell slot regained must be of an equal level or lower than the spell you counterspelled.",
     "name_zh": "法力吸收",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势，材料（一个棱镜）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>若你在法力吸收生效的时候成功反制（counterspell）3级或更低等级的法术（无论是通过解除魔法还是正常手段做到），那么你能够将被反制的法术吸收，并用它来恢复你已经施放的法术。若你是法师，那么你会恢复的法术是自你上次准备法术起，任何你已经施放的单个法术。若你是术士，则恢复单个法术位。恢复的法术或法术位必须与你反制的法术等级相等或更低。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>若你在法力吸收生效的时候成功反制（counterspell）3级或更低等级的法术（无论是通过解除魔法还是正常手段做到），那么你能够将被反制的法术吸收，并用它来恢复你已经施放的法术。若你是法师，那么你会恢复的法术是自你上次准备法术起，任何你已经施放的单个法术。若你是术士，则恢复单个法术位。恢复的法术或法术位必须与你反制的法术等级相等或更低。<\/p>"
 }

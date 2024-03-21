@@ -1,23 +1,20 @@
 {
     "key": "burning hands",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/burning-hands/",
     "name": "Burning Hands",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Burning%20Hands",
+    "source": ["PRPG Core Rulebook pg. 251"],
     "school": "evocation",
     "descriptors": ["fire"],
     "levels":     {
+        "adept": 1,
+        "arcanist": 1,
         "bloodrager": 1,
         "magus": 1,
+        "occultist": 1,
         "shaman": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
-    },
-    "domains": {"fire": 1},
-    "elementalSchools": {"fire": 1},
-    "bloodlines": {"elemental": 1},
-    "mysteries":     {
-        "flame": 1,
-        "volcano": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -26,8 +23,9 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p><i>A cone of searing flame shoots from your fingertips.<\/i><\/p><p>Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4).<\/p><p>Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.<\/p>",
-    "mythicText": "The range increases to 20 feet, and the damage dealt increases to 1d6 points of fire damage per caster level (maximum 5d6). ",
+    "text": "A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.<h2 class=\"title\">Mythic Burning Hands<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 87<\/i><br>The range increases to 20 feet, and the damage dealt increases to 1d6 points of fire damage per caster level (maximum 5d6).",
+    "mythicSource": ["Mythic Adventures pg. 87"],
+    "mythicText": "The range increases to 20 feet, and the damage dealt increases to 1d6 points of fire damage per caster level (maximum 5d6).",
     "name_zh": "燃烧之手",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -36,6 +34,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>锥形的灼热火焰从你的指尖喷出。所有在火焰区域内的生物都要受到每CL 1d4点火焰伤害 (最多5d4)。如果火焰接触到可燃材料，它们会烧起来。角色能以一个整轮动作扑灭燃烧的物品。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>锥形的灼热火焰从你的指尖喷出。所有在火焰区域内的生物都要受到每CL 1d4点火焰伤害 (最多5d4)。如果火焰接触到可燃材料，它们会烧起来。角色能以一个整轮动作扑灭燃烧的物品。<\/p>"
 }

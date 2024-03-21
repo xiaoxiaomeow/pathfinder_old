@@ -1,24 +1,28 @@
 {
     "key": "human potential",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/human-potential/",
     "name": "Human Potential",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Human%20Potential",
+    "source": ["Arcane Anthology pg. 9"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bard": 2,
+        "investigator": 2,
         "medium": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a human hair)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>The target chooses one ability score and gains a +2 enhancement bonus to that ability score. The bonus confers the usual benefit to skills and abilities based on the ability enhanced, but does not affect bonus spells or skill ranks.<\/p>",
+    "text": "The target shares in humanity’s great potential as encouraged by Aroden. The target chooses one ability score and gains a +2 enhancement bonus to that ability score. The bonus confers the usual benefit to skills and abilities based on the ability enhanced, but does not affect bonus spells or skill ranks.",
     "name_zh": "人性潜力",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，材料（一根人类头发）",
@@ -27,6 +31,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标激发出人类的巨大潜力，这也正是奥罗登所鼓励的。目标选择一项属性，并在其上获得+2的增强加值。该加值会给基于被强化属性的技能和能力以通常的增益，但不会影响增益法术或技能等级。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>目标激发出人类的巨大潜力，这也正是奥罗登所鼓励的。目标选择一项属性，并在其上获得+2的增强加值。该加值会给基于被强化属性的技能和能力以通常的增益，但不会影响增益法术或技能等级。<\/p>"
 }

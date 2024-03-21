@@ -1,22 +1,42 @@
 {
     "key": "infernal healing, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/infernal-healing/",
     "name": "Infernal Healing, Greater",
-    "base": "infernal healing",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Infernal%20Healing,%20Greater",
+    "source":     [
+        "Hell's Vengeance Player's Guide pg. 11",
+        "Pathfinder #29: Mother of Flies pg. 67",
+        "Gods and Magic pg. 7",
+        "Inner Sea World Guide pg. 295"
+    ],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 4,
+        "arcanist": 4,
+        "cleric": 4,
         "magus": 4,
-        "sorcerer/wizard": 4,
+        "oracle": 4,
+        "sorcerer": 4,
         "summoner": 4,
-        "witch": 4
+        "summoner (unchained)": 4,
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
     },
-    "text": "<p style=\"margin-left:40px\">As infernal healing, except the target gains fast healing 4 and the target detects as an evil cleric.<\/p>",
+    "castingTime": "1 round",
+    "components": "V, S, M (1 drop of devil blood or 1 dose of unholy water)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 minute",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "As per <i>infernal healing<\/i>, except the target gains fast healing 4 and the target detects as an evil cleric.",
     "name_zh": "高等地狱治疗",
     "race_zh": "阿莫斯蒂亚斯",
-    "text_zh": "<p>如同地狱治疗，除了目标获得快速治疗4，以及被侦测时如同一位邪恶牧师。<\/p>",
-    "source": "CS-GaM"
+    "castingTime_zh": "1轮",
+    "range_zh": "接触",
+    "duration_zh": "1分钟",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>如同地狱治疗，除了目标获得快速治疗4，以及被侦测时如同一位邪恶牧师。<\/p>"
 }

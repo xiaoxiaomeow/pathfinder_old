@@ -1,19 +1,19 @@
 {
     "key": "barkskin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/barkskin/",
     "name": "Barkskin",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Barkskin",
+    "source": ["PRPG Core Rulebook pg. 246"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
         "druid": 2,
+        "hunter": 2,
+        "investigator": 2,
         "ranger": 2,
         "shaman": 2,
-        "summoner/unchained summoner": 2
+        "summoner": 2,
+        "summoner (unchained)": 2
     },
-    "domains": {"plant": 2},
-    "subdomains": {"defense": 2},
-    "mysteries": {"nature": 2},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -21,8 +21,9 @@
     "duration": "10 min./level",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>Barkskin<\/i> toughens a creature's skin. The effect grants a +2 enhancement bonus to the creature's existing natural armor bonus. This enhancement bonus increases by 1 for every three caster levels above 3rd, to a maximum of +5 at 12th level.<\/p><p>The enhancement bonus provided by <i>barkskin<\/i> stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor. A creature without natural armor has an effective natural armor bonus of +0.<\/p>",
-    "mythicText": "The target also gains DR/magic equal to the double the enhancement bonus the spell provides to the target's natural armor bonus. <br><p style=\"margin-left: 20px\"><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the spell grants DR/epic rather than DR/magic. ",
+    "text": "<i>Barkskin<\/i> toughens a creature's skin. The effect grants a +2 enhancement bonus to the creature's existing natural armor bonus. This enhancement bonus increases by 1 for every three caster levels above 3rd, to a maximum of +5 at 12th level.<br><br>The enhancement bonus provided by <i>barkskin<\/i> stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor. A creature without natural armor has an effective natural armor bonus of +0.<h2 class=\"title\">Mythic Barkskin<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 85<\/i><br>The target also gains DR/magic equal to the double the enhancement bonus the spell provides to the target’s natural armor bonus.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the spell grants DR/epic rather than DR/magic.",
+    "mythicSource": ["Mythic Adventures pg. 85"],
+    "mythicText": "The target also gains DR/magic equal to the double the enhancement bonus the spell provides to the target’s natural armor bonus.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the spell grants DR/epic rather than DR/magic.",
     "name_zh": "树肤术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -31,6 +32,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>树肤术让生物的皮肤变得坚韧。该效果会使生物现有的天生护甲加值获得+2增强加值。在3级之后，每具有3个CL会使这个增强加值增加1点，最高为12级时的+5点。<\/p><p>由树肤术提供的增强加值和目标本身的天生护甲加值相叠加，但是和天生防御上的其它增强加值不叠加。没有天生防御的生物的具有+0点天生护甲加值。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>树肤术让生物的皮肤变得坚韧。该效果会使生物现有的天生护甲加值获得+2增强加值。在3级之后，每具有3个CL会使这个增强加值增加1点，最高为12级时的+5点。<\/p><p>由树肤术提供的增强加值和目标本身的天生护甲加值相叠加，但是和天生防御上的其它增强加值不叠加。没有天生防御的生物的具有+0点天生护甲加值。<\/p>"
 }

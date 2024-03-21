@@ -1,16 +1,19 @@
 {
     "key": "arcane mark",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/arcane-mark/",
     "name": "Arcane Mark",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Arcane%20Mark",
+    "source": ["PRPG Core Rulebook pg. 244"],
     "school": "universal",
     "levels":     {
+        "arcanist": 0,
         "magus": 0,
         "psychic": 0,
         "shaman": 0,
-        "sorcerer/wizard": 0,
-        "summoner/unchained summoner": 0,
-        "witch": 0
+        "sorcerer": 0,
+        "summoner": 0,
+        "summoner (unchained)": 0,
+        "witch": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,7 +22,7 @@
     "duration": "permanent",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell allows you to inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or invisible. An <i>arcane mark<\/i> spell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, a <i>detect magic<\/i> spell causes it to glow and be visible, though not necessarily understandable.<\/p><p><i>See invisibility, true seeing<\/i>, a <i>gem of seeing<\/i>, or a <i>robe of eyes<\/i> likewise allows the user to see an invisible <i>arcane mark.<\/i> A <i>read magic<\/i> spell reveals the words, if any. The mark cannot be dispelled, but it can be removed by the caster or by an <i>erase<\/i> spell.<\/p><p>If an <i>arcane mark<\/i> is placed on a living being, the effect gradually fades in about a month.<\/p><p><i>Arcane mark<\/i> must be cast on an object prior to casting <i>instant summons<\/i> on the same object (see that spell description for details).<\/p>",
+    "text": "This spell allows you to inscribe your personal rune or mark, which can consist of no more than six characters. The writing can be visible or invisible. An <i>arcane mark<\/i> spell enables you to etch the rune upon any substance without harm to the material upon which it is placed. If an invisible mark is made, a <i>detect magic<\/i> spell causes it to glow and be visible, though not necessarily understandable.<br><br><i>See invisibility<\/i>, <i>true seeing<\/i>, a <i>gem of seeing<\/i>, or a <i>robe of eyes<\/i> likewise allows the user to see an invisible <i>arcane mark<\/i>. A <i>read magic<\/i> spell reveals the words, if any. The mark cannot be dispelled, but it can be removed by the caster or by an <i>erase<\/i> spell.<br><br>If an <i>arcane mark<\/i> is placed on a living being, the effect gradually fades in about a month.<br><br><i>Arcane mark<\/i> must be cast on an object prior to casting <i>instant summons<\/i> on the same object (see that spell description for details).",
     "name_zh": "秘法印记",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -28,6 +31,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术能让你写下你个人的符文或印记，该符文或印记最多不能超过六个字母。写下的内容可以是可见的，也可以是隐形的。秘法印记法术能让你在任何材质上刻下这个符文而不会对它造成损害。如果制造一个隐形印记，‘<a href=\"spell.html?spell=detect magic\">侦测魔法 (detect magic)<\/a>’可以让它发光，从而变的可见，当然并不一定能看懂它。<\/p><p>‘<a href=\"spell.html?spell=See invisibility\">识破隐形 (See invisibility)<\/a>’，‘<a href=\"spell.html?spell=true seeing\">真知术 (true seeing)<\/a>’，<真知宝石 (gem of seeing)>，<百眼法袍 (robe of eyes)>同样也可以让使用者看到隐形的秘法印记。‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’则能看出词语的含义 (如果有含义)。印记无法被解除，但是可以被施法者自己移除，或被‘<a href=\"spell.html?spell=erase\">抹消术 (erase)<\/a>’移除。<\/p><p>如果秘法印记放置在活的生物体上，那么大约在一个月左右印记就会由于正常的磨损而逐渐消失。<\/p><p>要施展‘<a href=\"spell.html?spell=instant summons\">即刻召唤 (instant summons)<\/a>’(见该法术的描述了解相关内容)，必须先在该物品上施展秘法印记。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术能让你写下你个人的符文或印记，该符文或印记最多不能超过六个字母。写下的内容可以是可见的，也可以是隐形的。秘法印记法术能让你在任何材质上刻下这个符文而不会对它造成损害。如果制造一个隐形印记，‘<a href=\"spell.html?spell=detect magic\">侦测魔法 (detect magic)<\/a>’可以让它发光，从而变的可见，当然并不一定能看懂它。<\/p><p>‘<a href=\"spell.html?spell=See invisibility\">识破隐形 (See invisibility)<\/a>’，‘<a href=\"spell.html?spell=true seeing\">真知术 (true seeing)<\/a>’，<真知宝石 (gem of seeing)>，<百眼法袍 (robe of eyes)>同样也可以让使用者看到隐形的秘法印记。‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’则能看出词语的含义 (如果有含义)。印记无法被解除，但是可以被施法者自己移除，或被‘<a href=\"spell.html?spell=erase\">抹消术 (erase)<\/a>’移除。<\/p><p>如果秘法印记放置在活的生物体上，那么大约在一个月左右印记就会由于正常的磨损而逐渐消失。<\/p><p>要施展‘<a href=\"spell.html?spell=instant summons\">即刻召唤 (instant summons)<\/a>’(见该法术的描述了解相关内容)，必须先在该物品上施展秘法印记。<\/p>"
 }

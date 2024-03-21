@@ -1,19 +1,22 @@
 {
     "key": "auditory hallucination",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/auditory-hallucination/",
     "name": "Auditory Hallucination",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Auditory%20Hallucination",
+    "source": ["Ultimate Intrigue pg. 204"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "magus": 1,
         "medium": 1,
         "mesmerist": 1,
         "occultist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "S",
@@ -22,15 +25,14 @@
     "duration": "concentration",
     "savingThrow": "Will disbelief",
     "spellResistance": "yes",
-    "text": "<p>You cause the targets to believe they hear any sound you imagine.<\/p><p>The sound can include intelligible speech. Instead of precisely imagining a sound, you can identify a sound the subjects know and they imagine it doing what you describe as you cast the spell. For example, you could cast this spell on orc warriors and have them imagine the sound of their chieftain calling for help, even if you've never heard their chieftain and even if the chieftain speaks in a language you don't understand. All targets hear the same hallucination. You can change the sound as part of concentrating on the spell.<\/p>",
+    "text": "You cause the targets to believe they hear any sound you imagine. The sound can include intelligible speech. Instead of precisely imagining a sound, you can identify a sound the subjects know and they imagine it doing what you describe as you cast the spell. For example, you could cast this spell on orc warriors and have them imagine the sound of their chieftain calling for help, even if you’ve never heard their chieftain and even if the chieftain speaks in a language you don’t understand. All targets hear the same hallucination. You can change the sound as part of concentrating on the spell.",
     "name_zh": "幻听错觉",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "1个生物/级，任意两者之间的距离不超过30尺",
     "duration_zh": "专注",
     "savingThrow_zh": "意志, 通过则不相信",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你让目标认为自己听到了你所想像出的任何声音。这些声音的内容可以包含可被理解的话语。你能够选定1种受术者了解的声音，以取代由你精确地想像1种声音，它们会在你施法时自行想像出你所描绘的内容。举例说明：你能够对兽人战士施放该法术，让他们想像自己效忠的酋长呼救的声音，即便你从未听过它们酋长的声音也可以，你甚至不用通晓兽人酋长所说的语言。所有目标都会听到相同的幻听。你能够以专注法术的一部分来改变幻听的声音。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你让目标认为自己听到了你所想像出的任何声音。这些声音的内容可以包含可被理解的话语。你能够选定1种受术者了解的声音，以取代由你精确地想像1种声音，它们会在你施法时自行想像出你所描绘的内容。举例说明：你能够对兽人战士施放该法术，让他们想像自己效忠的酋长呼救的声音，即便你从未听过它们酋长的声音也可以，你甚至不用通晓兽人酋长所说的语言。所有目标都会听到相同的幻听。你能够以专注法术的一部分来改变幻听的声音。<\/p>"
 }

@@ -1,10 +1,10 @@
 {
     "key": "bless weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bless-weapon/",
     "name": "Bless Weapon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bless%20Weapon",
+    "source": ["PRPG Core Rulebook pg. 250"],
     "school": "transmutation",
     "levels": {"paladin": 1},
-    "domains": {"glory": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
@@ -12,7 +12,7 @@
     "duration": "1 min./level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for the purpose of bypassing the DR of evil creatures or striking evil incorporeal creatures (though the spell doesn't grant an actual enhancement bonus). The weapon also becomes good-aligned, which means it can bypass the DR of certain creatures. (This effect overrides and suppresses any other alignment the weapon might have.) Individual arrows or bolts can be transmuted, but affected projectile weapons (such as bows) don't confer the benefit to the projectiles they shoot.<\/p><p>In addition, all critical hit rolls against evil foes are automatically successful, so every threat is a critical hit. This last effect does not apply to any weapon that already has a magical effect related to critical hits, such as a <i>keen<\/i> weapon or a <i>vorpal sword<\/i>.<\/p>",
+    "text": "This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for the purpose of bypassing the DR of evil creatures or striking evil incorporeal creatures (though the spell doesn't grant an actual enhancement bonus). The weapon also becomes good-aligned, which means it can bypass the DR of certain creatures. (This effect overrides and suppresses any other alignment the weapon might have.) Individual arrows or bolts can be transmuted, but affected projectile weapons (such as bows) don't confer the benefit to the projectiles they shoot.<br><br>In addition, all critical hit rolls against evil foes are automatically successful, so every threat is a critical hit. This last effect does not apply to any weapon that already has a magical effect related to critical hits, such as a <i>keen<\/i> weapon or a <i>vorpal sword<\/i>.",
     "name_zh": "祝福武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -21,6 +21,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这种变化能让武器准确地打击邪恶的敌人。在判断克服邪恶生物的DR、或者打击邪恶虚体生物时，武器被视为具有+1增强加值 (不过法术并不会使武器真的具有增强加值)。武器还会变为善良阵营，这意味着它能够克服某些生物的DR (该效果会覆盖并压制武器可能具有的其他阵营)。单个箭矢或弩矢也能够被转化，但是受影响的弹射武器 (比如弓) 并不会向它射出的弹药赋予这些好处。<\/p><p>另外，所有对邪恶敌人的重击都会自动成功，因此所有重击威胁都是重击。这一项效果对任何已经有重击相关魔法属性的武器无效，例如〈锐锋〉或〈斩首〉武器。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这种变化能让武器准确地打击邪恶的敌人。在判断克服邪恶生物的DR、或者打击邪恶虚体生物时，武器被视为具有+1增强加值 (不过法术并不会使武器真的具有增强加值)。武器还会变为善良阵营，这意味着它能够克服某些生物的DR (该效果会覆盖并压制武器可能具有的其他阵营)。单个箭矢或弩矢也能够被转化，但是受影响的弹射武器 (比如弓) 并不会向它射出的弹药赋予这些好处。<\/p><p>另外，所有对邪恶敌人的重击都会自动成功，因此所有重击威胁都是重击。这一项效果对任何已经有重击相关魔法属性的武器无效，例如〈锐锋〉或〈斩首〉武器。<\/p>"
 }

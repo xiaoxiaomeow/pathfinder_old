@@ -1,22 +1,33 @@
 {
     "key": "callback, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/callback/",
     "name": "Callback, Greater",
-    "base": "callback",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Callback,%20Greater",
+    "source":     [
+        "Ultimate Wilderness pg. 228",
+        "Familiar Folio pg. 22"
+    ],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
+        "arcanist": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a crushed grasshopper)",
     "range": "1 mile/level",
+    "target": "your familiar or spirit animal",
     "duration": "1 hour/level or until expended",
-    "text": "<p>This spell functions as <em>callback<\/em>, except as noted above.<\/p><\/div>",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions as <i>callback<\/i>, except as noted above.",
     "name_zh": "高等魔宠召还术",
-    "range_zh": "1英里/等级",
+    "castingTime_zh": "标准动作",
+    "range_zh": "每等级1里",
     "duration_zh": "1小时/等级或直至耗散",
-    "text_zh": "<p>除了上述差异之外，该法术的功能如同魔宠召还术一般。<\/p>",
-    "source": "UW"
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>除了上述差异之外，该法术的功能如同魔宠召还术一般。<\/p>"
 }

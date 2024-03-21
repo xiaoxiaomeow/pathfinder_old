@@ -1,21 +1,24 @@
 {
     "key": "alchemical allocation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alchemical-allocation/",
     "name": "Alchemical Allocation",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alchemical%20Allocation",
+    "source": ["Advanced Player's Guide pg. 201"],
     "school": "transmutation",
-    "levels": {"alchemist": 2},
+    "levels":     {
+        "alchemist": 2,
+        "investigator": 2
+    },
     "castingTime": "1 standard action",
     "components": "S",
     "range": "personal",
+    "target": "you",
     "duration": "1 round",
-    "text": "<p>This extract causes a pale aura to emanate from your mouth.<\/p><p>If you consume a potion or elixir on the round following the consumption of this extract, you can spit it back into its container as a free action. You gain all the benefits of the potion or elixir, but it is not consumed. You can only gain the benefits of one potion or elixir in this way per use of this extract.<\/p>",
+    "text": "This extract causes a pale aura to emanate from your mouth. If you consume a potion or elixir on the round following the consumption of this extract, you can spit it back into its container as a free action. You gain all the benefits of the potion or elixir, but it is not consumed. You can only gain the benefits of one potion or elixir in this way per use of this extract.",
     "name_zh": "炼金反刍",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
-    "text_zh": "<p>这种化合炼成会使你的嘴巴散发白色的灵光。如果你在饮用这个化合炼成后接下来的1轮之内消费药水或灵药(elixir)的话，就能够以自由动作将饮用的物质吐回原本的容器中。你能够获得药水或灵药带来的所有好处，但是并不会消耗掉它。每次你使用炼金反刍化合炼成后，你只能以此方式从1份药剂或者灵药中获得该效果。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>这种化合炼成会使你的嘴巴散发白色的灵光。如果你在饮用这个化合炼成后接下来的1轮之内消费药水或灵药(elixir)的话，就能够以自由动作将饮用的物质吐回原本的容器中。你能够获得药水或灵药带来的所有好处，但是并不会消耗掉它。每次你使用炼金反刍化合炼成后，你只能以此方式从1份药剂或者灵药中获得该效果。<\/p>"
 }

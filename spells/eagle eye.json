@@ -1,11 +1,12 @@
 {
     "key": "eagle eye",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/eagle-eye/",
     "name": "Eagle Eye",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Eagle%20Eye",
+    "source": ["Advanced Player's Guide pg. 217"],
     "school": "divination",
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "psychic": 2,
         "ranger": 2,
         "shaman": 2
@@ -14,18 +15,17 @@
     "components": "V, S, DF",
     "range": "long (400 ft. + 40 ft./level)",
     "effect": "magical sensor",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p><i>Eagle eye<\/i> creates a magical sensor directly above you. The sensor can appear anywhere above you, to a maximum height equal to the spell's range. You can see from this vantage as if you were actually there, rotating your viewpoint 360 degrees.<\/p><p>You perceive with your normal visual senses. A caster using <i>eagle eye<\/i> can easily see for a considerable distance. The spell does not penetrate any solid surface, although it is unaffected by foliage and the like.<\/p>",
+    "text": "<i>Eagle eye <\/i>creates a magical sensor directly above you. The sensor can appear anywhere above you, to a maximum height equal to the spell’s range. You can see from this vantage as if you were actually there, rotating your viewpoint 360 degrees. You perceive with your normal visual senses. A caster using <i>eagle eye <\/i>can easily see for a considerable distance. The spell does not penetrate any solid surface, although it is unaffected by foliage and the like.",
     "name_zh": "鹰眼术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "魔法感应器",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>鹰眼术会在你的正上方创造一个魔法感应器。感应器能够出现在你上方的任意位置，最高等同于法术的范围。你可以以这个角度视物并且可以360度旋转视角，就如同你在那个位置一般。施法者可以使用鹰眼术轻松看到很远的距离。尽管该法术的不会受树叶或类似物体的影响，但是它无法穿透固体表面。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>鹰眼术会在你的正上方创造一个魔法感应器。感应器能够出现在你上方的任意位置，最高等同于法术的范围。你可以以这个角度视物并且可以360度旋转视角，就如同你在那个位置一般。施法者可以使用鹰眼术轻松看到很远的距离。尽管该法术的不会受树叶或类似物体的影响，但是它无法穿透固体表面。<\/p>"
 }

@@ -1,10 +1,11 @@
 {
     "key": "hunter's lore",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-lore/",
     "name": "Hunter's Lore",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hunter's%20Lore",
+    "source": ["Inner Sea Magic pg. 56"],
     "school": "divination",
     "levels":     {
+        "hunter": 2,
         "inquisitor": 2,
         "ranger": 2
     },
@@ -12,14 +13,13 @@
     "components": "V, S, M (a scrap of paper torn from a book about monsters)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>Inquisitors and rangers alike learned long ago that knowledge of an enemy grants power over that enemy. This spell was created so that almost any enemy could have its vulnerabilities known and exploited.<\/p><p>For the duration of this spell you may spend a full-round action to take 20 on any Knowledge skill checks made to identify a foe's weaknesses, provided the foe in question is within line of sight and provided that you have at least one rank in that particular Knowledge skill. This spell allows you to make untrained Knowledge checks to determine a monster's weaknesses as if you had ranks in that skill, but you cannot take 20 on these checks.<\/p>",
+    "duration": "1 minute/level",
+    "text": "Inquisitors and rangers alike learned long ago that knowledge of an enemy grants power over that enemy. This spell was created so that almost any enemy could have its vulnerabilities known and exploited.<br><br>For the duration of this spell you may spend a full-round action to take 20 on any Knowledge skill checks made to identify a foe’s weaknesses, provided the foe in question is within line of sight and provided that you have at least one rank in that particular Knowledge skill. This spell allows you to make untrained Knowledge checks to determine a monster’s weaknesses as if you had ranks in that skill, but you cannot take 20 on these checks.",
     "name_zh": "猎手学识",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（从关于怪物的书籍上撕下的纸片）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>审判者与游侠仍旧像过去那样学习关于敌人的知识，并以此来战胜敌人。由于大多数敌人都有其自身的弱点，这个法术也就因此被创造出来了。\n在法术的持续时间内，你可以花费整轮动作（full-round action）来在鉴别敌人弱点的任何知识技能检定中取20，不过你需要与敌人具有视觉线相连，而且还需要在相应的知识技能上至少投入1个技能点。该法术允许你进行未受训的知识检定来判断怪物的弱点，就如同你在相应的技能中投入了技能点一般，不过你无法在这些检定中取20。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>审判者与游侠仍旧像过去那样学习关于敌人的知识，并以此来战胜敌人。由于大多数敌人都有其自身的弱点，这个法术也就因此被创造出来了。<\/p><p>在法术的持续时间内，你可以花费整轮动作（full-round action）来在鉴别敌人弱点的任何知识技能检定中取20，不过你需要与敌人具有视觉线相连，而且还需要在相应的知识技能上至少投入1个技能点。该法术允许你进行未受训的知识检定来判断怪物的弱点，就如同你在相应的技能中投入了技能点一般，不过你无法在这些检定中取20。<\/p>"
 }

@@ -1,14 +1,18 @@
 {
     "key": "anthropomorphic animal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/anthropomorphic-animal/",
     "name": "Anthropomorphic Animal",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Anthropomorphic%20Animal",
+    "source": ["Ultimate Magic pg. 206"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
+        "arcanist": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "hunter": 3,
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a humanoid thumb bone)",
@@ -17,7 +21,7 @@
     "duration": "1 hour/level",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You transform the touched animal into a bipedal hybrid of its original form with a humanoid form, similar to how a lycanthrope's hybrid form is a mix of a humanoid and animal form. The animal&#8216;s size, type, and ability scores do not change. It loses its natural attacks except for bite (if it had one as an animal), all types of movement other than its land speed, and special attacks that rely on its natural attacks. One pair of its limbs is able to manipulate objects and weapons as well as human hands do; limbless animals like snakes temporarily grow a pair of arms. The creature's Intelligence increases to 3, and it gains the ability to speak one language you know. It is not considered proficient in any manufactured weapons. It can attack with unarmed strikes, dealing unarmed strike damage for a creature of its size (unless it has a bite attack, which is a natural attack).<\/p><p><i>Anthropomorphic animal<\/i> can be made permanent with a <i>permanency<\/i> spell cast by a caster of 11th level or higher at a cost of 7,500 gp.<\/p>",
+    "text": "You transform the touched animal into a bipedal hybrid of its original form with a humanoid form, similar to how a lycanthrope’s hybrid form is a mix of a humanoid and animal form. The animal’s size, type, and ability scores do not change. It loses its natural attacks except for bite (if it had one as an animal), all types of movement other than its land speed, and special attacks that rely on its natural attacks. One pair of its limbs is able to manipulate objects and weapons as well as human hands do; limbless animals like snakes temporarily grow a pair of arms. The creature’s Intelligence increases to 3, and it gains the ability to speak one language you know. It is not considered proficient in any manufactured weapons. It can attack with unarmed strikes, dealing unarmed strike damage for a creature of its size (unless it has a bite attack, which is a natural attack).<br><br><i>Anthropomorphic animal <\/i>can be made permanent with a <i>permanency <\/i>spell cast by a caster of 11th level or higher at a cost of 7,500 gp.",
     "name_zh": "动物人化",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一根类人生物的拇指骨)",
@@ -26,6 +30,5 @@
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你将一只动物转化为双足直立行走的类人形态，外形类似一个拥有对应血统的兽化人的半兽化形态。<\/p><p>这个变化不会改变动物的体型、种族和属性值。<\/p><p>它失去所有天生武器，除了噬咬 (如果原本就有)，所有天生陆地移动速度之外的移动能力，以及所有依靠天生武器发动的特殊攻击。<\/p><p>它的一对肢体可以如同人类的手一样操作物体或使用武器；类似蛇一样没有肢体的生物将会长出一对手臂。<\/p><p>生物的智力提高到3，并且获得讲一种你懂的语言的能力。<\/p><p>它不视为擅长任何人造武器。不过它可以进行徒手打击，造成对应其体型的徒手打击伤害 (它还可以进行噬咬攻击，如果有的话)。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你将一只动物转化为双足直立行走的类人形态，外形类似一个拥有对应血统的兽化人的半兽化形态。<\/p><p>这个变化不会改变动物的体型、种族和属性值。<\/p><p>它失去所有天生武器，除了噬咬 (如果原本就有)，所有天生陆地移动速度之外的移动能力，以及所有依靠天生武器发动的特殊攻击。<\/p><p>它的一对肢体可以如同人类的手一样操作物体或使用武器；类似蛇一样没有肢体的生物将会长出一对手臂。<\/p><p>生物的智力提高到3，并且获得讲一种你懂的语言的能力。<\/p><p>它不视为擅长任何人造武器。不过它可以进行徒手打击，造成对应其体型的徒手打击伤害 (它还可以进行噬咬攻击，如果有的话)。<\/p>"
 }

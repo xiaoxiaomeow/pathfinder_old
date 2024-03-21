@@ -1,29 +1,33 @@
 {
     "key": "blood armor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blood-armor/",
     "name": "Blood Armor",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blood%20Armor",
+    "source": ["Advanced Class Guide pg. 176"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
+        "investigator": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "summoner/unchained summoner": 2,
-        "witch": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>Your blood becomes as hard as iron upon contact with air. Each time you take at least 5 points of piercing or slashing damage, your armor gains a +1 enhancement bonus to your AC. An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell. This enhancement bonus stacks with itself, but not with an existing enhancement bonus, to a maximum enhancement bonus of +5. This spell has no effect while underwater or in environments that lack air.<\/p>",
+    "duration": "1 minute/level",
+    "text": "Your blood becomes as hard as iron upon contact with air. Each time you take at least 5 points of piercing or slashing damage, your armor gains a +1 enhancement bonus to your AC. An outfit of regular clothing counts as armor that grants no AC bonus for the purpose of this spell. This enhancement bonus stacks with itself, but not with an existing enhancement bonus, to a maximum enhancement bonus of +5. This spell has no effect while underwater or in environments that lack air.",
     "name_zh": "硬化血甲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你的血液在接触到空气后，会变得如同钢铁般坚硬。每当你受到至少5点穿刺或挥砍伤害时，你的护甲会给你的AC提供+1增强加值。在判断该法术的效果时，一套普通衣物被视为没有AC加值的护甲。这个增强加值会与自身相叠加，但不与其它已存增强加值叠加。最高为+5点增强加值。该法术在水下或者缺乏空气的环境中没有效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你的血液在接触到空气后，会变得如同钢铁般坚硬。每当你受到至少5点穿刺或挥砍伤害时，你的护甲会给你的AC提供+1增强加值。在判断该法术的效果时，一套普通衣物被视为没有AC加值的护甲。这个增强加值会与自身相叠加，但不与其它已存增强加值叠加。最高为+5点增强加值。该法术在水下或者缺乏空气的环境中没有效果。<\/p>"
 }

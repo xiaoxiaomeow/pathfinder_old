@@ -1,21 +1,16 @@
 {
     "key": "align weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/align-weapon/",
     "name": "Align Weapon",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Align%20Weapon",
+    "source": ["PRPG Core Rulebook pg. 240"],
     "school": "transmutation",
     "descriptors": ["see text"],
     "levels":     {
-        "cleric/oracle": 2,
-        "inquisitor": 2
+        "cleric": 2,
+        "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
-    "domains":     {
-        "chaos": 2,
-        "evil": 2,
-        "good": 2,
-        "law": 2
-    },
-    "subdomains": {"demodand": 2},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -23,7 +18,7 @@
     "duration": "1 min./level",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p><i>Align weapon<\/i> makes a weapon chaotic, evil, good, or lawful, as you choose. A weapon that is aligned can bypass the damage reduction of certain creatures. This spell has no effect on a weapon that already has an alignment.<\/p><p>You can't cast this spell on a natural weapon, such as an unarmed strike. When you make a weapon chaotic, evil, good, or lawful, <i>align weapon<\/i> is a chaotic, evil, good, or lawful spell, respectively.<\/p>",
+    "text": "<i>Align weapon<\/i> makes a weapon chaotic, evil, good, or lawful, as you choose. A weapon that is aligned can bypass the damage reduction of certain creatures. This spell has no effect on a weapon that already has an alignment.<br><br>You can't cast this spell on a natural weapon, such as an unarmed strike. When you make a weapon chaotic, evil, good, or lawful, <i>align weapon<\/i> is a chaotic, evil, good, or lawful spell, respectively.",
     "name_zh": "阵营武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -32,6 +27,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
     "spellResistance_zh": "可 (无害, 物体)",
-    "text_zh": "<p>阵营武器可以根据你的选择让武器变成善良、邪恶、秩序、或者混乱。被阵营化的武器可以克服特定生物的伤害减免。这个法术不能对已经具有阵营的武器使用。<\/p><p>你不能对天生武器施展此法术，例如徒手打击。当你将武器变为善良、邪恶、秩序、或者混乱时，阵营武器也就对应成为[善良]、[邪恶]、[秩序]、或者[混乱]法术。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>阵营武器可以根据你的选择让武器变成善良、邪恶、秩序、或者混乱。被阵营化的武器可以克服特定生物的伤害减免。这个法术不能对已经具有阵营的武器使用。<\/p><p>你不能对天生武器施展此法术，例如徒手打击。当你将武器变为善良、邪恶、秩序、或者混乱时，阵营武器也就对应成为[善良]、[邪恶]、[秩序]、或者[混乱]法术。<\/p>"
 }

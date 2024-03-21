@@ -1,18 +1,19 @@
 {
     "key": "brand",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/brand/",
     "name": "Brand",
-    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Brand",
+    "source": ["Advanced Player's Guide pg. 207"],
     "school": "transmutation",
     "descriptors": ["curse"],
     "levels": {"inquisitor": 0},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
+    "target": "creature touched",
     "duration": "1 day/level",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p><i>Brand<\/i> etches an indelible rune or mark of no more than 6 characters onto a creature, inflicting 1 point of damage. The mark may be placed on any exposed portion of the creature, typically the head or forearm. A <i>brand<\/i> can be hidden by clothing or removed by scraping it away (causing 1d6 points of damage), though the <i>brand<\/i> returns if the damage is healed.<\/p>",
+    "text": "<i>Brand <\/i>etches an indelible rune or mark of no more than 6 characters onto a creature, inflicting 1 point of damage. The mark may be placed on any exposed portion of the creature, typically the head or forearm. A <i>brand <\/i>can be hidden by clothing or removed by scraping it away (causing 1d6 points of damage), though the <i>brand <\/i>returns if the damage is healed.",
     "name_zh": "烙印术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -21,6 +22,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>烙印术会在生物身上留下不可磨灭的神圣符文或印记，这些符号不能超过6个字符，同时造成1点伤害。印记可以设置在目标生物身上任何一处裸露的部分，通常为头部或者前臂。烙印可以被服装掩盖，也可以用利刃刮除 (造成1d6点伤害)，不过在伤害被治愈之后烙印会出新显现。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>烙印术会在生物身上留下不可磨灭的神圣符文或印记，这些符号不能超过6个字符，同时造成1点伤害。印记可以设置在目标生物身上任何一处裸露的部分，通常为头部或者前臂。烙印可以被服装掩盖，也可以用利刃刮除 (造成1d6点伤害)，不过在伤害被治愈之后烙印会出新显现。<\/p>"
 }

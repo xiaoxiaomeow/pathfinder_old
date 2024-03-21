@@ -1,0 +1,27 @@
+{
+    "key": "apparent master",
+    "name": "Apparent Master",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Apparent%20Master",
+    "source": ["Guardians of Dragonfall pg. 32"],
+    "school": "enchantment",
+    "levels":     {
+        "arcanist": 5,
+        "bard": 4,
+        "skald": 4,
+        "sorcerer": 5,
+        "wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one construct; see text",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This charm makes a construct regard you as its master. The spell only affects mindless constructs that are attuned to the commands of a master, such as animated objects, golems, retrievers, and shield guardians. All constructs with Intelligence scores, even those that explicitly follow the commands of their creator, such as an homunculus, are unaffected. If the construct is currently being threatened or attacked by you or your allies it receives a +5 bonus on its saving throw.<br><br>The spell enables you to control the construct completely, with the sole exception that commands directly resulting in damage break the spell. Any act by you or your apparent allies that damages the construct also breaks the spell. You can communicate your commands in any spoken language. The construct reverts to obeying the last commands given by its true master when the spell’s duration expires.<br><br>If the construct’s true master attempts to command a construct affected by <i>apparent master<\/i>, you must win an opposed Charisma check for the construct to continue to follow your commands. Failing this check breaks the spell.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

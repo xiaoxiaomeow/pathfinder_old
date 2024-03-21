@@ -1,18 +1,25 @@
 {
     "key": "awaken the devoured",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/awaken-the-devoured/",
     "name": "Awaken the Devoured",
-    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Awaken%20the%20Devoured",
+    "source":     [
+        "Book of the Damned pg. 183",
+        "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
+    ],
     "school": "divination",
     "descriptors": ["pain"],
     "levels":     {
+        "arcanist": 5,
         "cleric": 5,
         "inquisitor": 4,
+        "oracle": 5,
         "psychic": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
+        "sorcerer": 5,
         "spiritualist": 5,
-        "witch": 5
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +28,14 @@
     "duration": "instantaneous and 1 round/level",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>This spell is often used by conjurers as a method to torment daemons and force compliance, for it awakens the broken, anguished memories of the countless souls that the target daemons have consumed. All daemons targeted by <em>awaken the devoured<\/em> must be within 30 feet of each other. The fragmented memories haunt and afflict the daemons, dealing 1d8 points of damage per caster level (maximum 15d8) and making the daemons confused for 1 round per level. A daemon that succeeds at a Will save halves the damage and negates the confusion effect.<\/p>",
+    "text": "This spell is often used by conjurers as a method to torment daemons and force compliance, for it awakens the broken, anguished memories of the countless souls that the target daemons have consumed. All daemons targeted by awaken the devoured must be within 30 feet of each other. The fragmented memories haunt and afflict the daemons, dealing 1d8 points of damage per caster level (maximum 15d8) and making the daemons confused for 1 round per level. A daemon that succeeds at a Will save halves the damage and negates the confusion effect.",
     "name_zh": "唤醒被噬之魂",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "每4个施法者等级1头邪魔",
     "duration_zh": "立即 以及 1轮/等级",
-    "savingThrow_zh": "意志，通过则部分（见后文）",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术能够唤醒被目标邪魔吞噬的无数灵魂所留下的残破、疯狂的记忆，咒法师经常以此法术折磨邪魔并强迫其服从。所有成为唤醒被噬之魂目标的邪魔必须皆位于彼此30尺反为内。残破的记忆会追着邪魔不放、折磨它们，造成每个施法者等级1d8点伤害（最大15d8），并且使邪魔困惑每等级1轮时间。成功通过意志豁免的邪魔可以减半伤害，并且不受困惑效果影响。<\/p>",
-    "source": "BotD"
+    "text_zh": "<p>此法术能够唤醒被目标邪魔吞噬的无数灵魂所留下的残破、疯狂的记忆，咒法师经常以此法术折磨邪魔并强迫其服从。所有成为唤醒被噬之魂目标的邪魔必须皆位于彼此30尺反为内。残破的记忆会追着邪魔不放、折磨它们，造成每个施法者等级1d8点伤害（最大15d8），并且使邪魔困惑每等级1轮时间。成功通过意志豁免的邪魔可以减半伤害，并且不受困惑效果影响。<\/p>"
 }

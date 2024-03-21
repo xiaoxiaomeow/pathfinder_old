@@ -1,15 +1,15 @@
 {
     "key": "debilitating pain",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/debilitating-pain/",
     "name": "Debilitating Pain",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Pain",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "mind-affecting",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "psychic": 3,
         "witch": 3
@@ -21,15 +21,14 @@
     "duration": "1 round/3 levels",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>The target is overcome with intense pain, causing it to be stunned on a failed save or dazed for 1 round on a successful save.<\/p>",
+    "text": "The target is overcome with intense pain, causing it to be stunned on a failed save or dazed for 1 round on a successful save.",
     "name_zh": "衰竭剧痛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/3等级",
-    "savingThrow_zh": "意志，通过则部分生效（见描述）",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你的目标被无比剧烈的痛苦所压垮，这使得它在对本法术的豁免失败时会被震慑（stunned）。若成功通过豁免则改为眩晕（dazed）1轮。<\/p>",
-    "source": "PC-PA"
+    "text_zh": "<p>你的目标被无比剧烈的痛苦所压垮，这使得它在对本法术的豁免失败时会被震慑（stunned）。若成功通过豁免则改为眩晕（dazed）1轮。<\/p>"
 }

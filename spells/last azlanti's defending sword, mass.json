@@ -1,15 +1,28 @@
 {
     "key": "last azlanti's defending sword, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/defending-sword/",
     "name": "Last Azlanti's Defending Sword, Mass",
-    "base": "defending sword",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Last%20Azlanti's%20Defending%20Sword,%20Mass",
+    "source": ["Arcane Anthology pg. 9"],
     "school": "evocation",
     "descriptors": ["force"],
-    "levels": {"sorcerer/wizard": 9},
-    "text": "<p>This spell functions as <i>defending sword<\/i>, except you can create one sword per 5 caster levels, each of which must defend a different creature within range.<\/p><\/div>",
+    "levels":     {
+        "arcanist": 9,
+        "sorcerer": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a miniature platinum sword worth 250 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>Aroden’s defending sword<\/i>, except you can create one sword per 5 caster levels, each of which must defend a different creature within range.",
     "name_zh": "群体奥罗登的捍卫之剑",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "最多3等级一把剑",
-    "text_zh": "<p>这种法术如同奥罗登的捍卫之剑，除了你可以创造出每5施法者等级一把剑，每一把都必须防护距离内一个不同的生物。<\/p>",
-    "source": "PC-AAnth"
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这种法术如同奥罗登的捍卫之剑，除了你可以创造出每5施法者等级一把剑，每一把都必须防护距离内一个不同的生物。<\/p>"
 }

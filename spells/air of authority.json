@@ -1,28 +1,27 @@
 {
     "key": "air of authority",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-of-authority/",
     "name": "Air of Authority",
-    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Air%20of%20Authority",
+    "source": ["Inner Sea Races pg. 218"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
+    "race": "Taldan",
     "levels":     {
         "bard": 3,
-        "medium": 3,
-        "mesmerist": 3,
-        "psychic": 5
+        "skald": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>You gain an unmistakable air of authority, which clouds creatures' minds and causes them to believe that you are their direct superior. Each creature with whom you attempt to leverage your newfound authority receives a Will save to disbelieve the illusion. Otherwise, it treats you as it would its direct superior. Creatures with different direct superiors see you in different ways, which can potentially lead to conflicts that allow additional saving throws (for instance, if a cook sees you as the head chef, he might be quite perplexed to see the vizier treating you as if you were the king).<\/p>",
+    "duration": "1 minute/level (D)",
+    "text": "You gain an unmistakable air of authority, which clouds creatures’ minds and causes them to believe that you are their direct superior. Each creature with whom you attempt to leverage your newfound authority receives a Will save to disbelieve the illusion. Otherwise, it treats you as it would its direct superior. Creatures with different direct superiors see you in different ways, which can potentially lead to conflicts that allow additional saving throws (for instance, if a cook sees you as the head chef, he might be quite perplexed to see the vizier treating you as if you were the king).",
     "name_zh": "权威气息",
+    "race_zh": "Taldan",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自身",
-    "duration_zh": "1分钟/等级（可解消）",
-    "text_zh": "<p>你获得一层无可质疑的权威气息，这会迷惑其他生物的思想并使他们相信你是他们的直属上级。每个你试图利用自己新获得的权威来影响的生物都会获得一次不相信幻术的意志豁免机会。豁免失败，它就将会像对待直属上级一样对待你。 具有不同直属上级的生物会以不同的方式看待你，这可能会导致冲突，从而导致更多的豁免机会（例如，如果厨师将你当作主厨，那么他可能会对宫务大臣将你当作国王对待感到困惑）。<\/p>",
-    "source": "CS-ISR"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>你获得一层无可质疑的权威气息，这会迷惑其他生物的思想并使他们相信你是他们的直属上级。每个你试图利用自己新获得的权威来影响的生物都会获得一次不相信幻术的意志豁免机会。豁免失败，它就将会像对待直属上级一样对待你。 具有不同直属上级的生物会以不同的方式看待你，这可能会导致冲突，从而导致更多的豁免机会（例如，如果厨师将你当作主厨，那么他可能会对宫务大臣将你当作国王对待感到困惑）。<\/p>"
 }

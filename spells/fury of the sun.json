@@ -1,34 +1,35 @@
 {
     "key": "fury of the sun",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fury-of-sun/",
     "name": "Fury of the Sun",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fury%20of%20the%20Sun",
+    "source": ["Advanced Race Guide pg. 131"],
     "school": "transmutation",
     "descriptors":     [
         "curse",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "ifrit",
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "10 min.s/level",
-    "savingThrow": "Fort negates",
+    "duration": "10 minutes/level",
+    "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You curse the target to suffer unbearable heat. On a failed saving throw, the target is immediately subjected to severe heat, takes 1d4 points of nonlethal damage, and is suffering from heatstroke (fatigued). The target must save every 10 minutes as normal for severe heat (starting at DC 15 rather than the DC of this spell). Because this heat is internal, the target cannot avoid it using the normal methods for escaping heat dangers such as Survival checks or finding shade.<\/p>",
+    "text": "You curse the target to suffer unbearable heat. On a failed saving throw, the target is immediately subjected to severe heat , takes 1d4 points of nonlethal damage, and is suffering from heatstroke (fatigued). The target must save every 10 minutes as normal for severe heat (starting at DC 15 rather than the DC of this spell). Because this heat is internal, the target cannot avoid it using the normal methods for escaping heat dangers such as Survival checks or finding shade.",
     "name_zh": "日怒",
     "race_zh": "火元素裔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你诅咒目标遭受难以想像的酷热。若目标豁免失败，则立刻受到高温影响，受到1d4点非致命伤害，并且中暑 (疲乏)。目标必须每10分钟进行一次豁免，就如同在高温环境之中一样 (DC1 5, 每次检定再+1)。由于这种热量源自目标体内，目标无法用正常的方式避暑，比如进行生存检定在豁免上获得加值或在阴影下纳凉。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>你诅咒目标遭受难以想像的酷热。若目标豁免失败，则立刻受到高温影响，受到1d4点非致命伤害，并且中暑 (疲乏)。目标必须每10分钟进行一次豁免，就如同在高温环境之中一样 (DC1 5, 每次检定再+1)。由于这种热量源自目标体内，目标无法用正常的方式避暑，比如进行生存检定在豁免上获得加值或在阴影下纳凉。<\/p>"
 }

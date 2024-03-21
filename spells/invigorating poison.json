@@ -1,31 +1,34 @@
 {
     "key": "invigorating poison",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invigorating-poison/",
     "name": "Invigorating Poison",
-    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invigorating%20Poison",
+    "source": ["Dirty Tactics Toolbox pg. 28"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
         "cleric": 2,
         "druid": 2,
-        "shaman": 2
+        "hunter": 2,
+        "investigator": 2,
+        "oracle": 2,
+        "shaman": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (an apple seed)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min.s/level",
-    "savingThrow": "Fort negates (harmless)",
+    "duration": "10 minutes/level",
+    "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The body of the target creature gains a metabolic response that allows it to benefit from normally deadly toxins. When a poison would cause ability damage to the target creature, the target instead gains a +4 alchemical bonus to that ability score. The spell then immediately ends, but the bonus lasts for a number of minutes equal to the amount of ability damage the poison would have caused. If the poison would deal more than one type of ability damage, each bonus has a separate duration.<\/p><p>If the poison has effects other than ability damage (such as unconsciousness or ability drain), these effects apply normally.<\/p><p>This spell affects only a single poison; if multiple poisons affect the target simultaneously, this spell prevents only ability damage and grants the appropriate bonuses for the poison that would cause the most damage.<\/p>",
+    "text": "The body of the target creature gains a metabolic response that allows it to benefit from normally deadly toxins. When a poison would cause ability damage to the target creature, the target instead gains a +4 alchemical bonus to that ability score. The spell then immediately ends, but the bonus lasts for a number of minutes equal to the amount of ability damage the poison would have caused. If the poison would deal more than one type of ability damage, each bonus has a separate duration. If the poison has effects other than ability damage (such as unconsciousness or ability drain), these effects apply normally. This spell affects only a single poison; if multiple poisons affect the target simultaneously, this spell prevents only ability damage and grants the appropriate bonuses for the poison that would cause the most damage.",
     "name_zh": "鼓舞毒药",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料/法器（一枚苹果种子）",
     "range_zh": "接触",
     "target_zh": "接触的生物",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "强韧，通过则无效（无害）",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标生物的身体获得了一种代谢反应，使他能从通常致命的毒素中获益。当毒药本应对目标生物造成属性伤害时，目标反而会在该属性上得到+4的炼金奖励。法术会立即结束，但奖励会持续等于毒药本会造成的属性伤害数的分钟数。如果毒药会造成不止一种类型的属性伤害，每个加值都有一个单独的持续时间。如果毒药除了属性损伤外还有其他效果（如昏迷或能力吸取），这些影响会如常生效。这个法术只影响一个单一的毒药；如果有多份毒药同时影响目标，这个法术只会对将造成最大伤害的毒药生效：阻止一种属性伤害，并给予适当的奖励。<\/p>",
-    "source": "PC-DTT"
+    "text_zh": "<p>目标生物的身体获得了一种代谢反应，使他能从通常致命的毒素中获益。当毒药本应对目标生物造成属性伤害时，目标反而会在该属性上得到+4的炼金奖励。法术会立即结束，但奖励会持续等于毒药本会造成的属性伤害数的分钟数。如果毒药会造成不止一种类型的属性伤害，每个加值都有一个单独的持续时间。如果毒药除了属性损伤外还有其他效果（如昏迷或能力吸取），这些影响会如常生效。这个法术只影响一个单一的毒药；如果有多份毒药同时影响目标，这个法术只会对将造成最大伤害的毒药生效：阻止一种属性伤害，并给予适当的奖励。<\/p>"
 }

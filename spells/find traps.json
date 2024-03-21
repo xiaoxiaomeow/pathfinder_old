@@ -1,13 +1,17 @@
 {
     "key": "find traps",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/find-traps/",
     "name": "Find Traps",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20Traps",
+    "source": ["PRPG Core Rulebook pg. 281"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
+        "medium": 2,
+        "occultist": 2,
+        "oracle": 2,
         "psychic": 2,
+        "warpriest": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
@@ -15,13 +19,12 @@
     "range": "personal",
     "target": "you",
     "duration": "1 min./level",
-    "text": "<p>You gain intuitive insight into the workings of traps. You gain an insight bonus equal to 1/2 your caster level (maximum +10) on Perception checks made to find traps while the spell is in effect. You receive a check to notice traps within 10 feet of you, even if you are not actively searching for them. Note that <i>find traps<\/i> grants no ability to disable the traps that you may find.<\/p>",
+    "text": "You gain intuitive insight into the workings of traps. You gain an insight bonus equal to 1/2 your caster level (maximum +10) on Perception checks made to find traps while the spell is in effect. You receive a check to notice traps within 10 feet of you, even if you are not actively searching for them. Note that <i>find traps<\/i> grants no ability to disable the traps that you may find.",
     "name_zh": "寻找陷阱",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>法术让你对陷阱有种直观的洞察力。在法术生效期间，你在用于发现陷阱的察觉检定中获得相当于CL一半的洞察加值 (最高+10)。即便你没有主动寻找陷阱，你也可以在距离陷阱10尺距离时获得一次检定机会来察觉它。请注意该法术并不会给予解除你所发现的陷阱的能力。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>法术让你对陷阱有种直观的洞察力。在法术生效期间，你在用于发现陷阱的察觉检定中获得相当于CL一半的洞察加值 (最高+10)。即便你没有主动寻找陷阱，你也可以在距离陷阱10尺距离时获得一次检定机会来察觉它。请注意该法术并不会给予解除你所发现的陷阱的能力。<\/p>"
 }

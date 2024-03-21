@@ -1,25 +1,29 @@
 {
     "key": "commune",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/commune/",
     "name": "Commune",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Commune",
+    "source": ["PRPG Core Rulebook pg. 257"],
     "school": "divination",
     "levels":     {
-        "cleric/oracle": 5,
+        "adept": 5,
+        "cleric": 5,
         "inquisitor": 5,
-        "shaman": 5
+        "occultist": 5,
+        "oracle": 5,
+        "shaman": 5,
+        "warpriest": 5
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (holy or unholy water and incense worth 500 gp), DF",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>You contact your deity&#8211;or agents thereof&#8211;and ask questions that can be answered by a simple yes or no. (A cleric of no particular deity contacts a philosophically allied deity.) You are allowed one such question per caster level. The answers given are correct within the limits of the entity's knowledge. &#8220;Unclear&#8221; is a legitimate answer, because powerful beings of the Outer Planes are not necessarily omniscient. In cases where a one-word answer would be misleading or contrary to the deity's interests, a short phrase (five words or less) may be given as an answer instead.<\/p><p>The spell, at best, provides information to aid character decisions. The entities contacted structure their answers to further their own purposes. If you lag, discuss the answers, or go off to do anything else, the spell ends.<\/p>",
+    "text": "You contact your deity—or agents thereof—and ask questions that can be answered by a simple yes or no. (A cleric of no particular deity contacts a philosophically allied deity.) You are allowed one such question per caster level. The answers given are correct within the limits of the entity's knowledge. “Unclear” is a legitimate answer, because powerful beings of the Outer Planes are not necessarily omniscient. In cases where a one-word answer would be misleading or contrary to the deity's interests, a short phrase (five words or less) may be given as an answer instead.<br><br>The spell, at best, provides information to aid character decisions. The entities contacted structure their answers to further their own purposes. If you lag, discuss the answers, or go off to do anything else, the spell ends.",
     "name_zh": "通神术",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 材料 (圣水或邪水外加价值500gp的焚香), 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你与你信奉的神祇或其代理人进行接触，并询问那些可以用简单地使用“是”或“否”回答的问题 (没有特定信仰的牧师可以接触哲学理念相似的神祇)。每CL你可以询问一个问题。你所询问的存在会按照自身的知识答覆你。“不清楚”这种答案也是合理的，因为这些强大的异界存在并非全知全能。如果单字答案容易让人产生误解或是违背神祇的利益，则会用一个简短的句子 (五个字或更少) 来进行回答。<\/p><p>该法术在最好的情况下也只能提供信息帮助角色做出决定。角色组织联系起答案可以促进自己下决心。如果你发呆、与别人讨论答案、或是去做别的事情的话，法术将会结束。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你与你信奉的神祇或其代理人进行接触，并询问那些可以用简单地使用“是”或“否”回答的问题 (没有特定信仰的牧师可以接触哲学理念相似的神祇)。每CL你可以询问一个问题。你所询问的存在会按照自身的知识答覆你。“不清楚”这种答案也是合理的，因为这些强大的异界存在并非全知全能。如果单字答案容易让人产生误解或是违背神祇的利益，则会用一个简短的句子 (五个字或更少) 来进行回答。<\/p><p>该法术在最好的情况下也只能提供信息帮助角色做出决定。角色组织联系起答案可以促进自己下决心。如果你发呆、与别人讨论答案、或是去做别的事情的话，法术将会结束。<\/p>"
 }

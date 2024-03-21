@@ -1,13 +1,19 @@
 {
     "key": "thought shield iv",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thought-shield/",
     "name": "Thought Shield IV",
-    "base": "thought shield",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thought%20Shield%20IV",
+    "source": ["Occult Adventures pg. 190"],
     "school": "abjuration",
     "levels": {"psychic": 5},
-    "text": "<p>This functions as <em>thought shield III<\/em>, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a <em>psychic crush<\/em> spell, you take no damage. This spell can be undercast.<\/p>",
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round",
+    "text": "This functions as <i>thought shield III<\/i>, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a <i>psychic crush<\/i> spell, you take no damage. This spell can be undercast.",
     "name_zh": "思维护盾 IV",
-    "text_zh": "<p>该法术的功能如同思维护盾 III（Thought Shield III）一般，不过在法术持续期间，任何尝试阅读你的思维的生物都必须进行一次意志豁免，失败则会被震慑（stunned）1d4轮。此外，当你成功通过豁免对抗心灵碾压（Psychic Crush）时；你不会受到任何伤害。该法术可以被降阶施法。<\/p>",
-    "source": "OA"
+    "castingTime_zh": "直觉动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮",
+    "text_zh": "<p>该法术的功能如同思维护盾 III（Thought Shield III）一般，不过在法术持续期间，任何尝试阅读你的思维的生物都必须进行一次意志豁免，失败则会被震慑（stunned）1d4轮。此外，当你成功通过豁免对抗心灵碾压（Psychic Crush）时；你不会受到任何伤害。该法术可以被降阶施法。<\/p>"
 }

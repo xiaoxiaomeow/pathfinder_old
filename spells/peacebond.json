@@ -1,31 +1,33 @@
 {
     "key": "peacebond",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/peacebond/",
     "name": "Peacebond",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Peacebond",
+    "source": ["Ultimate Combat pg. 238"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 1,
         "inquisitor": 1,
+        "occultist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one sheathed or slung weapon",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You lock a weapon in place on its owner's body, or within the weapon's sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.<\/p>",
+    "text": "You lock a weapon in place on its owner’s body, or within the weapon’s sheath or holster. Anyone who then tries to draw the weapon must spend a standard action and succeed at a Strength check (DC equal to the saving throw DC) to do so, provoking attacks of opportunity whether the attempt succeeds or fails.",
     "name_zh": "和平条令",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个武器鞘或者投掷武器",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "意志，通过则无效 (物体)",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>你在一把武器锁在他主人的身上，或者在它的鞘或皮套里。任何随后想要尝试拔取该武器的人，都必须花标准动作进行一个力量检定 (DC等于法术豁免DC)。<\/p><p>不管尝试成功与否，这都会触发藉机攻击。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你在一把武器锁在他主人的身上，或者在它的鞘或皮套里。任何随后想要尝试拔取该武器的人，都必须花标准动作进行一个力量检定 (DC等于法术豁免DC)。<\/p><p>不管尝试成功与否，这都会触发藉机攻击。<\/p>"
 }

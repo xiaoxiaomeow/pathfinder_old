@@ -1,19 +1,20 @@
 {
     "key": "create undead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-undead/",
     "name": "Create Undead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Undead",
+    "source": ["PRPG Core Rulebook pg. 262"],
     "school": "necromancy",
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 6,
+        "arcanist": 6,
+        "cleric": 6,
+        "oracle": 6,
         "shaman": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "warpriest": 6,
+        "wizard": 6
     },
-    "domains":     {
-        "death": 6,
-        "evil": 6
-    },
-    "mysteries": {"juju": 5},
     "castingTime": "1 hour",
     "components": "V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -21,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A much more potent spell than animate dead, this evil spell allows you to infuse a dead body with negative energy to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create are based on your caster level, as shown on the table below.<\/p><table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Caster Level<\/th><th class=\"text\">Undead Created<\/th><th class=\"text\">Additional Requirements<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">11th (or lower)<\/td><td class=\"text\">Ghoul<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"text\">11th (or lower)<\/td><td class=\"text\">Hollow helm<\/td><td class=\"text\">Corpse must be wearing suit of heavy armor<\/td><\/tr><tr><td class=\"number\">11th+<\/td><td class=\"text\">Huecuva <sup style=\"font-size: 10px\">1<\/sup><\/td><td class=\"text\">Corpse of a cleric (preferably an evil cleric)<\/td><\/tr><tr><td class=\"number\">11th+<\/td><td class=\"text\">Crawling hand<\/td><td class=\"text\">Severed hand of a Medium or smaller humanoid<\/td><\/tr><tr><td class=\"number\">11th+<\/td><td class=\"text\">Juju zombie<sup style=\"font-size: 10px\">4<\/sup><\/td><td class=\"text\">Enervation or energy drain<\/td><\/tr><tr><td class=\"number\">11th+<\/td><td class=\"text\">Skeletal champion<sup style=\"font-size: 10px\">4<\/sup><\/td><td class=\"text\">Enervation or energy drain<\/td><\/tr><tr><td class=\"number\">12th-14th<\/td><td class=\"text\">Ghast, festrog <sup style=\"font-size: 10px\">2<\/sup><\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">12th+<\/td><td class=\"text\">Draugr<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">12th+<\/td><td class=\"text\">Guardian phantom armor<\/td><td class=\"text\">Corpse must be wearing suit of heavy armor<\/td><\/tr><tr><td class=\"number\">13th<\/td><td class=\"text\">Attic whisperer<\/td><td class=\"text\">Crushing despair, fear, corpse of a humanoid child<\/td><\/tr><tr><td class=\"number\">14th+<\/td><td class=\"text\">Blast shadow <sup style=\"font-size: 10px\">3<\/sup><\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">14th+<\/td><td class=\"text\">Crawling hand (giant)<\/td><td class=\"text\">Enlarge person, severed hand of a Large or larger humanoid<\/td><\/tr><tr><td class=\"number\">14th+<\/td><td class=\"text\">Wight<\/td><td class=\"text\">Enervation<\/td><\/tr><tr><td class=\"number\">15th+<\/td><td class=\"text\">Giant phantom armor<\/td><td class=\"text\">Corpse must be wearing suit of heavy armor<\/td><\/tr><tr><td class=\"number\">15th-17th<\/td><td class=\"text\">Mummy<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">15th+<\/td><td class=\"text\">Crypt thing<\/td><td class=\"text\">Teleport<\/td><\/tr><tr><td class=\"number\">16th+<\/td><td class=\"text\">Phantom lancer<\/td><td class=\"text\">Humanoid corpse must be wearing suit of heavy armor; mount must be wearing barding<\/td><\/tr><tr><td class=\"number\">17th+<\/td><td class=\"text\">Dullahan<\/td><td class=\"text\">Decapitated humanoid corpse<\/td><\/tr><tr><td class=\"number\">18th+<\/td><td class=\"text\">Mohrg<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">18th+<\/td><td class=\"text\">Rajput Ambari<\/td><td class=\"text\">The full skeleton of an adult elephant and adornment of a regal bearing adding at least 400 gp to the spell's total cost<\/td><\/tr><\/tbody><\/table><p>You may create less powerful undead than your level would allow if you choose. Created undead are not automatically under the control of their animator. If you are capable of commanding undead, you may attempt to command the undead creature as it forms.<\/p><p>This spell must be cast at night.<\/p><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">1<\/sup> A huecuva can be created using <i>create undead<\/i>. The caster must be at least 11th level and the spell normally uses the body of an evil cleric. The spell can be used to create a huecuva using the body of a good cleric, but this requires a DC 20 caster level check. Creating a huecuva in this way is considered to be one of the most heinous things that can be done to a cleric that has passed away. The faithless aura of huecuvas created from the bodies of good clerics in this way grants a +4 profane bonus on Will saves to resist channeled energy and any effects based off that ability.<\/p><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">2<\/sup> The <i>create undead<\/i> spell can create festrogs as if they were ghasts. The caster must be able to cast contagion, have access to that spell in a scroll or other magic item, or work with another caster who has access to the spell; creating the festrog expends the prepared contagion spell, uses an appropriate spell slot, or a charge from the magical source. If the corpse to be animated died of necrotic boils (the disease that festrogs spread) the contagion spell is not necessary.<\/p><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">3<\/sup> A spellcaster of 14th level or higher can create a blast shadow using <i>create undead<\/i>. In addition to the normal components of the spell, the spellcaster must use the body of a creature that died as a result of a fire spell or effect. The spell must be one that affects an area. Scorching ray is not sufficient, but fireball is. The creature must have died within 24 hours of the casting of <i>create undead<\/i>. Blast shadows created in this way are loyal to their creator, but those created by a death burst are beholden to no one.<\/p><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">4<\/sup> You must have a caster level greater than the HD of the undead to be created.<\/p><p><\/p>",
+    "text": "A much more potent spell than <i>animate dead<\/i>, this evil spell allows you to infuse a dead body with negative energy to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create are based on your caster level, as shown on the table below.<br><br><table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td><b>Undead Created<\/b><\/td><\/tr><tr><td>11th or lower<\/td><td>Ghoul<\/td><\/tr><tr><td>12th-14th<\/td><td>Ghast<\/td><\/tr><tr><td>15th-17th<\/td><td>Mummy<\/td><\/tr><tr><td>18th or higher<\/td><td>Mohrg<\/td><\/tr><\/table><br>You may create less powerful undead than your level would allow if you choose. Created undead are not automatically under the control of their animator. If you are capable of commanding undead, you may attempt to command the undead creature as it forms.<br><br>This spell must be cast at night.",
     "name_zh": "唤起死灵",
-    "castingTime_zh": "1小时",
-    "components_zh": "语言, 姿势, 材料 (一个装满墓土的陶罐, 外加要创造的不死生物所具有的",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "castingTime_zh": "1小声",
+    "components_zh": "语言, 姿势, 材料 (一个装满墓土的陶罐, 外加要创造的不死生物所具有的                   每个HD花费至少价值50gp的黑玛瑙)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一具尸体",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术比‘<a href=\"spell.html?spell=animate dead\">操纵死尸 (animate dead)<\/a>’更强大，这个邪恶的法术使你能够向一具尸体灌入负能量，以此来创造出各种强大的不死生物：食尸鬼、妖鬼、木乃伊以及魔魂尸。你所能创造的不死生物的类型取决于你的CL，如下表所述。\n施法者等级\n 可创造的不死生物\n11或更低\n 食尸鬼 (ghouls)\n12 – 14\n 妖鬼 (ghasts)\n15 – 17\n 木乃伊 (mummies)\n18或更高\n 魔魂尸 (mohrgs)<\/p><p>如果你愿意，你可以选择制造比你CL所能允许的种类更为弱小的不死生物。被唤起的死灵不会自动受到他们制造者的控制。如果你有能力命令不死生物，则尝试在之后以这种方式控制它们。<\/p><p>该法术必须在夜间施放。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术比‘<a href=\"spell.html?spell=animate dead\">操纵死尸 (animate dead)<\/a>’更强大，这个邪恶的法术使你能够向一具尸体灌入负能量，以此来创造出各种强大的不死生物：食尸鬼、妖鬼、木乃伊以及魔魂尸。你所能创造的不死生物的类型取决于你的CL，如下表所述。<\/p><p>施法者等级 可创造的不死生物<\/p><p>11或更低 食尸鬼 (ghouls)<\/p><p>12 – 14 妖鬼 (ghasts)<\/p><p>15 – 17 木乃伊 (mummies)<\/p><p>18或更高 魔魂尸 (mohrgs)<\/p><p>如果你愿意，你可以选择制造比你CL所能允许的种类更为弱小的不死生物。被唤起的死灵不会自动受到他们制造者的控制。如果你有能力命令不死生物，则尝试在之后以这种方式控制它们。<\/p><p>该法术必须在夜间施放。<\/p>"
 }

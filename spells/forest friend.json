@@ -1,28 +1,28 @@
 {
     "key": "forest friend",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forest-friend/",
     "name": "Forest Friend",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
-    "school": "abjuration: <b>Level<\/b> druid 2, ranger 2",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forest%20Friend",
+    "source": ["Ultimate Combat pg. 230"],
+    "school": "abjuration",
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "ranger": 2
     },
     "castingTime": "1 round",
     "components": "V, S, M (a pinch of manure)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on Acrobatics and Stealth checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal. When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on Acrobatics checks and Climb checks. Rangers in their favored terrain can also add their favored terrain bonus on such Acrobatics and Climb checks.<\/p>",
+    "text": "While subject to this spell, the targets find that forested areas become helpful instead of hindering. The targets suffer no hindrances to movement and suffer no penalties on Acrobatics and Stealth checks from undergrowth in forested terrain. Furthermore, forested overgrowth imposes a miss chance 10% lower than normal. <br><br>When moving in and among trees, those subject to the spell gain a +5 circumstance bonus on Acrobatics checks and Climb checks. Rangers in their favored terrain can also add their favored terrain bonus on such Acrobatics and Climb checks.",
     "name_zh": "丛林之友",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 材料 (少许粪便)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每3等级1个自愿生物，任意两者之间不得超过30尺",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>受到该法术影响的目标会发现，森林成为了他的助力而非阻碍。目标不会由于植被茂密的森林而阻碍移动，也不会因此在特技动作以及潜行检定上受到减值。此外，茂盛的树林所带来的失手率也比正常要低10%。<\/p><p>当该法术的受术者在树上行动时，特技动作以及攀爬检定会获得+5环境加值。处于偏好地形的游侠还能够将他们的偏好地形加值加在这些特技动作与攀爬检定上。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>受到该法术影响的目标会发现，森林成为了他的助力而非阻碍。目标不会由于植被茂密的森林而阻碍移动，也不会因此在特技动作以及潜行检定上受到减值。此外，茂盛的树林所带来的失手率也比正常要低10%。<\/p><p>当该法术的受术者在树上行动时，特技动作以及攀爬检定会获得+5环境加值。处于偏好地形的游侠还能够将他们的偏好地形加值加在这些特技动作与攀爬检定上。<\/p>"
 }

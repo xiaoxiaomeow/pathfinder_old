@@ -1,30 +1,30 @@
 {
     "key": "retribution",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/retribution/",
     "name": "Retribution",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Retribution",
+    "source": ["Advanced Player's Guide pg. 239"],
     "school": "necromancy",
     "descriptors":     [
         "evil",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels": {"inquisitor": 3},
     "castingTime": "1 standard action",
     "components": "V",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature who has just struck you with an attack",
     "duration": "1 round/level",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p><i>Retribution<\/i> blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a -4 penalty on attack rolls, skills checks, and ability checks. On a successful Fortitude save, the penalty only lasts for 1 round.<\/p><p>A target who worships the same god as you takes a -2 penalty on its Saving Throw.<\/p>",
+    "text": "<i>Retribution <\/i>blasts those who have the temerity to assault your person. You may target anyone who has just struck you with an attack within the previous round, whether with a melee, ranged, or natural weapon, or a spell that requires an attack roll. The target is wracked with shooting pains that impose a –4 penalty on attack rolls, skills checks, and ability checks. On a successful Fortitude save, the penalty only lasts for 1 round. A target who worships the same god as you takes a –2 penalty on its saving throw.",
     "name_zh": "惩戒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个刚攻击过你的生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你让惩戒降临在那些冒然攻击你的人身上。<\/p><p>你可以针对在上一轮攻击过你——无论是用近战、远程、天生武器，或者需要进行攻击投骰的法术——的目标施放该法术。目标会感受到无比尖锐的痛苦，以至于使它的攻击投骰、技能检定和属性检定全部受到-4罚值。<\/p><p>一个成功的强韧检定可以让该效果只持续一轮。一个与你信仰相同神祇的目标在对抗该法术时豁免检定-2。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你让惩戒降临在那些冒然攻击你的人身上。<\/p><p>你可以针对在上一轮攻击过你——无论是用近战、远程、天生武器，或者需要进行攻击投骰的法术——的目标施放该法术。目标会感受到无比尖锐的痛苦，以至于使它的攻击投骰、技能检定和属性检定全部受到-4罚值。<\/p><p>一个成功的强韧检定可以让该效果只持续一轮。一个与你信仰相同神祇的目标在对抗该法术时豁免检定-2。<\/p>"
 }

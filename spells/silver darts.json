@@ -1,15 +1,17 @@
 {
     "key": "silver darts",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/silver-darts/",
     "name": "Silver Darts",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Silver%20Darts",
+    "source": ["Advanced Class Guide pg. 192"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "magus": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a silver needle)",
@@ -18,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>A cone of silver darts springs from your hand. These darts act as a silver weapon that deals 1d6 points of piercing damage per caster level (maximum 10d6). Any creature with an armor bonus greater than +4 or a natural armor bonus greater than +4 takes 50% less damage.<\/p>",
+    "text": "A cone of silver darts springs from your hand. These darts act as a silver weapon that deals 1d6 points of piercing damage per caster level (maximum 10d6). Any creature with an armor bonus greater than +4 or a natural armor bonus greater than +4 takes 50% less damage.",
     "name_zh": "银镖闪",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一根银针）",
     "range_zh": "15尺",
-    "area_zh": "：锥形爆发区域",
+    "area_zh": "锥形爆发区域",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>成片的银镖从你手中发射出去。这些飞镖视同造成每施法者等级1d6点穿刺伤害（最高10d6）的银质武器（silver weapon）。若生物具有+4点或更高的护甲加值或天生防御加值，则受到的伤害会减少50%。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>成片的银镖从你手中发射出去。这些飞镖视同造成每施法者等级1d6点穿刺伤害（最高10d6）的银质武器（silver weapon）。若生物具有+4点或更高的护甲加值或天生防御加值，则受到的伤害会减少50%。<\/p>"
 }

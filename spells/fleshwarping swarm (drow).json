@@ -1,0 +1,30 @@
+{
+    "key": "fleshwarping swarm (drow)",
+    "name": "Fleshwarping Swarm (Drow)",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fleshwarping%20Swarm%20(Drow)",
+    "source": ["Inner Sea Races pg. 220"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "race": "Drow",
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "summoner": 3,
+        "witch": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 round",
+    "components": "V, S, M/DF (a square of red cloth)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one swarm of bats, rats, or spiders",
+    "duration": "concentration + 2 rounds and 1 hour/level (see text)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>summon swarm<\/i>, except that living and undead creatures that fail their saving throw against the swarm’s distraction find that their limbs twist and spasm, as their bodies become susceptible to transmutations. Such creatures take a –4 penalty to Dexterity and on saving throws against transmutation effects for 1 hour per caster level.",
+    "race_zh": "Drow",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "concentration + 2 rounds and 1 hour/level (see text)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

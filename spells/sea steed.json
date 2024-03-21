@@ -1,12 +1,16 @@
 {
     "key": "sea steed",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sea-steed/",
     "name": "Sea Steed",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sea%20Steed",
+    "source":     [
+        "Ultimate Wilderness pg. 234",
+        "Animal Archive pg. 25"
+    ],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "paladin": 2,
         "ranger": 2
     },
@@ -14,18 +18,17 @@
     "components": "V, S, DF",
     "range": "touch",
     "target": "a creature you are mounted upon",
-    "duration": "10 min.s/level (d)",
+    "duration": "10 minutes/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target adapts to life in the water, gaining piscine scales that cover its body and growing fins in place of feet.<\/p><p>It gains the aquatic subtype, the amphibious quality, and a swim speed equal to its base speed before it came under the effect of this spell. While under the effects of this spell, the target's base speed is reduced by 10 feet (minimum 10 feet).<\/p>",
+    "text": "The target adapts to life in the water, gaining piscine scales that cover its body and growing fins in place of feet. It gains the aquatic subtype, the amphibious quality, and a swim speed equal to its base speed before it came under the effect of this spell. While under the effects of this spell, the target’s base speed is reduced by 10 feet (minimum 10 feet).",
     "name_zh": "海中坐骑",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
     "range_zh": "接触",
     "target_zh": "你的坐骑",
-    "duration_zh": "10分钟/等级（可解消）",
+    "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标生物适应了水中生活，身上长出了覆盖躯体的鳞片，并在脚的部分生出了脚蹼。当法术生效时，你的坐骑获得了水栖亚种，两栖性质以及等同于它在被法术作用之前的陆地基础速度的游泳速度，但当处于法术效果时，它的陆地基础速度降低10尺（最低10英尺）。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>目标生物适应了水中生活，身上长出了覆盖躯体的鳞片，并在脚的部分生出了脚蹼。当法术生效时，你的坐骑获得了水栖亚种，两栖性质以及等同于它在被法术作用之前的陆地基础速度的游泳速度，但当处于法术效果时，它的陆地基础速度降低10尺（最低10英尺）。<\/p>"
 }

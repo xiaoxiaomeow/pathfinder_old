@@ -1,30 +1,36 @@
 {
     "key": "lash of the astradaemon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lash-of-the-astradaemon/",
     "name": "Lash of the Astradaemon",
-    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lash%20of%20the%20Astradaemon",
+    "source":     [
+        "Book of the Damned pg. 184",
+        "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
+    ],
     "school": "necromancy",
     "descriptors": ["evil"],
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
         "magus": 5,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "duration": "instantaneous",
-    "savingThrow": "Fort negates (see text)",
+    "savingThrow": "Fortitude negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You draw on the essence of astradaemons to cause one of your hands to elongate and sprout fearsome translucent claws that radiate a cold phosphorescence. You gain one claw attack, which is a primary natural attack that deals 1d6 points of slashing damage on a hit (1d4 for a Small spellcaster) and forces the creature struck to succeed at a Fortitude save against the spell (spell resistance applies) to resist gaining 1 negative level.<\/p><p>Each time you inflict a negative level with this spell, you gain 5 temporary hit points that persist for 1 hour. A creature that succeeds at the saving throw against your claw's negative level is immune to further negative levels inflicted from this casting of <em>lash of the astradaemon<\/em> but not to the claw's damage. The claw does not interfere with your ability to cast spells or perform other actions that require hands. You can use your claw attack up to 1 time per 2 caster levels. Your claw reverts to a normal hand once you've delivered all of your potential attacks or after 24 hours (whichever comes first).<\/p>",
+    "text": "You draw on the essence of astradaemons to cause one of your hands to elongate and sprout fearsome translucent claws that radiate a cold phosphorescence. You gain one claw attack, which is a primary natural attack that deals 1d6 points of slashing damage on a hit (1d4 for a Small spellcaster) and forces the creature struck to succeed at a Fortitude save against the spell (spell resistance applies) to resist gaining 1 negative level. Each time you inflict a negative level with this spell, you gain 5 temporary hit points that persist for 1 hour. A creature that succeeds at the saving throw against your claw’s negative level is immune to further negative levels inflicted from this casting of <i>lash of the astradaemon<\/i> but not to the claw’s damage. The claw does not interfere with your ability to cast spells or perform other actions that require hands. You can use your claw attack up to 1 time per 2 caster levels. Your claw reverts to a normal hand once you’ve delivered all of your potential attacks or after 24 hours (whichever comes first).",
     "name_zh": "星界邪魔的猛击",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则无效（见后文）",
+    "savingThrow_zh": "强韧, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你抽取星界邪魔的本质，让其中一只手变得修长并长出半透明的可怕利爪，闪烁着冰冷的磷光。你获得一次爪抓攻击，这是主要天生攻击，命中时造成1d6挥砍伤害（小型施法者则造成1d4），被命中的生物必须成功通过法术的强韧豁免掷骰（适用法术抗力），否则就会获得1个负像等级。每次你用此法术给予负向等级时，都会获得5点暂时生命值，持续1小时。生物若成功通过你利爪上附加的负向等级的豁免，则其免疫本次星界邪魔的猛击后续给予的负向等级，但不会免疫爪抓伤害。此利爪不会影响你施展法术的能力，也不影响你进行其它需要用手的动作。你每2个施法者等级可以使用爪抓攻击1次。在所有攻击次数都用尽或经过24小时后（视何者为先），你的利爪会恢复成正常的手掌。<\/p>",
-    "source": "BotD"
+    "text_zh": "<p>你抽取星界邪魔的本质，让其中一只手变得修长并长出半透明的可怕利爪，闪烁着冰冷的磷光。你获得一次爪抓攻击，这是主要天生攻击，命中时造成1d6挥砍伤害（小型施法者则造成1d4），被命中的生物必须成功通过法术的强韧豁免掷骰（适用法术抗力），否则就会获得1个负像等级。每次你用此法术给予负向等级时，都会获得5点暂时生命值，持续1小时。生物若成功通过你利爪上附加的负向等级的豁免，则其免疫本次星界邪魔的猛击后续给予的负向等级，但不会免疫爪抓伤害。此利爪不会影响你施展法术的能力，也不影响你进行其它需要用手的动作。你每2个施法者等级可以使用爪抓攻击1次。在所有攻击次数都用尽或经过24小时后（视何者为先），你的利爪会恢复成正常的手掌。<\/p>"
 }

@@ -1,28 +1,29 @@
 {
     "key": "meld into stone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/meld-into-stone/",
     "name": "Meld into Stone",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Meld%20into%20Stone",
+    "source": ["PRPG Core Rulebook pg. 312"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
-        "cleric/oracle": 3,
+        "cleric": 3,
         "druid": 3,
-        "psychic": 3
+        "hunter": 3,
+        "oracle": 3,
+        "psychic": 3,
+        "warpriest": 3
     },
-    "mysteries": {"stone": 3},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
     "duration": "10 min./level",
-    "text": "<p><i>Meld into stone<\/i> enables you to meld your body and possessions into a single block of stone. The stone must be large enough to accommodate your body in all three dimensions. When the casting is complete, you and not more than 100 pounds of non-living gear merge with the stone. If either condition is violated, the spell fails and is wasted.<\/p><p>While in the stone, you remain in contact, however tenuous, with the face of the stone through which you melded. You remain aware of the passage of time and can cast spells on yourself while hiding in the stone. Nothing that goes on outside the stone can be seen, but you can still hear what happens around you. Minor physical damage to the stone does not harm you, but its partial destruction (to the extent that you no longer fit within it) expels you and deals you 5d6 points of damage. The stone's complete destruction expels you and slays you instantly unless you make a DC 18 Fortitude save. Even if you make your save, you still take 5d6 points of damage.<\/p><p>Any time before the duration expires, you can step out of the stone through the surface that you entered. If the spell's duration expires or the effect is dispelled before you voluntarily exit the stone, you are violently expelled and take 5d6 points of damage.<\/p><p>The following spells harm you if cast upon the stone that you are occupying.<\/p><ul><li><i>Stone to flesh<\/i> expels you and deals you 5d6 points of damage.<\/li><li><i>Stone shape<\/i> deals 3d6 points of damage but does not expel you.<\/li><li><i>Transmute rock to mud<\/i> expels you and then slays you instantly unless you make a DC 18 Fortitude save, in which case you are merely expelled.<\/li><li>Finally, <i>passwall<\/i> expels you without damage.<\/li><\/ul>",
+    "text": "<i>Meld into stone<\/i> enables you to meld your body and possessions into a single block of stone. The stone must be large enough to accommodate your body in all three dimensions. When the casting is complete, you and not more than 100 pounds of nonliving gear merge with the stone. If either condition is violated, the spell fails and is wasted.<br><br>While in the stone, you remain in contact, however tenuous, with the face of the stone through which you melded. You remain aware of the passage of time and can cast spells on yourself while hiding in the stone. Nothing that goes on outside the stone can be seen, but you can still hear what happens around you. Minor physical damage to the stone does not harm you, but its partial destruction (to the extent that you no longer fit within it) expels you and deals you 5d6 points of damage. The stone's complete destruction expels you and slays you instantly unless you make a DC 18 Fortitude save. Even if you make your save, you still take 5d6 points of damage.<br><br>Any time before the duration expires, you can step out of the stone through the surface that you entered. If the spell's duration expires or the effect is dispelled before you voluntarily exit the stone, you are violently expelled and take 5d6 points of damage.<br><br>The following spells harm you if cast upon the stone that you are occupying. <i>Stone to flesh<\/i> expels you and deals you 5d6 points of damage. <i>Stone shape<\/i> deals 3d6 points of damage but does not expel you. <i>Transmute rock to mud<\/i> expels you and then slays you instantly unless you make a DC 18 Fortitude save, in which case you are merely expelled. Finally, <i>passwall<\/i> expels you without damage.",
     "name_zh": "融身入石",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>此法术可以使你的身体和装备都融入一块石头里。此石头必须足够大，即在长、宽、高上都能容纳你的身体。法术完成后，你和100磅以内的无生命装备将完全融入石头。如果以上条件有任何不符合，法术会失败并且你失去此法术。<\/p><p>在石头中时，你可以通过你融入石头的那一面和外界保持微弱的连接。你可以感觉到时间的流逝，也可以对自己施法。你可以听到但看不到周围发生的事情。石头的微小损伤并不会伤害到你，但是如果石头部分被摧毁 (导致大小不能再容纳你时)，你会被强迫脱离石头并受到5d6点伤害。如果石头被完全摧毁，那么你会被驱逐出石头，而且除非你能通过DC 18的强韧豁免，否则会立刻死亡。即便你通过豁免，也仍会受到5d6点伤害。<\/p><p>在法术的持续时间结束之前，你可以随时从你原本进入石头的那一面离开石头。如果在你自愿离开石头前法术的持续时间结束或法术被解除，你会被强迫脱离石头并受到5d6点伤害。<\/p><p>你在石头中时，对你所在的石头施展以下法术会对你造成伤害：‘<a href=\"spell.html?spell=stone to Flesh\">解除石化 (stone to Flesh)<\/a>’会将你驱离石头并对你造成5d6点伤害；‘<a href=\"spell.html?spell=stone shape\">塑石术 (stone shape)<\/a>’会对你造成3d6点伤害，但不会将你驱离石头；‘<a href=\"spell.html?spell=transmute rock to mud\">化石为泥 (transmute rock to mud)<\/a>’会将你驱离石头，如果你能通过DC 18的强韧豁免就可以安全脱离石头，否则立即死亡；而‘<a href=\"spell.html?spell=passwall\">穿墙术 (passwall)<\/a>’会将你驱离石头，但不造成任何伤害。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术可以使你的身体和装备都融入一块石头里。此石头必须足够大，即在长、宽、高上都能容纳你的身体。法术完成后，你和100磅以内的无生命装备将完全融入石头。如果以上条件有任何不符合，法术会失败并且你失去此法术。<\/p><p>在石头中时，你可以通过你融入石头的那一面和外界保持微弱的连接。你可以感觉到时间的流逝，也可以对自己施法。你可以听到但看不到周围发生的事情。石头的微小损伤并不会伤害到你，但是如果石头部分被摧毁 (导致大小不能再容纳你时)，你会被强迫脱离石头并受到5d6点伤害。如果石头被完全摧毁，那么你会被驱逐出石头，而且除非你能通过DC 18的强韧豁免，否则会立刻死亡。即便你通过豁免，也仍会受到5d6点伤害。<\/p><p>在法术的持续时间结束之前，你可以随时从你原本进入石头的那一面离开石头。如果在你自愿离开石头前法术的持续时间结束或法术被解除，你会被强迫脱离石头并受到5d6点伤害。<\/p><p>你在石头中时，对你所在的石头施展以下法术会对你造成伤害：‘<a href=\"spell.html?spell=stone to Flesh\">解除石化 (stone to Flesh)<\/a>’会将你驱离石头并对你造成5d6点伤害；‘<a href=\"spell.html?spell=stone shape\">塑石术 (stone shape)<\/a>’会对你造成3d6点伤害，但不会将你驱离石头；‘<a href=\"spell.html?spell=transmute rock to mud\">化石为泥 (transmute rock to mud)<\/a>’会将你驱离石头，如果你能通过DC 18的强韧豁免就可以安全脱离石头，否则立即死亡；而‘<a href=\"spell.html?spell=passwall\">穿墙术 (passwall)<\/a>’会将你驱离石头，但不造成任何伤害。<\/p>"
 }

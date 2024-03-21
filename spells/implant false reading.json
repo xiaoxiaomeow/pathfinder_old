@@ -1,10 +1,10 @@
 {
     "key": "implant false reading",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/implant-false-reading/",
     "name": "Implant False Reading",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Implant%20False%20Reading",
+    "source": ["Occult Adventures pg. 173"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
         "mesmerist": 2,
         "occultist": 2,
@@ -15,17 +15,16 @@
     "range": "touch",
     "target": "object touched",
     "duration": "1 day/level",
-    "savingThrow": "none",
+    "savingThrow": "none, see text",
     "spellResistance": "no",
-    "text": "<p>You implant a false psychometric reading into an object, imbuing the item with misleading information that might be learned from the object reading spell or through the psychometry occult skill unlock. This information might fool enemies, create a false history, or pass on secret messages through objects to psychically attuned allies. You can implant any information you wish that could be implanted by the <i>charge object<\/i> spell, as well as up to one piece of information per 3 levels that could be attained using psychometry or the object reading spell. You can detail this information in any way you see fit, either making up a previous owner and circumstances involving the object from whole cloth, or attempting to emulate the biographical information and fictional accounts of a specific individual's experience with the object.<\/p><p>During the spell's duration, creatures reading the object through the object reading spell or the psychometry occult skill unlock receive this false information in place of an item's true history if they fail a Will saving throw. Creatures that succeed at their saves still detect and receive the false information, but recognize it for what is and are able to discern the fictitious information from the item's true history without difficulty.<\/p><p>This spell masks its own magical aura, causing the target to not register as magical to detect spells and similar effects.<\/p><p>This masking doesn't conceal any other magical auras on the object, and can be overcome in the same ways as magic aura.<\/p>",
+    "text": "You implant a false psychometric reading into an object, imbuing the item with misleading information that might be learned from the <i>object reading<\/i> spell or through the psychometry occult skill unlock (see page 196). This information might fool enemies, create a false history, or pass on secret messages through objects to psychically attuned allies. You can implant any information you wish that could be implanted by the <i>charge object<\/i> spell, as well as up to one piece of information per 3 levels that could be attained using psychometry or the <i>object reading<\/i> spell. You can detail this information in any way you see fit, either making up a previous owner and circumstances involving the object from whole cloth, or attempting to emulate the biographical information and fictional accounts of a specific individual’s experience with the object.<br><br>During the spell’s duration, creatures reading the object through the <i>object reading<\/i> spell or the psychometry occult skill unlock receive this false information in place of an item’s true history if they fail a Will saving throw. Creatures that succeed at their saves still detect and receive the false information, but recognize it for what is and are able to discern the fictitious information from the item’s true history without difficulty.<br><br>This spell masks its own magical aura, causing the target to not register as magical to detect spells and similar effects. This masking doesn’t conceal any other magical auras on the object, and can be overcome in the same ways as <i>magic aura<\/i>.",
     "name_zh": "虚妄植入术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言，姿势",
     "range_zh": "接触",
     "target_zh": "接触到的物体",
     "duration_zh": "1天/等级",
-    "savingThrow_zh": "无",
+    "savingThrow_zh": "无, 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你将一段虚假的异能信息植入到一个物体中，使得物品内被灌入一段可能通过读取物体（Object Reading）法术或者神秘技能解放（Occult Skill Unlocks）中的感灵（Psychometry）读取的误导性信息。这些信息可以愚弄敌人、创造出虚假的历史信息、或者向进行异能同调的盟友传递隐藏信息。你能将任何自己希望的信息植入到物体内，但是这些信息必须在能够被填写异能（Charge Object）法术植入的范畴内，且这些能够被感灵（Psychometry）或者读取物体（Object Reading）法术所获得的植入信息的数量为每3个等级一段。你可以用自认合适的方式为信息添加细节，你可以凭空捏造出与物体相关的前任拥有者和周遭的环境，或者也可以模仿传记信息的方式捏造某个特定个体使用物体的经历。\n在法术的持续时间内，通过读取物体（Object Reading）法术或感灵（Psychometry）神秘技能解放读取物体时，如果豁免失败就会了解到取代真实历史信息的虚假信息。成功通过豁免的生物仍旧会侦测和获取到虚假信息，但是可以毫无难度地辨认出哪些是虚假信息，哪些是物品的真实历史。\n该法术会掩饰自身的魔法灵光，因此无法被侦测法术和类似的效果找出法术的魔法性质。这种掩饰并不会遮掩物体所具有的其他魔法灵光，并且可以如同魔法灵光（Magic Aura）法术一样有可能被克服（编注：即鉴定术之类通过豁免可以看穿灵光）。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你将一段虚假的异能信息植入到一个物体中，使得物品内被灌入一段可能通过读取物体（Object Reading）法术或者神秘技能解放（Occult Skill Unlocks）中的感灵（Psychometry）读取的误导性信息。这些信息可以愚弄敌人、创造出虚假的历史信息、或者向进行异能同调的盟友传递隐藏信息。你能将任何自己希望的信息植入到物体内，但是这些信息必须在能够被填写异能（Charge Object）法术植入的范畴内，且这些能够被感灵（Psychometry）或者读取物体（Object Reading）法术所获得的植入信息的数量为每3个等级一段。你可以用自认合适的方式为信息添加细节，你可以凭空捏造出与物体相关的前任拥有者和周遭的环境，或者也可以模仿传记信息的方式捏造某个特定个体使用物体的经历。<\/p><p>在法术的持续时间内，通过读取物体（Object Reading）法术或感灵（Psychometry）神秘技能解放读取物体时，如果豁免失败就会了解到取代真实历史信息的虚假信息。成功通过豁免的生物仍旧会侦测和获取到虚假信息，但是可以毫无难度地辨认出哪些是虚假信息，哪些是物品的真实历史。<\/p><p>该法术会掩饰自身的魔法灵光，因此无法被侦测法术和类似的效果找出法术的魔法性质。这种掩饰并不会遮掩物体所具有的其他魔法灵光，并且可以如同魔法灵光（Magic Aura）法术一样有可能被克服（编注：即鉴定术之类通过豁免可以看穿灵光）。<\/p>"
 }

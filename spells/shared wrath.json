@@ -1,29 +1,29 @@
 {
     "key": "shared wrath",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shared-wrath/",
     "name": "Shared Wrath",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shared%20Wrath",
+    "source": ["Advanced Player's Guide pg. 243"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels": {"inquisitor": 4},
     "castingTime": "1 standard action",
     "components": "V, S, M (a thorny vine)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 min.",
+    "duration": "1 minute",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions as <i>wrath<\/i>, except that you grant multiple creatures the bonuses against your designated foe. All subjects of shared wrath receive their bonuses against the same creature.<\/p>",
+    "text": "This spell functions as <i>wrath<\/i>, except that you grant multiple creatures the bonuses against your designated foe. All subjects of <i>shared wrath <\/i>receive their bonuses against the same creature.",
     "name_zh": "众怒",
     "castingTime_zh": "标准动作",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "最高每等级1名生物，任意两名之间的距离不得超过30尺",
+    "duration_zh": "1分钟",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术的功能如同狂怒 (Wrath) 一般，不过你可以使得复数生物对抗你指定的敌人时获得加值。所有众怒的受术者会在对抗同一个生物时获得加值。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>该法术的功能如同狂怒 (Wrath) 一般，不过你可以使得复数生物对抗你指定的敌人时获得加值。所有众怒的受术者会在对抗同一个生物时获得加值。<\/p>"
 }

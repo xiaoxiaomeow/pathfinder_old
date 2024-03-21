@@ -1,8 +1,8 @@
 {
     "key": "litany of sight",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/litany-of-sight/",
     "name": "Litany of Sight",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Sight",
+    "source": ["Ultimate Combat pg. 235"],
     "school": "divination",
     "levels":     {
         "antipaladin": 3,
@@ -16,15 +16,14 @@
     "duration": "1 round",
     "savingThrow": "no",
     "spellResistance": "yes",
-    "text": "<p>This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet. While subject to this spell, the target cannot be the target of another spell that has the word &#8220;litany&#8221; in the title.<\/p>",
+    "text": "This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet. <br><br>While subject to this spell, the target cannot be the target of another spell that has the word \"litany\" in the title.",
     "name_zh": "视野祷言",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>持续时间    1轮<\/p><p>这段祷言向你揭示隐藏的物体。你可以看到30尺范围内隐形的生物和物体。 <\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1轮<\/p><p>这段祷言向你揭示隐藏的物体。你可以看到30尺范围内隐形的生物和物体。<\/p><p>当受到该法术影响时，目标不能再成为另一种带有‘祷言’关键字的法术的目标。<\/p>"
 }

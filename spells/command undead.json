@@ -1,25 +1,28 @@
 {
     "key": "command undead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/command-undead/",
     "name": "Command Undead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Command%20Undead",
+    "source": ["PRPG Core Rulebook pg. 257"],
     "school": "necromancy",
-    "levels": {"sorcerer/wizard": 2},
-    "domains": {"inevitable": 3},
+    "levels":     {
+        "arcanist": 2,
+        "sorcerer": 2,
+        "wizard": 2
+    },
     "castingTime": "1 standard action",
-    "components": "V, S, M (a shred of raw meat and a splinter of bone)",
+    "components": "V, S, M (a shread of raw meat and a splinter of bone)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell allows you a degree of control over an undead creature. If the subject is intelligent, it perceives your words and actions favorably (treat its attitude as friendly). It will not attack you while the spell lasts. You can give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. Retries are not allowed. An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.<\/p><p>A nonintelligent undead creature gets no saving throw against this spell. When you control a mindless being, you can communicate only basic commands, such as &#8220;come here,&#8221; &#8220;go there,&#8221; &#8220;fight,&#8221; &#8220;stand still,&#8221; and so on. Nonintelligent undead won't resist suicidal or obviously harmful orders.<\/p><p>Any act by you or your apparent allies that threatens the commanded undead (regardless of its Intelligence) breaks the spell.<\/p><p>Your commands are not telepathic. The undead creature must be able to hear you.<\/p>",
+    "text": "This spell allows you a degree of control over an undead creature. If the subject is intelligent, it perceives your words and actions favorably (treat its attitude as friendly). It will not attack you while the spell lasts. You can give the subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. Retries are not allowed. An intelligent commanded undead never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing.<br><br>A nonintelligent undead creature gets no saving throw against this spell. When you control a mindless being, you can communicate only basic commands, such as “come here,” “go there,” “fight,” “stand still,” and so on. Nonintelligent undead won't resist suicidal or obviously harmful orders.<br><br>Any act by you or your apparent allies that threatens the commanded undead (regardless of its Intelligence) breaks the spell.<br><br>Your commands are not telepathic. The undead creature must be able to hear you.",
     "name_zh": "命令死灵",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块生肉和一个骨片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个不死生物",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术允许你在某种程度上控制一个不死生物。若受影响的不死生物为智能生物时，它将认为你的言行是最有利于它的 (它对你的态度视为友善)。只要法术仍在持续，它就不会攻击你。你可以尝试对它下令，但你必须通过魅力对抗检定才能让它去做通常不会做的事情 (无法重试)。被控制的智能不死生物决不可能服从自杀或者明显对自己有伤害的命令，但它或许会相信一些非常危险的事情是值得去做的。<\/p><p>非智能不死生物在对抗该法术时无法进行豁免。当你控制无心智的不死生物时，你只能对它下达一些最基本的命令，例如“来”、“去”、“战斗”、“停下”等等。非智能不死生物也不能抗拒自杀或明显伤害自己的命令。<\/p><p>你或者你明显的盟友，若对被控制的不死生物 (不管它是否有智能) 产生威胁都将打破该法术。<\/p><p>你的命令并非心灵感应。这个不死生物必须有能力听到你的命令。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术允许你在某种程度上控制一个不死生物。若受影响的不死生物为智能生物时，它将认为你的言行是最有利于它的 (它对你的态度视为友善)。只要法术仍在持续，它就不会攻击你。你可以尝试对它下令，但你必须通过魅力对抗检定才能让它去做通常不会做的事情 (无法重试)。被控制的智能不死生物决不可能服从自杀或者明显对自己有伤害的命令，但它或许会相信一些非常危险的事情是值得去做的。<\/p><p>非智能不死生物在对抗该法术时无法进行豁免。当你控制无心智的不死生物时，你只能对它下达一些最基本的命令，例如“来”、“去”、“战斗”、“停下”等等。非智能不死生物也不能抗拒自杀或明显伤害自己的命令。<\/p><p>你或者你明显的盟友，若对被控制的不死生物 (不管它是否有智能) 产生威胁都将打破该法术。<\/p><p>你的命令并非心灵感应。这个不死生物必须有能力听到你的命令。<\/p>"
 }

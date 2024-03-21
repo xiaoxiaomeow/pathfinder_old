@@ -1,0 +1,21 @@
+{
+    "key": "pesh addiction",
+    "name": "Pesh Addiction",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pesh%20Addiction",
+    "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
+    "school": "necromancy",
+    "levels": {"sahirafiyun": 5},
+    "castingTime": "10 minutes",
+    "components": "V, M (a dose of pesh)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
+    "duration": "1 day/level or until discharged (D)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>geas/quest<\/i>, except the only allowed command is “use pesh or refined pesh.”",
+    "castingTime_zh": "10分钟",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可"
+}

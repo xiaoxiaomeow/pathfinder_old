@@ -1,29 +1,31 @@
 {
     "key": "titanic anchoring",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/titanic-anchoring/",
     "name": "Titanic Anchoring",
-    "book": "Pathfinder Adventure Path #91: Battle of Bloodmarch Hill © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Titanic%20Anchoring",
+    "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 3,
         "bloodrager": 3,
         "cleric": 3,
+        "hunter": 3,
         "magus": 3,
+        "oracle": 3,
         "paladin": 3,
-        "ranger": 3
+        "ranger": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a shaving of oak root)",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>You become grounded and nearly immovable. You are immune to the pull and push special abilities, and all bull rush, grapple, overrun, reposition, and trip combat maneuvers made by creatures your size or smaller always fail. You gain a +10 bonus to your CMD against those combat maneuver checks made by creatures larger than you.<\/p>",
+    "text": "You become grounded and nearly immovable. You are immune to the pull and push special abilities, and all bull rush, grapple, overrun, reposition, and trip combat maneuvers made by creatures your size or smaller always fail. You gain a +10 bonus to your CMD against those combat maneuver checks made by creatures larger than you.",
     "name_zh": "泰坦之锚",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一根削过的橡树根）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你变得脚踏实地，几乎无法撼动。你对拉和推的特殊能力免疫，并且由和你的体型相同或更小的生物做出的所有冲撞、擒抱、闯越、移位和摔绊战技总是失败。在对抗比你体型大的生物进行的战技检定时，你的CMD获得+10加值。<\/p>",
-    "source": "AP-GS"
+    "text_zh": "<p>你变得脚踏实地，几乎无法撼动。你对拉和推的特殊能力免疫，并且由和你的体型相同或更小的生物做出的所有冲撞、擒抱、闯越、移位和摔绊战技总是失败。在对抗比你体型大的生物进行的战技检定时，你的CMD获得+10加值。<\/p>"
 }

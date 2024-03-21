@@ -1,0 +1,25 @@
+{
+    "key": "mask dweomer, communal",
+    "name": "Mask Dweomer, Communal",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mask%20Dweomer,%20Communal",
+    "source": ["Ultimate Combat pg. 236"],
+    "school": "illusion",
+    "subSchools": ["glamer"],
+    "levels":     {
+        "occultist": 2,
+        "psychic": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of gauze)",
+    "range": "touch",
+    "duration": "1 day/level (D)",
+    "savingThrow": "none, see text",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>mask dweomer<\/i>, except you divide the duration in 1-day increments among the creatures or objects touched.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1天/等级 (可解消)",
+    "savingThrow_zh": "无, 见文本",
+    "spellResistance_zh": "不可"
+}

@@ -1,25 +1,26 @@
 {
     "key": "aspect of the stag",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/aspect-of-the-stag/",
     "name": "Aspect of the Stag",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aspect%20of%20the%20Stag",
+    "source": ["Advanced Player's Guide pg. 203"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "druid": 4,
+        "hunter": 3,
         "ranger": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
-    "duration": "1 min./level",
-    "text": "<p>When you cast this spell, you take on an aspect of a stag, including some of its physical characteristics. Your features become elongated and sinewy, and you grow a set of antlers you can use for defense. You gain a +2 dodge bonus to AC against attacks of opportunity, your base speed increases by 20 ft., you can move through any undergrowth (including magically manipulated undergrowth) at your normal speed, and can even make a 5-foot step within such terrain.<\/p><p>Furthermore, when you are hit with an attack of opportunity, you can make a single attack with your antlers against the opponent that hit you as an immediate action. This attack uses your highest base attack bonus plus your Strength or Dexterity bonus (your choice) and deals 1d8 points of piercing damage (if you are Medium; 1d6 points of damage if Small) plus your Strength modifier on a successful hit. The antlers have a critical multiplier of 19-20/x2.<\/p>",
+    "target": "you",
+    "duration": "1 minute/level",
+    "text": "When you cast this spell, you take on an aspect of a stag, including some of its physical characteristics. Your features become elongated and sinewy, and you grow a set of antlers you can use for defense. You gain a +2 dodge bonus to AC against attacks of opportunity, your base speed increases by 20 ft., you can move through any undergrowth (including magically manipulated undergrowth) at your normal speed, and can even make a 5-foot step within such terrain. Furthermore, when you are hit with an attack of opportunity, you can make a single attack with your antlers against the opponent that hit you as an immediate action. This attack uses your highest base attack bonus plus your Strength or Dexterity bonus (your choice) and deals 1d8 points of piercing damage (if you are Medium; 1d6 points of damage if Small) plus your Strength modifier on a successful hit. The antlers have a critical multiplier of 19–20/×2.",
     "name_zh": "雄鹿之型",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>当你施放该法术时，你会呈现出雄鹿的一些特征，包括它的部分身体特征。你的外貌变得更加修长有力，同时长出了一对鹿角，并且可以用它进行防御。在对抗藉机攻击时，你的AC获得+2闪避加值，你的基本速度提高20尺，并且可以以你的基本速度穿过任何灌木 (包括由魔法操纵)，甚至能够在此类地形中进行5尺快步。此外，当你被藉机攻击命中时，你能够以直觉动作，用鹿角进行单一一次攻击对抗用藉机攻击命中你的敌人。该次攻击使用你的最高基本攻击加值加上你的力量或敏捷加值 (由你选择)，成功命中会造成1d8点穿刺伤害 (若你为中型体型；小型体型造成1d6点伤害) 加上你的力量调整值。鹿角的重击倍率为19-20/x2。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>当你施放该法术时，你会呈现出雄鹿的一些特征，包括它的部分身体特征。你的外貌变得更加修长有力，同时长出了一对鹿角，并且可以用它进行防御。在对抗藉机攻击时，你的AC获得+2闪避加值，你的基本速度提高20尺，并且可以以你的基本速度穿过任何灌木 (包括由魔法操纵)，甚至能够在此类地形中进行5尺快步。此外，当你被藉机攻击命中时，你能够以直觉动作，用鹿角进行单一一次攻击对抗用藉机攻击命中你的敌人。该次攻击使用你的最高基本攻击加值加上你的力量或敏捷加值 (由你选择)，成功命中会造成1d8点穿刺伤害 (若你为中型体型；小型体型造成1d6点伤害) 加上你的力量调整值。鹿角的重击倍率为19-20/x2。<\/p>"
 }

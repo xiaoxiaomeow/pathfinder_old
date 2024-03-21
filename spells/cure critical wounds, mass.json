@@ -1,23 +1,30 @@
 {
     "key": "cure critical wounds, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cure-critical-wounds/",
     "name": "Cure Critical Wounds, Mass",
-    "base": "cure critical wounds",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cure%20Critical%20Wounds,%20Mass",
+    "source": ["PRPG Core Rulebook pg. 262"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
-        "cleric/oracle": 8,
+        "cleric": 8,
         "druid": 9,
+        "oracle": 8,
         "shaman": 8,
         "witch": 9
     },
-    "domains":     {
-        "community": 8,
-        "healing": 8
-    },
-    "text": "<p>This spell functions like <i>mass cure light wounds<\/i>, except that it cures 4d8 points of damage + 1 point per caster level (maximum +40).<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "instantaneous",
+    "savingThrow": "Will half (harmless) or Will half",
+    "spellResistance": "yes (harmless) or yes; see text",
+    "text": "This spell functions like <i>mass cure light wounds<\/i>, except that it cures 4d8 points of damage +1 point per caster level (maximum +40).",
     "name_zh": "群体治疗致命伤",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds, mass\">群体治疗轻伤 (cure light wounds, mass)<\/a>’一般，不过它能治疗 {4d8+CL (最高+40)} 点伤害。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "意志, 通过则减半 (无害) 或 意志, 通过则减半; 见文本",
+    "spellResistance_zh": "可 (无害) 或 可; 见文本",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds, mass\">群体治疗轻伤 (cure light wounds, mass)<\/a>’一般，不过它能治疗 {4d8+CL (最高+40)} 点伤害。<\/p>"
 }

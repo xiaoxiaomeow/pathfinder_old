@@ -1,36 +1,41 @@
 {
     "key": "delusional pride",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/delusional-pride/",
     "name": "Delusional Pride",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Delusional%20Pride",
+    "source": ["Ultimate Magic pg. 216"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
+        "medium": 1,
+        "mesmerist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
-    "duration": "1 min.",
+    "duration": "1 minute",
     "savingThrow": "Will negates",
-    "text": "<p>The target becomes so distracted by an overblown sense of its worth that it takes a –2 penalty on attacks and skill checks. However, this feeling also gives the target a +2 morale bonus on saves against charm and compulsion effects.<\/p>",
+    "spellResistance": "yes",
+    "text": "The target becomes so distracted by an overblown sense of its worth that it takes a –2 penalty on attacks and skill checks. However, this feeling also gives the target a +2 morale bonus on saves against charm and compulsion effects.",
     "name_zh": "妄尊自大",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1分钟",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>目标变得骄傲自满而对当前情况漫不经心，它获得-2罚值在攻击和技能检定上。<\/p><p>不过，这种心理状态会让目标获得+2士气加值在对抗魅惑和胁迫效果的豁免检定上。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>目标变得骄傲自满而对当前情况漫不经心，它获得-2罚值在攻击和技能检定上。<\/p><p>不过，这种心理状态会让目标获得+2士气加值在对抗魅惑和胁迫效果的豁免检定上。<\/p>"
 }

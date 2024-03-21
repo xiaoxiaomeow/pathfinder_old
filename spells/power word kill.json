@@ -1,19 +1,22 @@
 {
     "key": "power word kill",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/power-word-kill/",
     "name": "Power Word Kill",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Power%20Word%20Kill",
+    "source": ["PRPG Core Rulebook pg. 324"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "death",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "sorcerer/wizard": 9,
-        "witch": 9
+        "arcanist": 9,
+        "psychic": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
     },
-    "domains": {"war": 9},
     "castingTime": "1 standard action",
     "components": "V",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -21,15 +24,16 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by <i>power word kill<\/i>.<\/p>",
+    "text": "You utter a single word of power that instantly kills one creature of your choice, whether the creature can hear the word or not. Any creature that currently has 101 or more hit points is unaffected by <i>power word kill<\/i>.<h2 class=\"title\">Mythic Power Word Kill<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 103<\/i><br>Treat the target’s current hit point total as though it were lowered by 5 times your tier. For example, a 3rd-tier archmage casting <i>mythic power word kill<\/i> would instantly kill a creature with 85 hit points or fewer.<br><br> You can target a creature with more hit points than this spell could normally affect, causing it to become exhausted.<br><br><b>Augmented (6th)<\/b>: If you expend four uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target’s hit point total drops to the point that this spell would have killed it upon casting, it’s instantly slain.",
+    "mythicSource": ["Mythic Adventures pg. 103"],
+    "mythicText": "Treat the target’s current hit point total as though it were lowered by 5 times your tier. For example, a 3rd-tier archmage casting <i>mythic power word kill<\/i> would instantly kill a creature with 85 hit points or fewer.<br><br> You can target a creature with more hit points than this spell could normally affect, causing it to become exhausted.<br><br><b>Augmented (6th)<\/b>: If you expend four uses of mythic power, the magic of the word lingers around the target. Until the beginning of your next turn, if the target’s hit point total drops to the point that this spell would have killed it upon casting, it’s instantly slain.",
     "name_zh": "真言术：死",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个HP为100或更低的活物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你仅说出一个威力无比的词就能立即杀死你选定的一个生物，不管它是否能听见那个词。任何当前具有101或者更多HP的生物都不受真言术：死影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你仅说出一个威力无比的词就能立即杀死你选定的一个生物，不管它是否能听见那个词。任何当前具有101或者更多HP的生物都不受真言术：死影响。<\/p>"
 }

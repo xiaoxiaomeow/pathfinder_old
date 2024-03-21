@@ -1,27 +1,39 @@
 {
     "key": "abadar's truthtelling",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-truthtelling/",
     "name": "Abadar's Truthtelling",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abadar's%20Truthtelling",
+    "source":     [
+        "Inner Sea Gods pg. 228",
+        "Pathfinder #8: Seven Days to the Grave pg. 71",
+        "Gods and Magic pg. 5"
+    ],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
+    "race": "Abadar",
     "levels":     {
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
-        "paladin": 1
+        "oracle": 1,
+        "paladin": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "target": "creature touched",
-    "text": "<p>This spell functions identically to the spell zone of truth, except as noted above. The target momentarily takes on the semblance of a being of perfect order, like an archon or inevitable, so that all who can see the target know it is affected by the spell. This divine guise flickers over the target for only an instant and does not allow it to pass as a member of a different race.<\/p><p><b>Note<\/b> This spell is associated with a particular deity and is more common among followers of that deity, though followers of other deities may still cast the spell if they learn it.<\/p>",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions identically to the spell <i>zone of truth<\/i>, except as noted above. The target momentarily takes on the semblance of a being of perfect order, like an archon or inevitable, so that all who can see the target know it is affected by the spell. This divine guise flickers over the target for only an instant and does not allow it to pass as a member of a different race.",
     "name_zh": "阿巴达尔的诚实告解",
     "race_zh": "阿巴达尔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
     "range_zh": "接触",
     "target_zh": "碰触到的生物",
-    "text_zh": "<p>此法术像诚实之域(zone of truth)法术那样运作，除了上面写的。阿巴达尔的圣徽会出现在目标的头上，所有人都可以看见他正被此法术影响着。<\/p>",
-    "source": "CS-GaM"
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>此法术像诚实之域(zone of truth)法术那样运作，除了上面写的。阿巴达尔的圣徽会出现在目标的头上，所有人都可以看见他正被此法术影响着。<\/p>"
 }

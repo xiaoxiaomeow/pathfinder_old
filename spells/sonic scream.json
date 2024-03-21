@@ -1,16 +1,19 @@
 {
     "key": "sonic scream",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sonic-scream/",
     "name": "Sonic Scream",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sonic%20Scream",
+    "source": ["Advanced Class Guide pg. 193"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "bloodrager": 2,
         "magus": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,15 +22,14 @@
     "duration": "1 round/level or until discharged (see text)",
     "savingThrow": "Reflex half (see text)",
     "spellResistance": "yes",
-    "text": "<p>Up to three times during this spell's duration, you can emit a cone of powerful sound as a standard action. The first cone deals 4d4 points of sonic damage to every creature in the area. The second deals 2d4 points of sonic damage to every creature in the area. The third deals 1d4 points of sonic damage to every creature in the area. A successful Reflex save against a cone halves that cone's damage. After the third cone of sound, the spell ends. Until you use all three cones, you cannot use your voice for any magic-related purpose (bardic performance, verbal spellcasting, and so on), and cannot speak at any volume lower than a shout.<\/p>",
+    "text": "Up to three times during this spell’s duration, you can emit a cone of powerful sound as a standard action. The first cone deals 4d4 points of sonic damage to every creature in the area. The second deals 2d4 points of sonic damage to every creature in the area. The third deals 1d4 points of sonic damage to every creature in the area. A successful Reflex save against a cone halves that cone’s damage. After the third cone of sound, the spell ends. Until you use all three cones, you cannot use your voice for any magic-related purpose (bardic performance, verbal spellcasting, and so on), and cannot speak at any volume lower than a shout.",
     "name_zh": "音爆狂嚎",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "15尺",
-    "area_zh": "：锥形爆发区域",
-    "duration_zh": "1轮/等级 或 直至耗尽（见后文）",
-    "savingThrow_zh": "反射，通过则减半（见后文）",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "1轮/等级 或 直至耗散; 见文本",
+    "savingThrow_zh": "反射, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在法术持续时间内至多3次，你能够以标准动作施放出强有力的锥形声波。第一次声波会对区域内的每个生物造成4d4点音波伤害。第二次会对区域内的每个生物造成2d4点音波伤害。第三次会对区域内的每个生物造成1d4点音波伤害。成功通过反射豁免对抗声波的生物能够使伤害减半。在释放出三次声波后，该法术结束。直到用光全部三次声波之前，你无法利用自己的声音做任何与魔法相关的事情（吟游诗人表演、施放具有语言成分的法术，等等），而且无法使用低于咆哮的音量说话。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>在法术持续时间内至多3次，你能够以标准动作施放出强有力的锥形声波。第一次声波会对区域内的每个生物造成4d4点音波伤害。第二次会对区域内的每个生物造成2d4点音波伤害。第三次会对区域内的每个生物造成1d4点音波伤害。成功通过反射豁免对抗声波的生物能够使伤害减半。在释放出三次声波后，该法术结束。直到用光全部三次声波之前，你无法利用自己的声音做任何与魔法相关的事情（吟游诗人表演、施放具有语言成分的法术，等等），而且无法使用低于咆哮的音量说话。<\/p>"
 }

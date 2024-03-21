@@ -1,13 +1,17 @@
 {
     "key": "unhallow",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unhallow/",
     "name": "Unhallow",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unhallow",
+    "source": ["PRPG Core Rulebook pg. 363"],
     "school": "evocation",
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 5,
+        "cleric": 5,
         "druid": 5,
-        "inquisitor": 5
+        "hunter": 5,
+        "inquisitor": 5,
+        "oracle": 5,
+        "warpriest": 5
     },
     "castingTime": "24 hours",
     "components": "V, S, M (herbs, oils, and incense worth at least 1,000 gp, plus 1,000 gp per level of the spell to be tied to the <i>unhallowed<\/i> area)",
@@ -16,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "see text",
     "spellResistance": "see text",
-    "text": "<p><i>Unhallow<\/i> makes a particular site, building, or structure an unholy site. This has three major effects.<\/p>",
+    "text": "<i>Unhallow<\/i> makes a particular site, building, or structure an unholy site. This has three major effects.<br><br>First, the site or structure is guarded by a <i>magic circle against good<\/i> effect.<br><br>Second, the DC to resist negative channeled energy within the spell's area of effect gains a +4 profane bonus and the DC to resist positive energy is reduced by 4. Spell resistance does not apply to this effect. This provision does not apply to the druid version of the spell.<br><br>Finally, you may choose to fix a single spell effect to the <i>unhallowed<\/i> site. The spell effect lasts for 1 year and functions throughout the entire site, regardless of its normal duration and area or effect. You may designate whether the effect applies to all creatures, creatures that share your faith or alignment, or creatures that adhere to another faith or alignment. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting unhallow again.<br><br>Spell effects that may be tied to an unhallowed site include <i>aid<\/i>, <i>bane<\/i>, <i>bless<\/i>, <i>cause fear<\/i>, <i>darkness<\/i>, <i>daylight<\/i>, <i>death ward<\/i>, <i>deeper darkness<\/i>, <i>detect magic<\/i>, <i>detect good<\/i>, <i>dimensional anchor<\/i>, <i>discern lies<\/i>, <i>dispel magic<\/i>, <i>endure elements<\/i>, <i>freedom of movement<\/i>, <i>invisibility purge<\/i>, <i>protection from energy<\/i>, <i>remove fear<\/i>, <i>resist energy<\/i>, <i>silence<\/i>, <i>tongues<\/i>, and <i>zone of truth<\/i>.<br><br>Saving throws and spell resistance might apply to these spells' effects. (See the individual spell descriptions for details.)<br><br>An area can receive only one <i>unhallow<\/i> spell (and its associated spell effect) at a time.<br><br><i>Unhallow<\/i> counters but does not dispel <i>hallow<\/i>.",
     "name_zh": "邪居",
     "castingTime_zh": "24小时",
-    "components_zh": "语言, 姿势, 材料 (至少价值1000gp的草药、香油与熏香，还需要加上被",
+    "components_zh": "语言, 姿势, 材料 (至少价值1000gp的草药、香油与熏香，还需要加上被                   固定法术每法术环位1000gp)",
     "range_zh": "接触",
     "area_zh": "以接触到的点为中心, 半径40尺发散区域",
     "duration_zh": "立即",
-    "savingThrow_zh": "见后文",
-    "spellResistance_zh": "见后文",
-    "text_zh": "<p>邪居会使得一个地点、居所或建筑物成为邪恶之地。这会产生三种功效。<\/p><p>第一，该地点或建筑受到‘<a href=\"spell.html?spell=magic circle against good\">反善良法阵 (magic circle against good)<\/a>’保护。<\/p><p>第二，在法术效果的区域内，抵抗引导负能量的DC获得+4神圣加值，抵抗引导正能量的DC受到-4减值。法术抗力对此效果无效。该效果不适用于德鲁伊版的邪居。<\/p><p>最后，你能够在邪居中固定一个法术效果。不管该法术正常持续时间和范围如何，被固定后都将持续一年，并作用于整个邪居范围内。你可以决定该法术是作用于全体生物，还是和你具有相同阵营或信仰的生物，或是忠于另一阵营或信仰的生物。一年后，你所固定的效果消失，但只用在该处再次施展邪居即可更新或重置该效果。<\/p><p>可以在圣居内固定的法术如下。豁免检定与法术抗力会对这些法术效果起作用 (详见各法术说明)。\nl  援助术 (aid)\n l  侦测魔法 (detect magic)\n l  防护能量伤害 (protection from energy)\nl  绝望术 (bane)\n l  侦测善良 (detect good)\n l  移除恐惧 (remove fear)\nl  祝福术 (bless)\n l  次元锚 (dimensional anchor)\n l  抵抗能量伤害 (resist energy)\nl  惊恐术 (cause fear)\n l  辨识谎言 (discern lies)\n l  沉默术 (silence)\nl  黑暗术 (darkness)\n l  解除魔法 (dispel magic)\n l  巧言术 (tongues)\nl  昼明术 (daylight)\n l  忍受环境 (endure elements)\n l  诚实之域 (zone of truth)\nl  防死结界 (death ward)\n l  行动自如 (freedom of movement)\nl  深幽黑暗术 (deeper darkness)\n l  消除隐形 (invisibility purge)<\/p><p>在一个区域内，同一时间受到一个邪居效果影响 (及其驻留的法术效果)。<\/p><p>邪居可以反制，但不能解除‘<a href=\"spell.html?spell=hallow\">圣居 (hallow)<\/a>’。<\/p>",
-    "source": "CRB"
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "见文本",
+    "text_zh": "<p>邪居会使得一个地点、居所或建筑物成为邪恶之地。这会产生三种功效。<\/p><p>第一，该地点或建筑受到‘<a href=\"spell.html?spell=magic circle against good\">反善良法阵 (magic circle against good)<\/a>’保护。<\/p><p>第二，在法术效果的区域内，抵抗引导负能量的DC获得+4神圣加值，抵抗引导正能量的DC受到-4减值。法术抗力对此效果无效。该效果不适用于德鲁伊版的邪居。<\/p><p>最后，你能够在邪居中固定一个法术效果。不管该法术正常持续时间和范围如何，被固定后都将持续一年，并作用于整个邪居范围内。你可以决定该法术是作用于全体生物，还是和你具有相同阵营或信仰的生物，或是忠于另一阵营或信仰的生物。一年后，你所固定的效果消失，但只用在该处再次施展邪居即可更新或重置该效果。<\/p><p>可以在圣居内固定的法术如下。豁免检定与法术抗力会对这些法术效果起作用 (详见各法术说明)。<\/p><p>l  援助术 (aid)l  侦测魔法 (detect magic)l  防护能量伤害 (protection from energy)<\/p><p>l  绝望术 (bane)l  侦测善良 (detect good)l  移除恐惧 (remove fear)<\/p><p>l  祝福术 (bless)l  次元锚 (dimensional anchor)l  抵抗能量伤害 (resist energy)<\/p><p>l  惊恐术 (cause fear)l  辨识谎言 (discern lies)l  沉默术 (silence)<\/p><p>l  黑暗术 (darkness)l  解除魔法 (dispel magic)l  巧言术 (tongues)<\/p><p>l  昼明术 (daylight)l  忍受环境 (endure elements)l  诚实之域 (zone of truth)<\/p><p>l  防死结界 (death ward)l  行动自如 (freedom of movement)<\/p><p>l  深幽黑暗术 (deeper darkness)l  消除隐形 (invisibility purge)<\/p><p>在一个区域内，同一时间受到一个邪居效果影响 (及其驻留的法术效果)。<\/p><p>邪居可以反制，但不能解除‘<a href=\"spell.html?spell=hallow\">圣居 (hallow)<\/a>’。<\/p>"
 }

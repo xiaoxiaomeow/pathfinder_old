@@ -1,20 +1,23 @@
 {
     "key": "demand offering",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/demand-offering/",
     "name": "Demand Offering",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Demand%20Offering",
+    "source": ["Occult Adventures pg. 164"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "antipaladin": 1,
+        "arcanist": 2,
         "bard": 2,
         "inquisitor": 2,
         "mesmerist": 1,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -23,14 +26,14 @@
     "duration": "instantaneous or 1 round",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>A creature that fails its save uses an immediate action to hand you whatever object it's currently wielding or holding. If the target doesn't have an immediate action available, it uses a move action at the beginning of its next turn to hand you the object. If it's currently holding or wielding more than one item, determine randomly which item it gives you. If you're no longer adjacent to the creature when it has to give you the item, the spell ends with no effect. A creature that isn't holding an item when you cast this spell is unaffected.<\/p>",
+    "text": "A creature that fails its save uses an immediate action to hand you whatever object it’s currently wielding or holding. If the target doesn’t have an immediate action available, it uses a move action at the beginning of its next turn to hand you the object. If it’s currently holding or wielding more than one item, determine randomly which item it gives you. If you’re no longer adjacent to the creature when it has to give you the item, the spell ends with no effect. A creature that isn’t holding an item when you cast this spell is unaffected.",
     "name_zh": "强索赠礼",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
+    "range_zh": "5尺",
     "target_zh": "一个生物",
     "duration_zh": "立即 或 1轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>豁免失败的生物会使用直觉动作来将它当前正在持用（wielding）或拿着（holding）的任何物体交给你。若目标没有可用的直觉动作，则会在它的下个回合开始时使用移动动作把物体交给你。若它正在持用或拿着多个物体，则随机决定将哪个物体交予你。当该生物将物体交予你时，你不在它的身边的话，该法术会结束并且不会产生任何效果。当你施放法术时没有抓握物体的生物不会受到影响。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>豁免失败的生物会使用直觉动作来将它当前正在持用（wielding）或拿着（holding）的任何物体交给你。若目标没有可用的直觉动作，则会在它的下个回合开始时使用移动动作把物体交给你。若它正在持用或拿着多个物体，则随机决定将哪个物体交予你。当该生物将物体交予你时，你不在它的身边的话，该法术会结束并且不会产生任何效果。当你施放法术时没有抓握物体的生物不会受到影响。<\/p>"
 }

@@ -1,35 +1,37 @@
 {
     "key": "unshakable zeal",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unshakable-zeal/",
     "name": "Unshakable Zeal",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unshakable%20Zeal",
+    "source": ["Occult Adventures pg. 190"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "bard": 5,
         "inquisitor": 6,
         "psychic": 7,
+        "skald": 5,
         "spiritualist": 6
     },
     "castingTime": "1 standard action",
     "components": "S, F (a silver circlet)",
-    "range": "touch target creature touched",
+    "range": "touch",
+    "target": "creature touched",
     "duration": "1 hour/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You fill the target with boundless enthusiasm and faith in its ultimate triumph. Whenever the target fails an attack roll, a save, a skill check, a concentration check, or an ability check, the target receives a +4 morale bonus on its next attempt at the failed check within 1 round (this includes attack rolls against the same foe, saving throws against the same ability from the same foe, and so on). In addition, when the target would be affected by a fear or emotion effect, it can instead dismiss unshakable zeal without spending an action to negate the effect on itself.<\/p>",
+    "text": "You fill the target with boundless enthusiasm and faith in its ultimate triumph. Whenever the target fails an attack roll, a save, a skill check, a concentration check, or an ability check, the target receives a +4 morale bonus on its next attempt at the failed check within 1 round (this includes attack rolls against the same foe, saving throws against the same ability from the same foe, and so on). In addition, when the target would be affected by a fear or emotion effect, it can instead dismiss <i>unshakable zeal<\/i> without spending an action to negate the effect on itself.",
     "name_zh": "狂热执念",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，器材（银环）",
+    "range_zh": "接触",
     "target_zh": "接触到的生物",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你让目标的心中充满无尽的热情与信念，引领它最终迈向成功。每当目标在一次攻击检定、豁免检定、技能检定、专注检定或属性检定中失败时，目标会在1轮内尝试的下一次该失败检定中获得+4士气加值（这包括对抗相同敌人的攻击检定，对抗源自相同敌人的相同能力的豁免检定等等）。此外，当目标将要受到一个恐惧（fear）或情绪（emotion）效果影响时，它能够以解消狂热执念作为替代，来使得自身免受该效果，这么做不需要花费动作。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你让目标的心中充满无尽的热情与信念，引领它最终迈向成功。每当目标在一次攻击检定、豁免检定、技能检定、专注检定或属性检定中失败时，目标会在1轮内尝试的下一次该失败检定中获得+4士气加值（这包括对抗相同敌人的攻击检定，对抗源自相同敌人的相同能力的豁免检定等等）。此外，当目标将要受到一个恐惧（fear）或情绪（emotion）效果影响时，它能够以解消狂热执念作为替代，来使得自身免受该效果，这么做不需要花费动作。<\/p>"
 }

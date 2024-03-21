@@ -1,21 +1,26 @@
 {
     "key": "true prognostication",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/true-prognostication/",
     "name": "True Prognostication",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Prognostication",
+    "source": ["Ultimate Intrigue pg. 228"],
     "school": "divination",
     "levels":     {
         "cleric": 8,
+        "oracle": 8,
         "psychic": 8,
         "shaman": 8,
         "witch": 8
     },
     "castingTime": "1 week",
     "components": "V, S, M (rare incense and tonics worth 1,000 gp)",
-    "text": "<p><i>True prognostication<\/i> functions as divination except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, true prognostication is incredibly cryptic when used to learn about events on such large a scale.<\/p>",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "<i>True prognostication<\/i> functions as <i>divination<\/i> except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, <i>true prognostication<\/i> is incredibly cryptic when used to learn about events on such large a scale.",
     "name_zh": "大预兆术",
-    "castingTime_zh": "1周",
+    "castingTime_zh": "1星期",
     "components_zh": "语言，姿势，材料（价值1000gp的罕见焚香与药草）",
-    "text_zh": "<p>的功能如同预言术（Divination）一般，不过该法术涵盖到最远100年的未来。由于遥远未来的极端不可预测性，大预兆术在用于预测如此大规模的事件时会异常地晦涩难懂（incredibly cryptic）。<\/p>",
-    "source": "UI"
+    "range_zh": "个人",
+    "duration_zh": "立即",
+    "text_zh": "<p>的功能如同预言术（Divination）一般，不过该法术涵盖到最远100年的未来。由于遥远未来的极端不可预测性，大预兆术在用于预测如此大规模的事件时会异常地晦涩难懂（incredibly cryptic）。<\/p>"
 }

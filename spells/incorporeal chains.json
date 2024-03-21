@@ -1,8 +1,8 @@
 {
     "key": "incorporeal chains",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/incorporeal-chains/",
     "name": "Incorporeal Chains",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incorporeal%20Chains",
+    "source": ["Occult Adventures pg. 174"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
@@ -16,15 +16,14 @@
     "duration": "concentration",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You summon ghostly chains to bind incorporeal creatures. The chains' CMB is equal to your caster level + your Intelligence modifier. Roll only once for the entire spell effect and apply the result to all targeted incorporeal creatures.<\/p><p>If the chains succeed in grappling an incorporeal creature, the creature takes an amount of damage equal to 1d8 + your key spellcasting ability score modifier and gains the grappled condition. Grappled opponents can't move without first breaking the grapple. The spell prohibits all other movement unless the creature breaks the grapple first (although dimensional magic and the like still work as normal). Each round you concentrate, the chains continue grappling their current targets (though they don't seek out targets they aren't currently grappling). The incorporeal chains receive a +5 bonus on grapple combat maneuver checks against opponents the chains are already grappling, but can't move foes or pin foes.<\/p><p>Each round the incorporeal chains succeed at a grapple combat maneuver check, they deal an additional amount of damage equal to 1d8 + your key spellcasting ability score modifier. The CMD of incorporeal chains, for the purposes of escaping the grapple, is equal to 10 + its CMB. If you move out of range of any of the grappled creatures, the chains cease grappling those creatures.<\/p>",
+    "text": "You summon ghostly chains to bind incorporeal creatures. The chains’ CMB is equal to your caster level + your Intelligence modifier. Roll only once for the entire spell effect and apply the result to all targeted incorporeal creatures.<br><br>If the chains succeed in grappling an incorporeal creature, the creature takes an amount of damage equal to 1d8 + your key spellcasting ability score modifier and gains the grappled condition. Grappled opponents can’t move without first breaking the grapple. The spell prohibits all other movement unless the creature breaks the grapple first (although dimensional magic and the like still work as normal). Each round you concentrate, the chains continue grappling their current targets (though they don’t seek out targets they aren’t currently grappling). The <i>incorporeal chains<\/i> receive a +5 bonus on grapple combat maneuver checks against opponents the chains are already grappling, but can’t move foes or pin foes. Each round the <i>incorporeal chains<\/i> succeed at a grapple combat maneuver check, they deal an additional amount of damage equal to 1d8 + your key spellcasting ability score modifier. The CMD of <i>incorporeal chains<\/i>, for the purposes of escaping the grapple, is equal to 10 + its CMB. If you move out of range of any of the grappled creatures, the chains cease grappling those creatures.",
     "name_zh": "虚魂锁链",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个虚体生物，任意两者之间的距离不超过30尺",
     "duration_zh": "专注",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你召唤出幽冥锁链来束缚虚体生物（incorporeal creatures）。锁链的CMB为你的施法者等级 + 你的智力调整值。整个法术效果仅需要投掷一次CMB，并且将结果应用到所有成为法术目标的虚体生物上。\n若锁链成功擒抱（grappling）住一个虚体生物，那么该生物会承受伤害，数量为1d8 + 你的关键施法属性调整值，而且还会获得擒抱状态。被擒抱的敌人在打破擒抱之前无法移动。除非被擒抱的生物首先能够打破擒抱，否则该法术会放置所有其他的移动，不过次元魔法（dimensional magic）以及类似的效果仍旧如常生效。在你维持专注的每一轮中，锁链都会持续擒抱当前的目标（不过它们并不会在没有擒抱目标时主动寻找目标）。虚魂锁链在对抗已经被锁链所擒抱的敌人时，擒抱战技会获得+5加值，但是无法移动或压制（pin）敌人。每轮当虚魂锁链成功进行一次擒抱战技检定时，都会额外造成1d8 + 你的关键施法属性调整值点伤害。在判断是否能够逃脱擒抱时，虚魂锁链的CMD为10 + 它的CMB。若你的移动会使某些被擒抱的生物离开法术范围，那么锁链会停止对这些生物的擒抱。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你召唤出幽冥锁链来束缚虚体生物（incorporeal creatures）。锁链的CMB为你的施法者等级 + 你的智力调整值。整个法术效果仅需要投掷一次CMB，并且将结果应用到所有成为法术目标的虚体生物上。<\/p><p>若锁链成功擒抱（grappling）住一个虚体生物，那么该生物会承受伤害，数量为1d8 + 你的关键施法属性调整值，而且还会获得擒抱状态。被擒抱的敌人在打破擒抱之前无法移动。除非被擒抱的生物首先能够打破擒抱，否则该法术会放置所有其他的移动，不过次元魔法（dimensional magic）以及类似的效果仍旧如常生效。在你维持专注的每一轮中，锁链都会持续擒抱当前的目标（不过它们并不会在没有擒抱目标时主动寻找目标）。虚魂锁链在对抗已经被锁链所擒抱的敌人时，擒抱战技会获得+5加值，但是无法移动或压制（pin）敌人。每轮当虚魂锁链成功进行一次擒抱战技检定时，都会额外造成1d8 + 你的关键施法属性调整值点伤害。在判断是否能够逃脱擒抱时，虚魂锁链的CMD为10 + 它的CMB。若你的移动会使某些被擒抱的生物离开法术范围，那么锁链会停止对这些生物的擒抱。<\/p>"
 }

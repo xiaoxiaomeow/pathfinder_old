@@ -1,30 +1,34 @@
 {
     "key": "bloody tears and jagged smile",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloody-tears-and-jagged-smile/",
     "name": "Bloody Tears and Jagged Smile",
-    "book": "Pathfinder Adventure Path #71: Rasputin Must Die! (Reign of Winter 5 of 6). © 2013 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Tears%20and%20Jagged%20Smile",
+    "source": ["Pathfinder #71: Rasputin Must Die! pg. 75"],
     "school": "necromancy",
+    "race": "Szuriel",
     "levels":     {
         "arcanist": 2,
-        "cleric/oracle": 2,
-        "sorcerer/wizard": 2,
-        "warpriest": 2
+        "cleric": 2,
+        "oracle": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal and see text",
     "target": "you and see text",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>Your eyes turn black and weep blood, and your teeth become jagged fangs. You gain a bite attack (1d3 points of damage if you are Small, 1d4 points of damage if you are Medium). You gain a +4 profane bonus on Intimidate checks and on your spell DCs for spells with the fear descriptor. You perceive creatures as if using deathwatch.<\/p>",
+    "text": "Your eyes turn black and weep blood, and your teeth become jagged fangs. You gain a bite attack (1d3 points of damage if you are Small, 1d4 points of damage if you are Medium). You gain a +4 profane bonus on Intimidate checks and on your spell DCs for spells with the fear descriptor. You perceive creatures as if using <i>deathwatch<\/i>.",
     "name_zh": "血泪与利齿狞笑",
+    "race_zh": "Szuriel",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
+    "range_zh": "个人 和 见文本",
     "target_zh": "自身 或 见下文",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你的眼睛变成黑色并哭出血泪，你的牙齿变成锯齿状的尖牙。你获得一次啮咬攻击（如果你是小体型造成1d3点伤害，如果你是中体型则造成1d4点伤害）。你在威吓检定和带有[恐惧]描述符的法术的法术DC上获得+4亵渎加值。你能感知生物就好像使用了观命术一样。<\/p>",
-    "source": "AP-RoW"
+    "text_zh": "<p>你的眼睛变成黑色并哭出血泪，你的牙齿变成锯齿状的尖牙。你获得一次啮咬攻击（如果你是小体型造成1d3点伤害，如果你是中体型则造成1d4点伤害）。你在威吓检定和带有[恐惧]描述符的法术的法术DC上获得+4亵渎加值。你能感知生物就好像使用了观命术一样。<\/p>"
 }

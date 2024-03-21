@@ -1,16 +1,19 @@
 {
     "key": "deja vu",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/deja-vu/",
     "name": "Deja Vu",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Deja%20Vu",
+    "source": ["Occult Adventures pg. 163"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "mesmerist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V",
@@ -19,15 +22,14 @@
     "duration": "2 rounds",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You reach into the target's mind and put its thought processes into a temporary loop. Whatever full-round, standard, or move actions the creature takes on its first turn after you cast this spell, it must repeat on the turn after that. The creature must take the same type of actions in the same order (for example, making a full attack, casting a specific spell, withdrawing, attempting a bull rush combat maneuver, or activating a magic item) and must act against the same target or targets, but doesn't have to make exactly the same choices (such as using Power Attack when attacking, moving exactly 15 feet, or choosing “drop” for the command spell). If the circumstances would prevent the target from repeating an action, such as if the target of its attack is dead or the target cannot cast the same spell again, the target instead becomes confused until the spell ends. A creature currently affected by <em>deja vu<\/em> can't be targeted with another <em>deja vu<\/em> spell. A creature affected by <em>deja vu<\/em> can't delay, and if it readies an action on its first turn, it must ready the same action on its second turn.<\/p><\/div>",
+    "text": "You reach into the target’s mind and put its thought processes into a temporary loop. Whatever full-round, standard, or move actions the creature takes on its first turn after you cast this spell, it must repeat on the turn after that. The creature must take the same type of actions in the same order (for example, making a full attack, casting a specific spell, withdrawing, attempting a bull rush combat maneuver, or activating a magic item) and must act against the same target or targets, but doesn’t have to make exactly the same choices (such as using Power Attack when attacking, moving exactly 15 feet, or choosing “drop” for the <i>command<\/i> spell). If the circumstances would prevent the target from repeating an action, such as if the target of its attack is dead or the target cannot cast the same spell again, the target instead becomes confused until the spell ends. A creature currently affected by <i>deja vu<\/i> can’t be targeted with another <i>deja vu<\/i> spell. A creature affected by <i>deja vu<\/i> can’t delay, and if it readies an action on its first turn, it must ready the same action on its second turn.",
     "name_zh": "既视感",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "2轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你侵入到目标的精神之中，并将它的思维置于一个短暂的循环之中。每当该名生物在你施放该法术之后的第一个回合内执行了整轮动作、标准动作或移动动作的话，它就必须在再下个回合重复执行。该生物必须以相同顺序（same order）执行相同类型的动作（举例说明：进行全力攻击、施放一个特定法术、撤退、尝试一次冲撞战技或启动一个魔法物品），而且必须对相同的单个或多个目标采取上述行动，但是该生物不需要做出完全相同的选择（比如在攻击时是否使用猛力攻击专长、是否仍然移动15尺距离、或选择命令术中的‘掉’指令）。若周围的环境不允许目标重复动作，比如它要攻击的对象已经死亡，或者目标无法再次施放相同的法术，那么目标会在直至法术结束为止的时间内陷入困惑（confused）作为替代。正受到即视感法术影响的生物无法成为另一个即视感法术的目标。被即视感影响的生物无法延迟（Delay），而且如果它在第一回合中选择准备动作的话，就必须在自己的第二回合中再次准备相同的动作。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你侵入到目标的精神之中，并将它的思维置于一个短暂的循环之中。每当该名生物在你施放该法术之后的第一个回合内执行了整轮动作、标准动作或移动动作的话，它就必须在再下个回合重复执行。该生物必须以相同顺序（same order）执行相同类型的动作（举例说明：进行全力攻击、施放一个特定法术、撤退、尝试一次冲撞战技或启动一个魔法物品），而且必须对相同的单个或多个目标采取上述行动，但是该生物不需要做出完全相同的选择（比如在攻击时是否使用猛力攻击专长、是否仍然移动15尺距离、或选择命令术中的‘掉’指令）。若周围的环境不允许目标重复动作，比如它要攻击的对象已经死亡，或者目标无法再次施放相同的法术，那么目标会在直至法术结束为止的时间内陷入困惑（confused）作为替代。正受到即视感法术影响的生物无法成为另一个即视感法术的目标。被即视感影响的生物无法延迟（Delay），而且如果它在第一回合中选择准备动作的话，就必须在自己的第二回合中再次准备相同的动作。<\/p>"
 }

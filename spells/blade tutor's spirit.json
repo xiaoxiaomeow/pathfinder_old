@@ -1,29 +1,31 @@
 {
     "key": "blade tutor's spirit",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blade-tutor-s-spirit/",
     "name": "Blade Tutor's Spirit",
-    "book": "Pathfinder Player Companion: Melee Tactics Toolbox © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blade%20Tutor's%20Spirit",
+    "source": ["Melee Tactics Toolbox pg. 30"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
         "antipaladin": 2,
+        "arcanist": 2,
         "magus": 1,
         "paladin": 2,
-        "sorcerer/wizard": 2,
-        "summoner": 2
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You summon an insubstantial spirit of force that resembles a cloudy vapor hovering around your fists or any melee weapons you wield. The spirit compensates for your defensive or reckless melee attacks, nudging your weapons in the proper direction.<\/p><p>When you voluntarily use one or more actions or feats that apply penalties to attack rolls with your melee weapons (such as a charge, fighting defensively, or using the Power Attack feat), the spirit reduces the total penalty on affected attacks by 1 (to a minimum penalty of 0). The penalty is reduced by an additional 1 for every 5 caster levels you possess (to a minimum penalty of 0). Only penalties incurred by voluntary use of feats or maneuvers are reduced by this spell.<\/p><p>The spirit can't be attacked or harmed by physical attacks, but disintegrate, dispel magic, a <i>rod of cancellation<\/i>, or a <i>sphere of annihilation<\/i> can affect it. A protective spirit's AC against touch attacks is equal to 10 + your Dexterity modifier.<\/p>",
+    "duration": "1 minute/level",
+    "text": "You summon an insubstantial spirit of force that resembles a cloudy vapor hovering around your fists or any melee weapons you wield. The spirit compensates for your defensive or reckless melee attacks, nudging your weapons in the proper direction. When you voluntarily use one or more actions or feats that apply penalties to attack rolls with your melee weapons (such as a charge, fighting defensively, or using the Power Attack feat), the spirit reduces the total penalty on affected attacks by 1 (to a minimum penalty of 0). The penalty is reduced by an additional 1 for every 5 caster levels you possess (to a minimum penalty of 0). Only penalties incurred by voluntary use of feats or maneuvers are reduced by this spell.<br><br> The spirit can’t be attacked or harmed by physical attacks, but <i>disintegrate<\/i>, <i>dispel magic<\/i>, a <i>rod of cancellation<\/i>, or a <i>sphere of annihilation<\/i> can affect it. A protective spirit’s AC against touch attacks is equal to 10 + your Dexterity modifier.",
     "name_zh": "剑魂指引",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你召唤出一片无实体的精魄化为气鸟围绕在你的拳头或武器周围。这精魂会弥补你因防御或鲁莽近战而犯下的错，轻轻推动武器以拨乱反正。当你因自主使用某些动作或专长而导致近战攻击承受减值时（比如防御式进攻、使用猛力攻击），该精魂会减少你攻击所承受的罚值1（最低使攻击罚值变为0）。对攻击罚值进行的减值每5个施法者等级可以额外减1（最低依然只能使攻击罚值变为0）。只有你自主因使用动作、战技、专长而使攻击承受的罚值才能被该法术减少。\n该精魂不会被物理攻击或伤害，但解离术、解除魔法、抹消权杖、毁灭黑洞可以影响它。精魂对抗接触攻击的AC=10+你的敏捷调整值。<\/p>",
-    "source": "PC-MeleeTT"
+    "text_zh": "<p>你召唤出一片无实体的精魄化为气鸟围绕在你的拳头或武器周围。这精魂会弥补你因防御或鲁莽近战而犯下的错，轻轻推动武器以拨乱反正。当你因自主使用某些动作或专长而导致近战攻击承受减值时（比如防御式进攻、使用猛力攻击），该精魂会减少你攻击所承受的罚值1（最低使攻击罚值变为0）。对攻击罚值进行的减值每5个施法者等级可以额外减1（最低依然只能使攻击罚值变为0）。只有你自主因使用动作、战技、专长而使攻击承受的罚值才能被该法术减少。<\/p><p>该精魂不会被物理攻击或伤害，但解离术、解除魔法、抹消权杖、毁灭黑洞可以影响它。精魂对抗接触攻击的AC=10+你的敏捷调整值。<\/p>"
 }

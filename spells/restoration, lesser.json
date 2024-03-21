@@ -1,19 +1,24 @@
 {
     "key": "restoration, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/restoration/",
     "name": "Restoration, Lesser",
-    "base": "restoration",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Restoration,%20Lesser",
+    "source": ["PRPG Core Rulebook pg. 334"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
         "alchemist": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "druid": 2,
+        "hunter": 2,
         "inquisitor": 2,
+        "investigator": 2,
+        "mesmerist": 2,
+        "oracle": 2,
         "paladin": 1,
-        "shaman": 2
+        "shaman": 2,
+        "spiritualist": 2,
+        "warpriest": 2
     },
-    "mysteries": {"life": 2},
     "castingTime": "3 rounds",
     "components": "V, S",
     "range": "touch",
@@ -21,7 +26,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>Lesser restoration<\/i> dispels any magical effects reducing one of the subject's ability scores or cures 1d4 points of temporary ability damage to one of the subject's ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.<\/p><\/div>",
+    "text": "<i>Lesser restoration<\/i> dispels any magical effects reducing one of the subject's ability scores or cures 1d4 points of temporary ability damage to one of the subject's ability scores. It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.",
     "name_zh": "次等复原术",
     "castingTime_zh": "3轮",
     "components_zh": "语言, 姿势",
@@ -30,6 +35,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>次等复原术能解除所有对目标属性的造成减值的魔法效果，或治疗1d4点目标的一项属性所受到的暂时属性伤害。它也能清除角色的疲乏效果，或使之由力竭状态恢复到疲乏状态。它不能回复永久属性吸取。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>次等复原术能解除所有对目标属性的造成减值的魔法效果，或治疗1d4点目标的一项属性所受到的暂时属性伤害。它也能清除角色的疲乏效果，或使之由力竭状态恢复到疲乏状态。它不能回复永久属性吸取。<\/p>"
 }

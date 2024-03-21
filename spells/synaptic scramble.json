@@ -1,10 +1,10 @@
 {
     "key": "synaptic scramble",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/synaptic-scramble/",
     "name": "Synaptic Scramble",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Synaptic%20Scramble",
+    "source": ["Occult Adventures pg. 187"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "mesmerist": 3,
@@ -17,15 +17,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You scramble the synaptic connections of your target, causing it to lose the ability to coherently communicate and to take unintended actions when it meant to perform others. The target cannot effectively communicate while under the spell's influence, and thus cannot engage in acts like speaking, attempting Bluff checks to pass secret messages, writing, or using telepathy, although the spell doesn't prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.<\/p><p>The target's mind is too scrambled to take full-round actions or longer actions, as the target's attention inevitably wanders before the action completes. Whenever the target attempts to take a move action or a standard action, roll on the following table instead. If the result on the table is an action that the target cannot take, the target takes no action instead.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">d%<\/th>    <th class=\"text\">Action<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">1–20<\/td>    <td class=\"text\">Move action (must use move action to move)<\/td>   <\/tr>   <tr>    <td class=\"text\">21–40<\/td>    <td class=\"text\">Other move action (perform a move action other than moving)<\/td>   <\/tr>   <tr>    <td class=\"text\">41–60<\/td>    <td class=\"text\">Attack action (spend a standard action on the attack action, attacking once with a weapon)<\/td>   <\/tr>   <tr>    <td class=\"text\">61–80<\/td>    <td class=\"text\">Other standard action (perform a standard action that isn't the attack action)<\/td>   <\/tr>   <tr>    <td class=\"text\">81–100<\/td>    <td class=\"text\">Desired action (perform whatever standard or move action the creature desires to perform)<\/td>   <\/tr>  <\/tbody> <\/table>",
+    "text": "You scramble the synaptic connections of your target, causing it to lose the ability to coherently communicate and to take unintended actions when it meant to perform others. The target cannot effectively communicate while under the spell’s influence, and thus cannot engage in acts like speaking, attempting Bluff checks to pass secret messages, writing, or using telepathy, although the spell doesn’t prevent verbalizations made for purposes other than communication, such as command words or the verbal component of spellcasting.<br><br>The target’s mind is too scrambled to take full-round actions or longer actions, as the target’s attention inevitably wanders before the action completes. Whenever the target attempts to take a move action or a standard action, roll on the following table instead. If the result on the table is an action that the target cannot take, the target takes no action instead.<br><br> <table class=\"inner\"><tr><td><b>d%<\/b><\/td><td><b>Action<\/b><\/td><\/tr> <tr><td>1–20<\/td><td>Move action (must use move action to move)<\/td><\/tr> <tr><td>21–40<\/td><td>Other move action (perform a move action other than moving)<\/td><\/tr> <tr><td>41–60<\/td><td>Attack action (spend a standard action on the attack action, attacking once with a weapon)<\/td><\/tr> <tr><td>61–80<\/td><td>Other standard action (perform a standard action that isn’t the attack action)<\/td><\/tr> <tr><td>81–100<\/td><td>Desired action (perform whatever standard or move action the creature desires to perform)<\/td><\/tr><\/table>",
     "name_zh": "神经乱流",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你搅乱了目标体内的神经连接，导致它失去进行以清晰的条理进行沟通的能力，而且当它想要执行其他动作时，还可能会无意识地进行别的行动。目标在受到法术的影响时不能进行有效地沟通，而且无法进行诸如对话（speaking）、尝试唬骗检定以传递密语、书写（writing）、或使用心灵感应（telepathy）之类的行为，不过该法术并不能妨碍用于沟通之外的语言表达能力，比如施法中的语言成分（verbal component）或者命令词（command words）。\n目标的精神过于杂乱，以至于无法进行整轮动作（full-round actions）或更长时间的行动，目标的注意力在这类动作完成前会不可避免地游离到其他方面上。每当目标尝试进行一个移动动作（move action）或者一个标准动作（standard action）时，按照后述表格进行检定并进行替代。若按照表格得出的结果是目标无法进行的行动，那么目标则会以不进行行动（no action）作为替代。\nd% \n 行为\n \n1 - 20 \n 移动动作（必须使用移动动作来移动）\n \n21 - 40 \n 其他移动动作（执行移动之外的移动动作）\n \n41 - 60 \n 攻击动作（Attack action；花费一个标准动作来进行攻击动作，使用一个武器攻击一次）\n \n61 - 80 \n 其他标准动作（执行攻击动作之外的标准动作）\n \n81 - 100      \n 原动作（该生物执行原本想要执行的标准或者移动动作）<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你搅乱了目标体内的神经连接，导致它失去进行以清晰的条理进行沟通的能力，而且当它想要执行其他动作时，还可能会无意识地进行别的行动。目标在受到法术的影响时不能进行有效地沟通，而且无法进行诸如对话（speaking）、尝试唬骗检定以传递密语、书写（writing）、或使用心灵感应（telepathy）之类的行为，不过该法术并不能妨碍用于沟通之外的语言表达能力，比如施法中的语言成分（verbal component）或者命令词（command words）。<\/p><p>目标的精神过于杂乱，以至于无法进行整轮动作（full-round actions）或更长时间的行动，目标的注意力在这类动作完成前会不可避免地游离到其他方面上。每当目标尝试进行一个移动动作（move action）或者一个标准动作（standard action）时，按照后述表格进行检定并进行替代。若按照表格得出的结果是目标无法进行的行动，那么目标则会以不进行行动（no action）作为替代。<\/p><p>d%<\/p><p>行为<\/p><p>1 - 20<\/p><p>移动动作（必须使用移动动作来移动）<\/p><p>21 - 40<\/p><p>其他移动动作（执行移动之外的移动动作）<\/p><p>41 - 60<\/p><p>攻击动作（Attack action；花费一个标准动作来进行攻击动作，使用一个武器攻击一次）<\/p><p>61 - 80<\/p><p>其他标准动作（执行攻击动作之外的标准动作）<\/p><p>81 - 100<\/p><p>原动作（该生物执行原本想要执行的标准或者移动动作）<\/p>"
 }

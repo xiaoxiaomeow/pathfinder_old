@@ -1,15 +1,20 @@
 {
     "key": "memorize page",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/memorize-page/",
     "name": "Memorize Page",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Memorize%20Page",
+    "source": ["Advanced Class Guide pg. 187"],
     "school": "enchantment",
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
+        "mesmerist": 1,
+        "occultist": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "10 minutes",
     "components": "V, S, F (the page to be memorized)",
@@ -18,7 +23,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target gains a perfect memory of the page you used as a focus component. The target can visualize this page as easily as looking at it in person, including minute details visible to close scrutiny by the naked eye. The memory of the page includes text and images, such as a drawing or a map. Someone unfamiliar with the language on the page (or even an illiterate person) could relay what is written simply by copying the shapes of the letters so another person can read them.<\/p><p>The maximum number of pages that a particular target can memorize through repeated castings of this spell is equal to the target's Intelligence modifier (minimum 1); any attempts beyond this limit have no effect, although the target's memory of a page could be erased (using modify memory or a similar effect) to effectively make room for a different one.<\/p><p>A creature that memorizes magical writing (such as a scroll or a page from a spellbook) cannot borrow, duplicate, or retain any of the magic in the writing. However, this would allow a wizard to copy a spell into his spellbook so he could prepare the spell from his book (assuming the spell takes up only one page in a spellbook).<\/p><\/div>",
+    "text": "The target gains a perfect memory of the page you used as a focus component. The target can visualize this page as easily as looking at it in person, including minute details visible to close scrutiny by the naked eye. The memory of the page includes text and images, such as a drawing or a map. Someone unfamiliar with the language on the page (or even an illiterate person) could relay what is written simply by copying the shapes of the letters so another person can read them.<br><br> The maximum number of pages that a particular target can memorize through repeated castings of this spell is equal to the target’s Intelligence modifier (minimum 1); any attempts beyond this limit have no effect, although the target’s memory of a page could be erased (using <i>modify memory<\/i> or a similar effect) to effectively make room for a different one.<br><br> A creature that memorizes magical writing (such as a scroll or a page from a spellbook) cannot borrow, duplicate, or retain any of the magic in the writing. However, this would allow a wizard to copy a spell into his spellbook so he could prepare the spell from his book (assuming the spell takes up only one page in a spellbook).",
     "name_zh": "背书咒",
     "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势，器材（要记住的书页）",
@@ -27,6 +32,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标会完美记忆住你在施法时作为材料成分的书页上的内容。目标仅凭想像便能够像是拿在手中一般查看这张书页的内容，包括用肉眼贴近时可以看到的微小细节。关于这张纸的记忆包括了文本和画面，比如绘图或地图。不熟悉书页上所用语言（或者干脆是文盲）的人，可以单纯地将上面的字母形状抄写出来，这样就可以让其他能够阅读的人查看了。\n通过重复施放该法术来让特定目标记忆的最高书页数量为目标的智力调整值（最低1张）；任何超出此限制的尝试不会产生效果，不过目标对于某张书页的记忆可以被消除，这需要使用修改记忆（Modify Memory）或类似的效果，这样便可以腾出记忆空间来保存其他内容。\n对于记忆魔法文字（比如卷轴或者魔法书中的书页）的生物来说，他们无法让渡（borrow）、复制（duplicate）或保留（retain）任何文字中的魔法。不过，这也使得法师能够将法术抄录到自己的法术书中，这样他就可以通过自己的法术书来准备这个法术（假设这个法术只占用法术书中的一页纸）。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>目标会完美记忆住你在施法时作为材料成分的书页上的内容。目标仅凭想像便能够像是拿在手中一般查看这张书页的内容，包括用肉眼贴近时可以看到的微小细节。关于这张纸的记忆包括了文本和画面，比如绘图或地图。不熟悉书页上所用语言（或者干脆是文盲）的人，可以单纯地将上面的字母形状抄写出来，这样就可以让其他能够阅读的人查看了。<\/p><p>通过重复施放该法术来让特定目标记忆的最高书页数量为目标的智力调整值（最低1张）；任何超出此限制的尝试不会产生效果，不过目标对于某张书页的记忆可以被消除，这需要使用修改记忆（Modify Memory）或类似的效果，这样便可以腾出记忆空间来保存其他内容。<\/p><p>对于记忆魔法文字（比如卷轴或者魔法书中的书页）的生物来说，他们无法让渡（borrow）、复制（duplicate）或保留（retain）任何文字中的魔法。不过，这也使得法师能够将法术抄录到自己的法术书中，这样他就可以通过自己的法术书来准备这个法术（假设这个法术只占用法术书中的一页纸）。<\/p>"
 }

@@ -1,18 +1,22 @@
 {
     "key": "undetectable alignment",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undetectable-alignment/",
     "name": "Undetectable Alignment",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Undetectable%20Alignment",
+    "source": ["PRPG Core Rulebook pg. 363"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 2,
         "antipaladin": 2,
         "bard": 1,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
+        "investigator": 2,
         "mesmerist": 1,
+        "oracle": 2,
         "paladin": 2,
-        "psychic": 2
+        "psychic": 2,
+        "skald": 1,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +25,14 @@
     "duration": "24 hours",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>An <i>undetectable alignment<\/i> spell conceals the alignment of an object or a creature from all forms of divination.<\/p>",
+    "text": "An <i>undetectable alignment<\/i> spell conceals the alignment of an object or a creature from all forms of divination.",
     "name_zh": "隐匿阵营",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物或物体",
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>隐匿阵营可以完全隐藏受术生物或物体的阵营，不受任何预言系效果的影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>隐匿阵营可以完全隐藏受术生物或物体的阵营，不受任何预言系效果的影响。<\/p>"
 }

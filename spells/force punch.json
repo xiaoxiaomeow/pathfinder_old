@@ -1,19 +1,19 @@
 {
     "key": "force punch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/force-punch/",
     "name": "Force Punch",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Force%20Punch",
+    "source": ["Ultimate Magic pg. 221"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "magus": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "spiritualist": 3
+        "sorcerer": 3,
+        "spiritualist": 3,
+        "wizard": 3
     },
-    "subdomains": {"fist": 4},
-    "mysteries": {"ascetic": 3},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
@@ -21,16 +21,16 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>This spell charges your hand with telekinetic force. Your successful melee touch attack deals 1d4 points of force damage per level (maximum 10d4) and causes the target to be pushed away from you in a straight line up to 5 feet per two caster levels. For every size category of the target above Medium, reduce the distance pushed by 5 feet (–5 feet for Large, –10 feet for Huge, –15 for Gargantuan, and –20 feet for Colossal) to a minimum of 0 feet. A successful Fortitude save negates the movement but not the damage.<\/p>",
-    "mythicText": "The damage dealt increases to 1d6 points of force damage per caster level (maximum 10d6). If moving the target would push it into another creature's space and it has at least 10 feet of distance remaining, you can attempt to overrun the other creature, adding your tier on the combat maneuver check. For each creature you overrun with the target, reduce the distance the target moves by 5 feet. If moving the target would push it into a solid obstacle (such as a wall or tree), the target takes damage as if it had fallen the distance pushed. <br><p style=\"margin-left: 20px\"><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can cast this spell as a ranged touch attack with a range of close (25 feet + 5 feet per 2 caster levels), and the target is treated as two size categories smaller for the purpose of determining the total distance pushed. ",
+    "text": "This spell charges your hand with telekinetic force. Your successful melee touch attack deals 1d4 points of force damage per level (maximum 10d4) and causes the target to be pushed away from you in a straight line up to 5 feet per two caster levels. For every size category of the target above Medium, reduce the distance pushed by 5 feet (–5 feet for Large, –10 feet for Huge, –15 for Gargantuan, and –20 feet for Colossal) to a minimum of 0 feet. A successful Fortitude save negates the movement but not the damage.<h2 class=\"title\">Mythic Force Punch<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 96<\/i><br>The damage dealt increases to 1d6 points of force damage per caster level (maximum 10d6). If moving the target would push it into another creature’s space and it has at least 10 feet of distance remaining, you can attempt to overrun the other creature, adding your tier on the combat maneuver check. For each creature you overrun with the target, reduce the distance the target moves by 5 feet. If moving the target would push it into a solid obstacle (such as a wall or tree), the target takes damage as if it had fallen the distance pushed. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can cast this spell as a ranged touch attack with a range of close (25 feet + 5 feet per 2 caster levels), and the target is treated as two size categories smaller for the purpose of determining the total distance pushed. ",
+    "mythicSource": ["Mythic Adventures pg. 96"],
+    "mythicText": "The damage dealt increases to 1d6 points of force damage per caster level (maximum 10d6). If moving the target would push it into another creature’s space and it has at least 10 feet of distance remaining, you can attempt to overrun the other creature, adding your tier on the combat maneuver check. For each creature you overrun with the target, reduce the distance the target moves by 5 feet. If moving the target would push it into a solid obstacle (such as a wall or tree), the target takes damage as if it had fallen the distance pushed. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, you can cast this spell as a ranged touch attack with a range of close (25 feet + 5 feet per 2 caster levels), and the target is treated as two size categories smaller for the purpose of determining the total distance pushed. ",
     "name_zh": "充能之拳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
     "range_zh": "接触",
     "target_zh": "接触到的目标",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>该法术为你的手充入力场传动的能量。<\/p><p>你在一次成功的近战接触攻击检定后，对目标造成每等级1d4点伤害 (最高10d4)，并且将目标击退每两施法者等级5尺的直线距离。<\/p><p>目标体型每比中等大一级，击退距离就降低5尺 (大型-5，超大-10，巨型-15，超巨-20)，最低0英尺。<\/p><p>成功的强韧检定可以免疫击退效果，但是对伤害没有影响。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>该法术为你的手充入力场传动的能量。<\/p><p>你在一次成功的近战接触攻击检定后，对目标造成每等级1d4点伤害 (最高10d4)，并且将目标击退每两施法者等级5尺的直线距离。<\/p><p>目标体型每比中等大一级，击退距离就降低5尺 (大型-5，超大-10，巨型-15，超巨-20)，最低0英尺。<\/p><p>成功的强韧检定可以免疫击退效果，但是对伤害没有影响。<\/p>"
 }

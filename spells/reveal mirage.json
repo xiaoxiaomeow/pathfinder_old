@@ -1,28 +1,32 @@
 {
     "key": "reveal mirage",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/reveal-mirage/",
     "name": "Reveal Mirage",
-    "book": "Pathfinder Campaign Setting: Osirion, Legacy of Pharaohs © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Reveal%20Mirage",
+    "source": ["Osirion, Legacy of the Pharaohs pg. 46"],
     "school": "divination",
     "levels":     {
+        "arcanist": 3,
         "cleric": 3,
         "druid": 2,
+        "hunter": 1,
+        "oracle": 3,
         "ranger": 1,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a small prism)",
     "range": "personal",
     "target": "you",
     "duration": "1 round",
-    "text": "<p>You can focus upon a single point within line of sight and discern if the terrain or geographic features of that point are illusory. This ability allows you a Will save to disbelieve a terrain-affecting illusion (glamer) effect from range as though you had interacted with it. In addition to affecting such spells as hallucinatory terrain and mirage arcana, this spell also allows you to disbelieve naturally occurring mirages.<\/p>",
+    "text": "You can focus upon a single point within line of sight and discern if the terrain or geographic features of that point are illusory. This ability allows you a Will save to disbelieve a terrain-affecting illusion (glamer) effect from range as though you had interacted with it. In addition to affecting such spells as <i>hallucinatory terrain <\/i>and <i>mirage arcana<\/i>, this spell also allows you to disbelieve naturally occurring mirages.",
     "name_zh": "破蜃术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材(小棱柱)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
-    "text_zh": "<p>你可以聚焦在视觉线上的一个点，辨别该点处的地形或地理特征是否虚幻。此能力让你能从一定距离外，如同你与之互动般进行意志检定，以不相信一个影响地形的幻术(五官幻觉)效果。除了对付像是幻景(hallucinatory terrain)和海市蜃楼(mirage arcana)这类的法术外，此法术也能让你不相信自然生成的海市蜃楼。<\/p>",
-    "source": "CS-OLofP"
+    "text_zh": "<p>你可以聚焦在视觉线上的一个点，辨别该点处的地形或地理特征是否虚幻。此能力让你能从一定距离外，如同你与之互动般进行意志检定，以不相信一个影响地形的幻术(五官幻觉)效果。除了对付像是幻景(hallucinatory terrain)和海市蜃楼(mirage arcana)这类的法术外，此法术也能让你不相信自然生成的海市蜃楼。<\/p>"
 }

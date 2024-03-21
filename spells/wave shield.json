@@ -1,30 +1,32 @@
 {
     "key": "wave shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wave-shield/",
     "name": "Wave Shield",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wave%20Shield",
+    "source": ["Advanced Class Guide pg. 199"],
     "school": "abjuration",
     "descriptors": ["water"],
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
         "magus": 1,
         "shaman": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 immediate action",
     "components": "V",
     "range": "personal",
     "target": "you",
     "duration": "1 round or until discharged",
-    "text": "<p>You create a rushing torrent of water in the rough outline of a shield. The water protects you from one physical or fire attack, granting you DR/— and fire resistance equal to half your caster level (minimum 1) on that attack. Once the spell has reduced the damage of one attack against you, it is discharged.<\/p>",
+    "text": "You create a rushing torrent of water in the rough outline of a shield. The water protects you from one physical or fire attack, granting you DR/— and fire resistance equal to half your caster level (minimum 1) on that attack. Once the spell has reduced the damage of one attack against you, it is discharged.",
     "name_zh": "波涛护盾",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮 或 直至耗散",
-    "text_zh": "<p>你在创造出一股翻腾的水流，形成粗糙的盾牌轮廓。水流会从一次物理或火焰攻击中保护你，使得你在对抗该次攻击时获得DR/—和火焰抗力，数值等同于你的施法者等级的一半（最低为1）。一旦法术将以你为目标的攻击所产生的伤害降低，便会耗散。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你在创造出一股翻腾的水流，形成粗糙的盾牌轮廓。水流会从一次物理或火焰攻击中保护你，使得你在对抗该次攻击时获得DR/—和火焰抗力，数值等同于你的施法者等级的一半（最低为1）。一旦法术将以你为目标的攻击所产生的伤害降低，便会耗散。<\/p>"
 }

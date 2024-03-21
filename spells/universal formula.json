@@ -1,21 +1,24 @@
 {
     "key": "universal formula",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/universal-formula/",
     "name": "Universal Formula",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Universal%20Formula",
+    "source": ["Advanced Player's Guide pg. 253"],
     "school": "transmutation",
-    "levels": {"alchemist": 4},
+    "levels":     {
+        "alchemist": 4,
+        "investigator": 4
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (quicksilver and powdered platinum worth 100 gp)",
     "range": "personal",
+    "target": "you",
     "duration": "instantaneous",
-    "text": "<p>As you ingest this extract, it transforms into the appropriate extract for any formula you know of 3rd level or lower and takes effect immediately. If the chosen formula has an expensive material component, it must be provided along with the component for this formula. You may not create an infused extract with this formula.<\/p>",
+    "text": "As you ingest this extract, it transforms into the appropriate extract for any formula you know of 3rd level or lower and takes effect immediately. If the chosen formula has an expensive material component, it must be provided along with the component for this formula. You may not create an infused extract with this formula.",
     "name_zh": "万用公式",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值100gp的水银与铂粉)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
-    "text_zh": "<p>当你饮用这个化合炼成后，它能够立刻转变为任何公式所制出的化合炼成并生效，只要这个公式是你已知的，并且为3级或更低等级的公式。如果你所选择的公式需要花费昂贵的材料作为成分，则必须在万用公式的材料成分中提供。你无法以该公式制出灌注化合炼成。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>当你饮用这个化合炼成后，它能够立刻转变为任何公式所制出的化合炼成并生效，只要这个公式是你已知的，并且为3级或更低等级的公式。如果你所选择的公式需要花费昂贵的材料作为成分，则必须在万用公式的材料成分中提供。你无法以该公式制出灌注化合炼成。<\/p>"
 }

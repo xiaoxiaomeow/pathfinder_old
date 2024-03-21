@@ -1,0 +1,29 @@
+{
+    "key": "antitoxin touch",
+    "name": "Antitoxin Touch",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Antitoxin%20Touch",
+    "source": ["Potions and Poisons pg. 11"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 1,
+        "druid": 1,
+        "hunter": 1,
+        "investigator": 1,
+        "ranger": 1,
+        "shaman": 1,
+        "witch": 1
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small drop of antitoxin)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "The target’s skin secretes a small amount of venom-resistant oils for the spell’s duration. The target cannot accidentally poison itself while applying poison. Additionally, the target does not risk exposure to a creature’s poison when attempting to milk venom (<i>Ultimate Wilderness<\/i> 142).",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

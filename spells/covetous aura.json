@@ -1,30 +1,36 @@
 {
     "key": "covetous aura",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/covetous-aura/",
     "name": "Covetous Aura",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Covetous%20Aura",
+    "source":     [
+        "Rise of the Runelords Anniversary Edition pg. 418",
+        "Pathfinder #5: Sins of the Saviors pg. 58",
+        "Inner Sea World Guide pg. 294"
+    ],
     "school": "abjuration",
     "levels":     {
-        "bard": 5,
-        "sorcerer/wizard": 5
+        "arcanist": 5,
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
-    "castingTime": "1 standard action",
+    "castingTime": "1 round",
     "components": "V, S",
     "range": "personal",
     "area": "25-ft.-radius emanation centered on you",
-    "duration": "1 round/level or until discharged",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>Anytime a harmless (so noted by a spell's saving throw description) spell of 3rd level or lower is cast within a <i>covetous aura's<\/i> area of effect, you may choose to immediately gain the benefit of that spell as if it had also targeted you. The intended target still gains the effect of the spell. You gain the benefits of this duplicated spell only if the caster is in range of the <i>covetous aura<\/i>. You are considered the caster of the additional spell effect. If the effect allows for multiple targets other than yourself, you cannot use the stolen spell effect to target other creatures—a <i>covetous aura<\/i> only aids you. Once you choose to gain the benefit of another spell, the <i>covetous aura<\/i> immediately ends. Rumors hold that this unusual spell was invented thousands of years ago by a powerful spellcaster who was constantly jealous of other spellcasters' abilities.<\/p>",
-    "mythicText": "<p style=\"font-size:12px\"><span>The duration of the<span> covetous aura<span> <span>increases to 1 minute per level or until discharged. You may gain the benefits of spells of 5th level or lower cast within the aura's area of effect. You can gain the effects of two separate spells, after which the mythic<span> covetous aura<span> <span>ends. <br><p style=\"margin-left:20px\"><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the duration increases to 10 minutes per level or until discharged. You may gain the benefits of spells of 7th level or lower cast within the aura's area of effect. When you gain the benefit of a spell, the original spell is immediately targeted with a greater dispel magic spell at your caster level. If the dispel check succeeds, the spell ends for any of the original recipients in the area of your covetous aura. ",
+    "text": "Anytime a harmless (so noted by a spell’s saving throw description) spell of 3rd level or lower is cast within a <i>covetous aura’s<\/i> area of effect, you may choose to immediately gain the benefit of that spell as if it had also targeted you. The intended target still gains the effect of the spell. You gain the benefits of this duplicated spell only if the caster is in range of the <i>covetous aura<\/i>. Each time a <i>covetous aura<\/i> duplicates a spell effect, the remaining duration of the <i>covetous aura<\/i> is reduced by a number of rounds equal to the spell level of the spell effect that is duplicated.<h2 class=\"title\">Mythic Covetous Aura<\/h2><b>Source<\/b> <i>Mythic Origins pg. 12<\/i><br>The duration of the covetous aura increases to 1 minute per level or until discharged. You may gain the benefits of spells of 5th level or lower cast within the aura’s area of effect. You can gain the effects of two separate spells, after which the <i>mythic covetous aura<\/i> ends.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the duration increases to 10 minutes per level or until discharged. You may gain the benefits of spells of 7th level or lower cast within the aura’s area of effect. When you gain the benefit of a spell, the original spell is immediately targeted with a <i>greater dispel magic<\/i> spell at your caster level. If the dispel check succeeds, the spell ends for any of the original recipients in the area of your <i>covetous aura<\/i>. ",
+    "mythicSource": ["Mythic Origins pg. 12"],
+    "mythicText": "The duration of the covetous aura increases to 1 minute per level or until discharged. You may gain the benefits of spells of 5th level or lower cast within the aura’s area of effect. You can gain the effects of two separate spells, after which the <i>mythic covetous aura<\/i> ends.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, the duration increases to 10 minutes per level or until discharged. You may gain the benefits of spells of 7th level or lower cast within the aura’s area of effect. When you gain the benefit of a spell, the original spell is immediately targeted with a <i>greater dispel magic<\/i> spell at your caster level. If the dispel check succeeds, the spell ends for any of the original recipients in the area of your <i>covetous aura<\/i>. ",
     "name_zh": "贪婪光环",
-    "castingTime_zh": "标准动作",
+    "castingTime_zh": "1轮",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
-    "area_zh": "25尺弥散，以你为中心",
-    "duration_zh": "一轮/等级或能量消耗",
+    "range_zh": "个人",
+    "area_zh": "25尺弥散, 以你为中心",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>任何时候，只要法术范围内有一个三级或更低的无害法术（在豁免说明有该描述）被施放，你就可以选择是否立刻获得该法术的好处，就像法术也针对你施放一样。法术的元目标仍然可以获得法术的效果。\n你只有在施法者在本法术光环笼罩范围内施放无害法术时才可能获得其好处。\n你本人会被认为是你获得的无害法术效果的施放者。\n如果无害法术原本是多目标，贪婪光环也只能让你自己获得好处，而不能将其传递给其他人。\n一旦你选择获取一个法术的增益，本法术效果立刻结束。\n传说中，这个法术是在几千年前由符文领主贝利玛留斯（Runelord Belimarius）所发明的，因为他总是嫉妒其他人的施法能力。<\/p>",
-    "source": "CS-ISWG"
+    "text_zh": "<p>任何时候，只要法术范围内有一个三级或更低的无害法术（在豁免说明有该描述）被施放，你就可以选择是否立刻获得该法术的好处，就像法术也针对你施放一样。法术的元目标仍然可以获得法术的效果。<\/p><p>你只有在施法者在本法术光环笼罩范围内施放无害法术时才可能获得其好处。<\/p><p>你本人会被认为是你获得的无害法术效果的施放者。<\/p><p>如果无害法术原本是多目标，贪婪光环也只能让你自己获得好处，而不能将其传递给其他人。<\/p><p>一旦你选择获取一个法术的增益，本法术效果立刻结束。<\/p><p>传说中，这个法术是在几千年前由符文领主贝利玛留斯（Runelord Belimarius）所发明的，因为他总是嫉妒其他人的施法能力。<\/p>"
 }

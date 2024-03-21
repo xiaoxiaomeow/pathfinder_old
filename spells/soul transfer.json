@@ -1,34 +1,39 @@
 {
     "key": "soul transfer",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soul-transfer/",
     "name": "Soul Transfer",
-    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soul%20Transfer",
+    "source":     [
+        "Book of the Damned pg. 186",
+        "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"
+    ],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 7,
         "cleric": 7,
+        "oracle": 7,
         "psychic": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
+        "sorcerer": 7,
         "spiritualist": 6,
-        "witch": 7
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a gem worth 1,000 gp per HD of the targeted creature or soul)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one petitioner, incorporeal soul, or similar creature",
-    "duration": "permanent; see text",
+    "duration": "permanent see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes (see text)",
-    "text": "<p>This spell functions like the spell completion option of trap the soul, except it works only on bodiless souls (such as incorporeal undead or a soul trapped in a gem) and creatures whose substance is a physical incarnation of a soul (such as a petitioner). It does not work on creatures formed from souls or planar material (such as most outsiders). <em>Soul transfer<\/em> is mainly used to transfer souls from one receptacle to another, but it can also be used to capture vulnerable souls that aren't bound to mortal flesh (such as incorporeal creatures and petitioners). When used to capture a petitioner, the petitioner's physical body vanishes, reappearing only when its soul is released from the receptacle.<\/p>",
+    "text": "This spell functions like the spell completion option of <i>trap the soul<\/i>, except it works only on bodiless souls (such as incorporeal undead or a soul trapped in a gem) and creatures whose substance is a physical incarnation of a soul (such as a petitioner). It does not work on creatures formed from souls or planar material (such as most outsiders). <i>Soul transfer<\/i> is mainly used to transfer souls from one receptacle to another, but it can also be used to capture vulnerable souls that aren’t bound to mortal flesh (such as incorporeal creatures and petitioners). When used to capture a petitioner, the petitioner’s physical body vanishes, reappearing only when its soul is released from the receptacle.",
     "name_zh": "灵魂转移",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一块宝石，价值为目标生物或灵魂拥有的每个HD 1,000 gp）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名祈并者、虚体灵魂或类似生物",
-    "duration_zh": "永久（见后文）",
+    "duration_zh": "永久; 见文本",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可（见后文）",
-    "text_zh": "<p>此法术效果如同锢魂术中的法术完成选项，但它只适用于没有身体的灵魂（例如虚体不死生物，或者被囚禁在宝石中的灵魂），或本质就是灵魂实体化身的生物（例如祈并者）。此法术对那些由灵魂或位面物质塑造的生物无效（如多数异界生物）。灵魂转移通常是用在将灵魂从一个容器转移至另一个，但也可以用来捕捉那些不被肉体凡胎所限的脆弱灵魂（例如虚体生物与祈并者）。用于捕捉祈并者时，祈并者的躯体（physical body）会消失，只有当其灵魂从容器中被释放出来后才会重新出现。<\/p>",
-    "source": "BotD"
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>此法术效果如同锢魂术中的法术完成选项，但它只适用于没有身体的灵魂（例如虚体不死生物，或者被囚禁在宝石中的灵魂），或本质就是灵魂实体化身的生物（例如祈并者）。此法术对那些由灵魂或位面物质塑造的生物无效（如多数异界生物）。灵魂转移通常是用在将灵魂从一个容器转移至另一个，但也可以用来捕捉那些不被肉体凡胎所限的脆弱灵魂（例如虚体生物与祈并者）。用于捕捉祈并者时，祈并者的躯体（physical body）会消失，只有当其灵魂从容器中被释放出来后才会重新出现。<\/p>"
 }

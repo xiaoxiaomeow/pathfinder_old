@@ -1,22 +1,30 @@
 {
     "key": "energy drain",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-drain/",
     "name": "Energy Drain",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Drain",
+    "source": ["PRPG Core Rulebook pg. 277"],
     "school": "necromancy",
     "levels":     {
-        "cleric/oracle": 9,
+        "arcanist": 9,
+        "cleric": 9,
+        "oracle": 9,
         "shaman": 9,
-        "sorcerer/wizard": 9
+        "sorcerer": 9,
+        "wizard": 9
     },
-    "subdomains":     {
-        "loss": 9,
-        "undead": 9
-    },
-    "bloodlines": {"accursed": 9},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "ray of negative energy",
+    "duration": "instantaneous",
     "savingThrow": "Fortitude partial",
-    "text": "<p>This spell functions like <i>enervation<\/i>, except that the creature struck gains 2d4 temporary negative levels. Twenty-four hours after gaining them, the subject must make a Fortitude saving throw (DC = <i>energy drain<\/i> spell's save DC) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.<\/p><p>An undead creature struck by the ray gains 2d4 x 5 temporary hit points for 1 hour.<\/p>",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>enervation<\/i>, except that the creature struck gains 2d4 temporary negative levels. Twenty-four hours after gaining them, the subject must make a Fortitude saving throw (DC = energy drain spell's save DC) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.<br><br>An undead creature struck by the ray gains 2d4 × 5 temporary hit points for 1 hour.",
     "name_zh": "吸能术",
-    "savingThrow_zh": "强韧, 通过则部分生效",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=enervation\">弱能术 (enervation)<\/a>’一般，不过法术命中的目标会受到2d4个暂时负向等级。受术者在获得负向等级24小时候，必须为每个负向等级进行强韧豁免检定 (DC为吸能术的豁免DC)。若豁免成功，则负向等级被移除。若失败，则那个负向等级变为永久的。<\/p><p>被射线击中的不死生物获得 {2d4×5} 点临时HP，持续1小时。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=enervation\">弱能术 (enervation)<\/a>’一般，不过法术命中的目标会受到2d4个暂时负向等级。受术者在获得负向等级24小时候，必须为每个负向等级进行强韧豁免检定 (DC为吸能术的豁免DC)。若豁免成功，则负向等级被移除。若失败，则那个负向等级变为永久的。<\/p><p>被射线击中的不死生物获得 {2d4×5} 点临时HP，持续1小时。<\/p>"
 }

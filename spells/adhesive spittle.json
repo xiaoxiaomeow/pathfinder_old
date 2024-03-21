@@ -1,15 +1,18 @@
 {
     "key": "adhesive spittle",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/adhesive-spittle/",
     "name": "Adhesive Spittle",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Adhesive%20Spittle",
+    "source": ["Advanced Class Guide pg. 172"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
         "alchemist": 1,
+        "arcanist": 1,
+        "investigator": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,15 +21,14 @@
     "duration": "1 round/level or until discharged (see text)",
     "savingThrow": "Reflex partial",
     "spellResistance": "no",
-    "text": "<p>Once during this spell's duration, you can spit a viscous liquid as a standard action. This liquid functions as a tanglefoot bag, except you do not have to make a successful attack roll to hit your target. The DCs to counteract this adhesive (to avoid being stuck to the floor, to fly, to break the adhesive, or to cast a spell) use the spell's DC rather than a tanglefoot bag's normal DCs. The adhesive persists for 2d4 rounds after you spit it.<\/p><\/div>",
+    "text": "Once during this spell’s duration, you can spit a viscous liquid as a standard action. This liquid functions as a tanglefoot bag, except you do not have to make a successful attack roll to hit your target. The DCs to counteract this adhesive (to avoid being stuck to the floor, to fly, to break the adhesive, or to cast a spell) use the spell’s DC rather than a tanglefoot bag’s normal DCs. The adhesive persists for 2d4 rounds after you spit it.",
     "name_zh": "黏性唾液",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "15尺",
     "target_zh": "一个生物",
-    "duration_zh": "1轮/等级 或 直至耗散（见后文）",
-    "savingThrow_zh": "反射, 通过则减半",
+    "duration_zh": "1轮/等级 或 直至耗散; 见文本",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>在法术持续时间内仅能使用1次，你能够以标准动作吐出粘性液体。这些液体被视为绊足包（tanglefoot bag），不过你并不需要进行成功的攻击检定来命中目标。抗拒这种粘着剂（避免被粘在地面上、进行飞行、挣脱粘着剂或者施放法术）的DC要使用法术的DC，而非普通绊足包的DC。这些粘着剂会在你吐出之后存在2d4轮。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>在法术持续时间内仅能使用1次，你能够以标准动作吐出粘性液体。这些液体被视为绊足包（tanglefoot bag），不过你并不需要进行成功的攻击检定来命中目标。抗拒这种粘着剂（避免被粘在地面上、进行飞行、挣脱粘着剂或者施放法术）的DC要使用法术的DC，而非普通绊足包的DC。这些粘着剂会在你吐出之后存在2d4轮。<\/p>"
 }

@@ -1,12 +1,13 @@
 {
     "key": "hardening",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hardening/",
     "name": "Hardening",
-    "book": "Copyright 2008, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hardening",
+    "source": ["Pathfinder Campaign Setting pg. 207"],
     "school": "transmutation",
     "levels":     {
-        "artifice": 7,
-        "sorcerer/wizard": 6
+        "arcanist": 6,
+        "sorcerer": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -15,7 +16,7 @@
     "duration": "permanent",
     "savingThrow": "none",
     "spellResistance": "yes (object)",
-    "text": "<p>This spell increases the hardness of materials by 1 point per 2 caster levels. The hardening spell does not in any way affect resistance to other forms of transformation.<\/p><p>This spell affects up to 10 cubic feet per level. If cast upon a metal or mineral, the spell affects 1 cubic foot per level.<\/p>",
+    "text": "This spell increases the hardness of materials by 1 point per 2 caster levels. The <i>hardening<\/i> spell does not in any way affect resistance to other forms of transformation.<br><br>This spell affects up to 10 cubic feet per level. If cast upon a metal or mineral, the spell affects 1 cubic foot per level.",
     "name_zh": "硬化术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
@@ -23,7 +24,6 @@
     "target_zh": "一件物体，其体积不得超过10立方呎/等级",
     "duration_zh": "永久",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "有 (物体)",
-    "text_zh": "<p>此法术增加材料硬度1点/2施法者等级。硬化术不会影响其他型态上的转化。\n此法术最多影响10立方呎/等级。如果施放在金属或其他矿物上，此法术影响1立方呎/等级。<\/p>",
-    "source": "CS-PCCS"
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>此法术增加材料硬度1点/2施法者等级。硬化术不会影响其他型态上的转化。<\/p><p>此法术最多影响10立方呎/等级。如果施放在金属或其他矿物上，此法术影响1立方呎/等级。<\/p>"
 }

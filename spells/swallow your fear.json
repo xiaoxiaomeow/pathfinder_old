@@ -1,28 +1,33 @@
 {
     "key": "swallow your fear",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/swallow-your-fear/",
     "name": "Swallow Your Fear",
-    "book": "Pathfinder Adventure Path #35: War of the River Kings. © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Swallow%20Your%20Fear",
+    "source": ["Pathfinder #35: War of the River Kings pg. 73"],
     "school": "enchantment",
+    "race": "Gorum",
     "levels":     {
         "bard": 1,
-        "cleric/oracle": 1
+        "cleric": 1,
+        "oracle": 1,
+        "skald": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "10 min.s; see text",
+    "target": "one creature plus one additional creature per four levels, no two of which can be more than 30 ft. apart",
+    "duration": "10 minutes; see text",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You make the affected subjects ready for battle despite their fear. If a target is suffering from a fear effect of any kind, he gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a -2 penalty to AC.<\/p><p>If the subject is frightened, he remains in place and gains the confused condition for the remainder of the fear effect, except he treats all results of &#8220;attack self &#8221; as &#8220;do nothing&#8221; and treats &#8220;attack nearest creature&#8221; as &#8220;act normally.&#8221; If the subject is panicked, he remains in place and gains the confused condition for the duration of the fear effect.<\/p>",
+    "text": "You make the affected subjects ready for battle despite their fear. If a target is suffering from a fear effect of any kind, he gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –2 penalty to AC. If the subject is frightened, he remains in place and gains the confused condition for the remainder of the fear effect, except he treats all results of “attack self ” as “do nothing” and treats “attack nearest creature” as “act normally.” If the subject is panicked, he remains in place and gains the confused condition for the duration of the fear effect.",
     "name_zh": "战胜恐惧",
+    "race_zh": "古拉姆",
     "castingTime_zh": "标准动作",
     "components_zh": "声音，动作",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物，每4施法者等级1名额外生物，所有目标间相距不得超过30尺",
-    "duration_zh": "10分钟；参阅描述",
+    "duration_zh": "10分钟; 见文本",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你使目标做好在恐惧中战斗的准备。如果目标受到任何恐惧效果的影响，他的力量和体质都可以获得+2的士气加值，意志豁免获得+1的士气加值，防护等级承受-2的惩罚。如果目标处于惊惧状态，他停留在原地，并在恐惧效果持续时间内视为困惑状态，但视所有『攻击自己』的结果为『不做任何事』，视所有『攻击最近的生物』的结果为『正常行动』。<\/p>",
-    "source": "AP-KM"
+    "text_zh": "<p>你使目标做好在恐惧中战斗的准备。如果目标受到任何恐惧效果的影响，他的力量和体质都可以获得+2的士气加值，意志豁免获得+1的士气加值，防护等级承受-2的惩罚。如果目标处于惊惧状态，他停留在原地，并在恐惧效果持续时间内视为困惑状态，但视所有『攻击自己』的结果为『不做任何事』，视所有『攻击最近的生物』的结果为『正常行动』。<\/p>"
 }

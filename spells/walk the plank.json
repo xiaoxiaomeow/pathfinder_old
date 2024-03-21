@@ -1,15 +1,16 @@
 {
     "key": "walk the plank",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/walk-the-plank/",
     "name": "Walk the Plank",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Walk%20the%20Plank",
+    "source": ["Villain Codex pg. 188"],
     "school": "conjuration",
-    "subSchool": ["creation"],
-    "religion": "unchained",
+    "subSchools": ["creation"],
     "levels":     {
         "arcanist": 5,
-        "sorcerer/wizard": 5,
-        "summoner": 5
+        "sorcerer": 5,
+        "summoner": 5,
+        "summoner (unchained)": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a shark tooth and a splinter of a ship's hull)",
@@ -18,15 +19,14 @@
     "duration": "1 round plus 1 round/level",
     "savingThrow": "Reflex negates (see text)",
     "spellResistance": "no",
-    "text": "<p>This spell functions as per create pit, except as noted here. All but the top 10 feet of the hole is filled with saltwater, reducing the fall damage for anyone falling into the pit to 1d3 points of nonlethal damage and allowing Huge or larger creatures at the water's surface to simply pull themselves out of the pit as part of a normal move action, without a Climb check. Additionally, the pit contains a single advanced shark for every 4 caster levels you have (maximum four advanced sharks). If desired, when you cast the spell, you can substitute two of the summoned sharks for one great white shark. These sharks immediately attack any creature that falls into the pit, even you. If multiple creatures fall in the pit, the sharks attack randomly. When the spell ends, creatures inside the hole rise up with the bottom of the pit, as normal for create pit, but the conjured water and sharks vanish.<\/p>",
+    "text": "This spell functions as per <i>create pit<\/i><sup>APG<\/sup>, except as noted here. All but the top 10 feet of the hole is filled with saltwater, reducing the fall damage for anyone falling into the pit to 1d3 points of nonlethal damage and allowing Huge or larger creatures at the water’s surface to simply pull themselves out of the pit as part of a normal move action, without a Climb check. Additionally, the pit contains a single advanced shark (<i>Pathfinder RPG Bestiary<\/i> 294, 247) for every 4 caster levels you have (maximum four advanced sharks). If desired, when you cast the spell, you can substitute two of the summoned sharks for one great white shark (<i>Pathfinder RPG Bestiary<\/i> 4 241). These sharks immediately attack any creature that falls into the pit, even you. If multiple creatures fall in the pit, the sharks attack randomly. When the spell ends, creatures inside the hole rise up with the bottom of the pit, as normal for <i>create pit<\/i>, but the conjured water and sharks vanish.",
     "name_zh": "海中绝境",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一颗鲨鱼的牙齿与一片船身的碎片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "长20尺，宽20尺的洞，10尺深/4等级",
     "duration_zh": "1轮 加 1轮/等级",
-    "savingThrow_zh": "反射，通过则无效 (见下)",
+    "savingThrow_zh": "反射, 通过则无效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术如同造坑术(create pit)般作用，除了这里指出的。除了顶部10尺，此坑充满了海水，任何人因为坠落此坑所受到的非致命伤害减少至1d3点，并且在水的表面，超大型(Huge)或更大的生物可以用正常移动动作的一部分，轻易的将自己从坑中拉出去，无须攀爬检定。除此之外，此坑包含一只进阶鲨鱼(Pathfinder RPG Bestiary P.294, 247)，你每有4个施法者多一只(最多4只进阶鲨鱼)。如果需要，当你施放此法术时，你可以用一只大白鲨(Pathfinder RPG Bestiary 4 P.241)取代两只被召唤的鲨鱼。这些鲨鱼会立刻攻击任何掉落坑内的生物，就算是你。如果数个生物掉落此坑，则鲨鱼会随机攻击。当此法术结束时，在洞内的生物会与坑的底部一起上升，如同造坑术(create pit)，但召唤而来的水以及鲨鱼会消失。<\/p>",
-    "source": "VC"
+    "text_zh": "<p>此法术如同造坑术(create pit)般作用，除了这里指出的。除了顶部10尺，此坑充满了海水，任何人因为坠落此坑所受到的非致命伤害减少至1d3点，并且在水的表面，超大型(Huge)或更大的生物可以用正常移动动作的一部分，轻易的将自己从坑中拉出去，无须攀爬检定。除此之外，此坑包含一只进阶鲨鱼(Pathfinder RPG Bestiary P.294, 247)，你每有4个施法者多一只(最多4只进阶鲨鱼)。如果需要，当你施放此法术时，你可以用一只大白鲨(Pathfinder RPG Bestiary 4 P.241)取代两只被召唤的鲨鱼。这些鲨鱼会立刻攻击任何掉落坑内的生物，就算是你。如果数个生物掉落此坑，则鲨鱼会随机攻击。当此法术结束时，在洞内的生物会与坑的底部一起上升，如同造坑术(create pit)，但召唤而来的水以及鲨鱼会消失。<\/p>"
 }

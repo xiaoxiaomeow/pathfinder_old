@@ -1,13 +1,16 @@
 {
     "key": "sift",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sift/",
     "name": "Sift",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sift",
+    "source": ["Advanced Player's Guide pg. 244"],
     "school": "divination",
     "levels":     {
         "bard": 0,
         "inquisitor": 0,
-        "psychic": 0
+        "medium": 0,
+        "occultist": 0,
+        "psychic": 0,
+        "skald": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -16,7 +19,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You examine an area at range as if you were searching for fine details with the Perception skill. Make a Perception check with a -5 penalty, modified as normal for conditions. No penalty is applied for distance. Apply the result against the DC for any hidden features, such as secret doors, traps, or hidden treasure. You must be able to see the area you are attempting to search, and you only find details that can be perceived with sight or touch. <i>Sift<\/i> detects only objects and features, not actual creatures.<\/p>",
+    "text": "You examine an area at range as if you were searching for fine details with the Perception skill. Make a Perception check with a –5 penalty, modified as normal for conditions. No penalty is applied for distance. Apply the result against the DC for any hidden features, such as secret doors, traps, or hidden treasure. You must be able to see the area you are attempting to search, and you only find details that can be perceived with sight or touch. Sift detects only objects and features, not actual creatures.",
     "name_zh": "搜寻术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -25,6 +28,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你筛查法术范围内的一片区域，就如同你使用察觉技能发现环境中的细节 (searching for fine details)。进行一次受到-5减值的察觉检定，并如常受到环境修正。该次检定不受会因距离受到减值。使用该结果对抗任何隐藏物的DC，比如密门，陷阱或者隐藏的宝藏。你必须能够看到试图要搜索的区域，并且你只能了解到通过视觉与触摸发现的细节。搜寻术只能侦测到物体或环境，无法侦测生物。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你筛查法术范围内的一片区域，就如同你使用察觉技能发现环境中的细节 (searching for fine details)。进行一次受到-5减值的察觉检定，并如常受到环境修正。该次检定不受会因距离受到减值。使用该结果对抗任何隐藏物的DC，比如密门，陷阱或者隐藏的宝藏。你必须能够看到试图要搜索的区域，并且你只能了解到通过视觉与触摸发现的细节。搜寻术只能侦测到物体或环境，无法侦测生物。<\/p>"
 }

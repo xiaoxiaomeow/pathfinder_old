@@ -1,24 +1,27 @@
 {
     "key": "sculpt sound",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sculpt-sound/",
     "name": "Sculpt Sound",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sculpt%20Sound",
+    "source": ["PRPG Core Rulebook pg. 338"],
     "school": "transmutation",
-    "levels": {"bard": 3},
+    "levels":     {
+        "bard": 3,
+        "skald": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You can change the sounds that creatures or objects make. You can create sounds where none exist, deaden sounds, or transform sounds into other sounds. All affected creatures or objects must be transmuted in the same way. Once the transmutation is made, you cannot change it. You can change the qualities of sounds but cannot create words with which you are unfamiliar yourself.<\/p><p>A spellcaster whose voice is changed dramatically is unable to cast spells with verbal components.<\/p>",
+    "text": "You can change the sounds that creatures or objects make. You can create sounds where none exist, deaden sounds, or transform sounds into other sounds. All affected creatures or objects must be transmuted in the same way. Once the transmutation is made, you cannot change it. You can change the qualities of sounds but cannot create words with which you are unfamiliar yourself.<br><br>A spellcaster whose voice is changed dramatically is unable to cast spells with verbal components.",
     "name_zh": "塑声术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个生物或物体，任意两者之间不能超过30尺距离",
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>你改变了那个生物或物品所发出的声音。你能在空无一物的地方创造出声音，也能阻断声音，还能将一种声音转变成另外一种。所有被影响的生物和物品必须以同样的方式进行改变。一旦变化产生，你就不能更改它了。你可以改变音质，但是不能创造出你所不熟悉的言语。<\/p><p>声音被显著改变的施法者无法施放具有语言成分的法术。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你改变了那个生物或物品所发出的声音。你能在空无一物的地方创造出声音，也能阻断声音，还能将一种声音转变成另外一种。所有被影响的生物和物品必须以同样的方式进行改变。一旦变化产生，你就不能更改它了。你可以改变音质，但是不能创造出你所不熟悉的言语。<\/p><p>声音被显著改变的施法者无法施放具有语言成分的法术。<\/p>"
 }

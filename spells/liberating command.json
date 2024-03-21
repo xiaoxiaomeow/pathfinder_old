@@ -1,17 +1,29 @@
 {
     "key": "liberating command",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/liberating-command/",
     "name": "Liberating Command",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Liberating%20Command",
+    "source":     [
+        "Ultimate Combat pg. 233",
+        "Andoran, Spirit of Liberty pg. 27"
+    ],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "druid": 1,
+        "hunter": 1,
+        "medium": 1,
+        "occultist": 1,
+        "oracle": 1,
         "paladin": 1,
         "psychic": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "redmantisassassin": 1,
+        "skald": 1,
+        "sorcerer": 1,
+        "warpriest": 1,
+        "wizard": 1
     },
     "castingTime": "1 immediate action",
     "components": "V",
@@ -20,15 +32,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>If the target is bound, grappled, or otherwise restrained, he may make an Escape Artist check to escape as an immediate action. He gains a competence bonus on this check equal to twice your caster level (maximum +20). This spell has no effect if the target could not get free by using the Escape Artist skill (for example, if he were under the effects of a hold person spell or paralyzed by Strength damage).<\/p>",
+    "text": "If the target is bound, grappled, or otherwise restrained, he may make an Escape Artist check to escape as an immediate action. He gains a competence bonus on this check equal to twice your caster level (maximum +20). This spell has no effect if the target could not get free by using the Escape Artist skill (for example, if he were under the effects of a <i>hold person <\/i>spell or paralyzed by Strength damage).",
     "name_zh": "脱困指令",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>如果目标正被纠缠、擒抱或其他可以进行脱逃检定的情况，他可以以一个直觉动作立刻进行一次脱逃检定。<\/p><p>在这次检定中，他获得两倍施法者等级 (最大20) 的表现加值。<\/p><p>如果目标不能藉由脱逃检定获得自由，那么该法术无效 (例如目标处于人类定身术效果影响下，或由于力量伤害而陷入瘫痪状态)。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>如果目标正被纠缠、擒抱或其他可以进行脱逃检定的情况，他可以以一个直觉动作立刻进行一次脱逃检定。<\/p><p>在这次检定中，他获得两倍施法者等级 (最大20) 的表现加值。<\/p><p>如果目标不能藉由脱逃检定获得自由，那么该法术无效 (例如目标处于人类定身术效果影响下，或由于力量伤害而陷入瘫痪状态)。<\/p>"
 }

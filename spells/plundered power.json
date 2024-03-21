@@ -1,18 +1,22 @@
 {
     "key": "plundered power",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/plundered-power/",
     "name": "Plundered Power",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Plundered%20Power",
+    "source": ["Horror Adventures pg. 124"],
     "school": "necromancy",
     "descriptors": ["evil"],
     "levels":     {
+        "arcanist": 7,
         "cleric": 7,
         "druid": 7,
         "occultist": 6,
+        "oracle": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
+        "sorcerer": 7,
         "summoner": 6,
-        "witch": 7
+        "summoner (unchained)": 6,
+        "witch": 7,
+        "wizard": 7
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (crushed rubies worth 2,500 gp and a major organ from the sacrificed target, see text)",
@@ -21,15 +25,14 @@
     "duration": "1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "no",
-    "text": "<p>You must sacrifice a creature just as you finish casting this spell.<\/p><p>When the sacrifice dies, its blood or ichor pools and hardens into a single red bloodstone. This bloodstone contains the essence and spirit of the sacrificed creature, allowing anyone holding the stone to activate the creature's highest-level activated racial spell-like ability, taking the actions necessary to activate the stored spell-like ability. Any creature who holds the stone can activate it, but the stone can be used only once per day (or the frequency of the creature's spell-like ability, whichever is less). If a creature has several racial spell-like abilities of the same spell level, choose randomly from among them to determine which one is stored in the bloodstone. The bloodstone can only store racial spell-like abilities that emulate a spell, including altered spells, like invisibility (self only), but not unique spell-like abilities possessed by the creature. Abilities with altered effects are still altered, so a creature activating the bloodstone for greater teleport (self only) would affect only itself and a bloodstone storing summon monster II (Small fire elemental only) would still only be able to summon a Small fire elemental. Additionally, the bloodstone can't store spell-like abilities that duplicate spells with expensive components costing more than 250 gp.<\/p><p>The save DC, caster level, and other attributes of this ability remain the same as when the creature was still alive, though the creature who activates the bloodstone can choose the targets, area, or shape of the spell, and make other decisions, such as controlling the target of dominate person. The bloodstone can take any actions necessary to manipulate aspects of the spell, concentrating on the spell, redirecting the spell, and so on, up to a full normal round's worth of actions.<\/p><p>If the sacrificed creature doesn't die during the casting of the spell (for instance if it was merely a summoned creature) or is brought back to life before the spell's duration expires, the bloodstone loses its magical power. The fragment of the creature's spirit trapped in the bloodstone does not hinder attempts to restore the creature to life.<\/p>",
+    "text": "You must sacrifice a creature just as you finish casting this spell. When the sacrifice dies, its blood or ichor pools and hardens into a single red bloodstone. This bloodstone contains the essence and spirit of the sacrificed creature, allowing anyone holding the stone to activate the creature’s highest-level activated racial spell-like ability, taking the actions necessary to activate the stored spell-like ability. Any creature who holds the stone can activate it, but the stone can be used only once per day (or the frequency of the creature’s spell-like ability, whichever is less). If a creature has several racial spell-like abilities of the same spell level, choose randomly from among them to determine which one is stored in the bloodstone. The bloodstone can only store racial spell-like abilities that emulate a spell, including altered spells, like  <i>invisibility<\/i> (self only), but not unique spell-like abilities possessed by the creature. Abilities with altered effects are still altered, so a creature activating the bloodstone for <i>greater teleport<\/i> (self only) would affect only itself and a bloodstone storing <i>summon monster II<\/i> (Small fire elemental only) would still only be able to summon a Small fire elemental. Additionally, the bloodstone can’t store spell-like abilities that duplicate spells with expensive components costing more than 250 gp.<br><br> The save DC, caster level, and other attributes of this ability remain the same as when the creature was still alive, though the creature who activates the bloodstone can choose the targets, area, or shape of the spell, and make other decisions, such as controlling the target of <i>dominate person<\/i>. The bloodstone can take any actions necessary to manipulate aspects of the spell, concentrating on the spell, redirecting the spell, and so on, up to a full normal round’s worth of actions.<br><br> If the sacrificed creature doesn’t die during the casting of the spell (for instance if it was merely a summoned creature) or is brought back to life before the spell’s duration expires, the bloodstone loses its magical power. The fragment of the creature’s spirit trapped in the bloodstone does not hinder attempts to restore the creature to life.",
     "name_zh": "窃取伟力",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、材料 (价值2500gp的碎裂红宝石，以及被牺牲的目标的一个主要器官，见下)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你必须在你施法完成之际献祭一个生物。当被献祭的生物死去后，他的血或着脓水汇聚成小池，并慢慢凝实变成一颗血石。这颗血石包含了被献祭生物的原质以及灵魂，令任何握有这颗石头的人可以激活被献祭生物最高环的种族类法术能力，花费施展该储存的类法术能力必要的动作。任何拿着石头的生物都可以激活，但石头一天只能使用一次(或着使用该生物的类法术能力的可用频率，选择较低者)。如果被献祭生物拥有数个种族类法术能力，并且法术环级也相同，从这些中随机选择一个，来决定这血石是储存哪一个。但血石只能储存模拟一个法术的种族类法术能力，这包括被改变的法术，像是隐形术(只限自身)，但不能是被献祭生物所拥有之独特的类法术能力。效果被更改的能力保持被更改，所以激活该血石高等传送术(greater teleport)的生物(只限自身)，只会影响到他自己；而储存召唤怪物II[summon monster II](限小型火元素)的血石将只能用来召唤一只小型火元素。此外，血石不能储存有着昂贵材料成分(超过250gp)的类法术能力复制法术。\n这能力的豁免DC、施法者等级与其它的特性都保持与该生物仍活着时一样，但激活这颗血石的生物可以选择法术的目标、区域或形状并做其他决定，像是控制支配人类(dominate person)的受术者。在操作法术这方面，血石可以采取任何必须的动作，专注此法术、改向此法术等等，最多等值于一个正常整轮的动作(up to a full normal round's worth of actions)。\n如果被献祭的生物在施法过程中并没有死亡(举例来说，如果它仅仅只是一支被召唤的生物)或着它在法术的持续时间结束前被救回，血石会失去它的魔法力\n量。被困在血石中的 该生物的灵魂碎片，并不会阻碍让该生物复生的尝试。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你必须在你施法完成之际献祭一个生物。当被献祭的生物死去后，他的血或着脓水汇聚成小池，并慢慢凝实变成一颗血石。这颗血石包含了被献祭生物的原质以及灵魂，令任何握有这颗石头的人可以激活被献祭生物最高环的种族类法术能力，花费施展该储存的类法术能力必要的动作。任何拿着石头的生物都可以激活，但石头一天只能使用一次(或着使用该生物的类法术能力的可用频率，选择较低者)。如果被献祭生物拥有数个种族类法术能力，并且法术环级也相同，从这些中随机选择一个，来决定这血石是储存哪一个。但血石只能储存模拟一个法术的种族类法术能力，这包括被改变的法术，像是隐形术(只限自身)，但不能是被献祭生物所拥有之独特的类法术能力。效果被更改的能力保持被更改，所以激活该血石高等传送术(greater teleport)的生物(只限自身)，只会影响到他自己；而储存召唤怪物II[summon monster II](限小型火元素)的血石将只能用来召唤一只小型火元素。此外，血石不能储存有着昂贵材料成分(超过250gp)的类法术能力复制法术。<\/p><p>这能力的豁免DC、施法者等级与其它的特性都保持与该生物仍活着时一样，但激活这颗血石的生物可以选择法术的目标、区域或形状并做其他决定，像是控制支配人类(dominate person)的受术者。在操作法术这方面，血石可以采取任何必须的动作，专注此法术、改向此法术等等，最多等值于一个正常整轮的动作(up to a full normal round's worth of actions)。<\/p><p>如果被献祭的生物在施法过程中并没有死亡(举例来说，如果它仅仅只是一支被召唤的生物)或着它在法术的持续时间结束前被救回，血石会失去它的魔法力<\/p><p>量。被困在血石中的 该生物的灵魂碎片，并不会阻碍让该生物复生的尝试。<\/p>"
 }

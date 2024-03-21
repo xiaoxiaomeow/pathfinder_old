@@ -1,39 +1,30 @@
 {
     "key": "elemental swarm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-swarm/",
     "name": "Elemental Swarm",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Swarm",
+    "source": ["PRPG Core Rulebook pg. 277"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
-    "descriptors": ["see text"],
+    "subSchools": ["summoning"],
     "levels":     {
         "druid": 9,
         "shaman": 9,
         "witch": 9
     },
-    "domains":     {
-        "air": 9,
-        "earth": 9,
-        "fire": 9,
-        "water": 9
-    },
-    "bloodlines": {"elemental": 9},
-    "mysteries": {"elemental": 9},
     "castingTime": "10 minutes",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "two or more summoned creatures, no two of which can be more than 30 ft. apart",
-    "duration": "10 min./level (d)",
+    "duration": "10 min./level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose any plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.<\/p><p>When the spell is complete, 2d4 Large elementals appear. Ten minutes later, 1d4 Huge elementals appear. Ten minutes after that, one greater elemental appears. Each elemental has maximum hit points per HD. Once these creatures appear, they serve you for the duration of the spell.<\/p><p>The elementals obey you explicitly and never attack you, even if someone else manages to gain control over them. You do not need to concentrate to maintain control over the elementals. You can dismiss them singly or in groups at any time.<\/p><p>When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.<\/p>",
+    "text": "This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose any plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.<br><br>When the spell is complete, 2d4 Large elementals appear. Ten minutes later, 1d4 Huge elementals appear. Ten minutes after that, one greater elemental appears. Each elemental has maximum hit points per HD. Once these creatures appear, they serve you for the duration of the spell.<br><br>The elementals obey you explicitly and never attack you, even if someone else manages to gain control over them. You do not need to concentrate to maintain control over the elementals. You can dismiss them singly or in groups at any time.<br><br>When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.",
     "name_zh": "元素集群",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "两个或更多被召唤的生物，任意两者之间的距离不超过30尺",
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术可打开通往元素位面的大门，并从中召唤元素。德鲁伊可选择任何位面 (气、土、火或水)；牧师只能选择与其领域相符的元素位面。<\/p><p>当法术完成时会出现2d4个大型元素 (Large elementals)。10分钟后，会出现1d4个超大型元素 (Huge elementals)。再过10分钟，会出现菁英元素 (greater elemental)。每个元素生物的每个生命骰都会取最高的HP。它们自出现起，将在法术持续时间内为你服务。<\/p><p>元素生物将明确执行你的命令并且绝不会攻击你，即便其他人控制了它们也是如此。你无需保持专注来控制它们。你随时可以遣散它们中间的一个或全部。<\/p><p>当你使用召唤法术来召唤气、土、火或水元素时，法术也会属于相应的类型。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术可打开通往元素位面的大门，并从中召唤元素。德鲁伊可选择任何位面 (气、土、火或水)；牧师只能选择与其领域相符的元素位面。<\/p><p>当法术完成时会出现2d4个大型元素 (Large elementals)。10分钟后，会出现1d4个超大型元素 (Huge elementals)。再过10分钟，会出现菁英元素 (greater elemental)。每个元素生物的每个生命骰都会取最高的HP。它们自出现起，将在法术持续时间内为你服务。<\/p><p>元素生物将明确执行你的命令并且绝不会攻击你，即便其他人控制了它们也是如此。你无需保持专注来控制它们。你随时可以遣散它们中间的一个或全部。<\/p><p>当你使用召唤法术来召唤气、土、火或水元素时，法术也会属于相应的类型。<\/p>"
 }

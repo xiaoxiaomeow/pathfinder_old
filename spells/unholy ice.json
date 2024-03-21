@@ -1,22 +1,34 @@
 {
     "key": "unholy ice",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unholy-ice/",
     "name": "Unholy Ice",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unholy%20Ice",
+    "source": ["Ultimate Magic pg. 245"],
     "school": "transmutation",
     "descriptors":     [
         "cold",
         "evil",
         "water"
     ],
-    "descriptorOperator": "and",
-    "levels": {"cleric/oracle": 5},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "cleric": 5,
+        "oracle": 5,
+        "warpriest": 5
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a flask of unholy water or 5 pounds of powdered silver worth 25 gp)",
-    "text": "<p>This spell functions as <i>holy ice<\/i>, except it is made of frozen unholy water rather than holy water.<\/p>",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "effect": "wall of ice or flying ice javelins (see text)",
+    "duration": "1 minute/level, instantaneous, or until expended (see text)",
+    "savingThrow": "Reflex negates or none (see text)",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>holy ice<\/i>, except it is made of frozen unholy water rather than holy water.",
     "name_zh": "秽邪冰川",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一份邪水或5磅银粉，价值25gp)",
-    "text_zh": "<p>这个法术工作方式如同神圣冰川 (Holy Ice)，不过本法术创造出的是由邪水所构成的冰块而非圣水。<\/p>",
-    "source": "UM"
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1分钟/等级, 立即, 或直至发散; 见文本",
+    "savingThrow_zh": "反射, 通过则无效 或 无; 见文本",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这个法术工作方式如同神圣冰川 (Holy Ice)，不过本法术创造出的是由邪水所构成的冰块而非圣水。<\/p>"
 }

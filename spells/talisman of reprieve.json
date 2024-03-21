@@ -1,0 +1,23 @@
+{
+    "key": "talisman of reprieve",
+    "name": "Talisman of Reprieve",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Talisman%20of%20Reprieve",
+    "source": ["Plane-Hopper's Handbook pg. 12"],
+    "school": "abjuration",
+    "levels":     {
+        "cleric": 5,
+        "inquisitor": 4,
+        "occultist": 5,
+        "paladin": 3,
+        "warpriest": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "20-ft.-radius emanation centered on an item",
+    "duration": "10 minutes/level",
+    "text": "You imbue an item with an aura of divine amnesty, allowing all allies within the aura’s area to ignore penalties to Intelligence-, Wisdom-, and Charisma-based checks resulting from a plane’s mildly or strongly aligned traits (<i>Planar Adventures<\/i> 62), regardless of the allies’ alignments. In addition, the item grants a +4 circumstance bonus on checks with one Intelligence-, Wisdom-, or Charisma-based skill determined by you at the time of casting.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "10分钟/等级"
+}

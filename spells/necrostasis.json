@@ -1,0 +1,32 @@
+{
+    "key": "necrostasis",
+    "name": "Necrostasis",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Necrostasis",
+    "source": ["Inner Sea Temples pg. 42"],
+    "school": "necromancy",
+    "levels":     {
+        "arcanist": 3,
+        "cleric": 2,
+        "inquisitor": 2,
+        "oracle": 2,
+        "shaman": 2,
+        "sorcerer": 3,
+        "spiritualist": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (a finger bone)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one undead creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "You drain necromantic energy from an undead creature, inducing a sluggish stupor. The target becomes staggered. For the duration of the spell, dark wisps of energy seep out of the target creature. If the target already has the staggered condition (as a zombie does), it becomes dazed for 1 round instead.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

@@ -1,12 +1,22 @@
 {
     "key": "dance of a thousand cuts",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dance-of-a-thousand-cuts/",
     "name": "Dance of a Thousand Cuts",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dance%20of%20a%20Thousand%20Cuts",
+    "source": ["Ultimate Magic pg. 216"],
     "school": "transmutation",
-    "levels": {"bard": 6},
-    "text": "<p>This spell functions as <i>dance of a hundred cuts<\/i>, except you also gain the benefits of haste.<\/p>",
+    "levels":     {
+        "bard": 6,
+        "skald": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "This spell functions as <i>dance of a hundred cuts<\/i>, except you also gain the benefits of <i>haste<\/i>.",
     "name_zh": "千袭战舞",
-    "text_zh": "<p>该法术如同百袭战舞 (dance of a hundred cuts) 一般运作，不过你同时还获得加速术 (haste) 的好处。<\/p>",
-    "source": "UM"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>该法术如同百袭战舞 (dance of a hundred cuts) 一般运作，不过你同时还获得加速术 (haste) 的好处。<\/p>"
 }

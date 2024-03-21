@@ -1,17 +1,20 @@
 {
     "key": "bloody arrows",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bloody-arrows/",
     "name": "Bloody Arrows",
-    "book": "Pathfinder Player Companion: Ranged Tactics Toolbox © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bloody%20Arrows",
+    "source": ["Ranged Tactics Toolbox pg. 30"],
     "school": "necromancy",
     "levels":     {
         "antipaladin": 3,
+        "arcanist": 4,
+        "hunter": 3,
         "inquisitor": 3,
         "magus": 3,
         "ranger": 3,
         "shaman": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "none (harmless)",
     "spellResistance": "no (harmless)",
-    "text": "<p>Whenever this spell's target hits a creature with a ranged weapon that successfully deals piercing or slashing damage, the struck creature takes 1 point of bleed damage. Unlike most bleed damage, the bleed damage dealt by the subject of this spell is cumulative up to an amount equal to 1/2 your caster level (to a maximum of 5 points of bleed damage at 10th level).<\/p>",
+    "text": "Whenever this spell’s target hits a creature with a ranged weapon that successfully deals piercing or slashing damage, the struck creature takes 1 point of bleed damage. Unlike most bleed damage, the bleed damage dealt by the subject of this spell is cumulative up to an amount equal to 1/2 your caster level (to a maximum of 5 points of bleed damage at 10th level).",
     "name_zh": "血箭术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个自愿生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "无（无害）",
-    "spellResistance_zh": "无（无害）",
-    "text_zh": "<p>法术目标在时效内使用远程武器成功造成穿刺或挥砍伤害时，可以造成1点流血伤害。与其它的流血伤害不同，该法术的流血伤害可以累加，最高达到你施法者等级的一半。（即施法者等级10时可以累加到5点流血伤害）。<\/p>",
-    "source": "PC-RTT"
+    "savingThrow_zh": "无 (无害)",
+    "spellResistance_zh": "不可 (无害)",
+    "text_zh": "<p>法术目标在时效内使用远程武器成功造成穿刺或挥砍伤害时，可以造成1点流血伤害。与其它的流血伤害不同，该法术的流血伤害可以累加，最高达到你施法者等级的一半。（即施法者等级10时可以累加到5点流血伤害）。<\/p>"
 }

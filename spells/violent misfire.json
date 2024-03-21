@@ -1,0 +1,25 @@
+{
+    "key": "violent misfire",
+    "name": "Violent Misfire",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Violent%20Misfire",
+    "source": ["People of the Wastes pg. 29"],
+    "school": "evocation",
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a small piece of flint)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one early or advanced firearm",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "This spell creates a chaotic charge within the black powder loaded in a target firearm. The next time the target weapon fires during this spell’s duration, it automatically misfires. If this misfire causes the firearm to explode, the radius of the explosion is doubled and it deals maximum damage to all creatures in the radius. The firearm’s wielder also takes 1d6 additional points of fire damage per 2 caster levels (maximum 10d6) you have.<br><br> If the target is an advanced firearm, and the firearm misfires a second time in a row while this spell is in effect, it does not explode but still deals the additional damage to the wielder as described.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)"
+}

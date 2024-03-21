@@ -1,12 +1,15 @@
 {
     "key": "recentering drone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/recentering-drone/",
     "name": "Recentering Drone",
-    "book": "Pathfinder Player Companion: Champions of Balance © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Recentering%20Drone",
+    "source": ["Champions of Balance pg. 27"],
     "school": "abjuration",
     "levels":     {
         "cleric": 2,
-        "druid": 2
+        "druid": 2,
+        "hunter": 2,
+        "oracle": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -14,15 +17,14 @@
     "duration": "concentration",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You emit a calming subsonic drone that allows the targets to temporarily refocus and restore their balance when they're suffering from debilitating conditions. A target with the dazzled, fatigued, shaken, or sickened condition ignores the penalties of those conditions for the duration of this spell. A target with one of the following conditions is treated as having the associated lesser condition for the duration of the spell, as shown by the following table.<\/p><table border=\"1\" cellpadding=\"5\">   <thead>    <tr>     <th class=\"text\">Condition<\/th>     <th class=\"text\">Lesser Condition<\/th>    <\/tr>   <\/thead>   <tbody>    <tr>     <td class=\"text\">Blinded<\/td>     <td class=\"text\">Dazzled<\/td>    <\/tr>    <tr>     <td class=\"text\">Exhausted<\/td>     <td class=\"text\">Fatigued<\/td>    <\/tr>    <tr>     <td class=\"text\">Frightened<\/td>     <td class=\"text\">Shaken<\/td>    <\/tr>    <tr>     <td class=\"text\">Nauseated<\/td>     <td class=\"text\">Sickened<\/td>    <\/tr>   <\/tbody>  <\/table><p>At the end of the spell's duration, the targets are again subject to the appropriate penalties if the original conditions affecting the target are still in effect.<\/p><\/div>",
+    "text": "You emit a calming subsonic drone that allows the targets to temporarily refocus and restore their balance when they’re suffering from debilitating conditions. A target with the dazzled, fatigued, shaken, or sickened condition ignores the penalties of those conditions for the duration of this spell. A target with one of the following conditions is treated as having the associated lesser condition for the duration of the spell, as shown by the following table.<br><br> <table class=\"inner\"><tr><td><b>Condition<\/b><\/td><td><b>Lesser Condition<\/b><\/td><\/tr> <tr><td>Blinded<\/td><td>Dazzled<\/td><\/tr> <tr><td>Exhausted<\/td><td>Fatigued<\/td><\/tr> <tr><td>Frightened<\/td><td>Shaken<\/td><\/tr> <tr><td>Nauseated<\/td><td>Sickened<\/td><\/tr><\/table><br> At the end of the spell’s duration, the targets are again subject to the appropriate penalties if the original conditions affecting the target are still in effect.",
     "name_zh": "重定嗡鸣",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一位生物/2等级 (任两者不得相距超过30呎)",
     "duration_zh": "专注",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你发出一阵平稳的次声波嗡鸣声，当目标在衰弱的状态时，令他们要重新聚焦并恢复平衡。有目眩(dazzled)、疲乏(fatigued)、战栗(shaken)或恶心(sickened)状态的目标在法术持续时间内，忽视这些状态的惩罚。有下列状态中一个的目标，在法术持续时间内，也被视为拥有相关联的次级状态，如同下表所示。\n状态\n次级状态\n目盲\n目眩\n力竭\n疲乏\n惊惧\n战栗\n反胃\n恶心\n在法术持续时间结束时，如果目标起始的状态仍然在影响目标的话，那目标会再次受到适当的惩罚。<\/p>",
-    "source": "PC-CoB"
+    "text_zh": "<p>你发出一阵平稳的次声波嗡鸣声，当目标在衰弱的状态时，令他们要重新聚焦并恢复平衡。有目眩(dazzled)、疲乏(fatigued)、战栗(shaken)或恶心(sickened)状态的目标在法术持续时间内，忽视这些状态的惩罚。有下列状态中一个的目标，在法术持续时间内，也被视为拥有相关联的次级状态，如同下表所示。<\/p><p>状态<\/p><p>次级状态<\/p><p>目盲<\/p><p>目眩<\/p><p>力竭<\/p><p>疲乏<\/p><p>惊惧<\/p><p>战栗<\/p><p>反胃<\/p><p>恶心<\/p><p>在法术持续时间结束时，如果目标起始的状态仍然在影响目标的话，那目标会再次受到适当的惩罚。<\/p>"
 }

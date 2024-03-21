@@ -1,23 +1,21 @@
 {
     "key": "fog cloud",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fog-cloud/",
     "name": "Fog Cloud",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fog%20Cloud",
+    "source": ["PRPG Core Rulebook pg. 284"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 2,
         "druid": 2,
+        "hunter": 2,
         "magus": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2,
-        "unchained summoner": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "summoner (unchained)": 2,
+        "witch": 2,
+        "wizard": 2
     },
-    "domains":     {
-        "water": 2,
-        "weather": 2
-    },
-    "elementalSchools": {"water": 2},
-    "mysteries": {"battle": 2},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -25,16 +23,16 @@
     "duration": "10 min./level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A bank of fog billows out from the point you designate. The fog obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker can't use sight to locate the target).<\/p><p>A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.<\/p><p>The spell does not function underwater.<\/p><h3>By the way&#8230;<\/h3><p>The effects created by this spell do not move with a vehicle.<\/p>",
-    "mythicText": "The radius of the fog increases to 50 feet. ",
+    "text": "A bank of fog billows out from the point you designate. The fog obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker can't use sight to locate the target).<br><br>A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.<br><br>The spell does not function underwater.<h2 class=\"title\">Mythic Fog Cloud<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 95<\/i><br>The radius of the fog increases to 50 feet. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the fog’s radius changes to 500 feet, and its height changes to 100 feet. Winds can’t dissipate the fog unless the area of the wind affects the entire area of the augmented <i>mythic fog cloud<\/i>. If you’re at least 6th tier and instead expend three uses of mythic power, the range increases to 1 mile, the fog’s radius changes to 1 mile, and its height changes to 500 feet. The cloud is as resistant to wind as the 3rd-tier augmented version.",
+    "mythicSource": ["Mythic Adventures pg. 95"],
+    "mythicText": "The radius of the fog increases to 50 feet. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the fog’s radius changes to 500 feet, and its height changes to 100 feet. Winds can’t dissipate the fog unless the area of the wind affects the entire area of the augmented <i>mythic fog cloud<\/i>. If you’re at least 6th tier and instead expend three uses of mythic power, the range increases to 1 mile, the fog’s radius changes to 1 mile, and its height changes to 500 feet. The cloud is as resistant to wind as the 3rd-tier augmented version.",
     "name_zh": "云雾术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "半径20尺扩散区域的雾气",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>一团堆积着的雾气从你指定点翻腾着向外涌出。雾气会遮蔽所有5尺以外的视觉，包括黑暗视觉。在5尺以内的生物具有隐蔽 (攻击有20%失手率)。更远的生物具有全隐蔽 (50%失手率，并且攻击者不能用视觉来定位目标)。<\/p><p>常风 (时速超过11英里) 可以在4轮内吹散雾气；强风 (时速超过21英里) 可以在1轮内吹散。<\/p><p>该法术无法在水下生效。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一团堆积着的雾气从你指定点翻腾着向外涌出。雾气会遮蔽所有5尺以外的视觉，包括黑暗视觉。在5尺以内的生物具有隐蔽 (攻击有20%失手率)。更远的生物具有全隐蔽 (50%失手率，并且攻击者不能用视觉来定位目标)。<\/p><p>常风 (时速超过11英里) 可以在4轮内吹散雾气；强风 (时速超过21英里) 可以在1轮内吹散。<\/p><p>该法术无法在水下生效。<\/p>"
 }

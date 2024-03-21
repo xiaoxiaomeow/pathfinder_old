@@ -1,25 +1,29 @@
 {
     "key": "etherealness",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/etherealness/",
     "name": "Etherealness",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Etherealness",
+    "source": ["PRPG Core Rulebook pg. 279"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 9,
+        "arcanist": 9,
+        "cleric": 9,
+        "oracle": 9,
+        "psychic": 8,
         "shaman": 9,
-        "sorcerer/wizard": 9
+        "sorcerer": 9,
+        "wizard": 9
     },
-    "bloodlines": {"ectoplasm": 9},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch; see text",
-    "duration": "1 min./level (d)",
-    "text": "<p>This spell functions like <i>ethereal jaunt<\/i>, except that you and other willing creatures joined by linked hands (along with their equipment) become ethereal. Besides yourself, you can bring one creature per three caster levels to the Ethereal Plane. Once ethereal, the subjects need not stay together.<\/p><p>When the spell expires, all affected creatures on the Ethereal Plane return to material existence.<\/p>",
+    "duration": "1 min./level (D)",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>ethereal jaunt<\/i>, except that you and other willing creatures joined by linked hands (along with their equipment) become ethereal. Besides yourself, you can bring one creature per three caster levels to the Ethereal Plane. Once ethereal, the subjects need not stay together.<br><br>When the spell expires, all affected creatures on the Ethereal Plane return to material existence.",
     "name_zh": "同游灵界",
     "castingTime_zh": "标准动作",
-    "range_zh": "接触; 见后文",
+    "range_zh": "接触; 见文本",
     "target_zh": "自己 以及 每三个等级一个接触到的其他生物",
     "duration_zh": "1分钟/等级 (可解消)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=ethereal jaunt\">幻化灵体 (ethereal jaunt)<\/a>’一般，不过你可与其他自愿生物手牵手，连同他们的装备一起变成灵体。除了自己之外，每三个CL可携带一个生物进入灵界。一旦成为灵体，受术者就无需保持接触。<\/p><p>一旦持续时间结束，所有受影响的生物都会从灵界位面返回主物质位面。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=ethereal jaunt\">幻化灵体 (ethereal jaunt)<\/a>’一般，不过你可与其他自愿生物手牵手，连同他们的装备一起变成灵体。除了自己之外，每三个CL可携带一个生物进入灵界。一旦成为灵体，受术者就无需保持接触。<\/p><p>一旦持续时间结束，所有受影响的生物都会从灵界位面返回主物质位面。<\/p>"
 }

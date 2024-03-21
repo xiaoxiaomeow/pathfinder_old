@@ -1,21 +1,23 @@
 {
     "key": "dahak's release",
-    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak%27s%20Release",
     "name": "Dahak's Release",
-    "book": "Pathfinder Player Companion: Legacy of Dragons © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dahak's%20Release",
+    "source": ["Legacy of Dragons pg. 28"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "draconic",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 5,
         "mesmerist": 5,
         "occultist": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a dried drop of blood)",
@@ -24,7 +26,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You unleash all the target’s anger and destructive urges, causing it to fly into a violent bloodlust. The target attacks creatures as determined by the following table. If a creature is killed or the target is for some reason unable to effectively attack it, roll on the table again to select a new action for the target.<\/p>d%    Behavior 01-25 Target attacks the creature nearest to it. 26-75 Target attacks its nearest ally. 76-100    Target always attacks the last creature to attack it. <p>Beginning on its next turn, the target attacks the subject determined by the chart with a melee weapon, natural weapon, or supernatural ability that deals damage. If necessary, it moves to or charges to the subject in order to make this attack. If it is unable to reach its subject on its next turn, the target uses its turn to get as close as possible to the subject of its bloodlust. The target gains a +2 morale bonus on attack and damage rolls, and cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any abilities that require patience or concentration. This spell is otherwise treated as confusion and rage—any creature immune to confusion or rage is immune to this spell, and any ability or effect that ends confusion or rage (such as calm emotions) can end this spell.<\/p><p>Antipaladins, bloodragers, clerics, and inquisitors who worship Dahak add Dahak’s release to their spell lists as a 4th-level spell.<\/p>",
+    "text": "You unleash all the target’s anger and destructive urges, causing it to fly into a violent bloodlust. The target attacks creatures as determined by the following table. If a creature is killed or the target is for some reason unable to effectively attack it, roll on the table again to select a new action for the target.<br><br><table class=\"inner\"><tr><td><b>d%<\/b><\/td><td><b>Behavior<\/b><\/td><\/tr><tr><td>01-25<\/td><td>Target attacks the creature nearest to it.<\/td><\/tr><tr><td>26-75<\/td> <td>Target attacks its nearest ally.<\/td><\/tr><tr><td>76-100<\/td><td>Target always attacks the last creature to attack it.<\/td><\/tr><\/table><br><br>Beginning on its next turn, the target attacks the subject determined by the chart with a melee weapon, natural weapon, or supernatural ability that deals damage. If necessary, it moves to or charges to the subject in order to make this attack. If it is unable to reach its subject on its next turn, the target uses its turn to get as close as possible to the subject of its bloodlust. The target gains a +2 morale bonus on attack and damage rolls, and cannot use any Charisma-, Dexterity-, or Intelligence-based skills (except Acrobatics, Fly, Intimidate, and Ride) or any abilities that require patience or concentration. This spell is otherwise treated as confusion and rage—any creature immune to confusion or rage is immune to this spell, and any ability or effect that ends confusion or rage (such as <i>calm emotions<\/i>) can end this spell. <br><br>Antipaladins, bloodragers, clerics, and inquisitors who worship Dahak add <i>Dahak’s release<\/i> to their spell lists as a 4th-level spell. ",
     "name_zh": "达哈克的释放",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，材料（一滴干掉的血液）",
@@ -33,6 +35,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>1-25     目标攻击最近的生物。\n26-75   目标攻击最近的盟友。\n76-100 目标总是攻击最后一个攻击他的生物。\n从他的下一个回合开始，目标会用近战武器、天生武器、或造成伤害的超自然能力来攻击由表格确定的目标。如果有必要，他会移向或冲锋向目标来发动攻击。如果他不能在他的下一个回合中靠近目标，目标就会用他的回合来尽可能地接近目标。目标在攻击和伤害骰上获得+2的士气加值，他不能使用任何基于魅力、敏捷或智力的技能（除了杂技、飞行、威吓和骑乘）或任何需要耐心或专注的能力。这种法术在某些方面可以被认为是困惑术和狂暴术的结合，任何免疫于困惑术或狂暴术的生物都不受这个法术的影响，任何会结束困惑术或狂暴术的能力或效果（如安定心神）都可以结束这个法术。\n崇拜达哈克的反圣武士、血脉狂怒者、牧师和审判者可以将达哈克的释放作为一个4级法术加入到他们的法术列表中。<\/p>",
-    "source": "PC-LoD"
+    "text_zh": "<p>1-25     目标攻击最近的生物。<\/p><p>26-75   目标攻击最近的盟友。<\/p><p>76-100 目标总是攻击最后一个攻击他的生物。<\/p><p>从他的下一个回合开始，目标会用近战武器、天生武器、或造成伤害的超自然能力来攻击由表格确定的目标。如果有必要，他会移向或冲锋向目标来发动攻击。如果他不能在他的下一个回合中靠近目标，目标就会用他的回合来尽可能地接近目标。目标在攻击和伤害骰上获得+2的士气加值，他不能使用任何基于魅力、敏捷或智力的技能（除了杂技、飞行、威吓和骑乘）或任何需要耐心或专注的能力。这种法术在某些方面可以被认为是困惑术和狂暴术的结合，任何免疫于困惑术或狂暴术的生物都不受这个法术的影响，任何会结束困惑术或狂暴术的能力或效果（如安定心神）都可以结束这个法术。<\/p><p>崇拜达哈克的反圣武士、血脉狂怒者、牧师和审判者可以将达哈克的释放作为一个4级法术加入到他们的法术列表中。<\/p>"
 }

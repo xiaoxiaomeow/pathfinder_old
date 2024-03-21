@@ -1,22 +1,24 @@
 {
     "key": "targeted bomb admixture",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/targeted-bomb-admixture/",
     "name": "Targeted Bomb Admixture",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Targeted%20Bomb%20Admixture",
+    "source": ["Ultimate Combat pg. 246"],
     "school": "transmutation",
-    "levels": {"alchemist": 1},
+    "levels":     {
+        "alchemist": 1,
+        "investigator": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all bombs you create and throw during this extract's duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (formula with the word “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.<\/p><p>When you throw bombs, they can only hit a direct target; they do not splash. However, the bomb deals its base damage plus double your Intelligence modifier instead of just its base damage plus your Intelligence modifier.<\/p>",
+    "text": "Upon drinking an extract created with this formula, you make a significant change to your magical reserve that modifies the nature of all bombs you create and throw during this extract’s duration. This effect on your magical reserve has no effect on any discoveries that you use to modify your bombs, but you can only have one admixture effect (formula with the word “bomb admixture” in its title) active at a time. If you drink another bomb admixture, the effects of the former bomb admixture end and the new one becomes active.<br><br>When you throw bombs, they can only hit a direct target; they do not splash. However, the bomb deals its base damage plus double your Intelligence modifier instead of just its base damage plus your Intelligence modifier.",
     "name_zh": "精确炸弹添加剂",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>持续时间    1轮/等级<\/p><p>通过饮用这个公式制作的化合炼成，使你注入炸弹的魔法产生显著变化，在该化合炼成的持续时间内制造并投掷的所有普通炼金炸弹的基本性质均被改变。该效果对任何用于改变炸弹性质的科研发现没有影响，而且同一时间你只能拥有一种添加剂效果 (名称中带有“炸弹添加剂”的公式)。如果你饮用另一剂炸弹添加剂，那么之前生效的炸弹添加剂效果结束，新获得的效果生效。<\/p><p>当你投掷炸弹时，它只会攻击直接命中的目标；不会造成溅射伤害。不过炸弹造成的伤害为基础伤害加上你的智力调整值的双倍加值，而非原本的基本伤害加上你的智力调整值。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    1轮/等级<\/p><p>通过饮用这个公式制作的化合炼成，使你注入炸弹的魔法产生显著变化，在该化合炼成的持续时间内制造并投掷的所有普通炼金炸弹的基本性质均被改变。该效果对任何用于改变炸弹性质的科研发现没有影响，而且同一时间你只能拥有一种添加剂效果 (名称中带有“炸弹添加剂”的公式)。如果你饮用另一剂炸弹添加剂，那么之前生效的炸弹添加剂效果结束，新获得的效果生效。<\/p><p>当你投掷炸弹时，它只会攻击直接命中的目标；不会造成溅射伤害。不过炸弹造成的伤害为基础伤害加上你的智力调整值的双倍加值，而非原本的基本伤害加上你的智力调整值。<\/p>"
 }

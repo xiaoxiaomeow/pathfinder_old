@@ -1,20 +1,18 @@
 {
     "key": "ray of enfeeblement",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/ray-of-enfeeblement/",
     "name": "Ray of Enfeeblement",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ray%20of%20Enfeeblement",
+    "source": ["PRPG Core Rulebook pg. 329"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "magus": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "mesmerist": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
-    "bloodlines":     {
-        "accursed": 1,
-        "daemon": 1,
-        "ghoul": 1
-    },
-    "mysteries": {"spellscar": 1},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -22,15 +20,16 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude half",
     "spellResistance": "yes",
-    "text": "<p>A coruscating ray springs from your hand. You must succeed on a ranged touch attack to strike a target. The subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject's Strength score cannot drop below 1. A successful Fortitude save reduces this penalty by half. This penalty does not stack with itself. Apply the highest penalty instead.<\/p>",
+    "text": "A coruscating ray springs from your hand. You must succeed on a ranged touch attack to strike a target. The subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject's Strength score cannot drop below 1. A successful Fortitude save reduces this penalty by half. This penalty does not stack with itself. Apply the highest penalty instead.<h2 class=\"title\">Mythic Ray of Enfeeblement<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 105<\/i><br>The Strength penalty increases to 1d8 + 1 per 2 caster levels (maximum +10). If the target fails its save, it’s fatigued. ",
+    "mythicSource": ["Mythic Adventures pg. 105"],
+    "mythicText": "The Strength penalty increases to 1d8 + 1 per 2 caster levels (maximum +10). If the target fails its save, it’s fatigued. ",
     "name_zh": "衰弱射线",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "射线",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧, 通过则减半",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一条闪烁的射线从你的手中射出。你必须成功进行一次远程接触攻击以击中目标。目标受到 {1d6+每2CL 1} (最多1d6+5) 点的力量减值。目标的力量属性不能降低到1点以下。成功的强韧豁免会使减值减半。这个减值自身不会叠加。产生多个减值时，将最高的减值应用至目标身上。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>一条闪烁的射线从你的手中射出。你必须成功进行一次远程接触攻击以击中目标。目标受到 {1d6+每2CL 1} (最多1d6+5) 点的力量减值。目标的力量属性不能降低到1点以下。成功的强韧豁免会使减值减半。这个减值自身不会叠加。产生多个减值时，将最高的减值应用至目标身上。<\/p>"
 }

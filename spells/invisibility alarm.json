@@ -1,21 +1,36 @@
 {
     "key": "invisibility alarm",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/invisibility-alarm/",
     "name": "Invisibility Alarm",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invisibility%20Alarm",
+    "source": ["Advanced Class Guide pg. 185"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 1,
+        "arcanist": 1,
         "bard": 1,
+        "hunter": 1,
         "inquisitor": 1,
+        "investigator": 1,
         "psychic": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
-    "duration": "10 min.s/level",
-    "text": "<p>This spell functions as alarm, except it is triggered only by invisible creatures entering or leaving the warded area. The spell has a different mental alarm depending on whether the invisible creature is entering or leaving the area. This spell does not aid you in sensing or pinpointing the location of an invisible creature within the spell's area.<\/p><p><i>Invisibility alarm<\/i> can be made permanent with a permanency spell by a caster of 9th level or higher at a cost of 2,500 gp.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (a tiny bell and a piece of very fine silver wire)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "20-ft.-radius emanation centered on a point in space",
+    "duration": "10 minutes/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>alarm<\/i>, except it is triggered only by invisible creatures entering or leaving the warded area. The spell has a different mental alarm depending on whether the invisible creature is entering or leaving the area. This spell does not aid you in sensing or pinpointing the location of an invisible creature within the spell’s area.<br><br> <i>Invisibility alarm<\/i> can be made permanent with a <i>permanency <\/i>spell by a caster of 9th level or higher at a cost of 2,500 gp.",
     "name_zh": "反隐警报",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "以空间中的一点为中心, 20尺半径发散区域",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>该法术的功能如同魔法警报（Alarm）一般，不过只有在隐形生物（invisible creatures）进入或离开被守护的区域时才会被触发。隐形生物进入和离开区域时，该法术会产生不同的精神警报。该法术不能帮助你在法术区域内感知或精确定位隐形生物。\n反隐警报可以被魔法恒定术（permanency）恒定。这需要9级或更高等级的施法者，并且花费2500gp。<\/p>",
-    "source": "ACG"
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同魔法警报（Alarm）一般，不过只有在隐形生物（invisible creatures）进入或离开被守护的区域时才会被触发。隐形生物进入和离开区域时，该法术会产生不同的精神警报。该法术不能帮助你在法术区域内感知或精确定位隐形生物。<\/p><p>反隐警报可以被魔法恒定术（permanency）恒定。这需要9级或更高等级的施法者，并且花费2500gp。<\/p>"
 }

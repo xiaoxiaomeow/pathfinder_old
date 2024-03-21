@@ -1,24 +1,19 @@
 {
     "key": "control weather",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/control-weather/",
     "name": "Control Weather",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Control%20Weather",
+    "source": ["PRPG Core Rulebook pg. 261"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 7,
+        "arcanist": 7,
+        "cleric": 7,
         "druid": 7,
+        "oracle": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
-        "witch": 7
+        "sorcerer": 7,
+        "witch": 7,
+        "wizard": 7
     },
-    "domains": {"weather": 7},
-    "subdomains": {"catastrophe": 7},
-    "elementalSchools":     {
-        "air": 7,
-        "water": 7,
-        "wood": 7
-    },
-    "mysteries": {"battle": 7},
     "castingTime": "10 minutes; see text",
     "components": "V, S",
     "range": "2 miles",
@@ -26,16 +21,16 @@
     "duration": "4d12 hours; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Season<\/th><th class=\"text\">Possible Weather<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">Spring<\/td><td class=\"text\">Tornado, thunderstorm, sleet storm, or hot weather<\/td><\/tr><tr><td class=\"text\">Summer<\/td><td class=\"text\">Torrential rain, heat wave, or hailstorm<\/td><\/tr><tr><td class=\"text\">Autumn<\/td><td class=\"text\">Hot or cold weather, fog, or sleet<\/td><\/tr><tr><td class=\"text\">Winter<\/td><td class=\"text\">Frigid cold, blizzard, or thaw<\/td><\/tr><tr><td class=\"text\">Late winter<\/td><td class=\"text\">Hurricane-force winds or early spring<\/td><\/tr><\/tbody><\/table><p>You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. You can call forth weather appropriate to the climate and season of the area you are in. You can also use this spell to cause the weather in the area to become calm and normal for the season.<\/p><p>You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot control specific applications of the weather&#8211;where lightning strikes, for example, or the exact path of a tornado. The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory conditions are not possible simultaneously.<\/p><p><i>Control weather<\/i> can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them.<\/p><p>A druid casting this spell doubles the duration and affects a circle with a 3-mile radius.<\/p>",
-    "mythicText": "The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 – your tier. <br><p style=\"margin-left: 20px\"><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, you can create weather of any type regardless of the season, and the weather changes after 1 round. ",
+    "text": "You change the weather in the local area. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest. You can call forth weather appropriate to the climate and season of the area you are in. You can also use this spell to cause the weather in the area to become calm and normal for the season.<br><br><table class=\"inner\"><tr><td><b>Season<\/b><\/td><td><b>Possible Weather<\/b><\/td><\/tr><tr><td>Spring<\/td><td>Tornado, thunderstorm, sleet storm, or hot weather<\/td><\/tr><tr><td>Summer<\/td><td>Torrential rain, heat wave, or hailstorm<\/td><\/tr><tr><td>Autumn<\/td><td>Hot or cold weather, fog, or sleet<\/td><\/tr><tr><td>Winter<\/td><td>Frigid cold, blizzard, or thaw<\/td><\/tr><tr><td>Late winter<\/td><td>Hurricane-force winds or early spring<\/td><\/tr><\/table><br>You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot control specific applications of the weather—where lightning strikes, for example, or the exact path of a tornado. The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory conditions are not possible simultaneously.<br><br><i>Control weather<\/i> can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them.<br><br>A druid casting this spell doubles the duration and affects a circle with a 3-mile radius.<h2 class=\"title\">Mythic Control Weather<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 89<\/i><br>The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 – your tier.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, you can create weather of any type regardless of the season, and the weather changes after 1 round.",
+    "mythicSource": ["Mythic Adventures pg. 89"],
+    "mythicText": "The casting time changes to 1 standard action, and the duration doubles. The weather changes after a number of rounds equal to 11 – your tier.<br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, you can create weather of any type regardless of the season, and the weather changes after 1 round.",
     "name_zh": "操控天气",
-    "castingTime_zh": "10分钟; 见后文",
+    "castingTime_zh": "10分钟; 见文本",
     "components_zh": "语言, 姿势",
-    "range_zh": "2英里",
-    "area_zh": "以你为中心, 半径2英里的圆形区域; 见后文",
-    "duration_zh": "4d12小时; 见后文",
+    "range_zh": "2里",
+    "area_zh": "以你为中心, 半径2英里的圆形区域; 见文本",
+    "duration_zh": "4d12小时; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你可以改变当地的天气。你要花费10分钟的时间来施法，然后等待10分钟法术就会生效。你可以呼唤出与当地气候、季节相符合的天气出来。你还能够使用该法术来使当地的天气变得平静，使之适合相应的季节。\n季节\n 可能出现的天气\n春季\n 龙卷风, 雷暴, 雪风暴或热天气\n夏季\n 暴雨, 热浪或冰雹\n秋季\n 冷或热天气, 雾或雨夹雪\n冬季\n 严寒, 暴风雪或回暖\n晚冬\n 飓风或早春<\/p><p>你能控制天气的大致趋向，例如风的方向和强度。但你不能控制天气的特定细节——例如闪电在哪里劈落，龙卷风沿途路径等等。在持续时间内，天气都会按照你所选择种类的持续下去，或者直至你使用标准动作改为另一种新的天气 (这种变化会在10分钟后充分体现出来)。情况完全相反的天气不可能同时存在。<\/p><p>操纵天气还可以消除天气状态 (自然或非自然的)，就如同它能够制造天气一样。<\/p><p>若由德鲁伊施放该法术，则持续时间翻倍，影响区域半径也增加至3英里。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以改变当地的天气。你要花费10分钟的时间来施法，然后等待10分钟法术就会生效。你可以呼唤出与当地气候、季节相符合的天气出来。你还能够使用该法术来使当地的天气变得平静，使之适合相应的季节。<\/p><p>季节 可能出现的天气<\/p><p>春季 龙卷风, 雷暴, 雪风暴或热天气<\/p><p>夏季 暴雨, 热浪或冰雹<\/p><p>秋季 冷或热天气, 雾或雨夹雪<\/p><p>冬季 严寒, 暴风雪或回暖<\/p><p>晚冬 飓风或早春<\/p><p>你能控制天气的大致趋向，例如风的方向和强度。但你不能控制天气的特定细节——例如闪电在哪里劈落，龙卷风沿途路径等等。在持续时间内，天气都会按照你所选择种类的持续下去，或者直至你使用标准动作改为另一种新的天气 (这种变化会在10分钟后充分体现出来)。情况完全相反的天气不可能同时存在。<\/p><p>操纵天气还可以消除天气状态 (自然或非自然的)，就如同它能够制造天气一样。<\/p><p>若由德鲁伊施放该法术，则持续时间翻倍，影响区域半径也增加至3英里。<\/p>"
 }

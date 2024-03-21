@@ -1,0 +1,29 @@
+{
+    "key": "debilitating speech",
+    "name": "Debilitating Speech",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Debilitating%20Speech",
+    "source": ["Disciple's Doctrine pg. 10"],
+    "school": "enchantment",
+    "descriptors":     [
+        "language-dependent",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 4,
+        "sorcerer": 4,
+        "wizard": 4
+    },
+    "castingTime": "see below",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "By speaking eloquently on the subject of your opponents’ ineptitude in combat, past failures, personal hygiene, or other faults, you sap their will to fight.<br><br> This spell can be cast as a standard action or as a full-round action. If cast as a standard action, it takes effect in 1d4 rounds following the spell’s casting. If cast as a full-round action, it takes effect 1 round after its casting. Enemies with 4 Hit Dice or fewer are panicked, enemies with 5–8 Hit Dice are cowering, and enemies with more than 8 Hit Dice are shaken.",
+    "castingTime_zh": "见文本",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

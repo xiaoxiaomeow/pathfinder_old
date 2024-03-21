@@ -1,0 +1,30 @@
+{
+    "key": "blacklight",
+    "name": "Blacklight",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blacklight",
+    "source": ["Pathfinder Campaign Setting pg. 206"],
+    "school": "evocation",
+    "descriptors": ["darkness"],
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "20-ft.-radius emanation",
+    "duration": "1 round/level (D)",
+    "savingThrow": "Will negates or none (object)",
+    "spellResistance": "yes or no (object)",
+    "text": "You create an area of total darkness. The darkness is impenetrable even to darkvision, but you can see normally within it. Creatures outside the spell’s area, even you, cannot see through it.<br><br>You can cast the spell on a point in space, but the effect is stationary unless cast on a mobile object. You can cast the spell on a creature, and the effect then radiates from the creature and moves as it moves. Unattended objects and points in space do not get saving throws or benefit from spell resistance. <i>Blacklight<\/i> counters or dispels any light spell of equal or lower level. <i>Daylight<\/i> counters or dispels <i>blacklight<\/i>.",
+    "name_zh": "黯光术",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺发散区域",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 或 无 (物体)",
+    "spellResistance_zh": "有 或 无 (物体)",
+    "text_zh": "<p>你创造了一处完全黑暗的区域。甚至连黑暗视觉都无法看穿这漆黑，但你在内部能正常视物。在法术区域范围外的生物，就算是你，都无法看穿这漆黑。<\/p><p>你可以对空间中的一个点施放此法术，但除非你施放在一件会移动的物体上，不然效果保持静止。你能将此法术施放在一名生物身上，然后法术效果从生物身上开始辐射，并且会随着生物移动而移动。无主之物以及空间中的一个点无法进行豁免检定，也不会受益于法术抗力。黯光能反制或解除任何与它同环或较它低环的光亮法术。昼明术能反制或解除黯光术。<\/p>"
+}

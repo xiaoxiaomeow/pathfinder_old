@@ -1,8 +1,11 @@
 {
     "key": "nature's paths",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-paths/",
     "name": "Nature's Paths",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nature's%20Paths",
+    "source":     [
+        "Villain Codex pg. 164",
+        "Heroes of the Wild pg. 31"
+    ],
     "school": "divination",
     "levels":     {
         "bard": 1,
@@ -17,18 +20,17 @@
     "components": "V, S, M/DF (a smooth stone)",
     "range": "touch",
     "target": "one creature",
-    "duration": "8 hours (d)",
+    "duration": "8 hours (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target instinctively knows the shortest, easiest, and fastest way through the wilderness. For the purpose of determining overland speed, the target treats any trackless terrain as though there were a trail or road, and any terrain with a road or trail as though there were a highway. Up to one creature per caster level traveling with the target can also benefit from the effect. The spell functions only outdoors and does not function in magically altered terrain.<\/p>",
+    "text": "The target instinctively knows the shortest, easiest, and fastest way through the wilderness. For the purpose of determining overland speed, the target treats any trackless terrain as though there were a trail or road, and any terrain with a road or trail as though there were a highway (<i>Pathfinder RPG Core Rulebook<\/i> 171—172). Up to one creature per caster level traveling with the target can also benefit from the effect. The spell functions only outdoors and does not function in magically altered terrain.",
     "name_zh": "自然之路",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一颗光滑的石头)",
     "range_zh": "接触",
     "target_zh": "一个生物",
-    "duration_zh": "八小时 (D)",
+    "duration_zh": "8小时 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标本能的知晓通过旷野最短的、最简单的与最快的路。在确定在路上的速度，目标是任何荒野(trackless)的地形，视为有道路或小径(trail or road)，并且在任何有道路或小径的地形视为在该处有公路(highway，Pathfinder RPG Core Rulebook 171—172)。每施法者等级可以多一个生物与目标一起旅行，并且受益于此法术。这法术只会在室外起效，并且在被魔法所改变的地形中不会生效。\n译注：此法术同样出现于Heroes of the Wild P.31，而在本书中新增了“(Pathfinder RPG Core Rulebook 171—172)这句话”，其于则完全相同。<\/p>",
-    "source": "VC"
+    "text_zh": "<p>目标本能的知晓通过旷野最短的、最简单的与最快的路。在确定在路上的速度，目标是任何荒野(trackless)的地形，视为有道路或小径(trail or road)，并且在任何有道路或小径的地形视为在该处有公路(highway，Pathfinder RPG Core Rulebook 171—172)。每施法者等级可以多一个生物与目标一起旅行，并且受益于此法术。这法术只会在室外起效，并且在被魔法所改变的地形中不会生效。<\/p><p>译注：此法术同样出现于Heroes of the Wild P.31，而在本书中新增了“(Pathfinder RPG Core Rulebook 171—172)这句话”，其于则完全相同。<\/p>"
 }

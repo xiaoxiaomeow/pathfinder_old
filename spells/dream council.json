@@ -1,17 +1,20 @@
 {
     "key": "dream council",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-council/",
     "name": "Dream Council",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dream%20Council",
+    "source": ["Occult Adventures pg. 165"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 7,
         "bard": 6,
         "medium": 4,
         "mesmerist": 5,
         "psychic": 6,
-        "sorcerer/wizard": 7
+        "skald": 6,
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,15 +23,14 @@
     "duration": "see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as dream, but you and the target of your dream can converse in a limited fashion as long as the recipient is also asleep. You can send or receive a number of dream messages equal to your caster level. Each message can be up to 25 words long or a single vague image that can't convey fine details such as words. You can send and receive these dream messages with a single target or multiple targets, but each message you send or receive counts against the total number of messages allowed. Sending a message takes 1 round. The spell ends and you wake up when you run out of messages.<\/p><p>If you use dream council to send a message to a sleeping creature that has dream or dream council prepared (or is able to cast it spontaneously or as a spell-like ability), the recipient can expend one of your allotted messages to cast that spell while remaining asleep. This uses up that creature's prepared spell, spell per day, or spell-like ability use as normal. Instead of replying to your message, that character is able to enter your dreamscape. If the sleeping recipient has the Lucid Dreamer feat, it can enter your dreamscape without casting either of those spells. While in the original caster's dreamscape, those involved in the council can interact with one another and that dreamscape for 10 minutes for each message remaining. When that time elapses, the spell ends.<\/p>",
+    "text": "This spell functions as <i>dream<\/i>, but you and the target of your <i>dream<\/i> can converse in a limited fashion as long as the recipient is also asleep. You can send or receive a number of dream messages equal to your caster level. Each message can be up to 25 words long or a single vague image that can’t convey fine details such as words. You can send and receive these dream messages with a single target or multiple targets, but each message you send or receive counts against the total number of messages allowed. Sending a message takes 1 round. The spell ends and you wake up when you run out of messages.<br><br>If you use <i>dream council<\/i> to send a message to a sleeping creature that has <i>dream<\/i> or <i>dream council<\/i> prepared (or is able to cast it spontaneously or as a spell-like ability), the recipient can expend one of your allotted messages to cast that spell while remaining asleep. This uses up that creature’s prepared spell, spell per day, or spell-like ability use as normal. Instead of replying to your message, that character is able to enter your dreamscape. If the sleeping recipient has the Lucid Dreamer feat, it can enter your dreamscape without casting either of those spells. While in the original caster’s dreamscape, those involved in the council can interact with one another and that dreamscape for 10 minutes for each message remaining. When that time elapses, the spell ends.",
     "name_zh": "梦境会议",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "无限",
     "target_zh": "一个或更多个活物",
-    "duration_zh": "见后文",
+    "duration_zh": "见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能如同托梦术（Dream）一般，不过只要受术者也在睡眠之中，你和你的托梦术的目标就能够以受限的方式进行交谈。你能够发出或接收到一定量的梦之讯息，数量等同于你的施法者等级。每条讯息至多有25个字（words）的长度，或者也可以是单幅模糊图像，这个图像中不能包含具体的细节（比如文字）。你能够向单个目标或多个目标发送或接收这些梦之讯息，但是每条你所发出或接收的讯息都会被计入到可以发送的梦之讯息的总数之内。发送一条讯息费时1轮。当你用完可以使用的讯息数量后，该法术结束，而且你也会醒来。\n若你使用梦境会议向着已经睡着、且当日准备了托梦术或梦境会议的生物（或者可以自发施放或以类法术能力施放上述法术），那么接受者能够花费一条你的可用讯息，并以此在睡梦中施放上述法术。这么使用会如常耗费该生物已准备的法术、每日法术位或者类法术能力。作为回覆讯息的替代，该名角色能够进入你的梦境（dreamscape）。若正处于睡眠中的讯息接受者具有寻梦师（Lucid Dreamer）专长，那么它就可以在不使用上述法术的前提下进入你的梦境。在最初的施法者的梦境中，这些梦境会议的参加者能够相互交流，这片梦境的持续时间为每条剩余讯息数量持续10分钟。当这些时间耗尽之时，该法术结束。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>该法术的功能如同托梦术（Dream）一般，不过只要受术者也在睡眠之中，你和你的托梦术的目标就能够以受限的方式进行交谈。你能够发出或接收到一定量的梦之讯息，数量等同于你的施法者等级。每条讯息至多有25个字（words）的长度，或者也可以是单幅模糊图像，这个图像中不能包含具体的细节（比如文字）。你能够向单个目标或多个目标发送或接收这些梦之讯息，但是每条你所发出或接收的讯息都会被计入到可以发送的梦之讯息的总数之内。发送一条讯息费时1轮。当你用完可以使用的讯息数量后，该法术结束，而且你也会醒来。<\/p><p>若你使用梦境会议向着已经睡着、且当日准备了托梦术或梦境会议的生物（或者可以自发施放或以类法术能力施放上述法术），那么接受者能够花费一条你的可用讯息，并以此在睡梦中施放上述法术。这么使用会如常耗费该生物已准备的法术、每日法术位或者类法术能力。作为回覆讯息的替代，该名角色能够进入你的梦境（dreamscape）。若正处于睡眠中的讯息接受者具有寻梦师（Lucid Dreamer）专长，那么它就可以在不使用上述法术的前提下进入你的梦境。在最初的施法者的梦境中，这些梦境会议的参加者能够相互交流，这片梦境的持续时间为每条剩余讯息数量持续10分钟。当这些时间耗尽之时，该法术结束。<\/p>"
 }

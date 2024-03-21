@@ -1,22 +1,25 @@
 {
     "key": "bow spirit",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bow-spirit/",
     "name": "Bow Spirit",
-    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bow%20Spirit",
+    "source": ["Advanced Player's Guide pg. 207"],
     "school": "conjuration",
-    "subSchool": ["creation"],
-    "levels": {"ranger": 4},
+    "subSchools": ["creation"],
+    "levels":     {
+        "hunter": 4,
+        "ranger": 4
+    },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
+    "target": "you",
     "duration": "1 round/level",
-    "text": "<p>A <i>bow spirit<\/i> is a shapeless force that hovers about you, taking ammunition from your quiver and firing it. For as long as the <i>bow spirit<\/i> lasts, you can spend a swift action to direct the <i>bow spirit<\/i> to fire an arrow or a bolt at a target of your choice, as if the <i>bow spirit<\/i> were firing the necessary ranged weapon. The <i>bow spirit<\/i> uses your base attack bonus plus your Dexterity modifier, as well as any bonuses and effects from feats you have that affect ranged attacks, or bonuses from the ammunition it uses.<\/p><p>A <i>bow spirit<\/i>&#8216;s attacks do not provoke attacks of opportunity.<\/p><p>There must be ammunition available for the <i>bow spirit<\/i> to use, and it expends ammunition as if used by you.<\/p><p>A <i>bow spirit<\/i> occupies your space, and moves with you.<\/p><p>It cannot be attacked or harmed by physical attacks, but <i>dispel magic<\/i>, <i>disintegrate<\/i>, <i>a sphere of annihilation<\/i>, or a <i>rod of cancellation<\/i> affects it. A <i>bow spirit<\/i>&#8216;s AC against touch attacks is 10 + your Dexterity modifier.<\/p>",
+    "text": "A <i>bow spirit <\/i>is a shapeless force that hovers about you, taking ammunition from your quiver and firing it. For as long as the <i>bow spirit <\/i>lasts, you can spend a swift action to direct the <i>bow spirit <\/i>to fire an arrow or a bolt at a target of your choice, as if the<i> bow spirit <\/i>were firing the necessary ranged weapon. The <i>bow spirit <\/i>uses your base attack bonus plus your Dexterity modifier, as well as any bonuses and effects from feats you have that affect ranged attacks, or bonuses from the ammunition it uses. A <i>bow spirit’s <\/i>attacks do not provoke attacks of opportunity. There must be ammunition available for the <i>bow spirit <\/i>to use, and it expends ammunition as if used by you. <br><br>A <i>bow spirit <\/i>occupies your space, and moves with you. It cannot be attacked or harmed by physical attacks, but <i>dispel magic<\/i>, <i>disintegrate<\/i>, a <i>sphere of annihilation<\/i>, or a <i>rod of cancellation <\/i>affects it. A <i>bow spirit’s <\/i>AC against touch attacks is 10 + your Dexterity modifier.",
     "name_zh": "弓之精魂",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>弓之精魂为徘徊在你身边的无形力量，从你的箭袋中取出弹药并进行射击。只要弓之精魂还存在着，你就可以消耗迅捷动作指挥弓之精魂对你所选择的目标射出箭矢或弩矢，就如同弓之精魂使用必要的远程武器射击一样。弓之精魂使用你的基本攻击加值加上你的敏捷调整值，以及任何你所拥有并影响远程攻击的专长所带来的加值与效果，还有它所使用的弹药带来的加值。弓之精魂的攻击不会引起藉机攻击。必须有可供弓之精魂所用的弹药才能攻击，它所消耗的弹药就如同被你自身消耗一般。<\/p><p>弓之精魂存在于你所处的空间，并且与你一同移动。他不会被物理攻击击中或伤害，但是解除魔法 (dispel magic)，解离术 (disintegrate)，消抹权杖 (rod of cancellation) 或者毁灭黑洞 (sphere of annihilation) 能够影响它。弓之精魂对抗接触攻击的AC为10 + 你的敏捷调整值。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>弓之精魂为徘徊在你身边的无形力量，从你的箭袋中取出弹药并进行射击。只要弓之精魂还存在着，你就可以消耗迅捷动作指挥弓之精魂对你所选择的目标射出箭矢或弩矢，就如同弓之精魂使用必要的远程武器射击一样。弓之精魂使用你的基本攻击加值加上你的敏捷调整值，以及任何你所拥有并影响远程攻击的专长所带来的加值与效果，还有它所使用的弹药带来的加值。弓之精魂的攻击不会引起藉机攻击。必须有可供弓之精魂所用的弹药才能攻击，它所消耗的弹药就如同被你自身消耗一般。<\/p><p>弓之精魂存在于你所处的空间，并且与你一同移动。他不会被物理攻击击中或伤害，但是解除魔法 (dispel magic)，解离术 (disintegrate)，消抹权杖 (rod of cancellation) 或者毁灭黑洞 (sphere of annihilation) 能够影响它。弓之精魂对抗接触攻击的AC为10 + 你的敏捷调整值。<\/p>"
 }

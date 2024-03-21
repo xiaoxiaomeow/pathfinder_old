@@ -1,23 +1,30 @@
 {
     "key": "false vision",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/false-vision/",
     "name": "False Vision",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=False%20Vision",
+    "source": ["PRPG Core Rulebook pg. 280"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
-        "sorcerer/wizard": 5
+        "medium": 4,
+        "mesmerist": 5,
+        "occultist": 5,
+        "psychic": 5,
+        "skald": 5,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "wizard": 5
     },
-    "domains": {"trickery": 5},
-    "mysteries": {"streets": 5},
     "castingTime": "1 standard action",
     "components": "V, S, M (crushed jade worth 250 gp)",
     "range": "touch",
     "area": "40-ft.-radius emanation",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell creates a subtle illusion, causing any divination (scrying) spell used to view anything within the area of this spell to instead receive a false image (as the major image spell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren't concentrating, the image remains static.<\/p>",
+    "text": "This spell creates a subtle illusion, causing any divination (scrying) spell used to view anything within the area of this spell to instead receive a false image (as the <i>major image<\/i> spell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren't concentrating, the image remains static.",
     "name_zh": "虚假景象",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (价值250gp的碎翡翠)",
@@ -26,6 +33,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术会创造出精制的幻象，这使得用于观看该法术区域中事物的任何预言系 (探知) 法术都会观察到一个虚假幻象，这个虚假幻象如同‘<a href=\"spell.html?spell=major image\">强效幻影 (major image)<\/a>’一般，幻象的内容由你在施法时决定。只要法术的持续时间还未结束，你就能够进行专注来按照自身意愿改变幻象。若你没有保持专注，那么幻象会保持静止。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会创造出精制的幻象，这使得用于观看该法术区域中事物的任何预言系 (探知) 法术都会观察到一个虚假幻象，这个虚假幻象如同‘<a href=\"spell.html?spell=major image\">强效幻影 (major image)<\/a>’一般，幻象的内容由你在施法时决定。只要法术的持续时间还未结束，你就能够进行专注来按照自身意愿改变幻象。若你没有保持专注，那么幻象会保持静止。<\/p>"
 }

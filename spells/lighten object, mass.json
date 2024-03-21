@@ -1,22 +1,38 @@
 {
     "key": "lighten object, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lighten-object/",
     "name": "Lighten Object, Mass",
-    "base": "lighten object",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lighten%20Object,%20Mass",
+    "source":     [
+        "Inner Sea Gods pg. 236",
+        "Faiths of Balance pg. 28"
+    ],
     "school": "transmutation",
+    "race": "Gorum",
     "levels":     {
+        "arcanist": 5,
         "cleric": 5,
         "magus": 5,
-        "sorcerer/wizard": 5,
-        "summoner": 5
+        "oracle": 5,
+        "sorcerer": 5,
+        "summoner": 5,
+        "summoner (unchained)": 5,
+        "warpriest": 5,
+        "wizard": 5
     },
-    "duration": "10 min.s/level",
-    "text": "<p>This spell functions like <i>lighten object<\/i>, except that it affects a number of objects equal to half your caster level.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, M (goose down)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "10 minutes/level",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "This spell functions like <i>lighten object<\/i>, except that it affects a number of objects equal to half your caster level.",
     "name_zh": "群体物品轻量",
     "race_zh": "古拉姆",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "多件物品或1立方尺物体/等级，这些物品之间相距不能超过30尺。",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>该法术的功能如同物品轻量（Lighten Object）一般，不过该法术可以影响的物品数量等同于你施法者等级的一半。<\/p>",
-    "source": "CS-ISG"
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>该法术的功能如同物品轻量（Lighten Object）一般，不过该法术可以影响的物品数量等同于你施法者等级的一半。<\/p>"
 }

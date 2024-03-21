@@ -1,8 +1,8 @@
 {
     "key": "wave form",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wave-form-2/",
     "name": "Wave Form",
-    "book": "Pathfinder Campaign Setting: Aquatic Adventures © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wave%20Form",
+    "source": ["Aquatic Adventures pg. 61"],
     "school": "transmutation",
     "descriptors": ["water"],
     "levels":     {
@@ -23,14 +23,13 @@
     "target": "you",
     "duration": "instantaneous",
     "savingThrow": "see text",
-    "text": "<p class=\"description\">You transform into a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and then surge forth in a straight line in the direction of your choice, moving up to twice your base movement speed before immediately returning to your normal form. This movement does not provoke attacks of opportunity. While in wave form, you are immune to weapon attacks and attacks that target a specific number of creatures (since the spell is instantaneous, this is mainly relevant for readied actions and the like). All creatures and unattended objects in your path take 4d6 points of bludgeoning damage and are knocked prone. A successful Reflex save prevents a creature from being knocked prone.<\/p>",
+    "text": "You transform into a wave of frothing water up to 15 feet wide and 15 feet tall, as space permits, and then surge forth in a straight line in the direction of your choice, moving up to twice your base movement speed before immediately returning to your normal form. This movement does not provoke attacks of opportunity. While in wave form, you are immune to weapon attacks and attacks that target a specific number of creatures (since the spell is instantaneous, this is mainly relevant for readied actions and the like). All creatures and unattended objects in your path take 4d6 points of bludgeoning damage and are knocked prone. A successful Reflex save prevents a creature from being knocked prone.",
     "name_zh": "波涛形态",
     "race_zh": "水",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "duration_zh": "立即",
-    "savingThrow_zh": "见描述",
-    "text_zh": "<p>只要空间允许，你就能转化成一道最高15呎最宽15呎的向前推进的波浪，你将会沿着你所选择的方向直线浪涌，在你转瞬变回原来的形态之前，最多能移动两倍于你基本移动速度的距离。这次移动不会引发借机攻击。当处于波浪形态时，你免疫武器攻击以及针对指定目标生物数量的攻击（因为该法术的持续时间是立即，这主要关系到准备动作和类似的情况）。所有在你路径上的生物和未被携带的物品都会遭受4d6点钝击伤害并被击倒至俯卧。成功的反射豁免能够让一个生物避免被击倒。<\/p>",
-    "source": "CS-AquaA"
+    "savingThrow_zh": "见文本",
+    "text_zh": "<p>只要空间允许，你就能转化成一道最高15呎最宽15呎的向前推进的波浪，你将会沿着你所选择的方向直线浪涌，在你转瞬变回原来的形态之前，最多能移动两倍于你基本移动速度的距离。这次移动不会引发借机攻击。当处于波浪形态时，你免疫武器攻击以及针对指定目标生物数量的攻击（因为该法术的持续时间是立即，这主要关系到准备动作和类似的情况）。所有在你路径上的生物和未被携带的物品都会遭受4d6点钝击伤害并被击倒至俯卧。成功的反射豁免能够让一个生物避免被击倒。<\/p>"
 }

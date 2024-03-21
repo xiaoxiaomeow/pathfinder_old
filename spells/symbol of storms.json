@@ -1,0 +1,37 @@
+{
+    "key": "symbol of storms",
+    "name": "Symbol of Storms",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Symbol%20of%20Storms",
+    "source": ["Blood of the Ancients pg. 26"],
+    "school": "evocation",
+    "descriptors":     [
+        "air",
+        "electricity"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 6,
+        "cleric": 6,
+        "druid": 6,
+        "hunter": 3,
+        "oracle": 6,
+        "ranger": 3,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
+    },
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered copper and pumice worth a total of 1,500 gp)",
+    "range": "0 ft.; see text",
+    "effect": "one symbol",
+    "duration": "see text",
+    "savingThrow": "Reflex half",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>symbol of death<\/i>, except that when triggered, a 30-foot-radius centered on the symbol fills with hurricane-force winds (75 mph). Each round, a bolt of lightning that deals 10d6 points of electricity damage strikes a random creature within the area. A successful Reflex save halves this damage. Unlike <i>symbol of death<\/i>, symbol of storms has no hit point limit. Regardless of the trigger method or methods chosen, a creature more than 30 feet from a <i>symbol of storms<\/i> can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune). Once triggered, a <i>symbol of storms<\/i> remains active for 1 minute per caster level.",
+    "castingTime_zh": "10分钟",
+    "range_zh": "0尺; 见文本",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "反射, 通过则减半",
+    "spellResistance_zh": "可"
+}

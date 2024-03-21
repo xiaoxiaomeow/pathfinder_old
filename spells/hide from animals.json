@@ -1,20 +1,22 @@
 {
     "key": "hide from animals",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hide-from-animals/",
     "name": "Hide from Animals",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hide%20from%20Animals",
+    "source": ["PRPG Core Rulebook pg. 296"],
     "school": "abjuration",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "ranger": 1,
         "shaman": 1
     },
     "castingTime": "1 standard action",
     "components": "S, DF",
     "range": "touch",
-    "duration": "10 min./level (d)",
+    "duration": "10 min./level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>Animals cannot sense the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.<\/p>",
+    "text": "Animals cannot sense the warded creatures. Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Animals simply act as though the warded creatures are not there. If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.",
     "name_zh": "动物无视术",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势, 法器",
@@ -23,6 +25,5 @@
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>动物无法意识到被保护的生物。就算是特异能力或是超自然能力的感觉方式，比如盲感、盲视、灵敏嗅觉和颤动感知，都无法侦测或是对受术者定位。动物会像受术者完全不存在一样行动。如果被保护的角色触碰任何动物或是攻击任何生物、即便是通过法术来做这一点，所有受术者的该法术都会结束。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>动物无法意识到被保护的生物。就算是特异能力或是超自然能力的感觉方式，比如盲感、盲视、灵敏嗅觉和颤动感知，都无法侦测或是对受术者定位。动物会像受术者完全不存在一样行动。如果被保护的角色触碰任何动物或是攻击任何生物、即便是通过法术来做这一点，所有受术者的该法术都会结束。<\/p>"
 }

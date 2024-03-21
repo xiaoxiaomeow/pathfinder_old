@@ -1,12 +1,13 @@
 {
     "key": "alluring light",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/alluring-light/",
     "name": "Alluring Light",
-    "book": "Pathfinder Adventure Path #134: It Came from Hollow Mountain © 2018, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Alluring%20Light",
+    "source": ["Pathfinder #134: It Came from Hollow Mountain pg. 72"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "levels":     {
         "bard": 1,
+        "skald": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -16,15 +17,15 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You glow with a soft radiance that calls out to all who see it. Each enemy that fails its save is drawn to you and must use its move action to approach you at the beginning of each of its turns for 1 round per caster level. An affected target must move toward you in the most direct path it can, though it can step around obstacles or other creatures. This spell can't force a creature to walk into an area that might obviously harm or kill it (such as into a pit, over a patch of floor studded with caltrops, or through a wall of fire). An affected creature that loses sight of you is not compelled to move toward you, although if it later regains vision of you while still affected by this spell, it must again move toward you. Any hostile action against an affected creature (such an attack of opportunity due to its movement) cancels the spell's effect against that creature. Your initial flash of light also increases the light level within the spell's area by one step, up to normal light (darkness becomes dim light, and dim light becomes normal light) for 1 round per caster level.<\/p>",
+    "text": "You glow with a soft radiance that calls out to all who see it. Each enemy that fails its save is drawn to you and must use its move action to approach you at the beginning of each of its turns for 1 round per caster level. An affected target must move toward you in the most direct path it can, though it can step around obstacles or other creatures. This spell can’t force a creature to walk into an area that might obviously harm or kill it (such as into a pit, over a patch of floor studded with caltrops, or through a <i>wall of fire<\/i>). An affected creature that loses sight of you is not compelled to move toward you, although if it later regains vision of you while still affected by this spell, it must again move toward you. Any hostile action against an affected creature (such an attack of opportunity due to its movement) cancels the spell’s effect against that creature. Your initial flash of light also increases the light level within the spell’s area by one step, up to normal light (darkness becomes dim light, and dim light becomes normal light) for 1 round per caster level.",
     "name_zh": "魅惑之光",
     "castingTime_zh": "标准动作",
     "components_zh": "语言,姿势",
     "range_zh": "30尺",
     "target_zh": "以你为中心, 半径30尺范围弥散",
+    "area_zh": "：以你为中心, 半径30尺发散区域",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志无效（见下文）",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你发出柔和的光芒，引诱着所有看见光的人。每一个豁免失败的敌人都会被吸引到你身边，并且必须在它的每一回合开始时，使用它的移动动作接近你，持续每个施法者等级一轮。受影响的目标必须以最直接的方式向你移动，尽管它可以绕过障碍物或其他生物。这个法术不能强迫一个生物进入一个明显会伤害或杀死它的区域（比如进入一个坑里，在布满铁蒺藜的地板上，或者穿过一堵火墙）。一个受影响的生物如果看不见你，就不会被迫朝你移动，尽管如果它稍后在仍然受此法术影响的情况下恢复视觉，它必须再次朝你移动。对受影响生物的任何敌对行为（比如由于其移动而造成的借机攻击）都会结束对该生物的法术效果。\n你最初的闪光也会使范围内的光照等级提升1级，至多为常光（黑暗变为昏暗，昏暗变为常光），每施法者等级持续1轮。<\/p>",
-    "source": "AP-RisotR"
+    "text_zh": "<p>你发出柔和的光芒，引诱着所有看见光的人。每一个豁免失败的敌人都会被吸引到你身边，并且必须在它的每一回合开始时，使用它的移动动作接近你，持续每个施法者等级一轮。受影响的目标必须以最直接的方式向你移动，尽管它可以绕过障碍物或其他生物。这个法术不能强迫一个生物进入一个明显会伤害或杀死它的区域（比如进入一个坑里，在布满铁蒺藜的地板上，或者穿过一堵火墙）。一个受影响的生物如果看不见你，就不会被迫朝你移动，尽管如果它稍后在仍然受此法术影响的情况下恢复视觉，它必须再次朝你移动。对受影响生物的任何敌对行为（比如由于其移动而造成的借机攻击）都会结束对该生物的法术效果。<\/p><p>你最初的闪光也会使范围内的光照等级提升1级，至多为常光（黑暗变为昏暗，昏暗变为常光），每施法者等级持续1轮。<\/p>"
 }

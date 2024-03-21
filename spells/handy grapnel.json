@@ -1,30 +1,32 @@
 {
     "key": "handy grapnel",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/handy-grapnel/",
     "name": "Handy Grapnel",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Handy%20Grapnel",
+    "source": ["Ultimate Intrigue pg. 215"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 1,
+        "hunter": 1,
         "inquisitor": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (an arrowhead)",
     "range": "touch",
     "target": "one ropelike object, length up to 50 ft. + 5 ft./level",
-    "duration": "1 min./level (d)",
-    "savingThrow": "Fort negates (object)",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "Fortitude negates (object)",
     "spellResistance": "no",
-    "text": "<p>You cause the target rope to shrink and reshape itself into an arrow, bolt, or similar piece of ammunition, which you can shoot at any Medium or larger object. With a successful attack roll against an AC equal to 5 plus the hardness of the target object, the handy grapnel strikes and embeds itself in that object with the strength of an iron grappling hook.<\/p><p>As a move action, you can command the rope to extend from the arrow. If you are within a distance equal to the length of the rope and have a hand free, the end of the rope swings directly into your hand. With another move action, you can command the handy grapnel to retract itself up to the grappling hook, pulling up any creature or object supported by the rope at a speed of 50 feet per round.<\/p><p>Once embedded, the rope can be used for climbing or any other purpose a rope could serve, and it can bear up to 200 pounds per level of the caster at a time (maximum 1,000 pounds). If this weight limit is exceeded, the handy grapnel comes loose and any creature or object supported by the rope falls.<\/p>",
+    "text": "You cause the target rope to shrink and reshape itself into an arrow, bolt, or similar piece of ammunition, which you can shoot at any Medium or larger object. With a successful attack roll against an AC equal to 5 plus the hardness of the target object, the <i>handy grapnel<\/i> strikes and embeds itself in that object with the strength of an iron grappling hook.<br><br> As a move action, you can command the rope to extend from the arrow. If you are within a distance equal to the length of the rope and have a hand free, the end of the rope swings directly into your hand. With another move action, you can command the handy grapnel to retract itself up to the grappling hook, pulling up any creature or object supported by the rope at a speed of 50 feet per round.<br><br> Once embedded, the rope can be used for climbing or any other purpose a rope could serve, and it can bear up to 200 pounds per level of the caster at a time (maximum 1,000 pounds). If this weight limit is exceeded, the handy grapnel comes loose and any creature or object supported by the rope falls.",
     "name_zh": "便捷爪钩",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（箭头）",
     "range_zh": "接触",
     "target_zh": "1个类似绳索的物体，其长度至多为50尺 + 5尺/级",
-    "duration_zh": "1分钟/等级（可解消）",
-    "savingThrow_zh": "强韧，通过则无效（物体）",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你让目标绳索收缩变小并自我重塑成1根箭矢、弩矢、或类似的弹药，你能把它射向任意中型或更大的物体。在以成功的攻击检定对抗AC（AC = 5 + 目标物体的硬度）后，便捷爪钩命中并将自身嵌入到该物体中，强度相当于金属爪钩（iron grappling hook）。\n以移动动作（move action），你能够命令绳索从箭矢的位置伸出来。若你与箭矢间的距离在绳索的长度之内，而且有1只手空着的话，绳索的一端会直接摇摆到你的手中。以另1个移动动作，你能命令便捷爪钩开始收缩，将自身缩回爪钩的形态，以每轮50尺的速度将任何负载在绳索上的生物或物体拉起。\n一旦被嵌入到物体内，绳索便能够用于攀爬、或者任何用1根绳索能够提供的其他用途，在同一时间，它能负载的重量至多为200磅/施法者的等级（200 pounds per level of the caster），最高负载1000磅的重量。若便捷爪钩负载的重量超出了限制，它便会滑脱下来，任何由绳索负载的生物或物体均会坠落下去。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你让目标绳索收缩变小并自我重塑成1根箭矢、弩矢、或类似的弹药，你能把它射向任意中型或更大的物体。在以成功的攻击检定对抗AC（AC = 5 + 目标物体的硬度）后，便捷爪钩命中并将自身嵌入到该物体中，强度相当于金属爪钩（iron grappling hook）。<\/p><p>以移动动作（move action），你能够命令绳索从箭矢的位置伸出来。若你与箭矢间的距离在绳索的长度之内，而且有1只手空着的话，绳索的一端会直接摇摆到你的手中。以另1个移动动作，你能命令便捷爪钩开始收缩，将自身缩回爪钩的形态，以每轮50尺的速度将任何负载在绳索上的生物或物体拉起。<\/p><p>一旦被嵌入到物体内，绳索便能够用于攀爬、或者任何用1根绳索能够提供的其他用途，在同一时间，它能负载的重量至多为200磅/施法者的等级（200 pounds per level of the caster），最高负载1000磅的重量。若便捷爪钩负载的重量超出了限制，它便会滑脱下来，任何由绳索负载的生物或物体均会坠落下去。<\/p>"
 }

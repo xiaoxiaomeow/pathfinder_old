@@ -1,22 +1,26 @@
 {
     "key": "ironbloom sprouts",
-    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironbloom%20Sprouts",
     "name": "Ironbloom Sprouts",
-    "book": "Pathfinder Adventure Path #62: Curse of the Lady's Light © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironbloom%20Sprouts",
+    "source": ["Pathfinder #62: Curse of the Lady's Light pg. 75"],
     "school": "transmutation",
+    "race": "Torag",
     "levels":     {
-        "cleric/oracle": 1,
-        "druid": 1
+        "cleric": 1,
+        "druid": 1,
+        "hunter": 1,
+        "oracle": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF, M (1 gp worth of powdered iron)",
     "range": "touch",
-    "target": "2d4 fresh mushrooms touched",
     "duration": "1 day/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>This spell functions like goodberry, except as noted above and that it transforms 2d4 mushrooms into magical ironbloom mushrooms rather than transforming common berries into magical berries. Alternatively, you may create twice as many mushrooms, but each only has the nourishment ability of a goodberry and not the healing properties.<\/p>",
+    "text": "This spell functions like <i>goodberry<\/i>, except as noted above and that it transforms 2d4 mushrooms into magical ironbloom mushrooms rather than transforming common berries into magical berries. Alternatively, you may create twice as many mushrooms, but each only has the nourishment ability of a <i>goodberry <\/i>and not the healing properties.",
     "name_zh": "铁花发芽",
+    "race_zh": "托拉格",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器，材料（价值1gp的铁粉）",
     "range_zh": "接触",
@@ -24,6 +28,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术的像神莓一样作用，除了上面提到的，以及它将2d4朵蘑菇转化为魔法的铁花蘑菇，而不是将普通浆果转化为魔法的浆果。取代原效果地，你也可以创造两倍数量的蘑菇，但每个蘑菇只具有神莓的营养能力，而没有治疗功能。<\/p>",
-    "source": "AP-SStar"
+    "text_zh": "<p>这个法术的像神莓一样作用，除了上面提到的，以及它将2d4朵蘑菇转化为魔法的铁花蘑菇，而不是将普通浆果转化为魔法的浆果。取代原效果地，你也可以创造两倍数量的蘑菇，但每个蘑菇只具有神莓的营养能力，而没有治疗功能。<\/p>"
 }

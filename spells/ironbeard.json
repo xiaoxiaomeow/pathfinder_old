@@ -1,23 +1,26 @@
 {
     "key": "ironbeard",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ironbeard/",
     "name": "Ironbeard",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ironbeard",
+    "source": ["Advanced Race Guide pg. 19"],
     "school": "transmutation",
+    "race": "dwarf",
     "levels":     {
         "antipaladin": 1,
         "cleric": 1,
+        "hunter": 1,
         "magus": 1,
+        "oracle": 1,
         "paladin": 1,
-        "ranger": 1
+        "ranger": 1,
+        "warpriest": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min./level",
-    "savingThrow": "Fort negates (harmless)",
-    "text": "<p>This spell causes a brushy beard of stiff iron to erupt from the face of a willing target. The ironbeard grants a +1 armor bonus to AC, and this bonus stacks with any armor worn by the creature. The ironbeard may also be used as a weapon equivalent to cold iron armor spikes. The ironbeard makes it difficult to speak, so any spellcasting with a verbal component has a 20% spell failure chance.<\/p>",
+    "duration": "1 minute/level",
+    "text": "This spell causes a brushy beard of stiff iron to erupt from the face of a willing target. The <i>ironbeard <\/i>grants a +1 armor bonus to AC, and this bonus stacks with any armor worn by the creature. The <i>ironbeard <\/i>may also be used as a weapon equivalent to cold iron armor spikes. The <i>ironbeard <\/i>makes it difficult to speak, so any spellcasting with a verbal component has a 20% spell failure chance.",
     "name_zh": "铁须术",
     "race_zh": "矮人",
     "castingTime_zh": "标准动作",
@@ -27,6 +30,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术使胡须变为坚硬的金属，并矗立在自愿目标的脸上。铁须术使AC获得+1护甲加值，并且该加值与受术者所穿戴的盔甲叠加。铁须同样能够作为相当于寒铁甲刺武器使用。不过铁须术使目标难于开口，因此目标施放任何带有语言成分的法术时，会有20%的概率失败。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>该法术使胡须变为坚硬的金属，并矗立在自愿目标的脸上。铁须术使AC获得+1护甲加值，并且该加值与受术者所穿戴的盔甲叠加。铁须同样能够作为相当于寒铁甲刺武器使用。不过铁须术使目标难于开口，因此目标施放任何带有语言成分的法术时，会有20%的概率失败。<\/p>"
 }

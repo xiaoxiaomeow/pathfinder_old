@@ -1,30 +1,35 @@
 {
     "key": "wall of force",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-force/",
     "name": "Wall of Force",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Force",
+    "source": ["PRPG Core Rulebook pg. 365"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
+        "arcanist": 5,
         "magus": 5,
-        "sorcerer/wizard": 5
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer": 5,
+        "wizard": 5
     },
-    "subdomains": {"isolation": 6},
     "castingTime": "1 standard action",
     "components": "V, S, M (powdered quartz)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "wall whose area is up to one 10-ft. square/level",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A <i>wall of force<\/i> creates an invisible wall of pure force. The wall cannot move and is not easily destroyed. A <i>wall of force<\/i> is immune to dispel magic, although a mage's disjunction can still dispel it. A <i>wall of force<\/i> can be damaged by spells as normal, except for disintegrate, which automatically destroys it. It can be damaged by weapons and supernatural abilities, but a <i>wall of force<\/i> has hardness 30 and a number of hit points equal to 20 per caster level. Contact with a sphere of annihilation or rod of cancellation instantly destroys a <i>wall of force<\/i>.<\/p><p>Breath weapons and spells cannot pass through a <i>wall of force<\/i> in either direction, although <i>dimension door<\/i>, teleport, and similar effects can bypass the barrier. It blocks ethereal creatures as well as material ones (though ethereal creatures can usually circumvent the wall by going around it, through material floors and ceilings). Gaze attacks can operate through a <i>wall of force<\/i>.<\/p><p>The caster can form the wall into a flat, vertical plane whose area is up to one 10-foot square per level. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature, the spell fails.<\/p><p><i>Wall of force<\/i> can be made permanent with a permanency spell.<\/p>",
+    "text": "A <i>wall of force<\/i> creates an invisible wall of pure force. The wall cannot move and is not easily destroyed. A <i>wall of force<\/i> is immune to <i>dispel magic<\/i>, although a <i>mage's disjunction<\/i> can still dispel it. A <i>wall of force<\/i> can be damaged by spells as normal, except for <i>disintegrate<\/i>, which automatically destroys it. It can be damaged by weapons and supernatural abilities, but a <i>wall of force<\/i> has hardness 30 and a number of hit points equal to 20 per caster level. Contact with a <i>sphere of annihilation<\/i> or <i>rod of cancellation<\/i> instantly destroys a <i>wall of force<\/i>.<br><br>Breath weapons and spells cannot pass through a <i>wall of force<\/i> in either direction, although <i>dimension door<\/i>, <i>teleport<\/i>, and similar effects can bypass the barrier. It blocks ethereal creatures as well as material ones (though ethereal creatures can usually circumvent the wall by going around it, through material floors and ceilings). Gaze attacks can operate through a <i>wall of force<\/i>.<br><br>The caster can form the wall into a flat, vertical plane whose area is up to one 10-foot square per level. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature, the spell fails.<br><br><i>Wall of force<\/i> can be made permanent with a <i>permanency<\/i> spell.<h2 class=\"title\">Mythic Wall of Force<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 111<\/i><br>The wall’s hardness increases to 40, and its hit points increase to 30 per caster level. A nonmythic <i>disintegrate<\/i> spell or <i>rod of cancellation<\/i> negates a 10-foot-square section of a <i>mythic wall of force<\/i> for 1 round, after which the wall reforms at full strength. One side of the wall (chosen by you) repels creatures within 5 feet as a <i>repulsion<\/i> spell (using the DC <i>wall of force<\/i> would have if it allowed a saving throw). ",
+    "mythicSource": ["Mythic Adventures pg. 111"],
+    "mythicText": "The wall’s hardness increases to 40, and its hit points increase to 30 per caster level. A nonmythic <i>disintegrate<\/i> spell or <i>rod of cancellation<\/i> negates a 10-foot-square section of a <i>mythic wall of force<\/i> for 1 round, after which the wall reforms at full strength. One side of the wall (chosen by you) repels creatures within 5 feet as a <i>repulsion<\/i> spell (using the DC <i>wall of force<\/i> would have if it allowed a saving throw). ",
     "name_zh": "力墙术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (石英粉末)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "面积为至多每等级10尺见方的墙",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>力墙术能创造出由纯粹的立场构成的隐形墙壁。该墙无法移动，而且难以被摧毁。力墙免疫包括‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’，但‘<a href=\"spell.html?spell=mage's disjunction\">法师裂解术 (mage's disjunction)<\/a>’仍旧能够消除它。力墙能够如常被法术所伤害，除了‘<a href=\"spell.html?spell=disintegrate\">解离术 (disintegrate)<\/a>’，它会立即将力墙摧毁。力墙也能够被武器和超自然能力 (supernatural abilities) 伤害，但是力墙的硬度为30, 而且HP为每CL 20点。碰触到<抹消权杖 (rod of cancellation)>或<毁灭黑洞 (sphere of annihilation)>会立即毁灭力墙。<\/p><p>喷吐攻击和法术不能从任何方向穿过力墙，不过‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’、‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’以及类似的效果可以穿越障碍。灵体生物 (ethereal creatures) 和实体生物都会被阻挡 (但灵体生物可以从上方或下方穿过地板或天花板而绕过这堵墙)。“凝视攻击”可以穿过力墙。<\/p><p>施法者可造出平整的竖直力墙，其面积最多为每等级10英尺见方。制造出的力墙必须是连续无间断的。如果其表面被任何物品或生物阻断，则法术失效。<\/p><p>力墙术可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>力墙术能创造出由纯粹的立场构成的隐形墙壁。该墙无法移动，而且难以被摧毁。力墙免疫包括‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’，但‘<a href=\"spell.html?spell=mage's disjunction\">法师裂解术 (mage's disjunction)<\/a>’仍旧能够消除它。力墙能够如常被法术所伤害，除了‘<a href=\"spell.html?spell=disintegrate\">解离术 (disintegrate)<\/a>’，它会立即将力墙摧毁。力墙也能够被武器和超自然能力 (supernatural abilities) 伤害，但是力墙的硬度为30, 而且HP为每CL 20点。碰触到<抹消权杖 (rod of cancellation)>或<毁灭黑洞 (sphere of annihilation)>会立即毁灭力墙。<\/p><p>喷吐攻击和法术不能从任何方向穿过力墙，不过‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’、‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’以及类似的效果可以穿越障碍。灵体生物 (ethereal creatures) 和实体生物都会被阻挡 (但灵体生物可以从上方或下方穿过地板或天花板而绕过这堵墙)。“凝视攻击”可以穿过力墙。<\/p><p>施法者可造出平整的竖直力墙，其面积最多为每等级10英尺见方。制造出的力墙必须是连续无间断的。如果其表面被任何物品或生物阻断，则法术失效。<\/p><p>力墙术可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>"
 }

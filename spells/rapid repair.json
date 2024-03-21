@@ -1,14 +1,18 @@
 {
     "key": "rapid repair",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rapid-repair/",
     "name": "Rapid Repair",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rapid%20Repair",
+    "source": ["Ultimate Magic pg. 234"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 5,
-        "sorcerer/wizard": 5
+        "arcanist": 5,
+        "cleric": 5,
+        "occultist": 4,
+        "oracle": 5,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "wizard": 5
     },
-    "elementalSchools": {"metal": 5},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -16,7 +20,7 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The targeted construct gains fast healing 5. This does not stack with any fast healing the construct already has. Fast healing has no effect on a construct that has been brought to 0 hit points or destroyed.<\/p>",
+    "text": "The targeted construct gains fast healing 5. This does not stack with any fast healing the construct already has. Fast healing has no effect on a construct that has been brought to 0 hit points or destroyed.",
     "name_zh": "快速修复",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -25,6 +29,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>目标构装生物获得5点快速愈合。这个效果不会与任何已有的快速愈合效果叠加。快速愈合对一个生命值已经为0或已被摧毁的构装生物无效。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>目标构装生物获得5点快速愈合。这个效果不会与任何已有的快速愈合效果叠加。快速愈合对一个生命值已经为0或已被摧毁的构装生物无效。<\/p>"
 }

@@ -1,15 +1,15 @@
 {
     "key": "jealous rage",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/j/jealous-rage/",
     "name": "Jealous Rage",
-    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Jealous%20Rage",
+    "source": ["Occult Origins pg. 28"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 2,
         "bard": 2,
@@ -17,6 +17,7 @@
         "mesmerist": 2,
         "psychic": 3,
         "shaman": 3,
+        "skald": 2,
         "spiritualist": 2,
         "witch": 3
     },
@@ -24,18 +25,17 @@
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "target": "one living creature",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "no",
-    "text": "<p>You fill the target with a sense of entitled self-importance, making the subject unable to bear the indignity of another creature getting something that it doesn't have. Whenever an ally of the target receives a harmless spell or spell-like ability, beneficial supernatural effect, or assisting action (including the aid another action, first aid using the Heal skill, etc.) that doesn't also include the target, the target is driven into a murderous rage against either the producer of that effect or the nearest creature that benefited from that effect, whichever is closer. The target must attack that creature on its next turn. Any ability that deals lethal damage is considered an attack for this purpose. Once the target deals lethal damage to the object of his <i>jealous rage<\/i>, the compulsion to attack that creature ends.<\/p>",
+    "text": "You fill the target with a sense of entitled self-importance, making the subject unable to bear the indignity of another creature getting something that it doesn’t have. Whenever an ally of the target receives a harmless spell or spell-like ability, beneficial supernatural effect, or assisting action (including the aid another action, first aid using the Heal skill, etc.) that doesn’t also include the target, the target is driven into a murderous rage against either the producer of that effect or the nearest creature that benefited from that effect, whichever is closer. The target must attack that creature on its next turn. Any ability that deals lethal damage is considered an attack for this purpose. Once the target deals lethal damage to the object of his jealous rage, the compulsion to attack that creature ends.",
     "name_zh": "忌妒狂怒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一名活物",
-    "duration_zh": "1分钟/等级 (D)",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你使目标心中充满著名为虚荣的自我意识，让这受术者无法忍受另一生物拥有他所没有的东西的蔑视。无论何时，当目标的一位盟友获得一种无害的法术或类法术能力，受益于超自然效果，或援护(assisting)的行动(包含援助他人行动、使用医疗技能的急救，等等)并且并没有将目标也包含在内，目标会对效果的提供者或是受益于该效果且最近的生物之一变得极端凶残狂暴，看哪一个更近。目标必须在他的下一回合时攻击该生物。任何会造成致命伤害的能力都被认为是前句所说的攻击。一旦目标对他忌妒狂怒的对象造成致命伤后，胁迫攻击该生物的效果结束。<\/p>",
-    "source": "PC-OO"
+    "text_zh": "<p>你使目标心中充满著名为虚荣的自我意识，让这受术者无法忍受另一生物拥有他所没有的东西的蔑视。无论何时，当目标的一位盟友获得一种无害的法术或类法术能力，受益于超自然效果，或援护(assisting)的行动(包含援助他人行动、使用医疗技能的急救，等等)并且并没有将目标也包含在内，目标会对效果的提供者或是受益于该效果且最近的生物之一变得极端凶残狂暴，看哪一个更近。目标必须在他的下一回合时攻击该生物。任何会造成致命伤害的能力都被认为是前句所说的攻击。一旦目标对他忌妒狂怒的对象造成致命伤后，胁迫攻击该生物的效果结束。<\/p>"
 }

@@ -1,29 +1,32 @@
 {
     "key": "protection from technology",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-technology/",
     "name": "Protection from Technology",
-    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Technology",
+    "source": ["Technology Guide pg. 10"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 2,
         "cleric": 2,
-        "sorcerer/wizard": 2
+        "oracle": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a pinch of powdered copper)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "Will negates (harmless), see text",
     "spellResistance": "no, see text",
-    "text": "<p>This spell wards a creature from attacks by technological objects and creatures of the robot subtype, and protects against mental control from technological sources. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has two major effects.<\/p><p>First, the target gains a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. Both of these bonuses apply against attacks made or effects caused by technological objects and creatures with the robot subtype.<\/p><p>Second, the target immediately receives another saving throw (if one was allowed to begin with) against any technological effects that exercise mental control over the creature, including the effects of pharmaceuticals. The target gains a +2 morale bonus on this saving throw, using the same DC as the original effect. If the target succeeds at this save, such effects are suppressed for the duration of this spell. The effects resume when the duration of this spell expires. While under the effects of this spell, the target is immune to any new attempts to exercise mental control over her using technological means.<\/p>",
+    "text": "This spell wards a creature from attacks by technological objects and creatures of the robot subtype, and protects against mental control from technological sources. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has two major effects.<br><br> First, the target gains a +2 deflection bonus to AC and a +2 resistance bonus on saving throws. Both of these bonuses apply against attacks made or effects caused by technological objects and creatures with the robot subtype.<br><br> Second, the target immediately receives another saving throw (if one was allowed to begin with) against any technological effects that exercise mental control over the creature, including the effects of pharmaceuticals such as torpinal. The target gains a +2 morale bonus on this saving throw, using the same DC as the original effect. If the target succeeds at this save, such effects are suppressed for the duration of this spell. The effects resume when the duration of this spell expires. While under the effects of this spell, the target is immune to any new attempts to exercise mental control over her using technological means.",
     "name_zh": "防护科技",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，语言，材料（一撮铜粉）",
     "range_zh": "接触",
     "target_zh": "一个接触到的生物",
-    "duration_zh": "立即",
-    "savingThrow_zh": "意志无效（无害），见下文；",
-    "spellResistance_zh": "无，见下文",
-    "text_zh": "<p>这个法术可以防止阳光生物被科技物体和具有机体亚种的生物攻击，也可以防护科技效果造成的精神控制。它能在受术者周围1尺的范围内制造出一道魔法屏障。这个魔法屏障随着受术者移动，具有以下两种主要效果。\n首先，受术者的AC获得+2偏斜加值，在豁免上获得+2抗力加值。所有这些加值都只对科技物体和机体生物发动的攻击或效果有效。\n第二，受术者立刻获得另一次豁免机会（如果对抗的效果最初允许豁免），用于对抗任何占据或精神控制该生物的科技效果，包括吐真剂（Torpinal）在内的合成药物（Pharmaceutical）。这次豁免检定会获得+2士气加值，使用与最初效果相同的DC。如果豁免检定成功，这些效果会在法术的持续时间内被压制。该法术持续时间结束后这些效果会再次恢复。在处于该法术影响之时，目标免疫任何科技效果对其进行占据或精神控制的新尝试。<\/p>",
-    "source": "CS-TG"
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志无效 (无害) , 见文本; ",
+    "spellResistance_zh": "无, 见文本",
+    "text_zh": "<p>这个法术可以防止阳光生物被科技物体和具有机体亚种的生物攻击，也可以防护科技效果造成的精神控制。它能在受术者周围1尺的范围内制造出一道魔法屏障。这个魔法屏障随着受术者移动，具有以下两种主要效果。<\/p><p>首先，受术者的AC获得+2偏斜加值，在豁免上获得+2抗力加值。所有这些加值都只对科技物体和机体生物发动的攻击或效果有效。<\/p><p>第二，受术者立刻获得另一次豁免机会（如果对抗的效果最初允许豁免），用于对抗任何占据或精神控制该生物的科技效果，包括吐真剂（Torpinal）在内的合成药物（Pharmaceutical）。这次豁免检定会获得+2士气加值，使用与最初效果相同的DC。如果豁免检定成功，这些效果会在法术的持续时间内被压制。该法术持续时间结束后这些效果会再次恢复。在处于该法术影响之时，目标免疫任何科技效果对其进行占据或精神控制的新尝试。<\/p>"
 }

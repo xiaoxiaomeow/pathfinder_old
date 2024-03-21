@@ -1,20 +1,21 @@
 {
     "key": "mental barrier i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mental-barrier/",
     "name": "Mental Barrier I",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mental%20Barrier%20I",
+    "source": ["Occult Adventures pg. 175"],
     "school": "abjuration",
     "levels": {"psychic": 2},
     "castingTime": "1 immediate action",
     "components": "V",
-    "range": "personal target you",
+    "range": "personal",
+    "target": "you",
     "duration": "1 round",
-    "text": "<p>You put a barrier of mental energy that protects you from harm.<\/p><p>This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from <i>mind thrust I and II<\/i> (reduced to onequarter on a successful Will save).<\/p>",
+    "text": "You put a barrier of mental energy that protects you from harm. This barrier grants you a +4 shield bonus to AC. In addition, you take half damage from <i>mind thrust I<\/i> and <i>II<\/i> (reduced to one-quarter on a successful Will save).",
     "name_zh": "精神屏障 I",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮",
-    "text_zh": "<p>你设置了一道精神能量构成的屏障，并以此来保护自己免受伤害。这道屏障使你的AC获得+4盾牌加值。此外，心灵戳刺 I（mind thrust I）和II对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你设置了一道精神能量构成的屏障，并以此来保护自己免受伤害。这道屏障使你的AC获得+4盾牌加值。此外，心灵戳刺 I（mind thrust I）和II对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。<\/p>"
 }

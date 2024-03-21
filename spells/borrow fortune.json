@@ -1,26 +1,25 @@
 {
     "key": "borrow fortune",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/borrow-fortune/",
     "name": "Borrow Fortune",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Borrow%20Fortune",
+    "source": ["Advanced Player's Guide pg. 206"],
     "school": "evocation",
     "levels":     {
         "medium": 3,
         "oracle": 3,
         "psychic": 3
     },
-    "subdomains": {"fate": 3},
     "castingTime": "1 immediate action",
     "components": "V",
     "range": "personal",
+    "target": "you",
     "duration": "instantaneous; see text",
-    "text": "<p>When you make a d20 roll, you may choose to immediately cast this spell to reroll that die before success or failure is known, keeping the more favorable result. For the next two rounds following your casting of the spell, you must roll two dice each time a d20 roll is called for, keeping the less favorable result.<\/p>",
+    "text": "When you make a d20 roll, you may choose to immediately cast this spell to reroll that die before success or failure is known, keeping the more favorable result. For the next two rounds following your casting of the spell, you must roll two dice each time a d20 roll is called for, keeping the less favorable result.",
     "name_zh": "透支幸运",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "立即；见下文",
-    "text_zh": "<p>当你进行一次d20投骰，你可以选择用一个直觉动作施放这个法术，在投骰结果宣布之前投第二次骰，并且取两次中的较高结果。<\/p><p>然后，当你施放该法术之后的两轮，你必须每次都在你的d20投骰中掷两次并且取其中较低的结果。<\/p>",
-    "source": "APG"
+    "duration_zh": "立即; 见文本",
+    "text_zh": "<p>当你进行一次d20投骰，你可以选择用一个直觉动作施放这个法术，在投骰结果宣布之前投第二次骰，并且取两次中的较高结果。<\/p><p>然后，当你施放该法术之后的两轮，你必须每次都在你的d20投骰中掷两次并且取其中较低的结果。<\/p>"
 }

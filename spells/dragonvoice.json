@@ -1,27 +1,31 @@
 {
     "key": "dragonvoice",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dragonvoice/",
     "name": "Dragonvoice",
-    "book": "Pathfinder Player Companion: Dragonslayer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dragonvoice",
+    "source": ["Dragonslayer's Handbook pg. 28"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bard": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "investigator": 2,
+        "redmantisassassin": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>By magically altering the way your vocal cords create sounds, you can emulate the vocal inflections of dragons.<\/p><p>This grants a +6 circumstance bonus on Charisma checks and Charisma-related skill checks when dealing with dragons.<\/p><p>In addition, your voice is much louder than normal, halving the penalties to others' Perception checks to hear you due to distance, intervening doors, and so on.<\/p>",
+    "duration": "1 minute/level",
+    "text": "By magically altering the way your vocal cords create sounds, you can emulate the vocal inflections of dragons. This grants a +6 circumstance bonus on Charisma checks and Charismarelated skill checks when dealing with dragons.<br><br> In addition, your voice is much louder than normal, halving the penalties to others’ Perception checks to hear you due to distance, intervening doors, and so on.",
     "name_zh": "龙之声",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>通过使用魔法使改变你的声带发声方式的办法，你可以模仿龙的声音变化。在和龙进行互动时候这种改变能使你在魅力检定和基于魅力的技能检定上获得+6环境加值。\n此外，你的声音会比正常时大得多，其他人对你的声音进行察觉检定时距离，门的阻隔等等因素带来的罚值减半。<\/p>",
-    "source": "PC-DragH"
+    "text_zh": "<p>通过使用魔法使改变你的声带发声方式的办法，你可以模仿龙的声音变化。在和龙进行互动时候这种改变能使你在魅力检定和基于魅力的技能检定上获得+6环境加值。<\/p><p>此外，你的声音会比正常时大得多，其他人对你的声音进行察觉检定时距离，门的阻隔等等因素带来的罚值减半。<\/p>"
 }

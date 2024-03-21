@@ -1,13 +1,19 @@
 {
     "key": "thought shield ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/thought-shield/",
     "name": "Thought Shield II",
-    "base": "thought shield",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Thought%20Shield%20II",
+    "source": ["Occult Adventures pg. 189"],
     "school": "abjuration",
     "levels": {"psychic": 3},
-    "text": "<p>This functions as <em>thought shield I<\/em>, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.<\/p>",
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round",
+    "text": "This functions as <i>thought shield I<\/i>, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be undercast.",
     "name_zh": "思维护盾 II",
-    "text_zh": "<p>该法术的功能如同思维护盾 I（Thought Shield I）一般，不过在抵御影响心灵（mind-affecting）效果时，意志豁免得到的环境加值增加至+6点。该法术可以被降阶施法。<\/p>",
-    "source": "OA"
+    "castingTime_zh": "直觉动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮",
+    "text_zh": "<p>该法术的功能如同思维护盾 I（Thought Shield I）一般，不过在抵御影响心灵（mind-affecting）效果时，意志豁免得到的环境加值增加至+6点。该法术可以被降阶施法。<\/p>"
 }

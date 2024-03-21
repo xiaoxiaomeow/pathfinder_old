@@ -1,16 +1,20 @@
 {
     "key": "song of discord",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/song-of-discord/",
     "name": "Song of Discord",
-    "book": "Pathfinder Roleplaying Game Core Rulebook © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Song%20of%20Discord",
+    "source": ["PRPG Core Rulebook pg. 345"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "mind-affecting",
         "sonic"
     ],
-    "descriptorOperator": "and",
-    "levels": {"bard": 5},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "bard": 5,
+        "psychic": 5,
+        "skald": 5
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -18,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell causes those within the area to turn on each other rather than attack their foes. Each affected creature has a 50% chance to attack the nearest target each round. (Roll to determine each creature's behavior every round at the beginning of its turn.) A creature that does not attack its nearest neighbor is free to act normally for that round. Creatures forced by a <i>song of discord<\/i> to attack their fellows employ all methods at their disposal, choosing their deadliest spells and most advantageous combat tactics. They do not, however, harm targets that have fallen unconscious.<\/p>",
+    "text": "This spell causes those within the area to turn on each other rather than attack their foes. Each affected creature has a 50% chance to attack the nearest target each round. (Roll to determine each creature's behavior every round at the beginning of its turn.) A creature that does not attack its nearest neighbor is free to act normally for that round. Creatures forced by a <i>song of discord<\/i> to attack their fellows employ all methods at their disposal, choosing their deadliest spells and most advantageous combat tactics. They do not, however, harm targets that have fallen unconscious.",
     "name_zh": "挑拨曲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "area_zh": "半径20尺扩散范围内的生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术可使区域内的生物不再攻击敌人，转而自相残杀。每个受影响的生物每轮有50%的机率攻击最接近的目标 (在他们每个回合开始的时候投骰决定该轮的行动)。不攻击最近目标的生物在该轮可正常行动。受挑拨曲影响的生物会使用最致命的法术、最有效的战术来尽全力攻击目标。但它们不会攻击倒地失去意识的目标。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术可使区域内的生物不再攻击敌人，转而自相残杀。每个受影响的生物每轮有50%的机率攻击最接近的目标 (在他们每个回合开始的时候投骰决定该轮的行动)。不攻击最近目标的生物在该轮可正常行动。受挑拨曲影响的生物会使用最致命的法术、最有效的战术来尽全力攻击目标。但它们不会攻击倒地失去意识的目标。<\/p>"
 }

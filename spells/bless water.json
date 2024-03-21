@@ -1,15 +1,17 @@
 {
     "key": "bless water",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bless-water/",
     "name": "Bless Water",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bless%20Water",
+    "source": ["PRPG Core Rulebook pg. 249"],
     "school": "transmutation",
     "descriptors": ["good"],
     "levels":     {
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
-        "paladin": 1
+        "oracle": 1,
+        "paladin": 1,
+        "warpriest": 1
     },
-    "subdomains": {"divine": 2},
     "castingTime": "1 minute",
     "components": "V, S, M (5 pounds of powdered silver worth 25 gp)",
     "range": "touch",
@@ -17,7 +19,7 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.<\/p>",
+    "text": "This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.",
     "name_zh": "祝福圣水",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 材料 (价值25gp的5磅银粉)",
@@ -26,6 +28,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
     "spellResistance_zh": "可 (物体)",
-    "text_zh": "<p>这种转变会让一扁瓶 (1品脱) 的水充满正能量，将其转化为圣水 (holy water)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这种转变会让一扁瓶 (1品脱) 的水充满正能量，将其转化为圣水 (holy water)。<\/p>"
 }

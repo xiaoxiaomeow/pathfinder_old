@@ -1,21 +1,22 @@
 {
     "key": "veil of positive energy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/veil-of-positive-energy/",
     "name": "Veil of Positive Energy",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Veil%20of%20Positive%20Energy",
+    "source": ["Advanced Player's Guide pg. 254"],
     "school": "abjuration",
     "descriptors": ["good"],
     "levels": {"paladin": 1},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal or 5 ft.; see text",
-    "duration": "10 min.s/level (d)",
-    "text": "<p>You surround yourself with a veil of positive energy, making it harder for undead creatures to harm you. When under the effect of this spell, you gain a +2 sacred bonus to AC and a+2 sacred bonus on saves. Both of these bonuses apply only against attacks or effects created by undead creatures. You can dismiss this spell before its normal duration as a swift action on your turn to deal a number of points of positive energy damage equal to your level to all undead creatures within 5 feet of you.<\/p>",
+    "target": "you or all creatures within 5 ft.; see text",
+    "duration": "10 minutes/level (D)",
+    "text": "You surround yourself with a veil of positive energy, making it harder for undead creatures to harm you. When under the effect of this spell, you gain a +2 sacred bonus to AC and a +2 sacred bonus on saves. Both of these bonuses apply only against attacks or effects created by undead creatures. You can dismiss this spell before its normal duration as a swift action on your turn to deal a number of points of positive energy damage equal to your level to all undead creatures within 5 feet of you.",
     "name_zh": "圣能面纱",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
+    "range_zh": "个人 或 5尺; 见文本",
     "target_zh": "自己或所有5尺内的生物；见下文",
     "duration_zh": "10分钟/等级 (可解消)",
-    "text_zh": "<p>你用一层正能量组成的薄纱环绕着自己，使得不死生物难以伤害到你。在你处于该法术的影响时，你的AC以及豁免检定均获得+2神圣加值。但是这些加值只在对抗不死生物进行的攻击或他们制造的效果时才适用。在该法术的存续时间内，你可以在自己的回合以迅捷动作解除该法术，并对你身边5尺范围内所有的不死生物造成等同于你的等级的正能量伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你用一层正能量组成的薄纱环绕着自己，使得不死生物难以伤害到你。在你处于该法术的影响时，你的AC以及豁免检定均获得+2神圣加值。但是这些加值只在对抗不死生物进行的攻击或他们制造的效果时才适用。在该法术的存续时间内，你可以在自己的回合以迅捷动作解除该法术，并对你身边5尺范围内所有的不死生物造成等同于你的等级的正能量伤害。<\/p>"
 }

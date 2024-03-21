@@ -1,0 +1,32 @@
+{
+    "key": "protection from spores",
+    "name": "Protection from Spores",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Spores",
+    "source": ["Pathfinder #113: What Grows Within pg. 66"],
+    "school": "abjuration",
+    "levels":     {
+        "alchemist": 2,
+        "cleric": 2,
+        "druid": 2,
+        "hunter": 1,
+        "investigator": 2,
+        "oracle": 2,
+        "ranger": 1,
+        "shaman": 2,
+        "warpriest": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "1 minute/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "no",
+    "text": "With a touch, you bolster a creature’s body to protect it from the harmful effects of spores and similar afflictions. While under the effect of this spell, a creature is immune to the effects of brown mold, green slime, russet mold, yellow mold, and any similar hazard, provided the hazard is CR 6 or lower. Similarly, the creature is immune to poison, disease, and infestation attacks from all fungal creatures of CR 6 or lower, including effects such as basidirond spores, violet fungus rot, and the like. The target is immune to fungus-based toxins, such as striped toadstool. Against similar hazards or monsters of CR 7 or higher, the target gains a bonus on all saving throws against the effect equal to half your caster level. <i>Protection from spores<\/i> offers no protection against fungal infestations created by the seeded, by the spell <i>what grows within<\/i>, or by Xhamen-Dor.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "不可"
+}

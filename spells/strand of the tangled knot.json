@@ -1,12 +1,13 @@
 {
     "key": "strand of the tangled knot",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/strand-of-the-tangled-knot/",
     "name": "Strand of the Tangled Knot",
-    "book": "Pathfinder Player Companion: Legacy of the First World © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strand%20of%20the%20Tangled%20Knot",
+    "source": ["Legacy of the First World pg. 17"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
+        "oracle": 1,
         "shaman": 1,
         "warpriest": 1,
         "witch": 1
@@ -15,14 +16,13 @@
     "components": "V, S, M/DF (a small knot of twin)",
     "range": "personal",
     "target": "you",
-    "duration": "1 round/level (d)",
-    "text": "<p>The next single attack made against you takes a –10 penalty. If that attack is a critical hit, it is instead treated as a normal hit.<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "You mimic tugging at the Green Mother’s legendary Tangled Knot to subtly alter your fate. The next single attack made against you takes a –10 penalty. If that attack is a critical hit, it is instead treated as a normal hit.",
     "name_zh": "纠缠之结",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势，材料/法器（一个小小的绳结）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级（D）",
-    "text_zh": "<p>你模仿着绿母编制传奇绳结的方式，以此来巧妙地改变你的命运。下一次针对你的攻击会受到-10减值。如果这次攻击重击了，它将转而被视为普通的命中。<\/p>",
-    "source": "PC-LotFW"
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p>你模仿着绿母编制传奇绳结的方式，以此来巧妙地改变你的命运。下一次针对你的攻击会受到-10减值。如果这次攻击重击了，它将转而被视为普通的命中。<\/p>"
 }

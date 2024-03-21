@@ -1,0 +1,41 @@
+{
+    "key": "fiendish wrath",
+    "name": "Fiendish Wrath",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fiendish%20Wrath",
+    "source": ["Plane-Hopper's Handbook pg. 13"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors":     [
+        "emotion",
+        "mind-affecting"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "alchemist": 3,
+        "arcanist": 4,
+        "bard": 3,
+        "bloodrager": 3,
+        "investigator": 3,
+        "mesmerist": 3,
+        "psychic": 4,
+        "skald": 3,
+        "sorcerer": 4,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "witch": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one willing living creature per 3 levels, no two of which can be more than 30 ft. apart",
+    "duration": "concentration + 1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "Each affected creature flies into a combat frenzy. The target gains a +2 morale bonus to Strength and Constitution, and a +1 morale bonus on Will saves. If an affected creature strikes an enemy with two claw attacks or two unarmed strikes while in this frenzy, it can use the rend ability, dealing an additional amount of damage equal to its claw or unarmed strike damage plus 1-1/2 times its Strength bonus.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "专注 + 1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可"
+}

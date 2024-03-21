@@ -1,23 +1,33 @@
 {
     "key": "fox's cunning, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fox-s-cunning/",
     "name": "Fox's Cunning, Mass",
-    "base": "fox's cunning",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fox's%20Cunning,%20Mass",
+    "source": ["PRPG Core Rulebook pg. 286"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "bard": 6,
         "psychic": 6,
-        "sorcerer/wizard": 6,
+        "skald": 6,
+        "sorcerer": 6,
         "summoner": 4,
-        "unchained summoner": 6
+        "summoner (unchained)": 6,
+        "wizard": 6
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (hairs or dung from a fox)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature/level, no two of which can be more than 30 ft. apart",
-    "text": "<p>This spell functions like <i>fox's cunning<\/i>, except that it affects multiple creatures.<\/p><\/div>",
+    "duration": "1 min./level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>fox's cunning<\/i>, except that it affects multiple creatures.",
     "name_zh": "群体狐之狡黠",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "每等级一个生物, 任意两者之间的距离不超过30尺",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=fox's Cunning\">狐之狡黠 (fox's Cunning)<\/a>’一般，不过它可以影响复数生物。<\/p>",
-    "source": "CRB"
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=fox's Cunning\">狐之狡黠 (fox's Cunning)<\/a>’一般，不过它可以影响复数生物。<\/p>"
 }

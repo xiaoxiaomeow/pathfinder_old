@@ -1,26 +1,30 @@
 {
     "key": "sun's disdain",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suns-disdain/",
     "name": "Sun's Disdain",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sun's%20Disdain",
+    "source": ["Adventurer's Guide pg. 17"],
     "school": "transmutation",
     "descriptors": ["curse"],
     "levels":     {
+        "arcanist": 2,
         "bloodrager": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
+        "oracle": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
-    "components": "V, S, M/DF (a piece of glass)",
+    "components": "V, S, M (a piece of glass)/DF",
     "range": "touch",
     "target": "creature touched",
     "duration": "permanent",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p class=\"desciption\">You alter a creature so the touch of the sun is hostile to it.<\/p><p>The cursed creature gains light blindness and is blinded for 1 round if exposed to bright light, such as sunlight or the daylight spell. The cursed creature is dazzled as long as it remains in areas of bright light, and it is treated as being particularly susceptible to sunlight for the purposes of resolving spells like searing light, sunbeam, and sunburst.<\/p>",
+    "text": "You alter a creature so the touch of the sun is hostile to it. The cursed creature gains light blindness and is blinded for 1 round if exposed to bright light, such as sunlight or the <i>daylight<\/i> spell. The cursed creature is dazzled as long as it remains in areas of bright light, and it is treated as being particularly susceptible to sunlight for the purposes of resolving spells like <i>searing light<\/i>, <i>sunbeam<\/i>, and <i>sunburst<\/i>.",
     "name_zh": "日之蔑视",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一片玻璃）/法器",
@@ -29,6 +33,5 @@
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你改变一个生物，使阳光的接触对它有害（hostile）。被诅咒的生物获得强光失明：如果暴露在强光下，如阳光或者昼明术法术下会目盲1轮。只要被诅咒的生物停留在强光区域，它就会目眩，并且在面对灼热光辉、阳炎射线和阳炎爆等法术时，它会被视为特别容易受到阳光的影响。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>你改变一个生物，使阳光的接触对它有害（hostile）。被诅咒的生物获得强光失明：如果暴露在强光下，如阳光或者昼明术法术下会目盲1轮。只要被诅咒的生物停留在强光区域，它就会目眩，并且在面对灼热光辉、阳炎射线和阳炎爆等法术时，它会被视为特别容易受到阳光的影响。<\/p>"
 }

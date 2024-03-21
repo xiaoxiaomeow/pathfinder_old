@@ -1,28 +1,33 @@
 {
     "key": "monstrous physique i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/monstrous-physique-i/",
     "name": "Monstrous Physique I",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Monstrous%20Physique%20I",
+    "source": ["Ultimate Magic pg. 229"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "bloodrager": 3,
+        "investigator": 3,
         "magus": 3,
-        "sorcerer/wizard": 3
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a piece of the creature whose form you plan to assume)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level (d)",
-    "text": "<p>When you cast this spell, you can assume the form of any Small or Medium creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, and scent. If the form you assume has the aquatic subtype, you gain the aquatic and amphibious subtypes.<\/p><ul>  <li><b>Small monstrous humanoid<\/b>: If the form you take is that of a Small monstrous humanoid, you gain a +2 size bonus to your Dexterity and a +1 natural armor bonus.<\/li>  <li><b>Medium monstrous humanoid<\/b>: If the form you take is that of a Medium monstrous humanoid, you gain a +2 size bonus to your Strength and a +2 natural armor bonus.<\/li> <\/ul>",
+    "duration": "1 minute/level (D)",
+    "text": "When you cast this spell, you can assume the form of any Small or Medium creature of the monstrous humanoid type. If the form you assume has any of the following abilities, you gain the listed ability: climb 30 feet, fly 30 feet (average maneuverability), swim 30 feet, darkvision 60 feet, low-light vision, and scent. If the form you assume has the aquatic subtype, you gain the aquatic and amphibious subtypes.<br><br><i>Small monstrous humanoid<\/i>: If the form you take is that of a Small monstrous humanoid, you gain a +2 size bonus to your Dexterity and a +1 natural armor bonus.<br><br><i>Medium monstrous humanoid<\/i>: If the form you take is that of a Medium monstrous humanoid, you gain a +2 size bonus to your Strength and a +2 natural armor bonus.<h2 class=\"title\">Mythic Monstrous Physique I<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 102<\/i><br>Each <i>mythic monstrous physique<\/i> spell must be learned individually, and you must know the respective non-mythic <i>monstrous physique<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic monstrous physique<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic monstrous physique II<\/i> if you know <i>monstrous physique II<\/i>, even if you don’t know <i>mythic monstrous physique I<\/i>). Each <i>mythic monstrous physique<\/i> spell adds the following benefits to its respective non-mythic version.<br><br> The spell’s bonuses to ability scores increase by 2 each, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 each (minimum penalty of 0). Alternatively, you can cast this spell on another willing creature, changing the range to touch and the target to one creature. <br><br><b>Augmented (4th)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. Additionally, you can cast this spell on other willing creatures, changing the range to touch and the target to one creature per tier. ",
+    "mythicSource": ["Mythic Adventures pg. 102"],
+    "mythicText": "Each <i>mythic monstrous physique<\/i> spell must be learned individually, and you must know the respective non-mythic <i>monstrous physique<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic monstrous physique<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic monstrous physique II<\/i> if you know <i>monstrous physique II<\/i>, even if you don’t know <i>mythic monstrous physique I<\/i>). Each <i>mythic monstrous physique<\/i> spell adds the following benefits to its respective non-mythic version.<br><br> The spell’s bonuses to ability scores increase by 2 each, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 each (minimum penalty of 0). Alternatively, you can cast this spell on another willing creature, changing the range to touch and the target to one creature. <br><br><b>Augmented (4th)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. Additionally, you can cast this spell on other willing creatures, changing the range to touch and the target to one creature per tier. ",
     "name_zh": "类人形态 I",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一片你想要变成的物种的身体部分)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级 (可解消)",
-    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>当你施放该法术，你可以从人形怪物 (monstrous humanoid) 中选择一种中型或小型的生物。<\/p><p>如果你选择的生物拥有下述任何能力，你获得这些能力：30尺攀爬，30尺飞行 (普通机动性)，30尺游泳，60尺黑暗视觉，昏暗视觉，嗅觉敏锐。如果目标生物拥有水生亚种，你获得水生和两栖亚种类别。\n－小型人形怪物：如果你选择小型人形怪物，你获得敏捷+2体型加值和+1天生护甲加值\n－中型人形怪物：如果你选择中型人形怪物，你获得力量+2体型加值和+2天生护甲加值<\/p>",
-    "source": "UM"
+    "text_zh": "<p>持续时间    1分钟/等级 (可解消)<\/p><p>当你施放该法术，你可以从人形怪物 (monstrous humanoid) 中选择一种中型或小型的生物。<\/p><p>如果你选择的生物拥有下述任何能力，你获得这些能力：30尺攀爬，30尺飞行 (普通机动性)，30尺游泳，60尺黑暗视觉，昏暗视觉，嗅觉敏锐。如果目标生物拥有水生亚种，你获得水生和两栖亚种类别。<\/p><p>－小型人形怪物：如果你选择小型人形怪物，你获得敏捷+2体型加值和+1天生护甲加值<\/p><p>－中型人形怪物：如果你选择中型人形怪物，你获得力量+2体型加值和+2天生护甲加值<\/p>"
 }

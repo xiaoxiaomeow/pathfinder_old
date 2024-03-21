@@ -1,15 +1,17 @@
 {
     "key": "sensory overload",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sensory-overload/",
     "name": "Sensory Overload",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sensory%20Overload",
+    "source": ["Psychic Anthology pg. 11"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,15 +20,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You overload the target creature's senses, making it difficult for the target to concentrate. For the duration of the effect, the target must succeed at a Will save at the same DC as the original effect to perform any standard or full-round action. On a failure, the creature loses the action that triggered the saving throw. If successful, the creature is able to take the action, but this spell effect is not negated.<\/p>",
+    "text": "You overload the target creature’s senses, making it difficult for the target to concentrate. For the duration of the effect, the target must succeed at a Will save at the same DC as the original effect to perform any standard or full-round action. On a failure, the creature loses the action that triggered the saving throw. If successful, the creature is able to take the action, but this spell effect is not negated.",
     "name_zh": "感官过载",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志，通过则无效（见描述）",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你过载了目标生物的感官，让目标难以集中精神。在持续时间里，目标在尝试进行任何标准动作或者整轮动作时，必须成功通过一次与初始效果相同DC的意志豁免。豁免失败时，该生物失去触发该次豁免的动作。如果豁免成功，该生物可以进行该动作，但是这个法术效果不会结束。<\/p>",
-    "source": "PC-PA"
+    "text_zh": "<p>你过载了目标生物的感官，让目标难以集中精神。在持续时间里，目标在尝试进行任何标准动作或者整轮动作时，必须成功通过一次与初始效果相同DC的意志豁免。豁免失败时，该生物失去触发该次豁免的动作。如果豁免成功，该生物可以进行该动作，但是这个法术效果不会结束。<\/p>"
 }

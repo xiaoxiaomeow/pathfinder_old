@@ -1,42 +1,36 @@
 {
     "key": "planar binding, lesser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/planar-binding/",
     "name": "Planar Binding, Lesser",
-    "base": "planar binding",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Planar%20Binding,%20Lesser",
+    "source": ["PRPG Core Rulebook pg. 321"],
     "school": "conjuration",
-    "subSchool": ["calling"],
+    "subSchools": ["calling"],
     "descriptors": ["see text"],
     "levels":     {
-        "sorcerer/wizard": 5,
+        "arcanist": 5,
+        "medium": 4,
+        "occultist": 5,
+        "psychic": 5,
+        "sorcerer": 5,
         "summoner": 4,
-        "unchained summoner": 5
-    },
-    "domains":     {
-        "rune": 5,
-        "void": 4
-    },
-    "elementalSchools":     {
-        "air": 5,
-        "earth": 5,
-        "fire": 5,
-        "water": 5
+        "summoner (unchained)": 5,
+        "wizard": 5
     },
     "castingTime": "10 minutes",
     "components": "V, S",
-    "range": "close (25 ft. + 5 ft./2 levels); see text",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one elemental or outsider with 6 HD or less",
     "duration": "instantaneous",
     "savingThrow": "Will negates",
-    "spellResistance": "no and yes",
-    "text": "",
+    "spellResistance": "no and yes; see text",
+    "text": "Casting this spell attempts a dangerous act: to lure a creature from another plane to a specifically prepared trap, which must lie within the spell's range. The called creature is held in the trap until it agrees to perform one service in return for its freedom.<br><br>To create the trap, you must use a <i>magic circle<\/i> spell, focused inward. The kind of creature to be bound must be known and stated. If you wish to call a specific individual, you must use that individual's proper name in casting the spell.<br><br>The target creature is allowed a Will saving throw. If the saving throw succeeds, the creature resists the spell. If the saving throw fails, the creature is immediately drawn to the trap (spell resistance does not keep it from being called). The creature can escape from the trap by successfully pitting its spell resistance against your caster level check, by dimensional travel, or with a successful Charisma check (DC 15 + 1/2 your caster level + your Charisma modifier). It can try each method once per day. If it breaks loose, it can flee or attack you. A <i>dimensional anchor<\/i> cast on the creature prevents its escape via dimensional travel. You can also employ a calling diagram (see <i>magic circle against evil<\/i>) to make the trap more secure.<br><br>If the creature does not break free of the trap, you can keep it bound for as long as you dare. You can attempt to compel the creature to perform a service by describing the service and perhaps offering some sort of reward. You make a Charisma check opposed by the creature's Charisma check. The check is assigned a bonus of +0 to +6 based on the nature of the service and the reward. If the creature wins the opposed check, it refuses service. New offers, bribes, and the like can be made or the old ones reoffered every 24 hours. This process can be repeated until the creature promises to serve, until it breaks free, or until you decide to get rid of it by means of some other spell. Impossible demands or unreasonable commands are never agreed to. If you ever roll a natural 1 on the Charisma check, the creature breaks free of the spell's effect and can escape or attack you.<br><br>Once the requested service is completed, the creature need only to inform you to be instantly sent back whence it came. The creature might later seek revenge. If you assign some open-ended task that the creature cannot complete through its own actions, the spell remains in effect for a maximum of 1 day per caster level, and the creature gains an immediate chance to break free (with the same chance to resist as when it was trapped). Note that a clever recipient can subvert some instructions.<br><br>When you use a calling spell to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.",
     "name_zh": "次等异界誓缚",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距; 见后文",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个总HD不超过6的元素或异界生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "否 或 可; 见后文",
-    "text_zh": "<p>施放本法术是尝试一个危险的举动：引诱一个其他位面的生物进入一个特别预先准备的陷阱，该陷阱必须位于法术范围内。呼唤来的生物将被困在陷阱中，除非它愿意为你效力一次以换取自由。<\/p><p>要制造这样的陷阱，你必须使用一个内向型的法阵 (magic circle) 法术。你必须预先知道并声明被束缚生物的类型。如果你希望呼唤某个特定的生物，你必须在施法时就使用该生物的真实名字。<\/p><p>目标生物允许进行一次意志豁免。如果生物通过了豁免，则它抵抗了法术。如果生物没有通过豁免，它就立即落入陷阱内 (生物的法术抗力并不能使它免于被呼唤)。生物可以用如下方式从陷阱里逃脱：成功地用它的法术抗力对抗你的施法者等级检定；通过次元旅行的方式；一次成功的魅力检定 (DC为 {15+1/2你的CL+你的魅力修正})。它每天可以用每种方法尝试一次。一旦生物成功逃脱，它就可以逃跑或者攻击你。在生物身上使用‘<a href=\"spell.html?spell=dimensional anchor\">次元锚 (dimensional anchor)<\/a>’可以阻止生物通过次元旅行的方式逃脱。你可以使用一个呼唤用魔法图阵 (calling diagram) 来进一步加固陷阱，相关内容详见‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’。<\/p><p>如果生物没有能逃脱，你想困住它多久都可以。通过描述要它做的事情，也许同时允诺某种报酬，你可以尝试强迫生物为你效力一次。你需要做一次魅力检定来对抗生物的魅力检定。基于不同的报酬和要完成的事情，你的魅力检定还有加值，加值的范围从+0到+6不等。如果生物赢得这次检定，则它拒绝为你效力。你可以重新提出新要求或进行贿赂等等，也可以每24小时重新提出你原有的提议。这一套步骤可以无限重复，直到生物答应为你效力、它成功逃脱、或者你决定用其他法术摆脱此生物。生物永远不会同意无法完成的要求或不合理的命令。如果你在魅力检定中投出1, 则生物从束缚中逃脱并可以逃走或攻击你。<\/p><p>一旦要求做的事情完成了，生物只需要通知你就能立即返回它来的地方。该生物有可能在将来寻求复仇。如果你给的任务没有明确的限度，且生物无法独自完成，则法术将持续有效至多每CL 1天，而生物则立即获得一次逃脱的机会 (使用与被困住的时候相同的机会)。需注意的是聪明的受命者能暗中破坏你所下达的指示。<\/p><p>注意：当你使用一个呼唤法术来呼唤气 (air)、混乱 (chaotic)、土 (earth)、邪恶 (evil)、火 (fire)、善良 (good)、秩序 (lawful)、或水 (water) 生物时，呼唤法术和生物属于同类型。<\/p>",
-    "source": "CRB"
+    "spellResistance_zh": "否 或 可; 见文本",
+    "text_zh": "<p>施放本法术是尝试一个危险的举动：引诱一个其他位面的生物进入一个特别预先准备的陷阱，该陷阱必须位于法术范围内。呼唤来的生物将被困在陷阱中，除非它愿意为你效力一次以换取自由。<\/p><p>要制造这样的陷阱，你必须使用一个内向型的法阵 (magic circle) 法术。你必须预先知道并声明被束缚生物的类型。如果你希望呼唤某个特定的生物，你必须在施法时就使用该生物的真实名字。<\/p><p>目标生物允许进行一次意志豁免。如果生物通过了豁免，则它抵抗了法术。如果生物没有通过豁免，它就立即落入陷阱内 (生物的法术抗力并不能使它免于被呼唤)。生物可以用如下方式从陷阱里逃脱：成功地用它的法术抗力对抗你的施法者等级检定；通过次元旅行的方式；一次成功的魅力检定 (DC为 {15+1/2你的CL+你的魅力修正})。它每天可以用每种方法尝试一次。一旦生物成功逃脱，它就可以逃跑或者攻击你。在生物身上使用‘<a href=\"spell.html?spell=dimensional anchor\">次元锚 (dimensional anchor)<\/a>’可以阻止生物通过次元旅行的方式逃脱。你可以使用一个呼唤用魔法图阵 (calling diagram) 来进一步加固陷阱，相关内容详见‘<a href=\"spell.html?spell=magic circle against evil\">反邪恶法阵 (magic circle against evil)<\/a>’。<\/p><p>如果生物没有能逃脱，你想困住它多久都可以。通过描述要它做的事情，也许同时允诺某种报酬，你可以尝试强迫生物为你效力一次。你需要做一次魅力检定来对抗生物的魅力检定。基于不同的报酬和要完成的事情，你的魅力检定还有加值，加值的范围从+0到+6不等。如果生物赢得这次检定，则它拒绝为你效力。你可以重新提出新要求或进行贿赂等等，也可以每24小时重新提出你原有的提议。这一套步骤可以无限重复，直到生物答应为你效力、它成功逃脱、或者你决定用其他法术摆脱此生物。生物永远不会同意无法完成的要求或不合理的命令。如果你在魅力检定中投出1, 则生物从束缚中逃脱并可以逃走或攻击你。<\/p><p>一旦要求做的事情完成了，生物只需要通知你就能立即返回它来的地方。该生物有可能在将来寻求复仇。如果你给的任务没有明确的限度，且生物无法独自完成，则法术将持续有效至多每CL 1天，而生物则立即获得一次逃脱的机会 (使用与被困住的时候相同的机会)。需注意的是聪明的受命者能暗中破坏你所下达的指示。<\/p><p>注意：当你使用一个呼唤法术来呼唤气 (air)、混乱 (chaotic)、土 (earth)、邪恶 (evil)、火 (fire)、善良 (good)、秩序 (lawful)、或水 (water) 生物时，呼唤法术和生物属于同类型。<\/p>"
 }

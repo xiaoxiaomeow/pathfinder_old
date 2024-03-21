@@ -1,20 +1,25 @@
 {
     "key": "magic weapon",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-weapon/",
     "name": "Magic Weapon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Magic%20Weapon",
+    "source": ["PRPG Core Rulebook pg. 310"],
     "school": "transmutation",
     "levels":     {
         "antipaladin": 1,
+        "arcanist": 1,
         "bloodrager": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "inquisitor": 1,
         "magus": 1,
+        "occultist": 1,
+        "oracle": 1,
         "paladin": 1,
+        "redmantisassassin": 1,
         "shaman": 1,
-        "sorcerer/wizard": 1
+        "sorcerer": 1,
+        "warpriest": 1,
+        "wizard": 1
     },
-    "domains": {"war": 1},
-    "elementalSchools": {"metal": 1},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -22,7 +27,7 @@
     "duration": "1 min./level",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p><i>Magic weapon<\/i> gives a weapon a +1 enhancement bonus on attack and damage rolls. An enhancement bonus does not stack with a masterwork weapon's +1 bonus on attack rolls.<\/p><p>You can't cast this spell on a natural weapon, such as an unarmed strike (instead, see <i>magic fang<\/i>). A monk's unarmed strike is considered a weapon, and thus it can be enhanced by this spell.<\/p>",
+    "text": "<i>Magic weapon<\/i> gives a weapon a +1 enhancement bonus on attack and damage rolls. An enhancement bonus does not stack with a masterwork weapon's +1 bonus on attack rolls.<br><br>You can't cast this spell on a natural weapon, such as an unarmed strike (instead, see <i>magic fang<\/i>). A monk's unarmed strike is considered a weapon, and thus it can be enhanced by this spell.",
     "name_zh": "魔化武器",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -31,6 +36,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
     "spellResistance_zh": "可 (无害, 物体)",
-    "text_zh": "<p>魔化武器可以使一把武器在攻击检定和伤害检定上获得+1增强加值。增强加值与精制品武器在攻击检定上的+1加值不叠加。<\/p><p>你不能将该法术施放至天生武器上，例如徒手打击，详见魔牙术 (magic fang)。武僧的徒手打击被视为一种武器，所以可以被这个法术强化。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>魔化武器可以使一把武器在攻击检定和伤害检定上获得+1增强加值。增强加值与精制品武器在攻击检定上的+1加值不叠加。<\/p><p>你不能将该法术施放至天生武器上，例如徒手打击，详见魔牙术 (magic fang)。武僧的徒手打击被视为一种武器，所以可以被这个法术强化。<\/p>"
 }

@@ -1,29 +1,32 @@
 {
     "key": "effortless armor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/effortless-armor/",
     "name": "Effortless Armor",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Effortless%20Armor",
+    "source": ["Ultimate Combat pg. 228"],
     "school": "transmutation",
     "levels":     {
         "cleric": 2,
+        "hunter": 2,
         "inquisitor": 2,
         "magus": 2,
+        "occultist": 2,
+        "oracle": 2,
         "paladin": 2,
         "psychic": 2,
-        "ranger": 2
+        "ranger": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5).<\/p>",
+    "duration": "1 minute/level",
+    "text": "Armor you wear no longer reduces your speed. You also reduce the armor’s armor check penalty by 1 + 1 per five caster levels (maximum 5).",
     "name_zh": "轻便盔甲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>这个法术如同忍受环境 (Endure Elements) 一样工作，不过你可以以1小时为单位将持续时间分配给接触到的复数生物。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>这个法术如同忍受环境 (Endure Elements) 一样工作，不过你可以以1小时为单位将持续时间分配给接触到的复数生物。<\/p>"
 }

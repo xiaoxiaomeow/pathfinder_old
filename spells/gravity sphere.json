@@ -1,29 +1,31 @@
 {
     "key": "gravity sphere",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/gravity-sphere/",
     "name": "Gravity Sphere",
-    "book": "Pathfinder Player Companion: People of the Stars © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Gravity%20Sphere",
+    "source": ["People of the Stars pg. 28"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 5,
         "druid": 6,
-        "sorcerer/wizard": 5
+        "hunter": 6,
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a marble)",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "30-ft.-radius sphere of altered gravity",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none (see text)",
     "spellResistance": "no",
-    "text": "<p>You affect the local gravity field in a 30-foot-radius sphere around the spell's designated point of origin. Creatures in the affected area can be weighed down by high gravity, lightened by low gravity, or left to float in an area with no gravity, depending on the effect you choose for your gravity sphere.<\/p><p>Creatures that fall within the area of a gravity sphere spell take more damage from the fall if the gravity within is higher and less damage if the gravity within is lower. However, if the creature falls through a gravity sphere and continues to fall in a non-affected area, the rest of the fall damage is calculated normally. For instance, if a creature falls through 20 feet of a low-gravity sphere and an additional 30 feet outside the sphere, it would take 1d6 points of damage for the 20 feet of low gravity plus 3d6 points of damage as normal for the 30 feet outside the sphere (for a total of 4d6 points of damage).<\/p><p>This spell doesn't counteract or negate the effects of other spells that affect gravity; both effects occur simultaneously. For instance, a no-gravity gravity sphere spell cast within the area of a reverse gravity spell would simply mean that creatures float about until the gravity sphere's duration expires or they exit the gravity sphere, at which point they return to the top of the reverse gravity effect's area. If both gravity-altering magical effects could not feasibly take place simultaneously (at the GM's discretion), the gravity sphere spell supersedes the previous effect (if it's higher-level than the previous effect) or simply fails (if it's lower-level).<\/p>",
+    "text": "You affect the local gravity field in a 30-foot-radius sphere around the spell’s designated point of origin. Creatures in the affected area can be weighed down by high gravity, lightened by low gravity, or left to float in an area with no gravity, depending on the effect you choose for your <i>gravity sphere<\/i>. See page 18 for rules on the effects of high, low, and no gravity.<br><br> Creatures that fall within the area of a <i>gravity sphere<\/i> spell take more damage from the fall if the gravity within is higher and less damage if the gravity within is lower. However, if the creature falls through a <i>gravity sphere<\/i> and continues to fall in a non-affected area, the rest of the fall damage is calculated normally. For instance, if a creature falls through 20 feet of a lowgravity sphere and an additional 30 feet outside the sphere, it would take 1d6 points of damage for the 20 feet of low gravity plus 3d6 points of damage as normal for the 30 feet outside the sphere (for a total of 4d6 points of damage).<br><br> This spell doesn’t counteract or negate the effects of other spells that affect gravity; both effects occur simultaneously. For instance, a no-gravity <i>gravity sphere<\/i> spell cast within the area of a <i>reverse gravity<\/i> spell would simply mean that creatures float about until the <i>gravity sphere<\/i>’s duration expires or they exit the <i>gravity sphere<\/i>, at which point they return to the top of the reverse gravity effect’s area. If both gravity-altering magical effects could not feasibly take place simultaneously (at the GM’s discretion), the <i>gravity sphere<\/i> spell supersedes the previous effect (if it’s higher-level than the previous effect) or simply fails (if it’s lower-level).",
     "name_zh": "重力法球",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一块大理石)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "重力被更改的半径30呎球型",
-    "duration_zh": "1轮/等级 (D)",
-    "savingThrow_zh": "无 (见下)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你影响在法术设定的起始点，周围半径30呎球型区域的局部重力场域。在受影响区域内的生物可能因为高重力变重，因低重力变轻，或在无重力区域内飘浮，取决于你所选择的重力法球的效果。见本书P.18有关高、低、无重力的规则效果。\n生物在重力法球区域内坠落了话，如果是在高重力区域，回受到受众的伤害；如果是在低重力区域，会受到较轻的伤害。但是，如果生物坠落时穿越重力法球区域，并继续坠落到未被法术影响的区域，其余的坠落伤害正常计算。举个例子，如果一名生物坠落时穿越20呎的低重力法球，并且在法球的外部额外坠落30呎，它会因为在低重力区域中坠落20呎，受到1d6点的伤害，加上因为正常的在法球外部坠落30呎，受到3d6点的伤害(所以总伤害是4d6点)。\n此法术不会抵销或使也影响重力的其他法术的效果无效；两个效果会同时发生。举个例子，在反重力(reverse gravity)法术区域内施展重力法球(无重力)，这仅意味着该生物会漂浮，直到重力法球的持续时间结束，或他们离开重力法球，接着，他们回到顶部，反重力法术的效果的区域。如果两个更改重力的魔法效果不可能同时进行(由GM决定)，重力法球法术取代先前的效果(如果它比先前的效果环级更高)或著失败(如果它环级较低)。<\/p>",
-    "source": "PC-PoS"
+    "text_zh": "<p>你影响在法术设定的起始点，周围半径30呎球型区域的局部重力场域。在受影响区域内的生物可能因为高重力变重，因低重力变轻，或在无重力区域内飘浮，取决于你所选择的重力法球的效果。见本书P.18有关高、低、无重力的规则效果。<\/p><p>生物在重力法球区域内坠落了话，如果是在高重力区域，回受到受众的伤害；如果是在低重力区域，会受到较轻的伤害。但是，如果生物坠落时穿越重力法球区域，并继续坠落到未被法术影响的区域，其余的坠落伤害正常计算。举个例子，如果一名生物坠落时穿越20呎的低重力法球，并且在法球的外部额外坠落30呎，它会因为在低重力区域中坠落20呎，受到1d6点的伤害，加上因为正常的在法球外部坠落30呎，受到3d6点的伤害(所以总伤害是4d6点)。<\/p><p>此法术不会抵销或使也影响重力的其他法术的效果无效；两个效果会同时发生。举个例子，在反重力(reverse gravity)法术区域内施展重力法球(无重力)，这仅意味着该生物会漂浮，直到重力法球的持续时间结束，或他们离开重力法球，接着，他们回到顶部，反重力法术的效果的区域。如果两个更改重力的魔法效果不可能同时进行(由GM决定)，重力法球法术取代先前的效果(如果它比先前的效果环级更高)或著失败(如果它环级较低)。<\/p>"
 }

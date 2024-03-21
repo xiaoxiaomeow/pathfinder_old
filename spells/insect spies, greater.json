@@ -1,18 +1,32 @@
 {
     "key": "insect spies, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/insect-spies/",
     "name": "Insect Spies, Greater",
-    "base": "insect spies",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Insect%20Spies,%20Greater",
+    "source": ["Ultimate Intrigue pg. 217"],
     "school": "divination",
     "levels":     {
+        "arcanist": 7,
         "druid": 6,
-        "sorcerer/wizard": 7,
+        "hunter": 6,
+        "sorcerer": 7,
         "summoner": 6,
-        "witch": 7
+        "summoner (unchained)": 6,
+        "witch": 7,
+        "wizard": 7
     },
-    "text": "<p>As insect spies, but you can also borrow the senses of the summoned insects. As a move action, you can choose to receive sensory input from one of the insects, seeing what it sees and hearing what it hears. While doing so, you are treated as being blind and deaf. You can change to another insect, or return to your own senses, with another move action.<\/p><\/div>",
+    "castingTime": "1 round",
+    "components": "V, S, M (a drop of honey)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "up to one insect spy/4 levels",
+    "duration": "10 minutes/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "As <i>insect spies<\/i>, but you can also borrow the senses of the summoned insects. As a move action, you can choose to receive sensory input from one of the insects, seeing what it sees and hearing what it hears. While doing so, you are treated as being blind and deaf. You can change to another insect, or return to your own senses, with another move action.",
     "name_zh": "高等昆虫探子",
-    "text_zh": "<p>该法术就如同昆虫探子（Insect Spies）一般，不过你还能借调被召唤的昆虫的感官。以移动动作，你能够选择接收到其中1只昆虫的感官，看其所见听其所闻。当你这么做时会被视同为目盲（blind）和耳聋（deaf）。你能以另一个移动动作将感官切换至另一只昆虫上、或者返回自身的感官。<\/p>",
-    "source": "UI"
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术就如同昆虫探子（Insect Spies）一般，不过你还能借调被召唤的昆虫的感官。以移动动作，你能够选择接收到其中1只昆虫的感官，看其所见听其所闻。当你这么做时会被视同为目盲（blind）和耳聋（deaf）。你能以另一个移动动作将感官切换至另一只昆虫上、或者返回自身的感官。<\/p>"
 }

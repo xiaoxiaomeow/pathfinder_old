@@ -1,16 +1,19 @@
 {
     "key": "stalwart resolve",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stalwart-resolve/",
     "name": "Stalwart Resolve",
-    "book": "Pathfinder Campaign Setting: Pathfinder Society Field Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stalwart%20Resolve",
+    "source": ["Pathfinder Society Field Guide pg. 58"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "alchemist": 2,
         "cleric": 2,
         "inquisitor": 1,
+        "investigator": 2,
+        "oracle": 2,
         "paladin": 1,
+        "warpriest": 2,
         "witch": 2
     },
     "castingTime": "1 standard action",
@@ -20,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>Stalwart resolve was originally created to temporarily aid those suffering from certain afflictions. The recipient of stalwart resolve ignores the effects of ability damage and penalties to a single ability score of your choice, except that damage equal to or greater than the ability score still causes unconsciousness or death. This applies whether or not the ability damage or penalty happened before or during the spell's duration, and whether or not multiple sources are involved. This spell has no effect on ability drain.<\/p>",
+    "text": "<i>Stalwart resolve<\/i> was originally created to temporarily aid those suffering from certain afflictions. The recipient of <i>stalwart resolve<\/i> ignores the effects of ability damage and penalties to a single ability score of your choice, except that damage equal to or greater than the ability score still causes unconsciousness or death. This applies whether or not the ability damage or penalty happened before or during the spell’s duration, and whether or not multiple sources are involved. This spell has no effect on ability drain.",
     "name_zh": "坚定决心",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
-    "duration_zh": "1轮/等级 ",
+    "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>坚定决心起初是创造来暂时协助正遭受特定苦难的人的。坚定决心的受术者能忽视由施法者选择的某项属性的属性伤害或罚值，但若是属性伤害与属性值相等或超过属性值，仍然会让人昏迷甚至死亡。无论属性伤害或罚值是在本法术的持续施之前或之内，无论是否包含多种来源，本法术都会应用。本法术对属性吸取(ability drain)无能为力。<\/p>",
-    "source": "CS-PSFG"
+    "text_zh": "<p>坚定决心起初是创造来暂时协助正遭受特定苦难的人的。坚定决心的受术者能忽视由施法者选择的某项属性的属性伤害或罚值，但若是属性伤害与属性值相等或超过属性值，仍然会让人昏迷甚至死亡。无论属性伤害或罚值是在本法术的持续施之前或之内，无论是否包含多种来源，本法术都会应用。本法术对属性吸取(ability drain)无能为力。<\/p>"
 }

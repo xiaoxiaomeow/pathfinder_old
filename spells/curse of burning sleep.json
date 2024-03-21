@@ -1,34 +1,38 @@
 {
     "key": "curse of burning sleep",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-of-burning-sleep/",
     "name": "Curse of Burning Sleep",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20of%20Burning%20Sleep",
+    "source": ["Advanced Class Guide pg. 179"],
     "school": "transmutation",
     "descriptors":     [
         "curse",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
+        "psychic": 4,
+        "redmantisassassin": 4,
         "shaman": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a feather and a drop of oil)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "target": "one creature duration permanent until triggered (see text)",
+    "target": "one creature",
+    "duration": "permanent until triggered (see text)",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You place a curse upon the target that triggers 1 hour after the next time it falls asleep. When the curse is triggered, the creature bursts into flame, taking 1d6 points of fire damage per 2 caster levels (maximum 8d6). Furthermore, it catches on fire, taking 2d6 points of fire damage per round at the end of its turn each round until the creature dies or is quenched as normal. If the target is still asleep, the fire damage from this spell wakes it.<\/p><p>Only one of these spells can be in place on a creature at any time. This has no effect on creatures that don't sleep.<\/p>",
+    "text": "You place a curse upon the target that triggers 1 hour after the next time it falls asleep. When the curse is triggered, the creature bursts into flame, taking 1d6 points of fire damage per 2 caster levels (maximum 8d6). Furthermore, it catches on fire, taking 2d6 points of fire damage per round at the end of its turn each round until the creature dies or is quenched as normal (<i>Pathfinder RPG Core Rulebook<\/i> 444). If the target is still asleep, the fire damage from this spell wakes it.<br><br> Only one of these spells can be in place on a creature at any time. This has no effect on creatures that don’t sleep.",
     "name_zh": "燃眠诅咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一根羽毛和一滴油）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "duration_zh": "永久，直至被触发为止（见后文）",
-    "savingThrow_zh": "意志，通过则无效（见后文）",
+    "duration_zh": "永久, 直至被触发为止; 见文本",
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你诅咒目标，这会在1小时之后目标再次睡着时触发。当诅咒被触发时，该名生物会被陷入一股爆发的火焰之中，受到每两个施法者等级1d6点火焰伤害（最高8d6点）。此外，它还会被点燃（catches on fre），会在每轮中自己的回合结束时受到2d6点伤害，直至死亡为止或火焰被扑灭（见核心手册444页）。若目标仍然能睡着，那么来自该法术的火焰伤害可以唤醒它。\n无论任何时候，一名生物身上仅会受到一个该类法术的影响。该法术对不用睡觉的生物没有效果。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你诅咒目标，这会在1小时之后目标再次睡着时触发。当诅咒被触发时，该名生物会被陷入一股爆发的火焰之中，受到每两个施法者等级1d6点火焰伤害（最高8d6点）。此外，它还会被点燃（catches on fre），会在每轮中自己的回合结束时受到2d6点伤害，直至死亡为止或火焰被扑灭（见核心手册444页）。若目标仍然能睡着，那么来自该法术的火焰伤害可以唤醒它。<\/p><p>无论任何时候，一名生物身上仅会受到一个该类法术的影响。该法术对不用睡觉的生物没有效果。<\/p>"
 }

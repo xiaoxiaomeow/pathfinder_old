@@ -1,17 +1,32 @@
 {
     "key": "spellcrash",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spellcrash/",
     "name": "Spellcrash",
-    "base": "spellcrash, lesser",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spellcrash",
+    "source": ["Advanced Class Guide pg. 193"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "oracle": 6,
+        "psychic": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as <i>lesser spellcrash<\/i>, except that it affects 5th-level or lower prepared spells or spell slots.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>lesser spellcrash<\/i>, except that it affects 5th-level or lower prepared spells or spell slots.",
     "name_zh": "碎法咒",
-    "text_zh": "<p>该法术的功能如同次等碎法咒（Spellcrash, Lesser）一般，不过它能够影响5级或者更低等级的准备好的法术或法术位。<\/p>",
-    "source": "ACG"
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同次等碎法咒（Spellcrash, Lesser）一般，不过它能够影响5级或者更低等级的准备好的法术或法术位。<\/p>"
 }

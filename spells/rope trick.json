@@ -1,23 +1,26 @@
 {
     "key": "rope trick",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/rope-trick/",
     "name": "Rope Trick",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rope%20Trick",
+    "source": ["PRPG Core Rulebook pg. 335"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 2,
         "medium": 2,
         "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (powdered corn and a twisted loop of parchment)",
     "range": "touch",
     "target": "one touched piece of rope from 5 ft. to 30 ft. long",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>When this spell is cast upon a piece of rope from 5 to 30 feet long, one end of the rope rises into the air until the whole rope hangs perpendicular to the ground, as if affixed at the upper end. The upper end is, in fact, fastened to an extra-dimensional space that is outside the usual multiverse of extra-dimensional spaces. Creatures in the extra-dimensional space are hidden, beyond the reach of spells (including divinations), unless those spells work across planes. The space holds as many as eight creatures (of any size). The rope cannot be removed or hidden. The rope can support up to 16,000 pounds. A weight greater than that can pull the rope free.<\/p><p>Spells cannot be cast across the extra-dimensional interface, nor can area effects cross it. Those in the extra-dimensional space can see out of it as if a 3-foot-by-5-foot window were centered on the rope. The window is invisible, and even creatures that can see the window can't see through it. Anything inside the extra-dimensional space drops out when the spell ends. The rope can be climbed by only one person at a time. The <i>rope trick<\/i> spell enables climbers to reach a normal place if they do not climb all the way to the extra-dimensional space.<\/p>",
+    "text": "When this spell is cast upon a piece of rope from 5 to 30 feet long, one end of the rope rises into the air until the whole rope hangs perpendicular to the ground, as if affixed at the upper end. The upper end is, in fact, fastened to an extradimensional space that is outside the usual multiverse of extradimensional spaces. Creatures in the extradimensional space are hidden, beyond the reach of spells (including divinations), unless those spells work across planes. The space holds as many as eight creatures (of any size). The rope cannot be removed or hidden. The rope can support up to 16,000 pounds. A weight greater than that can pull the rope free.<br><br>Spells cannot be cast across the extradimensional interface, nor can area effects cross it. Those in the extradimensional space can see out of it as if a 3-foot-by-5-foot window were centered on the rope. The window is invisible, and even creatures that can see the window can't see through it. Anything inside the extradimensional space drops out when the spell ends. The rope can be climbed by only one person at a time. The rope trick spell enables climbers to reach a normal place if they do not climb all the way to the extradimensional space.",
     "name_zh": "魔绳术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (谷物粉末和扭成环状的羊皮纸)",
@@ -26,6 +29,5 @@
     "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>当本法术被施展在一条5至30尺长的绳索上的时候，绳的一端会向上升起直到整条绳索垂直于地面挂在空中，如同被系在较高的地方一样。事实上，绳子较高的一端系在一个多元宇宙外的异次元空间中。在此异次元空间内的生物会被隐藏起来，不会被外来的法术所影响 (包括预言系法术)，除非这些法术能够作用不同的位面。此空间能够容纳最多8个生物 (任意体型)。这根绳索无法被移除或隐藏。它能够支持16,000磅的重量。超过此重量的力量可以把这条绳索从此空间中扯下来。<\/p><p>法术和区域性效果都不能穿越此空间的边界。在此空间内的生物能够看到外面的景象，如同在绳索的位置有一个3尺乘5尺大小的窗口一样。这个窗口是隐形的，并且即使是能看到它的生物也不能通过它看到它之后的状况。当法术结束的时候，此空间内的所有东西都会掉出来。同一时间只有一个人能爬上这条绳索。魔绳术能让攀爬者抵达正常地区，只要攀爬者不要爬完全部路程抵达那个异次元空间即可。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>当本法术被施展在一条5至30尺长的绳索上的时候，绳的一端会向上升起直到整条绳索垂直于地面挂在空中，如同被系在较高的地方一样。事实上，绳子较高的一端系在一个多元宇宙外的异次元空间中。在此异次元空间内的生物会被隐藏起来，不会被外来的法术所影响 (包括预言系法术)，除非这些法术能够作用不同的位面。此空间能够容纳最多8个生物 (任意体型)。这根绳索无法被移除或隐藏。它能够支持16,000磅的重量。超过此重量的力量可以把这条绳索从此空间中扯下来。<\/p><p>法术和区域性效果都不能穿越此空间的边界。在此空间内的生物能够看到外面的景象，如同在绳索的位置有一个3尺乘5尺大小的窗口一样。这个窗口是隐形的，并且即使是能看到它的生物也不能通过它看到它之后的状况。当法术结束的时候，此空间内的所有东西都会掉出来。同一时间只有一个人能爬上这条绳索。魔绳术能让攀爬者抵达正常地区，只要攀爬者不要爬完全部路程抵达那个异次元空间即可。<\/p>"
 }

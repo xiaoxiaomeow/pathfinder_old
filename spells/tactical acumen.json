@@ -1,12 +1,13 @@
 {
     "key": "tactical acumen",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tactical-acumen/",
     "name": "Tactical Acumen",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tactical%20Acumen",
+    "source": ["Ultimate Combat pg. 246"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "inquisitor": 2,
         "magus": 2,
@@ -14,24 +15,23 @@
         "occultist": 2,
         "paladin": 1,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a small piece of a map)",
     "range": "30 ft.",
     "area": "The caster and all allies within a 30-ft.-radius burst, centered on the caster",
-    "duration": "1 round/level (d)",
-    "savingThrow": "Will negates (harmless)",
-    "spellResistance": "yes (harmless)",
-    "text": "<p>Tactical acumen grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "Tactical acumen grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).",
     "name_zh": "战术敏锐",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一小片地图)",
     "range_zh": "30尺",
     "area_zh": "施放者以及以施法者为中心30尺半径爆发范围内的所有盟友",
     "duration_zh": "1轮/等级 (可解消)",
-    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "savingThrow_zh": "意志，通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>战术敏锐可以给予你和你的盟友掌控战场的战术能力。每当你的攻击骰和AC在战场阵型和地形上获得加值——如夹击、居高临下、遮蔽——时，你获得额外+1的洞察加值。此加值在5级以后，每5施法者等级多+1 (最高+4)。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>战术敏锐可以给予你和你的盟友掌控战场的战术能力。每当你的攻击骰和AC在战场阵型和地形上获得加值——如夹击、居高临下、遮蔽——时，你获得额外+1的洞察加值。此加值在5级以后，每5施法者等级多+1 (最高+4)。<\/p>"
 }

@@ -1,28 +1,32 @@
 {
     "key": "sure casting",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sure-casting/",
     "name": "Sure Casting",
-    "book": "Pathfinder Player Companion: Pathfinder Society Primer © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sure%20Casting",
+    "source": ["Pathfinder Society Primer pg. 13"],
     "school": "divination",
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "cleric": 1,
         "inquisitor": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "oracle": 1,
+        "skald": 1,
+        "sorcerer": 1,
+        "warpriest": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, F (a square of cloth and a needle)",
     "range": "personal",
     "target": "you",
     "duration": "1 round (see text)",
-    "text": "<p>You gain temporary insight into your enemies' magical defenses. When you next cast a spell before the end of the next round, treat your caster level as 5 higher than normal for the purpose of overcoming spell resistance. This bonus doesn't increase any other effects that depend on caster level, such as the spell's damage or range, and affects only the first spell cast after sure casting.<\/p>",
+    "text": "You gain temporary insight into your enemies’ magical defenses. When you next cast a spell before the end of the next round, treat your caster level as 5 higher than normal for the purpose of overcoming spell resistance. This bonus doesn’t increase any other effects that depend on caster level, such as the spell’s damage or range, and affects only the first spell cast after <i>sure casting<\/i>.",
     "name_zh": "精确施法",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、器材（一块方布和一根针）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮(见下文)",
-    "text_zh": "<p>你获得暂时的洞察力来看穿敌人的魔法防御。当你在下一轮结束前施放一个法术，在击穿法术抗性时视你的施法者等级比正常情况高5级。此加值不会增加任何其他由施法者等级影响的效果，如法术的伤害或范围，并只影响施放精确施法后的第一个法术。\n介绍\n相较其他探索者协会成员，剑卫的成员一般都不那么擅长奥法技艺，但他们仍利用如下列的战斗导向的法术。<\/p>",
-    "source": "PC-PSP"
+    "duration_zh": "1轮; 见文本",
+    "text_zh": "<p>你获得暂时的洞察力来看穿敌人的魔法防御。当你在下一轮结束前施放一个法术，在击穿法术抗性时视你的施法者等级比正常情况高5级。此加值不会增加任何其他由施法者等级影响的效果，如法术的伤害或范围，并只影响施放精确施法后的第一个法术。<\/p><p>介绍<\/p><p>相较其他探索者协会成员，剑卫的成员一般都不那么擅长奥法技艺，但他们仍利用如下列的战斗导向的法术。<\/p>"
 }

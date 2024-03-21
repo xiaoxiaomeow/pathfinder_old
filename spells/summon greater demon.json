@@ -1,0 +1,34 @@
+{
+    "key": "summon greater demon",
+    "name": "Summon Greater Demon",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Greater%20Demon",
+    "source": ["Pathfinder #74: Sword of Valor pg. 75"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "descriptors":     [
+        "chaotic",
+        "evil"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 9,
+        "cleric": 9,
+        "oracle": 9,
+        "sorcerer": 9,
+        "witch": 9,
+        "wizard": 9
+    },
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (a tiny bag and a small candle)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned creature",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>summon monster<\/i>, except it allows you to summon a single coloxus (<i>Pathfinder RPG Bestiary 3<\/i> 72), an omox demon (<i>Pathfinder RPG Bestiary 2<\/i> 79), or 1d3 kalavakus demons (<i>Bestiary 2<\/i> 78).",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

@@ -1,24 +1,16 @@
 {
     "key": "mind blank",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-blank/",
     "name": "Mind Blank",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mind%20Blank",
+    "source": ["PRPG Core Rulebook pg. 313"],
     "school": "abjuration",
     "levels":     {
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "psychic": 7,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "domains":     {
-        "liberation": 8,
-        "protection": 8
-    },
-    "subdomains":     {
-        "flowing": 8,
-        "thought": 8
-    },
-    "elementalSchools": {"void": 8},
-    "bloodlines": {"aberrant": 8},
-    "mysteries": {"intrigue": 8},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -26,15 +18,14 @@
     "duration": "24 hours",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The subject is protected from all devices and spells that gather information about the target through divination magic (such as detect evil, locate creature, scry, and see invisible). This spell also grants a +8 resistance bonus on saving throws against all mind-affecting spells and effects. Mind blank even foils limited wish, miracle, and wish spells when they are used in such a way as to gain information about the target. In the case of scrying that scans an area the creature is in, such as arcane eye, the spell works but the creature simply isn't detected. Scrying attempts that are targeted specifically at the subject do not work at all.<\/p>",
+    "text": "The subject is protected from all devices and spells that gather information about the target through divination magic (such as <i>detect evil<\/i>, <i>locate creature<\/i>, <i>scry<\/i>, and <i>see invisible<\/i>). This spell also grants a +8 resistance bonus on saving throws against all mind-affecting spells and effects. <i>Mind blank<\/i> even foils <i>limited wish<\/i>, <i>miracle<\/i>, and <i>wish<\/i> spells when they are used in such a way as to gain information about the target. In the case of scrying that scans an area the creature is in, such as <i>arcane eye<\/i>, the spell works but the creature simply isn't detected. Scrying attempts that are targeted specifically at the subject do not work at all.",
     "name_zh": "心灵屏障",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "24小时",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>此法术能使受术者抵御所有通过预言系法术获取目标信息的法术或装置，比如‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’、‘<a href=\"spell.html?spell=locate creature\">生物定位术 (locate creature)<\/a>’、探知 (scry) 以及‘<a href=\"spell.html?spell=see invisibility\">识破隐形 (see invisibility)<\/a>’。该法术还会使目标在对抗所有影响心灵法术与效果时，豁免获得+8抗力加值。心灵屏障甚至还能挫败用于获取目标相关信息时的‘<a href=\"spell.html?spell=limited wish\">有限祈愿术 (limited wish)<\/a>’、‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’和‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’。在生物处于探知类法术扫瞄区域范围之内的情况时，比如‘<a href=\"spell.html?spell=arcane eye\">秘法眼 (arcane eye)<\/a>’法术，虽然法术起作用，但是该生物不会被侦测到。对受术者进行探知特定目标的尝试则完全不会产生效果。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>此法术能使受术者抵御所有通过预言系法术获取目标信息的法术或装置，比如‘<a href=\"spell.html?spell=detect evil\">侦测邪恶 (detect evil)<\/a>’、‘<a href=\"spell.html?spell=locate creature\">生物定位术 (locate creature)<\/a>’、探知 (scry) 以及‘<a href=\"spell.html?spell=see invisibility\">识破隐形 (see invisibility)<\/a>’。该法术还会使目标在对抗所有影响心灵法术与效果时，豁免获得+8抗力加值。心灵屏障甚至还能挫败用于获取目标相关信息时的‘<a href=\"spell.html?spell=limited wish\">有限祈愿术 (limited wish)<\/a>’、‘<a href=\"spell.html?spell=miracle\">神迹术 (miracle)<\/a>’和‘<a href=\"spell.html?spell=wish\">祈愿术 (wish)<\/a>’。在生物处于探知类法术扫瞄区域范围之内的情况时，比如‘<a href=\"spell.html?spell=arcane eye\">秘法眼 (arcane eye)<\/a>’法术，虽然法术起作用，但是该生物不会被侦测到。对受术者进行探知特定目标的尝试则完全不会产生效果。<\/p>"
 }

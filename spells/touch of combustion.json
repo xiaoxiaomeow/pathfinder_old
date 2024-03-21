@@ -1,27 +1,31 @@
 {
     "key": "touch of combustion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-combustion/",
     "name": "Touch of Combustion",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Combustion",
+    "source": ["Advanced Race Guide pg. 131"],
     "school": "evocation",
     "descriptors": ["fire"],
+    "race": "ifrit",
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
         "inquisitor": 1,
         "magus": 1,
         "psychic": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "creature or object touched",
     "duration": "instantaneous",
-    "savingThrow": "Reflex negates",
+    "savingThrow": "Reflex negates, see text",
     "spellResistance": "yes",
-    "text": "<p>Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If it fails its saving throw, the target also catches on fire. If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take 1d4 points of fire damage.<\/p>",
+    "text": "Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If it fails its saving throw, the target also catches on fire . If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take 1d4 points of fire damage.",
     "name_zh": "爆燃之触",
     "race_zh": "火元素裔",
     "castingTime_zh": "标准动作",
@@ -29,8 +33,7 @@
     "range_zh": "接触",
     "target_zh": "接触到的生物或物品",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射, 通过则无效",
+    "savingThrow_zh": "反射, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你成功的近战接触攻击会使目标被卷入猛烈的火焰爆发，这造成1d6点火焰伤害。如果他在豁免检定中失败，就会被点燃。若目标被点燃，从下一轮开始，与该其相邻的生物 (包括你) 必须进行一次成功的反射豁免检定，否则会受到1d4点火焰伤害。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>你成功的近战接触攻击会使目标被卷入猛烈的火焰爆发，这造成1d6点火焰伤害。如果他在豁免检定中失败，就会被点燃。若目标被点燃，从下一轮开始，与该其相邻的生物 (包括你) 必须进行一次成功的反射豁免检定，否则会受到1d4点火焰伤害。<\/p>"
 }

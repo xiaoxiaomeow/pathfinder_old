@@ -1,29 +1,30 @@
 {
     "key": "force hook charge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/force-hook-charge/",
     "name": "Force Hook Charge",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Force%20Hook%20Charge",
+    "source": ["Ultimate Magic pg. 220"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
         "bloodrager": 3,
-        "magus": 3
+        "magus": 3,
+        "psychic": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
-    "range": "close (25 feet + 5 feet/2 levels)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature or object within range and you",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You create a hook of force that strikes the target and drags you to a space adjacent to it. Make a ranged touch attack against the target; if the touch attack succeeds, the target takes 1 point of force damage per caster level. Whether or not the touch attack hits, the force hook drags you in a straight line to a square adjacent to the target. This movement provokes attacks of opportunity as normal. The pulling hook keeps you from falling as part of this movement; therefore you can use it to cross a pit or chasm, or reach a higher or lower elevation. If the line of effect from you to the target passes through an area that is too small to fit your body (such as a portcullis or arrow slit), the hook pulls you to that location and you take damage as if you had fallen the distance from your starting point to that location. If you are restrained, such as being chained to a wall, the hook pulls you to the maximum extent of your restraints but does not break the restraints.<\/p><p>If your travel to the destination is not blocked, you land on your feet, unharmed by the sudden motion. However, the spell does not guarantee you a safe landing space when you arrive. For example, if your target is flying or on a ledge with no room for you to stand, once the hook pulls you adjacent to the target, you begin to fall.<\/p><p>If you use this spell with your spell combat class ability, you can make your melee attack from your starting position or your ending position.<\/p>",
+    "text": "You create a hook of force that strikes the target and drags you to a space adjacent to it. Make a ranged touch attack against the target; if the touch attack succeeds, the target takes 1 point of force damage per caster level. Whether or not the touch attack hits, the force hook drags you in a straight line to a square adjacent to the target. This movement provokes attacks of opportunity as normal. The pulling hook keeps you from falling as part of this movement; therefore you can use it to cross a pit or chasm, or reach a higher or lower elevation. If the line of effect from you to the target passes through an area that is too small to fit your body (such as a portcullis or arrow slit), the hook pulls you to that location and you take damage as if you had fallen the distance from your starting point to that location. If you are restrained, such as being chained to a wall, the hook pulls you to the maximum extent of your restraints but does not break the restraints.<br><br>If your travel to the destination is not blocked, you land on your feet, unharmed by the sudden motion. However, the spell does not guarantee you a safe landing space when you arrive. For example, if your target is flying or on a ledge with no room for you to stand, once the hook pulls you adjacent to the target, you begin to fall.<br><br>If you use this spell with your spell combat class ability, you can make your melee attack from your starting position or your ending position.",
     "name_zh": "力场钩链",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "你自己加上范围内一个生物或物品",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你创造了一条力场钩链袭击目标，并将自己拉到邻近目标的空间。对目标进行一次远程接触攻击，如果接触攻击成功命中，那么目标受到每施法者等级1点力场伤害。无论接触攻击是否命中，力场钩链会以直线将你拉至邻近目标的方格。以此方式移动如常引发藉机攻击。钩链使你不致下落，这算作本次移动的一部分；因此你可以使用它飞跃深坑或裂口，或者以此到达较高或较低的位置。如果你到目标之间的效果线穿过了不足以容纳你的身体狭小的空间 (比如铁栅栏或夹缝)，钩链会将你拉至狭窄位置并且你会受到伤害，就如你从等同于起点到达狭窄位置的距离一样高的地方坠落一样。如果你被限制住 (restrained) ——比如被锁在墙壁上——钩链会拉动你到达被限制状态下所能移动的最远距离，但是不会挣脱限制。<\/p><p>如果你不受阻碍地到达了目的地，你会双脚着地，并且不会由于这突然的动作受伤。然而该法术并不会保证你在到达时安全着陆。比如，如果你的目标正在飞行或者在窗台上，所处位置没有你能够踏足的空间，一旦钩链将你拉至目标身边后，你将会开始坠落。<\/p><p>如果你在法术战斗职业能力时使用该法术，那么你能够在起始或结束位置进行近战攻击。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你创造了一条力场钩链袭击目标，并将自己拉到邻近目标的空间。对目标进行一次远程接触攻击，如果接触攻击成功命中，那么目标受到每施法者等级1点力场伤害。无论接触攻击是否命中，力场钩链会以直线将你拉至邻近目标的方格。以此方式移动如常引发藉机攻击。钩链使你不致下落，这算作本次移动的一部分；因此你可以使用它飞跃深坑或裂口，或者以此到达较高或较低的位置。如果你到目标之间的效果线穿过了不足以容纳你的身体狭小的空间 (比如铁栅栏或夹缝)，钩链会将你拉至狭窄位置并且你会受到伤害，就如你从等同于起点到达狭窄位置的距离一样高的地方坠落一样。如果你被限制住 (restrained) ——比如被锁在墙壁上——钩链会拉动你到达被限制状态下所能移动的最远距离，但是不会挣脱限制。<\/p><p>如果你不受阻碍地到达了目的地，你会双脚着地，并且不会由于这突然的动作受伤。然而该法术并不会保证你在到达时安全着陆。比如，如果你的目标正在飞行或者在窗台上，所处位置没有你能够踏足的空间，一旦钩链将你拉至目标身边后，你将会开始坠落。<\/p><p>如果你在法术战斗职业能力时使用该法术，那么你能够在起始或结束位置进行近战攻击。<\/p>"
 }

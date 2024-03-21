@@ -1,21 +1,32 @@
 {
     "key": "human potential, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/human-potential/",
     "name": "Human Potential, Mass",
-    "base": "human potential",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Human%20Potential,%20Mass",
+    "source": ["Arcane Anthology pg. 9"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "bard": 6,
         "psychic": 6,
-        "sorcerer/wizard": 6,
-        "summoner": 6
+        "skald": 6,
+        "sorcerer": 6,
+        "summoner": 6,
+        "wizard": 6
     },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a human hair)",
     "range": "close (25 ft. + 5 ft./2 levels)",
-    "text": "<p>This spell functions like <i>human potential<\/i>, except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.<\/p>",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 minute/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>human potential<\/i>, except it affects multiple creatures. Each target can choose a different ability score to be enhanced by this spell.",
     "name_zh": "群体人性潜力",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物/等级，彼此相距不得超过30呎",
-    "text_zh": "<p>这种法术类似于人性潜力，除了可以影响多个生物。每个目标可以选择不同的属性来强化。<\/p>",
-    "source": "PC-AAnth"
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这种法术类似于人性潜力，除了可以影响多个生物。每个目标可以选择不同的属性来强化。<\/p>"
 }

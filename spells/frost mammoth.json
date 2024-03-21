@@ -1,34 +1,40 @@
 {
     "key": "frost mammoth",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/frost-mammoth/",
     "name": "Frost Mammoth",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Frost%20Mammoth",
+    "source":     [
+        "Adventurer's Guide pg. 134",
+        "People of the North pg. 26"
+    ],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 7,
         "cleric": 7,
         "druid": 7,
+        "oracle": 7,
         "shaman": 7,
-        "sorcerer/wizard": 7,
-        "summoner": 6
+        "sorcerer": 7,
+        "summoner": 6,
+        "summoner (unchained)": 6,
+        "wizard": 7
     },
     "castingTime": "1 round",
     "components": "V, S, M (a fragment of mammoth tusk)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "one frost mammoth",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A blast of snow suddenly fills an area with a space of 15 feet, immediately taking the shape of a woolly mammoth made of snow with tusks of solid ice. The mammoth has statistics identical to those of a mastodon, except it also has the cold subtype (and thus gains immunity to cold and vulnerability to fire). The frost mammoth obeys your telepathic commands. It allows you or anyone you designate to ride it, and it is treated as if combat trained. At 17th level, a frost mammoth you conjure deals an additional 1d6 points of cold damage with each physical attack.<\/p>",
+    "text": "A blast of snow suddenly fills an area with a space of 15 feet, immediately taking the shape of a woolly mammoth made of snow with tusks of solid ice. The mammoth has statistics identical to those of a mastodon (<i>Pathfinder RPG Bestiary<\/i> 128), except it also has the cold subtype (and thus gains immunity to cold and vulnerability to fire). The frost mammoth obeys your telepathic commands. It allows you or anyone you designate to ride it, and it is treated as if combat trained. At 17th level, a frost mammoth you conjure deals an additional 1d6 points of cold damage with each physical attack.",
     "name_zh": "复霜猛玛",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势、材料 (猛玛象牙的碎片)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一头复霜的猛玛",
-    "duration_zh": "1轮/等级 (D)",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>一阵突如其来的大雪填满了一处15呎的空间，这阵大雪立即形成看上去用雪做成，一头模糊不清的猛玛象，长牙则是尖冰。这头猛玛象有着与乳齿象(mastodon，怪物图鑑P.128)相同的数据，除了它还拥有寒系亚种(获得免疫寒冷以及火焰易伤)。这头复霜猛玛服从妳的心灵指令。牠能让你或任何你指定的人骑乘，并且视作受过战斗训练。于17等时，一头你召唤的复霜猛玛每一次物理攻击额外凿成1d6点寒冷伤害。<\/p>",
-    "source": "PC-PotN"
+    "text_zh": "<p>一阵突如其来的大雪填满了一处15呎的空间，这阵大雪立即形成看上去用雪做成，一头模糊不清的猛玛象，长牙则是尖冰。这头猛玛象有着与乳齿象(mastodon，怪物图鑑P.128)相同的数据，除了它还拥有寒系亚种(获得免疫寒冷以及火焰易伤)。这头复霜猛玛服从妳的心灵指令。牠能让你或任何你指定的人骑乘，并且视作受过战斗训练。于17等时，一头你召唤的复霜猛玛每一次物理攻击额外凿成1d6点寒冷伤害。<\/p>"
 }

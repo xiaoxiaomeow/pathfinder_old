@@ -1,16 +1,18 @@
 {
     "key": "phantasmal affliction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-affliction/",
     "name": "Phantasmal Affliction",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Phantasmal%20Affliction",
+    "source": ["Ultimate Intrigue pg. 221"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 3,
         "mesmerist": 2,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a drop of cod liver oil)",
@@ -19,15 +21,14 @@
     "duration": "see text",
     "savingThrow": "Will disbelief, then Fortitude or Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You cause the creature to believe she has a debilitating affliction.<\/p><p>The target can attempt a Will save to recognize the affliction as unreal. If that save fails, the creature suffers an imaginary affliction of your choice.<\/p><ul>  <li><b>Curse<\/b>: The target believes she has been cursed. She takes a permanent –4 penalty on attack rolls, saves, ability checks, and skill checks for 1 hour per caster level. After her save to disbelieve, the target attempts a second Will save to negate this effect.<\/li>  <li><b>Poison<\/b>: The target believes she has been poisoned. Choose a physical ability score. Each round for 6 rounds, plus 1 round per 5 caster levels, the target takes 1d3 points of damage to the chosen ability score. Each turn, the creature can attempt a Fortitude save to negate the damage and end the ongoing damage.<\/li>  <li><b>Wasting<\/b>: The target believes she has contracted a wasting disease. Each day, the creature takes 1d4 points of Constitution damage and becomes fatigued. A successful Fortitude save prevents this damage. Two consecutive successful saves end the effect.<\/li> <\/ul><p>Since the affliction exists entirely in the creature's mind, <em>phantasmal affliction<\/em> is not affected by normal cures like neutralize poison or remove disease, or other effects like delay poison or the Heal skill. Ordinary immunities do not apply in this case (though a creature immune to the affliction receives a +4 bonus on the Will save to disbelieve the illusion).<\/p><p>Constitution damage from the affliction can't kill the target.<\/p><p>Instead, it causes the target to fall unconscious like other forms of ability damage. <em>Phantasmal affliction<\/em> is a spell effect and can be dispelled normally.<\/p><p><i>Placebo effect<\/i> counters and dispels <em>phantasmal affliction<\/em>.<\/p>",
+    "text": "You cause the creature to believe she has a debilitating affliction. The target can attempt a Will save to recognize the affliction as unreal. If that save fails, the creature suffers an imaginary affliction of your choice.<br><br> <i>Curse<\/i>: The target believes she has been cursed. She takes a permanent –4 penalty on attack rolls, saves, ability checks, and skill checks for 1 hour per caster level. After her save to disbelieve, the target attempts a second Will save to negate this effect.<br><br> <i>Poison<\/i>: The target believes she has been poisoned. Choose a physical ability score. Each round for 6 rounds, plus 1 round per 5 caster levels, the target takes 1d3 points of damage to the chosen ability score. Each turn, the creature can attempt a Fortitude save to negate the damage and end the ongoing damage.<br><br> <i>Wasting<\/i>: The target believes she has contracted a wasting disease. Each day, the creature takes 1d4 points of Constitution damage and becomes fatigued. A successful Fortitude save prevents this damage. Two consecutive successful saves end the effect.<br><br> Since the affliction exists entirely in the creature’s mind, <i>phantasmal affliction<\/i> is not affected by normal cures like <i>neutralize poison <\/i>or <i>remove disease<\/i>, or other effects like <i>delay poison <\/i>or the Heal skill. Ordinary immunities do not apply in this case (though a creature immune to the affliction receives a +4 bonus on the Will save to disbelieve the illusion). Constitution damage from the affliction can’t kill the target. Instead, it causes the target to fall unconscious like other forms of ability damage. <i>Phantasmal affliction <\/i>is a spell effect and can be dispelled normally.<br><br> <i>Placebo effect<sup>OA<\/sup><\/i> counters and dispels <i>phantasmal affliction<\/i>.",
     "name_zh": "魅影苦难",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（1滴鱼肝油）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "活物",
-    "duration_zh": "见后文",
-    "savingThrow_zh": "意志，通过则不相信 之后 强韧或意志，通过则无效（见后文）",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "意志, 通过则不相信 之后 强韧或意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你让生物相信自己被苦难（affliction）所削弱。目标能够尝试1次意志豁免来认出这并非真实的苦难。若该次豁免失败，该生物则会依照你的选择承受1个虚构苦难（imaginary affliction）。\n诅咒（Curse）：目标相信自己被诅咒了。她会在攻击检定、豁免、属性检定和技能检定中承受持续性的-4减值，持续每施法者等级1小时。在目标进行是否相信该法术的豁免后，她要尝试第二次意志豁免，通过则不会受到该效果影响。\n毒素（Poison）：目标相信自己中毒了。选择1种体能属性（physical ability score）。在6轮外加每5个施法者等级1轮中，目标每轮都会在你选择的属性中承受1d3点伤害。每个回合，该生物都能尝试1次强韧豁免来使伤害失效，并且终止持续性的伤害。\n衰弱（Wasting）：目标相信自己染上了会致人衰弱的疾病。目标每日都要承受1d4点体质伤害，并且会变得疲乏（fatigued）。成功的强韧豁免能防止该伤害。连续2次成功通过豁免会终止该效果。\n由于该项苦难是存在于目标的意识中的，所以常规的治愈手段无法影响魅影苦难，比如中和毒素（neutralize poison）、移除疾病（remove disease）、减缓毒发（delay poison）或医疗技能。常规的免疫不适用于此情况（不过免疫相应苦难的生物会在不相信幻象的意志豁免中获得+4加值）。苦难带来的体质伤害并不会杀死目标。取而代之的是，它会如同其他形式的属性伤害一般让目标陷入昏迷（fall unconscious）。魅影苦难是1种法术效果，能够被正常解除（dispelled）。\n安慰效应（Placebo Effect；OA）反制并解除魅影苦难。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你让生物相信自己被苦难（affliction）所削弱。目标能够尝试1次意志豁免来认出这并非真实的苦难。若该次豁免失败，该生物则会依照你的选择承受1个虚构苦难（imaginary affliction）。<\/p><p>诅咒（Curse）：目标相信自己被诅咒了。她会在攻击检定、豁免、属性检定和技能检定中承受持续性的-4减值，持续每施法者等级1小时。在目标进行是否相信该法术的豁免后，她要尝试第二次意志豁免，通过则不会受到该效果影响。<\/p><p>毒素（Poison）：目标相信自己中毒了。选择1种体能属性（physical ability score）。在6轮外加每5个施法者等级1轮中，目标每轮都会在你选择的属性中承受1d3点伤害。每个回合，该生物都能尝试1次强韧豁免来使伤害失效，并且终止持续性的伤害。<\/p><p>衰弱（Wasting）：目标相信自己染上了会致人衰弱的疾病。目标每日都要承受1d4点体质伤害，并且会变得疲乏（fatigued）。成功的强韧豁免能防止该伤害。连续2次成功通过豁免会终止该效果。<\/p><p>由于该项苦难是存在于目标的意识中的，所以常规的治愈手段无法影响魅影苦难，比如中和毒素（neutralize poison）、移除疾病（remove disease）、减缓毒发（delay poison）或医疗技能。常规的免疫不适用于此情况（不过免疫相应苦难的生物会在不相信幻象的意志豁免中获得+4加值）。苦难带来的体质伤害并不会杀死目标。取而代之的是，它会如同其他形式的属性伤害一般让目标陷入昏迷（fall unconscious）。魅影苦难是1种法术效果，能够被正常解除（dispelled）。<\/p><p>安慰效应（Placebo Effect；OA）反制并解除魅影苦难。<\/p>"
 }

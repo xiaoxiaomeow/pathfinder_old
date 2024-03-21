@@ -1,30 +1,32 @@
 {
     "key": "dwarven veil",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dwarven-veil/",
     "name": "Dwarven Veil",
-    "book": "Pathfinder Companion: Dwarves of Golarion. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dwarven%20Veil",
+    "source": ["Dwarves of Golarion pg. 22"],
     "school": "transmutation",
+    "race": "Bolka",
     "levels":     {
         "cleric": 2,
-        "paladin": 2
+        "oracle": 2,
+        "paladin": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
-    "duration": "10 min.s/level",
-    "savingThrow": "Will negates",
+    "duration": "10 minutes/level",
+    "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>This spell enhances the target's dwarven or dwarf-like qualities, making it appear more attractive, personable, and worthy of respect and admiration by dwarves. The target is still recognizable as itself.<\/i><\/p><p>The target gains a +2 circumstance bonus to checks to influence dwarves (such as Diplomacy, Intimidate, and so on).<\/p>",
+    "text": "This spell enhances the target’s dwarven or dwarf-like qualities, making it appear more attractive, personable, and worthy of respect and admiration by dwarves. The target is still recognizable as itself. The target gains a +2 circumstance bonus to checks to influence dwarves (such as Diplomacy, Intimidate, and so on).",
     "name_zh": "矮人之纱",
     "race_zh": "波络卡",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "10分钟/等级",
-    "savingThrow_zh": "意志, 通过则无效",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>这种法术会强化目标的矮人或类矮人属性，让他看起来更有吸引力，更有人缘，并值得矮人的尊敬和赞赏。目标仍然可以被认出是他自己。目标在影响矮人的检定上获得+2环境奖励（如外交、恐吓等）。<\/p>",
-    "source": "PC-DoG"
+    "text_zh": "<p>这种法术会强化目标的矮人或类矮人属性，让他看起来更有吸引力，更有人缘，并值得矮人的尊敬和赞赏。目标仍然可以被认出是他自己。目标在影响矮人的检定上获得+2环境奖励（如外交、恐吓等）。<\/p>"
 }

@@ -1,18 +1,15 @@
 {
     "key": "creeping doom",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/creeping-doom/",
     "name": "Creeping Doom",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Creeping%20Doom",
+    "source": ["PRPG Core Rulebook pg. 262"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
         "druid": 7,
         "shaman": 7,
         "summoner": 5,
-        "unchained summoner": 6
-    },
-    "mysteries":     {
-        "juju": 7,
-        "nature": 7
+        "summoner (unchained)": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -21,15 +18,14 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude partial, see text",
     "spellResistance": "no",
-    "text": "<p>This spell summons four massive swarms of biting and stinging insects. These swarms appear adjacent to one another, but can be directed to move independently. Treat these swarms as centipede swarms with the following adjustments. The swarms have 60 hit points each and deal 4d6 points of damage with their swarm attack. The save to resist their poison and distraction effects is equal to the save DC of this spell. Creatures caught in multiple swarms only take damage and make saves once.<\/p><p>You may summon the swarms so that they share the area of other creatures. As a standard action, you can command any number of the swarms to move toward any target within 100 feet of you. You cannot command any swarm to move more than 100 feet away from you, and if you move more than 100 feet from any swarm, that swarm remains stationary, attacking any creatures in its area (but can be commanded again if you move within 100 feet).<\/p>",
+    "text": "This spell summons four massive swarms of biting and stinging insects. These swarms appear adjacent to one another, but can be directed to move independently. Treat these swarms as centipede swarms with the following adjustments. The swarms have 60 hit points each and deal 4d6 points of damage with their swarm attack. The save to resist their poison and distraction effects is equal to the save DC of this spell. Creatures caught in multiple swarms only take damage and make saves once.<br><br>You may summon the swarms so that they share the area of other creatures. As a standard action, you can command any number of the swarms to move toward any target within 100 feet of you. You cannot command any swarm to move more than 100 feet away from you, and if you move more than 100 feet from any swarm, that swarm remains stationary, attacking any creatures in its area (but can be commanded again if you move within 100 feet).",
     "name_zh": "漫天虫蚀",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 或 100尺; 见后文",
+    "range_zh": "近距 (25尺+每2等级5尺) 或 100尺; 见文本",
     "effect_zh": "四个昆虫集群",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧, 通过则部分生效; 见后文",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术会创造出大量会叮咬蜇人的昆虫集群。这些集群在出现时要彼此相邻，但是它们能够分别移动。这些集群被视为蜈蚣集群 (centipede swarms)，并受到后述调整。每个集群都具有60点HP，并且能使用它们的集群攻击造成4d6点伤害。抵御集群的毒素和“扰乱心神 (Distraction)”效果的豁免DC与法术的豁免DC相同。遭受复数集群攻击的生物只会受到一次伤害，也只需要进行一次豁免。<\/p><p>你可以将集群召唤至其他生物所处的区域。以标准动作，你能够命令任意数量的集群，使它们向着任意目标移动，不过集群都必须在距你100尺的范围内。你无法命令任何集群移动到距离你100尺之外的区域，若你移动至距离集群100尺之外，那么超出距离的集群就会停留在原地，并且攻击任何在其所在区域内的生物 (不过若你回到100尺范围内，它们就会再度听命于你)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会创造出大量会叮咬蜇人的昆虫集群。这些集群在出现时要彼此相邻，但是它们能够分别移动。这些集群被视为蜈蚣集群 (centipede swarms)，并受到后述调整。每个集群都具有60点HP，并且能使用它们的集群攻击造成4d6点伤害。抵御集群的毒素和“扰乱心神 (Distraction)”效果的豁免DC与法术的豁免DC相同。遭受复数集群攻击的生物只会受到一次伤害，也只需要进行一次豁免。<\/p><p>你可以将集群召唤至其他生物所处的区域。以标准动作，你能够命令任意数量的集群，使它们向着任意目标移动，不过集群都必须在距你100尺的范围内。你无法命令任何集群移动到距离你100尺之外的区域，若你移动至距离集群100尺之外，那么超出距离的集群就会停留在原地，并且攻击任何在其所在区域内的生物 (不过若你回到100尺范围内，它们就会再度听命于你)。<\/p>"
 }

@@ -1,18 +1,21 @@
 {
     "key": "protection from arrows",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-arrows/",
     "name": "Protection from Arrows",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Arrows",
+    "source": ["PRPG Core Rulebook pg. 327"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
+        "investigator": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
+        "sorcerer": 2,
         "spiritualist": 2,
-        "summoner/unchained summoner": 2
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
     },
-    "elementalSchools": {"wood": 2},
     "castingTime": "1 standard action",
     "components": "V, S, F (a piece of tortoiseshell or turtle shell)",
     "range": "touch",
@@ -20,15 +23,16 @@
     "duration": "1 hour/level or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The warded creature gains resistance to ranged weapons. The subject gains damage reduction 10/magic against ranged weapons. This spell doesn't grant you the ability to damage creatures with similar damage reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.<\/p>",
+    "text": "The warded creature gains resistance to ranged weapons. The subject gains damage reduction 10/magic against ranged weapons. This spell doesn't grant you the ability to damage creatures with similar damage reduction. Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.<h2 class=\"title\">Mythic Protection from Arrows<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 104<\/i><br>The damage reduction increases to 15/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged weapon attack, it turns the projectile or weapon back on the attacker, using the same attack roll result. If the attacker is also protected by <i>mythic protection from arrows<\/i> and its spell completely prevents the damage from the rebounded attack, the weapon or projectile is destroyed. ",
+    "mythicSource": ["Mythic Adventures pg. 104"],
+    "mythicText": "The damage reduction increases to 15/magic. The maximum damage prevented by the spell increases to 15 points per caster level (maximum 150 points). If the spell prevents all damage from a ranged weapon attack, it turns the projectile or weapon back on the attacker, using the same attack roll result. If the attacker is also protected by <i>mythic protection from arrows<\/i> and its spell completely prevents the damage from the rebounded attack, the weapon or projectile is destroyed. ",
     "name_zh": "防护箭矢",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 器材 (一片龟甲或龟壳)",
     "range_zh": "接触",
     "target_zh": "接触到的生物",
-    "duration_zh": "1小时/等级 或 直至耗散",
+    "duration_zh": "1小时/等级 或 直至能量散发",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>受防护的生物获得抵抗远程武器的能力。受术者对远程武器获得 {10/魔法} 的伤害减免。这个法术不会让你获得伤害具有类似DR生物的能力。一旦这个法术防护掉了总数为每CL 10点的伤害 (最多100点)，这个法术耗散。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受防护的生物获得抵抗远程武器的能力。受术者对远程武器获得 {10/魔法} 的伤害减免。这个法术不会让你获得伤害具有类似DR生物的能力。一旦这个法术防护掉了总数为每CL 10点的伤害 (最多100点)，这个法术耗散。<\/p>"
 }

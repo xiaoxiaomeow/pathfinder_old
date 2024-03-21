@@ -1,22 +1,34 @@
 {
     "key": "symbol of slowing",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-slowing/",
     "name": "Symbol of Slowing",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Symbol%20of%20Slowing",
+    "source": ["Ultimate Magic pg. 242"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "arcanist": 4,
+        "cleric": 4,
+        "occultist": 3,
+        "oracle": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "warpriest": 4,
+        "witch": 4,
+        "wizard": 4
     },
+    "castingTime": "10 minutes",
     "components": "V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)",
+    "range": "0 ft.; see text",
+    "effect": "one symbol",
+    "duration": "see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as symbol of death, except all creatures within 60 feet of a symbol of slowing are slowed (as the slow spell) for 1 round per caster level.<\/p><p><i>Symbol of slowing<\/i> can be made permanent with a permanency spell by a caster of 11th level or higher for the cost of 10,000 gp.<\/p>",
+    "text": "This spell functions as <i>symbol of death<\/i>, except all creatures within 60 feet of a <i>symbol of slowing <\/i>are slowed (as the <i>slow <\/i>spell) for 1 round per caster level.<br><br><i>Symbol of slowing <\/i>can be made permanent with a <i>permanency <\/i>spell by a caster of 11th level or higher for the cost of 10,000 gp.",
     "name_zh": "迟缓徽记",
+    "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 材料 (水银、磷，加上合计1000gp的钻石和蛋白石粉末)",
+    "range_zh": "0尺; 见文本",
+    "duration_zh": "见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式类似死亡徽记，不过所有60尺以内的生物都会变得迟缓 (如同缓慢术 (Slow) )，持续1轮每施法者等级。<\/p><p>迟缓徽记可以被魔法恒定术 (Permanency) 所恒定，需要施法者等级11级以及花费10000GP。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式类似死亡徽记，不过所有60尺以内的生物都会变得迟缓 (如同缓慢术 (Slow) )，持续1轮每施法者等级。<\/p><p>迟缓徽记可以被魔法恒定术 (Permanency) 所恒定，需要施法者等级11级以及花费10000GP。<\/p>"
 }

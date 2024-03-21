@@ -1,21 +1,29 @@
 {
     "key": "share shape",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/share-shape/",
     "name": "Share Shape",
-    "book": "Pathfinder Player Companion: Animal Archive © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Share%20Shape",
+    "source": ["Animal Archive pg. 25"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
+        "arcanist": 4,
+        "hunter": 3,
         "ranger": 3,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "redmantisassassin": 4,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
-    "duration": "1 hour/level (d)",
-    "text": "<p>This spell functions as beast shape II, but you may only assume the form of an animal of a type identical to your animal companion or familiar. If your familiar or companion is not an animal, this spell has no effect.<\/p>",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 hour/level (D)",
+    "text": "This spell functions as <i>beast shape II<\/i>, but you may only assume the form of an animal of a type identical to your animal companion or familiar. If your familiar or companion is not an animal, this spell has no effect.",
     "name_zh": "共享形态",
     "castingTime_zh": "标准动作",
-    "duration_zh": "1小时/等级（D）",
-    "text_zh": "<p>该法术的功能如同野兽形态II（beast shape II）一般，不过你只能获得与你的动物伙伴或魔宠相同动物类型的形态。如果你的魔宠或伙伴并非动物，该法术无效。<\/p>",
-    "source": "PC-AArch"
+    "range_zh": "个人",
+    "target_zh": "你的动物伙伴、魔宠或者魔物仆从（fiendish servant）",
+    "duration_zh": "1小时/等级 (可解消)",
+    "text_zh": "<p>该法术的功能如同护卫他人（shield other）一般，不过只能影响施法者的动物伙伴或魔宠。通常不会获得动物伙伴、魔宠或者魔物仆从（fiendish servant）的施法者，但是由替换职业能力、变体职业能力或者进阶职业获得上述生物的角色，并且能够施法的话，就能够将该法术作为1级法术施放。<\/p>"
 }

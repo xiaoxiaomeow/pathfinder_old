@@ -1,11 +1,13 @@
 {
     "key": "find quarry",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/find-quarry/",
     "name": "Find Quarry",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20Quarry",
+    "source": ["Ultimate Combat pg. 230"],
     "school": "divination",
     "levels":     {
+        "hunter": 4,
         "inquisitor": 4,
+        "occultist": 5,
         "ranger": 4
     },
     "castingTime": "1 standard action",
@@ -15,15 +17,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You sense whether a well-known creature you can clearly visualize is within a 20-mile radius of your current location, as well as the distance and direction to the creature in relation to you. You also discern whether the creature is moving, and its direction, speed, and mode of movement. The radius you can sense increases by 5 miles for every two caster levels you have above 10th (to a maximum of a 45-mile radius at 20th level). Anything that would prevent <i>locate creature<\/i> from finding a creature also prevents <i>find quarry<\/i> from doing so.<\/p>",
+    "text": "You sense whether a well-known creature you can clearly visualize is within a 20-mile radius of your current location, as well as the distance and direction to the creature in relation to you. You also discern whether the creature is moving, and its direction, speed, and mode of movement. The radius you can sense increases by 5 miles for every two caster levels you have above 10th (to a maximum of a 45-mile radius at 20th level). Anything that would prevent <i>locate creature<\/i> from finding a creature also prevents <i>find quarry<\/i> from doing so.",
     "name_zh": "追寻猎物",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能够清楚地察觉到以你当前20英里半径范围之内，一名你所熟知的生物与你相对的距离与方向。你还能识别该生物是否在移动，以及它移动的方向、速度与运动方式。你的施法者等级在到达10级后，每提高2级这个感知范围就会增加5英里 (最高为20级时的半径45英里)。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你能够清楚地察觉到以你当前20英里半径范围之内，一名你所熟知的生物与你相对的距离与方向。你还能识别该生物是否在移动，以及它移动的方向、速度与运动方式。你的施法者等级在到达10级后，每提高2级这个感知范围就会增加5英里 (最高为20级时的半径45英里)。<\/p>"
 }

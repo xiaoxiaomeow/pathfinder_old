@@ -1,24 +1,30 @@
 {
     "key": "abundant ammunition",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/abundant-ammunition/",
     "name": "Abundant Ammunition",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abundant%20Ammunition",
+    "source": ["Ultimate Combat pg. 222"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
         "cleric": 1,
+        "hunter": 1,
+        "oracle": 1,
         "psychic": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "warpriest": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a single piece of ammunition)",
     "target": "one container touched",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken, but not special materials, alchemical attributes, or nonmagical treatments on the ammunition) at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as align weapon or greater magic weapon, on the same container, all projectiles this spell conjures are affected by that spell.<\/p>",
+    "text": "When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken, but not special materials, achemical attributes, or nonmagical treatments on the ammunition), at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as <i>align weapon <\/i>or <i>greater magic weapon<\/i>, on the same container, all projectiles this spell conjures are affected by that spell.",
     "name_zh": "弹药补给",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一枚弹药)",
@@ -26,6 +32,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>当这个法术被施放在一个容器——例如箭袋和装着未附魔弹药或手里剑的标囊——时，在每一轮的开始，法术效果都会重置容器内前一轮被取出的弹药。这些弹药在被拿出容器一轮后将会消失。<\/p><p>在被施放该法术后，如果该容器被施放了另一个法术，例如阵营武器和高等魔化武器，本法术生产的所有的弹药都会受到相同效果影响。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>当这个法术被施放在一个容器——例如箭袋和装着未附魔弹药或手里剑的标囊——时，在每一轮的开始，法术效果都会重置容器内前一轮被取出的弹药。这些弹药在被拿出容器一轮后将会消失。<\/p><p>在被施放该法术后，如果该容器被施放了另一个法术，例如阵营武器和高等魔化武器，本法术生产的所有的弹药都会受到相同效果影响。<\/p>"
 }

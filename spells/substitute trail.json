@@ -1,27 +1,29 @@
 {
     "key": "substitute trail",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/substitute-trail/",
     "name": "Substitute Trail",
-    "book": "Pathfinder Campaign Setting: Inner Sea Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Substitute%20Trail",
+    "source": ["Inner Sea Intrigue pg. 62"],
     "school": "transmutation",
     "levels":     {
         "druid": 4,
+        "hunter": 4,
         "ranger": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
+    "range": "unlimited",
     "target": "1 creature/level; see text",
-    "duration": "1 day/level (d)",
+    "duration": "1 day/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell can affect any creatures with which you interacted in the last 24 hours. You alter the trails left by the chosen creatures, making it appear that another creature with which you are familiar left the trail instead (you must have met the creature with which you are familiar). If a tracker exceeds the DC of the skill check to follow the trail by an amount equal to your caster level, the tracker recognizes that the trail has been manipulated by this spell, although it cannot see the trail's true nature unless it uses magical means, such as true seeing.<\/p><\/div>",
+    "text": "This spell can affect any creatures with which you interacted in the last 24 hours. You alter the trails left by the chosen creatures, making it appear that another creature with which you are familiar left the trail instead (you must have met the creature with which you are familiar). If a tracker exceeds the DC of the skill check to follow the trail by an amount equal to your caster level, the tracker recognizes that the trail has been manipulated by this spell, although it cannot see the trail’s true nature unless it uses magical means, such as <i>true seeing<\/i>.",
     "name_zh": "替代痕迹",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
+    "range_zh": "无限",
     "target_zh": "一个生物/等级；见正文",
-    "duration_zh": "1天/等级（可消解）",
+    "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这种法术可以影响你在过去24小时内与之互动过的任何生物。你能改变被选中生物留下的痕迹，用另一种你熟悉的生物的痕迹取而代之（你必须见过这种生物）。如果追踪者在追踪痕迹的技能检定中得到的结果超越DC的数目相当于你的施法等级，追踪者会认出痕迹已经被这种法术修改过，虽然他不能看到痕迹的真实本质，除非他使用魔法手段，例如真知术。<\/p>",
-    "source": "CS-ISI"
+    "text_zh": "<p>这种法术可以影响你在过去24小时内与之互动过的任何生物。你能改变被选中生物留下的痕迹，用另一种你熟悉的生物的痕迹取而代之（你必须见过这种生物）。如果追踪者在追踪痕迹的技能检定中得到的结果超越DC的数目相当于你的施法等级，追踪者会认出痕迹已经被这种法术修改过，虽然他不能看到痕迹的真实本质，除非他使用魔法手段，例如真知术。<\/p>"
 }

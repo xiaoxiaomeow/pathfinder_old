@@ -1,22 +1,32 @@
 {
     "key": "energy hack",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/energy-hack/",
     "name": "Energy Hack",
-    "book": "Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Energy%20Hack",
+    "source": ["Advanced Class Origins pg. 31"],
     "school": "transmutation",
-    "levels": {"sorcerer/wizard": 4},
+    "descriptors":     [
+        "acid",
+        "cold",
+        "electricity",
+        "fire"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 4,
+        "sorcerer": 4,
+        "wizard": 4
+    },
     "castingTime": "1 immediate action",
     "components": "V",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level (see below)",
-    "text": "<p>You can cast this spell only when you take 10 or more points of acid, cold, electricity, or fire damage from a spell or spell-like ability—this spell has the same energy descriptors as the damaging effect. When you use a spell or spell-like ability with the acid, cold, electricity, or fire descriptor or use an arcanist exploit, arcane school power, bloodline power, magus arcana, or hex that deals acid, cold, electricity, or fire damage, you can choose to change the energy type and descriptor to match one of the descriptors of energy hack.<\/p><p>Any other effect of that spell or power remains the same.<\/p><p>If you have the arcane reservoir class feature, if you take another 10 points of acid, cold, electricity, or fire damage while under the effect of energy hack, as a free action you can expend 1 point from your arcane reservoir to reset the duration of energy hack to 1 round per level and add the new type of damage you took to the list of energy types you can choose to substitute. You can expend points in this way multiple times as long as you do so before the duration expires.<\/p>",
+    "text": "You can cast this spell only when you take 10 or more points of acid, cold, electricity, or fire damage from a spell or spell-like ability—this spell has the same energy descriptors as the damaging effect. When you use a spell or spell-like ability with the acid, cold, electricity, or fire descriptor or use an arcanist exploit, arcane school power, bloodline power, magus arcana, or hex that deals acid, cold, electricity, or fire damage, you can choose to change the energy type and descriptor to match one of the descriptors of <i>energy hack<\/i>. Any other effect of that spell or power remains the same.<br><br> If you have the arcane reservoir class feature, if you take another 10 points of acid, cold, electricity, or fire damage while under the effect of <i>energy hack<\/i>, as a free action you can expend 1 point from your arcane reservoir to reset the duration of energy hack to 1 round per level and add the new type of damage you took to the list of energy types you can choose to substitute. You can expend points in this way multiple times as long as you do so before the duration expires.",
     "name_zh": "能量窃取",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级 (见下)",
-    "text_zh": "<p>你只能够在当你受到10点，或超过10点，来自法术或类法术能力的酸液、寒冷、电击或火焰的伤害时施展此法术─这法术有着与伤害效果相同类型的能量描述符。当你使用一个有着酸液、寒冷、电击或火焰描述符的法术或类法术能力；或使用会造成酸液、寒冷、电击或火焰伤害的奥能技艺(arcanist exploits)、奥术学派能力(arcane school powers)、狂血之力(bloodline power)、魔战士奥能(magus arcana)或女巫巫术(witch hexes)时，你可以选择改变该能量类型与描述符，来贴合能量窃取(Energy Hack)的描述符之一。该法术或力量的任何其他效果保持原样。\n如果你拥有奥术源泉(arcane reservoir)职业能力，如果当你处于能量窃取效果之下时，又额外受到10点酸液、寒冷、电击或火焰伤害，以一个自由动作，你可以从你的奥术源泉中消耗1点来重置能量窃取的持续时间，重置后的持续时间为1轮+每施法者等级，并且将你所受到的伤害的新能量种类加到你可以选择替换的能量种类列表中。你可以多次以这种方法消耗点数，只要是在持续时间结束之前。<\/p>",
-    "source": "PC-ACO"
+    "duration_zh": "1轮/等级; 见文本",
+    "text_zh": "<p>你只能够在当你受到10点，或超过10点，来自法术或类法术能力的酸液、寒冷、电击或火焰的伤害时施展此法术─这法术有着与伤害效果相同类型的能量描述符。当你使用一个有着酸液、寒冷、电击或火焰描述符的法术或类法术能力；或使用会造成酸液、寒冷、电击或火焰伤害的奥能技艺(arcanist exploits)、奥术学派能力(arcane school powers)、狂血之力(bloodline power)、魔战士奥能(magus arcana)或女巫巫术(witch hexes)时，你可以选择改变该能量类型与描述符，来贴合能量窃取(Energy Hack)的描述符之一。该法术或力量的任何其他效果保持原样。<\/p><p>如果你拥有奥术源泉(arcane reservoir)职业能力，如果当你处于能量窃取效果之下时，又额外受到10点酸液、寒冷、电击或火焰伤害，以一个自由动作，你可以从你的奥术源泉中消耗1点来重置能量窃取的持续时间，重置后的持续时间为1轮+每施法者等级，并且将你所受到的伤害的新能量种类加到你可以选择替换的能量种类列表中。你可以多次以这种方法消耗点数，只要是在持续时间结束之前。<\/p>"
 }

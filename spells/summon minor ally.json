@@ -1,30 +1,30 @@
 {
     "key": "summon minor ally",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-minor-ally/",
     "name": "Summon Minor Ally",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Minor%20Ally",
+    "source": ["Ultimate Magic pg. 241"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "ranger": 1
     },
     "castingTime": "1 round",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "1d3 summoned creatures",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions as <i>summon nature's ally I<\/i>, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature.<\/p>",
+    "text": "This spell functions as <i>summon nature’s ally I<\/i>, except you can summon 1d3 Tiny or smaller animals, such as bats, lizards, monkeys, rats, ravens, toads, or weasels. The summoned animals must all be the same type of creature.",
     "name_zh": "召唤次级盟友",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "1d3个召唤生物",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>该法术的功能如同一级召唤自然盟友术 (summon nature's ally I)，不过你只能召唤出1d3只超小型或小型动物，比如蝙蝠、蜥蜴、猴子、老鼠、渡鸦、蟾蜍或鼬。被召唤的动物必须全部为同样类型的生物。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>该法术的功能如同一级召唤自然盟友术 (summon nature's ally I)，不过你只能召唤出1d3只超小型或小型动物，比如蝙蝠、蜥蜴、猴子、老鼠、渡鸦、蟾蜍或鼬。被召唤的动物必须全部为同样类型的生物。<\/p>"
 }

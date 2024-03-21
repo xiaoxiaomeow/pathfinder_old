@@ -1,13 +1,18 @@
 {
     "key": "waves of fatigue",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/waves-of-fatigue/",
     "name": "Waves of Fatigue",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Waves%20of%20Fatigue",
+    "source": ["PRPG Core Rulebook pg. 368"],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "arcanist": 5,
+        "mesmerist": 5,
+        "psychic": 5,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "witch": 5,
+        "wizard": 5
     },
-    "subdomains": {"toil": 5},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "30 ft.",
@@ -15,7 +20,7 @@
     "duration": "instantaneous",
     "savingThrow": "no",
     "spellResistance": "yes",
-    "text": "<p>Waves of negative energy render all living creatures in the spell's area fatigued. This spell has no effect on a creature that is already fatigued.<\/p>",
+    "text": "Waves of negative energy render all living creatures in the spell's area fatigued. This spell has no effect on a creature that is already fatigued.",
     "name_zh": "疲乏波",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -24,6 +29,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>负能量波会使得法术区域内的所有活物疲乏。该法术对已经疲乏的生物没有效果。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>负能量波会使得法术区域内的所有活物疲乏。该法术对已经疲乏的生物没有效果。<\/p>"
 }

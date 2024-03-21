@@ -1,21 +1,25 @@
 {
     "key": "homeward bound",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/homeward-bound/",
     "name": "Homeward Bound",
-    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Homeward%20Bound",
+    "source": ["Planar Adventures pg. 41"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 4,
         "cleric": 3,
-        "sorcerer/wizard": 4
+        "oracle": 3,
+        "sorcerer": 4,
+        "warpriest": 3,
+        "wizard": 4
     },
     "castingTime": "1 minute",
     "components": "V, S",
     "range": "touch",
-    "target": "one willing extraplanar creature",
+    "target": "one living extraplanar creature",
     "duration": "instantaneous",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as dismissal, except as noted above.<\/p>",
+    "text": "This spell functions as <i>dismissal<\/i>, except as noted above.",
     "name_zh": "归家术",
     "castingTime_zh": "1分钟",
     "components_zh": "言语，姿势",
@@ -24,6 +28,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这种法术类似于驱逐术（Dismissal），除了上述内容。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>这种法术类似于驱逐术（Dismissal），除了上述内容。<\/p>"
 }

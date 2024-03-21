@@ -1,18 +1,31 @@
 {
     "key": "create greater undead",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-undead/",
     "name": "Create Greater Undead",
-    "base": "create undead",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Greater%20Undead",
+    "source": ["PRPG Core Rulebook pg. 261"],
     "school": "necromancy",
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 8,
+        "arcanist": 8,
+        "cleric": 8,
+        "oracle": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8
+        "sorcerer": 8,
+        "wizard": 8
     },
-    "domains": {"death": 8},
-    "text": "<p>This spell functions like <i>create undead<\/i>, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead created is based on caster level, as shown below.<\/p><table border=\"1\" cellpadding=\"5\"><thead><tr><th class=\"text\">Caster Level<\/th><th class=\"text\">Undead Created<\/th><th class=\"text\">Additional Requirements<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">15th or lower<\/td><td class=\"text\">Shadow<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">15th+<\/td><td class=\"text\">Allip<\/td><td class=\"text\">Insanity<\/td><\/tr><tr><td class=\"number\">16th-17th<\/td><td class=\"text\">Wraith<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">18th+<\/td><td class=\"text\">Totenmaske<\/td><td class=\"text\">Caster must be a cleric<\/td><\/tr><tr><td class=\"number\">18th-19th<\/td><td class=\"text\">Spectre<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">19th<\/td><td class=\"text\">Bonestorm <sup style=\"font-size: 10px\">5<\/sup><\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">19th<\/td><td class=\"text\">Greater shadow<\/td><td class=\"text\">Shadow walk<\/td><\/tr><tr><td class=\"number\">19th<\/td><td class=\"text\">Witchfire<\/td><td class=\"text\">Corpse of a hag<\/td><\/tr><tr><td class=\"number\">20th+<\/td><td class=\"text\">Banshee<\/td><td class=\"text\">Fear, wail of the banshee, corpse of a female elf<\/td><\/tr><tr><td class=\"number\">20th+<\/td><td class=\"text\">Bodak <sup style=\"font-size: 10px\">6<\/sup><\/td><td class=\"text\">Must be cast in the Abyss<\/td><\/tr><tr><td class=\"number\">20th+<\/td><td class=\"text\">Devourer<\/td><td class=\"text\"> <\/td><\/tr><tr><td class=\"number\">20th+<\/td><td class=\"text\">Minor reaper<\/td><td class=\"text\"> <\/td><\/tr><\/tbody><\/table><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">5<\/sup> A cleric, wizard, or sorcerer may create a bonestorm by casting <i>create greater undead<\/i>, if the caster possesses the required caster level of 19th or higher.<\/p><p style=\"font-size: 12px\"><sup style=\"font-size: 10px\">6<\/sup> A 20th-level spellcaster can use <i>create greater undead<\/i> to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes (traditionally the Abyss).<\/p><\/div>",
+    "castingTime": "1 hour",
+    "components": "V, S, M (a clay pot filled with grave dirt and an onyx gem worth at least 50 gp per HD of the undead to be created)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one corpse",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>create undead<\/i>, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead created is based on caster level, as shown below.<br><br><table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td><b>Undead Created<\/b><\/td><\/tr><tr><td>15th or lower<\/td><td>Shadow<\/td><\/tr><tr><td>16th-17th<\/td><td>Wraith<\/td><\/tr><tr><td>18th-19th<\/td><td>Spectre<\/td><\/tr><tr><td>20th or higher<\/td><td>Devourer<\/td><\/tr><\/table>",
     "name_zh": "唤起高等死灵",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=create undead\">唤起死灵 (create undead)<\/a>’一般，不过你能够创造出具有更强大力量以及更高智能的不死生物：幽影、缚灵、幽灵以及囚魂魔。你所能创造的不死生物种类取决于你的CL，如下表所述。\n施法者等级\n 可创造的不死生物\n15或更低\n 幽影 (shadows)\n16 – 17\n 缚灵 (wraiths)\n18 – 19\n 幽灵 (spectres)\n20或更高\n 囚魂魔 (devourers)<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "1小声",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=create undead\">唤起死灵 (create undead)<\/a>’一般，不过你能够创造出具有更强大力量以及更高智能的不死生物：幽影、缚灵、幽灵以及囚魂魔。你所能创造的不死生物种类取决于你的CL，如下表所述。<\/p><p>施法者等级 可创造的不死生物<\/p><p>15或更低 幽影 (shadows)<\/p><p>16 – 17 缚灵 (wraiths)<\/p><p>18 – 19 幽灵 (spectres)<\/p><p>20或更高 囚魂魔 (devourers)<\/p>"
 }

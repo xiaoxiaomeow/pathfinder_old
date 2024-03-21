@@ -1,12 +1,18 @@
 {
     "key": "early judgment",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/early-judgment/",
     "name": "Early Judgment",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Early%20Judgment",
+    "source":     [
+        "Inner Sea Gods pg. 233",
+        "Faiths of Balance pg. 29"
+    ],
     "school": "divination",
+    "race": "Pharasma",
     "levels":     {
-        "cleric/oracle": 2,
+        "cleric": 2,
         "inquisitor": 2,
+        "oracle": 2,
+        "warpriest": 2,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -16,16 +22,15 @@
     "duration": "1d4 rounds",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>Depending on the creature's alignment and its adherence to its ethos, you can provide it a brief glimpse of the reward or punishment that waits for it when it dies by showing it a mental image of its destined plane in the afterlife. If the target is good-aligned, it is fascinated for 1d4 rounds on a failed save. If the target is neutral-aligned, it is confused for 1d4 rounds on a failed save. If the target is evil-aligned, it is shaken for 1d4 rounds on a failed save.<\/p>",
+    "text": "You show one creature the effect of its life so far and what it might expect when it passes under Pharasma’s impartial gaze at the end of its life. Depending on the creature’s alignment and its adherence to its ethos, you can provide it a brief glimpse of the reward or punishment that waits for it when it dies by showing it a mental image of its destined plane in the Great Beyond. If the target is good-aligned, it is fascinated for 1d4 rounds on a failed save. If the target is neutral-aligned, it is confused for 1d4 rounds on a failed save. If the target is evil-aligned, it is shaken for 1d4 rounds on a failed save.",
     "name_zh": "审判将至",
     "race_zh": "法莱斯玛",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个类人生物",
     "duration_zh": "1d4轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你为一个生物展示了它迄今为止的生命的影响，以及当它在生命结束时，经过法莱斯玛的公正的凝视后可能会发生什么。基于这个法术的受术者阵营和他的道德观念，他会目睹自己在死去之后将在伟大彼岸中属于他的那个阵营界域接受折磨或获得奖励的情景。如果目标是善良阵营，这个法术将使他迷魂1d4轮；如果目标是中立阵营，这个法术将使他困惑1d4轮；如果目标是邪恶阵营，这个法术将使他战栗1d4轮。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你为一个生物展示了它迄今为止的生命的影响，以及当它在生命结束时，经过法莱斯玛的公正的凝视后可能会发生什么。基于这个法术的受术者阵营和他的道德观念，他会目睹自己在死去之后将在伟大彼岸中属于他的那个阵营界域接受折磨或获得奖励的情景。如果目标是善良阵营，这个法术将使他迷魂1d4轮；如果目标是中立阵营，这个法术将使他困惑1d4轮；如果目标是邪恶阵营，这个法术将使他战栗1d4轮。<\/p>"
 }

@@ -1,0 +1,21 @@
+{
+    "key": "life conduit, greater",
+    "name": "Life Conduit, Greater",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Life%20Conduit,%20Greater",
+    "source": ["Ultimate Combat pg. 234"],
+    "school": "conjuration",
+    "subSchools": ["healing"],
+    "levels":     {
+        "summoner": 5,
+        "summoner (unchained)": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round/level",
+    "text": "This spell functions like <i>life conduit<\/i>, except you can transfer 3d6 hit points as a swift action.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮/等级"
+}

@@ -1,38 +1,30 @@
 {
     "key": "protection from energy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/protection-from-energy/",
     "name": "Protection from Energy",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Protection%20from%20Energy",
+    "source": ["PRPG Core Rulebook pg. 327"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 3,
+        "arcanist": 3,
         "bloodrager": 3,
-        "cleric/oracle": 3,
+        "cleric": 3,
         "druid": 3,
+        "hunter": 2,
         "inquisitor": 3,
+        "investigator": 3,
         "occultist": 3,
+        "oracle": 3,
         "psychic": 3,
         "ranger": 2,
         "shaman": 3,
-        "sorcerer/wizard": 3,
+        "sorcerer": 3,
         "spiritualist": 3,
-        "summoner/unchained summoner": 3
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "warpriest": 3,
+        "wizard": 3
     },
-    "domains":     {
-        "luck": 3,
-        "protection": 3
-    },
-    "elementalSchools":     {
-        "air": 3,
-        "earth": 3,
-        "fire": 3,
-        "water": 3
-    },
-    "bloodlines":     {
-        "destined": 3,
-        "elemental": 3
-    },
-    "mysteries": {"volcano": 3},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
@@ -40,7 +32,7 @@
     "duration": "10 min./level or until discharged",
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p><i>Protection from energy<\/i> grants temporary immunity to the type of energy you specify when you cast it (acid, cold, electricity, fire, or sonic). When the spell absorbs 12 points per caster level of energy damage (to a maximum of 120 points at 10th level), it is discharged.<\/p><p><i>Protection from energy<\/i> overlaps (and does not stack with) <i>resist energy<\/i>. If a character is warded by <i>protection from energy<\/i> and <i>resist energy<\/i>, the <i>protection<\/i> spell absorbs damage until its power is exhausted.<\/p>",
+    "text": "<i>Protection from energy<\/i> grants temporary immunity to the type of energy you specify when you cast it (acid, cold, electricity, fire, or sonic). When the spell absorbs 12 points per caster level of energy damage (to a maximum of 120 points at 10th level), it is discharged.<br><br><i>Protection from energy<\/i> overlaps (and does not stack with) <i>resist energy<\/i>. If a character is warded by <i>protection from energy<\/i> and <i>resist energy<\/i>, the protection spell absorbs damage until its power is exhausted.",
     "name_zh": "防护能量伤害",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -49,6 +41,5 @@
     "duration_zh": "10分钟/等级 或 直至耗散",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>防护能量伤害能提供暂时的对一种能量的免疫力，能量类型由你在施法时指定 (强酸、寒冷、闪电、火焰、或音波)。当这个法术吸收了每CL 12点的能量伤害时 (在10级时达到最多120点)，法术耗散。<\/p><p>防护能量伤害覆盖 (而非叠加)‘<a href=\"spell.html?spell=resist energy\">抵抗能量伤害 (resist energy)<\/a>’。如果一个角色被防护能量伤害和抵抗能量伤害所同时防护，那么防护能量伤害会吸收伤害，直到它的效果耗散为止。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>防护能量伤害能提供暂时的对一种能量的免疫力，能量类型由你在施法时指定 (强酸、寒冷、闪电、火焰、或音波)。当这个法术吸收了每CL 12点的能量伤害时 (在10级时达到最多120点)，法术耗散。<\/p><p>防护能量伤害覆盖 (而非叠加)‘<a href=\"spell.html?spell=resist energy\">抵抗能量伤害 (resist energy)<\/a>’。如果一个角色被防护能量伤害和抵抗能量伤害所同时防护，那么防护能量伤害会吸收伤害，直到它的效果耗散为止。<\/p>"
 }

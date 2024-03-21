@@ -1,12 +1,16 @@
 {
     "key": "renovation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/renovation/",
     "name": "Renovation",
-    "book": "Pathfinder Player Companion: Quests &amp; Campaigns © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Renovation",
+    "source": ["Quests and Campaigns pg. 29"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 4,
         "bard": 5,
-        "sorcerer/wizard": 4
+        "redmantisassassin": 4,
+        "skald": 5,
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "8 hours",
     "components": "V, S, M (silver dust worth 1,000 gp)",
@@ -15,15 +19,14 @@
     "duration": "instantaneous",
     "savingThrow": "none (object",
     "spellResistance": "no",
-    "text": "<p>Upon casting this spell, you permanently rearrange and resize the rooms in a building you constructed as a downtime activity. You may reorganize and remap the building however you please, as if each room had just been constructed and is being positioned for the first time. You cannot make any changes to a building that changes how much a room would cost to create or that alters the benefits a room provides.<\/p><p>The structure also must remain in the same general position within the district. If you don't wholly own the structure, all of the structure's owners must consent to the changes being made before the spell is cast; otherwise, it fails immediately.<\/p>",
+    "text": "Upon casting this spell, you permanently rearrange and resize the rooms in a building you constructed as a downtime activity (see page 84 of <i>Ultimate Campaign<\/i>). You may reorganize and remap the building however you please, as if each room had just been constructed and is being positioned for the first time. You cannot make any changes to a building that changes how much a room would cost to create or that alters the benefits a room provides. The structure also must remain in the same general position within the district. If you don’t wholly own the structure, all of the structure’s owners must consent to the changes being made before the spell is cast; otherwise, it fails immediately.",
     "name_zh": "装修术",
     "castingTime_zh": "8小时",
     "components_zh": "语言，姿势，材料（价值1000gp的银尘）",
     "range_zh": "接触",
     "area_zh": "一个未被占据的建筑",
     "duration_zh": "立即",
-    "savingThrow_zh": "无（物品；见正文）",
+    "savingThrow_zh": "无 (物品; 见正文)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>在使用这个法术时，你能永久性地重排和调整一个你建造的建筑里的房间，以作为一个修整期活动（见终极战役第84页）。你可以随你喜欢的重新组织和绘制建筑，就好像每一个房间都是第一次被建造和定位。你对一幢建筑做出的改变不能改变一个房间的建造成本或改变一个房间提供的收益。该建筑也必须保持在街区内的大体相同位置。如果你不完全拥有这个建筑，所有建筑的所有者都必须在法术被施放之前同意做出的改变；否则，法术会立即失败。<\/p>",
-    "source": "PC-QC"
+    "text_zh": "<p>在使用这个法术时，你能永久性地重排和调整一个你建造的建筑里的房间，以作为一个修整期活动（见终极战役第84页）。你可以随你喜欢的重新组织和绘制建筑，就好像每一个房间都是第一次被建造和定位。你对一幢建筑做出的改变不能改变一个房间的建造成本或改变一个房间提供的收益。该建筑也必须保持在街区内的大体相同位置。如果你不完全拥有这个建筑，所有建筑的所有者都必须在法术被施放之前同意做出的改变；否则，法术会立即失败。<\/p>"
 }

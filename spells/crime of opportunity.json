@@ -1,31 +1,30 @@
 {
     "key": "crime of opportunity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/crime-of-opportunity/",
     "name": "Crime of Opportunity",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Crime%20of%20Opportunity",
+    "source": ["Ultimate Intrigue pg. 208"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "antipaladin": 1,
         "mesmerist": 1
     },
     "castingTime": "1 standard action",
-    "components": "V, S, M (a slit purse)",
+    "components": "V, S, M (a silt purse)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
     "duration": "1 round",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the <i>crime wave<\/i> spell.<\/p>",
+    "text": "You awaken a sudden criminal impulse in the target, compelling it to commit a criminal act as if affected by the <i>crime wave<\/i> spell.",
     "name_zh": "犯罪冲动",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（撕破的手提袋）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个生物",
     "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你在目标心中唤起一股突如其来的犯罪冲动，迫使其执行1个犯罪行为，就如同受到了犯罪浪潮（Crime Wave）法术影响一般。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你在目标心中唤起一股突如其来的犯罪冲动，迫使其执行1个犯罪行为，就如同受到了犯罪浪潮（Crime Wave）法术影响一般。<\/p>"
 }

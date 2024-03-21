@@ -1,30 +1,36 @@
 {
     "key": "ice spears",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/ice-spears/",
     "name": "Ice Spears",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ice%20Spears",
+    "source":     [
+        "Pathfinder #67: The Snows of Summer pg. 72",
+        "Inner Sea Magic pg. 57"
+    ],
     "school": "conjuration",
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "hunter": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a small stalagmite-shaped crystal)",
-    "range": "close (25 ft. + 5ft./2 levels)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "1 ice spear/4 levels",
     "duration": "instantaneous",
     "savingThrow": "Reflex half and see below",
     "spellResistance": "no",
-    "text": "<p>Upon casting this spell, one or more giant spears of ice lance up out of the ground. Each stalagmite-like icicle affects a 5-foot square and tapers to a height of 10 feet. You may cause a number of ice spears equal to one spear for every four caster levels you possess to burst from the ground. A creature that occupies a square from which a spear extends (or that is within 10 feet of the ground below) takes 2d6 points of piercing damage and 2d6 points of cold damage per square—creatures that take up more than one square can be hit by multiple spears if the caster is high enough level. The explosive growth can also trip foes. When the spears erupt from the ground, they make a combat maneuver check against any targets that take damage from the spears, with a total bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. Each additional ice spear beyond the first that strikes a single foe grants a +10 bonus to this CMB check. If the check succeeds, the ice spears knock the foe prone. A successful Reflex save halves the damage and prevents the trip attempt.<\/p><p>If you cast this spell upon an area covered with ice or snow, such as atop a glacier, frozen lake, or snow-covered field, the spears strike with additional force. Saves against the effect suffer a –2 penalty and the spell gains a +4 bonus on its combat maneuver check to trip foes. Ice spears created by this spell remain after they do their damage. They melt as normal depending on the surrounding environment. They no longer damage foes in their square, but can provide cover. An ice spear has hardness 5 and 30 hit points.<\/p>",
+    "text": "Favored by the spellcasters of Irrisen, this potent spell can disrupt spellcasters, topple enemies, and break even seemingly unstoppable charges.<br><br> One or more giant spears of ice lance up out of the ground. Each stalagmite-like icicle affects a 5-foot square and tapers to a height of 10 feet. You may cause a number of <i>ice spears <\/i>equal to one spear for every 4 caster levels you possess to burst from the ground. A creature that occupies a square from which a spear extends (or that is within 10 feet of the ground below) takes 2d6 points of piercing damage and 2d6 points of cold damage per square—creatures that take up more than 1 square can be hit by multiple spears if your caster level is high enough. The explosive growth can also trip foes. When the spears erupt from the ground, they attempt a combat maneuver check to trip any targets that take damage from the spears, with a total bonus equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. Each additional ice spear beyond the first that strikes a single foe grants a +10 bonus on this combat maneuver check. If the check is successful, the ice spears knock the foe prone. A successful Reflex save halves the damage and prevents the trip attempt.<br><br> If you cast this spell upon an area covered with ice or snow, such as a glacier, frozen lake, or snow-covered field, the spears strike with additional force. Saves against the effect take a –2 penalty, and the spell effect gains a +4 bonus on the combat maneuver check to trip foes.<br><br> <i>Ice spears <\/i>created by this spell remain after they do their damage. They melt as normal depending on the surrounding environment. They no longer damage foes in their square, but can provide cover. An <i>ice spear <\/i>has hardness 5 and 30 hit points.",
     "name_zh": "冰矛术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一小块石笋状的水晶）",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "1只冰矛/4等级",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射，通过则减半（见后文）",
+    "savingThrow_zh": "反射, 通过则减半; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个强大的法术能够打断施法者，打倒敌人并且打破那些看起来不可阻挡的冲锋，因此受到伊利森（Irrisen）施法者的青睐。\n通过施放该法术，1只或多只寒冰巨矛出现在地面上。每只如同石笋一般的冰柱影响5尺方格，向着高处逐渐变窄，最高为10尺。你能够在地面上唤出的冰矛数量为每4个施法者等级1只。占据伸出冰矛的方格的生物（或者低于距离地面10尺范围之内）会受到每个方格2d6点穿刺伤害以及2d6点寒冷伤害——占据多个方格的生物能够被数个冰矛攻击，只要施法者有足够的等级的话。这种爆发性的生长同样能够阻碍敌人。当冰矛从地面突然出现时，它们能够进行战技检定对抗任何受到冰矛伤害的目标，使用的总加值为你的施法者等级加上你的智力，感知或者魅力调整值，以较高者为准。首只冰矛之外的每个攻击同一目标的冰矛会使这次CMB检定获得+10加值。如果检定成功，冰矛会将敌人击倒（knock the foe prone）。成功的反射检定会使伤害减半并防止摔绊的尝试。\n如果你在被冰或者雪覆盖的区域中施放该法术，比如在冰川（glacier），冰湖（frozen lake）或者被雪覆盖的原野之上时，冰矛会具有更强的力量打击敌人。对刚该效果的豁免会受到-2减值，并且该法术在摔绊敌人的战技检定中会获得+4加值。由该法术创造的冰矛在造成伤害后仍会存在。它们会如常融化，不过速度取决于周围的环境。它们不会再对处于相同方格的敌人造成伤害，不过能够提供掩护（cover）。冰矛具有5点硬度以及30点生命值。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>这个强大的法术能够打断施法者，打倒敌人并且打破那些看起来不可阻挡的冲锋，因此受到伊利森（Irrisen）施法者的青睐。<\/p><p>通过施放该法术，1只或多只寒冰巨矛出现在地面上。每只如同石笋一般的冰柱影响5尺方格，向着高处逐渐变窄，最高为10尺。你能够在地面上唤出的冰矛数量为每4个施法者等级1只。占据伸出冰矛的方格的生物（或者低于距离地面10尺范围之内）会受到每个方格2d6点穿刺伤害以及2d6点寒冷伤害——占据多个方格的生物能够被数个冰矛攻击，只要施法者有足够的等级的话。这种爆发性的生长同样能够阻碍敌人。当冰矛从地面突然出现时，它们能够进行战技检定对抗任何受到冰矛伤害的目标，使用的总加值为你的施法者等级加上你的智力，感知或者魅力调整值，以较高者为准。首只冰矛之外的每个攻击同一目标的冰矛会使这次CMB检定获得+10加值。如果检定成功，冰矛会将敌人击倒（knock the foe prone）。成功的反射检定会使伤害减半并防止摔绊的尝试。<\/p><p>如果你在被冰或者雪覆盖的区域中施放该法术，比如在冰川（glacier），冰湖（frozen lake）或者被雪覆盖的原野之上时，冰矛会具有更强的力量打击敌人。对刚该效果的豁免会受到-2减值，并且该法术在摔绊敌人的战技检定中会获得+4加值。由该法术创造的冰矛在造成伤害后仍会存在。它们会如常融化，不过速度取决于周围的环境。它们不会再对处于相同方格的敌人造成伤害，不过能够提供掩护（cover）。冰矛具有5点硬度以及30点生命值。<\/p>"
 }

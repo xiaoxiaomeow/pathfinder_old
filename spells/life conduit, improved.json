@@ -1,21 +1,23 @@
 {
     "key": "life conduit, improved",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/life-conduit/",
     "name": "Life Conduit, Improved",
-    "base": "life conduit",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Life%20Conduit,%20Improved",
+    "source": ["Ultimate Combat pg. 234"],
     "school": "conjuration",
-    "subSchool": ["healing"],
-    "levels": {"summoner/unchained summoner": 3},
+    "subSchools": ["healing"],
+    "levels":     {
+        "summoner": 3,
+        "summoner (unchained)": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>This spell functions like <i>life conduit<\/i>, except you can transfer 2d6 hit points as a swift action.<\/p>",
+    "text": "This spell functions like <i>life conduit<\/i>, except you can transfer 2d6 hit points as a swift action.",
     "name_zh": "进阶生命通道",
     "castingTime_zh": "标准动作",
-    "range_zh": "自身",
-    "text_zh": "<p>该法术如同生命通道 (Life Conduit) 一般作用，不过你可以以迅捷动作转移2d6点生命值。<\/p>",
-    "source": "UC"
+    "range_zh": "个人",
+    "duration_zh": "1轮/等级",
+    "text_zh": "<p>该法术如同生命通道 (Life Conduit) 一般作用，不过你可以以迅捷动作转移2d6点生命值。<\/p>"
 }

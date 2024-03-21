@@ -1,21 +1,24 @@
 {
     "key": "amplify elixir",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/amplify-elixir/",
     "name": "Amplify Elixir",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Amplify%20Elixir",
+    "source": ["Advanced Player's Guide pg. 201"],
     "school": "transmutation",
-    "levels": {"alchemist": 3},
+    "levels":     {
+        "alchemist": 3,
+        "investigator": 3
+    },
     "castingTime": "1 standard action",
     "components": "S",
     "range": "personal",
+    "target": "you",
     "duration": "1 round/level",
-    "text": "<p>This extract greatly enhances the effects of any potion or elixir you consume. For the duration of this extract, any potion or elixir you consume is treated as if it were empowered. Increase all variable numeric effects of the potion or elixir by half. If the potion or elixir does not have any variable numeric effects, it is instead treated as if it were extended (double the duration of the potion or elixir). If the potion or elixir does not have any variable numeric effects, or has an instantaneous duration, amplify elixir has no effect. Amplify elixir affects oils that target you, but it has no effect on oils that target your equipment.<\/p>",
+    "text": "This extract greatly enhances the effects of any potion or elixir you consume. For the duration of this extract, any potion or elixir you consume is treated as if it were empowered. Increase all variable numeric effects of the potion or elixir by half. If the potion or elixir does not have any variable numeric effects, it is instead treated as if it were extended (double the duration of the potion or elixir). If the potion or elixir does not have any variable numeric effects, or has an instantaneous duration, <i>amplify elixir <\/i>has no effect. <i>Amplify elixir <\/i>affects oils that target you, but it has no effect on oils that target your equipment.",
     "name_zh": "增效灵药",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>这个化合炼成大大增强任何你消耗的药水与灵药的效果。在这种化合炼成的存续时间内，任何你消耗的药水或灵药均被视为强效 (empowered)。所有这些药水与灵药效果中的可变数值均增加1/2。如果你消耗的药水或灵药并没有任何可变数值，那么它会被视为延时 (extended，药水或灵药的持续时间加倍)。如果你消耗的药水或灵药并没有任何可变数值，持续时间也为立即，那么增效灵药对其没有影响。增效灵药对影响你自身的油 (oils) 有效，但是对影响你的装备的油无效。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>这个化合炼成大大增强任何你消耗的药水与灵药的效果。在这种化合炼成的存续时间内，任何你消耗的药水或灵药均被视为强效 (empowered)。所有这些药水与灵药效果中的可变数值均增加1/2。如果你消耗的药水或灵药并没有任何可变数值，那么它会被视为延时 (extended，药水或灵药的持续时间加倍)。如果你消耗的药水或灵药并没有任何可变数值，持续时间也为立即，那么增效灵药对其没有影响。增效灵药对影响你自身的油 (oils) 有效，但是对影响你的装备的油无效。<\/p>"
 }

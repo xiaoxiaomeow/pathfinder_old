@@ -1,21 +1,31 @@
 {
     "key": "fey form ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fey-form/",
     "name": "Fey Form II",
-    "base": "fey form",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fey%20Form%20II",
+    "source": ["Ultimate Wilderness pg. 229"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 5,
+        "arcanist": 6,
         "druid": 5,
+        "hunter": 5,
+        "investigator": 5,
         "magus": 6,
         "shaman": 5,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as <em>fey form I<\/em>, except it also allows you to assume the form of a Tiny or Large creature of the fey type. Your base speed can't increase above 90 feet this way. If the form you assume has any of the following abilities, you gain those abilities: burrow speed 30 feet, climb speed 90 feet, fly speed 60 feet (good maneuverability), swim speed 60 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, see in darkness, abduct, animated hair, bleed, blood rage, boot stomp, burn, compression, constrict, crushing leap, DR 2/cold iron, grab, heavy weapons, icewalking, kneecapper, nasal spray, no shadow, oversized weapons, poison, putrid vomit, rock throwing (50 feet, 1d6 damage), sound mimicry, trackless step, trample, tree meld, undersized weapons, and woodland stride. If the creature has immunity to mind-affecting effects or poison, you gain a +4 resistance bonus on saves against those effects. If the creature has any weaknesses, you gain them.<\/p><p style=\"padding-left: 30px\"><b>Tiny Fey<\/b>: If you assume this form, you gain a +6 size bonus to your Dexterity score and take a –2 penalty to your Strength score.<\/p><p style=\"padding-left: 30px\"><b>Large Fey<\/b>: If you assume this form, you gain a +4 size bonus to your Strength and Constitution scores and take a –2 penalty to your Dexterity score.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "This spell functions as <i>fey form I<\/i>, except it also allows you to assume the form of a Tiny or Large creature of the fey type. Your base speed can’t increase above 90 feet this way. If the form you assume has any of the following abilities, you gain those abilities: burrow speed 30 feet, climb speed 90 feet, fly speed 60 feet (good maneuverability), swim speed 60 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, see in darkness, abduct, animated hair, bleed, blood rage, boot stomp, burn, compression, constrict, crushing leap, DR 2/cold iron, grab, heavy weapons, icewalking, kneecapper, nasal spray, no shadow, oversized weapons, poison, putrid vomit, rock throwing (50 feet, 1d6 damage), sound mimicry, trackless step, trample, tree meld, undersized weapons, and woodland stride. If the creature has immunity to mind-affecting effects or poison, you gain a +4 resistance bonus on saves against those effects. If the creature has any weaknesses, you gain them.<br><br> <b>Tiny Fey<\/b>: If you assume this form, you gain a +6 size bonus to your Dexterity score and take a –2 penalty to your Strength score.<br><br> <b>Large Fey<\/b>: If you assume this form, you gain a +4 size bonus to your Strength and Constitution scores and take a –2 penalty to your Dexterity score.",
     "name_zh": "精类形态 II",
-    "text_zh": "<p>这种法术如同精类形态 I，除了它还让你能获得超小型或大型精类生物的形态。你的基础速度可以因此突破90英尺。如果你获得的形态有下列能力，你就能获得这些能力：30英尺的掘洞速度，90英尺的攀爬速度，60英尺的飞行速度（良好机动性），60英尺游泳速度，全域视野，30英尺盲感，60英尺黑暗视觉，昏暗视觉，灵敏嗅觉，看破黑暗，绑架（abduct），活化毛发（animated hair），流血（bleed），鲜血狂怒（blood rage），铁靴践踏（boot stomp），燃烧（burn），压缩（compression），紧勒（constrict），毁灭跃击（crushing leap），伤害减免 2/寒铁，擒抱，重型武器（heavy weapons），冰行（icewalking），碎膝（kneecapper），鼻腔喷雾（nasal spray），无影（no shadow），越型武器（oversized weapons），毒素（poison），腐臭呕吐（putrid vomit），投石（rock throwing）（50英尺，1d6点伤害），拟音（sound mimicry），无踪步（trackless step），践踏（trample），融身入树（tree meld），小号武器（undersized weapons），和穿林步（woodland stride）。\n如果该生物免疫于影响心灵效果或毒素，你在对抗这些效果的豁免上得到+4的抗力加值。如果这个生物有任何弱点，你就会得到这些弱点。\n超小型精类：如果你获得这种形态，你的敏捷上得到+6的体型奖励，并在力量属性上受到-2惩罚。\n大型精类：如果你获得这种形态，你在力量和体质属性上得到+4的体型奖励，在敏捷属性上得到-2的惩罚。<\/p>",
-    "source": "UW"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这种法术如同精类形态 I，除了它还让你能获得超小型或大型精类生物的形态。你的基础速度可以因此突破90英尺。如果你获得的形态有下列能力，你就能获得这些能力：30英尺的掘洞速度，90英尺的攀爬速度，60英尺的飞行速度（良好机动性），60英尺游泳速度，全域视野，30英尺盲感，60英尺黑暗视觉，昏暗视觉，灵敏嗅觉，看破黑暗，绑架（abduct），活化毛发（animated hair），流血（bleed），鲜血狂怒（blood rage），铁靴践踏（boot stomp），燃烧（burn），压缩（compression），紧勒（constrict），毁灭跃击（crushing leap），伤害减免 2/寒铁，擒抱，重型武器（heavy weapons），冰行（icewalking），碎膝（kneecapper），鼻腔喷雾（nasal spray），无影（no shadow），越型武器（oversized weapons），毒素（poison），腐臭呕吐（putrid vomit），投石（rock throwing）（50英尺，1d6点伤害），拟音（sound mimicry），无踪步（trackless step），践踏（trample），融身入树（tree meld），小号武器（undersized weapons），和穿林步（woodland stride）。<\/p><p>如果该生物免疫于影响心灵效果或毒素，你在对抗这些效果的豁免上得到+4的抗力加值。如果这个生物有任何弱点，你就会得到这些弱点。<\/p><p>超小型精类：如果你获得这种形态，你的敏捷上得到+6的体型奖励，并在力量属性上受到-2惩罚。<\/p><p>大型精类：如果你获得这种形态，你在力量和体质属性上得到+4的体型奖励，在敏捷属性上得到-2的惩罚。<\/p>"
 }

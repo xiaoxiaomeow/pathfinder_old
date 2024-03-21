@@ -1,24 +1,26 @@
 {
     "key": "teleportation circle",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/teleportation-circle/",
     "name": "Teleportation Circle",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Teleportation%20Circle",
+    "source": ["PRPG Core Rulebook pg. 359"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
+    "subSchools": ["teleportation"],
     "levels":     {
+        "arcanist": 9,
         "psychic": 9,
-        "sorcerer/wizard": 9,
+        "sorcerer": 9,
         "summoner": 6,
-        "witch": 9
+        "witch": 9,
+        "wizard": 9
     },
-    "domains": {"rune": 9},
     "castingTime": "10 minutes",
     "components": "V, M (amber dust to cover circle worth 1,000 gp)",
     "range": "0 ft.",
     "effect": "5-ft.-radius circle that teleports those who activate it",
-    "duration": "10 min./level (d)",
+    "duration": "10 min./level (D)",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You create a circle on the floor or other horizontal surface that teleports, as greater teleport, any creature who stands on it to a designated spot. Once you designate the destination for the circle, you can't change it. The spell fails if you attempt to set the circle to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description, or to another plane.<\/p><p>The circle itself is subtle and nearly impossible to notice. If you intend to keep creatures from activating it accidentally, you need to mark the circle in some way.<\/p><p><i>Teleportation circle<\/i> can be made permanent with a permanency spell. A permanent <i>teleportation circle<\/i> that is disabled becomes inactive for 10 minutes, then can be triggered again as normal.<\/p>",
+    "text": "You create a circle on the floor or other horizontal surface that teleports, as <i>greater teleport<\/i>, any creature who stands on it to a designated spot. Once you designate the destination for the circle, you can't change it. The spell fails if you attempt to set the circle to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description, or to another plane.<br><br>The circle itself is subtle and nearly impossible to notice. If you intend to keep creatures from activating it accidentally, you need to mark the circle in some way.<br><br><i>Teleportation circle<\/i> can be made permanent with a <i>permanency<\/i> spell. A permanent <i>teleportation circle<\/i> that is disabled becomes inactive for 10 minutes, then can be triggered again as normal.<br><br>Magic traps such as <i>teleportation circle<\/i> are hard to detect and disable. A character with the trapfinding class feature can use the Disable Device to disarm magic traps. The DC in each case is 25 + spell level, or 34 in the case of <i>teleportation circle<\/i>.",
     "name_zh": "传送法阵",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 材料 (覆盖整个法阵的琥珀粉, 价值1000gp)",
@@ -27,6 +29,5 @@
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你可以在地面或其他水平面上造出一个用来传送的法阵，任何踏入此法阵的生物都会像‘<a href=\"spell.html?spell=greater teleport\">高等传送术 (greater teleport)<\/a>’一样被传送到指定地点。一旦法阵目的地被确定就不能再更改。如果你试图设定法阵将生物传送到固体内，或你不熟悉且无法清晰描述的地点，或是其他位面，则此法术失效。<\/p><p>此法阵本身相当隐秘，难以察觉。如果你想避免它被意外启动，你需要以其他方式来做些标记。<\/p><p>传送法阵可以通过‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。被解除的永久传送法阵会停止作用10分钟，然后再度启动。<\/p><p>传送法阵一类的魔法陷阱难以侦测和解除。只有具有【寻找陷阱】职业能力的角色能够使用解除装置技能来解除魔法陷阱。这些DC为 {25+法术环位}，对于传送法阵来说DC为34。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以在地面或其他水平面上造出一个用来传送的法阵，任何踏入此法阵的生物都会像‘<a href=\"spell.html?spell=greater teleport\">高等传送术 (greater teleport)<\/a>’一样被传送到指定地点。一旦法阵目的地被确定就不能再更改。如果你试图设定法阵将生物传送到固体内，或你不熟悉且无法清晰描述的地点，或是其他位面，则此法术失效。<\/p><p>此法阵本身相当隐秘，难以察觉。如果你想避免它被意外启动，你需要以其他方式来做些标记。<\/p><p>传送法阵可以通过‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。被解除的永久传送法阵会停止作用10分钟，然后再度启动。<\/p><p>传送法阵一类的魔法陷阱难以侦测和解除。只有具有【寻找陷阱】职业能力的角色能够使用解除装置技能来解除魔法陷阱。这些DC为 {25+法术环位}，对于传送法阵来说DC为34。<\/p>"
 }

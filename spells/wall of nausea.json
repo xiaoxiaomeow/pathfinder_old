@@ -1,15 +1,19 @@
 {
     "key": "wall of nausea",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-nausea/",
     "name": "Wall of Nausea",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Nausea",
+    "source": ["Advanced Class Guide pg. 199"],
     "school": "illusion",
-    "subSchool": ["pattern"],
+    "subSchools": ["pattern"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3
+        "redmantisassassin": 3,
+        "skald": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "see text",
     "spellResistance": "no",
-    "text": "<p>You create a transparent, shimmering wall through which creatures and objects appear to be wildly distorted to viewers. Any creature that passes through the wall is immediately assailed by overwhelming vertigo, becoming nauseated for 1 round unless it succeeds at a Fortitude save; if nauseated, the creature must also succeed at a DC 12 Acrobatics check or fall prone. Creatures gain partial concealment (20% miss chance) against creatures on the other side of the wall.<\/p><p>The wall must be vertical and rectangular. It need not touch the ground. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature when it is cast, the spell fails.<\/p>",
+    "text": "You create a transparent, shimmering wall through which creatures and objects appear to be wildly distorted to viewers. Any creature that passes through the wall is immediately assailed by overwhelming vertigo, becoming nauseated for 1 round unless it succeeds at a Fortitude save; if nauseated, the creature must also succeed at a DC 12 Acrobatics check or fall prone. Creatures gain partial concealment (20% miss chance) against creatures on the other side of the wall.<br><br> The wall must be vertical and rectangular. It need not touch the ground. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature when it is cast, the spell fails.",
     "name_zh": "晕厥之墙",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "半透明墙壁，至多每等级一个10尺边长的方格大小",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "见后文",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你创造出一堵发光的半透明墙壁，通过墙壁看到的生物和物体似乎都被严重扭曲了。任何穿过墙壁的生物都会立即被难以抵御的眩晕感觉所袭击，如果没有通过强韧豁免，则会反胃（nauseated）1轮；若陷入反胃状态，该生物还必须进行DC12的特技动作检定，失败则会倒地（fall prone）。生物在对抗墙壁另一侧的生物时会获得部分隐蔽（20%失手率）。\n墙壁必须是垂直（vertical）的矩形。它不需要接触到地面。墙壁在被塑造时必须连续而且没有破洞，若它的表面在施法时被任何物体或生物隔断，那么法术便会失败。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一堵发光的半透明墙壁，通过墙壁看到的生物和物体似乎都被严重扭曲了。任何穿过墙壁的生物都会立即被难以抵御的眩晕感觉所袭击，如果没有通过强韧豁免，则会反胃（nauseated）1轮；若陷入反胃状态，该生物还必须进行DC12的特技动作检定，失败则会倒地（fall prone）。生物在对抗墙壁另一侧的生物时会获得部分隐蔽（20%失手率）。<\/p><p>墙壁必须是垂直（vertical）的矩形。它不需要接触到地面。墙壁在被塑造时必须连续而且没有破洞，若它的表面在施法时被任何物体或生物隔断，那么法术便会失败。<\/p>"
 }

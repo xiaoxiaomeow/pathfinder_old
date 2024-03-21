@@ -1,24 +1,25 @@
 {
     "key": "tireless pursuit",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tireless-pursuit/",
     "name": "Tireless Pursuit",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tireless%20Pursuit",
+    "source": ["Advanced Player's Guide pg. 249"],
     "school": "transmutation",
     "levels":     {
+        "hunter": 1,
         "inquisitor": 1,
         "ranger": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a hard biscuit)",
     "range": "personal",
-    "duration": "1 hour/level (d)",
-    "text": "<p>You harden your body against the stresses of long travel. You halve the damage caused by hustling and forced marching. In addition, for the duration of the spell you ignore any fatigue caused by such travel. Once the spell ends, if you still have any nonlethal damage caused by the hustling or forced march, you become fatigued, or exhausted if already fatigued.<\/p>",
+    "target": "you",
+    "duration": "1 hour/level (D)",
+    "text": "You harden your body against the stresses of long travel. You halve the damage caused by hustling and forced marching (see <i>Pathfinder RPG Core Rulebook <\/i>171). In addition, for the duration of the spell you ignore any fatigue caused by such travel. Once the spell ends, if you still have any nonlethal damage caused by the hustling or forced march, you become fatigued, or exhausted if already fatigued.",
     "name_zh": "追人不倦",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一片硬饼干)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1小时/等级 (可解消)",
-    "text_zh": "<p>你强化你的身体进行长途旅行的能力。你在急行和强行军中所受到的伤害降低一半。<\/p><p>此外，在法术持续时间中，你可以忽略旅行带来的任何疲劳。<\/p><p>法术结束后，如果你仍有急行和强行军带来的非致命性伤害，你将会变得疲乏。如果已经疲乏，将会力竭。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你强化你的身体进行长途旅行的能力。你在急行和强行军中所受到的伤害降低一半。<\/p><p>此外，在法术持续时间中，你可以忽略旅行带来的任何疲劳。<\/p><p>法术结束后，如果你仍有急行和强行军带来的非致命性伤害，你将会变得疲乏。如果已经疲乏，将会力竭。<\/p>"
 }

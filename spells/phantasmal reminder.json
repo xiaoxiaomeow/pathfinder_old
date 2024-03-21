@@ -1,19 +1,22 @@
 {
     "key": "phantasmal reminder",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/phantasmal-reminder/",
     "name": "Phantasmal Reminder",
-    "book": "Pathfinder Player Companion: Magic Tactics Toolbox © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Phantasmal%20Reminder",
+    "source": ["Magic Tactics Toolbox pg. 26"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "antipaladin": 3,
+        "arcanist": 3,
         "bard": 4,
         "mesmerist": 3,
         "psychic": 3,
         "shaman": 4,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 4,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -22,15 +25,14 @@
     "duration": "1 round (see text)",
     "savingThrow": "Will disbelief, then Fortitude partial",
     "spellResistance": "yes",
-    "text": "<p>You create a memory loop of a successful attack made against the target, forcing its conscious mind to recall the details of the attack in such excruciating detail that its physical body is racked by the recollection. This spell can affect only a creature that has taken damage since the end of your last turn. The target first can attempt a Will save to recognize the attack as unreal. If it fails that saving throw, the target must succeed at a Fortitude save or take an amount of damage equal to 1d6 per caster level (maximum 10d6). Because the damage is a quasi-real memory of existing wounds, this damage can't be reduced or prevented (such as by the shield other spell).<\/p><p>If the target of a <em>phantasmal reminder<\/em> attack succeeds at the Will save to disbelieve the memory loop and either has natural telepathy or is wearing a helm of telepathy, the memory of damage automatically rebounds to affect you. You must immediately attempt a Will save to disbelieve; if you fail, you take half the spell's damage yourself.<\/p>",
+    "text": "You create a memory loop of a successful attack made against the target, forcing its conscious mind to recall the details of the attack in such excruciating detail that its physical body is racked by the recollection. This spell can affect only a creature that has taken damage since the end of your last turn. The target first can attempt a Will save to recognize the attack as unreal. If it fails that saving throw, the target must succeed at a Fortitude save or take an amount of damage equal to 1d6 × your caster level (maximum 10d6). Because the damage is a quasi-real memory of existing wounds, this damage can’t be reduced or prevented (such as by the <i>shield other<\/i> spell).<br><br> If the target of a <i>phantasmal reminder<\/i> attack succeeds at the Will save to disbelieve the memory loop and either has natural telepathy or is wearing a helm of telepathy, the memory of damage automatically rebounds to affect you. You must immediately attempt a Will save to disbelieve; if you fail, you take half the spell’s damage yourself.",
     "name_zh": "魅影重温",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个活物",
-    "duration_zh": "1轮（见下文）",
-    "savingThrow_zh": "意志，通过则不相信，之后强韧通过部分生效；见下文",
+    "duration_zh": "1轮; 见文本",
+    "savingThrow_zh": "意志, 通过则不相信; 之后强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造了一段记忆，让目标不断回想起之前一次对他造成的成功攻击，强迫他重温这次攻击中每一个折磨他身体的细节。该法术只能对自你上一轮结束之后受到过伤害的生物生效。目标首先可以通过一次意志豁免检定来知道这个攻击是虚假的。如果他在豁免检定中失败，他必须通过一个成功的强韧检定，否则会受到每施法等级1d6点伤害（最高10d6）。由于该伤害是之前受伤的拟真记忆，这个伤害无法被减少或被避免（例如护盾术或其他法术）。如果魅影重温的目标拥有天生的心灵感应能力或装备了心灵感应头盔，被伤害的记忆会自动反弹给你。你必须马上通过一个意志检定来不相信，如果你失败了，你受到一半的法术伤害。<\/p>",
-    "source": "PC-MagicTT"
+    "text_zh": "<p>你创造了一段记忆，让目标不断回想起之前一次对他造成的成功攻击，强迫他重温这次攻击中每一个折磨他身体的细节。该法术只能对自你上一轮结束之后受到过伤害的生物生效。目标首先可以通过一次意志豁免检定来知道这个攻击是虚假的。如果他在豁免检定中失败，他必须通过一个成功的强韧检定，否则会受到每施法等级1d6点伤害（最高10d6）。由于该伤害是之前受伤的拟真记忆，这个伤害无法被减少或被避免（例如护盾术或其他法术）。如果魅影重温的目标拥有天生的心灵感应能力或装备了心灵感应头盔，被伤害的记忆会自动反弹给你。你必须马上通过一个意志检定来不相信，如果你失败了，你受到一半的法术伤害。<\/p>"
 }

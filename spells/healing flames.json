@@ -1,36 +1,35 @@
 {
     "key": "healing flames",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/healing-flames/",
     "name": "Healing Flames",
-    "book": "Pathfinder Player Companion: Healer's Handbook © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Healing%20Flames",
+    "source": ["Healer's Handbook pg. 8"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors":     [
         "fire",
         "good"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 4,
+        "cleric": 4,
         "inquisitor": 4,
+        "oracle": 4,
         "paladin": 4,
         "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
-    "range": "",
     "area": "10-ft.-radius burst, centered on you",
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>You unleash a blast of holy flames that washes over all creatures in the area in a glorious display of divine power. This deals damage to evil creatures and heals good creatures in the area. The amount of damage dealt and the number of hit points restored in each case is 1d8 points per 2 caster levels (maximum 5d8).<\/p><p>Half of the damage this spell deals to evil creatures is fire damage, and half of the damage is pure divine power that is therefore not subject to reduction by energy resistance to fire-based attacks.<\/p><p>Neutral enemies within the spell's area of effect also take the fire damage, but do not take the divine damage. Neutral allies within the area are healed by half as much as good creatures. A successful Reflex saving throw halves the damage taken in all cases.<\/p>",
+    "text": "You unleash a blast of holy flames that washes over all creatures in the area in a glorious display of divine power. This deals damage to evil creatures and heals good creatures in the area. The amount of damage dealt and the number of hit points restored in each case is 1d8 points per 2 caster levels (maximum 5d8).<br><br> Half of the damage this spell deals to evil creatures is fire damage, and half of the damage is pure divine power that is therefore not subject to reduction by energy resistance to fire-based attacks.<br><br> Neutral enemies within the spell’s area of effect also take the fire damage, but do not take the divine damage. Neutral allies within the area are healed by half as much as good creatures. A successful Reflex saving throw halves the damage taken in all cases.",
     "name_zh": "医疗圣炎",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
-    "area_zh": "以你为中心10呎半径爆发",
+    "area_zh": "10尺半径爆发, 以你为中心",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你以辉煌的神圣力量释放出爆发的神圣火焰冲击所有区域内的生物。这会给予区域内邪恶生物伤害并治疗善良生物。造成的伤害或恢复的生命值均为每2施法者等级1D8（最大5D8）\n这个法术对邪恶生物造成的伤害一半是火焰伤害，一半是神圣伤害因此不会受到基于火焰攻击的能量抵抗的减免。<\/p><p>区域范围内的中立敌人依旧会受到火焰伤害，但是不会受到神圣伤害。区域范围内的中立盟友会受到善良生物一半的治疗量。在所有情况中成功的反射豁免可以减半受到的伤害。<\/p>",
-    "source": "PC-HH"
+    "text_zh": "<p>你以辉煌的神圣力量释放出爆发的神圣火焰冲击所有区域内的生物。这会给予区域内邪恶生物伤害并治疗善良生物。造成的伤害或恢复的生命值均为每2施法者等级1D8（最大5D8）<\/p><p>这个法术对邪恶生物造成的伤害一半是火焰伤害，一半是神圣伤害因此不会受到基于火焰攻击的能量抵抗的减免。<\/p><p>区域范围内的中立敌人依旧会受到火焰伤害，但是不会受到神圣伤害。区域范围内的中立盟友会受到善良生物一半的治疗量。在所有情况中成功的反射豁免可以减半受到的伤害。<\/p>"
 }

@@ -1,20 +1,23 @@
 {
     "key": "goodberry",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/goodberry/",
     "name": "Goodberry",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Goodberry",
+    "source": ["PRPG Core Rulebook pg. 291"],
     "school": "transmutation",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "shaman": 1
     },
-    "subdomains": {"seasons": 1},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "duration": "1 day/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>Casting <i>goodberry<\/i> makes 2d4 freshly picked berries magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.<\/p>",
+    "text": "Casting <i>goodberry<\/i> makes 2d4 freshly picked berries magical. You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected. Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature. The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.<h2 class=\"title\">Mythic Goodberry<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 96<\/i><br>Each berry provides a full day’s nourishment and counts as 1 hour of complete rest for the purpose of removing exhaustion, fatigue, or nonlethal damage. <br><br><b>Augmented (2nd)<\/b>: You can cast the spell to affect only one berry, imbuing into that berry any harmless druid spell you have prepared. The spell remains stored in the berry for the duration of the <i>goodberry<\/i> spell or until the berry is consumed. A creature that eats the berry gains the benefits of that spell as if you had cast it upon her. The maximum level of the imbued spell is equal to half your tier, and you must expend one use of mythic power for each spell level of the imbued spell (in addition to the one use needed to cast <i>mythic goodberry<\/i>). Similar to <i>imbue with spell ability<\/i>, you can’t prepare a spell in that spell’s slot until the berry is consumed or the <i>mythic goodberry<\/i> spell ends. ",
+    "mythicSource": ["Mythic Adventures pg. 96"],
+    "mythicText": "Each berry provides a full day’s nourishment and counts as 1 hour of complete rest for the purpose of removing exhaustion, fatigue, or nonlethal damage. <br><br><b>Augmented (2nd)<\/b>: You can cast the spell to affect only one berry, imbuing into that berry any harmless druid spell you have prepared. The spell remains stored in the berry for the duration of the <i>goodberry<\/i> spell or until the berry is consumed. A creature that eats the berry gains the benefits of that spell as if you had cast it upon her. The maximum level of the imbued spell is equal to half your tier, and you must expend one use of mythic power for each spell level of the imbued spell (in addition to the one use needed to cast <i>mythic goodberry<\/i>). Similar to <i>imbue with spell ability<\/i>, you can’t prepare a spell in that spell’s slot until the berry is consumed or the <i>mythic goodberry<\/i> spell ends. ",
     "name_zh": "神莓",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -23,6 +26,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>施放神莓可以让2d4颗摘下来的新鲜浆果充满魔力。你 (以及任何3级或更高等级的德鲁伊) 能立刻识别出哪些是受影响的。每颗被转变的浆果可以提供一个中型生物正常一餐的营养。在吃下浆果的同时，还能治疗1点伤害，在任何24小时内只能以这种方式治疗至多8点伤害。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>施放神莓可以让2d4颗摘下来的新鲜浆果充满魔力。你 (以及任何3级或更高等级的德鲁伊) 能立刻识别出哪些是受影响的。每颗被转变的浆果可以提供一个中型生物正常一餐的营养。在吃下浆果的同时，还能治疗1点伤害，在任何24小时内只能以这种方式治疗至多8点伤害。<\/p>"
 }

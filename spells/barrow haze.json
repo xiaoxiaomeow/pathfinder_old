@@ -1,29 +1,30 @@
 {
     "key": "barrow haze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/barrow-haze/",
     "name": "Barrow Haze",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Barrow%20Haze",
+    "source": ["Advanced Class Guide pg. 174"],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "arcanist": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "effect": "fog spreads in 20-ft. radius, 20 ft. high",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>Barrow haze creates a bank of fog similar to that created by fog cloud, except that the vapors are black and they have a necromantic link to you. The vapors do not interfere with your vision. Because of your link to the haze, if any part of it is within 30 feet of you, any creatures within the haze count as in range for the purpose of using any of your hexes that have a maximum range of 30 feet. For example, suppose you have the slumber hex, you are 25 feet from one edge of the haze, and an opponent is 40 feet farther away at the other extreme of the cloud. You can use your slumber hex on that opponent even though it is actually 65 feet away from you.<\/p>",
+    "text": "<i>Barrow haze<\/i> creates a bank of fog similar to that created by <i>fog cloud<\/i>, except that the vapors are black and they have a necromantic link to you. The vapors do not interfere with your vision. Because of your link to the haze, if any part of it is within 30 feet of you, any creatures within the haze count as in range for the purpose of using any of your hexes that have a maximum range of 30 feet.<br><br> For example, suppose you have the slumber hex, you are 25 feet from one edge of the haze, and an opponent is 40 feet farther away at the other extreme of the cloud. You can use your slumber hex on that opponent even though it is actually 65 feet away from you.",
     "name_zh": "坟冢黑雾",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "扩散至半径20尺，高20尺的云雾",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>坟冢黑雾会创造出类似于云雾术（fog cloud）的一团云雾，不过这些雾气是黑色的，而且与你有着一股死灵术的联系。这股黑雾不会干扰你的视线。由于黑雾和你具有联系，若黑雾的任意一部分在距离你30尺的范围内，那么对于所有最高范围为30尺的巫术来说，黑雾内的生物都会被视为处于这些巫术的范围内。\n例如，假设你具有沉眠（Slumber）巫术，你和黑雾的边缘相距25尺，一个敌人在距离这一点40尺远的黑雾的另一端。那么你能够对该名敌人使用沉眠巫术，即便他实际上与你的距离有65尺远也可以。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>坟冢黑雾会创造出类似于云雾术（fog cloud）的一团云雾，不过这些雾气是黑色的，而且与你有着一股死灵术的联系。这股黑雾不会干扰你的视线。由于黑雾和你具有联系，若黑雾的任意一部分在距离你30尺的范围内，那么对于所有最高范围为30尺的巫术来说，黑雾内的生物都会被视为处于这些巫术的范围内。<\/p><p>例如，假设你具有沉眠（Slumber）巫术，你和黑雾的边缘相距25尺，一个敌人在距离这一点40尺远的黑雾的另一端。那么你能够对该名敌人使用沉眠巫术，即便他实际上与你的距离有65尺远也可以。<\/p>"
 }

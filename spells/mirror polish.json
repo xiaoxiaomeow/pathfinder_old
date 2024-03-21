@@ -1,12 +1,16 @@
 {
     "key": "mirror polish",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mirror-polish/",
     "name": "Mirror Polish",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mirror%20Polish",
+    "source": ["Advanced Class Guide pg. 188"],
     "school": "transmutation",
     "levels":     {
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "arcanist": 1,
+        "occultist": 1,
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a soft cloth)",
@@ -15,15 +19,14 @@
     "duration": "instantaneous",
     "savingThrow": "yes (object)",
     "spellResistance": "yes (object)",
-    "text": "<p>You polish a metal item until it is reflective enough to be used as a mirror. This does not prevent the item from later damage or corrosion that would ruin the mirrored surface. The spell can be cast only on a metal item with a fairly smooth and contiguous surface, such as a breastplate, a helm, a shield, or a sword, but not a mace, chainmail, or scale mail.<\/p>",
+    "text": "You polish a metal item until it is reflective enough to be used as a mirror. This does not prevent the item from later damage or corrosion that would ruin the mirrored surface. The spell can be cast only on a metal item with a fairly smooth and contiguous surface, such as a breastplate, a helm, a shield, or a sword, but not a mace, chainmail, or scale mail.",
     "name_zh": "镜面抛光",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一片软布）",
     "range_zh": "接触",
     "target_zh": "一件金属物体上至多1平方尺的表面",
     "duration_zh": "立即",
-    "savingThrow_zh": "可（物体）【原文如此，大概是复制粘贴错了】",
-    "spellResistance_zh": "可（物体）",
-    "text_zh": "<p>你将一件金属物体进行抛光，直至它足够光滑到能够作为镜子使用为止。这并不会防止物体在之后遭受可能会毁坏镜面的伤害或侵蚀。只有具有连续而平坦的合适平面的金属物体，才可以受到该法术影响。举例说明：胸甲、头盔、盾牌或剑可以受到影响，但是钉头锤、链甲或者鳞甲不行。<\/p>",
-    "source": "ACG"
+    "savingThrow_zh": "可 (物体)",
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p>你将一件金属物体进行抛光，直至它足够光滑到能够作为镜子使用为止。这并不会防止物体在之后遭受可能会毁坏镜面的伤害或侵蚀。只有具有连续而平坦的合适平面的金属物体，才可以受到该法术影响。举例说明：胸甲、头盔、盾牌或剑可以受到影响，但是钉头锤、链甲或者鳞甲不行。<\/p>"
 }

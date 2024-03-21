@@ -1,8 +1,8 @@
 {
     "key": "psychic crush i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-crush/",
     "name": "Psychic Crush I",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Psychic%20Crush%20I",
+    "source": ["Occult Adventures pg. 182"],
     "school": "necromancy",
     "descriptors": ["mind-affecting"],
     "levels": {"psychic": 5},
@@ -11,17 +11,16 @@
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
     "duration": "instantaneous",
-    "savingThrow": "Will partial and Fortitude partial",
+    "savingThrow": "Will partial and Fortitude partial, see text",
     "spellResistance": "yes",
-    "text": "<p>Using your psychic power, you invade the mind of the target and tear it asunder, causing massive internal damage to both its mind and body. If the target succeeds at the initial Will save, it is sickened for 1 round. If the target fails its Will save, it must attempt a Fortitude save (with a +4 circumstance bonus on this save if it has more than half its total hit points remaining). If it also fails the Fortitude save, the target is reduced to –1 hit points and is dying. If the target succeeds at its Fortitude save, it instead takes 3d6 points of damage + 1 point of damage per caster level, which cannot reduce the target below –1 hit point, and the target is sickened for 1 round. This attack has no effect on creatures without an Intelligence score.<\/p>",
+    "text": "Using your psychic power, you invade the mind of the target and tear it asunder, causing massive internal damage to both its mind and body. If the target succeeds at the initial Will save, it is sickened for 1 round. If the target fails its Will save, it must attempt a Fortitude save (with a +4 circumstance bonus on this save if it has more than half its total hit points remaining). If it also fails the Fortitude save, the target is reduced to –1 hit points and is dying. If the target succeeds at its Fortitude save, it instead takes 3d6 points of damage + 1 point of damage per caster level, which cannot reduce the target below –1 hit point, and the target is sickened for 1 round. This attack has no effect on creatures without an Intelligence score.",
     "name_zh": "心灵碾压 I",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，通过则部分生效 和 强韧，通过则部分生效；见后文",
+    "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>通过使用异能，你能够入侵目标的精神并将其割裂，导致它的身心一同遭受巨大的内源性伤害。若目标成功通过最初的意志豁免，则会恶心（sickened）1轮。若目标意志豁免失败，则必须尝试一次强韧豁免（若目标剩余的总生命值大于半额则会在此次豁免中得到+4环境加值）。若目标的强韧豁免也失败了，那么它的生命值会降至-1并陷入濒死（dying）。若强韧豁免成功，则受到3d6 + 每施法者等级1点伤害，该伤害无法让目标的生命值降低至-1点以下，而且目标还会恶心1轮。此次攻击对没有智力属性的生物无效。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>通过使用异能，你能够入侵目标的精神并将其割裂，导致它的身心一同遭受巨大的内源性伤害。若目标成功通过最初的意志豁免，则会恶心（sickened）1轮。若目标意志豁免失败，则必须尝试一次强韧豁免（若目标剩余的总生命值大于半额则会在此次豁免中得到+4环境加值）。若目标的强韧豁免也失败了，那么它的生命值会降至-1并陷入濒死（dying）。若强韧豁免成功，则受到3d6 + 每施法者等级1点伤害，该伤害无法让目标的生命值降低至-1点以下，而且目标还会恶心1轮。此次攻击对没有智力属性的生物无效。<\/p>"
 }

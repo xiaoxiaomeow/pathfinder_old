@@ -1,21 +1,31 @@
 {
     "key": "permanent hallucination",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/permanent-hallucination/",
     "name": "Permanent Hallucination",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Permanent%20Hallucination",
+    "source": ["Ultimate Intrigue pg. 221"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 7,
         "psychic": 7,
-        "sorcerer/wizard": 7
+        "sorcerer": 7,
+        "wizard": 7
     },
+    "castingTime": "1 standard action",
+    "components": "S",
+    "range": "long (400 ft. + 40 ft./level)",
     "target": "one creature",
-    "duration": "permanent (d)",
-    "text": "<p>This spell functions as audiovisual hallucination, except that the phantasm you create includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your having to concentrate on it and can react to stimuli the target perceives, as appropriate for the script. Unlike most illusions with a save to disbelieve, if the target disbelieves a permanent hallucination, she can choose to end the effect entirely at any time.<\/p>",
+    "duration": "permanent (D)",
+    "savingThrow": "Will disbelief",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>audiovisual hallucination<\/i>, except that the phantasm you create includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your having to concentrate on it and can react to stimuli the target perceives, as appropriate for the script. Unlike most illusions with a save to disbelieve, if the target disbelieves a <i>permanent hallucination<\/i>, she can choose to end the effect entirely at any time.",
     "name_zh": "永恒错觉",
+    "castingTime_zh": "标准动作",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "1个生物",
-    "duration_zh": "永久（可解消）",
-    "text_zh": "<p>该法术的功能如同幻听错觉（Auditory Hallucination；见204页）一般，不过你能创造出包含视觉（visual）、听觉（auditory）、味觉（olfactory）、触觉（tactile）和温度（thermal）成分的魅影幻觉（phantasm），而且魅影幻觉会遵从1套复杂的脚本（complex script）。让魅影幻觉遵从脚本并不需要你对其维持专注，而且它能够由目标的认知而产生应激反应，其反应视脚本（script）的内容而定。与大多数通过豁免便不会相信的幻象不同，若目标不相信永恒错觉的话，则可以选择在任何时候完全结束该效果。<\/p>",
-    "source": "UI"
+    "duration_zh": "永久 (可解消)",
+    "savingThrow_zh": "意志, 通过则不相信",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同幻听错觉（Auditory Hallucination；见204页）一般，不过你能创造出包含视觉（visual）、听觉（auditory）、味觉（olfactory）、触觉（tactile）和温度（thermal）成分的魅影幻觉（phantasm），而且魅影幻觉会遵从1套复杂的脚本（complex script）。让魅影幻觉遵从脚本并不需要你对其维持专注，而且它能够由目标的认知而产生应激反应，其反应视脚本（script）的内容而定。与大多数通过豁免便不会相信的幻象不同，若目标不相信永恒错觉的话，则可以选择在任何时候完全结束该效果。<\/p>"
 }

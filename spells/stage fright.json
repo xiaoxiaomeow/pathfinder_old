@@ -1,24 +1,26 @@
 {
     "key": "stage fright",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/stage-fright/",
     "name": "Stage Fright",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Stage%20Fright",
+    "source": ["Arcane Anthology pg. 27"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
-        "fear",
-        "mind-affecting"
+        "fear"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 3,
+        "arcanist": 3,
         "bard": 3,
         "inquisitor": 3,
         "mesmerist": 3,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -27,15 +29,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You fill your targets with the sudden fear of failure. A creature that fails its saving throw takes a –4 penalty on ability checks, skill checks, and any checks that require concentration (such as casting a spell in difficult circumstances or operating a complex device).<\/p>",
+    "text": "You fill your targets with the sudden fear of failure. A creature that fails its saving throw takes a –4 penalty on ability checks, skill checks, and any checks that require concentration (such as casting a spell in difficult circumstances or operating a complex device).",
     "name_zh": "怯场术",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "1个生物/等级，彼此相距不得超过30呎",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你让目标突然对失败充满恐惧。一个在豁免检定上失败的生物在属性检定、技能检定、和任何需要专注的检定上受到-4惩罚（例如在困难情况下施法或操作复杂装置）。<\/p>",
-    "source": "PC-AAnth"
+    "text_zh": "<p>你让目标突然对失败充满恐惧。一个在豁免检定上失败的生物在属性检定、技能检定、和任何需要专注的检定上受到-4惩罚（例如在困难情况下施法或操作复杂装置）。<\/p>"
 }

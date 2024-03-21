@@ -1,8 +1,8 @@
 {
     "key": "resounding blow",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/resounding-blow/",
     "name": "Resounding Blow",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Resounding%20Blow",
+    "source": ["Advanced Player's Guide pg. 238"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
@@ -13,18 +13,18 @@
     "castingTime": "1 swift action",
     "components": "V",
     "range": "personal",
+    "target": "you",
     "duration": "1 round/level",
-    "savingThrow": "Fortitude partial",
+    "savingThrow": "Fortitude partial, see text",
     "spellResistance": "no",
-    "text": "<p>You must have a melee weapon in hand to cast this spell.<\/p><p>On a successful melee attack, your weapon resounds with a thunderous clash. The target takes 1d6 points of sonic damage. Your weapon is not harmed by this attack.<\/p><p>If you are using your judgment ability or smite ability against the target, it is staggered for 1 round on a successful attack. A successful Fortitude save negates the staggering effect.<\/p><p>On a successful critical hit, the target is stunned for 1 round and deafened for 1d6 rounds. A successful Fortitude save negates the stunning and deafening effects. If you are also using judgment or smite, your foe makes only a single save against all effects.<\/p><p>This spell immediately ends if your weapon leaves your hand.<\/p><p><i>Resounding blow<\/i> stacks with the <i>thundering<\/i> weapon property.<\/p>",
+    "text": "You must have a melee weapon in hand to cast this spell. On a successful melee attack, your weapon resounds with a thunderous clash. The target takes 1d6 points of sonic damage. Your weapon is not harmed by this attack.<br><br>If you are using your judgment ability or smite ability against the target, it is staggered for 1 round on a successful attack. A successful Fortitude save negates the staggering effect.<br><br>On a successful critical hit, the target is stunned for 1 round and deafened for 1d6 rounds. A successful Fortitude save negates the stunning and deafening effects. If you are also using judgment or smite, your foe makes only a single save against all effects.<br><br>This spell immediately ends if your weapon leaves your hand. <i>Resounding blow <\/i>stacks with the <i>thundering <\/i>weapon property.",
     "name_zh": "轰鸣击",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>在施放该法术时你必须持握近战武器。当你成功进行近战攻击时，你的武器响起雷鸣般地撞击声。目标受到1d6点音波伤害，你的武器不受此攻击伤害。<\/p><p>如果你正在使用你的审判或制裁能力 (judgment or smite ability) 对抗目标，那么成功的攻击会使目标恍惚1轮。成功的强韧豁免能够免受恍惚影响。<\/p><p>如果成功造成重击，目标会被震慑1轮并且耳聋1d6轮。成功的强韧豁免能够免受震慑以及耳聋影响。如果你同时在使用审判或制裁的话，你的敌人只需要进行1次豁免对抗所有效果。<\/p><p>该法术会在武器离手后立刻结束。轰鸣击与雷鸣武器属性 (thundering weapon property) 叠加。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>在施放该法术时你必须持握近战武器。当你成功进行近战攻击时，你的武器响起雷鸣般地撞击声。目标受到1d6点音波伤害，你的武器不受此攻击伤害。<\/p><p>如果你正在使用你的审判或制裁能力 (judgment or smite ability) 对抗目标，那么成功的攻击会使目标恍惚1轮。成功的强韧豁免能够免受恍惚影响。<\/p><p>如果成功造成重击，目标会被震慑1轮并且耳聋1d6轮。成功的强韧豁免能够免受震慑以及耳聋影响。如果你同时在使用审判或制裁的话，你的敌人只需要进行1次豁免对抗所有效果。<\/p><p>该法术会在武器离手后立刻结束。轰鸣击与雷鸣武器属性 (thundering weapon property) 叠加。<\/p>"
 }

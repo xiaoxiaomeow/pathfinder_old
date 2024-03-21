@@ -1,30 +1,32 @@
 {
     "key": "demand",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/demand/",
     "name": "Demand",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Demand",
+    "source": ["PRPG Core Rulebook pg. 265"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "mesmerist": 6,
+        "psychic": 8,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "domains":     {
-        "charm": 8,
-        "nobility": 8
-    },
-    "subdomains": {"torture": 8},
-    "castingTime": "10 minutes standard action",
+    "castingTime": "10 minutes",
     "components": "V, S, M/DF (fine copper wire)",
-    "range": "see description",
-    "target": "1 Creature",
-    "duration": "1 round",
+    "range": "see text",
+    "target": "one creature",
+    "duration": "1 round; see text",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>This spell functions like sending, but the message can also contain a suggestion (see the suggestion spell), which the subject does its best to carry out. A successful Will save negates the suggestion effect but not the contact itself. The <i>demand<\/i>, if received, is understood even if the subject's Intelligence score is as low as 1. If the message is impossible or meaningless according to the circumstances that exist for the subject at the time the <i>demand<\/i> is issued, the message is understood but the suggestion is ineffective.<\/p><p>The <i>demand's<\/i> message to the creature must be 25 words or less, including the suggestion. The creature can also give a short reply immediately.<\/p>",
+    "text": "This spell functions like <i>sending<\/i>, but the message can also contain a <i>suggestion<\/i> (see the <i>suggestion<\/i> spell), which the subject does its best to carry out. A successful Will save negates the <i>suggestion<\/i> effect but not the contact itself. The <i>demand<\/i>, if received, is understood even if the subject's Intelligence score is as low as 1. If the message is impossible or meaningless according to the circumstances that exist for the subject at the time the <i>demand<\/i> is issued, the message is understood but the <i>suggestion<\/i> is ineffective.<br><br>The <i>demand<\/i>'s message to the creature must be 25 words or less, including the <i>suggestion<\/i>. The creature can also give a short reply immediately.",
     "name_zh": "短讯暗示",
+    "castingTime_zh": "10分钟",
+    "range_zh": "见文本",
+    "duration_zh": "1轮; 见文本",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=sending\">短讯术 (sending)<\/a>’一般，不过讯息内可含‘<a href=\"spell.html?spell=suggestion, 效果详见暗示术的描述\">暗示术 (suggestion, 效果详见暗示术的描述)<\/a>’，受术者会尽力执行暗示的内容。成功的意志豁免能够使暗示效果无效，但短讯的联系本身不会受影响。只要接受短讯暗示，即使受术者的智力只有1也能正确理解内容。在短讯暗示被下达时，若对受术者所处的环境来说命令不可达成或毫无意义，则信息会被理解，而暗示无效。<\/p><p>该法术发出的讯息包括暗示内容合计不能超过25个字。对方可立即做出简短答覆。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=sending\">短讯术 (sending)<\/a>’一般，不过讯息内可含‘<a href=\"spell.html?spell=suggestion, 效果详见暗示术的描述\">暗示术 (suggestion, 效果详见暗示术的描述)<\/a>’，受术者会尽力执行暗示的内容。成功的意志豁免能够使暗示效果无效，但短讯的联系本身不会受影响。只要接受短讯暗示，即使受术者的智力只有1也能正确理解内容。在短讯暗示被下达时，若对受术者所处的环境来说命令不可达成或毫无意义，则信息会被理解，而暗示无效。<\/p><p>该法术发出的讯息包括暗示内容合计不能超过25个字。对方可立即做出简短答覆。<\/p>"
 }

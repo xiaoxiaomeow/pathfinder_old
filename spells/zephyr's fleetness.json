@@ -1,26 +1,30 @@
 {
     "key": "zephyr's fleetness",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/z/zephyr-s-fleetness/",
     "name": "Zephyr's Fleetness",
-    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Zephyr's%20Fleetness",
+    "source": ["Inner Sea Races pg. 223"],
     "school": "transmutation",
     "descriptors": ["air"],
-    "levels": {"ranger": 3},
+    "race": "Keleshite",
+    "levels":     {
+        "hunter": 3,
+        "ranger": 3
+    },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "long (400 ft. + 40 ft./level)",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You can call upon the spirits of the air to grant agility to your allies. Each target gains a +30 foot enhancement bonus to its land speed and fly speed (if any). Each target can also move (and charge) through difficult terrain without penalty.<\/p>",
+    "text": "You can call upon the spirits of the air to grant agility to your allies. Each target gains a +30 foot enhancement bonus to its land speed and fly speed (if any). Each target can also move (and charge) through difficult terrain without penalty.",
     "name_zh": "微风之迅",
+    "race_zh": "Keleshite",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "一个生物/2等级",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你可以召唤天空的精魂为你的盟友提供敏捷之力。每个受术者的陆地速度和飞行速度（如果有的话）会获得+30英尺增强加值，同时可以非常容易地通过困难地形进行移动和冲锋，而且不受惩罚。<\/p>",
-    "source": "CS-ISR"
+    "text_zh": "<p>你可以召唤天空的精魂为你的盟友提供敏捷之力。每个受术者的陆地速度和飞行速度（如果有的话）会获得+30英尺增强加值，同时可以非常容易地通过困难地形进行移动和冲锋，而且不受惩罚。<\/p>"
 }

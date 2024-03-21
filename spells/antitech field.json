@@ -1,29 +1,31 @@
 {
     "key": "antitech field",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/antitech-field/",
     "name": "Antitech Field",
-    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Antitech%20Field",
+    "source": ["Technology Guide pg. 8"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 7,
         "druid": 6,
-        "sorcerer/wizard": 7
+        "hunter": 6,
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (pinch of rust)",
     "range": "10 ft.",
     "target": "10-ft.-radius emanation centered on you",
-    "duration": "1 min./level (d)",
+    "duration": "1 minute/level (D)",
     "savingThrow": "Fortitude partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You bring into being a mobile, hemispherical energy field that prevents technological objects, signals, and creatures from entering.<\/p><p>An antitech field suppresses any technological effect used within, brought into, or deployed into the area, but does not negate it. Time spent within an <i>antitech field<\/i> counts against the suppressed effect's duration.<\/p><p>Robots and other technological constructs that come in contact with an antitech field must attempt a Fortitude saving throw each round they remain in the field. Failure indicates a creature can take no actions that round and is considered to be helpless. Success indicates a creature can take either one move action or one standard action that round. Partially technological creatures like androids or cyborgs are merely staggered if they fail this saving throw. Note that cybernetic equipment does not function in an antitech field, and all benefits granted by such gear are suppressed.<\/p><p>Non-technological creatures can enter the area, as can low-tech missiles like sling stones and arrows. High-tech missiles such as bullets and missiles immediately halt upon contacting the field, and either drop to the ground harmlessly or detonate. An antitech field doesn't stop rays created by magical sources, but does stop rays fired from beam weapons such as lasers. The antitech field does not offer any protection against explosions caused by technological explosives detonating against it—thus, creatures within the field could still take damage from a rocket that explodes against it. If a creature is larger than the area enclosed by the barrier, any part of the creature that lies outside the barrier is unaffected by the field.<\/p><p>This spell can be used only defensively, not aggressively. Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier.<\/p>",
+    "text": "You bring into being a mobile, hemispherical energy field that prevents technological objects, signals, and creatures from entering.<br><br> An <i>antitech field<\/i> suppresses any technological effect used within, brought into, or deployed into the area, but does not negate it. Time spent within an <i>antitech field<\/i> counts against the suppressed effect’s duration.<br><br> Robots and other technological constructs that come in contact with an <i>antitech field<\/i> must attempt a Fortitude saving throw each round they remain in the field. Failure indicates a creature can take no actions that round and is considered to be helpless. Success indicates a creature can take either one move action or one standard action that round. Partially technological creatures like androids or cyborgs are merely staggered if they fail this saving throw. Note that cybernetic equipment does not function in an <i>antitech field<\/i>, and all benefits granted by such gear are suppressed.<br><br> Non-technological creatures can enter the area, as can low-tech missiles like sling stones and arrows. High-tech missiles such as bullets and missiles immediately halt upon contacting the field, and either drop to the ground harmlessly or detonate. An <i>antitech field<\/i> doesn’t stop rays created by magical sources, but does stop rays fired from beam weapons such as lasers. The <i>antitech field<\/i> does not offer any protection against explosions caused by technological explosives detonating against it—thus, creatures within the field could still take damage from a rocket that explodes against it.<br><br> If a creature is larger than the area enclosed by the barrier, any part of the creature that lies outside the barrier is unaffected by the field.<br><br> This spell can be used only defensively, not aggressively. Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier.",
     "name_zh": "反科技场",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，语言，材料（一撮铁锈）",
     "range_zh": "10尺",
     "target_zh": "以你为中心的10尺半径",
-    "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "强韧部分；",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一个可以移动的半球形能量场，它会阻挡然后科技物品，生物和能量信号进入影响范围。\n反科技场同样可以压制已经在其中存在，在能量场开启之后带入或送入的科技效果，但不会完全停止它们的效果。这些效果在反科技场内的时间计入被压制效果。\n进入反科技场内的机体亚种生物和其他构造体都必须在它们处于能量场影响的每轮进行一个强韧豁免检定。如果豁免失败，那么这些生物将在该轮无法行动且处于无助状态。如果豁免检定成功，那么这些生物可以在该轮进行单个移动或标准动作。部分机械化的生物，如自动人（Android）和电子义体人（Cyborg）如果在此豁免检定上失败则只会进入恍惚状态。生物体内安装的电子殖装物同样会受到反科技场的影响，这些装备的功能会在其中受到压制。\n非科技生物和低技术的投射物（如投石弹和箭矢）可以不受阻碍的进入反科技场，高科技的投射物，比如子弹，会在反科技场的边缘停止并无害的坠落或自毁。魔法射线效果可以穿透反科技场，但诸如激光等科技效果产生的射线则不行。反科技场不会防御科技效果产生的次生影响——比如，处于反科技场内的生物仍然会因为反科技场外的科技爆炸物爆炸而受到溅射伤害。\n如果进入反科技场的生物体积比反科技场要大，那么他暴露在反科技场外的部分不受法术的影响。\n这个法术的效果只能被防御性而非进攻性的使用，如果施法者利用反科技场压迫目标，那么反科技场的效果会崩解消失。<\/p>",
-    "source": "CS-TG"
+    "text_zh": "<p>你创造出一个可以移动的半球形能量场，它会阻挡然后科技物品，生物和能量信号进入影响范围。<\/p><p>反科技场同样可以压制已经在其中存在，在能量场开启之后带入或送入的科技效果，但不会完全停止它们的效果。这些效果在反科技场内的时间计入被压制效果。<\/p><p>进入反科技场内的机体亚种生物和其他构造体都必须在它们处于能量场影响的每轮进行一个强韧豁免检定。如果豁免失败，那么这些生物将在该轮无法行动且处于无助状态。如果豁免检定成功，那么这些生物可以在该轮进行单个移动或标准动作。部分机械化的生物，如自动人（Android）和电子义体人（Cyborg）如果在此豁免检定上失败则只会进入恍惚状态。生物体内安装的电子殖装物同样会受到反科技场的影响，这些装备的功能会在其中受到压制。<\/p><p>非科技生物和低技术的投射物（如投石弹和箭矢）可以不受阻碍的进入反科技场，高科技的投射物，比如子弹，会在反科技场的边缘停止并无害的坠落或自毁。魔法射线效果可以穿透反科技场，但诸如激光等科技效果产生的射线则不行。反科技场不会防御科技效果产生的次生影响——比如，处于反科技场内的生物仍然会因为反科技场外的科技爆炸物爆炸而受到溅射伤害。<\/p><p>如果进入反科技场的生物体积比反科技场要大，那么他暴露在反科技场外的部分不受法术的影响。<\/p><p>这个法术的效果只能被防御性而非进攻性的使用，如果施法者利用反科技场压迫目标，那么反科技场的效果会崩解消失。<\/p>"
 }

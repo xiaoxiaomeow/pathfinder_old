@@ -1,10 +1,16 @@
 {
     "key": "explosion of rot",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/explosion-of-rot/",
     "name": "Explosion of Rot",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Explosion%20of%20Rot",
+    "source":     [
+        "Ultimate Wilderness pg. 229",
+        "Champions of Balance pg. 25"
+    ],
     "school": "necromancy",
-    "levels": {"druid": 4},
+    "levels":     {
+        "druid": 4,
+        "hunter": 4
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a rotting flower)",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -12,15 +18,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half (see text)",
     "spellResistance": "yes",
-    "text": "<p>You call forth a burst of decay that ravages all creatures in the area. Even nonliving creatures such as constructs and undead crumble or wither in this malignant eruption of rotting energy. Creatures in the area of effect take 1d6 points of damage per caster level (maximum 15d6) and are staggered for 1d4 rounds. A target that succeeds at a Reflex saving throw takes half damage and negates the staggered effect. Plant creatures are particularly susceptible to this rotting effect; a plant creature caught in the burst takes a –2 penalty on the saving throw and takes 1 extra point of damage per die.<\/p>",
+    "text": "You call forth a burst of decay that ravages all creatures in the area. Even nonliving creatures such as constructs and undead crumble or wither in this malignant eruption of rotting energy. Creatures in the area of effect take 1d6 points of damage per caster level (maximum 15d6) and are staggered for 1d4 rounds. A target that succeeds at a Reflex saving throw takes half damage and negates the staggered effect. Plant creatures are particularly susceptible to this rotting effect; a plant creature caught in the burst takes a –2 penalty on the saving throw and takes 1 extra point of damage per die.",
     "name_zh": "腐败爆裂",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一朵腐烂的花朵）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "area_zh": "10英尺半径爆发",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射过则减半（见正文）",
+    "savingThrow_zh": "反射, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你呼唤来一场腐朽爆炸，蹂躏区域内的所有生物。就算是非活物，像是构装体或不死生物，也会在这腐烂能量的恶性喷发中朽败或枯萎。在效果区域内的生物受到1d6点伤害/等级（最大15d6）并且恍惚1d4轮。一次成功的反射豁免检定可以将受到的伤害减半，并使恍惚效果无效化。植物生物特别容易受到此腐烂效果的伤害，任何被爆发波及的植物生物，在豁免检定中受到-2惩罚，且每骰多受到1点额外的伤害。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>你呼唤来一场腐朽爆炸，蹂躏区域内的所有生物。就算是非活物，像是构装体或不死生物，也会在这腐烂能量的恶性喷发中朽败或枯萎。在效果区域内的生物受到1d6点伤害/等级（最大15d6）并且恍惚1d4轮。一次成功的反射豁免检定可以将受到的伤害减半，并使恍惚效果无效化。植物生物特别容易受到此腐烂效果的伤害，任何被爆发波及的植物生物，在豁免检定中受到-2惩罚，且每骰多受到1点额外的伤害。<\/p>"
 }

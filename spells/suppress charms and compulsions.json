@@ -1,34 +1,41 @@
 {
     "key": "suppress charms and compulsions",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/suppress-charms-and-compulsions/",
     "name": "Suppress Charms and Compulsions",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suppress%20Charms%20and%20Compulsions",
+    "source":     [
+        "Adventurer's Guide pg. 77",
+        "Andoran, Spirit of Liberty pg. 27"
+    ],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "cleric": 2,
         "mesmerist": 2,
+        "oracle": 2,
         "paladin": 2,
         "psychic": 2,
         "shaman": 2,
-        "sorcerer/wizard": 2
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature plus one additional creature per 4 levels, no two of which can be more than 30 ft. apart",
-    "duration": "10 min.s or concentration (up to 1 round/level); see text",
+    "duration": "10 minutes or concentration (up to 1 round/level); see text",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p class=\"desciption\">You bolster the subject's sense of willpower and self-worth when you cast this spell.<\/p><p>As you cast it, you must decide if you want to grant a bonus to saving throws against charms and compulsions or suppress charms and compulsions.<\/p><p>If you grant a bonus to saving throws, you grant all affected creatures a +4 morale bonus on saving throws against charm and compulsion effects for 10 minutes.<\/p><p>If instead you suppress charms and compulsions, the spell's duration drops to concentration, to a maximum duration of 1 round per level. As long as you continue to concentrate, the spell suppresses all existing charm and compulsion effects affecting the targets, regardless of whether the effect is beneficial or harmful. New charm or compulsion effects that successfully target such a protected creature are automatically suppressed as long as you continue concentrating. If you cease concentrating, the spell effect immediately ends, and remaining charm or compulsion effects resume for the rest of their remaining durations as normal.<\/p>",
+    "text": "You bolster the subject’s sense of willpower and self-worth when you cast this spell. As you cast it, you must decide if you want to grant a bonus to saving throws against charms and compulsions or suppress charms and compulsions.<br><br> If you grant a bonus to saving throws, you grant all affected creatures a +4 morale bonus on saving throws against charm and compulsion effects for 10 minutes.<br><br> If instead you suppress charms and compulsions, the spell’s duration drops to concentration, to a maximum duration of 1 round per level. As long as you continue to concentrate, the spell suppresses all existing charm and compulsion effects affecting the targets, regardless of whether the effect is beneficial or harmful. New charm or compulsion effects that successfully target such a protected creature are automatically suppressed as long as you continue concentrating. If you cease concentrating, the spell effect immediately ends, and remaining charm or compulsion effects resume for the rest of their remaining durations as normal.",
     "name_zh": "压制魅惑与胁迫",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物外加每4个等级一个生物，任意两个目标之间的距离不能超过30英尺",
-    "duration_zh": "10分钟，或专注（最多1轮/等级）；见下文",
+    "duration_zh": "10分钟, 或专注 (最多1轮/等级) ; 见文本",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>当你施放此法术时，你可以增强目标的意志力和自我价值感。当你施法时，你必须决定是给予对抗魅惑与胁迫的豁免加值还是压制魅惑与胁迫。如果你给予豁免加值，你将给予所有受影响生物在对抗魅惑与胁迫+4士气加值，持续10分钟。相反，如果你选择压制魅惑与胁迫，法术的持续时间下降为专注，最多持续1轮/等级。只要你维持专注，这个法术就会抑制所有现存影响目标的魅惑与胁迫效果，不管效果是有益的还是无害的。只要你维持专注，成功对受保护生物生效得新魅惑与胁迫效果会自动被压制。如果你停止专注，法术效果立即结束，剩余的魔法或强制效果将恢复正常。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>当你施放此法术时，你可以增强目标的意志力和自我价值感。当你施法时，你必须决定是给予对抗魅惑与胁迫的豁免加值还是压制魅惑与胁迫。如果你给予豁免加值，你将给予所有受影响生物在对抗魅惑与胁迫+4士气加值，持续10分钟。相反，如果你选择压制魅惑与胁迫，法术的持续时间下降为专注，最多持续1轮/等级。只要你维持专注，这个法术就会抑制所有现存影响目标的魅惑与胁迫效果，不管效果是有益的还是无害的。只要你维持专注，成功对受保护生物生效得新魅惑与胁迫效果会自动被压制。如果你停止专注，法术效果立即结束，剩余的魔法或强制效果将恢复正常。<\/p>"
 }

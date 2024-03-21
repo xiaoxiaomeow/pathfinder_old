@@ -1,16 +1,19 @@
 {
     "key": "force anchor",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/force-anchor/",
     "name": "Force Anchor",
-    "book": "Pathfinder Player Companion: Undead Slayer's Handbook © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Force%20Anchor",
+    "source": ["Undead Slayer's Handbook pg. 26"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["force"],
     "levels":     {
+        "arcanist": 3,
         "inquisitor": 2,
         "magus": 2,
-        "sorcerer/wizard": 3,
-        "summoner": 2
+        "sorcerer": 3,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a twisted nail)",
@@ -19,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You conjure an anchor of pure force that immediately skewers your target on a successful ranged touch attack. If it hits, the attack deals the target 1d4 points of force damage per 2 caster levels (max 5d4) and the anchor becomes firmly lodged in the target's torso. The anchor has no weight, but its wide flukes prevent the target from moving through any space smaller than the creature's size. The anchor also prevents incorporeal targets from moving through solid objects. Whenever the target moves through a square occupied by another creature, the square counts as 2 squares for the purpose of calculating movement, even if the square's occupant is the target's ally.<\/p>",
+    "text": "You conjure an anchor of pure force that immediately skewers your target on a successful ranged touch attack. If it hits, the attack deals the target 1d4 points of force damage per 2 caster levels (max 5d4) and the anchor becomes firmly lodged in the target’s torso. The anchor has no weight, but its wide flukes prevent the target from moving through any space smaller than the creature’s size. The anchor also prevents incorporeal targets from moving through solid objects. Whenever the target moves through a square occupied by another creature, the square counts as 2 squares for the purpose of calculating movement, even if the square’s occupant is the target’s ally.",
     "name_zh": "力场锚",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料（一颗扭曲的钉子）",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "一个力场锚",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一个力场锚并对目标进行一次远程接触攻击。命中会造成每2个施法者等级1d4点伤害（最大5d4）并且锚链接上了目标的躯体。该锚没有重量，会阻止被链接者挤入比它小的格子。该锚同时可以阻止虚体目标穿过固体。无论何时被链接者试图穿越被其他生物占据的格子时，计算移动距离时视为2格，就算穿越的是盟友占据格也一样。<\/p>",
-    "source": "PC-USH"
+    "text_zh": "<p>你创造出一个力场锚并对目标进行一次远程接触攻击。命中会造成每2个施法者等级1d4点伤害（最大5d4）并且锚链接上了目标的躯体。该锚没有重量，会阻止被链接者挤入比它小的格子。该锚同时可以阻止虚体目标穿过固体。无论何时被链接者试图穿越被其他生物占据的格子时，计算移动距离时视为2格，就算穿越的是盟友占据格也一样。<\/p>"
 }

@@ -1,0 +1,28 @@
+{
+    "key": "quick throwing",
+    "name": "Quick Throwing",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Quick%20Throwing",
+    "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
+    "school": "transmutation",
+    "levels":     {
+        "antipaladin": 2,
+        "bloodrager": 2,
+        "hunter": 2,
+        "magus": 2,
+        "paladin": 2,
+        "ranger": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature/level, no two of which can be more than 30 ft. apart",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "Those under the effects of this spell become faster in the use of thrown weapons. They can draw thrown weapons (including rocks if they have the rock throwing ability) on their bodies or within their space without the need for the Quick Draw feat, allowing them to make their full normal rate of attacks with such weapons. This has no effects on other forms of ranged weapon ammunition.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

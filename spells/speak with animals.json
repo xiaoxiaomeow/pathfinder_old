@@ -1,28 +1,28 @@
 {
     "key": "speak with animals",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-animals/",
     "name": "Speak with Animals",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Animals",
+    "source": ["PRPG Core Rulebook pg. 346"],
     "school": "divination",
     "levels":     {
         "bard": 3,
         "druid": 1,
+        "hunter": 1,
         "psychic": 2,
-        "ranger": 1
+        "ranger": 1,
+        "skald": 3
     },
-    "mysteries": {"juju": 1},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 min./level",
-    "text": "<p>You can ask questions of and receive answers from animals, but the spell doesn't make them any more friendly than normal. Wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.<\/p>",
+    "text": "You can ask questions of and receive answers from animals, but the spell doesn't make them any more friendly than normal. Wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.",
     "name_zh": "动物交谈",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你可以向动物提问并能获得回答，但是该法术无法使动物变得更友善或更合作。而且狡猾机警的动物还可能给出含糊而简短的答案，若动物智力不高，也可能说出蠢话。如果动物对你友善，那么它可能会帮忙甚至由你差遣。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以向动物提问并能获得回答，但是该法术无法使动物变得更友善或更合作。而且狡猾机警的动物还可能给出含糊而简短的答案，若动物智力不高，也可能说出蠢话。如果动物对你友善，那么它可能会帮忙甚至由你差遣。<\/p>"
 }

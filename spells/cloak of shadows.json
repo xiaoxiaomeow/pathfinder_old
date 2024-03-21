@@ -1,35 +1,35 @@
 {
     "key": "cloak of shadows",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cloak-of-shadows/",
     "name": "Cloak of Shadows",
-    "book": "Pathfinder Roleplaying Game Villain Codex © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cloak%20of%20Shadows",
+    "source": ["Villain Codex pg. 80"],
     "school": "illusion",
-    "subSchool": ["shadow"],
+    "subSchools": ["shadow"],
     "descriptors":     [
         "evil",
         "shadow"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 4,
         "arcanist": 5,
         "bard": 5,
         "mesmerist": 5,
         "skald": 5,
-        "sorcerer/wizard": 5
+        "sorcerer": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You wrap yourself in a protective mantle of semireal shadow. This grants a number of advantages: you gain concealment (20% miss chance), a +5 competence bonus on Stealth checks, and DR 5/good. This shroud of shadows also protects you from direct sunlight, negating sunlight vulnerability, sunlight powerlessness, and similar effects.<\/p><p>When you are in dim light or darkness, the first two benefits increase against foes that don't have darkvision or the see in darkness ability. Such creatures suffer a 50% miss chance (though you don't gain total concealment) and your competence bonus on Stealth checks increases to +10 with respect to such creatures.<\/p>",
+    "duration": "1 minute/level",
+    "text": "You wrap yourself in a protective mantle of semireal shadow. This grants a number of advantages: you gain concealment (20% miss chance), a +5 competence bonus on Stealth checks, and DR 5/good. This shroud of shadows also protects you from direct sunlight, negating sunlight vulnerability, sunlight powerlessness, and similar effects.<br><br> When you are in dim light or darkness, the first two benefits increase against foes that don’t have darkvision or the see in darkness ability (<i>Pathfinder RPG Bestiary<\/i> 2 301). Such creatures suffer a 50% miss chance (though you don’t gain total concealment) and your competence bonus on Stealth checks increases to +10 with respect to such creatures.",
     "name_zh": "阴影斗篷",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你将自己包裹在一件半真实阴影的保护罩中。这给了你许多优势：你获得了隐蔽(20%失手率)，在隐匿检定上获得+5增强加值，以及DR5/善良。此阴影罩也保护你直面阳光、使日光易伤(sunlight vulnerability)、日光虚弱(sunlight powerlessness)以及类似效果无效。\n当你处于昏暗或是黑暗光亮中，在对抗没有黑暗视觉或看透黑暗(see in darkness，Pathfinder RPG Bestiary 2 301)能力的敌人可以获得前两个效益。这样的生物会遭受50%的失手率(尽管你不会获得全隐蔽)并且，你对于这样的生物，在隐匿检定上的增强加值增加至+10。<\/p>",
-    "source": "VC"
+    "text_zh": "<p>你将自己包裹在一件半真实阴影的保护罩中。这给了你许多优势：你获得了隐蔽(20%失手率)，在隐匿检定上获得+5增强加值，以及DR5/善良。此阴影罩也保护你直面阳光、使日光易伤(sunlight vulnerability)、日光虚弱(sunlight powerlessness)以及类似效果无效。<\/p><p>当你处于昏暗或是黑暗光亮中，在对抗没有黑暗视觉或看透黑暗(see in darkness，Pathfinder RPG Bestiary 2 301)能力的敌人可以获得前两个效益。这样的生物会遭受50%的失手率(尽管你不会获得全隐蔽)并且，你对于这样的生物，在隐匿检定上的增强加值增加至+10。<\/p>"
 }

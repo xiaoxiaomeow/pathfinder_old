@@ -1,30 +1,32 @@
 {
     "key": "fool's teleport",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fool-s-teleport/",
     "name": "Fool's Teleport",
-    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fool's%20Teleport",
+    "source": ["Occult Origins pg. 13"],
     "school": "illusion",
-    "subSchool": ["glamer"],
+    "subSchools": ["glamer"],
     "levels":     {
+        "arcanist": 4,
         "mesmerist": 3,
         "psychic": 4,
-        "sorcerer/wizard": 4
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V",
     "range": "personal and touch",
     "target": "you and other touched willing creatures",
-    "duration": "1 min./level",
-    "savingThrow": "Will negates (harmless)",
+    "duration": "1 minute/level",
+    "savingThrow": "Will negates (harmless), see text",
     "spellResistance": "no",
-    "text": "<p>This spell instantly renders you unseen as per invisibility, but creates a visual and auditory display that makes it appear as if you had teleported away. You can affect one additional Medium or smaller creature or its equivalent per 3 caster levels (a Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth). All creatures to be affected must be in contact with one another, and at least one of those creatures must be in contact with you.<\/p><p>If a viewer identifies the spell with a successful Spellcraft check, she can attempt an immediate Will saving throw as if interacting with an illusion. With a successful Will save, the observer can correctly identify <i>fool's teleport<\/i> for what it is; otherwise, she perceives the spell to be dimension door, teleport, or similar conjuration magic. A successful Will save doesn't negate the invisibility.<\/p>",
+    "text": "This spell instantly renders you unseen as per <i>invisibility<\/i>, but creates a visual and auditory display that makes it appear as if you had teleported away. You can affect one additional Medium or smaller creature or its equivalent per 3 caster levels (a Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and so forth). All creatures to be affected must be in contact with one another, and at least one of those creatures must be in contact with you.<br><br> If a viewer identifies the spell with a successful Spellcraft check, she can attempt an immediate Will saving throw as if interacting with an illusion. With a successful Will save, the observer can correctly identify <i>fool’s teleport<\/i> for what it is; otherwise, she perceives the spell to be <i>dimension door<\/i>, <i>teleport<\/i>, or similar conjuration magic. A successful Will save doesn’t negate the invisibility.",
     "name_zh": "欺敌传送",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
+    "range_zh": "个人 和 接触",
     "target_zh": "你，以及其他自愿被碰触的目标",
     "duration_zh": "1分钟/等级",
-    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "savingThrow_zh": "意志无效 (无害) , 见文本; ",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术立即使你不可见，按照隐形术(invisibility)，但创造了一个视觉与听觉的图像，让人看上去，好像是已经传送走了。你每有3个施法者等级，能额外影响一名中体型或更小体型的生物，或是与之相当的生物(一名大体型生物算做两名中体型生物；一名超大型体型生物算做四名中体型生物，以此类推)。所有要被影响的生物必须与另一生物接触，而且这些生物必须至少要有一名与你接触。\n如果观察者成功用法术辨识检定辨识出了此法术，她可以立即尝试一次意志豁免检定，如同与幻象互动般。意志豁免成功的话，观测者可以正确的辨认出这是欺敌传送法术；不然，她会认为这法术是任意门(dimension door)、传送术(teleport)或类似的系魔法。意志豁免成功并不会让不可视无效化。\n译注：尽管第一段第一句，与第二段最后一句都使用invisibility。但前者有用斜体，后者则无。依照官方的用法，前者指的是同名的法术，后者是指「不可视」这个现象。<\/p>",
-    "source": "PC-OO"
+    "text_zh": "<p>此法术立即使你不可见，按照隐形术(invisibility)，但创造了一个视觉与听觉的图像，让人看上去，好像是已经传送走了。你每有3个施法者等级，能额外影响一名中体型或更小体型的生物，或是与之相当的生物(一名大体型生物算做两名中体型生物；一名超大型体型生物算做四名中体型生物，以此类推)。所有要被影响的生物必须与另一生物接触，而且这些生物必须至少要有一名与你接触。<\/p><p>如果观察者成功用法术辨识检定辨识出了此法术，她可以立即尝试一次意志豁免检定，如同与幻象互动般。意志豁免成功的话，观测者可以正确的辨认出这是欺敌传送法术；不然，她会认为这法术是任意门(dimension door)、传送术(teleport)或类似的系魔法。意志豁免成功并不会让不可视无效化。<\/p><p>译注：尽管第一段第一句，与第二段最后一句都使用invisibility。但前者有用斜体，后者则无。依照官方的用法，前者指的是同名的法术，后者是指「不可视」这个现象。<\/p>"
 }

@@ -1,15 +1,18 @@
 {
     "key": "mind maze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mind-maze/",
     "name": "Mind Maze",
-    "book": "Pathfinder Campaign Setting: Inner Sea Monster Codex © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mind%20Maze",
+    "source": ["Inner Sea Monster Codex pg. 41"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "bard": 3,
         "cleric": 3,
+        "oracle": 3,
         "shaman": 3,
+        "skald": 3,
+        "warpriest": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -19,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell causes the target to act as though it's wandering through a maze. While under the effects of the spell, the target can't make attacks or cast spells and must take at least one move action each round to walk in a random direction determined using the guidelines for missed splash weapons. The target must move at its maximum speed during this required movement, though additional move actions after the first can cover shorter distances. If this movement takes the target into a dangerous area, such as through a threatened square or off a ledge, the target receives a second Saving Throw to end the effect before moving into peril. Walking into a harmless obstacle, such as a wall, ends the target's movement.<\/p>",
+    "text": "This spell causes the target to act as though it’s wandering through a maze. While under the effects of the spell, the target can’t make attacks or cast spells and must take at least one move action each round to walk in a random direction determined using the guidelines for missed splash weapons (<i>Core Rulebook<\/i> 202). The target must move at its maximum speed during this required movement, though additional move actions after the first can cover shorter distances. If this movement takes the target into a dangerous area, such as through a threatened square or off a ledge, the target receives a second saving throw to end the effect before moving into peril. Walking into a harmless obstacle, such as a wall, ends the target’s movement.",
     "name_zh": "心灵迷宫",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材/法器(一只鸡的头骨)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一名活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术令目标如同在迷宫中徘徊。处于法术效果下时，目标无法进行攻击或是施放法术，并且每轮必须至少进行一个移动动作走路，走的方向使用泼溅武器失手后的指导随机决定(CRB P.202)。目标在这次移动中必须用速度的最大值进行移动，但首次移动之后的其他移动动作，距离可以比较短。如果这个行动会让目标进入一个危险的区域，例如穿过一个受威胁的区域，或坠下悬崖，目标在前往这危险的区域前，会获得第二次的豁免机会以中止此效果。向无害的阻碍(例如墙壁)会中止目标的移动。<\/p>",
-    "source": "CS-ISMC"
+    "text_zh": "<p>此法术令目标如同在迷宫中徘徊。处于法术效果下时，目标无法进行攻击或是施放法术，并且每轮必须至少进行一个移动动作走路，走的方向使用泼溅武器失手后的指导随机决定(CRB P.202)。目标在这次移动中必须用速度的最大值进行移动，但首次移动之后的其他移动动作，距离可以比较短。如果这个行动会让目标进入一个危险的区域，例如穿过一个受威胁的区域，或坠下悬崖，目标在前往这危险的区域前，会获得第二次的豁免机会以中止此效果。向无害的阻碍(例如墙壁)会中止目标的移动。<\/p>"
 }

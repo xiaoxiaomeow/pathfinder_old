@@ -1,21 +1,25 @@
 {
     "key": "dream",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream/",
     "name": "Dream",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dream",
+    "source": ["PRPG Core Rulebook pg. 274"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "alchemist": 5,
+        "arcanist": 5,
         "bard": 5,
-        "sorcerer/wizard": 5
+        "investigator": 5,
+        "medium": 3,
+        "mesmerist": 4,
+        "psychic": 4,
+        "redmantisassassin": 3,
+        "skald": 5,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "wizard": 5
     },
-    "subdomains":     {
-        "imagination": 5,
-        "moon": 6
-    },
-    "bloodlines": {"dreamspun": 5},
     "castingTime": "1 minute",
     "components": "V, S",
     "range": "unlimited",
@@ -23,16 +27,16 @@
     "duration": "see text",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You, or a messenger you touch, send a message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient's dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.<\/p><p>Once the message is delivered, the messenger's mind returns instantly to its body. The duration of the spell is the time required for the messenger to enter the recipient's dream and deliver the message.<\/p><p>If the recipient is awake when the spell begins, the messenger can choose to wake up (ending the spell) or remain in the trance. The messenger can remain in the trance until the recipient goes to sleep, then enter the recipient's dream and deliver the message as normal. A messenger that is disturbed during the trance comes awake, ending the spell.<\/p><p>Creatures who don't sleep or don't dream cannot be contacted by this spell.<\/p><p>The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (always failing any saving throw) while in the trance.<\/p>",
-    "mythicText": "You or the messenger may gain information from the dreamer you contact by asking questions as if using speak with dead to speak with a corpse. An unwilling dreamer can attempt to resist this probing with a Will save (as speak with dead, using the DC dream would have if it allowed a saving throw). Answers to these questions are still generally brief and cryptic. ",
+    "text": "You, or a messenger you touch, send a message to others in the form of a dream. At the beginning of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to identity. The messenger then enters a trance, appears in the intended recipient's dream, and delivers the message. The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by observing the dreams of the recipient.<br><br>Once the message is delivered, the messenger's mind returns instantly to its body. The duration of the spell is the time required for the messenger to enter the recipient's dream and deliver the message.<br><br>If the recipient is awake when the spell begins, the messenger can choose to wake up (ending the spell) or remain in the trance. The messenger can remain in the trance until the recipient goes to sleep, then enter the recipient's dream and deliver the message as normal. A messenger that is disturbed during the trance comes awake, ending the spell.<br><br>Creatures who don't sleep or don't dream cannot be contacted by this spell.<br><br>The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is defenseless both physically and mentally (always failing any saving throw) while in the trance.<h2 class=\"title\">Mythic Dream<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 92<\/i><br>You or the messenger may gain information from the dreamer you contact by asking questions as if using speak with dead to speak with a corpse. An unwilling dreamer can attempt to resist this probing with a Will save (as <i>speak with dead<\/i>, using the DC <i>dream<\/i> would have if it allowed a saving throw). Answers to these questions are still generally brief and cryptic.",
+    "mythicSource": ["Mythic Adventures pg. 92"],
+    "mythicText": "You or the messenger may gain information from the dreamer you contact by asking questions as if using speak with dead to speak with a corpse. An unwilling dreamer can attempt to resist this probing with a Will save (as <i>speak with dead<\/i>, using the DC <i>dream<\/i> would have if it allowed a saving throw). Answers to these questions are still generally brief and cryptic.",
     "name_zh": "托梦术",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势",
     "range_zh": "无限",
     "target_zh": "一个接触到的活物",
-    "duration_zh": "见后文",
+    "duration_zh": "见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你或者被你碰触到的信使可以通过梦的形式向他人传递信息。在法术开始时，你必须说出收信者的名字，或者确凿无疑代表此人的称呼。随后信使会进入出神状态，随即出现在对像梦中并传递讯息。讯息的长度是随意的，且收信者在醒来后仍然可以完整记得。这样通信是单向的。因此收信者不能提问或提供信息，信使也不能通过观察收信者的梦境来获得信息。<\/p><p>一旦信息传递完毕，信使的精神就会立即返回身体。法术的持续时间是信使进入收信者梦中并传递讯息所需时间。<\/p><p>若收信者在法术开始时保持清醒，则信使可以选择醒来 (法术结束) 或保持出神状态。信使可以一直保持出神状态，直至收信者进入睡眠，然后进入梦境如常传递信息。若信使在出神状态中受到干扰并醒来，则法术结束。<\/p><p>不睡觉的生物或不做梦的生物不能通过该法术进行联络。<\/p><p>信使在恍惚状态时对周围的环境或发生的事情一无所知。此时信使在身体和精神上都毫无防御能力 (任何豁免都会失败)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你或者被你碰触到的信使可以通过梦的形式向他人传递信息。在法术开始时，你必须说出收信者的名字，或者确凿无疑代表此人的称呼。随后信使会进入出神状态，随即出现在对像梦中并传递讯息。讯息的长度是随意的，且收信者在醒来后仍然可以完整记得。这样通信是单向的。因此收信者不能提问或提供信息，信使也不能通过观察收信者的梦境来获得信息。<\/p><p>一旦信息传递完毕，信使的精神就会立即返回身体。法术的持续时间是信使进入收信者梦中并传递讯息所需时间。<\/p><p>若收信者在法术开始时保持清醒，则信使可以选择醒来 (法术结束) 或保持出神状态。信使可以一直保持出神状态，直至收信者进入睡眠，然后进入梦境如常传递信息。若信使在出神状态中受到干扰并醒来，则法术结束。<\/p><p>不睡觉的生物或不做梦的生物不能通过该法术进行联络。<\/p><p>信使在恍惚状态时对周围的环境或发生的事情一无所知。此时信使在身体和精神上都毫无防御能力 (任何豁免都会失败)。<\/p>"
 }

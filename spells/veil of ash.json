@@ -1,0 +1,26 @@
+{
+    "key": "veil of ash",
+    "name": "Veil of Ash",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Veil%20of%20Ash",
+    "source": ["Pathfinder #24: The Final Wish pg. 61"],
+    "school": "evocation",
+    "descriptors": ["fire"],
+    "levels":     {
+        "arcanist": 2,
+        "sorcerer": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a pinch of ash)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "This spell causes a small cloud of searing, choking ash to appear around the face of the target. The creature must succeed at a Fortitude saving throw or take 1d6 points of fire damage and be blinded. The victim must make a new save against damage and blindness for each round the spell persists. The target must have a discernable anatomy and no more than one head in order to be blinded. Undead, constructs, and creatures without eyes or who don’t rely on sight to sense their surroundings can be damaged by this spell, but not blinded.<br><br>A moderate wind (11+ mph) disperses the ash cloud in 2 rounds; a strong wind (21+ mph) disperses the cloud in 1 round.<br><br>This spell does not function underwater.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可"
+}

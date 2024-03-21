@@ -1,29 +1,30 @@
 {
     "key": "transfer familiar",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/transfer-familiar/",
     "name": "Transfer Familiar",
-    "book": "Pathfinder Player Companion: Familiar Folio © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Transfer%20Familiar",
+    "source": ["Familiar Folio pg. 23"],
     "school": "evocation",
     "levels":     {
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "arcanist": 6,
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "your familiar and one willing creature",
-    "duration": "1 day/level (d)",
+    "duration": "1 day/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You temporarily grant control of your familiar to another willing creature. You, your familiar, and the target creature must all be touching each other when you cast this spell. The target gains all the benefits and abilities normally associated with having a familiar, including the ability to share spells, speak with the familiar, and so on. You lose all of these benefits for the duration of the spell. If the target already has a familiar, the spell fails.<\/p>",
+    "text": "You temporarily grant control of your familiar to another willing creature. You, your familiar, and the target creature must all be touching each other when you cast this spell. The target gains all the benefits and abilities normally associated with having a familiar, including the ability to share spells, speak with the familiar, and so on. You lose all of these benefits for the duration of the spell. If the target already has a familiar, the spell fails.",
     "name_zh": "魔宠转借",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "接触",
     "target_zh": "你的魔宠和1个自愿的生物",
-    "duration_zh": "1天/等级（D）",
+    "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你暂时将自己魔宠的控制权转移给其他自愿的生物。你、你的魔宠和目标生物在施放该法术时都必须彼此接触。目标会获得具有魔宠时通常会获得的所有好处和能力，包括法术共享（Share Spells）、与魔宠交谈*（speak with the familiar）等等。你在法术的持续时间内会失去所有这些好处。若目标已经具有魔宠，则法术会失败。<\/p>",
-    "source": "PC-FF"
+    "text_zh": "<p>你暂时将自己魔宠的控制权转移给其他自愿的生物。你、你的魔宠和目标生物在施放该法术时都必须彼此接触。目标会获得具有魔宠时通常会获得的所有好处和能力，包括法术共享（Share Spells）、与魔宠交谈*（speak with the familiar）等等。你在法术的持续时间内会失去所有这些好处。若目标已经具有魔宠，则法术会失败。<\/p>"
 }

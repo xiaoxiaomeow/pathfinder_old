@@ -1,29 +1,29 @@
 {
     "key": "hunter's friend",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hunter-s-friend/",
     "name": "Hunter's Friend",
-    "book": "Pathfinder Player Companion: Animal Archive © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hunter's%20Friend",
+    "source": ["Animal Archive pg. 24"],
     "school": "transmutation",
     "levels":     {
         "druid": 3,
+        "hunter": 2,
         "ranger": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "target": "your animal companion",
-    "duration": "1 hour/level (d)",
+    "duration": "1 hour/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p class=\"description\">Your animal companion works in perfect harmony with your mastery of nature.<\/p><p>You share one of the following class abilities with your companion for every 4 caster levels you possess: camouflage, favored enemy, favored terrain, hide in plain sight, resist nature's lure, swift tracker, trackless step, venom immunity, and woodland stride. You must have the ability in question to share it with your companion, and it functions for your companion just as it functions for you, save that each favored enemy or favored terrain you share counts as a separate class ability for the purpose of this spell.<\/p><p>At the GM's discretion, you may instead share an ability granted by an archetype that substitutes for one of the above abilities, such as the arctic endurance, arctic native, icewalking, and snowcaster abilities of an arctic druid.<\/p>",
+    "text": "Your animal companion works in perfect harmony with your mastery of nature. You share one of the following class abilities with your companion for every 4 caster levels you possess: camouflage, favored enemy, favored terrain, hide in plain sight, resist nature’s lure, swift tracker, trackless step, venom immunity, and woodland stride. You must have the ability in question to share it with your companion, and it functions for your companion just as it functions for you, save that each favored enemy or favored terrain you share counts as a separate class ability for the purpose of this spell.<br><br>At the GM’s discretion, you may instead share an ability granted by an archetype that substitutes for one of the above abilities, such as the arctic endurance, arctic native, icewalking, and snowcaster abilities of an arctic druid<sup>APG<\/sup>.",
     "name_zh": "猎手之友",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，法器",
     "range_zh": "接触",
     "target_zh": "你的动物伙伴",
-    "duration_zh": "1小时/等级（D）",
+    "duration_zh": "1小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你的动物伙伴与你对自然的掌控力达成了完美调和。你每拥有4个施法者等级，就可以将后述职业能力中的一个分享给你的动物伙伴：伪装（camouflage），宿敌（favored enemy），偏好地形（favored terrain），视线躲藏（hide in plain sight），抗自然诱惑（resist nature's lure），快速追踪（swift tracker），无踪步（trackless step），毒免疫（venom immunity）以及传林（wood land stride）。你必须拥有这些能力才能分享给你的动物伙伴，在判断该法术的作用时，它赋予给你的动物伙伴的能力如同赋予给你的能力一般，除了你所分享的每个宿敌或者偏好地形均被视为单独的职业能力。<\/p><p>经过DM的允许，你可以用变体职业赋予的职业能力来替代上述标准职业能力，用于分享给你的动物伙伴，诸如极地德鲁伊APG的职业能力：极圈耐力（arctic endurance），极地居民（arctic native），冰原行者（icewalking）以及冰霜咒者（snowcaster）。<\/p>",
-    "source": "PC-AArch"
+    "text_zh": "<p>你的动物伙伴与你对自然的掌控力达成了完美调和。你每拥有4个施法者等级，就可以将后述职业能力中的一个分享给你的动物伙伴：伪装（camouflage），宿敌（favored enemy），偏好地形（favored terrain），视线躲藏（hide in plain sight），抗自然诱惑（resist nature's lure），快速追踪（swift tracker），无踪步（trackless step），毒免疫（venom immunity）以及传林（wood land stride）。你必须拥有这些能力才能分享给你的动物伙伴，在判断该法术的作用时，它赋予给你的动物伙伴的能力如同赋予给你的能力一般，除了你所分享的每个宿敌或者偏好地形均被视为单独的职业能力。<\/p><p>经过DM的允许，你可以用变体职业赋予的职业能力来替代上述标准职业能力，用于分享给你的动物伙伴，诸如极地德鲁伊APG的职业能力：极圈耐力（arctic endurance），极地居民（arctic native），冰原行者（icewalking）以及冰霜咒者（snowcaster）。<\/p>"
 }

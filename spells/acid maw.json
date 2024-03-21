@@ -1,29 +1,30 @@
 {
     "key": "acid maw",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/acid-maw/",
     "name": "Acid Maw",
-    "book": "Pathfinder Player Companion: Advanced Class Origins © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Acid%20Maw",
+    "source": ["Advanced Class Origins pg. 30"],
     "school": "transmutation",
     "descriptors": ["acid"],
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "ranger": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
-    "range": "close (25 ft. + 2 ft./level)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "your animal companion",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes",
-    "text": "<p>Your animal companion's bite attack deals an additional 1d4 points of acid damage, and the acid deals another 1d4 points of acid damage to the target on the next round. The acid continues to deal damage for 1 additional round per 4 caster levels (to a maximum of 6 total rounds at caster level 20th). This ongoing acid damage doesn't stack from multiple attacks, but the duration resets if a newer bite would cause the ongoing damage to last longer than the duration remaining from a previous one.<\/p><p>The acid does not harm the animal companion.<\/p>",
+    "text": "Your animal companion’s bite attack deals an additional 1d4 points of acid damage, and the acid deals another 1d4 points of acid damage to the target on the next round. The acid continues to deal damage for 1 additional round per 4 caster levels (to a maximum of 6 total rounds at caster level 20th). This ongoing acid damage doesn’t stack from multiple attacks, but the duration resets if a newer bite would cause the ongoing damage to last longer than the duration remaining from a previous one. The acid does not harm the animal companion.",
     "name_zh": "酸液口腔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "你的动物伙伴",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你动物伙伴的噬咬攻击造成额外的1d4点酸液伤害，并且这强酸会在下一轮对目标造成另一次1d4点的酸液伤害。这强酸在每4个施法者等级/额外1轮(最长在20等时，总共6轮)内持续造成伤害。正在运作的酸液伤害并不因多次攻击而叠加，但如果新一次噬咬的持续时间会比先前噬咬剩余的持续时间还长的话，那持续时间将会重置。这强酸并不会伤害到该名动物伙伴。\n译注：书中原文在范围处为「近距 (25呎+2呎/等级)」疑为印刷错误，译者已更正。<\/p>",
-    "source": "PC-ACO"
+    "text_zh": "<p>你动物伙伴的噬咬攻击造成额外的1d4点酸液伤害，并且这强酸会在下一轮对目标造成另一次1d4点的酸液伤害。这强酸在每4个施法者等级/额外1轮(最长在20等时，总共6轮)内持续造成伤害。正在运作的酸液伤害并不因多次攻击而叠加，但如果新一次噬咬的持续时间会比先前噬咬剩余的持续时间还长的话，那持续时间将会重置。这强酸并不会伤害到该名动物伙伴。<\/p><p>译注：书中原文在范围处为「近距 (25呎+2呎/等级)」疑为印刷错误，译者已更正。<\/p>"
 }

@@ -1,27 +1,33 @@
 {
     "key": "ardor's onslaught",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/ardor-s-onslaught/",
     "name": "Ardor's Onslaught",
-    "book": "Pathfinder Roleplaying Game Planar Adventures © 2018, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ardor's%20Onslaught",
+    "source":     [
+        "Planar Adventures pg. 39",
+        "Champions of Balance pg. 26"
+    ],
     "school": "evocation",
     "levels":     {
         "cleric": 4,
-        "inquisitor": 4
+        "inquisitor": 4,
+        "oracle": 4,
+        "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
-    "range": "medium (100 ft. + 10 ft./level) area 20-ft.-radius burst",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "20-ft.-radius burst",
     "duration": "instantaneous or 1d6 rounds; see text",
     "savingThrow": "Will partial, see text",
     "spellResistance": "yes",
-    "text": "<p class=\"description\">You unleash the power of zealous conviction to smite your enemies with a burst of pulsing metallic energy.<\/p><p>Only creatures with a neutral alignment component are harmed by the spell.<\/p><p>The spell deals 1d8 points of damage per 2 caster levels (maximum 5d8) to creatures whose alignment is neutral with no other alignment components (with the exception of neutral outsiders, who take 1d6 points of damage per caster level, maximum 10d6). Neutral outsiders are also nauseated for 1d6 rounds. A creature can attempt a Will save to halve the damage and negate the nauseated effect.<\/p><p>The spell deals half damage against creatures that are chaotic neutral, lawful neutral, neutral evil, or neutral good, and such targets are not nauseated. On a successful Will save, such a creature reduces the damage to one-quarter the damage rolled.<\/p>",
+    "text": "You unleash the power of zealous conviction to smite your enemies with a burst of pulsing metallic energy. Only creatures with a neutral alignment component are harmed by the spell.<br><br> The spell deals 1d8 points of damage per 2 caster levels (maximum 5d8) to creatures whose alignment is neutral with no other alignment components (with the exception of neutral outsiders, who take 1d6 points of damage per caster level, maximum 10d6). Neutral outsiders are also nauseated for 1d6 rounds. A creature can attempt a Will save to halve the damage and negate the nauseated effect.<br><br> The spell deals half damage against creatures that are chaotic neutral, lawful neutral, neutral evil, or neutral good, and such targets are not nauseated. On a successful Will save, such a creature reduces the damage to one-quarter the damage rolled.",
     "name_zh": "阿多尔的猛击",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势",
-    "area_zh": "20英尺半径爆发",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "半径20尺爆发区域",
     "duration_zh": "立即或1d6轮",
-    "savingThrow_zh": "意志过则部分生效",
+    "savingThrow_zh": "意志, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你释放出狂热信念的力量，用一股脉动的金属能量打击你的敌人。只有阵营具有中立性质的生物才会被该法术伤害。\n如果该生物的阵营是中立的，没有其他阵营成分，则该法术会造成每两个施法者等级1d8点的伤害（最大5d8），中立的异界生物除外，他们会受到每两个施法者等级1d6点的伤害（最大10d6）。中立的异界生物还会反胃1d6轮。一个生物可以尝试用意志豁免来将伤害减半，并抵消反胃效果。\n该法术对混乱中立，秩序中立，中立邪恶或中立善良的生物造成一半伤害，而且这些目标不会反胃。在意志豁免成功时，该生物受到的伤害将降低至四分之一。<\/p>",
-    "source": "PA"
+    "text_zh": "<p>你释放出狂热信念的力量，用一股脉动的金属能量打击你的敌人。只有阵营具有中立性质的生物才会被该法术伤害。<\/p><p>如果该生物的阵营是中立的，没有其他阵营成分，则该法术会造成每两个施法者等级1d8点的伤害（最大5d8），中立的异界生物除外，他们会受到每两个施法者等级1d6点的伤害（最大10d6）。中立的异界生物还会反胃1d6轮。一个生物可以尝试用意志豁免来将伤害减半，并抵消反胃效果。<\/p><p>该法术对混乱中立，秩序中立，中立邪恶或中立善良的生物造成一半伤害，而且这些目标不会反胃。在意志豁免成功时，该生物受到的伤害将降低至四分之一。<\/p>"
 }

@@ -1,0 +1,31 @@
+{
+    "key": "carve passage",
+    "name": "Carve Passage",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Carve%20Passage",
+    "source": ["Inner Sea Races pg. 218"],
+    "school": "transmutation",
+    "descriptors": ["earth"],
+    "race": "Kobold",
+    "levels":     {
+        "arcanist": 5,
+        "druid": 5,
+        "hunter": 5,
+        "sorcerer": 5,
+        "wizard": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F (a tiny diamond pick worth 500 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "dirt or loose rock in one 5-ft. cube/level",
+    "duration": "instantaneous",
+    "savingThrow": "see text",
+    "spellResistance": "no",
+    "text": "You can excavate and move an amount of snow, earth, dust, sand, and loose or packed rocks or ice chunks (each no more than 5 feet in diameter) whose volume fills one 5-foot cube per level. If you are buried, you can open a space around yourself and use any remaining cubes for tunneling. This spell is otherwise similar to <i>expeditious excavation<\/i> (<i>Pathfinder RPG Advanced Player’s Guide<\/i> 220). <i>Carve passage<\/i> has no effect on earth creatures or solid rock or ice.",
+    "race_zh": "Kobold",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "dirt or loose rock in one 5-ft. cube/level",
+    "duration_zh": "立即",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "不可"
+}

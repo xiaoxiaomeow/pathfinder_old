@@ -1,22 +1,29 @@
 {
     "key": "entice fey, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/entice-fey-lesser/",
     "name": "Entice Fey, Greater",
-    "base": "entice fey, lesser",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Entice%20Fey,%20Greater",
+    "source": ["Ultimate Intrigue pg. 213"],
     "school": "conjuration",
-    "subSchool": ["calling"],
+    "subSchools": ["calling"],
     "levels":     {
         "druid": 9,
         "shaman": 9
     },
-    "mysteries": {"whimsy": 9},
-    "components": "V, S, M (offerings worth 2,500 gp plus payment), DF",
+    "castingTime": "10 minutes",
+    "components": "V, S, M (offerings worh 2,500 gp plus payment), DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "up to three called fey, totaling no more than 18 Hit Dice, no two of which can appear more than 30 ft. apart",
-    "text": "<p>This spell functions as <i>lesser entice fey<\/i>, except the spell's whimsical calling can produce a single fey of 18 Hit Dice or less, or up to three fey of the same kind whose Hit Dice total no more than 18.<\/p><\/div>",
+    "duration": "instananeous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions as <i>lesser entice fey<\/i>, except the spell’s whimsical calling can produce a single fey of 18 Hit Dice or less, or up to three fey of the same kind whose Hit Dice total no more than 18.",
     "name_zh": "高等引诱精类",
+    "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势，材料（报酬外加价值2500gp的祭品，见后文），法器",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "至多3个被呼唤的精类，总生命骰不超过18，这些精类彼此之间的距离不超过30尺",
-    "text_zh": "<p>该法术的功能如同次等引诱精类（Entice Fey, Lesser）一般，不过法术那无法预料的呼唤效果能引来单个生命骰为18或更低的精类，或者至多3个相同种类的精类（其总生命骰不超过18）。<\/p>",
-    "source": "UI"
+    "duration_zh": "instananeous",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同次等引诱精类（Entice Fey, Lesser）一般，不过法术那无法预料的呼唤效果能引来单个生命骰为18或更低的精类，或者至多3个相同种类的精类（其总生命骰不超过18）。<\/p>"
 }

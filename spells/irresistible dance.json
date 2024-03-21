@@ -1,19 +1,22 @@
 {
     "key": "irresistible dance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/irresistible-dance/",
     "name": "Irresistible Dance",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Irresistible%20Dance",
+    "source": ["PRPG Core Rulebook pg. 303"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 8,
         "bard": 6,
+        "mesmerist": 6,
+        "psychic": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "skald": 6,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "subdomains": {"revelry": 8},
-    "bloodlines": {"fey": 8},
-    "mysteries": {"whimsy": 8},
     "castingTime": "1 standard action",
     "components": "V",
     "range": "touch",
@@ -21,7 +24,9 @@
     "duration": "1d4+1 rounds",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a -4 penalty to Armor Class and a -10 penalty on Reflex saves, and it negates any Armor Class bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn. A successful Will save reduces the duration of this effect to 1 round.<\/p>",
+    "text": "The subject feels an undeniable urge to dance and begins doing so, complete with foot shuffling and tapping. The spell effect makes it impossible for the subject to do anything other than caper and prance in place. The effect imposes a –4 penalty to Armor Class and a –10 penalty on Reflex saves, and it negates any AC bonus granted by a shield the target holds. The dancing subject provokes attacks of opportunity each round on its turn. A successful Will save reduces the duration of this effect to 1 round.<h2 class=\"title\">Mythic Irresistible Dance<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 99<\/i><br>When casting the spell, you can choose to make the dance either an unending dance or a dance of death.<br><br> A target affected by unending dance receives a new saving throw at the end of each round of dancing, even if its initial save was successful. If the save fails, the duration of the spell increases by 1 round.<br><br> A target affected by the dance of death suffers excruciating pain that inflicts a –4 penalty on attack rolls, saving throws, and skill checks, and it takes 1d4 points of Constitution damage each round it spends dancing.<br><br> With either form, you can direct the creature like a marionette as a move action, causing it to take a single move action at half its speed along the path you specify. You must have line of sight to the target and be within Medium range (100 feet + 10 feet per caster level) to command its movement. This movement provokes attacks of opportunity as normal, and doesn’t count against the target’s movement on its turn. You can’t move a target that succeeded at its initial save against the spell. ",
+    "mythicSource": ["Mythic Adventures pg. 99"],
+    "mythicText": "When casting the spell, you can choose to make the dance either an unending dance or a dance of death.<br><br> A target affected by unending dance receives a new saving throw at the end of each round of dancing, even if its initial save was successful. If the save fails, the duration of the spell increases by 1 round.<br><br> A target affected by the dance of death suffers excruciating pain that inflicts a –4 penalty on attack rolls, saving throws, and skill checks, and it takes 1d4 points of Constitution damage each round it spends dancing.<br><br> With either form, you can direct the creature like a marionette as a move action, causing it to take a single move action at half its speed along the path you specify. You must have line of sight to the target and be within Medium range (100 feet + 10 feet per caster level) to command its movement. This movement provokes attacks of opportunity as normal, and doesn’t count against the target’s movement on its turn. You can’t move a target that succeeded at its initial save against the spell. ",
     "name_zh": "迷舞",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
@@ -30,6 +35,5 @@
     "duration_zh": "1d4+1轮",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>受术者感受到无法抑制的强烈跳舞欲望并开始这么做，他会开始摇头晃脑打拍子。法术的效果让受术者除了手舞足蹈外什么都不能做。该效果使目标的防御等级受到-4减值、反射豁免受到-10减值、并且无法获得任何来自目标所持握的盾牌带来的AC加值。跳舞的受术者每轮都会在他的回合中引起借机攻击。成功的意志豁免能够将效果的持续时间降至1轮。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>受术者感受到无法抑制的强烈跳舞欲望并开始这么做，他会开始摇头晃脑打拍子。法术的效果让受术者除了手舞足蹈外什么都不能做。该效果使目标的防御等级受到-4减值、反射豁免受到-10减值、并且无法获得任何来自目标所持握的盾牌带来的AC加值。跳舞的受术者每轮都会在他的回合中引起藉机攻击。成功的意志豁免能够将效果的持续时间降至1轮。<\/p>"
 }

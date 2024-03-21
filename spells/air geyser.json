@@ -1,17 +1,20 @@
 {
     "key": "air geyser",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/air-geyser/",
     "name": "Air Geyser",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Air%20Geyser",
+    "source": ["Advanced Class Guide pg. 173"],
     "school": "evocation",
     "descriptors": ["air"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
         "shaman": 4,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,15 +23,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You create a powerful blast of air capable of flinging an opponent upward. If the target fails its Reflex save, the force of the air deals 2d6 points of bludgeoning damage and hurls the target upward a number of feet equal to 5 × your caster level. If a solid object (such as a ceiling) is encountered, the target strikes the object in the same manner as it would during a normal fall. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. A successful save means the target takes half damage from the air blast but is not moved by it.<\/p>",
+    "text": "You create a powerful blast of air capable of flinging an opponent upward. If the target fails its Reflex save, the force of the air deals 2d6 points of bludgeoning damage and hurls the target upward a number of feet equal to 5 × your caster level. If a solid object (such as a ceiling) is encountered, the target strikes the object in the same manner as it would during a normal fall. After this blast of air ceases, the target falls down (unless it was flying), taking falling damage as normal. A successful save means the target takes half damage from the air blast but is not moved by it.",
     "name_zh": "气泉喷升",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个体型至多为大型的生物或物体",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射，通过则部分生效（见后文）",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出了一股强劲的气流，它能够将一个敌人向上抛起。若目标的反射豁免失败，那么空气的力道能够造成2d6点钝击伤害，并且将目标向上推升，高度为5尺 x 你的施法者等级。若遭遇到固态物质（比如天花板），目标则会以如同正常坠落一般撞击到这个物体。在气流停止之后，目标会坠落（除非他能够飞行），并且如常受到坠落伤害。成功的豁免意味着目标从气流喷发中受到的伤害减半，而且不会被气流所移动。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出了一股强劲的气流，它能够将一个敌人向上抛起。若目标的反射豁免失败，那么空气的力道能够造成2d6点钝击伤害，并且将目标向上推升，高度为5尺 x 你的施法者等级。若遭遇到固态物质（比如天花板），目标则会以如同正常坠落一般撞击到这个物体。在气流停止之后，目标会坠落（除非他能够飞行），并且如常受到坠落伤害。成功的豁免意味着目标从气流喷发中受到的伤害减半，而且不会被气流所移动。<\/p>"
 }

@@ -1,30 +1,34 @@
 {
     "key": "blessing of the mole",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessing-of-the-mole/",
     "name": "Blessing of the Mole",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blessing%20of%20the%20Mole",
+    "source": ["Ultimate Magic pg. 208"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 3,
+        "cleric": 3,
+        "hunter": 3,
         "inquisitor": 3,
+        "oracle": 3,
         "paladin": 3,
-        "ranger": 3
+        "ranger": 3,
+        "warpriest": 3
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "area": "1 creature/level",
-    "duration": "1 min./level",
+    "duration": "1 minute/level",
     "savingThrow": "none (harmless)",
-    "text": "<p>The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.<\/p>",
+    "spellResistance": "yes (harmless)",
+    "text": "The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.",
     "name_zh": "鼹鼠祝福",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物/等级",
+    "area_zh": "1 creature/level",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>目标获得30尺黑暗视觉，以及在潜行检定上获得+2表现加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>目标获得30尺黑暗视觉，以及在潜行检定上获得+2表现加值。<\/p>"
 }

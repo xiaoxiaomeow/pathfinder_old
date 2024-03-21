@@ -1,32 +1,40 @@
 {
     "key": "project weakness",
-    "url": "https://aonprd.com/SpellDisplay.aspx?ItemName=Project%20Weakness",
     "name": "Project Weakness",
-    "book": "Pathfinder Player Companion: Blood of the Night © 2018, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Project%20Weakness",
+    "source": ["Blood of the Night pg. 30"],
     "school": "necromancy",
     "descriptors":     [
         "curse",
         "evil"
     ],
+    "descriptorsOperator": ",",
+    "race": "vampire",
     "levels":     {
-        "cleric/oracle": 3,
-        "sorcerer/wizard": 4,
-        "witch": 3
+        "arcanist": 4,
+        "cleric": 3,
+        "oracle": 3,
+        "sorcerer": 4,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "living creature touched",
     "duration": "permanent",
-    "text": "<p>You curse the target with the weaknesses of your kind of vampirism. The creature reacts to garlic, mirrors, ringing bells, sunlight, and so on as if it were a vampire of the same type as you. This cannot kill the target; anything that would kill it (such as a lengthy exposure to sunlight if you are a moroi vampire) renders it helpless until the curse or the harmful effect is removed. The target gains none of the benefits of being a vampire (such as fast healing or requiring special ways to be permanently killed), only the penalties.<\/p>",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "You curse the target with the weaknesses of your kind of vampirism. The creature reacts to garlic, mirrors, ringing bells, sunlight, and so on as if it were a vampire of the same type as you. This cannot kill the target; anything that would kill it (such as a lengthy exposure to sunlight if you are a moroi vampire) renders it helpless until the curse or the harmful effect is removed. The target gains none of the benefits of being a vampire (such as fast healing or requiring special ways to be permanently killed), only the penalties.",
     "name_zh": "弱点投射",
+    "race_zh": "vampire",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
     "range_zh": "接触",
     "target_zh": "被接触到的活物",
     "duration_zh": "永久",
-    "savingThrow_zh": "意志，通过则无效",
-    "spellResistance_zh": "有",
-    "text_zh": "<p>你诅咒受术者让它获得你族类吸血鬼一般会有的弱点。该生物与大蒜、镜子、钟声、阳光等等的东西互动时，如同它是一位与你同种类的吸血鬼般。这无法杀死受术者；任何会导致死亡的(例如如果你是茉莉[moroi]血族吸血鬼，长时间暴露在阳光底下)会使该生物变成无助(helpless)状态，直到该诅咒或是有害的效果被移除为止。受术者不会获得该种类吸血鬼的好处(像是快速治疗或是需要特殊的方法才能永远的杀死)，只获得处罚。<\/p>",
-    "source": "PC-BotN"
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你诅咒受术者让它获得你族类吸血鬼一般会有的弱点。该生物与大蒜、镜子、钟声、阳光等等的东西互动时，如同它是一位与你同种类的吸血鬼般。这无法杀死受术者；任何会导致死亡的(例如如果你是茉莉[moroi]血族吸血鬼，长时间暴露在阳光底下)会使该生物变成无助(helpless)状态，直到该诅咒或是有害的效果被移除为止。受术者不会获得该种类吸血鬼的好处(像是快速治疗或是需要特殊的方法才能永远的杀死)，只获得处罚。<\/p>"
 }

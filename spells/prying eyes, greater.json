@@ -1,15 +1,29 @@
 {
     "key": "prying eyes, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/prying-eyes/",
     "name": "Prying Eyes, Greater",
-    "base": "prying eyes",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Prying%20Eyes,%20Greater",
+    "source": ["PRPG Core Rulebook pg. 326"],
     "school": "divination",
     "levels":     {
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "arcanist": 8,
+        "psychic": 8,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "text": "<p>This spell functions like <i>prying eyes<\/i>, except that the eyes can see all things as they actually are, just as if they had true seeing with a range of 120 feet. Thus, they can navigate darkened areas at normal speed. Also, a <i>greater prying eye<\/i>&#8216;s maximum Perception modifier is +25 instead of +15.<\/p><\/div>",
+    "castingTime": "1 minute",
+    "components": "V, S, M (a handful of crystal marbles)",
+    "range": "1 mile",
+    "effect": "10 or more levitating eyes",
+    "duration": "1 hour/level; see text (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>prying eyes<\/i>, except that the eyes can see all things as they actually are, just as if they had <i>true seeing<\/i> with a range of 120 feet. Thus, they can navigate darkened areas at normal speed. Also, a <i>greater prying eye<\/i>'s maximum Perception modifier is +25 instead of +15.",
     "name_zh": "高等窥视魔眼",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=prying eyes\">窥视魔眼 (prying eyes)<\/a>’一般，不过这些眼睛能看到它们所在位置的一切事物，如同它们具有120英尺范围的‘<a href=\"spell.html?spell=true seeing\">真知术 (true seeing)<\/a>’一样。因此，它们可以在黑暗区域中以正常速度运动。同时，一个高等窥视魔眼的察觉检定最大加值为+25而非+15。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "1分钟",
+    "range_zh": "1里",
+    "duration_zh": "1小时/等级; 见文本 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=prying eyes\">窥视魔眼 (prying eyes)<\/a>’一般，不过这些眼睛能看到它们所在位置的一切事物，如同它们具有120英尺范围的‘<a href=\"spell.html?spell=true seeing\">真知术 (true seeing)<\/a>’一样。因此，它们可以在黑暗区域中以正常速度运动。同时，一个高等窥视魔眼的察觉检定最大加值为+25而非+15。<\/p>"
 }

@@ -1,15 +1,18 @@
 {
     "key": "champion's bout",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/champion-s-bout/",
     "name": "Champion's Bout",
-    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Champion's%20Bout",
+    "source": ["Inner Sea Races pg. 218"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
+    "race": "Shoanti",
     "levels":     {
         "bard": 3,
         "cleric": 3,
-        "mesmerist": 3
+        "oracle": 3,
+        "skald": 3,
+        "warpriest": 3
     },
     "castingTime": "1 round",
     "components": "V, S",
@@ -17,15 +20,15 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes (see text)",
-    "text": "<p>You allow two chosen champions to fight without interference.<\/p><p>The two creatures must be willing in order for the spell to work.<\/p><p>After you cast this spell, any creature attempting to aid or hinder either of the two targets in any way must succeed at a Will save or lose its action instead (spell resistance applies). A creature that fails its Will save against <i>champion's bout<\/i> cannot attempt to interfere again. If a creature successfully interferes with the bout, the spell ends immediately.<\/p>",
+    "text": "You allow two chosen champions to fight without interference. The two creatures must be willing in order for the spell to work. After you cast this spell, any creature attempting to aid or hinder either of the two targets in any way must succeed at a Will save or lose its action instead (spell resistance applies). A creature that fails its Will save against <i>champion’s bout<\/i> cannot attempt to interfere again. If a creature successfully interferes with the bout, the spell ends immediately.",
     "name_zh": "冠军决斗",
+    "race_zh": "Shoanti",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "两个生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "意志无效，见下",
-    "spellResistance_zh": "可，见下",
-    "text_zh": "<p>你允许两名目标在没有干扰的情况下战斗。这两个生物必须自愿才能使法术生效。施放此法术后，任何试图以任何方式帮助或阻碍两个目标中任何一个的生物必须在意志豁免中成功，否则将失去该动作（法术抗力也可奏效）。意志豁免失败的生物不能再次尝试干扰。如果一个生物成功干扰决斗，该法术立即结束。<\/p>",
-    "source": "CS-ISR"
+    "savingThrow_zh": "意志, 通过则无效; 见文本",
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>你允许两名目标在没有干扰的情况下战斗。这两个生物必须自愿才能使法术生效。施放此法术后，任何试图以任何方式帮助或阻碍两个目标中任何一个的生物必须在意志豁免中成功，否则将失去该动作（法术抗力也可奏效）。意志豁免失败的生物不能再次尝试干扰。如果一个生物成功干扰决斗，该法术立即结束。<\/p>"
 }

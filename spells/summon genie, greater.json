@@ -1,19 +1,34 @@
 {
     "key": "summon genie, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/summon-genie/",
     "name": "Summon Genie, Greater",
-    "base": "summon genie, lesser",
-    "book": "Pathfinder Player Companion: People of the Sands © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Genie,%20Greater",
+    "source": ["People of the Sands pg. 11"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 6,
         "cleric": 6,
-        "sorcerer/wizard": 6,
+        "oracle": 6,
+        "sorcerer": 6,
         "summoner": 5,
-        "witch": 6
+        "summoner (unchained)": 5,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions like <i>lesser summon genie<\/i>, except you can summon one shaitan, 1d3 djinni, or 1d4+1 jann.<\/p>",
+    "castingTime": "1 round",
+    "components": "V, S, F/DF (an oil lamp worth at least 50 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned genie",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>lesser summon genie<\/i>, except you can summon one shaitan, 1d3 djnn or 1d4+1 jann.",
     "name_zh": "召唤巨灵，高等",
-    "text_zh": "<p>这个法术类似次级召唤巨灵(lesser summon genie) ，除了你可以召唤1D4+1个小巨灵（janni）或者1D3个风巨灵（djinni）或者1个土巨灵（shaitan）\n新法术\n下面这个新法术，对在拉哈多姆(Rahadoum)的虔诚施法者来说是无价之宝，在那他们必须要掩藏他们魔法中的神圣本质。<\/p>",
-    "source": "PC-PotS"
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>这个法术类似次级召唤巨灵(lesser summon genie) ，除了你可以召唤1D4+1个小巨灵（janni）或者1D3个风巨灵（djinni）或者1个土巨灵（shaitan）<\/p><p>新法术<\/p><p>下面这个新法术，对在拉哈多姆(Rahadoum)的虔诚施法者来说是无价之宝，在那他们必须要掩藏他们魔法中的神圣本质。<\/p>"
 }

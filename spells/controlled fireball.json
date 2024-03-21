@@ -1,19 +1,21 @@
 {
     "key": "controlled fireball",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/controlled-fireball/",
     "name": "Controlled Fireball",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Controlled%20Fireball",
+    "source": ["Ultimate Intrigue pg. 208"],
     "school": "evocation",
     "descriptors":     [
         "fire",
         "ruse"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
         "bloodrager": 4,
         "magus": 4,
         "occultist": 4,
-        "sorcerer/wizard": 4
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a ball of bat guano and sulfur)",
@@ -22,15 +24,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as fireball except you can cause the bead of fire to originate from anywhere you can see within range.<\/p><p>You can choose a number of squares within the area up to your Intelligence bonus (for magi, occultists, or wizards) or Charisma bonus (for bloodragers or sorcerers) to be struck by weaker flames; the <i>controlled fireball<\/i> deals minimum damage in those squares.<\/p><p>Attempts to identify controlled fireball with a skill check incorrectly identify it as fireball (see the ruse descriptor).<\/p>",
+    "text": "This spell functions as <i>fireball<\/i> except you can cause the bead of fire to originate from anywhere you can see within range. You can choose a number of squares within the area up to your Intelligence bonus (for magi, occultists, or wizards) or Charisma bonus (for bloodragers or sorcerers) to be struck by weaker flames; the controlled fireball deals minimum damage in those squares.<br><br> Attempts to identify controlled fireball with a skill check incorrectly identify it as fireball (see the ruse descriptor).",
     "name_zh": "精控火球术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（1团蝙蝠粪便与硫磺的混合物）",
-    "range_zh": "远距 (400尺+40尺/等级)",
-    "area_zh": "半径20尺扩散区域",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "20尺爆发 ",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术的功能就如同火球术（Fireball）一般，不过你能把法术范围之内、任何你能够看到的位置作为火焰小球的源发点。你可以从法术区域内选择一定数量的方格，让较弱的火焰袭击这些地点，方格的数量等同于你的智力加值（对于魔战士、秘学士和法师来说）或魅力加值（对于血脉狂怒者和术士来说）；精控火球术对这些方格仅会造成最低伤害。\n尝试以技能检定鉴别精控火球术时，会将其误认为火球术（Fireball）。详细请见192页诡计描述符（ruse descriptor）的说明。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>该法术的功能就如同火球术（Fireball）一般，不过你能把法术范围之内、任何你能够看到的位置作为火焰小球的源发点。你可以从法术区域内选择一定数量的方格，让较弱的火焰袭击这些地点，方格的数量等同于你的智力加值（对于魔战士、秘学士和法师来说）或魅力加值（对于血脉狂怒者和术士来说）；精控火球术对这些方格仅会造成最低伤害。<\/p><p>尝试以技能检定鉴别精控火球术时，会将其误认为火球术（Fireball）。详细请见192页诡计描述符（ruse descriptor）的说明。<\/p>"
 }

@@ -1,24 +1,26 @@
 {
     "key": "grace",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/grace/",
     "name": "Grace",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Grace",
+    "source": ["Advanced Player's Guide pg. 226"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 2,
-        "paladin": 1
+        "cleric": 2,
+        "oracle": 2,
+        "paladin": 1,
+        "warpriest": 2
     },
     "castingTime": "1 swift action",
     "components": "V",
     "range": "personal",
+    "target": "you",
     "duration": "see text",
-    "text": "<p>Until the end of your turn, your movement does not provoke attacks of opportunity.<\/p>",
+    "text": "Until the end of your turn, your movement does not provoke attacks of opportunity.",
     "name_zh": "优雅步伐",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "见下文",
-    "text_zh": "<p>直至你的回合结束之前，你的移动都不会引起藉机攻击。<\/p>",
-    "source": "APG"
+    "duration_zh": "见文本",
+    "text_zh": "<p>直至你的回合结束之前，你的移动都不会引起藉机攻击。<\/p>"
 }

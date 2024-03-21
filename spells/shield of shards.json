@@ -1,8 +1,8 @@
 {
     "key": "shield of shards",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/shield-of-shards/",
-    "name": "Shield of Shards",
-    "book": "Pathfinder Player Companion: Armor Master's Handbook © 2016, Paizo Inc.",
+    "name": "Shield Of Shards",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Shield%20Of%20Shards",
+    "source": ["Armor Master's Handbook pg. 23"],
     "school": "transmutation",
     "levels":     {
         "bloodrager": 1,
@@ -10,25 +10,24 @@
         "inquisitor": 2,
         "magus": 2,
         "medium": 2,
+        "oracle": 2,
         "paladin": 1,
-        "shaman": 2
+        "shaman": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (a shield)",
     "range": "personal",
     "target": "one shield you wield",
     "duration": "1 round/level",
-    "savingThrow": "none",
-    "spellResistance": "no",
-    "text": "<p>This defensive spell must be cast on a shield you are currently wielding, and fractures the shield into two shards, plus one additional shard per 2 caster levels (to a maximum of 12 shards at 20th level). While <i>shield of shards<\/i> is active, you lose your shield's bonus to AC as its broken pieces orbit you. On your turn, you can direct the shards to attack an adjacent opponent as a move action. The shards' attack bonus is equal to your caster level + the modifier for the ability score that determines your spell save DCs. The shards deal an amount of slashing and piercing damage equal to 1d4 points + 1 point per shard beyond the first, and have a threat range of 19–20. They are considered magic weapons for the purpose of bypassing damage reduction. Additionally, if your shield is made from a special material (such as adamantine), the shards penetrate damage reduction and hardness as if they were weapons made from the same material.<\/p><p>At the end of this spell's duration, the shards reform into their original shield form. You regain its shield bonus to AC, provided you still have a free hand in which to wield it. Otherwise, the shield falls at your feet in your square.<\/p>",
+    "text": "This defensive spell must be cast on a shield you are currently wielding, and fractures the shield into two shards, plus one additional shard per 2 caster levels (to a maximum of 12 shards at 20th level). While <I>shield of shards<\/i> is active, you lose your shield’s bonus to AC as its broken pieces orbit you. On your turn, you can direct the shards to attack an adjacent opponent as a move action. The shards’ attack bonus is equal to your caster level + the modifier for the ability score that determines your spell save DCs. The shards deal an amount of slashing and piercing damage equal to 1d4 points + 1 point per shard beyond the first, and have a threat range of 19–20. They are considered magic weapons for the purpose of bypassing damage reduction. Additionally, if your shield is made from a special material (such as adamantine), the shards penetrate damage reduction and hardness as if they were weapons made from the same material.<br><br>At the end of this spell’s duration, the shards reform into their original shield form. You regain its shield bonus to AC, provided you still have a free hand in which to wield it. Otherwise, the shield falls at your feet in your square.",
     "name_zh": "碎盾飞射",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、器材 (一面盾牌)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "一面你所挥舞的盾牌",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>这个防御性法术必须放在一面你当前所挥舞的盾牌上，并且会碎裂该盾变成两块碎盾，并额外加上每两个施法者等级/1片(最多在20等时有12片)。当碎盾飞射激活时，你在AC上失去你的盾牌加值，因它破碎的碎盾正环绕着你。在你的回合，以一个移动动作，你可以指挥碎盾攻击一名邻接的敌人。碎片的攻击加值等于你的施法者等级+决定你法术豁免DC的属性的调整值。碎盾造成1d4点+1(在第一片之后的每片)点的挥砍与穿刺伤害，并且威胁范围是19-20。在决定忽略伤害减免时，他们被视为魔法武器。此外，如果你的盾牌是以特殊材料制成(像是精金)，碎盾在穿透伤害减免与硬度时，如同他们是由相同材质所制成的武器。\n在此法术的持续时间结束时，碎盾重复回他们起始盾牌的形状。你在AC上重获它的盾牌加值，只要你仍有一只自由手可以挥舞着它。否则，该盾会坠落到你脚边(同方格)。<\/p>",
-    "source": "PC-AMH"
+    "spellResistance_zh": "无",
+    "text_zh": "<p>这个防御性法术必须放在一面你当前所挥舞的盾牌上，并且会碎裂该盾变成两块碎盾，并额外加上每两个施法者等级/1片(最多在20等时有12片)。当碎盾飞射激活时，你在AC上失去你的盾牌加值，因它破碎的碎盾正环绕着你。在你的回合，以一个移动动作，你可以指挥碎盾攻击一名邻接的敌人。碎片的攻击加值等于你的施法者等级+决定你法术豁免DC的属性的调整值。碎盾造成1d4点+1(在第一片之后的每片)点的挥砍与穿刺伤害，并且威胁范围是19-20。在决定忽略伤害减免时，他们被视为魔法武器。此外，如果你的盾牌是以特殊材料制成(像是精金)，碎盾在穿透伤害减免与硬度时，如同他们是由相同材质所制成的武器。<\/p><p>在此法术的持续时间结束时，碎盾重复回他们起始盾牌的形状。你在AC上重获它的盾牌加值，只要你仍有一只自由手可以挥舞着它。否则，该盾会坠落到你脚边(同方格)。<\/p>"
 }

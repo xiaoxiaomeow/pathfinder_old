@@ -1,28 +1,31 @@
 {
     "key": "chameleon scales",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/chameleon-scales/",
     "name": "Chameleon Scales",
-    "book": "Pathfinder Player Companion: Kobolds of Golarion. © 2013 Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Chameleon%20Scales",
+    "source": ["Kobolds of Golarion pg. 26"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 1,
+        "arcanist": 0,
         "druid": 0,
+        "hunter": 0,
+        "investigator": 1,
         "ranger": 1,
-        "sorcerer/wizard": 0
+        "sorcerer": 0,
+        "wizard": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "10 min.s/level (d)",
-    "text": "<p>You temporarily alter the color of your skin, hide, or scales to another option legal for your race. You take no penalty for using Disguise to appear as a member of a different race as long as that race has the same type and color of skin, hide, or scales as you.<\/p>",
+    "duration": "10 minutes/level (D)",
+    "text": "You temporarily alter the color of your skin, hide, or scales to another option legal for your race. You take no penalty for using Disguise to appear as a member of a different race as long as that race has the same type and color of skin, hide, or scales as you.",
     "name_zh": "变色龙之鳞",
     "race_zh": "狗头人",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "10分钟/等级 (D)",
-    "text_zh": "<p>你暂时改变了你的肤色，皮肤或鳞片成另一个与你的种族合宜的选择(to another option legal for your race)。你成为这不同种族所进行的易容检定上不会有减值，如同这个种族与你一样有着相同种类与颜色的肤色，皮肤或鳞片。<\/p>",
-    "source": "PC-KoG"
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p>你暂时改变了你的肤色，皮肤或鳞片成另一个与你的种族合宜的选择(to another option legal for your race)。你成为这不同种族所进行的易容检定上不会有减值，如同这个种族与你一样有着相同种类与颜色的肤色，皮肤或鳞片。<\/p>"
 }

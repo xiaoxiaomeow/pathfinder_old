@@ -1,31 +1,33 @@
 {
     "key": "disrupt silence",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disrupt-silence/",
     "name": "Disrupt Silence",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Disrupt%20Silence",
+    "source": ["Ultimate Intrigue pg. 212"],
     "school": "abjuration",
     "levels":     {
         "bard": 2,
         "cleric": 3,
         "inquisitor": 3,
-        "psychic": 3
+        "oracle": 3,
+        "psychic": 3,
+        "skald": 2,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "S, M (tiny silver bell, chime, or gong)",
     "range": "touch",
     "area": "10-ft.-radius emanation centered on a creature, object, or point in space",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You suppress magical sound-dampening effects within the area.<\/p><p><i>Disrupt silence<\/i> temporarily negates magical silence within its area, so that normal sounds can be heard within the overlapping areas of effect. Additionally, <i>disrupt silence<\/i> can automatically counter or dispel any magical silence effect of equal or lower level cast upon the same target, such as silence. If you cast <i>disrupt silence<\/i> on the target of a higher-level silence effect, it functions as dispel magic instead of its normal function.<\/p>",
+    "text": "You suppress magical sound-dampening effects within the area. <i>Disrupt silence<\/i> temporarily negates magical silence within its area, so that normal sounds can be heard within the overlapping areas of effect. Additionally, <i>disrupt silence<\/i> can automatically counter or dispel any magical silence effect of equal or lower level cast upon the same target, such as <i>silence<\/i>. If you cast <i>disrupt silence<\/i> on the target of a higher-level silence effect, it functions as <i>dispel magic<\/i> instead of its normal function.",
     "name_zh": "瓦解沉默",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，材料（小号银质铃铛、钟或锣）",
     "range_zh": "接触",
-    "area_zh": "以1个生物、物体或空间中的1点为中心，半径10尺发散区域",
-    "duration_zh": "1轮/等级（可解消）",
+    "area_zh": "以1个生物、物体或空间中的1点为中心, 半径10尺发散区域",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在法术的区域内，你抑制了压制声音的魔法效果。瓦解沉默会短暂地抵消区域内的魔法沉默效果，这样便可以在效果覆盖的区域听到普通的声响。此外，瓦解沉默能够自动反制或解除对相同目标施放的任何魔法沉默效果（magical silence effect），前提是该效果小于或等于瓦解沉默的环级，比如沉默术（Silence）。若你以环级更高的沉默效果为目标施放瓦解沉默的话，其功能会如同解除魔法（Dispel Magic）一般，以取代它正常的功能。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>在法术的区域内，你抑制了压制声音的魔法效果。瓦解沉默会短暂地抵消区域内的魔法沉默效果，这样便可以在效果覆盖的区域听到普通的声响。此外，瓦解沉默能够自动反制或解除对相同目标施放的任何魔法沉默效果（magical silence effect），前提是该效果小于或等于瓦解沉默的环级，比如沉默术（Silence）。若你以环级更高的沉默效果为目标施放瓦解沉默的话，其功能会如同解除魔法（Dispel Magic）一般，以取代它正常的功能。<\/p>"
 }

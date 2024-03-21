@@ -1,26 +1,30 @@
 {
     "key": "revelation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/revelation/",
     "name": "Revelation",
-    "book": "Pathfinder Chronicles: Seekers of Secrets. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Revelation",
+    "source": ["Seekers of Secrets pg. 17"],
     "school": "divination",
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
-        "cleric/oracle": 3,
-        "sorcerer/wizard": 3
+        "cleric": 3,
+        "oracle": 3,
+        "skald": 2,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "wizard": 3
     },
     "castingTime": "1 round",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level; see text",
-    "text": "<p>You gain a brief understanding of the workings of a single puzzle, device, or trap, gaining an insight bonus equal to your caster level (maximum +10) on checks to disable, manipulate or solve the object in question. Your insight is ineffable; you are unable to communicate your understanding to others. At the GM's option, this spell may instead give you a clue or other piece of useful information. In this case you may communicate the clue to others and retain knowledge of it after the spell's duration has expired.<\/p>",
+    "text": "You gain a brief understanding of the workings of a single puzzle, device, or trap, gaining an insight bonus equal to your caster level (maximum +10) on checks to disable, manipulate or solve the object in question. Your insight is ineffable; you are unable to communicate your understanding to others. At the GM's option, this spell may instead give you a clue or other piece of useful information. In this case you may communicate the clue to others and retain knowledge of it after the spell's duration has expired.",
     "name_zh": "启示",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级；见下",
-    "text_zh": "<p>你获得一道谜题、一件装置或一个陷阱一段它们运作机制的简要领会，这让你在解除、操纵或解决这可疑物体的检定上，获得等于你施法者等级的洞察加值(最多+10)。这股内化是无法言喻的。你无法与他人分享你的领会。在GM的选择下，这法术可以转而给予你一条线索或著其他一部分有用的资讯。在这种情况下，你可以与他人讨论这条线索，并且在此法术持续时间结束后，仍然保留此知识。<\/p>",
-    "source": "CS-DDR"
+    "duration_zh": "1轮/等级; 见文本",
+    "text_zh": "<p>你获得一道谜题、一件装置或一个陷阱一段它们运作机制的简要领会，这让你在解除、操纵或解决这可疑物体的检定上，获得等于你施法者等级的洞察加值(最多+10)。这股内化是无法言喻的。你无法与他人分享你的领会。在GM的选择下，这法术可以转而给予你一条线索或著其他一部分有用的资讯。在这种情况下，你可以与他人讨论这条线索，并且在此法术持续时间结束后，仍然保留此知识。<\/p>"
 }

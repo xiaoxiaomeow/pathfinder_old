@@ -1,19 +1,23 @@
 {
     "key": "find the path",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/find-the-path/",
     "name": "Find the Path",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Find%20the%20Path",
+    "source": ["PRPG Core Rulebook pg. 281"],
     "school": "divination",
     "levels":     {
         "bard": 6,
-        "cleric/oracle": 6,
+        "cleric": 6,
         "druid": 6,
+        "hunter": 6,
         "inquisitor": 6,
+        "occultist": 6,
+        "oracle": 6,
+        "psychic": 6,
         "shaman": 6,
+        "skald": 6,
+        "spiritualist": 6,
+        "warpriest": 6,
         "witch": 6
-    },
-    "domains":     {
-        "knowledge": 6,
-        "travel": 6
     },
     "castingTime": "3 rounds",
     "components": "V, S, F (a set of divination counters)",
@@ -22,7 +26,7 @@
     "duration": "10 min./level",
     "savingThrow": "none or Will negates (harmless)",
     "spellResistance": "no or yes (harmless)",
-    "text": "<p>The recipient of this spell can find the shortest, most direct physical route to a prominent specified destination, such as a city, keep, lake, or dungeon. The locale can be outdoors or underground, as long as it is prominent. For example, a hunter's cabin is not prominent enough, but a logging camp is. <i>Find the path<\/i> works with respect to locations, not objects or creatures at a locale. The location must be on the same plane as the subject at the time of casting.<\/p><p>The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating at appropriate times the exact path to follow or physical actions to take. For example, the spell enables the subject to sense what cavern corridor to take when a choice presents itself<i>.<\/i> The spell ends when the destination is reached or the duration expires, whichever comes first.<\/p><p><i>Find the path<\/i> can be used to remove the subject and its companions from the effect of a maze spell in a single round, specifying the destination as &#8220;outside the maze.&#8221; This divination is keyed to the recipient, not its companions, and its effect does not predict or allow for the actions of creatures (including guardians) who might take action to oppose the caster as he follows the path revealed by this spell.<\/p>",
+    "text": "The recipient of this spell can find the shortest, most direct physical route to a prominent specified destination, such as a city, keep, lake, or dungeon. The locale can be outdoors or underground, as long as it is prominent. For example, a hunter's cabin is not prominent enough, but a logging camp is. <i>Find the path<\/i> works with respect to locations, not objects or creatures at a locale. The location must be on the same plane as the subject at the time of casting.<br><br>The spell enables the subject to sense the correct direction that will eventually lead it to its destination, indicating at appropriate times the exact path to follow or physical actions to take. For example, the spell enables the subject to sense what cavern corridor to take when a choice presents itself. The spell ends when the destination is reached or the duration expires, whichever comes first. <i>Find the path<\/i> can be used to remove the subject and its companions from the effect of a <i>maze<\/i> spell in a single round, specifying the destination as “outside the maze.” This divination is keyed to the recipient, not its companions, and its effect does not predict or allow for the actions of creatures (including guardians) who might take action to oppose the caster as he follows the path revealed by this spell.",
     "name_zh": "寻找捷径",
     "castingTime_zh": "3轮",
     "components_zh": "语言, 姿势, 器材 (一套占卜用筹码)",
@@ -31,6 +35,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无 或 意志, 通过则无效 (无害)",
     "spellResistance_zh": "否 或 可 (无害)",
-    "text_zh": "<p>该法术的受术者能找到去某个著名的特定地点最短最直接的物理途径，比如前往某个城市、城堡、湖泊或地城。该地点可以在野外或地下，只要它足够为人所知即可。例如：某个猎人小屋不够著名，但是伐木营地可以。寻找捷径只和地点相关，和地区内物品或生物无关。该地点必须和你施法时处在相同的位面。<\/p><p>这个法术能让受术者感觉到最终能将他带到目的地的正确方向，在合适的时机指出精确的路径，或者该采取什么样的物理行动。例如，法术能让受术者感知在山洞的岔路中，哪条隧道能引领他们到达目标地点。法术会在抵达目的地或者持续时间结束时终止，无论哪一项先达成。如果指定目的地为“迷宫之外”，那么寻找捷径能在一轮内让受术者和他的伙伴从‘<a href=\"spell.html?spell=maze\">迷宫术 (maze)<\/a>’效果中逃脱。这个预言法术的提示仅为受术者所知，和他的伙伴无关，它的效果也无法预知或预计到生物的行动 (包括守卫)，即便这些生物会在施法者沿着法术给出的路径行进时采取行动与之对抗也是如此。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术的受术者能找到去某个著名的特定地点最短最直接的物理途径，比如前往某个城市、城堡、湖泊或地城。该地点可以在野外或地下，只要它足够为人所知即可。例如：某个猎人小屋不够著名，但是伐木营地可以。寻找捷径只和地点相关，和地区内物品或生物无关。该地点必须和你施法时处在相同的位面。<\/p><p>这个法术能让受术者感觉到最终能将他带到目的地的正确方向，在合适的时机指出精确的路径，或者该采取什么样的物理行动。例如，法术能让受术者感知在山洞的岔路中，哪条隧道能引领他们到达目标地点。法术会在抵达目的地或者持续时间结束时终止，无论哪一项先达成。如果指定目的地为“迷宫之外”，那么寻找捷径能在一轮内让受术者和他的伙伴从‘<a href=\"spell.html?spell=maze\">迷宫术 (maze)<\/a>’效果中逃脱。这个预言法术的提示仅为受术者所知，和他的伙伴无关，它的效果也无法预知或预计到生物的行动 (包括守卫)，即便这些生物会在施法者沿着法术给出的路径行进时采取行动与之对抗也是如此。<\/p>"
 }

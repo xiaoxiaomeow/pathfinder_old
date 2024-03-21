@@ -1,0 +1,27 @@
+{
+    "key": "summon barghest ii",
+    "name": "Summon Barghest II",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Barghest%20II",
+    "source": ["Pathfinder Comics #10 pg. 27"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 6,
+        "oracle": 6,
+        "warpriest": 6
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned greater barghest or 1d3 summoned barghest",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>summon barghest I<\/i>, save that it can summon 1 greater barghest or 1d3 normal barghests with 2 growth points each.",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

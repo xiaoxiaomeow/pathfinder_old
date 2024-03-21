@@ -1,12 +1,15 @@
 {
     "key": "technomancy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/technomancy/",
     "name": "Technomancy",
-    "book": "Pathfinder Campaign Setting: Technology Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Technomancy",
+    "source": ["Technology Guide pg. 11"],
     "school": "divination",
     "levels":     {
+        "arcanist": 1,
         "bard": 1,
-        "sorcerer/wizard": 1
+        "skald": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (oil stirred with a coil of wires)",
@@ -15,7 +18,7 @@
     "duration": "3 rounds/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell functions as detect magic, except it detects the presence of technological objects instead of magical objects. The spell grants you the Technologist feat for the purposes of attempting Knowledge (engineering) checks to identify the properties of technological items in your possession. If you already possess this feat, you gain a +10 bonus on Knowledge (engineering) checks to identify item properties.<\/p>",
+    "text": "This spell functions as <i>detect magic<\/i>, except it detects the presence of technological objects instead of magical objects. The spell grants you the Technologist feat for the purposes of attempting Knowledge (engineering) checks to identify the properties of technological items in your possession. If you already possess this feat, you gain a +10 bonus on Knowledge (engineering) checks to identify item properties.",
     "name_zh": "探知科技",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，语言，材料（一个浸在机油里的线圈）",
@@ -24,6 +27,5 @@
     "duration_zh": "3轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术的效果类似于侦测魔法，但它只能探查到科技物品的状况而非魔法物品。除此之外，在进行知识（工程学）检定以鉴别一件你拥有的科技物品的效果时，使用这个魔法将视为你拥有技师（Technologist）专长。如果你已经拥有了技师专长，那么在使用这个魔法并进行知识（工程学）检定以鉴定科技物品的效果时获得+10加值。<\/p>",
-    "source": "CS-TG"
+    "text_zh": "<p>这个法术的效果类似于侦测魔法，但它只能探查到科技物品的状况而非魔法物品。除此之外，在进行知识（工程学）检定以鉴别一件你拥有的科技物品的效果时，使用这个魔法将视为你拥有技师（Technologist）专长。如果你已经拥有了技师专长，那么在使用这个魔法并进行知识（工程学）检定以鉴定科技物品的效果时获得+10加值。<\/p>"
 }

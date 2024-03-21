@@ -1,14 +1,19 @@
 {
     "key": "symbol of sealing",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-sealing/",
     "name": "Symbol of Sealing",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Symbol%20of%20Sealing",
+    "source": ["Ultimate Magic pg. 242"],
     "school": "abjuration",
     "descriptors": ["force"],
     "levels":     {
-        "cleric/oracle": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "arcanist": 6,
+        "cleric": 6,
+        "occultist": 4,
+        "oracle": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp)",
@@ -17,14 +22,14 @@
     "duration": "permanent",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell allows you to scribe a potent rune of power upon or above a door or other opening measuring no more than 20 square feet/level in size. When the casting is completed, the symbol immediately triggers, glowing visibly and sealing the door or opening with an invisible barrier of force equivalent to a wall of force. Destroying the symbol ends the effect, though destroying it once the symbol has been activated requires destroying the wall of force first. Once triggered, the wall remains for 10 minutes per caster level.<\/p><p>When scribing a <i>symbol of sealing<\/i>, you can specify a password or phrase that allows a creature speaking it to bypass the seal and pass through the opening. You can also attune any number of creatures to the <i>symbol of sealing<\/i>, but doing this extends the casting time as described under symbol of death (Core Rulebook 355). However, the force wall created by the symbol blocks attacks and line of effect even for creatures that know the password or are attuned—the password only prevents them from triggering the symbol, not from ignoring its effects if triggered.<\/p><p>A disintegrate spell or similar effect can destroy the wall of force created by the symbol if the caster makes a caster level check against a DC of 11 + your caster level. A knock spell has no effect on a <i>symbol of sealing<\/i> or its force wall. A <i>symbol of sealing<\/i> cannot be dispelled, but <i>mage's disjunction<\/i> automatically destroys it.<\/p>",
+    "text": "This spell allows you to scribe a potent rune of power upon or above a door or other opening measuring no more than 20 square feet/level in size. When the casting is completed, the symbol immediately triggers, glowing visibly and sealing the door or opening with an invisible barrier of force equivalent to a <i>wall of force<\/i>. Destroying the symbol ends the effect, though destroying it once the symbol has been activated requires destroying the <i>wall of force <\/i>first. Once triggered, the wall remains for 10 minutes per caster level.<br><br>When scribing a <i>symbol of sealing<\/i>, you can specify a password or phrase that allows a creature speaking it to bypass the seal and pass through the opening. You can also attune any number of creatures to the <i>symbol of sealing<\/i>, but doing this extends the casting time as described under <i>symbol of death<\/i>. However, the force wall created by the symbol blocks attacks and line of effect even for creatures that know the password or are attuned—the password only prevents them from triggering the symbol, not from ignoring its effects if triggered.<br><br>A <i>disintegrate <\/i>spell or similar effect can destroy the <i>wall of force <\/i>created by the symbol if the caster makes a caster level check against a DC of 11 + your caster level. A <i>knock <\/i>spell has no effect on a <i>symbol of sealing <\/i>or its force wall. A <i>symbol of sealing <\/i>cannot be dispelled, but <i>mage’s disjunction <\/i>automatically destroys it.",
     "name_zh": "封印徽记",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 材料 (水银和磷，加上价值合计5000gp的钻石和蛋白石粉末)",
+    "range_zh": "0尺; 见文本",
     "effect_zh": "一个徽记",
     "duration_zh": "永久",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>这个法术允许你在门上或其他不超过每等级20平方英尺的入口处创造一个强大的徽记。<\/p><p>当创造完毕后，徽记将会立刻触发，发出微光并且将门封印，或者展开一道无形的力场屏障，如同力墙术 (wall of force)。<\/p><p>摧毁徽记将会结束法术效果，不过在摧毁它之前你需要先打破力场墙再说。一旦触发，屏障能维持10分钟每施法者的等级。<\/p><p>在绘制封印徽记时，你可以指定一个密码或短语，允许生物说出它来关闭封印以通过入口。你也可以使一定数量的生物与封印徽记同调，不过这会让你的施法时间相应延长，如同死亡徽记 (Symbol of Death) 所述。<\/p><p>不过，即使同调或知道密码，力场墙仍然会隔绝这些生物的攻击和效果线。因为密码只会防止徽记被触发，而不是让它们能够忽略触发后的效果。<\/p><p>一个解离术 (disintegrate) 或类似效果能够摧毁徽记创造的力场墙，不过需要先通过一个DC为11+你的施法者等级的施法者等级检定。敲击术 (Knock) 对封印徽记创造的力场效果无效。<\/p><p>封印徽记不受解除魔法影响，但是法术裂解术 (mage’s disjunction) 可以自动摧毁它。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>这个法术允许你在门上或其他不超过每等级20平方英尺的入口处创造一个强大的徽记。<\/p><p>当创造完毕后，徽记将会立刻触发，发出微光并且将门封印，或者展开一道无形的力场屏障，如同力墙术 (wall of force)。<\/p><p>摧毁徽记将会结束法术效果，不过在摧毁它之前你需要先打破力场墙再说。一旦触发，屏障能维持10分钟每施法者的等级。<\/p><p>在绘制封印徽记时，你可以指定一个密码或短语，允许生物说出它来关闭封印以通过入口。你也可以使一定数量的生物与封印徽记同调，不过这会让你的施法时间相应延长，如同死亡徽记 (Symbol of Death) 所述。<\/p><p>不过，即使同调或知道密码，力场墙仍然会隔绝这些生物的攻击和效果线。因为密码只会防止徽记被触发，而不是让它们能够忽略触发后的效果。<\/p><p>一个解离术 (disintegrate) 或类似效果能够摧毁徽记创造的力场墙，不过需要先通过一个DC为11+你的施法者等级的施法者等级检定。敲击术 (Knock) 对封印徽记创造的力场效果无效。<\/p><p>封印徽记不受解除魔法影响，但是法术裂解术 (mage’s disjunction) 可以自动摧毁它。<\/p>"
 }

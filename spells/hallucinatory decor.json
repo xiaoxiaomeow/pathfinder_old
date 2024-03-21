@@ -1,0 +1,31 @@
+{
+    "key": "hallucinatory decor",
+    "name": "Hallucinatory Decor",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hallucinatory%20Decor",
+    "source": ["Disciple's Doctrine pg. 19"],
+    "school": "illusion",
+    "subSchools": ["glamer"],
+    "levels":     {
+        "arcanist": 3,
+        "bard": 3,
+        "mesmerist": 3,
+        "psychic": 3,
+        "skald": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 minute",
+    "components": "V, S",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "one 10-ft. cube/level (S)",
+    "duration": "1 hour/level (D)",
+    "savingThrow": "Will disbelief (if interacted with)",
+    "spellResistance": "no",
+    "text": "You transform the decor of a courtyard, structure, or other edifice to meet your highest standards and personal tastes. Objects and architectural elements remain in the same configuration—a chair remains a chair—but can look, sound, and smell like a different physical material and artistic style. You cannot change the appearance of natural terrain, but landscaped areas such as a garden or orchard can be affected. This spell functions in all other ways as <i>hallucinatory terrain<\/i>.<br><br> Members of the Prophet of Kalistrade prestige class can cast this spell, even though it is not a divination or enchantment.",
+    "castingTime_zh": "1分钟",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "one 10-ft. cube/level (S)",
+    "duration_zh": "1小时/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+    "spellResistance_zh": "不可"
+}

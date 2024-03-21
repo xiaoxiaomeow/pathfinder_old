@@ -1,15 +1,20 @@
 {
     "key": "mad monkeys",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mad-monkeys/",
     "name": "Mad Monkeys",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mad%20Monkeys",
+    "source": ["Ultimate Magic pg. 227"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "summoner/unchained summoner": 3
+        "hunter": 3,
+        "skald": 3,
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
     },
     "castingTime": "1 round",
     "components": "V, S, DF",
@@ -18,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You summon a swarm of screeching, mischievous monkeys. The swarm understands and obeys your commands and has the statistics of a monkey swarm. Creatures failing a saving throw against the <i>mad monkeys<\/i>' distraction attack are deafened for 1 minute as well as nauseated. The monkeys attempt one disarm or steal combat maneuver each turn as a free action against any creature that begins its turn in the swarm, using your caster level plus your casting ability score bonus (Intelligence for wizards; Wisdom for druids and oracles; Charisma for bards, sorcerers, and summoners) for its CMB. Recovering an item from the monkeys requires a successful disarm or steal attempt against that CMB +10. An object stolen by the monkeys takes swarm damage each round the swarm is in possession of the object.<\/p>",
+    "text": "You summon a swarm of screeching, mischievous monkeys. The swarm understands and obeys your commands and has the statistics of a monkey swarm. Creatures failing a saving throw against the mad monkeys’ distraction attack are deafened for 1 minute as well as nauseated. The monkeys attempt one disarm or steal combat maneuver each turn as a free action against any creature that begins its turn in the swarm, using your caster level plus your casting ability score bonus (Intelligence for wizards; Wisdom for druids and oracles; Charisma for bards, sorcerers, and summoners) for its CMB. Recovering an item from the monkeys requires a successful disarm or steal attempt against that CMB + 10. An object stolen by the monkeys takes swarm damage each round the swarm is in possession of the object.",
     "name_zh": "疯狂猴群",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "猴子集群",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你召唤出一群吵闹而顽皮的猴子。集群能够理解并执行你的命令，并且拥有猴子集群的数据属性。<\/p><p>如果生物面对猴子群的扰乱攻击时豁免失败，将会耳聋并恶心一分钟。<\/p><p>每轮一次，猴群可以以一个自由动作对位于集群中的生物进行卸除武器或盗窃战技攻击，使用你的施法者等级加上施法关键属性调整值 (智力→法师，感知→德鲁伊、先知，魅力→诗人、术士、召唤师) 作为CMB。<\/p><p>从猴群夺回武器需要一次CMD为上述CMB+10的卸除武器或盗窃战技检定。<\/p><p>被猴群夺取的物体，每被猴群持有一轮，便会受到一次集群伤害。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你召唤出一群吵闹而顽皮的猴子。集群能够理解并执行你的命令，并且拥有猴子集群的数据属性。<\/p><p>如果生物面对猴子群的扰乱攻击时豁免失败，将会耳聋并恶心一分钟。<\/p><p>每轮一次，猴群可以以一个自由动作对位于集群中的生物进行卸除武器或盗窃战技攻击，使用你的施法者等级加上施法关键属性调整值 (智力→法师，感知→德鲁伊、先知，魅力→诗人、术士、召唤师) 作为CMB。<\/p><p>从猴群夺回武器需要一次CMD为上述CMB+10的卸除武器或盗窃战技检定。<\/p><p>被猴群夺取的物体，每被猴群持有一轮，便会受到一次集群伤害。<\/p>"
 }

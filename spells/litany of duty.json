@@ -1,0 +1,21 @@
+{
+    "key": "litany of duty",
+    "name": "Litany of Duty",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Duty",
+    "source": ["Disciple's Doctrine pg. 13"],
+    "school": "abjuration",
+    "descriptors": ["lawful"],
+    "levels":     {
+        "inquisitor": 2,
+        "paladin": 1
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S, DF",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "You repeat a mantra or phrase that reminds you of your duty. You can immediately reroll a failed saving throw against a spell that would force you to take an action against your will, and you gain a +2 bonus against enchantment effects for 1 round. You can use this spell to reroll only a saving throw that you failed within the past round. While subject to this spell, the target cannot be the target of another spell that has the word “litany” in the title.",
+    "castingTime_zh": "直觉动作",
+    "range_zh": "个人",
+    "duration_zh": "立即"
+}

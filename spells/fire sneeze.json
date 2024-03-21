@@ -1,18 +1,22 @@
 {
     "key": "fire sneeze",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/fire-sneeze/",
     "name": "Fire Sneeze",
-    "book": "Pathfinder Player Companion: Goblins of Golarion. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Fire%20Sneeze",
+    "source": ["Goblins of Golarion pg. 28"],
     "school": "evocation",
     "descriptors":     [
         "air",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "druid": 2,
-        "sorcerer/wizard": 2
+        "hunter": 2,
+        "investigator": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (hot pepper soaked in oil)",
@@ -21,16 +25,15 @@
     "duration": "1 round + 1 round/2 levels",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p>This spell causes you to begin sneezing gouts of fire that can not only set creatures ablaze but also drop them flat on their backs. Once you cast this spell, you must sneeze each round as a standard action—you can take no other standard action as long as this spell is in effect, nor can you take full-round actions. Each time you sneeze, you produce a 10-foot-long cone of fire and wind. All creatures caught in this cone take 2d6 points of fire damage—a successful Reflex save halves this damage. Any creature that fails to resist this spell with a Reflex save must immediately make a DC 12 Fortitude save or be knocked prone by the blast of wind associated with the sneeze.<\/p>",
+    "text": "This spell causes you to begin sneezing gouts of fire that can not only set creatures ablaze but also drop them flat on their backs. Once you cast this spell, you must sneeze each round as a standard action—you can take no other standard action as long as this spell is in effect, nor can you take full-round actions. Each time you sneeze, you produce a 10-foot-long cone of fire and wind. All creatures caught in this cone take 2d6 points of fire damage—a successful Reflex save halves this damage. Any creature that fails to resist this spell with a Reflex save must immediately make a DC 12 Fortitude save or be knocked prone by the blast of wind associated with the sneeze.",
     "name_zh": "火焰喷嚏",
     "race_zh": "地精",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (热辣椒油)",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮+1轮/2等级",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>这个法术会导致你开始打喷嚏，并伴随着剧烈的火焰和强风。这不但会把生物点燃，还会把它们击倒。\n当你施放该法术，你必须每一轮以一个标准动作打个喷嚏——这表示你在法术持续时间内不能进行标准动作和全回合动作。每当你打喷嚏，你会制造出一片10尺长的锥形火焰与强风。\n锥形范围内的所有生物会受到2d6点火焰伤害（反射减半）。\n任何没有法术抗力或抗力失败的生物必须进行一次DC12的强韧检定，否则就会被你的喷嚏产生的冲击力击倒。<\/p>",
-    "source": "PC-GoG"
+    "text_zh": "<p>这个法术会导致你开始打喷嚏，并伴随着剧烈的火焰和强风。这不但会把生物点燃，还会把它们击倒。<\/p><p>当你施放该法术，你必须每一轮以一个标准动作打个喷嚏——这表示你在法术持续时间内不能进行标准动作和全回合动作。每当你打喷嚏，你会制造出一片10尺长的锥形火焰与强风。<\/p><p>锥形范围内的所有生物会受到2d6点火焰伤害（反射减半）。<\/p><p>任何没有法术抗力或抗力失败的生物必须进行一次DC12的强韧检定，否则就会被你的喷嚏产生的冲击力击倒。<\/p>"
 }

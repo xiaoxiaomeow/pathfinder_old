@@ -1,27 +1,29 @@
 {
     "key": "know direction",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/know-direction/",
     "name": "Know Direction",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Know%20Direction",
+    "source": ["PRPG Core Rulebook pg. 304"],
     "school": "divination",
     "levels":     {
         "bard": 0,
         "druid": 0,
+        "hunter": 0,
+        "occultist": 0,
         "psychic": 0,
-        "shaman": 0
+        "shaman": 0,
+        "skald": 0
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "instantaneous",
-    "text": "<p>When you cast this spell, you instantly know the direction of north from your current position. The spell is effective in any environment in which &#8220;north&#8221; exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the moment of casting, but you can get lost again within moments if you don't find some external reference point to help you keep track of direction.<\/p>",
+    "text": "When you cast this spell, you instantly know the direction of north from your current position. The spell is effective in any environment in which “north” exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the moment of casting, but you can get lost again within moments if you don't find some external reference point to help you keep track of direction.",
     "name_zh": "指北术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "立即",
-    "text_zh": "<p>当你施放该法术时，会立刻得知从你所在的位置起哪个方向是北方。该法术在任何存在“北方”概念的环境中都有效，但是在异界中可能失去效果。该法术只是在你施展的瞬间使你知道北方的位置，如果你没有借助参照物来保持确定方向的话，你有可能再次迷失方向。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>当你施放该法术时，会立刻得知从你所在的位置起哪个方向是北方。该法术在任何存在“北方”概念的环境中都有效，但是在异界中可能失去效果。该法术只是在你施展的瞬间使你知道北方的位置，如果你没有借助参照物来保持确定方向的话，你有可能再次迷失方向。<\/p>"
 }

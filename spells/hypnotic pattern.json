@@ -1,19 +1,21 @@
 {
     "key": "hypnotic pattern",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hypnotic-pattern/",
     "name": "Hypnotic Pattern",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hypnotic%20Pattern",
+    "source": ["PRPG Core Rulebook pg. 298"],
     "school": "illusion",
-    "subSchool": ["pattern"],
+    "subSchools": ["pattern"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "mesmerist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "redmantisassassin": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "wizard": 2
     },
-    "subdomains": {"stars": 2},
-    "mysteries": {"heavens": 2},
     "castingTime": "1 standard action",
     "components": "V (bard only), S, M (a stick of incense or a crystal rod); see text",
     "range": "medium (100 ft. + 10 ft./level)",
@@ -21,15 +23,14 @@
     "duration": "concentration + 2 rounds",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of HD of creatures affected. Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Affected creatures become fascinated by the pattern of colors. Sightless creatures are not affected.<\/p><p>A wizard or sorcerer need not utter a sound to cast this spell, but a bard must perform as a verbal component.<\/p>",
+    "text": "A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4 and add your caster level (maximum 10) to determine the total number of HD of creatures affected. Creatures with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's point of origin are affected first. HD that are not sufficient to affect a creature are wasted. Affected creatures become fascinated by the pattern of colors. Sightless creatures are not affected.<br><br>A wizard or sorcerer need not utter a sound to cast this spell, but a bard must perform as a verbal component.",
     "name_zh": "催眠图纹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言 (仅限吟游诗人)，姿势, 材料 (一株熏香或一个水晶棒); 见后文",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "半径10尺扩散区域的多彩光芒",
     "duration_zh": "专注 + 2轮",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>空中出现色彩构成变化多端的多彩图纹，这会使区域内的生物迷魂。投掷2d4并加上你的CL (最高+10) 来判断你能影响的生物的总HD数量。HD最少的生物最先被影响，而同样HD的生物，则离法术源发点最近的先被影响。剩下不足以影响生物的HD数则被浪费。受影响的生物将会被多彩图纹迷魂，没有视觉的生物不受影响。<\/p><p>法师与术士在施放该法术时不用发声，但吟游诗人必须以表演作为语言成分。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>空中出现色彩构成变化多端的多彩图纹，这会使区域内的生物迷魂。投掷2d4并加上你的CL (最高+10) 来判断你能影响的生物的总HD数量。HD最少的生物最先被影响，而同样HD的生物，则离法术源发点最近的先被影响。剩下不足以影响生物的HD数则被浪费。受影响的生物将会被多彩图纹迷魂，没有视觉的生物不受影响。<\/p><p>法师与术士在施放该法术时不用发声，但吟游诗人必须以表演作为语言成分。<\/p>"
 }

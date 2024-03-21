@@ -1,20 +1,28 @@
 {
     "key": "incendiary runes",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/incendiary-runes/",
     "name": "Incendiary Runes",
-    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Incendiary%20Runes",
+    "source": ["Black Markets pg. 31"],
     "school": "abjuration",
     "descriptors": ["fire"],
     "levels":     {
-        "occultist": 1,
-        "sorcerer/wizard": 1
+        "arcanist": 1,
+        "sorcerer": 1,
+        "wizard": 1
     },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "one touched object weighing no more than 10 lbs.",
+    "duration": "permanent until discharged (D)",
     "savingThrow": "Reflex partial",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as explosive runes, except it creates a small surge of flames rather than an explosion of force. The runes automatically deal 1d6 points of fire damage to any creatures and objects in adjacent squares, and those creatures and objects catch fire unless they succeed at Reflex saves.<\/p>",
+    "text": "This spell functions as <i>explosive runes<\/i>, except it creates a small surge of flames rather than an explosion of force. The runes automatically deal 1d6 points of fire damage to any creatures and objects in adjacent squares, and those creatures and objects catch fire unless they succeed at Reflex saves.",
     "name_zh": "燃烧符文",
-    "savingThrow_zh": "反射, 通过则减半",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "永久, 直至能量发散 (可解消)",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术如同爆裂符文(explosive run)般作用，除了它产生的是如小型波浪般的火焰，而不是一个爆炸性的力量。此符文自动对相邻方格的任何生物以及物体造成1d6点的火焰伤害，并且，这些生物与物体除非通过反射豁免，否则会着火(catch fire)。<\/p>",
-    "source": "PC-BM"
+    "text_zh": "<p>此法术如同爆裂符文(explosive run)般作用，除了它产生的是如小型波浪般的火焰，而不是一个爆炸性的力量。此符文自动对相邻方格的任何生物以及物体造成1d6点的火焰伤害，并且，这些生物与物体除非通过反射豁免，否则会着火(catch fire)。<\/p>"
 }

@@ -1,13 +1,14 @@
 {
     "key": "nauseating dart",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nauseating-dart/",
     "name": "Nauseating Dart",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nauseating%20Dart",
+    "source": ["Advanced Class Guide pg. 189"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["poison"],
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -17,15 +18,14 @@
     "duration": "instantaneous",
     "savingThrow": "Fortitude partial (see text)",
     "spellResistance": "no",
-    "text": "<p>You spit a poisonous stinger around the size of a quill at a creature within range, as though you had fired a dart from a blowgun. You must succeed at a ranged attack to hit your target. The stinger deals 1d2 points of piercing damage and poisons the target, causing it to become nauseated for 1 round unless it succeeds at a Fortitude save.<\/p>",
+    "text": "You spit a poisonous stinger around the size of a quill at a creature within range, as though you had fired a dart from a blowgun. You must succeed at a ranged attack to hit your target. The stinger deals 1d2 points of piercing damage and poisons the target, causing it to become nauseated for 1 round unless it succeeds at a Fortitude save.",
     "name_zh": "毒针吹刺",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势，法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一根毒刺",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧，通过则部分生效（见后文）",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你吐出一根羽毛大小的毒刺，并将其射向范围内的一个生物，就如同你使用吹箭（blowgun）发射吹箭（Blowgun darts）一般。你必须成功进行一次远程攻击检定才能命中目标。毒刺会造成1d2点穿刺伤害，并且会使目标中毒。如果目标没有成功通过强韧豁免，便会反胃（nauseated）1轮。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你吐出一根羽毛大小的毒刺，并将其射向范围内的一个生物，就如同你使用吹箭（blowgun）发射吹箭（Blowgun darts）一般。你必须成功进行一次远程攻击检定才能命中目标。毒刺会造成1d2点穿刺伤害，并且会使目标中毒。如果目标没有成功通过强韧豁免，便会反胃（nauseated）1轮。<\/p>"
 }

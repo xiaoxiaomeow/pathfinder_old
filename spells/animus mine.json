@@ -1,8 +1,8 @@
 {
     "key": "animus mine",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animus-mine/",
     "name": "Animus Mine",
-    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Animus%20Mine",
+    "source": ["Heroes of the Darklands pg. 20"],
     "school": "abjuration",
     "descriptors": ["mind-affecting"],
     "levels":     {
@@ -15,14 +15,13 @@
     "duration": "1 hour/level or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p class=\"description\">You implant a mental mine within your psyche that triggers against anyone attempting to manipulate your thoughts.<\/p><p>Any creature that uses a mind-affecting effect against you triggers the mine, causing psychic backlash against the offending creature. This backlash deals 1d6 points of damage per caster level (maximum 10d6) and staggers the target for 1d4 rounds. If the target succeeds at a Will saving throw, it takes only half damage and negates the staggered effect. The mine does not disrupt the mind-affecting effect that triggered the spell. You can use a swift action to suppress the trigger of your mine for 1 round to allow someone to use a mind-affecting effect on you. You can have only one mental mine active at a time.<\/p>",
+    "text": "You implant a mental mine within your psyche that triggers against anyone attempting to manipulate your thoughts. Any creature that uses a mind-affecting effect against you triggers the mine, causing psychic backlash against the offending creature. This backlash deals 1d6 points of damage per caster level (maximum 10d6) and staggers the target for 1d4 rounds. If the target succeeds at a Will saving throw, it takes only half damage and negates the staggered effect. The mine does not disrupt the mind-affecting effect that triggered the spell. You can use a swift action to suppress the trigger of your mine for 1 round to allow someone to use a mind-affecting effect on you. You can have only one mental mine active at a time.",
     "name_zh": "对敌意地雷",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
-    "duration_zh": "1小时/等级 或 直至发散",
+    "range_zh": "个人",
+    "duration_zh": "1小时/等级 或 直至能量散发",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你在你的精神内植入了一枚精神地雷，任何试图操控你思维的行动将会触发这枚地雷。任何对你使用影响心灵(mind-affecting)效果的生物会触发这枚地雷，并对这位冒犯你的生物造成精神冲击。这股冲击造成每施法者等级1d6点的伤害(最大10d6)并且让目标陷入1d4轮的蹒跚(stagger)状态。\n如果目标通过了意志豁免检定，那他只会受到一半的伤害，并且蹒跚无效。这枚地雷不会让触发此法术的影响心灵效果失效。你可以使用一个迅捷动作(swift action)来压制这枚地雷1轮，好让别人能对你使用影响心灵效果。你在同一时间只能拥有一枚精神地雷。<\/p>",
-    "source": "PC-HotD"
+    "text_zh": "<p>你在你的精神内植入了一枚精神地雷，任何试图操控你思维的行动将会触发这枚地雷。任何对你使用影响心灵(mind-affecting)效果的生物会触发这枚地雷，并对这位冒犯你的生物造成精神冲击。这股冲击造成每施法者等级1d6点的伤害(最大10d6)并且让目标陷入1d4轮的蹒跚(stagger)状态。<\/p><p>如果目标通过了意志豁免检定，那他只会受到一半的伤害，并且蹒跚无效。这枚地雷不会让触发此法术的影响心灵效果失效。你可以使用一个迅捷动作(swift action)来压制这枚地雷1轮，好让别人能对你使用影响心灵效果。你在同一时间只能拥有一枚精神地雷。<\/p>"
 }

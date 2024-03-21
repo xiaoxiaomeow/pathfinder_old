@@ -1,0 +1,22 @@
+{
+    "key": "suffocation, instant",
+    "name": "Suffocation, Instant",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Instant",
+    "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
+    "school": "necromancy",
+    "descriptors": ["death"],
+    "levels": {"sahirafiyun": 5},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "instantaneous",
+    "savingThrow": "Fortitude partial",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>slay living<\/i>, and kills by immediate suffocation. Creatures that do not need to breathe are immune to this spell. The target is considered to have taken a dose of pesh for the purpose of addiction and withdrawal effects.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "立即",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+    "spellResistance_zh": "可"
+}

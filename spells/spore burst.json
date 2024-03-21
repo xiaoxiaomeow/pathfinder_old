@@ -1,12 +1,13 @@
 {
     "key": "spore burst",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spore-burst/",
     "name": "Spore Burst",
-    "book": "Pathfinder Player Companion: Cohorts and Companions © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spore%20Burst",
+    "source": ["Cohorts and Companions pg. 21"],
     "school": "conjuration",
     "descriptors": ["poison"],
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "ranger": 3,
         "shaman": 2,
         "witch": 2
@@ -16,17 +17,16 @@
     "range": "touch",
     "target": "one plant creature; see text",
     "duration": "see text",
-    "savingThrow": "special",
+    "savingThrow": "special, see text",
     "spellResistance": "no",
-    "text": "<p>You cause a willing plant creature's body to sprout small, puffy mushrooms that remain for 1 round per caster level or until the creature uses them. As a standard action, the target can cause these mushrooms to burst open, releasing a cloud of toxic spores that affect all creatures in a 20-foot-radius spread. Those in the area must succeed at Fortitude saves or be sickened for 1d6 rounds as they are overcome by sneezing and coughing.<\/p><p>The caster is immune to this poison effect, as are all creatures of the plant type.<\/p>",
+    "text": "You cause a willing plant creature’s body to sprout small, puffy mushrooms that remain for 1 round per caster level or until the creature uses them. As a standard action, the target can cause these mushrooms to burst open, releasing a cloud of toxic spores that affect all creatures in a 20-foot-radius spread. Those in the area must succeed at Fortitude saves or be sickened for 1d6 rounds as they are overcome by sneezing and coughing. The caster is immune to this poison effect, as are all creatures of the plant type.",
     "name_zh": "孢子喷发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一小朵泡泡菇)",
     "range_zh": "接触",
     "target_zh": "一名植物生物；见下",
-    "duration_zh": "见下",
-    "savingThrow_zh": "特殊；见下",
+    "duration_zh": "见文本",
+    "savingThrow_zh": "特殊; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你使一名自愿的植物生物的身体长出小且蓬松的菌类，保持每施法者等级1轮或直到该生物使用它们。以一个标准动作，目标可以令这些菌类爆裂开来，释放毒性孢子云，影响爆发半径20呎内的所有生物。这些在区域内的生物必须成功一次强韧豁免检定，否则因为要克服打喷嚏以及咳嗽，会变得恶心(sickened)1d6轮。施法者免疫此毒素效果，而所有的植物类型的生物也免疫。<\/p>",
-    "source": "PC-CaC"
+    "text_zh": "<p>你使一名自愿的植物生物的身体长出小且蓬松的菌类，保持每施法者等级1轮或直到该生物使用它们。以一个标准动作，目标可以令这些菌类爆裂开来，释放毒性孢子云，影响爆发半径20呎内的所有生物。这些在区域内的生物必须成功一次强韧豁免检定，否则因为要克服打喷嚏以及咳嗽，会变得恶心(sickened)1d6轮。施法者免疫此毒素效果，而所有的植物类型的生物也免疫。<\/p>"
 }

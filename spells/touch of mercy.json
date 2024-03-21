@@ -1,36 +1,40 @@
 {
     "key": "touch of mercy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/touch-of-mercy/",
     "name": "Touch of Mercy",
-    "book": "Pathfinder Player Companion: Champions of Purity © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Touch%20of%20Mercy",
+    "source": ["Champions of Purity pg. 29"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "good",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 2,
         "bard": 2,
         "cleric": 2,
-        "sorcerer/wizard": 2
+        "oracle": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "touch",
     "target": "one creature",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>The target creature deals only nonlethal damage with all of its weapon attacks. Damage taken by creatures or objects that are not subject to nonlethal damage is not converted to nonlethal and remains lethal damage. The weapon retains all of its other normal properties.<\/p>",
+    "text": "The target creature deals only nonlethal damage with all of its weapon attacks. Damage taken by creatures or objects that are not subject to nonlethal damage is not converted to nonlethal and remains lethal damage. The weapon retains all of its other normal properties.",
     "name_zh": "慈悲之触",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
     "range_zh": "接触",
     "target_zh": "一个生物",
-    "duration_zh": "1轮/等级 (D)",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>目标生物的武器攻击只能造成瘀伤。如果目标生物攻击的生物或物品免疫瘀伤，则依旧造成致命伤害。武器依旧维持其他特性。<\/p>",
-    "source": "PC-CoP"
+    "text_zh": "<p>目标生物的武器攻击只能造成瘀伤。如果目标生物攻击的生物或物品免疫瘀伤，则依旧造成致命伤害。武器依旧维持其他特性。<\/p>"
 }

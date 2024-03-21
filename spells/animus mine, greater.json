@@ -1,9 +1,8 @@
 {
     "key": "animus mine, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/animus-mine/",
     "name": "Animus Mine, Greater",
-    "base": "animus mine",
-    "book": "Pathfinder Player Companion: Heroes of the Darklands © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Animus%20Mine,%20Greater",
+    "source": ["Heroes of the Darklands pg. 20"],
     "school": "abjuration",
     "descriptors": ["mind-affecting"],
     "levels":     {
@@ -16,12 +15,12 @@
     "duration": "1 hour/level or until discharged",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
-    "text": "<p>This functions as per <em>animus mine<\/em>, except the triggering creature is stunned for 1d4 rounds instead of staggered. If the target succeeds at a Will saving throw, it takes only half damage and negates the stunned effect. If the target fails this Will saving throw, you automatically succeed at any saving throw against the mind-affecting effect that triggered the mine.<\/p><\/div>",
+    "text": "This functions as per <i>animus mine<\/i>, except the triggering creature is stunned for 1d4 rounds instead of staggered. If the target succeeds at a Will saving throw, it takes only half damage and negates the stunned effect. If the target fails this Will saving throw, you automatically succeed at any saving throw against the mind-affecting effect that triggered the mine.",
     "name_zh": "高等对敌意地雷",
     "castingTime_zh": "标准动作",
-    "range_zh": "自身",
+    "range_zh": "个人",
+    "duration_zh": "1小时/等级 或 直至能量散发",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>如同对敌意地雷(Animus Mine)般作用，除了触发地雷的生物会震慑(stunned)1d4轮而非蹒跚。如果目标通过了意志豁免检定，那他只会受到一半的伤害，并且震慑无效。如果目标意志豁免检定失败，你对触发此法术的影响心灵效果的任何豁免检定自动成功。<\/p>",
-    "source": "PC-HotD"
+    "text_zh": "<p>如同对敌意地雷(Animus Mine)般作用，除了触发地雷的生物会震慑(stunned)1d4轮而非蹒跚。如果目标通过了意志豁免检定，那他只会受到一半的伤害，并且震慑无效。如果目标意志豁免检定失败，你对触发此法术的影响心灵效果的任何豁免检定自动成功。<\/p>"
 }

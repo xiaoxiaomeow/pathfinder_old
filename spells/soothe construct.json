@@ -1,14 +1,18 @@
 {
     "key": "soothe construct",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soothe-construct/",
     "name": "Soothe Construct",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soothe%20Construct",
+    "source": ["Ultimate Magic pg. 239"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 4,
-        "sorcerer/wizard": 5
+        "arcanist": 5,
+        "cleric": 4,
+        "occultist": 4,
+        "oracle": 4,
+        "sorcerer": 5,
+        "warpriest": 4,
+        "wizard": 5
     },
-    "elementalSchools": {"metal": 5},
     "castingTime": "1 round",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -16,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You soothe the elemental spirit of a targeted construct, reducing its chance of going berserk by 1d4% per four caster levels (maximum 5d4%). If cast on a construct that has already gone berserk and you are its master, you may immediately roll d% to end the construct's berserk state, it returns to normal functioning, and its berserk chance returns to 0%.<\/p>",
+    "text": "You soothe the elemental spirit of a targeted construct, reducing its chance of going berserk by 1d4% per four caster levels (maximum 5d4%). If cast on a construct that has already gone berserk and you are its master, you may immediately roll d% to end the construct’s berserk state, it returns to normal functioning, and its berserk chance returns to 0%.",
     "name_zh": "安抚构装",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个构装体",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>法术抗力    否<\/p><p>你安抚目标构装体内的元素精魂，降低它进入狂暴的机率每施法者等级1d4% (最高5d4%)。<\/p><p>如果施放在一个已经进入狂暴状态的构装体并且你是它的主人，你可以立刻进行一次d%投骰以结束它的狂暴状态，它会进入正常运行状态，并且狂暴机率返回到0%。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    否<\/p><p>你安抚目标构装体内的元素精魂，降低它进入狂暴的机率每施法者等级1d4% (最高5d4%)。<\/p><p>如果施放在一个已经进入狂暴状态的构装体并且你是它的主人，你可以立刻进行一次d%投骰以结束它的狂暴状态，它会进入正常运行状态，并且狂暴机率返回到0%。<\/p>"
 }

@@ -1,22 +1,24 @@
 {
     "key": "orchid's drop",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/orchid-s-drop/",
     "name": "Orchid's Drop",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Orchid's%20Drop",
+    "source": ["Inner Sea Magic pg. 59"],
     "school": "transmutation",
-    "levels": {"alchemist": 3},
+    "levels":     {
+        "alchemist": 3,
+        "investigator": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (a much-diluted drop of sun orchid nectar worth 500 gp)",
     "range": "personal",
     "target": "you",
     "duration": "1 hour/level",
-    "text": "<p>This extract, distilled from a much-diluted drop of the nectar of a sun orchid flower, can transform an alchemist's mutagen into a potent healing tonic.<\/p><p>As long as you're under the effects of <i>orchid's drop<\/i>, drinking a dose of your mutagen heals you of 2d10 points of damage. For the spell's duration, you gain a +2 alchemical bonus on all saving throws.<\/p>",
+    "text": "Alchemists have tried for centuries to recreate Artokus Kirran’s feat of genius that created the <i>sun orchid elixir<\/i>. Although they have yet to unlock the elixir’s exact formula, their efforts have not been entirely wasted. One by-product of their experiments was the <i>orchid’s drop <\/i>formula. This extract, distilled from a much-diluted drop of the nectar of a sun orchid flower, can transform an alchemist’s mutagen into a potent healing tonic.<br><br>As long as you’re under the effects of <i>orchid’s drop<\/i>, drinking a dose of your mutagen heals you of 2d10 points of damage. For the spell’s duration, you gain a +2 alchemical bonus on all saving throws.",
     "name_zh": "兰花之蜜",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（经过稀释的太阳兰花花蜜，总价值500gp）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1小时/等级",
-    "text_zh": "<p>历经数个世纪，炼金术士们一直在尝试重现安托库斯凯兰（Artokus Kirran）的伟业，即太阳兰花合剂（sun orchid elixir）。尽管他们还未精确解读了这个化合炼成的公式，不过这些炼金术士的努力并没有白费。这些实验的副产品之一就是兰花之蜜的公式。这个化合炼成是由被稀释过的太阳兰花花蜜蒸馏而成，它能够将炼金术士的突变药剂转化为强效的治疗物质。\n只要你处于兰花之蜜的效果之中，喝下一剂你自己的突变药剂都会使你恢复2d10点伤害。此外在法术的持续时间内，你的所有豁免都会获得+2炼金加值。<\/p>",
-    "source": "CS-ISM"
+    "text_zh": "<p>历经数个世纪，炼金术士们一直在尝试重现安托库斯凯兰（Artokus Kirran）的伟业，即太阳兰花合剂（sun orchid elixir）。尽管他们还未精确解读了这个化合炼成的公式，不过这些炼金术士的努力并没有白费。这些实验的副产品之一就是兰花之蜜的公式。这个化合炼成是由被稀释过的太阳兰花花蜜蒸馏而成，它能够将炼金术士的突变药剂转化为强效的治疗物质。<\/p><p>只要你处于兰花之蜜的效果之中，喝下一剂你自己的突变药剂都会使你恢复2d10点伤害。此外在法术的持续时间内，你的所有豁免都会获得+2炼金加值。<\/p>"
 }

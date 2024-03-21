@@ -1,16 +1,29 @@
 {
     "key": "glyph of warding, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glyph-of-warding/",
     "name": "Glyph of Warding, Greater",
-    "base": "glyph of warding",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glyph%20of%20Warding,%20Greater",
+    "source": ["PRPG Core Rulebook pg. 291"],
     "school": "abjuration",
     "levels":     {
-        "cleric/oracle": 6,
-        "inquisitor": 6
+        "cleric": 6,
+        "inquisitor": 6,
+        "oracle": 6,
+        "warpriest": 6
     },
-    "domains": {"rune": 6},
-    "text": "<p>This spell functions like <i>glyph of warding,<\/i> except that a <i>greater blast glyph<\/i> deals up to 10d8 points of damage, and a <i>greater spell glyph<\/i> can store a spell of 6th level or lower.<\/p><p><i>Read magic<\/i> allows you to identify a <i>greater glyph of warding<\/i> with a DC 16 Spellcraft check.<\/p><p><i>Material Component<\/i>: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.<\/p><\/div>",
+    "castingTime": "10 minutes",
+    "components": "V, S, M (powdered diamond worth 200 gp)",
+    "range": "touch",
+    "targetOrArea": "object touched or up to 5 sq. ft./level",
+    "duration": "permanent until discharged (D)",
+    "savingThrow": "see text",
+    "spellResistance": "no (object) and yes; see text",
+    "text": "This spell functions like <i>glyph of warding<\/i>, except that a <i>greater blast glyph<\/i> deals up to 10d8 points of damage, and a <i>greater spell glyph<\/i> can store a spell of 6th level or lower.<br><br><i>Read magic<\/i> allows you to identify a <i>greater glyph of warding<\/i> with a DC 16 Spellcraft check.<br><br><i>Material Component<\/i>: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.",
     "name_zh": "高等守卫刻文",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’ 一般，不过高等爆裂刻文造成的伤害至多为10d8点，高等法术刻文至多储存6环或更低环位的法术。<\/p><p>‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’使你能够进行DC为16的法术辨识检定来鉴定高等守卫刻文。<\/p><p>材料成分：你需要使用熏香来绘制刻文，熏香必须之前洒上至少价值400gp的钻石尘。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "10分钟",
+    "range_zh": "接触",
+    "targetOrArea_zh": "接触到的物体 或 至多每等级5平方尺的区域",
+    "duration_zh": "永久, 直至能量发散 (可解消)",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "否 (物体) 和 可; 见文本",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=glyph of warding\">守卫刻文 (glyph of warding)<\/a>’ 一般，不过高等爆裂刻文造成的伤害至多为10d8点，高等法术刻文至多储存6环或更低环位的法术。<\/p><p>‘<a href=\"spell.html?spell=read magic\">阅读魔法 (read magic)<\/a>’使你能够进行DC为16的法术辨识检定来鉴定高等守卫刻文。<\/p><p>材料成分：你需要使用熏香来绘制刻文，熏香必须之前洒上至少价值400gp的钻石尘。<\/p>"
 }

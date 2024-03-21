@@ -1,37 +1,40 @@
 {
     "key": "campfire wall",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/campfire-wall/",
     "name": "Campfire Wall",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Campfire%20Wall",
+    "source": ["Advanced Player's Guide pg. 210"],
     "school": "evocation",
     "descriptors":     [
         "fire",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "bard": 3,
         "druid": 2,
+        "hunter": 2,
+        "occultist": 2,
         "ranger": 2,
-        "sorcerer/wizard": 3
+        "skald": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
-    "elementalSchools": {"fire": 3},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (ash made from burnt thorns)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "20-ft.-radius sphere centered on fire source",
-    "duration": "2 hours/level; see below (d)",
+    "duration": "2 hours/level; see below (D)",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You can create a barrier around a fire of at least campfire size that shelters everyone inside so long as the fire continues to burn. The barrier appears as a crackling sphere of light and fire that is clearly visible, providing as much illumination as a torch.<\/p><p>The barrier blocks line of sight, granting creatures on either side of the barrier total concealment from creatures on the other side. Any object or creature passing through the barrier from outside takes 1d6 points of fire damage and is also outlined with light equivalent to that of a torch, for 1d6 minutes. Creatures outlined in this way are plainly visible regardless of the light conditions and do not benefit from any sort of concealment, magical or otherwise. The light is not bright enough to have any special effect on undead or creatures vulnerable to light.<\/p><p>Creatures inside the barrier can leave without penalty, but if they try to return they suffer the same consequences as anyone else. If the fire source at the barrier's center is extinguished or moved, the spell ends.<\/p>",
+    "text": "You can create a barrier around a fire of at least campfire size that shelters everyone inside so long as the fire continues to burn. The barrier appears as a crackling sphere of light and fire that is clearly visible, providing as much illumination as a torch. The barrier bocks line of sight, granting creatures on either side of the barrier total concealment from creatures on the other side. Any object or creature passing through the barrier from outside takes 1d6 points of fire damage and is also outlined with light equivalent to that of a torch, for 1d6 minutes. Creatures outlined in this way are plainly visible regardless of the light conditions and do not benefit from any sort of concealment, magical or otherwise. The light is not bright enough to have any special effect on undead or creatures vulnerable to light. Creatures inside the barrier can leave without penalty, but if they try to return they suffer the same consequences as anyone else. If the fire source at the barrier’s center is extinguished or moved, the spell ends.",
     "name_zh": "营火之墙",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (荆棘灰烬)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "以火源为中心半径20尺球形",
-    "duration_zh": "2小时/等级，见下文 (可解消)",
+    "duration_zh": "2小时/等级, 见文本 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你以一个至少为营火规模的火源为中心，创造了一个球形的屏障，只要火源还在燃烧，就能为其中的生物提供庇护。屏障是由清晰可见的火与光芒构成，并且提供等于一个火炬的照明范围。<\/p><p>屏障将会遮断效果线，使屏障两侧的生物互相视为全隐蔽。任何从外部试图进入屏障内部的生物都会受到1d6点火焰伤害，并且会被一层等同火炬亮度的光芒勾勒出轮廓，持续1d6分钟。被这种效果影响的生物，在任何光线条件下都清晰可见，并且不会从任何隐蔽、魔法和其他效果中获得任何好处。<\/p><p>光线没有亮到会使那些对光脆弱的亡灵或生物产生影响的地步。<\/p><p>屏障内的生物可以自由离开，没有任何惩罚，不过它们如果试图再次进入则会受到如同上述的待遇。<\/p><p>如果屏障中心的火源熄灭或被移动，法术结束。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你以一个至少为营火规模的火源为中心，创造了一个球形的屏障，只要火源还在燃烧，就能为其中的生物提供庇护。屏障是由清晰可见的火与光芒构成，并且提供等于一个火炬的照明范围。<\/p><p>屏障将会遮断效果线，使屏障两侧的生物互相视为全隐蔽。任何从外部试图进入屏障内部的生物都会受到1d6点火焰伤害，并且会被一层等同火炬亮度的光芒勾勒出轮廓，持续1d6分钟。被这种效果影响的生物，在任何光线条件下都清晰可见，并且不会从任何隐蔽、魔法和其他效果中获得任何好处。<\/p><p>光线没有亮到会使那些对光脆弱的亡灵或生物产生影响的地步。<\/p><p>屏障内的生物可以自由离开，没有任何惩罚，不过它们如果试图再次进入则会受到如同上述的待遇。<\/p><p>如果屏障中心的火源熄灭或被移动，法术结束。<\/p>"
 }

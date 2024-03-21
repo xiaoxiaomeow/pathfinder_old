@@ -1,23 +1,32 @@
 {
     "key": "bestow curse, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bestow-curse/",
     "name": "Bestow Curse, Greater",
-    "base": "bestow curse",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bestow%20Curse,%20Greater",
+    "source": ["Pathfinder #82: Secrets of the Sphinx pg. 75"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 8,
         "cleric": 7,
-        "sorcerer/wizard": 8,
-        "witch": 7
+        "oracle": 7,
+        "sorcerer": 8,
+        "witch": 7,
+        "wizard": 8
     },
-    "subdomains": {"corruption": 6},
-    "text": "<\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "permanent",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "You place a curse on the subject. Choose one of the following. <ul><li>–12 penalty to an ability score, or –6 penalty to two ability scores (to a minimum ability score of 1).<\/li><li>–8 penalty on attack rolls, saves, ability checks, and skill checks.<\/li><li>Each turn, the target has a 25% chance to act normally; otherwise, it takes no actions.<\/li><li>Bestow one of the curses or variants in this article.<\/li><li>Bestow curse of the ages or unluck (<i>Core Rulebook<\/i> 557).<\/li><\/ul> If a specific affliction is bestowed, the save DC of the spell replaces the usual save DC of the affliction. You can also invent your own curse, but it should be no more powerful than those described above.<br><br> The curse bestowed by this spell cannot be dispelled, but it can be removed with a <i>break enchantment<\/i>, <i>limited wish<\/i>, <i>miracle<\/i>, or <i>wish<\/i> spell. It cannot be removed with <i>remove curse<\/i> or suppressed with <i>abeyance<\/i>. The DC to remove the curse with <i>break enchantment<\/i> increases by 5.",
     "name_zh": "高等降咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
+    "range_zh": "接触",
     "target_zh": "接触到的生物",
     "duration_zh": "永久",
-    "savingThrow_zh": "意志无效",
+    "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你对受术者降下诅咒。从后述效果中选择一项：\n一项属性值受到-12减值，或两项属性值受到-6减值（最低降至1点）。 \n攻击投骰、豁免、属性检定以及技能检定受到-8减值。 \n每回合目标只有25%概率能正常行动；否则它无法进行动作。 \n施加本文（this article，是啥我也不知道）中的诅咒或变体之一。 \n施加岁月诅咒或厄运（《核心规则书》557页）。\n如果被施加了特定的苦难，法术的豁免DC将取代该苦难的通常豁免DC。你也可以创造出你自己的诅咒，但它不应该比上面描述的这些效果更强。\n该法术所施加的诅咒不能被解除，但可以用破除结界、有限祈愿术、神迹术或祈愿术来移除。它不能被移除诅咒移除或被延缓诅咒压制。使用破除结界移除这一诅咒的DC增加5点。<\/p>",
-    "source": "AP-MM"
+    "text_zh": "<p>你对受术者降下诅咒。从后述效果中选择一项：<\/p><p>一项属性值受到-12减值，或两项属性值受到-6减值（最低降至1点）。<\/p><p>攻击投骰、豁免、属性检定以及技能检定受到-8减值。<\/p><p>每回合目标只有25%概率能正常行动；否则它无法进行动作。<\/p><p>施加本文（this article，是啥我也不知道）中的诅咒或变体之一。<\/p><p>施加岁月诅咒或厄运（《核心规则书》557页）。<\/p><p>如果被施加了特定的苦难，法术的豁免DC将取代该苦难的通常豁免DC。你也可以创造出你自己的诅咒，但它不应该比上面描述的这些效果更强。<\/p><p>该法术所施加的诅咒不能被解除，但可以用破除结界、有限祈愿术、神迹术或祈愿术来移除。它不能被移除诅咒移除或被延缓诅咒压制。使用破除结界移除这一诅咒的DC增加5点。<\/p>"
 }

@@ -1,22 +1,24 @@
 {
     "key": "play instrument",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/play-instrument/",
     "name": "Play Instrument",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Play%20Instrument",
+    "source": ["Ultimate Magic pg. 231"],
     "school": "divination",
-    "levels": {"bard": 1},
+    "levels":     {
+        "bard": 1,
+        "skald": 1
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "10 min./level",
-    "text": "<p>You may play one instrument of your choice as if you had 1 rank in the appropriate Perform skill. Instead of a conventional instrument, you may use an object as an improvised instrument, such as using a barrel as a drum or a bow as a harp, playing it as if it were crafted to make music.<\/p>",
+    "duration": "10 minute/level",
+    "text": "You may play one instrument of your choice as if you had 1 rank in the appropriate Perform skill. Instead of a conventional instrument, you may use an object as an improvised instrument, such as using a barrel as a drum or a bow as a harp, playing it as if it were crafted to make music.",
     "name_zh": "即兴演奏",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "10分钟/等级",
-    "text_zh": "<p>持续时间    10分钟/等级<\/p><p>你可以使用一种你所选择的乐器演奏，就好像你在与其对应的表演技能上有1级一样。作为对普通乐器的替代品，你可以使用其他物体作为简易乐器使用，比如将木桶作为鼓，或者将弓作为竖琴演奏，就如同它们本身被制作成用于演奏的器具一般。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>持续时间    10分钟/等级<\/p><p>你可以使用一种你所选择的乐器演奏，就好像你在与其对应的表演技能上有1级一样。作为对普通乐器的替代品，你可以使用其他物体作为简易乐器使用，比如将木桶作为鼓，或者将弓作为竖琴演奏，就如同它们本身被制作成用于演奏的器具一般。<\/p>"
 }

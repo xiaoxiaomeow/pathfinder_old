@@ -1,28 +1,29 @@
 {
     "key": "spirit bonds",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spirit-bonds/",
     "name": "Spirit Bonds",
-    "book": "Pathfinder Player Companion: Divine Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spirit%20Bonds",
+    "source": ["Divine Anthology pg. 13"],
     "school": "divination",
     "descriptors": ["meditative"],
     "levels":     {
+        "arcanist": 3,
         "cleric": 3,
         "shaman": 3,
+        "warpriest": 3,
         "witch": 3,
         "wizard": 3
     },
     "castingTime": "1 hour",
     "components": "V, M (soothing incense worth 300 gp)",
     "range": "personal",
-    "target": "you; see text",
+    "target": "you",
     "duration": "24 hours or until discharged",
-    "text": "<p>You heighten your awareness of up to one willing creature or object per 3 caster levels, each of which must be within 30 feet of you during the entire hour you spend preparing spells and casting spirit bonds. By concentrating on one of these creatures or objects as a full-round action, you can learn its direction and relative distance from your location, provided that it is on the same plane. In the case of a creature, you can also learn the state of its emotion or health aura as a full-round action. In the case of an object, you can also get a sense of how damaged it is, similar to reading the health aura of a creature, or, in the case of a magic item that must be activated, you can learn when it was last activated (a full-round action in either case).<\/p><p>Additionally, at any time during the spell's duration, you can deliver a single message to any of the creatures that participated in the spell. This message is delivered telepathically regardless of range and can be up to 25 words in length. Delivering a message in this way severs your connection with that character, and you can no longer learn information about that creature through this spell, but doing so does not impact the remaining duration you have linked to other creatures or objects.<\/p>",
+    "text": "You heighten your awareness of up to one willing creature or object per 3 caster levels, each of which must be within 30 feet of you during the entire hour you spend preparing spells and casting <i>spirit bonds<\/i>. By concentrating on one of these creatures or objects as a full-round action, you can learn its direction and relative distance from your location, provided that it is on the same plane. In the case of a creature, you can also learn the state of its emotion or health aura as a full-round action (see page 198 of <i>Pathfinder RPG Occult Adventures<\/i> for more information about auras). In the case of an object, you can also get a sense of how damaged it is, similar to reading the health aura of a creature, or, in the case of a magic item that must be activated, you can learn when it was last activated (a full-round action in either case).<br><br> Additionally, at any time during the spell’s duration, you can deliver a single message to any of the creatures that participated in the spell. This message is delivered telepathically regardless of range and can be up to 25 words in length. Delivering a message in this way severs your connection with that character, and you can no longer learn information about that creature through this spell, but doing so does not impact the remaining duration you have linked to other creatures or objects.",
     "name_zh": "精魂之契",
-    "castingTime_zh": "1小时",
+    "castingTime_zh": "1小声",
     "components_zh": "语言，材料（价值300gp的舒缓香料）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己；见下文",
-    "duration_zh": "24小时或直到被释放",
-    "text_zh": "<p>你提高自己对最多每3施法者等级一个的自愿生物或物品的意识，他们中的每一个都必须在你准备法术和施展精魂之契的时间内处于你身旁30英尺以内。通过以一个整轮动作来专注于其中一个生物或物品，你可以知晓他的方向与相对距离，只要你们处于同一位面。对于一个生物，你也可以用一个整轮动作来知晓他的情绪状态或健康灵光（见异能冒险198页中关于灵光的更多信息）。对于一个物品，你同样可以了解它的损坏情况，类似于阅读一个生物的健康灵光，或者对于一件必须被激活的魔法物品而言，你可以知道它上一次被激活是什么时候（两种情况都是整轮动作）。此外，在法术持续期间，你可以向参与法术的任何生物传递一个信息。这条消息是通过心灵感应传递的，无视距离，最多可达25个词。通过这种方式传递一条信息会切断你与该人物的联系，你不能再通过此法术知晓该生物的信息，但这样做不会影响到你与其他生物或物体的链接的剩余持续时间。<\/p>",
-    "source": "PC-DA"
+    "duration_zh": "24小时, 或直到消解",
+    "text_zh": "<p>你提高自己对最多每3施法者等级一个的自愿生物或物品的意识，他们中的每一个都必须在你准备法术和施展精魂之契的时间内处于你身旁30英尺以内。通过以一个整轮动作来专注于其中一个生物或物品，你可以知晓他的方向与相对距离，只要你们处于同一位面。对于一个生物，你也可以用一个整轮动作来知晓他的情绪状态或健康灵光（见异能冒险198页中关于灵光的更多信息）。对于一个物品，你同样可以了解它的损坏情况，类似于阅读一个生物的健康灵光，或者对于一件必须被激活的魔法物品而言，你可以知道它上一次被激活是什么时候（两种情况都是整轮动作）。此外，在法术持续期间，你可以向参与法术的任何生物传递一个信息。这条消息是通过心灵感应传递的，无视距离，最多可达25个词。通过这种方式传递一条信息会切断你与该人物的联系，你不能再通过此法术知晓该生物的信息，但这样做不会影响到你与其他生物或物体的链接的剩余持续时间。<\/p>"
 }

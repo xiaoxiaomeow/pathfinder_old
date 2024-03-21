@@ -1,35 +1,34 @@
 {
     "key": "forced repentance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/forced-repentance/",
     "name": "Forced Repentance",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Forced%20Repentance",
+    "source": ["Advanced Player's Guide pg. 224"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "inquisitor": 4,
         "paladin": 4
     },
-    "subdomains": {"redemption": 4},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one evil creature without the evil subtype",
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You force an evil creature that does not have the evil subtype to momentarily reflect on its past actions and be overcome by grief and conscience. The target immediately drops prone and begins to loudly confess all of its sins and transgressions to the caster for the duration of the spell. The spell immediately ends if you move out of line of sight or if the target is attacked.<\/p>",
+    "text": "You force an evil creature that does not have the evil subtype to momentarily reflect on its past actions and be overcome by grief and conscience. The target immediately drops prone and begins to loudly confess all of its sins and transgressions to the caster for the duration of the spell. The spell immediately ends if you move out of line of sight or if the target is attacked.",
     "name_zh": "强制忏悔",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名不属于邪恶子类邪恶生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你强制一名不属于邪恶子类的邪恶生物立刻回想他过去的行为，并且被悲伤和良心所压倒。目标会立即俯卧在地，并在法术持续时间内一直高声忏悔他之前所犯下的所有恶行以及罪过。如果你移出与目标的视觉线或者目标受到攻击的话，该法术立刻结束。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你强制一名不属于邪恶子类的邪恶生物立刻回想他过去的行为，并且被悲伤和良心所压倒。目标会立即俯卧在地，并在法术持续时间内一直高声忏悔他之前所犯下的所有恶行以及罪过。如果你移出与目标的视觉线或者目标受到攻击的话，该法术立刻结束。<\/p>"
 }

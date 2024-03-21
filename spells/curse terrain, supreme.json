@@ -1,30 +1,34 @@
 {
     "key": "curse terrain, supreme",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-terrain/",
     "name": "Curse Terrain, Supreme",
-    "base": "curse terrain",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse%20Terrain,%20Supreme",
+    "source": ["Horror Adventures pg. 115"],
     "school": "necromancy",
     "descriptors":     [
         "curse",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 8,
         "cleric": 8,
         "druid": 8,
+        "oracle": 8,
         "shaman": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
+    "castingTime": "10 minutes",
     "components": "V, S, M (the heart of a creature that dwelled in the area and powdered onyx worth 4,000 gp)",
     "range": "touch",
     "area": "5-mile radius emanating from the touched point",
-    "text": "<p>By touching the ground, you curse the land with seven unnatural hazards. This functions as lesser curse terrain, but with the effects of the grand perilous demesne curse.<\/p><\/div>",
+    "duration": "1 day (D)",
+    "text": "By touching the ground, you curse the land with seven unnatural hazards. This functions as <i>lesser curse terrain<\/i>, but with the effects of the grand perilous demesne curse (see page 144).<h2 class=\"title\">Perilous Demesne, Grand<\/h2><b>Type<\/b> regional curse; <b>Area<\/b> 18-mile-radius emanation; <b>Save<\/b> Will DC 22 to remove<br><br><b>Effect<\/b> As per major perilous demesne (see page 145), except up to seven hazards, each of CR 14 or less, imperil creatures in the area. The hazards are arranged so that if any are encountered together, the encounter’s effective CR from hazards must be no more than 15 (for instance, two CR 13 hazards could be encountered together). <br><br><b>Cure<\/b> <i>Remove curse<\/i> removes a grand perilous demesne only if followed by a casting of <i>hallow<\/i> at the effect’s center, and then casting <i>disintegrate<\/i> on each of the hazards before the next nightfall or midnight.",
     "name_zh": "超级诅咒地形",
-    "castingTime_zh": "语言、姿势、材料 (一颗居住在此地区生物的心脏，以及价值4000gp的玛瑙粉末)",
+    "castingTime_zh": "10分钟",
     "range_zh": "接触",
     "area_zh": "从接触的点向外弥漫半径5哩 ",
-    "text_zh": "<p>透过触摸大地，你令七个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是超等危险地域诅咒(见Page.144)。<\/p>",
-    "source": "HA"
+    "duration_zh": "1天 (可解消)",
+    "text_zh": "<p>透过触摸大地，你令七个超自然危机诅咒这片土地。此法术如同次级诅咒地形(lesser curse terrain)般作用，但效果是超等危险地域诅咒(见Page.144)。<\/p>"
 }

@@ -1,13 +1,16 @@
 {
     "key": "giant vermin",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/giant-vermin/",
     "name": "Giant Vermin",
-    "book": "Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Giant%20Vermin",
+    "source": ["PRPG Core Rulebook pg. 290"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 4,
+        "cleric": 4,
         "druid": 4,
-        "shaman": 4
+        "hunter": 4,
+        "oracle": 4,
+        "shaman": 4,
+        "warpriest": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -15,15 +18,16 @@
     "duration": "1 min./level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You turn a number of normal-sized centipedes, scorpions, or spiders into their giant counterparts. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider). The number of vermin which can be affected by this spell depends on your caster level, as noted on the table below.<\/p><table border=\"1\" cellpadding=\"5\">  <thead>   <tr>    <th class=\"text\">Caster Level<\/th>    <th class=\"text\">Centipedes<\/th>    <th class=\"text\">Scorpions<\/th>    <th class=\"text\">Spiders<\/th>   <\/tr>  <\/thead>  <tbody>   <tr>    <td class=\"text\">9th or lower<\/td>    <td class=\"number\">3<\/td>    <td class=\"number\">1<\/td>    <td class=\"number\">2<\/td>   <\/tr>   <tr>    <td class=\"number\">10th-13th<\/td>    <td class=\"number\">4<\/td>    <td class=\"number\">2<\/td>    <td class=\"number\">3<\/td>   <\/tr>   <tr>    <td class=\"number\">14th-17th<\/td>    <td class=\"number\">6<\/td>    <td class=\"number\">3<\/td>    <td class=\"number\">4<\/td>   <\/tr>   <tr>    <td class=\"number\">18th-19th<\/td>    <td class=\"number\">8<\/td>    <td class=\"number\">4<\/td>    <td class=\"number\">5<\/td>   <\/tr>   <tr>    <td class=\"text\">20th or higher<\/td>    <td class=\"number\">12<\/td>    <td class=\"number\">6<\/td>    <td class=\"number\">8<\/td>   <\/tr>  <\/tbody> <\/table><p>Giant vermin created by this spell do not attempt to harm you, but your control of such creatures is limited to simple commands (&#8220;Attack,&#8221; &#8220;Defend,&#8221; &#8220;Stop,&#8221; and so forth). Orders to attack a certain creature when it appears or guard against a particular occurrence are too complex for the vermin to understand. Unless commanded to do otherwise, the giant vermin attack whomever or whatever is near them.<\/p>",
+    "text": "You turn a number of normal-sized centipedes, scorpions, or spiders into their giant counterparts. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider). The number of vermin which can be affected by this spell depends on your caster level, as noted on the table below.<br><br>Giant vermin created by this spell do not attempt to harm you, but your control of such creatures is limited to simple commands (“Attack,” “Defend,” “Stop,” and so forth). Orders to attack a certain creature when it appears or guard against a particular occurrence are too complex for the vermin to understand. Unless commanded to do otherwise, the giant vermin attack whomever or whatever is near them.<br><br><table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td><b>Centipedes<\/b><\/td><td><b>Scorpions<\/b><\/td><td><b>Spiders<\/b><\/td><\/tr><tr><td>9th or lower<\/td><td>3<\/td><td>1<\/td><td>2<\/td><\/tr><tr><td>10th-13th<\/td><td>4<\/td><td>2<\/td><td>3<\/td><\/tr><tr><td>14th-17th<\/td><td>6<\/td><td>3<\/td><td>4<\/td><\/tr><tr><td>18th-19th<\/td><td>8<\/td><td>4<\/td><td>5<\/td><\/tr><tr><td>20th or higher<\/td><td>12<\/td><td>6<\/td><td>8<\/td><\/tr><\/table><h2 class=\"title\">Mythic Giant Vermin<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 96<\/i><br>The vermin you transform with this spell gain DR 5/magic and either the advanced creature template or the giant creature template (<i>Pathfinder RPG Bestiary<\/i> 294, 295). <br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, any vermin you transform also gains either the agile (see page 224) or savage mythic template (see page 224) while the spell lasts.<br><br> If you’re at least 9th tier and expend three uses of mythic power, the duration changes to instantaneous, meaning the vermin retain their giant size. After a number of days equal to your tier, you lose control over the vermin unless you have some other way of controlling them, and they lose the agile or savage mythic template but retain the advanced or giant creature template. ",
+    "mythicSource": ["Mythic Adventures pg. 96"],
+    "mythicText": "The vermin you transform with this spell gain DR 5/magic and either the advanced creature template or the giant creature template (<i>Pathfinder RPG Bestiary<\/i> 294, 295). <br><br><b>Augmented (6th)<\/b>: If you expend two uses of mythic power, any vermin you transform also gains either the agile (see page 224) or savage mythic template (see page 224) while the spell lasts.<br><br> If you’re at least 9th tier and expend three uses of mythic power, the duration changes to instantaneous, meaning the vermin retain their giant size. After a number of days equal to your tier, you lose control over the vermin unless you have some other way of controlling them, and they lose the agile or savage mythic template but retain the advanced or giant creature template. ",
     "name_zh": "巨虫术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一只或更多虫子, 任意两者之间的距离不超过30尺",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你能够将一些正常体型的蜈蚣 (centipedes)、蝎子 (scorpions) 或蜘蛛 (spiders) 变为巨大化的对应版本 (即图鉴中名称为giant的对应虫子)。你只能转变一类虫子 (因此单次施法不能同时影响一只蜈蚣和一只蜘蛛)。你能够使用该法术影响的虫子数量取决于你的CL，详见下表。<\/p><p>通过该法术创造的任何巨虫都不会尝试伤害你，但是你只能用有限的简单命令来控制这些生物 (“攻击”、“防御”、“停止”等等)。在特定生物出现时对其攻击或者防止特定事件发生之类的命令，对于虫子都太过复杂而无法理解。除非另有命令，否则巨虫会攻击任何靠近它们的东西。\nCL\n 蜈蚣\n 蝎子\n 蜘蛛\n9以下\n 3\n 1\n 2\n10 – 13\n 4\n 2\n 3\n14 – 17\n 6\n 3\n 4\n18 – 19\n 8\n 4\n 5\n20以上\n 12\n 6\n 8<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你能够将一些正常体型的蜈蚣 (centipedes)、蝎子 (scorpions) 或蜘蛛 (spiders) 变为巨大化的对应版本 (即图鉴中名称为giant的对应虫子)。你只能转变一类虫子 (因此单次施法不能同时影响一只蜈蚣和一只蜘蛛)。你能够使用该法术影响的虫子数量取决于你的CL，详见下表。<\/p><p>通过该法术创造的任何巨虫都不会尝试伤害你，但是你只能用有限的简单命令来控制这些生物 (“攻击”、“防御”、“停止”等等)。在特定生物出现时对其攻击或者防止特定事件发生之类的命令，对于虫子都太过复杂而无法理解。除非另有命令，否则巨虫会攻击任何靠近它们的东西。<\/p><p>CL 蜈蚣 蝎子 蜘蛛<\/p><p>9以下 3 1 2<\/p><p>10 – 13 4 2 3<\/p><p>14 – 17 6 3 4<\/p><p>18 – 19 8 4 5<\/p><p>20以上 12 6 8<\/p>"
 }

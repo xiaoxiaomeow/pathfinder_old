@@ -1,0 +1,22 @@
+{
+    "key": "suffocation, slow",
+    "name": "Suffocation, Slow",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Suffocation,%20Slow",
+    "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
+    "school": "necromancy",
+    "descriptors": ["death"],
+    "levels": {"sahirafiyun": 2},
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 minute/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "The target is unable to breathe and is treated as if she is holding her breath (see the rules for suffocation). Strong stimulants, effects that increase the target’s Constitution, or physical trauma (such as taking 10 or more points of damage from a single attack) negate the spell immediately. Creatures that do not need to breathe are immune to this spell. The target is considered to have taken a dose of pesh for the purpose of addiction and withdrawal effects. Canny sahir use this spell to subtly kill enemies, as the spell mimics a pesh overdose.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可"
+}

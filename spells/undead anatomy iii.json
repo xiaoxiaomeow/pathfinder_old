@@ -1,18 +1,28 @@
 {
     "key": "undead anatomy iii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/undead-anatomy-i/",
     "name": "Undead Anatomy III",
-    "base": "undead anatomy",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Undead%20Anatomy%20III",
+    "source": ["Ultimate Magic pg. 245"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
+        "arcanist": 6,
+        "investigator": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "wizard": 6
     },
-    "text": "<p>This spell functions as undead anatomy II, except it also allows you to assume the form of a Diminutive or Huge corporeal creature of the undead type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, disease, DR 5/—, fear aura, grab, jet, natural cunning, overwhelming, poison, pounce, rake, trample, trip, unnatural aura, and web.<\/p><p>If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has vulnerability to an energy type, you gain that vulnerability. In this form, you gain a +8 bonus on saves against mind-affecting effects, disease, poison, sleep, and stunning. If the form has a vulnerability to an attack (such as sunlight), you gain that vulnerability.<\/p><ul>   <li><b>Diminutive undead<\/b>: If the form you take is that of a Diminutive undead, you gain a +6 size bonus to your Dexterity, a –4 penalty to your Strength, and a +1 natural armor bonus.<\/li>   <li><b>Huge undead<\/b>: If the form you take is that of a Huge undead, you gain a +6 size bonus to your Strength, a –4 penalty to your Dexterity, and a +6 natural armor bonus.<\/li>  <\/ul>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "This spell functions as <i>undead anatomy II<\/i>, except it also allows you to assume the form of a Diminutive or Huge corporeal creature of the undead type. If the form you assume has any <br><br>of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, disease, DR 5/—, fear aura, grab, jet, natural cunning, overwhelming, poison, pounce, rake, trample, trip, unnatural aura, and web.<br><br>If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has vulnerability to an energy type, you gain that vulnerability. In this form, you gain a +8 bonus on saves against mind-affecting effects, disease, poison, sleep, and stunning. If the form has a vulnerability to an attack (such as sunlight), you gain that vulnerability.<br><br><i>Diminutive undead<\/i>: If the form you take is that of a Diminutive undead, you gain a +6 size bonus to your Dexterity, a –4 penalty to your Strength, and a +1 natural armor bonus.<br><br><i>Huge undead<\/i>: If the form you take is that of a Huge undead, you gain a +6 size bonus to your Strength, a –4 penalty to your Dexterity, and a +6 natural armor bonus.",
     "name_zh": "亡灵形态III",
-    "text_zh": "<p>这个法术工作方式类似亡灵形态II (Undead Anatomy II)，不过它允许你选择微型或超大型的实体不死生物形态。<\/p><p>如果你选择的形态拥有下列能力，你获得它们：30尺掘洞，90尺攀爬，90尺飞行 (良好机动性)，90尺游泳，全域视野 (all-around vision)，30尺盲感，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，收缩 (constrict)，疾病 (disease)，DR5/-，恐惧灵气 (fear aura)，攫取 (grab)，喷射推进 (jet)，自然狡诈 (natural cunning)，压倒 (overwhelming)，毒素 (poison)，猛扑 (pounce)，耙抓 (rake)，践踏 (trample)，摔绊 (trip)，超自然灵气 (unnatural aura) 和织网 (web)。<\/p><p>如果该生物拥有任何种类的能量抗力或免疫，你获得对应能量种类的20点抗力。<\/p><p>如果该生物对一种能量种类脆弱，你获得该弱点。<\/p><p>在这种形态下，你在对抗影响心智效果、疾病、毒素、睡眠和震慑的豁免检定中有+8加值。<\/p><p>如果该形态对某些攻击脆弱 (例如对阳光)，你获得该弱点。\n－微型不死生物：如果你选择的是一个微型不死生物，你的敏捷获得+6体型加值，力量获得-4罚值，+1天生护甲。\n－超大型不死生物：如果你选择是一个超大型不死生物，你的力量获得+6体型加值，敏捷获得-4罚值，+6天生护甲。<\/p>",
-    "source": "UM"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "text_zh": "<p>这个法术工作方式类似亡灵形态II (Undead Anatomy II)，不过它允许你选择微型或超大型的实体不死生物形态。<\/p><p>如果你选择的形态拥有下列能力，你获得它们：30尺掘洞，90尺攀爬，90尺飞行 (良好机动性)，90尺游泳，全域视野 (all-around vision)，30尺盲感，60尺黑暗视觉，昏暗视觉，嗅觉敏锐，收缩 (constrict)，疾病 (disease)，DR5/-，恐惧灵气 (fear aura)，攫取 (grab)，喷射推进 (jet)，自然狡诈 (natural cunning)，压倒 (overwhelming)，毒素 (poison)，猛扑 (pounce)，耙抓 (rake)，践踏 (trample)，摔绊 (trip)，超自然灵气 (unnatural aura) 和织网 (web)。<\/p><p>如果该生物拥有任何种类的能量抗力或免疫，你获得对应能量种类的20点抗力。<\/p><p>如果该生物对一种能量种类脆弱，你获得该弱点。<\/p><p>在这种形态下，你在对抗影响心智效果、疾病、毒素、睡眠和震慑的豁免检定中有+8加值。<\/p><p>如果该形态对某些攻击脆弱 (例如对阳光)，你获得该弱点。<\/p><p>－微型不死生物：如果你选择的是一个微型不死生物，你的敏捷获得+6体型加值，力量获得-4罚值，+1天生护甲。<\/p><p>－超大型不死生物：如果你选择是一个超大型不死生物，你的力量获得+6体型加值，敏捷获得-4罚值，+6天生护甲。<\/p>"
 }

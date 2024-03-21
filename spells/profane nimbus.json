@@ -1,27 +1,28 @@
 {
     "key": "profane nimbus",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/profane-nimbus/",
     "name": "Profane Nimbus",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Profane%20Nimbus",
+    "source": ["Horror Adventures pg. 125"],
     "school": "evocation",
     "descriptors": ["evil"],
     "levels":     {
         "antipaladin": 4,
         "cleric": 5,
-        "inquisitor": 5
+        "inquisitor": 5,
+        "oracle": 5,
+        "warpriest": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
-    "duration": "1 round/level (d)",
-    "text": "<p>You are surrounded by a nimbus of shadow shaped like your god's unholy symbol or a symbol of your faith. Any good creature striking you with unarmed strikes, natural weapons, or a handheld weapon deals normal damage, but at the same time, the attacker takes 1d6 points of damage + 1 point per caster level (maximum +15).<\/p><p>Creatures wielding melee weapons with reach are not subject to this damage if they attack you. Spell resistance applies against this damage. You also take half damage from magical attacks with the good descriptor. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "You are surrounded by a nimbus of shadow shaped like your god’s unholy symbol or a symbol of your faith. Any good creature striking you with unarmed strikes, natural weapons, or a handheld weapon deals normal damage, but at the same time, the attacker takes 1d6 points of damage + 1 point per caster level (maximum +15). Creatures wielding melee weapons with reach are not subject to this damage if they attack you. Spell resistance applies against this damage. You also take half damage from magical attacks with the good descriptor. If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.",
     "name_zh": "亵渎光环",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级 (D) ",
-    "text_zh": "<p>你被一团阴影的光环包围，形状像是你信仰的神的邪恶象征或是你信仰的象征。任何使用徒手击打、天生武器或一件以手持握的武器攻击你的善良生物，对你造成正常的伤害，但与此同时，攻击者会受到1d6点+1点/施法者等级的伤害(最大+15)。使用长近战武器的生物攻击你时并不会受到这些伤害。法术抗力能用来对抗这些伤害。你也可以将拥有善良描述符的魔法攻击的伤害减半。如果这种攻击可以通过反射豁免检定来让伤害减半的话，那么你成功通过豁免检定会完全无伤。<\/p>",
-    "source": "HA"
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p>你被一团阴影的光环包围，形状像是你信仰的神的邪恶象征或是你信仰的象征。任何使用徒手击打、天生武器或一件以手持握的武器攻击你的善良生物，对你造成正常的伤害，但与此同时，攻击者会受到1d6点+1点/施法者等级的伤害(最大+15)。使用长近战武器的生物攻击你时并不会受到这些伤害。法术抗力能用来对抗这些伤害。你也可以将拥有善良描述符的魔法攻击的伤害减半。如果这种攻击可以通过反射豁免检定来让伤害减半的话，那么你成功通过豁免检定会完全无伤。<\/p>"
 }

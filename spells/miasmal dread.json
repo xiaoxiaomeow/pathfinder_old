@@ -1,20 +1,22 @@
 {
     "key": "miasmal dread",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/miasmal-dread/",
     "name": "Miasmal Dread",
-    "book": "Pathfinder Campaign Setting: Inner Sea Races © 2015, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Miasmal%20Dread",
+    "source": ["Inner Sea Races pg. 221"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
+    "race": "Half-Orc",
     "levels":     {
         "antipaladin": 2,
         "bard": 2,
         "bloodrager": 2,
-        "inquisitor": 3
+        "inquisitor": 3,
+        "skald": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -23,13 +25,17 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone. Attempt a single Intimidate check to demoralize as part of casting the spell, comparing the result against the DC to Intimidate each foe within the area. You demoralize all foes whose DC you meet or exceed.<\/p>",
+    "text": "A cloud of sickly green mist pours from your mouth and coalesces around creatures in the cone. Attempt a single Intimidate check to demoralize as part of casting the spell, comparing the result against the DC to Intimidate each foe within the area. You demoralize all foes whose DC you meet or exceed.",
     "name_zh": "恐惧喷发",
+    "race_zh": "Half-Orc",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "area_zh": "30英尺锥形",
+    "range_zh": "30尺",
+    "effect_zh": "一只乌鸦",
+    "target_zh": "自身",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你进行一次DC为法术DC的威吓检定以挫败区域内所有目标的士气。<\/p>",
-    "source": "CS-ISR"
+    "text_zh": "<p>大量翻腾的岩石和泥土沿着法术区域内的地面散落，对区域内地面上的所有生物造成每 2 个施法者等级1d6点挥砍伤害（最多5d6），即使豁免成功也是如此。法术区域内未通过反射豁免的生物会倒地为俯卧，并被撞到法术区域最近的边缘处，每被撞出10英尺就会受到 1d6点的钝击伤害。在上一轮中没有移动的生物和具有稳固（stability）种族特性的生物在豁免检定上获得+4加值。<\/p>"
 }

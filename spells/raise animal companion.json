@@ -1,12 +1,13 @@
 {
     "key": "raise animal companion",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/raise-animal-companion/",
     "name": "Raise Animal Companion",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Raise%20Animal%20Companion",
+    "source": ["Ultimate Magic pg. 233"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "levels":     {
         "druid": 5,
+        "hunter": 4,
         "paladin": 4,
         "ranger": 4
     },
@@ -17,15 +18,14 @@
     "duration": "instantaneous",
     "savingThrow": "none, see text",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell functions as raise dead, but it only affects an animal companion, familiar, or paladin's bonded mount.<\/p>",
+    "text": "This spell functions as <i>raise dead<\/i>, but it only affects an animal companion, familiar, or paladin’s bonded mount.",
     "name_zh": "友伴复活",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势, 材料 (价值1000gp的钻石)",
     "range_zh": "接触",
     "target_zh": "死亡的动物伙伴或者神契坐骑",
     "duration_zh": "立即",
-    "savingThrow_zh": "无，见下文",
+    "savingThrow_zh": "无, 见文本",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同死者复活 (raise dead) 一般作用，但是只对动物伙伴、魔宠或圣骑士的神契坐骑生效。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>该法术如同死者复活 (raise dead) 一般作用，但是只对动物伙伴、魔宠或圣骑士的神契坐骑生效。<\/p>"
 }

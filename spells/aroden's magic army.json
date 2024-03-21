@@ -1,12 +1,14 @@
 {
     "key": "aroden's magic army",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/magic-army/",
     "name": "Aroden's Magic Army",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Aroden's%20Magic%20Army",
+    "source": ["Arcane Anthology pg. 7"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 7,
         "shaman": 8,
-        "sorcerer/wizard": 7
+        "sorcerer": 7,
+        "wizard": 7
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
@@ -14,15 +16,14 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p>You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhancement bonus on attack rolls and damage rolls per 5 caster levels (maximum +4).<\/p>",
+    "text": "You imbue all manufactured weapons carried by allies within range with magic, granting each weapon a +1 enhancement bonus on attack rolls and damage rolls per 5 caster levels (maximum +4).",
     "name_zh": "奥罗登的魔法军势",
     "castingTime_zh": "标准动作",
     "components_zh": "言语，姿势，法器",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "由盟友携带的武器",
     "duration_zh": "1小时/等级",
-    "savingThrow_zh": "意志，通过则无效（无害，物品）",
-    "spellResistance_zh": "有（无害，物品）",
-    "text_zh": "<p>你向距离内盟友携带的所有人造武器都灌注入魔法，让每一把武器在攻击骰和伤害骰上获得+1增强加值每5施法者等级（最多+4）。\n艾奥梅黛和密拉妮的牧师可以将奥罗登的魔法军势（Aroden's magic army）作为8级法术来准备。<\/p>",
-    "source": "PC-AAnth"
+    "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p>你向距离内盟友携带的所有人造武器都灌注入魔法，让每一把武器在攻击骰和伤害骰上获得+1增强加值每5施法者等级（最多+4）。<\/p><p>艾奥梅黛和密拉妮的牧师可以将奥罗登的魔法军势（Aroden's magic army）作为8级法术来准备。<\/p>"
 }

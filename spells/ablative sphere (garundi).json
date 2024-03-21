@@ -1,0 +1,29 @@
+{
+    "key": "ablative sphere (garundi)",
+    "name": "Ablative Sphere (Garundi)",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ablative%20Sphere%20(Garundi)",
+    "source": ["Humans of Golarion pg. 28"],
+    "school": "abjuration",
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a crystalline sphere worth 10 gp)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 minute/level (D)",
+    "text": "The Garundi tenaciously protect their homes, and through the years they have perfected magic to aid them in their defense. An immobile, crystalline, weblike globe surrounds you.<br><br>When the <i>ablative sphere<\/i> winks into existence, it provides you with improved cover (<i>Pathfinder RPG Core Rulebook<\/i> 196). The barrier does not impede a spell’s line of sight or effect.<br><br>The sphere is 1 inch thick per caster level, has hardness 5, and 3 hit points per inch of thickness. When an <i>ablative sphere<\/i> loses hit points, the level of cover it provides is reduced. When the <i>ablative sphere<\/i> has lost one-third of its hit points, it provides cover instead of improved cover. Once it has lost two-thirds of its hit points, it provides only partial cover. Finally, when the <i>ablative sphere<\/i>’s hit points reach 0, the globe is destroyed. When an attack reduces an <i>ablative sphere<\/i>’s hit points to 0, you take any remaining damage.",
+    "name_zh": "夺离法球",
+    "race_zh": "加隆德人",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料 (一颗价值10gp的水晶球)",
+    "range_zh": "个人",
+    "effect_zh": "召唤一个生物",
+    "target_zh": "自己",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "反射，通过则减半",
+    "spellResistance_zh": "有",
+    "text_zh": "<p>比起遥远位面的神祇，休盎提人更崇敬动物与在他们家乡崎岖大地之上的自然之力。休盎提的施法者已经学会如何在需要时呼唤他们部落图腾生物的力量。一位角色必须是出身休盎提，并且被认为是部落的一份子才能施展此法术。角色们通过此法术仅能召唤他们部落所崇敬的生物，如下表所列。除了以上所写，此法术如同召唤自然盟友III(summon nature’s ally III)般作用。<\/p><p>莱卢恩-郭[月之部族]（Lyrune-Quah [Moon clan]）：气元素(小型)、1d3个蝙蝠、狼、1d3只猫头鹰。<\/p><p>夏德-郭[斧之部族]（Shadde-Quah [Axe Clan]）：1d3只老鹰、土元素(小型)、水元素(小型)。<\/p><p>希瑞依奇利-郭[鹰之部族]（Shriikirri-Quah [Hawk Clan]）：气元素(小型)、1d3+1只鹰(魔宠)、马<\/p><p>香达-郭[塔之部族]（Shundar-Quah [Spire Clan]）：气元素(小型)、土元素(小型)、1d3只老鹰。<\/p><p>斯克拉-郭[日之部族]（Sklar-Quah [Sun Clan]）：1d3只火甲虫、火元素(小型)、马<\/p><p>斯寇昂-郭[颅之部族]（Skoan-Quah [Skull Clan]）： 1d3+1只老鹰(秃鹰)、1d3只火甲虫、1d3只巨蜈蚣。<\/p><p>塔米尔-郭[风之部族]（Tamiir-Quah [Wind Clan]）：气元素(小型)、1d3只老鹰、土元素(小型)。<\/p><p>译注：后半部各部族之音译来自四月翻译之专长图腾之灵。「Quah」为休盎提语，是部落(tribe)之意。<\/p>"
+}

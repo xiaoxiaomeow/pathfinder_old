@@ -1,20 +1,24 @@
 {
     "key": "symbol of debauchery",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/symbol-of-debauchery/",
     "name": "Symbol of Debauchery",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Symbol%20of%20Debauchery",
+    "source": ["Inner Sea Gods pg. 243"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors":     [
         "emotion",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 8,
         "bard": 6,
-        "cleric/oracle": 8,
-        "sorcerer/wizard": 8,
-        "witch": 8
+        "cleric": 8,
+        "oracle": 8,
+        "skald": 6,
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
     "castingTime": "10 minutes",
     "components": "V, S, M (a set of bull genitals and powdered ruby worth 5,000 gp)",
@@ -23,14 +27,14 @@
     "duration": "see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You conjure a sizable symbol into being, a rune suggestive of bloated bodies, flung food, and flowing wine. This spell functions as symbol of death, except that all creatures within 60 feet of the symbol of debauchery are instead filled with lust for the nearest conscious creature. This effect lasts for 1 round per caster level, even after creatures leave the symbol's area of effect. Affected creatures are compelled to rush to the nearest creature in order to caress and kiss it, and may take no other actions. Each creature receives a single Will save when the symbol of debauchery is triggered to negate the effect. If no other creatures are visible, an affected creature may act normally.<\/p><\/div>",
+    "text": "You conjure a sizable symbol into being, a rune suggestive of bloated bodies, flung food, and flowing wine. This spell functions as <i>symbol of death<\/i>, except that all creatures within 60 feet of the <i>symbol of debauchery <\/i>are instead filled with lust for the nearest conscious creature. This effect lasts for 1 round per caster level, even after creatures leave the symbol’s area of effect. Affected creatures are compelled to rush to the nearest creature in order to caress and kiss it, and may take no other actions. Each creature receives a single Will save when the <i>symbol of debauchery <\/i>is triggered to negate the effect. If no other creatures are visible, an affected creature may act normally.",
     "name_zh": "享乐徽记",
     "castingTime_zh": "10分钟",
     "components_zh": "语言，姿势，材料（公牛的生殖器和价值5000GP的红宝石粉）",
+    "range_zh": "0尺; 见文本",
     "effect_zh": "一个徽记",
-    "duration_zh": "见下文",
+    "duration_zh": "见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你将一个魔法徽记激活，使之创造出漂浮在半空中的诱人胴体，佳肴盛宴与美酒的虚伪幻象。这个法术的工作原理与死亡徽记的作用方法类似，但所有处于享乐徽记周围60尺内的生物会立刻对周围所有有意识的生物产生不可抗拒的欲念，这个效果会持续每施法者等级1轮的时间。即使受影响的生物立刻徽记的作用范围，它让人会在法术的影响时间内尝试抚摸和亲吻离她最近的目标，并且失去其它任何动作，魔鬼生物在受到享乐徽记影响时都可以进行一次意志检定以抵抗法术的效果。如果在她受到影响时周围没有任何其它合适的生物，那么被影响者可以如常行动。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>你将一个魔法徽记激活，使之创造出漂浮在半空中的诱人胴体，佳肴盛宴与美酒的虚伪幻象。这个法术的工作原理与死亡徽记的作用方法类似，但所有处于享乐徽记周围60尺内的生物会立刻对周围所有有意识的生物产生不可抗拒的欲念，这个效果会持续每施法者等级1轮的时间。即使受影响的生物立刻徽记的作用范围，它让人会在法术的影响时间内尝试抚摸和亲吻离她最近的目标，并且失去其它任何动作，魔鬼生物在受到享乐徽记影响时都可以进行一次意志检定以抵抗法术的效果。如果在她受到影响时周围没有任何其它合适的生物，那么被影响者可以如常行动。<\/p>"
 }

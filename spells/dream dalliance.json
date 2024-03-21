@@ -1,15 +1,17 @@
 {
     "key": "dream dalliance",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dream-dalliance/",
     "name": "Dream Dalliance",
-    "book": "Pathfinder Player Companion: Agents of Evil © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dream%20Dalliance",
+    "source": ["Agents of Evil pg. 30"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 4,
         "mesmerist": 3,
         "psychic": 4,
-        "sorcerer/wizard": 4
+        "sorcerer": 4,
+        "wizard": 4
     },
     "castingTime": "1 round",
     "components": "V, S",
@@ -18,15 +20,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will disbelief, then Will partial (see text)",
     "spellResistance": "yes",
-    "text": "<p>You create a comforting phantasm, which leeches onto the psyche of a nearby target. The creature can attempt a Will saving throw to prevent the phantasm from entering its psyche, but otherwise it takes up permanent residence in the creature's mind. The phantasm fills its target's dreams with happy visions, comforting manifestations of loved ones, and incredible vistas, feeding the target a perfect fantasy life it never wishes to leave. After the target's next night's sleep, the target must succeed at a Will saving throw to wake up; otherwise, it remains asleep for the rest of the day and following night. Each night it must succeed at a new saving throw or remain asleep for days or weeks on end as it slowly starves to death (presuming it normally needs to eat to survive). Loud noises, jostling, and even pain won't rouse the slumbering target. Dealing 1 point of damage per the target's Hit Die awakens the target, but it awakens fatigued and takes a –2 penalty on all saving throws against spells and effects that may put it back to sleep until the phantasm has been banished.<\/p><p>The phantasm remains in its host's mind indefinitely, requiring a new Will saving throw to wake up every time the target rests, until it is removed via break enchantment, greater restoration, or miracle. Alternatively, the phantasm can be confronted in its host's mindscape, where it manifests as a slothful duplicate of its host with identical abilities, skills, and attributes.<\/p>",
+    "text": "You create a comforting phantasm, which leeches onto the psyche of a nearby target. The creature can attempt a Will saving throw to prevent the phantasm from entering its psyche, but otherwise it takes up permanent residence in the creature’s mind. The phantasm fills its target’s dreams with happy visions, comforting manifestations of loved ones, and incredible vistas, feeding the target a perfect fantasy life it never wishes to leave. After the target’s next night’s sleep, the target must succeed at a Will saving throw to wake up; otherwise, it remains asleep for the rest of the day and following night. Each night it must succeed at a new saving throw or remain asleep for days or weeks on end as it slowly starves to death (presuming it normally needs to eat to survive). Loud noises, jostling, and even pain won’t rouse the slumbering target. Dealing 1 point of damage per the target’s Hit Die awakens the target, but it awakens fatigued and takes a –2 penalty on all saving throws against spells and effects that may put it back to sleep until the phantasm has been banished.<br><br> The phantasm remains in its host’s mind indefinitely, requiring a new Will saving throw to wake up every time the target rests, until it is removed via <i>break enchantment<\/i>, <i>greater restoration<\/i>, or <i>miracle<\/i>. Alternatively, the phantasm can be confronted in its host’s mindscape (<i>Pathfinder RPG Occult Adventures<\/i> 202), where it manifests as a slothful duplicate of its host with identical abilities, skills, and attributes.",
     "name_zh": "玩弄梦境",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，通过则不相信，随后意志，通过则部分生效（见描述）",
+    "savingThrow_zh": "意志, 通过则不相信, 随后意志, 通过则部分生效 (见描述)",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造一个令人欣慰的魅影渗入附近一个目标的心灵。这个生物可以通过一个意志豁免来阻止这个魅影渗入他的心灵。如果他失败了。它将永久成为该生物意识的一部分，这个魅影幻觉会以快乐的愿景、和所爱之人的亲密时光、令人难以置信的新景观将生物的梦境填成一个完美的梦幻生活以至于让生物根本不想离开。当目标下一次在夜晚入睡时，这个目标必须成功通过一个意志检定才能醒来。他将会在白天和夜晚都想睡觉。每一个夜晚他都必须进行一个新的豁免或继续睡上一整天甚至一个星期并且因此缓慢地衰弱而死（如果他需要食物才能生存的话）。噪声、推搡、甚至疼痛都无法唤醒生物。对目标造成1点生命值伤害可以唤醒他。但他会疲乏并且在所有对抗试图让他入睡的法术和效果的豁免上承受-2减值直到魅影被驱逐为止。\n魅影会永久地呆在目标生物的意识中，强迫这个生物在每次休息时需要一个新的意志豁免才能醒来，直到它被破除结界、高等复原术、奇蹟术所移除。另外，魅影可以在宿主的意识位面（OA 202页）被找到。它看起来就像一个懒惰的宿主的副本并且拥有他的能力、技能、属性。<\/p>",
-    "source": "PC-AoE"
+    "text_zh": "<p>你创造一个令人欣慰的魅影渗入附近一个目标的心灵。这个生物可以通过一个意志豁免来阻止这个魅影渗入他的心灵。如果他失败了。它将永久成为该生物意识的一部分，这个魅影幻觉会以快乐的愿景、和所爱之人的亲密时光、令人难以置信的新景观将生物的梦境填成一个完美的梦幻生活以至于让生物根本不想离开。当目标下一次在夜晚入睡时，这个目标必须成功通过一个意志检定才能醒来。他将会在白天和夜晚都想睡觉。每一个夜晚他都必须进行一个新的豁免或继续睡上一整天甚至一个星期并且因此缓慢地衰弱而死（如果他需要食物才能生存的话）。噪声、推搡、甚至疼痛都无法唤醒生物。对目标造成1点生命值伤害可以唤醒他。但他会疲乏并且在所有对抗试图让他入睡的法术和效果的豁免上承受-2减值直到魅影被驱逐为止。<\/p><p>魅影会永久地呆在目标生物的意识中，强迫这个生物在每次休息时需要一个新的意志豁免才能醒来，直到它被破除结界、高等复原术、奇蹟术所移除。另外，魅影可以在宿主的意识位面（OA 202页）被找到。它看起来就像一个懒惰的宿主的副本并且拥有他的能力、技能、属性。<\/p>"
 }

@@ -1,30 +1,36 @@
 {
     "key": "heroism, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/heroism/",
     "name": "Heroism, Greater",
-    "base": "heroism",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Heroism,%20Greater",
+    "source": ["PRPG Core Rulebook pg. 295"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 6,
         "bard": 5,
         "psychic": 6,
-        "sorcerer/wizard": 6,
+        "skald": 5,
+        "sorcerer": 6,
         "spiritualist": 6,
         "summoner": 5,
-        "unchained summoner": 6,
-        "witch": 6
+        "summoner (unchained)": 6,
+        "witch": 6,
+        "wizard": 6
     },
-    "subdomains": {"heroism": 6},
-    "mysteries":     {
-        "ancestor": 6,
-        "succor": 6
-    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "touch",
+    "target": "creature touched",
     "duration": "1 min./level",
-    "text": "<p>This spell functions like <i>heroism<\/i>, except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).<\/p><\/div>",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions like <i>heroism<\/i>, except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).",
     "name_zh": "高等英雄气概",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=heroism\">英雄气概 (heroism)<\/a>’一般，不过生物的攻击检定、豁免和技能检定会获得+4士气加值，同时免疫恐惧效果，并获得等同于你的CL的临时HP (最多20点)。<\/p>",
-    "source": "CRB"
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=heroism\">英雄气概 (heroism)<\/a>’一般，不过生物的攻击检定、豁免和技能检定会获得+4士气加值，同时免疫恐惧效果，并获得等同于你的CL的临时HP (最多20点)。<\/p>"
 }

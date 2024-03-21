@@ -1,14 +1,14 @@
 {
     "key": "mindshock",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mindshock/",
     "name": "Mindshock",
-    "book": "Pathfinder Player Companion: Occult Origins © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mindshock",
+    "source": ["Occult Origins pg. 28"],
     "school": "divination",
     "descriptors":     [
         "mind-affecting",
         "pain"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 2,
         "bloodrager": 2,
@@ -24,14 +24,13 @@
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 round/level (d)",
-    "text": "<p>You charge yourself with violent psychic energy so attacks you make with weapons, natural weapons, and unarmed strikes cause the target to recall pain suffered in the past. Such attacks deal 1d4 points of nonlethal damage in addition to their normal damage, though creatures immune to mind-affecting or pain effects ignore this additional damage. In addition, when you confirm a critical hit, the target is confused for 1 round by the pain. Creatures immune to critical hits, mind-affecting, or pain effects ignore the confusion. Even if you confirm multiple critical hits while this spell is in effect, an individual creature can only be confused by a single casting of <i>mindshock<\/i> once.<\/p>",
+    "duration": "1 round/level (D)",
+    "text": "You charge yourself with violent psychic energy so attacks you make with weapons, natural weapons, and unarmed strikes cause the target to recall pain suffered in the past. Such attacks deal 1d4 points of nonlethal damage in addition to their normal damage, though creatures immune to mind-affecting or pain effects ignore this additional damage. In addition, when you confirm a critical hit, the target is confused for 1 round by the pain. Creatures immune to critical hits, mind-affecting, or pain effects ignore the confusion. Even if you confirm multiple critical hits while this spell is in effect, an individual creature can only be confused by a single casting of <i>mindshock<\/i> once.",
     "name_zh": "心灵震荡",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1轮/等级 (D)",
-    "text_zh": "<p>你用狂躁的异能能量充斥你全身上下，所以你使用武器、天生武器以及徒手击打的攻击会令目标回想起过去曾经遭受过的苦痛。除了正常伤害外，这些东西还会造成1d4点的非致命伤害，但免疫影响心灵或痛苦效果的生物，忽视这额外的伤害。此外，当你确认重击时，目标会因为痛苦而困惑1轮。免疫重击、影响心灵或痛苦效果的生物忽视这困惑。就算你于此法术生效期间多次确认重击，各别生物只会在一次心灵震荡中因此法术困惑一次。<\/p>",
-    "source": "PC-OO"
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p>你用狂躁的异能能量充斥你全身上下，所以你使用武器、天生武器以及徒手击打的攻击会令目标回想起过去曾经遭受过的苦痛。除了正常伤害外，这些东西还会造成1d4点的非致命伤害，但免疫影响心灵或痛苦效果的生物，忽视这额外的伤害。此外，当你确认重击时，目标会因为痛苦而困惑1轮。免疫重击、影响心灵或痛苦效果的生物忽视这困惑。就算你于此法术生效期间多次确认重击，各别生物只会在一次心灵震荡中因此法术困惑一次。<\/p>"
 }

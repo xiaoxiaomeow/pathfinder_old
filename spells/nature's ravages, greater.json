@@ -1,18 +1,27 @@
 {
     "key": "nature's ravages, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/nature-s-ravages/",
     "name": "Nature's Ravages, Greater",
-    "base": "nature's ravages",
-    "book": "Pathfinder Player Companion: Dungeoneer's Handbook © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Nature's%20Ravages,%20Greater",
+    "source": ["Dungeoneer's Handbook pg. 31"],
     "school": "necromancy",
     "levels":     {
         "cleric": 8,
+        "oracle": 8,
         "witch": 7
     },
-    "castingTime": "10 minute/hd of target",
-    "text": "<p>This spell functions like <i>nature's ravages<\/i>, except the target corpse ages a number of years equal to up to 1 year per caster level (maximum 20 years at 20th level).<\/p><\/div>",
+    "castingTime": "10 minute/HD of target",
+    "components": "V, S, M/DF (dried maggots)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "corpse of creature whose total number of HD does not exceed your caster level",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell functions like <i>nature’s ravages<\/i>, except the target corpse ages a number of years equal to up to 1 year per caster level (maximum 20 years at 20th level).",
     "name_zh": "高等自然蹂躏",
-    "castingTime_zh": "10分钟/目标的生命骰",
-    "text_zh": "<p>此法术如同自然蹂躏般作用，除了目标尸体腐朽的年数，至多等同于1年/等级 (最长20年/20等)。<\/p>",
-    "source": "PC-DungH"
+    "castingTime_zh": "目标每HD10分钟",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>此法术如同自然蹂躏般作用，除了目标尸体腐朽的年数，至多等同于1年/等级 (最长20年/20等)。<\/p>"
 }

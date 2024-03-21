@@ -1,26 +1,29 @@
 {
     "key": "bard's escape",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bard-s-escape/",
     "name": "Bard's Escape",
-    "book": "Pathfinder Roleplaying Game Bestiary 2, © 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bard's%20Escape",
+    "source": ["Advanced Player's Guide pg. 204"],
     "school": "conjuration",
-    "subSchool": ["teleportation"],
-    "levels": {"bard": 5},
+    "subSchools": ["teleportation"],
+    "levels":     {
+        "bard": 5,
+        "skald": 5
+    },
     "castingTime": "1 standard action",
     "components": "V, S, M (pieces of a smashed fiddle)",
     "range": "medium (100 ft. + 10 ft./level)",
+    "target": "you and up to 1 willing creature/2 caster levels, no two of which can be more than 30 ft. apart",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You whisk yourself and willing allies out of a tight jam, or instantly transfer yourselves to another location to achieve greater strategic positioning. You can move any allies within range to any other space of your choosing within range. Those spaces need not be in line of sight or line of effect from your original position, but must be open locations on surfaces able to support the creatures teleported. Except as noted above, this spell otherwise functions as <i>dimension door<\/i>.<\/p>",
+    "text": "You whisk yourself and willing allies out of a tight jam, or instantly transfer yourselves to another location to achieve greater strategic positioning. You can move any allies within range to any other space of your choosing within range. Those spaces need not be in line of sight or line of effect from your original position, but must be open locations on surfaces able to support the creatures teleported. Except as noted above, this spell otherwise functions as <i>dimension door<\/i>.",
     "name_zh": "诗人逃脱术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一块小提琴碎片)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "target_zh": "最高为你自身以及每两个施法者等级1名自愿生物，任意两名生物之间的距离不能超过30尺",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你把自身以及自愿的盟友迅速带出狭窄的困境，或者立刻将自身转移到其他位置以获得更好的战略配置。你可以将任何法术范围内的盟友挪至范围内你所选择的位置。这些空间不需要与你原本的位置有视觉线或者效果线相连，但是必须是能够支撑被传送的生物的表面并且为开阔的空间。除了上文所述内容，该法术在其他方面如同任意门 (dimension door) 一般运作。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你把自身以及自愿的盟友迅速带出狭窄的困境，或者立刻将自身转移到其他位置以获得更好的战略配置。你可以将任何法术范围内的盟友挪至范围内你所选择的位置。这些空间不需要与你原本的位置有视觉线或者效果线相连，但是必须是能够支撑被传送的生物的表面并且为开阔的空间。除了上文所述内容，该法术在其他方面如同任意门 (dimension door) 一般运作。<\/p>"
 }

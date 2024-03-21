@@ -1,26 +1,27 @@
 {
     "key": "speak with plants",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/speak-with-plants/",
     "name": "Speak with Plants",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Speak%20with%20Plants",
+    "source": ["PRPG Core Rulebook pg. 346"],
     "school": "divination",
     "levels":     {
         "bard": 4,
         "druid": 3,
-        "ranger": 2
+        "hunter": 2,
+        "ranger": 2,
+        "skald": 4
     },
-    "mysteries": {"nature": 3},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 min./level",
-    "text": "<p>You can communicate with normal plants and plant creatures, and can ask questions of and receive answers from them. A normal plant's sense of its surroundings is limited, so it won't be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn't make plant creatures any more friendly or cooperative than normal. Furthermore, wary and cunning plant creatures are likely to be terse and evasive, while the more stupid ones may make inane comments. If a plant creature is friendly, it may do some favor or service for you.<\/p>",
+    "text": "You can communicate with normal plants and plant creatures, and can ask questions of and receive answers from them. A normal plant's sense of its surroundings is limited, so it won't be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity. The spell doesn't make plant creatures any more friendly or cooperative than normal. Furthermore, wary and cunning plant creatures are likely to be terse and evasive, while the more stupid ones may make inane comments. If a plant creature is friendly, it may do some favor or service for you.",
     "name_zh": "植物交谈",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你可以理解并与普通植物和植物类生物交谈，你还可以向植物提问并得到它们的回答。普通植物对外界的感知能力有限，因此它无法仔细辨识或描述生物，也不能对未发生在其四周的事件作出回答。此法术无法使植物类生物变得更友善或更合作。狡猾机警的植物型生物还可能给出含糊而简单的答案，若该生物智力不高，也可能说出蠢话。如果植物类生物是友善的，那么它可能会帮忙甚至由你差遣。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以理解并与普通植物和植物类生物交谈，你还可以向植物提问并得到它们的回答。普通植物对外界的感知能力有限，因此它无法仔细辨识或描述生物，也不能对未发生在其四周的事件作出回答。此法术无法使植物类生物变得更友善或更合作。狡猾机警的植物型生物还可能给出含糊而简单的答案，若该生物智力不高，也可能说出蠢话。如果植物类生物是友善的，那么它可能会帮忙甚至由你差遣。<\/p>"
 }

@@ -1,0 +1,29 @@
+{
+    "key": "invisibility bubble, mass",
+    "name": "Invisibility Bubble, Mass",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Invisibility%20Bubble,%20Mass",
+    "source": ["Aquatic Adventures pg. 60"],
+    "school": "illusion",
+    "subSchools": ["glamer"],
+    "levels":     {
+        "arcanist": 7,
+        "mesmerist": 6,
+        "psychic": 7,
+        "sorcerer": 7,
+        "summoner": 6,
+        "summoner (unchained)": 6,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (needle from a sea urchin)",
+    "range": "long (400 ft. + 40 ft./level)",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This functions as per <i>invisibility bubble<\/i>, but the spell affects the areas of each target creature, regardless of the creature’s size. The effect moves with the group and is broken when anyone in the group attacks. Individuals in separate bubbles can’t see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other simultaneously, they both become visible when the distance between them exceeds 180 feet.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

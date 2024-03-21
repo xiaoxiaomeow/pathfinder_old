@@ -1,29 +1,30 @@
 {
     "key": "life blast",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/life-blast/",
     "name": "Life Blast",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Life%20Blast",
+    "source": ["Horror Adventures pg. 121"],
     "school": "necromancy",
     "levels":     {
         "druid": 4,
+        "hunter": 3,
         "ranger": 3,
         "shaman": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a dead leaf)",
     "range": "150 ft.",
-    "area": "150-ft. line",
+    "area": "150 ft. line",
     "duration": "instantaneous",
     "savingThrow": "Will half",
     "spellResistance": "yes",
-    "text": "<p>This spell must be cast in an area with vegetation or it has no effect. When you cast this spell, you draw the life force from the surrounding land and hurl it at your enemies, dealing 1d6 points of positive energy damage per caster level (to a maximum of 12d6 at 12th level) to any undead creatures in the spell's area.<\/p><p>However, doing so blights the land around you in a spread with a radius of 5 feet per caster level you have (to a maximum of 60 feet at 12th level). All vegetation in that area immediately withers and dies. Plant creatures aren't affected.<\/p><p>The blast starts from your palm and is able to travel through solid objects and obstacles.<\/p>",
+    "text": "This spell must be cast in an area with vegetation or it has no effect. When you cast this spell, you draw the life force from the surrounding land and hurl it at your enemies, dealing 1d6 points of positive energy damage per caster level (to a maximum of 12d6 at 12th level) to any undead creatures in the spell’s area. However, doing so blights the land around you in a spread with a radius of 5 feet per caster level you have (to a maximum of 60 feet at 12th level). All vegetation in that area immediately withers and dies. Plant creatures aren’t affected.<br><br> The blast starts from your palm and is able to travel through solid objects and obstacles.",
     "name_zh": "生命暴发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一片枯萎的叶子)",
+    "range_zh": "150尺",
     "area_zh": "150尺直线",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志, 通过则减半",
+    "savingThrow_zh": "意志, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术必须在一覆有植被的区域处施展，否则没有效果。当你施展此法术时，你从周围的土地上激发生命的力量，并将它砸到你敌人的身上，对在法术区域内任何不死生物，造成1d6点/每施法者等级正能量伤害(最大到12等时12d6点伤害)。但是，这么做会导致你周围半径5尺/每施法者等级的土地荒芜(最大为12等时半径60尺)。在此区域内的所有植被立刻枯萎并且死去。植物生物不会受影响。\n此爆发从你的掌心开始，并且能够穿越固态的物体与阻碍。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>此法术必须在一覆有植被的区域处施展，否则没有效果。当你施展此法术时，你从周围的土地上激发生命的力量，并将它砸到你敌人的身上，对在法术区域内任何不死生物，造成1d6点/每施法者等级正能量伤害(最大到12等时12d6点伤害)。但是，这么做会导致你周围半径5尺/每施法者等级的土地荒芜(最大为12等时半径60尺)。在此区域内的所有植被立刻枯萎并且死去。植物生物不会受影响。<\/p><p>此爆发从你的掌心开始，并且能够穿越固态的物体与阻碍。<\/p>"
 }

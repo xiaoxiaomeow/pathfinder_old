@@ -1,26 +1,32 @@
 {
     "key": "soulswitch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/soulswitch/",
     "name": "Soulswitch",
-    "book": "Pathfinder Player Companion: Familiar Folio © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Soulswitch",
+    "source": ["Familiar Folio pg. 23"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
         "cleric": 5,
         "druid": 5,
+        "hunter": 5,
         "inquisitor": 5,
         "magus": 5,
+        "oracle": 5,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "skald": 5,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, F (two brass collars worth 50 gp each)",
     "range": "touch",
-    "duration": "10 min.s/level",
+    "duration": "10 minutes/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You may only cast this spell if you currently have a familiar. You place your soul into the body of your familiar, and your familiar's soul is placed in your body. This functions as if you possessed your familiar using magic jar; your familiar simultaneously possesses your body in the same manner. You can't freely transfer your soul between your body and your familiar's—if you choose to return to your body as a standard action, the spell ends. If either body is killed, both spirits return to their original bodies, the spell ends, and the original owner of the slain body dies.<\/p>",
+    "text": "You may only cast this spell if you currently have a familiar. You place your soul into the body of your familiar, and your familiar’s soul is placed in your body. This functions as if you possessed your familiar using <i>magic jar<\/i>; your familiar simultaneously possesses your body in the same manner. You can’t freely transfer your soul between your body and your familiar’s—if you choose to return to your body as a standard action, the spell ends. If either body is killed, both spirits return to their original bodies, the spell ends, and the original owner of the slain body dies.",
     "name_zh": "灵魂互换",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，器材（两个黄铜项圈，分别各价值50gp）",
@@ -29,6 +35,5 @@
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你仅能在当前拥有魔宠时施放该法术。你会将自己的灵魂置入到你的魔宠体内，而你的魔宠的灵魂会进入你的体内。这个功能就如同你使用了魔魂壶（Magic Jar）占据了自己的魔宠；而你的魔宠也以相同的方式占据了你的身体。你的灵魂无法自由地在自己的身体与魔宠的身体间切换——若你选择以标准动作返回自己的身体，法术便会结束。若任意一方的身体被杀死，那么两方的灵魂都会返回至原本的躯体且法术结束，原本的躯体被杀死的一方死亡。<\/p>",
-    "source": "PC-FF"
+    "text_zh": "<p>你仅能在当前拥有魔宠时施放该法术。你会将自己的灵魂置入到你的魔宠体内，而你的魔宠的灵魂会进入你的体内。这个功能就如同你使用了魔魂壶（Magic Jar）占据了自己的魔宠；而你的魔宠也以相同的方式占据了你的身体。你的灵魂无法自由地在自己的身体与魔宠的身体间切换——若你选择以标准动作返回自己的身体，法术便会结束。若任意一方的身体被杀死，那么两方的灵魂都会返回至原本的躯体且法术结束，原本的躯体被杀死的一方死亡。<\/p>"
 }

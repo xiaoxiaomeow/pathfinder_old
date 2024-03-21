@@ -1,15 +1,19 @@
 {
     "key": "siphon might",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/siphon-might/",
     "name": "Siphon Might",
-    "book": "Pathfinder Player Companion: Giant Hunter's Handbook © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Siphon%20Might",
+    "source": ["Giant Hunter's Handbook pg. 27"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 3,
         "druid": 3,
+        "hunter": 3,
         "magus": 3,
-        "sorcerer/wizard": 3,
+        "sorcerer": 3,
         "summoner": 3,
-        "witch": 3
+        "summoner (unchained)": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 round",
     "components": "V, S",
@@ -18,15 +22,14 @@
     "duration": "1 round/level",
     "savingThrow": "Fortitude half",
     "spellResistance": "yes",
-    "text": "<p>You drain the might of the target and transfer that power to another creature. The subject takes a penalty to Strength equal to 1d6 + 1 per 2 caster levels (maximum 1d6 + 5). This effect can't cause the subject's Strength score to drop below 1.<\/p><p>A successful Fortitude save halves this penalty. This penalty doesn't stack with itself or the penalty applied from ray of enfeeblement.<\/p><p>You can grant any one creature adjacent to you (including yourself) an enhancement bonus to Strength equal to the Strength penalty imposed by this spell.<\/p>",
+    "text": "You drain the might of the target and transfer that power to another creature. The subject takes a penalty to Strength equal to 1d6 + 1 per 2 caster levels (maximum 1d6 + 5). This effect can’t cause the subject’s Strength score to drop below 1. A successful Fortitude save halves this penalty. This penalty doesn’t stack with itself or the penalty applied from <i>ray of enfeeblement<\/i>.<br><br> You can grant any one creature adjacent to you (including yourself) an enhancement bonus to Strength equal to the Strength penalty imposed by this spell.",
     "name_zh": "虹吸之力",
     "castingTime_zh": "1轮",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "强韧, 通过则减半",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你吸取目标的力量并将之传递给另一位生物。受术者在力量上受到1d6点，再加上每2个施法者等级1点(最大1d6+5)的罚值。这效果并不能让受术者的力量属性降低到1以下。一次成功的强韧豁免检定能令此罚值减半。此罚值并不与自身或是来自衰弱射线(ray of enfeeblement)的罚值堆叠。\n你能够给予邻近于你的任何一位生物(包含你自己)属于增强加值的力量属性，这加值等同此法术所征收的力量罚值。<\/p>",
-    "source": "PC-GHH"
+    "text_zh": "<p>你吸取目标的力量并将之传递给另一位生物。受术者在力量上受到1d6点，再加上每2个施法者等级1点(最大1d6+5)的罚值。这效果并不能让受术者的力量属性降低到1以下。一次成功的强韧豁免检定能令此罚值减半。此罚值并不与自身或是来自衰弱射线(ray of enfeeblement)的罚值堆叠。<\/p><p>你能够给予邻近于你的任何一位生物(包含你自己)属于增强加值的力量属性，这加值等同此法术所征收的力量罚值。<\/p>"
 }

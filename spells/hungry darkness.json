@@ -1,31 +1,34 @@
 {
     "key": "hungry darkness",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hungry-darkness/",
     "name": "Hungry Darkness",
-    "book": "Pathfinder Campaign Setting: Inner Sea Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hungry%20Darkness",
+    "source": ["Inner Sea Magic pg. 56"],
     "school": "evocation",
     "descriptors":     [
         "darkness",
         "force"
     ],
-    "descriptorOperator": "and",
-    "levels": {"sorcerer/wizard": 7},
+    "descriptorsOperator": ",",
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
     "castingTime": "1 standard action",
-    "components": "V, S, M (a bat's tooth)",
+    "components": "V, S, M (a bat’s tooth)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "area": "60-ft.-radius spread",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "yes (see text)",
-    "text": "<p>This spell creates an area of intense blackness, as deeper darkness, but filled with unseen chewing teeth and ravenous maws. Any creatures beginning its turn within the <i>hungry darkness<\/i> is gnawed and slashed by these unseen fangs of force, dealing 3d6 points of force damage and 2 points of Constitution damage per round. Once a creature leaves the cloud, it continues to take 1d6 points of bleed damage each round until it receives magical healing or enters an area of bright light. Spell Resistance can prevent damage from the <i>hungry darkness<\/i> but not against the darkness it creates.<\/p>",
+    "text": "This spell creates an area of intense blackness, as <i>deeper darkness<\/i>, but filled with unseen chewing teeth and ravenous maws. Any creatures beginning its turn within the <i>hungry darkness <\/i>is gnawed and slashed by these unseen fangs of force, dealing 3d6 points of force damage and 2 points of Constitution damage per round. Once a creature leaves the cloud, it continues to take 1d6 points of bleed damage each round until it receives magical healing or enters an area of bright light. Spell resistance can prevent damage from the <i>hungry darkness<\/i> but not against the darkness it creates.",
     "name_zh": "饥饿深暗",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（蝙蝠牙齿）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "area_zh": "60尺半径扩散区域",
-    "duration_zh": "1轮/等级（可解消）",
+    "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "可（见后文）",
-    "text_zh": "<p>该法术会创造出一片极度黑暗的区域，如同深幽黑暗术（deeper darkness）一般，然而不同的是，这片黑暗中充满了不可见的贪食獠牙与饥饿咽喉。任何在自身回合开始时处于饥饿深暗区域内的生物会被这些力场之牙撕咬，每轮会造成3d6点力场伤害以及2点体质伤害。即便生物离开这片暗云，也会每轮受到1d6点出血伤害，直至受到魔法治疗或者进入明亮（bright light）区域位置。法术抗力可以抵御饥饿深暗所造成的伤害，但是无法对抗它产生的黑暗。<\/p>",
-    "source": "CS-ISM"
+    "spellResistance_zh": "可; 见文本",
+    "text_zh": "<p>该法术会创造出一片极度黑暗的区域，如同深幽黑暗术（deeper darkness）一般，然而不同的是，这片黑暗中充满了不可见的贪食獠牙与饥饿咽喉。任何在自身回合开始时处于饥饿深暗区域内的生物会被这些力场之牙撕咬，每轮会造成3d6点力场伤害以及2点体质伤害。即便生物离开这片暗云，也会每轮受到1d6点出血伤害，直至受到魔法治疗或者进入明亮（bright light）区域位置。法术抗力可以抵御饥饿深暗所造成的伤害，但是无法对抗它产生的黑暗。<\/p>"
 }

@@ -1,32 +1,33 @@
 {
     "key": "keen edge",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/k/keen-edge/",
     "name": "Keen Edge",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Keen%20Edge",
+    "source": ["PRPG Core Rulebook pg. 303"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 3,
         "inquisitor": 3,
         "magus": 3,
-        "sorcerer/wizard": 3
+        "occultist": 3,
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "wizard": 3
     },
-    "subdomains": {"murder": 3},
-    "elementalSchools": {"metal": 3},
-    "mysteries": {"metal": 3},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "duration": "10 min./level",
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
-    "text": "<p>This spell makes a weapon magically <i>keen<\/i>, improving its ability to deal telling blows. This transmutation doubles the threat range of the weapon. A threat range of 20 becomes 19-20, a threat range of 19-20 becomes 17-20, and a threat range of 18-20 becomes 15-20. The spell can be cast only on piercing or slashing weapons. If cast on arrows or crossbow bolts, the <i>keen edge<\/i> on a particular projectile ends after one use, whether or not the missile strikes its intended target. Treat shuriken as arrows, rather than as thrown weapons, for the purpose of this spell.<\/p><p>Multiple effects that increase a weapon's threat range (such as the <i>keen<\/i> special weapon property and the Improved Critical feat) don't stack. You can't cast this spell on a natural weapon, such as a claw.<\/p>",
+    "text": "This spell makes a weapon magically keen, improving its ability to deal telling blows. This transmutation doubles the threat range of the weapon. A threat range of 20 becomes 19–20, a threat range of 19–20 becomes 17–20, and a threat range of 18–20 becomes 15–20. The spell can be cast only on piercing or slashing weapons. If cast on arrows or crossbow bolts, the <i>keen edge<\/i> on a particular projectile ends after one use, whether or not the missile strikes its intended target. Treat shuriken as arrows, rather than as thrown weapons, for the purpose of this spell.<br><br>Multiple effects that increase a weapon's threat range (such as the <i>keen<\/i> special weapon property and the Improved Critical feat) don't stack. You can't cast this spell on a natural weapon, such as a claw.",
     "name_zh": "锐锋术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一把武器 或 50发弹药 (所有弹药在施法时必须互相碰触)",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
     "spellResistance_zh": "可 (无害, 物体)",
-    "text_zh": "<p>这个法术可以使一件武器锋利异常，提升其重击能力。该法术使武器的重击范围加倍。原重击范围为20者变为19 – 20, 原为19 – 20者变为17 – 20, 原为18 – 20者变为15 – 20。此法术只能施展在穿刺或挥砍武器上。如果施展在箭矢或弩矢上，那么无论是否击中目标，这支箭矢上的锐锋术都会在使用一次后结束。在判断该法术的功用时，将手里剑视为箭矢，而非投掷武器。<\/p><p>多种增加武器重击范围的效果 (例如锐锋术和‘精通重击’专长) 不能相叠加。你不能将该法术施放至天生武器上，比如爪抓。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术可以使一件武器锋利异常，提升其重击能力。该法术使武器的重击范围加倍。原重击范围为20者变为19 – 20, 原为19 – 20者变为17 – 20, 原为18 – 20者变为15 – 20。此法术只能施展在穿刺或挥砍武器上。如果施展在箭矢或弩矢上，那么无论是否击中目标，这支箭矢上的锐锋术都会在使用一次后结束。在判断该法术的功用时，将手里剑视为箭矢，而非投掷武器。<\/p><p>多种增加武器重击范围的效果 (例如锐锋术和‘精通重击’专长) 不能相叠加。你不能将该法术施放至天生武器上，比如爪抓。<\/p>"
 }

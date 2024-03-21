@@ -1,13 +1,19 @@
 {
     "key": "mental barrier ii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mental-barrier/",
     "name": "Mental Barrier II",
-    "base": "mental barrier i",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mental%20Barrier%20II",
+    "source": ["Occult Adventures pg. 175"],
     "school": "abjuration",
     "levels": {"psychic": 3},
-    "text": "<p>This spell functions as <i>mental barrier I<\/i>, but the shield bonus to AC increases to +6. In addition, you take half damage from <i>mind thrust I, II, and III<\/i> (reduced to one-quarter on a successful Will save). This spell can be undercast.<\/p>",
+    "castingTime": "1 immediate action",
+    "components": "V",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 round",
+    "text": "This spell functions as <i>mental barrier I<\/i>, but the shield bonus to AC increases to +6. In addition, you take half damage from <i>mind thrust I<\/i>, <i>II<\/i>, and <i>III<\/i> (reduced to one-quarter on a successful Will save). This spell can be undercast.",
     "name_zh": "精神屏障 II",
-    "text_zh": "<p>该法术的功能如同精神屏障 I（Mental Barrier I）一般，不过AC获得的盾牌加值提升至+6点。此外，心灵戳刺 I（mind thrust I）、II和III对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。<\/p>",
-    "source": "OA"
+    "castingTime_zh": "直觉动作",
+    "range_zh": "个人",
+    "duration_zh": "1轮",
+    "text_zh": "<p>该法术的功能如同精神屏障 I（Mental Barrier I）一般，不过AC获得的盾牌加值提升至+6点。此外，心灵戳刺 I（mind thrust I）、II和III对你造成的伤害减半（即成功通过意志豁免时降低至四分之一）。该法术可以被降阶施法。<\/p>"
 }

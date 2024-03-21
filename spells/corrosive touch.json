@@ -1,16 +1,19 @@
 {
     "key": "corrosive touch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/corrosive-touch/",
     "name": "Corrosive Touch",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Corrosive%20Touch",
+    "source": ["Ultimate Magic pg. 213"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["acid"],
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "magus": 1,
-        "sorcerer/wizard": 1,
-        "summoner/unchained summoner": 1
+        "sorcerer": 1,
+        "summoner": 1,
+        "summoner (unchained)": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -19,7 +22,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>Your successful melee touch attack deals 1d4 points of acid damage per caster level (maximum 5d4).<\/p>",
+    "text": "Your successful melee touch attack deals 1d4 points of acid damage per caster level (maximum 5d4).",
     "name_zh": "酸蚀之触",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -28,6 +31,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你的成功的近战接触攻击造成每施法者等级1d4点酸性伤害 (最高5d4)。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你的成功的近战接触攻击造成每施法者等级1d4点酸性伤害 (最高5d4)。<\/p>"
 }

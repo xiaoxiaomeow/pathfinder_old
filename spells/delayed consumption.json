@@ -1,21 +1,24 @@
 {
     "key": "delayed consumption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/delayed-consumption/",
     "name": "Delayed Consumption",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Delayed%20Consumption",
+    "source": ["Advanced Player's Guide pg. 215"],
     "school": "transmutation",
-    "levels": {"alchemist": 5},
+    "levels":     {
+        "alchemist": 5,
+        "investigator": 5
+    },
     "castingTime": "1 standard action",
     "components": "S",
     "range": "personal",
-    "duration": "1 day/level (d) or until discharged",
-    "text": "<p>When you consume this extract, you quickly consume another extract of your choice-this second extract's effects do not come into effect until a later point. You must consume this second, companion extract on the round following <i>delayed consumption<\/i> or waste the extract. The companion extract can be no higher than 4th level, and you must pay any costs associated with the companion extract when you consume it.<\/p><p>At any point during the duration of this extract, you can cause the companion extract to take effect as an immediate action. You can only have one <i>delayed consumption<\/i> in effect at one time. If a second is consumed, the first is dispelled without any effect.<\/p>",
+    "target": "you",
+    "duration": "1 day/level (D) or until discharged",
+    "text": "When you consume this extract, you quickly consume another extract of your choice—this second extract’s effects do not come into effect until a later point. You must consume this second, companion extract on the round following <i>delayed consumption <\/i>or waste the extract. The companion extract can be no higher than 4th level, and you must pay any costs associated with the companion extract when you consume it. <br><br>At any point during the duration of this extract, you can cause the companion extract to take effect as an immediate action. You can only have one <i>delayed consumption <\/i>in effect at one time. If a second is consumed, the first is dispelled without any effect.",
     "name_zh": "即效延迟剂",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1天/等级 (可解消) 或直至消散",
-    "text_zh": "<p>当你服用这个化合炼成之后，需要快速服用另一剂你所选择的化合炼成——第二剂化合炼成的效果在这之后的某个时间点之前不会生效。你必须在服用即效延迟剂后接下来的一轮内服用第二剂化合炼成，否则即效延迟剂将被浪费。第二剂化合炼成不能高于4级，你必须在服用时支付第二剂化合炼成所需的成分。<\/p><p>在即效延迟剂生效期间，你能够在任何时刻以直觉动作启动第二剂化合炼成的效果。同一时间你只能延迟一个化合炼成的效果。在获得效果后，之前服用的即效延迟剂将会无害消散。<\/p>",
-    "source": "APG"
+    "duration_zh": "1天/等级 (可解消) 或 直至能量发散",
+    "text_zh": "<p>当你服用这个化合炼成之后，需要快速服用另一剂你所选择的化合炼成——第二剂化合炼成的效果在这之后的某个时间点之前不会生效。你必须在服用即效延迟剂后接下来的一轮内服用第二剂化合炼成，否则即效延迟剂将被浪费。第二剂化合炼成不能高于4级，你必须在服用时支付第二剂化合炼成所需的成分。<\/p><p>在即效延迟剂生效期间，你能够在任何时刻以直觉动作启动第二剂化合炼成的效果。同一时间你只能延迟一个化合炼成的效果。在获得效果后，之前服用的即效延迟剂将会无害消散。<\/p>"
 }

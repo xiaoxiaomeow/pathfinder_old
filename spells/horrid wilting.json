@@ -1,33 +1,30 @@
 {
     "key": "horrid wilting",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/horrid-wilting/",
     "name": "Horrid Wilting",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Horrid%20Wilting",
+    "source": ["PRPG Core Rulebook pg. 298"],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 8,
+        "arcanist": 8,
         "shaman": 8,
-        "witch": 8
+        "sorcerer": 8,
+        "witch": 8,
+        "wizard": 8
     },
-    "domains": {"water": 8},
-    "subdomains": {"radiation": 8},
-    "elementalSchools": {"water": 8},
-    "bloodlines": {"daemon": 8},
-    "mysteries": {"bones": 8},
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a bit of sponge)",
     "range": "long (400 ft. + 40 ft./level)",
     "duration": "instantaneous",
     "savingThrow": "Fortitude half",
     "spellResistance": "yes",
-    "text": "<p>This spell evaporates moisture from the body of each subject living creature, causing flesh to wither and crack and crumble to dust. This deals 1d6 points of damage per caster level (maximum 20d6). This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8).<\/p>",
+    "text": "This spell evaporates moisture from the body of each subject living creature, causing flesh to wither and crack and crumble to dust. This deals 1d6 points of damage per caster level (maximum 20d6). This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8).",
     "name_zh": "凋死术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一小块海绵)",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "target_zh": "活物，任意两者之间的距离不超过60尺",
     "duration_zh": "立即",
-    "savingThrow_zh": "强韧, 通过则减半",
+    "savingThrow_zh": "强韧, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会使受术活物体内的水分蒸发，使肉体枯萎、最终干枯破裂化为尘埃。该法术造成每CL 1d6点伤害 (最高20d6)。该法术对水元素 (water elementals) 和植物生物 (plant creatures) 特别有效，从而改为造成每CL 1d8点伤害 (最高20d8)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>该法术会使受术活物体内的水分蒸发，使肉体枯萎、最终干枯破裂化为尘埃。该法术造成每CL 1d6点伤害 (最高20d6)。该法术对水元素 (water elementals) 和植物生物 (plant creatures) 特别有效，从而改为造成每CL 1d8点伤害 (最高20d8)。<\/p>"
 }

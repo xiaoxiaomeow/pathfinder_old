@@ -1,0 +1,31 @@
+{
+    "key": "identifier's eye",
+    "name": "Identifier's Eye",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Identifier's%20Eye",
+    "source": ["Potions and Poisons pg. 17"],
+    "school": "divination",
+    "levels":     {
+        "alchemist": 2,
+        "arcanist": 2,
+        "bard": 2,
+        "investigator": 2,
+        "skald": 2,
+        "sorcerer": 2,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a wine-stained pearl)",
+    "range": "touch",
+    "target": "creature touched",
+    "duration": "3 rounds + 1 round/level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell infuses a spark of magical energy into the veins of the target, allowing it to feel the presence of magic the way one might feel the thrum of vibrations in the air. For the spell’s duration, the target gains the benefits of the spell <i>detect magic<\/i> and also gains a +5 enhancement bonus on Spellcraft checks to identify the properties and command words of magic items. Further, the target can attempt such checks untrained while under the effects of this spell. This ability does not allow the target to identify artifacts.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "3 rounds + 1 round/level (D)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)"
+}

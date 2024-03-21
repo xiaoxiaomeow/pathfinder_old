@@ -1,26 +1,27 @@
 {
     "key": "divine power",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/divine-power/",
     "name": "Divine Power",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Divine%20Power",
+    "source": ["PRPG Core Rulebook pg. 273"],
     "school": "evocation",
     "levels":     {
-        "cleric/oracle": 4,
+        "cleric": 4,
         "inquisitor": 4,
-        "shaman": 4
+        "oracle": 4,
+        "shaman": 4,
+        "warpriest": 4
     },
-    "domains": {"war": 4},
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>Calling upon the divine power of your patron, you imbue yourself with strength and skill in combat. You gain a +1 luck bonus on attack rolls, weapon damage rolls, Strength checks, and Strength-based skill checks for every three caster levels you have (maximum +6). You also gain 1 temporary hit point per caster level. Whenever you make a full-attack action, you can make an additional attack at your full base attack bonus, plus any appropriate modifiers. This additional attack is not cumulative with similar effects, such as haste or weapons with the <i>speed<\/i> special ability.<\/p>",
+    "text": "Calling upon the divine power of your patron, you imbue yourself with strength and skill in combat. You gain a +1 luck bonus on attack rolls, weapon damage rolls, Strength checks, and Strength-based skill checks for every three caster levels you have (maximum +6). You also gain 1 temporary hit point per caster level. Whenever you make a full-attack action, you can make an additional attack at your full base attack bonus, plus any appropriate modifiers. This additional attack is not cumulative with similar effects, such as <i>haste<\/i> or weapons with the <i>speed<\/i> special ability.",
     "name_zh": "神能",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>通过呼唤你所信仰神祇的神威，你向自身注入战斗力量和潜能。你的攻击检定、武器伤害检定、力量检定以及基于力量的技能检定获得幸运加值，数值为你所具有的每三个CL +1点 (最高+6)。你还会获得每CL 1点临时HP。每当你进行全力攻击动作时，你能够以完整的BAB加上其他适当的修正，做出一次额外攻击。这次额外攻击无法与类似的效果叠加，比如‘<a href=\"spell.html?spell=haste\">加速术 (haste)<\/a>’或者武器的〈追击 (speed)〉特殊能力。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>通过呼唤你所信仰神祇的神威，你向自身注入战斗力量和潜能。你的攻击检定、武器伤害检定、力量检定以及基于力量的技能检定获得幸运加值，数值为你所具有的每三个CL +1点 (最高+6)。你还会获得每CL 1点临时HP。每当你进行全力攻击动作时，你能够以完整的BAB加上其他适当的修正，做出一次额外攻击。这次额外攻击无法与类似的效果叠加，比如‘<a href=\"spell.html?spell=haste\">加速术 (haste)<\/a>’或者武器的〈追击 (speed)〉特殊能力。<\/p>"
 }

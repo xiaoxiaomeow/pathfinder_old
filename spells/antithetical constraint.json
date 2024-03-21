@@ -1,15 +1,18 @@
 {
     "key": "antithetical constraint",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/antithetical-constraint/",
     "name": "Antithetical Constraint",
-    "book": "Pathfinder Player Companion: Champions of Balance © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Antithetical%20Constraint",
+    "source": ["Champions of Balance pg. 26"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 4,
         "bard": 4,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "skald": 4,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,15 +21,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You constrain the target such that the target automatically misses with all attacks made against creatures that are not of the opposite alignment of it. For example, a lawful evil target would automatically fail at all attacks except those made against chaotic good creatures, and a neutral good target would automatically fail at all attacks except those made against neutral evil creatures. For the purposes of antithetical constraint, creatures that are chaotic evil, chaotic good, lawful evil, or lawful good are all considered to have the opposite alignment of a target whose alignment is neutral with no other alignment components. This restriction doesn't apply to effects that do not require attack rolls, such as magic missile.<\/p>",
+    "text": "You constrain the target such that the target automatically misses with all attacks made against creatures that are not of the opposite alignment of it. For example, a lawful evil target would automatically fail at all attacks except those made against chaotic good creatures, and a neutral good target would automatically fail at all attacks except those made against neutral evil creatures. For the purposes of <i>antithetical constraint<\/i>, creatures that are chaotic evil, chaotic good, lawful evil, or lawful good are all considered to have the opposite alignment of a target whose alignment is neutral with no other alignment components. This restriction doesn’t apply to effects that do not require attack rolls, such as <i>magic missile<\/i>.",
     "name_zh": "对立约束",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你限制目标在所有对抗非对立阵营的生物的攻击中自动失手。举个例子，一名守序邪恶的目标除了在对抗混乱善良的角色外，对其他阵营的全部攻击自动失败，而一名中立善良的目标除了在对抗中立邪恶的角色外，对其他阵营的全部攻击自动失败。在对立约束的来说，混乱邪恶、混乱善良、守序邪恶或守序善良的生物，都被认为没有其他阵营成分，绝对中立目标的对立阵营。这限制并不应用在不需要做攻击骰的效果上，像是魔法飞弹(magic missile)。<\/p>",
-    "source": "PC-CoB"
+    "text_zh": "<p>你限制目标在所有对抗非对立阵营的生物的攻击中自动失手。举个例子，一名守序邪恶的目标除了在对抗混乱善良的角色外，对其他阵营的全部攻击自动失败，而一名中立善良的目标除了在对抗中立邪恶的角色外，对其他阵营的全部攻击自动失败。在对立约束的来说，混乱邪恶、混乱善良、守序邪恶或守序善良的生物，都被认为没有其他阵营成分，绝对中立目标的对立阵营。这限制并不应用在不需要做攻击骰的效果上，像是魔法飞弹(magic missile)。<\/p>"
 }

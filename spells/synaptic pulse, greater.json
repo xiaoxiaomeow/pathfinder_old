@@ -1,11 +1,10 @@
 {
     "key": "synaptic pulse, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/synaptic-pulse/",
     "name": "Synaptic Pulse, Greater",
-    "base": "synaptic pulse",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Synaptic%20Pulse,%20Greater",
+    "source": ["Occult Adventures pg. 187"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
         "mesmerist": 4,
@@ -18,15 +17,14 @@
     "duration": "1d4 rounds; see text",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1d4 rounds. On a successful save, a creature is instead sickened for 1 round.<\/p><\/div>",
+    "text": "You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1d4 rounds. On a successful save, a creature is instead sickened for 1 round.",
     "name_zh": "高等神经脉冲",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
     "range_zh": "30尺",
-    "area_zh": "：以你为中心，半径30尺扩散区域",
-    "duration_zh": "1d4轮；见后文",
+    "area_zh": "以你为中心30尺爆发半径",
+    "duration_zh": "1d4轮; 见文本",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你放射出一股精神冲击波，范围内的所有生物都会由于你的精神尖啸而震慑（stuns）1d4轮。成功通过豁免的生物会恶心（sickened）1轮以替代上述效果。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你放射出一股精神冲击波，范围内的所有生物都会由于你的精神尖啸而震慑（stuns）1d4轮。成功通过豁免的生物会恶心（sickened）1轮以替代上述效果。<\/p>"
 }

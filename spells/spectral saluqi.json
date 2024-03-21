@@ -1,29 +1,33 @@
 {
     "key": "spectral saluqi",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/spectral-salugi/",
     "name": "Spectral Saluqi",
-    "book": "Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Spectral%20Saluqi",
+    "source":     [
+        "Occult Mysteries pg. 58",
+        "Osirion, Land of the Pharaohs pg. 27"
+    ],
     "school": "necromancy",
     "levels":     {
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "arcanist": 6,
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 round",
     "components": "V, S, F (a precious metal canine statue worth 100 gp)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "one spectral dog",
-    "duration": "10 min.s/level (d)",
+    "duration": "10 minutes/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell creates a spectral saluqi, an undead canine resembling an over-sized hound with black fur, a gray ruff and tail, and milky gray eyes. The hound shares your alignment and can converse with you telepathically. It can see and attack ethereal creatures, and otherwise has the same statistics as a yeth hound. It usually leaves no tracks because it prefers to fly an inch above the ground. You are immune to the hound's bay ability. The hound's bite is considered aligned to any single alignment you possess for the purposes of overcoming damage reduction.<\/p>",
+    "text": "This spell creates a spectral saluqi, an undead canine resembling an oversized hound with black fur, a gray ruff and tail, and milky gray eyes. The hound shares your alignment and can converse with you telepathically. It can see and attack ethereal creatures, and otherwise has the same statistics as a yeth hound (<i>Pathfinder RPG Bestiary<\/i> 286). It usually leaves no tracks because it prefers to fly an inch above the ground. You are immune to the hound’s bay ability. The hound’s bite is considered aligned to any single alignment you possess for the purposes of overcoming damage reduction.",
     "name_zh": "幽灵塞鲁奇",
     "castingTime_zh": "1轮",
     "components_zh": "语言, 姿势，材料（珍贵的的犬型金属雕塑，至少价值100g）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个幽灵犬",
-    "duration_zh": "10分钟/等级（D）",
+    "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术会召唤一只幽灵塞鲁奇，一个不死的，拥有黑色的皮毛，灰色的尾巴和乳白色的眼睛的巨大的猎犬。这只猎犬和你拥有同样的阵营，它与你之间有心灵感应，并且能看见和攻击灵界生物（ethereal creatures）。除此之外，他与一个夜嘶猎犬（B1）有着相同的数据。由于它通常浮在地面一英尺以上，因此不会留下痕迹。你免疫夜嘶猎犬的吠叫。<\/p>",
-    "source": "PC-OLoP"
+    "text_zh": "<p>这个法术会召唤一只幽灵塞鲁奇，一个不死的，拥有黑色的皮毛，灰色的尾巴和乳白色的眼睛的巨大的猎犬。这只猎犬和你拥有同样的阵营，它与你之间有心灵感应，并且能看见和攻击灵界生物（ethereal creatures）。除此之外，他与一个夜嘶猎犬（B1）有着相同的数据。由于它通常浮在地面一英尺以上，因此不会留下痕迹。你免疫夜嘶猎犬的吠叫。<\/p>"
 }

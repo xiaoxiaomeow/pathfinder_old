@@ -1,22 +1,24 @@
 {
     "key": "flexible fury",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/f/flexible-fury/",
     "name": "Flexible Fury",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Flexible%20Fury",
+    "source": ["Advanced Class Guide pg. 182"],
     "school": "transmutation",
-    "levels": {"bard": 3},
+    "levels":     {
+        "bard": 3,
+        "skald": 3
+    },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
     "duration": "1 round/level",
-    "text": "<p>You swap one of your current rage powers for another rage power you qualify for. If the rage power granted by this spell has a use limitation (such as once per rage or a number of times per day), any uses of that rage power count toward that limit (including for later castings of this spell).<\/p><p>If you swap out a rage power that is required to qualify for another one of your rage powers, you cannot use any rage powers dependent on the one you swapped out until the spell ends. For example, if you have the intimidating glare and terrifying howl rage powers and you swap out intimidating glare for surprise accuracy, you cannot use terrifying howl until the spell ends.<\/p>",
+    "text": "You swap one of your current rage powers for another rage power you qualify for. If the rage power granted by this spell has a use limitation (such as once per rage or a number of times per day), any uses of that rage power count toward that limit (including for later castings of this spell).<br><br> If you swap out a rage power that is required to qualify for another one of your rage powers, you cannot use any rage powers dependent on the one you swapped out until the spell ends. For example, if you have the intimidating glare and terrifying howl rage powers and you swap out intimidating glare for surprise accuracy, you cannot use terrifying howl until the spell ends.",
     "name_zh": "灵活怒火",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1轮/等级",
-    "text_zh": "<p>你能够将当前具有的狂暴之力（rage powers）更换为另一个有资格选择的狂暴之力。若通过该法术获得的狂暴之力具有使用限制（比如每次狂暴仅限1次或者每日只能使用有限的次数），使用这个狂暴之力的限制都会被计入那个限制之中（包括之后施放该法术使用的时候）。\n若你更换的狂暴之力是其他你所具有的狂暴之力的先决条件，那么直至法术结束为止，你都无法使用任何失去先决条件的狂暴之力。举例说明：若你具有威吓凝视（Intimidating Glare）和怖惧狂嚎（Terrifying Howl）狂暴之力，然后你使用该法术将威吓凝视更换为无比精准（Surprise Accuracy），那么直至该法术结束为止，你都无法使用怖惧狂嚎。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你能够将当前具有的狂暴之力（rage powers）更换为另一个有资格选择的狂暴之力。若通过该法术获得的狂暴之力具有使用限制（比如每次狂暴仅限1次或者每日只能使用有限的次数），使用这个狂暴之力的限制都会被计入那个限制之中（包括之后施放该法术使用的时候）。<\/p><p>若你更换的狂暴之力是其他你所具有的狂暴之力的先决条件，那么直至法术结束为止，你都无法使用任何失去先决条件的狂暴之力。举例说明：若你具有威吓凝视（Intimidating Glare）和怖惧狂嚎（Terrifying Howl）狂暴之力，然后你使用该法术将威吓凝视更换为无比精准（Surprise Accuracy），那么直至该法术结束为止，你都无法使用怖惧狂嚎。<\/p>"
 }

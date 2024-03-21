@@ -1,30 +1,28 @@
 {
     "key": "ectoplasmic eruption",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/ectoplasmic-eruption/",
     "name": "Ectoplasmic Eruption",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ectoplasmic%20Eruption",
+    "source": ["Occult Adventures pg. 168"],
     "school": "evocation",
     "levels":     {
         "psychic": 7,
         "spiritualist": 6
     },
-    "bloodlines": {"ectoplasm": 7},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "medium (100 ft. + 10 ft./level)",
     "area": "30-ft.-radius burst",
     "duration": "1 round/level",
-    "savingThrow": "Reflex half and Will partial",
+    "savingThrow": "Reflex half and Will partial, see text",
     "spellResistance": "yes",
-    "text": "<p>A cascading avalanche of pale, swirling ectoplasmic matter erupts from a point you select. All creatures in the area when the spell is cast take 6d6 points of bludgeoning damage and are entangled for a number of rounds equal to your caster level.<\/p><p>This spell passes between planes, so it affects ethereal and incorporeal creatures normally.<\/p><p>In addition, each ethereal or incorporeal creature in the area must succeed at a Will save or be pushed partially onto the Material Plane for a number of rounds equal to your caster level. It must attempt this Will save regardless of whether it succeeded at the Reflex save. An incorporeal creature pushed partially onto the Material Plane can't enter or pass through solid objects, takes half damage from non-magical attack forms, and takes full damage from magic weapons, spells, spell-like effects, and supernatural effects.<\/p><p>Corporeal spells and effects that don't cause damage affect the creature normally instead of having a 50% chance of affecting it. The creature still gains the other benefits of being incorporeal, and retains its attack bonuses and Armor Class.<\/p>",
+    "text": "A cascading avalanche of pale, swirling ectoplasmic matter erupts from a point you select. All creatures in the area when the spell is cast take 6d6 points of bludgeoning damage and are entangled for a number of rounds equal to your caster level. This spell passes between planes, so it affects ethereal and incorporeal creatures normally.<br><br>In addition, each ethereal or incorporeal creature in the area must succeed at a Will save or be pushed partially onto the Material Plane for a number of rounds equal to your caster level. It must attempt this Will save regardless of whether it succeeded at the Reflex save. An incorporeal creature pushed partially onto the Material Plane can’t enter or pass through solid objects, takes half damage from nonmagical attack forms, and takes full damage from magic weapons, spells, spell-like effects, and supernatural effects. Corporeal spells and effects that don’t cause damage affect the creature normally instead of having a 50% chance of affecting it. The creature still gains the other benefits of being incorporeal, and retains its attack bonuses and Armor Class.",
     "name_zh": "灵质喷发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "中距 (100尺+10尺/等级)",
-    "area_zh": "：半径30尺爆发区域",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "30尺爆发范围",
     "duration_zh": "1轮/等级",
-    "savingThrow_zh": "反射，通过则减半 和 意志，通过则部分生效；见后文",
+    "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则部分生效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>大量无色的灵质物质从你选择的位置旋转着喷发出来。所有在法术区域内的生物会受到6d6点钝击伤害，而且会在等同于你的施法者等级的轮数中陷入纠缠（entangled）。由于灵质能够穿过位面，因此该法术能够如常影响虚体（incorporeal）和灵界（ethereal）生物。\n此外，每个区域内的虚体（incorporeal）和灵界（ethereal）生物都必须成功通过一次意志豁免，否则便会在一定程度上被推入住物资位面，持续轮数等同于你的施法者等级。无论之前是否成功通过反射豁免，这些生物都必须尝试此次意志豁免。被部分推入主物质位面的虚体生物无法进入或穿过实体物质，会由于非魔法形式的攻击而受到半额伤害，而且还会受到来自魔法武器、法术、类法术能力和超自然效果的全额伤害。不造成伤害但是具有实体的法术或效果能够正常影响这些生物，以取代原本的有50%概率影响。这些生物还会获得虚体带来的其他好处，并且能够保持它的攻击加值（attack bonuses）和防御等级（Armor Class）。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>大量无色的灵质物质从你选择的位置旋转着喷发出来。所有在法术区域内的生物会受到6d6点钝击伤害，而且会在等同于你的施法者等级的轮数中陷入纠缠（entangled）。由于灵质能够穿过位面，因此该法术能够如常影响虚体（incorporeal）和灵界（ethereal）生物。<\/p><p>此外，每个区域内的虚体（incorporeal）和灵界（ethereal）生物都必须成功通过一次意志豁免，否则便会在一定程度上被推入住物资位面，持续轮数等同于你的施法者等级。无论之前是否成功通过反射豁免，这些生物都必须尝试此次意志豁免。被部分推入主物质位面的虚体生物无法进入或穿过实体物质，会由于非魔法形式的攻击而受到半额伤害，而且还会受到来自魔法武器、法术、类法术能力和超自然效果的全额伤害。不造成伤害但是具有实体的法术或效果能够正常影响这些生物，以取代原本的有50%概率影响。这些生物还会获得虚体带来的其他好处，并且能够保持它的攻击加值（attack bonuses）和防御等级（Armor Class）。<\/p>"
 }

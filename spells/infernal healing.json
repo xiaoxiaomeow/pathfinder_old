@@ -1,26 +1,37 @@
 {
     "key": "infernal healing",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/infernal-healing/",
     "name": "Infernal Healing",
-    "book": "Pathfinder Campaign Setting: The Inner Sea World Guide. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Infernal%20Healing",
+    "source":     [
+        "Hell's Vengeance Player's Guide pg. 11",
+        "Pathfinder #29: Mother of Flies pg. 67",
+        "Gods and Magic pg. 7",
+        "Inner Sea World Guide pg. 295"
+    ],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["evil"],
     "levels":     {
-        "cleric/oracle": 1,
+        "arcanist": 1,
+        "bloodrager": 1,
+        "cleric": 1,
         "magus": 1,
-        "sorcerer/wizard": 1,
+        "oracle": 1,
+        "sorcerer": 1,
         "summoner": 1,
-        "witch": 1
+        "summoner (unchained)": 1,
+        "warpriest": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 round",
     "components": "V, S, M (1 drop of devil blood or 1 dose of unholy water)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min.",
+    "duration": "1 minute",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You anoint a wounded creature with devil's blood or unholy water, giving it fast healing 1. This ability cannot repair damage caused by silver weapons, good-aligned weapons, or spells or effects with the good descriptor. The target detects as an evil creature for the duration of the spell and can sense the evil of the magic, though this has no long-term effect on the target's alignment.<\/p>",
+    "text": "You anoint a wounded creature with devil’s blood or unholy water, giving it fast healing 1. This ability cannot repair damage caused by silver weapons, good-aligned weapons, or spells or effects with the good descriptor. The target detects as evil for the duration of the spell and can sense the evil of the magic, though this has no long-term effect on the target’s alignment.",
     "name_zh": "地狱治疗",
     "race_zh": "阿莫斯蒂亚斯",
     "castingTime_zh": "1轮",
@@ -30,6 +41,5 @@
     "duration_zh": "1分钟",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你将一滴恶魔血液滴给一名受伤的生物，给予他快速治疗1。此能力无法恢复因为银制武器、善良阵营武器或有着善良描述符的法术或是效果所造成的伤害。在法术持续时间内，目标在被侦测时如同一位邪恶生物，并且可以感知到魔法的邪恶，但本魔法没有长期效果。<\/p>",
-    "source": "CS-GaM"
+    "text_zh": "<p>你将一滴恶魔血液滴给一名受伤的生物，给予他快速治疗1。此能力无法恢复因为银制武器、善良阵营武器或有着善良描述符的法术或是效果所造成的伤害。在法术持续时间内，目标在被侦测时如同一位邪恶生物，并且可以感知到魔法的邪恶，但本魔法没有长期效果。<\/p>"
 }

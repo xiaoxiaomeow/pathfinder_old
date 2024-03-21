@@ -1,8 +1,8 @@
 {
     "key": "tower of iron will i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tower-of-iron-will/",
     "name": "Tower of Iron Will I",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tower%20of%20Iron%20Will%20I",
+    "source": ["Occult Adventures pg. 190"],
     "school": "abjuration",
     "levels": {"psychic": 5},
     "castingTime": "1 immediate action",
@@ -12,15 +12,14 @@
     "duration": "1 round",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You project a fortress of mental power that blocks out the psychic energy of others, granting mental strength and resiliency to all inside the area. All creatures inside the area gain spell resistance equal to 10 + double this spell's level against psychic magic and any mind-affecting effects. Creatures inside the area don't receive this protection against your spells or special abilities.<\/p>",
+    "text": "You project a fortress of mental power that blocks out the psychic energy of others, granting mental strength and resiliency to all inside the area. All creatures inside the area gain spell resistance equal to 10 + double this spell’s level against psychic magic and any mind-affecting effects. Creatures inside the area don’t receive this protection against your spells or special abilities.",
     "name_zh": "意志钢塔 I",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
     "range_zh": "10尺",
-    "area_zh": "：以你为中心，半径10尺的发散区域",
+    "area_zh": "以你为中心, 半径10尺发散区域",
     "duration_zh": "1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你塑造出精神力量构筑的堡垒，并以此来屏蔽他人的精神能量，让区域内的所有人都获得强韧的精神。在对抗异能法术（psychic magic）以及影响心灵（mind-affecting）效果时，区域内的所有生物都会获得法术抗力，数值相当于10 + 该法术等级的两倍。区域内的生物在对抗你的法术或特殊能力时，不会受到该效果的保护。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你塑造出精神力量构筑的堡垒，并以此来屏蔽他人的精神能量，让区域内的所有人都获得强韧的精神。在对抗异能法术（psychic magic）以及影响心灵（mind-affecting）效果时，区域内的所有生物都会获得法术抗力，数值相当于10 + 该法术等级的两倍。区域内的生物在对抗你的法术或特殊能力时，不会受到该效果的保护。<\/p>"
 }

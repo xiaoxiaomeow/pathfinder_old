@@ -1,24 +1,28 @@
 {
     "key": "archon's aura",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/archon-s-aura/",
     "name": "Archon's Aura",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Archon's%20Aura",
+    "source": ["Ultimate Magic pg. 206"],
     "school": "evocation",
     "descriptors":     [
         "good",
         "lawful"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 3,
-        "paladin": 3
+        "cleric": 3,
+        "oracle": 3,
+        "paladin": 3,
+        "warpriest": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "20 ft.",
     "area": "20-ft. radius centered on you",
+    "duration": "1 minute/level",
     "savingThrow": "Will negates",
-    "text": "<p>You gain a powerful aura, similar to an archon's aura of menace. Any hostile creature within a 20-foot radius of you must make a Will save to resist the effects of this aura. If the creature fails, it takes a –2 penalty on attack rolls and saving throws and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of <i>archon's aura<\/i>.<\/p>",
+    "spellResistance": "yes",
+    "text": "You gain a powerful aura, similar to an archon’s aura of menace. Any hostile creature within a 20-foot radius of you must make a Will save to resist the effects of this aura. If the creature fails, it takes a –2 penalty on attack rolls and saving throws and to Armor Class for the duration of this spell, or until it successfully hits you with an attack. A creature that has resisted or broken the effect cannot be affected again by this particular casting of <i>archon’s aura<\/i>.",
     "name_zh": "亚空灵气",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -27,6 +31,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>你获得了一个强力的灵气，类似于一名亚空天族的威胁灵气。<\/p><p>所有在你半径20尺内的敌对生物都必须做一个意志检定以抵抗其效果。如果检定失败，它会在攻击骰和豁免检定，以及AC上获得-2罚值，持续到法术效果时间，或是它成功的攻击命中你为止。<\/p><p>一个豁免成功或者已经成功打破法术效果的生物在本次法术效果持续时间内不会再次受到亚空灵气法术的影响。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>你获得了一个强力的灵气，类似于一名亚空天族的威胁灵气。<\/p><p>所有在你半径20尺内的敌对生物都必须做一个意志检定以抵抗其效果。如果检定失败，它会在攻击骰和豁免检定，以及AC上获得-2罚值，持续到法术效果时间，或是它成功的攻击命中你为止。<\/p><p>一个豁免成功或者已经成功打破法术效果的生物在本次法术效果持续时间内不会再次受到亚空灵气法术的影响。<\/p>"
 }

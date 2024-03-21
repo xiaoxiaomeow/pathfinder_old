@@ -1,8 +1,8 @@
 {
     "key": "wake of light",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wake-of-light/",
     "name": "Wake of Light",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wake%20of%20Light",
+    "source": ["Advanced Player's Guide pg. 254"],
     "school": "evocation",
     "descriptors": ["good"],
     "levels": {"paladin": 2},
@@ -13,7 +13,7 @@
     "duration": "1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>You and your mount lay down a trail of glowing, heavenly mist behind you as you move that makes passage easier for good creatures but more difficult for evil creatures. This glowing trail of mist appears behind your mount in a straight line starting where you cast the spell and ending where your mount ends its movement. The mist takes the form of a path 10 feet wide and up to 120 feet long and always floats just above the ground, up to a height of 1 foot. Thereafter, the mist persists for 1 round per level.<\/p><p>Good creatures may walk along the top of the mist as if it were solid, treating squares of difficult terrain containing the mist as normal terrain. Evil creatures find the mist thick and cloying, and treat squares of normal terrain containing the mist as difficult terrain instead. Neutral creatures pass through the mist with no effect. The mist has no effect on obstacles or otherwise impassable terrain, and does not block sight or provide concealment.<\/p><p>Except for very special circumstances (such as a celestial or fiendish mount), mounts use the alignment of their rider when determining how this spell affects them. You must be mounted to enjoy the benefits of this spell. If you dismount, get knocked off, or take any other action that separates you from your mount, the spell immediately ends, although the mist remains for the spell's normal duration.<\/p><p>A wake of light cannot follow across water, underwater, or through the air in the case of a mount capable of walking on water, swimming, or flight.<\/p>",
+    "text": "You and your mount lay down a trail of glowing, heavenly mist behind you as you move that makes passage easier for good creatures but more difficult for evil creatures. This glowing trail of mist appears behind your mount in a straight line starting where you cast the spell and ending where your mount ends its movement. The mist takes the form of a path 10 feet wide and up to 120 feet long and always floats just above the ground, up to a height of 1 foot. Thereafter, the mist persists for 1 round per level.<br><br>Good creatures may walk along the top of the mist as if it were solid, treating squares of difficult terrain containing the mist as normal terrain. Evil creatures find the mist thick and cloying, and treat squares of normal terrain containing the mist as difficult terrain instead. Neutral creatures pass through the mist with no effect. The mist has no effect on obstacles or otherwise impassable terrain, and does not block sight or provide concealment.<br><br>Except for very special circumstances (such as a celestial or fiendish mount), mounts use the alignment of their rider when determining how this spell affects them. You must be mounted to enjoy the benefits of this spell. If you dismount, get knocked off, or take any other action that separates you from your mount, the spell immediately ends, although the mist remains for the spell’s normal duration.<br><br>A wake of light cannot follow across water, underwater, or through the air in the case of a mount capable of walking on water, swimming, or flight.",
     "name_zh": "光之尾迹",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
@@ -22,6 +22,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你与你的坐骑移动时身后会留下一路光辉、神圣的薄雾，使善良生物易于通过，邪恶生物深陷泥泞。在你坐骑身后留下的这条线形的光辉雾迹，会以你施放该法术的位置为起点，以你的坐骑移动结束的位置为终点。薄雾会形成10尺宽，最高120尺长的路径，总是漂浮在刚好高于地面最高1尺的位置。在此之后，这些薄雾存续每等级1轮。<\/p><p>善良生物可以沿着薄雾的上层移动，仿佛它是固体一般，并将薄雾覆盖的方格内的困难地形视为正常地形。而邪恶生物会感觉雾气十分厚重，视其覆盖的方格内的正常地形为困难地形。中立生物可以正常穿过雾气而不受影响。薄雾对障碍以及其他无法穿越的地形没有影响，并且不会遮蔽视线或提供隐蔽。<\/p><p>除非十分特殊的情况 (比如天界或炼狱坐骑)，坐骑使用它们骑手的阵营确定该法术的影响。你必须处于骑乘状态才能享受该法术的好处。如果你下马，被击落或者进行其他会使你与坐骑分开的动作的话，该法术立刻结束，不过雾迹仍旧按照法术的正常持续时间计算。<\/p><p>对于能够水上行走，游泳或者飞行的坐骑来说，光之尾迹无法出现在水面上，水下或者空中。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>你与你的坐骑移动时身后会留下一路光辉、神圣的薄雾，使善良生物易于通过，邪恶生物深陷泥泞。在你坐骑身后留下的这条线形的光辉雾迹，会以你施放该法术的位置为起点，以你的坐骑移动结束的位置为终点。薄雾会形成10尺宽，最高120尺长的路径，总是漂浮在刚好高于地面最高1尺的位置。在此之后，这些薄雾存续每等级1轮。<\/p><p>善良生物可以沿着薄雾的上层移动，仿佛它是固体一般，并将薄雾覆盖的方格内的困难地形视为正常地形。而邪恶生物会感觉雾气十分厚重，视其覆盖的方格内的正常地形为困难地形。中立生物可以正常穿过雾气而不受影响。薄雾对障碍以及其他无法穿越的地形没有影响，并且不会遮蔽视线或提供隐蔽。<\/p><p>除非十分特殊的情况 (比如天界或炼狱坐骑)，坐骑使用它们骑手的阵营确定该法术的影响。你必须处于骑乘状态才能享受该法术的好处。如果你下马，被击落或者进行其他会使你与坐骑分开的动作的话，该法术立刻结束，不过雾迹仍旧按照法术的正常持续时间计算。<\/p><p>对于能够水上行走，游泳或者飞行的坐骑来说，光之尾迹无法出现在水面上，水下或者空中。<\/p>"
 }

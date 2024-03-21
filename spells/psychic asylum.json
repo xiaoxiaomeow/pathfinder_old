@@ -1,30 +1,33 @@
 {
     "key": "psychic asylum",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/psychic-asylum/",
     "name": "Psychic Asylum",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Psychic%20Asylum",
+    "source": ["Occult Adventures pg. 181"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 6,
         "mesmerist": 5,
         "psychic": 5,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
     "castingTime": "1 swift action",
     "components": "V, S",
-    "range": "personal target you",
+    "range": "personal",
+    "target": "you",
     "duration": "instantaneous; see text",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You retreat into a mindscape of your own making that allows you to perform a lengthy mental task in an instant.<\/p><p>You create a mental landscape that provides succor and calm for you, such as a library, sitting room, garden, or childhood tree house. You can spend up to 15 minutes in your psychic asylum.<\/p><p>While you are within, no time passes for your body, and when you emerge you can continue with your turn. The mindscape is overt, finite, and has a rapid passage of time.<\/p><p>While within the mindscape, you can consult any text, recall any conversation, or remember any image that you have been exposed to with perfect clarity and recollection, as if you had an eidetic memory. You must have seen or heard the material within a time frame of 1 week per level. For example, you might wish to reexamine a passage of text from an ancient manuscript you rapidly scanned in a library 2 weeks prior. While in the psychic asylum, you can perfectly recall the precise layout of the text within the ancient manuscript and read it word for word. Once<\/p><p>You emerge from the psychic asylum, you can recall the details of what you had just studied as clearly as if you had just looked at it, but you no longer have total recall of the material.<\/p><p>If you're able to prepare spells, you can use the time to prepare a single spell. For example, if you were poisoned, you could use your swift action to cast psychic asylum, pray and meditate for the full 15 minutes to gain neutralize poison, then emerge from the mindscape and immediately cast the spell upon yourself as your standard action.<\/p><p>Any mind-affecting spell that was affecting you before you cast the spell continues to expend its duration on you while you are within the psychic asylum, so you can use this spell to wait out the effects of such a condition. Effects that are currently affecting your body do not expend additional duration while you are in the psychic asylum, but you also don't experience their effects during the time spent there.<\/p>",
+    "text": "You retreat into a mindscape (see page 234) of your own making that allows you to perform a lengthy mental task in an instant. You create a mental landscape that provides succor and calm for you, such as a library, sitting room, garden, or childhood tree house. You can spend up to 15 minutes in your psychic asylum. While you are within, no time passes for your body, and when you emerge you can continue with your turn. The mindscape is overt, finite, and has a rapid passage of time.<br><br>While within the mindscape, you can consult any text, recall any conversation, or remember any image that you have been exposed to with perfect clarity and recollection, as if you had an eidetic memory. You must have seen or heard the material within a time frame of 1 week per level. For example, you might wish to reexamine a passage of text from an ancient manuscript you rapidly scanned in a library 2 weeks prior. While in the <i>psychic asylum<\/i>, you can perfectly recall the precise layout of the text within the ancient manuscript and read it word for word. Once you emerge from the <i>psychic asylum<\/i>, you can recall the details of what you had just studied as clearly as if you had just looked at it, but you no longer have total recall of the material.<br><br>If you’re able to prepare spells, you can use the time to prepare a single spell. For example, if you were poisoned, you could use your swift action to cast <i>psychic asylum<\/i>, pray and meditate for the full 15 minutes to gain <i>neutralize poison<\/i>, then emerge from the mindscape and immediately cast the spell upon yourself as your standard action.<br><br>Any mind-affecting spell that was affecting you before you cast the spell continues to expend its duration on you while you are within the <i>psychic asylum<\/i>, so you can use this spell to wait out the effects of such a condition. Effects that are currently affecting your body do not expend additional duration while you are in the <i>psychic asylum<\/i>, but you also don’t experience their effects during the time spent there.",
     "name_zh": "精神庇护所",
     "castingTime_zh": "迅捷动作",
     "components_zh": "语言，姿势",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "立即；见后文",
+    "duration_zh": "立即; 见文本",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你撤回到由自己塑造的心像结界（Mindscape）中，这使得你能够在即刻间执行一项长时间的心智任务（lengthy mental task）。你创造出一道精神景观，这里能为你提供帮助，而且还能让你平静下来，比如图书馆、起居室、花园或者儿童树屋等。你至多能够在精神庇护所内投入15分钟时间。当你在精神庇护所之内时，你的身体并不会经历时间的流逝，而在离开精神庇护所之后，你能够继续进行自己的回合。这是个具有易识别（Overt）、有限（Finite）和快速时间（Rapid Time）特性的心像结界。\n身处心像结界之内时，你能够阅读任何文本、回忆任何对话或者回想任何影像，这些内容都要在你过去完整清晰地接触过，就如同你有着异常准确的记忆力一般。你必须在过去每等级1个星期的时限内听到或看到上述内容。举例说明：你可能想要重新审视一段古代文献中的部分文字，且你本人刚刚在大约2周前于图书馆内阅读过这部文献。于是在身处于精神庇护所之时，你能够完美唤起古代文献中文本的精确编排，而且能够逐字阅读。一旦你脱离精神庇护所，便可以清晰地回想起刚刚所研习的那部分细节，就好像刚看完这些内容一般，但是你不再具有完全回想整部文献的能力。\n若你能够准备法术，你能够使用这些时间来准备单个法术。举例说明：若你中毒了，那么你能够使用迅捷动作施放精神庇护所，在15分钟内祈祷和冥思以获得中和毒性（Neutralize Poison）法术，之后离开心像结界，立即以标准动作对自己施放中和毒性。【译注：然而该法术并不在牧师的列表中，能施放该法术的几位也都不会中和毒性……】\n若在你施放精神庇护所之前已经有任何影响心灵（mind-affecting）法术正在影响你，那么当你进入精神庇护所的期间仍旧会持续受到上述法术影响，因此你能够使用该法术等待这些效果的持续时间结束。当前正在影响你的身体的效果不会随着你进入精神庇护所而消耗额外的持续时间，但是在此期间你也不会在精神庇护所内承受此类效果。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>你撤回到由自己塑造的心像结界（Mindscape）中，这使得你能够在即刻间执行一项长时间的心智任务（lengthy mental task）。你创造出一道精神景观，这里能为你提供帮助，而且还能让你平静下来，比如图书馆、起居室、花园或者儿童树屋等。你至多能够在精神庇护所内投入15分钟时间。当你在精神庇护所之内时，你的身体并不会经历时间的流逝，而在离开精神庇护所之后，你能够继续进行自己的回合。这是个具有易识别（Overt）、有限（Finite）和快速时间（Rapid Time）特性的心像结界。<\/p><p>身处心像结界之内时，你能够阅读任何文本、回忆任何对话或者回想任何影像，这些内容都要在你过去完整清晰地接触过，就如同你有着异常准确的记忆力一般。你必须在过去每等级1个星期的时限内听到或看到上述内容。举例说明：你可能想要重新审视一段古代文献中的部分文字，且你本人刚刚在大约2周前于图书馆内阅读过这部文献。于是在身处于精神庇护所之时，你能够完美唤起古代文献中文本的精确编排，而且能够逐字阅读。一旦你脱离精神庇护所，便可以清晰地回想起刚刚所研习的那部分细节，就好像刚看完这些内容一般，但是你不再具有完全回想整部文献的能力。<\/p><p>若你能够准备法术，你能够使用这些时间来准备单个法术。举例说明：若你中毒了，那么你能够使用迅捷动作施放精神庇护所，在15分钟内祈祷和冥思以获得中和毒性（Neutralize Poison）法术，之后离开心像结界，立即以标准动作对自己施放中和毒性。【译注：然而该法术并不在牧师的列表中，能施放该法术的几位也都不会中和毒性……】<\/p><p>若在你施放精神庇护所之前已经有任何影响心灵（mind-affecting）法术正在影响你，那么当你进入精神庇护所的期间仍旧会持续受到上述法术影响，因此你能够使用该法术等待这些效果的持续时间结束。当前正在影响你的身体的效果不会随着你进入精神庇护所而消耗额外的持续时间，但是在此期间你也不会在精神庇护所内承受此类效果。<\/p>"
 }

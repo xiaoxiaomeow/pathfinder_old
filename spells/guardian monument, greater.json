@@ -1,20 +1,34 @@
 {
     "key": "guardian monument, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/guardian-monument-lesser/",
     "name": "Guardian Monument, Greater",
-    "base": "guardian monument, lesser",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Guardian%20Monument,%20Greater",
+    "source": ["Arcane Anthology pg. 9"],
     "school": "abjuration",
     "levels":     {
+        "arcanist": 5,
         "bard": 5,
         "inquisitor": 5,
         "occultist": 5,
         "psychic": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "skald": 5,
+        "sorcerer": 5,
+        "witch": 5,
+        "wizard": 5
     },
-    "text": "<p>This spell functions as <i>lesser guardian monument<\/i>, except it grants DR 4/magic.<\/p><\/div>",
+    "castingTime": "1 full round",
+    "components": "V, S, F (an unattended, nonmagical object)",
+    "range": "touch",
+    "area": "40-ft. radius from touched object or 60-ft. radius from touched object; see text",
+    "duration": "1 hour/level",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>lesser guardian monument<\/i>, except it grants DR 4/magic.",
     "name_zh": "高等守护石碑",
-    "text_zh": "<p>这种法术如同次级守护石碑，除了会赋予DR 4/魔法。<\/p>",
-    "source": "PC-AAnth"
+    "castingTime_zh": "整轮动作",
+    "range_zh": "接触",
+    "area_zh": "40-ft. radius from touched object or 60-ft. radius from touched object; see text",
+    "duration_zh": "1小时/等级",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>这种法术如同次级守护石碑，除了会赋予DR 4/魔法。<\/p>"
 }

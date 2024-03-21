@@ -1,11 +1,12 @@
 {
     "key": "detect animals or plants",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/detect-animals-or-plants/",
     "name": "Detect Animals or Plants",
-    "book": "Pathfinder Roleplaying Game Core Rulebook. © 2009, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Detect%20Animals%20or%20Plants",
+    "source": ["PRPG Core Rulebook pg. 266"],
     "school": "divination",
     "levels":     {
         "druid": 1,
+        "hunter": 1,
         "psychic": 1,
         "ranger": 1,
         "shaman": 1
@@ -14,18 +15,17 @@
     "components": "V, S",
     "range": "long (400 ft. + 40 ft./level)",
     "area": "cone-shaped emanation",
-    "duration": "concentration, up to 10 min./level (d)",
+    "duration": "concentration, up to 10 min./level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You can detect a particular kind of animal or plant in a cone emanating out from you in whatever direction you face. You must think of a kind of animal or plant when using the spell, but you can change the animal or plant kind each round. The amount of information revealed depends on how long you search a particular area or focus on a specific kind of animal or plant.<\/p>",
+    "text": "You can detect a particular kind of animal or plant in a cone emanating out from you in whatever direction you face. You must think of a kind of animal or plant when using the spell, but you can change the animal or plant kind each round. The amount of information revealed depends on how long you search a particular area or focus on a specific kind of animal or plant.<br><br><i>1st Round<\/i>: Presence or absence of that kind of animal or plant in the area.<br><br><i>2nd Round<\/i>: Number of individuals of the specified kind in the area and the condition of the healthiest specimen.<br><br><i>3rd Round<\/i>: The condition (see below) and location of each individual present. If an animal or a plant is outside your line of sight, then you discern its direction but not its exact location.<br><br><i>Conditions<\/i>: For purposes of this spell, the categories of condition are as follows:<br><br>Normal: Has at least 90% of full normal hit points, free of disease.<br><br>Fair: 30% to 90% of full normal hit points remaining.<br><br>Poor: Less than 30% of full normal hit points remaining, afflicted with a disease, or suffering from a debilitating injury.<br><br>Weak: 0 or fewer hit points remaining, afflicted with a disease that has reduced an ability score to 5 or less, or crippled.<br><br>If a creature falls into more than one category, the spell indicates the weaker of the two.<br><br>Each round you can turn to detect a kind of animal or plant in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.",
     "name_zh": "侦测动植物",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "area_zh": "锥形发散区域",
     "duration_zh": "专注, 至多每等级10分钟 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你可以侦测以自己正面朝向为起点的锥形发散区域之内，特定种类的动物或植物。你必须在施法时选定一个种类动物或植物，不过这个种类每轮都可以改变。你能获得的信息量取决于你研究一片特定区域或专注于特定种类的动植物的时间。<\/p><p>第一轮：确定这片区域内此种动植物是否存在。<\/p><p>第二轮：区域内特定种类动植物的数量，及其中最健康生物的状况。<\/p><p>第三轮：每个个体的状况 (见后文) 和位置。若它处于你的视线外，则你只能知晓它的方向，而非确切位置。<\/p><p>状况：在判断该法术的功能时，生物状况的类别如后所述：<\/p><p>正常 (Normal): 有至少90%的HP，未染上疾病。<\/p><p>尚可 (Fair): 剩余30 – 90%的HP。<\/p><p>欠佳 (Poor): HP少于30%、遭受疾病、或由于创伤而虚弱。<\/p><p>衰弱 (Weak): HP为0或更低、遭受会将某项属性降低至5或更低的疾病、或残废。<\/p><p>若生物符合以上多个类别 (如HP为50%以上但遭受疾病)，则该法术会显示出较为糟糕的状况。<\/p><p>每轮你都可以转而侦测新的区域。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅薄片或3尺厚的木头或泥土都可以挡住它。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你可以侦测以自己正面朝向为起点的锥形发散区域之内，特定种类的动物或植物。你必须在施法时选定一个种类动物或植物，不过这个种类每轮都可以改变。你能获得的信息量取决于你研究一片特定区域或专注于特定种类的动植物的时间。<\/p><p>第一轮：确定这片区域内此种动植物是否存在。<\/p><p>第二轮：区域内特定种类动植物的数量，及其中最健康生物的状况。<\/p><p>第三轮：每个个体的状况 (见后文) 和位置。若它处于你的视线外，则你只能知晓它的方向，而非确切位置。<\/p><p>状况：在判断该法术的功能时，生物状况的类别如后所述：<\/p><p>正常 (Normal): 有至少90%的HP，未染上疾病。<\/p><p>尚可 (Fair): 剩余30 – 90%的HP。<\/p><p>欠佳 (Poor): HP少于30%、遭受疾病、或由于创伤而虚弱。<\/p><p>衰弱 (Weak): HP为0或更低、遭受会将某项属性降低至5或更低的疾病、或残废。<\/p><p>若生物符合以上多个类别 (如HP为50%以上但遭受疾病)，则该法术会显示出较为糟糕的状况。<\/p><p>每轮你都可以转而侦测新的区域。该法术可穿透障碍，不过1尺厚的岩石，1英吋厚的普通金属，铅薄片或3尺厚的木头或泥土都可以挡住它。<\/p>"
 }

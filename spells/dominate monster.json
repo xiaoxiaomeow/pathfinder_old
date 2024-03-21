@@ -1,20 +1,33 @@
 {
     "key": "dominate monster",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dominate-monster/",
     "name": "Dominate Monster",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dominate%20Monster",
+    "source": ["PRPG Core Rulebook pg. 274"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
-        "sorcerer/wizard": 9,
+        "arcanist": 9,
+        "psychic": 9,
+        "sorcerer": 9,
         "summoner": 6,
-        "witch": 9
+        "witch": 9,
+        "wizard": 9
     },
-    "domains": {"charm": 9},
+    "castingTime": "1 round",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one creature",
-    "text": "<p>This spell functions like <i>dominate person<\/i>, except that the spell is not restricted by creature type.<\/p>",
+    "duration": "1 day/level",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "This spell functions like <i>dominate person<\/i>, except that the spell is not restricted by creature type.",
     "name_zh": "支配怪物",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=dominate person\">支配人类 (dominate person)<\/a>’一般，不过该法术没有生物类型的限制。<\/p>",
-    "source": "CRB"
+    "duration_zh": "1天/等级",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=dominate person\">支配人类 (dominate person)<\/a>’一般，不过该法术没有生物类型的限制。<\/p>"
 }

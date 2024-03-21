@@ -1,21 +1,28 @@
 {
     "key": "sickening entanglement",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sickening-entanglement/",
     "name": "Sickening Entanglement",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sickening%20Entanglement",
+    "source": ["Advanced Class Guide pg. 192"],
     "school": "transmutation",
     "descriptors": ["poison"],
     "levels":     {
         "druid": 2,
+        "hunter": 2,
         "ranger": 2,
         "shaman": 2
     },
-    "savingThrow": "Reflex partial and Fort negates (see text)",
-    "spellResistance": "no",
-    "text": "<p>This spell functions as entangle, except the plants are coated with an irritating sap that creates a painful, itching rash on creatures that touch them. Any creature that enters the area or ends its turn there must succeed at a Fortitude save or be sickened as long as it remains in the area and for 1d4 rounds afterward. This is a poison effect.<\/p>",
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "long (400 ft. + 40 ft./level)",
+    "area": "plants in a 40-ft.-radius spread",
+    "duration": "1 min./level (D)",
+    "text": "This spell functions as <i>entangle<\/i>, except the plants are coated with an irritating sap that creates a painful, itching rash on creatures that touch them. Any creature that enters the area or ends its turn there must succeed at a Fortitude save or be sickened as long as it remains in the area and for 1d4 rounds afterward. This is a poison effect.",
     "name_zh": "毒液纠缠术",
+    "castingTime_zh": "标准动作",
+    "range_zh": "远距 (400尺+每等级40尺)",
+    "area_zh": "半径40尺扩散区域内的植物",
+    "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "反射，通过则部分生效 和 强韧，通过则无效（见后文）",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术的功能如同纠缠术（Entangle）一般，不过植物表面覆盖着一层刺激性树液，这会使碰触植物的生物长出疼痒难忍的皮疹。对于任何进入法术区域或者在区域内结束回合的生物，比如成功通过强韧豁免，否则只要身处区域内就会恶心（sickened），该效果在离开后还会持续1d4轮。这是个毒素效果（poison effect）。<\/p>",
-    "source": "ACG"
+    "spellResistance_zh": "否",
+    "text_zh": "<p>该法术的功能如同纠缠术（Entangle）一般，不过植物表面覆盖着一层刺激性树液，这会使碰触植物的生物长出疼痒难忍的皮疹。对于任何进入法术区域或者在区域内结束回合的生物，比如成功通过强韧豁免，否则只要身处区域内就会恶心（sickened），该效果在离开后还会持续1d4轮。这是个毒素效果（poison effect）。<\/p>"
 }

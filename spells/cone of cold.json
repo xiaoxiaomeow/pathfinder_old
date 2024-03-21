@@ -1,20 +1,19 @@
 {
     "key": "cone of cold",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cone-of-cold/",
     "name": "Cone of Cold",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cone%20of%20Cold",
+    "source": ["PRPG Core Rulebook pg. 258"],
     "school": "evocation",
     "descriptors": ["cold"],
     "levels":     {
+        "arcanist": 5,
         "magus": 5,
+        "occultist": 5,
         "shaman": 6,
-        "sorcerer/wizard": 5,
-        "witch": 6
+        "sorcerer": 5,
+        "witch": 6,
+        "wizard": 5
     },
-    "domains": {"water": 6},
-    "elementalSchools": {"water": 5},
-    "bloodlines": {"boreal": 5},
-    "mysteries": {"winter": 6},
     "castingTime": "1 standard action",
     "components": "V, S, M (a small crystal or glass cone)",
     "range": "60 ft.",
@@ -22,8 +21,9 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "<p><i>Cone of cold<\/i> creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).<\/p>",
-    "mythicText": "The damage dealt increases to 1d10 points of cold damage per caster level (maximum 15d10). Any creature that fails its save is partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtype or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. <br>Destroying the ice requires a successful Strength or dispel check against the spell's DC, or dealing bludgeoning or fire damage equal to 1 point per caster level to the creature. <br><p style=\"margin-left: 20px\"><b>Augmented<\/b>: You can expend two uses of mythic power to transform the spell's cold into a barrage of giant hailstones, icicles, or shards. Half the spell's damage is your choice of bludgeoning, piercing, or slashing damage, and the other half is cold damage. ",
+    "text": "<i>Cone of cold<\/i> creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).<h2 class=\"title\">Mythic Cone of Cold<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 89<\/i><br>The damage dealt increases to 1d10 points of cold damage per caster level (maximum 15d10). Any creature that fails its save is partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtype or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell’s DC, or dealing bludgeoning or fire damage equal to 1 point per caster level to the creature.<br><br><b>Augmented<\/b>: You can expend two uses of mythic power to transform the spell’s cold into a barrage of giant hailstones, icicles, or shards. Half the spell’s damage is your choice of bludgeoning, piercing, or slashing damage, and the other half is cold damage.",
+    "mythicSource": ["Mythic Adventures pg. 89"],
+    "mythicText": "The damage dealt increases to 1d10 points of cold damage per caster level (maximum 15d10). Any creature that fails its save is partially encased in ice, reducing its speed by half. Creatures with the cold or incorporeal subtype or immunity to being grappled are immune to this effect. The reduced movement lasts until the ice is destroyed. Destroying the ice requires a successful Strength or dispel check against the spell’s DC, or dealing bludgeoning or fire damage equal to 1 point per caster level to the creature.<br><br><b>Augmented<\/b>: You can expend two uses of mythic power to transform the spell’s cold into a barrage of giant hailstones, icicles, or shards. Half the spell’s damage is your choice of bludgeoning, piercing, or slashing damage, and the other half is cold damage.",
     "name_zh": "寒冰锥",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (小块锥形水晶或玻璃)",
@@ -32,6 +32,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "可",
-    "text_zh": "<p>寒冰锥制造出一片极度严寒的区域，它从你的掌心中产生并延伸出一片锥形区域。它会耗干热量，造成每CL 1d6点寒冷伤害 (最高15d6)。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>寒冰锥制造出一片极度严寒的区域，它从你的掌心中产生并延伸出一片锥形区域。它会耗干热量，造成每CL 1d6点寒冷伤害 (最高15d6)。<\/p>"
 }

@@ -1,17 +1,20 @@
 {
     "key": "acid splash",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/acid-splash/",
     "name": "Acid Splash",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Acid%20Splash",
+    "source": ["PRPG Core Rulebook pg. 239"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "descriptors": ["acid"],
     "levels":     {
+        "arcanist": 0,
         "inquisitor": 0,
         "magus": 0,
-        "sorcerer/wizard": 0,
-        "summoner/unchained summoner": 0
+        "sorcerer": 0,
+        "summoner": 0,
+        "summoner (unchained)": 0,
+        "wizard": 0
     },
-    "elementalSchools": {"earth": 0},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "close (25 ft. + 5 ft./2 levels)",
@@ -19,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage. This acid disappears after 1 round.<\/p>",
+    "text": "You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage. This acid disappears after 1 round.",
     "name_zh": "酸液飞溅",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一发酸液飞弹",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你对目标发射了一颗小酸球。你必须做一次成功的远程接触攻击才能击中目标。酸球造成1d3点强酸伤害。这些酸液会在1轮后消失。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>你对目标发射了一颗小酸球。你必须做一次成功的远程接触攻击才能击中目标。酸球造成1d3点强酸伤害。这些酸液会在1轮后消失。<\/p>"
 }

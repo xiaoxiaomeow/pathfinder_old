@@ -1,15 +1,20 @@
 {
     "key": "sawtooth terrain",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sawtooth-terrain/",
     "name": "Sawtooth Terrain",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sawtooth%20Terrain",
+    "source": ["Adventurer's Guide pg. 161"],
     "school": "transmutation",
     "descriptors": ["earth"],
     "levels":     {
+        "arcanist": 5,
         "cleric": 5,
         "druid": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
+        "hunter": 5,
+        "oracle": 5,
+        "sorcerer": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 round",
     "components": "V, S, DF",
@@ -18,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "Reflex negates",
     "spellResistance": "yes",
-    "text": "<p>This spell targets an area of earth, metal, stone, or wood, causing long, serrated blades to shoot out from random points within the area of effect.<\/p><p>Any creature in the area when the spell is first cast must attempt a Reflex save to avoid taking 3d8 points of piercing damage from the blades and an additional 2d6 points of bleed damage. A creature that fails the save also has its speed reduced by half for 24 hours or until the injured creature benefits from a -cure- spell (which restores lost hit points as normal). Another creature can remove the penalty by succeeding on a Heal check against the spell's save DC as a standard action.<\/p><p>The lashing limbs remain active in the area for the remainder of the spell's duration, during which time the area is treated as difficult terrain, and any creature that moves into or through the area takes 1d8 points of piercing damage. The transformed area can be located on any visible surface within range, including floors, walls, doors, ceilings, or other generally flat surfaces.<\/p>",
+    "text": "This spell targets an area of earth, metal, stone, or wood, causing long, serrated blades to shoot out from random points within the area of effect. Any creature in the area when the spell is first cast must attempt a Reflex save to avoid taking 3d8 points of piercing damage from the blades and an additional 2d6 points of bleed damage. A creature that fails the save also has its speed reduced by half for 24 hours or until the injured creature benefits from a “cure” spell (which restores lost hit points as normal). Another creature can remove the penalty by succeeding on a Heal check against the spell’s save DC as a standard action.<br><br> The lashing limbs remain active in the area for the remainder of the spell’s duration, during which time the area is treated as difficult terrain, and any creature that moves into or through the area takes 1d8 points of piercing damage. The transformed area can be located on any visible surface within range, including floors, walls, doors, ceilings, or other generally flat surfaces.",
     "name_zh": "锯刃之域",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势，法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "10尺见方的可造成伤害的困难地形",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "反射, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会以土质（earth）、金属质（metal）、石质（stone）或木质（wood）区域为目标，使效果区域内其随机伸出修长且带有锯齿的螳螂镰刃。\n在法术最初施放时，所有位于区域内的生物必须尝试1次反射豁免，成功则可避免尖刃带来的3d8点穿刺伤害、外加2d6点出血伤害（bleed damage）。豁免失败的生物的速度会在24小时内减半，或者直至受伤的生物从“治疗（cure）”法术中获益为止（该法术会如常恢复生命值）。其他生物也可以用标准动作，通过成功的医疗检定来对抗法术的豁免DC，用于移除该项惩罚。\n在法术剩余的持续时间内，这些摇摆的镰刃会一直在该区域内生效，在此期间此地形被视为困难地形（difficult terrain），任何移动进入或通过该区域的生物均会承受1d8点穿刺伤害。此类被转化的区域可以被定位在法术范围内任何可以看到的表面上，这包括门扉、墙壁、地板、天花板或者其他平坦的表面。\n盾徽专员通常会使用后述法术。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>该法术会以土质（earth）、金属质（metal）、石质（stone）或木质（wood）区域为目标，使效果区域内其随机伸出修长且带有锯齿的螳螂镰刃。<\/p><p>在法术最初施放时，所有位于区域内的生物必须尝试1次反射豁免，成功则可避免尖刃带来的3d8点穿刺伤害、外加2d6点出血伤害（bleed damage）。豁免失败的生物的速度会在24小时内减半，或者直至受伤的生物从“治疗（cure）”法术中获益为止（该法术会如常恢复生命值）。其他生物也可以用标准动作，通过成功的医疗检定来对抗法术的豁免DC，用于移除该项惩罚。<\/p><p>在法术剩余的持续时间内，这些摇摆的镰刃会一直在该区域内生效，在此期间此地形被视为困难地形（difficult terrain），任何移动进入或通过该区域的生物均会承受1d8点穿刺伤害。此类被转化的区域可以被定位在法术范围内任何可以看到的表面上，这包括门扉、墙壁、地板、天花板或者其他平坦的表面。<\/p><p>盾徽专员通常会使用后述法术。<\/p>"
 }

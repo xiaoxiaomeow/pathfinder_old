@@ -1,16 +1,18 @@
 {
     "key": "opportunistic loyalty",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/opportunistic-loyalty/",
     "name": "Opportunistic Loyalty",
-    "book": "Pathfinder Adventure Path #115: Trail of the Hunted © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Opportunistic%20Loyalty",
+    "source": ["Pathfinder #115: Trail of the Hunted pg. 75"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "levels":     {
         "antipaladin": 1,
         "cleric": 1,
         "inquisitor": 1,
         "mesmerist": 1,
+        "oracle": 1,
         "psychic": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 immediate action",
@@ -20,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>Cast this spell when a creature within range casts a spell that provides an effect for its allies (such as bless or prayer). You are considered an ally of the caster for the purposes of that spell. Although you are momentarily considered an ally, the caster need not target you if the spell requires that the caster select one or more allies to be affected by the spell (as does haste). This spell does not allow a target spell to affect more creatures than described in its target entry. If this spell would raise the total number of affected targets above that allowed by the target spell, opportunistic loyalty has no effect.<\/p>",
+    "text": "Cast this spell when a creature within range casts a spell that provides an effect for its allies (such as <i>bless<\/i> or <i>prayer<\/i>). You are considered an ally of the caster for the purposes of that spell. Although you are momentarily considered an ally, the caster need not target you if the spell requires that the caster select one or more allies to be affected by the spell (as does <i>haste<\/i>). This spell does not allow a target spell to affect more creatures than described in its target entry. If this spell would raise the total number of affected targets above that allowed by the target spell, <i>opportunistic loyalty<\/i> has no effect.",
     "name_zh": "投机忠诚",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当范围内的生物施放一个为其盟友提供效果的法术（如祝福术或祈祷术）时施放这个法术。就该（提供效果的）法术而言，你被视为施法者的盟友。虽然你立刻就被视为盟友，但如果该法术要求施法者选择一个或多个盟友受该法术影响（如加速术），则施法者不需要以你为目标。此法术不允许选择目标的法术影响比其目标条目中描述更多的生物。如果这个法术会使受影响的目标总数超过法术所允许的数量，那么投机忠诚就没有效果。<\/p>",
-    "source": "AP-II"
+    "text_zh": "<p>当范围内的生物施放一个为其盟友提供效果的法术（如祝福术或祈祷术）时施放这个法术。就该（提供效果的）法术而言，你被视为施法者的盟友。虽然你立刻就被视为盟友，但如果该法术要求施法者选择一个或多个盟友受该法术影响（如加速术），则施法者不需要以你为目标。此法术不允许选择目标的法术影响比其目标条目中描述更多的生物。如果这个法术会使受影响的目标总数超过法术所允许的数量，那么投机忠诚就没有效果。<\/p>"
 }

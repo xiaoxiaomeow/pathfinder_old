@@ -1,19 +1,23 @@
 {
     "key": "obsidian flow",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/o/obsidian-flow/",
     "name": "Obsidian Flow",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Obsidian%20Flow",
+    "source": ["Ultimate Combat pg. 238"],
     "school": "transmutation",
     "descriptors":     [
         "earth",
         "fire"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
         "druid": 4,
-        "sorcerer/wizard": 4,
+        "hunter": 4,
+        "redmantisassassin": 4,
+        "sorcerer": 4,
         "summoner": 3,
-        "unchained summoner": 4
+        "summoner (unchained)": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a small piece of obsidian)",
@@ -22,15 +26,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex partial, see text",
     "spellResistance": "no",
-    "text": "<p>You convert a thin layer of the ground to molten glass that cools quickly. Creatures in the area take 1d6 points of fire damage per two caster levels (maximum of 10d6) and become entangled. Any creature within the area that makes a successful Reflex save takes half damage and is not entangled. An entangled creature can attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (the DC equals the spell's saving throw DC).<\/p><p>The ground is covered with slippery expanses and sharp shards of obsidian. The area of effect is difficult terrain, and the DC of Acrobatics checks within the area of effect increases by 5. A successful DC 15 Acrobatics check is required to run or charge across the area. A creature that falls prone in the area takes 1d6 points of damage from sharp obsidian.<\/p>",
+    "text": "You convert a thin layer of the ground to molten glass that cools quickly. Creatures in the area take 1d6 points of fire damage per two caster levels (maximum of 10d6) and become entangled. Any creature within the area that makes a successful Reflex save takes half damage and is not entangled. An entangled creature can attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (the DC equals the spell’s saving throw DC).<br><br>The ground is covered with slippery expanses and sharp shards of obsidian. The area of effect is difficult terrain, and the DC of Acrobatics checks within the area of effect increases by 5. A successful DC 15 Acrobatics check is required to run or charge across the area. A creature that falls prone in the area takes 1d6 points of damage from sharp obsidian.",
     "name_zh": "黑曜之流",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料/法器 (一小片黑曜石)",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "area_zh": "20尺半径爆发范围",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "半径20尺爆发区域",
     "duration_zh": "立即",
-    "savingThrow_zh": "反射，通过则部分生效；见下文",
+    "savingThrow_zh": "反射, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你将范围内的地面转化成一层会立刻冷却的灼热液态晶体。<\/p><p>该区域内的生物受到每两施法者等级1d6的火焰伤害 (最高10d6)，并且被纠缠 (entangled)。成功的反射检定可以减半伤害并免于纠缠。<\/p><p>被纠缠的生物可以用一个移动动作试图摆脱，这需要一次力量检定或脱逃技能检定 (DC为法术DC)。<\/p><p>因为地面上覆盖着光滑而锋利的黑曜石碎片，范围内被视为困难地形，并且范围内任何特技动作检定的DC都会增加5。<\/p><p>在区域内冲锋或奔跑需要DC15的特技技能检定。<\/p><p>如果生物在区域内摔倒，会因锋利的黑曜石碎片而受到1d6点伤害。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>你将范围内的地面转化成一层会立刻冷却的灼热液态晶体。<\/p><p>该区域内的生物受到每两施法者等级1d6的火焰伤害 (最高10d6)，并且被纠缠 (entangled)。成功的反射检定可以减半伤害并免于纠缠。<\/p><p>被纠缠的生物可以用一个移动动作试图摆脱，这需要一次力量检定或脱逃技能检定 (DC为法术DC)。<\/p><p>因为地面上覆盖着光滑而锋利的黑曜石碎片，范围内被视为困难地形，并且范围内任何特技动作检定的DC都会增加5。<\/p><p>在区域内冲锋或奔跑需要DC15的特技技能检定。<\/p><p>如果生物在区域内摔倒，会因锋利的黑曜石碎片而受到1d6点伤害。<\/p>"
 }

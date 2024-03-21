@@ -1,0 +1,39 @@
+{
+    "key": "winter grasp",
+    "name": "Winter Grasp",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Winter%20Grasp",
+    "source":     [
+        "Ultimate Wilderness pg. 237",
+        "People of the North pg. 26"
+    ],
+    "school": "conjuration",
+    "subSchools": ["creation"],
+    "descriptors":     [
+        "cold",
+        "water"
+    ],
+    "descriptorsOperator": ",",
+    "levels":     {
+        "druid": 2,
+        "hunter": 2,
+        "shaman": 2,
+        "witch": 2
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M/DF (ground glass)",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "area": "20-ft.-radius spread",
+    "duration": "1 round/level",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "Ice encrusts the ground, radiating supernatural cold and making it hard for creatures to maintain their balance. This icy ground is treated as normal ice, forcing creatures to spend 2 squares of movement to enter an icy square and increasing the DC of Acrobatics checks in the area by 5. A creature that begins its turn in the affected area takes 1d6 points of cold damage and takes a –2 penalty on saving throws against spells with the cold descriptor for 1 round.",
+    "name_zh": "凛冬之握",
+    "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（磨砂玻璃）",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "area_zh": "半径20尺扩散区域",
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可",
+    "text_zh": "<p>冰霜覆盖了地面，散发出超自然的寒冷，并使得生物难于保持平衡。 这种结冰的地面被视为正常冰面，使得进入冰面的生物要花费2方格的移动，并且使得在这个区域的杂技检定DC增加5。在冰面上开始其回合的生物受到1d6点的寒冷伤害，并且在一轮内，其对拥有寒冷描述符的法术的豁免检定受到-2惩罚。<\/p>"
+}

@@ -1,21 +1,19 @@
 {
     "key": "repel metal or stone",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/r/repel-metal-or-stone/",
     "name": "Repel Metal or Stone",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Repel%20Metal%20or%20Stone",
+    "source": ["PRPG Core Rulebook pg. 333"],
     "school": "abjuration",
     "descriptors": ["earth"],
     "levels": {"druid": 8},
-    "elementalSchools": {"metal": 9},
-    "bloodlines": {"deep earth": 7},
-    "mysteries": {"metal": 8},
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "60 ft.",
     "area": "60-ft. line from you",
-    "duration": "1 round/level (d)",
+    "duration": "1 round/level (D)",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell creates waves of invisible energy that roll forth from you. All metal or stone objects in the path of the spell are pushed away from you to the limit of the range. Fixed metal or stone objects larger than 3 inches in diameter and loose objects weighing more than 500 pounds are not affected. Anything else, including animated objects, small boulders, and creatures in metal armor, moves back. Fixed objects 3 inches in diameter or smaller bend or break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.<\/p><p>Objects such as metal armor, swords, and the like are pushed back, dragging their bearers with them. Even magic items with metal components are repelled, although an antimagic field blocks the effects. A creature being dragged by an item it is carrying can let go. A creature being dragged by a shield can loose it as a move action and drop it as a free action.<\/p><p>The waves of energy continue to sweep down the set path for the spell's duration. After you cast the spell, the path is set, and you can then do other things or go elsewhere without affecting the spell's power.<\/p>",
+    "text": "This spell creates waves of invisible energy that roll forth from you. All metal or stone objects in the path of the spell are pushed away from you to the limit of the range. Fixed metal or stone objects larger than 3 inches in diameter and loose objects weighing more than 500 pounds are not affected. Anything else, including animated objects, small boulders, and creatures in metal armor, moves back. Fixed objects 3 inches in diameter or smaller bend or break, and the pieces move with the wave of energy. Objects affected by the spell are repelled at the rate of 40 feet per round.<br><br>Objects such as metal armor, swords, and the like are pushed back, dragging their bearers with them. Even magic items with metal components are repelled, although an <i>antimagic field<\/i> blocks the effects. A creature being dragged by an item it is carrying can let go. A creature being dragged by a shield can loose it as a move action and drop it as a free action.<br><br>The waves of energy continue to sweep down the set path for the spell's duration. After you cast the spell, the path is set, and you can then do other things or go elsewhere without affecting the spell's power.",
     "name_zh": "驱离金石",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -24,6 +22,5 @@
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>本法术制造出由你而起向前滚动的无形能量波。在法术路径上的所有的金属或石质物品都会被推离你直到法术距离的极限。被固定的直径大于3英吋的金属或石质物品和重量超过500磅的未固定物品不会受到影响。其他物体，包括活化物体、较小的大石块、穿着金属铠甲的生物也会被推离。被固定的直径3英吋或更小的物体会弯曲或破裂，碎片随着能量波移动。受本法术影响的物品以每轮40尺的速度被驱离。<\/p><p>金属铠甲、剑以及类似的物品会被推离，同时会拖拽着它们的持有者。即使是包含金属部件的魔法物品也会被驱离，不过‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’能阻挡该效果。若生物被携带的物品所拖拽则能放开它们。而被盾牌拖拽的生物可以通过移动动作松开并以自由动作丢弃盾牌。<\/p><p>这些能量波在法术持续时间内在设定的路径上卷动。在你施展本法术后，该路径就被设定，你可以离开或做其它事而不会干扰到本法术的力量。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>本法术制造出由你而起向前滚动的无形能量波。在法术路径上的所有的金属或石质物品都会被推离你直到法术距离的极限。被固定的直径大于3英吋的金属或石质物品和重量超过500磅的未固定物品不会受到影响。其他物体，包括活化物体、较小的大石块、穿着金属铠甲的生物也会被推离。被固定的直径3英吋或更小的物体会弯曲或破裂，碎片随着能量波移动。受本法术影响的物品以每轮40尺的速度被驱离。<\/p><p>金属铠甲、剑以及类似的物品会被推离，同时会拖拽着它们的持有者。即使是包含金属部件的魔法物品也会被驱离，不过‘<a href=\"spell.html?spell=antimagic field\">反魔场 (antimagic field)<\/a>’能阻挡该效果。若生物被携带的物品所拖拽则能放开它们。而被盾牌拖拽的生物可以通过移动动作松开并以自由动作丢弃盾牌。<\/p><p>这些能量波在法术持续时间内在设定的路径上卷动。在你施展本法术后，该路径就被设定，你可以离开或做其它事而不会干扰到本法术的力量。<\/p>"
 }

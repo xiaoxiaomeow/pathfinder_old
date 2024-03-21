@@ -1,8 +1,8 @@
 {
     "key": "glimpse of the akashic",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/glimpse-of-the-akashic/",
-    "name": "Glimpse of The Akashic",
-    "book": "Pathfinder Player Companion: Psychic Anthology © 2017, Paizo Inc.",
+    "name": "Glimpse of the Akashic",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Glimpse%20of%20the%20Akashic",
+    "source": ["Psychic Anthology pg. 10"],
     "school": "divination",
     "levels": {"psychic": 8},
     "castingTime": "1 full-round action",
@@ -10,13 +10,12 @@
     "range": "personal",
     "target": "you",
     "duration": "1 day or until discharged (see text)",
-    "text": "<p>You expand your consciousness in an attempt to tap into the perfect knowledge contained within the Akashic Record.<\/p><p>Such a connection is incredibly difficult to create and maintain, and it can be almost impossible to know at the time of the casting what knowledge will be gained. The information contained within the Akashic Record can be overwhelming when accessed in this fashion, so your mind partitions it away until needed. For the next day, you can activate the knowledge gained from the Akashic Record as a free action; when you do so, you gain a circumstance bonus equal to your caster level on all skill checks, ability checks, attack rolls, damage rolls, saving throws, and combat maneuver checks for 1 minute. At the end of this time, the overwhelming nature of the Akashic Record assaults your psyche, causing you to be stunned for 2 rounds and then sickened for 1 minute.<\/p>",
+    "text": "You expand your consciousness in an attempt to tap into the perfect knowledge contained within the Akashic Record. Such a connection is incredibly difficult to create and maintain, and it can be almost impossible to know at the time of the casting what knowledge will be gained. The information contained within the Akashic Record can be overwhelming when accessed in this fashion, so your mind partitions it away until needed. For the next day, you can activate the knowledge gained from the Akashic Record as a free action; when you do so, you gain a circumstance bonus equal to your caster level on all skill checks, ability checks, attack rolls, damage rolls, saving throws, and combat maneuver checks for 1 minute. At the end of this time, the overwhelming nature of the Akashic Record assaults your psyche, causing you to be stunned for 2 rounds and then sickened for 1 minute.",
     "name_zh": "阿卡西窥视术",
     "castingTime_zh": "整轮动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
-    "duration_zh": "1天 或 直到发散（见描述）",
-    "text_zh": "<p>你扩展你的意志来尝试揭示隐藏在阿卡西记录（Akashic Record）中完美的知识。这种连接非常难以建立和保持，并且在施放法术的时候也很难知道究竟会获得什么样的知识。保存在阿卡西记录中的信息通过这种方式来获取时，通常足以淹没你的意识。所以你的意识会将它先放在一边，直到需要时再启用。在接下来的一天中，你可以通过自由动作激活你从阿卡西记录中获取的知识；当你这么做时，你在所有的技能鉴定、属性检定、攻击检定、伤害检定、豁免检定以及战技检定上获得等于你的施法者等级的环境加值，持续1分钟。在这段时间结束之后，阿卡西记录中过量的自然原理侵入了你的心智，令你被震慑（stunned）2轮，接着恶心（sickened）1分钟。<\/p>",
-    "source": "PC-PA"
+    "duration_zh": "1天 或 直到发散 (见描述)",
+    "text_zh": "<p>你扩展你的意志来尝试揭示隐藏在阿卡西记录（Akashic Record）中完美的知识。这种连接非常难以建立和保持，并且在施放法术的时候也很难知道究竟会获得什么样的知识。保存在阿卡西记录中的信息通过这种方式来获取时，通常足以淹没你的意识。所以你的意识会将它先放在一边，直到需要时再启用。在接下来的一天中，你可以通过自由动作激活你从阿卡西记录中获取的知识；当你这么做时，你在所有的技能鉴定、属性检定、攻击检定、伤害检定、豁免检定以及战技检定上获得等于你的施法者等级的环境加值，持续1分钟。在这段时间结束之后，阿卡西记录中过量的自然原理侵入了你的心智，令你被震慑（stunned）2轮，接着恶心（sickened）1分钟。<\/p>"
 }

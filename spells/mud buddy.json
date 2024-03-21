@@ -1,30 +1,32 @@
 {
     "key": "mud buddy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mud-buddy/",
     "name": "Mud Buddy",
-    "book": "Pathfinder Roleplaying Game Monster Codex © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mud%20Buddy",
+    "source": ["Monster Codex pg. 105"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 2,
         "druid": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "hunter": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (1 pint of water)",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "5 cubic feet of earth or mud",
-    "duration": "1 hour/level (d) (see text)",
-    "text": "<p class=\"description\">You create a Small minion out of mud, and it obeys your commands.<\/p><p>The mud buddy has AC 12, 10 hit points, Strength 5, and a speed of 30 feet. It can perform any tasks an unseen servant can, plus any similar tasks its Strength allows (it's able to lift up to 50 pounds), but instead of walking on water, it gains a swim speed of 30 feet.<\/p><p>You can command a mud buddy to move up to 5 feet and trip an opponent (CMB = your caster level + your spellcasting ability score modifier). After the trip attempt is resolved, the spell ends.<\/p><p>When the spell ends, the mud buddy reverts to a patch of wet earth.<\/p>",
+    "duration": "1 hour/level (D) (see text)",
+    "text": "You create a Small minion out of mud, and it obeys your commands. The mud buddy has AC 12, 10 hit points, Strength 5, and a speed of 30 feet. It can perform any tasks an unseen servant can, plus any similar tasks its Strength allows (it’s able to lift up to 50 pounds), but instead of walking on water, it gains a swim speed of 30 feet.<br><br> You can command a <i>mud buddy<\/i> to move up to 5 feet and trip an opponent (CMB = your caster level + your spellcasting ability score modifier). After the trip attempt is resolved, the spell ends.<br><br> When the spell ends, the <i>mud buddy<\/i> reverts to a patch of wet earth.",
     "name_zh": "泥塑伙伴",
     "race_zh": "地精",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（1品脱水）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "5尺见方的泥巴或土",
-    "duration_zh": "1小时/等级（可消解）",
+    "duration_zh": "1小时/等级 (可消解)",
     "savingThrow_zh": "强韧通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>当目标受到此法术时，它的鳞片长出了锯齿状的尖刺。这些尖刺如同+1甲刺。目标自动视为擅长这些鳞刺。<\/p>",
-    "source": "MC"
+    "text_zh": "<p>当目标受到此法术时，它的鳞片长出了锯齿状的尖刺。这些尖刺如同+1甲刺。目标自动视为擅长这些鳞刺。<\/p>"
 }

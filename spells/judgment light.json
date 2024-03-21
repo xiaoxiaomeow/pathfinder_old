@@ -1,8 +1,8 @@
 {
     "key": "judgment light",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/j/judgment-light/",
     "name": "Judgment Light",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Judgment%20Light",
+    "source": ["Ultimate Combat pg. 232"],
     "school": "evocation",
     "descriptors": ["light"],
     "levels": {"inquisitor": 4},
@@ -13,14 +13,14 @@
     "duration": "instantaneous, see text",
     "savingThrow": "see text",
     "spellResistance": "yes",
-    "text": "<p>An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor's active judgments.<\/p>",
+    "text": "An inquisitor may only cast this spell while she has a judgment active. When she does cast this spell, it causes one or more of the following effects based on the inquisitor’s active judgments. <br><br><i>Destruction<\/i>: Red light erupts from the caster. Enemies in the area take 4d8 points of damage and become shaken for 1d4 rounds. A successful Will saving throw halves the damage and negates the shaken effect.<br><br><i>Healing<\/i>: Green light erupts from the caster. Allies in the area regain a number of hit points equal to 1d8 + the caster’s Wisdom modifier.<br><br><i>Justice<\/i>: Blue light erupts from the caster, revealing hidden and invisible creatures to all. The light outlines such creatures for 1 round per caster level, imposing a –20 penalty on Stealth checks on those creatures.<br><br><i>Piercing<\/i>: Violet light erupts from the caster, reducing the spell resistance of enemies within the burst by 5 for 1 round per caster level.<br><br><i>Protection<\/i>: Amber light erupts from the caster, granting allies in the burst a +2 sacred bonus to AC and CMD, and a +4 bonus to AC against critical confirmation attack rolls for 1 round per caster level.<br><br><i>Purity<\/i>: White light erupts from the caster, allowing each ally within the burst to attempt a saving throw against a single effect that allows a saving throw with a +2 sacred bonus on the roll.<br><br><i>Resiliency<\/i>: Golden light erupts from the caster, granting allies within the burst DR 3/magic or the alignment your judgment allows for 1 round per caster level.<br><br><i>Resistance<\/i>: Copper light erupts from the caster, granting allies within the burst resistance 5 against the energy the judgment protects the inquisitor against when she casts this spell for 1 round per caster level.<br><br><i>Smiting<\/i>: Silver light erupts from the caster, making allies’ weapons within the burst count as magic, the alignment her weapon is, and adamantine for purposes of overcoming damage reduction for 1 round per caster level.",
     "name_zh": "审判之光",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "自身",
-    "area_zh": "半径30尺爆发范围",
-    "duration_zh": "立即；见下文",
+    "range_zh": "个人",
+    "area_zh": "30尺爆发范围",
+    "duration_zh": "立即; 见文本",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>持续时间    立即；见下文<\/p><p> 审判者只有在她激活审判职业能力之后才能施放该法术。当她施放该法术时，会基于审判者目前已经激活的审判获得一种或多种下述的效果。\n惩戒：施法者身上爆发出红色光芒。范围内的敌人受到4d8点伤害并颤栗1d4轮。成功的意志豁免能够将伤害减半并免受颤栗效果。\n治疗：施法者身上爆发出绿色光芒。范围内的盟友恢复等同于1d8 + 施法者的感知调整值点生命值。\n正义：施法者身上爆发出蓝色光芒，向所有人揭示隐藏与隐身的生物。光芒编绘出这些生物的轮廓，持续每施法者等级1轮，他们的潜行检定受到-20减值。\n锐刺：施法者身上爆发出紫色光芒，削弱光芒爆发范围内敌人的法术抗力，降低5点，并持续每施法者等级1轮。\n保护：施法者身上爆发出琥珀色光芒，光芒爆发范围内盟友的AC与CMD获得+2神圣加值，并且在对抗重击确认攻击检定时AC获得+4加值，持续每施法者等级1轮。\n纯净：施法者身上爆发出白色光芒，允许光芒爆发范围内的每名盟友尝试一次豁免对抗单一效果，并且该次豁免检定获得+2神圣加值。\n坚韧：施法者身上爆发出金色光芒，光芒爆发范围内的盟友获得DR 3/魔法或你的审判给予的阵营（DR 3/magic or the alignment your judgment allows），持续每施法者等级1轮。\n抗力：施法者身上爆发出红铜色光芒，光芒爆发范围内的盟友获得5点抗力，对抗审判者施放该法术时审判所防护的能量，持续每施法者等级1轮。\n重击：施法者身上爆发出银色光芒，光芒爆发范围内盟友的武器在客服伤害减免时被视为魔法，审判者的武器的阵营以及精金，持续每施法者等级1轮。\nJury-Rig<\/p>",
-    "source": "UC"
+    "text_zh": "<p>持续时间    立即；见下文<\/p><p>审判者只有在她激活审判职业能力之后才能施放该法术。当她施放该法术时，会基于审判者目前已经激活的审判获得一种或多种下述的效果。<\/p><p>惩戒：施法者身上爆发出红色光芒。范围内的敌人受到4d8点伤害并颤栗1d4轮。成功的意志豁免能够将伤害减半并免受颤栗效果。<\/p><p>治疗：施法者身上爆发出绿色光芒。范围内的盟友恢复等同于1d8 + 施法者的感知调整值点生命值。<\/p><p>正义：施法者身上爆发出蓝色光芒，向所有人揭示隐藏与隐身的生物。光芒编绘出这些生物的轮廓，持续每施法者等级1轮，他们的潜行检定受到-20减值。<\/p><p>锐刺：施法者身上爆发出紫色光芒，削弱光芒爆发范围内敌人的法术抗力，降低5点，并持续每施法者等级1轮。<\/p><p>保护：施法者身上爆发出琥珀色光芒，光芒爆发范围内盟友的AC与CMD获得+2神圣加值，并且在对抗重击确认攻击检定时AC获得+4加值，持续每施法者等级1轮。<\/p><p>纯净：施法者身上爆发出白色光芒，允许光芒爆发范围内的每名盟友尝试一次豁免对抗单一效果，并且该次豁免检定获得+2神圣加值。<\/p><p>坚韧：施法者身上爆发出金色光芒，光芒爆发范围内的盟友获得DR 3/魔法或你的审判给予的阵营（DR 3/magic or the alignment your judgment allows），持续每施法者等级1轮。<\/p><p>抗力：施法者身上爆发出红铜色光芒，光芒爆发范围内的盟友获得5点抗力，对抗审判者施放该法术时审判所防护的能量，持续每施法者等级1轮。<\/p><p>重击：施法者身上爆发出银色光芒，光芒爆发范围内盟友的武器在客服伤害减免时被视为魔法，审判者的武器的阵营以及精金，持续每施法者等级1轮。<\/p><p>Jury-Rig<\/p>"
 }

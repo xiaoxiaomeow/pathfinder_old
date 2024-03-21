@@ -1,13 +1,17 @@
 {
     "key": "dress corpse",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dress-corpse/",
     "name": "Dress Corpse",
-    "book": "Pathfinder Roleplaying Game Ultimate Intrigue © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dress%20Corpse",
+    "source": ["Ultimate Intrigue pg. 212"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 2,
         "cleric": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "oracle": 2,
+        "sorcerer": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a pickled herring)",
@@ -16,7 +20,7 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You cause the flesh and bones of a corpse to shift themselves to suit a narrative of your choosing. This spell can hide or create telltale wounds, bruising, and other subtle clues as to the nature of the target's death, and the final hours leading up to it, allowing you to make the corpse appear to have died in just about any way.<\/p><p>You could, for example, make stab wounds close up as though they were never there, rearrange bruises on the neck, evaporate traces of poison within the body into nothingness, make burn marks grow to cover the corpse's skin, or shrivel the target's body as though the creature had starved. This spell can't hide extreme alterations to the body (such as the loss of a limb), nor can it restore flesh to a skeletal corpse or strip a corpse down to skeletal form. It is also unable to change the apparent identity of the corpse.<\/p><p>Anyone who closely examines the corpse can attempt a Perception check (DC = 10 + your caster level) to notice that the corpse's wounds (or lack thereof) don't look natural, but this doesn't allow the observer to determine what the corpse looked like before this spell was cast. Closely examining the corpse with a successful Heal check (DC = 15 + your caster level) not only reveals that the target's apparent wounds are false, but also what the originally obscured wounds were.<\/p>",
+    "text": "You cause the flesh and bones of a corpse to shift themselves to suit a narrative of your choosing. This spell can hide or create telltale wounds, bruising, and other subtle clues as to the nature of the target’s death, and the final hours leading up to it, allowing you to make the corpse appear to have died in just about any way. You could, for example, make stab wounds close up as though they were never there, rearrange bruises on the neck, evaporate traces of poison within the body into nothingness, make burn marks grow to cover the corpse’s skin, or shrivel the target’s body as though the creature had starved. This spell can’t hide extreme alterations to the body (such as the loss of a limb), nor can it restore flesh to a skeletal corpse or strip a corpse down to skeletal form. It is also unable to change the apparent identity of the corpse.<br><br> Anyone who closely examines the corpse can attempt a Perception check (DC = 10 + your caster level) to notice that the corpse’s wounds (or lack thereof) don’t look natural, but this doesn’t allow the observer to determine what the corpse looked like before this spell was cast. Closely examining the corpse with a successful Heal check (DC = 15 + your caster level) not only reveals that the target’s apparent wounds are false, but also what the originally obscured wounds were.",
     "name_zh": "粉饰尸体",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（腌鲱鱼）",
@@ -25,6 +29,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你让1具尸体的血肉与骸骨自行产生变化，以满足你选择的叙述内容。该法术能够隐藏或创造伤口、挫伤和其他微小线索的迹象，这些迹象均与目标的死亡性质相关，而且能够引导出目标死前的最后时刻，你能让尸体的死状呈现出任何死亡的方式。举例说明，你能够让刺杀的伤口如同从未出现一般闭合起来，在脖子上重新排列淤青的形状，让体内中毒的痕迹消失无踪，用烧伤的痕迹覆盖尸体的皮肤，或者让目标尸身变得如同饿死的生物那般干瘪。该法术不能隐藏尸体遭受的极端变化（比如缺失肢体），也不能在骨骸上重塑血肉或剥离尸体的血肉变成一具白骨。该法术也不能改变尸体在外观上的特征。\n任何贴近检查（closely examines）尸体的人都能尝试1次察觉检定（DC = 10 + 你的施法者等级）来注意到该尸体的伤口（或伤口的缺失）看起来不自然，但是这不会让观察者判断出施放法术之前尸体的样貌。贴近检查并且成功通过医疗检定（DC = 15 + 你的施法者等级）不仅能揭示出目标表面上的样貌是伪装的，还能够揭示出最初被掩盖的伤口是什么。<\/p>",
-    "source": "UI"
+    "text_zh": "<p>你让1具尸体的血肉与骸骨自行产生变化，以满足你选择的叙述内容。该法术能够隐藏或创造伤口、挫伤和其他微小线索的迹象，这些迹象均与目标的死亡性质相关，而且能够引导出目标死前的最后时刻，你能让尸体的死状呈现出任何死亡的方式。举例说明，你能够让刺杀的伤口如同从未出现一般闭合起来，在脖子上重新排列淤青的形状，让体内中毒的痕迹消失无踪，用烧伤的痕迹覆盖尸体的皮肤，或者让目标尸身变得如同饿死的生物那般干瘪。该法术不能隐藏尸体遭受的极端变化（比如缺失肢体），也不能在骨骸上重塑血肉或剥离尸体的血肉变成一具白骨。该法术也不能改变尸体在外观上的特征。<\/p><p>任何贴近检查（closely examines）尸体的人都能尝试1次察觉检定（DC = 10 + 你的施法者等级）来注意到该尸体的伤口（或伤口的缺失）看起来不自然，但是这不会让观察者判断出施放法术之前尸体的样貌。贴近检查并且成功通过医疗检定（DC = 15 + 你的施法者等级）不仅能揭示出目标表面上的样貌是伪装的，还能够揭示出最初被掩盖的伤口是什么。<\/p>"
 }

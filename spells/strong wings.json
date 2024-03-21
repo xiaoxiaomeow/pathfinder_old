@@ -1,24 +1,29 @@
 {
     "key": "strong wings",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/strong-wings/",
     "name": "Strong Wings",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Strong%20Wings",
+    "source": ["Advanced Race Guide pg. 201"],
     "school": "transmutation",
+    "race": "strix",
     "levels":     {
+        "arcanist": 1,
         "bloodrager": 1,
         "druid": 1,
+        "hunter": 1,
         "ranger": 1,
-        "sorcerer/wizard": 1,
-        "witch": 1
+        "redmantisassassin": 1,
+        "sorcerer": 1,
+        "witch": 1,
+        "wizard": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "touch",
     "target": "creature touched",
-    "duration": "1 min./level",
-    "savingThrow": "Fort negates (harmless)",
+    "duration": "1 minute/level",
+    "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). This increase counts as an enhancement bonus. This spell has no effect on wingless creatures or winged creatures that cannot fly.<\/p>",
+    "text": "The target’s wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). This increase counts as an enhancement bonus. This spell has no effect on wingless creatures or winged creatures that cannot fly.",
     "name_zh": "强翼术",
     "race_zh": "鸮形人",
     "castingTime_zh": "标准动作",
@@ -28,6 +33,5 @@
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>目标的双翼变得更加强劲有力，这使它的飞行速度增加10尺，并且机动性提高一级 (最高为良好)。这些加值均为增强加值。该法术对没有翅膀的生物或者拥有翅膀但是不能飞行的生物无效。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>目标的双翼变得更加强劲有力，这使它的飞行速度增加10尺，并且机动性提高一级 (最高为良好)。这些加值均为增强加值。该法术对没有翅膀的生物或者拥有翅膀但是不能飞行的生物无效。<\/p>"
 }

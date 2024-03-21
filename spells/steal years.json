@@ -1,14 +1,20 @@
 {
     "key": "steal years",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/steal-years/",
     "name": "Steal Years",
-    "book": "Pathfinder Player Companion: Blood of the Night © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Steal%20Years",
+    "source": ["Blood of the Night pg. 30"],
     "school": "transmutation",
     "levels":     {
-        "cleric/oracle": 3,
+        "arcanist": 3,
+        "cleric": 3,
         "druid": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "hunter": 3,
+        "oracle": 3,
+        "redmantisassassin": 3,
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a handful of ash)",
@@ -17,7 +23,7 @@
     "duration": "24 hours",
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
-    "text": "<p>You temporarily drain youth and vitality from the target and channel it into yourself. If the target fails its Fortitude save, it physically ages 1d4 years per two caster levels (maximum 5d4), and you decrease your age by the same number of years. If this changes the age category of you or the target, only adjust physical ability scores. This effect cannot bring your age to lower than the minimum age of adulthood for your race. This stolen youth does not actually change your age or prolong your life; you will still die at your allotted time, no matter how youthful you appear. Likewise, the spell does not add to the target's true age, and cannot make the target die of old age.<\/p><p>When the spell ends, the sudden weight of aging makes you fatigued for 1d4 hours.<\/p>",
+    "text": "You temporarily drain youth and vitality from the target and channel it into yourself. If the target fails its Fortitude save, it physically ages 1d4 years per two caster levels (maximum 5d4), and you decrease your age by the same number of years. If this changes the age category of you or the target, only adjust physical ability scores. This effect cannot bring your age to lower than the minimum age of adulthood for your race (see page 169 of the <i>Core Rulebook<\/i>). This stolen youth does not actually change your age or prolong your life; you will still die at your allotted time, no matter how youthful you appear. Likewise, the spell does not add to the target’s true age, and cannot make the target die of old age. <br><br>When the spell ends, the sudden weight of aging makes you fatigued for 1d4 hours.",
     "name_zh": "窃取流年",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一把灰烬)",
@@ -26,6 +32,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "强韧, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你暂时从受术者身上吸取青春与活力，并引导入你自己的身体。如果受术者在强韧豁免检定上失败，他的身体年龄每2个施法者等级增加1d4年(最大5d4)，而你的年龄则减少与他所增加的年龄数相同的数字。如果这改变了你或著受术者的年龄类别，那只会调整身体属性。这个效果无法让你的年龄低于你种族最低成年年龄(见核心手册P.169)。这窃取的青春并不能真的改变你的年龄或是延长你的生命；你在该死之时还是会死，不论你看上去有多年轻。此外，此法术也不会增加受术者的真实年龄，不会让受术者因为年老死去。\n当此法术结束，突然袭来的年龄荷重，会令你疲乏(fatigued)1d4小时。<\/p>",
-    "source": "PC-BotN"
+    "text_zh": "<p>你暂时从受术者身上吸取青春与活力，并引导入你自己的身体。如果受术者在强韧豁免检定上失败，他的身体年龄每2个施法者等级增加1d4年(最大5d4)，而你的年龄则减少与他所增加的年龄数相同的数字。如果这改变了你或著受术者的年龄类别，那只会调整身体属性。这个效果无法让你的年龄低于你种族最低成年年龄(见核心手册P.169)。这窃取的青春并不能真的改变你的年龄或是延长你的生命；你在该死之时还是会死，不论你看上去有多年轻。此外，此法术也不会增加受术者的真实年龄，不会让受术者因为年老死去。<\/p><p>当此法术结束，突然袭来的年龄荷重，会令你疲乏(fatigued)1d4小时。<\/p>"
 }

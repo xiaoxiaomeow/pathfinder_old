@@ -1,0 +1,31 @@
+{
+    "key": "swipe",
+    "name": "Swipe",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Swipe",
+    "source":     [
+        "Rise of the Runelords Anniversary Edition pg. 419",
+        "Pathfinder #5: Sins of the Saviors pg. 62"
+    ],
+    "school": "conjuration",
+    "subSchools": ["teleportation"],
+    "levels":     {
+        "arcanist": 3,
+        "bard": 2,
+        "skald": 2,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one held item",
+    "duration": "instant",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "By flicking a finger in the appropriate direction and proclaiming ownership, you attempt to magically wrest an item from the target’s grip and summon it to your hand. To claim an object held by an opponent, you must make a CMB check—this check has a bonus equal to your caster level + your Intelligence, Wisdom, or Charisma modifier (whichever is highest). If you fail this check, the target retains the item and the spell fails. If you succeed, the item teleports into one of your free hands or comes to rest at your feet.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "instant",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

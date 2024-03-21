@@ -1,15 +1,20 @@
 {
     "key": "wall of sound",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/w/wall-of-sound/",
     "name": "Wall of Sound",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Wall%20of%20Sound",
+    "source": ["Ultimate Magic pg. 248"],
     "school": "evocation",
     "descriptors": ["sonic"],
     "levels":     {
+        "arcanist": 5,
         "bard": 4,
         "bloodrager": 4,
         "magus": 4,
-        "sorcerer/wizard": 5
+        "psychic": 5,
+        "skald": 4,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a tuning fork and a quartz crystal)",
@@ -18,15 +23,14 @@
     "duration": "concentration + 1 round/level",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>A translucent barrier of pure sound springs into existence. This wall is silent except for a faint hum, but bursts with discordant noise when touched by an object or creature. The wall deflects arrows, bolts, loose debris, and Small or smaller flying creatures like a wind wall spell, except these things rebound harmlessly rather than being directed upward. The burst of discordant noise deals 2d4 points of sonic damage to creatures within 10 feet of the triggering object or creature; touching or passing through the wall deals 2d6 points of sonic damage + 1 point of sonic damage per caster level (maximum +20). If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. A silence spell suppresses the wall within its area, but the wall reappears when the silence ends.<\/p>",
+    "text": "A translucent barrier of pure sound springs into existence. This wall is silent except for a faint hum, but bursts with discordant noise when touched by an object or creature. The wall deflects arrows, bolts, loose debris, and Small or smaller flying creatures like a <i>wind wall <\/i>spell, except these things rebound harmlessly rather than being directed upward. The burst of discordant noise deals 2d4 points of sonic damage to creatures within 10 feet of the triggering object or creature; touching or passing through the wall deals 2d6 points of sonic damage + 1 point of sonic damage per caster level (maximum +20). If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. A <i>silence <\/i>spell suppresses the wall within its area, but the wall reappears when the <i>silence <\/i>ends.",
     "name_zh": "音墙术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一把弯曲的叉子和一块石英)",
-    "range_zh": "中距 (100尺+10尺/等级)",
+    "range_zh": "中距 (100尺+每等级10尺)",
     "effect_zh": "半透明的音波墙，最多长20尺/等级或半径5尺/两等级环形；两种高度都是20尺",
-    "duration_zh": "专注 + 1轮/等级",
+    "duration_zh": "专注+1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>一道半透明的由纯粹音波构成的墙壁出现在你指定的位置。。<\/p><p>这堵墙平时是安静的，只会发出细微的嗡嗡声，但是一旦一个物体或生物接触到它，便会立刻爆发出一阵巨大的噪音。<\/p><p>墙体可以偏转箭矢、零碎物体以及小型或更小的飞行生物，如同风墙术 (wind wall)，不过这些东西会被无伤的反弹而不是向上偏转。<\/p><p>刺耳的噪音爆发对触发者附近10尺内的物体和生物造成2d4点伤害，而接触或穿过墙壁的生物或物体本身则会受到2d6加每施法者等级1点伤害 (最高+20)。<\/p><p>如果你在生物占据的位置唤出墙体，每个生物都会如同穿过墙壁一样受到伤害。<\/p><p>沉默术可以压制其法术范围内的墙体，但是墙体会在沉默术失效后重新出现。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>一道半透明的由纯粹音波构成的墙壁出现在你指定的位置。。<\/p><p>这堵墙平时是安静的，只会发出细微的嗡嗡声，但是一旦一个物体或生物接触到它，便会立刻爆发出一阵巨大的噪音。<\/p><p>墙体可以偏转箭矢、零碎物体以及小型或更小的飞行生物，如同风墙术 (wind wall)，不过这些东西会被无伤的反弹而不是向上偏转。<\/p><p>刺耳的噪音爆发对触发者附近10尺内的物体和生物造成2d4点伤害，而接触或穿过墙壁的生物或物体本身则会受到2d6加每施法者等级1点伤害 (最高+20)。<\/p><p>如果你在生物占据的位置唤出墙体，每个生物都会如同穿过墙壁一样受到伤害。<\/p><p>沉默术可以压制其法术范围内的墙体，但是墙体会在沉默术失效后重新出现。<\/p>"
 }

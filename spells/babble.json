@@ -1,17 +1,20 @@
 {
     "key": "babble",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/babble/",
     "name": "Babble",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Babble",
+    "source": ["Occult Adventures pg. 158"],
     "school": "enchantment",
-    "subSchool": ["compulsion"],
+    "subSchools": ["compulsion"],
     "descriptors": ["mind-affecting"],
     "levels":     {
+        "arcanist": 3,
         "bard": 2,
         "mesmerist": 2,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "skald": 2,
+        "sorcerer": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -20,15 +23,14 @@
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>This spell causes the target to break into a fit of bizarre, uncontrollable babbling. The target also becomes nauseated. If the target succeeds at its save, the effects end. If not, the creature continues babbling and is nauseated for the entire duration.<\/p><p>Creatures within 30 feet of the subject that can hear the target's babbling must succeed at a Will save or become fascinated for as long as the babbling persists. Once a creature's fascination ends, it can't become fascinated by the same instance of babble again.<\/p><p>Creatures with an Intelligence score of 2 or lower aren't affected by this spell.<\/p>",
+    "text": "This spell causes the target to break into a fit of bizarre, uncontrollable babbling. The target also becomes nauseated. If the target succeeds at its save, the effects end. If not, the creature continues babbling and is nauseated for the entire duration.<br><br>Creatures within 30 feet of the subject that can hear the target’s babbling must succeed at a Will save or become fascinated for as long as the babbling persists. Once a creature’s fascination ends, it can’t become fascinated by the same instance of babble again.<br><br>Creatures with an Intelligence score of 2 or lower aren’t affected by this spell.",
     "name_zh": "狂语乱言",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物；见后文",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>该法术会让目标胡言乱语，它会不受控制地说出怪异的话语。目标还会变得反胃（nauseated）。若目标成功通过豁免，该效果便会结束。若失败，该生物在整个持续时间内都会喋喋不休，而且陷入反胃状态。\n距离目标30尺内、且能够听到目标的胡言乱语的生物必须进行一次意志豁免，失败则会在它的胡言乱语持续期间陷入迷魂（fascinated）。当一个生物的迷魂结束时，它就不会由于同一个实体的胡言乱语而再次陷入迷魂。\n智力为2点或更低的生物不受该法术影响。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>该法术会让目标胡言乱语，它会不受控制地说出怪异的话语。目标还会变得反胃（nauseated）。若目标成功通过豁免，该效果便会结束。若失败，该生物在整个持续时间内都会喋喋不休，而且陷入反胃状态。<\/p><p>距离目标30尺内、且能够听到目标的胡言乱语的生物必须进行一次意志豁免，失败则会在它的胡言乱语持续期间陷入迷魂（fascinated）。当一个生物的迷魂结束时，它就不会由于同一个实体的胡言乱语而再次陷入迷魂。<\/p><p>智力为2点或更低的生物不受该法术影响。<\/p>"
 }

@@ -1,37 +1,37 @@
 {
     "key": "dictum",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/dictum/",
     "name": "Dictum",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Dictum",
+    "source": ["PRPG Core Rulebook pg. 269"],
     "school": "evocation",
     "descriptors":     [
         "lawful",
         "sonic"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "cleric/oracle": 7,
-        "inquisitor": 6
+        "cleric": 7,
+        "inquisitor": 6,
+        "oracle": 7
     },
-    "domains": {"law": 7},
-    "mysteries": {"godclaw": 7},
     "castingTime": "1 standard action",
     "components": "V",
     "range": "40 ft.",
+    "effect": "<\/td><\/tr><tr><td>Equal to caster level<\/td><td>Deafened<\/td><\/tr><tr><td>Up to caster level -1<\/td><td>Staggered, deafened<\/td><\/tr><tr><td>Up to caster level -5<\/td><td>Paralyzed, staggered, deafened<\/td><\/tr><tr><td>Up to caster level -10<\/td><td>Killed, paralyzed, staggered, deafened<\/td><\/tr><\/table>",
     "area": "nonlawful creatures in a 40-ft.-radius spread centered on you",
     "duration": "instantaneous",
     "savingThrow": "none or Will negates",
     "spellResistance": "yes",
-    "text": "<p>Any nonlawful creature within the area of a <i>dictum<\/i> spell suffers the following ill effects.<\/p><table border=\"1\" cellpadding=\"5\"><caption>Table: Dictum Effects by HD<\/caption><thead><tr><th class=\"source text\">HD<\/th><th class=\"text\">Effect<\/th><\/tr><\/thead><tbody><tr><td class=\"text\">Equal to caster level<\/td><td class=\"text\">Deafened<\/td><\/tr><tr><td class=\"text\">Up to caster level -1<\/td><td class=\"text\">Staggered, deafened<\/td><\/tr><tr><td class=\"text\">Up to caster level -5<\/td><td class=\"text\">Paralyzed, staggered, deafened<\/td><\/tr><tr><td class=\"text\">Up to caster level -10<\/td><td class=\"text\">Killed, paralyzed, staggered, deafened<\/td><\/tr><\/tbody><\/table><p>The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.<\/p><p style=\"margin-left: 40px\"><i>Deafened<\/i>: The creature is deafened for 1d4 rounds. Save negates.<\/p><p style=\"margin-left: 40px\"><i>Staggered<\/i>: The creature is staggered for 2d4 rounds. Save reduces the staggered effect to 1d4 rounds.<\/p><p style=\"margin-left: 40px\"><i>Paralyzed<\/i>: The creature is paralyzed and helpless for 1d10 minutes. Save reduces the paralyzed effect to 1 round.<\/p><p style=\"margin-left: 40px\"><i>Killed<\/i>: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).<\/p><p>Furthermore, if you are on your home plane when you cast this spell, non-lawful extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the <i>dictum<\/i> or not<i>.<\/i> The banishment effect allows a Will save (at a -4 penalty) to negate.<\/p><p>Creatures whose Hit Dice exceed your caster level are unaffected by <i>dictum<\/i>.<\/p>",
-    "mythicText": "When determining the spell's effect on non-mythic creatures, add your tier to your caster level. <br>Non-lawful creatures that fail their saves against the spell also take a –4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell's other effects last. ",
+    "text": "Any nonlawful creature within the area of a <i>dictum<\/i> spell suffers the following ill effects.<br><br><table class=\"inner\"><tr><td><b>HD<\/b><\/td><td><b>Effect<\/b><\/td><\/tr><tr><td>Equal to caster level<\/td><td>Deafened<\/td><\/tr><tr><td>Up to caster level -1<\/td><td>Staggered, deafened<\/td><\/tr><tr><td>Up to caster level -5<\/td><td>Paralyzed, staggered, deafened<\/td><\/tr><tr><td>Up to caster level -10<\/td><td>Killed, paralyzed, staggered, deafened<\/td><\/tr><\/table><br>The effects are cumulative and concurrent. A successful Will save reduces or eliminates these effects. Creatures affected by multiple effects make only one save and apply the result to all the effects.<br><br><i>Deafened<\/i>: The creature is deafened for 1d4 rounds. Save negates.<br><br><i>Staggered<\/i>: The creature is staggered for 2d4 rounds. Save reduces the staggered effect to 1d4 rounds.<br><br><i>Paralyzed<\/i>: The creature is paralyzed and helpless for 1d10 minutes. Save reduces the paralyzed effect to 1 round.<br><br><i>Killed<\/i>: Living creatures die. Undead creatures are destroyed. Save negates. If the save is successful, the creature instead takes 3d6 points of damage + 1 point per caster level (maximum +25).<br><br>Furthermore, if you are on your home plane when you cast this spell, nonlawful extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the <i>dictum<\/i> or not. The banishment effect allows a Will save (at a –4 penalty) to negate.<br><br>Creatures whose Hit Dice exceed your caster level are unaffected by <i>dictum<\/i>.<h2 class=\"title\">Mythic Dictum<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 91<\/i><br>When determining the spell’s effect on nonmythic creatures, add your tier to your caster level. Nonlawful creatures that fail their saves against the spell also take a –4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell’s other effects last. ",
+    "mythicSource": ["Mythic Adventures pg. 91"],
+    "mythicText": "When determining the spell’s effect on nonmythic creatures, add your tier to your caster level. Nonlawful creatures that fail their saves against the spell also take a –4 penalty on attack rolls and saving throws, and their spell resistance decreases by 5 for as long as the spell’s other effects last. ",
     "name_zh": "律言",
     "castingTime_zh": "标准动作",
     "components_zh": "语言",
     "range_zh": "40尺",
     "area_zh": "以你为中心, 半径40尺扩散区域内的非秩序生物",
     "duration_zh": "立即",
-    "savingThrow_zh": "无 或 意志, 通过则无效; 见后文",
+    "savingThrow_zh": "无 或 意志, 通过则无效, 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>在律言法术区域内的任何非秩序生物会承受后述不良效果:\nHD\n 效果\n等于CL\n 耳聋\n至多为CL-1\n 恍惚, 耳聋\n至多为CL-5\n 麻痹, 恍惚, 耳聋\n至多为CL-10\n 死亡, 麻痹, 恍惚, 耳聋<\/p><p>这些效果会累加并且同时发生。成功的意志豁免会减弱或消除这些效果。受到复数效果影响的生物只能进行一次豁免，并且将结果应用至所有效果上。<\/p><p>耳聋 (Deafened): 生物会耳聋1d4轮。豁免通过则无效。<\/p><p>恍惚 (Staggered): 生物会恍惚2d4轮，豁免通过则将恍惚效果降至1d4轮。<\/p><p>麻痹 (Paralyzed): 生物被麻痹并无助，持续1d10分钟。豁免通过则会将麻痹效果降低至1轮。<\/p><p>死亡 (Killed): 活物死掉。不死生物被摧毁。豁免通过则无效。若豁免成功，生物会受到 {3d6+每CL 1点伤害 (最高+25)} 作为替代。<\/p><p>另外，如果你在你的原属位面施展此法术，区域内的所有非秩序跨位面生物 (nongood extraplanar creatures) 都会被立刻驱逐回它们的原属位面。被这样驱逐的生物24小时内无法返回。无论生物是否听见律言，效果都会产生。律言的驱逐效果允许进行意志豁免 (有-4减值) 来避免被驱逐。<\/p><p>HD超过你CL的生物不受律言影响。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>在律言法术区域内的任何非秩序生物会承受后述不良效果:<\/p><p>HD 效果<\/p><p>等于CL 耳聋<\/p><p>至多为CL-1 恍惚, 耳聋<\/p><p>至多为CL-5 麻痹, 恍惚, 耳聋<\/p><p>至多为CL-10 死亡, 麻痹, 恍惚, 耳聋<\/p><p>这些效果会累加并且同时发生。成功的意志豁免会减弱或消除这些效果。受到复数效果影响的生物只能进行一次豁免，并且将结果应用至所有效果上。<\/p><p>耳聋 (Deafened): 生物会耳聋1d4轮。豁免通过则无效。<\/p><p>恍惚 (Staggered): 生物会恍惚2d4轮，豁免通过则将恍惚效果降至1d4轮。<\/p><p>麻痹 (Paralyzed): 生物被麻痹并无助，持续1d10分钟。豁免通过则会将麻痹效果降低至1轮。<\/p><p>死亡 (Killed): 活物死掉。不死生物被摧毁。豁免通过则无效。若豁免成功，生物会受到 {3d6+每CL 1点伤害 (最高+25)} 作为替代。<\/p><p>另外，如果你在你的原属位面施展此法术，区域内的所有非秩序跨位面生物 (nongood extraplanar creatures) 都会被立刻驱逐回它们的原属位面。被这样驱逐的生物24小时内无法返回。无论生物是否听见律言，效果都会产生。律言的驱逐效果允许进行意志豁免 (有-4减值) 来避免被驱逐。<\/p><p>HD超过你CL的生物不受律言影响。<\/p>"
 }

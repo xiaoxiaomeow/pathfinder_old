@@ -1,19 +1,19 @@
 {
     "key": "venomous promise",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/v/venomous-promise/",
     "name": "Venomous Promise",
-    "book": "Pathfinder Player Companion: Black Markets © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Venomous%20Promise",
+    "source": ["Black Markets pg. 25"],
     "school": "transmutation",
     "descriptors":     [
         "language-dependent",
         "poison"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 3,
         "bard": 3,
-        "mesmerist": 3,
         "shaman": 3,
+        "skald": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -23,15 +23,14 @@
     "duration": "permanent or until triggered",
     "savingThrow": "yes",
     "spellResistance": "yes",
-    "text": "<p>You guard your words and person with poisonous power. You can impart a short amount of information—up to 25 words—as you cast this spell, entwining your words with the poison provided as a material component. If your target reveals the information you impart (verbally, in writing, with gestures, or by having its mind read with spells like detect thoughts), the target is immediately exposed to the poison (and is allowed any saving throw the poison allows).<\/p><p>Your target instinctively knows that revealing this information will endanger it, but doesn't automatically understand why or how. Neutralize poison removes the effect of this spell; the spellcaster must succeed at a caster level check against the spell's save DC rather than the poison's.<\/p>",
+    "text": "You guard your words and person with poisonous power. You can impart a short amount of information—up to 25 words—as you cast this spell, entwining your words with the poison provided as a material component. If your target reveals the information you impart (verbally, in writing, with gestures, or by having its mind read with spells like <i>detect thoughts<\/i>), the target is immediately exposed to the poison (and is allowed any saving throw the poison allows).<br><br> Your target instinctively knows that revealing this information will endanger it, but doesn’t automatically understand why or how. <i>Neutralize poison<\/i> removes the effect of this spell; the spellcaster must succeed at a caster level check against the spell’s save DC rather than the poison’s.",
     "name_zh": "阴毒之诺",
     "castingTime_zh": "标准动作",
     "components_zh": "姿势、材料 (一瓶毒药)",
     "range_zh": "接触",
     "target_zh": "一个生物",
     "duration_zh": "永久或直到触发",
-    "savingThrow_zh": "有",
+    "savingThrow_zh": "可",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你用毒守护你的誓言以及自身。当你施放这个法术时，你可以传递少量的信息─最多25个字─并将你的话与材料成分中的毒药纠结缠绕。如果你的目标揭露了你传递的信息(口头、书写、手势或读取心灵的法术，例如侦测思想(detect thoughts))，目标会立即暴露于毒素中(并可以过该毒药所允许的任何豁免)。\n你的目标本能的知道揭露这些消息将会身陷危机，但不会自动的了解到为什么或是什么危机。中和毒性(Neutralize poison)能移除这法术的效果；施法者必须成功通过一个施法者等级检定，而且对抗的是该法术的DC而非毒药的。\n走私者法术(Smuggler Spell)\n以下的法术常见于专攻超维学派 (Extradimension School)的法师手中(见P.26)。<\/p>",
-    "source": "PC-BM"
+    "text_zh": "<p>你用毒守护你的誓言以及自身。当你施放这个法术时，你可以传递少量的信息─最多25个字─并将你的话与材料成分中的毒药纠结缠绕。如果你的目标揭露了你传递的信息(口头、书写、手势或读取心灵的法术，例如侦测思想(detect thoughts))，目标会立即暴露于毒素中(并可以过该毒药所允许的任何豁免)。<\/p><p>你的目标本能的知道揭露这些消息将会身陷危机，但不会自动的了解到为什么或是什么危机。中和毒性(Neutralize poison)能移除这法术的效果；施法者必须成功通过一个施法者等级检定，而且对抗的是该法术的DC而非毒药的。<\/p><p>走私者法术(Smuggler Spell)<\/p><p>以下的法术常见于专攻超维学派 (Extradimension School)的法师手中(见P.26)。<\/p>"
 }

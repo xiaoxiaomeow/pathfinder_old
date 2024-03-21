@@ -1,16 +1,19 @@
 {
     "key": "pellet blast",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/pellet-blast/",
     "name": "Pellet Blast",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Pellet%20Blast",
+    "source": ["Ultimate Combat pg. 238"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 3,
         "bloodrager": 4,
         "magus": 4,
         "psychic": 3,
-        "sorcerer/wizard": 3,
-        "summoner/unchained summoner": 3
+        "sorcerer": 3,
+        "summoner": 3,
+        "summoner (unchained)": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a handful of metal pellets or handful of cold iron, silver, or adamantine pellets; see descriptions for cost)",
@@ -19,15 +22,14 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "no",
-    "text": "<p>This spell creates an explosion of conjured metal pellets, striking everything within its area and dealing 1d8 points of piercing damage per two caster levels, maximum 5d8. This damage is subject to damage reduction. If the material component is made of cold iron (costing 50 gp), silver (costing 20 gp), or adamantine (costing 100 gp), the resulting blast can overcome damage reduction of the appropriate type. The pellets disappear after the spell is cast and the damage is dealt.<\/p>",
+    "text": "This spell creates an explosion of conjured metal pellets, striking everything within its area and dealing 1d8 points of piercing damage per two caster levels, maximum 5d8. This damage is subject to damage reduction. If the material component is made of cold iron (costing 50 gp), silver (costing 20 gp), or adamantine (costing 100 gp), the resulting blast can overcome damage reduction of the appropriate type. The pellets disappear after the spell is cast and the damage is dealt.",
     "name_zh": "散弹爆发",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一份金属散弹，或寒铁、银、精金散弹；见下文)",
     "range_zh": "30尺",
-    "area_zh": "锥形爆发范围",
+    "area_zh": "锥形爆发区域",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术会创造出一波散弹的喷发，攻击范围内所有生物，并造成每2施法者等级1d8的穿刺伤害，最高5d8。<\/p><p>这个法术会受到伤害减免影响。同时，如果施法材料的散弹是寒铁 (50GP)、银 (20GP) 或精金 (100GP) 材质，那么它可以克服对应类型的伤害减免。<\/p><p>当法术被施放完毕并造成伤害后，散弹消失。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>这个法术会创造出一波散弹的喷发，攻击范围内所有生物，并造成每2施法者等级1d8的穿刺伤害，最高5d8。<\/p><p>这个法术会受到伤害减免影响。同时，如果施法材料的散弹是寒铁 (50GP)、银 (20GP) 或精金 (100GP) 材质，那么它可以克服对应类型的伤害减免。<\/p><p>当法术被施放完毕并造成伤害后，散弹消失。<\/p>"
 }

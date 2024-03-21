@@ -1,0 +1,25 @@
+{
+    "key": "resize item",
+    "name": "Resize Item",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Resize%20Item",
+    "source": ["Giant Hunter's Handbook pg. 33"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 3,
+        "sorcerer": 3,
+        "wizard": 3
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (silver calipers worth 25 gp)",
+    "range": "touch",
+    "target": "one weapon or suit of armor weighing up to 25 lbs./level",
+    "duration": "24 hours (D)",
+    "savingThrow": "Will negates (object)",
+    "spellResistance": "yes (object)",
+    "text": "You alter a magic weapon or suit of armor to be up to two size categories larger or smaller. If the spell on a resized suit of armor ends while the armor is being worn, the armor falls off harmlessly. If the spell would cause an item to grow too large for the area containing it, its growth halts just before that point.<br><br> <i>Resize item<\/i> can be made permanent with a <i>permanency<\/i> spell for 7,500 gp, in which case the affected object is set at one specific new size within two steps of its original size.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "24小时 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (物体)",
+    "spellResistance_zh": "可 (物体)"
+}

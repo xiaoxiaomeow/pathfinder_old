@@ -1,8 +1,8 @@
 {
     "key": "intellect fortress i",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/intellect-fortress/",
     "name": "Intellect Fortress I",
-    "book": "Pathfinder Roleplaying Game Occult Adventures © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Intellect%20Fortress%20I",
+    "source": ["Occult Adventures pg. 174"],
     "school": "abjuration",
     "levels": {"psychic": 4},
     "castingTime": "1 immediate action",
@@ -12,15 +12,14 @@
     "duration": "1 round",
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
-    "text": "<p>Using the power of pure logic, you disrupt mental attacks. Intellect fortress I suppresses all effects with the emotion and fear descriptors for its duration.<\/p>",
+    "text": "Using the power of pure logic, you disrupt mental attacks. <i>Intellect fortress I<\/i> suppresses all effects with the emotion and fear descriptors for its duration.",
     "name_zh": "智能壁垒 I",
     "castingTime_zh": "直觉动作",
     "components_zh": "语言",
     "range_zh": "20尺",
-    "area_zh": "：以你为中心，半径20尺发散区域",
+    "area_zh": "以你自己为中心的20尺半径灵光",
     "duration_zh": "1轮",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>使用完全由逻辑构成的力量，你能够扰乱精神攻击。智能壁垒 I能够在法术持续时间内压制所有具有情绪（emotion）和恐惧（fear）描述符的效果。<\/p>",
-    "source": "OA"
+    "text_zh": "<p>使用完全由逻辑构成的力量，你能够扰乱精神攻击。智能壁垒 I能够在法术持续时间内压制所有具有情绪（emotion）和恐惧（fear）描述符的效果。<\/p>"
 }

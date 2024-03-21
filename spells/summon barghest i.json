@@ -1,0 +1,27 @@
+{
+    "key": "summon barghest i",
+    "name": "Summon Barghest I",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Barghest%20I",
+    "source": ["Pathfinder Comics #10 pg. 26"],
+    "school": "conjuration",
+    "subSchools": ["summoning"],
+    "descriptors": ["evil"],
+    "levels":     {
+        "cleric": 4,
+        "oracle": 4,
+        "warpriest": 4
+    },
+    "castingTime": "1 round",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one summoned barghest",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "This spell summons a barghest from the Abyssal realm of Basalfeyst to serve the caster, functioning similarly to <i>summon monster<\/i> save that it may only be used to summon a single barghest. Although the summoned barghest does not have the feed ability, if you are at least caster level 9th the summoned barghest appears with 2 growth points (and with it the appropriate bonuses to its attacks, CMB, saves, skill checks, hit points, and caster level).",
+    "castingTime_zh": "1轮",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

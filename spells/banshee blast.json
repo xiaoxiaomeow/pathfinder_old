@@ -1,8 +1,8 @@
 {
     "key": "banshee blast",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/banshee-blast/",
     "name": "Banshee Blast",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Banshee%20Blast",
+    "source": ["Advanced Class Guide pg. 174"],
     "school": "necromancy",
     "descriptors":     [
         "death",
@@ -10,10 +10,13 @@
         "mind-affecting",
         "sonic"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "arcanist": 6,
+        "sorcerer": 6,
+        "spiritualist": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -22,15 +25,14 @@
     "duration": "instantaneous and 1 round/level (see text)",
     "savingThrow": "Reflex half and Will negates (see text)",
     "spellResistance": "yes",
-    "text": "<p>You create a cone of spectral energy resembling screaming elven ghosts that deals 1d4 points of damage per caster level (maximum 15d4); a successful Reflex save halves this damage. Any creature that fails its Reflex save must succeed at a Will save or become panicked for 1 round/level.<\/p>",
+    "text": "You create a cone of spectral energy resembling screaming elven ghosts that deals 1d4 points of damage per caster level (maximum 15d4); a successful Reflex save halves this damage. Any creature that fails its Reflex save must succeed at a Will save or become panicked for 1 round/level.",
     "name_zh": "音爆哀鸣",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
     "range_zh": "30尺",
-    "area_zh": "：锥形爆发区域",
-    "duration_zh": "立即 和 1轮/等级（见后文）",
-    "savingThrow_zh": "反射，通过则减半 和 意志，通过则无效（见后文）",
+    "area_zh": "锥形爆发区域",
+    "duration_zh": "立即 和 1轮/等级; 见文本",
+    "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则无效; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你创造出一股幽能来模仿精灵鬼魂的尖啸，这会在成每施法者等级1d4点伤害（最高15d4）；成功的反射豁免能够使伤害减半。任何在反射豁免中失败的生物必须进行意志豁免，失败则会恐慌（panicked），持续时间为每等级1轮。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你创造出一股幽能来模仿精灵鬼魂的尖啸，这会在成每施法者等级1d4点伤害（最高15d4）；成功的反射豁免能够使伤害减半。任何在反射豁免中失败的生物必须进行意志豁免，失败则会恐慌（panicked），持续时间为每等级1轮。<\/p>"
 }

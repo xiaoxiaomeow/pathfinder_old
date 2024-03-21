@@ -1,20 +1,31 @@
 {
     "key": "last azlanti's defending sword",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/defending-sword/",
     "name": "Last Azlanti's Defending Sword",
-    "book": "Pathfinder Player Companion: Arcane Anthology © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Last%20Azlanti's%20Defending%20Sword",
+    "source": ["Arcane Anthology pg. 9"],
     "school": "evocation",
     "descriptors": ["force"],
     "levels":     {
+        "arcanist": 6,
         "magus": 6,
         "occultist": 6,
         "psychic": 7,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
-    "text": "<p>You create a sword of force that functions as mage's sword except as described here. The sword does not receive the additional +3 enhancement bonus a mage's sword receives, and deals 3d6 points of force damage. You cannot command the sword. Until the sword is triggered, it hovers in your space without interfering with your actions. While hovering in this way, the sword attempts to defend you from incoming attacks, granting you a +4 shield bonus to your AC. The first time a foe within close range damages you or forces you to attempt a saving throw that you fail, the sword is triggered and begins attacking that target as described in mage's sword for the duration of the spell. This ends the shield bonus. You cannot direct the sword to defend against a new target once it has begun to attack. If its target moves beyond the sword's range, the sword returns to you and hovers until the target is again within range. The sword's return does not restore the spell's shield bonus to AC.<\/p>",
+    "components": "V, S, F (a miniature platinum sword worth 250 gp)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "effect": "one sword",
+    "duration": "1 round/level (D)",
+    "savingThrow": "none",
+    "spellResistance": "yes",
+    "text": "You create a sword of force that functions as <i>mage’s sword<\/i> except as described here. The sword does not receive the additional +3 enhancement bonus a mage’s sword receives, and deals 3d6 points of force damage. You cannot command the sword. Until the sword is triggered, it hovers in your space without interfering with your actions. While hovering in this way, the sword attempts to defend you from incoming attacks, granting you a +4 shield bonus to your AC. The first time a foe within close range damages you or forces you to attempt a saving throw that you fail, the sword is triggered and begins attacking that target as described in <i>mage’s sword<\/i> for the duration of the spell. This ends the shield bonus. You cannot direct the sword to defend against a new target once it has begun to attack. If its target moves beyond the sword’s range, the sword returns to you and hovers until the target is again within range. The sword’s return does not restore the spell’s shield bonus to AC.",
     "name_zh": "奥罗登的捍卫之剑",
     "castingTime_zh": "标准动作",
-    "text_zh": "<p>你创造出一把力场剑，如同法师之剑，除了以下区别。这种力场剑不会如法师之剑一般得到额外的+3增强加值，并造成3d6点力场伤害。你不能命令力场剑。在剑被触发之前，它会在你的身旁盘旋，而不会干扰你的行动。当以这种方式徘徊时，力场剑会试图阻拦袭向你的攻击，让你在AC上获得+4的防御加值。当第一次有敌人在近距离内伤害到你或者迫使你尝试一次失败的豁免检定，力场剑就会被触发，并开始在法术持续时间内攻击目标，如同法师之剑中所描述的一般。这会撤销防御奖励。一旦开始攻击，你就不能命令力场剑去保护一个新目标。如果目标离开力场剑的攻击距离，剑就会回到你身边内，直到目标再次出现在攻击距离内。力场剑的回归不会恢复在AC上的防御加值。<\/p>",
-    "source": "PC-AAnth"
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮/等级 (可解消)",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>你创造出一把力场剑，如同法师之剑，除了以下区别。这种力场剑不会如法师之剑一般得到额外的+3增强加值，并造成3d6点力场伤害。你不能命令力场剑。在剑被触发之前，它会在你的身旁盘旋，而不会干扰你的行动。当以这种方式徘徊时，力场剑会试图阻拦袭向你的攻击，让你在AC上获得+4的防御加值。当第一次有敌人在近距离内伤害到你或者迫使你尝试一次失败的豁免检定，力场剑就会被触发，并开始在法术持续时间内攻击目标，如同法师之剑中所描述的一般。这会撤销防御奖励。一旦开始攻击，你就不能命令力场剑去保护一个新目标。如果目标离开力场剑的攻击距离，剑就会回到你身边内，直到目标再次出现在攻击距离内。力场剑的回归不会恢复在AC上的防御加值。<\/p>"
 }

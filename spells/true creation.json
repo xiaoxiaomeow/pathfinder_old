@@ -1,19 +1,18 @@
 {
     "key": "true creation",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/true-creation/",
     "name": "True Creation",
-    "book": "Copyright 2008, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=True%20Creation",
+    "source": ["Pathfinder Campaign Setting pg. 207"],
     "school": "conjuration",
-    "subSchool": ["creation"],
-    "levels": {"artifice": 8},
+    "subSchools": ["creation"],
     "castingTime": "10 minutes",
-    "components": "V, S, M (5 x item value in misc. components)",
+    "components": "V, S, XP",
     "range": "0 ft.",
-    "effect": "unattended, nonmagical object, up to 1 cu. ft/level",
+    "effect": "unattended, nonmagical object, up to 1 cu. ft./level",
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful Craft checks. Objects created can be used as material components.<\/p><p><b>Cost<\/b>: You must expend material components worth five times the item's normal gold piece value (minimum 1 gp).<\/p>",
+    "text": "You create a completely real, nonmagical, unattended object of any sort of matter. The volume of the item created cannot exceed 1 cubic foot per caster level. Complex items require successful Craft checks. Objects created can be used as material components.<br><br><b>XP Cost<\/b>: The item’s gold piece value in XP (minimum 1 XP).",
     "name_zh": "创造万物",
     "castingTime_zh": "10分钟",
     "components_zh": "语言、姿势、XP",
@@ -22,6 +21,5 @@
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你能创造一件任何类型的材质构成，完全真实、非魔法、无主的物体。这件被创造的物体的体积，不得超过1立方呎/等级。复杂的物体需要进行工艺检定。备创造的物体可以用来当作材料成分。\nXP花费：该件物品的金币价值换算成XP (最小1XP)。<\/p>",
-    "source": "CS-PCCS"
+    "text_zh": "<p>你能创造一件任何类型的材质构成，完全真实、非魔法、无主的物体。这件被创造的物体的体积，不得超过1立方呎/等级。复杂的物体需要进行工艺检定。备创造的物体可以用来当作材料成分。<\/p><p>XP花费：该件物品的金币价值换算成XP (最小1XP)。<\/p>"
 }

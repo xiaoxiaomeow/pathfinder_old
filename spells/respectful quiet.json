@@ -1,0 +1,30 @@
+{
+    "key": "respectful quiet",
+    "name": "Respectful Quiet",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Respectful%20Quiet",
+    "source": ["Inner Sea Races pg. 222"],
+    "school": "illusion",
+    "subSchools": ["glamer"],
+    "race": "Chelaxian",
+    "levels":     {
+        "bard": 3,
+        "cleric": 5,
+        "inquisitor": 3,
+        "oracle": 5,
+        "skald": 3,
+        "warpriest": 5
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "medium (100 ft. + 10 ft./level)",
+    "duration": "1 minute/level (D)",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "All targets are rendered silent, as per <i>silence<\/i>. The silence affects the entirety of each creature but does not extend beyond. However, the silence is one-way—sounds from outside the creatures’ spaces can still enter. Quieted creatures gain a +10 circumstance bonus on Stealth checks.",
+    "race_zh": "Chelaxian",
+    "castingTime_zh": "标准动作",
+    "range_zh": "中距 (100尺+每等级10尺)",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

@@ -1,16 +1,24 @@
 {
     "key": "signs of the land",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/signs-of-the-land/",
     "name": "Signs of the Land",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Signs%20of%20the%20Land",
+    "source": ["Ultimate Wilderness pg. 235"],
     "school": "divination",
     "levels":     {
         "druid": 3,
+        "hunter": 3,
         "ranger": 3,
         "shaman": 3
     },
-    "text": "<p>This spell functions as commune with nature except it reveals up to three details about the territory you currently occupy from the following list: bodies of water, features, minerals, or plants. For each feature you learn about, you automatically know the skills you can use to discover that feature and you gain 1d6 Discovery Points toward finding it.<\/p>",
+    "castingTime": "10 minutes",
+    "components": "V, S",
+    "range": "personal",
+    "target": "you",
+    "duration": "instantaneous",
+    "text": "This spell functions as <i>commune with nature<\/i> except it reveals up to three details about the territory you currently occupy from the following list: bodies of water, features, minerals, or plants. For each feature you learn about, you automatically know the skills you can use to discover that feature and you gain 1d6 Discovery Points toward finding it (see page 124). ",
     "name_zh": "大地预兆",
-    "text_zh": "<p>这个法术类似于问道自然，但它最多可以揭示三条下列关于你目前所占据的区域的细节：水体、地貌、矿物或植物。你每了解一个特性，你都将自动知道你可以用来发现该特性的技能，并且你在发现这些东西时将获得1d6的探索值（Discovery Points）（参见第124页）。<\/p>",
-    "source": "UW"
+    "castingTime_zh": "10分钟",
+    "range_zh": "个人",
+    "duration_zh": "立即",
+    "text_zh": "<p>这个法术类似于问道自然，但它最多可以揭示三条下列关于你目前所占据的区域的细节：水体、地貌、矿物或植物。你每了解一个特性，你都将自动知道你可以用来发现该特性的技能，并且你在发现这些东西时将获得1d6的探索值（Discovery Points）（参见第124页）。<\/p>"
 }

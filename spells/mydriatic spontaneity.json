@@ -1,35 +1,39 @@
 {
     "key": "mydriatic spontaneity",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/m/mydriatic-spontaneity/",
     "name": "Mydriatic Spontaneity",
-    "book": "Pathfinder Player Companion: Blood of Shadows © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Mydriatic%20Spontaneity",
+    "source": ["Blood of Shadows pg. 28"],
     "school": "evocation",
     "descriptors":     [
         "darkness",
         "light"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 4,
         "bard": 3,
         "mesmerist": 3,
         "psychic": 3,
-        "sorcerer/wizard": 4,
-        "witch": 4
+        "skald": 3,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S",
-    "range": "close (25 ft. + 5 ft./2 levels) targets one living creature",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one living creature",
     "duration": "1 round/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell's duration. Each round, the target's pupils randomly become dilated or contracted for 1 round. During any round that its eyes are dilated, the target is blinded if exposed to bright light or dazzled if exposed to normal light. During any round its eyes are contracted, the target is blinded if exposed to darkness or dazzled if exposed to dim light. In addition, any creature can attempt a Stealth check to avoid detection from the target, even if the creature lacks cover or concealment.<\/p>",
+    "text": "You overstimulate the target with alternating flashes of light and shadow within its eyes, causing its pupils to rapidly dilate and contract. While under the effects of this spell, the target is racked by splitting headaches and unable to see clearly, becoming nauseated for the spell’s duration. Each round, the target’s pupils randomly become dilated or contracted for 1 round. During any round that its eyes are dilated, the target is blinded if exposed to bright light or dazzled if exposed to normal light. During any round its eyes are contracted, the target is blinded if exposed to darkness or dazzled if exposed to dim light. In addition, any creature can attempt a Stealth check to avoid detection from the target, even if the creature lacks cover or concealment.",
     "name_zh": "自发性散瞳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你利用亮光与阴影交替闪现来过度刺激受术者的眼睛，导致它的瞳孔迅速地扩张与收缩。当处在此法术的效果时，受术者被像头要裂开的痛苦折磨，并且没办法看清东西，它在法术持续时间内变得反胃(nauseated)。每一轮，受术者的瞳孔会随机呈现扩张与收缩，持续一轮。任何它瞳孔扩张的轮的期间，受术者如果暴露在强光下则目盲，或如果暴露在常光下则目眩。任何它瞳孔收缩的轮的期间，受术者如果暴露在黑暗中则目盲，或如果暴露在昏暗下则目眩。此外，任何生物可以尝试一次隐匿检定来避免被受术者侦测到，就算该生物缺乏掩蔽或隐蔽。<\/p>",
-    "source": "PC-BoS"
+    "text_zh": "<p>你利用亮光与阴影交替闪现来过度刺激受术者的眼睛，导致它的瞳孔迅速地扩张与收缩。当处在此法术的效果时，受术者被像头要裂开的痛苦折磨，并且没办法看清东西，它在法术持续时间内变得反胃(nauseated)。每一轮，受术者的瞳孔会随机呈现扩张与收缩，持续一轮。任何它瞳孔扩张的轮的期间，受术者如果暴露在强光下则目盲，或如果暴露在常光下则目眩。任何它瞳孔收缩的轮的期间，受术者如果暴露在黑暗中则目盲，或如果暴露在昏暗下则目眩。此外，任何生物可以尝试一次隐匿检定来避免被受术者侦测到，就算该生物缺乏掩蔽或隐蔽。<\/p>"
 }

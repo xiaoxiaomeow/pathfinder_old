@@ -1,11 +1,12 @@
 {
     "key": "hex ward",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/hex-ward/",
     "name": "Hex Ward",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Hex%20Ward",
+    "source": ["Ultimate Magic pg. 223"],
     "school": "abjuration",
     "levels":     {
         "inquisitor": 1,
+        "occultist": 1,
         "shaman": 1,
         "witch": 1
     },
@@ -16,7 +17,9 @@
     "duration": "1 hour/level",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>You give the target a +4 resistance bonus on saving throws against witch hexes.<\/p>",
+    "text": "You give the target a +4 resistance bonus on saving throws against witch hexes.<h2 class=\"title\">Mythic Hex Ward<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 98<\/i><br>The target gains immunity to one witch hex (but not a major hex or grand hex) of your choice. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, instead of granting immunity to one witch hex, you can grant immunity to two hexes or one major hex.<br><br> If you’re at least 6th tier and expend three uses of mythic power, you instead grant immunity to three hexes, two major hexes, or one grand hex. ",
+    "mythicSource": ["Mythic Adventures pg. 98"],
+    "mythicText": "The target gains immunity to one witch hex (but not a major hex or grand hex) of your choice. <br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, instead of granting immunity to one witch hex, you can grant immunity to two hexes or one major hex.<br><br> If you’re at least 6th tier and expend three uses of mythic power, you instead grant immunity to three hexes, two major hexes, or one grand hex. ",
     "name_zh": "防护巫术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -25,6 +28,5 @@
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你使目标在对抗女巫的巫术时豁免检定获得+4抗力加值。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可 (无害)<\/p><p>你使目标在对抗女巫的巫术时豁免检定获得+4抗力加值。<\/p>"
 }

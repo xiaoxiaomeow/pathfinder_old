@@ -1,27 +1,28 @@
 {
     "key": "break enchantment",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/break-enchantment/",
     "name": "Break Enchantment",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Break%20Enchantment",
+    "source": ["PRPG Core Rulebook pg. 251"],
     "school": "abjuration",
     "levels":     {
+        "adept": 5,
+        "arcanist": 5,
         "bard": 4,
-        "cleric/oracle": 5,
+        "cleric": 5,
         "inquisitor": 5,
+        "medium": 4,
+        "mesmerist": 4,
+        "occultist": 4,
+        "oracle": 5,
         "paladin": 4,
+        "psychic": 4,
         "shaman": 5,
-        "sorcerer/wizard": 5,
-        "witch": 5
-    },
-    "domains":     {
-        "liberation": 5,
-        "luck": 5
-    },
-    "subdomains": {"restoration": 5},
-    "bloodlines": {"destined": 5},
-    "mysteries":     {
-        "godclaw": 5,
-        "spellscar": 5
+        "skald": 4,
+        "sorcerer": 5,
+        "spiritualist": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 minute",
     "components": "V, S",
@@ -29,16 +30,16 @@
     "duration": "instantaneous",
     "savingThrow": "see text",
     "spellResistance": "no",
-    "text": "<p>This spell frees victims from enchantments, transmutations, and curses. <i>Break enchantment<\/i> can reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC is equal to the DC of the curse.<\/p><p>If the spell is one that cannot be dispelled by dispel magic, <i>break enchantment<\/i> works only if that spell is 5th level or lower.<\/p><p>If the effect comes from a permanent magic item, <i>break enchantment<\/i> does not remove the curse from the item, but it does free the victim from the item's effects.<\/p>",
-    "mythicText": "Against non-mythic effects, the spell automatically succeeds without requiring a caster level check. Against mythic effects, add your tier to your caster level check. The maximum level of spell this spell can remove is 5 + half your tier. <br><p style=\"margin-left: 20px\"><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you can apply A removed enchantment, transmutation, or curse to the creature that originally cast it. The creature must be a valid target of the spell and on the same plane as you, and it gets a saving throw at the effect's original DC. ",
+    "text": "This spell frees victims from enchantments, transmutations, and curses. <i>Break enchantment<\/i> can reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC is equal to the DC of the curse.<br><br>If the spell is one that cannot be dispelled by <i>dispel magic<\/i> or <i>stone to flesh<\/i>, <i>break enchantment<\/i> works only if that spell is 5th level or lower.<br><br>If the effect comes from a permanent magic item, <i>break enchantment<\/i> does not remove the curse from the item, but it does free the victim from the item's effects.<h2 class=\"title\">Mythic Break Enchantment<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 87<\/i><br>Against non-mythic effects, the spell automatically succeeds without requiring a caster level check. Against mythic effects, add your tier to your caster level check. The maximum level of spell this spell can remove is 5 + half your tier.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you can apply a removed enchantment, transmutation, or curse to the creature that originally cast it. The creature must be a valid target of the spell and on the same plane as you, and it gets a saving throw at the effect’s original DC.",
+    "mythicSource": ["Mythic Adventures pg. 87"],
+    "mythicText": "Against non-mythic effects, the spell automatically succeeds without requiring a caster level check. Against mythic effects, add your tier to your caster level check. The maximum level of spell this spell can remove is 5 + half your tier.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, you can apply a removed enchantment, transmutation, or curse to the creature that originally cast it. The creature must be a valid target of the spell and on the same plane as you, and it gets a saving throw at the effect’s original DC.",
     "name_zh": "破除结界",
     "castingTime_zh": "1分钟",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "至多每等级一个生物，全部彼此都要在30尺区域内",
     "duration_zh": "立即",
-    "savingThrow_zh": "见后文",
+    "savingThrow_zh": "见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术能将受害者从惑控效果、变形、诅咒中解放出来。破除结界甚至可以反转持续时间为立即的效果。对于每项这类效果，你都要做一次施法者等级检定 {1d20+CL (最多+15)} 来对抗DC {11+效果CL}。成功意味着该生物从那法术、诅咒或效果中解放出来。对于诅咒魔法物品，DC与诅咒的DC相同。<\/p><p>如果法术无法被‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=Stone to Flesh\">解除石化 (Stone to Flesh)<\/a>’解除，那么破除结界只能对5环或更低环位的这类法术起作用。<\/p><p>如果该效果是由某些永久性魔法物品造成的，那么破除结界并不会移除物品上的诅咒，只是可以将受害者从物品效果中解放出来。<\/p>",
-    "source": "CRB"
+    "text_zh": "<p>这个法术能将受害者从惑控效果、变形、诅咒中解放出来。破除结界甚至可以反转持续时间为立即的效果。对于每项这类效果，你都要做一次施法者等级检定 {1d20+CL (最多+15)} 来对抗DC {11+效果CL}。成功意味着该生物从那法术、诅咒或效果中解放出来。对于诅咒魔法物品，DC与诅咒的DC相同。<\/p><p>如果法术无法被‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’或‘<a href=\"spell.html?spell=Stone to Flesh\">解除石化 (Stone to Flesh)<\/a>’解除，那么破除结界只能对5环或更低环位的这类法术起作用。<\/p><p>如果该效果是由某些永久性魔法物品造成的，那么破除结界并不会移除物品上的诅咒，只是可以将受害者从物品效果中解放出来。<\/p>"
 }

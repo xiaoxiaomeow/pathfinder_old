@@ -1,26 +1,29 @@
 {
     "key": "elemental body iii",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/elemental-body/",
     "name": "Elemental Body III",
-    "base": "elemental body",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Elemental%20Body%20III",
+    "source": ["PRPG Core Rulebook pg. 276"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
+    "subSchools": ["polymorph"],
     "levels":     {
         "alchemist": 6,
+        "arcanist": 6,
+        "investigator": 6,
         "magus": 6,
-        "sorcerer/wizard": 6
+        "sorcerer": 6,
+        "wizard": 6
     },
-    "elementalSchools":     {
-        "air": 6,
-        "earth": 6,
-        "fire": 6,
-        "water": 6
-    },
-    "bloodlines": {"elemental": 6},
-    "mysteries": {"elemental": 6},
-    "text": "<p>This spell functions as <i>elemental body II<\/i>, except that it also allows you to assume the form of a Large air elemental, large earth elemental, large fire elemental, or large water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form.<\/p><ul><li><i>Air elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +2 size bonus to your Strength, +4 size bonus to your Dexterity, and a +4 natural armor bonus.<\/li><li><i>Earth elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +6 size bonus to your Strength, a -2 penalty on your Dexterity, a +2 size bonus to your Constitution, and a +6 natural armor bonus.<\/li><li><i>Fire elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Dexterity, a +2 size bonus to your Constitution, and a +4 natural armor bonus.<\/li><li><i>Water elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +2 size bonus to your Strength, a -2 penalty on your Dexterity, a +6 size bonus to your Constitution, and a +6 natural armor bonus.<\/li><\/ul>",
+    "castingTime": "1 standard action",
+    "components": "V, S, M (the element you plan to assume)",
+    "range": "personal",
+    "target": "you",
+    "duration": "1 min./level",
+    "text": "This spell functions as <i>elemental body II<\/i>, except that it also allows you to assume the form of a Large air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to bleed damage, critical hits, and sneak attacks while in elemental form.<br><br><i>Air elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +2 size bonus to your Strength, +4 size bonus to your Dexterity, and a +4 natural armor bonus. <br><br><i>Earth elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +6 size bonus to your Strength, a –2 penalty on your Dexterity, a +2 size bonus to your Constitution, and a +6 natural armor bonus. <br><br><i>Fire elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +4 size bonus to your Dexterity, a +2 size bonus to your Constitution, and a +4 natural armor bonus.<br><br><i>Water elemental<\/i>: As <i>elemental body I<\/i> except that you gain a +2 size bonus to your Strength, a –2 penalty on your Dexterity, a +6 size bonus to your Constitution, and a +6 natural armor bonus.<h2 class=\"title\">Mythic Elemental Body III<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 92<\/i><br>Each <i>mythic elemental body<\/i> spell must be learned individually, and you must know the respective non-mythic <i>elemental body<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic elemental body<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic elemental body II<\/i> if you know <i>elemental body II<\/i>, even if you don’t know <i>mythic elemental body I<\/i>). Each <i>mythic elemental body<\/i> spell adds the following benefits to its respective non-mythic version. The spell’s bonuses to ability scores increase by 2, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 (minimum penalty of 0). There is a 50% chance any critical hit or sneak attack against you is treated as a normal hit, as if you were wearing <i>medium fortification<\/i> armor.<br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. You can also, a number of times equal to your tier, add half your tier to the DC of one spell you cast with an energy descriptor that matches your elemental type (air: electricity, earth: acid, fire: fire, water: cold).",
+    "mythicSource": ["Mythic Adventures pg. 92"],
+    "mythicText": "Each <i>mythic elemental body<\/i> spell must be learned individually, and you must know the respective non-mythic <i>elemental body<\/i> spell to learn its mythic version. You don’t have to learn them in order, and aren’t required to know a lower-level <i>mythic elemental body<\/i> spell before you learn a higher-level one (for example, you can learn <i>mythic elemental body II<\/i> if you know <i>elemental body II<\/i>, even if you don’t know <i>mythic elemental body I<\/i>). Each <i>mythic elemental body<\/i> spell adds the following benefits to its respective non-mythic version. The spell’s bonuses to ability scores increase by 2, the natural armor bonus increases by 1, and the ability score penalties decrease by 2 (minimum penalty of 0). There is a 50% chance any critical hit or sneak attack against you is treated as a normal hit, as if you were wearing <i>medium fortification<\/i> armor.<br><br><b>Augmented (3rd)<\/b>: If you expend two uses of mythic power, the ability score bonuses increase by an additional 2. You can also, a number of times equal to your tier, add half your tier to the DC of one spell you cast with an energy descriptor that matches your elemental type (air: electricity, earth: acid, fire: fire, water: cold).",
     "name_zh": "元素形态 III",
-    "text_zh": "<p>该法术的功能如同‘元素形态II’一般，不过它还允许你变为大型气元素、大型土元素、大型火元素或大型水元素的形态。你获得的能力取决于你化身的元素的类型。处于元素形态时你还会免疫出血伤害、重击以及偷袭。<\/p><p>气元素：如同‘元素形态I’，不过你的力量获得+2体型加值，敏捷获得+4体型加值，以及+4天生护甲加值。<\/p><p>土元素：如同‘元素形态I’，不过你的力量获得+6体型加值，敏捷受到-2减值，体质获得+2体型加值，以及+6天生护甲加值。<\/p><p>火元素：如同‘元素形态I’，不过你的敏捷获得+4体型加值，体质获得+2体型加值，以及+4天生护甲加值。<\/p><p>水元素：如同‘元素形态I’，不过你的力量获得+2体型加值，敏捷受到-2减值，体质获得+6体型加值，以及+6天生护甲加值。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "个人",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p>该法术的功能如同‘元素形态II’一般，不过它还允许你变为大型气元素、大型土元素、大型火元素或大型水元素的形态。你获得的能力取决于你化身的元素的类型。处于元素形态时你还会免疫出血伤害、重击以及偷袭。<\/p><p>气元素：如同‘元素形态I’，不过你的力量获得+2体型加值，敏捷获得+4体型加值，以及+4天生护甲加值。<\/p><p>土元素：如同‘元素形态I’，不过你的力量获得+6体型加值，敏捷受到-2减值，体质获得+2体型加值，以及+6天生护甲加值。<\/p><p>火元素：如同‘元素形态I’，不过你的敏捷获得+4体型加值，体质获得+2体型加值，以及+4天生护甲加值。<\/p><p>水元素：如同‘元素形态I’，不过你的力量获得+2体型加值，敏捷受到-2减值，体质获得+6体型加值，以及+6天生护甲加值。<\/p>"
 }

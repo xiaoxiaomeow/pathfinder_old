@@ -1,0 +1,33 @@
+{
+    "key": "rope tornado",
+    "name": "Rope Tornado",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Rope%20Tornado",
+    "source": ["Wilderness Origins pg. 27"],
+    "school": "evocation",
+    "descriptors": ["air"],
+    "levels":     {
+        "arcanist": 4,
+        "druid": 4,
+        "hunter": 4,
+        "magus": 4,
+        "occultist": 4,
+        "shaman": 4,
+        "sorcerer": 4,
+        "witch": 4,
+        "wizard": 4
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a length of twine)",
+    "range": "120 ft.",
+    "area": "120 ft. line",
+    "duration": "instantaneous",
+    "savingThrow": "Reflex negates",
+    "spellResistance": "yes",
+    "text": "A spiraling twister of tornado-force wind surges forth from your palm, unbalancing those it rushes over. Creatures on the ground within the area are knocked prone. A flying creature within the spell’s area must instead succeed at a DC 25 Fly check or plummet to the ground, taking the appropriate amount of falling damage. Creatures that are Huge or larger in size gain a +2 bonus on their Reflex saves, while creatures that are Medium or smaller in size take a –2 penalty.<br><br> Additionally, the area is subjected to tornado-force winds, extinguishing all nonmagical flames, dispersing clouds, and scattering unattended objects.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "120尺",
+    "area_zh": "120 ft. line",
+    "duration_zh": "立即",
+    "savingThrow_zh": "反射, 通过则无效",
+    "spellResistance_zh": "可"
+}

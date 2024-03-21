@@ -1,40 +1,42 @@
 {
     "key": "barbed chains",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/barbed-chains/",
     "name": "Barbed Chains",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Barbed%20Chains",
+    "source": ["Horror Adventures pg. 109"],
     "school": "conjuration",
-    "subSchool": ["summoning"],
+    "subSchools": ["summoning"],
     "descriptors":     [
         "emotion",
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 1,
         "bloodrager": 1,
         "cleric": 1,
         "inquisitor": 1,
         "occultist": 1,
+        "oracle": 1,
         "shaman": 1,
-        "summoner": 1
+        "summoner": 1,
+        "summoner (unchained)": 1
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a length of chain doused with fresh blood)",
-    "range": "close (25 ft. + 5 ft./level)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
     "effect": "a chain sharpened at one end",
     "duration": "instantaneous",
     "savingThrow": "Will partial (see text)",
     "spellResistance": "no",
-    "text": "<p>You summon a chain from another realm, causing it to burst out from the ground and strike a target within the spell's range. You can have the chain either make a melee attack (dealing 1d6 points of slashing damage) or attempt a trip combat maneuver against the target. The chain uses your base attack bonus plus your key spellcasting ability score modifier as its attack bonus and combat maneuver bonus. On a successful hit or combat maneuver check, the target must attempt a Will save. If it fails its save, the creature is shaken for 1d4 rounds. You summon one additional chain every 3 levels after 1st, for a total of two chains at 4th level, three at 7th level, and a maximum of four at 10th level. Multiple chains can attack the same target but the shaken effect doesn't stack.<\/p>",
+    "text": "You summon a chain from another realm, causing it to burst out from the ground and strike a target within the spell’s range. You can have the chain either make a melee attack (dealing 1d6 points of slashing damage) or attempt a trip combat maneuver against the target. The chain uses your base attack bonus plus your key spellcasting ability score modifier as its attack bonus and combat maneuver bonus. On a successful hit or combat maneuver check, the target must attempt a Will save. If it fails its save, the creature is shaken for 1d4 rounds. You summon one additional chain every 3 levels after 1st, for a total of two chains at 4th level, three at 7th level, and a maximum of four at 10th level. Multiple chains can attack the same target but the shaken effect doesn’t stack.",
     "name_zh": "勾刺锁炼",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料 (一条用新鲜血液浸泡过的铁链)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "effect_zh": "一端尖锐的铁链",
     "duration_zh": "立即",
-    "savingThrow_zh": "意志，通过则部分生效 (见下)",
+    "savingThrow_zh": "意志, 通过则部分; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>你从另一个国度中召唤了一条锁炼，使其从地面猛然窜出并攻击一个在法术范围之内的目标。你可以让这条锁炼对目标进行一次近战攻击(造成1d6点的挥砍伤害)或是尝试一次摔绊(trip)战技。此法术使用你的基本攻击加值(BAB)再加上你的施法关键属性调整值做为攻击加值以及战技加值。成功击中或是战技检定成功的话，目标必须尝试通过一个意志豁免。如果目标在此豁免中失败，则战栗(Shaken)1d4轮。你在1等之后，每有3个施法者等级都可以额外召唤出一条锁炼，4级可以召唤2条，7级可以召唤3条，最多可以在10级时召唤4条。多条锁炼可以攻击同一个目标，但战栗效果不会叠加。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>你从另一个国度中召唤了一条锁炼，使其从地面猛然窜出并攻击一个在法术范围之内的目标。你可以让这条锁炼对目标进行一次近战攻击(造成1d6点的挥砍伤害)或是尝试一次摔绊(trip)战技。此法术使用你的基本攻击加值(BAB)再加上你的施法关键属性调整值做为攻击加值以及战技加值。成功击中或是战技检定成功的话，目标必须尝试通过一个意志豁免。如果目标在此豁免中失败，则战栗(Shaken)1d4轮。你在1等之后，每有3个施法者等级都可以额外召唤出一条锁炼，4级可以召唤2条，7级可以召唤3条，最多可以在10级时召唤4条。多条锁炼可以攻击同一个目标，但战栗效果不会叠加。<\/p>"
 }

@@ -1,16 +1,27 @@
 {
     "key": "disfiguring touch",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/disfiguring-touch/",
     "name": "Disfiguring Touch",
-    "book": "Pathfinder Roleplaying Game Mythic Adventures © 2013, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Disfiguring%20Touch",
+    "source":     [
+        "Ultimate Magic pg. 217",
+        "Book of the Damned - Volume 2: Lords of Chaos pg. 48"
+    ],
     "school": "transmutation",
     "descriptors": ["curse"],
     "levels":     {
+        "arcanist": 2,
         "bloodrager": 2,
-        "cleric/oracle": 2,
+        "cleric": 2,
+        "mesmerist": 2,
+        "occultist": 2,
+        "oracle": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "spiritualist": 2,
+        "warpriest": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -18,8 +29,10 @@
     "target": "creature touched",
     "duration": "1 day/level",
     "savingThrow": "Will negates",
-    "text": "<p class=\"description\">With a touch, you cause the victim of this spell to suffer a painful curse that causes it to grow hideously disfigured.<\/p><p>The physical appearance of the deformity is subject to the caster's whim (most demon worshipers choose deformities that reflect their Abyssal patron's shape or form). The target takes one of the following penalties.<\/p><ul>  <li>–2 decrease to an ability score (minimum 1).<\/li>  <li>–2 penalty on attack rolls or saving throws.<\/li>  <li>Land speed reduced by 5 feet.<\/li> <\/ul><p>You may also invent other effects, but they should be no more powerful than those described above.<\/p>",
-    "mythicText": "The target takes two different penalties (chosen from the same list) instead of one. <br><p style=\"margin-left: 20px\"><b>Augmented<\/b>: If you expend two uses of mythic power, the target also gains the fatigued condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour. ",
+    "spellResistance": "yes",
+    "text": "With a touch, you cause the victim of this spell to suffer a painful curse that causes it to grow hideously disfigured. The physical appearance of the deformity is subject to the caster’s whim (most demon worshipers choose deformities that reflect their Abyssal patron’s shape or form). The target takes one of the following penalties.  <ul><li>–2 decrease to an ability score (minimum 1). <\/li><li>–2 penalty on attack rolls or saving throws. <\/li><li>Land speed reduced by 5 feet. <\/li><\/ul> You may also invent other effects, but they should be no more powerful than those described above.<h2 class=\"title\">Mythic Disfiguring Touch<\/h2><b>Source<\/b> <i>Mythic Adventures pg. 91<\/i><br>The target takes two different penalties (chosen from the same list) instead of one. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, the target also gains the fatigued condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour. ",
+    "mythicSource": ["Mythic Adventures pg. 91"],
+    "mythicText": "The target takes two different penalties (chosen from the same list) instead of one. <br><br><b>Augmented<\/b>: If you expend two uses of mythic power, the target also gains the fatigued condition because of its painful disfigurement. If this fatigue is negated without removing the curse, it returns after 1 hour. ",
     "name_zh": "毁容之触",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
@@ -28,6 +41,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>随着一次触摸，你用这个法术给予受害者痛苦的诅咒，使它遭受令人发指的毁容。<\/p><p>目标的容貌将会随施法者的意愿变得畸形 (大部分恶魔崇拜者会选择一个能反映他们崇拜的深渊生物的畸形外貌)。<\/p><p>目标将会遭受以下其中之一的惩罚：\n－一项属性值-2 (最低1)\n－攻击或豁免检定-2\n－陆地移动速度-5尺<\/p><p>你也可以自己创造其他效果，但是不应比以上效果更强大。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>随着一次触摸，你用这个法术给予受害者痛苦的诅咒，使它遭受令人发指的毁容。<\/p><p>目标的容貌将会随施法者的意愿变得畸形 (大部分恶魔崇拜者会选择一个能反映他们崇拜的深渊生物的畸形外貌)。<\/p><p>目标将会遭受以下其中之一的惩罚：<\/p><p>－一项属性值-2 (最低1)<\/p><p>－攻击或豁免检定-2<\/p><p>－陆地移动速度-5尺<\/p><p>你也可以自己创造其他效果，但是不应比以上效果更强大。<\/p>"
 }

@@ -1,9 +1,10 @@
 {
     "key": "lightfingers",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/l/lightfingers/",
     "name": "Lightfingers",
-    "book": "Pathfinder Player Companion: Blood of the Beast © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Lightfingers",
+    "source": ["Blood of the Beast pg. 27"],
     "school": "transmutation",
+    "race": "Tengu",
     "levels":     {
         "psychic": 1,
         "spiritualist": 1,
@@ -16,15 +17,15 @@
     "duration": "instantaneous",
     "savingThrow": "none",
     "spellResistance": "yes",
-    "text": "<p>A flutter of subtle, telekinetic force causes your target to drop a single non-magical carried item weighing no more than 1 pound per caster level, such as a coin purse, a key ring, or a loose object in its pocket. The target must succeed at a Perception check against the spell's save DC to notice the dropped item. You select what item the target drops as long as you can see both your target and the item you wish to affect. This use of the spell can't cause a target to lose a held item or anything it is wearing, including jewelry.<\/p><p>You can instead cast <i>lightfingers<\/i> to attempt a single disarm or steal combat maneuver, using your caster level instead of your base attack bonus, and using your Charisma, Intelligence, or Wisdom modifier, whichever is highest, instead of your Strength modifier. This disarm or steal attempt does not provoke attacks of opportunity and cannot be affected by feats or other means of altering a combat maneuver's effects. This use of the spell is immediately obvious.<\/p>",
+    "text": "A flutter of subtle, telekinetic force causes your target to drop a single nonmagical carried item weighing no more than 1 pound per caster level, such as a coin purse, a key ring, or a loose object in its pocket. The target must succeed at a Perception check against the spell’s save DC to notice the dropped item. You select what item the target drops as long as you can see both your target and the item you wish to affect. This use of the spell can’t cause a target to lose a held item or anything it is wearing, including jewelry.<br><br> You can instead cast <i>lightfingers<\/i> to attempt a single disarm or steal<sup>APG<\/sup> combat maneuver, using your caster level instead of your base attack bonus, and using your Charisma, Intelligence, or Wisdom modifier, whichever is highest, instead of your Strength modifier. This disarm or steal attempt does not provoke attacks of opportunity and cannot be affected by feats or other means of altering a combat maneuver’s effects. This use of the spell is immediately obvious.",
     "name_zh": "光速手指",
+    "race_zh": "Tengu",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
     "spellResistance_zh": "可",
-    "text_zh": "<p>一股精细的念动力量让你的目标掉落一件携带的不超过每施法等级1磅的非魔法道具，例如一个钱包，一个钥匙环或他口袋里的零碎物件。目标必须成功进行一次DC等于法术DC的察觉检定来注意到掉落的道具。你可以选择目标掉落什么道具只要你可以同时看见目标和你希望被影响的道具。使用这个法术不能导致目标丢下一把正持有的道具或任何他正在穿戴的道具，包括珠宝。<\/p><p>你可以代替施展这个法术来尝试一次单独的卸武或盗取战技，使用你的魅力，智力或感知修正较高者代替你的力量修正。这次卸武或盗窃战技不会引起借机攻击，并且不会被可以改变战技效果的专长或其他方法影响。如此使用这个法术会被立即察觉。<\/p>",
-    "source": "PC-BotB"
+    "text_zh": "<p>一股精细的念动力量让你的目标掉落一件携带的不超过每施法等级1磅的非魔法道具，例如一个钱包，一个钥匙环或他口袋里的零碎物件。目标必须成功进行一次DC等于法术DC的察觉检定来注意到掉落的道具。你可以选择目标掉落什么道具只要你可以同时看见目标和你希望被影响的道具。使用这个法术不能导致目标丢下一把正持有的道具或任何他正在穿戴的道具，包括珠宝。<\/p><p>你可以代替施展这个法术来尝试一次单独的卸武或盗取战技，使用你的魅力，智力或感知修正较高者代替你的力量修正。这次卸武或盗窃战技不会引起借机攻击，并且不会被可以改变战技效果的专长或其他方法影响。如此使用这个法术会被立即察觉。<\/p>"
 }

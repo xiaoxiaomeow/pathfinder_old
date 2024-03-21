@@ -1,17 +1,25 @@
 {
     "key": "iron stake",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/i/iron-stake/",
     "name": "Iron Stake",
-    "book": "Pathfinder Roleplaying Game Ultimate Wilderness © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Iron%20Stake",
+    "source":     [
+        "Ultimate Wilderness pg. 231",
+        "The First World, Realm of the Fey pg. 12"
+    ],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 3,
         "cleric": 3,
         "druid": 3,
+        "hunter": 2,
         "inquisitor": 2,
+        "oracle": 3,
         "ranger": 2,
-        "sorcerer/wizard": 3,
-        "witch": 3
+        "sorcerer": 3,
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a pinch of iron filings)",
@@ -19,14 +27,13 @@
     "duration": "instantaneous or 1 round/level; see text",
     "savingThrow": "Fortitude partial",
     "spellResistance": "no",
-    "text": "<p>This spell creates a 1-foot-long spike of cold iron that you fling at your target as a ranged touch attack. the stake is treated as a magic and cold iron weapon for the purpose of overcoming damage reduction, and deals 1d6 points of piercing damage for every 2 caster levels you have (maximum 10d6 at 20th level).<\/p><p>Additionally, if a creature with DR/cold iron takes damage from this spell, it is sickened for 1 round and must attempt a Fortitude save. If it fails, for a number of rounds equal to your caster level, it must succeed at a concentration check (in addition to any normally required concentration checks) to use any spells or spell-like abilities it has—the DC of this check is equal to 15 + twice the spell's level. If the creature fails this concentration check, its spell is wasted.<\/p>",
+    "text": "This spell creates a 1-foot-long spike of cold iron that you fling at your target as a ranged touch attack. The stake is treated as a magic and cold iron weapon for the purpose of overcoming damage reduction, and deals 1d6 points of piercing damage for every 2 caster levels you have (maximum 10d6 at 20th level).<br><br> Additionally, if a creature with DR/cold iron takes damage from this spell, it is sickened for 1 round and must attempt a Fortitude save. If it fails, for a number of rounds equal to your caster level, it must succeed at a concentration check (in addition to any normally required concentration checks) to use any spells or spell-like abilities it has—the DC of this check is equal to 15 + twice the spell’s level. If the creature fails this concentration check, its spell is wasted.",
     "name_zh": "铁桩术",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料（一撮铁屑）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
-    "duration_zh": "立即或1轮/等级；见正文",
-    "savingThrow_zh": "强韧, 通过则部分生效",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即 或 1轮/等级; 见文本",
+    "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这种法术会创造出一根1英尺长的寒铁长矛，射向你的目标，作为一个远程接触攻击。这在克服伤害减免时被视为一把魔法寒铁武器，并且造成每2个施法者等级1d6点的穿刺伤害（20级达到最高的10d6）。另外，如果一个拥有伤害减免/寒铁的生物受到这个法术的伤害，他将会恶心1轮，并且必须尝试强韧豁免。如果失败，在等于你的施法者等级的轮中，他在使用任何法术或类法术能力时必须通过一次专注检定（除了任何通常需要的专注检定）——检定的DC等于15+法术等级的两倍。如果这个生物没通过这个专注检定，他的法术就会被浪费掉。<\/p>",
-    "source": "UW"
+    "text_zh": "<p>这种法术会创造出一根1英尺长的寒铁长矛，射向你的目标，作为一个远程接触攻击。这在克服伤害减免时被视为一把魔法寒铁武器，并且造成每2个施法者等级1d6点的穿刺伤害（20级达到最高的10d6）。另外，如果一个拥有伤害减免/寒铁的生物受到这个法术的伤害，他将会恶心1轮，并且必须尝试强韧豁免。如果失败，在等于你的施法者等级的轮中，他在使用任何法术或类法术能力时必须通过一次专注检定（除了任何通常需要的专注检定）——检定的DC等于15+法术等级的两倍。如果这个生物没通过这个专注检定，他的法术就会被浪费掉。<\/p>"
 }

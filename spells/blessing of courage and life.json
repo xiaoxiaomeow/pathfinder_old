@@ -1,31 +1,32 @@
 {
     "key": "blessing of courage and life",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/blessing-of-courage-and-life/",
     "name": "Blessing of Courage and Life",
-    "book": "Advanced Player's Guide. Copyright 2010, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Blessing%20of%20Courage%20and%20Life",
+    "source": ["Advanced Player's Guide pg. 205"],
     "school": "conjuration",
-    "subSchool": ["healing"],
+    "subSchools": ["healing"],
     "descriptors": ["emotion"],
     "levels":     {
-        "cleric/oracle": 2,
-        "paladin": 2
+        "cleric": 2,
+        "oracle": 2,
+        "paladin": 2,
+        "warpriest": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, DF",
     "range": "close (25 ft. + 5 ft./2 levels)",
     "target": "one living creature",
-    "duration": "1 min./level (see below)",
+    "duration": "1 minute/level (see below)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>With this prayer you provide long-lasting succor to a wounded creature. For as long as the effect lasts, the target receives a +2 morale bonus on saving throws against fear and death effects. At any time while the spell is in effect, the target can choose to end the spell as a swift action for a burst of healing energy. The target loses the saving throw bonus, but is healed of 1d8 points of damage +1 point per caster level (maximum +10).<\/p>",
+    "text": "With this prayer you provide long-lasting succor to a wounded creature. For as long as the effect lasts, the target receives a +2 morale bonus on saving throws against fear and death effects. At any time while the spell is in effect, the target can choose to end the spell as a swift action for a burst of healing energy. The target loses the saving throw bonus, but is healed of 1d8 points of damage +1 point per caster level (maximum +10).",
     "name_zh": "生存勇气祝福",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 法器",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一个活物",
-    "duration_zh": "1分钟/等级 (见下文)",
+    "duration_zh": "1分钟/等级; 见文本",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>随着祈祷，你向一个受伤的生物提供长期援助。<\/p><p>只要效果持续，目标在针对恐惧和死亡效果的豁免上就有+2士气加值。<\/p><p>在法术效果持续中的任何时候，目标都可以选择以一个迅捷动作终止该法术效果来爆发治疗能量。这会让目标失去豁免检定加值，但会让她治疗1d8加上每施法者等级+1 (最多+10) 的伤害。<\/p>",
-    "source": "APG"
+    "text_zh": "<p>随着祈祷，你向一个受伤的生物提供长期援助。<\/p><p>只要效果持续，目标在针对恐惧和死亡效果的豁免上就有+2士气加值。<\/p><p>在法术效果持续中的任何时候，目标都可以选择以一个迅捷动作终止该法术效果来爆发治疗能量。这会让目标失去豁免检定加值，但会让她治疗1d8加上每施法者等级+1 (最多+10) 的伤害。<\/p>"
 }

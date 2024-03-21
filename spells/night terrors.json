@@ -1,39 +1,41 @@
 {
     "key": "night terrors",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/n/night-terrors/",
     "name": "Night Terrors",
-    "book": "Pathfinder Roleplaying Game Horror Adventures © 2016, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Night%20Terrors",
+    "source": ["Horror Adventures pg. 123"],
     "school": "illusion",
-    "subSchool": ["phantasm"],
+    "subSchools": ["phantasm"],
     "descriptors":     [
         "emotion",
         "evil",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 6,
         "bard": 6,
         "mesmerist": 6,
         "psychic": 6,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "skald": 6,
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S, M/DF (a drop of black ink)",
     "range": "touch",
     "target": "intelligent creature touched",
-    "duration": "1 day/level (d)",
+    "duration": "1 day/level (D)",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>The target of this spell gains no benefit from normal or magical sleep, writhing in a series of nightmares that torture its psyche and diminish its ability to perform strenuous tasks. The target doesn't heal ability or hit point damage naturally and can't prepare spells or regain spell slots. After one night of poor sleep, the target is fatigued (or exhausted if it was fatigued before trying to rest). A creature affected by this spell doesn't recover from the fatigued or exhausted condition inflicted by this spell after resting, nor do spells such as lesser restoration provide any respite. Each restless night, the target takes 1d4 points of Wisdom damage, which also can't be recovered by magic while night terrors is active.<\/p><p>The images from previous nightmares continue to haunt the target's mind while awake. If the target has rested at least once while affected by night terrors and then becomes subjected to a fear condition, the target experiences the next higher level of fear than it would normally. However, per the alternate rules for fear, this spell cannot cause a lesser state of fear to become a greater one. If the effect causing the fear condition doesn't usually stack with other fear effects, the target's level of fear does not increase. This aspect of the spell is a fear effect.<\/p><p>The affected creature can attempt a new saving throw once per day to end night terrors, but multiple attempts to rest in a given day do not afford the target multiple saves. A creature that successfully saves against night terrors ends the spell and rests normally that night but gains the benefits of only that night's rest, not any benefits missed on previous nights.<\/p><p>If your campaign uses the sanity rules, the target takes 1d8 points of sanity damage instead of Wisdom damage.<\/p>",
+    "text": "The target of this spell gains no benefit from normal or magical sleep, writhing in a series of nightmares that torture its psyche and diminish its ability to perform strenuous tasks. The target doesn’t heal ability or hit point damage naturally and can’t prepare spells or regain spell slots. After one night of poor sleep, the target is fatigued (or exhausted if it was fatigued before trying to rest). A creature affected by this spell doesn’t recover from the fatigued or exhausted condition inflicted by this spell after resting, nor do spells such as <i>lesser restoration<\/i> provide any respite. Each restless night, the target takes 1d4 points of Wisdom damage, which also can’t be recovered by magic while <i>night terrors<\/i> is active.<br><br> The images from previous nightmares continue to haunt the target’s mind while awake. If the target has rested at least once while affected by <i>night terrors<\/i> and then becomes subjected to a fear condition, the target experiences the next higher level of fear than it would normally. However, per the alternate rules for fear (see page 10), this spell cannot cause a lesser state of fear to become a greater one. If the effect causing the fear condition doesn’t usually stack with other fear effects, the target’s level of fear does not increase. This aspect of the spell is a fear effect.<br><br> The affected creature can attempt a new saving throw once per day to end <i>night terrors<\/i>, but multiple attempts to rest in a given day do not afford the target multiple saves. A creature that successfully saves against <i>night terrors<\/i> ends the spell and rests normally that night but gains the benefits of only that night’s rest, not any benefits missed on previous nights.<br><br> If your campaign uses the sanity system (see page 12), the target takes 1d8 points of sanity damage instead of Wisdom damage.",
     "name_zh": "惊骇之夜",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势、材料/法器 (一瓶黑墨水)",
     "range_zh": "接触",
     "target_zh": "接触到的智慧生物",
-    "duration_zh": "1天/等级 (D)",
+    "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术的受术者无法从正常或魔法的睡眠中获得好处，一系列翻腾不已的梦魇折磨他的神智，削弱他完成任务的热切决心。受术者在生命值与属性上受的伤害无法被正常的医治，并且无法准备法术或重新获得法术位。在一次品质低劣的睡眠之后，受术者感到疲乏(fatigued)[如果他在试着休息前已经疲乏了，那就力竭(Exhausted)]。受术者不会因为休息，而恢复因此法术所导致的疲乏或力竭状态，而像是次级复原术(lesser restoration)也无法给予任和缓解。在每个不平静的夜晚，受术者受到1d4点感知伤害，当惊骇之夜依然活跃时，这些伤害也不能藉由魔法回覆。\n那些在先前梦魇中的残像，仍然在受术者清醒之时萦绕于内心之中。如果受术者在受到惊骇之夜的影响之后休息过至少一次，并且因此变得受制于一个恐惧状态(a fear condition)，则受术者会经历该恐惧状态的下个更高等级，而非他常态下会碰到的。但是，经替换规则得到的恐惧(见本书P.10)，此法术不能让次等的恐惧状况变成一个更高等的。如果引起该恐惧状态的效果通常不能与其他恐惧效果叠加的话，受术者的恐惧等级也不会增加。在此面向中，此法术是恐惧效果。\n受影响的生物，每一天都可以尝试一次新的豁免检定来中止惊骇之夜，但在每一天数次尝试休息不会给予受术者多次的豁免次数。在对抗惊骇之夜，通过豁免检定的生物，将中止此法术，并且在那一晚正常的休息，但只获得该晚休息的效益，不会获得之前夜晚所失去的效益。\n如果你的战役使用理智系统(见本书P.12)，受术者受到1d8点理智伤害，而非感知伤害。<\/p>",
-    "source": "HA"
+    "text_zh": "<p>此法术的受术者无法从正常或魔法的睡眠中获得好处，一系列翻腾不已的梦魇折磨他的神智，削弱他完成任务的热切决心。受术者在生命值与属性上受的伤害无法被正常的医治，并且无法准备法术或重新获得法术位。在一次品质低劣的睡眠之后，受术者感到疲乏(fatigued)[如果他在试着休息前已经疲乏了，那就力竭(Exhausted)]。受术者不会因为休息，而恢复因此法术所导致的疲乏或力竭状态，而像是次级复原术(lesser restoration)也无法给予任和缓解。在每个不平静的夜晚，受术者受到1d4点感知伤害，当惊骇之夜依然活跃时，这些伤害也不能藉由魔法回覆。<\/p><p>那些在先前梦魇中的残像，仍然在受术者清醒之时萦绕于内心之中。如果受术者在受到惊骇之夜的影响之后休息过至少一次，并且因此变得受制于一个恐惧状态(a fear condition)，则受术者会经历该恐惧状态的下个更高等级，而非他常态下会碰到的。但是，经替换规则得到的恐惧(见本书P.10)，此法术不能让次等的恐惧状况变成一个更高等的。如果引起该恐惧状态的效果通常不能与其他恐惧效果叠加的话，受术者的恐惧等级也不会增加。在此面向中，此法术是恐惧效果。<\/p><p>受影响的生物，每一天都可以尝试一次新的豁免检定来中止惊骇之夜，但在每一天数次尝试休息不会给予受术者多次的豁免次数。在对抗惊骇之夜，通过豁免检定的生物，将中止此法术，并且在那一晚正常的休息，但只获得该晚休息的效益，不会获得之前夜晚所失去的效益。<\/p><p>如果你的战役使用理智系统(见本书P.12)，受术者受到1d8点理智伤害，而非感知伤害。<\/p>"
 }

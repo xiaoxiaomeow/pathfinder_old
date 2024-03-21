@@ -1,21 +1,28 @@
 {
     "key": "create soul gem",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/create-soul-gem/",
     "name": "Create Soul Gem",
-    "book": "Pathfinder Roleplaying Game Book of the Damned © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Create%20Soul%20Gem",
+    "source":     [
+        "Book of the Damned pg. 184",
+        "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
+    ],
     "school": "necromancy",
     "descriptors":     [
         "death",
         "evil"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
+        "arcanist": 3,
         "cleric": 3,
         "occultist": 3,
+        "oracle": 3,
         "shaman": 3,
-        "sorcerer/wizard": 3,
+        "sorcerer": 3,
         "spiritualist": 3,
-        "witch": 3
+        "warpriest": 3,
+        "witch": 3,
+        "wizard": 3
     },
     "castingTime": "1 round",
     "components": "V, S, F (crystal lens worth 500 gp)",
@@ -24,15 +31,14 @@
     "duration": "1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>You draw forth the ebbing life force of a dying creature or one that has died in the past round, focusing it through a crystal lens focus to transform into a soul gem. If the creature is alive and fails its saving throw, it dies and you capture its soul in the gem. If the creature is dead, it can still resist the spell effect by attempting a Will save as if it were still alive. The value of the soul gem created depends on the nature of the creature it is made from. Soul gems created by this spell crumble to dust once the spell's duration expires, releasing the trapped soul to travel on to judgment in the Great Beyond.<\/p><p>Only one soul gem can be created from a dying creature. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a caster check against create soul gem's save DC. Failure results in the resurrection spell having no effect, while success shatters the target's soul gem and returns the creature to life as normal. If the soul gem resides in an unholy location, such as that created by the unhallow spell, the DC of this check increases by 2.<\/p><p>If you are a souldrinker, you can cast this spell and expend 5 soul points to fill the gem with the equivalent of one basic soul.<\/p>",
+    "text": "You draw forth the ebbing life force of a dying creature or one that has died in the past round, focusing it through a crystal lens focus to transform into a soul gem. If the creature is alive and fails its saving throw, it dies and you capture its soul in the gem. If the creature is dead, it can still resist the spell effect by attempting a Will save as if it were still alive. The value of the soul gem created depends on the nature of the creature it is made from (see page 191). Soul gems created by this spell crumble to dust once the spell’s duration expires, releasing the trapped soul to travel on to judgment in the Great Beyond.<br><br> Only one soul gem can be created from a dying creature. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a caster check against <i>create soul gem’s<\/i> save DC. Failure results in the <i>resurrection<\/i> spell having no effect, while success shatters the target’s soul gem and returns the creature to life as normal. If the soul gem resides in an unholy location, such as that created by the <i>unhallow<\/i> spell, the DC of this check increases by 2. If you are a souldrinker (see page 212), you can cast this spell and expend 5 soul points to fill the gem with the equivalent of one basic soul.",
     "name_zh": "制造灵魂宝石",
     "castingTime_zh": "1轮",
     "components_zh": "语言，姿势，器材（价值500 gp的水晶镜片）",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名濒死或刚死亡的生物",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>你从濒死或从上一轮死亡的生物抽取他们逐渐衰败的生命力，透过水晶镜片器材进行凝聚，将其转化为灵魂宝石。若生物还活着并在豁免掷骰中失败，它会死亡，接着你将其灵魂囚禁在宝石中。若该生物已经死亡，它仍然能够如同自己还活着般尝试进行豁免掷骰。制造出来的灵魂宝石，其价值取决于原材料生物的本质（见本书第191页）。以此法术制造出来的灵魂宝石会在法术持续时间结束后化为尘土，受困其中的灵魂将得以自由，继续前往伟大彼岸接受审判。\n由濒死生物制造出来的灵魂宝石只能够有一枚。任何对被囚禁在灵魂宝石中的灵魂所属的身体进行复活的尝试，都需要进行施法者等级来对抗制造灵魂宝石的DC。失败代表复活法术没有生效，而成功则会粉碎目标的灵魂宝石，该生物如常复活。若灵魂宝石被安置在不洁的地点，例如法术邪居所制造出来的环境，此检定的DC增加2。\n若你是饮魂人（Souldrinker，见本书第212页），你可以施展此法术并花费5灵魂点，往其中填充一个基础灵魂的等价物。<\/p>",
-    "source": "BotD"
+    "text_zh": "<p>你从濒死或从上一轮死亡的生物抽取他们逐渐衰败的生命力，透过水晶镜片器材进行凝聚，将其转化为灵魂宝石。若生物还活着并在豁免掷骰中失败，它会死亡，接着你将其灵魂囚禁在宝石中。若该生物已经死亡，它仍然能够如同自己还活着般尝试进行豁免掷骰。制造出来的灵魂宝石，其价值取决于原材料生物的本质（见本书第191页）。以此法术制造出来的灵魂宝石会在法术持续时间结束后化为尘土，受困其中的灵魂将得以自由，继续前往伟大彼岸接受审判。<\/p><p>由濒死生物制造出来的灵魂宝石只能够有一枚。任何对被囚禁在灵魂宝石中的灵魂所属的身体进行复活的尝试，都需要进行施法者等级来对抗制造灵魂宝石的DC。失败代表复活法术没有生效，而成功则会粉碎目标的灵魂宝石，该生物如常复活。若灵魂宝石被安置在不洁的地点，例如法术邪居所制造出来的环境，此检定的DC增加2。<\/p><p>若你是饮魂人（Souldrinker，见本书第212页），你可以施展此法术并花费5灵魂点，往其中填充一个基础灵魂的等价物。<\/p>"
 }

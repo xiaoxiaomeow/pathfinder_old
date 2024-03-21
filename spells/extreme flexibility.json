@@ -1,29 +1,33 @@
 {
     "key": "extreme flexibility",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/e/extreme-flexibility/",
     "name": "Extreme Flexibility",
-    "book": "Pathfinder Roleplaying Game: Advanced Class Guide © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Extreme%20Flexibility",
+    "source": ["Advanced Class Guide pg. 181"],
     "school": "transmutation",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
+        "investigator": 2,
         "magus": 2,
+        "medium": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2,
-        "witch": 2
+        "redmantisassassin": 2,
+        "sorcerer": 2,
+        "witch": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to escape a grapple, and +4 circumstance bonus to your CMD against grapple attempts.<\/p>",
+    "duration": "1 minute/level",
+    "text": "You gain a +1 dodge bonus to AC, a +4 circumstance bonus on Escape Artist checks and combat maneuver checks to escape a grapple, and +4 circumstance bonus to your CMD against grapple attempts.",
     "name_zh": "极度柔韧",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "自己",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>你的AC获得+1闪避加值，逃脱检定以及挣脱擒抱的擒抱战技检定获得+4环境加值，而且你的CMD在对抗擒抱尝试时获得+4环境加值。<\/p>",
-    "source": "ACG"
+    "text_zh": "<p>你的AC获得+1闪避加值，逃脱检定以及挣脱擒抱的擒抱战技检定获得+4环境加值，而且你的CMD在对抗擒抱尝试时获得+4环境加值。<\/p>"
 }

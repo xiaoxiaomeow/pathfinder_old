@@ -1,21 +1,23 @@
 {
     "key": "haunting reminder",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/h/haunting-reminder/",
     "name": "Haunting Reminder",
-    "book": "Pathfinder Roleplaying Game Adventurer's Guide © 2017, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Haunting%20Reminder",
+    "source": ["Adventurer's Guide pg. 37"],
     "school": "enchantment",
     "descriptors":     [
         "fear",
         "mind-affecting"
     ],
-    "descriptorOperator": "and",
+    "descriptorsOperator": ",",
     "levels":     {
         "antipaladin": 1,
+        "arcanist": 2,
         "bard": 2,
         "inquisitor": 2,
         "mesmerist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -24,15 +26,14 @@
     "duration": "12 hours + 2 hours/level or until triggered, then 1 day/level",
     "savingThrow": "Will negates",
     "spellResistance": "yes",
-    "text": "<p>As part of casting this spell, you can attempt a single Intimidate check to make the target act friendly to you. If you succeed, the target assists you normally, but it remains fearful of your retribution even after its attitude shifts to unfriendly. If the creature reports your coercion to authorities, attacks you, or otherwise acts in a purposeful way that threatens you or your objectives (at the GM's discretion), the spell triggers, inflicting the creature with the unshakable certainty that you will find and punish it. This imposes the shaken condition on the creature for 1 day per caster level; during this time, the creature takes a -2 penalty on saving throws against spells you cast with the fear descriptor.<\/p>",
+    "text": "As part of casting this spell, you can attempt a single Intimidate check to make the target act friendly to you. If you succeed, the target assists you normally, but it remains fearful of your retribution even after its attitude shifts to unfriendly. If the creature reports your coercion to authorities, attacks you, or otherwise acts in a purposeful way that threatens you or your objectives (at the GM’s discretion), the spell triggers, inflicting the creature with the unshakable certainty that you will find and punish it. This imposes the shaken condition on the creature for 1 day per caster level; during this time, the creature takes a –2 penalty on saving throws against spells you cast with the fear descriptor.",
     "name_zh": "心头警告",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个生物",
-    "duration_zh": "12小时 + 2小时/等级 或 直至被触发为止，之后 1日/等级",
+    "duration_zh": "12小时 + 2小时/等级 或 直至被触发为止, 之后 1日/等级",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>作为施放该法术的一部分，你能够尝试单次威吓检定来让目标友善地对待你。若你的检定成功，目标会如常协助你，但他会惧怕受到你的报复，即便态度转变为不友善（unfriendly）也是如此。若该生物将你胁迫他的行为报告当局、攻击你、或者有目的地以会威胁到你或者你的目标的方式行动的话（由GM进行判断），该法术便会被触发，让该生物确信你绝对会找上他并实施报复。这会让该生物陷入颤栗（shaken）状态，持续每施法者等级1日；在此期间，该生物在对抗由你施放的带有恐惧描述符（fear descriptor）的法术时，豁免检定受到-2减值。<\/p>",
-    "source": "AG"
+    "text_zh": "<p>作为施放该法术的一部分，你能够尝试单次威吓检定来让目标友善地对待你。若你的检定成功，目标会如常协助你，但他会惧怕受到你的报复，即便态度转变为不友善（unfriendly）也是如此。若该生物将你胁迫他的行为报告当局、攻击你、或者有目的地以会威胁到你或者你的目标的方式行动的话（由GM进行判断），该法术便会被触发，让该生物确信你绝对会找上他并实施报复。这会让该生物陷入颤栗（shaken）状态，持续每施法者等级1日；在此期间，该生物在对抗由你施放的带有恐惧描述符（fear descriptor）的法术时，豁免检定受到-2减值。<\/p>"
 }

@@ -1,14 +1,19 @@
 {
     "key": "skeleton crew",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/skeleton-crew/",
     "name": "Skeleton Crew",
-    "book": "Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Skeleton%20Crew",
+    "source": ["Pirates of the Inner Sea pg. 29"],
     "school": "necromancy",
     "levels":     {
+        "arcanist": 4,
         "cleric": 3,
-        "sorcerer/wizard": 4,
+        "oracle": 3,
+        "sorcerer": 4,
         "summoner": 4,
-        "witch": 4
+        "summoner (unchained)": 4,
+        "warpriest": 3,
+        "witch": 4,
+        "wizard": 4
     },
     "castingTime": "1 standard action",
     "components": "V, S, M",
@@ -16,7 +21,7 @@
     "duration": "1 day/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>This spell turns corpses into skeletons that act as crew and obey your commands to the extent of their abilities.<\/p><p>The undead you create are 1 Hit Die skeletons that possess Profession (sailor) scores equal to half your character level plus your Wisdom modifier (for clerics), Intelligence modifier (for witches and wizards), or Charisma modifier (for sorcerers and summoners). Each skeleton can perform the duties of one crew member but has no other abilities. The created skeletons cannot speak, attack, or even defend themselves. The only orders they obey are ones pertaining to the operation of a ship. Skeletal crew members are not proficient with any weapons or armor.<\/p><p>You can't create more Hit Dice of skeletal crew members than twice your caster level with a single casting of <i>skeleton crew<\/i>. The desecrate spell doubles this limit. The undead you create by casting skeleton crew remain under your control for the duration of the spell, and do not count against your limit of total Hit Dice worth of undead creatures you can control.<\/p><p>A skeletal crew member can only be created from a mostly intact humanoid corpse. The corpse must have bones. When you cast this spell, any flesh left on the corpses melts away into fog.<\/p>",
+    "text": "This spell turns corpses into skeletons (<i>Pathfinder RPG Bestiary<\/i> 250) that act as crew and obey your commands to the extent of their abilities.<br><br>The undead you create are 1 Hit Die skeletons that possess Profession (sailor) scores equal to half your character level plus your Wisdom modifier (for clerics), Intelligence modifier (for witches and wizards), or Charisma modifier (for sorcerers and summoners). Each skeleton can perform the duties of one crew member but has no other abilities. The created skeletons cannot speak, attack, or even defend themselves. The only orders they obey are ones pertaining to the operation of a ship. Skeletal crew members are not proficient with any weapons or armor.<br><br>You can’t create more Hit Dice of skeletal crew members than twice your caster level with a single casting of <i>skeleton crew<\/i>. The <i>desecrate <\/i>spell doubles this limit.<br><br>The undead you create by casting <i>skeleton crew <\/i>remain under your control for the duration of the spell, and do not count against your limit of total Hit Dice worth of undead creatures you can control.<br><br>A skeletal crew member can only be created from a mostly intact humanoid corpse. The corpse must have bones. When you cast this spell, any flesh left on the corpses melts away into fog.",
     "name_zh": "骷髅船员",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料",
@@ -25,6 +30,5 @@
     "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>这个法术会将尸体变为骷髅（怪物图鑑P.250），他们会像船员一样服从你的命令并力所能及地为你工作。\n你创造出来的不死生物是拥有1生命骰的骷髅，他们拥有等级为你人物等级加上感知（牧师）、智力（法师和女巫）或魅力（术士或召唤师）调整值的专业（水手）技能。每个骷髅都可以完成一个船员的工作，但是没有其他任何能力。创造的骷髅不能说话、攻击甚至保护自己。它们只会服从命令并维护船舶运作。骷髅海员不擅长任何武器和防具。\n你一次性创造的骷髅的生命骰总数不能超过你的施法者等级两倍。亵渎术可以将这个限制翻倍。本法术创造的骷髅船员视为在你控制之下的不死生物，但是不计入你控制的不死生物的总生命骰数之中。\n骷髅船员只能从一个保存大致完好的尸体中被创造出来。尸体必须拥有骨骼。当你施放这个法术时，尸体上残余的血肉组织会融化为雾气。<\/p>",
-    "source": "PC-PotIS"
+    "text_zh": "<p>这个法术会将尸体变为骷髅（怪物图鑑P.250），他们会像船员一样服从你的命令并力所能及地为你工作。<\/p><p>你创造出来的不死生物是拥有1生命骰的骷髅，他们拥有等级为你人物等级加上感知（牧师）、智力（法师和女巫）或魅力（术士或召唤师）调整值的专业（水手）技能。每个骷髅都可以完成一个船员的工作，但是没有其他任何能力。创造的骷髅不能说话、攻击甚至保护自己。它们只会服从命令并维护船舶运作。骷髅海员不擅长任何武器和防具。<\/p><p>你一次性创造的骷髅的生命骰总数不能超过你的施法者等级两倍。亵渎术可以将这个限制翻倍。本法术创造的骷髅船员视为在你控制之下的不死生物，但是不计入你控制的不死生物的总生命骰数之中。<\/p><p>骷髅船员只能从一个保存大致完好的尸体中被创造出来。尸体必须拥有骨骼。当你施放这个法术时，尸体上残余的血肉组织会融化为雾气。<\/p>"
 }

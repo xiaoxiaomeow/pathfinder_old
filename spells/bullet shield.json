@@ -1,23 +1,27 @@
 {
     "key": "bullet shield",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/bullet-shield/",
     "name": "Bullet Shield",
-    "book": "Pathfinder Roleplaying Game Ultimate Combat. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Bullet%20Shield",
+    "source": ["Ultimate Combat pg. 225"],
     "school": "abjuration",
     "levels":     {
         "alchemist": 2,
+        "arcanist": 2,
         "bloodrager": 2,
+        "investigator": 2,
+        "occultist": 2,
         "psychic": 2,
-        "sorcerer/wizard": 2
+        "sorcerer": 2,
+        "wizard": 2
     },
     "castingTime": "1 standard action",
     "components": "V, S, M (a bullet)",
     "range": "touch",
     "target": "creature touched",
-    "duration": "10 min.s/level (d)",
+    "duration": "10 minutes/level (D)",
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>The warded creature gains a +4 deflection bonus to AC against firearm and ranged attacks, with an additional +1 to the bonus for every five caster levels you have (to a maximum of +8 at 20th level). Though the spell is called <em>bullet shield<\/em>, it also grants this protection from attacks made from firearms with the scatter weapon quality.<\/p>",
+    "text": "The warded creature gains a +4 deflection bonus to AC against firearm and ranged attacks, with an additional +1 to the bonus for every five caster levels you have (to a maximum of +8 at 20th level). Though the spell is called <i>bullet shield<\/i>, it also grants this protection from attacks made from firearms with the scatter weapon quality.",
     "name_zh": "防弹护盾",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势, 材料 (一颗子弹)",
@@ -26,6 +30,5 @@
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>该法术可以让受术生物在面对火器和远程攻击时获得+4偏斜加值，并且这个加值每5级会多加1 (最高20级+8)。<\/p><p>虽然法术名字是防弹护盾，不过面对那些散弹型的射击火器一样可以起到防御效果 (例如双管猎枪的小钢珠弹药)。<\/p>",
-    "source": "UC"
+    "text_zh": "<p>该法术可以让受术生物在面对火器和远程攻击时获得+4偏斜加值，并且这个加值每5级会多加1 (最高20级+8)。<\/p><p>虽然法术名字是防弹护盾，不过面对那些散弹型的射击火器一样可以起到防御效果 (例如双管猎枪的小钢珠弹药)。<\/p>"
 }

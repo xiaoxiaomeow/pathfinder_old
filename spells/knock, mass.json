@@ -1,0 +1,32 @@
+{
+    "key": "knock, mass",
+    "name": "Knock, Mass",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Knock,%20Mass",
+    "source": ["Inner Sea Temples pg. 23"],
+    "school": "transmutation",
+    "levels":     {
+        "arcanist": 6,
+        "cleric": 6,
+        "inquisitor": 6,
+        "mesmerist": 6,
+        "occultist": 6,
+        "oracle": 6,
+        "psychic": 6,
+        "sorcerer": 6,
+        "warpriest": 6,
+        "wizard": 6
+    },
+    "castingTime": "1 standard action",
+    "components": "V",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one means of closure/level, no two of which can be more than 30 feet apart",
+    "duration": "instantaneous",
+    "savingThrow": "none",
+    "spellResistance": "no",
+    "text": "Also known as “unshackle,” this spell functions as <i>knock<\/i>, but works on multiple means of closure at once.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "立即",
+    "savingThrow_zh": "无",
+    "spellResistance_zh": "不可"
+}

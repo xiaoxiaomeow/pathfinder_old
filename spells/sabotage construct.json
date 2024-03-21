@@ -1,14 +1,17 @@
 {
     "key": "sabotage construct",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/s/sabotage-construct/",
     "name": "Sabotage Construct",
-    "book": "Pathfinder Player Companion: People of the River © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Sabotage%20Construct",
+    "source": ["People of the River pg. 27"],
     "school": "transmutation",
     "levels":     {
+        "arcanist": 6,
         "bard": 5,
         "inquisitor": 5,
-        "sorcerer/wizard": 6,
-        "witch": 6
+        "skald": 5,
+        "sorcerer": 6,
+        "witch": 6,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "S, V",
@@ -16,7 +19,7 @@
     "duration": "1 round/level",
     "savingThrow": "Will partial",
     "spellResistance": "yes",
-    "text": "<p>This spell functions as confusion, except that it affects only constructs. When you are rolling for a confused construct's behavior, a result of 26–50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.<\/p>",
+    "text": "This spell functions as <i>confusion<\/i>, except that it affects only constructs. When you are rolling for a confused construct’s behavior, a result of 26–50 indicates the construct twitches spasmodically. On a successful Will save, the construct is confused for only 1 round.",
     "name_zh": "困惑构装体",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、姿势",
@@ -24,6 +27,5 @@
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则部分生效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>此法术如同困惑术(functions)般作用，除了它只影响构装体。当你在骰困惑的构装体的行为时，26-50的结果是构装体间歇性抽蓄。意志豁免成功的话，该构装体只会困惑1轮。<\/p>",
-    "source": "PC-PotRiver"
+    "text_zh": "<p>此法术如同困惑术(functions)般作用，除了它只影响构装体。当你在骰困惑的构装体的行为时，26-50的结果是构装体间歇性抽蓄。意志豁免成功的话，该构装体只会困惑1轮。<\/p>"
 }

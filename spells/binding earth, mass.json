@@ -1,19 +1,30 @@
 {
     "key": "binding earth, mass",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/b/binding-earth/",
     "name": "Binding Earth, Mass",
-    "base": "binding earth",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Binding%20Earth,%20Mass",
+    "source": ["Advanced Race Guide pg. 149"],
     "school": "transmutation",
     "descriptors": ["earth"],
+    "race": "oread",
     "levels":     {
         "druid": 6,
+        "hunter": 6,
         "witch": 6
     },
-    "text": "<p>This spell functions as <i>binding earth<\/i>, except as noted above.<\/p><\/div>",
+    "castingTime": "1 standard action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "duration": "1 round/level",
+    "savingThrow": "Fortitude negates",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>binding earth<\/i>, except as noted above.",
     "name_zh": "群体地缚术",
     "race_zh": "土元素裔",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "1个生物或物品/等级，互相之间不超过30尺",
-    "text_zh": "<p>除了上述内容之外，该法术如同‘地缚术’一般作用。<\/p>",
-    "source": "ARG"
+    "duration_zh": "1轮/等级",
+    "savingThrow_zh": "强韧, 通过则无效",
+    "spellResistance_zh": "可",
+    "text_zh": "<p>除了上述内容之外，该法术如同‘地缚术’一般作用。<\/p>"
 }

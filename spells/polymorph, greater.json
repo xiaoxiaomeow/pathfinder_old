@@ -1,13 +1,28 @@
 {
     "key": "polymorph, greater",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/p/polymorph/",
     "name": "Polymorph, Greater",
-    "base": "polymorph",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Polymorph,%20Greater",
+    "source": ["PRPG Core Rulebook pg. 324"],
     "school": "transmutation",
-    "subSchool": ["polymorph"],
-    "levels": {"sorcerer/wizard": 7},
-    "text": "<p>This spell functions as <i>polymorph<\/i> except that it allows the creature to take on the form of a dragon or plant creature. If you use this spell to cause the target to take on the form of an animal or magical beast, it functions as beast shape IV. If the form is that of an elemental, the spell functions as elemental body III. If the form is that of a humanoid, the spell functions as <i>alter self<\/i>. If the form is that of a plant, the spell functions as <i>plant shape II<\/i>. If the form is that of a dragon, the spell functions as form of the dragon I. The subject may choose to resume its normal form as a full-round action; doing so ends the spell.<\/p><\/div>",
+    "subSchools": ["polymorph"],
+    "levels":     {
+        "arcanist": 7,
+        "sorcerer": 7,
+        "wizard": 7
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, M (a piece of the creature whose form you choose)",
+    "range": "touch",
+    "target": "living creature touched",
+    "duration": "1 min./level (D)",
+    "savingThrow": "Will negates (harmless)",
+    "spellResistance": "yes (harmless)",
+    "text": "This spell functions as <i>polymorph<\/i> except that it allows the creature to take on the form of a dragon or plant creature. If you use this spell to cause the target to take on the form of an animal or magical beast, it functions as <i>beast shape IV<\/i>. If the form is that of an elemental, the spell functions as <i>elemental body III<\/i>. If the form is that of a humanoid, the spell functions as <i>alter self<\/i>. If the form is that of a plant, the spell functions as <i>plant shape II<\/i>. If the form is that of a dragon, the spell functions as <i>form of the dragon I<\/i>. The subject may choose to resume its normal form as a full-round action; doing so ends the spell.",
     "name_zh": "高等变形术",
-    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=polymorph\">变形术 (polymorph)<\/a>’一般，不过它还允许生物变为龙或者植物生物的形态。如果你使用该法术将目标变为动物或者魔法兽的形态，它的功能如同‘<a href=\"spell.html?spell=beast shape IV\">野兽形态IV (beast shape IV)<\/a>’。如果变为元素的形态，那么该法术的功能如同‘<a href=\"spell.html?spell=elemental body III\">元素形态III (elemental body III)<\/a>’。如果变为类人生物的形态，该法术的功能如同‘<a href=\"spell.html?spell=alter self\">变身术 (alter self)<\/a>’。如果变为植物的形态，该法术的功能如同‘<a href=\"spell.html?spell=plant shape II\">植物形态II (plant shape II)<\/a>’。如果变为龙的形态，该法术的功能如同‘<a href=\"spell.html?spell=form of the dragon I\">巨龙形态I (form of the dragon I)<\/a>’。受术者可以选择使用整轮动作恢复到正常的形态；如此做就会终止该法术。<\/p>",
-    "source": "CRB"
+    "castingTime_zh": "标准动作",
+    "range_zh": "接触",
+    "duration_zh": "1分钟/等级 (可解消)",
+    "savingThrow_zh": "意志, 通过则无效 (无害)",
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=polymorph\">变形术 (polymorph)<\/a>’一般，不过它还允许生物变为龙或者植物生物的形态。如果你使用该法术将目标变为动物或者魔法兽的形态，它的功能如同‘<a href=\"spell.html?spell=beast shape IV\">野兽形态IV (beast shape IV)<\/a>’。如果变为元素的形态，那么该法术的功能如同‘<a href=\"spell.html?spell=elemental body III\">元素形态III (elemental body III)<\/a>’。如果变为类人生物的形态，该法术的功能如同‘<a href=\"spell.html?spell=alter self\">变身术 (alter self)<\/a>’。如果变为植物的形态，该法术的功能如同‘<a href=\"spell.html?spell=plant shape II\">植物形态II (plant shape II)<\/a>’。如果变为龙的形态，该法术的功能如同‘<a href=\"spell.html?spell=form of the dragon I\">巨龙形态I (form of the dragon I)<\/a>’。受术者可以选择使用整轮动作恢复到正常的形态；如此做就会终止该法术。<\/p>"
 }

@@ -1,27 +1,33 @@
 {
     "key": "tap inner beauty",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/t/tap-inner-beauty/",
     "name": "Tap Inner Beauty",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Tap%20Inner%20Beauty",
+    "source":     [
+        "Inner Sea Gods pg. 243",
+        "Faiths of Purity pg. 29"
+    ],
     "school": "divination",
+    "race": "Shelyn",
     "levels":     {
         "bard": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
+        "oracle": 1,
+        "skald": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
     "components": "V, M (a tiny mirror)",
     "range": "personal",
     "target": "you",
-    "duration": "1 min./level",
-    "text": "<p>This spell allows you to tap into the natural beauty of your soul and let it shine from your eyes and your speech. While the spell is active, you gain a +2 insight bonus on all Charisma ability checks and Charisma-based skill checks.<\/p>",
+    "duration": "1 minute/level",
+    "text": "This spell allows you to tap into the natural beauty of your soul and let it shine from your eyes and your speech. While the spell is active, you gain a +2 insight bonus on all Charisma ability checks and Charisma-based skill checks.",
     "name_zh": "内在之美",
-    "race_zh": "莎琳",
+    "race_zh": "纱琳",
     "castingTime_zh": "标准动作",
     "components_zh": "语言、材料（一面小镜）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1分钟/等级",
-    "text_zh": "<p>这个法术能引导出你本质中与生俱来的魅力，使你的语言和神色熠熠生辉。在法术生效期间，你在所有魅力检定以及基于魅力的技能检定上获得+2洞察加值（insight bonus）。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>这个法术能引导出你本质中与生俱来的魅力，使你的语言和神色熠熠生辉。在法术生效期间，你在所有魅力检定以及基于魅力的技能检定上获得+2洞察加值（insight bonus）。<\/p>"
 }

@@ -1,15 +1,23 @@
 {
     "key": "curse, major",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/curse-major/",
     "name": "Curse, Major",
-    "book": "Pathfinder Roleplaying Game: Ultimate Magic. © 2011, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Curse,%20Major",
+    "source": ["Ultimate Magic pg. 215"],
     "school": "necromancy",
     "descriptors": ["curse"],
     "levels":     {
-        "cleric/oracle": 5,
+        "arcanist": 6,
+        "cleric": 5,
+        "mesmerist": 4,
+        "occultist": 5,
+        "oracle": 5,
+        "psychic": 6,
         "shaman": 5,
-        "sorcerer/wizard": 6,
-        "witch": 5
+        "sorcerer": 6,
+        "spiritualist": 5,
+        "warpriest": 5,
+        "witch": 5,
+        "wizard": 6
     },
     "castingTime": "1 standard action",
     "components": "V, S",
@@ -17,15 +25,15 @@
     "target": "one creature",
     "duration": "permanent",
     "savingThrow": "Will negates",
-    "text": "<p>This spell functions as bestow curse, except the DC to remove the curse is equal to the save DC +5.<\/p>",
+    "spellResistance": "yes",
+    "text": "This spell functions as <i>bestow curse<\/i>, except the DC to remove the curse is equal to the save DC + 5.",
     "name_zh": "强效诅咒",
     "castingTime_zh": "标准动作",
     "components_zh": "语言, 姿势",
-    "range_zh": "近距 (25尺+5尺/2等级)",
+    "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一名生物",
     "duration_zh": "永久",
     "savingThrow_zh": "意志, 通过则无效",
     "spellResistance_zh": "可",
-    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式如同降咒 (bestow curse)，不过移除诅咒所需进行的检定DC+5。<\/p>",
-    "source": "UM"
+    "text_zh": "<p>法术抗力    可<\/p><p>这个法术工作方式如同降咒 (bestow curse)，不过移除诅咒所需进行的检定DC+5。<\/p>"
 }

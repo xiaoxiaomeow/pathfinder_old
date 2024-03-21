@@ -1,8 +1,8 @@
 {
     "key": "drain poison",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/d/drain-poison/",
     "name": "Drain Poison",
-    "book": "Pathfinder Player Companion: Dirty Tactics Toolbox © 2015, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Drain%20Poison",
+    "source": ["Dirty Tactics Toolbox pg. 28"],
     "school": "transmutation",
     "descriptors": ["poison"],
     "levels":     {
@@ -10,7 +10,11 @@
         "antipaladin": 3,
         "cleric": 3,
         "druid": 3,
+        "hunter": 3,
+        "investigator": 3,
+        "oracle": 3,
         "ranger": 3,
+        "warpriest": 3,
         "witch": 3
     },
     "castingTime": "1 standard action",
@@ -20,7 +24,7 @@
     "duration": "24 hours",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>By touching a weapon against the fang of a poisonous creature and casting this spell, you drain 1 dose of the creature's poison, which is magically applied to your weapon without risk of poisoning yourself. The poison remains on the weapon until either it strikes a creature, you touch the weapon, or you wipe off the poison. It otherwise functions exactly like a dose of a manufactured poison applied to a weapon. You can use this spell with natural as well as manufactured weapons. This spell does not prevent you from exposing yourself to the poison if you roll a natural 1 on an attack roll while the poison is applied to your weapon.<\/p><p>The spell has no effect if the creature whose fang is touched is a summoned creature, if it has been dead for more than 1 minute, or if its poison has already been extracted from it.<\/p>",
+    "text": "By touching a weapon against the fang of a poisonous creature and casting this spell, you drain 1 dose of the creature’s poison, which is magically applied to your weapon without risk of poisoning yourself. The poison remains on the weapon until either it strikes a creature, you touch the weapon, or you wipe off the poison. It otherwise functions exactly like a dose of a manufactured poison applied to a weapon. You can use this spell with natural as well as manufactured weapons. This spell does not prevent you from exposing yourself to the poison if you roll a natural 1 on an attack roll while the poison is applied to your weapon.<br><br> The spell has no effect if the creature whose fang is touched is a summoned creature, if it has been dead for more than 1 minute, or if its poison has already been extracted from it.",
     "name_zh": "汲取毒素",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料/法器（有毒生物的獠牙）",
@@ -29,6 +33,5 @@
     "duration_zh": "24小时",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>通过用武器触碰有毒生物的獠牙并施放这种法术，你可以汲取出一剂该生物的毒液，它会被魔法附着在你的武器上，不会有毒害到你自己的风险。在武器击中一个生物，你碰到武器，或你选择撤销毒液之前，毒液会一直维持在武器上。毒液的效用与一剂用在武器上的人造毒药完全相同。你可以使用法术来为人造或天生武器淬毒。当毒素还附着你的武器上时，如果你在攻击投骰上掷出1，则法术无法保护你免于毒液的伤害。\n如果用来施法的獠牙来自召唤生物，生物已经死亡超过1分钟，或者生物的毒素已经从被提取出来，则此法术无效。<\/p>",
-    "source": "PC-DTT"
+    "text_zh": "<p>通过用武器触碰有毒生物的獠牙并施放这种法术，你可以汲取出一剂该生物的毒液，它会被魔法附着在你的武器上，不会有毒害到你自己的风险。在武器击中一个生物，你碰到武器，或你选择撤销毒液之前，毒液会一直维持在武器上。毒液的效用与一剂用在武器上的人造毒药完全相同。你可以使用法术来为人造或天生武器淬毒。当毒素还附着你的武器上时，如果你在攻击投骰上掷出1，则法术无法保护你免于毒液的伤害。<\/p><p>如果用来施法的獠牙来自召唤生物，生物已经死亡超过1分钟，或者生物的毒素已经从被提取出来，则此法术无效。<\/p>"
 }

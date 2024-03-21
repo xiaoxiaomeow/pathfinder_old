@@ -1,13 +1,21 @@
 {
     "key": "abstemiousness",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/a/abstemiousness/",
     "name": "Abstemiousness",
-    "book": "Pathfinder Campaign Setting: Inner Sea Gods © 2014, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Abstemiousness",
+    "source":     [
+        "Inner Sea Gods pg. 228",
+        "Faiths of Balance pg. 29"
+    ],
     "school": "transmutation",
+    "race": "Irori",
     "levels":     {
         "bard": 1,
-        "cleric/oracle": 1,
+        "cleric": 1,
         "druid": 1,
+        "hunter": 1,
+        "oracle": 1,
+        "skald": 1,
+        "warpriest": 1,
         "witch": 1
     },
     "castingTime": "1 standard action",
@@ -15,18 +23,17 @@
     "range": "touch",
     "target": "a handful of berries, grains, nuts, or rice",
     "duration": "1 hour",
-    "savingThrow": "Fort negates (harmless)",
+    "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
-    "text": "<p>This spell magically enhances a handful of simple food, imbuing it with enough nutrition to satisfy a Medium or smaller creature for a full day. The spell does not create food, and thus will not alone prevent someone from starving, but it can extend even limited reserves for lengthy periods.<\/p>",
+    "text": "Sometimes Irori smiles on his worshipers, granting them a reprieve from physical hunger. This spell magically enhances a handful of simple food, imbuing it with enough nutrition to satisfy a Medium or smaller creature for a full day. The spell does not create food, and thus will not alone prevent someone from starving, but it can extend even limited reserves for lengthy periods.",
     "name_zh": "辟谷术",
-    "race_zh": "义洛里",
+    "race_zh": "义洛理",
     "castingTime_zh": "标准动作",
     "components_zh": "材料",
     "range_zh": "接触",
     "target_zh": "一小撮麦粒，浆果，坚果或稻米",
     "duration_zh": "1小时",
-    "savingThrow_zh": "强韧通过则无效（无害）",
+    "savingThrow_zh": "强韧, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>义洛里对其信徒微笑，赐予他们缓解来自身体饥饿。这个法术能通过魔法的力量增强一小把食物，给它注入足够的营养以满足一名体型为中型或更小的的生物的一日所需。这个法术并不能制造额外的粮食，因此不能独自阻止某人挨饿，但是可以将有限的储备延长很长一段时间。<\/p>",
-    "source": "CS-ISG"
+    "text_zh": "<p>义洛里对其信徒微笑，赐予他们缓解来自身体饥饿。这个法术能通过魔法的力量增强一小把食物，给它注入足够的营养以满足一名体型为中型或更小的的生物的一日所需。这个法术并不能制造额外的粮食，因此不能独自阻止某人挨饿，但是可以将有限的储备延长很长一段时间。<\/p>"
 }

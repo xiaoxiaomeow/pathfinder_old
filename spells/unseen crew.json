@@ -1,15 +1,19 @@
 {
     "key": "unseen crew",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/u/unseen-crew/",
     "name": "Unseen Crew",
-    "book": "Pathfinder Player Companion: Pirates of the Inner Sea © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Unseen%20Crew",
+    "source": ["Pirates of the Inner Sea pg. 29"],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
     "levels":     {
+        "arcanist": 5,
         "bard": 4,
-        "sorcerer/wizard": 5,
+        "skald": 4,
+        "sorcerer": 5,
         "summoner": 5,
-        "witch": 5
+        "summoner (unchained)": 5,
+        "witch": 5,
+        "wizard": 5
     },
     "castingTime": "1 standard action",
     "components": "V, S, M",
@@ -18,15 +22,14 @@
     "duration": "1 day/level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p>An unseen crew member is an invisible, shapeless force that performs the duties of one crew member. It can tie off ropes, hoist sails, swab decks, and other such duties. An unseen crew member possesses no other skills. It cannot fight, speak, or even defend itself.<\/p><p>An unseen crew member has a Strength score of 10 and a Profession (sailor) score equal to half your character level plus your Intelligence modifier (for witches and wizards) or your Charisma modifier (for bards, sorcerers, and summoners). It cannot fly, but it can climb, swim, or walk with a base speed of 20 feet.<\/p><p>An unseen crew member cannot be killed, but it dissipates if it takes more than 1 point of damage per caster level you possess from area attacks (it gets no saves against attacks). If you attempt to send an unseen crew member beyond the spell's range (measured from your current position), the crew member ceases to exist.<\/p>",
+    "text": "An unseen crew member is an invisible, shapeless force that performs the duties of one crew member. It can tie off ropes, hoist sails, swab decks, and other such duties. An unseen crew member possesses no other skills. It cannot fight, speak, or even defend itself.<br><br>An unseen crew member has a Strength score of 10 and a Profession (sailor) score equal to half your character level plus your Intelligence modifier (for witches and wizards) or your Charisma modifier (for bards, sorcerers, and summoners). It cannot fly, but it can climb, swim, or walk with a base speed of 20 feet.<br><br>An unseen crew member cannot be killed, but it dissipates if it takes more than 1 point of damage per caster level you possess from area attacks (it gets no saves against attacks). If you attempt to send an unseen crew member beyond the spell’s range (measured from your current position), the crew member ceases to exist.",
     "name_zh": "隐形船员",
     "castingTime_zh": "标准动作",
     "components_zh": "语言，姿势，材料",
-    "range_zh": "远距 (400尺+40尺/等级)",
+    "range_zh": "远距 (400尺+每等级40尺)",
     "effect_zh": "一个隐形船员/等级",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>隐形船员是一种没有形状的隐形力场，他可以执行一个水手的职责。他可以绑绳索、升船帆、擦拭甲板和进行其他劳作。隐形船员不拥有其他任何技能。他不能战斗，不能说话，甚至不能保护自己。\n隐形船员拥有10点力量属性，且拥有等级为你人物等级一半，加上你的智力（法师和女巫）或魅力（术士、诗人和召唤师）调整值的专业（水手）技能。他不能飞行，但是可以用20尺的基本速度攀爬、游泳或步行。\n隐形船员不会被杀死，但是在他因范围攻击而受到每施法者等级1点的伤害后会消失。（他不能对攻击进行豁免）。如果你试图将一个隐形船员派到法术距离以外（从你当前所在位置算起），他将会消失。<\/p>",
-    "source": "PC-PotIS"
+    "text_zh": "<p>隐形船员是一种没有形状的隐形力场，他可以执行一个水手的职责。他可以绑绳索、升船帆、擦拭甲板和进行其他劳作。隐形船员不拥有其他任何技能。他不能战斗，不能说话，甚至不能保护自己。<\/p><p>隐形船员拥有10点力量属性，且拥有等级为你人物等级一半，加上你的智力（法师和女巫）或魅力（术士、诗人和召唤师）调整值的专业（水手）技能。他不能飞行，但是可以用20尺的基本速度攀爬、游泳或步行。<\/p><p>隐形船员不会被杀死，但是在他因范围攻击而受到每施法者等级1点的伤害后会消失。（他不能对攻击进行豁免）。如果你试图将一个隐形船员派到法术距离以外（从你当前所在位置算起），他将会消失。<\/p>"
 }

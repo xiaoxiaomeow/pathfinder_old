@@ -1,32 +1,39 @@
 {
     "key": "ghost wolf",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/g/ghost-wolf/",
     "name": "Ghost Wolf",
-    "book": "Pathfinder Roleplaying Game Advanced Race Guide © 2012, Paizo Publishing, LLC",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Ghost%20Wolf",
+    "source":     [
+        "Advanced Race Guide pg. 58",
+        "Orcs of Golarion pg. 28"
+    ],
     "school": "conjuration",
-    "subSchool": ["creation"],
+    "subSchools": ["creation"],
+    "race": "half-orc",
     "levels":     {
+        "arcanist": 4,
         "bloodrager": 4,
-        "sorcerer/wizard": 4,
-        "summoner": 2
+        "psychic": 4,
+        "sorcerer": 4,
+        "summoner": 2,
+        "summoner (unchained)": 2,
+        "wizard": 4
     },
     "castingTime": "10 minutes",
     "components": "V, S, F (dire wolf tooth)",
     "range": "0 ft.",
     "target": "one quasi-real wolflike creature",
-    "duration": "1 hour/level (d) or 1 round/level; see text",
+    "duration": "1 hour/level (D) or 1 round/level; see text",
     "savingThrow": "none (see description)",
     "spellResistance": "no",
-    "text": "<p>This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke. It functions as phantom steed, except as noted above. In addition, the creature radiates an aura of fear. Any creature with fewer than 6 Hit Dice within 30 feet (except the ghost wolf‘s rider) must make a Will save or become shaken for 1d4 rounds (this is a mind-affecting fear effect). A creature that makes its Will save is unaffected by the steed's fear aura for 24 hours.<\/p><p>The ghost wolf may also be used in combat. Once per round, the rider may direct the ghost wolf to attack in battle as a free action (bite +10, 1d8+6 points of damage); unlike an animal mount, this does not require a Ride check or any training. Once the ghost wolf attacks, it lasts for only 1 round per level thereafter.<\/p><p>The mount is AC 18 (–1 size, +4 natural armor, +5 Dex) and 7 Hit Points + 1 hit point per Caster Level. If it loses all its Hit Points, the ghost wolf disappears. A ghost wolf has a speed of 20 feet per two caster levels, to a maximum of 100 feet at 10th level. It can bear its rider's weight plus up to 10 pounds per Caster Level.<\/p><p>These mounts gain certain powers according to Caster Level. A mount's abilities include those of mounts of lower caster levels.<\/p><p><i>8th Level<\/i>: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.<\/p><p><i>10th Level<\/i>: The mount can use <i>water walk <\/i>at will (as the spell, no Action required to activate this ability).<\/p><p><i>12th Level<\/i>: The mount can use <i>air walk <\/i>at will (as the spell, no Action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.<\/p><p><i>14th Level<\/i>: The mount can fly at its speed with a bonus on Fly Skill Checks equal to your Caster Level.<\/p>",
+    "text": "This spell conjures a Large, quasi-real, wolflike creature made of roiling black smoke. It functions as <i>phantom steed<\/i>, except as noted above. In addition, the creature radiates an aura of fear. Any creature with fewer than 6 Hit Dice within 30 feet (except the ghost wolf‘s rider) must make a Will save or become shaken for 1d4 rounds (this is a mind-affecting fear effect). A creature that makes its Will save is unaffected by the steed’s fear aura for 24 hours.<br><br>The ghost wolf may also be used in combat. Once per round, the rider may direct the ghost wolf to attack in battle as a free action (bite +10, 1d8+6 points of damage); unlike an animal mount, this does not require a Ride check or any training. Once the ghost wolf attacks, it lasts for only 1 round per level thereafter.",
     "name_zh": "幽灵狼",
     "race_zh": "半兽人",
     "castingTime_zh": "10分钟",
     "components_zh": "语言, 姿势, 器材 (可怕的狼牙)",
     "range_zh": "0尺",
     "target_zh": "一只近乎真实的狼形生物",
-    "duration_zh": "1小时/等级 (可解消) 或1轮/等级；见下文",
+    "duration_zh": "1小时/等级 (可解消) 或1轮/等级; 见文本",
     "savingThrow_zh": "无 (见描述)",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>该法术会从翻滚的黑烟中召唤一只大型的近乎真实的狼形生物。它的功能除了上面提到的以外，如同‘魅影驹’法术一般。此外，该生物散发着【恐惧灵光 (aura of fear) 】。任何生命骰低于6并且在距离它30尺范围内的生物 (除了幽灵狼的骑手) 必须进行意志豁免检定，失败将会战栗1d4轮 (这是一个影响心灵的恐惧效果)。进行过豁免检定的生物会在24小时内免受坐骑的恐惧灵光的影响。<\/p><p>幽灵狼也能用于战斗。每轮1次，骑手能够以一个自由动作指使幽灵狼在战斗中进行攻击 (啮咬+10，1d8+6点伤害)；与普通的动物坐骑不同，这不需要进行骑术检定或经受任何训练。一旦幽灵狼进行攻击，那么它只能在这之后存续1轮/等级。<\/p>",
-    "source": "ARG"
+    "text_zh": "<p>该法术会从翻滚的黑烟中召唤一只大型的近乎真实的狼形生物。它的功能除了上面提到的以外，如同‘魅影驹’法术一般。此外，该生物散发着【恐惧灵光 (aura of fear) 】。任何生命骰低于6并且在距离它30尺范围内的生物 (除了幽灵狼的骑手) 必须进行意志豁免检定，失败将会战栗1d4轮 (这是一个影响心灵的恐惧效果)。进行过豁免检定的生物会在24小时内免受坐骑的恐惧灵光的影响。<\/p><p>幽灵狼也能用于战斗。每轮1次，骑手能够以一个自由动作指使幽灵狼在战斗中进行攻击 (啮咬+10，1d8+6点伤害)；与普通的动物坐骑不同，这不需要进行骑术检定或经受任何训练。一旦幽灵狼进行攻击，那么它只能在这之后存续1轮/等级。<\/p>"
 }

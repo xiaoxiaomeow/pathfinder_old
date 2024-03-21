@@ -1,0 +1,26 @@
+{
+    "key": "litany of dependability",
+    "name": "Litany of Dependability",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Litany%20of%20Dependability",
+    "source": ["Disciple's Doctrine pg. 13"],
+    "school": "enchantment",
+    "subSchools": ["compulsion"],
+    "descriptors": ["lawful"],
+    "levels":     {
+        "inquisitor": 4,
+        "paladin": 3
+    },
+    "castingTime": "1 immediate action",
+    "components": "V, S, DF",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "target": "one creature",
+    "duration": "1 round",
+    "savingThrow": "Will negates",
+    "spellResistance": "yes",
+    "text": "By uttering this litany, you cause one creature to take the average result of its next attack roll, saving throw, skill check, or ability check. While subject to this spell, the target cannot be the target of another spell that has the word “litany” in the title.",
+    "castingTime_zh": "直觉动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "duration_zh": "1轮",
+    "savingThrow_zh": "意志, 通过则无效",
+    "spellResistance_zh": "可"
+}

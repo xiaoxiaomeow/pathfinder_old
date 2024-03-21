@@ -1,0 +1,30 @@
+{
+    "key": "maw of chaos",
+    "name": "Maw of Chaos",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Maw%20of%20Chaos",
+    "source": ["Pathfinder #74: Sword of Valor pg. 74"],
+    "school": "conjuration",
+    "subSchools": ["teleportation"],
+    "descriptors": ["chaotic"],
+    "levels":     {
+        "arcanist": 8,
+        "cleric": 8,
+        "oracle": 8,
+        "sorcerer": 8,
+        "wizard": 8
+    },
+    "castingTime": "1 standard action",
+    "components": "V, S, F/DF (a gold-plated, cold iron ring that was forged in the Abyss)",
+    "range": "close (25 ft. + 5 ft./2 levels)",
+    "area": "5-foot-radius spread",
+    "duration": "concentration (maximum 1 round/level)",
+    "savingThrow": "see text",
+    "spellResistance": "yes",
+    "text": "This spell creates a rip in reality that plunges into the interspatial vortices that constantly churn with the raw destructive chaos of the Abyss. Each round at the beginning of your turn, the <i>maw of chaos<\/i> attempts a drag combat maneuver check against every creature within 40 feet, using your caster level plus your primary spellcasting ability modifier in place of a CMB. If a creature is dragged into a <i>maw of chaos<\/i>, the area erupts in a surge of chaotic energy and the creature takes 1d6 points of damage per caster level. Only one such eruption can occur per round.<br><br>Creatures dragged adjacent to the <i>maw of chaos<\/i> become entangled by the frayed strands of reality being torn apart at the rim of the <i>maw of chaos<\/i>. Escape requires a successful Escape Artist check or grapple check against a DC equal to 10 plus the spell’s save DC. Every creature without the chaotic subtype that ends its turn adjacent to a <i>maw of chaos<\/i> takes 2 points of damage to each ability score. Creatures with the lawful subtype take double this amount of damage; creatures with the chaotic subtype take no damage.<br><br>Calling, summoning, and teleportation effects used within 30 feet of the <i>maw of chaos<\/i> or that cause a creature to appear within 30 feet of a <i>maw of chaos<\/i> are redirected, causing the creature to arrive adjacent to the <i>maw of chaos<\/i> rather than at its intended destination. Unattended objects (including dead bodies) adjacent to the <i>maw of chaos<\/i> are drawn into it and affected as by <i>disintegrate<\/i> at the beginning of the caster’s next turn.",
+    "castingTime_zh": "标准动作",
+    "range_zh": "近距 (25尺+每2等级5尺)",
+    "area_zh": "5-foot-radius spread",
+    "duration_zh": "concentration (maximum 1 round/level)",
+    "savingThrow_zh": "见文本",
+    "spellResistance_zh": "可"
+}

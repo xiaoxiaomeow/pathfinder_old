@@ -1,14 +1,19 @@
 {
     "key": "cleromancy",
-    "url": "https://www.d20pfsrd.com/magic/all-spells/c/cleromancy/",
     "name": "Cleromancy",
-    "book": "Pathfinder Campaign Setting: Occult Mysteries © 2014, Paizo Inc.",
+    "url": "https://www.aonprd.com/SpellDisplay.aspx?ItemName=Cleromancy",
+    "source": ["Occult Mysteries pg. 50"],
     "school": "divination",
     "levels":     {
+        "arcanist": 3,
         "cleric": 2,
         "druid": 3,
+        "hunter": 3,
         "inquisitor": 3,
-        "sorcerer/wizard": 3
+        "oracle": 2,
+        "sorcerer": 3,
+        "warpriest": 2,
+        "wizard": 3
     },
     "castingTime": "full-round action",
     "components": "V, S, F/DF (a set of 64 chicken bones)",
@@ -17,15 +22,14 @@
     "duration": "1 round/caster level",
     "savingThrow": "none",
     "spellResistance": "no",
-    "text": "<p><i>Cleromancy<\/i> involves casting bones and interpreting the results. Those able to arrive at the proper interpretation are granted knowledge of coming events. Roll 1d4 per caster level. Group the dice by like results, and choose one of the groups. For the duration of <i>cleromancy<\/i>, you can apply a luck bonus equal to the result of the selected dice to any d20 roll.<\/p><p>You can apply this bonus to a number of rolls equal to the number of dice in the group. If <i>cleromancy<\/i> expires before you are able to allocate the total number of allotted bonuses, the remaining bonuses are lost.<\/p>",
+    "text": "<i>Cleromancy <\/i>involves casting bones and interpreting the results. Those able to arrive at the proper interpretation are granted knowledge of coming events. Roll 1d4 per caster level. Group the dice by like results, and choose one of the groups. For the duration of <i>cleromancy<\/i>, you can apply a luck bonus equal to the result of the selected dice to any d20 roll. You can apply this bonus to a number of rolls equal to the number of dice in the group. If <i>cleromancy <\/i>expires before you are able to allocate the total number of allotted bonuses, the remaining bonuses are lost.",
     "name_zh": "神圣占卜",
     "castingTime_zh": "整轮动作",
     "components_zh": "语言，姿势，器材/法器（64根一套的占卜鸡骨）",
-    "range_zh": "自身",
+    "range_zh": "个人",
     "target_zh": "你",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p>　 通过使用天元道，你能够影响生物周围环境中看似随机的元素，从而降低这个生物的性能。\n掷3个d8骰子然后选择其中一枚骰子——这枚骰子的结果就是数学诅咒赋予的减值。\n接下来，选择剩下两枚骰子中的任一个；与八种基本能量表中对应的d20掷骰类型就是法术的减值适用的检定。\n最后一枚骰子的结果代表数学诅咒持续的轮数。\n一个生物同一时间只能受一个数学诅咒影响。如果数学诅咒被施放在一个已经受到该法术影响的生物身上，那么新的诅咒将取代先前的。<\/p>",
-    "source": "CS-OM"
+    "text_zh": "<p>通过使用天元道，你能够影响生物周围环境中看似随机的元素，从而降低这个生物的性能。<\/p><p>掷3个d8骰子然后选择其中一枚骰子——这枚骰子的结果就是数学诅咒赋予的减值。<\/p><p>接下来，选择剩下两枚骰子中的任一个；与八种基本能量表中对应的d20掷骰类型就是法术的减值适用的检定。<\/p><p>最后一枚骰子的结果代表数学诅咒持续的轮数。<\/p><p>一个生物同一时间只能受一个数学诅咒影响。如果数学诅咒被施放在一个已经受到该法术影响的生物身上，那么新的诅咒将取代先前的。<\/p>"
 }
