@@ -1084,6 +1084,7 @@ var spellsIndex = [
         {
         "key": "air walk, communal",
         "name": "Air Walk, Communal",
+        "name_zh": "共用凌空而行",
         "school": "transmutation",
         "descriptors": ["air"],
         "levels":         {
@@ -2155,6 +2156,7 @@ var spellsIndex = [
         {
         "key": "ant haul, communal",
         "name": "Ant Haul, Communal",
+        "name_zh": "共用重负术",
         "school": "transmutation",
         "levels":         {
             "alchemist": 2,

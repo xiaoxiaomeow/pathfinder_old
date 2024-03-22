@@ -22,9 +22,12 @@
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
     "text": "This spell functions like <i>air walk<\/i>, except divide the duration in 10-minute intervals among the creatures touched.",
+    "name_zh": "共用凌空而行",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "target_zh": "接触到的复数生物",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p>这个法术工作方式如同凌空而行 (Air Walk)，不过你可以将持续时间以10分钟为单位分配给复数生物。<\/p>"
 }

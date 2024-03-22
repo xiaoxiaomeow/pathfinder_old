@@ -20,7 +20,7 @@
     "duration": "instantaneous",
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
-    "text": "By performing part of the Chelish opera <i>Victory of the Hellknights<\/i>, you call forth spectral illusions of mounted Hellknights to trample your foes under the hooves of their glorious steeds. The shadowy knights appear in an adjacent 10-foot square and ride forward in the direction you indicate, dealing 1d6 points of damage per caster level (maximum 20d6) to all creatures in their path. Half of this damage is cold damage, while half results directly from arcane power and is not subject to cold resistance or immunity. The knights cannot pass through force effects or barriers that block incorporeal creatures or undead.<h2 class=\"title\">Mythic Dirge of the Victorious Knights<\/h2><b>Source<\/b> <i>Mythic Origins pg. 12<\/i><br>The damage increases to 1d10 points of damage per caster level (maximum 20d10). Any creature that fails its Reflex saving throw is knocked prone, and must succeed at a Fortitude save or be stunned for 1 round.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, the area increases to a 240-foot line 20 feet wide. All cold damage dealt by the spell ignores cold resistance and cold immunity.",
+    "text": "By performing part of the Chelish opera <i>Victory of the Hellknights<\/i>, you call forth spectral illusions of mounted Hellknights to trample your foes under the hooves of their glorious steeds. The shadowy knights appear in an adjacent 10-foot square and ride forward in the direction you indicate, dealing 1d6 points of damage per caster level (maximum 20d6) to all creatures in their path. Half of this damage is cold damage, while half results directly from arcane power and is not subject to cold resistance or immunity. The knights cannot pass through force effects or barriers that block incorporeal creatures or undead.",
     "mythicSource": ["Mythic Origins pg. 12"],
     "mythicText": "The damage increases to 1d10 points of damage per caster level (maximum 20d10). Any creature that fails its Reflex saving throw is knocked prone, and must succeed at a Fortitude save or be stunned for 1 round.<br><br><b>Augmented (7th)<\/b>: If you expend two uses of mythic power, the area increases to a 240-foot line 20 feet wide. All cold damage dealt by the spell ignores cold resistance and cold immunity.",
     "name_zh": "凯旋骑士的挽歌",
@@ -30,5 +30,6 @@
     "area_zh": "120尺长, 10尺宽",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p>通过表演切利亚斯歌剧-地狱骑士的挽歌（dirge of the Hellknights），你会呼唤出地狱骑士的幻象驾驭战马冲锋践踏你的敌人。这些幽影骑士会出现在你附近的一个10尺方形区域，向指定的方向冲锋，对轨迹上的所有生物造成每施法者等级1d6的伤害（最高20d6）。这些伤害一半属于寒冷伤害，一半属于不受寒冷抗性影响的魔法伤害。这批骑士无法通过力场范围，和由虚体生物或不死生物构成的障碍。<\/p>"
 }

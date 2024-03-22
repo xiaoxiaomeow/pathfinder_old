@@ -317,12 +317,13 @@ function search() {
         let sp = spellsIndex[i];
 
         let name = document.getElementById("name").value;
-        let name_legal = (sp["name_zh"] != null && sp["name_zh"].includes(name)) || (sp["name"] != null && sp["name"].includes(name));
+        let name_legal = (sp["name_zh"] != null && sp["name_zh"].includes(name)) || (sp["name"] != null && sp["name"].toLowerCase().includes(name.toLowerCase()));
 
         let school = sp["school"];
         let school_legal = false;
         for (i in schoolBoxes) {
             school_legal |= schoolBoxes[i].checked && schoolBoxes[i].name == school;
+            if (school_legal) break;
         }
 
         let subSchool = sp["subSchools"];
@@ -332,6 +333,7 @@ function search() {
         let subSchool_legal = false;
         for (i in subSchoolsBoxes) {
             subSchool_legal |= subSchoolsBoxes[i].checked && subSchoolsBoxes[i].name == subSchool;
+            if (subSchool_legal) break;
         }
 
         let descriptors = sp["descriptors"];
@@ -342,7 +344,9 @@ function search() {
         for (i in descriptorsBoxes) {
             for (j in descriptors) {
                 descriptors_legal |= descriptorsBoxes[i].checked && descriptorsBoxes[i].name == descriptors[j];
+                if (descriptors_legal) break;
             }
+            if (descriptors_legal) break;
         }
 
         let levels = sp["levels"];
@@ -358,17 +362,19 @@ function search() {
                     level_legal |= levelsBoxes[i].checked && levelsBoxes[i].name == levels[key];
                 }
                 levels_legal |= class_legal && level_legal;
+                if (levels_legal) break;
             }
         }
 
         let source = sp["source"];
         let source_legal = false;
         for (i in sourceBoxes) {
-            for (j in source) {
-                console.log(source[j].split(" pg.")[0]);
-                let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
-                console.log(src);
-                source_legal |= sourceBoxes[i].checked && sourceBoxes[i].name == src.split("-")[0];
+            if (sourceBoxes[i].checked) {
+                for (j in source) {
+                    let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
+                    source_legal |= sourceBoxes[i].name == src.split("-")[0];
+                    if (source_legal) break;
+                }
             }
         }
 
