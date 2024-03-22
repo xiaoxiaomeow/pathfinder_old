@@ -18,3 +18,16 @@
     z-index: 1;
     white-space: normal;
 }
+.inner {
+	overflow-x: auto;
+}
+.inner, .inner th, .inner td {
+	white-space: nowrap;
+	border: 1px solid;
+}
+.inner th, .inner td {
+	padding: 0px 5px;
+}
+.inner td {
+	border-collapse: collapse;
+}

@@ -308,6 +308,7 @@ function search() {
     let tableDiv = document.getElementById("table");
     tableDiv.innerHTML = "";
     let table = document.createElement("table");
+	table.style.border = "";
     table.style.whiteSpace = "nowrap";
     let title = document.createElement("tr");
     title.style.textAlign = "center";
@@ -343,7 +344,7 @@ function search() {
         let descriptors_legal = false;
         for (i in descriptorsBoxes) {
             for (j in descriptors) {
-                descriptors_legal |= descriptorsBoxes[i].checked && descriptorsBoxes[i].name == descriptors[j];
+                descriptors_legal |= descriptorsBoxes[i].checked && (descriptorsBoxes[i].name == descriptors[j] || descriptorsBoxes[i].name == "all");
                 if (descriptors_legal) break;
             }
             if (descriptors_legal) break;
