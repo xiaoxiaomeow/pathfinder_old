@@ -327,14 +327,17 @@ function search() {
             if (school_legal) break;
         }
 
-        let subSchool = sp["subSchools"];
-        if (subSchool == null) {
-            subSchool = "none";
+        let subSchools = sp["subSchools"];
+        if (subSchools == null) {
+            subSchools = ["none"];
         }
-        let subSchool_legal = false;
+        let subSchools_legal = false;
         for (i in subSchoolsBoxes) {
-            subSchool_legal |= subSchoolsBoxes[i].checked && subSchoolsBoxes[i].name == subSchool;
-            if (subSchool_legal) break;
+			for (j in subSchools) {
+				subSchools_legal |= subSchoolsBoxes[i].checked && subSchoolsBoxes[i].name == subSchools[j];
+				if (subSchools_legal) break;
+			}
+            if (subSchools_legal) break;
         }
 
         let descriptors = sp["descriptors"];
@@ -379,7 +382,7 @@ function search() {
             }
         }
 
-        let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchool_legal && descriptors_legal && levels_legal && source_legal);
+        let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchools_legal && descriptors_legal && levels_legal && source_legal);
         if (legal) {
             let row = document.createElement("tr");
             let nameCell = cell(sp["name_zh"] ?? sp["name"]);
