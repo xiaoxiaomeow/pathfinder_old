@@ -21,7 +21,7 @@
 .inner {
 	overflow-x: auto;
 }
-.inner, .inner th, .inner td {
+.inner table, .inner th, .inner td {
 	white-space: nowrap;
 	border: 1px solid;
 }
