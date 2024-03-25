@@ -38876,7 +38876,7 @@ var spellsIndex = [
         {
         "key": "planar inquiry",
         "name": "Planar Inquiry",
-        "name_zh": "异界咨询",
+        "name_zh": "异界谘询",
         "school": "conjuration",
         "subSchools": ["calling"],
         "levels":         {

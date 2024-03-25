@@ -29,5 +29,6 @@
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "无",
     "spellResistance_zh": "不可",
-    "text_zh": "<p><\/p><p><\/p><p>该法术可以用魔力关一个门、大门、窗户、百叶窗，无论这些入口是由木头、金属还是石头制造都可以。被法术影响的入口就如同紧闭并正常上锁一般。‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’或是成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’可以抵消该法术。<\/p><p>对于被该法术影响的门来说，破门DC要在正常基础上增加5点。<\/p>"
+    "text_zh": "<p>该法术可以用魔力关一个门、大门、窗户、百叶窗，无论这些入口是由木头、金属还是石头制造都可以。被法术影响的入口就如同紧闭并正常上锁一般。‘<a href=\"spell.html?spell=knock\">敲击术 (knock)<\/a>’或是成功的‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’可以抵消该法术。<\/p><p>对于被该法术影响的门来说，破门DC要在正常基础上增加5点。<\/p>",
+    "mythicText_zh": "<p>目标入口可以达到每施法者等级30平方尺的大小。尝试让入口开启的生物必须先要成功进行意志豁免对抗法术的DC。这是影响心灵效果。失败意味着该名生物无法在法术生效期间打开门。<\/p>"
 }

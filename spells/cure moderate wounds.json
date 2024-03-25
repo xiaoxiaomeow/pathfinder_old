@@ -40,5 +40,6 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则减半 (无害); 见文本",
     "spellResistance_zh": "可 (无害); 见文本",
-    "text_zh": "<p><\/p><p><\/p><p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds\">治疗轻伤 (cure light wounds)<\/a>’一般，不过它能治疗 {2d8+CL (最高+10)} 点伤害。<\/p>"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=cure light wounds\">治疗轻伤 (cure light wounds)<\/a>’一般，不过它能治疗 {2d8+CL (最高+10)} 点伤害。<\/p>",
+    "mythicText_zh": "<p>该法术治愈的伤害增加至4d8点 + 每施法者等级2点（最高+20点）。若目标为活物，则法术能够治愈至多2点属性伤害。目标可以选择哪种类型的属性伤害会得到治愈。<\/p>"
 }

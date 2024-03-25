@@ -30,5 +30,6 @@
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则减半; 见文本",
     "spellResistance_zh": "可",
-    "text_zh": "<p><\/p><p><\/p><p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds\">造成轻伤 (inflict light wounds)<\/a>’一般，不过你能造成 {4d8+CL (最高+20)} 点伤害。<\/p>"
+    "text_zh": "<p>该法术的功能如同‘<a href=\"spell.html?spell=inflict light wounds\">造成轻伤 (inflict light wounds)<\/a>’一般，不过你能造成 {4d8+CL (最高+20)} 点伤害。<\/p>",
+    "mythicText_zh": "<p>法术造成的伤害增加至8d8 + 每施法者等级2点（最高+40）。若目标为活物且豁免失败的话，则会恶心（sickened），持续每施法者等级1轮（最高20轮）。<\/p>"
 }
