@@ -19,10 +19,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "This spell functions as <i>summon nature’s ally V<\/i>, except you can summon one kodama, 1d3 fukujin, or 1d4+1 shikigami.",
+    "name_zh": "召唤社神",
     "race_zh": "Tian",
     "castingTime_zh": "1轮",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一个或更多社神",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>此法术如同召唤自然盟友V（summon nature’s ally V），除了召唤的是1个木灵神（kodama）或1d3个（fukujin）或1d4+1个式神（shikigami）。<\/p>"
 }

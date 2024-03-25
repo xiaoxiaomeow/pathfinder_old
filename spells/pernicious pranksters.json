@@ -25,9 +25,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You summon intangible forces of whimsy to perform a variety of tricks and pranks upon your foes. Each round on your turn (including the round you cast this spell), these incorporeal pranksters perform a single dirty trick, disarm, steal, or trip combat maneuver against one of your foes within the spell’s range. The whimsical forces have a bonus on combat maneuver checks equal to your caster level + your primary spellcasting ability score modifier (Intelligence for wizards, Charisma for sorcerers, etc.). Unless the target of the combat maneuver can see invisible creatures or forces, the spell gains an additional +4 bonus on combat maneuver checks.<br><br> The whimsical forces choose a random foe to target with their pranks on and randomly determine which combat maneuver to use. You can attempt to convince them to take a particular course of action with a DC 20 Bluff, Diplomacy, or Intimidate check as a standard action. If successful, you determine their target and the type of combat maneuver they use for that round.",
+    "name_zh": "恶作剧小鬼",
     "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（三滴蜂蜜，滴在梧桐树叶上）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一些恶作剧的精类",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你召唤出一只无形的力场生物，它喜欢调皮捣蛋，可以对你的敌人作出各种各样的戏法和恶作剧。每轮在你回合中（包括你施放此法术的那一轮），这些虚体的恶作剧小鬼会对法术范围内的一个敌人执行一个阴招，卸武，盗取或绊摔战技。恶作剧小鬼在战技检定上有等于你的施法者等级+你的关键施法属性修正值（法师的智力，术士的魅力，等等）的加值。除非战技目标能看到隐形的生物或力场，否则该法术还会在战技上获得额外的+4加值。<\/p><p>无形的力场生物会随机选择一个敌人作为恶作剧的目标，并随机决定使用哪种战技。你可以尝试说服他们采取特定的行动，这需要用一个标准动作进行一次DC=20的唬骗，交涉，威吓检定。如果成功，你可以决定它在该轮的目标以及使用的战技。<\/p>"
 }

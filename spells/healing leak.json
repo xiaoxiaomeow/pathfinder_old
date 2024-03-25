@@ -23,9 +23,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "Whenever the target is affected by a spell or effect that heals hit point damage through the use of positive or negative energy, it regains only half the number of hit points it normally would recover. If the target employs a spell or effect that heals itself or other creatures through the use of positive or negative energy, the target must succeed at a concentration check (DC = this spell’s save DC) or the effect restores only half of the normal number of hit points. Other forms of healing (such as from the Heal skill) are not affected by this spell.",
+    "name_zh": "治疗渗漏",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一小片棉布）",
     "range_zh": "接触",
+    "target_zh": "接触的生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>每当目标受到通过使用正能量或负能量来治疗生命值伤害的法术或效果影响时，它只能恢复正常恢复的一半生命值。 如果目标使用了通过使用正能量或负能量来治疗自己或其他生物的法术或效果，则目标必须通过专注检定（DC = 该法术的豁免 DC），否则该效果只能恢复正常数量的一半生命值。 其他形式的治疗（例如医疗技能的治疗）不受此法术影响。<\/p>"
 }

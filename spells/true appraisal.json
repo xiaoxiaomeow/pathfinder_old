@@ -22,9 +22,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You gain temporary insight into the value of objects. You gain a +5 competence bonus on Appraise checks, can attempt an Appraise check to determine an object’s value as a move action, and can take 10 on an Appraise check even if stress or distractions would normally prevent you from doing so. You know if you fail an Appraise check, and you never determine a wildly inaccurate price.",
+    "name_zh": "真估术",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，器材（金币）",
     "range_zh": "个人",
+    "target_zh": "自己",
     "duration_zh": "8小时",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你可对物品的价值获得暂时的洞察力。你在估价检定中获得+5表现加值（competence bonus），并可以以一个移动动作尝试一次估价检定来确定一件物品的价值，且可以在一次估价检定中取10，即便是通常阻止你这样做的禁张或分心时也可以取10。你可以知晓你在一次估价检定中的成败与否，并且你绝不会确认出一个极不准确的价格。<\/p>"
 }

@@ -21,9 +21,13 @@
     "savingThrow": "Reflex halves",
     "spellResistance": "yes",
     "text": "You are able to harness the power of the storm to transport yourself a short distance, by taking the form of a furious, sizzling bolt of elemental electricity. You must either have line of sight to your destination or you must specify a direction and distance within range. Creatures and objects in the path of your passage take 1d8 points of electricity damage per 2 caster levels (maximum 5d8). A successful Reflex save halves the damage.<br><br>If your path intersects with a solid object, you damage the barrier accordingly. If the damage is enough to break through the barrier, you continue beyond the barrier as long as the spell’s range permits; otherwise, your movement stops in the square adjacent to the barrier and the effect ends.",
+    "name_zh": "风暴跨步",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "自己",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你利用风暴之力化作一道狂暴炽烈的电元素移动一小段距离。<\/p><p>你必须和目的地之间有效果线或者指定往法术范围内某个方向移动特定的距离，对移动路径上的生物和物体造成每2施法者等级1d8的闪电伤害（最大5d8）。通过成功的反射豁免可使伤害减半。<\/p><p>如果路径上存在障碍物，照常对其造成伤害。如果伤害足以破坏它且法术射程允许，你就可以继续越过障碍物；否则，你将停止在障碍物附近的方格中且法术效果结束。<\/p>"
 }

@@ -23,9 +23,12 @@
     "savingThrow": "Will disbelief (if interacted with), varies, see text",
     "spellResistance": "see text",
     "text": "You conjure protective wisps of darkness made from shadow. If you are reduced below 0 hit points or rendered unconscious, <i>shadow endurance<\/i> immediately discharges, shunting your injured body into a hidden alcove on the Shadow Plane. You immediately stabilize, but cannot awaken or take any further actions until the second duration expires.<br><br> As you vanish, a quasi-real duplicate of you made from shadow substance appears where you fell, as if created by <i>shadow conjuration<\/i>. The duplicate acts on your initiative and is under your control. Your duplicate is 1/4 as real as you and appears with 25% of your full hit point total, and any creature that fails a Will saving throw believes it to be you. The duplicate has the same equipment-based bonuses as you, but deals only 1/4 of your normal damage against enemies. It can cast any spells you can, drawing on your reserve of magic, but the duplicate’s caster level is 1/4 your actual level. Regardless of your alignment, your shadow duplicate is neutral evil, though it will not harm your friends and allies.<br><br> When the second duration of the spell expires, your duplicate disappears and your body reappears in the location from which you vanished. If the image is destroyed, the spell immediately expires and your body reappears.",
+    "name_zh": "幽影耐力",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料（一颗窃影鬼的牙齿）",
     "range_zh": "个人",
-    "duration_zh": "1 hour/level until discharged, then 1 minute/level; see text",
+    "duration_zh": "1小时/等级直到生效，随后1分钟/等级，见说明",
     "savingThrow_zh": "意志, 通过则不相信 (如果产生互动) ; 可变; 见描述",
-    "spellResistance_zh": "见文本"
+    "spellResistance_zh": "见文本",
+    "text_zh": "<p><\/p><p><\/p><p>你召唤由影子组成的黑暗鬼火来保护你。如果你的HP低于0或陷入昏迷，幽影耐力立即生效，将你身体转移至阴影位面的一个秘密地点。你立刻伤势稳定，但无法苏醒或作出其他动作直到法术第二段效果结束。<\/p><p>当你消失后，一个由幽影物质组成的你的复制品出现在你所倒下的地方如同一个幽影咒法术所创造的生物。复制品服从你的命令并会按其行动。你的复制品有1/4的真实度并且有着你的总生命值的25%。任何在意志豁免检定中失败的生物都会把复制品当成你。复制品同样有你身上装备的物品所提供的加成。但只能对敌人造成通常的1/4的伤害。他可以施展你能施展的法术，使用你剩余的法术，但施法者等级只有你的施法者等级的1/4。无关你的阵营，你的阴影复制品的阵营总是中立邪恶。虽然它不会伤害你的朋友和盟军。<\/p><p>当法术的第二段持续时间效果结束时，你的复制品消失并且你的身体出现在你消失的地方。如果幻象被摧毁了，法术立刻结束且你的身体会重新出现。<\/p>"
 }

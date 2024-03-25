@@ -27,9 +27,13 @@
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "Your touch causes a single creature’s skin to produce fibrous tissue that sutures the creature’s wounds, rapidly closing them and leaving jagged scars where the wounds were. The process is painful, and converts 2d6 points of damage + 1 point per caster level (maximum +5) into nonlethal damage. If the target creature is immune to nonlethal damage, the spell fails. Damage resistance against nonlethal damage reduces the amount of damage converted. This effect counts as healing for the purpose of stopping bleed damage. Kuthites are especially fond of this spell, as it gives them permanent physical reminders of the all too brief pain they endured.",
+    "name_zh": "疤化",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "接触",
+    "target_zh": "接触到的活物",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>你透过碰触，让一个生物的表皮长出纤维组织，缝合该生物的伤口，使其快速闭合，并在原来是伤口的地方留下歪歪扭扭的伤疤。这个过程十分痛苦，并且会将2d6+每个施法者等级1点（最多+5）的伤害转换（convert）为非致命伤害。若目标生物免疫非致命伤害，则法术失败。对非致命伤害的抗性会减少转换的伤害量。此效果在制止（stopping）流血伤害时视为医疗。宗-库松的信徒特别热爱这个法术，因为他们可以透过这个法术，为施加在自己身上那过于短暂的痛苦留下永久的肉体纪念。<\/p>"
 }

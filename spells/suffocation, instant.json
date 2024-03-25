@@ -14,9 +14,11 @@
     "savingThrow": "Fortitude partial",
     "spellResistance": "yes",
     "text": "This spell functions like <i>slay living<\/i>, and kills by immediate suffocation. Creatures that do not need to breathe are immune to this spell. The target is considered to have taken a dose of pesh for the purpose of addiction and withdrawal effects.",
+    "name_zh": "即刻窒息",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
     "duration_zh": "立即",
     "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>此法术之运作与杀生术(slay living)相似，并且立即死于窒息。不用呼吸的生物免疫此法术。受到影响的目标，在决定成瘾以及戒瘾效果时，会被认为吸食了一剂仙人掌粹。<\/p>"
 }

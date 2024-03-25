@@ -29,9 +29,13 @@
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
     "text": "This spell functions as <i>symbol of death<\/i>, except that when triggered, a 30-foot-radius centered on the symbol fills with hurricane-force winds (75 mph). Each round, a bolt of lightning that deals 10d6 points of electricity damage strikes a random creature within the area. A successful Reflex save halves this damage. Unlike <i>symbol of death<\/i>, symbol of storms has no hit point limit. Regardless of the trigger method or methods chosen, a creature more than 30 feet from a <i>symbol of storms<\/i> can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune). Once triggered, a <i>symbol of storms<\/i> remains active for 1 minute per caster level.",
+    "name_zh": "风暴徽记",
     "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，材料（总价值1500gp的铜粉和浮岩）",
     "range_zh": "0尺; 见文本",
+    "effect_zh": "一个徽记",
     "duration_zh": "见文本",
     "savingThrow_zh": "反射, 通过则减半",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>该法术如同死亡徽记一样作用，除了当它被触发时，以该徽记为中心的30尺半径范围内会充满飓风（hurricane-force wind）（75英里/小时）。每轮一道造成10d6点闪电伤害的闪电会击中区域内的一个随机生物。一次成功的反射豁免可使该伤害减半。与死亡徽记不同，风暴徽记没有生命值限制。无论选择哪种触发方式，距离风暴徽记超过30尺的生物都无法触发它（即使它满足一个或多个触发条件，例如阅读符文）。一旦触发，一个风暴徽记会持续激活每施法者等级1分钟。<\/p>"
 }

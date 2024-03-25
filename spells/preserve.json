@@ -28,9 +28,13 @@
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
     "text": "You imbue one or more objects with magic that dramatically slows down natural processes that lead to decay and spoilage. For the duration of the spell, food, water, plants, and other perishable objects affected by the spell remain as fresh as they were when the spell was cast. The spell also protects these objects against spells of the same level or lower that cause spoilage, such as <i>putrefy food and drink<\/i><sup>APG<\/sup>. When the duration of <i>preserve<\/i> expires, the objects resume aging at their normal rate. The spell also works on severed body parts and the bodies of small creatures as per <i>gentle repose<\/i>, provided that the weight of the creature or part does not exceed the spell’s limit.<br><br> <i>Preserve<\/i> can be made permanent with a <i>permanency<\/i> spell by a caster of 9th level or higher for 500 gp.",
+    "name_zh": "保鲜",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一撮盐）",
     "range_zh": "接触",
-    "duration_zh": "1 week",
+    "target_zh": "一件或更多物体，至多1磅/等级",
+    "duration_zh": "1周",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
-    "spellResistance_zh": "可 (物体)"
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p><\/p><p><\/p><p>你为一个或多个物体注入魔力，并可以大大减缓导致腐烂和变质的自然过程。在法术持续期间，食物、水、植物和其他受法术影响的易腐烂物品则可保持与施法时一样新鲜。该法术还可以保护这些物体以对抗那些与其相同环级或更低环级的致腐败法术，比如腐化食粮（putrefy food and drink，APG）。当保险的持续时间到期时，目标将恢复至其正常老化速率。该法术也适用于被切断的身体部件以及小体型生物的躯体，如同一道遗体防腐（gentle repose），只要该生物或部件的重量不超过法术的限制。<\/p><p>保鲜（Preserve）可以被魔法恒定术 (permanency) 所恒定，需要施法者等级9级或更高以及花费500 GP。<\/p>"
 }

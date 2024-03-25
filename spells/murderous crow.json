@@ -27,10 +27,14 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You conjure a supernaturally vicious and clever crow to watch over you on the battlefield. Choose one of the following templates; the crow has that template and this spell gains the descriptor listed in parentheses: celestial (good), entropic<sup>B2<\/sup> (chaotic), fiendish (evil), or resolute<sup>B2<\/sup> (lawful). In addition to its normal abilities, the crow gains the Improved Steal<sup>APG<\/sup> feat as a bonus feat and gains an eye rake attack. If both of its claw attacks hit the same living foe in a single round, that foe must succeed at a DC 13 Reflex save or be blinded as the bird scratches and tears at the foe’s eyes. The blindness lasts for 1d4 days or until healed with remove blindness.<br><br> If the focus leaves your possession, the crow vanishes and the spell ends.",
+    "name_zh": "凶暴乌鸦",
     "race_zh": "Orc",
     "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材（一根乌鸦羽毛）",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "effect_zh": "一只乌鸦",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你召唤一只邪恶而聪明的超自然乌鸦来在战场上守护你，选择以下模板之一：天界（善良），炼狱（邪恶），熵化（混乱）和绝对（守序），乌鸦会获得该模板，并且这个法术根据模板获得相应描述符。<\/p><p>除了正常属性之外，这只乌鸦还获得精通阴招作为奖励专长与一次抓眼攻击：如果乌鸦的爪抓攻击在同一轮内命中同一个活物，那么那个活物就要通过DC=13的反射豁免，否则目盲1d4天或直到被移除目盲（remove blindness）治愈。<\/p><p>如果法术器材离开你的身边，乌鸦会消失，法术结束。<\/p>"
 }

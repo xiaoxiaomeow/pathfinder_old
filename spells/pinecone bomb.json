@@ -19,10 +19,13 @@
     "savingThrow": "Reflex half",
     "spellResistance": "yes",
     "text": "Created by Ghorus when he was working to create the ghorans, <i>pinecone bomb<\/i> infuses a small pinecone with power, causing it to detonate with explosive force when thrown. You throw the pinecone at a target or point within range and it detonates immediately upon landing, dealing 1d6 points of piercing damage per 2 caster levels you have (maximum 5d6) to each creature caught in the spread.",
+    "name_zh": "松果炸弹",
     "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（一颗松果）",
     "range_zh": "近距 (25尺+每2等级5尺)",
     "area_zh": "半径10尺扩散区域",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则减半",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>松果炸弹法术是戈罗斯（ghorus）在制作蒿兰人（ghorans）时创造的，它会向一个小松果中注入能量，使其在投掷时产生爆炸。你将松果扔向距离内的一个目标或地点，它会在降落时立即爆炸，对爆炸扩散范围内的每一个生物都造成1d6点/2等级的穿刺伤害（最多5d6）。<\/p>"
 }

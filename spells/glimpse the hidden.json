@@ -22,9 +22,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell functions as <i>see invisibility<\/i>, except as noted here. This spell cannot be made permanent.",
+    "name_zh": "瞥见隐藏",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,材料（一撮镁和白金）",
     "range_zh": "接触",
+    "target_zh": "接触的生物",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术除了这里说明的部分，功能如同识破隐形。这个法术无法被恒定。<\/p>"
 }

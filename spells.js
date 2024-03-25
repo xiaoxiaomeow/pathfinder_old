@@ -117,7 +117,7 @@ function loadUrlSpell() {
 			loadSpell(sp, document.getElementById("box"), true);
 		}
     }).catch(error => {
-        alert('Error: ' + error.message);
+        console.log(error);
     });
 }
 function getLevels(sp) {
@@ -256,7 +256,7 @@ function loadTransAndSearchElements () {
         addBoxes(levelTranslations, document.getElementById("levels"), levelsBoxes, true, false);
         addBoxes(["CRB", "APG", "UM", "UC", "ARG", "MA", "MC", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
     }).catch(error => {
-        alert('Error: ' + error.message);
+        console.log(error);
     });
 }
 function loadTransAndUrlSpell () {
@@ -274,8 +274,8 @@ function loadTransAndUrlSpell () {
 		translations = JSON.parse(text);
         loadUrlSpell();
     }).catch(error => {
-        alert('Error: ' + error.message);
-    });
+        console.log(error);
+	});
 }
 function cell(text) {
     let cell = document.createElement("td");

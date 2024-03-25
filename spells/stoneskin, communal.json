@@ -25,9 +25,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell functions like <i>stoneskin<\/i>, except you divide the duration in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell’s effects end for that subject.",
+    "name_zh": "共用石肤术",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言, 姿势, 材料 (花岗岩和钻石粉尘，每个受影响生物100GP)",
     "range_zh": "接触",
+    "target_zh": "接触到的生物",
     "duration_zh": "10分钟/等级 或 直至耗散",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同石肤术 (stoneskin)，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。<\/p><p>一旦这个法术为一个生物吸收了每施法者等级10点伤害 (最高150)，该生物身上的法术效果结束。<\/p>"
 }

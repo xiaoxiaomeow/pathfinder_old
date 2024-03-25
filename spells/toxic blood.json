@@ -30,9 +30,13 @@
     "savingThrow": "Fortitude negates",
     "spellResistance": "no",
     "text": "The target creature’s blood becomes poisonous. Anytime the target takes piercing or slashing damage, a spray of acidic blood spurts from its body in the direction of the opponent who inflicted the wound. This blood travels in a 10-foot line, striking the first creature or object it touches. A creature struck by the blood is exposed to black adder venom and must save against the poison as normal, with a DC equal to the spell’s DC.<br><br> <i>Toxic blood<\/i> can be made permanent with a <i>permanency<\/i> spell cast by a caster of 11th level or higher, at a cost of 7,500 gp.",
+    "name_zh": "毒血",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一小瓶黑蛇毒）",
     "range_zh": "接触",
+    "target_zh": "接触到的生物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧, 通过则无效",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>目标生物的血液变得有毒。每当目标受到穿刺或挥砍伤害时，酸性血液就会从其身体喷向造成伤害的对手。这股血液以10尺的速度直线运动，攻击它接触到的第一个生物或物体。被血液击中的生物会暴露在黑蛇毒中，并且必须像往常一样对毒进行豁免，豁免DC等于法术的DC。<\/p><p>毒血可以被魔法恒定术恒定，这需要11级以上的施法者等级和7500gp的消耗。<\/p>"
 }

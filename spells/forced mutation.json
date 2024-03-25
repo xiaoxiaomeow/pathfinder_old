@@ -24,9 +24,13 @@
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
     "text": "The body of the target creature twists and distorts, reshaping into a grotesque figure. Because of the disfigurement, the creature takes a –4 penalty to Constitution and Charisma. The creature also receives one of the following deformities (your choice) from the list in the mutant acquired template: blind, deaf, fragile, fractured mind, lame, poor ability (applied to your choice of Strength, Dexterity, Intelligence, or Wisdom), spasms, and useless arm. The deformity is subject to all limitations described in the mutant template (for example, this spell cannot impose the lame deformity on a creature with a base speed slower than 20 feet).",
+    "name_zh": "强迫突变",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一小块带有放射性的黏土）",
     "range_zh": "接触",
+    "target_zh": "接触的活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>目标生物的肉体扭曲变异，并被重塑成荒诞怪奇的外形。生物会因为这种畸变而在体质和魅力上承受-4罚值。同时该生物会得到以下来自变种生物获得型模板列表（《怪物图鉴5》第180页）中的任一畸变（由你决定）：目盲、耳聋、虚弱、混沌，跛足，衰小（由你决定是力量、敏捷、智力或感知）、痉挛或者残肢。该畸变将受到所有突变模板中描述的限制。（例如，该法术无法将跛足畸变强加于基础速度小于20尺的生物）。<\/p>"
 }

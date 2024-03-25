@@ -21,9 +21,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "By speaking eloquently on the subject of your opponents’ ineptitude in combat, past failures, personal hygiene, or other faults, you sap their will to fight.<br><br> This spell can be cast as a standard action or as a full-round action. If cast as a standard action, it takes effect in 1d4 rounds following the spell’s casting. If cast as a full-round action, it takes effect 1 round after its casting. Enemies with 4 Hit Dice or fewer are panicked, enemies with 5–8 Hit Dice are cowering, and enemies with more than 8 Hit Dice are shaken.",
+    "name_zh": "衰弱之言",
     "castingTime_zh": "见文本",
+    "components_zh": "言语，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个或更多的活物/等级，彼此相距不超过30英尺",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>通过雄辩滔滔地谈论你的对手在战斗中的不称职，过去的失败，个人卫生不好或其他缺点，你能削弱他们的战斗意志。<\/p><p>此法术可以以一个标准动作或整轮动作施放。如果以标准动作施放，将在施放的1d4轮后生效。如果以整轮动作施放，则在施放1轮后生效。生命骰为4或更少的敌人会陷入恐慌，生命骰为5-8的敌人会畏缩，生命骰高于8的敌人会战栗。<\/p>"
 }

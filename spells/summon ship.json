@@ -27,9 +27,12 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "When you cast this spell, you must hold out a miniature model of the ship you intend to create. The spell assembles a ship from raw materials conjured from other planes, taking a shape similar to the miniature ship in your hand. The miniature ship must be elaborately carved and worth 10% of the price of the type of ship it represents. The ship comes with all equipment necessary for sailing or rowing the ship but provides no crew or cargo. If you attempt to conjure the ship into a location where there isn’t a sufficient amount of water to keep the ship afloat, the spell fails. The ship displaces all water and Medium or smaller aquatic animals within its space when it appears, but the location must be otherwise unoccupied at the time of casting the spell. You can cast this spell again to extend the duration of the conjured ship, replacing the remaining duration with the new spell’s duration. When the spell’s duration ends or the spell is dismissed, the ship instantly stops moving and then falls apart over the course of a minute.<br><br> The largest type of ship that you can summon depends on your caster level, as indicated by the table below. <br><br><table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td><b>Ship Type<\/b><\/td><td><b>Focus Cost<\/b><\/td><\/tr><tr><td>7th<\/td><td>Keelboat<\/td><td>300 gp<\/td><\/tr><tr><td>11th<\/td><td>Longship or sailing ship<\/td><td>1,000 gp<\/td><\/tr><tr><td>13th<\/td><td>Junk<\/td><td>1,500 gp<\/td><\/tr><tr><td>15th<\/td><td>Warship<\/td><td>2,500 gp<\/td><\/tr><tr><td>17th<\/td><td>Galley<\/td><td>3,000 gp<\/td><\/tr><\/table>",
+    "name_zh": "召唤船舰",
     "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势，器材（模型船；见下文）",
     "range_zh": "近距 (25尺+每2等级5尺)",
     "duration_zh": "1天/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你施展这个法术时，必须将打算创造的船只之模型握在手中。此法术会从其他位面汲取原材料来组成船只，形成类似于你手中模型船的船体。模型船必须经过精心雕刻，且其价格为它所代表的船种之价格的10%。船只出现时就配有所有航行或划行必要的配备，但不提供船员或货物。如果你试图在没有足量水体供船只漂浮的地方召唤它，法术失败。船只在出现时会直接将占据空间内的所有水体与中型（或更小）的生物排开，但除此之外，在施法时该区域必须未被占据。你可以再次施展此法术来延长既存船只的存在时间，新的持续时间将取代旧的。当法术持续时间结束或被解消时，船只会立即停下并在一分钟内分崩离析。所能召唤的最大型号的船舰取决于你的施法者等级，如下方表格所示。<\/p><p>CL 　 船舰类型（Ship Type） 　 法器消耗（Focus Cost）<\/p><p>7  龙骨船（Keelboat）  300 gp<\/p><p>11  长船（Longship）或帆船（Sailing Ship）  1,000 gp<\/p><p>13  戎克船（Junk）  1,500 gp<\/p><p>15  战舰（Warship）  2,500 gp<\/p><p>17  三桅帆船（Galley）  3,000 gp<\/p>"
 }

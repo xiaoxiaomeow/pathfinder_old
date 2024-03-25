@@ -24,9 +24,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You summon an illusory swarm of angry wasps that fills a 10-foot-diameter sphere. You can summon it so that it shares an area with other creatures, and you can move it up to 40 feet each round as a move action. Creatures caught inside the swarm’s area of effect cannot use skills that require patience or concentration. Additionally, spellcasters within the area must succeed at a caster level check (DC = 20 + level of spell to be cast) in order to cast spells. On a failed caster level check, the spell is lost. While the buzzing is unpleasant, it is not so loud as to drown out other noises or make communication difficult.",
+    "name_zh": "无尽嗡鸣",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（虫翼）",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "effect_zh": "直径10尺的球体",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你召唤一群的发狂黄蜂组成的幻术蜂群，填满了直径10尺球体空间。你可以召唤它，以使它与其他生物共享一个区域，并且你可以每轮以一个移动动作至多将它移动40尺。被困在蜂群的影响范围内的生物，不能使用需要耐心或专注的技能。此外，该区域内的施法者必须通过施法者等级检定（DC=20 + 待施发的法术环位）才能施法。如果施法者等级检定失败的话，则会失去该法术。虽然嗡鸣声令人不快，但它不至于响到淹没其他声音、或使沟通困难。<\/p>"
 }

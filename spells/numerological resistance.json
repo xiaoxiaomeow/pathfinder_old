@@ -20,9 +20,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "<i>Numerological resistance<\/i> allows numerologists to use the Path of Numbers to grant their allies resilience in the face of elemental dangers. Roll 5d8; this is your dice pool. You will use each die in the pool exactly once to customize <i>numerological resistance<\/i>.<br><br> Choose one of the dice, and match its result to the appropriate value in the first column of the Eight Basic Energies table to determine the type of energy to which <i>numerological resistance<\/i> grants resistance. Next, allocate one of the dice to represent the number of creatures you can affect with <i>numerological resistance<\/i> (including yourself). All of these creatures must be within the spell’s range. Then allocate one of the dice to represent the number of rounds <i>numerological resistance<\/i> lasts. Finally, sum the remaining two dice. This is the number of points of resistance that <i>numerological resistance<\/i> grants.<br><br><table class=\"inner\"><tr><td><b>d8<\/b><\/td><td><b>Energy Type<\/b><\/td><td><b>Magic School<\/b><\/td><td><b>d20 Roll Type<\/b><\/td><\/tr> <tr><td>1<\/td><td>Air<\/td><td>Enchantment<\/td><td>Will save<\/td><\/tr> <tr><td>2<\/td><td>Electricity<\/td><td>Illusion<\/td><td>Reflex save<\/td><\/tr> <tr><td>3<\/td><td>Fire<\/td><td>Necromancy<\/td><td>Attack roll<\/td><\/tr> <tr><td>4<\/td><td>Sonic<\/td><td>Evocation<\/td><td>Initiative roll<\/td><\/tr> <tr><td>5<\/td><td>Acid<\/td><td>Abjuration<\/td><td>Fortitude save<\/td><\/tr> <tr><td>6<\/td><td>Water<\/td><td>Transmutation<\/td><td>Caster level check<\/td><\/tr> <tr><td>7<\/td><td>Cold<\/td><td>Divination<\/td><td>Concentration check<\/td><\/tr> <tr><td>8<\/td><td>Earth<\/td><td>Conjuration<\/td><td>Combat Maneuver Check<\/td><\/tr><\/table>",
+    "name_zh": "命理抗力",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "见下文",
     "duration_zh": "见文本",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>命理抗力允许命理学家（numerologists）使用天元道给予他们的盟友面对元素危险的适应力。骰5个d8骰子; 这是你的骰池。你将一次性使用每个骰池中的骰子来自定义命理抗力。<\/p><p>选择一个骰子，并将其结果与八种基本能量在表第一列中的对应值相匹配，以确定命理抗力赋予抗力的能量类型。<\/p><p>接下来，分配一个骰子来代表你可以用命理抗力影响的生物数量（包括你自己）。所有这些生物都必须在法术的范围内。<\/p><p>然后分配一个骰子来代表命理抗力持续的轮数。<\/p><p>最后，将剩余的两个骰子结果相加。这是命理抗力赋予的抗力点数。<\/p>"
 }

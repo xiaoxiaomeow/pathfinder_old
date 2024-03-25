@@ -21,9 +21,13 @@
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "The target’s skin secretes a small amount of venom-resistant oils for the spell’s duration. The target cannot accidentally poison itself while applying poison. Additionally, the target does not risk exposure to a creature’s poison when attempting to milk venom (<i>Ultimate Wilderness<\/i> 142).",
+    "name_zh": "抗毒剂之触",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,材料（一小滴抗毒剂）",
     "range_zh": "接触",
+    "target_zh": "接触的生物。",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该目标的皮肤在法术生效期间会分泌少量抗毒的油脂。该目标不会在涂毒时意外中毒。此外，目标在尝试挤榨毒素（极限荒野（Ultimate Wilderness）142页）是不会有暴露于生物毒素下的风险。<\/p>"
 }

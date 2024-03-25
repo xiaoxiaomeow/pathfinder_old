@@ -27,7 +27,11 @@
     "target": "you",
     "duration": "10 minutes/level (D)",
     "text": "You sense the fear of those nearby, feeling it in the air around you. You can detect spooked, shaken, scared, frightened, panicked, terrified, and horrified creatures within 30 feet, and you immediately know what level of fear they are experiencing. You determine the creatures’ approximate direction from you, though you do not sense a given creature’s identity or know which squares the creatures occupy. If you’re within 5 feet of a creature whose fear you sense, you pinpoint that creature’s location, as if using blindsense.",
+    "name_zh": "感知恐惧",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言、姿势、材料/法器 (一块毛皮)",
     "range_zh": "个人",
-    "duration_zh": "10分钟/等级 (可解消)"
+    "target_zh": "自己",
+    "duration_zh": "10分钟/等级 (可解消)",
+    "text_zh": "<p><\/p><p><\/p><p>你能感应到你附近人的恐惧，就像这股恐惧在空气中围绕着你。你可以侦测到30尺内受惊(spooked)、战栗(shaken)、惊吓(scared)、惊惧(frightened)、恐慌(panicked)、惊惶(terrified)、震恐(horrified)的生物，并且你能立即知晓他们惊力的恐惧等级为何。你能确定该生物大致的方向，尽管你不能感知到特定生物的身份，或是该生物占据着哪一个方格。如果你在感知到恐惧的生物5尺范围内，你能确定该生物的位置，就如同使用盲感(blindsense)。<\/p>"
 }

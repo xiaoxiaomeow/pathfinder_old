@@ -23,9 +23,12 @@
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
     "text": "This spell functions like <i>reinforce armaments<\/i>, except you divide the duration in 10-minute intervals among the objects touched.",
+    "name_zh": "共用强固武装",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "target_zh": "接触到的复数武器或盔甲",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
-    "spellResistance_zh": "可 (无害, 物体)"
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同强固武装 (Reinforce Armaments)，不过你可以将持续时间以10分钟为单位分配给复数物体。<\/p>"
 }

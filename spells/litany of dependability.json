@@ -18,9 +18,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "By uttering this litany, you cause one creature to take the average result of its next attack roll, saving throw, skill check, or ability check. While subject to this spell, the target cannot be the target of another spell that has the word “litany” in the title.",
+    "name_zh": "相依祷言",
     "castingTime_zh": "直觉动作",
+    "components_zh": "言语，姿势，法器",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物",
     "duration_zh": "1轮",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>通过说出一串祷言，你使一个生物在下一次的攻击检定、豁免检定、技能检定或属性检定中取得平均结果。当受此法术影响时，目标不能成为名称中带有“祷言”字样的其他法术的目标。<\/p>"
 }

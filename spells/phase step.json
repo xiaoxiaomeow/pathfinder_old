@@ -26,9 +26,13 @@
     "savingThrow": "none",
     "spellResistance": "yes (harmless)",
     "text": "You instantly transfer the touched creature to a point you designate within range. This otherwise functions as the spell <i>dimension door<\/i>, except that you must have line of sight and line of effect to the target’s destination for this spell’s effects to properly function.",
+    "name_zh": "相位步伐",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "接触的自愿生物",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>你将目标生物瞬间传送到范围内你指定的一点。该法术其他功能如同任意门 （dimension door），除了你必须对法术中该目标的终点有视觉线和效果线。<\/p>"
 }

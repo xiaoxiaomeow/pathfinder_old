@@ -25,9 +25,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You grant the target the ability to pick up on the subtle scents and disturbances to the natural order that are specific to the living dead, granting the target the ability to sense the presence of undead creatures. The target is constantly aware of whether there are any undead auras within 60 feet of her in any direction. If at least one undead aura is present, the target can concentrate on the spell’s effects in order to gain more information on the auras present. This functions similarly to <i>detect undead<\/i>, except the number of rounds of concentration needed to learn about the undead auras is reduced by 1 (1 round to learn the number of auras, and 2 rounds to learn the strength and location of each aura).",
+    "name_zh": "亡灵感知",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/圣徽（来自骨灰盒的灰烬）",
     "range_zh": "接触",
+    "target_zh": "接触的生物",
     "duration_zh": "10分钟/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你给予目标一种能力使其可以感知特别是不死生物对自然秩序的扰动和残留的微弱气息，使目标可以感知不死生物的存在。目标能够持续的感知到60尺范围内是否在任何方向有任何不死灵光（undead aura）。如果至少有一个不死灵光存在，则目标可以专注于法术的效果，以获得更多有关灵光的信息。该功能如同侦测死灵 （detect undead），除了了解不死灵光所需要的专注轮数减少1（即1轮到了解灵光的数量，2轮了解每个灵光的强度和位置）。<\/p>"
 }

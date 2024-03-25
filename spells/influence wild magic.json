@@ -31,9 +31,14 @@
     "savingThrow": "none (harmless)",
     "spellResistance": "no (harmless)",
     "text": "This spell creates an area of stabilizing magical energy that emanates from you. Any creature within this area that fails a concentration check to cast a spell normally in an area of wild magic rolls twice to determine the wild magic effect and choose its preferred result.",
+    "name_zh": "野魔法稳定场",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "个人",
+    "effect_zh": "以自己为中心20尺半径爆发的稳定性魔力",
+    "target_zh": "自己",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无 (无害)",
-    "spellResistance_zh": "不可 (无害)"
+    "spellResistance_zh": "不可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术能创造出一片充盈着由你身上散发的稳定性魔法能量所充盈的区域。任何处于该区域的生物在没能通过野魔法区（《探索者RPG 游戏主持指南》第188页）施法的专注检定时，其能骰两次以决定野魔法的效果，并且可以任选其一。<\/p>"
 }

@@ -25,9 +25,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "Using the Path of Numbers, you are able to influence the seemingly random elements in the environment around a creature, reducing that creature’s efficacy. Roll 3d8 and choose one of the dice—this die’s result is the penalty <i>mathematical curse<\/i> imparts. Next, choose either of the two remaining dice; the d20 roll corresponding to that result on the Eight Basic Energies table is the roll the spell’s penalty applies to. The result of the final die represents the number of rounds that <i>mathematical curse<\/i> lasts. A creature can be under the influence of only one <i>mathematical curse<\/i> at a time. If <i>mathematical curse<\/i> is cast on a creature already affected by that spell, the new curse replaces the previous one.<br><br><table class=\"inner\"><tr><td><b>d8<\/b><\/td><td><b>Energy Type<\/b><\/td><td><b>Magic School<\/b><\/td><td><b>d20 Roll Type<\/b><\/td><\/tr> <tr><td>1<\/td><td>Air<\/td><td>Enchantment<\/td><td>Will save<\/td><\/tr> <tr><td>2<\/td><td>Electricity<\/td><td>Illusion<\/td><td>Reflex save<\/td><\/tr> <tr><td>3<\/td><td>Fire<\/td><td>Necromancy<\/td><td>Attack roll<\/td><\/tr> <tr><td>4<\/td><td>Sonic<\/td><td>Evocation<\/td><td>Initiative roll<\/td><\/tr> <tr><td>5<\/td><td>Acid<\/td><td>Abjuration<\/td><td>Fortitude save<\/td><\/tr> <tr><td>6<\/td><td>Water<\/td><td>Transmutation<\/td><td>Caster level check<\/td><\/tr> <tr><td>7<\/td><td>Cold<\/td><td>Divination<\/td><td>Concentration check<\/td><\/tr> <tr><td>8<\/td><td>Earth<\/td><td>Conjuration<\/td><td>Combat Maneuver Check<\/td><\/tr><\/table>",
+    "name_zh": "数学诅咒",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器 (1整套10片指甲)",
     "range_zh": "接触",
+    "target_zh": "一个活着的生物",
     "duration_zh": "见文本",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>通过使用天元道，你能够影响生物周围环境中看似随机的元素，从而降低这个生物的性能。<\/p><p>掷3个d8骰子然后选择其中一枚骰子——这枚骰子的结果就是数学诅咒赋予的减值。<\/p><p>接下来，选择剩下两枚骰子中的任一个; 与八种基本能量表中对应的d20掷骰类型就是法术的减值适用的检定。<\/p><p>最后一枚骰子的结果代表数学诅咒持续的轮数。<\/p><p>一个生物同一时间只能受一个数学诅咒影响。如果数学诅咒被施放在一个已经受到该法术影响的生物身上，那么新的诅咒将取代先前的。<\/p>"
 }

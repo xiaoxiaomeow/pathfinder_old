@@ -17,8 +17,12 @@
     "target": "you",
     "duration": "1 minute/level",
     "text": "You enhance your natural ability to seem small and unimportant, causing those around you to overlook you. You gain a +20 bonus on Stealth checks, which doesn’t stack with bonuses from effects that actually make you sneakier, such as <i>invisibility<\/i> or <i>respectful quiet<\/i> (see below); you do not need cover or concealment to hide; and you can hide while you are being observed. If a creature fails to notice you because of this spell, that creature can still remember seeing a halfling pass by, but attach no importance to the memory. You do not gain these benefits against creatures that are immune to compulsions or mind-affecting effects, and spell resistance applies. If you take an actively aggressive or extremely conspicuous action, creatures automatically notice you, and you gain no further benefits against those creatures for the remainder of the spell’s duration.",
+    "name_zh": "无视",
     "race_zh": "Halfling",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "个人",
-    "duration_zh": "1分钟/等级"
+    "target_zh": "自身",
+    "duration_zh": "1分钟/等级",
+    "text_zh": "<p><\/p><p><\/p><p>你增强自己与生俱来的，让自己显得渺小而不重要的能力，让周围的人会忽略你。你在隐匿检定上获得+20加值，这与实际上让你更不起眼的效果所提供的加值不叠加，例如隐形术（invisibility）或静音术（respectful quiet）;  你不需要掩蔽或隐蔽来进行躲藏; 你可以在被人观察时进行躲藏。如果一个生物因为这个法术而没有注意到你，那个生物仍然会记得自己看到有一个半身人经过，但不会重视这份记忆。对于免疫胁迫或影响心灵效果的生物，你不会获得这些好处，并且对方的法术抗力也适用。如果你采取积极的攻击性行为或极其显眼的行动，生物会自动注意到你，并且在法术剩余的持续时间内，你不会对这些生物获得进一步的好处。<\/p>"
 }

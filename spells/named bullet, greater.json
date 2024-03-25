@@ -22,9 +22,11 @@
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
     "text": "This spell functions like <i>named bullet<\/i>, except it deals 2 extra points of damage per caster level (maximum 40).",
+    "name_zh": "高等指名狙杀",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
     "duration_zh": "10分钟/等级 或直至耗散",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
-    "spellResistance_zh": "可 (无害, 物体)"
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同指名狙杀 (Named Bullet)，但是它会造成每施法者等级2点的额外伤害 (最高40)。<\/p>"
 }

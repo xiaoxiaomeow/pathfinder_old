@@ -25,9 +25,13 @@
     "savingThrow": "Fortitude negates",
     "spellResistance": "no",
     "text": "<i>Poisonous cloud<\/i> creates a bank of fog like that created by <i>fog cloud<\/i>, except that the vapors are toxic. The cloud deals 1d2 points of Constitution damage per round to living creatures that fail their Fortitude saves. A creature that succeeds at its save but remains in the cloud must continue to attempt a new saving throw each round on your turn.<br><br> <i>Poisonous cloud<\/i> can be made permanent with a <i>permanency<\/i> spell cast by a caster of 13th level or higher, at a cost of 12,500 gp. A permanent <i>poisonous cloud<\/i> dispersed by wind re-forms in 10 minutes.",
+    "name_zh": "毒云术",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,材料（一小份毒素）",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "半径20尺扩散，20尺高",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>毒云术会造出一团云雾，如同云雾术 (fog cloud)，除了这云雾充满毒素。这片云雾对强韧豁免失败的活物每轮造成1d2点体质伤害。任何成功通过强韧豁免后仍留在云雾中的生物，都需要每到施法者的回合尝试新的豁免。<\/p>"
 }

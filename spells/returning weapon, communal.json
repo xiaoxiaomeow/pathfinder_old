@@ -29,9 +29,12 @@
     "savingThrow": "Will negates (harmless, object)",
     "spellResistance": "yes (harmless, object)",
     "text": "This spell functions like <i>returning weapon<\/i>, except you divide the duration in 1-minute intervals among the targeted weapons.",
+    "name_zh": "共用回力武器",
     "castingTime_zh": "标准动作",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "接触到的复数武器",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
-    "spellResistance_zh": "可 (无害, 物体)"
+    "spellResistance_zh": "可 (无害, 物体)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同回力武器 (Returning Weapon)，但你可以把持续时间以1分钟为单位划分给多把武器。<\/p>"
 }

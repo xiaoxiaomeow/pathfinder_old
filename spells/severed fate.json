@@ -18,9 +18,12 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use hero points for the duration of the spell. This effect can be removed by <i>dispel magic<\/i>, <i>remove curse<\/i>, or other similar effects.",
+    "name_zh": "听天由命",
     "castingTime_zh": "标准动作",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个活物",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你以恶毒话语目令目标无力掌控自我命运。目标战栗shaken而且法术持续时间内不能使用英雄点。此效果可被解除魔法、移除诅咒或其他类似的移除。<\/p>"
 }

@@ -21,10 +21,14 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "All targets are rendered silent, as per <i>silence<\/i>. The silence affects the entirety of each creature but does not extend beyond. However, the silence is one-way—sounds from outside the creatures’ spaces can still enter. Quieted creatures gain a +10 circumstance bonus on Stealth checks.",
+    "name_zh": "静音术",
     "race_zh": "Chelaxian",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "30英尺爆发范围内的所有生物",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>所有目标都变得沉默，如同沉默术（silence）。沉默效果会影响法术范围内的每个生物，但不会超出法术范围。然而，沉默是单向的——来自区域之外的声音仍然可以进入。被静音的生物在隐匿检定上获得+10环境加值。<\/p>"
 }

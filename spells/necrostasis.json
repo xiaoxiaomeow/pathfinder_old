@@ -24,9 +24,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You drain necromantic energy from an undead creature, inducing a sluggish stupor. The target becomes staggered. For the duration of the spell, dark wisps of energy seep out of the target creature. If the target already has the staggered condition (as a zombie does), it becomes dazed for 1 round instead.",
+    "name_zh": "坏死",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一根指骨）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一名不死生物",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你从一名不死生物上吸取死灵能量，致使其行动迟缓、昏昏沉沉。该目标会恍惚（staggered，又译蹒跚）。在法术持续期间，一缕缕黑色的能量从该目标生物身上渗出。如果该目标已具有恍惚（staggered，又译蹒跚）状态的话（就像丧尸那样），取而代之的，它则会晕眩（dazed，又译眩晕）1轮。<\/p>"
 }

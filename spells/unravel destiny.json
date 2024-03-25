@@ -21,9 +21,12 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You utter a dire portent, causing destiny and fate to unravel around the target. This profoundly disturbing effect causes the target to suffer a cumulative –2 penalty on all ability checks, attack rolls, saving throws, and skill checks for every hero point it possesses. The target can reduce this penalty by spending hero points normally, but it takes 2d6 points of damage for each hero point spent while this spell is in effect.",
+    "name_zh": "天煞孤星",
     "castingTime_zh": "标准动作",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你说出恐怖预言，令目标被残酷命运包围。目标的所有属性检定、技能检定、命中、豁免，受到-2惩罚/每英雄点。目标正常消耗英雄点就会减少惩罚，但每点会受到2d6伤害。<\/p>"
 }

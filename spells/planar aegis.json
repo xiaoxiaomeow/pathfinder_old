@@ -21,7 +21,11 @@
     "target": "you",
     "duration": "1 round/level (D)",
     "text": "You draw motes of essence from material native to a plane that has elemental or energy essence traits (<i>Pathfinder RPG Planar Adventures<\/i> 60), weaving the essence together into a shield of force. Choose an essence trait from the list below; the material component for this spell must come from a plane that has the essence trait you chose. Each essence trait has an associated damage type (see the table below). Any creature that hits you with a non-reach melee weapon, natural weapon, or unarmed attack takes 3d6 points of damage plus 1 point per caster level you have (maximum +20) of a type corresponding to the essence trait you chose. In addition, you take only half damage from attacks or effects of the associated damage type, and if such an attack or effect allows a saving throw for half damage, you take no damage on a successful saving throw. <br><table class=\"inner\"><tr><td><b>Essence Trait<\/b><\/td><td><b>Damage Type<\/b><\/td><\/tr><tr><td>Air-Dominant<\/td><td>Electricity<\/td><\/tr><tr><td>Earth-Dominant<\/td><td>Acid<\/td><\/tr><tr><td>Fire-Dominant<\/td><td>Fire<\/td><\/tr><tr><td>Positive-Dominant<\/td><td>Positive<\/td><\/tr><tr><td>Negative-Dominant<\/td><td>Negative<\/td><\/tr><tr><td>Water-Dominant<\/td><td>Cold<\/td><\/tr><\/table>",
+    "name_zh": "位面防护",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一把来自对应位面的天然物质）",
     "range_zh": "个人",
-    "duration_zh": "1轮/等级 (可解消)"
+    "target_zh": "自身",
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p><\/p><p><\/p><p>你从具有元素或能量本质特征的位面（见位面冒险）的原生材料中提取精华微粒，将精华编织成一个力盾。 从下面的列表中选择一个本质特征； 该法术的材料成分必须来自具有你选择的本质特性的位面。 每个本质特性都有一个相关的伤害类型（见下表）。 任何使用非长触及近战武器、天生武器或徒手击打击中你的生物都会受到 3d6+每施法者等级1点伤害（最多+20），其类型对应于你选择的本质特性。 此外，你只受到相关伤害类型的攻击或效果的一半伤害，如果这样的攻击或效果允许豁免来减半伤害，那么你在成功的豁免中不会受到伤害。<\/p><p>本质 伤害<\/p><p>气 电击<\/p><p>土 酸蚀<\/p><p>火 火焰<\/p><p>水 寒冷<\/p><p>正能量 正能量<\/p><p>负能量 负能量<\/p>"
 }

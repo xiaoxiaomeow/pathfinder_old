@@ -23,10 +23,14 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You gain a glimpse of a potential reality similar to this one but that never was. If the target fails her Will save, you can ask about one topic and attempt the appropriate Knowledge check with a +5 competence bonus; track Knowledge checks attempted with this spell separately for the purpose of disallowing retries on Knowledge checks. You learn information on that topic from a reality in which you were an acquaintance of the target, although the differences in that reality might cause the answer to be subtly different than in your own. Once you have probed a target’s history, successfully or not, you cannot target the same creature’s history or search for the same information in another creature’s history.",
+    "name_zh": "调查历史",
     "race_zh": "Half-Elf",
     "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，法器",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你能瞥见一眼与真实现实相似，但从未发生过的潜在现实。如果目标的意志豁免失败，你可以询问一个话题并尝试一次适当的知识检定，并获得 +5 表现加值; 需要记录通过此法术进行的知识检定结果，以避免重试相同的知识检定。你从一个你认识目标的现实中学习到关于该主题的信息，尽管现实情况的差异可能导致来自该潜在现实的答案与你自己所处的真实现实的答案略有不同。一旦你探测了一个目标的过往历史，无论成功与否，你就不能再次侦测同一个生物的历史或在另一个生物的历史中搜索相同的信息。<\/p>"
 }

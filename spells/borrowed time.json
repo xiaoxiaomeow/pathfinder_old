@@ -22,7 +22,11 @@
     "text": "A creation of the archmage Nex, this spell allows you to reach ahead in time and draw alacrity from the future at the expense of your own health. For the duration of this spell, you gain an extra swift action you can use only during your turn. You can’t use this swift action to take a second immediate action between turns, but you can use it to take a swift action the turn after you’ve taken an immediate action. Each time you take an extra swift action in this fashion you take 1 point of Constitution damage. If you’re immune to ability damage, you take 5 points of hit point damage instead. When the spell ends, you are staggered for 1d4+1 rounds from the temporal backlash.",
     "mythicSource": ["Mythic Origins pg. 14"],
     "mythicText": "If you expend one use of mythic power, instead of taking an extra swift action, you can take either an extra move or an extra swift action each round. You can use this extra swift action to take two immediate actions between your turns; this consumes your extra swift action in your next round. Each extra action you take still deals damage to you as described above.",
+    "name_zh": "预支未来",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "个人",
-    "duration_zh": "1轮/等级 (可解消)"
+    "target_zh": "自己",
+    "duration_zh": "1轮/等级 (可解消)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术由大法师耐克斯（Nex）本人发明，它能让你用自己的健康作为代价，在时间流中快人一步，攫取来自未来的余裕。在法术持续时间内，你会额外获得一个只能在你回合内使用的迅捷动作。你不能将该迅捷动作用来在回合间进行第二次直觉动作，但你可以将其用于在使用过直觉动作的下一回合内进行迅捷动作。你每次用该效果进行额外的迅捷动作时，就会受到1点体质伤害。若你免疫属性伤害，则改为受到5点生命值伤害。当该法术结束时，你会因暂时性的反冲，而恍惚1d4+1轮。<\/p>"
 }

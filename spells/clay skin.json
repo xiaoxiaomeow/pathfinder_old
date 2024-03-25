@@ -24,9 +24,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "The target’s skin becomes as thick and tough as clay, granting the target DR 5/adamantine. Once the spell has prevented a total of 5 points of damage per caster level (maximum 50 points), it is discharged and the spell ends.",
+    "name_zh": "黏土肌肤",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,材料（黏土和碎铁屑）",
     "range_zh": "接触",
+    "target_zh": "接触的生物",
     "duration_zh": "10分钟/等级 或直至耗散",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>目标的皮肤会变得坚韧并且摸起来就像黏土一样，给予了目标DR5/精金。一旦这个法术转换了每施法者等级5点伤害 (最高50)，法术能量耗尽。<\/p>"
 }

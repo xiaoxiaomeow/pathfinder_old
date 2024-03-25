@@ -23,9 +23,12 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You utter a dire curse over the body of a dying creature, allowing you to consume its waning life force. Upon casting this spell, you touch a living creature that has –1 or fewer hit points. If the target fails its saving throw, it dies and you gain 1 hero point for every 5 Hit Dice possessed by the target (minimum 1, maximum 3). These hero points last for a number of minutes equal to the target’s Hit Dice. Any hero points remaining when this spell ends are lost.",
+    "name_zh": "恶意中伤",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
-    "duration_zh": "instantaneous/1 minute per HD of the target; see text",
+    "target_zh": "接触活物",
+    "duration_zh": "立即/1分钟每目标HD；见下文",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你憎恶地说出一个比死亡更可怕诅咒，夺取将死者生命力。施展此法术时，你要接触一个生命值-1或更少的生物。若该生物豁免检定失败则死亡，同时你可获得1英雄点每/目标5HD（最小1最大3），持续时间分钟/目标HD，到期发散。<\/p>"
 }

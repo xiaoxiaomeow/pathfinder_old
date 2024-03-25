@@ -26,9 +26,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "This spell functions like <i>summon monster<\/i>, except it allows you to summon a single coloxus (<i>Pathfinder RPG Bestiary 3<\/i> 72), an omox demon (<i>Pathfinder RPG Bestiary 2<\/i> 79), or 1d3 kalavakus demons (<i>Bestiary 2<\/i> 78).",
+    "name_zh": "召唤高等恶魔",
     "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势，器材/法器（一个小袋子和一小根蜡烛）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "一只召唤的生物",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>该法术如同召唤怪物一样作用，除了它允许你召唤单独一只蝇魔（《怪物图鉴3》73页），一只泥魔（《怪物图鉴2》79页），或1d3只缚魂魔（《怪物图鉴2》78页）。<\/p>"
 }

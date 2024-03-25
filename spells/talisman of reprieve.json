@@ -17,7 +17,11 @@
     "target": "20-ft.-radius emanation centered on an item",
     "duration": "10 minutes/level",
     "text": "You imbue an item with an aura of divine amnesty, allowing all allies within the aura’s area to ignore penalties to Intelligence-, Wisdom-, and Charisma-based checks resulting from a plane’s mildly or strongly aligned traits (<i>Planar Adventures<\/i> 62), regardless of the allies’ alignments. In addition, the item grants a +4 circumstance bonus on checks with one Intelligence-, Wisdom-, or Charisma-based skill determined by you at the time of casting.",
+    "name_zh": "缓解护符",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，法器",
     "range_zh": "近距 (25尺+每2等级5尺)",
-    "duration_zh": "10分钟/等级"
+    "area_zh": "以一件物品为中心的20尺半径区域",
+    "duration_zh": "10分钟/等级",
+    "text_zh": "<p><\/p><p><\/p><p>你为一件物品注入了神圣赦免的灵光，灵光范围内的所有盟友可以无视由位面的轻微或强烈阵营特性（见《位面冒险》）产生的，在基于智力，感知和魅力的检定上的减值，无论盟友的阵营为何。此外，该物品还会在一种由你在施法时决定的基于智力，感知或魅力的技能检定上赋予+4环境加值。<\/p>"
 }

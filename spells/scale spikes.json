@@ -25,9 +25,13 @@
     "savingThrow": "Fort negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "When the target is affected by this spell, its scales grow jagged spikes. These spikes act like <i>+1 armor spikes<\/i>. The subject is automatically considered proficient with these scale spikes.",
+    "name_zh": "鳞刺",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（一小根刺）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个拥有职业/人物等级的爬行生物，龙类或者爬行亚种的活物，并且至少拥有1点天生护甲。",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "强韧通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>当目标受到此法术时，它的鳞片长出了锯齿状的尖刺。这些尖刺如同+1甲刺。目标自动视为擅长这些鳞刺。<\/p>"
 }

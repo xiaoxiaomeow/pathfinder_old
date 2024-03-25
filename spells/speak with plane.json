@@ -25,9 +25,13 @@
     "savingThrow": "Will negates (see text)",
     "spellResistance": "yes",
     "text": "You tap into the awareness and consciousness of a plane with a sentient structure (<i>Planar Adventures<\/i> 60), allowing it to answer questions. A tangible manifestation of the plane (such as the ground) must be within the spell’s range upon casting. You can ask the sentient plane one question per 2 caster levels. If the plane’s alignment is at least one step away from yours, the plane can attempt a Will save to resist the spell. A plane typically has a +20 bonus on Will saves, and a demiplane typically has a +15 bonus on Will saves. A plane’s traits can further affect these bonuses: a mildly aligned plane receives a +2 bonus, and a strongly aligned plane or a plane with the wild magic trait receives a +4 bonus on its save.<br><br> If a plane has been subject to this spell within the past week, a new casting of this spell targeting the same plane fails. If speak with plane targets a plane that does not have a sentient structure, the spell fails.",
+    "name_zh": "位面交流",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材/法器（一颗玻璃珠）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个有位面意志的位面",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效; 见文本",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你利用具有位面意志的位面（见位面冒险，但未翻译）的意识，让它回答问题。 位面的有形显现（例如地面）必须在施法时处于法术范围内。 你可以每 2 个施法者等级向有位面意志的位面提出一个问题。 如果该位面的阵营与你的阵营相差至少一级，则该位面可以尝试进行意志豁免以抵抗该法术。 位面通常在意志豁免上有 +20 加值，半位面在意志豁免上通常有 +15 加值。 位面的特性会进一步影响这些加值：轻微阵营的位面获得 +2 加值，强烈阵营的位面或具有狂野魔法特性的位面在豁免上获得 +4 加值。<\/p><p>如果一个位面在过去一周内受到了该法术的影响，则针对同一位面的该法术的新尝试将失败。 如果位面交流的目标是没有位面意志的位面，则该法术失败。<\/p>"
 }

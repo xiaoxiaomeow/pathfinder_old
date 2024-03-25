@@ -17,9 +17,13 @@
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
     "text": "This spell creates a chaotic charge within the black powder loaded in a target firearm. The next time the target weapon fires during this spell’s duration, it automatically misfires. If this misfire causes the firearm to explode, the radius of the explosion is doubled and it deals maximum damage to all creatures in the radius. The firearm’s wielder also takes 1d6 additional points of fire damage per 2 caster levels (maximum 10d6) you have.<br><br> If the target is an advanced firearm, and the firearm misfires a second time in a row while this spell is in effect, it does not explode but still deals the additional damage to the wielder as described.",
+    "name_zh": "爆裂哑火",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料（一小片燧石）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一把早期或近代火器",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
-    "spellResistance_zh": "可 (物体)"
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术能将一股混沌之力注入目标火器内装填的火药中，目标火器在法术持续时间内的下一次射击自动哑火。若该哑火导致火器爆炸，则爆炸半径翻倍，且对半径内的所有生物造成最大伤害。而火器持有者会额外受到每1d6/每2CL点火焰伤害（最高10d6点）<\/p><p>若目标是一把近代火器，则该火器若在法术生效时第二次哑火，其虽然不会爆炸，但同样会对持有者造成上述的额外伤害。<\/p>"
 }

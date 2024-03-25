@@ -20,9 +20,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You inscribe a rune on the target object. The rune remains dormant until the object finds its way into the hands of a spellcaster, at which point the rune steals one of that creature’s spells and passes the knowledge back to you. The stolen spell is selected randomly. An object inscribed with this rune is affected as though by the spell <i>magic aura<\/i>. Additionally, if a creature in possession of the object casts a spell that appears on your spell list, there is a 10% chance that the <i>mnemonic siphon<\/i> absorbs that spell, causing it to fail as though it had been successfully countered. Whenever the <i>mnemonic siphon<\/i> absorbs a spell in this fashion, it causes the knowledge of the absorbed spell to appear directly in your mind. You can use this knowledge to prepare the spell if you have an unused spell slot capable of casting it. You can also use the knowledge to write the spell into a spellbook or teach it to your familiar. This knowledge remains in your mind for 24 hours, after which time it is lost. The <i>mnemonic siphon<\/i> is capable of absorbing up to 1 spell per 2 caster levels you have before being discharged. If you are not capable of learning a stolen spell normally, the knowledge is useless to you.",
+    "name_zh": "记忆虹吸",
     "castingTime_zh": "10分钟",
+    "components_zh": "语言，姿势",
     "range_zh": "接触",
+    "target_zh": "接触到的物体",
     "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你在目标物体上刻下一个符文。符文会一直处于休眠状态直到该物体落入一位施法者的手中，此时符文会窃取该生物的一个法术并将知识传回给你。被窃取的法术是随机选择的。刻有此符文的物体会受到法术魔法灵光的影响。此外，如果拥有该物品的生物施放了一个出现在你的法术列表中的法术，则记忆虹吸有10%的几率吸收那个法术导致其失败，就像它已被成功反制一样。每当记忆虹吸以这种方式吸收法术时，它会使吸收的法术的知识直接出现在你的脑海中。如果你有一个能够施展它的未使用的的法术位，你可以使用这些知识来准备这个法术。你还可以使用这些知识将法术写入法术书或将其传授（teach）给你的魔宠。这些知识会在你的脑海中保留24小时，之后就会消失。记忆虹吸在能量发散之前最多能吸收每2个施法者等级1个法术。如果你不能正常学习窃取来的法术，那么这些知识对你来说就没用。<\/p>"
 }

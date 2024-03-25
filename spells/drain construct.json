@@ -18,9 +18,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "no",
     "text": "You weaken a target construct, temporarily sapping its animating force and limiting its normal functionality. If the construct fails its saving throw, for the duration of this spell, it loses any damage reduction and fast healing it had and its base speed is reduced by half. Additionally, the construct takes a –4 penalty to Strength while this spell is in effect. This penalty increases by 2 for every 3 caster levels beyond 3rd (maximum –14). If the construct is normally immune to magic, this spell’s sapping effect is less penetrating and the construct receives a +4 bonus on its saving throw.",
+    "name_zh": "构装体衰弱术",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "某一构装体",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你能弱化目标构装体，暂时破坏其动力，限制其正常功能的运转。若构装体没能通过豁免，则其在法术的持续时间内将会失去自身具备的伤害减免以及快速治疗的能力，同时其基础速度减半。此外，法术生效时，构装体在力量上会承受-4罚值，且该罚值在3级后每3个施法者等级额外增加2（最大到-14）。若该构装体通常免疫魔法，则这个法术的破坏效果会更难穿透进去，此构装体会在豁免上获得+4加值。<\/p>"
 }

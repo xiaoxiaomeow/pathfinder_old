@@ -24,9 +24,12 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell functions like <i>darkvision<\/i>, except you may divide the duration in 1-hour intervals among the creatures touched.",
+    "name_zh": "共用黑暗视觉",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "target_zh": "接触到的复数生物",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同黑暗视觉 (Darkvision)，不过你可以将持续时间以1小时为单位分配给接触到的复数生物。<\/p>"
 }

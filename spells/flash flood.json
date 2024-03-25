@@ -22,10 +22,13 @@
     "savingThrow": "Reflex partial, see text",
     "spellResistance": "no",
     "text": "You call forth a fast-moving wave that batters all creatures in its path and leaves the target area flooded. Each creature in the area must succeed at a Reflex save or take 1d6 points of bludgeoning damage per 2 caster levels (maximum 10d6). The wave also attempts a bull rush combat maneuver against all creatures of any size within its area of effect. Attempt a single combat maneuver check and apply the result to each creature within the area. Your CMB for this bull rush is equal to your caster level plus your Intelligence, Wisdom, or Charisma modifier, whichever is highest. This bull rush attempt doesn’t provoke attacks of opportunity.<br><br> The area covered by the cone remains inundated for 1 round per caster level. If cast on land, treat the area as a deep bog. If cast on water, the water level within the affected area rises by 5 feet.",
+    "name_zh": "闪洪术",
     "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（被水冲刷光滑的卵石）",
     "range_zh": "60尺",
     "area_zh": "锥形爆发区域",
-    "duration_zh": "instantaneous and 1 round per level; see text",
+    "duration_zh": "立即和1轮/等级",
     "savingThrow_zh": "反射, 通过则部分生效; 见文本",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你召唤来一堵快速移动的洪波，打击路径上的所有的生物，并使路过的区域被淹没。该区域内的每个生物必须通过反射豁免，否则受到每2个施法者等级1d6点的钝击伤害（最高10d6点）。洪波也会对其作用区域内所有大小的生物尝试冲撞战技。尝试一次单一的战技检定，并将结果应用于该区域内的每个生物。你的CMB等于你的施法者等级加上你的智力、感知或魅力调整值（以最高者为准）。这种冲撞尝试不会引发借机攻击。<\/p><p>锥形范围所复盖的区域将被淹没每施法者等级1轮。如果在陆地上施放，该区域将被视为深沼。如果在水面上施展，受影响地区的水位会上升5英尺。<\/p>"
 }

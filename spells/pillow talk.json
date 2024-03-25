@@ -29,9 +29,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "This spell can be cast only on a sleeping creature, which must be present for the full duration of the casting time. You grant the semblance of wakefulness to the target, allowing it to answer questions. You can ask one question per 2 caster levels. The target’s knowledge is limited to what it normally knows, including the languages it speaks. Answers are brief, cryptic, or repetitive, especially if the creature would have opposed you when awake. If the target succeeds at a Will save, it awakens (unless some force is preventing it from being awake, such as magic or drugs), and it remains aware of the first question you asked. If the target has been subject to <i>pillow talk<\/i> within the past week, the new spell fails. While your questions don’t otherwise wake the target, this spell does nothing to prevent other sounds or stimulus from waking the target. A target who sleeps through the spellcasting and duration of the spell has no memory of it taking place, but a target who awakens before the spell ends remembers every question asked and what answers it gave.",
+    "name_zh": "枕边风",
     "castingTime_zh": "10分钟",
+    "components_zh": "姿势",
     "range_zh": "接触",
+    "target_zh": "睡眠中，被接触的活物",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>此法术只能施加于一名睡眠中的生物，而该生物必须在全施法时间内在场。你赋予该目标清醒时的外象，并允许它回答问题。你每2个施法者等级可以询问1个问题。该目标的学识仅限于其正常情况下所知晓，包括其所说的语言。所得答复是简短、晦涩或重复的，尤其是如果当该生物被唤醒时会反抗你。如果该生物在一次意志豁免中成功，它会被唤醒（除非有某种力量阻止它睡醒，辟如魔法或药物），它仍然会知晓你所询问的第一个问题。如果该目标在过去一周以内已成为枕边风（pillow talk）的目标，则新法术会失败。虽然你的问题不会唤醒目标，但这个法术不会阻止其他声音或其他刺激因素唤醒目标。在施法和法术持续时间内睡眠的目标不会记得发生了什么，但在法术结束前醒来的目标会记住被询问的每一个问题以及自己曾给出了什么样的答案。<\/p>"
 }

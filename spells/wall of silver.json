@@ -24,9 +24,13 @@
     "savingThrow": "see text",
     "spellResistance": "yes",
     "text": "You create a wall of translucent silver energy that hums and vibrates at the slightest touch. Objects and nonevil creatures can pass through this wall without difficulty. However, spells and effects with the evil descriptor treat this barrier as a <i>wall of force<\/i>, which blocks line of effect.<br><br> Evil creatures that pass through the wall take 3d6 points of damage + 1 point of damage per caster level (maximum 3d6+20) and are blinded for 1 round. Creatures of any alignment that are particularly vulnerable to silver (such as those with damage reduction bypassed by silver, like devils or lycanthropes) instead take 1d6 points of damage per caster level (maximum 15d6), are staggered for 1 round, and are permanently blinded. A creature that succeeds at a Will save reduces the damage by half and negates the blinding and staggering effects.<br><br> If you create a <i>wall of silver<\/i> so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by succeeding at a Reflex save.",
+    "name_zh": "白银之墙",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "中距 (100尺+每等级10尺)",
-    "duration_zh": "1 round/leve",
+    "target_zh": "20尺高的透明墙，长20尺/等级",
+    "duration_zh": "1轮/等级",
     "savingThrow_zh": "见文本",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>抗力：有<\/p><p>你创造出一面半透明的银色能量墙，只要轻轻一碰就会发出蜂鸣声和震动。物体和非邪恶生物可以轻松的穿过这堵墙。然而拥有邪恶描述符的法术和效果将此屏障视为力场墙，它阻挡了效果线。<\/p><p>穿过墙的邪恶生物会受到3d6+1/施法者等级的伤害（最高3d6+20）并且会目盲一轮。作为替代，任何阵营对银易伤的生物（例如那些可以用银突破伤害减免的生物，如魔鬼或者狼人）会受到1d6/施法者等级的伤害（最高15d6），并且会恍惚一轮，并且永久失明。成功通过意志检定的生物受到一半的伤害，并且不会目盲或者恍惚。<\/p><p>若你在有生物的地方召出白银之墙，该处的生物所受伤害和穿越墙一样。每一个这类生物都可以试图躲开白银之墙 (由它选择停留在墙壁的哪一边)，成功通过的反射豁免可以免受伤害。<\/p><p>雄鹰骑士及其盟友经常会使用以下法术。<\/p>"
 }

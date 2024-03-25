@@ -22,9 +22,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "You channel a fraction of the tumultuous ecosystem of the Hao Jin Tapestry and redirect it through your hands as a beam of deteriorating energy. You can fire one ray, plus one additional ray for every 4 levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit and can target only a construct or an object. If a ray hits, the target begins to crumble, taking 2d6 points of damage. This damage ignores hardness and damage reduction.",
+    "name_zh": "侵蚀射线",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "effect_zh": "射线",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>你引导郝金挂毯动荡的生态系统的一小部分，并通过你的手将它化为一束侵蚀性的能量重新定向。 你可以发射一道射线，在 3 级之后每 4 级再加上一道额外的射线（在 11 级时最多可以发射三道射线）。 每道射线都需要远程接触攻击才能命中，并且只能瞄准构装体或物体。 如果射线击中目标，目标开始崩溃，受到 2d6 伤害。 这种伤害无视硬度和伤害减免。<\/p>"
 }

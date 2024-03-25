@@ -30,9 +30,13 @@
     "savingThrow": "Fortitude negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "You deprive a creature of the blissful oblivion of unconsciousness, either to keep it going despite grievous injuries or to prolong its suffering. For the duration of the spell, the target gains the ferocity ability (<i>Pathfinder RPG Bestiary<\/i> 300), allowing it to remain conscious and continue fighting even if its hit point total is below 0. The target is still staggered and loses 1 hit point each round, and the target still dies when its hit point total reaches a negative amount equal to its Constitution score.",
+    "name_zh": "激情四溢",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（嗅盐）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>不是使生物即便重伤也使其坚持到底，就是延长其苦痛，你使一个生物失去昏迷时的幸福无知觉状态。在法术持续时间内，该目标获得凶猛（ferocity）能力（Pathfinder RPG Bestiary 300），允许它即使在 HP 达到 0 以下，也可以保持清醒并且继续战斗。该目标仍然会恍惚并每轮失去 1 点 HP，而且该目标仍然会在 HP 降到体质属性负值时死亡。<\/p>"
 }

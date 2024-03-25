@@ -25,9 +25,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "You bestow divine protection on your companion. The target gains spell resistance equal to 5 plus half your caster level against spells and spell-like effects produced by evil creatures. The target also gains a +1 sacred bonus on saving throws and DR 5/evil or silver. Creatures under the effects of this spell often take on a celestial appearance, such as golden feathers or a radiant aura, but they are not truly celestial creatures.",
+    "name_zh": "天界伙伴",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器",
     "range_zh": "接触",
+    "target_zh": "接触的魔宠，动物伙伴，坐骑或魂兽",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>你赋予你的同伴神圣的保护。 目标对邪恶生物施展的法术和类法术获得等于 5 加你施法者等级一半的法术抗力。同时获得DR 5/邪恶或银，在对抗上述效果的豁免上也获得 +1 神圣加值。 受此法术影响的生物通常具有天界外观，例如金色羽毛或光环，但它们并不是真正的天界生物。<\/p>"
 }

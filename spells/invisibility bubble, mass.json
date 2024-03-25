@@ -21,9 +21,12 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This functions as per <i>invisibility bubble<\/i>, but the spell affects the areas of each target creature, regardless of the creature’s size. The effect moves with the group and is broken when anyone in the group attacks. Individuals in separate bubbles can’t see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other simultaneously, they both become visible when the distance between them exceeds 180 feet.",
+    "name_zh": "群体隐形气泡",
     "castingTime_zh": "标准动作",
     "range_zh": "远距 (400尺+每等级40尺)",
+    "target_zh": "任何数量的生物，任意两者之间的距离不超过180呎",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术的功能和隐形气泡类似，但无论范围内被该法术影响的生物大小如何，该法术都能生效。法术效果会随着受术者移动，会因为任何受术者发动攻击而解消。位于不同气泡内的个体并不能看到彼此。当任意两个受术者之间的距离超过180呎时，法术就会解消。如果只有两个受术者，主动远离另一个受术者的那名受术者将会失去它的隐形效果。如果两名受术者同时远离对方，它们将会在相距超过180呎时同时现形。<\/p>"
 }

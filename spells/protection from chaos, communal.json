@@ -24,9 +24,12 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
     "text": "This spell functions like <i>protection from chaos<\/i>, except you divide the duration in 1-minute intervals among the creatures touched.",
+    "name_zh": "共用防护混乱",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "target_zh": "接触到的多个生物",
     "duration_zh": "1分钟/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术如同防护混乱 (Protection from Chaos) 一样工作，但你可以把持续时间以1分钟为单位划分给多个生物。<\/p>"
 }

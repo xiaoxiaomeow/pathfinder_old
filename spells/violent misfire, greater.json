@@ -17,9 +17,12 @@
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
     "text": "This spell functions as <i>violent misfire<\/i> except as noted above.",
+    "name_zh": "群体爆裂哑火",
     "castingTime_zh": "标准动作",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "每CL一把早期或近代火器，其中任意火器彼此距离不能超过30尺以上。",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
-    "spellResistance_zh": "可 (物体)"
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术的功能除了上述外均如同爆裂哑火（VIOLENT MISFIR）。<\/p>"
 }

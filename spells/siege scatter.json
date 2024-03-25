@@ -20,11 +20,14 @@
     "savingThrow": "Reflex partial (see text)",
     "spellResistance": "yes (harmless)",
     "text": "A roiling blast of rough rock and dirt scatters along the ground in the area, dealing 1d6 points of slashing damage per 2 caster levels (maximum 5d6) to all creatures on the ground in the area, even on a successful saving throw. Creatures in the area that fail the Reflex save fall prone and are knocked to the nearest edge of the area, taking 1d6 points of bludgeoning damage for every 10 feet they travel this way. Creatures that did not move during the past round and those with the stability racial trait gain a +4 bonus on the saving throw.",
+    "name_zh": "破碎重围",
     "race_zh": "Dwarf",
     "castingTime_zh": "1轮",
+    "components_zh": "语言，姿势",
     "range_zh": "远距 (400尺+每等级40尺)",
-    "area_zh": "50-ft.-radius spread",
+    "area_zh": "半径50尺扩散",
     "duration_zh": "立即",
     "savingThrow_zh": "反射, 通过则部分生效; 见文本",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>大量翻腾的岩石和泥土沿着法术区域内的地面散落，对区域内地面上的所有生物造成每 2 个施法者等级1d6点挥砍伤害（最多5d6），即使豁免成功也是如此。法术区域内未通过反射豁免的生物会倒地为俯卧，并被撞到法术区域最近的边缘处，每被撞出10英尺就会受到 1d6点的钝击伤害。在上一轮中没有移动的生物和具有稳固（stability）种族特性的生物在豁免检定上获得+4加值。<\/p>"
 }

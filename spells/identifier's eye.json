@@ -23,9 +23,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell infuses a spark of magical energy into the veins of the target, allowing it to feel the presence of magic the way one might feel the thrum of vibrations in the air. For the spell’s duration, the target gains the benefits of the spell <i>detect magic<\/i> and also gains a +5 enhancement bonus on Spellcraft checks to identify the properties and command words of magic items. Further, the target can attempt such checks untrained while under the effects of this spell. This ability does not allow the target to identify artifacts.",
+    "name_zh": "鉴别者之眼",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势,材料（被葡萄酒浸染过的珍珠）",
     "range_zh": "接触",
-    "duration_zh": "3 rounds + 1 round/level (D)",
+    "target_zh": "接触的生物",
+    "duration_zh": "3轮 + 1轮/等级，见下文",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术将魔法能量的火花灌注于目标的血脉之中，允许其感受到如同感觉到空气振动般感受到魔力的波动。在法术持续期间，目标获得法术侦测魔法（detect magic）的效果并且在鉴别魔法物品的特性和命令词的法术辨识上获得+5加值。此外，在法术效果下，目标可以在为受训情况下尝试这些检定。该能力不允许目标检定神器。<\/p>"
 }

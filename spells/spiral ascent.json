@@ -19,9 +19,13 @@
     "savingThrow": "Will negates (object)",
     "spellResistance": "yes (object)",
     "text": "You transform yourself into a helical beam of divine energy that instantly transports you upward to a spot within range. The destination must be a square in the spell’s range that’s within 10 feet of a point directly above you. The destination must be within your line of sight or familiar to you. After using this spell, you can’t take any other actions until your next turn. You can bring along objects as long as their weight doesn’t exceed your maximum load.<br><br> If you arrive in a place that is already occupied by a solid body, you are teleported to a random open space on a suitable surface within the range and other limitations of the spell. If no such space is available, the spell simply fails. This spell does not function on a plane lacking gravity. On a plane with subjective directional gravity, you can use this spell to teleport in any direction.",
+    "name_zh": "螺旋上升",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "远距 (400尺+每等级40尺)",
+    "target_zh": "你和接触到的物体",
     "duration_zh": "立即",
     "savingThrow_zh": "意志, 通过则无效 (物体)",
-    "spellResistance_zh": "可 (物体)"
+    "spellResistance_zh": "可 (物体)",
+    "text_zh": "<p><\/p><p><\/p><p>你将自己转变成一股螺旋状的神圣能量束，它会立即将你向上送至法术范围内的某位点。其终点必须是在你正上方的法术距离中，某一位点10尺内的一个方格。目的地必须处于你的视觉线或你熟悉的位置。使用此法术后，在下一回合之前，你不能采用任何其他动作。只要物品的重量不超过你的最大负重，你就可以携带着这些物品。<\/p><p>如果你到达了一个已经被一个实体占据的地方，你会被传送到一个在法术距离和其他限制范围内的适用表面上的一处随机开放空间。如果没有适用的空间，法术就会失败。该法术在缺乏重力的位面上不起作用。在具备主观指向重力的位面上，你可以使用该法术向任何方向传送。<\/p>"
 }

@@ -20,9 +20,13 @@
     "savingThrow": "Fortitude negates",
     "spellResistance": "yes",
     "text": "Half-drow take substantial pains to ensure their enemies’ defeat. You must succeed at a ranged touch attack to place your mark on the victim. While the mark remains, you may injure yourself as a standard action, dealing a number of points of damage equal to 1d8 plus your Strength modifier. The recipient of the mark automatically takes twice the amount of damage that you deal to yourself, bypassing any damage reduction, immunities, or resistances.",
+    "name_zh": "怨恨之印",
     "castingTime_zh": "标准动作",
+    "components_zh": "言语，姿势，材料（一滴血）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个活物",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "强韧, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>半卓尔情愿承担痛苦以确保他们的敌人被击败。你必须在一次远程接触攻击中成功地将你的标记放置在目标身上。当标记还存在时，你可以以标准动作伤害自己，造成相当于1d8点+你的力量修正值的伤害。标记的接受者会自动接受你对自己造成伤害的双倍伤害，这会无视任何伤害减免、免疫或抗力。<\/p>"
 }

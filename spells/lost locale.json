@@ -20,11 +20,14 @@
     "savingThrow": "Will partial",
     "spellResistance": "yes",
     "text": "This spell functions as <i>lost passage<\/i> (see below), except that it affects a larger area. <i>Lost locale<\/i> can be made permanent with <i>permanency<\/i> at a cost of 90,000 gp.",
+    "name_zh": "迷失方位",
     "race_zh": "Samsaran",
     "castingTime_zh": "24小时",
+    "components_zh": "语言，姿势",
     "range_zh": "每等级1里",
-    "area_zh": "one 1-mile cube/level",
+    "area_zh": "每等级一个 1英里立方体（可变）",
     "duration_zh": "2小时/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则部分生效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>如同迷路术（Lost Passage），区别如上所述。此法术可以用90000gp来通过魔法恒定术（permanency）进行恒定。<\/p>"
 }

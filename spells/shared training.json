@@ -28,9 +28,13 @@
     "savingThrow": "none",
     "spellResistance": "no",
     "text": "Select one teamwork feat you have. You can grant this feat to allies within range for the duration of the spell. Allies do not need to meet the prerequisites of this teamwork feat. At caster level 9th, you can grant two teamwork feats you have to your allies. At caster level 13th, you can grant three teamwork feats, and at caster level 17th, you can grant up to four teamwork feats.",
+    "name_zh": "共享训练",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "你自己加上每3等级一个自愿生物，两两之间的距离不得超过30尺",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>选择你拥有的一个团队专长。你在法术持续时间内能够将此专长给予距离内的盟友。盟友并不需要满足此团队专长的先决条件。施法者等级达到9时，你可以将两个团队专长给予你的盟友。施法者等级达到13时，可以给予三个团队专长。而当施法者等级达到17时，可以给予至多四个团队专长。<\/p>"
 }

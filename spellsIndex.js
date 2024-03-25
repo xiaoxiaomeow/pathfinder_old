@@ -97,9 +97,7 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Humans of Golarion pg. 28"],
-        "castingTime_zh": "标准动作",
-        "spellResistance_zh": "有",
-        "savingThrow_zh": "反射，通过则减半"
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "aboleth's lung",
@@ -225,6 +223,7 @@ var spellsIndex = [
         {
         "key": "absorbing barrier",
         "name": "Absorbing Barrier",
+        "name_zh": "防弹屏障",
         "school": "abjuration",
         "levels":         {
             "alchemist": 4,
@@ -2436,6 +2435,7 @@ var spellsIndex = [
         {
         "key": "antitoxin touch",
         "name": "Antitoxin Touch",
+        "name_zh": "抗毒剂之触",
         "school": "abjuration",
         "levels":         {
             "alchemist": 1,
@@ -3035,6 +3035,7 @@ var spellsIndex = [
         {
         "key": "archon's trumpet",
         "name": "Archon's Trumpet",
+        "name_zh": "亚空号角",
         "school": "evocation",
         "descriptors":         [
             "good",
@@ -3284,6 +3285,7 @@ var spellsIndex = [
         {
         "key": "ashen path",
         "name": "Ashen Path",
+        "name_zh": "灰烬通道",
         "school": "transmutation",
         "levels":         {
             "arcanist": 2,
@@ -4660,6 +4662,7 @@ var spellsIndex = [
         {
         "key": "bereave",
         "name": "Bereave",
+        "name_zh": "丧亲失友",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["mind-affecting"],
@@ -4925,6 +4928,7 @@ var spellsIndex = [
         {
         "key": "betraying sting",
         "name": "Betraying Sting",
+        "name_zh": "背叛之刺",
         "school": "evocation",
         "levels":         {
             "cleric": 6,
@@ -6827,6 +6831,7 @@ var spellsIndex = [
         {
         "key": "borrowed time",
         "name": "Borrowed Time",
+        "name_zh": "预支未来",
         "school": "transmutation",
         "levels":         {
             "alchemist": 6,
@@ -6926,7 +6931,7 @@ var spellsIndex = [
         {
         "key": "brand of conformity",
         "name": "Brand of Conformity",
-        "name_zh": "服从",
+        "name_zh": "服从烙印",
         "school": "transmutation",
         "descriptors": ["curse"],
         "levels": {"inquisitor": 1},
@@ -7126,6 +7131,7 @@ var spellsIndex = [
         {
         "key": "brightest night",
         "name": "Brightest Night",
+        "name_zh": "至明之夜",
         "school": "transmutation",
         "levels":         {
             "arcanist": 1,
@@ -7436,6 +7442,7 @@ var spellsIndex = [
         {
         "key": "burning arc (keleshite)",
         "name": "Burning Arc (Keleshite)",
+        "name_zh": "弧焰击",
         "school": "evocation",
         "descriptors": ["fire"],
         "levels":         {
@@ -8576,6 +8583,7 @@ var spellsIndex = [
         {
         "key": "celestial companion",
         "name": "Celestial Companion",
+        "name_zh": "天界伙伴",
         "school": "transmutation",
         "levels":         {
             "arcanist": 2,
@@ -8646,6 +8654,7 @@ var spellsIndex = [
         {
         "key": "ceremony",
         "name": "Ceremony",
+        "name_zh": "典礼",
         "school": "transmutation",
         "levels":         {
             "cleric": 1,
@@ -9385,6 +9394,7 @@ var spellsIndex = [
         {
         "key": "clay skin",
         "name": "Clay Skin",
+        "name_zh": "黏土肌肤",
         "school": "abjuration",
         "levels":         {
             "alchemist": 3,
@@ -12065,6 +12075,7 @@ var spellsIndex = [
         {
         "key": "cultural adaptation (taldan)",
         "name": "Cultural Adaptation (Taldan)",
+        "name_zh": "文化适应",
         "school": "divination",
         "levels":         {
             "arcanist": 1,
@@ -13179,6 +13190,7 @@ var spellsIndex = [
         {
         "key": "darkvision, communal",
         "name": "Darkvision, Communal",
+        "name_zh": "共用黑暗视觉",
         "school": "transmutation",
         "levels":         {
             "alchemist": 3,
@@ -13883,6 +13895,7 @@ var spellsIndex = [
         {
         "key": "debilitating speech",
         "name": "Debilitating Speech",
+        "name_zh": "衰弱之言",
         "school": "enchantment",
         "descriptors":         [
             "language-dependent",
@@ -13961,6 +13974,7 @@ var spellsIndex = [
         {
         "key": "decollate",
         "name": "Decollate",
+        "name_zh": "飞头降",
         "school": "necromancy",
         "levels":         {
             "alchemist": 4,
@@ -14222,6 +14236,7 @@ var spellsIndex = [
         {
         "key": "deivon's parry",
         "name": "Deivon's Parry",
+        "name_zh": "代冯神奇格挡",
         "school": "transmutation",
         "levels":         {
             "bard": 1,
@@ -14307,6 +14322,7 @@ var spellsIndex = [
         {
         "key": "delay poison, communal",
         "name": "Delay Poison, Communal",
+        "name_zh": "共用延迟毒发",
         "school": "conjuration",
         "subSchools": ["healing"],
         "levels":         {
@@ -16730,6 +16746,7 @@ var spellsIndex = [
         {
         "key": "drain construct",
         "name": "Drain Construct",
+        "name_zh": "构装体衰弱术",
         "school": "necromancy",
         "levels":         {
             "arcanist": 2,
@@ -18064,6 +18081,7 @@ var spellsIndex = [
         {
         "key": "empathy conduit",
         "name": "Empathy Conduit",
+        "name_zh": "共鸣通道",
         "school": "necromancy",
         "levels":         {
             "arcanist": 5,
@@ -18149,6 +18167,7 @@ var spellsIndex = [
         {
         "key": "endothermic touch",
         "name": "Endothermic Touch",
+        "name_zh": "汲热之触",
         "school": "transmutation",
         "levels":         {
             "arcanist": 1,
@@ -18167,6 +18186,7 @@ var spellsIndex = [
         {
         "key": "endure elements, communal",
         "name": "Endure Elements, Communal",
+        "name_zh": "共用忍受环境",
         "school": "abjuration",
         "levels":         {
             "alchemist": 3,
@@ -18825,6 +18845,7 @@ var spellsIndex = [
         {
         "key": "eroding ray",
         "name": "Eroding Ray",
+        "name_zh": "侵蚀射线",
         "school": "transmutation",
         "levels":         {
             "arcanist": 2,
@@ -19616,6 +19637,7 @@ var spellsIndex = [
         {
         "key": "false age",
         "name": "False Age",
+        "name_zh": "虚假年龄",
         "school": "transmutation",
         "levels":         {
             "alchemist": 2,
@@ -19904,6 +19926,7 @@ var spellsIndex = [
         {
         "key": "fastidiousness",
         "name": "Fastidiousness",
+        "name_zh": "整洁仪容",
         "school": "abjuration",
         "levels":         {
             "arcanist": 1,
@@ -20138,6 +20161,7 @@ var spellsIndex = [
         {
         "key": "ferment",
         "name": "Ferment",
+        "name_zh": "发酵",
         "school": "transmutation",
         "levels":         {
             "alchemist": 1,
@@ -20343,6 +20367,7 @@ var spellsIndex = [
         {
         "key": "fiendish wrath",
         "name": "Fiendish Wrath",
+        "name_zh": "炼狱狂怒",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors":         [
@@ -20988,6 +21013,7 @@ var spellsIndex = [
         {
         "key": "flame steed",
         "name": "Flame Steed",
+        "name_zh": "烈焰驹",
         "school": "conjuration",
         "subSchools": ["creation"],
         "levels":         {
@@ -21173,6 +21199,7 @@ var spellsIndex = [
         {
         "key": "flash flood",
         "name": "Flash Flood",
+        "name_zh": "闪洪术",
         "school": "conjuration",
         "subSchools": ["creation"],
         "descriptors": ["water"],
@@ -21414,6 +21441,7 @@ var spellsIndex = [
         {
         "key": "fleshwarping swarm (drow)",
         "name": "Fleshwarping Swarm (Drow)",
+        "name_zh": "变形虫群",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "levels":         {
@@ -21755,6 +21783,7 @@ var spellsIndex = [
         {
         "key": "fool's gold (aa)",
         "name": "Fool's Gold (AA)",
+        "name_zh": "愚人之金",
         "school": "transmutation",
         "levels":         {
             "alchemist": 1,
@@ -21774,11 +21803,12 @@ var spellsIndex = [
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "Fortitude negates (object, see text)"
+        "savingThrow_zh": "强韧，过则无效（物品，见正文）"
     },
         {
         "key": "fool's gold (vc)",
         "name": "Fool's Gold (VC)",
+        "name_zh": "愚人之金",
         "school": "illusion",
         "levels":         {
             "arcanist": 1,
@@ -21793,7 +21823,7 @@ var spellsIndex = [
         "source": ["Villain Codex pg. 117"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "none or Will disbelief (see text)"
+        "savingThrow_zh": "无 或 意志，通过则不相信 (见下)"
     },
         {
         "key": "fool's teleport",
@@ -21979,6 +22009,7 @@ var spellsIndex = [
         {
         "key": "forced mutation",
         "name": "Forced Mutation",
+        "name_zh": "强迫突变",
         "school": "transmutation",
         "levels":         {
             "arcanist": 3,
@@ -22331,6 +22362,7 @@ var spellsIndex = [
         {
         "key": "fortune's path",
         "name": "Fortune's Path",
+        "name_zh": "命运之路",
         "school": "divination",
         "levels":         {
             "arcanist": 3,
@@ -22435,6 +22467,7 @@ var spellsIndex = [
         {
         "key": "free spirit",
         "name": "Free Spirit",
+        "name_zh": "自由精神",
         "school": "abjuration",
         "levels":         {
             "bard": 3,
@@ -22831,6 +22864,7 @@ var spellsIndex = [
         {
         "key": "funereal weapon",
         "name": "Funereal Weapon",
+        "name_zh": "送葬之刃",
         "school": "transmutation",
         "levels":         {
             "cleric": 1,
@@ -23653,6 +23687,7 @@ var spellsIndex = [
         {
         "key": "glimpse the hidden",
         "name": "Glimpse the Hidden",
+        "name_zh": "瞥见隐藏",
         "school": "divination",
         "levels":         {
             "alchemist": 3,
@@ -24217,6 +24252,7 @@ var spellsIndex = [
         {
         "key": "greater reversion",
         "name": "Greater Reversion",
+        "name_zh": "高等还元术",
         "school": "conjuration",
         "subSchools": ["healing"],
         "levels":         {
@@ -24234,6 +24270,7 @@ var spellsIndex = [
         {
         "key": "green caress",
         "name": "Green Caress",
+        "name_zh": "自然之吻",
         "school": "transmutation",
         "levels":         {
             "druid": 6,
@@ -24694,6 +24731,7 @@ var spellsIndex = [
         {
         "key": "hallucinatory decor",
         "name": "Hallucinatory Decor",
+        "name_zh": "幻影装饰",
         "school": "illusion",
         "subSchools": ["glamer"],
         "levels":         {
@@ -24916,6 +24954,7 @@ var spellsIndex = [
         {
         "key": "harvest knowledge",
         "name": "Harvest Knowledge",
+        "name_zh": "收割知识",
         "school": "divination",
         "descriptors": ["mind-affecting"],
         "levels":         {
@@ -25206,6 +25245,7 @@ var spellsIndex = [
         {
         "key": "healing leak",
         "name": "Healing Leak",
+        "name_zh": "治疗渗漏",
         "school": "necromancy",
         "levels":         {
             "antipaladin": 2,
@@ -25610,6 +25650,7 @@ var spellsIndex = [
         {
         "key": "heroic fortune, mass",
         "name": "Heroic Fortune, Mass",
+        "name_zh": "天降洪福",
         "school": "evocation",
         "levels":         {
             "bard": 4,
@@ -25626,6 +25667,7 @@ var spellsIndex = [
         {
         "key": "heroic fortune",
         "name": "Heroic Fortune",
+        "name_zh": "鸿运当头",
         "school": "evocation",
         "levels":         {
             "alchemist": 2,
@@ -25957,6 +25999,7 @@ var spellsIndex = [
         {
         "key": "hide from undead, greater",
         "name": "Hide from Undead, Greater",
+        "name_zh": "高等亡灵无视术",
         "school": "abjuration",
         "levels":         {
             "cleric": 3,
@@ -26589,6 +26632,7 @@ var spellsIndex = [
         {
         "key": "hostile juxtaposition, greater",
         "name": "Hostile Juxtaposition, Greater",
+        "name_zh": "高等恶意换位",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -27379,6 +27423,7 @@ var spellsIndex = [
         {
         "key": "identifier's eye",
         "name": "Identifier's Eye",
+        "name_zh": "鉴别者之眼",
         "school": "divination",
         "levels":         {
             "alchemist": 2,
@@ -27995,6 +28040,7 @@ var spellsIndex = [
         {
         "key": "incessant buzzing",
         "name": "Incessant Buzzing",
+        "name_zh": "无尽嗡鸣",
         "school": "illusion",
         "subSchools": ["figment"],
         "levels":         {
@@ -28324,6 +28370,7 @@ var spellsIndex = [
         {
         "key": "influence wild magic",
         "name": "Influence Wild Magic",
+        "name_zh": "野魔法稳定场",
         "school": "abjuration",
         "levels":         {
             "arcanist": 2,
@@ -29185,6 +29232,7 @@ var spellsIndex = [
         {
         "key": "invisibility bubble, giant",
         "name": "Invisibility Bubble, Giant",
+        "name_zh": "巨型隐形气泡",
         "school": "illusion",
         "subSchools": ["glamer"],
         "levels":         {
@@ -29207,6 +29255,7 @@ var spellsIndex = [
         {
         "key": "invisibility bubble, mass",
         "name": "Invisibility Bubble, Mass",
+        "name_zh": "群体隐形气泡",
         "school": "illusion",
         "subSchools": ["glamer"],
         "levels":         {
@@ -30259,6 +30308,7 @@ var spellsIndex = [
         {
         "key": "knock, mass",
         "name": "Knock, Mass",
+        "name_zh": "群体敲击术",
         "school": "transmutation",
         "levels":         {
             "arcanist": 6,
@@ -30831,6 +30881,7 @@ var spellsIndex = [
         {
         "key": "life conduit, greater",
         "name": "Life Conduit, Greater",
+        "name_zh": "高等生命通道",
         "school": "conjuration",
         "subSchools": ["healing"],
         "levels":         {
@@ -31370,6 +31421,7 @@ var spellsIndex = [
         {
         "key": "litany of admonition",
         "name": "Litany of Admonition",
+        "name_zh": "告诫祷言",
         "school": "necromancy",
         "descriptors": ["language-dependent"],
         "levels":         {
@@ -31400,6 +31452,7 @@ var spellsIndex = [
         {
         "key": "litany of dependability",
         "name": "Litany of Dependability",
+        "name_zh": "相依祷言",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["lawful"],
@@ -31415,6 +31468,7 @@ var spellsIndex = [
         {
         "key": "litany of duty",
         "name": "Litany of Duty",
+        "name_zh": "责任祷言",
         "school": "abjuration",
         "descriptors": ["lawful"],
         "levels":         {
@@ -31502,6 +31556,7 @@ var spellsIndex = [
         {
         "key": "litany of order",
         "name": "Litany of Order",
+        "name_zh": "秩序祷言",
         "school": "evocation",
         "descriptors":         [
             "lawful",
@@ -31610,7 +31665,7 @@ var spellsIndex = [
         {
         "key": "litany of truth",
         "name": "Litany of Truth",
-        "name_zh": "诚实祷言/真视祷言",
+        "name_zh": "诚实祷言",
         "school": "divination",
         "descriptors": ["language-dependent"],
         "levels":         {
@@ -32013,6 +32068,7 @@ var spellsIndex = [
         {
         "key": "lost locale",
         "name": "Lost Locale",
+        "name_zh": "迷失方位",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["mind-affecting"],
@@ -32030,6 +32086,7 @@ var spellsIndex = [
         {
         "key": "lost passage",
         "name": "Lost Passage",
+        "name_zh": "迷路术",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["mind-affecting"],
@@ -33050,6 +33107,7 @@ var spellsIndex = [
         {
         "key": "malediction (hero points)",
         "name": "Malediction (Hero Points)",
+        "name_zh": "恶意中伤",
         "school": "necromancy",
         "descriptors":         [
             "death",
@@ -33291,6 +33349,7 @@ var spellsIndex = [
         {
         "key": "mark of buoyancy",
         "name": "Mark of Buoyancy",
+        "name_zh": "漂浮印记",
         "school": "transmutation",
         "levels":         {
             "arcanist": 3,
@@ -33350,6 +33409,7 @@ var spellsIndex = [
         {
         "key": "mark of spite",
         "name": "Mark of Spite",
+        "name_zh": "怨恨之印",
         "school": "necromancy",
         "levels":         {
             "arcanist": 3,
@@ -33466,6 +33526,7 @@ var spellsIndex = [
         {
         "key": "mask dweomer, communal",
         "name": "Mask Dweomer, Communal",
+        "name_zh": "共用掩饰魔力",
         "school": "illusion",
         "subSchools": ["glamer"],
         "levels":         {
@@ -33656,6 +33717,7 @@ var spellsIndex = [
         {
         "key": "mathematical curse",
         "name": "Mathematical Curse",
+        "name_zh": "数学诅咒",
         "school": "necromancy",
         "descriptors": ["curse"],
         "levels":         {
@@ -33678,6 +33740,7 @@ var spellsIndex = [
         {
         "key": "maw of chaos",
         "name": "Maw of Chaos",
+        "name_zh": "混沌之喉",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "descriptors": ["chaotic"],
@@ -34120,6 +34183,7 @@ var spellsIndex = [
         {
         "key": "mind blank, communal",
         "name": "Mind Blank, Communal",
+        "name_zh": "共用心灵屏障",
         "school": "abjuration",
         "levels":         {
             "arcanist": 9,
@@ -34548,6 +34612,7 @@ var spellsIndex = [
         {
         "key": "minor reversion, mass",
         "name": "Minor Reversion, Mass",
+        "name_zh": "群体弱效还元术",
         "school": "conjuration",
         "subSchools": ["healing"],
         "levels":         {
@@ -34565,6 +34630,7 @@ var spellsIndex = [
         {
         "key": "minor reversion",
         "name": "Minor Reversion",
+        "name_zh": "弱效还元术",
         "school": "conjuration",
         "subSchools": ["healing"],
         "levels":         {
@@ -34880,6 +34946,7 @@ var spellsIndex = [
         {
         "key": "mnemonic siphon",
         "name": "Mnemonic Siphon",
+        "name_zh": "记忆虹吸",
         "school": "divination",
         "levels":         {
             "arcanist": 4,
@@ -35293,9 +35360,7 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Monster Codex pg. 105"],
-        "castingTime_zh": "标准动作",
-        "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧通过则无效"
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "mudball",
@@ -35366,6 +35431,7 @@ var spellsIndex = [
         {
         "key": "murderous crow",
         "name": "Murderous Crow",
+        "name_zh": "凶暴乌鸦",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "descriptors": ["see text"],
@@ -35552,6 +35618,7 @@ var spellsIndex = [
         {
         "key": "named bullet, greater",
         "name": "Named Bullet, Greater",
+        "name_zh": "高等指名狙杀",
         "school": "divination",
         "levels":         {
             "arcanist": 6,
@@ -35748,6 +35815,7 @@ var spellsIndex = [
         {
         "key": "necrostasis",
         "name": "Necrostasis",
+        "name_zh": "坏死",
         "school": "necromancy",
         "levels":         {
             "arcanist": 3,
@@ -36091,6 +36159,7 @@ var spellsIndex = [
         {
         "key": "nondetection, communal",
         "name": "Nondetection, Communal",
+        "name_zh": "共用回避侦测",
         "school": "abjuration",
         "levels":         {
             "antipaladin": 4,
@@ -36159,6 +36228,7 @@ var spellsIndex = [
         {
         "key": "numerological evocation",
         "name": "Numerological Evocation",
+        "name_zh": "命理塑能",
         "school": "evocation",
         "levels":         {
             "arcanist": 3,
@@ -36175,6 +36245,7 @@ var spellsIndex = [
         {
         "key": "numerological resistance",
         "name": "Numerological Resistance",
+        "name_zh": "命理抗力",
         "school": "abjuration",
         "levels":         {
             "arcanist": 3,
@@ -36849,6 +36920,7 @@ var spellsIndex = [
         {
         "key": "overlook",
         "name": "Overlook",
+        "name_zh": "无视",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["mind-affecting"],
@@ -36863,6 +36935,7 @@ var spellsIndex = [
         {
         "key": "overstimulate",
         "name": "Overstimulate",
+        "name_zh": "激情四溢",
         "school": "transmutation",
         "levels":         {
             "alchemist": 2,
@@ -37112,6 +37185,7 @@ var spellsIndex = [
         {
         "key": "painful revelation",
         "name": "Painful Revelation",
+        "name_zh": "痛苦启示",
         "school": "abjuration",
         "descriptors":         [
             "mind-affecting",
@@ -37742,6 +37816,7 @@ var spellsIndex = [
         {
         "key": "pernicious pranksters",
         "name": "Pernicious Pranksters",
+        "name_zh": "恶作剧小鬼",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "levels":         {
@@ -37817,6 +37892,7 @@ var spellsIndex = [
         {
         "key": "pesh addiction, lesser",
         "name": "Pesh Addiction, Lesser",
+        "name_zh": "次级仙人掌粹成瘾",
         "school": "necromancy",
         "levels": {"sahirafiyun": 3},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
@@ -37827,6 +37903,7 @@ var spellsIndex = [
         {
         "key": "pesh addiction",
         "name": "Pesh Addiction",
+        "name_zh": "仙人掌粹成瘾",
         "school": "necromancy",
         "levels": {"sahirafiyun": 5},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
@@ -38160,6 +38237,7 @@ var spellsIndex = [
         {
         "key": "phantom steed, communal",
         "name": "Phantom Steed, Communal",
+        "name_zh": "共用魅影驹",
         "school": "conjuration",
         "subSchools": ["creation"],
         "levels":         {
@@ -38244,6 +38322,7 @@ var spellsIndex = [
         {
         "key": "phase step",
         "name": "Phase Step",
+        "name_zh": "相位步伐",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -38469,6 +38548,7 @@ var spellsIndex = [
         {
         "key": "pillow talk",
         "name": "Pillow Talk",
+        "name_zh": "枕边风",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors":         [
@@ -38495,6 +38575,7 @@ var spellsIndex = [
         {
         "key": "pinecone bomb",
         "name": "Pinecone Bomb",
+        "name_zh": "松果炸弹",
         "school": "evocation",
         "levels":         {
             "druid": 2,
@@ -38611,6 +38692,7 @@ var spellsIndex = [
         {
         "key": "planar adaptation, mass",
         "name": "Planar Adaptation, Mass",
+        "name_zh": "群体位面适应",
         "school": "transmutation",
         "levels":         {
             "arcanist": 7,
@@ -38651,13 +38733,12 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Advanced Player's Guide pg. 236"],
-        "castingTime_zh": "标准动作",
-        "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志，通过则无效 (无害)"
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "planar aegis",
         "name": "Planar Aegis",
+        "name_zh": "位面防护",
         "school": "abjuration",
         "levels":         {
             "arcanist": 5,
@@ -39241,6 +39322,7 @@ var spellsIndex = [
         {
         "key": "poisonous cloud",
         "name": "Poisonous Cloud",
+        "name_zh": "毒云术",
         "school": "conjuration",
         "subSchools": ["creation"],
         "descriptors": ["poison"],
@@ -39724,6 +39806,7 @@ var spellsIndex = [
         {
         "key": "preserve",
         "name": "Preserve",
+        "name_zh": "保鲜",
         "school": "necromancy",
         "levels":         {
             "adept": 1,
@@ -39879,6 +39962,7 @@ var spellsIndex = [
         {
         "key": "probe history",
         "name": "Probe History",
+        "name_zh": "调查历史",
         "school": "divination",
         "levels":         {
             "arcanist": 4,
@@ -40020,6 +40104,7 @@ var spellsIndex = [
         {
         "key": "prophetic lore",
         "name": "Prophetic Lore",
+        "name_zh": "通晓预言",
         "school": "divination",
         "levels":         {
             "arcanist": 6,
@@ -40049,6 +40134,7 @@ var spellsIndex = [
         {
         "key": "protection from arrows, communal",
         "name": "Protection from Arrows, Communal",
+        "name_zh": "共用防护箭矢",
         "school": "abjuration",
         "levels":         {
             "alchemist": 3,
@@ -40090,6 +40176,7 @@ var spellsIndex = [
         {
         "key": "protection from chaos, communal",
         "name": "Protection from Chaos, Communal",
+        "name_zh": "共用防护混乱",
         "school": "abjuration",
         "descriptors": ["lawful"],
         "levels":         {
@@ -40140,6 +40227,7 @@ var spellsIndex = [
         {
         "key": "protection from energy, communal",
         "name": "Protection from Energy, Communal",
+        "name_zh": "共用防护能量伤害",
         "school": "abjuration",
         "levels":         {
             "arcanist": 4,
@@ -40195,6 +40283,7 @@ var spellsIndex = [
         {
         "key": "protection from evil, communal",
         "name": "Protection from Evil, Communal",
+        "name_zh": "共用防护邪恶",
         "school": "abjuration",
         "descriptors": ["good"],
         "levels":         {
@@ -40245,6 +40334,7 @@ var spellsIndex = [
         {
         "key": "protection from good, communal",
         "name": "Protection from Good, Communal",
+        "name_zh": "共用防护善良",
         "school": "abjuration",
         "descriptors": ["evil"],
         "levels":         {
@@ -40295,6 +40385,7 @@ var spellsIndex = [
         {
         "key": "protection from law, communal",
         "name": "Protection from Law, Communal",
+        "name_zh": "共用防护守序",
         "school": "abjuration",
         "descriptors": ["chaotic"],
         "levels":         {
@@ -40367,7 +40458,7 @@ var spellsIndex = [
         {
         "key": "protection from outsiders",
         "name": "Protection from Outsiders",
-        "name_zh": "﹝见正文﹞防护异界生物",
+        "name_zh": "防护异界生物",
         "school": "abjuration",
         "descriptors": ["see text"],
         "levels":         {
@@ -41574,6 +41665,7 @@ var spellsIndex = [
         {
         "key": "realm retribution",
         "name": "Realm Retribution",
+        "name_zh": "领域惩戒",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -41816,6 +41908,7 @@ var spellsIndex = [
         {
         "key": "redcap's touch",
         "name": "Redcap's Touch",
+        "name_zh": "红帽之触",
         "school": "transmutation",
         "levels":         {
             "antipaladin": 4,
@@ -42009,6 +42102,7 @@ var spellsIndex = [
         {
         "key": "reinforce armaments, communal",
         "name": "Reinforce Armaments, Communal",
+        "name_zh": "共用强固武装",
         "school": "transmutation",
         "levels":         {
             "arcanist": 2,
@@ -42885,6 +42979,7 @@ var spellsIndex = [
         {
         "key": "respectful quiet",
         "name": "Respectful Quiet",
+        "name_zh": "静音术",
         "school": "illusion",
         "subSchools": ["glamer"],
         "levels":         {
@@ -43218,6 +43313,7 @@ var spellsIndex = [
         {
         "key": "returning weapon, communal",
         "name": "Returning Weapon, Communal",
+        "name_zh": "共用回力武器",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -43311,6 +43407,7 @@ var spellsIndex = [
         {
         "key": "reveal secrets",
         "name": "Reveal Secrets",
+        "name_zh": "揭示秘密",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors":         [
@@ -43578,6 +43675,7 @@ var spellsIndex = [
         {
         "key": "righteous condemnation",
         "name": "Righteous Condemnation",
+        "name_zh": "正义谴责",
         "school": "abjuration",
         "descriptors":         [
             "good",
@@ -43854,6 +43952,7 @@ var spellsIndex = [
         {
         "key": "rope tornado",
         "name": "Rope Tornado",
+        "name_zh": "细龙卷",
         "school": "evocation",
         "descriptors": ["air"],
         "levels":         {
@@ -44068,6 +44167,7 @@ var spellsIndex = [
         {
         "key": "rune of rule",
         "name": "Rune of Rule",
+        "name_zh": "准则符文",
         "school": "transmutation",
         "levels":         {
             "arcanist": 2,
@@ -44577,6 +44677,7 @@ var spellsIndex = [
         {
         "key": "scale spikes",
         "name": "Scale Spikes",
+        "name_zh": "鳞刺",
         "school": "transmutation",
         "levels":         {
             "alchemist": 2,
@@ -44670,6 +44771,7 @@ var spellsIndex = [
         {
         "key": "scarify",
         "name": "Scarify",
+        "name_zh": "疤化",
         "school": "necromancy",
         "levels":         {
             "adept": 1,
@@ -45704,6 +45806,7 @@ var spellsIndex = [
         {
         "key": "seismic fissure",
         "name": "Seismic Fissure",
+        "name_zh": "地裂术",
         "school": "transmutation",
         "descriptors": ["earth"],
         "levels":         {
@@ -45814,6 +45917,7 @@ var spellsIndex = [
         {
         "key": "sense fear",
         "name": "Sense Fear",
+        "name_zh": "感知恐惧",
         "school": "divination",
         "levels":         {
             "antipaladin": 1,
@@ -46088,6 +46192,7 @@ var spellsIndex = [
         {
         "key": "severed fate",
         "name": "Severed Fate",
+        "name_zh": "听天由命",
         "school": "enchantment",
         "levels":         {
             "cleric": 3,
@@ -46302,7 +46407,7 @@ var spellsIndex = [
         {
         "key": "shadow enchantment, greater",
         "name": "Shadow Enchantment, Greater",
-        "name_zh": "高等幽影幻惑/高等幽影惑控",
+        "name_zh": "高等幽影惑控",
         "school": "illusion",
         "subSchools": ["shadow"],
         "descriptors": ["shadow"],
@@ -46321,7 +46426,7 @@ var spellsIndex = [
         {
         "key": "shadow enchantment",
         "name": "Shadow Enchantment",
-        "name_zh": "幽影幻惑/幽影惑控",
+        "name_zh": "幽影惑控",
         "school": "illusion",
         "subSchools": ["shadow"],
         "descriptors": ["shadow"],
@@ -46340,6 +46445,7 @@ var spellsIndex = [
         {
         "key": "shadow endurance",
         "name": "Shadow Endurance",
+        "name_zh": "幽影耐力",
         "school": "illusion",
         "subSchools": ["shadow"],
         "descriptors": ["shadow"],
@@ -46434,13 +46540,12 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Villain Codex pg. 81"],
-        "castingTime_zh": "标准动作",
-        "spellResistance_zh": "无",
-        "savingThrow_zh": "无 或 意志，通过则不相信 (见下)"
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "shadow of doubt",
         "name": "Shadow of Doubt",
+        "name_zh": "怀疑之影",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors":         [
@@ -46854,6 +46959,7 @@ var spellsIndex = [
         {
         "key": "share language, communal",
         "name": "Share Language, Communal",
+        "name_zh": "共用共享语言",
         "school": "divination",
         "levels":         {
             "arcanist": 3,
@@ -47031,6 +47137,7 @@ var spellsIndex = [
         {
         "key": "shared training",
         "name": "Shared Training",
+        "name_zh": "共享训练",
         "school": "divination",
         "descriptors": ["mind-affecting"],
         "levels":         {
@@ -47133,6 +47240,7 @@ var spellsIndex = [
         {
         "key": "shield companion (aa)",
         "name": "Shield Companion (AA)",
+        "name_zh": "护卫伙伴",
         "school": "abjuration",
         "levels":         {
             "antipaladin": 1,
@@ -47153,6 +47261,7 @@ var spellsIndex = [
         {
         "key": "shield companion (acg)",
         "name": "Shield Companion (ACG)",
+        "name_zh": "护卫宠伴",
         "school": "abjuration",
         "levels":         {
             "arcanist": 3,
@@ -47677,6 +47786,7 @@ var spellsIndex = [
         {
         "key": "shroud of darkness",
         "name": "Shroud of Darkness",
+        "name_zh": "黑暗帷幕",
         "school": "evocation",
         "descriptors": ["darkness"],
         "levels":         {
@@ -47785,6 +47895,7 @@ var spellsIndex = [
         {
         "key": "siege scatter",
         "name": "Siege Scatter",
+        "name_zh": "破碎重围",
         "school": "evocation",
         "descriptors": ["earth"],
         "levels":         {
@@ -48167,6 +48278,7 @@ var spellsIndex = [
         {
         "key": "skim",
         "name": "Skim",
+        "name_zh": "速读法",
         "school": "divination",
         "levels":         {
             "alchemist": 1,
@@ -48644,6 +48756,7 @@ var spellsIndex = [
         {
         "key": "snow shape (ulfen)",
         "name": "Snow Shape (Ulfen)",
+        "name_zh": "冰雪塑形",
         "school": "transmutation",
         "descriptors": ["water"],
         "levels":         {
@@ -49040,6 +49153,7 @@ var spellsIndex = [
         {
         "key": "soul vault",
         "name": "Soul Vault",
+        "name_zh": "灵魂窖",
         "school": "abjuration",
         "levels":         {
             "arcanist": 4,
@@ -49338,6 +49452,7 @@ var spellsIndex = [
         {
         "key": "speak with plane",
         "name": "Speak with Plane",
+        "name_zh": "位面交流",
         "school": "divination",
         "levels":         {
             "arcanist": 4,
@@ -49565,6 +49680,7 @@ var spellsIndex = [
         {
         "key": "spell immunity, communal",
         "name": "Spell Immunity, Communal",
+        "name_zh": "共用法术免疫",
         "school": "abjuration",
         "levels":         {
             "cleric": 5,
@@ -49582,6 +49698,7 @@ var spellsIndex = [
         {
         "key": "spell immunity, greater communal",
         "name": "Spell Immunity, Greater Communal",
+        "name_zh": "共用高等法术免疫",
         "school": "abjuration",
         "levels":         {
             "cleric": 9,
@@ -49895,6 +50012,7 @@ var spellsIndex = [
         {
         "key": "spider climb, communal",
         "name": "Spider Climb, Communal",
+        "name_zh": "共用蛛行术",
         "school": "transmutation",
         "levels":         {
             "alchemist": 3,
@@ -50042,6 +50160,7 @@ var spellsIndex = [
         {
         "key": "spiral ascent",
         "name": "Spiral Ascent",
+        "name_zh": "螺旋上升",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -50058,6 +50177,7 @@ var spellsIndex = [
         {
         "key": "spiral descent",
         "name": "Spiral Descent",
+        "name_zh": "螺旋下降",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "levels":         {
@@ -50104,6 +50224,7 @@ var spellsIndex = [
         {
         "key": "spirit share",
         "name": "Spirit Share",
+        "name_zh": "共享精神",
         "school": "transmutation",
         "levels":         {
             "alchemist": 1,
@@ -50998,6 +51119,7 @@ var spellsIndex = [
         {
         "key": "stoneskin, communal",
         "name": "Stoneskin, Communal",
+        "name_zh": "共用石肤术",
         "school": "abjuration",
         "levels":         {
             "alchemist": 5,
@@ -51110,6 +51232,7 @@ var spellsIndex = [
         {
         "key": "storm step",
         "name": "Storm Step",
+        "name_zh": "风暴跨步",
         "school": "conjuration",
         "subSchools": ["teleportation"],
         "descriptors": ["electricity"],
@@ -51423,6 +51546,7 @@ var spellsIndex = [
         {
         "key": "suffocation, instant",
         "name": "Suffocation, Instant",
+        "name_zh": "即刻窒息",
         "school": "necromancy",
         "descriptors": ["death"],
         "levels": {"sahirafiyun": 5},
@@ -51451,6 +51575,7 @@ var spellsIndex = [
         {
         "key": "suffocation, slow",
         "name": "Suffocation, Slow",
+        "name_zh": "缓慢窒息",
         "school": "necromancy",
         "descriptors": ["death"],
         "levels": {"sahirafiyun": 2},
@@ -51916,6 +52041,7 @@ var spellsIndex = [
         {
         "key": "summon greater demon",
         "name": "Summon Greater Demon",
+        "name_zh": "召唤高等恶魔",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "descriptors":         [
@@ -51983,6 +52109,7 @@ var spellsIndex = [
         {
         "key": "summon kami",
         "name": "Summon Kami",
+        "name_zh": "召唤社神",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "levels":         {
@@ -52510,6 +52637,7 @@ var spellsIndex = [
         {
         "key": "summon ship",
         "name": "Summon Ship",
+        "name_zh": "召唤船舰",
         "school": "conjuration",
         "subSchools": ["creation"],
         "levels":         {
@@ -52598,6 +52726,7 @@ var spellsIndex = [
         {
         "key": "summon totem creature (shoanti)",
         "name": "Summon Totem Creature (Shoanti)",
+        "name_zh": "召唤图腾生物",
         "school": "conjuration",
         "subSchools": ["summoning"],
         "levels":         {
@@ -52897,9 +53026,7 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 223"],
         "race": "Azlanti",
-        "castingTime_zh": "标准动作",
-        "spellResistance_zh": "可",
-        "savingThrow_zh": "无，见下"
+        "castingTime_zh": "标准动作"
     },
         {
         "key": "sure casting",
@@ -53547,6 +53674,7 @@ var spellsIndex = [
         {
         "key": "symbol of storms",
         "name": "Symbol of Storms",
+        "name_zh": "风暴徽记",
         "school": "evocation",
         "descriptors":         [
             "air",
@@ -54016,6 +54144,7 @@ var spellsIndex = [
         {
         "key": "talisman of reprieve",
         "name": "Talisman of Reprieve",
+        "name_zh": "缓解护符",
         "school": "abjuration",
         "levels":         {
             "cleric": 5,
@@ -54613,6 +54742,7 @@ var spellsIndex = [
         {
         "key": "temporary graft",
         "name": "Temporary Graft",
+        "name_zh": "暂时嫁接",
         "school": "transmutation",
         "levels":         {
             "alchemist": 3,
@@ -55362,6 +55492,7 @@ var spellsIndex = [
         {
         "key": "tongues, communal",
         "name": "Tongues, Communal",
+        "name_zh": "共用巧言术",
         "school": "divination",
         "levels":         {
             "alchemist": 4,
@@ -55811,6 +55942,7 @@ var spellsIndex = [
         {
         "key": "toxic blood",
         "name": "Toxic Blood",
+        "name_zh": "毒血",
         "school": "transmutation",
         "descriptors": ["poison"],
         "levels":         {
@@ -56263,6 +56395,7 @@ var spellsIndex = [
         {
         "key": "traveling dream",
         "name": "Traveling Dream",
+        "name_zh": "梦境旅游",
         "school": "divination",
         "subSchools": ["scrying"],
         "levels":         {
@@ -56471,6 +56604,7 @@ var spellsIndex = [
         {
         "key": "true appraisal",
         "name": "True Appraisal",
+        "name_zh": "真估术",
         "school": "divination",
         "levels":         {
             "bard": 1,
@@ -57123,6 +57257,7 @@ var spellsIndex = [
         {
         "key": "undeath sense",
         "name": "Undeath Sense",
+        "name_zh": "亡灵感知",
         "school": "divination",
         "levels":         {
             "alchemist": 2,
@@ -57319,6 +57454,7 @@ var spellsIndex = [
         {
         "key": "unflappable mien",
         "name": "Unflappable Mien",
+        "name_zh": "镇定自若",
         "school": "evocation",
         "descriptors": ["force"],
         "levels":         {
@@ -57357,6 +57493,7 @@ var spellsIndex = [
         {
         "key": "unhallowed blows, greater",
         "name": "Unhallowed Blows, Greater",
+        "name_zh": "高等不洁邪击",
         "school": "transmutation",
         "descriptors": ["evil"],
         "levels":         {
@@ -57378,6 +57515,7 @@ var spellsIndex = [
         {
         "key": "unhallowed blows",
         "name": "Unhallowed Blows",
+        "name_zh": "不洁邪击",
         "school": "transmutation",
         "descriptors": ["evil"],
         "levels":         {
@@ -57519,6 +57657,7 @@ var spellsIndex = [
         {
         "key": "unleash pandemonium",
         "name": "Unleash Pandemonium",
+        "name_zh": "释放混乱",
         "school": "conjuration",
         "descriptors": ["chaotic"],
         "levels":         {
@@ -57648,6 +57787,7 @@ var spellsIndex = [
         {
         "key": "unravel destiny",
         "name": "Unravel Destiny",
+        "name_zh": "天煞孤星",
         "school": "divination",
         "levels":         {
             "arcanist": 3,
@@ -57822,6 +57962,7 @@ var spellsIndex = [
         {
         "key": "untold wonder",
         "name": "Untold Wonder",
+        "name_zh": "无尽惊奇",
         "school": "enchantment",
         "subSchools": ["compulsion"],
         "descriptors": ["mind-affecting"],
@@ -58309,6 +58450,7 @@ var spellsIndex = [
         {
         "key": "vermicious assumption",
         "name": "Vermicious Assumption",
+        "name_zh": "蠕虫替身",
         "school": "conjuration",
         "subSchools": ["calling"],
         "descriptors":         [
@@ -58643,6 +58785,7 @@ var spellsIndex = [
         {
         "key": "violent misfire, greater",
         "name": "Violent Misfire, Greater",
+        "name_zh": "群体爆裂哑火",
         "school": "evocation",
         "levels":         {
             "arcanist": 6,
@@ -58657,6 +58800,7 @@ var spellsIndex = [
         {
         "key": "violent misfire",
         "name": "Violent Misfire",
+        "name_zh": "爆裂哑火",
         "school": "evocation",
         "levels":         {
             "arcanist": 3,
@@ -59161,6 +59305,7 @@ var spellsIndex = [
         {
         "key": "wall of brine",
         "name": "Wall of Brine",
+        "name_zh": "咸水之墙",
         "school": "conjuration",
         "subSchools": ["creation"],
         "descriptors": ["water"],
@@ -59386,6 +59531,7 @@ var spellsIndex = [
         {
         "key": "wall of silver",
         "name": "Wall of Silver",
+        "name_zh": "白银之墙",
         "school": "abjuration",
         "descriptors": ["good"],
         "levels":         {
@@ -59736,6 +59882,7 @@ var spellsIndex = [
         {
         "key": "watchful eye",
         "name": "Watchful Eye",
+        "name_zh": "警戒之眼",
         "school": "abjuration",
         "levels":         {
             "cleric": 1,
@@ -59804,6 +59951,7 @@ var spellsIndex = [
         {
         "key": "water walk, communal",
         "name": "Water Walk, Communal",
+        "name_zh": "共用水上行走",
         "school": "transmutation",
         "descriptors": ["water"],
         "levels":         {
@@ -60537,6 +60685,7 @@ var spellsIndex = [
         {
         "key": "wing bounty",
         "name": "Wing Bounty",
+        "name_zh": "绿翼馈赠",
         "school": "conjuration",
         "subSchools": ["creation"],
         "levels":         {
@@ -60817,6 +60966,7 @@ var spellsIndex = [
         {
         "key": "woodland rune",
         "name": "Woodland Rune",
+        "name_zh": "林地符文",
         "school": "abjuration",
         "levels":         {
             "druid": 3,

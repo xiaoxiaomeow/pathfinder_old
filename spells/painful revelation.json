@@ -27,9 +27,13 @@
     "savingThrow": "Will partial",
     "spellResistance": "no",
     "text": "You augment an ongoing illusion effect to strike out painfully at creatures that see through it. When a creature successfully disbelieves an illusion that is the target of <i>painful revelation<\/i>, it takes 1d6 points of nonlethal damage for every 2 caster levels you have (maximum 10d6) and is staggered for 1d4 rounds. A successful Will save reduces the nonlethal damage by half and negates the staggered effect. Once <i>painful revelation<\/i> has been triggered, the spell ends.<br><br> However, creatures under the effect of spells such as <i>true seeing<\/i> that automatically pierce illusions are not subject to this effect.",
+    "name_zh": "痛苦启示",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个持续性幻术效果",
     "duration_zh": "1小时/等级 或 直至能量散发",
     "savingThrow_zh": "意志, 通过则部分生效",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>当有生物成功地不相信你施加了痛苦启示（painful revelation）的幻术效果时，会受到1d6/2CL（最多10d6）非致命伤害并恍惚1d4轮。一次成功的意志豁免可以减半非致命伤害并使恍惚效果无效。一旦这个痛苦启示（painful revelation）被触发，则法术结束。<\/p><p>然而，受真知术（true seeing）影响而看破幻术的的目标，不会受到痛苦启示（painful revelation）的影响。<\/p>"
 }

@@ -28,9 +28,12 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "no",
     "text": "This spell functions like <i>tongues<\/i>, except you divide the duration in 10-minute intervals among the creatures touched.",
+    "name_zh": "共用巧言术",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
+    "target_zh": "接触到的复数生物",
     "duration_zh": "10分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "不可"
+    "spellResistance_zh": "不可",
+    "text_zh": "<p><\/p><p><\/p><p>这个法术工作方式如同巧言术 (Tongues)，不过你可以将持续时间以10分钟为单位分配给接触到的复数生物。<\/p>"
 }

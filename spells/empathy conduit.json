@@ -18,9 +18,13 @@
     "savingThrow": "Will negates",
     "spellResistance": "yes",
     "text": "You make a conduit between the targeted master and her familiar, allowing you to target the master or the familiar with your spells in order to affect the other. If the master succeeds at its save to resist this spell but the familiar fails, you can choose to have your spells that target the master affect the familiar instead. If the familiar resists but the master doesn’t, your spells that target the familiar can affect the master instead. If both the familiar and the master fail to resist this spell, you can affect either the familiar or the master when you target either with a spell. When you target the master to affect her familiar or vice versa, the target attempts a save (if one is allowed) with its own saving throw bonus, but the other creature is affected by the spell.<br><br> Only spells that target one or more creatures can be cast through <i>empathy conduit<\/i>. The creature to be affected must still be a valid target of the spell being cast; for example, you can’t affect a familiar with <i>charm person<\/i> through an <i>empathy conduit<\/i>. Spells with a duration other than instantaneous that are cast through an <i>empathy conduit<\/i> last either their normal duration or until the <i>empathy conduit<\/i> expires, whichever comes first. Whenever the master or its familiar is targeted with a spell intended to affect the other creature, the targeted creature can attempt an additional save against the <i>empathy conduit<\/i>.",
+    "name_zh": "共鸣通道",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，器材（玻璃棒）",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "1个动物伙伴、魔宠或其他联结生物（bonded creature）以及其主人，彼此之间的距离不得超过30呎",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则无效",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你造目标主人和其魔宠之间建立了一种通道，这使得你在对主人或其魔宠施放法术时，可以影响到它们两者间的另一方。若主人成功通过豁免以抵抗本法术，而魔宠豁免失败的话，你能够选择让原本以法师为目标的法术转而影响魔宠作为替代。若魔宠抵抗本法术而主人豁免失败，你以魔宠为目标的法术可以转而影响主人作为替代。若两者都在对抗本法术的豁免中失败的话，那么无论你的法术以其中哪一方为目标，都可以选择影响主人或魔宠。当你以主人为目标去影响她的魔宠时（反之亦然），目标可以使用自己的豁免加值尝试一次豁免（若法术允许豁免），但受法术影响的会是另外一方。<\/p><p>只有以1个或更多个生物为目标的法术能够通过共鸣通道来施放。被影响的生物仍旧需要是法术的有效目标才能进行施放，例如：你无法通过共鸣通道来使用魅惑人类（Charm Person）影响魔宠。若通过共鸣通道施放的法术的持续时间不是立即，那么法术的持续时间为其正常的持续时间或者直至共鸣通道失效为止，以较先发生者为准。每当主人或其魔宠成为法术的目标，而这个法术是为了影响另一方的话，那么目标生物可以尝试一次额外的豁免以对抗共鸣通道。<\/p>"
 }

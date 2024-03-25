@@ -25,10 +25,14 @@
     "savingThrow": "Will partial (see text)",
     "spellResistance": "yes",
     "text": "You create a shadowy aura of doubt fueled by a foe’s own inner flaws. Targets perceive all illumination as if it were one light level darker, to a minimum light level of darkness (not supernatural darkness), even on a successful saving throw.<br><br> Fleeting mental shadows of regrets and anxieties distract the spell’s targets; at the start of each of their turns, they must each succeed at a Will save or be staggered for 1 round. A good-aligned target takes a –4 penalty on saving throws against this effect; an evil-aligned target gains a +4 bonus instead.",
+    "name_zh": "怀疑之影",
     "race_zh": "Tiefling",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "一个生物/3等级",
     "duration_zh": "1轮/等级",
     "savingThrow_zh": "意志, 通过则部分; 见文本",
-    "spellResistance_zh": "可"
+    "spellResistance_zh": "可",
+    "text_zh": "<p><\/p><p><\/p><p>你在敌人身上创造出一种由敌人自身的内在缺陷与疑虑之心而滋长散发出的幽暗灵光。目标在对待所有的照明时都被视为处于更暗一级的照明条件下，最暗到普通黑暗，即使豁免成功也是如此。<\/p><p>不断涌上脑海的后悔与焦虑感会分散受术者的注意力;  在每个回合开始时，他们都必须通过意志豁免，否则会恍惚 1 轮。一个善良阵营的目标在对抗此效果的豁免检定上受到-4减值; 邪恶阵营的目标则获得+4加值。<\/p>"
 }

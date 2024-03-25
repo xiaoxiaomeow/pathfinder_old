@@ -24,9 +24,13 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell empowers the natural attacks or unarmed strikes of undead creatures, granting a +1 enhancement bonus on attack and damage rolls made by the target with its unarmed strikes or attacks with one natural attack. This spell can cause an undead creature’s unarmed strike to deal lethal damage, but in this case, the attack does not gain an enhancement bonus.<br><br> <i>Unhallowed blows<\/i> can be made permanent with a <i>permanency spell<\/i>. In this case, the caster must be at least 9th level and must expend 2,500 gp worth of diamond dust as a material component.",
+    "name_zh": "不洁邪击",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言，姿势，材料/法器（某一已被摧毁的不死生物身上的一把尘埃）",
     "range_zh": "近距 (25尺+每2等级5尺)",
+    "target_zh": "每CL一名不死生物，其中任意两名的距离不能超过30尺以上",
     "duration_zh": "1分钟/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术能强化不死生物的徒手打击或者天武攻击，让其徒手打击或某一天武攻击在攻击和伤害骰上获得+1增强加值。此法术能让某一不死生物的徒手打击造成致命伤害，但此时该攻击将不会获得增强加值。<\/p><p>不洁邪击可以被“魔法恒定术”（permanency）恒定，此时该施法者必须至少达到9级，且要花费价值2500gp的钻石尘作为材料成分。<\/p>"
 }

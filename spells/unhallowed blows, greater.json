@@ -24,9 +24,12 @@
     "savingThrow": "Will negates (harmless)",
     "spellResistance": "yes (harmless)",
     "text": "This spell functions as <i>unhallowed blows<\/i>, except the enhancement bonus is +1 per 4 caster levels (maximum +5). Alternatively, you can imbue all of a creature’s natural weapons with a +1 enhancement bonus (regardless of your caster level).<br><br> <i>Greater unhallowed blows<\/i> can be made permanent with a <i>permanency<\/i> spell. In this case, the caster must be at least 11th level and must expend 7,500 gp worth of diamond dust as a material component.",
+    "name_zh": "高等不洁邪击",
     "castingTime_zh": "标准动作",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "每CL一名不死生物，其彼此的距离不能超过30尺以上，或是一名不死生物；见内文",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "可 (无害)"
+    "spellResistance_zh": "可 (无害)",
+    "text_zh": "<p><\/p><p><\/p><p>该法术的功能如同不洁邪击（UNHALLOWED BLOWS），不过增强加值是每4CL +1（最高+5）。作为替代，你也可以让某一生物的所有天生武器都获得+1增强加值（无论你的施法者等级为何）。<\/p><p>高等不洁邪击可以被“魔法恒定术”（permanency）恒定，此时该施法者必须至少达到11级，且要花费价值7500gp的钻石尘作为材料成分。<\/p>"
 }
