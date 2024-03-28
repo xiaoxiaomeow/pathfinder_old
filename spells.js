@@ -85,9 +85,9 @@ function loadSpell(sp, div, containSource = false) {
 
     // text
     if (sp["text_zh"] != null) {
-        $(div).append($("<div>" + sp["text_zh"] + "</div>"));
+        $(div).append($(sp["text_zh"]));
     } else {
-        $(div).append($("<div>" + sp["text"] + "</div>"));
+        $(div).append($("<p>" + sp["text"] + "</p>"));
     }
 
     // source
@@ -98,10 +98,13 @@ function loadSpell(sp, div, containSource = false) {
     $(div).append($("<p><b>出处</b>" + sourceStr + "</p>"));
 
 	// mythic text
-	let mythicText = sp["mythicText_zh"] ?? sp["mythicText"];
-	if (mythicText != null) {
+	if (sp["mythicText_zh"] ?? sp["mythicText"] != null) {
 		$(div).append($("<div><b>神话版本</b></div>"));
-        $(div).append($("<div>" + mythicText + "</div>"));
+        if (sp["mythicText_zh"] != null) {
+            $(div).append($(sp["mythicText_zh"]));
+        } else {
+            $(div).append($("<p>" + sp["mythicText"] + "</p>"));
+        }
 		$(div).append($("<p><b>出处</b><br>" + sp["mythicSource"] + "</p>"));
 	}
 
