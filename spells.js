@@ -101,7 +101,7 @@ function loadSpell(sp, div, containSource = false) {
 	let mythicText = sp["mythicText_zh"] ?? sp["mythicText"];
 	if (mythicText != null) {
 		$(div).append($("<div><b>神话版本</b></div>"));
-        $(div).append($(mythicText));
+        $(div).append($("<div>" + mythicText + "</div>"));
 		$(div).append($("<p><b>出处</b><br>" + sp["mythicSource"] + "</p>"));
 	}
 
@@ -441,6 +441,7 @@ function search() {
                         loadSpell(sp, tooltip);
                     }).catch(error => {
                         alert('Error: ' + error.message);
+                        throw error;
                     });
                 }
             };

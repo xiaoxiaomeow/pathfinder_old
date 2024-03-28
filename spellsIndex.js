@@ -4122,7 +4122,7 @@ var spellsIndex = [
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可; 见文本",
-        "savingThrow_zh": "无或意志, 通过则部分生效 (见正文)"
+        "savingThrow_zh": "无或意志, 通过则部分生效 (见文本)"
     },
         {
         "key": "banishment",
@@ -13232,7 +13232,7 @@ var spellsIndex = [
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "will negates (harmless)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "darkvision",
@@ -13400,7 +13400,7 @@ var spellsIndex = [
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "will negates"
+        "savingThrow_zh": "意志, 通过则无效"
     },
         {
         "key": "daze",
@@ -13850,7 +13850,7 @@ var spellsIndex = [
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "Will parital (see text)"
+        "savingThrow_zh": "意志, 通过则部分生效 (见文本)"
     },
         {
         "key": "debilitating pain",
@@ -21803,7 +21803,7 @@ var spellsIndex = [
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧，过则无效（物品，见正文）"
+        "savingThrow_zh": "强韧, 通过则无效 (物品, 见文本)"
     },
         {
         "key": "fool's gold (vc)",
@@ -21823,7 +21823,7 @@ var spellsIndex = [
         "source": ["Villain Codex pg. 117"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "无 或 意志，通过则不相信 (见下)"
+        "savingThrow_zh": "无 或 意志, 通过则不相信 (见下)"
     },
         {
         "key": "fool's teleport",
@@ -26010,7 +26010,7 @@ var spellsIndex = [
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "Will negates (harmles)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
         "key": "hide from undead",
@@ -42524,7 +42524,7 @@ var spellsIndex = [
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "8小时",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "无 (物品; 见正文)"
+        "savingThrow_zh": "无 (物品; 见文本)"
     },
         {
         "key": "repair undead, mass",
