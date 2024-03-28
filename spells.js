@@ -85,9 +85,9 @@ function loadSpell(sp, div, containSource = false) {
 
     // text
     if (sp["text_zh"] != null) {
-        $(div).append($(sp["text_zh"]));
+        $(div).append($("<div>" + sp["text_zh"] + "</div>"));
     } else {
-        $(div).append($(sp["text"]));
+        $(div).append($("<div>" + sp["text"] + "</div>"));
     }
 
     // source
