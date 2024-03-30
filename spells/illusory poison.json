@@ -22,7 +22,7 @@
     "text": "You create a phantasm of an oily green phantasmal poison on the target weapon. The first creature hit by the poisoned weapon must make a Will save against the illusion spell; success means the spell has no effect and is expended from the weapon. If the creature fails its save, it believes it has been poisoned and must make Fortitude saves at the spell’s DC to avoid suffering illusory poison damage.<br><br><i>Delay poison<\/i> allows the target to ignore the effects of the phantasmal poison until the <i>delay poison<\/i> spell ends, at which time it may make a Will save to realize the poison is illusory and recover all illusory poison damage. <i>Neutralize poison<\/i>, <i>lesser restoration<\/i>, or <i>restoration<\/i> immediately recovers all damage from the spell. A successful <i>dispel magic<\/i> spell ends the effect of the illusion, as do spells that penetrate illusions (such as <i>true seeing<\/i>). The target automatically recovers all illusory poison damage after 1 hour.<br><br><b>Phantasmal Poison<\/b><br><b>Type<\/b> poison, injury; <b>Save<\/b> Fortitude DC as the spell<br><b>Frequency<\/b> 1/round for 6 rounds<br><b>Effect<\/b> 1d3 Str damage; <b>Cure<\/b> 1 save",
     "castingTime_zh": "标准动作",
     "range_zh": "接触",
-    "duration_zh": "1分钟/等级 或 直至耗散; 见文本",
+    "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
     "savingThrow_zh": "Will disbelief, then Fortitude (see text)",
     "spellResistance_zh": "可"
 }

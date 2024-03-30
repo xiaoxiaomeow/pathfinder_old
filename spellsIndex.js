@@ -861,7 +861,7 @@ var spellsIndex = [
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则无效和强韧, 通过则无效; 见文本"
+        "savingThrow_zh": "反射, 通过则无效 和 强韧, 通过则无效; 见文本"
     },
         {
         "key": "aggressive thundercloud",
@@ -4122,7 +4122,7 @@ var spellsIndex = [
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可; 见文本",
-        "savingThrow_zh": "无或意志, 通过则部分生效 (见文本)"
+        "savingThrow_zh": "无 或 意志, 通过则部分生效 (见文本)"
     },
         {
         "key": "banishment",
@@ -5615,7 +5615,7 @@ var spellsIndex = [
         "source": ["Dirty Tactics Toolbox pg. 30"],
         "castingTime_zh": "1轮",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害) 或意志来识破 (若有互动)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害) 或 意志来识破 (若有互动)"
     },
         {
         "key": "blend",
@@ -6731,7 +6731,7 @@ var spellsIndex = [
         "source": ["Horror Adventures pg. 110"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效或无效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效 或 无效; 见文本"
     },
         {
         "key": "boneshatter",
@@ -7597,7 +7597,7 @@ var spellsIndex = [
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效或伤害减半 (仅对物体)"
+        "savingThrow_zh": "强韧, 通过则无效 或 伤害减半 (仅对物体)"
     },
         {
         "key": "burst of adrenaline",
@@ -8502,7 +8502,7 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 230"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "反射通过则减半或无效; 见文本 ; "
+        "savingThrow_zh": "反射通过则减半 或 无效; 见文本 ; "
     },
         {
         "key": "caustic eruption",
@@ -21258,7 +21258,7 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 231"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "反射过则无效 (物体) 和强韧过则无效"
+        "savingThrow_zh": "反射过则无效 (物体) 和 强韧过则无效"
     },
         {
         "key": "fleeting defect",
@@ -24606,7 +24606,7 @@ var spellsIndex = [
         "race": "sylph",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效 (物体) 或反射, 通过则无效; 见文本"
+        "savingThrow_zh": "强韧, 通过则无效 (物体) 或 反射, 通过则无效; 见文本"
     },
         {
         "key": "hag's seasoning",
@@ -25767,7 +25767,7 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "否 (物体) 和可; 见文本",
+        "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
     },
         {
@@ -25781,7 +25781,7 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "否 (物体) 和可; 见文本",
+        "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
     },
         {
@@ -33485,7 +33485,7 @@ var spellsIndex = [
         "race": "Vudrani",
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "意志无效 (物体) 或无, 见文本"
+        "savingThrow_zh": "意志无效 (物体) 或 无, 见文本"
     },
         {
         "key": "martyr's bargain",
@@ -37617,7 +37617,7 @@ var spellsIndex = [
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "不可",
-        "savingThrow_zh": "无; 或意志, 通过则无效; 见文本"
+        "savingThrow_zh": "无; 或 意志, 通过则无效; 见文本"
     },
         {
         "key": "pellet blast",
@@ -38002,7 +38002,7 @@ var spellsIndex = [
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则不相信 之后 强韧或意志, 通过则无效; 见文本"
+        "savingThrow_zh": "意志, 通过则不相信 之后 强韧 或 意志, 通过则无效; 见文本"
     },
         {
         "key": "phantasmal asphixiation",
@@ -39491,7 +39491,7 @@ var spellsIndex = [
         "source": ["Planar Adventures pg. 43"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志过则无效或意志过则无效 (无害) ; 见文本"
+        "savingThrow_zh": "意志过则无效 或 意志过则无效 (无害) ; 见文本"
     },
         {
         "key": "positive pulse",
@@ -39516,7 +39516,7 @@ var spellsIndex = [
         "source": ["Planar Adventures pg. 43"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志过则无效或意志过则无效 (无害) ; 见文本"
+        "savingThrow_zh": "意志过则无效 或 意志过则无效 (无害) ; 见文本"
     },
         {
         "key": "possess object",
@@ -40836,7 +40836,7 @@ var spellsIndex = [
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效 (和意志, 特殊; 见文本)"
+        "savingThrow_zh": "强韧, 通过则无效 ( 和 意志, 特殊; 见文本)"
     },
         {
         "key": "purge spirit",
@@ -41213,7 +41213,7 @@ var spellsIndex = [
         "source": ["Occult Adventures pg. 184"],
         "castingTime_zh": "标准动作",
         "spellResistance_zh": "见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害) 和意志, 通过则不相信; 见文本"
+        "savingThrow_zh": "意志, 通过则无效 (无害) 和 意志, 通过则不相信; 见文本"
     },
         {
         "key": "radiation ward",
@@ -44195,7 +44195,7 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 25"],
         "castingTime_zh": "1小声",
-        "spellResistance_zh": "否 (物体) 和可; 见文本",
+        "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
