@@ -3792,7 +3792,7 @@ var spellsIndex = [
         {
         "key": "authenticating gaze",
         "name": "Authenticating Gaze",
-        "name_zh": "鑑识视线",
+        "name_zh": "鉴识视线",
         "school": "divination",
         "levels":         {
             "alchemist": 1,
@@ -31922,7 +31922,7 @@ var spellsIndex = [
         {
         "key": "locksight",
         "name": "Locksight",
-        "name_zh": "鑑锁视线",
+        "name_zh": "鉴锁视线",
         "school": "divination",
         "levels":         {
             "alchemist": 1,
