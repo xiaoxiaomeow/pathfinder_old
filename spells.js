@@ -53,8 +53,8 @@ function loadFeat(sp, div, containSource = false) {
 	}
 
     // title
-	let en_name = "<a href=\"" + ft["url"] + "\">" + ft["name"] + "</a>";
-    let name = (ft["name_zh"] != null) ? (ft["name_zh"] + " (" + en_name + ")") : en_name;
+	let en_name = "<a href=\"" + sp["url"] + "\">" + sp["name"] + "</a>";
+    let name = (sp["name_zh"] != null) ? (sp["name_zh"] + " (" + en_name + ")") : en_name;
     if (sp["race_zh"] != null) {
         name += " [" + sp["race_zh"] + "]";
     }
