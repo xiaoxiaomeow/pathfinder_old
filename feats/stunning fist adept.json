@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Dragon Empires Primer pg. 25"],
     "description": "Your Stunning Fist strikes become even deadlier.",
-    "prerequisites": "Stunning Fist, base attack bonus +3",
+    "prerequisites": "Stunning Fist, base attack bonus +3.",
     "benefit": "Add +1 to the saving throw DC against your Stunning Fist attacks. This bonus does not stack with feats that grant you bonuses to the DC for saving throws against your Stunning Fist attacks, such as Mantis Style (see <i>Pathfinder RPG Ultimate Combat<\/i>).",
     "prerequisiteKeys": ["stunning fist"]
 }

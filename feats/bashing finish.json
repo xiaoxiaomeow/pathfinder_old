@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 151"],
     "description": "You follow a powerful blow from your weapon with an opportunistic bash from your shield.",
-    "prerequisites": "Improved Shield Bash, Shield Master, Two-Weapon Fighting, base attack bonus +11",
+    "prerequisites": "Improved Shield Bash, Shield Master, Two-Weapon Fighting, base attack bonus +11.",
     "benefit": "Whenever you score a critical hit with a melee weapon, you can make a shield bash attack against the same target using the same bonus as a free action.",
     "staminaSource": ["Pathfinder Unchained pg. 114"],
     "staminaText": "When you fail to confirm a critical hit with a melee weapon attack, you can spend 5 stamina points to make a shield bash attack against the target anyway. You still can’t make the attack if the target is immune to critical hits.",
@@ -13,5 +13,9 @@
         "improved shield bash",
         "shield master",
         "two-weapon fighting"
-    ]
+    ],
+    "name_zh": "一击扑杀",
+    "description_zh": "你能够在用武器进行强有力的攻击后顺势使用盾牌进行打击。",
+    "prerequisites_zh": "精通盾击，盾牌大师，双武器格斗，基本攻击加值+11。",
+    "benefit_zh": "每当你成功使用近战武器进行重击时，就能够以自由动作对相同的目标，使用相同的加值对其进行盾击攻击。"
 }

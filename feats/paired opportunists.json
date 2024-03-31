@@ -10,5 +10,8 @@
     "description": "You know how to make an enemy pay for lax defenses.",
     "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +4 circumstance bonus on attacks of opportunity against creatures that you both threaten. Enemies that provoke attacks of opportunity from your ally also provoke attacks of opportunity from you so long as you threaten them (even if the situation or an ability would normally deny you the attack of opportunity). This does not allow you to take more than one attack of opportunity against a creature for a given action.",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
-    "staminaText": "As long as an ally that also has this feat is within your melee reach, you can spend 2 stamina points to gain this feat’s benefits until the end of your next turn."
+    "staminaText": "As long as an ally that also has this feat is within your melee reach, you can spend 2 stamina points to gain this feat’s benefits until the end of your next turn.",
+    "name_zh": "双重借机",
+    "description_zh": "你明白如何让敌人为了懈怠的防守而付出代价。",
+    "benefit_zh": "每当你邻近一名拥有该专长的盟友，那么在对抗同时处于你们威胁范围内的生物时，你们的借机攻击都会获得+4环境加值。若敌人处于你的威胁范围，那么只要他引起你的盟友的借机攻击，就也会引起你的借机攻击（即使由于某些能力或者环境，导致正常情况下不会引起你的借机攻击）。在对抗一名生物的一次特定动作时，该专长不会允许你获得超过一次的借机攻击机会。"
 }

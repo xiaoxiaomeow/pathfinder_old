@@ -5,13 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 108"],
     "description": "Your knowledge of vital areas allows you to land debilitating strikes with precision.",
-    "prerequisites": "Improved Unarmed Strike, Mantis Style, Stunning Fist, Heal 6 ranks",
-    "benefit": "Treat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. You can also use a standard action and a successful melee touch attack to remove any Stunning Fist effect you have applied to a target.",
+    "prerequisites": "Improved Unarmed Strike, Mantis Style, Stunning Fist, Heal 6 ranks.",
+    "benefit": "Treat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. You can also use a standard action and a successful melee touch attack to remove any Stunning Fist effect you have applied to a target.<br><br> While using Mantis Style, you gain a +2 bonus on unarmed attack rolls with which you are using Stunning Fist attempts.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
     "staminaText": "You can spend 2 stamina points and take a standard action to remove any Stunning Fist effect you have applied to a creature without making a touch attack. You can use this ability no matter where the affected creature is located.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "mantis style",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "六合拳劲",
+    "description_zh": "你对要穴的了解令自己在对其瞄准时更为精确。",
+    "prerequisites_zh": "精通徒手打击，震慑拳，螳螂拳，医疗6级。",
+    "benefit_zh": "你可以将你的非武僧等级折半加上你的武僧等级来决定你的“震慑拳”效果。你可以用标准动作进行一次近战接触攻击来消去你的“震慑拳”造成的效果。你使用螳螂拳流派架势时，你的震慑拳攻击骰有+2加值。"
 }

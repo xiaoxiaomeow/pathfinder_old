@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Wilderness pg. 121"],
     "description": "You put the terrain between yourself and your opponents to avoid attacks.",
-    "prerequisites": "Dex 15, Dodge, base attack bonus +6",
+    "prerequisites": "Dex 15, Dodge, base attack bonus +6.",
     "benefit": "If you take two actions to move or a withdrawal action in a turn while starting or ending your movement in either naturally occurring difficult terrain (bushes, brambles, etc.) or a space with a natural object providing at least partial cover (a tree, rock, etc.), you gain concealment until you attack, until you move out of that space, or until the end of your next turn, whichever occurs first.",
     "prerequisiteKeys": ["dodge"]
 }

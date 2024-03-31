@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 141"],
     "description": "You feel great anger at anyone who dares to attack you, and this fury makes your own attacks that much stronger.",
-    "prerequisites": "Orc",
+    "prerequisites": "Orc.",
     "benefit": "You gain a +1 morale bonus on attack and damage rolls made against any creature that attacked you in the current combat.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
-    "staminaText": "When you hit a creature that attacked you in the current combat, you can spend up to 2 stamina points to deal an amount of extra damage to it equal to double the number of stamina points you spent."
+    "staminaText": "When you hit a creature that attacked you in the current combat, you can spend up to 2 stamina points to deal an amount of extra damage to it equal to double the number of stamina points you spent.",
+    "name_zh": "怀恨在心",
+    "description_zh": "你对任何胆敢攻击你的人都抱有极大的愤怒，这股怒火让你的攻击更加强大。",
+    "prerequisites_zh": "兽人。",
+    "benefit_zh": "在攻击任何在当前战斗中攻击过你的生物时，你在攻击和伤害检定上获得+1士气加值。"
 }

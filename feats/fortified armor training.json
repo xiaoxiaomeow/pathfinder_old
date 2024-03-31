@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 102"],
     "description": "You have learned to let your armor bear the brunt of the worst attacks. ",
-    "prerequisites": "Proficient with armor or shield",
+    "prerequisites": "Proficient with armor or shield.",
     "benefit": "If an opponent scores a critical hit against you, you can turn the critical hit into a normal hit. If you do, either your armor or your shield gains the broken condition (your choice).",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
-    "staminaText": "When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition."
+    "staminaText": "When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition.",
+    "name_zh": "丢卒保帅",
+    "description_zh": "你学会了如何让你的防具替你承受最重的攻击。",
+    "prerequisites_zh": "擅长盔甲或盾牌。",
+    "benefit_zh": "如果一个敌人你对造成了重击，你可以选择将其变为普通攻击，不过你的盔甲或盾牌（由你选择）会陷入破损状态。"
 }

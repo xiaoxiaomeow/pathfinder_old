@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Channel%20Smite",
     "source": ["Ultimate Combat pg. 102"],
     "description": "You empower your weapon with the might of your deity, which you discharge as you strike your foes.",
-    "prerequisites": "Channel energy class feature, Channel Smite, base attack bonus +8",
+    "prerequisites": "Channel energy class feature, Channel Smite, base attack bonus +8.",
     "benefit": "Before making any melee attacks on your turn, you can use a swift action to expend one daily use of your channel energy class feature. The dice from your channel energy feature form a pool of damage dice you can access to further damage creatures normally harmed by the energy you are channeling—undead for positive energy, living creatures for negative energy. Prior to making each melee attack, allocate dice from the pool to be used as extra damage dice if you hit. Your target can make a Will save, as normal, to halve this extra damage. This extra damage is not multiplied when you score a critical hit. If you miss, the extra damage dice remain in your pool, but any dice left unexpended at the end of your turn are wasted.",
-    "prerequisiteKeys": ["channel smite"]
+    "prerequisiteKeys": ["channel smite"],
+    "name_zh": "高等导能打击",
+    "description_zh": "你在你的武器中贮藏神的力，让它们在击中敌人时爆发出来。",
+    "prerequisites_zh": "【引导能量】职业特性，导能打击，基本攻击加值+8。",
+    "benefit_zh": "当你行动时，在进行任何近战攻击之前，你可以花费迅捷动作来消耗一次每日引导能量次数。你的引导投骰结果将创建一个等额的能量池，你可以用它来对可以伤害的生物造成额外伤害——正能量→不死生物，或负能量→活物。在进行近战攻击之前，你可以决定要从能量池中分配多少能量来在这次攻击命中后造成额外伤害。目标在受到额外伤害时，可以像面对引导能量一样用意志豁免检定将其减半。当你造成重击，额外伤害不会乘算。如果攻击失败，能量池将不会消耗，但是如果你在本轮行动结束时仍未用尽能量池，能量池将会消失。"
 }

@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Voice%20of%20the%20Sibyl",
     "source": ["Ultimate Magic pg. 159"],
     "description": "Your voice is strangely compelling.",
-    "prerequisites": "Cha 15",
+    "prerequisites": "Cha 15.",
     "benefit": "You get a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +3 for that skill. You do not get these bonuses if you do not use your voice when using the skill (such as using Bluff to feint in combat).",
     "mythicSource": ["Mythic Adventures pg. 77"],
     "mythicDescription": "You overpower weaker and more vulnerable minds with your voice alone.",
-    "mythicPrerequisites": "Voice of the Sibyl",
-    "mythicBenefit": "You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess. This bonus stacks with the bonus from Voice of the Sibyl. If you have 10 or more ranks in at least two of these skills, gain a +2 bonus to the DC of any language-dependent spell you cast."
+    "mythicPrerequisites": "Voice of the Sibyl.<br><br",
+    "mythicBenefit": "You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess. This bonus stacks with the bonus from Voice of the Sibyl. If you have 10 or more ranks in at least two of these skills, gain a +2 bonus to the DC of any language-dependent spell you cast.",
+    "name_zh": "贤者之音",
+    "description_zh": "你的声音是如此的奇妙而又得引人入胜。",
+    "prerequisites_zh": "魅力15。",
+    "benefit_zh": "你在所有的唬骗、交涉、表演（演讲）检定上获得+1加值。如果你在这些技能上拥有10或更高的等级，则加值增加为+3。如果你在使用这些技能时并未出声，则加值不生效（例如战斗中使用唬骗进行虚招）。"
 }

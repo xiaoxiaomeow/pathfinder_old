@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Cheliax, Empire of Devils pg. 26"],
     "description": "You can use strength and agility to send foes crashing to the ground.",
-    "prerequisites": "Improved Trip",
+    "prerequisites": "Improved Trip.",
     "benefit": "When making a trip attack, add your Dexterity bonus to your CMB.",
     "prerequisiteKeys": ["improved trip"]
 }

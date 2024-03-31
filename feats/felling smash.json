@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 101"],
     "description": "You commit all your focus to a devastating blow, trying to crush your opponent to the ground.",
-    "prerequisites": "Int 13, Str 13, Combat Expertise, Improved Trip, Power Attack, base attack bonus +6",
+    "prerequisites": "Int 13, Str 13, Combat Expertise, Improved Trip, Power Attack, base attack bonus +6.",
     "benefit": "If you use the attack action to make a single melee attack at your highest base attack bonus while using Power Attack and you hit an opponent, you can spend a swift action to attempt a trip combat maneuver against that opponent.",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to make the trip attempt from this feat as a free action instead of a swift action.",
@@ -13,5 +13,9 @@
         "combat expertise",
         "improved trip",
         "power attack"
-    ]
+    ],
+    "name_zh": "击倒猛攻",
+    "description_zh": "你集中你所有的力量进行一次毁灭性的猛击，试图将你的敌人击垮在地。",
+    "prerequisites_zh": "智力13，力量13，寓守于攻，精通绊摔，猛力攻击，基本攻击加值+6。",
+    "benefit_zh": "当你以攻击动作使用猛力攻击进行一次最高攻击加值的单次近战攻击时，如果你命中，你可以花费迅捷动作来对目标进行一次绊摔尝试。"
 }

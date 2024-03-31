@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dark%20Sight",
     "source": ["Advanced Race Guide pg. 111"],
     "description": "With further modification, your eyes can pierce the gloom of even magical darkness.",
-    "prerequisites": "Gloom Sight, fetchling",
+    "prerequisites": "Gloom Sight, fetchling.",
     "benefit": "You gain the ability to see up to 15 feet clearly in magical darkness, such as that created by the <i>deeper darkness <\/i>spell.",
-    "prerequisiteKeys": ["gloom sight"]
+    "prerequisiteKeys": ["gloom sight"],
+    "name_zh": "黑暗视域",
+    "description_zh": "通过进一步的增强，你的双眼甚至能够看透一定距离的魔法黑暗。",
+    "prerequisites_zh": "阴暗视域，窃影鬼。",
+    "benefit_zh": "你获得能够看透15尺范围内魔法黑暗的能力，比如‘深幽黑暗术’造成的黑暗。"
 }

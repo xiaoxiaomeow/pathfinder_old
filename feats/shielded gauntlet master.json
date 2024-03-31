@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Armor Master's Handbook pg. 12"],
     "description": "Your can effectively attack and defend with your gauntlet.",
-    "prerequisites": "Shielded Gauntlet Attack, Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields",
+    "prerequisites": "Shielded Gauntlet Attack, Shield Gauntlet Style, Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields.",
     "benefit": "While using Shield Gauntlet Style, you no longer lose your shield bonus to AC when you attack with your gauntlet (or spiked gauntlet) or use it to hold a weapon. In addition, you add your gauntlet’s enhancement bonus to the shield bonus to AC granted by this feat as if it were a shield enhancement bonus.",
     "prerequisiteKeys":     [
         "shield gauntlet style",

@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Furious%20Finish",
     "source": ["Ultimate Combat pg. 102"],
     "description": "You channel all of your rage into one massive blow to crush your enemy.",
-    "prerequisites": "Rage class feature, Vital Strike, base attack bonus +6",
+    "prerequisites": "Rage class feature, Vital Strike, base attack bonus +6.",
     "benefit": "While raging, when you use the Vital Strike feat, you can choose not to roll your damage dice and instead deal damage equal to the maximum roll possible on those damage dice. If you do, your rage immediately ends, and you are fatigued (even if you would not normally be).",
-    "prerequisiteKeys": ["vital strike"]
+    "prerequisiteKeys": ["vital strike"],
+    "name_zh": "狂怒终结",
+    "description_zh": "你引导你所有的怒气聚于一击并彻底将敌人轰杀至渣。",
+    "prerequisites_zh": "【狂暴】职业特性，要害打击，基本攻击加值+6。",
+    "benefit_zh": "处于狂暴状态时，当你使用要害打击系列专长，你可以选择不掷伤害骰而是将伤害骰取最大值。如果你这么做，你的狂暴状态立刻结束，并且你陷入疲乏状态（即使正常情况下不会疲乏）。"
 }

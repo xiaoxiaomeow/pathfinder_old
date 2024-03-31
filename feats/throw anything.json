@@ -11,9 +11,9 @@
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, when you use a melee weapon that is not a thrown weapon for a ranged improvised weapon attack, you use the weapon’s melee critical threat range and multiplier instead of the normal 20/×2 for improvised weapons. You can spend 2 stamina points to increase your range increment for thrown weapon attacks (including ranged improvised weapons) by 10 feet until the beginning of your next turn.",
     "mythicSource": ["Mythic Adventures pg. 75"],
     "mythicDescription": "You’re so skilled at throwing weapons that it hardly matters what you throw.",
-    "mythicPrerequisites": "Throw Anything",
+    "mythicPrerequisites": "Throw Anything.<br><br",
     "mythicBenefit": "You gain a +2 bonus on attack rolls and damage rolls made using an improvised thrown weapon or splash weapon. This bonus stacks with the bonus from the non-mythic Throw Anything feat. If you miss with a thrown splash weapon, it always lands adjacent to its target regardless of how many range increments it was thrown.",
     "name_zh": "随手投掷",
     "description_zh": "你擅长投掷手中的物品。",
-    "benefit_zh": "你使用临时远程武器时无减值。你在溅射武器的攻击检定上获得+1环境加值。"
+    "benefit_zh": "你使用临时远程武器时无减值。你在溅射武器的攻击检定上获得+1环境加值。<\/p><p>通常状况：你在使用临时武器时攻击检定受-4减值。"
 }

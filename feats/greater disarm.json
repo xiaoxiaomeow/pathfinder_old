@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 125"],
     "description": "You can knock weapons far from an enemy's grasp.",
-    "prerequisites": "Combat Expertise, Improved Disarm, base attack bonus +6, Int 13",
+    "prerequisites": "Combat Expertise, Improved Disarm, base attack bonus +6, Int 13.",
     "benefit": "You receive a +2 bonus on checks made to disarm a foe. This bonus stacks with the bonus granted by Improved Disarm. Whenever you successfully disarm an opponent, the weapon lands 15 feet away from its previous wielder, in a random direction.",
     "normal": "Disarmed weapons and gear land at the feet of the disarmed creature.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
@@ -17,5 +17,5 @@
     "name_zh": "高等卸武",
     "description_zh": "你可以将敌人手中的武器击飞。",
     "prerequisites_zh": "寓守于攻，精通卸武，基本攻击加值+6，智力13。",
-    "benefit_zh": "你在卸武检定中获得+2加值，此加值与“精通卸武”专长带来的加值累计。每当你成功卸除敌人武器时，该武器由其持有者位置向随机方向飞出15尺。"
+    "benefit_zh": "你在卸武检定中获得+2加值，此加值与“精通卸武”专长带来的加值累计。每当你成功卸除敌人武器时，该武器由其持有者位置向随机方向飞出15尺。<\/p><p>通常状况：被卸除的武器和装备落在被卸除的生物脚下。"
 }

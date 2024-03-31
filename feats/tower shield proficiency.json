@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 135"],
     "description": "You are trained in how to properly use a tower shield.",
-    "prerequisites": "Shield Proficiency",
+    "prerequisites": "Shield Proficiency.",
     "benefit": "When you use a tower shield, the shield's armor check penalty only applies to Strength and Dexterity-based skills.",
     "normal": "A character using a shield with which he is not proficient takes the shield's armor check penalty on attack rolls and on all skill checks that involve moving, including Ride.",
     "special": "Fighters automatically have Tower Shield Proficiency as a bonus feat. They need not select it.",
@@ -13,6 +13,6 @@
     "name_zh": "擅长塔盾",
     "description_zh": "你善于使用塔盾。",
     "prerequisites_zh": "擅长盾牌。",
-    "benefit_zh": "使用塔盾时防具检定减值仅作用于基于力量和敏捷的技能。【编注：攻击依然-2。】",
+    "benefit_zh": "使用塔盾时防具检定减值仅作用于基于力量和敏捷的技能。【编注：攻击依然-2。】<\/p><p>通常状况：人物使用不擅长的盾牌时，攻击检定和所有移动相关的技能检定（包括骑术）都受到盾牌的防具检定减值。",
     "special_zh": "战士无需选择可以直接获得“擅长塔盾”作为奖励专长。"
 }

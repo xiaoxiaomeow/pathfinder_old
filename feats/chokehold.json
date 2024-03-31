@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 92"],
     "description": "While grappling, you can cut off an opponent’s air and blood supply.",
-    "prerequisites": "Improved Grapple, Improved Unarmed Strike, base attack bonus +6 or monk level 5th",
+    "prerequisites": "Improved Grapple, Improved Unarmed Strike, base attack bonus +6 or monk level 5th.",
     "benefit": "While you have an opponent up to one size category larger than you grappled, you can attempt a grapple combat maneuver with a –5 penalty on the check. If you succeed, you have pinned your opponent and hold the opponent in a chokehold. When you maintain the grapple, you also maintain the chokehold. A creature in a chokehold cannot breathe or speak, and thus cannot cast spells that have a verbal component. An opponent you have in a chokehold has to hold his breath or begin suffocating. Any creature that does not breathe, is immune to bleed damage, or is immune to critical hits is immune to the effects of your chokehold. When the grapple is ended, so is the chokehold.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "When you attempt a chokehold, you can spend 2 stamina points to reduce the penalty to –1.",
     "prerequisiteKeys":     [
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "锁喉",
+    "description_zh": "当你擒抱时，你可以切断目标的呼吸和血液循环。",
+    "prerequisites_zh": "精通擒抱，精通徒手打击，基本攻击加值+6或武僧5级。",
+    "benefit_zh": "当一个比你体型最多大一级的生物被你擒抱住时，你可以用-5罚值来进行一次战技检定来尝试发动锁喉能力。如果你成功，你将你擒抱的敌人压制住，并使其陷入被锁喉状态。只要你保持擒抱状态，你同时也能保持锁喉状态。一个被锁喉的生物无法呼吸或说话，因此不能施放带有语言成分的法术。被锁喉的生物必须屏住呼吸，否则陷入窒息状态。任何不需呼吸、免疫出血伤害或免疫重击的生物，也免疫于你的“锁喉”效果。一旦擒抱结束，锁喉也随之结束。"
 }

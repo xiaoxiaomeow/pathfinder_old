@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scavenger's%20Eye",
     "source": ["Advanced Race Guide pg. 165"],
     "description": "Your gaze is naturally drawn to valuable glittering objects.",
-    "prerequisites": "Tengu",
+    "prerequisites": "Tengu.",
     "benefit": "You gain a +2 bonus on Appraise checks. You may determine the most valuable item in a hoard as a standard action and gain an additional +2 bonus on the Appraise check to do so. In addition, if you fail an Appraise check by 5 or more, you treat the check as if you had failed by less than 5.",
-    "normal": "Determining the most valuable object in a treasure hoard takes 1 full-round action."
+    "normal": "Determining the most valuable object in a treasure hoard takes 1 full-round action.",
+    "name_zh": "拾荒者锐眼",
+    "description_zh": "你总是能自然而然地注意到那些有价值的闪亮物体。",
+    "prerequisites_zh": "天狗。",
+    "benefit_zh": "你在估价检定上获得+2加值。你还能以一个标准动作使用估价检定辨明一堆宝藏中最贵重的物品，在这么做时你在估价检定上额外获得+2加值。此外，当你在估价检定中失败5或更多时得到的结果也如同失败5点之内一般。<\/p><p>通常状况：使用估价检定辨明一堆宝藏中最贵重的物品需要一个整轮动作。"
 }

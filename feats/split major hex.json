@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Split%20Major%20Hex",
     "source": ["Ultimate Magic pg. 156"],
     "description": "You can split the effect of one of your targeted hexes, affecting another creature you can see. ",
-    "prerequisites": "Split hex, caster level 18th",
+    "prerequisites": "Split hex, caster level 18th.",
     "benefit": "When you use one of your major hexes (not a grand hex) that targets a creature, you can choose another creature within 30 feet of the first target to also be targeted by the major hex.",
-    "prerequisiteKeys": ["split hex"]
+    "prerequisiteKeys": ["split hex"],
+    "name_zh": "分裂强力巫术",
+    "description_zh": "你可以分裂一个目标形巫术的效果，使其影响另一个你能看见的生物。",
+    "prerequisites_zh": "分裂巫术，女巫18级。",
+    "benefit_zh": "当你使用目标是一个生物的【强力巫术】时（并非【高等巫术】），你可以选择第一目标30尺范围内的另一个生物同时作为那个强力巫术的目标。"
 }

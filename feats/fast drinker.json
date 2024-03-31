@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Drinker",
     "source": ["Advanced Player's Guide pg. 160"],
     "description": "You swiftly guzzle spirits to draw forth <i>ki<\/i>.",
-    "prerequisites": "Con 18, drunken <i>ki<\/i> class feature",
-    "benefit": "Drinking strong alcohol to gain temporary <i>ki<\/i>, takes a swift action rather than a standard action."
+    "prerequisites": "Con 18, drunken <i>ki<\/i> class feature.",
+    "benefit": "Drinking strong alcohol to gain temporary <i>ki<\/i>, takes a swift action rather than a standard action.",
+    "name_zh": "快饮",
+    "description_zh": "你能够通过迅速饮用烈酒引出真气。",
+    "prerequisites_zh": "体质18，【醉酒】职业特性。【编注：【醉酒（Drunken Ki）】为醉拳大师（Drunken Master, APG武僧变体）3级能力。】",
+    "benefit_zh": "饮用烈酒获得临时气池现在消耗迅捷动作，而非原本的标准动作。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Martial Arts Handbook pg. 23"],
     "description": "Using your lock on the enemy’s body, you forcefully hurl your opponent to the ground.",
-    "prerequisites": "Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 1st",
+    "prerequisites": "Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 1st.",
     "benefit": "When you begin your turn grappling an opponent, instead of attempting a combat maneuver check to maintain the grapple, you can try to viciously slam your opponent down. As a standard action, you can attempt a grapple combat maneuver check against the opponent. If you succeed, you release your grapple and the opponent falls prone in an unoccupied square of your choice adjacent to you. If you attempt to throw your foe into a hazardous location, such as a wall of fire or a pit, the target receives a +4 bonus to its CMD against your attempt. As long as the opponent lands on solid ground or a solid object, it takes damage equal to your unarmed strike’s damage.",
     "prerequisiteKeys":     [
         "improved grapple",

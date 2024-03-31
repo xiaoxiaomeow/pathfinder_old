@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gloom%20Sight",
     "source": ["Advanced Race Guide pg. 111"],
     "description": "With a combination of strange shadow magic and chirurgery, your eyes are permanently modified to see farther in darkness.",
-    "prerequisites": "Fetchling",
-    "benefit": "You gain darkvision 90 ft., but gain the light sensitivity weakness."
+    "prerequisites": "Fetchling.",
+    "benefit": "You gain darkvision 90 ft., but gain the light sensitivity weakness.",
+    "name_zh": "阴暗视域",
+    "description_zh": "通过奇特的暗影魔法与外科手术的联合作用，你的双眼在黑暗中的视力被永久强化了。",
+    "prerequisites_zh": "窃影鬼。",
+    "benefit_zh": "你获得90尺黑暗视觉，但是也获得“强光敏感”弱点。<\/p><p>【特性速查】强光敏感（Light Sensitivity, Ex）：该生物在强光，比如太阳光或者‘昼明术’范围内就会目眩。"
 }

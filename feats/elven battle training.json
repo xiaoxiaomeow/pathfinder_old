@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 28"],
     "description": "You have been specially trained to wield a variety of traditional elven weapons.",
-    "prerequisites": "Base attack bonus +1, elf",
+    "prerequisites": "Base attack bonus +1, elf.",
     "benefit": "You have received special training with traditional elven weapons (longbows, composite longbows, longswords, rapiers, shortbows, composite shortbows, and any weapon with the word \"elven\" in its name). You receive a +2 bonus to your CMD against disarm and sunder maneuvers directed at one of these weapons you are wielding. In addition, if you are wielding one of these melee weapons, you may make an additional attack of opportunity each round (this bonus stacks with Combat Reflexes).",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
-    "staminaText": "When you are wielding a traditional elven weapon as defined in the feat, you can spend 5 stamina points to make one additional attack of opportunity with that weapon. This stacks with additional attacks of opportunity granted by this feat, Combat Reflexes, and similar abilities."
+    "staminaText": "When you are wielding a traditional elven weapon as defined in the feat, you can spend 5 stamina points to make one additional attack of opportunity with that weapon. This stacks with additional attacks of opportunity granted by this feat, Combat Reflexes, and similar abilities.",
+    "name_zh": "精灵战斗训练",
+    "description_zh": "你受过运用各种传统精灵武器的训练。",
+    "prerequisites_zh": "基本攻击加值+1，精灵。",
+    "benefit_zh": "你受过使用精灵传统武器（长弓，复合长弓，长剑，细剑，短弓，复合短弓以及任何冠以“精灵”之名的武器）的特殊训练。当你对抗针对这些武器的卸武以及破武战技时，你的CMD获得+2加值。此外如果你持用上述近战武器，每轮能够额外进行1次借机攻击（与“战斗反射”专长叠加）。"
 }

@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Merciful%20Bane",
     "source": ["Ultimate Combat pg. 109"],
     "description": "You can use your bane ability to inflict nonlethal damage.",
-    "prerequisites": "Bane class feature",
+    "prerequisites": "Bane class feature.",
     "benefit": "While a weapon you wield is under the effect of your bane class feature, you can spend a swift action to switch between dealing lethal or nonlethal damage with bane. While your bane effect allows you to deal nonlethal damage in this way, you take no penalty on your attack roll for using a lethal weapon to deal nonlethal damage.",
-    "normal": "When using a lethal weapon to deal nonlethal damage, you take a –4 penalty on attack rolls."
+    "normal": "When using a lethal weapon to deal nonlethal damage, you take a –4 penalty on attack rolls.",
+    "name_zh": "悲悯破敌",
+    "description_zh": "你可以用你的破敌能力造成非致命伤害。",
+    "prerequisites_zh": "【破敌】职业特性。",
+    "benefit_zh": "当你持有一把附加了〔破敌〕能力的近战武器时，你可以用迅捷动作让武器在造成致命伤害和非致命伤害之间切换。当你的【破敌】能力允许你通过这种方式造成非致命伤害时，你在进行非致命伤害攻击时不会受到任何罚值。<\/p><p>通常状况：当你使用一把致命武器造成非致命伤害时，你的攻击检定有-4罚值。"
 }

@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Elemental%20Assault",
     "source": ["Advanced Race Guide pg. 203"],
     "description": "You have unlocked greater elemental power.",
-    "prerequisites": "Suli",
+    "prerequisites": "Suli.",
     "benefit": "Your elemental assault ability lasts an additional 2 rounds per day.",
-    "special": "You can take this feat multiple times. Its effects stack."
+    "special": "You can take this feat multiple times. Its effects stack.",
+    "name_zh": "额外元素攻袭",
+    "description_zh": "你开启了更强的元素力量。",
+    "prerequisites_zh": "巨灵裔。",
+    "benefit_zh": "你的【元素攻袭】能力每天能够持续的轮数额外增加2轮。",
+    "special_zh": "你能够多次选择该专长，其效果叠加。"
 }

@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 137"],
     "description": "You are adept at moving fast and staying hidden.",
-    "prerequisites": "Stealth 4 ranks, kobold",
+    "prerequisites": "Stealth 4 ranks, kobold.",
     "benefit": "You take no penalty on Stealth checks when you move up to your full speed. You can use the run or charge action and remain hidden, taking a –10 penalty on the check to do so.",
     "normal": "When moving greater than half speed up to your full speed, you take a –5 penalty on Stealth checks. When you are able to run or charge while using Stealth, you take a –20 penalty on the Stealth check.",
     "staminaSource": ["Pathfinder Unchained pg. 125"],
-    "staminaText": "When you use the run or charge action and wish to remain hidden, you can spend 2 stamina points to decrease the penalty for doing so to –5."
+    "staminaText": "When you use the run or charge action and wish to remain hidden, you can spend 2 stamina points to decrease the penalty for doing so to –5.",
+    "name_zh": "狗头人伏击者",
+    "description_zh": "你善于快速移动以及保持隐蔽。",
+    "prerequisites_zh": "隐匿4级，狗头人。",
+    "benefit_zh": "你可以在隐匿时进行全速移动而不会使隐匿检定受到任何罚值。你可以在冲锋或者奔跑时保持隐藏，但是这么做会使隐匿检定-10。<\/p><p>通常状况：如果你在隐匿时移动速度高于半速则会使隐匿检定上-5。当你在奔跑或冲锋时使用隐匿，你会使隐匿检定-20【译注：核心书隐匿技能说明冲锋或者奔跑时无法隐匿。不知是否有勘误，求解。】"
 }

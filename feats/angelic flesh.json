@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Angelic%20Flesh",
     "source": ["Advanced Race Guide pg. 88"],
     "description": "Your skin shines like burnished metal.",
-    "prerequisites": "Angelic Blood, aasimar",
-    "benefit": "You take a –2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).",
-    "prerequisiteKeys": ["angelic blood"]
+    "prerequisites": "Angelic Blood, aasimar.",
+    "benefit": "You take a –2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).<br><br> <i>Brazen<\/i>: You gain fire resistance 5 and a +2 bonus on saves against fire effects.<br> <i>Golden<\/i>: You gain a +2 bonus on saves against blindness, dazzling, patterns, and effects with the light descriptor. When you cast spells or use spell-like abilities that are from the illusion (pattern) subschool or have the light descriptor, you do so at +1 caster level.<br> <i>Silver<\/i>: You gain a +2 bonus on saves against paralysis, petrification, and poison, and your unarmed strikes or natural weapons count as silver for the purpose of overcoming damage reduction.<br> <i>Steel<\/i>: You gain a +1 natural armor bonus to AC, and your unarmed strikes or natural weapons count as cold iron for the purpose of overcoming damage reduction.",
+    "prerequisiteKeys": ["angelic blood"],
+    "name_zh": "天使之躯",
+    "description_zh": "你的皮肤如同金属一样闪闪发亮。",
+    "prerequisites_zh": "天使之血，神裔。",
+    "benefit_zh": "你的易容和隐匿检定受到-2罚值，但是获得下列好处之一，这取决于你的血肉对金属的亲和力（选择一项）。<\/p><p>金：你对抗目盲、目眩、心灵幻觉和〔光亮〕描述符效果时豁免+2。当你施放幻术（心灵幻觉）子类别或拥有〔光亮〕描述符的法术或类法术时，你视为CL比实际高1级。<\/p><p>银：你对抗麻痹、石化以及毒素时豁免+2。你的徒手攻击或天生武器在对抗伤害减免时被视为炼银武器。<\/p><p>钢：你获得AC天生护甲加值+1。你的徒手打击或天生武器在对抗伤害减免时被视为寒铁武器。"
 }

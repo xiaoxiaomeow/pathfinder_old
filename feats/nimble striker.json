@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 94"],
     "description": "You were born to charge your enemies and nobody does it better.",
-    "prerequisites": "Dex 13, base attack bonus +1, catfolk, sprinter racial trait",
+    "prerequisites": "Dex 13, base attack bonus +1, catfolk, sprinter racial trait.",
     "benefit": "You do not take a –2 penalty to AC when you use the Cleave feat, Lunge feat, or when you charge.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
-    "staminaText": "When you use the Cleave or Lunge feats or when you charge, you can spend 5 stamina points to gain a +2 dodge bonus to AC. This bonus lasts until the start of your next turn."
+    "staminaText": "When you use the Cleave or Lunge feats or when you charge, you can spend 5 stamina points to gain a +2 dodge bonus to AC. This bonus lasts until the start of your next turn.",
+    "name_zh": "机敏前锋",
+    "description_zh": "你与生俱来就是冲锋的料，没人能比你做得更好。",
+    "prerequisites_zh": "敏捷13，基本攻击加值+1，猫族，【短跑健将】种族特性。",
+    "benefit_zh": "当你在使用“顺势斩”专长、“突刺”专长或者冲锋时，不必承受AC-2的罚值。"
 }

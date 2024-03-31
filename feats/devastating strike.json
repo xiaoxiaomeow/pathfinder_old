@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 95"],
     "description": "Pitting all of your strength and resolve against your enemy, you deliver a strike that is impossible to ignore.",
-    "prerequisites": "Vital Strike, base attack bonus +9",
+    "prerequisites": "Vital Strike, base attack bonus +9.",
     "benefit": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a +2 bonus on each extra weapon damage dice roll those feats grant (+6 maximum). This bonus damage is multiplied on a critical hit.",
     "staminaSource": ["Pathfinder Unchained pg. 117"],
     "staminaText": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you can spend 5 stamina points to increase the bonus damage to +4 on each extra weapon damage die. For weapons with more than one damage die, count all of the weapon’s base damage dice together as one set.",
-    "prerequisiteKeys": ["vital strike"]
+    "prerequisiteKeys": ["vital strike"],
+    "name_zh": "毁灭打击",
+    "description_zh": "你对敌人发出催谷全部力量的一击。",
+    "prerequisites_zh": "要害打击，基本攻击加值+9",
+    "benefit_zh": "每当你使用“要害打击”、“精通要害打击”或“高等要害打击”，你在要害打击附加的每次额外武器伤害上获得+2加值（最高总共+6）。这些附加伤害可以被重击倍数乘算。"
 }

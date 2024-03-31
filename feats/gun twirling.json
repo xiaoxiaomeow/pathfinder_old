@@ -5,8 +5,8 @@
     "descriptors": ["Grit"],
     "source": ["Champions of Balance pg. 19"],
     "description": "You can spin and juggle a small firearm, making it difficult to predict where you will shoot.",
-    "prerequisites": "Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus",
-    "benefit": "You can spend 1 grit point to make a feint attempt using a one-handed firearm for which you have Weapon Focus (instead of a melee weapon). The target of this feint must be within 30 feet of you and be able to see you.",
+    "prerequisites": "Amateur Gunslinger feat or grit class feature, Dazzling Display, Weapon Focus.",
+    "benefit": "You can spend 1 grit point to make a feint attempt using a one-handed firearm for which you have Weapon Focus (instead of a melee weapon). The target of this feint must be within 30 feet of you and be able to see you.<br><br> If you have the Quick Draw feat, you can holster a onehanded firearm as a free action as long as you have at least 1 grit point.",
     "prerequisiteKeys":     [
         "dazzling display",
         "weapon focus"

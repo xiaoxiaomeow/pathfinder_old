@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Armor Master's Handbook pg. 8"],
     "description": "Choose one armor trick option (light, medium, heavy, or shield). You can perform armor tricks in combat when wearing the appropriate armor option.",
-    "prerequisites": "Base attack bonus +1",
+    "prerequisites": "Base attack bonus +1.",
     "benefit": "You can use any armor tricks related to the chosen armor option if you meet the trick’s prerequisites and are proficient with any armor that you use as part of the trick.",
     "special": "You can gain Armor Trick multiple times. Each time you take the feat, it applies to a new armor trick option.",
     "staminaSource": ["Armor Master's Handbook pg. 20"],

@@ -4,8 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diverse%20Palate",
     "source": ["Advanced Race Guide pg. 100"],
     "description": "Your taste for blood is broader than that of other dhampirs.",
-    "prerequisites": "Blood Drinker, dhampir",
+    "prerequisites": "Blood Drinker, dhampir.",
     "benefit": "Choose a humanoid subtype or the monstrous humanoid type. You may use your Blood Drinker feat on creatures of this subtype or type.",
     "special": "You can take this feat multiple times. Each time you select it, choose a new humanoid subtype or the monstrous humanoid.",
-    "prerequisiteKeys": ["blood drinker"]
+    "prerequisiteKeys": ["blood drinker"],
+    "name_zh": "新口味",
+    "description_zh": "你对血液口味的涉猎范围比其他吸血裔更广。",
+    "prerequisites_zh": "饮血者，吸血裔。",
+    "benefit_zh": "选择一种类人生物子类或人形怪物类。你可以对该子类的生物使用“饮血者”专长。",
+    "special_zh": "你可以多次选择本专长。每次选择一种新的类人生物子类或人形怪物类。"
 }

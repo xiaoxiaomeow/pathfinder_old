@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Light%20Step",
     "source": ["Advanced Player's Guide pg. 164"],
     "description": "You pick your way nimbly through even the most dangerous and uneven terrain.",
-    "prerequisites": "Acrobatic Steps, Nimble Moves, elf",
+    "prerequisites": "Acrobatic Steps, Nimble Moves, elf.",
     "benefit": "You can ignore the effects of difficult terrain in natural environments, as if it were normal terrain.",
     "prerequisiteKeys":     [
         "acrobatic steps",
         "nimble moves"
-    ]
+    ],
+    "name_zh": "一苇渡江",
+    "description_zh": "你有独创的办法，用于快速通过最危险最不平坦的地形。",
+    "prerequisites_zh": "神行步，灵狐步，精灵。",
+    "benefit_zh": "你能够忽略自然环境中，困难地形的效果，就如同它是普通地形一般。"
 }

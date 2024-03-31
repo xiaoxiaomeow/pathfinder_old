@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 108"],
     "description": "You can summon a torrent of water to blast your enemies, chilling them to the bone.",
-    "prerequisites": "Con 15, Wis 17, Elemental Fist, Marid Spirit, Marid Style, Improved Unarmed Strike, base attack bonus +13 or monk level 11th",
+    "prerequisites": "Con 15, Wis 17, Elemental Fist, Marid Spirit, Marid Style, Improved Unarmed Strike, base attack bonus +13 or monk level 11th.",
     "benefit": "While using Marid Style, as a standard action, you can spend two Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempts to unleash a 30-foot line of frigid water. Creatures caught in the line take your unarmed strike damage plus the cold damage from your Elemental Fist attack and are entangled in ice as per the Marid Spirit feat. A successful Reflex save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from becoming entangled.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
     "staminaText": "Instead of spending two uses of Elemental Fist<sup>APG<\/sup> to unleash a line of frigid water, you can spend one use of Elemental Fist and 2 stamina points.",
@@ -14,5 +14,9 @@
         "improved unarmed strike",
         "marid spirit",
         "marid style"
-    ]
+    ],
+    "name_zh": "雪暴",
+    "description_zh": "你能够召唤冰泉冲刷敌人，令其领受彻骨之寒。",
+    "prerequisites_zh": "体质15，感知17，元素之拳，雪灵，冰魂，精通徒手打击，基本攻击加值+13或武僧11级。",
+    "benefit_zh": "当你处于雪灵流派架势时，以一个标准动作，消耗2次“元素之拳”使用次数，你可以召唤出一道30尺线状的极寒雪柱，对范围内所有生物造成你的徒手打击伤害，外加元素之拳的寒冷伤害，并陷入寒冰纠缠（缠绕规则同“冰魂”）。通过DC为“10+1/2角色等级+感知修正”的反射豁免则伤害减半，且不会被冻住。"
 }

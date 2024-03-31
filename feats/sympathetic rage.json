@@ -8,8 +8,12 @@
         "Orcs of Golarion pg. 25"
     ],
     "description": "Seeing an ally rage fills you with your own fury.",
-    "prerequisites": "Half-orc or orc, nonlawful",
+    "prerequisites": "Half-orc or orc, nonlawful.",
     "benefit": "Whenever you are adjacent to an ally who is raging, you may choose to enter a similar but less powerful rage as a free action on your turn. This weaker rage gives you all the benefits and penalties of a barbarian’s rage, except your morale bonus to Strength and Constitution is only +2. There is no limit to how long you can rage, as long as you remain adjacent to a raging ally (for example, you could take a 5-foot step away from one raging ally toward another raging ally and maintain your rage). As with a barbarian’s rage, when this weaker rage ends, you are fatigued. You cannot use this feat if you are fatigued.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
-    "staminaText": "When an ally within 30 feet is raging, you can spend 5 stamina points to enter a sympathetic rage even if you aren’t adjacent to that ally. Until the rage ends, you only need to stay within 30 feet of a raging ally to maintain your sympathetic rage."
+    "staminaText": "When an ally within 30 feet is raging, you can spend 5 stamina points to enter a sympathetic rage even if you aren’t adjacent to that ally. Until the rage ends, you only need to stay within 30 feet of a raging ally to maintain your sympathetic rage.",
+    "name_zh": "共鸣狂暴",
+    "description_zh": "看到狂暴的盟友使你自身充满愤怒。",
+    "prerequisites_zh": "半兽人或兽人，非秩序阵营。",
+    "benefit_zh": "每当你与处于狂暴状态的盟友接邻时，你能够选择在自己的回合以一个自由动作进入弱效狂暴状态。这种弱效狂暴会给予你所有野蛮人狂暴带来的优势以及劣势，不过你的力量以及体质只会获得+2士气加值。只要你能够保持与一名狂暴的盟友接邻，那么处于该类狂暴的时间没有限制（比如你能够使用五尺快步远离狂暴中的盟友，并与另一名狂暴的盟友接邻以维持你的狂暴）。如同野蛮人的狂暴一样，当这种弱效狂暴结束时，你会疲乏。你无法在疲乏状态下进入狂暴。"
 }

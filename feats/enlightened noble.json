@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enlightened%20Noble",
     "source": ["Heroes of the High Court pg. 4"],
     "description": "You to excel in a particular area thanks to your noble family’s field of expertise.",
-    "prerequisites": "Cha 13, Noble Scion, Knowledge (nobility) 1 rank",
-    "benefit": "You gain an additional benefit based on the flavor of your noble family chosen with the Noble Scion feat.",
+    "prerequisites": "Cha 13, Noble Scion, Knowledge (nobility) 1 rank.",
+    "benefit": "You gain an additional benefit based on the flavor of your noble family chosen with the Noble Scion feat. <br><br><i>Scion of the Arts<\/i>: A number of times per day equal to your Charisma modifier, you can roll 2d20 for a Perform check and take the better result.<br><br> <i>Scion of Lore<\/i>: You can attempt Knowledge skill checks untrained. If you have 10 or more ranks in a Knowledge skill, the bonus from Scion of Lore increases to +2 for that skill.<br><br> <i>Scion of Magic<\/i>: Once per day, you can gain a +2 bonus to caster level on a concentration check, a Use Magic Device check, or a check to overcome spell resistance.<br><br> <i>Scion of Peace<\/i>: Choose one Wisdom-based skill. Once per day when you take 10 on this skill, you treat the result as if you had rolled an 18 instead of a 10.<br><br> <i>Scion of War<\/i>: After rolling initiative, you can attempt a Bluff check as an immediate action to feint against a creature or an Intimidate check to demoralize a creature. This can only affect creatures that act after you in the initiative count.",
     "prerequisiteKeys": ["noble scion"]
 }

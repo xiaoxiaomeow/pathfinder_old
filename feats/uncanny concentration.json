@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Uncanny%20Concentration",
     "source": ["Ultimate Magic pg. 158"],
     "description": "You have learned to enter a deeper state when casting spells, allowing you to shrug off distractions, damage, weather effects, and even the effects of other spells. ",
-    "prerequisites": "Combat Casting",
+    "prerequisites": "Combat Casting.",
     "benefit": "You do not need to make concentration checks when affected by vigorous or violent motion or by violent weather. You gain a +2 bonus on all other concentration checks.",
-    "prerequisiteKeys": ["combat casting"]
+    "prerequisiteKeys": ["combat casting"],
+    "name_zh": "离奇专注",
+    "description_zh": "你学会了如何在施法时进入明镜止水的状态，让你摆脱烦躁、伤害、恶劣的天气甚至是其他法术的影响。",
+    "prerequisites_zh": "战斗施法。",
+    "benefit_zh": "你不必在恶劣天气所造成的有力振动、剧烈振动或是恶劣天气的影响下做专注检定。你在其他所有的专注检定上获得+2加值。"
 }

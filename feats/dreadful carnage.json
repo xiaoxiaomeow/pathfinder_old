@@ -5,16 +5,20 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 158"],
     "description": "Slaying an enemy demoralizes your other nearby foes.",
-    "prerequisites": "Str 15, Power Attack, Furious Focus, base attack bonus +11",
+    "prerequisites": "Str 15, Power Attack, Furious Focus, base attack bonus +11.",
     "benefit": "Whenever you reduce an enemy to 0 or fewer hit points, you can make an Intimidate check to demoralize all enemies within 30 feet as a free action. Enemies that cannot see both you and the enemy you reduced to 0 or fewer hit points are unaffected.",
     "staminaSource": ["Pathfinder Unchained pg. 118"],
     "staminaText": "When you reduce an enemy to 0 or fewer hit points, you can spend up to 6 stamina points to increase the radius of this feat’s effect by 5 feet for each stamina point you spent (to a maximum of 60 feet).",
     "mythicSource": ["Mythic Adventures pg. 63"],
     "mythicDescription": "Your kills are truly frightening to behold.",
-    "mythicPrerequisites": "Dreadful Carnage",
+    "mythicPrerequisites": "Dreadful Carnage.<br><br",
     "mythicBenefit": "When you use Dreadful Carnage, you affect non-mythic enemies within 60 feet in addition to all enemies within 30 feet. You can expend one use of mythic power before making the Intimidate check to cause enemies demoralized by Dreadful Carnage to become frightened instead of shaken, for the same duration as the normal shaken effect. While frightened by this ability, an enemy takes a penalty equal to your tier on attack rolls, saving throws, skill checks, and ability checks.",
     "prerequisiteKeys":     [
         "furious focus",
         "power attack"
-    ]
+    ],
+    "name_zh": "惧栗屠杀",
+    "description_zh": "杀死敌人能够挫败附近其他敌人的士气。",
+    "prerequisites_zh": "力量15，猛力攻击，沉着暴怒，基本攻击加值+11。",
+    "benefit_zh": "当你将一名敌人的HP降至0或更低时，你能够以自由动作对30尺内的所有敌人进行一次威吓检定以挫败士气。若敌人无法同时看到你和HP被你降至0或更低的敌人，则不受影响。"
 }

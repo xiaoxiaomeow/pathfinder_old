@@ -5,9 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 89"],
     "description": "Although you are not a gunslinger, you have and can use grit.",
-    "prerequisites": "You have no levels in a class that has the grit class feature",
+    "prerequisites": "You have no levels in a class that has the grit class feature.",
     "benefit": "You gain a small amount of grit and the ability to perform a single 1st-level deed from the gunslinger deed class feature. At the start of the day, you gain 1 grit point, though throughout the day you can gain grit points up to a maximum of your Wisdom modifier (minimum 1). You can regain grit using the rules for the gunslinger’s grit class feature (see page 9). You can spend this grit to perform the 1st-level deed you chose upon taking this feat, and any other deed you have gained through feats or magic items.",
     "special": "If you gain levels in a class that grants the grit class feature, you can immediately trade this feat for the Extra Grit feat.",
     "staminaSource": ["Pathfinder Unchained pg. 113"],
-    "staminaText": "Choose a second 1st-level gunslinger deed. You can spend grit to use this deed, or you can spend 5 stamina points to use either of your deeds in place of grit. If you gain levels in a class that grants the grit class feature, you retain the ability to spend 5 stamina points in place of grit when using any of your 1st-level deeds, and this becomes a combat trick of the Extra Grit<sup>UC<\/sup> feat (even though that feat is not a combat feat)."
+    "staminaText": "Choose a second 1st-level gunslinger deed. You can spend grit to use this deed, or you can spend 5 stamina points to use either of your deeds in place of grit. If you gain levels in a class that grants the grit class feature, you retain the ability to spend 5 stamina points in place of grit when using any of your 1st-level deeds, and this becomes a combat trick of the Extra Grit<sup>UC<\/sup> feat (even though that feat is not a combat feat).",
+    "name_zh": "业余铳士",
+    "description_zh": "虽然你并不是一个铳士，但你仍拥有并可以使用勇毅能力。",
+    "prerequisites_zh": "在拥有【勇毅】能力的职业上没有等级。",
+    "benefit_zh": "你获得少量的勇毅点，并且可以使用一项1级铳士铳技。在一天的开始，你获得1点勇毅点，不过在这一天里你仍然可以通过额外奖励获得最大为感知修正的勇毅点数（最低为1）。你像其他铳士一样适用勇毅点恢复的规则。你可以花费这些勇毅点来使用你在获得该专长时选择的1级铳士铳技，或通过专长或魔法物品获得的其他铳技。",
+    "special_zh": "如果你在拥有【勇毅】能力的职业上获得了等级，你可以立刻将本专长替换为“额外勇毅（Extra Grit, UC）”专长。"
 }

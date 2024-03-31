@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 103"],
     "description": "You repeatedly strike the same location, causing increasing amounts of damage.",
-    "prerequisites": "Base attack bonus +6",
+    "prerequisites": "Base attack bonus +6.",
     "benefit": "When you take a full-attack action, each consecutive hit against the same opponent deals extra damage equal to the number of previous consecutive hits you have made against that opponent this turn. This damage is multiplied on a critical hit.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
-    "staminaText": "When you use this feat, you can spend 5 stamina points to increase the amount of extra damage dealt by 1 point per consecutive hit you make."
+    "staminaText": "When you use this feat, you can spend 5 stamina points to increase the amount of extra damage dealt by 1 point per consecutive hit you make.",
+    "name_zh": "穷锤猛打",
+    "description_zh": "你多次命中相同的位置，造成越来越大的伤害。",
+    "prerequisites_zh": "基本攻击加值+6。",
+    "benefit_zh": "当你进行全力攻击，每当你的攻击命中一个相同的敌人，你就能对其造成相当于本轮之前命中它的次数的额外伤害。该伤害可以被重击乘算。"
 }

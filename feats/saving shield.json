@@ -5,13 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 168"],
     "description": "You deflect attacks that could mean your ally’s death. ",
-    "prerequisites": "Shield Proficiency",
+    "prerequisites": "Shield Proficiency.",
     "benefit": "Whenever an adjacent ally is the target of an attack, you can, as an immediate action, grant that adjacent ally a +2 shield bonus to AC. You must be wielding a light shield, heavy shield, or tower shield to use this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 130"],
     "staminaText": "When you use this feat, you can spend 2 stamina points to increase the shield bonus granted to your ally by an amount equal to the enhancement bonus of the shield you are using.",
     "mythicSource": ["Mythic Adventures pg. 72"],
     "mythicDescription": "Shielding a comrade from harm gives you a chance to strike back.",
-    "mythicPrerequisites": "Saving Shield",
+    "mythicPrerequisites": "Saving Shield.<br><br",
     "mythicBenefit": "The shield bonus you grant an ally with Saving Shield increases to +3. If you use Saving Shield to successfully negate an attack against an adjacent ally, you can immediately make an attack of opportunity against the attacker so long as it is within your melee reach.",
-    "prerequisiteKeys": ["shield proficiency"]
+    "prerequisiteKeys": ["shield proficiency"],
+    "name_zh": "盾牌掩护",
+    "description_zh": "你能够偏转可能意味着盟友死亡的攻击。",
+    "prerequisites_zh": "擅长盾牌。",
+    "benefit_zh": "当你邻近的一名盟友成为一次攻击的目标，你能够以直觉动作使这位相邻盟友的AC获得+2盾牌加值。你必须持用轻型盾牌、重型盾牌或者塔盾才能使用该专长。"
 }

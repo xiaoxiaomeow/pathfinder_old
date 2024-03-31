@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 151"],
     "description": "Sacrificing accuracy, you can inflict bloody wounds that are slow to heal.",
-    "prerequisites": "Str 13, Power Attack, base attack bonus +6",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +6.",
     "benefit": "You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to inflict 1d4 points of bleed damage with your weapon melee attacks, in addition to the normal damage dealt by the weapon. A creature continues to take bleed damage every round at the start of its turn. Bleed damage can be stopped by a DC 15 Heal check or through any magical healing. Bleed damage from this feat does not stack with itself. You must choose to use this feat before making the attack roll, and its effects last until your next turn (although the bleeding lasts until healed, as normal).",
     "staminaSource": ["Pathfinder Unchained pg. 114"],
     "staminaText": "Each round you use this feat, you can spend up to 5 stamina points. If you do, until the end of your next turn, you reduce the penalty on all your attack rolls by an amount equal to the number of stamina points you spent.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "血腥强袭",
+    "description_zh": "通过牺牲精度，你能够制造出难于愈合的流血伤口。",
+    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+6。",
+    "benefit_zh": "你可以选择让所有近战攻击检定与战技检定承受-5减值，使你的武器近战攻击在正常能够造成的伤害之外，额外造成1d4点流血伤害。受到流血伤害的生物会在其每行动轮开始时持续遭受这一伤害。通过DC15的医疗检定或者任何魔法治疗均可制止流血伤害。由此专长造成的流血伤害不会相互叠加。你必须在进行攻击检定之前选择使用该专长，并且该效果会持续至你的下一轮为止（不过流血会如常持续，直至被治愈为止）。"
 }

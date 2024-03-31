@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 161"],
     "description": "Foes that you drag are thrown out of balance.",
-    "prerequisites": "Str 13, Improved Drag, Power Attack, base attack bonus +6",
+    "prerequisites": "Str 13, Improved Drag, Power Attack, base attack bonus +6.",
     "benefit": "You receive a +2 bonus on checks made to drag a foe. This bonus stacks with the bonus granted by Improved Drag. Whenever you drag a foe, his movement provokes attacks of opportunity from all of your allies (but not you).",
     "normal": "Creatures moved by drag do not provoke attacks of opportunity.",
     "staminaSource": ["Pathfinder Unchained pg. 121"],
@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "improved drag",
         "power attack"
-    ]
+    ],
+    "name_zh": "高等拖拽",
+    "description_zh": "被你拖拽的敌人会失去平衡。",
+    "prerequisites_zh": "力量13，精通拖拽，猛力攻击，基本攻击加值+6。",
+    "benefit_zh": "你所实行的拖拽战技检定获得+2加值。这个加值与“精通拖拽”提供的加值叠加。每当你拖拽敌人，他的移动会引起你的盟友的借机攻击（但是不包括你）。<\/p><p>通常状况：被拖拽的生物不会引起借机攻击。"
 }

@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
     "description": "You hurl weapons with both hands and with great force, sometimes using a whirling technique to send your weapon flying through the air at tremendous speeds.",
-    "prerequisites": "Str 15",
+    "prerequisites": "Str 15.",
     "benefit": "Whenever you use two hands to throw a one-handed or two-handed weapon, you gain a bonus on damage rolls equal to 1-1/2 times your Strength bonus. Using two hands to throw any weapon requires only a standard action for you. If you also have the Quick Draw feat, you can throw two-handed weapons at your full normal rate of attacks.",
     "normal": "You add your Strength bonus on thrown weapon damage, regardless of available hands. Throwing a two-handed weapon is a full-round action.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
-    "staminaText": "When you throw a one-handed thrown weapon with two hands or throw a two-handed thrown weapon, you can spend 2 stamina points to add twice your Strength bonus to that attack’s damage instead of 1-1/2 times your Strength bonus."
+    "staminaText": "When you throw a one-handed thrown weapon with two hands or throw a two-handed thrown weapon, you can spend 2 stamina points to add twice your Strength bonus to that attack’s damage instead of 1-1/2 times your Strength bonus.",
+    "name_zh": "双手掷者",
+    "description_zh": "你双手猛力地投出武器，有时会采用回旋身体等技巧来加大投掷物体的速度。",
+    "prerequisites_zh": "力量15。",
+    "benefit_zh": "当你用双手投掷一件单手或双手武器时，伤害检定获得1.5倍力量修正。双手投掷武器对你而言都是标准动作。若你同时拥有“即时备战”专长，你能以正常全力攻击的频率投掷双手武器。<\/p><p>通常状况：无论用几只手，投掷武器伤害检定添加力量修正。投掷双手武器是一个整轮动作。"
 }

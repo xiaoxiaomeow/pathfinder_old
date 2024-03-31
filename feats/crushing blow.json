@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 94"],
     "description": "Your focus allows you to smash your enemy’s defenses.",
-    "prerequisites": "Improved Unarmed Strike, Stunning Fist",
+    "prerequisites": "Improved Unarmed Strike, Stunning Fist.",
     "benefit": "You can make a Stunning Fist attempt as a full-round action. If successful, instead of stunning your target, you reduce the target’s AC by an amount equal to your Wisdom modifier for 1 minute. This penalty does not stack with other penalties applied due to Crushing Blow.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "When using this feat, you can spend either 2 or 4 stamina points. If you do, the Crushing Blow attack reduces the target’s AC by an additional 1 for every 2 stamina points you spent.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "怒涛碎击",
+    "description_zh": "你专注于如何粉碎敌人的防御。",
+    "prerequisites_zh": "精通徒手打击，震慑拳。",
+    "benefit_zh": "你可以用一个整轮动作来施放一次震慑拳。如果成功，你将不会震慑目标，而是降低其AC，数值为你的感知修正，持续1分钟。该罚值不会与另一次本专长造成的罚值叠加。"
 }

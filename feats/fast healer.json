@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Healer",
     "source": ["Advanced Player's Guide pg. 160"],
     "description": "You benefit greatly from your healing, be it from spells or natural healing.",
-    "prerequisites": "Con 13, Diehard, Endurance",
+    "prerequisites": "Con 13, Diehard, Endurance.",
     "benefit": "When you regain hit points by resting or through magical healing, you recover additional hit points equal to half your Constitution modifier (minimum +1).",
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
-    ]
+    ],
+    "name_zh": "快速自疗",
+    "description_zh": "你能够从治疗中获得更大的收益，无论它是来自魔法还是自然地伤口愈合。",
+    "prerequisites_zh": "体质13，顽强，坚忍。",
+    "benefit_zh": "当你通过休息或者魔法治疗恢复HP时，你能够额外恢复HP，数值等同于你的体质修正的一半（最低+1）。"
 }

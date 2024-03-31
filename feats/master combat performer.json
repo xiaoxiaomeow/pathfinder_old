@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 109"],
     "description": "You are a master of the techniques and weapons of the arena and the stage.",
-    "prerequisites": "Performing Combatant or at least three performance feats, base attack bonus +6",
+    "prerequisites": "Performing Combatant or at least three performance feats, base attack bonus +6.",
     "benefit": "You can make performance combat checks as a free action. You are proficient in all weapons with the performance special quality.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
     "staminaText": "When you attempt a performance combat check, you can spend up to 5 stamina points to gain a bonus on the check equal to the number of stamina points you spent.",
-    "prerequisiteKeys": ["performing combatant"]
+    "prerequisiteKeys": ["performing combatant"],
+    "name_zh": "演武大师",
+    "description_zh": "你是一个在角斗场和舞台上表演武艺的大师。",
+    "prerequisites_zh": "演武斗士或三项演武专长，基本攻击加值+6。",
+    "benefit_zh": "你可以用自由动作进行演武检定。你可以像演武武器一样使用所有武器进行演武。"
 }

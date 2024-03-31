@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Ultimate Magic pg. 155"],
     "description": "Creatures damaged by your spells with the cold descriptor become entangled.",
-    "benefit": "The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell."
+    "benefit": "The frost of your cold spell clings to the target, impeding it for a short time. A rime spell causes creatures that takes cold damage from the spell to become entangled for a number of rounds equal to the original level of the spell.<br><br> This feat only affects spells with the cold descriptor. A rime spell uses up a spell slot one level higher than the spell’s actual level.",
+    "name_zh": "霜冻法术",
+    "description_zh": "被你使用〔寒冷〕描述符的法术所伤害的生物陷入纠缠状态。",
+    "benefit_zh": "你的寒冷法术中的霜雾紧附在目标上，在短时间内阻碍他的行动。霜冻法术影响的生物在受到寒冷伤害时被纠缠等同于法术原本环级的轮数。这个专长仅对带有〔寒冷〕描述符的法术有效。霜冻法术须占用高于原本1个环级的法术位。"
 }

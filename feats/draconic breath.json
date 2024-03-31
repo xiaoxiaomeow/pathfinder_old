@@ -4,8 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Breath",
     "source": ["Advanced Race Guide pg. 136"],
     "description": "You possess draconic defenses and a draconic breath weapon.",
-    "prerequisites": "Draconic Aspect, kobold",
-    "benefit": "You gain a +2 bonus against sleep and paralysis effects. You gain a breath weapon that is determined by your scale coloration by either the Draconic Aspect feat or the dragon-scaled racial trait. Using a breath weapon is a standard action that does not provoke attacks of opportunity. You can use your breath weapon once per day. Creatures within the area of your breath weapon who succeed at a Reflex saving throw (DC 10 + your character level + your Constitution modifier) take only half damage.",
+    "prerequisites": "Draconic Aspect, kobold.",
+    "benefit": "You gain a +2 bonus against sleep and paralysis effects. You gain a breath weapon that is determined by your scale coloration by either the Draconic Aspect feat or the dragon-scaled racial trait. Using a breath weapon is a standard action that does not provoke attacks of opportunity. You can use your breath weapon once per day. Creatures within the area of your breath weapon who succeed at a Reflex saving throw (DC 10 + your character level + your Constitution modifier) take only half damage.<br><br> <i>Black (Su)<\/i>: You breathe a 30-foot line of acid that deals 2d6 points of acid damage.<br> <i>Blue (Su)<\/i>: You breathe a 30-foot line of electricity that deals 2d6 points of electricity damage.<br> <i>Green (Su)<\/i>: You breathe a 15-foot cone of acid that deals 2d6 points of acid damage.<br> <i>Red (Su)<\/i>: You breathe a 15-foot cone of fire that deals 2d6 points of fire damage.<br> <i>White (Su)<\/i>: You breathe a 15-foot cone of cold that deals 2d6 points of cold damage.",
     "special": "Kobold sorcerers with either the Draconic or Kobold bloodline can use their Charisma modifier instead of their Constitution to determine the DC of this breath weapon.",
-    "prerequisiteKeys": ["draconic aspect"]
+    "prerequisiteKeys": ["draconic aspect"],
+    "name_zh": "龙之息",
+    "description_zh": "你拥有龙的抵抗力以及喷吐武器。",
+    "prerequisites_zh": "龙之相，狗头人。",
+    "benefit_zh": "你在对抗睡眠以及麻痹效果时获得+2加值。此外你还获得了喷吐武器，它的类型由你在“龙之相”专长或者【龙鳞】种族特性中选择的鳞片颜色所决定。你能以一个不会引发借机攻击标准动作使用喷吐武器。每天你可以使用1次喷吐武器。在你喷吐武器攻击范围内的生物能以一次成功的DC为“10+角色等级+体质修正”的反射豁免检定免受一半伤害。<\/p><p>黑（Su）：你的喷吐武器形状为30尺直线，造成2d6强酸伤害。<\/p><p>蓝（Su）：你的喷吐武器形状为30尺直线，造成2d6闪电伤害。<\/p><p>绿（Su）：你的喷吐武器形状为15尺锥形，造成2d6强酸伤害。<\/p><p>红（Su）：你的喷吐武器形状为15尺锥形，造成2d6火焰伤害。<\/p><p>白（Su）：你的喷吐武器形状为15尺锥形，造成2d6寒冷伤害。",
+    "special_zh": "龙脉血统或者狗头人血统的狗头人术士可以使用魅力调整值取代体质调整值来决定该喷吐武器的豁免DC。"
 }

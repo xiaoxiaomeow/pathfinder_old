@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 161"],
     "description": "When you reposition foes, they are left vulnerable to the attacks of your allies.",
-    "prerequisites": "Int 13, Combat Expertise, Improved Reposition, base attack bonus +6",
+    "prerequisites": "Int 13, Combat Expertise, Improved Reposition, base attack bonus +6.",
     "benefit": "You receive a +2 bonus on checks made to reposition a foe. This bonus stacks with the bonus granted by Improved Reposition. Whenever you reposition a foe, his movement provokes attacks of opportunity from all of your allies (but not you).",
     "normal": "Creatures moved by reposition do not provoke attacks of opportunity.",
     "staminaSource": ["Pathfinder Unchained pg. 121"],
@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "combat expertise",
         "improved reposition"
-    ]
+    ],
+    "name_zh": "高等移位",
+    "description_zh": "当你改变敌人的位置时，他们会变得容易遭受你盟友的攻击。",
+    "prerequisites_zh": "智力13，寓守于攻，精通移位，基本攻击加值+6。",
+    "benefit_zh": "你所实行的移位战技检定获得+2加值。这个加值与“精通移位”提供的加值叠加。每当你通过移位使敌人移动时，他的移动会引起你的盟友的借机攻击（但是不包括你）。<\/p><p>通常状况：由于移位战技而移动的生物不会引起借机攻击。"
 }

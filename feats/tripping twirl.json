@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Magic pg. 158"],
     "description": "You can make a trip attack with a quarterstaff on all adjacent enemies.",
-    "prerequisites": "Int 13, Combat Expertise, Improved Trip, Tripping Staff, Weapon Focus (quarterstaff), Weapon Specialization (quarterstaff), base attack bonus +12",
+    "prerequisites": "Int 13, Combat Expertise, Improved Trip, Tripping Staff, Weapon Focus (quarterstaff), Weapon Specialization (quarterstaff), base attack bonus +12.",
     "benefit": "As a full-round action, while wielding a quarterstaff two-handed, you can attempt a trip combat maneuver against each enemy adjacent to you.",
     "special": "If you are a magus with the staff magus archetype, you can use spellstrike on any one trip combat maneuver you make with the staff.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
@@ -16,5 +16,10 @@
         "tripping staff",
         "weapon focus",
         "weapon specialization"
-    ]
+    ],
+    "name_zh": "绊摔旋风",
+    "description_zh": "你可以用木棍绊摔所有邻接你的敌人。",
+    "prerequisites_zh": "智力13，寓守于攻，精通绊摔，木棍绊摔，武器专攻（木棍），武器专精（木棍），基本攻击加值+12。",
+    "benefit_zh": "当你以双手武器的方式使用木棍时，以一个整轮动作，你可以用木棍绊摔所有邻接你的敌人，你必须对每一个敌人分别进行绊摔检定。",
+    "special_zh": "如果你是魔剑士变体的法杖士（Staff Magus, UM），你可以在任一次绊摔中使用【法术战斗】。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Cheliax, Empire of Devils pg. 26"],
     "description": "You can use your spiked chain as both armor and weapon.",
-    "prerequisites": "Dex 15, Weapon Focus (spiked chain)",
+    "prerequisites": "Dex 15, Weapon Focus (spiked chain).",
     "benefit": "When wielding a spiked chain, you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2.",
     "prerequisiteKeys": ["weapon focus"]
 }

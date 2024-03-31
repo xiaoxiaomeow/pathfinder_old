@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Discordant%20Voice",
     "source": ["Ultimate Combat pg. 96"],
     "description": "By singing out a precise tone, you cause discordant vibrations to run through allies’ weapons.",
-    "prerequisites": "Bardic performance class feature, Perform (oratory or sing) 10 ranks",
-    "benefit": "Whenever you are using bardic performance to create a spell-like or supernatural effect, allies within 30 feet of you deal an extra 1d6 points of sonic damage with successful weapon attacks. This damage stacks with other energy damage a weapon might deal. Projectile weapons bestow this extra damage on their ammunition, but the extra damage is dealt only if the projectile hits a target within 30 feet of you."
+    "prerequisites": "Bardic performance class feature, Perform (oratory or sing) 10 ranks.",
+    "benefit": "Whenever you are using bardic performance to create a spell-like or supernatural effect, allies within 30 feet of you deal an extra 1d6 points of sonic damage with successful weapon attacks. This damage stacks with other energy damage a weapon might deal. Projectile weapons bestow this extra damage on their ammunition, but the extra damage is dealt only if the projectile hits a target within 30 feet of you.",
+    "name_zh": "不谐之音",
+    "description_zh": "你的高声咏唱中带着精密的计算，让你的盟友挥动武器时产生不和谐的震波。",
+    "prerequisites_zh": "【吟游表演】职业特性，表演（演讲或歌唱）10级。",
+    "benefit_zh": "当你使用【吟游表演】能力时，你可以创建一个类法术或超自然效果，让你附近30尺内的盟友在成功的武器攻击中附加1d6点额外的音波伤害。这个伤害会与武器可能会造成的其他能量伤害叠加。远程武器虽然也可以附加该额外伤害，不过被命中的目标必须位于你附近30尺以内才会生效。"
 }

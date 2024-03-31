@@ -5,8 +5,8 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 106"],
     "description": "You can take advantage of your opponent’s vulnerabilities from a greater distance, and without exposing yourself.",
-    "prerequisites": "Dex 15, Point-Blank Shot, Rapid Shot, Snap Shot, Weapon Focus, base attack bonus +9",
-    "benefit": "You threaten an additional 5 feet with Snap Shot.",
+    "prerequisites": "Dex 15, Point-Blank Shot, Rapid Shot, Snap Shot, Weapon Focus, base attack bonus +9.",
+    "benefit": "You threaten an additional 5 feet with Snap Shot. ",
     "normal": "Making a ranged attack provokes attacks of opportunity.",
     "staminaSource": ["Pathfinder Unchained pg. 123"],
     "staminaText": "At the end of your turn, you can spend 5 stamina points to threaten an additional 15 feet with Snap ShotAPG (instead of an additional 10 feet) until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.",
@@ -15,5 +15,9 @@
         "rapid shot",
         "snap shot",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "精通快枪",
+    "description_zh": "你能从远处抓住对方的弱点射击，且不会因此暴露破绽。",
+    "prerequisites_zh": "敏捷15，近距射击，快速射击，快枪，武器专攻，基本攻击加值+9。",
+    "benefit_zh": "你的“快枪”专长的威胁范围扩大5尺。<\/p><p>通常状况：进行远程攻击将会触发借机攻击。"
 }

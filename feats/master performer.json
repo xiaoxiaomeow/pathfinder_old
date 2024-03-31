@@ -5,7 +5,7 @@
     "descriptors": ["Faction"],
     "source": ["Faction Guide pg. 57"],
     "description": "When using your bardic performance abilities, you grant your allies greater bonuses.",
-    "prerequisites": "Bardic performance class feature, Extra Performance, Kitharodian Academy 15 TPA",
+    "prerequisites": "Bardic performance class feature, Extra Performance, Kitharodian Academy 15 TPA.",
     "benefit": "When any of your bardic performance abilities grant your allies a bonus, that bonus is increased by +1.",
     "prerequisiteKeys": ["extra performance"]
 }

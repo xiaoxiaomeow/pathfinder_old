@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 113"],
     "description": "While prone, you use the ground to stabilize your aim while using a crossbow or firearm.",
-    "prerequisites": "Base attack bonus +1",
+    "prerequisites": "Base attack bonus +1.",
     "benefit": "If you have been prone since the end of your last turn, the penalty to your Armor Class against melee attacks made against you is reduced to –2. In addition, the bonus to your Armor Class against ranged attacks made against you is increased to +6.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
-    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain the bonuses from this feat even if you haven’t been prone since the end of your last turn."
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain the bonuses from this feat even if you haven’t been prone since the end of your last turn.",
+    "name_zh": "匍匐射手",
+    "description_zh": "当你俯卧时，你可以将弩或火器撑在地上稳定的射击。",
+    "prerequisites_zh": "基本攻击加值+1。",
+    "benefit_zh": "如果你在你上一次行动结束时处于俯卧状态，你在对抗近战攻击的防御等级的减值降到-2。此外，你在对抗远程攻击的防御等级的加值上升到+6。 。"
 }

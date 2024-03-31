@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Horror Adventures pg. 85"],
     "description": "Your powerful fists can reduce undead foes to dust.",
-    "prerequisites": "Channel Smite, Improved Unarmed Strike, base attack bonus +9, channel positive energy 4d6",
+    "prerequisites": "Channel Smite, Improved Unarmed Strike, base attack bonus +9, channel positive energy 4d6.",
     "benefit": "On a confirmed critical hit using an unarmed strike against an undead creature, you can expend two uses of your channel energy ability as a swift action to destroy that undead creature. The undead creature can negate this effect with a successful Will saving throw (DC = 10 + your base attack bonus).",
     "prerequisiteKeys":     [
         "channel smite",

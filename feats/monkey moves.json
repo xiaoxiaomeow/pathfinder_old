@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 109"],
     "description": "You scramble around your foes, moving and striking in an erratic fashion.",
-    "prerequisites": "Wis 13, Improved Unarmed Strike, Monkey Style, Acrobatics 8 ranks, Climb 8 ranks",
+    "prerequisites": "Wis 13, Improved Unarmed Strike, Monkey Style, Acrobatics 8 ranks, Climb 8 ranks.",
     "benefit": "While using Monkey Style, you gain a Wisdom bonus on Climb checks. You can also can climb and crawl at half your speed; you can take a 5-foot step by jumping, crawling, or climbing; and you retain your Dexterity bonus to AC while climbing. Further, while using Monkey Style, when you use your unarmed strike to hit an opponent twice or more on your turn, you can spend a swift action to take a 5-foot step even if you have moved this round.",
     "normal": "You climb at one-quarter your speed, and you lose your Dexterity bonus to AC while doing so. A 5-foot step is made using your normal movement modes, and you can take one only if you have not otherwise moved this round.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "monkey style"
-    ]
+    ],
+    "name_zh": "猿步",
+    "description_zh": "你从诡异的角度攻击，令敌人防不胜防。",
+    "prerequisites_zh": "感知13，精通徒手打击，猴拳，特技8级，攀爬8级。",
+    "benefit_zh": "当你处于猴拳流派架势时，你获得以下好处：你可以将你的感知修正加到攀爬检定上。你可以用半速攀爬或匍匐前进。你可以用跳跃，匍匐前进或攀爬来进行五尺快步。当你进行攀爬时，你保留AC上的敏捷加值。如果在你的回合你成功用徒手击打命中一个敌人两次以上，就算你之前进行过移动，也能以一个迅捷动作做一次五尺快步。<\/p><p>通常状况：你的爬行速度为你移动速度的1/4。在攀爬中你失去敏捷的AC加值。五尺快步只能用你通常的移动方式进行，且你只能在该轮没移动过的情况下使用五尺快步。"
 }

@@ -40,13 +40,18 @@ function markTree (key, tree, mark) {
 	let relavant = false;
 	for (i in tree) {
 		let node = tree[i];
-		if (mark || node["key"] == key) {
+		if (mark) {
 			node["marked"] = true;
+		}
+		if (node["key"] == key) {
+			node["marked"] = true;
+			node["force"] = true;
 			markTree(key, node["children"], true);
 			relavant = true;
 		} else {
 			if (markTree(key, node["children"], false)) {
 				node["marked"] = true;
+				node["force"] = true;
 				relavant = true;
 			}
 		}
@@ -65,7 +70,7 @@ function printTree (tree, key, indent) {
 			} else {
 				str += indent + "<a>" + name + "</a>";
 			}
-			str += "<br>" + printTree(node["children"], key, indent + "- ");
+			str += "<br>" + printTree(node["children"], key, indent + "&#12288;");
 		}
 	}
 	return str;
@@ -254,7 +259,7 @@ function loadTransAndSearchElements () {
         translations = JSON.parse(text);
 
         addBoxes(translations.featDescriptorsTranslations, document.getElementById("descriptors"), descriptorsBoxes);
-		addBoxes(["CRB", "Bst", "APG", "UM", "UC", "ARG", "UCpn", "MA", "MC", "Uch", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
+		addBoxes(["CRB", "Bst", "APG", "UM", "UC", "ARG", "UCa", "MA", "MC", "Uch", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
     }).catch(error => {
         console.log(error);
     });
@@ -342,12 +347,15 @@ function featLegal (ft) {
 }
 function populateFeat (ft, table, indent, gray) {
 	let row = document.createElement("tr");
-	let nameCell = cell(indent + (ft["name_zh"] ?? ft["name"]));
+	let div = document.createElement("div");
+	div.innerHTML = indent;
+	let nameCell = cell(ft["name_zh"] ?? ft["name"]);
 	if (gray) {
 		nameCell.style.color = "gray";
 	}
 	nameCell.className = "tooltip";
-	row.appendChild(nameCell);
+	div.appendChild(nameCell);
+	row.appendChild(div);
 	row.appendChild(centerCell(connect(ft["descriptors"], ", ", translations.featDescriptorsTranslations)));
 	row.appendChild(centerCell(getSimpTranslatedSource(ft)));
 
@@ -392,10 +400,10 @@ function populateTree (table, tree, indent) {
 		let node = tree[i];
 		if (node["marked"]) {
 			let ft = featDict[node["key"]];
-			if (sourceLegal(ft)) {
+			if (sourceLegal(ft) || node["force"]) {
 				populateFeat(ft, table, indent, !featLegal(ft));
 			}
-			populateTree(table, node["children"], indent + "- ");
+			populateTree(table, node["children"], indent + "&#12288;");
 		}
 	}
 }

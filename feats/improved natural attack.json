@@ -5,7 +5,12 @@
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 315"],
     "description": "Attacks made by one of this creature’s natural attacks leave vicious wounds.",
-    "prerequisites": "Natural weapon, base attack bonus +4",
-    "benefit": "Choose one of the creature’s natural attack forms (not an unarmed strike). The damage for this natural attack increases by one step on the following list, as if the creature’s size had increased by one category. Damage dice increase as follows: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.",
-    "special": "This feat can be taken multiple times. Each time it is taken, it applies to a different natural attack."
+    "prerequisites": "Natural weapon, base attack bonus +4.",
+    "benefit": "Choose one of the creature’s natural attack forms (not an unarmed strike). The damage for this natural attack increases by one step on the following list, as if the creature’s size had increased by one category. Damage dice increase as follows: 1d2, 1d3, 1d4, 1d6, 1d8, 2d6, 3d6, 4d6, 6d6, 8d6, 12d6.<br><br> A weapon or attack that deals 1d10 points of damage increases as follows: 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8.",
+    "special": "This feat can be taken multiple times. Each time it is taken, it applies to a different natural attack.",
+    "name_zh": "精通天生武器攻击",
+    "description_zh": "这个生物的天生武器可以造成可怕的伤害。",
+    "prerequisites_zh": "拥有天生武器攻击，基本攻击加值+4。",
+    "benefit_zh": "选择一种你拥有的天生武器攻击（不可以是徒手击打），其可造成的伤害投骰按以下列表提升一个体型等级：1d2，1d3，1d4，1d6，1d8，2d6，3d6，4d6，6d6，8d6，12d6。如果天生武器的起始伤害为1d10，则依据此表：1d10，2d8，3d8，4d8，6d8，8d8，12d8。",
+    "special_zh": "生物可以多次选择本专长，每次选择本专长时，它必须将之应用在一项新的天生武器攻击上。"
 }

@@ -12,10 +12,10 @@
     "staminaText": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a –5 penalty on the attack roll and costs one of your attacks of opportunity for the round.",
     "mythicSource": ["Mythic Adventures pg. 61"],
     "mythicDescription": "You strike viciously whenever your foe gives you an opening.",
-    "mythicPrerequisites": "Combat Reflexes",
+    "mythicPrerequisites": "Combat Reflexes.<br><br",
     "mythicBenefit": "You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you’ve already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving.",
     "name_zh": "战斗反射",
     "description_zh": "你能进行额外的藉机攻击。",
-    "benefit_zh": "每轮你能获得等同于敏捷修正次数的额外藉机攻击。同样，你在措手不及的情况下，也能进行藉机攻击。",
-    "special_zh": "此专长不能让盗贼在一个回合中多次使用【乘势攻击】高级天赋的效果。"
+    "benefit_zh": "每轮你能获得等同于敏捷修正次数的额外藉机攻击。同样，你在措手不及的情况下，也能进行藉机攻击。<\/p><p>通常状况：没有这个专长的角色每轮只能进行1次藉机攻击，并且在措手不及时不能进行藉机攻击。",
+    "special_zh": "此专长不能让盗贼在一个回合中多次使用【乘势攻击】高级天赋的效果。<\/p><p>【速查】乘势攻击（Opportunist）：每轮1次，盗贼可以对刚刚被其他角色的近战伤害到的敌人作一次藉机攻击。该攻击计入盗贼每轮藉机攻击次数中。即使有“战斗反射”专长，盗贼也不能每轮使用此能力1次以上。"
 }

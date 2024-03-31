@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 141"],
     "description": "With a simple hit, you more easily intimidate an opponent.",
-    "prerequisites": "Intimidate 1 rank, orc",
+    "prerequisites": "Intimidate 1 rank, orc.",
     "benefit": "As a standard action, you may make a melee attack with a –2 penalty on the attack roll. If the attack damages your opponent, you may make an Intimidate check to demoralize that opponent as a free action.",
     "normal": "Intimidating an opponent is a standard action.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
-    "staminaText": "You can spend 2 stamina points to gain the effects of this feat on a single attack made as part of a full attack."
+    "staminaText": "You can spend 2 stamina points to gain the effects of this feat on a single attack made as part of a full attack.",
+    "name_zh": "威吓猛击",
+    "description_zh": "借助简单的一击，你可以更容易地吓住敌人。",
+    "prerequisites_zh": "威吓1级，兽人。",
+    "benefit_zh": "以一个标准动作，你可以在攻击检定上承受-2罚值进行一次近战攻击。若该攻击对你的敌人造成伤害，你能以一个自由动作对该敌人进行一次挫败士气的威吓检定。<\/p><p>通常状况：威吓一名敌人是一个标准动作。"
 }

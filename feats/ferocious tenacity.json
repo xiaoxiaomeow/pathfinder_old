@@ -8,8 +8,12 @@
         "Orcs of Golarion pg. 24"
     ],
     "description": "You spit in the face of death.",
-    "prerequisites": "Ferocity racial trait, half-orc or orc, rage class feature",
-    "benefit": "Once per day when raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep yourself alive. Each round of rage you spend reduces the attack’s damage by 1 point, but cannot reduce the damage taken below 1 hit point.",
+    "prerequisites": "Ferocity racial trait, half-orc or orc, rage class feature.",
+    "benefit": "Once per day when raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep yourself alive. Each round of rage you spend reduces the attack’s damage by 1 point, but cannot reduce the damage taken below 1 hit point.<br><br> For example, if you are raging, have a raging Constitution score of 18, are currently at 2 hit points, and take 20 hit points of damage from a hit (which is enough to bring you to –18 hit points, thereby killing you), you may spend 1 round of rage to reduce the damage by 1 hit point (leaving you perilously close to death at –17 hit points); if you spend 17 rounds of rage, you reduce the damage to 1 (the minimum), leaving you with 1 hit point.",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
-    "staminaText": "When using this feat, you can spend 2 stamina points in place of 1 round of rage to gain the same effects."
+    "staminaText": "When using this feat, you can spend 2 stamina points in place of 1 round of rage to gain the same effects.",
+    "name_zh": "不屈凶暴",
+    "description_zh": "你对死亡不屑一顾。",
+    "prerequisites_zh": "“凶猛”种族特性，半兽人或兽人，【狂暴】职业特性。",
+    "benefit_zh": "当你处于狂暴状态时，每天1次，如果你受到一次攻击所造成的伤害足以杀死你（负HP等同于你的体质属性），你能够以一个直觉动作并花费1或更多的狂暴轮数降低该伤害并使你存活下来。你所花费的每个狂暴轮数能够降低1点该次攻击的伤害，但是无法将该次伤害降低至1点以下。<\/p><p>比如，当你处于狂暴状态，拥有18点体质，当前HP为2点，并且受到一次造成20点伤害的攻击（这足以使你的HP降至-18点并杀死你），你能够花费1轮狂暴轮数使伤害降低1点（这使你的HP降至-17点并免于被直接杀死）；如果你花费17轮狂暴轮数，你能够将伤害降至1点（最低值），使你还剩1点HP。【编者吐槽：2-20+17=1，原文如此，可作为数死早的范例。】<\/p><p>备注：如果该伤害仍会使你失去意识，你的狂暴就会像通常情况那样结束，将你的体质属性降至普通状态并使你的总HP恢复正常。因此，上述例子允许你使用该专长防止自己立刻死亡，但是你仍可能由于负HP超过正常体质属性而……所以当你使用该专长并决定花费多少狂暴轮数时，多考虑一下原本的体质属性。<\/p><p>【译注：【凶猛（Ferocity）】为兽人种族特性，半兽人初始木有。】<\/p><p>【编注：通过“凶暴决意”专长获得的“凶猛”通用特性应该可以视作满足这里的先决条件。】"
 }

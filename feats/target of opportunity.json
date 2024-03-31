@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 122"],
     "description": "You and your allies pelt your enemies with a deadly barrage of missiles. ",
-    "prerequisites": "Point-Blank Shot, base attack bonus +6",
+    "prerequisites": "Point-Blank Shot, base attack bonus +6.",
     "benefit": "When an ally who also has this feat makes a ranged attack and hits an opponent within 30 feet of you, you can spend an immediate action to make a single ranged attack against that opponent. Your ranged weapon must be in hand, loaded, and ready to be fired or thrown for you to make the ranged attack.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
     "staminaText": "You can spend 5 stamina points to make the attack granted by this feat as an attack of opportunity instead of an immediate action. You can use this combat trick only once per round.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "见缝插针",
+    "description_zh": "你和你的盟友对敌人发起致命的弹幕攻势。",
+    "prerequisites_zh": "近距射击，基本攻击加值+6。",
+    "benefit_zh": "当你的盟友以远程攻击命中你30尺内目标时，你可以通过直觉动作对该目标发起单次远程攻击。你的远程武器必须在手、上膛且已经可以开火或投掷。"
 }

@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pass%20For%20Human",
     "source": ["Advanced Player's Guide pg. 166"],
     "description": "You’re easily mistaken for a human rather than a member of your own race.",
-    "prerequisites": "Half-elf, half-orc, or halfling (see Special)",
+    "prerequisites": "Half-elf, half-orc, or halfling (see Special).",
     "benefit": "You receive a +10 bonus on Disguise checks to disguise yourself as a human, and do not receive the penalty for disguising yourself as a member of another race when you do so. In areas largely populated or settled by humans, you can take 10 on your Disguise check, meaning most people tend to assume you are human unless given a reason to think otherwise.",
-    "special": "A halfling may take this feat, but must have the Childlike feat as a prerequisite. The benefits of the two feats stack."
+    "special": "A halfling may take this feat, but must have the Childlike feat as a prerequisite. The benefits of the two feats stack.",
+    "name_zh": "人类之证",
+    "description_zh": "你很容易被误认为是人类，而非你的同族。",
+    "prerequisites_zh": "半精灵，半兽人或者半身人（见特殊说明）。",
+    "benefit_zh": "当你把自己伪装成人类时，你的易容检定获得+10加值，并且当你这么做的时候，易容检定不会由于将自己易容成其他种族成员而受到减值。在人类所占比率很高或者人类的社区内，你可以在这个易容检定中取10，这意味着除非给他们一个理由去进行怀疑，大多数人都倾向于认为你是人类。",
+    "special_zh": "半身人可以选择该专长，但是必须拥有“童颜”专长作为先决条件。这两个专长的好处叠加。"
 }

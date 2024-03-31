@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Monster%20Lore",
     "source": ["Ultimate Magic pg. 153"],
     "description": "You are obsessed with the abilities and weaknesses of monsters.",
-    "prerequisites": "Monster lore class feature",
-    "benefit": "You gain a sacred bonus on all skill checks to identify the abilities and weaknesses of creatures equal to 1/2 your level in classes that grant you the monster lore class feature."
+    "prerequisites": "Monster lore class feature.",
+    "benefit": "You gain a sacred bonus on all skill checks to identify the abilities and weaknesses of creatures equal to 1/2 your level in classes that grant you the monster lore class feature.",
+    "name_zh": "进阶怪物学识",
+    "description_zh": "你痴迷与研究怪物的能力和它们的弱点。",
+    "prerequisites_zh": "【怪物学识】职业特性。",
+    "benefit_zh": "你在所有拥有识别怪物能力和其弱点的技能检定上，获得等同于对应职业等级一半的神圣加值。"
 }

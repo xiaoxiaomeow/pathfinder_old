@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 90"],
     "description": "With a sly maneuver, you force a grappled opponent into the path of an incoming attack.",
-    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6",
+    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike, base attack bonus +6.",
     "benefit": "As an immediate action while you are grappling an adjacent creature, you can make a grapple combat maneuver check against that creature to gain cover against a single attack. If you are successful and the attack misses you, that attack targets the creature you used as cover, using the same attack roll. You cannot use this feat against a creature grappling you, and the cover you gain ends after the attack you gained cover against is resolved.",
     "staminaSource": ["Pathfinder Unchained pg. 114"],
     "staminaText": "You can spend 5 stamina points to use this feat against a creature grappling you.",
     "prerequisiteKeys":     [
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "化敌为盾",
+    "description_zh": "通过巧妙的施力，你将被擒抱的敌人转向攻击袭来的方位。",
+    "prerequisites_zh": "精通擒抱，基本攻击加值+6。",
+    "benefit_zh": "当你擒抱一个相邻生物时，以直觉动作，你可以对其进行一次擒抱战技检定使其为你抵挡一次攻击。如果你成功，这次攻击不会命中你，而是会以正被你擒抱的生物为目标，使用相同的攻击检定。你不能对正擒抱你的生物使用该专长，并且掩蔽效果将在你抵消该次攻击后消失。"
 }

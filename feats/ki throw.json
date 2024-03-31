@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 164"],
     "description": "Your physical control and mastery of momentum allows you to throw enemies.",
-    "prerequisites": "Improved Trip, Improved Unarmed Strike",
+    "prerequisites": "Improved Trip, Improved Unarmed Strike.",
     "benefit": "On a successful unarmed trip attack against a target your size or smaller, you may throw the target prone in any square you threaten rather than its own square. This movement does not provoke attacks of opportunity, and you cannot throw the creature into a space occupied by other creatures.",
     "special": "A monk may gain <i>Ki<\/i> Throw as a bonus feat at 10th level. A monk with this feat can affect creatures larger than his own size by spending 1 <i>ki<\/i> point per size category difference.",
     "staminaSource": ["Pathfinder Unchained pg. 125"],
@@ -13,5 +13,10 @@
     "prerequisiteKeys":     [
         "improved trip",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "太极推手",
+    "description_zh": "你的身体控制能力以及对动量的掌握能够将敌人摔飞出去。",
+    "prerequisites_zh": "精通绊摔，精通徒手打击。",
+    "benefit_zh": "当你成功对目标进行徒手绊摔攻击，并且目标的体型小于等于你的时候，你能够让目标摔倒在任何你正在威胁的方格内，而非他原本占据的方格。这个移动不会引发借机攻击，你也无法将该名生物摔进有其他生物占据的空间内。",
+    "special_zh": "10级起，武僧能够将“太极推手”作为奖励专长选取。具有该专长的武僧能够影响比自身体型更大的生物，只要他支付每级体型差距1点气即可。"
 }

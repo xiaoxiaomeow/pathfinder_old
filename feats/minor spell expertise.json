@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Minor%20Spell%20Expertise",
     "source": ["Advanced Player's Guide pg. 165"],
     "description": "You are able to cast a 1st-level spell as a spell-like ability.",
-    "prerequisites": "Ability to cast 4th-level spells",
+    "prerequisites": "Ability to cast 4th-level spells.",
     "benefit": "Choose one 1st-level spell that you know. You may cast that spell twice per day as a spell-like ability. The caster level for this spell-like ability is equal to your caster level in the class from whose spell list the spell is taken. The spell-like ability’s save DC is Charisma-based. If the spell has an expensive focus or material component, it may not be chosen for this feat. You cannot apply metamagic feats to this spell.",
-    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new spell."
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new spell.",
+    "name_zh": "次等法术专修",
+    "description_zh": "你能够以类法术能力施放1级法术。",
+    "prerequisites_zh": "能够施放4环法术。",
+    "benefit_zh": "选择一个你已知的1环法术。你能够每日以类法术能力施放该法术2次。而这个法术取自哪个职业的列表，它的CL就等同于你在该职业上的CL。类法术能力的豁免DC基于魅力。如果该法术需要昂贵的材料或法器成分，它就不能被该专长所选取。你不能将超魔专长应用到该法术上。",
+    "special_zh": "你可以多次选取该专长。它的效果不会叠加。每次选取该专长，它都会应用在一个新的法术上。"
 }

@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 113"],
     "description": "You easily block enemy escapes. ",
-    "prerequisites": "Combat Reflexes, fighter level 11th",
+    "prerequisites": "Combat Reflexes, fighter level 11th.",
     "benefit": "Whenever an opponent you threaten takes a 5-foot step or uses the withdraw action, that opponent provokes an attack of opportunity from you. If the attack hits, you deal no damage, but the targeted creature is prevented from making the move action that granted a 5-foot step or the withdraw action and does not move.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
     "staminaText": "When using this feat, you can spend 5 stamina points to gain its benefits and still deal damage with the attack of opportunity.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys": ["combat reflexes"],
+    "name_zh": "压迫锚定",
+    "description_zh": "你可以轻松的阻止敌人逃跑。",
+    "prerequisites_zh": "战斗反射，战士等级11。",
+    "benefit_zh": "每当你威胁之下的对手进行五尺快步或使用撤退动作，他都将触发你的借机攻击。如果攻击命中，你不造成伤害，不过目标这次5尺快步或撤退动作将不能移动任何距离。"
 }

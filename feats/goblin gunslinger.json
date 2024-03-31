@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 118"],
     "description": "You have learned how to fire the big guns.",
-    "prerequisites": "Goblin",
+    "prerequisites": "Goblin.",
     "benefit": "You can wield Medium firearms without taking the penalty for an inappropriately sized weapon.",
     "normal": "You take a –2 penalty when using an inappropriately sized weapon.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
-    "staminaText": "When wielding a firearm that deals fire damage, when you threaten but fail to confirm a critical hit, you can spend 5 stamina points to regain 1 grit point. You still can’t gain a grit point if the target is immune to critical hits."
+    "staminaText": "When wielding a firearm that deals fire damage, when you threaten but fail to confirm a critical hit, you can spend 5 stamina points to regain 1 grit point. You still can’t gain a grit point if the target is immune to critical hits.",
+    "name_zh": "地精铳士",
+    "description_zh": "你学会了如何使用大枪射击。",
+    "prerequisites_zh": "地精。",
+    "benefit_zh": "你可以使用中型火器而不会由于使用越型武器而受到罚值。<\/p><p>通常状况：当你使用越型武器时受到-2减值。"
 }

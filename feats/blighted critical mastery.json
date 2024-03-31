@@ -5,7 +5,11 @@
     "descriptors": ["Critical"],
     "source": ["Ultimate Magic pg. 143"],
     "description": "You control the type of spellblight your critical hits give your opponent. ",
-    "prerequisites": "Blighted Critical, caster level 9th",
+    "prerequisites": "Blighted Critical, caster level 9th.",
     "benefit": "Whenever you apply a spellblight by way of the Blighted Critical or Greater Blighted critical feat, you can choose the spellblight you apply rather than determining it randomly.",
-    "prerequisiteKeys": ["blighted critical"]
+    "prerequisiteKeys": ["blighted critical"],
+    "name_zh": "荒芜重击熟稔",
+    "description_zh": "你能在造成重击时选择目标所遭受的法术荒疫的种类。",
+    "prerequisites_zh": "荒芜重击，施法者等级9级。",
+    "benefit_zh": "当你使用“荒芜重击”或者“高等荒芜重击”专长时，你可以选择指定的法术荒疫而非随机效果。"
 }

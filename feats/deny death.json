@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deny%20Death",
     "source": ["Ultimate Magic pg. 148"],
     "description": "Your <i>ki<\/i> is so strong that it can deny death.",
-    "prerequisites": "<i>Ki<\/i> pool, Endurance",
+    "prerequisites": "<i>Ki<\/i> pool, Endurance.",
     "benefit": "As long as you have 1 <i>ki<\/i> point in your <i>ki<\/i> pool, when you fail your Constitution check to stabilize, you do not lose 1 hit point. If you succeed at the check, you can spend 1 <i>ki<\/i> point to heal 1d6 hit points. If you roll a natural 20 on the check to stabilize, you can spend 1 <i>ki<\/i> point to heal 2d6 hit points of damage instead.",
-    "prerequisiteKeys": ["endurance"]
+    "prerequisiteKeys": ["endurance"],
+    "name_zh": "抗拒死亡",
+    "description_zh": "你的气是如此的强大以至于能够抗拒死亡。",
+    "prerequisites_zh": "【气运丹田】能力，坚忍。",
+    "benefit_zh": "只要你在气池中存在至少1点气，当你在稳定伤势的体质检定中失败时，你不会失去1点HP。如果你在检定中成功，你可以花费1点气治疗1d6点伤害。如果你在检定中骰出20，你可以花费1点气治疗2d6点伤害。"
 }

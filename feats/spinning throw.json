@@ -5,8 +5,8 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 120"],
     "description": "You whirl your foe around and then let go.",
-    "prerequisites": "Combat Expertise, Improved Bull Rush, Improved Trip, Improved Unarmed Strike, <i>Ki<\/i> Throw",
-    "benefit": "On a successful unarmed trip combat maneuver against an opponent your size or smaller, you can spend a swift action to attempt a bull rush combat maneuver against that opponent. If your bull rush succeeds, you can move that opponent to any unoccupied square you threaten, then push that opponent the number of 5-foot increments your successful bull rush allows. The target is then knocked prone. If the bull rush fails, you can use the <i>Ki<\/i> Throw feat as normal.",
+    "prerequisites": "Combat Expertise, Improved Bull Rush, Improved Trip, Improved Unarmed Strike, <i>Ki<\/i> Throw.",
+    "benefit": "On a successful unarmed trip combat maneuver against an opponent your size or smaller, you can spend a swift action to attempt a bull rush combat maneuver against that opponent. If your bull rush succeeds, you can move that opponent to any unoccupied square you threaten, then push that opponent the number of 5-foot increments your successful bull rush allows. The target is then knocked prone. If the bull rush fails, you can use the <i>Ki<\/i> Throw feat as normal. <br><br> If you also have the Improved <i>Ki<\/i> Throw feat, a successful bull rush allows you to push the opponent into a space secondary targets occupy. You resolve this effect as if you used the Improved <i>Ki<\/i> Throw feat to throw the opponent into that space.",
     "special": "Per the <i>Ki<\/i> Throw feat, a monk can use <i>ki<\/i> to affect creatures larger than himself with this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 132"],
     "staminaText": "If you succeed at the bull rush check, you can spend 2 stamina points to push the opponent 5 additional feet, or 4 stamina points to push the target 10 additional feet.",
@@ -15,5 +15,10 @@
         "improved bull rush",
         "improved trip",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "回旋推手",
+    "description_zh": "你将对手卷入旋风，再将之抛出。",
+    "prerequisites_zh": "寓守于攻，精通冲撞，精通绊摔，精通徒手打击，太极推手（Ki Throw, APG）。",
+    "benefit_zh": "在成功对一个体型和你相等、或更小的生物使用了徒手绊摔战技后，你能以迅捷动作对其尝试一次冲撞战技。若冲撞成功，则你能够将该对手移至你威胁范围内的任一空格，再根据冲撞战技的结果将其以5尺增量撞开，并让其倒地。若冲撞检定失败，你可以如常使用“太极推手”专长。若你同时拥有“精通太极推手（Improved Ki Throw, APG）”专长，成功的冲撞还能将对手冲往已被其他生物占据的方格。具体效果判定如同“精通太极推手”专长详述。",
+    "special_zh": "武僧每拥有一个太极推手系列专长，就能用气以此专长影响体型大一级的生物。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 171"],
     "description": "Your critical hits can sunder your foes’ weapons.",
-    "prerequisites": "Str 13, Improved Sunder, Power Attack, base attack bonus +9",
+    "prerequisites": "Str 13, Improved Sunder, Power Attack, base attack bonus +9.",
     "benefit": "Whenever you score a critical hit with a melee attack, you can sunder your opponent’s weapon, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may deal damage to your opponent’s weapon as if from the sunder combat maneuver (roll normal damage to the weapon separately). This does not provoke an attack of opportunity.",
     "normal": "You must perform a sunder combat maneuver to sunder an opponent’s weapon.",
     "special": "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll.",
@@ -14,5 +14,10 @@
     "prerequisiteKeys":     [
         "improved sunder",
         "power attack"
-    ]
+    ],
+    "name_zh": "破武重击",
+    "description_zh": "你的重击能够击破敌人的武器。",
+    "prerequisites_zh": "力量13，精通破武，猛力攻击，基本攻击加值+9。",
+    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够击破敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么你能够击破敌人的武器，就如同进行了破武战技检定一般（单独对武器进行正常的伤害检定）。这不会引起借机攻击。<\/p><p>通常状况：你必须进行破武战技检定才能击破敌人的武器。",
+    "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。"
 }

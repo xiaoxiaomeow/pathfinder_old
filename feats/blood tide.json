@@ -4,8 +4,8 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Tide",
     "source": ["Monster Codex pg. 189"],
     "description": "In the throes of blood frenzy, you can unleash a whirlwind of claws and teeth against your foes.",
-    "prerequisites": "Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin",
-    "benefit": "When you make a full attack while in a blood frenzy, you can give up your regular attacks to instead make one melee attack at your highest base attack bonus against each bleeding or wounded opponent within reach. You must use a natural weapon with these attacks, and you must make a separate attack roll against each opponent. You do not need to use the same natural weapon against each opponent.",
+    "prerequisites": "Combat Expertise, Greater Blood Frenzy, base attack bonus +6, blood frenzy ability, sahuagin.",
+    "benefit": "When you make a full attack while in a blood frenzy, you can give up your regular attacks to instead make one melee attack at your highest base attack bonus against each bleeding or wounded opponent within reach. You must use a natural weapon with these attacks, and you must make a separate attack roll against each opponent. You do not need to use the same natural weapon against each opponent.<br><br> When you use Blood Tide, you also forfeit any extra attacks granted by other feats, spells, or abilities.",
     "prerequisiteKeys":     [
         "combat expertise",
         "greater blood frenzy"

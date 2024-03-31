@@ -5,8 +5,13 @@
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 315"],
     "description": "This creature can use one of its spell-like abilities with next to no effort.",
-    "prerequisites": "Spell-like ability at CL 10th or higher",
-    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions described in this feat. The creature can use the chosen spell-like ability as a quickened spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).",
+    "prerequisites": "Spell-like ability at CL 10th or higher.",
+    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions described in this feat. The creature can use the chosen spell-like ability as a quickened spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day). <br><br> Using a quickened spell-like ability is a swift action that does not provoke an attack of opportunity. The creature can perform another action—including the use of another spell-like ability (but not another swift action)—in the same round that it uses a quickened spell-like ability. The creature may use only one quickened spell-like ability per round. <br><br> The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level (round down) – 4. For a summary, see the table below. <br><br> A spell-like ability that duplicates a spell with a casting time greater than 1 full round cannot be quickened.<br><br><table class=\"inner\"><tr><td>",
     "normal": "The use of a spell-like ability normally requires a standard action (at the very least) and provokes an attack of opportunity.",
-    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different one of its spell-like abilities."
+    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different one of its spell-like abilities.",
+    "name_zh": "类法术能力瞬发",
+    "description_zh": "这个生物可以以极短的时间发动类法术能力。",
+    "prerequisites_zh": "拥有施法者等级10级以上的类法术能力。",
+    "benefit_zh": "选择一项该生物拥有的类法术能力，每天3次，该生物可以如同搭配了“法术瞬发”超魔般使用此类法术能力（除非该生物每天可以使用该类法术能力的次数低于3次）。每当该生物使用类法术能力瞬发时，这个法术的施法时间降低为迅捷动作且不会引发借机攻击。在本轮内，这个生物仍然可以进行其他动作——包括施放类法术能力（以标准动作）。这个生物每轮只能施放一个瞬发类法术能力。该生物必须选择一个法术环级不超过“1/2生物最高CL-4”的类法术能力以搭配此专长。详见表：类法术能力强效与瞬发。<\/p><p>通常状况：使用类法术能力通常至少需要一个标准动作，且会引发其他生物的借机攻击。",
+    "special_zh": "生物可以多次选择本专长。每次选择此专长时，它的效果将应用在另一个类法术能力上。<\/p><p>表：类法术能力强效与瞬发类法术环级<\/p><p> 类法术强效<\/p><p>所需施法者等级<\/p><p> 类法术瞬发<\/p><p>所需施法者等级0环<\/p><p> 4级<\/p><p> 8级1环<\/p><p> 6级<\/p><p> 10级2环<\/p><p> 8级<\/p><p> 12级3环<\/p><p> 10级<\/p><p> 14级4环<\/p><p> 12级<\/p><p> 16级5环<\/p><p> 14级<\/p><p> 18级6环<\/p><p> 16级<\/p><p> 20级7环<\/p><p> 18级<\/p><p> -8环<\/p><p> 20级<\/p><p> -9环<\/p><p> -<\/p><p> -"
 }

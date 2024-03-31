@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Uncanny%20Alertness",
     "source": ["Ultimate Magic pg. 158"],
     "description": "Your research into arcana and the nature of reality has given you heightened senses. ",
-    "prerequisites": "Alertness",
+    "prerequisites": "Alertness.",
     "benefit": "This feat gives you an additional +1 bonus on Perception and Sense Motive checks, and you gain a +2 bonus on saving throws against sleep and charm effects.",
-    "prerequisiteKeys": ["alertness"]
+    "prerequisiteKeys": ["alertness"],
+    "name_zh": "离奇警觉",
+    "description_zh": "对奥术与自然的研究使得你的感官更为敏锐。",
+    "prerequisites_zh": "警觉。",
+    "benefit_zh": "这个专长给予你在感知和察言观色上额外的+1加值，并且在对抗睡眠和魅惑法术的豁免上获得+2加值。"
 }

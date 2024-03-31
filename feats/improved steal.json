@@ -5,14 +5,18 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 163"],
     "description": "You have a knack for snatching items from your opponents.",
-    "prerequisites": "Int 13, Combat Expertise",
+    "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "You do not provoke an attack of opportunity when performing a steal combat maneuver. In addition, you receive a +2 bonus on checks made to steal an item from a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to steal an item from you.",
     "normal": "You provoke an attack of opportunity when performing a steal combat maneuver.",
     "staminaSource": ["Pathfinder Unchained pg. 124"],
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a steal<sup>APG<\/sup> combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that steal attempt increases by that number.",
     "mythicSource": ["Mythic Adventures pg. 67"],
     "mythicDescription": "Your light fingers can lift even the most closely held item off an enemy.",
-    "mythicPrerequisites": "Improved Steal",
-    "mythicBenefit": "You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you. These bonuses stack with those granted by Improved Steal.",
-    "prerequisiteKeys": ["combat expertise"]
+    "mythicPrerequisites": "Improved Steal.<br><br",
+    "mythicBenefit": "You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you. These bonuses stack with those granted by Improved Steal.<br><br> Furthermore, you can make an attack of opportunity against any creature that attempts a steal maneuver against, you unless it also has this feat.",
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通盗取",
+    "description_zh": "你懂得从敌人那里抢夺物品的诀窍。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "当你使用盗取战技时不会引起借机攻击。此外，你所实行的盗取战技检定获得+2加值。你还在对抗针对自身的盗取战技时，CMD获得+2加值。<\/p><p>通常状况：当你使用盗取战技时会引起借机攻击。"
 }

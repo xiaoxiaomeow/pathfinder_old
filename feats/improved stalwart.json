@@ -4,11 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stalwart",
     "source": ["Ultimate Combat pg. 106"],
     "description": "You can roll with the punches while simultaneously striking back at your attackers.",
-    "prerequisites": "Diehard, Endurance, Stalwart, base attack bonus +11",
+    "prerequisites": "Diehard, Endurance, Stalwart, base attack bonus +11.",
     "benefit": "Double the DR you gain from Stalwart, to a maximum of DR 10/—.",
     "prerequisiteKeys":     [
         "diehard",
         "endurance",
         "stalwart"
-    ]
+    ],
+    "name_zh": "精通坚毅",
+    "description_zh": "你圆转地接下攻击，并立刻反击。",
+    "prerequisites_zh": "顽强，坚忍，坚毅，基本攻击加值+11。",
+    "benefit_zh": "你从“坚毅”专长获得的伤害减免加倍，最大达到“10/-”。"
 }

@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Perfection",
     "source": ["Advanced Player's Guide pg. 170"],
     "description": "You are unequaled at the casting of one particular spell.",
-    "prerequisites": "Spellcraft 15 ranks, at least three metamagic feats",
-    "benefit": "Pick one spell which you have the ability to cast. Whenever you cast that spell you may apply any one metamagic feat you have to that spell without affecting its level or casting time, as long as the total modified level of the spell does not use a spell slot above 9th level. In addition, if you have other feats which allow you to apply a set numerical bonus to any aspect of this spell (such as Spell Focus, Spell Penetration, Weapon Focus [ray], and so on), double the bonus granted by that feat when applied to this spell."
+    "prerequisites": "Spellcraft 15 ranks, at least three metamagic feats.",
+    "benefit": "Pick one spell which you have the ability to cast. Whenever you cast that spell you may apply any one metamagic feat you have to that spell without affecting its level or casting time, as long as the total modified level of the spell does not use a spell slot above 9th level. In addition, if you have other feats which allow you to apply a set numerical bonus to any aspect of this spell (such as Spell Focus, Spell Penetration, Weapon Focus [ray], and so on), double the bonus granted by that feat when applied to this spell.",
+    "name_zh": "完全法术",
+    "description_zh": "当你施放某个特定法术时，效果拔群。",
+    "prerequisites_zh": "法术辨识15级，至少3项超魔专长。",
+    "benefit_zh": "选择一个你能够施放的法术。每当你施放这个法术时，只要法术总的调整等级不会使用超过9环的法术位，你就能够将一个你拥有的超魔专长应用到这个法术上，而不会改变它的环级和施放时间。此外，如果你拥有其他专长，这些专长的效果允许你将一些数据加值应用到法术的任意方面（比如“法术专攻”，“法术穿透”，“武器专攻（射线）”等等），那么当应用于这个法术时，这些专长带来的加值加倍。"
 }

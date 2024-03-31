@@ -5,6 +5,10 @@
     "descriptors": ["Grit"],
     "source": ["Ultimate Combat pg. 119"],
     "description": "You are known for performing a particular deed, and can perform it with greater ease.",
-    "prerequisites": "Grit class feature, gunslinger level 11th",
-    "benefit": "Pick a deed that you have access to and that you must spend grit to perform. Once per round, you can perform this deed for 1 fewer grit point (minimum 0). You can reduce the cost of a deed in this way only if you have at least 1 grit point."
+    "prerequisites": "Grit class feature, gunslinger level 11th.",
+    "benefit": "Pick a deed that you have access to and that you must spend grit to perform. Once per round, you can perform this deed for 1 fewer grit point (minimum 0). You can reduce the cost of a deed in this way only if you have at least 1 grit point.",
+    "name_zh": "招牌动作",
+    "description_zh": "你因一个特定的铳技而闻名，而且你这个动作时特别轻松。",
+    "prerequisites_zh": "【勇毅】职业特性，铳士11级。",
+    "benefit_zh": "选择一个必须消耗勇毅点的、你可用的铳技。每轮一次，你可以少消耗1点勇毅点（最少为0）来使用这个铳技。如果使用这个铳技所需勇毅点消耗减少到0，你可以在你拥有至少1点勇毅点时任意使用。"
 }

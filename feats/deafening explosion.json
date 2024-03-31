@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deafening%20Explosion",
     "source": ["Advanced Race Guide pg. 124"],
     "description": "Your bombs explode with deafening force.",
-    "prerequisites": "Bomb class feature, hobgoblin",
-    "benefit": "You may reduce your bomb damage by one die to give it the ability to deafen the creature struck by it. The bomb must deal fire, force, or sonic damage. If a creature takes a direct hit from your bomb, it must make a saving throw against the bomb’s DC or be deafened for 1 minute. This deafening is in addition to any other effects the bomb would normally have."
+    "prerequisites": "Bomb class feature, hobgoblin.",
+    "benefit": "You may reduce your bomb damage by one die to give it the ability to deafen the creature struck by it. The bomb must deal fire, force, or sonic damage. If a creature takes a direct hit from your bomb, it must make a saving throw against the bomb’s DC or be deafened for 1 minute. This deafening is in addition to any other effects the bomb would normally have.",
+    "name_zh": "炸弹轰鸣",
+    "description_zh": "你的炸弹爆炸时发出震耳欲聋的声响。",
+    "prerequisites_zh": "【炼金炸弹】职业特性，大地精。",
+    "benefit_zh": "你可以让炼金炸弹的伤害降低1骰，使它获得将生物震聋的能力。使用此专长的炼金炸弹必须造成火焰、力场或音波伤害。被你的炸弹直接命中的生物必须进行一次等同于炼金炸弹DC的豁免检定，失败则会耳聋1分钟。这种致聋效果与炼金炸弹的所有其他效果相叠加。【译注：原文并没注明是何种豁免，不过耳聋一般都是强韧吧。】"
 }

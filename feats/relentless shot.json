@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ranged Tactics Toolbox pg. 7"],
     "description": "You keep your aim steady on a downed foe.",
-    "prerequisites": "Point-Blank Shot, base attack bonus +6",
+    "prerequisites": "Point-Blank Shot, base attack bonus +6.",
     "benefit": "When you successfully trip an opponent within 30 feet with a ranged attack, you threaten that opponent until your next turn. You can make attacks of opportunity against that opponent with ranged weapons. This effect ends if you attack another target or the opponent moves from its current square.",
     "normal": "While wielding a ranged weapon, you threaten no squares and cannot make attacks of opportunity with that weapon.",
     "prerequisiteKeys": ["point-blank shot"]

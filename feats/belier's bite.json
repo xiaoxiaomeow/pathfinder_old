@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Cheliax, Empire of Devils pg. 26"],
     "description": "Your unarmed strikes cause your opponent to bleed.",
-    "prerequisites": "Improved Unarmed Strike",
+    "prerequisites": "Improved Unarmed Strike.",
     "benefit": "When you damage an opponent with an unarmed strike, you deal an extra 1d4 bleed damage.",
     "special": "This ability does not stack with other special abilities, attacks, or items that allow you to deal bleed damage. The belier devil appears in <i>Pathfinder Adventure Path<\/i> volume #12.",
     "prerequisiteKeys": ["improved unarmed strike"]

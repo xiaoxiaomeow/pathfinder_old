@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 157"],
     "description": "You can daze foes with wild attacks.",
-    "prerequisites": "Str 13, Power Attack, base attack bonus +11",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +11.",
     "benefit": "You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to daze opponents you hit with your melee attacks for 1 round, in addition to the normal damage dealt by the attack. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "After hitting an opponent with a melee attack, you can spend 5 stamina points to attempt to daze that opponent as if using this feat.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "晕眩强袭",
+    "description_zh": "你那狂野的攻击能够使敌人晕眩。",
+    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+11。",
+    "benefit_zh": "你可以选择让所有近战攻击检定与战技检定承受-5减值，来使你在近战攻击在正常造成伤害之外，使命中的敌人晕眩1轮。成功的强韧豁免可以免受该效果，豁免DC为“10+你的BAB”。你必须在进行攻击检定之前选择是否使用该专长，它的效果会持续至你的下一轮为止。"
 }

@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 104"],
     "description": "Your disturbing glamer expands to make your exact location hard to pinpoint.",
-    "prerequisites": "Cha 13, gnome magic racial trait, Haunted Gnome, Haunted Gnome Assault, Knowledge (arcana) 6 ranks",
+    "prerequisites": "Cha 13, gnome magic racial trait, Haunted Gnome, Haunted Gnome Assault, Knowledge (arcana) 6 ranks.",
     "benefit": "You gain another independent use of your gnome magic like that which Haunted Gnome Assault grants. Further, while you are under the effect of <i>haunted fey aspect<\/i>, you also have concealment (20% miss chance) against an opponent until that opponent deals you damage.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
     "staminaText": "When an opponent misses you due to the miss chance from Haunted Gnome Shroud, you can spend 5 stamina points to impose a –2 penalty on all that opponent’s attack rolls against you until that opponent deals damage to you. This ability doesn’t stack with itself.",
     "prerequisiteKeys":     [
         "haunted gnome assault",
         "haunted gnome"
-    ]
+    ],
+    "name_zh": "精怪侏儒防护",
+    "description_zh": "你那令人不安的幻象让你的位置难以确认。",
+    "prerequisites_zh": "魅力13，【侏儒魔法】种族特性，精怪侏儒，精怪侏儒突击，知识（奥秘）6级。",
+    "benefit_zh": "你再获得另一次使用你的侏儒魔法的机会，如同“精怪侏儒突击”专长。此外，当你处于‘精怪之相’法术效果下，你在对手对你造成伤害前，获得隐蔽效果（20%失手）。"
 }

@@ -4,11 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Empathy",
     "source": ["Ultimate Magic pg. 150"],
     "description": "Your empathic attunement to nature connects you swiftly with bestial minds.",
-    "prerequisites": "Handle Animal 5 ranks, wild empathy class feature",
+    "prerequisites": "Handle Animal 5 ranks, wild empathy class feature.",
     "benefit": "Using wild empathy is a standard action for you.",
     "normal": "Using wild empathy requires 1 minute.",
     "mythicSource": ["Mythic Adventures pg. 65"],
     "mythicDescription": "You can soothe the emotions of wild beasts with nearly supernatural quickness.",
-    "mythicPrerequisites": "Fast Empathy",
-    "mythicBenefit": "You can use wild empathy as a swift action."
+    "mythicPrerequisites": "Fast Empathy.<br><br",
+    "mythicBenefit": "You can use wild empathy as a swift action.",
+    "name_zh": "快速认同",
+    "description_zh": "你野兽般的灵魂使得你可以快速理解野兽的思想。",
+    "prerequisites_zh": "驯养动物5级，【野性认同】职业特性。",
+    "benefit_zh": "野性认同只需要花费你一个标准动作。<\/p><p>通常状况：野性认同需要花费1分钟。"
 }

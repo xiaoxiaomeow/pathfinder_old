@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 111"],
     "description": "Your <i>faerie fire <\/i>not only illuminates your foes, but it also shows you their weaknesses.",
-    "prerequisites": "Improved Unarmed Strike, Nightmare Fist, Nightmare Weaver, Stunning Fist, Heal 5 ranks, ability to cast <i>faerie fire<\/i>",
+    "prerequisites": "Improved Unarmed Strike, Nightmare Fist, Nightmare Weaver, Stunning Fist, Heal 5 ranks, ability to cast <i>faerie fire<\/i>.",
     "benefit": "While a <i>faerie fire <\/i>you have cast (not one cast from a spell completion or spell trigger item) outlines an opponent, the DC for that opponent to resist your Stunning Fist attempts increases by +2. If you hit an opponent with a Stunning Fist attempt, and that opponent fails her saving throw, you can render the target shaken for 1d2 rounds plus 1 round for every 5 by which the opponent failed her save.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
     "staminaText": "When you hit an opponent with a Stunning Fist attack and that opponent fails its saving throw, you can spend 5 stamina points to make the opponent frightened for 1d4 rounds instead of shaken.",
@@ -14,5 +14,9 @@
         "nightmare fist",
         "nightmare weaver",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "夜魇强袭",
+    "description_zh": "你的妖火不但能够照出你的敌人，还能显示他们的弱点。",
+    "prerequisites_zh": "精通徒手打击，夜魇之拳，夜魇织者，震慑拳，医疗5级，有能力施放‘妖火’。",
+    "benefit_zh": "当你对一个敌人施放了‘妖火’（不能由法术完成型或触发型魔法物品施放），你对他的震慑拳豁免DC将会提高2。如果你的震慑拳命中这个敌人，而该敌人豁免失败，你可以让该敌人颤栗1d2轮，加上豁免失败每5点1轮。"
 }

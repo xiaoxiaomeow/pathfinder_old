@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tengu%20Raven%20Form",
     "source": ["Advanced Race Guide pg. 165"],
     "description": "You can shift into the form of a giant black raven.",
-    "prerequisites": "Tengu Wings, character level 7th, tengu",
+    "prerequisites": "Tengu Wings, character level 7th, tengu.",
     "benefit": "Once per day, you can take the form of a Large black bird resembling a raven, granting you a fly speed of 60 feet (good maneuverability), a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus. This spell-like ability otherwise functions as <i>beast shape II <\/i>with a caster level equal to your level.",
-    "prerequisiteKeys": ["tengu wings"]
+    "prerequisiteKeys": ["tengu wings"],
+    "name_zh": "鸦天狗",
+    "description_zh": "你可以变身为巨大的黑乌鸦。",
+    "prerequisites_zh": "天狗双翼，角色等级7，天狗。",
+    "benefit_zh": "每天1次，你可以变成类似乌鸦的大型黑色鸟类形态，这个形态赋予你60尺飞行速度（机动性良好），力量+4体型加值，敏捷-2，并且天生防御+4。该类法术能力其他功能如同‘野兽形态II’，CL等同于角色等级。"
 }

@@ -8,7 +8,7 @@
     ],
     "source": ["Legacy of Dragons pg. 20"],
     "description": "Your open stance invites opponents to attack you, and like a linnorm’s death curse, your retributive strikes punish those foolish enough to accept the invitation.",
-    "prerequisites": "Wis 13, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd",
+    "prerequisites": "Wis 13, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd.",
     "benefit": "While using this style, you take a -2 penalty to your AC against melee attacks. After a creature makes a melee attack against you, you can choose to add your Wisdom bonus to the damage from your unarmed strikes against that creature, rather than your Strength bonus. If you can normally add your Dexterity bonus to the attack’s damage, you can instead replace it with your Wisdom bonus. This lasts until the beginning of the target creature’s next turn.",
     "prerequisiteKeys": ["improved unarmed strike"]
 }

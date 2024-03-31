@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 93"],
     "description": "You use your defensive abilities to make overpowering counterattacks. ",
-    "prerequisites": "Crane Style, Crane Wing, Dodge, Improved Unarmed Strike, base attack bonus +8 or monk level 7th",
+    "prerequisites": "Crane Style, Crane Wing, Dodge, Improved Unarmed Strike, base attack bonus +8 or monk level 7th.",
     "benefit": "You take only a –1 penalty on attack rolls for fighting defensively. Whenever you deflect an opponent’s attack using Crane Wing or lose the dodge bonus from Crane Wing because an attack missed you by 4 or less, you can make an attack of opportunity against the attacker after the attack misses.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "At the start of a turn when you are fighting defensively, you can spend 2 stamina points to take no penalty on your attack rolls from fighting defensively. This lasts until the start of your turn.",
@@ -14,5 +14,9 @@
         "crane wing",
         "dodge",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "白鹤弹腿",
+    "description_zh": "你以防守的力量来发动强有力的反击。",
+    "prerequisites_zh": "白鹤拳，白鹤亮翅，闪避，精通徒手打击，基本攻击加值+8或武僧7级。",
+    "benefit_zh": "你因防御式战斗而受到的攻击罚值只有-1。每当你成功的使用白鹤亮翅偏斜了一次敌人的攻击，或是因为一次对你发动的近战攻击失手并检定结果比你的AC低不超过4点而失去白鹤亮翅的闪避AC加值时，你可以对对你攻击失手的对手发动一次借机攻击。"
 }

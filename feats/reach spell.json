@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 168"],
     "description": "Your spells go farther than normal.",
-    "benefit": "You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. A reach spell uses up a spell slot one level higher than the spell's actual level for each increase in range category. For example, a spell with a range of touch increased to long range uses up a spell slot three levels higher. Spells modified by this feat that require melee touch attacks instead require ranged touch attacks."
+    "benefit": "You can alter a spell with a range of touch, close, or medium to increase its range to a higher range category, using the following order: touch, close, medium, and long. A reach spell uses up a spell slot one level higher than the spell's actual level for each increase in range category. For example, a spell with a range of touch increased to long range uses up a spell slot three levels higher. Spells modified by this feat that require melee touch attacks instead require ranged touch attacks.<br><br>Spells that do not have a range of touch, close, or medium do not benefit from this feat.",
+    "name_zh": "及远法术",
+    "description_zh": "你的法术射程比正常情况更远。",
+    "benefit_zh": "你能够调整范围为接触，近距或者中距的法术，使其范围按照后述次序提升为更远的类别：接触，近距，中距和远距。每提高1级范围类别，及远法术就会占用比法术的实际环级高1环的法术位。比如，将原本范围为接触的法术提升至远距，会占用比法术的实际环级高3环的法术位。需要近战接触攻击的法术若被本专长所调整，那么会改为需要远程接触攻击。法术范围不属于接触、近距和中距的法术无法由此专长受益。"
 }

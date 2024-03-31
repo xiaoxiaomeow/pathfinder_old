@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hydraulic%20Maneuver",
     "source": ["Advanced Race Guide pg. 177"],
     "description": "You can use your <i>hydraulic push <\/i>to disarm or trip.",
-    "prerequisites": "<i>Hydraulic push <\/i>spell-like ability, undine",
+    "prerequisites": "<i>Hydraulic push <\/i>spell-like ability, undine.",
     "benefit": "You may use <i>hydraulic push <\/i>to attempt a bull rush, disarm, dirty trick (blind or dazzle, see ), or trip combat maneuver. Each time you use <i>hydraulic push<\/i>, you must decide which of the allowed combat maneuvers you want to perform. You may use this feat with your <i>hydraulic push <\/i>racial spell-like ability, your class-granted use of <i>hydraulic push<\/i>, or any <i>hydraulic push <\/i>spells you cast, but not with magic items or other external sources that use that spell.",
-    "normal": "<i>Hydraulic push <\/i>can only be used to make a bull rush combat maneuver."
+    "normal": "<i>Hydraulic push <\/i>can only be used to make a bull rush combat maneuver.",
+    "name_zh": "水流技法",
+    "description_zh": "你可以使用水流冲击卸除武器或者摔绊敌人。",
+    "prerequisites_zh": "‘水流冲击’类法术能力，水元素裔。",
+    "benefit_zh": "你可以使用‘水流冲击’尝试进行冲撞、卸武、阴招（目盲或目眩）或绊摔战技检定。每次使用水流冲击时，你必须在决定使用何种战技之前判断其是否可用。你可以在以类法术能力、职业特性或普通施放法术使用水流冲击时应用该专长的效果，但是无法应用在奇物或者其他外部来源启动的法术上。<\/p><p>通常状况：‘水流冲击’只能用来进行冲撞战技。"
 }

@@ -5,7 +5,11 @@
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 315"],
     "description": "This creature can hover in place with ease and can kick up clouds of dust and debris.",
-    "prerequisites": "Fly speed",
-    "benefit": "A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a Fly skill check.",
-    "normal": "Without this feat, a creature must make a Fly skill check to hover and the creature does not create a cloud of debris while hovering."
+    "prerequisites": "Fly speed.",
+    "benefit": "A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a Fly skill check. <br><br> If a creature of size Large or larger with this feat hovers within 20 feet of the ground in an area with lots of loose debris, the draft from its wings creates a hemispherical cloud with a radius of 60 feet. The winds generated can snuff torches, small campfires, exposed lanterns, and other small, open flames of non-magical origin. Clear vision within the cloud is limited to 10 feet. Creatures have concealment at 15 to 20 feet (20% miss chance). At 25 feet or more, creatures have total concealment (50% miss chance, and opponents cannot use sight to locate the creature).",
+    "normal": "Without this feat, a creature must make a Fly skill check to hover and the creature does not create a cloud of debris while hovering.",
+    "name_zh": "盘旋",
+    "description_zh": "这个生物可以在空中盘旋飞行，同时扬起沙尘和碎石。",
+    "prerequisites_zh": "拥有飞行速度。",
+    "benefit_zh": "拥有此专长的生物可以停止飞行移动，而是进行无需飞行检定的盘旋动作。如果该生物的体型为大型以上，那么它可以利用盘旋形成的气流吹起起周围20尺具有碎石和尘土的地面，形成半径60尺的圆形沙尘。沙尘气流可以熄灭影响范围内的火把、营火、提灯等暴露的小型非魔法火源。在沙尘内生物的能见度下降为10尺，距离15至20尺时，生物获得掩蔽（20%失手率），而在25尺或更远时，生物获得全隐蔽（50%失手率，且无法被视觉定位）。<\/p><p>通常状况：一个生物必须通过飞行技能检定才能盘旋，且无法通过盘旋卷起沙尘。"
 }

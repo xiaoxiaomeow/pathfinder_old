@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 90"],
     "description": "You can knock foes out cold with just about any blunt instrument.",
-    "benefit": "You take no penalty on attack rolls for using a lethal bludgeoning weapon to deal nonlethal damage.",
+    "benefit": "You take no penalty on attack rolls for using a lethal bludgeoning weapon to deal nonlethal damage. ",
     "normal": "You take a –4 penalty on attack rolls when using a lethal weapon to deal nonlethal damage. You cannot use a lethal weapon to deal nonlethal damage in a sneak attack.",
     "special": "A rogue with this feat can use a lethal bludgeoning weapon to deal nonlethal damage with a sneak attack.",
     "staminaSource": ["Pathfinder Unchained pg. 114"],
-    "staminaText": "When you make an attack with a lethal bludgeoning weapon to deal nonlethal damage, you can spend 2 stamina points to treat the weapon’s damage as if the weapon were one size category larger. This does not stack with any other effects that treat the weapon’s damage as if the weapon were a larger size."
+    "staminaText": "When you make an attack with a lethal bludgeoning weapon to deal nonlethal damage, you can spend 2 stamina points to treat the weapon’s damage as if the weapon were one size category larger. This does not stack with any other effects that treat the weapon’s damage as if the weapon were a larger size.",
+    "name_zh": "钝击士",
+    "description_zh": "你可以用任何钝器敲晕对手。",
+    "benefit_zh": "你可以在使用一种致命钝器的情况下造成非致命伤害，并且没有攻击检定罚值。<\/p><p>通常状况：你使用致命武器造成非致命伤害时攻击检定有-4罚值。你不能使用致命武器在偷袭中造成非致命伤害。",
+    "special_zh": "一个拥有该专长的盗贼可以在使用钝器偷袭时造成非致命伤害。"
 }

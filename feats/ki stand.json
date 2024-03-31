@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ki%20Stand",
     "source": ["Ultimate Magic pg. 153"],
     "description": "If an opponent knocks you down, you swiftly rebound with an attack.",
-    "prerequisites": "<i>Ki<\/i> pool",
-    "benefit": "While you have at least 1 <i>ki<\/i> point in your <i>ki<\/i> pool, you can stand up as a swift action that provokes attacks of opportunity."
+    "prerequisites": "<i>Ki<\/i> pool.",
+    "benefit": "While you have at least 1 <i>ki<\/i> point in your <i>ki<\/i> pool, you can stand up as a swift action that provokes attacks of opportunity.<br><br> You may spend 1 point of your <i>ki<\/i> pool to stand up as a swift action without provoking attacks of opportunity.",
+    "name_zh": "受身",
+    "description_zh": "在对手将你击倒时，你能迅速起身。",
+    "prerequisites_zh": "【气运丹田】能力。",
+    "benefit_zh": "只要你在气池中存在至少1点气，你可以用一个引发借机的迅捷动作站起来。你可以花费1点气让你在使用迅捷动作起身的时候不引发借机攻击。"
 }

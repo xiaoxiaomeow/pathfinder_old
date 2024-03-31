@@ -4,15 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Mastery",
     "source": ["PRPG Core Rulebook pg. 134"],
     "description": "You have mastered a small handful of spells, and can prepare these spells without referencing your spellbooks at all.",
-    "prerequisites": "1st-level wizar",
+    "prerequisites": "1st-level wizard",
     "benefit": "Each time you take this feat, choose a number of spells that you already know equal to your Intelligence modifier. From that point on, you can prepare these spells without referring to a spellbook.",
     "normal": "Without this feat, you must use a spellbook to prepare all your spells, except <i>read magic<\/i>.",
     "mythicSource": ["Mythic Adventures pg. 74"],
     "mythicDescription": "You’re so familiar with certain spells you can prepare them with the greatest of ease.",
-    "mythicPrerequisites": "Spell Mastery",
+    "mythicPrerequisites": "Spell Mastery.<br><br",
     "mythicBenefit": "You can prepare spells you have selected with Spell Mastery as a full-round action. You must spend the appropriate amount of time preparing other spells you have not mastered. As a full-round action, you can expend one use of mythic power to prepare all your spells that you have selected with Spell Mastery.",
     "name_zh": "法术熟稔",
     "description_zh": "你对一小部分法术很熟悉，能够完全不靠法术书准备这些法术。",
     "prerequisites_zh": "法师1级。",
-    "benefit_zh": "每次你获得此专长时，选择数量等同于你的智力修正的已知法术。从那时起，你准备这些法术不需要法术书。"
+    "benefit_zh": "每次你获得此专长时，选择数量等同于你的智力修正的已知法术。从那时起，你准备这些法术不需要法术书。<\/p><p>通常状况：没有此专长，你必须使用法术书来准备你的所有法术，除了‘阅读魔法’。"
 }

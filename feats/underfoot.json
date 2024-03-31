@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 173"],
     "description": "You slip under and around your larger foes.",
-    "prerequisites": "Dodge, Mobility, Small size or smaller",
+    "prerequisites": "Dodge, Mobility, Small size or smaller.",
     "benefit": "You receive a +4 dodge bonus on Acrobatics checks to move past opponents without provoking attacks of opportunity, so long as they are larger than you. In addition, you gain a +2 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a larger opponent’s threatened area (this stacks with the +4 bonus provided by Mobility, for a total bonus of +6).",
     "staminaSource": ["Pathfinder Unchained pg. 135"],
     "staminaText": "You can spend 2 stamina points to use the benefit of this feat against opponents of your size until the end of your turn.",
     "prerequisiteKeys":     [
         "dodge",
         "mobility"
-    ]
+    ],
+    "name_zh": "钻胯而过",
+    "description_zh": "你可以在敌人的身体下方和周围腾挪翻转。",
+    "prerequisites_zh": "闪避，灵活移动，体型小型或更小。",
+    "benefit_zh": "只要敌人的体型比你大，那么当你进行尝试穿过这些敌人而不受借机攻击的特技检定时，检定获得+4闪避加值。此外，当你在比你体型更大的敌人的威胁范围内移动，你的AC在对抗由此动作引起的借机攻击时获得+2闪避加值（这个加值与灵活移动提供的+4加值叠加，总计为+6）。"
 }

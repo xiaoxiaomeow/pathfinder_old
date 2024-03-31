@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 168"],
     "description": "Quick reflexes turn missed strikes into second chances.",
-    "prerequisites": "Int 13, Combat Expertise, base attack bonus +6",
+    "prerequisites": "Int 13, Combat Expertise, base attack bonus +6.",
     "benefit": "When making a full attack, if you miss on your first attack, you can forgo making any other attacks for the rest of your turn to reroll that attack at your highest base attack bonus.",
     "staminaSource": ["Pathfinder Unchained pg. 131"],
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. After you use Second Chance, you can spend 5 stamina points to still make an attack at your second-highest attack bonus after rerolling your first attack.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "燕归来",
+    "description_zh": "快速的反应能力能够使失手的攻击获得第二次机会。",
+    "prerequisites_zh": "智力13，寓守于攻，基本攻击加值+6。",
+    "benefit_zh": "当你进行全力攻击时，如果你的第一次攻击失手，你能够放弃进行本轮剩下的其他攻击，来使用你最高的BAB重掷该次攻击。"
 }

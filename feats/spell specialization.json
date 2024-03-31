@@ -4,8 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Specialization",
     "source": ["Ultimate Magic pg. 156"],
     "description": "Select one spell. You cast that spell with greater than normal power.",
-    "prerequisites": "Int 13, Spell Focus",
-    "benefit": "Select one spell of a school for which you have taken the Spell Focus feat. Treat your caster level as being two higher for all level-variable effects of the spell.",
+    "prerequisites": "Int 13, Spell Focus.",
+    "benefit": "Select one spell of a school for which you have taken the Spell Focus feat. Treat your caster level as being two higher for all level-variable effects of the spell.<br><br> Every time you gain an even level in the spellcasting class you chose your spell from, you can choose a new spell to replace the spell selected with this feat, and that spell becomes your specialized spell.",
     "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different spell.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "法术专精",
+    "description_zh": "选择一个法术，你在施展这个法术时比平常更具威力。",
+    "prerequisites_zh": "智力13，法术专攻。",
+    "benefit_zh": "选择一个符合你“法术专攻”专长学派的法术，在施展这个法术时将你的CL提升2级来确定所有的等级相关效果。每当你在升级时获得了新的法术，你可以选择新的法术替代这个专长中所选定的法术，那个新法术成为了你的专精法术。",
+    "special_zh": "你可以多次选择本专长，其效果不累计。每次选择这个专长时，你需要选择一个其他的法术。"
 }

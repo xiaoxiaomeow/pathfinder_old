@@ -8,7 +8,7 @@
         "Pathfinder Campaign Setting pg. 147"
     ],
     "description": "You bear intricate tattoos that inspire and empower your natural magic ability. These tattoos mark you as a worker of the ancient traditions of Varisian magic. A Varisian tattoo typically consists of a long string of complex characters from the Thassilonian alphabet.",
-    "prerequisites": "Spell Focus",
-    "benefit": "Select a school of magic (other than divination) in which you have Spell Focus—you cast spells from this school at +1 caster level. Additionally, you gain a single spell-like ability usable up to three times per day. The spell-like ability gained (and its Varisian name) are as follows:",
+    "prerequisites": "Spell Focus.",
+    "benefit": "Select a school of magic (other than divination) in which you have Spell Focus—you cast spells from this school at +1 caster level. Additionally, you gain a single spell-like ability usable up to three times per day. The spell-like ability gained (and its Varisian name) are as follows:<br><br><i>Abjuration (avidais): resistance<\/i><br><i>Conjuration (idolis): acid splash<\/i><br><i>Enchantment (carnasia): daze<\/i><br><i>Evocation (ragario): dancing lights<\/i><br><i>Illusion (vangloris): ghost sound<\/i><br><i>Necromancy (voratalo): touch of fatigue<\/i><br><i>Transmutation (avaria): mage hand<\/i>",
     "prerequisiteKeys": ["spell focus"]
 }

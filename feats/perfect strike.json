@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 166"],
     "description": "When wielding a monk weapon, your attacks can be extremely precise. ",
-    "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8",
+    "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). You must use one of the following weapons to make the attack: kama, nunchaku, quarterstaff, sai, and siangham. You can roll your attack roll twice and take the higher result. If one of these rolls is a critical threat, the other roll is used as your confirmation roll (your choice if they are both critical threats). You may attempt a perfect attack once per day for every four levels you have attained (but see Special), and no more than once per round.",
     "special": "A weapon master monk or zen archer monk receives Perfect Strike as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt an perfect strike attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
     "staminaText": "You can spend 5 stamina points to use Perfect Strike a second time during the same round.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "完美打击",
+    "description_zh": "当你使用武僧武器时，攻击会变得异常精准。",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手打击，基本攻击加值+8。",
+    "benefit_zh": "你必须在进行攻击检定之前声明使用该专长（因此失败的攻击检定会浪费这次机会）。你必须使用后述武器中的一种进行攻击：单镰，双节棍，木棍，十手以及破魔锥。你可以进行两次攻击检定并取较高的结果。如果这些检定中的一个造成重击威胁，那么另一个检定会被用于重击确认检定（如果两个检定均造成重击威胁，则由你进行选择）。每日你可以尝试进行“完美打击”的次数为每4级等级1次（见特殊说明），并且每轮只能进行1次。",
+    "special_zh": "执械僧（Weapon Adept, APG武僧变体）或者禅宗射手（Zen Archer, APG武僧变体）会在1级获得“完美打击”作为奖励专长，即使他并不满足专长的先决条件。武僧每日可以尝试使用完美打击的次数等同于他的武僧等级，额外加上每4个非武僧职业等级1次。"
 }

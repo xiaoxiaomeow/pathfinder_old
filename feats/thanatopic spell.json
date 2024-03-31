@@ -8,8 +8,12 @@
         "Osirion, Land of the Pharaohs pg. 27"
     ],
     "description": "Your spells can pierce wards against negative energy and even affect undead targets. ",
-    "prerequisites": "Knowledge (religion) 6 ranks, Spell Focus (necromancy)",
-    "benefit": "A thanatopic spell pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist. For example, you could cast a thanatopic <i>vampiric touch <\/i>or <i>enervation <\/i>spell on a target under the effects of <i>death ward<\/i>, and the target would suffer the normal effect of the spell. Saving throws and SR (if any) still apply.",
+    "prerequisites": "Knowledge (religion) 6 ranks, Spell Focus (necromancy).",
+    "benefit": "A thanatopic spell pierces defenses and immunities that protect against death effects, negative levels, and energy drain, affecting the target as if the protective barrier did not exist. For example, you could cast a thanatopic <i>vampiric touch <\/i>or <i>enervation <\/i>spell on a target under the effects of <i>death ward<\/i>, and the target would suffer the normal effect of the spell. Saving throws and SR (if any) still apply. <br><br> Undead are susceptible to spells augmented by this feat, as it retunes the negative energy to be harmful to them. A thanatopic spell that would kill a living creature (such as by giving it negative levels equal to its Hit Dice) destroys an undead (though undead such as ghosts, liches, and vampires may reform as normal). Undead affected by thanatopic spells that give negative levels automatically make their saving throws to remove negative levels after 24 hours. <br><br> A thanatopic spell uses up a spell slot two levels higher than the spell’s actual level. ",
     "normal": "Defenses such as <i>death ward <\/i>negate death effects, negative levels, and energy drain. Undead are immune to these attacks.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "死圣法术",
+    "description_zh": "你的法术可以穿透防御负能量的结界，甚至是影响不死生物。",
+    "prerequisites_zh": "知识（宗教）6级，法术专攻（死灵）。",
+    "benefit_zh": "一个死圣法术能够穿透抵御或者免疫即死效果、负向等级、能量吸取的防护，就如同那些防护没有生效一般对目标造成影响。<\/p><p>例如，你可以对一个受到‘防死结界’保护的目标施展一个‘死圣吸血鬼之触’或者‘死圣弱能术’，并且目标将如常受到法术效果的影响。豁免及法术抗力（如果有）依旧起效。<\/p><p>亡灵极易受到被此专长超魔的法术的影响，这使得他们会被负能量所伤害。一个死圣法术可以杀害活物（诸如给予等同于其生命骰数的负向等级）、摧毁亡灵（不过有些不死生物，像幽魂、巫妖和吸血鬼还是会如常复活）。被死圣法术影响而获得负向等级的亡灵，会在24小时后自动通过豁免并且移除负向等级。<\/p><p>死圣法术须占用高于原本2个环级的法术位。<\/p><p>通常状况：诸如‘防死结界’的防护能够无效即死效果、负向等级和能量吸取。亡灵免疫这些攻击。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Metamagic"],
     "source": ["Monster Summoner's Handbook pg. 14"],
     "description": "Your shadowy illusions are more potent.",
-    "prerequisites": "Spell Focus (illusion)",
+    "prerequisites": "Spell Focus (illusion).",
     "benefit": "When casting <i>greater shadow conjuration<\/i>, <i>greater shadow evocation<\/i>, <i>shadow conjuration<\/i>, or <i>shadow evocation<\/i> (and, at the GM’s discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real then normal. A solid shadows spell takes up a spell slot 1 level higher than the spell’s actual level.",
     "prerequisiteKeys": ["spell focus"]
 }

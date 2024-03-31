@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 125"],
     "description": "Your devastating strikes cleave through weapons and armor and into their wielders, damaging both item and wielder alike in a single terrific strike.",
-    "prerequisites": "Improved Sunder, Power Attack, base attack bonus +6, Str 13",
+    "prerequisites": "Improved Sunder, Power Attack, base attack bonus +6, Str 13.",
     "benefit": "You receive a +2 bonus on checks made to sunder an item. This bonus stacks with the bonus granted by Improved Sunder. Whenever you sunder to destroy a weapon, shield, or suit of armor, any excess damage is applied to the item's wielder. No damage is transferred if you decide to leave the item with 1 hit point.",
     "staminaSource": ["Pathfinder Unchained pg. 121"],
     "staminaText": "When you succeed at a sunder combat maneuver check, you can spend a number of stamina points up to your Strength bonus to deal an amount of extra damage to the target equal to double the number of stamina points you spent. The damage type is the same as that of the weapon you used to attempt the maneuver.",

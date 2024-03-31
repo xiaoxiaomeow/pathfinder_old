@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lingering%20Invisibility",
     "source": ["Advanced Race Guide pg. 187"],
     "description": "You remain briefly translucent after losing <i>invisibility<\/i>.",
-    "prerequisites": "Duergar",
-    "benefit": "When your <i>invisibility <\/i>ends, you gain concealment for 1 round per minute of duration the invisibility effect had remaining (minimum 1 round). This only occurs if the invisibility is from your racial spell-like ability or a spell you cast. Effects that negate invisibility negate this concealment."
+    "prerequisites": "Duergar.",
+    "benefit": "When your <i>invisibility <\/i>ends, you gain concealment for 1 round per minute of duration the invisibility effect had remaining (minimum 1 round). This only occurs if the invisibility is from your racial spell-like ability or a spell you cast. Effects that negate invisibility negate this concealment.",
+    "name_zh": "残续隐形",
+    "description_zh": "在你失去隐形后仍会受到残余的半透明状态影响。",
+    "prerequisites_zh": "灰矮人。",
+    "benefit_zh": "当你的‘隐形术’结束，法术每剩余1分钟的持续时间，你就可以获得1轮（最少1轮）隐蔽状态。只有当‘隐形术’为你的种族类法术能力或你施放的法术时，才会发生该效果。能够反制‘隐形术’的效果能够反制该专长带来的隐蔽。"
 }

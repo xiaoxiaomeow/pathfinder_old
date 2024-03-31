@@ -5,6 +5,10 @@
     "descriptors": ["Teamwork"],
     "source": ["Ultimate Combat pg. 91"],
     "description": "You know the urgency of treating wounds in the heat of battle, applying first aid to your allies with such speed that you assure no one gets left behind. ",
-    "prerequisites": "Heal 5 ranks",
-    "benefit": "Whenever you use Heal to provide first aid, treat caltrop wounds, or treat poison on an ally who also has this feat, you provoke no attacks of opportunity, and can take 10 on the check. Unlike with other teamwork feats, allies that are paralyzed, stunned, unconscious, or cannot otherwise act still count for the purposes of this feat."
+    "prerequisites": "Heal 5 ranks.",
+    "benefit": "Whenever you use Heal to provide first aid, treat caltrop wounds, or treat poison on an ally who also has this feat, you provoke no attacks of opportunity, and can take 10 on the check. Unlike with other teamwork feats, allies that are paralyzed, stunned, unconscious, or cannot otherwise act still count for the purposes of this feat.",
+    "name_zh": "战场医护兵",
+    "description_zh": "你知道在热烈激战中紧急治疗的必要性，快速地急救同伴可以让他们免于死亡。",
+    "prerequisites_zh": "医疗5级。",
+    "benefit_zh": "当你对同样拥有此专长的盟友使用医疗技能急救、治疗出血伤口或治疗毒性时，你不会引起借机攻击，而且可以在医疗检定中取10。"
 }

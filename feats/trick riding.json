@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 173"],
     "description": "You are not only skilled at controlling a horse in combat; you can make it look like art. ",
-    "prerequisites": "Ride 9 ranks, Mounted Combat",
+    "prerequisites": "Ride 9 ranks, Mounted Combat.",
     "benefit": "While wearing light or no armor, you do not need to make Ride skill checks for any task listed in the Ride skill with a DC of 15 or lower. You do not take a –5 penalty for riding a mount bareback. You can make a check using Mounted Combat to negate a hit on your mount twice per round instead of just once.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
     "staminaText": "As long as you have 1 stamina point in your stamina pool, you gain the effects of this feat when wearing medium armor.",
-    "prerequisiteKeys": ["mounted combat"]
+    "prerequisiteKeys": ["mounted combat"],
+    "name_zh": "骑乘技巧",
+    "description_zh": "你不仅仅善于在战斗中控制马匹；甚至将其看起来就像一种艺术。",
+    "prerequisites_zh": "骑术9级，骑乘战斗。",
+    "benefit_zh": "当你身着轻甲或不穿甲时，就不需要为了进行骑术技能中列出的任何DC为15或更低的项目而进行技能检定。当你骑乘无马鞍的坐骑时，骑术检定不会受到-5减值。你可以每轮使用“骑乘战斗”专长进行检定、忽略2次对你的坐骑的攻击而非原本的1次。"
 }

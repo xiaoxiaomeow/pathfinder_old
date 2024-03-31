@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 95"],
     "description": "Only the most serious wounds can stop you.",
-    "prerequisites": "Str 13, Con 17, orc or half-orc, Deathless Initiate, Deathless Master, Diehard, Endurance, Ironhide, base attack bonus +12",
+    "prerequisites": "Str 13, Con 17, orc or half-orc, Deathless Initiate, Deathless Master, Diehard, Endurance, Ironhide, base attack bonus +12.",
     "benefit": "Whenever a creature rolls to confirm a critical hit against you, it must roll twice and take the lowest result.",
     "staminaSource": ["Pathfinder Unchained pg. 117"],
     "staminaText": "Whenever a creature threatens a critical hit against you and neither of its confirmation rolls would succeed, you can spend 5 stamina points to make an attack of opportunity against that creature.",
@@ -15,5 +15,9 @@
         "diehard",
         "endurance",
         "ironhide"
-    ]
+    ],
+    "name_zh": "亡命狂徒",
+    "description_zh": "只有最恐怖的伤势才能停下你的杀戮。",
+    "prerequisites_zh": "力量13，体质17，亡命尖兵，亡命勇士，坚忍，顽强，铁皮（Ironhide, APG），兽人或半兽人，基本攻击加值+12。",
+    "benefit_zh": "每当一个生物对你进行重击确认，它必须投两次骰并取低。"
 }

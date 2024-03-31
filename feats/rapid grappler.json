@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 114"],
     "description": "You are a quick hand at grappling.",
-    "prerequisites": "Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th",
+    "prerequisites": "Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, base attack bonus +9 or monk level 9th.",
     "benefit": "Whenever you use Greater Grapple to successfully maintain a grapple as a move action, you can then spend a swift action to make a grapple combat maneuver check at a -5 penalty.",
     "staminaSource": ["Pathfinder Unchained pg. 130"],
     "staminaText": "You can spend 2 stamina points to gain a +2 bonus on a grapple check made as a swift action with this feat.",
@@ -13,5 +13,9 @@
         "greater grapple",
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "快速擒抱",
+    "description_zh": "你是快速擒抱的专家。",
+    "prerequisites_zh": "敏捷13，高等擒抱，精通擒抱，精通徒手打击，基本攻击加值+9或武僧9级。",
+    "benefit_zh": "当你成功地使用“高等擒抱”以移动动作维持了一次擒抱之后，接下来你只用迅捷动作就可以以承受-5减值进行维持擒抱的战技检定。"
 }

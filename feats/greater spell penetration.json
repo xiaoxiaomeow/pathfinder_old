@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Penetration",
     "source": ["PRPG Core Rulebook pg. 125"],
     "description": "Your spells break through spell resistance much more easily than most.",
-    "prerequisites": "Spell Penetration",
+    "prerequisites": "Spell Penetration.",
     "benefit": "You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance. This bonus stacks with the one from Spell Penetration.",
     "prerequisiteKeys": ["spell penetration"],
     "name_zh": "高等法术穿透",

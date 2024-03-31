@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shadowy%20Dash",
     "source": ["Advanced Race Guide pg. 211"],
     "description": "In dim light, you resemble little more than a shadow.",
-    "prerequisites": "Wayang",
+    "prerequisites": "Wayang.",
     "benefit": "Whenever you are in an area of dim light or darkness, you can move at full speed using Stealth without taking the normal –5 penalty for doing so.",
-    "normal": "When moving at more than half your speed and up to your normal speed, you take a –5 penalty on Stealth checks."
+    "normal": "When moving at more than half your speed and up to your normal speed, you take a –5 penalty on Stealth checks.",
+    "name_zh": "虚影冲刺",
+    "description_zh": "在昏暗的光线中，你看起来比影子更加难以辨认。",
+    "prerequisites_zh": "剪影人。",
+    "benefit_zh": "当你处于昏暗或黑暗的区域中，你能够以全速潜行，而不会在这么做时隐匿检定受到正常的-5减值。<\/p><p>通常状况：当你以半速以上的速度移动时，隐匿检定会受到-5减值。"
 }

@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monstrous%20Mount%20Mastery",
     "source": ["Inner Sea Combat pg. 14"],
     "description": "Your monstrous mount has developed an ability that only its wild kin would normally possess.",
-    "prerequisites": "Monstrous Mount, character level equal to or higher than that listed in your mount's Mastery entry",
+    "prerequisites": "Monstrous Mount, character level equal to or higher than that listed in your mount's Mastery entry.",
     "benefit": "Your monstrous mount gains the abilities and bonuses listed under Mastery in its stat block. You must be of at least the indicated level for the mount to use these abilities, so if you dismiss a mount and gain a new mount of a different type, you retain the feat but might not yet be of sufficient level for the new mount to gain its Mastery benefits.",
     "normal": "A monstrous mount is unable to use its Mastery abilities regardless of its advancement.",
     "prerequisiteKeys": ["monstrous mount"]

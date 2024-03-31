@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 167"],
     "description": "You are adept at firing ranged weapons in close quarters. ",
-    "prerequisites": "Weapon Specialization with selected ranged weapon",
+    "prerequisites": "Weapon Specialization with selected ranged weapon.",
     "benefit": "Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.",
     "normal": "Using a ranged weapon while you are threatened provokes attacks of opportunity.",
     "special": "Starting at 6th level, a ranger with the archery combat style may select Point Blank Master as a combat style feat, but he must have Weapon Focus instead of Weapon Specialization in the selected weapon.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
-    "staminaText": "When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity."
+    "staminaText": "When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity.",
+    "name_zh": "贴身射击",
+    "description_zh": "你擅长使用远程武器在极近的距离攻击。",
+    "prerequisites_zh": "某种远程武器的武器专精。",
+    "benefit_zh": "选择一类远程武器。当你使用这类武器在敌人的威胁范围内进行射击时不会引起借机攻击。<\/p><p>通常状况：在敌人的威胁范围内使用远程武器攻击会引起借机攻击。",
+    "special_zh": "从6级起，选择【箭术战斗流派】的游侠能够将“贴身射击”作为战斗流派专长进行选取。但是他必须拥有对应武器的“武器专攻”专长来取代“武器专精”专长来满足先决条件。"
 }

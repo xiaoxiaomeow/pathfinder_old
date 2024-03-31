@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20of%20the%20Wild",
     "source": ["Advanced Race Guide pg. 28"],
     "description": "Your mystic connection with one type of wilderness has grown even stronger.",
-    "prerequisites": "Attuned to the Wild, Guardian of the Wild, elf",
+    "prerequisites": "Attuned to the Wild, Guardian of the Wild, elf.",
     "benefit": "When you are in a terrain type you have selected the Attuned to the Wild feat for, you gain a +4 bonus on Perception checks made to act in the surprise round of combat. If you act in the surprise round, you gain blindsense out to a range of 30 feet during the surprise round. If you are in an area that qualifies as more than one kind of terrain, these bonuses do not stack; you receive the bonus for only one terrain type.",
     "prerequisiteKeys":     [
         "attuned to the wild",
         "guardian of the wild"
-    ]
+    ],
+    "name_zh": "荒野精魂",
+    "description_zh": "你与某种荒野地形的神秘联系变得更加强烈。",
+    "prerequisites_zh": "荒野适应力，荒野守卫，精灵。",
+    "benefit_zh": "当你处于荒野适应力专长中选择的地形时，你在避免被突袭的察觉检定上获得+4加值。如果你能够在突袭轮行动，那么你在突袭轮中获得30尺盲感。如果你所在的区域可以视作多种地形，这些加值不会叠加；你只能从一种地形中获得该加值。"
 }

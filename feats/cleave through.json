@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
     "description": " You are ferocious at hewing smaller opponents. ",
-    "prerequisites": "Str 13, Cleave, Power Attack, base attack bonus +11, dwarf",
+    "prerequisites": "Str 13, Cleave, Power Attack, base attack bonus +11, dwarf.",
     "benefit": "When using Cleave or Great Cleave, if your initial attack hits, you may take a single 5-foot step as a free action before making your additional attacks. If doing so places a creature within your threatened area, that creature becomes a legal target for your additional Cleave attack(s) as long as it meets all the other prerequisites.",
     "normal": "You may only make additional attacks with Cleave against creatures you threaten when you make your initial attack.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "cleave",
         "power attack"
-    ]
+    ],
+    "name_zh": "快步顺势斩",
+    "description_zh": "你那猛烈的挥砍能够伤到更多敌人。",
+    "prerequisites_zh": "力量13，顺势斩，猛力攻击，基本攻击加值+11，矮人。",
+    "benefit_zh": "当你使用“顺势斩”或者“大顺势斩”时，如果初次攻击命中，你能够在进行额外攻击之前以自由动作进行1次五尺快步。如果在如此移动之后有生物在你的威胁范围之内，只要符合所有其他先决条件，该生物就成为你的顺势斩额外攻击的适用目标。<\/p><p>通常情况：在使用“顺势斩”时，最初的攻击之后你只能对在你威胁范围内的敌人进行额外攻击。"
 }

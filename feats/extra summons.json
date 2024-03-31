@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Summons",
     "source": ["Ultimate Magic pg. 150"],
     "description": "You can summon monsters more often each day.",
-    "prerequisites": "Ability to cast <i>summon monster <\/i>as a spell-like ability, summoner 1st",
+    "prerequisites": "Ability to cast <i>summon monster <\/i>as a spell-like ability, summoner 1st.",
     "benefit": "You gain 1 additional use of your <i>summon monster <\/i>spell-like ability per day.",
-    "special": "You can take this feat multiple times, but it can only be taken once for every five summoner levels you possess."
+    "special": "You can take this feat multiple times, but it can only be taken once for every five summoner levels you possess.",
+    "name_zh": "额外召唤",
+    "description_zh": "你能够更频繁地召唤怪物。",
+    "prerequisites_zh": "能够以类法术能力施展‘召唤怪物’，召唤师1级。",
+    "benefit_zh": "你每天‘召唤怪物’类法术能力使用次数增加1次。",
+    "special_zh": "每当你拥有5个召唤师等级后，你可以再选则这个专长一次。"
 }

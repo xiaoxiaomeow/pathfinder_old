@@ -8,12 +8,16 @@
     ],
     "source": ["Ultimate Combat pg. 100"],
     "description": "Your ranged attacks take advantage of the flanking maneuvers of allies. ",
-    "prerequisites": "Point-Blank Shot, Precise Shot, one other teamwork feat",
+    "prerequisites": "Point-Blank Shot, Precise Shot, one other teamwork feat.",
     "benefit": "You receive a +2 bonus on ranged attacks made against a foe flanked by 1 or more allies with this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
     "staminaText": "Before making a ranged attack roll, you can spend 1 stamina point to gain the benefits of this feat against a target that is flanked by two or more allies, even if those allies don’t have this feat.",
     "prerequisiteKeys":     [
         "point-blank shot",
         "precise shot"
-    ]
+    ],
+    "name_zh": "交叉火力",
+    "description_zh": "透过盟友的夹击，你在射击时得到额外的优势。",
+    "prerequisites_zh": "近距射击，精准射击，至少一项团队专长。",
+    "benefit_zh": "当至少一个拥有此专长的盟友夹击敌人时，你对该目标的远程攻击得到+2加值。"
 }

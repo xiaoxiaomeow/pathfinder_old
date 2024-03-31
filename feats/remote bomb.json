@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Remote%20Bomb",
     "source": ["Ultimate Magic pg. 155"],
     "description": "You can set off your delayed bombs at great distances.",
-    "prerequisites": "Delayed bomb discovery",
-    "benefit": "The maximum delay for your delayed bombs increases to a number of minutes equal to your level."
+    "prerequisites": "Delayed bomb discovery.",
+    "benefit": "The maximum delay for your delayed bombs increases to a number of minutes equal to your level.<br><br> If you have line of effect to your delayed bomb, you may detonate it earlier than its preset time by making a DC 20 Intelligence check; the DC increases by +1 for every 10 feet of distance between you and the bomb.",
+    "name_zh": "遥控炸弹",
+    "description_zh": "你可以在远处引爆你的定时炸弹。",
+    "prerequisites_zh": "【定时炸弹】科研发现。",
+    "benefit_zh": "你的定时炸弹最大延时时间增加等同于你等级的分钟数。如果你和你的定时炸弹间存在效果线，你可以通过一次DC20的智力检定来提前引爆它；你和炸弹间的距离每增加10尺，DC增加1。"
 }

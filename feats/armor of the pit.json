@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20of%20the%20Pit",
     "source": ["Advanced Race Guide pg. 173"],
     "description": "Your fiendish traits take the form of a protective scaly skin.",
-    "prerequisites": "Tiefling",
+    "prerequisites": "Tiefling.",
     "benefit": "You gain a +2 natural armor bonus.",
-    "special": "If you have the scaled skin racial trait, you instead gain resistance 5 to two of the following energy types that you don’t have resistance to already: cold, electricity, and fire."
+    "special": "If you have the scaled skin racial trait, you instead gain resistance 5 to two of the following energy types that you don’t have resistance to already: cold, electricity, and fire.",
+    "name_zh": "深渊铠甲",
+    "description_zh": "你污秽的特征体现在如同铠甲的鳞片皮肤上。",
+    "prerequisites_zh": "魔裔。",
+    "benefit_zh": "你获得+2天生防御加值。<\/p><p>通常状况：如果你拥有【鳞片皮肤】种族特性，则在寒冷、闪电以及火焰这三种能量类型中选择两种并获得5点能量抗力取代该专长的奖励天防。你只能选择你还未获得抗力的能量类型。"
 }

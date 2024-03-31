@@ -5,5 +5,8 @@
     "descriptors": ["Teamwork"],
     "source": ["Advanced Player's Guide pg. 158"],
     "description": "Your allies assist you in avoiding certain attacks.",
-    "benefit": "Whenever you are adjacent to an ally who also has this feat, and both of you are required to make a Reflex saving throw against a spell or effect, you may take the result of your die roll or that of your ally (your modifiers still apply to the roll, regardless of which result you take). If you take your ally’s result, you are knocked prone (or staggered on your next turn, if you are already prone or cannot be knocked prone). In addition, you receive a +2 cover bonus to your AC against ranged attacks as long as your ally is wielding a shield."
+    "benefit": "Whenever you are adjacent to an ally who also has this feat, and both of you are required to make a Reflex saving throw against a spell or effect, you may take the result of your die roll or that of your ally (your modifiers still apply to the roll, regardless of which result you take). If you take your ally’s result, you are knocked prone (or staggered on your next turn, if you are already prone or cannot be knocked prone). In addition, you receive a +2 cover bonus to your AC against ranged attacks as long as your ally is wielding a shield.",
+    "name_zh": "庇护",
+    "description_zh": "你的盟友能够帮助你免受一些攻击。",
+    "benefit_zh": "当与你相邻的盟友也具有该专长，并且你们两人都需要进行反射豁免对抗一个法术或效果时，你可以选择使用你的或者盟友的掷骰结果（无论你选择哪个结果，你的修正仍旧应用于这个检定）。如果你使用你的盟友的结果，那么你会被击倒（若你已经倒地或者无法被倒地，则会在你的下一轮之前处于恍惚状态）。此外，只要你的盟友持用盾牌，你的AC在对抗远程攻击时就会获得+2掩蔽加值。"
 }

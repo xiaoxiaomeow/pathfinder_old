@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispel%20Synergy",
     "source": ["Ultimate Combat pg. 96"],
     "description": "By tearing away an opponent’s magical defenses, you leave your enemy vulnerable, making it difficult for him to resist your spells.",
-    "prerequisites": "Spellcraft 5 ranks",
-    "benefit": "If you successfully dispel an ongoing magical effect on an opponent, that opponent takes a –2 penalty on saving throws against your spells until the end of your next turn."
+    "prerequisites": "Spellcraft 5 ranks.",
+    "benefit": "If you successfully dispel an ongoing magical effect on an opponent, that opponent takes a –2 penalty on saving throws against your spells until the end of your next turn.",
+    "name_zh": "协同解法",
+    "description_zh": "你撕裂了对手的魔法防御，同时让他陷入虚弱，更加难以抵抗你的法术。",
+    "prerequisites_zh": "法术辨识5级。",
+    "benefit_zh": "如果你成功的解除了一个敌人身上的魔法效果，该敌人在你下一轮行动结束前，对你的法术的豁免检定都会有-2罚值。"
 }

@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Bluff%20(UM)",
     "source": ["Ultimate Magic pg. 156"],
     "description": "You know the principles of arcane dueling, and when fighting other spellcasters, you have learned to hide the true nature of your spells until the last possible moment. ",
-    "prerequisites": "Bluff 5 ranks, Spellcraft 5 ranks",
-    "benefit": "If another spellcaster tries to counterspell your casting, she adds +4 to her Spellcraft DC when trying to determine your spell."
+    "prerequisites": "Bluff 5 ranks, Spellcraft 5 ranks.",
+    "benefit": "If another spellcaster tries to counterspell your casting, she adds +4 to her Spellcraft DC when trying to determine your spell.<br><br> Because you have studied how to mask the recognizable elements of your spellcasting, you gain a +2 bonus on your Spellcraft checks to identify and counter an opponent’s spell if it is a spell you know or have in your spellbook.",
+    "name_zh": "法术欺诈",
+    "description_zh": "你熟知法术决斗的奥秘，而且早已学会如何隐藏法术的本质直到最后一刻。",
+    "prerequisites_zh": "唬骗5级，法术辨识5级。",
+    "benefit_zh": "如果一个其他的施法者试图反制你的法术，那么她在辨识你法术的法术辨识检定DC+4。因为你已经学会了如何掩盖你的法术的辨识元素，你在辨识或者反制他人法术的法术辨识上获得+2加值，前提是那些法术都是你所知道的（针对自发施法者）或者在你的法术书上的。"
 }

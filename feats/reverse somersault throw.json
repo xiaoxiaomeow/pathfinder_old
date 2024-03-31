@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Martial Arts Handbook pg. 24"],
     "description": "You drag your opponent off balance, then use his momentum to fling him over your head.",
-    "prerequisites": "Str 13, Improved Drag, Power Attack, base attack bonus +6 or monk level 3rd",
+    "prerequisites": "Str 13, Improved Drag, Power Attack, base attack bonus +6 or monk level 3rd.",
     "benefit": "When you succeed at a drag combat maneuver check, at the end of your movement, you can fall prone to launch your target over your head. If you do, you move the target of your drag combat maneuver into the space adjacent to you that is opposite its position at the end of your movement, and the target falls prone in that square or squares. You can’t use this ability to move a creature into a square that is occupied by a solid object or obstacle. If there would not be enough room for the creature in its new position, the ability fails and the creature is not moved.",
     "prerequisiteKeys":     [
         "improved drag",

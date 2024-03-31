@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Foment%20the%20Blood",
     "source": ["Advanced Race Guide pg. 141"],
     "description": "You can unleash a wave of energy that drives orcs into a frenzy.",
-    "prerequisites": "Channel energy class feature, orc",
-    "benefit": "When you channel energy, instead of creating its normal effect, you can give orcs a bonus on weapon damage and critical hit confirmation rolls until your next turn. This bonus is equal to the number of dice your channeled energy normally heals or harms. Your channel has its normal effect on other creatures in the area."
+    "prerequisites": "Channel energy class feature, orc.",
+    "benefit": "When you channel energy, instead of creating its normal effect, you can give orcs a bonus on weapon damage and critical hit confirmation rolls until your next turn. This bonus is equal to the number of dice your channeled energy normally heals or harms. Your channel has its normal effect on other creatures in the area.",
+    "name_zh": "嗜血煽动",
+    "description_zh": "你可以释放出一股能量，驱使兽人们陷入狂怒。",
+    "prerequisites_zh": "【引导能量】职业能力，兽人。",
+    "benefit_zh": "当你引导能量时，你不造成正常效果，而是在直到你的下一轮前给兽人提供武器伤害和重击确认检定的加值。这一加值等同于你引导能量治疗或伤害的骰数。你的引导能量对其他处于该区域内的生物正常生效。"
 }

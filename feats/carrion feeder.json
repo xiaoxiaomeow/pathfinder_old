@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Carrion%20Feeder",
     "source": ["Advanced Race Guide pg. 165"],
     "description": "Like many scavengers, you can stomach foods that would make weaker creatures ill.",
-    "prerequisites": "Tengu",
-    "benefit": "You gain a +2 racial bonus on saving throws against diseases and ingested poisons (but not other poisons). You receive a +2 bonus on Survival skill checks to find food for yourself (and only yourself)."
+    "prerequisites": "Tengu.",
+    "benefit": "You gain a +2 racial bonus on saving throws against diseases and ingested poisons (but not other poisons). You receive a +2 bonus on Survival skill checks to find food for yourself (and only yourself).",
+    "name_zh": "食腐鸟",
+    "description_zh": "与其他食腐动物一样，你能够若无其事地吃下可能让虚弱生物染病的食物。",
+    "prerequisites_zh": "天狗。",
+    "benefit_zh": "你在对抗疾病以及通过摄入生效的毒素（对抗其他传递方式的毒素不获得加值）时豁免检定获得+2种族加值。你在以生存检定给自己寻找食物时获得+2加值。"
 }

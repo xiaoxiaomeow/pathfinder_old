@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brewmaster",
     "source": ["Advanced Race Guide pg. 17"],
     "description": " You can concoct potent brews. ",
-    "prerequisites": "Craft (alchemy) 1 rank, Profession (brewer) 1 rank, dwarf",
-    "benefit": "You gain a +2 bonus on Craft (alchemy) and Profession (brewer) checks, and you add +1 to the DC of any ingested poison you create."
+    "prerequisites": "Craft (alchemy) 1 rank, Profession (brewer) 1 rank, dwarf.",
+    "benefit": "You gain a +2 bonus on Craft (alchemy) and Profession (brewer) checks, and you add +1 to the DC of any ingested poison you create.",
+    "name_zh": "酿造大师",
+    "description_zh": "你能够酿造烈酒。",
+    "prerequisites_zh": "工艺（炼金）1级，专业（酿造）1级，矮人。",
+    "benefit_zh": "你在工艺（炼金）检定以及专业（酿造）检定上获得+2加值，同时所有你制作的毒素的豁免DC均会增加1点。"
 }

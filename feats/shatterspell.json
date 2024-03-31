@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
     "description": " Your mighty blows shatter your enemy’s magic. ",
-    "prerequisites": "Disruptive, Spellbreaker, dwarf, 10th-level fighter",
+    "prerequisites": "Disruptive, Spellbreaker, dwarf, 10th-level fighter.",
     "benefit": "As a standard action, you can attempt to sunder an ongoing spell effect as if you had the spell sunder rage power (<i>Ultimate Combat<\/i> 28). You may use this feat once per day, plus one additional time per day for every 5 points by which your base attack bonus exceeds +10.",
     "staminaSource": ["Pathfinder Unchained pg. 131"],
     "staminaText": "When you have depleted all uses of this feat for a day, you can spend 5 stamina points to use this feat one additional time that day.",
     "prerequisiteKeys":     [
         "disruptive",
         "spellbreaker"
-    ]
+    ],
+    "name_zh": "碎法",
+    "description_zh": "你那强有力的打击能够粉碎敌人的魔法。",
+    "prerequisites_zh": "扰法者，破法者，矮人，战士10级。",
+    "benefit_zh": "以一个标准动作，你能够如同拥有【破甲祛法】狂暴之力一般尝试移除持续性法术效果。你每天能够使用该专长1次，在你达到BAB+10之后，BAB每提高5点就能获得1次额外的每日使用次数。<\/p><p>【能力速查】破甲祛法（Aura of Repetition, Su; UC）：每次狂暴时1次，野蛮人可以透过一次成功的破武战技检定来移除法术。对并非施加在生物身上的法术来说，野蛮人必须对抗的CMD为“15+CL”；而对那些施放在生物身上的法术来说，野蛮人则需要进行一次比正常CMD高5点的破武战技检定，此检定忽略任何法术或类法术能力带来的失手机率。如果此检定成功，野蛮人可以压制该法术一轮。若检定结果比目标高5则压制两轮；若检定结果比目标高10以上，那么他就成功的解除该法术。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Wilderness pg. 107"],
     "description": "Your presence grants your companion the toughness and will to resist all manner of threats.",
-    "prerequisites": "Cha 13, Alertness, Beastmaster Style, Handle Animal 5 ranks, Sense Motive 5 ranks",
+    "prerequisites": "Cha 13, Alertness, Beastmaster Style, Handle Animal 5 ranks, Sense Motive 5 ranks.",
     "benefit": "If you are adjacent to your animal companion when it attempts a saving throw, you can attempt a Handle Animal check as an immediate action. Your animal companion does not attempt the saving throw, but instead uses your Handle Animal result as its result for the save.",
     "prerequisiteKeys":     [
         "alertness",

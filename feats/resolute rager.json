@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Resolute%20Rager",
     "source": ["Advanced Race Guide pg. 142"],
     "description": "Fear passes quickly while you are raging.",
-    "prerequisites": "Orc, rage class feature",
-    "benefit": "While raging, when under the effect of a fear effect that allows a saving throw, you can make a new saving throw against that fear effect at the start of each of your turns before acting. If you make the new save, the fear effect ends."
+    "prerequisites": "Orc, rage class feature.",
+    "benefit": "While raging, when under the effect of a fear effect that allows a saving throw, you can make a new saving throw against that fear effect at the start of each of your turns before acting. If you make the new save, the fear effect ends.",
+    "name_zh": "刚毅狂暴",
+    "description_zh": "恐惧在你狂暴时快速消退。",
+    "prerequisites_zh": "兽人，【狂暴】职业能力。",
+    "benefit_zh": "当狂暴时，若处于一项允许豁免的恐惧效果下，你可以在你的每个回合开始前进行一个新的豁免检定来对抗恐惧。若你成功豁免，恐惧效果结束。"
 }

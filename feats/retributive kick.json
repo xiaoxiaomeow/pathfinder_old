@@ -5,7 +5,7 @@
     "descriptors": ["Weapon Mastery"],
     "source": ["Weapon Master's Handbook pg. 22"],
     "description": "You can use your weapon attacks to set up a foe for an unarmed strike.",
-    "prerequisites": "Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon",
+    "prerequisites": "Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon.",
     "benefit": "When you make a full attack with an appropriate melee weapon and your first attack misses or is blocked, deflected, parried, or otherwise caused to not hit the target, you can immediately make an unarmed attack against the same target with the same attack bonus. You then cannot make any more attacks as part of that full attack.",
     "prerequisiteKeys": ["improved unarmed strike"]
 }

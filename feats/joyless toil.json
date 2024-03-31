@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Elemental Master's Handbook pg. 11"],
     "description": "Your strikes render your enemy distracted and unable to focus on productive action.",
-    "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8",
+    "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "Joyless Toil forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + half your character level + your Wisdom modifier) in addition to taking damage normally. You must declare that you are using this feat before you make your attack roll—thus, a failed attack roll wastes the attempt. An opponent who fails this saving throw is nauseated for 1 round or until the opponent is attacked. You can attempt to use Joyless Toil once per day for every 4 character levels you have, but you can use it no more than once per round. Constructs, incorporeal creatures, mindless creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
     "prerequisiteKeys": ["improved unarmed strike"]
 }

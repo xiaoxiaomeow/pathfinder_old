@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 156"],
     "description": "You are skilled at protecting yourself and your allies with your shield.",
-    "prerequisites": "Shield Focus, base attack bonus +6",
+    "prerequisites": "Shield Focus, base attack bonus +6.",
     "benefit": "When you use the total defense action while using a light, heavy, or tower shield, you can provide a cover bonus to AC against all attacks to an adjacent ally your size or smaller. This cover bonus is equal to your shield’s shield bonus and lasts until the beginning of your next turn. Your shield does not provide a cover bonus to Reflex saves.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "When using the total defense action, you can spend 5 stamina points. If you do, your shield also provides a cover bonus on your ally’s Reflex saves.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "掩护",
+    "description_zh": "你擅长使用盾牌同时保护自己和盟友。",
+    "prerequisites_zh": "盾牌专攻，基本攻击加值+6。",
+    "benefit_zh": "当你在持用轻型盾牌、重型盾牌或者塔盾进行全防御动作时，能够为盟友的AC提供掩蔽加值用于对抗所有攻击，不过这名盟友必须与你相邻并且体型小于等于你的体型。这个掩蔽加值等同于你的盾牌的盾牌加值，并且持续至你的下一轮开始。你的盾牌不会为反射豁免提供掩蔽加值。"
 }

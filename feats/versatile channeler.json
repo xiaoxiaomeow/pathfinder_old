@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Versatile%20Channeler",
     "source": ["Ultimate Magic pg. 159"],
     "description": "You can choose to channel positive and negative energy. ",
-    "prerequisites": "Channel energy class feature, necromancer or neutrally aligned cleric (see below)",
-    "benefit": "You may make a choice whenever you use your channel energy class feature."
+    "prerequisites": "Channel energy class feature, necromancer or neutrally aligned cleric (see below).",
+    "benefit": "You may make a choice whenever you use your channel energy class feature.<br><br> If you normally channel positive energy, you may choose to channel negative energy as if your effective cleric level were 2 levels lower than normal.<br><br> If you normally channel negative energy, you may choose to channel positive energy as if your effective cleric level were 2 levels lower than normal.<br><br> Having this feat means you qualify for feats and abilities that have “channel positive energy” or “channel negative energy” as a prerequisite (for example, you qualify for the Command Undead feat and the Turn Undead feat).",
+    "name_zh": "万用导能",
+    "description_zh": "你能够选择引导正能量还是负能量。",
+    "prerequisites_zh": "【引导能量】职业特性，死灵法师或者中立阵营牧师（见下文）。",
+    "benefit_zh": "你在引导能量的时候可以选择是引导正能量还是引导负能量。<\/p><p>如果你在一般情况下引导正能量，则你可以让你的有效牧师等级降低2级来引导负能量。<\/p><p>如果你在一般情况下引导负能量，则你可以让你的有效牧师等级降低2级来引导正能量。<\/p><p>拥有这个专长意味着在考虑那些先决条件是【引导正能量】或者【引导负能量】的专长、能力时，你同时拥有【引导正能量】和【引导负能量】。例如，你同时符合“命令死灵”和“驱散死灵”这两个专长的前提条件。<\/p><p>注释：这个专长仅对死灵法师和中立无信或是信仰中立神祇的牧师——那些需要在1级时获得【引导能量】能力，并且必须从正负能量中做出选择的牧师生效。那些根据阵营或是信仰的神祇决定引导能量种类的牧师不能选择本专长。"
 }

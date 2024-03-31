@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Dark%20Sight",
     "source": ["Advanced Race Guide pg. 112"],
     "description": "With further modification, your eyes see clearly in not only normal darkness, but in magical darkness as well.",
-    "prerequisites": "Dark Sight, Gloom Sight, fetchling",
+    "prerequisites": "Dark Sight, Gloom Sight, fetchling.",
     "benefit": "You gain the see in darkness ability and lose the light sensitivity weakness, but gain the light blindness weakness.",
     "prerequisiteKeys":     [
         "dark sight",
         "gloom sight"
-    ]
+    ],
+    "name_zh": "精通黑暗视域",
+    "description_zh": "通过再一步的增强，你的双眼不但能够在自然黑暗中视物，就连魔法黑暗也难不倒你。",
+    "prerequisites_zh": "黑暗视域，阴暗视域，窃影鬼。",
+    "benefit_zh": "你获得“看透黑暗”通用怪物能力并且失去了“强光敏感”弱点，但是你获得了“强光致盲”弱点。<\/p><p>【特性速查】强光致盲（Light Blindness, Ex）：拥有该能力的生物在突然暴露在强光，比如太阳光或者‘昼明术’下，就会目盲1轮。只要继续留在强光下，这些生物还会目眩。<\/p><p>【特性速查】看透黑暗（See in Darkness, Su）：该生物可以看穿任何种类的黑暗，包括‘深幽黑暗术’。"
 }

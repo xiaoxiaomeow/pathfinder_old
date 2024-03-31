@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Plane-Hopper's Handbook pg. 9"],
     "description": "Your strikes latch onto your opponent like the jaws of a cerberus, preventing them from fleeing across planes.",
-    "prerequisites": "Cerberus Style, base attack bonus +9 or monk level 9th",
+    "prerequisites": "Cerberus Style, base attack bonus +9 or monk level 9th.",
     "benefit": "Whenever you damage an opponent with Cerberus Style, that opponent cannot take 5-foot steps until the beginning of your next turn. Additionally, it is barred from dimensional travel. This effect functions as <i>dimensional anchor<\/i>, except that its duration is 1 round. Spell resistance applies; for the purpose of checks to overcome spell resistance, your caster level is equal to your character level.",
     "prerequisiteKeys": ["cerberus style"]
 }

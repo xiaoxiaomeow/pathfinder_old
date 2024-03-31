@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
     "description": " You are ferocious at hewing smaller opponents. ",
-    "prerequisites": "Str 13, Cleave, Power Attack, dwarf",
+    "prerequisites": "Str 13, Cleave, Power Attack, dwarf.",
     "benefit": "When using Cleave or Great Cleave, if your initial attack hits, you may take your additional attacks against any creature smaller than you that you threaten; your targets need not be adjacent to one another. Additional attacks you make against humanoids (goblinoid) gain a +2 circumstance bonus on attack rolls.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, the bonus on Cleave attacks made against goblinoids increases to +4.",
     "prerequisiteKeys":     [
         "cleave",
         "power attack"
-    ]
+    ],
+    "name_zh": "地精切裂者",
+    "description_zh": "你能够凶猛地劈开较小的敌人。",
+    "prerequisites_zh": "力量13，顺势斩，猛力攻击，矮人。",
+    "benefit_zh": "当你使用“顺势斩”或者“大顺势斩”时，如果初次攻击命中，那么你能够对处于你威胁范围内所有体型小于你的生物进行额外攻击；你的目标不需要彼此相邻。你对类人生物（地精）进行的额外攻击会在攻击检定上获得+2环境加值。"
 }

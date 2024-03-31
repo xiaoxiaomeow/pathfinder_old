@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 107"],
     "description": "You have learned the technique of rolling safely away when an enemy trips you.",
-    "prerequisites": "Dex 13, Dodge, Mobility",
+    "prerequisites": "Dex 13, Dodge, Mobility.",
     "benefit": "If you are tripped, you can spend an immediate action to move 5 feet without provoking an attack of opportunity. This does not count as taking a 5-foot step. You fall prone after this movement.",
     "staminaSource": ["Pathfinder Unchained pg. 125"],
     "staminaText": "When using this feat, you can spend 5 stamina points to stand up as part of your immediate action after you move. Standing up provokes attacks of opportunity.",
     "prerequisiteKeys":     [
         "dodge",
         "mobility"
-    ]
+    ],
+    "name_zh": "地滚翻",
+    "description_zh": "你知道如何安全地离开一个对你进行绊摔的敌人。",
+    "prerequisites_zh": "敏捷13，闪避，灵活移动。",
+    "benefit_zh": "当你被绊摔，你可以花费直觉动作远离对你进行绊摔的敌人5尺。这个移动不计入5尺快步。你在移动完毕后才会倒地。"
 }

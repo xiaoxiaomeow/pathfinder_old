@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Instant%20Judgment",
     "source": ["Ultimate Combat pg. 106"],
     "description": "Your hastiest condemnations can have power.",
-    "prerequisites": "Second judgment class feature",
+    "prerequisites": "Second judgment class feature.",
     "benefit": "You can spend an immediate action to pronounce a judgment or change an active judgment.",
-    "normal": "Pronouncing or changing a judgment requires a swift action."
+    "normal": "Pronouncing or changing a judgment requires a swift action.",
+    "name_zh": "瞬刻审判",
+    "description_zh": "你最快速的宣言也蕴含着力量。",
+    "prerequisites_zh": "【第二审判】职业特性。",
+    "benefit_zh": "你可以用直觉动作来发动审判，或是改变一个激活的审判类型。<\/p><p>通常状况：开启或改变审判是一个迅捷动作。"
 }

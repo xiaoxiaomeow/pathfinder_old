@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reward%20of%20Life",
     "source": ["Ultimate Magic pg. 155"],
     "description": "When you lay on hands, you are also healed.",
-    "prerequisites": "Lay on hands class feature",
-    "benefit": "Each time you use your lay on hands ability to heal a creature other than yourself, you heal a number of hit points equal to your Charisma bonus. This ability has no effect if you use lay on hands to harm undead."
+    "prerequisites": "Lay on hands class feature.",
+    "benefit": "Each time you use your lay on hands ability to heal a creature other than yourself, you heal a number of hit points equal to your Charisma bonus. This ability has no effect if you use lay on hands to harm undead.",
+    "name_zh": "生命之赐",
+    "description_zh": "当你使用圣疗时，你也一同被治愈。",
+    "prerequisites_zh": "【圣疗】职业特性。",
+    "benefit_zh": "每次你使用【圣疗】能力治疗你以外的生物时，你恢复等同于你魅力加值的HP。这个能力在你使用圣疗伤害不死生物时不起效。"
 }

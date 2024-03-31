@@ -5,7 +5,7 @@
     "descriptors": ["Conduit"],
     "source": ["Planar Adventures pg. 29"],
     "description": "Your connection to the planes has grown stronger.",
-    "prerequisites": "Planar Infusion, character level 7th",
+    "prerequisites": "Planar Infusion, character level 7th.",
     "benefit": "Choose a plane you’ve gained an infusion from via Planar Infusion. You now gain that plane’s improved infusion as well.",
     "prerequisiteKeys": ["planar infusion"]
 }

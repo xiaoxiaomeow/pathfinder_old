@@ -8,8 +8,12 @@
     ],
     "source": ["Advanced Player's Guide pg. 167"],
     "description": "You are skilled at striking where it counts, as long as an ally distracts your foe.",
-    "prerequisites": "Dex 13, base attack bonus +1",
+    "prerequisites": "Dex 13, base attack bonus +1.",
     "benefit": "Whenever you and an ally who also has this feat are flanking the same the creature, you deal an additional 1d6 points of precision damage with each successful melee attack. This bonus damage stacks with other sources of precision damage, such as sneak attack. This bonus damage is not multiplied on a critical hit.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
-    "staminaText": "When dealing precision damage with this feat, you can spend 2 stamina points to increase that precision damage to 2d6."
+    "staminaText": "When dealing precision damage with this feat, you can spend 2 stamina points to increase that precision damage to 2d6.",
+    "name_zh": "精准打击",
+    "description_zh": "你很擅长进行精确的攻击，不过前提是敌人的注意力被盟友所分散。",
+    "prerequisites_zh": "敏捷13，基本攻击加值+1.。",
+    "benefit_zh": "每当你和同样拥有该专长的一名盟友夹击相同的生物时，你们的每次成功近战攻击能够额外造成1d6点精准伤害。这个加值与其他来源的精准伤害叠加，比如偷袭。该伤害不会由于重击而增加。"
 }

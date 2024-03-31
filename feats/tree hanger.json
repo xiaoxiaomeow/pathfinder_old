@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 207"],
     "description": "You can use your tail to defend against trip attacks and to hang from nearby protrusions.",
-    "prerequisites": "Acrobatics 1 rank, vanara",
+    "prerequisites": "Acrobatics 1 rank, vanara.",
     "benefit": "You gain a +2 bonus to your CMD against all trip attacks. If your square has a branch or other sturdy large object that you could hang from, as a swift action you may make a DC 15 Acrobatics check to jump upward and use your tail to hang from that object. While hanging, you can’t be tripped, you ignore the effects of difficult terrain in your square, and you gain a +2 bonus to your CMD against bull rush, drag, and reposition attacks. If you leave that square (including if you are moved against your will), you lose your grip on the object and are no longer hanging. While hanging, you cannot use your tail for anything else.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
-    "staminaText": "When you jump upward to use your tail to hang from an object, you can spend up to 5 stamina points. You gain a bonus on the Acrobatics check equal to the number of stamina points you spent."
+    "staminaText": "When you jump upward to use your tail to hang from an object, you can spend up to 5 stamina points. You gain a bonus on the Acrobatics check equal to the number of stamina points you spent.",
+    "name_zh": "挂树功",
+    "description_zh": "你可以使用尾巴挂在附近的突出物上来避免摔绊攻击。",
+    "prerequisites_zh": "特技1级，灵猴族。",
+    "benefit_zh": "你在对抗所有绊摔攻击时的CMD获得+2加值。如果你所在的方格有树枝或者其他能够让你挂在其上的坚固粗大的物体的话，你能够以一个迅捷动作进行DC为15的特技动作检定，以此向上跳起并用你的尾巴挂在该物体上。在悬挂期间，你不会被绊摔，同时你忽略你所在方格的困难地形效果；此外在对抗冲撞、拖拽以及移位战技时的CMD获得+2加值。如果你离开该方格（包括受迫移动），你的尾巴会松开悬挂的物体并且不再处于悬挂状态。当你悬挂的时候无法使用尾巴做别的事情。"
 }

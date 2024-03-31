@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
     "description": " Your helm turns aside lethal blows.",
-    "prerequisites": "Dented Helm, Hard-Headed, base attack bonus +11, dwarf",
+    "prerequisites": "Dented Helm, Hard-Headed, base attack bonus +11, dwarf.",
     "benefit": "When wearing a helmet, you add +1 to your AC against critical hit confirmation rolls; this benefit stacks with Dented Helm. When you use Dented Helm to deflect a critical hit, you may apply all damage from the critical hit to your helmet before applying any damage to yourself. If you take no damage, any additional effects, such as critical feats or poison, are negated.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "When you are threatened with a critical hit, you can spend up to 5 stamina points. You gain an additional bonus to AC against the critical confirmation roll equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "dented helm",
         "hard-headed"
-    ]
+    ],
+    "name_zh": "爆盔护体",
+    "description_zh": "你的头盔能卸除致命的打击。",
+    "prerequisites_zh": "裂盔护体，铁头，基本攻击加值+11，矮人。",
+    "benefit_zh": "当你佩戴头盔时，你的AC在对抗重击确认检定时获得+1加值；该加值与“裂盔护体”专长叠加。当你使用“裂盔护体”偏转重击时，你能够在自身受到伤害前，将重击造成的所有伤害转移至头盔上。如果你没有受到伤害，那么任何额外效果——比如重击专长或毒素——均不会生效。"
 }

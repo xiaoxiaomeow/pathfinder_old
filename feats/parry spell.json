@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Parry%20Spell",
     "source": ["Advanced Player's Guide pg. 166"],
     "description": "You can throw an enemy spell back at its caster.",
-    "prerequisites": "Spellcraft 15 ranks, Improved Counterspell",
+    "prerequisites": "Spellcraft 15 ranks, Improved Counterspell .",
     "benefit": "Whenever you successfully counter a spell, it returns back to its caster. This works exactly like the spell turning spell.",
-    "prerequisiteKeys": ["improved counterspell"]
+    "prerequisiteKeys": ["improved counterspell"],
+    "name_zh": "回击法术",
+    "description_zh": "你能够将敌人的法术反射回它的施法者。",
+    "prerequisites_zh": "法术辨识15级，精通法术反制。",
+    "benefit_zh": "当你成功反制法术时，它会被反转至其施法者处。该专长与‘法术反转（spell turning）’法术完全一致。"
 }

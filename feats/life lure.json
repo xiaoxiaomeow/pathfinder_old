@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Life%20Lure",
     "source": ["Ultimate Magic pg. 153"],
     "description": "Your channeled positive energy is irresistibly sweet to nearby undead.",
-    "prerequisites": "Channel positive energy class feature",
-    "benefit": "As a standard action, you can channel positive energy to fascinate all undead within 30 feet for a number of rounds equal to your Charisma modifier (minimum of 1). Undead that succeed at a Will save (DC 10 + 1/2 your cleric level + your Charisma modifier) are unaffected. Channeling energy for this purpose does not heal or harm creatures."
+    "prerequisites": "Channel positive energy class feature.",
+    "benefit": "As a standard action, you can channel positive energy to fascinate all undead within 30 feet for a number of rounds equal to your Charisma modifier (minimum of 1). Undead that succeed at a Will save (DC 10 + 1/2 your cleric level + your Charisma modifier) are unaffected. Channeling energy for this purpose does not heal or harm creatures.",
+    "name_zh": "生命诱惑",
+    "description_zh": "你所引导的正能量对于那些亡灵而言一种无可抗拒的甜美。",
+    "prerequisites_zh": "【引导正能量】职业特性。",
+    "benefit_zh": "作为一个标准动作，你可以引导正能量迷魂30尺范围内所有的不死生物，持续等同于你魅力修正的轮数（至少1轮）。不死生物可以通过一次DC为“10+1/2牧师等级+魅力修正”的意志豁免来避免此影响。通过这种方式引导能量不会治疗或者伤害生物。"
 }

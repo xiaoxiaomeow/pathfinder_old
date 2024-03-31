@@ -5,10 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 89"],
     "description": "You can quickly apply poison to gloved hands, protected feet, or other protected body parts, delivering the poison with your unarmed strikes.",
-    "prerequisites": "Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike",
-    "benefit": "As a swift action, you can apply one dose of contact or injury poison to two body parts that you use for unarmed strikes. You must still protect yourself against exposure to contact poisons you apply in this way.",
+    "prerequisites": "Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike.",
+    "benefit": "As a swift action, you can apply one dose of contact or injury poison to two body parts that you use for unarmed strikes. You must still protect yourself against exposure to contact poisons you apply in this way. ",
     "normal": "Applying poison to a weapon or single piece of ammunition is a standard action.",
     "staminaSource": ["Pathfinder Unchained pg. 113"],
     "staminaText": "You can spend 2 stamina points to apply poison to a manufactured weapon as a swift action.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "虺蛇打击",
+    "description_zh": "你可以快速的将毒药涂抹在手套、腿甲或其他护具上，让你的徒手打击可以传递这些毒药。",
+    "prerequisites_zh": "【用毒】职业特性，精通徒手打击，工艺（炼金）1级。",
+    "benefit_zh": "以一个迅捷动作，你可以将身体的两个用于进行徒手打击的部位涂上毒药。在通过这种方式涂毒时你也必须保护自己免于直接暴露在毒药下。<\/p><p>通常状况：给武器或弹药涂毒是一个标准动作。"
 }

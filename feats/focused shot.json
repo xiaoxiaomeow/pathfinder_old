@@ -8,7 +8,7 @@
         "Pathfinder Campaign Setting pg. 89"
     ],
     "description": "Your anatomical insight adds deadliness to your shots.",
-    "prerequisites": "Int 13, Point-Blank Shot, Precise Shot",
+    "prerequisites": "Int 13, Point-Blank Shot, Precise Shot.",
     "benefit": "As a standard action, you may make an attack with a bow or crossbow and add your Intelligence modifier on the damage roll. You must be within 30 feet of your target to deal this extra damage. Creatures immune to critical hits and sneak attacks are immune to this extra damage.",
     "special": "Starting at 2nd level, a ranger with the archery combat style may select Focused Shot as a combat style feat.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
@@ -16,5 +16,10 @@
     "prerequisiteKeys":     [
         "point-blank shot",
         "precise shot"
-    ]
+    ],
+    "name_zh": "集中射击",
+    "description_zh": "对结构的洞悉能够使你的射击更加致命。",
+    "prerequisites_zh": "智力13，近距射击，精准射击。",
+    "benefit_zh": "以标准动作，你能够使用弓或弩进行一次攻击，并且将智力修正加到伤害检定上。你必须距离目标30尺范围内，才能造成这个额外伤害。免疫重击与偷袭的生物同样免疫这个额外伤害。",
+    "special_zh": "从2级起，选择【箭术战斗流派】的游侠能够将“集中射击”作为战斗流派专长进行选取。"
 }

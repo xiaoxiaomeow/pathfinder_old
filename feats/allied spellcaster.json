@@ -5,6 +5,10 @@
     "descriptors": ["Teamwork"],
     "source": ["Advanced Player's Guide pg. 150"],
     "description": "With the aid of an ally, you are skilled at piercing the protections of other creatures with your spells.",
-    "prerequisites": "Caster level 1st",
-    "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on level checks made to overcome spell resistance. If your ally has the same spell prepared (or known with a slot available if they are spontaneous spellcasters), this bonus increases to +4 and you receive a +1 bonus to the caster level for all level-dependent variables, such as duration, range, and effect."
+    "prerequisites": "Caster level 1st.",
+    "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on level checks made to overcome spell resistance. If your ally has the same spell prepared (or known with a slot available if they are spontaneous spellcasters), this bonus increases to +4 and you receive a +1 bonus to the caster level for all level-dependent variables, such as duration, range, and effect.",
+    "name_zh": "团队法师",
+    "description_zh": "你十分擅长在盟友的帮助下，使用自身的法术突破其他生物的防护。",
+    "prerequisites_zh": "施法者等级1级。",
+    "benefit_zh": "若你邻近一名同样拥有该专长的盟友，那么你在克服法术抗力的施法者等级检定中获得+2表现加值。如果你的盟友准备了相同的法术（或者在盟友为自发施法者的情况下，他的已知法术有这个法术并且还有可用法术位），这个加值会提升至+4，并且在确定所有与CL相关的变量（如持续时间，范围和效果）时，你的CL获得+1加值。"
 }

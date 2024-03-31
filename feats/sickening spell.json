@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 169"],
     "description": "You can sicken creatures with your spells.",
-    "benefit": "You can modify a spell to sicken a creature damaged by the spell. When a creature takes damage from this spell, they become sickened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the sickening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the sickening effect. If the spell effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the spell. A sickening spell uses up a spell slot two levels higher than the spell’s actual level."
+    "benefit": "You can modify a spell to sicken a creature damaged by the spell. When a creature takes damage from this spell, they become sickened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the sickening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the sickening effect. If the spell effect also causes the creature to become sickened, the duration of this metamagic effect is added on to the duration of the spell. A sickening spell uses up a spell slot two levels higher than the spell’s actual level. <br><br> Spells that do not inflict damage do not benefit from this feat.",
+    "name_zh": "感染法术",
+    "description_zh": "你能够使用法术让生物感到恶心。",
+    "benefit_zh": "你能够调整一个法术，使其能够让被法术伤害的生物恶心。当一名生物被这个法术伤害时，他会在等同于法术原始等级的轮数内恶心。如果法术允许豁免，成功的豁免也可以使恶心效果无效。如果法术不允许豁免，那么目标能够进行一次强韧豁免来使恶心效果无效。如果法术效果会使生物恶心，那么超魔效果的持续时间会加到法术的持续时间之上。感染法术占用比法术的实际环级高2环的法术位。不造成伤害的法术无法由该专长获益。"
 }

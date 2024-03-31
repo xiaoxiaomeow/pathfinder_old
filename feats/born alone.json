@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Born%20Alone",
     "source": ["Advanced Race Guide pg. 141"],
     "description": "You are so tough and vicious that you killed and ate the rest of your litter while still in the womb.",
-    "prerequisites": "Orc",
-    "benefit": "Whenever you kill or knock unconscious an opponent with a melee attack, you gain temporary hit points equal to your Constitution bonus (minimum 1) until your next turn. These temporary hit points do not stack. You do not gain this bonus if the opponent is helpless or has less than half your Hit Dice."
+    "prerequisites": "Orc.",
+    "benefit": "Whenever you kill or knock unconscious an opponent with a melee attack, you gain temporary hit points equal to your Constitution bonus (minimum 1) until your next turn. These temporary hit points do not stack. You do not gain this bonus if the opponent is helpless or has less than half your Hit Dice.",
+    "name_zh": "独生子",
+    "description_zh": "你是如此地坚强和残忍，在子宫中就杀死并吃掉了你的弟妹。",
+    "prerequisites_zh": "兽人。",
+    "benefit_zh": "每当你以近战攻击杀死或击倒一名敌人，你获得相当于你体质加值的临时生命（最少1）直到你的下一回合。这些临时生命不会叠加。若敌人处于无助或生命骰不足你的一半，你不会获得该奖励。"
 }

@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 66"],
     "description": "You land your most telling blows in desperate situations.",
-    "prerequisites": "Cautious Fighter, base attack bonus +1, halfling",
+    "prerequisites": "Cautious Fighter, base attack bonus +1, halfling.",
     "benefit": "Once per day, you can make a single melee attack while taking the total defense action. You take a –4 penalty on attack rolls when making this attack. You also gain a +4 bonus on critical confirmation rolls made while fighting defensively or making an attack of opportunity using this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 117"],
     "staminaText": "You can spend 5 stamina points to use this feat an additional time per day. Each time you use this combat trick, you must spend 5 stamina points.",
-    "prerequisiteKeys": ["cautious fighter"]
+    "prerequisiteKeys": ["cautious fighter"],
+    "name_zh": "绝望打击",
+    "description_zh": "你在绝望下进行了最有效的攻击。",
+    "prerequisites_zh": "谨慎战斗，基本攻击加值+1，半身人。",
+    "benefit_zh": "每天1次，你能在一次单独的近战攻击时进行完全防御动作。你在做这次攻击时攻击检定受到额外-4惩罚。你可以在进行防御式战斗或借机攻击时使用此专长，且该次攻击的重击确定骰+4。"
 }

@@ -5,6 +5,10 @@
     "descriptors": ["Teamwork"],
     "source": ["Ultimate Combat pg. 122"],
     "description": "You distract a mark with friendly conversation while your partner robs the victim blind.",
-    "prerequisites": "Bluff 1 rank, Sleight of Hand 1 rank",
-    "benefit": "Whenever an ally with this feat succeeds a Bluff check to feint an opponent, if you are adjacent to that creature, you can spend an immediate action to make a Sleight of Hand check to pickpocket that opponent and gain a +4 bonus on that attempt."
+    "prerequisites": "Bluff 1 rank, Sleight of Hand 1 rank.",
+    "benefit": "Whenever an ally with this feat succeeds a Bluff check to feint an opponent, if you are adjacent to that creature, you can spend an immediate action to make a Sleight of Hand check to pickpocket that opponent and gain a +4 bonus on that attempt.",
+    "name_zh": "联手扒窃",
+    "description_zh": "你的友好分散了目标的注意力，而你的盟友则趁机扒走了对方的钱包。",
+    "prerequisites_zh": "唬骗1级，巧手1级。",
+    "benefit_zh": "当拥有此专长的盟友成功地通过唬骗检定施展虚招时，只要你和该目标邻接，你就可以通过直觉动作施展巧手技能扒窃对手，且在检定中得到+4加值。"
 }

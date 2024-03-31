@@ -5,13 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 118"],
     "description": "You are skilled at wearing heavy armor.",
-    "prerequisites": "Light Armor Proficiency, Medium Armor Proficiency",
+    "prerequisites": "Light Armor Proficiency, Medium Armor Proficiency.",
     "benefit": "See Armor Proficiency, Light.",
     "normal": "See Armor Proficiency, Light.",
     "special": "Fighters and paladins automatically have Heavy Armor Proficiency as a bonus feat. They need not select it.",
     "name_zh": "擅长重型盔甲",
     "description_zh": "你对于穿戴重型盔甲颇有心得。",
     "prerequisites_zh": "擅长轻型盔甲，擅长中型盔甲。",
-    "benefit_zh": "见擅长轻型盔甲。",
+    "benefit_zh": "见擅长轻型盔甲。<\/p><p>通常状况：见擅长轻型盔甲。",
     "special_zh": "对于战士和圣骑士，“擅长重型盔甲”作为奖励专长自动学会，他们无需选择这个专长。"
 }

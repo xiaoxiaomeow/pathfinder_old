@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 105"],
     "description": "The fury and power channeled through your attack is enough to kill a lesser being outright.",
-    "prerequisites": "Devastating Strike, Vital Strike, base attack bonus +13",
+    "prerequisites": "Devastating Strike, Vital Strike, base attack bonus +13.",
     "benefit": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a bonus on attack rolls to confirm a critical hit equal to the bonus on damage rolls you gain from Devastating Strike.",
     "staminaSource": ["Pathfinder Unchained pg. 123"],
     "staminaText": "Whenever you use the Devastating Strike combat trick, increase the bonus damage to +6 on each of the extra sets of weapon damage dice. For weapons with more than one damage die, count all the weapon’s base damage dice together as one set.",
     "prerequisiteKeys":     [
         "devastating strike",
         "vital strike"
-    ]
+    ],
+    "name_zh": "精通毁灭打击",
+    "description_zh": "你的怒火与力量都让你的攻击能够更加彻底的将敌人轰杀。",
+    "prerequisites_zh": "毁灭打击，要害打击，基本攻击加值+13。",
+    "benefit_zh": "每当你使用“要害打击”、“精通要害打击”或“高等要害打击”，你的重击确认检定都将获得加值，加值等于你从“毁灭打击”专长中获得的伤害加值。"
 }

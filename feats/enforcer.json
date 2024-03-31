@@ -8,8 +8,12 @@
         "Pathfinder Campaign Setting pg. 125"
     ],
     "description": "You are skilled at causing fear in those you brutalize.",
-    "prerequisites": "Intimidate 1 rank",
+    "prerequisites": "Intimidate 1 rank.",
     "benefit": "Whenever you deal nonlethal damage with a melee weapon, you can make an Intimidate check to demoralize your target as a free action. If you are successful, the target is shaken for a number of rounds equal to the damage dealt. If your attack was a critical hit, your target is frightened for 1 round with a successful Intimidate check, as well as being shaken for a number of rounds equal to the damage dealt.",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
-    "staminaText": "When you score a critical hit with a weapon dealing nonlethal damage, you can spend 5 stamina points to frighten the target for 1d4 rounds instead of 1 round."
+    "staminaText": "When you score a critical hit with a weapon dealing nonlethal damage, you can spend 5 stamina points to frighten the target for 1d4 rounds instead of 1 round.",
+    "name_zh": "胁迫者",
+    "description_zh": "你善于在被你伤害的人心中制造恐惧。",
+    "prerequisites_zh": "威吓1级。",
+    "benefit_zh": "每当你使用近战武器造成非致命伤害，就能够以自由动作进行一次威吓检定，用以挫败攻击目标的士气。若成功，目标会战栗，持续等同于伤害的轮数。如果你的攻击是重击，你的目标会在成功的威吓检定后惊惧1轮，除此之外还会在等同于伤害的轮数中战栗。"
 }

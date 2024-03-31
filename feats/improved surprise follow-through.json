@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 57"],
     "description": "You follow up an attack with a surprising series of sweeping blows.",
-    "prerequisites": "Str 13, Cleave, Great Cleave, Power Attack, Surprise Follow Through, base attack bonus +8",
+    "prerequisites": "Str 13, Cleave, Great Cleave, Power Attack, Surprise Follow Through, base attack bonus +8.",
     "benefit": "When using Great Cleave, each opponent you attack on your turn (other than the first) is denied his Dexterity bonus against you.",
     "staminaSource": ["Pathfinder Unchained pg. 124"],
     "staminaText": "When you hit a foe that’s denied its Dexterity bonus via this feat and you use the Surprise Follow-Through combat trick to deal extra damage, the amount of extra damage dealt increases to 1d6 points.",
@@ -13,5 +13,9 @@
         "cleave",
         "great cleave",
         "power attack"
-    ]
+    ],
+    "name_zh": "精通顺势突袭",
+    "description_zh": "你在一次攻击后突然展开一系列雨点般的打击。",
+    "prerequisites_zh": "力量13，顺势斩，大顺势斩，猛力攻击，顺势突袭，基本攻击加值+8。",
+    "benefit_zh": "当使用“大顺势斩”时，每个你在你的行动轮中攻击的敌人（除了第一个）都失去对你的敏捷加值。"
 }

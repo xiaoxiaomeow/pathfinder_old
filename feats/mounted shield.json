@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 165"],
     "description": "Your defensive tactics defend both you and your mount.",
-    "prerequisites": "Mounted Combat, Shield Focus",
+    "prerequisites": "Mounted Combat, Shield Focus.",
     "benefit": "You may add your base shield bonus (including the bonus from Shield Focus but not including enhancement bonuses) to your mount’s AC. In addition, you may add this bonus when making a Ride check to negate a hit against your mount using the Mounted Combat feat.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you can add your shield’s enhancement bonus to your mount’s Armor Class.",
     "prerequisiteKeys":     [
         "mounted combat",
         "shield focus"
-    ]
+    ],
+    "name_zh": "骑乘盾牌防御",
+    "description_zh": "你的防御技巧可以同时应用到自身和坐骑上。",
+    "prerequisites_zh": "骑乘战斗，盾牌专攻。",
+    "benefit_zh": "你可以将你的基本盾牌加值（包括由盾牌专攻获得的加值，但是不包括增强加值）加到你的坐骑的AC上。此外，当你使用“骑乘战斗”专长，能够将这个加值加到用于避免你的坐骑受到攻击的骑术检定上。"
 }

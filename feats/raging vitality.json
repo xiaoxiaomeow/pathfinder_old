@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Vitality",
     "source": ["Advanced Player's Guide pg. 168"],
     "description": "While raging, you are full of vigor and health.",
-    "prerequisites": "Con 15, rage class feature",
-    "benefit": "Whenever you are raging, the morale bonus to your Constitution increases by +2. Your rage does not end if you become unconscious. While unconscious you must still expend rounds of rage per day each round."
+    "prerequisites": "Con 15, rage class feature.",
+    "benefit": "Whenever you are raging, the morale bonus to your Constitution increases by +2. Your rage does not end if you become unconscious. While unconscious you must still expend rounds of rage per day each round.",
+    "name_zh": "狂暴活性",
+    "description_zh": "你在狂暴的时候更加有活力。",
+    "prerequisites_zh": "体质15，【狂暴】职业特性。",
+    "benefit_zh": "每当你狂暴的时候，你的体质获得士气加值提高2点。你的狂暴并不会在你失去意识时结束。不过当你失去意识时，仍然必须花费每日狂暴轮数。"
 }

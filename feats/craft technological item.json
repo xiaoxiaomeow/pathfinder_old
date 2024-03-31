@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Technological%20Item",
     "source": ["Technology Guide pg. 6"],
     "description": "You can craft technological gear and items.",
-    "prerequisites": "Technologist, Craft (mechanical) 5 ranks, Knowledge (engineering) 5 rank",
-    "benefit": "You can create technological gear. Creating a piece of technological gear takes 1 day for every 1,000 gp in the item’s price. To create the object, you must use up raw materials costing half of this total price. See Crafting High- Tech Items on page 16 for more information.",
+    "prerequisites": "Technologist, Craft (mechanical) 5 ranks, Knowledge (engineering) 5 ranks",
+    "benefit": "You can create technological gear. Creating a piece of technological gear takes 1 day for every 1,000 gp in the item’s price. To create the object, you must use up raw materials costing half of this total price. See Crafting High- Tech Items on page 16 for more information.<br><br> You can also repair a broken technological item if it is one that you could make. Doing so costs half the raw materials and half the time it would take to craft that item from scratch.",
     "prerequisiteKeys": ["technologist"]
 }

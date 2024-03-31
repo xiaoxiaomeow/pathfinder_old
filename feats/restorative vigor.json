@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Healer's Handbook pg. 15"],
     "description": "You can recover from additional kinds of damage using your vigor.",
-    "prerequisites": "Con 15, Combat Vigor, character level 8th",
+    "prerequisites": "Con 15, Combat Vigor, character level 8th.",
     "benefit": "Your vigor pool gains 1 vigor point. Whenever you spend vigor points, you can recover from 1d3 points of ability score damage from one physical ability score (Strength, Dexterity, or Constitution) instead of regaining 1d6 hit points. You can choose separately for each vigor point spent. For example, if you spend 2 vigor points, you could regain 2d6 hit points; recover 2d3 points of ability damage from up to two physical ability scores total; or regain 1d6 hit points and recover from 1d3 points of ability damage from one physical ability score.",
     "prerequisiteKeys": ["combat vigor"]
 }

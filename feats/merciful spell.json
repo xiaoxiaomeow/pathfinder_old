@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 165"],
     "description": "Your damaging spells subdue rather than kill.",
-    "benefit": "You can alter spells that inflict damage to inflict nonlethal damage instead. Spells that inflict damage of a particular type (such as fire) inflict nonlethal damage of that same type. A merciful spell does not use up a higher-level spell slot than the spell’s actual level."
+    "benefit": "You can alter spells that inflict damage to inflict nonlethal damage instead. Spells that inflict damage of a particular type (such as fire) inflict nonlethal damage of that same type. A merciful spell does not use up a higher-level spell slot than the spell’s actual level.",
+    "name_zh": "慈悯法术",
+    "description_zh": "你的伤害性法术只会制服敌人，而不会将其杀死。",
+    "benefit_zh": "你能够调整法术，使其造成非致命伤害。造成特定类型伤害的法术（如火焰）所造成的非致命伤害也属于相同的类型。慈悯法术不会占用比法术的实际环级高的法术位。"
 }

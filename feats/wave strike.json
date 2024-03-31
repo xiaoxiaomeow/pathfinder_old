@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
     "description": "You present a serene facade until you unsheathe your weapon and strike in one fluid motion.",
-    "prerequisites": "Weapon expertise class feature or Quick Draw, Bluff 1 rank",
+    "prerequisites": "Weapon expertise class feature or Quick Draw, Bluff 1 rank.",
     "benefit": "If on your first turn of combat you draw a melee weapon to attack an opponent within your reach, you can spend a swift action to make a Bluff check to feint against that opponent.",
     "staminaSource": ["Pathfinder Unchained pg. 135"],
     "staminaText": "You can spend 2 stamina points to use this feat on your second or subsequent turns in a combat. You can use this combat trick only once per combat, though you can use it in addition to using the feat on your first turn.",
-    "prerequisiteKeys": ["quick draw"]
+    "prerequisiteKeys": ["quick draw"],
+    "name_zh": "波形打击",
+    "description_zh": "你的姿态平静祥和，直到你用流畅的一个动作令兵刃出鞘并直指要害。",
+    "prerequisites_zh": "【武器智识】职业特性或即时备战，唬骗1级。",
+    "benefit_zh": "若你在战斗的首轮拔出近战武器并攻击一个邻接对手，你能以迅捷动作对其进行唬骗以使用虚招。"
 }

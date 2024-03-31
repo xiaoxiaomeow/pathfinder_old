@@ -5,5 +5,8 @@
     "descriptors": ["Teamwork"],
     "source": ["Advanced Player's Guide pg. 169"],
     "description": "Your allies cover you while you cast complicated spells.",
-    "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +4 competence bonus on concentration checks. If your ally is wielding a buckler or a light shield, this bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, this bonus increases by +2. Finally, if an enemy threatening you and your ally has the Disruptive feat, or another ability that increases the DC of concentration checks, the amount of the increase is halved."
+    "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +4 competence bonus on concentration checks. If your ally is wielding a buckler or a light shield, this bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, this bonus increases by +2. Finally, if an enemy threatening you and your ally has the Disruptive feat, or another ability that increases the DC of concentration checks, the amount of the increase is halved.",
+    "name_zh": "持盾施法",
+    "description_zh": "你的盟友能够掩护你完成法术。",
+    "benefit_zh": "每当你邻近一名拥有该专长的盟友，你的专注检定就会获得+4表现加值。如果该盟友持用小圆盾或者轻型盾牌，这个加值增加1点；如果你的盟友持用重盾或者塔盾，这个加值增加2点。最后，如果你和你的盟友处在一名敌人的威胁范围内，并且这名敌人拥有“扰法者”专长或者其他增加专注检定的DC的能力，那么这个DC增加量减半。"
 }

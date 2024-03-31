@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diviner's%20Delving",
     "source": ["Advanced Player's Guide pg. 158"],
     "description": "Your keen magical intuition makes reading signs, portents, and mystical clues quick and easy.",
-    "prerequisites": "Spell Focus (divination)",
+    "prerequisites": "Spell Focus (divination).",
     "benefit": "You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, nondetection). When using a divination spell that requires concentration, you gain information from the spell 1 round sooner than normal (so you gain information from the first 2 rounds with 1 round of concentration, and information from the third round in the second round of concentration).",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "揭示预言",
+    "description_zh": "你那敏锐的魔法直觉使你在阅读迹象、线索和征兆时更加容易并且更加快捷。",
+    "prerequisites_zh": "法术专攻（预言）。",
+    "benefit_zh": "当你施放预言系法术突破法术抗力，或者阻碍预言系法术的效果（比如‘回避侦测（nondetection）’）时，施法者等级检定获得+2加值。当你使用需要专注的预言系法术时，你获得信息的速度比正常快1轮（因此你在专注的第一轮得到原本第二轮获得的信息，在专注的第二轮获得第三轮的信息）。"
 }

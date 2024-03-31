@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Sense",
     "source": ["Advanced Player's Guide pg. 170"],
     "description": "You can feel movement in the very earth and stones around you.",
-    "prerequisites": "Improved Stonecunning, Perception 10 ranks",
+    "prerequisites": "Improved Stonecunning, Perception 10 ranks.",
     "benefit": "You gain tremorsense to a range of 10 feet.",
-    "prerequisiteKeys": ["improved stonecunning"]
+    "prerequisiteKeys": ["improved stonecunning"],
+    "name_zh": "岩石感官",
+    "description_zh": "你可以感觉到周围的泥土与岩石的运动。",
+    "prerequisites_zh": "精通岩石敏锐，察觉10级。",
+    "benefit_zh": "你获得10尺范围的＜颤动感知＞。<\/p><p>【特性速查】颤动感知（Tremorsense, Ex）：具有颤动感知能力的生物能够感觉到地面的震颤，它们可以自动辨别出到任何接触地面的东西的位置。具有颤动感知能力的水栖生物亦可感觉出在水中移动的生物的位置。此能力的有效范围在生物的描述中给出。"
 }

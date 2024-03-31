@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 163"],
     "description": "Your spells can go beyond several normal limitations. ",
-    "benefit": "An intensified spell increases the maximum number of damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inflict damage that is not modified by caster level are not affected by this feat. An intensified spell uses up a spell slot one level higher than the spell's actual level."
+    "benefit": "An intensified spell increases the maximum number of damage dice by 5 levels. You must actually have sufficient caster levels to surpass the maximum in order to benefit from this feat. No other variables of the spell are affected, and spells that inflict damage that is not modified by caster level are not affected by this feat. An intensified spell uses up a spell slot one level higher than the spell's actual level.",
+    "name_zh": "强化法术",
+    "description_zh": "你的法术能够超越通常的制限。",
+    "benefit_zh": "强化法术会使决定法术的伤害骰数的最高施法者等级增加5级。为了从该专长获益，你必须拥有足够的CL来超过最大值。没有变量的法术不会被影响，不会受CL调整的、造成伤害的法术也不会被该专长影响。强化法术占用比法术的实际环级高1环的法术位。"
 }

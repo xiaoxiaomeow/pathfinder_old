@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 156"],
     "description": "With a single strike, you transmute flesh to stone.",
-    "prerequisites": "Improved Unarmed Strike, Gorgon's Fist, Medusa's Wrath, base attack bonus +14",
+    "prerequisites": "Improved Unarmed Strike, Gorgon's Fist, Medusa's Wrath, base attack bonus +14.",
     "benefit": "As a full-round action, you can make a single unarmed strike against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe. If that attack is a critical hit, the target is petrified unless it succeeds on a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. This is a supernatural polymorph effect.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "You can spend 5 stamina points to make a Cockatrice Strike attack against a foe you are flanking.",
@@ -13,5 +13,9 @@
         "gorgon's fist",
         "improved unarmed strike",
         "medusa's wrath"
-    ]
+    ],
+    "name_zh": "金蛇封穴",
+    "description_zh": "你能够通过一次打击将血肉化为磐石。",
+    "prerequisites_zh": "精通徒手打击，蛇形拳，万蛇出洞，基本攻击加值+16。",
+    "benefit_zh": "以整轮动作，你能够进行单次徒手打击对抗一名晕眩，措手不及，麻痹，恍惚，震慑或者昏迷的敌人。如果此次攻击造成重击，而目标也没有通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免，则会被石化。这是一个超自然的〔变形〕效果。"
 }

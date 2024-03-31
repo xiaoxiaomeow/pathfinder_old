@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Discovery",
     "source": ["Advanced Player's Guide pg. 160"],
     "description": "You have made a new alchemical discovery.",
-    "prerequisites": "Discovery class feature",
+    "prerequisites": "Discovery class feature.",
     "benefit": "You gain one additional discovery. You must meet all of the prerequisites for this discovery.",
-    "special": "You can gain Extra Discovery multiple times."
+    "special": "You can gain Extra Discovery multiple times.",
+    "name_zh": "额外科研发现",
+    "description_zh": "你完成了一种新的炼金科研发现。",
+    "prerequisites_zh": "【科研发现】职业特性。",
+    "benefit_zh": "你获得一个【科研发现】。你必须满足这个科研发现的全部先决条件才能选取。",
+    "special_zh": "你能够多次选择本专长。"
 }

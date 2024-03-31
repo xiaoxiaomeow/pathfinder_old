@@ -5,10 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 120"],
     "description": "You are a master of stage and nonlethal combats. ",
-    "prerequisites": "Weapon Focus, base attack bonus +",
-    "benefit": "When you make an attack with a weapon that you have Weapon Focus in, you take no penalty on the attack roll when you are attempting to make an attack that deals no damage or nonlethal damage.",
+    "prerequisites": "Weapon Focus, base attack bonus +5",
+    "benefit": "When you make an attack with a weapon that you have Weapon Focus in, you take no penalty on the attack roll when you are attempting to make an attack that deals no damage or nonlethal damage. ",
     "normal": "When making attacks that deal no damage or nonlethal damage, you take a –4 penalty on attack rolls.",
     "staminaSource": ["Pathfinder Unchained pg. 132"],
     "staminaText": "If you have at least 1 stamina point in your stamina pool, you gain a +2 bonus on attack rolls with a weapon with which you have Weapon Focus when you attempt to make an attack that deals no damage.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "演武斗士",
+    "description_zh": "你是舞台上非致命战斗的大师。",
+    "prerequisites_zh": "武器专攻，基本攻击加值+5。",
+    "benefit_zh": "当你持用你所拥有“武器专攻”专长的武器时，你用该武器给对方造成非致命伤害或无伤害时不承受减值。<\/p><p>通常状况：当进行造成非致命伤害或无伤害的攻击时，你的攻击检定-4。"
 }

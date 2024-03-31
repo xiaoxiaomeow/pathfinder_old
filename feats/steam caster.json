@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Steam%20Caster",
     "source": ["Advanced Race Guide pg. 178"],
     "description": "You imbue your fire spells with elemental water, transforming them into powerful gouts of steam.",
-    "prerequisites": "Undine",
-    "benefit": "You may increase the casting time of a fire spell to a full-round action, infusing it with elemental power (spells with a casting time of 1 full-round action or longer do not have an increased casting time). The spell is treated as if it had the water descriptor. All fire effects of the altered spell instead manifest as superheated steam. The altered spell works normally underwater without requiring a caster level check. Unlike fire, the steam cannot ignite objects or set creatures on fire. As the spell still deals fire damage, fire resistance or immunity still applies to the spell’s effects."
+    "prerequisites": "Undine.",
+    "benefit": "You may increase the casting time of a fire spell to a full-round action, infusing it with elemental power (spells with a casting time of 1 full-round action or longer do not have an increased casting time). The spell is treated as if it had the water descriptor. All fire effects of the altered spell instead manifest as superheated steam. The altered spell works normally underwater without requiring a caster level check. Unlike fire, the steam cannot ignite objects or set creatures on fire. As the spell still deals fire damage, fire resistance or immunity still applies to the spell’s effects.",
+    "name_zh": "蒸汽术者",
+    "description_zh": "你将元素之水灌入火焰法术之中，使之成为危险的蒸汽团。",
+    "prerequisites_zh": "水元素裔。",
+    "benefit_zh": "你能够将元素之力注入法术中，使你施放的火焰法术的施法时间增加至一个整轮动作（法术的正常施法时间等同于整轮动作或更长则无须增加）。该法术会被视为带有〔水〕描述符。改变后的法术，其所有的火焰效果都替换为滚热的蒸汽。改变后的法术如同正常在水下施法一般运作，但是无须进行施法者等级检定。与火焰不同，蒸汽无法点燃生物或物体。该法术仍旧造成火焰伤害，因此火焰抗力与免疫依旧适用于法术的效果。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 112"],
     "description": "You unleash a rapid series of blows on foes that attempt to attack you when you move.",
-    "prerequisites": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style",
+    "prerequisites": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style.",
     "benefit": "While using Panther Style, you can spend a free action, instead of spending a swift action, to make a retaliatory unarmed strike. You can make a number of retaliatory unarmed strikes on your turn equal to your Wisdom modifier.",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
     "staminaText": "When making a retaliatory strike, you can spend up to 5 stamina points to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
@@ -13,5 +13,9 @@
         "combat reflexes",
         "improved unarmed strike",
         "panther style"
-    ]
+    ],
+    "name_zh": "豹爪",
+    "description_zh": "你在移动中以眼花缭乱之势反击攻向你的敌人。",
+    "prerequisites_zh": "感知15，战斗反射，精通徒手打击，豹形拳。",
+    "benefit_zh": "你处于豹拳流派架势时，你可以用自由动作进行对借机攻击的反击。你在你的行动轮中可以做出等同你感知修正次数的反击。"
 }

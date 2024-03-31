@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Assault",
     "source": ["Ultimate Combat pg. 95"],
     "description": "You have been trained to use magical movement as part of your combat tactics.",
-    "prerequisites": "Ability to use the abundant step class feature or cast <i>dimension door<\/i>, Dimensional Agility",
+    "prerequisites": "Ability to use the abundant step class feature or cast <i>dimension door<\/i>, Dimensional Agility.",
     "benefit": "As a full-round action, you use abundant step or cast <i>dimension door <\/i>as a special charge. Doing so allows you to teleport up to double your current speed (up to the maximum distance allowed by the spell or ability) and to make the attack normally allowed on a charge.",
-    "prerequisiteKeys": ["dimensional agility"]
+    "prerequisiteKeys": ["dimensional agility"],
+    "name_zh": "次元突击",
+    "description_zh": "你受过训练，这让你能将魔法移动作为你武术的一部分。",
+    "prerequisites_zh": "武僧【遁术】职业特性或可施展‘任意门’，次元灵巧",
+    "benefit_zh": "以一个整轮动作，你可以使用【遁术】或‘任意门’做一次特殊的冲锋。这么做可以允许你传送你的双倍当前移动速度（最大为传送最大距离），并允许你随后像正常冲锋一样进行攻击。"
 }

@@ -5,13 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 103"],
     "description": "You can use a whip to make combat maneuvers with ease.",
-    "prerequisites": "Improved Whip Mastery, Weapon Focus (whip), Whip Mastery, base attack bonus +8",
-    "benefit": "You are so quick with your whip that you never drop it due to a failed disarm or trip combat maneuver attempt. Further, you gain the ability to grapple using your whip. To do so, use the normal grapple rules with the following changes. <i>Attack<\/i>: You cannot use your whip to attack while you are using it to grapple an opponent.",
+    "prerequisites": "Improved Whip Mastery, Weapon Focus (whip), Whip Mastery, base attack bonus +8.",
+    "benefit": "You are so quick with your whip that you never drop it due to a failed disarm or trip combat maneuver attempt. Further, you gain the ability to grapple using your whip. To do so, use the normal grapple rules with the following changes. <i>Attack<\/i>: You cannot use your whip to attack while you are using it to grapple an opponent.<br><br> <i>Damage<\/i>: When dealing damage to your grappled opponent, you deal your whip’s weapon damage rather than your unarmed strike damage. <br><br> <i>Free Hands<\/i>: You take no penalty on your combat maneuver check for having fewer than two hands free when you use your whip to grapple.<br><br> <i>Reach<\/i>: Rather than pulling your grappled opponent adjacent to you when you successfully grapple and when you move the grapple, you must keep him within your whip’s reach minus his own reach to maintain the grapple. If the difference in reach is less than 0, such as is the case for a Medium whip wielder and a Gargantuan creature, you cannot grapple that opponent with your whip. If you have to pull a creature adjacent to you to grapple it with your whip, you still provoke an attack of opportunity from that opponent unless you have the Improved Grapple feat.<br><br> <i>Tie Up<\/i>: While adjacent to your opponent, you can attempt to use your whip to tie him up. If you do so to an opponent you have grappled rather than pinned, you take only a –5 penalty on the combat maneuver check rather than the normal –10.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
     "staminaText": "When you initiate a grapple with a whip, you can spend 5 stamina points to attempt a second grapple check as a swift action to either move or damage the creature you are grappling. This is not a check to maintain the grapple.",
     "prerequisiteKeys":     [
         "improved whip mastery",
         "weapon focus",
         "whip mastery"
-    ]
+    ],
+    "name_zh": "高等长鞭熟稔",
+    "description_zh": "你能用长鞭轻易发动战技。",
+    "prerequisites_zh": "精通长鞭熟稔，武器专攻（长鞭），长鞭熟稔，基本攻击加值+8。",
+    "benefit_zh": "你挥舞长鞭如此迅捷，以至于绝不会因卸武或绊摔战技失败而令长鞭脱手。此外你还能以长鞭发动擒抱，这将采用正常的擒抱规则、以及下列调整。<\/p><p>攻击：你不能在以长鞭擒抱一个对手时用它攻击。<\/p><p>伤害：对擒抱对象造成伤害时，采用长鞭的武器伤害、而非你的徒手伤害。<\/p><p>空手：你未能同时空出双手时，不会在以长鞭发动的擒抱检定中承受减值。<\/p><p>触及：当你成功擒抱时，并非要拖着擒抱对象与你邻接，而是和他保持“长鞭触及-对方触及”的距离。若两者差值小于0（譬如当中型长鞭持用者擒抱巨型生物时），你根本无法用长鞭擒抱此对象。若你不得不用长鞭将他拉至身边才能发动擒抱，你的擒抱战技仍将触发对方的借机攻击；除非你拥有“精通擒抱”专长。<\/p><p>捆绑：在与对手邻接时，你能尝试用长鞭将他捆起来。若你对擒抱中（而非压制中）的对手如此做时，只需承受战技检定的-5减值（而非通常的-10）。"
 }

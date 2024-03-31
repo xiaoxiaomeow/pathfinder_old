@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 57"],
     "description": "When striking one opponent, you catch its ally off guard.",
-    "prerequisites": "Str 13, Cleave, Power Attack, base attack bonus +1",
+    "prerequisites": "Str 13, Cleave, Power Attack, base attack bonus +1.",
     "benefit": "When using Cleave or Great Cleave, the second foe you attack on your turn is denied its Dexterity bonus against you.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
     "staminaText": "When you hit a foe that has been denied its Dexterity bonus by this feat, you can spend 2 stamina points to deal an extra 1d6 points of damage. This damage is precision damage and is not multiplied on a critical hit.",
     "prerequisiteKeys":     [
         "cleave",
         "power attack"
-    ]
+    ],
+    "name_zh": "顺势突袭",
+    "description_zh": "当击中一个敌人时，你能抓住其盟友在防守上的空当。",
+    "prerequisites_zh": "力量13，顺势斩，猛力攻击，基本攻击加值+1。",
+    "benefit_zh": "当使用“顺势斩”或“大顺势斩”时，你在你的行动轮攻击的第二个敌人失去对你的敏捷加值。"
 }

@@ -5,7 +5,12 @@
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 314"],
     "description": "One of this creature’s spell-like abilities is particularly potent and powerful.",
-    "prerequisites": "Spell-like ability at caster level 6th or higher",
-    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions below. The creature can use that ability as an empowered spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).",
-    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability."
+    "prerequisites": "Spell-like ability at caster level 6th or higher.",
+    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions below. The creature can use that ability as an empowered spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).<br><br> When a creature uses an empowered spell-like ability, all variable, numeric effects of the spell-like ability are increased by half (+50%). Saving throws and opposed rolls are not affected. Spell-like abilities without random variables are not affected.<br><br> The creature can only select a spell-like ability duplicating a spell with a level less than or equal to 1/2 its caster level (round down) – 2. For a summary, see the table in the description of the Quicken Spell-Like Ability.<br><br><table class=\"inner\"><tr><td>",
+    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability.",
+    "name_zh": "类法术能力强效",
+    "description_zh": "该生物的一种类法术能力极其强而有力。",
+    "prerequisites_zh": "拥有施法者等级6级以上的类法术能力。",
+    "benefit_zh": "选择一个该生物拥有的类法术能力（不过要遵守以下列出的限制）。每天3次，该生物可以如同搭配了“法术强效”超魔般使用此类法术能力（除非该生物每天可以使用该类法术能力的次数低于3次）。每当该生物使用类法术能力强效时，法术效果中的所有可变量值皆增加一半（+50%）。但本专长不影响豁免检定与对抗检定，对没有变量的法术也无影响。该生物必须选择一个法术环级不超过“1/2生物最高CL-2”的类法术能力以搭配此专长。详见表：类法术能力强效与瞬发。",
+    "special_zh": "生物可以多次选择本专长。每次选择此专长时，它的效果将应用在另一个类法术能力上。"
 }

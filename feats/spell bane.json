@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Bane",
     "source": ["Ultimate Combat pg. 120"],
     "description": "While your bane weapon is active, creatures that your bane affects find it more difficult to resist your spells.",
-    "prerequisites": "Bane class feature",
-    "benefit": "While your bane class feature is affecting a creature type, the saving throw’s DCs for your spells increase by +2 for creatures of that type."
+    "prerequisites": "Bane class feature.",
+    "benefit": "While your bane class feature is affecting a creature type, the saving throw’s DCs for your spells increase by +2 for creatures of that type.",
+    "name_zh": "法术破敌",
+    "description_zh": "当你的破敌武器启动时，破敌对象生物更难抵抗你的法术。",
+    "prerequisites_zh": "【破敌】职业特性。",
+    "benefit_zh": "当你的【破敌】职业特性正在对某一类型的生物生效时，该类型生物抵抗你的法术的豁免DC上升2点。"
 }

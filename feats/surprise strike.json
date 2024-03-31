@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 67"],
     "description": "You actually seem to do more damage when frantically trying to avoid your enemies.",
-    "prerequisites": "Cautious Fighter, Desperate Swing, base attack bonus +6, halfling",
+    "prerequisites": "Cautious Fighter, Desperate Swing, base attack bonus +6, halfling.",
     "benefit": "Once per day, when fighting defensively or making an attack of opportunity while taking the total defense action with the Desperate Swing feat, you take no penalty on the attack roll.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
     "staminaText": "After you have used this feat once, you can spend 5 stamina points to use it additional times per day, at a cost of 5 stamina points per use.",
     "prerequisiteKeys":     [
         "cautious fighter",
         "desperate swing"
-    ]
+    ],
+    "name_zh": "意外伤害",
+    "description_zh": "你疯狂地试图避免被打中时对敌人造成了更大的伤害。",
+    "prerequisites_zh": "谨慎战斗，绝望打击，基本攻击加值+6，半身人。",
+    "benefit_zh": "每天1次，当你在进行防御式战斗或借机攻击中使用“绝望打击”专长，你的攻击检定不受到“绝望打击”的额外-4惩罚。"
 }

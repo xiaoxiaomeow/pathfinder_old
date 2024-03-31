@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 110"],
     "description": "You strike through the shadows so quickly that your opponent can barely react to your attacks.",
-    "prerequisites": "Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Bluff 6 ranks, darkvision or low-light vision racial trait",
+    "prerequisites": "Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Bluff 6 ranks, darkvision or low-light vision racial trait.",
     "benefit": "Once per round, against an opponent from whom you have concealment, you can spend a swift action to make a Bluff check to feint.",
     "normal": "Feinting is a standard action.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
@@ -15,5 +15,9 @@
         "combat expertise",
         "improved feint",
         "moonlight stalker"
-    ]
+    ],
+    "name_zh": "月夜虚招",
+    "description_zh": "你的攻击自阴影中而来，对手全然无法反应。",
+    "prerequisites_zh": "智力13，盲斗，寓守于攻，精通虚招，月夜伏击者，唬骗6级，【黑暗视觉】或【昏暗视觉】种族特性。",
+    "benefit_zh": "每轮一次，当你对一个对手获得隐蔽，你可以用迅捷动作对其进行一次虚招。<\/p><p>通常状况：使用虚招是一个标准动作。"
 }

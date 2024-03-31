@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Chilled%20Rock",
     "source": ["Monster Codex pg. 68"],
     "description": "You can transfer the cold of your body to the rocks you throw.",
-    "prerequisites": "Born of Frost, frost giant",
+    "prerequisites": "Born of Frost, frost giant.",
     "benefit": "Any items you throw with your rock throwing ability are chilled by your touch, dealing an additional 1d6 points of cold damage.",
     "prerequisiteKeys": ["born of frost"]
 }

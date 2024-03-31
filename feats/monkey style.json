@@ -8,10 +8,14 @@
     ],
     "source": ["Ultimate Combat pg. 110"],
     "description": "Your unarmed fighting style is nimble and unpredictable, full of ground rolls and short leaps.",
-    "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 5 ranks, Climb 5 ranks",
+    "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 5 ranks, Climb 5 ranks.",
     "benefit": "You add your Wisdom bonus on Acrobatics checks. While using this style, you take no penalty on melee attack rolls or to AC while prone. Further, you can crawl and stand up from lying prone without provoking attacks of opportunity, and you can stand up as a swift action if you succeed at a DC 20 Acrobatics check.",
     "normal": "You take a –4 penalty on attack rolls and AC against melee attacks while prone. Standing up is a move action that provokes attacks of opportunity.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
     "staminaText": "When using this style, you can spend 2 stamina points to stand up as a swift action without having to succeed at a DC 20 Acrobatics check.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "猴拳",
+    "description_zh": "你的徒手攻击灵巧难测，滚地和跃步动作接连不断。",
+    "prerequisites_zh": "感知13，精通徒手击打，特技5级，攀爬5级。",
+    "benefit_zh": "你可以将你的感知修正加到特技检定上。当你使用猴拳流派架势并处于俯卧状态时，你不会在俯卧时受到近战攻击检定和近战AC的罚值，而且你匍匐前进与俯卧状态中站立都不会引发借机攻击。如果你成功通过一个DC为20的特技检定，你可以用一个迅捷动作站起来。<\/p><p>通常状况：你在俯卧时在近战攻击检定与近战AC上受-4罚值。从俯卧状态中站立是一个会引发借机攻击的标准动作。【编注：此处胡说。核心手册说明了从俯卧中站立是一个会引发借机攻击的移动动作。】"
 }

@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Deathblow",
     "source": ["Ultimate Combat pg. 114"],
     "description": "Every killing blow gives you a surge of vitality, further fueling your rage.",
-    "prerequisites": "Greater rage class feature",
-    "benefit": "While raging, whenever your attack reduces an opponent of a CR greater than or equal to your character level to –1 or fewer hit points, you gain 1 extra round of rage for that day. If that attack was a critical hit, you gain 1 additional extra round of rage for that day. Whenever you rest to renew your total number of rounds of rage per day, any extra rounds you still have from this feat are lost."
+    "prerequisites": "Greater rage class feature.",
+    "benefit": "While raging, whenever your attack reduces an opponent of a CR greater than or equal to your character level to –1 or fewer hit points, you gain 1 extra round of rage for that day. If that attack was a critical hit, you gain 1 additional extra round of rage for that day. Whenever you rest to renew your total number of rounds of rage per day, any extra rounds you still have from this feat are lost.",
+    "name_zh": "狂暴杀戮",
+    "description_zh": "你每一次的击杀都会赋予你活力，进一步增强你的狂怒。",
+    "prerequisites_zh": "【大狂暴】职业特性。",
+    "benefit_zh": "狂暴时，每当你将一个CR不低于你的角色等级的敌人的生命值减少到-1或更低，你获得1轮额外每日狂暴时间。如果这次攻击是重击，你会再多获得1轮额外每日狂暴时间。当你进行休息以恢复每日狂暴使用时间时，本专长给予的额外狂暴轮数将会丢失。"
 }

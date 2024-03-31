@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 98"],
     "description": "Even the greatest giants fear your technique.",
-    "prerequisites": "Wis 13, dwarf or gnome, defensive training racial trait, Earth Child Style, Earth Child Topple, Greater Trip, Improved Trip, Improved Unarmed Strike, Stunning Fist, Acrobatics 9 ranks",
+    "prerequisites": "Wis 13, dwarf or gnome, defensive training racial trait, Earth Child Style, Earth Child Topple, Greater Trip, Improved Trip, Improved Unarmed Strike, Stunning Fist, Acrobatics 9 ranks.",
     "benefit": "You can trip a creature of the giant subtype no matter its size. While you are using Earth Child Style, when a prone creature of the giant subtype stands up and provokes an attack of opportunity from you, if you make an unarmed strike, you can declare you are making a Stunning Fist attempt after the attack hits. You gain a +4 bonus to the DC of any Stunning Fist effect you deliver in this way.",
     "normal": "You can only trip opponents who are one size category larger than you.",
     "staminaSource": ["Pathfinder Unchained pg. 118"],
@@ -17,5 +17,9 @@
         "improved trip",
         "improved unarmed strike",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "狡兔搏鹰",
+    "description_zh": "即便最高大的巨人也畏惧你的技巧。",
+    "prerequisites_zh": "感知13，以小搏大，四两拨千斤，精通绊摔，高等绊摔，震慑拳，特技9级。",
+    "benefit_zh": "你可以绊摔任何体型的巨人亚种生物。你处于地堂流派架势时，巨人亚种生物因在俯卧状态中站起而引发你借机攻击时，你可以进行徒手打击，你可以在这次攻击命中后宣告使用震慑拳，这次震慑拳DC+4。<\/p><p>通常状况：你不能摔绊比自己体型大一级以上的生物；你必须在攻击掷骰前宣告使用震慑拳。"
 }

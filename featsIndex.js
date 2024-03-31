@@ -18,6 +18,7 @@ var featDict = {
     "ability focus":     {
         "key": "ability focus",
         "name": "Ability Focus",
+        "name_zh": "能力专攻",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 314"]
     },
@@ -41,6 +42,7 @@ var featDict = {
     "abundant revelations":     {
         "key": "abundant revelations",
         "name": "Abundant Revelations",
+        "name_zh": "丰足启示",
         "source": ["Ultimate Magic pg. 142"]
     },
     "acadamae graduate":     {
@@ -56,6 +58,7 @@ var featDict = {
     "accursed critical":     {
         "key": "accursed critical",
         "name": "Accursed Critical",
+        "name_zh": "诅咒重击",
         "descriptors": ["Critical"],
         "source": ["Ultimate Magic pg. 142"],
         "prerequisiteKeys": ["critical focus"]
@@ -63,6 +66,7 @@ var featDict = {
     "accursed hex":     {
         "key": "accursed hex",
         "name": "Accursed Hex",
+        "name_zh": "诅咒巫术",
         "source": ["Ultimate Magic pg. 143"]
     },
     "accursed":     {
@@ -137,12 +141,14 @@ var featDict = {
     "adaptive fortune":     {
         "key": "adaptive fortune",
         "name": "Adaptive Fortune",
+        "name_zh": "万用强运",
         "source": ["Advanced Race Guide pg. 66"],
         "prerequisiteKeys": ["fortunate one"]
     },
     "adder strike":     {
         "key": "adder strike",
         "name": "Adder Strike",
+        "name_zh": "虺蛇打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 89"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -155,6 +161,7 @@ var featDict = {
     "additional traits":     {
         "key": "additional traits",
         "name": "Additional Traits",
+        "name_zh": "额外背景",
         "source":         [
             "Advanced Player's Guide pg. 150",
             "Second Darkness Player's Guide pg. 12",
@@ -164,6 +171,7 @@ var featDict = {
     "adept champion":     {
         "key": "adept champion",
         "name": "Adept Champion",
+        "name_zh": "巧技勇士",
         "source": ["Ultimate Combat pg. 89"]
     },
     "adept channel":     {
@@ -200,6 +208,7 @@ var featDict = {
     "advanced ranger trap":     {
         "key": "advanced ranger trap",
         "name": "Advanced Ranger Trap",
+        "name_zh": "进阶游侠陷阱",
         "source": ["Ultimate Magic pg. 143"]
     },
     "advanced weapon training":     {
@@ -243,6 +252,7 @@ var featDict = {
     "agile tongue":     {
         "key": "agile tongue",
         "name": "Agile Tongue",
+        "name_zh": "巧舌",
         "source": ["Advanced Race Guide pg. 191"]
     },
     "agonizing obedience":     {
@@ -253,6 +263,7 @@ var featDict = {
     "airy step":     {
         "key": "airy step",
         "name": "Airy Step",
+        "name_zh": "轻灵步",
         "source": ["Advanced Race Guide pg. 159"]
     },
     "al-zabriti-trained horse":     {
@@ -408,6 +419,7 @@ var featDict = {
     "allied spellcaster":     {
         "key": "allied spellcaster",
         "name": "Allied Spellcaster",
+        "name_zh": "团队法师",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Player's Guide pg. 150"]
     },
@@ -443,6 +455,7 @@ var featDict = {
     "amateur gunslinger":     {
         "key": "amateur gunslinger",
         "name": "Amateur Gunslinger",
+        "name_zh": "业余铳士",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 89"]
     },
@@ -555,6 +568,7 @@ var featDict = {
     "angel wings":     {
         "key": "angel wings",
         "name": "Angel Wings",
+        "name_zh": "天使之翼",
         "source": ["Advanced Race Guide pg. 87"],
         "prerequisiteKeys": ["angelic blood"]
     },
@@ -567,11 +581,13 @@ var featDict = {
     "angelic blood":     {
         "key": "angelic blood",
         "name": "Angelic Blood",
+        "name_zh": "天使之血",
         "source": ["Advanced Race Guide pg. 88"]
     },
     "angelic flesh":     {
         "key": "angelic flesh",
         "name": "Angelic Flesh",
+        "name_zh": "天使之躯",
         "source": ["Advanced Race Guide pg. 88"],
         "prerequisiteKeys": ["angelic blood"]
     },
@@ -617,6 +633,7 @@ var featDict = {
     "antagonize":     {
         "key": "antagonize",
         "name": "Antagonize",
+        "name_zh": "嘲讽",
         "source": ["Ultimate Magic pg. 143"]
     },
     "anticipate dodge":     {
@@ -678,6 +695,7 @@ var featDict = {
     "aquatic ancestry":     {
         "key": "aquatic ancestry",
         "name": "Aquatic Ancestry",
+        "name_zh": "水栖世系",
         "source": ["Advanced Race Guide pg. 177"]
     },
     "aquatic combatant":     {
@@ -706,6 +724,7 @@ var featDict = {
     "arc slinger":     {
         "key": "arc slinger",
         "name": "Arc Slinger",
+        "name_zh": "弧线投石",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 89"],
         "prerequisiteKeys": ["point-blank shot"]
@@ -728,6 +747,7 @@ var featDict = {
     "arcane blast":     {
         "key": "arcane blast",
         "name": "Arcane Blast",
+        "name_zh": "奥能爆发",
         "source": ["Advanced Player's Guide pg. 150"]
     },
     "arcane insight":     {
@@ -752,6 +772,7 @@ var featDict = {
     "arcane shield":     {
         "key": "arcane shield",
         "name": "Arcane Shield",
+        "name_zh": "奥能之盾",
         "source": ["Advanced Player's Guide pg. 150"]
     },
     "arcane strike":     {
@@ -764,6 +785,7 @@ var featDict = {
     "arcane talent":     {
         "key": "arcane talent",
         "name": "Arcane Talent",
+        "name_zh": "奥法天赋",
         "source": ["Advanced Player's Guide pg. 151"]
     },
     "arcane trap suppressor":     {
@@ -908,6 +930,7 @@ var featDict = {
     "armor of the pit":     {
         "key": "armor of the pit",
         "name": "Armor of the Pit",
+        "name_zh": "深渊铠甲",
         "source": ["Advanced Race Guide pg. 173"]
     },
     "armor proficiency, heavy":     {
@@ -1011,6 +1034,7 @@ var featDict = {
     "aspect of the beast":     {
         "key": "aspect of the beast",
         "name": "Aspect of the Beast",
+        "name_zh": "化兽态",
         "source": ["Advanced Player's Guide pg. 151"]
     },
     "aspiring noble":     {
@@ -1091,6 +1115,7 @@ var featDict = {
     "attuned to the wild":     {
         "key": "attuned to the wild",
         "name": "Attuned to the Wild",
+        "name_zh": "荒野适应力",
         "source": ["Advanced Race Guide pg. 28"]
     },
     "augment calling":     {
@@ -1171,6 +1196,7 @@ var featDict = {
     "awesome blow":     {
         "key": "awesome blow",
         "name": "Awesome Blow",
+        "name_zh": "可怖殴击",
         "descriptors":         [
             "Combat",
             "Monster"
@@ -1260,6 +1286,7 @@ var featDict = {
     "back to back":     {
         "key": "back to back",
         "name": "Back to Back",
+        "name_zh": "背靠背",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 89"]
     },
@@ -1357,6 +1384,7 @@ var featDict = {
     "bashing finish":     {
         "key": "bashing finish",
         "name": "Bashing Finish",
+        "name_zh": "一击扑杀",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 151"],
         "prerequisiteKeys":         [
@@ -1448,6 +1476,7 @@ var featDict = {
     "beast rider":     {
         "key": "beast rider",
         "name": "Beast Rider",
+        "name_zh": "兽骑兵",
         "source": ["Advanced Race Guide pg. 56"]
     },
     "beast speaker mastery":     {
@@ -1562,6 +1591,7 @@ var featDict = {
     "bestow luck":     {
         "key": "bestow luck",
         "name": "Bestow Luck",
+        "name_zh": "幸运赠礼",
         "source": ["Advanced Race Guide pg. 76"],
         "prerequisiteKeys":         [
             "defiant luck",
@@ -1583,6 +1613,7 @@ var featDict = {
     "betrayer":     {
         "key": "betrayer",
         "name": "Betrayer",
+        "name_zh": "背叛者",
         "source": ["Ultimate Combat pg. 89"],
         "prerequisiteKeys":         [
             "persuasive",
@@ -1614,6 +1645,7 @@ var featDict = {
     "binding throw":     {
         "key": "binding throw",
         "name": "Binding Throw",
+        "name_zh": "阻绊投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"],
         "prerequisiteKeys":         [
@@ -1630,6 +1662,7 @@ var featDict = {
     "black cat":     {
         "key": "black cat",
         "name": "Black Cat",
+        "name_zh": "黑猫",
         "source": ["Advanced Race Guide pg. 93"]
     },
     "black market dealings":     {
@@ -1704,6 +1737,7 @@ var featDict = {
     "blazing aura (arg)":     {
         "key": "blazing aura (arg)",
         "name": "Blazing Aura (ARG)",
+        "name_zh": "炽烈光环",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 130"],
         "prerequisiteKeys":         [
@@ -1785,6 +1819,7 @@ var featDict = {
     "blighted critical mastery":     {
         "key": "blighted critical mastery",
         "name": "Blighted Critical Mastery",
+        "name_zh": "荒芜重击熟稔",
         "descriptors": ["Critical"],
         "source": ["Ultimate Magic pg. 143"],
         "prerequisiteKeys": ["blighted critical"]
@@ -1792,6 +1827,7 @@ var featDict = {
     "blighted critical":     {
         "key": "blighted critical",
         "name": "Blighted Critical",
+        "name_zh": "荒芜重击",
         "descriptors": ["Critical"],
         "source": ["Ultimate Magic pg. 143"]
     },
@@ -1883,6 +1919,7 @@ var featDict = {
     "blistering feint":     {
         "key": "blistering feint",
         "name": "Blistering Feint",
+        "name_zh": "迅烈虚招",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 130"],
         "prerequisiteKeys":         [
@@ -1918,12 +1955,14 @@ var featDict = {
     "blood beak":     {
         "key": "blood beak",
         "name": "Blood Beak",
+        "name_zh": "血喙",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 165"]
     },
     "blood drinker":     {
         "key": "blood drinker",
         "name": "Blood Drinker",
+        "name_zh": "饮血者",
         "source": ["Advanced Race Guide pg. 99"]
     },
     "blood feast":     {
@@ -1935,6 +1974,7 @@ var featDict = {
     "blood feaster":     {
         "key": "blood feaster",
         "name": "Blood Feaster",
+        "name_zh": "宴血者",
         "source": ["Advanced Race Guide pg. 100"],
         "prerequisiteKeys": ["blood drinker"]
     },
@@ -1981,6 +2021,7 @@ var featDict = {
     "blood of heroes":     {
         "key": "blood of heroes",
         "name": "Blood of Heroes",
+        "name_zh": "碧血丹心",
         "descriptors": ["Hero Point"],
         "source": ["Advanced Player's Guide pg. 323"],
         "prerequisiteKeys": ["hero's fortune"]
@@ -1988,6 +2029,7 @@ var featDict = {
     "blood salvage":     {
         "key": "blood salvage",
         "name": "Blood Salvage",
+        "name_zh": "残羹剩血",
         "source": ["Advanced Race Guide pg. 100"],
         "prerequisiteKeys": ["blood drinker"]
     },
@@ -2014,6 +2056,7 @@ var featDict = {
     "blood vengeance":     {
         "key": "blood vengeance",
         "name": "Blood Vengeance",
+        "name_zh": "血腥复仇",
         "source":         [
             "Advanced Race Guide pg. 56",
             "Orcs of Golarion pg. 24"
@@ -2049,6 +2092,7 @@ var featDict = {
     "bloody assault":     {
         "key": "bloody assault",
         "name": "Bloody Assault",
+        "name_zh": "血腥强袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 151"],
         "prerequisiteKeys": ["power attack"]
@@ -2088,12 +2132,14 @@ var featDict = {
     "bludgeoner":     {
         "key": "bludgeoner",
         "name": "Bludgeoner",
+        "name_zh": "钝击士",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"]
     },
     "blundering defense":     {
         "key": "blundering defense",
         "name": "Blundering Defense",
+        "name_zh": "牵制防守",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 66"],
         "prerequisiteKeys": ["cautious fighter"]
@@ -2112,6 +2158,7 @@ var featDict = {
     "boar ferocity":     {
         "key": "boar ferocity",
         "name": "Boar Ferocity",
+        "name_zh": "豭突刺",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"],
         "prerequisiteKeys":         [
@@ -2122,6 +2169,7 @@ var featDict = {
     "boar shred":     {
         "key": "boar shred",
         "name": "Boar Shred",
+        "name_zh": "豭突千裂",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"],
         "prerequisiteKeys":         [
@@ -2133,6 +2181,7 @@ var featDict = {
     "boar style":     {
         "key": "boar style",
         "name": "Boar Style",
+        "name_zh": "豭突势",
         "descriptors":         [
             "Combat",
             "Style"
@@ -2160,6 +2209,7 @@ var featDict = {
     "body shield":     {
         "key": "body shield",
         "name": "Body Shield",
+        "name_zh": "化敌为盾",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"],
         "prerequisiteKeys":         [
@@ -2170,6 +2220,7 @@ var featDict = {
     "bodyguard":     {
         "key": "bodyguard",
         "name": "Bodyguard",
+        "name_zh": "保镖",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 151"],
         "prerequisiteKeys": ["combat reflexes"]
@@ -2192,6 +2243,7 @@ var featDict = {
     "bolstered resilience":     {
         "key": "bolstered resilience",
         "name": "Bolstered Resilience",
+        "name_zh": "鼓励恢复",
         "source": ["Ultimate Combat pg. 90"]
     },
     "bonded mind":     {
@@ -2203,6 +2255,7 @@ var featDict = {
     "bonebreaker":     {
         "key": "bonebreaker",
         "name": "Bonebreaker",
+        "name_zh": "碎骨者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 90"],
         "prerequisiteKeys":         [
@@ -2229,6 +2282,7 @@ var featDict = {
     "born alone":     {
         "key": "born alone",
         "name": "Born Alone",
+        "name_zh": "独生子",
         "source": ["Advanced Race Guide pg. 141"]
     },
     "born of frost":     {
@@ -2245,6 +2299,7 @@ var featDict = {
     "bouncing spell":     {
         "key": "bouncing spell",
         "name": "Bouncing Spell",
+        "name_zh": "弹性法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 151"]
     },
@@ -2294,6 +2349,7 @@ var featDict = {
     "branded for retribution":     {
         "key": "branded for retribution",
         "name": "Branded for Retribution",
+        "name_zh": "惩戒烙印",
         "source": ["Ultimate Combat pg. 90"]
     },
     "brash stride":     {
@@ -2318,11 +2374,13 @@ var featDict = {
     "breadth of experience":     {
         "key": "breadth of experience",
         "name": "Breadth of Experience",
+        "name_zh": "生命历练",
         "source": ["Advanced Player's Guide pg. 151"]
     },
     "break guard":     {
         "key": "break guard",
         "name": "Break Guard",
+        "name_zh": "破除防御",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 91"],
         "prerequisiteKeys":         [
@@ -2358,6 +2416,7 @@ var featDict = {
     "brewmaster":     {
         "key": "brewmaster",
         "name": "Brewmaster",
+        "name_zh": "酿造大师",
         "source": ["Advanced Race Guide pg. 17"]
     },
     "brilliant planner":     {
@@ -2399,6 +2458,7 @@ var featDict = {
     "broken wing gambit":     {
         "key": "broken wing gambit",
         "name": "Broken Wing Gambit",
+        "name_zh": "弃兵断翼",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -2527,6 +2587,7 @@ var featDict = {
     "bull rush strike":     {
         "key": "bull rush strike",
         "name": "Bull Rush Strike",
+        "name_zh": "冲撞重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 151"],
         "prerequisiteKeys":         [
@@ -2603,6 +2664,7 @@ var featDict = {
     "bullying blow":     {
         "key": "bullying blow",
         "name": "Bullying Blow",
+        "name_zh": "威吓猛击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 141"]
     },
@@ -2624,6 +2686,7 @@ var featDict = {
     "burn! burn! burn!":     {
         "key": "burn! burn! burn!",
         "name": "Burn! Burn! Burn!",
+        "name_zh": "烧！烧！烧！",
         "source":         [
             "Advanced Race Guide pg. 118",
             "Goblins of Golarion pg. 24"
@@ -2637,6 +2700,7 @@ var featDict = {
     "burning spell":     {
         "key": "burning spell",
         "name": "Burning Spell",
+        "name_zh": "燃烧法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 143"]
     },
@@ -2650,6 +2714,7 @@ var featDict = {
     "burrowing teeth":     {
         "key": "burrowing teeth",
         "name": "Burrowing Teeth",
+        "name_zh": "掘地利齿",
         "source": ["Advanced Race Guide pg. 154"],
         "prerequisiteKeys":         [
             "sharpclaw",
@@ -2764,6 +2829,7 @@ var featDict = {
     "carrion feeder":     {
         "key": "carrion feeder",
         "name": "Carrion Feeder",
+        "name_zh": "食腐鸟",
         "source": ["Advanced Race Guide pg. 165"]
     },
     "cartogramancer":     {
@@ -2774,6 +2840,7 @@ var featDict = {
     "cartwheel dodge":     {
         "key": "cartwheel dodge",
         "name": "Cartwheel Dodge",
+        "name_zh": "侧翻回避",
         "source": ["Ultimate Combat pg. 91"]
     },
     "caster's champion":     {
@@ -2805,6 +2872,7 @@ var featDict = {
     "casual illusionist":     {
         "key": "casual illusionist",
         "name": "Casual Illusionist",
+        "name_zh": "随手幻术师",
         "source": ["Advanced Race Guide pg. 37"]
     },
     "cat and mouse":     {
@@ -2834,6 +2902,7 @@ var featDict = {
     "catfolk exemplar":     {
         "key": "catfolk exemplar",
         "name": "Catfolk Exemplar",
+        "name_zh": "猫族典范",
         "source": ["Advanced Race Guide pg. 96"]
     },
     "caustic slur":     {
@@ -2844,12 +2913,14 @@ var featDict = {
     "cautious fighter":     {
         "key": "cautious fighter",
         "name": "Cautious Fighter",
+        "name_zh": "谨慎战斗",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 66"]
     },
     "cavalry formation":     {
         "key": "cavalry formation",
         "name": "Cavalry Formation",
+        "name_zh": "骑兵阵列",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -2875,6 +2946,7 @@ var featDict = {
     "celestial servant":     {
         "key": "celestial servant",
         "name": "Celestial Servant",
+        "name_zh": "天界仆从",
         "source": ["Advanced Race Guide pg. 88"]
     },
     "censoring critical":     {
@@ -3074,6 +3146,7 @@ var featDict = {
     "channel force":     {
         "key": "channel force",
         "name": "Channel Force",
+        "name_zh": "原力导能",
         "source": ["Advanced Race Guide pg. 88"]
     },
     "channel hate":     {
@@ -3117,11 +3190,13 @@ var featDict = {
     "channeled revival":     {
         "key": "channeled revival",
         "name": "Channeled Revival",
+        "name_zh": "重生导能",
         "source": ["Ultimate Combat pg. 92"]
     },
     "channeled shield wall":     {
         "key": "channeled shield wall",
         "name": "Channeled Shield Wall",
+        "name_zh": "导能盾墙",
         "source": ["Ultimate Magic pg. 143"]
     },
     "channeling force":     {
@@ -3133,6 +3208,7 @@ var featDict = {
     "channeling scourge":     {
         "key": "channeling scourge",
         "name": "Channeling Scourge",
+        "name_zh": "惩责导能",
         "source": ["Ultimate Combat pg. 92"]
     },
     "channeling variance":     {
@@ -3158,6 +3234,7 @@ var featDict = {
     "charge through":     {
         "key": "charge through",
         "name": "Charge Through",
+        "name_zh": "闯越冲锋",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 156"],
         "prerequisiteKeys":         [
@@ -3168,6 +3245,7 @@ var featDict = {
     "charging hurler":     {
         "key": "charging hurler",
         "name": "Charging Hurler",
+        "name_zh": "冲锋投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
         "prerequisiteKeys": ["point-blank shot"]
@@ -3216,6 +3294,7 @@ var featDict = {
     "childlike":     {
         "key": "childlike",
         "name": "Childlike",
+        "name_zh": "童颜",
         "source": ["Advanced Player's Guide pg. 156"]
     },
     "chilled rock":     {
@@ -3252,6 +3331,7 @@ var featDict = {
     "chokehold":     {
         "key": "chokehold",
         "name": "Chokehold",
+        "name_zh": "锁喉",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
         "prerequisiteKeys":         [
@@ -3355,6 +3435,7 @@ var featDict = {
     "claw pounce":     {
         "key": "claw pounce",
         "name": "Claw Pounce",
+        "name_zh": "爪袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 94"],
         "prerequisiteKeys":         [
@@ -3380,6 +3461,7 @@ var featDict = {
     "cleave through":     {
         "key": "cleave through",
         "name": "Cleave Through",
+        "name_zh": "快步顺势斩",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -3398,6 +3480,7 @@ var featDict = {
     "cleaving finish":     {
         "key": "cleaving finish",
         "name": "Cleaving Finish",
+        "name_zh": "终势斩",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
         "prerequisiteKeys":         [
@@ -3496,6 +3579,7 @@ var featDict = {
     "close-quarters thrower":     {
         "key": "close-quarters thrower",
         "name": "Close-Quarters Thrower",
+        "name_zh": "近身投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
         "prerequisiteKeys": ["dodge"]
@@ -3503,6 +3587,7 @@ var featDict = {
     "cloud gazer":     {
         "key": "cloud gazer",
         "name": "Cloud Gazer",
+        "name_zh": "窥云者",
         "source": ["Advanced Race Guide pg. 159"]
     },
     "cloud invocation":     {
@@ -3513,12 +3598,14 @@ var featDict = {
     "cloud step":     {
         "key": "cloud step",
         "name": "Cloud Step",
+        "name_zh": "梯云纵",
         "source": ["Advanced Player's Guide pg. 156"],
         "prerequisiteKeys": ["spider step"]
     },
     "cloven helm":     {
         "key": "cloven helm",
         "name": "Cloven Helm",
+        "name_zh": "爆盔护体",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -3529,6 +3616,7 @@ var featDict = {
     "clustered shots":     {
         "key": "clustered shots",
         "name": "Clustered Shots",
+        "name_zh": "集束射击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
         "prerequisiteKeys":         [
@@ -3546,6 +3634,7 @@ var featDict = {
     "cockatrice strike":     {
         "key": "cockatrice strike",
         "name": "Cockatrice Strike",
+        "name_zh": "金蛇封穴",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 156"],
         "prerequisiteKeys":         [
@@ -3605,6 +3694,7 @@ var featDict = {
     "combat medic":     {
         "key": "combat medic",
         "name": "Combat Medic",
+        "name_zh": "战场医护兵",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 91"]
     },
@@ -3621,6 +3711,7 @@ var featDict = {
     "combat patrol":     {
         "key": "combat patrol",
         "name": "Combat Patrol",
+        "name_zh": "战斗戒备",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 156"],
         "prerequisiteKeys":         [
@@ -3653,6 +3744,7 @@ var featDict = {
     "combat style master":     {
         "key": "combat style master",
         "name": "Combat Style Master",
+        "name_zh": "流派大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 93"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -3759,6 +3851,7 @@ var featDict = {
     "concussive spell":     {
         "key": "concussive spell",
         "name": "Concussive Spell",
+        "name_zh": "震荡法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 143"]
     },
@@ -3842,6 +3935,7 @@ var featDict = {
     "contingent channeling":     {
         "key": "contingent channeling",
         "name": "Contingent Channeling",
+        "name_zh": "触发导能",
         "source": ["Ultimate Combat pg. 93"],
         "prerequisiteKeys": ["selective channeling"]
     },
@@ -3890,6 +3984,7 @@ var featDict = {
     "cooperative crafting":     {
         "key": "cooperative crafting",
         "name": "Cooperative Crafting",
+        "name_zh": "工艺协作",
         "source": ["Advanced Player's Guide pg. 156"]
     },
     "cooperative disabling":     {
@@ -3931,6 +4026,7 @@ var featDict = {
     "coordinated charge":     {
         "key": "coordinated charge",
         "name": "Coordinated Charge",
+        "name_zh": "协同冲锋",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -3940,6 +4036,7 @@ var featDict = {
     "coordinated defense":     {
         "key": "coordinated defense",
         "name": "Coordinated Defense",
+        "name_zh": "协调防御",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -3958,6 +4055,7 @@ var featDict = {
     "coordinated maneuvers":     {
         "key": "coordinated maneuvers",
         "name": "Coordinated Maneuvers",
+        "name_zh": "协调战技",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -4035,6 +4133,7 @@ var featDict = {
     "cosmopolitan":     {
         "key": "cosmopolitan",
         "name": "Cosmopolitan",
+        "name_zh": "四海为家",
         "source":         [
             "Advanced Player's Guide pg. 156",
             "Pathfinder Campaign Setting pg. 86"
@@ -4095,6 +4194,7 @@ var featDict = {
     "courageous resolve":     {
         "key": "courageous resolve",
         "name": "Courageous Resolve",
+        "name_zh": "勇敢的心",
         "source": ["Advanced Race Guide pg. 66"]
     },
     "coven caster":     {
@@ -4115,6 +4215,7 @@ var featDict = {
     "covering defense":     {
         "key": "covering defense",
         "name": "Covering Defense",
+        "name_zh": "掩护",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 156"],
         "prerequisiteKeys": ["shield focus"]
@@ -4164,6 +4265,7 @@ var featDict = {
     "craft construct":     {
         "key": "craft construct",
         "name": "Craft Construct",
+        "name_zh": "制造构装体",
         "descriptors": ["Item Creation"],
         "source": ["Pathfinder RPG Bestiary pg. 314"],
         "prerequisiteKeys":         [
@@ -4270,6 +4372,7 @@ var featDict = {
     "crane riposte":     {
         "key": "crane riposte",
         "name": "Crane Riposte",
+        "name_zh": "白鹤弹腿",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 93"],
         "prerequisiteKeys":         [
@@ -4282,6 +4385,7 @@ var featDict = {
     "crane style":     {
         "key": "crane style",
         "name": "Crane Style",
+        "name_zh": "白鹤拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -4295,6 +4399,7 @@ var featDict = {
     "crane wing":     {
         "key": "crane wing",
         "name": "Crane Wing",
+        "name_zh": "白鹤亮翅",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 93"],
         "prerequisiteKeys":         [
@@ -4373,12 +4478,14 @@ var featDict = {
     "create reliquary arms and shields":     {
         "key": "create reliquary arms and shields",
         "name": "Create Reliquary Arms and Shields",
+        "name_zh": "制造圣遗物",
         "source": ["Ultimate Magic pg. 148"],
         "prerequisiteKeys": ["craft magic arms and armor"]
     },
     "create sanguine elixir":     {
         "key": "create sanguine elixir",
         "name": "Create Sanguine Elixir",
+        "name_zh": "制造血统药剂",
         "source": ["Ultimate Magic pg. 148"],
         "prerequisiteKeys": ["brew potion"]
     },
@@ -4412,6 +4519,7 @@ var featDict = {
     "crippling critical":     {
         "key": "crippling critical",
         "name": "Crippling Critical",
+        "name_zh": "致跛重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -4460,12 +4568,14 @@ var featDict = {
     "critical versatility":     {
         "key": "critical versatility",
         "name": "Critical Versatility",
+        "name_zh": "灵活重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 76"]
     },
     "crossbow mastery":     {
         "key": "crossbow mastery",
         "name": "Crossbow Mastery",
+        "name_zh": "十字弓熟稔",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Player's Guide pg. 157",
@@ -4504,6 +4614,7 @@ var featDict = {
     "crusader's fist":     {
         "key": "crusader's fist",
         "name": "Crusader's Fist",
+        "name_zh": "圣战之拳",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 94"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -4511,11 +4622,13 @@ var featDict = {
     "crusader's flurry":     {
         "key": "crusader's flurry",
         "name": "Crusader's Flurry",
+        "name_zh": "圣战连击",
         "source": ["Ultimate Combat pg. 94"]
     },
     "crushing blow":     {
         "key": "crushing blow",
         "name": "Crushing Blow",
+        "name_zh": "怒涛碎击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 94"],
         "prerequisiteKeys":         [
@@ -4791,6 +4904,7 @@ var featDict = {
     "dark sight":     {
         "key": "dark sight",
         "name": "Dark Sight",
+        "name_zh": "黑暗视域",
         "source": ["Advanced Race Guide pg. 111"],
         "prerequisiteKeys": ["gloom sight"]
     },
@@ -4824,6 +4938,7 @@ var featDict = {
     "dastardly finish":     {
         "key": "dastardly finish",
         "name": "Dastardly Finish",
+        "name_zh": "慈悯终结",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 157"]
     },
@@ -4844,6 +4959,7 @@ var featDict = {
     "dauntless destiny":     {
         "key": "dauntless destiny",
         "name": "Dauntless Destiny",
+        "name_zh": "无惧者皆天佑",
         "source": ["Advanced Race Guide pg. 77"],
         "prerequisiteKeys": ["fearless curiosity"]
     },
@@ -4855,6 +4971,7 @@ var featDict = {
     "dazing assault":     {
         "key": "dazing assault",
         "name": "Dazing Assault",
+        "name_zh": "晕眩强袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 157"],
         "prerequisiteKeys": ["power attack"]
@@ -4869,6 +4986,7 @@ var featDict = {
     "dazing spell":     {
         "key": "dazing spell",
         "name": "Dazing Spell",
+        "name_zh": "晕眩法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 157"]
     },
@@ -4933,6 +5051,7 @@ var featDict = {
     "deadly finish":     {
         "key": "deadly finish",
         "name": "Deadly Finish",
+        "name_zh": "致命终结",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 94"]
     },
@@ -4995,6 +5114,7 @@ var featDict = {
     "deafening explosion":     {
         "key": "deafening explosion",
         "name": "Deafening Explosion",
+        "name_zh": "炸弹轰鸣",
         "source": ["Advanced Race Guide pg. 124"]
     },
     "death field":     {
@@ -5006,6 +5126,7 @@ var featDict = {
     "death from above":     {
         "key": "death from above",
         "name": "Death from Above",
+        "name_zh": "殃云天降",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 94"]
     },
@@ -5018,6 +5139,7 @@ var featDict = {
     "death or glory":     {
         "key": "death or glory",
         "name": "Death or Glory",
+        "name_zh": "死而后生",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 94"],
         "prerequisiteKeys": ["power attack"]
@@ -5043,6 +5165,7 @@ var featDict = {
     "deathless initiate":     {
         "key": "deathless initiate",
         "name": "Deathless Initiate",
+        "name_zh": "亡命尖兵",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys":         [
@@ -5053,6 +5176,7 @@ var featDict = {
     "deathless master":     {
         "key": "deathless master",
         "name": "Deathless Master",
+        "name_zh": "亡命勇士",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys":         [
@@ -5065,6 +5189,7 @@ var featDict = {
     "deathless zealot":     {
         "key": "deathless zealot",
         "name": "Deathless Zealot",
+        "name_zh": "亡命狂徒",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys":         [
@@ -5091,6 +5216,7 @@ var featDict = {
     "deceptive exchange":     {
         "key": "deceptive exchange",
         "name": "Deceptive Exchange",
+        "name_zh": "欺诈交换",
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys":         [
             "combat expertise",
@@ -5129,6 +5255,7 @@ var featDict = {
     "deep drinker":     {
         "key": "deep drinker",
         "name": "Deep Drinker",
+        "name_zh": "豪饮",
         "source": ["Advanced Player's Guide pg. 157"]
     },
     "deep toxin":     {
@@ -5140,6 +5267,7 @@ var featDict = {
     "deepsight":     {
         "key": "deepsight",
         "name": "Deepsight",
+        "name_zh": "增强视觉",
         "source": ["Advanced Player's Guide pg. 157"]
     },
     "defended movement":     {
@@ -5155,6 +5283,7 @@ var featDict = {
     "defending eidolon":     {
         "key": "defending eidolon",
         "name": "Defending Eidolon",
+        "name_zh": "幻灵守护",
         "source": ["Ultimate Magic pg. 148"]
     },
     "defensive combat training":     {
@@ -5167,12 +5296,14 @@ var featDict = {
     "defensive weapon training":     {
         "key": "defensive weapon training",
         "name": "Defensive Weapon Training",
+        "name_zh": "防御式武器训练",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 95"]
     },
     "defiant luck":     {
         "key": "defiant luck",
         "name": "Defiant Luck",
+        "name_zh": "挑战机运",
         "source": ["Advanced Race Guide pg. 77"]
     },
     "deflect arrows":     {
@@ -5198,6 +5329,7 @@ var featDict = {
     "deft shootist":     {
         "key": "deft shootist",
         "name": "Deft Shootist",
+        "name_zh": "熟练射手",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys":         [
@@ -5318,6 +5450,7 @@ var featDict = {
     "demoralizing lash":     {
         "key": "demoralizing lash",
         "name": "Demoralizing Lash",
+        "name_zh": "挫志鞭笞",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 124"]
     },
@@ -5333,6 +5466,7 @@ var featDict = {
     "dented helm":     {
         "key": "dented helm",
         "name": "Dented Helm",
+        "name_zh": "裂盔护体",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys": ["hard-headed"]
@@ -5340,6 +5474,7 @@ var featDict = {
     "deny death":     {
         "key": "deny death",
         "name": "Deny Death",
+        "name_zh": "抗拒死亡",
         "source": ["Ultimate Magic pg. 148"],
         "prerequisiteKeys": ["endurance"]
     },
@@ -5392,6 +5527,7 @@ var featDict = {
     "desperate swing":     {
         "key": "desperate swing",
         "name": "Desperate Swing",
+        "name_zh": "绝望打击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 66"],
         "prerequisiteKeys": ["cautious fighter"]
@@ -5412,6 +5548,7 @@ var featDict = {
     "destroyer's blessing":     {
         "key": "destroyer's blessing",
         "name": "Destroyer's Blessing",
+        "name_zh": "破坏者之祝福",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Race Guide pg. 56",
@@ -5421,6 +5558,7 @@ var featDict = {
     "destructive dispel":     {
         "key": "destructive dispel",
         "name": "Destructive Dispel",
+        "name_zh": "暴力解法",
         "source": ["Ultimate Combat pg. 95"]
     },
     "destructive persuasion":     {
@@ -5433,6 +5571,7 @@ var featDict = {
     "detect expertise":     {
         "key": "detect expertise",
         "name": "Detect Expertise",
+        "name_zh": "侦测专精",
         "source": ["Ultimate Magic pg. 148"]
     },
     "devastating assault":     {
@@ -5444,6 +5583,7 @@ var featDict = {
     "devastating strike":     {
         "key": "devastating strike",
         "name": "Devastating Strike",
+        "name_zh": "毁灭打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys": ["vital strike"]
@@ -5521,6 +5661,7 @@ var featDict = {
     "die for your master":     {
         "key": "die for your master",
         "name": "Die for Your Master",
+        "name_zh": "丢卒保帅",
         "source": ["Ultimate Magic pg. 148"]
     },
     "diehard":     {
@@ -5544,11 +5685,13 @@ var featDict = {
     "dimensional agility":     {
         "key": "dimensional agility",
         "name": "Dimensional Agility",
+        "name_zh": "次元灵巧",
         "source": ["Ultimate Combat pg. 95"]
     },
     "dimensional assault":     {
         "key": "dimensional assault",
         "name": "Dimensional Assault",
+        "name_zh": "次元突击",
         "source": ["Ultimate Combat pg. 95"],
         "prerequisiteKeys": ["dimensional agility"]
     },
@@ -5567,6 +5710,7 @@ var featDict = {
     "dimensional dervish":     {
         "key": "dimensional dervish",
         "name": "Dimensional Dervish",
+        "name_zh": "次元狂舞",
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
             "dimensional agility",
@@ -5589,6 +5733,7 @@ var featDict = {
     "dimensional maneuvers":     {
         "key": "dimensional maneuvers",
         "name": "Dimensional Maneuvers",
+        "name_zh": "次元战技",
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
             "dimensional agility",
@@ -5599,6 +5744,7 @@ var featDict = {
     "dimensional savant":     {
         "key": "dimensional savant",
         "name": "Dimensional Savant",
+        "name_zh": "次元乱舞",
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
             "dimensional agility",
@@ -5708,6 +5854,7 @@ var featDict = {
     "disarming strike":     {
         "key": "disarming strike",
         "name": "Disarming Strike",
+        "name_zh": "卸武重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 157"],
         "prerequisiteKeys":         [
@@ -5731,6 +5878,7 @@ var featDict = {
     "discerning eye":     {
         "key": "discerning eye",
         "name": "Discerning Eye",
+        "name_zh": "洞察之眼",
         "source": ["Advanced Race Guide pg. 46"]
     },
     "disciple of the sword":     {
@@ -5761,11 +5909,13 @@ var featDict = {
     "discordant voice":     {
         "key": "discordant voice",
         "name": "Discordant Voice",
+        "name_zh": "不谐之音",
         "source": ["Ultimate Combat pg. 96"]
     },
     "disengaging feint":     {
         "key": "disengaging feint",
         "name": "Disengaging Feint",
+        "name_zh": "虚招脱离",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
@@ -5776,6 +5926,7 @@ var featDict = {
     "disengaging flourish":     {
         "key": "disengaging flourish",
         "name": "Disengaging Flourish",
+        "name_zh": "逃之夭夭",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
@@ -5787,6 +5938,7 @@ var featDict = {
     "disengaging shot":     {
         "key": "disengaging shot",
         "name": "Disengaging Shot",
+        "name_zh": "回马枪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys":         [
@@ -5822,6 +5974,7 @@ var featDict = {
     "disorienting maneuver":     {
         "key": "disorienting maneuver",
         "name": "Disorienting Maneuver",
+        "name_zh": "迷惑技巧",
         "source": ["Ultimate Combat pg. 96"],
         "prerequisiteKeys": ["dodge"]
     },
@@ -5839,6 +5992,7 @@ var featDict = {
     "dispel synergy":     {
         "key": "dispel synergy",
         "name": "Dispel Synergy",
+        "name_zh": "协同解法",
         "source": ["Ultimate Combat pg. 96"]
     },
     "dispelling blood":     {
@@ -5849,6 +6003,7 @@ var featDict = {
     "dispelling critical":     {
         "key": "dispelling critical",
         "name": "Dispelling Critical",
+        "name_zh": "驱魔重击",
         "descriptors": ["Critical"],
         "source": ["Ultimate Combat pg. 97"],
         "prerequisiteKeys": ["arcane strike"]
@@ -5856,12 +6011,14 @@ var featDict = {
     "dispelling fist":     {
         "key": "dispelling fist",
         "name": "Dispelling Fist",
+        "name_zh": "解法拳",
         "source": ["Ultimate Combat pg. 97"],
         "prerequisiteKeys": ["improved unarmed strike"]
     },
     "disposable weapon":     {
         "key": "disposable weapon",
         "name": "Disposable Weapon",
+        "name_zh": "一次性武器",
         "source": ["Ultimate Combat pg. 97"]
     },
     "disrupting fist":     {
@@ -5877,6 +6034,7 @@ var featDict = {
     "disrupting shot":     {
         "key": "disrupting shot",
         "name": "Disrupting Shot",
+        "name_zh": "扰乱射击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 157"],
         "prerequisiteKeys": ["point-blank shot"]
@@ -5890,6 +6048,7 @@ var featDict = {
     "disruptive recall":     {
         "key": "disruptive recall",
         "name": "Disruptive Recall",
+        "name_zh": "扰法唤回",
         "source": ["Ultimate Combat pg. 97"]
     },
     "disruptive spell-like ability":     {
@@ -5901,6 +6060,7 @@ var featDict = {
     "disruptive spell":     {
         "key": "disruptive spell",
         "name": "Disruptive Spell",
+        "name_zh": "扰咒法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 157"]
     },
@@ -5914,6 +6074,7 @@ var featDict = {
     "distance thrower":     {
         "key": "distance thrower",
         "name": "Distance Thrower",
+        "name_zh": "长距投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 97"]
     },
@@ -5991,6 +6152,7 @@ var featDict = {
     "diverse palate":     {
         "key": "diverse palate",
         "name": "Diverse Palate",
+        "name_zh": "新口味",
         "source": ["Advanced Race Guide pg. 100"],
         "prerequisiteKeys": ["blood drinker"]
     },
@@ -6071,6 +6233,7 @@ var featDict = {
     "divine interference":     {
         "key": "divine interference",
         "name": "Divine Interference",
+        "name_zh": "神圣干涉",
         "source": ["Ultimate Magic pg. 149"]
     },
     "divine protection":     {
@@ -6081,12 +6244,14 @@ var featDict = {
     "diviner's delving":     {
         "key": "diviner's delving",
         "name": "Diviner's Delving",
+        "name_zh": "揭示预言",
         "source": ["Advanced Player's Guide pg. 158"],
         "prerequisiteKeys": ["spell focus"]
     },
     "djinni spin":     {
         "key": "djinni spin",
         "name": "Djinni Spin",
+        "name_zh": "暴雷击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 97"],
         "prerequisiteKeys":         [
@@ -6099,6 +6264,7 @@ var featDict = {
     "djinni spirit":     {
         "key": "djinni spirit",
         "name": "Djinni Spirit",
+        "name_zh": "雷魂",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 97"],
         "prerequisiteKeys":         [
@@ -6110,6 +6276,7 @@ var featDict = {
     "djinni style":     {
         "key": "djinni style",
         "name": "Djinni Style",
+        "name_zh": "雷灵",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6176,6 +6343,7 @@ var featDict = {
     "domain strike":     {
         "key": "domain strike",
         "name": "Domain Strike",
+        "name_zh": "领域打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -6204,6 +6372,7 @@ var featDict = {
     "double bane":     {
         "key": "double bane",
         "name": "Double Bane",
+        "name_zh": "双武破敌",
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys": ["two-weapon fighting"]
     },
@@ -6223,11 +6392,13 @@ var featDict = {
     "draconic aspect":     {
         "key": "draconic aspect",
         "name": "Draconic Aspect",
+        "name_zh": "龙之相",
         "source": ["Advanced Race Guide pg. 136"]
     },
     "draconic breath":     {
         "key": "draconic breath",
         "name": "Draconic Breath",
+        "name_zh": "龙之息",
         "source": ["Advanced Race Guide pg. 136"],
         "prerequisiteKeys": ["draconic aspect"]
     },
@@ -6240,6 +6411,7 @@ var featDict = {
     "draconic glide":     {
         "key": "draconic glide",
         "name": "Draconic Glide",
+        "name_zh": "龙之滑翔",
         "source": ["Advanced Race Guide pg. 136"],
         "prerequisiteKeys": ["draconic aspect"]
     },
@@ -6262,6 +6434,7 @@ var featDict = {
     "draconic paragon":     {
         "key": "draconic paragon",
         "name": "Draconic Paragon",
+        "name_zh": "龙之典范",
         "source": ["Advanced Race Guide pg. 137"],
         "prerequisiteKeys":         [
             "draconic aspect",
@@ -6272,6 +6445,7 @@ var featDict = {
     "drag down":     {
         "key": "drag down",
         "name": "Drag Down",
+        "name_zh": "拽倒",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys":         [
@@ -6287,6 +6461,7 @@ var featDict = {
     "dragon ferocity":     {
         "key": "dragon ferocity",
         "name": "Dragon Ferocity",
+        "name_zh": "龙威",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys":         [
@@ -6303,6 +6478,7 @@ var featDict = {
     "dragon roar":     {
         "key": "dragon roar",
         "name": "Dragon Roar",
+        "name_zh": "龙吼",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys":         [
@@ -6323,6 +6499,7 @@ var featDict = {
     "dragon style":     {
         "key": "dragon style",
         "name": "Dragon Style",
+        "name_zh": "龙形拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6339,6 +6516,7 @@ var featDict = {
     "dragonbane aura":     {
         "key": "dragonbane aura",
         "name": "Dragonbane Aura",
+        "name_zh": "屠龙灵光",
         "source": ["Ultimate Magic pg. 149"]
     },
     "dragoncrafting":     {
@@ -6398,6 +6576,7 @@ var featDict = {
     "dramatic display":     {
         "key": "dramatic display",
         "name": "Dramatic Display",
+        "name_zh": "精彩武技",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -6421,6 +6600,7 @@ var featDict = {
     "dreadful carnage":     {
         "key": "dreadful carnage",
         "name": "Dreadful Carnage",
+        "name_zh": "惧栗屠杀",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 158"],
         "prerequisiteKeys":         [
@@ -6451,6 +6631,7 @@ var featDict = {
     "drow nobility":     {
         "key": "drow nobility",
         "name": "Drow Nobility",
+        "name_zh": "卓尔贵族",
         "source": ["Advanced Race Guide pg. 105"]
     },
     "drow spirit":     {
@@ -6508,6 +6689,7 @@ var featDict = {
     "duck and cover":     {
         "key": "duck and cover",
         "name": "Duck and Cover",
+        "name_zh": "庇护",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Player's Guide pg. 158"]
     },
@@ -6554,6 +6736,7 @@ var featDict = {
     "dwarf blooded":     {
         "key": "dwarf blooded",
         "name": "Dwarf Blooded",
+        "name_zh": "矮人血脉",
         "source": ["Advanced Race Guide pg. 147"]
     },
     "dwarven fury":     {
@@ -6591,6 +6774,7 @@ var featDict = {
     "eagle eyes":     {
         "key": "eagle eyes",
         "name": "Eagle Eyes",
+        "name_zh": "鹰眼",
         "source": ["Advanced Player's Guide pg. 158"]
     },
     "eagle knight candidate":     {
@@ -6616,6 +6800,7 @@ var featDict = {
     "earth child binder":     {
         "key": "earth child binder",
         "name": "Earth Child Binder",
+        "name_zh": "狡兔搏鹰",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 98"],
         "prerequisiteKeys":         [
@@ -6630,6 +6815,7 @@ var featDict = {
     "earth child style":     {
         "key": "earth child style",
         "name": "Earth Child Style",
+        "name_zh": "以小搏大",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6640,6 +6826,7 @@ var featDict = {
     "earth child topple":     {
         "key": "earth child topple",
         "name": "Earth Child Topple",
+        "name_zh": "四两拨千斤",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 99"],
         "prerequisiteKeys":         [
@@ -6664,6 +6851,7 @@ var featDict = {
     "echoes of stone":     {
         "key": "echoes of stone",
         "name": "Echoes of Stone",
+        "name_zh": "石之共鸣",
         "source": ["Advanced Race Guide pg. 147"]
     },
     "echoes of the first world":     {
@@ -6675,12 +6863,14 @@ var featDict = {
     "echoing spell":     {
         "key": "echoing spell",
         "name": "Echoing Spell",
+        "name_zh": "回音法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 149"]
     },
     "eclectic":     {
         "key": "eclectic",
         "name": "Eclectic",
+        "name_zh": "兼容并蓄",
         "source": ["Advanced Player's Guide pg. 158"]
     },
     "eclipse strike":     {
@@ -6698,6 +6888,7 @@ var featDict = {
     "ectoplasmic spell":     {
         "key": "ectoplasmic spell",
         "name": "Ectoplasmic Spell",
+        "name_zh": "跨界法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 158"]
     },
@@ -6729,6 +6920,7 @@ var featDict = {
     "efreeti stance":     {
         "key": "efreeti stance",
         "name": "Efreeti Stance",
+        "name_zh": "炎宿",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 99"],
         "prerequisiteKeys":         [
@@ -6740,6 +6932,7 @@ var featDict = {
     "efreeti style":     {
         "key": "efreeti style",
         "name": "Efreeti Style",
+        "name_zh": "炎灵",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6753,6 +6946,7 @@ var featDict = {
     "efreeti touch":     {
         "key": "efreeti touch",
         "name": "Efreeti Touch",
+        "name_zh": "炎触",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 100"],
         "prerequisiteKeys":         [
@@ -6785,12 +6979,14 @@ var featDict = {
     "eldritch claws":     {
         "key": "eldritch claws",
         "name": "Eldritch Claws",
+        "name_zh": "奥秘之爪",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 158"]
     },
     "eldritch heritage":     {
         "key": "eldritch heritage",
         "name": "Eldritch Heritage",
+        "name_zh": "悠远血脉",
         "source": ["Ultimate Magic pg. 149"]
     },
     "eldritch researcher":     {
@@ -6867,6 +7063,7 @@ var featDict = {
     "elemental fist":     {
         "key": "elemental fist",
         "name": "Elemental Fist",
+        "name_zh": "元素之拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 158"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -6874,11 +7071,13 @@ var featDict = {
     "elemental focus":     {
         "key": "elemental focus",
         "name": "Elemental Focus",
+        "name_zh": "元素专攻",
         "source": ["Advanced Player's Guide pg. 158"]
     },
     "elemental jaunt":     {
         "key": "elemental jaunt",
         "name": "Elemental Jaunt",
+        "name_zh": "元素旅行",
         "source": ["Advanced Race Guide pg. 130"]
     },
     "elemental ki":     {
@@ -6899,6 +7098,7 @@ var featDict = {
     "elemental spell":     {
         "key": "elemental spell",
         "name": "Elemental Spell",
+        "name_zh": "元素法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 158"]
     },
@@ -6936,6 +7136,7 @@ var featDict = {
     "elusive redirection":     {
         "key": "elusive redirection",
         "name": "Elusive Redirection",
+        "name_zh": "斗转星移",
         "source": ["Ultimate Combat pg. 100"],
         "prerequisiteKeys":         [
             "combat expertise",
@@ -6945,6 +7146,7 @@ var featDict = {
     "elven accuracy":     {
         "key": "elven accuracy",
         "name": "Elven Accuracy",
+        "name_zh": "精灵之眼",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 159"]
     },
@@ -6987,12 +7189,14 @@ var featDict = {
     "elven battle training":     {
         "key": "elven battle training",
         "name": "Elven Battle Training",
+        "name_zh": "精灵战斗训练",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 28"]
     },
     "elven spirit":     {
         "key": "elven spirit",
         "name": "Elven Spirit",
+        "name_zh": "精灵之魂",
         "source": ["Advanced Race Guide pg. 46"]
     },
     "embrace of the dark fey":     {
@@ -7034,6 +7238,7 @@ var featDict = {
     "empower spell-like ability":     {
         "key": "empower spell-like ability",
         "name": "Empower Spell-Like Ability",
+        "name_zh": "类法术能力强效",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 314"]
     },
@@ -7134,6 +7339,7 @@ var featDict = {
     "enfilading fire":     {
         "key": "enfilading fire",
         "name": "Enfilading Fire",
+        "name_zh": "交叉火力",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -7147,6 +7353,7 @@ var featDict = {
     "enforcer":     {
         "key": "enforcer",
         "name": "Enforcer",
+        "name_zh": "胁迫者",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Player's Guide pg. 159",
@@ -7217,6 +7424,7 @@ var featDict = {
     "ensemble":     {
         "key": "ensemble",
         "name": "Ensemble",
+        "name_zh": "乐团",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Magic pg. 149"]
     },
@@ -7277,6 +7485,7 @@ var featDict = {
     "escape route":     {
         "key": "escape route",
         "name": "Escape Route",
+        "name_zh": "确保退路",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 100"]
     },
@@ -7358,6 +7567,7 @@ var featDict = {
     "evolved familiar":     {
         "key": "evolved familiar",
         "name": "Evolved Familiar",
+        "name_zh": "进化魔宠",
         "source": ["Ultimate Magic pg. 149"]
     },
     "evolved summoned monster":     {
@@ -7406,6 +7616,7 @@ var featDict = {
     "exile's path":     {
         "key": "exile's path",
         "name": "Exile's Path",
+        "name_zh": "流放之路",
         "source": ["Advanced Race Guide pg. 47"]
     },
     "exorcising mutilation":     {
@@ -7442,6 +7653,7 @@ var featDict = {
     "expanded arcana":     {
         "key": "expanded arcana",
         "name": "Expanded Arcana",
+        "name_zh": "奥术拓展",
         "source": ["Advanced Player's Guide pg. 159"]
     },
     "expanded enhance arrows":     {
@@ -7452,6 +7664,7 @@ var featDict = {
     "expanded fiendish resistance":     {
         "key": "expanded fiendish resistance",
         "name": "Expanded Fiendish Resistance",
+        "name_zh": "额外炼狱抗力",
         "source": ["Advanced Race Guide pg. 174"]
     },
     "expanded hunter tactics":     {
@@ -7478,6 +7691,7 @@ var featDict = {
     "expanded resistance":     {
         "key": "expanded resistance",
         "name": "Expanded Resistance",
+        "name_zh": "扩展抗性",
         "source": ["Advanced Race Guide pg. 37"]
     },
     "expanded spell kenning":     {
@@ -7537,6 +7751,7 @@ var featDict = {
     "expert driver":     {
         "key": "expert driver",
         "name": "Expert Driver",
+        "name_zh": "专业御者",
         "source": ["Ultimate Combat pg. 100"]
     },
     "expert explorer":     {
@@ -7563,6 +7778,7 @@ var featDict = {
     "exploit lore":     {
         "key": "exploit lore",
         "name": "Exploit Lore",
+        "name_zh": "善用学识",
         "source": ["Ultimate Magic pg. 149"]
     },
     "explorer":     {
@@ -7642,6 +7858,7 @@ var featDict = {
     "extended bane":     {
         "key": "extended bane",
         "name": "Extended Bane",
+        "name_zh": "拓展破敌",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extended combat meditation":     {
@@ -7675,11 +7892,13 @@ var featDict = {
     "extra arcana":     {
         "key": "extra arcana",
         "name": "Extra Arcana",
+        "name_zh": "额外奥能",
         "source": ["Ultimate Magic pg. 149"]
     },
     "extra arcane pool":     {
         "key": "extra arcane pool",
         "name": "Extra Arcane Pool",
+        "name_zh": "额外奥能力池",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extra arcanist exploit":     {
@@ -7690,6 +7909,7 @@ var featDict = {
     "extra bane":     {
         "key": "extra bane",
         "name": "Extra Bane",
+        "name_zh": "额外破敌",
         "source": ["Ultimate Combat pg. 100"]
     },
     "extra blood hex":     {
@@ -7700,11 +7920,13 @@ var featDict = {
     "extra bombs":     {
         "key": "extra bombs",
         "name": "Extra Bombs",
+        "name_zh": "额外炼金炸弹",
         "source": ["Advanced Player's Guide pg. 159"]
     },
     "extra cantrips or orisons":     {
         "key": "extra cantrips or orisons",
         "name": "Extra Cantrips or Orisons",
+        "name_zh": "额外戏法或祷念",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extra channel":     {
@@ -7739,16 +7961,19 @@ var featDict = {
     "extra discovery":     {
         "key": "extra discovery",
         "name": "Extra Discovery",
+        "name_zh": "额外科研发现",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "extra elemental assault":     {
         "key": "extra elemental assault",
         "name": "Extra Elemental Assault",
+        "name_zh": "额外元素攻袭",
         "source": ["Advanced Race Guide pg. 203"]
     },
     "extra evolution":     {
         "key": "extra evolution",
         "name": "Extra Evolution",
+        "name_zh": "额外进化",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extra feature":     {
@@ -7769,6 +7994,7 @@ var featDict = {
     "extra grit":     {
         "key": "extra grit",
         "name": "Extra Grit",
+        "name_zh": "额外勇毅",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 100"]
     },
@@ -7781,6 +8007,7 @@ var featDict = {
     "extra hex":     {
         "key": "extra hex",
         "name": "Extra Hex",
+        "name_zh": "额外巫术",
         "source":         [
             "Advanced Class Guide pg. 147",
             "Advanced Player's Guide pg. 160"
@@ -7872,6 +8099,7 @@ var featDict = {
     "extra rage power":     {
         "key": "extra rage power",
         "name": "Extra Rage Power",
+        "name_zh": "额外狂暴之力",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "extra rage":     {
@@ -7883,6 +8111,7 @@ var featDict = {
     "extra ranger trap":     {
         "key": "extra ranger trap",
         "name": "Extra Ranger Trap",
+        "name_zh": "额外游侠陷阱",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extra reservoir":     {
@@ -7893,11 +8122,13 @@ var featDict = {
     "extra revelation":     {
         "key": "extra revelation",
         "name": "Extra Revelation",
+        "name_zh": "额外启示",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "extra rogue talent":     {
         "key": "extra rogue talent",
         "name": "Extra Rogue Talent",
+        "name_zh": "额外盗贼天赋",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "extra shadow jump":     {
@@ -7933,6 +8164,7 @@ var featDict = {
     "extra summons":     {
         "key": "extra summons",
         "name": "Extra Summons",
+        "name_zh": "额外召唤",
         "source": ["Ultimate Magic pg. 150"]
     },
     "extra surge":     {
@@ -8005,6 +8237,7 @@ var featDict = {
     "eyes of judgment":     {
         "key": "eyes of judgment",
         "name": "Eyes of Judgment",
+        "name_zh": "审判之眼",
         "source": ["Ultimate Magic pg. 150"]
     },
     "eyes of the purge":     {
@@ -8079,6 +8312,7 @@ var featDict = {
     "false opening":     {
         "key": "false opening",
         "name": "False Opening",
+        "name_zh": "假意迎敌",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 100"],
         "prerequisiteKeys":         [
@@ -8181,16 +8415,19 @@ var featDict = {
     "fast drinker":     {
         "key": "fast drinker",
         "name": "Fast Drinker",
+        "name_zh": "快饮",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "fast empathy":     {
         "key": "fast empathy",
         "name": "Fast Empathy",
+        "name_zh": "快速认同",
         "source": ["Ultimate Magic pg. 150"]
     },
     "fast healer":     {
         "key": "fast healer",
         "name": "Fast Healer",
+        "name_zh": "快速自疗",
         "source": ["Advanced Player's Guide pg. 160"],
         "prerequisiteKeys":         [
             "diehard",
@@ -8200,6 +8437,7 @@ var featDict = {
     "fast learner":     {
         "key": "fast learner",
         "name": "Fast Learner",
+        "name_zh": "速学者",
         "source": ["Advanced Race Guide pg. 77"]
     },
     "fateful channel":     {
@@ -8234,6 +8472,7 @@ var featDict = {
     "favored defense":     {
         "key": "favored defense",
         "name": "Favored Defense",
+        "name_zh": "防范宿敌",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "favored enemy spellcasting":     {
@@ -8244,6 +8483,7 @@ var featDict = {
     "favored judgment":     {
         "key": "favored judgment",
         "name": "Favored Judgment",
+        "name_zh": "审判宿敌",
         "source": ["Ultimate Magic pg. 150"]
     },
     "favored prestige class":     {
@@ -8260,11 +8500,13 @@ var featDict = {
     "fearless aura":     {
         "key": "fearless aura",
         "name": "Fearless Aura",
+        "name_zh": "无畏灵光",
         "source": ["Ultimate Magic pg. 150"]
     },
     "fearless curiosity":     {
         "key": "fearless curiosity",
         "name": "Fearless Curiosity",
+        "name_zh": "求知者皆无惧",
         "source": ["Advanced Race Guide pg. 77"]
     },
     "fearless zeal":     {
@@ -8323,6 +8565,7 @@ var featDict = {
     "feint partner":     {
         "key": "feint partner",
         "name": "Feint Partner",
+        "name_zh": "联合虚招",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -8339,11 +8582,13 @@ var featDict = {
     "feline grace":     {
         "key": "feline grace",
         "name": "Feline Grace",
+        "name_zh": "猫科优雅",
         "source": ["Advanced Race Guide pg. 94"]
     },
     "felling escape":     {
         "key": "felling escape",
         "name": "Felling Escape",
+        "name_zh": "击倒脱逃",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"],
         "prerequisiteKeys":         [
@@ -8354,6 +8599,7 @@ var featDict = {
     "felling smash":     {
         "key": "felling smash",
         "name": "Felling Smash",
+        "name_zh": "击倒猛攻",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"],
         "prerequisiteKeys":         [
@@ -8378,6 +8624,7 @@ var featDict = {
     "feral combat training":     {
         "key": "feral combat training",
         "name": "Feral Combat Training",
+        "name_zh": "野性战斗训练",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -8398,6 +8645,7 @@ var featDict = {
     "ferocious action":     {
         "key": "ferocious action",
         "name": "Ferocious Action",
+        "name_zh": "凶猛行动",
         "source": ["Advanced Race Guide pg. 141"]
     },
     "ferocious beast":     {
@@ -8427,11 +8675,13 @@ var featDict = {
     "ferocious resolve":     {
         "key": "ferocious resolve",
         "name": "Ferocious Resolve",
+        "name_zh": "凶暴决意",
         "source": ["Advanced Race Guide pg. 57"]
     },
     "ferocious summons":     {
         "key": "ferocious summons",
         "name": "Ferocious Summons",
+        "name_zh": "凶暴召唤",
         "source": ["Advanced Race Guide pg. 57"],
         "prerequisiteKeys":         [
             "augment summoning",
@@ -8441,6 +8691,7 @@ var featDict = {
     "ferocious tenacity":     {
         "key": "ferocious tenacity",
         "name": "Ferocious Tenacity",
+        "name_zh": "不屈凶暴",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Race Guide pg. 57",
@@ -8502,11 +8753,13 @@ var featDict = {
     "field repair":     {
         "key": "field repair",
         "name": "Field Repair",
+        "name_zh": "战地维修",
         "source": ["Ultimate Combat pg. 101"]
     },
     "fiend sight":     {
         "key": "fiend sight",
         "name": "Fiend Sight",
+        "name_zh": "邪魔视觉",
         "source": ["Advanced Race Guide pg. 174"]
     },
     "fiendish darkness":     {
@@ -8556,6 +8809,7 @@ var featDict = {
     "fight on":     {
         "key": "fight on",
         "name": "Fight On",
+        "name_zh": "挺住再上",
         "source": ["Advanced Player's Guide pg. 160"]
     },
     "fighting frenzy":     {
@@ -8587,6 +8841,7 @@ var featDict = {
     "final embrace horror":     {
         "key": "final embrace horror",
         "name": "Final Embrace Horror",
+        "name_zh": "恐怖最终拥抱",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"],
         "prerequisiteKeys": ["final embrace"]
@@ -8594,6 +8849,7 @@ var featDict = {
     "final embrace master":     {
         "key": "final embrace master",
         "name": "Final Embrace Master",
+        "name_zh": "最终拥抱极意",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 102"],
         "prerequisiteKeys":         [
@@ -8604,6 +8860,7 @@ var featDict = {
     "final embrace":     {
         "key": "final embrace",
         "name": "Final Embrace",
+        "name_zh": "最终拥抱",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"]
     },
@@ -8640,17 +8897,20 @@ var featDict = {
     "fire hand":     {
         "key": "fire hand",
         "name": "Fire Hand",
+        "name_zh": "火掌",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 118"]
     },
     "fire music":     {
         "key": "fire music",
         "name": "Fire Music",
+        "name_zh": "燃火之音",
         "source": ["Ultimate Magic pg. 150"]
     },
     "fire tamer":     {
         "key": "fire tamer",
         "name": "Fire Tamer",
+        "name_zh": "驯火者",
         "source": ["Advanced Race Guide pg. 118"]
     },
     "firebrand":     {
@@ -8662,6 +8922,7 @@ var featDict = {
     "firesight":     {
         "key": "firesight",
         "name": "Firesight",
+        "name_zh": "火焰视域",
         "source": ["Advanced Race Guide pg. 130"]
     },
     "first general of the east":     {
@@ -8694,6 +8955,7 @@ var featDict = {
     "flame heart":     {
         "key": "flame heart",
         "name": "Flame Heart",
+        "name_zh": "燃烧之心",
         "source": ["Advanced Race Guide pg. 118"],
         "prerequisiteKeys": ["fire tamer"]
     },
@@ -8712,12 +8974,14 @@ var featDict = {
     "flanking foil":     {
         "key": "flanking foil",
         "name": "Flanking Foil",
+        "name_zh": "挫败夹击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 102"]
     },
     "flaring spell":     {
         "key": "flaring spell",
         "name": "Flaring Spell",
+        "name_zh": "闪耀法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 151"]
     },
@@ -8821,6 +9085,7 @@ var featDict = {
     "flyby attack":     {
         "key": "flyby attack",
         "name": "Flyby Attack",
+        "name_zh": "飞越攻击",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 315"]
     },
@@ -8869,6 +9134,7 @@ var featDict = {
     "focused eidolon":     {
         "key": "focused eidolon",
         "name": "Focused Eidolon",
+        "name_zh": "幻灵专注",
         "source": ["Ultimate Magic pg. 151"]
     },
     "focused fey expertise":     {
@@ -8920,6 +9186,7 @@ var featDict = {
     "focused shot":     {
         "key": "focused shot",
         "name": "Focused Shot",
+        "name_zh": "集中射击",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Player's Guide pg. 160",
@@ -8933,6 +9200,7 @@ var featDict = {
     "focused spell":     {
         "key": "focused spell",
         "name": "Focused Spell",
+        "name_zh": "集中法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 161"]
     },
@@ -8962,6 +9230,7 @@ var featDict = {
     "focusing blow":     {
         "key": "focusing blow",
         "name": "Focusing Blow",
+        "name_zh": "清神打击",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Race Guide pg. 124"],
         "prerequisiteKeys": ["hobgoblin discipline"]
@@ -8997,6 +9266,7 @@ var featDict = {
     "following step":     {
         "key": "following step",
         "name": "Following Step",
+        "name_zh": "咄咄逼人",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 160"],
         "prerequisiteKeys": ["step up"]
@@ -9004,6 +9274,7 @@ var featDict = {
     "foment the blood":     {
         "key": "foment the blood",
         "name": "Foment the Blood",
+        "name_zh": "嗜血煽动",
         "source": ["Advanced Race Guide pg. 141"]
     },
     "fool magic":     {
@@ -9075,6 +9346,7 @@ var featDict = {
     "fortified armor training":     {
         "key": "fortified armor training",
         "name": "Fortified Armor Training",
+        "name_zh": "丢卒保帅",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 102"]
     },
@@ -9099,6 +9371,7 @@ var featDict = {
     "fortunate one":     {
         "key": "fortunate one",
         "name": "Fortunate One",
+        "name_zh": "幸运儿",
         "source": ["Advanced Race Guide pg. 66"]
     },
     "fortunate ruler":     {
@@ -9250,12 +9523,14 @@ var featDict = {
     "furious finish":     {
         "key": "furious finish",
         "name": "Furious Finish",
+        "name_zh": "狂怒终结",
         "source": ["Ultimate Combat pg. 102"],
         "prerequisiteKeys": ["vital strike"]
     },
     "furious focus":     {
         "key": "furious focus",
         "name": "Furious Focus",
+        "name_zh": "沉着暴怒",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys": ["power attack"]
@@ -9297,6 +9572,7 @@ var featDict = {
     "gang up":     {
         "key": "gang up",
         "name": "Gang Up",
+        "name_zh": "一拥而上",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys": ["combat expertise"]
@@ -9367,6 +9643,7 @@ var featDict = {
     "giant killer":     {
         "key": "giant killer",
         "name": "Giant Killer",
+        "name_zh": "巨人杀手",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -9380,6 +9657,7 @@ var featDict = {
     "giant steps":     {
         "key": "giant steps",
         "name": "Giant Steps",
+        "name_zh": "巨人步伐",
         "source": ["Advanced Race Guide pg. 187"]
     },
     "giant vendetta":     {
@@ -9464,6 +9742,7 @@ var featDict = {
     "gliding steps":     {
         "key": "gliding steps",
         "name": "Gliding Steps",
+        "name_zh": "凌波微步",
         "source": ["Ultimate Magic pg. 151"],
         "prerequisiteKeys":         [
             "dodge",
@@ -9480,11 +9759,13 @@ var featDict = {
     "gloom sight":     {
         "key": "gloom sight",
         "name": "Gloom Sight",
+        "name_zh": "阴暗视域",
         "source": ["Advanced Race Guide pg. 111"]
     },
     "gloom strike":     {
         "key": "gloom strike",
         "name": "Gloom Strike",
+        "name_zh": "阴暗打击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 111"],
         "prerequisiteKeys": ["blind-fight"]
@@ -9525,22 +9806,26 @@ var featDict = {
     "gnome trickster":     {
         "key": "gnome trickster",
         "name": "Gnome Trickster",
+        "name_zh": "侏儒戏法",
         "source": ["Advanced Player's Guide pg. 161"]
     },
     "gnome weapon focus":     {
         "key": "gnome weapon focus",
         "name": "Gnome Weapon Focus",
+        "name_zh": "侏儒武器专攻",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 37"]
     },
     "go unnoticed":     {
         "key": "go unnoticed",
         "name": "Go Unnoticed",
+        "name_zh": "瞒天过海",
         "source": ["Advanced Player's Guide pg. 161"]
     },
     "goblin cleaver":     {
         "key": "goblin cleaver",
         "name": "Goblin Cleaver",
+        "name_zh": "地精切裂者",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -9551,6 +9836,7 @@ var featDict = {
     "goblin gunslinger":     {
         "key": "goblin gunslinger",
         "name": "Goblin Gunslinger",
+        "name_zh": "地精铳士",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 118"]
     },
@@ -9584,6 +9870,7 @@ var featDict = {
     "gore fiend":     {
         "key": "gore fiend",
         "name": "Gore Fiend",
+        "name_zh": "嗜血恶魔",
         "source":         [
             "Advanced Race Guide pg. 57",
             "Orcs of Golarion pg. 25"
@@ -9603,6 +9890,7 @@ var featDict = {
     "gory finish":     {
         "key": "gory finish",
         "name": "Gory Finish",
+        "name_zh": "血腥击杀",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 102"],
         "prerequisiteKeys":         [
@@ -9700,6 +9988,7 @@ var featDict = {
     "grant initiative":     {
         "key": "grant initiative",
         "name": "Grant Initiative",
+        "name_zh": "授予先机",
         "source": ["Ultimate Magic pg. 151"]
     },
     "grappled caster":     {
@@ -9721,6 +10010,7 @@ var featDict = {
     "grasping tail":     {
         "key": "grasping tail",
         "name": "Grasping Tail",
+        "name_zh": "贪婪之尾",
         "source":         [
             "Planar Adventures pg. 28",
             "Advanced Race Guide pg. 174"
@@ -9778,6 +10068,7 @@ var featDict = {
     "great hatred":     {
         "key": "great hatred",
         "name": "Great Hatred",
+        "name_zh": "强烈仇恨",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 37"]
     },
@@ -9832,6 +10123,7 @@ var featDict = {
     "greater blighted critical":     {
         "key": "greater blighted critical",
         "name": "Greater Blighted Critical",
+        "name_zh": "高等荒芜重击",
         "descriptors": ["Critical"],
         "source": ["Ultimate Magic pg. 151"],
         "prerequisiteKeys": ["blighted critical"]
@@ -9839,6 +10131,7 @@ var featDict = {
     "greater blind-fight":     {
         "key": "greater blind-fight",
         "name": "Greater Blind-Fight",
+        "name_zh": "高等盲斗",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys": ["improved blind-fight"]
@@ -9872,6 +10165,7 @@ var featDict = {
     "greater channel force":     {
         "key": "greater channel force",
         "name": "Greater Channel Force",
+        "name_zh": "高等原力导能",
         "source": ["Advanced Race Guide pg. 88"],
         "prerequisiteKeys":         [
             "channel force",
@@ -9881,6 +10175,7 @@ var featDict = {
     "greater channel smite":     {
         "key": "greater channel smite",
         "name": "Greater Channel Smite",
+        "name_zh": "高等导能打击",
         "source": ["Ultimate Combat pg. 102"],
         "prerequisiteKeys": ["channel smite"]
     },
@@ -9899,6 +10194,7 @@ var featDict = {
     "greater dirty trick":     {
         "key": "greater dirty trick",
         "name": "Greater Dirty Trick",
+        "name_zh": "高等阴招",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys":         [
@@ -9926,6 +10222,7 @@ var featDict = {
     "greater drag":     {
         "key": "greater drag",
         "name": "Greater Drag",
+        "name_zh": "高等拖拽",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys":         [
@@ -9936,6 +10233,7 @@ var featDict = {
     "greater drow nobility":     {
         "key": "greater drow nobility",
         "name": "Greater Drow Nobility",
+        "name_zh": "高等卓尔贵族",
         "source": ["Advanced Race Guide pg. 105"],
         "prerequisiteKeys":         [
             "drow nobility",
@@ -9945,6 +10243,7 @@ var featDict = {
     "greater eldritch heritage":     {
         "key": "greater eldritch heritage",
         "name": "Greater Eldritch Heritage",
+        "name_zh": "高等悠远血脉",
         "source": ["Ultimate Magic pg. 152"],
         "prerequisiteKeys":         [
             "eldritch heritage",
@@ -9954,6 +10253,7 @@ var featDict = {
     "greater elemental focus":     {
         "key": "greater elemental focus",
         "name": "Greater Elemental Focus",
+        "name_zh": "高等元素专攻",
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys": ["elemental focus"]
     },
@@ -10018,6 +10318,7 @@ var featDict = {
     "greater mercy":     {
         "key": "greater mercy",
         "name": "Greater Mercy",
+        "name_zh": "高等恩惠",
         "source": ["Ultimate Magic pg. 152"]
     },
     "greater mesmerizing feint":     {
@@ -10085,6 +10386,7 @@ var featDict = {
     "greater rending fury":     {
         "key": "greater rending fury",
         "name": "Greater Rending Fury",
+        "name_zh": "高等疯狂撕扯",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 103"],
         "prerequisiteKeys":         [
@@ -10095,6 +10397,7 @@ var featDict = {
     "greater reposition":     {
         "key": "greater reposition",
         "name": "Greater Reposition",
+        "name_zh": "高等移位",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 161"],
         "prerequisiteKeys":         [
@@ -10129,6 +10432,7 @@ var featDict = {
     "greater shield specialization":     {
         "key": "greater shield specialization",
         "name": "Greater Shield Specialization",
+        "name_zh": "高等盾牌专精",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys":         [
@@ -10145,6 +10449,7 @@ var featDict = {
     "greater snap shot":     {
         "key": "greater snap shot",
         "name": "Greater Snap Shot",
+        "name_zh": "高等快枪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 103"],
         "prerequisiteKeys":         [
@@ -10171,6 +10476,7 @@ var featDict = {
     "greater spell specialization":     {
         "key": "greater spell specialization",
         "name": "Greater Spell Specialization",
+        "name_zh": "高等法术专精",
         "source": ["Ultimate Magic pg. 152"],
         "prerequisiteKeys":         [
             "spell focus",
@@ -10199,6 +10505,7 @@ var featDict = {
     "greater steal":     {
         "key": "greater steal",
         "name": "Greater Steal",
+        "name_zh": "高等盗取",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys":         [
@@ -10322,6 +10629,7 @@ var featDict = {
     "greater whip mastery":     {
         "key": "greater whip mastery",
         "name": "Greater Whip Mastery",
+        "name_zh": "高等长鞭熟稔",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 103"],
         "prerequisiteKeys":         [
@@ -10333,6 +10641,7 @@ var featDict = {
     "greater wild empathy":     {
         "key": "greater wild empathy",
         "name": "Greater Wild Empathy",
+        "name_zh": "高等野性认同",
         "source": ["Ultimate Magic pg. 152"]
     },
     "greater wilding strike":     {
@@ -10388,6 +10697,7 @@ var featDict = {
     "groundling":     {
         "key": "groundling",
         "name": "Groundling",
+        "name_zh": "地底亲和",
         "source": ["Advanced Player's Guide pg. 162"]
     },
     "group deliver touch spells":     {
@@ -10421,6 +10731,7 @@ var featDict = {
     "grudge fighter":     {
         "key": "grudge fighter",
         "name": "Grudge Fighter",
+        "name_zh": "怀恨在心",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 141"]
     },
@@ -10459,6 +10770,7 @@ var featDict = {
     "guardian of the wild":     {
         "key": "guardian of the wild",
         "name": "Guardian of the Wild",
+        "name_zh": "荒野守卫",
         "source": ["Advanced Race Guide pg. 28"],
         "prerequisiteKeys": ["attuned to the wild"]
     },
@@ -10476,6 +10788,7 @@ var featDict = {
     "guided hand":     {
         "key": "guided hand",
         "name": "Guided Hand",
+        "name_zh": "引导之手",
         "source": ["Ultimate Combat pg. 103"],
         "prerequisiteKeys": ["channel smite"]
     },
@@ -10514,11 +10827,13 @@ var featDict = {
     "gunsmithing":     {
         "key": "gunsmithing",
         "name": "Gunsmithing",
+        "name_zh": "火器锻造",
         "source": ["Ultimate Combat pg. 103"]
     },
     "half-drow paragon":     {
         "key": "half-drow paragon",
         "name": "Half-Drow Paragon",
+        "name_zh": "半卓尔典范",
         "source": ["Advanced Race Guide pg. 47"]
     },
     "halfling slinger":     {
@@ -10566,6 +10881,7 @@ var featDict = {
     "hammer the gap":     {
         "key": "hammer the gap",
         "name": "Hammer the Gap",
+        "name_zh": "穷锤猛打",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 103"]
     },
@@ -10616,6 +10932,7 @@ var featDict = {
     "hard-headed":     {
         "key": "hard-headed",
         "name": "Hard-Headed",
+        "name_zh": "铁头",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"]
     },
@@ -10644,6 +10961,7 @@ var featDict = {
     "harmonic sage":     {
         "key": "harmonic sage",
         "name": "Harmonic Sage",
+        "name_zh": "和声大师",
         "source": ["Ultimate Combat pg. 104"]
     },
     "harmonic spell":     {
@@ -10699,6 +11017,7 @@ var featDict = {
     "haunted gnome assault":     {
         "key": "haunted gnome assault",
         "name": "Haunted Gnome Assault",
+        "name_zh": "精怪侏儒突击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 104"],
         "prerequisiteKeys": ["haunted gnome"]
@@ -10706,6 +11025,7 @@ var featDict = {
     "haunted gnome shroud":     {
         "key": "haunted gnome shroud",
         "name": "Haunted Gnome Shroud",
+        "name_zh": "精怪侏儒防护",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 104"],
         "prerequisiteKeys":         [
@@ -10716,6 +11036,7 @@ var featDict = {
     "haunted gnome":     {
         "key": "haunted gnome",
         "name": "Haunted Gnome",
+        "name_zh": "精怪侏儒",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 104"]
     },
@@ -10763,6 +11084,7 @@ var featDict = {
     "heavenly radiance":     {
         "key": "heavenly radiance",
         "name": "Heavenly Radiance",
+        "name_zh": "天国之光",
         "source": ["Advanced Race Guide pg. 88"]
     },
     "heavy gravity acclimation":     {
@@ -10857,6 +11179,7 @@ var featDict = {
     "hero's display":     {
         "key": "hero's display",
         "name": "Hero's Display",
+        "name_zh": "英豪演武",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -10870,12 +11193,14 @@ var featDict = {
     "hero's fortune":     {
         "key": "hero's fortune",
         "name": "Hero's Fortune",
+        "name_zh": "洪福齐天",
         "descriptors": ["Hero Point"],
         "source": ["Advanced Player's Guide pg. 324"]
     },
     "heroic defiance":     {
         "key": "heroic defiance",
         "name": "Heroic Defiance",
+        "name_zh": "英勇气魄",
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys":         [
             "diehard",
@@ -10902,6 +11227,7 @@ var featDict = {
     "heroic recovery":     {
         "key": "heroic recovery",
         "name": "Heroic Recovery",
+        "name_zh": "英勇自愈",
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys":         [
             "diehard",
@@ -10911,12 +11237,14 @@ var featDict = {
     "heroic will":     {
         "key": "heroic will",
         "name": "Heroic Will",
+        "name_zh": "英雄意志",
         "source": ["Advanced Race Guide pg. 77"],
         "prerequisiteKeys": ["iron will"]
     },
     "hex strike":     {
         "key": "hex strike",
         "name": "Hex Strike",
+        "name_zh": "巫术打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 104"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -10957,6 +11285,7 @@ var featDict = {
     "hobgoblin discipline":     {
         "key": "hobgoblin discipline",
         "name": "Hobgoblin Discipline",
+        "name_zh": "大地精军规",
         "source": ["Advanced Race Guide pg. 124"]
     },
     "hold the blade":     {
@@ -10987,6 +11316,7 @@ var featDict = {
     "horde charge":     {
         "key": "horde charge",
         "name": "Horde Charge",
+        "name_zh": "部落冲锋",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Race Guide pg. 57"]
     },
@@ -11018,6 +11348,7 @@ var featDict = {
     "horse master":     {
         "key": "horse master",
         "name": "Horse Master",
+        "name_zh": "坐骑大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 104"]
     },
@@ -11035,6 +11366,7 @@ var featDict = {
     "hover":     {
         "key": "hover",
         "name": "Hover",
+        "name_zh": "盘旋",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 315"]
     },
@@ -11046,6 +11378,7 @@ var featDict = {
     "human spirit":     {
         "key": "human spirit",
         "name": "Human Spirit",
+        "name_zh": "人类之魂",
         "source": ["Advanced Race Guide pg. 47"]
     },
     "hunter of dahak":     {
@@ -11056,6 +11389,7 @@ var featDict = {
     "huntmaster":     {
         "key": "huntmaster",
         "name": "Huntmaster",
+        "name_zh": "领猎人",
         "source": ["Advanced Race Guide pg. 77"]
     },
     "hurricane punch":     {
@@ -11079,6 +11413,7 @@ var featDict = {
     "hydraulic maneuver":     {
         "key": "hydraulic maneuver",
         "name": "Hydraulic Maneuver",
+        "name_zh": "水流技法",
         "source": ["Advanced Race Guide pg. 177"]
     },
     "hydroponic adaptation":     {
@@ -11165,6 +11500,7 @@ var featDict = {
     "impact critical shot":     {
         "key": "impact critical shot",
         "name": "Impact Critical Shot",
+        "name_zh": "冲撞射击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -11180,6 +11516,7 @@ var featDict = {
     "impaling critical":     {
         "key": "impaling critical",
         "name": "Impaling Critical",
+        "name_zh": "穿刺重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -11201,6 +11538,7 @@ var featDict = {
     "implant bomb":     {
         "key": "implant bomb",
         "name": "Implant Bomb",
+        "name_zh": "植入式炸弹",
         "source": ["Ultimate Magic pg. 152"]
     },
     "implement focus":     {
@@ -11242,7 +11580,10 @@ var featDict = {
         "name": "Improved Awesome Blow",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 150"],
-        "prerequisiteKeys": ["awesome blow"]
+        "prerequisiteKeys":         [
+            "awesome blow",
+            "power attack"
+        ]
     },
     "improved awesome throw":     {
         "key": "improved awesome throw",
@@ -11258,6 +11599,7 @@ var featDict = {
     "improved back to back":     {
         "key": "improved back to back",
         "name": "Improved Back to Back",
+        "name_zh": "精通背靠背",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys": ["back to back"]
@@ -11294,6 +11636,7 @@ var featDict = {
     "improved blind-fight":     {
         "key": "improved blind-fight",
         "name": "Improved Blind-Fight",
+        "name_zh": "精通盲斗",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys": ["blind-fight"]
@@ -11322,6 +11665,7 @@ var featDict = {
     "improved channel force":     {
         "key": "improved channel force",
         "name": "Improved Channel Force",
+        "name_zh": "精通原力导能",
         "source": ["Advanced Race Guide pg. 88"],
         "prerequisiteKeys": ["channel force"]
     },
@@ -11334,6 +11678,7 @@ var featDict = {
     "improved charging hurler":     {
         "key": "improved charging hurler",
         "name": "Improved Charging Hurler",
+        "name_zh": "精通冲锋投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys":         [
@@ -11344,6 +11689,7 @@ var featDict = {
     "improved cleaving finish":     {
         "key": "improved cleaving finish",
         "name": "Improved Cleaving Finish",
+        "name_zh": "精通终势斩",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys":         [
@@ -11384,6 +11730,7 @@ var featDict = {
     "improved dark sight":     {
         "key": "improved dark sight",
         "name": "Improved Dark Sight",
+        "name_zh": "精通黑暗视域",
         "source": ["Advanced Race Guide pg. 112"],
         "prerequisiteKeys":         [
             "dark sight",
@@ -11398,11 +11745,13 @@ var featDict = {
     "improved death-stealing":     {
         "key": "improved death-stealing",
         "name": "Improved Death-Stealing",
-        "source": ["Demons Revisited pg. 44"]
+        "source": ["Demons Revisited pg. 44"],
+        "prerequisiteKeys": ["ability focus"]
     },
     "improved devastating strike":     {
         "key": "improved devastating strike",
         "name": "Improved Devastating Strike",
+        "name_zh": "精通毁灭打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys":         [
@@ -11418,6 +11767,7 @@ var featDict = {
     "improved dirty trick":     {
         "key": "improved dirty trick",
         "name": "Improved Dirty Trick",
+        "name_zh": "精通阴招",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys": ["combat expertise"]
@@ -11443,6 +11793,7 @@ var featDict = {
     "improved drag":     {
         "key": "improved drag",
         "name": "Improved Drag",
+        "name_zh": "精通拖拽",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys": ["power attack"]
@@ -11450,6 +11801,7 @@ var featDict = {
     "improved drow nobility":     {
         "key": "improved drow nobility",
         "name": "Improved Drow Nobility",
+        "name_zh": "进阶卓尔贵族",
         "source": ["Advanced Race Guide pg. 105"],
         "prerequisiteKeys": ["drow nobility"]
     },
@@ -11463,6 +11815,7 @@ var featDict = {
     "improved eldritch heritage":     {
         "key": "improved eldritch heritage",
         "name": "Improved Eldritch Heritage",
+        "name_zh": "进阶悠远血脉",
         "source": ["Ultimate Magic pg. 152"],
         "prerequisiteKeys": ["eldritch heritage"]
     },
@@ -11489,6 +11842,7 @@ var featDict = {
     "improved feint partner":     {
         "key": "improved feint partner",
         "name": "Improved Feint Partner",
+        "name_zh": "高等联合虚招",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -11602,6 +11956,7 @@ var featDict = {
     "improved impaling critical":     {
         "key": "improved impaling critical",
         "name": "Improved Impaling Critical",
+        "name_zh": "精通穿刺重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -11615,6 +11970,7 @@ var featDict = {
     "improved improvisation":     {
         "key": "improved improvisation",
         "name": "Improved Improvisation",
+        "name_zh": "灵机又动",
         "source": ["Advanced Race Guide pg. 77"],
         "prerequisiteKeys":         [
             "fast learner",
@@ -11650,6 +12006,7 @@ var featDict = {
     "improved ki throw":     {
         "key": "improved ki throw",
         "name": "Improved Ki Throw",
+        "name_zh": "精通太极推手",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 163"],
         "prerequisiteKeys": ["improved bull rush"]
@@ -11682,12 +12039,14 @@ var featDict = {
     "improved low blow":     {
         "key": "improved low blow",
         "name": "Improved Low Blow",
+        "name_zh": "精通下盘打击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 66"]
     },
     "improved monster lore":     {
         "key": "improved monster lore",
         "name": "Improved Monster Lore",
+        "name_zh": "进阶怪物学识",
         "source": ["Ultimate Magic pg. 153"]
     },
     "improved mounted archery":     {
@@ -11702,12 +12061,14 @@ var featDict = {
     "improved natural armor":     {
         "key": "improved natural armor",
         "name": "Improved Natural Armor",
+        "name_zh": "精通天生护甲",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 315"]
     },
     "improved natural attack":     {
         "key": "improved natural attack",
         "name": "Improved Natural Attack",
+        "name_zh": "精通天生武器攻击",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 315"]
     },
@@ -11811,6 +12172,7 @@ var featDict = {
     "improved rending fury":     {
         "key": "improved rending fury",
         "name": "Improved Rending Fury",
+        "name_zh": "精通疯狂撕扯",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys": ["rending fury"]
@@ -11818,6 +12180,7 @@ var featDict = {
     "improved reposition":     {
         "key": "improved reposition",
         "name": "Improved Reposition",
+        "name_zh": "精通移位",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 163"],
         "prerequisiteKeys": ["combat expertise"]
@@ -11841,6 +12204,7 @@ var featDict = {
     "improved second chance":     {
         "key": "improved second chance",
         "name": "Improved Second Chance",
+        "name_zh": "精通燕归来",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 163"],
         "prerequisiteKeys":         [
@@ -11856,6 +12220,7 @@ var featDict = {
     "improved share spells":     {
         "key": "improved share spells",
         "name": "Improved Share Spells",
+        "name_zh": "精通法术共享",
         "source": ["Advanced Player's Guide pg. 162"]
     },
     "improved shield bash":     {
@@ -11876,6 +12241,7 @@ var featDict = {
     "improved sidestep":     {
         "key": "improved sidestep",
         "name": "Improved Sidestep",
+        "name_zh": "精通滑步",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 163"],
         "prerequisiteKeys":         [
@@ -11887,6 +12253,7 @@ var featDict = {
     "improved snap shot":     {
         "key": "improved snap shot",
         "name": "Improved Snap Shot",
+        "name_zh": "精通快枪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -11917,6 +12284,7 @@ var featDict = {
     "improved stalwart":     {
         "key": "improved stalwart",
         "name": "Improved Stalwart",
+        "name_zh": "精通坚毅",
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
             "diehard",
@@ -11927,6 +12295,7 @@ var featDict = {
     "improved steal":     {
         "key": "improved steal",
         "name": "Improved Steal",
+        "name_zh": "精通盗取",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 163"],
         "prerequisiteKeys": ["combat expertise"]
@@ -11945,6 +12314,7 @@ var featDict = {
     "improved stonecunning":     {
         "key": "improved stonecunning",
         "name": "Improved Stonecunning",
+        "name_zh": "精通岩石敏锐",
         "source": ["Advanced Player's Guide pg. 163"]
     },
     "improved studied combatant":     {
@@ -11967,6 +12337,7 @@ var featDict = {
     "improved surprise follow-through":     {
         "key": "improved surprise follow-through",
         "name": "Improved Surprise Follow-Through",
+        "name_zh": "精通顺势突袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 57"],
         "prerequisiteKeys":         [
@@ -12007,6 +12378,7 @@ var featDict = {
     "improved two-weapon feint":     {
         "key": "improved two-weapon feint",
         "name": "Improved Two-Weapon Feint",
+        "name_zh": "精通双武器虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -12027,6 +12399,7 @@ var featDict = {
     "improved umbral scion":     {
         "key": "improved umbral scion",
         "name": "Improved Umbral Scion",
+        "name_zh": "进阶黑耀传人",
         "source": ["Advanced Race Guide pg. 105"],
         "prerequisiteKeys":         [
             "drow nobility",
@@ -12090,6 +12463,7 @@ var featDict = {
     "improved whip mastery":     {
         "key": "improved whip mastery",
         "name": "Improved Whip Mastery",
+        "name_zh": "精通长鞭熟稔",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -12111,6 +12485,7 @@ var featDict = {
     "improvisation":     {
         "key": "improvisation",
         "name": "Improvisation",
+        "name_zh": "灵机一动",
         "source": ["Advanced Race Guide pg. 77"],
         "prerequisiteKeys": ["fast learner"]
     },
@@ -12153,6 +12528,7 @@ var featDict = {
     "in harm's way":     {
         "key": "in harm's way",
         "name": "In Harm's Way",
+        "name_zh": "肉盾",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 164"],
         "prerequisiteKeys": ["bodyguard"]
@@ -12184,6 +12560,7 @@ var featDict = {
     "incremental elemental assault":     {
         "key": "incremental elemental assault",
         "name": "Incremental Elemental Assault",
+        "name_zh": "蓄能元素攻袭",
         "source": ["Advanced Race Guide pg. 203"]
     },
     "indigestible":     {
@@ -12250,6 +12627,7 @@ var featDict = {
     "inexplicable luck":     {
         "key": "inexplicable luck",
         "name": "Inexplicable Luck",
+        "name_zh": "莫名好运",
         "source": ["Advanced Race Guide pg. 77"],
         "prerequisiteKeys": ["defiant luck"]
     },
@@ -12299,11 +12677,13 @@ var featDict = {
     "inner breath":     {
         "key": "inner breath",
         "name": "Inner Breath",
+        "name_zh": "内在之息",
         "source": ["Advanced Race Guide pg. 159"]
     },
     "inner flame":     {
         "key": "inner flame",
         "name": "Inner Flame",
+        "name_zh": "炽焰核心",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 130"],
         "prerequisiteKeys": ["scorching weapons"]
@@ -12354,6 +12734,7 @@ var featDict = {
     "insightful gaze":     {
         "key": "insightful gaze",
         "name": "Insightful Gaze",
+        "name_zh": "洞察人心",
         "source": ["Ultimate Magic pg. 153"]
     },
     "inspirational commander":     {
@@ -12407,6 +12788,7 @@ var featDict = {
     "instant judgment":     {
         "key": "instant judgment",
         "name": "Instant Judgment",
+        "name_zh": "瞬刻审判",
         "source": ["Ultimate Combat pg. 106"]
     },
     "instrumental":     {
@@ -12442,6 +12824,7 @@ var featDict = {
     "intensified spell":     {
         "key": "intensified spell",
         "name": "Intensified Spell",
+        "name_zh": "强化法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 163"]
     },
@@ -12479,6 +12862,7 @@ var featDict = {
     "intimidating bane":     {
         "key": "intimidating bane",
         "name": "Intimidating Bane",
+        "name_zh": "威吓破敌",
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
             "dazzling display",
@@ -12488,12 +12872,14 @@ var featDict = {
     "intimidating confidence":     {
         "key": "intimidating confidence",
         "name": "Intimidating Confidence",
+        "name_zh": "无惧者皆自信",
         "source": ["Advanced Race Guide pg. 78"],
         "prerequisiteKeys": ["fearless curiosity"]
     },
     "intimidating gaze":     {
         "key": "intimidating gaze",
         "name": "Intimidating Gaze",
+        "name_zh": "骇人目光",
         "source": ["Ultimate Magic pg. 153"]
     },
     "intimidating glance":     {
@@ -12601,11 +12987,13 @@ var featDict = {
     "ironguts":     {
         "key": "ironguts",
         "name": "Ironguts",
+        "name_zh": "铁胃",
         "source": ["Advanced Player's Guide pg. 164"]
     },
     "ironhide":     {
         "key": "ironhide",
         "name": "Ironhide",
+        "name_zh": "铁皮",
         "source": ["Advanced Player's Guide pg. 164"]
     },
     "irrisen icemage":     {
@@ -12671,6 +13059,7 @@ var featDict = {
     "janni rush":     {
         "key": "janni rush",
         "name": "Janni Rush",
+        "name_zh": "罡风惊天",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -12682,6 +13071,7 @@ var featDict = {
     "janni style":     {
         "key": "janni style",
         "name": "Janni Style",
+        "name_zh": "御风",
         "descriptors":         [
             "Combat",
             "Style"
@@ -12692,6 +13082,7 @@ var featDict = {
     "janni tempest":     {
         "key": "janni tempest",
         "name": "Janni Tempest",
+        "name_zh": "乱披风",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -12702,6 +13093,7 @@ var featDict = {
     "jawbreaker":     {
         "key": "jawbreaker",
         "name": "Jawbreaker",
+        "name_zh": "碎颚者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys":         [
@@ -12736,6 +13128,7 @@ var featDict = {
     "judgment surge":     {
         "key": "judgment surge",
         "name": "Judgment Surge",
+        "name_zh": "狂热审判",
         "source": ["Ultimate Magic pg. 153"]
     },
     "juggle load":     {
@@ -12790,6 +13183,7 @@ var featDict = {
     "keen scent":     {
         "key": "keen scent",
         "name": "Keen Scent",
+        "name_zh": "灵敏嗅觉",
         "source": ["Advanced Player's Guide pg. 164"]
     },
     "ki channel":     {
@@ -12809,11 +13203,13 @@ var featDict = {
     "ki stand":     {
         "key": "ki stand",
         "name": "Ki Stand",
+        "name_zh": "受身",
         "source": ["Ultimate Magic pg. 153"]
     },
     "ki throw":     {
         "key": "ki throw",
         "name": "Ki Throw",
+        "name_zh": "太极推手",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 164"],
         "prerequisiteKeys":         [
@@ -12863,6 +13259,7 @@ var featDict = {
     "kirin path":     {
         "key": "kirin path",
         "name": "Kirin Path",
+        "name_zh": "麒麟步",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 107"],
         "prerequisiteKeys":         [
@@ -12874,6 +13271,7 @@ var featDict = {
     "kirin strike":     {
         "key": "kirin strike",
         "name": "Kirin Strike",
+        "name_zh": "麒麟破",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 107"],
         "prerequisiteKeys":         [
@@ -12884,6 +13282,7 @@ var featDict = {
     "kirin style":     {
         "key": "kirin style",
         "name": "Kirin Style",
+        "name_zh": "麒麟势",
         "descriptors":         [
             "Combat",
             "Style"
@@ -12950,6 +13349,7 @@ var featDict = {
     "knockout artist":     {
         "key": "knockout artist",
         "name": "Knockout Artist",
+        "name_zh": "斗殴艺术",
         "source": ["Ultimate Combat pg. 106"],
         "prerequisiteKeys": ["improved unarmed strike"]
     },
@@ -12977,6 +13377,7 @@ var featDict = {
     "kobold ambusher":     {
         "key": "kobold ambusher",
         "name": "Kobold Ambusher",
+        "name_zh": "狗头人伏击者",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 137"]
     },
@@ -13009,6 +13410,7 @@ var featDict = {
     "kobold sniper":     {
         "key": "kobold sniper",
         "name": "Kobold Sniper",
+        "name_zh": "狗头人狙击手",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 137"]
     },
@@ -13145,6 +13547,7 @@ var featDict = {
     "landing roll":     {
         "key": "landing roll",
         "name": "Landing Roll",
+        "name_zh": "地滚翻",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 107"],
         "prerequisiteKeys":         [
@@ -13248,6 +13651,7 @@ var featDict = {
     "leaf singer":     {
         "key": "leaf singer",
         "name": "Leaf Singer",
+        "name_zh": "绿之歌者",
         "source": ["Advanced Player's Guide pg. 164"]
     },
     "leapfrog":     {
@@ -13269,6 +13673,7 @@ var featDict = {
     "leaping shot":     {
         "key": "leaping shot",
         "name": "Leaping Shot",
+        "name_zh": "跳跃射击",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 108"],
         "prerequisiteKeys":         [
@@ -13279,6 +13684,7 @@ var featDict = {
     "learn ranger trap":     {
         "key": "learn ranger trap",
         "name": "Learn Ranger Trap",
+        "name_zh": "学习游侠陷阱",
         "source":         [
             "Kobolds of Golarion pg. 24",
             "Ultimate Magic pg. 153"
@@ -13293,6 +13699,7 @@ var featDict = {
     "ledge walker":     {
         "key": "ledge walker",
         "name": "Ledge Walker",
+        "name_zh": "岩架行者",
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys": ["mountaineer"]
     },
@@ -13374,11 +13781,13 @@ var featDict = {
     "life lure":     {
         "key": "life lure",
         "name": "Life Lure",
+        "name_zh": "生命诱惑",
         "source": ["Ultimate Magic pg. 153"]
     },
     "life's blood":     {
         "key": "life's blood",
         "name": "Life's Blood",
+        "name_zh": "生命之血",
         "source": ["Advanced Race Guide pg. 199"]
     },
     "life-dominant soul":     {
@@ -13420,6 +13829,7 @@ var featDict = {
     "light step":     {
         "key": "light step",
         "name": "Light Step",
+        "name_zh": "一苇渡江",
         "source": ["Advanced Player's Guide pg. 164"],
         "prerequisiteKeys":         [
             "acrobatic steps",
@@ -13472,11 +13882,13 @@ var featDict = {
     "lingering invisibility":     {
         "key": "lingering invisibility",
         "name": "Lingering Invisibility",
+        "name_zh": "残续隐形",
         "source": ["Advanced Race Guide pg. 187"]
     },
     "lingering performance":     {
         "key": "lingering performance",
         "name": "Lingering Performance",
+        "name_zh": "余音绕梁",
         "source": ["Advanced Player's Guide pg. 164"]
     },
     "lingering smite":     {
@@ -13494,6 +13906,7 @@ var featDict = {
     "lingering spell":     {
         "key": "lingering spell",
         "name": "Lingering Spell",
+        "name_zh": "延续法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 164"]
     },
@@ -13618,6 +14031,7 @@ var featDict = {
     "long-nose form":     {
         "key": "long-nose form",
         "name": "Long-Nose Form",
+        "name_zh": "长鼻人",
         "source": ["Advanced Race Guide pg. 165"]
     },
     "longshanks":     {
@@ -13628,6 +14042,7 @@ var featDict = {
     "lookout":     {
         "key": "lookout",
         "name": "Lookout",
+        "name_zh": "警备",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -13653,6 +14068,7 @@ var featDict = {
     "low profile":     {
         "key": "low profile",
         "name": "Low Profile",
+        "name_zh": "矮身迎敌",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 164"]
     },
@@ -13670,6 +14086,7 @@ var featDict = {
     "luck of heroes":     {
         "key": "luck of heroes",
         "name": "Luck of Heroes",
+        "name_zh": "好运连连",
         "descriptors": ["Hero Point"],
         "source": ["Advanced Player's Guide pg. 324"],
         "prerequisiteKeys": ["hero's fortune"]
@@ -13677,6 +14094,7 @@ var featDict = {
     "lucky halfling":     {
         "key": "lucky halfling",
         "name": "Lucky Halfling",
+        "name_zh": "幸运半身人",
         "source":         [
             "Advanced Player's Guide pg. 165",
             "Dark Markets - A Guide to Katapesh pg. 13"
@@ -13685,11 +14103,13 @@ var featDict = {
     "lucky healer":     {
         "key": "lucky healer",
         "name": "Lucky Healer",
+        "name_zh": "幸运治疗",
         "source": ["Advanced Race Guide pg. 66"]
     },
     "lucky strike":     {
         "key": "lucky strike",
         "name": "Lucky Strike",
+        "name_zh": "幸运打击",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 67"]
     },
@@ -13754,6 +14174,7 @@ var featDict = {
     "mage of the wild":     {
         "key": "mage of the wild",
         "name": "Mage of the Wild",
+        "name_zh": "荒野术者",
         "source": ["Advanced Race Guide pg. 28"],
         "prerequisiteKeys": ["attuned to the wild"]
     },
@@ -13795,6 +14216,7 @@ var featDict = {
     "magical tail":     {
         "key": "magical tail",
         "name": "Magical Tail",
+        "name_zh": "魔性之尾",
         "source": ["Advanced Race Guide pg. 193"]
     },
     "magnum opus":     {
@@ -13811,6 +14233,7 @@ var featDict = {
     "major spell expertise":     {
         "key": "major spell expertise",
         "name": "Major Spell Expertise",
+        "name_zh": "高等法术专修",
         "source": ["Advanced Player's Guide pg. 165"],
         "prerequisiteKeys": ["minor spell expertise"]
     },
@@ -13869,6 +14292,7 @@ var featDict = {
     "mantis style":     {
         "key": "mantis style",
         "name": "Mantis Style",
+        "name_zh": "螳螂拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13882,6 +14306,7 @@ var featDict = {
     "mantis torment":     {
         "key": "mantis torment",
         "name": "Mantis Torment",
+        "name_zh": "螳螂铁刺",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 108"],
         "prerequisiteKeys":         [
@@ -13894,6 +14319,7 @@ var featDict = {
     "mantis wisdom":     {
         "key": "mantis wisdom",
         "name": "Mantis Wisdom",
+        "name_zh": "六合拳劲",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 108"],
         "prerequisiteKeys":         [
@@ -13923,6 +14349,7 @@ var featDict = {
     "marid coldsnap":     {
         "key": "marid coldsnap",
         "name": "Marid Coldsnap",
+        "name_zh": "雪暴",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 108"],
         "prerequisiteKeys":         [
@@ -13935,6 +14362,7 @@ var featDict = {
     "marid spirit":     {
         "key": "marid spirit",
         "name": "Marid Spirit",
+        "name_zh": "冰魂",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 108"],
         "prerequisiteKeys":         [
@@ -13946,6 +14374,7 @@ var featDict = {
     "marid style":     {
         "key": "marid style",
         "name": "Marid Style",
+        "name_zh": "雪灵",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13992,6 +14421,7 @@ var featDict = {
     "martial mastery":     {
         "key": "martial mastery",
         "name": "Martial Mastery",
+        "name_zh": "武器熟稔",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 78"],
         "prerequisiteKeys": ["martial versatility"]
@@ -13999,6 +14429,7 @@ var featDict = {
     "martial versatility":     {
         "key": "martial versatility",
         "name": "Martial Versatility",
+        "name_zh": "武器变通",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 78"]
     },
@@ -14071,11 +14502,13 @@ var featDict = {
     "master alchemist":     {
         "key": "master alchemist",
         "name": "Master Alchemist",
+        "name_zh": "炼金大师",
         "source": ["Advanced Player's Guide pg. 165"]
     },
     "master combat performer":     {
         "key": "master combat performer",
         "name": "Master Combat Performer",
+        "name_zh": "演武大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 109"],
         "prerequisiteKeys": ["performing combatant"]
@@ -14142,6 +14575,7 @@ var featDict = {
     "master siege engineer":     {
         "key": "master siege engineer",
         "name": "Master Siege Engineer",
+        "name_zh": "攻城宗匠",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 109"]
     },
@@ -14164,6 +14598,7 @@ var featDict = {
     "masterful display":     {
         "key": "masterful display",
         "name": "Masterful Display",
+        "name_zh": "宗师极意",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -14196,6 +14631,7 @@ var featDict = {
     "maximized spellstrike":     {
         "key": "maximized spellstrike",
         "name": "Maximized Spellstrike",
+        "name_zh": "极效法术打击",
         "source": ["Ultimate Combat pg. 109"],
         "prerequisiteKeys": ["quick draw"]
     },
@@ -14252,6 +14688,7 @@ var featDict = {
     "menacing bane":     {
         "key": "menacing bane",
         "name": "Menacing Bane",
+        "name_zh": "威胁破敌",
         "source": ["Ultimate Combat pg. 109"]
     },
     "mental derail":     {
@@ -14268,11 +14705,13 @@ var featDict = {
     "merciful bane":     {
         "key": "merciful bane",
         "name": "Merciful Bane",
+        "name_zh": "悲悯破敌",
         "source": ["Ultimate Combat pg. 109"]
     },
     "merciful spell":     {
         "key": "merciful spell",
         "name": "Merciful Spell",
+        "name_zh": "慈悯法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 165"]
     },
@@ -14339,6 +14778,7 @@ var featDict = {
     "metallic wings":     {
         "key": "metallic wings",
         "name": "Metallic Wings",
+        "name_zh": "金属之翼",
         "source": ["Advanced Race Guide pg. 88"],
         "prerequisiteKeys":         [
             "angel wings",
@@ -14409,6 +14849,7 @@ var featDict = {
     "minor spell expertise":     {
         "key": "minor spell expertise",
         "name": "Minor Spell Expertise",
+        "name_zh": "次等法术专修",
         "source": ["Advanced Player's Guide pg. 165"]
     },
     "minotaur's charge":     {
@@ -14472,6 +14913,7 @@ var featDict = {
     "missile shield":     {
         "key": "missile shield",
         "name": "Missile Shield",
+        "name_zh": "盾牌辟矢",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 165"],
         "prerequisiteKeys": ["shield focus"]
@@ -14539,6 +14981,7 @@ var featDict = {
     "mocking dance":     {
         "key": "mocking dance",
         "name": "Mocking Dance",
+        "name_zh": "嘲弄舞步",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -14581,6 +15024,7 @@ var featDict = {
     "monastic legacy":     {
         "key": "monastic legacy",
         "name": "Monastic Legacy",
+        "name_zh": "修道传承",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 109"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -14600,6 +15044,7 @@ var featDict = {
     "monkey moves":     {
         "key": "monkey moves",
         "name": "Monkey Moves",
+        "name_zh": "猿步",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 109"],
         "prerequisiteKeys":         [
@@ -14610,6 +15055,7 @@ var featDict = {
     "monkey shine":     {
         "key": "monkey shine",
         "name": "Monkey Shine",
+        "name_zh": "猿搏",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 110"],
         "prerequisiteKeys":         [
@@ -14622,6 +15068,7 @@ var featDict = {
     "monkey style":     {
         "key": "monkey style",
         "name": "Monkey Style",
+        "name_zh": "猴拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -14690,6 +15137,7 @@ var featDict = {
     "moonlight stalker feint":     {
         "key": "moonlight stalker feint",
         "name": "Moonlight Stalker Feint",
+        "name_zh": "月夜虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 110"],
         "prerequisiteKeys":         [
@@ -14702,6 +15150,7 @@ var featDict = {
     "moonlight stalker master":     {
         "key": "moonlight stalker master",
         "name": "Moonlight Stalker Master",
+        "name_zh": "月夜伏击大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 110"],
         "prerequisiteKeys":         [
@@ -14715,6 +15164,7 @@ var featDict = {
     "moonlight stalker":     {
         "key": "moonlight stalker",
         "name": "Moonlight Stalker",
+        "name_zh": "月夜伏击者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 110"],
         "prerequisiteKeys":         [
@@ -14725,6 +15175,7 @@ var featDict = {
     "moonlight summons":     {
         "key": "moonlight summons",
         "name": "Moonlight Summons",
+        "name_zh": "月光召唤",
         "source": ["Ultimate Magic pg. 153"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -14741,6 +15192,7 @@ var featDict = {
     "mother's gift":     {
         "key": "mother's gift",
         "name": "Mother's Gift",
+        "name_zh": "母亲赠礼",
         "source": ["Advanced Race Guide pg. 185"]
     },
     "motivated march":     {
@@ -14819,6 +15271,7 @@ var featDict = {
     "mounted shield":     {
         "key": "mounted shield",
         "name": "Mounted Shield",
+        "name_zh": "骑乘盾牌防御",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 165"],
         "prerequisiteKeys":         [
@@ -14829,6 +15282,7 @@ var featDict = {
     "mounted skirmisher":     {
         "key": "mounted skirmisher",
         "name": "Mounted Skirmisher",
+        "name_zh": "骑乘散兵",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 165"],
         "prerequisiteKeys":         [
@@ -14851,6 +15305,7 @@ var featDict = {
     "multiattack":     {
         "key": "multiattack",
         "name": "Multiattack",
+        "name_zh": "多重攻击",
         "descriptors":         [
             "Combat",
             "Monster"
@@ -14860,6 +15315,7 @@ var featDict = {
     "multitalented mastery":     {
         "key": "multitalented mastery",
         "name": "Multitalented Mastery",
+        "name_zh": "文武全能",
         "source": ["Advanced Race Guide pg. 47"]
     },
     "multiweapon defense":     {
@@ -14870,6 +15326,7 @@ var featDict = {
     "multiweapon fighting":     {
         "key": "multiweapon fighting",
         "name": "Multiweapon Fighting",
+        "name_zh": "多重武器战斗",
         "descriptors":         [
             "Combat",
             "Monster"
@@ -14884,6 +15341,7 @@ var featDict = {
     "murderer's circle":     {
         "key": "murderer's circle",
         "name": "Murderer's Circle",
+        "name_zh": "杀戮回旋",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -14906,6 +15364,7 @@ var featDict = {
     "murmurs of earth":     {
         "key": "murmurs of earth",
         "name": "Murmurs of Earth",
+        "name_zh": "大地的低语",
         "source": ["Advanced Race Guide pg. 147"],
         "prerequisiteKeys": ["echoes of stone"]
     },
@@ -14976,6 +15435,7 @@ var featDict = {
     "mystic stride":     {
         "key": "mystic stride",
         "name": "Mystic Stride",
+        "name_zh": "高等穿林",
         "source": ["Ultimate Magic pg. 153"],
         "prerequisiteKeys": ["nimble moves"]
     },
@@ -15030,6 +15490,7 @@ var featDict = {
     "natural charmer":     {
         "key": "natural charmer",
         "name": "Natural Charmer",
+        "name_zh": "天生丽质",
         "source": ["Advanced Race Guide pg. 100"]
     },
     "natural jouster":     {
@@ -15094,6 +15555,7 @@ var featDict = {
     "neckbreaker":     {
         "key": "neckbreaker",
         "name": "Neckbreaker",
+        "name_zh": "碎颈者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys":         [
@@ -15124,6 +15586,7 @@ var featDict = {
     "neither elf nor human":     {
         "key": "neither elf nor human",
         "name": "Neither Elf nor Human",
+        "name_zh": "既非精灵也非人类",
         "source": ["Advanced Race Guide pg. 47"],
         "prerequisiteKeys":         [
             "exile's path",
@@ -15145,6 +15608,7 @@ var featDict = {
     "net adept":     {
         "key": "net adept",
         "name": "Net Adept",
+        "name_zh": "捕网熟练",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys": ["exotic weapon proficiency"]
@@ -15152,6 +15616,7 @@ var featDict = {
     "net and trident":     {
         "key": "net and trident",
         "name": "Net and Trident",
+        "name_zh": "网叉并用",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys":         [
@@ -15163,6 +15628,7 @@ var featDict = {
     "net maneuvering":     {
         "key": "net maneuvering",
         "name": "Net Maneuvering",
+        "name_zh": "捕网战技",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys":         [
@@ -15173,6 +15639,7 @@ var featDict = {
     "net trickery":     {
         "key": "net trickery",
         "name": "Net Trickery",
+        "name_zh": "捕网诡计",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys":         [
@@ -15214,6 +15681,7 @@ var featDict = {
     "nightmare fist":     {
         "key": "nightmare fist",
         "name": "Nightmare Fist",
+        "name_zh": "夜魇之拳",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -15226,6 +15694,7 @@ var featDict = {
     "nightmare striker":     {
         "key": "nightmare striker",
         "name": "Nightmare Striker",
+        "name_zh": "夜魇强袭",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 111"],
         "prerequisiteKeys":         [
@@ -15238,6 +15707,7 @@ var featDict = {
     "nightmare weaver":     {
         "key": "nightmare weaver",
         "name": "Nightmare Weaver",
+        "name_zh": "夜魇织者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"],
         "prerequisiteKeys":         [
@@ -15263,12 +15733,14 @@ var featDict = {
     "nimble striker":     {
         "key": "nimble striker",
         "name": "Nimble Striker",
+        "name_zh": "机敏前锋",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 94"]
     },
     "no name":     {
         "key": "no name",
         "name": "No Name",
+        "name_zh": "无名枪手",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 112"]
     },
@@ -15296,6 +15768,7 @@ var featDict = {
     "noble spell resistance":     {
         "key": "noble spell resistance",
         "name": "Noble Spell Resistance",
+        "name_zh": "卓越法术抗力",
         "source": ["Advanced Race Guide pg. 105"],
         "prerequisiteKeys": ["greater drow nobility"]
     },
@@ -15514,6 +15987,7 @@ var featDict = {
     "opening volley":     {
         "key": "opening volley",
         "name": "Opening Volley",
+        "name_zh": "远近夹攻",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"]
     },
@@ -15526,6 +16000,7 @@ var featDict = {
     "oracular intuition":     {
         "key": "oracular intuition",
         "name": "Oracular Intuition",
+        "name_zh": "玄秘直觉",
         "source": ["Ultimate Magic pg. 153"]
     },
     "orator":     {
@@ -15550,6 +16025,7 @@ var featDict = {
     "orc hewer":     {
         "key": "orc hewer",
         "name": "Orc Hewer",
+        "name_zh": "兽人屠戮者",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -15584,6 +16060,7 @@ var featDict = {
     "orc weapon expertise":     {
         "key": "orc weapon expertise",
         "name": "Orc Weapon Expertise",
+        "name_zh": "兽人武器娴熟",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 142"]
     },
@@ -15598,12 +16075,14 @@ var featDict = {
     "oread burrower":     {
         "key": "oread burrower",
         "name": "Oread Burrower",
+        "name_zh": "土裔掘地者",
         "source": ["Advanced Race Guide pg. 147"],
         "prerequisiteKeys": ["stony step"]
     },
     "oread earth glider":     {
         "key": "oread earth glider",
         "name": "Oread Earth Glider",
+        "name_zh": "土裔潜地者",
         "source": ["Advanced Race Guide pg. 147"],
         "prerequisiteKeys":         [
             "oread burrower",
@@ -15676,6 +16155,7 @@ var featDict = {
     "outflank":     {
         "key": "outflank",
         "name": "Outflank",
+        "name_zh": "包抄",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -15833,6 +16313,7 @@ var featDict = {
     "pack attack":     {
         "key": "pack attack",
         "name": "Pack Attack",
+        "name_zh": "机动攻击",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -15876,6 +16357,7 @@ var featDict = {
     "painful anchor":     {
         "key": "painful anchor",
         "name": "Painful Anchor",
+        "name_zh": "痛苦之锚",
         "source": ["Ultimate Magic pg. 153"]
     },
     "painful blow":     {
@@ -15903,6 +16385,7 @@ var featDict = {
     "paired opportunists":     {
         "key": "paired opportunists",
         "name": "Paired Opportunists",
+        "name_zh": "双重借机",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -15917,6 +16400,7 @@ var featDict = {
     "panther claw":     {
         "key": "panther claw",
         "name": "Panther Claw",
+        "name_zh": "豹爪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"],
         "prerequisiteKeys":         [
@@ -15928,6 +16412,7 @@ var featDict = {
     "panther parry":     {
         "key": "panther parry",
         "name": "Panther Parry",
+        "name_zh": "迅豹闪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"],
         "prerequisiteKeys":         [
@@ -15940,6 +16425,7 @@ var featDict = {
     "panther style":     {
         "key": "panther style",
         "name": "Panther Style",
+        "name_zh": "豹形拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -15965,6 +16451,7 @@ var featDict = {
     "parry spell":     {
         "key": "parry spell",
         "name": "Parry Spell",
+        "name_zh": "回击法术",
         "source": ["Advanced Player's Guide pg. 166"],
         "prerequisiteKeys": ["improved counterspell"]
     },
@@ -15976,6 +16463,7 @@ var featDict = {
     "parting shot":     {
         "key": "parting shot",
         "name": "Parting Shot",
+        "name_zh": "牵制射击",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Player's Guide pg. 166",
@@ -15996,6 +16484,7 @@ var featDict = {
     "pass for human":     {
         "key": "pass for human",
         "name": "Pass For Human",
+        "name_zh": "人类之证",
         "source": ["Advanced Player's Guide pg. 166"]
     },
     "passing grace":     {
@@ -16007,6 +16496,7 @@ var featDict = {
     "passing trick":     {
         "key": "passing trick",
         "name": "Passing Trick",
+        "name_zh": "越位虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"],
         "prerequisiteKeys":         [
@@ -16115,6 +16605,7 @@ var featDict = {
     "perfect strike":     {
         "key": "perfect strike",
         "name": "Perfect Strike",
+        "name_zh": "完美打击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 166"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -16134,12 +16625,14 @@ var featDict = {
     "performance weapon mastery":     {
         "key": "performance weapon mastery",
         "name": "Performance Weapon Mastery",
+        "name_zh": "演武武器精通",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"]
     },
     "performing combatant":     {
         "key": "performing combatant",
         "name": "Performing Combatant",
+        "name_zh": "演武战士",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"],
         "prerequisiteKeys": ["dazzling display"]
@@ -16153,6 +16646,7 @@ var featDict = {
     "persistent spell":     {
         "key": "persistent spell",
         "name": "Persistent Spell",
+        "name_zh": "顽强法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 167"]
     },
@@ -16280,6 +16774,7 @@ var featDict = {
     "piercing spell":     {
         "key": "piercing spell",
         "name": "Piercing Spell",
+        "name_zh": "法术穿刺",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 154"]
     },
@@ -16296,6 +16791,7 @@ var featDict = {
     "pin down":     {
         "key": "pin down",
         "name": "Pin Down",
+        "name_zh": "压迫锚定",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"],
         "prerequisiteKeys": ["combat reflexes"]
@@ -16308,6 +16804,7 @@ var featDict = {
     "pinning knockout":     {
         "key": "pinning knockout",
         "name": "Pinning Knockout",
+        "name_zh": "压制击昏",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"],
         "prerequisiteKeys":         [
@@ -16319,6 +16816,7 @@ var featDict = {
     "pinning rend":     {
         "key": "pinning rend",
         "name": "Pinning Rend",
+        "name_zh": "撕裂压制",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"],
         "prerequisiteKeys":         [
@@ -16337,6 +16835,7 @@ var featDict = {
     "pinpoint poisoner":     {
         "key": "pinpoint poisoner",
         "name": "Pinpoint Poisoner",
+        "name_zh": "毒针刺击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"],
         "prerequisiteKeys":         [
@@ -16403,6 +16902,7 @@ var featDict = {
     "planar preservationist":     {
         "key": "planar preservationist",
         "name": "Planar Preservationist",
+        "name_zh": "异界博物学者",
         "source": ["Ultimate Magic pg. 154"]
     },
     "planar sensitivity":     {
@@ -16430,6 +16930,7 @@ var featDict = {
     "planar wild shape":     {
         "key": "planar wild shape",
         "name": "Planar Wild Shape",
+        "name_zh": "位面自然变身",
         "source": ["Ultimate Combat pg. 113"]
     },
     "planewalker's insight":     {
@@ -16451,6 +16952,7 @@ var featDict = {
     "point-blank master":     {
         "key": "point-blank master",
         "name": "Point-Blank Master",
+        "name_zh": "贴身射击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 167"]
     },
@@ -16580,6 +17082,7 @@ var featDict = {
     "powerful shape":     {
         "key": "powerful shape",
         "name": "Powerful Shape",
+        "name_zh": "壮硕形体",
         "source": ["Ultimate Magic pg. 154"]
     },
     "powerful tongue":     {
@@ -16624,6 +17127,7 @@ var featDict = {
     "practiced tactician":     {
         "key": "practiced tactician",
         "name": "Practiced Tactician",
+        "name_zh": "战术熟练",
         "source": ["Advanced Player's Guide pg. 167"]
     },
     "precipice strike":     {
@@ -16643,6 +17147,7 @@ var featDict = {
     "precise strike":     {
         "key": "precise strike",
         "name": "Precise Strike",
+        "name_zh": "精准打击",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -16657,6 +17162,7 @@ var featDict = {
     "preferred spell":     {
         "key": "preferred spell",
         "name": "Preferred Spell",
+        "name_zh": "偏好法术",
         "source": ["Advanced Player's Guide pg. 167"],
         "prerequisiteKeys": ["heighten spell"]
     },
@@ -16703,6 +17209,7 @@ var featDict = {
     "prodigy":     {
         "key": "prodigy",
         "name": "Prodigy",
+        "name_zh": "奇才",
         "source": ["Ultimate Magic pg. 154"]
     },
     "profane studies":     {
@@ -16718,12 +17225,14 @@ var featDict = {
     "prone shooter":     {
         "key": "prone shooter",
         "name": "Prone Shooter",
+        "name_zh": "匍匐射手",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"]
     },
     "prone slinger":     {
         "key": "prone slinger",
         "name": "Prone Slinger",
+        "name_zh": "匍匐投手",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"]
     },
@@ -16739,6 +17248,7 @@ var featDict = {
     "prophetic visionary":     {
         "key": "prophetic visionary",
         "name": "Prophetic Visionary",
+        "name_zh": "未来福音",
         "source": ["Ultimate Magic pg. 154"]
     },
     "prosperity and pride":     {
@@ -16908,11 +17418,15 @@ var featDict = {
         "key": "pungent stench",
         "name": "Pungent Stench",
         "source": ["Demons Revisited pg. 26"],
-        "prerequisiteKeys": ["improved stench"]
+        "prerequisiteKeys":         [
+            "great fortitude",
+            "improved stench"
+        ]
     },
     "punishing kick":     {
         "key": "punishing kick",
         "name": "Punishing Kick",
+        "name_zh": "扫堂腿",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 167"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -16933,6 +17447,7 @@ var featDict = {
     "pure faith":     {
         "key": "pure faith",
         "name": "Pure Faith",
+        "name_zh": "纯粹信仰",
         "source": ["Ultimate Magic pg. 154"]
     },
     "pure legion assault":     {
@@ -16972,6 +17487,7 @@ var featDict = {
     "pushing assault":     {
         "key": "pushing assault",
         "name": "Pushing Assault",
+        "name_zh": "推进强袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 167"],
         "prerequisiteKeys": ["power attack"]
@@ -16992,6 +17508,7 @@ var featDict = {
     "quarterstaff master":     {
         "key": "quarterstaff master",
         "name": "Quarterstaff Master",
+        "name_zh": "木棍大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Magic pg. 154"],
         "prerequisiteKeys": ["weapon focus"]
@@ -17004,6 +17521,7 @@ var featDict = {
     "quick bull rush":     {
         "key": "quick bull rush",
         "name": "Quick Bull Rush",
+        "name_zh": "快速冲撞",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 113"],
         "prerequisiteKeys":         [
@@ -17014,11 +17532,13 @@ var featDict = {
     "quick channel":     {
         "key": "quick channel",
         "name": "Quick Channel",
+        "name_zh": "快速导能",
         "source": ["Ultimate Magic pg. 154"]
     },
     "quick dirty trick":     {
         "key": "quick dirty trick",
         "name": "Quick Dirty Trick",
+        "name_zh": "快速阴招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
@@ -17029,6 +17549,7 @@ var featDict = {
     "quick drag":     {
         "key": "quick drag",
         "name": "Quick Drag",
+        "name_zh": "快速拖拽",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
@@ -17057,6 +17578,7 @@ var featDict = {
     "quick reposition":     {
         "key": "quick reposition",
         "name": "Quick Reposition",
+        "name_zh": "快速移位",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
@@ -17067,6 +17589,7 @@ var featDict = {
     "quick steal":     {
         "key": "quick steal",
         "name": "Quick Steal",
+        "name_zh": "快速盗取",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
@@ -17096,6 +17619,7 @@ var featDict = {
     "quick wild shape":     {
         "key": "quick wild shape",
         "name": "Quick Wild Shape",
+        "name_zh": "快速变身",
         "source": ["Ultimate Magic pg. 154"]
     },
     "quicken blessing":     {
@@ -17106,6 +17630,7 @@ var featDict = {
     "quicken spell-like ability":     {
         "key": "quicken spell-like ability",
         "name": "Quicken Spell-Like Ability",
+        "name_zh": "类法术能力瞬发",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 315"]
     },
@@ -17143,6 +17668,7 @@ var featDict = {
     "racial heritage":     {
         "key": "racial heritage",
         "name": "Racial Heritage",
+        "name_zh": "远古血脉",
         "source": ["Advanced Player's Guide pg. 168"]
     },
     "racial item mastery":     {
@@ -17154,6 +17680,7 @@ var featDict = {
     "radiant charge":     {
         "key": "radiant charge",
         "name": "Radiant Charge",
+        "name_zh": "光辉冲锋",
         "source": ["Ultimate Magic pg. 154"]
     },
     "rage casting":     {
@@ -17175,6 +17702,7 @@ var featDict = {
     "raging brutality":     {
         "key": "raging brutality",
         "name": "Raging Brutality",
+        "name_zh": "狂暴猛击",
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys": ["power attack"]
     },
@@ -17191,11 +17719,13 @@ var featDict = {
     "raging deathblow":     {
         "key": "raging deathblow",
         "name": "Raging Deathblow",
+        "name_zh": "狂暴杀戮",
         "source": ["Ultimate Combat pg. 114"]
     },
     "raging hurler":     {
         "key": "raging hurler",
         "name": "Raging Hurler",
+        "name_zh": "狂暴投掷",
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys": ["throw anything"]
     },
@@ -17208,6 +17738,7 @@ var featDict = {
     "raging throw":     {
         "key": "raging throw",
         "name": "Raging Throw",
+        "name_zh": "狂暴撞飞",
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
             "improved bull rush",
@@ -17217,6 +17748,7 @@ var featDict = {
     "raging vitality":     {
         "key": "raging vitality",
         "name": "Raging Vitality",
+        "name_zh": "狂暴活性",
         "source": ["Advanced Player's Guide pg. 168"]
     },
     "rahadoumi exorcist":     {
@@ -17284,6 +17816,7 @@ var featDict = {
     "rapid grappler":     {
         "key": "rapid grappler",
         "name": "Rapid Grappler",
+        "name_zh": "快速擒抱",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 114"],
         "prerequisiteKeys":         [
@@ -17347,6 +17880,7 @@ var featDict = {
     "ray shield":     {
         "key": "ray shield",
         "name": "Ray Shield",
+        "name_zh": "盾牌反射",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 168"],
         "prerequisiteKeys":         [
@@ -17357,6 +17891,7 @@ var featDict = {
     "razortusk":     {
         "key": "razortusk",
         "name": "Razortusk",
+        "name_zh": "利牙突变",
         "source": ["Advanced Player's Guide pg. 168"]
     },
     "reach defense":     {
@@ -17374,6 +17909,7 @@ var featDict = {
     "reach spell":     {
         "key": "reach spell",
         "name": "Reach Spell",
+        "name_zh": "及远法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 168"]
     },
@@ -17433,6 +17969,7 @@ var featDict = {
     "realistic likeness":     {
         "key": "realistic likeness",
         "name": "Realistic Likeness",
+        "name_zh": "乱真外表",
         "source": ["Advanced Race Guide pg. 193"]
     },
     "reap the infirm":     {
@@ -17444,12 +17981,14 @@ var featDict = {
     "rebounding leap":     {
         "key": "rebounding leap",
         "name": "Rebounding Leap",
+        "name_zh": "返身上马",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 115"]
     },
     "rebuffing reduction":     {
         "key": "rebuffing reduction",
         "name": "Rebuffing Reduction",
+        "name_zh": "爆肉刚体",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 115"],
         "prerequisiteKeys":         [
@@ -17648,17 +18187,20 @@ var featDict = {
     "remote bomb":     {
         "key": "remote bomb",
         "name": "Remote Bomb",
+        "name_zh": "遥控炸弹",
         "source": ["Ultimate Magic pg. 155"]
     },
     "rending claws":     {
         "key": "rending claws",
         "name": "Rending Claws",
+        "name_zh": "撕扯之爪",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 168"]
     },
     "rending fury":     {
         "key": "rending fury",
         "name": "Rending Fury",
+        "name_zh": "疯狂撕扯",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 116"]
     },
@@ -17685,6 +18227,7 @@ var featDict = {
     "repositioning strike":     {
         "key": "repositioning strike",
         "name": "Repositioning Strike",
+        "name_zh": "移位重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 168"],
         "prerequisiteKeys":         [
@@ -17700,11 +18243,13 @@ var featDict = {
     "resilient brute":     {
         "key": "resilient brute",
         "name": "Resilient Brute",
+        "name_zh": "兽性强韧",
         "source": ["Advanced Race Guide pg. 57"]
     },
     "resilient eidolon":     {
         "key": "resilient eidolon",
         "name": "Resilient Eidolon",
+        "name_zh": "坚韧幻灵",
         "source": ["Ultimate Magic pg. 155"]
     },
     "resistance mastery":     {
@@ -17722,6 +18267,7 @@ var featDict = {
     "resolute rager":     {
         "key": "resolute rager",
         "name": "Resolute Rager",
+        "name_zh": "刚毅狂暴",
         "source": ["Advanced Race Guide pg. 142"]
     },
     "respectful prey":     {
@@ -17771,6 +18317,7 @@ var featDict = {
     "revelation strike":     {
         "key": "revelation strike",
         "name": "Revelation Strike",
+        "name_zh": "启示打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 116"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -17793,6 +18340,7 @@ var featDict = {
     "reverse-feint":     {
         "key": "reverse-feint",
         "name": "Reverse-Feint",
+        "name_zh": "倒打一耙",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 142"],
         "prerequisiteKeys": ["toughness"]
@@ -17805,11 +18353,13 @@ var featDict = {
     "reward of grace":     {
         "key": "reward of grace",
         "name": "Reward of Grace",
+        "name_zh": "恩泽之赐",
         "source": ["Ultimate Magic pg. 155"]
     },
     "reward of life":     {
         "key": "reward of life",
         "name": "Reward of Life",
+        "name_zh": "生命之赐",
         "source": ["Ultimate Magic pg. 155"]
     },
     "reward of the faithful":     {
@@ -17825,6 +18375,7 @@ var featDict = {
     "rhetorical flourish":     {
         "key": "rhetorical flourish",
         "name": "Rhetorical Flourish",
+        "name_zh": "舌绽莲花",
         "source": ["Ultimate Combat pg. 116"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -17841,6 +18392,7 @@ var featDict = {
     "ricochet shot deed":     {
         "key": "ricochet shot deed",
         "name": "Ricochet Shot Deed",
+        "name_zh": "反弹射击",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 116"],
         "prerequisiteKeys": ["blind-fight"]
@@ -17848,6 +18400,7 @@ var featDict = {
     "ricochet splash weapon":     {
         "key": "ricochet splash weapon",
         "name": "Ricochet Splash Weapon",
+        "name_zh": "跳弹溅射",
         "source": ["Ultimate Magic pg. 155"],
         "prerequisiteKeys": ["throw anything"]
     },
@@ -17869,6 +18422,7 @@ var featDict = {
     "righteous healing":     {
         "key": "righteous healing",
         "name": "Righteous Healing",
+        "name_zh": "公正医疗",
         "source": ["Ultimate Combat pg. 116"]
     },
     "righteous orator":     {
@@ -17879,6 +18433,7 @@ var featDict = {
     "rime spell":     {
         "key": "rime spell",
         "name": "Rime Spell",
+        "name_zh": "霜冻法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 155"]
     },
@@ -17898,6 +18453,7 @@ var featDict = {
     "risky striker":     {
         "key": "risky striker",
         "name": "Risky Striker",
+        "name_zh": "危机战斗",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 67"]
     },
@@ -18061,6 +18617,7 @@ var featDict = {
     "sacred summons":     {
         "key": "sacred summons",
         "name": "Sacred Summons",
+        "name_zh": "神圣召唤",
         "source": ["Ultimate Magic pg. 155"]
     },
     "sacrificial adept":     {
@@ -18132,12 +18689,14 @@ var featDict = {
     "sap adept":     {
         "key": "sap adept",
         "name": "Sap Adept",
+        "name_zh": "闷棍手",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 116"]
     },
     "sap master":     {
         "key": "sap master",
         "name": "Sap Master",
+        "name_zh": "闷棍师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 116"],
         "prerequisiteKeys": ["sap adept"]
@@ -18150,6 +18709,7 @@ var featDict = {
     "savage display":     {
         "key": "savage display",
         "name": "Savage Display",
+        "name_zh": "凶蛮技俩",
         "descriptors":         [
             "Combat",
             "Performance"
@@ -18191,6 +18751,7 @@ var featDict = {
     "saving shield":     {
         "key": "saving shield",
         "name": "Saving Shield",
+        "name_zh": "盾牌掩护",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 168"],
         "prerequisiteKeys": ["shield proficiency"]
@@ -18249,6 +18810,7 @@ var featDict = {
     "scavenger's eye":     {
         "key": "scavenger's eye",
         "name": "Scavenger's Eye",
+        "name_zh": "拾荒者锐眼",
         "source": ["Advanced Race Guide pg. 165"]
     },
     "scavenger's luck":     {
@@ -18277,6 +18839,7 @@ var featDict = {
     "school strike":     {
         "key": "school strike",
         "name": "School Strike",
+        "name_zh": "学派打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 116"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -18304,6 +18867,7 @@ var featDict = {
     "scorching weapons":     {
         "key": "scorching weapons",
         "name": "Scorching Weapons",
+        "name_zh": "炙热武器",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 130"]
     },
@@ -18367,6 +18931,7 @@ var featDict = {
     "sea hunter":     {
         "key": "sea hunter",
         "name": "Sea Hunter",
+        "name_zh": "海之猎手",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 195"],
         "prerequisiteKeys": ["combat expertise"]
@@ -18374,6 +18939,7 @@ var featDict = {
     "sea legs":     {
         "key": "sea legs",
         "name": "Sea Legs",
+        "name_zh": "海腿子",
         "source": ["Ultimate Combat pg. 117"]
     },
     "searing distraction":     {
@@ -18391,6 +18957,7 @@ var featDict = {
     "second chance":     {
         "key": "second chance",
         "name": "Second Chance",
+        "name_zh": "燕归来",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 168"],
         "prerequisiteKeys": ["combat expertise"]
@@ -18438,6 +19005,7 @@ var featDict = {
     "secret stash deed":     {
         "key": "secret stash deed",
         "name": "Secret Stash Deed",
+        "name_zh": "未雨绸缪",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 116"]
     },
@@ -18479,6 +19047,7 @@ var featDict = {
     "seen and unseen":     {
         "key": "seen and unseen",
         "name": "Seen and Unseen",
+        "name_zh": "飘忽不定",
         "source": ["Advanced Race Guide pg. 47"],
         "prerequisiteKeys": ["exile's path"]
     },
@@ -18503,6 +19072,7 @@ var featDict = {
     "seize the moment":     {
         "key": "seize the moment",
         "name": "Seize the Moment",
+        "name_zh": "抓准时机",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -18522,6 +19092,7 @@ var featDict = {
     "selective spell":     {
         "key": "selective spell",
         "name": "Selective Spell",
+        "name_zh": "甄选法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 168"]
     },
@@ -18555,6 +19126,7 @@ var featDict = {
     "sense link":     {
         "key": "sense link",
         "name": "Sense Link",
+        "name_zh": "感官纽带",
         "source": ["Ultimate Magic pg. 155"]
     },
     "sense loyalties":     {
@@ -18630,6 +19202,7 @@ var featDict = {
     "shadow caster":     {
         "key": "shadow caster",
         "name": "Shadow Caster",
+        "name_zh": "阴影术者",
         "source": ["Advanced Race Guide pg. 105"]
     },
     "shadow dodge":     {
@@ -18649,6 +19222,7 @@ var featDict = {
     "shadow ghost":     {
         "key": "shadow ghost",
         "name": "Shadow Ghost",
+        "name_zh": "暗影幽灵",
         "source": ["Advanced Race Guide pg. 112"]
     },
     "shadow grasp":     {
@@ -18675,12 +19249,14 @@ var featDict = {
     "shadow strike":     {
         "key": "shadow strike",
         "name": "Shadow Strike",
+        "name_zh": "阴影奇袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 169"]
     },
     "shadow walker":     {
         "key": "shadow walker",
         "name": "Shadow Walker",
+        "name_zh": "暗影行者",
         "source": ["Advanced Race Guide pg. 112"]
     },
     "shadow's embrace":     {
@@ -18703,11 +19279,13 @@ var featDict = {
     "shadowy dash":     {
         "key": "shadowy dash",
         "name": "Shadowy Dash",
+        "name_zh": "虚影冲刺",
         "source": ["Advanced Race Guide pg. 211"]
     },
     "shaitan earthblast":     {
         "key": "shaitan earthblast",
         "name": "Shaitan Earthblast",
+        "name_zh": "地裂",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 117"],
         "prerequisiteKeys":         [
@@ -18720,6 +19298,7 @@ var featDict = {
     "shaitan skin":     {
         "key": "shaitan skin",
         "name": "Shaitan Skin",
+        "name_zh": "土隐",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 118"],
         "prerequisiteKeys":         [
@@ -18731,6 +19310,7 @@ var featDict = {
     "shaitan style":     {
         "key": "shaitan style",
         "name": "Shaitan Style",
+        "name_zh": "土灵",
         "descriptors":         [
             "Combat",
             "Style"
@@ -18744,6 +19324,7 @@ var featDict = {
     "shake it off":     {
         "key": "shake it off",
         "name": "Shake It Off",
+        "name_zh": "摆脱困境",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 118"]
     },
@@ -18772,6 +19353,7 @@ var featDict = {
     "shapeshifter foil":     {
         "key": "shapeshifter foil",
         "name": "Shapeshifter Foil",
+        "name_zh": "阻遏变身",
         "source": ["Ultimate Combat pg. 118"]
     },
     "shapeshifter savage":     {
@@ -18803,11 +19385,13 @@ var featDict = {
     "shapeshifting hunter":     {
         "key": "shapeshifting hunter",
         "name": "Shapeshifting Hunter",
+        "name_zh": "变身猎手",
         "source": ["Ultimate Combat pg. 118"]
     },
     "shaping focus":     {
         "key": "shaping focus",
         "name": "Shaping Focus",
+        "name_zh": "变形专精",
         "source": ["Ultimate Magic pg. 155"]
     },
     "share feature":     {
@@ -18831,16 +19415,19 @@ var featDict = {
     "shared insight":     {
         "key": "shared insight",
         "name": "Shared Insight",
+        "name_zh": "感官共享",
         "source": ["Advanced Player's Guide pg. 169"]
     },
     "shared judgment":     {
         "key": "shared judgment",
         "name": "Shared Judgment",
+        "name_zh": "共享审判",
         "source": ["Ultimate Combat pg. 118"]
     },
     "shared manipulation":     {
         "key": "shared manipulation",
         "name": "Shared Manipulation",
+        "name_zh": "众口铄金",
         "source": ["Advanced Race Guide pg. 47"]
     },
     "shared ownership":     {
@@ -18908,11 +19495,13 @@ var featDict = {
     "sharp senses":     {
         "key": "sharp senses",
         "name": "Sharp Senses",
+        "name_zh": "精确感官",
         "source": ["Advanced Player's Guide pg. 169"]
     },
     "sharpclaw":     {
         "key": "sharpclaw",
         "name": "Sharpclaw",
+        "name_zh": "锐爪",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 154"]
     },
@@ -18956,6 +19545,7 @@ var featDict = {
     "shatterspell":     {
         "key": "shatterspell",
         "name": "Shatterspell",
+        "name_zh": "碎法",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 18"],
         "prerequisiteKeys":         [
@@ -19036,6 +19626,7 @@ var featDict = {
     "shield of swings":     {
         "key": "shield of swings",
         "name": "Shield of Swings",
+        "name_zh": "剑刃屏障",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 169"],
         "prerequisiteKeys": ["power attack"]
@@ -19073,6 +19664,7 @@ var featDict = {
     "shield specialization":     {
         "key": "shield specialization",
         "name": "Shield Specialization",
+        "name_zh": "盾牌专精",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 169"],
         "prerequisiteKeys": ["shield focus"]
@@ -19080,6 +19672,7 @@ var featDict = {
     "shield wall":     {
         "key": "shield wall",
         "name": "Shield Wall",
+        "name_zh": "盾墙",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -19090,6 +19683,7 @@ var featDict = {
     "shielded caster":     {
         "key": "shielded caster",
         "name": "Shielded Caster",
+        "name_zh": "持盾施法",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Player's Guide pg. 169"]
     },
@@ -19313,12 +19907,14 @@ var featDict = {
     "sickening spell":     {
         "key": "sickening spell",
         "name": "Sickening Spell",
+        "name_zh": "感染法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 169"]
     },
     "sidestep":     {
         "key": "sidestep",
         "name": "Sidestep",
+        "name_zh": "滑步",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 169"],
         "prerequisiteKeys":         [
@@ -19329,18 +19925,21 @@ var featDict = {
     "siege commander":     {
         "key": "siege commander",
         "name": "Siege Commander",
+        "name_zh": "攻城将领",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 118"]
     },
     "siege engineer":     {
         "key": "siege engineer",
         "name": "Siege Engineer",
+        "name_zh": "攻城技师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 118"]
     },
     "siege gunner":     {
         "key": "siege gunner",
         "name": "Siege Gunner",
+        "name_zh": "攻城炮手",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 118"],
         "prerequisiteKeys": ["siege engineer"]
@@ -19348,6 +19947,7 @@ var featDict = {
     "signature deed":     {
         "key": "signature deed",
         "name": "Signature Deed",
+        "name_zh": "招牌动作",
         "descriptors": ["Grit"],
         "source": ["Ultimate Combat pg. 119"]
     },
@@ -19441,6 +20041,7 @@ var featDict = {
     "sin seer":     {
         "key": "sin seer",
         "name": "Sin Seer",
+        "name_zh": "罪孽先知",
         "source": ["Ultimate Magic pg. 155"]
     },
     "sin-sharing critical":     {
@@ -19551,6 +20152,7 @@ var featDict = {
     "skeleton summoner":     {
         "key": "skeleton summoner",
         "name": "Skeleton Summoner",
+        "name_zh": "骷髅召唤者",
         "source": ["Ultimate Magic pg. 155"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -19563,6 +20165,7 @@ var featDict = {
     "skilled driver":     {
         "key": "skilled driver",
         "name": "Skilled Driver",
+        "name_zh": "熟练御者",
         "source": ["Ultimate Combat pg. 119"]
     },
     "skilled rager":     {
@@ -19612,7 +20215,10 @@ var featDict = {
         "name": "Slashing Grace",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 156"],
-        "prerequisiteKeys": ["weapon finesse"]
+        "prerequisiteKeys":         [
+            "weapon finesse",
+            "weapon focus"
+        ]
     },
     "slayer's feint":     {
         "key": "slayer's feint",
@@ -19627,6 +20233,7 @@ var featDict = {
     "slayer's knack":     {
         "key": "slayer's knack",
         "name": "Slayer's Knack",
+        "name_zh": "杀戮诀窍",
         "source": ["Ultimate Combat pg. 119"]
     },
     "slaying sprint":     {
@@ -19642,6 +20249,7 @@ var featDict = {
     "sleep venom":     {
         "key": "sleep venom",
         "name": "Sleep Venom",
+        "name_zh": "昏睡毒素",
         "source": ["Advanced Race Guide pg. 209"]
     },
     "sleeper hold":     {
@@ -19672,6 +20280,7 @@ var featDict = {
     "sling flail":     {
         "key": "sling flail",
         "name": "Sling Flail",
+        "name_zh": "流星链索",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 119"],
         "prerequisiteKeys": ["weapon focus"]
@@ -19769,6 +20378,7 @@ var featDict = {
     "smash":     {
         "key": "smash",
         "name": "Smash",
+        "name_zh": "粉碎击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 170"],
         "prerequisiteKeys": ["power attack"]
@@ -19822,6 +20432,7 @@ var featDict = {
     "smell fear":     {
         "key": "smell fear",
         "name": "Smell Fear",
+        "name_zh": "恐惧气味",
         "source": ["Advanced Player's Guide pg. 170"],
         "prerequisiteKeys": ["keen scent"]
     },
@@ -19851,6 +20462,7 @@ var featDict = {
     "snake fang":     {
         "key": "snake fang",
         "name": "Snake Fang",
+        "name_zh": "白蛇吐信",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 119"],
         "prerequisiteKeys":         [
@@ -19863,6 +20475,7 @@ var featDict = {
     "snake sidewind":     {
         "key": "snake sidewind",
         "name": "Snake Sidewind",
+        "name_zh": "蛇行",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 119"],
         "prerequisiteKeys":         [
@@ -19873,6 +20486,7 @@ var featDict = {
     "snake style":     {
         "key": "snake style",
         "name": "Snake Style",
+        "name_zh": "腾蛇",
         "descriptors":         [
             "Combat",
             "Style"
@@ -19883,6 +20497,7 @@ var featDict = {
     "snap shot":     {
         "key": "snap shot",
         "name": "Snap Shot",
+        "name_zh": "快枪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 119"],
         "prerequisiteKeys":         [
@@ -19909,6 +20524,7 @@ var featDict = {
     "snapping turtle clutch":     {
         "key": "snapping turtle clutch",
         "name": "Snapping Turtle Clutch",
+        "name_zh": "龟爪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys":         [
@@ -19920,6 +20536,7 @@ var featDict = {
     "snapping turtle shell":     {
         "key": "snapping turtle shell",
         "name": "Snapping Turtle Shell",
+        "name_zh": "龟甲",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys":         [
@@ -19932,6 +20549,7 @@ var featDict = {
     "snapping turtle style":     {
         "key": "snapping turtle style",
         "name": "Snapping Turtle Style",
+        "name_zh": "鳄龟势",
         "descriptors":         [
             "Combat",
             "Style"
@@ -19963,6 +20581,7 @@ var featDict = {
     "snatch":     {
         "key": "snatch",
         "name": "Snatch",
+        "name_zh": "攫抓",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 316"]
     },
@@ -19979,6 +20598,7 @@ var featDict = {
     "sneaking precision":     {
         "key": "sneaking precision",
         "name": "Sneaking Precision",
+        "name_zh": "精准偷袭",
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys": ["critical focus"]
     },
@@ -20025,6 +20645,7 @@ var featDict = {
     "sociable":     {
         "key": "sociable",
         "name": "Sociable",
+        "name_zh": "社交性",
         "source": ["Advanced Player's Guide pg. 170"]
     },
     "social bravery":     {
@@ -20067,11 +20688,13 @@ var featDict = {
     "sorcerous bloodstrike":     {
         "key": "sorcerous bloodstrike",
         "name": "Sorcerous Bloodstrike",
+        "name_zh": "术士血池",
         "source": ["Ultimate Magic pg. 156"]
     },
     "sorcerous strike":     {
         "key": "sorcerous strike",
         "name": "Sorcerous Strike",
+        "name_zh": "术士打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -20189,6 +20812,7 @@ var featDict = {
     "spell bane":     {
         "key": "spell bane",
         "name": "Spell Bane",
+        "name_zh": "法术破敌",
         "source": ["Ultimate Combat pg. 120"]
     },
     "spell bluff (ah)":     {
@@ -20200,6 +20824,7 @@ var featDict = {
     "spell bluff (um)":     {
         "key": "spell bluff (um)",
         "name": "Spell Bluff (UM)",
+        "name_zh": "法术欺诈",
         "source": ["Ultimate Magic pg. 156"]
     },
     "spell cartridges":     {
@@ -20240,6 +20865,7 @@ var featDict = {
     "spell hex":     {
         "key": "spell hex",
         "name": "Spell Hex",
+        "name_zh": "魔法巫术",
         "source": ["Ultimate Magic pg. 156"]
     },
     "spell mastery":     {
@@ -20257,6 +20883,7 @@ var featDict = {
     "spell perfection":     {
         "key": "spell perfection",
         "name": "Spell Perfection",
+        "name_zh": "完全法术",
         "source": ["Advanced Player's Guide pg. 170"]
     },
     "spell praxis":     {
@@ -20271,6 +20898,7 @@ var featDict = {
     "spell specialization":     {
         "key": "spell specialization",
         "name": "Spell Specialization",
+        "name_zh": "法术专精",
         "source": ["Ultimate Magic pg. 156"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -20317,21 +20945,25 @@ var featDict = {
     "spellsong":     {
         "key": "spellsong",
         "name": "Spellsong",
+        "name_zh": "咒歌",
         "source": ["Ultimate Magic pg. 156"]
     },
     "spider climber":     {
         "key": "spider climber",
         "name": "Spider Climber",
+        "name_zh": "蛛行攀爬",
         "source": ["Advanced Race Guide pg. 106"]
     },
     "spider step":     {
         "key": "spider step",
         "name": "Spider Step",
+        "name_zh": "壁虎游墙",
         "source": ["Advanced Player's Guide pg. 170"]
     },
     "spider summoner":     {
         "key": "spider summoner",
         "name": "Spider Summoner",
+        "name_zh": "蜘蛛召唤者",
         "source": ["Advanced Race Guide pg. 106"]
     },
     "spiked destroyer":     {
@@ -20346,6 +20978,7 @@ var featDict = {
     "spinning throw":     {
         "key": "spinning throw",
         "name": "Spinning Throw",
+        "name_zh": "回旋推手",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys":         [
@@ -20388,6 +21021,7 @@ var featDict = {
     "spirit of the wild":     {
         "key": "spirit of the wild",
         "name": "Spirit of the Wild",
+        "name_zh": "荒野精魂",
         "source": ["Advanced Race Guide pg. 28"],
         "prerequisiteKeys":         [
             "attuned to the wild",
@@ -20493,6 +21127,7 @@ var featDict = {
     "spit venom":     {
         "key": "spit venom",
         "name": "Spit Venom",
+        "name_zh": "喷毒",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 197"]
     },
@@ -20513,16 +21148,19 @@ var featDict = {
     "splintering weapon":     {
         "key": "splintering weapon",
         "name": "Splintering Weapon",
+        "name_zh": "爆碎武器",
         "source": ["Ultimate Combat pg. 120"]
     },
     "split hex":     {
         "key": "split hex",
         "name": "Split Hex",
+        "name_zh": "分裂巫术",
         "source": ["Ultimate Magic pg. 156"]
     },
     "split major hex":     {
         "key": "split major hex",
         "name": "Split Major Hex",
+        "name_zh": "分裂强力巫术",
         "source": ["Ultimate Magic pg. 156"],
         "prerequisiteKeys": ["split hex"]
     },
@@ -20535,6 +21173,7 @@ var featDict = {
     "spontaneous metafocus":     {
         "key": "spontaneous metafocus",
         "name": "Spontaneous Metafocus",
+        "name_zh": "自发集中",
         "source": ["Ultimate Magic pg. 157"]
     },
     "spontaneous nature's ally":     {
@@ -20645,6 +21284,7 @@ var featDict = {
     "stabbing shot":     {
         "key": "stabbing shot",
         "name": "Stabbing Shot",
+        "name_zh": "迫退射击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 170"],
         "prerequisiteKeys": ["rapid shot"]
@@ -20688,6 +21328,7 @@ var featDict = {
     "stage combatant":     {
         "key": "stage combatant",
         "name": "Stage Combatant",
+        "name_zh": "演武斗士",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 120"],
         "prerequisiteKeys": ["weapon focus"]
@@ -20728,6 +21369,7 @@ var featDict = {
     "stalwart":     {
         "key": "stalwart",
         "name": "Stalwart",
+        "name_zh": "坚毅",
         "source": ["Ultimate Combat pg. 121"],
         "prerequisiteKeys":         [
             "diehard",
@@ -20757,6 +21399,7 @@ var featDict = {
     "starlight summons":     {
         "key": "starlight summons",
         "name": "Starlight Summons",
+        "name_zh": "星光召唤",
         "source": ["Ultimate Magic pg. 157"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -20845,6 +21488,7 @@ var featDict = {
     "stealth synergy":     {
         "key": "stealth synergy",
         "name": "Stealth Synergy",
+        "name_zh": "协同隐藏",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 121"]
     },
@@ -20857,6 +21501,7 @@ var featDict = {
     "steam caster":     {
         "key": "steam caster",
         "name": "Steam Caster",
+        "name_zh": "蒸汽术者",
         "source": ["Advanced Race Guide pg. 178"]
     },
     "steam spell":     {
@@ -20868,6 +21513,7 @@ var featDict = {
     "steel soul":     {
         "key": "steel soul",
         "name": "Steel Soul",
+        "name_zh": "钢铁之魂",
         "source": ["Advanced Player's Guide pg. 170"]
     },
     "steelskin channel":     {
@@ -20888,6 +21534,7 @@ var featDict = {
     "step up and strike":     {
         "key": "step up and strike",
         "name": "Step Up and Strike",
+        "name_zh": "飞步进击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 170"],
         "prerequisiteKeys":         [
@@ -20974,6 +21621,7 @@ var featDict = {
     "stoic pose":     {
         "key": "stoic pose",
         "name": "Stoic Pose",
+        "name_zh": "雕像姿态",
         "source": ["Advanced Race Guide pg. 205"]
     },
     "stoic":     {
@@ -21026,6 +21674,7 @@ var featDict = {
     "stone sense":     {
         "key": "stone sense",
         "name": "Stone Sense",
+        "name_zh": "岩石感官",
         "source": ["Advanced Player's Guide pg. 170"],
         "prerequisiteKeys": ["improved stonecunning"]
     },
@@ -21037,6 +21686,7 @@ var featDict = {
     "stone singer":     {
         "key": "stone singer",
         "name": "Stone Singer",
+        "name_zh": "岩之歌者",
         "source": ["Advanced Player's Guide pg. 171"]
     },
     "stone soul":     {
@@ -21057,6 +21707,7 @@ var featDict = {
     "stone-faced":     {
         "key": "stone-faced",
         "name": "Stone-Faced",
+        "name_zh": "岩石面容",
         "source": ["Advanced Player's Guide pg. 170"]
     },
     "stone-handed":     {
@@ -21078,6 +21729,7 @@ var featDict = {
     "stony step":     {
         "key": "stony step",
         "name": "Stony Step",
+        "name_zh": "穿石步",
         "source": ["Advanced Race Guide pg. 147"]
     },
     "storm breaker":     {
@@ -21149,6 +21801,7 @@ var featDict = {
     "strangler (uc)":     {
         "key": "strangler (uc)",
         "name": "Strangler (UC)",
+        "name_zh": "扼杀",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 121"],
         "prerequisiteKeys":         [
@@ -21223,6 +21876,7 @@ var featDict = {
     "stretched wings":     {
         "key": "stretched wings",
         "name": "Stretched Wings",
+        "name_zh": "展翅",
         "source": ["Advanced Race Guide pg. 201"],
         "prerequisiteKeys": ["skill focus"]
     },
@@ -21243,6 +21897,7 @@ var featDict = {
     "strong comeback":     {
         "key": "strong comeback",
         "name": "Strong Comeback",
+        "name_zh": "知错能改",
         "source": ["Ultimate Combat pg. 121"]
     },
     "strong implement link":     {
@@ -21314,6 +21969,7 @@ var featDict = {
     "stunning assault":     {
         "key": "stunning assault",
         "name": "Stunning Assault",
+        "name_zh": "震慑强袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 171"],
         "prerequisiteKeys": ["power attack"]
@@ -21366,6 +22022,7 @@ var featDict = {
     "stunning pin":     {
         "key": "stunning pin",
         "name": "Stunning Pin",
+        "name_zh": "震慑压制",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 122"],
         "prerequisiteKeys":         [
@@ -21477,6 +22134,7 @@ var featDict = {
     "summoner's call":     {
         "key": "summoner's call",
         "name": "Summoner's Call",
+        "name_zh": "召唤师呼唤",
         "source": ["Advanced Player's Guide pg. 171"]
     },
     "sun striker":     {
@@ -21508,6 +22166,7 @@ var featDict = {
     "sundering strike":     {
         "key": "sundering strike",
         "name": "Sundering Strike",
+        "name_zh": "破武重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 171"],
         "prerequisiteKeys":         [
@@ -21518,6 +22177,7 @@ var featDict = {
     "sunlight summons":     {
         "key": "sunlight summons",
         "name": "Sunlight Summons",
+        "name_zh": "日光召唤",
         "source": ["Ultimate Magic pg. 157"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -21561,6 +22221,7 @@ var featDict = {
     "superior summoning":     {
         "key": "superior summoning",
         "name": "Superior Summoning",
+        "name_zh": "高等召唤",
         "source": ["Ultimate Magic pg. 157"],
         "prerequisiteKeys": ["augment summoning"]
     },
@@ -21615,11 +22276,13 @@ var featDict = {
     "sure and fleet":     {
         "key": "sure and fleet",
         "name": "Sure and Fleet",
+        "name_zh": "飞毛腿",
         "source": ["Advanced Race Guide pg. 67"]
     },
     "sure grasp":     {
         "key": "sure grasp",
         "name": "Sure Grasp",
+        "name_zh": "可靠抓握",
         "source": ["Ultimate Combat pg. 122"]
     },
     "sure on ice":     {
@@ -21650,11 +22313,13 @@ var featDict = {
     "surge of success":     {
         "key": "surge of success",
         "name": "Surge of Success",
+        "name_zh": "胜利涌动",
         "source": ["Advanced Race Guide pg. 78"]
     },
     "surprise follow-through":     {
         "key": "surprise follow-through",
         "name": "Surprise Follow-Through",
+        "name_zh": "顺势突袭",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 57"],
         "prerequisiteKeys":         [
@@ -21671,6 +22336,7 @@ var featDict = {
     "surprise strike":     {
         "key": "surprise strike",
         "name": "Surprise Strike",
+        "name_zh": "意外伤害",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 67"],
         "prerequisiteKeys":         [
@@ -21716,6 +22382,7 @@ var featDict = {
     "swap places":     {
         "key": "swap places",
         "name": "Swap Places",
+        "name_zh": "换位",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -21765,6 +22432,7 @@ var featDict = {
     "swift aid":     {
         "key": "swift aid",
         "name": "Swift Aid",
+        "name_zh": "迅捷协助",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 172"],
         "prerequisiteKeys": ["combat expertise"]
@@ -21826,6 +22494,7 @@ var featDict = {
     "sword and pistol":     {
         "key": "sword and pistol",
         "name": "Sword and Pistol",
+        "name_zh": "枪剑击鸣",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 122"],
         "prerequisiteKeys":         [
@@ -21894,6 +22563,7 @@ var featDict = {
     "sympathetic rage":     {
         "key": "sympathetic rage",
         "name": "Sympathetic Rage",
+        "name_zh": "共鸣狂暴",
         "descriptors": ["Combat"],
         "source":         [
             "Advanced Race Guide pg. 57",
@@ -21928,6 +22598,7 @@ var featDict = {
     "tail terror":     {
         "key": "tail terror",
         "name": "Tail Terror",
+        "name_zh": "惊骇之尾",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 137"]
     },
@@ -22010,6 +22681,7 @@ var featDict = {
     "tandem trip":     {
         "key": "tandem trip",
         "name": "Tandem Trip",
+        "name_zh": "接力绊摔",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -22019,6 +22691,7 @@ var featDict = {
     "tangle feet":     {
         "key": "tangle feet",
         "name": "Tangle Feet",
+        "name_zh": "左脚绊右脚",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 118"],
         "prerequisiteKeys":         [
@@ -22050,6 +22723,7 @@ var featDict = {
     "target of opportunity":     {
         "key": "target of opportunity",
         "name": "Target of Opportunity",
+        "name_zh": "见缝插针",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -22067,6 +22741,7 @@ var featDict = {
     "taskmaster":     {
         "key": "taskmaster",
         "name": "Taskmaster",
+        "name_zh": "监工",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 124"],
         "prerequisiteKeys": ["demoralizing lash"]
@@ -22139,6 +22814,7 @@ var featDict = {
     "taunt":     {
         "key": "taunt",
         "name": "Taunt",
+        "name_zh": "毒舌讽刺",
         "source": ["Advanced Player's Guide pg. 172"]
     },
     "tavern regular":     {
@@ -22149,12 +22825,14 @@ var featDict = {
     "team pickpocketing":     {
         "key": "team pickpocketing",
         "name": "Team Pickpocketing",
+        "name_zh": "联手扒窃",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Combat pg. 122"]
     },
     "team up":     {
         "key": "team up",
         "name": "Team Up",
+        "name_zh": "团队进击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 172"],
         "prerequisiteKeys":         [
@@ -22175,12 +22853,16 @@ var featDict = {
         "name": "Technology Adept",
         "descriptors": ["Combat"],
         "source": ["Technology Guide pg. 7"],
-        "prerequisiteKeys": ["exotic weapon proficiency"]
+        "prerequisiteKeys":         [
+            "exotic weapon proficiency",
+            "point-blank shot"
+        ]
     },
     "technophobe":     {
         "key": "technophobe",
         "name": "Technophobe",
-        "source": ["Technology Guide pg. 7"]
+        "source": ["Technology Guide pg. 7"],
+        "prerequisiteKeys": ["improved sunder"]
     },
     "telekinetic mastery":     {
         "key": "telekinetic mastery",
@@ -22214,6 +22896,7 @@ var featDict = {
     "teleport tactician":     {
         "key": "teleport tactician",
         "name": "Teleport Tactician",
+        "name_zh": "传送抗击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 172"],
         "prerequisiteKeys":         [
@@ -22247,6 +22930,7 @@ var featDict = {
     "tenacious survivor":     {
         "key": "tenacious survivor",
         "name": "Tenacious Survivor",
+        "name_zh": "顽强幸存者",
         "source": ["Advanced Race Guide pg. 58"],
         "prerequisiteKeys":         [
             "diehard",
@@ -22256,6 +22940,7 @@ var featDict = {
     "tenacious transmutation":     {
         "key": "tenacious transmutation",
         "name": "Tenacious Transmutation",
+        "name_zh": "强固变化",
         "source": ["Advanced Player's Guide pg. 172"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -22268,12 +22953,14 @@ var featDict = {
     "tengu raven form":     {
         "key": "tengu raven form",
         "name": "Tengu Raven Form",
+        "name_zh": "鸦天狗",
         "source": ["Advanced Race Guide pg. 165"],
         "prerequisiteKeys": ["tengu wings"]
     },
     "tengu wings":     {
         "key": "tengu wings",
         "name": "Tengu Wings",
+        "name_zh": "天狗双翼",
         "source": ["Advanced Race Guide pg. 165"]
     },
     "terrain celerity":     {
@@ -22307,6 +22994,7 @@ var featDict = {
     "terrorizing display":     {
         "key": "terrorizing display",
         "name": "Terrorizing Display",
+        "name_zh": "骇人技巧",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 124"],
         "prerequisiteKeys":         [
@@ -22319,6 +23007,7 @@ var featDict = {
     "thanatopic spell":     {
         "key": "thanatopic spell",
         "name": "Thanatopic Spell",
+        "name_zh": "死圣法术",
         "descriptors": ["Metamagic"],
         "source":         [
             "Ultimate Magic pg. 157",
@@ -22329,6 +23018,7 @@ var featDict = {
     "theurgy":     {
         "key": "theurgy",
         "name": "Theurgy",
+        "name_zh": "神通",
         "source": ["Ultimate Magic pg. 157"]
     },
     "thicket channel":     {
@@ -22351,6 +23041,7 @@ var featDict = {
     "thoughtful discernment":     {
         "key": "thoughtful discernment",
         "name": "Thoughtful Discernment",
+        "name_zh": "深思熟虑",
         "source": ["Ultimate Magic pg. 157"]
     },
     "thousand cuts":     {
@@ -22382,6 +23073,7 @@ var featDict = {
     "threnodic spell":     {
         "key": "threnodic spell",
         "name": "Threnodic Spell",
+        "name_zh": "通灵法术",
         "descriptors": ["Metamagic"],
         "source":         [
             "Ultimate Magic pg. 157",
@@ -22398,6 +23090,7 @@ var featDict = {
     "thrill of the kill":     {
         "key": "thrill of the kill",
         "name": "Thrill of the Kill",
+        "name_zh": "杀戮之愉悦",
         "source":         [
             "Advanced Race Guide pg. 58",
             "Orcs of Golarion pg. 25"
@@ -22463,6 +23156,7 @@ var featDict = {
     "thundering spell":     {
         "key": "thundering spell",
         "name": "Thundering Spell",
+        "name_zh": "暴雷法术",
         "descriptors": ["Metamagic"],
         "source": ["Advanced Player's Guide pg. 172"]
     },
@@ -22485,6 +23179,7 @@ var featDict = {
     "tiger claws":     {
         "key": "tiger claws",
         "name": "Tiger Claws",
+        "name_zh": "虎爪功",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 122"],
         "prerequisiteKeys":         [
@@ -22495,6 +23190,7 @@ var featDict = {
     "tiger pounce":     {
         "key": "tiger pounce",
         "name": "Tiger Pounce",
+        "name_zh": "虎跃",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 122"],
         "prerequisiteKeys":         [
@@ -22507,6 +23203,7 @@ var featDict = {
     "tiger style":     {
         "key": "tiger style",
         "name": "Tiger Style",
+        "name_zh": "虎形拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -22597,6 +23294,7 @@ var featDict = {
     "toppling spell":     {
         "key": "toppling spell",
         "name": "Toppling Spell",
+        "name_zh": "法术击倒",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Magic pg. 158"]
     },
@@ -22672,6 +23370,7 @@ var featDict = {
     "touch of serenity":     {
         "key": "touch of serenity",
         "name": "Touch of Serenity",
+        "name_zh": "点血截脉",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 172"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -22735,6 +23434,7 @@ var featDict = {
     "toxic recovery":     {
         "key": "toxic recovery",
         "name": "Toxic Recovery",
+        "name_zh": "强韧自愈",
         "source": ["Advanced Race Guide pg. 18"]
     },
     "toxic secretions":     {
@@ -22762,7 +23462,10 @@ var featDict = {
         "key": "toxic stench",
         "name": "Toxic Stench",
         "source": ["Demons Revisited pg. 26"],
-        "prerequisiteKeys": ["improved stench"]
+        "prerequisiteKeys":         [
+            "improved stench",
+            "toughness"
+        ]
     },
     "toxicological timing":     {
         "key": "toxicological timing",
@@ -22812,12 +23515,14 @@ var featDict = {
     "trap wrecker":     {
         "key": "trap wrecker",
         "name": "Trap Wrecker",
+        "name_zh": "陷阱破坏者",
         "source": ["Advanced Race Guide pg. 142"],
         "prerequisiteKeys": ["power attack"]
     },
     "trapper's setup":     {
         "key": "trapper's setup",
         "name": "Trapper's Setup",
+        "name_zh": "陷阱师设置",
         "source": ["Ultimate Combat pg. 122"]
     },
     "traumatic spell-like ability":     {
@@ -22845,6 +23550,7 @@ var featDict = {
     "tree hanger":     {
         "key": "tree hanger",
         "name": "Tree Hanger",
+        "name_zh": "挂树功",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 207"]
     },
@@ -22900,6 +23606,7 @@ var featDict = {
     "trick riding":     {
         "key": "trick riding",
         "name": "Trick Riding",
+        "name_zh": "骑乘技巧",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 173"],
         "prerequisiteKeys": ["mounted combat"]
@@ -22927,6 +23634,7 @@ var featDict = {
     "tripping staff":     {
         "key": "tripping staff",
         "name": "Tripping Staff",
+        "name_zh": "木棍绊摔",
         "descriptors": ["Combat"],
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys":         [
@@ -22938,6 +23646,7 @@ var featDict = {
     "tripping strike":     {
         "key": "tripping strike",
         "name": "Tripping Strike",
+        "name_zh": "绊摔重击",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 173"],
         "prerequisiteKeys":         [
@@ -22948,6 +23657,7 @@ var featDict = {
     "tripping twirl":     {
         "key": "tripping twirl",
         "name": "Tripping Twirl",
+        "name_zh": "绊摔旋风",
         "descriptors": ["Combat"],
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys":         [
@@ -22961,6 +23671,7 @@ var featDict = {
     "triton portal":     {
         "key": "triton portal",
         "name": "Triton Portal",
+        "name_zh": "特里同之门",
         "source": ["Advanced Race Guide pg. 178"]
     },
     "troth of the forgotten pharaoh":     {
@@ -23022,6 +23733,7 @@ var featDict = {
     "tunnel rat":     {
         "key": "tunnel rat",
         "name": "Tunnel Rat",
+        "name_zh": "坑道鼠",
         "source": ["Advanced Race Guide pg. 154"]
     },
     "turbulent takeoff":     {
@@ -23087,6 +23799,7 @@ var featDict = {
     "twin thunders flurry":     {
         "key": "twin thunders flurry",
         "name": "Twin Thunders Flurry",
+        "name_zh": "雷霆连击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys": ["twin thunders"]
@@ -23094,6 +23807,7 @@ var featDict = {
     "twin thunders master":     {
         "key": "twin thunders master",
         "name": "Twin Thunders Master",
+        "name_zh": "雷霆大师",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys":         [
@@ -23104,6 +23818,7 @@ var featDict = {
     "twin thunders":     {
         "key": "twin thunders",
         "name": "Twin Thunders",
+        "name_zh": "雷霆双击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys": ["two-weapon fighting"]
@@ -23133,6 +23848,7 @@ var featDict = {
     "two-handed thrower":     {
         "key": "two-handed thrower",
         "name": "Two-Handed Thrower",
+        "name_zh": "双手掷者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"]
     },
@@ -23157,6 +23873,7 @@ var featDict = {
     "two-weapon feint":     {
         "key": "two-weapon feint",
         "name": "Two-Weapon Feint",
+        "name_zh": "双武器虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys":         [
@@ -23205,17 +23922,20 @@ var featDict = {
     "ultimate mercy":     {
         "key": "ultimate mercy",
         "name": "Ultimate Mercy",
+        "name_zh": "至高恩赐",
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys": ["greater mercy"]
     },
     "ultimate resolve":     {
         "key": "ultimate resolve",
         "name": "Ultimate Resolve",
+        "name_zh": "至高虔诚",
         "source": ["Ultimate Magic pg. 158"]
     },
     "umbral scion":     {
         "key": "umbral scion",
         "name": "Umbral Scion",
+        "name_zh": "黑耀传人",
         "source":         [
             "Advanced Race Guide pg. 106",
             "Pathfinder #15: The Armageddon Echo pg. 59",
@@ -23303,6 +24023,7 @@ var featDict = {
     "uncanny alertness":     {
         "key": "uncanny alertness",
         "name": "Uncanny Alertness",
+        "name_zh": "离奇警觉",
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys": ["alertness"]
     },
@@ -23315,12 +24036,14 @@ var featDict = {
     "uncanny concentration":     {
         "key": "uncanny concentration",
         "name": "Uncanny Concentration",
+        "name_zh": "离奇专注",
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys": ["combat casting"]
     },
     "uncanny defense":     {
         "key": "uncanny defense",
         "name": "Uncanny Defense",
+        "name_zh": "本能防守",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 67"],
         "prerequisiteKeys": ["cautious fighter"]
@@ -23352,12 +24075,14 @@ var featDict = {
     "undead master":     {
         "key": "undead master",
         "name": "Undead Master",
+        "name_zh": "亡灵之主",
         "source": ["Ultimate Magic pg. 158"],
         "prerequisiteKeys": ["spell focus"]
     },
     "under and over":     {
         "key": "under and over",
         "name": "Under and Over",
+        "name_zh": "过犹不及",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 173"],
         "prerequisiteKeys": ["agile maneuvers"]
@@ -23372,6 +24097,7 @@ var featDict = {
     "underfoot":     {
         "key": "underfoot",
         "name": "Underfoot",
+        "name_zh": "钻胯而过",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 173"],
         "prerequisiteKeys":         [
@@ -23506,11 +24232,13 @@ var featDict = {
     "unsanctioned detection":     {
         "key": "unsanctioned detection",
         "name": "Unsanctioned Detection",
+        "name_zh": "不虔侦测",
         "source": ["Ultimate Magic pg. 158"]
     },
     "unsanctioned knowledge":     {
         "key": "unsanctioned knowledge",
         "name": "Unsanctioned Knowledge",
+        "name_zh": "禁忌学识",
         "source": ["Ultimate Magic pg. 159"]
     },
     "unseat":     {
@@ -23739,6 +24467,7 @@ var featDict = {
     "vast hatred":     {
         "key": "vast hatred",
         "name": "Vast Hatred",
+        "name_zh": "剧烈仇恨",
         "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 37"]
     },
@@ -23829,6 +24558,7 @@ var featDict = {
     "vermin heart":     {
         "key": "vermin heart",
         "name": "Vermin Heart",
+        "name_zh": "毒虫之心",
         "source":         [
             "Advanced Player's Guide pg. 173",
             "Pathfinder Campaign Setting pg. 219",
@@ -23838,6 +24568,7 @@ var featDict = {
     "versatile channeler":     {
         "key": "versatile channeler",
         "name": "Versatile Channeler",
+        "name_zh": "万用导能",
         "source": ["Ultimate Magic pg. 159"]
     },
     "versatile jinx":     {
@@ -23873,6 +24604,7 @@ var featDict = {
     "vicious stomp":     {
         "key": "vicious stomp",
         "name": "Vicious Stomp",
+        "name_zh": "恶毒踩踏",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys":         [
@@ -23896,6 +24628,7 @@ var featDict = {
     "vigilant eidolon":     {
         "key": "vigilant eidolon",
         "name": "Vigilant Eidolon",
+        "name_zh": "幻灵警卫",
         "source": ["Ultimate Magic pg. 159"]
     },
     "vigilant phantom":     {
@@ -23990,6 +24723,7 @@ var featDict = {
     "voice of the sibyl":     {
         "key": "voice of the sibyl",
         "name": "Voice of the Sibyl",
+        "name_zh": "贤者之音",
         "source": ["Ultimate Magic pg. 159"]
     },
     "volley fire":     {
@@ -24068,6 +24802,7 @@ var featDict = {
     "war singer":     {
         "key": "war singer",
         "name": "War Singer",
+        "name_zh": "战之歌者",
         "source": ["Advanced Player's Guide pg. 173"]
     },
     "warding blood":     {
@@ -24113,6 +24848,7 @@ var featDict = {
     "warrior priest":     {
         "key": "warrior priest",
         "name": "Warrior Priest",
+        "name_zh": "战斗祭司",
         "source": ["Ultimate Magic pg. 159"]
     },
     "wary smuggler":     {
@@ -24128,6 +24864,7 @@ var featDict = {
     "water skinned":     {
         "key": "water skinned",
         "name": "Water Skinned",
+        "name_zh": "水之肌肤",
         "source": ["Advanced Race Guide pg. 178"]
     },
     "waterway caster":     {
@@ -24146,6 +24883,7 @@ var featDict = {
     "wave strike":     {
         "key": "wave strike",
         "name": "Wave Strike",
+        "name_zh": "波形打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys": ["quick draw"]
@@ -24262,6 +25000,7 @@ var featDict = {
     "well-prepared":     {
         "key": "well-prepared",
         "name": "Well-Prepared",
+        "name_zh": "百宝袋",
         "source": ["Advanced Player's Guide pg. 173"]
     },
     "wheeling charge":     {
@@ -24277,6 +25016,7 @@ var featDict = {
     "whip mastery":     {
         "key": "whip mastery",
         "name": "Whip Mastery",
+        "name_zh": "长鞭熟稔",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys": ["weapon focus"]
@@ -24382,6 +25122,7 @@ var featDict = {
     "wild speech":     {
         "key": "wild speech",
         "name": "Wild Speech",
+        "name_zh": "野性发声",
         "source": ["Ultimate Magic pg. 159"]
     },
     "wild vigor":     {
@@ -24478,12 +25219,14 @@ var featDict = {
     "wingover":     {
         "key": "wingover",
         "name": "Wingover",
+        "name_zh": "侧滑飞行",
         "descriptors": ["Monster"],
         "source": ["Pathfinder RPG Bestiary pg. 316"]
     },
     "wings of air":     {
         "key": "wings of air",
         "name": "Wings of Air",
+        "name_zh": "空气之翼",
         "source": ["Advanced Race Guide pg. 159"],
         "prerequisiteKeys": ["airy step"]
     },
@@ -24510,6 +25253,7 @@ var featDict = {
     "witch knife":     {
         "key": "witch knife",
         "name": "Witch Knife",
+        "name_zh": "女巫之刃",
         "source": ["Ultimate Magic pg. 159"]
     },
     "witchbreaker":     {
@@ -24588,6 +25332,7 @@ var featDict = {
     "word of healing":     {
         "key": "word of healing",
         "name": "Word of Healing",
+        "name_zh": "治愈之言",
         "source": ["Ultimate Magic pg. 159"]
     },
     "worldwound walker":     {
@@ -24706,7 +25451,10 @@ var featTree = [
     },
         {
         "key": "ability focus",
-        "children": []
+        "children": [        {
+            "key": "improved death-stealing",
+            "children": []
+        }]
     },
         {
         "key": "ability mastery",
@@ -30867,6 +31615,10 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "pungent stench",
+                "children": []
+            },
+                        {
                 "key": "purging emesis",
                 "children": []
             },
@@ -31339,10 +32091,6 @@ var featTree = [
     },
         {
         "key": "improved day job",
-        "children": []
-    },
-        {
-        "key": "improved death-stealing",
         "children": []
     },
         {
@@ -34670,6 +35418,10 @@ var featTree = [
                 }]
             },
                         {
+                "key": "technology adept",
+                "children": []
+            },
+                        {
                 "key": "volley fire",
                 "children": []
             },
@@ -35264,6 +36016,10 @@ var featTree = [
                         "children": []
                     },
                                         {
+                        "key": "technophobe",
+                        "children": []
+                    },
+                                        {
                         "key": "find the flaw",
                         "children": []
                     },
@@ -35325,6 +36081,10 @@ var featTree = [
                     "key": "blood frenzy assault",
                     "children": []
                 }]
+            },
+                        {
+                "key": "improved awesome blow",
+                "children": []
             }
         ]
     },
@@ -37935,10 +38695,6 @@ var featTree = [
         ]
     },
         {
-        "key": "technophobe",
-        "children": []
-    },
-        {
         "key": "telekinetic mastery",
         "children": []
     },
@@ -38195,6 +38951,10 @@ var featTree = [
         {
         "key": "toughness",
         "children":         [
+                        {
+                "key": "toxic stench",
+                "children": []
+            },
                         {
                 "key": "unbreakable",
                 "children": []
@@ -39412,6 +40172,13 @@ var featTree = [
                         "key": "sisterhood dedication",
                         "children": []
                     }]
+                }]
+            },
+                        {
+                "key": "slashing grace",
+                "children": [                {
+                    "key": "two-weapon grace",
+                    "children": []
                 }]
             },
                         {

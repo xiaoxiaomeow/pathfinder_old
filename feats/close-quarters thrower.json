@@ -5,10 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 92"],
     "description": "You are agile enough to avoid melee attacks while throwing weapons or bombs.",
-    "prerequisites": "Dex 13, Dodge, Weapon Focus with selected thrown weapon",
+    "prerequisites": "Dex 13, Dodge, Weapon Focus with selected thrown weapon.",
     "benefit": "Choose a type of thrown weapon. You do not provoke attacks of opportunity for making ranged attacks using the selected weapon. If you are an alchemist, and you select this feat and choose alchemist bombs, you do not provoke attacks of opportunity for the process of drawing components of, creating, and throwing a bomb.",
     "normal": "Making a ranged attack provokes attacks of opportunity.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "When throwing any thrown weapon, you can spend 2 stamina points. If you do, you do not provoke attacks of opportunity for that throw.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "近身投掷",
+    "description_zh": "你身形灵巧，足以让你在投掷武器和炸弹时避免遭到近战攻击。",
+    "prerequisites_zh": "敏捷13，闪避，武器专攻（所选投掷武器）。",
+    "benefit_zh": "选择一种投掷武器类型。你使用这种类型的投掷武器进行远程攻击时不会触发借机攻击。如果你是一个炼金术士，当你学习该专长并选择炼金炸弹时，你在取出材料、创造和投掷炸弹时都不会触发借机攻击。<\/p><p>通常状况：进行远程攻击将会触发借机攻击。"
 }

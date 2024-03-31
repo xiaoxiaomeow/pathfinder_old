@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 68"],
     "description": "When you charge, you can send your opponent flying.",
-    "prerequisites": "Str 25, Awesome Blow, Improved Bull Rush, Power Attack",
+    "prerequisites": "Str 25, Awesome Blow, Improved Bull Rush, Power Attack.",
     "benefit": "When you hit your opponent with a charge attack, you can attempt an awesome blow combat maneuver against that opponent as a free action.",
     "prerequisiteKeys":     [
         "awesome blow",

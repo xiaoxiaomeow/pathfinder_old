@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
     "description": "Your dual bludgeoning strikes are especially deadly when you are fighting giants.",
-    "prerequisites": "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6",
+    "prerequisites": "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6.",
     "benefit": "You can trip a creature with the giant subtype of up to Huge size, and you gain a +2 bonus on damage rolls against creatures of the giant subtype. Further, each time you hit a creature of the giant subtype with your off-hand weapon after you hit that creature with your primary weapon, you can deal the extra off-hand weapon damage Twin Thunders grants you.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
     "staminaText": "You can spend 2 stamina points to attempt a trip combat maneuver against a Huge creature that does not have the giant subtype.",
-    "prerequisiteKeys": ["twin thunders"]
+    "prerequisiteKeys": ["twin thunders"],
+    "name_zh": "雷霆连击",
+    "description_zh": "你的双重钝击在面对巨人时效果拔群。",
+    "prerequisites_zh": "矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，雷霆双击，武器专攻（当前持用的两种武器），基本攻击加值+6。",
+    "benefit_zh": "你能够绊摔体型最大为超大型的巨人亚种生物，并对他们的伤害+2。此外，每当你在主手武器命中后又以副手武器命中巨人亚种生物，你都能应用“雷霆双击”专长带来的副手武器伤害加成。"
 }

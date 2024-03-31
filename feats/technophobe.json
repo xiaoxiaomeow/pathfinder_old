@@ -4,6 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Technophobe",
     "source": ["Technology Guide pg. 7"],
     "description": "Smashing technological abominations brings you joy.",
-    "prerequisites": "Improved Sunde",
-    "benefit": "When you reduce a robot to 0 hit points or destroy a technological item possessed by an enemy, you receive a +2 morale bonus on ability checks, attack rolls, saving throws, and skill checks for a number of rounds equal to your Wisdom bonus (minimum 1 round). You receive this bonus for destroying an unattended object so long as it was in the possession of an enemy within the last round."
+    "prerequisites": "Improved Sunder",
+    "benefit": "When you reduce a robot to 0 hit points or destroy a technological item possessed by an enemy, you receive a +2 morale bonus on ability checks, attack rolls, saving throws, and skill checks for a number of rounds equal to your Wisdom bonus (minimum 1 round). You receive this bonus for destroying an unattended object so long as it was in the possession of an enemy within the last round.",
+    "prerequisiteKeys": ["improved sunder"]
 }

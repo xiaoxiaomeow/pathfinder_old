@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Inexplicable%20Luck",
     "source": ["Advanced Race Guide pg. 77"],
     "description": "Others are often dumfounded by your luck.",
-    "prerequisites": "Defiant Luck, human",
+    "prerequisites": "Defiant Luck, human.",
     "benefit": "Once per day, as a free action before a roll is made, you gain a +8 bonus on any single d20 roll. You can also use this ability after the roll is made, but if you do, this bonus is reduced to +4.",
-    "prerequisiteKeys": ["defiant luck"]
+    "prerequisiteKeys": ["defiant luck"],
+    "name_zh": "莫名好运",
+    "description_zh": "先决条件：挑战机运，人类。",
+    "prerequisites_zh": "挑战机运，人类。",
+    "benefit_zh": "每天一次，你可以以一个自由动作在d20检定掷骰之前获得+8加值。同样你也可以在掷骰之后使用此能力，不过只能获得+4加值。"
 }

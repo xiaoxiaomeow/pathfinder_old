@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 167"],
     "description": "Your kicks are so powerful you use them to push or knock back your foes.",
-    "prerequisites": "Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8",
+    "prerequisites": "Con 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "You must declare that you are using this feat before you make your attack roll (thus a failed attack roll ruins the attempt). On a successful hit, the attack deals damage normally and you can choose to push your target 5 feet or attempt to knock them prone. If you decide to push the target, it is moved 5 feet directly away from you. This movement does not provoke attacks of opportunity, and the target must end this move in a safe space it can stand in. If you decide to attempt to knock the target prone, the target receives a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier to avoid the effect. You may attempt a punishing kick attack once per day for every four levels you have attained (but see Special), and no more than once per round.",
     "special": "A hungry ghost monk receives Punishing Kick as a bonus feat at 1st level, even if he does not meet the prerequisites. A monk may attempt a punishing kick attack a number of times per day equal to his monk level, plus one more time per day for every four levels he has in classes other than monk.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
     "staminaText": "You can spend 5 stamina points to declare you are using this feat after you make a successful unarmed strike attack.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "扫堂腿",
+    "description_zh": "你的踢腿是如此有力，以至于可以用来踢开或者踢倒敌人。",
+    "prerequisites_zh": "体质13，感知13，精通徒手打击，基本攻击加值+8。",
+    "benefit_zh": "你必须在进行攻击检定之前声明使用该专长（因此失败的攻击检定会浪费这次机会）。成功命中会正常造成攻击伤害，并且你能够选择将目标推开5尺或者尝试将他击倒。如果你选择推开目标，他会立即远离你5尺。这个移动不会引发借机攻击，并且目标必须在移动结束时处于能够站立的安全空间。如果你尝试将目标击倒，目标需要进行DC为“10+1/2你的角色等级+感知修正”的强韧豁免来避免该效果。每日你可以尝试进行扫堂腿的次数为每4个等级1次（见特殊说明），并且每轮只能进行1次。",
+    "special_zh": "般若僧（Hungry Ghost Monk, APG武僧变体）会在1级获得“扫堂腿”作为奖励专长，即使他并不满足专长的先决条件。武僧每日可以尝试使用扫堂腿的次数等同于他的武僧等级，额外加上每4个非武僧职业等级1次。"
 }

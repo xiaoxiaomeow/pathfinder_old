@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 113"],
     "description": "You deftly use specially prepared needles to apply poison for maximum effect.",
-    "prerequisites": "Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, Two-Weapon Fighting or flurry of blows class feature",
+    "prerequisites": "Poison use class feature, Craft (alchemy) 6 ranks, Adder Strike, Improved Unarmed Strike, Two-Weapon Fighting or flurry of blows class feature.",
     "benefit": "When you use Adder Strike, you can instead poison up to two blowgun darts that you can then use to strike your opponent in melee. (Drawing such darts is a free action.) While holding these darts, you can spend a standard action to attack with one or a full-attack action to attack with both. Such attacks are considered melee touch attacks that deal 1d2 damage plus any bonuses you gain on your normal unarmed strike damage, and they deliver the poison. You can instead throw such darts as if they were shuriken, making your ranged attack rolls against the target’s AC.",
     "normal": "Applying poison to a weapon or single piece of ammunition is a standard action.",
     "staminaSource": ["Pathfinder Unchained pg. 129"],
@@ -14,5 +14,9 @@
         "adder strike",
         "improved unarmed strike",
         "two-weapon fighting"
-    ]
+    ],
+    "name_zh": "毒针刺击",
+    "description_zh": "你熟练地使用特制的针管进行淬毒，使其能发挥最大的杀伤力。",
+    "prerequisites_zh": "虺蛇打击，双武器战斗或【疾风连击】职业特性，手艺（炼金）6级。",
+    "benefit_zh": "当你使用“虺蛇打击”专长时，你可以选择在两支吹箭（blowgun dart）上进行淬毒，并且用其对你的敌人进行近战攻击（取出吹箭是一个自由动作）。当你持有吹箭时，你可以使用一个标准动作用其中一支进行攻击，或用整轮动作使用两支同时攻击。这些攻击被视为近战接触攻击，造成1d2加上你的正常徒手打击伤害加值的伤害，并且将会传递毒药。你也可以选择像投掷手里剑一样投掷吹箭，这需要进行一次正常的远程攻击检定以对抗目标的AC。<\/p><p>通常状况：在武器或弹药上淬毒是一个标准动作。"
 }

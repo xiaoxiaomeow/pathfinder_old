@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 106"],
     "description": "You deliver a powerful strike to the mouth, breaking teeth and bone.",
-    "prerequisites": "Improved Unarmed Strike, Stunning Fist, Heal 6 ranks",
+    "prerequisites": "Improved Unarmed Strike, Stunning Fist, Heal 6 ranks.",
     "benefit": "When you make a successful Stunning Fist attempt against an opponent that is grappled, helpless, or stunned, instead of imparting any other Stunning Fist effect, you can cripple that opponent’s mouth, dealing normal unarmed strike damage and 1d4 points of bleed damage. Until the bleed damage ends, the target is unable to use its mouth to attack, speak clearly, and employ verbal spell components. A creature that is immune to critical hits or that has no discernible mouth is immune to the effects of this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 125"],
     "staminaText": "When you hit with a Jawbreaker attack, you can spend 5 stamina points to increase the bleed damage to 1d6 points, increase the DC of the Heal check to end the bleed to 20, and require the user of a spell or ability that cures hit point damage to succeed at a DC 15 caster level check to end the bleed effect.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "碎颚者",
+    "description_zh": "你强大的攻击打爆了对手的牙齿和嘴上的骨头。",
+    "prerequisites_zh": "精通徒手打击，震慑拳，医疗6级。",
+    "benefit_zh": "当你对一个被擒抱、无助或震慑中的敌人成功的施展了一次震慑拳，你可以选择不造成震慑拳的正常效果，而是打爆对手的嘴巴。这会造成普通徒手打击伤害以及1d4的流血伤害。在流血结束前，目标不能使用嘴进行攻击、清晰讲话或施放有语言成分的法术。免疫致命一击或没有明显的嘴的生物不会受到该专长的影响。"
 }

@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 161"],
     "description": "Your enemies cannot hide from you.",
-    "prerequisites": "Perception 15 ranks, Improved Blind-Fight",
-    "benefit": "Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.",
+    "prerequisites": "Perception 15 ranks, Improved Blind-Fight.",
+    "benefit": "Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.<br><br> If you successfully pinpoint an invisible or hidden attacker, that attacker gets no advantages related to hitting you with ranged attacks, regardless of the range. That is, you don’t lose your Dexterity bonus to Armor Class, and the attacker doesn’t get the usual +2 bonus for being invisible.",
     "special": "The Greater Blind-Fight feat is of no use against a character who is the subject of a blink spell.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
     "staminaText": "When you attack a creature subject to the <i>blink<\/i> spell, you can spend 5 stamina points. If you do, your Greater Blind-Fight feat works against that creature until the beginning of your next turn, either treating the <i>blink<\/i> miss chance as 20% and allowing a reroll or ignoring the blink miss chance if you have a way to see or strike ethereal creatures.",
-    "prerequisiteKeys": ["improved blind-fight"]
+    "prerequisiteKeys": ["improved blind-fight"],
+    "name_zh": "高等盲斗",
+    "description_zh": "你的敌人无法躲藏在你身边。",
+    "prerequisites_zh": "察觉15级，精通盲斗。",
+    "benefit_zh": "你的近战攻击忽略低于全隐蔽的失手率，并且对你来说，全隐蔽的敌人被视为只有普通的隐蔽（即20%的失手率而非50%）。你仍旧可以如常重投失手率的百分骰。如果你成功定位隐身或躲藏起来的攻击者，该名敌人会失去与使用远程攻击对你进行攻击相关的优势，无论彼此的距离为何。即你的AC不会失去你的敏捷加值，并且攻击者不会由于隐蔽而获得通常的+2加值。",
+    "special_zh": "高等盲斗专长对于‘闪现术（blink）’法术的受术者没有效果。"
 }

@@ -8,11 +8,15 @@
         "Pathfinder #18: Descent into Midnight pg. 14"
     ],
     "description": "New spell-like abilities are unlocked for you as you rise to ascendency among the drow people.",
-    "prerequisites": "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow",
+    "prerequisites": "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow.",
     "benefit": "Select one of the following: <i>dispel magic<\/i>, <i>divine favor<\/i>, or <i>suggestion<\/i>. You may use this spell once per day as a spell-like ability. Your caster level is equal to your character level.",
     "prerequisiteKeys":     [
         "drow nobility",
         "greater drow nobility",
         "improved drow nobility"
-    ]
+    ],
+    "name_zh": "黑耀传人",
+    "description_zh": "当你在卓尔族群中越发具有权势的时候，你会得到新的类法术能力。",
+    "prerequisites_zh": "魅力13，感知13，卓尔贵族，高等卓尔贵族，进阶卓尔贵族，能够使用卓尔的类法术能力，卓尔。",
+    "benefit_zh": "在下列法术选择其一：‘解除魔法’，‘神恩’，‘暗示术’。你获得每天以类法术能力使用该法术1次的能力。CL等同于你的角色等级。"
 }

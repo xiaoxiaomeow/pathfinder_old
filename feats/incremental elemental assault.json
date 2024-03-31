@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Incremental%20Elemental%20Assault",
     "source": ["Advanced Race Guide pg. 203"],
     "description": "You may activate and quench your elemental assault ability multiple times per day.",
-    "prerequisites": "Suli",
+    "prerequisites": "Suli.",
     "benefit": "You may use your elemental assault ability in 1-round increments, up to a maximum number of rounds per day equal to your character level. These rounds do not have to be consecutive. Activating the ability is a swift action; ending it is a free action.",
-    "normal": "You can use elemental assault once per day. It lasts a number of rounds equal to your class level."
+    "normal": "You can use elemental assault once per day. It lasts a number of rounds equal to your class level.",
+    "name_zh": "蓄能元素攻袭",
+    "description_zh": "你每天可以多次启动元素攻袭能力。",
+    "prerequisites_zh": "巨灵裔。",
+    "benefit_zh": "你能以1轮为单位使用你的【元素攻袭】能力，每日使用的轮数最高等同于你的角色等级。这些轮数不必连续。启动该能力是一个迅捷动作；解消效果是自由动作。<\/p><p>通常状况：你每天只能使用1次【元素攻袭】。它持续的轮数等同于你的角色等级。"
 }

@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Ultimate Magic pg. 143"],
     "description": "You cause creatures to take extra damage when you affect them with a spell that has the acid or fire descriptor. ",
-    "benefit": "The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2× the spell’s actual level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor. If a burning spell has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning spell effect. A burning spell uses up a slot two levels higher than the spell’s actual level."
+    "benefit": "The acid or fire effects of the affected spell adhere to the creature, causing more damage the next round. When a creature takes acid or fire damage from the affected spell, that creature takes damage equal to 2× the spell’s actual level at the start of its next turn. The damage is acid or fire, as determined by the spell’s descriptor. If a burning spell has both the fire and acid descriptor, the caster chooses what kind of damage is dealt by the burning spell effect. A burning spell uses up a slot two levels higher than the spell’s actual level.",
+    "name_zh": "燃烧法术",
+    "description_zh": "当你使用带有〔酸〕或〔火〕描述符的法术时能对目标造成额外的伤害。",
+    "benefit_zh": "法术所影响的生物被附上了酸或火，并且在下一轮中造成更多的伤害。当一个生物受到此超魔法术所造成的酸性或火焰伤害时，这个生物在下一轮的开始受到等同于法术原本环级2倍的强酸或火焰伤害。伤害的种类取决于法术的描述描述符。如果一个法术同时拥有〔酸〕和〔火〕描述符，则由施法者在准备超魔时选择造成哪种伤害。燃烧法术须占用高于原本2个环级的法术位。"
 }

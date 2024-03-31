@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Attuned%20to%20the%20Wild",
     "source": ["Advanced Race Guide pg. 28"],
     "description": "You share a strong mystic connection with one type of wilderness terrain.",
-    "prerequisites": "Elf",
+    "prerequisites": "Elf.",
     "benefit": "Select one type of terrain from the ranger class’s favored terrain class feature (except urban). While you are in your selected terrain type, your natural healing rate (the amount of hit points and ability damage you heal from a full night’s rest) doubles.",
-    "special": "You can take this feat multiple times. Its effects do not stack. Each time you take it, it applies to a different terrain type."
+    "special": "You can take this feat multiple times. Its effects do not stack. Each time you take it, it applies to a different terrain type.",
+    "name_zh": "荒野适应力",
+    "description_zh": "你与某种荒野地形有着强烈的神秘纽带。",
+    "prerequisites_zh": "精灵。",
+    "benefit_zh": "从游侠的偏好地形职业能力中选择一类地形（都市除外）。每当你处于所选的地形中时，你的自然恢复速度（通过整晚的休息所恢复的HP以及属性伤害）翻倍。<\/p><p>特殊：你可以多次选择该专长。但是该效果不会叠加。每次选择该专长时必须选择不同的地形。"
 }

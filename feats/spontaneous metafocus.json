@@ -4,12 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spontaneous%20Metafocus",
     "source": ["Ultimate Magic pg. 157"],
     "description": "You can focus to combine one of your known spells and metamagic feats.",
-    "prerequisites": "Cha 13, one metamagic feat, able to spontaneously cast spells",
+    "prerequisites": "Cha 13, one metamagic feat, able to spontaneously cast spells.",
     "benefit": "Pick a single spell that you are able to cast spontaneously. When you apply metamagic feats to that spell, you can cast the spell using the normal casting time instead of at the slower casting time.",
     "special": "You can take this feat multiple times. Each time you select this feat, choose a new spell that you can cast spontaneously; the feat applies to that spell.",
     "mythicSource": ["Mythic Adventures pg. 74"],
     "mythicDescription": "You apply metamagic to your spells with greater ease than do other spontaneous casters.",
-    "mythicPrerequisites": "Spontaneous Metafocus",
+    "mythicPrerequisites": "Spontaneous Metafocus.<br><br",
     "mythicBenefit": "You can change which spell your Spontaneous Metafocus feat applies to each morning when you restore your expended spell slots. The spell it applies to can be of any level, but it must be a legal selection for the Spontaneous Metafocus feat.",
-    "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spontaneous Metafocus feat."
+    "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spontaneous Metafocus feat.",
+    "name_zh": "自发集中",
+    "description_zh": "你将你的精力集中于如何把你所知的法术和超魔专长结合起来。",
+    "prerequisites_zh": "魅力13，一项超魔专长，能够自发施法。",
+    "benefit_zh": "选择一个你能够自发施法的法术。当你在那个法术上附加超魔专长时，你可以用正常的施法时间施展那个法术而非使用较慢的施法时间。",
+    "special_zh": "你可以多次选择本专长。每次你选择本专长时，需要选择一个新的你能自发施法的法术，本专长对那个法术生效。"
 }

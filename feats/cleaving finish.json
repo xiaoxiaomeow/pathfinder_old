@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 92"],
     "description": "When you strike down an opponent, you can continue your swing into another target.",
-    "prerequisites": "Str 13, Cleave, Power Attack",
+    "prerequisites": "Str 13, Cleave, Power Attack.",
     "benefit": "If you make a melee attack, and your target drops to 0 or fewer hit points as a result of your attack, you can make another melee attack using your highest base attack bonus against another opponent within reach. You can make only one extra attack per round with this feat.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "After making a Cleaving Finish attack, if you bring another target below 0 hit points in the same round, you can spend 5 stamina points to make another Cleaving Finish attack.",
     "prerequisiteKeys":     [
         "cleave",
         "power attack"
-    ]
+    ],
+    "name_zh": "终势斩",
+    "description_zh": "当你击倒一名敌人，你继续挥舞你的武器并攻击下一名敌人。",
+    "prerequisites_zh": "力量13，顺势斩，猛力攻击。",
+    "benefit_zh": "当你进行一次近战攻击，并且将目标的HP降低至0或更低，你可以使用你的最高攻击加值对另一名触及范围内的敌人进行一次近战攻击。你每轮只能利用该专长进行一次额外攻击。"
 }

@@ -7,7 +7,12 @@
         "Ultimate Magic pg. 153"
     ],
     "description": "You learn how to create one kind of ranger trap.",
-    "prerequisites": "Survival 5 ranks",
-    "benefit": "Select one ranger trap (see page 20). You may use this trap a number of times per day equal to your Wisdom bonus (minimum 1). The DC for your trap is equal to 10 + 1/2 your character’s level + your Wisdom bonus, and it lasts 1 day per 2 character levels.",
-    "special": "A ranger can use ranger traps a number of times per day equal to 1/2 his ranger level + his Wisdom bonus. See the description of ranger traps for durations."
+    "prerequisites": "Survival 5 ranks.",
+    "benefit": "Select one ranger trap (see page 20). You may use this trap a number of times per day equal to your Wisdom bonus (minimum 1). The DC for your trap is equal to 10 + 1/2 your character’s level + your Wisdom bonus, and it lasts 1 day per 2 character levels.<br><br> If you aren’t a ranger, you can only set extraordinary traps with this feat; like all extraordinary ranger traps, this decreases the trap’s DC by 2.",
+    "special": "A ranger can use ranger traps a number of times per day equal to 1/2 his ranger level + his Wisdom bonus. See the description of ranger traps for durations.",
+    "name_zh": "学习游侠陷阱",
+    "description_zh": "你学会了如何制作一种游侠陷阱。",
+    "prerequisites_zh": "生存5级。",
+    "benefit_zh": "选择一种游侠陷阱。你可以使用这种陷阱，其每日使用次数等同与你的感知修正（最少为1）。你的陷阱DC为“10+1/2角色等级+感知修正”，并且持续每两个角色等级1天。如果你不是一个游侠，那么你只能使用这个专长来制作临时陷阱。和所有临时游侠陷阱一样，陷阱DC拥有-2减值。",
+    "special_zh": "一个游侠可以使用游戏陷阱的每日次数等于“1/2游侠等级+感知修正”。持续时间参见游侠陷阱的描述。"
 }

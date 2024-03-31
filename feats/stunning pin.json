@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 122"],
     "description": "You can render a pinned foe temporarily incapacitated.",
-    "prerequisites": "Improved Grapple, Improved Unarmed Strike, Stunning Fist",
+    "prerequisites": "Improved Grapple, Improved Unarmed Strike, Stunning Fist.",
     "benefit": "Whenever you pin an opponent, you can spend a swift action to make a Stunning Fist attempt against that opponent.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
     "staminaText": "You can spend 5 stamina points to use Stunning Pin as a free action instead of a swift action.",
@@ -13,5 +13,9 @@
         "improved grapple",
         "improved unarmed strike",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "震慑压制",
+    "description_zh": "你能让被压制的对手暂时无力化。",
+    "prerequisites_zh": "精通擒抱，精通徒手打击，震慑拳。",
+    "benefit_zh": "当你在擒抱中压制住一个对手时，你能以迅捷动作将震慑拳效果施加在对方身上。"
 }

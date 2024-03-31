@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
     "description": "When you fight giants, your powerful blows combine with skills learned from generations of your people to quickly even the odds.",
-    "prerequisites": "Dwarf or gnome, defensive training racial trait, Two-Weapon Fighting or flurry of blows class feature, Weapon Focus with both wielded weapons",
+    "prerequisites": "Dwarf or gnome, defensive training racial trait, Two-Weapon Fighting or flurry of blows class feature, Weapon Focus with both wielded weapons.",
     "benefit": "Once per round, when wielding a bludgeoning weapon in each hand against a creature with the giant subtype, if you hit the creature with your off-hand weapon after you hit with your primary weapon, roll the damage dice for your off-hand weapon twice and add the results together before adding any bonuses. Such extra weapon damage dice are not multiplied on a critical hit.",
     "staminaSource": ["Pathfinder Unchained pg. 134"],
     "staminaText": "You can spend 2 stamina points to gain the benef its of this feat against a creature at least one size category larger than you that does not have the giant subtype. You gain this benef it until the start of your next turn.",
-    "prerequisiteKeys": ["two-weapon fighting"]
+    "prerequisiteKeys": ["two-weapon fighting"],
+    "name_zh": "雷霆双击",
+    "description_zh": "当你与巨人战斗时，你混合了先人智慧的有力重击效果拔群。",
+    "prerequisites_zh": "矮人或侏儒，【防御训练】种族特性，双武器格斗或【疾风连击】职业特性，武器专攻（当前持用的两种武器）。",
+    "benefit_zh": "每轮1次，当你两手各用一件钝击武器攻击具有巨人亚种的生物时，若你在主手武器命中后又以副手武器命中，副手武器的伤害可在应用加值前双骰累加。额外伤害不会因重击加倍。"
 }

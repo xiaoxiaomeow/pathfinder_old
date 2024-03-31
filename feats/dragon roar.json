@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 98"],
     "description": "The spirit of the dragon wells up inside you and bursts forth in a mighty roar.",
-    "prerequisites": "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 8 ranks",
+    "prerequisites": "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 8 ranks.",
     "benefit": "You gain one additional Stunning Fist attempt per day. While using Dragon Style, as a standard action you can expend two Stunning Fist attempts to unleash a concussive roar in a 15-foot cone. Creatures caught in the cone take your unarmed strike damage and become shaken for 1d4 rounds. A successful Will save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from being shaken.",
     "special": "If you have the Elemental Fist feat (<i>Advanced Player’s Guide <\/i>158), you can expend a daily use of that feat to deal your Elemental Fist damage to those caught in the cone. This damage is not halved even on a save.",
     "staminaSource": ["Pathfinder Unchained pg. 118"],
@@ -14,5 +14,10 @@
         "dragon style",
         "improved unarmed strike",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "龙吼",
+    "description_zh": "你体内潜藏的龙魂以响彻天际的咆哮轰散开去。",
+    "prerequisites_zh": "力量15，精通徒手打击，龙形拳，震慑拳，特技8级。",
+    "benefit_zh": "你获得1次“震慑拳”额外每日使用次数。当你使用龙拳流派架势时，消耗2发“震慑拳”，你可以用标准动作进行龙吼，15尺锥状范围内的敌人受到你徒手击打的伤害，并在1d4轮内颤栗。通过DC为“10+1/2角色等级+感知修正”的意志豁免则所受伤害减半，且不会颤栗。",
+    "special_zh": "如果你有“元素之拳”专长，耗费1发元素之拳，你可以对锥状范围内的生物造成你元素之拳的伤害。这种伤害无法通过成功豁免减半。"
 }

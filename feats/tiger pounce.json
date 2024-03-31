@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 122"],
     "description": "Your unarmed strikes are as precise as they are powerful, but they leave you open and you can pursue foes with blinding speed.",
-    "prerequisites": "Improved Unarmed Strike, Power Attack, Tiger Claws, Tiger Style, base attack bonus +9 or monk level 8th",
+    "prerequisites": "Improved Unarmed Strike, Power Attack, Tiger Claws, Tiger Style, base attack bonus +9 or monk level 8th.",
     "benefit": "While using the Tiger Style feat, you can apply the penalty from Power Attack to your AC instead of attack rolls. Additionally, once per round as a swift action, you can move up to half your speed closer to a target you hit with an unarmed strike or made a successful combat maneuver against on this turn or your last turn.",
     "staminaSource": ["Pathfinder Unchained pg. 133"],
     "staminaText": "When using Tiger Style, you can spend 2 stamina points and take a swift action to move closer to an enemy you’ve hit with an unarmed strike or made a successful combat maneuver against at any point during this combat, instead of one you hit on this or your last turn.",
@@ -14,5 +14,9 @@
         "power attack",
         "tiger claws",
         "tiger style"
-    ]
+    ],
+    "name_zh": "虎跃",
+    "description_zh": "你的徒手打击既狠又准，还给予你以迅雷不及掩耳之势追击对手的余裕。",
+    "prerequisites_zh": "精通徒手打击，虎形拳，虎爪功，基本攻击加值+9或武僧8级。",
+    "benefit_zh": "当你处于虎拳流派架势时获得以下好处：在使用“猛力攻击”专长时，你可以通过降低AC而不是降低AB来换取额外伤害。每轮1次，如果你在这一轮或上一轮用徒手击打命中一个对手或对其使用战技成功，以一个迅捷动作，你可以用一半移动速度向该对手移动。"
 }

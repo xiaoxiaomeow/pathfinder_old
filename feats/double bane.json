@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Double%20Bane",
     "source": ["Ultimate Combat pg. 98"],
     "description": "You extend your bane effect to two weapons.",
-    "prerequisites": "Bane class feature, Two-Weapon Fighting",
+    "prerequisites": "Bane class feature, Two-Weapon Fighting.",
     "benefit": "You can apply your bane to a second weapon you are wielding. While your bane class feature is active, at the start of each of your turns as a free action, you choose whether to apply the ability to one weapon or the other, or both. For each round you apply your bane class feature to two weapons, you expend 2 rounds of that feature.",
-    "prerequisiteKeys": ["two-weapon fighting"]
+    "prerequisiteKeys": ["two-weapon fighting"],
+    "name_zh": "双武破敌",
+    "description_zh": "你让你的破敌能力同时作用于两把武器。",
+    "prerequisites_zh": "【破敌】职业特性，双武器格斗。",
+    "benefit_zh": "你可以将破敌能力作用于你持用的第二把武器。当你的【破敌】能力激活时，你可以在你自己行动时，以自由动作决定破敌能力作用于一把武器，另一把武器或同时两把武器。当你的破敌能力同时作用于两把武器时，每一轮你都会消耗2轮的每日破敌能力使用时间。"
 }

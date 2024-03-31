@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Inner Sea Monster Codex pg. 59"],
     "description": "You can channel your daemonic energies through the vile blade you wield.",
-    "prerequisites": "Weapon Focus (rhoka sword), base attack bonus +4, urdefhan",
+    "prerequisites": "Weapon Focus (rhoka sword), base attack bonus +4, urdefhan.",
     "benefit": "When wielding a rhoka sword, you can channel your daemonic energies through the blade as a swift action, causing it to deal Strength damage as your bite attack. You can use this ability a number of times per day equal to your Constitution modifier (minimum 1).",
     "prerequisiteKeys": ["weapon focus"]
 }

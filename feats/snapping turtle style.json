@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 120"],
     "description": "Your deft unarmed style allows you to shield your body from harm.",
-    "prerequisites": "Improved Unarmed Strike, base attack bonus +1 or monk level 1st",
+    "prerequisites": "Improved Unarmed Strike, base attack bonus +1 or monk level 1st.",
     "benefit": "While using the Snapping Turtle Style feat with at least one hand free, you gain a +1 shield bonus to AC.",
     "staminaSource": ["Pathfinder Unchained pg. 132"],
     "staminaText": "When using this style, as long as you have at least 1 stamina point in your stamina pool, your shield bonus to AC increases by 1.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "鳄龟势",
+    "description_zh": "你高超的徒手战斗技巧给予你保护。",
+    "prerequisites_zh": "精通徒手击打，基本攻击加值+1或武僧1级。",
+    "benefit_zh": "当你处于鳄龟流派架势时，如果至少有一只手空闲，你在AC上得到+1盾牌加值。"
 }

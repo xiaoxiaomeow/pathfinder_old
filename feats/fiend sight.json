@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fiend%20Sight",
     "source": ["Advanced Race Guide pg. 174"],
     "description": "Your eyes develop keener sight in dim light and darkness.",
-    "prerequisites": "Darkvision 60 ft., tiefling",
+    "prerequisites": "Darkvision 60 ft., tiefling.",
     "benefit": "You gain low-light vision and your darkvision improves to 120 ft.",
-    "special": "You can take this feat twice. When you take it a second time, you gain the see in darkness universal monster ability."
+    "special": "You can take this feat twice. When you take it a second time, you gain the see in darkness universal monster ability.",
+    "name_zh": "邪魔视觉",
+    "description_zh": "你的双眼在低光以及黑暗环境下变得更加锐利。",
+    "prerequisites_zh": "黑暗视觉60尺，魔裔。",
+    "benefit_zh": "你获得昏暗视觉，同时黑暗视觉提升到120尺。",
+    "special_zh": "你可以选择该专长两次。当你第二次选择，你获得“看透黑暗”怪物能力。<\/p><p>【特性速查】看透黑暗（See in Darkness, Su）：该生物可以看穿任何种类的黑暗，包括‘深幽黑暗术’。"
 }

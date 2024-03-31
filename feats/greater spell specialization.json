@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Specialization",
     "source": ["Ultimate Magic pg. 152"],
     "description": "You can sacrifice a prepared spell in order to spontaneously cast your specialized spell.",
-    "prerequisites": "Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells",
+    "prerequisites": "Int 13, Spell Focus, Spell Specialization, able to prepare 5th-level spells.",
     "benefit": "By sacrificing a prepared spell of the same or higher level than your specialized spell, you may spontaneously cast your specialized spell. The specialized spell is treated as its normal level, regardless of the spell slot used to cast it. You may add a metamagic feat to the spell by increasing the spell slot and casting time, just like a cleric spontaneously casting a <i>cure <\/i>or <i>inflict <\/i>spell with a metamagic feat.",
     "prerequisiteKeys":     [
         "spell focus",
         "spell specialization"
-    ]
+    ],
+    "name_zh": "高等法术专精",
+    "description_zh": "你能够以牺牲其他已准备的法术位代价自发你的专精法术。",
+    "prerequisites_zh": "智力13，法术专攻，法术专精，能够准备5环法术。",
+    "benefit_zh": "通过牺牲一个相同或更高环级的已准备的法术，你可以自发施法你的专精法术。无论你使用哪个法术位，专精法术视为原本的环级。你可以通过增加施法时间和提升法术位的方式在法术上附加超魔专长，就好像一个牧师自发施法治疗术或者同时附加上超魔专长。"
 }

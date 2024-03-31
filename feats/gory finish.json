@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 102"],
     "description": "By drawing upon wells of savagery, you can slay your foe in creative and horrifyingly gruesome manners, intimidating nearby foes.",
-    "prerequisites": "Dazzling Display, Weapon Focus",
+    "prerequisites": "Dazzling Display, Weapon Focus.",
     "benefit": "When you use the attack action, you can use a weapon with which you have Weapon Focus to make a single attack at your highest base attack bonus. If you reduce your target to negative hit points, you can spend a swift action to make an Intimidate check to demoralize all foes within 30 feet who could see your attack.",
     "staminaSource": ["Pathfinder Unchained pg. 120"],
     "staminaText": "You can spend 5 stamina points when confirming a critical on a Gory Finish attack to attempt an Intimidate check to demoralize all foes within 30 feet of you who can see your attack.",
     "prerequisiteKeys":     [
         "dazzling display",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "血腥击杀",
+    "description_zh": "藉由野性，你用最为骇人的技巧将敌人击杀，以此恐吓附近的其他敌人。",
+    "prerequisites_zh": "炫目技巧，武器专攻。",
+    "benefit_zh": "当你进行攻击，你可以用你的最高攻击加值、通过拥有“武器专攻”专长的武器进行一次单次攻击。如果这次攻击将你的敌人生命值降低到负数，你可以花费迅捷动作对附近30尺内所有看到你进行攻击的敌人进行一次威吓检定以挫败其士气。"
 }

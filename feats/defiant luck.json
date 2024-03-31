@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Defiant%20Luck",
     "source": ["Advanced Race Guide pg. 77"],
     "description": "You can sometimes defiantly shrug off spells and attacks that would kill a lesser creature.",
-    "prerequisites": "Human",
+    "prerequisites": "Human.",
     "benefit": "Once per day, after you roll a natural 1 on a saving throw or a critical hit is confirmed against you, you can either reroll that saving throw, or force the creature that confirmed the critical hit against you to reroll the critical confirmation roll. This does not stack with other effects that allow you to reroll a saving throw or an attack roll. You may only make one reroll.",
-    "special": "If you are using the optional hero point system, you can also spend 1 hero point when a critical hit is confirmed against you to have the opponent reroll the critical hit confirmation roll."
+    "special": "If you are using the optional hero point system, you can also spend 1 hero point when a critical hit is confirmed against you to have the opponent reroll the critical hit confirmation roll.",
+    "name_zh": "挑战机运",
+    "description_zh": "先决条件：人类。",
+    "prerequisites_zh": "人类。",
+    "benefit_zh": "每天1次，当你在一次豁免检定中自然骰出1或被确认重击时，你可以重骰该次豁免检定或迫使对你确认重击的生物重新进行重击确认检定。此专长的效果无法与其他允许你重骰豁免或攻击检定的能力同时使用。你仅可以进行一次重骰。",
+    "special_zh": "如果你使用“英雄点（Hero Points, APG）”系统，你也可以在被敌人确认重击时消费1点英雄点使他重新进行重击确认检定。"
 }

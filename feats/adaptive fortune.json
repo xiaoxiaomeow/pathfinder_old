@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Adaptive%20Fortune",
     "source": ["Advanced Race Guide pg. 66"],
     "description": "Your luck takes on almost legendary proportions.",
-    "prerequisites": "Fortunate One, adaptable luck racial trait, character level 10th, halfling",
+    "prerequisites": "Fortunate One, adaptable luck racial trait, character level 10th, halfling.",
     "benefit": "Increase the number of times per day you can use the adaptable luck racial trait by 1. Furthermore, when you use adaptable luck, increase the luck bonus for each type of use by 2.",
-    "prerequisiteKeys": ["fortunate one"]
+    "prerequisiteKeys": ["fortunate one"],
+    "name_zh": "万用强运",
+    "description_zh": "你拥有近乎传奇一般的运气。",
+    "prerequisites_zh": "幸运儿，【万用幸运】种族特性，角色等级10，半身人。",
+    "benefit_zh": "你的【万用幸运】种族特性的每日使用次数增加1次。此外，当你使用万用幸运时，你获得的加值额外+2。"
 }

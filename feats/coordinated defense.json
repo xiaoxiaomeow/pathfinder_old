@@ -10,5 +10,8 @@
     "description": "You are adept at working with allies to avoid being tripped, grappled, and subjected to other maneuvers.",
     "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus to your Combat Maneuver Defense. This bonus increases to +4 if the creature attempting the maneuver is larger than both you and your ally.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
-    "staminaText": "When you are targeted with a combat maneuver while you are adjacent to an ally who also has this feat, you can spend 1 or 2 stamina points. If you do, your bonus to Combat Maneuver Defense against that combat maneuver attempt increases by an amount equal to the number of stamina points you spent."
+    "staminaText": "When you are targeted with a combat maneuver while you are adjacent to an ally who also has this feat, you can spend 1 or 2 stamina points. If you do, your bonus to Combat Maneuver Defense against that combat maneuver attempt increases by an amount equal to the number of stamina points you spent.",
+    "name_zh": "协调防御",
+    "description_zh": "你擅长与盟友协同抵御绊摔、擒抱以及其他战技的威胁。",
+    "benefit_zh": "当与你相邻的盟友也具有该专长时，你的CMD获得+2表现加值。当尝试进行战技的生物比你和你的盟友体型都大时，这个加值提升至+4。"
 }

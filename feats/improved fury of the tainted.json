@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Blood of Fiends pg. 25"],
     "description": "Your hatred for goodness is rivaled only by your ability to repel it.",
-    "prerequisites": "Cha 13, Fury of the Tainted, base attack bonus +8, rage class feature, tiefling",
+    "prerequisites": "Cha 13, Fury of the Tainted, base attack bonus +8, rage class feature, tiefling.",
     "benefit": "While raging, you gain spell resistance equal to 10 + your class level against spells with the good descriptor.",
     "prerequisiteKeys": ["fury of the tainted"]
 }

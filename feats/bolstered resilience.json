@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bolstered%20Resilience",
     "source": ["Ultimate Combat pg. 90"],
     "description": "You can dramatically increase your damage reduction in exchange for its temporary loss.",
-    "prerequisites": "Damage reduction",
-    "benefit": "As an immediate action, you can double your DR against a single attack, to a maximum of DR 20. The type of the DR remains unchanged. If the attack you are guarding against is not successful, the increased damage reduction persists until you are hit with an attack or until the start of your next turn, whichever happens first. At the start of your next turn, you become fatigued. You cannot use this feat while you are fatigued."
+    "prerequisites": "Damage reduction.",
+    "benefit": "As an immediate action, you can double your DR against a single attack, to a maximum of DR 20. The type of the DR remains unchanged. If the attack you are guarding against is not successful, the increased damage reduction persists until you are hit with an attack or until the start of your next turn, whichever happens first. At the start of your next turn, you become fatigued. You cannot use this feat while you are fatigued.",
+    "name_zh": "鼓励恢复",
+    "description_zh": "你可以以暂时的消耗为代价在短时间内大大提高伤害减免能力。",
+    "prerequisites_zh": "伤害减免能力。",
+    "benefit_zh": "以直觉动作，你可以在针对一次单独攻击时将伤害减免翻倍，最高为20。伤害减免的伤害类型不会发生改变。如果你试图抵挡的攻击未命中你，增加后的伤害减免会继续存在，直到你被命中或下一次轮到你行动，取其先者。下一轮你的行动开始时，你陷入疲乏状态。你不能在疲乏状态时使用该专长。"
 }

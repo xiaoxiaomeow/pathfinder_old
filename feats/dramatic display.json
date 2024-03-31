@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 98"],
     "description": "Your skill with your weapon is obvious to enemies and onlookers alike.",
-    "prerequisites": "Dazzling Display",
+    "prerequisites": "Dazzling Display.",
     "benefit": "When you spend a swift action to make a performance check, you exude an aura of awe-inspiring skill. You gain a +2 bonus on your performance check, and gain a +2 bonus on all attack rolls and combat maneuver checks until the end of your next turn.",
     "staminaSource": ["Pathfinder Unchained pg. 118"],
     "staminaText": "When using this feat, you can spend 5 stamina points to also gain a +2 dodge bonus to AC until the end of your next turn.",
-    "prerequisiteKeys": ["dazzling display"]
+    "prerequisiteKeys": ["dazzling display"],
+    "name_zh": "精彩武技",
+    "description_zh": "你对武器的掌握技巧同时展现给对手和在场观众。",
+    "prerequisites_zh": "炫目技巧。",
+    "benefit_zh": "当你以迅捷动作进行演武检定时，技巧令人叹为观止。你的演武检定+2，并在下轮结束前的所有攻击和战技检定都获得+2加值。"
 }

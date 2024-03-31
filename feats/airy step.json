@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Airy%20Step",
     "source": ["Advanced Race Guide pg. 159"],
     "description": "The air responds to your innate elemental nature, protecting you from harm and cushioning your falls.",
-    "prerequisites": "Sylph",
-    "benefit": "You gain a +2 bonus on saving throws against effects with the air or electricity descriptors and effects that deal electricity damage. You may ignore the first 30 feet of any fall when determining falling damage."
+    "prerequisites": "Sylph.",
+    "benefit": "You gain a +2 bonus on saving throws against effects with the air or electricity descriptors and effects that deal electricity damage. You may ignore the first 30 feet of any fall when determining falling damage.",
+    "name_zh": "轻灵步",
+    "description_zh": "空气回应着你内在的元素本质，在你坠落时帮助缓冲，保护你免受伤害。",
+    "prerequisites_zh": "风元素裔。",
+    "benefit_zh": "你在对抗带有〔气〕与〔电〕描述符的效果，以及造成闪电伤害的效果时豁免检定+2。在计算坠落对你造成的伤害时视为比原高度低30尺。"
 }

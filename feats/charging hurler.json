@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 92"],
     "description": "You know how to use your momentum to enhance your thrown weapon attacks.",
-    "prerequisites": "Point-Blank Shot",
+    "prerequisites": "Point-Blank Shot.",
     "benefit": "You can use the charge rules to make a thrown weapon attack. All the parameters of a charge apply, except that you must only move closer to your opponent, and you must end your movement within 30 feet of that opponent. If you do, you can make a single thrown weapon attack against that opponent, gaining the +2 bonus on the attack roll and taking a –2 penalty to your AC until the start of your next turn.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
     "staminaText": "When using this feat, you can spend 2 stamina points to end your movement within 50 feet of your target instead of 30 feet.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "冲锋投掷",
+    "description_zh": "你知道如何利用惯性来提高投掷武器的杀伤力。",
+    "prerequisites_zh": "近距射击。",
+    "benefit_zh": "你可以在使用投掷武器时适用冲锋规则。这次攻击的所有规则都与冲锋相同，不过你移动的方向必须朝向你的敌人，而移动的终点必须位于该敌人半径30尺范围以内。如果你这样做了，你可以对这个敌人进行一次单独的投掷武器攻击，攻击骰获得+2加值，并且在你下一次行动前AC获得-2罚值。"
 }

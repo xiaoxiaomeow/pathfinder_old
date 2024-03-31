@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Witch%20Knife",
     "source": ["Ultimate Magic pg. 159"],
     "description": "You empower your witch spells by incorporating the use of a special ceremonial knife during your castings.",
-    "prerequisites": "Witch class",
+    "prerequisites": "Witch class.",
     "benefit": "Each day, when you prepare your spells, you can select a masterwork or magical dagger, transforming it into a witch knife, which serves as an additional focus component for witch patron spells. Add +1 to the DC of all your patron spells.",
     "mythicSource": ["Mythic Adventures pg. 77"],
     "mythicDescription": "Your witch knife is as much an extension of your body as it is an extension of your power.",
-    "mythicPrerequisites": "Witch Knife",
-    "mythicBenefit": "You can use your witch knife as an additional focus component for all your witch spells, not just your patron spells, adding 1 to their DC. This bonus stacks with the bonus to patron spells granted by Witch Knife, granting your patron spells a total +2 bonus to their DC. Additionally, the hand holding the witch knife is still considered free for the purpose of casting spells and delivering touch attacks."
+    "mythicPrerequisites": "Witch Knife.<br><br",
+    "mythicBenefit": "You can use your witch knife as an additional focus component for all your witch spells, not just your patron spells, adding 1 to their DC. This bonus stacks with the bonus to patron spells granted by Witch Knife, granting your patron spells a total +2 bonus to their DC. Additionally, the hand holding the witch knife is still considered free for the purpose of casting spells and delivering touch attacks.",
+    "name_zh": "女巫之刃",
+    "description_zh": "你在施法时可以通过一把经过特殊仪式的小刀增强法术效果。",
+    "prerequisites_zh": "女巫。",
+    "benefit_zh": "每日1次，你在准备法术时可以将一把精致品或者魔法匕首转化为一把女巫之刃，并将其作为你的女巫法术中额外的法器成份。你的所有庇护主法术的豁免DC+1。"
 }

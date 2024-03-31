@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ultimate%20Mercy",
     "source": ["Ultimate Magic pg. 158"],
     "description": "By using lay on hands, you can bring the dead back to life.",
-    "prerequisites": "Cha 19, Greater Mercy, lay on hands, mercy class feature",
+    "prerequisites": "Cha 19, Greater Mercy, lay on hands, mercy class feature.",
     "benefit": "You can expend 10 uses of lay on hands to bring a single dead creature you touch back to life as a <i>raise dead <\/i>spell with a caster level equal to your paladin level. You must provide the material component for raise dead or choose to accept 1 temporary negative level; this level automatically goes away after 24 hours, never becomes a permanent negative level, and cannot be overcome in any way except by waiting for the duration to expire.",
-    "prerequisiteKeys": ["greater mercy"]
+    "prerequisiteKeys": ["greater mercy"],
+    "name_zh": "至高恩赐",
+    "description_zh": "通过使用圣疗，你可以使死者苏生。",
+    "prerequisites_zh": "魅力19，高等恩惠，【圣疗】和【恩惠】职业特性。",
+    "benefit_zh": "通过消耗10次【圣疗】使用次数，你可以将一个接触的死亡生活复活，如同你施展了一个CL等同于你圣骑士等级的‘死者复活’。你必须选择支付‘死者复活’法术所需要的材料成分，或者获得一个暂时的负向等级。这个负向等级会在24小时后失去，并且绝不会变为永久性的负向等级，但也不会被任何方式克服除非直到持续时间结束。"
 }

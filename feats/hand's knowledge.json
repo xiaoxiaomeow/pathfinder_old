@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand's%20Knowledge",
     "source": ["Haunted Heroes Handbook pg. 24"],
     "description": "The connection to the memories of the spirit possessing your hand deepens.",
-    "prerequisites": "Possessed Hand",
+    "prerequisites": "Possessed Hand.",
     "benefit": "Select one Knowledge skill; this skill becomes a class skill for you. Additionally, select one of the following skills: Disable Device, Escape Artist, Heal, Sleight of Hand, or Use Magic Device. This skill becomes a class skill for you and you can attempt checks with the skill untrained. Once per day as a swift action, you can gain a bonus to any of the above skill checks equal to 1/2 your character level.",
     "prerequisiteKeys": ["possessed hand"]
 }

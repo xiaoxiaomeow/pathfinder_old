@@ -5,10 +5,14 @@
     "descriptors": ["Grit"],
     "source": ["Ultimate Combat pg. 95"],
     "description": "You keep an eye out while focusing on your weapon, allowing you to avoid attacks while shooting and reloading firearms.",
-    "prerequisites": "Grit class feature or Amateur Gunslinger feat, Dodge, Mobility",
+    "prerequisites": "Grit class feature or Amateur Gunslinger feat, Dodge, Mobility.",
     "benefit": "As long as you have at least 1 grit point, you do not provoke attacks of opportunity when shooting or reloading a firearm.",
     "prerequisiteKeys":     [
         "dodge",
         "mobility"
-    ]
+    ],
+    "name_zh": "熟练射手",
+    "description_zh": "当你专注于你的武器时仍保持警惕，使得你在射击或装填火器时能避免受到攻击。",
+    "prerequisites_zh": "【勇毅】职业特性或业余铳士专长，闪避，灵活移动。",
+    "benefit_zh": "当你还有至少1点勇毅点时，你不会在射击或装填火器时引发借机攻击。"
 }

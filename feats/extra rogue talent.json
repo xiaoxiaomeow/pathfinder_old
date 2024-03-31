@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Rogue%20Talent",
     "source": ["Advanced Player's Guide pg. 160"],
     "description": "Through constant practice, you have learned how to perform a special trick.",
-    "prerequisites": "Rogue talent class feature",
+    "prerequisites": "Rogue talent class feature.",
     "benefit": "You gain one additional rogue talent. You must meet all of the prerequisites for this rogue talent.",
-    "special": "You can gain Extra Rogue Talent multiple times."
+    "special": "You can gain Extra Rogue Talent multiple times.",
+    "name_zh": "额外盗贼天赋",
+    "description_zh": "通过不断练习，你习得了一种新的技法。",
+    "prerequisites_zh": "【盗贼天赋】职业特性。",
+    "benefit_zh": "你获得一个【盗贼天赋】。你必须满足这个盗贼天赋的全部先决条件才能选取。",
+    "special_zh": "你能够多次选择本专长。"
 }

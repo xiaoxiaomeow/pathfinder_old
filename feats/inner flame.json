@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 130"],
     "description": "Your body generates so much heat that your mere touch scorches your enemies.",
-    "prerequisites": "Scorching Weapons, character level 7th, ifrit",
+    "prerequisites": "Scorching Weapons, character level 7th, ifrit.",
     "benefit": "Your bonus on saves against fire attacks and spells with the fire descriptor or light descriptor increases to +4. When you use Scorching Weapons, the affected weapons deal an additional 1d6 points of fire damage instead of 1, and when you are grappling, you deal this damage to your grappling opponent on your turn.",
     "staminaSource": ["Pathfinder Unchained pg. 124"],
     "staminaText": "When you fail a saving throw against an effect that has the fire or light descriptor, you can spend 5 stamina points to reroll the saving throw. You must take the second result, even if it is worse.",
-    "prerequisiteKeys": ["scorching weapons"]
+    "prerequisiteKeys": ["scorching weapons"],
+    "name_zh": "炽焰核心",
+    "description_zh": "你的身体产生了如此之多的热能，使得你仅靠触摸就能烧焦敌人。",
+    "prerequisites_zh": "炙热武器，角色等级7，火元素裔。",
+    "benefit_zh": "你在对抗火焰攻击以及带有〔火〕或者〔光亮〕描述符的法术时的豁免加值提升至+4。当你使用“炙热武器”时，被影响的武器造成额外1d6火焰伤害而非原本的1点，此外当你处于擒抱状态时，你可以在你的行动轮对擒抱对手造成该伤害。"
 }

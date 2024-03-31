@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 66"],
     "description": "You are adept at hitting larger opponents where it hurts.",
-    "prerequisites": "Base attack bonus +4, halfling, low-blow racial trait",
+    "prerequisites": "Base attack bonus +4, halfling, low-blow racial trait.",
     "benefit": "Your bonus to confirm critical hits against opponents larger than yourself improves to +2. Furthermore, once per day, after you fail to hit with a critical hit confirmation roll, you can reroll the confirmation roll, but must take the new result even if it is worse.",
     "staminaSource": ["Pathfinder Unchained pg. 123"],
-    "staminaText": "You can spend 5 stamina points to reroll a second critical hit confirmation roll in the same day."
+    "staminaText": "You can spend 5 stamina points to reroll a second critical hit confirmation roll in the same day.",
+    "name_zh": "精通下盘打击",
+    "description_zh": "你更加精通和比你大的敌人战斗。",
+    "prerequisites_zh": "基本攻击加值+4，半身人，“下盘打击”种族特性。",
+    "benefit_zh": "你由“下盘打击”种族特性获得的重击确认加值为+2。此外，每天1次，当你重击确认失败时，你可以重骰，并接受即使更坏的新结果。"
 }

@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Evolution",
     "source": ["Ultimate Magic pg. 150"],
     "description": "Your eidolon has more evolutions. ",
-    "prerequisites": "Eidolon class feature",
+    "prerequisites": "Eidolon class feature.",
     "benefit": "Your eidolon’s evolution pool increases by 1.",
-    "special": "This evolution can be taken once at 1st level, and again at 5th, 10th, 15th and 20th."
+    "special": "This evolution can be taken once at 1st level, and again at 5th, 10th, 15th and 20th.",
+    "name_zh": "额外进化",
+    "description_zh": "你的幻灵拥有更多的进化。",
+    "prerequisites_zh": "【幻灵】职业特性。",
+    "benefit_zh": "你幻灵的进化池增加1点。",
+    "special_zh": "你可以在1级选择这一次进化，并且在5级、10级、15级和20级再次选择。"
 }

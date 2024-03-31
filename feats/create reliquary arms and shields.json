@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Create%20Reliquary%20Arms%20and%20Shields",
     "source": ["Ultimate Magic pg. 148"],
     "description": "Your magical creations are infused with divine power.",
-    "prerequisites": "Craft Magic Arms and Armor, ability to cast consecrate or desecrate",
+    "prerequisites": "Craft Magic Arms and Armor, ability to cast consecrate or desecrate.",
     "benefit": "When you craft a magic weapon, magic armor, or magic shield, you may add one casting of <i>consecrate <\/i>or <i>desecrate <\/i>as part of the item crafting process. This increases the item’s price by 250 gp. The item becomes a reliquary and can be used as a holy (or unholy) symbol divine focus of your deity. If you cast <i>consecrate <\/i>or <i>desecrate<\/i>, your reliquary counts as a permanent fixture for that spell while it remains in the spell’s area.",
-    "prerequisiteKeys": ["craft magic arms and armor"]
+    "prerequisiteKeys": ["craft magic arms and armor"],
+    "name_zh": "制造圣遗物",
+    "description_zh": "你在制造的魔法物品被灌入了神圣的力量。",
+    "prerequisites_zh": "制造魔法武器和盔甲，使用‘祝圣术（consecrate）’或者‘亵渎术（desecrate）’的能力。",
+    "benefit_zh": "你将‘祝圣术’或者‘亵渎术’作为制造一件魔法武器、魔法护甲、魔法盾牌的一部份。这会增加制品的价格250gp。制品会成为一件圣遗物，可以作为你所信奉的神祇的圣徽（或邪徽）法器。如果你施放‘祝圣术’或者‘亵渎术’，法术区域内你的圣遗物将被视为你所信奉的神祇的永久性固定物品。"
 }

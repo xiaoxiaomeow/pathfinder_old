@@ -5,8 +5,8 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 137"],
     "description": "You can strike out at every foe within reach.",
-    "prerequisites": "Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack bonus +4",
-    "benefit": "When you use the full-attack action, you can give up your regular attacks and instead make one melee attack at your highest base attack bonus against each opponent within reach. You must make a separate attack roll against each opponent.",
+    "prerequisites": "Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack bonus +4.",
+    "benefit": "When you use the full-attack action, you can give up your regular attacks and instead make one melee attack at your highest base attack bonus against each opponent within reach. You must make a separate attack roll against each opponent.<br><br>When you use the Whirlwind Attack feat, you also forfeit any bonus or extra attacks granted by other feats, spells, or abilities.",
     "staminaSource": ["Pathfinder Unchained pg. 135"],
     "staminaText": "When using this feat, you can spend stamina points to still take bonus or extra attacks granted by other feats, spells, or abilities. You must spend 5 stamina points per extra attack you take in this way. This combat trick allows you to make extra attacks to which you have access—it doesn’t by itself grant extra attacks.",
     "prerequisiteKeys":     [

@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Arcana",
     "source": ["Ultimate Magic pg. 149"],
     "description": "You have unlocked the secret of a new magus arcana.",
-    "prerequisites": "Magus arcana class feature",
+    "prerequisites": "Magus arcana class feature.",
     "benefit": "You gain one additional magus arcana. You must meet all the prerequisites for this magus arcana.",
-    "special": "You can gain this feat multiple times. Its effects stack, granting a new arcana each time you gain this feat."
+    "special": "You can gain this feat multiple times. Its effects stack, granting a new arcana each time you gain this feat.",
+    "name_zh": "额外奥能",
+    "description_zh": "你发掘了一个新魔战士奥能的秘密。",
+    "prerequisites_zh": "【魔战士奥能】职业特性。",
+    "benefit_zh": "你获得一个额外的魔战士奥能。你必须符合这一魔战士奥能所有的先决条件。",
+    "special_zh": "你可以多次选择本专长，其效果累计。"
 }

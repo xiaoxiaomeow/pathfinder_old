@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
     "description": " Your thick skull is almost a weapon unto itself.",
-    "prerequisites": "Base attack bonus +1, dwarf",
+    "prerequisites": "Base attack bonus +1, dwarf.",
     "benefit": "You gain a +1 bonus on attack rolls and combat maneuver checks made using a helmet. You receive a +2 bonus on saves against spells and special abilities that cause you to become staggered or stunned.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
-    "staminaText": "When targeted by a spell or a special ability that could cause you to become staggered or stunned, you can spend up to 2 stamina points before attempting the save to gain a bonus on the saving throw equal to the number of stamina points you spent."
+    "staminaText": "When targeted by a spell or a special ability that could cause you to become staggered or stunned, you can spend up to 2 stamina points before attempting the save to gain a bonus on the saving throw equal to the number of stamina points you spent.",
+    "name_zh": "铁头",
+    "description_zh": "你坚固的头部基本就是一件武器。",
+    "prerequisites_zh": "基本攻击加值+1，矮人。",
+    "benefit_zh": "你使用头盔进行攻击或使用战技时，攻击检定以及战技检定获得+1加值。当你对抗那些使你震慑或恍惚的法术或类法术能力时，豁免检定获得+2加值。"
 }

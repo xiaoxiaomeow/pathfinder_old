@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Expert%20Driver",
     "source": ["Ultimate Combat pg. 100"],
     "description": "When driving a chosen type of vehicle, you exhibit incredible control, maneuvering the vehicle with greater ease and stopping with uncanny precision. ",
-    "prerequisites": "Skilled Driver with the selected vehicle type",
-    "benefit": "You can make an accelerate, decelerate, or turn action as a move action instead of a standard action. Furthermore, when stopping a vehicle, you subtract 10 feet from the roll to determine how many feet the vehicle moves forward before it stops."
+    "prerequisites": "Skilled Driver with the selected vehicle type.",
+    "benefit": "You can make an accelerate, decelerate, or turn action as a move action instead of a standard action. Furthermore, when stopping a vehicle, you subtract 10 feet from the roll to determine how many feet the vehicle moves forward before it stops.",
+    "name_zh": "专业御者",
+    "description_zh": "你在驾驶特定类型载具时展现出了令人惊叹的技术，操控得当、停位精准。",
+    "prerequisites_zh": "指定类型载具的“熟练御者”专长。",
+    "benefit_zh": "你能以移动动作而非标准动作进行加速、减速或转向。此外，当你刹车时，在完全停止前滑行的距离减少10尺。"
 }

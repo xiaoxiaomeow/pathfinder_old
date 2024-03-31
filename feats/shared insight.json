@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shared%20Insight",
     "source": ["Advanced Player's Guide pg. 169"],
     "description": "You deftly direct others’ attentions where you wish.",
-    "prerequisites": "Wis 13, half-elf",
-    "benefit": "As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on Perception checks for a number of rounds equal to your Wisdom modifier (minimum 1 round)."
+    "prerequisites": "Wis 13, half-elf.",
+    "benefit": "As a move action, you can grant all friendly creatures within 30 feet who can see or hear you a +2 bonus on Perception checks for a number of rounds equal to your Wisdom modifier (minimum 1 round).",
+    "name_zh": "感官共享",
+    "description_zh": "你能够熟练地让他人注意到你希望他们注意的地方。",
+    "prerequisites_zh": "感知13，半精灵。",
+    "benefit_zh": "以移动动作，你能够使30尺内并且能够看到或听到你的盟友在察觉检定上获得+2加值，持续轮数等同于你的感知修正（最低1轮）。"
 }

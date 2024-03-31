@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 116"],
     "description": "With your victory and a roar, you push yourself on with increased savagery.",
-    "prerequisites": "Dazzling Display",
+    "prerequisites": "Dazzling Display.",
     "benefit": "When you spend a swift action to make a performance combat check, you gain a +2 bonus on your performance combat check and gain a +1d6 bonus on damage rolls until the end of your next turn. This extra damage is not precision damage.",
     "staminaSource": ["Pathfinder Unchained pg. 130"],
     "staminaText": "When using this feat, you can spend 2 stamina points to gain a +2d6 bonus on damage rolls (instead of +1d6).",
-    "prerequisiteKeys": ["dazzling display"]
+    "prerequisiteKeys": ["dazzling display"],
+    "name_zh": "凶蛮技俩",
+    "description_zh": "通过胜出和一声怒吼，你激发了自己的猛恶天性。",
+    "prerequisites_zh": "炫目技巧。",
+    "benefit_zh": "当你以迅捷动作进行演武检定时，你的演武检定+2、并在下轮结束前伤害检定+1d6。此额外伤害不属于精准伤害。"
 }

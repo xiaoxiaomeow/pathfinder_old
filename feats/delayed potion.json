@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Delayed%20Potion",
     "source": ["Potions and Poisons pg. 16"],
     "description": "You can brew potions whose effects are delayed slightly.",
-    "prerequisites": "Brew Potion, caster level 5th",
+    "prerequisites": "Brew Potion, caster level 5th.",
     "benefit": "When you brew a potion, you can have the potion’s effects be delayed by up to 10 rounds after a creature consumes it. Once you decide how many rounds the potion’s effects will be delayed by, that decision cannot later be changed. When a delayed potion is imbibed, it has no effect for the chosen number of rounds, and then it affects the imbiber as normal. The rounds in which the potion’s effects are delayed do not count against the duration of the potion’s effect. A spell brewed into a potion this way does not use up a higher-level spell slot than the spell’s actual level.",
     "prerequisiteKeys": ["brew potion"]
 }

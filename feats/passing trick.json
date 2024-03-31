@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 112"],
     "description": "Slipping past a foe gives you the chance to feint.",
-    "prerequisites": "Int 13, Combat Expertise, Dodge, Improved Feint, Mobility, size Small or smaller",
+    "prerequisites": "Int 13, Combat Expertise, Dodge, Improved Feint, Mobility, size Small or smaller.",
     "benefit": "Whenever you make a successful Acrobatics check to move through an opponent’s space, you can spend a swift action to make a Bluff check against that opponent to feint in combat.",
     "special": "If you have the Underfoot feat and the opponent is larger than you, you gain a +2 bonus on the Bluff check this feat allows.",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
@@ -15,5 +15,10 @@
         "dodge",
         "improved feint",
         "mobility"
-    ]
+    ],
+    "name_zh": "越位虚招",
+    "description_zh": "穿越一个敌人所在位置能给予你晃点他的机会。",
+    "prerequisites_zh": "智力13，寓守于攻，闪避，精通虚招，灵活移动，小体型或更小。",
+    "benefit_zh": "每当你成功的进行了一次特技检定以穿过对手所在空间，你可以用迅捷动作对其进行一次唬骗检定以施放虚招。",
+    "special_zh": "如果你拥有“钻胯而过（Underfoot, APG）”专长而对手正好比你体型大，你在本专长的唬骗检定上获得+2加值。"
 }

@@ -10,5 +10,8 @@
     "description": "You are skilled at working with your allies to perform dangerous combat maneuvers.",
     "benefit": "Whenever you are adjacent to an ally who also has this feat, you receive a +2 competence bonus on all combat maneuver checks. This bonus increases to +4 when attempting to break free from a grapple.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
-    "staminaText": "When you attempt a combat maneuver while adjacent to an ally who also has this feat, you can spend 1 stamina point to increase your bonus from this feat on that combat maneuver check by 2."
+    "staminaText": "When you attempt a combat maneuver while adjacent to an ally who also has this feat, you can spend 1 stamina point to increase your bonus from this feat on that combat maneuver check by 2.",
+    "name_zh": "协调战技",
+    "description_zh": "你擅长与盟友联手进行危险的战技。",
+    "benefit_zh": "当与你相邻的盟友也具有该专长时，所有战技检定获得+2表现加值。这个加值在摆脱擒抱时提升至+4。"
 }

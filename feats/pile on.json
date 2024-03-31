@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
     "description": "You can keep a foe shuddering in fear.",
-    "prerequisites": "Str 13, Hurtful, Power Attack",
+    "prerequisites": "Str 13, Hurtful, Power Attack.",
     "benefit": "Once per round when you damage a creature that is shaken, frightened, or panicked, you can choose to deal half your normal damage in order to extend the duration of its fear condition by 1 round.",
     "prerequisiteKeys":     [
         "hurtful",

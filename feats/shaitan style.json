@@ -8,12 +8,16 @@
     ],
     "source": ["Ultimate Combat pg. 118"],
     "description": "You strike with the caustic forces from within the earth.",
-    "prerequisites": "Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th",
+    "prerequisites": "Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using the Shaitan Style and Elemental Fist feats to deal acid damage, you gain a bonus on acid damage rolls equal to your Wisdom bonus. Further, if your Elemental Fist melee attack misses while you are using it to deal acid damage, you still deal 1d6 points of acid damage to your target.",
     "staminaSource": ["Pathfinder Unchained pg. 131"],
     "staminaText": "When you make an Elemental Fist<sup>APG<\/sup> attack to deal acid damage, you can spend up to 5 stamina points. When you do, you deal an amount of additional acid damage equal to double the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "elemental fist",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "土灵",
+    "description_zh": "你以大地之力谨慎进击。",
+    "prerequisites_zh": "体质13，感知15，元素之拳，精通徒手打击，基本攻击加值+9或武僧5级。",
+    "benefit_zh": "你获得1次额外“元素之拳”每日使用次数。当你在此流派架势中使用元素之拳，你在造成酸系伤害时获得等于你感知加值的额外伤害。如果你在此架势中使用酸系元素之拳没有命中，你仍然能给予对手1d6强酸伤害。"
 }

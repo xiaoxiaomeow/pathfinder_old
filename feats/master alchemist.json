@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20Alchemist",
     "source": ["Advanced Player's Guide pg. 165"],
     "description": "Your mastery of alchemy is nearly supernatural.",
-    "prerequisites": "Craft (alchemy) 5 ranks",
-    "benefit": "You receive a +2 bonus on Craft (alchemy) checks, and you may create mundane alchemical items much more quickly than normal. When making poisons, you can create a number of doses equal to your Intelligence modifier (minimum 1) at one time. These additional doses do not increase the time required, but they do increase the raw material cost."
+    "prerequisites": "Craft (alchemy) 5 ranks.",
+    "benefit": "You receive a +2 bonus on Craft (alchemy) checks, and you may create mundane alchemical items much more quickly than normal. When making poisons, you can create a number of doses equal to your Intelligence modifier (minimum 1) at one time. These additional doses do not increase the time required, but they do increase the raw material cost. <br><br> In addition, whenever you make alchemical items or poisons using Craft (alchemy), use the item’s gp value as its sp value when determining your progress (do not multiply the item’s gp cost by 10 to determine its sp cost).",
+    "name_zh": "炼金大师",
+    "description_zh": "你对炼金术掌握的程度近乎神技。",
+    "prerequisites_zh": "工艺（炼金）5级。",
+    "benefit_zh": "你的工艺（炼金）检定获得+2加值，你能够以更快的速度制造普通炼金物品。当你制造毒药时，你能够同时制作等同于你的智力修正（最低为1）剂毒药。这些额外的毒药并不会增加制作所需的时间，但是它们仍旧如常增加材料成本。此外，当你使用工艺（炼金）制作炼金物品或者毒药时，使用物品的金币（gp）价值当做银币（sp）价值来判断工作的进程（你不需要将金币价格乘10来得出银币价值，而是直接使用金币的价值替代）<\/p><p>【PFS】仅限炼金术师和制毒大师(游荡者变体)使用。"
 }

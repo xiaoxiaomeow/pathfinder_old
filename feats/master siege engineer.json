@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 109"],
     "description": "You are significantly faster at loading a siege engine, as well as a better shot.",
-    "prerequisites": "Siege Weapon Engineer, Knowledge (engineering) 10 ranks",
+    "prerequisites": "Siege Weapon Engineer, Knowledge (engineering) 10 ranks.",
     "benefit": "If you are the crew lead on a siege engine, your crew can use move actions to load a siege engine. When you spend actions to aim a siege engine, you and your crew can use move actions instead of full-round actions to aim the siege engine (page 160).",
     "normal": "Full-round actions are required to load and aim siege engines.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
-    "staminaText": "You can spend 5 stamina points to reduce the number of actions it takes to aim and load a siege engine by one for 1 round (minimum one action). You must be the crew lead of that siege engine."
+    "staminaText": "You can spend 5 stamina points to reduce the number of actions it takes to aim and load a siege engine by one for 1 round (minimum one action). You must be the crew lead of that siege engine.",
+    "name_zh": "攻城宗匠",
+    "description_zh": "你装填攻城兵器更加迅速，射击也更精确。",
+    "prerequisites_zh": "攻城技师，知识（工程）10级。",
+    "benefit_zh": "当你身为攻城兵器的机师长时，你的技师组能以移动动作进行装填；当你需要消耗动作来下令瞄准时，你和你的技师组以移动动作而非整轮动作来操作攻城兵器进行瞄准。<\/p><p>通常状况：攻城兵器的装填和瞄准都需要数个整轮动作。<\/p><p>【译注：注意攻城兵器的装填和瞄准都需要消耗“数个”整轮动作，拥有此专长只是将其缩短为“数个”移动动作，而非一下了事。】"
 }

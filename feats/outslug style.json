@@ -8,7 +8,7 @@
     ],
     "source": ["Weapon Master's Handbook pg. 16"],
     "description": "You dart in and out of combat.",
-    "prerequisites": "Int 13; Combat Expertise or brawler's cunning class feature; Weapon Focus with the chosen weapon",
+    "prerequisites": "Int 13; Combat Expertise or brawler's cunning class feature; Weapon Focus with the chosen weapon.",
     "benefit": "Choose one weapon from the close fighter weapon group. While using this style, when you take a 5-foot step, you gain a +1 dodge bonus to AC and a +1 bonus on weapon damage rolls with the chosen weapon until the beginning of your next turn.",
     "special": "In addition to the chosen weapon, a character with the weapon training (close) or the brawler’s close weapon mastery<sup>ACG<\/sup> class feature can use Outslug Style with any close weapon.",
     "prerequisiteKeys": ["combat expertise"]

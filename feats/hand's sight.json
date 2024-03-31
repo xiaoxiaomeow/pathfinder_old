@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hand's%20Sight",
     "source": ["Haunted Heroes Handbook pg. 25"],
     "description": "By manifesting an eerie, spiritual eye of its own, your possessed hand can “see” on your behalf.",
-    "prerequisites": "Possessed Hand",
+    "prerequisites": "Possessed Hand.",
     "benefit": "While your possessed hand isn’t carrying anything, you gain darkvision with a range of 60 feet and cannot be flanked.",
     "prerequisiteKeys": ["possessed hand"]
 }

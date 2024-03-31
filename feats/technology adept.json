@@ -5,7 +5,10 @@
     "descriptors": ["Combat"],
     "source": ["Technology Guide pg. 7"],
     "description": "You utilize high-tech firearms to maximum effect.",
-    "prerequisites": "Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Sho",
+    "prerequisites": "Dex 13, Exotic Weapon Proficiency (firearms), Point-Blank Shot",
     "benefit": "When you attack with a technological firearm that consumes charges, the save DC of any effect caused by that firearm increases by 1. If your bonuses from Point-Blank Shot apply, it increases by 2 instead.",
-    "prerequisiteKeys": ["exotic weapon proficiency"]
+    "prerequisiteKeys":     [
+        "exotic weapon proficiency",
+        "point-blank shot"
+    ]
 }

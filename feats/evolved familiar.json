@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Evolved%20Familiar",
     "source": ["Ultimate Magic pg. 149"],
     "description": "Your familiar is different from others of its kind.",
-    "prerequisites": "Int 13, Cha 13, familiar class feature",
-    "benefit": "Select an evolution from the list of 1-point evolutions available to a summoner’s eidolon. Your familiar has this evolution. The familiar must conform to any limitations of the evolution. For instance, no familiars can benefit from the mount evolution and only familiars with wings can take the wing buffet evolution.",
-    "special": "You can gain this feat multiple times. Its effects stack, granting a new 1-point evolution to your familiar each time you gain this feat."
+    "prerequisites": "Int 13, Cha 13, familiar class feature.",
+    "benefit": "Select an evolution from the list of 1-point evolutions available to a summoner’s eidolon. Your familiar has this evolution. The familiar must conform to any limitations of the evolution. For instance, no familiars can benefit from the mount evolution and only familiars with wings can take the wing buffet evolution.<br><br> If you gain a new familiar, your old familiar loses all evolutions, and you can select a new 1-point evolution for the new familiar.",
+    "special": "You can gain this feat multiple times. Its effects stack, granting a new 1-point evolution to your familiar each time you gain this feat.",
+    "name_zh": "进化魔宠",
+    "description_zh": "你的魔宠与他人大不相同。",
+    "prerequisites_zh": "智力13，魅力13，【魔宠】职业特性。",
+    "benefit_zh": "从召唤师幻灵的进化列表中选择一个花费1点进化点的进化。你的魔宠获得这一进化。魔宠必须符合这一进化的先决条件。例如，没有魔宠可以获得【坐骑】进化；只有长翅膀的魔宠才可以获得【翼击】进化。如果你获得了一只新魔宠，你原来的魔宠失去所有进化，而你可以为你的新魔宠重新选择一个花费1点进化点的进化。",
+    "special_zh": "你可以多次选择这一专长，每次你选择这一专长时，你得到一个花费1点进化点的进化。"
 }

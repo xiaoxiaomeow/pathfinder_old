@@ -8,10 +8,15 @@
     ],
     "source": ["Advanced Player's Guide pg. 157"],
     "description": "You are able to maim a target and hinder its movement. ",
-    "prerequisites": "Critical Focus, base attack bonus +13",
+    "prerequisites": "Critical Focus, base attack bonus +13.",
     "benefit": "Whenever you score a critical hit against an opponent, its speed is halved for 1 minute. A successful Fortitude save reduces this duration to 1d4 rounds. The DC of this save is equal to 10 + your base attack bonus. Against creatures with multiple types of movement, you must choose which movement type to affect. A flying creature hit by this attack must make a DC 10 Fly check to remain airborne, and has its maneuverability reduced by one step.",
     "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "When you confirm a critical hit and attempt to cripple an opponent with this feat, you can spend up to 5 stamina points to increase the DC of this feat’s saving throw by an amount equal to the number of stamina points you spent.",
-    "prerequisiteKeys": ["critical focus"]
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "致跛重击",
+    "description_zh": "你能够让目标残废，使其运动受到阻碍。",
+    "prerequisites_zh": "重击专攻，基本攻击加值+13。",
+    "benefit_zh": "当你成功对一名敌人造成重击时，他的速度会减半，持续1分钟。成功的强韧豁免能够使持续时间降低至1d4轮。该次豁免的DC等同于“10+你的BAB”。对于拥有多种移动类型的生物，你必须选择想要影响的移动类型。正在飞行的生物若被此攻击命中，则必须进行DC为10的飞行检定以保持滞留在空中，并且它的机动性会下降一级。",
+    "special_zh": "你只能将一种重击专长的效果应用到一次确认的重击上，除非你拥有“重击大师”专长。<\/p><p>【编注：本专长没有〔重击专长〕标签，这很诡异。】"
 }

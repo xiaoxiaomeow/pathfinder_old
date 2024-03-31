@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 128"],
     "description": "You can make a single attack that deals a large amount of damage.",
-    "prerequisites": "Vital Strike, base attack bonus +11",
+    "prerequisites": "Vital Strike, base attack bonus +11.",
     "benefit": "When you use the attack action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack three times and add the results together before adding bonuses from Strength, weapon abilities (such as <i>flaming<\/i>), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.",
     "staminaSource": ["Pathfinder Unchained pg. 124"],
     "staminaText": "When using the Vital Strike combat trick, you can spend 3 stamina points instead of 2 to reroll three damage dice.",

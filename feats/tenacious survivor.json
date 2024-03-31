@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tenacious%20Survivor",
     "source": ["Advanced Race Guide pg. 58"],
     "description": "Your spirit lingers long after any other’s would have passed on.",
-    "prerequisites": "Con 13, Diehard, Endurance, half-orc or orc",
+    "prerequisites": "Con 13, Diehard, Endurance, half-orc or orc.",
     "benefit": "When you are killed by hit point damage, your soul lingers in your body for a number of rounds equal to your Constitution bonus. You are still dead, but a creature can make a DC 10 Heal check as a standard action to realize that you can still be saved. You can be healed by magic as if you were alive. If you are healed enough hit points that you would no longer be dead, you are alive again, but you gain one permanent negative level.",
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
-    ]
+    ],
+    "name_zh": "顽强幸存者",
+    "description_zh": "同样处于死亡边缘，其他人都挺不过你灵魂徘徊的时间。",
+    "prerequisites_zh": "体质13，顽强，坚忍，半兽人或兽人。",
+    "benefit_zh": "当你死于HP伤害，你的灵魂会在你的体内徘徊的轮数等同于你的体质加值。你依旧死亡，但是其他生物能够以一个标准动作进行DC为10的医疗检定发现你能够被救活。你能够如同活着的状态一般被法术治疗。如果你受到足够的治疗使你脱离死亡，那么你会活过来，但是你因此获得1个永久的负等级。"
 }

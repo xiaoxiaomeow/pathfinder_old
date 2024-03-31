@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Expanded%20Fiendish%20Resistance",
     "source": ["Advanced Race Guide pg. 174"],
     "description": "You gain extra fiendish resistances.",
-    "prerequisites": "Tiefling",
+    "prerequisites": "Tiefling.",
     "benefit": "Pick one of the following energy types that you do not already have resistance to: acid, cold, electricity, or fire. You gain resistance 5 to that energy type.",
-    "special": "You can take this feat multiple times. Each time you do, pick another energy type you do not have resistance to. You gain resistance 5 to that energy type."
+    "special": "You can take this feat multiple times. Each time you do, pick another energy type you do not have resistance to. You gain resistance 5 to that energy type.",
+    "name_zh": "额外炼狱抗力",
+    "description_zh": "你获得额外的炼狱抗力。",
+    "prerequisites_zh": "魔裔。",
+    "benefit_zh": "在强酸、寒冷、闪电以及火焰中选择一种你还没有抗力的能量类型，你或得5点该类型的能量抗力。",
+    "special_zh": "你可以多次选择该专长，每次你这么做都需要选择一种你仍未获得抗力的能量类型，并且获得5点该类型能量抗力。"
 }

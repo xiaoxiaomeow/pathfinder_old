@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 109"],
     "description": "You craft a special victory performance that causes the crowd to go wild. ",
-    "prerequisites": "Dazzling Display, any two performance feats",
+    "prerequisites": "Dazzling Display, any two performance feats.",
     "benefit": "Choose the effects of any two performance feats you have. When you make a performance combat check, you gain the benefits of those two feats, but you only gain a +2 bonus on the performance combat check.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
     "staminaText": "When choosing the effects of any two performance feats you possess, you can spend 2 stamina points to gain the bonus from both feats on your performance combat check.",
-    "prerequisiteKeys": ["dazzling display"]
+    "prerequisiteKeys": ["dazzling display"],
+    "name_zh": "宗师极意",
+    "description_zh": "你做出了招牌式的胜利姿态，观众为之狂野。",
+    "prerequisites_zh": "炫目技巧，任意两项演武专长。",
+    "benefit_zh": "任选两项你所拥有的演武专长。当你进行演武检定时，可以同时获得这两项专长的效果，不过演武检定本身获得的加值还是只有+2。"
 }

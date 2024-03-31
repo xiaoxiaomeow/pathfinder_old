@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Brutality",
     "source": ["Ultimate Combat pg. 114"],
     "description": "You expend some of your rage to strike your opponents with a more powerful weapon blow.",
-    "prerequisites": "Str 13, rage class feature, Power Attack, base attack bonus +12",
+    "prerequisites": "Str 13, rage class feature, Power Attack, base attack bonus +12.",
     "benefit": "While raging and using Power Attack, you can spend 3 additional rounds of your rage as a swift action to add your Constitution bonus on damage rolls for melee attacks or thrown weapon attacks you make on your turn. If you are using the weapon two-handed, instead add 1-1/2 times your Constitution bonus. This bonus damage is not multiplied on a critical hit.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "狂暴猛击",
+    "description_zh": "你将怒气灌注于一击之中，使武器造成更大的伤害。",
+    "prerequisites_zh": "力量13，【狂暴】职业特性，猛力攻击，基本攻击加值+12。",
+    "benefit_zh": "当处于狂暴并使用“猛力攻击”时，你可以用迅捷动作额外消耗3轮狂暴时间，将你的体质修正添加在本轮你造成的近战或投掷伤害中。如果你使用的是双手武器，加值为1.5倍体质修正。这些额外伤害不会被重击所加成。"
 }

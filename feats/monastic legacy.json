@@ -5,13 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 109"],
     "description": "Your formal unarmed training continues to bolster your training in other areas. ",
-    "prerequisites": "Still mind class feature, Improved Unarmed Strike",
+    "prerequisites": "Still mind class feature, Improved Unarmed Strike.",
     "benefit": "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your base unarmed strike damage. This feat does not make levels in classes other than monk count toward any other monk class features.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
     "staminaText": "At the start of your turn, you can spend 5 stamina points to use your full character level to determine your effective monk level for your unarmed strike damage. This increase lasts until the start of your next turn.",
     "mythicSource": ["Mythic Adventures pg. 69"],
     "mythicDescription": "Every new experience carries you another step further along your path to enlightenment.",
-    "mythicPrerequisites": "Monastic Legacy",
+    "mythicPrerequisites": "Monastic Legacy.<br><br",
     "mythicBenefit": "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your AC bonus. As a free action, you can expend one use of mythic power to add half your tier to your effective monk level to determine your base unarmed strike damage and AC bonus until the start of your next turn.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "修道传承",
+    "description_zh": "即使投身旁门，你也不曾荒废武学的修炼。",
+    "prerequisites_zh": "【心如止水】职业特性，精通徒手打击。",
+    "benefit_zh": "在计算你的基础徒手打击伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。"
 }

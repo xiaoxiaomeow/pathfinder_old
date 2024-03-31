@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Action",
     "source": ["Advanced Race Guide pg. 141"],
     "description": "You ferocity is quick but shorter lived.",
-    "prerequisites": "Ferocity racial trait, orc",
-    "benefit": "When you fall to 0 hit points or fewer, you lose 2 hit points each round, but you are not staggered. If you are in a rage (such as that caused by the barbarian rage class feature), you instead only lose 1 hit point per round."
+    "prerequisites": "Ferocity racial trait, orc.",
+    "benefit": "When you fall to 0 hit points or fewer, you lose 2 hit points each round, but you are not staggered. If you are in a rage (such as that caused by the barbarian rage class feature), you instead only lose 1 hit point per round.",
+    "name_zh": "凶猛行动",
+    "description_zh": "凶猛的你迅捷而薄命。",
+    "prerequisites_zh": "【凶猛】种族特性，兽人。",
+    "benefit_zh": "当你HP降为0或更低时，你每轮失去2点HP，但是你不会陷入恍惚。若你处在狂暴中（比如来自野蛮人职业能力的），你每轮只失去1点HP。"
 }

@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Flame%20Heart",
     "source": ["Advanced Race Guide pg. 118"],
     "description": "You have mastered fire magic and alchemy.",
-    "prerequisites": "Fire Tamer, character level 5th, goblin",
+    "prerequisites": "Fire Tamer, character level 5th, goblin.",
     "benefit": "You gain fire resistance 5. When casting spells with the fire descriptor or throwing alchemist bombs that deal fire damage, treat your caster level or alchemist level as if you were 1 level higher.",
-    "prerequisiteKeys": ["fire tamer"]
+    "prerequisiteKeys": ["fire tamer"],
+    "name_zh": "燃烧之心",
+    "description_zh": "你精通了与火焰有关的魔法与炼金术。",
+    "prerequisites_zh": "驯火者，角色等级5，地精。",
+    "benefit_zh": "你获得火焰抗力5。当你施放带有〔火〕描述符的法术或投掷造成火焰伤害的炼金炸弹时，你的CL或炼金术师等级视为比实际高1级。"
 }

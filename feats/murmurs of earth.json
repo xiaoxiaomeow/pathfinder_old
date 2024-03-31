@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Murmurs%20of%20Earth",
     "source": ["Advanced Race Guide pg. 147"],
     "description": "The earth opens up her secrets to your perceptions.",
-    "prerequisites": "Echoes of Stone, character level 9th, oread",
+    "prerequisites": "Echoes of Stone, character level 9th, oread.",
     "benefit": "You gain a limited form of tremorsense. As a move action, you become aware of all creatures within 15 feet that are in contact with the ground at that moment.",
-    "prerequisiteKeys": ["echoes of stone"]
+    "prerequisiteKeys": ["echoes of stone"],
+    "name_zh": "大地的低语",
+    "description_zh": "在你的感知之下，大地将她的所知倾囊相授。",
+    "prerequisites_zh": "石之共鸣，角色等级9，土元素裔。",
+    "benefit_zh": "你获得了有限的颤动感知。以一个移动动作，你可以感知到15尺范围内所有接触地面的生物。"
 }

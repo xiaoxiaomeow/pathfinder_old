@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Starlight%20Summons",
     "source": ["Ultimate Magic pg. 157"],
     "description": "Your summoned minions slink along under the shadows of the stars. ",
-    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature's ally<\/i>",
+    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature's ally<\/i>.",
     "benefit": "Creatures you summon gain the Blind-Fight feat, a +5 bonus to Perception and Stealth checks in dim light or darkness, and their natural weapons are treated as cold iron for overcoming damage reduction.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "星光召唤",
+    "description_zh": "你所召唤的生物潜伏于星光的阴影之下。",
+    "prerequisites_zh": "法术专攻（咒法），能够施展‘召唤自然盟友’。",
+    "benefit_zh": "你召唤的生物获得‘盲斗’专长，在昏暗或者黑暗情况下的察觉检定和隐匿检定获得+5加值，并且他们的天生武器在克服伤害减免时视为寒铁武器。<\/p><p>【专长速查】盲斗（Blind-Fight）：对隐蔽的对手攻击失手后重骰。"
 }

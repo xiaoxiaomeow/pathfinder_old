@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Cybernetics",
     "source": ["Technology Guide pg. 6"],
     "description": "You can build cyberware and install it in a creature’s body.",
-    "prerequisites": "Technologist, Heal 9 ranks, Knowledge (engineering) 9 rank",
-    "benefit": "You can create cybernetic items. Creating a cybernetic item takes 1 day for every 1,000 gp in the item’s price. To create the object, you must use up raw materials costing half of this total price. See Crafting High-Tech Items on page 16 for more information.",
+    "prerequisites": "Technologist, Heal 9 ranks, Knowledge (engineering) 9 ranks",
+    "benefit": "You can create cybernetic items. Creating a cybernetic item takes 1 day for every 1,000 gp in the item’s price. To create the object, you must use up raw materials costing half of this total price. See Crafting High-Tech Items on page 16 for more information.<br><br> You can repair a broken cybernetic item if it is one that you could make. Doing so costs half the raw materials and half the time it would take to craft that item from scratch. You can also install a cybernetic item in a creature’s body.<br><br> See the Cybertech section on page 35 for more information on installing cyberware.",
     "prerequisiteKeys": ["technologist"]
 }

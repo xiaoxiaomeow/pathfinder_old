@@ -11,9 +11,9 @@
     "staminaText": "When making an attack with an improvised weapon against an armed opponent, you can spend 5 stamina points. If you do, the target is considered flat-footed during that attack. An opponent who recognizes you and has seen you use Catch Off-Guard in this way is immune to this effect.",
     "mythicSource": ["Mythic Adventures pg. 60"],
     "mythicDescription": "In your hands, anything is a deadly weapon.",
-    "mythicPrerequisites": "Catch Off-Guard",
+    "mythicPrerequisites": "Catch Off-Guard.<br><br",
     "mythicBenefit": "The damage dealt when you use improvised weapons increases by your tier. You also gain a bonus to CMD equal to your tier when an opponent attempts to sunder or disarm an improvised weapon you’re wielding.",
     "name_zh": "随手武器",
     "description_zh": "你的敌人惊讶于你能熟练使用各种非常规武器和临时武器。",
-    "benefit_zh": "在你使用临时武器进行近战攻击时不会受到任何惩罚。未武装的敌人对于你的临时近战武器攻击视为措手不及。"
+    "benefit_zh": "在你使用临时武器进行近战攻击时不会受到任何惩罚。未武装的敌人对于你的临时近战武器攻击视为措手不及。<\/p><p>通常状况：当你使用临时武器时在攻击检定时受到-4的减值。"
 }

@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Ultimate Magic pg. 158"],
     "description": "Your spells with the force descriptor knock the affected creatures prone.",
-    "benefit": "The impact of your force spell is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force spell, make a trip check against the target, using your caster level plus your casting ability score bonus (Wisdom for clerics, Intelligence for wizards, and so on). This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response."
+    "benefit": "The impact of your force spell is strong enough to knock the target prone. If the target takes damage, fails its saving throw, or is moved by your force spell, make a trip check against the target, using your caster level plus your casting ability score bonus (Wisdom for clerics, Intelligence for wizards, and so on). This does not provoke an attack of opportunity. If the check fails, the target cannot attempt to trip you or the force effect in response.<br><br> A toppling spell only affects spells with the force descriptor. A toppling spell uses up a spell slot one level higher than the spell’s actual level.",
+    "name_zh": "法术击倒",
+    "description_zh": "带有〔力场〕描述符的法术将受其影响的目标击倒。",
+    "benefit_zh": "你的力场法术是如此的强大以至于可以将目标击倒。如果目标因为你的力场法术受到了伤害、在豁免中失败、或是发生了位移，则对抗目标做一次绊摔检定，其加值使用你的“CL+关键施法属性修正（牧师是感知，法师是智力，等等）”。这不会引发借机攻击。如果检定失败，目标不能够对你反摔或者用其他力场效果响应。法术击倒仅对带有〔力场〕描述符的法术生效。法术击倒须占用高于原本1个环级的法术位。"
 }

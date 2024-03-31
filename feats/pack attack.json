@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 112"],
     "description": "You are skilled at surrounding your enemies.",
-    "prerequisites": "Base attack bonus +1",
+    "prerequisites": "Base attack bonus +1.",
     "benefit": "When you are adjacent to an ally with this feat, the first time you melee attack an opponent, you can spend an immediate action to take a 5-foot step, even if you have otherwise moved this round.",
     "normal": "You can take a 5-foot step only if you have not otherwise moved in a round.",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
-    "staminaText": "When you are adjacent to an ally that also has this feat, you can spend 2 stamina points to take a 5-foot step as a free action instead of an immediate action. You can still use this feat’s ability only once per round."
+    "staminaText": "When you are adjacent to an ally that also has this feat, you can spend 2 stamina points to take a 5-foot step as a free action instead of an immediate action. You can still use this feat’s ability only once per round.",
+    "name_zh": "机动攻击",
+    "description_zh": "你擅长绕着敌人转。",
+    "prerequisites_zh": "基本攻击加值+1。",
+    "benefit_zh": "当你发动近战攻击首次命中对手、且和拥有此专长的盟友邻接时，你可以通过直觉动作进行五尺快步，即便你这轮已经移动过位置。<\/p><p>通常状况：你只能在没有移动过的状况下使用五尺快步。"
 }

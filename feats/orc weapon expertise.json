@@ -5,9 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 142"],
     "description": "You can do more with the weapons orcs favor the most.",
-    "prerequisites": "Base attack bonus +1, orc",
-    "benefit": "When you take this feat, choose one of the benefits below. Whenever you wield a weapon that has \"orc\" in its name, you gain the benefit you chose so long as you are actually proficient with that weapon.",
+    "prerequisites": "Base attack bonus +1, orc.",
+    "benefit": "When you take this feat, choose one of the benefits below. Whenever you wield a weapon that has \"orc\" in its name, you gain the benefit you chose so long as you are actually proficient with that weapon.<br><br> <i>Bully<\/i>: Gain a +1 bonus on damage rolls against creatures at least one size smaller than you.<br> <i>Defender<\/i>: Gain a +1 shield bonus to your AC (or +2 if wielding a two-handed weapon).<br> <i>Disrupter<\/i>: Add 3 to the DC of opponents’ concentration checks to cast a spell within your threatened area. This only applies if you are aware of the enemy’s location and are capable of taking an attack of opportunity. If you have already used all of your available attacks of opportunity for the round, this increase does not apply.<br> <i>Killer<\/i>: Gain a +2 competence bonus on attack rolls made to confirm critical hits.<br> <i>Thug<\/i>: Deal +1 point of nonlethal damage with the weapon.<br> <i>Trickster<\/i>: Gain a +2 bonus on a single type of combat maneuver check that you can perform with that weapon.<br> This feat has no effect if you are not proficient with the weapon you’re using.",
     "special": "You can gain this feat multiple times. Each time you take this feat, you must choose a different benefit. You may only apply one of these benefits per round (chosen as a free action at the start of your turn).",
     "staminaSource": ["Pathfinder Unchained pg. 128"],
-    "staminaText": "When wielding a weapon with “orc” in its name that you are proficient with, you can spend 5 stamina points to gain one of the benefits for this feat that you don’t already have for 1 minute."
+    "staminaText": "When wielding a weapon with “orc” in its name that you are proficient with, you can spend 5 stamina points to gain one of the benefits for this feat that you don’t already have for 1 minute.",
+    "name_zh": "兽人武器娴熟",
+    "description_zh": "你能用兽人最爱的武器做出更多的事情。",
+    "prerequisites_zh": "基本攻击加值+1，兽人。",
+    "benefit_zh": "每当你获得该专长，选择以下效果之一。当你使用一件你所擅长的名字中带有“兽人”的武器时，你获得你所选择的效果。这一专长对你不擅长的武器不产生效果。<\/p><p>欺弱（Bully）：在攻击体型比你小至少一级的生物时伤害检定+1。<\/p><p>防御（Defender）：在你的AC上获得+1盾牌加值（若持用双手武器则+2）。<\/p><p>扰乱（Disrupter）：当敌人在你的威胁范围内施展法术时，其专注DC+3。这仅当你知晓敌人的位置且可以对其进行借机攻击时才生效。若你已经使用了本轮的所有借机攻击次数，则该能力不会生效。<\/p><p>致命（Killer）：在确认重击的攻击检定上获得+2表现加值。<\/p><p>暴戾（Thug）：使用武器造成1点非致命伤害。<\/p><p>诡诈（Trickster）：当你使用该武器进行战技检定时，单一类型的战技检定+2。",
+    "special_zh": "你可以多次选择该专长。每次选择该专长，你都必须选择一项不同的效果。你每轮只能使这些效果中的一项生效（在你的回合开始时以一个自由动作选择）。"
 }

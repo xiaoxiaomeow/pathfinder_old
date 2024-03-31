@@ -5,8 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 197"],
     "description": "You have mastered the nagaji warrior technique of spitting venom into your opponent’s eyes.",
-    "prerequisites": "Nagaji",
+    "prerequisites": "Nagaji.",
     "benefit": "As a full-round action, you can spit poison up to 10 feet as a ranged touch attack. If you hit, the target must make a successful Fortitude save or be blinded for 1d6 rounds. The DC of this save is equal to 10 + 1/2 your total Hit Dice + your Constitution modifier. You can use this ability once per day plus one additional time per day for every three Hit Dice you have.",
     "staminaSource": ["Pathfinder Unchained pg. 132"],
-    "staminaText": "When you spit poison, you can spend up to 5 stamina points. For each stamina point spent, you can increase the range of the attack by 5 feet."
+    "staminaText": "When you spit poison, you can spend up to 5 stamina points. For each stamina point spent, you can increase the range of the attack by 5 feet.",
+    "name_zh": "喷毒",
+    "description_zh": "你已经掌握了娜迦裔战士的技巧——将毒素喷入敌人的眼睛。",
+    "prerequisites_zh": "娜迦裔。",
+    "benefit_zh": "以一个整轮动作，你能够用远程接触攻击将毒液喷出10尺远。如果你命中目标，他必须进行一次成功的强韧豁免，否则将会目盲1d6轮。豁免DC等同于“10+1/2总生命骰+体质修正”。每天你能够使用该能力1次，每拥有3个HD时额外再增加1次。"
 }

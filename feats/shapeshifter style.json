@@ -8,7 +8,7 @@
     ],
     "source": ["Martial Arts Handbook pg. 19"],
     "description": "You can shift your physiology without fully changing your shape, giving you an advantage in battle.",
-    "prerequisites": "Base attack bonus +3, change shape ability, shapechanger subtype",
-    "benefit": "You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action.",
+    "prerequisites": "Base attack bonus +3, change shape ability, shapechanger subtype.",
+    "benefit": "You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action. <br><br><i>Brutal Attack<\/i>: Choose one of your natural attacks. You gain a +1 bonus on damage rolls with that attack when using this style, plus an additional +1 for every feat you have that lists Shapeshifter Style as a prerequisite (maximum +3). <br><br><i>Steady Grip<\/i>: You gain a climb speed of 10 feet. <br><br><i>Tensed Sinews<\/i>: You gain a +1 bonus on Reflex saving throws and a +5 enhancement bonus to your base speed. <br><br><i>Toughened Hide<\/i>: You gain a +1 enhancement bonus to your existing natural armor bonus.",
     "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites."
 }

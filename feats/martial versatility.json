@@ -5,9 +5,13 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 78"],
     "description": "You further broaden your study of weapons to encompass multiple similar weapons.",
-    "prerequisites": "Fighter level 4th, human",
+    "prerequisites": "Fighter level 4th, human.",
     "benefit": "Choose one combat feat you know that applies to a specific weapon (e.g., Weapon Focus). You can use that feat with any weapon within the same weapon group.",
     "special": "You may take this feat more than once. Each time it applies to a different feat.",
     "staminaSource": ["Pathfinder Unchained pg. 126"],
-    "staminaText": "At the start of your turn, you can spend 2 stamina points to apply the selected feat to another weapon that is not of the same weapon group. You gain this benefit until the start of your next turn."
+    "staminaText": "At the start of your turn, you can spend 2 stamina points to apply the selected feat to another weapon that is not of the same weapon group. You gain this benefit until the start of your next turn.",
+    "name_zh": "武器变通",
+    "description_zh": "先决条件：战士4级，人类。",
+    "prerequisites_zh": "战士4级，人类。",
+    "benefit_zh": "选择一个你已知的适用于特定武器的战斗专长（如“武器专攻”）。在与其相同的武器组中的武器均可应用该专长。<\/p><p>特殊：你可以多次选择这个专长。每次必须选择不同的战斗专长。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 110"],
     "description": "You combine acrobatics and opportunity to devastating effect against your opponent.",
-    "prerequisites": "Wis 13, Improved Unarmed Strike, Monkey Moves, Monkey Style, Stunning Fist, Acrobatics 11 ranks, Climb 11 ranks",
+    "prerequisites": "Wis 13, Improved Unarmed Strike, Monkey Moves, Monkey Style, Stunning Fist, Acrobatics 11 ranks, Climb 11 ranks.",
     "benefit": "While using Monkey Style, if you successfully deliver a Stunning Fist attempt, in addition to the normal effect of Stunning Fist, you can spend a free action to enter a square adjacent to you that is within your opponent’s space. This movement does not provoke attacks of opportunity. While you are in your opponent’s space, you gain a +4 dodge bonus to AC and a +4 bonus on melee attack rolls against that opponent. If otherwise unhindered, the opponent can move away from you, but if he does, he provokes an attack of opportunity from you even if his choice of movement does not normally do so.",
     "normal": "You cannot enter an opponent’s space.",
     "staminaSource": ["Pathfinder Unchained pg. 127"],
@@ -15,5 +15,9 @@
         "monkey moves",
         "monkey style",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "猿搏",
+    "description_zh": "结合特技与取巧，你向敌人发动攻势。",
+    "prerequisites_zh": "感知13，精通徒手打击，猿步，猴拳，震慑拳，特技11级，攀爬11级。",
+    "benefit_zh": "当你使用猴拳流派架势时，你成功施展“震慑拳”后，作为震慑拳的额外效果，你可以不引发借机攻击地用一个自由动作进入你邻接的一个被敌人占据的格子。当你处于目标的方格中时，你对抗这个敌人的近战攻击时AC能获得+4闪避加值，并在近战攻击检定获得+4加值。除非被阻碍，否则对手依旧能离开你的方格，但会引发你的借机攻击，即使他采取不会引发借机攻击的移动方法。<\/p><p>通常状况：你不能进入敌人的方格。"
 }

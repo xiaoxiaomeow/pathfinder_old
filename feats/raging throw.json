@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Throw",
     "source": ["Ultimate Combat pg. 114"],
     "description": "You expend some of your rage to throw one opponent at another.",
-    "prerequisites": "Str 13, Con 13, rage class feature, Improved Bull Rush, Power Attack, base attack bonus +6",
+    "prerequisites": "Str 13, Con 13, rage class feature, Improved Bull Rush, Power Attack, base attack bonus +6.",
     "benefit": "While raging, when you attempt a bull rush combat maneuver, you can spend 1 additional round of your rage as a swift action to add your Constitution bonus on your combat maneuver check to the bull rush. Further, if you bull rush an opponent into a square another creature occupies or into a solid object, the opponent and the creature or object take bludgeoning damage equal to your Strength modifier + your Constitution modifier.",
     "prerequisiteKeys":     [
         "improved bull rush",
         "power attack"
-    ]
+    ],
+    "name_zh": "狂暴撞飞",
+    "description_zh": "你将部分狂怒用于把对手狠狠摔向其他敌人。",
+    "prerequisites_zh": "力量13，体质13，【狂暴】职业特性，精通冲撞，猛力攻击，基本攻击加值+6。",
+    "benefit_zh": "当你在狂暴中尝试使用冲撞战技时，你能以迅捷动作消耗1轮每日狂暴轮数，来将体质修正添加到冲撞战技检定上。此外，当你将对方冲撞至另一个生物所在方格、或坚硬物体时，对手和该生物或物体受到等同于你的“力量修正+体质修正”钝击伤害。"
 }

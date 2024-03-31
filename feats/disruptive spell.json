@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 157"],
     "description": "Your magical energies cling to enemies, interfering with their spellcasting.",
-    "benefit": "Targets affected by a disruptive spell must make concentration checks when using spells or spell-like abilities (DC equals the save DC of the disruptive spell plus the level of the spell being cast) for 1 round. Targets that avoid the spell’s effects avoid this feat’s effect as well. A disruptive spell uses up a spell slot one level higher than the spell’s actual level."
+    "benefit": "Targets affected by a disruptive spell must make concentration checks when using spells or spell-like abilities (DC equals the save DC of the disruptive spell plus the level of the spell being cast) for 1 round. Targets that avoid the spell’s effects avoid this feat’s effect as well. A disruptive spell uses up a spell slot one level higher than the spell’s actual level.",
+    "name_zh": "扰咒法术",
+    "description_zh": "你的魔法能量会附着在敌人身上，以此干扰他们施法。",
+    "benefit_zh": "被扰咒法术影响的目标在施法或者使用类法术能力时，必须进行专注检定（DC等同于“扰咒法术DC+将施放法术环级”），这个效果持续1轮。避免法术效果的目标也会避免该专长的效果。扰咒法术占用比法术的实际环级高1环的法术位。"
 }

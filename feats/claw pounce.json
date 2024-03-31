@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 94"],
     "description": "You can charge and make an attack with your paws.",
-    "prerequisites": "Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat's claws racial trait or Aspect of the Beast (claws of the beast manifestation)",
+    "prerequisites": "Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat's claws racial trait or Aspect of the Beast (claws of the beast manifestation).",
     "benefit": "When you make a charge, you can make a full attack with your claws.",
     "normal": "Charging is a special full-round action that limits you to a single attack.",
     "staminaSource": ["Pathfinder Unchained pg. 115"],
@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "aspect of the beast",
         "nimble striker"
-    ]
+    ],
+    "name_zh": "爪袭",
+    "description_zh": "你可以一边冲锋一边用你的爪子攻击。",
+    "prerequisites_zh": "力量13，敏捷15，机敏前锋，基本攻击加值+10，猫族，【猫爪】种族特性或者“化兽态（兽爪）”专长。",
+    "benefit_zh": "当你冲锋时，你可以用爪子全力攻击。<\/p><p>通常状况：冲锋是一个特殊的整轮动作，你只能做一次攻击。"
 }

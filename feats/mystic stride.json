@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mystic%20Stride",
     "source": ["Ultimate Magic pg. 153"],
     "description": "Enchanted vegetation does not bar your path.",
-    "prerequisites": "Dex 15, Nimble Moves, woodland stride class feature",
+    "prerequisites": "Dex 15, Nimble Moves, woodland stride class feature.",
     "benefit": "You can move at full speed even through thorns, briars, and overgrown areas that are enchanted or magically manipulated to impede motion, even if those areas confer the entangled condition.",
     "normal": "Woodland stride does not apply to thorns, briars, and overgrowth areas that are enchanted or magically manipulated.",
-    "prerequisiteKeys": ["nimble moves"]
+    "prerequisiteKeys": ["nimble moves"],
+    "name_zh": "高等穿林",
+    "description_zh": "魔化的植物无法阻止你的脚步。",
+    "prerequisites_zh": "敏捷15，灵活移动，【穿林】职业特性。",
+    "benefit_zh": "你能以正常速度通过任何魔化或魔力形成的荆棘丛、石南丛、茂密的灌木丛，即使在其中会受到纠缠效果也是如此。<\/p><p>通常状况：【穿林】无法作用于魔化或魔力形成的荆棘丛、石南丛、茂密的灌木丛。"
 }

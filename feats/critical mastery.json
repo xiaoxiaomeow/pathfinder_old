@@ -8,18 +8,18 @@
     ],
     "source": ["PRPG Core Rulebook pg. 120"],
     "description": "Your critical hits cause two additional effects.",
-    "prerequisites": "Critical Focus, any two critical feats, 14th-level fighter",
+    "prerequisites": "Critical Focus, any two critical feats, 14th-level fighter.",
     "benefit": "When you score a critical hit, you can apply the effects of two critical feats in addition to the damage dealt.",
     "normal": "You can only apply the effects of one critical feat to a given critical hit in addition to the damage dealt.",
     "staminaSource": ["Pathfinder Unchained pg. 116"],
     "staminaText": "When you confirm a critical hit, instead of applying the effects of two critical feats you possess, you can spend 2 stamina points to apply the effect of any one critical feat you don’t possess (but for which you qualify).",
     "mythicSource": ["Mythic Adventures pg. 61"],
     "mythicDescription": "Your critical hits are versatile and devastating.",
-    "mythicPrerequisites": "Critical Focus (mythic), Critical Mastery",
+    "mythicPrerequisites": "Critical Focus (mythic), Critical Mastery.<br><br",
     "mythicBenefit": "When using Critical Mastery, increase the number of critical feats you may apply by every 3 tiers that you possess.",
     "prerequisiteKeys": ["critical focus"],
     "name_zh": "重击熟稔",
     "description_zh": "你的重击能引发两种重击效果。",
     "prerequisites_zh": "重击专攻，任意两项重击专长，战士14级。",
-    "benefit_zh": "当你重击时，你在造成伤害的同时可以引发两项重击专长的效果。"
+    "benefit_zh": "当你重击时，你在造成伤害的同时可以引发两项重击专长的效果。<\/p><p>通常状况：当你重击时，你在制造伤害的同时只能引发一项重击专长的效果。"
 }

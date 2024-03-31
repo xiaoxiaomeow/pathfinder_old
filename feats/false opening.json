@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 100"],
     "description": "When you make a ranged attack while threatened, you can fool your opponent into thinking he has an opening.",
-    "prerequisites": "Dex 13, Dodge, Close Quarters Thrower or Point-Blank Master, Weapon Focus with selected ranged weapon",
+    "prerequisites": "Dex 13, Dodge, Close Quarters Thrower or Point-Blank Master, Weapon Focus with selected ranged weapon.",
     "benefit": "Choose a ranged weapon or a thrown weapon. When you make a ranged attack using that weapon, you can choose to provoke an attack of opportunity from one or more opponents who threaten you. You gain a +4 dodge bonus against such attacks. An opponent that makes such an attack and misses you loses his Dexterity bonus to AC against you until the end of your turn.",
     "staminaSource": ["Pathfinder Unchained pg. 119"],
     "staminaText": "When you use this feat, you can spend 5 stamina points to make an attack of opportunity against an opponent who misses you with the provoked attack (after it loses its Dexterity bonus to AC against you).",
     "prerequisiteKeys":     [
         "dodge",
         "point-blank master"
-    ]
+    ],
+    "name_zh": "假意迎敌",
+    "description_zh": "当你在敌人威胁范围内进行远程攻击，你可以诱使他攻击你从而让他空门大开。",
+    "prerequisites_zh": "敏捷13，闪避，近身投掷或贴身射击（Point-Blank Master, APG），武器专攻（所选远程武器）。",
+    "benefit_zh": "选择一种远程武器或投掷武器。当你使用这种武器进行一次远程攻击时，你可以选择触发一个或多个正威胁你的敌人的借机攻击。针对这些攻击，你获得+4闪避加值。如果敌人的这次借机攻击未能命中你，他对你失去敏捷加值，持续到你这次行动轮结束。"
 }

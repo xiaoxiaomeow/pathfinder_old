@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 125"],
     "description": "You are skilled at deflecting blows with your shield.",
-    "prerequisites": "Shield Focus, Shield Proficiency, base attack bonus +1, 8th-level fighter",
+    "prerequisites": "Shield Focus, Shield Proficiency, base attack bonus +1, 8th-level fighter.",
     "benefit": "Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus.",
     "staminaSource": ["Pathfinder Unchained pg. 121"],
     "staminaText": "When an attack is made against you while you are using a shield, you can spend up to 4 stamina points. For that attack, your shield bonus increases by an amount equal to the number of stamina points you spent. This increase does not stack with any gained from the Shield Focus combat trick.",

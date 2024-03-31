@@ -8,9 +8,13 @@
     ],
     "source": ["Ultimate Combat pg. 105"],
     "description": "Your critical hits can skewer your foes.",
-    "prerequisites": "Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +11",
+    "prerequisites": "Critical Focus, Weapon Specialization with selected piercing melee weapon, base attack bonus +11.",
     "benefit": "Whenever you score a critical hit with the selected piercing melee weapon, you can impale your opponent on your weapon. While your opponent is impaled in this way, each time he starts his turn, you deal damage equal to your weapon’s damage dice plus the extra damage dice from your weapon’s properties. As an immediate action, you can pull your weapon out of your opponent. If your opponent is ever outside your reach, you must spend a free action to let go of your weapon or pull it out of him. Your opponent can also spend a move action to pull your weapon out. When the weapon comes out, your opponent takes damage as if starting his turn impaled. While you impale your opponent with your weapon, you cannot use it to attack, and you must hold on to it.",
     "staminaSource": ["Pathfinder Unchained pg. 122"],
     "staminaText": "When you impale a foe with this feat, you can spend 5 stamina points to make the weapon require a standard action to remove (rather than a move action).",
-    "prerequisiteKeys": ["critical focus"]
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "穿刺重击",
+    "description_zh": "你的重击能刺穿你的敌人。",
+    "prerequisites_zh": "重击专攻，武器专精（选定的穿刺武器），基本攻击加值+11。",
+    "benefit_zh": "每当你造成了一次重击，你可以将对手穿刺在你的武器上。如果你的对手以这种方式被刺穿，每当轮到他行动时，你对其造成正常武器伤害加上武器本身的额外伤害。作为一个直觉动作，你可以从对手身上把武器抽出来。如果你的对手试图离开你的触及范围，你需要用一个自由动作放开武器，或是将武器抽出来。你的对手可以用一个移动动作将你的武器抽出来。一旦武器被抽离，你的对手将会受到一次相当于轮到他行动时的穿刺伤害。当你的武器刺穿了一个对手，在此期间你不能用它进行攻击，并且你必须一直持握着它。"
 }

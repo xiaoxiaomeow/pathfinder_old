@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elusive%20Redirection",
     "source": ["Ultimate Combat pg. 100"],
     "description": "You can redirect an attack back at your assailant or into an adjacent enemy.",
-    "prerequisites": "Elusive target class feature, Combat Expertise, Improved Unarmed Strike, flowing monk level 12th",
+    "prerequisites": "Elusive target class feature, Combat Expertise, Improved Unarmed Strike, flowing monk level 12th.",
     "benefit": "When you successfully use your elusive target class feature to avoid taking damage, you can spend an immediate action and an additional point from your ki pool to redirect that attack back at your attacker or toward any other opponent adjacent to you and your attacker. This attack uses the same attack roll as the original attack, but it targets the opponent you choose.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "斗转星移",
+    "description_zh": "你能让敌人的攻击悉数返回，或转移到邻近的其他敌人身上。",
+    "prerequisites_zh": "【转身采手】职业特性，寓守于攻，精通徒手打击，无相僧12级。",
+    "benefit_zh": "当你成功的使用了一次【转身采手】以减免一次攻击伤害，你可以花费直觉动作和1点气池将这次攻击返还给原攻击者、或另一个同时邻接你和攻击者的敌人。这次攻击使用于原攻击相同的攻击检定骰，但是攻击对象是你选择的敌人。<\/p><p>【能力速查】转身采手（Elusive Target, Ex）：5级时无相僧（flowing monk, UC武僧变体）能以直觉动作消耗2点气，通过一个反射检定对抗对方的攻击检定，成功的话他会使伤害减半。11级起，当他反射检定成功时将不会受到任何伤害，就算反射检定失败，他也只会受到一半的伤害。如果对方夹击无相僧，那么没有发起攻击的那个夹击者将会变成这次攻击的目标，使用和攻击无相僧相同的攻击掷骰，如果该目标被击中了，那他将受到一半伤害；若无相僧完全避开了攻击，那么该目标则受到全额伤害。所有攻击附带的效果仍会照常运作。"
 }

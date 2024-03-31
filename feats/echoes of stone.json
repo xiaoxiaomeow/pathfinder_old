@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Echoes%20of%20Stone",
     "source": ["Advanced Race Guide pg. 147"],
     "description": "Your senses are keener among the rocks and stones.",
-    "prerequisites": "Oread",
-    "benefit": "You gain a +4 racial bonus on Perception checks underground, and on Survival checks to avoid becoming lost in caverns and rocky areas."
+    "prerequisites": "Oread.",
+    "benefit": "You gain a +4 racial bonus on Perception checks underground, and on Survival checks to avoid becoming lost in caverns and rocky areas.",
+    "name_zh": "石之共鸣",
+    "description_zh": "你的感官在山岩与石头之中变得很敏锐。",
+    "prerequisites_zh": "土元素裔。",
+    "benefit_zh": "你在地下进行的察觉检定，以及使用生存检定避免在洞穴和岩石地区迷路时获得+4种族加值。"
 }

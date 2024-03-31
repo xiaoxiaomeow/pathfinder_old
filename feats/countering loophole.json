@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Countering%20Loophole",
     "source": ["Heroes of the High Court pg. 20"],
     "description": "You can spot loopholes in magical commands, escape their effect, and bind the caster in turn.",
-    "prerequisites": "Improved Counterspell",
+    "prerequisites": "Improved Counterspell.",
     "benefit": "When you successfully counter a charm or compulsion spell, you immediately redirect the spell against the caster as though you were the caster of the spell and the caster were the target (as long as you can cast a spell of that level). Even if the spell originally targeted multiple creatures, the caster becomes the sole target of the redirected spell. The spell’s save DC remains the same, but you make any decisions about the effects of the spell (revising a <i>suggestion<\/i> or the conditions of a <i>lesser geas<\/i>, for example).",
     "normal": "If you successfully counter a spell, both spells automatically negate each other with no other results.",
     "prerequisiteKeys": ["improved counterspell"]
