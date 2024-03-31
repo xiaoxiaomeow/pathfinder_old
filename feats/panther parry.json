@@ -1,0 +1,18 @@
+{
+    "key": "panther parry",
+    "name": "Panther Parry",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Panther%20Parry",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "Your vicious strikes impair your foe’s ability to attack you when you move.",
+    "prerequisites": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Claw, Panther Style",
+    "benefit": "While using Panther Style, your retaliatory unarmed strikes are resolved before the triggering attacks. If your retaliatory unarmed strike deals damage to an opponent, that opponent takes a –2 penalty on attack and damage rolls with the triggering attack of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "When your retaliatory strike damages an opponent, you can spend 5 stamina points to increase the penalty the target takes on attack and damage rolls to –4.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike",
+        "panther claw",
+        "panther style"
+    ]
+}

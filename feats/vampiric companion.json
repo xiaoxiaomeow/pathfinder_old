@@ -1,0 +1,13 @@
+{
+    "key": "vampiric companion",
+    "name": "Vampiric Companion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vampiric%20Companion",
+    "source":     [
+        "Monster Codex pg. 237",
+        "Blood of the Night pg. 28"
+    ],
+    "description": "Just as your undead existence mocks nature, so too does your twisted companion reflect the vile nature of vampirism.",
+    "prerequisites": "Dhampir or vampire, nongood alignment, 10th level in a class that grants a familiar or animal companion",
+    "benefit": "Your animal companion or familiar’s type changes to “undead.” The creature gains fast healing 5 as well as your vampire or dhampir weaknesses. If you are a vampire, the creature also gains the following abilities, depending on what type of vampire you are.",
+    "special": "If your animal companion or familiar is destroyed, dismissed, or lost, you can apply the effects of this feat to the replacement creature. If you are destroyed, the creature retains its undead type but loses all other special abilities from this feat. If you have more than one animal companion or familiar, choose one of them when you select this feat and apply its effects to that creature."
+}

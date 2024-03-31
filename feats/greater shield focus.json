@@ -1,0 +1,20 @@
+{
+    "key": "greater shield focus",
+    "name": "Greater Shield Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Shield%20Focus",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 125"],
+    "description": "You are skilled at deflecting blows with your shield.",
+    "prerequisites": "Shield Focus, Shield Proficiency, base attack bonus +1, 8th-level fighter",
+    "benefit": "Increase the AC bonus granted by any shield you are using by 1. This bonus stacks with the bonus granted by Shield Focus.",
+    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaText": "When an attack is made against you while you are using a shield, you can spend up to 4 stamina points. For that attack, your shield bonus increases by an amount equal to the number of stamina points you spent. This increase does not stack with any gained from the Shield Focus combat trick.",
+    "prerequisiteKeys":     [
+        "shield focus",
+        "shield proficiency"
+    ],
+    "name_zh": "高等盾牌专攻",
+    "description_zh": "你擅长用盾牌挡开攻击。",
+    "prerequisites_zh": "盾牌专攻，擅长盾牌，基本攻击加值+1，战士等级8。",
+    "benefit_zh": "任何盾牌带来的AC加值增加1。此加值与“盾牌专攻”带来的加值累计。"
+}

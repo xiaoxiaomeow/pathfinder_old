@@ -1,0 +1,10 @@
+{
+    "key": "blazing channel",
+    "name": "Blazing Channel",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blazing%20Channel",
+    "source": ["Cohorts and Companions pg. 15"],
+    "description": "Your holy power burns the undead like fire.",
+    "prerequisites": "Turn Undead, channel positive energy class feature",
+    "benefit": "When you use your Turn Undead feat, undead failing their saving throw are engulfed in holy fire. This functions identically to catching on fire (<i>Core Rulebook<\/i> 444), but the damage dealt is divine (like the divine damage from <i>flame strike<\/i>) rather than fire. Water cannot extinguish this holy fire, but any negative energy effect that heals the creature of at least 5 points of damage extinguishes the flames instantly.",
+    "prerequisiteKeys": ["turn undead"]
+}

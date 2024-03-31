@@ -1,0 +1,14 @@
+{
+    "key": "craft construct",
+    "name": "Craft Construct",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Construct",
+    "descriptors": ["Item Creation"],
+    "source": ["Pathfinder RPG Bestiary pg. 314"],
+    "description": "You can create construct creatures like golems.",
+    "prerequisites": "Caster level 5th, Craft Magic Arms and Armor, Craft Wondrous Item",
+    "benefit": "You can create any construct whose prerequisites you meet. The act of animating a construct takes one day for each 1,000 gp in its market price. To create a construct, you must use up raw materials costing half of its base price, plus the full cost of the basic body created for the construct. Each construct has a special section that summarizes its costs and other prerequisites. A newly created construct has average hit points for its Hit Dice.",
+    "prerequisiteKeys":     [
+        "craft magic arms and armor",
+        "craft wondrous item"
+    ]
+}

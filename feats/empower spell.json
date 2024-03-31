@@ -1,0 +1,12 @@
+{
+    "key": "empower spell",
+    "name": "Empower Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell",
+    "descriptors": ["Metamagic"],
+    "source": ["PRPG Core Rulebook pg. 122"],
+    "description": "You can increase the power of your spells, causing them to deal more damage.",
+    "benefit": "All variable, numeric effects of an empowered spell are increased by half including bonuses to those dice rolls.",
+    "name_zh": "法术强效",
+    "description_zh": "你可以增强法术的力量，使其造成更大的伤害。",
+    "benefit_zh": "搭配此专长时，法术效果中的所有可变量值皆增加一半。但本专长不影响豁免检定与对抗检定，对没有变量的法术也无影响。强效的法术须占用高于原本2个环位的法术位。"
+}

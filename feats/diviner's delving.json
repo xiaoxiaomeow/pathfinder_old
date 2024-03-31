@@ -1,0 +1,10 @@
+{
+    "key": "diviner's delving",
+    "name": "Diviner's Delving",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diviner's%20Delving",
+    "source": ["Advanced Player's Guide pg. 158"],
+    "description": "Your keen magical intuition makes reading signs, portents, and mystical clues quick and easy.",
+    "prerequisites": "Spell Focus (divination)",
+    "benefit": "You gain a +2 bonus on caster level checks with divinations to overcome spell resistance or effects that impede divination (for example, nondetection). When using a divination spell that requires concentration, you gain information from the spell 1 round sooner than normal (so you gain information from the first 2 rounds with 1 round of concentration, and information from the third round in the second round of concentration).",
+    "prerequisiteKeys": ["spell focus"]
+}

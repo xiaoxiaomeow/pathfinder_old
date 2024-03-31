@@ -1,0 +1,14 @@
+{
+    "key": "infused spell cartridges",
+    "name": "Infused Spell Cartridges",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Infused%20Spell%20Cartridges",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of Golarion pg. 4"],
+    "description": "You can improve your arcane ammunition with more powerful magic.",
+    "prerequisites": "Int 15, Arcane Strike, Spell Cartridges, ability to cast 4th-level arcane spells, proficient with firearms",
+    "benefit": "While your gun is imbued with power from the Arcane Strike feat, you can spend a standard action to cast a spell of 3rd level or lower and deliver it via a force bullet. The spell must have a range of touch or produce a ray; if the spell would produce multiple rays, the bullet delivers the effect of only one ray. If the force bullet strikes a target, it deals its force damage and also delivers the effects of the spell. If the force bullet critically hits a target, the spell deals double damage.",
+    "prerequisiteKeys":     [
+        "arcane strike",
+        "spell cartridges"
+    ]
+}

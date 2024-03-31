@@ -1,0 +1,14 @@
+{
+    "key": "bodyguard",
+    "name": "Bodyguard",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bodyguard",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 151"],
+    "description": "Your swift strikes ward off enemies attacking nearby allies.",
+    "prerequisites": "Combat Reflexes",
+    "benefit": "When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally’s AC. You may not use the aid another action to improve your ally’s attack roll with this attack.",
+    "normal": "Aid another is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When you use an attack of opportunity to use an aid another action to improve an adjacent ally’s Armor Class, you can spend 1 or 2 stamina points. Increase the bonus to the ally’s AC by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["combat reflexes"]
+}

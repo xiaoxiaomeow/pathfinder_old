@@ -1,0 +1,10 @@
+{
+    "key": "superior summoning",
+    "name": "Superior Summoning",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Superior%20Summoning",
+    "source": ["Ultimate Magic pg. 157"],
+    "description": "You can summon more creatures.",
+    "prerequisites": "Augment Summoning, caster level 3rd",
+    "benefit": "Each time you cast a summoning spell that conjures more than one creature, add one to the total number of creatures summoned.",
+    "prerequisiteKeys": ["augment summoning"]
+}

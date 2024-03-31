@@ -1,0 +1,19 @@
+{
+    "key": "charging stag style",
+    "name": "Charging Stag Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Charging%20Stag%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Heroes of the Wild pg. 22"],
+    "description": "This style originated among shamanic monks who spent their lives in the wild, allowing them to quickly subdue both game and poachers using the element of surprise. Practitioners of Charging Stag Style can charge fluidly around trees, taking enemies by surprise in the wilderness.",
+    "prerequisites": "Dex 13, Dodge, Improved Unarmed Strike, Mobility",
+    "benefit": "When using this style and not mounted, you can charge through difficult terrain and spaces containing allies. You can also make a single turn of up to 90 degrees during your charge. You must see your target at the beginning of your charge, and can make only a single attack at the end, even if you would normally be able to make multiple attacks (such as with the pounce ability).",
+    "normal": "You can’t charge through allies’ spaces or difficult terrain.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved unarmed strike",
+        "mobility"
+    ]
+}

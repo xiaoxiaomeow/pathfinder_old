@@ -1,0 +1,12 @@
+{
+    "key": "extra panache",
+    "name": "Extra Panache",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Panache",
+    "descriptors": ["Panache"],
+    "source": ["Advanced Class Guide pg. 147"],
+    "description": "You have more panache than the ordinary swashbuckler.",
+    "prerequisites": "Amateur Swashbuckler or panache class feature",
+    "benefit": "You gain two more panache points at the start of each day, and your maximum panache increases by two.",
+    "special": "If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack.",
+    "prerequisiteKeys": ["amateur swashbuckler"]
+}

@@ -1,0 +1,10 @@
+{
+    "key": "whispering way disciple",
+    "name": "Whispering Way Disciple",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Whispering%20Way%20Disciple",
+    "source": ["Agents of Evil pg. 13"],
+    "description": "Your research has gained the attention of the Whispering Way, which rewards you with access to its libraries.",
+    "prerequisites": "Associate (Whispering Way)",
+    "benefit": "You can exploit lore acquired from the Whispering Way once per day to combine your own blood and a vial of unholy water to create a <i>potion of cure light wounds<\/i> or a <i>potion of inflict light wounds<\/i> as a full-round action. The blood loss from this transformation deals 1 point of Constitution damage to you. In addition, in any settlement that is the size of a small town or larger, you can always find scrolls of the following spells available for purchase regardless of their legality: <i>animate dead<\/i>, <i>control undead<\/i>, <i>create undead<\/i>, <i>detect undead<\/i>, <i>disrupt undead<\/i>, <i>false life<\/i>, <i>greater false life<\/i><sup>UM<\/sup>, <i>ghoul touch<\/i>, <i>lesser animate dead<\/i><sup>UM<\/sup>, <i>mass repair undead<\/i><sup>ACG<\/sup>, <i>repair undead<\/i><sup>ACG<\/sup>, and <i>undead anatomy I–IV<\/i><sup>UM<\/sup>.",
+    "prerequisiteKeys": ["associate"]
+}

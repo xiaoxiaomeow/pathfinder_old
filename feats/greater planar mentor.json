@@ -1,0 +1,13 @@
+{
+    "key": "greater planar mentor",
+    "name": "Greater Planar Mentor",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Planar%20Mentor",
+    "source": ["Plane-Hopper's Handbook pg. 26"],
+    "description": "Your mentor begins to look upon you as an equal and can even answer your call.",
+    "prerequisites": "Improved Planar Mentor, Planar Mentor, character level 13th",
+    "benefit": "You can benefit from your Planar Mentor feat one additional time per day. You add the following to the list of spell-like abilities you can cast using Improved Planar Mentor for their respective alignments, each of which affects only a single target within 30 feet: <i>blasphemy<\/i> (evil), <i>dictum<\/i> (lawful), <i>holy word<\/i> (good), <i>slay living<\/i> (neutral), and <i>word of chaos<\/i> (chaotic).",
+    "prerequisiteKeys":     [
+        "improved planar mentor",
+        "planar mentor"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "key": "cushioning armor",
+    "name": "Cushioning Armor",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cushioning%20Armor",
+    "descriptors":     [
+        "Armor Mastery",
+        "Combat"
+    ],
+    "source": ["Armor Master's Handbook pg. 16"],
+    "description": "You twist in your armor, allowing it to mitigate your fall.",
+    "prerequisites": "Armor training class feature, proficiency with medium or heavy armor",
+    "benefit": "When you take falling damage, you can direct half of the damage to your armor. This damage ignores the armor’s hardness.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 5 stamina points to utilize your armor’s hardness when directing falling damage to it. (See page 16.)"
+}

@@ -1,0 +1,14 @@
+{
+    "key": "improved lightning reflexes",
+    "name": "Improved Lightning Reflexes",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Lightning%20Reflexes",
+    "source": ["PRPG Core Rulebook pg. 127"],
+    "description": "You have a knack for avoiding danger all around you.",
+    "prerequisites": "Lightning Reflexes",
+    "benefit": "Once per day, you may reroll a Reflex save. You must decide to use this ability before the results are revealed. You must take the second roll, even if it is worse.",
+    "prerequisiteKeys": ["lightning reflexes"],
+    "name_zh": "精通闪电反射",
+    "description_zh": "你有避开所有周遭危险的本事。",
+    "prerequisites_zh": "闪电反射。",
+    "benefit_zh": "每日1次，你可以你可以重掷一次反射检定。你必须在宣布结果前选择使用本能力。你必须接受重掷的结果，即使比原来的结果还要差。"
+}

@@ -1,0 +1,17 @@
+{
+    "key": "impact critical shot",
+    "name": "Impact Critical Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Impact%20Critical%20Shot",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Ultimate Combat pg. 104"],
+    "description": "With a series of ranged attacks, you bring your foes to their knees or force them to move.",
+    "prerequisites": "Dex 13, Point-Blank Shot, base attack bonus +9",
+    "benefit": "Whenever you score a critical hit with a ranged attack, in addition to the normal damage your attack deals, if your confirmation roll exceeds your opponent’s CMD, you can push your opponent back as if from the bull rush combat maneuver or knock that target prone as if from a trip combat maneuver. If you choose to bull rush, you cannot move with the target. Your maneuver does not provoke an attack of opportunity.",
+    "normal": "You must perform a bull rush combat maneuver to bull rush an opponent, and you must perform a trip combat maneuver to trip an opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When you confirm a critical hit and use this feat to either bull rush or trip the target, you can spend 5 stamina points to perform the other combat maneuver as well. Use the confirmation roll for the combat maneuver check of both maneuvers.",
+    "prerequisiteKeys": ["point-blank shot"]
+}

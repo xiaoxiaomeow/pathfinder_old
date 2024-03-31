@@ -1,0 +1,19 @@
+{
+    "key": "hero's display",
+    "name": "Hero's Display",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hero's%20Display",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["Ultimate Combat pg. 104"],
+    "description": "With a dramatic flourish you display your weapons to the crowd. Onlookers are elated, and your enemies are demoralized.",
+    "prerequisites": "Dazzling Display, Weapon Focus, and proficiency with the selected weapon",
+    "benefit": "When you spend a swift action to make a performance combat check, you present the weapon in which you have Weapon Focus in a triumphant display. You gain a +2 bonus on the performance combat check and make an Intimidate check to demoralize all foes within 30 feet who can see your display.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When using this feat, you can spend up to 6 stamina points to increase the radius of the demoralizing effect by 5 feet per stamina point you spent (to a maximum of 60 feet).",
+    "prerequisiteKeys":     [
+        "dazzling display",
+        "weapon focus"
+    ]
+}

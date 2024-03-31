@@ -1,0 +1,11 @@
+{
+    "key": "blighted critical mastery",
+    "name": "Blighted Critical Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blighted%20Critical%20Mastery",
+    "descriptors": ["Critical"],
+    "source": ["Ultimate Magic pg. 143"],
+    "description": "You control the type of spellblight your critical hits give your opponent. ",
+    "prerequisites": "Blighted Critical, caster level 9th",
+    "benefit": "Whenever you apply a spellblight by way of the Blighted Critical or Greater Blighted critical feat, you can choose the spellblight you apply rather than determining it randomly.",
+    "prerequisiteKeys": ["blighted critical"]
+}

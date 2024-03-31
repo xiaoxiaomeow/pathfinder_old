@@ -1,0 +1,13 @@
+{
+    "key": "artful dodge",
+    "name": "Artful Dodge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Artful%20Dodge",
+    "descriptors": ["Combat"],
+    "source": ["Melee Tactics Toolbox pg. 7"],
+    "description": "You are practiced at avoiding attacks when outnumbered.",
+    "prerequisites": "Int 13",
+    "benefit": "If you are the only character threatening an opponent, you gain a +1 dodge bonus to AC against that opponent.",
+    "special": "The Artful Dodge feat acts as the Dodge feat for the purpose of satisfying prerequisites that require Dodge. You can use Intelligence, rather than Dexterity, for feats with a minimum Dexterity prerequisite.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 5 stamina points to gain a +1 dodge bonus for each opponent that you threaten that no other ally threatens. (<i>Melee Tactics Toolbox 7<\/i>)"
+}

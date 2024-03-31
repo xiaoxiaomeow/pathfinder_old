@@ -1,0 +1,10 @@
+{
+    "key": "master swimmer",
+    "name": "Master Swimmer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20Swimmer",
+    "source": ["Aquatic Adventures pg. 58"],
+    "description": "You’ve trained at swimming in combat and over long distances for so long that you can move through the water like a native.",
+    "prerequisites": "Skill Focus (Swim), Swim 10 ranks",
+    "benefit": "You gain a swim speed of 30 feet or your unmodified base land speed, whichever is slower; your racial bonus on Swim checks for having a swim speed is +2, instead of +8.",
+    "prerequisiteKeys": ["skill focus"]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "feral grace",
+    "name": "Feral Grace",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Feral%20Grace",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 218"],
+    "description": "The animal’s grace and agility are honed for battle, making it a deadly combatant.",
+    "prerequisites": "Weapon Finesse, base attack bonus +3, animal companion",
+    "benefit": "Choose one of the animal companion’s natural attack. When the animal companion makes a melee attack with the chosen natural attack using its Dexterity bonus on attack rolls and its Strength bonus on damage rolls, it adds 1/4 of its Hit Dice as a bonus on damage rolls. This bonus damage doesn’t increase or decrease based upon whether the natural attack is a primary or secondary natural attack.",
+    "special": "You can select this feat multiple times. Its effects don’t stack. Each time you select this feat, choose a different natural attack to apply its benefit to.",
+    "prerequisiteKeys": ["weapon finesse"]
+}

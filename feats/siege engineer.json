@@ -1,0 +1,13 @@
+{
+    "key": "siege engineer",
+    "name": "Siege Engineer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Siege%20Engineer",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 118"],
+    "description": "You are proficient with all siege weaponry.",
+    "prerequisites": "Knowledge (engineering) 5 ranks or Profession (siege engineer) 5 ranks, proficiency with one siege engine",
+    "benefit": "You are considered to be proficient with all siege weapons. Also, when you are crew lead for a siege engine, you do not generate mishaps on the roll of a natural 1.",
+    "normal": "Each siege engine is an exotic weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain a +1 bonus on attack rolls with all siege weapons."
+}

@@ -1,0 +1,16 @@
+{
+    "key": "deathless initiate",
+    "name": "Deathless Initiate",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Initiate",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "For you, impending death is a call to wrath.",
+    "prerequisites": "Str 13, Con 13, orc or half-orc, Diehard, Endurance, base attack bonus +6",
+    "benefit": "You are not staggered while using the Diehard feat, but if you take a move and a standard action or a full-round action while you are at 0 or fewer hit points you take 1 point of damage. Further, while using the Diehard feat, you gain a +2 bonus on melee attacks and damage rolls.",
+    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaText": "When you are at 0 or fewer hit points, you can spend 2 stamina points to avoid taking damage when you take both a move and a standard action or a full-round action.",
+    "prerequisiteKeys":     [
+        "diehard",
+        "endurance"
+    ]
+}

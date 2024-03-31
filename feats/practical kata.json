@@ -1,0 +1,14 @@
+{
+    "key": "practical kata",
+    "name": "Practical Kata",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Practical%20Kata",
+    "descriptors":     [
+        "Combat",
+        "Combination"
+    ],
+    "source": ["Martial Arts Handbook pg. 27"],
+    "description": "Your martial meditation extends onto the battlefield.",
+    "prerequisites": "Improved Unarmed Strike, ki pool class feature",
+    "benefit": "When you hit with a melee attack against an opponent you have already damaged this round, you can forgo dealing damage to instead regain 1 ki point. This feat can restore only 1 ki point every minute, to a maximum per day of 1 point for every 4 class levels you have.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

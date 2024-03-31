@@ -1,0 +1,10 @@
+{
+    "key": "hardy liver",
+    "name": "Hardy Liver",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hardy%20Liver",
+    "source": ["Inner Sea Taverns pg. 59"],
+    "description": "You can hold your liquor and poisons better than most.",
+    "prerequisites": "Great Fortitude",
+    "benefit": "You gain a +2 bonus on Fortitude saving throws against ingested poisons. You take no penalties when you are tipsy, and the penalties for being drunk or soused are halved for you.",
+    "prerequisiteKeys": ["great fortitude"]
+}

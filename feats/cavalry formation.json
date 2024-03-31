@@ -1,0 +1,16 @@
+{
+    "key": "cavalry formation",
+    "name": "Cavalry Formation",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cavalry%20Formation",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 90"],
+    "description": "You are skilled at riding in close formation with your mounted allies without impeding your effectiveness on the battlefield.",
+    "prerequisites": "Mounted Combat",
+    "benefit": "You and your mount can overlap the space of mounts whose riders have this feat, although no more than two creatures can share any one square. Further, you can charge through a space containing an allied mount if that mount’s rider has this feat, although the space from which you make your charge attack must comply with this feat’s other benefit or be unoccupied.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "At the start of your turn, you can spend 2 stamina points to gain the ability to overlap with allied riders who do not have this feat. This ability lasts until the start of your next turn.",
+    "prerequisiteKeys": ["mounted combat"]
+}

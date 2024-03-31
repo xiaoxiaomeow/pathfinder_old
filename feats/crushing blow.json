@@ -1,0 +1,16 @@
+{
+    "key": "crushing blow",
+    "name": "Crushing Blow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crushing%20Blow",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 94"],
+    "description": "Your focus allows you to smash your enemy’s defenses.",
+    "prerequisites": "Improved Unarmed Strike, Stunning Fist",
+    "benefit": "You can make a Stunning Fist attempt as a full-round action. If successful, instead of stunning your target, you reduce the target’s AC by an amount equal to your Wisdom modifier for 1 minute. This penalty does not stack with other penalties applied due to Crushing Blow.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "When using this feat, you can spend either 2 or 4 stamina points. If you do, the Crushing Blow attack reduces the target’s AC by an additional 1 for every 2 stamina points you spent.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "stunning fist"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "stick-fighting style",
+    "name": "Stick-Fighting Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stick-Fighting%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Martial Arts Handbook pg. 12"],
+    "description": "You know how to use batons, clubs, and sticks in new ways.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "When fighting with a club, quarterstaff, dan bong, sap, or tonfa with which you are proficient, you gain a +1 enhancement bonus on attack rolls as though it were a masterwork weapon. If the weapon actually is a masterwork weapon, it instead counts as having the blocking, disarm, distracting, performance, and trip special weapon qualities, even if the weapon normally doesn’t have them."
+}

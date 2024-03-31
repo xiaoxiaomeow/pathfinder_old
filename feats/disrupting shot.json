@@ -1,0 +1,13 @@
+{
+    "key": "disrupting shot",
+    "name": "Disrupting Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disrupting%20Shot",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "With a well-placed shot, you make it harder for a nearby opponent to cast spells. ",
+    "prerequisites": "Dex 13, Point-Blank Shot, fighter level 6th",
+    "benefit": "If you ready an action to shoot an opponent casting a spell within 30 feet and successfully hit that opponent with a ranged attack, the concentration DC to successfully cast the spell is increased by +4.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "When you ready an action to shoot an opponent casting a spell, you can spend up to 3 stamina points. For each stamina point you spend, it increases the range from which you can successfully hit that opponent and gain the benefits of this feat by 10 feet (to a maximum of 60 feet).",
+    "prerequisiteKeys": ["point-blank shot"]
+}

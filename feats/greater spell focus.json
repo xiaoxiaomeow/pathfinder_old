@@ -1,0 +1,16 @@
+{
+    "key": "greater spell focus",
+    "name": "Greater Spell Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Focus",
+    "source": ["PRPG Core Rulebook pg. 125"],
+    "description": "Choose a school of magic to which you have already applied the Spell Focus feat. Any spells you cast of this school are very hard to resist. ",
+    "prerequisites": "Spell Focus",
+    "benefit": "Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select. This bonus stacks with the bonus from Spell Focus.",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school to which you already have applied the Spell Focus feat.",
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "高等法术专攻",
+    "description_zh": "从已有“法术专攻”的法术学派中选择一个，你施展的该学派的法术很难被抵抗。",
+    "prerequisites_zh": "法术专攻。",
+    "benefit_zh": "所选学派的法术豁免检定DC+1。此加值可与“法术专攻”累加。",
+    "special_zh": "你可以多次选择本专长，但并非累加效果。每次你选择本专长时必须选择一个新的已有“专攻法术”专长的不同学派。"
+}

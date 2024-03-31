@@ -1,0 +1,14 @@
+{
+    "key": "stage combatant",
+    "name": "Stage Combatant",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stage%20Combatant",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 120"],
+    "description": "You are a master of stage and nonlethal combats. ",
+    "prerequisites": "Weapon Focus, base attack bonus +",
+    "benefit": "When you make an attack with a weapon that you have Weapon Focus in, you take no penalty on the attack roll when you are attempting to make an attack that deals no damage or nonlethal damage.",
+    "normal": "When making attacks that deal no damage or nonlethal damage, you take a –4 penalty on attack rolls.",
+    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaText": "If you have at least 1 stamina point in your stamina pool, you gain a +2 bonus on attack rolls with a weapon with which you have Weapon Focus when you attempt to make an attack that deals no damage.",
+    "prerequisiteKeys": ["weapon focus"]
+}

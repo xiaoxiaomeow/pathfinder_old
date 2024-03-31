@@ -1,0 +1,17 @@
+{
+    "key": "stag horns",
+    "name": "Stag Horns",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stag%20Horns",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of the Wild pg. 23"],
+    "description": "You’ve learned to gain the upper hand against your enemies by charging at them with feigned abandon, yet gaining a strong grip on them after attacking.",
+    "prerequisites": "Dex 13, Charging Stag Style, Dodge, Improved Unarmed Strike, Mobility",
+    "benefit": "While using Charging Stag Style, if you make a successful unarmed attack at the end of a charge, you can attempt a free grapple check against the target of your charge without provoking an attack of opportunity.",
+    "normal": "Attempting a grapple requires a standard action, which provokes an attack of opportunity from your target unless you have the Improved Grapple feat.",
+    "prerequisiteKeys":     [
+        "charging stag style",
+        "dodge",
+        "improved unarmed strike",
+        "mobility"
+    ]
+}

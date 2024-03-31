@@ -1,0 +1,13 @@
+{
+    "key": "bullying blow",
+    "name": "Bullying Blow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bullying%20Blow",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 141"],
+    "description": "With a simple hit, you more easily intimidate an opponent.",
+    "prerequisites": "Intimidate 1 rank, orc",
+    "benefit": "As a standard action, you may make a melee attack with a –2 penalty on the attack roll. If the attack damages your opponent, you may make an Intimidate check to demoralize that opponent as a free action.",
+    "normal": "Intimidating an opponent is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "You can spend 2 stamina points to gain the effects of this feat on a single attack made as part of a full attack."
+}

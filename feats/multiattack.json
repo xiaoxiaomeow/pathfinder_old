@@ -1,0 +1,14 @@
+{
+    "key": "multiattack",
+    "name": "Multiattack",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Multiattack",
+    "descriptors":     [
+        "Combat",
+        "Monster"
+    ],
+    "source": ["Pathfinder RPG Bestiary pg. 315"],
+    "description": "This creature is particularly skilled at making attacks with its natural weapons.",
+    "prerequisites": "Three or more natural attacks",
+    "benefit": "The creature’s secondary attacks with natural weapons take only a –2 penalty.",
+    "normal": "Without this feat, the creature’s secondary attacks with natural weapons take a –5 penalty."
+}

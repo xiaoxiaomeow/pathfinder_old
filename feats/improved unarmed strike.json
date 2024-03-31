@@ -1,0 +1,19 @@
+{
+    "key": "improved unarmed strike",
+    "name": "Improved Unarmed Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Unarmed%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 128"],
+    "description": "You are skilled at fighting while unarmed.",
+    "benefit": "You are considered to be armed even when unarmed—you do not provoke attacks of opportunity when you attack foes while unarmed. Your unarmed strikes can deal lethal or nonlethal damage, at your choice.",
+    "normal": "Without this feat, you are considered unarmed when attacking with an unarmed strike, and you can deal only nonlethal damage with such an attack.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "When you deal nonlethal damage with an unarmed strike, you can spend up to 5 stamina points to deal an amount of additional nonlethal damage equal to double the amount of stamina points you spent.",
+    "mythicSource": ["Mythic Adventures pg. 68"],
+    "mythicDescription": "Your unarmed strikes are more powerful than others.",
+    "mythicPrerequisites": "Improved Unarmed Strike",
+    "mythicBenefit": "You can add half your tier to your damage with unarmed strikes. As a swift action, you can expend one use of mythic power to overcome the hardness of objects with your unarmed strikes. This effect last for a number of rounds equal to your tier. If an object’s hardness is greater than 15, you don’t ignore any of its hardness.",
+    "name_zh": "精通徒手打击",
+    "description_zh": "你精通徒手作战的技巧。",
+    "benefit_zh": "即使徒手也视同持有武器，也就是说当你徒手攻击时，不会引发藉机攻击。此外，你可以选择让你的徒手击打造成致命或非致命伤害。"
+}

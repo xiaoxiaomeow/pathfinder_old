@@ -1,0 +1,14 @@
+{
+    "key": "cudgeler style",
+    "name": "Cudgeler Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cudgeler%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Melee Tactics Toolbox pg. 13"],
+    "description": "You have learned how to rush your foe and deliver an incapacitating blow.",
+    "prerequisites": "Bludgeoner",
+    "benefit": "When you hit with a charge attack to deal nonlethal damage while using this style, your weapon deals damage as if it were one size category larger than it actually is. If you have the ability to make more than one attack on a charge, this increase applies only to your first attack.",
+    "prerequisiteKeys": ["bludgeoner"]
+}

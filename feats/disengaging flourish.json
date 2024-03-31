@@ -1,0 +1,17 @@
+{
+    "key": "disengaging flourish",
+    "name": "Disengaging Flourish",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Flourish",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 96"],
+    "description": "Distracting your opponents gives you the opportunity to make a swift retreat.",
+    "prerequisites": "Int 13, Combat Expertise, Disengaging Feint, Improved Feint",
+    "benefit": "As a standard action, make a Bluff check against each opponent that currently threatens you. If you succeed against at least one opponent, you can move up to your speed. This movement does not provoke attacks of opportunity from any opponent you succeeded at feinting against.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to make a Disengaging Flourish attempt as a move action instead of a standard action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "disengaging feint",
+        "improved feint"
+    ]
+}

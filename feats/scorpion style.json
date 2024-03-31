@@ -1,0 +1,21 @@
+{
+    "key": "scorpion style",
+    "name": "Scorpion Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scorpion%20Style",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 132"],
+    "description": "You can perform an unarmed strike that greatly hampers your target's movement.",
+    "prerequisites": "Improved Unarmed Strike",
+    "benefit": "To use this feat, you must make a single unarmed attack as a standard action. If this unarmed attack hits, you deal damage normally, and the target's base land speed is reduced to 5 feet for a number of rounds equal to your Wisdom modifier unless it makes a Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier).",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you hit with an unarmed attack using this feat and the target successfully saves against the effect, you can spend 2 stamina points to reduce the target’s movement speed by half for 1 round.",
+    "mythicSource": ["Mythic Adventures pg. 72"],
+    "mythicDescription": "Your unarmed strikes can induce a near-crippling lethargy in your enemies.",
+    "mythicPrerequisites": "Scorpion Style",
+    "mythicBenefit": "Whenever you are using Scorpion Style, you add your tier to the number of rounds the target’s base land speed is reduced. You can expend one use of mythic power when making your attack to slow your target, as the spell <i>slow<\/i>, unless it succeeds at a Fortitude save (DC 10 + 1/2 your character level + your Wisdom modif ier). The slowing effect supersedes the normal speed penalty of your Scorpion Strike, but lasts for an equal number of rounds.",
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "蝎形拳",
+    "description_zh": "你的徒手击打能够严重妨碍目标的移动。",
+    "prerequisites_zh": "精通徒手打击。",
+    "benefit_zh": "要使用此专长，你必须用标准动作做一次单一的徒手攻击。如果此徒手攻击命中，你正常造成伤害，且目标的基本陆地速度降为5尺，持续轮数等同于你的感知修正，除非其通过DC为“10+1/2你的角色等级+感知修正”的强韧豁免检定。"
+}

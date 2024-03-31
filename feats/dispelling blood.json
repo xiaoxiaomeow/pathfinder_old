@@ -1,0 +1,10 @@
+{
+    "key": "dispelling blood",
+    "name": "Dispelling Blood",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispelling%20Blood",
+    "source": ["Potions and Poisons pg. 6"],
+    "description": "You can change your toxic blood to unravel magic itself.",
+    "prerequisites": "Knowledge (arcana) 7 ranks, vishkanya",
+    "benefit": "As a swift action, you can alter the effects of your venom to affect magic instead of flesh. Your venom functions as a targeted <i>dispel magic<\/i> effect when it strikes a creature, using your character level as your caster level. This dispelling effect affects creatures even if they are immune to poison effects.",
+    "normal": "Vishkanya venom deals Dexterity damage."
+}

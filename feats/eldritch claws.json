@@ -1,0 +1,12 @@
+{
+    "key": "eldritch claws",
+    "name": "Eldritch Claws",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Claws",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 158"],
+    "description": "Who needs magic weapons? Eldritch tricks are no match for your bestial ferocity.",
+    "prerequisites": "Str 15, natural weapons, base attack bonus +6",
+    "benefit": "You natural weapons are considered both magic and silver for purpose of overcoming damage reduction.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "As long as you have 1 stamina point in your stamina pool, your claws are also considered to be cold iron weapons for the purpose of overcoming damage reduction."
+}

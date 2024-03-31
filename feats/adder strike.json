@@ -1,0 +1,14 @@
+{
+    "key": "adder strike",
+    "name": "Adder Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Adder%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 89"],
+    "description": "You can quickly apply poison to gloved hands, protected feet, or other protected body parts, delivering the poison with your unarmed strikes.",
+    "prerequisites": "Poison use class feature, Craft (alchemy) 1 rank, Improved Unarmed Strike",
+    "benefit": "As a swift action, you can apply one dose of contact or injury poison to two body parts that you use for unarmed strikes. You must still protect yourself against exposure to contact poisons you apply in this way.",
+    "normal": "Applying poison to a weapon or single piece of ammunition is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 113"],
+    "staminaText": "You can spend 2 stamina points to apply poison to a manufactured weapon as a swift action.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

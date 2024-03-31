@@ -1,0 +1,17 @@
+{
+    "key": "equipment trick",
+    "name": "Equipment Trick",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Equipment%20Trick",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Heroes from the Fringe pg. 29",
+        "Sargava, the Lost Colony pg. 25",
+        "Adventurer's Armory pg. 22",
+        "Dirty Tactics Toolbox pg. 18",
+        "Adventurer's Armory 2 pg. 2"
+    ],
+    "description": "Choose a piece of equipment, such as an anvil, boots, a cloak, a heavy blade scabbard, a sunrod, or a wondrous item. You understand how to use that piece of equipment in combat.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "You can use any equipment trick related to the chosen item as long as you meet the trick’s prerequisites. If the item would normally be considered an improvised weapon, you can treat it as either a normal weapon or an improvised weapon, depending on which is more beneficial for you.",
+    "special": "You can gain Equipment Trick multiple times. Each time you take the feat, it applies to a new type of equipment."
+}

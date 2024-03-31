@@ -1,0 +1,23 @@
+{
+    "key": "critical focus",
+    "name": "Critical Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Critical%20Focus",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 120"],
+    "description": "You are trained in the art of causing pain.",
+    "prerequisites": "Base attack bonus +9",
+    "benefit": "You receive a +4 circumstance bonus on attack rolls made to confirm critical hits.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "If your successful critical confirmation roll is a natural 19 or 20, you can spend 2 stamina points to roll another confirmation roll. If this confirmation roll also succeeds, increase your critical multiplier by 1 for this attack, and you can roll again. If you continue to roll 19 or 20, you can continue to spend stamina points for additional rolls, and the increases to the critical multiplier stack.",
+    "mythicSource": ["Mythic Adventures pg. 61"],
+    "mythicDescription": "Your blows unerringly find your target’s vital spots.",
+    "mythicPrerequisites": "Critical Focus",
+    "mythicBenefit": "You automatically confirm critical threats against non-mythic opponents. In addition, when you threaten a critical hit against a creature wearing armor with the <i>fortification <\/i>special ability or similar effect, that creature must roll twice and take the worse result when determining critical hit negation.",
+    "name_zh": "重击专攻",
+    "description_zh": "你熟练于制造疼痛的艺术。",
+    "prerequisites_zh": "基本攻击加值+9。",
+    "benefit_zh": "在确定重击的攻击检定中，获得+4的环境加值。"
+}

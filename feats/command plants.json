@@ -1,0 +1,9 @@
+{
+    "key": "command plants",
+    "name": "Command Plants",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Command%20Plants",
+    "source": ["Ultimate Wilderness pg. 108"],
+    "description": "You channel energy to bring plants under your control.",
+    "prerequisites": "Channel energy class feature, Plant domain",
+    "benefit": "As a standard action, you can use one of your daily uses of channel energy to command plants within 30 feet of you. Plants can attempt a Will save (DC = 10 + half your class level + your Charisma modifier) to negate the effect. This functions as the <i>command plant<\/i> spell with a caster level equal to your class level. Each affected plant can attempt a new saving throw each day to escape this effect. You can control any number of plants, so long as their total Hit Dice do not exceed your class level. If you use channel energy in this way, it has no other effect (it does not heal or harm nearby creatures). If an affected plant creature is controlled by or a companion of another creature, you must attempt an opposed Charisma check whenever your orders conflict."
+}

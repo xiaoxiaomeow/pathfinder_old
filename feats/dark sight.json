@@ -1,0 +1,10 @@
+{
+    "key": "dark sight",
+    "name": "Dark Sight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dark%20Sight",
+    "source": ["Advanced Race Guide pg. 111"],
+    "description": "With further modification, your eyes can pierce the gloom of even magical darkness.",
+    "prerequisites": "Gloom Sight, fetchling",
+    "benefit": "You gain the ability to see up to 15 feet clearly in magical darkness, such as that created by the <i>deeper darkness <\/i>spell.",
+    "prerequisiteKeys": ["gloom sight"]
+}

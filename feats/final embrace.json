@@ -1,0 +1,13 @@
+{
+    "key": "final embrace",
+    "name": "Final Embrace",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Final%20Embrace",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 101"],
+    "description": "Your coils are particularly deadly, allowing you to constrict opponents of your size or smaller.",
+    "prerequisites": "Str 13, Int 3; naga, serpentfolk, or creature that has the constrict special attack as a racial ability; base attack bonus +3",
+    "benefit": "You gain the constrict and grab special attacks. Your constrict attack deals damage equal to your unarmed strike or primary natural weapon melee attack. Further, you can grab and constrict opponents up to your size.",
+    "normal": "You can grab and constrict creatures one size smaller than you.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "You can spend 2 stamina points to grab a creature one size category larger than you."
+}

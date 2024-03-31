@@ -1,0 +1,13 @@
+{
+    "key": "masked by fear",
+    "name": "Masked by Fear",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Masked%20by%20Fear",
+    "source":     [
+        "Adventurer's Guide pg. 124",
+        "Arcane Anthology pg. 15"
+    ],
+    "description": "You embody all that you fear while wearing your mask.",
+    "prerequisites": "Nameless One; base Will save bonus +6 or bravery class feature",
+    "benefit": "By donning a mask etched with your greatest terrors, you are able to eschew fear completely. While benefiting from the Nameless One feat, when you suffer the cowering, frightened, or panicked condition, that condition causes you to act as if shaken instead of imposing its normal effects. In addition, whenever you attempt a skill check (normally Intimidate) to demoralize an opponent, you gain a +3 bonus on the check.",
+    "prerequisiteKeys": ["nameless one"]
+}

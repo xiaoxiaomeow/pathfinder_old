@@ -1,0 +1,12 @@
+{
+    "key": "greater hunter's bond",
+    "name": "Greater Hunter's Bond",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Hunter's%20Bond",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 113"],
+    "description": "Your allies can target additional foes.",
+    "prerequisites": "Improved Hunter's Bond, hunter's bond (hunting companions) class feature, ranger level 12th",
+    "benefit": "When you activate hunter’s bond, you can select a number of targets equal to your Wisdom modifier as long as they all count as your favored enemy.",
+    "normal": "You select one target against which your allies receive your favored enemy bonus.",
+    "prerequisiteKeys": ["improved hunter's bond"]
+}

@@ -1,0 +1,10 @@
+{
+    "key": "maximized spellstrike",
+    "name": "Maximized Spellstrike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Maximized%20Spellstrike",
+    "source": ["Ultimate Combat pg. 109"],
+    "description": "You deal brutal damage against opponents caught unawares.",
+    "prerequisites": "Maximized magic magus arcana, weapon expertise class feature or Quick Draw",
+    "benefit": "When you make a melee attack and successfully use your spellstrike ability against an opponent denied his Dexterity bonus to AC, you can spend 3 points from your arcane pool to maximize the spell delivered through your spellstrike as if using the Maximize Spell metamagic feat.",
+    "prerequisiteKeys": ["quick draw"]
+}

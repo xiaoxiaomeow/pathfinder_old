@@ -1,0 +1,14 @@
+{
+    "key": "weapon trick",
+    "name": "Weapon Trick",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20Trick",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Martial Arts Handbook pg. 12",
+        "Weapon Master's Handbook pg. 8"
+    ],
+    "description": "Choose one weapon trick option (one-handed weapon, polearm, ranged, two-handed weapon, two-weapon, or weapon and shield). You can perform weapon tricks in combat when armed appropriately for that option.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "You can use any weapon tricks relating to the chosen weapon option if you meet the trick’s prerequisites and are proficient with any weapon or shield that you use as part of the trick.",
+    "special": "You can gain Weapon Trick multiple times. Each time you take the feat, it applies to a new weapon trick option."
+}

@@ -1,0 +1,10 @@
+{
+    "key": "deconstruct spell",
+    "name": "Deconstruct Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deconstruct%20Spell",
+    "source": ["Plane-Hopper's Handbook pg. 14"],
+    "description": "You deconstruct a spell into its constituent glyphs, storing them to replenish your crystalline dust.",
+    "prerequisites": "Improved Counterspell or ability to cast <i>dispel magic<\/i> or <i>greater dispel magic<\/i>, aphorite, crystalline dust racial trait",
+    "benefit": "Once per day when you successfully counterspell or dispel a spell, you can instead deconstruct the spell to regain a number of rounds of your crystalline dust racial trait equal to half the level of the spell. You can’t use this feat to gain more than your maximum number of rounds of your crystalline dust racial trait.",
+    "prerequisiteKeys": ["improved counterspell"]
+}

@@ -1,0 +1,10 @@
+{
+    "key": "favored enemy spellcasting",
+    "name": "Favored Enemy Spellcasting",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Favored%20Enemy%20Spellcasting",
+    "source": ["Advanced Class Guide pg. 147"],
+    "description": "Your spells are more effective against creatures that you especially abhor.",
+    "prerequisites": "Ability to cast spells",
+    "benefit": "When you select this feat, choose a creature type or a humanoid subtype from the Ranger Favored Enemies table (<i>Core Rulebook<\/i> 64). When creatures of the chosen type attempt saving throws against your spells, they treat the spells’ DCs as 1 higher. If you also have the favored enemy class feature and the chosen type is already a favored enemy of yours, such creatures treat your spells’ DCs as 2 higher.",
+    "special": "You can take this feat multiple times. Each time you do, it applies to a different creature type."
+}

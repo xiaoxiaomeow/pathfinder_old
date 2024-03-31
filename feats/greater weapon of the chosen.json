@@ -1,0 +1,16 @@
+{
+    "key": "greater weapon of the chosen",
+    "name": "Greater Weapon of the Chosen",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20of%20the%20Chosen",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 149"],
+    "description": "Your deity guides your hand when you fight with her favored weapon.",
+    "prerequisites": "Improved Weapon of the Chosen, Weapon Focus with deity's favored weapon, Weapon of the Chosen, worship and receive spells from a deity",
+    "benefit": "When you use your deity’s favored weapon to attempt a single attack with the attack action, you roll two dice for your attack roll and take the higher result. You do not need to use your Weapon of the Chosen feat to gain this feat’s benefit. As usual, the reroll does not apply to any confirmation rolls.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When making an attack as part of a full attack with the weapon designated by your Weapon of the Chosen<sup>ACG<\/sup> feat, you can spend 5 stamina points to gain the benefits of this feat on that attack.",
+    "prerequisiteKeys":     [
+        "improved weapon of the chosen",
+        "weapon of the chosen"
+    ]
+}

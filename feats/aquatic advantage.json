@@ -1,0 +1,10 @@
+{
+    "key": "aquatic advantage",
+    "name": "Aquatic Advantage",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aquatic%20Advantage",
+    "source": ["Monster Codex pg. 188"],
+    "description": "Foes without a swim speed provoke attacks of opportunity from you underwater.",
+    "prerequisites": "Combat Reflexes, must have a natural swim speed",
+    "benefit": "A creature that lacks a swim speed provokes an attack of opportunity from you when it attacks you underwater. You don’t get an attack of opportunity if the attacker is under the effects of <i>freedom of movement<\/i>.",
+    "prerequisiteKeys": ["combat reflexes"]
+}

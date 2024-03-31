@@ -1,0 +1,12 @@
+{
+    "key": "sharpclaw",
+    "name": "Sharpclaw",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sharpclaw",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 154"],
+    "description": "Your nails are large and strong.",
+    "prerequisites": "Ratfolk",
+    "benefit": "You gain two claw attacks. These are primary natural attacks that deal 1d4 points of damage.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "You can spend 2 stamina points to increase the damage die of your claw attacks to 1d6 until the start of your next turn."
+}

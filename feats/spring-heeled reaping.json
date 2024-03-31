@@ -1,0 +1,18 @@
+{
+    "key": "spring-heeled reaping",
+    "name": "Spring-Heeled Reaping",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spring-Heeled%20Reaping",
+    "descriptors": ["Combat"],
+    "source": ["Armor Master's Handbook pg. 11"],
+    "description": "Your armor’s flexibility and your own training allow you to strike multiple times while moving.",
+    "prerequisites": "Dex 17, Dodge, Mobility, Shot on the Run or Spring Attack, Spring-Heeled Sprint, Spring-Heeled Style, base attack bonus +11, proficiency with light armor",
+    "benefit": "While using Spring-Heeled Style, whenever you use Shot on the Run or Spring Attack, you can attack two different creatures at any point in your movement. Each attack is made at your full attack bonus. Any creature that you attack in melee with this feat cannot make attacks of opportunity against you for that movement, as normal for Spring Attack.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility",
+        "shot on the run",
+        "spring attack",
+        "spring-heeled sprint",
+        "spring-heeled style"
+    ]
+}

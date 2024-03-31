@@ -1,0 +1,14 @@
+{
+    "key": "octopus focus",
+    "name": "Octopus Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Octopus%20Focus",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 14"],
+    "description": "The more enemies that surround you, the more accurate your attacks become.",
+    "prerequisites": "Dex 13, Dodge, Octopus Style, Acrobatics 3 ranks, Perception 3 ranks",
+    "benefit": "When using this style, you gain a cumulative +1 bonus on melee attacks for each enemy that threatens you, up to a maximum equal to your Dexterity modifier. In addition, when you attempt to grapple without two free hands, you take only a –2 penalty on your combat maneuver check instead of the usual –4.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "octopus style"
+    ]
+}

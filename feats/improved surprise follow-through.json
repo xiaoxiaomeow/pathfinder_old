@@ -1,0 +1,17 @@
+{
+    "key": "improved surprise follow-through",
+    "name": "Improved Surprise Follow-Through",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Surprise%20Follow-Through",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 57"],
+    "description": "You follow up an attack with a surprising series of sweeping blows.",
+    "prerequisites": "Str 13, Cleave, Great Cleave, Power Attack, Surprise Follow Through, base attack bonus +8",
+    "benefit": "When using Great Cleave, each opponent you attack on your turn (other than the first) is denied his Dexterity bonus against you.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "When you hit a foe that’s denied its Dexterity bonus via this feat and you use the Surprise Follow-Through combat trick to deal extra damage, the amount of extra damage dealt increases to 1d6 points.",
+    "prerequisiteKeys":     [
+        "cleave",
+        "great cleave",
+        "power attack"
+    ]
+}

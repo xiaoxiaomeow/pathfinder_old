@@ -1,0 +1,10 @@
+{
+    "key": "flame heart",
+    "name": "Flame Heart",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Flame%20Heart",
+    "source": ["Advanced Race Guide pg. 118"],
+    "description": "You have mastered fire magic and alchemy.",
+    "prerequisites": "Fire Tamer, character level 5th, goblin",
+    "benefit": "You gain fire resistance 5. When casting spells with the fire descriptor or throwing alchemist bombs that deal fire damage, treat your caster level or alchemist level as if you were 1 level higher.",
+    "prerequisiteKeys": ["fire tamer"]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "horn rider's charge",
+    "name": "Horn Rider's Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horn%20Rider's%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["Monster Codex pg. 164"],
+    "description": "When the animal you’re lashed to charges, you use its momentum in your own attack.",
+    "prerequisites": "Horn Rider, base attack bonus +1",
+    "benefit": "Whenever you’re lashed into a horn harness and you ready an action to make a melee attack against the target of a charge made by the creature you’re lashed to, you gain the attack bonus for charging and your attack deals double damage (or triple damage with a lance). This benefit does not stack with the benefit of Spirited Charge.",
+    "prerequisiteKeys": ["horn rider"]
+}

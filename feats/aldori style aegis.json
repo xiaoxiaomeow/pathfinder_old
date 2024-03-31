@@ -1,0 +1,18 @@
+{
+    "key": "aldori style aegis",
+    "name": "Aldori Style Aegis",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aldori%20Style%20Aegis",
+    "descriptors": ["Combat"],
+    "source": ["Adventurer's Guide pg. 24"],
+    "description": "Baron Aldori’s dueling style is at its strongest when employed in one-on-one duels. Adjusting to a reverse grip and keeping your blade in motion, you parry your rival’s strikes with ease.",
+    "prerequisites": "Aldori Style, Alertness, Combat Reflexes, Exotic Weapon Proficiency (Aldori dueling sword), Weapon Finesse, Weapon Focus (Aldori dueling sword)",
+    "benefit": "While using Aldori Style, at the beginning of your turn, you can designate a focused target as a swift action. This designation lasts until the beginning of your next turn, and you take a –2 penalty to your AC against all other creatures’ attacks for that duration. As an immediate action while using Combat Expertise or fighting defensively, you can attempt to parry the focused target’s attack. This functions as the swashbuckler’s opportune parry and riposte deed (<i>Pathfinder RPG Advanced Class Guide 57<\/i>), except that it does not cost panache and you cannot riposte.",
+    "prerequisiteKeys":     [
+        "aldori style",
+        "alertness",
+        "combat reflexes",
+        "exotic weapon proficiency",
+        "weapon finesse",
+        "weapon focus"
+    ]
+}

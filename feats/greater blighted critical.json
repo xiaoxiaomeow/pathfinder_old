@@ -1,0 +1,12 @@
+{
+    "key": "greater blighted critical",
+    "name": "Greater Blighted Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Blighted%20Critical",
+    "descriptors": ["Critical"],
+    "source": ["Ultimate Magic pg. 151"],
+    "description": "Your critical hit from a spell or spell-like ability afflicts the target with a major spellblight.",
+    "prerequisites": "Blighted Critical, caster level 12th",
+    "benefit": "Whenever you confirm a critical hit with a touch spell, ranged touch spell, or spell-like ability against an opponent, the victim gains a random major spellblight.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "prerequisiteKeys": ["blighted critical"]
+}

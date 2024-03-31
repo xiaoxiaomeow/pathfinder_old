@@ -1,0 +1,13 @@
+{
+    "key": "protector's strike",
+    "name": "Protector's Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Protector's%20Strike",
+    "source":     [
+        "Inner Sea Gods pg. 215",
+        "Faiths of Purity pg. 25"
+    ],
+    "description": "You can use your smiting power to protect an ally from known evil.",
+    "prerequisites": "Base attack bonus +5, smite evil class feature",
+    "benefit": "When you choose the target of your smite evil ability, you also choose one creature other than you within line of sight. While your smite is in effect, the additional creature you chose gains a deflection bonus to AC equal to your Charisma modifier against attacks made by the target of the smite. This bonus ends when the smite ends. You do not gain the deflection bonus to AC normally granted by smite evil.",
+    "normal": "While smite evil is in effect, the paladin gains a deflection bonus to her AC equal to her Charisma bonus (if any) against attacks made by the target of her smite attack."
+}

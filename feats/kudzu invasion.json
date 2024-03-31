@@ -1,0 +1,16 @@
+{
+    "key": "kudzu invasion",
+    "name": "Kudzu Invasion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kudzu%20Invasion",
+    "descriptors": ["Combat"],
+    "source": ["Wilderness Origins pg. 14"],
+    "description": "In addition to obscuring creatures’ vision, your vines crush their bodies.",
+    "prerequisites": "Dex 13, Greater Grapple, Improved Grapple, Improved Unarmed Strike, Kudzu Grappler, base attack bonus +6 or monk level 6th, vine leshy",
+    "benefit": "When you blind a creature using your Kudzu Grappler feat, you can also deal your unarmed strike damage to it.",
+    "prerequisiteKeys":     [
+        "greater grapple",
+        "improved grapple",
+        "improved unarmed strike",
+        "kudzu grappler"
+    ]
+}

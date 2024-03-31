@@ -1,0 +1,14 @@
+{
+    "key": "rending swarm",
+    "name": "Rending Swarm",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Swarm",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Blood of the Beast pg. 23"],
+    "description": "Together, you and your allies tear through enemies’ defenses.",
+    "prerequisites": "Dex 15, Rat Stack, swarming racial trait",
+    "benefit": "You gain a +1 bonus on all melee damage rolls for each allied creature you share a square with that also has this feat.",
+    "prerequisiteKeys": ["rat stack"]
+}

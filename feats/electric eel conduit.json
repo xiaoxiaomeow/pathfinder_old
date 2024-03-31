@@ -1,0 +1,16 @@
+{
+    "key": "electric eel conduit",
+    "name": "Electric Eel Conduit",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Electric%20Eel%20Conduit",
+    "descriptors": ["Combat"],
+    "source": ["Blood of the Sea pg. 10"],
+    "description": "You can establish an ongoing electrical charge between you and a target you have grabbed.",
+    "prerequisites": "Wis 17, Electric Eel Shock, Electric Eel Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 9th",
+    "benefit": "You gain one additional Elemental Fist (<i>Pathfinder RPG Advanced Player’s Guide<\/i> 158) attempt per day. When you successfully grapple a creature, you may expend two uses of Elemental Fist as a swift action to set up an electric charge between yourself and the creature. If you do, the target takes electricity damage equal to 1d6 plus your Wisdom modifier each round you maintain the grapple. This damage ceases when you are no longer grappling the target.",
+    "prerequisiteKeys":     [
+        "electric eel shock",
+        "electric eel style",
+        "elemental fist",
+        "improved unarmed strike"
+    ]
+}

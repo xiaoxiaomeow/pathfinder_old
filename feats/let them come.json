@@ -1,0 +1,14 @@
+{
+    "key": "let them come",
+    "name": "Let Them Come",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Let%20Them%20Come",
+    "descriptors":     [
+        "Combat",
+        "Faction"
+    ],
+    "source": ["Faction Guide pg. 57"],
+    "description": "You have trained to fight onrushing enemy hordes. With a carefully timed strike you ensure that their reckless charge will be their undoing.",
+    "prerequisites": "Dwarf, Ninth Battalion TPA 25",
+    "benefit": "You treat all one- or two-handed melee weapons as if they had the brace special feature.",
+    "normal": "Only weapons with the brace special feature can be readied against charges."
+}

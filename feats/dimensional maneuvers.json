@@ -1,0 +1,14 @@
+{
+    "key": "dimensional maneuvers",
+    "name": "Dimensional Maneuvers",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Maneuvers",
+    "source": ["Ultimate Combat pg. 96"],
+    "description": "Your rapid teleportation makes your combat maneuvers more difficult to avoid.",
+    "prerequisites": "Ability to use the abundant step class feature or cast <i>dimension door<\/i>, Dimensional Agility, Dimensional Assault, Dimensional Dervish, base attack bonus +9",
+    "benefit": "While using the Dimensional Dervish feat, you gain a +4 bonus on combat maneuver checks to bull rush, disarm, reposition, or trip an opponent.",
+    "prerequisiteKeys":     [
+        "dimensional agility",
+        "dimensional assault",
+        "dimensional dervish"
+    ]
+}

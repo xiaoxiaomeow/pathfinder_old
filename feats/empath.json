@@ -1,0 +1,10 @@
+{
+    "key": "empath",
+    "name": "Empath",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Empath",
+    "source": ["Occult Adventures pg. 132"],
+    "description": "You have learned how to psychically sense an individual’s mood or altered mental state.",
+    "prerequisites": "Psychic Sensitivity or ability to cast psychic spells, Perception 1 rank or Sense Motive 1 rank",
+    "benefit": "You can use either Perception or Sense Motive when reading an emotion aura with the read aura occult skill unlock. Reading a creature’s emotion aura takes you only a full-round action instead of 10 minutes, and if you succeed at your check, you also determine whether that creature is currently affected by a fear or mind-affecting effect and the relative strength of that effect (minor, moderate, strong, as defined in <i>detect magic<\/i>). You don’t learn the source of the effect or the actual effect.",
+    "prerequisiteKeys": ["psychic sensitivity"]
+}

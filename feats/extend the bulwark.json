@@ -1,0 +1,14 @@
+{
+    "key": "extend the bulwark",
+    "name": "Extend the Bulwark",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extend%20the%20Bulwark",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Magical Marketplace pg. 6"],
+    "description": "You can bolster a trained ally’s defenses by interposing your own armored body.",
+    "benefit": "If you are wearing medium or heavy armor and are adjacent to an ally who also has this feat, as a free action, you may give your ally a circumstance bonus to her AC equal to half the armor bonus provided by your armor. This bonus lasts for 1 round. During this round, you gain no bonus to your AC from your armor.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 5 stamina points either to use this feat without losing your own armor bonus to AC, or to use this feat to grant the bonus to an ally. (<i>Magical Marketplace 6<\/i>)"
+}

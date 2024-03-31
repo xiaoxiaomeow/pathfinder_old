@@ -1,0 +1,10 @@
+{
+    "key": "sleep venom",
+    "name": "Sleep Venom",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sleep%20Venom",
+    "source": ["Advanced Race Guide pg. 209"],
+    "description": "You can change the nature of your toxic spittle to put your enemies to sleep.",
+    "prerequisites": "Vishkanya",
+    "benefit": "As a swift action, you may alter the effects of your venom so the target falls unconscious. This changes the initial and secondary effect of your venom to the following: <i>initial effect <\/i>staggered for 1d4 rounds; <i>secondary effect <\/i>unconsciousness for 1 minute. You must make the decision to alter your venom before you apply it to a weapon.",
+    "normal": "Vishkanya venom deals Dexterity damage."
+}

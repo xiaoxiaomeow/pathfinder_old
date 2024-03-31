@@ -1,0 +1,11 @@
+{
+    "key": "finesse shot",
+    "name": "Finesse Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Finesse%20Shot",
+    "descriptors": ["Weapon Mastery"],
+    "source": ["Weapon Master's Handbook pg. 21"],
+    "description": "You can use ranged attacks to perform actions that require finesse.",
+    "prerequisites": "Marksman's Utility, base attack bonus +7, weapon training class feature with a ranged weapon",
+    "benefit": "In addition to the options allowed by the utility shot<sup>UC<\/sup> gunslinger deed, you gain access to the following utility shots.",
+    "prerequisiteKeys": ["marksman's utility"]
+}

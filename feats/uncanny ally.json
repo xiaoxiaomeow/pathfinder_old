@@ -1,0 +1,10 @@
+{
+    "key": "uncanny ally",
+    "name": "Uncanny Ally",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Uncanny%20Ally",
+    "source": ["Paths of the Righteous pg. 25"],
+    "description": "You have learned to use your senses to protect others.",
+    "prerequisites": "Alertness, uncanny dodge class feature",
+    "benefit": "When you are conscious and able to move freely, allies adjacent to you who can see and hear you gain the benefit of your uncanny dodge. If you have improved uncanny dodge, as a free action at the beginning of your turn, you can designate one adjacent ally to receive the benefit of that ability as well. The ally can be sneak attacked by foes with 4 more rogue levels than your character level or your ally’s character level, whichever is lower.",
+    "prerequisiteKeys": ["alertness"]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "savage display",
+    "name": "Savage Display",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Savage%20Display",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["Ultimate Combat pg. 116"],
+    "description": "With your victory and a roar, you push yourself on with increased savagery.",
+    "prerequisites": "Dazzling Display",
+    "benefit": "When you spend a swift action to make a performance combat check, you gain a +2 bonus on your performance combat check and gain a +1d6 bonus on damage rolls until the end of your next turn. This extra damage is not precision damage.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When using this feat, you can spend 2 stamina points to gain a +2d6 bonus on damage rolls (instead of +1d6).",
+    "prerequisiteKeys": ["dazzling display"]
+}

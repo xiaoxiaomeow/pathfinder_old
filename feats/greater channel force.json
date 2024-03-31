@@ -1,0 +1,13 @@
+{
+    "key": "greater channel force",
+    "name": "Greater Channel Force",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Channel%20Force",
+    "source": ["Advanced Race Guide pg. 88"],
+    "description": "Your eruptions of divine power move your enemies.",
+    "prerequisites": "Channel Force, Improved Channel Force, aasimar, channel energy 6d6",
+    "benefit": "When using Improved Channel Force, you can affect all creatures in a 30-foot-radius burst.",
+    "prerequisiteKeys":     [
+        "channel force",
+        "improved channel force"
+    ]
+}

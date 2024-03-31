@@ -1,0 +1,13 @@
+{
+    "key": "finishing cascade",
+    "name": "Finishing Cascade",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Finishing%20Cascade",
+    "descriptors":     [
+        "Combat",
+        "Combination"
+    ],
+    "source": ["Martial Arts Handbook pg. 27"],
+    "description": "Your blows set up your opponents for a devastating finish.",
+    "prerequisites": "Base attack bonus +11 or monk level 11th; at least one combination feat",
+    "benefit": "The first time in a round you use a combination feat to apply a reduction or penalty to yourself or an enemy, you can double the feat’s numerical modifier. For example, you can double the reduction granted by Combat Rhythm to –2. This does not double any other effects of combination feats, such as damage."
+}

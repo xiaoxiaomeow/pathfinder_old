@@ -1,0 +1,11 @@
+{
+    "key": "take this",
+    "name": "Take This",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Take%20This",
+    "descriptors": ["Teamwork"],
+    "source": ["Antihero's Handbook pg. 11"],
+    "description": "You can quickly retrieve items from the body of a companion who is unable to act.",
+    "benefit": "If you are adjacent to an ally who also has this feat but is unable to act, you can retrieve a held or openly carried item from his body as a swift action that does not provoke attacks of opportunity.",
+    "normal": "Retrieving a stored item or picking up a fallen item is a move action that provokes attacks of opportunity.",
+    "special": "This is an exception to the rule that allies who are unable to act do not count for the purpose of teamwork feats."
+}

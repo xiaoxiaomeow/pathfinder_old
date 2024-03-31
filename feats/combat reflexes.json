@@ -1,0 +1,21 @@
+{
+    "key": "combat reflexes",
+    "name": "Combat Reflexes",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Reflexes",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 119"],
+    "description": "You can make additional attacks of opportunity.",
+    "benefit": "You may make a number of additional attacks of opportunity per round equal to your Dexterity bonus. With this feat, you may also make attacks of opportunity while flat-footed.",
+    "normal": "A character without this feat can make only one attack of opportunity per round and can't make attacks of opportunity while flat-footed.",
+    "special": "The Combat Reflexes feat does not allow a rogue to use her opportunist ability more than once per round.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When you miss with an attack of opportunity, you can spend 5 stamina points to make a second attack for the same provoking action. That second attack of opportunity takes a –5 penalty on the attack roll and costs one of your attacks of opportunity for the round.",
+    "mythicSource": ["Mythic Adventures pg. 61"],
+    "mythicDescription": "You strike viciously whenever your foe gives you an opening.",
+    "mythicPrerequisites": "Combat Reflexes",
+    "mythicBenefit": "You can make any number of additional attacks of opportunity per round. As a swift action, you can expend one use of mythic power to, until the start of your next turn, make attacks of opportunity against foes you’ve already made attacks of opportunity against this round if they provoke attacks of opportunity from you by moving.",
+    "name_zh": "战斗反射",
+    "description_zh": "你能进行额外的藉机攻击。",
+    "benefit_zh": "每轮你能获得等同于敏捷修正次数的额外藉机攻击。同样，你在措手不及的情况下，也能进行藉机攻击。",
+    "special_zh": "此专长不能让盗贼在一个回合中多次使用【乘势攻击】高级天赋的效果。"
+}

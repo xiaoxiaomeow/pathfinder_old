@@ -1,0 +1,11 @@
+{
+    "key": "searing distraction",
+    "name": "Searing Distraction",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Searing%20Distraction",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of the Darklands pg. 5"],
+    "description": "You harry your foes with the light and heat of your weapon.",
+    "prerequisites": "Catch Off-Guard",
+    "benefit": "When you make an attack using a light source such as a sunrod or torch as an improvised weapon, the target must succeed at a Fortitude save or be dazzled for 1 round. On a critical hit, the target is instead blinded for 1 round. The DC of the effect is 10 + half your character level + your Dexterity modifier. Blind targets are immune to this effect.",
+    "prerequisiteKeys": ["catch off-guard"]
+}

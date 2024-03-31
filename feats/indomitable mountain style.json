@@ -1,0 +1,17 @@
+{
+    "key": "indomitable mountain style",
+    "name": "Indomitable Mountain Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Indomitable%20Mountain%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Wilderness pg. 115"],
+    "description": "Like a rugged mountain, you are impassable and unmovable.",
+    "prerequisites": "Wis 13, Combat Reflexes, Improved Unarmed Strike, base attack bonus +4",
+    "benefit": "As long as you do not take a move action, you gain a +4 morale bonus to your CMD and to the DC of Bluff checks used for feint attempts against you. Additionally, you are considered to be one size category larger for the purpose of calculating your CMD when creatures attempt Acrobatics checks to move through spaces you threaten without provoking attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike"
+    ]
+}

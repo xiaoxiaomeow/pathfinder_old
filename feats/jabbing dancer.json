@@ -1,0 +1,18 @@
+{
+    "key": "jabbing dancer",
+    "name": "Jabbing Dancer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Jabbing%20Dancer",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 151"],
+    "description": "You’ve learned to bend and shift your body to avoid attacks and reposition yourself advantageously.",
+    "prerequisites": "Dodge, Improved Unarmed Strike, Jabbing Style, Mobility; base attack bonus +9, brawler level 5th, or monk level 5th",
+    "benefit": "Each time you hit with an unarmed strike while using Jabbing Style, you can move 5 feet without provoking an attack of opportunity as long as you move to a space adjacent to the opponent you hit with the unarmed strike. If you use this feat, you cannot take a 5-foot step during your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "After you use Jabbing Style<sup>ACG<\/sup> to move 5 feet without provoking attacks of opportunity, if you have at least 1 stamina point in your stamina pool, you can still take a 5-foot step on your next turn.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved unarmed strike",
+        "jabbing style",
+        "mobility"
+    ]
+}

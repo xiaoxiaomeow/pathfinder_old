@@ -1,0 +1,10 @@
+{
+    "key": "horde charge",
+    "name": "Horde Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horde%20Charge",
+    "descriptors": ["Teamwork"],
+    "source": ["Advanced Race Guide pg. 57"],
+    "description": "When you charge with an ally, you are more deadly.",
+    "prerequisites": "Base attack bonus +1, half-orc or orc",
+    "benefit": "When charging during the same round as an ally with this feat, you gain a +2 bonus on attack and damage rolls in addition to the normal bonus for charging. If you can make multiple attacks on a charge, this bonus only applies to the first attack."
+}

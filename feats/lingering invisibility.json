@@ -1,0 +1,9 @@
+{
+    "key": "lingering invisibility",
+    "name": "Lingering Invisibility",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lingering%20Invisibility",
+    "source": ["Advanced Race Guide pg. 187"],
+    "description": "You remain briefly translucent after losing <i>invisibility<\/i>.",
+    "prerequisites": "Duergar",
+    "benefit": "When your <i>invisibility <\/i>ends, you gain concealment for 1 round per minute of duration the invisibility effect had remaining (minimum 1 round). This only occurs if the invisibility is from your racial spell-like ability or a spell you cast. Effects that negate invisibility negate this concealment."
+}

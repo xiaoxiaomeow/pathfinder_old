@@ -1,0 +1,10 @@
+{
+    "key": "reap the infirm",
+    "name": "Reap the Infirm",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reap%20the%20Infirm",
+    "descriptors": ["Combat"],
+    "source": ["Villain Codex pg. 68"],
+    "description": "You can use a creature’s diseased state against it.",
+    "prerequisites": "Base attack bonus +3",
+    "benefit": "When you hit a diseased creature with a weapon attack, you deal an additional 1d6 points of damage. This is precision damage. Additionally, you gain a +2 bonus on combat maneuver checks against diseased creatures."
+}

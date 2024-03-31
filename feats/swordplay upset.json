@@ -1,0 +1,15 @@
+{
+    "key": "swordplay upset",
+    "name": "Swordplay Upset",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Swordplay%20Upset",
+    "descriptors": ["Combat"],
+    "source": ["Weapon Master's Handbook pg. 17"],
+    "description": "You catch opponents off guard with your attacks.",
+    "prerequisites": "Combat Expertise, Improved Feint, Swordplay Style, Weapon Focus with the chosen weapon, base attack bonus +5",
+    "benefit": "While using Swordplay Style, as an immediate action, you can attempt a feint against an opponent that makes a melee attack against you and misses.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved feint",
+        "swordplay style"
+    ]
+}

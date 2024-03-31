@@ -1,0 +1,10 @@
+{
+    "key": "concealment mastery",
+    "name": "Concealment Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Concealment%20Mastery",
+    "descriptors": ["Item Mastery"],
+    "source": ["Magic Tactics Toolbox pg. 30"],
+    "description": "You can use illusion magic items to conceal your presence, or possibly even your true nature.",
+    "prerequisites": "Stealth 3 ranks, Use Magic Device 3 ranks, base Fortitude saving throw bonus +3",
+    "benefit": "You can cause an item that has an illusion spell of 1st level or higher listed in its construction requirements to cast <i>vanish<sup>APG<\/sup><\/i>. If you have 7 ranks in both Stealth and Use Magic Device, you can instead cause an item that has an illusion spell of 2nd level or higher listed in its construction requirements to cast either <i>invisibility<\/i> or <i>undetectable alignment<\/i>. You can use this feat once per day, plus an additional time per day when your base Fortitude save bonus reaches +9 and +12."
+}

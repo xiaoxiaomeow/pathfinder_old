@@ -1,0 +1,22 @@
+{
+    "key": "deafening critical",
+    "name": "Deafening Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deafening%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 121"],
+    "description": "Your critical hits cause enemies to lose their hearing.",
+    "prerequisites": "Critical Focus, base attack bonus +13",
+    "benefit": "Whenever you score a critical hit against an opponent, the victim is permanently deafened. A successful Fortitude save reduces the deafness to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. This feat has no effect on deaf creatures. This deafness can be cured by <i>heal<\/i>, <i>regeneration<\/i>, <i>remove deafness<\/i>, or a similar ability.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "When you confirm a critical hit and attempt to deafen an opponent with this feat, you can spend up to 5 stamina points to increase the DC of this feat’s saving throw by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "致聋重击",
+    "description_zh": "你的重击令命中的敌人失去听力。",
+    "prerequisites_zh": "重击专攻，基本攻击加值+13。",
+    "benefit_zh": "每当你对一个敌人成功造成重击时，会令该生物永久失聪。成功通过强韧豁免可使耳聋效果减至1轮。强韧豁免的DC为“10+你的BAB”。此专长对已聋及无听觉的生物无效。耳聋可由‘医疗术’、‘再生术’、‘移除耳聋’法术或类似能力治愈。",
+    "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"
+}

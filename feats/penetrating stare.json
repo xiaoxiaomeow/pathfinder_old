@@ -1,0 +1,13 @@
+{
+    "key": "penetrating stare",
+    "name": "Penetrating Stare",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Penetrating%20Stare",
+    "descriptors":     [
+        "Combat",
+        "Stare"
+    ],
+    "source": ["Psychic Anthology pg. 17"],
+    "description": "Your stare penetrates right through your foe’s strongest mental defenses.",
+    "prerequisites": "Mesmerist level 7th, painful stare class feature",
+    "benefit": "When you trigger your painful stare, the damage dealt ignores 5 points of the target’s damage reduction, unless that damage reduction is untyped (for example, DR 10/—)."
+}

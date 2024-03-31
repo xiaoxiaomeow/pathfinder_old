@@ -1,0 +1,14 @@
+{
+    "key": "deadly grappler",
+    "name": "Deadly Grappler",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Grappler",
+    "descriptors": ["Combat"],
+    "source": ["Melee Tactics Toolbox pg. 14"],
+    "description": "While you’re grappled, you become even more dangerous.",
+    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike",
+    "benefit": "You have learned to leverage a grappling creature’s weight against it. While you’re grappled, attacks you make against the grappler using armor spikes, a light or one-handed weapon, a natural weapon, or an unarmed strike deal damage as if the strike or weapon were one size category larger than it actually is.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "key": "mantis wisdom",
+    "name": "Mantis Wisdom",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mantis%20Wisdom",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 108"],
+    "description": "Your knowledge of vital areas allows you to land debilitating strikes with precision.",
+    "prerequisites": "Improved Unarmed Strike, Mantis Style, Stunning Fist, Heal 6 ranks",
+    "benefit": "Treat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. You can also use a standard action and a successful melee touch attack to remove any Stunning Fist effect you have applied to a target.",
+    "staminaSource": ["Pathfinder Unchained pg. 126"],
+    "staminaText": "You can spend 2 stamina points and take a standard action to remove any Stunning Fist effect you have applied to a creature without making a touch attack. You can use this ability no matter where the affected creature is located.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "mantis style",
+        "stunning fist"
+    ]
+}

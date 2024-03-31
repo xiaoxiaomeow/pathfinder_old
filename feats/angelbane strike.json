@@ -1,0 +1,10 @@
+{
+    "key": "angelbane strike",
+    "name": "Angelbane Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Angelbane%20Strike",
+    "source": ["Monster Codex pg. 32"],
+    "description": "You channel the power of your Abyssal patron through your weapon to punish the righteous.",
+    "prerequisites": "Channel Smite, divine caster level 5th, channel negative energy class feature, demon lord patron deity",
+    "benefit": "When you use Channel Smite against a living creature with a good alignment, you treat all 1s on the channel smite damage dice as 2s.",
+    "prerequisiteKeys": ["channel smite"]
+}

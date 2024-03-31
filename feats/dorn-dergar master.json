@@ -1,0 +1,15 @@
+{
+    "key": "dorn-dergar master",
+    "name": "Dorn-Dergar Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dorn-Dergar%20Master",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Adventurer's Armory 2 pg. 11",
+        "Dwarves of Golarion pg. 21"
+    ],
+    "description": "You can use a dorn-dergar with only one hand.",
+    "prerequisites": "Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar",
+    "benefit": "You can use a dorn-dergar as a one-handed weapon. When using it one-handed, changing whether it’s a normal or reach weapon is a full-round action. If you have the Darting Viper feat, changing its reach is a move action.",
+    "normal": "A dorn-dergar requires two hands to wield.",
+    "prerequisiteKeys": ["two-weapon fighting"]
+}

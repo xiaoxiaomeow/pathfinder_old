@@ -1,0 +1,11 @@
+{
+    "key": "dispelling critical",
+    "name": "Dispelling Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispelling%20Critical",
+    "descriptors": ["Critical"],
+    "source": ["Ultimate Combat pg. 97"],
+    "description": "Your blows attack the physical and arcane forms of your enemies at the same time.",
+    "prerequisites": "Arcane Strike, base attack bonus +11, ability to cast <i>dispel magic<\/i>",
+    "benefit": "If you have <i>dispel magic <\/i>prepared or can cast it spontaneously, when you score a critical hit against an opponent, you may use a swift action to cast <i>dispel magic <\/i>to make a targeted dispel against that opponent.",
+    "prerequisiteKeys": ["arcane strike"]
+}

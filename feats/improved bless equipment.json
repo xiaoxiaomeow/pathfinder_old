@@ -1,0 +1,10 @@
+{
+    "key": "improved bless equipment",
+    "name": "Improved Bless Equipment",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Bless%20Equipment",
+    "source": ["Undead Slayer's Handbook pg. 7"],
+    "description": "You can channel even more energy into weapons and armor to grant them several divine powers at once.",
+    "prerequisites": "Bless Equipment, caster level 9th, channel energy class feature",
+    "benefit": "The number of uses of channeled energy you must expend to bless a piece of equipment using Bless Equipment and Align Equipment decreases by one (to a minimum of one use of channel energy per blessing).",
+    "prerequisiteKeys": ["bless equipment"]
+}

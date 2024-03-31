@@ -1,0 +1,17 @@
+{
+    "key": "grabbing style",
+    "name": "Grabbing Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Grabbing%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Advanced Class Guide pg. 148"],
+    "description": "You are adept at the one-handed grab.",
+    "prerequisites": "Improved Grapple; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature",
+    "benefit": "When you use this style, you do not take a –4 penalty on combat maneuver checks to grapple a foe with only one hand. Additionally, you do not lose your Dexterity bonus to AC while pinning an opponent.",
+    "normal": "Without two hands free, you take a –4 penalty on the combat maneuver roll to grapple a foe. While pinning a foe, you lose your Dexterity bonus to AC.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "When you make a grapple attempt with two hands while using this style, you can spend 1 stamina point to gain a +2 bonus on the grapple combat maneuver check.",
+    "prerequisiteKeys": ["improved grapple"]
+}

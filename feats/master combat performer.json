@@ -1,0 +1,13 @@
+{
+    "key": "master combat performer",
+    "name": "Master Combat Performer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20Combat%20Performer",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 109"],
+    "description": "You are a master of the techniques and weapons of the arena and the stage.",
+    "prerequisites": "Performing Combatant or at least three performance feats, base attack bonus +6",
+    "benefit": "You can make performance combat checks as a free action. You are proficient in all weapons with the performance special quality.",
+    "staminaSource": ["Pathfinder Unchained pg. 126"],
+    "staminaText": "When you attempt a performance combat check, you can spend up to 5 stamina points to gain a bonus on the check equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["performing combatant"]
+}

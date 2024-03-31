@@ -1,0 +1,14 @@
+{
+    "key": "ascetic strike",
+    "name": "Ascetic Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Weapon Master's Handbook pg. 16"],
+    "description": "Your weapon strikes deal more damage than usual.",
+    "prerequisites": "Ascetic Form; Ascetic Style; Weapon Focus with the chosen weapon; base attack bonus +7 or monk level 7th",
+    "benefit": "You can use the unarmed strike damage of a monk 4 levels lower than your character level (minimum 1st) instead of the base damage for the chosen weapon. Ascetic Strike functions in all other ways as the brawler’s close weapon mastery<sup>ACG<\/sup> class feature. In addition, you ignore the still mind class feature prerequisite for the Monastic Legacy<sup>UC<\/sup> feat.",
+    "prerequisiteKeys":     [
+        "ascetic form",
+        "ascetic style"
+    ]
+}

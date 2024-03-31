@@ -1,0 +1,10 @@
+{
+    "key": "polytheistic blessing",
+    "name": "Polytheistic Blessing",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Polytheistic%20Blessing",
+    "source": ["Tombs of Golarion pg. 63"],
+    "description": "You are granted a small bit of divine power as a result of your veneration of a pantheon of deities.",
+    "prerequisites": "Wis 13, must worship a pantheon",
+    "benefit": "When you take this feat, select a pantheon from the list below. You gain the listed spell-like ability for your selected pantheon, usable once per day. If the granted spell allows a saving throw, the DC is equal to 10 + 1/2 your character level + your Charisma modifier.",
+    "special": "If you act out of line with the tenets of your pantheon’s beliefs, you lose the ability to cast the granted spell-like ability until you have received an <i>atonement<\/i> for your transgression (as a cleric attempting to regain lost class abilities)."
+}

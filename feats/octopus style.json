@@ -1,0 +1,17 @@
+{
+    "key": "octopus style",
+    "name": "Octopus Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Octopus%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Martial Arts Handbook pg. 15"],
+    "description": "You anticipate the attacks of more than one enemy at once.",
+    "prerequisites": "Dex 13, Dodge, Improved Unarmed Strike, Acrobatics 1 rank, Perception 1 rank",
+    "benefit": "As a move action when using this style, you can select a number of creatures you are aware of equal to your Dexterity modifier. You can’t be flanked by the selected creatures until the start of your next turn.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved unarmed strike"
+    ]
+}

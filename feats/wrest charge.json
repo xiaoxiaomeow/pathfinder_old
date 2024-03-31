@@ -1,0 +1,9 @@
+{
+    "key": "wrest charge",
+    "name": "Wrest Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wrest%20Charge",
+    "source": ["Technology Guide pg. 7"],
+    "description": "You can extract a charge from otherwise depleted technology.",
+    "prerequisites": "Disable Device 5 ranks, Knowledge (engineering) 5 rank",
+    "benefit": "With a successful DC 20 Disable Device check, you can jury-rig a depleted (but not destroyed) battery so it provides 1 more charge. Using this charge or failing your check by 5 or more permanently depletes the battery."
+}

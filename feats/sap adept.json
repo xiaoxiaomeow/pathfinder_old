@@ -1,0 +1,12 @@
+{
+    "key": "sap adept",
+    "name": "Sap Adept",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sap%20Adept",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 116"],
+    "description": "You know just where to hit to knock the sense out of your foe.",
+    "prerequisites": "Sneak attack +1d6",
+    "benefit": "Whenever you use a bludgeoning weapon to deal nonlethal sneak attack damage, you gain a bonus on your damage roll equal to the number of sneak attack damage dice you rolled.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you use this feat, you can spend a number of stamina points equal to the number of sneak attack dice you roll to increase the amount of nonlethal damage dealt by double the number of stamina points you spent."
+}

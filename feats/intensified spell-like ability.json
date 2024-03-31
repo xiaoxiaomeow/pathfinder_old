@@ -1,0 +1,11 @@
+{
+    "key": "intensified spell-like ability",
+    "name": "Intensified Spell-Like Ability",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intensified%20Spell-Like%20Ability",
+    "descriptors": ["Monster"],
+    "source": ["Horror Adventures pg. 88"],
+    "description": "Your spell-like ability deals more damage.",
+    "prerequisites": "Spell-like ability at caster level 4th or higher",
+    "benefit": "Choose one of your spell-like abilities, subject to the restrictions described in this feat. You can use the chosen spell-like ability as an intensified spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).",
+    "special": "This feat can be taken multiple times. Each time it is taken, you can apply it to a different spell-like ability."
+}

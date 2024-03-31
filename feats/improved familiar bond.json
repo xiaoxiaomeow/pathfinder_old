@@ -1,0 +1,13 @@
+{
+    "key": "improved familiar bond",
+    "name": "Improved Familiar Bond",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Familiar%20Bond",
+    "source": ["Familiar Folio pg. 18"],
+    "description": "Your familiar gains greater power.",
+    "prerequisites": "Familiar Bond, Iron Will",
+    "benefit": "Your familiar gains all the normal abilities available to a familiar of a wizard with a level equal to your total Hit Dice. You also gain the special ability normally gained by a master of your type of familiar.",
+    "prerequisiteKeys":     [
+        "familiar bond",
+        "iron will"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "key": "improved bull rush",
+    "name": "Improved Bull Rush",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Bull%20Rush",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 126"],
+    "description": "You are skilled at pushing your foes around.",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +1",
+    "benefit": "You do not provoke an attack of opportunity when performing a bull rush combat maneuver. In addition, you receive a +2 bonus on checks made to bull rush a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to bull rush you.",
+    "normal": "You provoke an attack of opportunity when performing a bull rush combat maneuver.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When you are the target of a bull rush combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD increases by that number for that bull rush attempt.",
+    "mythicSource": ["Mythic Adventures pg. 66"],
+    "mythicDescription": "You push foes around with amazing ease.",
+    "mythicPrerequisites": "Improved Bull Rush",
+    "mythicBenefit": "You gain a bonus equal to half your tier on checks to bull rush, and to your CMD when an opponent bull rushes you. These bonuses stack with those granted by non-mythic Improved Bull Rush.",
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "精通冲撞",
+    "description_zh": "你熟知撞退对手的技巧。",
+    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+1",
+    "benefit_zh": "当你进行冲撞时，防御者无法对你发动藉机攻击。此外在冲撞检定中你获得+2加值。你在对抗冲撞的战技防御（CMD）上同样获得+2加值。"
+}

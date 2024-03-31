@@ -1,0 +1,22 @@
+{
+    "key": "far shot",
+    "name": "Far Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Far%20Shot",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 124"],
+    "description": "You are more accurate at longer ranges.",
+    "prerequisites": "Point-Blank Shot",
+    "benefit": "You only suffer a –1 penalty per full range increment between you and your target when using a ranged weapon.",
+    "normal": "You suffer a –2 penalty per full range increment between you and your target.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When making a single ranged attack as a standard action, you can spend 5 stamina points to ignore all range penalties on that attack.",
+    "mythicSource": ["Mythic Adventures pg. 65"],
+    "mythicDescription": "You make long-ranged attacks with remarkable accuracy.",
+    "mythicPrerequisites": "Far Shot",
+    "mythicBenefit": "As a swift action, you can expend one use of mythic power to ignore all range increment penalties for your ranged attacks until the end of your turn.",
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "远程射击",
+    "description_zh": "你长距离射击时比常人更准。",
+    "prerequisites_zh": "近距射击。",
+    "benefit_zh": "当你使用远程武器时，距离每增加一个射程增量你仅受到-1减值。"
+}

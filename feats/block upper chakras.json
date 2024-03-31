@@ -1,0 +1,13 @@
+{
+    "key": "block upper chakras",
+    "name": "Block Upper Chakras",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Block%20Upper%20Chakras",
+    "source": ["Martial Arts Handbook pg. 28"],
+    "description": "You can block additional chakras.",
+    "prerequisites": "Block Chakras, Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool, character level 8th",
+    "benefit": "When you use Block Chakras, you can also select from the heart, throat, brow, and crown chakras, as long as you can open the chosen chakra yourself, with the following effects.",
+    "prerequisiteKeys":     [
+        "block chakras",
+        "psychic sensitivity"
+    ]
+}

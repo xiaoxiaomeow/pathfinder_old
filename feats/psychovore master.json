@@ -1,0 +1,15 @@
+{
+    "key": "psychovore master",
+    "name": "Psychovore Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychovore%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder: Spiral of Bones #3 pg. 29"],
+    "description": "When your unarmed attacks strike true. you also damage your target's mind and gain power from it.",
+    "prerequisites": "Improved Unarmed Strike, Psychovore Strike, Psychovore Style, Sense Motives 15 ranks",
+    "benefit": "When you score a critical hit against the creature you are gaining a dodge bonus to AC against from Psychovore Style with your unarmed strike, that target also takes 1 point of Intelligence and Wisdom damage and you gain 2d8 temporary hit points. These temporary hit points last for 1 hour and don't stack with other temporary hit points you might gain with this feat.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "psychovore strike",
+        "psychovore style"
+    ]
+}

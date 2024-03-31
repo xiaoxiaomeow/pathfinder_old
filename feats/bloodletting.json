@@ -1,0 +1,15 @@
+{
+    "key": "bloodletting",
+    "name": "Bloodletting",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bloodletting",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Inner Sea Gods pg. 208",
+        "Faiths of Corruption pg. 25"
+    ],
+    "description": "When you attack with a piercing or slashing weapon, the wounds you cause bleed profusely.",
+    "prerequisites": "Worshiper of Zon-Kuthon",
+    "benefit": "Whenever you threaten a critical hit with a piercing or slashing weapon (regardless of whether you confirm the critical hit or not), you deal 1 point of bleed damage to the targeted creature.",
+    "staminaSource": ["Weapon Master's Handbook pg. 24"],
+    "staminaText": "When you confirm a critical hit with a piercing or slashing weapon, you can spend up to 2 stamina points to increase the bleed damage dealt by Bloodletting by 1 per stamina point spent."
+}

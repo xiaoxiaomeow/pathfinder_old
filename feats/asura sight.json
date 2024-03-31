@@ -1,0 +1,11 @@
+{
+    "key": "asura sight",
+    "name": "Asura Sight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Asura%20Sight",
+    "descriptors": ["Combat"],
+    "source": ["Plane-Hopper's Handbook pg. 8"],
+    "description": "Taking inspiration from the many faces of asuras, you have learned to split your focus to avoid being caught off guard.",
+    "prerequisites": "Asura Style, base attack bonus +9 or monk level 9th",
+    "benefit": "When using Asura Style, you gain improved uncanny dodge as a rogue of your character level.",
+    "prerequisiteKeys": ["asura style"]
+}

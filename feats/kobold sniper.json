@@ -1,0 +1,13 @@
+{
+    "key": "kobold sniper",
+    "name": "Kobold Sniper",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kobold%20Sniper",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 137"],
+    "description": "You snipe quickly, making it harder for others to find the location of your attack.",
+    "prerequisites": "Stealth 1 rank, kobold",
+    "benefit": "When you are sniping, you only take a –10 penalty on your Stealth checks to stay hidden.",
+    "normal": "You take a –20 penalty on your Stealth check to maintain your obscured location while sniping.",
+    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaText": "When you are sniping, you can spend 5 stamina points to decrease the penalty on Stealth checks to stay hidden to –5 until the start of your next turn."
+}

@@ -1,0 +1,13 @@
+{
+    "key": "pesh healing",
+    "name": "Pesh Healing",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pesh%20Healing",
+    "source":     [
+        "Black Markets pg. 18",
+        "Dark Markets - A Guide to Katapesh pg. 56"
+    ],
+    "description": "Consuming pesh makes you feel healthier.",
+    "prerequisites": "Sahir-Afiyun or pesh addict",
+    "benefit": "When you take a dose of pesh, in addition to its normal initial effect, you gain a number of temporary hit points equal to your total Hit Dice for 1 hour. Temporary hit points gained from additional doses of pesh do not stack.",
+    "prerequisiteKeys": ["sahir-afiyun"]
+}

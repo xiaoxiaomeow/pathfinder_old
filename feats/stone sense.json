@@ -1,0 +1,10 @@
+{
+    "key": "stone sense",
+    "name": "Stone Sense",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stone%20Sense",
+    "source": ["Advanced Player's Guide pg. 170"],
+    "description": "You can feel movement in the very earth and stones around you.",
+    "prerequisites": "Improved Stonecunning, Perception 10 ranks",
+    "benefit": "You gain tremorsense to a range of 10 feet.",
+    "prerequisiteKeys": ["improved stonecunning"]
+}

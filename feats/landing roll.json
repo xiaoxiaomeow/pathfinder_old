@@ -1,0 +1,16 @@
+{
+    "key": "landing roll",
+    "name": "Landing Roll",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Landing%20Roll",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 107"],
+    "description": "You have learned the technique of rolling safely away when an enemy trips you.",
+    "prerequisites": "Dex 13, Dodge, Mobility",
+    "benefit": "If you are tripped, you can spend an immediate action to move 5 feet without provoking an attack of opportunity. This does not count as taking a 5-foot step. You fall prone after this movement.",
+    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaText": "When using this feat, you can spend 5 stamina points to stand up as part of your immediate action after you move. Standing up provokes attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

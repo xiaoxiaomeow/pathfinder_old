@@ -1,0 +1,14 @@
+{
+    "key": "improved blind-fight",
+    "name": "Improved Blind-Fight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Blind-Fight",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 162"],
+    "description": "Your keen senses guide your hand against hidden foes.",
+    "prerequisites": "Perception 10 ranks, Blind-Fight",
+    "benefit": "Your melee attacks ignore the miss chance for less than total concealment. You may still reroll your miss chance percentile roll for total concealment.",
+    "special": "The Improved Blind-Fight feat is of no use against a character who is the subject of a <i>blink <\/i>spell.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When attacking a foe with total concealment, you can spend 5 stamina points to treat that foe as having normal concealment (20% miss chance instead of 50%).",
+    "prerequisiteKeys": ["blind-fight"]
+}

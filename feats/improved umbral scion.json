@@ -1,0 +1,15 @@
+{
+    "key": "improved umbral scion",
+    "name": "Improved Umbral Scion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Umbral%20Scion",
+    "source": ["Advanced Race Guide pg. 105"],
+    "description": "You are a master of drow noble magic.",
+    "prerequisites": "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow",
+    "benefit": "You may use <i>dispel magic<\/i>, <i>divine favor<\/i>, and <i>suggestion <\/i>once per day as spell-like abilities. Your caster level is equal to your character level.",
+    "prerequisiteKeys":     [
+        "drow nobility",
+        "greater drow nobility",
+        "improved drow nobility",
+        "umbral scion"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "blundering defense",
+    "name": "Blundering Defense",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blundering%20Defense",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 66"],
+    "description": "Your feverish and sometimes comical defensive techniques offer enough distraction to aid allies.",
+    "prerequisites": "Cautious Fighter, halfling",
+    "benefit": "Whenever you fight defensively or use the total defense action, allies gain a luck bonus to AC and CMD equal to 1/2 the dodge bonus you gain from the action you are taking. Allies only gain this bonus while they are adjacent to you.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "You can spend 5 stamina points to cause allies within 10 feet who are also in your melee reach to gain the benefits of this feat.",
+    "prerequisiteKeys": ["cautious fighter"]
+}

@@ -1,0 +1,18 @@
+{
+    "key": "linnorm hunter retreat",
+    "name": "Linnorm Hunter Retreat",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Linnorm%20Hunter%20Retreat",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Martial Arts Handbook pg. 14"],
+    "description": "You and your animal companion have learned to cover each other in combat.",
+    "prerequisites": "Cha 13, Dex 13, Dodge, Linnorm Hunter Style, base attack bonus +4, must have or be an animal companion",
+    "benefit": "When an ally with this feat uses Linnorm Hunter Style and hits a target with a melee attack, you can move 5 feet as an immediate action without provoking an attack of opportunity from that target.",
+    "special": "Animal companions with an Intelligence score of 1 or 2 can take this feat.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "linnorm hunter style"
+    ]
+}

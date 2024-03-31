@@ -1,0 +1,14 @@
+{
+    "key": "deepsight",
+    "name": "Deepsight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deepsight",
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "Your senses are especially keen in the utter darkness.",
+    "prerequisites": "Darkvision 60 feet",
+    "benefit": "Your darkvision has a range of 120 feet.",
+    "normal": "Darkvision normally extends 60 or 90 feet.",
+    "mythicSource": ["Mythic Adventures pg. 62"],
+    "mythicDescription": "Your sharp eyes can penetrate deeper into the darkness, revealing more to you. ",
+    "mythicPrerequisites": "Deepsight",
+    "mythicBenefit": "The range of your darkvision increases by 10 feet per tier."
+}

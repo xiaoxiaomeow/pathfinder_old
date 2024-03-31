@@ -1,0 +1,14 @@
+{
+    "key": "serpent lash",
+    "name": "Serpent Lash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Serpent%20Lash",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Rival Guide pg. 23",
+        "Osirion, Land of the Pharaohs pg. 29"
+    ],
+    "description": "You are adept at vexing multiple foes with your whip.",
+    "prerequisites": "Weapon Finesse, proficient in whip",
+    "benefit": "As a standard action, you can make a disarm or trip maneuver with your whip. If it succeeds, you can make an additional disarm or trip maneuver with the same bonus against a target adjacent to the first and also within your whip’s reach.",
+    "prerequisiteKeys": ["weapon finesse"]
+}

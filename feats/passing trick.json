@@ -1,0 +1,19 @@
+{
+    "key": "passing trick",
+    "name": "Passing Trick",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Passing%20Trick",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "Slipping past a foe gives you the chance to feint.",
+    "prerequisites": "Int 13, Combat Expertise, Dodge, Improved Feint, Mobility, size Small or smaller",
+    "benefit": "Whenever you make a successful Acrobatics check to move through an opponent’s space, you can spend a swift action to make a Bluff check against that opponent to feint in combat.",
+    "special": "If you have the Underfoot feat and the opponent is larger than you, you gain a +2 bonus on the Bluff check this feat allows.",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "You can spend 5 stamina points to attempt a Bluff check as a free action instead of a swift action when using this feat.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "dodge",
+        "improved feint",
+        "mobility"
+    ]
+}

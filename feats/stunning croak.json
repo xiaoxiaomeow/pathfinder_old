@@ -1,0 +1,13 @@
+{
+    "key": "stunning croak",
+    "name": "Stunning Croak",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Croak",
+    "source": ["Monster Codex pg. 9"],
+    "description": "The terrifying force of your croak disorients and debilitates your enemies.",
+    "prerequisites": "Sonic Croak, Throat Pouch, boggard, terrifying croak",
+    "benefit": "When you use your terrifying croak ability, instead of imparting its normal effect you can choose to stun one creature within 30 feet for 1 round. If the target succeeds at a Fortitude save, it is instead staggered for 1 round. The DC of this Fortitude save is the same as that of your terrifying croak ability.",
+    "prerequisiteKeys":     [
+        "sonic croak",
+        "throat pouch"
+    ]
+}

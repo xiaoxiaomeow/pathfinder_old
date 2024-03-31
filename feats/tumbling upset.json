@@ -1,0 +1,15 @@
+{
+    "key": "tumbling upset",
+    "name": "Tumbling Upset",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tumbling%20Upset",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 25"],
+    "description": "You nimbly dodge beneath your opponent, creating an opportunity to upend your foe.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Trip, Acrobatics 7 ranks",
+    "benefit": "When you succeed at an Acrobatics check to move through an enemy’s space, you can spend a swift action to attempt a trip combat maneuver check against the opponent. Even if you fail this check by 10 or more, you do not fall prone.",
+    "normal": "If you fail a trip combat maneuver check by 10 or more, you are knocked prone.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip"
+    ]
+}

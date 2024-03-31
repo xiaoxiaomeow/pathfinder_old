@@ -1,0 +1,11 @@
+{
+    "key": "noble spell resistance",
+    "name": "Noble Spell Resistance",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Noble%20Spell%20Resistance",
+    "source": ["Advanced Race Guide pg. 105"],
+    "description": "Your ascension is complete; you have the spell resistance approaching that of a demon.",
+    "prerequisites": "Cha 13, Wis 13, Greater Drow Nobility, character level 13th, drow",
+    "benefit": "Your spell resistance is equal to 11 + your character level.",
+    "special": "You receive a +1 circumstance bonus on Diplomacy and Intimidate checks made against any drow.",
+    "prerequisiteKeys": ["greater drow nobility"]
+}

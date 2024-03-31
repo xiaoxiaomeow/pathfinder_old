@@ -1,0 +1,14 @@
+{
+    "key": "kobold style",
+    "name": "Kobold Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kobold%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Kobolds of Golarion pg. 25"],
+    "description": "You’re able to manipulate foes that are caught off guard.",
+    "prerequisites": "Combat Expertise, Small size or smaller",
+    "benefit": "You gain a +4 bonus on combat maneuver checks against enemies denied their Dexterity bonus to AC.",
+    "prerequisiteKeys": ["combat expertise"]
+}

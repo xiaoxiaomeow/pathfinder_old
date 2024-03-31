@@ -1,0 +1,15 @@
+{
+    "key": "throw back arrows",
+    "name": "Throw Back Arrows",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Throw%20Back%20Arrows",
+    "descriptors": ["Combat"],
+    "source": ["Ranged Tactics Toolbox pg. 9"],
+    "description": "When you catch arrows and other ranged ammunition, you can immediately hurl them at your enemies.",
+    "prerequisites": "Dex 17, Deflect Arrows, Improved Unarmed Strike, Snatch Arrows",
+    "benefit": "When using the Snatch Arrows feat, you can throw a caught piece of ranged ammunition (such as an arrow, bolt, or sling bullet, but not a firearm bullet) as though it were a thrown weapon with a range increment of 20 feet (even though it isn’t your turn). The thrown ammunition deals the normal amount of damage for its type plus your Strength modifier, and you don’t take a penalty for throwing a weapon that isn’t designed to be thrown. This attack provokes attacks of opportunity as normal.",
+    "prerequisiteKeys":     [
+        "deflect arrows",
+        "improved unarmed strike",
+        "snatch arrows"
+    ]
+}

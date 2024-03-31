@@ -1,0 +1,16 @@
+{
+    "key": "goblin cleaver",
+    "name": "Goblin Cleaver",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Goblin%20Cleaver",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 18"],
+    "description": " You are ferocious at hewing smaller opponents. ",
+    "prerequisites": "Str 13, Cleave, Power Attack, dwarf",
+    "benefit": "When using Cleave or Great Cleave, if your initial attack hits, you may take your additional attacks against any creature smaller than you that you threaten; your targets need not be adjacent to one another. Additional attacks you make against humanoids (goblinoid) gain a +2 circumstance bonus on attack rolls.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, the bonus on Cleave attacks made against goblinoids increases to +4.",
+    "prerequisiteKeys":     [
+        "cleave",
+        "power attack"
+    ]
+}

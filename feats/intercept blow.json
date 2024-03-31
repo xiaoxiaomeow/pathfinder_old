@@ -1,0 +1,10 @@
+{
+    "key": "intercept blow",
+    "name": "Intercept Blow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intercept%20Blow",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 219"],
+    "description": "The animal willingly throws itself in harm’s way to defend its master.",
+    "prerequisites": "Base attack bonus +1, animal companion",
+    "benefit": "Whenever the animal companion is adjacent to its master and its master is the target of a melee attack, the animal companion can expend an attack of opportunity as a free action, even if it isn’t its turn, to attempt to intercept the attack. The animal companion makes an attack roll at its highest attack bonus with one of its natural attacks, as if it were making an attack of opportunity, with a –2 penalty for each size category the attacking creature is larger than the animal companion. If the result of this attack roll is greater than the attacking creature’s attack roll result, the animal companion’s master takes only half damage from the attack, and the other half of the damage is dealt to the animal companion. Effects that trigger on every successful hit (such as bleed or the trip special ability) affect both the animal companion and the master, as if both were hit by the attack; however, if it matters (such as for a touch spell that expires after a single hit), treat the animal companion as if it had been hit first."
+}

@@ -1,0 +1,13 @@
+{
+    "key": "blooded arcane strike",
+    "name": "Blooded Arcane Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blooded%20Arcane%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 143"],
+    "description": "Arcane energy guides your devastating attack.",
+    "prerequisites": "Arcane Strike, ability to cast arcane spells, bloodrage class feature",
+    "benefit": "While you are bloodraging, you don’t need to spend a swift action to use your Arcane Strike—it is always in effect. When you use this ability with Vital Strike, Improved Vital Strike, or Greater Vital Strike, the bonus on damage rolls for Arcane Strike is multiplied by the number of times (two, three, or four) you roll damage dice for one of those feats.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When you imbue your weapon with Arcane Strike, you can spend 5 stamina points to increase its damage by 1 for the duration of the Arcane Strike effect.",
+    "prerequisiteKeys": ["arcane strike"]
+}

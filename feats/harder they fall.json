@@ -1,0 +1,20 @@
+{
+    "key": "harder they fall",
+    "name": "Harder They Fall",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Harder%20They%20Fall",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source":     [
+        "Ultimate Wilderness pg. 113",
+        "Giant Hunter's Handbook pg. 19"
+    ],
+    "description": "You can work with an ally to move or knock over a foe that’s too large for either of you to overcome alone.",
+    "prerequisites": "Str 13, Int 13, Combat Expertise, Power Attack",
+    "benefit": "When you use the aid another action to grant an ally who also has this feat a +2 bonus on a bull rush or trip combat maneuver check, the ally can attempt that maneuver even against foes two or more size categories larger than herself.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "power attack"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "key": "bull rush strike",
+    "name": "Bull Rush Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bull%20Rush%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 151"],
+    "description": "Your critical hits can push back your foes.",
+    "prerequisites": "Str 13, Improved Bull Rush, Power Attack, base attack bonus +9",
+    "benefit": "Whenever you score a critical hit with a melee attack, you can push your opponent back, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may push your opponent back as if from the bull rush combat maneuver. You do not need to move with the target if successful. This does not provoke an attack of opportunity.",
+    "normal": "You must perform a bull rush combat maneuver to bull rush an opponent.",
+    "special": "You can only apply the effects of one of the following feats to a given critical hit",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to bull rush the target anyway. If you do, reroll the confirmation roll to determine if the bull rush attempt exceeds the opponent’s CMD. This reroll is only for the bull rush combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "power attack"
+    ]
+}

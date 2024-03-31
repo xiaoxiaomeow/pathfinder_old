@@ -1,0 +1,9 @@
+{
+    "key": "multiweapon defense",
+    "name": "Multiweapon Defense",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Multiweapon%20Defense",
+    "source": ["Demons Revisited pg. 38"],
+    "description": "You sacrifice attacks to parry blows.",
+    "prerequisites": "Three or more arms, Dex 2",
+    "benefit": "When you make a full-attack action, you may choose not to take an attack with a number of your wielded weapons other than your primary weapon. For each attack you forgo, you gain a +1 shield bonus to your AC for that round. This bonus stacks with itself to a maximum bonus of +5, but not with shield bonuses to AC from other sources."
+}

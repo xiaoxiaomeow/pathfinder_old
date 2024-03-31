@@ -1,0 +1,11 @@
+{
+    "key": "spectrum sight",
+    "name": "Spectrum Sight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spectrum%20Sight",
+    "source": ["Occult Origins pg. 25"],
+    "description": "Your pursuit of dispassionate perfection gives you unmatched insight into the condition of others.",
+    "prerequisites": "Alertness, Perception 5 ranks",
+    "benefit": "You can perform the read aura occult skill unlock<sup>OA<\/sup> even if you can’t use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity<sup>OA<\/sup> feat, you can use read aura one additional time per day.",
+    "special": "If you have a ki pool, you can expend 1 point from your ki pool as a swift action to gain one additional daily use of the read aura occult skill unlock.",
+    "prerequisiteKeys": ["alertness"]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "horse master",
+    "name": "Horse Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horse%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 104"],
+    "description": "You blend horsemanship skills from disparate traditions into a seamless mounted combat technique.",
+    "prerequisites": "Expert trainer class feature (<i>Advanced Player's Guide <\/i>33), Ride 6 ranks",
+    "benefit": "Use your character level to determine your effective druid level for determining the powers and abilities of your mount.",
+    "normal": "You use your cavalier level to determine your effective druid level for determining the powers and abilities of your mount.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "You can spend 5 stamina points to grant your mount a number of temporary hit points equal to your character level. These temporary hit points last for 1 minute."
+}

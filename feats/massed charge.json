@@ -1,0 +1,12 @@
+{
+    "key": "massed charge",
+    "name": "Massed Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Massed%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder Campaign Setting pg. 90"],
+    "description": "You are trained in the legendary methods of Lastwall’s heavy cavalry and can steer your mount with great accuracy, even in tight confines.",
+    "prerequisites": "Mounted Combat, Handle Animal 4 ranks, Ride 9 ranks, Lastwall affinity",
+    "benefit": "When mounted on a horse, you and your mount suffer no penalties for squeezing when you share a 10-foot space with another mount and rider with this feat. In addition, you and your mount gain a +2 bonus on opposed bull rush, overrun, and trip checks.",
+    "normal": "Horses and other Large mounts occupy a 10 foot square area. For two horses to share that space requires them to squeeze, halving their movement rate and imposing a –4 penalty on attack rolls and to AC.",
+    "prerequisiteKeys": ["mounted combat"]
+}

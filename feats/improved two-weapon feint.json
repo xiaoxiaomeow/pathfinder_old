@@ -1,0 +1,18 @@
+{
+    "key": "improved two-weapon feint",
+    "name": "Improved Two-Weapon Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Two-Weapon%20Feint",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 106"],
+    "description": "Your primary weapon keeps a foe off balance, allowing you to slip your off-hand weapon past his defenses.",
+    "prerequisites": "Dex 17, Int 13, Combat Expertise, Improved Two-Weapon Fighting, Two-Weapon Feint, Two-Weapon Fighting, base attack bonus +6",
+    "benefit": "While using Two-Weapon Fighting to make melee attacks, you can forgo your first primary-hand melee attack to make a Bluff check to feint an opponent. If you successfully feint, that opponent is denied his Dexterity bonus to AC until the end of your turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to increase the duration for which the opponent is denied its Dexterity bonus until the start of your next turn.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved two-weapon fighting",
+        "two-weapon feint",
+        "two-weapon fighting"
+    ]
+}

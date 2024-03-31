@@ -1,0 +1,16 @@
+{
+    "key": "savage surge",
+    "name": "Savage Surge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Savage%20Surge",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["Inner Sea Combat pg. 12"],
+    "description": "You can channel your rage into crowd-pleasing displays of brutality that aid you in the arena.",
+    "prerequisites": "Intimidating Prowess, rage class feature",
+    "benefit": "When attempting a performance combat check while raging, you may, as a free action, expend a number of your daily rounds of rage up to half your barbarian level to create a display of savagery. You gain a bonus on the performance combat check equal to half the number of rounds expended, rounded down. If you expend all your remaining rounds of rage in this manner, thus ending your rage, you gain an additional +2 bonus on the check.",
+    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaText": "You can spend stamina points instead of rounds of rage when using Savage Surge.",
+    "prerequisiteKeys": ["intimidating prowess"]
+}

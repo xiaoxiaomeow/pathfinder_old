@@ -1,0 +1,12 @@
+{
+    "key": "fire hand",
+    "name": "Fire Hand",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fire%20Hand",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 118"],
+    "description": "Born with a torch in your hand, you have a gift with anything that burns.",
+    "prerequisites": "Goblin",
+    "benefit": "You can wield a torch as a weapon without taking the nonproficient penalty and gain a +1 bonus on attack rolls with melee weapons that deal fire damage.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When you hit with a torch attack, you can spend 1 stamina point. If you do, the fire damage dealt with that attack increases to 1d6 points of fire damage."
+}

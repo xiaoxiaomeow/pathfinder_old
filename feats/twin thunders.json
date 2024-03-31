@@ -1,0 +1,13 @@
+{
+    "key": "twin thunders",
+    "name": "Twin Thunders",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 123"],
+    "description": "When you fight giants, your powerful blows combine with skills learned from generations of your people to quickly even the odds.",
+    "prerequisites": "Dwarf or gnome, defensive training racial trait, Two-Weapon Fighting or flurry of blows class feature, Weapon Focus with both wielded weapons",
+    "benefit": "Once per round, when wielding a bludgeoning weapon in each hand against a creature with the giant subtype, if you hit the creature with your off-hand weapon after you hit with your primary weapon, roll the damage dice for your off-hand weapon twice and add the results together before adding any bonuses. Such extra weapon damage dice are not multiplied on a critical hit.",
+    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaText": "You can spend 2 stamina points to gain the benef its of this feat against a creature at least one size category larger than you that does not have the giant subtype. You gain this benef it until the start of your next turn.",
+    "prerequisiteKeys": ["two-weapon fighting"]
+}

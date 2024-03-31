@@ -1,0 +1,18 @@
+{
+    "key": "greater weapon specialization",
+    "name": "Greater Weapon Specialization",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Weapon%20Specialization",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 126"],
+    "description": "Choose one type of weapon (including unarmed strike or grapple) for which you possess the Weapon Specialization feat. Your attacks with the chosen weapon are more devastating than normal.",
+    "prerequisites": "Proficiency with selected weapon, Greater Weapon Focus with selected weapon, Weapon Focus with selected weapon, Weapon Specialization with selected weapon, 12th-level fighter",
+    "benefit": "You gain a +2 bonus on all damage rolls you make using the selected weapon. This bonus to damage stacks with other damage roll bonuses, including any you gain from Weapon Specialization.",
+    "special": "You can gain Greater Weapon Specialization multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "Once per round, you can spend 2 stamina points to gain your Greater Weapon Specialization bonus on damage rolls with another weapon. This bonus lasts until the start of your next turn.",
+    "name_zh": "高等武器专精",
+    "description_zh": "从已有“武器专精”的武器中选择一个，也可以选徒手击打或擒抱，使用此种武器将可造成更多伤害。",
+    "prerequisites_zh": "对应武器的擅长武器、武器专攻、高等专攻、武器专精，战士等级12。",
+    "benefit_zh": "使用特定武器时伤害+2，且可与其他伤害加值累加，包括“武器专精”的加值。",
+    "special_zh": "你可以多次选择本专长，但并非累加效果；每次选择本专长时需选择一个新的武器类型。"
+}

@@ -1,0 +1,14 @@
+{
+    "key": "witchbreaker",
+    "name": "Witchbreaker",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Witchbreaker",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Ultimate Wilderness pg. 120",
+        "People of the North pg. 24"
+    ],
+    "description": "You are trained to be resilient to and disrupt the magic of hags and witches.",
+    "prerequisites": "Iron Will",
+    "benefit": "You gain a +2 bonus on saving throws against the hexes, spells, spell-like abilities, and supernatural abilities of hags and witches. In addition, whenever you confirm a critical hit against a hag or a witch, any of your allies affected by a mind-affecting effect from that creature can attempt a new saving throw against the effect as an immediate action.",
+    "prerequisiteKeys": ["iron will"]
+}

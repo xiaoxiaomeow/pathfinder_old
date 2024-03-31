@@ -1,0 +1,12 @@
+{
+    "key": "improved called shot",
+    "name": "Improved Called Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Called%20Shot",
+    "descriptors": ["Called Shot"],
+    "source": ["Ultimate Combat pg. 195"],
+    "description": "You are skilled at landing blows right where you want to.",
+    "prerequisites": "Int 13, Combat Expertise",
+    "benefit": "You receive a +2 bonus on attack rolls when making a called shot. When taking a full-round or standard action that gives you multiple attacks, you can replace a single attack with a called shot. You may only attempt one called shot per round.",
+    "normal": "You can make one called shot per round as a full-round action.",
+    "prerequisiteKeys": ["combat expertise"]
+}

@@ -1,0 +1,9 @@
+{
+    "key": "sure-handed alchemy",
+    "name": "Sure-Handed Alchemy",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sure-Handed%20Alchemy",
+    "source": ["Alchemy Manual pg. 5"],
+    "description": "Your steady hand increases your chances of success with spontaneous alchemy and reduces your number of mishaps.",
+    "prerequisites": "Craft (alchemy) 3 ranks",
+    "benefit": "When attempting Craft (alchemy) checks to create items using spontaneous alchemy, you gain a cumulative +1 circumstance bonus for each distinct reagent called for by the recipe. A failed Craft (alchemy) check results in a mishap only on a natural 1. Finally, you take no penalties on Craft (alchemy) checks when using improvised equipment to create items using spontaneous alchemy."
+}

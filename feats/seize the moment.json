@@ -1,0 +1,19 @@
+{
+    "key": "seize the moment",
+    "name": "Seize the Moment",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Seize%20the%20Moment",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 118"],
+    "description": "You and your allies are poised to pounce whenever one of you scores a telling blow. ",
+    "prerequisites": "Combat Reflexes, Improved Critical",
+    "benefit": "When an ally who also has this feat confirms a critical hit against an opponent that you also threaten, you can make an attack of opportunity against that opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "When an ally with this feat threatens a critical hit but fails to confirm it, you can spend 5 stamina points to make your attack of opportunity anyway.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved critical"
+    ]
+}

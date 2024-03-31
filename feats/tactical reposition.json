@@ -1,0 +1,15 @@
+{
+    "key": "tactical reposition",
+    "name": "Tactical Reposition",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tactical%20Reposition",
+    "descriptors": ["Combat"],
+    "source": ["Dungeoneer's Handbook pg. 8"],
+    "description": "You excel at moving foes right where you want them.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Reposition",
+    "benefit": "When making a reposition combat maneuver (<i>Pathfinder RPG Advanced Player’s Guide <\/i>322), you can move an enemy into a trap or other hazardous area, such as a pit, wall scythe, or <i>blade barrier<\/i>. When you do so, the moved enemy is treated as though it had activated the trap or triggered the hazard, and it takes a –2 penalty to AC and on saving throws to mitigate the trap or hazard’s effects.",
+    "normal": "You cannot reposition a foe into an intrinsically dangerous space such as a pit or <i>blade barrier<\/i>.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved reposition"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "superior gathlain magic",
+    "name": "Superior Gathlain Magic",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Superior%20Gathlain%20Magic",
+    "source": ["Ultimate Wilderness pg. 13"],
+    "description": "Your experience has enabled you to dramatically develop your innate magical abilities.",
+    "prerequisites": "Cha 17, Advanced Gathlain Magic, Greater Gathlain Magic, character level 15th, gathlain",
+    "benefit": "You gain the following spells as spell-like abilities, each usable 1/day: <i>liveoak<\/i>, <i>tree stride<\/i>.",
+    "prerequisiteKeys":     [
+        "advanced gathlain magic",
+        "greater gathlain magic"
+    ]
+}

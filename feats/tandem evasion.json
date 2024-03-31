@@ -1,0 +1,16 @@
+{
+    "key": "tandem evasion",
+    "name": "Tandem Evasion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tandem%20Evasion",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Dragonslayer's Handbook pg. 21"],
+    "description": "You and your allies help each other evade deadly attacks.",
+    "prerequisites": "Dex 13, Dodge",
+    "benefit": "When adjacent to an ally who also has this feat, you gain evasion against a dragon’s breath weapon and tail sweep special attacks. If you already have evasion, you gain improved evasion instead.",
+    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaText": "You can spend 5 stamina points to benefit from this feat even if there are no adjacent allies who also have this feat. However, if you fail your save, you are knocked prone. (<I>Dragonslayer’s Handbook 21<\/i>)",
+    "prerequisiteKeys": ["dodge"]
+}

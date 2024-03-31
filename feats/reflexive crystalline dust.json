@@ -1,0 +1,10 @@
+{
+    "key": "reflexive crystalline dust",
+    "name": "Reflexive Crystalline Dust",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reflexive%20Crystalline%20Dust",
+    "source": ["Plane-Hopper's Handbook pg. 15"],
+    "description": "Vigilance has taught you to manifest your crystalline dust the instant you sense danger.",
+    "prerequisites": "Swift Crystalline Dust, aphorite, crystalline dust racial trait",
+    "benefit": "You can activate your crystalline dust ability as an immediate action when you are targeted by an attack.",
+    "prerequisiteKeys": ["swift crystalline dust"]
+}

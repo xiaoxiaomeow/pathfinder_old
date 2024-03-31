@@ -1,0 +1,22 @@
+{
+    "key": "tiring critical",
+    "name": "Tiring Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tiring%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 135"],
+    "description": "Your critical hits cause opponents to become fatigued.",
+    "prerequisites": "Critical Focus, base attack bonus +13",
+    "benefit": "Whenever you score a critical hit, your opponent becomes fatigued. This feat has no additional effect on a fatigued or exhausted creature.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaText": "When you threaten a critical hit against a fatigued foe, you can spend 5 stamina points before attempting the confirmation roll. If you confirm the critical hit, the foe becomes exhausted.",
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "疲乏重击",
+    "description_zh": "你的重击令对手疲乏。",
+    "prerequisites_zh": "重击专攻，基本攻击加值+13。",
+    "benefit_zh": "每当你对一个敌人成功造成重击时，会令该生物陷入疲乏状态。此专长对已陷入疲乏或力竭的生物无效。",
+    "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"
+}

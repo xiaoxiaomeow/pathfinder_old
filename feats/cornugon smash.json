@@ -1,0 +1,11 @@
+{
+    "key": "cornugon smash",
+    "name": "Cornugon Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cornugon%20Smash",
+    "descriptors": ["Combat"],
+    "source": ["Cheliax, Empire of Devils pg. 26"],
+    "description": "Your terrible attacks strike fear into your enemies.",
+    "prerequisites": "Power Attack, Intimidate 6 ranks",
+    "benefit": "When you damage an opponent with a Power Attack, you may make an immediate Intimidate check as a free action to attempt to demoralize your opponent.",
+    "prerequisiteKeys": ["power attack"]
+}

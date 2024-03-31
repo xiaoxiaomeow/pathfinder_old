@@ -1,0 +1,14 @@
+{
+    "key": "special delivery",
+    "name": "Special Delivery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Special%20Delivery",
+    "descriptors": ["Teamwork"],
+    "source": ["Distant Shores pg. 63"],
+    "description": "Your partner can carry your spells to their targets.",
+    "prerequisites": "Bonded Mind, Share Spells, ability to deliver spells through an animal companion, eidolon, familiar, or phantom, caster level 3rd",
+    "benefit": "Whenever you are in contact with an ally who has the Bonded Mind feat and you cast a touch spell, you can designate the ally as the “toucher,” as per the deliver touch spells familiar ability.",
+    "prerequisiteKeys":     [
+        "bonded mind",
+        "share spells"
+    ]
+}

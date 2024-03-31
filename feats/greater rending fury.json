@@ -1,0 +1,16 @@
+{
+    "key": "greater rending fury",
+    "name": "Greater Rending Fury",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Rending%20Fury",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 103"],
+    "description": "When your claws latch on to an opponent, the effect is bloody and horrific.",
+    "prerequisites": "Improved Rending Fury, Rending Fury, base attack bonus +12, rend special attack",
+    "benefit": "Whenever you rend an opponent, you deal 1d6 bleed damage to that opponent. This is an addition to the effects of the rend.",
+    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaText": "When you rend an opponent, you can spend 2 stamina points to deal 1d6+2 points of bleed damage to your opponent instead of 1d6 points of bleed damage.",
+    "prerequisiteKeys":     [
+        "improved rending fury",
+        "rending fury"
+    ]
+}

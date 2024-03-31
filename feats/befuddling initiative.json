@@ -1,0 +1,11 @@
+{
+    "key": "befuddling initiative",
+    "name": "Befuddling Initiative",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Befuddling%20Initiative",
+    "descriptors": ["Combat"],
+    "source": ["Dirty Tactics Toolbox pg. 13"],
+    "description": "Your quick reflexes leave your surprised opponents particularly disoriented.",
+    "prerequisites": "Improved Initiative",
+    "benefit": "You treat each opponent that begins a surprise round flat-footed as being flat-footed until its action in the first full round of combat, even if it acts on the surprise round.",
+    "prerequisiteKeys": ["improved initiative"]
+}

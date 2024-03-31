@@ -1,0 +1,13 @@
+{
+    "key": "fighting frenzy",
+    "name": "Fighting Frenzy",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fighting%20Frenzy",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Advanced Class Origins pg. 27"],
+    "description": "You feed off the rage of your allies.",
+    "prerequisites": "Cha 13, rage class feature",
+    "benefit": "When you are in a rage and an ally with this feat within 60 feet is in a rage, you don’t take the normal –2 penalty to AC for being in a rage. If you would take a larger penalty to AC for being in a rage, reduce that penalty by 2."
+}

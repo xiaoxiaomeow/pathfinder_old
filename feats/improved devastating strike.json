@@ -1,0 +1,16 @@
+{
+    "key": "improved devastating strike",
+    "name": "Improved Devastating Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Devastating%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 105"],
+    "description": "The fury and power channeled through your attack is enough to kill a lesser being outright.",
+    "prerequisites": "Devastating Strike, Vital Strike, base attack bonus +13",
+    "benefit": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a bonus on attack rolls to confirm a critical hit equal to the bonus on damage rolls you gain from Devastating Strike.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "Whenever you use the Devastating Strike combat trick, increase the bonus damage to +6 on each of the extra sets of weapon damage dice. For weapons with more than one damage die, count all the weapon’s base damage dice together as one set.",
+    "prerequisiteKeys":     [
+        "devastating strike",
+        "vital strike"
+    ]
+}

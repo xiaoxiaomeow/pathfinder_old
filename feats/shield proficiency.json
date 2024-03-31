@@ -1,0 +1,15 @@
+{
+    "key": "shield proficiency",
+    "name": "Shield Proficiency",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Proficiency",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 133"],
+    "description": "You are trained in how to properly use a shield.",
+    "benefit": "When you use a shield (except a tower shield), the shield's armor check penalty only applies to Strength- and Dexterity-based skills.",
+    "normal": "When you are using a shield with which you are not proficient, you take the shield's armor check penalty on attack rolls and on all skill checks that involve moving.",
+    "special": "Barbarians, bards, clerics, druids, fighters, paladins, and rangers all automatically have Shield Proficiency as a bonus feat. They need not select it.",
+    "name_zh": "擅长盾牌",
+    "description_zh": "你受过如何正确使用盾牌的训练。",
+    "benefit_zh": "当你使用盾牌（塔盾除外）时，盾牌的防具检定减值只用于基于力量和敏捷的技能。",
+    "special_zh": "野蛮人、吟游诗人、牧师、德鲁伊、战士、圣骑士和游侠都自动获得擅长盾牌做为奖励专长。他们不需选择它。"
+}

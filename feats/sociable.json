@@ -1,0 +1,13 @@
+{
+    "key": "sociable",
+    "name": "Sociable",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sociable",
+    "source": ["Advanced Player's Guide pg. 170"],
+    "description": "You have a way of helping others to get along.",
+    "prerequisites": "Cha 13, half-elf",
+    "benefit": "As a move action, you grant all friendly creatures within 30 feet who can see or hear you (including yourself) a +2 bonus on Diplomacy checks for a number of rounds equal to your Charisma modifier (minimum 1 round).",
+    "mythicSource": ["Mythic Adventures pg. 74"],
+    "mythicDescription": "Your easy nature flows from you without effort, putting others at ease.",
+    "mythicPrerequisites": "Sociable",
+    "mythicBenefit": "You grant and benefit from the +2 bonus on Diplomacy checks from Sociable constantly without having to spend a move action. You can spend a move action to increase the bonus to +4 for a number of rounds equal to your tier."
+}

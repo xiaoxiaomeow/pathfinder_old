@@ -1,0 +1,13 @@
+{
+    "key": "improved dark sight",
+    "name": "Improved Dark Sight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Dark%20Sight",
+    "source": ["Advanced Race Guide pg. 112"],
+    "description": "With further modification, your eyes see clearly in not only normal darkness, but in magical darkness as well.",
+    "prerequisites": "Dark Sight, Gloom Sight, fetchling",
+    "benefit": "You gain the see in darkness ability and lose the light sensitivity weakness, but gain the light blindness weakness.",
+    "prerequisiteKeys":     [
+        "dark sight",
+        "gloom sight"
+    ]
+}

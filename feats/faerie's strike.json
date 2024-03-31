@@ -1,0 +1,16 @@
+{
+    "key": "faerie's strike",
+    "name": "Faerie's Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Faerie's%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 147"],
+    "description": "Ephemeral wisps of nature spirits dance about those you strike.",
+    "prerequisites": "Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks",
+    "benefit": "When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), the creature you hit with the attack must succeed at a Will save (DC = 10 + 1/2 your character level + your Wisdom modifier) or be illuminated as if by <i>faerie fire<\/i> for 1 minute. You can use this benefit a number of times per day equal to your Wisdom modifier (minimum 1).",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "nature magic",
+        "vital strike"
+    ]
+}

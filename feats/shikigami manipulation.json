@@ -1,0 +1,17 @@
+{
+    "key": "shikigami manipulation",
+    "name": "Shikigami Manipulation",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shikigami%20Manipulation",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 9"],
+    "description": "You channel a magic item’s power to enhance its improvised attacks, even though it was never meant to be used as a weapon.",
+    "prerequisites": "Catch Off-Guard or Throw Anything, Shikigami Mimicry, Shikigami Style, Use Magic Device 5 ranks",
+    "benefit": "While using Shikigami Style, you can treat any magical item you’re using as an improvised weapon as if it granted an enhancement bonus on attack and damage rolls equal to the item’s caster level divided by 4 (minimum +1), to a maximum bonus of +5.",
+    "special": "A character with this feat and Equipment Trick who uses magical equipment to perform a trick can add a bonus equal to the item’s caster level divided by 4 (minimum +1) on skill or combat maneuver checks attempted as part of the trick.",
+    "prerequisiteKeys":     [
+        "catch off-guard",
+        "shikigami mimicry",
+        "shikigami style",
+        "throw anything"
+    ]
+}

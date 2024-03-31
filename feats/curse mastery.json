@@ -1,0 +1,10 @@
+{
+    "key": "curse mastery",
+    "name": "Curse Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Curse%20Mastery",
+    "descriptors": ["Item Mastery"],
+    "source": ["Weapon Master's Handbook pg. 26"],
+    "description": "You can coax curses from necromantic magic items.",
+    "prerequisites": "Use Magic Device 3 ranks, base Fortitude save bonus +6",
+    "benefit": "You can cause an item that has a necromancy spell of 3rd level or higher in its construction requirements to cast <i>bestow curse<\/i>. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12."
+}

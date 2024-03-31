@@ -1,0 +1,16 @@
+{
+    "key": "awe-inspiring smash",
+    "name": "Awe-Inspiring Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Awe-Inspiring%20Smash",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["Inner Sea Combat pg. 12"],
+    "description": "Your fury in combat translates into crowd-pleasing displays.",
+    "prerequisites": "Str 15, Power Attack, base attack bonus +3",
+    "benefit": "You can apply your Strength modifier instead of your Charisma modifier to performance combat checks.",
+    "staminaSource": ["Weapon Master's Handbook pg. 24"],
+    "staminaText": "After successfully performing a bull rush or sunder combat maneuver, you can spend up to 5 stamina points to increase the bonus on performance combat checks that you gain from Awe-Inspiring Smash by 1 per stamina point spent.",
+    "prerequisiteKeys": ["power attack"]
+}

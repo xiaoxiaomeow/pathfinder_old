@@ -1,0 +1,12 @@
+{
+    "key": "shadow strike",
+    "name": "Shadow Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shadow%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 169"],
+    "description": "You accurately strike even those you cannot clearly see.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "You can deal precision damage, such as sneak attack damage, against targets with concealment (but not total concealment).",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "You can spend 5 stamina points when you hit a creature with total concealment to deal precision damage to that creature."
+}

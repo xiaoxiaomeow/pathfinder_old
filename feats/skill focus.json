@@ -1,0 +1,18 @@
+{
+    "key": "skill focus",
+    "name": "Skill Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skill%20Focus",
+    "source": ["PRPG Core Rulebook pg. 134"],
+    "description": "Choose a skill. You are particularly adept at that skill.",
+    "benefit": "You get a +3 bonus on all checks involving the chosen skill. If you have 10 or more ranks in that skill, this bonus increases to +6.",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new skill.",
+    "mythicSource": ["Mythic Adventures pg. 73"],
+    "mythicDescription": "You mastery with this skill is unmatched, even in difficult situations.",
+    "mythicPrerequisites": "Skill Focus",
+    "mythicBenefit": "You can always take 10 or 20 on checks with your choice of skill for Skill Focus, even when you are rushed or threatened.",
+    "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Skill Focus feat.",
+    "name_zh": "技能专攻",
+    "description_zh": "选择一项技能。你特别擅长该技能。",
+    "benefit_zh": "你在所有涉及该技能的检定上获得+3加值。如果你该技能的等级为10或更高，此加值提升为+6。",
+    "special_zh": "你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新技能。"
+}

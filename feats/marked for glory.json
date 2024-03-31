@@ -1,0 +1,14 @@
+{
+    "key": "marked for glory",
+    "name": "Marked for Glory",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Marked%20for%20Glory",
+    "source": ["Mythic Adventures pg. 69"],
+    "description": "You’re destined for glory beyond the ken of ordinary adventurers and mere mortals.",
+    "prerequisites": "Great Fortitude, Iron Will, or Lightning Reflexes",
+    "benefit": "You can use the surge ability (see page 12) once per day (adding 1d6). If you are or become mythic, you can use your surge one additional time per day.",
+    "prerequisiteKeys":     [
+        "great fortitude",
+        "iron will",
+        "lightning reflexes"
+    ]
+}

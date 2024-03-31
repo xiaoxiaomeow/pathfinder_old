@@ -1,0 +1,13 @@
+{
+    "key": "stunning assault",
+    "name": "Stunning Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Assault",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 171"],
+    "description": "You powerful but imprecise attacks can stun your enemies.",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +16",
+    "benefit": "You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to stun targets you hit with your melee attacks for 1 round. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "You can spend 2 stamina points to end the effects of this feat at the end of your turn instead of the start of your next turn.",
+    "prerequisiteKeys": ["power attack"]
+}

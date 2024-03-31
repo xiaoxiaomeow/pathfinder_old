@@ -1,0 +1,13 @@
+{
+    "key": "rapid recovery",
+    "name": "Rapid Recovery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Recovery",
+    "source":     [
+        "Pathfinder #85: Fires of Creation pg. 72",
+        "People of the Stars pg. 7"
+    ],
+    "description": "When you heal damage with your nanite surge, you also remove harmful effects.",
+    "prerequisites": "Rapid Repair, Con 13, nanite surge ability",
+    "benefit": "When you heal damage using Rapid Repair, you remove any and all of the following conditions: blinded, confused, dazzled, deafened, shaken, sickened, and staggered. You cannot cure blindness or deafness caused by loss of sensory organs.",
+    "prerequisiteKeys": ["rapid repair"]
+}

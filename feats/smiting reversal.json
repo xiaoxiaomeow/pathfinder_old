@@ -1,0 +1,14 @@
+{
+    "key": "smiting reversal",
+    "name": "Smiting Reversal",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smiting%20Reversal",
+    "descriptors": ["Combat"],
+    "source": ["Agents of Evil pg. 19"],
+    "description": "Your can withstand the onslaught of holy or unholy forces.",
+    "prerequisites": "Power Attack, Toughness",
+    "benefit": "Three times per day after being targeted by the smite attack of an enemy, you can immediately make an attack of opportunity against the target. You gain a bonus on this attack roll equal to your Charisma bonus. If this attack of opportunity hits, you gain a bonus on the damage roll equal to your character level. This attack of opportunity ignores all damage reduction the creature possesses.",
+    "prerequisiteKeys":     [
+        "power attack",
+        "toughness"
+    ]
+}

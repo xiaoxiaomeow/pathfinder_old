@@ -1,0 +1,14 @@
+{
+    "key": "deft shootist",
+    "name": "Deft Shootist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deft%20Shootist",
+    "descriptors": ["Grit"],
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "You keep an eye out while focusing on your weapon, allowing you to avoid attacks while shooting and reloading firearms.",
+    "prerequisites": "Grit class feature or Amateur Gunslinger feat, Dodge, Mobility",
+    "benefit": "As long as you have at least 1 grit point, you do not provoke attacks of opportunity when shooting or reloading a firearm.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

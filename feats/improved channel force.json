@@ -1,0 +1,10 @@
+{
+    "key": "improved channel force",
+    "name": "Improved Channel Force",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Channel%20Force",
+    "source": ["Advanced Race Guide pg. 88"],
+    "description": "You move your enemies within a beam of righteous energy.",
+    "prerequisites": "Channel Force, aasimar, channel energy 4d6",
+    "benefit": "When using Channel Force, you can affect all creatures in a 60-foot line or a 30-foot cone-shaped burst. You must choose to either push or pull all creatures within the affected area that fail their saves.",
+    "prerequisiteKeys": ["channel force"]
+}

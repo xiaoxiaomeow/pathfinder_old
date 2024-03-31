@@ -1,0 +1,14 @@
+{
+    "key": "spirit rebuke",
+    "name": "Spirit Rebuke",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Rebuke",
+    "source": ["Adventurer's Guide pg. 169"],
+    "description": "Your insight and force of will can tame dangerous spirits.",
+    "prerequisites": "Wis 17; Iron Will; Spirit Beacon; Diplomacy 5 ranks or Intimidate 5 ranks",
+    "benefit": "Select one specific category of spirit (fey, outsiders, or undead). Once per day as a standard action, you can condemn these spirits with such force of will that you can drive them from hosts, unravel their magic, or damage them physically. A rebuke targets a single spirit you can see (or one that is possessing a creature you can see) within 30 feet.",
+    "special": "You can select this feat up to three times. Each time you do, you must select a different category of spirit your rebuke can affect, and you can use the feat one additional time each day.",
+    "prerequisiteKeys":     [
+        "iron will",
+        "spirit beacon"
+    ]
+}

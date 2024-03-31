@@ -1,0 +1,10 @@
+{
+    "key": "dimensional assault",
+    "name": "Dimensional Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Assault",
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "You have been trained to use magical movement as part of your combat tactics.",
+    "prerequisites": "Ability to use the abundant step class feature or cast <i>dimension door<\/i>, Dimensional Agility",
+    "benefit": "As a full-round action, you use abundant step or cast <i>dimension door <\/i>as a special charge. Doing so allows you to teleport up to double your current speed (up to the maximum distance allowed by the spell or ability) and to make the attack normally allowed on a charge.",
+    "prerequisiteKeys": ["dimensional agility"]
+}

@@ -1,0 +1,14 @@
+{
+    "key": "redistributed might",
+    "name": "Redistributed Might",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Redistributed%20Might",
+    "descriptors": ["Combat"],
+    "source": ["Adventurer's Guide pg. 26"],
+    "description": "You’ve gained enough control over your body to translate strength into swiftness.",
+    "prerequisites": "Con 13 or Wis 13, Enhanced Morale, Exotic Weapon Proficiency (Aldori dueling sword), Iron Will, base attack bonus +4",
+    "benefit": "Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via <i>bull’s strength<\/i> or a skald’s inspired rage<sup>ACG<\/sup> performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change.",
+    "prerequisiteKeys":     [
+        "exotic weapon proficiency",
+        "iron will"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "key": "improved awesome blow",
+    "name": "Improved Awesome Blow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Awesome%20Blow",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 150"],
+    "description": "You are skilled at sending your opponents flying.",
+    "prerequisites": "Str 13; Awesome Blow or awesome blow class feature; Power Attac",
+    "benefit": "You receive a +2 bonus on checks to perform an awesome blow combat maneuver. You also gain a +2 bonus to your combat maneuver defense whenever an opponent tries to perform an awesome blow combat maneuver against you. Whenever you successfully perform an awesome blow combat maneuver, your opponent’s movement provokes attacks of opportunity from all your allies (but not you).",
+    "normal": "Creatures moved by awesome blow do not provoke attacks of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When a creature attempts an awesome blow combat maneuver against you, you can spend up to 3 stamina points to increase your Combat Maneuver Defense against that combat maneuver by an amount equal to the number of stamina points you spent. This bonus stacks with the bonus granted by Improved Awesome Blow.",
+    "prerequisiteKeys": ["awesome blow"]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "twin thunders flurry",
+    "name": "Twin Thunders Flurry",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders%20Flurry",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 123"],
+    "description": "Your dual bludgeoning strikes are especially deadly when you are fighting giants.",
+    "prerequisites": "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Weapon Focus with both wielded weapons; base attack bonus +6",
+    "benefit": "You can trip a creature with the giant subtype of up to Huge size, and you gain a +2 bonus on damage rolls against creatures of the giant subtype. Further, each time you hit a creature of the giant subtype with your off-hand weapon after you hit that creature with your primary weapon, you can deal the extra off-hand weapon damage Twin Thunders grants you.",
+    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaText": "You can spend 2 stamina points to attempt a trip combat maneuver against a Huge creature that does not have the giant subtype.",
+    "prerequisiteKeys": ["twin thunders"]
+}

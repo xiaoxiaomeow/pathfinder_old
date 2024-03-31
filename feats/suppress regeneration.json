@@ -1,0 +1,12 @@
+{
+    "key": "suppress regeneration",
+    "name": "Suppress Regeneration",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Suppress%20Regeneration",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Giant Hunter's Handbook pg. 19"],
+    "description": "You and your allies can exacerbate a regenerating creature’s weaknesses. By making a precisely timed attack to open a serious wound just a bit further, your allies can extend the length of time the creature’s regeneration is suppressed.",
+    "benefit": "When you make a successful attack that causes a creature’s regeneration ability to cease functioning for at least 1 round (such as by hitting a troll with alchemist’s fire), any ally who also has this feat and is currently threatening the creature can make an attack of opportunity against it. This attack of opportunity deals no damage, but instead extends the time that the creature’s regeneration is suppressed by 1 additional round. If multiple allies with this feat hit the creature with this attack of opportunity, the additional rounds of suppression stack."
+}

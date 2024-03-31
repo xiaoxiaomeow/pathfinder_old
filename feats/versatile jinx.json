@@ -1,0 +1,10 @@
+{
+    "key": "versatile jinx",
+    "name": "Versatile Jinx",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Versatile%20Jinx",
+    "source": ["Halflings of Golarion pg. 27"],
+    "description": "Your jinx’s power comes from a different source than most halflings.",
+    "prerequisites": "Iron Will, Halfling Jinx trait",
+    "benefit": "Choose either Intelligence or Wisdom. The DC of your jinx is based on this ability score instead of on Charisma.",
+    "prerequisiteKeys": ["iron will"]
+}

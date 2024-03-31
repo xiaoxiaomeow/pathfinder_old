@@ -1,0 +1,13 @@
+{
+    "key": "uncanny defense",
+    "name": "Uncanny Defense",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Uncanny%20Defense",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 67"],
+    "description": "Your instinct for self-preservation gives you many advantages.",
+    "prerequisites": "Cautious Fighter, base attack bonus +3, halfling",
+    "benefit": "While fighting defensively or taking the total defense action, you gain a bonus on your Reflex saving throws and to your CMD equal to 1/2 of the dodge bonus to AC you gained from taking that action.",
+    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaText": "When fighting defensively or taking the total defense action, if you attempt a Reflex saving throw or are the target of a combat maneuver, you can spend a number of stamina points up to your Dexterity bonus to gain a bonus on the Reflex save or to your CMD equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["cautious fighter"]
+}

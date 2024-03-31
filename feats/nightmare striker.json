@@ -1,0 +1,18 @@
+{
+    "key": "nightmare striker",
+    "name": "Nightmare Striker",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nightmare%20Striker",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 111"],
+    "description": "Your <i>faerie fire <\/i>not only illuminates your foes, but it also shows you their weaknesses.",
+    "prerequisites": "Improved Unarmed Strike, Nightmare Fist, Nightmare Weaver, Stunning Fist, Heal 5 ranks, ability to cast <i>faerie fire<\/i>",
+    "benefit": "While a <i>faerie fire <\/i>you have cast (not one cast from a spell completion or spell trigger item) outlines an opponent, the DC for that opponent to resist your Stunning Fist attempts increases by +2. If you hit an opponent with a Stunning Fist attempt, and that opponent fails her saving throw, you can render the target shaken for 1d2 rounds plus 1 round for every 5 by which the opponent failed her save.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When you hit an opponent with a Stunning Fist attack and that opponent fails its saving throw, you can spend 5 stamina points to make the opponent frightened for 1d4 rounds instead of shaken.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "nightmare fist",
+        "nightmare weaver",
+        "stunning fist"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "greater balor whip",
+    "name": "Greater Balor Whip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Balor%20Whip",
+    "descriptors": ["Combat"],
+    "source": ["Villain Codex pg. 80"],
+    "description": "You can pull in foes with your whip and then attack them with your sword.",
+    "prerequisites": "Balor Whip, Improved Balor Whip, Weapon Focus (whip), Whip Mastery, base attack bonus +16",
+    "benefit": "When you use Improved Balor Whip to make a single attack at your highest attack bonus, your critical threat range increases to 19–20 and you gain a +4 bonus on critical confirmation rolls if you threaten a critical hit with that attack.",
+    "prerequisiteKeys":     [
+        "balor whip",
+        "improved balor whip",
+        "weapon focus",
+        "whip mastery"
+    ]
+}

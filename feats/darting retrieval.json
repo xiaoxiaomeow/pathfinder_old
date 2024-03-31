@@ -1,0 +1,17 @@
+{
+    "key": "darting retrieval",
+    "name": "Darting Retrieval",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Darting%20Retrieval",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Giant Hunter's Handbook pg. 19"],
+    "description": "As your ally disarms a foe, you knock the disarmed item out of the way.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Disarm",
+    "benefit": "When an ally who also has this feat disarms an opponent and the disarmed item lands within your melee reach, as an immediate action you can move the disarmed item to another square within your melee reach. If you have at least one hand free and could carry the disarmed item, you can instead pick it up. Using this feat does not provoke an attack of opportunity.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved disarm"
+    ]
+}

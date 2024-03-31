@@ -1,0 +1,10 @@
+{
+    "key": "vast spell",
+    "name": "Vast Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vast%20Spell",
+    "descriptors": ["Metamagic"],
+    "source": ["Magic Tactics Toolbox pg. 5"],
+    "description": "Your spells cover targets across a larger area.",
+    "prerequisites": "Caster level 3rd",
+    "benefit": "You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level."
+}

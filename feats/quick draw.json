@@ -1,0 +1,21 @@
+{
+    "key": "quick draw",
+    "name": "Quick Draw",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Draw",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 131"],
+    "description": "You can draw weapons faster than most.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "You can draw a weapon as a free action instead of as a move action. You can draw a hidden weapon (see the Sleight of Hand skill) as a move action. A character who has selected this feat may throw weapons at his full normal rate of attacks (much like a character with a bow). Alchemical items, potions, scrolls, and wands cannot be drawn quickly using this feat.",
+    "normal": "Without this feat, you may draw a weapon as a move action, or (if your base attack bonus is +1 or higher) as a free action as part of movement. Without this feat, you can draw a hidden weapon as a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you can sheathe a weapon as a swift action.",
+    "mythicSource": ["Mythic Adventures pg. 71"],
+    "mythicDescription": "You can retrieve any item quickly, not just weapons.",
+    "mythicPrerequisites": "Quick Draw",
+    "mythicBenefit": "You can use Quick Draw to draw items of any kind, not just weapons, provided they are stored or concealed on your person. As a move action, you can expend one use of mythic power to retrieve up to two hidden items. You must have two hands free to do so.",
+    "name_zh": "即时备战",
+    "description_zh": "你能够比大多数人更快的拔出武器。",
+    "prerequisites_zh": "基本攻击加值+1。",
+    "benefit_zh": "你能够以自由动作而不是移动动作拔出一把武器。你能够以移动动作拔出一把隐藏的武器（见巧手技能）。选择此专长的人物能以他的正常攻击频率投掷武器（如同使用弓的人物一样）。炼金物品、药水、卷轴和魔杖不能用此专长快速拿取。"
+}

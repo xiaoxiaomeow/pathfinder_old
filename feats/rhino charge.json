@@ -1,0 +1,15 @@
+{
+    "key": "rhino charge",
+    "name": "Rhino Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rhino%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["Sargava, the Lost Colony pg. 24"],
+    "description": "Your charges are both violent and unpredictable.",
+    "prerequisites": "Power Attack, Improved Bull Rush, base attack bonus +5",
+    "benefit": "You may ready a charge, though you may only move up to your speed on the charge.",
+    "normal": "Charging is a full-round action and allows you to move twice your speed.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "power attack"
+    ]
+}

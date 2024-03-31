@@ -1,0 +1,13 @@
+{
+    "key": "improved stonecunning",
+    "name": "Improved Stonecunning",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stonecunning",
+    "source": ["Advanced Player's Guide pg. 163"],
+    "description": "Your sense for stonework is uncanny.",
+    "prerequisites": "Wis 13, dwarf, stonecunning racial trait",
+    "benefit": "You receive a +4 bonus on Perception checks to notice unusual stonework. This bonus replaces the stonecunning ability’s normal bonus on Perception checks.",
+    "mythicSource": ["Mythic Adventures pg. 67"],
+    "mythicDescription": "If you listen close, you can hear the secrets of stone.",
+    "mythicPrerequisites": "Improved Stonecunning",
+    "mythicBenefit": "You gain <i>stone tell <\/i>as a spell-like ability usable once per day with a caster level equal to twice your tier."
+}

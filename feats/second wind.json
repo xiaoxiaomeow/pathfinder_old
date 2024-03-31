@@ -1,0 +1,14 @@
+{
+    "key": "second wind",
+    "name": "Second Wind",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Second%20Wind",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["People of the River pg. 15"],
+    "description": "The roar of the crowd strengthens your resolve.",
+    "prerequisites": "Endurance",
+    "benefit": "When you spend a swift action to attempt a performance combat check, you gain a +2 bonus on your performance combat check, and if you are shaken, sickened, or fatigued, these conditions are suppressed until the end of your next turn.",
+    "prerequisiteKeys": ["endurance"]
+}

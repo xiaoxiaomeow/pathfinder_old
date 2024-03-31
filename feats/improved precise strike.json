@@ -1,0 +1,14 @@
+{
+    "key": "improved precise strike",
+    "name": "Improved Precise Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Precise%20Strike",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Legacy of the First World pg. 19"],
+    "description": "Your precise timing and smooth teamwork allow you to strike a foe where it hurts.",
+    "prerequisites": "Dex 13, Precise Strike, base attack bonus +4",
+    "benefit": "Whenever you deal additional damage with Precise Strike, you also deal 1 point of bleed damage. This bleed damage does not stack with itself.",
+    "prerequisiteKeys": ["precise strike"]
+}

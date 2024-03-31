@@ -43,11 +43,18 @@ function getSimpTranslatedSource (sp) {
     }
     return "";
 }
-function loadSpell(sp, div, containSource = false) {
+function loadFeat(sp, div, containSource = false) {
     div.innerHTML = "";
 
+	if (containSource) {
+		div.appendChild(getTopBar());
+		window.top.document.title = sp["name_zh"] ?? sp["name"];
+		$(div).append($("<hr>"));
+	}
+
     // title
-    let name = (sp["name_zh"] != null) ? (sp["name_zh"] + " (" + sp["name"] + ")") : sp["name"];
+	let en_name = "<a href=\"" + ft["url"] + "\">" + ft["name"] + "</a>";
+    let name = (ft["name_zh"] != null) ? (ft["name_zh"] + " (" + en_name + ")") : en_name;
     if (sp["race_zh"] != null) {
         name += " [" + sp["race_zh"] + "]";
     }
@@ -99,7 +106,7 @@ function loadSpell(sp, div, containSource = false) {
 
 	// mythic text
 	if (sp["mythicText_zh"] ?? sp["mythicText"] != null) {
-		$(div).append($("<div><b>神话版本</b></div>"));
+		$(div).append($("<hr><h4>神话版本</h4>"));
         if (sp["mythicText_zh"] != null) {
             $(div).append($(sp["mythicText_zh"]));
         } else {
@@ -107,13 +114,8 @@ function loadSpell(sp, div, containSource = false) {
         }
 		$(div).append($("<p><b>出处</b><br>" + sp["mythicSource"] + "</p>"));
 	}
-
-    // url
-    if (sp["url"] != null && containSource) {
-        $(div).append($("<p><a href=\"" + sp["url"] + "\">英文原文</a></p>"));
-    }
 }
-function loadUrlSpell() {
+function loadUrlFeat() {
     let key = urlAttributes["spell"];
 	key = key.toLowerCase();
     fetch("/pathfinder/spells/" + key + ".json").then(response => {
@@ -125,7 +127,7 @@ function loadUrlSpell() {
     }).then(text => {
 		if (text != null) {
 			sp = JSON.parse(text);
-			loadSpell(sp, document.getElementById("box"), true);
+			loadFeat(sp, document.getElementById("box"), true);
 		}
     }).catch(error => {
         console.log(error);
@@ -283,7 +285,7 @@ function loadTransAndUrlSpell () {
 			return;
 		}
 		translations = JSON.parse(text);
-        loadUrlSpell();
+        loadUrlFeat();
     }).catch(error => {
         console.log(error);
 	});
@@ -441,7 +443,7 @@ function search() {
                     }).then(text => {
                         sp = JSON.parse(text);
                         tooltip.innerHTML = "";
-                        loadSpell(sp, tooltip);
+                        loadFeat(sp, tooltip);
                     }).catch(error => {
                         alert('Error: ' + error.message);
                         throw error;

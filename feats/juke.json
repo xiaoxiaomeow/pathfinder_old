@@ -1,0 +1,15 @@
+{
+    "key": "juke",
+    "name": "Juke",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Juke",
+    "descriptors": ["Combat"],
+    "source": ["Melee Tactics Toolbox pg. 15"],
+    "description": "You can avoid a charge, leaving your opponent vulnerable to attacks by you or your allies.",
+    "prerequisites": "Dex 13, Dodge, Mobility, Sidestep",
+    "benefit": "When an opponent charges you, you gain a +4 dodge bonus to your AC. If the charger’s attack roll misses you and his movement ends while he is adjacent to you, you can switch places with the opponent as an immediate action, and he is considered to be flanked by you until the end of your next turn. You can’t use the benefits of Juke if you ready an action to set a weapon with the brace special quality against a charging foe.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility",
+        "sidestep"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "key": "guided hand",
+    "name": "Guided Hand",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Guided%20Hand",
+    "source": ["Ultimate Combat pg. 103"],
+    "description": "Your deity blesses any strike you make with that deity’s favored weapon.",
+    "prerequisites": "Channel energy class feature, Channel Smite, proficiency with your deity's favored weapon",
+    "benefit": "With your deity’s favored weapon, you can use your Wisdom modifier instead of your Strength or Dexterity modifier on attack rolls.",
+    "mythicSource": ["Mythic Adventures pg. 66"],
+    "mythicDescription": "Attacks made with your deity’s favored weapon are divinely inspired.",
+    "mythicPrerequisites": "Guided Hand",
+    "mythicBenefit": "When making attacks with your deity’s favored weapon, you can add your Wisdom modifier instead of your Strength or Dexterity modifier on damage rolls.",
+    "prerequisiteKeys": ["channel smite"]
+}

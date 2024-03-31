@@ -1,0 +1,11 @@
+{
+    "key": "preferred spell",
+    "name": "Preferred Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Preferred%20Spell",
+    "source": ["Advanced Player's Guide pg. 167"],
+    "description": "You find it very easy to cast one particular spell.",
+    "prerequisites": "Spellcraft 5 ranks, Heighten Spell",
+    "benefit": "Choose one spell which you have the ability to cast. You can cast that spell spontaneously by sacrificing a prepared spell or spell slot of equal or higher level. You can apply any metamagic feats you possess to this spell when you cast it. This increases the minimum level of the prepared spell or spell slot you must sacrifice in order to cast it but does not affect the casting time.",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different spell.",
+    "prerequisiteKeys": ["heighten spell"]
+}

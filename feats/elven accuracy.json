@@ -1,0 +1,16 @@
+{
+    "key": "elven accuracy",
+    "name": "Elven Accuracy",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elven%20Accuracy",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 159"],
+    "description": "Your sharp eyesight makes difficult shots easier.",
+    "prerequisites": "Elf",
+    "benefit": "If you miss due to concealment when making a ranged attack with a longbow or shortbow (including composite bows), you can reroll your miss chance roll one time to see if you actually hit.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "If you miss an attack with a longbow or shortbow due to concealment, you can spend 5 stamina points to automatically succeed at the miss chance reroll from this feat.",
+    "mythicSource": ["Mythic Adventures pg. 64"],
+    "mythicDescription": "Your elven eyesight cuts though concealment.",
+    "mythicPrerequisites": "Elven Accuracy",
+    "mythicBenefit": "When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment. You still suffer a miss chance for total concealment, but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy."
+}

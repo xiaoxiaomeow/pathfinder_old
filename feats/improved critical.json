@@ -1,0 +1,23 @@
+{
+    "key": "improved critical",
+    "name": "Improved Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Critical",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 127"],
+    "description": "Attacks made with your chosen weapon are quite deadly.",
+    "prerequisites": "Proficient with weapon, base attack bonus +8",
+    "benefit": "When using the weapon you selected, your threat range is doubled.",
+    "special": "You can gain Improved Critical multiple times. The effects do not stack. Each time you take the feat, it applies to a new type of weapon. This effect doesn't stack with any other effect that expands the threat range of a weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "When you hit with an attack and the roll fails to threaten a critical hit by 3 or less, you can spend 5 stamina points to attempt to deal double damage anyway. Roll as if confirming a critical hit. If this confirmation roll succeeds, your attack is still not a critical hit, but it deals double damage.",
+    "mythicSource": ["Mythic Adventures pg. 66"],
+    "mythicDescription": "Your critical strikes with your chosen weapon are deadlier than most.",
+    "mythicPrerequisites": "Improved Critical, base attack bonus +8",
+    "mythicBenefit": "Your critical multiplier with your chosen weapon is increased by 1 (to a maximum of ×6).",
+    "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat.",
+    "name_zh": "精通重击",
+    "description_zh": "你使用特定的武器攻击起来更易击中敌人要害。",
+    "prerequisites_zh": "擅长选择的特定武器，基本攻击加值+8。",
+    "benefit_zh": "使用特定武器的重击威胁范围加倍。",
+    "special_zh": "你可以多次选择本专长，但并非累加效果。每次你选择本专长时，需选择一个新的武器类型。本专长不可与任何增加重击威胁范围的效果累加。"
+}

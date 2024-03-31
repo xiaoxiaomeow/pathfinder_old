@@ -1,0 +1,19 @@
+{
+    "key": "dirty critical hit",
+    "name": "Dirty Critical Hit",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dirty%20Critical%20Hit",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Dirty Tactics Toolbox pg. 14"],
+    "description": "Your blows are not only deadly, but debilitating as well.",
+    "prerequisites": "Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick, base attack bonus +11",
+    "benefit": "Whenever you confirm a critical hit, you can also affect the target as if you had succeeded at a dirty trick combat maneuver check. Doing so normally causes the target to suffer for 1 round one of the conditions applied by a dirty trick, unless you have feats or abilities that give you more dirty trick options.",
+    "special": "You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "critical focus",
+        "improved dirty trick"
+    ]
+}

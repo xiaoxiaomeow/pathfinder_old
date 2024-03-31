@@ -1,0 +1,9 @@
+{
+    "key": "spell bane",
+    "name": "Spell Bane",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Bane",
+    "source": ["Ultimate Combat pg. 120"],
+    "description": "While your bane weapon is active, creatures that your bane affects find it more difficult to resist your spells.",
+    "prerequisites": "Bane class feature",
+    "benefit": "While your bane class feature is affecting a creature type, the saving throw’s DCs for your spells increase by +2 for creatures of that type."
+}

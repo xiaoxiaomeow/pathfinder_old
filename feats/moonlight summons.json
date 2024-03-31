@@ -1,0 +1,10 @@
+{
+    "key": "moonlight summons",
+    "name": "Moonlight Summons",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Moonlight%20Summons",
+    "source": ["Ultimate Magic pg. 153"],
+    "description": "Your summoned minions are infused with the power of the moon.",
+    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature's ally<\/i>",
+    "benefit": "Creatures you summon shed light as a <i>light <\/i>spell. They are immune to confusion and sleep effects, and their natural weapons are treated as silver for the purposes of overcoming damage reduction.",
+    "prerequisiteKeys": ["spell focus"]
+}

@@ -1,0 +1,17 @@
+{
+    "key": "felling smash",
+    "name": "Felling Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Smash",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 101"],
+    "description": "You commit all your focus to a devastating blow, trying to crush your opponent to the ground.",
+    "prerequisites": "Int 13, Str 13, Combat Expertise, Improved Trip, Power Attack, base attack bonus +6",
+    "benefit": "If you use the attack action to make a single melee attack at your highest base attack bonus while using Power Attack and you hit an opponent, you can spend a swift action to attempt a trip combat maneuver against that opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to make the trip attempt from this feat as a free action instead of a swift action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip",
+        "power attack"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "giant's smash",
+    "name": "Giant's Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant's%20Smash",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 69"],
+    "description": "Obstacles do not concern you.",
+    "prerequisites": "Str 13, Power Attack, giant subtype",
+    "benefit": "When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness. You also receive a +5 bonus on Strength checks to knock down or break open doors.",
+    "prerequisiteKeys": ["power attack"]
+}

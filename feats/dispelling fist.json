@@ -1,0 +1,10 @@
+{
+    "key": "dispelling fist",
+    "name": "Dispelling Fist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispelling%20Fist",
+    "source": ["Ultimate Combat pg. 97"],
+    "description": "By focusing on your knowledge of magic and spells that negate its powers, you use your bare hands to rip magical defenses from your enemy.",
+    "prerequisites": "Improved Unarmed Strike, base attack bonus +11, ability to cast <i>dispel magic<\/i>, caster level 7th",
+    "benefit": "If you have <i>dispel magic <\/i>prepared or can cast it spontaneously, you can cast it as a swift action after hitting an opponent with an unarmed strike. Treat this as a targeted dispel against the opponent you hit.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

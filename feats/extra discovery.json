@@ -1,0 +1,10 @@
+{
+    "key": "extra discovery",
+    "name": "Extra Discovery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Discovery",
+    "source": ["Advanced Player's Guide pg. 160"],
+    "description": "You have made a new alchemical discovery.",
+    "prerequisites": "Discovery class feature",
+    "benefit": "You gain one additional discovery. You must meet all of the prerequisites for this discovery.",
+    "special": "You can gain Extra Discovery multiple times."
+}

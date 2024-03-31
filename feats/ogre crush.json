@@ -1,0 +1,13 @@
+{
+    "key": "ogre crush",
+    "name": "Ogre Crush",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ogre%20Crush",
+    "source": ["Monster Codex pg. 153"],
+    "description": "Your thick, muscular arms are capable of landing powerful blows and crushing the life out of the smaller creatures you embrace.",
+    "prerequisites": "Str 25, Improved Grapple, Improved Unarmed Strike, ogre, size Large or larger",
+    "benefit": "Your unarmed strike damage increases by one step when you’re grappling creatures smaller than you. You gain the constrict monster special ability, dealing an amount of damage equal to either the slam damage for a creature of your size or your unarmed strike damage, whichever is greater.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ]
+}

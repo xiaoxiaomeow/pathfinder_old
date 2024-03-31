@@ -1,0 +1,17 @@
+{
+    "key": "boar shred",
+    "name": "Boar Shred",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Boar%20Shred",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 90"],
+    "description": "The wounds you inflict with your unarmed strikes bleed, giving you renewed vigor.",
+    "prerequisites": "Improved Unarmed Strike, Boar Ferocity, Boar Style, Intimidate 9 ranks",
+    "benefit": "You can make an Intimidate check to demoralize an opponent as a move action. While using Boar Style, whenever you tear an opponent’s flesh, once per round at the start of that opponent’s turn he takes 1d6 bleed damage. The bleed damage dealt while using Boar Style persist even if you later switch to a different style.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "You can spend 2 stamina points to demoralize an opponent as a swift action.",
+    "prerequisiteKeys":     [
+        "boar ferocity",
+        "boar style",
+        "improved unarmed strike"
+    ]
+}

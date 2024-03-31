@@ -1,0 +1,15 @@
+{
+    "key": "two-weapon drunkard",
+    "name": "Two-Weapon Drunkard",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Drunkard",
+    "descriptors": ["Combat"],
+    "source": ["Paths of the Righteous pg. 7"],
+    "description": "You effortlessly wield tankards in your off hand, and can use them to drink from and as deadly weapons in a battle with equal ease.",
+    "prerequisites": "Catch Off-Guard, Two-Weapon Fighting",
+    "benefit": "When you wield a tankard as an improvised weapon in your off hand, it functions as a light mace, including for the purpose of determining the effects of feats like Weapon Focus. If you worship Cayden Cailean, your off-hand tankard functions as a divine focus and does not interfere with somatic spell components.",
+    "normal": "A tankard wielded as an improvised weapon normally functions as a gauntlet.",
+    "prerequisiteKeys":     [
+        "catch off-guard",
+        "two-weapon fighting"
+    ]
+}

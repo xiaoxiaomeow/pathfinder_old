@@ -1,0 +1,11 @@
+{
+    "key": "hellcat stealth",
+    "name": "Hellcat Stealth",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hellcat%20Stealth",
+    "source": ["Cheliax, Empire of Devils pg. 27"],
+    "description": "You are difficult to see in the light.",
+    "prerequisites": "Skill Focus (Stealth), Stealth 6 ranks",
+    "benefit": "You may make Stealth checks in normal or bright light even when observed, but at a –10 penalty.",
+    "normal": "You cannot make Stealth checks while observed.",
+    "prerequisiteKeys": ["skill focus"]
+}

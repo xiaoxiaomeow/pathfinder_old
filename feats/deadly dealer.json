@@ -1,0 +1,13 @@
+{
+    "key": "deadly dealer",
+    "name": "Deadly Dealer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Dealer",
+    "source":     [
+        "The Harrow Handbook pg. 15",
+        "Varisia, Birthplace of Legends pg. 10"
+    ],
+    "description": "Your skill with handling a deck and your arcane talents allow you to turn mundane cards into weapons.",
+    "prerequisites": "Arcane Strike, Sleight of Hand 5 ranks",
+    "benefit": "You can throw a card as though it were a dart, with the same damage, range, and other features. You must use the Arcane Strike feat when throwing a card in this way, or else the card lacks the magical force and precision to deal lethal damage. A card is destroyed when thrown in this way.",
+    "prerequisiteKeys": ["arcane strike"]
+}

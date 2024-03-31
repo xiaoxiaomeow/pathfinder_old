@@ -1,0 +1,14 @@
+{
+    "key": "acrobatic steps",
+    "name": "Acrobatic Steps",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acrobatic%20Steps",
+    "source": ["PRPG Core Rulebook pg. 113"],
+    "description": "You can easily move over and through obstacles.",
+    "prerequisites": "Dex 15, Nimble Moves",
+    "benefit": "Whenever you move, you may move through up to 15 feet of difficult terrain each round as if it were normal terrain. The effects of this feat stack with those provided by Nimble Moves (allowing you to move normally through a total of 20 feet of difficult terrain each round).",
+    "prerequisiteKeys": ["nimble moves"],
+    "name_zh": "神行步",
+    "description_zh": "你能轻松的越过障碍。",
+    "prerequisites_zh": "敏捷15，灵狐步。",
+    "benefit_zh": "不论怎样移动，你每回合可以将至多15尺的复杂地形当作一般地形来移动。本专长可以与“灵狐步”效果叠加（即允许你每回合正常移动20尺的复杂地形）。"
+}

@@ -1,0 +1,9 @@
+{
+    "key": "command animals",
+    "name": "Command Animals",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Command%20Animals",
+    "source": ["Ultimate Wilderness pg. 108"],
+    "description": "You channel energy to get animals to do your bidding.",
+    "prerequisites": "Animal domain, channel energy class feature",
+    "benefit": "As a standard action, you can use one of your daily uses of channel energy in an attempt to control animals within 30 feet. Animals can attempt a Will save (DC = 10 + half your class level + your Charisma modifier) to negate the effect. Animals that fail their saves fall under your control, obeying your commands to the best of their ability as if under the effects of a <i>charm monster<\/i> spell with a caster level equal to your class level. An affected animal can attempt a new saving throw each day to escape this effect. You can control any number of animals, so long as their total Hit Dice do not exceed your class level. If you use channel energy in this way, it has no other effect (it does not heal or harm nearby creatures). If an affected animal is controlled by or a companion of another creature, you must attempt an opposed Charisma check whenever your orders conflict."
+}

@@ -1,0 +1,10 @@
+{
+    "key": "warped mind",
+    "name": "Warped Mind",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Warped%20Mind",
+    "source": ["Pathfinder Campaign Setting pg. 151"],
+    "description": "Rather than being overwhelmed by mind-blasting distortions of reality, you gained a perverse clarity of insight and strength of will bordering on insane certainty.",
+    "prerequisites": "Wis 15, Worldwound affinity",
+    "benefit": "Anyone attempting to read your thoughts, communicate with you via telepathy, or otherwise contact your mind is dazed for 1d4 rounds (Will save DC 15 + your Cha modifier negates). In addition, you gain a +2 bonus on initiative checks and a +1 bonus on Will saves.",
+    "special": "You take a –1 penalty on all Intelligence-based skill checks."
+}

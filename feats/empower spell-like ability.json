@@ -1,0 +1,11 @@
+{
+    "key": "empower spell-like ability",
+    "name": "Empower Spell-Like Ability",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Empower%20Spell-Like%20Ability",
+    "descriptors": ["Monster"],
+    "source": ["Pathfinder RPG Bestiary pg. 314"],
+    "description": "One of this creature’s spell-like abilities is particularly potent and powerful.",
+    "prerequisites": "Spell-like ability at caster level 6th or higher",
+    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions below. The creature can use that ability as an empowered spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).",
+    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different spell-like ability."
+}

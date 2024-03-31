@@ -1,0 +1,15 @@
+{
+    "key": "death from above",
+    "name": "Death from Above",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death%20from%20Above",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 94"],
+    "description": "You allow gravity to add extra force to your charges.",
+    "benefit": "Whenever you charge an opponent from higher ground, or from above while flying, you gain a +5 bonus on attack rolls in place of the bonuses from charging and being on higher ground.",
+    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaText": "When charging an opponent from higher ground or from above while flying, you can spend 4 stamina points to gain a +5 bonus on the damage roll, and also retain the bonuses from charging and being on higher ground.",
+    "mythicSource": ["Mythic Adventures pg. 62"],
+    "mythicDescription": "When attacking from the air or higher ground, you bear down on your enemy to deadly effect.",
+    "mythicPrerequisites": "Death from Above",
+    "mythicBenefit": "Whenever you charge an opponent from higher ground, or from above while flying, the critical multiplier of your weapon increases by 2 (to a maximum of ×6). This doesn’t stack with other abilities that increase a weapon’s critical multiplier. If your charge attack hits, you can perform a trip combat maneuver against the attack’s target as a free action without provoking attacks of opportunity."
+}

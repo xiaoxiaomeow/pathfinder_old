@@ -1,0 +1,18 @@
+{
+    "key": "greater snap shot",
+    "name": "Greater Snap Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Snap%20Shot",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 103"],
+    "description": "You can prey on any gap in your foe’s guard with impunity, and with even greater range.",
+    "prerequisites": "Dex 17, Improved Snap Shot, Point-Blank Shot, Rapid Shot, Snap Shot, base attack bonus +12",
+    "benefit": "Whenever you make an attack of opportunity using a ranged weapon and hit, you gain a +2 bonus on the damage roll and a +2 bonus on rolls to confirm a critical hit with that attack. These bonuses increase to +4 when you have base attack bonus +16, and to +6 when you have base attack bonus +20.",
+    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaText": "When you make an attack of opportunity using a ranged weapon, you can spend 3 stamina points to gain your bonus from Greater Snap Shot on the attack roll.",
+    "prerequisiteKeys":     [
+        "improved snap shot",
+        "point-blank shot",
+        "rapid shot",
+        "snap shot"
+    ]
+}

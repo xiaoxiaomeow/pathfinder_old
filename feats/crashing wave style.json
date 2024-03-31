@@ -1,0 +1,18 @@
+{
+    "key": "crashing wave style",
+    "name": "Crashing Wave Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crashing%20Wave%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Wilderness pg. 109"],
+    "description": "You relentlessly push your enemies around, as the sea moves those within and upon it against their will.",
+    "prerequisites": "Wis 13, Improved Drag, Improved Reposition, Improved Unarmed Strike",
+    "benefit": "When you successfully drag or reposition an opponent while using this style, at any point during the dragging or repositioning of the opponent, you can move 5 feet as an immediate action, including moving into a square previously occupied by the opponent, even if you have already taken a move action this round. This movement does not provoke attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "improved drag",
+        "improved reposition",
+        "improved unarmed strike"
+    ]
+}

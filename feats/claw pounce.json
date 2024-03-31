@@ -1,0 +1,17 @@
+{
+    "key": "claw pounce",
+    "name": "Claw Pounce",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Claw%20Pounce",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 94"],
+    "description": "You can charge and make an attack with your paws.",
+    "prerequisites": "Str 13, Dex 15, Nimble Striker, base attack bonus +10, catfolk, cat's claws racial trait or Aspect of the Beast (claws of the beast manifestation)",
+    "benefit": "When you make a charge, you can make a full attack with your claws.",
+    "normal": "Charging is a special full-round action that limits you to a single attack.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When you charge, you can spend 5 stamina points to make a second attack with one of your claws.",
+    "prerequisiteKeys":     [
+        "aspect of the beast",
+        "nimble striker"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "bludgeoner",
+    "name": "Bludgeoner",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bludgeoner",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 90"],
+    "description": "You can knock foes out cold with just about any blunt instrument.",
+    "benefit": "You take no penalty on attack rolls for using a lethal bludgeoning weapon to deal nonlethal damage.",
+    "normal": "You take a –4 penalty on attack rolls when using a lethal weapon to deal nonlethal damage. You cannot use a lethal weapon to deal nonlethal damage in a sneak attack.",
+    "special": "A rogue with this feat can use a lethal bludgeoning weapon to deal nonlethal damage with a sneak attack.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When you make an attack with a lethal bludgeoning weapon to deal nonlethal damage, you can spend 2 stamina points to treat the weapon’s damage as if the weapon were one size category larger. This does not stack with any other effects that treat the weapon’s damage as if the weapon were a larger size."
+}

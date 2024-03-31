@@ -1,0 +1,17 @@
+{
+    "key": "improved charging hurler",
+    "name": "Improved Charging Hurler",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Charging%20Hurler",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 105"],
+    "description": "Every muscle in your body adds its force to your thrown weapons.",
+    "prerequisites": "Charging Hurler, Point-Blank Shot",
+    "benefit": "When you use Charging Hurler, your target can be at any range up to your weapon’s maximum range. If your target is within 30 feet, you gain a +2 bonus on damage rolls.",
+    "normal": "Using Charging Hurler requires you to end your movement within 30 feet of your opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When using Charging Hurler<sup>UC<\/sup> against a target within 30 feet, you can spend up to 2 stamina points. When you do, the bonus on your damage roll for that attack increases by double the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "charging hurler",
+        "point-blank shot"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "key": "master hammer throw",
+    "name": "Master Hammer Throw",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20Hammer%20Throw",
+    "descriptors": ["Combat"],
+    "source": ["Heroes from the Fringe pg. 9"],
+    "description": "Your ability to knock down foes with thrown weapons is second to none.",
+    "prerequisites": "Int 13, Combat Expertise, Hammer Throw, Improved Hammer Throw, Improved Trip, Point-Blank Shot, Precise Shot, base attack bonus +6, dwarf",
+    "benefit": "You can immediately attempt a trip combat maneuver against a target that you successfully hit and damage with a thrown bludgeoning weapon with any attack, even as part of a full-attack action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "hammer throw",
+        "improved hammer throw",
+        "improved trip",
+        "point-blank shot",
+        "precise shot"
+    ]
+}

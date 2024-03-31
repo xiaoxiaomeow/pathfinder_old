@@ -1,0 +1,14 @@
+{
+    "key": "violent display",
+    "name": "Violent Display",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Violent%20Display",
+    "descriptors": ["Combat"],
+    "source": ["Blood of the Moon pg. 23"],
+    "description": "You never miss an opportunity to cow foes.",
+    "prerequisites": "Dazzling Display, Weapon Focus, base attack bonus +6",
+    "benefit": "When you land a successful sneak attack or confirm a critical hit against a creature with a weapon with which you have Weapon Focus, you can use Dazzling Display as an immediate action.",
+    "prerequisiteKeys":     [
+        "dazzling display",
+        "weapon focus"
+    ]
+}

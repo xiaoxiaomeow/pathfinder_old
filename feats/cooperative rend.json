@@ -1,0 +1,14 @@
+{
+    "key": "cooperative rend",
+    "name": "Cooperative Rend",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cooperative%20Rend",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Monster Codex pg. 224"],
+    "description": "You and an ally each sink a claw into your foe—then all you have to do is pull.",
+    "prerequisites": "Rend, troll",
+    "benefit": "Whenever you and an ally who has this feat are both threatening the same creature, you must hit the target with at least one of your claw attacks to use your rend ability.",
+    "normal": "You must hit with two of your claw attacks to use your rend ability."
+}

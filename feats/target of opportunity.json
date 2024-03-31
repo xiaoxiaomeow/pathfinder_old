@@ -1,0 +1,16 @@
+{
+    "key": "target of opportunity",
+    "name": "Target of Opportunity",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Target%20of%20Opportunity",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 122"],
+    "description": "You and your allies pelt your enemies with a deadly barrage of missiles. ",
+    "prerequisites": "Point-Blank Shot, base attack bonus +6",
+    "benefit": "When an ally who also has this feat makes a ranged attack and hits an opponent within 30 feet of you, you can spend an immediate action to make a single ranged attack against that opponent. Your ranged weapon must be in hand, loaded, and ready to be fired or thrown for you to make the ranged attack.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "You can spend 5 stamina points to make the attack granted by this feat as an attack of opportunity instead of an immediate action. You can use this combat trick only once per round.",
+    "prerequisiteKeys": ["point-blank shot"]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "felling escape",
+    "name": "Felling Escape",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Felling%20Escape",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 101"],
+    "description": "Through the use of fluid contortions and manipulations of leverage, you can throw your opponent to the ground after escaping a grapple.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Trip",
+    "benefit": "When you break an opponent’s grapple with a combat maneuver check or Escape Artist check, you can spend a swift action to make a trip attempt against that opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to make the trip attempt from this feat as a free action instead of a swift action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip"
+    ]
+}

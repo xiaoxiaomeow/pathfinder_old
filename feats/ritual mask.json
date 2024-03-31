@@ -1,0 +1,13 @@
+{
+    "key": "ritual mask",
+    "name": "Ritual Mask",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ritual%20Mask",
+    "source":     [
+        "Adventurer's Guide pg. 125",
+        "Arcane Anthology pg. 15"
+    ],
+    "description": "You can use your mask to enhance your occult powers.",
+    "prerequisites": "Nameless One, ability to cast one or more occult rituals (<i>Pathfinder RPG Occult Adventures <\/i>208)",
+    "benefit": "While benefiting from the Nameless One feat, your masked identity affords you a greater spiritual connection when you act as the primary caster for an occult ritual you know. For any such occult ritual, you can attempt all required skill checks, even if untrained in such a skill. If you are trained in such a skill, you instead gain a +3 bonus on your skill check.",
+    "prerequisiteKeys": ["nameless one"]
+}

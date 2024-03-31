@@ -1,0 +1,10 @@
+{
+    "key": "adaptive fortune",
+    "name": "Adaptive Fortune",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Adaptive%20Fortune",
+    "source": ["Advanced Race Guide pg. 66"],
+    "description": "Your luck takes on almost legendary proportions.",
+    "prerequisites": "Fortunate One, adaptable luck racial trait, character level 10th, halfling",
+    "benefit": "Increase the number of times per day you can use the adaptable luck racial trait by 1. Furthermore, when you use adaptable luck, increase the luck bonus for each type of use by 2.",
+    "prerequisiteKeys": ["fortunate one"]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "blight survivalist",
+    "name": "Blight Survivalist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blight%20Survivalist",
+    "source": ["Pathfinder #119: Prisoners of the Blight pg. 61"],
+    "description": "You have learned to survive in dangerous environments.",
+    "prerequisites": "Skill Focus (Survival)",
+    "benefit": "You gain a +3 bonus on saving throws against environmental hazards and weather effects.",
+    "special": "If you have the favored terrain class feature and the blighted land being explored matches one of those terrains, you can choose to use your favored terrain bonus in place of the +3 bonus granted by this feat.",
+    "prerequisiteKeys": ["skill focus"]
+}

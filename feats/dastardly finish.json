@@ -1,0 +1,17 @@
+{
+    "key": "dastardly finish",
+    "name": "Dastardly Finish",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dastardly%20Finish",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "You can take advantage of an enemy’s debilitated state to attempt a coup de grace.",
+    "prerequisites": "Sneak attack +5d6",
+    "benefit": "You can deliver a coup de grace to cowering or stunned targets.",
+    "normal": "You can only coup de grace helpless targets.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a fullround action. This provokes attacks of opportunity twice—one for each coup de grace.",
+    "mythicSource": ["Mythic Adventures pg. 61"],
+    "mythicDescription": "You strike downed, dazed, and staggered opponents with deadly efficiency.",
+    "mythicPrerequisites": "Dastardly Finish",
+    "mythicBenefit": "You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier."
+}

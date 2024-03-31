@@ -1,0 +1,16 @@
+{
+    "key": "two-weapon feint",
+    "name": "Two-Weapon Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Feint",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 123"],
+    "description": "You use one weapon to distract your enemy while slipping another past his defenses.",
+    "prerequisites": "Dex 15, Int 13, Combat Expertise, Two-Weapon Fighting",
+    "benefit": "While using Two-Weapon Fighting to make melee attacks, you can forgo your first primary-hand melee attack to make a Bluff check to feint an opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When using Two-Weapon Fighting to make a melee attack, you can spend 5 stamina points to forgo any one of your melee attacks (not just your first primary-hand attack) to attempt a Bluff check to feint an opponent. This feint attempt occurs before all of your attacks, even if you give up a later attack.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "two-weapon fighting"
+    ]
+}

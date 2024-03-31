@@ -1,0 +1,10 @@
+{
+    "key": "distracting explosion",
+    "name": "Distracting Explosion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Distracting%20Explosion",
+    "source": ["Pathfinder #115: Trail of the Hunted pg. 74"],
+    "description": "Your bombs explode with such force that they throw targets off their guard and provides an opening for your allies.",
+    "prerequisites": "Bomb class feature, hobgoblin",
+    "benefit": "You can reduce your bomb damage by one die to give it the ability to distract the creature it strikes. If a creature takes a direct hit from your bomb, it must succeed at a Reflex saving throw against the bomb’s DC or be unable to make attacks of opportunity for 1 round. This is in addition to any other effects the bomb would normally have.",
+    "normal": "The target of a bomb does not get a saving throw to avoid the bomb’s effects."
+}

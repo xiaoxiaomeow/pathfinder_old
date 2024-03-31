@@ -1,0 +1,17 @@
+{
+    "key": "shaitan skin",
+    "name": "Shaitan Skin",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shaitan%20Skin",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 118"],
+    "description": "You can manipulate acid to shield yourself and disable your enemies.",
+    "prerequisites": "Con 15, Wis 15, Elemental Fist, Improved Unarmed Strike, Shaitan Style, base attack bonus +11 or monk level 9th",
+    "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using the Shaitan Style feat, you gain acid resistance equal to your base attack bonus, or your monk level plus BAB gained from levels in classes other than monk, whichever is higher. While denied your Dexterity bonus to AC you are also denied this resistance. Creatures that take acid damage from your Elemental Fist attack must succeed at a Reflex save (DC 10 + 1/2 your character level + your Wis modifier) or be staggered for 1 round.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "When you make an Elemental Fist<sup>APG<\/sup> attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid being staggered by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "elemental fist",
+        "improved unarmed strike",
+        "shaitan style"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "key": "scrutinize spell",
+    "name": "Scrutinize Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scrutinize%20Spell",
+    "source": ["Path of the Hellknight pg. 39"],
+    "description": "You can quickly size up spellcasters to gain an advantage when counterspelling their spells.",
+    "prerequisites": "Spellcraft 1 rank",
+    "benefit": "When you witness a creature casting a spell, you can attempt a Spellcraft check to determine what sort of spellcaster the target is—specifically, what the target’s class is. The DC of this skill check is equal to 10 + the spellcaster’s Hit Dice. If the target has levels in multiple spellcasting classes, succeeding at this check reveals what class spell list the spell came from. If the result of the check is high enough that it would identify the spell being cast (DC = 15 + the spell’s level), you also identify the spell."
+}

@@ -1,0 +1,19 @@
+{
+    "key": "moonlight stalker feint",
+    "name": "Moonlight Stalker Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Moonlight%20Stalker%20Feint",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 110"],
+    "description": "You strike through the shadows so quickly that your opponent can barely react to your attacks.",
+    "prerequisites": "Int 13, Blind-Fight, Combat Expertise, Improved Feint, Moonlight Stalker, Bluff 6 ranks, darkvision or low-light vision racial trait",
+    "benefit": "Once per round, against an opponent from whom you have concealment, you can spend a swift action to make a Bluff check to feint.",
+    "normal": "Feinting is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When you attempt a Bluff check to feint against an opponent from whom you have concealment, you can spend up to 5 stamina points to gain a bonus on the Bluff check equal to double the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "blind-fight",
+        "combat expertise",
+        "improved feint",
+        "moonlight stalker"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "deadhand initiate",
+    "name": "Deadhand Initiate",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadhand%20Initiate",
+    "descriptors": ["Combat"],
+    "source": ["Horror Adventures pg. 84"],
+    "description": "Your adulation of death not only shields you from your fears, it allows you to feed on them.",
+    "prerequisites": "Wis 19, Deadhand Style†, Improved Unarmed Strike, Knowledge (religion) 6 ranks, ki pool class feature, nongood alignment",
+    "benefit": "While using Deadhand Style, as long as you have at least 1 point in your ki pool, your bonus on saving throws against fear effects increases to +4, and the DC of Intimidate checks attempted against you increases by 8.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

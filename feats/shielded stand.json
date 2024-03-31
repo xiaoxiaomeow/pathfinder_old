@@ -1,0 +1,14 @@
+{
+    "key": "shielded stand",
+    "name": "Shielded Stand",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shielded%20Stand",
+    "descriptors":     [
+        "Combat",
+        "Shield Mastery"
+    ],
+    "source": ["Armor Master's Handbook pg. 19"],
+    "description": "You can cover an effort to regain your feet.",
+    "prerequisites": "Shield Focus, base attack bonus +3 or fighter level 1st",
+    "benefit": "As a swift action, you can prevent yourself or an adjacent ally from provoking an attack of opportunity when standing from prone or when picking up an object from the ground.",
+    "prerequisiteKeys": ["shield focus"]
+}

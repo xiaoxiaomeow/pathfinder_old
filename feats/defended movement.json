@@ -1,0 +1,17 @@
+{
+    "key": "defended movement",
+    "name": "Defended Movement",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Defended%20Movement",
+    "descriptors":     [
+        "Combat",
+        "Shield Mastery"
+    ],
+    "source": ["Armor Master's Handbook pg. 18"],
+    "description": "You deftly block attacks with your shield while moving through battle.",
+    "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th",
+    "benefit": "You gain a +2 bonus to your AC against attacks of opportunity.",
+    "special": "Defended Movement counts as both Dodge and Mobility for the purposes of feats that have Dodge and Mobility as prerequisites.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 3 stamina points as an immediate action to increase the bonus to your AC to +4 against a single attack. (See page 18.)",
+    "prerequisiteKeys": ["shield focus"]
+}

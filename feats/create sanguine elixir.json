@@ -1,0 +1,10 @@
+{
+    "key": "create sanguine elixir",
+    "name": "Create Sanguine Elixir",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Create%20Sanguine%20Elixir",
+    "source": ["Ultimate Magic pg. 148"],
+    "description": "You can condense a fraction of your bloodline’s power into a powerful elixir. ",
+    "prerequisites": "Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd",
+    "benefit": "Once per day, when you clear your mind to regain spell slots, you can create a sanguine elixir. When you do, pick one of your bloodline powers. You transfer that power into a small potion that any creature can drink to temporarily gain the benefit of your bloodline power. Creating a sanguine elixir takes 1 hour, and requires special oils and distillates worth 100 gp, and when you make the sanguine elixir, you lose access to the bloodline power until the next time you clear your mind to regain spell slots.",
+    "prerequisiteKeys": ["brew potion"]
+}

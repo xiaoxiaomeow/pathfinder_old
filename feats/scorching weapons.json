@@ -1,0 +1,12 @@
+{
+    "key": "scorching weapons",
+    "name": "Scorching Weapons",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scorching%20Weapons",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 130"],
+    "description": "Elemental fire stirs within your body, boiling your blood and rendering you resistant to flame.",
+    "prerequisites": "Ifrit",
+    "benefit": "You gain a +2 bonus on saving throws against fire attacks and spells with the fire descriptor or light descriptor. As a swift action, you can make up to two held manufactured metallic weapons become red-hot for 1 round, dealing 1 additional point of fire damage with a successful hit. This does not stack with other effects that add fire damage to weapons, such as the flaming weapon special ability.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you use this feat to make one or more metallic weapons red hot for 1 round, you can spend 2 stamina points to increase the additional fire damage to 2 points, and have that damage stack with other effects that add fire damage to a weapon (such as the flaming weapon special ability)."
+}

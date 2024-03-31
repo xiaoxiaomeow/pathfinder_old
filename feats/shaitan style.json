@@ -1,0 +1,19 @@
+{
+    "key": "shaitan style",
+    "name": "Shaitan Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shaitan%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 118"],
+    "description": "You strike with the caustic forces from within the earth.",
+    "prerequisites": "Con 13, Wis 15, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th",
+    "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using the Shaitan Style and Elemental Fist feats to deal acid damage, you gain a bonus on acid damage rolls equal to your Wisdom bonus. Further, if your Elemental Fist melee attack misses while you are using it to deal acid damage, you still deal 1d6 points of acid damage to your target.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "When you make an Elemental Fist<sup>APG<\/sup> attack to deal acid damage, you can spend up to 5 stamina points. When you do, you deal an amount of additional acid damage equal to double the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "elemental fist",
+        "improved unarmed strike"
+    ]
+}

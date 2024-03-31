@@ -1,0 +1,11 @@
+{
+    "key": "improved hunter's bond",
+    "name": "Improved Hunter's Bond",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Hunter's%20Bond",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Wilderness pg. 113"],
+    "description": "You deepen your connection to your allies, granting them higher bonuses.",
+    "prerequisites": "Hunter's bond (hunting companions) class feature, ranger level 9th",
+    "benefit": "When you activate hunter’s bond, you can grant your allies your full favored enemy bonus against a single target.",
+    "normal": "Your allies receive half your favored enemy bonus against a single target."
+}

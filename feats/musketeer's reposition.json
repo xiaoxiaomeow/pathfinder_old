@@ -1,0 +1,14 @@
+{
+    "key": "musketeer's reposition",
+    "name": "Musketeer's Reposition",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Musketeer's%20Reposition",
+    "descriptors":     [
+        "Combat",
+        "Grit"
+    ],
+    "source": ["Villain Codex pg. 56"],
+    "description": "You can knock a foe away with your two-handed firearm.",
+    "prerequisites": "Exotic Weapon Proficiency (firearms), gunslinger level 6th, pistol-whip deed",
+    "benefit": "When you hit an opponent with a two-handed firearm while using the pistol-whip deed, you can perform a reposition<sup>APG<\/sup> combat maneuver instead of knocking the target prone. However, you can’t reposition the foe closer to you. This combat maneuver does not provoke attacks of opportunity.",
+    "prerequisiteKeys": ["exotic weapon proficiency"]
+}

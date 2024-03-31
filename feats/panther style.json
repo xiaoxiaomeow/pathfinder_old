@@ -1,0 +1,19 @@
+{
+    "key": "panther style",
+    "name": "Panther Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Panther%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "You can strike back at enemies who attack you when you move.",
+    "prerequisites": "Wis 13, Combat Reflexes, Improved Unarmed Strike",
+    "benefit": "While using this style, when an opponent makes an attack of opportunity against you for moving through a threatened square, you can spend a swift action to make a retaliatory unarmed strike attack against that opponent. Your attack is resolved after the triggering attack of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "Whenever you provoke an attack of opportunity, you can spend 5 stamina points to make a retaliatory strike as a swift action.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "key": "underhanded teamwork",
+    "name": "Underhanded Teamwork",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Underhanded%20Teamwork",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Pathfinder Society Primer pg. 15"],
+    "description": "You and your allies know how to use coordinated maneuvers to set up an enemy with an unfair disadvantage.",
+    "prerequisites": "Combat Expertise, Improved Dirty Trick",
+    "benefit": "Whenever an ally who also has this feat performs a dirty trick combat maneuver against a foe you both threaten, you can use an immediate action to increase the inflicted condition’s duration by 1 round.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved dirty trick"
+    ]
+}

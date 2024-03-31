@@ -1,0 +1,11 @@
+{
+    "key": "flickering step",
+    "name": "Flickering Step",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Flickering%20Step",
+    "descriptors": ["Conduit"],
+    "source": ["Planar Adventures pg. 28"],
+    "description": "You can appear and disappear in the blink of an eye.",
+    "prerequisites": "Knowledge (planes) 9 ranks",
+    "benefit": "You can use <i>dimension door<\/i> as a spell-like ability with a caster level equal to your ranks in Knowledge (planes). You can’t teleport a distance greater than twice your base speed in this way, and you must have both line of sight and line of effect to your destination.",
+    "special": "A fighter with this feat treats Dimensional Agility and any feat that lists it as a prerequisite as though they were combat feats when selecting fighter bonus feats."
+}

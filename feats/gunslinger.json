@@ -1,0 +1,11 @@
+{
+    "key": "gunslinger",
+    "name": "Gunslinger",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gunslinger",
+    "source": ["Pathfinder Campaign Setting pg. 59"],
+    "description": "You are so skilled with firearms that you can fire one without letting down your guard.",
+    "prerequisites": "Base attack bonus +4, Weapon Focus (any firearm), proficiency with any firearm",
+    "benefit": "When you attack with a firearm, you do not provoke attacks of opportunity.",
+    "normal": "Attacking with any kind of ranged weapon in a threatened square provokes attacks of opportunity.",
+    "prerequisiteKeys": ["weapon focus"]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "whispered knowledge",
+    "name": "Whispered Knowledge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Whispered%20Knowledge",
+    "descriptors": ["Faction"],
+    "source": ["Faction Guide pg. 58"],
+    "description": "You possess secret knowledge that enhances and helps perfect your undead form.",
+    "prerequisites": "Corporeal undead, Whispering Way 15 TPA",
+    "benefit": "Choose one of the following secrets:",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, you learn a new secret."
+}

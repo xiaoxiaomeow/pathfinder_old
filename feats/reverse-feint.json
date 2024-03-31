@@ -1,0 +1,13 @@
+{
+    "key": "reverse-feint",
+    "name": "Reverse-Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reverse-Feint",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 142"],
+    "description": "You can goad an opponent into attacking you in order to make your counter attack all the more powerful.",
+    "prerequisites": "Toughness, base attack bonus +1, orc",
+    "benefit": "As a move action, you can leave a gap in your defenses for one adjacent opponent to use. If the opponent attacks you on its next turn, it gains a +4 bonus on its attack roll. Whether or not the opponent successfully hits, you may attack it as an immediate action with a single melee attack, gaining a +2 bonus on your attack roll.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "You can spend 2 stamina points to make the attack granted by this feat as a free action rather than an immediate action. You can still make the attack only once per use of this feat.",
+    "prerequisiteKeys": ["toughness"]
+}

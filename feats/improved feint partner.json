@@ -1,0 +1,19 @@
+{
+    "key": "improved feint partner",
+    "name": "Improved Feint Partner",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Feint%20Partner",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 105"],
+    "description": "Knowledge of your companions’ tricks and techniques allow you to take even greater advantage of your allies’ feints.",
+    "prerequisites": "Bluff 1 rank, Combat Reflexes, Feint Partner, base attack bonus +6",
+    "benefit": "Whenever an ally who also has this feat successfully feints against an opponent, that opponent provokes an attack of opportunity from you.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "When you feint, you can spend 5 stamina points for each additional ally to grant an attack of opportunity to any number of additional allies—not just those with this feat.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "feint partner"
+    ]
+}

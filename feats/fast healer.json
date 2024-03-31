@@ -1,0 +1,13 @@
+{
+    "key": "fast healer",
+    "name": "Fast Healer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fast%20Healer",
+    "source": ["Advanced Player's Guide pg. 160"],
+    "description": "You benefit greatly from your healing, be it from spells or natural healing.",
+    "prerequisites": "Con 13, Diehard, Endurance",
+    "benefit": "When you regain hit points by resting or through magical healing, you recover additional hit points equal to half your Constitution modifier (minimum +1).",
+    "prerequisiteKeys":     [
+        "diehard",
+        "endurance"
+    ]
+}

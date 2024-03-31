@@ -1,0 +1,19 @@
+{
+    "key": "improved snap shot",
+    "name": "Improved Snap Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Snap%20Shot",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 106"],
+    "description": "You can take advantage of your opponent’s vulnerabilities from a greater distance, and without exposing yourself.",
+    "prerequisites": "Dex 15, Point-Blank Shot, Rapid Shot, Snap Shot, Weapon Focus, base attack bonus +9",
+    "benefit": "You threaten an additional 5 feet with Snap Shot.",
+    "normal": "Making a ranged attack provokes attacks of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "At the end of your turn, you can spend 5 stamina points to threaten an additional 15 feet with Snap ShotAPG (instead of an additional 10 feet) until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.",
+    "prerequisiteKeys":     [
+        "point-blank shot",
+        "rapid shot",
+        "snap shot",
+        "weapon focus"
+    ]
+}

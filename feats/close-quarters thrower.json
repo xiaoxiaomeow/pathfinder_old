@@ -1,0 +1,14 @@
+{
+    "key": "close-quarters thrower",
+    "name": "Close-Quarters Thrower",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Close-Quarters%20Thrower",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 92"],
+    "description": "You are agile enough to avoid melee attacks while throwing weapons or bombs.",
+    "prerequisites": "Dex 13, Dodge, Weapon Focus with selected thrown weapon",
+    "benefit": "Choose a type of thrown weapon. You do not provoke attacks of opportunity for making ranged attacks using the selected weapon. If you are an alchemist, and you select this feat and choose alchemist bombs, you do not provoke attacks of opportunity for the process of drawing components of, creating, and throwing a bomb.",
+    "normal": "Making a ranged attack provokes attacks of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When throwing any thrown weapon, you can spend 2 stamina points. If you do, you do not provoke attacks of opportunity for that throw.",
+    "prerequisiteKeys": ["dodge"]
+}

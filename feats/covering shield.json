@@ -1,0 +1,16 @@
+{
+    "key": "covering shield",
+    "name": "Covering Shield",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Covering%20Shield",
+    "descriptors": ["Combat"],
+    "source": ["Dragonslayer's Handbook pg. 24"],
+    "description": "You can use your shield to protect your most vulnerable parts from area effects.",
+    "prerequisites": "Dex 13, Shield Focus, Shield Proficiency",
+    "benefit": "While using a shield of the type to which your Shield Focus feat applies, you gain a bonus on Reflex saves against area of effect attacks equal to your shield’s base bonus to armor class plus any bonuses granted by feats or class abilities. This does not transfer any enhancement bonuses on a shield to Reflex saves.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 3 stamina points to also gain the enhancement bonus of your shield on your Reflex save against one attack or hazard. (<i>Dragonslayer’s Handbook 24<\/i>)",
+    "prerequisiteKeys":     [
+        "shield focus",
+        "shield proficiency"
+    ]
+}

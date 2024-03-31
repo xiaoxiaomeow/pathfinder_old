@@ -1,0 +1,18 @@
+{
+    "key": "dragon roar",
+    "name": "Dragon Roar",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Roar",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 98"],
+    "description": "The spirit of the dragon wells up inside you and bursts forth in a mighty roar.",
+    "prerequisites": "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 8 ranks",
+    "benefit": "You gain one additional Stunning Fist attempt per day. While using Dragon Style, as a standard action you can expend two Stunning Fist attempts to unleash a concussive roar in a 15-foot cone. Creatures caught in the cone take your unarmed strike damage and become shaken for 1d4 rounds. A successful Will save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from being shaken.",
+    "special": "If you have the Elemental Fist feat (<i>Advanced Player’s Guide <\/i>158), you can expend a daily use of that feat to deal your Elemental Fist damage to those caught in the cone. This damage is not halved even on a save.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "Instead of spending two uses of Stunning Fist to unleash a concussive roar, you can spend one use of Stunning Fist and 5 stamina points to do so.",
+    "prerequisiteKeys":     [
+        "dragon style",
+        "improved unarmed strike",
+        "stunning fist"
+    ]
+}

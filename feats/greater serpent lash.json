@@ -1,0 +1,11 @@
+{
+    "key": "greater serpent lash",
+    "name": "Greater Serpent Lash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Serpent%20Lash",
+    "descriptors": ["Combat"],
+    "source": ["Rival Guide pg. 23"],
+    "description": "Your ability to disarm and pull foes off balance with your whip is impressive.",
+    "prerequisites": "Serpent Lash, base attack bonus +4",
+    "benefit": "When you make a successful disarm or trip maneuver using the Serpent Lash feat, you can make your additional disarm or trip attempt against any target within your whip’s reach. With a reposition maneuver, you can move the target creature to any point within your whip’s reach.",
+    "prerequisiteKeys": ["serpent lash"]
+}

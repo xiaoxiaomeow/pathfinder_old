@@ -1,0 +1,17 @@
+{
+    "key": "crippling critical",
+    "name": "Crippling Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crippling%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "You are able to maim a target and hinder its movement. ",
+    "prerequisites": "Critical Focus, base attack bonus +13",
+    "benefit": "Whenever you score a critical hit against an opponent, its speed is halved for 1 minute. A successful Fortitude save reduces this duration to 1d4 rounds. The DC of this save is equal to 10 + your base attack bonus. Against creatures with multiple types of movement, you must choose which movement type to affect. A flying creature hit by this attack must make a DC 10 Fly check to remain airborne, and has its maneuverability reduced by one step.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "When you confirm a critical hit and attempt to cripple an opponent with this feat, you can spend up to 5 stamina points to increase the DC of this feat’s saving throw by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["critical focus"]
+}

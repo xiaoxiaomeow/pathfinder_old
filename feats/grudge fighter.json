@@ -1,0 +1,12 @@
+{
+    "key": "grudge fighter",
+    "name": "Grudge Fighter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Grudge%20Fighter",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 141"],
+    "description": "You feel great anger at anyone who dares to attack you, and this fury makes your own attacks that much stronger.",
+    "prerequisites": "Orc",
+    "benefit": "You gain a +1 morale bonus on attack and damage rolls made against any creature that attacked you in the current combat.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When you hit a creature that attacked you in the current combat, you can spend up to 2 stamina points to deal an amount of extra damage to it equal to double the number of stamina points you spent."
+}

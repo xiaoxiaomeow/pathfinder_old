@@ -1,0 +1,11 @@
+{
+    "key": "ineffable count of the clock",
+    "name": "Ineffable Count of the Clock",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ineffable%20Count%20of%20the%20Clock",
+    "descriptors": ["Gathlain Court Title"],
+    "source": ["Plane-Hopper's Handbook pg. 22"],
+    "description": "You realize that the endless march of time is more of a drunkard’s lurch, and this grants you status in the eyes of the Many.",
+    "prerequisites": "Fey creature type or Fey Obedience (Shyka), you must have either visited or interacted with an outsider from the Dimension of Time",
+    "benefit": "Three times per day as a free action, you can increase your speed by any amount up to your base speed until the end of your turn. On the subsequent round, your speed is reduced by the same amount.",
+    "prerequisiteKeys": ["fey obedience"]
+}

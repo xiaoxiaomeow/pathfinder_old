@@ -1,0 +1,9 @@
+{
+    "key": "destructive dispel",
+    "name": "Destructive Dispel",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Destructive%20Dispel",
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "When you dispel an enemy’s magical defenses, those defenses crash down with debilitating effects.",
+    "prerequisites": "Ability to cast <i>dispel magic <\/i>or <i>greater dispel magic<\/i>, caster level 11th",
+    "benefit": "When you successfully make a targeted dispel check against an opponent, that opponent must succeed at a Fortitude save (DC equals the DC of the spell used to dispel) or be stunned until the start of your next turn. If the save succeeds, the opponent is instead sickened until the start of your next turn."
+}

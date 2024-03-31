@@ -1,0 +1,14 @@
+{
+    "key": "greater blind-fight",
+    "name": "Greater Blind-Fight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Blind-Fight",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 161"],
+    "description": "Your enemies cannot hide from you.",
+    "prerequisites": "Perception 15 ranks, Improved Blind-Fight",
+    "benefit": "Your melee attacks ignore the miss chance for less than total concealment, and you treat opponents with total concealment as if they had normal concealment (20% miss chance instead of 50%). You may still reroll a miss chance percentile roll as normal.",
+    "special": "The Greater Blind-Fight feat is of no use against a character who is the subject of a blink spell.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "When you attack a creature subject to the <i>blink<\/i> spell, you can spend 5 stamina points. If you do, your Greater Blind-Fight feat works against that creature until the beginning of your next turn, either treating the <i>blink<\/i> miss chance as 20% and allowing a reroll or ignoring the blink miss chance if you have a way to see or strike ethereal creatures.",
+    "prerequisiteKeys": ["improved blind-fight"]
+}

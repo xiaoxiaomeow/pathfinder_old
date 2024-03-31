@@ -1,0 +1,10 @@
+{
+    "key": "skeleton summoner",
+    "name": "Skeleton Summoner",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skeleton%20Summoner",
+    "source": ["Ultimate Magic pg. 155"],
+    "description": "The walking dead respond to your call.",
+    "prerequisites": "Spell Focus (necromancy), ability to cast <i>summon monster<\/i>",
+    "benefit": "Add “human skeleton” to the list of creatures you can summon with <i>summon monster I <\/i>and “human skeletal champion” to the list of creatures you can summon with <i>summon monster III<\/i>.",
+    "prerequisiteKeys": ["spell focus"]
+}

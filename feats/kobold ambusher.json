@@ -1,0 +1,13 @@
+{
+    "key": "kobold ambusher",
+    "name": "Kobold Ambusher",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kobold%20Ambusher",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 137"],
+    "description": "You are adept at moving fast and staying hidden.",
+    "prerequisites": "Stealth 4 ranks, kobold",
+    "benefit": "You take no penalty on Stealth checks when you move up to your full speed. You can use the run or charge action and remain hidden, taking a –10 penalty on the check to do so.",
+    "normal": "When moving greater than half speed up to your full speed, you take a –5 penalty on Stealth checks. When you are able to run or charge while using Stealth, you take a –20 penalty on the Stealth check.",
+    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaText": "When you use the run or charge action and wish to remain hidden, you can spend 2 stamina points to decrease the penalty for doing so to –5."
+}

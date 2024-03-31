@@ -1,0 +1,11 @@
+{
+    "key": "hover",
+    "name": "Hover",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hover",
+    "descriptors": ["Monster"],
+    "source": ["Pathfinder RPG Bestiary pg. 315"],
+    "description": "This creature can hover in place with ease and can kick up clouds of dust and debris.",
+    "prerequisites": "Fly speed",
+    "benefit": "A creature with this feat can halt its movement while flying, allowing it to hover without needing to make a Fly skill check.",
+    "normal": "Without this feat, a creature must make a Fly skill check to hover and the creature does not create a cloud of debris while hovering."
+}

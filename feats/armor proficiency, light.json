@@ -1,0 +1,15 @@
+{
+    "key": "armor proficiency, light",
+    "name": "Armor Proficiency, Light",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Light",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "You are skilled at wearing light armor.",
+    "benefit": "When you wear a type of armor with which you are proficient, the armor check penalty for that armor applies only to Dexterity- and Strength-based skill checks.",
+    "normal": "A character who is wearing armor with which he is not proficient applies its armor check penalty to attack rolls and to all skill checks that involve moving.",
+    "special": "All characters except monks, sorcerers, and wizards automatically have Light Armor Proficiency as a bonus feat. They need not select it.",
+    "name_zh": "擅长轻型盔甲",
+    "description_zh": "你对于穿戴轻型盔甲颇有心得。",
+    "benefit_zh": "当你穿戴所擅长的盔甲时，只有基于敏捷或力量的技能才会受到防具检定减值。",
+    "special_zh": "除了武僧，术士和法师以外的所有角色都能自动学会“擅长轻型盔甲”作为奖励专长，他们无需选择这个专长。"
+}

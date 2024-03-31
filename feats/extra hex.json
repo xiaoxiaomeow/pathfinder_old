@@ -1,0 +1,13 @@
+{
+    "key": "extra hex",
+    "name": "Extra Hex",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Hex",
+    "source":     [
+        "Advanced Class Guide pg. 147",
+        "Advanced Player's Guide pg. 160"
+    ],
+    "description": "You have learned the secrets of a new hex.",
+    "prerequisites": "Hex class feature",
+    "benefit": "You gain one additional hex. You must meet the prerequisites for this hex. If you are a shaman, it must be a hex granted by your spirit rather than one from a wandering spirit.",
+    "special": "You can take this feat multiple times. Each time you do, you gain another hex."
+}

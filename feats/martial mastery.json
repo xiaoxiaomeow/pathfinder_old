@@ -1,0 +1,13 @@
+{
+    "key": "martial mastery",
+    "name": "Martial Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Martial%20Mastery",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 78"],
+    "description": "You broaden your study of weapons to encompass multiple similar weapons.",
+    "prerequisites": "Martial Versatility, fighter level 16th, human",
+    "benefit": "Each combat feat you have that applies to a specific weapon (e.g., Weapon Focus) can be used with all weapons in the same weapon group.",
+    "staminaSource": ["Pathfinder Unchained pg. 126"],
+    "staminaText": "At the start of your turn, you can spend 5 stamina points to apply the feats to another weapon that is not of the same weapon group. You gain this benefit until the start of your next turn.",
+    "prerequisiteKeys": ["martial versatility"]
+}

@@ -1,0 +1,14 @@
+{
+    "key": "stick-fighting maneuver",
+    "name": "Stick-Fighting Maneuver",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stick-Fighting%20Maneuver",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 12"],
+    "description": "Your attacks with sticks have become blindingly fast, and you can throw in a combat maneuver between your attacks.",
+    "prerequisites": "Stick-Fighting Counter, Stick-Fighting Style, base attack bonus +6",
+    "benefit": "When making a full attack using only clubs, a quarterstaff, dan bongs, saps, or tonfas, you can perform a combat maneuver as an extra attack using your full base attack bonus.",
+    "prerequisiteKeys":     [
+        "stick-fighting counter",
+        "stick-fighting style"
+    ]
+}

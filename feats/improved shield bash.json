@@ -1,0 +1,18 @@
+{
+    "key": "improved shield bash",
+    "name": "Improved Shield Bash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Shield%20Bash",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 128"],
+    "description": "You can protect yourself with your shield, even if you use it to attack.",
+    "prerequisites": "Shield Proficiency",
+    "benefit": "When you perform a shield bash, you may still apply the shield's shield bonus to your AC.",
+    "normal": "Without this feat, a character that performs a shield bash loses the shield's shield bonus to AC until his next turn (see Equipment).",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "When attempting a shield bash attack, you can spend 5 stamina points to either wield a heavy shield as if it were a light weapon or gain a +2 bonus on the shield bash attack roll with a light shield. Whichever option you choose, the effect lasts until the start of your next turn.",
+    "prerequisiteKeys": ["shield proficiency"],
+    "name_zh": "精通盾击",
+    "description_zh": "即便你使用盾牌猛击，你还是可以正常使用它保护自身。",
+    "prerequisites_zh": "擅长盾牌。",
+    "benefit_zh": "当你使用盾牌猛击时，其对AC的盾牌加值依旧适用。"
+}

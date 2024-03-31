@@ -1,0 +1,13 @@
+{
+    "key": "devastating strike",
+    "name": "Devastating Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Devastating%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "Pitting all of your strength and resolve against your enemy, you deliver a strike that is impossible to ignore.",
+    "prerequisites": "Vital Strike, base attack bonus +9",
+    "benefit": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you gain a +2 bonus on each extra weapon damage dice roll those feats grant (+6 maximum). This bonus damage is multiplied on a critical hit.",
+    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaText": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, you can spend 5 stamina points to increase the bonus damage to +4 on each extra weapon damage die. For weapons with more than one damage die, count all of the weapon’s base damage dice together as one set.",
+    "prerequisiteKeys": ["vital strike"]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "rebounding leap",
+    "name": "Rebounding Leap",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rebounding%20Leap",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 115"],
+    "description": "Your riding and lancing expertise allows you to enter and leave the saddle with great speed.",
+    "prerequisites": "Leaping lance class feature, Acrobatics 5 ranks, Ride 11 ranks",
+    "benefit": "When you succeed at the Acrobatics check to jump as part of your leaping lance class feature, you can remount your steed as a swift action.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When attempting an Acrobatics check to jump as part of your leaping lance class feature, you can spend up to 5 stamina points to gain a bonus on that check equal to the number of stamina points you spent."
+}

@@ -1,0 +1,13 @@
+{
+    "key": "trick riding",
+    "name": "Trick Riding",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trick%20Riding",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 173"],
+    "description": "You are not only skilled at controlling a horse in combat; you can make it look like art. ",
+    "prerequisites": "Ride 9 ranks, Mounted Combat",
+    "benefit": "While wearing light or no armor, you do not need to make Ride skill checks for any task listed in the Ride skill with a DC of 15 or lower. You do not take a –5 penalty for riding a mount bareback. You can make a check using Mounted Combat to negate a hit on your mount twice per round instead of just once.",
+    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaText": "As long as you have 1 stamina point in your stamina pool, you gain the effects of this feat when wearing medium armor.",
+    "prerequisiteKeys": ["mounted combat"]
+}

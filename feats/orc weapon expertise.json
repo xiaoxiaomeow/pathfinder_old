@@ -1,0 +1,13 @@
+{
+    "key": "orc weapon expertise",
+    "name": "Orc Weapon Expertise",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Orc%20Weapon%20Expertise",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 142"],
+    "description": "You can do more with the weapons orcs favor the most.",
+    "prerequisites": "Base attack bonus +1, orc",
+    "benefit": "When you take this feat, choose one of the benefits below. Whenever you wield a weapon that has \"orc\" in its name, you gain the benefit you chose so long as you are actually proficient with that weapon.",
+    "special": "You can gain this feat multiple times. Each time you take this feat, you must choose a different benefit. You may only apply one of these benefits per round (chosen as a free action at the start of your turn).",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "When wielding a weapon with “orc” in its name that you are proficient with, you can spend 5 stamina points to gain one of the benefits for this feat that you don’t already have for 1 minute."
+}

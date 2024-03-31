@@ -1,0 +1,17 @@
+{
+    "key": "blood frenzy assault",
+    "name": "Blood Frenzy Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Frenzy%20Assault",
+    "descriptors": ["Combat"],
+    "source": ["Heroes from the Fringe pg. 31"],
+    "description": "The scent of blood intensifies your fury, and every wound you tear into your foes increases both your drive and ability to wreak havoc.",
+    "prerequisites": "Str 17, Blood Frenzy Strike, Blood Frenzy Style, Bloody Assault, Improved Unarmed Strike, Power Attack, base attack bonus +6, aquatic subtype",
+    "benefit": "While you are using Blood Frenzy Style, when you make a full attack, you can make an additional unarmed or natural weapon attack for each enemy within your reach that is affected by a bleed effect. Until your next turn, you take a –2 penalty to AC for each additional attack gained in this way. In addition, the bleed damage your unarmed strikes deal from Blood Frenzy Strike increases to 2d6 points of bleed damage.",
+    "prerequisiteKeys":     [
+        "blood frenzy strike",
+        "blood frenzy style",
+        "bloody assault",
+        "improved unarmed strike",
+        "power attack"
+    ]
+}

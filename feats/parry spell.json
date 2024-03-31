@@ -1,0 +1,10 @@
+{
+    "key": "parry spell",
+    "name": "Parry Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Parry%20Spell",
+    "source": ["Advanced Player's Guide pg. 166"],
+    "description": "You can throw an enemy spell back at its caster.",
+    "prerequisites": "Spellcraft 15 ranks, Improved Counterspell",
+    "benefit": "Whenever you successfully counter a spell, it returns back to its caster. This works exactly like the spell turning spell.",
+    "prerequisiteKeys": ["improved counterspell"]
+}

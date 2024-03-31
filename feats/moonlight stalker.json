@@ -1,0 +1,16 @@
+{
+    "key": "moonlight stalker",
+    "name": "Moonlight Stalker",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Moonlight%20Stalker",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 110"],
+    "description": "You are adept at using shadows to conceal your attacks.",
+    "prerequisites": "Int 13, Blind-Fight, Combat Expertise, Bluff 3 ranks, darkvision or low-light vision racial trait",
+    "benefit": "While you have concealment from an opponent, you gain a +2 bonus on attack and damage rolls against that opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When you have total concealment from an opponent, you can spend 2 stamina points to increase your bonuses on attack and damage rolls from this feat to +4.",
+    "prerequisiteKeys":     [
+        "blind-fight",
+        "combat expertise"
+    ]
+}

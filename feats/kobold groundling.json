@@ -1,0 +1,14 @@
+{
+    "key": "kobold groundling",
+    "name": "Kobold Groundling",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kobold%20Groundling",
+    "descriptors": ["Combat"],
+    "source": ["Kobolds of Golarion pg. 25"],
+    "description": "Your small size grants you superiority over grounded foes.",
+    "prerequisites": "Combat Expertise, Kobold Style, Small size or smaller",
+    "benefit": "Prone creatures are denied their Dexterity bonus to AC against your attacks.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "kobold style"
+    ]
+}

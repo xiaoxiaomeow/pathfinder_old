@@ -1,0 +1,14 @@
+{
+    "key": "shark tear",
+    "name": "Shark Tear",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shark%20Tear",
+    "descriptors": ["Combat"],
+    "source": ["Aquatic Adventures pg. 59"],
+    "description": "You tear into bleeding foes and can smell their blood in the water.",
+    "prerequisites": "Improved Unarmed Strike, Shark Style, Swim 6 ranks, base attack bonus +6 or monk level 6th",
+    "benefit": "While in Shark Style, you gain scent while in water, but only against bleeding creatures. You also gain a +1 bonus on attack and damage rolls against bleeding creatures.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "shark style"
+    ]
+}

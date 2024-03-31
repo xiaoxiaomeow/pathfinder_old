@@ -1,0 +1,10 @@
+{
+    "key": "master of knowledge",
+    "name": "Master of Knowledge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20of%20Knowledge",
+    "source": ["Inner Sea Gods pg. 213"],
+    "description": "In times of need, you have the answers.",
+    "prerequisites": "Int 17, Skill Focus (Knowledge [any]), worshiper of Irori",
+    "benefit": "Choose a single Knowledge skill with which you have Skill Focus. Once per day, when you wish to make a check with that Knowledge skill, you need not roll, and may treat the result as if you had rolled a natural 20 instead.",
+    "prerequisiteKeys": ["skill focus"]
+}

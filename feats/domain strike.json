@@ -1,0 +1,14 @@
+{
+    "key": "domain strike",
+    "name": "Domain Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Domain%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 98"],
+    "description": "You unleash a domain power upon your enemy as part of your unarmed strike.",
+    "prerequisites": "Domain class feature, Improved Unarmed Strike",
+    "benefit": "When you gain this feat, choose one domain-granted power that you can use to affect no more than one opponent. If you make a successful unarmed strike against an opponent, in addition to dealing your unarmed strike damage, you can use a swift action to deliver the effects of the chosen granted power to that opponent. Doing so provokes no attacks of opportunity.",
+    "special": "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying domain power.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "You can spend 2 stamina points to apply the effects of your chosen domain power as a free action instead of a swift action.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

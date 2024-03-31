@@ -1,0 +1,12 @@
+{
+    "key": "rending fury",
+    "name": "Rending Fury",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Fury",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 116"],
+    "description": "You easily tear your enemies limb from limb with your natural attacks.",
+    "prerequisites": "Base attack bonus +6, rend special attack",
+    "benefit": "You deal rend damage if you hit with half the normal natural attacks your rend requires. For example, a troll that has this feat can rend when it hits with one claw attack, while a girallon that has this feat must hit one target with two claw attacks to rend. You can only make this rend attack once per round.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you make a rend attack, you can spend up to 5 stamina points to deal an amount of additional damage equal to double the number of stamina points you spent."
+}

@@ -1,0 +1,10 @@
+{
+    "key": "relentless butcher",
+    "name": "Relentless Butcher",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Relentless%20Butcher",
+    "descriptors": ["Achievement"],
+    "source": ["Legacy of Fire Player's Guide pg. 29"],
+    "description": "You revel in the glory of dismemberment and maiming.",
+    "prerequisites": "Confirm at least 50 critical hits",
+    "benefit": "When you confirm a critical hit, that opponent must make a Fortitude save (DC = 10 + your Strength or Dexterity modifier) or be stunned for 1 round."
+}

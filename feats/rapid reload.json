@@ -1,0 +1,28 @@
+{
+    "key": "rapid reload",
+    "name": "Rapid Reload",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rapid%20Reload",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Ultimate Combat pg. 115",
+        "Inner Sea World Guide pg. 288",
+        "PRPG Core Rulebook pg. 132"
+    ],
+    "description": "Choose a type of crossbow (hand, light, heavy) or a single type of one-handed or two-handed firearm that you are proficient with. You can reload such a weapon quickly.",
+    "prerequisites": "Weapon Proficiency (crossbow type chosen) or Exotic Weapon Proficiency (firearm)",
+    "benefit": "The time required for you to reload your chosen type of weapon is reduced to a free action (for a hand or light crossbow), a move action (for heavy crossbow or one-handed firearm), or a standard action (two-handed firearm). Reloading a crossbow or firearm still provokes attacks of opportunity.",
+    "normal": "A character without this feat needs a move action to reload a hand or light crossbow, a standard action to reload a one-handed firearm, or a full-round action to load a heavy crossbow or a two-handed firearm.",
+    "special": "You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow or a new type of firearm.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When reloading a crossbow or firearm, you can spend 5 stamina points to reduce the reload time by one step; a standard action becomes a move action, a move action becomes a swift action, and a swift action becomes a free action. The weapon you are reloading doesn’t need to be the one you chose when you took this feat. If the weapon already has a reload time of one free action, when you make a full attack with the weapon, you can spend 2 stamina points to gain a +1 bonus on all damage rolls with the weapon during that full attack.",
+    "mythicSource": ["Mythic Adventures pg. 72"],
+    "mythicDescription": "You can reload any type of weapon with astounding speed.",
+    "mythicPrerequisites": "Rapid Reload",
+    "mythicBenefit": "You gain the benefits of Rapid Reload with all crossbows and firearms, not just the one you originally chose when you gained that feat. As a swift action, you can expend one use of mythic power to gain the ability to reload crossbows and firearms without provoking attacks of opportunity for 1 minute.",
+    "prerequisiteKeys": ["exotic weapon proficiency"],
+    "name_zh": "快速装填",
+    "description_zh": "选择一种弩（手弩、轻弩或重弩）。你能够快速装填该武器。",
+    "prerequisites_zh": "武器擅长（选定类型的弩）。",
+    "benefit_zh": "你装填选定类型的弩所需的时间降为自由动作（对手弩或轻弩而言）或移动动作（对重弩而言）。装填弩仍然会触发藉机攻击。如果你为手弩或轻弩选择了此专长，全力攻击时你能像使用弓一样进行多次射击。",
+    "special_zh": "你能够多次选取本专长。每次你获得此专长时，它作用于一种新类型的弩。"
+}

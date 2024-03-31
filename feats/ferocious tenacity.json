@@ -1,0 +1,15 @@
+{
+    "key": "ferocious tenacity",
+    "name": "Ferocious Tenacity",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Tenacity",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Advanced Race Guide pg. 57",
+        "Orcs of Golarion pg. 24"
+    ],
+    "description": "You spit in the face of death.",
+    "prerequisites": "Ferocity racial trait, half-orc or orc, rage class feature",
+    "benefit": "Once per day when raging, if you are hit by an attack that would deal enough hit points of damage to kill you (negative hit points equal to your Constitution score), as an immediate action you may expend 1 or more rounds of rage to negate some of this damage and keep yourself alive. Each round of rage you spend reduces the attack’s damage by 1 point, but cannot reduce the damage taken below 1 hit point.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When using this feat, you can spend 2 stamina points in place of 1 round of rage to gain the same effects."
+}

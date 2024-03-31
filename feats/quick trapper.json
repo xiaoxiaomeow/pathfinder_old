@@ -1,0 +1,10 @@
+{
+    "key": "quick trapper",
+    "name": "Quick Trapper",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Trapper",
+    "source": ["Pathfinder #116: Fangs of War pg. 67"],
+    "description": "Your trap-making proficiency improves greatly.",
+    "prerequisites": "Learn Ranger Trap or trap class feature, Survival 5 ranks",
+    "benefit": "When setting a ranger trap (<i>Pathfinder RPG Ultimate Magic<\/i> 64), you can do so as a standard action rather than a full-round action. If you do so, the trap DC is reduced by 5.",
+    "prerequisiteKeys": ["learn ranger trap"]
+}

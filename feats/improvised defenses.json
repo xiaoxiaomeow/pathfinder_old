@@ -1,0 +1,14 @@
+{
+    "key": "improvised defenses",
+    "name": "Improvised Defenses",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improvised%20Defenses",
+    "descriptors": ["Combat"],
+    "source": ["Martial Arts Handbook pg. 9"],
+    "description": "You can deftly defend yourself with makeshift weapons.",
+    "prerequisites": "Catch Off-Guard or Throw Anything, base attack bonus +1",
+    "benefit": "You gain a +1 shield bonus to AC when you are wielding an improvised weapon and have your other hand free.",
+    "prerequisiteKeys":     [
+        "catch off-guard",
+        "throw anything"
+    ]
+}

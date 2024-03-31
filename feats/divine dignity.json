@@ -1,0 +1,11 @@
+{
+    "key": "divine dignity",
+    "name": "Divine Dignity",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Dignity",
+    "source": ["Inner Sea Gods pg. 210"],
+    "description": "Secrets of the First Vault help you perfect your spellcasting.",
+    "prerequisites": "Combat Casting, ability to cast divine spells, worshiper of Abadar",
+    "benefit": "Three times per day, as a free action when you cast a harmless divine spell or a domain spell, you can choose for the casting to not provoke attacks of opportunity.",
+    "special": "You can take this feat multiple times. When you do, you can use this feat three more times per day.",
+    "prerequisiteKeys": ["combat casting"]
+}

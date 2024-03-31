@@ -1,0 +1,21 @@
+{
+    "key": "unblinking flame fist",
+    "name": "Unblinking Flame Fist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unblinking%20Flame%20Fist",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Adventurer's Guide pg. 106",
+        "Inner Sea Combat pg. 13"
+    ],
+    "description": "You can exploit the weaknesses in your opponents’ defenses, like a flame seeking fuel to consume.",
+    "prerequisites": "Int 13; Wis 13; Combat Expertise; Perfect Style; Stunning Fist; Unblinking Flame Feint; base attack bonus +13 or monk level 13th",
+    "benefit": "When using Perfect Style, the save DC of your stunning fist attack increases by 2 against flat-footed targets. When you spend 1 ki point to gain the benefits of Improved Feint for 1 round, you can attempt a feint as part of your movement when charging.",
+    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaText": "You can spend 2 stamina points instead of 1 ki point when using Unblinking Flame Fist.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "perfect style",
+        "stunning fist",
+        "unblinking flame feint"
+    ]
+}

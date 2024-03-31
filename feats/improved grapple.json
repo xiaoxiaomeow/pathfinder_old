@@ -1,0 +1,22 @@
+{
+    "key": "improved grapple",
+    "name": "Improved Grapple",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Grapple",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 127"],
+    "description": "You are skilled at grappling opponents.",
+    "prerequisites": "Dex 13, Improved Unarmed Strike",
+    "benefit": "You do not provoke an attack of opportunity when performing a grapple combat maneuver. In addition, you receive a +2 bonus on checks made to grapple a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to grapple you.",
+    "normal": "You provoke an attack of opportunity when performing a grapple combat maneuver.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "When you are the target of a grapple combat maneuver to initiate or maintain a grapple, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that grapple attempt increases by that number.",
+    "mythicSource": ["Mythic Adventures pg. 67"],
+    "mythicDescription": "Your wrestling moves are difficult to counter.",
+    "mythicPrerequisites": "Improved Grapple",
+    "mythicBenefit": "You gain a bonus equal to half your tier on checks to grapple, and to your CMD when an opponent tries to grapple you. These bonuses stack with those granted by Improved Grapple.",
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "精通擒抱",
+    "description_zh": "你擅长于擒抱住对手。",
+    "prerequisites_zh": "敏捷13，精通徒手打击。",
+    "benefit_zh": "你使用擒抱战技时不会引发藉机攻击。此外你在擒抱检定上获得+2加值，同时在对抗擒抱的战技防御上获得+2加值。"
+}

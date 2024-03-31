@@ -1,0 +1,15 @@
+{
+    "key": "wheeling charge",
+    "name": "Wheeling Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wheeling%20Charge",
+    "descriptors": ["Combat"],
+    "source": ["Cities of Golarion pg. 50"],
+    "description": "Your mount moves with ease across battlefields.",
+    "prerequisites": "Mounted Combat, Ride-By Attack, Ride 5 ranks, Lastwall affinity",
+    "benefit": "When you are mounted and use the charge action, your mount can make one turn of up to 90 degrees as part of the move, as long as each part of the move is at least 10 feet. You may make an attack during any part of this move. Your total movement for the round can’t exceed double your mounted speed. Allied creatures do not impede your charge, though you cannot attack from or end your move in an ally’s space.",
+    "normal": "You cannot turn when making a charge.",
+    "prerequisiteKeys":     [
+        "mounted combat",
+        "ride-by attack"
+    ]
+}

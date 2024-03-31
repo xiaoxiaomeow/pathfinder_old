@@ -1,0 +1,12 @@
+{
+    "key": "deadly finish",
+    "name": "Deadly Finish",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Finish",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 94"],
+    "description": "Your attacks don’t just fell your opponents—they kill them outright. ",
+    "prerequisites": "Base attack bonus +11",
+    "benefit": "When you hit with a melee attack and reduce your opponent to –1 or fewer hit points, you can force that opponent to succeed at a Fortitude save (DC 15 + the damage your attack dealt) or die.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "When you reduce an opponent to 0 hit points, you can spend 2 stamina points to force the creature to succeed at the saving throw for Deadly Finish or die."
+}

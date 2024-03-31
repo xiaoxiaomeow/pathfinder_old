@@ -1,0 +1,14 @@
+{
+    "key": "body mastery",
+    "name": "Body Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Body%20Mastery",
+    "descriptors": ["Meditation"],
+    "source": ["Faiths and Philosophies pg. 19"],
+    "description": "Meditation allows you to harden your body against physical attacks.",
+    "prerequisites": "Wis 19, Body Control, Meditation Master, character level 15th",
+    "benefit": "For 24 hours after you meditate, you gain damage reduction 2/—.",
+    "prerequisiteKeys":     [
+        "body control",
+        "meditation master"
+    ]
+}

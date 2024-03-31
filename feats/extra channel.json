@@ -1,0 +1,18 @@
+{
+    "key": "extra channel",
+    "name": "Extra Channel",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Channel",
+    "source":     [
+        "Advanced Class Guide pg. 146",
+        "PRPG Core Rulebook pg. 123"
+    ],
+    "description": "You can channel divine energy more often.",
+    "prerequisites": "Channel energy class feature",
+    "benefit": "You can channel energy two additional times per day.",
+    "special": "If a paladin with the ability to channel positive energy takes this feat, she can use lay on hands four additional times per day, but only to channel positive energy. If a warpriest with the ability to channel energy takes this feat, he gains four additional uses of fervor per day, but can use them only to channel energy.",
+    "name_zh": "额外引导",
+    "description_zh": "你能更频繁地引导能量。",
+    "prerequisites_zh": "【引导能量】职业特性。",
+    "benefit_zh": "你每日能够多引导能量2次。",
+    "special_zh": "若一名拥有引导能量能力的圣骑士选择本专长，则她可以每日多使用4次圣疗，但仅能用于引导正能量。"
+}

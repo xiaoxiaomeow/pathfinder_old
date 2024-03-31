@@ -1,0 +1,14 @@
+{
+    "key": "varisian tattoo",
+    "name": "Varisian Tattoo",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Varisian%20Tattoo",
+    "source":     [
+        "Inner Sea World Guide pg. 289",
+        "Rise of the Runelords Player's Guide pg. 15",
+        "Pathfinder Campaign Setting pg. 147"
+    ],
+    "description": "You bear intricate tattoos that inspire and empower your natural magic ability. These tattoos mark you as a worker of the ancient traditions of Varisian magic. A Varisian tattoo typically consists of a long string of complex characters from the Thassilonian alphabet.",
+    "prerequisites": "Spell Focus",
+    "benefit": "Select a school of magic (other than divination) in which you have Spell Focus—you cast spells from this school at +1 caster level. Additionally, you gain a single spell-like ability usable up to three times per day. The spell-like ability gained (and its Varisian name) are as follows:",
+    "prerequisiteKeys": ["spell focus"]
+}

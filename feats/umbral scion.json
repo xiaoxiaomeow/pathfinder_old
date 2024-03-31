@@ -1,0 +1,18 @@
+{
+    "key": "umbral scion",
+    "name": "Umbral Scion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Umbral%20Scion",
+    "source":     [
+        "Advanced Race Guide pg. 106",
+        "Pathfinder #15: The Armageddon Echo pg. 59",
+        "Pathfinder #18: Descent into Midnight pg. 14"
+    ],
+    "description": "New spell-like abilities are unlocked for you as you rise to ascendency among the drow people.",
+    "prerequisites": "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow",
+    "benefit": "Select one of the following: <i>dispel magic<\/i>, <i>divine favor<\/i>, or <i>suggestion<\/i>. You may use this spell once per day as a spell-like ability. Your caster level is equal to your character level.",
+    "prerequisiteKeys":     [
+        "drow nobility",
+        "greater drow nobility",
+        "improved drow nobility"
+    ]
+}

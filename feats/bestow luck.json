@@ -1,0 +1,13 @@
+{
+    "key": "bestow luck",
+    "name": "Bestow Luck",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bestow%20Luck",
+    "source": ["Advanced Race Guide pg. 76"],
+    "description": "You are extremely lucky and sometimes your allies are as well.",
+    "prerequisites": "Defiant Luck, Inexplicable Luck, human",
+    "benefit": "You gain an extra use per day of your Defiant Luck ability. You can also use your Inexplicable Luck ability to grant an ally that can see and hear its benefit as an immediate action.",
+    "prerequisiteKeys":     [
+        "defiant luck",
+        "inexplicable luck"
+    ]
+}

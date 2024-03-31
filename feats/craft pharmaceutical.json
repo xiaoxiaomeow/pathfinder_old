@@ -1,0 +1,10 @@
+{
+    "key": "craft pharmaceutical",
+    "name": "Craft Pharmaceutical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Pharmaceutical",
+    "source": ["Technology Guide pg. 6"],
+    "description": "You can craft pharmaceuticals.",
+    "prerequisites": "Technologist, Heal 9 ranks, Knowledge (nature) 9 rank",
+    "benefit": "You can create any pharmaceutical or poison. Creating a pharmaceutical takes 2 hours if its base price is 250 gp or less; otherwise, the creation of the pharmaceutical takes 1 day for every 1,000 gp in its price. To create the pharmaceutical or poison, you must use up raw materials costing half of this total price. See Crafting High-Tech Items on page 16 for more information.",
+    "prerequisiteKeys": ["technologist"]
+}

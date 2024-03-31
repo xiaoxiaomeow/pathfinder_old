@@ -1,0 +1,11 @@
+{
+    "key": "threatening illusion",
+    "name": "Threatening Illusion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Threatening%20Illusion",
+    "descriptors": ["Metamagic"],
+    "source": ["Gnomes of Golarion pg. 27"],
+    "description": "You’ve mastered the art of making illusions that force foes to divide their attention in combat.",
+    "prerequisites": "Spell Focus (illusion), Gnome",
+    "benefit": "You can use this metamagic feat only on illusion (figment) spells.",
+    "prerequisiteKeys": ["spell focus"]
+}

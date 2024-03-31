@@ -1,0 +1,13 @@
+{
+    "key": "punch through",
+    "name": "Punch Through",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Punch%20Through",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Demon Hunter's Handbook pg. 21"],
+    "description": "You and your allies are adept at bypassing enemy defenses.",
+    "prerequisites": "Base attack bonus +6",
+    "benefit": "As a full-round action, you may make a single attack against a target. If the attack hits and deals damage to the target, all of your allies with this feat ignore up to 5 points of damage reduction against the same target for 1 round. This feat does not apply to damage reduction without a type (such as DR 10/—)."
+}

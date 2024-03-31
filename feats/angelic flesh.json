@@ -1,0 +1,10 @@
+{
+    "key": "angelic flesh",
+    "name": "Angelic Flesh",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Angelic%20Flesh",
+    "source": ["Advanced Race Guide pg. 88"],
+    "description": "Your skin shines like burnished metal.",
+    "prerequisites": "Angelic Blood, aasimar",
+    "benefit": "You take a –2 penalty on Disguise and Stealth checks but gain one of the following benefits, depending on the metallic affinity of your flesh (choose one).",
+    "prerequisiteKeys": ["angelic blood"]
+}

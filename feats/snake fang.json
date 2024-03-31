@@ -1,0 +1,18 @@
+{
+    "key": "snake fang",
+    "name": "Snake Fang",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Fang",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 119"],
+    "description": "You can unleash attacks against an opponent that has dropped its guard.",
+    "prerequisites": "Combat Reflexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks",
+    "benefit": "While using the Snake Style feat, when an opponent’s attack misses you, you can make an unarmed strike against that opponent as an attack of opportunity. If this attack of opportunity hits, you can spend an immediate action to make another unarmed strike against the same opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaText": "When you miss with an attack of opportunity you made due to Snake Fang, you can spend 5 stamina points to reroll the attack roll. You can use this combat trick only once per attack of opportunity.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike",
+        "snake sidewind",
+        "snake style"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "key": "widen spell",
+    "name": "Widen Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Widen%20Spell",
+    "descriptors": ["Metamagic"],
+    "source": ["PRPG Core Rulebook pg. 137"],
+    "description": "You can cast your spells so that they occupy a larger space.",
+    "benefit": "You can alter a burst, emanation, or spread-shaped spell to increase its area. Any numeric measurements of the spell's area increase by 100%. A widened spell uses up a spell slot three levels higher than the spell's actual level.",
+    "name_zh": "法术扩展",
+    "description_zh": "你可增加自己法术的影响范围。",
+    "benefit_zh": "你可增加爆发、弥漫、直线或扩散型的法术影响区域。法术的所有范围类数值加倍。扩展的法术须占用高于原本3个环位的法术位。没有上列四类影响范围的法术不受本专长影响。"
+}

@@ -1,0 +1,17 @@
+{
+    "key": "slow time",
+    "name": "Slow Time",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Time",
+    "descriptors":     [
+        "Combat",
+        "Meditation"
+    ],
+    "source": ["Faiths and Philosophies pg. 19"],
+    "description": "Meditation allows you to perceive time as if it were moving more slowly.",
+    "prerequisites": "Wis 15, Combat Meditation, Meditation Master, character level 7th",
+    "benefit": "Once per day, when you meditate as a full-round action using the Combat Meditation feat, you gain the effects of <i>haste <\/i>for 1 round per 2 character levels. These effects do not stack with the <i>haste <\/i>spell, the <i>speed<\/i> magic weapon special ability, or other effects granting the same result. This is an extraordinary ability.",
+    "prerequisiteKeys":     [
+        "combat meditation",
+        "meditation master"
+    ]
+}

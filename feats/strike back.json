@@ -1,0 +1,20 @@
+{
+    "key": "strike back",
+    "name": "Strike Back",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strike%20Back",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 135"],
+    "description": "You can strike at foes that attack you using their superior reach, by targeting their limbs or weapons as they come at you.",
+    "prerequisites": "Base attack bonus +11",
+    "benefit": "You can ready an action to make a melee attack against any foe that attacks you in melee, even if the foe is outside of your reach.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "When you ready an action to attack someone outside of your melee reach, you can spend 5 stamina points to take a 5-foot step, but you must move closer to the attacking creature. You can take this 5-foot step even if your readied action includes a 5-foot step.",
+    "mythicSource": ["Mythic Adventures pg. 75"],
+    "mythicDescription": "Your precise counterattacks degrade your foes’ advantages in combat.",
+    "mythicPrerequisites": "Strike Back",
+    "mythicBenefit": "When you make a melee attack as a readied action against a foe outside your melee reach, you can take a 5-foot step toward that foe. If you expend one use of mythic power, you can move your speed toward the foe instead. Neither of these counts toward the movement made during your turn.",
+    "name_zh": "回击",
+    "description_zh": "当他们攻向你时，通过瞄准他们的肢体或武器，你能够击打使用长触及攻击你的敌人。",
+    "prerequisites_zh": "基本攻击加值+11。",
+    "benefit_zh": "你可以做一个准备动作来对以近战攻击你的任何敌人做一次近战攻击，即使该敌人在你的触及外。"
+}

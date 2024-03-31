@@ -1,0 +1,14 @@
+{
+    "key": "greater spell penetration",
+    "name": "Greater Spell Penetration",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Spell%20Penetration",
+    "source": ["PRPG Core Rulebook pg. 125"],
+    "description": "Your spells break through spell resistance much more easily than most.",
+    "prerequisites": "Spell Penetration",
+    "benefit": "You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance. This bonus stacks with the one from Spell Penetration.",
+    "prerequisiteKeys": ["spell penetration"],
+    "name_zh": "高等法术穿透",
+    "description_zh": "你的法术威力强大，较易穿透法术抗力。",
+    "prerequisites_zh": "法术穿透。",
+    "benefit_zh": "施法时若受术者有法术抗力，你的施法者等级检定（1d20+CL）可获得+2加值。此加值可与“法术穿透”累加。"
+}

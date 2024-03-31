@@ -1,0 +1,14 @@
+{
+    "key": "swift iron style",
+    "name": "Swift Iron Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Swift%20Iron%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Armor Master's Handbook pg. 11"],
+    "description": "You have learned to move in ways that better accommodate your armor, and can maneuver easily despite its bulk.",
+    "prerequisites": "Str 13, Dex 13, proficiency with medium armor",
+    "benefit": "While using this style, you treat the armor check penalty of your armor as if it were 1 less, and the maximum Dexterity bonus to AC as if it were 1 higher.",
+    "special": "A character with the armor training class feature can use Swift Iron Style while wearing any type of armor with which she is proficient. These benefits stack with armor training."
+}

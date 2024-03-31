@@ -1,0 +1,16 @@
+{
+    "key": "butterfly's sting",
+    "name": "Butterfly's Sting",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Butterfly's%20Sting",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Inner Sea Gods pg. 208",
+        "Faiths of Purity pg. 24"
+    ],
+    "description": "You can forgo a critical hit in order to pass it on to an ally.",
+    "prerequisites": "Combat Expertise, worshiper of Desna",
+    "benefit": "When you confirm a critical hit against a creature, you can choose to forgo the effect of the critical hit and grant a critical hit to the next ally who hits that creature with a melee attack before the start of your next turn. Your attack only deals normal damage, and the next ally to hit the target automatically confirms the attack as a critical hit.",
+    "staminaSource": ["Weapon Master's Handbook pg. 24"],
+    "staminaText": "When you confirm a critical hit, you can spend 10 stamina points to use Butterfly’s Sting without forgoing your own critical hit.",
+    "prerequisiteKeys": ["combat expertise"]
+}

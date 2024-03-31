@@ -1,0 +1,10 @@
+{
+    "key": "venomous stare",
+    "name": "Venomous Stare",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Venomous%20Stare",
+    "descriptors": ["Stare"],
+    "source": ["Blood of the Beast pg. 17"],
+    "description": "Your stare is toxic to your enemies.",
+    "prerequisites": "Mesmerist level 11th, painful stare class feature",
+    "benefit": "When you trigger your painful stare, the target immediately becomes envenomed by the following poison: painful stare—injury; <i>save<\/i> Fort DC = 10 + 1/2 your mesmerist level + your Charisma modifier; <i>frequency<\/i> 1/round for 6 rounds; <i>effect<\/i> 1d3 Dex; <i>cure<\/i> 2 saves. Whether your target succeeds at or fails its save, you can’t use Venomous Stare against that particular foe for 24 hours."
+}

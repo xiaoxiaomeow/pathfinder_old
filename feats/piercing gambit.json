@@ -1,0 +1,11 @@
+{
+    "key": "piercing gambit",
+    "name": "Piercing Gambit",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Piercing%20Gambit",
+    "descriptors": ["Teamwork"],
+    "source": ["Antihero's Handbook pg. 10"],
+    "description": "You cast a spell destined to fail in order to help your ally overcome an enemy’s spell resistance.",
+    "prerequisites": "Spell Penetration or Bluff 3 ranks; caster level 1st",
+    "benefit": "You can expend one prepared spell or spell slot, as if you had cast the spell, to weaken an enemy’s defenses. Your spell has no effect, but a designated ally who also has this feat gains a bonus on her caster level check to overcome spell resistance equal to half the level of the spell or spell slot you expended, lasting until the start of your next turn.",
+    "prerequisiteKeys": ["spell penetration"]
+}

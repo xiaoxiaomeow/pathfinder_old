@@ -1,0 +1,10 @@
+{
+    "key": "cloud step",
+    "name": "Cloud Step",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cloud%20Step",
+    "source": ["Advanced Player's Guide pg. 156"],
+    "description": "Your tread is of unearthly lightness.",
+    "prerequisites": "Spider Step, monk level 12th",
+    "benefit": "As a move action, you can <i>air walk <\/i>(as the spell) up to half your slow fall distance, maximum 50 feet. You must reach a solid, level surface by the end of your turn or you will fall.",
+    "prerequisiteKeys": ["spider step"]
+}

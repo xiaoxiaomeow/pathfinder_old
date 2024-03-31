@@ -1,0 +1,12 @@
+{
+    "key": "improved low blow",
+    "name": "Improved Low Blow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Low%20Blow",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 66"],
+    "description": "You are adept at hitting larger opponents where it hurts.",
+    "prerequisites": "Base attack bonus +4, halfling, low-blow racial trait",
+    "benefit": "Your bonus to confirm critical hits against opponents larger than yourself improves to +2. Furthermore, once per day, after you fail to hit with a critical hit confirmation roll, you can reroll the confirmation roll, but must take the new result even if it is worse.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "You can spend 5 stamina points to reroll a second critical hit confirmation roll in the same day."
+}

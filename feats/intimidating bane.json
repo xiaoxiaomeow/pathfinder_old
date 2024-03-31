@@ -1,0 +1,13 @@
+{
+    "key": "intimidating bane",
+    "name": "Intimidating Bane",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Bane",
+    "source": ["Ultimate Combat pg. 106"],
+    "description": "Your bane weapon strikes fear into your enemies.",
+    "prerequisites": "Bane class feature, Dazzling Display, Weapon Focus, character level 8th",
+    "benefit": "Whenever you use Dazzling Display while your bane feature is active, you gain a +2 bonus on the Intimidate check that Dazzling Display allows against creatures of the type your bane weapon currently affects. Such creatures remain shaken while your bane feature is still active and effective against their creature type.",
+    "prerequisiteKeys":     [
+        "dazzling display",
+        "weapon focus"
+    ]
+}

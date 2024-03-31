@@ -1,0 +1,14 @@
+{
+    "key": "bushwhack",
+    "name": "Bushwhack",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bushwhack",
+    "descriptors": ["Combat"],
+    "source": ["Monster Codex pg. 20"],
+    "description": "You can subdue an unsuspecting foe quickly.",
+    "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike",
+    "benefit": "When a flat-footed creature is unaware of your presence and you successfully grapple it, you can attempt a second grapple combat maneuver check to pin the creature as a free action. If you have the Chokehold feat (<i>Pathfinder RPG Ultimate Combat <\/i>92), you can instead use this second combat maneuver check to initiate a chokehold.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ]
+}

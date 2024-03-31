@@ -1,0 +1,13 @@
+{
+    "key": "blinding stare",
+    "name": "Blinding Stare",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blinding%20Stare",
+    "descriptors":     [
+        "Combat",
+        "Stare"
+    ],
+    "source": ["Psychic Anthology pg. 16"],
+    "description": "Your stare robs your foe of all sight.",
+    "prerequisites": "Mesmerist level 7th, painful stare class feature",
+    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or be blinded for 1 round."
+}

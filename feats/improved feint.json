@@ -1,0 +1,18 @@
+{
+    "key": "improved feint",
+    "name": "Improved Feint",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Feint",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 127"],
+    "description": "You are skilled at fooling your opponents in combat.",
+    "prerequisites": "Int 13, Combat Expertise",
+    "benefit": "You can make a Bluff check to feint in combat as a move action.",
+    "normal": "Feinting in combat is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "You can select this feat even if you don’t meet the Ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to feint as a move action.",
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通虚招",
+    "description_zh": "你擅长于战斗中愚弄对手。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "你在战斗中能够以移动动作进行虚招的唬骗检定。"
+}

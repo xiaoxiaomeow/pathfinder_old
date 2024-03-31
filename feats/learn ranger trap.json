@@ -1,0 +1,13 @@
+{
+    "key": "learn ranger trap",
+    "name": "Learn Ranger Trap",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Learn%20Ranger%20Trap",
+    "source":     [
+        "Kobolds of Golarion pg. 24",
+        "Ultimate Magic pg. 153"
+    ],
+    "description": "You learn how to create one kind of ranger trap.",
+    "prerequisites": "Survival 5 ranks",
+    "benefit": "Select one ranger trap (see page 20). You may use this trap a number of times per day equal to your Wisdom bonus (minimum 1). The DC for your trap is equal to 10 + 1/2 your character’s level + your Wisdom bonus, and it lasts 1 day per 2 character levels.",
+    "special": "A ranger can use ranger traps a number of times per day equal to 1/2 his ranger level + his Wisdom bonus. See the description of ranger traps for durations."
+}

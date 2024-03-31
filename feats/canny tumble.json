@@ -1,0 +1,16 @@
+{
+    "key": "canny tumble",
+    "name": "Canny Tumble",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Canny%20Tumble",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 143"],
+    "description": "Your acrobatic prowess distracts your foes.",
+    "prerequisites": "Dodge, Mobility, Acrobatics 5 ranks",
+    "benefit": "When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent, you gain a +2 circumstance bonus on your next melee attack roll against that opponent and that opponent is denied its Dexterity bonus to AC, as long as you make that attack before the start of your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "Just before you make an attack roll with the +2 circumstance bonus granted by this feat, you can spend up to 5 stamina points. When you do, if your attack hits, you gain a bonus on the damage roll equal to double the number of stamina points spent.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

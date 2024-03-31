@@ -1,0 +1,16 @@
+{
+    "key": "earth child style",
+    "name": "Earth Child Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 99"],
+    "description": "Your martial training makes you a dangerous and elusive target for giants.",
+    "prerequisites": "Wis 13, dwarf or gnome, defensive training racial trait, Improved Unarmed Strike, Acrobatics 3 ranks",
+    "benefit": "While using this style, your defensive training dodge bonus to AC increases to +6. Further, against creatures of the giant subtype, you can add your Wisdom bonus on your unarmed strike damage rolls.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "When you make a successful unarmed strike attack against a creature that has the giant subtype, you can spend up to 5 stamina points to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

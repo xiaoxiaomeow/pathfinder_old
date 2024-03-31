@@ -1,0 +1,13 @@
+{
+    "key": "oread earth glider",
+    "name": "Oread Earth Glider",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Oread%20Earth%20Glider",
+    "source": ["Advanced Race Guide pg. 147"],
+    "description": "The earth welcomes you, showing you the secret paths through sand and soil.",
+    "prerequisites": "Oread Burrower, Stony Step, character level 13th, oread",
+    "benefit": "You gain the earth glide universal monster ability and can use it to travel at your full base speed through sand, dirt, clay, gravel, or similar materials. If protected against fire damage, you can even burrow through lava. You can burrow through solid stone at 1/2 your base speed.",
+    "prerequisiteKeys":     [
+        "oread burrower",
+        "stony step"
+    ]
+}

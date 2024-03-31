@@ -1,0 +1,17 @@
+{
+    "key": "teleport tactician",
+    "name": "Teleport Tactician",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Teleport%20Tactician",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 172"],
+    "description": "You are highly alert for enemies using teleportation to approach you or flee from you.",
+    "prerequisites": "Combat Reflexes, Disruptive, Spellbreaker",
+    "benefit": "Any creature using a teleportation effect to enter or leave a square threatened by you provokes an attack of opportunity, even if casting defensively or using a supernatural ability.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "When you hit a target with an attack of opportunity granted by this feat, you can spend 2 stamina points to daze the target for 1 round. The target can attempt a Fortitude save with a DC equal to 10 + your base attack bonus to negate this effect.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "disruptive",
+        "spellbreaker"
+    ]
+}

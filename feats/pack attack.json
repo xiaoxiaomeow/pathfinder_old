@@ -1,0 +1,16 @@
+{
+    "key": "pack attack",
+    "name": "Pack Attack",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pack%20Attack",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "You are skilled at surrounding your enemies.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "When you are adjacent to an ally with this feat, the first time you melee attack an opponent, you can spend an immediate action to take a 5-foot step, even if you have otherwise moved this round.",
+    "normal": "You can take a 5-foot step only if you have not otherwise moved in a round.",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "When you are adjacent to an ally that also has this feat, you can spend 2 stamina points to take a 5-foot step as a free action instead of an immediate action. You can still use this feat’s ability only once per round."
+}

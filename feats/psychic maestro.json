@@ -1,0 +1,10 @@
+{
+    "key": "psychic maestro",
+    "name": "Psychic Maestro",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Maestro",
+    "source": ["Occult Adventures pg. 138"],
+    "description": "You can use two occult skill unlocks more often.",
+    "prerequisites": "Psychic Sensitivity or the ability to cast psychic spells",
+    "benefit": "Choose two occult skill unlocks. You can use each of those one additional time per day (or per week, in the case of automatic writing). You must have at least 1 rank in the skills associated with the chosen occult skill unlocks.",
+    "prerequisiteKeys": ["psychic sensitivity"]
+}

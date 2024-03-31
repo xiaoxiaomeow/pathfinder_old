@@ -1,0 +1,10 @@
+{
+    "key": "enlightened noble",
+    "name": "Enlightened Noble",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enlightened%20Noble",
+    "source": ["Heroes of the High Court pg. 4"],
+    "description": "You to excel in a particular area thanks to your noble family’s field of expertise.",
+    "prerequisites": "Cha 13, Noble Scion, Knowledge (nobility) 1 rank",
+    "benefit": "You gain an additional benefit based on the flavor of your noble family chosen with the Noble Scion feat.",
+    "prerequisiteKeys": ["noble scion"]
+}

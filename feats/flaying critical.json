@@ -1,0 +1,14 @@
+{
+    "key": "flaying critical",
+    "name": "Flaying Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Flaying%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Dragonslayer's Handbook pg. 25"],
+    "description": "Your critical hits weaken your opponents’ defenses.",
+    "prerequisites": "Critical Focus, base attack bonus +11",
+    "benefit": "Whenever you score a critical hit, your opponent takes a –1 penalty to its natural armor bonus for the duration of the encounter. This penalty is cumulative, but cannot reduce an opponent’s natural armor bonus below 0.",
+    "prerequisiteKeys": ["critical focus"]
+}

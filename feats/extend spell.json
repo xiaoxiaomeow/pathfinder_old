@@ -1,0 +1,12 @@
+{
+    "key": "extend spell",
+    "name": "Extend Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extend%20Spell",
+    "descriptors": ["Metamagic"],
+    "source": ["PRPG Core Rulebook pg. 123"],
+    "description": "You can make your spells last twice as long.",
+    "benefit": "An extended spell lasts twice as long as normal. A spell with a duration of concentration, instantaneous, or permanent is not affected by this feat. An extended spell uses up a spell slot one level higher than the spell's actual level.",
+    "name_zh": "法术延时",
+    "description_zh": "此专长可使法术效果的持续时间加长。",
+    "benefit_zh": "搭配此专长的法术持续时间加倍。持续时间为专注、立即或永久的法术不受本专长影响。延时的法术须占用高于原本1个环位的法术位。"
+}

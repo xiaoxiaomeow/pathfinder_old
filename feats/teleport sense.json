@@ -1,0 +1,9 @@
+{
+    "key": "teleport sense",
+    "name": "Teleport Sense",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Teleport%20Sense",
+    "source": ["Pathfinder Campaign Setting pg. 99"],
+    "description": "Like many Mendevians, you have faced so many demons teleporting that you have developed a sort of sixth sense for it.",
+    "prerequisites": "Wis 13, Mendev affinity",
+    "benefit": "Whenever a creature uses a spell or effect from the conjuration (teleportation) school to appear within 60 feet of you, you may make a Sense Motive check to detect the teleportation. The DC equals 10 + caster level of the effect. If you succeed on this check, you are automatically not surprised and can act in the surprise round if combat begins immediately. If combat against the creature that teleported near you begins within 1 minute of the teleportation you gain a +4 bonus on the initiative check in that battle. If the creature teleporting in is a demon, you gain a +5 bonus on the Sense Motive check to detect it."
+}

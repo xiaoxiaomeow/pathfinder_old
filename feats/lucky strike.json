@@ -1,0 +1,12 @@
+{
+    "key": "lucky strike",
+    "name": "Lucky Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lucky%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 67"],
+    "description": "Your luck increases the potency of your weapon attacks.",
+    "prerequisites": "Base attack bonus +5, adaptive luck racial trait, halfling",
+    "benefit": "Spend a use of your adaptive luck racial trait to reroll the damage from a single weapon attack. You deal damage equal to the new damage roll, or the original roll, whichever is greater.",
+    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaText": "You can spend 5 stamina points instead of a use of adaptable luck<sup>ARG<\/sup> to reroll the damage from a single attack."
+}

@@ -1,0 +1,17 @@
+{
+    "key": "armor proficiency, medium",
+    "name": "Armor Proficiency, Medium",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Medium",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "You are skilled at wearing medium armor.",
+    "prerequisites": "Light Armor Proficiency",
+    "benefit": "See Armor Proficiency, Light.",
+    "normal": "See Armor Proficiency, Light.",
+    "special": "Barbarians, clerics, druids, fighters, paladins, and rangers automatically have Medium Armor Proficiency as a bonus feat. They need not select it.",
+    "name_zh": "擅长中型盔甲",
+    "description_zh": "你对于穿戴中型盔甲颇有心得。",
+    "prerequisites_zh": "擅长轻型盔甲。",
+    "benefit_zh": "见擅长轻型盔甲。",
+    "special_zh": "野蛮人，牧师，德鲁伊，战士，圣骑士和游侠自动学会“擅长中型盔甲”作为奖励专长，他们无需选择这个专长。"
+}

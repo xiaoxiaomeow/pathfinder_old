@@ -1,0 +1,13 @@
+{
+    "key": "cranial adjustment",
+    "name": "Cranial Adjustment",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cranial%20Adjustment",
+    "source": ["Occult Origins pg. 24"],
+    "description": "You have learned to manually adjust the plates that make up the skull, inducing altered states in your subjects.",
+    "prerequisites": "Deft Hands or Trepanation",
+    "benefit": "You can perform the hypnotism occult skill unlock<sup>OA<\/sup> even if you can’t use psychic magic. If you can cast psychic spells or have the Psychic Sensitivity<sup>OA<\/sup> feat, you can use hypnotism one additional time per day.",
+    "prerequisiteKeys":     [
+        "deft hands",
+        "trepanation"
+    ]
+}

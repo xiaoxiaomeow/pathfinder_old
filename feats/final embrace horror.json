@@ -1,0 +1,13 @@
+{
+    "key": "final embrace horror",
+    "name": "Final Embrace Horror",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Final%20Embrace%20Horror",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 101"],
+    "description": "Your constricting attack has become stronger and more lethal.",
+    "prerequisites": "Str 15, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; base attack bonus +6",
+    "benefit": "A creature that takes damage from your constrict attack is also shaken until the start of your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When a creature is damaged by your constrict ability, you can spend 5 stamina points to sicken that creature until the start of your next turn.",
+    "prerequisiteKeys": ["final embrace"]
+}

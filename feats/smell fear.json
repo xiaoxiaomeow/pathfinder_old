@@ -1,0 +1,10 @@
+{
+    "key": "smell fear",
+    "name": "Smell Fear",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smell%20Fear",
+    "source": ["Advanced Player's Guide pg. 170"],
+    "description": "You can catch the sour scent of fear on the wind.",
+    "prerequisites": "Keen Scent, half-orc or orc",
+    "benefit": "You receive a +4 bonus on Perception checks to detect creatures with the shaken, frightened, or panicked conditions using scent. You can substitute your Perception skill for Sense Motive skill checks if the subject has one of the previous conditions or is attempting to cover up their fear in some way.",
+    "prerequisiteKeys": ["keen scent"]
+}

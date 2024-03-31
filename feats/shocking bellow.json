@@ -1,0 +1,11 @@
+{
+    "key": "shocking bellow",
+    "name": "Shocking Bellow",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow",
+    "descriptors": ["Combat"],
+    "source": ["Monster Codex pg. 20"],
+    "description": "You can demoralize a foe with a sudden ferocious scream.",
+    "prerequisites": "Intimidating Prowess",
+    "benefit": "If you act in the surprise round of a combat, as a free action you can attempt a single Intimidate check to demoralize a creature within 30 feet that can clearly see or hear you.",
+    "prerequisiteKeys": ["intimidating prowess"]
+}

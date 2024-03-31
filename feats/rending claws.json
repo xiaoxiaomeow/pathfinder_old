@@ -1,0 +1,12 @@
+{
+    "key": "rending claws",
+    "name": "Rending Claws",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Claws",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 168"],
+    "description": "Your claw attacks do greater harm to your enemy.",
+    "prerequisites": "Str 13, two claw natural weapon attacks, base attack bonus +6",
+    "benefit": "If you hit a creature with two claw attacks in the same turn, the second claw attack deals an additional 1d6 points of damage. This damage is precision damage and is not multiplied on a critical hit. You can use this feat once per round.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you make two claw attacks but hit with only one, you can spend 5 stamina points to deal the precision damage granted by this feat anyway."
+}

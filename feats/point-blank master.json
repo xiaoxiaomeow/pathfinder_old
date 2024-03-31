@@ -1,0 +1,14 @@
+{
+    "key": "point-blank master",
+    "name": "Point-Blank Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Point-Blank%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 167"],
+    "description": "You are adept at firing ranged weapons in close quarters. ",
+    "prerequisites": "Weapon Specialization with selected ranged weapon",
+    "benefit": "Choose one type of ranged weapon. You do not provoke attacks of opportunity when firing the selected weapon while threatened.",
+    "normal": "Using a ranged weapon while you are threatened provokes attacks of opportunity.",
+    "special": "Starting at 6th level, a ranger with the archery combat style may select Point Blank Master as a combat style feat, but he must have Weapon Focus instead of Weapon Specialization in the selected weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaText": "When firing any type of ranged weapon, throwing a weapon, or making a ranged touch attack, you can spend 2 stamina points to avoid provoking an attack of opportunity."
+}

@@ -1,0 +1,13 @@
+{
+    "key": "tattoo attunement",
+    "name": "Tattoo Attunement",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tattoo%20Attunement",
+    "source": ["Monster Summoner's Handbook pg. 14"],
+    "description": "You’ve learned to absorb summoned creatures into temporary spell tattoos.",
+    "prerequisites": "Inscribe Magical Tattoo or Varisian Tattoo; Spellcraft 5 ranks",
+    "benefit": "As a standard action, you can touch a single creature that you’ve summoned, instantly transforming it into a magical tattoo on your body. This tattoo takes up one magic item slot if the summoned creature is Medium or smaller, and one additional adjacent slot for each size category larger than Medium (see page 16 of <i>Pathfinder Campaign Setting: Inner Sea Magic<\/i> for rules on magical tattoos). You can have only one such tattoo at a time.",
+    "prerequisiteKeys":     [
+        "inscribe magical tattoo",
+        "varisian tattoo"
+    ]
+}

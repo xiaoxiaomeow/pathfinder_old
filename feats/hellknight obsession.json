@@ -1,0 +1,10 @@
+{
+    "key": "hellknight obsession",
+    "name": "Hellknight Obsession",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hellknight%20Obsession",
+    "source": ["Path of the Hellknight pg. 62"],
+    "description": "You equate pain with discipline and can inflict damage upon yourself to unlock greater power.",
+    "prerequisites": "Hellknight Obedience, Knowledge (planes) 3 ranks, must swear allegiance to a single Hellknight order",
+    "benefit": "During your hour-long Hellknight reckoning, if you choose to deal lethal damage to yourself (see page 9), you reach a state of fantastic focus. Once during the next 24 hours, you can draw upon this focus to gain the benefits of any one of the following effects. To activate the ability, you must deal 1 point of lethal damage to yourself as a swift action (unless otherwise noted). Members of the Order of the Nail often install a sharp barb within their armor that deals this damage when the wearer is subject to a critical hit (see page 28); if you’re struck by a critical hit while wearing such armor, using this ability doesn’t require a swift action.",
+    "prerequisiteKeys": ["hellknight obedience"]
+}

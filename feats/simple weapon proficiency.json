@@ -1,0 +1,15 @@
+{
+    "key": "simple weapon proficiency",
+    "name": "Simple Weapon Proficiency",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Simple%20Weapon%20Proficiency",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 133"],
+    "description": "You are trained in the use of basic weapons.",
+    "benefit": "You make attack rolls with simple weapons without penalty.",
+    "normal": "When using a weapon with which you are not proficient, you take a –4 penalty on attack rolls.",
+    "special": "All characters except for druids, monks, and wizards are automatically proficient with all simple weapons. They need not select this feat.",
+    "name_zh": "擅长简易武器",
+    "description_zh": "你受过使用基础武器的训练。",
+    "benefit_zh": "你使用简易武器的攻击检定不承受减值。",
+    "special_zh": "除德鲁伊、武僧和法师外的所有人物自动擅长所有简易武器。他们不需选择此专长。"
+}

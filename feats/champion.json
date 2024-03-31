@@ -1,0 +1,10 @@
+{
+    "key": "champion",
+    "name": "Champion",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Champion",
+    "descriptors": ["Story"],
+    "source": ["Ultimate Campaign pg. 67"],
+    "description": "You must prove yourself through single combat.",
+    "prerequisites": "You must have defeated a single challenging foe without any aid from another, or have the Champion of a God, Champion of the People, Competition Champion, or Gladiator background",
+    "benefit": "As a swift action, you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a –2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can’t declare it on the same foe for another 24 hours."
+}

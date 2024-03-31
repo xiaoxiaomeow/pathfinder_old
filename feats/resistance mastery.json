@@ -1,0 +1,10 @@
+{
+    "key": "resistance mastery",
+    "name": "Resistance Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Resistance%20Mastery",
+    "descriptors": ["Item Mastery"],
+    "source": ["Magic Tactics Toolbox pg. 30"],
+    "description": "You can protect yourself from harm by using abjuration magic items.",
+    "prerequisites": "Use Magic Device 3 ranks, base Fortitude saving throw bonus +3",
+    "benefit": "Once per day, you can meditate for 10 minutes in order to use magic armor or a wondrous item that has an abjuration spell of 2nd level or higher listed in its construction requirements and that occupies a slot on your body to gain a defensive benefit. This benefit can be either a +1 resistance bonus on all saving throws or 5 points of energy resistance against one energy type (acid, cold, electricity, fire, or sonic). This benefit lasts for 24 hours. You must wear the item in order to gain this benefit; if the item is removed before this feat’s benefit ends, the benefit is immediately lost and cannot be regained until 24 hours have passed since the feat’s last activation. The resistance bonus granted by this feat increases by 1 or the energy resistance increases by 5 when your base Fortitude save bonus reaches +6, +9, and +12. You can gain only one benefit from this feat at a time."
+}

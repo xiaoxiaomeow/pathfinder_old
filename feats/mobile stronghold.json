@@ -1,0 +1,16 @@
+{
+    "key": "mobile stronghold",
+    "name": "Mobile Stronghold",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobile%20Stronghold",
+    "descriptors": ["Combat"],
+    "source": ["Armor Master's Handbook pg. 12"],
+    "description": "You can use your tower shield to block magical attacks.",
+    "prerequisites": "Str 17, Mobile Bulwark Style, Mobile Fortress, Shield Focus, Tower Shield Proficiency, base attack bonus +7",
+    "benefit": "While using a tower shield, you do not suffer a penalty on attack rolls because of the shield’s encumbrance. While using Mobile Bulwark Style, whenever you use a tower shield to gain total cover, you also gain partial cover (and grant partial cover to adjacent allies) against spells passing through the selected edge of your space. Also, while using this style, you can gain total cover against a single attack made against you as an immediate or swift action.",
+    "prerequisiteKeys":     [
+        "mobile bulwark style",
+        "mobile fortress",
+        "shield focus",
+        "tower shield proficiency"
+    ]
+}

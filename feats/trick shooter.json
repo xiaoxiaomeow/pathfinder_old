@@ -1,0 +1,11 @@
+{
+    "key": "trick shooter",
+    "name": "Trick Shooter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trick%20Shooter",
+    "descriptors": ["Combat"],
+    "source": ["Ranged Tactics Toolbox pg. 9"],
+    "description": "Your uncanny aim allows you to disable your opponents without harming them.",
+    "prerequisites": "Dex 13, Deadly Aim, base attack bonus +1",
+    "benefit": "You gain a +2 bonus on ranged combat maneuvers. When you attempt to perform a ranged combat maneuver, you can refrain from damaging the target at no penalty.",
+    "prerequisiteKeys": ["deadly aim"]
+}

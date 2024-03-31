@@ -1,0 +1,16 @@
+{
+    "key": "strangler (uc)",
+    "name": "Strangler (UC)",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strangler%20(UC)",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 121"],
+    "description": "Throttling the life out of enemies is second nature to you.",
+    "prerequisites": "Dex 13, sneak attack +1d6, Improved Grapple, Improved Unarmed Strike",
+    "benefit": "Whenever you successfully maintain a grapple and choose to deal damage, you can spend a swift action to deal your sneak attack damage to the creature you are grappling.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you can automatically deal your sneak attack damage to a creature you are grappling when you successfully maintain the grapple, instead of taking a swift action to deal damage.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "key": "distracting charge",
+    "name": "Distracting Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Distracting%20Charge",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Advanced Class Guide pg. 144"],
+    "description": "Your ally’s charge exposes an opening you can exploit.",
+    "benefit": "When your ally with this feat uses the charge action and hits, you gain a +2 bonus on your next attack roll against the target of that charge. This bonus must be used before your ally’s next turn, or it is lost.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "You can spend 1 stamina point when an ally with this feat charges but misses with the charge attack. When you do, you can still gain the benefit of this feat when you charge."
+}

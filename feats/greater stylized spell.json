@@ -1,0 +1,10 @@
+{
+    "key": "greater stylized spell",
+    "name": "Greater Stylized Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Stylized%20Spell",
+    "source": ["Inner Sea Intrigue pg. 16"],
+    "description": "You can modify your spell’s superficial qualities in a greater variety of ways.",
+    "prerequisites": "Stylized Spell, Bluff 10 ranks, Spellcraft 10 ranks",
+    "benefit": "When you modify a spell with Stylized Spell, you can apply one of the stylized magic options (see the Styalized spell metamagic) without reducing the DC of the check to identify the spell. In addition, you can apply up to two additional stylized magic options, reducing the DC of checks to identify the spell by 5 per option as normal.",
+    "prerequisiteKeys": ["stylized spell"]
+}

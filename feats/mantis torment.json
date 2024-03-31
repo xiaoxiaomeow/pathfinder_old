@@ -1,0 +1,18 @@
+{
+    "key": "mantis torment",
+    "name": "Mantis Torment",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mantis%20Torment",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 108"],
+    "description": "Your knowledge of the mysteries of anatomy allows you to cause debilitating pain with a simple touch.",
+    "prerequisites": "Heal 9 ranks, Improved Unarmed Strike, Mantis Style, Mantis Wisdom, Stunning Fist",
+    "benefit": "You gain one additional Stunning Fist attempt per day. While using Mantis Style, you make an unarmed attack that expends two daily attempts of your Stunning Fist. If you hit, your opponent must succeed at a saving throw against your Stunning Fist or become dazzled and staggered with crippling pain until the start of your next turn, and at that point the opponent becomes fatigued.",
+    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaText": "Instead of expending two uses of Stunning Fist to make the Mantis Torment unarmed strike, you can choose to spend either 5 stamina points or one use of Stunning Fist and 2 stamina points.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "mantis style",
+        "mantis wisdom",
+        "stunning fist"
+    ]
+}

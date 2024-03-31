@@ -1,0 +1,17 @@
+{
+    "key": "giantslaying team",
+    "name": "Giantslaying Team",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giantslaying%20Team",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Inner Sea Races pg. 206"],
+    "description": "When a giant attempts to hit your ally, that giant unwittingly reveals an opening in her defenses.",
+    "prerequisites": "Dex 13, Dodge, Mobility, base attack bonus +4, defensive training racial trait",
+    "benefit": "Whenever a foe with the giant subtype you threaten misses with an attack of opportunity against an ally with this feat, you can make a melee attack against that giant as an immediate action.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

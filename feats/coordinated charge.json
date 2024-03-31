@@ -1,0 +1,15 @@
+{
+    "key": "coordinated charge",
+    "name": "Coordinated Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Coordinated%20Charge",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 92"],
+    "description": "You are an expert at leading your allies into the fray.",
+    "prerequisites": "You have at least two other teamwork feats, base attack bonus +10",
+    "benefit": "When an ally with this feat charges a creature that is no further away from you than your speed, you can, as an immediate action, charge that creature. You must be able to follow all of the normal charge rules.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When an ally with this feat charges a creature, and that creature is farther than your speed but no farther than double your speed, you can spend 5 stamina points to charge that creature. You must still be able to follow all the rules for a charge."
+}

@@ -1,0 +1,14 @@
+{
+    "key": "shield material expertise",
+    "name": "Shield Material Expertise",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Material%20Expertise",
+    "descriptors":     [
+        "Combat",
+        "Shield Mastery"
+    ],
+    "source": ["Armor Master's Handbook pg. 19"],
+    "description": "You emphasize and exploit the potential of the special material from which your shield is made.",
+    "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th",
+    "benefit": "When wielding a shield made of one of the materials listed below, you can use the listed ability twice per day.",
+    "prerequisiteKeys": ["shield focus"]
+}

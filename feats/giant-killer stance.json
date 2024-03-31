@@ -1,0 +1,11 @@
+{
+    "key": "giant-killer stance",
+    "name": "Giant-Killer Stance",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant-Killer%20Stance",
+    "descriptors": ["Combat"],
+    "source": ["Giant Hunter's Handbook pg. 23"],
+    "description": "You can prepare a crippling strike against larger foes that rush into your weapon’s reach.",
+    "prerequisites": "Power Attack",
+    "benefit": "You can treat any reach weapon you wield as having the brace property against creatures that are Large or larger. If your readied attack hits, the creature takes a –2 penalty on melee attack rolls for 1 round.",
+    "prerequisiteKeys": ["power attack"]
+}

@@ -1,0 +1,11 @@
+{
+    "key": "spell chain",
+    "name": "Spell Chain",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Chain",
+    "descriptors": ["Teamwork"],
+    "source": ["Demon Hunter's Handbook pg. 21"],
+    "description": "You help your allies bypass your foes’ magical defenses.",
+    "prerequisites": "Spell Penetration",
+    "benefit": "Whenever you make a successful caster level check to overcome a target’s spell resistance, the next ally who also has this feat that attempts to overcome the same target’s spell resistance can roll twice when attempting his own caster level check, taking the better result. This benefit must be used within 1 round or else it is lost.",
+    "prerequisiteKeys": ["spell penetration"]
+}

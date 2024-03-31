@@ -1,0 +1,13 @@
+{
+    "key": "nightmare fist",
+    "name": "Nightmare Fist",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nightmare%20Fist",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 111"],
+    "description": "You are even more deadly in magical darkness.",
+    "prerequisites": "Improved Unarmed Strike, Intimidate 1 rank, ability to create magical darkness",
+    "benefit": "While fighting within an area of magical darkness, you gain a +2 bonus on damage rolls with unarmed strikes, or a +4 bonus against opponents that are shaken, frightened, or panicked. You also gain a +2 morale bonus on Acrobatics and Intimidate checks.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When fighting in an area of magical darkness, you can spend up to 5 stamina points to increase the bonus granted by this feat on one damage roll by double the number of stamina points you spent.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

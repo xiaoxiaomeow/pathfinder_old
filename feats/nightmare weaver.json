@@ -1,0 +1,17 @@
+{
+    "key": "nightmare weaver",
+    "name": "Nightmare Weaver",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nightmare%20Weaver",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "You can use your ability to create magical darkness to terrorize enemies.",
+    "prerequisites": "Improved Unarmed Strike, Nightmare Fist, Intimidate 2 ranks, ability to cast <i>darkness<\/i>",
+    "benefit": "By spending a full-round action to cast <i>darkness<\/i>, you can also make Intimidate checks to demoralize all foes in the spell’s initial area.",
+    "special": "This feat counts as Dazzling Display for purposes of qualifying for Deadly Stroke and Shatter Defenses.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When you cast <i>darkness<\/i> as a standard action, you can spend 5 stamina points to also attempt Intimidate checks to demoralize all foes in the spell’s initial area.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "nightmare fist"
+    ]
+}

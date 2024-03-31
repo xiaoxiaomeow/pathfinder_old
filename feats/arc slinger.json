@@ -1,0 +1,13 @@
+{
+    "key": "arc slinger",
+    "name": "Arc Slinger",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arc%20Slinger",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 89"],
+    "description": "You can twirl your sling in a way that maximizes its effectiveness.",
+    "prerequisites": "Point-Blank Shot, proficient with sling or halfling sling staff",
+    "benefit": "When using a sling or sling staff, you reduce your penalty on ranged attack rolls due to range by 2. Point-Blank Shot’s damage bonus applies within the first normal range increment of your sling (50 feet) or sling staff (80 feet).",
+    "staminaSource": ["Pathfinder Unchained pg. 113"],
+    "staminaText": "You can spend 1 stamina point when making a sling or sling staff attack to gain the benefits of Point-Blank Shot within the first two range increments of the sling or staff.",
+    "prerequisiteKeys": ["point-blank shot"]
+}

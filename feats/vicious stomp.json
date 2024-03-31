@@ -1,0 +1,16 @@
+{
+    "key": "vicious stomp",
+    "name": "Vicious Stomp",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 123"],
+    "description": "You take advantage of the moment to brutally kick an enemy when he is down.",
+    "prerequisites": "Combat Reflexes, Improved Unarmed Strike",
+    "benefit": "Whenever an opponent falls prone adjacent to you, that opponent provokes an attack of opportunity from you. This attack must be an unarmed strike.",
+    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaText": "When an opponent provokes an unarmed strike attack of opportunity from you by falling prone, you can spend 2 stamina points to deal an additional 1d6 points of damage with that unarmed strike.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike"
+    ]
+}

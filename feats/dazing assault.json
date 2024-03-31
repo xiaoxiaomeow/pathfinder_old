@@ -1,0 +1,13 @@
+{
+    "key": "dazing assault",
+    "name": "Dazing Assault",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dazing%20Assault",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "You can daze foes with wild attacks.",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +11",
+    "benefit": "You can choose to take a –5 penalty on all melee attack rolls and combat maneuver checks to daze opponents you hit with your melee attacks for 1 round, in addition to the normal damage dealt by the attack. A successful Fortitude save negates the effect. The DC of this save is 10 + your base attack bonus. You must choose to use this feat before making the attack roll, and its effects last until your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaText": "After hitting an opponent with a melee attack, you can spend 5 stamina points to attempt to daze that opponent as if using this feat.",
+    "prerequisiteKeys": ["power attack"]
+}

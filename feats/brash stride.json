@@ -1,0 +1,13 @@
+{
+    "key": "brash stride",
+    "name": "Brash Stride",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brash%20Stride",
+    "source": ["Pathfinder #132: The Six-Legend Soul pg. 72"],
+    "description": "You have studied the bold fighting style of Grand Prince Cyricas and emulate his intrepid tread through jungles and other dangerous lands.",
+    "prerequisites": "Dex 15, Acrobatic Steps, Nimble Moves",
+    "benefit": "When you charge or run, you treat difficult terrain as normal terrain.",
+    "prerequisiteKeys":     [
+        "acrobatic steps",
+        "nimble moves"
+    ]
+}

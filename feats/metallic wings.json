@@ -1,0 +1,14 @@
+{
+    "key": "metallic wings",
+    "name": "Metallic Wings",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Metallic%20Wings",
+    "source": ["Advanced Race Guide pg. 88"],
+    "description": "Your wing feathers are made of gleaming metal.",
+    "prerequisites": "Angelic Blood, Angelic Flesh, Angel Wings, aasimar, character level 11th",
+    "benefit": "You gain two wing attacks. These are secondary natural attacks that deal 1d4 points of slashing damage (or 1d3 if you are Small).",
+    "prerequisiteKeys":     [
+        "angel wings",
+        "angelic blood",
+        "angelic flesh"
+    ]
+}

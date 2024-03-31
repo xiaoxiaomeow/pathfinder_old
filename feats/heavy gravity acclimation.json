@@ -1,0 +1,10 @@
+{
+    "key": "heavy gravity acclimation",
+    "name": "Heavy Gravity Acclimation",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heavy%20Gravity%20Acclimation",
+    "source": ["Planar Adventures pg. 29"],
+    "description": "Your muscles work overtime in areas with heavy gravity.",
+    "prerequisites": "Str 17 or Endurance",
+    "benefit": "You do not take the normal penalties for being on heavy gravity planes. At the GM’s discretion, this effect may apply to certain environments on the Material Plane, such as high-gravity planets. In addition, your Strength is considered to be 4 higher for the purpose of determining your carrying capacity.",
+    "prerequisiteKeys": ["endurance"]
+}

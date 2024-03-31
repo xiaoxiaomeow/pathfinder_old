@@ -1,0 +1,12 @@
+{
+    "key": "prone shooter",
+    "name": "Prone Shooter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Prone%20Shooter",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 113"],
+    "description": "While prone, you use the ground to stabilize your aim while using a crossbow or firearm.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "If you have been prone since the end of your last turn, the penalty to your Armor Class against melee attacks made against you is reduced to –2. In addition, the bonus to your Armor Class against ranged attacks made against you is increased to +6.",
+    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain the bonuses from this feat even if you haven’t been prone since the end of your last turn."
+}

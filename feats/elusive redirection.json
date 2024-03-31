@@ -1,0 +1,13 @@
+{
+    "key": "elusive redirection",
+    "name": "Elusive Redirection",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elusive%20Redirection",
+    "source": ["Ultimate Combat pg. 100"],
+    "description": "You can redirect an attack back at your assailant or into an adjacent enemy.",
+    "prerequisites": "Elusive target class feature, Combat Expertise, Improved Unarmed Strike, flowing monk level 12th",
+    "benefit": "When you successfully use your elusive target class feature to avoid taking damage, you can spend an immediate action and an additional point from your ki pool to redirect that attack back at your attacker or toward any other opponent adjacent to you and your attacker. This attack uses the same attack roll as the original attack, but it targets the opponent you choose.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved unarmed strike"
+    ]
+}

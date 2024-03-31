@@ -1,0 +1,10 @@
+{
+    "key": "stretched wings",
+    "name": "Stretched Wings",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stretched%20Wings",
+    "source": ["Advanced Race Guide pg. 201"],
+    "description": "You strengthen your crippled wings.",
+    "prerequisites": "Str 13, Skill Focus (Fly), strix, wing-clipped racial trait",
+    "benefit": "Your strix racial fly speed increases to 60 feet (average). You ignore the wing-clipped trait’s Fly check requirement to fly upward.",
+    "prerequisiteKeys": ["skill focus"]
+}

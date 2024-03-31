@@ -1,0 +1,15 @@
+{
+    "key": "broken wing gambit",
+    "name": "Broken Wing Gambit",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Broken%20Wing%20Gambit",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 90"],
+    "description": "You feign weakness, making yourself a tempting and distracting target. ",
+    "prerequisites": "Bluff 5 ranks",
+    "benefit": "Whenever you make a melee attack and hit your opponent, you can use a free action to grant that opponent a +2 bonus on attack and damage rolls against you until the end of your next turn or until your opponent attacks you, whichever happens first. If that opponent attacks you with this bonus, it provokes attacks of opportunity from your allies who have this feat.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When an opponent with the +2 bonus on attack rolls granted by this feat attacks you, you can spend 5 stamina points to have that attack provoke an attack of opportunity from you also."
+}

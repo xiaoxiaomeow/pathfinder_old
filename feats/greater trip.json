@@ -1,0 +1,21 @@
+{
+    "key": "greater trip",
+    "name": "Greater Trip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Trip",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 126"],
+    "description": "You can make free attacks on foes that you knock down.",
+    "prerequisites": "Combat Expertise, Improved Trip, base attack bonus +6, Int 13",
+    "benefit": "You receive a +2 bonus on checks made to trip a foe. This bonus stacks with the bonus granted by Improved Trip. Whenever you successfully trip an opponent, that opponent provokes attacks of opportunity.",
+    "normal": "Creatures do not provoke attacks of opportunity from being tripped.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 2 stamina points after you successfully trip an opponent to deal 1d6 points of falling damage to the target.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved trip"
+    ],
+    "name_zh": "高等绊摔",
+    "description_zh": "你可以自由攻击被你击倒的对手。",
+    "prerequisites_zh": "寓守于攻，精通绊摔，基本攻击加值+6，智力13。",
+    "benefit_zh": "你的绊摔检定获得+2加值，此加值与“精通绊摔”专长带来的加值累计。每当你成功绊摔一个敌人时，该敌人会引发藉机攻击。"
+}

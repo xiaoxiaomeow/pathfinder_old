@@ -1,0 +1,11 @@
+{
+    "key": "unraveling blood",
+    "name": "Unraveling Blood",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Unraveling%20Blood",
+    "source": ["Potions and Poisons pg. 6"],
+    "description": "Your toxic blood has the power to destroy both flesh and foul curses.",
+    "prerequisites": "Dispelling Blood, Knowledge (arcana) 9 ranks, vishkanya",
+    "benefit": "As a swift action, you can alter the effects of your vishkanya venom to function as <i>break enchantment<\/i> when striking a creature, using your character level as your caster level. This dispelling effect affects creatures even if they are immune to poison effects.",
+    "normal": "Vishkanya venom deals Dexterity damage.",
+    "prerequisiteKeys": ["dispelling blood"]
+}

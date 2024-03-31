@@ -1,0 +1,16 @@
+{
+    "key": "murderer's circle",
+    "name": "Murderer's Circle",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Murderer's%20Circle",
+    "descriptors":     [
+        "Combat",
+        "Performance"
+    ],
+    "source": ["Ultimate Combat pg. 111"],
+    "description": "After savaging your foe, you circle like a hunter ready for the kill.",
+    "prerequisites": "Dodge, Acrobatics 4 ranks",
+    "benefit": "When you spend a swift action to make a performance combat check after scoring a critical hit or performing a combat maneuver, and you are adjacent to the target of the critical hit or combat maneuver, you can move to any other space that is adjacent to the target without provoking attacks of opportunity. You must have a clear path to that space and the ability to reach it by spending a move action. If you end this move in any space other than the one where you started, you gain a +2 bonus on the performance combat check.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "You can spend 2 stamina points to use this feat after dealing maximum damage to or successfully feinting against a creature. You must still be adjacent to the creature.",
+    "prerequisiteKeys": ["dodge"]
+}

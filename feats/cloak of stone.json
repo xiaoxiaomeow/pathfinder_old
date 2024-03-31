@@ -1,0 +1,13 @@
+{
+    "key": "cloak of stone",
+    "name": "Cloak of Stone",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cloak%20of%20Stone",
+    "source": ["Heroes from the Fringe pg. 9"],
+    "description": "You can use the stone around you to hide, even  observed by your foes.",
+    "prerequisites": "Wis 17, Stone Cover, Stone Shroud, Stealth 11 ranks, dwarf, stonecunning racial trait",
+    "benefit": "You can use the Stealth skill to hide even while being observed while you are in areas of rocky terrain or while underground. Y0u can hide yourself from view in the open without anything to actually hide behind as long as you are within 10 feet of rocky terrain, or at any time while you are underground.",
+    "prerequisiteKeys":     [
+        "stone cover",
+        "stone shroud"
+    ]
+}

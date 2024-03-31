@@ -1,0 +1,16 @@
+{
+    "key": "ray shield",
+    "name": "Ray Shield",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ray%20Shield",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 168"],
+    "description": "You can even deflect rays with your shield.",
+    "prerequisites": "Dex 15, Missile Shield, Spellbreaker",
+    "benefit": "You must be using a light, heavy, or tower shield to use this feat. Once per round when you would normally be hit with a ranged touch attack (including rays and similar magical effects), you may deflect it so that you take no damage from it. Your shield suffers the full effects of the spell or effect, if applicable.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "You can spend 2 stamina points to gain the effect of this feat while preventing the spell or effect from affecting your shield.",
+    "prerequisiteKeys":     [
+        "missile shield",
+        "spellbreaker"
+    ]
+}

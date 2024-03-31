@@ -1,0 +1,14 @@
+{
+    "key": "tandem trip",
+    "name": "Tandem Trip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tandem%20Trip",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Ultimate Combat pg. 122"],
+    "description": "You know how to work together to trip your foes.",
+    "benefit": "Whenever you attempt a trip combat maneuver against an enemy threatened by an ally with this feat, you roll twice and take the better result.",
+    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaText": "When attempting to trip a target that is threatened by one of your allies, you can spend 2 stamina points to gain this feat’s benefit even if the threatening ally doesn’t have this feat."
+}

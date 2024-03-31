@@ -1,0 +1,14 @@
+{
+    "key": "gliding steps",
+    "name": "Gliding Steps",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gliding%20Steps",
+    "source": ["Ultimate Magic pg. 151"],
+    "description": "You skate across the surface of the earth as if gliding on ice.",
+    "prerequisites": "Dodge, Mobility, Nimble Moves, <i>ki<\/i> pool",
+    "benefit": "If you have at least one <i>ki<\/i> in your <i>ki<\/i> pool, when you move you do not provoke attacks of opportunity when leaving the first square of that movement. You can spend 1 <i>ki<\/i> point to avoid provoking attacks of opportunity during that entire move.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility",
+        "nimble moves"
+    ]
+}

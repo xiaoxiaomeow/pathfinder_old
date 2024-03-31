@@ -1,0 +1,14 @@
+{
+    "key": "thuvian grenadier",
+    "name": "Thuvian Grenadier",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Thuvian%20Grenadier",
+    "descriptors": ["Teamwork"],
+    "source": ["People of the Sands pg. 9"],
+    "description": "Training with alchemically inclined allies helps you avoid friendly fire.",
+    "prerequisites": "Precise Shot or Throw Anything",
+    "benefit": "Whenever you hit a creature with a splash weapon, you may choose to exclude one creature within the weapon’s splash area from taking splash damage. If a creature within the splash area also has this feat, it automatically ignores splash damage from your splash weapons on a successful hit.",
+    "prerequisiteKeys":     [
+        "precise shot",
+        "throw anything"
+    ]
+}

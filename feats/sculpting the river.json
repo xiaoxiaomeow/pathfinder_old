@@ -1,0 +1,17 @@
+{
+    "key": "sculpting the river",
+    "name": "Sculpting the River",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sculpting%20the%20River",
+    "descriptors":     [
+        "Combat",
+        "Combination"
+    ],
+    "source": ["Martial Arts Handbook pg. 27"],
+    "description": "Your deft strikes and canny positioning control the flow of combat.",
+    "prerequisites": "Dodge, Improved Unarmed Strike, base attack bonus +6 or monk level 6th",
+    "benefit": "When you deal damage with an unarmed attack to an opponent you have already damaged this round, you can impose a –1 penalty on that target’s attacks against creatures other than you. The penalties stack and remain until the target misses an attack or the start of your next turn, whichever comes first.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "improved unarmed strike"
+    ]
+}

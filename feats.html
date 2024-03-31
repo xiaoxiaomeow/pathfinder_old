@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>pf专长速查</title>
+	<link rel="shortcut icon" href="bluebear.ico">
+    <script src="script/jquery.min.js"></script>
+    <script src="script/marked.min.js"></script>
+    <script src="script/common.js"></script>
+    <script src="featsIndex.js"></script>
+    <script src="feats.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css"></style>
+</head>
+
+<body onload="loadTransAndSearchElements();">
+    <div style="font-family:Consolas;">
+        <div id="topBar"></div>
+		<script type="text/javascript">addTopBar();</script>
+
+        <h3>Pathfinder专长速查</h3>
+
+        <div style="display: flex; flex-wrap: wrap;" id="descriptors">
+            <div>描述符：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;" id="source">
+            <div>出处：</div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap;">
+            <div>展示专长树：</div>
+            <input type="checkbox" checked="true" id="showTree">
+        </div>
+        <div style="display: flex; flex-wrap: wrap;">
+            <div>名称：</div>
+            <input type="text" id="name">
+            <input type="button" onclick="search();" value="查找">
+        </div>
+
+		<div style="width: 100%; overflow-x: auto; overflow-y: visible;" id="table">
+		</div>
+    </div>
+
+</body>
+
+</html>

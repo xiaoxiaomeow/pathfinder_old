@@ -1,0 +1,20 @@
+{
+    "key": "greater vital strike",
+    "name": "Greater Vital Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Vital%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 126"],
+    "description": "You can make a single attack that deals incredible damage.",
+    "prerequisites": "Improved Vital Strike, Vital Strike, base attack bonus +16",
+    "benefit": "When you use the attack action, you can make one attack at your highest base attack bonus that deals additional damage. Roll the weapon's damage dice for the attack four times and add the results together before adding bonuses from Strength, weapon abilities (such as flaming), precision-based damage, and other damage bonuses. These extra weapon damage dice are not multiplied on a critical hit, but are added to the total.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When using the Vital Strike combat trick, you can spend 4 stamina points instead of 2 to reroll four damage dice.",
+    "prerequisiteKeys":     [
+        "improved vital strike",
+        "vital strike"
+    ],
+    "name_zh": "高等要害打击",
+    "description_zh": "你在一击中造成不可思议的巨大伤害。",
+    "prerequisites_zh": "精通要害打击、要害打击、基本攻击加值+16",
+    "benefit_zh": "你可以用一个标准动作以你的最高BAB做出一次攻击，并造成额外的伤害。丢伤害骰四次并将结果合计，但力量、武器属性（例如〔炽焰〕附魔）及基于精准的攻击（例如偷袭）带来的伤害则不翻倍。本专长带来的额外伤害在重击时不翻倍（尽管其他伤害加值正常翻倍计算）。"
+}

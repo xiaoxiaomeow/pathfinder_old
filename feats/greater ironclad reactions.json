@@ -1,0 +1,19 @@
+{
+    "key": "greater ironclad reactions",
+    "name": "Greater Ironclad Reactions",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Ironclad%20Reactions",
+    "descriptors":     [
+        "Armor Mastery",
+        "Combat"
+    ],
+    "source": ["Armor Master's Handbook pg. 16"],
+    "description": "You are able to quickly react to attacks.",
+    "prerequisites": "Combat Reflexes, Ironclad Reactions, base attack bonus +11 or fighter level 8th, armor trainingclass feature, proficiency with medium armor",
+    "benefit": "You can use Ironclad Reactions more than once per round, but not more than once for each act you take that provokes an attack of opportunity. Each 5-foot step you take still counts as expending one use of an attack of opportunity.",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 5 stamina points to use this feat without it counting against your maximum number of attacks of opportunity for that round. (See page 16.)",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "ironclad reactions"
+    ]
+}

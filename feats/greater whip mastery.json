@@ -1,0 +1,17 @@
+{
+    "key": "greater whip mastery",
+    "name": "Greater Whip Mastery",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Whip%20Mastery",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 103"],
+    "description": "You can use a whip to make combat maneuvers with ease.",
+    "prerequisites": "Improved Whip Mastery, Weapon Focus (whip), Whip Mastery, base attack bonus +8",
+    "benefit": "You are so quick with your whip that you never drop it due to a failed disarm or trip combat maneuver attempt. Further, you gain the ability to grapple using your whip. To do so, use the normal grapple rules with the following changes. <i>Attack<\/i>: You cannot use your whip to attack while you are using it to grapple an opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When you initiate a grapple with a whip, you can spend 5 stamina points to attempt a second grapple check as a swift action to either move or damage the creature you are grappling. This is not a check to maintain the grapple.",
+    "prerequisiteKeys":     [
+        "improved whip mastery",
+        "weapon focus",
+        "whip mastery"
+    ]
+}

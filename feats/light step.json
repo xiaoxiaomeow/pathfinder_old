@@ -1,0 +1,13 @@
+{
+    "key": "light step",
+    "name": "Light Step",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Light%20Step",
+    "source": ["Advanced Player's Guide pg. 164"],
+    "description": "You pick your way nimbly through even the most dangerous and uneven terrain.",
+    "prerequisites": "Acrobatic Steps, Nimble Moves, elf",
+    "benefit": "You can ignore the effects of difficult terrain in natural environments, as if it were normal terrain.",
+    "prerequisiteKeys":     [
+        "acrobatic steps",
+        "nimble moves"
+    ]
+}

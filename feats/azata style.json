@@ -1,0 +1,17 @@
+{
+    "key": "azata style",
+    "name": "Azata Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Azata%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Planar Adventures pg. 26"],
+    "description": "Your quickness and grace keep you alive.",
+    "prerequisites": "Dodge, Mobility, base attack bonus +2",
+    "benefit": "While using this style, during any round in which you move at least 15 feet, you gain a +1 dodge bonus to your AC. This bonus lasts until the beginning of your next turn.",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

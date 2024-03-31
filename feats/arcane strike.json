@@ -1,0 +1,20 @@
+{
+    "key": "arcane strike",
+    "name": "Arcane Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "You draw upon your arcane power to enhance your weapons with magical energy.",
+    "prerequisites": "Ability to cast arcane spells",
+    "benefit": "As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, your weapons deal +1 damage and are treated as magic for the purpose of overcoming damage reduction. For every five caster levels you possess, this bonus increases by +1, to a maximum of +5 at 20th level.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "You can spend any number of stamina points to increase the duration of this feat’s effects by 1 round for each stamina point spent.",
+    "mythicSource": ["Mythic Adventures pg. 55"],
+    "mythicDescription": "Using your amazing arcane talents, you can deliver devastating blows infused with magical energy.",
+    "mythicPrerequisites": "Arcane Strike",
+    "mythicBenefit": "Whenever you use Arcane Strike to enhance your weapons, the effect lasts for 1 minute instead of 1 round. If you expend one use of mythic power when using Arcane Strike, you can also add any one magic weapon special ability with a base price modifier of +1 to your weapons. This base price modifier increases to +2 at 4th tier, +3 at 7th tier, and +4 at 10th tier.",
+    "name_zh": "奥术打击",
+    "description_zh": "你用你的法力增强武器的魔法力量。",
+    "prerequisites_zh": "奥术施法能力。",
+    "benefit_zh": "通过一个迅捷动作，你能将你的部分魔法能量加持到你的武器上。你的武器伤害+1，且在面对伤害减免的时候被视为魔法武器。每拥有5个CL伤害加值+1，最高可以在20级的时候达到+5。"
+}

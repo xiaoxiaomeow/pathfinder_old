@@ -1,0 +1,16 @@
+{
+    "key": "twin thunders master",
+    "name": "Twin Thunders Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 123"],
+    "description": "With thunderous simultaneous strikes, you can batter a mighty giant into submission.",
+    "prerequisites": "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9",
+    "benefit": "Whenever you deal an opponent extra damage with the Twin Thunders feat, that opponent is shaken for 1 round. You also force that opponent to succeed at a Fortitude saving throw (DC 10 + half your level + your Str modifier) or become staggered for 1 round. If you use this feat to render staggered an opponent that is already staggered, you daze that opponent instead. In a similar way, you can stun an opponent that is already dazed.",
+    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaText": "When you use the Twin Thunders<sup>UC<\/sup> feat to deal extra damage to an opponent, you can spend 2 stamina points to make that opponent shaken for 1d4 rounds.",
+    "prerequisiteKeys":     [
+        "twin thunders flurry",
+        "twin thunders"
+    ]
+}

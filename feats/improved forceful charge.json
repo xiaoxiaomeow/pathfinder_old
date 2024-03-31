@@ -1,0 +1,14 @@
+{
+    "key": "improved forceful charge",
+    "name": "Improved Forceful Charge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Forceful%20Charge",
+    "source": ["Adventurer's Guide pg. 16"],
+    "description": "Enemies fall before this animal’s charge.",
+    "prerequisites": "Forceful Charge, Improved Bull Rush, Power Attack, animal companion",
+    "benefit": "This animal can bull rush a target that is up to two size categories larger than itself. If it pushes the target at least 10 feet as a result of this bull rush, it can attempt a trip combat maneuver check against the target as a free action. This trip combat maneuver provokes attacks of opportunity as normal.",
+    "prerequisiteKeys":     [
+        "forceful charge",
+        "improved bull rush",
+        "power attack"
+    ]
+}

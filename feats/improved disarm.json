@@ -1,0 +1,22 @@
+{
+    "key": "improved disarm",
+    "name": "Improved Disarm",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Disarm",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 127"],
+    "description": "You are skilled at knocking weapons from a foe's grasp.",
+    "prerequisites": "Int 13, Combat Expertise",
+    "benefit": "You do not provoke an attack of opportunity when performing a disarm combat maneuver. In addition, you receive a +2 bonus on checks made to disarm a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to disarm you.",
+    "normal": "You provoke an attack of opportunity when performing a disarm combat maneuver.",
+    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a disarm combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that disarm attempt increases by that number.",
+    "mythicSource": ["Mythic Adventures pg. 67"],
+    "mythicDescription": "You’re expert at knocking your enemies’ weapons away.",
+    "mythicPrerequisites": "Improved Disarm",
+    "mythicBenefit": "You gain a bonus equal to half your tier on checks to disarm, and to your CMD when an opponent tries to disarm you. These bonuses stack with those granted by Improved Disarm.",
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通卸武",
+    "description_zh": "你擅长在战斗中卸除对手的武器。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "当你试图卸除对手的武器时，不会引发对方的藉机攻击。此外，在你卸武检定上获得+2加值。你在对抗卸武的战技防御上同样获得+2加值。"
+}

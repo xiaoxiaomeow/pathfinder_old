@@ -1,0 +1,10 @@
+{
+    "key": "prestigious spellcaster",
+    "name": "Prestigious Spellcaster",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Prestigious%20Spellcaster",
+    "source": ["Paths of the Righteous pg. 3"],
+    "description": "The transition into a spellcasting prestige class is less difficult for you, and because of this, you gain 1 additional effective spellcaster level from your prestige class levels.",
+    "prerequisites": "Favored Prestige Class with selected prestige class",
+    "benefit": "The first time you gain a level in your favored prestige class and the spells per day class feature does not grant an increase in effective level for the purpose of casting spells, you gain new spells per day as if the prestige class did grant +1 level of spellcasting for that level. This effect is retroactive if you gain this feat at a level beyond the point where your favored prestige class would normally have not advanced your spellcasting.",
+    "normal": "You can select the Prestigious Spellcaster feat multiple times. Each time you select the Prestigious Spellcaster feat, your effective caster level increases by 1. However, regardless of the number of times you choose this feat, the total increase to your effective caster level cannot exceed your actual prestige class level."
+}

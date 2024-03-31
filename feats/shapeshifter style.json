@@ -1,0 +1,14 @@
+{
+    "key": "shapeshifter style",
+    "name": "Shapeshifter Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shapeshifter%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Martial Arts Handbook pg. 19"],
+    "description": "You can shift your physiology without fully changing your shape, giving you an advantage in battle.",
+    "prerequisites": "Base attack bonus +3, change shape ability, shapechanger subtype",
+    "benefit": "You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action.",
+    "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites."
+}

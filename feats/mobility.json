@@ -1,0 +1,21 @@
+{
+    "key": "mobility",
+    "name": "Mobility",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mobility",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 130"],
+    "description": "You can easily move through a dangerous melee.",
+    "prerequisites": "Dex 13, Dodge",
+    "benefit": "You get a +4 dodge bonus to Armor Class against attacks of opportunity caused when you move out of or within a threatened area. A condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "Your dodge bonus to AC from the Dodge feat combat trick is doubled against attacks of opportunity provoked by movement. If you don’t have the Dodge feat, you can still use its combat trick.",
+    "mythicSource": ["Mythic Adventures pg. 69"],
+    "mythicDescription": "You have perfected your ability to weave through the battlefield, using your momentum to propel yourself far.",
+    "mythicPrerequisites": "Mobility",
+    "mythicBenefit": "Whenever you use Mobility, you gain a +6 dodge bonus to AC instead of the normal +4. In addition, once per round when an attack of opportunity provoked by your movement misses you, you may move 5 feet as a free action. This movement doesn’t count against your total overall movement for the round, but it does provoke attacks of opportunity.",
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "灵活移动",
+    "description_zh": "你善于闪过敌人并躲开攻击。",
+    "prerequisites_zh": "敏捷13，闪避。",
+    "benefit_zh": "当你离开敌人的威胁区域或在该范围内移动，引发对方藉机攻击时，你的AC可获得+4闪避加值。若你失去AC的敏捷加值（如果有），也会同时失去闪避加值。各项闪避加值可以累加，这与其他大部分类型加值不同。"
+}

@@ -1,0 +1,14 @@
+{
+    "key": "feral combat training",
+    "name": "Feral Combat Training",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Feral%20Combat%20Training",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 101"],
+    "description": "You were taught a style of martial arts that relies on the natural weapons from your racial ability or class feature.",
+    "prerequisites": "Improved Unarmed Strike, Weapon Focus with selected natural weapon",
+    "benefit": "Choose one of your natural weapons. While using the selected natural weapon, you can apply the effects of feats that have Improved Unarmed Strike as a prerequisite.",
+    "special": "If you are a monk, you can use the selected natural weapon with your flurry of blows class feature.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "At the start of your turn, you can spend any number of stamina points. Until the beginning of your next turn, for every 2 stamina points you spent this way, you can apply the effects of Feral Combat Training to a single natural weapon attack made with a natural weapon other than the weapon chosen with this feat.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

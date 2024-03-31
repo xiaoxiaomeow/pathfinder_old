@@ -1,0 +1,14 @@
+{
+    "key": "skyseeker thrash",
+    "name": "Skyseeker Thrash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skyseeker%20Thrash",
+    "descriptors": ["Combat"],
+    "source": ["Blood of the Ancients pg. 28"],
+    "description": "Your fighting style is enhanced by sheer fortitude in the face of intimidating foes.",
+    "prerequisites": "Con 13, Skyseeker Style, Step Up, base attack bonus +4",
+    "benefit": "While using Skyseeker Style, you gain a cumulative +1 bonus on melee damage rolls for every size category your opponent is larger than you.",
+    "prerequisiteKeys":     [
+        "skyseeker style",
+        "step up"
+    ]
+}

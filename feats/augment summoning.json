@@ -1,0 +1,18 @@
+{
+    "key": "augment summoning",
+    "name": "Augment Summoning",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Augment%20Summoning",
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "Your summoned creatures are more powerful and robust.",
+    "prerequisites": "Spell Focus (conjuration)",
+    "benefit": "Each creature you conjure with any <i>summon<\/i> spell gains a +4 enhancement bonus to Strength and Constitution for the duration of the spell that summoned it.",
+    "mythicSource": ["Mythic Adventures pg. 60"],
+    "mythicDescription": "Your summoning spells bring not mere ordinary beasts, but instead mythic creatures.",
+    "mythicPrerequisites": "Augment Summoning",
+    "mythicBenefit": "Any creature you summon using a summon spell is considered mythic for the purpose of interacting with other mythic creatures. It doesn’t gain any mythic abilities or power, but is affected by mythic spells and abilities as if it were a 1st-tier mythic creature. Additionally, if the creature summoned has damage reduction, its damage reduction becomes DR/epic.",
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "增强召唤",
+    "description_zh": "你的召唤生物将更加强健有力。",
+    "prerequisites_zh": "法术专攻（咒法）。",
+    "benefit_zh": "你用召唤法术召唤的任何生物获得力量和体质的+4增强加值。"
+}

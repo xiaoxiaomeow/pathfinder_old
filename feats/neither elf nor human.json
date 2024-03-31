@@ -1,0 +1,13 @@
+{
+    "key": "neither elf nor human",
+    "name": "Neither Elf nor Human",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Neither%20Elf%20nor%20Human",
+    "source": ["Advanced Race Guide pg. 47"],
+    "description": "You have removed yourself from your heritage so thoroughly that even magic does not recognize you.",
+    "prerequisites": "Exile's Path, Seen and Unseen, character level 11th, half-elf",
+    "benefit": "You are not considered elven or human for the purpose of harmful spells or effects based on your type, like a bane weapon or a ranger’s favored enemy class feature.",
+    "prerequisiteKeys":     [
+        "exile's path",
+        "seen and unseen"
+    ]
+}

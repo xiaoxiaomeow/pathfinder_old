@@ -1,0 +1,12 @@
+{
+    "key": "hammer the gap",
+    "name": "Hammer the Gap",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hammer%20the%20Gap",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 103"],
+    "description": "You repeatedly strike the same location, causing increasing amounts of damage.",
+    "prerequisites": "Base attack bonus +6",
+    "benefit": "When you take a full-attack action, each consecutive hit against the same opponent deals extra damage equal to the number of previous consecutive hits you have made against that opponent this turn. This damage is multiplied on a critical hit.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When you use this feat, you can spend 5 stamina points to increase the amount of extra damage dealt by 1 point per consecutive hit you make."
+}

@@ -1,0 +1,21 @@
+{
+    "key": "cleave",
+    "name": "Cleave",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cleave",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 119"],
+    "description": "You can strike two adjacent foes with a single swing.",
+    "prerequisites": "Str 13, Power Attack, base attack bonus +1",
+    "benefit": "As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the first and also within reach. You can only make one additional attack per round with this feat. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When using the Cleave or Great Cleave feat, you can spend 4 stamina points to negate the –2 penalty to Armor Class until your next turn.",
+    "mythicSource": ["Mythic Adventures pg. 61"],
+    "mythicDescription": "You can cleave any foe within your reach.",
+    "mythicPrerequisites": "Cleave",
+    "mythicBenefit": "Whenever you use Cleave or Great Cleave, one of your attacks can be made against a foe that is within your reach, but not adjacent to the foe you attacked. You can expend one use of mythic power when you use Cleave or Great Cleave to continue making attacks against foes within your reach, regardless of their position, as long as you continue to hit each foe. You can’t use this ability to attack a foe more than once per round.",
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "顺势斩",
+    "description_zh": "你挥动一次武器，命中两个相邻的敌人。",
+    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+1。",
+    "benefit_zh": "每轮1次，以一个标准动作，你可以对攻击范围内的一个敌人以最高BAB进行一次攻击。若命中，在正常伤害的同时，你还能对攻击范围内、与其相邻的另一敌人再进行一次最高BAB攻击。若你这么做，在你下轮动作之前，会遭受AC-2的惩罚。"
+}

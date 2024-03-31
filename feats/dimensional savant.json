@@ -1,0 +1,14 @@
+{
+    "key": "dimensional savant",
+    "name": "Dimensional Savant",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Savant",
+    "source": ["Ultimate Combat pg. 96"],
+    "description": "You flash into and out of reality so quickly it is impossible to tell exactly where you are at any given time. ",
+    "prerequisites": "Dimensional Agility, Dimensional Assault, Dimensional Dervish, ability to use the abundant step class feature or cast <i>dimension door<\/i>, base attack bonus +9",
+    "benefit": "While using the Dimensional Dervish feat, you provide flanking from all squares you attack from. Flanking starts from the moment you make an attack until the start of your next turn. You can effectively flank with yourself and with multiple allies when using this feat.",
+    "prerequisiteKeys":     [
+        "dimensional agility",
+        "dimensional assault",
+        "dimensional dervish"
+    ]
+}

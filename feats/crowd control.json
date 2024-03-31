@@ -1,0 +1,13 @@
+{
+    "key": "crowd control",
+    "name": "Crowd Control",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crowd%20Control",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Divine Anthology pg. 6"],
+    "description": "You and your allies have been trained to prevent enemies from moving around or through your formation.",
+    "prerequisites": "Base attack bonus +3",
+    "benefit": "You gain a +2 competence bonus to your CMD when an enemy uses Acrobatics to move through a square you threaten. For each ally within your reach that also has this feat, the bonus increases by an additional 2."
+}

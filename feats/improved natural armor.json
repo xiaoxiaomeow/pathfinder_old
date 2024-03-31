@@ -1,0 +1,11 @@
+{
+    "key": "improved natural armor",
+    "name": "Improved Natural Armor",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Natural%20Armor",
+    "descriptors": ["Monster"],
+    "source": ["Pathfinder RPG Bestiary pg. 315"],
+    "description": "This creature’s hide is tougher than most.",
+    "prerequisites": "Natural armor, Con 13",
+    "benefit": "The creature’s natural armor bonus increases by +1.",
+    "special": "A creature can gain this feat multiple times. Each time the creature takes the feat, its natural armor bonus increases by another point."
+}

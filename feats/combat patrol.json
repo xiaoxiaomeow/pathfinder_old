@@ -1,0 +1,16 @@
+{
+    "key": "combat patrol",
+    "name": "Combat Patrol",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Patrol",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 156"],
+    "description": "You range across the battlefield, dealing with threats wherever they arise.",
+    "prerequisites": "Combat Reflexes, Mobility, base attack bonus +5",
+    "benefit": "As a full-round action, you may set up a combat patrol, increasing your threatened area by 5 feet for every 5 points of your base attack bonus. Until the beginning of your next turn, you may make attacks of opportunity against any opponent in this threatened area that provokes attacks of opportunity. You may move as part of these attacks, provided your total movement before your next turn does not exceed your speed. Any movement you make provokes attacks of opportunity as normal.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "When moving before or after making an attack of opportunity while using Combat Patrol, you can spend 1 stamina point per 5 feet moved. When you do, that movement does not provoke attacks of opportunity.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "mobility"
+    ]
+}

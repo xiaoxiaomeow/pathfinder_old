@@ -1,0 +1,16 @@
+{
+    "key": "superior dirty trick",
+    "name": "Superior Dirty Trick",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Superior%20Dirty%20Trick",
+    "descriptors": ["Combat"],
+    "source": ["Dirty Tactics Toolbox pg. 15"],
+    "description": "Your training in a particular dirty trick makes it especially effective.",
+    "prerequisites": "Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8",
+    "benefit": "Choose one condition imposed by the dirty trick combat maneuver, such as blinded or entangled. The target must spend a full-round action in order to remove that condition.",
+    "special": "You can gain this feat multiple times. Each time you take the feat, it applies to a different condition.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "greater dirty trick",
+        "improved dirty trick"
+    ]
+}

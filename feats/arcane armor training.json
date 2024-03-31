@@ -1,0 +1,20 @@
+{
+    "key": "arcane armor training",
+    "name": "Arcane Armor Training",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Armor%20Training",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "You have learned how to cast spells while wearing armor.",
+    "prerequisites": "Light Armor Proficiency, caster level 3rd",
+    "benefit": "As a swift action, reduce the arcane spell failure chance due to the armor you are wearing by 10% for any spells you cast this round.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Training as a free action.",
+    "mythicSource": ["Mythic Adventures pg. 55"],
+    "mythicDescription": "You’ve adapted your spellcasting to overcome limitations of wearing armor.",
+    "mythicPrerequisites": "Arcane Armor Training",
+    "mythicBenefit": "You don’t have to spend a swift action to gain the reduction to arcane spell failure chance from Arcane Armor Training. Furthermore, if you’re wearing light armor, reduce your arcane spell failure chance by 20%.",
+    "name_zh": "披甲奥术训练",
+    "description_zh": "你学会了怎么在身着盔甲的时候施法。",
+    "prerequisites_zh": "擅长轻型盔甲，施法者等级3级。",
+    "benefit_zh": "通过一个迅捷动作，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率10%。"
+}

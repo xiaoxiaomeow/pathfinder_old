@@ -1,0 +1,12 @@
+{
+    "key": "quicken spell-like ability",
+    "name": "Quicken Spell-Like Ability",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quicken%20Spell-Like%20Ability",
+    "descriptors": ["Monster"],
+    "source": ["Pathfinder RPG Bestiary pg. 315"],
+    "description": "This creature can use one of its spell-like abilities with next to no effort.",
+    "prerequisites": "Spell-like ability at CL 10th or higher",
+    "benefit": "Choose one of the creature’s spell-like abilities, subject to the restrictions described in this feat. The creature can use the chosen spell-like ability as a quickened spell-like ability three times per day (or less, if the ability is normally usable only once or twice per day).",
+    "normal": "The use of a spell-like ability normally requires a standard action (at the very least) and provokes an attack of opportunity.",
+    "special": "This feat can be taken multiple times. Each time it is taken, the creature can apply it to a different one of its spell-like abilities."
+}

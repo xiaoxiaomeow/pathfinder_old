@@ -1,0 +1,13 @@
+{
+    "key": "betrayer",
+    "name": "Betrayer",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Betrayer",
+    "source": ["Ultimate Combat pg. 89"],
+    "description": "You can charm people into lowering their defenses, allowing you to ambush them more effectively.",
+    "prerequisites": "Quick Draw, Persuasive, base attack bonus +3",
+    "benefit": "When you succeed at a Diplomacy check to change a creature’s attitude, you can draw a weapon and make a single melee attack against that creature as an immediate action. If you changed your target’s attitude to friendly or better, your target is considered flat-footed against this attack. If the target survives, it takes a –2 penalty on its initiative check for this combat.",
+    "prerequisiteKeys":     [
+        "persuasive",
+        "quick draw"
+    ]
+}

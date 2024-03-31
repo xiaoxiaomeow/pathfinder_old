@@ -1,0 +1,22 @@
+{
+    "key": "staggering critical",
+    "name": "Staggering Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Staggering%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 134"],
+    "description": "Your critical hits cause opponents to slow down.",
+    "prerequisites": "Critical Focus, base attack bonus +13",
+    "benefit": "Whenever you score a critical hit, your opponent becomes staggered for 1d4+1 rounds. A successful Fortitude save reduces the duration to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaText": "When you score a critical hit and attempt to stagger an opponent with this feat, you can spend up to 5 stamina points to increase the DC of this feat’s saving throw by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "恍惚重击",
+    "description_zh": "你的重击能让对手慢下来。",
+    "prerequisites_zh": "重击专攻，基本攻击加值+13。",
+    "benefit_zh": "每当你造成重击时，你的对手陷入恍惚“1d4+1”轮。一次成功的强韧豁免将持续时间减为1轮。强韧豁免的DC等于“10+你的BAB”。此专长的效果不会叠加，额外的命中改为延长持续时间。",
+    "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"
+}

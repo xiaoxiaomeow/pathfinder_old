@@ -1,0 +1,17 @@
+{
+    "key": "quick dirty trick",
+    "name": "Quick Dirty Trick",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quick%20Dirty%20Trick",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 114"],
+    "description": "You can perpetrate a dirty trick and deliver an attack before your opponent is the wiser.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6",
+    "benefit": "On your turn, you can perform a single dirty trick combat maneuver (<i>Advanced Players Guide<\/i> 320) in place of one of your melee attacks. You must choose the melee attack with the highest base attack bonus to make the dirty trick combat maneuver.",
+    "normal": "A dirty trick combat maneuver is a standard action.",
+    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 2 stamina points to change an attack that does not have your highest base attack bonus into a dirty trick<sup>APG<\/sup> combat maneuver. You can use this combat trick only once per round, but you can use it even if you already used your attack at the highest base attack bonus for a dirty trick.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved dirty trick"
+    ]
+}

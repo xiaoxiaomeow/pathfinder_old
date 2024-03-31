@@ -1,0 +1,9 @@
+{
+    "key": "savage critical",
+    "name": "Savage Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Savage%20Critical",
+    "source": ["Monster Codex pg. 153"],
+    "description": "You are able to land critical hits precisely, dealing devastating damage.",
+    "prerequisites": "Str 19, ogre, sneak attack +2d6",
+    "benefit": "When you hit a creature using the Vital Strike feat or confirm a critical hit against an opponent, add your sneak attack damage to the damage from the attack. This feat has no effect on attacks that already allow you to add sneak attack damage."
+}

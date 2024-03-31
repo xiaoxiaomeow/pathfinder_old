@@ -1,0 +1,10 @@
+{
+    "key": "mighty bite",
+    "name": "Mighty Bite",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mighty%20Bite",
+    "descriptors": ["Combat"],
+    "source": ["Monster Codex pg. 224"],
+    "description": "Your rending claws expose your opponent’s vital organs to your teeth.",
+    "prerequisites": "Base attack bonus +6, bite attack, rend, troll",
+    "benefit": "If you deal damage to a creature with your rend ability, the critical threat range of your bite attack becomes 18–20 until the start of your next turn. This increase does not stack with other effects that increase your bite’s critical threat range (such as the <i>keen <\/i>weapon special ability or the Improved Critical feat)."
+}

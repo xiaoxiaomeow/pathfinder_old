@@ -1,0 +1,13 @@
+{
+    "key": "sea hunter",
+    "name": "Sea Hunter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sea%20Hunter",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Race Guide pg. 195"],
+    "description": "Your blows knock swimming opponents off balance.",
+    "prerequisites": "Combat Expertise, merfolk",
+    "benefit": "When you make a successful melee attack against a swimming target, as a free action you can attempt to knock the target off balance. Treat this as a trip combat maneuver. If you succeed, the target is considered off balance until it recovers its balance, usually by making a Swim check on its turn. This feat has no effect on creatures with a swim speed, those using magic such as <i>freedom of movement<\/i>, and creatures that can’t be tripped.",
+    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaText": "When you successfully knock a target off balance while using this feat, you can spend up to 5 stamina points to apply a penalty on the target’s Swim checks to recover its balance from the effect equal to the number of stamina points you spent.",
+    "prerequisiteKeys": ["combat expertise"]
+}

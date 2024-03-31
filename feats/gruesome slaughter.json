@@ -1,0 +1,16 @@
+{
+    "key": "gruesome slaughter",
+    "name": "Gruesome Slaughter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gruesome%20Slaughter",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 150"],
+    "description": "You can inspire extreme revulsion when you slaughter your enemies.",
+    "prerequisites": "Intimidating Prowess, Killing Flourish, Intimidate 11 ranks, slayer level 11th",
+    "benefit": "Creatures you demoralize by using the Killing Flourish feat must succeed at a Fortitude save (DC = 10 + 1/2 your character level + the higher of your Strength or Dexterity modifier) or become sickened for 1 minute.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "intimidating prowess",
+        "killing flourish"
+    ]
+}

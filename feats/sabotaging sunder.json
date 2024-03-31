@@ -1,0 +1,15 @@
+{
+    "key": "sabotaging sunder",
+    "name": "Sabotaging Sunder",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sabotaging%20Sunder",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Intrigue pg. 90"],
+    "description": "Your can quickly sabotage a foe’s worn or carried equipment.",
+    "prerequisites": "Str 13, Improved Sunder, Power Attack, Disable Device 7 ranks",
+    "benefit": "As a standard action, you can sabotage an item worn by a foe with a special sunder combat maneuver. You use this maneuver in melee to sabotage an item that is neither held nor hidden in a bag, pack, or other container. You must have at least one hand free to perform this combat maneuver, and doing so provokes an attack of opportunity from the creature against whom you are performing the maneuver, even though you have the Improved Sunder feat.",
+    "normal": "A successful sunder attempt deals weapon damage to the sundered item.",
+    "prerequisiteKeys":     [
+        "improved sunder",
+        "power attack"
+    ]
+}

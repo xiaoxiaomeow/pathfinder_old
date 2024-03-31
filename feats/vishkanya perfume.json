@@ -1,0 +1,11 @@
+{
+    "key": "vishkanya perfume",
+    "name": "Vishkanya Perfume",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vishkanya%20Perfume",
+    "source": ["Villain Codex pg. 224"],
+    "description": "You can change your toxic spittle into poisonous breath.",
+    "prerequisites": "Deadly Kiss, toxic racial trait, vishkanya",
+    "benefit": "As a swift action, you can expend one use of your toxic racial trait to alter your venom into an inhaled poison for 1d4 rounds. At one point within this duration, you can select one adjacent enemy to be exposed. In its inhaled form, your venom is an invisible, perfumed gas, and its DC is 2 lower.",
+    "normal": "Vishkanya venom is an injury poison",
+    "prerequisiteKeys": ["deadly kiss"]
+}

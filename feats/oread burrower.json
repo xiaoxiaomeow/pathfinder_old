@@ -1,0 +1,10 @@
+{
+    "key": "oread burrower",
+    "name": "Oread Burrower",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Oread%20Burrower",
+    "source": ["Advanced Race Guide pg. 147"],
+    "description": "The ground parts for you at the slightest touch, allowing you to dig with great speed.",
+    "prerequisites": "Stony Step, character level 9th, oread",
+    "benefit": "You gain a burrow speed equal to 1/2 your base speed. You can burrow through sand, dirt, clay, gravel, or similar materials, but not solid stone. You do not leave a hole behind, nor is your passage marked on the surface.",
+    "prerequisiteKeys": ["stony step"]
+}

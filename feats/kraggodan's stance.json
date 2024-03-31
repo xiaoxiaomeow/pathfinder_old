@@ -1,0 +1,10 @@
+{
+    "key": "kraggodan's stance",
+    "name": "Kraggodan's Stance",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kraggodan's%20Stance",
+    "descriptors": ["Combat"],
+    "source": ["Elemental Master's Handbook pg. 11"],
+    "description": "You have learned one of the secrets of Kraggodan’s defenders and can lock your armor and shield into an impenetrable barrier.",
+    "prerequisites": "Con 13, proficiency with heavy armor and shields",
+    "benefit": "As a move action when wearing heavy armor and using a heavy shield or tower shield, you increase the bonus to AC granted by your armor and your shield by 1 each until you move or are moved from your current square. You must be in contact with solid ground to gain this benefit. You can never increase an armor or shield bonus to AC by more than 1 each in this way."
+}

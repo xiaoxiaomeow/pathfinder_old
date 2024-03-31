@@ -1,0 +1,19 @@
+{
+    "key": "deathless zealot",
+    "name": "Deathless Zealot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Zealot",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 95"],
+    "description": "Only the most serious wounds can stop you.",
+    "prerequisites": "Str 13, Con 17, orc or half-orc, Deathless Initiate, Deathless Master, Diehard, Endurance, Ironhide, base attack bonus +12",
+    "benefit": "Whenever a creature rolls to confirm a critical hit against you, it must roll twice and take the lowest result.",
+    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaText": "Whenever a creature threatens a critical hit against you and neither of its confirmation rolls would succeed, you can spend 5 stamina points to make an attack of opportunity against that creature.",
+    "prerequisiteKeys":     [
+        "deathless initiate",
+        "deathless master",
+        "diehard",
+        "endurance",
+        "ironhide"
+    ]
+}

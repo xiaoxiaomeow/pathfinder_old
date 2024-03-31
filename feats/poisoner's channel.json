@@ -1,0 +1,9 @@
+{
+    "key": "poisoner's channel",
+    "name": "Poisoner's Channel",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Poisoner's%20Channel",
+    "source": ["Inner Sea Gods pg. 215"],
+    "description": "You cause anyone damaged by your negative energy to become susceptible to poison.",
+    "prerequisites": "Channel energy 3d6, worshiper of Norgorber",
+    "benefit": "Once per day when you channel negative energy to damage living creatures, you can cause any creatures that failed their save against your channel to take a –4 penalty on saving throws against poison effects. This penalty lasts for 1 minute."
+}

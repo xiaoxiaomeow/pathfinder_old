@@ -1,0 +1,14 @@
+{
+    "key": "psychovore strike",
+    "name": "Psychovore Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychovore%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder: Spiral of Bones #3 pg. 29"],
+    "description": "You can land blows that confuse your enemies.",
+    "prerequisites": "Improved Unarmed Strike, Psychovore Style, Sense Motive 9 ranks",
+    "benefit": "When you strike the creature you are gaining a dodge bonus to AC against from Psychovore Style with your unarmed strike, you can force that creature to attempt a Will saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. A creature who fails its save is confused for 1d6 rounds. You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). You can use this ability a number of times per day equal to 1 + your Wisdom bonus (minimum once per day), and no more than once per round. This is a mind-affecting effect, and a creature confused in this way never attacks you.",
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "psychovore style"
+    ]
+}

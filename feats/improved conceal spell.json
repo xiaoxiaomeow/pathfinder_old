@@ -1,0 +1,14 @@
+{
+    "key": "improved conceal spell",
+    "name": "Improved Conceal Spell",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Conceal%20Spell",
+    "source": ["Ultimate Intrigue pg. 84"],
+    "description": "You can conceal the mightiest spells in the subtlest fashions.",
+    "prerequisites": "Conceal Spell, Deceitful, Bluff 5 ranks, Disguise 5 ranks, Sleight of Hand 10 ranks, ability to cast 3rd-level spells or use a 3rd-level spell-like ability",
+    "benefit": "When you use Conceal Spell, creatures no longer gain a bonus equal to the level of the spell or spell-like ability on their checks to notice the hidden spell.",
+    "normal": "Creatures attempting to notice a spell hidden with Conceal Spell gain a bonus equal to the level of the spell or spell-like ability on their Perception, Sense Motive, and Spellcraft checks.",
+    "prerequisiteKeys":     [
+        "conceal spell",
+        "deceitful"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "untwisting iron strength",
+    "name": "Untwisting Iron Strength",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Untwisting%20Iron%20Strength",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Adventurer's Guide pg. 107",
+        "Inner Sea Combat pg. 13"
+    ],
+    "description": "You are a master at breaking even the toughest of objects.",
+    "prerequisites": "Str 15; Wis 13; Perfect Style; base attack bonus +9 or monk level 9th",
+    "benefit": "When using Perfect Style, your attacks ignore an amount of hardness equal to your character level. Additionally, you gain a +4 bonus on Strength checks to break objects. If you spend 1 ki point as a swift action, you also gain the benefits of Improved Sunder for 1 round.",
+    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaText": "You can spend 2 stamina points instead of 1 ki point when using Untwisting Iron Strength.",
+    "prerequisiteKeys": ["perfect style"]
+}

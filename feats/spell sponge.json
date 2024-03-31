@@ -1,0 +1,9 @@
+{
+    "key": "spell sponge",
+    "name": "Spell Sponge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Sponge",
+    "source": ["Animal Archive pg. 19"],
+    "description": "Your mystical connection with your spellcasting master attunes you to helpful magical effects.",
+    "prerequisites": "Animal companion or familiar, share spells ability",
+    "benefit": "Whenever your master targets you with a harmless spell with a target of “you,” the spell’s duration is doubled as if modified by the Extend Spell metamagic feat. This does not affect spells with a duration of concentration, instantaneous, or permanent, or spells already modified by Extend Spell."
+}

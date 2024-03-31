@@ -1,0 +1,10 @@
+{
+    "key": "inexplicable luck",
+    "name": "Inexplicable Luck",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Inexplicable%20Luck",
+    "source": ["Advanced Race Guide pg. 77"],
+    "description": "Others are often dumfounded by your luck.",
+    "prerequisites": "Defiant Luck, human",
+    "benefit": "Once per day, as a free action before a roll is made, you gain a +8 bonus on any single d20 roll. You can also use this ability after the roll is made, but if you do, this bonus is reduced to +4.",
+    "prerequisiteKeys": ["defiant luck"]
+}

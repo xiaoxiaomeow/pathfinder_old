@@ -1,0 +1,14 @@
+{
+    "key": "following step",
+    "name": "Following Step",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Following%20Step",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 160"],
+    "description": "You can repeatedly close the distance when foes try to move away, without impeding your normal movement.",
+    "prerequisites": "Dex 13, Step Up",
+    "benefit": "When using the Step Up feat to follow an adjacent foe, you may move up to 10 feet. You may still take a 5-foot step during your next turn, and any movement you make using this feat does not subtract any distance from your movement during your next turn.",
+    "normal": "You can only take a 5-foot step to follow an opponent using Step Up.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "When you use this feat to move, you can spend 2 stamina points to increase your movement to 15 feet.",
+    "prerequisiteKeys": ["step up"]
+}

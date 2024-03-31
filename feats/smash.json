@@ -1,0 +1,14 @@
+{
+    "key": "smash",
+    "name": "Smash",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smash",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 170"],
+    "description": "You overcome obstacles by breaking them.",
+    "prerequisites": "Power Attack, half-orc",
+    "benefit": "When you attack an inanimate, unattended object, you ignore the first 5 points of its hardness. You also receive a +5 bonus on Strength checks made to knock down or break open doors.",
+    "special": "The benefits of this feat do not apply to sunder attempts or attacks against constructs, only attacks on inanimate, unattended objects.",
+    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaText": "When attempting a sunder combat maneuver or making an attack against a construct that has a hardness, you can spend 5 stamina points to ignore the first 10 points of the target’s hardness.",
+    "prerequisiteKeys": ["power attack"]
+}

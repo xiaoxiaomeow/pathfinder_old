@@ -1,0 +1,14 @@
+{
+    "key": "darting viper",
+    "name": "Darting Viper",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Darting%20Viper",
+    "descriptors": ["Combat"],
+    "source":     [
+        "Adventurer's Armory 2 pg. 11",
+        "Dwarves of Golarion pg. 21"
+    ],
+    "description": "When using a dorn-dergar, you can quickly attack both near and distant foes.",
+    "prerequisites": "Base attack bonus +4, proficiency with the dwarven dorn-dergar",
+    "benefit": "You can change whether you’re using the dorndergar as a normal or reach weapon as a swift action.",
+    "normal": "Changing whether a dorn-dergar is a normal or reach weapon is a move action."
+}

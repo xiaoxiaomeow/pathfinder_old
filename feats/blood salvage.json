@@ -1,0 +1,11 @@
+{
+    "key": "blood salvage",
+    "name": "Blood Salvage",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Salvage",
+    "source": ["Advanced Race Guide pg. 100"],
+    "description": "You do not need to drink blood from a living creature to gain healing benefits.",
+    "prerequisites": "Blood Drinker, dhampir",
+    "benefit": "You can use your Blood Drinker feat on a dead creature of the appropriate humanoid subtype. The creature must have died less than 6 hours beforehand.",
+    "normal": "You only benefit from the Blood Drinker feat if you consume fresh blood from a living creature.",
+    "prerequisiteKeys": ["blood drinker"]
+}

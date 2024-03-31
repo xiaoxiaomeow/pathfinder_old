@@ -1,0 +1,15 @@
+{
+    "key": "armor material expertise",
+    "name": "Armor Material Expertise",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Material%20Expertise",
+    "descriptors":     [
+        "Armor Mastery",
+        "Combat"
+    ],
+    "source": ["Armor Master's Handbook pg. 16"],
+    "description": "You tap into the potential of your armor’s special material.",
+    "prerequisites": "Base attack bonus +6 or fighter level 4th, armor training class feature",
+    "benefit": "When wearing armor made of one of the materials listed below, you can use the listed ability twice per day (unless otherwise stated).",
+    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaText": "You can spend 5 stamina points to use an ability for a material, even though your armor isn’t made of it. This still counts against your daily limit of armor material abilities. (See page 16.)"
+}

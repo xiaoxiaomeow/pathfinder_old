@@ -1,0 +1,14 @@
+{
+    "key": "wyvern fury style",
+    "name": "Wyvern Fury Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wyvern%20Fury%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Legacy of Dragons pg. 21"],
+    "description": "You can combine sweeping attacks with a whip and quick stabs with a blade, imitating a wyvern’s powerful bite and tail tipped with a stinger.",
+    "prerequisites": "Exotic Weapon Proficiency (whip), Acrobatics 3 ranks, brawler's flurry class feature or flurry of blows class feature",
+    "benefit": "While using this style, you can make attacks with a dagger, punching dagger, scorpion whip<sup>UC<\/sup>, spiked gauntlet, or whip when using a flurry of blows or brawler’s flurry. Only one of these attacks can be made with a whip or scorpion whip.",
+    "prerequisiteKeys": ["exotic weapon proficiency"]
+}

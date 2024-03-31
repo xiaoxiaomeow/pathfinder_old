@@ -1,0 +1,16 @@
+{
+    "key": "false opening",
+    "name": "False Opening",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=False%20Opening",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 100"],
+    "description": "When you make a ranged attack while threatened, you can fool your opponent into thinking he has an opening.",
+    "prerequisites": "Dex 13, Dodge, Close Quarters Thrower or Point-Blank Master, Weapon Focus with selected ranged weapon",
+    "benefit": "Choose a ranged weapon or a thrown weapon. When you make a ranged attack using that weapon, you can choose to provoke an attack of opportunity from one or more opponents who threaten you. You gain a +4 dodge bonus against such attacks. An opponent that makes such an attack and misses you loses his Dexterity bonus to AC against you until the end of your turn.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When you use this feat, you can spend 5 stamina points to make an attack of opportunity against an opponent who misses you with the provoked attack (after it loses its Dexterity bonus to AC against you).",
+    "prerequisiteKeys":     [
+        "dodge",
+        "point-blank master"
+    ]
+}

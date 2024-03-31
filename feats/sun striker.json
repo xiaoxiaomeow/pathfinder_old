@@ -1,0 +1,19 @@
+{
+    "key": "sun striker",
+    "name": "Sun Striker",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sun%20Striker",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["Inner Sea Gods pg. 217"],
+    "description": "Called by the Dawnflower to strike down the undead, your scimitar becomes an agent of her burning will.",
+    "prerequisites": "Critical Focus, Weapon Focus (scimitar), character level 7th, worshiper of Sarenrae",
+    "benefit": "Whenever you confirm a critical hit against an undead creature, your attack bypasses all DR, deals full damage to incorporeal creatures, and acts as though it has the flaming burst weapon special ability.",
+    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaText": "Whenever you threaten a critical hit against an undead creature, you can spend up to 4 stamina points to gain a +1 bonus per stamina point spent to confirm the critical hit.",
+    "prerequisiteKeys":     [
+        "critical focus",
+        "weapon focus"
+    ]
+}

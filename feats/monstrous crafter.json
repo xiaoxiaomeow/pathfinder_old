@@ -1,0 +1,15 @@
+{
+    "key": "monstrous crafter",
+    "name": "Monstrous Crafter",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monstrous%20Crafter",
+    "descriptors": ["Item Creation"],
+    "source": ["Monster Hunter's Handbook pg. 24"],
+    "description": "You can weave pieces of beasts into your magic items.",
+    "prerequisites": "Craft Wondrous Item, Grisly Ornament, Harvest Parts",
+    "benefit": "Whenever you use the Grisly Ornament feat, you are able to permanently integrate one ornament you have crafted using the harvested creature parts into a wondrous item. The ornament grants no ongoing benefits, but once per day you can activate an integrated ornament as a free action to gain its full benefits for 1 minute. You can integrate an ornament into a wondrous item (or replace an item’s existing ornament) by spending 8 hours of work and 100 gp × the creature’s CR.",
+    "prerequisiteKeys":     [
+        "craft wondrous item",
+        "grisly ornament",
+        "harvest parts"
+    ]
+}

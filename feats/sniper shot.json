@@ -1,0 +1,15 @@
+{
+    "key": "sniper shot",
+    "name": "Sniper Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sniper%20Shot",
+    "source": ["Pathfinder Campaign Setting pg. 89"],
+    "description": "You are skilled at making deadly attacks from an extreme distance.",
+    "prerequisites": "Int 13, Wis 13, Far Shot, Focused Shot, Point-Blank Shot, Precise Shot, Kyonin affinity",
+    "benefit": "As a full-round action, you may make an attack that allows you to deal precision-based extra damage to a distance equal to your weapon’s range increment. You may only make this attack with bows and crossbows. Precision-based damage includes sneak attacks, a ranger’s favored weapon bonus, and the damage bonus from the Focused Shot feat. Creatures immune to critical hits and sneak attacks are immune to this extra damage.",
+    "prerequisiteKeys":     [
+        "far shot",
+        "focused shot",
+        "point-blank shot",
+        "precise shot"
+    ]
+}

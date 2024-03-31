@@ -1,0 +1,14 @@
+{
+    "key": "dimensional dervish",
+    "name": "Dimensional Dervish",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Dervish",
+    "source": ["Ultimate Combat pg. 96"],
+    "description": "You teleport with a mere thought, savaging your opponents as you flash in and out of reality.",
+    "prerequisites": "Ability to use the abundant step class feature or cast <i>dimension door<\/i>, Dimensional Agility, Dimensional Assault, base attack bonus +6",
+    "benefit": "You can take a full-attack action, activating abundant step or casting <i>dimension door <\/i>as a swift action. If your do, you can teleport up to twice your speed (up to the maximum distance allowed by the spell or ability), dividing this teleportation into increments you use before your first attack, between each attack, and after your last attack. You must teleport at least 5 feet each time you teleport.",
+    "special": "A monk can use additional points from his <i>ki<\/i> pool to increase his speed before determining the total speed for this teleportation.",
+    "prerequisiteKeys":     [
+        "dimensional agility",
+        "dimensional assault"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "key": "janni style",
+    "name": "Janni Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Janni%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 106"],
+    "description": "Your whirling fighting technique makes you difficult to hit.",
+    "prerequisites": "Improved Unarmed Strike, Acrobatics 3 ranks, Perform (dance) 3 ranks",
+    "benefit": "While using this style, you take only a –1 penalty to AC for charging. Further, opponents that flank you gain only a +1 bonus on attack rolls against you.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "When you charge while using this style, you can spend 2 stamina points to take no penalty to AC for charging and move an additional 10 feet as part of the charge.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

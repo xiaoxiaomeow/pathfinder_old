@@ -1,0 +1,17 @@
+{
+    "key": "fling",
+    "name": "Fling",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fling",
+    "descriptors": ["Combat"],
+    "source": ["Inner Sea Monster Codex pg. 53"],
+    "description": "You can throw grappled enemies a short distance, turning them into makeshift missiles against their allies.",
+    "prerequisites": "Flyby Attack, Powerful Wings, Snatch and Drop, Throw Anything",
+    "benefit": "Whenever you successfully grapple an opponent using the Snatch and Drop feat, you can instead fling your victim at another target. You can throw a creature 10 feet, plus an additional 5 feet for every size category by which it is smaller than you. To strike another target, make a ranged touch attack. If you hit, the attack deals damage to both the creature flung and its intended target. This damage is equal to that of a slam attack of a creature two sizes larger than the creature being flung (see page 302 of the <i>Pathfinder RPG Bestiary<\/i>) plus your Strength modifier. The flung creature lands prone in the nearest adjacent square to the target, and the target must succeed at a Reflex saving throw (DC = 10 + damage dealt) or also fall prone in its own square. You can’t use this feat if the weight of the creature you intend to fling exceeds the amount you can carry as a heavy load.",
+    "special": "While the following feats are primarily taken by strix, other creatures with natural wings can also take them at the GM's discretion.",
+    "prerequisiteKeys":     [
+        "flyby attack",
+        "powerful wings",
+        "snatch and drop",
+        "throw anything"
+    ]
+}

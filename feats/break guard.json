@@ -1,0 +1,17 @@
+{
+    "key": "break guard",
+    "name": "Break Guard",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Break%20Guard",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 91"],
+    "description": "You can use one of your two weapons to occupy your opponent’s defenses while attacking with the other.",
+    "prerequisites": "Dex 15, Int 13, Combat Expertise, Improved Disarm, Two-Weapon Fighting",
+    "benefit": "While wielding two weapons, whenever you successfully use one weapon to disarm an opponent, you can spend a swift action to attack the opponent you attempted to disarm using your other weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "You can spend 5 stamina points to attack the opponent you disarmed with a free action instead of a swift action.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved disarm",
+        "two-weapon fighting"
+    ]
+}

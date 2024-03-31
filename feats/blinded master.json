@@ -1,0 +1,17 @@
+{
+    "key": "blinded master",
+    "name": "Blinded Master",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blinded%20Master",
+    "descriptors": ["Combat"],
+    "source": ["Blood of Shadows pg. 24"],
+    "description": "Your skill at arms while unable to see is astounding.",
+    "prerequisites": "Blind-Fight, Blinded Competence, Blinded Blade Style, Greater Blind-Fight, Improved Blind-Fight, Perception 15 ranks",
+    "benefit": "While you are using Blinded Blade Style and you are blinded or unable to see, your ability to pinpoint creatures’ locations using Blinded Competence improves to function like blindsight rather than blindsense, and the range increases to 30 feet. In addition, you add half your character level to the DCs of Bluff checks to feint you in combat.",
+    "prerequisiteKeys":     [
+        "blind-fight",
+        "blinded blade style",
+        "blinded competence",
+        "greater blind-fight",
+        "improved blind-fight"
+    ]
+}

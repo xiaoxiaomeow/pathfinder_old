@@ -1,0 +1,17 @@
+{
+    "key": "cockatrice strike",
+    "name": "Cockatrice Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cockatrice%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 156"],
+    "description": "With a single strike, you transmute flesh to stone.",
+    "prerequisites": "Improved Unarmed Strike, Gorgon's Fist, Medusa's Wrath, base attack bonus +14",
+    "benefit": "As a full-round action, you can make a single unarmed strike against a dazed, flat-footed, paralyzed, staggered, stunned, or unconscious foe. If that attack is a critical hit, the target is petrified unless it succeeds on a Fortitude saving throw with a DC of 10 + 1/2 your character level + your Wisdom modifier. This is a supernatural polymorph effect.",
+    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaText": "You can spend 5 stamina points to make a Cockatrice Strike attack against a foe you are flanking.",
+    "prerequisiteKeys":     [
+        "gorgon's fist",
+        "improved unarmed strike",
+        "medusa's wrath"
+    ]
+}

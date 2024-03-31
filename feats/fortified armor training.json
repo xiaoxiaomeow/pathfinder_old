@@ -1,0 +1,12 @@
+{
+    "key": "fortified armor training",
+    "name": "Fortified Armor Training",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fortified%20Armor%20Training",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 102"],
+    "description": "You have learned to let your armor bear the brunt of the worst attacks. ",
+    "prerequisites": "Proficient with armor or shield",
+    "benefit": "If an opponent scores a critical hit against you, you can turn the critical hit into a normal hit. If you do, either your armor or your shield gains the broken condition (your choice).",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "When you use this feat to negate a critical hit, you can spend 5 stamina points to give your armor or shield a 50% chance to avoid gaining the broken condition."
+}

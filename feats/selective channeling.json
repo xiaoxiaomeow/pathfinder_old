@@ -1,0 +1,18 @@
+{
+    "key": "selective channeling",
+    "name": "Selective Channeling",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Channeling",
+    "source": ["PRPG Core Rulebook pg. 132"],
+    "description": "You can choose whom to affect when you channel energy.",
+    "prerequisites": "Cha 13, channel energy class feature",
+    "benefit": "When you channel energy, you can choose a number of targets in the area up to your Charisma modifier. These targets are not affected by your channeled energy.",
+    "normal": "All targets in a 30-foot burst are affected when you channel energy. You can only choose whether or not you are affected.",
+    "mythicSource": ["Mythic Adventures pg. 72"],
+    "mythicDescription": "When you exclude creatures from your channel, you empower those you do affect.",
+    "mythicPrerequisites": "Selective Channeling",
+    "mythicBenefit": "When you channel energy, the damage you heal or deal increases by a number of points equal to twice the number of targets you excluded from your channeled energy. You can expend one use of mythic power to increase the number of targets you exclude from your channeled energy by half your tier.",
+    "name_zh": "选择导能",
+    "description_zh": "你引导能量时能够选择要影响谁。",
+    "prerequisites_zh": "魅力13，【引导能量】职业特性。",
+    "benefit_zh": "当你引导能量时，你可以选择区域中数量至多等同于你魅力修正的目标。这些目标不受你引导能量的影响。"
+}

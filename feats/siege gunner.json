@@ -1,0 +1,14 @@
+{
+    "key": "siege gunner",
+    "name": "Siege Gunner",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Siege%20Gunner",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 118"],
+    "description": "Aiming outsized siege weapons poses little difficulty for you.",
+    "prerequisites": "Siege Engineer, Profession (siege engineer) 5 ranks",
+    "benefit": "You take no size penalty for aiming a direct-fire siege weapon larger than yourself. If you operate an indirect-fire siege weapon and miss, you misdirect fire by 1 square per range increment.",
+    "normal": "Direct-fire weapons impose a –2 attack roll penalty per size category by which the weapon is larger than the creature aiming it. An indirect-fire weapon that misses misdirects fire by 1d4 squares per range increment.",
+    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain a +1 bonus on attack rolls with all siege weapons you are proficient with.",
+    "prerequisiteKeys": ["siege engineer"]
+}

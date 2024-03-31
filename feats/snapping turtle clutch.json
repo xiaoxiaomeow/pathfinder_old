@@ -1,0 +1,17 @@
+{
+    "key": "snapping turtle clutch",
+    "name": "Snapping Turtle Clutch",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snapping%20Turtle%20Clutch",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 120"],
+    "description": "Your unarmed style allows you to turn your opponent’s attack into an opportunity.",
+    "prerequisites": "Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd",
+    "benefit": "While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC applies to your CMD and touch AC. Whenever an opponent misses you with a melee attack while you are using the Snapping Turtle Style feat, you can use an immediate action to attempt a grapple combat maneuver against that opponent, but with a –2 penalty.",
+    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaText": "When you attempt a grapple combat maneuver as an immediate action as a result of this feat, you can spend 2 stamina points to negate the –2 penalty on that combat maneuver check.",
+    "prerequisiteKeys":     [
+        "improved grapple",
+        "improved unarmed strike",
+        "snapping turtle style"
+    ]
+}

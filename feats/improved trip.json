@@ -1,0 +1,22 @@
+{
+    "key": "improved trip",
+    "name": "Improved Trip",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Trip",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 128"],
+    "description": "You are skilled at sending your opponents to the ground.",
+    "prerequisites": "Int 13, Combat Expertise",
+    "benefit": "You do not provoke an attack of opportunity when performing a trip combat maneuver. In addition, you receive a +2 bonus on checks made to trip a foe. You also receive a +2 bonus to your Combat Maneuver Defense whenever an opponent tries to trip you.",
+    "normal": "You provoke an attack of opportunity when performing a trip combat maneuver.",
+    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a trip combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that trip attempt increases by that number.",
+    "mythicSource": ["Mythic Adventures pg. 68"],
+    "mythicDescription": "You’re expert at knocking your foes down.",
+    "mythicPrerequisites": "Improved Trip",
+    "mythicBenefit": "You gain a bonus equal to half your tier on checks to trip, and to your CMD when an opponent tries to trip you. These bonuses stack with those granted by Improved Trip.",
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通绊摔",
+    "description_zh": "你擅长将对手送到地上。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "你使用绊摔战技不会引发藉机攻击。此外在绊摔检定上你获得+2加值，在对抗绊摔的战技防御上也获得+2加值。"
+}

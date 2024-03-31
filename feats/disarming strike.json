@@ -1,0 +1,18 @@
+{
+    "key": "disarming strike",
+    "name": "Disarming Strike",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disarming%20Strike",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 157"],
+    "description": "Your critical hits can disarm your foes.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Disarm, base attack bonus +9",
+    "benefit": "Whenever you score a critical hit with a melee attack, you can disarm your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may disarm your opponent as if from the disarm combat maneuver. This does not provoke an attack of opportunity.",
+    "normal": "You must perform a disarm combat maneuver to disarm an opponent.",
+    "special": "You can only apply the effects of one of the following feats to a given critical hit",
+    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to disarm the target anyway. When you do, reroll the confirmation roll and use it to determine if the disarm attempt exceeds the opponent’s CMD. This reroll is used only for the disarm combat maneuver; it can’t cause the critical to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved disarm"
+    ]
+}

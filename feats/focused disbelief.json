@@ -1,0 +1,10 @@
+{
+    "key": "focused disbelief",
+    "name": "Focused Disbelief",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Focused%20Disbelief",
+    "source": ["Faiths and Philosophies pg. 7"],
+    "description": "So certain is your disbelief in the authority of the gods that you can brush aside their spells without effort.",
+    "prerequisites": "Divine Defiance",
+    "benefit": "You gain spell resistance equal to 11 + your character level. This spell resistance applies only against spells and spell-like abilities covered by the Divine Defiance feat. You can lower this resistance for 1 round as a standard action.",
+    "prerequisiteKeys": ["divine defiance"]
+}

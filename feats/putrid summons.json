@@ -1,0 +1,10 @@
+{
+    "key": "putrid summons",
+    "name": "Putrid Summons",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Putrid%20Summons",
+    "source": ["Horror Adventures pg. 91"],
+    "description": "You summon creatures whose very presence turns the stomach of your foes.",
+    "prerequisites": "Spell Focus (conjuration); ability to cast <i>summon monster<\/i> or <i>summon nature's ally<\/i>",
+    "benefit": "When you cast a <i>summon monster<\/i> or <i>summon nature’s ally<\/i> spell, you can choose to summon a single creature that exudes a putrid odor or befouls the water surrounding it, granting it the stench universal monster ability. The duration of the sickened condition created by this stench is a number of rounds equal to the spell’slevel. When performing a putrid summon, you summon a creature from the next lower list than the spell you are casting. For instance, if you cast <i>summon monster IV<\/i>, you summon a creature from the <i>summon monster III<\/i> list.",
+    "prerequisiteKeys": ["spell focus"]
+}

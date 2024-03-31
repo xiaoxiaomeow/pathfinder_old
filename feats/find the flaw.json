@@ -1,0 +1,13 @@
+{
+    "key": "find the flaw",
+    "name": "Find the Flaw",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Find%20the%20Flaw",
+    "source": ["Plane-Hopper's Handbook pg. 15"],
+    "description": "You sense the minute imperfections in the otherwise ordered structure of your foes’ weapons and armor.",
+    "prerequisites": "Str 13, Improved Sunder, Power Attack, base attack bonus +1, Craft (armor or weapons) 5 ranks, aphorite",
+    "benefit": "When performing a sunder combat maneuver, you ignore a number of points of hardness equal to your Intelligence modifier.",
+    "prerequisiteKeys":     [
+        "improved sunder",
+        "power attack"
+    ]
+}

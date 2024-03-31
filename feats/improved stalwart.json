@@ -1,0 +1,14 @@
+{
+    "key": "improved stalwart",
+    "name": "Improved Stalwart",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Stalwart",
+    "source": ["Ultimate Combat pg. 106"],
+    "description": "You can roll with the punches while simultaneously striking back at your attackers.",
+    "prerequisites": "Diehard, Endurance, Stalwart, base attack bonus +11",
+    "benefit": "Double the DR you gain from Stalwart, to a maximum of DR 10/—.",
+    "prerequisiteKeys":     [
+        "diehard",
+        "endurance",
+        "stalwart"
+    ]
+}

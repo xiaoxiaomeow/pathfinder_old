@@ -1,0 +1,16 @@
+{
+    "key": "dirty grapple",
+    "name": "Dirty Grapple",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dirty%20Grapple",
+    "descriptors": ["Combat"],
+    "source": ["Dirty Tactics Toolbox pg. 14"],
+    "description": "You are skilled at pulling dirty tricks during a grapple.",
+    "prerequisites": "Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6",
+    "benefit": "You can attempt to perform a dirty trick and a grapple maneuver together against a single target as a full-round action when initiating or maintaining a grapple. You must attempt a single combat maneuver check for both maneuvers. If your CMB is different for the two types of maneuvers, use the lower of the two bonuses. If your target’s CMD is different against the two types of maneuvers, use the higher CMD. If you succeed at the check, you successfully perform both combat maneuvers.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved dirty trick",
+        "improved grapple",
+        "improved unarmed strike"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "key": "extreme prejudice",
+    "name": "Extreme Prejudice",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extreme%20Prejudice",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Class Guide pg. 147"],
+    "description": "Your hatred of a particular type of creature has honed your killer instinct.",
+    "prerequisites": "Seething Hatred, sneak attack +3d6, studied target class feature",
+    "benefit": "When you succeed at a sneak attack against a creature you selected as the target of your Seething Hatred feat, you use d8s to roll sneak attack damage instead of d6s.",
+    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaText": "When you succeed at a sneak attack against a creature that is not the target of your Seething Hatred<sup>ACG<\/sup> feat, you can spend 5 stamina points to treat the creature as if it were the target of your Seething Hatred for that attack.",
+    "prerequisiteKeys": ["seething hatred"]
+}

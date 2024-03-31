@@ -1,0 +1,10 @@
+{
+    "key": "saoc brethren scholar",
+    "name": "Saoc Brethren Scholar",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Saoc%20Brethren%20Scholar",
+    "source": ["Blood of the Ancients pg. 8"],
+    "description": "You have learned to draw additional power from celestial phenomena, harnessing their influence for longer than their natural duration.",
+    "prerequisites": "Saoc Brethren Initiate, Knowledge (arcana) 5 ranks, Knowledge (nature) 5 ranks, Knowledge (planes) 5 ranks",
+    "benefit": "You increase the duration of effects caused by astrological events. The duration of effects that last less than a day is increased by 50%, while those that last 24 hours or longer last 1 additional day.",
+    "prerequisiteKeys": ["saoc brethren initiate"]
+}

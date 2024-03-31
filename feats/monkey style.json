@@ -1,0 +1,17 @@
+{
+    "key": "monkey style",
+    "name": "Monkey Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monkey%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 110"],
+    "description": "Your unarmed fighting style is nimble and unpredictable, full of ground rolls and short leaps.",
+    "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 5 ranks, Climb 5 ranks",
+    "benefit": "You add your Wisdom bonus on Acrobatics checks. While using this style, you take no penalty on melee attack rolls or to AC while prone. Further, you can crawl and stand up from lying prone without provoking attacks of opportunity, and you can stand up as a swift action if you succeed at a DC 20 Acrobatics check.",
+    "normal": "You take a –4 penalty on attack rolls and AC against melee attacks while prone. Standing up is a move action that provokes attacks of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When using this style, you can spend 2 stamina points to stand up as a swift action without having to succeed at a DC 20 Acrobatics check.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

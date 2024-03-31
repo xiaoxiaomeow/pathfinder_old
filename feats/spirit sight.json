@@ -1,0 +1,13 @@
+{
+    "key": "spirit sight",
+    "name": "Spirit Sight",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Sight",
+    "source": ["Adventurer's Guide pg. 169"],
+    "description": "You fully open your mind to the spirit world, learning to perceive the hidden.",
+    "prerequisites": "Wis 15, Iron Will, Spirit Beacon",
+    "benefit": "Invisible creatures of the fey, outsider, and undead types gain only concealment from you, rather than total concealment (though they can still gain total concealment from cover or use of the Stealth skill). Such creatures do not gain a bonus on attack rolls against you or ignore your Dexterity bonus to AC as normally granted by invisibility.",
+    "prerequisiteKeys":     [
+        "iron will",
+        "spirit beacon"
+    ]
+}

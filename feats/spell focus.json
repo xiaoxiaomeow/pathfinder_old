@@ -1,0 +1,18 @@
+{
+    "key": "spell focus",
+    "name": "Spell Focus",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Focus",
+    "source": ["PRPG Core Rulebook pg. 134"],
+    "description": "Choose a school of magic. Any spells you cast of that school are more difficult to resist.",
+    "benefit": "Add +1 to the Difficulty Class for all saving throws against spells from the school of magic you select.",
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new school of magic.",
+    "mythicSource": ["Mythic Adventures pg. 74"],
+    "mythicDescription": "Your magical specialties are particularly effective.",
+    "mythicPrerequisites": "Spell Focus",
+    "mythicBenefit": "Choose a school of magic you already have Spell Focus in. The bonus to save DCs provided by Spell Focus and Greater Spell Focus for that school increases by 1. You can expend one use of mythic power as part of casting a spell from your chosen school to force any of the spell’s targets to roll their saving throws twice, taking the lower result.",
+    "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Spell Focus feat.",
+    "name_zh": "法术专攻",
+    "description_zh": "选择一种魔法学派。你施展的该学派法术更难抵抗。",
+    "benefit_zh": "所有对抗你选定魔法学派的法术的豁免检定DC+1。",
+    "special_zh": "你可以多次选取此专长。其效果不叠加。每次你获得此专长时，它作用于一种新的魔法学派。"
+}

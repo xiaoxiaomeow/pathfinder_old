@@ -1,0 +1,10 @@
+{
+    "key": "mixed scales",
+    "name": "Mixed Scales",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mixed%20Scales",
+    "source": ["Kobolds of Golarion pg. 24"],
+    "description": "You have two colors of scales, which mark you as special.",
+    "prerequisites": "Draconic Aspect or dragon-scaled racial trait, kobold",
+    "benefit": "Choose an additional color for your Draconic Aspect feat or dragon-scaled racial trait. You gain the benefits of both this color and the color you originally chose. (If you have both Draconic Aspect and dragon-scaled, this benefit applies to both.) If you gain abilities that rely on scale color, choose which color gains the benefits.",
+    "prerequisiteKeys": ["draconic aspect"]
+}

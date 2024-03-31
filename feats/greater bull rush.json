@@ -1,0 +1,21 @@
+{
+    "key": "greater bull rush",
+    "name": "Greater Bull Rush",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Bull%20Rush",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 125"],
+    "description": "Your bull rush attacks throw enemies off balance.",
+    "prerequisites": "Improved Bull Rush, Power Attack, base attack bonus +6, Str 13",
+    "benefit": "You receive a +2 bonus on checks made to bull rush a foe. This bonus stacks with the bonus granted by Improved Bull Rush. Whenever you bull rush an opponent, his movement provokes attacks of opportunity from all of your allies (but not you).",
+    "normal": "Creatures moved by bull rush do not provoke attacks of opportunity.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "When you bull rush an opponent, you can spend 5 stamina points to have the opponent’s movement from the bull rush provoke an attack of opportunity from you as well.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "power attack"
+    ],
+    "name_zh": "高等冲撞",
+    "description_zh": "你的冲撞令敌人失去平衡。",
+    "prerequisites_zh": "精通冲撞，猛力攻击，基本攻击加值+6，力量13。",
+    "benefit_zh": "你在冲撞检定中获得+2加值。此加值与“精通冲撞”专长带来的加值累计。当你冲撞敌人时，他的移动会引发所有你的同伴的藉机攻击（但不包括你）。"
+}

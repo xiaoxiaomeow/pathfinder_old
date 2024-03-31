@@ -1,0 +1,12 @@
+{
+    "key": "extra stamina",
+    "name": "Extra Stamina",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Stamina",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder Unchained pg. 113"],
+    "description": "You can push yourself to higher limits.",
+    "prerequisites": "Combat Stamina, base attack bonus +5",
+    "benefit": "Your stamina pool increases by 3 points.",
+    "special": "You can select this feat up to three times. Each time you do, your stamina pool grows by 3 points.",
+    "prerequisiteKeys": ["combat stamina"]
+}

@@ -1,0 +1,15 @@
+{
+    "key": "improved uncivilized tactics",
+    "name": "Improved Uncivilized Tactics",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Uncivilized%20Tactics",
+    "descriptors": ["Combat"],
+    "source": ["Heroes of the Wild pg. 23"],
+    "description": "You are skilled at twisting your foe’s limbs out of joint.",
+    "prerequisites": "Str 13, Power Attack, Uncivilized Tactics",
+    "benefit": "You don’t provoke an attack of opportunity when attempting a combat maneuver check to use Uncivilized Tactics. In addition, you receive a +2 bonus on such checks.",
+    "normal": "You provoke an attack of opportunity when using the Uncivilized Tactics feat.",
+    "prerequisiteKeys":     [
+        "power attack",
+        "uncivilized tactics"
+    ]
+}

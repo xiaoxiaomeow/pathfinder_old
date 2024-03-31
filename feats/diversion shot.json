@@ -1,0 +1,17 @@
+{
+    "key": "diversion shot",
+    "name": "Diversion Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Diversion%20Shot",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Heroes of the Wild pg. 19"],
+    "description": "You can use your shots to distract opponents.",
+    "prerequisites": "Stealthy, Target of Opportunity",
+    "benefit": "When you hit a target using Target of Opportunity, the ally who triggered your ranged attack can attempt a Stealth check to hide from your target as an immediate action, even if your target is aware of your ally’s presence. Your ally must also have this feat to benefit from this effect. This Stealth check applies only to the target you hit, and the stealth ends if the ally takes any action other than to move into cover or concealment.",
+    "prerequisiteKeys":     [
+        "stealthy",
+        "target of opportunity"
+    ]
+}

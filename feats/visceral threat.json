@@ -1,0 +1,11 @@
+{
+    "key": "visceral threat",
+    "name": "Visceral Threat",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Visceral%20Threat",
+    "descriptors": ["Combat"],
+    "source": ["Monster Codex pg. 21"],
+    "description": "Your ability to threaten foes is great enough to make them hesitate.",
+    "prerequisites": "Intimidating Prowess",
+    "benefit": "You may use Intimidate, rather than Bluff, to attempt a feint against a creature within your melee reach.",
+    "prerequisiteKeys": ["intimidating prowess"]
+}

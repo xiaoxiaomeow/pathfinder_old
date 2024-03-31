@@ -1,0 +1,17 @@
+{
+    "key": "panther claw",
+    "name": "Panther Claw",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Panther%20Claw",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 112"],
+    "description": "You unleash a rapid series of blows on foes that attempt to attack you when you move.",
+    "prerequisites": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Style",
+    "benefit": "While using Panther Style, you can spend a free action, instead of spending a swift action, to make a retaliatory unarmed strike. You can make a number of retaliatory unarmed strikes on your turn equal to your Wisdom modifier.",
+    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaText": "When making a retaliatory strike, you can spend up to 5 stamina points to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "combat reflexes",
+        "improved unarmed strike",
+        "panther style"
+    ]
+}

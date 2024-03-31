@@ -1,0 +1,18 @@
+{
+    "key": "net and trident",
+    "name": "Net and Trident",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20and%20Trident",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 111"],
+    "description": "Your skill with lighter weapons allows you to wield one alongside your net.",
+    "prerequisites": "Dex 15, Exotic Weapon Proficiency (net), Net Adept, Two-Weapon Fighting",
+    "benefit": "You can treat a net as a one-handed ranged weapon, allowing you to wield a light or one-handed melee weapon and still make ranged attacks with your net. When you use your light or one-handed melee weapon to attack an entangled opponent, you gain a +2 bonus on damage rolls and on attack rolls to confirm a critical hit.",
+    "normal": "A net is a two-handed ranged weapon.",
+    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaText": "When you use a light or one-handed melee weapon to attack an opponent entangled by your net, you can spend up to 5 stamina points when you hit the opponent to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
+    "prerequisiteKeys":     [
+        "exotic weapon proficiency",
+        "net adept",
+        "two-weapon fighting"
+    ]
+}

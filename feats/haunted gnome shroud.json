@@ -1,0 +1,16 @@
+{
+    "key": "haunted gnome shroud",
+    "name": "Haunted Gnome Shroud",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Haunted%20Gnome%20Shroud",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 104"],
+    "description": "Your disturbing glamer expands to make your exact location hard to pinpoint.",
+    "prerequisites": "Cha 13, gnome magic racial trait, Haunted Gnome, Haunted Gnome Assault, Knowledge (arcana) 6 ranks",
+    "benefit": "You gain another independent use of your gnome magic like that which Haunted Gnome Assault grants. Further, while you are under the effect of <i>haunted fey aspect<\/i>, you also have concealment (20% miss chance) against an opponent until that opponent deals you damage.",
+    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaText": "When an opponent misses you due to the miss chance from Haunted Gnome Shroud, you can spend 5 stamina points to impose a –2 penalty on all that opponent’s attack rolls against you until that opponent deals damage to you. This ability doesn’t stack with itself.",
+    "prerequisiteKeys":     [
+        "haunted gnome assault",
+        "haunted gnome"
+    ]
+}

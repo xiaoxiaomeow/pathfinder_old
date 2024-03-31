@@ -1,0 +1,16 @@
+{
+    "key": "just out of reach",
+    "name": "Just Out of Reach",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Just%20Out%20of%20Reach",
+    "descriptors": ["Combat"],
+    "source": ["Melee Tactics Toolbox pg. 9"],
+    "description": "The farther an attacker is from you, the more easily you avoid its melee attacks.",
+    "prerequisites": "Dex 13, Dodge, Mobility",
+    "benefit": "When a foe more than 5 feet away from you makes a melee attack against you using reach, you gain a +4 dodge bonus to your AC against the attack.",
+    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaText": "You can spend 5 stamina points to gain the benefits of this feat against any one melee attack. (<I>Melee Tactics Toolbox 9<\/i>)",
+    "prerequisiteKeys":     [
+        "dodge",
+        "mobility"
+    ]
+}

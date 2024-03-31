@@ -1,0 +1,9 @@
+{
+    "key": "noxious bite",
+    "name": "Noxious Bite",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Noxious%20Bite",
+    "source": ["Dragons Revisited pg. 9"],
+    "description": "Your acid-dripping breath causes those you bite to become ill.",
+    "prerequisites": "Acidic breath weapon, bite attack",
+    "benefit": "Your bite attack deals 1 point of acid damage in addition to its normal damage. Living creatures you bite must make a Fort save (DC equal to your breath weapon's DC) or be nauseated for a number of rounds equal to 1 + your Constitution modifier (minimum 1 round)."
+}

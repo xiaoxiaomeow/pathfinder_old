@@ -1,0 +1,16 @@
+{
+    "key": "boar style",
+    "name": "Boar Style",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Boar%20Style",
+    "descriptors":     [
+        "Combat",
+        "Style"
+    ],
+    "source": ["Ultimate Combat pg. 90"],
+    "description": "Your sharp teeth and nails rip your foes open.",
+    "prerequisites": "Improved Unarmed Strike, Intimidate 3 ranks",
+    "benefit": "You can deal bludgeoning damage or slashing damage with your unarmed strikes—changing damage type is a free action. While using this style, once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal 2d6 extra points of damage with the attack.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "While using this style, you can spend 3 stamina points when you hit a target with only one unarmed strike during a round to tear flesh and deal 2d6 points of damage with the attack. You can still only tear flesh once per round.",
+    "prerequisiteKeys": ["improved unarmed strike"]
+}

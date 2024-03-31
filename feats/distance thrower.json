@@ -1,0 +1,16 @@
+{
+    "key": "distance thrower",
+    "name": "Distance Thrower",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Distance%20Thrower",
+    "descriptors": ["Combat"],
+    "source": ["Ultimate Combat pg. 97"],
+    "description": "You are accurate with thrown weapons at longer ranges than normal.",
+    "prerequisites": "Str 13",
+    "benefit": "With a thrown weapon, you reduce your penalty on ranged attack rolls due to range by 2.",
+    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaText": "When making an attack with a thrown weapon, you can spend 2 stamina points to reduce your penalty on ranged attack rolls due to range by an additional 4.",
+    "mythicSource": ["Mythic Adventures pg. 63"],
+    "mythicDescription": "There’s virtually no limit to your powerful throwing arm.",
+    "mythicPrerequisites": "Str 17, Distance Thrower",
+    "mythicBenefit": "Thrown weapons wielded by you have twice their normal range."
+}

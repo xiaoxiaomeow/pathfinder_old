@@ -1,0 +1,13 @@
+{
+    "key": "acute shot",
+    "name": "Acute Shot",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Acute%20Shot",
+    "source": ["Magic Tactics Toolbox pg. 5"],
+    "description": "When magic aids your ranged attacks, you rarely miss.",
+    "prerequisites": "Far Shot, Precise Shot",
+    "benefit": "Whenever you gain a magic bonus on an attack roll with a ranged weapon, you can deduct any range penalties from your damage roll, instead of your attack roll.",
+    "prerequisiteKeys":     [
+        "far shot",
+        "precise shot"
+    ]
+}

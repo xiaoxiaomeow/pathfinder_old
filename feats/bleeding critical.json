@@ -1,0 +1,26 @@
+{
+    "key": "bleeding critical",
+    "name": "Bleeding Critical",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bleeding%20Critical",
+    "descriptors":     [
+        "Combat",
+        "Critical"
+    ],
+    "source": ["PRPG Core Rulebook pg. 118"],
+    "description": "Your critical hits cause opponents to bleed profusely.",
+    "prerequisites": "Critical Focus, base attack bonus +11",
+    "benefit": "Whenever you score a critical hit with a slashing or piercing weapon, your opponent takes 2d6 points of bleed damage (see Conditions) each round on his turn, in addition to the damage dealt by the critical hit. Bleed damage can be stopped by a DC 15 Heal skill check or through any magical healing. The effects of this feat stack.",
+    "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
+    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaText": "When you deal bleed damage with this feat, you can spend up to 3 stamina points to increase the amount of bleed damage dealt by double the number of stamina points you spent.",
+    "mythicSource": ["Mythic Adventures pg. 60"],
+    "mythicDescription": "Your deadliest blows unleash rivers of blood.",
+    "mythicPrerequisites": "Bleeding Critical, Critical Focus (mythic)",
+    "mythicBenefit": "The bleed damage dealt with Bleeding Critical increases by your tier. Stopping this bleed damage requires a Heal check with a DC equal to 15 + 1/2 your tier. Any magical healing ends the bleed damage normally.",
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "流血重击",
+    "description_zh": "你的重击能造成敌人流血不止。",
+    "prerequisites_zh": "重击专攻，基本攻击加值+11。",
+    "benefit_zh": "当你用挥砍或穿刺类武器造成重击时，你的敌人在受到重击伤害同时每轮承受2d6出血伤害。出血伤害可以通过DC15的医疗技能检定或者任何魔法治疗来制止。本专长效果可以叠加。",
+    "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"
+}

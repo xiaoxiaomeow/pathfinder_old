@@ -1,0 +1,15 @@
+{
+    "key": "eschew materials",
+    "name": "Eschew Materials",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eschew%20Materials",
+    "source": ["PRPG Core Rulebook pg. 123"],
+    "description": "You can cast many spells without needing to utilize minor material components.",
+    "benefit": "You can cast any spell with a material component costing 1 gp or less without needing that component. The casting of the spell still provokes attacks of opportunity as normal. If the spell requires a material component that costs more than 1 gp, you must have the material component on hand to cast the spell, as normal.",
+    "mythicSource": ["Mythic Adventures pg. 65"],
+    "mythicDescription": "You can cast even the most powerful spells without using material components.",
+    "mythicPrerequisites": "Eschew Materials",
+    "mythicBenefit": "You can cast any spell with a material component costing 10 gp per tier or less without providing that component. If you expend one use of mythic power while casting a spell that requires a material component costing 50 gp per tier or less, you can cast it without providing that component. Expending two uses of mythic power instead allows you to cast a spell that requires a material component costing 100 gp per tier or less without providing that component.",
+    "name_zh": "施法免材",
+    "description_zh": "你施展法术不需低级的法术材料成分。",
+    "benefit_zh": "若欲施展的法术其材料价格低于1gp，你不需耗用材料亦可施法。但施法依旧会引发藉机攻击。若欲施展的法术其材料价格高于1金币，则你需要按照一般规则持有材料成分才能施法。"
+}

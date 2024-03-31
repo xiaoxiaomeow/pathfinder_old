@@ -1,0 +1,10 @@
+{
+    "key": "sneaking precision",
+    "name": "Sneaking Precision",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sneaking%20Precision",
+    "source": ["Ultimate Combat pg. 120"],
+    "description": "Your knowledge of your enemies' vulnerable spots is especially punishing.",
+    "prerequisites": "Sneak attack +6d6, Critical Focus, any critical feat, base attack bonus +9",
+    "benefit": "Whenever you successfully sneak attack an opponent for a second time on your turn, you can spend a swift action to apply the effects of one critical feat you know to that opponent.",
+    "prerequisiteKeys": ["critical focus"]
+}

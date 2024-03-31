@@ -1,0 +1,13 @@
+{
+    "key": "deific obedience",
+    "name": "Deific Obedience",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deific%20Obedience",
+    "source":     [
+        "Faiths of Golarion pg. 4",
+        "Inner Sea Gods pg. 210",
+        "Inner Sea Faiths pg. 3"
+    ],
+    "description": "Your reverence for a deity is so great that daily prayer and minor sacrifices grant you special boons.",
+    "prerequisites": "Knowledge (religion) 3 ranks, must worship a deity",
+    "benefit": "Each deity requires a different daily obedience, but all obediences take no more than 1 hour per day to perform. Once you’ve performed the obedience, you gain the benefit of a special ability or resistance as indicated in the Obedience entry for the god to whom you performed the obedience."
+}

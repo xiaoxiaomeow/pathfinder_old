@@ -1,0 +1,11 @@
+{
+    "key": "combat stamina",
+    "name": "Combat Stamina",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Combat%20Stamina",
+    "descriptors": ["Combat"],
+    "source": ["Pathfinder Unchained pg. 112"],
+    "description": "You stop at nothing to drive your attack home.",
+    "prerequisites": "Base attack bonus +1",
+    "benefit": "You gain a stamina pool. After you make an attack roll with a manufactured weapon, unarmed strike, or natural weapon attack with which you are proficient, but before the results are revealed, you can spend up to 5 stamina points. If you do, you gain a competence bonus on the attack roll equal to the number of stamina points you spent. If you miss with the attack, the stamina points you spent are still lost.",
+    "special": "Since you have a stamina pool, you can spend your stamina points to use any combat tricks associated with combat feats you possess."
+}

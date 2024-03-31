@@ -1,0 +1,13 @@
+{
+    "key": "ferocious summons",
+    "name": "Ferocious Summons",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Summons",
+    "source": ["Advanced Race Guide pg. 57"],
+    "description": "Your summoned creatures gain your ferocity.",
+    "prerequisites": "Augment Summoning, Spell Focus (conjuration), half-orc or orc",
+    "benefit": "Creatures you summon gain the ferocity universal monster ability.",
+    "prerequisiteKeys":     [
+        "augment summoning",
+        "spell focus"
+    ]
+}

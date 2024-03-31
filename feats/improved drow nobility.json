@@ -1,0 +1,10 @@
+{
+    "key": "improved drow nobility",
+    "name": "Improved Drow Nobility",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Drow%20Nobility",
+    "source": ["Advanced Race Guide pg. 105"],
+    "description": "Your magical heritage is more potent than that of your peers, as demonstrated by your superior spell-like abilities.",
+    "prerequisites": "Cha 13, Drow Nobility, able to use drow spell-like abilities, drow",
+    "benefit": "You may use your <i>dancing lights<\/i>, <i>faerie fire<\/i>, <i>feather fall<\/i>, and <i>levitate <\/i>spell-like abilities twice per day. Your <i>darkness <\/i>spell-like ability instead becomes <i>deeper darkness<\/i>, which you may use twice per day.",
+    "prerequisiteKeys": ["drow nobility"]
+}

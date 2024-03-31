@@ -1,0 +1,13 @@
+{
+    "key": "crowd of bullies",
+    "name": "Crowd of Bullies",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crowd%20of%20Bullies",
+    "descriptors":     [
+        "Combat",
+        "Teamwork"
+    ],
+    "source": ["Inner Sea Races pg. 204"],
+    "description": "Your failed attempt to humiliate a foe reveals its weaknesses to your allies.",
+    "prerequisites": "Half-orc",
+    "benefit": "Whenever you fail a combat maneuver check, your allies within 30 feet who also have this feat gain a +2 circumstance bonus on combat maneuver checks of the same type against the same foe for 1 round."
+}

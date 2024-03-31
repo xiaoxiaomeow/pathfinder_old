@@ -1,0 +1,14 @@
+{
+    "key": "gang up",
+    "name": "Gang Up",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gang%20Up",
+    "descriptors": ["Combat"],
+    "source": ["Advanced Player's Guide pg. 161"],
+    "description": "You are adept at using greater numbers against foes.",
+    "prerequisites": "Int 13, Combat Expertise",
+    "benefit": "You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning.",
+    "normal": "You must be positioned opposite an ally to flank an opponent.",
+    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. If you spend 5 stamina points, you can gain the feat’s benefits when you and one other ally are threatening an opponent (instead of two other allies).",
+    "prerequisiteKeys": ["combat expertise"]
+}

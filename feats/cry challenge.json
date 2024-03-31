@@ -1,0 +1,11 @@
+{
+    "key": "cry challenge",
+    "name": "Cry Challenge",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cry%20Challenge",
+    "source": ["Giant Hunter's Handbook pg. 22"],
+    "description": "With a ferocious shout or vigorous gestures, you provoke an opponent’s ire. By tricking the opponent into making a clumsy swing at you, you provide an opening for your allies.",
+    "prerequisites": "Antagonize",
+    "benefit": "When you take a 5-foot step, you can choose for that step to provoke attacks of opportunity from all opponents that threaten you after the step. You gain a +4 dodge bonus to AC against attacks of opportunity provoked in this manner.",
+    "normal": "A 5-foot step doesn’t provoke an attack of opportunity.",
+    "prerequisiteKeys": ["antagonize"]
+}

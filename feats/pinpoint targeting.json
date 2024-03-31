@@ -1,0 +1,25 @@
+{
+    "key": "pinpoint targeting",
+    "name": "Pinpoint Targeting",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pinpoint%20Targeting",
+    "descriptors": ["Combat"],
+    "source": ["PRPG Core Rulebook pg. 131"],
+    "description": "You can target the weak points in your opponent's armor.",
+    "prerequisites": "Dex 19, Improved Precise Shot, Point-Blank Shot, Precise Shot, base attack bonus +16",
+    "benefit": "As a standard action, make a single ranged attack. The target does not gain any armor, natural armor, or shield bonuses to its Armor Class. You do not gain the benefit of this feat if you move this round.",
+    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaText": "When you use this feat, you can spend stamina points to retain the ability to move. If you spend 2 stamina points, you can take a 5-foot step after you make the attack. If you instead spend 5 stamina points, you can move up to half your speed as a move action.",
+    "mythicSource": ["Mythic Adventures pg. 70"],
+    "mythicDescription": "Your attacks can home in on your opponent’s weak spot and ignore many defenses.",
+    "mythicPrerequisites": "Pinpoint Targeting",
+    "mythicBenefit": "You can use this feat even if you move this round, but only if the distance you move is equal to or less than 5 feet per tier.",
+    "prerequisiteKeys":     [
+        "improved precise shot",
+        "point-blank shot",
+        "precise shot"
+    ],
+    "name_zh": "精确瞄准",
+    "description_zh": "你能够瞄准对手盔甲上的弱点。",
+    "prerequisites_zh": "敏捷19，精通精准射击，近距射击，精准射击，基本攻击加值+16。",
+    "benefit_zh": "以一个标准动作，做一次单独的远程攻击。目标无法获得任何盔甲、天生护甲或盾牌加值到他的AC上。如果你本轮进行了移动，你无法受益于此专长。"
+}

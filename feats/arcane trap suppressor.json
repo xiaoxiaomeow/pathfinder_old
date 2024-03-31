@@ -1,0 +1,10 @@
+{
+    "key": "arcane trap suppressor",
+    "name": "Arcane Trap Suppressor",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Trap%20Suppressor",
+    "source": ["Dungeoneer's Handbook pg. 8"],
+    "description": "Your magic can suppress magic traps longer than usual.",
+    "prerequisites": "Ability to cast <i>dispel magic <\/i>or <i>greater dispel magic <\/i>as a spell or spell-like ability",
+    "benefit": "When you target a magic trap with <i>dispel magic <\/i>or <i>greater dispel magic<\/i>, if your caster level check exceeds the Disable Device DC of the trap, the trap is disabled for 1d4 minutes.",
+    "normal": "<i>Dispel magic <\/i>suppresses an item’s magical properties for 1d4 rounds."
+}

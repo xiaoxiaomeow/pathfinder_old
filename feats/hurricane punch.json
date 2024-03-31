@@ -1,0 +1,15 @@
+{
+    "key": "hurricane punch",
+    "name": "Hurricane Punch",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hurricane%20Punch",
+    "descriptors": ["Combat"],
+    "source": ["Elemental Master's Handbook pg. 19"],
+    "description": "Your fast strikes hit with the force of a hurricane, pushing your foes away.",
+    "prerequisites": "Str 13, Improved Bull Rush, Improved Unarmed Strike, Power Attack",
+    "benefit": "When you hit the same creature with unarmed strikes at least twice in the same round, you can attempt a bull rush combat maneuver against that creature as a swift action. You can also move with the target even if you have no movement remaining, but the distance you move can’t exceed half your speed.",
+    "prerequisiteKeys":     [
+        "improved bull rush",
+        "improved unarmed strike",
+        "power attack"
+    ]
+}

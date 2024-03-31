@@ -1,0 +1,10 @@
+{
+    "key": "deny death",
+    "name": "Deny Death",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deny%20Death",
+    "source": ["Ultimate Magic pg. 148"],
+    "description": "Your <i>ki<\/i> is so strong that it can deny death.",
+    "prerequisites": "<i>Ki<\/i> pool, Endurance",
+    "benefit": "As long as you have 1 <i>ki<\/i> point in your <i>ki<\/i> pool, when you fail your Constitution check to stabilize, you do not lose 1 hit point. If you succeed at the check, you can spend 1 <i>ki<\/i> point to heal 1d6 hit points. If you roll a natural 20 on the check to stabilize, you can spend 1 <i>ki<\/i> point to heal 2d6 hit points of damage instead.",
+    "prerequisiteKeys": ["endurance"]
+}

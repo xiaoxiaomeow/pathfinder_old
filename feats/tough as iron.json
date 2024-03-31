@@ -1,0 +1,10 @@
+{
+    "key": "tough as iron",
+    "name": "Tough as Iron",
+    "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tough%20as%20Iron",
+    "source": ["Monster Codex pg. 44"],
+    "description": "Effects that grant natural armor work even better for you.",
+    "prerequisites": "Toughness, duergar",
+    "benefit": "When you gain an enhancement bonus to your natural armor, that bonus increases by 2. This has no effect if your natural armor bonus is +0 or you do not have an enhancement bonus increasing your natural armor bonus.",
+    "prerequisiteKeys": ["toughness"]
+}
