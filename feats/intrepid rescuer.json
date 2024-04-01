@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intrepid%20Rescuer",
     "descriptors": ["Combat"],
     "source": ["Inner Sea Gods pg. 213"],
-    "description": "You instinctively react to interfere with foes that attack your allies or innocents.",
+    "text": "You instinctively react to interfere with foes that attack your allies or innocents.",
     "prerequisites": "Combat Reflexes, worshiper of Kurgess.",
     "benefit": "Whenever an opponent you threaten makes an attack against a helpless, prone, or stunned ally or any attack against a noncombatant, that opponent provokes an attack of opportunity from you. If your attack of opportunity hits your foe, she takes a –4 penalty on the attack roll that provoked this attack of opportunity.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "When an opponent provokes an attack of opportunity from you as a result of the Intrepid Rescuer feat, if your attack of opportunity hits, you can spend 5 stamina points to cause the opponent’s attack to automatically miss your ally.",
     "prerequisiteKeys": ["combat reflexes"]
 }

@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fearless%20Zeal",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 68"],
-    "description": "You’re willing to lay down your life for your faith.",
+    "text": "You’re willing to lay down your life for your faith.",
     "prerequisites": "You must be ordained as a sacred (or profane) champion of your faith by a high-ranking member of its clergy, or have the Devoted, Faith-Bringer, or Moral Debt background. Such an honor goes above and beyond the normal oaths required of a cleric or paladin.",
-    "benefit": "Once per day, you can add a +2 bonus on any single attack roll, caster level check, saving throw, or skill check. You must choose to add this bonus after the die has been rolled and success or failure determined, but before any results (such as damage) are rolled and applied. If you have 10 or more levels or hit dice, this bonus increases to +4."
+    "benefit": "Once per day, you can add a +2 bonus on any single attack roll, caster level check, saving throw, or skill check. You must choose to add this bonus after the die has been rolled and success or failure determined, but before any results (such as damage) are rolled and applied. If you have 10 or more levels or hit dice, this bonus increases to +4.",
+    "goal": "Die in pursuit of your faith’s goals and be brought back to life. If you die in circumstances that don’t involve your faith, you gain no benefit. If your GM permits, you can instead remain dead and create a new PC inspired by your heroic sacrifice.",
+    "completionBenefit": "If you died and came back, you become a living symbol of faith. Once per day as a standard action, you can inspire those who share your faith to great effort, granting them a +2 morale bonus on attack rolls and saving throws for 1 minute. This is a mind-affecting, language-dependent effect. If you create a new character inspired by your previous character, the new PC receives a +2 bonus to a single ability score. This ability score can’t be one that already has a racial bonus. The new PC can later take this feat if he meets the prerequisite.",
+    "name_zh": "狂热圣徒",
+    "text_zh": "你愿意殒身以恤信仰。",
+    "prerequisites_zh": "你必须被你所属信仰之教会的高阶祭司授予神圣（或亵渎）斗士的名誉；或拥有“虔诚信者（Devoted）”、“福音使徒（Faith-Bringer）”、“背负罪恶（Moral Debt）”等角色背景之一。此等荣誉需建立在高于牧师和圣骑士的誓约之上。",
+    "benefit_zh": "每日1次，你可以使单次攻击、施法者等级、豁免或技能检定+2。你必须在检定结果已确定，但效果尚未决定（譬如伤害值）之前应用此加值。若你的等级或生命骰为10以上，该加值增至+4。",
+    "goal_zh": "为信仰奋战而牺牲后被复活。若你在与信仰无关的场合死亡则无效。若GM允许，你也可以令角色死亡、而建立一位受你的英雄行为感召而起的新角色。",
+    "completionBenefit_zh": "若你死而复生，你成为信仰的鲜活具现。每日1次，你能够通过标准动作激励与你同为信仰而战之人，使他们1分钟内攻击和豁免检定+2。这是一个基于影响心智和语言的效果。若你建立一位受牺牲角色感召的新角色，新角色单项属性+2。该属性不能是已被种族修正强化过的属性。新角色在达到先决条件后也可以选择本专长。"
 }

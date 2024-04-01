@@ -3,8 +3,13 @@
     "name": "Extra Mesmerist Tricks",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Mesmerist%20Tricks",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You can use your mesmerist tricks more often.",
+    "text": "You can use your mesmerist tricks more often.",
     "prerequisites": "Mesmerist trick class feature.",
     "benefit": "You can implant two additional mesmerist tricks per day.",
-    "special": "You can gain Extra Mesmerist Tricks multiple times. Its effects stack."
+    "special": "You can gain Extra Mesmerist Tricks multiple times. Its effects stack.",
+    "name_zh": "额外催眠师诡计",
+    "text_zh": "你可以比以往使用更多次的催眠师诡计。",
+    "prerequisites_zh": "催眠师诡计（Mesmerist Trick）职业能力",
+    "benefit_zh": "你每日可以额外植入2次催眠师诡计（Mesmerist Trick）。",
+    "special_zh": "你可以多次选取该专长，其效果会叠加。"
 }

@@ -3,8 +3,12 @@
     "name": "Esoteric Linguistics",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Esoteric%20Linguistics",
     "source": ["Advanced Class Guide pg. 146"],
-    "description": "You can decipher even the most exotic of writings, including those that contain magic.",
+    "text": "You can decipher even the most exotic of writings, including those that contain magic.",
     "prerequisites": "Skill Focus (Linguistics).",
     "benefit": "You can attempt a Linguistics check in place of a Use Magic Device check to activate a scroll, or in place of a Spellcraft check to identify a scroll. You must still have (or emulate) the ability score required to cast a spell of the desired level, and you cannot use Linguistics on the check to emulate the required ability score.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "解码神秘",
+    "text_zh": "你经手过如此之多的古怪语言，法师抄写法术的那点小文字游戏对你来说不值一提。",
+    "prerequisites_zh": "技能专攻（语言学）",
+    "benefit_zh": "你可以使用一次语言学检定来代替使用魔法装置技能以使用卷轴，或是代替辨识法术技能以辨识一张卷轴，但是你必须拥有（或通过技能模仿）可以施放该环法术的属性值，并且你不能通过语言学技能来模仿此施法属性。"
 }

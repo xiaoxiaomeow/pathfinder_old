@@ -4,14 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kobold%20Sniper",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 137"],
-    "description": "You snipe quickly, making it harder for others to find the location of your attack.",
+    "text": "You snipe quickly, making it harder for others to find the location of your attack.",
     "prerequisites": "Stealth 1 rank, kobold.",
     "benefit": "When you are sniping, you only take a –10 penalty on your Stealth checks to stay hidden.",
     "normal": "You take a –20 penalty on your Stealth check to maintain your obscured location while sniping.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "When you are sniping, you can spend 5 stamina points to decrease the penalty on Stealth checks to stay hidden to –5 until the start of your next turn.",
     "name_zh": "狗头人狙击手",
-    "description_zh": "你狙击时出手干净利落，这使得其他人很难找到你攻击的位置。",
+    "text_zh": "你狙击时出手干净利落，这使得其他人很难找到你攻击的位置。",
     "prerequisites_zh": "隐匿1级，狗头人。",
-    "benefit_zh": "当你狙击时（参见隐匿技能说明），你只会在隐匿检定上受到-10减值以保持隐藏。<\/p><p>通常状况：当你试图在狙击后维持隐藏状态时隐匿检定-20。"
+    "benefit_zh": "当你狙击时（参见隐匿技能说明），你只会在隐匿检定上受到-10减值以保持隐藏。",
+    "normal_zh": "当你试图在狙击后维持隐藏状态时隐匿检定-20。"
 }

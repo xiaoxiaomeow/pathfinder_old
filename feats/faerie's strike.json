@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Faerie's%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 147"],
-    "description": "Ephemeral wisps of nature spirits dance about those you strike.",
+    "text": "Ephemeral wisps of nature spirits dance about those you strike.",
     "prerequisites": "Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
     "benefit": "When you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), the creature you hit with the attack must succeed at a Will save (DC = 10 + 1/2 your character level + your Wisdom modifier) or be illuminated as if by <i>faerie fire<\/i> for 1 minute. You can use this benefit a number of times per day equal to your Wisdom modifier (minimum 1).",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "nature magic",
         "vital strike"
-    ]
+    ],
+    "name_zh": "妖精之击",
+    "text_zh": "第一世界的能量在你的武器间流动，飞舞的火花纠缠在它们击中的目标身周。",
+    "prerequisites_zh": "自然魔法（Nature Magic）专长或可以施放游侠或德鲁伊法术；暴击，知识（自然）技能5级。",
+    "benefit_zh": "每当你发动一次暴击（或是精通暴击和高等暴击）攻击时，被你击中的生物必须通过一个意志检定（DC=10+你人物等级的一半+你的感知调整值）否则受到相当于法术妖火术（Faerie Fire）的影响，持续1分钟。你每日可以使用本能力的次数等同于你的感知调整值。"
 }

@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Charging%20Hurler",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 105"],
-    "description": "Every muscle in your body adds its force to your thrown weapons.",
+    "text": "Every muscle in your body adds its force to your thrown weapons.",
     "prerequisites": "Charging Hurler, Point-Blank Shot.",
     "benefit": "When you use Charging Hurler, your target can be at any range up to your weapon’s maximum range. If your target is within 30 feet, you gain a +2 bonus on damage rolls.",
     "normal": "Using Charging Hurler requires you to end your movement within 30 feet of your opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "When using Charging Hurler<sup>UC<\/sup> against a target within 30 feet, you can spend up to 2 stamina points. When you do, the bonus on your damage roll for that attack increases by double the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "charging hurler",
         "point-blank shot"
     ],
     "name_zh": "精通冲锋投掷",
-    "description_zh": "你利用身上每一块肌肉来增强你的投掷威力。",
+    "text_zh": "你利用身上每一块肌肉来增强你的投掷威力。",
     "prerequisites_zh": "冲锋投掷，近距射击。",
-    "benefit_zh": "当你使用“冲锋投掷”时，你可以在与目标距离为武器最大射程以内的任何地方停止移动。如果你的目标在30尺范围内，你的伤害骰获得+2加值。<\/p><p>通常状况：进行“冲锋投掷”时移动终点必须位于目标附近30尺内。"
+    "benefit_zh": "当你使用“冲锋投掷”时，你可以在与目标距离为武器最大射程以内的任何地方停止移动。如果你的目标在30尺范围内，你的伤害骰获得+2加值。",
+    "normal_zh": "进行“冲锋投掷”时移动终点必须位于目标附近30尺内。"
 }

@@ -3,11 +3,11 @@
     "name": "Judgment Surge",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Judgment%20Surge",
     "source": ["Ultimate Magic pg. 153"],
-    "description": "Once per day, the power of your faith surges, further empowering your judgments.",
+    "text": "Once per day, the power of your faith surges, further empowering your judgments.",
     "prerequisites": "Judgment class feature.",
     "benefit": "Once per day, you can treat your class level for your judgment class feature as if it were 3 higher than normal. If you have multiple judgments active at the same time, this benefit applies to all of them.",
     "name_zh": "狂热审判",
-    "description_zh": "每日一次，你的信仰之力澎湃而出，从而增强了你的审判。",
+    "text_zh": "每日一次，你的信仰之力澎湃而出，从而增强了你的审判。",
     "prerequisites_zh": "【审判】职业特性。",
     "benefit_zh": "每日1次，你使用【审判】职业特性时将你的职业等级视为比通常情况下高3级。如果你同时激活了复数个审判，那么它们都能获得这个增益。"
 }

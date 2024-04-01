@@ -7,9 +7,9 @@
         "Inner Sea Gods pg. 216",
         "Faiths of Balance pg. 24"
     ],
-    "description": "You can attack with your armor spikes while using bull rush or overrun.",
+    "text": "You can attack with your armor spikes while using bull rush or overrun.",
     "prerequisites": "Proficient with armor spikes.",
     "benefit": "When you succeed at a bull rush or overrun combat maneuver, you may automatically make an attack roll with your armor spikes against the target of the maneuver as a swift action, using your highest attack bonus.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "You can spend 4 stamina points after succeeding at a bull rush or overrun combat maneuver check to use Spiked Destroyer against that target as a free action."
 }

@@ -4,14 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Counter%20Reflexes",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "Your opponent’s advanced training in moving around you is surpassed only by your readiness for it.",
+    "text": "Your opponent’s advanced training in moving around you is surpassed only by your readiness for it.",
     "prerequisites": "Anticipate Dodge, Dodge, Mobility; base attack bonus +9, brawler level 6th, or monk level 6th.",
     "benefit": "Opponents with the Mobility feat do not gain the dodge bonus granted by that feat when they provoke attacks of opportunity by moving out of or within your threatened area.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "When an opponent with the Mobility feat moves out of or within your threatened area, you can spend 2 stamina points to gain a +4 bonus on your attack of opportunity.",
     "prerequisiteKeys":     [
         "anticipate dodge",
         "dodge",
         "mobility"
-    ]
+    ],
+    "name_zh": "进无可进",
+    "text_zh": "通过判读敌人的步伐，你深知对方会如何在你的威胁范围内移动",
+    "prerequisites_zh": "捕捉闪避，闪避，灵活移动，基础攻击加值+9或拳师等级6或武僧等级6",
+    "benefit_zh": "拥有灵活移动专长的敌人无法在因为移出你的威胁范围而触发你的借机攻击时，在防御等级上获得任何闪避加值。"
 }

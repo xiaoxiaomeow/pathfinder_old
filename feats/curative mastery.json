@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Curative%20Mastery",
     "descriptors": ["Item Mastery"],
     "source": ["Healer's Handbook pg. 14"],
-    "description": "You can invoke a magic item’s innate conjuration magic to conjure positive energy for healing wounds.",
+    "text": "You can invoke a magic item’s innate conjuration magic to conjure positive energy for healing wounds.",
     "prerequisites": "Use Magic Device 1 rank, base Fortitude bonus +2.",
     "benefit": "You can cause an item that has a 1st-level or higher conjuration spell listed in its construction requirements to cast <i>cure light wounds<\/i> as a spell-like ability, using the item’s caster level as the spell’s caster level. You can use this feat once per day, plus one additional time per day when your base Fortitude save bonus reaches +4, +6, +8, +10, and +12.<br><br> You can expend two uses of this feat to cast <i>cure moderate wounds<\/i>, three uses to cast <i>cure serious wounds<\/i>, four uses to cast <i>cure critical wounds<\/i>, and five uses to cast <i>breath of life<\/i>, provided that the item’s construction requirements include a spell whose level is equal to or greater than the level of the spell-like ability to be used (2nd level for <i>cure moderate wounds<\/i>, 3rd level for <i>cure serious wounds<\/i>, 4th level for <i>cure critical wounds<\/i>, and 5th level for <i>breath of life<\/i>)."
 }

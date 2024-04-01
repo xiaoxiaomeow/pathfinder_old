@@ -6,7 +6,11 @@
         "Ultimate Wilderness pg. 111",
         "Advanced Class Guide pg. 146"
     ],
-    "description": "You can assume the aspects of an animal for longer stretches of time than most of your rivals and allies.",
+    "text": "You can assume the aspects of an animal for longer stretches of time than most of your rivals and allies.",
     "prerequisites": "Animal focus class feature.",
-    "benefit": "Add your Wisdom bonus (minimum 1) to the number of minutes per day that you can use your animal focus ability to assume the aspects of an animal."
+    "benefit": "Add your Wisdom bonus (minimum 1) to the number of minutes per day that you can use your animal focus ability to assume the aspects of an animal.",
+    "name_zh": "长效动物之力",
+    "text_zh": "你可以长时间地模仿一种动物的特征。",
+    "prerequisites_zh": "猎人动物之力职业能力",
+    "benefit_zh": "你可以将你的感知调整值（最少为1）分钟的额外使用时间加到你每日使用动物之力的时间上。"
 }

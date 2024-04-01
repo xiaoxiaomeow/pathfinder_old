@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Persistent%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 167"],
-    "description": "You can modify a spell to become more tenacious when its targets resist its effect. ",
+    "text": "You can modify a spell to become more tenacious when its targets resist its effect. ",
     "benefit": "Whenever a creature targeted by a persistent spell or within its area succeeds on its saving throw against the spell, it must make another saving throw against the effect. If a creature fails this second saving throw, it suffers the full effects of the spell, as if it had failed its first saving throw. A persistent spell uses up a spell slot two levels higher than the spell’s actual level. Spells that do not require a saving throw to resist or lessen the spell’s effect do not benefit from this feat.",
     "name_zh": "顽强法术",
-    "description_zh": "你可以调整一个法术，使其更加难以被抵御。",
+    "text_zh": "你可以调整一个法术，使其更加难以被抵御。",
     "benefit_zh": "每当一名生物成为顽强法术的目标或者处于法术范围内，并且成功豁免该法术，那么他必须进行另一次豁免检定对抗法术效果。如果该名生物在第二次豁免中失败，那么他会受到法术的全部效果影响，就如同他在第一次豁免中失败一样。顽强法术占用比法术的实际环级高2环的法术位。不需要进行豁免来抵抗或减免效果的法术不会由该专长受益。"
 }

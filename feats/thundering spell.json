@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Thundering%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "You can conjure your spells into existence with blaring thunder or fearful shrieks, deafening creatures damaged by their effects.",
+    "text": "You can conjure your spells into existence with blaring thunder or fearful shrieks, deafening creatures damaged by their effects.",
     "benefit": "You can modify a spell to deafen a creature damaged by the spell. When a creature takes damage from this spell, it becomes deafened for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the deafening effect. If the spell does not allow a save, the target can make a Fortitude save to negate the deafening effect. If the spell effect also causes the creature to become deafened, the duration of this metamagic effect is added to the duration of the spell. A thundering spell uses up a spell slot two levels higher than the spell’s actual level. <br><br> Spells that do not inflict damage do not benefit from this feat.",
     "name_zh": "暴雷法术",
-    "description_zh": "你可以将轰鸣的雷声与可怕的尖叫声混入法术之中，使那些被法术伤害的生物耳聋。",
+    "text_zh": "你可以将轰鸣的雷声与可怕的尖叫声混入法术之中，使那些被法术伤害的生物耳聋。",
     "benefit_zh": "你能够调整一个法术，使其能够让被法术伤害的生物耳聋。当一名生物被这个法术伤害时，他会在等同于法术原始等级的轮数内耳聋。如果法术允许豁免，成功的豁免也可以使耳聋效果无效。如果法术不允许豁免，那么目标能够进行一次强韧豁免来使耳聋效果无效。如果法术效果会使生物耳聋，那么超魔效果的持续时间会加到法术的持续时间之上。暴雷法术占用比法术的实际环级高2环的法术位。不造成伤害的法术无法由该专长获益。"
 }

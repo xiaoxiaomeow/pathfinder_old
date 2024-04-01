@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Confounding%20Tumble%20Deed",
     "descriptors": ["Panache"],
     "source": ["Advanced Class Guide pg. 143"],
-    "description": "You can befuddle a foe by striking a blow after tumbling.",
+    "text": "You can befuddle a foe by striking a blow after tumbling.",
     "prerequisites": "Amateur Swashbuckler feat or panache class feature, Canny Tumble, Acrobatics 7 ranks.",
     "benefit": "When you use Acrobatics to move through an opponent’s threatened area or space without provoking an attack of opportunity from that opponent and then hit that foe with a melee attack in the same round, as a free action you can spend 1 panache point to deny that foe its Dexterity bonus to its armor class until the end of your next turn.",
-    "prerequisiteKeys": ["canny tumble"]
+    "prerequisiteKeys": ["canny tumble"],
+    "name_zh": "旋舞花招",
+    "text_zh": "你藉着对方被你回转的动作弄得眼花缭乱，起手刺出防不胜防的一击",
+    "prerequisites_zh": "业余剑客专长或拥有派头职业能力，巧技寻机，特技动作技能7级",
+    "benefit_zh": "如果你通过特技动作检定移出敌人的威胁范围或占据空间而不引发借机攻击，且在此之后你在同一轮中成功地对这个目标发动了一个近战攻击，那么你可以花费1点时髦值，在你的下一轮结束前忽视目标防御等级上的敏捷加值。"
 }

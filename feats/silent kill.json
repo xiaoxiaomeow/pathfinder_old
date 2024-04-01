@@ -4,9 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Silent%20Kill",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "You are quite adept at killing your prey without making noise or alerting others.",
+    "text": "You are quite adept at killing your prey without making noise or alerting others.",
     "prerequisites": "Stealth 12 ranks; assassinate advanced slayer talent or ninja master trick.",
     "benefit": "When you kill a creature during a surprise round, you can attempt a Stealth check, opposed by the Perception checks of potential observers, to prevent them from noticing your action and subsequently identifying you as the assailant.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
-    "staminaText": "When you use this feat, you can spend a number of stamina points up to your Dexterity bonus and gain a bonus on the Stealth check equal to the number of stamina points you spent."
+    "staminaSource": "Pathfinder Unchained pg. 131",
+    "staminaText": "When you use this feat, you can spend a number of stamina points up to your Dexterity bonus and gain a bonus on the Stealth check equal to the number of stamina points you spent.",
+    "name_zh": "寂灭杀",
+    "text_zh": "你的锋刃安静地没入目标的咽喉，无人知晓周围正在发生的杀戮。",
+    "prerequisites_zh": "潜行技能等级12，杀手一击瞬杀（Assassinate，译注：忍者有一个同名同效能力瞬狱杀）职业能力，高等杀手天赋职业能力或忍者高等忍术职业能力",
+    "benefit_zh": "如果你在突袭轮中杀死了一个生物，那么你可以进行一个潜行检定来抵抗可能的观察者的察觉检定。如果你成功，则没有人会发现你刚刚刺杀了目标。"
 }

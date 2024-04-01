@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Whispered%20Knowledge",
     "descriptors": ["Faction"],
     "source": ["Faction Guide pg. 58"],
-    "description": "You possess secret knowledge that enhances and helps perfect your undead form.",
+    "text": "You possess secret knowledge that enhances and helps perfect your undead form.",
     "prerequisites": "Corporeal undead, Whispering Way 15 TPA.",
     "benefit": "Choose one of the following secrets:<br><br><i>Secret of Blood<\/i>: After successfully dealing damage to a living creature with a melee attack, you can consume that creature’s blood from your weapon as a swift action, gaining 1d8 temporary hit points, a +2 enhancement bonus to Strength, and a +1 bonus to your caster level. This lasts 10 minutes per Hit Die of your target, and otherwise acts as a <i>death knell<\/i> spell.<br><br><i>Secret of Bone<\/i>: Your bones harden and calcify. You gain DR 5/bludgeoning.<br><br><i>Secret of Brains<\/i>: As secret of blood, but you gain a +2 enhancement bonus to your Intelligence instead of Strength. This ability has no effect on mindless targets.<br><br><i>Secret of the Grave<\/i>: You can designate an unholy container for your remains, such as a coffin, canopic jar, or burial urn. When in this container and not taking any actions, you gain fast healing 5.",
     "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, you learn a new secret."

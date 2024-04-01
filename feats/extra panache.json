@@ -4,9 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Panache",
     "descriptors": ["Panache"],
     "source": ["Advanced Class Guide pg. 147"],
-    "description": "You have more panache than the ordinary swashbuckler.",
+    "text": "You have more panache than the ordinary swashbuckler.",
     "prerequisites": "Amateur Swashbuckler or panache class feature.",
     "benefit": "You gain two more panache points at the start of each day, and your maximum panache increases by two.",
     "special": "If you have levels in the swashbuckler class, you can take this feat multiple times. Its effects stack.",
-    "prerequisiteKeys": ["amateur swashbuckler"]
+    "prerequisiteKeys": ["amateur swashbuckler"],
+    "name_zh": "额外派头",
+    "text_zh": "你比普通的游荡剑客更加时髦。",
+    "prerequisites_zh": "业余剑客专长或派头职业能力",
+    "benefit_zh": "你获得每日额外两点时髦值，以及两点时髦最大值。",
+    "special_zh": "如果你在游荡剑客职业上拥有等级，你可以多次选择本专长，每次选择，专长效果叠加。"
 }

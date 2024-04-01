@@ -4,14 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Siege%20Engineer",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 118"],
-    "description": "You are proficient with all siege weaponry.",
+    "text": "You are proficient with all siege weaponry.",
     "prerequisites": "Knowledge (engineering) 5 ranks or Profession (siege engineer) 5 ranks, proficiency with one siege engine.",
     "benefit": "You are considered to be proficient with all siege weapons. Also, when you are crew lead for a siege engine, you do not generate mishaps on the roll of a natural 1.",
     "normal": "Each siege engine is an exotic weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain a +1 bonus on attack rolls with all siege weapons.",
     "name_zh": "攻城技师",
-    "description_zh": "你对所有攻城兵器了如指掌。",
+    "text_zh": "你对所有攻城兵器了如指掌。",
     "prerequisites_zh": "知识（工程）5级或专业（攻城技师）5级，熟悉一项攻城兵器。",
-    "benefit_zh": "你被视为擅长所有攻城兵器。同时，当你身为攻城兵器的机师长时，该兵器不会因攻击投骰为1而掉链。<\/p><p>通常状况：每种攻城兵器都是异种武器。"
+    "benefit_zh": "你被视为擅长所有攻城兵器。同时，当你身为攻城兵器的机师长时，该兵器不会因攻击投骰为1而掉链。",
+    "normal_zh": "每种攻城兵器都是异种武器。"
 }

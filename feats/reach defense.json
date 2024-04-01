@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reach%20Defense",
     "descriptors": ["Combat"],
     "source": ["Dragonslayer's Handbook pg. 25"],
-    "description": "You are proficient at avoiding polearms and long-limbed creatures.",
+    "text": "You are proficient at avoiding polearms and long-limbed creatures.",
     "prerequisites": "Dex 15",
     "benefit": "You gain a +2 dodge bonus to Armor Class against attacks of opportunity from opponents that are not adjacent to you.",
     "special": "This feat counts as Dodge for the purposes of qualifying for the Mobility and Spring Attack feats.",
-    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend 5 stamina points to grant the benefit of this feat to any adjacent allies for 1 round. (<I>Dragonslayer’s Handbook 25<\/i>)"
 }

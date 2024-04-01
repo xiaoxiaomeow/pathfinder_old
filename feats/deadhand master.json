@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadhand%20Master",
     "descriptors": ["Combat"],
     "source": ["Horror Adventures pg. 84"],
-    "description": "Your death-infused punch drains life force from your foes.",
+    "text": "Your death-infused punch drains life force from your foes.",
     "prerequisites": "Wis 23, Deadhand Initiate, Deadhand Style, Improved Unarmed Strike, Knowledge (religion) 14 ranks, ki pool class feature, nongood alignment.",
     "benefit": "While using Deadhand Style, when you damage a living creature with an unarmed strike, you can spend 2 points from your ki pool as a swift action to inflict 2 temporary negative levels on your enemy with no saving throw. Effects that reduce the ki cost also reduce the number of negative levels you inflict on your foe, but effects that increase the ki cost do not increase the number of negative levels you inflict. As long as the foe is affected by the temporary negative levels, you can’t recover the ki points you spent, effectively reducing the size of your ki pool. The Fortitude save DC to remove the negative levels and prevent them from becoming permanent is equal to 10 + 1/2 your Hit Dice + your Wisdom modifier. Once the negative levels become permanent or the foe removes them, you can recover your spent ki points. If the foe dies before either happens, you can recover the spent ki after 24 hours.",
     "prerequisiteKeys":     [

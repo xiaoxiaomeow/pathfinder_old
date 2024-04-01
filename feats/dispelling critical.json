@@ -4,12 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispelling%20Critical",
     "descriptors": ["Critical"],
     "source": ["Ultimate Combat pg. 97"],
-    "description": "Your blows attack the physical and arcane forms of your enemies at the same time.",
+    "text": "Your blows attack the physical and arcane forms of your enemies at the same time.",
     "prerequisites": "Arcane Strike, base attack bonus +11, ability to cast <i>dispel magic<\/i>.",
     "benefit": "If you have <i>dispel magic <\/i>prepared or can cast it spontaneously, when you score a critical hit against an opponent, you may use a swift action to cast <i>dispel magic <\/i>to make a targeted dispel against that opponent.",
     "prerequisiteKeys": ["arcane strike"],
     "name_zh": "驱魔重击",
-    "description_zh": "你同时对你的敌人造成沉重的物理和奥术的双重打击。",
+    "text_zh": "你同时对你的敌人造成沉重的物理和奥术的双重打击。",
     "prerequisites_zh": "奥术打击，基本攻击加值+11，能够施放‘解除魔法’。",
     "benefit_zh": "如果准备了‘解除魔法’法术或能够自发施放它，当你对敌人造成一次重击时，你可以用迅捷动作施放一次以他为目标的‘解除魔法’。"
 }

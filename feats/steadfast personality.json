@@ -3,6 +3,9 @@
     "name": "Steadfast Personality",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Steadfast%20Personality",
     "source": ["Advanced Class Guide pg. 157"],
-    "description": "You rely on your assuredness and sense of self to help keep your mind clear.",
-    "benefit": "Add your Charisma modifier instead of your Wisdom bonus on Will saves against mind-affecting effects. If you have a Wisdom penalty, you must apply both your Wisdom penalty and your Charisma modifier."
+    "text": "You rely on your assuredness and sense of self to help keep your mind clear.",
+    "benefit": "Add your Charisma modifier instead of your Wisdom bonus on Will saves against mind-affecting effects. If you have a Wisdom penalty, you must apply both your Wisdom penalty and your Charisma modifier.",
+    "name_zh": "坚定常识",
+    "text_zh": "作为一个理智牢固的常识人，没有什么稀奇古怪的东西能够影响你的判断。",
+    "benefit_zh": "在对抗影响心灵的意志豁免时，用你的魅力调整值代替感知调整值计算意志豁免的加值。如果你的感知调整值为负，则计算意志豁免加值时必须同时计算魅力调整值和感知调整值。"
 }

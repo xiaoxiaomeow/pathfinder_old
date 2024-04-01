@@ -7,11 +7,8 @@
         "Style"
     ],
     "source": ["Armor Master's Handbook pg. 13"],
-    "description": "You can bring your shield to bear against dangers that threaten your allies.",
-    "prerequisites": "Bodyguard, Combat Reflexes, proficiency with light or heavy shields.",
+    "text": "You can bring your shield to bear against dangers that threaten your allies.",
+    "prerequisites": "Bodyguard<sup>APG<\/sup>, Combat Reflexes, proficiency with light or heavy shields.",
     "benefit": "While using this style, when an adjacent ally is required to make a Reflex saving throw, you can expend a use of an attack of opportunity to attempt the aid another action to improve your ally’s Reflex save. Your ally gains a +2 bonus to all Reflex saves while adjacent to you until the beginning of your next turn.",
-    "prerequisiteKeys":     [
-        "bodyguard",
-        "combat reflexes"
-    ]
+    "prerequisiteKeys": ["combat reflexes"]
 }

@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Teleport%20Tactician",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "You are highly alert for enemies using teleportation to approach you or flee from you.",
+    "text": "You are highly alert for enemies using teleportation to approach you or flee from you.",
     "prerequisites": "Combat Reflexes, Disruptive, Spellbreaker.",
     "benefit": "Any creature using a teleportation effect to enter or leave a square threatened by you provokes an attack of opportunity, even if casting defensively or using a supernatural ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you hit a target with an attack of opportunity granted by this feat, you can spend 2 stamina points to daze the target for 1 round. The target can attempt a Fortitude save with a DC equal to 10 + your base attack bonus to negate this effect.",
     "prerequisiteKeys":     [
         "combat reflexes",
@@ -15,7 +15,7 @@
         "spellbreaker"
     ],
     "name_zh": "传送抗击",
-    "description_zh": "你高度警惕那些使用传送来靠近或逃离你的敌人。",
+    "text_zh": "你高度警惕那些使用传送来靠近或逃离你的敌人。",
     "prerequisites_zh": "战斗反射，扰法者，破法者。",
     "benefit_zh": "任何使用传送效果进入或离开你所威胁的方格时，会引起你的借机攻击，即使他进行防御式施法或者使用超自然能力也一样。"
 }

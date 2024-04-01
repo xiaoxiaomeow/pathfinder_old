@@ -4,11 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Staggering%20Blow",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
-    "description": "You know just where to strike to temporarily stagger a foe.",
+    "text": "You know just where to strike to temporarily stagger a foe.",
     "prerequisites": "Str 13, Power Attack, Vital Strike, base attack bonus +8.",
     "benefit": "When you attack a foe using Vital Strike, you can choose to take a –2 penalty on your attack roll to also make the attack a staggering strike. You must make this choice before making the attack roll. If your attack roll is successful, your target must succeed at a Fortitude saving throw (DC = 10 + 1/2 your character level + your Strength modifier) or be staggered until the start of your next turn. Once a creature that failed its save recovers from the effects of your staggering blow, it is immune to the effects of this feat for 24 hours. Constructs, oozes, plants, undead, incorporeal creatures, and creatures that are immune to critical hits are immune to this effect.",
     "prerequisiteKeys":     [
         "power attack",
         "vital strike"
-    ]
+    ],
+    "name_zh": "恍惚一击",
+    "text_zh": "你知道如何将对手打得手脚麻木。",
+    "prerequisites_zh": "力量13，猛力攻击，暴击，基础攻击加值+8",
+    "benefit_zh": "当你进行一次暴击攻击时，你可以选择在这次攻击检定上承受-2减值而发动恍惚一击。如果你的攻击检定成功，目标就必须通过一个（DC=10+你的角色等级的一半+你的力量调整值）的强韧豁免检定否则将陷入恍惚状态直到你的下一轮开始。如果这个生物从恍惚效果中恢复，那么他将在24小时内免疫本专长的效果。构装体生物，泥怪，植物，不死生物，虚体生物和免疫重击的死亡同样免疫这个专长的效果。"
 }

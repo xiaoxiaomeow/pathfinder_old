@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Armor%20Focus",
     "descriptors": ["Combat"],
     "source": ["Armor Master's Handbook pg. 16"],
-    "description": "Your mastery makes the most of your armor.",
+    "text": "Your mastery makes the most of your armor.",
     "prerequisites": "Armor Focus, base attack bonus +6, proficiency with selected armor.",
     "benefit": "The armor check penalty of the selected armor decreases by 1 (to a minimum of 0). You also use your character level in place of your base attack bonus for the purpose of armor mastery feat prerequisites.",
     "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of armor.",
-    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points to negate your armor’s armor check penalty for 1 skill check. (See page 16.)",
     "prerequisiteKeys": ["armor focus"]
 }

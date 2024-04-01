@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vision%20Mastery",
     "descriptors": ["Item Mastery"],
     "source": ["Weapon Master's Handbook pg. 27"],
-    "description": "You can pierce invisibility with divination magic items.",
+    "text": "You can pierce invisibility with divination magic items.",
     "prerequisites": "Use Magic Device 2 ranks, base Fortitude save bonus +4.",
     "benefit": "You can cause an item that has a divination spell of 1st level or higher in its construction requirements to cast either <i>darkvision<\/i> or <i>see invisibility<\/i>. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12."
 }

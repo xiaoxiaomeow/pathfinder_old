@@ -3,11 +3,15 @@
     "name": "Strangler (MC)",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strangler%20(MC)",
     "source": ["Monster Codex pg. 20"],
-    "description": "You can choke foes with a lasso.",
+    "text": "You can choke foes with a lasso.",
     "prerequisites": "Exotic Weapon Proficiency (lasso), Weapon Focus (lasso).",
     "benefit": "When you successfully entangle a creature with a lasso (<i>Pathfinder RPG Advanced Player’s Guide<\/i> 178) and beat the target’s CMD by 5 or more, the target cannot speak above a whisper and must succeed at a concentration check (DC = 20 + your CMB + the spell level) to cast a spell with a verbal component, use a command word item, or use any magic requiring speech. Additionally, the DC of an Escape Artist check to slip free of a lasso you are using equals 15 or your CMD, whichever is higher.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "断喉索",
+    "text_zh": "你可以用套索将敌人勒住，使其口不能言。",
+    "prerequisites_zh": "擅长异种武器（套索），武器专攻（套索）",
+    "benefit_zh": "当你成功的使用套索（Lasso）成功纠缠一个目标时，如果成功的结果高于目标的CMD至少5点，那么目标奖无法高声说话，并且在施放含有语言成分的法术，通过命令句启动魔法物品或是装有需要语言的魔法效果时必须通过一个（DC=20+你的CMB+法术等级）的专注检定才能成功。除此之外，从你的套索逃脱的逃脱术技能检定DC上升到15或你的CMD，取其高者。"
 }

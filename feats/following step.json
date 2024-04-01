@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Following%20Step",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 160"],
-    "description": "You can repeatedly close the distance when foes try to move away, without impeding your normal movement.",
+    "text": "You can repeatedly close the distance when foes try to move away, without impeding your normal movement.",
     "prerequisites": "Dex 13, Step Up.",
     "benefit": "When using the Step Up feat to follow an adjacent foe, you may move up to 10 feet. You may still take a 5-foot step during your next turn, and any movement you make using this feat does not subtract any distance from your movement during your next turn.",
     "normal": "You can only take a 5-foot step to follow an opponent using Step Up.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "When you use this feat to move, you can spend 2 stamina points to increase your movement to 15 feet.",
     "prerequisiteKeys": ["step up"],
     "name_zh": "咄咄逼人",
-    "description_zh": "当敌人试图从你身边逃开时，你能够反覆尝试跟上他而不会妨碍自身的正常移动。",
+    "text_zh": "当敌人试图从你身边逃开时，你能够反覆尝试跟上他而不会妨碍自身的正常移动。",
     "prerequisites_zh": "敏捷13，快步跟进。",
-    "benefit_zh": "当你使用“快步跟进”专长跟上邻近的敌人时，你能够移动至多10尺。你可以在下一轮内使用五尺快步，并且任何使用此专长进行的移动，均不会扣除你下一轮的移动距离。<\/p><p>通常状况：你只能使用“快步跟进”专长进行五尺快步跟上敌人。"
+    "benefit_zh": "当你使用“快步跟进”专长跟上邻近的敌人时，你能够移动至多10尺。你可以在下一轮内使用五尺快步，并且任何使用此专长进行的移动，均不会扣除你下一轮的移动距离。",
+    "normal_zh": "你只能使用“快步跟进”专长进行五尺快步跟上敌人。"
 }

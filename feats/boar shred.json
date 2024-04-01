@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Boar%20Shred",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 90"],
-    "description": "The wounds you inflict with your unarmed strikes bleed, giving you renewed vigor.",
+    "text": "The wounds you inflict with your unarmed strikes bleed, giving you renewed vigor.",
     "prerequisites": "Improved Unarmed Strike, Boar Ferocity, Boar Style, Intimidate 9 ranks.",
     "benefit": "You can make an Intimidate check to demoralize an opponent as a move action. While using Boar Style, whenever you tear an opponent’s flesh, once per round at the start of that opponent’s turn he takes 1d6 bleed damage. The bleed damage dealt while using Boar Style persist even if you later switch to a different style.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "You can spend 2 stamina points to demoralize an opponent as a swift action.",
     "prerequisiteKeys":     [
         "boar ferocity",
@@ -15,7 +15,7 @@
         "improved unarmed strike"
     ],
     "name_zh": "豭突千裂",
-    "description_zh": "你徒手撕开的伤口血流不止，让敌人闻风丧胆。",
+    "text_zh": "你徒手撕开的伤口血流不止，让敌人闻风丧胆。",
     "prerequisites_zh": "精通徒手打击，豭突刺，豭突势，威吓9级。",
     "benefit_zh": "你可以用一个移动动作进行一次威吓检定打击对手的士气。你采用豭突流派架势时，如果你成功撕裂对手，对手会在之后每轮行动开始时受到1d6出血伤害。即使你之后切换成其他架势，造成的持续出血伤害仍会继续。"
 }

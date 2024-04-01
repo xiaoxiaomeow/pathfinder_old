@@ -7,7 +7,15 @@
         "Quests and Campaigns pg. 8",
         "Ultimate Campaign pg. 67"
     ],
-    "description": "From your earliest days, you were destined to sacrifice everything in your quest for power.",
+    "text": "From your earliest days, you were destined to sacrifice everything in your quest for power.",
     "prerequisites": "You must have had friendly contact with an evil-aligned outsider that would qualify as a challenging foe, have a fiend-related sorcerous bloodline such as abyssal or infernal, have direct fiendish ancestry (such as being a tiefling or half-fiend), or have the Fiend Raised or The Fiend background (see <i>Ultimate Campaign<\/i>).",
-    "benefit": "You gain a +2 bonus on Charisma-based checks involving evil-aligned outsiders and +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a –2 penalty on Charisma-based checks involving good-aligned outsiders."
+    "benefit": "You gain a +2 bonus on Charisma-based checks involving evil-aligned outsiders and +1 bonus to the DC of spells and spell-like abilities you use against such creatures. You take a –2 penalty on Charisma-based checks involving good-aligned outsiders.",
+    "goal": "Successfully trade your soul to an evil outsider.",
+    "completionBenefit": "You gain a +2 enhancement bonus to an ability score of your choice. This enhancement bonus can’t be dispelled or removed save by the direct intervention of a deity, and counts as a supernatural ability. In addition, you gain a +2 bonus on caster level checks (including dispel checks and checks to bypass spell resistance) against good-aligned outsiders. If you die while under the effects of this agreement, you can’t be brought back from the dead unless the evil outsider permits it. You lose your story benefits immediately and permanently if you renege on the arrangement by which you traded your soul, though you keep the feat’s basic benefits. ",
+    "name_zh": "诅咒之人",
+    "text_zh": "",
+    "prerequisites_zh": "你必须与一位满足强大敌手定义的邪恶异界生物保持友好联系，或有如深渊或地狱等与魔物相关的术士血统，或具有魔族的直系先祖（如魔裔或半炼狱生物）；或拥有“魔族养子（Fiend Raised）”、“魔族契约（The Fiend）”等角色背景之一。",
+    "benefit_zh": "你对邪恶异界生物的基于魅力的技能检定+2，用以对抗它们的法术与类法术能力豁免DC+1。你对善良异界生物的基于魅力的技能检定-2。",
+    "goal_zh": "成功将你的灵魂与一个邪恶异界生物达成交易。",
+    "completionBenefit_zh": "你的一项属性获得+2增强加值。该增强加值由于神力介入而无法被解除或驱散，并被视为超自然能力。此外，你在对抗善良异界生物时的施法者等级检定+2（包括解除魔法时和击破法术抗力时）。如果你在与邪恶异界生物的契约成立时身亡，若无对方允许，你无法复活。若你撕毁以灵魂为代价的契约则将立即并永久失去此完成收益，但即时收益仍将保留。"
 }

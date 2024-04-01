@@ -3,7 +3,7 @@
     "name": "Harrowed Summoning",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Harrowed%20Summoning",
     "source": ["The Harrow Handbook pg. 14"],
-    "description": "Your summoned creatures are empowered by the magic of the harrow.",
+    "text": "Your summoned creatures are empowered by the magic of the harrow.",
     "prerequisites": "Harrowed (<i>Pathfinder Campaign Setting: The Inner Sea World Guide <\/i>287).",
     "benefit": "When you cast a conjuration (summoning) spell or use a spell-like ability to summon one or more creatures, you can draw two random cards from a complete harrow deck you own. Doing so adds both a somatic component (if the spell does not already have one) and a focus component (the harrow deck) to the spell, but does not increase the spell’s casting time. For the duration of the spell, each summoned creature gains a +4 enhancement bonus to the corresponding ability scores of the drawn card’s suits. If both cards are the same suit, each summoned creature gains a +6 bonus to that ability score instead. If either card’s alignment is a true match for the summoned creatures’ alignment, the duration of the spell is doubled, while drawing an opposite match halves the duration of the spell. If both a true match and an opposite match are drawn, the spell’s duration is unchanged.<br><br> A creature summoned in this way is distinctly altered by the cards drawn. Its physical appearance reflects the visual elements of the cards (for example, a creature summoned with The Publican might have only one eye). The creature’s personality is also influenced by the cards, but not so much as to alter its alignment (for example, The Snakebite might summon a creature that likes to gossip).",
     "prerequisiteKeys": ["harrowed"]

@@ -3,7 +3,7 @@
     "name": "Fortitude of Giants",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fortitude%20of%20Giants",
     "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 69"],
-    "description": "Your great mass and vigor allows you to shrug off the effects of poison and fatigue.",
+    "text": "Your great mass and vigor allows you to shrug off the effects of poison and fatigue.",
     "prerequisites": "Con 14, Great Fortitude, giant subtype.",
     "benefit": "When you attempt a saving throw against a poison effect or an effect that inflicts the fatigued condition, roll twice and take the higher result.",
     "prerequisiteKeys": ["great fortitude"]

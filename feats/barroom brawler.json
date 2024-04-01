@@ -4,10 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Barroom%20Brawler",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 141"],
-    "description": "You have learned how to mimic the combat tricks and forms of others.",
+    "text": "You have learned how to mimic the combat tricks and forms of others.",
     "prerequisites": "Base attack bonus +4.",
     "benefit": "Once per day as a move action, you can gain the benefit of a combat feat that you do not possess for 1 minute. You must otherwise meet the feat’s requirements.",
     "special": "If you have the martial flexibility class feature, this feat instead grants you one additional use per day of that ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
-    "staminaText": "You can spend 5 stamina points to use this feat as a swift action instead of a move action. If you have the martial flexibility class feature, you can spend 5 stamina points to use that class feature as a swift action instead of a move action, or as a free action instead of a swift action."
+    "staminaSource": "Pathfinder Unchained pg. 114",
+    "staminaText": "You can spend 5 stamina points to use this feat as a swift action instead of a move action. If you have the martial flexibility class feature, you can spend 5 stamina points to use that class feature as a swift action instead of a move action, or as a free action instead of a swift action.",
+    "name_zh": "见招拆招",
+    "text_zh": "你擅于模仿其他格斗者的战术风格。",
+    "prerequisites_zh": "基础攻击加值+4",
+    "benefit_zh": "每天一次以一个移动动作，你可以在一分钟内获得一个你不拥有的战斗专长的效果。你必须满足获得此专长的前提条件。",
+    "special_zh": "如果你拥有千招百式职业能力，那么选择此专长后，你的每日千招百式能力使用次数增加一次。"
 }

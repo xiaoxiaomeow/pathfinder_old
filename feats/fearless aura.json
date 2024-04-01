@@ -3,12 +3,13 @@
     "name": "Fearless Aura",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fearless%20Aura",
     "source": ["Ultimate Magic pg. 150"],
-    "description": "Your aura of courage becomes more potent, as your steadfast resolve is also manifested by your allies.",
+    "text": "Your aura of courage becomes more potent, as your steadfast resolve is also manifested by your allies.",
     "prerequisites": "Aura of courage class feature, caster level 8th.",
     "benefit": "Your aura of courage expands to a 20-foot-radius emanation. Allies within the aura are immune to fear effects. ",
     "normal": "The aura of courage affects each ally within 10 feet, and grants a +4 morale bonus on saving throws against fear effects.",
     "name_zh": "无畏灵光",
-    "description_zh": "你的勇气灵光变得更加强大，而你坚定的信你也体现在队友身上。",
+    "text_zh": "你的勇气灵光变得更加强大，而你坚定的信你也体现在队友身上。",
     "prerequisites_zh": "【勇气灵光】职业特性，施法者等级8级。",
-    "benefit_zh": "你的勇气灵光扩展到20尺弥漫。灵光范围中的队友免疫恐惧效果。<\/p><p>通常状况：勇气灵光周围10尺内的队友在对抗恐惧时豁免检定有+4士气加值。"
+    "benefit_zh": "你的勇气灵光扩展到20尺弥漫。灵光范围中的队友免疫恐惧效果。",
+    "normal_zh": "勇气灵光周围10尺内的队友在对抗恐惧时豁免检定有+4士气加值。"
 }

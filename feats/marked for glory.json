@@ -3,12 +3,16 @@
     "name": "Marked for Glory",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Marked%20for%20Glory",
     "source": ["Mythic Adventures pg. 69"],
-    "description": "You’re destined for glory beyond the ken of ordinary adventurers and mere mortals.",
+    "text": "You’re destined for glory beyond the ken of ordinary adventurers and mere mortals.",
     "prerequisites": "Great Fortitude, Iron Will, or Lightning Reflexes.",
     "benefit": "You can use the surge ability (see page 12) once per day (adding 1d6). If you are or become mythic, you can use your surge one additional time per day.",
     "prerequisiteKeys":     [
         "great fortitude",
         "iron will",
         "lightning reflexes"
-    ]
+    ],
+    "name_zh": "注定荣耀",
+    "text_zh": "你命中注定会获得远超普通冒险者和凡人无法想像的荣耀。",
+    "prerequisites_zh": "强韧加强，钢铁意志或闪电反射",
+    "benefit_zh": "你获得每日使用1次神力涌动（神力涌动加骰为1d6）的能力。若你成为了神话角色，那么每日能够额外使用1次神力涌动能力。"
 }

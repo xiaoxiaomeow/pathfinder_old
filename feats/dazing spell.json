@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dazing%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 157"],
-    "description": "You can daze creatures with the power of your spells.",
+    "text": "You can daze creatures with the power of your spells.",
     "benefit": "You can modify a spell to daze a creature damaged by the spell. When a creature takes damage from this spell, they become dazed for a number of rounds equal to the original level of the spell. If the spell allows a saving throw, a successful save negates the daze effect. If the spell does not allow a save, the target can make a Will save to negate the daze effect. If the spell effect also causes the creature to become dazed, the duration of this metamagic effect is added to the duration of the spell. A dazing spell uses up a spell slot three levels higher than the spell’s actual level. Spells that do not inflict damage do not benefit from this feat.",
     "name_zh": "晕眩法术",
-    "description_zh": "你能够利用法术的力量来使生物晕眩。",
+    "text_zh": "你能够利用法术的力量来使生物晕眩。",
     "benefit_zh": "你能够调整法术，使法术伤害的生物处于晕眩状态。当生物受到该法术的伤害后，会变得晕眩，持续的轮数等同于法术的原始环级。如果法术允许豁免，那么成功的豁免可以免受晕眩效果。如果法术无需豁免，目标则可以进行一次意志豁免来避免晕眩效果。如果法术效果本身可以使目标晕眩，那么这个超魔效果的持续时间与法术效果的持续时间叠加。晕眩法术占用比法术的实际环级高3环的法术位。无法造成伤害的法术无法从该专长获益。"
 }

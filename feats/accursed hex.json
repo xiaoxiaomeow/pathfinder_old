@@ -3,16 +3,17 @@
     "name": "Accursed Hex",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Accursed%20Hex",
     "source": ["Ultimate Magic pg. 143"],
-    "description": "You can make a second attempt at failed hexes.",
+    "text": "You can make a second attempt at failed hexes.",
     "prerequisites": "Hex class feature.",
     "benefit": "When you target a creature with a hex that cannot target the same creature more than once per day, and that creature succeeds at its saving throw against the hex’s effect, you can target the creature with the same hex a second time before the end of your next turn. If the second attempt fails, you can make no further attempts to target that creature with the same hex for 1 day. ",
     "normal": "You can only target a creature with these hexes once per day.",
-    "mythicSource": ["Mythic Adventures pg. 54"],
-    "mythicDescription": "Your hexes flare with persistent potency.",
-    "mythicPrerequisites": "Accursed Hex.<br><br",
+    "mythicSource": "Mythic Adventures pg. 54",
+    "mythicText": "Your hexes flare with persistent potency.",
+    "mythicPrerequisites": "Accursed Hex.",
     "mythicBenefit": "When you use Accursed Hex to target a creature with one of your hexes a second time, that creature must roll its saving throw twice and take the lower result.",
     "name_zh": "诅咒巫术",
-    "description_zh": "在巫术失败的时候，你可以再试一次。",
+    "text_zh": "在巫术失败的时候，你可以再试一次。",
     "prerequisites_zh": "【巫术】职业特性。",
-    "benefit_zh": "当你对目标使用了一个至少一日才能生效一次的巫术，并且目标在对抗巫术的豁免中成功时，你可以在下一轮中对目标再使用一次相同的巫术。如果第二次巫术也失败了，你在一日之内不能再对目标使用相同的巫术。<\/p><p>通常状况：这些巫术你每天只能对目标使用一次。"
+    "benefit_zh": "当你对目标使用了一个至少一日才能生效一次的巫术，并且目标在对抗巫术的豁免中成功时，你可以在下一轮中对目标再使用一次相同的巫术。如果第二次巫术也失败了，你在一日之内不能再对目标使用相同的巫术。",
+    "normal_zh": "这些巫术你每天只能对目标使用一次。"
 }

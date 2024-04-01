@@ -3,7 +3,7 @@
     "name": "Greater Channel Force",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Channel%20Force",
     "source": ["Advanced Race Guide pg. 88"],
-    "description": "Your eruptions of divine power move your enemies.",
+    "text": "Your eruptions of divine power move your enemies.",
     "prerequisites": "Channel Force, Improved Channel Force, aasimar, channel energy 6d6.",
     "benefit": "When using Improved Channel Force, you can affect all creatures in a 30-foot-radius burst.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "improved channel force"
     ],
     "name_zh": "高等原力导能",
-    "description_zh": "你用爆发出的神圣力量冲击你的敌人。",
+    "text_zh": "你用爆发出的神圣力量冲击你的敌人。",
     "prerequisites_zh": "原力导能，精通原力导能，神裔，引导能量6d6。",
     "benefit_zh": "当你使用“精通原力导能”，你可以影响30尺爆发半径内的所有生物。"
 }

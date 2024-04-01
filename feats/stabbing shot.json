@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stabbing%20Shot",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 170"],
-    "description": "You can clear the way to continue using your bow.",
+    "text": "You can clear the way to continue using your bow.",
     "prerequisites": "Rapid Shot, elf.",
     "benefit": "When adjacent to an opponent and making a full-attack action with a longbow or shortbow (including composite bows), you may choose to make a melee attack against that opponent with a drawn arrow rather than firing it. If the attack hits—whether or not it does damage—your target is pushed back 5 feet away from you. You can then fire arrows from your bow normally, at the original target, or at another target within range. This melee attack replaces the extra attack from Rapid Shot, and all of your attack rolls for the round (the melee attack and the ranged attacks) take a –2 penalty. If your initial attack leaves you with no enemies threatening you, you can make the subsequent ranged attack or attacks without provoking attacks of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "When using this feat, you can spend 2 stamina points to negate the –2 penalty on all attacks for 1 round.",
     "prerequisiteKeys": ["rapid shot"],
     "name_zh": "迫退射击",
-    "description_zh": "你能够清除阻碍之后继续使用弓箭射击。",
+    "text_zh": "你能够清除阻碍之后继续使用弓箭射击。",
     "prerequisites_zh": "快速射击，精灵。",
     "benefit_zh": "当你与一名敌人相邻，并且使用长弓或短弓（包括复合弓）进行全力攻击动作时，你可以选择拔出一根箭矢来对其进行近战攻击，而不是向他射击。如果攻击命中——无论是否造成伤害——你的目标都会被向着远离你的方向推开5尺。你能够在之后如常使用你的弓进行射击，对抗原本的目标，或者其他在射程内的目标。这次近战攻击会取代“快速射击”专长带来的额外攻击，并且该轮的所有攻击检定（近战攻击与远程攻击）都会受到-2减值。如果你的最初攻击能够使你不再处于任何敌人的威胁范围内，你就能够进行后续的远程攻击而不会引起借机攻击。"
 }

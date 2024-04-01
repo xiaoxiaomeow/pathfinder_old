@@ -3,11 +3,11 @@
     "name": "Fight On",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fight%20On",
     "source": ["Advanced Player's Guide pg. 160"],
-    "description": "You can keep fighting even after you should be dead.",
+    "text": "You can keep fighting even after you should be dead.",
     "prerequisites": "Con 13; dwarf, half-orc, or orc.",
     "benefit": "Once per day, you can gain a number of temporary hit points equal to your Constitution modifier. You can activate this feat as an immediate action when reduced to 0 or fewer hit points. You can use this feat to prevent yourself from dying. These temporary hit points last for 1 minute. If your hit points drop below 0 due to the loss of these temporary hit points, you fall unconscious and are dying as normal. If you also have the ferocity racial trait, you can use that once you have lost the temporary hit points from this feat.",
     "name_zh": "挺住再上",
-    "description_zh": "即使在死后，你也能战斗。",
+    "text_zh": "即使在死后，你也能战斗。",
     "prerequisites_zh": "体质13，矮人，半兽人或者兽人。",
     "benefit_zh": "每日1次，你能够获得等同于你的体质修正的临时HP。你能在HP小于等于0时以直觉动作激活该专长。你能够使用该专长预防自身陷入濒死状态。这些暂时HP持续1分钟。如果你的HP由于失去这些暂时HP而低于0，那么你会如常陷入濒死并失去意识。如果你拥有【凶猛】种族特性，则可以在失去来自该专长的暂时HP时使用它。"
 }

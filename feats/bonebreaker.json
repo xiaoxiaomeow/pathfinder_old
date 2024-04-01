@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bonebreaker",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 90"],
-    "description": "When your opponent is unable to adequately defend against them, your precise unarmed strikes break bone and tear tissue.",
+    "text": "When your opponent is unable to adequately defend against them, your precise unarmed strikes break bone and tear tissue.",
     "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike, Jawbreaker, Stunning Fist, Heal 9 ranks.",
     "benefit": "When you make a successful Stunning Fist attempt against an opponent that is grappled, helpless, or stunned, you can forgo any other Stunning Fist effect to deal 1d6 Strength or Dexterity damage to that opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When you make a successful Stunning Fist attempt against a creature that is dazed or staggered, you can spend 5 stamina points to forgo any other Stunning Fist effects and deal 1d6 points of Strength or Dexterity damage to that opponent instead.",
     "prerequisiteKeys":     [
         "improved grapple",
@@ -16,7 +16,7 @@
         "stunning fist"
     ],
     "name_zh": "碎骨者",
-    "description_zh": "当你的对手无法进行防御时，你的徒手打击将会摧筋断骨。",
+    "text_zh": "当你的对手无法进行防御时，你的徒手打击将会摧筋断骨。",
     "prerequisites_zh": "敏捷13，精通擒抱，精通徒手打击，碎颚者，震慑拳，医疗9级。",
     "benefit_zh": "当你对一个被擒抱、无助或震慑中的敌人成功施展了一次“震慑拳”，你可以放弃震慑拳的正常效果，转而对敌人造成1d6点敏捷伤害。"
 }

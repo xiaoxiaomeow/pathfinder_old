@@ -7,14 +7,14 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 90"],
-    "description": "Your sharp teeth and nails rip your foes open.",
+    "text": "Your sharp teeth and nails rip your foes open.",
     "prerequisites": "Improved Unarmed Strike, Intimidate 3 ranks.",
     "benefit": "You can deal bludgeoning damage or slashing damage with your unarmed strikes—changing damage type is a free action. While using this style, once per round when you hit a single foe with two or more unarmed strikes, you can tear flesh. When you do, you deal 2d6 extra points of damage with the attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "While using this style, you can spend 3 stamina points when you hit a target with only one unarmed strike during a round to tear flesh and deal 2d6 points of damage with the attack. You can still only tear flesh once per round.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "豭突势",
-    "description_zh": "你的尖牙和利爪撕裂你的敌人。",
+    "text_zh": "你的尖牙和利爪撕裂你的敌人。",
     "prerequisites_zh": "精通徒手打击，威吓3级。",
     "benefit_zh": "你可以让徒手打击造成挥砍伤害——变更伤害类型是一个自由动作。当你采用豭突流派架势时，一轮内，如果你的徒手攻击命中同一敌人两次或以上，你可以撕裂敌人的血肉，对敌人造成2d6额外伤害，该伤害类似于【撕扯】能力，你每轮只能造成一次额外伤害。【编注：根据FAQ，此条已修正】"
 }

@@ -7,7 +7,11 @@
         "Stare"
     ],
     "source": ["Occult Adventures pg. 135"],
-    "description": "You deal additional damage when using your painful stare.",
+    "text": "You deal additional damage when using your painful stare.",
     "prerequisites": "Mesmerist level 7th, painful stare class feature.",
-    "benefit": "When you use your painful stare ability to increase your own damage, you deal an additional 1d6 points of damage. This damage increases to 2d6 at mesmerist level 12th and to 3d6 at mesmerist level 18th. When you use painful stare to augment an ally’s damage, the target of the painful stare takes 1 additional point of damage for every 4 mesmerist levels you possess."
+    "benefit": "When you use your painful stare ability to increase your own damage, you deal an additional 1d6 points of damage. This damage increases to 2d6 at mesmerist level 12th and to 3d6 at mesmerist level 18th. When you use painful stare to augment an ally’s damage, the target of the painful stare takes 1 additional point of damage for every 4 mesmerist levels you possess.",
+    "name_zh": "剧烈痛楚",
+    "text_zh": "当你使用痛苦注视时，可以造成额外的伤害。",
+    "prerequisites_zh": "催眠师7级，痛苦注视（Painful Stare）职业能力",
+    "benefit_zh": "当你使用痛苦注视（Painful Stare）增加自己造成的伤害时，能够额外造成1d6点伤害。该伤害会在催眠师12级时增加至2d6点，并且在催眠师18级时增加至3d6点。当你使用痛苦注视增强一名盟友的伤害时，你每拥有4个催眠师等级，痛苦注视的目标就会额外受到1点伤害。"
 }

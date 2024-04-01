@@ -4,14 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Grace",
     "descriptors": ["Combat"],
     "source": ["Villain Codex pg. 224"],
-    "description": "You can fight using agility instead of brute strength, even while fighting with two weapons.",
-    "prerequisites": "Dex 15; Fencing Grace, Slashing Grace, or Starry Grace; Two-Weapon Fighting; Weapon Finesse.",
+    "text": "You can fight using agility instead of brute strength, even while fighting with two weapons.",
+    "prerequisites": "Dex 15; Fencing Grace<sup>UI<\/sup>, Slashing Grace<sup>ACG<\/sup>, or Starry Grace<sup>UI<\/sup>; Two-Weapon Fighting; Weapon Finesse.",
     "benefit": "You can gain the benefit of the Fencing Grace<sup>UI<\/sup>, Slashing Grace<sup>ACG<\/sup>, or Starry Grace<sup>UI<\/sup> feats while fighting with two weapons. Your penalties from two-weapon fighting increase by 2 on all attack rolls you make when doing so, and you can’t decrease the penalties to less than –2 even if other abilities would reduce the penalties further. Add 1/2 your Dexterity bonus to damage with your off-hand weapon instead of 1/2 your Strength modifier. If you attack without using your off-hand weapon, you can use the aforementioned feats despite your other hand being occupied.<br><br> In addition, Two-Weapon Grace counts as Double Slice for the purposes of qualifying for the Two-Weapon Rend feat.",
     "normal": "You gain no benefit from the listed feats if you don’t have a free hand.",
     "prerequisiteKeys":     [
-        "fencing grace",
-        "slashing grace",
-        "starry grace",
         "two-weapon fighting",
         "weapon finesse"
     ]

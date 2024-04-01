@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Dirty%20Trick",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 161"],
-    "description": "When you pull a dirty trick, your foe is truly hindered.",
+    "text": "When you pull a dirty trick, your foe is truly hindered.",
     "prerequisites": "Int 13, Combat Expertise, Improved Dirty Trick, base attack bonus +6.",
     "benefit": "You receive a +2 bonus on checks made to attempt a dirty trick. This bonus stacks with the bonus granted by Improved Dirty Trick. Whenever you successfully perform a dirty trick, the penalty lasts for 1d4 rounds, plus 1 round for every 5 by which your attack exceeds the target’s CMD. In addition, removing the condition requires the target to spend a standard action.",
     "normal": "The condition imposed by a dirty trick lasts for 1 round plus 1 round for every 5 by which your attack exceeds the target’s CMD. Removing the condition requires the target to spend a move action.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you successfully complete a dirty trick<sup>APG<\/sup> combat maneuver, you can spend 5 stamina points to make the condition you inflicted with that maneuver require a full-round action to remove (instead of a standard action).",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved dirty trick"
     ],
     "name_zh": "高等阴招",
-    "description_zh": "你的敌人会被你的阴招搞得晕头转向。",
+    "text_zh": "你的敌人会被你的阴招搞得晕头转向。",
     "prerequisites_zh": "智力13，寓守于攻，精通阴招，基本攻击加值+6。",
-    "benefit_zh": "你所实行的阴招战技检定获得+2加值。这个加值与“精通阴招”提供的加值叠加。每当你成功进行阴招战技之后，产生的惩罚持续1d4轮，你的攻击每比目标的CMD高5点，则再多持续1轮。此外，目标移除状态需要耗费一个标准动作。<\/p><p>通常状况：阴招所赋予的状态持续1轮，你的攻击每比目标的CMD高5点，则再多持续1轮。目标移除状态需要耗费一个移动动作。"
+    "benefit_zh": "你所实行的阴招战技检定获得+2加值。这个加值与“精通阴招”提供的加值叠加。每当你成功进行阴招战技之后，产生的惩罚持续1d4轮，你的攻击每比目标的CMD高5点，则再多持续1轮。此外，目标移除状态需要耗费一个标准动作。",
+    "normal_zh": "阴招所赋予的状态持续1轮，你的攻击每比目标的CMD高5点，则再多持续1轮。目标移除状态需要耗费一个移动动作。"
 }

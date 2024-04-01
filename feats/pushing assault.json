@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pushing%20Assault",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 167"],
-    "description": "A strike made with a two-handed weapon can push a similar sized opponent backward.",
+    "text": "A strike made with a two-handed weapon can push a similar sized opponent backward.",
     "prerequisites": "Str 15, Power Attack, base attack bonus +1.",
     "benefit": "When you hit a creature your size or smaller with a two-handed weapon attack modified by the Power Attack feat, you can choose to push the target 5 feet directly away from you instead of dealing the extra damage from Power Attack. If you score a critical hit, you can instead push the target 10 feet directly away from you. This movement does not provoke attacks of opportunities, and the target must end this move in a safe space it can stand in. You choose which effect to apply after the attack roll has been made, but before the damage is rolled.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "You can spend 5 stamina points to gain the effects of this feat and still deal the extra damage from Power Attack.",
     "prerequisiteKeys": ["power attack"],
     "name_zh": "推进强袭",
-    "description_zh": "你使用双手武器攻击能够将小体型的敌人打退。",
+    "text_zh": "你使用双手武器攻击能够将小体型的敌人打退。",
     "prerequisites_zh": "力量15，猛力攻击，基本攻击加值+1。",
     "benefit_zh": "当你使用双手武器进行攻击不大于你的体型的生物，并且应用了猛力攻击专长时，你可以选择将目标推开5尺来替代猛力攻击带来的额外伤害。如果你成功造成重击，则能够将目标推开10尺。这个移动不会引发借机攻击，并且目标必须在移动结束时处于能够站立的安全空间。你可以在进行攻击检定之后选择产生何种效果，但是必须在进行伤害检定之前选择。"
 }

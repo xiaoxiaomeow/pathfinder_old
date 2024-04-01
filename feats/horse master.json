@@ -4,14 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horse%20Master",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 104"],
-    "description": "You blend horsemanship skills from disparate traditions into a seamless mounted combat technique.",
-    "prerequisites": "Expert trainer class feature (<i>Advanced Player's Guide <\/i>33), Ride 6 ranks.",
+    "text": "You blend horsemanship skills from disparate traditions into a seamless mounted combat technique.",
+    "prerequisites": "Expert trainer class feature (<i>Advanced Player’s Guide <\/i>33), Ride 6 ranks.",
     "benefit": "Use your character level to determine your effective druid level for determining the powers and abilities of your mount.",
     "normal": "You use your cavalier level to determine your effective druid level for determining the powers and abilities of your mount.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "You can spend 5 stamina points to grant your mount a number of temporary hit points equal to your character level. These temporary hit points last for 1 minute.",
     "name_zh": "坐骑大师",
-    "description_zh": "你混合了不同流派的驯马技巧，整合成完美的骑乘作战艺术。",
+    "text_zh": "你混合了不同流派的驯马技巧，整合成完美的骑乘作战艺术。",
     "prerequisites_zh": "【驯兽专家】职业特性，骑术6级。",
-    "benefit_zh": "在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的角色等级。<\/p><p>通常状况：在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的骑将职业等级。"
+    "benefit_zh": "在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的角色等级。",
+    "normal_zh": "在决定你的坐骑的强度和属性时，你的有效德鲁伊等级视同你的骑将职业等级。"
 }

@@ -3,8 +3,12 @@
     "name": "Sleeper",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sleeper",
     "source": ["Monster Codex pg. 80"],
-    "description": "By seeking solace in the grave, you are able to recuperate more quickly.",
+    "text": "By seeking solace in the grave, you are able to recuperate more quickly.",
     "prerequisites": "Warren Digger, ghoul.",
     "benefit": "You heal 1 hit point per 10 minutes as long as you are surrounded by at least 5 feet of dirt or stone on all sides and take no actions.",
-    "prerequisiteKeys": ["warren digger"]
+    "prerequisiteKeys": ["warren digger"],
+    "name_zh": "休眠者",
+    "text_zh": "找一个土坑躺下，你可以获得更快的恢复速度。",
+    "prerequisites_zh": "食尸鬼，挖坟者",
+    "benefit_zh": "只要你的周围包围着至少5尺泥土或石头且不进行任何动作，你就可以每10分钟恢复1点生命值。"
 }

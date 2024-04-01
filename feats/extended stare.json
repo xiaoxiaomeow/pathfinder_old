@@ -3,8 +3,13 @@
     "name": "Extended Stare",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extended%20Stare",
     "source": ["Occult Adventures pg. 133"],
-    "description": "Your hypnotic stare has greater reach than normal.",
+    "text": "Your hypnotic stare has greater reach than normal.",
     "prerequisites": "Hypnotic stare class feature.",
     "benefit": "The range of your hypnotic stare increases by 10 feet.",
-    "special": "You can take this feat multiple times. Its effects stack."
+    "special": "You can take this feat multiple times. Its effects stack.",
+    "name_zh": "注视增距",
+    "text_zh": "你的催眠注视具有更远的范围。",
+    "prerequisites_zh": "催眠注视（Hypnotic Stare）职业能力",
+    "benefit_zh": "你的催眠注视（Hypnotic Stare）的范围增加10尺。",
+    "special_zh": "你可以多次选取该专长，其效果会叠加。"
 }

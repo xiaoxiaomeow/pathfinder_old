@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bodyguard",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 151"],
-    "description": "Your swift strikes ward off enemies attacking nearby allies.",
+    "text": "Your swift strikes ward off enemies attacking nearby allies.",
     "prerequisites": "Combat Reflexes.",
     "benefit": "When an adjacent ally is attacked, you may use an attack of opportunity to attempt the aid another action to improve your ally’s AC. You may not use the aid another action to improve your ally’s attack roll with this attack.",
     "normal": "Aid another is a standard action.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When you use an attack of opportunity to use an aid another action to improve an adjacent ally’s Armor Class, you can spend 1 or 2 stamina points. Increase the bonus to the ally’s AC by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys": ["combat reflexes"],
     "name_zh": "保镖",
-    "description_zh": "你的快速攻击能够格挡开敌人对附近盟友的攻击。",
+    "text_zh": "你的快速攻击能够格挡开敌人对附近盟友的攻击。",
     "prerequisites_zh": "战斗反射。",
-    "benefit_zh": "当邻近的盟友被攻击时，你能够使用借机攻击来尝试进行协助他人动作来增加盟友的AC。你无法以借机攻击来使用协助他人动作增加盟友的攻击检定。<\/p><p>通常状况：协助他人是标准动作。"
+    "benefit_zh": "当邻近的盟友被攻击时，你能够使用借机攻击来尝试进行协助他人动作来增加盟友的AC。你无法以借机攻击来使用协助他人动作增加盟友的攻击检定。",
+    "normal_zh": "协助他人是标准动作。"
 }

@@ -3,12 +3,12 @@
     "name": "Create Sanguine Elixir",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Create%20Sanguine%20Elixir",
     "source": ["Ultimate Magic pg. 148"],
-    "description": "You can condense a fraction of your bloodline’s power into a powerful elixir. ",
+    "text": "You can condense a fraction of your bloodline’s power into a powerful elixir. ",
     "prerequisites": "Cha 15, Brew Potion, Craft (alchemy) 12 ranks, sorcerer level 3rd.",
     "benefit": "Once per day, when you clear your mind to regain spell slots, you can create a sanguine elixir. When you do, pick one of your bloodline powers. You transfer that power into a small potion that any creature can drink to temporarily gain the benefit of your bloodline power. Creating a sanguine elixir takes 1 hour, and requires special oils and distillates worth 100 gp, and when you make the sanguine elixir, you lose access to the bloodline power until the next time you clear your mind to regain spell slots.<br><br>  When a creature drinks a sanguine elixir, it can activate the bloodline power anytime before the end of its next turn, as if it had access to that bloodline power. A creature that drinks the elixir cannot gain the benefit if its character level does not equal or exceed the minimum level of the bloodline power. Any level-dependent effects use the character level of the creature that drinks the sanguine elixir, or your sorcerer level, whichever is lower. Drinking a sanguine elixir is just like drinking a potion. A sanguine elixir is treated as a magic item with your caster level.<br><br> Sanguine elixirs are extremely unstable. They lose their potency 1 day after they are created.",
     "prerequisiteKeys": ["brew potion"],
     "name_zh": "制造血统药剂",
-    "description_zh": "你将你血统力量的一部份凝聚到一瓶威力强大的药剂中。",
+    "text_zh": "你将你血统力量的一部份凝聚到一瓶威力强大的药剂中。",
     "prerequisites_zh": "魅力15，制造药水，工艺（炼金）12级，术士3级。",
     "benefit_zh": "每日一次，在你清空思绪获得法术位的时候，你可以制造一瓶血统药剂。当你这样做的时候，选择你的一种血统力量转移到一小瓶药剂中，而喝下这药剂的生物会暂时获得你的血统力量所带来的好处。制造一瓶血统药剂需要花费1小时和价值100gp的特殊材料。当你制造血统药剂时，你失去你的血统力量、直到下一次清空思绪获得法术位的时候。<\/p><p>当一个生物喝下了血统药剂，他能在他下一轮结束前的任何时候激活血统力量就如同他原本拥有血统力量一般。如果生物的角色等级没有达到或者超过血统力量所要求的最低等级，则这个生物无法从药剂中获得相应的好处。以饮用者和药剂的制造者中等级较低者的等级决定一切与等级相关的效果。喝下一瓶血统药剂就和喝下一瓶普通的药剂一样。一瓶血统药剂视作等同你CL的魔法物品。<\/p><p>血统药剂是极不稳定的。它们会在被制造出来的1天后失效。"
 }

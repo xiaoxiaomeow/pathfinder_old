@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mounted%20Skirmisher",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 165"],
-    "description": "You are adept at attacking from upon a swift moving steed.",
+    "text": "You are adept at attacking from upon a swift moving steed.",
     "prerequisites": "Ride rank 14, Mounted Combat, Trick Riding.",
     "benefit": "If your mount moves its speed or less, you can still take a full-attack action.",
     "normal": "If your mount moves more than 5 feet, you can only take an attack action.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "When your mount moves its speed or less, you can spend 5 stamina points to spur it on 10 additional feet. This is bonus movement, and you can still make a full attack when your mount takes this bonus movement.",
     "prerequisiteKeys":     [
         "mounted combat",
         "trick riding"
     ],
     "name_zh": "骑乘散兵",
-    "description_zh": "你擅长在快速移动的马背上进行攻击。",
+    "text_zh": "你擅长在快速移动的马背上进行攻击。",
     "prerequisites_zh": "骑术14级，骑乘战斗，骑乘技巧。",
-    "benefit_zh": "如果你的坐骑移动的距离等同于自身速度或更少时，你仍旧可以进行全力攻击动作。<\/p><p>通常状况：如果你的坐骑移动距离超过5尺，那么你就只能进行普通的攻击动作。"
+    "benefit_zh": "如果你的坐骑移动的距离等同于自身速度或更少时，你仍旧可以进行全力攻击动作。",
+    "normal_zh": "如果你的坐骑移动距离超过5尺，那么你就只能进行普通的攻击动作。"
 }

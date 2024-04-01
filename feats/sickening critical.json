@@ -7,15 +7,15 @@
         "Critical"
     ],
     "source": ["PRPG Core Rulebook pg. 133"],
-    "description": "Your critical hits cause opponents to become sickened.",
+    "text": "Your critical hits cause opponents to become sickened.",
     "prerequisites": "Critical Focus, base attack bonus +11.",
     "benefit": "Whenever you score a critical hit, your opponent becomes sickened for 1 minute. The effects of this feat do not stack. Additional hits instead add to the effect's duration.",
     "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "When you threaten a critical hit using this feat, before rolling the confirmation roll, you can spend 5 stamina points. If you do and the critical hit is confirmed, the foe is nauseated for 1d4+1 rounds unless it succeeds at a Fortitude save with a DC equal to 10 + your base attack bonus, which reduces the effect to the normal sickened condition.",
     "prerequisiteKeys": ["critical focus"],
     "name_zh": "恶心重击",
-    "description_zh": "你的重击能让对手恶心。",
+    "text_zh": "你的重击能让对手恶心。",
     "prerequisites_zh": "重击专攻，基本攻击加值+11。",
     "benefit_zh": "每当你造成重击时，你的对手恶心1分钟。此专长的效果不会叠加。额外的命中改为延长效果的持续时间。",
     "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"

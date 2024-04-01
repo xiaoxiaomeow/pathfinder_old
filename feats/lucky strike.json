@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lucky%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 67"],
-    "description": "Your luck increases the potency of your weapon attacks.",
+    "text": "Your luck increases the potency of your weapon attacks.",
     "prerequisites": "Base attack bonus +5, adaptive luck racial trait, halfling.",
     "benefit": "Spend a use of your adaptive luck racial trait to reroll the damage from a single weapon attack. You deal damage equal to the new damage roll, or the original roll, whichever is greater.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "You can spend 5 stamina points instead of a use of adaptable luck<sup>ARG<\/sup> to reroll the damage from a single attack.",
     "name_zh": "幸运打击",
-    "description_zh": "你的运气使你的武器造成更大的伤害。",
+    "text_zh": "你的运气使你的武器造成更大的伤害。",
     "prerequisites_zh": "基本攻击加值+5，【万用幸运】种族特性，半身人。",
     "benefit_zh": "使用一次【万用幸运】特性，你在一次伤害检定时骰两次并取较好者。"
 }

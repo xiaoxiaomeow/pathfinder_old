@@ -7,9 +7,9 @@
         "Inner Sea Gods pg. 213",
         "Faiths of Balance pg. 24"
     ],
-    "description": "You believe that a conservative but consistent response guarantees success.",
+    "text": "You believe that a conservative but consistent response guarantees success.",
     "prerequisites": "Base attack bonus +1, worshiper of Abadar.",
     "benefit": "When you hit an opponent with a melee or ranged weapon attack, you may choose to deal average damage (rounded down), as if you had rolled exactly the average amount on the damage die or dice. You add your damage bonuses and penalties as normal.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "You can spend 5 stamina points before making a melee or ranged attack with Measured Response to treat the attack roll’s result as a 10."
 }

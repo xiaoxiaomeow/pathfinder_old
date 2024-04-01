@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quicken%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["PRPG Core Rulebook pg. 132"],
-    "description": "You can cast spells in a fraction of the normal time.",
+    "text": "You can cast spells in a fraction of the normal time.",
     "benefit": "Casting a quickened spell is a swift action. You can perform another action, even casting another spell, in the same round as you cast a quickened spell. A spell whose casting time is more than 1 round or 1 full-round action cannot be quickened.<br><br>A quickened spell uses up a spell slot four levels higher than the spell's actual level. Casting a quickened spell doesn't provoke an attack of opportunity.",
     "special": "You can apply the effects of this feat to a spell cast spontaneously, so long as it has a casting time that is not more than 1 full-round action, without increasing the spell's casting time.",
     "name_zh": "法术瞬发",
-    "description_zh": "你能够在一瞬间施展法术。",
-    "benefit_zh": "施展瞬发法术是迅捷动作。在施展瞬发法术的同一轮里，你可以做另一个动作，甚至施展另一个法术。施法时间超过1个整轮动作的法术无法被瞬发。瞬发法术占用比该法术实际等级高4环的法术位。施展瞬发法术不会触发藉机攻击。",
+    "text_zh": "你能够在一瞬间施展法术。",
+    "benefit_zh": "施展瞬发法术是迅捷动作。在施展瞬发法术的同一轮里，你可以做另一个动作，甚至施展另一个法术。施法时间超过1个整轮动作或一轮的法术无法被瞬发。瞬发法术占用比该法术实际等级高4环的法术位。施展瞬发法术不会触发借机攻击。",
     "special_zh": "你能够将此专长的效果应用于自发施展的法术，只要其施法时间不超过1个整轮动作，这样做不会增加该法术的施法时间。"
 }

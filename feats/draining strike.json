@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Draining%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "With a well-aimed strike, you cause your target to become fatigued or exhausted.",
+    "text": "With a well-aimed strike, you cause your target to become fatigued or exhausted.",
     "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Draining Strike forces a foe that was damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. A defender who fails this saving throw is fatigued for 1 minute or until the foe is subject to any spell or effect that heals hit point damage. If you have a base attack bonus of +14 or higher, the target is exhausted for the same duration instead. You can attempt to use Draining Strike once per day for every 4 character levels you have, but you can use it no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "You can spend 5 stamina points to declare that you are using Draining Strike after you’ve hit with an unarmed strike attack.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "取力拳",
+    "text_zh": "你巧妙的一击命中对手的秘孔，使他全身疲软",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手击打，基础攻击加值+8",
+    "benefit_zh": "你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。取力拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将疲乏1分钟或直到受到任何治疗生命值伤害的法术、效果为止；如果你拥有+14或更高的基础攻击加值，那么目标会在同样的时间中陷入力竭而非疲乏。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本治疗影响。"
 }

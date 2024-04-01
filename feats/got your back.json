@@ -7,11 +7,11 @@
         "Teamwork"
     ],
     "source": ["Melee Tactics Toolbox pg. 10"],
-    "description": "You protect an ally from attacks he doesn’t see coming.",
+    "text": "You protect an ally from attacks he doesn’t see coming.",
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "If you successfully use the aid another action to give an ally who also has this feat a +2 bonus to AC against an opponent’s next attack, the ally is also not considered flanked or flat-footed against that opponent until the beginning of your next turn.",
     "normal": "You can use aid another to grant an ally a +2 bonus to AC against the next attack from an adjacent foe.",
-    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "If you spend 3 stamina points when you use this feat, your ally benefits from the AC bonus until the beginning of your next turn. (<i>Melee Tactics Toolbox 10<\/i>)",
     "prerequisiteKeys": ["combat expertise"]
 }

@@ -3,7 +3,11 @@
     "name": "Channeled Blessing",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Channeled%20Blessing",
     "source": ["Advanced Class Guide pg. 143"],
-    "description": "Your channeled energy can deliver a warpriest’s blessing.",
+    "text": "Your channeled energy can deliver a warpriest’s blessing.",
     "prerequisites": "Blessings class feature, channel energy class feature.",
-    "benefit": "When you channel energy to heal, you can instead deliver a warpriest’s blessing to a single willing creature (including yourself ) in the area that otherwise would have been healed by your channeled energy. The blessing must be one that requires a standard action and affects one or more creatures. If the blessing would normally affect multiple targets, you affect only a single target. The target receives the blessing in place of the healing and any other effects of the channeled energy. (This application doesn’t count toward your uses of blessings per day.)"
+    "benefit": "When you channel energy to heal, you can instead deliver a warpriest’s blessing to a single willing creature (including yourself ) in the area that otherwise would have been healed by your channeled energy. The blessing must be one that requires a standard action and affects one or more creatures. If the blessing would normally affect multiple targets, you affect only a single target. The target receives the blessing in place of the healing and any other effects of the channeled energy. (This application doesn’t count toward your uses of blessings per day.)",
+    "name_zh": "引导祝福",
+    "text_zh": "你引导的能力将传递来自战斗祭司的祝福",
+    "prerequisites_zh": "祝福（Blessings）职业能力，引导能量职业能力",
+    "benefit_zh": "每当你引导能力以治疗活物时，你可以将一个你的战斗祭司祝福传递给被你引导的能力影响的生物（包括你自己）。这个祝福能力必须需要标准动作启动并且可以影响一个生物，但同时可以影响多个生物的祝福只会影响这一个生物，并且获得祝福的生物将不受到引导能力的治疗。本能力不会消耗你本日的祝福能力使用次数。"
 }

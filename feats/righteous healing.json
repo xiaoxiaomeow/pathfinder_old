@@ -3,11 +3,11 @@
     "name": "Righteous Healing",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Righteous%20Healing",
     "source": ["Ultimate Combat pg. 116"],
-    "description": "Your healing spells are more potent when you have a judgment active.",
+    "text": "Your healing spells are more potent when you have a judgment active.",
     "prerequisites": "Judgment class feature.",
     "benefit": "If you cast a <i>cure <\/i>spell while you have a judgment active, each target regains 1 extra hit point from the <i>cure <\/i>spell + 1 hit point per three inquisitor levels you possess.",
     "name_zh": "公正医疗",
-    "description_zh": "你基于审判动机的治疗法术更加有效。",
+    "text_zh": "你基于审判动机的治疗法术更加有效。",
     "prerequisites_zh": "【审判】职业特性。",
     "benefit_zh": "当你在审判能力发动时施展治疗法术，每个目标受到额外的“1+1/3审判者等级”点治疗。"
 }

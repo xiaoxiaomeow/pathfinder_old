@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20of%20Heroes",
     "descriptors": ["Hero Point"],
     "source": ["Advanced Player's Guide pg. 323"],
-    "description": "You have a sense of destiny about you and always seem to succeed, even when the odds are against you.",
-    "prerequisites": "Hero's Fortune.",
+    "text": "You have a sense of destiny about you and always seem to succeed, even when the odds are against you.",
+    "prerequisites": "Hero’s Fortune.",
     "benefit": "Whenever you gain a level, you gain 2 hero points instead of 1.",
     "normal": "Whenever you gain a level, you gain 1 hero point.",
-    "prerequisiteKeys": ["hero's fortune"],
     "name_zh": "碧血丹心",
-    "description_zh": "即便天意弄人，你却一次又一次看清命运向成功前进。",
+    "text_zh": "即便天意弄人，你却一次又一次看清命运向成功前进。",
     "prerequisites_zh": "洪福齐天。",
-    "benefit_zh": "当你升级时获得2英雄点。<\/p><p>通常状况：当你升级时获得1英雄点。"
+    "benefit_zh": "当你升级时获得2英雄点。",
+    "normal_zh": "当你升级时获得1英雄点。"
 }

@@ -3,8 +3,13 @@
     "name": "Gray Dwarf Magic",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gray%20Dwarf%20Magic",
     "source": ["Monster Codex pg. 44"],
-    "description": "You gain a new spell-like ability from the list of duergar racial traits.",
+    "text": "You gain a new spell-like ability from the list of duergar racial traits.",
     "prerequisites": "Duergar.",
     "benefit": "Choose one spell-like ability that is usable once per day and is granted by a duergar racial trait you don’t have. You can use that spell-like ability once per day, with a caster level equal to your character level.",
-    "special": "You can take this feat multiple times. Each time you do, you must select a spell-like ability that’s usable once per day from a different duergar racial trait."
+    "special": "You can take this feat multiple times. Each time you do, you must select a spell-like ability that’s usable once per day from a different duergar racial trait.",
+    "name_zh": "灰矮人魔法",
+    "text_zh": "你从灰矮人的种族魔力中学会了新的技巧。",
+    "prerequisites_zh": "灰矮人",
+    "benefit_zh": "选择一个你不拥有，且灰矮人通过种族特性可以获得的类法术能力，你可以每天一次使用本类法术能力，施法者等级等同于你的角色等级。",
+    "special_zh": "你可以多次选择本专长。每次选择本专长时，你获得一个新的灰矮人种族类法术能力，每天可以使用一次。"
 }

@@ -3,7 +3,11 @@
     "name": "Aberrant Tumor",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aberrant%20Tumor",
     "source": ["Advanced Class Guide pg. 136"],
-    "description": "To the surprise of others, that strange growth on you is actually your spellcasting companion.",
+    "text": "To the surprise of others, that strange growth on you is actually your spellcasting companion.",
     "prerequisites": "Aberrant bloodline.",
-    "benefit": "You gain a tumor familiar, as the tumor familiar alchemist discovery (<i>Pathfinder RPG Ultimate Magic <\/i>17), with an effective alchemist level equal to the level of the class that grants your aberrant bloodline for determining the tumor familiar’s abilities. If multiple classes grant you the aberrant bloodline, those class levels stack for determining your effective alchemist level."
+    "benefit": "You gain a tumor familiar, as the tumor familiar alchemist discovery (<i>Pathfinder RPG Ultimate Magic <\/i>17), with an effective alchemist level equal to the level of the class that grants your aberrant bloodline for determining the tumor familiar’s abilities. If multiple classes grant you the aberrant bloodline, those class levels stack for determining your effective alchemist level.",
+    "name_zh": "异变疖体",
+    "text_zh": "令人畏惧的是，你躯体上的畸怪组织事实上是你用来引导魔法能量的节点。",
+    "prerequisites_zh": "异怪（Aberrant）血统（Bloodline）",
+    "benefit_zh": "你获得一个囊肿魔宠（Tumor Familiar）UM，如同同名的炼金术士发现，将你获得此血统的等级视为你的炼金术士等级以决定该魔宠的能力。如果有多个职业均给予你异怪血统能力，那么这些职业等级可以叠加起来视为你对炼金术士等级。"
 }

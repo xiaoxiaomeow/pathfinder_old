@@ -7,10 +7,15 @@
         "Gallows of Madness pg. 26",
         "Advanced Class Guide pg. 159"
     ],
-    "description": "You’ve learned techniques that allow you to ride beasts of smaller sizes than normal.",
+    "text": "You’ve learned techniques that allow you to ride beasts of smaller sizes than normal.",
     "prerequisites": "Ride 1 rank.",
     "benefit": "You can ride creatures of your size category, although encumbrance or other factors might limit how you can use this ability.",
     "normal": "Typically a mount suited for you is at least one size category larger than you.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
-    "staminaText": "While you have at least 1 stamina point in your stamina pool, the DCs of your Ride checks to leap with a mount of your size, and to perform a fast mount or dismount with such a mount, decrease by 5."
+    "staminaSource": "Pathfinder Unchained pg. 135",
+    "staminaText": "While you have at least 1 stamina point in your stamina pool, the DCs of your Ride checks to leap with a mount of your size, and to perform a fast mount or dismount with such a mount, decrease by 5.",
+    "name_zh": "小型坐骑",
+    "text_zh": "骑一只小马对你来说并没有什么困难。",
+    "prerequisites_zh": "骑术技能1级",
+    "benefit_zh": "你可以骑乘体型等同于你的坐骑生物，但它可能会因此而获得额外的负重或类似限制。",
+    "normal_zh": "你的坐骑体型至少要比你大一级。"
 }

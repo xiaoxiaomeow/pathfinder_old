@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Team%20Up",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "When you are ganging up against an enemy, you can aid an ally with a quick feint.",
+    "text": "When you are ganging up against an enemy, you can aid an ally with a quick feint.",
     "prerequisites": "Int 13, Combat Expertise, Gang Up, base attack bonus +6.",
     "benefit": "When you and at least two of your allies are adjacent to an opponent, you can attempt the aid another action as a move action.",
     "normal": "Aid another is a standard action.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you and at least two of your allies are adjacent to an opponent, you can spend 2 stamina points to attempt to aid another as a swift action.",
     "prerequisiteKeys":     [
         "combat expertise",
         "gang up"
     ],
     "name_zh": "团队进击",
-    "description_zh": "当你们联合起来对抗一名敌人时，你能够以快速的假动作帮助盟友。",
+    "text_zh": "当你们联合起来对抗一名敌人时，你能够以快速的假动作帮助盟友。",
     "prerequisites_zh": "智力13，寓守于攻，一拥而上，基本攻击加值+6。",
-    "benefit_zh": "当你与至少两名盟友同时接临同一名敌人时，你能以移动动作尝试使用协助他人动作。<\/p><p>通常状况：协助他人是一个标准动作。"
+    "benefit_zh": "当你与至少两名盟友同时接临同一名敌人时，你能以移动动作尝试使用协助他人动作。",
+    "normal_zh": "协助他人是一个标准动作。"
 }

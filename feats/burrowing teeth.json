@@ -3,7 +3,7 @@
     "name": "Burrowing Teeth",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Burrowing%20Teeth",
     "source": ["Advanced Race Guide pg. 154"],
-    "description": "You have teeth and claws that suit you well to digging.",
+    "text": "You have teeth and claws that suit you well to digging.",
     "prerequisites": "Sharpclaw, Tunnel Rat, ratfolk.",
     "benefit": "You gain a burrow speed equal to 1/2 your base speed. You can burrow through sand, dirt, clay, gravel, or similar materials, but not solid stone. You do not leave a hole behind, nor is your passage marked on the surface.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "tunnel rat"
     ],
     "name_zh": "掘地利齿",
-    "description_zh": "你拥有的利齿与锐爪很适合用来挖坑。",
+    "text_zh": "你拥有的利齿与锐爪很适合用来挖坑。",
     "prerequisites_zh": "锐爪，坑道鼠，鼠族。",
     "benefit_zh": "你获得等同于你1/2基本速度的掘地速度。你可以钻到沙子、泥土、粘土、沙砾或者其他类似的材质中，但是不能通过坚固的石头。你身后不会留下隧道，地表之上也不会出现痕迹。"
 }

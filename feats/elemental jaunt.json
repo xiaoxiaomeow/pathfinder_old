@@ -3,11 +3,11 @@
     "name": "Elemental Jaunt",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Jaunt",
     "source": ["Advanced Race Guide pg. 130"],
-    "description": "The spirits of your ancestral home call to you, beckoning you to return.",
+    "text": "The spirits of your ancestral home call to you, beckoning you to return.",
     "prerequisites": "Character level 15th, ifrit, oread, sylph, or undine.",
     "benefit": "Once per day, you can cast <i>plane shift <\/i>as a spell-like ability with a caster level equal to your level to transport yourself and willing targets to an elemental plane that is appropriate to your race (ifrits to the Plane of Fire, oreads to the Plane of Earth, sylphs to the Plane of Air, and undines to the Plane of Water). While on that plane, you (but not anyone transported with you) are treated as though under the effect of the spell <i>planar adaptation<\/i>.",
     "name_zh": "元素旅行",
-    "description_zh": "先祖的精魂呼唤着你，召唤你回到家乡。",
+    "text_zh": "先祖的精魂呼唤着你，召唤你回到家乡。",
     "prerequisites_zh": "角色等级15，火元素裔、土元素裔、风元素裔或水元素裔。",
     "benefit_zh": "每天1次，你能以类法术能力施放‘异界传送’，但是只能将自己以及自愿的目标传送至符合自身种族的位面（火元素裔传送至火元素位面，土元素裔传送至土元素位面，风元素裔传送至气元素位面，水元素裔传送至水元素位面），CL等同于你的角色等级。在元素位面时，你被视为在‘位面适应’法术效果的影响下（但是其他与你一同传送的生物则否）。<\/p><p>【法术速查】异界传送（Plane Shift）：使最多8个受术者旅行到另一个位面。<\/p><p>【法术速查】位面适应（Planar Adaptation, APG）：使你抵抗某个位面的有害影响。"
 }

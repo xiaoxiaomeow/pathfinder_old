@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Thief%20of%20Legend",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 73"],
-    "description": "More than just a burglar, you aspire to commit crimes of legendary stature.",
+    "text": "More than just a burglar, you aspire to commit crimes of legendary stature.",
     "prerequisites": "You must have stolen at least 1, 000 gp worth of treasure without being caught and kept mementos of these thefts worth at least 500 gp, or have the Greed background.",
-    "benefit": "Once per day when you attempt a Disable Device check to open a lock or Sleight of Hand check to pick a pocket, you can roll twice and take the better result."
+    "benefit": "Once per day when you attempt a Disable Device check to open a lock or Sleight of Hand check to pick a pocket, you can roll twice and take the better result.",
+    "goal": "Steal a famous and well-guarded treasure worth at least 50,000 gp while leaving no evidence of your involvement behind. The treasure must be protected by a mix of at least 8 traps or challenging foes. Any guardians need not be defeated, merely bypassed. You don’t need to keep the treasure, and you can boast of the theft afterward.",
+    "completionBenefit": "You gain the ability to reactively disarm a trap. When you trigger a trap, you can attempt a Disable Device check with a –5 penalty to interrupt the trap’s function, leaving it still armed but effectively preventing it from activating. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. Since the trap is still armed, it might activate again if you don’t immediately back away or otherwise avoid repeating the act that set it off the first time.",
+    "name_zh": "传奇大盗",
+    "text_zh": "绝不仅仅当个窃贼，你立志要干下些名震四海的勾当。",
+    "prerequisites_zh": "你必须在未被抓获的条件下偷盗价值1000GP的宝物，并将至少500GP作为纪念品保存下来；或拥有“贪财如命（Greed）”角色背景。",
+    "benefit_zh": "每日1次，当你尝试用解除装置技能开锁、或通过巧手技能扒窃时，你可以双骰取高。",
+    "goal_zh": "偷取一件价值50000GP以上、闻名遐迩且守备严密的宝物，其中不留下任何你曾参与作案的蛛丝马迹。该宝物必须被至少八重陷阱或一个强大敌手所保护。你并不需要打倒守卫，只要避开即可。你也并不需要保存该宝物，只要留下足以吹嘘的资本即可。",
+    "completionBenefit_zh": "你获得反射性地拆除陷阱的能力。当你触发一个陷阱时，你能够通过一次受到-5减值的解除装置检定来遏止其生效，使其处于依然待命但未被激活的状态。你每日可用此能力的次数为“3+智力修正”。尽管该陷阱处于待命，若你不即刻回避或采取与前次触发时不同的行动，其仍有可能被激活。"
 }

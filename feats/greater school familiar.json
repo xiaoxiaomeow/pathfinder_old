@@ -3,7 +3,7 @@
     "name": "Greater School Familiar",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20School%20Familiar",
     "source": ["Familiar Folio pg. 14"],
-    "description": "Your school familiar’s powers are greater than others of its kind.",
+    "text": "Your school familiar’s powers are greater than others of its kind.",
     "prerequisites": "School Familiar, wizard level 10th, specialized arcane school class feature.",
     "benefit": "Your school familiar gains the greater school power from the school familiar archetype.",
     "prerequisiteKeys": ["school familiar"]

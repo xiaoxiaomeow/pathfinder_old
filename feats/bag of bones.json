@@ -3,7 +3,11 @@
     "name": "Bag of Bones",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bag%20of%20Bones",
     "source": ["Monster Codex pg. 80"],
-    "description": "Your undead form ignores the limits of mortal physiology.",
+    "text": "Your undead form ignores the limits of mortal physiology.",
     "prerequisites": "Ghoul.",
-    "benefit": "You are treated as one size smaller for the purpose of calculating penalties for squeezing, and gain a +5 competence bonus on Escape Artist checks. If you possess 10 or more Hit Dice, this bonus increases to +4."
+    "benefit": "You are treated as one size smaller for the purpose of calculating penalties for squeezing, and gain a +5 competence bonus on Escape Artist checks. If you possess 10 or more Hit Dice, this bonus increases to +4.",
+    "name_zh": "形销骨立",
+    "text_zh": "你的不死生物本质已经改变了作为凡人的基本形态。",
+    "prerequisites_zh": "食尸鬼",
+    "benefit_zh": "在计算挤进狭窄空间而承受的惩罚时，你的体型视为小一级，并且你的逃脱术检定获得+5表现加值。如果你拥有至少10个HD，这个加值上升到+4。（注：BUG）"
 }

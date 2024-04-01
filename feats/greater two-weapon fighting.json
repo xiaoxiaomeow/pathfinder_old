@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Two-Weapon%20Fighting",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 126"],
-    "description": "You are incredibly skilled at fighting with two weapons at the same time.",
+    "text": "You are incredibly skilled at fighting with two weapons at the same time.",
     "prerequisites": "Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.",
     "benefit": "You get a third attack with your off-hand weapon, albeit at a –10 penalty.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "If you hit with the third attack granted by this feat and your base attack bonus is 16 or higher, you can spend 2 stamina points to make another attack with your off hand at a –15 penalty.",
     "prerequisiteKeys":     [
         "improved two-weapon fighting",
         "two-weapon fighting"
     ],
     "name_zh": "高等双武器格斗",
-    "description_zh": "你是双武器战斗的高手。",
+    "text_zh": "你是双武器战斗的高手。",
     "prerequisites_zh": "敏捷19，精通双武器格斗，双武器格斗，基本攻击加值+11。",
     "benefit_zh": "你可使用副手武器作第三次攻击，但受到-10减值。"
 }

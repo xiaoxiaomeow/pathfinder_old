@@ -3,7 +3,7 @@
     "name": "Intimidating Bane",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intimidating%20Bane",
     "source": ["Ultimate Combat pg. 106"],
-    "description": "Your bane weapon strikes fear into your enemies.",
+    "text": "Your bane weapon strikes fear into your enemies.",
     "prerequisites": "Bane class feature, Dazzling Display, Weapon Focus, character level 8th.",
     "benefit": "Whenever you use Dazzling Display while your bane feature is active, you gain a +2 bonus on the Intimidate check that Dazzling Display allows against creatures of the type your bane weapon currently affects. Such creatures remain shaken while your bane feature is still active and effective against their creature type.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "weapon focus"
     ],
     "name_zh": "威吓破敌",
-    "description_zh": "你用破敌武器做出的攻击让敌人闻风丧胆。",
+    "text_zh": "你用破敌武器做出的攻击让敌人闻风丧胆。",
     "prerequisites_zh": "【破敌】职业特性，炫目技巧，武器专攻，角色等级8。",
     "benefit_zh": "当你在【破敌】能力激活时使用“炫目技巧”，你对对应破敌类型的生物的威吓检定获得+2加值。只要你的【破敌】能力持续且生物类型匹配，被影响的生物将会一直处于颤栗状态。"
 }

@@ -7,10 +7,10 @@
         "Combat"
     ],
     "source": ["Armor Master's Handbook pg. 17"],
-    "description": "You are adept at using your armor to cover your most vulnerable areas.",
+    "text": "You are adept at using your armor to cover your most vulnerable areas.",
     "prerequisites": "Base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with medium or heavy armor.",
     "benefit": "When you are hit by a confirmed critical hit or a sneak attack, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
     "special": "This chance stacks with the <I>light fortification<\/I> and <I>moderate fortification<\/I> armor special abilities.",
-    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "If you fail to negate a critical hit against you, you can spend 5 stamina points to cause the attack to deal half damage. (See page 17.)"
 }

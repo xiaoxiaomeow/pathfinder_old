@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Jinxed%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Halflings of Golarion pg. 27"],
-    "description": "You can make a creature that fails its spell save suffer your jinx as well.",
+    "text": "You can make a creature that fails its spell save suffer your jinx as well.",
     "prerequisites": "Any two metamagic feats, Halfling Jinx trait.",
     "benefit": "Any creature that fails its saving throw against a jinxed spell also suffers the effects of your jinx. This feat has no effect on spells that do not allow a saving throw. If the spell affects an area or multiple creatures, you must select one creature to take the jinx, unless you have the Area Jinx feat; if you have the Area Jinx feat, choose a jinx burst area within the spell’s area or among its targets and apply the jinx to those in the burst that failed their save. A jinxed spell uses up a spell slot one level higher than the spell’s actual level."
 }

@@ -3,7 +3,11 @@
     "name": "Energy Channel",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Energy%20Channel",
     "source": ["Advanced Class Guide pg. 146"],
-    "description": "You distill your channeled energy into your weapon to empower it.",
+    "text": "You distill your channeled energy into your weapon to empower it.",
     "prerequisites": "Channel energy class feature; Air, Earth, Fire, or Water domain or blessing.",
-    "benefit": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is of an energy type determined by your domain or blessing: acid (Earth), cold (Water), electricity (Air), or fire (Fire). If you have more than one of those domains or blessings, you must choose one of those damage types when you use this ability. This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first."
+    "benefit": "A swift action, you can expend one use of channel energy to grant your weapon attacks a bonus on damage rolls equal to twice the number of dice rolled for your channel energy. This additional damage is of an energy type determined by your domain or blessing: acid (Earth), cold (Water), electricity (Air), or fire (Fire). If you have more than one of those domains or blessings, you must choose one of those damage types when you use this ability. This effect lasts for your next three weapon attacks or until the end of combat, whichever comes first.",
+    "name_zh": "引导元素",
+    "text_zh": "你可以将神祇代表的元素能量通过引导注入武器",
+    "prerequisites_zh": "引导能力职业能力，气，土，火或水牧师领域或战斗祭司祝福",
+    "benefit_zh": "以一个迅捷动作，你可以消耗一次本日的引导能量，使你的武器攻击获得相当于你引导能量骰数x2的额外能量伤害。这个能力伤害的类型取决于你的领域或祝福：强酸（土），电击（气），寒冷（水）或火焰（火）。如果你同时拥有多个元素领域或祝福，你必须在使用这个能力时选择其一来发动。这个效果持续3次攻击或是战斗结束，取其先者。"
 }

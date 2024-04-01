@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Magnum%20Opus",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 70"],
-    "description": "You seek to create a true masterpiece.",
+    "text": "You seek to create a true masterpiece.",
     "prerequisites": "You must either have sold five or more self-created works of art worth a total of at least 5, 000 gp, have performed at least five performances for audiences of 50 or more while achieving a great performance result or better on your Perform check, or have the Virtuoso background.",
-    "benefit": "Choose a single Craft or Perform skill. Whenever you take 10 with this skill, treat your die result as a 15 instead."
+    "benefit": "Choose a single Craft or Perform skill. Whenever you take 10 with this skill, treat your die result as a 15 instead.",
+    "goal": "Either sell a single self-created work of art for at least 25,000 gp, perform at least 10 performances for audiences of 100 or more while achieving an extraordinary result or better, or win the artistic patronage of the ruler of a country or city of at least 100,000 people. In each case, you must achieve this using the skill chosen above.",
+    "completionBenefit": "You gain a +5 bonus on skill checks made with your chosen skill, and a +2 bonus on all other Craft and Perform checks for which you have at least 1 rank.",
+    "name_zh": "传世佳作",
+    "text_zh": "你寻求着如何创作出真正的世界名作。",
+    "prerequisites_zh": "你必须曾卖出过5部以上总值达5000GP的自创艺术作品、或曾通过优秀的表演检定（DC20）进行过观众人数达50名以上的5场演出，或你拥有“演艺天才（Virtuoso）”角色背景。",
+    "benefit_zh": "选择一项工艺或表演技能。当你为技能检定取10时，将投骰视为15计算。",
+    "goal_zh": "卖出1部价值25000GP的自创艺术作品、或曾通过无与伦比的表演检定（DC30）进行过观众人数达100名以上的10场演出、或赢得人口达10万以上的国家或都市统治者的支持与赞助。无论哪种情况，你都需要通过对应的技能检定来完成。",
+    "completionBenefit_zh": "你所选择的技能检定+5，你的所有受训1级以上的其他工艺和表演技能检定+2。"
 }

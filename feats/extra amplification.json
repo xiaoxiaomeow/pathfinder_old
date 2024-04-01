@@ -3,8 +3,13 @@
     "name": "Extra Amplification",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Amplification",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You are a master at manipulating your mental energies to produce amplified effects.",
+    "text": "You are a master at manipulating your mental energies to produce amplified effects.",
     "prerequisites": "Phrenic amplification class feature.",
     "benefit": "You gain one additional phrenic amplification. This can’t be a major amplification.",
-    "special": "You can take this feat multiple times. Each time you do, you gain another phrenic amplification."
+    "special": "You can take this feat multiple times. Each time you do, you gain another phrenic amplification.",
+    "name_zh": "额外精神增幅",
+    "text_zh": "你精通于使用精神能量产生增幅效果。",
+    "prerequisites_zh": "精神增幅（Phrenic Amplification）职业能力",
+    "benefit_zh": "你获得一个额外的精神增幅（Phrenic Amplification）。但不能选取高等精神增幅（Major Amplification）。",
+    "special_zh": "你可以多次选取该专长。每次选择该专长，都会获得另一个精神增幅（Phrenic Amplification）。"
 }

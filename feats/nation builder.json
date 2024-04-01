@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nation%20Builder",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 71"],
-    "description": "The land calls to you to conquer it and forge a realm all your own.",
+    "text": "The land calls to you to conquer it and forge a realm all your own.",
     "prerequisites": "You must have explored and claimed an area of at least 100 square miles.",
-    "benefit": "When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, Stealth checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4."
+    "benefit": "When in either unclaimed wilderness or land under your own control, you receive a +2 bonus on Perception checks, Stealth checks, and Survival checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.",
+    "goal": "Explore and conquer an area of at least 1,000 square miles, in the process decisively defeating a challenging foe. You must also lay claim to the land either in your own name or in the name of a leader you directly report to, and establish a stronghold or other fortification to defend it.",
+    "completionBenefit": "You gain a +2 bonus on initiative checks, attack rolls, and saving throws while in the area you have claimed.",
+    "name_zh": "开国元勋",
+    "text_zh": "这片疆土呼唤着你来征服，并建立起属于你的强大国家。",
+    "prerequisites_zh": "你必须探索并占据100平方英里以上的一块土地。",
+    "benefit_zh": "当身处自己的国土或无主荒野时，你的察觉、隐匿和生存检定+2。如果你在上述技能受训10级以上，该加值升至+4。",
+    "goal_zh": "探索并征服1000平方英里以上的土地，并在此过程中完胜一位强大敌手。你必须宣布这些土地为你本人、或直接领导你的人所有，并建立一座据点或要塞来守卫疆土。",
+    "completionBenefit_zh": "当身处自己的国土时，你的先攻、攻击和豁免检定+2。"
 }

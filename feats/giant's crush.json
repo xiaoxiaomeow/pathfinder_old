@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant's%20Crush",
     "descriptors": ["Combat"],
     "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 69"],
-    "description": "When you strike hard, you knock smaller foes off their feet.",
+    "text": "When you strike hard, you knock smaller foes off their feet.",
     "prerequisites": "Str 13, Power Attack, Vital Strike, base attack bonus +6, giant subtype.",
     "benefit": "If you hit a creature at least one size category smaller than you with a melee attack while using both Power Attack and Vital Strike, the creature that you attacked is also knocked prone. A successful Reflex save negates this effect (DC = 10 + your base attack bonus). You must choose to use this feat before making the attack roll.",
     "special": "This effect stacks with the effect of Giant’s Wallop.",

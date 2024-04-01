@@ -4,8 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arisen",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 67"],
-    "description": "Escaping death strengthened your bond to life, but fills you with a need for answers.",
+    "text": "Escaping death strengthened your bond to life, but fills you with a need for answers.",
     "prerequisites": "You must have been slain and brought back from the dead, or have the Left to Die or Cursed Birth background.",
     "benefit": "You don’t die until your negative hit point total is equal to or greater than 4 + your Constitution score. Once per day as a standard action, you can force yourself to carry on by strength of will alone, gaining 1 temporary hit point per hit die. These temporary hit points last for 10 minutes.",
-    "normal": "You die when your negative hit point total is equal to or greater than your Constitution score."
+    "normal": "You die when your negative hit point total is equal to or greater than your Constitution score.",
+    "goal": "You meet in person and hear the words of your deity or your deity’s chosen herald. If you worship a pantheon of deities, you must meet and hear a member of that pantheon—a herald does not suffice in this case. If you worship no specific deity, you must hear the words of an appropriate entity of the GM’s choice.",
+    "completionBenefit": "You gain a +2 bonus on saving throws against death effects and fear effects. In addition, the caster level of any conjuration (healing) spell that is cast on you increases by 1 for the purposes of its effects on you alone.",
+    "name_zh": "重返人间",
+    "text_zh": "逃脱死亡强化了你的生命联结，但也令你必须追寻一个答案。",
+    "prerequisites_zh": "你必须被杀害后复活；或拥有“生即待死（Left to Die）”或“降生诅咒（Cursed Birth）”角色背景。",
+    "benefit_zh": "你在生命负值达到“4+体质属性”以上时才会死亡。每日1次，你能够通过标准动作聚集意志力来驱动自己，获得等同HD点数的临时HP。这些临时生命持续10分钟。",
+    "normal_zh": "你在生命负值达到“体质属性”时死亡。",
+    "goal_zh": "你亲眼见到所信奉的神祇、或其选定的使者，并亲耳听到其教诲。若你崇拜一个神系，你必须见到和听到其中的一员——此种情况下一位使者并不能代劳。若你并无信仰，你必须根据GM的指示得到一位适当的特别存在的教诲。",
+    "completionBenefit_zh": "你在对抗死亡和恐惧效果的豁免时获得+2加值。此外，任何作用于你的咒法系（医疗子学派）法术视为CL提高1级，只对你本人有效。"
 }

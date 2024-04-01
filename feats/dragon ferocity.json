@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dragon%20Ferocity",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 98"],
-    "description": "You attack with the strength of a dragon, your telling blows striking fear into your enemies.",
+    "text": "You attack with the strength of a dragon, your telling blows striking fear into your enemies.",
     "prerequisites": "Str 15, Improved Unarmed Strike, Dragon Style, Stunning Fist, Acrobatics 5 ranks.",
     "benefit": "While using Dragon Style, increase your Strength bonus on unarmed strike damage rolls by an additional one-half your Strength bonus, to a total of double your Strength bonus on the first attack and 1-1/2 times your Strength bonus on the other attacks. When you score a critical hit or a successful Stunning Fist attempt against an opponent while using this style, that opponent is also shaken for a number of rounds equal to 1d4 + your Strength bonus.",
     "special": "Taking this feat allows you to qualify for the Elemental Fist feat (<i>Advanced Player’s Guide <\/i>158) even if you do not meet that feat’s prerequisites. If you do not meet that feat’s prerequisites, you must choose one of the damage types that feat offers, and you can use only that damage type with your Elemental Fist attacks until you meet the feat’s normal prerequisites. A monk with this feat can use Elemental Fist as if he were a monk of the four winds (<i>Advanced Player’s Guide <\/i>112).",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "When you use this feat to make a foe shaken with a critical hit or a successful Stunning Fist attempt, you can spend 5 stamina points to also sicken that foe for 1d4 rounds.",
     "prerequisiteKeys":     [
         "dragon style",
@@ -16,7 +16,7 @@
         "stunning fist"
     ],
     "name_zh": "龙威",
-    "description_zh": "你以巨龙之力发动攻击，你的沉重打击令敌人恐惧不已。",
+    "text_zh": "你以巨龙之力发动攻击，你的沉重打击令敌人恐惧不已。",
     "prerequisites_zh": "力量15，精通徒手打击，龙形拳，震慑拳，特技5级。",
     "benefit_zh": "你使用龙形拳流派架势时获得以下好处：你在徒手攻击上获得等于你力量修正一半的额外伤害，这会使你在每轮第一次发动徒手击打时在伤害上获得力量修正的2倍加值，接下来获得1.5倍力量加值；如果你造成重击或“震慑拳”成功，你可以令对手在“1d4+力量修正”轮内陷入颤栗状态。",
     "special_zh": "学会此专长让你视为满足“元素之拳（Elemental Fist, APG）”专长的先决条件，即使你并没有达到其原先要求。但在你满足“元素之拳”原有的先决条件之前，你只能选择一种元素伤害作为徒手打击的额外伤害。拥有此专长的武僧可以视为同等级修验僧（Monk of the Four Winds, APG）使用“元素之拳”专长（即可以每5级+1d6元素伤害）。"

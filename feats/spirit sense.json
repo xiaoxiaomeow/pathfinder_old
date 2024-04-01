@@ -3,9 +3,13 @@
     "name": "Spirit Sense",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Sense",
     "source": ["Occult Adventures pg. 140"],
-    "description": "You sense the presence of the unseen.",
+    "text": "You sense the presence of the unseen.",
     "prerequisites": "Psychic Sensitivity or ability to cast psychic spells.",
     "benefit": "You gain a +5 bonus on checks to notice haunts. In addition, when you target an incorporeal creature with a corporeal spell or effect that doesn’t deal damage, you have a 75% chance of affecting the target.",
     "normal": "Corporeal spells and effects that don’t deal damage have only a 50% chance of affecting an incorporeal creature.",
-    "prerequisiteKeys": ["psychic sensitivity"]
+    "prerequisiteKeys": ["psychic sensitivity"],
+    "name_zh": "感知灵体",
+    "text_zh": "你能够察觉到无形的存在。",
+    "prerequisites_zh": "异能敏感（Psychic Sensitivity）或者施放异能法术（psychic spells）的能力",
+    "benefit_zh": "你在发现作祟（haunts）的检定中获得+5加值。此外，当你以虚体生物（incorporeal creature）为目标使用不会造成伤害的物质类法术或效果（corporeal spell or effect）时，有75%的概率能够影响到目标。<\/p><p>正常：不会造成伤害的物质类法术或效果仅有50%的概率影响虚体生物。"
 }

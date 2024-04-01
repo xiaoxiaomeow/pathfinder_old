@@ -4,8 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Guided%20Star",
     "descriptors": ["Combat"],
     "source": ["Paths of the Righteous pg. 29"],
-    "description": "The grace of Desna guides your starknife to its target and back to your hand.",
-    "prerequisites": "Starry Grace, worshiper of Desna.",
-    "benefit": "You can empower a starknife with magical power once per day per character level as a swift action. Until the end of your turn, add your Wisdom modifier to your damage rolls with the starknife in addition to any other modifiers you normally add. If you throw the starknife during that time, it returns to you at the beginning of your next turn (as per the <i>returning<\/i> weapon special ability).",
-    "prerequisiteKeys": ["starry grace"]
+    "text": "The grace of Desna guides your starknife to its target and back to your hand.",
+    "prerequisites": "Starry Grace<sup>UI<\/sup>, worshiper of Desna.",
+    "benefit": "You can empower a starknife with magical power once per day per character level as a swift action. Until the end of your turn, add your Wisdom modifier to your damage rolls with the starknife in addition to any other modifiers you normally add. If you throw the starknife during that time, it returns to you at the beginning of your next turn (as per the <i>returning<\/i> weapon special ability)."
 }

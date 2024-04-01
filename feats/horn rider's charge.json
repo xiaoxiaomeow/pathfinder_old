@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Horn%20Rider's%20Charge",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 164"],
-    "description": "When the animal you’re lashed to charges, you use its momentum in your own attack.",
+    "text": "When the animal you’re lashed to charges, you use its momentum in your own attack.",
     "prerequisites": "Horn Rider, base attack bonus +1.",
     "benefit": "Whenever you’re lashed into a horn harness and you ready an action to make a melee attack against the target of a charge made by the creature you’re lashed to, you gain the attack bonus for charging and your attack deals double damage (or triple damage with a lance). This benefit does not stack with the benefit of Spirited Charge.",
-    "prerequisiteKeys": ["horn rider"]
+    "prerequisiteKeys": ["horn rider"],
+    "name_zh": "回马枪",
+    "text_zh": "你勒住自己的坐骑，在敌人先手进攻你时发动恐怖的反扑。",
+    "prerequisites_zh": "驭角士，基础攻击加值+1",
+    "benefit_zh": "在使用角兽缰绳（见下）控制坐骑时，如果你以一个准备动作进行反冲锋攻击一个你目前所驾驭的生物，你将获得相当于冲锋攻击而获得的攻击加值，并且可以对目标造成双倍伤害（如果你使用长枪，则是三倍伤害）。本专长的效果无法与奋力冲锋专长叠加。"
 }

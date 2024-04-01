@@ -7,10 +7,14 @@
         "Style"
     ],
     "source": ["Advanced Class Guide pg. 154"],
-    "description": "Your unarmed strikes weave together in an effortless combo, focusing on the spots you’ve weakened with the last hit.",
-    "prerequisites": "Improved Unarmed Strike; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.",
+    "text": "Your unarmed strikes weave together in an effortless combo, focusing on the spots you’ve weakened with the last hit.",
+    "prerequisites": "Improved Unarmed Strike; base attack bonus +6, brawler’s flurry class feature, or flurry of blows class feature.",
     "benefit": "Whenever you use a full-attack action or flurry of blows to make multiple attacks against a single opponent with unarmed strikes, total the damage from all hits before applying damage reduction. This ability works only with unarmed strikes, no matter what other abilities you might possess.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "While using this style, you can spend 5 stamina points to pool all of your attacks as a standard action, instead of a full-round action.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "刚烈掌",
+    "text_zh": "你汇聚全身的力道，打出刚猛的一击。",
+    "prerequisites_zh": "精通徒手击打，基础攻击加值+6，拳师连打职业能力或疾风连击职业能力",
+    "benefit_zh": "当你用徒手攻击对单个目标进行全回合攻击或疾风连击时，在应用敌方的DR之前先合计自己的伤害。无论你有什么其它的特殊能力，该专长都只对徒手攻击生效。"
 }

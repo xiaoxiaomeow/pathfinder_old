@@ -3,7 +3,11 @@
     "name": "Formula Recollection",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Formula%20Recollection",
     "source": ["Advanced Class Guide pg. 148"],
-    "description": "You are able to record and recall even the complex and intricate details of spellcasting.",
+    "text": "You are able to record and recall even the complex and intricate details of spellcasting.",
     "prerequisites": "Spellcraft 5 ranks, keen recollection class feature.",
-    "benefit": "Once per day, you can record the formula for a spell that you saw being cast and identified with Spellcraft in the past 24 hours. This spell must be on the alchemist formula list."
+    "benefit": "Once per day, you can record the formula for a spell that you saw being cast and identified with Spellcraft in the past 24 hours. This spell must be on the alchemist formula list.",
+    "name_zh": "回想公式",
+    "text_zh": "你可以回忆起整个法术在你眼前施放的过程，将它抄录在你的笔记中。",
+    "prerequisites_zh": "辨识法术技能5级，敏锐回想职业能力",
+    "benefit_zh": "每天一次，你可以将一条你在前24小时内通过辨识法术辨别出的法术记录到你的公式薄上，整个法术必须处于炼金术士化合炼成表中。"
 }

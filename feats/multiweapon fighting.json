@@ -7,14 +7,15 @@
         "Monster"
     ],
     "source": ["Pathfinder RPG Bestiary pg. 315"],
-    "description": "This multi-armed creature is skilled at making attacks with multiple weapons.",
+    "text": "This multi-armed creature is skilled at making attacks with multiple weapons.",
     "prerequisites": "Dex 13, three or more hands.",
     "benefit": "Penalties for fighting with multiple weapons are reduced by –2 with the primary hand and by –6 with off hands.",
     "normal": "A creature without this feat takes a –6 penalty on attacks made with its primary hand and a –10 penalty on attacks made with all of its off hands. (It has one primary hand, and all the others are off hands.) See Two-Weapon Fighting in the <i>Pathfinder RPG Core Rulebook<\/i>.",
     "special": "This feat replaces the Two-Weapon Fighting feat for creatures with more than two arms.",
     "name_zh": "多重武器战斗",
-    "description_zh": "这个生物擅于利用自己的多条手臂挥舞武器。",
+    "text_zh": "这个生物擅于利用自己的多条手臂挥舞武器。",
     "prerequisites_zh": "敏捷13，拥有三条或更多手臂。",
-    "benefit_zh": "在持用多件武器战斗时，你在主手武器上受到的攻击检定减值减少2点，副手武器攻击检定上的减值减少6点。<\/p><p>通常状况：若无此专长支持，生物在使用多武器战斗时，在主手武器上的攻击检定承受-6减值，副手武器上的攻击检定承受-10减值（该生物只有一只手视为主手，其他手皆视为副手）。更多信息请查看双武器战斗规则。",
+    "benefit_zh": "在持用多件武器战斗时，你在主手武器上受到的攻击检定减值减少2点，副手武器攻击检定上的减值减少6点。",
+    "normal_zh": "若无此专长支持，生物在使用多武器战斗时，在主手武器上的攻击检定承受-6减值，副手武器上的攻击检定承受-10减值（该生物只有一只手视为主手，其他手皆视为副手）。更多信息请查看双武器战斗规则。",
     "special_zh": "如果该生物的手多于两只，那么此专长对该生物而言取代“双武器格斗”专长。"
 }

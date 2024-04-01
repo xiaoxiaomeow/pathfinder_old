@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Logical%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Occult Adventures pg. 137"],
-    "description": "You can eschew emotional components by exercising logic.",
-    "benefit": "A logical spell can be cast without emotion components. Spells that don’t require emotion components are not affected. A logical spell uses up a spell slot 1 level higher than the spell’s actual level."
+    "text": "You can eschew emotional components by exercising logic.",
+    "benefit": "A logical spell can be cast without emotion components. Spells that don’t require emotion components are not affected. A logical spell uses up a spell slot 1 level higher than the spell’s actual level.",
+    "name_zh": "逻辑法术",
+    "text_zh": "你可以通过行使逻辑与理论回避情绪成分的使用。",
+    "benefit_zh": "逻辑法术可以在没有情绪成分（Emotion Components）的情况下进行施放。不需要情绪成分的法术不受该专长影响。逻辑法术使用比法术的实际环级高1级的法术位。"
 }

@@ -3,7 +3,7 @@
     "name": "Blackfire Summoning",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blackfire%20Summoning",
     "source": ["Plane-Hopper's Handbook pg. 5"],
-    "description": "You have learned to make your summons destructive to the fabric of the planes, bringing blackfire in the wake of your magic.",
+    "text": "You have learned to make your summons destructive to the fabric of the planes, bringing blackfire in the wake of your magic.",
     "prerequisites": "Sacred Summons.",
     "benefit": "When you summon a single evil outsider, it appears in a flash of blackfire, harming all adjacent nonevil creatures. This deals an amount of damage equal to twice the CR of the summoned creature. An affected creature can attempt a Will save (DC = the DC of the spell used to summon the creature) to halve this damage. A spell augmented with blackfire summoning uses up a spell slot 1 level higher than the spell’s actual level. <u>If you have the blackfire pact class feature<\/u>, you can apply the benefits of this feat to summoned outsiders of the type or types you have selected for your blackfire pact without raising the spell’s effective level.",
     "prerequisiteKeys": ["sacred summons"]

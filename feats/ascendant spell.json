@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ascendant%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Mythic Adventures pg. 55"],
-    "description": "You have learned how to emulate mythic spells using nonmythic forces.",
-    "benefit": "You can modify a spell to imitate the mythic version of that spell. An ascendant spell uses the mythic version of the spell, but doesn’t count as a mythic spell for the purposes of effects that interact with the spell, unless you are a mythic creature. You can’t use the augmented version of the mythic spell, or use spells effects that require you to expend uses of mythic power (even if you have uses of mythic power available).<br><br> An ascendant spell uses up a spell slot 5 levels higher than the spell’s actual level."
+    "text": "You have learned how to emulate mythic spells using nonmythic forces.",
+    "benefit": "You can modify a spell to imitate the mythic version of that spell. An ascendant spell uses the mythic version of the spell, but doesn’t count as a mythic spell for the purposes of effects that interact with the spell, unless you are a mythic creature. You can’t use the augmented version of the mythic spell, or use spells effects that require you to expend uses of mythic power (even if you have uses of mythic power available).<br><br> An ascendant spell uses up a spell slot 5 levels higher than the spell’s actual level.",
+    "name_zh": "卓越法术",
+    "text_zh": "你学会了如何使用非神话力量来模拟出神话法术。",
+    "benefit_zh": "你能够调整法术，使其模仿自身的神话版法术。卓越法术会使用该法术的神话版本，但是除非你是神话生物，否则在判断法术效果的相互作用时，它不会被视作神话法术。你无法使用神话法术的增强版，或者使用需要你花费神话之力的法术效果（即便你具有可用的神话之力）。<\/p><p>卓越法术占用比法术的实际等级高5级的法术位。"
 }

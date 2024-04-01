@@ -3,7 +3,11 @@
     "name": "Resilient Armor",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Resilient%20Armor",
     "source": ["Advanced Class Guide pg. 155"],
-    "description": "When you enhance your armor or shield, you gain a measure of damage reduction.",
+    "text": "When you enhance your armor or shield, you gain a measure of damage reduction.",
     "prerequisites": "Divine bond (armor or shield), or sacred armor class feature.",
-    "benefit": "While your armor or shield is under the effect of your divine bond or your sacred armor ability, you gain an amount of damage reduction equal to your armor’s enhancement bonus (including the bonus from your divine bond or sacred armor) against the first attack to strike you in each round. An adamantine weapon overcomes this damage reduction, but any attack against you made with such a weapon does not count against this effect’s duration."
+    "benefit": "While your armor or shield is under the effect of your divine bond or your sacred armor ability, you gain an amount of damage reduction equal to your armor’s enhancement bonus (including the bonus from your divine bond or sacred armor) against the first attack to strike you in each round. An adamantine weapon overcomes this damage reduction, but any attack against you made with such a weapon does not count against this effect’s duration.",
+    "name_zh": "铁甲护体",
+    "text_zh": "神力强化的装甲与盾牌在混战中为你吸收伤害。",
+    "prerequisites_zh": "圣武士神契（护甲或盾牌）或战斗祭司神圣护甲职业能力",
+    "benefit_zh": "当你激活神契或神圣护甲能力时，你获得相当于你的护甲或盾牌增强加值（包括神契与神圣护甲能力赋予的增强加值）的伤害减免，但只对你每轮受到的第一次攻击生效。这个伤害减免可以被精金武器击破，但是击破你的伤害减免并不影响你使用神契或神圣护甲的时间。"
 }

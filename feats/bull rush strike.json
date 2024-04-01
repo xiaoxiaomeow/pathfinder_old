@@ -4,20 +4,21 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bull%20Rush%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 151"],
-    "description": "Your critical hits can push back your foes.",
+    "text": "Your critical hits can push back your foes.",
     "prerequisites": "Str 13, Improved Bull Rush, Power Attack, base attack bonus +9.",
     "benefit": "Whenever you score a critical hit with a melee attack, you can push your opponent back, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may push your opponent back as if from the bull rush combat maneuver. You do not need to move with the target if successful. This does not provoke an attack of opportunity.",
     "normal": "You must perform a bull rush combat maneuver to bull rush an opponent.",
     "special": "You can only apply the effects of one of the following feats to a given critical hit",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to bull rush the target anyway. If you do, reroll the confirmation roll to determine if the bull rush attempt exceeds the opponent’s CMD. This reroll is only for the bull rush combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
     "prerequisiteKeys":     [
         "improved bull rush",
         "power attack"
     ],
     "name_zh": "冲撞重击",
-    "description_zh": "你的重击能够推开敌人。",
+    "text_zh": "你的重击能够推开敌人。",
     "prerequisites_zh": "力量13，精通冲撞，猛力攻击，基本攻击加值+9。",
-    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够将敌人推开。如果你的重击确认检定超过了敌人的CMD，那么你能够将敌人推开，就如同进行了冲撞战技检定一般。如果成功，你不需要与目标一同移动。这不会引起借机攻击。<\/p><p>通常状况：你必须进行冲撞战技检定才能冲撞敌人。",
+    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够将敌人推开。如果你的重击确认检定超过了敌人的CMD，那么你能够将敌人推开，就如同进行了冲撞战技检定一般。如果成功，你不需要与目标一同移动。这不会引起借机攻击。",
+    "normal_zh": "你必须进行冲撞战技检定才能冲撞敌人。",
     "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。"
 }

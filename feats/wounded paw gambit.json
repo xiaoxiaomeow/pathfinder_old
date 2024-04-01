@@ -7,10 +7,14 @@
         "Teamwork"
     ],
     "source": ["Advanced Class Guide pg. 159"],
-    "description": "Your enemy sees you as an easy mark, but doesn’t notice your allies poised to shoot.",
+    "text": "Your enemy sees you as an easy mark, but doesn’t notice your allies poised to shoot.",
     "prerequisites": "Broken Wing Gambit, Bluff 5 ranks.",
     "benefit": "Whenever you use Broken Wing Gambit and an opponent attacks you as a result, each ally who has this feat and is within 30 feet of that opponent can attempt a ranged attack against it as an immediate action. The ally’s ranged weapon must be in hand, loaded, and ready to be fired or thrown in order to make this attack possible.<br><br> An ally who has this feat and Broken Wing Gambit can instead use Broken Wing Gambit to attempt an attack of opportunity against the foe, but cannot attempt both that attack of opportunity and this ranged attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When you make a ranged attack granted by this feat, you can spend 5 stamina points to make that ranged attack as an attack of opportunity instead of as an immediate action. You can still use this feat to make an extra attack only once per round.",
-    "prerequisiteKeys": ["broken wing gambit"]
+    "prerequisiteKeys": ["broken wing gambit"],
+    "name_zh": "折箭伤爪",
+    "text_zh": "你的敌人以为你是一个更易对付的目标，却忽视了远处你的盟友正拉弓向他瞄准。",
+    "prerequisites_zh": "弃兵断翼，唬骗技能5级",
+    "benefit_zh": "当你发动弃兵断翼专长的效果并且敌人对你发动攻击时，你同样拥有此专长且距离目标30尺内的盟友将可以以一个直觉动作对其发动一次远程攻击，前提是他持有一件装填好或者可以投掷的远程武器。同时拥有本专长和弃兵断翼专长的盟友也可以转而使用后者的效果对目标发动借机攻击，但无法既发动借机攻击也进行本专长提供的远程攻击。"
 }

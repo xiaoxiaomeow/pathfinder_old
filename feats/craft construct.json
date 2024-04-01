@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Construct",
     "descriptors": ["Item Creation"],
     "source": ["Pathfinder RPG Bestiary pg. 314"],
-    "description": "You can create construct creatures like golems.",
+    "text": "You can create construct creatures like golems.",
     "prerequisites": "Caster level 5th, Craft Magic Arms and Armor, Craft Wondrous Item.",
     "benefit": "You can create any construct whose prerequisites you meet. The act of animating a construct takes one day for each 1,000 gp in its market price. To create a construct, you must use up raw materials costing half of its base price, plus the full cost of the basic body created for the construct. Each construct has a special section that summarizes its costs and other prerequisites. A newly created construct has average hit points for its Hit Dice.",
     "prerequisiteKeys":     [
@@ -12,7 +12,7 @@
         "craft wondrous item"
     ],
     "name_zh": "制造构装体",
-    "description_zh": "你可以制造构装体生物，比如魔像。",
+    "text_zh": "你可以制造构装体生物，比如魔像。",
     "prerequisites_zh": "施法者等级5级，制造魔法武器和护甲，制造奇物。",
     "benefit_zh": "你可以制造任何满足前提要求的构装体。唤醒构造体的过程需要花费“构造体价格/1000”天时间。你必须拥有相当于构装体价格一半的构装原材料来进行制造，再加上前提制造所需的费用。每具构装体都有独立的价格花费及制造要求说明。新制造的构装体拥有相当于其生命骰数平均数的HP。"
 }

@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nightmare%20Fist",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 111"],
-    "description": "You are even more deadly in magical darkness.",
+    "text": "You are even more deadly in magical darkness.",
     "prerequisites": "Improved Unarmed Strike, Intimidate 1 rank, ability to create magical darkness.",
     "benefit": "While fighting within an area of magical darkness, you gain a +2 bonus on damage rolls with unarmed strikes, or a +4 bonus against opponents that are shaken, frightened, or panicked. You also gain a +2 morale bonus on Acrobatics and Intimidate checks.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "When fighting in an area of magical darkness, you can spend up to 5 stamina points to increase the bonus granted by this feat on one damage roll by double the number of stamina points you spent.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "夜魇之拳",
-    "description_zh": "你在黑暗中总是显得更为致命。",
+    "text_zh": "你在黑暗中总是显得更为致命。",
     "prerequisites_zh": "精通徒手打击，威吓1级，创造魔法黑暗的能力。",
     "benefit_zh": "当处于一片魔法黑暗中时，你的徒手打击伤害获得+2加值；若对手处于颤栗、惊惧或者恐慌状态，该加值变为+4。此外，你在黑暗中时，特技和威吓技能检定也会有+2士气加值。"
 }

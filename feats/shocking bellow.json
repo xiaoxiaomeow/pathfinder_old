@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shocking%20Bellow",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
-    "description": "You can demoralize a foe with a sudden ferocious scream.",
+    "text": "You can demoralize a foe with a sudden ferocious scream.",
     "prerequisites": "Intimidating Prowess.",
     "benefit": "If you act in the surprise round of a combat, as a free action you can attempt a single Intimidate check to demoralize a creature within 30 feet that can clearly see or hear you.",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys": ["intimidating prowess"],
+    "name_zh": "震耳吼叫",
+    "text_zh": "你发出一声咆哮，如同半空中响了个霹雳",
+    "prerequisites_zh": "威逼",
+    "benefit_zh": "如果你能在一场战斗的突袭轮中行动，那么你可以以一个自由动作对一个30尺内且可以清晰听到你的生物发动一次挫败士气的威吓检定。"
 }

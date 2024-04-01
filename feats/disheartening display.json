@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disheartening%20Display",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "Your show of prowess further demoralizes others.",
+    "text": "Your show of prowess further demoralizes others.",
     "prerequisites": "Dazzling Display, Weapon Focus, base attack bonus +6, proficiency with chosen weapon.",
     "benefit": "When you successfully use Dazzling Display against any shaken, frightened, or panicked opponents, their fear increases by one step. An already panicked creature demoralized by this feat cowers. Once affected by this feat, a creature cannot be affected by it again (by you or anyone else) for 24 hours.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "When you affect a creature with this feat, you can spend 5 stamina points to gain the ability to affect that creature with this feat a second time during the same 24-hour period.",
     "prerequisiteKeys":     [
         "dazzling display",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "狂傲技巧",
+    "text_zh": "你对技艺的展示更深地挫败他人的士气。",
+    "prerequisites_zh": "炫目技巧，武器专攻，BAB+6，擅长所选武器",
+    "benefit_zh": "当你成功的使用炫目技巧专长挫败一个已经战栗，惊惧或恐慌敌人的士气时，对方的恐惧效果会上升一档。而已经恐慌的对手将变得畏缩。一个被此专长影响的生物在接下来的24小时内不会此专长再次被影响（包括你的和其它生物的）。"
 }

@@ -4,8 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=True%20Love",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 73"],
-    "description": "You found love, only to have it denied by the cruelty of fate.",
-    "prerequisites": "You must have found love with a person you can't be with, have a current lover, or have the Current Lover, For Love, or The Lover background. Possible complications include distance, your love being with another, your feelings being unrequited, or your relationship being forbidden.",
+    "text": "You found love, only to have it denied by the cruelty of fate.",
+    "prerequisites": "You must have found love with a person you can’t be with, have a current lover, or have the Current Lover, For Love, or The Lover background. Possible complications include distance, your love being with another, your feelings being unrequited, or your relationship being forbidden.",
     "benefit": "You add 1 to the save DC and caster level of your spells and spell-like abilities with the emotion descriptor. In addition, you gain a +2 bonus on Sense Motive checks. If you have 10 or more ranks in Sense Motive, this bonus increases to +4.",
-    "special": "At the GM’s discretion, you can find true love with a person other than the one you designated when you chose this feat. In this case, the love you initially chose was wrong for you, but this became obvious only when you found the one truly meant for you."
+    "special": "At the GM’s discretion, you can find true love with a person other than the one you designated when you chose this feat. In this case, the love you initially chose was wrong for you, but this became obvious only when you found the one truly meant for you.",
+    "goal": "Find a way to be with your true love (even if you can’t formally wed).",
+    "completionBenefit": "The inspiration of knowing your love waits for your return gives you a +2 bonus on attack rolls, saving throws, and skill checks whenever you are below a quarter of your total hit points (not counting any temporary hit points). You lose this completion benefit if your relationship with your true love comes to an end for any reason, including death.",
+    "name_zh": "真爱不死",
+    "text_zh": "你找到了爱恋，却发现自己被关在紧闭的命运大门之前。",
+    "prerequisites_zh": "你必须恋上一个无法与之结合或已有配偶的对象；或拥有“一见钟情（Current Lover）”、“为爱而歌（For Love）”、“梦中情人（The Lover）”等角色背景之一。",
+    "benefit_zh": "你所施放的带有〔情绪〕描述符的法术，其豁免DC和CL+1。此外，你的察言观色检定+2。如果你在察言观色技能受训10级以上，该加值升至+4。",
+    "goal_zh": "找到与你的恋人在一起的方法。",
+    "completionBenefit_zh": "深知爱人正等待着你的归来，你在HP处于最大值25%以下时（不计算临时HP）攻击、豁免和技能检定+2。若你们的恋情以任何形式结束——包括死亡，你失去此项完成收益。<\/p><p>特殊备注：根据GM的指示，你也许会发现自己的真爱并非选择此专长时指定的初见之人。这种情况下，你原先的选择是个错误，但这只让你更加清楚地理解真爱为何物。"
 }

@@ -3,12 +3,12 @@
     "name": "Cloud Step",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cloud%20Step",
     "source": ["Advanced Player's Guide pg. 156"],
-    "description": "Your tread is of unearthly lightness.",
+    "text": "Your tread is of unearthly lightness.",
     "prerequisites": "Spider Step, monk level 12th.",
     "benefit": "As a move action, you can <i>air walk <\/i>(as the spell) up to half your slow fall distance, maximum 50 feet. You must reach a solid, level surface by the end of your turn or you will fall.",
     "prerequisiteKeys": ["spider step"],
     "name_zh": "梯云纵",
-    "description_zh": "你的脚步异常地轻盈。",
+    "text_zh": "你的脚步异常地轻盈。",
     "prerequisites_zh": "壁虎游墙，武僧等级12。",
     "benefit_zh": "以移动动作，你能够如法术‘凌空而行（air walk）’一般行走，距离为【轻身坠】的一半，最高为50尺。你必须在你的行动轮结束时到达固体的水平面上，否则将会坠落。"
 }

@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Rend",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 224"],
-    "description": "You use your teeth and claws to rip your foes to shreds.",
+    "text": "You use your teeth and claws to rip your foes to shreds.",
     "prerequisites": "Bite attack, rend, troll.",
-    "benefit": "If you are able to use your rend ability on the same turn that you also succeed at a bite attack, your rend deals an amount of additional damage equal to half your Strength modifier."
+    "benefit": "If you are able to use your rend ability on the same turn that you also succeed at a bite attack, your rend deals an amount of additional damage equal to half your Strength modifier.",
+    "name_zh": "高等撕裂",
+    "text_zh": "你可以同时用獠牙和手爪撕扯敌人。",
+    "prerequisites_zh": "啮咬攻击，撕裂，巨魔",
+    "benefit_zh": "如果你在发动了撕裂特殊攻击的同一轮中同时啮咬攻击命中，那么你的撕裂特殊攻击额外造成相当于你的力量调整值一半的伤害。"
 }

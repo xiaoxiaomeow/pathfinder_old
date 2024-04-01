@@ -4,10 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twinned%20Feint",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 158"],
-    "description": "You can fool two opponents with a single feint.",
+    "text": "You can fool two opponents with a single feint.",
     "prerequisites": "Cha 13.",
     "benefit": "As a standard action, you can attempt to feint against a foe within your reach. If you succeed at the feint, you can make an additional feint attempt against a foe that is adjacent to the first one and also within reach. You can attempt only one additional feint per action with this feat. When you use this feat, you take a –2 penalty to your AC until your next turn.",
     "special": "If you have the Improved Feint feat, you can use this feat as a move action instead.",
-    "staminaSource": ["Pathfinder Unchained pg. 134"],
-    "staminaText": "After succeeding at the first feint while using this feat, you can spend 2 stamina points to attempt a second feint against any foe within your reach, even if it’s not adjacent to the first foe."
+    "staminaSource": "Pathfinder Unchained pg. 134",
+    "staminaText": "After succeeding at the first feint while using this feat, you can spend 2 stamina points to attempt a second feint against any foe within your reach, even if it’s not adjacent to the first foe.",
+    "name_zh": "双发诱敌",
+    "text_zh": "你卖个破绽，两个对手就一起上钩。",
+    "prerequisites_zh": "魅力13",
+    "benefit_zh": "以一个标准动作，你可以对一个处于你的触及范围内的敌人进行一次虚招检定。如果你的虚招成功，你可以立刻对另一个邻接目标，且处于你触及内的敌人发动虚招尝试，你最多只能额外发动一次虚招。每当你使用这个专长时，你会在防御等级上承受-2减值。",
+    "special_zh": "如果你拥有精通虚招专长，你可以以一个移动动作发动本专长的效果。"
 }

@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Old%20Cults%20Awakener",
     "descriptors": ["Faction"],
     "source": ["Faction Guide pg. 57"],
-    "description": "You hear the voices of the Old Ones, and believe it is your destiny to awaken others to their ancient cause using bizarre and torturous rituals. Whether your work leaves these individuals mad or truly touched by alien sentience remains unproven.",
+    "text": "You hear the voices of the Old Ones, and believe it is your destiny to awaken others to their ancient cause using bizarre and torturous rituals. Whether your work leaves these individuals mad or truly touched by alien sentience remains unproven.",
     "prerequisites": "Old Cults 20 TPA.",
     "benefit": "You can attempt a DC 25 Heal check upon an unconscious but stable intelligent creature. The ritual takes 1 hour to complete. If it’s successful, the victim must make a DC 25 Will save or he gains a false memory of a vision that he has personally been chosen by the Great Old Ones to serve them (treat as an implanted memory from <i>modify memory<\/i>, except this is a nonmagical effect). If the ritual is unsuccessful, the victim takes 1d2 points of Intelligence and Wisdom drain; you may attempt the ritual again."
 }

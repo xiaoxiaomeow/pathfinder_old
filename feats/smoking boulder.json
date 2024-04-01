@@ -6,7 +6,11 @@
         "Monster Codex pg. 57",
         "Giants Revisited pg. 19"
     ],
-    "description": "The boulders you hurl burn so hot that they smoke.",
+    "text": "The boulders you hurl burn so hot that they smoke.",
     "prerequisites": "Base attack bonus +11, heated rock special ability.",
-    "benefit": "When you throw a rock as part of an attack action and hit your target, you can cause the boulder to emit a 10-foot-radius spread of heavy smoke. The smoke lasts for 1d4 rounds. (See page 444 of the <i>Pathfinder RPG Core Rulebook<\/i> for rules on smoke effects.)"
+    "benefit": "When you throw a rock as part of an attack action and hit your target, you can cause the boulder to emit a 10-foot-radius spread of heavy smoke. The smoke lasts for 1d4 rounds. (See page 444 of the <i>Pathfinder RPG Core Rulebook<\/i> for rules on smoke effects.)",
+    "name_zh": "焚烟投石",
+    "text_zh": "你手中的岩石不但炽热，而且黑烟笼罩。",
+    "prerequisites_zh": "基础攻击加值+11，炽热石块特殊能力",
+    "benefit_zh": "当你投掷一块投石击中目标时，作为攻击动作的一部分，你可以使石块爆发出10尺半径的浓烟。这些烟雾持续1d4轮时间（见Pathfinder RPG核心规则书）。"
 }

@@ -3,8 +3,13 @@
     "name": "Slow Faller",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slow%20Faller",
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "You can reduce the amount of falling damage you take when you are close to a wall.",
+    "text": "You can reduce the amount of falling damage you take when you are close to a wall.",
     "prerequisites": "Acrobatics 5 ranks or slow fall class feature.",
     "benefit": "When you are within arm’s reach of a wall, you can slow your descent, as long as you are not in heavy armor. You take damage as if the fall were 10 feet shorter than it actually is. This ability stacks with the slow fall class feature.",
-    "special": "You can take this feat multiple times. Each time you do, you take damage as if the fall were an additional 10 feet shorter."
+    "special": "You can take this feat multiple times. Each time you do, you take damage as if the fall were an additional 10 feet shorter.",
+    "name_zh": "攀云手",
+    "text_zh": "只要身边有墙体或峭壁，你就能靠着它们进一步降低自己在空中下坠的速度。",
+    "prerequisites_zh": "特技动作技能5级，武僧轻身落（Slow Fall）职业能力",
+    "benefit_zh": "在坠落时，只要在你触手可及的范围内有墙壁，你就可以减低自己坠落的速度。如果你没有穿着重甲，那么你承受的坠落伤害就会视为减少10尺。这个专长的效果可以和轻身落职业能力叠加。",
+    "special_zh": "你可以多次选择本专长，每次选择，你坠落的距离就视为再减少10尺。"
 }

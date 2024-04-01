@@ -3,12 +3,13 @@
     "name": "Multitalented Mastery",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Multitalented%20Mastery",
     "source": ["Advanced Race Guide pg. 47"],
-    "description": "You are adept at numerous disciplines.",
+    "text": "You are adept at numerous disciplines.",
     "prerequisites": "Character level 5th, half-elf, multitalented racial trait.",
     "benefit": "All of your classes are considered favored classes. You gain either +1 hit point or +1 skill point whenever you take a level in any class. Apply these bonuses retroactively for all class levels that have not yet gained one of these bonuses.",
     "normal": "Half-elves with the multitalented racial trait have two favored classes.",
     "name_zh": "文武全能",
-    "description_zh": "你精熟于众多学科。",
+    "text_zh": "你精熟于众多学科。",
     "prerequisites_zh": "角色等级5，半精灵，【多才多艺】种族特性。",
-    "benefit_zh": "你所拥有的所有职业均被视为天赋职业。每当你在任何职业上获得等级时，均可以获得HP+1或者技能点+1的奖励。所有未曾获得这些加值之一的职业等级也能够追授这些加值。<\/p><p>通常状况：拥有【多才多艺】种族特性的半精灵拥有两个天赋职业。"
+    "benefit_zh": "你所拥有的所有职业均被视为天赋职业。每当你在任何职业上获得等级时，均可以获得HP+1或者技能点+1的奖励。所有未曾获得这些加值之一的职业等级也能够追授这些加值。",
+    "normal_zh": "拥有【多才多艺】种族特性的半精灵拥有两个天赋职业。"
 }

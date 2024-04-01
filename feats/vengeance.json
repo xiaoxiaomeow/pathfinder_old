@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vengeance",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 73"],
-    "description": "The need to avenge those you loved drives you to great deeds.",
-    "prerequisites": "You must have a close family member or other loved one slain by a specific challenging foe or that foe's minions, or have the Raiders or Vengeance background.",
-    "benefit": "You gain a +1 bonus on saving throws, attack rolls, and weapon damage rolls against your chosen foe and known minions of that foe."
+    "text": "The need to avenge those you loved drives you to great deeds.",
+    "prerequisites": "You must have a close family member or other loved one slain by a specific challenging foe or that foe’s minions, or have the Raiders or Vengeance background.",
+    "benefit": "You gain a +1 bonus on saving throws, attack rolls, and weapon damage rolls against your chosen foe and known minions of that foe.",
+    "goal": "Thwart your chosen foe.",
+    "completionBenefit": "You gain a +1 bonus on all saving throws. This bonus stacks with this feats’s bonus against your foe and its minions, should they survive.",
+    "name_zh": "君子报仇",
+    "text_zh": "为所爱之人复仇是你前进的巨大驱动力。",
+    "prerequisites_zh": "你必须有一位近亲或其他所爱之人被一个特定的强大敌手或其爪牙杀害；或你拥有“惨遭劫掠（Raiders）”、“绝命复仇（Vengeance）”等角色背景之一。",
+    "benefit_zh": "你对特定的敌手与其爪牙的豁免、攻击和伤害检定+1。",
+    "goal_zh": "妨害你的目标敌手。",
+    "completionBenefit_zh": "你的全豁免+1。若你的敌手仍然存活，该加值可在与其对抗时与即时收益叠加。"
 }

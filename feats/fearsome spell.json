@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fearsome%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Occult Adventures pg. 134"],
-    "description": "Your spells inspire great fear in those harmed by them.",
-    "benefit": "When a creature takes damage from a fearsome spell, if that creature failed its save against the spell, it becomes shaken for a number of rounds equal to the spell’s original level. If the spell doesn’t allow a save, creatures harmed by it can attempt a Will save (against the same DC the spell would have if it did allow a save) to negate the shaken effect. If the spell effect already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the spell. A fearsome spell can’t cause a creature to become frightened, even if that creature is already shaken. A fearsome spell uses up a spell slot 2 levels higher than the spell’s actual level."
+    "text": "Your spells inspire great fear in those harmed by them.",
+    "benefit": "When a creature takes damage from a fearsome spell, if that creature failed its save against the spell, it becomes shaken for a number of rounds equal to the spell’s original level. If the spell doesn’t allow a save, creatures harmed by it can attempt a Will save (against the same DC the spell would have if it did allow a save) to negate the shaken effect. If the spell effect already causes creatures to become shaken, on a failed save, add the duration of this metamagic effect to the duration of the shaken condition imposed by the spell. A fearsome spell can’t cause a creature to become frightened, even if that creature is already shaken. A fearsome spell uses up a spell slot 2 levels higher than the spell’s actual level.",
+    "name_zh": "骇人法术",
+    "text_zh": "你的法术在造成创伤的同时还会在敌人心中散播恐惧。",
+    "benefit_zh": "当一名生物由于骇人法术而承受伤害时，如果该生物在对抗法术的豁免中失败的话，则会陷入战栗（shaken），持续轮数等同于法术原本的环级。若该法术原本并不允许进行豁免，那么被法术伤害的生物可以尝试一次意志豁免（如同法术需要进行豁免一般使用相同的DC），成功则可以免受战栗效果。若法术效果本身已经让生物陷入战栗的话，那么在其豁免失败时，将该超魔效果的持续时间加到法术产生的战栗效果的持续时间之上。骇人法术无法让生物陷入惊惧（Frightened），即便该生物已经处于战栗状态也无法做到这点。骇人法术使用比法术的实际环级高2级的法术位。"
 }

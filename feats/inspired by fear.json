@@ -3,7 +3,11 @@
     "name": "Inspired by Fear",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Inspired%20by%20Fear",
     "source": ["Advanced Class Guide pg. 151"],
-    "description": "When spreading fear to your enemies, you further embolden your allies.",
+    "text": "When spreading fear to your enemies, you further embolden your allies.",
     "prerequisites": "Ability to perform dirge of doom.",
-    "benefit": "Allies in the area of your dirge of doom receive a +4 morale bonus on saving throws against fear effects. At least one enemy must be in the dirge’s area and become shaken by the dirge for you and your allies to receive this bonus."
+    "benefit": "Allies in the area of your dirge of doom receive a +4 morale bonus on saving throws against fear effects. At least one enemy must be in the dirge’s area and become shaken by the dirge for you and your allies to receive this bonus.",
+    "name_zh": "拥抱恐惧",
+    "text_zh": "你的丧歌让敌人战栗，但你的盟友反而更为坚强。",
+    "prerequisites_zh": "可以演奏末日丧歌",
+    "benefit_zh": "处于你的末日丧歌表演影响范围内的盟友将在对抗恐惧效果的豁免检定上获得+4士气加值，必须有至少一个因为末日丧歌而陷入战栗状态的生物处于你的末日丧歌影响范围内你的盟友才能获得这个加值。"
 }

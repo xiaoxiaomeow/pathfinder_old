@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Uncanny%20Defense",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 67"],
-    "description": "Your instinct for self-preservation gives you many advantages.",
+    "text": "Your instinct for self-preservation gives you many advantages.",
     "prerequisites": "Cautious Fighter, base attack bonus +3, halfling.",
     "benefit": "While fighting defensively or taking the total defense action, you gain a bonus on your Reflex saving throws and to your CMD equal to 1/2 of the dodge bonus to AC you gained from taking that action.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When fighting defensively or taking the total defense action, if you attempt a Reflex saving throw or are the target of a combat maneuver, you can spend a number of stamina points up to your Dexterity bonus to gain a bonus on the Reflex save or to your CMD equal to the number of stamina points you spent.",
     "prerequisiteKeys": ["cautious fighter"],
     "name_zh": "本能防守",
-    "description_zh": "你的自我保护本能给予你很多强项。",
+    "text_zh": "你的自我保护本能给予你很多强项。",
     "prerequisites_zh": "谨慎战斗，基本攻击加值+3，半身人。",
     "benefit_zh": "当你防御式战斗或完全防御时，你的反射豁免和CMD得到奖励，该奖励数值等同于你从完全防御中得到的AC闪避加值的一半。"
 }

@@ -3,8 +3,13 @@
     "name": "Talented Magician",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Talented%20Magician",
     "source": ["Advanced Class Guide pg. 158"],
-    "description": "Roguish magic comes easily to you.",
+    "text": "Roguish magic comes easily to you.",
     "prerequisites": "Major magic rogue talent, minor magic rogue talent.",
     "benefit": "You gain an additional daily use of each of your minor magic and major magic rogue talents.",
-    "special": "You can take this feat multiple times. Each time you do, you gain an additional daily use of each talent."
+    "special": "You can take this feat multiple times. Each time you do, you gain an additional daily use of each talent.",
+    "name_zh": "魔术天才",
+    "text_zh": "你拥有天生的魔术回路。",
+    "prerequisites_zh": "高等魔法盗贼天赋，次级魔法盗贼天赋",
+    "benefit_zh": "你获得每天一次额外的高等魔法和次级魔法盗贼天赋的使用次数。",
+    "special_zh": "你可以多次选择本专长，每次选择时，获得每天一次额外的这两次盗贼天赋的使用次数。"
 }

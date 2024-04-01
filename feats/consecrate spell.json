@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Consecrate%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Blood of Angels pg. 25"],
-    "description": "You infuse spells with heavenly power, drastically increasing their effectiveness against would-be heralds of evil.",
+    "text": "You infuse spells with heavenly power, drastically increasing their effectiveness against would-be heralds of evil.",
     "prerequisites": "Aasimar, able to prepare or cast <i>consecrate<\/i>.",
     "benefit": "A consecrated spell is treated as a maximized spell against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated <i>fireball <\/i>acts as a normal <i>fireball <\/i>against neutral or good creatures). This feat does not stack with Maximize Spell. A consecrated spell uses up a spell slot two levels higher than the spell’s actual level."
 }

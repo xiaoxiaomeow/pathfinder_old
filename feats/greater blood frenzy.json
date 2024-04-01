@@ -3,7 +3,11 @@
     "name": "Greater Blood Frenzy",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Blood%20Frenzy",
     "source": ["Monster Codex pg. 189"],
-    "description": "Your wounds move you into a deeper frenzy.",
+    "text": "Your wounds move you into a deeper frenzy.",
     "prerequisites": "Blood frenzy ability, sahuagin.",
-    "benefit": "You no longer take a penalty to AC while in a blood frenzy. In addition, if you strike an enemy with both of your claw attacks—or two or more claw attacks if you have extra limbs—while in a blood frenzy, you can rend (as the special attack), dealing an amount of additional damage equal to your claw damage plus 1-1/2 times your Strength bonus (minimum 0)."
+    "benefit": "You no longer take a penalty to AC while in a blood frenzy. In addition, if you strike an enemy with both of your claw attacks—or two or more claw attacks if you have extra limbs—while in a blood frenzy, you can rend (as the special attack), dealing an amount of additional damage equal to your claw damage plus 1-1/2 times your Strength bonus (minimum 0).",
+    "name_zh": "高等血性狂怒",
+    "text_zh": "被伤口的气味吸引，你进入几近无我的狂怒。",
+    "prerequisites_zh": "血性狂怒能力，沙华鱼人",
+    "benefit_zh": "你将不再因为使用血性狂怒而在防御等级上承受减值。除此之外，如果你的两次爪抓攻击（或是至少两次爪抓攻击，要是你有超过两只爪子的话）同时命中敌人，那么你就可以发动撕裂特殊攻击，对敌人造成相当于你的单次爪抓攻击外加你的力量调整值的1.5倍的伤害。"
 }

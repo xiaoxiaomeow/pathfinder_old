@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sidestep",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 169"],
-    "description": "You can reposition yourself after a foe’s missed swing.",
+    "text": "You can reposition yourself after a foe’s missed swing.",
     "prerequisites": "Dex 13, Dodge, Mobility.",
     "benefit": "Whenever an opponent misses you with a melee attack, you may move 5 feet as an immediate action so long as you remain within that opponent’s threatened area. This movement does not provoke attacks of opportunity. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total movement.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "When this feat lets you move, you can spend 2 stamina points to move 10 feet instead of 5. You must still remain in your opponent’s threatened area. You still lose your 5-foot step or 5 feet of movement—the movement lost doesn’t increase to 10 feet.",
     "prerequisiteKeys":     [
         "dodge",
         "mobility"
     ],
     "name_zh": "滑步",
-    "description_zh": "你能够在敌人挥空之后重新改变自己的位置。",
+    "text_zh": "你能够在敌人挥空之后重新改变自己的位置。",
     "prerequisites_zh": "敏捷13，闪避，灵活移动。",
     "benefit_zh": "每当一名敌人对你进行的近战攻击失手时，你能够以直觉动作移动五尺，但是你只能在该名敌人的威胁范围内移动。这次移动不会引起借机攻击。如果你采取这一行动，那么你无法在下一回合内进行五尺快步。如果你在下一回合进行移动，那么你的总移动距离减少5尺。"
 }

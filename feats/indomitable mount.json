@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Indomitable%20Mount",
     "descriptors": ["Combat"],
     "source": ["Cities of Golarion pg. 50"],
-    "description": "Your skill at riding helps your mount avoid attacks.",
+    "text": "Your skill at riding helps your mount avoid attacks.",
     "prerequisites": "Mounted Combat, Handle Animal 5 ranks, Ride 5 ranks, Lastwall affinity.",
     "benefit": "Once per round when your mount must make a saving throw, you can make a Ride check as an immediate action. Your mount makes its save if your Ride check result is greater than the DC of the opponent’s attack.",
     "prerequisiteKeys": ["mounted combat"]

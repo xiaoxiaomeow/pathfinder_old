@@ -4,7 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Never%20Conquered,%20Forever%20Feared",
     "descriptors": ["Story"],
     "source": ["Pathfinder #131: The Reaper's Right Hand pg. 78"],
-    "description": "You are dauntless in battle, and your lineage echoes with awe-inspiring power.",
+    "text": "You are dauntless in battle, and your lineage echoes with awe-inspiring power.",
     "prerequisites": "Be a member of House Heskillar, or have the Adopted by Dragons, Path of Righteous Rage, or Proud Heritage background.",
-    "benefit": "Your stern demeanor gives you a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. You also gain a +2 bonus on saves against paralysis and sleep effects."
+    "benefit": "Your stern demeanor gives you a +2 bonus on Intimidate checks. If you have 10 or more ranks in Intimidate, this bonus increases to +4. You also gain a +2 bonus on saves against paralysis and sleep effects.",
+    "goal": "You must individually slay an appropriate number of significant foes in succession, without retreating or withdrawing from a fight.",
+    "completionBenefit": "You can display your imposing presence as a free action when you take an offensive action, such as an attack or a charge. Opponents within 30 feet of you must succeed at a Will save or become shaken for 3d6 rounds. The DC of this save is equal to 10 + 1/2 your character level + your Charisma modifier. This ability does not cause opponents that are already shaken to become frightened, and opponents with more Hit Dice than your character level are immune to the effect. This is a mind-affecting fear effect."
 }

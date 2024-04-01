@@ -4,9 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Weapon%20of%20the%20Chosen",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 159"],
-    "description": "The influence of your deity guides your favored weapon.",
-    "prerequisites": "Weapon Focus with deity's favored weapon, must worship and receive spells from a deity.",
+    "text": "The influence of your deity guides your favored weapon.",
+    "prerequisites": "Weapon Focus with deity’s favored weapon, must worship and receive spells from a deity.",
     "benefit": "As a swift action, you can call upon your deity to guide an attack you make with your deity’s favored weapon. On your next attack in that round with that weapon, your weapon counts as magical for the purpose of overcoming damage reduction or striking an incorporeal creature. If your attack misses because of concealment, you can reroll your miss chance one time to see whether you actually hit.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
-    "staminaText": "When using this feat, you can spend 5 stamina points to designate a weapon other than your deity’s favored weapon. You gain this feat’s benefits with that weapon until the start of your next turn."
+    "staminaSource": "Pathfinder Unchained pg. 135",
+    "staminaText": "When using this feat, you can spend 5 stamina points to designate a weapon other than your deity’s favored weapon. You gain this feat’s benefits with that weapon until the start of your next turn.",
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "神选武器",
+    "text_zh": "神祇偏爱的武器执于你手，它的力量超越了普通的钢铁和木材。",
+    "prerequisites_zh": "拥有神祇偏好武器的武器专攻专长，必须信仰一个神祇并从祂获得神术",
+    "benefit_zh": "以一个迅捷动作，你可以呼唤你的神祇引导你的武器攻击。在本轮你的下一次攻击时，你的武器在攻击虚体生物和克服伤害减免时视为魔法武器。除此之外，如果你的攻击会因为掩蔽效果而承受失手率，你可以重投此失手率检定以决定你是否确实击中。"
 }

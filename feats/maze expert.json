@@ -3,7 +3,7 @@
     "name": "Maze Expert",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Maze%20Expert",
     "source": ["Monster Hunter's Handbook pg. 15"],
-    "description": "You have a near-perfect sense of direction.",
+    "text": "You have a near-perfect sense of direction.",
     "prerequisites": "Skill Focus (Survival), Survival 5 ranks.",
     "benefit": "You gain a +4 bonus on Survival checks to avoid becoming lost and to determine whether you are lost. You also gain a +4 bonus on Intelligence checks to navigate mazes, including to escape a <i>maze <\/i>spell. Once per day, you can use your intuition to determine whether traveling a particular direction from a fork in the road (or other junction) might be productive or dangerous. This functions like the <i>augury<\/i> spell, except it provides weal or woe based on traveling in a particular direction.",
     "prerequisiteKeys": ["skill focus"]

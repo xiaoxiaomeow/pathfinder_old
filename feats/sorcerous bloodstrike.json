@@ -3,11 +3,11 @@
     "name": "Sorcerous Bloodstrike",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sorcerous%20Bloodstrike",
     "source": ["Ultimate Magic pg. 156"],
-    "description": "You can regain power when you kill a creature.",
+    "text": "You can regain power when you kill a creature.",
     "prerequisites": "Cha 13, sorcerer bloodline class feature.",
     "benefit": "Once per day, as an immediate action upon reducing a creature to 0 or fewer hit points with one of your sorcerer spells, you can regain one usage of a sorcerer bloodline power that has a limited number of uses per day. The slain creature must have at least half as many Hit Dice as your sorcerer level. You cannot use this feat to gain another usage of a bloodline power that you have not yet used today.",
     "name_zh": "术士血池",
-    "description_zh": "当你杀死一个生物时，你可以重新获得力量。",
+    "text_zh": "当你杀死一个生物时，你可以重新获得力量。",
     "prerequisites_zh": "魅力13，【术士血统】职业特性。",
     "benefit_zh": "每日1次，当你使用术士法术将一个生物的HP减少到0或者更少时，你可以用直觉动作恢复一个有着使用次数限制的血统能力的每日使用次数1次。被杀害的生物的HD必须达到你术士等级的一半。如果你的某个血统能力在当日还未被使用，则你不能使用这个能力为其获得1次额外的使用次数。"
 }

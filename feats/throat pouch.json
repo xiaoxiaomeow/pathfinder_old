@@ -3,8 +3,13 @@
     "name": "Throat Pouch",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Throat%20Pouch",
     "source": ["Monster Codex pg. 9"],
-    "description": "You can swell your throat to amplify and broadcast your vocalizations over vast distances.",
+    "text": "You can swell your throat to amplify and broadcast your vocalizations over vast distances.",
     "prerequisites": "Boggard, terrifying croak.",
     "benefit": "The range of your terrifying croak ability increases by 5 feet for every 2 Hit Dice you have (maximum 30-foot increase). While speaking Boggard or wordlessly vocalizing, you can swell your throat pouch as a free action to reduce the Perception DC needed to hear your voice by an amount equal to your Hit Dice.",
-    "special": "The benefits of Throat Pouch and any feats that use it as a prerequisite are available only while you’re wearing light, medium, or no armor."
+    "special": "The benefits of Throat Pouch and any feats that use it as a prerequisite are available only while you’re wearing light, medium, or no armor.",
+    "name_zh": "喉囊",
+    "text_zh": "你鼓起自己的喉部，将刺耳的音量广播到更远的地方。",
+    "prerequisites_zh": "沼蜍人，恐怖蛙鸣",
+    "benefit_zh": "你的恐怖蛙鸣能力的影响范围增加5尺/你每拥有每2个HD（最多30尺）。当使用沼蜍人语或其他唔词汇的语言时，你可以以一个鼓动自己的喉咙，将听到你话语所需的察觉检定DC降低相当于你HD的数量。",
+    "special_zh": "本专长以及其他以本专长作为先决条件的专长只有在你穿戴轻甲，中甲或不着甲时才能生效。"
 }

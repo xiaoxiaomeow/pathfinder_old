@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=School%20Strike",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 116"],
-    "description": "You focus the secrets of your school of wizardry into your unarmed strike.",
+    "text": "You focus the secrets of your school of wizardry into your unarmed strike.",
     "prerequisites": "Wizard school class feature, Improved Unarmed Strike.",
     "benefit": "When you gain this feat, choose one arcane school power that you can use to affect no more than one opponent. If you make a successful unarmed strike against an opponent, in addition to dealing your unarmed strike damage, you can use a swift action to deliver the effects of the chosen school power to that opponent. Doing so provokes no attacks of opportunity.",
     "special": "You can take this feat multiple times. Each time you take it, you apply it to a different qualifying arcane school power.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "After hitting with an unarmed strike, you can spend 2 stamina points to apply the effects of your chosen arcane school power as a free action instead of a swift action.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "学派打击",
-    "description_zh": "你将对法师学派的神秘领悟灌注于徒手打击之中。",
+    "text_zh": "你将对法师学派的神秘领悟灌注于徒手打击之中。",
     "prerequisites_zh": "【法师学派】职业特性，精通徒手打击。",
-    "benefit_zh": "获得此专长时，选择一项你拥有的、影响目标不超过一人的学派能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的学派能力效果于他。这不会引发借机攻击。<\/p><p>通常状况：你可以多次选择本专长，每次选择时指定一项不同的学派能力。"
+    "benefit_zh": "获得此专长时，选择一项你拥有的、影响目标不超过一人的学派能力。当你成功用徒手打击命中对手时，你能以迅捷动作在正常伤害外附加所选定的学派能力效果于他。这不会引发借机攻击。",
+    "normal_zh": "你可以多次选择本专长，每次选择时指定一项不同的学派能力。"
 }

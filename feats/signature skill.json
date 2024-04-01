@@ -3,7 +3,11 @@
     "name": "Signature Skill",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Signature%20Skill",
     "source": ["Pathfinder Unchained pg. 82"],
-    "description": "Your ability with a particular skill is the stuff of legends, and you can do things with that skill that others cannot.",
+    "text": "Your ability with a particular skill is the stuff of legends, and you can do things with that skill that others cannot.",
     "prerequisites": "5 ranks in the chosen skill.",
-    "benefit": "Choose one skill. You gain the ability listed in that skill’s 5 Ranks entry. As you gain more ranks in the chosen skill, you gain additional abilities. If you have 10 or more ranks in the chosen skill, you gain the appropriate abilities immediately. If your chosen skill is Craft, Knowledge, Perform, or Profession, you gain the listed powers only for one category of that skill, such as Craft (bows). This feat can be taken only once, but it stacks with the rogue’s edge ability and the cutting edge rogue talent."
+    "benefit": "Choose one skill. You gain the ability listed in that skill’s 5 Ranks entry. As you gain more ranks in the chosen skill, you gain additional abilities. If you have 10 or more ranks in the chosen skill, you gain the appropriate abilities immediately. If your chosen skill is Craft, Knowledge, Perform, or Profession, you gain the listed powers only for one category of that skill, such as Craft (bows). This feat can be taken only once, but it stacks with the rogue’s edge ability and the cutting edge rogue talent.",
+    "name_zh": "标志性技能",
+    "text_zh": "你在某项特定技能上的能力可谓出神入化，因此你可以使用该项技能做出他人无法做到的事情。",
+    "prerequisites_zh": "在所选技能上投入5点技能点。",
+    "benefit_zh": "选择一项技能。你获得该项技能中在投入5点时所列出的能力。当你在被选择的技能上投入更多的技能点时，便会获得额外的能力。若你在被选择的技能中投入了10点或更多技能点，那么你能够立即获得适当的能力。若你选择的技能是工艺（Craft）、知识（Knowledge）、表演（Perform）或专业（Profession），那么你仅会在该技能中的一个单类中获得后文所列出的能力，比如工艺（制弓）。该专长仅能被选取一次，不过它会与盗贼绝艺（rogue’s edge）能力以及技高一筹（cutting edge）盗贼天赋叠加。"
 }

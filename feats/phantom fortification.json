@@ -3,7 +3,11 @@
     "name": "Phantom Fortification",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Phantom%20Fortification",
     "source": ["Occult Adventures pg. 137"],
-    "description": "Your phantom remains partly immaterial even when fully manifested in ectoplasmic form.",
+    "text": "Your phantom remains partly immaterial even when fully manifested in ectoplasmic form.",
     "prerequisites": "Phantom class feature, phantom with the incorporeal flight ability.",
-    "benefit": "Your phantom has a 50% chance of ignoring critical hits and precision-based damage when fully manifested in its ectoplasmic form, as if wearing armor with the <i>moderate fortification<\/i> special ability. This doesn’t stack with other similar effects, and doesn’t apply against attacks made with <i>ghost touch<\/i> weapons or weaponlike constructs made of force (such as a <i>clenched fist<\/i>, <i>mage’s sword<\/i>, or <i>spiritual weapon<\/i>)."
+    "benefit": "Your phantom has a 50% chance of ignoring critical hits and precision-based damage when fully manifested in its ectoplasmic form, as if wearing armor with the <i>moderate fortification<\/i> special ability. This doesn’t stack with other similar effects, and doesn’t apply against attacks made with <i>ghost touch<\/i> weapons or weaponlike constructs made of force (such as a <i>clenched fist<\/i>, <i>mage’s sword<\/i>, or <i>spiritual weapon<\/i>).",
+    "name_zh": "强固魅影",
+    "text_zh": "即便你的魅影完全显化为灵质态，它仍旧能在某种程度上具有无形的特质。",
+    "prerequisites_zh": "魅影（Phantom）职业能力，魅影具有幽魂飞行（Incorporeal Flight）能力",
+    "benefit_zh": "当你的魅影完全以灵质态显形时，它有50%的概率忽略重击以及基于精准的伤害，就如同佩戴了具有中等护命（moderate fortification）特殊能力的护甲一般。该能力不会与其他类似的效果叠加，而且在对抗幽冥武器（ghost touch）或力场构成的武器（比如金刚拳、法师之剑、或灵能武器法术）做出的攻击时不会生效。"
 }

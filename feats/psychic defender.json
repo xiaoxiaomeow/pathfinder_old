@@ -3,8 +3,12 @@
     "name": "Psychic Defender",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Defender",
     "source": ["Occult Adventures pg. 138"],
-    "description": "You are adept at defending yourself during psychic duels.",
+    "text": "You are adept at defending yourself during psychic duels.",
     "prerequisites": "Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd.",
     "benefit": "Each time you enter a psychic duel, you gain a number of temporary hit points equal to your manifesting level (see Psychic Duels on page 202). These temporary hit points last until the end of the psychic duel.",
-    "prerequisiteKeys": ["psychic sensitivity"]
+    "prerequisiteKeys": ["psychic sensitivity"],
+    "name_zh": "心灵护卫者",
+    "text_zh": "你很擅长在异能决斗中保护自己。",
+    "prerequisites_zh": "智力13，异能敏感（Psychic Sensitivity）或者施放异能法术（psychic spells）或使用异能类法术（psychic spell-like）的能力，角色等级3级",
+    "benefit_zh": "每当你进入一场异能决斗（Psychic Duel）时，都会获得一定数量的临时生命值，具体数值等同于你的幻形等级（Manifestation Level）。这些临时生命值会持续至异能决斗结束为止。"
 }

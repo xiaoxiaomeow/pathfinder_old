@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Cleave",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 124"],
-    "description": "You can strike many adjacent foes with a single blow.",
+    "text": "You can strike many adjacent foes with a single blow.",
     "prerequisites": "Str 13, Cleave, Power Attack, base attack bonus +4.",
     "benefit": "As a standard action, you can make a single attack at your full base attack bonus against a foe within reach. If you hit, you deal damage normally and can make an additional attack (using your full base attack bonus) against a foe that is adjacent to the previous foe and also within reach. If you hit, you can continue to make attacks against foes adjacent to the previous foe, so long as they are within your reach. You cannot attack an individual foe more than once during this attack action. When you use this feat, you take a –2 penalty to your Armor Class until your next turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "Once per round when you miss a foe with an attack gained from Cleave, you can spend 5 stamina points to make another Cleave attack anyway.",
     "prerequisiteKeys":     [
         "cleave",
         "power attack"
     ],
     "name_zh": "大顺势斩",
-    "description_zh": "你可以在一击中攻击数个邻近的敌人。",
+    "text_zh": "你可以在一击中攻击数个邻近的敌人。",
     "prerequisites_zh": "力量13，顺势斩，猛力攻击，基本攻击加值+4。",
     "benefit_zh": "你可以用一个标准动作，使用最高BAB对一个近战攻击范围内的敌人进行一次攻击。若命中，则你可以继续对临近前一个敌人的敌人进行攻击，该敌人也同样需在你的触及范围内；如此进行下去。你以此能力对每个敌人仅能攻击1次。当你使用此专长时，你在下轮前AC受-2减值。"
 }

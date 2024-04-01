@@ -3,7 +3,7 @@
     "name": "Rallying Blow",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rallying%20Blow",
     "source": ["Pathfinder #81: Shifting Sands pg. 73"],
-    "description": "When you strike true in battle, you wash away allies’ fear.",
+    "text": "When you strike true in battle, you wash away allies’ fear.",
     "prerequisites": "Aura of courage.",
     "benefit": "When you confirm a critical hit against an enemy, any fear effect affecting allies within 30 feet is reduced by one step. Panicked becomes frightened, frightened becomes shaken, and shaken is removed. In addition, any ally suffering other effects from a failed save against a fear effect, such as the paralysis from a mummy’s despair aura, receives a new save against the effect at the original DC."
 }

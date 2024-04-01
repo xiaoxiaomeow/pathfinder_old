@@ -3,12 +3,12 @@
     "name": "Moonlight Summons",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Moonlight%20Summons",
     "source": ["Ultimate Magic pg. 153"],
-    "description": "Your summoned minions are infused with the power of the moon.",
-    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature's ally<\/i>.",
+    "text": "Your summoned minions are infused with the power of the moon.",
+    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature’s ally<\/i>.",
     "benefit": "Creatures you summon shed light as a <i>light <\/i>spell. They are immune to confusion and sleep effects, and their natural weapons are treated as silver for the purposes of overcoming damage reduction.",
     "prerequisiteKeys": ["spell focus"],
     "name_zh": "月光召唤",
-    "description_zh": "你所召唤的仆从被注入了月亮的力量。",
+    "text_zh": "你所召唤的仆从被注入了月亮的力量。",
     "prerequisites_zh": "法术专攻（咒法系），能够施展‘召唤自然盟友’。",
     "benefit_zh": "你所召唤的生物如同被施展了‘光亮术’一般散发着光芒。它们免疫困惑和睡眠效果，并且其天生武器在克服伤害减免时被视为银。"
 }

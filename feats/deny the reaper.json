@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deny%20the%20Reaper",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 68"],
-    "description": "The lives you could not save stay with you to your final breath.",
+    "text": "The lives you could not save stay with you to your final breath.",
     "prerequisites": "You must have witnessed the death of a close companion in battle—a death that could have been prevented, such as from bleeding, failure to stabilize, or ongoing poison damage—or have the Death in the Family or The War background.",
-    "benefit": "You gain a +2 bonus on Heal checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit."
+    "benefit": "You gain a +2 bonus on Heal checks. If you have 10 or more ranks in Heal, this bonus increases to +4. You can apply first aid as a move action and don’t take a penalty when treating deadly wounds without a healing kit.",
+    "goal": "Bring an ally back from the dead, including by using <i>breath of life<\/i> or <i>reincarnate<\/i>.",
+    "completionBenefit": "You and each ally within 10 feet of you gain a +2 bonus on saves against death effects. In addition, once per day you can spontaneously convert any 5th-level or higher conjuration (healing) spell into <i>breath of life<\/i>.",
+    "name_zh": "救死决毅",
+    "text_zh": "",
+    "prerequisites_zh": "你曾目睹一位亲友的死亡——该死亡本可避免，譬如由于出血、稳定伤势检定失败、毒素作用等；或拥有“家人逝去（Death in the Family）”、“生于战乱（The War）”等角色背景之一。",
+    "benefit_zh": "你的医疗检定+2。如果你在医疗技能受训10级以上，该加值升至+4。你能够通过移动动作施展急救，并不会因缺少医疗工具包而在急救时承受减值。",
+    "goal_zh": "拯救一位同伴起死回生，包括利用‘生命之息’、‘转生术’等法术。",
+    "completionBenefit_zh": "你和位于你10尺以内的同伴对抗即死效果的豁免+2。此外，每日1次，你可以将任何5级以上法术自发转化为‘生命之息’法术。"
 }

@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crane%20Wing",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 93"],
-    "description": "You move with the speed and finesse of an avian hunter, your sweeping blocks and graceful motions allowing you to deflect melee attacks with ease. ",
+    "text": "You move with the speed and finesse of an avian hunter, your sweeping blocks and graceful motions allowing you to deflect melee attacks with ease. ",
     "prerequisites": "Crane Style, Dodge, Improved Unarmed Strike, base attack bonus +5 or monk level 5th.",
     "benefit": "When fighting defensively with at least one hand free, you gain a +4 dodge bonus to AC against melee attacks. If a melee attack misses you by 4 or less, you lose this dodge bonus until the beginning of your next turn. If you are using the total defense action instead, you can deflect one melee attack that would normally hit you. An attack so deflected deals no damage and has no other effect (instead treat it as a miss). You do not expend an action when using this feat, but you must be aware of the attack and not flat-footed.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "When fighting defensively with at least one hand free, you can spend 5 stamina points to designate a second opponent for your Crane Wing feat. You also gain a +2 dodge bonus to AC against that opponent’s attacks.",
     "prerequisiteKeys":     [
         "crane style",
@@ -15,7 +15,7 @@
         "improved unarmed strike"
     ],
     "name_zh": "白鹤亮翅",
-    "description_zh": "你以禽鸟般的速度和巧劲移动，并用挥洒自如的优雅动作挡开敌人的攻击。",
+    "text_zh": "你以禽鸟般的速度和巧劲移动，并用挥洒自如的优雅动作挡开敌人的攻击。",
     "prerequisites_zh": "白鹤拳，闪避，精通徒手打击，基本攻击加值+5或武僧5级。",
     "benefit_zh": "当你至少空一只手进行防御式战斗时，你会在对抗近战攻击的AC上获得+4闪避加值。如果一次对你发动的近战攻击失手并检定结果比你的AC低不超过4点，则你将失去上述的好处。当你进行全防御动作时，你可以偏斜一次命中你的近战武器攻击。以此法偏斜的近战攻击不造成伤害和其它效果（而非直接丢失）。使用此专长无需动作，但你必须察觉到该次攻击且不处于措手不及中。"
 }

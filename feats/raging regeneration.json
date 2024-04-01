@@ -4,8 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Regeneration",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 224"],
-    "description": "Your rage pushes your ability to regenerate beyond its normal limits.",
+    "text": "Your rage pushes your ability to regenerate beyond its normal limits.",
     "prerequisites": "Rage class ability, regeneration, troll.",
     "benefit": "While you are raging, fire and acid damage don’t make your regeneration stop functioning on the round following the attack, and instead reduce the number of hit points regained by regeneration each round by 2 until the end of your next turn.",
-    "normal": "Acid and fire damage cause your regeneration to stop functioning on the round following the attack."
+    "normal": "Acid and fire damage cause your regeneration to stop functioning on the round following the attack.",
+    "name_zh": "狂暴再生",
+    "text_zh": "狂暴的野性催化你的再生能力，使其无法被阻止。",
+    "prerequisites_zh": "狂暴职业能力，再生，巨魔",
+    "benefit_zh": "当你进入狂暴状态时，你的再生能力将不会被造成火焰和强酸伤害的攻击在当轮压制。但是，在你的下一回合结束前，你通过再生能力恢复的生命值会每轮降低2点。",
+    "special_zh": "你的再生能力会因为受到火焰和强酸伤害而在下一回合中停止生效。"
 }

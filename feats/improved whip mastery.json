@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Whip%20Mastery",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 106"],
-    "description": "You are able to entangle opponents with the coils of your whip.",
+    "text": "You are able to entangle opponents with the coils of your whip.",
     "prerequisites": "Weapon Focus (whip), Whip Mastery, base attack bonus +5.",
     "benefit": "While wielding a whip, you threaten the area of your natural reach plus 5 feet. You can also use a whip to grasp an unattended Small or Tiny object within your whip’s reach and pull that object into your square. To do so, you must hit AC 10 with a melee touch attack. Further, you can use the whip to grasp onto an object within your whip’s reach, using 5 feet of your whip as if it were a grappling hook, allowing you to use the rest of your whip to swing on like a rope. As a free action, you can release the object your whip is grasping, but you cannot use the whip to attack while the whip is grasping an object.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "At the start of your turn, you can spend 5 stamina points to increase the radius of the area you threaten while wielding a whip by an additional 5 feet until you make an attack against an opponent in the expanded reach or the beginning of your next turn, whichever comes first.",
     "prerequisiteKeys":     [
         "weapon focus",
         "whip mastery"
     ],
     "name_zh": "精通长鞭熟稔",
-    "description_zh": "你可以用长鞭环绕并纠缠敌人。【译者吐槽：扯淡吧那里说到能纠缠敌人了？！】",
+    "text_zh": "你可以用长鞭环绕并纠缠敌人。【译者吐槽：扯淡吧那里说到能纠缠敌人了？！】",
     "prerequisites_zh": "武器专攻（长鞭），长鞭熟稔，基本攻击加值+5。",
     "benefit_zh": "当持用长鞭时，你的威胁范围为天生触及外加5尺。你能用长鞭抓起触及范围内的一件小型或超小型无主物品，将其拖到你所在的方格。如此施为你需要进行AC为10的近战接触攻击。此外，你能用长鞭钩住它触及范围内的一件物体，将它5尺长的一段当作抓钩来使用，令你能够把长鞭的剩余部分当作绳索般摇荡。你能以自由动作放开钩住的物体，但你不能在长鞭正钩在物体上的时候用它攻击。"
 }

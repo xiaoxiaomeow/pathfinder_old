@@ -3,12 +3,13 @@
     "name": "Ferocious Resolve",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ferocious%20Resolve",
     "source": ["Advanced Race Guide pg. 57"],
-    "description": "Your orc heritage allows you to fight on.",
+    "text": "Your orc heritage allows you to fight on.",
     "prerequisites": "Con 13, half-orc, orc ferocity racial trait.",
     "benefit": "You gain the ferocity universal monster ability, allowing you to continue fighting at negative hit points. When using this ability, you gain a +2 bonus on Intimidate checks.",
     "normal": "A half-orc with the orc ferocity racial trait can fight for 1 more round after he is brought below 0 hit points.",
     "name_zh": "凶暴决意",
-    "description_zh": "你的兽人血脉允许你持续作战。",
+    "text_zh": "你的兽人血脉允许你持续作战。",
     "prerequisites_zh": "体质13，半兽人，【兽人凶猛】种族特性。",
-    "benefit_zh": "你获得“凶猛”通用怪物特性，这使你能够在HP降至负值之后继续战斗。当使用该能力时，你的威吓检定获得+2加值。<\/p><p>通常状况：半兽人的【兽人凶猛】种族特性只允许他在HP降至负值后战斗1轮。<\/p><p>【特性速查】凶猛（Ferocity, Ex）：拥有凶猛能力的生物即使在HP达到0以下，也可以保持清醒并且继续战斗。该生物还是会在HP低于0时进入恍惚状态并且每轮失去1点HP。拥有凶猛能力的生物在HP降到负体质值时还是会死亡。"
+    "benefit_zh": "你获得“凶猛”通用怪物特性，这使你能够在HP降至负值之后继续战斗。当使用该能力时，你的威吓检定获得+2加值。",
+    "normal_zh": "半兽人的【兽人凶猛】种族特性只允许他在HP降至负值后战斗1轮。<\/p><p>【特性速查】凶猛（Ferocity, Ex）：拥有凶猛能力的生物即使在HP达到0以下，也可以保持清醒并且继续战斗。该生物还是会在HP低于0时进入恍惚状态并且每轮失去1点HP。拥有凶猛能力的生物在HP降到负体质值时还是会死亡。"
 }

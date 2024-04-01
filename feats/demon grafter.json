@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Demon%20Grafter",
     "descriptors": ["Item Creation"],
     "source": ["Pathfinder #74: Sword of Valor pg. 73"],
-    "description": "Your studies into demonic anatomy and physiology allow you to graft their immortal tissues onto mortal flesh.",
+    "text": "Your studies into demonic anatomy and physiology allow you to graft their immortal tissues onto mortal flesh.",
     "prerequisites": "Demonologist, Heal 5 ranks, Knowledge (planes) 5 ranks, Spellcraft 5 ranks.",
     "benefit": "You gain a +2 bonus on Heal checks regarding evil outsiders or creatures that already have a demonic graft. In addition, you can create demonic implants (see page 12) as if you had the Craft Wondrous Item feat, using your ranks in Heal as your caster level. The DC to create the item still increases for any necessary spell requirements (see the magic item creation rules in Chapter 15 of the <i>Pathfinder RPG Core Rulebook<\/i>).",
     "prerequisiteKeys": ["demonologist"]

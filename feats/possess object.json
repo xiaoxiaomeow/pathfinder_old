@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Possess%20Object",
     "descriptors": ["Monster"],
     "source": ["Pathfinder #28: The Infernal Syndrome pg. 58"],
-    "description": "A fiend gains the power to bind its malign essence to a single object, corrupting it into a relic of undeniable evil.",
+    "text": "A fiend gains the power to bind its malign essence to a single object, corrupting it into a relic of undeniable evil.",
     "prerequisites": "Cha 18, any evil outsider with 9 or more Hit Dice.",
     "benefit": "Once per day, as a full-round action, a fiend can possess a Large or smaller object. Unattended, a mundane object receives no saving throw against possession, while an attended object uses its owner's saving throw to make a Will save equal to 10 + half the fiend's Hit Dice + the fiend's Charisma modifier. Magic items save as if they were subject to a spell. Items within the area of effect of a <i>hallow<\/i> spell cannot be possessed. This effect is similar to that detailed in the Possess Creature feat, except that objects do not receive a daily save to escape the fiend's influence and the fiend's possession points can only be spent on object-possession actions.<br><br> Should a possessed object be destroyed, the fiend is ejected, retakes its original form in an adjacent space, and is stunned for 1 round. <i>Dispel evil<\/i> (or <i>dispel chaos<\/i> or <i>dispel law<\/i>, depending on the fiend) can eject a fiend, but the caster must succeed at a caster level check with a DC equal to 10 + the HD of the possessing fiend + the fiend's Cha modifier. <i>Banishment<\/i> and <i>dismissal<\/i> immediately eject a fiend from an object if it fails to make its saving throw against the spell's effects."
 }

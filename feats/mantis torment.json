@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mantis%20Torment",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 108"],
-    "description": "Your knowledge of the mysteries of anatomy allows you to cause debilitating pain with a simple touch.",
+    "text": "Your knowledge of the mysteries of anatomy allows you to cause debilitating pain with a simple touch.",
     "prerequisites": "Heal 9 ranks, Improved Unarmed Strike, Mantis Style, Mantis Wisdom, Stunning Fist.",
     "benefit": "You gain one additional Stunning Fist attempt per day. While using Mantis Style, you make an unarmed attack that expends two daily attempts of your Stunning Fist. If you hit, your opponent must succeed at a saving throw against your Stunning Fist or become dazzled and staggered with crippling pain until the start of your next turn, and at that point the opponent becomes fatigued.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "Instead of expending two uses of Stunning Fist to make the Mantis Torment unarmed strike, you can choose to spend either 5 stamina points or one use of Stunning Fist and 2 stamina points.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
@@ -16,7 +16,7 @@
         "stunning fist"
     ],
     "name_zh": "螳螂铁刺",
-    "description_zh": "你对解剖知识的了然于心，使你的轻轻一触即可带来巨大痛苦。",
+    "text_zh": "你对解剖知识的了然于心，使你的轻轻一触即可带来巨大痛苦。",
     "prerequisites_zh": "精通徒手打击，震慑拳，螳螂拳，六合拳劲，医疗9级。",
     "benefit_zh": "你获得1次“震慑拳”每日使用次数。当你使用螳螂拳流派架势时，你可以消耗2发“震慑拳”进行一次徒手攻击，若然命中且对手豁免失败（使用你的震慑拳豁免），在你下一轮开始前对手会因剧痛而陷入目眩和恍惚状态，你下轮开始后，对手变成疲乏状态。"
 }

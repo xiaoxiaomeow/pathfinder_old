@@ -3,7 +3,11 @@
     "name": "Distant Delivery",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Distant%20Delivery",
     "source": ["Occult Adventures pg. 132"],
-    "description": "Your phantom can deliver spells at a greater range than usual.",
+    "text": "Your phantom can deliver spells at a greater range than usual.",
     "prerequisites": "Phantom class feature, phantom with the deliver touch spells ability.",
-    "benefit": "The distance from you at which your phantom can deliver touch spells increases by 20 feet."
+    "benefit": "The distance from you at which your phantom can deliver touch spells increases by 20 feet.",
+    "name_zh": "延伸传法",
+    "text_zh": "你的魅影能够在比平时更远的范围传递法术。",
+    "prerequisites_zh": "魅影（Phantom）职业能力，魅影具有传递法术（Deliver Touch Spell）的能力",
+    "benefit_zh": "当你通过魅影传递接触法术时，你与魅影之间的最大距离增加20尺。"
 }

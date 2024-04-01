@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Arcane%20Armor%20Mastery",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 118"],
-    "description": "You have mastered the ability to cast spells while wearing armor.",
+    "text": "You have mastered the ability to cast spells while wearing armor.",
     "prerequisites": "Arcane Armor Training, Medium Armor Proficiency, caster level 7th.",
     "benefit": "As a swift action, reduce the arcane spell failure chance due to the armor you are wearing by 20% for any spells you cast this round. This bonus replaces, and does not stack with, the bonus granted by Arcane Armor Training.",
-    "staminaSource": ["Pathfinder Unchained pg. 113"],
+    "staminaSource": "Pathfinder Unchained pg. 113",
     "staminaText": "When casting a spell while wearing armor, you can spend 1 stamina point to activate Arcane Armor Mastery as a free action, or spend a number of stamina points equal to the spell’s level (minimum 1) to ignore your armor’s arcane spell failure chance entirely for that casting.",
     "prerequisiteKeys": ["arcane armor training"],
     "name_zh": "披甲奥术熟稔",
-    "description_zh": "你掌握在身着盔甲的时候施法的能力。",
+    "text_zh": "你掌握在身着盔甲的时候施法的能力。",
     "prerequisites_zh": "披甲奥术训练，擅长中型盔甲，施法者等级7级。",
     "benefit_zh": "通过一个迅捷动作，对于本轮所有法术，减少由穿戴盔甲带来的施法失败机率20%。本效果取代“披甲奥术训练”专长的效果而非叠加。"
 }

@@ -3,7 +3,7 @@
     "name": "Sacred Pyromania",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sacred%20Pyromania",
     "source": ["Heroes of Golarion pg. 10"],
-    "description": "Your faith in Sarenrae and the power of flame allows you to lace fire with holy power and burn things that normally can’t be burned.",
+    "text": "Your faith in Sarenrae and the power of flame allows you to lace fire with holy power and burn things that normally can’t be burned.",
     "prerequisites": "Goblin, worshipper of <DEITIES%SARENRAE\">Sarenrae<\/a>.",
     "benefit": "Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical. An incorporeal creature’s 50% reduction in damage from corporeal sources does not apply to any fire damage that you deal."
 }

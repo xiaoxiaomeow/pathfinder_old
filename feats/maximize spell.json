@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Maximize%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["PRPG Core Rulebook pg. 130"],
-    "description": "Your spells have the maximum possible effect.",
+    "text": "Your spells have the maximum possible effect.",
     "benefit": "All variable, numeric effects of a spell modified by this feat are maximized. Saving throws and opposed rolls are not affected, nor are spells without random variables. A maximized spell uses up a spell slot three levels higher than the spell's actual level.<br><br>An empowered, maximized spell gains the separate benefits of each feat: the maximum result plus half the normally rolled result.",
     "name_zh": "法术极效",
-    "description_zh": "你可以将法术的效果发挥到最大。",
+    "text_zh": "你可以将法术的效果发挥到最大。",
     "benefit_zh": "搭配本专长时，法术效果中所有变量皆以最大值计算。豁免检定和对抗检定不受影响。法术若无变动数值则无影响。极效的法术须占用高于原本3个环位的法术位。配合“法术强效”和“法术极效”的法术，可分别获得两个专长的效果，也就是将检定结果的最大值加上正常检定结果的一半。"
 }

@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wingover",
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 316"],
-    "description": "This creature can make turns with ease while flying.",
+    "text": "This creature can make turns with ease while flying.",
     "prerequisites": "Fly speed.",
     "benefit": "Once each round, a creature with this feat can turn up to 180 degrees as a free action without making a Fly skill check. This free turn does not consume any additional movement from the creature.",
     "normal": "A flying creature can turn up to 90 degrees by making a DC 15 Fly skill check and expending 5 feet of movement. A flying creature can turn up to 180 degrees by making a DC 20 Fly skill check and expending 10 feet of movement.",
     "name_zh": "侧滑飞行",
-    "description_zh": "这个生物可以在飞行的时候急转弯。",
+    "text_zh": "这个生物可以在飞行的时候急转弯。",
     "prerequisites_zh": "拥有飞行速度。",
-    "benefit_zh": "每轮1次，拥有此专长的生物能以一个自由动作，在飞行时做180度急转弯而无需进行飞行技能检定，这次转向不需要消耗该生物的任何移动。<\/p><p>通常状况：一个飞行生物如果要在飞行时进行90度转弯，它需要进行一个DC15的飞行检定且消耗5尺移动。如果要进行180度转弯，生物需要进行一个DC20的飞行检定且消耗10尺移动。"
+    "benefit_zh": "每轮1次，拥有此专长的生物能以一个自由动作，在飞行时做180度急转弯而无需进行飞行技能检定，这次转向不需要消耗该生物的任何移动。",
+    "normal_zh": "一个飞行生物如果要在飞行时进行90度转弯，它需要进行一个DC15的飞行检定且消耗5尺移动。如果要进行180度转弯，生物需要进行一个DC20的飞行检定且消耗10尺移动。"
 }

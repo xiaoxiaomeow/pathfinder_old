@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Moonlight%20Stalker",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 110"],
-    "description": "You are adept at using shadows to conceal your attacks.",
+    "text": "You are adept at using shadows to conceal your attacks.",
     "prerequisites": "Int 13, Blind-Fight, Combat Expertise, Bluff 3 ranks, darkvision or low-light vision racial trait.",
     "benefit": "While you have concealment from an opponent, you gain a +2 bonus on attack and damage rolls against that opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "When you have total concealment from an opponent, you can spend 2 stamina points to increase your bonuses on attack and damage rolls from this feat to +4.",
     "prerequisiteKeys":     [
         "blind-fight",
         "combat expertise"
     ],
     "name_zh": "月夜伏击者",
-    "description_zh": "你善于利用阴影来隐藏自己的攻击。",
+    "text_zh": "你善于利用阴影来隐藏自己的攻击。",
     "prerequisites_zh": "智力13，盲斗，寓守于攻，唬骗3级，【黑暗视觉】或【昏暗视觉】种族特性。",
     "benefit_zh": "当你对一个对手获得隐蔽，你对其的攻击检定和伤害骰有+2加值。"
 }

@@ -3,8 +3,12 @@
     "name": "Angelbane Strike",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Angelbane%20Strike",
     "source": ["Monster Codex pg. 32"],
-    "description": "You channel the power of your Abyssal patron through your weapon to punish the righteous.",
+    "text": "You channel the power of your Abyssal patron through your weapon to punish the righteous.",
     "prerequisites": "Channel Smite, divine caster level 5th, channel negative energy class feature, demon lord patron deity.",
     "benefit": "When you use Channel Smite against a living creature with a good alignment, you treat all 1s on the channel smite damage dice as 2s.<br><br> If your target is either a good outsider or a divine caster who serves a good deity, you are considered 2 levels higher when determining how many channel energy damage dice you roll when using Channel Smite.",
-    "prerequisiteKeys": ["channel smite"]
+    "prerequisiteKeys": ["channel smite"],
+    "name_zh": "屠圣之刃",
+    "text_zh": "你呼唤来自深渊的大能，聚集邪力斩杀正义的使者。",
+    "prerequisites_zh": "引导打击，神术施法者5级，引导负能量职业能力，信仰恶魔领主之一",
+    "benefit_zh": "当你使用引导打击攻击一个善良阵营的活物时，你可以将引导打击所有伤害骰中为1的结果视为2。<\/p><p>除此之外，如果你的目标是一个善良异界生物或是侍奉善良神祇的神术施法者，那么你在发动引导打击时，视为你的拥有引导能量的职业等级+2来决定你的引导能量骰数。"
 }

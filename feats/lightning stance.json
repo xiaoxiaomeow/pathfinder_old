@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Stance",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 130"],
-    "description": "The speed at which you move makes it nearly impossible for opponents to strike you.",
+    "text": "The speed at which you move makes it nearly impossible for opponents to strike you.",
     "prerequisites": "Dex 17, Dodge, Wind Stance, base attack bonus +11.",
     "benefit": "If you take two actions to move or a withdraw action in a turn, you gain 50% concealment for 1 round.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "When you take a single move action and move no less than your speed, you can spend 5 stamina points to benefit from a 50% miss chance until the start of your next turn.",
     "prerequisiteKeys":     [
         "dodge",
         "wind stance"
     ],
     "name_zh": "闪电步",
-    "description_zh": "你移动起来的非凡速度令敌人难以攻击。",
+    "text_zh": "你移动起来的非凡速度令敌人难以攻击。",
     "prerequisites_zh": "敏捷17，闪避，疾风步，基本攻击加值+11。",
     "benefit_zh": "若你在一轮中花费2个动作进行移动或一个撤退动作，则你在一轮中获得50%隐蔽。"
 }

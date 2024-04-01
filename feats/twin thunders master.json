@@ -4,17 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Twin%20Thunders%20Master",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
-    "description": "With thunderous simultaneous strikes, you can batter a mighty giant into submission.",
+    "text": "With thunderous simultaneous strikes, you can batter a mighty giant into submission.",
     "prerequisites": "Dwarf or gnome; defensive training racial trait; Improved Two-Weapon Fighting and Two-Weapon Fighting, or flurry of blows class feature; Twin Thunders; Twin Thunders Flurry; Weapon Focus with both wielded weapons; base attack bonus +9.",
     "benefit": "Whenever you deal an opponent extra damage with the Twin Thunders feat, that opponent is shaken for 1 round. You also force that opponent to succeed at a Fortitude saving throw (DC 10 + half your level + your Str modifier) or become staggered for 1 round. If you use this feat to render staggered an opponent that is already staggered, you daze that opponent instead. In a similar way, you can stun an opponent that is already dazed.",
-    "staminaSource": ["Pathfinder Unchained pg. 134"],
+    "staminaSource": "Pathfinder Unchained pg. 134",
     "staminaText": "When you use the Twin Thunders<sup>UC<\/sup> feat to deal extra damage to an opponent, you can spend 2 stamina points to make that opponent shaken for 1d4 rounds.",
     "prerequisiteKeys":     [
         "twin thunders flurry",
-        "twin thunders"
+        "twin thunders",
+        "weapon focus"
     ],
     "name_zh": "雷霆大师",
-    "description_zh": "你能以雷霆之击压倒最强大的巨人。",
+    "text_zh": "你能以雷霆之击压倒最强大的巨人。",
     "prerequisites_zh": "矮人或侏儒，【防御训练】种族特性，进阶双武器格斗、双武器格斗或【疾风连击】职业特性，雷霆双击，雷霆连击，武器专攻（当前持用的两种武器），基本攻击加值+9。",
     "benefit_zh": "每当你通过“雷霆双击”专长造成额外伤害，对手颤栗1轮，且须通过DC为“10+1/2你的等级+力量修正”的强韧豁免，否则恍惚1轮。若你对已经处于恍惚的对手成功使用本专长，他将晕眩1轮。你还能类似地让已经晕眩的对手震慑。"
 }

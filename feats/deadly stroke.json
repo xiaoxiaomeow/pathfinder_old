@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Stroke",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 121"],
-    "description": "With a well-placed strike, you can bring a swift and painful end to most foes.",
+    "text": "With a well-placed strike, you can bring a swift and painful end to most foes.",
     "prerequisites": "Dazzling Display, Greater Weapon Focus, Shatter Defenses, Weapon Focus, proficiency with the selected weapon, base attack bonus +11.",
     "benefit": "As a standard action, make a single attack with the weapon for which you have Greater Weapon Focus against a stunned or flat-footed opponent. If you hit, you deal double the normal damage and the target takes 1 point of Constitution bleed (see Conditions). The additional damage and bleed is not multiplied on a critical hit.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "You can spend 5 stamina points to make a Deadly Stroke attack against a dazed opponent, or 10 stamina points to make a Deadly Stroke against an opponent you are flanking.",
-    "mythicSource": ["Mythic Adventures pg. 62"],
-    "mythicDescription": "You can kill with a single stroke.",
-    "mythicPrerequisites": "Deadly Stroke.<br><br",
+    "mythicSource": "Mythic Adventures pg. 62",
+    "mythicText": "You can kill with a single stroke.",
+    "mythicPrerequisites": "Deadly Stroke.",
     "mythicBenefit": "When making a Deadly Stroke attack, you can expend one use of mythic power to instantly kill a nonmythic living creature. A Fortitude save (DC 10 + your base attack bonus + your tier) negates this effect, though the attack still deals double damage and Con bleed as Deadly Stroke. Constructs, oozes, and creatures immune to critical hits or precision-based damage can’t be killed with this feat.",
     "prerequisiteKeys":     [
         "dazzling display",
@@ -20,7 +20,7 @@
         "weapon focus"
     ],
     "name_zh": "致命绝杀",
-    "description_zh": "你能用一次精确的击打，快速而致命的终结你的敌人。",
+    "text_zh": "你能用一次精确的击打，快速而致命的终结你的敌人。",
     "prerequisites_zh": "炫目技巧，高等武器专攻，粉碎打击，武器专攻，擅长对应的武器，基本攻击加值+11。",
     "benefit_zh": "作为一个标准动作，以你所拥有“高等武器专攻”专长的武器，对一个处于震慑或措手不及状态的敌人做出攻击。如果击中，将造成双倍普通伤害以及1点体质出血。额外伤害和出血不会因重击而加倍。"
 }

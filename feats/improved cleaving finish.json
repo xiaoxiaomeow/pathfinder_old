@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Cleaving%20Finish",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 105"],
-    "description": "You can cut down many opponents in a single strike.",
+    "text": "You can cut down many opponents in a single strike.",
     "prerequisites": "Str 13, Cleave, Cleaving Finish, Great Cleave, Power Attack, base attack bonus +6.",
     "benefit": "You can use Cleaving Finish any number of times per round.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "Once per round when you confirm a critical hit, you can spend 5 stamina points to treat that attack as if you reduced the target to 0 or fewer hit points for the purpose of using the Cleaving Finish<sup>UC<\/sup> feat.",
     "prerequisiteKeys":     [
         "cleave",
@@ -16,7 +16,7 @@
         "power attack"
     ],
     "name_zh": "精通终势斩",
-    "description_zh": "你仅用一次攻击就能收割掉一大堆敌人。",
+    "text_zh": "你仅用一次攻击就能收割掉一大堆敌人。",
     "prerequisites_zh": "力量13，顺势斩，终势斩，大顺势斩，猛力攻击，基本攻击加值+6。",
     "benefit_zh": "当你使用“终势斩”时没有每轮次数限制。"
 }

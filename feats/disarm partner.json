@@ -7,7 +7,11 @@
         "Teamwork"
     ],
     "source": ["Monster Codex pg. 93"],
-    "description": "When your ally fails to disarm an opponent within your reach, you can try to disarm that same foe.",
+    "text": "When your ally fails to disarm an opponent within your reach, you can try to disarm that same foe.",
     "prerequisites": "Base attack bonus +1.",
-    "benefit": "When an ally with this feat fails a disarm combat maneuver check made on his turn against an opponent within your melee reach, as an immediate action you can attempt a disarm combat maneuver check against that foe."
+    "benefit": "When an ally with this feat fails a disarm combat maneuver check made on his turn against an opponent within your melee reach, as an immediate action you can attempt a disarm combat maneuver check against that foe.",
+    "name_zh": "协同卸武",
+    "text_zh": "当你的没有没能成功的卸下敌人的武器时，你可以顺手再尝试一次。",
+    "prerequisites_zh": "基础攻击加值+1",
+    "benefit_zh": "当一个拥有本专长的盟友在对一个处于你触及范围内的目标发动一次卸武战技攻击并失败时，你可以以一个直觉动作立刻对这个目标发动一次卸武战技攻击尝试。"
 }

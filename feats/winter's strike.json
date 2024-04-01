@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Winter's%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 159"],
-    "description": "Your attacks afflict your foes with the relentless fatigue of a winter storm.",
+    "text": "Your attacks afflict your foes with the relentless fatigue of a winter storm.",
     "prerequisites": "Nature Magic or the ability to cast druid or ranger spells; Vital Strike, Knowledge (nature) 5 ranks.",
     "benefit": "A number of times per day equal to your Wisdom modifier (minimum 1), when you use Vital Strike (or Improved Vital Strike or Greater Vital Strike), your strike saps the strength of your opponent. The creature hit must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Wisdom modifier) or become fatigued for a number of rounds equal to your Wisdom modifier (minimum 1). You can choose to use this ability as a free action after you hit the target with the attack. This is a supernatural ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "nature magic",
         "vital strike"
-    ]
+    ],
+    "name_zh": "严冬之击",
+    "text_zh": "无情的寒风从你的武器上流出，吸走了敌人身体中的能量。",
+    "prerequisites_zh": "自然魔法（Nature Magic）专长或可以施放游侠或德鲁伊法术；暴击，知识（自然）技能5级。",
+    "benefit_zh": "每天最多相当于你的感知调整值（最小为1）次，每当你发动一次暴击（或是精通暴击和高等暴击）攻击时，被你击中的生物必须通过一个强韧检定（DC=10+你人物等级的一半+你的感知调整值）否则否则将会疲乏相当于你的感知调整值轮（最小1轮）时间，你可以在攻击命中目标时以一个自由动作发动这个专长的效果，这是一个超自然能力。"
 }

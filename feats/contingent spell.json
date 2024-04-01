@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Contingent%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Healer's Handbook pg. 14"],
-    "description": "Ability to cast cure spells (a cure spell is any spell with “cure” in its name).",
+    "text": "Ability to cast cure spells (a cure spell is any spell with “cure” in its name).",
     "prerequisites": "Ability to cast cure spells (a cure spell is any spell with “cure” in its name).",
     "benefit": "A contingent spell infuses a target with a dormant healing or restorative spell that can trigger when the target needs it the most. This metamagic feat can be applied to only cure spells; <i>breath of life<\/i>; or any harmless spell that can be used to remove ability score damage, ability score drain, or a negative condition or effect (including <i>break enchantment<\/i>, <i>neutralize poison<\/i>, and <i>remove disease<\/i>). When you cast a contingent spell, you must set a specific trigger that dictates under what circumstances the target is immediately subject to the spell’s effects (for instance, “When the target dies, <i>breath of life<\/i> takes effect”). The contingent spell’s effects can remain dormant within the target for up to 10 minutes per caster level you have. A creature can be infused with only one contingent spell at a time.<br><br> A contingent spell uses up a spell slot 2 levels higher than the spell’s actual level."
 }

@@ -3,8 +3,12 @@
     "name": "Orator",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Orator",
     "source": ["Advanced Class Guide pg. 152"],
-    "description": "You’re able to construct statements and commands that are much more convincing than their content would otherwise suggest.",
+    "text": "You’re able to construct statements and commands that are much more convincing than their content would otherwise suggest.",
     "prerequisites": "Skill Focus (Linguistics).",
     "benefit": "You can use a Linguistics check in place of a Bluff check to tell a falsehood or conceal information, in place of a Diplomacy check to change the attitude of a creature, or in place of an Intimidate check to force a creature to cooperate. You must deliver your attempt in a language the target understands.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "雄辩家",
+    "text_zh": "你擅长于讲演和话术，利用精巧堆砌的辞藻和语调导向你的目标。",
+    "prerequisites_zh": "技能专攻（语言学）",
+    "benefit_zh": "你可以使用语言学检定以替代唬骗检定来说谎或掩饰信息；替代交涉检定来改变生物的态度，或是替代威吓检定以强迫生物合作。你必须使用可以和目标交流的语言。"
 }

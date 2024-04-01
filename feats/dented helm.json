@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dented%20Helm",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
-    "description": " Your helm protects you from hard hits. ",
+    "text": " Your helm protects you from hard hits. ",
     "prerequisites": "Hard-Headed, base attack bonus +6, dwarf.",
     "benefit": "When wearing a helmet, you add +1 to your AC against critical hit confirmation rolls. When a critical hit is confirmed against you, as an immediate action, you can apply half of the damage from the attack to your helmet rather than yourself, applying hardness as normal. If the damage destroys your helmet, any leftover damage is applied to you. After using this feat, you are staggered until the end of your next turn. You may not use this feat if your helmet has the broken condition or the attack ignores armor bonuses to AC.",
-    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaSource": "Pathfinder Unchained pg. 117",
     "staminaText": "After using this feat, you can spend 5 stamina points to become sickened rather than staggered until the end of your next turn. You can’t use this ability if you are immune to being sickened.",
     "prerequisiteKeys": ["hard-headed"],
     "name_zh": "裂盔护体",
-    "description_zh": "你的头盔保护你免受重击。",
+    "text_zh": "你的头盔保护你免受重击。",
     "prerequisites_zh": "铁头，基本攻击加值+6，矮人。",
     "benefit_zh": "当你佩戴头盔时，你的AC在对抗重击确认检定时获得+1加值。当你受到重击并已确认时，以一个直觉动作，你能够将该次伤害的一半转由头盔承担，而非你本人，头盔的硬度如常作用。如果伤害足以毁坏你的头盔，任何超出的伤害将由你承担。在使用该专长之后，在你的下回合结束之前都将处于恍惚状态。你无法在头盔处于破损状态或者承受忽略AC上的护甲加值的攻击时使用该专长。"
 }

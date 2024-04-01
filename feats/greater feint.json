@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Feint",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 125"],
-    "description": "You are skilled at making foes overreact to your attacks.",
+    "text": "You are skilled at making foes overreact to your attacks.",
     "prerequisites": "Combat Expertise, Improved Feint, base attack bonus +6, Int 13.",
     "benefit": "Whenever you use feint to cause an opponent to lose his Dexterity bonus, he loses that bonus until the beginning of your next turn, in addition to losing his Dexterity bonus against your next attack.",
     "normal": "A creature you feint loses its Dexterity bonus against your next attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaSource": "Pathfinder Unchained pg. 121",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. If you have at least 1 point in your stamina pool, you can feint as a swift action, but the feint causes the opponent to become flat-footed only for your next attack rather than for all attacks until the beginning of your next turn.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved feint"
     ],
     "name_zh": "高等虚招",
-    "description_zh": "你擅长令敌人对你的攻击反应过度。",
+    "text_zh": "你擅长令敌人对你的攻击反应过度。",
     "prerequisites_zh": "寓守于攻，精通虚招，基本攻击加值+6，智力13。",
-    "benefit_zh": "当你对敌人使用虚招令其失去AC的敏捷加值时，他直到下轮你的行动开始时都失去该加值，而不是原本的仅持续到你的下一次攻击。<\/p><p>通常状况：被你的虚招误导的生物失去AC的敏捷加值，直到你的下一次攻击。"
+    "benefit_zh": "当你对敌人使用虚招令其失去AC的敏捷加值时，他直到下轮你的行动开始时都失去该加值，而不是原本的仅持续到你的下一次攻击。",
+    "normal_zh": "被你的虚招误导的生物失去AC的敏捷加值，直到你的下一次攻击。"
 }

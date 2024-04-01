@@ -3,7 +3,7 @@
     "name": "Daggermark Lore",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Daggermark%20Lore",
     "source": ["Advanced Class Origins pg. 26"],
-    "description": "You understand the exclusive poisons brewed by your guild far better than the buyers you sell to, and you can deliver them so they are more difficult to weather.",
-    "prerequisites": "Craft (alchemy) 5 ranks, member of the Daggermark Poisoner's Guild, poison lore or poison use class feature.",
+    "text": "You understand the exclusive poisons brewed by your guild far better than the buyers you sell to, and you can deliver them so they are more difficult to weather.",
+    "prerequisites": "Craft (alchemy) 5 ranks, member of the Daggermark Poisoner’s Guild, poison lore or poison use class feature.",
     "benefit": "Choose one poison. When you deliver that poison, the number of saves needed to cure it increases by 1, and the DC to cure it with <i>neutralize poison<\/i> increases by 5. Succeeding at the initial save still negates the poison. Typical poisons used by Daggermark poisoners are listed in <i>Pathfinder Player Companion: Alchemy Manual<\/i> and <i>Pathfinder Chronicles: Guide to the River Kingdoms<\/i>.<br><br> Additionally, if you have the poison lore class feature, you’re considered to have the poison use class feature for the purpose of meeting prerequisites."
 }

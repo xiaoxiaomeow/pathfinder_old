@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Teleportation%20Mastery",
     "descriptors": ["Item Mastery"],
     "source": ["Weapon Master's Handbook pg. 27"],
-    "description": "You can coax teleportation from conjuration magic items.",
+    "text": "You can coax teleportation from conjuration magic items.",
     "prerequisites": "Use Magic Device 4 ranks, base Fortitude save bonus +6.",
     "benefit": "You can cause an item that has a conjuration spell of 3rd level or higher in its construction requirements to cast <i>dimension door<\/i>. You can use this ability once per day, plus an additional time per day at base Fortitude save bonus +9 and +12."
 }

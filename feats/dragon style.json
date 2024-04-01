@@ -7,15 +7,16 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 98"],
-    "description": "You call upon the spirit of dragonkind, gaining greater resilience, mobility, and fierceness from the blessing of these great beings. ",
+    "text": "You call upon the spirit of dragonkind, gaining greater resilience, mobility, and fierceness from the blessing of these great beings. ",
     "prerequisites": "Str 15, Improved Unarmed Strike, Acrobatics 3 ranks.",
     "benefit": "While using this style, you gain a +2 bonus on saving throws against sleep effects, paralysis effects, and stunning effects. You ignore difficult terrain when you charge, run, or withdraw. You can also charge through squares that contain allies. Further, you can add 1-1/2 times your Strength bonus on the damage roll for your first unarmed strike on a given round.",
     "normal": "You cannot charge or run through difficult terrain, and you cannot charge through a square that contains an ally. With an unarmed strike, you usually add your Strength bonus on damage rolls.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "On your second and all subsequent unarmed strike attacks made in a round, you can spend 3 stamina points before making each attack to add 1-1/2 times your Strength modif ier to that attack’s damage roll.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "龙形拳",
-    "description_zh": "你呼唤龙族之灵，从这些伟大存在中获得了巨大的韧性、机敏和狂烈。",
+    "text_zh": "你呼唤龙族之灵，从这些伟大存在中获得了巨大的韧性、机敏和狂烈。",
     "prerequisites_zh": "力量15，精通徒手打击，特技3级。",
-    "benefit_zh": "你启用龙拳流派架势时，你对抗睡眠，麻痹与震慑效果的豁免有+2加值。你在冲锋，奔跑或撤退时无视困难地形。你可以越过同伴占据的方格进行冲锋。而且你在1轮中第一次徒手打击的伤害加值使用1.5倍力量修正。<\/p><p>通常状况：你无法在困难地形或穿越同伴占据的方格进行冲锋。你的徒手击打的伤害加值使用你的力量修正。"
+    "benefit_zh": "你启用龙拳流派架势时，你对抗睡眠，麻痹与震慑效果的豁免有+2加值。你在冲锋，奔跑或撤退时无视困难地形。你可以越过同伴占据的方格进行冲锋。而且你在1轮中第一次徒手打击的伤害加值使用1.5倍力量修正。",
+    "normal_zh": "你无法在困难地形或穿越同伴占据的方格进行冲锋。你的徒手击打的伤害加值使用你的力量修正。"
 }

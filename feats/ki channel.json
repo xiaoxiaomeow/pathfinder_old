@@ -3,7 +3,7 @@
     "name": "Ki Channel",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ki%20Channel",
     "source": ["Inner Sea Gods pg. 213"],
-    "description": "When you channel positive energy, you can also channel <i>ki<\/i>.",
+    "text": "When you channel positive energy, you can also channel <i>ki<\/i>.",
     "prerequisites": "Channel positive energy class feature, worshiper of Irori.",
     "benefit": "When you channel positive energy to heal living creatures, any creature that could be healed by the channeled energy can choose to regain <i>ki<\/i> from it instead. Affected creatures regain a number of <i>ki<\/i> points equal to the number of dice healed by the channel. A creature regaining <i>ki<\/i> in such a way must either regain <i>ki<\/i> or be healed by the channel (it cannot gain both)."
 }

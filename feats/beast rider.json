@@ -3,11 +3,11 @@
     "name": "Beast Rider",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Beast%20Rider",
     "source": ["Advanced Race Guide pg. 56"],
-    "description": "You gain the service of a monstrous companion or mount.",
+    "text": "You gain the service of a monstrous companion or mount.",
     "prerequisites": "Animal companion or mount class feature, character level 7th, half-orc or orc.",
     "benefit": "Select one of the following creature types: elephant, pteranodon, rhinoceros, stegosaurus, or triceratops. Add this creature type to your list of possible animal companions or mounts. When summoning a creature of the selected type to serve as a mount or companion, treat your effective druid level as if it were two levels higher (to a maximum of your character level). If the creature is large enough for you to ride, it gains the combat training general purpose (see Handle Animal) at no cost.",
     "name_zh": "兽骑兵",
-    "description_zh": "你获得了巨型动物或坐骑的帮助。",
+    "text_zh": "你获得了巨型动物或坐骑的帮助。",
     "prerequisites_zh": "【动物伙伴】或【坐骑】职业特性，角色等级7，半兽人或兽人。",
     "benefit_zh": "从下列生物类型中选择一种：大象（elephant），犀牛（pteranodon），翼龙（rhinoceros），剑龙（stegosaurus）或三角龙（triceratops）。将这种生物类型加入到你能够使用的动物伙伴或坐骑列表中。当你召唤所选中类型的生物作为坐骑或动物伙伴为你服务时，视你的有效德鲁伊等级提高2级（最高等同于你的角色等级）。如果该生物足够大到可供你骑乘，它会获得“战斗训练*（combat training，见驯养动物技能）”技巧而无需任何训练。【译注：旧CHM翻译为战斗骑乘（Combat Riding），此处以paizo官网为准。】"
 }

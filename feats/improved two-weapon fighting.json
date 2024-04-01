@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Two-Weapon%20Fighting",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 128"],
-    "description": "You are skilled at fighting with two weapons.",
+    "text": "You are skilled at fighting with two weapons.",
     "prerequisites": "Dex 17, Two-Weapon Fighting, base attack bonus +6.",
     "benefit": "In addition to the standard single extra attack you get with an off-hand weapon, you get a second attack with it, albeit at a –5 penalty.",
     "normal": "Without this feat, you can only get a single extra attack with an off-hand weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "When making an attack of opportunity, you can spend 5 stamina points to also make an attack of opportunity with your off-hand weapon. That second attack takes a –5 penalty.",
     "prerequisiteKeys": ["two-weapon fighting"],
     "name_zh": "精通双武器格斗",
-    "description_zh": "你是使用双武器战斗的专家。",
+    "text_zh": "你是使用双武器战斗的专家。",
     "prerequisites_zh": "敏捷17，双武器格斗，基本攻击加值+6。",
-    "benefit_zh": "除了原本额外的一次副手攻击外，你还可用副手再多攻击一次，但受-5减值。<\/p><p>通常状况：无此专长时副手武器仅能进行一次额外攻击。"
+    "benefit_zh": "除了原本额外的一次副手攻击外，你还可用副手再多攻击一次，但受-5减值。",
+    "normal_zh": "无此专长时副手武器仅能进行一次额外攻击。"
 }

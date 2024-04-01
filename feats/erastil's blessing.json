@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Erastil's%20Blessing",
     "descriptors": ["Combat"],
     "source": ["Paths of the Righteous pg. 19"],
-    "description": "Old Deadeye’s favor grants you prowess with a bow that far exceeds your own physical capabilities.",
+    "text": "Old Deadeye’s favor grants you prowess with a bow that far exceeds your own physical capabilities.",
     "prerequisites": "Weapon Focus (longbow), must be a worshiper of Erastil.",
     "benefit": "You can use your Wisdom modifier instead of your Dexterity modifier on ranged attack rolls when using a bow.",
     "prerequisiteKeys": ["weapon focus"]

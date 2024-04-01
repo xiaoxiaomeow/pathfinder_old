@@ -3,7 +3,7 @@
     "name": "Master of Wonders",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Master%20of%20Wonders",
     "source": ["Gnomes of Golarion pg. 13"],
-    "description": "Having seen the wonders of the world, you know how to tweak more chaos out of a <i>rod of wonder<\/i>.",
+    "text": "Having seen the wonders of the world, you know how to tweak more chaos out of a <i>rod of wonder<\/i>.",
     "prerequisites": "Iron Will, Wonderseeker faction, gnome.",
     "benefit": "When you activate a <i>rod of wonder<\/i>, roll d% to determine what effect the rod would create. If you desire to do so, you can roll d% again and use this second result. You can only use this ability once per round.",
     "prerequisiteKeys": ["iron will"]

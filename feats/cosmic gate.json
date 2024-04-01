@@ -3,8 +3,7 @@
     "name": "Cosmic Gate",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cosmic%20Gate",
     "source": ["Plane-Hopper's Handbook pg. 29"],
-    "description": "You know that the stars shining in Cynosure’s pools aren’t reflections, but are gateways, and you can use this knowledge in your travels.",
-    "prerequisites": "Lady Luck's Guidance, Knowledge (planes) 10 ranks.",
-    "benefit": "Once per day, you can briefly enter Cynosure and use the pools located there to instantly travel to a nearby location on the Material Plane; this functions as <i>teleport<\/i> except you are always considered very familiar with your destination.",
-    "prerequisiteKeys": ["lady luck's guidance"]
+    "text": "You know that the stars shining in Cynosure’s pools aren’t reflections, but are gateways, and you can use this knowledge in your travels.",
+    "prerequisites": "Lady Luck’s Guidance, Knowledge (planes) 10 ranks.",
+    "benefit": "Once per day, you can briefly enter Cynosure and use the pools located there to instantly travel to a nearby location on the Material Plane; this functions as <i>teleport<\/i> except you are always considered very familiar with your destination."
 }

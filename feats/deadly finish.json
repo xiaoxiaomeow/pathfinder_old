@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deadly%20Finish",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 94"],
-    "description": "Your attacks don’t just fell your opponents—they kill them outright. ",
+    "text": "Your attacks don’t just fell your opponents—they kill them outright. ",
     "prerequisites": "Base attack bonus +11.",
     "benefit": "When you hit with a melee attack and reduce your opponent to –1 or fewer hit points, you can force that opponent to succeed at a Fortitude save (DC 15 + the damage your attack dealt) or die.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "When you reduce an opponent to 0 hit points, you can spend 2 stamina points to force the creature to succeed at the saving throw for Deadly Finish or die.",
     "name_zh": "致命终结",
-    "description_zh": "你的攻击从不击倒对手——因为他们都直接死了。",
+    "text_zh": "你的攻击从不击倒对手——因为他们都直接死了。",
     "prerequisites_zh": "基本攻击加值+11。",
     "benefit_zh": "当你用近战攻击将你的敌人的生命值减少至-1或更低时，他必须进行一次DC为“15+最后一击伤害”的强韧检定，否则立刻死亡。"
 }

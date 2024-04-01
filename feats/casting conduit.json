@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Casting%20Conduit",
     "descriptors": ["Teamwork"],
     "source": ["Antihero's Handbook pg. 10"],
-    "description": "You can use an ally as a conduit to convey spells to an enemy she can touch.",
+    "text": "You can use an ally as a conduit to convey spells to an enemy she can touch.",
     "prerequisites": "Spellcraft 1 rank.",
     "benefit": "When casting a spell with a range of touch that deals hit point damage, you can target a willing, adjacent ally who also has this feat. The ally takes the minimum damage from the spell, and as an immediate action the ally can make a touch attack against an adjacent foe to deliver the spell. If this attack hits, the spell deals its normal damage to the opponent. If the ally has the grappled or pinned condition, the spell is automatically transferred to the grappling or grappled foe with no attack roll needed. This ability has no effect if the targeted ally is immune to the spell’s effect (such as <i>shocking grasp<\/i> delivered to an ally immune to electricity)."
 }

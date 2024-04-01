@@ -3,13 +3,13 @@
     "name": "Lightning Reflexes",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lightning%20Reflexes",
     "source": ["PRPG Core Rulebook pg. 130"],
-    "description": "You have faster reflexes than normal.",
+    "text": "You have faster reflexes than normal.",
     "benefit": "You get a +2 bonus on all Reflex saving throws.",
-    "mythicSource": ["Mythic Adventures pg. 68"],
-    "mythicDescription": "Your reflexes are superhuman.",
-    "mythicPrerequisites": "Lightning Reflexes.<br><br",
+    "mythicSource": "Mythic Adventures pg. 68",
+    "mythicText": "Your reflexes are superhuman.",
+    "mythicPrerequisites": "Lightning Reflexes.",
     "mythicBenefit": "Whenever you roll a Reflex saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result.",
     "name_zh": "闪电反射",
-    "description_zh": "你的反应力比一般人快。",
+    "text_zh": "你的反应力比一般人快。",
     "benefit_zh": "所有反射豁免获得+2加值。"
 }

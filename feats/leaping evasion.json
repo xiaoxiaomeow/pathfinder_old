@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Leaping%20Evasion",
     "descriptors": ["Combat"],
     "source": ["Melee Tactics Toolbox pg. 9"],
-    "description": "You jump out of the way of dangerous effects.",
+    "text": "You jump out of the way of dangerous effects.",
     "prerequisites": "Lightning Reflexes, evasion class feature.",
     "benefit": "When you succeed at a Reflex save against a spell or effect that affects an area, as an immediate action you can attempt an Acrobatics check to jump out of the effect’s area. You must move to the nearest space you can see outside of the affected area. The DC for this Acrobatics check is equal to the number of feet you must move to escape the area, and you can’t travel farther than your normal movement. If you use this feat, you are staggered on your next turn. This movement doesn’t provoke attacks of opportunity from creatures in the area of the effect you are escaping.",
-    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend 5 stamina points to ignore the staggered condition normally imparted by this feat. (<I>Melee Tactics Toolbox 9<\/i>)",
     "prerequisiteKeys": ["lightning reflexes"]
 }

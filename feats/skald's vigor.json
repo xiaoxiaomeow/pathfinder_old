@@ -3,7 +3,11 @@
     "name": "Skald's Vigor",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skald's%20Vigor",
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "Your song and your enthusiasm combine to invigorate you in battle.",
+    "text": "Your song and your enthusiasm combine to invigorate you in battle.",
     "prerequisites": "Raging song class feature.",
-    "benefit": "While maintaining a raging song, you gain fast healing equal to the Strength bonus your song provides, starting in the round after you begin the song. If you stop maintaining your song, the fast healing ends, even if the effects of your song persist."
+    "benefit": "While maintaining a raging song, you gain fast healing equal to the Strength bonus your song provides, starting in the round after you begin the song. If you stop maintaining your song, the fast healing ends, even if the effects of your song persist.",
+    "name_zh": "健硕之歌",
+    "text_zh": "唱起雄健的战歌，你在战斗中更加耐打。",
+    "prerequisites_zh": "战怒之歌职业能力",
+    "benefit_zh": "当维持表演战怒之歌时，你获得快速医疗，数量相当于你的战怒之歌（注：个人认为应该是狂暴歌，因为还有一个提供力量检定和力量技能加值的歌）的力量加值的一半，从你开始这首歌的时候开始。但是如果你停止表演，这个快速医疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续"
 }

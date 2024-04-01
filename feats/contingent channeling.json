@@ -3,12 +3,12 @@
     "name": "Contingent Channeling",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Contingent%20Channeling",
     "source": ["Ultimate Combat pg. 93"],
-    "description": "You can imbue others with your healing energy so that they can use it at the moment of greatest need.",
+    "text": "You can imbue others with your healing energy so that they can use it at the moment of greatest need.",
     "prerequisites": "True healer class feature, Selective Channeling.",
     "benefit": "You can use a standard action to touch an ally and expend one of your daily uses of channel energy to create a repository of positive energy within that ally. This repository contains the same number and type of dice as normal for your channel energy feature, and it lasts for 1 minute. An ally who has such a repository can use an immediate action to roll the repository’s dice and regain a number of hit points equal to the result. If an ally who has such a repository is reduced to negative hit points, the repository triggers, allowing the ally to heal without using an action.",
     "prerequisiteKeys": ["selective channeling"],
     "name_zh": "触发导能",
-    "description_zh": "你可以对目标灌输你的治愈能量，使目标能在最需要的时候使用它。",
+    "text_zh": "你可以对目标灌输你的治愈能量，使目标能在最需要的时候使用它。",
     "prerequisites_zh": "【大医精诚】职业特性，选择导能。",
     "benefit_zh": "你可以用一个标准动作触摸你的盟友、并耗费1次你的每日引导能量次数，在目标体内创建一个正能量池。这个能量池拥有你的正常引导能量类型和相关数据骰，并可以持续1分钟。一个拥有该能量池的盟友可以用直觉动作使用其能量并掷一次引导能量骰，恢复相当于骰子结果的生命值。如果能量池持续期间，该盟友的生命值被降低至负数，能量池自动触发，正常治疗盟友并且不需要消耗动作去启动。<\/p><p>【能力速查】大医精诚（True Healer, Su）：在8级，慈医（Merciful Healer, UC牧师变体）引导能量时可选择【仁心仁术】的效果、或者是重掷引导能量中所有1。此能力必须在看到治疗结果前发动。"
 }

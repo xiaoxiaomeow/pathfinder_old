@@ -7,10 +7,10 @@
         "Shield Mastery"
     ],
     "source": ["Armor Master's Handbook pg. 18"],
-    "description": "You use your shield to conceal your own body language and keep your attention focused.",
+    "text": "You use your shield to conceal your own body language and keep your attention focused.",
     "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th, Sense Motive 1 rank.",
     "benefit": "You add your shield’s bonus to AC to the DC of feint attempts against you.",
-    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points to force a foe to attempt two Bluff checks when trying to feint against you in combat, and use the lower of the two results. (See page 18.)",
     "prerequisiteKeys": ["shield focus"]
 }

@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Smashing%20Dent",
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 17"],
-    "description": "Your hammer strikes cause traumatic injuries.",
+    "text": "Your hammer strikes cause traumatic injuries.",
     "prerequisites": "Str 13, Improved Sunder, Smashing Crush, Smashing Style, Weapon Focus with the chosen weapon, base attack bonus +6.",
     "benefit": "While using Smashing Style, each time you damage a suit of armor with a sunder combat maneuver, you reduce its armor bonus to its Armor Class by 1 and increase its armor check penalty by 1. Armor cannot have its armor bonus to AC reduced to less than 50% of its normal bonus or its armor check penalty more than doubled. These reductions and increases both end when the damage dealt by the sunder is repaired.",
     "prerequisiteKeys":     [
         "improved sunder",
         "smashing crush",
-        "smashing style"
+        "smashing style",
+        "weapon focus"
     ]
 }

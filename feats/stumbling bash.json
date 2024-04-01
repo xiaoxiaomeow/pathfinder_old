@@ -7,7 +7,7 @@
         "Shield Mastery"
     ],
     "source": ["Armor Master's Handbook pg. 19"],
-    "description": "Your shield bash causes your enemies to falter.",
+    "text": "Your shield bash causes your enemies to falter.",
     "prerequisites": "Improved Shield Bash, Shield Focus, base attack bonus +6 or fighter level 4th.",
     "benefit": "Creatures struck by your shield bash take a –2 penalty to their AC until the end of your next turn.",
     "prerequisiteKeys":     [

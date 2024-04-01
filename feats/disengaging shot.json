@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disengaging%20Shot",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 96"],
-    "description": "You make one last attack before beating a hasty retreat.",
+    "text": "You make one last attack before beating a hasty retreat.",
     "prerequisites": "Int 13, Combat Expertise, Disengaging Feint, Dodge, Improved Feint, Mobility.",
     "benefit": "Whenever you use Disengaging Feint or Disengaging Flourish, you can make a single melee attack against one opponent you succeeded at feinting against. That opponent is denied his Dexterity bonus to AC against this attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. Just before you attempt your free melee attack with Disengaging Shot, you can spend up to 5 stamina points. If you do, increase the attack’s damage by 2 points for each stamina point you spent.",
     "prerequisiteKeys":     [
         "combat expertise",
@@ -17,7 +17,7 @@
         "mobility"
     ],
     "name_zh": "回马枪",
-    "description_zh": "你在战略转进之前进行最后一次攻击。",
+    "text_zh": "你在战略转进之前进行最后一次攻击。",
     "prerequisites_zh": "智力13，寓守于攻，虚招脱离，闪避，精通虚招，灵活移动。",
     "benefit_zh": "每当你使用“虚招脱离”或“逃之夭夭”，你可以对一个虚招成功的敌人进行一次单次的近战攻击。敌人在这次攻击中失去AC中的敏捷加值。"
 }

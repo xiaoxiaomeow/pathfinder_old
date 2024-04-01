@@ -3,7 +3,7 @@
     "name": "Death's Host",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Death's%20Host",
     "source": ["Haunted Heroes Handbook pg. 7"],
-    "description": "You become harder to kill when possessed by the undead.",
+    "text": "You become harder to kill when possessed by the undead.",
     "prerequisites": "Spell Focus (necromancy).",
     "benefit": "Whenever you are possessed by an undead creature that you do not directly control, you gain a +4 bonus on saving throws against death effects. You don’t fall unconscious at negative hit points, and if you or the undead possessing you is forced to attempt a saving throw to resist ending the possession effect, you or your possessor gains a +4 bonus on the saving throw.",
     "prerequisiteKeys": ["spell focus"]

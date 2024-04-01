@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Battlefield%20Healer",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 67"],
-    "description": "In even the fiercest battles, you risk life and limb to save your allies.",
+    "text": "In even the fiercest battles, you risk life and limb to save your allies.",
     "prerequisites": "You must successfully cast a conjuration (healing) spell on an ally after being hit by an attack of opportunity, or have the Battle, Chaplain, or Healed background.",
-    "benefit": "When attempting a concentration check caused by receiving damage (including ongoing damage), you reduce the damage taken by 50% for the purposes of determining the concentration check DC."
+    "benefit": "When attempting a concentration check caused by receiving damage (including ongoing damage), you reduce the damage taken by 50% for the purposes of determining the concentration check DC.",
+    "goal": "Over time, provoke at least 20 attacks of opportunity for casting conjuration (healing) spells on allies. These spells don’t have to succeed to count.",
+    "completionBenefit": "You automatically succeed at concentration checks for conjuration (healing) spells caused by taking damage.",
+    "name_zh": "战地医师",
+    "text_zh": "即便在最激烈的战斗中，你依然不惜冒险拯救同伴。",
+    "prerequisites_zh": "你必须曾在遭受借机攻击后成功对同伴施展咒法系医疗子学派法术；或拥有“百战使（Battle）”、“战地神官（Chaplain）”、“祛病疗疾（Healed）”等角色背景之一。",
+    "benefit_zh": "当你由于受到伤害而被迫进行专注检定时，在决定专注DC时该伤害被视为降低50%。",
+    "goal_zh": "总计20次因向同伴施展咒法系医疗子学派法术而招致借机攻击。这些施法并不需要全部成功。",
+    "completionBenefit_zh": "你在施展咒法系医疗子学派法术时，由于受伤而被迫进行的专注检定自动成功。"
 }

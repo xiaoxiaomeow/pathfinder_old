@@ -7,13 +7,13 @@
         "Teamwork"
     ],
     "source": ["Advanced Player's Guide pg. 165"],
-    "description": "You look for every edge when flanking an enemy.",
+    "text": "You look for every edge when flanking an enemy.",
     "prerequisites": "Base attack bonus +4.",
     "benefit": "Whenever you and an ally who also has this feat are flanking the same creature, your flanking bonus on attack rolls increases to +4. In addition, whenever you score a critical hit against the flanked creature, it provokes an attack of opportunity from your ally.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "When you threaten but fail to confirm a critical hit against a creature you are flanking, you can spend 5 stamina points. If you do, that creature provokes an attack of opportunity from each ally with this feat who is flanking the creature, even though you didn’t confirm the critical hit. You still can’t use this ability against targets immune to critical hits.",
     "name_zh": "包抄",
-    "description_zh": "在夹击敌人时你能够积极寻找任何获得优势的契机。",
+    "text_zh": "在夹击敌人时你能够积极寻找任何获得优势的契机。",
     "prerequisites_zh": "基本攻击加值+4。",
     "benefit_zh": "每当你和同样拥有该专长的一名盟友夹击相同的生物时，你的攻击检定获得的夹击加值提升至+4。此外，每当你对夹击的生物成功进行重击时，它会引起你的盟友的借机攻击。"
 }

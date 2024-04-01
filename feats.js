@@ -118,16 +118,20 @@ function loadFeat(ft, div, containSource = false) {
     $(div).append($("<h3>" + name + "</h3>"));
 
     // other
-    if (ft["description_zh"] != null) $(div).append($("<p>" + ft["description_zh"] + "</p>"));
-	else if (ft["description"] != null) $(div).append($("<p>" + ft["description"] + "</p>"));
+    if (ft["text_zh"] != null) $(div).append($("<p>" + ft["text_zh"] + "</p>"));
+	else if (ft["text"] != null) $(div).append($("<p>" + ft["text"] + "</p>"));
     if (ft["prerequisites_zh"] != null) $(div).append($("<p><b>先决条件: </b>" + ft["prerequisites_zh"] + "</p>"));
 	else if (ft["prerequisites"] != null) $(div).append($("<p><b>先决条件: </b>" + ft["prerequisites"] + "</p>"));
     if (ft["benefit_zh"] != null) $(div).append($("<p><b>专长效果: </b>" + ft["benefit_zh"] + "</p>"));
 	else if (ft["benefit"] != null) $(div).append($("<p><b>专长效果: </b>" + ft["benefit"] + "</p>"));
     if (ft["normal_zh"] != null) $(div).append($("<p><b>通常状况: </b>" + ft["normal_zh"] + "</p>"));
 	else if (ft["normal"] != null) $(div).append($("<p><b>通常状况: </b>" + ft["normal"] + "</p>"));
-    if (ft["special_zh"] != null) $(div).append($("<p><b>特殊说明：</b>" + ft["special_zh"] + "</p>"));
-	else if (ft["special"] != null) $(div).append($("<p><b>特殊说明：</b>" + ft["special"] + "</p>"));
+    if (ft["special_zh"] != null) $(div).append($("<p><b>特殊说明: </b>" + ft["special_zh"] + "</p>"));
+	else if (ft["special"] != null) $(div).append($("<p><b>特殊说明: </b>" + ft["special"] + "</p>"));
+    if (ft["goal_zh"] != null) $(div).append($("<p><b>专长目标: </b>" + ft["goal_zh"] + "</p>"));
+	else if (ft["goal"] != null) $(div).append($("<p><b>专长目标: </b>" + ft["goal"] + "</p>"));
+    if (ft["completionBenefit_zh"] != null) $(div).append($("<p><b>完成收益: </b>" + ft["completionBenefit_zh"] + "</p>"));
+	else if (ft["completionBenefit"] != null) $(div).append($("<p><b>完成收益: </b>" + ft["completionBenefit"] + "</p>"));
 
     // source
     let sourceStr = "";
@@ -148,8 +152,8 @@ function loadFeat(ft, div, containSource = false) {
 	// mythic version
 	if (ft["mythicBenefit_zh"] != null || ft["mythicBenefit"] != null) {
 		$(div).append($("<hr><h4>神话版本</h4>"));
-		if (ft["mythicDescription_zh"] != null) $(div).append($("<p>" + ft["mythicDescription_zh"] + "</p>"));
-		else if (ft["mythicDescription"] != null) $(div).append($("<p>" + ft["mythicDescription"] + "</p>"));
+		if (ft["mythicText_zh"] != null) $(div).append($("<p>" + ft["mythicText_zh"] + "</p>"));
+		else if (ft["mythicText"] != null) $(div).append($("<p>" + ft["mythicText"] + "</p>"));
 		if (ft["mythicPrerequisites_zh"] != null) $(div).append($("<p><b>先决条件: </b>" + ft["mythicPrerequisites_zh"] + "</p>"));
 		else if (ft["mythicPrerequisites"] != null) $(div).append($("<p><b>先决条件: </b>" + ft["mythicPrerequisites"] + "</p>"));
 		if (ft["mythicBenefit_zh"] != null) $(div).append($("<p><b>专长效果: </b>" + ft["mythicBenefit_zh"] + "</p>"));

@@ -3,7 +3,11 @@
     "name": "Spirit Talker",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit%20Talker",
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "By forging a temporary bond with a spirit, you gain access to an unfamiliar hex.",
+    "text": "By forging a temporary bond with a spirit, you gain access to an unfamiliar hex.",
     "prerequisites": "Hex class feature; shaman level 6th or witch level 6th.",
-    "benefit": "Once per day, you can spend 10 minutes communing with a shaman spirit of your choice. When you do, you gain the temporary use of one hex from its list of hexes. This hex is added to your list of available hexes for the next hour, after which you immediately lose all benefits of that hex."
+    "benefit": "Once per day, you can spend 10 minutes communing with a shaman spirit of your choice. When you do, you gain the temporary use of one hex from its list of hexes. This hex is added to your list of available hexes for the next hour, after which you immediately lose all benefits of that hex.",
+    "name_zh": "灵语者",
+    "text_zh": "和精魂花些时间交涉，你可以从它们那里弄到新的巫术。",
+    "prerequisites_zh": "巫术职业能力，萨满职业等级6或女巫职业等级6",
+    "benefit_zh": "每天一次，你可以花费10分钟连接到一个萨满的魂域。如果你这样做，你选择一个属于该魂域的巫术，在接下来的1小时中可以暂时使用它，之后立刻失去该巫术所给予的好处。"
 }

@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20of%20Swings",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 169"],
-    "description": "A wild frenzy of attacks serves to bolster your defenses.",
+    "text": "A wild frenzy of attacks serves to bolster your defenses.",
     "prerequisites": "Str 13, Power Attack, base attack bonus +1.",
     "benefit": "When you take a full-attack action while wielding a two-handed weapon, you can choose to reduce the damage by 1/2 to gain a +4 shield bonus to AC and CMD until the beginning of your next turn. The reduction in damage applies until the beginning of your next turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "When using this feat, you can spend 2 stamina points to reduce your damage dealt by half only until the end of your turn, but you gain the +2 shield bonus to AC only from the end of your turn until the start of your next turn.",
     "prerequisiteKeys": ["power attack"],
     "name_zh": "剑刃屏障",
-    "description_zh": "疯狂而又狂野的攻击能够加强你的防御。",
+    "text_zh": "疯狂而又狂野的攻击能够加强你的防御。",
     "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+1。",
     "benefit_zh": "当你持用双手武器进行全力攻击动作时，能够选择减少1/2的伤害，来使AC和CMD获得+4盾牌加值，直至你的下一轮开始为止。伤害减少也会持续至你的下一轮开始。"
 }

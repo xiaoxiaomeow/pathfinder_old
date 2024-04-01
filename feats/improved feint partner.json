@@ -7,17 +7,17 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 105"],
-    "description": "Knowledge of your companions’ tricks and techniques allow you to take even greater advantage of your allies’ feints.",
+    "text": "Knowledge of your companions’ tricks and techniques allow you to take even greater advantage of your allies’ feints.",
     "prerequisites": "Bluff 1 rank, Combat Reflexes, Feint Partner, base attack bonus +6.",
     "benefit": "Whenever an ally who also has this feat successfully feints against an opponent, that opponent provokes an attack of opportunity from you.",
-    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaSource": "Pathfinder Unchained pg. 123",
     "staminaText": "When you feint, you can spend 5 stamina points for each additional ally to grant an attack of opportunity to any number of additional allies—not just those with this feat.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "feint partner"
     ],
     "name_zh": "高等联合虚招",
-    "description_zh": "对于盟友诡计和战技的知识让你可以透过他的虚招得到更多的好处。",
+    "text_zh": "对于盟友诡计和战技的知识让你可以透过他的虚招得到更多的好处。",
     "prerequisites_zh": "唬骗1级，战斗反射，联合虚招。基本攻击加值+6。",
     "benefit_zh": "当拥有此专长的盟友成功使用虚招时，中招的敌人引发你的一次借机攻击。"
 }

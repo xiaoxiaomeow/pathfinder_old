@@ -3,11 +3,15 @@
     "name": "Stunning Croak",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stunning%20Croak",
     "source": ["Monster Codex pg. 9"],
-    "description": "The terrifying force of your croak disorients and debilitates your enemies.",
+    "text": "The terrifying force of your croak disorients and debilitates your enemies.",
     "prerequisites": "Sonic Croak, Throat Pouch, boggard, terrifying croak.",
     "benefit": "When you use your terrifying croak ability, instead of imparting its normal effect you can choose to stun one creature within 30 feet for 1 round. If the target succeeds at a Fortitude save, it is instead staggered for 1 round. The DC of this Fortitude save is the same as that of your terrifying croak ability.",
     "prerequisiteKeys":     [
         "sonic croak",
         "throat pouch"
-    ]
+    ],
+    "name_zh": "蛙鸣震荡",
+    "text_zh": "你的鸣叫现在具有如此强大的能量，以至于足以使被它扫到的敌人失能。。",
+    "prerequisites_zh": "蛙鸣噪波，喉囊，沼蜍人，恐怖蛙鸣",
+    "benefit_zh": "每当你使用恐怖蛙鸣能力时，你可以选择不造成这个能力原本的效果，而是震慑一个30尺内的生物1轮时间。如果目标成功的通过了强韧豁免检定，那么它只会恍惚一轮而非被震慑。这个能力的豁免DC与你的恐怖蛙鸣豁免DC相同。"
 }

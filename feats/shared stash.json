@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shared%20Stash",
     "descriptors": ["Teamwork"],
     "source": ["Monster Codex pg. 177"],
-    "description": "You are adept at borrowing from your allies even in the middle of combat.",
+    "text": "You are adept at borrowing from your allies even in the middle of combat.",
     "prerequisites": "Quick Draw, base attack bonus +1, Sleight of Hand 1 rank, swarming racial trait.",
     "benefit": "While you are in the same square as a willing ally who also has this feat, you can draw a weapon from that creature as a free action or draw a hidden weapon or any other object as a move action. You can also take a held object from a willing ally in the same square as you as a free action. Drawing or taking an object (but not a weapon) in this way provokes an attack of opportunity.",
-    "prerequisiteKeys": ["quick draw"]
+    "prerequisiteKeys": ["quick draw"],
+    "name_zh": "人有我有",
+    "text_zh": "你可以从你的队友身上掏出东西来，即使是在激烈的战斗中也不难做到。",
+    "prerequisites_zh": "即时备战，基础攻击加值+1，手上功夫1级，群居（Swarming）种族特性",
+    "benefit_zh": "当你与一个同样拥有本专长的盟友共处一个方格时，你可以以自由动作从这个盟友身上拔出一把武器，或是以一个移动动作取出一件暗藏的武器或是一件其他物品。你也可以以一个自由动作从盟友手中接过一件他持有的物品。从盟友身上拿出或接过一件物品（武器除外）不会导致借机攻击。"
 }

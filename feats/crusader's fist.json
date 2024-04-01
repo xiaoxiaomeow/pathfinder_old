@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crusader's%20Fist",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 94"],
-    "description": "You pour divine energy into the enemy you strike.",
+    "text": "You pour divine energy into the enemy you strike.",
     "prerequisites": "Lay on hands class feature or touch of corruption class feature, Improved Unarmed Strike, base attack bonus +6.",
     "benefit": "When you attack with an unarmed strike and hit a creature that you can harm with your lay on hands or touch of corruption feature, you can use a swift action to expend a daily use of that feature to deal its normal damage as if you had hit with the feature’s normal touch attack. This extra damage is not multiplied if you scored a critical hit.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "When you use Crusader’s Fist and confirm a critical hit, you can spend 5 stamina points to multiply the extra damage for that critical hit.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "圣战之拳",
-    "description_zh": "你给被击中的敌人注入神圣的能量。",
+    "text_zh": "你给被击中的敌人注入神圣的能量。",
     "prerequisites_zh": "【圣疗】或【堕落之触】职业特性，精通徒手打击，基本攻击加值+6。",
     "benefit_zh": "当你用徒手打击命中一个生物，并且该生物可以被你的【圣疗】或【堕落之触】所伤害，你可以选择以迅捷动作消耗1次每日次数来对其造成正常伤害，如同你以标准动作使用了能力。该额外伤害不会被你的重击所加成。"
 }

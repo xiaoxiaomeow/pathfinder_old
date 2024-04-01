@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Coordinated%20Reposition",
     "descriptors": ["Teamwork"],
     "source": ["Monster Codex pg. 92"],
-    "description": "You are skilled in coordinating combat positioning with your allies.",
+    "text": "You are skilled in coordinating combat positioning with your allies.",
     "prerequisites": "Step-Up.",
-    "benefit": "Whenever an ally with this feat who is threatening a creature you are threatening takes a 5-foot step, you can move 5 feet as an immediate action. This movement does not provoke attacks of opportunity."
+    "benefit": "Whenever an ally with this feat who is threatening a creature you are threatening takes a 5-foot step, you can move 5 feet as an immediate action. This movement does not provoke attacks of opportunity.",
+    "name_zh": "集群站位",
+    "text_zh": "你惯于协调队友的站位，使敌人无处插脚。",
+    "prerequisites_zh": "快步跟进",
+    "benefit_zh": "每当你和一个拥有此专长的盟友同时威胁一个敌人时，只要目标进行5尺快步，你就可以以一个直觉动作进行5尺快步，这次移动不会导致借机攻击。"
 }

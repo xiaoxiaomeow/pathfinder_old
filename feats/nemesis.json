@@ -4,8 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nemesis",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 71"],
-    "description": "A past enemy seeks your ruin.",
+    "text": "A past enemy seeks your ruin.",
     "prerequisites": "You must have at least one enemy who wishes to cause you great harm. If you have multiple enemies, the GM may keep the specific nemesis secret, or have many of your enemies work together against you. If your nemesis is not already a challenging foe, it either advances in strength to become a challenging foe or allies with others to achieve a higher challenge rating.",
     "benefit": "Having a nemesis drives you to excel in training. For each new level you gain in a favored class, including the level you gained when you chose this feat, you can choose two benefits instead of one. One of these benefits must be either a bonus hit point or a bonus skill point, even if other options are available.",
-    "special": "Thwarting your plans becomes an all-consuming goal for your nemesis. Your nemesis gains a +2 bonus on attack rolls and damage rolls against you. Whatever you try to achieve, your nemesis seeks to tear down."
+    "special": "Thwarting your plans becomes an all-consuming goal for your nemesis. Your nemesis gains a +2 bonus on attack rolls and damage rolls against you. Whatever you try to achieve, your nemesis seeks to tear down.",
+    "goal": "Slay your nemesis. Causing your nemesis’s death through your direct actions qualifies even if you do not strike the fatal blow, but another killing your nemesis without your involvement doesn’t count.",
+    "completionBenefit": "You gain a +2 inherent bonus to an ability score of your choice. In addition, you may retroactively apply your extra favored class benefit to the favored class levels you gained before taking this feat.",
+    "name_zh": "仇怨缠身",
+    "text_zh": "一位旧敌期盼你陨落。",
+    "prerequisites_zh": "你必须有一位以上想要给予你重创的敌手。若你有复数敌手，GM可以选定一人为针对你的秘密追踪者，或直接让他们联手对付你。若你的敌手中并无一人能够达到强大敌手的标准，他会逐渐变强以满足条件，或是和其他家伙合力使得CR获得提升。",
+    "benefit_zh": "拥有敌手是对自己最好的驱策。每当你获得新等级、包括选择本专长的这个等级，你都可以选择两项天赋职业加成。其中之一必须为奖励HP或奖励技能，即便有多个可获取的其他选项。",
+    "goal_zh": "击杀你的追踪者。通过直接行动导致其死亡，即便不是由你发动致命一击亦视为满足条件；但没有你亲身参与的情况下则无效。",
+    "completionBenefit_zh": "你选择的单项属性获得+2内在加值。此外，你可以回溯你选取此专长之前的天赋职业等级，并获取对应的加成。<\/p><p>特殊备注：妨害你的计划已成为追踪者不惜一切代价的终极目标。追踪者对你的攻击和伤害检定+2。无论你追求何物，他们都会丧心病狂地加以阻挠。"
 }

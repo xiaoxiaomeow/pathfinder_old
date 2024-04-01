@@ -2,6 +2,7 @@ var featDict = {
     "aberrant tumor":     {
         "key": "aberrant tumor",
         "name": "Aberrant Tumor",
+        "name_zh": "异变疖体",
         "source": ["Advanced Class Guide pg. 136"]
     },
     "aberration-bane caster":     {
@@ -72,6 +73,7 @@ var featDict = {
     "accursed":     {
         "key": "accursed",
         "name": "Accursed",
+        "name_zh": "诅咒缠身",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 67"]
     },
@@ -440,6 +442,7 @@ var featDict = {
     "alter binary mindscape":     {
         "key": "alter binary mindscape",
         "name": "Alter Binary Mindscape",
+        "name_zh": "强势异能宣战",
         "source": ["Occult Adventures pg. 129"]
     },
     "altitude affinity":     {
@@ -462,11 +465,13 @@ var featDict = {
     "amateur investigator":     {
         "key": "amateur investigator",
         "name": "Amateur Investigator",
+        "name_zh": "业余调查员",
         "source": ["Advanced Class Guide pg. 141"]
     },
     "amateur swashbuckler":     {
         "key": "amateur swashbuckler",
         "name": "Amateur Swashbuckler",
+        "name_zh": "业余剑客",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 141"]
     },
@@ -532,6 +537,7 @@ var featDict = {
     "ancestral enmity":     {
         "key": "ancestral enmity",
         "name": "Ancestral Enmity",
+        "name_zh": "有仇报仇",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 68"]
     },
@@ -575,6 +581,7 @@ var featDict = {
     "angelbane strike":     {
         "key": "angelbane strike",
         "name": "Angelbane Strike",
+        "name_zh": "屠圣之刃",
         "source": ["Monster Codex pg. 32"],
         "prerequisiteKeys": ["channel smite"]
     },
@@ -622,6 +629,7 @@ var featDict = {
     "animal soul":     {
         "key": "animal soul",
         "name": "Animal Soul",
+        "name_zh": "动物之魂",
         "source": ["Advanced Class Guide pg. 141"]
     },
     "ankle biter":     {
@@ -639,6 +647,7 @@ var featDict = {
     "anticipate dodge":     {
         "key": "anticipate dodge",
         "name": "Anticipate Dodge",
+        "name_zh": "闪避捕捉",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 141"],
         "prerequisiteKeys":         [
@@ -684,11 +693,13 @@ var featDict = {
     "aquatic adaption":     {
         "key": "aquatic adaption",
         "name": "Aquatic Adaption",
+        "name_zh": "水生适应",
         "source": ["Monster Codex pg. 140"]
     },
     "aquatic advantage":     {
         "key": "aquatic advantage",
         "name": "Aquatic Advantage",
+        "name_zh": "水战高手",
         "source": ["Monster Codex pg. 188"],
         "prerequisiteKeys": ["combat reflexes"]
     },
@@ -756,8 +767,7 @@ var featDict = {
         "source":         [
             "Inner Sea Gods pg. 207",
             "Faiths of Balance pg. 24"
-        ],
-        "prerequisiteKeys": ["arcane shield"]
+        ]
     },
     "arcane jinxer":     {
         "key": "arcane jinxer",
@@ -876,6 +886,7 @@ var featDict = {
     "arisen":     {
         "key": "arisen",
         "name": "Arisen",
+        "name_zh": "重返人间",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 67"]
     },
@@ -996,6 +1007,7 @@ var featDict = {
     "ascendant spell":     {
         "key": "ascendant spell",
         "name": "Ascendant Spell",
+        "name_zh": "卓越法术",
         "descriptors": ["Metamagic"],
         "source": ["Mythic Adventures pg. 55"]
     },
@@ -1010,7 +1022,10 @@ var featDict = {
         "name": "Ascetic Form",
         "descriptors": ["Combat"],
         "source": ["Weapon Master's Handbook pg. 16"],
-        "prerequisiteKeys": ["ascetic style"]
+        "prerequisiteKeys":         [
+            "ascetic style",
+            "weapon focus"
+        ]
     },
     "ascetic strike":     {
         "key": "ascetic strike",
@@ -1019,7 +1034,8 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 16"],
         "prerequisiteKeys":         [
             "ascetic form",
-            "ascetic style"
+            "ascetic style",
+            "weapon focus"
         ]
     },
     "ascetic style":     {
@@ -1029,7 +1045,8 @@ var featDict = {
             "Combat",
             "Style"
         ],
-        "source": ["Weapon Master's Handbook pg. 16"]
+        "source": ["Weapon Master's Handbook pg. 16"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "aspect of the beast":     {
         "key": "aspect of the beast",
@@ -1145,10 +1162,7 @@ var featDict = {
         "key": "aural insight",
         "name": "Aural Insight",
         "source": ["Heroes of the Darklands pg. 5"],
-        "prerequisiteKeys":         [
-            "blind-fight",
-            "improved blind-fight"
-        ]
+        "prerequisiteKeys": ["blind-fight"]
     },
     "auspicious birth":     {
         "key": "auspicious birth",
@@ -1164,6 +1178,7 @@ var featDict = {
     "aversion tolerance":     {
         "key": "aversion tolerance",
         "name": "Aversion Tolerance",
+        "name_zh": "忍耐禁忌",
         "source":         [
             "Monster Codex pg. 237",
             "Blood of the Night pg. 28"
@@ -1178,10 +1193,7 @@ var featDict = {
         "key": "awakened hag heritage",
         "name": "Awakened Hag Heritage",
         "source": ["Blood of the Coven pg. 4"],
-        "prerequisiteKeys":         [
-            "iron will",
-            "mother's gift"
-        ]
+        "prerequisiteKeys": ["iron will"]
     },
     "awe-inspiring smash":     {
         "key": "awe-inspiring smash",
@@ -1210,6 +1222,7 @@ var featDict = {
     "awesome charge":     {
         "key": "awesome charge",
         "name": "Awesome Charge",
+        "name_zh": "可怖冲撞",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 68"],
         "prerequisiteKeys":         [
@@ -1293,6 +1306,7 @@ var featDict = {
     "bag of bones":     {
         "key": "bag of bones",
         "name": "Bag of Bones",
+        "name_zh": "形销骨立",
         "source": ["Monster Codex pg. 80"]
     },
     "balor whip":     {
@@ -1300,10 +1314,7 @@ var featDict = {
         "name": "Balor Whip",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 80"],
-        "prerequisiteKeys":         [
-            "weapon focus",
-            "whip mastery"
-        ]
+        "prerequisiteKeys": ["weapon focus"]
     },
     "baneful judgment":     {
         "key": "baneful judgment",
@@ -1378,6 +1389,7 @@ var featDict = {
     "barroom brawler":     {
         "key": "barroom brawler",
         "name": "Barroom Brawler",
+        "name_zh": "见招拆招",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 141"]
     },
@@ -1419,6 +1431,7 @@ var featDict = {
     "battle cry":     {
         "key": "battle cry",
         "name": "Battle Cry",
+        "name_zh": "战嚎",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 141"]
     },
@@ -1435,6 +1448,7 @@ var featDict = {
     "battlefield healer":     {
         "key": "battlefield healer",
         "name": "Battlefield Healer",
+        "name_zh": "战地医师",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 67"]
     },
@@ -1530,6 +1544,7 @@ var featDict = {
     "befuddling strike":     {
         "key": "befuddling strike",
         "name": "Befuddling Strike",
+        "name_zh": "混乱拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 142"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -1549,13 +1564,14 @@ var featDict = {
     "believer's boon":     {
         "key": "believer's boon",
         "name": "Believer's Boon",
+        "name_zh": "信徒之赐",
         "source": ["Advanced Class Guide pg. 142"]
     },
     "believer's hands":     {
         "key": "believer's hands",
         "name": "Believer's Hands",
-        "source": ["Advanced Class Guide pg. 142"],
-        "prerequisiteKeys": ["believer's boon"]
+        "name_zh": "信徒之触",
+        "source": ["Advanced Class Guide pg. 142"]
     },
     "bend with the wind":     {
         "key": "bend with the wind",
@@ -1687,8 +1703,7 @@ var featDict = {
             "Combat",
             "Performance"
         ],
-        "source": ["Inner Sea Combat pg. 12"],
-        "prerequisiteKeys": ["amateur gunslinger"]
+        "source": ["Inner Sea Combat pg. 12"]
     },
     "blackfire summoning":     {
         "key": "blackfire summoning",
@@ -1732,13 +1747,13 @@ var featDict = {
     "blasting charge":     {
         "key": "blasting charge",
         "name": "Blasting Charge",
+        "name_zh": "血爆冲锋",
         "source": ["Advanced Class Guide pg. 143"]
     },
     "blazing aura (arg)":     {
         "key": "blazing aura (arg)",
         "name": "Blazing Aura (ARG)",
         "name_zh": "炽烈光环",
-        "descriptors": ["Combat"],
         "source": ["Advanced Race Guide pg. 130"],
         "prerequisiteKeys":         [
             "inner flame",
@@ -1748,10 +1763,6 @@ var featDict = {
     "blazing aura (pa)":     {
         "key": "blazing aura (pa)",
         "name": "Blazing Aura (PA)",
-        "descriptors":         [
-            "Combat",
-            "Conduit"
-        ],
         "source": ["Planar Adventures pg. 26"]
     },
     "blazing channel":     {
@@ -1774,6 +1785,7 @@ var featDict = {
     "bleeding stare":     {
         "key": "bleeding stare",
         "name": "Bleeding Stare",
+        "name_zh": "血溢双瞳",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -1793,6 +1805,7 @@ var featDict = {
     "blessed striker":     {
         "key": "blessed striker",
         "name": "Blessed Striker",
+        "name_zh": "祝福之击",
         "source": ["Advanced Class Guide pg. 143"]
     },
     "blessed":     {
@@ -1855,8 +1868,7 @@ var featDict = {
         "source": ["Blood of Shadows pg. 24"],
         "prerequisiteKeys":         [
             "blind-fight",
-            "blinded blade style",
-            "improved blind-fight"
+            "blinded blade style"
         ]
     },
     "blinded master":     {
@@ -2023,8 +2035,7 @@ var featDict = {
         "name": "Blood of Heroes",
         "name_zh": "碧血丹心",
         "descriptors": ["Hero Point"],
-        "source": ["Advanced Player's Guide pg. 323"],
-        "prerequisiteKeys": ["hero's fortune"]
+        "source": ["Advanced Player's Guide pg. 323"]
     },
     "blood salvage":     {
         "key": "blood salvage",
@@ -2042,6 +2053,7 @@ var featDict = {
     "blood tide":     {
         "key": "blood tide",
         "name": "Blood Tide",
+        "name_zh": "血腥如潮",
         "source": ["Monster Codex pg. 189"],
         "prerequisiteKeys":         [
             "combat expertise",
@@ -2065,6 +2077,7 @@ var featDict = {
     "blooded arcane strike":     {
         "key": "blooded arcane strike",
         "name": "Blooded Arcane Strike",
+        "name_zh": "血术之击",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 143"],
         "prerequisiteKeys": ["arcane strike"]
@@ -2268,6 +2281,7 @@ var featDict = {
     "bookish rogue":     {
         "key": "bookish rogue",
         "name": "Bookish Rogue",
+        "name_zh": "秘术盗贼",
         "source": ["Advanced Class Guide pg. 143"]
     },
     "boon companion":     {
@@ -2288,6 +2302,7 @@ var featDict = {
     "born of frost":     {
         "key": "born of frost",
         "name": "Born of Frost",
+        "name_zh": "霜生种",
         "source": ["Monster Codex pg. 68"]
     },
     "bouncing spell-like ability":     {
@@ -2398,6 +2413,7 @@ var featDict = {
     "bred commander":     {
         "key": "bred commander",
         "name": "Bred Commander",
+        "name_zh": "将才",
         "source": ["Monster Codex pg. 116"]
     },
     "brew fleshcrafting poison":     {
@@ -2469,10 +2485,7 @@ var featDict = {
         "key": "brood defender",
         "name": "Brood Defender",
         "source": ["Legacy of Dragons pg. 19"],
-        "prerequisiteKeys":         [
-            "bodyguard",
-            "combat reflexes"
-        ]
+        "prerequisiteKeys": ["combat reflexes"]
     },
     "brutal coup de grace":     {
         "key": "brutal coup de grace",
@@ -2504,8 +2517,7 @@ var featDict = {
             "combat reflexes",
             "improved overrun",
             "improved trip",
-            "improved unarmed strike",
-            "vicious stomp"
+            "improved unarmed strike"
         ]
     },
     "brute stomp":     {
@@ -2518,8 +2530,7 @@ var featDict = {
             "combat reflexes",
             "improved overrun",
             "improved trip",
-            "improved unarmed strike",
-            "vicious stomp"
+            "improved unarmed strike"
         ]
     },
     "brute style":     {
@@ -2534,8 +2545,7 @@ var featDict = {
             "combat reflexes",
             "improved overrun",
             "improved trip",
-            "improved unarmed strike",
-            "vicious stomp"
+            "improved unarmed strike"
         ]
     },
     "buffeting wings":     {
@@ -2724,6 +2734,7 @@ var featDict = {
     "bushwhack":     {
         "key": "bushwhack",
         "name": "Bushwhack",
+        "name_zh": "一扑即倒",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys":         [
@@ -2789,12 +2800,12 @@ var featDict = {
         "key": "cannon master",
         "name": "Cannon Master",
         "descriptors": ["Combat"],
-        "source": ["Inner Sea Combat pg. 17"],
-        "prerequisiteKeys": ["siege engineer"]
+        "source": ["Inner Sea Combat pg. 17"]
     },
     "canny tumble":     {
         "key": "canny tumble",
         "name": "Canny Tumble",
+        "name_zh": "巧技寻机",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 143"],
         "prerequisiteKeys":         [
@@ -2858,7 +2869,6 @@ var featDict = {
         ],
         "source": ["Inner Sea Combat pg. 17"],
         "prerequisiteKeys":         [
-            "amateur gunslinger",
             "point-blank shot",
             "precise shot"
         ]
@@ -3004,6 +3014,7 @@ var featDict = {
     "chain challenge":     {
         "key": "chain challenge",
         "name": "Chain Challenge",
+        "name_zh": "一骑讨",
         "source": ["Monster Codex pg. 116"]
     },
     "chain mastery":     {
@@ -3029,12 +3040,14 @@ var featDict = {
     "chakra adept":     {
         "key": "chakra adept",
         "name": "Chakra Adept",
+        "name_zh": "脉轮修行者",
         "source": ["Occult Adventures pg. 129"],
         "prerequisiteKeys": ["chakra initiate"]
     },
     "chakra initiate":     {
         "key": "chakra initiate",
         "name": "Chakra Initiate",
+        "name_zh": "脉轮初学者",
         "source": ["Occult Adventures pg. 129"]
     },
     "chakra mandala":     {
@@ -3045,6 +3058,7 @@ var featDict = {
     "chakra master":     {
         "key": "chakra master",
         "name": "Chakra Master",
+        "name_zh": "脉轮宗师",
         "source": ["Occult Adventures pg. 129"],
         "prerequisiteKeys":         [
             "chakra adept",
@@ -3108,6 +3122,7 @@ var featDict = {
     "champion":     {
         "key": "champion",
         "name": "Champion",
+        "name_zh": "斗技冠军",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 67"]
     },
@@ -3185,6 +3200,7 @@ var featDict = {
     "channeled blessing":     {
         "key": "channeled blessing",
         "name": "Channeled Blessing",
+        "name_zh": "引导祝福",
         "source": ["Advanced Class Guide pg. 143"]
     },
     "channeled revival":     {
@@ -3202,6 +3218,7 @@ var featDict = {
     "channeling force":     {
         "key": "channeling force",
         "name": "Channeling Force",
+        "name_zh": "引导力刃",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 143"]
     },
@@ -3300,6 +3317,7 @@ var featDict = {
     "chilled rock":     {
         "key": "chilled rock",
         "name": "Chilled Rock",
+        "name_zh": "冰寒石块",
         "source": ["Monster Codex pg. 68"],
         "prerequisiteKeys": ["born of frost"]
     },
@@ -3413,10 +3431,7 @@ var featDict = {
         "name": "Clambering Escape",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 80"],
-        "prerequisiteKeys":         [
-            "combat expertise",
-            "improved reposition"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "clarifying channel":     {
         "key": "clarifying channel",
@@ -3491,6 +3506,7 @@ var featDict = {
     "cleaving sweep":     {
         "key": "cleaving sweep",
         "name": "Cleaving Sweep",
+        "name_zh": "顺势扫荡",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 68"],
         "prerequisiteKeys":         [
@@ -3528,8 +3544,8 @@ var featDict = {
         "source": ["Blood of Shadows pg. 24"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved dirty trick",
-            "vital strike"
+            "vital strike",
+            "weapon focus"
         ]
     },
     "cloak and dagger subterfuge":     {
@@ -3540,7 +3556,7 @@ var featDict = {
         "prerequisiteKeys":         [
             "cloak and dagger style",
             "combat expertise",
-            "improved dirty trick"
+            "weapon focus"
         ]
     },
     "cloak and dagger tactics":     {
@@ -3552,8 +3568,8 @@ var featDict = {
             "cloak and dagger style",
             "cloak and dagger subterfuge",
             "combat expertise",
-            "improved dirty trick",
-            "vital strike"
+            "vital strike",
+            "weapon focus"
         ]
     },
     "cloak of feathers":     {
@@ -3582,7 +3598,10 @@ var featDict = {
         "name_zh": "近身投掷",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 92"],
-        "prerequisiteKeys": ["dodge"]
+        "prerequisiteKeys":         [
+            "dodge",
+            "weapon focus"
+        ]
     },
     "cloud gazer":     {
         "key": "cloud gazer",
@@ -3637,11 +3656,7 @@ var featDict = {
         "name_zh": "金蛇封穴",
         "descriptors": ["Combat"],
         "source": ["Advanced Player's Guide pg. 156"],
-        "prerequisiteKeys":         [
-            "gorgon's fist",
-            "improved unarmed strike",
-            "medusa's wrath"
-        ]
+        "prerequisiteKeys": ["improved unarmed strike"]
     },
     "cold celerity":     {
         "key": "cold celerity",
@@ -3738,6 +3753,7 @@ var featDict = {
     "combat stamina":     {
         "key": "combat stamina",
         "name": "Combat Stamina",
+        "name_zh": "战斗耐力",
         "descriptors": ["Combat"],
         "source": ["Pathfinder Unchained pg. 112"]
     },
@@ -3774,6 +3790,7 @@ var featDict = {
     "commander of goblinkind":     {
         "key": "commander of goblinkind",
         "name": "Commander of Goblinkind",
+        "name_zh": "地精大王",
         "source": ["Monster Codex pg. 116"]
     },
     "companion figurine":     {
@@ -3791,6 +3808,7 @@ var featDict = {
     "compounded pain":     {
         "key": "compounded pain",
         "name": "Compounded Pain",
+        "name_zh": "痛苦恶化",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 129"]
     },
@@ -3875,6 +3893,7 @@ var featDict = {
     "confounding tumble deed":     {
         "key": "confounding tumble deed",
         "name": "Confounding Tumble Deed",
+        "name_zh": "旋舞花招",
         "descriptors": ["Panache"],
         "source": ["Advanced Class Guide pg. 143"],
         "prerequisiteKeys": ["canny tumble"]
@@ -3996,6 +4015,7 @@ var featDict = {
     "cooperative rend":     {
         "key": "cooperative rend",
         "name": "Cooperative Rend",
+        "name_zh": "协同撕裂",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -4065,12 +4085,14 @@ var featDict = {
     "coordinated reposition":     {
         "key": "coordinated reposition",
         "name": "Coordinated Reposition",
+        "name_zh": "集群站位",
         "descriptors": ["Teamwork"],
         "source": ["Monster Codex pg. 92"]
     },
     "coordinated shot":     {
         "key": "coordinated shot",
         "name": "Coordinated Shot",
+        "name_zh": "准线规避",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -4112,11 +4134,13 @@ var featDict = {
     "corpse companion":     {
         "key": "corpse companion",
         "name": "Corpse Companion",
+        "name_zh": "僵尸伙伴",
         "source": ["Monster Codex pg. 80"]
     },
     "corrupted flesh":     {
         "key": "corrupted flesh",
         "name": "Corrupted Flesh",
+        "name_zh": "腐烂神",
         "source": ["Monster Codex pg. 152"]
     },
     "corsair of taldor":     {
@@ -4127,8 +4151,7 @@ var featDict = {
     "cosmic gate":     {
         "key": "cosmic gate",
         "name": "Cosmic Gate",
-        "source": ["Plane-Hopper's Handbook pg. 29"],
-        "prerequisiteKeys": ["lady luck's guidance"]
+        "source": ["Plane-Hopper's Handbook pg. 29"]
     },
     "cosmopolitan":     {
         "key": "cosmopolitan",
@@ -4142,6 +4165,7 @@ var featDict = {
     "counter reflexes":     {
         "key": "counter reflexes",
         "name": "Counter Reflexes",
+        "name_zh": "进无可进",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys":         [
@@ -4166,6 +4190,7 @@ var featDict = {
     "counterpunch":     {
         "key": "counterpunch",
         "name": "Counterpunch",
+        "name_zh": "反手一拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys":         [
@@ -4223,25 +4248,14 @@ var featDict = {
     "covering fire (rtt)":     {
         "key": "covering fire (rtt)",
         "name": "Covering Fire (RTT)",
-        "descriptors":         [
-            "Combat",
-            "Teamwork"
-        ],
         "source": ["Ranged Tactics Toolbox pg. 10"],
         "prerequisiteKeys": ["point-blank shot"]
     },
     "covering fire (vc)":     {
         "key": "covering fire (vc)",
         "name": "Covering Fire (VC)",
-        "descriptors":         [
-            "Combat",
-            "Teamwork"
-        ],
         "source": ["Villain Codex pg. 56"],
-        "prerequisiteKeys":         [
-            "exotic weapon proficiency",
-            "weapon focus"
-        ]
+        "prerequisiteKeys": ["weapon focus"]
     },
     "covering shield":     {
         "key": "covering shield",
@@ -4260,7 +4274,8 @@ var featDict = {
             "Combat",
             "Combination"
         ],
-        "source": ["Martial Arts Handbook pg. 27"]
+        "source": ["Martial Arts Handbook pg. 27"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "craft construct":     {
         "key": "craft construct",
@@ -4311,12 +4326,7 @@ var featDict = {
     "craft robot":     {
         "key": "craft robot",
         "name": "Craft Robot",
-        "source": ["Pathfinder #90: The Divinity Drive pg. 71"],
-        "prerequisiteKeys":         [
-            "craft technological arms and armor",
-            "craft technological item",
-            "technologist"
-        ]
+        "source": ["Pathfinder #90: The Divinity Drive pg. 71"]
     },
     "craft rod":     {
         "key": "craft rod",
@@ -4531,7 +4541,8 @@ var featDict = {
         "key": "crippling thrust",
         "name": "Crippling Thrust",
         "descriptors": ["Combat"],
-        "source": ["Martial Arts Handbook pg. 26"]
+        "source": ["Martial Arts Handbook pg. 26"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "crisis of conscience":     {
         "key": "crisis of conscience",
@@ -4623,7 +4634,8 @@ var featDict = {
         "key": "crusader's flurry",
         "name": "Crusader's Flurry",
         "name_zh": "圣战连击",
-        "source": ["Ultimate Combat pg. 94"]
+        "source": ["Ultimate Combat pg. 94"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "crushing blow":     {
         "key": "crushing blow",
@@ -4650,8 +4662,7 @@ var featDict = {
     "cry challenge":     {
         "key": "cry challenge",
         "name": "Cry Challenge",
-        "source": ["Giant Hunter's Handbook pg. 22"],
-        "prerequisiteKeys": ["antagonize"]
+        "source": ["Giant Hunter's Handbook pg. 22"]
     },
     "cry of mercy":     {
         "key": "cry of mercy",
@@ -4676,18 +4687,14 @@ var featDict = {
             "Combat",
             "Style"
         ],
-        "source": ["Melee Tactics Toolbox pg. 13"],
-        "prerequisiteKeys": ["bludgeoner"]
+        "source": ["Melee Tactics Toolbox pg. 13"]
     },
     "cudgeler sweep":     {
         "key": "cudgeler sweep",
         "name": "Cudgeler Sweep",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
-        "prerequisiteKeys":         [
-            "bludgeoner",
-            "cudgeler style"
-        ]
+        "prerequisiteKeys": ["cudgeler style"]
     },
     "cudgeler takedown":     {
         "key": "cudgeler takedown",
@@ -4695,7 +4702,6 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
         "prerequisiteKeys":         [
-            "bludgeoner",
             "cudgeler style",
             "cudgeler sweep"
         ]
@@ -4853,6 +4859,7 @@ var featDict = {
     "damned":     {
         "key": "damned",
         "name": "Damned",
+        "name_zh": "诅咒之人",
         "descriptors": ["Story"],
         "source":         [
             "Quests and Campaigns pg. 8",
@@ -4879,6 +4886,7 @@ var featDict = {
     "dangerous tail":     {
         "key": "dangerous tail",
         "name": "Dangerous Tail",
+        "name_zh": "危险的尾",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 140"]
     },
@@ -4950,11 +4958,7 @@ var featDict = {
             "Panache"
         ],
         "source": ["Dirty Tactics Toolbox pg. 14"],
-        "prerequisiteKeys":         [
-            "amateur swashbuckler",
-            "combat expertise",
-            "improved dirty trick"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "dauntless destiny":     {
         "key": "dauntless destiny",
@@ -4979,6 +4983,7 @@ var featDict = {
     "dazing fist":     {
         "key": "dazing fist",
         "name": "Dazing Fist",
+        "name_zh": "眩晕拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -5349,6 +5354,7 @@ var featDict = {
     "delay blast":     {
         "key": "delay blast",
         "name": "Delay Blast",
+        "name_zh": "延迟念袭",
         "source": ["Occult Adventures pg. 129"]
     },
     "delayed potion":     {
@@ -5405,8 +5411,7 @@ var featDict = {
         "key": "demonic nemesis",
         "name": "Demonic Nemesis",
         "descriptors": ["Combat"],
-        "source": ["Demon Hunter's Handbook pg. 9"],
-        "prerequisiteKeys": ["demon hunter"]
+        "source": ["Demon Hunter's Handbook pg. 9"]
     },
     "demonic obedience":     {
         "key": "demonic obedience",
@@ -5457,6 +5462,7 @@ var featDict = {
     "demoralizing stare":     {
         "key": "demoralizing stare",
         "name": "Demoralizing Stare",
+        "name_zh": "慑人目光",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -5481,6 +5487,7 @@ var featDict = {
     "deny the reaper":     {
         "key": "deny the reaper",
         "name": "Deny the Reaper",
+        "name_zh": "救死决毅",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 68"]
     },
@@ -5512,8 +5519,7 @@ var featDict = {
         "key": "designated antagonist",
         "name": "Designated Antagonist",
         "descriptors": ["Teamwork"],
-        "source": ["Antihero's Handbook pg. 10"],
-        "prerequisiteKeys": ["antagonize"]
+        "source": ["Antihero's Handbook pg. 10"]
     },
     "desperate battler":     {
         "key": "desperate battler",
@@ -5756,10 +5762,7 @@ var featDict = {
         "key": "dimensional step up",
         "name": "Dimensional Step Up",
         "source": ["Monster Hunter's Handbook pg. 19"],
-        "prerequisiteKeys":         [
-            "dimensional agility",
-            "step up"
-        ]
+        "prerequisiteKeys": ["step up"]
     },
     "diplomatic ruse":     {
         "key": "diplomatic ruse",
@@ -5794,8 +5797,7 @@ var featDict = {
         "source": ["Dirty Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "critical focus",
-            "improved dirty trick"
+            "critical focus"
         ]
     },
     "dirty disarm":     {
@@ -5805,7 +5807,6 @@ var featDict = {
         "source": ["Dirty Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved dirty trick",
             "improved disarm"
         ]
     },
@@ -5822,7 +5823,6 @@ var featDict = {
         "source": ["Dirty Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved dirty trick",
             "improved grapple",
             "improved unarmed strike"
         ]
@@ -5840,11 +5840,13 @@ var featDict = {
     "disable dweomer":     {
         "key": "disable dweomer",
         "name": "Disable Dweomer",
+        "name_zh": "拆解咒法",
         "source": ["Advanced Class Guide pg. 144"]
     },
     "disarm partner":     {
         "key": "disarm partner",
         "name": "Disarm Partner",
+        "name_zh": "协同卸武",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -5865,6 +5867,7 @@ var featDict = {
     "disarming threat deed":     {
         "key": "disarming threat deed",
         "name": "Disarming Threat Deed",
+        "name_zh": "讲道理",
         "descriptors": ["Panache"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys": ["amateur swashbuckler"]
@@ -5890,6 +5893,7 @@ var featDict = {
     "disciplinary devotee":     {
         "key": "disciplinary devotee",
         "name": "Disciplinary Devotee",
+        "name_zh": "境界门徒",
         "source": ["Occult Adventures pg. 129"]
     },
     "disconcerting knowledge":     {
@@ -5952,6 +5956,7 @@ var featDict = {
     "disheartening display":     {
         "key": "disheartening display",
         "name": "Disheartening Display",
+        "name_zh": "狂傲技巧",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys":         [
@@ -6081,6 +6086,7 @@ var featDict = {
     "distant delivery":     {
         "key": "distant delivery",
         "name": "Distant Delivery",
+        "name_zh": "延伸传法",
         "source": ["Occult Adventures pg. 132"]
     },
     "distant jinx":     {
@@ -6092,14 +6098,12 @@ var featDict = {
         "key": "distant spell link",
         "name": "Distant Spell Link",
         "source": ["Ranged Tactics Toolbox pg. 12"],
-        "prerequisiteKeys":         [
-            "enlarge spell",
-            "reach spell"
-        ]
+        "prerequisiteKeys": ["enlarge spell"]
     },
     "distracting charge":     {
         "key": "distracting charge",
         "name": "Distracting Charge",
+        "name_zh": "冲锋干扰",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -6146,8 +6150,7 @@ var featDict = {
     "diverse obedience":     {
         "key": "diverse obedience",
         "name": "Diverse Obedience",
-        "source": ["Divine Anthology pg. 11"],
-        "prerequisiteKeys": ["deific obedience"]
+        "source": ["Divine Anthology pg. 11"]
     },
     "diverse palate":     {
         "key": "diverse palate",
@@ -6164,10 +6167,7 @@ var featDict = {
             "Teamwork"
         ],
         "source": ["Heroes of the Wild pg. 19"],
-        "prerequisiteKeys":         [
-            "stealthy",
-            "target of opportunity"
-        ]
+        "prerequisiteKeys": ["stealthy"]
     },
     "divert harm":     {
         "key": "divert harm",
@@ -6239,6 +6239,7 @@ var featDict = {
     "divine protection":     {
         "key": "divine protection",
         "name": "Divine Protection",
+        "name_zh": "圣洁防护",
         "source": ["Advanced Class Guide pg. 144"]
     },
     "diviner's delving":     {
@@ -6423,8 +6424,8 @@ var featDict = {
     "draconic magic":     {
         "key": "draconic magic",
         "name": "Draconic Magic",
-        "source": ["Monster Codex pg. 129"],
-        "prerequisiteKeys": ["draconic aspect"]
+        "name_zh": "龙血魔法",
+        "source": ["Monster Codex pg. 129"]
     },
     "draconic manifestation":     {
         "key": "draconic manifestation",
@@ -6569,6 +6570,7 @@ var featDict = {
     "draining strike":     {
         "key": "draining strike",
         "name": "Draining Strike",
+        "name_zh": "取力拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 144"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -6677,12 +6679,12 @@ var featDict = {
     "dryad's attendant":     {
         "key": "dryad's attendant",
         "name": "Dryad's Attendant",
-        "source": ["Wilderness Origins pg. 10"],
-        "prerequisiteKeys": ["dryad's apprentice"]
+        "source": ["Wilderness Origins pg. 10"]
     },
     "dual enhancement":     {
         "key": "dual enhancement",
         "name": "Dual Enhancement",
+        "name_zh": "双武祝圣",
         "source": ["Advanced Class Guide pg. 145"],
         "prerequisiteKeys": ["two-weapon fighting"]
     },
@@ -6696,6 +6698,7 @@ var featDict = {
     "dueling cape deed":     {
         "key": "dueling cape deed",
         "name": "Dueling Cape Deed",
+        "name_zh": "斗篷与匕首",
         "descriptors":         [
             "Combat",
             "Panache"
@@ -6910,6 +6913,7 @@ var featDict = {
     "efficient focus shift":     {
         "key": "efficient focus shift",
         "name": "Efficient Focus Shift",
+        "name_zh": "等效心智转移",
         "source": ["Occult Adventures pg. 132"]
     },
     "effortless trickery":     {
@@ -6987,11 +6991,13 @@ var featDict = {
         "key": "eldritch heritage",
         "name": "Eldritch Heritage",
         "name_zh": "悠远血脉",
-        "source": ["Ultimate Magic pg. 149"]
+        "source": ["Ultimate Magic pg. 149"],
+        "prerequisiteKeys": ["skill focus"]
     },
     "eldritch researcher":     {
         "key": "eldritch researcher",
         "name": "Eldritch Researcher",
+        "name_zh": "魔能学者",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 68"]
     },
@@ -7010,7 +7016,6 @@ var featDict = {
         "prerequisiteKeys":         [
             "electric eel shock",
             "electric eel style",
-            "elemental fist",
             "improved unarmed strike"
         ]
     },
@@ -7021,7 +7026,6 @@ var featDict = {
         "source": ["Blood of the Sea pg. 10"],
         "prerequisiteKeys":         [
             "electric eel style",
-            "elemental fist",
             "improved unarmed strike"
         ]
     },
@@ -7033,10 +7037,7 @@ var featDict = {
             "Style"
         ],
         "source": ["Blood of the Sea pg. 11"],
-        "prerequisiteKeys":         [
-            "elemental fist",
-            "improved unarmed strike"
-        ]
+        "prerequisiteKeys": ["improved unarmed strike"]
     },
     "elemental channel":     {
         "key": "elemental channel",
@@ -7131,6 +7132,7 @@ var featDict = {
     "elongated cranium":     {
         "key": "elongated cranium",
         "name": "Elongated Cranium",
+        "name_zh": "颅骨拉伸",
         "source": ["Occult Adventures pg. 132"]
     },
     "elusive redirection":     {
@@ -7157,7 +7159,6 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 12"],
         "prerequisiteKeys":         [
             "elven battle style",
-            "elven battle training",
             "weapon finesse"
         ]
     },
@@ -7169,10 +7170,7 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 12"],
-        "prerequisiteKeys":         [
-            "elven battle training",
-            "weapon finesse"
-        ]
+        "prerequisiteKeys": ["weapon finesse"]
     },
     "elven battle torrent":     {
         "key": "elven battle torrent",
@@ -7182,7 +7180,6 @@ var featDict = {
         "prerequisiteKeys":         [
             "elven battle focus",
             "elven battle style",
-            "elven battle training",
             "weapon finesse"
         ]
     },
@@ -7219,11 +7216,13 @@ var featDict = {
     "emotional conduit":     {
         "key": "emotional conduit",
         "name": "Emotional Conduit",
+        "name_zh": "情感导体",
         "source": ["Occult Adventures pg. 132"]
     },
     "empath":     {
         "key": "empath",
         "name": "Empath",
+        "name_zh": "移情感知",
         "source": ["Occult Adventures pg. 132"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
@@ -7262,7 +7261,7 @@ var featDict = {
         "prerequisiteKeys":         [
             "empty quiver style",
             "rapid shot",
-            "stabbing shot"
+            "weapon focus"
         ]
     },
     "empty quiver flurry":     {
@@ -7274,7 +7273,7 @@ var featDict = {
             "empty quiver flexibility",
             "empty quiver style",
             "rapid shot",
-            "stabbing shot"
+            "weapon focus"
         ]
     },
     "empty quiver style":     {
@@ -7284,7 +7283,8 @@ var featDict = {
             "Combat",
             "Style"
         ],
-        "source": ["Weapon Master's Handbook pg. 14"]
+        "source": ["Weapon Master's Handbook pg. 14"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "empty threats":     {
         "key": "empty threats",
@@ -7328,6 +7328,7 @@ var featDict = {
     "energy channel":     {
         "key": "energy channel",
         "name": "Energy Channel",
+        "name_zh": "引导元素",
         "source": ["Advanced Class Guide pg. 146"]
     },
     "energy mastery":     {
@@ -7400,8 +7401,7 @@ var featDict = {
     "enlightened noble":     {
         "key": "enlightened noble",
         "name": "Enlightened Noble",
-        "source": ["Heroes of the High Court pg. 4"],
-        "prerequisiteKeys": ["noble scion"]
+        "source": ["Heroes of the High Court pg. 4"]
     },
     "ennobled resistances":     {
         "key": "ennobled resistances",
@@ -7416,10 +7416,7 @@ var featDict = {
             "Panache"
         ],
         "source": ["Ultimate Intrigue pg. 82"],
-        "prerequisiteKeys":         [
-            "amateur swashbuckler",
-            "persuasive"
-        ]
+        "prerequisiteKeys": ["persuasive"]
     },
     "ensemble":     {
         "key": "ensemble",
@@ -7480,7 +7477,8 @@ var featDict = {
             "Combat",
             "Combination"
         ],
-        "source": ["Martial Arts Handbook pg. 27"]
+        "source": ["Martial Arts Handbook pg. 27"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "escape route":     {
         "key": "escape route",
@@ -7539,6 +7537,7 @@ var featDict = {
     "esoteric linguistics":     {
         "key": "esoteric linguistics",
         "name": "Esoteric Linguistics",
+        "name_zh": "解码神秘",
         "source": ["Advanced Class Guide pg. 146"],
         "prerequisiteKeys": ["skill focus"]
     },
@@ -7562,6 +7561,7 @@ var featDict = {
     "evolved companion":     {
         "key": "evolved companion",
         "name": "Evolved Companion",
+        "name_zh": "伙伴进化",
         "source": ["Advanced Class Guide pg. 146"]
     },
     "evolved familiar":     {
@@ -7573,6 +7573,7 @@ var featDict = {
     "evolved summoned monster":     {
         "key": "evolved summoned monster",
         "name": "Evolved Summoned Monster",
+        "name_zh": "召唤生物进化",
         "source": ["Advanced Class Guide pg. 146"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -7593,6 +7594,7 @@ var featDict = {
     "excoriating stare":     {
         "key": "excoriating stare",
         "name": "Excoriating Stare",
+        "name_zh": "责难注视",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -7681,11 +7683,13 @@ var featDict = {
     "expanded phrenic pool":     {
         "key": "expanded phrenic pool",
         "name": "Expanded Phrenic Pool",
+        "name_zh": "精神力池扩容",
         "source": ["Occult Adventures pg. 133"]
     },
     "expanded preparation":     {
         "key": "expanded preparation",
         "name": "Expanded Preparation",
+        "name_zh": "额外预备",
         "source": ["Advanced Class Guide pg. 146"]
     },
     "expanded resistance":     {
@@ -7752,7 +7756,8 @@ var featDict = {
         "key": "expert driver",
         "name": "Expert Driver",
         "name_zh": "专业御者",
-        "source": ["Ultimate Combat pg. 100"]
+        "source": ["Ultimate Combat pg. 100"],
+        "prerequisiteKeys": ["skilled driver"]
     },
     "expert explorer":     {
         "key": "expert explorer",
@@ -7824,6 +7829,7 @@ var featDict = {
     "extend resonant power":     {
         "key": "extend resonant power",
         "name": "Extend Resonant Power",
+        "name_zh": "扩员共鸣",
         "source": ["Occult Adventures pg. 133"]
     },
     "extend spell":     {
@@ -7845,6 +7851,7 @@ var featDict = {
     "extended animal focus":     {
         "key": "extended animal focus",
         "name": "Extended Animal Focus",
+        "name_zh": "长效动物之力",
         "source":         [
             "Ultimate Wilderness pg. 111",
             "Advanced Class Guide pg. 146"
@@ -7882,11 +7889,13 @@ var featDict = {
     "extended stare":     {
         "key": "extended stare",
         "name": "Extended Stare",
+        "name_zh": "注视增距",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra amplification":     {
         "key": "extra amplification",
         "name": "Extra Amplification",
+        "name_zh": "额外精神增幅",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra arcana":     {
@@ -7904,6 +7913,7 @@ var featDict = {
     "extra arcanist exploit":     {
         "key": "extra arcanist exploit",
         "name": "Extra Arcanist Exploit",
+        "name_zh": "额外奥能技艺",
         "source": ["Advanced Class Guide pg. 146"]
     },
     "extra bane":     {
@@ -7946,6 +7956,7 @@ var featDict = {
     "extra croaking":     {
         "key": "extra croaking",
         "name": "Extra Croaking",
+        "name_zh": "额外蛙鸣",
         "source": ["Monster Codex pg. 8"]
     },
     "extra crystalline dust":     {
@@ -7984,6 +7995,7 @@ var featDict = {
     "extra focus power":     {
         "key": "extra focus power",
         "name": "Extra Focus Power",
+        "name_zh": "额外灵器之力",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra gnome magic":     {
@@ -8022,12 +8034,14 @@ var featDict = {
     "extra inspiration":     {
         "key": "extra inspiration",
         "name": "Extra Inspiration",
+        "name_zh": "额外灵感",
         "source": ["Advanced Class Guide pg. 147"],
         "prerequisiteKeys": ["amateur investigator"]
     },
     "extra investigator talent":     {
         "key": "extra investigator talent",
         "name": "Extra Investigator Talent",
+        "name_zh": "额外调查员天赋",
         "source": ["Advanced Class Guide pg. 147"]
     },
     "extra investiture points":     {
@@ -8060,11 +8074,13 @@ var featDict = {
     "extra martial flexibility":     {
         "key": "extra martial flexibility",
         "name": "Extra Martial Flexibility",
+        "name_zh": "额外招式",
         "source": ["Advanced Class Guide pg. 147"]
     },
     "extra mental focus":     {
         "key": "extra mental focus",
         "name": "Extra Mental Focus",
+        "name_zh": "额外心智点",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra mercy":     {
@@ -8076,6 +8092,7 @@ var featDict = {
     "extra mesmerist tricks":     {
         "key": "extra mesmerist tricks",
         "name": "Extra Mesmerist Tricks",
+        "name_zh": "额外催眠师诡计",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra ninja trick":     {
@@ -8086,6 +8103,7 @@ var featDict = {
     "extra panache":     {
         "key": "extra panache",
         "name": "Extra Panache",
+        "name_zh": "额外派头",
         "descriptors": ["Panache"],
         "source": ["Advanced Class Guide pg. 147"],
         "prerequisiteKeys": ["amateur swashbuckler"]
@@ -8117,6 +8135,7 @@ var featDict = {
     "extra reservoir":     {
         "key": "extra reservoir",
         "name": "Extra Reservoir",
+        "name_zh": "额外魔源",
         "source": ["Advanced Class Guide pg. 147"]
     },
     "extra revelation":     {
@@ -8139,6 +8158,7 @@ var featDict = {
     "extra slayer talent":     {
         "key": "extra slayer talent",
         "name": "Extra Slayer Talent",
+        "name_zh": "额外杀手天赋",
         "source": ["Advanced Class Guide pg. 147"]
     },
     "extra spell synthesis":     {
@@ -8157,6 +8177,7 @@ var featDict = {
     "extra stamina":     {
         "key": "extra stamina",
         "name": "Extra Stamina",
+        "name_zh": "额外耐力",
         "descriptors": ["Combat"],
         "source": ["Pathfinder Unchained pg. 113"],
         "prerequisiteKeys": ["combat stamina"]
@@ -8178,6 +8199,7 @@ var featDict = {
     "extra touch treatment":     {
         "key": "extra touch treatment",
         "name": "Extra Touch Treatment",
+        "name_zh": "额外接触疗法",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra variance":     {
@@ -8194,6 +8216,7 @@ var featDict = {
     "extra wild talent":     {
         "key": "extra wild talent",
         "name": "Extra Wild Talent",
+        "name_zh": "额外原力",
         "source": ["Occult Adventures pg. 133"]
     },
     "extra word":     {
@@ -8216,6 +8239,7 @@ var featDict = {
     "extreme prejudice":     {
         "key": "extreme prejudice",
         "name": "Extreme Prejudice",
+        "name_zh": "极度仇视",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 147"],
         "prerequisiteKeys": ["seething hatred"]
@@ -8248,8 +8272,7 @@ var featDict = {
     "eyes of the twilight":     {
         "key": "eyes of the twilight",
         "name": "Eyes of the Twilight",
-        "source": ["Inner Sea Races pg. 206"],
-        "prerequisiteKeys": ["sharp senses"]
+        "source": ["Inner Sea Races pg. 206"]
     },
     "fabulist":     {
         "key": "fabulist",
@@ -8260,6 +8283,7 @@ var featDict = {
     "faerie's strike":     {
         "key": "faerie's strike",
         "name": "Faerie's Strike",
+        "name_zh": "妖精之击",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 147"],
         "prerequisiteKeys":         [
@@ -8317,7 +8341,8 @@ var featDict = {
         "source": ["Ultimate Combat pg. 100"],
         "prerequisiteKeys":         [
             "dodge",
-            "point-blank master"
+            "point-blank master",
+            "weapon focus"
         ]
     },
     "false trail":     {
@@ -8373,10 +8398,7 @@ var featDict = {
         "key": "fanged crown massacre",
         "name": "Fanged Crown Massacre",
         "source": ["Adventurer's Guide pg. 84"],
-        "prerequisiteKeys":         [
-            "bodyguard",
-            "combat reflexes"
-        ]
+        "prerequisiteKeys": ["combat reflexes"]
     },
     "far shot":     {
         "key": "far shot",
@@ -8448,6 +8470,7 @@ var featDict = {
     "fatiguing stare":     {
         "key": "fatiguing stare",
         "name": "Fatiguing Stare",
+        "name_zh": "脱力目光",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -8478,6 +8501,7 @@ var featDict = {
     "favored enemy spellcasting":     {
         "key": "favored enemy spellcasting",
         "name": "Favored Enemy Spellcasting",
+        "name_zh": "法术宿敌",
         "source": ["Advanced Class Guide pg. 147"]
     },
     "favored judgment":     {
@@ -8512,6 +8536,7 @@ var featDict = {
     "fearless zeal":     {
         "key": "fearless zeal",
         "name": "Fearless Zeal",
+        "name_zh": "狂热圣徒",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 68"]
     },
@@ -8543,6 +8568,7 @@ var featDict = {
     "fearsome spell":     {
         "key": "fearsome spell",
         "name": "Fearsome Spell",
+        "name_zh": "骇人法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 134"]
     },
@@ -8627,7 +8653,10 @@ var featDict = {
         "name_zh": "野性战斗训练",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 101"],
-        "prerequisiteKeys": ["improved unarmed strike"]
+        "prerequisiteKeys":         [
+            "improved unarmed strike",
+            "weapon focus"
+        ]
     },
     "feral grace":     {
         "key": "feral grace",
@@ -8639,6 +8668,7 @@ var featDict = {
     "feral heart":     {
         "key": "feral heart",
         "name": "Feral Heart",
+        "name_zh": "狂野之心",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 69"]
     },
@@ -8701,6 +8731,7 @@ var featDict = {
     "fetid breath":     {
         "key": "fetid breath",
         "name": "Fetid Breath",
+        "name_zh": "腐败呼吸",
         "source": ["Monster Codex pg. 152"],
         "prerequisiteKeys": ["corrupted flesh"]
     },
@@ -8877,8 +8908,7 @@ var featDict = {
         "key": "finesse shot",
         "name": "Finesse Shot",
         "descriptors": ["Weapon Mastery"],
-        "source": ["Weapon Master's Handbook pg. 21"],
-        "prerequisiteKeys": ["marksman's utility"]
+        "source": ["Weapon Master's Handbook pg. 21"]
     },
     "finishing cascade":     {
         "key": "finishing cascade",
@@ -9027,6 +9057,7 @@ var featDict = {
     "flexible hex":     {
         "key": "flexible hex",
         "name": "Flexible Hex",
+        "name_zh": "灵活巫术",
         "source": ["Advanced Class Guide pg. 148"]
     },
     "flexible shadow jump":     {
@@ -9037,6 +9068,7 @@ var featDict = {
     "flexible wizardry":     {
         "key": "flexible wizardry",
         "name": "Flexible Wizardry",
+        "name_zh": "灵活魔术",
         "source": ["Advanced Class Guide pg. 148"],
         "prerequisiteKeys": ["spell mastery"]
     },
@@ -9146,6 +9178,7 @@ var featDict = {
     "focused inspiration":     {
         "key": "focused inspiration",
         "name": "Focused Inspiration",
+        "name_zh": "灵感专注",
         "source": ["Advanced Class Guide pg. 148"]
     },
     "focused magical beast expertise":     {
@@ -9175,6 +9208,7 @@ var featDict = {
     "focused phantom":     {
         "key": "focused phantom",
         "name": "Focused Phantom",
+        "name_zh": "魅影专注",
         "source": ["Occult Adventures pg. 134"]
     },
     "focused plant expertise":     {
@@ -9246,6 +9280,7 @@ var featDict = {
     "foeslayer":     {
         "key": "foeslayer",
         "name": "Foeslayer",
+        "name_zh": "复仇化身",
         "descriptors": ["Story"],
         "source":         [
             "Quests and Campaigns pg. 10",
@@ -9292,6 +9327,7 @@ var featDict = {
     "force dash":     {
         "key": "force dash",
         "name": "Force Dash",
+        "name_zh": "力能加速",
         "source": ["Advanced Class Guide pg. 148"]
     },
     "force shield mastery":     {
@@ -9335,12 +9371,14 @@ var featDict = {
     "forgotten past":     {
         "key": "forgotten past",
         "name": "Forgotten Past",
+        "name_zh": "忘却回忆",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 69"]
     },
     "formula recollection":     {
         "key": "formula recollection",
         "name": "Formula Recollection",
+        "name_zh": "回想公式",
         "source": ["Advanced Class Guide pg. 148"]
     },
     "fortified armor training":     {
@@ -9422,8 +9460,7 @@ var featDict = {
         "prerequisiteKeys":         [
             "combat expertise",
             "fox insight",
-            "fox style",
-            "improved dirty trick"
+            "fox style"
         ]
     },
     "free spirit":     {
@@ -9538,6 +9575,7 @@ var featDict = {
     "furious spell":     {
         "key": "furious spell",
         "name": "Furious Spell",
+        "name_zh": "暴怒法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 134"]
     },
@@ -9559,10 +9597,7 @@ var featDict = {
         "name": "Fury's Snare",
         "descriptors": ["Combat"],
         "source": ["Cheliax, Empire of Devils pg. 26"],
-        "prerequisiteKeys":         [
-            "fury's fall",
-            "improved trip"
-        ]
+        "prerequisiteKeys": ["improved trip"]
     },
     "galley slave":     {
         "key": "galley slave",
@@ -9753,6 +9788,7 @@ var featDict = {
     "glimpse beyond":     {
         "key": "glimpse beyond",
         "name": "Glimpse Beyond",
+        "name_zh": "惊鸿一瞥",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 69"]
     },
@@ -9795,11 +9831,13 @@ var featDict = {
     "gluttonous gobbler":     {
         "key": "gluttonous gobbler",
         "name": "Gluttonous Gobbler",
+        "name_zh": "连嚼带吞",
         "source": ["Monster Codex pg. 152"]
     },
     "gnawer":     {
         "key": "gnawer",
         "name": "Gnawer",
+        "name_zh": "啃咬者",
         "source": ["Monster Codex pg. 176"],
         "prerequisiteKeys": ["sharptooth"]
     },
@@ -9921,6 +9959,7 @@ var featDict = {
     "grabbing drag":     {
         "key": "grabbing drag",
         "name": "Grabbing Drag",
+        "name_zh": "拖曳手",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 148"],
         "prerequisiteKeys":         [
@@ -9931,6 +9970,7 @@ var featDict = {
     "grabbing master":     {
         "key": "grabbing master",
         "name": "Grabbing Master",
+        "name_zh": "大擒拿手",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 148"],
         "prerequisiteKeys":         [
@@ -9942,6 +9982,7 @@ var featDict = {
     "grabbing style":     {
         "key": "grabbing style",
         "name": "Grabbing Style",
+        "name_zh": "擒拿手",
         "descriptors":         [
             "Combat",
             "Style"
@@ -9965,10 +10006,7 @@ var featDict = {
         "name": "Graceful Steal",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 84"],
-        "prerequisiteKeys":         [
-            "agile maneuvers",
-            "improved steal"
-        ]
+        "prerequisiteKeys": ["agile maneuvers"]
     },
     "grand duchy familiarity":     {
         "key": "grand duchy familiarity",
@@ -10000,6 +10038,7 @@ var featDict = {
     "grasping strike":     {
         "key": "grasping strike",
         "name": "Grasping Strike",
+        "name_zh": "纠缠之击",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 148"],
         "prerequisiteKeys":         [
@@ -10036,6 +10075,7 @@ var featDict = {
     "gray dwarf magic":     {
         "key": "gray dwarf magic",
         "name": "Gray Dwarf Magic",
+        "name_zh": "灰矮人魔法",
         "source": ["Monster Codex pg. 44"]
     },
     "gray maiden initiate":     {
@@ -10075,6 +10115,7 @@ var featDict = {
     "great rend":     {
         "key": "great rend",
         "name": "Great Rend",
+        "name_zh": "高等撕裂",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 224"]
     },
@@ -10097,8 +10138,7 @@ var featDict = {
         "prerequisiteKeys":         [
             "balor whip",
             "improved balor whip",
-            "weapon focus",
-            "whip mastery"
+            "weapon focus"
         ]
     },
     "greater beast hunter":     {
@@ -10139,6 +10179,7 @@ var featDict = {
     "greater blood frenzy":     {
         "key": "greater blood frenzy",
         "name": "Greater Blood Frenzy",
+        "name_zh": "高等血性狂怒",
         "source": ["Monster Codex pg. 189"]
     },
     "greater bull rush":     {
@@ -10188,6 +10229,7 @@ var featDict = {
     "greater dirge of doom":     {
         "key": "greater dirge of doom",
         "name": "Greater Dirge of Doom",
+        "name_zh": "高等末日丧歌",
         "source": ["Advanced Class Guide pg. 149"],
         "prerequisiteKeys": ["improved dirge of doom"]
     },
@@ -10289,8 +10331,7 @@ var featDict = {
         "key": "greater hunter's bond",
         "name": "Greater Hunter's Bond",
         "descriptors": ["Combat"],
-        "source": ["Ultimate Wilderness pg. 113"],
-        "prerequisiteKeys": ["improved hunter's bond"]
+        "source": ["Ultimate Wilderness pg. 113"]
     },
     "greater ironclad reactions":     {
         "key": "greater ironclad reactions",
@@ -10324,6 +10365,7 @@ var featDict = {
     "greater mesmerizing feint":     {
         "key": "greater mesmerizing feint",
         "name": "Greater Mesmerizing Feint",
+        "name_zh": "高等摄神虚招",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 134"],
         "prerequisiteKeys": ["mesmerizing feint"]
@@ -10379,7 +10421,6 @@ var featDict = {
         "source": ["Armor Master's Handbook pg. 18"],
         "prerequisiteKeys":         [
             "missile shield",
-            "ray shield",
             "spellbreaker"
         ]
     },
@@ -10437,14 +10478,15 @@ var featDict = {
         "source": ["Advanced Player's Guide pg. 162"],
         "prerequisiteKeys":         [
             "greater shield focus",
-            "shield focus"
+            "shield focus",
+            "shield specialization"
         ]
     },
     "greater skald's vigor":     {
         "key": "greater skald's vigor",
         "name": "Greater Skald's Vigor",
-        "source": ["Advanced Class Guide pg. 149"],
-        "prerequisiteKeys": ["skald's vigor"]
+        "name_zh": "高等健硕之歌",
+        "source": ["Advanced Class Guide pg. 149"]
     },
     "greater snap shot":     {
         "key": "greater snap shot",
@@ -10516,8 +10558,7 @@ var featDict = {
     "greater stylized spell":     {
         "key": "greater stylized spell",
         "name": "Greater Stylized Spell",
-        "source": ["Inner Sea Intrigue pg. 16"],
-        "prerequisiteKeys": ["stylized spell"]
+        "source": ["Inner Sea Intrigue pg. 16"]
     },
     "greater subjective slam":     {
         "key": "greater subjective slam",
@@ -10598,15 +10639,18 @@ var featDict = {
         "name": "Greater Weapon Focus",
         "name_zh": "高等武器专攻",
         "descriptors": ["Combat"],
-        "source": ["PRPG Core Rulebook pg. 126"]
+        "source": ["PRPG Core Rulebook pg. 126"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "greater weapon of the chosen":     {
         "key": "greater weapon of the chosen",
         "name": "Greater Weapon of the Chosen",
+        "name_zh": "高等神选武器",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 149"],
         "prerequisiteKeys":         [
             "improved weapon of the chosen",
+            "weapon focus",
             "weapon of the chosen"
         ]
     },
@@ -10624,7 +10668,12 @@ var featDict = {
         "name": "Greater Weapon Specialization",
         "name_zh": "高等武器专精",
         "descriptors": ["Combat"],
-        "source": ["PRPG Core Rulebook pg. 126"]
+        "source": ["PRPG Core Rulebook pg. 126"],
+        "prerequisiteKeys":         [
+            "greater weapon focus",
+            "weapon focus",
+            "weapon specialization"
+        ]
     },
     "greater whip mastery":     {
         "key": "greater whip mastery",
@@ -10750,6 +10799,7 @@ var featDict = {
     "gruesome slaughter":     {
         "key": "gruesome slaughter",
         "name": "Gruesome Slaughter",
+        "name_zh": "惧怖宰杀",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 150"],
         "prerequisiteKeys":         [
@@ -10796,8 +10846,7 @@ var featDict = {
         "key": "guided star",
         "name": "Guided Star",
         "descriptors": ["Combat"],
-        "source": ["Paths of the Righteous pg. 29"],
-        "prerequisiteKeys": ["starry grace"]
+        "source": ["Paths of the Righteous pg. 29"]
     },
     "guild emissary":     {
         "key": "guild emissary",
@@ -10907,10 +10956,7 @@ var featDict = {
         "key": "hand's detachment",
         "name": "Hand's Detachment",
         "source": ["Haunted Heroes Handbook pg. 24"],
-        "prerequisiteKeys":         [
-            "hand's autonomy",
-            "possessed hand"
-        ]
+        "prerequisiteKeys": ["possessed hand"]
     },
     "hand's knowledge":     {
         "key": "hand's knowledge",
@@ -11252,6 +11298,7 @@ var featDict = {
     "hidden presence":     {
         "key": "hidden presence",
         "name": "Hidden Presence",
+        "name_zh": "隐藏者",
         "source": ["Occult Adventures pg. 135"]
     },
     "hide worker":     {
@@ -11329,6 +11376,7 @@ var featDict = {
     "horn rider's charge":     {
         "key": "horn rider's charge",
         "name": "Horn Rider's Charge",
+        "name_zh": "回马枪",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 164"],
         "prerequisiteKeys": ["horn rider"]
@@ -11336,6 +11384,7 @@ var featDict = {
     "horn rider":     {
         "key": "horn rider",
         "name": "Horn Rider",
+        "name_zh": "驭角士",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 164"]
     },
@@ -11406,6 +11455,7 @@ var featDict = {
     "hurtful":     {
         "key": "hurtful",
         "name": "Hurtful",
+        "name_zh": "痛殴",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys": ["power attack"]
@@ -11449,6 +11499,7 @@ var featDict = {
     "icy stare":     {
         "key": "icy stare",
         "name": "Icy Stare",
+        "name_zh": "冷酷逼视",
         "source": ["Monster Codex pg. 68"],
         "prerequisiteKeys": ["born of frost"]
     },
@@ -11465,7 +11516,6 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 12"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "gnome weapon focus",
             "illusive gnome style",
             "illusive gnome surprise",
             "improved feint"
@@ -11481,7 +11531,6 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 12"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "gnome weapon focus",
             "improved feint"
         ]
     },
@@ -11492,7 +11541,6 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 12"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "gnome weapon focus",
             "illusive gnome style",
             "improved feint"
         ]
@@ -11522,7 +11570,10 @@ var featDict = {
             "Critical"
         ],
         "source": ["Ultimate Combat pg. 105"],
-        "prerequisiteKeys": ["critical focus"]
+        "prerequisiteKeys":         [
+            "critical focus",
+            "weapon specialization"
+        ]
     },
     "imperial prankster":     {
         "key": "imperial prankster",
@@ -11544,6 +11595,7 @@ var featDict = {
     "implement focus":     {
         "key": "implement focus",
         "name": "Implement Focus",
+        "name_zh": "灵器专攻",
         "source": ["Occult Adventures pg. 135"]
     },
     "implement mastery":     {
@@ -11578,12 +11630,10 @@ var featDict = {
     "improved awesome blow":     {
         "key": "improved awesome blow",
         "name": "Improved Awesome Blow",
+        "name_zh": "至尊打",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 150"],
-        "prerequisiteKeys":         [
-            "awesome blow",
-            "power attack"
-        ]
+        "prerequisiteKeys": ["awesome blow"]
     },
     "improved awesome throw":     {
         "key": "improved awesome throw",
@@ -11611,8 +11661,7 @@ var featDict = {
         "source": ["Villain Codex pg. 80"],
         "prerequisiteKeys":         [
             "balor whip",
-            "weapon focus",
-            "whip mastery"
+            "weapon focus"
         ]
     },
     "improved beast hunter":     {
@@ -11745,8 +11794,7 @@ var featDict = {
     "improved death-stealing":     {
         "key": "improved death-stealing",
         "name": "Improved Death-Stealing",
-        "source": ["Demons Revisited pg. 44"],
-        "prerequisiteKeys": ["ability focus"]
+        "source": ["Demons Revisited pg. 44"]
     },
     "improved devastating strike":     {
         "key": "improved devastating strike",
@@ -11762,6 +11810,7 @@ var featDict = {
     "improved dirge of doom":     {
         "key": "improved dirge of doom",
         "name": "Improved Dirge of Doom",
+        "name_zh": "精通末日丧歌",
         "source": ["Advanced Class Guide pg. 150"]
     },
     "improved dirty trick":     {
@@ -11775,6 +11824,7 @@ var featDict = {
     "improved disarm partner":     {
         "key": "improved disarm partner",
         "name": "Improved Disarm Partner",
+        "name_zh": "精通协同卸武",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -11808,6 +11858,7 @@ var featDict = {
     "improved duck and cover":     {
         "key": "improved duck and cover",
         "name": "Improved Duck and Cover",
+        "name_zh": "精通庇护",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Class Guide pg. 150"],
         "prerequisiteKeys": ["duck and cover"]
@@ -11885,6 +11936,7 @@ var featDict = {
     "improved flexible wizardry":     {
         "key": "improved flexible wizardry",
         "name": "Improved Flexible Wizardry",
+        "name_zh": "精通灵活魔术",
         "source": ["Advanced Class Guide pg. 150"],
         "prerequisiteKeys":         [
             "flexible wizardry",
@@ -11964,7 +12016,8 @@ var featDict = {
         "source": ["Ultimate Combat pg. 105"],
         "prerequisiteKeys":         [
             "critical focus",
-            "impaling critical"
+            "impaling critical",
+            "weapon specialization"
         ]
     },
     "improved improvisation":     {
@@ -12033,8 +12086,7 @@ var featDict = {
     "improved lookout":     {
         "key": "improved lookout",
         "name": "Improved Lookout",
-        "source": ["Dirty Tactics Toolbox pg. 13"],
-        "prerequisiteKeys": ["lookout"]
+        "source": ["Dirty Tactics Toolbox pg. 13"]
     },
     "improved low blow":     {
         "key": "improved low blow",
@@ -12085,8 +12137,7 @@ var featDict = {
             "Combat",
             "Teamwork"
         ],
-        "source": ["Legacy of the First World pg. 19"],
-        "prerequisiteKeys": ["outflank"]
+        "source": ["Legacy of the First World pg. 19"]
     },
     "improved overrun":     {
         "key": "improved overrun",
@@ -12156,8 +12207,7 @@ var featDict = {
             "Combat",
             "Teamwork"
         ],
-        "source": ["Legacy of the First World pg. 19"],
-        "prerequisiteKeys": ["precise strike"]
+        "source": ["Legacy of the First World pg. 19"]
     },
     "improved punishing step":     {
         "key": "improved punishing step",
@@ -12266,6 +12316,7 @@ var featDict = {
     "improved spell sharing":     {
         "key": "improved spell sharing",
         "name": "Improved Spell Sharing",
+        "name_zh": "精通法术共享",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Class Guide pg. 150"]
     },
@@ -12320,6 +12371,7 @@ var featDict = {
     "improved studied combatant":     {
         "key": "improved studied combatant",
         "name": "Improved Studied Combatant",
+        "name_zh": "精通决斗智慧",
         "source": ["Advanced Class Guide pg. 150"],
         "prerequisiteKeys":         [
             "amateur investigator",
@@ -12349,6 +12401,7 @@ var featDict = {
     "improved swap places":     {
         "key": "improved swap places",
         "name": "Improved Swap Places",
+        "name_zh": "精通换位",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -12450,9 +12503,13 @@ var featDict = {
     "improved weapon of the chosen":     {
         "key": "improved weapon of the chosen",
         "name": "Improved Weapon of the Chosen",
+        "name_zh": "精通神选武器",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 151"],
-        "prerequisiteKeys": ["weapon of the chosen"]
+        "prerequisiteKeys":         [
+            "weapon focus",
+            "weapon of the chosen"
+        ]
     },
     "improved weapon shift":     {
         "key": "improved weapon shift",
@@ -12546,11 +12603,7 @@ var featDict = {
     "incorporeal intuition":     {
         "key": "incorporeal intuition",
         "name": "Incorporeal Intuition",
-        "source": ["Horror Adventures pg. 88"],
-        "prerequisiteKeys":         [
-            "psychic sensitivity",
-            "spirit sense"
-        ]
+        "source": ["Horror Adventures pg. 88"]
     },
     "incredible healer":     {
         "key": "incredible healer",
@@ -12667,11 +12720,13 @@ var featDict = {
     "innate arcana":     {
         "key": "innate arcana",
         "name": "Innate Arcana",
+        "name_zh": "自生秘法",
         "source": ["Monster Codex pg. 200"]
     },
     "innate flexibility":     {
         "key": "innate flexibility",
         "name": "Innate Flexibility",
+        "name_zh": "灵巧魔力",
         "source": ["Monster Codex pg. 44"]
     },
     "inner breath":     {
@@ -12701,6 +12756,7 @@ var featDict = {
     "innocent blood":     {
         "key": "innocent blood",
         "name": "Innocent Blood",
+        "name_zh": "无辜鲜血",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 69"]
     },
@@ -12729,6 +12785,7 @@ var featDict = {
     "insightful delivery":     {
         "key": "insightful delivery",
         "name": "Insightful Delivery",
+        "name_zh": "精明毒杀",
         "source": ["Advanced Class Guide pg. 151"]
     },
     "insightful gaze":     {
@@ -12745,11 +12802,13 @@ var featDict = {
     "inspired alchemy":     {
         "key": "inspired alchemy",
         "name": "Inspired Alchemy",
+        "name_zh": "炼金术灵感",
         "source": ["Advanced Class Guide pg. 151"]
     },
     "inspired by fear":     {
         "key": "inspired by fear",
         "name": "Inspired by Fear",
+        "name_zh": "拥抱恐惧",
         "source": ["Advanced Class Guide pg. 151"]
     },
     "inspired sneak attack":     {
@@ -12761,6 +12820,7 @@ var featDict = {
     "inspired strike":     {
         "key": "inspired strike",
         "name": "Inspired Strike",
+        "name_zh": "灵感打击",
         "source": ["Advanced Class Guide pg. 151"]
     },
     "inspiring bravery":     {
@@ -12809,6 +12869,7 @@ var featDict = {
     "intense pain":     {
         "key": "intense pain",
         "name": "Intense Pain",
+        "name_zh": "剧烈痛楚",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -12837,6 +12898,7 @@ var featDict = {
     "intercept charge":     {
         "key": "intercept charge",
         "name": "Intercept Charge",
+        "name_zh": "迎身上前",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -12846,6 +12908,7 @@ var featDict = {
     "interweave composite blast":     {
         "key": "interweave composite blast",
         "name": "Interweave Composite Blast",
+        "name_zh": "合力念袭",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -12885,12 +12948,14 @@ var featDict = {
     "intimidating glance":     {
         "key": "intimidating glance",
         "name": "Intimidating Glance",
+        "name_zh": "威慑眼神",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 135"]
     },
     "intimidating performance":     {
         "key": "intimidating performance",
         "name": "Intimidating Performance",
+        "name_zh": "威慑表演",
         "source": ["Advanced Class Guide pg. 151"]
     },
     "intimidating prowess":     {
@@ -12921,6 +12986,7 @@ var featDict = {
     "intrusive presence":     {
         "key": "intrusive presence",
         "name": "Intrusive Presence",
+        "name_zh": "窃心者",
         "source": ["Occult Adventures pg. 135"],
         "prerequisiteKeys":         [
             "hidden presence",
@@ -12930,6 +12996,7 @@ var featDict = {
     "intuitive spell":     {
         "key": "intuitive spell",
         "name": "Intuitive Spell",
+        "name_zh": "本能法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 136"]
     },
@@ -13004,6 +13071,7 @@ var featDict = {
     "jabbing dancer":     {
         "key": "jabbing dancer",
         "name": "Jabbing Dancer",
+        "name_zh": "百裂步",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 151"],
         "prerequisiteKeys":         [
@@ -13016,6 +13084,7 @@ var featDict = {
     "jabbing master":     {
         "key": "jabbing master",
         "name": "Jabbing Master",
+        "name_zh": "千手百裂",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 151"],
         "prerequisiteKeys":         [
@@ -13030,6 +13099,7 @@ var featDict = {
     "jabbing style":     {
         "key": "jabbing style",
         "name": "Jabbing Style",
+        "name_zh": "百裂拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13151,8 +13221,7 @@ var featDict = {
         "source": ["Melee Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
             "dodge",
-            "mobility",
-            "sidestep"
+            "mobility"
         ]
     },
     "jumper":     {
@@ -13220,6 +13289,7 @@ var featDict = {
     "kick up":     {
         "key": "kick up",
         "name": "Kick Up",
+        "name_zh": "挂金勾",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 152"],
         "prerequisiteKeys": ["acrobatic"]
@@ -13227,6 +13297,7 @@ var featDict = {
     "killing flourish":     {
         "key": "killing flourish",
         "name": "Killing Flourish",
+        "name_zh": "处刑秀",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 152"],
         "prerequisiteKeys": ["intimidating prowess"]
@@ -13234,6 +13305,7 @@ var featDict = {
     "kinetic counter":     {
         "key": "kinetic counter",
         "name": "Kinetic Counter",
+        "name_zh": "咒返念袭",
         "source": ["Occult Adventures pg. 136"]
     },
     "kinetic crafting":     {
@@ -13249,6 +13321,7 @@ var featDict = {
     "kinetic leap":     {
         "key": "kinetic leap",
         "name": "Kinetic Leap",
+        "name_zh": "念动飞跃",
         "source": ["Occult Adventures pg. 136"]
     },
     "kinslayer":     {
@@ -13298,10 +13371,7 @@ var featDict = {
             "Style"
         ],
         "source": ["Dirty Tactics Toolbox pg. 15"],
-        "prerequisiteKeys":         [
-            "combat expertise",
-            "improved dirty trick"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "kitsune tricks":     {
         "key": "kitsune tricks",
@@ -13310,7 +13380,6 @@ var featDict = {
         "source": ["Dirty Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved dirty trick",
             "kitsune style"
         ]
     },
@@ -13321,7 +13390,6 @@ var featDict = {
         "source": ["Dirty Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved dirty trick",
             "kitsune style",
             "kitsune tricks"
         ]
@@ -13628,6 +13696,7 @@ var featDict = {
     "lay of the land":     {
         "key": "lay of the land",
         "name": "Lay of the Land",
+        "name_zh": "亲和大地",
         "source": ["Advanced Class Guide pg. 152"]
     },
     "lead by example":     {
@@ -13767,6 +13836,7 @@ var featDict = {
     "liberator":     {
         "key": "liberator",
         "name": "Liberator",
+        "name_zh": "自由斗士",
         "descriptors": ["Story"],
         "source":         [
             "Quests and Campaigns pg. 11",
@@ -14014,6 +14084,7 @@ var featDict = {
     "logical spell":     {
         "key": "logical spell",
         "name": "Logical Spell",
+        "name_zh": "逻辑法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 137"]
     },
@@ -14057,6 +14128,7 @@ var featDict = {
     "lost legacy":     {
         "key": "lost legacy",
         "name": "Lost Legacy",
+        "name_zh": "失落荣光",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 70"]
     },
@@ -14081,6 +14153,7 @@ var featDict = {
     "lucid dreamer":     {
         "key": "lucid dreamer",
         "name": "Lucid Dreamer",
+        "name_zh": "寻梦师",
         "source": ["Occult Adventures pg. 137"]
     },
     "luck of heroes":     {
@@ -14088,8 +14161,7 @@ var featDict = {
         "name": "Luck of Heroes",
         "name_zh": "好运连连",
         "descriptors": ["Hero Point"],
-        "source": ["Advanced Player's Guide pg. 324"],
-        "prerequisiteKeys": ["hero's fortune"]
+        "source": ["Advanced Player's Guide pg. 324"]
     },
     "lucky halfling":     {
         "key": "lucky halfling",
@@ -14128,6 +14200,7 @@ var featDict = {
     "lunging spell touch":     {
         "key": "lunging spell touch",
         "name": "Lunging Spell Touch",
+        "name_zh": "法术突刺",
         "source": ["Advanced Class Guide pg. 152"]
     },
     "mad magic":     {
@@ -14222,6 +14295,7 @@ var featDict = {
     "magnum opus":     {
         "key": "magnum opus",
         "name": "Magnum Opus",
+        "name_zh": "传世佳作",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 70"]
     },
@@ -14267,6 +14341,7 @@ var featDict = {
     "manifested blood":     {
         "key": "manifested blood",
         "name": "Manifested Blood",
+        "name_zh": "血脉显现",
         "source": ["Advanced Class Guide pg. 152"]
     },
     "manifold stare":     {
@@ -14286,6 +14361,7 @@ var featDict = {
     "manipulative presence":     {
         "key": "manipulative presence",
         "name": "Manipulative Presence",
+        "name_zh": "操控者",
         "source": ["Occult Adventures pg. 137"],
         "prerequisiteKeys": ["hidden presence"]
     },
@@ -14393,6 +14469,7 @@ var featDict = {
     "marked for glory":     {
         "key": "marked for glory",
         "name": "Marked for Glory",
+        "name_zh": "注定荣耀",
         "source": ["Mythic Adventures pg. 69"],
         "prerequisiteKeys":         [
             "great fortitude",
@@ -14726,14 +14803,12 @@ var featDict = {
         "name": "Merciless Beating",
         "descriptors": ["Combat"],
         "source": ["The Harrow Handbook pg. 19"],
-        "prerequisiteKeys":         [
-            "combat expertise",
-            "gang up"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "merciless butchery":     {
         "key": "merciless butchery",
         "name": "Merciless Butchery",
+        "name_zh": "无情杀戮",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 152"],
         "prerequisiteKeys": ["dastardly finish"]
@@ -14761,6 +14836,7 @@ var featDict = {
     "mesmerizing feint":     {
         "key": "mesmerizing feint",
         "name": "Mesmerizing Feint",
+        "name_zh": "摄神虚招",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 137"]
     },
@@ -14805,11 +14881,13 @@ var featDict = {
         "key": "meteor swing",
         "name": "Meteor Swing",
         "descriptors": ["Combat"],
-        "source": ["Martial Arts Handbook pg. 26"]
+        "source": ["Martial Arts Handbook pg. 26"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "mighty bite":     {
         "key": "mighty bite",
         "name": "Mighty Bite",
+        "name_zh": "碎肉之牙",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 224"]
     },
@@ -14921,8 +14999,7 @@ var featDict = {
     "mixed scales":     {
         "key": "mixed scales",
         "name": "Mixed Scales",
-        "source": ["Kobolds of Golarion pg. 24"],
-        "prerequisiteKeys": ["draconic aspect"]
+        "source": ["Kobolds of Golarion pg. 24"]
     },
     "mobile acrobat":     {
         "key": "mobile acrobat",
@@ -15131,6 +15208,7 @@ var featDict = {
     "monument builder":     {
         "key": "monument builder",
         "name": "Monument Builder",
+        "name_zh": "不朽巨匠",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 71"]
     },
@@ -15198,6 +15276,7 @@ var featDict = {
     "motivated march":     {
         "key": "motivated march",
         "name": "Motivated March",
+        "name_zh": "监军",
         "source": ["Monster Codex pg. 117"]
     },
     "motivating display":     {
@@ -15384,8 +15463,7 @@ var featDict = {
             "Combat",
             "Grit"
         ],
-        "source": ["Villain Codex pg. 56"],
-        "prerequisiteKeys": ["exotic weapon proficiency"]
+        "source": ["Villain Codex pg. 56"]
     },
     "musketeer's reposition":     {
         "key": "musketeer's reposition",
@@ -15394,8 +15472,7 @@ var featDict = {
             "Combat",
             "Grit"
         ],
-        "source": ["Villain Codex pg. 56"],
-        "prerequisiteKeys": ["exotic weapon proficiency"]
+        "source": ["Villain Codex pg. 56"]
     },
     "musketeer's sidestep":     {
         "key": "musketeer's sidestep",
@@ -15419,6 +15496,7 @@ var featDict = {
     "mutual hatred":     {
         "key": "mutual hatred",
         "name": "Mutual Hatred",
+        "name_zh": "恨意反制",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 164"]
     },
@@ -15448,14 +15526,14 @@ var featDict = {
     "mythic companion":     {
         "key": "mythic companion",
         "name": "Mythic Companion",
+        "name_zh": "参与神话",
         "source": ["Mythic Adventures pg. 70"]
     },
     "named bullet":     {
         "key": "named bullet",
         "name": "Named Bullet",
         "descriptors": ["Grit"],
-        "source": ["Champions of Balance pg. 19"],
-        "prerequisiteKeys": ["gunsmithing"]
+        "source": ["Champions of Balance pg. 19"]
     },
     "nameless one":     {
         "key": "nameless one",
@@ -15484,6 +15562,7 @@ var featDict = {
     "nation builder":     {
         "key": "nation builder",
         "name": "Nation Builder",
+        "name_zh": "开国元勋",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 71"]
     },
@@ -15529,6 +15608,7 @@ var featDict = {
     "nature magic":     {
         "key": "nature magic",
         "name": "Nature Magic",
+        "name_zh": "自然魔法",
         "source": ["Advanced Class Guide pg. 152"]
     },
     "nature soul":     {
@@ -15588,14 +15668,12 @@ var featDict = {
         "name": "Neither Elf nor Human",
         "name_zh": "既非精灵也非人类",
         "source": ["Advanced Race Guide pg. 47"],
-        "prerequisiteKeys":         [
-            "exile's path",
-            "seen and unseen"
-        ]
+        "prerequisiteKeys": ["seen and unseen"]
     },
     "nemesis":     {
         "key": "nemesis",
         "name": "Nemesis",
+        "name_zh": "仇怨缠身",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 71"]
     },
@@ -15667,6 +15745,7 @@ var featDict = {
     "night stalker":     {
         "key": "night stalker",
         "name": "Night Stalker",
+        "name_zh": "尾行夜魔",
         "source":         [
             "Monster Codex pg. 153",
             "Classic Monsters Revisited pg. 49"
@@ -15775,8 +15854,7 @@ var featDict = {
     "noble stipend":     {
         "key": "noble stipend",
         "name": "Noble Stipend",
-        "source": ["Heroes of the High Court pg. 5"],
-        "prerequisiteKeys": ["noble scion"]
+        "source": ["Heroes of the High Court pg. 5"]
     },
     "nosoi's spiritsense":     {
         "key": "nosoi's spiritsense",
@@ -15880,6 +15958,7 @@ var featDict = {
     "ogre crush":     {
         "key": "ogre crush",
         "name": "Ogre Crush",
+        "name_zh": "食人魔碎骨扼",
         "source": ["Monster Codex pg. 153"],
         "prerequisiteKeys":         [
             "improved grapple",
@@ -15889,6 +15968,7 @@ var featDict = {
     "old as dust":     {
         "key": "old as dust",
         "name": "Old as Dust",
+        "name_zh": "老而不死",
         "source": ["Monster Codex pg. 80"],
         "prerequisiteKeys":         [
             "sleeper",
@@ -16006,6 +16086,7 @@ var featDict = {
     "orator":     {
         "key": "orator",
         "name": "Orator",
+        "name_zh": "雄辩家",
         "source": ["Advanced Class Guide pg. 152"],
         "prerequisiteKeys": ["skill focus"]
     },
@@ -16017,10 +16098,7 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 13"],
-        "prerequisiteKeys":         [
-            "bullying blow",
-            "intimidating prowess"
-        ]
+        "prerequisiteKeys": ["intimidating prowess"]
     },
     "orc hewer":     {
         "key": "orc hewer",
@@ -16040,7 +16118,6 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Weapon Master's Handbook pg. 13"],
         "prerequisiteKeys":         [
-            "bullying blow",
             "intimidating prowess",
             "orc fury style"
         ]
@@ -16051,7 +16128,6 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Weapon Master's Handbook pg. 13"],
         "prerequisiteKeys":         [
-            "bullying blow",
             "intimidating prowess",
             "orc fury style",
             "orc rampage"
@@ -16171,7 +16247,8 @@ var featDict = {
             "combat expertise",
             "lunge",
             "outslug style",
-            "outslug weave"
+            "outslug weave",
+            "weapon focus"
         ]
     },
     "outslug style":     {
@@ -16182,7 +16259,10 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 16"],
-        "prerequisiteKeys": ["combat expertise"]
+        "prerequisiteKeys":         [
+            "combat expertise",
+            "weapon focus"
+        ]
     },
     "outslug weave":     {
         "key": "outslug weave",
@@ -16192,7 +16272,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "combat expertise",
             "lunge",
-            "outslug style"
+            "outslug style",
+            "weapon focus"
         ]
     },
     "overachiever":     {
@@ -16234,7 +16315,8 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 14"],
         "prerequisiteKeys":         [
             "precise shot",
-            "rapid shot"
+            "rapid shot",
+            "weapon focus"
         ]
     },
     "overwatch tactician":     {
@@ -16245,7 +16327,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "overwatch style",
             "precise shot",
-            "rapid shot"
+            "rapid shot",
+            "weapon focus"
         ]
     },
     "overwatch vortex":     {
@@ -16257,7 +16340,8 @@ var featDict = {
             "overwatch style",
             "overwatch tactician",
             "precise shot",
-            "rapid shot"
+            "rapid shot",
+            "weapon focus"
         ]
     },
     "overwhelm":     {
@@ -16323,6 +16407,7 @@ var featDict = {
     "pack flanking":     {
         "key": "pack flanking",
         "name": "Pack Flanking",
+        "name_zh": "兽群围猎",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -16342,6 +16427,7 @@ var featDict = {
     "pack rat":     {
         "key": "pack rat",
         "name": "Pack Rat",
+        "name_zh": "老鼠搬家",
         "source": ["Monster Codex pg. 176"]
     },
     "pack tactics":     {
@@ -16444,6 +16530,7 @@ var featDict = {
     "paralyzing strike":     {
         "key": "paralyzing strike",
         "name": "Paralyzing Strike",
+        "name_zh": "定身拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 153"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -16458,6 +16545,7 @@ var featDict = {
     "parting blast":     {
         "key": "parting blast",
         "name": "Parting Blast",
+        "name_zh": "临终念爆",
         "source": ["Occult Adventures pg. 137"]
     },
     "parting shot":     {
@@ -16727,11 +16815,13 @@ var featDict = {
     "phantom fighter":     {
         "key": "phantom fighter",
         "name": "Phantom Fighter",
+        "name_zh": "魅影战士",
         "source": ["Occult Adventures pg. 137"]
     },
     "phantom fortification":     {
         "key": "phantom fortification",
         "name": "Phantom Fortification",
+        "name_zh": "强固魅影",
         "source": ["Occult Adventures pg. 137"]
     },
     "phase strike":     {
@@ -16781,6 +16871,7 @@ var featDict = {
     "pile on":     {
         "key": "pile on",
         "name": "Pile On",
+        "name_zh": "自信粉碎",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys":         [
@@ -16954,7 +17045,8 @@ var featDict = {
         "name": "Point-Blank Master",
         "name_zh": "贴身射击",
         "descriptors": ["Combat"],
-        "source": ["Advanced Player's Guide pg. 167"]
+        "source": ["Advanced Player's Guide pg. 167"],
+        "prerequisiteKeys": ["weapon specialization"]
     },
     "point-blank shot":     {
         "key": "point-blank shot",
@@ -16986,8 +17078,7 @@ var featDict = {
         "key": "poison shot deed",
         "name": "Poison Shot Deed",
         "descriptors": ["Grit"],
-        "source": ["Dirty Tactics Toolbox pg. 9"],
-        "prerequisiteKeys": ["amateur gunslinger"]
+        "source": ["Dirty Tactics Toolbox pg. 9"]
     },
     "poisoner's channel":     {
         "key": "poisoner's channel",
@@ -17008,6 +17099,7 @@ var featDict = {
     "pommel strike deed":     {
         "key": "pommel strike deed",
         "name": "Pommel Strike Deed",
+        "name_zh": "刀柄打",
         "descriptors": ["Panache"],
         "source": ["Advanced Class Guide pg. 153"],
         "prerequisiteKeys": ["amateur swashbuckler"]
@@ -17088,6 +17180,7 @@ var featDict = {
     "powerful tongue":     {
         "key": "powerful tongue",
         "name": "Powerful Tongue",
+        "name_zh": "强力舌头",
         "source": ["Monster Codex pg. 8"]
     },
     "powerful wings":     {
@@ -17181,7 +17274,8 @@ var featDict = {
     "prestigious spellcaster":     {
         "key": "prestigious spellcaster",
         "name": "Prestigious Spellcaster",
-        "source": ["Paths of the Righteous pg. 3"]
+        "source": ["Paths of the Righteous pg. 3"],
+        "prerequisiteKeys": ["favored prestige class"]
     },
     "primal ancestry":     {
         "key": "primal ancestry",
@@ -17239,6 +17333,7 @@ var featDict = {
     "prophet":     {
         "key": "prophet",
         "name": "Prophet",
+        "name_zh": "布道先知",
         "descriptors": ["Story"],
         "source":         [
             "Quests and Campaigns pg. 12",
@@ -17269,8 +17364,7 @@ var featDict = {
             "Combat",
             "Teamwork"
         ],
-        "source": ["Villain Codex pg. 56"],
-        "prerequisiteKeys": ["exotic weapon proficiency"]
+        "source": ["Villain Codex pg. 56"]
     },
     "protector of the people":     {
         "key": "protector of the people",
@@ -17294,12 +17388,14 @@ var featDict = {
     "psychic adept":     {
         "key": "psychic adept",
         "name": "Psychic Adept",
+        "name_zh": "念力技法",
         "source": ["Occult Adventures pg. 137"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
     "psychic combatant":     {
         "key": "psychic combatant",
         "name": "Psychic Combatant",
+        "name_zh": "心灵争斗者",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 137"],
         "prerequisiteKeys": ["psychic sensitivity"]
@@ -17307,12 +17403,14 @@ var featDict = {
     "psychic defender":     {
         "key": "psychic defender",
         "name": "Psychic Defender",
+        "name_zh": "心灵护卫者",
         "source": ["Occult Adventures pg. 138"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
     "psychic disciple":     {
         "key": "psychic disciple",
         "name": "Psychic Disciple",
+        "name_zh": "异能修行者",
         "source": ["Occult Adventures pg. 138"],
         "prerequisiteKeys":         [
             "psychic adept",
@@ -17322,23 +17420,27 @@ var featDict = {
     "psychic healing":     {
         "key": "psychic healing",
         "name": "Psychic Healing",
+        "name_zh": "精神疗法",
         "source": ["Occult Adventures pg. 138"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
     "psychic maestro":     {
         "key": "psychic maestro",
         "name": "Psychic Maestro",
+        "name_zh": "神秘技能大师",
         "source": ["Occult Adventures pg. 138"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
     "psychic sensitivity":     {
         "key": "psychic sensitivity",
         "name": "Psychic Sensitivity",
+        "name_zh": "异能敏感",
         "source": ["Occult Adventures pg. 138"]
     },
     "psychic virtuoso":     {
         "key": "psychic virtuoso",
         "name": "Psychic Virtuoso",
+        "name_zh": "神秘技能达人",
         "source": ["Occult Adventures pg. 138"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
@@ -17376,6 +17478,7 @@ var featDict = {
     "pummeling bully":     {
         "key": "pummeling bully",
         "name": "Pummeling Bully",
+        "name_zh": "刚掌波",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 153"],
         "prerequisiteKeys":         [
@@ -17388,6 +17491,7 @@ var featDict = {
     "pummeling charge":     {
         "key": "pummeling charge",
         "name": "Pummeling Charge",
+        "name_zh": "天将奔烈",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 154"],
         "prerequisiteKeys":         [
@@ -17398,6 +17502,7 @@ var featDict = {
     "pummeling style":     {
         "key": "pummeling style",
         "name": "Pummeling Style",
+        "name_zh": "刚烈掌",
         "descriptors":         [
             "Combat",
             "Style"
@@ -17418,10 +17523,7 @@ var featDict = {
         "key": "pungent stench",
         "name": "Pungent Stench",
         "source": ["Demons Revisited pg. 26"],
-        "prerequisiteKeys":         [
-            "great fortitude",
-            "improved stench"
-        ]
+        "prerequisiteKeys": ["improved stench"]
     },
     "punishing kick":     {
         "key": "punishing kick",
@@ -17480,6 +17582,7 @@ var featDict = {
     "push the limits":     {
         "key": "push the limits",
         "name": "Push the Limits",
+        "name_zh": "突破极限",
         "descriptors": ["Combat"],
         "source": ["Pathfinder Unchained pg. 113"],
         "prerequisiteKeys": ["combat stamina"]
@@ -17625,6 +17728,7 @@ var featDict = {
     "quicken blessing":     {
         "key": "quicken blessing",
         "name": "Quicken Blessing",
+        "name_zh": "快速祝福",
         "source": ["Advanced Class Guide pg. 154"]
     },
     "quicken spell-like ability":     {
@@ -17686,16 +17790,19 @@ var featDict = {
     "rage casting":     {
         "key": "rage casting",
         "name": "Rage Casting",
+        "name_zh": "血暴魔法",
         "source": ["Advanced Class Guide pg. 154"]
     },
     "raging absorption":     {
         "key": "raging absorption",
         "name": "Raging Absorption",
+        "name_zh": "血怒吸能",
         "source": ["Advanced Class Guide pg. 154"]
     },
     "raging blood":     {
         "key": "raging blood",
         "name": "Raging Blood",
+        "name_zh": "狂怒血统",
         "source": ["Advanced Class Guide pg. 155"],
         "prerequisiteKeys": ["eldritch heritage"]
     },
@@ -17709,11 +17816,13 @@ var featDict = {
     "raging brute":     {
         "key": "raging brute",
         "name": "Raging Brute",
+        "name_zh": "武疯子",
         "source": ["Monster Codex pg. 153"]
     },
     "raging concentration":     {
         "key": "raging concentration",
         "name": "Raging Concentration",
+        "name_zh": "血魔专注",
         "source": ["Advanced Class Guide pg. 155"]
     },
     "raging deathblow":     {
@@ -17732,6 +17841,7 @@ var featDict = {
     "raging regeneration":     {
         "key": "raging regeneration",
         "name": "Raging Regeneration",
+        "name_zh": "狂暴再生",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 224"]
     },
@@ -17796,7 +17906,9 @@ var featDict = {
     "ranged study":     {
         "key": "ranged study",
         "name": "Ranged Study",
-        "source": ["Advanced Class Guide pg. 155"]
+        "name_zh": "远程策略",
+        "source": ["Advanced Class Guide pg. 155"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "ranged trip":     {
         "key": "ranged trip",
@@ -17811,6 +17923,7 @@ var featDict = {
     "rapid focus shift":     {
         "key": "rapid focus shift",
         "name": "Rapid Focus Shift",
+        "name_zh": "快速心智转移",
         "source": ["Occult Adventures pg. 138"]
     },
     "rapid grappler":     {
@@ -17916,12 +18029,12 @@ var featDict = {
     "reactive arcane shield":     {
         "key": "reactive arcane shield",
         "name": "Reactive Arcane Shield",
-        "source": ["Melee Tactics Toolbox pg. 15"],
-        "prerequisiteKeys": ["arcane shield"]
+        "source": ["Melee Tactics Toolbox pg. 15"]
     },
     "reactive healing":     {
         "key": "reactive healing",
         "name": "Reactive Healing",
+        "name_zh": "救急医疗",
         "source": ["Advanced Class Guide pg. 155"],
         "prerequisiteKeys":         [
             "quick channel",
@@ -17959,11 +18072,13 @@ var featDict = {
     "ready for battle":     {
         "key": "ready for battle",
         "name": "Ready for Battle",
+        "name_zh": "随时备战",
         "source": ["Occult Adventures pg. 138"]
     },
     "ready for pain":     {
         "key": "ready for pain",
         "name": "Ready for Pain",
+        "name_zh": "痛感钝化",
         "source": ["Occult Adventures pg. 138"]
     },
     "realistic likeness":     {
@@ -18033,12 +18148,14 @@ var featDict = {
     "reckless rage":     {
         "key": "reckless rage",
         "name": "Reckless Rage",
+        "name_zh": "鲁莽狂暴",
         "source": ["Advanced Class Guide pg. 155"],
         "prerequisiteKeys": ["power attack"]
     },
     "recovered rage":     {
         "key": "recovered rage",
         "name": "Recovered Rage",
+        "name_zh": "狂暴复苏",
         "source": ["Advanced Class Guide pg. 155"]
     },
     "recruits":     {
@@ -18063,6 +18180,7 @@ var featDict = {
     "redemption":     {
         "key": "redemption",
         "name": "Redemption",
+        "name_zh": "救赎之旅",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 71"]
     },
@@ -18082,7 +18200,6 @@ var featDict = {
         ],
         "source": ["Inner Sea Combat pg. 17"],
         "prerequisiteKeys":         [
-            "amateur gunslinger",
             "deadly aim",
             "point-blank shot",
             "precise shot"
@@ -18126,6 +18243,7 @@ var featDict = {
     "regenerate muscles":     {
         "key": "regenerate muscles",
         "name": "Regenerate Muscles",
+        "name_zh": "肌腱再生",
         "source": ["Monster Codex pg. 224"],
         "prerequisiteKeys": ["power attack"]
     },
@@ -18238,6 +18356,7 @@ var featDict = {
     "resilient armor":     {
         "key": "resilient armor",
         "name": "Resilient Armor",
+        "name_zh": "铁甲护体",
         "source": ["Advanced Class Guide pg. 155"]
     },
     "resilient brute":     {
@@ -18445,10 +18564,7 @@ var featDict = {
             "Inner Sea Gods pg. 215",
             "Faiths of Balance pg. 24"
         ],
-        "prerequisiteKeys":         [
-            "improved drag",
-            "improved trip"
-        ]
+        "prerequisiteKeys": ["improved trip"]
     },
     "risky striker":     {
         "key": "risky striker",
@@ -18494,6 +18610,7 @@ var featDict = {
     "riving strike":     {
         "key": "riving strike",
         "name": "Riving Strike",
+        "name_zh": "奥能收割",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 155"],
         "prerequisiteKeys": ["arcane strike"]
@@ -18704,6 +18821,7 @@ var featDict = {
     "savage critical":     {
         "key": "savage critical",
         "name": "Savage Critical",
+        "name_zh": "凶恶重击",
         "source": ["Monster Codex pg. 153"]
     },
     "savage display":     {
@@ -18784,14 +18902,12 @@ var featDict = {
         "key": "scarlet rose devotion",
         "name": "Scarlet Rose Devotion",
         "source": ["Adventurer's Guide pg. 85"],
-        "prerequisiteKeys":         [
-            "bodyguard",
-            "combat reflexes"
-        ]
+        "prerequisiteKeys": ["combat reflexes"]
     },
     "scarred legion":     {
         "key": "scarred legion",
         "name": "Scarred Legion",
+        "name_zh": "疤痕军团",
         "descriptors": ["Teamwork"],
         "source": ["Monster Codex pg. 164"]
     },
@@ -18804,6 +18920,7 @@ var featDict = {
     "scarring spell":     {
         "key": "scarring spell",
         "name": "Scarring Spell",
+        "name_zh": "创痕法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 139"]
     },
@@ -19048,8 +19165,7 @@ var featDict = {
         "key": "seen and unseen",
         "name": "Seen and Unseen",
         "name_zh": "飘忽不定",
-        "source": ["Advanced Race Guide pg. 47"],
-        "prerequisiteKeys": ["exile's path"]
+        "source": ["Advanced Race Guide pg. 47"]
     },
     "seeping darkness":     {
         "key": "seeping darkness",
@@ -19060,6 +19176,7 @@ var featDict = {
     "seething hatred":     {
         "key": "seething hatred",
         "name": "Seething Hatred",
+        "name_zh": "憎恶集中",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 155"]
     },
@@ -19173,6 +19290,7 @@ var featDict = {
     "serpentine compression":     {
         "key": "serpentine compression",
         "name": "Serpentine Compression",
+        "name_zh": "蜿蜒之躯",
         "source": ["Monster Codex pg. 200"]
     },
     "serren's masterstroke":     {
@@ -19243,6 +19361,7 @@ var featDict = {
     "shadow shroud":     {
         "key": "shadow shroud",
         "name": "Shadow Shroud",
+        "name_zh": "暗影黑衣",
         "source": ["Monster Codex pg. 32"],
         "prerequisiteKeys": ["combat reflexes"]
     },
@@ -19336,6 +19455,7 @@ var featDict = {
     "shamed":     {
         "key": "shamed",
         "name": "Shamed",
+        "name_zh": "忍辱负重",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 72"]
     },
@@ -19402,6 +19522,7 @@ var featDict = {
     "share healing":     {
         "key": "share healing",
         "name": "Share Healing",
+        "name_zh": "共享治疗",
         "descriptors": ["Teamwork"],
         "source": ["Advanced Class Guide pg. 156"]
     },
@@ -19434,8 +19555,7 @@ var featDict = {
         "key": "shared ownership",
         "name": "Shared Ownership",
         "descriptors": ["Teamwork"],
-        "source": ["Inner Sea Races pg. 209"],
-        "prerequisiteKeys": ["well-prepared"]
+        "source": ["Inner Sea Races pg. 209"]
     },
     "shared quarry":     {
         "key": "shared quarry",
@@ -19452,11 +19572,13 @@ var featDict = {
     "shared soul":     {
         "key": "shared soul",
         "name": "Shared Soul",
+        "name_zh": "灵魂共有",
         "source": ["Occult Adventures pg. 139"]
     },
     "shared stash":     {
         "key": "shared stash",
         "name": "Shared Stash",
+        "name_zh": "人有我有",
         "descriptors": ["Teamwork"],
         "source": ["Monster Codex pg. 177"],
         "prerequisiteKeys": ["quick draw"]
@@ -19508,6 +19630,7 @@ var featDict = {
     "sharptooth":     {
         "key": "sharptooth",
         "name": "Sharptooth",
+        "name_zh": "尖牙",
         "source": ["Monster Codex pg. 177"]
     },
     "shatter control":     {
@@ -19530,6 +19653,7 @@ var featDict = {
     "shatter mental mask":     {
         "key": "shatter mental mask",
         "name": "Shatter Mental Mask",
+        "name_zh": "剥离伪装",
         "descriptors": ["Combat"],
         "source": ["Occult Adventures pg. 139"],
         "prerequisiteKeys": ["psychic sensitivity"]
@@ -19830,6 +19954,7 @@ var featDict = {
     "shocking bellow":     {
         "key": "shocking bellow",
         "name": "Shocking Bellow",
+        "name_zh": "震耳吼叫",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys": ["intimidating prowess"]
@@ -19954,6 +20079,7 @@ var featDict = {
     "signature skill":     {
         "key": "signature skill",
         "name": "Signature Skill",
+        "name_zh": "标志性技能",
         "source": ["Pathfinder Unchained pg. 82"]
     },
     "signature strike style":     {
@@ -20011,6 +20137,7 @@ var featDict = {
     "silent kill":     {
         "key": "silent kill",
         "name": "Silent Kill",
+        "name_zh": "寂灭杀",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 156"]
     },
@@ -20101,7 +20228,6 @@ var featDict = {
         "source": ["Adventurer's Guide pg. 85"],
         "prerequisiteKeys":         [
             "shield focus",
-            "shield wall",
             "sisterhood rampart",
             "sisterhood style",
             "weapon focus"
@@ -20114,7 +20240,6 @@ var featDict = {
         "source": ["Adventurer's Guide pg. 85"],
         "prerequisiteKeys":         [
             "shield focus",
-            "shield wall",
             "sisterhood style",
             "weapon focus"
         ]
@@ -20142,6 +20267,7 @@ var featDict = {
     "skald's vigor":     {
         "key": "skald's vigor",
         "name": "Skald's Vigor",
+        "name_zh": "健硕之歌",
         "source": ["Advanced Class Guide pg. 156"]
     },
     "skaveling companion":     {
@@ -20171,6 +20297,7 @@ var featDict = {
     "skilled rager":     {
         "key": "skilled rager",
         "name": "Skilled Rager",
+        "name_zh": "粗中有细",
         "source": ["Advanced Class Guide pg. 156"]
     },
     "skin suit":     {
@@ -20213,6 +20340,7 @@ var featDict = {
     "slashing grace":     {
         "key": "slashing grace",
         "name": "Slashing Grace",
+        "name_zh": "优雅挥砍",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 156"],
         "prerequisiteKeys":         [
@@ -20223,6 +20351,7 @@ var featDict = {
     "slayer's feint":     {
         "key": "slayer's feint",
         "name": "Slayer's Feint",
+        "name_zh": "杀手机锋",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 156"],
         "prerequisiteKeys":         [
@@ -20262,6 +20391,7 @@ var featDict = {
     "sleeper":     {
         "key": "sleeper",
         "name": "Sleeper",
+        "name_zh": "休眠者",
         "source": ["Monster Codex pg. 80"],
         "prerequisiteKeys": ["warren digger"]
     },
@@ -20327,6 +20457,7 @@ var featDict = {
     "slow faller":     {
         "key": "slow faller",
         "name": "Slow Faller",
+        "name_zh": "攀云手",
         "source": ["Advanced Class Guide pg. 156"]
     },
     "slow time":     {
@@ -20350,6 +20481,7 @@ var featDict = {
     "slurk rider":     {
         "key": "slurk rider",
         "name": "Slurk Rider",
+        "name_zh": "巨牙军骑",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 129"]
     },
@@ -20390,7 +20522,8 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 16"],
         "prerequisiteKeys":         [
             "improved sunder",
-            "smashing style"
+            "smashing style",
+            "weapon focus"
         ]
     },
     "smashing dent":     {
@@ -20401,7 +20534,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "improved sunder",
             "smashing crush",
-            "smashing style"
+            "smashing style",
+            "weapon focus"
         ]
     },
     "smashing impact":     {
@@ -20426,7 +20560,8 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 17"],
         "prerequisiteKeys":         [
             "improved sunder",
-            "power attack"
+            "power attack",
+            "weapon focus"
         ]
     },
     "smell fear":     {
@@ -20454,6 +20589,7 @@ var featDict = {
     "smoking boulder":     {
         "key": "smoking boulder",
         "name": "Smoking Boulder",
+        "name_zh": "焚烟投石",
         "source":         [
             "Monster Codex pg. 57",
             "Giants Revisited pg. 19"
@@ -20509,6 +20645,7 @@ var featDict = {
     "snapping flank":     {
         "key": "snapping flank",
         "name": "Snapping Flank",
+        "name_zh": "横咬一口",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -20518,6 +20655,7 @@ var featDict = {
     "snapping jaws":     {
         "key": "snapping jaws",
         "name": "Snapping Jaws",
+        "name_zh": "强颌",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 93"]
     },
@@ -20621,6 +20759,7 @@ var featDict = {
     "sniper's lantern":     {
         "key": "sniper's lantern",
         "name": "Sniper's Lantern",
+        "name_zh": "狙击指示",
         "source": ["Monster Codex pg. 32"],
         "prerequisiteKeys": ["point-blank shot"]
     },
@@ -20682,6 +20821,7 @@ var featDict = {
     "sonic croak":     {
         "key": "sonic croak",
         "name": "Sonic Croak",
+        "name_zh": "蛙鸣噪波",
         "source": ["Monster Codex pg. 8"],
         "prerequisiteKeys": ["throat pouch"]
     },
@@ -20759,7 +20899,8 @@ var featDict = {
             "spear dancing spiral",
             "spear dancing style",
             "two-weapon fighting",
-            "weapon finesse"
+            "weapon finesse",
+            "weapon focus"
         ]
     },
     "spear dancing spiral":     {
@@ -20770,7 +20911,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "spear dancing style",
             "two-weapon fighting",
-            "weapon finesse"
+            "weapon finesse",
+            "weapon focus"
         ]
     },
     "spear dancing style":     {
@@ -20781,7 +20923,10 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 17"],
-        "prerequisiteKeys": ["two-weapon fighting"]
+        "prerequisiteKeys":         [
+            "two-weapon fighting",
+            "weapon focus"
+        ]
     },
     "special delivery":     {
         "key": "special delivery",
@@ -20818,7 +20963,6 @@ var featDict = {
     "spell bluff (ah)":     {
         "key": "spell bluff (ah)",
         "name": "Spell Bluff (AH)",
-        "descriptors": ["Teamwork"],
         "source": ["Antihero's Handbook pg. 10"]
     },
     "spell bluff (um)":     {
@@ -21002,11 +21146,13 @@ var featDict = {
     "spirit focus":     {
         "key": "spirit focus",
         "name": "Spirit Focus",
+        "name_zh": "英灵专攻",
         "source": ["Occult Adventures pg. 140"]
     },
     "spirit of the corps":     {
         "key": "spirit of the corps",
         "name": "Spirit of the Corps",
+        "name_zh": "军团之力",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -21050,6 +21196,7 @@ var featDict = {
     "spirit sense":     {
         "key": "spirit sense",
         "name": "Spirit Sense",
+        "name_zh": "感知灵体",
         "source": ["Occult Adventures pg. 140"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
@@ -21081,6 +21228,7 @@ var featDict = {
     "spirit talker":     {
         "key": "spirit talker",
         "name": "Spirit Talker",
+        "name_zh": "灵语者",
         "source": ["Advanced Class Guide pg. 156"]
     },
     "spirit vision":     {
@@ -21091,6 +21239,7 @@ var featDict = {
     "spirit's gift":     {
         "key": "spirit's gift",
         "name": "Spirit's Gift",
+        "name_zh": "精魂灵赋",
         "source": ["Advanced Class Guide pg. 157"]
     },
     "spirited charge":     {
@@ -21107,11 +21256,13 @@ var featDict = {
     "spiritual balance":     {
         "key": "spiritual balance",
         "name": "Spiritual Balance",
+        "name_zh": "抱元守一",
         "source": ["Occult Adventures pg. 140"]
     },
     "spiritual guardian":     {
         "key": "spiritual guardian",
         "name": "Spiritual Guardian",
+        "name_zh": "戒卫之魂",
         "source": ["Advanced Class Guide pg. 157"]
     },
     "spiritual training":     {
@@ -21122,6 +21273,7 @@ var featDict = {
     "spiritualist's call":     {
         "key": "spiritualist's call",
         "name": "Spiritualist's Call",
+        "name_zh": "唤魂师之祈",
         "source": ["Occult Adventures pg. 140"]
     },
     "spit venom":     {
@@ -21179,6 +21331,7 @@ var featDict = {
     "spontaneous nature's ally":     {
         "key": "spontaneous nature's ally",
         "name": "Spontaneous Nature's Ally",
+        "name_zh": "自发召唤自然盟友",
         "source": ["Advanced Class Guide pg. 157"]
     },
     "sprightly armor":     {
@@ -21246,6 +21399,7 @@ var featDict = {
     "sprinting troll":     {
         "key": "sprinting troll",
         "name": "Sprinting Troll",
+        "name_zh": "巨魔疾冲",
         "source": ["Monster Codex pg. 225"],
         "prerequisiteKeys": ["fleet"]
     },
@@ -21336,6 +21490,7 @@ var featDict = {
     "staggering blow":     {
         "key": "staggering blow",
         "name": "Staggering Blow",
+        "name_zh": "恍惚一击",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys":         [
@@ -21357,6 +21512,7 @@ var featDict = {
     "staggering fist":     {
         "key": "staggering fist",
         "name": "Staggering Fist",
+        "name_zh": "恍惚拳",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 157"],
         "prerequisiteKeys": ["improved unarmed strike"]
@@ -21364,6 +21520,7 @@ var featDict = {
     "stalker's focus":     {
         "key": "stalker's focus",
         "name": "Stalker's Focus",
+        "name_zh": "追猎之力",
         "source": ["Advanced Class Guide pg. 157"]
     },
     "stalwart":     {
@@ -21432,7 +21589,8 @@ var featDict = {
         "source": ["Weapon Master's Handbook pg. 15"],
         "prerequisiteKeys":         [
             "point-blank shot",
-            "startoss style"
+            "startoss style",
+            "weapon focus"
         ]
     },
     "startoss shower":     {
@@ -21443,7 +21601,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "point-blank shot",
             "startoss comet",
-            "startoss style"
+            "startoss style",
+            "weapon focus"
         ]
     },
     "startoss style":     {
@@ -21454,7 +21613,10 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 15"],
-        "prerequisiteKeys": ["point-blank shot"]
+        "prerequisiteKeys":         [
+            "point-blank shot",
+            "weapon focus"
+        ]
     },
     "steadfast mind":     {
         "key": "steadfast mind",
@@ -21464,6 +21626,7 @@ var featDict = {
     "steadfast personality":     {
         "key": "steadfast personality",
         "name": "Steadfast Personality",
+        "name_zh": "坚定常识",
         "source": ["Advanced Class Guide pg. 157"]
     },
     "steadfast slayer":     {
@@ -21747,7 +21910,8 @@ var featDict = {
         "key": "storm of blades",
         "name": "Storm of Blades",
         "descriptors": ["Combat"],
-        "source": ["Martial Arts Handbook pg. 26"]
+        "source": ["Martial Arts Handbook pg. 26"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "storm soul":     {
         "key": "storm soul",
@@ -21792,6 +21956,7 @@ var featDict = {
     "strangler (mc)":     {
         "key": "strangler (mc)",
         "name": "Strangler (MC)",
+        "name_zh": "断喉索",
         "source": ["Monster Codex pg. 20"],
         "prerequisiteKeys":         [
             "exotic weapon proficiency",
@@ -21802,7 +21967,6 @@ var featDict = {
         "key": "strangler (uc)",
         "name": "Strangler (UC)",
         "name_zh": "扼杀",
-        "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 121"],
         "prerequisiteKeys":         [
             "improved grapple",
@@ -21903,6 +22067,7 @@ var featDict = {
     "strong implement link":     {
         "key": "strong implement link",
         "name": "Strong Implement Link",
+        "name_zh": "灵器羁绊",
         "source": ["Occult Adventures pg. 141"]
     },
     "strongarm":     {
@@ -21914,6 +22079,7 @@ var featDict = {
     "stronghold":     {
         "key": "stronghold",
         "name": "Stronghold",
+        "name_zh": "坚实要塞",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 72"]
     },
@@ -21939,6 +22105,7 @@ var featDict = {
     "studied combatant":     {
         "key": "studied combatant",
         "name": "Studied Combatant",
+        "name_zh": "决斗智慧",
         "source": ["Advanced Class Guide pg. 157"],
         "prerequisiteKeys": ["amateur investigator"]
     },
@@ -21991,6 +22158,7 @@ var featDict = {
     "stunning croak":     {
         "key": "stunning croak",
         "name": "Stunning Croak",
+        "name_zh": "蛙鸣震荡",
         "source": ["Monster Codex pg. 9"],
         "prerequisiteKeys":         [
             "sonic croak",
@@ -22048,10 +22216,7 @@ var featDict = {
         "key": "stylized spell mastery",
         "name": "Stylized Spell Mastery",
         "source": ["Inner Sea Intrigue pg. 16"],
-        "prerequisiteKeys":         [
-            "spell mastery",
-            "stylized spell"
-        ]
+        "prerequisiteKeys": ["spell mastery"]
     },
     "stylized spell":     {
         "key": "stylized spell",
@@ -22153,8 +22318,7 @@ var featDict = {
     "sunblade":     {
         "key": "sunblade",
         "name": "Sunblade",
-        "source": ["Elemental Master's Handbook pg. 7"],
-        "prerequisiteKeys": ["word of healing"]
+        "source": ["Elemental Master's Handbook pg. 7"]
     },
     "sunder blessing":     {
         "key": "sunder blessing",
@@ -22197,11 +22361,7 @@ var featDict = {
         "name": "Superior Dirty Trick",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 15"],
-        "prerequisiteKeys":         [
-            "combat expertise",
-            "greater dirty trick",
-            "improved dirty trick"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "superior gathlain magic":     {
         "key": "superior gathlain magic",
@@ -22288,6 +22448,7 @@ var featDict = {
     "sure on ice":     {
         "key": "sure on ice",
         "name": "Sure on Ice",
+        "name_zh": "踏冰者",
         "source": ["Monster Codex pg. 68"]
     },
     "sure-footed":     {
@@ -22330,6 +22491,7 @@ var featDict = {
     "surprise maneuver":     {
         "key": "surprise maneuver",
         "name": "Surprise Maneuver",
+        "name_zh": "战技突击",
         "source": ["Advanced Class Guide pg. 157"],
         "prerequisiteKeys": ["combat expertise"]
     },
@@ -22476,14 +22638,14 @@ var featDict = {
     "swift swimmer":     {
         "key": "swift swimmer",
         "name": "Swift Swimmer",
+        "name_zh": "迅捷泳者",
         "source": ["Monster Codex pg. 141"]
     },
     "swing about":     {
         "key": "swing about",
         "name": "Swing About",
         "descriptors": ["Teamwork"],
-        "source": ["Giant Hunter's Handbook pg. 19"],
-        "prerequisiteKeys": ["escape route"]
+        "source": ["Giant Hunter's Handbook pg. 19"]
     },
     "swipe and stash":     {
         "key": "swipe and stash",
@@ -22520,7 +22682,8 @@ var featDict = {
             "combat expertise",
             "improved feint",
             "swordplay style",
-            "swordplay upset"
+            "swordplay upset",
+            "weapon focus"
         ]
     },
     "swordplay style":     {
@@ -22531,7 +22694,10 @@ var featDict = {
             "Style"
         ],
         "source": ["Weapon Master's Handbook pg. 17"],
-        "prerequisiteKeys": ["combat expertise"]
+        "prerequisiteKeys":         [
+            "combat expertise",
+            "weapon focus"
+        ]
     },
     "swordplay upset":     {
         "key": "swordplay upset",
@@ -22541,7 +22707,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "combat expertise",
             "improved feint",
-            "swordplay style"
+            "swordplay style",
+            "weapon focus"
         ]
     },
     "sycophant":     {
@@ -22575,10 +22742,7 @@ var featDict = {
         "name": "Tactical Reposition",
         "descriptors": ["Combat"],
         "source": ["Dungeoneer's Handbook pg. 8"],
-        "prerequisiteKeys":         [
-            "combat expertise",
-            "improved reposition"
-        ]
+        "prerequisiteKeys": ["combat expertise"]
     },
     "tag-team interrogation":     {
         "key": "tag-team interrogation",
@@ -22605,6 +22769,7 @@ var featDict = {
     "tail weapon":     {
         "key": "tail weapon",
         "name": "Tail Weapon",
+        "name_zh": "武装尾",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 200"]
     },
@@ -22660,6 +22825,7 @@ var featDict = {
     "talented magician":     {
         "key": "talented magician",
         "name": "Talented Magician",
+        "name_zh": "魔术天才",
         "source": ["Advanced Class Guide pg. 158"]
     },
     "talmandor's lifting":     {
@@ -22707,7 +22873,8 @@ var featDict = {
         "source": ["Martial Arts Handbook pg. 25"],
         "prerequisiteKeys":         [
             "combat expertise",
-            "improved trip"
+            "improved trip",
+            "weapon focus"
         ]
     },
     "tantrum":     {
@@ -22749,31 +22916,19 @@ var featDict = {
     "tattoo attunement":     {
         "key": "tattoo attunement",
         "name": "Tattoo Attunement",
-        "source": ["Monster Summoner's Handbook pg. 14"],
-        "prerequisiteKeys":         [
-            "inscribe magical tattoo",
-            "varisian tattoo"
-        ]
+        "source": ["Monster Summoner's Handbook pg. 14"]
     },
     "tattoo conversion":     {
         "key": "tattoo conversion",
         "name": "Tattoo Conversion",
         "source": ["Monster Summoner's Handbook pg. 15"],
-        "prerequisiteKeys":         [
-            "inscribe magical tattoo",
-            "tattoo attunement",
-            "varisian tattoo"
-        ]
+        "prerequisiteKeys": ["tattoo attunement"]
     },
     "tattoo transformation":     {
         "key": "tattoo transformation",
         "name": "Tattoo Transformation",
         "source": ["Monster Summoner's Handbook pg. 15"],
-        "prerequisiteKeys":         [
-            "inscribe magical tattoo",
-            "tattoo attunement",
-            "varisian tattoo"
-        ]
+        "prerequisiteKeys": ["tattoo attunement"]
     },
     "tatzlwyrm claw style":     {
         "key": "tatzlwyrm claw style",
@@ -22853,16 +23008,12 @@ var featDict = {
         "name": "Technology Adept",
         "descriptors": ["Combat"],
         "source": ["Technology Guide pg. 7"],
-        "prerequisiteKeys":         [
-            "exotic weapon proficiency",
-            "point-blank shot"
-        ]
+        "prerequisiteKeys": ["exotic weapon proficiency"]
     },
     "technophobe":     {
         "key": "technophobe",
         "name": "Technophobe",
-        "source": ["Technology Guide pg. 7"],
-        "prerequisiteKeys": ["improved sunder"]
+        "source": ["Technology Guide pg. 7"]
     },
     "telekinetic mastery":     {
         "key": "telekinetic mastery",
@@ -22876,6 +23027,7 @@ var featDict = {
     "telepathic distraction":     {
         "key": "telepathic distraction",
         "name": "Telepathic Distraction",
+        "name_zh": "干扰式感应",
         "source": ["Monster Codex pg. 200"]
     },
     "telepathic link":     {
@@ -23029,12 +23181,14 @@ var featDict = {
     "thief of legend":     {
         "key": "thief of legend",
         "name": "Thief of Legend",
+        "name_zh": "传奇大盗",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 73"]
     },
     "third eye":     {
         "key": "third eye",
         "name": "Third Eye",
+        "name_zh": "三眼开放",
         "source": ["Occult Adventures pg. 141"],
         "prerequisiteKeys": ["psychic sensitivity"]
     },
@@ -23051,7 +23205,8 @@ var featDict = {
             "Combat",
             "Combination"
         ],
-        "source": ["Martial Arts Handbook pg. 27"]
+        "source": ["Martial Arts Handbook pg. 27"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "threatening illusion":     {
         "key": "threatening illusion",
@@ -23108,6 +23263,7 @@ var featDict = {
     "throat pouch":     {
         "key": "throat pouch",
         "name": "Throat Pouch",
+        "name_zh": "喉囊",
         "source": ["Monster Codex pg. 9"]
     },
     "throat slicer":     {
@@ -23236,7 +23392,8 @@ var featDict = {
         "prerequisiteKeys":         [
             "combat expertise",
             "improved trip",
-            "tangled limbs"
+            "tangled limbs",
+            "weapon focus"
         ]
     },
     "to the last":     {
@@ -23390,6 +23547,7 @@ var featDict = {
     "tough as iron":     {
         "key": "tough as iron",
         "name": "Tough as Iron",
+        "name_zh": "铁之身",
         "source": ["Monster Codex pg. 44"],
         "prerequisiteKeys": ["toughness"]
     },
@@ -23428,6 +23586,7 @@ var featDict = {
     "town tamer":     {
         "key": "town tamer",
         "name": "Town Tamer",
+        "name_zh": "清道专员",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 73"]
     },
@@ -23462,10 +23621,7 @@ var featDict = {
         "key": "toxic stench",
         "name": "Toxic Stench",
         "source": ["Demons Revisited pg. 26"],
-        "prerequisiteKeys":         [
-            "improved stench",
-            "toughness"
-        ]
+        "prerequisiteKeys": ["improved stench"]
     },
     "toxicological timing":     {
         "key": "toxicological timing",
@@ -23534,6 +23690,7 @@ var featDict = {
     "traumatic spell":     {
         "key": "traumatic spell",
         "name": "Traumatic Spell",
+        "name_zh": "创伤法术",
         "descriptors": ["Metamagic"],
         "source": ["Occult Adventures pg. 141"]
     },
@@ -23695,6 +23852,7 @@ var featDict = {
     "true love":     {
         "key": "true love",
         "name": "True Love",
+        "name_zh": "真爱不死",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 73"]
     },
@@ -23802,7 +23960,10 @@ var featDict = {
         "name_zh": "雷霆连击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
-        "prerequisiteKeys": ["twin thunders"]
+        "prerequisiteKeys":         [
+            "twin thunders",
+            "weapon focus"
+        ]
     },
     "twin thunders master":     {
         "key": "twin thunders master",
@@ -23812,7 +23973,8 @@ var featDict = {
         "source": ["Ultimate Combat pg. 123"],
         "prerequisiteKeys":         [
             "twin thunders flurry",
-            "twin thunders"
+            "twin thunders",
+            "weapon focus"
         ]
     },
     "twin thunders":     {
@@ -23821,17 +23983,22 @@ var featDict = {
         "name_zh": "雷霆双击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 123"],
-        "prerequisiteKeys": ["two-weapon fighting"]
+        "prerequisiteKeys":         [
+            "two-weapon fighting",
+            "weapon focus"
+        ]
     },
     "twinned feint":     {
         "key": "twinned feint",
         "name": "Twinned Feint",
+        "name_zh": "双发诱敌",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 158"]
     },
     "twist away":     {
         "key": "twist away",
         "name": "Twist Away",
+        "name_zh": "神奇姿势",
         "source": ["Advanced Class Guide pg. 158"]
     },
     "twisted flesh":     {
@@ -23894,9 +24061,6 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 224"],
         "prerequisiteKeys":         [
-            "fencing grace",
-            "slashing grace",
-            "starry grace",
             "two-weapon fighting",
             "weapon finesse"
         ]
@@ -24090,7 +24254,6 @@ var featDict = {
     "underfoot (botb)":     {
         "key": "underfoot (botb)",
         "name": "Underfoot (BotB)",
-        "descriptors": ["Combat"],
         "source": ["Blood of the Beast pg. 23"],
         "prerequisiteKeys": ["dodge"]
     },
@@ -24135,6 +24298,7 @@ var featDict = {
     "undersized mount":     {
         "key": "undersized mount",
         "name": "Undersized Mount",
+        "name_zh": "小型坐骑",
         "descriptors": ["Combat"],
         "source":         [
             "Gallows of Madness pg. 26",
@@ -24160,6 +24324,7 @@ var featDict = {
     "unfettered familiar":     {
         "key": "unfettered familiar",
         "name": "Unfettered Familiar",
+        "name_zh": "远行魔宠",
         "source": ["Advanced Class Guide pg. 159"]
     },
     "unfettered rage":     {
@@ -24199,6 +24364,7 @@ var featDict = {
     "unforgotten":     {
         "key": "unforgotten",
         "name": "Unforgotten",
+        "name_zh": "莫失莫忘",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 73"]
     },
@@ -24297,7 +24463,6 @@ var featDict = {
     "unusual heritage (changeling)":     {
         "key": "unusual heritage (changeling)",
         "name": "Unusual Heritage (Changeling)",
-        "descriptors": ["Teamwork"],
         "source": ["Bastards of Golarion pg. 17"]
     },
     "unusual heritage (dhampir)":     {
@@ -24313,6 +24478,7 @@ var featDict = {
     "unusual heritage (gillman)":     {
         "key": "unusual heritage (gillman)",
         "name": "Unusual Heritage (Gillman)",
+        "descriptors": ["Gillman"],
         "source": ["Bastards of Golarion pg. 16"]
     },
     "unyielding ferocity":     {
@@ -24389,6 +24555,7 @@ var featDict = {
     "vampiric companion":     {
         "key": "vampiric companion",
         "name": "Vampiric Companion",
+        "name_zh": "血之仆役",
         "source":         [
             "Monster Codex pg. 237",
             "Blood of the Night pg. 28"
@@ -24405,11 +24572,8 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Armor Master's Handbook pg. 13"],
         "prerequisiteKeys":         [
-            "bodyguard",
-            "combat patrol",
             "combat reflexes",
             "mobility",
-            "saving shield",
             "vanguard style",
             "vanguard ward"
         ]
@@ -24422,10 +24586,7 @@ var featDict = {
             "Style"
         ],
         "source": ["Armor Master's Handbook pg. 13"],
-        "prerequisiteKeys":         [
-            "bodyguard",
-            "combat reflexes"
-        ]
+        "prerequisiteKeys": ["combat reflexes"]
     },
     "vanguard ward":     {
         "key": "vanguard ward",
@@ -24433,7 +24594,6 @@ var featDict = {
         "descriptors": ["Combat"],
         "source": ["Armor Master's Handbook pg. 13"],
         "prerequisiteKeys":         [
-            "bodyguard",
             "combat reflexes",
             "vanguard style"
         ]
@@ -24490,6 +24650,7 @@ var featDict = {
     "vengeance":     {
         "key": "vengeance",
         "name": "Vengeance",
+        "name_zh": "君子报仇",
         "descriptors": ["Story"],
         "source": ["Ultimate Campaign pg. 73"]
     },
@@ -24507,6 +24668,7 @@ var featDict = {
     "venomous spray":     {
         "key": "venomous spray",
         "name": "Venomous Spray",
+        "name_zh": "喷毒",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 200"]
     },
@@ -24599,6 +24761,7 @@ var featDict = {
     "vestigial head":     {
         "key": "vestigial head",
         "name": "Vestigial Head",
+        "name_zh": "头颅畸胎",
         "source": ["Monster Codex pg. 153"]
     },
     "vicious stomp":     {
@@ -24634,6 +24797,7 @@ var featDict = {
     "vigilant phantom":     {
         "key": "vigilant phantom",
         "name": "Vigilant Phantom",
+        "name_zh": "警觉魅影",
         "source": ["Occult Adventures pg. 141"]
     },
     "vile leadership":     {
@@ -24685,6 +24849,7 @@ var featDict = {
     "visceral threat":     {
         "key": "visceral threat",
         "name": "Visceral Threat",
+        "name_zh": "破胆威吓",
         "descriptors": ["Combat"],
         "source": ["Monster Codex pg. 21"],
         "prerequisiteKeys": ["intimidating prowess"]
@@ -24797,6 +24962,7 @@ var featDict = {
     "war blessing":     {
         "key": "war blessing",
         "name": "War Blessing",
+        "name_zh": "战争祝福",
         "source": ["Advanced Class Guide pg. 159"]
     },
     "war singer":     {
@@ -24819,6 +24985,7 @@ var featDict = {
     "warmonger":     {
         "key": "warmonger",
         "name": "Warmonger",
+        "name_zh": "战争狂人",
         "source": ["Monster Codex pg. 117"]
     },
     "warning shot":     {
@@ -24840,6 +25007,7 @@ var featDict = {
     "warren digger":     {
         "key": "warren digger",
         "name": "Warren Digger",
+        "name_zh": "挖坟者",
         "source":         [
             "Monster Codex pg. 81",
             "Classic Horrors Revisited pg. 32"
@@ -24939,8 +25107,10 @@ var featDict = {
     "weapon of the chosen":     {
         "key": "weapon of the chosen",
         "name": "Weapon of the Chosen",
+        "name_zh": "神选武器",
         "descriptors": ["Combat"],
-        "source": ["Advanced Class Guide pg. 159"]
+        "source": ["Advanced Class Guide pg. 159"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "weapon shift":     {
         "key": "weapon shift",
@@ -24952,7 +25122,8 @@ var featDict = {
         "name": "Weapon Specialization",
         "name_zh": "武器专精",
         "descriptors": ["Combat"],
-        "source": ["PRPG Core Rulebook pg. 137"]
+        "source": ["PRPG Core Rulebook pg. 137"],
+        "prerequisiteKeys": ["weapon focus"]
     },
     "weapon style mastery":     {
         "key": "weapon style mastery",
@@ -25243,6 +25414,7 @@ var featDict = {
     "winter's strike":     {
         "key": "winter's strike",
         "name": "Winter's Strike",
+        "name_zh": "严冬之击",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 159"],
         "prerequisiteKeys":         [
@@ -25348,6 +25520,7 @@ var featDict = {
     "wounded paw gambit":     {
         "key": "wounded paw gambit",
         "name": "Wounded Paw Gambit",
+        "name_zh": "折箭伤爪",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -25417,6 +25590,7 @@ var featDict = {
     "xenoglossy":     {
         "key": "xenoglossy",
         "name": "Xenoglossy",
+        "name_zh": "异语",
         "source": ["Occult Adventures pg. 141"]
     },
     "yai-mimic spell":     {
@@ -25430,10 +25604,7 @@ var featDict = {
         "key": "zealous mind",
         "name": "Zealous Mind",
         "source": ["Horror Adventures pg. 95"],
-        "prerequisiteKeys":         [
-            "iron will",
-            "unimpeachable honor"
-        ]
+        "prerequisiteKeys": ["iron will"]
     }
 };
 var featTree = [
@@ -25451,10 +25622,7 @@ var featTree = [
     },
         {
         "key": "ability focus",
-        "children": [        {
-            "key": "improved death-stealing",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "ability mastery",
@@ -25562,11 +25730,11 @@ var featTree = [
         "key": "agile maneuvers",
         "children":         [
                         {
-                "key": "under and over",
+                "key": "graceful steal",
                 "children": []
             },
                         {
-                "key": "graceful steal",
+                "key": "under and over",
                 "children": []
             },
                         {
@@ -25706,23 +25874,7 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "black powder spectacle",
-                "children": []
-            },
-                        {
-                "key": "poison shot deed",
-                "children": []
-            },
-                        {
-                "key": "redirected shot",
-                "children": []
-            },
-                        {
                 "key": "sizzling shot",
-                "children": []
-            },
-                        {
-                "key": "casterbane shot",
                 "children": []
             }
         ]
@@ -25756,14 +25908,6 @@ var featTree = [
             },
                         {
                 "key": "pommel strike deed",
-                "children": []
-            },
-                        {
-                "key": "dastardly trick",
-                "children": []
-            },
-                        {
-                "key": "enrage opponent",
                 "children": []
             }
         ]
@@ -25873,16 +26017,7 @@ var featTree = [
     },
         {
         "key": "antagonize",
-        "children":         [
-                        {
-                "key": "cry challenge",
-                "children": []
-            },
-                        {
-                "key": "designated antagonist",
-                "children": []
-            }
-        ]
+        "children": []
     },
         {
         "key": "apocalyptic spell",
@@ -25927,6 +26062,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "arcane insight",
+        "children": []
+    },
+        {
         "key": "arcane jinxer",
         "children": []
     },
@@ -25936,16 +26075,7 @@ var featTree = [
     },
         {
         "key": "arcane shield",
-        "children":         [
-                        {
-                "key": "reactive arcane shield",
-                "children": []
-            },
-                        {
-                "key": "arcane insight",
-                "children": []
-            }
-        ]
+        "children": []
     },
         {
         "key": "arcane strike",
@@ -26097,16 +26227,6 @@ var featTree = [
         {
         "key": "ascendant",
         "children": []
-    },
-        {
-        "key": "ascetic style",
-        "children": [        {
-            "key": "ascetic form",
-            "children": [            {
-                "key": "ascetic strike",
-                "children": []
-            }]
-        }]
     },
         {
         "key": "aspect of the beast",
@@ -26325,10 +26445,11 @@ var featTree = [
     },
         {
         "key": "believer's boon",
-        "children": [        {
-            "key": "believer's hands",
-            "children": []
-        }]
+        "children": []
+    },
+        {
+        "key": "believer's hands",
+        "children": []
     },
         {
         "key": "benthic spell",
@@ -26376,6 +26497,10 @@ var featTree = [
     },
         {
         "key": "black marketeer",
+        "children": []
+    },
+        {
+        "key": "black powder spectacle",
         "children": []
     },
         {
@@ -26462,32 +26587,19 @@ var featTree = [
             },
                         {
                 "key": "improved blind-fight",
-                "children":                 [
-                                        {
-                        "key": "aural insight",
-                        "children": []
-                    },
-                                        {
-                        "key": "blinded competence",
-                        "children": [                        {
+                "children": [                {
+                    "key": "greater blind-fight",
+                    "children":                     [
+                                                {
+                            "key": "triangulate",
+                            "children": []
+                        },
+                                                {
                             "key": "blinded master",
                             "children": []
-                        }]
-                    },
-                                        {
-                        "key": "greater blind-fight",
-                        "children":                         [
-                                                        {
-                                "key": "triangulate",
-                                "children": []
-                            },
-                                                        {
-                                "key": "blinded master",
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
+                        }
+                    ]
+                }]
             },
                         {
                 "key": "moonlight stalker",
@@ -26509,6 +26621,10 @@ var featTree = [
             },
                         {
                 "key": "sensory control",
+                "children": []
+            },
+                        {
+                "key": "aural insight",
                 "children": []
             },
                         {
@@ -26567,6 +26683,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "blood of heroes",
+        "children": []
+    },
+        {
         "key": "blood spurt",
         "children": []
     },
@@ -26600,16 +26720,7 @@ var featTree = [
     },
         {
         "key": "bludgeoner",
-        "children": [        {
-            "key": "cudgeler style",
-            "children": [            {
-                "key": "cudgeler sweep",
-                "children": [                {
-                    "key": "cudgeler takedown",
-                    "children": []
-                }]
-            }]
-        }]
+        "children": []
     },
         {
         "key": "blunt blade",
@@ -26802,16 +26913,7 @@ var featTree = [
     },
         {
         "key": "bullying blow",
-        "children": [        {
-            "key": "orc fury style",
-            "children": [            {
-                "key": "orc rampage",
-                "children": [                {
-                    "key": "orc snarl",
-                    "children": []
-                }]
-            }]
-        }]
+        "children": []
     },
         {
         "key": "burn it down!",
@@ -26847,6 +26949,10 @@ var featTree = [
     },
         {
         "key": "camouflaged trap",
+        "children": []
+    },
+        {
+        "key": "cannon master",
         "children": []
     },
         {
@@ -27326,6 +27432,14 @@ var featTree = [
         "key": "combat expertise",
         "children":         [
                         {
+                "key": "dastardly trick",
+                "children": []
+            },
+                        {
+                "key": "dirty critical hit",
+                "children": []
+            },
+                        {
                 "key": "divert harm",
                 "children": []
             },
@@ -27338,16 +27452,10 @@ var featTree = [
             },
                         {
                 "key": "gang up",
-                "children":                 [
-                                        {
-                        "key": "merciless beating",
-                        "children": []
-                    },
-                                        {
-                        "key": "team up",
-                        "children": []
-                    }
-                ]
+                "children": [                {
+                    "key": "team up",
+                    "children": []
+                }]
             },
                         {
                 "key": "got your back",
@@ -27376,16 +27484,6 @@ var featTree = [
                 "key": "improved dirty trick",
                 "children":                 [
                                         {
-                        "key": "kitsune style",
-                        "children": [                        {
-                            "key": "kitsune tricks",
-                            "children": [                            {
-                                "key": "kitsune vengeance",
-                                "children": []
-                            }]
-                        }]
-                    },
-                                        {
                         "key": "quick dirty trick",
                         "children": []
                     },
@@ -27397,47 +27495,11 @@ var featTree = [
                         }]
                     },
                                         {
-                        "key": "cloak and dagger style",
-                        "children": [                        {
-                            "key": "cloak and dagger subterfuge",
-                            "children": [                            {
-                                "key": "cloak and dagger tactics",
-                                "children": []
-                            }]
-                        }]
-                    },
-                                        {
-                        "key": "dastardly trick",
-                        "children": []
-                    },
-                                        {
-                        "key": "dirty critical hit",
-                        "children": []
-                    },
-                                        {
-                        "key": "dirty disarm",
-                        "children": []
-                    },
-                                        {
-                        "key": "fox trickery",
-                        "children": []
-                    },
-                                        {
                         "key": "greater dirty trick",
-                        "children":                         [
-                                                        {
-                                "key": "superior dirty trick",
-                                "children": []
-                            },
-                                                        {
-                                "key": "dirty trick master",
-                                "children": []
-                            }
-                        ]
-                    },
-                                        {
-                        "key": "dirty grapple",
-                        "children": []
+                        "children": [                        {
+                            "key": "dirty trick master",
+                            "children": []
+                        }]
                     }
                 ]
             },
@@ -27509,13 +27571,6 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "swordplay upset",
-                        "children": [                        {
-                            "key": "swordplay deflection",
-                            "children": []
-                        }]
-                    },
-                                        {
                         "key": "blistering feint",
                         "children": []
                     },
@@ -27563,6 +27618,13 @@ var featTree = [
                             "key": "moonlight stalker master",
                             "children": []
                         }]
+                    },
+                                        {
+                        "key": "swordplay upset",
+                        "children": [                        {
+                            "key": "swordplay deflection",
+                            "children": []
+                        }]
                     }
                 ]
             },
@@ -27582,10 +27644,6 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "tactical reposition",
-                        "children": []
-                    },
-                                        {
                         "key": "whipcrack",
                         "children": [                        {
                             "key": "domino crash",
@@ -27594,10 +27652,6 @@ var featTree = [
                     },
                                         {
                         "key": "wings of the androsphinx",
-                        "children": []
-                    },
-                                        {
-                        "key": "clambering escape",
                         "children": []
                     },
                                         {
@@ -27628,10 +27682,6 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "graceful steal",
-                        "children": []
-                    },
-                                        {
                         "key": "greater steal",
                         "children": []
                     }
@@ -27645,11 +27695,8 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "tangled limbs",
-                        "children": [                        {
-                            "key": "titan's tangle",
-                            "children": []
-                        }]
+                        "key": "riptide attack",
+                        "children": []
                     },
                                         {
                         "key": "topple foe",
@@ -27696,10 +27743,11 @@ var featTree = [
                     },
                                         {
                         "key": "fury's fall",
-                        "children": [                        {
-                            "key": "fury's snare",
-                            "children": []
-                        }]
+                        "children": []
+                    },
+                                        {
+                        "key": "fury's snare",
+                        "children": []
                     },
                                         {
                         "key": "greater trip",
@@ -27727,12 +27775,15 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "riptide attack",
+                        "key": "spinning throw",
                         "children": []
                     },
                                         {
-                        "key": "spinning throw",
-                        "children": []
+                        "key": "tangled limbs",
+                        "children": [                        {
+                            "key": "titan's tangle",
+                            "children": []
+                        }]
                     },
                                         {
                         "key": "tripping staff",
@@ -27758,6 +27809,16 @@ var featTree = [
                 ]
             },
                         {
+                "key": "kitsune style",
+                "children": [                {
+                    "key": "kitsune tricks",
+                    "children": [                    {
+                        "key": "kitsune vengeance",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "kobold style",
                 "children": [                {
                     "key": "kobold groundling",
@@ -27766,6 +27827,10 @@ var featTree = [
                         "children": []
                     }]
                 }]
+            },
+                        {
+                "key": "merciless beating",
+                "children": []
             },
                         {
                 "key": "mirror move",
@@ -27800,16 +27865,6 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "outslug style",
-                "children": [                {
-                    "key": "outslug weave",
-                    "children": [                    {
-                        "key": "outslug sprint",
-                        "children": []
-                    }]
-                }]
-            },
-                        {
                 "key": "pack flanking",
                 "children": []
             },
@@ -27837,6 +27892,10 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "superior dirty trick",
+                "children": []
+            },
+                        {
                 "key": "surprise maneuver",
                 "children": []
             },
@@ -27845,14 +27904,8 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "swordplay style",
-                "children": [                {
-                    "key": "swordplay upset",
-                    "children": [                    {
-                        "key": "swordplay deflection",
-                        "children": []
-                    }]
-                }]
+                "key": "tactical reposition",
+                "children": []
             },
                         {
                 "key": "unblinking flame feint",
@@ -27888,7 +27941,25 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "clambering escape",
+                "children": []
+            },
+                        {
+                "key": "cloak and dagger style",
+                "children": [                {
+                    "key": "cloak and dagger subterfuge",
+                    "children": [                    {
+                        "key": "cloak and dagger tactics",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "elusive redirection",
+                "children": []
+            },
+                        {
+                "key": "fox trickery",
                 "children": []
             },
                         {
@@ -27896,8 +27967,28 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "outslug style",
+                "children": [                {
+                    "key": "outslug weave",
+                    "children": [                    {
+                        "key": "outslug sprint",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "snoutgrip",
                 "children": []
+            },
+                        {
+                "key": "swordplay style",
+                "children": [                {
+                    "key": "swordplay upset",
+                    "children": [                    {
+                        "key": "swordplay deflection",
+                        "children": []
+                    }]
+                }]
             },
                         {
                 "key": "two-weapon feint",
@@ -27905,6 +27996,10 @@ var featTree = [
                     "key": "improved two-weapon feint",
                     "children": []
                 }]
+            },
+                        {
+                "key": "dirty grapple",
+                "children": []
             }
         ]
     },
@@ -27917,6 +28012,10 @@ var featTree = [
         "children":         [
                         {
                 "key": "deceitful incompetence",
+                "children": []
+            },
+                        {
+                "key": "fanged crown massacre",
                 "children": []
             },
                         {
@@ -27960,6 +28059,10 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "scarlet rose devotion",
+                "children": []
+            },
+                        {
                 "key": "seize the moment",
                 "children": []
             },
@@ -27983,17 +28086,18 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "vicious stomp",
+                "key": "vanguard style",
                 "children": [                {
-                    "key": "brute style",
+                    "key": "vanguard ward",
                     "children": [                    {
-                        "key": "brute stomp",
-                        "children": [                        {
-                            "key": "brute assault",
-                            "children": []
-                        }]
+                        "key": "vanguard hustle",
+                        "children": []
                     }]
                 }]
+            },
+                        {
+                "key": "vicious stomp",
+                "children": []
             },
                         {
                 "key": "vigilant charger",
@@ -28019,41 +28123,18 @@ var featTree = [
             },
                         {
                 "key": "bodyguard",
-                "children":                 [
-                                        {
-                        "key": "brood defender",
-                        "children": []
-                    },
-                                        {
-                        "key": "fanged crown massacre",
-                        "children": []
-                    },
-                                        {
-                        "key": "in harm's way",
-                        "children": []
-                    },
-                                        {
-                        "key": "scarlet rose devotion",
-                        "children": []
-                    },
-                                        {
-                        "key": "vanguard style",
-                        "children": [                        {
-                            "key": "vanguard ward",
-                            "children": [                            {
-                                "key": "vanguard hustle",
-                                "children": []
-                            }]
-                        }]
-                    }
-                ]
+                "children": [                {
+                    "key": "in harm's way",
+                    "children": []
+                }]
+            },
+                        {
+                "key": "brood defender",
+                "children": []
             },
                         {
                 "key": "combat patrol",
-                "children": [                {
-                    "key": "vanguard hustle",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "counterpunch",
@@ -28100,6 +28181,16 @@ var featTree = [
                 "children": [                {
                     "key": "aldori style conquest",
                     "children": []
+                }]
+            },
+                        {
+                "key": "brute style",
+                "children": [                {
+                    "key": "brute stomp",
+                    "children": [                    {
+                        "key": "brute assault",
+                        "children": []
+                    }]
                 }]
             },
                         {
@@ -28326,6 +28417,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "cosmic gate",
+        "children": []
+    },
+        {
         "key": "cosmopolitan",
         "children": []
     },
@@ -28363,10 +28458,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "cracking the shell",
-        "children": []
-    },
-        {
         "key": "craft magic arms and armor",
         "children":         [
                         {
@@ -28396,6 +28487,10 @@ var featTree = [
     },
         {
         "key": "craft poppet",
+        "children": []
+    },
+        {
+        "key": "craft robot",
         "children": []
     },
         {
@@ -28473,10 +28568,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "crippling thrust",
-        "children": []
-    },
-        {
         "key": "crisis of conscience",
         "children": []
     },
@@ -28500,15 +28591,12 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "flaying critical",
+                "key": "dirty critical hit",
                 "children": []
             },
                         {
-                "key": "impaling critical",
-                "children": [                {
-                    "key": "improved impaling critical",
-                    "children": []
-                }]
+                "key": "flaying critical",
+                "children": []
             },
                         {
                 "key": "sickening critical",
@@ -28561,12 +28649,15 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "dirty critical hit",
+                "key": "entreating critical",
                 "children": []
             },
                         {
-                "key": "entreating critical",
-                "children": []
+                "key": "impaling critical",
+                "children": [                {
+                    "key": "improved impaling critical",
+                    "children": []
+                }]
             },
                         {
                 "key": "sun striker",
@@ -28591,7 +28682,7 @@ var featTree = [
         "children": []
     },
         {
-        "key": "crusader's flurry",
+        "key": "cry challenge",
         "children": []
     },
         {
@@ -28605,6 +28696,16 @@ var featTree = [
         {
         "key": "crystalline cloud",
         "children": []
+    },
+        {
+        "key": "cudgeler style",
+        "children": [        {
+            "key": "cudgeler sweep",
+            "children": [            {
+                "key": "cudgeler takedown",
+                "children": []
+            }]
+        }]
     },
         {
         "key": "cunning killer",
@@ -28905,10 +29006,7 @@ var featTree = [
     },
         {
         "key": "deific obedience",
-        "children": [        {
-            "key": "diverse obedience",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "delay blast",
@@ -28928,10 +29026,11 @@ var featTree = [
     },
         {
         "key": "demon hunter",
-        "children": [        {
-            "key": "demonic nemesis",
-            "children": []
-        }]
+        "children": []
+    },
+        {
+        "key": "demonic nemesis",
+        "children": []
     },
         {
         "key": "demonic obedience",
@@ -28981,6 +29080,10 @@ var featTree = [
         }]
     },
         {
+        "key": "designated antagonist",
+        "children": []
+    },
+        {
         "key": "desperate battler",
         "children": []
     },
@@ -29026,28 +29129,22 @@ var featTree = [
     },
         {
         "key": "dimensional agility",
-        "children":         [
-                        {
-                "key": "dimensional assault",
-                "children": [                {
-                    "key": "dimensional dervish",
-                    "children":                     [
-                                                {
-                            "key": "dimensional maneuvers",
-                            "children": []
-                        },
-                                                {
-                            "key": "dimensional savant",
-                            "children": []
-                        }
-                    ]
-                }]
-            },
-                        {
-                "key": "dimensional step up",
-                "children": []
-            }
-        ]
+        "children": [        {
+            "key": "dimensional assault",
+            "children": [            {
+                "key": "dimensional dervish",
+                "children":                 [
+                                        {
+                        "key": "dimensional maneuvers",
+                        "children": []
+                    },
+                                        {
+                        "key": "dimensional savant",
+                        "children": []
+                    }
+                ]
+            }]
+        }]
     },
         {
         "key": "diplomatic ruse",
@@ -29154,10 +29251,11 @@ var featTree = [
                     },
                                         {
                         "key": "ray shield",
-                        "children": [                        {
-                            "key": "greater ray shield",
-                            "children": []
-                        }]
+                        "children": []
+                    },
+                                        {
+                        "key": "greater ray shield",
+                        "children": []
                     }
                 ]
             },
@@ -29206,6 +29304,10 @@ var featTree = [
                 "children": []
             }]
         }]
+    },
+        {
+        "key": "diverse obedience",
+        "children": []
     },
         {
         "key": "divination guide",
@@ -29303,16 +29405,10 @@ var featTree = [
                     },
                                         {
                         "key": "sidestep",
-                        "children":                         [
-                                                        {
-                                "key": "improved sidestep",
-                                "children": []
-                            },
-                                                        {
-                                "key": "juke",
-                                "children": []
-                            }
-                        ]
+                        "children": [                        {
+                            "key": "improved sidestep",
+                            "children": []
+                        }]
                     },
                                         {
                         "key": "spring attack",
@@ -29399,10 +29495,7 @@ var featTree = [
                     },
                                         {
                         "key": "combat patrol",
-                        "children": [                        {
-                            "key": "vanguard hustle",
-                            "children": []
-                        }]
+                        "children": []
                     },
                                         {
                         "key": "deft shootist",
@@ -29432,6 +29525,10 @@ var featTree = [
                         }]
                     },
                                         {
+                        "key": "juke",
+                        "children": []
+                    },
+                                        {
                         "key": "just out of reach",
                         "children": []
                     },
@@ -29445,6 +29542,10 @@ var featTree = [
                     },
                                         {
                         "key": "unfolding wind rush",
+                        "children": []
+                    },
+                                        {
+                        "key": "vanguard hustle",
                         "children": []
                     }
                 ]
@@ -29534,15 +29635,15 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "false opening",
-                "children": []
-            },
-                        {
                 "key": "linnorm hunter retreat",
                 "children": [                {
                     "key": "linnorm hunter coordination",
                     "children": []
                 }]
+            },
+                        {
+                "key": "false opening",
+                "children": []
             }
         ]
     },
@@ -29570,19 +29671,15 @@ var featTree = [
                     "key": "draconic paragon",
                     "children": []
                 }]
-            },
-                        {
-                "key": "draconic magic",
-                "children": []
-            },
-                        {
-                "key": "mixed scales",
-                "children": []
             }
         ]
     },
         {
         "key": "draconic heritage",
+        "children": []
+    },
+        {
+        "key": "draconic magic",
         "children": []
     },
         {
@@ -29676,10 +29773,11 @@ var featTree = [
     },
         {
         "key": "dryad's apprentice",
-        "children": [        {
-            "key": "dryad's attendant",
-            "children": []
-        }]
+        "children": []
+    },
+        {
+        "key": "dryad's attendant",
+        "children": []
     },
         {
         "key": "duck and cover",
@@ -29790,22 +29888,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "eldritch heritage",
-        "children":         [
-                        {
-                "key": "improved eldritch heritage",
-                "children": [                {
-                    "key": "greater eldritch heritage",
-                    "children": []
-                }]
-            },
-                        {
-                "key": "raging blood",
-                "children": []
-            }
-        ]
-    },
-        {
         "key": "eldritch researcher",
         "children": []
     },
@@ -29874,16 +29956,7 @@ var featTree = [
     },
         {
         "key": "elven battle training",
-        "children": [        {
-            "key": "elven battle style",
-            "children": [            {
-                "key": "elven battle focus",
-                "children": [                {
-                    "key": "elven battle torrent",
-                    "children": []
-                }]
-            }]
-        }]
+        "children": []
     },
         {
         "key": "elven spirit",
@@ -29922,16 +29995,6 @@ var featTree = [
         "children": [        {
             "key": "assured destruction",
             "children": []
-        }]
-    },
-        {
-        "key": "empty quiver style",
-        "children": [        {
-            "key": "empty quiver flexibility",
-            "children": [            {
-                "key": "empty quiver flurry",
-                "children": []
-            }]
         }]
     },
         {
@@ -30117,6 +30180,10 @@ var featTree = [
         ]
     },
         {
+        "key": "enlightened noble",
+        "children": []
+    },
+        {
         "key": "ennobled resistances",
         "children": []
     },
@@ -30133,15 +30200,8 @@ var featTree = [
         "children": []
     },
         {
-        "key": "eroding strikes",
-        "children": []
-    },
-        {
         "key": "escape route",
-        "children": [        {
-            "key": "swing about",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "eschew materials",
@@ -30210,13 +30270,7 @@ var featTree = [
     },
         {
         "key": "exile's path",
-        "children": [        {
-            "key": "seen and unseen",
-            "children": [            {
-                "key": "neither elf nor human",
-                "children": []
-            }]
-        }]
+        "children": []
     },
         {
         "key": "exotic heritage",
@@ -30240,14 +30294,6 @@ var featTree = [
                 }]
             },
                         {
-                "key": "musketeer's dodge",
-                "children": []
-            },
-                        {
-                "key": "musketeer's reposition",
-                "children": []
-            },
-                        {
                 "key": "net adept",
                 "children":                 [
                                         {
@@ -30262,10 +30308,6 @@ var featTree = [
                         "children": []
                     }
                 ]
-            },
-                        {
-                "key": "protective line",
-                "children": []
             },
                         {
                 "key": "rapid reload",
@@ -30339,10 +30381,6 @@ var featTree = [
                     "key": "dance of chains",
                     "children": []
                 }]
-            },
-                        {
-                "key": "covering fire (vc)",
-                "children": []
             },
                         {
                 "key": "garen's discipline",
@@ -30432,10 +30470,6 @@ var featTree = [
     },
         {
         "key": "expert cartographer",
-        "children": []
-    },
-        {
-        "key": "expert driver",
         "children": []
     },
         {
@@ -30755,6 +30789,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "eyes of the twilight",
+        "children": []
+    },
+        {
         "key": "fabulist",
         "children": []
     },
@@ -30866,7 +30904,10 @@ var featTree = [
     },
         {
         "key": "favored prestige class",
-        "children": []
+        "children": [        {
+            "key": "prestigious spellcaster",
+            "children": []
+        }]
     },
         {
         "key": "fearless aura",
@@ -31074,6 +31115,10 @@ var featTree = [
                 "children": []
             }]
         }]
+    },
+        {
+        "key": "finesse shot",
+        "children": []
     },
         {
         "key": "finishing cascade",
@@ -31519,16 +31564,7 @@ var featTree = [
     },
         {
         "key": "gnome weapon focus",
-        "children": [        {
-            "key": "illusive gnome style",
-            "children": [            {
-                "key": "illusive gnome surprise",
-                "children": [                {
-                    "key": "illusive gnome bewilderment",
-                    "children": []
-                }]
-            }]
-        }]
+        "children": []
     },
         {
         "key": "go unnoticed",
@@ -31615,10 +31651,6 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "pungent stench",
-                "children": []
-            },
-                        {
                 "key": "purging emesis",
                 "children": []
             },
@@ -31660,6 +31692,10 @@ var featTree = [
         }]
     },
         {
+        "key": "greater hunter's bond",
+        "children": []
+    },
+        {
         "key": "greater mercy",
         "children": [        {
             "key": "ultimate mercy",
@@ -31667,18 +31703,15 @@ var featTree = [
         }]
     },
         {
+        "key": "greater skald's vigor",
+        "children": []
+    },
+        {
         "key": "greater spelleater",
         "children": []
     },
         {
-        "key": "greater weapon focus",
-        "children": [        {
-            "key": "deadly stroke",
-            "children": []
-        }]
-    },
-        {
-        "key": "greater weapon specialization",
+        "key": "greater stylized spell",
         "children": []
     },
         {
@@ -31740,17 +31773,15 @@ var featTree = [
         "children": []
     },
         {
+        "key": "guided star",
+        "children": []
+    },
+        {
         "key": "gunsmithing",
-        "children":         [
-                        {
-                "key": "named bullet",
-                "children": []
-            },
-                        {
-                "key": "create enhanced firearm",
-                "children": []
-            }
-        ]
+        "children": [        {
+            "key": "create enhanced firearm",
+            "children": []
+        }]
     },
         {
         "key": "half-drow paragon",
@@ -31889,16 +31920,7 @@ var featTree = [
     },
         {
         "key": "hero's fortune",
-        "children":         [
-                        {
-                "key": "luck of heroes",
-                "children": []
-            },
-                        {
-                "key": "blood of heroes",
-                "children": []
-            }
-        ]
+        "children": []
     },
         {
         "key": "heroic leader",
@@ -32094,6 +32116,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "improved death-stealing",
+        "children": []
+    },
+        {
         "key": "improved dirge of doom",
         "children": [        {
             "key": "greater dirge of doom",
@@ -32118,10 +32144,7 @@ var featTree = [
     },
         {
         "key": "improved hunter's bond",
-        "children": [        {
-            "key": "greater hunter's bond",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "improved infuse weapon",
@@ -32156,6 +32179,10 @@ var featTree = [
         ]
     },
         {
+        "key": "improved lookout",
+        "children": []
+    },
+        {
         "key": "improved low blow",
         "children": []
     },
@@ -32172,7 +32199,15 @@ var featTree = [
         "children": []
     },
         {
+        "key": "improved outflank",
+        "children": []
+    },
+        {
         "key": "improved plane shift",
+        "children": []
+    },
+        {
+        "key": "improved precise strike",
         "children": []
     },
         {
@@ -32405,10 +32440,7 @@ var featTree = [
                     "key": "gorgon's fist",
                     "children": [                    {
                         "key": "medusa's wrath",
-                        "children": [                        {
-                            "key": "cockatrice strike",
-                            "children": []
-                        }]
+                        "children": []
                     }]
                 }]
             },
@@ -32573,16 +32605,7 @@ var featTree = [
             },
                         {
                 "key": "vicious stomp",
-                "children": [                {
-                    "key": "brute style",
-                    "children": [                    {
-                        "key": "brute stomp",
-                        "children": [                        {
-                            "key": "brute assault",
-                            "children": []
-                        }]
-                    }]
-                }]
+                "children": []
             },
                         {
                 "key": "wolf style",
@@ -32662,6 +32685,10 @@ var featTree = [
                         "children": []
                     }]
                 }]
+            },
+                        {
+                "key": "cockatrice strike",
+                "children": []
             },
                         {
                 "key": "combat style master",
@@ -32783,6 +32810,16 @@ var featTree = [
                 }]
             },
                         {
+                "key": "electric eel style",
+                "children": [                {
+                    "key": "electric eel shock",
+                    "children": [                    {
+                        "key": "electric eel conduit",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "elemental fist",
                 "children":                 [
                                         {
@@ -32821,16 +32858,6 @@ var featTree = [
                             "key": "efreeti stance",
                             "children": [                            {
                                 "key": "efreeti touch",
-                                "children": []
-                            }]
-                        }]
-                    },
-                                        {
-                        "key": "electric eel style",
-                        "children": [                        {
-                            "key": "electric eel shock",
-                            "children": [                            {
-                                "key": "electric eel conduit",
                                 "children": []
                             }]
                         }]
@@ -33067,6 +33094,16 @@ var featTree = [
                 }]
             },
                         {
+                "key": "brute style",
+                "children": [                {
+                    "key": "brute stomp",
+                    "children": [                    {
+                        "key": "brute assault",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "cerberus style",
                 "children": [                {
                     "key": "cerberus snare",
@@ -33075,10 +33112,6 @@ var featTree = [
                         "children": []
                     }]
                 }]
-            },
-                        {
-                "key": "cockatrice strike",
-                "children": []
             },
                         {
                 "key": "crashing wave style",
@@ -33105,6 +33138,10 @@ var featTree = [
     },
         {
         "key": "improvisational healer",
+        "children": []
+    },
+        {
+        "key": "incorporeal intuition",
         "children": []
     },
         {
@@ -33164,19 +33201,7 @@ var featTree = [
     },
         {
         "key": "inscribe magical tattoo",
-        "children": [        {
-            "key": "tattoo attunement",
-            "children":             [
-                                {
-                    "key": "tattoo conversion",
-                    "children": []
-                },
-                                {
-                    "key": "tattoo transformation",
-                    "children": []
-                }
-            ]
-        }]
+        "children": []
     },
         {
         "key": "inscribe rune",
@@ -33422,10 +33447,7 @@ var featTree = [
             },
                         {
                 "key": "unimpeachable honor",
-                "children": [                {
-                    "key": "zealous mind",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "versatile jinx",
@@ -33441,6 +33463,10 @@ var featTree = [
             },
                         {
                 "key": "witchbreaker",
+                "children": []
+            },
+                        {
+                "key": "zealous mind",
                 "children": []
             },
                         {
@@ -33660,10 +33686,7 @@ var featTree = [
     },
         {
         "key": "lady luck's guidance",
-        "children": [        {
-            "key": "cosmic gate",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "lamashtu's mark",
@@ -33913,10 +33936,7 @@ var featTree = [
     },
         {
         "key": "lookout",
-        "children": [        {
-            "key": "improved lookout",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "lost in the crowd",
@@ -33956,6 +33976,10 @@ var featTree = [
                 }]
             }
         ]
+    },
+        {
+        "key": "luck of heroes",
+        "children": []
     },
         {
         "key": "lucky halfling",
@@ -34064,10 +34088,7 @@ var featTree = [
     },
         {
         "key": "marksman's utility",
-        "children": [        {
-            "key": "finesse shot",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "martial dominance",
@@ -34258,10 +34279,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "meteor swing",
-        "children": []
-    },
-        {
         "key": "mighty bite",
         "children": []
     },
@@ -34286,6 +34303,10 @@ var featTree = [
     },
         {
         "key": "mirror kin",
+        "children": []
+    },
+        {
+        "key": "mixed scales",
         "children": []
     },
         {
@@ -34351,10 +34372,7 @@ var featTree = [
     },
         {
         "key": "mother's gift",
-        "children": [        {
-            "key": "awakened hag heritage",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "motivated march",
@@ -34484,6 +34502,14 @@ var featTree = [
         "children": []
     },
         {
+        "key": "musketeer's dodge",
+        "children": []
+    },
+        {
+        "key": "musketeer's reposition",
+        "children": []
+    },
+        {
         "key": "musketeer's sidestep",
         "children": []
     },
@@ -34508,6 +34534,10 @@ var featTree = [
     },
         {
         "key": "mythic companion",
+        "children": []
+    },
+        {
+        "key": "named bullet",
         "children": []
     },
         {
@@ -34723,16 +34753,11 @@ var featTree = [
     },
         {
         "key": "noble scion",
-        "children":         [
-                        {
-                "key": "noble stipend",
-                "children": []
-            },
-                        {
-                "key": "enlightened noble",
-                "children": []
-            }
-        ]
+        "children": []
+    },
+        {
+        "key": "noble stipend",
+        "children": []
     },
         {
         "key": "nosoi's spiritsense",
@@ -34847,10 +34872,7 @@ var featTree = [
     },
         {
         "key": "outflank",
-        "children": [        {
-            "key": "improved outflank",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "overachiever",
@@ -35177,13 +35199,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "point-blank master",
-        "children": [        {
-            "key": "false opening",
-            "children": []
-        }]
-    },
-        {
         "key": "point-blank shot",
         "children":         [
                         {
@@ -35317,13 +35332,7 @@ var featTree = [
                 "children":                 [
                                         {
                         "key": "stabbing shot",
-                        "children": [                        {
-                            "key": "empty quiver flexibility",
-                            "children": [                            {
-                                "key": "empty quiver flurry",
-                                "children": []
-                            }]
-                        }]
+                        "children": []
                     },
                                         {
                         "key": "crossbow mastery",
@@ -35362,6 +35371,13 @@ var featTree = [
                                 }]
                             }
                         ]
+                    },
+                                        {
+                        "key": "empty quiver flexibility",
+                        "children": [                        {
+                            "key": "empty quiver flurry",
+                            "children": []
+                        }]
                     }
                 ]
             },
@@ -35397,28 +35413,11 @@ var featTree = [
                 "children": []
             },
                         {
-                "key": "startoss style",
-                "children": [                {
-                    "key": "startoss comet",
-                    "children": [                    {
-                        "key": "startoss shower",
-                        "children": []
-                    }]
-                }]
-            },
-                        {
                 "key": "stock-striker takedown",
                 "children": []
             },
                         {
                 "key": "target of opportunity",
-                "children": [                {
-                    "key": "diversion shot",
-                    "children": []
-                }]
-            },
-                        {
-                "key": "technology adept",
                 "children": []
             },
                         {
@@ -35494,6 +35493,16 @@ var featTree = [
                         "children": []
                     }]
                 }]
+            },
+                        {
+                "key": "startoss style",
+                "children": [                {
+                    "key": "startoss comet",
+                    "children": [                    {
+                        "key": "startoss shower",
+                        "children": []
+                    }]
+                }]
             }
         ]
     },
@@ -35510,6 +35519,10 @@ var featTree = [
     },
         {
         "key": "poison resin",
+        "children": []
+    },
+        {
+        "key": "poison shot deed",
         "children": []
     },
         {
@@ -35552,10 +35565,11 @@ var featTree = [
         "children":         [
                         {
                 "key": "hand's autonomy",
-                "children": [                {
-                    "key": "hand's detachment",
-                    "children": []
-                }]
+                "children": []
+            },
+                        {
+                "key": "hand's detachment",
+                "children": []
             },
                         {
                 "key": "hand's knowledge",
@@ -35923,10 +35937,6 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "riptide attack",
-                        "children": []
-                    },
-                                        {
                         "key": "bristling drag",
                         "children": []
                     },
@@ -36016,10 +36026,6 @@ var featTree = [
                         "children": []
                     },
                                         {
-                        "key": "technophobe",
-                        "children": []
-                    },
-                                        {
                         "key": "find the flaw",
                         "children": []
                     },
@@ -36081,10 +36087,6 @@ var featTree = [
                     "key": "blood frenzy assault",
                     "children": []
                 }]
-            },
-                        {
-                "key": "improved awesome blow",
-                "children": []
             }
         ]
     },
@@ -36110,10 +36112,7 @@ var featTree = [
     },
         {
         "key": "precise strike",
-        "children": [        {
-            "key": "improved precise strike",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "precocious youth",
@@ -36121,10 +36120,6 @@ var featTree = [
     },
         {
         "key": "pressure adept",
-        "children": []
-    },
-        {
-        "key": "prestigious spellcaster",
         "children": []
     },
         {
@@ -36176,6 +36171,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "protective line",
+        "children": []
+    },
+        {
         "key": "protector of the people",
         "children": []
     },
@@ -36200,10 +36199,7 @@ var featTree = [
             },
                         {
                 "key": "spirit sense",
-                "children": [                {
-                    "key": "incorporeal intuition",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "third eye",
@@ -36449,10 +36445,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "ranged study",
-        "children": []
-    },
-        {
         "key": "rapid focus shift",
         "children": []
     },
@@ -36488,10 +36480,11 @@ var featTree = [
     },
         {
         "key": "reach spell",
-        "children": [        {
-            "key": "distant spell link",
-            "children": []
-        }]
+        "children": []
+    },
+        {
+        "key": "reactive arcane shield",
+        "children": []
     },
         {
         "key": "reactive reversion",
@@ -36921,6 +36914,13 @@ var featTree = [
         "children": []
     },
         {
+        "key": "seen and unseen",
+        "children": [        {
+            "key": "neither elf nor human",
+            "children": []
+        }]
+    },
+        {
         "key": "seeping darkness",
         "children": []
     },
@@ -37102,6 +37102,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "shared ownership",
+        "children": []
+    },
+        {
         "key": "shared quarry",
         "children": []
     },
@@ -37115,10 +37119,7 @@ var featTree = [
     },
         {
         "key": "sharp senses",
-        "children": [        {
-            "key": "eyes of the twilight",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "sharpclaw",
@@ -37147,13 +37148,7 @@ var featTree = [
         "children":         [
                         {
                 "key": "shield wall",
-                "children": [                {
-                    "key": "sisterhood rampart",
-                    "children": [                    {
-                        "key": "sisterhood dedication",
-                        "children": []
-                    }]
-                }]
+                "children": []
             },
                         {
                 "key": "tower shield proficiency",
@@ -37204,19 +37199,12 @@ var featTree = [
                             "key": "upsetting vengeance",
                             "children": []
                         }]
-                    },
-                                        {
-                        "key": "bashing finish",
-                        "children": []
                     }
                 ]
             },
                         {
                 "key": "saving shield",
-                "children": [                {
-                    "key": "vanguard hustle",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "shield focus",
@@ -37230,7 +37218,10 @@ var featTree = [
                     },
                                         {
                         "key": "shield specialization",
-                        "children": []
+                        "children": [                        {
+                            "key": "greater shield specialization",
+                            "children": []
+                        }]
                     },
                                         {
                         "key": "shielded mage",
@@ -37302,13 +37293,16 @@ var featTree = [
                     },
                                         {
                         "key": "missile shield",
-                        "children": [                        {
-                            "key": "ray shield",
-                            "children": [                            {
+                        "children":                         [
+                                                        {
+                                "key": "ray shield",
+                                "children": []
+                            },
+                                                        {
                                 "key": "greater ray shield",
                                 "children": []
-                            }]
-                        }]
+                            }
+                        ]
                     },
                                         {
                         "key": "mobile bulwark style",
@@ -37382,16 +37376,10 @@ var featTree = [
     },
         {
         "key": "siege engineer",
-        "children":         [
-                        {
-                "key": "siege gunner",
-                "children": []
-            },
-                        {
-                "key": "cannon master",
-                "children": []
-            }
-        ]
+        "children": [        {
+            "key": "siege gunner",
+            "children": []
+        }]
     },
         {
         "key": "signature deed",
@@ -37431,10 +37419,7 @@ var featTree = [
     },
         {
         "key": "skald's vigor",
-        "children": [        {
-            "key": "greater skald's vigor",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "skaveling companion",
@@ -37477,6 +37462,22 @@ var featTree = [
                         {
                 "key": "dog-sniff-hate",
                 "children": []
+            },
+                        {
+                "key": "eldritch heritage",
+                "children":                 [
+                                        {
+                        "key": "improved eldritch heritage",
+                        "children": [                        {
+                            "key": "greater eldritch heritage",
+                            "children": []
+                        }]
+                    },
+                                        {
+                        "key": "raging blood",
+                        "children": []
+                    }
+                ]
             },
                         {
                 "key": "esoteric linguistics",
@@ -37555,7 +37556,10 @@ var featTree = [
     },
         {
         "key": "skilled driver",
-        "children": []
+        "children": [        {
+            "key": "expert driver",
+            "children": []
+        }]
     },
         {
         "key": "skilled rager",
@@ -37739,19 +37743,7 @@ var featTree = [
             },
                         {
                 "key": "varisian tattoo",
-                "children": [                {
-                    "key": "tattoo attunement",
-                    "children":                     [
-                                                {
-                            "key": "tattoo conversion",
-                            "children": []
-                        },
-                                                {
-                            "key": "tattoo transformation",
-                            "children": []
-                        }
-                    ]
-                }]
+                "children": []
             },
                         {
                 "key": "verdant spell",
@@ -37873,15 +37865,15 @@ var featTree = [
         "key": "spell mastery",
         "children":         [
                         {
+                "key": "stylized spell mastery",
+                "children": []
+            },
+                        {
                 "key": "flexible wizardry",
                 "children": [                {
                     "key": "improved flexible wizardry",
                     "children": []
                 }]
-            },
-                        {
-                "key": "stylized spell mastery",
-                "children": []
             }
         ]
     },
@@ -38303,10 +38295,6 @@ var featTree = [
         "children": []
     },
         {
-        "key": "storm of blades",
-        "children": []
-    },
-        {
         "key": "storm soul",
         "children": [        {
             "key": "storm warrior",
@@ -38411,16 +38399,7 @@ var featTree = [
     },
         {
         "key": "stylized spell",
-        "children":         [
-                        {
-                "key": "greater stylized spell",
-                "children": []
-            },
-                        {
-                "key": "stylized spell mastery",
-                "children": []
-            }
-        ]
+        "children": []
     },
         {
         "key": "stylized spontaneity",
@@ -38470,6 +38449,10 @@ var featTree = [
     },
         {
         "key": "summoner's call",
+        "children": []
+    },
+        {
+        "key": "sunblade",
         "children": []
     },
         {
@@ -38588,6 +38571,10 @@ var featTree = [
         "children": []
     },
         {
+        "key": "swing about",
+        "children": []
+    },
+        {
         "key": "swipe and stash",
         "children": []
     },
@@ -38656,6 +38643,19 @@ var featTree = [
         "children": []
     },
         {
+        "key": "tattoo attunement",
+        "children":         [
+                        {
+                "key": "tattoo conversion",
+                "children": []
+            },
+                        {
+                "key": "tattoo transformation",
+                "children": []
+            }
+        ]
+    },
+        {
         "key": "taunt",
         "children": []
     },
@@ -38680,19 +38680,17 @@ var featTree = [
             },
                         {
                 "key": "craft technological arms and armor",
-                "children": [                {
-                    "key": "craft robot",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "craft technological item",
-                "children": [                {
-                    "key": "craft robot",
-                    "children": []
-                }]
+                "children": []
             }
         ]
+    },
+        {
+        "key": "technophobe",
+        "children": []
     },
         {
         "key": "telekinetic mastery",
@@ -38776,10 +38774,6 @@ var featTree = [
     },
         {
         "key": "thoughtful discernment",
-        "children": []
-    },
-        {
-        "key": "thousand cuts",
         "children": []
     },
         {
@@ -38951,10 +38945,6 @@ var featTree = [
         {
         "key": "toughness",
         "children":         [
-                        {
-                "key": "toxic stench",
-                "children": []
-            },
                         {
                 "key": "unbreakable",
                 "children": []
@@ -39314,10 +39304,6 @@ var featTree = [
             },
                         {
                 "key": "heaven's step",
-                "children": []
-            },
-                        {
-                "key": "bashing finish",
                 "children": []
             }
         ]
@@ -39834,10 +39820,7 @@ var featTree = [
             },
                         {
                 "key": "fencing grace",
-                "children": [                {
-                    "key": "two-weapon grace",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "feral grace",
@@ -39864,23 +39847,15 @@ var featTree = [
             },
                         {
                 "key": "slashing grace",
-                "children": [                {
-                    "key": "two-weapon grace",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "starry grace",
-                "children":                 [
-                                        {
-                        "key": "two-weapon grace",
-                        "children": []
-                    },
-                                        {
-                        "key": "guided star",
-                        "children": []
-                    }
-                ]
+                "children": []
+            },
+                        {
+                "key": "two-weapon grace",
+                "children": []
             },
                         {
                 "key": "spear dancing spiral",
@@ -39895,30 +39870,55 @@ var featTree = [
         "key": "weapon focus",
         "children":         [
                         {
+                "key": "weapon of the chosen",
+                "children": [                {
+                    "key": "improved weapon of the chosen",
+                    "children": [                    {
+                        "key": "greater weapon of the chosen",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
+                "key": "weapon specialization",
+                "children":                 [
+                                        {
+                        "key": "greater weapon specialization",
+                        "children": []
+                    },
+                                        {
+                        "key": "impaling critical",
+                        "children": [                        {
+                            "key": "improved impaling critical",
+                            "children": []
+                        }]
+                    },
+                                        {
+                        "key": "point-blank master",
+                        "children": [                        {
+                            "key": "false opening",
+                            "children": []
+                        }]
+                    },
+                                        {
+                        "key": "tripping twirl",
+                        "children": []
+                    }
+                ]
+            },
+                        {
                 "key": "weapon versatility",
                 "children": []
             },
                         {
                 "key": "whip mastery",
-                "children":                 [
-                                        {
-                        "key": "balor whip",
-                        "children": [                        {
-                            "key": "improved balor whip",
-                            "children": [                            {
-                                "key": "greater balor whip",
-                                "children": []
-                            }]
-                        }]
-                    },
-                                        {
-                        "key": "improved whip mastery",
-                        "children": [                        {
-                            "key": "greater whip mastery",
-                            "children": []
-                        }]
-                    }
-                ]
+                "children": [                {
+                    "key": "improved whip mastery",
+                    "children": [                    {
+                        "key": "greater whip mastery",
+                        "children": []
+                    }]
+                }]
             },
                         {
                 "key": "aldori dueling disciple",
@@ -39962,6 +39962,26 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "ascetic style",
+                "children": [                {
+                    "key": "ascetic form",
+                    "children": [                    {
+                        "key": "ascetic strike",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
+                "key": "balor whip",
+                "children": [                {
+                    "key": "improved balor whip",
+                    "children": [                    {
+                        "key": "greater balor whip",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "beartrap bite",
                 "children": [                {
                     "key": "bear hug",
@@ -39974,6 +39994,20 @@ var featTree = [
             },
                         {
                 "key": "cleaving sweep",
+                "children": []
+            },
+                        {
+                "key": "cloak and dagger style",
+                "children": [                {
+                    "key": "cloak and dagger subterfuge",
+                    "children": [                    {
+                        "key": "cloak and dagger tactics",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
+                "key": "close-quarters thrower",
                 "children": []
             },
                         {
@@ -39990,6 +40024,18 @@ var featTree = [
             },
                         {
                 "key": "covering fire (vc)",
+                "children": []
+            },
+                        {
+                "key": "cracking the shell",
+                "children": []
+            },
+                        {
+                "key": "crippling thrust",
+                "children": []
+            },
+                        {
+                "key": "crusader's flurry",
                 "children": []
             },
                         {
@@ -40086,19 +40132,47 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "empty quiver style",
+                "children": [                {
+                    "key": "empty quiver flexibility",
+                    "children": [                    {
+                        "key": "empty quiver flurry",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "erastil's blessing",
                 "children": []
             },
                         {
+                "key": "eroding strikes",
+                "children": []
+            },
+                        {
                 "key": "fencing grace",
-                "children": [                {
-                    "key": "two-weapon grace",
-                    "children": []
-                }]
+                "children": []
+            },
+                        {
+                "key": "feral combat training",
+                "children": []
             },
                         {
                 "key": "garen's discipline",
                 "children": []
+            },
+                        {
+                "key": "greater weapon focus",
+                "children":                 [
+                                        {
+                        "key": "greater weapon specialization",
+                        "children": []
+                    },
+                                        {
+                        "key": "deadly stroke",
+                        "children": []
+                    }
+                ]
             },
                         {
                 "key": "gunslinger",
@@ -40113,6 +40187,30 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "meteor swing",
+                "children": []
+            },
+                        {
+                "key": "outslug style",
+                "children": [                {
+                    "key": "outslug weave",
+                    "children": [                    {
+                        "key": "outslug sprint",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
+                "key": "overwatch style",
+                "children": [                {
+                    "key": "overwatch tactician",
+                    "children": [                    {
+                        "key": "overwatch vortex",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "penetrating strike",
                 "children": [                {
                     "key": "greater penetrating strike",
@@ -40125,6 +40223,10 @@ var featTree = [
             },
                         {
                 "key": "ranged disable",
+                "children": []
+            },
+                        {
+                "key": "ranged study",
                 "children": []
             },
                         {
@@ -40176,10 +40278,7 @@ var featTree = [
             },
                         {
                 "key": "slashing grace",
-                "children": [                {
-                    "key": "two-weapon grace",
-                    "children": []
-                }]
+                "children": []
             },
                         {
                 "key": "sling flail",
@@ -40198,6 +40297,16 @@ var featTree = [
                         {
                 "key": "small but deadly",
                 "children": []
+            },
+                        {
+                "key": "smashing style",
+                "children": [                {
+                    "key": "smashing crush",
+                    "children": [                    {
+                        "key": "smashing dent",
+                        "children": []
+                    }]
+                }]
             },
                         {
                 "key": "snap shot",
@@ -40220,21 +40329,36 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "spear dancing style",
+                "children": [                {
+                    "key": "spear dancing spiral",
+                    "children": [                    {
+                        "key": "spear dancing reach",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "stage combatant",
                 "children": []
             },
                         {
                 "key": "starry grace",
-                "children":                 [
-                                        {
-                        "key": "two-weapon grace",
+                "children": []
+            },
+                        {
+                "key": "startoss style",
+                "children": [                {
+                    "key": "startoss comet",
+                    "children": [                    {
+                        "key": "startoss shower",
                         "children": []
-                    },
-                                        {
-                        "key": "guided star",
-                        "children": []
-                    }
-                ]
+                    }]
+                }]
+            },
+                        {
+                "key": "storm of blades",
+                "children": []
             },
                         {
                 "key": "strangler (mc)",
@@ -40245,7 +40369,28 @@ var featTree = [
                 "children": []
             },
                         {
+                "key": "swordplay style",
+                "children": [                {
+                    "key": "swordplay upset",
+                    "children": [                    {
+                        "key": "swordplay deflection",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "taldan duelist",
+                "children": []
+            },
+                        {
+                "key": "tangled limbs",
+                "children": [                {
+                    "key": "titan's tangle",
+                    "children": []
+                }]
+            },
+                        {
+                "key": "thousand cuts",
                 "children": []
             },
                         {
@@ -40260,6 +40405,16 @@ var featTree = [
                 }]
             },
                         {
+                "key": "twin thunders",
+                "children": [                {
+                    "key": "twin thunders flurry",
+                    "children": [                    {
+                        "key": "twin thunders master",
+                        "children": []
+                    }]
+                }]
+            },
+                        {
                 "key": "voracious blade",
                 "children": [                {
                     "key": "siphoning blade",
@@ -40269,22 +40424,16 @@ var featTree = [
                         {
                 "key": "warning shot",
                 "children": []
+            },
+                        {
+                "key": "false opening",
+                "children": []
             }
         ]
     },
         {
         "key": "weapon material mastery",
         "children": []
-    },
-        {
-        "key": "weapon of the chosen",
-        "children": [        {
-            "key": "improved weapon of the chosen",
-            "children": [            {
-                "key": "greater weapon of the chosen",
-                "children": []
-            }]
-        }]
     },
         {
         "key": "weapon shift",
@@ -40294,13 +40443,6 @@ var featTree = [
                 "key": "greater weapon shift",
                 "children": []
             }]
-        }]
-    },
-        {
-        "key": "weapon specialization",
-        "children": [        {
-            "key": "tripping twirl",
-            "children": []
         }]
     },
         {
@@ -40317,10 +40459,7 @@ var featTree = [
     },
         {
         "key": "well-prepared",
-        "children": [        {
-            "key": "shared ownership",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "whip-shot deed",
@@ -40434,10 +40573,7 @@ var featTree = [
     },
         {
         "key": "word of healing",
-        "children": [        {
-            "key": "sunblade",
-            "children": []
-        }]
+        "children": []
     },
         {
         "key": "worldwound walker",

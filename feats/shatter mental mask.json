@@ -4,9 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shatter%20Mental%20Mask",
     "descriptors": ["Combat"],
     "source": ["Occult Adventures pg. 139"],
-    "description": "You are adept at ripping away an opponent’s mental mask, exposing its true visage during a psychic duel.",
+    "text": "You are adept at ripping away an opponent’s mental mask, exposing its true visage during a psychic duel.",
     "prerequisites": "Psychic Sensitivity or ability to cast psychic spells or use psychic spell-like abilities, character level 2nd.",
     "benefit": "While in a psychic duel, when you create an offensive manifestation that can be negated or halved only with a successful Will saving throw, if your opponent fails that Will saving throw, its mental mask is shattered, revealing the opponent’s true form.",
     "special": "If you possess the Third Eye feat, your opponent’s mental mask is shattered even on a successful Will saving throw.",
-    "prerequisiteKeys": ["psychic sensitivity"]
+    "prerequisiteKeys": ["psychic sensitivity"],
+    "name_zh": "剥离伪装",
+    "text_zh": "你善于揭开敌人的心智伪装，让它在异能决斗中暴露出真实面貌。",
+    "prerequisites_zh": "异能敏感（Psychic Sensitivity）或者施放异能法术（psychic spells）或使用异能类法术（psychic spell-like）的能力，角色等级2级",
+    "benefit_zh": "在异能决斗（Psychic Duel）中，当你创造只需要成功通过意志豁免就能够使效果无效或减半的攻击幻形（Offensive Manifestations）时，如果你的敌人未能通过意志豁免，那么它的心智伪装（mental mask）就会被剥离，展现出自身的真实形态。",
+    "special_zh": "若你具有三眼开放（Third Eye）专长，那么即便敌人成功通过意志豁免，其心智伪装（mental mask）也会被剥离。"
 }

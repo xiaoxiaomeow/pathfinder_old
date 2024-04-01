@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Torch%20Bearer",
     "descriptors": ["Combat"],
     "source": ["Inner Sea Gods pg. 217"],
-    "description": "You can make use of a torch as a deadly, macelike weapon.",
+    "text": "You can make use of a torch as a deadly, macelike weapon.",
     "benefit": "You treat a torch as a light weapon that deals bludgeoning damage equal to that of a light mace of its size plus 1 point of fire damage, and you do not incur penalties as you would for using it as an improvised weapon.",
     "normal": "A torch used in combat is treated as a one-handed improvised weapon that deals bludgeoning damage equal to that of a gauntlet of its size plus 1 point of fire damage.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "By spending 2 stamina points when you hit an opponent with a torch, you can increase the amount of fire damage dealt by the torch to 1d4."
 }

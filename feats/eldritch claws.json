@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Claws",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 158"],
-    "description": "Who needs magic weapons? Eldritch tricks are no match for your bestial ferocity.",
+    "text": "Who needs magic weapons? Eldritch tricks are no match for your bestial ferocity.",
     "prerequisites": "Str 15, natural weapons, base attack bonus +6.",
     "benefit": "You natural weapons are considered both magic and silver for purpose of overcoming damage reduction.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "As long as you have 1 stamina point in your stamina pool, your claws are also considered to be cold iron weapons for the purpose of overcoming damage reduction.",
     "name_zh": "奥秘之爪",
-    "description_zh": "谁需要魔法武器？鬼魅的把戏无法阻挡你的兽性之力。",
+    "text_zh": "谁需要魔法武器？鬼魅的把戏无法阻挡你的兽性之力。",
     "prerequisites_zh": "力量15，拥有天生武器，基本攻击加值+6。",
     "benefit_zh": "你的天生武器在克服伤害减免时同时被视为魔法和银。"
 }

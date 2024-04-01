@@ -3,19 +3,19 @@
     "name": "Heroic Defiance",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heroic%20Defiance",
     "source": ["Advanced Player's Guide pg. 162"],
-    "description": "You struggle on when others would fall.",
+    "text": "You struggle on when others would fall.",
     "prerequisites": "Diehard, Endurance, base Fortitude save +8.",
     "benefit": "Once per day as an immediate action you can delay the onset of one harmful condition or affliction (such as panicked, paralyzed, stunned, and so on), including permanent and instantaneous conditions. Activating this feat delays the onset of the condition until the end of your next turn, after which time the condition takes its normal effect. This feat has no effect on hit point damage or ability damage.",
-    "mythicSource": ["Mythic Adventures pg. 66"],
-    "mythicDescription": "You ignore harmful effects that would bring others down.",
-    "mythicPrerequisites": "Heroic Defiance.<br><br",
+    "mythicSource": "Mythic Adventures pg. 66",
+    "mythicText": "You ignore harmful effects that would bring others down.",
+    "mythicPrerequisites": "Heroic Defiance<sup>APG<\/sup>.",
     "mythicBenefit": "Once per day as an immediate action, you can attempt to negate the onset of one harmful condition or affliction (such as panicked, paralyzed, stunned, and so on) that allowed a saving throw for its onset, not including permanent and instantaneous conditions. When you do so, attempt a Will saving throw with a bonus equal to your tier against the original DC of the effect. If you succeed, the condition is negated. If you fail, the onset is delayed until the end of your next turn, after which it takes its normal effect. This feat has no effect on hit point damage or ability damage.<br><br> This effect is separate from the use of non-mythic Heroic Defiance.",
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
     ],
     "name_zh": "英勇气魄",
-    "description_zh": "在其他人无法承受的时候，只有你顽勇不屈。",
+    "text_zh": "在其他人无法承受的时候，只有你顽勇不屈。",
     "prerequisites_zh": "顽强，坚忍，基本强韧豁免+8。",
     "benefit_zh": "每日1次以直觉动作，你能够推迟一个有害状态或者苦难（affliction），比如恐慌，麻痹，震慑等等，包括永久和瞬时的状态。激活这一状态会将状态的发作延迟至你的下一轮结束的时刻，在这之后此状态如常生效。该专长对HP受损或者属性伤害没有影响。"
 }

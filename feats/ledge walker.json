@@ -3,12 +3,12 @@
     "name": "Ledge Walker",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ledge%20Walker",
     "source": ["Advanced Race Guide pg. 18"],
-    "description": " You negotiate tiny ledges like a mountain goat. ",
+    "text": " You negotiate tiny ledges like a mountain goat. ",
     "prerequisites": "Dex 13, dwarf, mountaineer or stability racial trait.",
     "benefit": "You can move at full speed while using Acrobatics to balance on narrow surfaces, and you gain a +4 bonus on Climb checks to catch yourself or another creature while falling. You also gain a +4 bonus on saving throws against effects that would cause you to fall prone (such as earthquakes). This bonus does not apply to your CMD against bull rush or trip attacks.",
     "prerequisiteKeys": ["mountaineer"],
     "name_zh": "岩架行者",
-    "description_zh": "你跨越岩架的动作如同山羊一般灵活。",
+    "text_zh": "你跨越岩架的动作如同山羊一般灵活。",
     "prerequisites_zh": "敏捷13，矮人，【登山者】或【稳固】种族特性。",
     "benefit_zh": "你能够在使用特技检定在狭窄表面的保持平衡时全速移动，同时你能够在使用攀爬检定在坠落中抓住同伴、或者自己抓住支撑物时获得+4加值。此外你在对抗那些使你易于跌掉的效果时（比如‘地震术’），豁免检定获得+4加值。这些加值不适用于对抗冲撞以及绊摔攻击时的CMD。"
 }

@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Penetrating%20Strike",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 125"],
-    "description": "Your attacks penetrate the defenses of most foes. ",
+    "text": "Your attacks penetrate the defenses of most foes. ",
     "prerequisites": "Penetrating Strike, Weapon Focus, 16th-level fighter.",
     "benefit": "Your attacks made with weapons selected with Weapon Focus ignore up to 10 points of damage reduction. This amount is reduced to 5 points for damage reduction without a type (such as DR 10/—).",
-    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaSource": "Pathfinder Unchained pg. 121",
     "staminaText": "When you use a weapon with which you have Weapon Focus to damage a creature that has damage reduction, you can spend 5 stamina points to allow all your allies within 30 feet to ignore 10 points of that creature’s damage reduction for 1 round. This amount is reduced to 5 points for damage reduction without a type (such as DR 10/—). This effect does not stack with Greater Penetrating Strike’s normal effect, but it does allow you to apply the effect to all your other weapons for the duration.",
     "prerequisiteKeys":     [
         "penetrating strike",
         "weapon focus"
     ],
     "name_zh": "高等穿透打击",
-    "description_zh": "你的攻击能够穿透大多数敌人的防御。选择一个已在穿透打击专长中选择过的武器类型。",
+    "text_zh": "你的攻击能够穿透大多数敌人的防御。选择一个已在穿透打击专长中选择过的武器类型。",
     "prerequisites_zh": "穿透打击，武器专攻，战士等级16。",
     "benefit_zh": "你用选择类型的武器攻击时忽略最高10点伤害减免。但对不针对特定类型的伤害减免时，效果减少到5点（例如“10/-”）。"
 }

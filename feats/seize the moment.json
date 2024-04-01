@@ -7,17 +7,17 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 118"],
-    "description": "You and your allies are poised to pounce whenever one of you scores a telling blow. ",
+    "text": "You and your allies are poised to pounce whenever one of you scores a telling blow. ",
     "prerequisites": "Combat Reflexes, Improved Critical.",
     "benefit": "When an ally who also has this feat confirms a critical hit against an opponent that you also threaten, you can make an attack of opportunity against that opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "When an ally with this feat threatens a critical hit but fails to confirm it, you can spend 5 stamina points to make your attack of opportunity anyway.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved critical"
     ],
     "name_zh": "抓准时机",
-    "description_zh": "你和你的盟友擅长抓住发起凶猛攻击的时机。",
+    "text_zh": "你和你的盟友擅长抓住发起凶猛攻击的时机。",
     "prerequisites_zh": "战斗反射，精通重击。",
     "benefit_zh": "当拥有此专长的盟友对在你威胁范围内的敌人造成重击时，你可以对该敌人发起一次借机攻击。"
 }

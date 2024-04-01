@@ -3,9 +3,14 @@
     "name": "Greater Dirge of Doom",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Dirge%20of%20Doom",
     "source": ["Advanced Class Guide pg. 149"],
-    "description": "The haunting sound of sepulchral intonations chills the most stalwart adversary to its very core.",
+    "text": "The haunting sound of sepulchral intonations chills the most stalwart adversary to its very core.",
     "prerequisites": "Improved Dirge of Doom, ability to perform dirge of doom.",
     "benefit": "The effect of your dirge of doom lingers with a target for 2 rounds after the creature leaves the dirge’s area of effect. If you use your dirge on a creature that is shaken, it becomes frightened. If you use it on a creature that is frightened, it becomes panicked. Once affected by this feat, a creature cannot be affected by it again for 24 hours.",
     "normal": "Fear effects on a creature end immediately once it leaves the area of dirge of doom. A fear effect cannot be made more extreme by dirge of doom and can be changed only to the frightened condition by the Improved Dirge of Doom feat.",
-    "prerequisiteKeys": ["improved dirge of doom"]
+    "prerequisiteKeys": ["improved dirge of doom"],
+    "name_zh": "高等末日丧歌",
+    "text_zh": "你唱响诸神之黄昏的乐章，即使最为凶蛮狂躁的对手也会在这令人丧胆的旋律下惊慌的逃避。",
+    "prerequisites_zh": "精通末日丧歌，可以演奏末日丧歌",
+    "benefit_zh": "被你的末日丧歌影响的生物即使离开你的表演影响范围也会再继续受到影响两轮时间。如果你的末日丧歌影响的生物已经处于战栗状态，他们会陷入恐慌；如果生物已经处于恐慌状态，他们会陷入惊惧。一旦被该专长影响，该生物24小时内就不再会被该专长影响。",
+    "normal_zh": "受到你末日丧歌影响的生物将会在离开你的表演影响范围内立刻不受影响，并且末日丧歌无法提升生物的恐惧状态等级；精通末日丧歌只能将生物的恐惧等级提升到恐慌。"
 }

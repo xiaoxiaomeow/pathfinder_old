@@ -7,8 +7,8 @@
         "Inner Sea World Guide pg. 286",
         "Pathfinder Campaign Setting pg. 130"
     ],
-    "description": "Your experiences fighting against numerous foes that have already overwhelmed your allies, friends, and family have forced you to excel at fighting on your own.",
+    "text": "Your experiences fighting against numerous foes that have already overwhelmed your allies, friends, and family have forced you to excel at fighting on your own.",
     "benefit": "When no ally is within 10 feet of you and you are not receiving benefits from the aid another action, you gain a +1 morale bonus on melee attack and damage rolls.",
-    "staminaSource": ["Weapon Master's Handbook pg. 24"],
+    "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "You can spend 2 stamina points to gain the benefits of Desperate Battler even while an ally is within 10 feet of you (but not when receiving the benefits of the aid another action)."
 }

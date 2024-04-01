@@ -3,7 +3,7 @@
     "name": "Metallic Wings",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Metallic%20Wings",
     "source": ["Advanced Race Guide pg. 88"],
-    "description": "Your wing feathers are made of gleaming metal.",
+    "text": "Your wing feathers are made of gleaming metal.",
     "prerequisites": "Angelic Blood, Angelic Flesh, Angel Wings, aasimar, character level 11th.",
     "benefit": "You gain two wing attacks. These are secondary natural attacks that deal 1d4 points of slashing damage (or 1d3 if you are Small).",
     "prerequisiteKeys":     [
@@ -12,7 +12,7 @@
         "angelic flesh"
     ],
     "name_zh": "金属之翼",
-    "description_zh": "你翅膀上的羽毛是闪闪发亮的金属构成。",
+    "text_zh": "你翅膀上的羽毛是闪闪发亮的金属构成。",
     "prerequisites_zh": "天使之血，天使之躯，天使之翼，神裔，角色等级11。",
     "benefit_zh": "你获得2翼击。这是一种次要天生武器，造成1d4点挥砍伤害（如果你是小体型则1d3）。<\/p><p>【编注：次要天生武器采用BAB-5进行攻击，伤害加值为力量修正一半，并能和武器攻击或主要天生武器同时展开全力攻击。】"
 }

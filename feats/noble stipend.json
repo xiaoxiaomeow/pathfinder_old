@@ -3,8 +3,7 @@
     "name": "Noble Stipend",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Noble%20Stipend",
     "source": ["Heroes of the High Court pg. 5"],
-    "description": "You receive a small allowance from your noble family or inheritance.",
-    "prerequisites": "Cha 13, Noble Scion.",
-    "benefit": "You receive 100 gp at the beginning of every week that you can spend only on services and nonmaterial goods. Services and nonmaterial goods include the following. <ul><li>Hiring entertainers, messengers, mounts, servants, transport, workers, and so on.<\/li><li>Improving your lifestyle quality (see Cost of Living on page 405 of the <i>Pathfinder RPG Core Rulebook<\/i>).<\/li><li>Obtaining invitations to exclusive events or entry into privileged locations.<\/li><li>Paying for lodgings, stabling, taxes, and tolls.<\/li><\/ul>",
-    "prerequisiteKeys": ["noble scion"]
+    "text": "You receive a small allowance from your noble family or inheritance.",
+    "prerequisites": "Cha 13, Noble Scion<sup>ISWG<\/sup>.",
+    "benefit": "You receive 100 gp at the beginning of every week that you can spend only on services and nonmaterial goods. Services and nonmaterial goods include the following. <ul><li>Hiring entertainers, messengers, mounts, servants, transport, workers, and so on.<\/li><li>Improving your lifestyle quality (see Cost of Living on page 405 of the <i>Pathfinder RPG Core Rulebook<\/i>).<\/li><li>Obtaining invitations to exclusive events or entry into privileged locations.<\/li><li>Paying for lodgings, stabling, taxes, and tolls.<\/li><\/ul>"
 }

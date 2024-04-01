@@ -7,11 +7,16 @@
         "Teamwork"
     ],
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "When you switch places with your comrade, your sizes don’t matter.",
+    "text": "When you switch places with your comrade, your sizes don’t matter.",
     "prerequisites": "Swap Places.",
     "benefit": "When you and your ally use Swap Places, your ally can be up to one size larger or smaller than you, and your movement into the ally’s square does not provoke an attack of opportunity. If your ally cannot fit into the space you had been occupying and there are no available adjacent squares to accommodate the rest of the ally’s space, the ally must squeeze. Alternatively, as part of its movement, the ally can attempt a bull rush combat maneuver against a creature that occupies a space your ally would occupy, but this bull rush cannot move the creature more than 5 feet.",
     "normal": "Using Swap Places requires you and your ally to be the same size, and your movement into the ally’s square provokes attacks of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "When you attempt a bull rush when using this feat, you can spend 2 stamina points to gain the ability to move the target of that combat maneuver more than 5 feet if necessary to create space for your ally (you must still roll high enough on the bull rush attempt to move the target an extra distance, as normal).",
-    "prerequisiteKeys": ["swap places"]
+    "prerequisiteKeys": ["swap places"],
+    "name_zh": "精通换位",
+    "text_zh": "无论你们之间的身材差异多大，你和伙伴已经完全掌握了互相移身的技巧。",
+    "prerequisites_zh": "换位",
+    "benefit_zh": "当你和你的盟友使用换位专长时，它可以比你大或者小一个体型等级，并且你在移入盟友占据的方格时不会引发借机攻击，如果你为盟友让出的方格不足以它的体型完全占据，你们它必须挤入（Squeeze，在攻击检定和速度上承受减值）。除此之外，你还可以在此移动中发动一次冲撞战技攻击，对抗占据你的盟友即将交换位置的一个生物，但这次冲撞攻击无法将这个生物撞离多于5尺距离。",
+    "normal_zh": "你必须和你的盟友同一体型才能发动换位专长，并且你移入盟友的方格会引发借机攻击。"
 }

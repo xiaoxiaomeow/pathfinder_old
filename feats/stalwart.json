@@ -3,7 +3,7 @@
     "name": "Stalwart",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stalwart",
     "source": ["Ultimate Combat pg. 121"],
-    "description": "You adopt a defensive stance that allows you to absorb and redirect hits.",
+    "text": "You adopt a defensive stance that allows you to absorb and redirect hits.",
     "prerequisites": "Diehard, Endurance, base attack bonus +4.",
     "benefit": "While using the total defense action, fighting defensively action, or Combat Expertise, you can forgo the dodge bonus to AC you would normally gain to instead gain an equivalent amount of DR, to a maximum of DR 5/—, until the start of your next turn. This damage reduction stacks with DR you gain from class features, such as the barbarian’s, but not with DR from any other source. If you are denied your Dexterity bonus to AC, you are also denied this DR.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "endurance"
     ],
     "name_zh": "坚毅",
-    "description_zh": "你调整好架势，能够吸收和偏移更多打击。",
+    "text_zh": "你调整好架势，能够吸收和偏移更多打击。",
     "prerequisites_zh": "顽强，坚忍，基本攻击加值+4。",
     "benefit_zh": "当你进行全防御动作、防御式战斗动作、或使用“寓守于攻”专长时，你能放弃本应获得的AC闪避加值，而是代之以等量的伤害减免，最大达到“5/-”，直到下轮开始。此伤害减免和你从职业特性中获得的减免叠加，譬如野蛮人；但不与其他任何类型的伤害减免叠加。若你失去AC的敏捷加值，你也失去上述伤害减免。"
 }

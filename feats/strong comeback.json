@@ -3,13 +3,13 @@
     "name": "Strong Comeback",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Strong%20Comeback",
     "source": ["Ultimate Combat pg. 121"],
-    "description": "You learn quickly from past mistakes.",
+    "text": "You learn quickly from past mistakes.",
     "benefit": "Whenever you are allowed to reroll an ability check, a skill check, or a saving throw, you gain a +2 circumstance bonus on the reroll.",
-    "mythicSource": ["Mythic Adventures pg. 75"],
-    "mythicDescription": "You never make the same mistake twice.",
-    "mythicPrerequisites": "Strong Comeback.<br><br",
+    "mythicSource": "Mythic Adventures pg. 75",
+    "mythicText": "You never make the same mistake twice.",
+    "mythicPrerequisites": "Strong Comeback<sup>UC<\/sup>.",
     "mythicBenefit": "Whenever you’re allowed to reroll an ability check, a skill check, or a saving throw, roll two dice and take the higher result, before adding the bonus from Strong Comeback.",
     "name_zh": "知错能改",
-    "description_zh": "你从过去犯下的错误中学到很多东西。",
+    "text_zh": "你从过去犯下的错误中学到很多东西。",
     "benefit_zh": "每当你能够对一次属性检定、技能检定或豁免检定进行重骰时，重骰获得+2环境加值。"
 }

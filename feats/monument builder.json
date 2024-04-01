@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Monument%20Builder",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 71"],
-    "description": "Your inspired architecture shall make your name immortal.",
+    "text": "Your inspired architecture shall make your name immortal.",
     "prerequisites": "Knowledge (engineering) 1 rank, and you must have built a structure worth at least 5, 000 gp.",
-    "benefit": "When you supervise a construction project or do the construction yourself, reduce your raw material costs by 10%. You gain a +2 bonus on Knowledge (engineering) checks. If you have 10 or more ranks in Knowledge (engineering), this bonus increases to +4."
+    "benefit": "When you supervise a construction project or do the construction yourself, reduce your raw material costs by 10%. You gain a +2 bonus on Knowledge (engineering) checks. If you have 10 or more ranks in Knowledge (engineering), this bonus increases to +4.",
+    "goal": "Design and construct a building worth at least 100,000 gp with great personal significance to you. For example, you might construct a new temple for your god on the site where an old temple was destroyed, or an academy for students to unlock the secrets of the universe.",
+    "completionBenefit": "The value of any past and future buildings you construct (including the building constructed to achieve your goal) increases by 10% as your reputation spreads. In addition, you and your workers complete double the normal amount of work in a given time interval when you supervise a construction project.",
+    "name_zh": "不朽巨匠",
+    "text_zh": "你空前绝后的建筑天赋当令你的名字不朽。",
+    "prerequisites_zh": "知识（工程）1级，并且你必须建造过1幢价值5000GP以上的建筑物。",
+    "benefit_zh": "当你监管建筑工程或自行施工建造时，原料成本降低10%。你的知识（工程）检定+2。如果你在知识（工程）技能受训10级以上，该加值升至+4。",
+    "goal_zh": "设计并建造1幢价值100000GP以上、并且极具你个人风格的建筑物。举例而言，你可能在你所信仰的神祇神庙遗址上建造起新的宏伟神殿，或者建起供学生们研究宇宙奥秘的学院等。",
+    "completionBenefit_zh": "你过去和未来所建造的所有建筑物（包括你用来达到专长目标的那幢）由于你的名望散播而使价值上升10%。此外，在你监管建筑工程时，在限定时间以内完成的进度将为正常水平的双倍。"
 }

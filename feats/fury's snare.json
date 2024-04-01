@@ -4,11 +4,8 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fury's%20Snare",
     "descriptors": ["Combat"],
     "source": ["Cheliax, Empire of Devils pg. 26"],
-    "description": "You entangle your foe in your weapon.",
-    "prerequisites": "Fury's Fall, Improved Trip.",
+    "text": "You entangle your foe in your weapon.",
+    "prerequisites": "Fury’s Fall, Improved Trip.",
     "benefit": "If you successfully use a whip to trip a foe, you can choose to drop your whip. Your tripped target gains the entangled condition. The target can break free of the whip by making a DC 10 Strength check or a DC 15 Escape Artist check (add the enhancement bonus of the whip to these DCs), or by using a full-round action to disentangle himself. Escaping the whip by making a Strength check means the whip gains the broken condition. If the whip has a magical quality such as <i>flaming<\/i>, apply this quality’s damage to the target every round on your turn.",
-    "prerequisiteKeys":     [
-        "fury's fall",
-        "improved trip"
-    ]
+    "prerequisiteKeys": ["improved trip"]
 }

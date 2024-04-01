@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Terrorizing%20Display",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 124"],
-    "description": "Your battle prowess frightens friend and foe alike.",
+    "text": "Your battle prowess frightens friend and foe alike.",
     "prerequisites": "Dazzling Display, Demoralizing Lash, Taskmaster, Weapon Focus, Intimidate 10 ranks, hobgoblin, proficiency with selected weapon.",
     "benefit": "When you use Dazzling Display, in addition to its normal effects, you can use it to spur allies within 30 feet as if you had used the Taskmaster feat. Use the same Intimidate check to determine the effects of Dazzling Display and this feat.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you use this feat, you can spend 5 stamina points to affect allies within 60 feet instead of 30 feet.",
     "prerequisiteKeys":     [
         "dazzling display",
@@ -16,7 +16,7 @@
         "weapon focus"
     ],
     "name_zh": "骇人技巧",
-    "description_zh": "你骇人的战斗技巧震慑了敌人，鞭策着友军。",
+    "text_zh": "你骇人的战斗技巧震慑了敌人，鞭策着友军。",
     "prerequisites_zh": "炫目技巧，挫志鞭笞，监工，武器专攻，威吓10级，大地精，擅长选定的武器。",
     "benefit_zh": "当你使用“炫目技巧”专长时，除了正常的效果，你还可以用其鞭策30尺范围内的友军，就如同使用“监工”专长一般。在确定该专长的效果时与“炫目技巧”使用同一个威吓检定结果。<\/p><p>【专长速查】炫目技巧（Dazzling Display）：威吓30尺内所有敌人。"
 }

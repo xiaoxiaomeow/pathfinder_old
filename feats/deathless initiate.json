@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deathless%20Initiate",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 95"],
-    "description": "For you, impending death is a call to wrath.",
+    "text": "For you, impending death is a call to wrath.",
     "prerequisites": "Str 13, Con 13, orc or half-orc, Diehard, Endurance, base attack bonus +6.",
     "benefit": "You are not staggered while using the Diehard feat, but if you take a move and a standard action or a full-round action while you are at 0 or fewer hit points you take 1 point of damage. Further, while using the Diehard feat, you gain a +2 bonus on melee attacks and damage rolls.",
-    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaSource": "Pathfinder Unchained pg. 117",
     "staminaText": "When you are at 0 or fewer hit points, you can spend 2 stamina points to avoid taking damage when you take both a move and a standard action or a full-round action.",
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
     ],
     "name_zh": "亡命尖兵",
-    "description_zh": "对你来说，迫近的死亡只会唤起你的狂怒。",
+    "text_zh": "对你来说，迫近的死亡只会唤起你的狂怒。",
     "prerequisites_zh": "力量13，体质13，坚忍，顽强，兽人或半兽人，基本攻击加值+6。",
     "benefit_zh": "你在使用“顽强”专长时不会陷入恍惚状态，不过每当你在一轮内同时进行一个移动和一个标准动作、或进行一次整轮动作，你都会受到1点伤害。同时，当“顽强”专长激活时，你的近战攻击检定和伤害骰都会获得+2加值。"
 }

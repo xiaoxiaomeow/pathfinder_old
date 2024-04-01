@@ -4,14 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Awesome%20Blow",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "You are skilled at sending your opponents flying.",
+    "text": "You are skilled at sending your opponents flying.",
     "prerequisites": "Str 13; Awesome Blow or awesome blow class feature; Power Attack",
     "benefit": "You receive a +2 bonus on checks to perform an awesome blow combat maneuver. You also gain a +2 bonus to your combat maneuver defense whenever an opponent tries to perform an awesome blow combat maneuver against you. Whenever you successfully perform an awesome blow combat maneuver, your opponent’s movement provokes attacks of opportunity from all your allies (but not you).",
     "normal": "Creatures moved by awesome blow do not provoke attacks of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "When a creature attempts an awesome blow combat maneuver against you, you can spend up to 3 stamina points to increase your Combat Maneuver Defense against that combat maneuver by an amount equal to the number of stamina points you spent. This bonus stacks with the bonus granted by Improved Awesome Blow.",
-    "prerequisiteKeys":     [
-        "awesome blow",
-        "power attack"
-    ]
+    "prerequisiteKeys": ["awesome blow"],
+    "name_zh": "至尊打",
+    "text_zh": "你擅长将对手一击打到空中，趁其无力防御时你的盟友便可接以连段。",
+    "prerequisites_zh": "力量13，可怖殴击或拳师王霸拳职业能力；猛力攻击",
+    "benefit_zh": "你却在发动王霸拳战技攻击检定时获得+2加值，在对抗其他生物对你发动的王霸拳或可怖殴击战技攻击时在CMD上获得+2加值。每当你成功的使用了一次王霸拳将对手击飞，你的所有盟友（除了你）便可以因为目标的移动而对其发动借机攻击。",
+    "normal_zh": "因为王霸拳或可怖殴击而被迫移动的生物不会引发借机攻击。"
 }

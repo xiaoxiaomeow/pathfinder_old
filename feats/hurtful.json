@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hurtful",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
-    "description": "You know how to add injury to insult.",
+    "text": "You know how to add injury to insult.",
     "prerequisites": "Str 13, Power Attack.",
     "benefit": "When you successfully demoralize an opponent within your melee reach with an Intimidate check, you can make a single melee attack against that creature as a swift action. If your attack fails to damage the target, its shaken condition from being demoralized immediately ends.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "痛殴",
+    "text_zh": "你知道正确的打脸方法。",
+    "prerequisites_zh": "力量13，猛力攻击",
+    "benefit_zh": "当你成功的通过威吓检定挫败了一个处于你的触及范围内生物的士气时，你可以以一个迅捷动作对这个目标进行一次近战攻击。如果你的这次攻击失手，那么目标因为威吓而承受的颤栗状态会立刻结束。"
 }

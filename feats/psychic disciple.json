@@ -3,12 +3,17 @@
     "name": "Psychic Disciple",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Disciple",
     "source": ["Occult Adventures pg. 138"],
-    "description": "You have opened your mind to the more advanced disciplines of basic psychic magic.",
+    "text": "You have opened your mind to the more advanced disciplines of basic psychic magic.",
     "prerequisites": "Int 13, Psychic Adept, Psychic Sensitivity.",
     "benefit": "You gain the ability to cast a 1st-level psychic spell from the psychic class’s spell list. You can cast this spell twice per day as a spell-like ability. The caster level for this ability is equal to your character level, and the save DC is equal to 11 + your Intelligence modifier.",
     "special": "You can take this feat multiple times, choosing a different spell each time.",
     "prerequisiteKeys":     [
         "psychic adept",
         "psychic sensitivity"
-    ]
+    ],
+    "name_zh": "异能修行者",
+    "text_zh": "你已经开启自身的心智，并由此习得了更高层次的异能法术。",
+    "prerequisites_zh": "智力13，念力技法（Psychic Adept），异能敏感（Psychic Sensitivity）",
+    "benefit_zh": "你获得施放异能者职业法术列表中一个1级异能法术（psychic spell）的能力。每日你能以类法术能力施放该法术2次。该能力的施法者等级与你的角色等级相同，且豁免DC等同于11 + 你的智力调整值。",
+    "special_zh": "你可以多次选取该专长，每次都要选择一个不同的法术。"
 }

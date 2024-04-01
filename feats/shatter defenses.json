@@ -4,21 +4,21 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shatter%20Defenses",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 133"],
-    "description": "Your skill with your chosen weapon leaves opponents unable to defend themselves if you strike them when their defenses are already compromised.",
+    "text": "Your skill with your chosen weapon leaves opponents unable to defend themselves if you strike them when their defenses are already compromised.",
     "prerequisites": "Weapon Focus, Dazzling Display, base attack bonus +6, proficiency with weapon.",
     "benefit": "Any shaken, frightened, or panicked opponent hit by you this round is flat-footed to your attacks until the end of your next turn. This includes any additional attacks you make this round.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "When you hit an opponent that has been made flat-footed to your attacks by this feat, you can spend 5 stamina points to make that opponent flat-footed to the attacks of one ally who is within 30 feet of that creature until the start of your next turn.",
-    "mythicSource": ["Mythic Adventures pg. 72"],
-    "mythicDescription": "Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to defend themselves effectively.",
-    "mythicPrerequisites": "Shatter Defenses.<br><br",
+    "mythicSource": "Mythic Adventures pg. 72",
+    "mythicText": "Your dazzling attacks leave your opponents flummoxed and bewildered, unable to attack you or to defend themselves effectively.",
+    "mythicPrerequisites": "Shatter Defenses.",
     "mythicBenefit": "An opponent you affect with Shatter Defenses is flat-footed to all attacks, not just yours.",
     "prerequisiteKeys":     [
         "dazzling display",
         "weapon focus"
     ],
     "name_zh": "粉碎防御",
-    "description_zh": "你使用选定武器的技巧能够让露出破绽的对手门户大开。",
+    "text_zh": "你使用选定武器的技巧能够让露出破绽的对手门户大开。",
     "prerequisites_zh": "武器专攻，炫目技巧，基本攻击加值+6，擅长对应武器。",
     "benefit_zh": "任何本轮被你击中的处于战栗、惊惧或恐慌状态的对手，直到你的下个回合结束，对于你做出的攻击处于措手不及状态。这包括你本轮进行的任何额外的攻击。"
 }

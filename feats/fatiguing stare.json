@@ -7,7 +7,11 @@
         "Stare"
     ],
     "source": ["Occult Adventures pg. 134"],
-    "description": "Your painful stare fatigues your opponent.",
+    "text": "Your painful stare fatigues your opponent.",
     "prerequisites": "Mesmerist level 7th, painful stare class feature.",
-    "benefit": "When a target takes damage from your painful stare, it must succeed at a Fortitude saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become fatigued for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued."
+    "benefit": "When a target takes damage from your painful stare, it must succeed at a Fortitude saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become fatigued for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued.",
+    "name_zh": "脱力目光",
+    "text_zh": "你的痛苦注视会让敌人感到疲乏。",
+    "prerequisites_zh": "催眠师7级，痛苦注视（Painful Stare）职业能力",
+    "benefit_zh": "当一个目标由于你的痛苦注视（Painful Stare）而受到伤害时，它必须进行一次强韧豁免检定（DC = 10 + 1/2你的催眠师等级 + 你的魅力调整值），失败则会陷入疲乏（fatigued），持续1轮。该效果不会让目标陷入力竭（exhausted），即使目标当前已经陷入疲乏也无法做到这点。"
 }

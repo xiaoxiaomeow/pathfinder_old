@@ -7,8 +7,11 @@
         "Teamwork"
     ],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "Your ally’s charge exposes an opening you can exploit.",
+    "text": "Your ally’s charge exposes an opening you can exploit.",
     "benefit": "When your ally with this feat uses the charge action and hits, you gain a +2 bonus on your next attack roll against the target of that charge. This bonus must be used before your ally’s next turn, or it is lost.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
-    "staminaText": "You can spend 1 stamina point when an ally with this feat charges but misses with the charge attack. When you do, you can still gain the benefit of this feat when you charge."
+    "staminaSource": "Pathfinder Unchained pg. 118",
+    "staminaText": "You can spend 1 stamina point when an ally with this feat charges but misses with the charge attack. When you do, you can still gain the benefit of this feat when you charge.",
+    "name_zh": "冲锋干扰",
+    "text_zh": "你的伙伴猛扑向敌人展开攻击，使你可以瞅准借机攻击破绽大露的对手",
+    "benefit_zh": "如果你的盟友拥有此专长，则他在冲锋攻击目标命中时，你对同一个目标的下一次攻击检定将获得+2加值。你必须在盟友的下一回合前发动这次攻击，否则加值将失效。"
 }

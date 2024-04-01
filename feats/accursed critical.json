@@ -4,12 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Accursed%20Critical",
     "descriptors": ["Critical"],
     "source": ["Ultimate Magic pg. 142"],
-    "description": "Your spells carry an embedded curse that manifests when they strike true.",
+    "text": "Your spells carry an embedded curse that manifests when they strike true.",
     "prerequisites": "Critical Focus, ability to cast <i>bestow curse <\/i>or major curse, caster level 9th.",
     "benefit": "When you confirm a critical hit with a spell or spell-like ability, you may cast <i>bestow curse <\/i>or major curse on that target as an immediate action. This works even with ranged spells. You must have <i>bestow curse <\/i>or major curse prepared or otherwise available to cast, and using this ability casts the corresponding spell.",
     "prerequisiteKeys": ["critical focus"],
     "name_zh": "诅咒重击",
-    "description_zh": "你将诅咒嵌入了你的法术，并且在攻击时引发。",
+    "text_zh": "你将诅咒嵌入了你的法术，并且在攻击时引发。",
     "prerequisites_zh": "重击专攻，可以使用‘降咒’或者‘高等降咒’，施法者等级9级。",
     "benefit_zh": "当你使用法术或者类法术能力并且确认重击后，你可以以一个直觉动作对目标施展‘降咒’或者‘高等降咒’。远程法术也可造成这个效果。你必须准备了‘降咒’或者‘高等降咒’或者其他的能力使你足以施展法术，使用这个能力会消耗相应的法术位。"
 }

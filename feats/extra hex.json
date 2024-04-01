@@ -6,13 +6,13 @@
         "Advanced Class Guide pg. 147",
         "Advanced Player's Guide pg. 160"
     ],
-    "description": "You have learned the secrets of a new hex.",
+    "text": "You have learned the secrets of a new hex.",
     "prerequisites": "Hex class feature.",
     "benefit": "You gain one additional hex. You must meet the prerequisites for this hex. If you are a shaman, it must be a hex granted by your spirit rather than one from a wandering spirit.",
     "special": "You can take this feat multiple times. Each time you do, you gain another hex.",
     "name_zh": "额外巫术",
-    "description_zh": "你学会了一种新的巫术之秘。",
-    "prerequisites_zh": "【巫术】职业特性。",
-    "benefit_zh": "你获得一个【巫术】。你必须满足这个巫术的全部先决条件才能选取。",
-    "special_zh": "你能够多次选择本专长。"
+    "text_zh": "你学习了一个新巫术的秘密。",
+    "prerequisites_zh": "巫术职业能力",
+    "benefit_zh": "你可以获得一个新的巫术，你必须满足选取此巫术的前提条件。如果你是一个萨满，那么这个巫术必须是你的魂域（Spirit）所属的巫术，而不可从飘渺魂域（Wandering Spirit）中获得。",
+    "special_zh": "你可以多次选择本专长，每次选择，你需要选择一个额外的巫术。"
 }

@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bristling%20Drag",
     "descriptors": ["Combat"],
     "source": ["Ultimate Wilderness pg. 108"],
-    "description": "You deal damage to opponents when dragging them through difficult terrain.",
+    "text": "You deal damage to opponents when dragging them through difficult terrain.",
     "prerequisites": "Str 13, Improved Drag, Power Attack, base attack bonus +3.",
     "benefit": "When you successfully drag a creature, it takes 1d4 points of damage for every 5 feet it is dragged through naturally occurring difficult terrain. This damage is in addition to any damage the creature might normally take from moving through the difficult terrain. Creatures with the woodland stride special ability or who are otherwise unaffected by difficult terrain are immune to this extra damage.",
     "prerequisiteKeys":     [

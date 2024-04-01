@@ -3,7 +3,11 @@
     "name": "Insightful Delivery",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Insightful%20Delivery",
     "source": ["Advanced Class Guide pg. 151"],
-    "description": "Your knowledge of where to strike makes your poisons more deadly.",
+    "text": "Your knowledge of where to strike makes your poisons more deadly.",
     "prerequisites": "Poison use class feature, studied strike +4d6.",
-    "benefit": "When you use a poisoned weapon to attempt an attack in conjunction with studied strike, the DC to resist the poison increases by half the number of your studied strike dice."
+    "benefit": "When you use a poisoned weapon to attempt an attack in conjunction with studied strike, the DC to resist the poison increases by half the number of your studied strike dice.",
+    "name_zh": "精明毒杀",
+    "text_zh": "你精心调整你准备的毒剂，将它们以最致命的方式送入对手体内。",
+    "prerequisites_zh": "用毒职业能力，调查员战斗策略职业能力",
+    "benefit_zh": "当你展开战斗策略并使用喂毒的武器发动策士之击时，毒药的DC将获得相当于策士之击骰数的一半加值。"
 }

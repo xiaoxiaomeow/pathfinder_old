@@ -3,13 +3,14 @@
     "name": "Blood Salvage",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Salvage",
     "source": ["Advanced Race Guide pg. 100"],
-    "description": "You do not need to drink blood from a living creature to gain healing benefits.",
+    "text": "You do not need to drink blood from a living creature to gain healing benefits.",
     "prerequisites": "Blood Drinker, dhampir.",
     "benefit": "You can use your Blood Drinker feat on a dead creature of the appropriate humanoid subtype. The creature must have died less than 6 hours beforehand.",
     "normal": "You only benefit from the Blood Drinker feat if you consume fresh blood from a living creature.",
     "prerequisiteKeys": ["blood drinker"],
     "name_zh": "残羹剩血",
-    "description_zh": "你不需要通过吸食活物以获得治疗的好处。",
+    "text_zh": "你不需要通过吸食活物以获得治疗的好处。",
     "prerequisites_zh": "饮血者，吸血裔。",
-    "benefit_zh": "你可以对已死的生物使用“饮血者”专长，只要他的生物类型为你所选择的类人生物子类。你只可以对死亡未满6小时的生物吸血。<\/p><p>通常状况：你只能使用“饮血者”专长吸取活物的新鲜血液。"
+    "benefit_zh": "你可以对已死的生物使用“饮血者”专长，只要他的生物类型为你所选择的类人生物子类。你只可以对死亡未满6小时的生物吸血。",
+    "normal_zh": "你只能使用“饮血者”专长吸取活物的新鲜血液。"
 }

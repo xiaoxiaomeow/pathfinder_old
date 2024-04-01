@@ -3,7 +3,7 @@
     "name": "Natural Poison Antitoxin",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Poison%20Antitoxin",
     "source": ["Ultimate Wilderness pg. 115"],
-    "description": "You have learned how to create antitoxin that can resist natural poisons.",
+    "text": "You have learned how to create antitoxin that can resist natural poisons.",
     "prerequisites": "Natural Poison Harvester, Craft (alchemy) 8 ranks, Survival 8 ranks.",
     "benefit": "When you succeed at a Craft (alchemy) check to create an antitoxin using a dose of a natural poison you harvested, you increase the duration of the antitoxin to an amount equal to 4 hours plus an additional hour for every 5 by which your result exceeds the DC.",
     "prerequisiteKeys": ["natural poison harvester"]

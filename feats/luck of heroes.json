@@ -4,12 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Luck%20of%20Heroes",
     "descriptors": ["Hero Point"],
     "source": ["Advanced Player's Guide pg. 324"],
-    "description": "To others, it seems that you always have a bit of luck around you.",
-    "prerequisites": "Hero's Fortune.",
+    "text": "To others, it seems that you always have a bit of luck around you.",
+    "prerequisites": "Hero’s Fortune.",
     "benefit": "Whenever you spend a hero point to reroll a die roll or to grant yourself a bonus before a die roll is made, there is a chance that the hero point is not spent. Whenever you spend a hero point, roll a d20. If the result is greater than 15, the hero point is not spent. You cannot use this feat when you cheat death.",
-    "prerequisiteKeys": ["hero's fortune"],
     "name_zh": "好运连连",
-    "description_zh": "与常人不同，你总是好运陪伴。",
+    "text_zh": "与常人不同，你总是好运陪伴。",
     "prerequisites_zh": "洪福齐天。",
     "benefit_zh": "当你用英雄点【重整旗鼓（Reroll）】或是在检定前使用【化险为夷（Bonus）】，投一次d20，大于15就能不消耗英雄点。你不能在大难不死时候用这个专长。"
 }

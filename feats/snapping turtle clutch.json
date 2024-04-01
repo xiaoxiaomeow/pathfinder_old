@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snapping%20Turtle%20Clutch",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 120"],
-    "description": "Your unarmed style allows you to turn your opponent’s attack into an opportunity.",
+    "text": "Your unarmed style allows you to turn your opponent’s attack into an opportunity.",
     "prerequisites": "Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd.",
     "benefit": "While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC applies to your CMD and touch AC. Whenever an opponent misses you with a melee attack while you are using the Snapping Turtle Style feat, you can use an immediate action to attempt a grapple combat maneuver against that opponent, but with a –2 penalty.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "When you attempt a grapple combat maneuver as an immediate action as a result of this feat, you can spend 2 stamina points to negate the –2 penalty on that combat maneuver check.",
     "prerequisiteKeys":     [
         "improved grapple",
@@ -15,7 +15,7 @@
         "snapping turtle style"
     ],
     "name_zh": "龟爪",
-    "description_zh": "你的徒手战斗技巧可以让你将敌人的攻击化作你反击的契机。",
+    "text_zh": "你的徒手战斗技巧可以让你将敌人的攻击化作你反击的契机。",
     "prerequisites_zh": "精通擒抱，鳄龟势，基本攻击加值+3或武僧3级。",
     "benefit_zh": "你从鳄龟流派架势获得的盾牌加值能加到CMD和接触AC上；当你采用鳄龟流派架势时，如果对手对你近战攻击失手，你能以直觉动作对该对手发起一次受-2减值的擒抱。"
 }

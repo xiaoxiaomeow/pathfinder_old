@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improvised%20Weapon%20Mastery",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 128"],
-    "description": "You can turn nearly any object into a deadly weapon, from a razor-sharp chair leg to a sack of flour.",
+    "text": "You can turn nearly any object into a deadly weapon, from a razor-sharp chair leg to a sack of flour.",
     "prerequisites": "Catch Off-Guard or Throw Anything, base attack bonus +8.",
     "benefit": "You do not suffer any penalties for using an improvised weapon. Increase the amount of damage dealt by the improvised weapon by one step (for example, 1d4 becomes 1d6) to a maximum of 1d8 (2d6 if the improvised weapon is two-handed). The improvised weapon has a critical threat range of 19–20, with a critical multiplier of ×2.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "When making an improvised weapon attack, you can spend 2 stamina points to increase the damage of the attack by an additional step (to a maximum of 1d10, or 2d8 if the improvised weapon is two-handed).",
     "prerequisiteKeys":     [
         "catch off-guard",
         "throw anything"
     ],
     "name_zh": "临时武器熟稔",
-    "description_zh": "你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。",
+    "text_zh": "你可以把手边的任何东西转变为致命的武器，从尖利的椅子腿到装满面粉的袋子。",
     "prerequisites_zh": "随手武器或随手投掷，基本攻击加值+8。",
     "benefit_zh": "你在使用临时武器时不受任何减值。临时武器的伤害骰上升一个级别（例如1d4变为1d6）但最高仅到d8（双手临时武器则最高为2d6）。临时武器重击范围为19-20，重击倍率×2。"
 }

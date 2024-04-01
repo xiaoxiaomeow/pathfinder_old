@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Drag%20Down",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 98"],
-    "description": "When you are knocked prone, you are skilled at bringing your opponent down with you.",
+    "text": "When you are knocked prone, you are skilled at bringing your opponent down with you.",
     "prerequisites": "Int 13, Combat Expertise, Improved Trip.",
     "benefit": "Whenever an opponent successfully trips you, you can attempt to trip that opponent as an immediate action.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefit of this feat only as long as you have at least 1 stamina point in your stamina pool. If your retributive trip combat maneuver from Drag Down succeeds by 10 or more, you can spend 5 stamina points to stand up from prone without provoking an attack of opportunity as part of the same immediate action as the trip attempt.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved trip"
     ],
     "name_zh": "拽倒",
-    "description_zh": "当你摔倒时，你反射性地拖着你的对手一起倒下。",
+    "text_zh": "当你摔倒时，你反射性地拖着你的对手一起倒下。",
     "prerequisites_zh": "智力13，寓守于攻，精通绊摔。",
     "benefit_zh": "每当一个敌人成功的绊摔了你，你可以立刻用直觉动作对其进行一次绊摔尝试。"
 }

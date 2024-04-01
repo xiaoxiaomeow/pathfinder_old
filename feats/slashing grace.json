@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slashing%20Grace",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "You can stab your enemies with your sword or another slashing weapon.",
+    "text": "You can stab your enemies with your sword or another slashing weapon.",
     "prerequisites": "Dex 13, Weapon Finesse, Weapon Focus with chosen weapon.",
     "benefit": "Choose one kind of light or one-handed slashing weapon (such as the longsword). When wielding your chosen weapon one-handed, you can treat it as a one-handed piercing melee weapon for all feats and class abilities that require such a weapon (such as a swashbuckler’s or a duelist’s precise strike) and you can add your Dexterity modifier instead of your Strength modifier to that weapon’s damage. The weapon must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or any time another hand is otherwise occupied.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "You can spend 2 stamina points to select another light or one-handed slashing weapon. That weapon counts as a chosen weapon for Slashing Grace until the start of your next turn.",
     "prerequisiteKeys":     [
         "weapon finesse",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "优雅挥砍",
+    "text_zh": "除了灵活的刺削，你还学会了掌握异国剑士擅长的圆滑的劈砍之道。",
+    "prerequisites_zh": "敏捷13，武器娴熟，拥有所选武器的武器专攻专长",
+    "benefit_zh": "选择一种轻型或单手的挥砍武器（比如长剑），在单手使用这种武器时，它视为符合所有要求使用单手穿刺武器的职业能力和专长的前提（比如游荡剑客的精确刺击炫技），并且你可以以敏捷调整值代替力量调整值加到武器伤害上。你无法在进行双武器战斗、使用疾风连击或另一只手被占用时获得该专长的好处。你必须使用符合你体型的武器。"
 }

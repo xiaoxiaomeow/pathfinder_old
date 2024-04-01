@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Giant%20Killer",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
-    "description": " Your cleaving strokes menace giants and larger foes. ",
+    "text": " Your cleaving strokes menace giants and larger foes. ",
     "prerequisites": "Str 13, Cleave, Goblin Cleaver, Orc Hewer, Power Attack, Strike Back, base attack bonus +11, dwarf.",
     "benefit": "This functions as Goblin Cleaver, but your additional attacks can be made against creatures one size category larger than you or smaller. In addition, any such attacks made against humanoids (giant) gain a +2 circumstance bonus on attack rolls.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, the bonus on Cleave attacks made against humanoids with the giant subtype increases to +4.",
     "prerequisiteKeys":     [
         "cleave",
@@ -17,7 +17,7 @@
         "strike back"
     ],
     "name_zh": "巨人杀手",
-    "description_zh": "你如风般的劈砍威胁着巨人以及其他体型巨大的敌人。",
+    "text_zh": "你如风般的劈砍威胁着巨人以及其他体型巨大的敌人。",
     "prerequisites_zh": "力量13，顺势斩，地精切裂者，兽人屠戮者，猛力攻击，回击，基本攻击加值+11，矮人。",
     "benefit_zh": "该专长如同“地精切裂者”一般作用，但是你的额外攻击能够用于攻击比你体型大一级或更小的生物。此外，当你用这些攻击对抗类人生物（巨人）时，攻击检定获得+2环境加值。"
 }

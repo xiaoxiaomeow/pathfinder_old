@@ -4,8 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ascetic%20Form",
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 16"],
-    "description": "You have mastered the ability to blend the use of arms with martial arts.",
+    "text": "You have mastered the ability to blend the use of arms with martial arts.",
     "prerequisites": "Ascetic Style; Weapon Focus with the chosen melee weapon; base attack bonus +5 or monk level 5th.",
     "benefit": "You can use the chosen melee weapon with any class ability that can be used with an unarmed strike, such as an unchained monk’s style strike ability. In addition, you are treated as a monk with a level equal to your character level for the purpose of determining the number of times per day that you can use feats with uses per day that depend upon your monk level, such as the Stunning Fist or Perfect Strike feats.",
-    "prerequisiteKeys": ["ascetic style"]
+    "prerequisiteKeys":     [
+        "ascetic style",
+        "weapon focus"
+    ]
 }

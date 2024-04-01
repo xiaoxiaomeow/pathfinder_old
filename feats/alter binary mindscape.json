@@ -3,7 +3,11 @@
     "name": "Alter Binary Mindscape",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alter%20Binary%20Mindscape",
     "source": ["Occult Adventures pg. 129"],
-    "description": "You can shift and change a binary mindscape to your advantage during a psychic duel.",
+    "text": "You can shift and change a binary mindscape to your advantage during a psychic duel.",
     "prerequisites": "Int 13, ability to cast <i>instigate psychic duel<\/i>.",
-    "benefit": "When you cast <i>instigate psychic duel<\/i> and create a binary mindscape (see page 235), the arena you create puts your enemy at a disadvantage. Your opponent must spend 1 more manifestation point than normal when creating any defensive manifestations."
+    "benefit": "When you cast <i>instigate psychic duel<\/i> and create a binary mindscape (see page 235), the arena you create puts your enemy at a disadvantage. Your opponent must spend 1 more manifestation point than normal when creating any defensive manifestations.",
+    "name_zh": "强势异能宣战",
+    "text_zh": "在一场异能决斗中，你能够变换并改变并行式心像结界来为自身创造优势。",
+    "prerequisites_zh": "智力 13，能够施放异能宣战（Instigate Psychic Duel）",
+    "benefit_zh": "当你施放异能宣战（Instigate Psychic Duel）并创造出一个并行式心像结界（binary mindscape）时，可以将敌人至于不利地位。当你的敌人创造任何防御幻形（Defensive Manifestations）时，它必须比正常额外花费1点幻形点数（Manifestation Points，MP）。"
 }

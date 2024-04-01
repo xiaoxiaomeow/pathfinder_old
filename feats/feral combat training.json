@@ -4,15 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Feral%20Combat%20Training",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 101"],
-    "description": "You were taught a style of martial arts that relies on the natural weapons from your racial ability or class feature.",
+    "text": "You were taught a style of martial arts that relies on the natural weapons from your racial ability or class feature.",
     "prerequisites": "Improved Unarmed Strike, Weapon Focus with selected natural weapon.",
     "benefit": "Choose one of your natural weapons. While using the selected natural weapon, you can apply the effects of feats that have Improved Unarmed Strike as a prerequisite.",
     "special": "If you are a monk, you can use the selected natural weapon with your flurry of blows class feature.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "At the start of your turn, you can spend any number of stamina points. Until the beginning of your next turn, for every 2 stamina points you spent this way, you can apply the effects of Feral Combat Training to a single natural weapon attack made with a natural weapon other than the weapon chosen with this feat.",
-    "prerequisiteKeys": ["improved unarmed strike"],
+    "prerequisiteKeys":     [
+        "improved unarmed strike",
+        "weapon focus"
+    ],
     "name_zh": "野性战斗训练",
-    "description_zh": "你曾蒙异人传授，习得了如何使用你的种族或职业特性赋予你的天生武器施展招式的艺术。",
+    "text_zh": "你曾蒙异人传授，习得了如何使用你的种族或职业特性赋予你的天生武器施展招式的艺术。",
     "prerequisites_zh": "精通徒手打击，武器专攻（天生武器）。",
     "benefit_zh": "选择一种你的天生武器。当使用选择的天生武器时，你可以应用那些以“精通徒手打击”为前提的专长。",
     "special_zh": "如果你是一个武僧，你可以用你选择应用此专长效果的天生武器施展【疾风连击】。"

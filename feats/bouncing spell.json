@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bouncing%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 151"],
-    "description": "You can direct a failed spell against a different target.",
+    "text": "You can direct a failed spell against a different target.",
     "benefit": "Whenever a bouncing spell targeting a single creature has no effect on its intended target (whether due to spell resistance or a successful saving throw) you may, as a swift action, redirect it to target another eligible creature within range. The redirected spell behaves in all ways as if its new target were the original target for the spell. Spells that affect a target in any way (including a lesser effect from a successful saving throw) may not be redirected in this manner. A bouncing spell uses up a spell slot one level higher than the spell’s actual level.",
     "name_zh": "弹性法术",
-    "description_zh": "你可以使用本已失败的法术对抗不同的目标。",
+    "text_zh": "你可以使用本已失败的法术对抗不同的目标。",
     "benefit_zh": "当一个弹性法术选定一个目标生物，却没有对预期目标产生效果的话（无论是由于法术抗力还是成功的豁免），那么你能以迅捷动作将法术重定向到法术范围内的另一个合适生物身上。重定向的法术在所有方面都会将新目标视为最初的目标。能够以任何方式影响目标的法术（包括成功的豁免后会造成较弱效果的），均无法以此方式重新定向。弹性法术占用比法术的实际环级高1环的法术位。"
 }

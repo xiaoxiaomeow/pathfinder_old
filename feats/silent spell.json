@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Silent%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["PRPG Core Rulebook pg. 133"],
-    "description": "You can cast your spells without making any sound.",
+    "text": "You can cast your spells without making any sound.",
     "benefit": "A silent spell can be cast with no verbal components. Spells without verbal components are not affected. A silent spell uses up a spell slot one level higher than the spell's actual level.",
     "special": "Bard spells cannot be enhanced by this feat.",
     "name_zh": "法术默发",
-    "description_zh": "你能够不发生声音施展法术。",
+    "text_zh": "你能够不发生声音施展法术。",
     "benefit_zh": "法术施展时不需言语成分。没有言语成分的法术不受影响。默发法术占用比该法术实际等级高1环的法术位。",
     "special_zh": "吟游诗人的法术不能用此专长强化。"
 }

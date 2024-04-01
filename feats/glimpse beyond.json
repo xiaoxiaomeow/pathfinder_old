@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Glimpse%20Beyond",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 69"],
-    "description": "You have glimpsed the madness at the edges of reality.",
+    "text": "You have glimpsed the madness at the edges of reality.",
     "prerequisites": "You must have faced an undead, evil outsider, or aberration with a CR greater than your level +4, or have the Raised Among the Dead or The Dead One background.",
-    "benefit": "You gain a +2 bonus on Knowledge (dungeoneering) checks to identify the vulnerabilities and powers of aberrations, Knowledge (planes) checks to identify the vulnerabilities and powers of evil outsiders, and Knowledge (religion) checks to identify the vulnerabilities and powers of undead, and you can make such checks untrained. If you have 10 or more ranks in any of these Knowledge skills, the bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear effects."
+    "benefit": "You gain a +2 bonus on Knowledge (dungeoneering) checks to identify the vulnerabilities and powers of aberrations, Knowledge (planes) checks to identify the vulnerabilities and powers of evil outsiders, and Knowledge (religion) checks to identify the vulnerabilities and powers of undead, and you can make such checks untrained. If you have 10 or more ranks in any of these Knowledge skills, the bonus increases to +4 for the appropriate skill. In addition, you gain a +2 bonus on saves against fear effects.",
+    "goal": "Be killed or driven insane (as determined by the GM) by an aberration, evil outsider, or undead. This leaves your mind permanently marked.",
+    "completionBenefit": "Any sane creature that attempts to read your thoughts takes 1d6 points of Wisdom damage (Will DC 10 + 1/2 your level + your Charisma modified negates). In addition, the effect of any ability damage, ability drain, or penalty to your Intelligence, Wisdom, or Charisma is halved (minimum 1). You take a –2 penalty on Will saving throws. Whenever you roll a save against a mind-affecting effect, roll twice and keep the better result.",
+    "name_zh": "惊鸿一瞥",
+    "text_zh": "你从现实的狭间瞥到疯狂。",
+    "prerequisites_zh": "你必须曾面对过一个CR在你等级4级以上的不死生物、邪恶异界生物或异怪；或拥有“死而复生（Raised Among the Dead）”、“亡灵擦肩（The Dead One）”等角色背景之一。",
+    "benefit_zh": "你用于辨析不死生物、邪恶异界生物或异怪的弱点与能力的对应知识（宗教，位面和地城）检定+2，并且你能在未受训的情况下进行检定。如果你在对应知识技能受训10级以上，该加值升至+4。此外，你对抗恐惧效果的豁免+2。",
+    "goal_zh": "被不死生物、邪恶异界生物、异怪杀害或逼疯（由GM决定）。这使你的心智永远被打上烙印。",
+    "completionBenefit_zh": "任何试图读取你思想的、心智健全的生物将受到1d6点感知伤害（通过DC为“10+1/2角色等级+魅力修正”的意志豁免无效）。此外，你所受到的任何对智力、感知、魅力的属性伤害或属性吸取减半（至少为1）。你的意志豁免-2。每当你对抗影响心智的效果时可以双骰取高。"
 }

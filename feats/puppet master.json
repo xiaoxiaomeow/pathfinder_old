@@ -4,7 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Puppet%20Master",
     "descriptors": ["Story"],
     "source": ["Spymaster's Handbook pg. 16"],
-    "description": "You crave power you can wield without drawing attention to yourself.",
-    "prerequisites": "You must have survived an encounter with a challenging foe without suffering significant harm by striking a deal (regardless of whether the deal was with the challenging foe or not), or have the Boss, the Liege Lord, or the Well-Connected Friend background.",
-    "benefit": "If you succeed at a Diplomacy check to make a request of a creature by 5 or more, the DCs of additional requests you attempt increase by 1 per request, rather than 5."
+    "text": "You crave power you can wield without drawing attention to yourself.",
+    "prerequisites": "You must have survived an encounter with a challenging foe without suffering significant harm by striking a deal (regardless of whether the deal was with the challenging foe or not), or have the Boss<sup>UCA<\/sup>, the Liege Lord<sup>UCA<\/sup>, or the Well-Connected Friend<sup>UCA<\/sup> background.",
+    "benefit": "If you succeed at a Diplomacy check to make a request of a creature by 5 or more, the DCs of additional requests you attempt increase by 1 per request, rather than 5.",
+    "goal": "Either thwart or decisively defeat an appropriate number of challenging foes as a direct result of bargains you have struck or control at least three leaders of settlements of at least 2,000 residents or similarly influential administrators for at least 6 months without being publicly exposed.",
+    "completionBenefit": "If you succeed at a Diplomacy check to make a request of a creature, the DCs of additional requests you attempt increase by 1 per request, rather than 5."
 }

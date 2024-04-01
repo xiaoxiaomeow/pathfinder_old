@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sap%20Adept",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 116"],
-    "description": "You know just where to hit to knock the sense out of your foe.",
+    "text": "You know just where to hit to knock the sense out of your foe.",
     "prerequisites": "Sneak attack +1d6.",
     "benefit": "Whenever you use a bludgeoning weapon to deal nonlethal sneak attack damage, you gain a bonus on your damage roll equal to the number of sneak attack damage dice you rolled.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When you use this feat, you can spend a number of stamina points equal to the number of sneak attack dice you roll to increase the amount of nonlethal damage dealt by double the number of stamina points you spent.",
     "name_zh": "闷棍手",
-    "description_zh": "你了解如何打到敌人的痛处。",
+    "text_zh": "你了解如何打到敌人的痛处。",
     "prerequisites_zh": "偷袭+1d6。",
     "benefit_zh": "当你使用钝击武器造成非致命伤害的偷袭时，伤害检定获得相当于偷袭d6骰数的加值（譬如，偷袭+5d6则在专长发动后追加5点伤害）。"
 }

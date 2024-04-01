@@ -3,7 +3,7 @@
     "name": "Grappled Caster",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Grappled%20Caster",
     "source": ["Melee Tactics Toolbox pg. 15"],
-    "description": "You have trained to cast spells while wrestling an opponent.",
+    "text": "You have trained to cast spells while wrestling an opponent.",
     "prerequisites": "Combat Casting.",
     "benefit": "You gain a +4 bonus on concentration checks to cast spells while grappled. This bonus stacks with the bonus granted by Combat Casting.",
     "prerequisiteKeys": ["combat casting"]

@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tangle%20Feet",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 118"],
-    "description": "Creatures who cross your path find themselves tripping over their own feet.",
+    "text": "Creatures who cross your path find themselves tripping over their own feet.",
     "prerequisites": "Dodge, Mobility, Underfoot, goblin, Small size or smaller.",
     "benefit": "When you successfully make an Acrobatics check to avoid provoking an attack of opportunity from a larger opponent when you move through its threatened area or its space, you can make that opponent lose its balance until the end of its next turn as a free action. While that creature’s balance is lost, if it attempts to move, it must make a successful DC 15 Acrobatics check or fall prone, wasting the move action. You can only affect one creature with this effect each round.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you make an opponent lose its balance with this feat, you can spend 2 stamina points to increase the DC of its Acrobatics check to avoid falling prone to 20.",
     "prerequisiteKeys":     [
         "dodge",
@@ -15,7 +15,7 @@
         "underfoot"
     ],
     "name_zh": "左脚绊右脚",
-    "description_zh": "经过你身边的生物会被他们自己的脚绊倒。",
+    "text_zh": "经过你身边的生物会被他们自己的脚绊倒。",
     "prerequisites_zh": "闪避，灵活移动，钻跨而过（Underfoot , APG），地精，体型小型或更小。",
     "benefit_zh": "当你通过比你体型大的敌人的威胁范围并且以特技检定成功避免他的借机攻击时，你能以一个自由动作使其在下个回合结束之前失去平衡。若该生物试图在失去平衡时移动，他必须成功进行一次DC为15的特技检定，否则将会摔倒并且失去这次移动动作。你每回合只能以此效果影响一个生物。"
 }

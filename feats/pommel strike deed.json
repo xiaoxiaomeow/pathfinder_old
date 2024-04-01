@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pommel%20Strike%20Deed",
     "descriptors": ["Panache"],
     "source": ["Advanced Class Guide pg. 153"],
-    "description": "With a surprise swipe with your pommel, you can topple a foe.",
+    "text": "With a surprise swipe with your pommel, you can topple a foe.",
     "prerequisites": "Amateur Swashbuckler or panache class feature; base attack bonus +3.",
     "benefit": "You can spend 1 panache point to make a melee attack with the pommel of a light or one-handed piercing melee weapon as a standard action. You make this attack as if you were using the weapon normally (including any bonuses gained from the swashbuckler’s finesse class feature, Weapon Finesse, or other similar feats and effects), but you deal 1d6 bludgeoning damage (or 1d4 if you are Small) instead of the weapon’s normal damage. Regardless of your size, the critical threat range and critical multiplier of this attack are 20/×2, and they are not affected by Improved Critical, the keen weapon special ability, or similar effects. If the attack hits, you can attempt a combat maneuver check to knock the target prone as a free action.",
-    "prerequisiteKeys": ["amateur swashbuckler"]
+    "prerequisiteKeys": ["amateur swashbuckler"],
+    "name_zh": "刀柄打",
+    "text_zh": "在拔刀的一合，你的刀柄已经捅进对手的身体，将他击倒在地。",
+    "prerequisites_zh": "业余剑客或派头职业能力；基础攻击加值+3",
+    "benefit_zh": "你可以消耗1点时髦值，以一个标准动作使用一件轻型或单手穿刺武器的手柄打击敌人。你的这次攻击视为你使用武器正常发动攻击（使用受到游荡剑客的所有职业能力，专长和其他效果的加成），不过这次攻击的伤害为1d6（小体型剑客1d4）点钝击伤害，重击范围20/x2，并且不会因为精通重击，锐锋武器附魔等效果而增加重击范围。如果攻击命中，你可以一自由动作进行一次战技攻击检定，如果成功，对方将被击倒至俯卧状态。"
 }

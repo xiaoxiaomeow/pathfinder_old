@@ -3,7 +3,11 @@
     "name": "Extra Mental Focus",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Mental%20Focus",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You possess increased mental focus.",
+    "text": "You possess increased mental focus.",
     "prerequisites": "Mental focus class feature.",
-    "benefit": "You gain 2 additional points of mental focus."
+    "benefit": "You gain 2 additional points of mental focus.",
+    "name_zh": "额外心智点",
+    "text_zh": "你的心智点得到了提升。",
+    "prerequisites_zh": "心智点（Mental Focus）职业能力",
+    "benefit_zh": "你获得2点额外的心智点（Mental Focus）。"
 }

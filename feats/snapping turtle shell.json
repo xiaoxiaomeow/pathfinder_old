@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snapping%20Turtle%20Shell",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 120"],
-    "description": "Your guarding hand is almost magical in its skill at deflecting incoming blows.",
+    "text": "Your guarding hand is almost magical in its skill at deflecting incoming blows.",
     "prerequisites": "Snapping Turtle Clutch, Snapping Turtle Style, Improved Grapple, Improved Unarmed Strike, base attack bonus +5 or monk level 5th.",
     "benefit": "While you are using the Snapping Turtle Style feat, the shield bonus the style grants to your AC increases to +2, and your enemies take a –4 penalty on critical confirmation rolls against you.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "While using Snapping Turtle Style, you can spend up to 5 stamina points to cause an enemy to take an additional penalty on one critical conf irmation roll against you equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "improved grapple",
@@ -16,7 +16,7 @@
         "snapping turtle style"
     ],
     "name_zh": "龟甲",
-    "description_zh": "你防御用的那只手在拨挡攻击方面已臻化境。",
+    "text_zh": "你防御用的那只手在拨挡攻击方面已臻化境。",
     "prerequisites_zh": "精通擒抱，龟爪，鳄龟势，基本攻击加值+5或武僧5级。",
     "benefit_zh": "当你处于鳄龟流派架势时，你在此架势获得的盾牌加值变成+2，而且对手对你的重击确认骰受到-4减值。"
 }

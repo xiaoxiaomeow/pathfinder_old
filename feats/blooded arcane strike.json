@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blooded%20Arcane%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 143"],
-    "description": "Arcane energy guides your devastating attack.",
+    "text": "Arcane energy guides your devastating attack.",
     "prerequisites": "Arcane Strike, ability to cast arcane spells, bloodrage class feature.",
     "benefit": "While you are bloodraging, you don’t need to spend a swift action to use your Arcane Strike—it is always in effect. When you use this ability with Vital Strike, Improved Vital Strike, or Greater Vital Strike, the bonus on damage rolls for Arcane Strike is multiplied by the number of times (two, three, or four) you roll damage dice for one of those feats.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When you imbue your weapon with Arcane Strike, you can spend 5 stamina points to increase its damage by 1 for the duration of the Arcane Strike effect.",
-    "prerequisiteKeys": ["arcane strike"]
+    "prerequisiteKeys": ["arcane strike"],
+    "name_zh": "血术之击",
+    "text_zh": "蕴藏在你鲜血之中的奥术能量伴随着你的每一次攻击而涌动",
+    "prerequisites_zh": "奥术打击，可以施放奥术魔法，血怒职业能力",
+    "benefit_zh": "当你处于血怒状态下，你无需使用迅捷动作启动奥术打击——它将永久性生效。当你使用暴击（Vital Strike），精通暴击（Improved Vital Strike）或高等暴击（Greater Vital Strike）专长进行攻击时，你的奥术打击伤害也会随着暴击造成的额外伤害骰数而翻倍。"
 }

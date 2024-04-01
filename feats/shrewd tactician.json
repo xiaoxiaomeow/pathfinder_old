@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shrewd%20Tactician",
     "descriptors": ["Combat"],
     "source": ["Inner Sea World Guide pg. 289"],
-    "description": "Your dealings with pirates, thieves, and assassins have taught you to be exceedingly careful.",
+    "text": "Your dealings with pirates, thieves, and assassins have taught you to be exceedingly careful.",
     "prerequisites": "Alertness, Combat Reflexes.",
     "benefit": "Opponents do not gain a +2 bonus on attack rolls for flanking you, although they can still sneak attack you. You also gain a +3 bonus on Sense Motive checks made to resist a foe’s Bluff checks to feint in combat.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "When an opponent attempts a feint against you, you can spend up to 5 stamina points to increase the DC of the skill check made to feint by 1 per point of stamina spent.",
     "prerequisiteKeys":     [
         "alertness",

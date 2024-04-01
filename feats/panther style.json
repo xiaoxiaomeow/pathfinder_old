@@ -7,17 +7,17 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 112"],
-    "description": "You can strike back at enemies who attack you when you move.",
+    "text": "You can strike back at enemies who attack you when you move.",
     "prerequisites": "Wis 13, Combat Reflexes, Improved Unarmed Strike.",
     "benefit": "While using this style, when an opponent makes an attack of opportunity against you for moving through a threatened square, you can spend a swift action to make a retaliatory unarmed strike attack against that opponent. Your attack is resolved after the triggering attack of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "Whenever you provoke an attack of opportunity, you can spend 5 stamina points to make a retaliatory strike as a swift action.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved unarmed strike"
     ],
     "name_zh": "豹形拳",
-    "description_zh": "你可以反击那些趁你移步而进犯的敌人。",
+    "text_zh": "你可以反击那些趁你移步而进犯的敌人。",
     "prerequisites_zh": "感知13，战斗反射，精通徒手打击。",
     "benefit_zh": "当你处于豹拳流派架势时，当你在穿过威胁区域而引发借机攻击时，你能以迅捷动作用徒手反击你的对手。这次攻击在诱发对方借机攻击后才能发动。"
 }

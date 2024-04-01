@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snap%20Shot",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 119"],
-    "description": "With a ranged weapon, you can take advantage of any opening in your opponent’s defenses.",
+    "text": "With a ranged weapon, you can take advantage of any opening in your opponent’s defenses.",
     "prerequisites": "Dex 13, Point-Blank Shot, Rapid Shot, Weapon Focus, base attack bonus +6.",
     "benefit": "While wielding a ranged weapon with which you have Weapon Focus, you threaten squares within 5 feet of you. You can make attacks of opportunity with that ranged weapon. You do not provoke attacks of opportunity when making a ranged attack as an attack of opportunity.",
     "normal": "While wielding a ranged weapon, you threaten no squares and can make no attacks of opportunity with that weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "At the end of your turn, you can spend 2 stamina points to increase the range at which you threaten squares with ranged weapons to 10 feet until you take an attack of opportunity against an opponent in the expanded threat range or the beginning of your next turn, whichever comes first.",
     "prerequisiteKeys":     [
         "point-blank shot",
@@ -16,7 +16,8 @@
         "weapon focus"
     ],
     "name_zh": "快枪",
-    "description_zh": "持用远程武器时，你不会放过对手防御中的任何破绽。",
+    "text_zh": "持用远程武器时，你不会放过对手防御中的任何破绽。",
     "prerequisites_zh": "敏捷13，近距射击，快速射击，武器专攻，基本攻击加值+6。",
-    "benefit_zh": "当持用你所拥有“武器专攻”专长的远程武器时，你可以威胁5尺邻近范围。你能以远程武器发动借机攻击，并且不会因此而引发借机攻击。<\/p><p>通常状况：当持用远程武器时，你没有威胁范围，也无法以远程武器发动借机攻击。"
+    "benefit_zh": "当持用你所拥有“武器专攻”专长的远程武器时，你可以威胁5尺邻近范围。你能以远程武器发动借机攻击，并且不会因此而引发借机攻击。",
+    "normal_zh": "当持用远程武器时，你没有威胁范围，也无法以远程武器发动借机攻击。"
 }

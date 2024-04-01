@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nameless%20Servitor",
     "descriptors": ["Faction"],
     "source": ["Faction Guide pg. 57"],
-    "description": "The fact that you have given up your real name makes you resistant to certain types of magic.",
+    "text": "The fact that you have given up your real name makes you resistant to certain types of magic.",
     "prerequisites": "Risen Guard rank, Risen Guard 10 TPA.",
     "benefit": "Anyone who attempts to use magic in order to learn personal information about you, such as through <i>divination<\/i>, <i>scrying<\/i>, or similar magic, must make a caster level check with a DC equal to 10 plus your level to succeed. You are immune to spells that require the use of your name in order to function (such as <i>trap the soul<\/i>).<br><br>Most members of the Risen Guard with this feat are addressed by their rank.",
     "special": "If you ever choose a real name, you lose all benefits of this feat."

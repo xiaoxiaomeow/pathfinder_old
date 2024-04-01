@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Split%20Trick",
     "descriptors": ["Trick"],
     "source": ["Psychic Anthology pg. 17"],
-    "description": "You can split a mesmerist trick between two targets.",
+    "text": "You can split a mesmerist trick between two targets.",
     "prerequisites": "Mesmerist trick class feature.",
     "benefit": "Whenever you implant a mesmerist trick in a target, you can designate that trick as a split trick. When doing so, you touch two targets and split the trick between them. This counts as implanting a mesmerist trick in both targets. The mesmerist trick functions as normal, except that when the trick’s triggering condition occurs, you must choose one of the split trick’s targets to receive the effects of the split trick. The other target receives no benefit from the trick."
 }

@@ -3,11 +3,11 @@
     "name": "Sacred Summons",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sacred%20Summons",
     "source": ["Ultimate Magic pg. 155"],
-    "description": "The minions of your divine patrons stand ready to answer your call.",
+    "text": "The minions of your divine patrons stand ready to answer your call.",
     "prerequisites": "Aura class feature, ability to cast <i>summon monster<\/i>.",
     "benefit": "When using <i>summon monster <\/i>to summon creatures whose alignment subtype or subtypes exactly match your aura, you may cast the spell as a standard action instead of with a casting time of 1 round.",
     "name_zh": "神圣召唤",
-    "description_zh": "你的神祇随时响应你的呼唤。",
+    "text_zh": "你的神祇随时响应你的呼唤。",
     "prerequisites_zh": "【灵光】职业特性，能够施展‘召唤怪物’。",
     "benefit_zh": "在使用‘召唤怪物’时，如果所召唤的怪物的阵营子类或亚种完全符合你的灵光，则你可以使用一个标准动作施展法术而非一个整轮动作。"
 }

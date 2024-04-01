@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Craft%20Wondrous%20Item",
     "descriptors": ["Item Creation"],
     "source": ["PRPG Core Rulebook pg. 120"],
-    "description": "You can create wondrous items, a type of magic item.",
+    "text": "You can create wondrous items, a type of magic item.",
     "prerequisites": "Caster level 3rd.",
     "benefit": "You can create a wide variety of magic wondrous items. Crafting a wondrous item takes 1 day for each 1,000 gp in its price. To create a wondrous item, you must use up raw materials costing half of its base price. See the magic item creation rules in Magic Items for more information.<br><br>You can also mend a broken wondrous item if it is one that you could make. Doing so costs half the raw materials and half the time it would take to craft that item.",
     "name_zh": "制造奇物",
-    "description_zh": "你能制造奇物，一种魔法物品。",
+    "text_zh": "你能制造奇物，一种魔法物品。",
     "prerequisites_zh": "施法者等级3级。",
     "benefit_zh": "你能制造多种魔法奇物。奇物的每1000gp基本价格将使制造时间延长1天。加工所需耗材的价值为成品价格的一半。更多信息请参见魔法物品规则。你还能修理那些损坏的奇物。修理耗费一半制造该物品所需的原料和时间。"
 }

@@ -3,7 +3,11 @@
     "name": "Ready for Pain",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ready%20for%20Pain",
     "source": ["Occult Adventures pg. 138"],
-    "description": "Your implanted trick hardens the body against damage.",
+    "text": "Your implanted trick hardens the body against damage.",
     "prerequisites": "Mesmerist trick class feature.",
-    "benefit": "When you implant a trick, you can grant the subject DR 1/— against nonlethal damage until the trick is triggered or its duration ends. This DR increases by 1 for every 5 mesmerist levels you possess."
+    "benefit": "When you implant a trick, you can grant the subject DR 1/— against nonlethal damage until the trick is triggered or its duration ends. This DR increases by 1 for every 5 mesmerist levels you possess.",
+    "name_zh": "痛感钝化",
+    "text_zh": "你植入的诡计会让受术者对伤害的感觉变得迟钝。",
+    "prerequisites_zh": "催眠师诡计（Mesmerist Trick）职业能力",
+    "benefit_zh": "当你植入一个催眠师诡计时，能赋予受术者DR 1/－，但仅限于对抗非致命伤害（nonlethal damage），直至该项催眠师诡计被触发或者持续时间结束为止。你每具有5个催眠师等级，这个DR便会增加1点。"
 }

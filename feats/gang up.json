@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gang%20Up",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 161"],
-    "description": "You are adept at using greater numbers against foes.",
+    "text": "You are adept at using greater numbers against foes.",
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "You are considered to be flanking an opponent if at least two of your allies are threatening that opponent, regardless of your actual positioning. ",
     "normal": "You must be positioned opposite an ally to flank an opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. If you spend 5 stamina points, you can gain the feat’s benefits when you and one other ally are threatening an opponent (instead of two other allies).",
     "prerequisiteKeys": ["combat expertise"],
     "name_zh": "一拥而上",
-    "description_zh": "你擅长使用人海战术。",
+    "text_zh": "你擅长使用人海战术。",
     "prerequisites_zh": "智力13，寓守于攻。",
-    "benefit_zh": "只要敌人处于至少两名盟友的威胁范围内，就视为你在夹击目标，无论你的具体位置如何。<\/p><p>通常状况：你必须处于对角位才能进行夹击。"
+    "benefit_zh": "只要敌人处于至少两名盟友的威胁范围内，就视为你在夹击目标，无论你的具体位置如何。",
+    "normal_zh": "你必须处于对角位才能进行夹击。"
 }

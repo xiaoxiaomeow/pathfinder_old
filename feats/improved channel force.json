@@ -3,12 +3,12 @@
     "name": "Improved Channel Force",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Channel%20Force",
     "source": ["Advanced Race Guide pg. 88"],
-    "description": "You move your enemies within a beam of righteous energy.",
+    "text": "You move your enemies within a beam of righteous energy.",
     "prerequisites": "Channel Force, aasimar, channel energy 4d6.",
     "benefit": "When using Channel Force, you can affect all creatures in a 60-foot line or a 30-foot cone-shaped burst. You must choose to either push or pull all creatures within the affected area that fail their saves.",
     "prerequisiteKeys": ["channel force"],
     "name_zh": "精通原力导能",
-    "description_zh": "你用闪光的能量射线移动你的敌人。",
+    "text_zh": "你用闪光的能量射线移动你的敌人。",
     "prerequisites_zh": "原力导能，神裔，引导能量4d6。",
     "benefit_zh": "当你使用“原力导能”，你可以影响60尺直线路径或30尺半径锥形爆发范围内的所有生物。你必须统一决定拖拽还是推动所有豁免检定失败的生物。"
 }

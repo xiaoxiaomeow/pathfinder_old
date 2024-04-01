@@ -7,12 +7,13 @@
         "Monster"
     ],
     "source": ["Pathfinder RPG Bestiary pg. 315"],
-    "description": "This creature is particularly skilled at making attacks with its natural weapons.",
+    "text": "This creature is particularly skilled at making attacks with its natural weapons.",
     "prerequisites": "Three or more natural attacks.",
     "benefit": "The creature’s secondary attacks with natural weapons take only a –2 penalty.",
     "normal": "Without this feat, the creature’s secondary attacks with natural weapons take a –5 penalty.",
     "name_zh": "多重攻击",
-    "description_zh": "这个生物精于利用自己的天生武器进行攻击。",
+    "text_zh": "这个生物精于利用自己的天生武器进行攻击。",
     "prerequisites_zh": "三次或更多天生武器攻击。",
-    "benefit_zh": "生物的次要天生武器攻击仅在攻击上承受-2减值。<\/p><p>通常状况：若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。"
+    "benefit_zh": "生物的次要天生武器攻击仅在攻击上承受-2减值。",
+    "normal_zh": "若无此专长支持，生物的次要天生武器攻击在攻击投骰上将承受-5减值。"
 }

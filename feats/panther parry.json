@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Panther%20Parry",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 112"],
-    "description": "Your vicious strikes impair your foe’s ability to attack you when you move.",
+    "text": "Your vicious strikes impair your foe’s ability to attack you when you move.",
     "prerequisites": "Wis 15, Combat Reflexes, Improved Unarmed Strike, Panther Claw, Panther Style.",
     "benefit": "While using Panther Style, your retaliatory unarmed strikes are resolved before the triggering attacks. If your retaliatory unarmed strike deals damage to an opponent, that opponent takes a –2 penalty on attack and damage rolls with the triggering attack of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "When your retaliatory strike damages an opponent, you can spend 5 stamina points to increase the penalty the target takes on attack and damage rolls to –4.",
     "prerequisiteKeys":     [
         "combat reflexes",
@@ -16,7 +16,7 @@
         "panther style"
     ],
     "name_zh": "迅豹闪",
-    "description_zh": "你的猛恶攻击削弱了敌人趁你移动时袭击的能力。",
+    "text_zh": "你的猛恶攻击削弱了敌人趁你移动时袭击的能力。",
     "prerequisites_zh": "感知15，战斗反射，精通徒手打击，豹形拳，豹爪。",
     "benefit_zh": "你处于豹拳流派架势时，你的反击可以在对方进行借机攻击前作出，如果你的这次反击对对手造成伤害，对手对你的借机攻击在攻击骰和伤害骰都有-2罚值。"
 }

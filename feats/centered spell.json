@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Centered%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Legacy of the First World pg. 23"],
-    "description": "You can make a spell explode around you, leaving a safe zone for yourself at the center of the blast.",
+    "text": "You can make a spell explode around you, leaving a safe zone for yourself at the center of the blast.",
     "prerequisites": "Spellcraft 3 ranks.",
     "benefit": "You can center the area of a spell with an area effect and duration of instantaneous on you, and exclude yourself from the effects of the spell. Your familiar (if any) is also excluded from the effect, provided that it is in your square and at least one size category smaller than you.<br><br> A centered spell does not use up a higher-level spell slot than the spell’s actual level."
 }

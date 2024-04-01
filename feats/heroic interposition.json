@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heroic%20Interposition",
     "descriptors": ["Combat"],
     "source": ["Inner Sea Gods pg. 212"],
-    "description": "You arrive just when you are most needed to vanquish evil.",
+    "text": "You arrive just when you are most needed to vanquish evil.",
     "prerequisites": "Dex 13, Dodge, Improved Initiative, Mobility, worshiper of an empyreal lord.",
     "benefit": "Once per day, you can move up to your speed as an immediate action, but you must end this movement adjacent to an opponent who is about to make an attack against an ally. As long as you are visible to the opponent you moved next to, that opponent takes a –2 penalty on the attack roll to which you moved in response.",
-    "staminaSource": ["Weapon Master's Handbook pg. 25"],
+    "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "By spending 4 stamina points, you can use this feat an additional time per day.",
     "prerequisiteKeys":     [
         "dodge",

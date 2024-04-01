@@ -4,7 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Prosperity%20and%20Pride",
     "descriptors": ["Story"],
     "source": ["Pathfinder #131: The Reaper's Right Hand pg. 76"],
-    "description": "Your family has raised cities and mastered trade, and you seek to do the same.",
+    "text": "Your family has raised cities and mastered trade, and you seek to do the same.",
     "prerequisites": "Be a member of House Corcina, or have the Craftsperson, Inheritance, Well-Connected Friend, or Worldshaker background.",
-    "benefit": "When in a settlement the size of a large city or smaller, you receive a +2 bonus on Appraise checks and Diplomacy checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4."
+    "benefit": "When in a settlement the size of a large city or smaller, you receive a +2 bonus on Appraise checks and Diplomacy checks. If you have 10 or more ranks in one of these skills, the bonus on that skill increases to +4.",
+    "goal": "Your actions must spur a settlement to grow to the next size category; this usually involves decisively defeating a challenging foe or an appropriate number of foes preying upon or impeding the settlement’s citizenry.",
+    "completionBenefit": "You teach others how to get the most out of their equipment. Three times per day as a standard action, you can increase the armor bonus provided by a suit of nonmagical armor, the circumstance bonus to a skill provided by a tool or skill kit, or the shield bonus provided by a nonmagical shield by 1. This bonus lasts for 1 hour and doesn’t stack with other uses of this ability."
 }

@@ -3,7 +3,7 @@
     "name": "Worst Case Jinx",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Worst%20Case%20Jinx",
     "source": ["Halflings of Golarion pg. 27"],
-    "description": "Your jinxes hinder beneficial spells.",
+    "text": "Your jinxes hinder beneficial spells.",
     "prerequisites": "Knowledge (arcana) 5 ranks, Halfling Jinx trait.",
     "benefit": "Beneficial variable effects on a jinxed target (such as <i>aid<\/i>, <i>cure<\/i> spells, <i>false life<\/i>, the variable ability damage cured by <i>lesser restoration<\/i>, and so on) always result in the minimum possible amount for the effect. For example, a 5th-level cleric casting <i>cure serious wounds<\/i> on the target only heals 8 hit points (the minimum for 3d8+5)."
 }

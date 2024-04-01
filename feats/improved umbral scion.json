@@ -3,7 +3,7 @@
     "name": "Improved Umbral Scion",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Umbral%20Scion",
     "source": ["Advanced Race Guide pg. 105"],
-    "description": "You are a master of drow noble magic.",
+    "text": "You are a master of drow noble magic.",
     "prerequisites": "Cha 13, Wis 13, Drow Nobility, Greater Drow Nobility, Improved Drow Nobility, Umbral Scion, able to use drow spell-like abilities, drow.",
     "benefit": "You may use <i>dispel magic<\/i>, <i>divine favor<\/i>, and <i>suggestion <\/i>once per day as spell-like abilities. Your caster level is equal to your character level.",
     "prerequisiteKeys":     [
@@ -13,7 +13,7 @@
         "umbral scion"
     ],
     "name_zh": "进阶黑耀传人",
-    "description_zh": "你精通了卓尔贵族魔法。",
+    "text_zh": "你精通了卓尔贵族魔法。",
     "prerequisites_zh": "魅力13，感知13，黑耀传人，卓尔贵族，高等卓尔贵族，进阶卓尔贵族，能够使用卓尔的类法术能力，卓尔。",
     "benefit_zh": "你可以每天以类法术能力使用‘解除魔法’，‘神恩’，‘暗示术’各1次。CL等同于你的人物等级。"
 }

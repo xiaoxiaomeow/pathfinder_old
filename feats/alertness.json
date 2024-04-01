@@ -3,13 +3,13 @@
     "name": "Alertness",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Alertness",
     "source": ["PRPG Core Rulebook pg. 117"],
-    "description": "You often notice things that others might miss.",
+    "text": "You often notice things that others might miss.",
     "benefit": "You get a +2 bonus on Perception and Sense Motive skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.",
-    "mythicSource": ["Mythic Adventures pg. 54"],
-    "mythicDescription": "Your powers of perception surpass everyone’s, whether used to observe your surroundings or the intentions of others.",
-    "mythicPrerequisites": "Alertness.<br><br",
+    "mythicSource": "Mythic Adventures pg. 54",
+    "mythicText": "Your powers of perception surpass everyone’s, whether used to observe your surroundings or the intentions of others.",
+    "mythicPrerequisites": "Alertness.",
     "mythicBenefit": "The bonus on Perception and Sense Motive skill checks from Alertness increases by 2. In addition, you can expend one use of mythic power to treat a Perception or Sense Motive check as if you had rolled a natural 20. You must decide to use this ability before making the roll.",
     "name_zh": "警觉",
-    "description_zh": "你通常能注意到一些别人忽视的事情。",
+    "text_zh": "你通常能注意到一些别人忽视的事情。",
     "benefit_zh": "在察觉和察言观色技能检定上获得+2奖励。如果某技能受训等级10以上，对于该技能检定的奖励为+4。"
 }

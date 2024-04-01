@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Agile%20Maneuvers",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 117"],
-    "description": "You've learned to use your quickness in place of brute force when performing combat maneuvers.",
+    "text": "You've learned to use your quickness in place of brute force when performing combat maneuvers.",
     "benefit": "You add your Dexterity bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus (see Combat) instead of your Strength bonus.",
     "normal": "You add your Strength bonus to your base attack bonus and size bonus when determining your Combat Maneuver Bonus.",
-    "staminaSource": ["Pathfinder Unchained pg. 113"],
+    "staminaSource": "Pathfinder Unchained pg. 113",
     "staminaText": "You can spend a number of stamina points equal to your Dexterity bonus while attempting combat maneuver checks. For every 2 stamina points that you spend in this way, you are considered to be one size category larger than your actual size when determining whether you can affect a target creature with your combat maneuver and when calculating your size bonus for that check.",
     "name_zh": "灵巧武艺",
-    "description_zh": "你学会了在战斗中使用你灵活的招式。",
-    "benefit_zh": "用你的敏捷修正代替力量修正来决定CMB加值。<\/p><p>通常状况：用你的力量修正和体型修正来决定战斗招式加值。"
+    "text_zh": "你学会了在战斗中使用你灵活的招式。",
+    "benefit_zh": "用你的敏捷修正代替力量修正来决定CMB加值。",
+    "normal_zh": "用你的力量修正和体型修正来决定战斗招式加值。"
 }

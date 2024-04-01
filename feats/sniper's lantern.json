@@ -3,8 +3,12 @@
     "name": "Sniper's Lantern",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sniper's%20Lantern",
     "source": ["Monster Codex pg. 32"],
-    "description": "You use your innate magic powers to target enemies and spot their weaknesses.",
+    "text": "You use your innate magic powers to target enemies and spot their weaknesses.",
     "prerequisites": "Point-Blank Shot, <i>dancing lights<\/i> racial spell-like ability.",
     "benefit": "You can use your <i>dancing lights<\/i> racial spell-like ability to create one orb of penetrating light. This light grants you a +2 insight bonus on all ranged attacks made against targets within 5 feet of the light’s location. You can direct this light to a new location anywhere within the spell’s range as a move action, otherwise the effect functions exactly like <i>dancing lights<\/i>. You can use this ability once per day, plus an additional time per day when your caster level for your racial <i>dancing lights<\/i> spell-like ability reaches 5th, 10th, 15th, and 20th.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "狙击指示",
+    "text_zh": "你运用天生的魔法照亮企图躲避火力的敌人，并揭示它们的弱点。",
+    "prerequisites_zh": "近程射击，舞光术种族类法术能力",
+    "benefit_zh": "你可以通过舞光术创造一个点亮漆黑环境的小球，这个小球可以使你对所有距离它5尺以内的敌人在远程攻击检定上获得+2洞察加值。这个小球的效果如图舞光术，但你可以以一个移动动作移动它的位置（不能超过法术的范围）。你每天可以发动本能力一次，当你以类法术能力施放黑暗术的施法者等级上升到5，10,15和20级时，再增加一次本能力的每日使用次数。"
 }

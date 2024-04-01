@@ -4,14 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Final%20Embrace",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 101"],
-    "description": "Your coils are particularly deadly, allowing you to constrict opponents of your size or smaller.",
+    "text": "Your coils are particularly deadly, allowing you to constrict opponents of your size or smaller.",
     "prerequisites": "Str 13, Int 3; naga, serpentfolk, or creature that has the constrict special attack as a racial ability; base attack bonus +3.",
     "benefit": "You gain the constrict and grab special attacks. Your constrict attack deals damage equal to your unarmed strike or primary natural weapon melee attack. Further, you can grab and constrict opponents up to your size.",
     "normal": "You can grab and constrict creatures one size smaller than you.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "You can spend 2 stamina points to grab a creature one size category larger than you.",
     "name_zh": "最终拥抱",
-    "description_zh": "你的紧勒变得致命，让你能够捆绑和你同体型或更小的生物。",
+    "text_zh": "你的紧勒变得致命，让你能够捆绑和你同体型或更小的生物。",
     "prerequisites_zh": "力量13，智力3，纳迦、蛇人或拥有＜紧勒＞特殊攻击的生物，基本攻击加值+3。",
-    "benefit_zh": "你获得＜紧勒＞和＜攫抓＞特殊攻击作为种族特性。你的紧勒将会造成等于你徒手打击或者天生武器的近战伤害。此外，你可以攫抓和紧勒最多和你同等体型的生物。<\/p><p>通常状况：你只能攫抓和紧勒比你体型小一级的生物。<\/p><p>【特性速查】紧勒（Constrict, Ex）：当一个生物做了一个成功的擒抱检定时，他可以使用这种特殊攻击挤压敌人，造成钝击伤害（可与成功检定引起的其他效果共存，包括额外伤害）。伤害的总和已经在该生物的介绍中给出，并且伤害不逊于该生物使用近战攻击造成的伤害总和。<\/p><p>【特性速查】攫抓（Grab, Ex）：具有此能力的生物一旦用近战武器（通常为爪抓或啮咬）命中目标，它在造成正常伤害之外，还会自动展开擒抱，这是自由动作且不会引发借机攻击。除非特别说明，否则攫抓只能针对体型比该生物至少小一级的对手。如果该生物可以擒抱其他体型的生物，那么会在特殊攻击中列出。该生物可以用通常的方式展开擒抱，或仅限于用展开攫抓的身体部位将对手定身。如果选择后者，它将在对抗擒抱的CMB上有-20的减值，但这样它自身便可认为不处于擒抱状态；成功的擒抱检定不会制造任何额外的伤害，除非它有紧勒的特殊能力。在后续回合中，如果该生物不会紧勒，每个成功的擒抱检定将自动造成伤害，伤害相当于最初定身对手的攻击所造成的伤害；否则，它还将造成紧勒伤害（具体数目在生物的描述中给出）。有攫抓特殊攻击的生物在开始和保持擒抱的战技检定中获得+4加值。"
+    "benefit_zh": "你获得＜紧勒＞和＜攫抓＞特殊攻击作为种族特性。你的紧勒将会造成等于你徒手打击或者天生武器的近战伤害。此外，你可以攫抓和紧勒最多和你同等体型的生物。",
+    "normal_zh": "你只能攫抓和紧勒比你体型小一级的生物。<\/p><p>【特性速查】紧勒（Constrict, Ex）：当一个生物做了一个成功的擒抱检定时，他可以使用这种特殊攻击挤压敌人，造成钝击伤害（可与成功检定引起的其他效果共存，包括额外伤害）。伤害的总和已经在该生物的介绍中给出，并且伤害不逊于该生物使用近战攻击造成的伤害总和。<\/p><p>【特性速查】攫抓（Grab, Ex）：具有此能力的生物一旦用近战武器（通常为爪抓或啮咬）命中目标，它在造成正常伤害之外，还会自动展开擒抱，这是自由动作且不会引发借机攻击。除非特别说明，否则攫抓只能针对体型比该生物至少小一级的对手。如果该生物可以擒抱其他体型的生物，那么会在特殊攻击中列出。该生物可以用通常的方式展开擒抱，或仅限于用展开攫抓的身体部位将对手定身。如果选择后者，它将在对抗擒抱的CMB上有-20的减值，但这样它自身便可认为不处于擒抱状态；成功的擒抱检定不会制造任何额外的伤害，除非它有紧勒的特殊能力。在后续回合中，如果该生物不会紧勒，每个成功的擒抱检定将自动造成伤害，伤害相当于最初定身对手的攻击所造成的伤害；否则，它还将造成紧勒伤害（具体数目在生物的描述中给出）。有攫抓特殊攻击的生物在开始和保持擒抱的战技检定中获得+4加值。"
 }

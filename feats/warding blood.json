@@ -3,7 +3,7 @@
     "name": "Warding Blood",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Warding%20Blood",
     "source": ["Potions and Poisons pg. 6"],
-    "description": "Your ethereal venom is strong enough to repel anyone who attempts to cross through it.",
+    "text": "Your ethereal venom is strong enough to repel anyone who attempts to cross through it.",
     "prerequisites": "Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya.",
     "benefit": "You can spend 10 minutes and two uses of your vishkanya venom to coat an area no larger than 10 feet by 10 feet with your blood. This creates a <i>forbiddance effect<\/i>, using your character level as your caster level (maximum 20). The save DC of this effect is equal to 15 + your Charisma modifier. Creatures that take damage from the <i>forbiddance<\/i> effect are also exposed to your vishkanya venom. If you have abilities that alter the effects of your venom, you must choose which effect applies when you create the venomous area.",
     "prerequisiteKeys": ["ghostbane ichor"]

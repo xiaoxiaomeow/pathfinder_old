@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kirin%20Path",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 107"],
-    "description": "You turn knowledge of your enemy into a flawless defense.",
+    "text": "You turn knowledge of your enemy into a flawless defense.",
     "prerequisites": "Int 13, Kirin Strike, Kirin Style, Improved Unarmed Strike, Knowledge (arcana) 12 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 5 ranks.",
     "benefit": "Whenever you make a Knowledge check to identify a creature, even when using Kirin Style, you can take 10 even if stress and distractions would normally prevent you from doing so. While using Kirin Style against a creature you have identified using that feat, if the creature ends its turn within your threatened area, you can spend a use of your attacks of opportunity that round to move up to 5 feet times your Intelligence modifier (minimum 1). You must end your move in a square threatened by the creature. This move does not provoke attacks of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "When using Kirin Style<sup>UC<\/sup>, you can spend 5 stamina points instead of using an attack of opportunity to move a distance equal to 5 feet × your Intelligence modifier.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
@@ -15,7 +15,7 @@
         "kirin style"
     ],
     "name_zh": "麒麟步",
-    "description_zh": "你将对敌人的了解转化为无懈可击的防御步法。",
+    "text_zh": "你将对敌人的了解转化为无懈可击的防御步法。",
     "prerequisites_zh": "智力13，麒麟破，麒麟势，精通徒手打击，知识（奥秘）12级，知识（地城，地方，自然，位面，或宗教）5级。",
     "benefit_zh": "你的所有用于鉴定生物的知识检定可以取10。当你采用麒麟流派架势时，被鉴定成功的生物如果在你的威胁范围内结束回合的话，你可以消耗该轮一次借机攻击次数移动等于你每点智力修正（最少为1）5尺的距离，但你的移动终点必须处于该生物的威胁范围内，这种移动不会引起借机攻击。"
 }

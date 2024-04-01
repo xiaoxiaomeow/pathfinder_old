@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Janni%20Rush",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 106"],
-    "description": "When you leap to the attack, your blows are like bolts from on high.",
+    "text": "When you leap to the attack, your blows are like bolts from on high.",
     "prerequisites": "Improved Unarmed Strike, Janni Style, Janni Tempest, Acrobatics 8 ranks, Perform (dance) 8 ranks.",
     "benefit": "While using Janni Style, you are always considered to have a running start when jumping. Further, if you jump as part of a charge and make an unarmed strike against the designated opponent, a hit allows you to roll the unarmed strike’s damage dice twice and add the results together before adding modifiers (such as from Strength) or extra dice (such as precision-based damage or dice from weapon abilities). The extra damage dice are not multiplied on a successful critical hit.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "You can spend 5 stamina points to multiply the extra damage dice from this feat on a critical hit.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
@@ -15,7 +15,7 @@
         "janni tempest"
     ],
     "name_zh": "罡风惊天",
-    "description_zh": "当跃起攻击时，你的打击沉重犹如万钧。",
+    "text_zh": "当跃起攻击时，你的打击沉重犹如万钧。",
     "prerequisites_zh": "精通徒手打击，御风，乱披风，特技8级，表演（舞蹈）8级。",
     "benefit_zh": "你使用风灵流派架势时获得以下好处：你跳跃总是视为已助跑。如果你使用跳跃作为你冲锋动作的一部分，并用徒手攻击命中对手，丢两次徒手伤害骰合计，但力量，武器属性（例如＜炽焰＞附魔）及基于精准攻击（例如偷袭）带来的伤害增加值不翻倍。本专长带来的额外伤害在重击时不翻倍（尽管其他伤害增加值正常翻倍计算）。"
 }

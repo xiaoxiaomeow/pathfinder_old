@@ -4,7 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lighting%20the%20Way",
     "descriptors": ["Story"],
     "source": ["Pathfinder #131: The Reaper's Right Hand pg. 79"],
-    "description": "You seek to lead others through your pious example.",
+    "text": "You seek to lead others through your pious example.",
     "prerequisites": "Be a member of House Zespire, or have the Devoted, Exemplar, Marked by the Gods, or Righteous Mentor background.",
-    "benefit": "Once per day as a standard action, you can give all allies within 30 feet who can hear you a +1 bonus on attack rolls and on saving throws against mind-affecting effects for 1 minute."
+    "benefit": "Once per day as a standard action, you can give all allies within 30 feet who can hear you a +1 bonus on attack rolls and on saving throws against mind-affecting effects for 1 minute.",
+    "goal": "Establish your religion in an existing settlement where it isn’t present. You can do this by having a settlement gain the Holy Site or Pious quality for devotion to your deity, or change its government to a theocracy based on your religion.",
+    "completionBenefit": "You can spontaneously convert any 2nd-level or higher divine spell into <i>enthrall<\/i> and can spontaneously convert any 3rd-level or higher divine spell into <i>suggestion<\/i>."
 }

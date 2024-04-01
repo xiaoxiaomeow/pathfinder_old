@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pernicious%20Stab",
     "descriptors": ["Combat"],
     "source": ["Giant Hunter's Handbook pg. 23"],
-    "description": "Your deep strikes allow you to deliver poison efficiently when your opponent is off guard.",
+    "text": "Your deep strikes allow you to deliver poison efficiently when your opponent is off guard.",
     "prerequisites": "Sneak attack +2d6.",
     "benefit": "When you hit an opponent with a poisoned weapon and would deal sneak attack damage, you can choose to forgo some or all of the sneak attack damage to increase the poison’s chance of success. For every 2d6 points of sneak attack damage you forgo, add 1 to the saving throw DC of the poison delivered with your attack. This increase to the poison save DC does not apply to creatures that are immune to precision damage."
 }

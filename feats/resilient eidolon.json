@@ -3,12 +3,13 @@
     "name": "Resilient Eidolon",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Resilient%20Eidolon",
     "source": ["Ultimate Magic pg. 155"],
-    "description": "Your link with your eidolon is strong enough that it can remain with you for a short time after you fall unconscious or are killed.",
+    "text": "Your link with your eidolon is strong enough that it can remain with you for a short time after you fall unconscious or are killed.",
     "prerequisites": "Eidolon class feature.",
     "benefit": "If you are knocked unconscious, fall asleep, or are killed, your eidolon remains for a number of rounds equal to your summoner level before it is banished. If you are brought back to consciousness before this duration expires, your eidolon is not banished. If the duration expires before you are brought back to consciousness, your eidolon is banished normally.",
     "normal": "An eidolon is immediately banished when its summoner is unconscious, asleep, or killed.",
     "name_zh": "坚韧幻灵",
-    "description_zh": "你和幻灵直接的联系是如此的紧密以至于在你失去意识或者被杀以后你的幻灵依旧会在你身边停留一小段时间。",
+    "text_zh": "你和幻灵直接的联系是如此的紧密以至于在你失去意识或者被杀以后你的幻灵依旧会在你身边停留一小段时间。",
     "prerequisites_zh": "【幻灵】职业特性。",
-    "benefit_zh": "如果你失去意识、睡着了、或者被杀，你的幻灵会在被放逐前停留等同于你召唤师等级的轮数。如果你在这段时间里恢复意识，则幻灵不会被放逐。如果在持续时间结束之前你无法恢复意识，则幻灵如常被放逐。<\/p><p>通常状况：一个幻灵会在召唤师失去意识、睡着或者被杀时离开放逐。"
+    "benefit_zh": "如果你失去意识、睡着了、或者被杀，你的幻灵会在被放逐前停留等同于你召唤师等级的轮数。如果你在这段时间里恢复意识，则幻灵不会被放逐。如果在持续时间结束之前你无法恢复意识，则幻灵如常被放逐。",
+    "normal_zh": "一个幻灵会在召唤师失去意识、睡着或者被杀时离开放逐。"
 }

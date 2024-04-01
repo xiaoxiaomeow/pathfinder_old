@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cautious%20Fighter",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 66"],
-    "description": "You care more about survival than victory.",
+    "text": "You care more about survival than victory.",
     "prerequisites": "Halfling.",
     "benefit": "When fighting defensively or using total defense, your dodge bonus to AC increases by 2.",
-    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaSource": "Pathfinder Unchained pg. 115",
     "staminaText": "When not fighting defensively or using total defense, you can spend 5 stamina points to increase your dodge bonus by 2. This increase lasts until the start of your next turn.",
     "name_zh": "谨慎战斗",
-    "description_zh": "比起胜利你更注重生存。",
+    "text_zh": "比起胜利你更注重生存。",
     "prerequisites_zh": "半身人。",
     "benefit_zh": "当你使用防御式战斗或者完全防御时，你获得的AC闪避加值额外+2。"
 }

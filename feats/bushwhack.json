@@ -4,11 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bushwhack",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
-    "description": "You can subdue an unsuspecting foe quickly.",
+    "text": "You can subdue an unsuspecting foe quickly.",
     "prerequisites": "Dex 13, Improved Grapple, Improved Unarmed Strike.",
     "benefit": "When a flat-footed creature is unaware of your presence and you successfully grapple it, you can attempt a second grapple combat maneuver check to pin the creature as a free action. If you have the Chokehold feat (<i>Pathfinder RPG Ultimate Combat <\/i>92), you can instead use this second combat maneuver check to initiate a chokehold.",
     "prerequisiteKeys":     [
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "一扑即倒",
+    "text_zh": "你可以将一个措手不及的对手猛地压倒在地。",
+    "prerequisites_zh": "敏捷13，精通擒抱，精通徒手击打",
+    "benefit_zh": "当你成功的擒抱了一个措手不及或是未意识到你存在的敌人时，你可以以一个自由动作，立刻尝试一次将这个目标定身的擒抱检定。如果你拥有锁喉（Chokehold）UC专长，那么你可以放弃第二次擒抱检定的压制尝试，而是进行一次锁喉。"
 }

@@ -3,12 +3,12 @@
     "name": "Raging Hurler",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Raging%20Hurler",
     "source": ["Ultimate Combat pg. 114"],
-    "description": "An opponent can do little to evade your wrathful pitching of weapons and objects.",
+    "text": "An opponent can do little to evade your wrathful pitching of weapons and objects.",
     "prerequisites": "Rage class feature, Throw Anything.",
     "benefit": "While raging, you can throw a two-handed weapon as a standard action, and you double the range increment for weapons you throw. If you also have the Quick Draw feat, you can throw two-handed weapons at your full normal rate of attacks. Further, you can pick up an unattended object that you can use as a improvised weapon within your reach as part of the attack action to throw that item.",
     "prerequisiteKeys": ["throw anything"],
     "name_zh": "狂暴投掷",
-    "description_zh": "对手很难闪避你愤怒地投出的物体。",
+    "text_zh": "对手很难闪避你愤怒地投出的物体。",
     "prerequisites_zh": "【狂暴】职业特性，随手投掷。",
     "benefit_zh": "狂暴时你能以标准动作投掷双手武器，并且投掷武器的射程增量加倍。若你同时拥有“即时备战”专长，你能以正常全力攻击的频率投掷双手武器。此外，你能在如此攻击时举起一件可当作临时武器的无主物体用于投掷。"
 }

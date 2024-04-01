@@ -4,7 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Self-Exiled%20Noble",
     "descriptors": ["Story"],
     "source": ["Heroes of the High Court pg. 5"],
-    "description": "You chose to leave nobility behind.",
+    "text": "You chose to leave nobility behind.",
     "prerequisites": "You must have intentionally left your noble family and changed your name or appearance afterward.",
-    "benefit": "You gain a +2 bonus on Disguise checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family."
+    "benefit": "You gain a +2 bonus on Disguise checks, and Disguise is a class skill for you. You gain a +1 bonus on attack rolls and damage rolls against members of your former family.",
+    "goal": "Escape your former name by establishing your own noble legacy. In addition, you must decisively defeat a challenging foe from your former family who may wish to return you to your old home.",
+    "completionBenefit": "Your bonus on attack rolls and damage rolls from this feat increases to +2 and applies to anyone who threatens your allies or your new noble legacy."
 }

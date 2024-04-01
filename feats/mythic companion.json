@@ -3,7 +3,11 @@
     "name": "Mythic Companion",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mythic%20Companion",
     "source": ["Mythic Adventures pg. 70"],
-    "description": "Despite your non-mythic nature, you’re a vital part of the greater mythic world.",
+    "text": "Despite your non-mythic nature, you’re a vital part of the greater mythic world.",
     "prerequisites": "You must be non-mythic.",
-    "benefit": "You’re considered a mythic creature for the purposes of determining how mythic spells and effects affect you. If you ever become mythic, you gain a +1 bonus on all saves against mythic spells and effects."
+    "benefit": "You’re considered a mythic creature for the purposes of determining how mythic spells and effects affect you. If you ever become mythic, you gain a +1 bonus on all saves against mythic spells and effects.",
+    "name_zh": "参与神话",
+    "text_zh": "尽管你身处非神话的范畴内，但是已经成为了伟大神话世界的重要组成部分。",
+    "prerequisites_zh": "你必须为非神话角色或生物",
+    "benefit_zh": "在判断神话法术与效果对你如何起作用时，你被视为神话生物。若你成为了神话角色或生物，那么你会在对抗神话法术的所有豁免中获得+1加值。"
 }

@@ -3,12 +3,12 @@
     "name": "Mage of the Wild",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mage%20of%20the%20Wild",
     "source": ["Advanced Race Guide pg. 28"],
-    "description": "Your mystic connection with the wilderness enhances your spellcasting.",
+    "text": "Your mystic connection with the wilderness enhances your spellcasting.",
     "prerequisites": "Attuned to the Wild, elf.",
     "benefit": "When you are in a terrain type you have selected the Attuned to the Wild feat for, you gain a +2 bonus on caster level checks, concentration checks, and, Knowledge (arcana) and Spellcraft checks. If you are in an area that qualifies as more than one kind of terrain, these bonuses do not stack; you receive the bonus for only one of the terrain types.",
     "prerequisiteKeys": ["attuned to the wild"],
     "name_zh": "荒野术者",
-    "description_zh": "你与荒野的神秘联系增强了你的施法能力。",
+    "text_zh": "你与荒野的神秘联系增强了你的施法能力。",
     "prerequisites_zh": "荒野适应力，精灵。",
     "benefit_zh": "当你处于荒野适应力专长中选择的地形时，你的施法者等级检定，专注检定，知识（奥秘）以及法术辨识检定获得+2加值。如果你所在的区域可以视作多种地形，这些加值不会叠加；你只能从一种地形中获得该加值。"
 }

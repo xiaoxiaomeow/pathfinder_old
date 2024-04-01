@@ -3,11 +3,11 @@
     "name": "Lucky Healer",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lucky%20Healer",
     "source": ["Advanced Race Guide pg. 66"],
-    "description": "Your luck allows you to draw from magical healing far more efficiently than most.",
+    "text": "Your luck allows you to draw from magical healing far more efficiently than most.",
     "prerequisites": "Adaptive luck racial trait, halfling.",
     "benefit": "When a magical healing effect (such as a spell with \"cure\" in the title or channel energy) cures you, you can spend one use of your adaptable luck racial trait to reroll the amount of damage cured. You regain a number of hit points equal to the new roll or the original roll, whichever is greater. Other creatures healed by the effect do not gain this benefit.",
     "name_zh": "幸运治疗",
-    "description_zh": "你的运气使你比其他人得到的治疗更有效。",
+    "text_zh": "你的运气使你比其他人得到的治疗更有效。",
     "prerequisites_zh": "【万用幸运】种族特性，半身人。",
     "benefit_zh": "当你接受一次魔法治疗(名字带有“治疗”的法术或引导能量)时，使用一次万用运气特性，重骰你受到的治疗量。"
 }

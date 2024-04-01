@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Efreeti%20Touch",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 100"],
-    "description": "Your knowledge of the secrets of the burning wind and blazing sun allows you to collect flames into your hands and unleash them in a gout of elemental fire.",
+    "text": "Your knowledge of the secrets of the burning wind and blazing sun allows you to collect flames into your hands and unleash them in a gout of elemental fire.",
     "prerequisites": "Con 15, Wis 17, Efreeti Style, Efreeti Stance, Elemental Fist, Improved Unarmed Strike, base attack bonus +13 or monk level 11th.",
     "benefit": "While using Efreeti Style, as a standard action, you can spend two Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempts to unleash a 15-foot cone-shaped burst of flame. Creatures caught in the cone take your unarmed strike damage plus the fire damage from your Elemental Fist and catch on fire. A successful Reflex save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from catching on fire.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "Instead of spending two uses of Elemental Fist<sup>APG<\/sup> to unleash a cone of flame, you can spend one use of Elemental Fist and 2 stamina points.",
     "prerequisiteKeys":     [
         "efreeti stance",
@@ -16,7 +16,7 @@
         "improved unarmed strike"
     ],
     "name_zh": "炎触",
-    "description_zh": "你掌握了烈风与炎日的秘密，可以让手中凝聚的火之精灵解放，化成毁灭之焰。",
+    "text_zh": "你掌握了烈风与炎日的秘密，可以让手中凝聚的火之精灵解放，化成毁灭之焰。",
     "prerequisites_zh": "感知17，炎宿，基本攻击加值+13或武僧11级。",
     "benefit_zh": "你使用炎灵流派架势时，以一个标准动作，消耗两次“元素之拳”使用次数，你可以放出半径15尺的锥状爆炎，对范围内所有生物造成等于“你的徒手打击伤害+元素之拳火伤”的伤害并着火。通过DC为“10+1/2角色等级+感知修正”的反射豁免则伤害减半，且不会着火。"
 }

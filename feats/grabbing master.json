@@ -4,14 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Grabbing%20Master",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 148"],
-    "description": "You can grapple two foes as easily as one.",
+    "text": "You can grapple two foes as easily as one.",
     "prerequisites": "Grabbing Drag, Grabbing Style, Improved Grapple; base attack bonus +12, brawler level 8th, or monk level 8th.",
     "benefit": "When you are grabbing two opponents while using Grabbing Style, you can use your grapple to move or damage one or both opponents you are grappling, instead of just one.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "When you are grappling only one opponent while using Grabbing Style<sup>ACG<\/sup>, you can spend 5 stamina points to continue to threaten the area within your reach with your free hand until the beginning of your next turn.",
     "prerequisiteKeys":     [
         "grabbing drag",
         "grabbing style",
         "improved grapple"
-    ]
+    ],
+    "name_zh": "大擒拿手",
+    "text_zh": "抓着两个敌人对你来说就像压住一个家伙一样轻松。",
+    "prerequisites_zh": "拖曳手，擒拿手，精通擒抱，基础攻击加值+12或拳师等级8或武僧等级8",
+    "benefit_zh": "当你使用擒拿手流派同时擒抱两个对手，只需要一个擒抱动作就可以同时伤害或移动两个被你擒抱的目标。"
 }

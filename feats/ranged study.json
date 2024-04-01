@@ -3,8 +3,14 @@
     "name": "Ranged Study",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ranged%20Study",
     "source": ["Advanced Class Guide pg. 155"],
-    "description": "You can use a limited form of studied combat and studied strike with a weapon of your choice.",
+    "text": "You can use a limited form of studied combat and studied strike with a weapon of your choice.",
     "prerequisites": "Weapon Focus with the chosen weapon, studied combat class feature.",
     "benefit": "Choose one kind of ranged weapon. You gain the bonuses for studied combat with your chosen weapon and can use studied strike with your chosen weapon as long as the target of your studied strike is within 30 feet of you.",
-    "normal": "You gain the bonuses for studied combat and can use studied strike only with melee weapons."
+    "normal": "You gain the bonuses for studied combat and can use studied strike only with melee weapons.",
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "远程策略",
+    "text_zh": "你研究了如何在使用各种武器时寻找最有效的战斗策略，而非仅仅局限于近身格斗的方法。",
+    "prerequisites_zh": "一种武器的武器专攻专长，战斗策略职业能力",
+    "benefit_zh": "选择一种你拥有武器专攻的远程武器，只要你的目标距离你不超过30尺，你在使用这种武器展开战斗策略时就可以获得加值，并可以发动策士之击。",
+    "normal_zh": "你只有在进行近战攻击时才能获得战斗策略和好处和发动策士之击。"
 }

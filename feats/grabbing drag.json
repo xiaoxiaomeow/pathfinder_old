@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Grabbing%20Drag",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 148"],
-    "description": "You can move easily with a grappled enemy in tow.",
+    "text": "You can move easily with a grappled enemy in tow.",
     "prerequisites": "Grabbing Style, Improved Grapple; base attack bonus +8, brawler level 4th, or monk level 4th.",
     "benefit": "When you are using Grabbing Style, if you use the move grapple action, you can move both yourself and a single target that you’re grappling your full speed instead of half your speed. After you have done so, you can use a move action to move yourself and the target of your grapple half your speed without needing to attempt an additional combat maneuver check. You cannot use this feat if you are grappling two targets.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "After using the move grapple action and moving your full speed, you can spend 5 stamina points to move your full speed again (instead of half your speed) without the need to attempt another grapple check.",
     "prerequisiteKeys":     [
         "grabbing style",
         "improved grapple"
-    ]
+    ],
+    "name_zh": "拖曳手",
+    "text_zh": "你可以轻松拖着被你擒抱住的敌人踏起妖精般的乱舞。",
+    "prerequisites_zh": "擒拿手，精通擒抱；基础攻击加值+8或拳师等级4或武僧等级4",
+    "benefit_zh": "当你使用擒拿手流派时，你可以在擒抱一个对手时，通过移动（Move）擒抱攻击动作拖着他和你一起以全速而非半速移动。在此之后，你还可以以一个移动动作，拖着被你擒抱的对手以半速移动而无需进行擒抱检定对抗。你无法再同时擒抱两个目标时使用这个能力。"
 }

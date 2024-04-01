@@ -3,9 +3,13 @@
     "name": "Believer's Hands",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Believer's%20Hands",
     "source": ["Advanced Class Guide pg. 142"],
-    "description": "You can heal others with a touch of your hand.",
-    "prerequisites": "Wis 13, Believer's Boon, must be lawful good, alignment must be within one step of your deity's.",
+    "text": "You can heal others with a touch of your hand.",
+    "prerequisites": "Wis 13, Believer’s Boon, must be lawful good, alignment must be within one step of your deity’s.",
     "benefit": "Once per day, you can use the paladin’s lay on hands ability. Your effective paladin level is equal to 1/2 your character level (minimum 1). If you already have (or later gain) the lay on hands ability, you instead gain one extra use of lay on hands each day.",
     "special": "This feat counts as having the lay on hands ability for the purpose of qualifying for feats such as Extra Lay on Hands.<br><br> If you grossly violate the code of conduct required by your deity, your alignment shifts so that it is more than one step away from your deity’s, or you no longer worship your deity, you lose access to this feat. You can regain it once you atone for your misdeeds to your deity (see the <i>atonement <\/i>spell on page 245 of the <i>Core Rulebook<\/i>).",
-    "prerequisiteKeys": ["believer's boon"]
+    "name_zh": "信徒之触",
+    "text_zh": "你可以凭借自己轻轻一触即治愈他人的创伤。",
+    "prerequisites_zh": "感知13，守序善良阵营，信徒之赐，阵营必须与你信仰的神祇阵营相差不超过一阶",
+    "benefit_zh": "每天一次，你可以使用圣武士的圣疗能力。你的有效圣武士等级等同于你认为等级的一半（至少为1）。如果你在此之后获得了圣疗职业能力，那么你每日的圣疗次数增加1次。",
+    "special_zh": "本专长的效果可以被其他增强圣疗能力的效果和专长增强，比如额外圣疗（Extra Lay on Hand）。如果你蓄意违反你神祇的信条，或是你的阵营偏移到超过距离你神祇阵营一阶以上，或是你不再信仰该神祇，你将失去本专长。直到你赎罪为止（见法术赎罪术说明）。"
 }

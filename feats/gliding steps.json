@@ -3,7 +3,7 @@
     "name": "Gliding Steps",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gliding%20Steps",
     "source": ["Ultimate Magic pg. 151"],
-    "description": "You skate across the surface of the earth as if gliding on ice.",
+    "text": "You skate across the surface of the earth as if gliding on ice.",
     "prerequisites": "Dodge, Mobility, Nimble Moves, <i>ki<\/i> pool.",
     "benefit": "If you have at least one <i>ki<\/i> in your <i>ki<\/i> pool, when you move you do not provoke attacks of opportunity when leaving the first square of that movement. You can spend 1 <i>ki<\/i> point to avoid provoking attacks of opportunity during that entire move.",
     "prerequisiteKeys":     [
@@ -12,7 +12,7 @@
         "nimble moves"
     ],
     "name_zh": "凌波微步",
-    "description_zh": "体迅飞凫，飘忽若神，凌波微步，罗袜生尘。",
+    "text_zh": "体迅飞凫，飘忽若神，凌波微步，罗袜生尘。",
     "prerequisites_zh": "闪避，灵活移动，灵狐步，【气运丹田】能力。",
     "benefit_zh": "如果你在气池中至少还留有1点气，你在移动的时候所离开的第一个方格不会引发借机攻击。你可以花费1点气使得整个移动都不引发借机攻击。"
 }

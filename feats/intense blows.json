@@ -7,10 +7,10 @@
         "Combat"
     ],
     "source": ["Armor Master's Handbook pg. 17"],
-    "description": "Your forceful blows and your armor’s weight make you more difficult to hinder in combat.",
+    "text": "Your forceful blows and your armor’s weight make you more difficult to hinder in combat.",
     "prerequisites": "Str 13, Power Attack, base attack bonus +6 or fighter level 4th, armor training class feature, proficiency with heavy armor.",
     "benefit": "When you are using Power Attack, you gain a +1 bonus to your CMD until the beginning of your next turn. When your base attack bonus reaches +4, and every 4 points thereafter, this bonus increases by another 1.",
-    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend 5 stamina points to double this feat’s bonus to your CMD for one combat maneuver check. (See page 17.)",
     "prerequisiteKeys": ["power attack"]
 }

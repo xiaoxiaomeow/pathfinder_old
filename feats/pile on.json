@@ -4,11 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pile%20On",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 20"],
-    "description": "You can keep a foe shuddering in fear.",
+    "text": "You can keep a foe shuddering in fear.",
     "prerequisites": "Str 13, Hurtful, Power Attack.",
     "benefit": "Once per round when you damage a creature that is shaken, frightened, or panicked, you can choose to deal half your normal damage in order to extend the duration of its fear condition by 1 round.",
     "prerequisiteKeys":     [
         "hurtful",
         "power attack"
-    ]
+    ],
+    "name_zh": "自信粉碎",
+    "text_zh": "你可以通过打脸让对手惧栗不能自已。",
+    "prerequisites_zh": "力量13，痛殴，猛力攻击",
+    "benefit_zh": "每轮一次，当你对一个已经处于颤栗，恐慌或惊惧的生物造成伤害时，你可以选择将这次伤害后降低一半，使你的目标额外受到一轮恐惧效果的影响。"
 }

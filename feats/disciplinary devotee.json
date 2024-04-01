@@ -3,7 +3,11 @@
     "name": "Disciplinary Devotee",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disciplinary%20Devotee",
     "source": ["Occult Adventures pg. 129"],
-    "description": "Your careful study of mental magic grants you mastery in your discipline.",
+    "text": "Your careful study of mental magic grants you mastery in your discipline.",
     "prerequisites": "Psychic discipline class feature.",
-    "benefit": "You gain a +1 bonus on caster level checks and concentration checks when casting spells from your psychic discipline, and you gain a +1 insight bonus on saving throws against spells from your discipline."
+    "benefit": "You gain a +1 bonus on caster level checks and concentration checks when casting spells from your psychic discipline, and you gain a +1 insight bonus on saving throws against spells from your discipline.",
+    "name_zh": "境界门徒",
+    "text_zh": "你熟练掌握了精神境界赋予的魔法。",
+    "prerequisites_zh": "精神境界（Psychic Discipline）职业能力",
+    "benefit_zh": "当你施放通过精神境界（Psychic Discipline）获得的法术时，你的施法者等级检定以及专注检定均会获得+1加值；而且当你对抗这些法术时，你的豁免检定能够获得+1洞察加值。"
 }

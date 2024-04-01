@@ -7,13 +7,13 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 92"],
-    "description": "You are an expert at leading your allies into the fray.",
+    "text": "You are an expert at leading your allies into the fray.",
     "prerequisites": "You have at least two other teamwork feats, base attack bonus +10.",
     "benefit": "When an ally with this feat charges a creature that is no further away from you than your speed, you can, as an immediate action, charge that creature. You must be able to follow all of the normal charge rules.",
-    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaSource": "Pathfinder Unchained pg. 115",
     "staminaText": "When an ally with this feat charges a creature, and that creature is farther than your speed but no farther than double your speed, you can spend 5 stamina points to charge that creature. You must still be able to follow all the rules for a charge.",
     "name_zh": "协同冲锋",
-    "description_zh": "你是指引盟友突入战局的专家。",
+    "text_zh": "你是指引盟友突入战局的专家。",
     "prerequisites_zh": "至少两个团队专长，基本攻击加值+10。",
     "benefit_zh": "拥有此专长的盟友对着你单次移动范围内的敌人发起冲锋时，你也可以通过直觉动作冲锋该敌人，但仍须遵守冲锋规则。"
 }

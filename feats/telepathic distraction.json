@@ -3,7 +3,11 @@
     "name": "Telepathic Distraction",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Telepathic%20Distraction",
     "source": ["Monster Codex pg. 200"],
-    "description": "Your mastery of mental communication lets you assault and weaken the minds of your opponents.",
+    "text": "Your mastery of mental communication lets you assault and weaken the minds of your opponents.",
     "prerequisites": "Cha 15, serpentfolk.",
-    "benefit": "As a standard action, you can focus your telepathy on one creature within range to weaken its resistance to mental attacks. The target must succeed at a Will save (DC = 10 + 1/2 your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and take a –2 penalty against mind-affecting effects; the penalty lasts for 1d6 rounds. This is a mind-affecting effect. You can use this ability a number of times per day equal to 1/2 your Hit Dice."
+    "benefit": "As a standard action, you can focus your telepathy on one creature within range to weaken its resistance to mental attacks. The target must succeed at a Will save (DC = 10 + 1/2 your Hit Dice + your Charisma modifier) or take 1d6 points of nonlethal damage and take a –2 penalty against mind-affecting effects; the penalty lasts for 1d6 rounds. This is a mind-affecting effect. You can use this ability a number of times per day equal to 1/2 your Hit Dice.",
+    "name_zh": "干扰式感应",
+    "text_zh": "你对心灵感应的掌握让你可以投射灵能冲击来干扰脆弱的心灵",
+    "prerequisites_zh": "魅力15，蛇人",
+    "benefit_zh": "以一个标准动作，你聚焦你的心灵感应能量对一个处于其范围内的生物心灵发起冲击。这个目标必须通过一个DC=10+你的HD的一半+你的魅力调整值的意志检定，否则会承受1d6点非致命伤害并在对抗影响心灵的效果时承受-2减值。你每日可以使用本能力的次数等同于你的HD的一半。"
 }

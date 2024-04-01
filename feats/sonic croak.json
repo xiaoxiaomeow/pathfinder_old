@@ -3,9 +3,14 @@
     "name": "Sonic Croak",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sonic%20Croak",
     "source": ["Monster Codex pg. 8"],
-    "description": "Your croak creates powerful sound waves that you can direct at fragile targets.",
+    "text": "Your croak creates powerful sound waves that you can direct at fragile targets.",
     "prerequisites": "Throat Pouch, boggard, terrifying croak.",
     "benefit": "When you use your terrifying croak ability, instead of it imparting its normal effect, you can choose to deal 1d4 points of sonic damage to creatures in a 15-foot cone (Fortitude half ). The DC of this Fortitude save is the same as that of your terrifying croak. For every 3 Hit Dice you possess, the damage dealt increases by 1d4.",
     "special": "The Throat Pouch feat increases the size of this feat’s cone by 5 feet for every 6 HD you have, not every 2 HD.",
-    "prerequisiteKeys": ["throat pouch"]
+    "prerequisiteKeys": ["throat pouch"],
+    "name_zh": "蛙鸣噪波",
+    "text_zh": "你的鸣叫足以创造出回荡的音波场，直接削弱你的目标。",
+    "prerequisites_zh": "喉囊，沼蜍人，恐怖蛙鸣",
+    "benefit_zh": "每当你使用恐怖蛙鸣能力时，你可以选择不造成这个能力原本的效果，而是对15尺锥形范围内的生物造成1d4点音波伤害（强韧检定减半），这个能力的豁免DC与你的恐怖蛙鸣豁免DC相同。你每拥有3个HD，这个效果就额外造成1d4点伤害。",
+    "special_zh": "这个专长的效果可以被喉囊专长增加，但只能每6个HD增加5尺而非每2个HD增加5尺。"
 }

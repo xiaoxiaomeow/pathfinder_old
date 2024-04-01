@@ -6,11 +6,11 @@
         "Advanced Race Guide pg. 56",
         "Orcs of Golarion pg. 24"
     ],
-    "description": "Seeing an ally fall in combat fills you with a raging and murderous fury.",
+    "text": "Seeing an ally fall in combat fills you with a raging and murderous fury.",
     "prerequisites": "Half-orc or orc, nonlawful.",
     "benefit": "Whenever one of your allies is reduced to negative hit points or killed, you may enter a state similar to but less powerful than a barbarian’s rage as a free action on your next turn. If you have the rage class feature and are already raging, your morale bonuses to Strength and Constitution increase by +2 for the duration of your rage. If you do not have the rage class feature, or you have no more rage rounds left, this weaker rage gives you all the benefits and penalties of a barbarian’s rage, except your morale bonus to Strength and Constitution is only +2. In either case, this state lasts for 4 rounds.<br><br> As with a barbarian’s rage, when this weaker rage ends, you are fatigued; if another ally falls before this duration ends, the weaker rage lasts for an additional 4 rounds. This feat does not allow you to enter a rage if you are fatigued. You may only use this feat if the fallen ally had at least as many Hit Dice as you (excluding conjured or summoned allies).",
     "name_zh": "血腥复仇",
-    "description_zh": "盟友的倒下激起了你的狂暴并使你变得残忍愤怒。",
+    "text_zh": "盟友的倒下激起了你的狂暴并使你变得残忍愤怒。",
     "prerequisites_zh": "半兽人或兽人，非秩序阵营。",
     "benefit_zh": "每当你的盟友HP降低至负值或被杀害时，你能够在下一轮以自由动作进入类似于野蛮人【狂暴】职业特性的状态，但是这状态并没有那么强力。如果你拥有【狂暴】职业特性并且已经处于狂暴状态，那么在狂暴中你的力量以及体质额外获得+2士气加值。如果你没有【狂暴】职业特性、或者你当日已经用光狂暴轮数，这种弱效狂暴会给予你所有野蛮人狂暴带来的优势以及劣势，不过你的力量以及体质只会获得+2士气加值。无论何种情况，该状态只持续4轮。<\/p><p>如同野蛮人的狂暴一样，当这种弱效狂暴结束时，你会疲乏；如果在该效果结束之前有其他盟友被击败，弱效狂暴会额外持续4轮。该专长不会允许你在疲乏状态下进入狂暴。只有被击败的盟友拥有至少与你相同的HD时你才能使用该专长（不包含被魔法召唤的盟友）。"
 }

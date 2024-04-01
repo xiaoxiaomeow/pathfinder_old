@@ -3,9 +3,14 @@
     "name": "Evolved Summoned Monster",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Evolved%20Summoned%20Monster",
     "source": ["Advanced Class Guide pg. 146"],
-    "description": "The creatures you summon have evolved to have even greater abilities.",
+    "text": "The creatures you summon have evolved to have even greater abilities.",
     "prerequisites": "Augmented Summoning, Spell Focus (conjuration), ability to cast <i>summon monster I<\/i>.",
     "benefit": "Each time you cast a <i>summon monster<\/i> spell, you can select a 1-point evolution other than pounce or reach from those available to a summoner’s eidolon. Your summoned creature gains this evolution. The summoned creature must conform to any limitations of the evolution. (For instance, only a creature with a reach of 10 feet or more can have the pull evolution.) Evolutions that grant additional attacks or enhance existing attacks can be applied only to Medium or larger summoned creatures.<br><br> If you summon more than one creature with a single spell, only one creature gains this evolution.",
     "special": "You can take this feat multiple times. Each time you do, select an additional 1–point evolution for one of your summoned creatures. If you summon more than one creature, you can choose to apply all the evolutions to a single summoned creature, or split them between the creatures summoned.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "召唤生物进化",
+    "text_zh": "你召来的生物进化出了更强的能力。",
+    "prerequisites_zh": "增强召唤，法术专攻（咒法系），可以施放法术一级召唤怪物",
+    "benefit_zh": "选择一个召唤师幻灵可以使用的除猛扑和触及之外的I型进化形态（Evolution），你通过召唤怪物法术召来的生物获得此进化。获得此进化的动物伙伴必须满足获得此进化的必要条件和限制，比如，只有10尺或更远触及的生物才能获得拖拽（Pull）进化。只有中体型或更大体型的生物才能获得增加额外攻击能力或者增强已有攻击能力的进化。",
+    "special_zh": "你可以多次选择本专长，每次选择，召唤的生物都可以获得一项新的I型进化形态。如果你的召唤怪物法术一次可以召唤多只怪物，那么你可以选择将所有的进化都集中于一个生物，或者将点数分配给多个生物。"
 }

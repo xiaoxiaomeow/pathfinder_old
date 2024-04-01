@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brisk%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Magic Tactics Toolbox pg. 5"],
-    "description": "Your movement spells make allies swifter than normal.",
+    "text": "Your movement spells make allies swifter than normal.",
     "prerequisites": "Dex 13+.",
     "benefit": "You can alter spells that grant a creature a movement type it doesn’t normally have to increase the speed for that movement type by 10 feet. A brisk spell uses a spell slot equal to the spell’s normal spell level."
 }

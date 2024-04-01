@@ -3,11 +3,11 @@
     "name": "Splintering Weapon",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Splintering%20Weapon",
     "source": ["Ultimate Combat pg. 120"],
-    "description": "Your fragile weapon works to your advantage, breaking off fragments in wounds you inflict.",
+    "text": "Your fragile weapon works to your advantage, breaking off fragments in wounds you inflict.",
     "prerequisites": "Base attack bonus +1, proficient with weapon, weapon made of primitive material.",
     "benefit": "Whenever you use a melee or thrown weapon with the fragile weapon feature (page 146) or similar quality and hit an opponent, you can give your weapon the broken condition to deal that opponent 1d4 points of bleed damage.",
     "name_zh": "爆碎武器",
-    "description_zh": "你手中脆弱武器的碎片插进了对方的伤口中，使你取得优势。",
+    "text_zh": "你手中脆弱武器的碎片插进了对方的伤口中，使你取得优势。",
     "prerequisites_zh": "基本攻击加值+1，熟悉对应武器，该武器以原始材料打造。",
     "benefit_zh": "当你使用带有〔易碎〕特性或类似效果的近战或投掷武器命中对手时，你能让武器破损、同时给对手造成1d4出血伤害。"
 }

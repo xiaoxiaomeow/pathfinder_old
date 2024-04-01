@@ -3,12 +3,12 @@
     "name": "Sunlight Summons",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sunlight%20Summons",
     "source": ["Ultimate Magic pg. 157"],
-    "description": "Your summoned minions shine with the power of the sun. ",
-    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature's ally<\/i>.",
+    "text": "Your summoned minions shine with the power of the sun. ",
+    "prerequisites": "Spell Focus (conjuration), able to cast <i>summon nature’s ally<\/i>.",
     "benefit": "Creatures that you summon shed light as a <i>light <\/i>spell. They are immune to blinding or dazzling effects, and their natural weapons are treated as magical for overcoming damage reduction.",
     "prerequisiteKeys": ["spell focus"],
     "name_zh": "日光召唤",
-    "description_zh": "你所召唤的生物闪耀着太阳的光辉。",
+    "text_zh": "你所召唤的生物闪耀着太阳的光辉。",
     "prerequisites_zh": "法术专攻（咒法），能够施展‘召唤自然盟友’。",
     "benefit_zh": "你所召唤的生物如同被施展了‘光亮术’一般散发着光芒。他们免疫目盲和目眩效果，并且他们的天生武器在克服伤害减免时视为魔法武器。"
 }

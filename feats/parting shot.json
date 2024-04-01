@@ -7,12 +7,12 @@
         "Advanced Player's Guide pg. 166",
         "Pathfinder Campaign Setting pg. 112"
     ],
-    "description": "You are an expert skirmisher, able to rain missiles upon your enemies whether advancing or retreating.",
+    "text": "You are an expert skirmisher, able to rain missiles upon your enemies whether advancing or retreating.",
     "prerequisites": "Dex 13, Dodge, Mobility, Point-Blank Shot, Shot on the Run, base attack bonus +6.",
     "benefit": "Once per encounter, when using the withdraw action, you can make a single ranged attack at any point during your movement.",
     "normal": "You cannot attack when using the withdraw action.",
     "special": "Starting at 6th level, a ranger with the archery combat style may select Parting Shot as a combat style feat.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "You can spend 2 stamina points to use this feat’s benef it a second time during a single encounter. You can use this combat trick only once per encounter, so you still can’t make more than two Parting Shot attacks total in one encounter.",
     "prerequisiteKeys":     [
         "dodge",
@@ -21,8 +21,9 @@
         "shot on the run"
     ],
     "name_zh": "牵制射击",
-    "description_zh": "你是散兵中的能手，无论是在前进还是撤退中都可以将箭雨洒向敌人。",
+    "text_zh": "你是散兵中的能手，无论是在前进还是撤退中都可以将箭雨洒向敌人。",
     "prerequisites_zh": "敏捷13，闪避，灵活移动，近距射击，移动射击，基本攻击加值+6。",
-    "benefit_zh": "每次遭遇1次，当你使用撤退动作时，你能够在移动中的任意一点进行单次远程攻击。<\/p><p>通常状况：你无法在撤退动作中进行攻击。",
+    "benefit_zh": "每次遭遇1次，当你使用撤退动作时，你能够在移动中的任意一点进行单次远程攻击。",
+    "normal_zh": "你无法在撤退动作中进行攻击。",
     "special_zh": "从6级起，选择【箭术战斗流派】的游侠能够将“牵制射击”作为战斗流派专长进行选取。"
 }

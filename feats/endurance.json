@@ -3,14 +3,15 @@
     "name": "Endurance",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Endurance",
     "source": ["PRPG Core Rulebook pg. 122"],
-    "description": "Harsh conditions or long exertions do not easily tire you.",
+    "text": "Harsh conditions or long exertions do not easily tire you.",
     "benefit": "You gain a +4 bonus on the following checks and saves: Swim checks made to resist nonlethal damage from exhaustion; Constitution checks made to continue running; Constitution checks made to avoid nonlethal damage from a forced march; Constitution checks made to hold your breath; Constitution checks made to avoid nonlethal damage from starvation or thirst; Fortitude saves made to avoid nonlethal damage from hot or cold environments; and Fortitude saves made to resist damage from suffocation.<br><br>You may sleep in light or medium armor without becoming fatigued.",
     "normal": "A character without this feat who sleeps in medium or heavier armor is fatigued the next day.",
-    "mythicSource": ["Mythic Adventures pg. 65"],
-    "mythicDescription": "Your endurance is truly beyond the pale.",
-    "mythicPrerequisites": "Endurance.<br><br",
+    "mythicSource": "Mythic Adventures pg. 65",
+    "mythicText": "Your endurance is truly beyond the pale.",
+    "mythicPrerequisites": "Endurance.",
     "mythicBenefit": "The bonus on checks and saves from Endurance increases by half your tier. You take half the damage when you fail a check to avoid nonlethal damage from a forced march, starvation and thirst, hot or cold environments, or slow suffocation.<br><br> You can sleep in heavy armor without becoming fatigued.",
     "name_zh": "坚忍",
-    "description_zh": "严酷的环境或者长时间的竭尽全力不会轻易令你陷入疲劳。",
-    "benefit_zh": "本专长可使以下检定获得+4加值：游泳时疲劳造成非致命伤害的技能检定、持续跑步时的体质检定、强行军造成非致命伤害的体质检定、憋气时的体质检定、饥饿或口渴造成非致命伤害的体质检定、冷热环境造成非致命伤害的强韧检定、窒息造成非致命伤害的强韧检定。此外，拥有本项专长者穿着轻型或中型盔甲睡觉也不会陷入疲乏状态。<\/p><p>通常状况：没有本专长者若穿着中型以上的盔甲睡觉，隔天将自动陷入疲乏状态。"
+    "text_zh": "严酷的环境或者长时间的竭尽全力不会轻易令你陷入疲劳。",
+    "benefit_zh": "本专长可使以下检定获得+4加值：游泳时疲劳造成非致命伤害的技能检定、持续跑步时的体质检定、强行军造成非致命伤害的体质检定、憋气时的体质检定、饥饿或口渴造成非致命伤害的体质检定、冷热环境造成非致命伤害的强韧检定、窒息造成非致命伤害的强韧检定。此外，拥有本项专长者穿着轻型或中型盔甲睡觉也不会陷入疲乏状态。",
+    "normal_zh": "没有本专长者若穿着中型以上的盔甲睡觉，隔天将自动陷入疲乏状态。"
 }

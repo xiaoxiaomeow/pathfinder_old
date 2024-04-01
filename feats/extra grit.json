@@ -4,14 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Grit",
     "descriptors": ["Grit"],
     "source": ["Ultimate Combat pg. 100"],
-    "description": "You have more grit than the ordinary gunslinger.",
+    "text": "You have more grit than the ordinary gunslinger.",
     "prerequisites": "Grit class feature or the Amateur Gunslinger feat.",
     "benefit": "You gain 2 extra grit points at the start of each day, and your maximum grit increases by 2.",
     "normal": "If you are a gunslinger, you gain your Wisdom modifier in grit points at the start of each day, which is also your maximum grit. If you have the Amateur Gunslinger feat, you gain 1 grit point at the start of each day, and your maximum grit is equal to your Wisdom modifier.",
     "special": "If you possess levels in the gunslinger class, you can take this feat multiple times.",
     "name_zh": "额外勇毅",
-    "description_zh": "你比一般的铳士更为勇毅。",
+    "text_zh": "你比一般的铳士更为勇毅。",
     "prerequisites_zh": "【勇毅】职业特性或业余铳士专长。",
-    "benefit_zh": "你每天获得2点额外勇毅点，你的勇毅点上限增加2点。<\/p><p>通常状况：如果你是一个铳士，你每天获得等同你感知调整值的勇毅点，同时这也是你的勇毅点上限值。如果你拥有“业余铳士”专长，你每天获得1点勇毅点，而你的勇毅点上限等于你的感知调整值。",
+    "benefit_zh": "你每天获得2点额外勇毅点，你的勇毅点上限增加2点。",
+    "normal_zh": "如果你是一个铳士，你每天获得等同你感知调整值的勇毅点，同时这也是你的勇毅点上限值。如果你拥有“业余铳士”专长，你每天获得1点勇毅点，而你的勇毅点上限等于你的感知调整值。",
     "special_zh": "如果你拥有铳士职业等级，你可以选择这个专长多次。"
 }

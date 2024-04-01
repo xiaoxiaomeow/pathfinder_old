@@ -3,12 +3,9 @@
     "name": "Stylized Spell Mastery",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stylized%20Spell%20Mastery",
     "source": ["Inner Sea Intrigue pg. 16"],
-    "description": "You have altered your understanding of a select number of spells",
-    "prerequisites": "Spell Mastery, Stylized Spell, Bluff 5 ranks, Spellcraft 5 ranks.",
+    "text": "You have altered your understanding of a select number of spells",
+    "prerequisites": "Spell Mastery, Stylized Spell<sup>UI<\/sup>, Bluff 5 ranks, Spellcraft 5 ranks.",
     "benefit": "You do not modify the spell slot used when applying the Stylized Spell metamagic feat to any spell you have mastered with Spell Mastery.",
     "normal": "A stylized spell uses up a spell slot 1 higher than the spell’s actual level.",
-    "prerequisiteKeys":     [
-        "spell mastery",
-        "stylized spell"
-    ]
+    "prerequisiteKeys": ["spell mastery"]
 }

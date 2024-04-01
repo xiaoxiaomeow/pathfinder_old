@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gnome%20Weapon%20Focus",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 37"],
-    "description": "Your extensive training with traditional gnome weapons gives you an advantage.",
+    "text": "Your extensive training with traditional gnome weapons gives you an advantage.",
     "prerequisites": "Base attack bonus +1, gnome, proficient with all martial weapons.",
     "benefit": "You gain a +1 bonus on attack rolls with gnome weapons (weapons with \"gnome\" in the title).",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "When you make a successful attack with a gnome weapon against an opponent that is at least one size category larger than you, you can spend up to 5 stamina points. If you do, you gain a bonus on the damage roll equal to double the number of stamina points you spent.",
     "name_zh": "侏儒武器专攻",
-    "description_zh": "你对传统侏儒武器进行的延伸训练给予你优势。",
+    "text_zh": "你对传统侏儒武器进行的延伸训练给予你优势。",
     "prerequisites_zh": "基本攻击加值+1，侏儒，擅长所有军用武器。",
     "benefit_zh": "在使用侏儒武器（任何冠以“侏儒”之名的武器）时，你的攻击检定获得+1加值。"
 }

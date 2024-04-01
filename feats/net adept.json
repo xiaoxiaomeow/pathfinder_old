@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Adept",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 111"],
-    "description": "You have trained to use the net as a melee weapon.",
+    "text": "You have trained to use the net as a melee weapon.",
     "prerequisites": "Exotic Weapon Proficiency (net), base attack bonus +1.",
     "benefit": "You can treat a net as a one-handed melee reach weapon with a 10-foot reach. Further, you take no penalty on melee attack rolls for using an unfolded net, and you can use one full-round action or two move actions to fold a net.",
     "normal": "A net is a ranged weapon that imposes a –4 penalty on ranged attack rolls if it is unfolded. Folding a net takes a proficient user 2 rounds.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "You can spend 2 stamina points to fold a net as a standard action.",
     "prerequisiteKeys": ["exotic weapon proficiency"],
     "name_zh": "捕网熟练",
-    "description_zh": "你受过训练，能将网作为近战武器使用。",
+    "text_zh": "你受过训练，能将网作为近战武器使用。",
     "prerequisites_zh": "擅长异种武器（网），基本攻击加值+1。",
-    "benefit_zh": "你可以把网作为一个触及范围10尺的单手近战长武器使用。此外，你在使用一张没有摺叠的网时不会有攻击检定罚值。另外，你可以用整轮动作或两次移动动作将网摺叠起来。<\/p><p>通常状况：网只能作为远程武器，并在没有摺叠的时候进行远程攻击有-4罚值。擅长网的使用者将其摺叠起来需要两个整轮动作。"
+    "benefit_zh": "你可以把网作为一个触及范围10尺的单手近战长武器使用。此外，你在使用一张没有摺叠的网时不会有攻击检定罚值。另外，你可以用整轮动作或两次移动动作将网摺叠起来。",
+    "normal_zh": "网只能作为远程武器，并在没有摺叠的时候进行远程攻击有-4罚值。擅长网的使用者将其摺叠起来需要两个整轮动作。"
 }

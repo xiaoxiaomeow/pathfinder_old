@@ -3,8 +3,12 @@
     "name": "Aquatic Advantage",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aquatic%20Advantage",
     "source": ["Monster Codex pg. 188"],
-    "description": "Foes without a swim speed provoke attacks of opportunity from you underwater.",
+    "text": "Foes without a swim speed provoke attacks of opportunity from you underwater.",
     "prerequisites": "Combat Reflexes, must have a natural swim speed.",
     "benefit": "A creature that lacks a swim speed provokes an attack of opportunity from you when it attacks you underwater. You don’t get an attack of opportunity if the attacker is under the effects of <i>freedom of movement<\/i>.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys": ["combat reflexes"],
+    "name_zh": "水战高手",
+    "text_zh": "不识水性的对手和你在水里打斗时十分被动。",
+    "prerequisites_zh": "战斗反射，必须拥有天然的游泳速度",
+    "benefit_zh": "一个没有游泳速度的对手在水中对你发动攻击时会引发你的借机攻击。如果该生物拥有法术行动自如的好处，那么他则不会因此触发借机攻击。"
 }

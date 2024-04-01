@@ -3,11 +3,11 @@
     "name": "Disruptive Recall",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disruptive%20Recall",
     "source": ["Ultimate Combat pg. 97"],
-    "description": "You can disrupt an enemy caster’s spells to fuel your own arcane power.",
+    "text": "You can disrupt an enemy caster’s spells to fuel your own arcane power.",
     "prerequisites": "Spell recall class feature, Spellcraft 5 ranks.",
     "benefit": "When you use a melee attack to successfully disrupt an arcane spellcaster’s spell, you can immediately use your spell recall class feature to regain a magus spell you have already cast. This ability functions as if you had expended a number of points from your arcane pool equal to the level of the spell you disrupted, up to the maximum level spell you can cast.",
     "name_zh": "扰法唤回",
-    "description_zh": "你打断敌方施法者的法术，将四散的魔法能量收归己用。",
+    "text_zh": "你打断敌方施法者的法术，将四散的魔法能量收归己用。",
     "prerequisites_zh": "【法术唤回】职业特性，法术辨识5级。",
     "benefit_zh": "当你使用一次近战攻击成功的打断了一名奥术施法者的法术，你可以立刻使用你的【法术唤回】能力重置一个你已经施放过的魔战士法术。这次【法术唤回】能力如同你使用了相当于被打断的法术等级的奥能点数，最大为你能施放的最高级法术。"
 }

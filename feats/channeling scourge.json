@@ -3,11 +3,11 @@
     "name": "Channeling Scourge",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Channeling%20Scourge",
     "source": ["Ultimate Combat pg. 92"],
-    "description": "Your zeal for hunting your faith’s enemies empowers your ability to channel divine energy, as long as you channel that energy for harm.",
+    "text": "Your zeal for hunting your faith’s enemies empowers your ability to channel divine energy, as long as you channel that energy for harm.",
     "prerequisites": "Channel energy class feature, inquisitor level 1st.",
     "benefit": "When you use channel energy to deal damage, your inquisitor levels count as cleric levels for determining the number of damage dice and the saving throw DC.",
     "name_zh": "惩责导能",
-    "description_zh": "你在追猎你的信仰之敌时怀着如此之高的热情，以至于你的引导能量能力在造成伤害时变得更加强大。",
+    "text_zh": "你在追猎你的信仰之敌时怀着如此之高的热情，以至于你的引导能量能力在造成伤害时变得更加强大。",
     "prerequisites_zh": "【引导能量】职业特性，审判者1级。",
     "benefit_zh": "当你使用【引导能量】职业特性造成伤害时，你的审判者职业等级与你的牧师职业等级在决定伤害和豁免DC时将会加算。"
 }

@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Claws",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 168"],
-    "description": "Your claw attacks do greater harm to your enemy.",
+    "text": "Your claw attacks do greater harm to your enemy.",
     "prerequisites": "Str 13, two claw natural weapon attacks, base attack bonus +6.",
     "benefit": "If you hit a creature with two claw attacks in the same turn, the second claw attack deals an additional 1d6 points of damage. This damage is precision damage and is not multiplied on a critical hit. You can use this feat once per round.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When you make two claw attacks but hit with only one, you can spend 5 stamina points to deal the precision damage granted by this feat anyway.",
     "name_zh": "撕扯之爪",
-    "description_zh": "你的利爪攻击能够对敌人造成更高的伤害。",
+    "text_zh": "你的利爪攻击能够对敌人造成更高的伤害。",
     "prerequisites_zh": "力量13，拥有2爪抓天生武器，基本攻击加值+6。",
     "benefit_zh": "如果你在同一轮内成功使用2爪抓命中一名生物，第二次爪抓攻击会额外造成1d6点伤害。这个伤害是精准伤害，不会受到重击的影响。每轮你只能使用该专长1次。"
 }

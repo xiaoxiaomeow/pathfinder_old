@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rending%20Fury",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 116"],
-    "description": "You easily tear your enemies limb from limb with your natural attacks.",
+    "text": "You easily tear your enemies limb from limb with your natural attacks.",
     "prerequisites": "Base attack bonus +6, rend special attack.",
     "benefit": "You deal rend damage if you hit with half the normal natural attacks your rend requires. For example, a troll that has this feat can rend when it hits with one claw attack, while a girallon that has this feat must hit one target with two claw attacks to rend. You can only make this rend attack once per round.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When you make a rend attack, you can spend up to 5 stamina points to deal an amount of additional damage equal to double the number of stamina points you spent.",
     "name_zh": "疯狂撕扯",
-    "description_zh": "你轻易地用天生武器撕裂对方的肢体。",
+    "text_zh": "你轻易地用天生武器撕裂对方的肢体。",
     "prerequisites_zh": "基本攻击加值+6，＜撕扯＞特殊攻击。",
     "benefit_zh": "你能在一半天生武器击中对手时造成撕扯伤害。举例而言，一只有此专长的巨魔可以在1次爪抓击中时发动撕扯，而一只有此专长的四臂猩猩则要2次成功爪抓击中后才能发动撕扯。你每轮只能造成一次撕扯伤害。"
 }

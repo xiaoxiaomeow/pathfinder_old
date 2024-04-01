@@ -3,12 +3,13 @@
     "name": "Sharp Senses",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sharp%20Senses",
     "source": ["Advanced Player's Guide pg. 169"],
-    "description": "Your senses are especially sharp, even for your kind.",
+    "text": "Your senses are especially sharp, even for your kind.",
     "prerequisites": "Keen senses racial trait.",
     "benefit": "You receive a +4 racial bonus on Perception skill checks. This replaces the normal bonus from the keen senses racial trait.",
     "normal": "The keen senses trait normally grants a +2 racial bonus on Perception skill checks.",
     "name_zh": "精确感官",
-    "description_zh": "即使与你的同族相比，你的感官都更为敏锐。",
+    "text_zh": "即使与你的同族相比，你的感官都更为敏锐。",
     "prerequisites_zh": "【敏锐感官】种族特性。",
-    "benefit_zh": "你的察觉检定获得+4种族加值。这取代了【敏锐感官】特性的正常加值。<\/p><p>通常状况：正常情况下，【敏锐感官】种族特性会使察觉检定获得+2种族加值。"
+    "benefit_zh": "你的察觉检定获得+4种族加值。这取代了【敏锐感官】特性的正常加值。",
+    "normal_zh": "正常情况下，【敏锐感官】种族特性会使察觉检定获得+2种族加值。"
 }

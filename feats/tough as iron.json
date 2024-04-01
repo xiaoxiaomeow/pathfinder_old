@@ -3,8 +3,12 @@
     "name": "Tough as Iron",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tough%20as%20Iron",
     "source": ["Monster Codex pg. 44"],
-    "description": "Effects that grant natural armor work even better for you.",
+    "text": "Effects that grant natural armor work even better for you.",
     "prerequisites": "Toughness, duergar.",
     "benefit": "When you gain an enhancement bonus to your natural armor, that bonus increases by 2. This has no effect if your natural armor bonus is +0 or you do not have an enhancement bonus increasing your natural armor bonus.",
-    "prerequisiteKeys": ["toughness"]
+    "prerequisiteKeys": ["toughness"],
+    "name_zh": "铁之身",
+    "text_zh": "你拥有的天然防护力极为强悍。",
+    "prerequisites_zh": "灰矮人，健壮",
+    "benefit_zh": "当你在防御等级的天生护甲上获得增强加值时，这些加值额外+2。如果你的天生护甲为+0或是没有任何增强加值的话，本专长无效。"
 }

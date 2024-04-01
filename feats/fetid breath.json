@@ -3,8 +3,12 @@
     "name": "Fetid Breath",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Fetid%20Breath",
     "source": ["Monster Codex pg. 152"],
-    "description": "The rotting of your flesh has spread to your lungs and fills them with putrid fluids.",
+    "text": "The rotting of your flesh has spread to your lungs and fills them with putrid fluids.",
     "prerequisites": "Con 15, Corrupted Flesh, 6 HD, ogre.",
     "benefit": "You can exhale a 30-foot cone of vile-smelling, moist air mixed with phlegm and remnants of old meals. Creatures in the area must succeed at a Fortitude save (DC = 10 + 1/2 your Hit Dice + your Constitution modifier) or they are nauseated for 1d6 minutes. Affected creatures that spend a full-round action gasping for fresh air and scraping off your oral debris may attempt another save to overcome the effect. You can use this breath weapon twice per day, plus one additional time per day for every 6 HD you possess beyond 6.",
-    "prerequisiteKeys": ["corrupted flesh"]
+    "prerequisiteKeys": ["corrupted flesh"],
+    "name_zh": "腐败呼吸",
+    "text_zh": "你从肺里翻出来深深的一口气，让周围充满了令人窒息的恶臭。",
+    "prerequisites_zh": "体质15，6HD，食人魔，腐烂神",
+    "benefit_zh": "你可以喷出30尺锥形的刺鼻气体——混杂着你自身的烂疮与胃里没消化完全的食物形成的杀伤性口臭。然后处于喷吐范围内的生物都必须通过一个DC=（10+1/2你的HD+你的体质调整值）的强韧检定否则将陷入反胃状态1d6轮。被影响的生物可以以一个整轮动作尝试躲开你的口臭，并尝试吸入新鲜空气来进行一个新的豁免检定。你每日可以使用本能力两次，并且在HD每比6高额外6点时再获得一次每日的额外使用机会。"
 }

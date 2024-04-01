@@ -3,7 +3,7 @@
     "name": "Greater Dispel Focus",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Dispel%20Focus",
     "source": ["Monster Summoner's Handbook pg. 9"],
-    "description": "You are a master of the art of dispelling.",
+    "text": "You are a master of the art of dispelling.",
     "prerequisites": "Dispel Focus, ability to cast <i>dispel magic<\/i>.",
     "benefit": "Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check. This stacks with the bonus from Dispel Focus.",
     "prerequisiteKeys": ["dispel focus"]

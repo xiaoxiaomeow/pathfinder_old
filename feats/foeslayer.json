@@ -7,7 +7,15 @@
         "Quests and Campaigns pg. 10",
         "Ultimate Campaign pg. 69"
     ],
-    "description": "Your feud with your enemies can be quenched only with blood.",
-    "prerequisites": "You must have been defeated and robbed of at least half your possessions by a particular group of humanoids or monstrous humanoids, or have the An Eye for an Eye, Hated Foe, Raiders, or Vengeance background (see <i>Ultimate Campaign<\/i>). You may choose a specific race, such as duergar, or a broader group, such as goblinoids. At the GM's discretion, you may instead choose residents of a particular country, settlement, or tribe.",
-    "benefit": "The save DCs for any of your spells or abilities increase by 1 when used against the chosen group, and you receive a +1 dodge bonus to AC against their attacks."
+    "text": "Your feud with your enemies can be quenched only with blood.",
+    "prerequisites": "You must have been defeated and robbed of at least half your possessions by a particular group of humanoids or monstrous humanoids, or have the An Eye for an Eye, Hated Foe, Raiders, or Vengeance background (see <i>Ultimate Campaign<\/i>). You may choose a specific race, such as duergar, or a broader group, such as goblinoids. At the GM’s discretion, you may instead choose residents of a particular country, settlement, or tribe.",
+    "benefit": "The save DCs for any of your spells or abilities increase by 1 when used against the chosen group, and you receive a +1 dodge bonus to AC against their attacks.",
+    "goal": "Slay an appropriate number of challenging foes.",
+    "completionBenefit": "You gain the benefits of the Improved Critical feat on attacks made against members of your chosen race. Your dodge bonus to AC against such foes increases to +2. ",
+    "name_zh": "复仇化身",
+    "text_zh": "你和仇敌之间的苦涩斗争只能以鲜血来终结。",
+    "prerequisites_zh": "你必须曾被一群特定的类人生物或人形怪物打败并被劫夺半数以上的财产；或拥有“以眼还眼（An Eye for an Eye）”、“不共戴天（Hated Foe）”、“惨遭劫掠（Raiders）”、“绝命复仇（Vengeance）”等角色背景之一。",
+    "benefit_zh": "你施放用以对抗特定团体敌人的法术豁免DC+1，同时你对他们的闪避AC+1。",
+    "goal_zh": "击杀适当数量的强大敌手。",
+    "completionBenefit_zh": "你对特定种族的敌人攻击时视为拥有“精通重击”专长。你对此类敌人的闪避AC+2。"
 }

@@ -3,13 +3,13 @@
     "name": "Great Fortitude",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Fortitude",
     "source": ["PRPG Core Rulebook pg. 124"],
-    "description": "You are resistant to poisons, diseases, and other maladies.",
+    "text": "You are resistant to poisons, diseases, and other maladies.",
     "benefit": "You get a +2 bonus on all Fortitude saving throws.",
-    "mythicSource": ["Mythic Adventures pg. 66"],
-    "mythicDescription": "Your fortitude is unmatched.",
-    "mythicPrerequisites": "Great Fortitude.<br><br",
+    "mythicSource": "Mythic Adventures pg. 66",
+    "mythicText": "Your fortitude is unmatched.",
+    "mythicPrerequisites": "Great Fortitude.",
     "mythicBenefit": "Whenever you roll a Fortitude saving throw against a spell, spell-like ability, or supernatural ability from a non-mythic source, roll twice and take the higher result.",
     "name_zh": "强韧加强",
-    "description_zh": "你对毒素、疾病和其他不适有抗性。",
+    "text_zh": "你对毒素、疾病和其他不适有抗性。",
     "benefit_zh": "所有强韧豁免检定获得+2加值。"
 }

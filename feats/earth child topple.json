@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Earth%20Child%20Topple",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 99"],
-    "description": "Your mastery of balance and momentum allows you to bring down giants with your bare hands.",
+    "text": "Your mastery of balance and momentum allows you to bring down giants with your bare hands.",
     "prerequisites": "Wis 13, dwarf or gnome, defensive training racial trait, Earth Child Style, Improved Trip, Improved Unarmed Strike, Acrobatics 6 ranks.",
     "benefit": "You can trip a creature of the giant subtype of up to Huge size. While using Earth Child Style, you add your Wisdom bonus on combat maneuver checks made to trip a creature of the giant subtype, as well as on attack rolls to confirm a critical hit against such a creature. ",
     "normal": "You can trip only those opponents that are one size category larger than you.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When you trip a creature with the giant subtype, you can spend 3 stamina points to cause the creature to also take 2d6 points of falling damage.",
     "prerequisiteKeys":     [
         "earth child style",
@@ -16,7 +16,8 @@
         "improved unarmed strike"
     ],
     "name_zh": "四两拨千斤",
-    "description_zh": "你对平衡与动量的掌握允许你空手摞倒巨人。",
+    "text_zh": "你对平衡与动量的掌握允许你空手摞倒巨人。",
     "prerequisites_zh": "感知13，以小搏大，精通绊摔，特技6级。",
-    "benefit_zh": "你可以对巨人亚种生物进行绊摔（体型不超过超大型）。当你使用地堂流派架势时，你在对抗巨人亚种生物的重击确认骰与绊摔CMB上加上你的感知修正。<\/p><p>通常状况：你不能摔绊比自己体型大一级以上的生物。"
+    "benefit_zh": "你可以对巨人亚种生物进行绊摔（体型不超过超大型）。当你使用地堂流派架势时，你在对抗巨人亚种生物的重击确认骰与绊摔CMB上加上你的感知修正。",
+    "normal_zh": "你不能摔绊比自己体型大一级以上的生物。"
 }

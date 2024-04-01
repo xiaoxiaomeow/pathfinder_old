@@ -3,7 +3,7 @@
     "name": "Bestow Luck",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bestow%20Luck",
     "source": ["Advanced Race Guide pg. 76"],
-    "description": "You are extremely lucky and sometimes your allies are as well.",
+    "text": "You are extremely lucky and sometimes your allies are as well.",
     "prerequisites": "Defiant Luck, Inexplicable Luck, human.",
     "benefit": "You gain an extra use per day of your Defiant Luck ability. You can also use your Inexplicable Luck ability to grant an ally that can see and hear its benefit as an immediate action.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "inexplicable luck"
     ],
     "name_zh": "幸运赠礼",
-    "description_zh": "你非常幸运，有时候你的盟友也受到你好运的影响。",
+    "text_zh": "你非常幸运，有时候你的盟友也受到你好运的影响。",
     "prerequisites_zh": "挑战机运，莫名好运，人类。",
     "benefit_zh": "你每天可以额外使用1次“挑战机运”。另外你能以一个直觉动作使一个你能看到并听到的盟友获得“莫名好运”的好处。"
 }

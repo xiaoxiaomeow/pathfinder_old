@@ -7,13 +7,13 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 90"],
-    "description": "You feign weakness, making yourself a tempting and distracting target. ",
+    "text": "You feign weakness, making yourself a tempting and distracting target. ",
     "prerequisites": "Bluff 5 ranks.",
     "benefit": "Whenever you make a melee attack and hit your opponent, you can use a free action to grant that opponent a +2 bonus on attack and damage rolls against you until the end of your next turn or until your opponent attacks you, whichever happens first. If that opponent attacks you with this bonus, it provokes attacks of opportunity from your allies who have this feat.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When an opponent with the +2 bonus on attack rolls granted by this feat attacks you, you can spend 5 stamina points to have that attack provoke an attack of opportunity from you also.",
     "name_zh": "弃兵断翼",
-    "description_zh": "你假装虚弱，让自己成为诱人且让人分心的目标。",
+    "text_zh": "你假装虚弱，让自己成为诱人且让人分心的目标。",
     "prerequisites_zh": "唬骗5级。",
     "benefit_zh": "当你以近战攻击命中敌人时，你可以通过一个自由动作使该敌人对你的命中和伤害得到+2的加值，此加值持续到你的下一回合结束、或是该敌人对你进行攻击，以先发生者为准。一旦敌人以此加值发起攻击，拥有此专长的盟友就可以对该敌人发起借机攻击。"
 }

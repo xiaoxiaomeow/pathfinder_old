@@ -3,7 +3,7 @@
     "name": "Swarm Dodger",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Swarm%20Dodger",
     "source": ["Osirion, Land of the Pharaohs pg. 29"],
-    "description": "You have learned tricks to avoid being engulfed by the swarms of crawling horrors that frequently inhabit Osirion’s lost tombs and desolate wastes.",
+    "text": "You have learned tricks to avoid being engulfed by the swarms of crawling horrors that frequently inhabit Osirion’s lost tombs and desolate wastes.",
     "prerequisites": "Dex 15, evasion.",
     "benefit": "When a swarm attacks you by ending its turn in your space, you may attempt a Reflex save to avoid damage (DC equal to the swarm’s distraction save DC + 10). If the save succeeds, you also avoid any poison, blood drain, or similar effects that normally result from damage by the swarm. If you have improved evasion, it also applies to swarm damage."
 }

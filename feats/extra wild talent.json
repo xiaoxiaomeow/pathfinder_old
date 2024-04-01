@@ -3,8 +3,13 @@
     "name": "Extra Wild Talent",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Wild%20Talent",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You gain an additional wild talent.",
+    "text": "You gain an additional wild talent.",
     "prerequisites": "Kineticist level 6th.",
     "benefit": "You gain a wild talent that’s at least 2 levels lower than the highest-level wild talent you can currently use. You can select an infusion or a non-infusion wild talent, but not a blast or defense wild talent. If you have the expanded element class feature, you can select a wild talent from any of your elements that’s at least 2 levels lower than the highest-level wild talent from your primary element that you can currently use.",
-    "special": "You can take this feat multiple times. Each time, you must choose a different wild talent."
+    "special": "You can take this feat multiple times. Each time, you must choose a different wild talent.",
+    "name_zh": "额外原力",
+    "text_zh": "你获得一项额外原力。",
+    "prerequisites_zh": "操念使6级",
+    "benefit_zh": "你会获得一项原力（Wild Talent），但是该原力必须至少比你当前能够使用的最高等级原力低2级。你可以选择一项注能原力（Infusion Wild Talent）或者一项非注能原力（Non-Infusion Wild Talent），但是无法选取念袭（Blast）或护身原力（Defense Wild Talent）。若你具有元素扩展（Expanded Element）职业能力，那么你能够从所有当前可以使用的元素中选择一项原力，但是该项原力依旧至少要比首要元素（primary element）中当前可以使用的最高等级的原力低2级。",
+    "special_zh": "你可以多次选取该专长。每次选择该专长，都必须选择一项不同的原力。"
 }

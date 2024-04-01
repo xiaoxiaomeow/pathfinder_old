@@ -7,7 +7,7 @@
         "Monster"
     ],
     "source": ["Pathfinder RPG Bestiary pg. 314"],
-    "description": "This creature can send opponents flying.",
+    "text": "This creature can send opponents flying.",
     "prerequisites": "Str 25, Power Attack, Improved Bull Rush, size Large or larger.",
     "benefit": "As a standard action, the creature may perform an awesome blow combat maneuver. If the creature’s maneuver succeeds against a corporeal opponent smaller than itself, its opponent takes damage (typically slam damage plus Strength bonus) and is knocked flying 10 feet in a direction of the attacking creature’s choice and falls prone. The attacking creature can only push the opponent in a straight line, and the opponent can’t move closer to the attacking creature than the square it started in. If an obstacle prevents the completion of the opponent’s move, the opponent and the obstacle each take 1d6 points of damage, and the opponent is knocked prone in the space adjacent to the obstacle.",
     "prerequisiteKeys":     [
@@ -15,7 +15,7 @@
         "power attack"
     ],
     "name_zh": "可怖殴击",
-    "description_zh": "这个生物猛恶的攻击足以将对手打飞。",
+    "text_zh": "这个生物猛恶的攻击足以将对手打飞。",
     "prerequisites_zh": "力量25，猛力攻击，精通冲撞，体型大型以上。",
     "benefit_zh": "以一个标准动作，该生物可以发动一次“可怖殴击”战技攻击。如果战技攻击成功且目标是一个比该生物体型更小的非虚体生物，那么目标除了受到该生物的攻击伤害（通常为挥击伤害加上该生物的力量修正）外，还会被击飞10尺（方向由攻击生物选择）并被击倒至俯卧。击飞路线必须是直线，且目标生物不可被移动至比它受到攻击的起始位置距离攻击生物更近的方格。如果击飞路线上有障碍物阻挡了目标生物的移动，那么障碍物和目标生物都会受到1d6点伤害，目标生物将在障碍物的邻接格被击倒至俯卧。"
 }

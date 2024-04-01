@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Double%20Slice",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 122"],
-    "description": "Your off-hand weapon while dual-wielding strikes with greater power.",
+    "text": "Your off-hand weapon while dual-wielding strikes with greater power.",
     "prerequisites": "Dex 15, Two-Weapon Fighting.",
     "benefit": "Add your Strength bonus to damage rolls made with your off-hand weapon.",
     "normal": "You normally add only half of your Strength modifier to damage rolls made with a weapon wielded in your off-hand.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "When you hit an opponent with both a primary-hand attack and an off-hand attack while using Two-Weapon Fighting, you can spend a number of stamina points up to half your Strength bonus. If you do, add a bonus on the damage roll of the second of the two attacks equal to the number of stamina points you spent. You can use this combat trick only once per round.",
     "prerequisiteKeys": ["two-weapon fighting"],
     "name_zh": "双重切割",
-    "description_zh": "你的副手武器在双持武器攻击时更加强力。",
+    "text_zh": "你的副手武器在双持武器攻击时更加强力。",
     "prerequisites_zh": "敏捷15，双武器格斗。",
-    "benefit_zh": "你的副手武器在伤害投骰中获得你的力量修正。<\/p><p>通常状况：通常你在副手武器上只能将力量修正的一半计入伤害投骰。"
+    "benefit_zh": "你的副手武器在伤害投骰中获得你的力量修正。",
+    "normal_zh": "通常你在副手武器上只能将力量修正的一半计入伤害投骰。"
 }

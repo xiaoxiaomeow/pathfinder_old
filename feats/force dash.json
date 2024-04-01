@@ -3,7 +3,11 @@
     "name": "Force Dash",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Force%20Dash",
     "source": ["Advanced Class Guide pg. 148"],
-    "description": "You can absorb the magic in your force spells to give you a concentrated burst of speed.",
+    "text": "You can absorb the magic in your force spells to give you a concentrated burst of speed.",
     "prerequisites": "Base attack bonus +4, ability to cast 2nd-level arcane spells, ability to cast at least one arcane force spell.",
-    "benefit": "As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet × the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal –2 penalty to AC until the start of your next turn."
+    "benefit": "As a swift action, you can sacrifice a prepared arcane force spell (or if you are a spontaneous caster, a spell slot of the same level as an arcane force spell you know) to give yourself an enhancement bonus to speed. The bonus gained is equal to 10 feet × the level of the spell sacrificed. The bonus applies to all forms of movement, and it lasts 1 round. If you charge while this bonus is in effect, you do not take the normal –2 penalty to AC until the start of your next turn.",
+    "name_zh": "力能加速",
+    "text_zh": "你吸收力场法术的能量，将自己的移动导入更强的推进力。",
+    "prerequisites_zh": "基本攻击加值+4，可以施放2环奥术，可以施放至少一个力场类奥术法术",
+    "benefit_zh": "以一个迅捷动作，你可以消耗一个已经准备的力场法术（或者如果你是一个自发施法者，你消耗一个你所知的该环奥术力场法术法术位），为你在移动速度上获得加值，加值为10尺x你所消耗的法术环术。这个加值可以影响所有类型的移动速度，并持续1轮。如果你在获得此速度加值时冲锋，那么你不会再冲锋后承受防御等级上的-2减值。"
 }

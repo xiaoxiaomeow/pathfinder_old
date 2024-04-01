@@ -3,12 +3,13 @@
     "name": "Ultimate Resolve",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ultimate%20Resolve",
     "source": ["Ultimate Magic pg. 158"],
-    "description": "Your aura of resolve does not fall with you.",
+    "text": "Your aura of resolve does not fall with you.",
     "prerequisites": "Aura of resolve class feature.",
     "benefit": "Your aura of resolve is a 20-foot emanation, and does not end if you fall unconscious. ",
     "normal": "The aura of resolve affects each ally within 10 feet, and ends when you fall unconscious.",
     "name_zh": "至高虔诚",
-    "description_zh": "你的虔诚灵光不会随着你一同倒下。",
+    "text_zh": "你的虔诚灵光不会随着你一同倒下。",
     "prerequisites_zh": "【虔诚灵光】职业特性",
-    "benefit_zh": "你的【虔诚灵光】为20尺散发，并且不会随着你的倒下而无效。<\/p><p>通常状况：【虔诚灵光】对10尺内的队友生效，并且当你失去知觉或者死亡时将失去作用。"
+    "benefit_zh": "你的【虔诚灵光】为20尺散发，并且不会随着你的倒下而无效。",
+    "normal_zh": "【虔诚灵光】对10尺内的队友生效，并且当你失去知觉或者死亡时将失去作用。"
 }

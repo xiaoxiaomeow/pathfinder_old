@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Selective%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 168"],
-    "description": "Your allies need not fear friendly fire.",
+    "text": "Your allies need not fear friendly fire.",
     "prerequisites": "Spellcraft 10 ranks.",
     "benefit": "When casting a selective spell with an area effect and a duration of instantaneous, you can choose a number of targets in the area equal to the ability score modifier used to determine bonus spells of the same type (Charisma for bards, oracles, paladins, sorcerers, and summoners; Intelligence for witches and wizards; Wisdom for clerics, druids, inquisitors, and rangers). These targets are excluded from the effects of your spell. A selective spell uses up a spell slot one level higher than the spell’s actual level. <br><br> Spells that do not have an area of effect or a duration of instantaneous do not benefit from this feat.",
     "name_zh": "甄选法术",
-    "description_zh": "你的盟友不用担心被误伤。",
+    "text_zh": "你的盟友不用担心被误伤。",
     "prerequisites_zh": "法术辨识10级。",
     "benefit_zh": "当你施放持续时间为立即（instantaneous）并且影响一片区域的甄选法术时，你可以选择在这片区域中一定数量的目标。目标的数量等同于施法关键属性修正（对于吟游诗人、先知、圣骑士、术士以及召唤师来说是魅力；对于女巫以及法师来说是智力；对于牧师、德鲁伊、审判者和游侠来说是感知）。这些目标会从你的法术效果中排除出来。甄选法术会占用比法术的实际环级高1环的法术位。不会影响一片区域的法术不会由此专长获益。"
 }

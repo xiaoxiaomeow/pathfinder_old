@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Prone%20Slinger",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 113"],
-    "description": "Your sideways sling release allows you to launch bullets and stones even while prone.",
+    "text": "Your sideways sling release allows you to launch bullets and stones even while prone.",
     "benefit": "While prone, you can use a sling to make ranged attacks.",
     "normal": "Crossbows and firearms are the only ranged weapons that can be used while prone.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain a +2 bonus on attack rolls made while prone and using a sling.",
     "name_zh": "匍匐投手",
-    "description_zh": "你即使在俯卧状态也能熟练的侧身发射弹药和石头。",
-    "benefit_zh": "在俯卧时，你可以使用投石索进行远程攻击。<\/p><p>通常状况：只有弩和火器可以在俯卧状态进行远程攻击。"
+    "text_zh": "你即使在俯卧状态也能熟练的侧身发射弹药和石头。",
+    "benefit_zh": "在俯卧时，你可以使用投石索进行远程攻击。",
+    "normal_zh": "只有弩和火器可以在俯卧状态进行远程攻击。"
 }

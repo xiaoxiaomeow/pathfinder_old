@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blundering%20Defense",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 66"],
-    "description": "Your feverish and sometimes comical defensive techniques offer enough distraction to aid allies.",
+    "text": "Your feverish and sometimes comical defensive techniques offer enough distraction to aid allies.",
     "prerequisites": "Cautious Fighter, halfling.",
     "benefit": "Whenever you fight defensively or use the total defense action, allies gain a luck bonus to AC and CMD equal to 1/2 the dodge bonus you gain from the action you are taking. Allies only gain this bonus while they are adjacent to you.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "You can spend 5 stamina points to cause allies within 10 feet who are also in your melee reach to gain the benefits of this feat.",
     "prerequisiteKeys": ["cautious fighter"],
     "name_zh": "牵制防守",
-    "description_zh": "你出离常识的防守技术有的时候会对敌人造成足够的牵制，从而保护队友。",
+    "text_zh": "你出离常识的防守技术有的时候会对敌人造成足够的牵制，从而保护队友。",
     "prerequisites_zh": "谨慎战斗，半身人。",
     "benefit_zh": "当你使用防御式战斗或者完全防御时，你的队友获得你从该动作上得到的AC闪避加值一半的幸运加值，该幸运加值作用到AC和CMD上。你的队友只能在邻近你时获得该加值。"
 }

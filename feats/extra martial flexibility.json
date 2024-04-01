@@ -3,7 +3,11 @@
     "name": "Extra Martial Flexibility",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Martial%20Flexibility",
     "source": ["Advanced Class Guide pg. 147"],
-    "description": "You are extremely versatile in a fight.",
+    "text": "You are extremely versatile in a fight.",
     "prerequisites": "Martial flexibility class feature.",
-    "benefit": "You can use your martial flexibility ability three additional times per day."
+    "benefit": "You can use your martial flexibility ability three additional times per day.",
+    "name_zh": "额外招式",
+    "text_zh": "你的武技可谓千变万化。",
+    "prerequisites_zh": "千招百式职业能力",
+    "benefit_zh": "你每天使用千招百式能力的次数增加3次。"
 }

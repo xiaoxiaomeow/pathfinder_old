@@ -4,8 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lost%20Legacy",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 70"],
-    "description": "What once belonged to your family shall be yours again.",
+    "text": "What once belonged to your family shall be yours again.",
     "prerequisites": "Your family must have claim to an inherited title or position that no longer belongs to them, or have the Dishonored Family background. You can take this feat even if you have no knowledge of this lost family title.",
     "benefit": "You gain a +1 bonus on Charisma-based ability checks and skill checks.",
-    "special": "If you manage to regain your position without defeating a challenging foe, you may still complete this story feat at a later date if a suitable challenging foe attempts to steal your birthright again."
+    "special": "If you manage to regain your position without defeating a challenging foe, you may still complete this story feat at a later date if a suitable challenging foe attempts to steal your birthright again.",
+    "goal": "Regain your family’s lost claim, either for yourself or another in your family. In the process of completing this claim, you must decisively defeat a challenging foe that seeks to deny your birthright.",
+    "completionBenefit": "You gain a +1 bonus on Wisdom ability checks, Wisdom-based skill checks, and Will saving throws.",
+    "name_zh": "失落荣光",
+    "text_zh": "曾属于你家族的财产终将属于你。",
+    "prerequisites_zh": "你的家族必须有一项可继承的头衔或地位，但已不再为你所有；或你拥有“落魄门第（Dishonored Family）”角色背景。你甚至可以在不知道失落的家族头衔究竟为何时选择本专长。",
+    "benefit_zh": "你的魅力属性检定、基于魅力的技能检定+1。",
+    "goal_zh": "重拾家族的名望，无论是为你自己还是某位家族成员。为完成这一过程，你必须完胜一位否认你继承权的强大敌手。",
+    "completionBenefit_zh": "你的感知属性检定、基于感知的技能检定和意志豁免+1。<\/p><p>特殊备注：若你试图通过某种回避强大敌手的手段重拾家族名望，你日后仍然需要通过搞定某位试图篡夺你继承权的强大敌手来完成本专长。"
 }

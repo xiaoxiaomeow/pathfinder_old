@@ -3,11 +3,15 @@
     "name": "Improved Studied Combatant",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Studied%20Combatant",
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "Deep understanding of your foes’ tactics grants you the upper hand in combat.",
+    "text": "Deep understanding of your foes’ tactics grants you the upper hand in combat.",
     "prerequisites": "Int 13, Amateur Investigator, Studied Combatant, base attack bonus +8, 1 rank in at least one Knowledge skill, no levels in a class that has the inspiration class feature.",
     "benefit": "Your bonuses for Studied Combatant increase to a +4 insight bonus on melee attack rolls and a +4 bonus on damage rolls. This feat otherwise works like the Studied Combatant feat.",
     "prerequisiteKeys":     [
         "amateur investigator",
         "studied combatant"
-    ]
+    ],
+    "name_zh": "精通决斗智慧",
+    "text_zh": "你深入分析对手的战术，以此在和他的对决上占得先手。",
+    "prerequisites_zh": "智力13，业余调查员，决斗智慧，基础攻击加值+8，在至少一项知识技能上拥有1个等级，在拥有灵感职业能力的职业上没有任何等级",
+    "benefit_zh": "你通过决斗智慧专长获得的攻击检定洞察加值和伤害加值提升到+4。除此之外，本能力的效果和决斗智慧专长相同。"
 }

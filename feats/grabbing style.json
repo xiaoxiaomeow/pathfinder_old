@@ -7,11 +7,16 @@
         "Style"
     ],
     "source": ["Advanced Class Guide pg. 148"],
-    "description": "You are adept at the one-handed grab.",
-    "prerequisites": "Improved Grapple; base attack bonus +6, brawler's flurry class feature, or flurry of blows class feature.",
+    "text": "You are adept at the one-handed grab.",
+    "prerequisites": "Improved Grapple; base attack bonus +6, brawler’s flurry class feature, or flurry of blows class feature.",
     "benefit": "When you use this style, you do not take a –4 penalty on combat maneuver checks to grapple a foe with only one hand. Additionally, you do not lose your Dexterity bonus to AC while pinning an opponent.",
     "normal": "Without two hands free, you take a –4 penalty on the combat maneuver roll to grapple a foe. While pinning a foe, you lose your Dexterity bonus to AC.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "When you make a grapple attempt with two hands while using this style, you can spend 1 stamina point to gain a +2 bonus on the grapple combat maneuver check.",
-    "prerequisiteKeys": ["improved grapple"]
+    "prerequisiteKeys": ["improved grapple"],
+    "name_zh": "擒拿手",
+    "text_zh": "你磨练自己挟制敌人的技巧，单手即可将对方抓牢。",
+    "prerequisites_zh": "精通擒抱，基础攻击加值+6或拳师连打职业能力或疾风连击职业能力",
+    "benefit_zh": "当你使用擒拿手流派时，你在仅用单手擒抱目标的战技攻击检定上不再承受-4减值。除此之外，你在压制（Pinning）一个敌人时不再会失去防御等级上的敏捷加值。",
+    "normal_zh": "如果你不能空出两只手来进行擒抱，你在擒抱目标的战技攻击检定上会承受-4减值。你在压制一个敌人时会失去防御等级上的敏捷加值。"
 }

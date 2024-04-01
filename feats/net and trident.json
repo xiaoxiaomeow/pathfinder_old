@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20and%20Trident",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 111"],
-    "description": "Your skill with lighter weapons allows you to wield one alongside your net.",
+    "text": "Your skill with lighter weapons allows you to wield one alongside your net.",
     "prerequisites": "Dex 15, Exotic Weapon Proficiency (net), Net Adept, Two-Weapon Fighting.",
     "benefit": "You can treat a net as a one-handed ranged weapon, allowing you to wield a light or one-handed melee weapon and still make ranged attacks with your net. When you use your light or one-handed melee weapon to attack an entangled opponent, you gain a +2 bonus on damage rolls and on attack rolls to confirm a critical hit.",
     "normal": "A net is a two-handed ranged weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "When you use a light or one-handed melee weapon to attack an opponent entangled by your net, you can spend up to 5 stamina points when you hit the opponent to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
@@ -16,7 +16,8 @@
         "two-weapon fighting"
     ],
     "name_zh": "网叉并用",
-    "description_zh": "你能在挥舞你的网时熟练地使用轻型武器。",
+    "text_zh": "你能在挥舞你的网时熟练地使用轻型武器。",
     "prerequisites_zh": "敏捷15，擅长异种武器（网），捕网熟练，双武器格斗。",
-    "benefit_zh": "你可以将网作为一件单手远程武器使用，这允许你再装备一件轻型或单手近战武器，同时仍可以使用网进行远程攻击。当你使用你的轻型或单手近战武器攻击一个陷入纠缠的敌人时，你的攻击检定、伤害骰和重击确认骰获得+2加值。<\/p><p>通常状况：网是一种双手远程武器。"
+    "benefit_zh": "你可以将网作为一件单手远程武器使用，这允许你再装备一件轻型或单手近战武器，同时仍可以使用网进行远程攻击。当你使用你的轻型或单手近战武器攻击一个陷入纠缠的敌人时，你的攻击检定、伤害骰和重击确认骰获得+2加值。",
+    "normal_zh": "网是一种双手远程武器。"
 }

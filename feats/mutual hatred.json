@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mutual%20Hatred",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 164"],
-    "description": "Others hate you, and their hatred feeds your own.",
-    "benefit": "You gain a +1 bonus on attack rolls and damage rolls against creatures whose hatred racial trait or favored enemy class feature applies to you. For instance, an orc would gain this bonus against all dwarves and against rangers who chose humanoid (orc) as a favored enemy."
+    "text": "Others hate you, and their hatred feeds your own.",
+    "benefit": "You gain a +1 bonus on attack rolls and damage rolls against creatures whose hatred racial trait or favored enemy class feature applies to you. For instance, an orc would gain this bonus against all dwarves and against rangers who chose humanoid (orc) as a favored enemy.",
+    "name_zh": "恨意反制",
+    "text_zh": "你被外族所憎恨，而你对他们也一样。",
+    "benefit_zh": "在对抗拥有针对你的仇恨种族特性或是宿敌职业能力的生物时，你在攻击和伤害检定上获得+1加值。对大多数兽人来说，这个专长的目标包括矮人和拥有宿敌（人型生物-兽人）的游侠。"
 }

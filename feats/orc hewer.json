@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Orc%20Hewer",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 18"],
-    "description": " You are ferocious at hewing your enemies, especially orcs. ",
+    "text": " You are ferocious at hewing your enemies, especially orcs. ",
     "prerequisites": "Str 13, Cleave, Goblin Cleaver, Power Attack, dwarf.",
     "benefit": "This feat functions as Goblin Cleaver, but your additional attacks can be made against creatures your size or smaller. In addition, any such attacks that you make against humanoids (orc) gain a +2 circumstance bonus on attack rolls.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, the bonus on Cleave attacks against humanoids with the orc subtype increases to +4.",
     "prerequisiteKeys":     [
         "cleave",
@@ -15,7 +15,7 @@
         "power attack"
     ],
     "name_zh": "兽人屠戮者",
-    "description_zh": "你凶猛地砍杀敌人，尤其爱砍兽人。",
+    "text_zh": "你凶猛地砍杀敌人，尤其爱砍兽人。",
     "prerequisites_zh": "力量13，顺势斩，地精切裂者，猛力攻击，矮人。",
     "benefit_zh": "该专长如同“地精切裂者”一般作用，但是你的额外攻击能够用于攻击与你体型相同或更小的生物。此外，当你用这些攻击对抗类人生物（兽人）时，攻击检定获得+2环境加值。"
 }

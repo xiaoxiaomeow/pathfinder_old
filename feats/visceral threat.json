@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Visceral%20Threat",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 21"],
-    "description": "Your ability to threaten foes is great enough to make them hesitate.",
+    "text": "Your ability to threaten foes is great enough to make them hesitate.",
     "prerequisites": "Intimidating Prowess.",
     "benefit": "You may use Intimidate, rather than Bluff, to attempt a feint against a creature within your melee reach.",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys": ["intimidating prowess"],
+    "name_zh": "破胆威吓",
+    "text_zh": "你的可怖已经可以惊的敌人手忙脚乱。",
+    "prerequisites_zh": "威逼",
+    "benefit_zh": "你可以使用威吓技能而非唬骗技能来对处于你的近战范围内的目标发动虚招。"
 }

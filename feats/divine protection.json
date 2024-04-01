@@ -3,7 +3,11 @@
     "name": "Divine Protection",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Divine%20Protection",
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "Your deity protects you against deadly attacks.",
+    "text": "Your deity protects you against deadly attacks.",
     "prerequisites": "Cha 13, Knowledge (religion) 5 ranks.",
-    "benefit": "Once per day as an immediate action before rolling a saving throw, you can add your Charisma modifier on that saving throw. As usual, this does not stack if you already apply your Charisma modifier to that saving throw. If you possess the charmed life class feature, you can instead apply Divine Protection’s bonus after rolling the saving throw but before the result is revealed."
+    "benefit": "Once per day as an immediate action before rolling a saving throw, you can add your Charisma modifier on that saving throw. As usual, this does not stack if you already apply your Charisma modifier to that saving throw. If you possess the charmed life class feature, you can instead apply Divine Protection’s bonus after rolling the saving throw but before the result is revealed.",
+    "name_zh": "圣洁防护",
+    "text_zh": "你的神祇降灵防护你免受侵害",
+    "prerequisites_zh": "魅力13，知识（宗教）技能5级",
+    "benefit_zh": "每天1次以一个直觉动作，在进行一次豁免检定前，你可以把你的魅力调整值添加到豁免加值上。如果你已经可以把魅力调整值添加到豁免加值上，则该专长给予的加值不叠加。如果你有快乐人生职业能力，则你在使用圣洁防护专长时可以在骰出豁免检定后，检定结果公布前使用该专长。"
 }

@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scorching%20Weapons",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 130"],
-    "description": "Elemental fire stirs within your body, boiling your blood and rendering you resistant to flame.",
+    "text": "Elemental fire stirs within your body, boiling your blood and rendering you resistant to flame.",
     "prerequisites": "Ifrit.",
     "benefit": "You gain a +2 bonus on saving throws against fire attacks and spells with the fire descriptor or light descriptor. As a swift action, you can make up to two held manufactured metallic weapons become red-hot for 1 round, dealing 1 additional point of fire damage with a successful hit. This does not stack with other effects that add fire damage to weapons, such as the flaming weapon special ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When you use this feat to make one or more metallic weapons red hot for 1 round, you can spend 2 stamina points to increase the additional fire damage to 2 points, and have that damage stack with other effects that add fire damage to a weapon (such as the flaming weapon special ability).",
     "name_zh": "炙热武器",
-    "description_zh": "元素火焰在你的体内躁动着，使你的血液沸腾，并让你能够抵抗火焰。",
+    "text_zh": "元素火焰在你的体内躁动着，使你的血液沸腾，并让你能够抵抗火焰。",
     "prerequisites_zh": "火元素裔。",
     "benefit_zh": "你在对抗火焰攻击以及带有〔火〕或者〔光亮〕描述符的法术时豁免检定+2。以一个迅捷动作，你可以将两只手中持握的人造金属武器烧得火红，成功用这样的武器命中会造成1点额外火焰伤害，这个效果持续1轮。该效果不与其他给武器增加火焰伤害的同类效果叠加，比如〈炽焰〉武器附魔。"
 }

@@ -3,11 +3,11 @@
     "name": "Implant Bomb",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Implant%20Bomb",
     "source": ["Ultimate Magic pg. 152"],
-    "description": "You can attach a bomb to a creature that explodes when the creature dies or after 24 hours.",
+    "text": "You can attach a bomb to a creature that explodes when the creature dies or after 24 hours.",
     "prerequisites": "Heal 5 ranks, delayed bomb alchemist discovery.",
     "benefit": "You may implant a bomb in a willing or helpless creature (a mindless creature under your control, such as a zombie, counts as willing for this purpose). This takes 1 hour and expends 1 use of your bomb ability for the day. When the implanted creature dies or is destroyed, the bomb detonates in the creature’s square as if it were a delayed bomb set by you (though you can set the bomb’s damage to less than your normal bomb damage). You can use any bomb-affecting discoveries on this implanted bomb (acid bomb, frost bomb, smoke bomb, and so on) as normal. The bomb automatically detonates 24 hours after you implant it in the creature.<br><br> If you expend 150 gp worth of alchemical reagents per die of the bomb’s damage (for example, 750 gp for a 5d6 bomb), the bomb does not automatically detonate after 24 hours, and only detonates if the creature dies or is destroyed (24 hours after implantation, this bomb no longer counts toward your daily total).<br><br> Implanting a bomb is as invasive as using the Heal skill to treat deadly wounds and leaves surgical scars unless the creature is healed by magic or abilities such as regeneration or fast healing. Some creatures (such as oozes, elementals, and creatures with the incorporeal quality) cannot have bombs implanted in them. Removing an implanted bomb requires a Heal check to treat deadly wounds, followed by a <i>dispel magic <\/i>spell or Disable Device check to neutralize the bomb (DC = 11 + alchemist’s caster level).",
     "name_zh": "植入式炸弹",
-    "description_zh": "你可以将一枚炸弹植入生物体内，并且在其死亡时或者24小时候引爆。",
+    "text_zh": "你可以将一枚炸弹植入生物体内，并且在其死亡时或者24小时候引爆。",
     "prerequisites_zh": "医疗5级，【定时炸弹】科研发现。",
     "benefit_zh": "你可以在一个自愿或是无助的生物（一个被你控制的无心智生物被视为自愿的，例如一只僵尸）体内植入一枚炸弹。这耗时1小时并且消耗1次你每日【炼金炸弹】能力的使用次数。当被植入炸弹的生物死亡或是被破坏时，炸弹在生物的所在格被引爆，就好像你用设置了【定时炸弹】一般（尽管你可以将炸弹的威力设置的比通常更低）。你可以如常将任何影响炸弹效果的科研发现加在植入式炸弹中（例如【酸性炸弹】、【霜冻炸弹】、【烟雾炸弹】等）。炸弹会在被植入生物24小时候自动引爆。<\/p><p>如果你花费价值150gp的炼金药物在每个炸弹伤害骰上（例如5d6的炸弹花费750gp），炸弹不会在24小时候自动引爆，而只会在生物死亡或被破坏时爆炸（24小时后，“植入式炸弹”不再占用你炸弹的每日使用次数）。<\/p><p>植入一枚炸弹就好像使用医疗技能治疗致命伤害一般，除非生物被魔法治愈或者拥有诸如再生、快速医疗之类的能力，否则会在生物身上留下伤疤。一些生物（例如泥形生物、元素、和无实体的生物）无法被植入炸弹。移除一枚植入式炸弹需要先通过一个治疗致命伤害的医疗检定，然后再使用‘解除魔法’或者解除装置技能检定拆除炸弹（DC为“11+炼金术师CL”）。"
 }

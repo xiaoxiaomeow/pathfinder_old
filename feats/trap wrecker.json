@@ -3,12 +3,12 @@
     "name": "Trap Wrecker",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Trap%20Wrecker",
     "source": ["Advanced Race Guide pg. 142"],
-    "description": "You can smash traps instead of disarming them.",
+    "text": "You can smash traps instead of disarming them.",
     "prerequisites": "Power Attack, Disable Device 1 rank, orc.",
     "benefit": "You can attempt to disarm a trap by striking it with a melee weapon instead of making a Disable Device check. As a full-round action, make a melee attack against an Armor Class equal to the trap’s Disable Device DC. If you miss, the trap activates. If you hit, roll damage. If this damage is at least half the trap’s Disable Device DC, you disable the trap. If this damage is less than half the trap’s Disable Device DC, the trap activates. You can only attempt this on nonmagical traps. You must be able to reach some part of the trap with your attack in order to use this feat. At the GM’s discretion, some traps may not be susceptible to this feat.",
     "prerequisiteKeys": ["power attack"],
     "name_zh": "陷阱破坏者",
-    "description_zh": "别人解除陷阱，你砸烂陷阱。",
+    "text_zh": "别人解除陷阱，你砸烂陷阱。",
     "prerequisites_zh": "猛力攻击，解除装置1级，兽人。",
     "benefit_zh": "你可以通过一次近战武器攻击而不是解除装置检定来拆除陷阱。以一个整轮动作，进行一次对抗AC为陷阱的解除装置DC的近战攻击。若你命中，进行伤害检定。若伤害至少为陷阱解除装置DC的一半，你成功解除该陷阱。若伤害低于陷阱解除装置DC的一半，陷阱被触发。你只能对非魔法陷阱进行如是尝试。你的攻击必须能够触及陷阱的一部分才能使用该专长。根据GM的描述，某些陷阱不适用于该专长。"
 }

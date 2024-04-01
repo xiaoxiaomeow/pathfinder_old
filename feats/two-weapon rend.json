@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Two-Weapon%20Rend",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 136"],
-    "description": "Striking with both of your weapons simultaneously, you can use them to deliver devastating wounds.",
+    "text": "Striking with both of your weapons simultaneously, you can use them to deliver devastating wounds.",
     "prerequisites": "Dex 17, Double Slice, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.",
     "benefit": "If you hit an opponent with both your primary hand and your off-hand weapon, you deal an additional 1d10 points of damage plus 1-1/2 times your Strength modifier. You can only deal this additional damage once each round.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "You can spend 5 stamina points to use this feat’s benefit a second time in a single round.",
-    "mythicSource": ["Mythic Adventures pg. 76"],
-    "mythicDescription": "Your synchronized dual attacks are even more dangerous, and can leave lasting wounds.",
-    "mythicPrerequisites": "Two-Weapon Rend.<br><br",
+    "mythicSource": "Mythic Adventures pg. 76",
+    "mythicText": "Your synchronized dual attacks are even more dangerous, and can leave lasting wounds.",
+    "mythicPrerequisites": "Two-Weapon Rend.",
     "mythicBenefit": "The damage of your Two-Weapon Rend increases to 2d8 points plus twice your Strength modifier. You can expend one use of mythic power to gain a bonus on this damage equal to twice your tier.",
     "prerequisiteKeys":     [
         "double slice",
@@ -19,7 +19,7 @@
         "two-weapon fighting"
     ],
     "name_zh": "双武器撕裂",
-    "description_zh": "同时以两把武器攻击命中时，你可以造成严重的伤口。",
+    "text_zh": "同时以两把武器攻击命中时，你可以造成严重的伤口。",
     "prerequisites_zh": "敏捷17，双重切割，精通双武器格斗，基本攻击加值+11。",
     "benefit_zh": "若你主手武器和副手武器的攻击都命中对手，则你额外造成“1d10+1.5倍力量修正”的伤害。每轮你仅可造成此额外伤害1次。"
 }

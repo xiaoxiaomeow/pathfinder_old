@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Push%20the%20Limits",
     "descriptors": ["Combat"],
     "source": ["Pathfinder Unchained pg. 113"],
-    "description": "Even when suffering from fatigue, you can fight through and overcome incredible opposition.",
+    "text": "Even when suffering from fatigue, you can fight through and overcome incredible opposition.",
     "prerequisites": "Con 13, Combat Stamina, base attack bonus +1.",
     "benefit": "You gain a secondary stamina pool with a number of stamina points equal to your Constitution modifier. You can spend these secondary stamina points only when you have 0 stamina points in your primary stamina pool or when you are fatigued, even though you normally can’t spend stamina points while fatigued. You can spend these secondary stamina points as normal, but if the secondary pool drops to 0 points, you become exhausted until you have at least 1 stamina point in your primary pool. Even if you have points in your secondary pool, you are still fatigued as long as you have 0 points in your primary pool. Your secondary pool refreshes only after a full night’s rest.",
-    "prerequisiteKeys": ["combat stamina"]
+    "prerequisiteKeys": ["combat stamina"],
+    "name_zh": "突破极限",
+    "text_zh": "即使在疲乏中，你依然能克服万难获取胜利。",
+    "prerequisites_zh": "体质13，战斗耐力，BAB+1",
+    "benefit_zh": "你获得一个次级耐力池，容量等同你的体质加值。只有当你主耐力池归零，或你疲乏时你才能动用该次级耐力池（通常在你疲乏时你无法使用耐力点）。如果你的次级耐力池也耗尽，你将力竭，直至主耐力池恢复到一点耐力或以上。无论次级耐力池里有多少耐力点，只要主耐力池为空，你依然疲乏。次级耐力池只有8小时睡眠能恢复。"
 }

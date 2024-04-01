@@ -3,7 +3,7 @@
     "name": "Dimensional Savant",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dimensional%20Savant",
     "source": ["Ultimate Combat pg. 96"],
-    "description": "You flash into and out of reality so quickly it is impossible to tell exactly where you are at any given time. ",
+    "text": "You flash into and out of reality so quickly it is impossible to tell exactly where you are at any given time. ",
     "prerequisites": "Dimensional Agility, Dimensional Assault, Dimensional Dervish, ability to use the abundant step class feature or cast <i>dimension door<\/i>, base attack bonus +9.",
     "benefit": "While using the Dimensional Dervish feat, you provide flanking from all squares you attack from. Flanking starts from the moment you make an attack until the start of your next turn. You can effectively flank with yourself and with multiple allies when using this feat.",
     "prerequisiteKeys":     [
@@ -12,7 +12,7 @@
         "dimensional dervish"
     ],
     "name_zh": "次元乱舞",
-    "description_zh": "你是如此的神出鬼没，没有人能确定你到底身在何处。",
+    "text_zh": "你是如此的神出鬼没，没有人能确定你到底身在何处。",
     "prerequisites_zh": "武僧【遁术】职业特性或可施展‘任意门’，次元灵巧，次元突击，次元狂舞，基本攻击加值+9。",
     "benefit_zh": "当你使用“次元狂舞”专长时，你可以从你攻击过的所有位置提供夹击。夹击判定从你攻击时开始，持续到下一轮你行动开始时结束。使用该专长时，你可以与复数的盟友，甚至是与你自己进行夹击。"
 }

@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Intuitive%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Occult Adventures pg. 136"],
-    "description": "You can avoid the need for thought components by trusting your instincts.",
-    "benefit": "An intuitive spell can be cast with no thought components. Spells without thought components are not affected. An intuitive spell uses up a spell slot 1 level higher than the spell’s actual level."
+    "text": "You can avoid the need for thought components by trusting your instincts.",
+    "benefit": "An intuitive spell can be cast with no thought components. Spells without thought components are not affected. An intuitive spell uses up a spell slot 1 level higher than the spell’s actual level.",
+    "name_zh": "本能法术",
+    "text_zh": "你可以相信自身的直觉与本能，在避免思维成分的情况下施法。",
+    "benefit_zh": "本能法术可以在没有思维成分（Thought Components）的情况下进行施放。不需要思维成分的法术不受该专长影响。本能法术使用比法术的实际环级高1级的法术位。"
 }

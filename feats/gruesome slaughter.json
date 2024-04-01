@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gruesome%20Slaughter",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "You can inspire extreme revulsion when you slaughter your enemies.",
+    "text": "You can inspire extreme revulsion when you slaughter your enemies.",
     "prerequisites": "Intimidating Prowess, Killing Flourish, Intimidate 11 ranks, slayer level 11th.",
     "benefit": "Creatures you demoralize by using the Killing Flourish feat must succeed at a Fortitude save (DC = 10 + 1/2 your character level + the higher of your Strength or Dexterity modifier) or become sickened for 1 minute.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "When using this feat, you can spend up to 5 stamina points to increase the DC of the effect by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "intimidating prowess",
         "killing flourish"
-    ]
+    ],
+    "name_zh": "惧怖宰杀",
+    "text_zh": "你反手一刀就将刺杀目标斩成鲜血淋漓，在场的所有人都被吓得半死。",
+    "prerequisites_zh": "威逼（Intimidating Prowess），处刑秀（Killing Flourish），威吓技能11级，杀手等级11",
+    "benefit_zh": "每当你使用 专长进行一次挫败士气的威吓尝试，受到影响的生物就必须一个一个DC=10+你角色等级一半+你的力量或敏捷调整值（取其高者）的强韧检定，否则将陷入恶心一分钟。"
 }

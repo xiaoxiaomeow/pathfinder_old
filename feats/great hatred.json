@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Great%20Hatred",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 37"],
-    "description": "Your rage burns with vast intensity.",
+    "text": "Your rage burns with vast intensity.",
     "prerequisites": "Gnome, hatred racial trait.",
     "benefit": "You gain an additional +1 bonus on melee and thrown weapon attacks against targets of your hatred racial trait.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "When you hit an opponent of a subtype subject to your hatred racial trait, you can spend up to 5 stamina points to deal an amount of extra damage equal to double the number of stamina points you spent.",
     "name_zh": "强烈仇恨",
-    "description_zh": "你的怒火剧烈燃烧着。",
+    "text_zh": "你的怒火剧烈燃烧着。",
     "prerequisites_zh": "侏儒，仇恨种族特性。",
     "benefit_zh": "在对抗你的仇恨种族特性中的种族时，你的近战与投掷攻击检定获得额外+1加值。"
 }

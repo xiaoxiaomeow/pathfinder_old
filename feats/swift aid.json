@@ -4,15 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Swift%20Aid",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "With a quick but harmless swipe, you can aid an ally’s assault.",
+    "text": "With a quick but harmless swipe, you can aid an ally’s assault.",
     "prerequisites": "Int 13, Combat Expertise, base attack bonus +6.",
     "benefit": "As a swift action, you can attempt the aid another action, granting your ally either a +1 bonus on his next attack roll or a +1 bonus to his AC.",
     "normal": "Aid another is a standard action.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you can use this feat to aid another as a move action.",
     "prerequisiteKeys": ["combat expertise"],
     "name_zh": "迅捷协助",
-    "description_zh": "通过迅捷却又无害的一击，你能够对盟友的攻击进行协助。",
+    "text_zh": "通过迅捷却又无害的一击，你能够对盟友的攻击进行协助。",
     "prerequisites_zh": "智力13，寓守于攻，基本攻击加值+6。",
-    "benefit_zh": "以迅捷动作，你能够尝试进行协助他人动作，使你的盟友的下一次攻击检定获得+1加值，或者是他的AC获得+1加值。<\/p><p>通常状况：协助他人是一个标准动作。"
+    "benefit_zh": "以迅捷动作，你能够尝试进行协助他人动作，使你的盟友的下一次攻击检定获得+1加值，或者是他的AC获得+1加值。",
+    "normal_zh": "协助他人是一个标准动作。"
 }

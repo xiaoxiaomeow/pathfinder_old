@@ -3,12 +3,13 @@
     "name": "Sleep Venom",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sleep%20Venom",
     "source": ["Advanced Race Guide pg. 209"],
-    "description": "You can change the nature of your toxic spittle to put your enemies to sleep.",
+    "text": "You can change the nature of your toxic spittle to put your enemies to sleep.",
     "prerequisites": "Vishkanya.",
     "benefit": "As a swift action, you may alter the effects of your venom so the target falls unconscious. This changes the initial and secondary effect of your venom to the following: <i>initial effect <\/i>staggered for 1d4 rounds; <i>secondary effect <\/i>unconsciousness for 1 minute. You must make the decision to alter your venom before you apply it to a weapon.",
     "normal": "Vishkanya venom deals Dexterity damage.",
     "name_zh": "昏睡毒素",
-    "description_zh": "你能够改变天生毒素的性质，并用其让你的敌人呼呼大睡。",
+    "text_zh": "你能够改变天生毒素的性质，并用其让你的敌人呼呼大睡。",
     "prerequisites_zh": "蝮血裔。",
-    "benefit_zh": "以一个迅捷动作，你能够改变自身毒素的效果，使其能够让目标失去意识。以下为你的毒素的初始以及后续效果的改变：初始效果－恍惚1d4轮；后续效果－失去意识1分钟。你必须在将毒素涂抹在武器上之前决定它的效果。<\/p><p>通常状况：蝮血毒造成敏捷伤害。"
+    "benefit_zh": "以一个迅捷动作，你能够改变自身毒素的效果，使其能够让目标失去意识。以下为你的毒素的初始以及后续效果的改变：初始效果－恍惚1d4轮；后续效果－失去意识1分钟。你必须在将毒素涂抹在武器上之前决定它的效果。",
+    "normal_zh": "蝮血毒造成敏捷伤害。"
 }

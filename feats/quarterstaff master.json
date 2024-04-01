@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Quarterstaff%20Master",
     "descriptors": ["Combat"],
     "source": ["Ultimate Magic pg. 154"],
-    "description": "You can wield a quarterstaff as either a two-handed or one-handed weapon.",
+    "text": "You can wield a quarterstaff as either a two-handed or one-handed weapon.",
     "prerequisites": "Weapon Focus (quarterstaff), base attack bonus +5.",
     "benefit": "By employing a number of different stances and techniques, you can wield a quarterstaff as a one-handed weapon. At the start of your turn, you decide whether or not you are going to wield the quarterstaff as a one-handed or two-handed weapon. When you wield it as a one-handed weapon, your other hand is free, and you cannot use the staff as a double weapon. You can take the feat Weapon Specialization in the quarterstaff even if you have no levels in fighter.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "When you use this feat to wield a quarterstaff as a one-handed weapon, you can spend 5 stamina points to retain the ability to use it as a double weapon and still keep a hand free. This effect lasts until the beginning of your next turn.",
     "prerequisiteKeys": ["weapon focus"],
     "name_zh": "木棍大师",
-    "description_zh": "你能将木棍当作单手或双手武器使用。",
+    "text_zh": "你能将木棍当作单手或双手武器使用。",
     "prerequisites_zh": "武器专攻（木棍），基本攻击加值+5。",
     "benefit_zh": "靠着采取一些不同的姿势和战技，你可以将木棍作为单手武器。在你行动轮开始的时候，你可以决定要将木棍当作单手还是双手武器使用，当你把它作为单手武器，你的另外一只手就可以自由活动，不过如此一来就不能用木裈以双头武器的方式发起攻击。此外，拥有此专长之后，就算你不是战士，你仍可以选择木棍的“武器专精”。"
 }

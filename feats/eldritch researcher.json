@@ -4,8 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Eldritch%20Researcher",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 68"],
-    "description": "You seek new applications for magical energy.",
+    "text": "You seek new applications for magical energy.",
     "prerequisites": "You must have created a new spell, or have The Way Things Work background.",
     "benefit": "When casting a spell you’ve created, add 1 to your caster level. In addition, you gain a +2 bonus on Spellcraft checks. If you have 10 or more ranks in Spellcraft, this bonus increases to +4.",
-    "special": "For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, <i>delayed blast fireball<\/i> as compared to <i>fireball<\/i>) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells."
+    "special": "For a self-created spell to benefit from this feat, it must be a truly novel spell. Spells slightly altered from the original (for example, <i>delayed blast fireball<\/i> as compared to <i>fireball<\/i>) gain no benefit. Alchemists can benefit from this feat as though their formulae and extracts were spells.",
+    "goal": "Create a new spell of at least 6th level.",
+    "completionBenefit": "The save DCs for any spells you create increase by 1 when you cast them. In addition, when applying metamagic feats to self-created spells, reduce the total level adjustment by 1. You can’t reduce metamagic costs to lower than the spell’s original level in this manner.",
+    "name_zh": "魔能学者",
+    "text_zh": "你寻求魔法能量的崭新应用。",
+    "prerequisites_zh": "你必须创造出一个新法术；或拥有“万物之理（The Way Things Work）”角色背景。",
+    "benefit_zh": "当你施展自己创造出的法术时CL+1。此外，你的法术辨识检定+2。如果你在法术辨识技能受训10级以上，该加值升至+4。",
+    "goal_zh": "创造出一个6级以上的新法术。",
+    "completionBenefit_zh": "当你施展自己创造出的法术时豁免DC+1。此外，你超魔施展自创法术时的法术环位提升减少1级。你无法通过此方式将超魔后的法术降低到其原本环位之下。<\/p><p>特殊备注：为从此专长中受益，一个自创法术必须有其完整描述。仅对原有法术做出微调（如相比“延迟爆裂火球术”与“火球术”）的法术无法获益。炼金术师也可以从此专长中受益，因为他们的炼金药剂本质也是法术。"
 }

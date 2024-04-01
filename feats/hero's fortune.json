@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hero's%20Fortune",
     "descriptors": ["Hero Point"],
     "source": ["Advanced Player's Guide pg. 324"],
-    "description": "Even at the start of your career, it was clear that you had a chance at greatness, and your legend continues to grow with every adventure.",
+    "text": "Even at the start of your career, it was clear that you had a chance at greatness, and your legend continues to grow with every adventure.",
     "benefit": "You gain a hero point. The maximum number of hero points you can have at any one time is increased to 5.",
     "normal": "You can have no more than 3 hero points at one time.",
     "special": "NPCs who take this feat receive 1 hero point and can have up to 3 (not 5).",
     "name_zh": "洪福齐天",
-    "description_zh": "从开始到现在，你的传说一直延续着。",
-    "benefit_zh": "你获得一个英雄点，且最大值为5。<\/p><p>通常状况：你同时只能最多拥有3英雄点。",
+    "text_zh": "从开始到现在，你的传说一直延续着。",
+    "benefit_zh": "你获得一个英雄点，且最大值为5。",
+    "normal_zh": "你同时只能最多拥有3英雄点。",
     "special_zh": "NPC藉此专长可获得1英雄点，且最大值为3。"
 }

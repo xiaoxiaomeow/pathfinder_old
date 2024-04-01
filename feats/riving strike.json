@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Riving%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 155"],
-    "description": "When you infuse your weapon with arcane might, your attacks make foes more susceptible to magic.",
+    "text": "When you infuse your weapon with arcane might, your attacks make foes more susceptible to magic.",
     "prerequisites": "Arcane Strike, ability to cast arcane spells.",
     "benefit": "If you have a weapon that is augmented by your Arcane Strike feat, when you damage a creature with an attack made with that weapon, that creature takes a –2 penalty on saving throws against spells and spell-like abilities. This effect lasts for 1 round.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When you use this feat, you can spend up to 3 stamina points to increase the duration of the effect by 1 round for each stamina point spent.",
-    "prerequisiteKeys": ["arcane strike"]
+    "prerequisiteKeys": ["arcane strike"],
+    "name_zh": "奥能收割",
+    "text_zh": "奥术力量顺着你的武器撕开对手的魔法防护，使他更易受到你的法术影响。",
+    "prerequisites_zh": "奥术打击，可以施放奥术魔法",
+    "benefit_zh": "如果你以奥术打击这次增强的武器对一个敌人造成了伤害，那么这个敌人在一轮内对抗你的法术和类法术能力时，在所有的豁免检定上承受-2减值。"
 }

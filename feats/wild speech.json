@@ -3,11 +3,11 @@
     "name": "Wild Speech",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wild%20Speech",
     "source": ["Ultimate Magic pg. 159"],
-    "description": "You speak with the tongue of men and beasts.",
+    "text": "You speak with the tongue of men and beasts.",
     "prerequisites": "Druid level 6th, wild shape class feature.",
     "benefit": "When using wild shape to take the form in which you cannot speak (such as an animal), you are able to speak normally in any language you know. This allows you to cast spells with verbal components, speak command words, and activate spell completion and spell trigger items. However, it does not give you the ability to cast spells requiring somatic components unless you also have the Natural Spell feat, or cast spells with material components merged into your form.<br><br> When using wild shape to take the form of an animal, you may use <i>speak with animals <\/i>to communicate with animals of your assumed form. This is a spell-like ability with a caster level equal to your druid level, and you may use it for a number of minutes per day equal to your druid level. These minutes do not have to be consecutive, but must be used in one-minute increments.",
     "name_zh": "野性发声",
-    "description_zh": "你能用人类或野兽的方式说话。",
+    "text_zh": "你能用人类或野兽的方式说话。",
     "prerequisites_zh": "德鲁伊等级6，【自然变身】职业特性。",
     "benefit_zh": "如果你透过【自然变身】变成没办法说话的型态，你可以正常的使用你所知的语言交谈，这允许你施放只依赖声音成分法术，使用法术完成形与法术触发形魔法物品，并讲出一些启动魔法物品用的关键词。但是“野性发声”并没有办法让你施放需要肢体成分或材料被融进你形态内的法术，要完成有肢体或材料成分的法术，你必须学习“自然施法”专长。<\/p><p>此外，当你处在动物型态的时候，你可以像使用了‘动物交谈’一样和与你型态相符的动物进行交流。此类法术能力的CL等同于你的德鲁伊等级，持续时间为每天每德鲁伊等级1分钟，这些时间不须连续，但是一次使用至少得消耗1分钟。"
 }

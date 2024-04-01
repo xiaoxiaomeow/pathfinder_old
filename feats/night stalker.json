@@ -6,8 +6,12 @@
         "Monster Codex pg. 153",
         "Classic Monsters Revisited pg. 49"
     ],
-    "description": "You excel at hunting humans in the dead of night and murdering them quietly.",
+    "text": "You excel at hunting humans in the dead of night and murdering them quietly.",
     "prerequisites": "Skill Focus (Stealth), darkvision, half-ogre or ogre, size Large or larger.",
     "benefit": "While in areas of dim lighting or natural darkness, you ignore all size penalties on Stealth checks and gain a +2 bonus on attack rolls against flat-footed enemies.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "尾行夜魔",
+    "text_zh": "你擅长在深夜追猎人类，并悄无声息地将他们杀掉。",
+    "prerequisites_zh": "技能专攻（潜行），黑暗视觉，半食人魔或食人魔，体型大型或更大",
+    "benefit_zh": "在光照效果为昏暗或是处于自然黑暗的环境中，你可以忽略因为体型而承受的潜行检定减值，并且会与措手不及的敌人在攻击检定上获得+2加值。"
 }

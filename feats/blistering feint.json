@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blistering%20Feint",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 130"],
-    "description": "Your foes flinch from the heat of your weapon, giving you an opportunity to slip past their defenses.",
+    "text": "Your foes flinch from the heat of your weapon, giving you an opportunity to slip past their defenses.",
     "prerequisites": "Combat Expertise, Improved Feint, ifrit.",
     "benefit": "You gain a +2 bonus on feint checks made while wielding a weapon that deals fire damage. Anytime you successfully feint a creature while using such a weapon, you may deal its fire damage to the enemy.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "When you attempt a feint while you’re wielding a weapon that deals fire damage, you can spend up to 5 stamina points to gain a bonus on the Bluff check equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved feint"
     ],
     "name_zh": "迅烈虚招",
-    "description_zh": "你的敌人因为你高热的武器而退缩，这使得你获得了绕过他们防御的机会。",
+    "text_zh": "你的敌人因为你高热的武器而退缩，这使得你获得了绕过他们防御的机会。",
     "prerequisites_zh": "寓守于攻，精通虚招，火元素裔。",
     "benefit_zh": "你使用能够造成火焰伤害的武器进行的虚招检定+2。每当你成功使用该武器对一名敌人进行虚招之后，就可以对其造成武器上的火焰伤害。"
 }

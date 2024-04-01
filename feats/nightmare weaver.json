@@ -4,18 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Nightmare%20Weaver",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 112"],
-    "description": "You can use your ability to create magical darkness to terrorize enemies.",
+    "text": "You can use your ability to create magical darkness to terrorize enemies.",
     "prerequisites": "Improved Unarmed Strike, Nightmare Fist, Intimidate 2 ranks, ability to cast <i>darkness<\/i>.",
     "benefit": "By spending a full-round action to cast <i>darkness<\/i>, you can also make Intimidate checks to demoralize all foes in the spell’s initial area.",
     "special": "This feat counts as Dazzling Display for purposes of qualifying for Deadly Stroke and Shatter Defenses.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "When you cast <i>darkness<\/i> as a standard action, you can spend 5 stamina points to also attempt Intimidate checks to demoralize all foes in the spell’s initial area.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "nightmare fist"
     ],
     "name_zh": "夜魇织者",
-    "description_zh": "你可以使用你创造魔法黑暗的能力来让敌人陷入恐惧。",
+    "text_zh": "你可以使用你创造魔法黑暗的能力来让敌人陷入恐惧。",
     "prerequisites_zh": "精通徒手打击，夜魇之拳，威吓2级，创造魔法黑暗的能力。",
     "benefit_zh": "通过花费整轮动作来施放‘黑暗术’，你可以同时对影响范围内的所有敌人进行一次威吓检定。",
     "special_zh": "该专长在获取“致死打击（Deadly Stroke）”和“粉碎防御（Shatter Defenses）”专长时，可以替代“炫目技巧”作为先决条件。"

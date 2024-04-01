@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Final%20Embrace%20Horror",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 101"],
-    "description": "Your constricting attack has become stronger and more lethal.",
+    "text": "Your constricting attack has become stronger and more lethal.",
     "prerequisites": "Str 15, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; base attack bonus +6.",
     "benefit": "A creature that takes damage from your constrict attack is also shaken until the start of your next turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When a creature is damaged by your constrict ability, you can spend 5 stamina points to sicken that creature until the start of your next turn.",
     "prerequisiteKeys": ["final embrace"],
     "name_zh": "恐怖最终拥抱",
-    "description_zh": "很少有生物能活着离开你粉碎性的最终拥抱。",
+    "text_zh": "很少有生物能活着离开你粉碎性的最终拥抱。",
     "prerequisites_zh": "力量15，智力3，纳迦、蛇人或拥有＜紧勒＞特殊攻击的生物，最终拥抱，基本攻击加值+6。",
     "benefit_zh": "当你的＜紧勒＞攻击对一个生物造成伤害，它同时也会陷入颤栗状态，持续到你下次行动开始为止。"
 }

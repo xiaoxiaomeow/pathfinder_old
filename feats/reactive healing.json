@@ -3,11 +3,15 @@
     "name": "Reactive Healing",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Healing",
     "source": ["Advanced Class Guide pg. 155"],
-    "description": "You can channel healing energy in response to an attack that would knock you unconscious.",
+    "text": "You can channel healing energy in response to an attack that would knock you unconscious.",
     "prerequisites": "Quick Channel or Quicken Spell; channel energy or lay on hands class feature.",
     "benefit": "When the damage from an attack or an effect would reduce you to 0 or fewer hit points, you can expend one use of channel energy (of a form that would heal you) or lay on hands as an immediate action to heal yourself. The healing affects only you, even if it would normally affect others.",
     "prerequisiteKeys":     [
         "quick channel",
         "quicken spell"
-    ]
+    ],
+    "name_zh": "救急医疗",
+    "text_zh": "你将神能存储在体内，在最紧急的关头依靠它们撑过死劫。",
+    "prerequisites_zh": "快速引导UM专长或法术瞬发，引导能量或圣疗职业能力",
+    "benefit_zh": "如果一次攻击或效果将会把你的生命值降低到0或以下，你可以使用一次每日引导能力次数（如果它可以治疗你）或圣疗次数，以一个直觉动作用它治疗你。这个治疗效果仅对你生效。"
 }

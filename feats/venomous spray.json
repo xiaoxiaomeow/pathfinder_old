@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Venomous%20Spray",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 200"],
-    "description": "You can spit your poison into a nearby opponent’s face.",
+    "text": "You can spit your poison into a nearby opponent’s face.",
     "prerequisites": "Serpentfolk.",
-    "benefit": "You can spit venom as a secondary ranged attack with a range of 5 feet. This is a natural attack and doesn’t provoke attacks of opportunity. A target struck by your venom must succeed at a Fortitude save (DC = your poison DC) or be blinded for 1d4 rounds and suffer the normal effects of your poison. You can’t use this attack during any round in which you make a bite attack (and vice versa). After spitting venom, you are unable to use your poisonous bite or to spit venom for 1d4 rounds."
+    "benefit": "You can spit venom as a secondary ranged attack with a range of 5 feet. This is a natural attack and doesn’t provoke attacks of opportunity. A target struck by your venom must succeed at a Fortitude save (DC = your poison DC) or be blinded for 1d4 rounds and suffer the normal effects of your poison. You can’t use this attack during any round in which you make a bite attack (and vice versa). After spitting venom, you are unable to use your poisonous bite or to spit venom for 1d4 rounds.",
+    "name_zh": "喷毒",
+    "text_zh": "你恶毒地喷了别人一脸",
+    "prerequisites_zh": "蛇人",
+    "benefit_zh": "你可以用喷吐毒液作为一次射程为5尺的次要远程攻击，这是一次天生武器攻击且不引发借机攻击。被你的毒液喷到敌人需要通过一个（DC=你的毒素DC）的强韧豁免检定否则目盲1d4轮并同时受到你的毒素影响。你不能在使用过你的啮咬攻击的同一轮内使用喷吐毒液（反之亦然），并且在此之后，你在1d4轮内无法使用啮咬攻击的毒素效果或是进行另一次喷吐毒液。"
 }

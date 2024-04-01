@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Killing%20Flourish",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 152"],
-    "description": "You inspire dread in other foes when you slay an enemy.",
+    "text": "You inspire dread in other foes when you slay an enemy.",
     "prerequisites": "Intimidating Prowess, Intimidate 4 ranks, slayer level 4th.",
     "benefit": "When you reduce your target to below 0 hit points with a melee attack, as a swift action you can attempt an Intimidate check to demoralize all foes within 30 feet who can see your attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "When you confirm a critical hit, you can spend 5 stamina points and take a swift action to attempt an Intimidate check to demoralize all foes within 30 feet who can see your attack.",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys": ["intimidating prowess"],
+    "name_zh": "处刑秀",
+    "text_zh": "当你刺杀一个目标，周围所有的人都在恐惧中战栗。",
+    "prerequisites_zh": "威逼，威吓技能4级，杀手职业等级4",
+    "benefit_zh": "当你通过近战攻击将一个生物的生命值降到0以下时，你可以以迅捷动作进行威吓检定以挫败30尺范围内所有敌人的士气。"
 }

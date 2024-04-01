@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Parry",
     "descriptors": ["Combat"],
     "source": ["People of the River pg. 12"],
-    "description": "A flick of the wrist binds your opponent’s weapon.",
+    "text": "A flick of the wrist binds your opponent’s weapon.",
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "When you successfully parry a foe’s melee attack (with a dueling parry or the parry class feature), your next melee attack against the target does not allow the enemy to apply its Dexterity bonus to AC (if any). This attack must be made before the end of your next turn.",
     "prerequisiteKeys": ["combat expertise"]

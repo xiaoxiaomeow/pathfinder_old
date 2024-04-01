@@ -7,7 +7,15 @@
         "Quests and Campaigns pg. 11",
         "Ultimate Campaign pg. 70"
     ],
-    "description": "Your time in shackles has forever marked your soul.",
+    "text": "Your time in shackles has forever marked your soul.",
     "prerequisites": "You must have been enslaved for at least 6 months, or have the Imprisoned or Kidnapped background (see <i>Ultimate Campaign<\/i>).",
-    "benefit": "You gain a +1 bonus on attack rolls, weapon damage rolls, and skill checks when your actions would directly lead to freeing prisoners or slaves."
+    "benefit": "You gain a +1 bonus on attack rolls, weapon damage rolls, and skill checks when your actions would directly lead to freeing prisoners or slaves.",
+    "goal": "Free at least 200 slaves through perilous rescues (not merely buying them at market).",
+    "completionBenefit": "You gain the ability to inspire others through your dedication to your cause. Allies within 20 feet receive your Liberator feat bonuses when working with you to free prisoners or slaves. In addition, as a standard action you can inspire slaves and former slaves within 120 feet, giving them temporary hit points equal to 1/2 your character level and a +1 bonus on saving throws. These benefits last for 1 hour, and a given creature can receive this benefit only once per day. These are mind-affecting effects, and the inspiring bonus is language-dependent. ",
+    "name_zh": "自由斗士",
+    "text_zh": "被镣铐束缚的日子永远地锻造了你的灵魂。",
+    "prerequisites_zh": "你必须被奴役至少6个月；或拥有“身陷牢狱（Imprisoned）”、“绑架经历（Kidnapped）”等角色背景之一。",
+    "benefit_zh": "你在直接领导的解放囚犯和奴隶行动中，攻击、伤害和技能检定+1。",
+    "goal_zh": "通过冒险行动使200个以上奴隶重获自由（在市场上为其赎身无效）。",
+    "completionBenefit_zh": "你通过自己不屈的信念激励他人。与你共同解救囚犯或奴隶时，距你20尺内的同伴均能获得你的专长加值。此外，你能够通过标准动作来鼓舞120尺内的所有奴隶和前奴隶，给予他们等同于你角色等级一半的临时HP、以及豁免+1。这些加值持续1小时，并且每个生物每日只能受到这种影响一次。这是影响心智的效果，而鼓舞带来的加值则依赖于语言。"
 }

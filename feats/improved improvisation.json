@@ -3,7 +3,7 @@
     "name": "Improved Improvisation",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Improvisation",
     "source": ["Advanced Race Guide pg. 77"],
-    "description": "You are masterful in your improvisation.",
+    "text": "You are masterful in your improvisation.",
     "prerequisites": "Int 13, Fast Learner, Improvisation, human.",
     "benefit": "Your nonproficiency penalty with weapons, armor, and shields is halved. In addition, the bonus on all skill checks for skills you have no ranks in increases to +4 instead of +2.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "improvisation"
     ],
     "name_zh": "灵机又动",
-    "description_zh": "先决条件：智力13，速学者，灵机一动，人类。",
+    "text_zh": "先决条件：智力13，速学者，灵机一动，人类。",
     "prerequisites_zh": "智力13，速学者，灵机一动，人类。",
     "benefit_zh": "你使用不擅长的武器、盔甲以及盾牌时罚值减半。此外你在任何没有投入技能点的技能检定中获得的加值提升至+4。"
 }

@@ -4,14 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pummeling%20Charge",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 154"],
-    "description": "Your charge ends with a mighty haymaker.",
+    "text": "Your charge ends with a mighty haymaker.",
     "prerequisites": "Improved Unarmed Strike, Pummeling Style; base attack bonus +12, brawler level 8th, or monk level 8th.",
     "benefit": "You can charge and make a full attack or flurry of blows at the end of your charge as part of the charge action. You can use Pummeling Charge in this way only if all of your attacks qualify for using Pummeling Style against a single target.",
     "normal": "You cannot make a full attack on a charge.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "When you make a Pummeling Charge attack, you can spend 5 stamina points to make a single extra attack at your highest bonus.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "pummeling style"
-    ]
+    ],
+    "name_zh": "天将奔烈",
+    "text_zh": "挟裹着呼啸之势，你聚起至强至刚的斗气冲击敌人",
+    "prerequisites_zh": "精通徒手击打，刚烈掌，基础攻击加值+12或拳师等级8或武僧等级8（译注：注意和龙拳一样，这个流派进阶只有一阶）",
+    "benefit_zh": "在使用刚烈掌流派攻击时，你可以在冲锋后进行全回合疾风连击，作为冲锋动作的一部分。你必须在预定对目标发动刚烈掌的情况下，才能发动天将奔烈。",
+    "normal_zh": "你无法在冲锋时进行全回合攻击。"
 }

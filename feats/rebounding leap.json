@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Rebounding%20Leap",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 115"],
-    "description": "Your riding and lancing expertise allows you to enter and leave the saddle with great speed.",
+    "text": "Your riding and lancing expertise allows you to enter and leave the saddle with great speed.",
     "prerequisites": "Leaping lance class feature, Acrobatics 5 ranks, Ride 11 ranks.",
     "benefit": "When you succeed at the Acrobatics check to jump as part of your leaping lance class feature, you can remount your steed as a swift action.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "When attempting an Acrobatics check to jump as part of your leaping lance class feature, you can spend up to 5 stamina points to gain a bonus on that check equal to the number of stamina points you spent.",
     "name_zh": "返身上马",
-    "description_zh": "你的骑术和长矛使用经验让你能够极快的上下坐骑。",
+    "text_zh": "你的骑术和长矛使用经验让你能够极快的上下坐骑。",
     "prerequisites_zh": "【枪矛跃击】职业特性，特技5级，骑术11级。",
     "benefit_zh": "如果你成功的进行了一次跳跃的特技检定，你在使用【枪矛跃击】能力后可以用一个迅捷动作回到坐骑上。<\/p><p>【能力速查】枪矛跃击（Leaping Lance, Ex）：15级时，龙骑兵（Dragoon, UC战士变体）在骑乘时他与他的坐骑在骑术检定上将不再承受盔甲检定减值，而且冲锋时龙骑兵可以选择从坐骑上跳到目标面前，如果他跳跃超过10尺，那么冲锋的防御罚值和命中加值将会加倍，且在计算伤害与相关专长时仍被视为骑乘状态。"
 }

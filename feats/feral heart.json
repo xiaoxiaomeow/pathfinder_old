@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Feral%20Heart",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 69"],
-    "description": "In your chest beasts the heart of a wild beast.",
+    "text": "In your chest beasts the heart of a wild beast.",
     "prerequisites": "You must have reverted to savage behavior through a traumatic event or extended period in the wilderness, or have the Raised by Beasts background.",
-    "benefit": "Whenever you receive a morale bonus on Strength or attack rolls (such as from <i>heroism <\/i>or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends."
+    "benefit": "Whenever you receive a morale bonus on Strength or attack rolls (such as from <i>heroism <\/i>or the barbarian rage class feature), you receive a +2 bonus on Dexterity- and Strength-based ability and skill checks and a +1 bonus on Reflex saves until the morale bonus effect ends.",
+    "goal": "Woo and then marry or otherwise enter into a committed relationship with a person from a civilized culture. This relationship must be forged in love, not bought or coerced.",
+    "completionBenefit": "Delay the penalties for the exhausted, fatigued, shaken, and sickened conditions for 1 round after first receiving them. If you already have the condition in question and it is applied again, this feat provides no benefit. Despite ignoring the penalties you do still have the condition. For example, if you become shaken again while benefiting from this feat, you become frightened as normal.",
+    "name_zh": "狂野之心",
+    "text_zh": "野兽的心脏在你的胸膛里跳动着。",
+    "prerequisites_zh": "你必须因精神受创而回归野性、或曾经历一段野性时光；或拥有“野性狼孩（Raised by Beasts）”角色背景。",
+    "benefit_zh": "每当你受到力量属性或攻击检定的士气加值（如通过‘英雄气概’法术或野蛮人的狂暴能力），你基于力量和敏捷的属性检定、技能检定+2，同时反射豁免+1，直到士气效果结束。",
+    "goal_zh": "与一位来自文明社会的伴侣结合。你们的关系必须建立在爱情，而非买卖或胁迫之上。",
+    "completionBenefit_zh": "陷入疲乏、力竭、战栗或恶心效果时将其延后1轮生效。若你已经处于该状态、并再次发生类似状况，本专长无效。尽管暂时无视对应效果，但它们确实存在。举例而言，当你战栗并因本专长受益时，若再度受到战栗效果将会陷入惊惧。"
 }

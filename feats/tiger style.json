@@ -7,15 +7,16 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 122"],
-    "description": "Your unarmed fighting style emulates the strength and ferocity of a tiger. ",
+    "text": "Your unarmed fighting style emulates the strength and ferocity of a tiger. ",
     "prerequisites": "Improved Unarmed Strike, base attack bonus +3 or monk level 3rd.",
     "benefit": "While using this style, you gain a +2 bonus to your CMD against bull rush, overrun, and trip maneuvers. You can also deal slashing damage with your unarmed strikes. Whenever you score a critical hit with your slashing unarmed strike, your opponent also takes 1d4 points of bleed damage at the start of his next two turns.",
     "normal": "Unarmed strikes deal bludgeoning damage.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you score a critical hit with your slashing unarmed strike, you can spend 2 stamina points to make the bleed damage last until the target is healed either with a Heal check or magical healing (instead of lasting only 2 turns).",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "虎形拳",
-    "description_zh": "你的徒手打击体现了猛虎的力量和凶猛。",
+    "text_zh": "你的徒手打击体现了猛虎的力量和凶猛。",
     "prerequisites_zh": "精通徒手打击，基本攻击加值+3或武僧3级。",
-    "benefit_zh": "你使用虎形拳流派架势时，你对冲撞，闯越与摔绊的CMD+2。在此架势下你还可以用徒手击打造成挥砍伤害。如果你造成挥砍伤害的徒手击打造成重击，对手在每轮开始时会受到1d4点出血伤害，出血持续2轮。<\/p><p>通常状况：徒手打击造成钝击伤害。"
+    "benefit_zh": "你使用虎形拳流派架势时，你对冲撞，闯越与摔绊的CMD+2。在此架势下你还可以用徒手击打造成挥砍伤害。如果你造成挥砍伤害的徒手击打造成重击，对手在每轮开始时会受到1d4点出血伤害，出血持续2轮。",
+    "normal_zh": "徒手打击造成钝击伤害。"
 }

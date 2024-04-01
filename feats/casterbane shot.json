@@ -7,13 +7,12 @@
         "Grit"
     ],
     "source": ["Inner Sea Combat pg. 17"],
-    "description": "Life in the Mana Wastes, where magic has unpredictable and often fatal effects, has taught you to disable spellcasters with your firearms.",
-    "prerequisites": "Amateur Gunslinger or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4.",
+    "text": "Life in the Mana Wastes, where magic has unpredictable and often fatal effects, has taught you to disable spellcasters with your firearms.",
+    "prerequisites": "Amateur Gunslinger<sup>UC<\/sup> or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4.",
     "benefit": "If you ready a ranged attack with a firearm to attack a spellcaster when he begins casting a spell and successfully hit your opponent, you can expend 1 grit point to increase the target’s concentration check DC for being injured while casting by 5.",
-    "staminaSource": ["Weapon Master's Handbook pg. 24"],
+    "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "When using Casterbane Shot, you can spend up to 5 stamina points to increase the DC of the concentration check imposed by the feat by an amount equal to the number of stamina points spent.",
     "prerequisiteKeys":     [
-        "amateur gunslinger",
         "point-blank shot",
         "precise shot"
     ]

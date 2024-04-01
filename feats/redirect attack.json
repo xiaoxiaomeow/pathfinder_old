@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Redirect%20Attack",
     "descriptors": ["Combat"],
     "source": ["Melee Tactics Toolbox pg. 7"],
-    "description": "When you dodge an attack, you can deflect it toward another opponent.",
+    "text": "When you dodge an attack, you can deflect it toward another opponent.",
     "prerequisites": "Dex 15, Int 15, Dodge.",
     "benefit": "Once per turn, when an opponent only you threaten fails an attack against you, you can redirect the attack to target another foe. The new target must be adjacent to you and within reach of the opponent that missed you. Attempt a combat maneuver check; if the result exceeds both the Combat Maneuver Defense of the opponent who missed you and the Armor Class of the new target, the attack strikes and deals its normal damage.",
-    "staminaSource": ["Armor Master's Handbook pg. 21"],
+    "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend up to 5 stamina points to grant yourself a bonus on the combat maneuver check equal to the number of stamina points you spent. (<I>Melee Tactics Toolbox 7<\/i>)",
     "prerequisiteKeys": ["dodge"]
 }

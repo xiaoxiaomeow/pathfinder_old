@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Redemption",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 71"],
-    "description": "Your past failure haunts you and drives you on.",
+    "text": "Your past failure haunts you and drives you on.",
     "prerequisites": "You must have lost class features by violating the code of conduct of a class that possesses such a code, or have the Dishonored Family background.",
-    "benefit": "As an immediate action, you can add a +1 bonus to the result of an ability check, attack roll, saving throw, or skill check you have just rolled by becoming shaken for 1 minute. You must choose before the result is revealed."
+    "benefit": "As an immediate action, you can add a +1 bonus to the result of an ability check, attack roll, saving throw, or skill check you have just rolled by becoming shaken for 1 minute. You must choose before the result is revealed.",
+    "goal": "Regain any lost class features and complete a quest to prove your worth. In the course of completing this quest, you must decisively defeat a challenging foe. The quest should relate in some fashion to the transgression that removed your class abilities or led to you being disgraced.",
+    "completionBenefit": "You gain the ability to reroll a failed saving throw once per day. You must keep the result of the second roll, even if it is lower.",
+    "name_zh": "救赎之旅",
+    "text_zh": "过去的悔恨侵扰着你，同时也驱动你前行。",
+    "prerequisites_zh": "你必须因违背行为准则（code of conduct）而失去职业特性；或拥有“落魄门第（Dishonored Family）”角色背景。",
+    "benefit_zh": "你能够通过直觉动作使刚才进行的属性、攻击、豁免或技能检定+1，并因此战栗1分钟。你必须在结果确认前做出决定。",
+    "goal_zh": "重获失去的职业特性，并完成一项证明自己价值的冒险任务。为完成此任务，你必须完胜一个强大敌手。该任务应该与导致你失去职业特性或令你蒙羞的事件相关联。",
+    "completionBenefit_zh": "你获得每日1次重骰失败的豁免检定的能力。你必须接受重骰结果，即便更糟。"
 }

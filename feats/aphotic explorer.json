@@ -3,7 +3,7 @@
     "name": "Aphotic Explorer",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aphotic%20Explorer",
     "source": ["Blood of the Sea pg. 9"],
-    "description": "You have trained to steel yourself against the cold when in dark, lightless realms such as the deep ocean.",
+    "text": "You have trained to steel yourself against the cold when in dark, lightless realms such as the deep ocean.",
     "prerequisites": "Endurance, gillman.",
     "benefit": "While you are in darkness or dim light, you can take a swift action to gain cold resistance 5 for 1 round. If you have 11 or more Hit Dice, you gain cold resistance 10 instead.",
     "prerequisiteKeys": ["endurance"]

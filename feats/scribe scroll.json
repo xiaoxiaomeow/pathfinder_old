@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scribe%20Scroll",
     "descriptors": ["Item Creation"],
     "source": ["PRPG Core Rulebook pg. 132"],
-    "description": "You can create magic scrolls.",
+    "text": "You can create magic scrolls.",
     "prerequisites": "Caster level 1st.",
     "benefit": "You can create a scroll of any spell that you know. Scribing a scroll takes 2 hours if its base price is 250 gp or less, otherwise scribing a scroll takes 1 day for each 1,000 gp in its base price. To scribe a scroll, you must use up raw materials costing half of this base price. See the magic item creation rules in Magic Items for more information.",
     "name_zh": "抄写卷轴",
-    "description_zh": "你能够制造魔法卷轴。",
+    "text_zh": "你能够制造魔法卷轴。",
     "prerequisites_zh": "施法者等级1级。",
     "benefit_zh": "你能够制造你所知任意法术的卷轴。如果卷轴的基础价格为250 gp或以下，抄录需要2小时，否则每1000gp的基础价格需要1天。要想抄写卷轴，你必须花费价值为其基础价格一半的原材料。更多信息请参见魔法物品规则。"
 }

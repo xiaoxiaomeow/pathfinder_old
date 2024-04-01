@@ -3,7 +3,11 @@
     "name": "Aquatic Adaption",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aquatic%20Adaption",
     "source": ["Monster Codex pg. 140"],
-    "description": "You’ve developed a strange but useful quirk for your race—you can breathe underwater.",
+    "text": "You’ve developed a strange but useful quirk for your race—you can breathe underwater.",
     "prerequisites": "Hold breath.",
-    "benefit": "You can breathe water as well as air."
+    "benefit": "You can breathe water as well as air.",
+    "name_zh": "水生适应",
+    "text_zh": "你身上产生了一种奇怪但却有用的突变——你可以在水下呼吸。",
+    "prerequisites_zh": "闭气（Hold Breath）",
+    "benefit_zh": "你可以如常在水下呼吸。"
 }

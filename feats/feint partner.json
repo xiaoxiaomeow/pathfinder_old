@@ -7,13 +7,13 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 100"],
-    "description": "A little diversion is all you need to slip through your foe’s defenses.",
+    "text": "A little diversion is all you need to slip through your foe’s defenses.",
     "prerequisites": "Bluff 1 rank.",
     "benefit": "Whenever an ally who also has this feat successfully feints an opponent, that opponent also loses his Dexterity bonus to AC against the next attack you make against him before the end of the feinting ally’s next turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When feinting an opponent, you can spend 5 stamina points to have that opponent lose its Dexterity bonus to AC against the next attack made by any of your allies. If the next ally to attack that opponent also has this feat, that ally’s attacks do not count as the next attack for the purpose of this combat trick, allowing another ally to gain this benefit.",
     "name_zh": "联合虚招",
-    "description_zh": "一个小小的分神就可以让你穿透敌人的防御。",
+    "text_zh": "一个小小的分神就可以让你穿透敌人的防御。",
     "prerequisites_zh": "唬骗1级。",
     "benefit_zh": "当拥有此专长的盟友成功对敌人使用虚招时，该目标在盟友的下一轮开始前对你的第一次攻击失去敏捷加值。"
 }

@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Paralyzing%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 153"],
-    "description": "Finding just the right pressure point, you paralyze your foe with a single hit.",
+    "text": "Finding just the right pressure point, you paralyze your foe with a single hit.",
     "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +14.",
     "benefit": "You must declare that you are using this feat before you make your attack roll (thus, a failed attack roll ruins the attempt). Paralyzing Strike forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + 1/2 your character level + your Wisdom modifier), in addition to dealing damage normally. A defender who fails this saving throw is paralyzed for 1 round, until just before your next turn. You can attempt to use Paralyzing Strike once per day for every 4 character levels you have, but no more than once per round. Constructs, incorporeal creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
-    "staminaSource": ["Pathfinder Unchained pg. 128"],
+    "staminaSource": "Pathfinder Unchained pg. 128",
     "staminaText": "You can spend 5 stamina points to declare that you are using this feat after you’ve hit with an unarmed strike roll.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "定身拳",
+    "text_zh": "你巧妙的一击命中对手的秘孔，使他全身僵直。",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手击打，基础攻击加值+14",
+    "benefit_zh": "你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。定身拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将麻痹1轮或直到受到任何造成生命值伤害的法术为止。每4级你每天可以多尝试一次取力攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物和免疫重击的生物不会被本能力影响。"
 }

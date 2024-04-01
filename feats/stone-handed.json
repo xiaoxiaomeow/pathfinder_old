@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Stone-Handed",
     "descriptors": ["Combat"],
     "source": ["Elemental Master's Handbook pg. 10"],
-    "description": "Drawing upon techniques to combat animated creatures, you bring a strike like an avalanche of stone.",
+    "text": "Drawing upon techniques to combat animated creatures, you bring a strike like an avalanche of stone.",
     "prerequisites": "Str 13, Stunning Fist.",
     "benefit": "Before making a melee attack with an unarmed strike, you can expend one use of Stunning Fist to declare a stone-handed strike. Resolve the attack normally, except your attack ignores an amount of the target’s hardness equal to your monk level or one-quarter your base attack bonus (minimum 1), whichever is higher. This effect replaces other effects or conditions that would be caused by your Stunning Fist.",
     "prerequisiteKeys": ["stunning fist"]

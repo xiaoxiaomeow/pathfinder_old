@@ -3,13 +3,13 @@
     "name": "Spell Penetration",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spell%20Penetration",
     "source": ["PRPG Core Rulebook pg. 134"],
-    "description": "Your spells break through spell resistance more easily than most.",
+    "text": "Your spells break through spell resistance more easily than most.",
     "benefit": "You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a creature's spell resistance.",
-    "mythicSource": ["Mythic Adventures pg. 74"],
-    "mythicDescription": "Your mythic power breaches your enemies’ defenses.",
-    "mythicPrerequisites": "Spell Penetration.<br><br",
+    "mythicSource": "Mythic Adventures pg. 74",
+    "mythicText": "Your mythic power breaches your enemies’ defenses.",
+    "mythicPrerequisites": "Spell Penetration.",
     "mythicBenefit": "Add half your tier to caster level checks to overcome spell resistance. If you have Greater Spell Penetration, add your full tier instead.",
     "name_zh": "法术穿透",
-    "description_zh": "你的法术比大多数的法术更容易穿透法术抗力。",
+    "text_zh": "你的法术比大多数的法术更容易穿透法术抗力。",
     "benefit_zh": "你在克服生物法术抗力的施法者等级检定（1d20+CL）上获得+2加值。"
 }

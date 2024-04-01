@@ -3,7 +3,11 @@
     "name": "Hidden Presence",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Hidden%20Presence",
     "source": ["Occult Adventures pg. 135"],
-    "description": "You are adept at hiding within your host.",
+    "text": "You are adept at hiding within your host.",
     "prerequisites": "Int or Cha 17, ability to cast <i>possession<\/i> or <i>greater possession<\/i>.",
-    "benefit": "While possessing another creature, you can hide yourself from divinations and pass through wards such as <i>magic circle against evil<\/i> or the effects of a <i>forbiddance<\/i> spell. You must attempt a Will save against the spell (even if it doesn’t normally allow a saving throw). If you succeed, the spell treats you as if you were your host (for instance, divinations would reveal only the host’s alignment, and <i>forbiddance<\/i> keyed to the host’s alignment wouldn’t damage you). If your saving throw fails, the spell functions against you as normal; if the spell normally allows a save, your previous failure doesn’t count as a failed save against the spell’s normal effects."
+    "benefit": "While possessing another creature, you can hide yourself from divinations and pass through wards such as <i>magic circle against evil<\/i> or the effects of a <i>forbiddance<\/i> spell. You must attempt a Will save against the spell (even if it doesn’t normally allow a saving throw). If you succeed, the spell treats you as if you were your host (for instance, divinations would reveal only the host’s alignment, and <i>forbiddance<\/i> keyed to the host’s alignment wouldn’t damage you). If your saving throw fails, the spell functions against you as normal; if the spell normally allows a save, your previous failure doesn’t count as a failed save against the spell’s normal effects.",
+    "name_zh": "隐藏者",
+    "text_zh": "你很擅长潜藏于宿主之中。",
+    "prerequisites_zh": "智力或魅力17，施放占据术（Possession）或高等占据术（Possession，Greater）的能力",
+    "benefit_zh": "正在占据其他生物时，你能够在预言效果（divinations）中隐藏自身，而且能够通过反邪恶法阵（Magic Circle against Evil）或者禁制术（Forbiddance）这样的防护。你必须尝试一次意志豁免对抗这些法术（即便这些法术原本并不允许进行豁免）。若豁免成功，则这些法术会将你视作为你的宿主一般（举例说明：预言效果仅会揭示出宿主的阵营，禁制术仅会针对宿主的阵营而不会伤害你）。若豁免失败，这些法术就会如常对你生效；若法术在正常情况下允许进行豁免，那么首先遭受的此次失败并不会被算作为在对抗法术正常效果的豁免中失败。"
 }

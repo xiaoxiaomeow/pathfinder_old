@@ -3,11 +3,11 @@
     "name": "Inner Breath",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Inner%20Breath",
     "source": ["Advanced Race Guide pg. 159"],
-    "description": "Your body is suffused with elemental air that provides for all your respiratory needs.",
+    "text": "Your body is suffused with elemental air that provides for all your respiratory needs.",
     "prerequisites": "Character level 11th, sylph.",
     "benefit": "You no longer need to breathe. You are immune to effects that require breathing (such as inhaled poison). This does not give you immunity to cloud or gas attacks that do not require breathing, such as <i>cloudkill<\/i>.",
     "name_zh": "内在之息",
-    "description_zh": "你体内充满了气之元素，它提供你呼吸所需。",
+    "text_zh": "你体内充满了气之元素，它提供你呼吸所需。",
     "prerequisites_zh": "角色等级11，风元素裔。",
     "benefit_zh": "你不再需要呼吸。你免疫那些需要呼吸产生的效果（比如吸入毒素）。但是这不会使你免疫不需要呼吸进行的云雾或气体攻击，比如‘死云术’。"
 }

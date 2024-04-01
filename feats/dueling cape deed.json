@@ -7,10 +7,14 @@
         "Panache"
     ],
     "source": ["Advanced Class Guide pg. 145"],
-    "description": "You can use a simple cape to guard yourself and confound your foes.",
+    "text": "You can use a simple cape to guard yourself and confound your foes.",
     "prerequisites": "Amateur Swashbuckler† or panache† class feature; Dodge, Sleight of Hand 1 rank.",
     "benefit": "As a move action, you can wrap a cape that you’re wearing around your arm (removing it if necessary), and treat it as a buckler. If you are using the cape in this way, and an opponent misses you with a melee attack, as an immediate action you can spend 1 panache point to release your cape from your arm and entangle your foe in it. The foe can free it by using a full-round action to escape or by destroying the cape; a typical cape has hardness 1 and 3 hit points. You can use this feat with items similar in shape and weight to a cape, such as a cloak or a curtain.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "When you use this feat to entangle a foe, you can spend 5 stamina points in place of spending 1 panache point.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "斗篷与匕首",
+    "text_zh": "将一副斗篷披挂在副手，你依靠它在战斗中的上下翻飞来迷惑你的敌人，甚至缠裹住他们。",
+    "prerequisites_zh": "闪避，手上功夫技能1级",
+    "benefit_zh": "以一个移动动作，你可以将一副斗篷持握在手上（或是移除它），如同你使用小圆盾。如果你使用斗篷来防卫，每当敌人在近战攻击你时失手，你都可以消耗1点时髦值，把手上的斗篷罩到对方身上使其陷入纠缠状态。对方必须使用一个整轮动作来解开斗篷或是将其撕碎才能脱身。一副典型的斗篷具有3点生命值，1点硬度。任何制式和长度的斗篷，比如剑客的短斗篷或披风都可以被用来防御。"
 }

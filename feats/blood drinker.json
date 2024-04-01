@@ -3,11 +3,11 @@
     "name": "Blood Drinker",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Blood%20Drinker",
     "source": ["Advanced Race Guide pg. 99"],
-    "description": "Consuming blood reinvigorates you.",
+    "text": "Consuming blood reinvigorates you.",
     "prerequisites": "Dhampir.",
     "benefit": "Choose one humanoid subtype, such as \"goblinoid\" (this subtype cannot be \"dhampir\"). You have acquired a taste for the blood of creatures with this subtype. Whenever you drink fresh blood from such a creature, you gain 5 temporary hit points and a +1 bonus on checks and saves based on Constitution. The effects last 1 hour. If you feed multiple times, you continue to gain hit points to a maximum of 5 temporary hit points for every three Hit Dice you have, but the +1 bonus on Constitution-based skill checks and saving throws does not stack.<br><br> Normally, you can only drink blood from an opponent who is helpless, grappled, paralyzed, pinned, unconscious, or similarly disabled. If you have a bite attack, you can drink blood automatically as part of your bite attack; otherwise, you must first cut your target by dealing 1 hit point of damage with a slashing or piercing weapon (though you may feed upon a creature with severe wounds or a bleed effect without cutting it first). Once you cut the target, you can drink from its wound as a standard action. Drinking blood deals 2 points of Constitution damage to the creature you feed upon.<br><br> The blood must come from a living creature of the specified humanoid subtype. It cannot come from a dead or summoned creature. Feeding on unwilling intelligent creatures is an evil act.",
     "name_zh": "饮血者",
-    "description_zh": "吸取鲜血使你重新振作起来。",
+    "text_zh": "吸取鲜血使你重新振作起来。",
     "prerequisites_zh": "吸血裔。",
     "benefit_zh": "选择一种类人生物子类，比如地精（你无法选取吸血裔子类）。你偏好吸食这个子类生物的鲜血。每当你从这类生物身上吸食新鲜的血液之后，你获得5点临时生命，并且在所有基于体质的检定与豁免+1。该效果持续1小时。临时生命可以通过多次吸食叠加，你每拥有3个HD，可以获得的临时生命上限增加就会5点，但是基于体质的检定与豁免上的+1加值不会叠加。<\/p><p>通常你只能从无助、被擒抱、麻痹、被压制、昏迷或者类似的无法行动的敌人身上吸血。如果你拥有啮咬攻击，则可以将吸食血液作为你啮咬攻击动作的一部分，否则你必须用挥砍或穿刺武器对目标造成至少1点伤害以割伤他（尽管你可能能够对目标造成剧烈的伤害或出血效果而无须真正割伤他）。一旦你割伤目标，你能以一个标准动作从它的伤口吸血。吸血对被你吸食的生物造成2点体质伤害。"
 }

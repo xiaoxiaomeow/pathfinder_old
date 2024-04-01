@@ -3,11 +3,11 @@
     "name": "Cartwheel Dodge",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Cartwheel%20Dodge",
     "source": ["Ultimate Combat pg. 91"],
-    "description": "You use your knack for avoiding damage to reposition yourself in combat.",
+    "text": "You use your knack for avoiding damage to reposition yourself in combat.",
     "prerequisites": "Evasion class feature, improved evasion class feature, acrobatics 12 ranks.",
     "benefit": "When you successfully use improved evasion to avoid taking damage, you can move up to half your speed as an immediate action. This movement provokes attacks of opportunity as normal.",
     "name_zh": "侧翻回避",
-    "description_zh": "你利用回避伤害的技巧来调整战斗身位。",
+    "text_zh": "你利用回避伤害的技巧来调整战斗身位。",
     "prerequisites_zh": "【反射闪避】职业特性，【精通反射闪避】职业特性，特技12级。",
     "benefit_zh": "当你成功地运用【精通反射闪避】回避伤害后，你可以通过直觉动作移动相当于速度一半的距离。这次移动会如常引发借机攻击。"
 }

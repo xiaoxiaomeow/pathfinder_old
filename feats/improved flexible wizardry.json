@@ -3,11 +3,15 @@
     "name": "Improved Flexible Wizardry",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Flexible%20Wizardry",
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "You possess an impressive flexibility with casting that other wizards lack.",
+    "text": "You possess an impressive flexibility with casting that other wizards lack.",
     "prerequisites": "Flexible Wizardry, Spell Mastery, wizard level 8th.",
     "benefit": "When you use Flexible Wizardry, you can flexibly prepare a number of spell slots equal to your Intelligence modifier + 4. Furthermore, you can finalize one of these slots with a standard action instead of a fullround action.",
     "prerequisiteKeys":     [
         "flexible wizardry",
         "spell mastery"
-    ]
+    ],
+    "name_zh": "精通灵活魔术",
+    "text_zh": "少有魔术师拥有比你更万变的的魔法。",
+    "prerequisites_zh": "灵活魔术，法术掌握（Spell Mastery），法师等级8",
+    "benefit_zh": "你可以准备法术的备选法术位数量增加到4+智力调整值个。除此之外，你可以以一个标准动作而非整轮动作决定你在备选法术位上的法术。"
 }

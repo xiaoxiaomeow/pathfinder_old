@@ -3,12 +3,12 @@
     "name": "Improvisation",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improvisation",
     "source": ["Advanced Race Guide pg. 77"],
-    "description": "You can figure out how to do almost anything.",
+    "text": "You can figure out how to do almost anything.",
     "prerequisites": "Int 13, Fast Learner, human.",
     "benefit": "You gain a +2 bonus on all skill checks for skills you have no ranks in. Furthermore, you can use all skills designated \"trained only\" untrained.",
     "prerequisiteKeys": ["fast learner"],
     "name_zh": "灵机一动",
-    "description_zh": "先决条件：智力13，速学者，人类。",
+    "text_zh": "先决条件：智力13，速学者，人类。",
     "prerequisites_zh": "智力13，速学者，人类。",
     "benefit_zh": "你在任何没有投入技能点的技能检定中均获得+2加值。此外，你可以在未经受训的情况下使用那些需要受训才能使用的技能。"
 }

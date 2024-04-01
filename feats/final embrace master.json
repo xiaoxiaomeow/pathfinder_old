@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Final%20Embrace%20Master",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 102"],
-    "description": "Few creatures can survive the crushing horror of your Final Embrace.",
+    "text": "Few creatures can survive the crushing horror of your Final Embrace.",
     "prerequisites": "Str 17, Int 3; naga, serpentfolk, or creature that has the constrict special attack; Final Embrace; Final Embrace Horror; base attack bonus +9.",
     "benefit": "Double the number of damage dice for your constrict special attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "Each time you constrict, you can spend 5 stamina points to triple the damage dice of your constrict ability instead of doubling them.",
     "prerequisiteKeys":     [
         "final embrace horror",
         "final embrace"
     ],
     "name_zh": "最终拥抱极意",
-    "description_zh": "很少有生物能活着离开你粉碎性的最终拥抱。",
+    "text_zh": "很少有生物能活着离开你粉碎性的最终拥抱。",
     "prerequisites_zh": "力量17，智力3，纳迦、蛇人或拥有＜紧勒＞特殊攻击的生物，最终拥抱，恐怖最终拥抱，基本攻击加值+9。",
     "benefit_zh": "你的＜紧勒＞特殊攻击的伤害骰翻倍。"
 }

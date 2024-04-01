@@ -3,7 +3,11 @@
     "name": "Chain Challenge",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Chain%20Challenge",
     "source": ["Monster Codex pg. 116"],
-    "description": "You feed off the rush of victory over your enemies, and channel that fervor into battle.",
+    "text": "You feed off the rush of victory over your enemies, and channel that fervor into battle.",
     "prerequisites": "Challenge class feature, character level 7th.",
-    "benefit": "When the target of your challenge ability is killed or knocked unconscious, you can declare a new challenge target within 30 feet as an immediate action. This action must be taken immediately upon your initial challenge target’s defeat, and you can’t take it later if you are unable to act at the time. If you declare a new challenge using this feat, it doesn’t count against your total daily uses of challenge. You can chain together a number of challenges beyond the first equal to your Charisma bonus (minimum 1)."
+    "benefit": "When the target of your challenge ability is killed or knocked unconscious, you can declare a new challenge target within 30 feet as an immediate action. This action must be taken immediately upon your initial challenge target’s defeat, and you can’t take it later if you are unable to act at the time. If you declare a new challenge using this feat, it doesn’t count against your total daily uses of challenge. You can chain together a number of challenges beyond the first equal to your Charisma bonus (minimum 1).",
+    "name_zh": "一骑讨",
+    "text_zh": "你策马跃入敌群，枪头所到之处，包围上来的敌将刹那间横七竖八。",
+    "prerequisites_zh": "挑战职业能力，人物等级7",
+    "benefit_zh": "每当一个受到你的挑战能力所影响的目标被击杀或是击败时，你都可以立刻以一个直觉动作对一个处于30尺内的目标发起新的挑战。这个行动必须在你击败挑战目标的同时立刻发出，并且不能因为你目前无法行动而延后。如果你通过本专长发动了新的挑战，那么这次挑战将不计入你的每日挑战能力使用次数限制。在第一个挑战目标以后，你可以连环挑战的目标数不能超过你的魅力调整值（至少一个）。"
 }

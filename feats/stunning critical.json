@@ -7,18 +7,18 @@
         "Critical"
     ],
     "source": ["PRPG Core Rulebook pg. 135"],
-    "description": "Your critical hits cause opponents to become stunned.",
+    "text": "Your critical hits cause opponents to become stunned.",
     "prerequisites": "Critical Focus, Staggering Critical, base attack bonus +17.",
     "benefit": "Whenever you score a critical hit, your opponent becomes stunned for 1d4 rounds. A successful Fortitude save reduces this to staggered for 1d4 rounds. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.",
     "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess Critical Mastery.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you confirm a critical hit and attempt to stun an opponent with this feat, you can spend up to 5 stamina points to increase the DC of this feat’s saving throw by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "critical focus",
         "staggering critical"
     ],
     "name_zh": "震慑重击",
-    "description_zh": "你的重击能震慑对手。",
+    "text_zh": "你的重击能震慑对手。",
     "prerequisites_zh": "重击专攻，恍惚重击，基本攻击加值+17。",
     "benefit_zh": "每当你造成重击时，你的对手被震慑1d4轮。一次成功的强韧豁免将此效果降为恍惚1d4轮。强韧豁免的DC等于“10+你的BAB”。此专长的效果不会叠加。额外的命中改为延长持续时间。",
     "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"

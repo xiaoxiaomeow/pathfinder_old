@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Rending%20Fury",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 105"],
-    "description": "Honing the deadliness of your claws, you are a living hurricane of rending fury.",
+    "text": "Honing the deadliness of your claws, you are a living hurricane of rending fury.",
     "prerequisites": "Rending Fury, base attack bonus +9, rend special attack.",
     "benefit": "Whenever you successfully rend an opponent, you deal an extra 1d6 damage. This damage is not multiplied on a critical hit.",
-    "staminaSource": ["Pathfinder Unchained pg. 123"],
+    "staminaSource": "Pathfinder Unchained pg. 123",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, the extra damage from this feat is multiplied on a critical hit.",
     "prerequisiteKeys": ["rending fury"],
     "name_zh": "精通疯狂撕扯",
-    "description_zh": "双爪极其致命，你就是疯狂撕扯的活体飓风。",
+    "text_zh": "双爪极其致命，你就是疯狂撕扯的活体飓风。",
     "prerequisites_zh": "疯狂撕扯，基本攻击加值+9，＜撕扯＞特殊攻击。",
     "benefit_zh": "当你成功发动撕扯，你能造成额外的1d6伤害。此伤害不会因重击而加倍。"
 }

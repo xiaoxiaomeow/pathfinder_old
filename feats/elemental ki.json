@@ -3,7 +3,7 @@
     "name": "Elemental Ki",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Ki",
     "source": ["Martial Arts Handbook pg. 28"],
-    "description": "You can accept burn to gain the benefits of ki.",
-    "prerequisites": "Brawler's flurry or flurry of blows class feature, burn class feature, kinetic fist wild talent, kineticist level 4th.",
+    "text": "You can accept burn to gain the benefits of ki.",
+    "prerequisites": "Brawler’s flurry or flurry of blows class feature, burn class feature, kinetic fist wild talent, kineticist level 4th.",
     "benefit": "Your burn functions like a ki pool. As long as you have at least 1 point of burn, your unarmed strikes count as magic. You can take 1 point of burn as a swift action to do any two of the following: make an additional attack at your highest bonus during a flurry of blows, increase your speed by 20 feet for 1 round, or gain a +4 dodge bonus to AC for 1 round. You can also accept burn instead of spending ki (or a combination of the two) to activate an ability that costs ki points, with each point of burn you accept counting as 2 ki points. You count as having a ki pool for effects that requires a ki pool."
 }

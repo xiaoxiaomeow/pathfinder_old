@@ -7,8 +7,13 @@
         "Teamwork"
     ],
     "source": ["Monster Codex pg. 224"],
-    "description": "You and an ally each sink a claw into your foe—then all you have to do is pull.",
+    "text": "You and an ally each sink a claw into your foe—then all you have to do is pull.",
     "prerequisites": "Rend, troll.",
     "benefit": "Whenever you and an ally who has this feat are both threatening the same creature, you must hit the target with at least one of your claw attacks to use your rend ability.",
-    "normal": "You must hit with two of your claw attacks to use your rend ability."
+    "normal": "You must hit with two of your claw attacks to use your rend ability.",
+    "name_zh": "协同撕裂",
+    "text_zh": "你和自己的盟友一起抓住敌人，然后用几支利爪将它大卸八块。",
+    "prerequisites_zh": "撕裂，巨魔",
+    "benefit_zh": "每当你或拥有此专长的盟友同时威胁一个生物时，你只需通过最少一次爪抓攻击命中目标就可以进行撕裂特殊攻击。",
+    "special_zh": "你必须用爪抓攻击命中目标至少两次才能发动撕裂。"
 }

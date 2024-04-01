@@ -3,12 +3,12 @@
     "name": "Disorienting Maneuver",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disorienting%20Maneuver",
     "source": ["Ultimate Combat pg. 96"],
-    "description": "Your erratic movements disorient your opponent.",
+    "text": "Your erratic movements disorient your opponent.",
     "prerequisites": "Dodge, Acrobatics 5 ranks.",
     "benefit": "If you successfully use Acrobatics to tumble through an opponent’s space, you gain a +2 circumstance bonus on attack rolls against that opponent until the start of your next turn. If you choose to make a trip attempt against that opponent, you gain a +4 circumstance bonus on your combat maneuver check. This bonus on trip also lasts until the start of your next turn.",
     "prerequisiteKeys": ["dodge"],
     "name_zh": "迷惑技巧",
-    "description_zh": "你用飘忽不定的动作迷惑你的敌人。",
+    "text_zh": "你用飘忽不定的动作迷惑你的敌人。",
     "prerequisites_zh": "闪避，特技5级。",
     "benefit_zh": "当你成功使用一次特技检定穿越了一个敌人所在的方格，你对其进行的攻击检定将获得+2环境加值，持续到你的下次行动开始为止。如果你选择对该敌人进行一次绊摔，你的该次战技检定获得+4环境加值。绊摔的加值同样也持续到你下次行动开始为止。"
 }

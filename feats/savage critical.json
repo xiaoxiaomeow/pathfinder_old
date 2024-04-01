@@ -3,7 +3,11 @@
     "name": "Savage Critical",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Savage%20Critical",
     "source": ["Monster Codex pg. 153"],
-    "description": "You are able to land critical hits precisely, dealing devastating damage.",
+    "text": "You are able to land critical hits precisely, dealing devastating damage.",
     "prerequisites": "Str 19, ogre, sneak attack +2d6.",
-    "benefit": "When you hit a creature using the Vital Strike feat or confirm a critical hit against an opponent, add your sneak attack damage to the damage from the attack. This feat has no effect on attacks that already allow you to add sneak attack damage."
+    "benefit": "When you hit a creature using the Vital Strike feat or confirm a critical hit against an opponent, add your sneak attack damage to the damage from the attack. This feat has no effect on attacks that already allow you to add sneak attack damage.",
+    "name_zh": "凶恶重击",
+    "text_zh": "你可以以沉重的一击打中敌人的要害，瞬间将他击溃。",
+    "prerequisites_zh": "力量19，食人魔，偷袭+2d6",
+    "benefit_zh": "当你使用暴击专长或是成功的对目标确认了重击时，你在伤害检定上加入你的偷袭伤害骰。已经造成偷袭的攻击不能使用本专长的效果。"
 }

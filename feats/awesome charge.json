@@ -4,12 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Awesome%20Charge",
     "descriptors": ["Combat"],
     "source": ["Monster Codex pg. 68"],
-    "description": "When you charge, you can send your opponent flying.",
+    "text": "When you charge, you can send your opponent flying.",
     "prerequisites": "Str 25, Awesome Blow, Improved Bull Rush, Power Attack.",
     "benefit": "When you hit your opponent with a charge attack, you can attempt an awesome blow combat maneuver against that opponent as a free action.",
     "prerequisiteKeys":     [
         "awesome blow",
         "improved bull rush",
         "power attack"
-    ]
+    ],
+    "name_zh": "可怖冲撞",
+    "text_zh": "你可以借冲锋之势打飞你的敌人。",
+    "prerequisites_zh": "力量25，可怖殴击，精通冲撞，猛力攻击",
+    "benefit_zh": "当你在一次冲锋攻击中命中目标时，你可以以一个自由动作对其发动可怖殴击战技攻击。"
 }

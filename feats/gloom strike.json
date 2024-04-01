@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Gloom%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 111"],
-    "description": "Few creatures are as accustomed to fighting in the shadows as you.",
+    "text": "Few creatures are as accustomed to fighting in the shadows as you.",
     "prerequisites": "Blind-Fight, fetchling.",
     "benefit": "When you are within an area of dim light or darkness, you gain a +1 bonus on attack rolls against enemies that are also within dim light or darkness.",
-    "staminaSource": ["Pathfinder Unchained pg. 120"],
+    "staminaSource": "Pathfinder Unchained pg. 120",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you gain the bonus for this feat when you are in dim light or darkness, even if the creature you are attacking is not.",
     "prerequisiteKeys": ["blind-fight"],
     "name_zh": "阴暗打击",
-    "description_zh": "只有少数生物能够像你一样习惯于在阴影中战斗。",
+    "text_zh": "只有少数生物能够像你一样习惯于在阴影中战斗。",
     "prerequisites_zh": "盲斗，窃影鬼。",
     "benefit_zh": "当你在黑暗或者昏暗的区域内，你对同样在黑暗或者昏暗区域内的敌人的攻击检定获得+1加值。"
 }

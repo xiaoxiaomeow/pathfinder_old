@@ -7,10 +7,14 @@
         "Teamwork"
     ],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "Your ranged attacks against an opponent take advantage of your ally’s positioning.",
+    "text": "Your ranged attacks against an opponent take advantage of your ally’s positioning.",
     "prerequisites": "Point-Blank Shot.",
     "benefit": "If your ally with this feat is threatening an opponent and is not providing cover to that opponent against your ranged attacks, you gain a +1 bonus on ranged attacks against that opponent. If your ally with this feat is flanking that opponent with another ally (even if that other ally doesn’t have this feat), this bonus increases to +2.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "When making an attack roll, you can spend 2 stamina points to ignore any cover provided by an ally who also has this feat.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "准线规避",
+    "text_zh": "伙伴的位置不会阻挡你射击目标的瞄准",
+    "prerequisites_zh": "近程射击",
+    "benefit_zh": "若拥有该专长的盟友威胁一个目标，且不会在你远程攻击该目标时提供软掩蔽，你该对目标的远程攻击检定就获得+1加值。如果该盟友与其他盟友（不必拥有此专长）正在夹击此目标，那么你以此获得的攻击加值上升到+2。"
 }

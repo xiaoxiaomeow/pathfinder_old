@@ -3,8 +3,13 @@
     "name": "Extend Resonant Power",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extend%20Resonant%20Power",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You can share the benefits of your resonant focus powers with nearby allies.",
+    "text": "You can share the benefits of your resonant focus powers with nearby allies.",
     "prerequisites": "Caster level 7th, mental focus class feature.",
     "benefit": "Select an implement school. When you place mental focus points into an implement of that school, you can choose to gain benefits from the resonant power as if you had placed only half as many points of mental focus into the implement. If you do, you can extend the same benefits to one additional ally within 30 feet at the time you invest mental focus. If the ally moves outside of the extended power’s range, the power is suppressed, but it resumes functioning once the ally moves within range again. You can spend 1 point of mental focus from your implement to pass the effect to a new target, so long as both the original target and the new one are within 30 feet. This feat can affect only one implement from a given school at a time, even if you have selected the same implement school more than once.",
-    "special": "You can take this feat multiple times. Each time you take the feat, select a different implement school."
+    "special": "You can take this feat multiple times. Each time you take the feat, select a different implement school.",
+    "name_zh": "扩员共鸣",
+    "text_zh": "你能够将共鸣之力分享至附近盟友的身上。",
+    "prerequisites_zh": "施法者等级7级，心智点（Mental Focus）职业能力",
+    "benefit_zh": "选择一个灵器学派（implement school）。当你向该学派的灵器充入心智点时，可以选择从该灵器的共鸣之力（Resonant Power）中获取更弱的效果，就如同你仅充入了相当于当前数量一半的心智点一般。如果你这么做的话，可以将相同的好处延伸至充入心智点时，距你30尺之内的一名额外盟友身上。若该盟友移出扩员共鸣的范围，那么该力量会被压制，但盟友一旦再次回到范围中，该效果便会再次生效。你能够从灵器中花费1点心智点，来将效果传递至一个新目标身上，但这么做需要原目标与新目标都在距你30尺的范围之内。该专长在同一时间内仅会对指定学派的一个灵器生效，即便你多次选择相同的灵器学派也是如此。",
+    "special_zh": "你可以多次选择该专长。每次选择该专长，都要选择一个不同的灵器学派。"
 }

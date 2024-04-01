@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shamed",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 72"],
-    "description": "A past humiliation haunts you to this day.",
-    "prerequisites": "You must have been publicly embarrassed, or must have the Bastard Born background. If the embarrassment didn't cause significant harm to your personal honor or social standing, it does not qualify for the feat prerequisites. The humiliation doesn't need to have been unjustified.",
-    "benefit": "Being observed drives you to excel. When you’re in a conflict that is being observed by others not involved in the conflict, you gain a +1 bonus on attack rolls and skill checks."
+    "text": "A past humiliation haunts you to this day.",
+    "prerequisites": "You must have been publicly embarrassed, or must have the Bastard Born background. If the embarrassment didn’t cause significant harm to your personal honor or social standing, it does not qualify for the feat prerequisites. The humiliation doesn’t need to have been unjustified.",
+    "benefit": "Being observed drives you to excel. When you’re in a conflict that is being observed by others not involved in the conflict, you gain a +1 bonus on attack rolls and skill checks.",
+    "goal": "You can complete this goal in one of two fashions. First, thwart a chosen foe in a fashion that clearly establishes your superiority to the general public. Second, prove your worth another way, like gaining a title or becoming the chosen hero of a region.",
+    "completionBenefit": "Your newfound confidence gives you temporary hit points equal to your character level. These temporary hit points last until lost and refresh any time you rest long enough for natural healing to occur (<i>Core Rulebook<\/i> 191), whether or not any healing actually occurs.",
+    "name_zh": "忍辱负重",
+    "text_zh": "曾经的耻辱至今仍令你痛苦。",
+    "prerequisites_zh": "你必须被当众羞辱，或拥有“私生贱种（Bastard Born）”角色背景。若这次羞辱不足以对你的个人名誉或社会地位产生足够损害，那么它并不满足先决条件。该羞辱并不一定是无理取闹或不公正的。",
+    "benefit_zh": "被人注视这件事本身就足以激励你奋进。当你置身于有未参战的目击者存在的冲突中时，你的攻击和技能检定+1。",
+    "goal_zh": "你能够以两种方式完成此目标。其一，以某种手段妨害特定敌人并向公众证明你的优势。其二，以其他形式证明你的价值，譬如为自己赢得头衔或成为一个地区的公认英雄。",
+    "completionBenefit_zh": "你重新获得的自信给予你等同于角色等级的临时HP。这些HP在你充分休息后失去并重置，无论是否接受过医疗。"
 }

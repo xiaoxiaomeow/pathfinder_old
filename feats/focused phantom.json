@@ -3,7 +3,11 @@
     "name": "Focused Phantom",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Focused%20Phantom",
     "source": ["Occult Adventures pg. 134"],
-    "description": "Your close bond with your phantom helps you to focus your concentration.",
+    "text": "Your close bond with your phantom helps you to focus your concentration.",
     "prerequisites": "Spiritual interference class feature.",
-    "benefit": "While you are adjacent to your phantom or your phantom is within your consciousness, you receive a +4 bonus on concentration checks."
+    "benefit": "While you are adjacent to your phantom or your phantom is within your consciousness, you receive a +4 bonus on concentration checks.",
+    "name_zh": "魅影专注",
+    "text_zh": "你与魅影的紧密联结能帮助你集中精神。",
+    "prerequisites_zh": "魅影加护（Spiritual Interference）职业能力",
+    "benefit_zh": "当你与你的魅影（phantom）相邻，或者你的魅影附身于你的意识之中时，你会在专注检定中获得+4加值。"
 }

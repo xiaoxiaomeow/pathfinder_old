@@ -7,14 +7,14 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 99"],
-    "description": "Your martial training makes you a dangerous and elusive target for giants.",
+    "text": "Your martial training makes you a dangerous and elusive target for giants.",
     "prerequisites": "Wis 13, dwarf or gnome, defensive training racial trait, Improved Unarmed Strike, Acrobatics 3 ranks.",
     "benefit": "While using this style, your defensive training dodge bonus to AC increases to +6. Further, against creatures of the giant subtype, you can add your Wisdom bonus on your unarmed strike damage rolls.",
-    "staminaSource": ["Pathfinder Unchained pg. 118"],
+    "staminaSource": "Pathfinder Unchained pg. 118",
     "staminaText": "When you make a successful unarmed strike attack against a creature that has the giant subtype, you can spend up to 5 stamina points to gain a bonus on the damage roll equal to double the number of stamina points you spent.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "以小搏大",
-    "description_zh": "你所受的武技训练使你成为巨人克星。",
+    "text_zh": "你所受的武技训练使你成为巨人克星。",
     "prerequisites_zh": "感知13，矮人或侏儒，“防御训练”种族特性，精通徒手打击，特技3级。",
     "benefit_zh": "你启用地堂流派架势时，“防御训练”的奖励闪避AC变成+6；同时你在对抗巨人亚种生物时，徒手伤害加上感知修正。"
 }

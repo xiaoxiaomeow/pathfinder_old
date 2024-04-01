@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Precise%20Shot",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 131"],
-    "description": "You are adept at firing ranged attacks into melee.",
+    "text": "You are adept at firing ranged attacks into melee.",
     "prerequisites": "Point-Blank Shot.",
     "benefit": "You can shoot or throw ranged weapons at an opponent engaged in melee without taking the standard –4 penalty on your attack roll.",
-    "staminaSource": ["Pathfinder Unchained pg. 129"],
+    "staminaSource": "Pathfinder Unchained pg. 129",
     "staminaText": "As a standard action, you can spend 2 stamina points and make a ranged attack against a foe engaged in melee with an ally. If the attack hits, it deals no damage, but your ally gains your choice of either a +2 bonus on her next attack roll against that opponent or a +2 bonus to AC against that opponent’s next attack. This bonus lasts until the start of your next turn.",
     "prerequisiteKeys": ["point-blank shot"],
     "name_zh": "精准射击",
-    "description_zh": "你擅长向近战中进行远程攻击。",
+    "text_zh": "你擅长向近战中进行远程攻击。",
     "prerequisites_zh": "近距射击。",
     "benefit_zh": "你对近战中的对手射击或投掷远程武器时不需在攻击检定上承受标准的-4减值。"
 }

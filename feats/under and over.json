@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Under%20and%20Over",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 173"],
-    "description": "You can slip under a foe trying to grab you, knocking him off balance.",
+    "text": "You can slip under a foe trying to grab you, knocking him off balance.",
     "prerequisites": "Agile Maneuvers, Small size or smaller.",
     "benefit": "If an opponent larger than you attempts to grapple you and fails, you may make a trip attack as an immediate action against that opponent with a +2 bonus. This does not provoke an attack of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When using this feat, you can spend a number of stamina points up to your Dexterity bonus to increase the bonus on the trip attempt by 2 for each stamina point spent.",
     "prerequisiteKeys": ["agile maneuvers"],
     "name_zh": "过犹不及",
-    "description_zh": "你可以从尝试抓你的敌人身旁滑过，让他摔个趔趄。",
+    "text_zh": "你可以从尝试抓你的敌人身旁滑过，让他摔个趔趄。",
     "prerequisites_zh": "灵巧武艺，体型小型或更小。",
     "benefit_zh": "如果一个比你大的敌人尝试擒抱你却失败了，你能以直觉动作对该名目标进行绊摔攻击，并且在这次攻击中获得+2加值。这不会引发借机攻击。"
 }

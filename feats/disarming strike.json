@@ -4,20 +4,21 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Disarming%20Strike",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 157"],
-    "description": "Your critical hits can disarm your foes.",
+    "text": "Your critical hits can disarm your foes.",
     "prerequisites": "Int 13, Combat Expertise, Improved Disarm, base attack bonus +9.",
     "benefit": "Whenever you score a critical hit with a melee attack, you can disarm your opponent, in addition to the normal damage dealt by the attack. If your confirmation roll exceeds your opponent’s CMD, you may disarm your opponent as if from the disarm combat maneuver. This does not provoke an attack of opportunity. ",
     "normal": "You must perform a disarm combat maneuver to disarm an opponent.",
     "special": "You can only apply the effects of one of the following feats to a given critical hit",
-    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaSource": "Pathfinder Unchained pg. 117",
     "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to disarm the target anyway. When you do, reroll the confirmation roll and use it to determine if the disarm attempt exceeds the opponent’s CMD. This reroll is used only for the disarm combat maneuver; it can’t cause the critical to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved disarm"
     ],
     "name_zh": "卸武重击",
-    "description_zh": "你的重击能够缴械敌人。",
+    "text_zh": "你的重击能够缴械敌人。",
     "prerequisites_zh": "智力13，寓守于攻，精通卸武，基本攻击加值+9。",
-    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够卸除敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么就能够将卸除敌人的武器，就如同进行了卸武战技检定一般。这不会引起借机攻击。<\/p><p>通常状况：你必须进行卸武战技检定才能卸除敌人的武器。",
+    "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够卸除敌人的武器。如果你的重击确认检定超过了敌人的CMD，那么就能够将卸除敌人的武器，就如同进行了卸武战技检定一般。这不会引起借机攻击。",
+    "normal_zh": "你必须进行卸武战技检定才能卸除敌人的武器。",
     "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。"
 }

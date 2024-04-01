@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wingclipper",
     "descriptors": ["Combat"],
     "source": ["Dragonslayer's Handbook pg. 25"],
-    "description": "Your attacks can prevent winged opponents from flying.",
+    "text": "Your attacks can prevent winged opponents from flying.",
     "prerequisites": "Base attack bonus +9.",
     "benefit": "Whenever you confirm a critical hit against an opponent that uses wings to fly, you can forgo the extra critical damage to instead prevent it from flying for a number of rounds equal to twice the critical multiplier of your attack. Opponents that are flying at the time of the critical effect must succeed at a DC 20 Fly check to avoid taking falling damage."
 }

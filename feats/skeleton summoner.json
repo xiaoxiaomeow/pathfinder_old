@@ -3,12 +3,12 @@
     "name": "Skeleton Summoner",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Skeleton%20Summoner",
     "source": ["Ultimate Magic pg. 155"],
-    "description": "The walking dead respond to your call.",
+    "text": "The walking dead respond to your call.",
     "prerequisites": "Spell Focus (necromancy), ability to cast <i>summon monster<\/i>.",
     "benefit": "Add “human skeleton” to the list of creatures you can summon with <i>summon monster I <\/i>and “human skeletal champion” to the list of creatures you can summon with <i>summon monster III<\/i>. <br><br> Once per day, when you cast <i>summon monster<\/i>, you may summon a skeletal version of one of the creatures on that spell’s summoning list (apply the skeleton template to that creature to create this monster).",
     "prerequisiteKeys": ["spell focus"],
     "name_zh": "骷髅召唤者",
-    "description_zh": "行尸走肉随你号令。",
+    "text_zh": "行尸走肉随你号令。",
     "prerequisites_zh": "法术专攻（死灵），能够施展‘召唤怪物’。",
     "benefit_zh": "将“人类骷髅”加入你的‘召唤怪物I’的可召唤生物列表，将“人类骷髅勇士”加入你的‘召唤怪物III’可召唤生物列表。每日1次，当你施放‘召唤怪物’时，你可以召唤一个对应法术可召唤生物列表的骷髅生物（即在召唤生物时附加骷髅模板）。"
 }

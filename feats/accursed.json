@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Accursed",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 67"],
-    "description": "Your curse weighs down your soul like a millstone around your neck.",
+    "text": "Your curse weighs down your soul like a millstone around your neck.",
     "prerequisites": "You must carry a curse that can be lifted only by a quest or similar great undertaking, or have the Cursed Birth background.",
-    "benefit": "You gain spell resistance equal to 5 + your character level, as the curse interferes with all magic. Unlike most spell resistance, it can’t voluntarily be lowered, though your own spells and magic items still automatically affect you."
+    "benefit": "You gain spell resistance equal to 5 + your character level, as the curse interferes with all magic. Unlike most spell resistance, it can’t voluntarily be lowered, though your own spells and magic items still automatically affect you.",
+    "goal": "Your curse is lifted or you are able to purge the corruption of your fiendish blood (the circumstances of either vary widely based on the nature of the curse, and are up to the GM).",
+    "completionBenefit": "You lose the spell resistance described above. You gain spell resistance equal to 11 + your character level, but only against harmful enchantment, necromancy, and transmutation spells and spell-like abilities—your aura resists further attempts to curse you. Harmless spells automatically bypass this spell resistance whether you desire it or not. This spell resistance can be voluntarily lowered.",
+    "name_zh": "诅咒缠身",
+    "text_zh": "如同颈挂巨石，你的灵魂承受着诅咒的重负。",
+    "prerequisites_zh": "你必须承受一项仅能通过冒险任务或类似巨大付出才可摆脱的诅咒；或拥有“降生诅咒（Cursed Birth）”角色背景。",
+    "benefit_zh": "魔法的诅咒作用在你身上，使获得等同于“5+角色等级”的法术抗力。与多数法术抗力不同，它无法被主动降低；尽管你自己的法术和魔法物品依然能自动对自己生效。",
+    "goal_zh": "摆脱诅咒，或者你找到了净化自身魔族血统的手段（基于诅咒的本质、此净化过程的细节甚为多样，此由GM决定）。",
+    "completionBenefit_zh": "你失去上述法术抗力。你获得等同于“11+角色等级”的法术抗力，但仅能用于对抗有害的惑控、死灵和变化学派法术或类法术能力——你的灵光抵抗着这些诅咒。若你自愿，无害法术可自动通过该法术抗力。该法术抗力可以被主动降低。"
 }

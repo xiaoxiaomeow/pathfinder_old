@@ -4,8 +4,8 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wyvern%20Wing",
     "descriptors": ["Combat"],
     "source": ["Legacy of Dragons pg. 21"],
-    "description": "Like a wyvern on the wing, you command a fluid style that enables you to make attacks while moving.",
-    "prerequisites": "Exotic Weapon Proficiency (whip), Wyvern Fury Style, Wyvern Sting, Acrobatics 10 ranks, brawler's flurry class feature or flurry of blows class feature.",
+    "text": "Like a wyvern on the wing, you command a fluid style that enables you to make attacks while moving.",
+    "prerequisites": "Exotic Weapon Proficiency (whip), Wyvern Fury Style, Wyvern Sting, Acrobatics 10 ranks, brawler’s flurry<sup>ACG<\/sup> class feature or flurry of blows class feature.",
     "benefit": "While using the Wyvern Style feat, if you use flurry of blows or brawler’s flurry and take a 5-foot step, you can take an additional 5-foot step. You can take this extra 5-foot step only between two attacks in your flurry, but you can take both your 5-foot steps consecutively without making an attack between them.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",

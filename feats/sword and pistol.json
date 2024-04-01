@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sword%20and%20Pistol",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 122"],
-    "description": "You effortlessly pair melee and ranged weaponry.",
+    "text": "You effortlessly pair melee and ranged weaponry.",
     "prerequisites": "Dex 13, Point-Blank Shot, Rapid Shot, Snap Shot, Two-Weapon Fighting, base attack bonus +6.",
     "benefit": "When you use the Two-Weapon Fighting feat while wielding a melee weapon and a crossbow or firearm, your attacks with the crossbow or firearm provoke no attacks of opportunity from foes that you threaten with your melee weapon.",
     "normal": "Making a ranged attack provokes attacks of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When you use the Two-Weapon Fighting feat while wielding a melee weapon and a crossbow or firearm, as long as you have 1 stamina point in your stamina pool, you gain a +1 bonus on all attack rolls made with the crossbow or firearm.",
     "prerequisiteKeys":     [
         "point-blank shot",
@@ -17,7 +17,8 @@
         "two-weapon fighting"
     ],
     "name_zh": "枪剑击鸣",
-    "description_zh": "你有效地搭配近战和远程攻击。",
+    "text_zh": "你有效地搭配近战和远程攻击。",
     "prerequisites_zh": "敏捷13，近距射击，快速射击，快枪，双武器格斗，基本攻击加值+6。",
-    "benefit_zh": "当你一手持用近战武器、另一首持用弩或火器并使用“双武器格斗”专长时，你通过弩或火器做出的攻击不会触发近战武器威胁范围内敌人的借机攻击。<\/p><p>通常状况：进行远程攻击会触发借机攻击。"
+    "benefit_zh": "当你一手持用近战武器、另一首持用弩或火器并使用“双武器格斗”专长时，你通过弩或火器做出的攻击不会触发近战武器威胁范围内敌人的借机攻击。",
+    "normal_zh": "进行远程攻击会触发借机攻击。"
 }

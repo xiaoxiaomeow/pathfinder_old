@@ -3,12 +3,12 @@
     "name": "Dispelling Fist",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispelling%20Fist",
     "source": ["Ultimate Combat pg. 97"],
-    "description": "By focusing on your knowledge of magic and spells that negate its powers, you use your bare hands to rip magical defenses from your enemy.",
+    "text": "By focusing on your knowledge of magic and spells that negate its powers, you use your bare hands to rip magical defenses from your enemy.",
     "prerequisites": "Improved Unarmed Strike, base attack bonus +11, ability to cast <i>dispel magic<\/i>, caster level 7th.",
     "benefit": "If you have <i>dispel magic <\/i>prepared or can cast it spontaneously, you can cast it as a swift action after hitting an opponent with an unarmed strike. Treat this as a targeted dispel against the opponent you hit.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "解法拳",
-    "description_zh": "通过专注于研究如何利用和破解魔法能量，你能够徒手击破敌人的魔法防御。",
+    "text_zh": "通过专注于研究如何利用和破解魔法能量，你能够徒手击破敌人的魔法防御。",
     "prerequisites_zh": "精通徒手打击，基本攻击加值+11，能够施放‘解除魔法’，施法者等级7。",
     "benefit_zh": "如果准备了‘解除魔法’法术或能够自发施放它，当你用徒手打击命中一个敌人后，你可以用迅捷动作施放一次以他为目标的‘解除魔法’。"
 }

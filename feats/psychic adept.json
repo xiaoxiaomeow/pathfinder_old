@@ -3,9 +3,14 @@
     "name": "Psychic Adept",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Adept",
     "source": ["Occult Adventures pg. 137"],
-    "description": "You have honed your mind to harness psychic power.",
+    "text": "You have honed your mind to harness psychic power.",
     "prerequisites": "Int 11, Psychic Sensitivity.",
     "benefit": "You gain the ability to cast a 0-level knack from the psychic class’s spell list. You can cast this spell three times per day as a spell-like ability. The caster level for this ability is equal to your character level, and the save DC is equal to 10 + your Intelligence modifier.",
     "special": "You can choose this feat multiple times, choosing a different knack each time.",
-    "prerequisiteKeys": ["psychic sensitivity"]
+    "prerequisiteKeys": ["psychic sensitivity"],
+    "name_zh": "念力技法",
+    "text_zh": "通过磨练心智，你开始获得驾驭精神力量的能力。",
+    "prerequisites_zh": "智力11，异能敏感（Psychic Sensitivity）",
+    "benefit_zh": "你获得施放异能者职业法术列表中一个0级念力（knack）的能力。每日你能以类法术能力施放该法术3次。该能力的施法者等级与你的角色等级相同，且豁免DC等同于10 + 你的智力调整值。",
+    "special_zh": "你可以多次选取该专长，每次都要选择一个不同的念力。"
 }

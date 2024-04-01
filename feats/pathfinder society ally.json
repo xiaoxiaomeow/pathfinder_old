@@ -3,7 +3,7 @@
     "name": "Pathfinder Society Ally",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Pathfinder%20Society%20Ally",
     "source": ["Agents of Evil pg. 13"],
-    "description": "The Pathfinder Society grants you access to its archives in thanks for services previously rendered.",
+    "text": "The Pathfinder Society grants you access to its archives in thanks for services previously rendered.",
     "prerequisites": "Associate (Pathfinder Society).",
     "benefit": "The Pathfinder Society’s vast archives are available for you to exploit. In any settlement that is the size of a small town or larger, you can spend 1d4 hours researching notes from available Pathfinders to gain a +4 circumstance bonus on a single Knowledge check.",
     "prerequisiteKeys": ["associate"]

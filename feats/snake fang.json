@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snake%20Fang",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 119"],
-    "description": "You can unleash attacks against an opponent that has dropped its guard.",
+    "text": "You can unleash attacks against an opponent that has dropped its guard.",
     "prerequisites": "Combat Reflexes, Improved Unarmed Strike, Snake Sidewind, Snake Style, Acrobatics 6 ranks, Sense Motive 9 ranks.",
     "benefit": "While using the Snake Style feat, when an opponent’s attack misses you, you can make an unarmed strike against that opponent as an attack of opportunity. If this attack of opportunity hits, you can spend an immediate action to make another unarmed strike against the same opponent.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "When you miss with an attack of opportunity you made due to Snake Fang, you can spend 5 stamina points to reroll the attack roll. You can use this combat trick only once per attack of opportunity.",
     "prerequisiteKeys":     [
         "combat reflexes",
@@ -16,7 +16,7 @@
         "snake style"
     ],
     "name_zh": "白蛇吐信",
-    "description_zh": "你能在敌人防御松懈时发动迅击。",
+    "text_zh": "你能在敌人防御松懈时发动迅击。",
     "prerequisites_zh": "精通徒手打击，腾蛇，蛇行，战斗反射，特技6级，察言观色9级。",
     "benefit_zh": "你使用蛇拳流派架势时，如果一个敌人对你的一次攻击失手了，你可以对他做一次借机攻击。如果该次借机攻击命中，你可以用直觉动作对此对手再进行一次徒手打击。"
 }

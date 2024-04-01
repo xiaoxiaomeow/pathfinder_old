@@ -3,7 +3,7 @@
     "name": "Dispel Focus",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dispel%20Focus",
     "source": ["Monster Summoner's Handbook pg. 9"],
-    "description": "You are skilled at the art of dispelling.",
+    "text": "You are skilled at the art of dispelling.",
     "prerequisites": "Ability to cast <i>dispel magic<\/i>.",
     "benefit": "Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus on the check."
 }

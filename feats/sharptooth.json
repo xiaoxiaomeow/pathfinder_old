@@ -3,7 +3,11 @@
     "name": "Sharptooth",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sharptooth",
     "source": ["Monster Codex pg. 177"],
-    "description": "Your teeth are especially sharp and sturdy.",
+    "text": "Your teeth are especially sharp and sturdy.",
     "prerequisites": "Ratfolk.",
-    "benefit": "You gain a bite attack. This is a primary natural attack that deals 1d3 points of damage."
+    "benefit": "You gain a bite attack. This is a primary natural attack that deals 1d3 points of damage.",
+    "name_zh": "尖牙",
+    "text_zh": "你的牙齿锋锐而坚硬。",
+    "prerequisites_zh": "鼠族",
+    "benefit_zh": "你获得一次啮咬攻击，这是一次主要天生武器攻击，并能造成1d3点伤害。"
 }

@@ -3,8 +3,7 @@
     "name": "Dryad's Attendant",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Dryad's%20Attendant",
     "source": ["Wilderness Origins pg. 10"],
-    "description": "Dryads trust you to bear their power and their bond.",
-    "prerequisites": "Cha 15, Dryad's Apprentice, character level 9th, gathlain.",
-    "benefit": "You can cast <i>meld into stone<\/i> as a spell-like ability once per day with a caster level equal to your character level, except that you instead meld with wood. You can remain melded with the wood for up to 24 hours. If you meld with a dryad’s bonded tree, the dryad can treat you as her bonded tree for a number of days equal to your Charisma modifier (minimum 1) after you leave it; the dryad retains her bond to her tree during this time as well.",
-    "prerequisiteKeys": ["dryad's apprentice"]
+    "text": "Dryads trust you to bear their power and their bond.",
+    "prerequisites": "Cha 15, Dryad’s Apprentice, character level 9th, gathlain.",
+    "benefit": "You can cast <i>meld into stone<\/i> as a spell-like ability once per day with a caster level equal to your character level, except that you instead meld with wood. You can remain melded with the wood for up to 24 hours. If you meld with a dryad’s bonded tree, the dryad can treat you as her bonded tree for a number of days equal to your Charisma modifier (minimum 1) after you leave it; the dryad retains her bond to her tree during this time as well."
 }

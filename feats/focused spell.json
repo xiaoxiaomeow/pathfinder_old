@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Focused%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 161"],
-    "description": "When you cast a spell that affects more than one creature, one opponent finds it more difficult to resist. ",
+    "text": "When you cast a spell that affects more than one creature, one opponent finds it more difficult to resist. ",
     "benefit": "When casting a spell that affects or targets more than one creature, you can choose one target or creature within the spell effect. That creature’s saving throw DC to resist the spell is increased by +2. You must choose which target to focus the spell on before casting the spell. A focused spell uses up a spell slot one level higher than the spell's actual level.",
     "name_zh": "集中法术",
-    "description_zh": "当你施放影响多名生物的法术时，其中一名敌人会发现自身难以抵御它的影响。",
+    "text_zh": "当你施放影响多名生物的法术时，其中一名敌人会发现自身难以抵御它的影响。",
     "benefit_zh": "当你施放一个会影响多个生物的法术时，可以选择一个目标或者法术效果内的生物。该名生物对抗法术的豁免DC提高2点。你必须在施法之前选择将法术集中至哪个目标身上。集中法术占用比法术的实际环级高1环的法术位。无需豁免的法术无法由此专长获益。"
 }

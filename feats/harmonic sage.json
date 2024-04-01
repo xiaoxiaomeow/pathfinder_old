@@ -3,12 +3,13 @@
     "name": "Harmonic Sage",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Harmonic%20Sage",
     "source": ["Ultimate Combat pg. 104"],
-    "description": "Your thorough understanding of acoustics in artificial surroundings allows you to improve the power of your bardic performance.",
+    "text": "Your thorough understanding of acoustics in artificial surroundings allows you to improve the power of your bardic performance.",
     "prerequisites": "Bardic performance class feature, Knowledge (engineering) 5 ranks.",
     "benefit": "While inside an artificial structure, you can spend a free action to make a DC 15 Knowledge (engineering) check when you begin your bardic performance. Success on this check allows you to do one of the following.<br><br> <i>Self-Harmonize<\/i>: By performing over the acoustic reverberations of your performance, you increase the DC of your bardic performance effects +1.<br><br> <i>Reverberation<\/i>: You can choose to have the effect of your current bardic performance continue for 1 round after you cease maintaining it, regardless of why you cease maintaining it. You can still have no more than one bardic performance in effect at one time.",
     "normal": "A bardic performance lasts only as long as you maintain it.",
     "name_zh": "和声大师",
-    "description_zh": "你对人工建筑中的声波反射了若指掌，能利用这种现象来增强你的表演效果。",
+    "text_zh": "你对人工建筑中的声波反射了若指掌，能利用这种现象来增强你的表演效果。",
     "prerequisites_zh": "【吟游表演】职业特性，知识（工程）5级。",
-    "benefit_zh": "当身处一座人工建筑内，你在开始1次【吟游表演】前可以花费自由动作进行一次DC为15的知识（工程）检定。如果检定成功，你可以获得下列效果之一：<\/p><p>自我和声：你与你自己的回音达成完美协调，你的【吟游表演】的豁免DC增加1。<\/p><p>余音绕梁：你可以让你的【吟游表演】效果在你停止维持它之后仍然持续1轮的时间，不论你因为什么原因而停止维持它。你仍然不能在同一时间制造一种以上的表演效果。<\/p><p>通常状况：1次【吟游表演】效果在你停止维持之后会立刻结束。"
+    "benefit_zh": "当身处一座人工建筑内，你在开始1次【吟游表演】前可以花费自由动作进行一次DC为15的知识（工程）检定。如果检定成功，你可以获得下列效果之一：<\/p><p>自我和声：你与你自己的回音达成完美协调，你的【吟游表演】的豁免DC增加1。<\/p><p>余音绕梁：你可以让你的【吟游表演】效果在你停止维持它之后仍然持续1轮的时间，不论你因为什么原因而停止维持它。你仍然不能在同一时间制造一种以上的表演效果。",
+    "normal_zh": "1次【吟游表演】效果在你停止维持之后会立刻结束。"
 }

@@ -7,14 +7,14 @@
         "Teamwork"
     ],
     "source": ["Advanced Player's Guide pg. 169"],
-    "description": "You form a unified defense with those around you.",
+    "text": "You form a unified defense with those around you.",
     "prerequisites": "Shield Proficiency.",
     "benefit": "Whenever you are wielding a shield and are adjacent to an ally wielding a shield who also has this feat, the AC bonus from your shield increases, depending on the shield wielded by your ally. If your ally is wielding a buckler or a light shield, your shield bonus increases by +1. If your ally is wielding a heavy shield or a tower shield, your shield bonus increases by +2. You keep these bonuses even if your ally loses his shield bonus due to making a shield bash attack. If an adjacent ally with this feat uses a tower shield to grant total cover, you also benefit if an attack targeting you passes through the edge of the shield (<i>Core Rulebook <\/i>153).",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "You can spend 2 stamina points to increase the bonus you grant to your ally with this feat by 1 until the end of your next turn.",
     "prerequisiteKeys": ["shield proficiency"],
     "name_zh": "盾墙",
-    "description_zh": "你与身边的人形成联合的防御。",
+    "text_zh": "你与身边的人形成联合的防御。",
     "prerequisites_zh": "擅长盾牌。",
     "benefit_zh": "每当你持用盾牌，邻近一名拥有该专长且持用盾牌盟友时，你通过盾牌获得的AC加值会提高，具体取决于你的盟友所持有的盾牌。如果你的盟友持用小圆盾或者轻型盾牌，你的盾牌加值增加1点；如果你的盟友持用重型盾牌或者塔盾，你的盾牌加值增加2点。即使你的盟友由于进行盾击而失去他的盾牌加值，你也能保有这些加值。如果一名相邻的盟友拥有该专长，并且使用塔盾来获得全掩蔽，那么对于穿过塔盾边缘并且以你为目标的攻击，你也获得全掩蔽的好处。"
 }

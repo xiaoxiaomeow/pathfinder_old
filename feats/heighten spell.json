@@ -4,9 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Heighten%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["PRPG Core Rulebook pg. 126"],
-    "description": "You can cast spells as if they were a higher level.",
+    "text": "You can cast spells as if they were a higher level.",
     "benefit": "A heightened spell has a higher spell level than normal (up to a maximum of 9th level). Unlike other metamagic feats, Heighten Spell actually increases the effective level of the spell that it modifies. All effects dependent on spell level (such as saving throw DCs and ability to penetrate a lesser globe of invulnerability) are calculated according to the heightened level. The heightened spell is as difficult to prepare and cast as a spell of its effective level.",
     "name_zh": "法术升阶",
-    "description_zh": "你可以使法术表现得比原本等级高。",
+    "text_zh": "你可以使法术表现得比原本等级高。",
     "benefit_zh": "本专长可以使法术表现得比原本等级高（最高不可超过9环）。与其他超魔专长不同的是，法术升阶可以确实提升法术的有效等级。法术效果中所有与法术等级有关的变量（如法术豁免检定DC或穿透‘次级法术无效结界’法术的能力）都以升阶后的法术等级计算。升阶法术准备和释放的难度都以提升后的法术等级计算。"
 }

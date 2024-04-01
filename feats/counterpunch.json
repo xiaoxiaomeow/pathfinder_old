@@ -4,14 +4,18 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Counterpunch",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 144"],
-    "description": "With deft reflexes, you capitalize on opponents’ mistake.",
+    "text": "With deft reflexes, you capitalize on opponents’ mistake.",
     "prerequisites": "Dex 18, Combat Reflexes, Improved Unarmed Strike, Weapon Focus (unarmed strike); base attack bonus +16 or brawler level 12th.",
     "benefit": "Once per round, when you are fighting unarmed with both hands free and an opponent misses you with a melee attack, it provokes an attack of opportunity from you. You must use an unarmed strike for this attack of opportunity.",
-    "staminaSource": ["Pathfinder Unchained pg. 116"],
+    "staminaSource": "Pathfinder Unchained pg. 116",
     "staminaText": "You can spend 5 stamina points to use this feat a second time during the same round.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved unarmed strike",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "反手一拳",
+    "text_zh": "敌人在攻击失手时一个恍神，你就获得了一次立刻反击的机会。",
+    "prerequisites_zh": "敏捷18，战斗反射，精通徒手击打，武器专攻（徒手击打），基础攻击加值+16或拳师等级12",
+    "benefit_zh": "每轮一次，每当你双手全空并使用徒手击打战斗时，只要你的敌人对你近战攻击失手，你就可以对他发动一次徒手击打借机攻击。这次借机必须使用徒手攻击。"
 }

@@ -3,7 +3,7 @@
     "name": "Silent as Stone",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Silent%20as%20Stone",
     "source": ["Dungeon Denizens Revisited pg. 46"],
-    "description": "You move over stone with such natural poise that you are nearly noiseless. You are skilled in taking down a single foe in a party in absolute silence.",
+    "text": "You move over stone with such natural poise that you are nearly noiseless. You are skilled in taking down a single foe in a party in absolute silence.",
     "prerequisites": "Roper, Stealthy.",
     "benefit": "You gain a +4 bonus to all Move Silently checks in rocky environments and may use Move Silently at no penalty while climbing. If you attack with your strands in the surprise round, you may automatically choke the victim and cover his mouth with a strand to quell any sound. If you hit with a strand in the surprise round, on your next turn make a Move Silently check at –5 opposed by the Listen check of nearby creatures; if you succeed, you silently drag your opponent 10 feet toward you, and your target’s allies are unaware your target is missing (barring precautions or activities that would make this obvious, such as being tied together, your target carrying the only light source, your target speaking before the attack, and so on).",
     "prerequisiteKeys": ["stealthy"]

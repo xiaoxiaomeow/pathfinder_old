@@ -3,7 +3,11 @@
     "name": "Spirit's Gift",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Spirit's%20Gift",
     "source": ["Advanced Class Guide pg. 157"],
-    "description": "You commune with a spirit of your choice, and it grants your animal companion or familiar a boon.",
+    "text": "You commune with a spirit of your choice, and it grants your animal companion or familiar a boon.",
     "prerequisites": "Animal companion class feature or familiar class feature.",
-    "benefit": "At the start of the day, you can choose to commune with a single shaman spirit. (Although a shaman would need an hour of preparation, this takes you no time.) Once during the next 24 hours, you can spend a standard action to grant your animal companion or familiar that shaman spirit’s spirit animal ability for 1 minute per level in the class that grants your animal companion or familiar."
+    "benefit": "At the start of the day, you can choose to commune with a single shaman spirit. (Although a shaman would need an hour of preparation, this takes you no time.) Once during the next 24 hours, you can spend a standard action to grant your animal companion or familiar that shaman spirit’s spirit animal ability for 1 minute per level in the class that grants your animal companion or familiar.",
+    "name_zh": "精魂灵赋",
+    "text_zh": "你呼唤精魂的力量，让它附身与你的动物伙伴或魔宠。",
+    "prerequisites_zh": "动物伙伴职业能力或魔宠职业能力。",
+    "benefit_zh": "在每天开始时，你可以选择与一个萨满的魂域交涉（和萨满需要花费一小时准备魂域不同，你不需要任何时间）。接下来24小时内有一次，你可以用标准动作给予你的动物伙伴或魔宠你所沟通魂域的魂兽能力，持续时间为你拥有动物伙伴或魔宠职业等级每分钟。"
 }

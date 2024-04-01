@@ -7,14 +7,14 @@
         "Teamwork"
     ],
     "source": ["Ultimate Combat pg. 90"],
-    "description": "You are skilled at riding in close formation with your mounted allies without impeding your effectiveness on the battlefield.",
+    "text": "You are skilled at riding in close formation with your mounted allies without impeding your effectiveness on the battlefield.",
     "prerequisites": "Mounted Combat.",
     "benefit": "You and your mount can overlap the space of mounts whose riders have this feat, although no more than two creatures can share any one square. Further, you can charge through a space containing an allied mount if that mount’s rider has this feat, although the space from which you make your charge attack must comply with this feat’s other benefit or be unoccupied.",
-    "staminaSource": ["Pathfinder Unchained pg. 115"],
+    "staminaSource": "Pathfinder Unchained pg. 115",
     "staminaText": "At the start of your turn, you can spend 2 stamina points to gain the ability to overlap with allied riders who do not have this feat. This ability lasts until the start of your next turn.",
     "prerequisiteKeys": ["mounted combat"],
     "name_zh": "骑兵阵列",
-    "description_zh": "你擅长在战场上与骑乘的盟友并肩而行，且不会妨碍双方的作战效率。",
+    "text_zh": "你擅长在战场上与骑乘的盟友并肩而行，且不会妨碍双方的作战效率。",
     "prerequisites_zh": "骑乘战斗。",
     "benefit_zh": "你和你坐骑的方格可以与拥有此专长骑手的坐骑重叠，但同一个方格不能被两个以上的生物共享。此外，你在冲锋时可以越过拥有此专长骑手和其坐骑的方格。"
 }

@@ -3,8 +3,13 @@
     "name": "Extra Focus Power",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Focus%20Power",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You gain an additional focus power from your implements.",
+    "text": "You gain an additional focus power from your implements.",
     "prerequisites": "Focus power class feature.",
     "benefit": "You gain one additional focus power from among those available from your chosen implement schools. You must select a power for which you normally qualify.",
-    "special": "You can choose this feat once for every implement school you know, up to a maximum of seven times at 18th level. Each time you do, you must choose a different focus power. If you have selected the same implement school more than once, you can select a focus power from that school once for each time you selected that school."
+    "special": "You can choose this feat once for every implement school you know, up to a maximum of seven times at 18th level. Each time you do, you must choose a different focus power. If you have selected the same implement school more than once, you can select a focus power from that school once for each time you selected that school.",
+    "name_zh": "额外灵器之力",
+    "text_zh": "你从灵器中获得一项额外的灵器之力。",
+    "prerequisites_zh": "灵器之力（Focus Power）职业能力",
+    "benefit_zh": "你获得一个额外的灵器之力（Focus Power），该项灵器之力要从你已经选取的灵器学派（implement school）中选择。你必须选择已经满足先决条件的灵器之力。",
+    "special_zh": "对于每个已知的灵器学派，你可以选择一次该专长，至多为18级时的7次。每当你这么做时，都必须选择一项不同的灵器之力。若你多次选择了相同的灵器学派，那么每一次你选择该学派时，都可以从该学派中选择一项灵器之力。"
 }

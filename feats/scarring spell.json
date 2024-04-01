@@ -4,6 +4,9 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Scarring%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Occult Adventures pg. 139"],
-    "description": "Your emotion-affecting magic causes psychic trauma in your opponents.",
-    "benefit": "When a creature fails a saving throw against a scarring spell, for the next 24 hours that creature takes a –2 penalty on saving throws against emotion and fear effects you create, and a –1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring spells don’t stack. This metamagic feat can be applied only to spells with the emotion or fear descriptor. A scarring spell uses up a spell slot 1 level higher than the spell’s actual level."
+    "text": "Your emotion-affecting magic causes psychic trauma in your opponents.",
+    "benefit": "When a creature fails a saving throw against a scarring spell, for the next 24 hours that creature takes a –2 penalty on saving throws against emotion and fear effects you create, and a –1 penalty on saving throws against other emotion and fear effects. Penalties from multiple scarring spells don’t stack. This metamagic feat can be applied only to spells with the emotion or fear descriptor. A scarring spell uses up a spell slot 1 level higher than the spell’s actual level.",
+    "name_zh": "创痕法术",
+    "text_zh": "你所创造的影响情绪的魔法会在敌人心中留下创伤。",
+    "benefit_zh": "当一名生物在对抗创痕法术的豁免检定中失败后，在接下来的24小时内，该生物在对抗你所创造的情绪（emotion）和恐惧（fear）效果时，豁免检定会承受-2减值；该生物在对抗其他情绪和恐惧效果时，豁免检定也会承受-1减值。多个创痕法术带来的惩罚不会叠加。这个超魔专长仅能应用至具有情绪（emotion）或恐惧（fear）描述符的法术。创痕法术使用比法术的实际环级高1级的法术位。"
 }

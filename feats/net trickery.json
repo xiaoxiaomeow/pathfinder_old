@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Net%20Trickery",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 111"],
-    "description": "You have become very proficient at using your net to hinder your enemies.",
+    "text": "You have become very proficient at using your net to hinder your enemies.",
     "prerequisites": "Exotic Weapon Proficiency (net), Net Adept, Net Maneuvering, base attack bonus +6.",
     "benefit": "In place of one of your melee attacks, you can use your net to attempt a dirty trick combat maneuver to blind an opponent (<i>Advanced Player’s Guide <\/i>320). If you have an opponent entangled in your net, you can attempt to trip that opponent as long as he is within your net’s reach or you control the trailing rope on your net. You also gain a +2 bonus on drag and reposition combat maneuver checks you make using your net.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "As long as you have at least 1 stamina point in your stamina pool, you can dazzle or sicken the opponent with a dirty trick<sup>APG<\/sup> combat maneuver instead of blinding it.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
@@ -15,7 +15,7 @@
         "net maneuvering"
     ],
     "name_zh": "捕网诡计",
-    "description_zh": "你能够非常熟练的用网来阻碍你的敌人。",
+    "text_zh": "你能够非常熟练的用网来阻碍你的敌人。",
     "prerequisites_zh": "擅长异种武器（网），捕网熟练，捕网战技，基本攻击加值+6。",
     "benefit_zh": "当你用网进行近战攻击时，你可以用一次致盲阴招战技来取代近战攻击。如果有一个对手正被你的网纠缠，只要他还处于你的网的触及范围或纤绳控制范围，你可以尝试对其进行绊摔。此外，在你用网进行拖拽或移位战技时，你还会有+2战技加值奖励。"
 }

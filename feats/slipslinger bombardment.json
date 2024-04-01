@@ -4,8 +4,8 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slipslinger%20Bombardment",
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 13"],
-    "description": "You can sling a rain of splash weapons at your enemies.",
-    "prerequisites": "Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait.",
+    "text": "You can sling a rain of splash weapons at your enemies.",
+    "prerequisites": "Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait<sup>ARG<\/sup>.",
     "benefit": "You can use a sling to hurl alchemical splash weapons as ammunition with Slipslinger Grenadier during an attack action or a full-attack action, loading your sling with such weapons as a free action.",
     "special": "This feat can’t be used with alchemists’ bombs.",
     "prerequisiteKeys":     [

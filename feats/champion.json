@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Champion",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 67"],
-    "description": "You must prove yourself through single combat.",
+    "text": "You must prove yourself through single combat.",
     "prerequisites": "You must have defeated a single challenging foe without any aid from another, or have the Champion of a God, Champion of the People, Competition Champion, or Gladiator background.",
-    "benefit": "As a swift action, you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a –2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can’t declare it on the same foe for another 24 hours."
+    "benefit": "As a swift action, you can declare a single combat challenge to one foe within 50 feet and in line of sight. Upon doing so, you gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against that foe as long as no one else threatens that opponent or until the single combat challenge ends. If another combatant attacks you or your foe, the challenge ends and you take a –2 penalty on attack rolls and to AC for 1 round. Though you can declare a single combat challenge at will, once you declare it on a foe you can’t declare it on the same foe for another 24 hours.",
+    "goal": "Defeat an appropriate number of challenging foes in single combat. These combats must not be interrupted by other creatures, and the foes must not have already been substantially injured or impaired prior to combat with you.",
+    "completionBenefit": "Your bonuses for single combat increase to +2. In addition, any confirmed critical hits you make against such a foe deal an additional 1d6 points of damage.",
+    "name_zh": "斗技冠军",
+    "text_zh": "你必须通过单打独斗来证明自己。",
+    "prerequisites_zh": "你必须在完全不依赖他人的状况下击败一名强大敌手；或拥有“神选斗士（Champion of a God）”、“人民卫士（Champion of the People）”、“竞技勇士（Competition Champion）”、“神鬼斗士（Gladiator）”等角色背景之一。",
+    "benefit_zh": "你能够通过迅捷动作指定50尺内的一个敌人为挑战对手。如此施为后只要在没有他人威胁该对手、战斗未结束的情况下，你对其的攻击检定和闪避AC+1。若另有人攻击你或你的对手，该挑战结束且你在1轮内的攻击检定和AC遭受-2。尽管你可以随意发动挑战，但无法在24小时内挑战同一目标多次。",
+    "goal_zh": "在单挑中击败适当数量的强大敌手。这些战斗不能被他人插手，并且你的对手必须被目击到身负重伤或无力再战。",
+    "completionBenefit_zh": "你的挑战加值增至+2。此外，你对挑战对手的重击确认后追加1d6额外伤害。"
 }

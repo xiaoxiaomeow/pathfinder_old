@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Liberating%20Shot",
     "descriptors": ["Weapon Mastery"],
     "source": ["Weapon Master's Handbook pg. 21"],
-    "description": "You can use ranged weapons to help grappled allies escape their captors’ clutches.",
+    "text": "You can use ranged weapons to help grappled allies escape their captors’ clutches.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon.",
     "benefit": "When you hit an opponent with a ranged attack as part of an attack action and that opponent is grappling an ally, your grappled ally can use your attack roll result in place of her combat maneuver check result, whichever is higher, to escape from the grapple during her next turn.",
     "prerequisiteKeys": ["deadly aim"]

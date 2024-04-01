@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Marid%20Spirit",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 108"],
-    "description": "You can manipulate cold energy to protect yourself and freeze your foes.",
+    "text": "You can manipulate cold energy to protect yourself and freeze your foes.",
     "prerequisites": "Con 15, Wis 15, Elemental Fist, Marid Style, Improved Unarmed Strike, base attack bonus +11 or monk level 9th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using Marid Style, you gain cold resistance equal to your base attack bonus, or monk level plus base attack bonus gained from levels in classes other than monk, whichever is higher. While denied your Dexterity bonus to AC you are also denied this resistance. Creatures that take cold damage from your Elemental Fist attack must succeed at a Fortitude save (DC 10 + 1/2 your character level + your Wis modifier) or become entangled in ice for 1d4 rounds. The ice has hit points equal to three times your base attack bonus or monk level, whichever is higher, and a break DC of 15 + your base attack bonus or monk level, whichever is higher. Destroying or breaking the ice ends the entangled condition.",
-    "staminaSource": ["Pathfinder Unchained pg. 126"],
+    "staminaSource": "Pathfinder Unchained pg. 126",
     "staminaText": "When a creature takes cold damage from your Elemental Fist<sup>APG<\/sup> attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid becoming entangled by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "elemental fist",
@@ -15,7 +15,7 @@
         "marid style"
     ],
     "name_zh": "冰魂",
-    "description_zh": "你能以寒冰之力保护自己，冻结敌人。",
+    "text_zh": "你能以寒冰之力保护自己，冻结敌人。",
     "prerequisites_zh": "体质15，感知15，元素之拳，雪灵，精通徒手打击，基本攻击加值+11或武僧9级。",
     "benefit_zh": "你获得1次额外“元素之拳”使用次数。当你处于雪灵流派架势时获得以下好处：你获得寒系抗力，数值等同于你的基本攻击加值，或你的武僧等级加上你其他职业得到的基本攻击加值（取高者）。当你失去AC的敏捷加值时，你也会失去此抗力。受到你元素之拳寒冷伤害的对手须进行一次DC为“10+1/2角色等级+感知修正”的强韧豁免，失败将在1d4轮内被冰冻住陷入纠缠状态，寒冰的力量检定破坏DC为“15+基本攻击加值或武僧等级（视何者为高）”，HP是你的基本攻击加值或武僧等级的3倍，二者取高。冰被破坏则纠缠状态结束。"
 }

@@ -7,11 +7,11 @@
         "Teamwork"
     ],
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "You are skilled at changing places with your ally during a chaotic melee.",
+    "text": "You are skilled at changing places with your ally during a chaotic melee.",
     "benefit": "Whenever you are adjacent to an ally who also has this feat, you can move into your ally’s square as part of normal movement. At the same time, your ally moves into your previous space as an immediate action. Both you and your ally must be willing and able to move to take advantage of this feat. Your ally must be the same size as you to utilize this feat. Your ally does not provoke an attack of opportunity from this movement, but you provoke as normal. This movement does not count against your ally’s movement on his next turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 133"],
+    "staminaSource": "Pathfinder Unchained pg. 133",
     "staminaText": "When using this feat, you can spend 2 stamina points. If you do, your movement during the swap doesn’t provoke attacks of opportunity.",
     "name_zh": "换位",
-    "description_zh": "你很擅长与盟友在混乱的近战格斗中交换位置。",
+    "text_zh": "你很擅长与盟友在混乱的近战格斗中交换位置。",
     "benefit_zh": "每当你邻近一名拥有该专长的盟友，你就能够将移入盟友所在的方格作为正常移动的一部分进行。与此同时，你的盟友会以直觉动作移入你原本的空间。你们两人必须都是自愿这么做，并且能够利用该专长进行移动。你的盟友必须与你体型相同才能利用该专长。你的盟友不会因这次移动而引起借机攻击，但是你会如常引发。这个移动不会计算入盟友的下一轮总移动距离内。"
 }

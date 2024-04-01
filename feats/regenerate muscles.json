@@ -3,8 +3,12 @@
     "name": "Regenerate Muscles",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Regenerate%20Muscles",
     "source": ["Monster Codex pg. 224"],
-    "description": "You use your powerful metabolism to temporarily increase the strength of your muscles, but doing so costs you your regeneration powers.",
+    "text": "You use your powerful metabolism to temporarily increase the strength of your muscles, but doing so costs you your regeneration powers.",
     "prerequisites": "Power Attack, regeneration, troll.",
     "benefit": "As a free action, you can make your regeneration stop working for 1 minute and gain a +2 enhancement bonus to your Strength. You lose your regeneration ability while you benefit from this bonus to Strength and for 1 minute afterward. You can end this ability early as a free action. You can activate this ability only if your regeneration is functioning.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "肌腱再生",
+    "text_zh": "你可以引导自己的再生能力，让他们重组和增强你的肌肉而不是恢复你肉体承受的损伤。",
+    "prerequisites_zh": "猛力攻击，再生，巨魔",
+    "benefit_zh": "以一个自由动作，你可以自愿压制你的再生能力1分钟时间，换取在力量属性上获得+2增强加值持续1分钟。在这1分钟期间你的再生能力会完全停止，但你可以以一个自由动作结束本专长的效果。你只有在当这价的再生能力在生效时才能启动本专长。"
 }

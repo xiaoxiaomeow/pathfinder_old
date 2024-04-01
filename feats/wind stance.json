@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Wind%20Stance",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 137"],
-    "description": "Your erratic movements make it difficult for enemies to pinpoint your location.",
+    "text": "Your erratic movements make it difficult for enemies to pinpoint your location.",
     "prerequisites": "Dex 15, Dodge, base attack bonus +6.",
     "benefit": "If you move more than 5 feet this turn, you gain 20% concealment for 1 round against ranged attacks.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When using this feat, you can spend 5 stamina points to gain 20% concealment for 1 round against all attacks (not just ranged attacks).",
     "prerequisiteKeys": ["dodge"],
     "name_zh": "疾风步",
-    "description_zh": "你移动时步伐飘忽不定，令敌人难以瞄准你的位置。",
+    "text_zh": "你移动时步伐飘忽不定，令敌人难以瞄准你的位置。",
     "prerequisites_zh": "敏捷15，闪避，基本攻击加值+6。",
     "benefit_zh": "若你在一轮中移动超过5尺，则该轮中你针对远程攻击获得20％隐蔽。"
 }

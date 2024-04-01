@@ -3,7 +3,7 @@
     "name": "Enduring Might",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Enduring%20Might",
     "source": ["Martial Arts Handbook pg. 29"],
-    "description": "When you gather your might, it lasts long enough to improve your defenses and attacks of opportunity.",
+    "text": "When you gather your might, it lasts long enough to improve your defenses and attacks of opportunity.",
     "prerequisites": "Gather Might, gather power class feature, kineticist level 8th.",
     "benefit": "When you use Gather Might, the ability score bonuses last until the beginning of your next turn.",
     "prerequisiteKeys": ["gather might"]

@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extreme%20Prejudice",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 147"],
-    "description": "Your hatred of a particular type of creature has honed your killer instinct.",
+    "text": "Your hatred of a particular type of creature has honed your killer instinct.",
     "prerequisites": "Seething Hatred, sneak attack +3d6, studied target class feature.",
     "benefit": "When you succeed at a sneak attack against a creature you selected as the target of your Seething Hatred feat, you use d8s to roll sneak attack damage instead of d6s.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When you succeed at a sneak attack against a creature that is not the target of your Seething Hatred<sup>ACG<\/sup> feat, you can spend 5 stamina points to treat the creature as if it were the target of your Seething Hatred for that attack.",
-    "prerequisiteKeys": ["seething hatred"]
+    "prerequisiteKeys": ["seething hatred"],
+    "name_zh": "极度仇视",
+    "text_zh": "有一种生物你至为痛恨，他们的出现就足以挑动你的杀戮神经。",
+    "prerequisites_zh": "憎恶集中，偷袭+3d6，杀手杀戮目标职业能力",
+    "benefit_zh": "每当你对一个你在 专长选择的生物发动偷袭攻击时，你的偷袭伤害骰上升到d8而非普通的d6。"
 }

@@ -7,14 +7,14 @@
         "Performance"
     ],
     "source": ["Ultimate Combat pg. 111"],
-    "description": "After savaging your foe, you circle like a hunter ready for the kill.",
+    "text": "After savaging your foe, you circle like a hunter ready for the kill.",
     "prerequisites": "Dodge, Acrobatics 4 ranks.",
     "benefit": "When you spend a swift action to make a performance combat check after scoring a critical hit or performing a combat maneuver, and you are adjacent to the target of the critical hit or combat maneuver, you can move to any other space that is adjacent to the target without provoking attacks of opportunity. You must have a clear path to that space and the ability to reach it by spending a move action. If you end this move in any space other than the one where you started, you gain a +2 bonus on the performance combat check.",
-    "staminaSource": ["Pathfinder Unchained pg. 127"],
+    "staminaSource": "Pathfinder Unchained pg. 127",
     "staminaText": "You can spend 2 stamina points to use this feat after dealing maximum damage to or successfully feinting against a creature. You must still be adjacent to the creature.",
     "prerequisiteKeys": ["dodge"],
     "name_zh": "杀戮回旋",
-    "description_zh": "凶猛地攻击敌人之后，你如同随时准备杀死猎物的猎手般在旁环绕。",
+    "text_zh": "凶猛地攻击敌人之后，你如同随时准备杀死猎物的猎手般在旁环绕。",
     "prerequisites_zh": "闪避，特技5级。",
     "benefit_zh": "在发动了一次重击或战技后以迅捷动作进行演武检定、并与重击或战技的目标相邻时，你能够不引发借机攻击地移动到与其相邻的任意位置。你必须有着明确的路线，并能通过一个移动动作到达目的地。如果你在不同于起点的任何位置停下，你的演武检定+2。"
 }

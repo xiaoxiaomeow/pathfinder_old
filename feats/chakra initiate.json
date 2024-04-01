@@ -3,7 +3,11 @@
     "name": "Chakra Initiate",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Chakra%20Initiate",
     "source": ["Occult Adventures pg. 129"],
-    "description": "You have an extra wellspring of kundalini energy that you can use to open your chakras.",
+    "text": "You have an extra wellspring of kundalini energy that you can use to open your chakras.",
     "prerequisites": "Ability to awaken the root chakra.",
-    "benefit": "You gain a pool that holds 3 points of serpentfire ki, which you can use only to open or maintain chakras. These serpent-fire ki points are replenished at the same time you replenish the points in your regular ki pool."
+    "benefit": "You gain a pool that holds 3 points of serpentfire ki, which you can use only to open or maintain chakras. These serpent-fire ki points are replenished at the same time you replenish the points in your regular ki pool.",
+    "name_zh": "脉轮初学者",
+    "text_zh": "你获得了额外的拙火能量源，并可以以此来开启你的脉轮。",
+    "prerequisites_zh": "觉醒海底脉轮（root chakra）的能力",
+    "benefit_zh": "你获得存有3点蛇焰真气（serpentfire ki）的气池，而你仅能用它开启或维持脉轮。当你的常规气池（ki pool）重新回满的时候，这些蛇焰真气也会在同一时间重新充满。"
 }

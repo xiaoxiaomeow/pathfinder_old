@@ -7,14 +7,14 @@
         "Style"
     ],
     "source": ["Ultimate Combat pg. 106"],
-    "description": "Your whirling fighting technique makes you difficult to hit.",
+    "text": "Your whirling fighting technique makes you difficult to hit.",
     "prerequisites": "Improved Unarmed Strike, Acrobatics 3 ranks, Perform (dance) 3 ranks.",
     "benefit": "While using this style, you take only a –1 penalty to AC for charging. Further, opponents that flank you gain only a +1 bonus on attack rolls against you.",
-    "staminaSource": ["Pathfinder Unchained pg. 124"],
+    "staminaSource": "Pathfinder Unchained pg. 124",
     "staminaText": "When you charge while using this style, you can spend 2 stamina points to take no penalty to AC for charging and move an additional 10 feet as part of the charge.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "御风",
-    "description_zh": "你旋风般的格斗技巧令自己难以被击中。",
+    "text_zh": "你旋风般的格斗技巧令自己难以被击中。",
     "prerequisites_zh": "精通徒手打击，特技3级，表演（舞蹈）3级。",
     "benefit_zh": "你处于风灵流派架势中时，冲锋带来的AC罚值降为-1；夹击你的对手获得的攻击加值降为+1。"
 }

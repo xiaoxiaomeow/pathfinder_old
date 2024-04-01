@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Elemental%20Spell",
     "descriptors": ["Metamagic"],
     "source": ["Advanced Player's Guide pg. 158"],
-    "description": "You can manipulate the elemental nature of your spells.",
+    "text": "You can manipulate the elemental nature of your spells.",
     "benefit": "Choose one energy type: acid, cold, electricity, or fire. You may replace a spell's normal damage with that energy type or split the spell's damage, so that half is of that energy type and half is of its normal type. An elemental spell uses up a spell slot one level higher than the spell's actual level. ",
     "special": "You can gain this feat multiple times. Each time you must choose a different energy type.",
     "name_zh": "元素法术",
-    "description_zh": "你能够操纵自身法术的元素性质。",
+    "text_zh": "你能够操纵自身法术的元素性质。",
     "benefit_zh": "选择一种能量类型：强酸，寒冷，闪电或火焰。你可以使用这种能量类型替代法术原本正常的伤害；或者分裂法术的伤害，使法术所造成伤害的一半为正常伤害，另一半为你所选择的伤害类型。元素法术占用比法术的实际环级高1环的法术位。",
     "special_zh": "你可以多次选取该专长。每次必须选择不同的能量类型。"
 }

@@ -3,11 +3,11 @@
     "name": "Taunt",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Taunt",
     "source": ["Advanced Player's Guide pg. 172"],
-    "description": "You may be small, but your remarks cut others down to size.",
+    "text": "You may be small, but your remarks cut others down to size.",
     "prerequisites": "Cha 13, Small size or smaller.",
     "benefit": "You can demoralize opponents using Bluff rather than Intimidate (see the Intimidate skill description for details) and take no skill check penalty for being smaller than your target.",
     "name_zh": "毒舌讽刺",
-    "description_zh": "你可能块头小，但是你的话语会让敌人威严扫地。",
+    "text_zh": "你可能块头小，但是你的话语会让敌人威严扫地。",
     "prerequisites_zh": "魅力13，体型小型或更小。",
     "benefit_zh": "你能够使用唬骗检定取代威吓检定来挫败敌人的士气（见威吓技能的详述），并且不会因为体型小于你的目标而受到技能减值。"
 }

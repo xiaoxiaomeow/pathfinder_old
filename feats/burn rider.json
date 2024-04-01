@@ -3,7 +3,7 @@
     "name": "Burn Rider",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Burn%20Rider",
     "source": ["Pathfinder #7: Edge of Anarchy pg. 75"],
-    "description": "Through the ancient tradition of the Sklar-Quah, you can protect both yourself and your mount from flame while traveling at high speeds.",
+    "text": "Through the ancient tradition of the Sklar-Quah, you can protect both yourself and your mount from flame while traveling at high speeds.",
     "prerequisites": "Mounted Combat, Ride 6 ranks, Handle Animal 6 ranks.",
     "benefit": "As long as your mount travels at least 40 feet in a round, you gain fire resistance 3 for that round. You also receive a +4 bonus on all Reflex saves to avoid catching on fire and a +4 bonus on all Fortitude saves against choking on smoke (DMG 303). Each round, as a free action, you may confer the same bonuses to your mount with a successful DC 20 Ride check.",
     "prerequisiteKeys": ["mounted combat"]

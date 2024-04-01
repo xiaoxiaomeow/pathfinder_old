@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Demoralizing%20Lash",
     "descriptors": ["Combat"],
     "source": ["Advanced Race Guide pg. 124"],
-    "description": "You cow your enemies with the lash of a whip.",
+    "text": "You cow your enemies with the lash of a whip.",
     "prerequisites": "Base attack bonus +1, Intimidate 1 rank, hobgoblin.",
     "benefit": "To use this feat, you must use a whip (or another weapon in the flails fighter weapon group) to attack a foe demoralized by an Intimidate check. If the attack hits, you extend the duration the creature is shaken by 1 round. This feat has no effect on creatures whose shaken conditions are from sources other than Intimidate checks.",
-    "staminaSource": ["Pathfinder Unchained pg. 117"],
+    "staminaSource": "Pathfinder Unchained pg. 117",
     "staminaText": "When you hit a demoralized foe with a weapon in the flails fighter group, you can spend 2 stamina points to extend the duration of the shaken condition by 1d4 rounds instead of 1 round.",
     "name_zh": "挫志鞭笞",
-    "description_zh": "你使用鞭子的抽击你恐吓的敌人。",
+    "text_zh": "你使用鞭子的抽击你恐吓的敌人。",
     "prerequisites_zh": "基本攻击加值+1，威吓1级，大地精。",
     "benefit_zh": "若想使用该专长，你必须使用鞭子（或者其他链枷类战士武器组中的武器）攻击已经由于威吓检定而被挫败士气的敌人。如果攻击命中，你可以将目标获得的战栗效果延长1轮。此专长的效果对威吓检定以外的方式造成的战栗效果无效。"
 }

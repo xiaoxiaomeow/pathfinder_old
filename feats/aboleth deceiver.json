@@ -3,7 +3,7 @@
     "name": "Aboleth Deceiver",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Aboleth%20Deceiver",
     "source": ["Blood of the Sea pg. 8"],
-    "description": "You have mastered mental tricks to help you combat aboleths and avoid mind-controlling magic.",
+    "text": "You have mastered mental tricks to help you combat aboleths and avoid mind-controlling magic.",
     "prerequisites": "Iron Will, gillman, enchantment resistance racial trait.",
     "benefit": "Once per day, if you fail a Will save against a compulsion spell or effect, you can reroll that saving throw but must take the second result, even if it’s worse. If the compulsion spell or effect originates from an aboleth, you do not apply your racial –2 penalty on such saving throws, and the reroll does not count against your daily use of this feat.",
     "prerequisiteKeys": ["iron will"]

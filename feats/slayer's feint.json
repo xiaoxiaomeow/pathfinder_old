@@ -4,13 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Slayer's%20Feint",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 156"],
-    "description": "You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.",
+    "text": "You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.",
     "prerequisites": "Dex 15, Acrobatic or slayer level 1st, Combat Expertise, Acrobatics 1 rank.",
     "benefit": "You can use Acrobatics instead of Bluff to feint in combat.",
-    "staminaSource": ["Pathfinder Unchained pg. 132"],
+    "staminaSource": "Pathfinder Unchained pg. 132",
     "staminaText": "When attempting a feint using Acrobatics, you can spend a number of stamina points up to your Dexterity bonus. If you do, you gain a bonus on that feint attempt equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "acrobatic",
         "combat expertise"
-    ]
+    ],
+    "name_zh": "杀手机锋",
+    "text_zh": "你不依靠精巧的诱骗，而是通过超人的速度和反应探寻敌人防御中的破绽。",
+    "prerequisites_zh": "敏捷15，特技专家专长或杀手等级1，寓守于攻，特技动作技能1级",
+    "benefit_zh": "在进行虚招检定时，你可以使用特技动作检定而不是唬骗检定。"
 }

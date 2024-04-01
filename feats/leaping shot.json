@@ -4,7 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Leaping%20Shot",
     "descriptors": ["Grit"],
     "source": ["Ultimate Combat pg. 108"],
-    "description": "You leap through the air, guns blazing.",
+    "text": "You leap through the air, guns blazing.",
     "prerequisites": "Dex 13, grit class feature or Amateur Gunslinger feat, Dodge, Mobility, base attack bonus +4.",
     "benefit": "You gain a +2 bonus on Acrobatics checks made to jump. As a full-round action, you can move up to your speed and make firearm attacks at your highest base attack bonus with each loaded firearm you are wielding. You can make these attacks at any point during your movement, and if you are wielding two firearms, you can make the attacks at different points during the movement. At the end of this movement, you fall prone. This deed costs 1 grit point to perform.",
     "prerequisiteKeys":     [
@@ -12,7 +12,7 @@
         "mobility"
     ],
     "name_zh": "跳跃射击",
-    "description_zh": "你跃入半空，枪火闪耀。",
+    "text_zh": "你跃入半空，枪火闪耀。",
     "prerequisites_zh": "敏捷13，【勇毅】职业特性或业余铳士专长，闪避，灵活移动，基本攻击加值+4。",
     "benefit_zh": "你在跳跃的特技检定上获得+2加值。作为一个整轮动作，你能以你的基本速度移动、并用你最高的BAB令你手上的每一把已装填火器开火。你可以在你移动轨迹的任意一点进行攻击，而如果你持有两把火器，你可以在移动轨迹上的不同地方开火。在移动结束时，你将卧倒。这个铳技消耗1点勇毅点。"
 }

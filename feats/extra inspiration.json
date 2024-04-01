@@ -3,9 +3,14 @@
     "name": "Extra Inspiration",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Inspiration",
     "source": ["Advanced Class Guide pg. 147"],
-    "description": "You are more able to draw upon inspiration than most.",
+    "text": "You are more able to draw upon inspiration than most.",
     "prerequisites": "Amateur Investigator or inspiration class feature.",
     "benefit": "You gain three extra use per day of inspiration in your inspiration pool.",
     "special": "If you have levels in the investigator class, you can take this feat multiple times. Each time you do, you gain three extra uses of inspiration per day.",
-    "prerequisiteKeys": ["amateur investigator"]
+    "prerequisiteKeys": ["amateur investigator"],
+    "name_zh": "额外灵感",
+    "text_zh": "你的灵感力源源不绝。",
+    "prerequisites_zh": "业余调查员专长或灵感职业能力",
+    "benefit_zh": "你的灵感池获得每日3点额外的灵感点数",
+    "special_zh": "如果你在调查员职业上拥有等级，你可以多次选择本专长，每次选择，你获得额外3点额外的每日灵感点数。"
 }

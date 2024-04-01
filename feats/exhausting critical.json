@@ -7,18 +7,18 @@
         "Critical"
     ],
     "source": ["PRPG Core Rulebook pg. 123"],
-    "description": "Your critical hits cause opponents to become exhausted.",
+    "text": "Your critical hits cause opponents to become exhausted.",
     "prerequisites": "Critical Focus, Tiring Critical, base attack bonus +15.",
     "benefit": "When you score a critical hit on a foe, your target immediately becomes exhausted. This feat has no effect on exhausted creatures.",
     "special": "You can only apply the effects of one critical feat to a given critical hit unless you possess the Critical Mastery feat.",
-    "staminaSource": ["Pathfinder Unchained pg. 119"],
+    "staminaSource": "Pathfinder Unchained pg. 119",
     "staminaText": "When you threaten a critical hit against an exhausted target and choose to use Exhausting Critical, you can spend up to 5 stamina points. If you do, you gain a +2 bonus on the confirmation roll for each stamina point you spent.",
     "prerequisiteKeys":     [
         "critical focus",
         "tiring critical"
     ],
     "name_zh": "力竭重击",
-    "description_zh": "你的重击令命中的敌人陷入力竭。",
+    "text_zh": "你的重击令命中的敌人陷入力竭。",
     "prerequisites_zh": "重击专攻，疲乏重击，基本攻击加值+15。",
     "benefit_zh": "每当你对一个敌人成功造成重击时，该生物立即陷入力竭状态。本专长对已经力竭的生物无效。",
     "special_zh": "在没有掌握“重击熟稔”专长前，每次重击时你只能选择一种重击专长效果。"

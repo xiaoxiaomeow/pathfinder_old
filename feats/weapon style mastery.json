@@ -7,7 +7,7 @@
         "Weapon Mastery"
     ],
     "source": ["Weapon Master's Handbook pg. 23"],
-    "description": "You can combine multiple fighting styles together.",
+    "text": "You can combine multiple fighting styles together.",
     "prerequisites": "Any two style feats from different styles, base attack bonus +6, weapon training class feature with a melee weapon.",
     "benefit": "Choose one weapon style (a style feat that lists Weapon Focus as a prerequisite) that you have. You can have the chosen style and a second style active at once. Starting a stance provided by a style feat is still a swift action, but you can assume both the chosen weapon style’s stance and another style’s stance simultaneously using this action. This ability doesn’t stack with other abilities that allow you to have multiple styles active at the same time.",
     "normal": "You can have only one style active at once."

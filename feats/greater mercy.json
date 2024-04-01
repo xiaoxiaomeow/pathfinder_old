@@ -3,11 +3,11 @@
     "name": "Greater Mercy",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Mercy",
     "source": ["Ultimate Magic pg. 152"],
-    "description": "Your mercy has incredible recuperative properties.",
+    "text": "Your mercy has incredible recuperative properties.",
     "prerequisites": "Cha 13, lay on hands class feature, mercy class feature.",
     "benefit": "When you use your lay on hands ability and the target of that ability does not have any conditions your mercies can remove, it instead heals an additional +1d6 points of damage.",
     "name_zh": "高等恩惠",
-    "description_zh": "你的恩惠中伴随着不可思议的恢复能力。",
+    "text_zh": "你的恩惠中伴随着不可思议的恢复能力。",
     "prerequisites_zh": "魅力13，【圣疗】职业特性，【恩惠】职业特性。",
     "benefit_zh": "当你使用圣疗时，如果目标身上没有任何一个你可以使用恩惠移除的状态，那么你可以用治疗1d6点生命代替恩惠的原本效果。"
 }

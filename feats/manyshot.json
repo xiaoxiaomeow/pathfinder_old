@@ -4,21 +4,21 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Manyshot",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 130"],
-    "description": "You can fire multiple arrows at a single target.",
+    "text": "You can fire multiple arrows at a single target.",
     "prerequisites": "Dex 17, Point-Blank Shot, Rapid Shot, base attack bonus +6.",
     "benefit": "When making a full-attack action with a bow, your first attack fires two arrows. If the attack hits, both arrows hit. Apply precision-based damage (such as sneak attack) and critical hit damage only once for this attack. Damage bonuses from using a composite bow with a high Strength bonus apply to each arrow, as do other damage bonuses, such as a ranger's favored enemy bonus. Damage reduction and resistances apply separately to each arrow.",
-    "staminaSource": ["Pathfinder Unchained pg. 126"],
+    "staminaSource": "Pathfinder Unchained pg. 126",
     "staminaText": "When using this feat, you can spend 5 stamina points to fire two arrows with your final iterative attack during the full attack.",
-    "mythicSource": ["Mythic Adventures pg. 69"],
-    "mythicDescription": "You can fire a barrage of arrows at your target with very little effort.",
-    "mythicPrerequisites": "Manyshot.<br><br",
+    "mythicSource": "Mythic Adventures pg. 69",
+    "mythicText": "You can fire a barrage of arrows at your target with very little effort.",
+    "mythicPrerequisites": "Manyshot.",
     "mythicBenefit": "When making a full-attack action with a bow and using Manyshot, you fire two arrows with both your first and second attacks, instead of just your first attack.",
     "prerequisiteKeys":     [
         "point-blank shot",
         "rapid shot"
     ],
     "name_zh": "多重射击",
-    "description_zh": "你可对一个目标同时发射数箭。",
+    "text_zh": "你可对一个目标同时发射数箭。",
     "prerequisites_zh": "敏捷17，近距射击，快速射击，基本攻击加值+6。",
     "benefit_zh": "当以弓箭做出全力攻击动作时，你的第一击射出两支箭。若攻击检定成功，则两支箭均命中。基于精准攻击的伤害（例如偷袭）和重击伤害在该次攻击中仅计算一次。使用复合长弓时的力量修正，以及其他伤害加值例如游侠的【宿敌】加值，均在每只箭上正常生效。对抗每箭的伤害减免与其他抗力都要分别计算。"
 }

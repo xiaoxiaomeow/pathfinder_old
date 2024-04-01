@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Vicious%20Stomp",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 123"],
-    "description": "You take advantage of the moment to brutally kick an enemy when he is down.",
+    "text": "You take advantage of the moment to brutally kick an enemy when he is down.",
     "prerequisites": "Combat Reflexes, Improved Unarmed Strike.",
     "benefit": "Whenever an opponent falls prone adjacent to you, that opponent provokes an attack of opportunity from you. This attack must be an unarmed strike.",
-    "staminaSource": ["Pathfinder Unchained pg. 135"],
+    "staminaSource": "Pathfinder Unchained pg. 135",
     "staminaText": "When an opponent provokes an unarmed strike attack of opportunity from you by falling prone, you can spend 2 stamina points to deal an additional 1d6 points of damage with that unarmed strike.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved unarmed strike"
     ],
     "name_zh": "恶毒踩踏",
-    "description_zh": "你在对手倒地的恰当时机猛踹之。",
+    "text_zh": "你在对手倒地的恰当时机猛踹之。",
     "prerequisites_zh": "战斗反射，精通徒手打击。",
     "benefit_zh": "当对手倒在你的邻接方格，他将会触发你的借机攻击。借机攻击必须以徒手攻击。"
 }

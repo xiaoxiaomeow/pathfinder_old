@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Trick",
     "descriptors": ["Combat"],
     "source": ["Armor Master's Handbook pg. 8"],
-    "description": "Choose one armor trick option (light, medium, heavy, or shield). You can perform armor tricks in combat when wearing the appropriate armor option.",
+    "text": "Choose one armor trick option (light, medium, heavy, or shield). You can perform armor tricks in combat when wearing the appropriate armor option.",
     "prerequisites": "Base attack bonus +1.",
     "benefit": "You can use any armor tricks related to the chosen armor option if you meet the trick’s prerequisites and are proficient with any armor that you use as part of the trick.",
     "special": "You can gain Armor Trick multiple times. Each time you take the feat, it applies to a new armor trick option.",
-    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points to use an armor trick while wearing armor with which you are not proficient, or without meeting the trick’s additional prerequisites. (See page 8.)"
 }

@@ -3,7 +3,11 @@
     "name": "Parting Blast",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Parting%20Blast",
     "source": ["Occult Adventures pg. 137"],
-    "description": "When you die, your body explodes in one final, destructive kinetic blast.",
+    "text": "When you die, your body explodes in one final, destructive kinetic blast.",
     "prerequisites": "Kinetic blast class feature.",
-    "benefit": "You can accept 1 point of burn to prepare a kinetic blast that automatically triggers upon your death. If you are killed at any point before your burn is removed, your body instantly erupts in an explosion that deals an amount of damage equal to that of your simple blast to all creatures in a 5-foot radius. A parting blast destroys your body, which might prevent any magic that requires an intact corpse."
+    "benefit": "You can accept 1 point of burn to prepare a kinetic blast that automatically triggers upon your death. If you are killed at any point before your burn is removed, your body instantly erupts in an explosion that deals an amount of damage equal to that of your simple blast to all creatures in a 5-foot radius. A parting blast destroys your body, which might prevent any magic that requires an intact corpse.",
+    "name_zh": "临终念爆",
+    "text_zh": "你的死亡会引发一场临终爆破秀。",
+    "prerequisites_zh": "念袭（Kinetic Blast）职业能力",
+    "benefit_zh": "你能够承受1点超载，来准备一次在你死亡时自动触发的念袭。在你的超载被移除之前的任意时点，如果你被杀死的话，身体会立即释放出一场爆炸，这会对半径5尺范围内的所有生物造成伤害，伤害数值相当于你的简易念袭（Simple Blast）。临终念爆也会毁坏你的尸体，因此这可能会防止某些需要完整尸体的魔法产生作用。"
 }

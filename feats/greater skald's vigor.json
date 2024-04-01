@@ -3,8 +3,11 @@
     "name": "Greater Skald's Vigor",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Skald's%20Vigor",
     "source": ["Advanced Class Guide pg. 149"],
-    "description": "Your song and your enthusiasm invigorate your allies.",
-    "prerequisites": "Skald's Vigor, Perform (song) 10 ranks.",
+    "text": "Your song and your enthusiasm invigorate your allies.",
+    "prerequisites": "Skald’s Vigor, Perform (song) 10 ranks.",
     "benefit": "Your allies share in the fast healing granted by your Skald’s Vigor, starting in the round when you begin your performance. They must be able to hear the performance. If you stop maintaining the song, the fast healing ends immediately, even if other effects of your song linger.",
-    "prerequisiteKeys": ["skald's vigor"]
+    "name_zh": "高等健硕之歌",
+    "text_zh": "你的战歌同样可以将生生不息的活力带给听到它的盟友。",
+    "prerequisites_zh": "健硕之歌，表演（歌唱）技能10级",
+    "benefit_zh": "在你启动表演的同一轮开始，你的盟友同样也能收到你的健硕之歌提供的快速医疗。盟友必须要听到你的表演才能获得此专长的好处。但是如果你停止表演，这个快速医疗效果将立刻结束，即使你的表演效果在你停止后依然能够持续（译注：比如专长余音绕梁的效果）。"
 }

@@ -3,8 +3,13 @@
     "name": "Innate Flexibility",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Innate%20Flexibility",
     "source": ["Monster Codex pg. 44"],
-    "description": "Your innate magic is flexible.",
+    "text": "Your innate magic is flexible.",
     "prerequisites": "Duergar, two racial spell-like abilities usable once per day.",
     "benefit": "You gain a number of additional uses of your once per day racial spell-like abilities equal to the number of such abilities you have. You can expend these additional uses in any combination. Normal duergar spell-like abilities and those granted by duergar racial traits both count for the purpose of this feat.<br><br> For example, a normal duergar has two once per day spell-like abilities (<i>enlarge person<\/i> and <i>invisibility<\/i>), so taking this feat would grant her two additional uses of her once per day spell-like abilities; each day she can use either two additional uses of <i>enlarge person<\/i>, two additional uses of <i>invisibility<\/i>, or one additional use of each.",
-    "special": "You can take this feat multiple times. Its effects stack."
+    "special": "You can take this feat multiple times. Its effects stack.",
+    "name_zh": "灵巧魔力",
+    "text_zh": "你的魔力之源灵活多变。",
+    "prerequisites_zh": "灰矮人，拥有两个每日可使用一次的种族类法术能力。",
+    "benefit_zh": "你拥有的每日可使用一次的种族类法术能力使用次数获得增加，相当于你所拥有的类法术能力总量。这些次数可以用在你拥有的任何类法术能力上-无论这些类法术能力来自普通的灰矮人种族特性还是替代灰矮人种族特性。<\/p><p>举例来说，一个普通的灰矮人拥有两个每日可使用一次的种族类法术能力（人类变巨术和隐形术），那么他就可以额外获得两次每日使用类法术能力的机会：他每天可以多施放两次人类变巨术，两次隐形术或是这两个类法术能力额外各一次。",
+    "special_zh": "你可以多次选择本专长。每次选择本专长时，获得的额外使用次数叠加。"
 }

@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Combatant",
     "descriptors": ["Combat"],
     "source": ["Occult Adventures pg. 137"],
-    "description": "You are skilled at attacking opponents in psychic duels.",
+    "text": "You are skilled at attacking opponents in psychic duels.",
     "prerequisites": "Int 13, Psychic Sensitivity or the ability to cast psychic spells or use psychic spell-like abilities, character level 3rd.",
     "benefit": "You gain an extra pool of manifestation points with a number of points equal to 1/2 your character level. You can use these points at any time during a psychic duel. When you are not participating in a psychic duel, you can spend 1 of these extra manifestation points as a swift action to gain a +1 bonus on saving throws against psychic spells until the start of your next turn, or 3 points as a swift action to gain a +2 bonus on saving throws against psychic spells until the start of your next turn. This pool refreshes at the start of each day.",
-    "prerequisiteKeys": ["psychic sensitivity"]
+    "prerequisiteKeys": ["psychic sensitivity"],
+    "name_zh": "心灵争斗者",
+    "text_zh": "你很擅长在异能决斗中攻击敌人。",
+    "prerequisites_zh": "智力13，异能敏感（Psychic Sensitivity）或者施放异能法术（psychic spells）或使用异能类法术（psychic spell-like）的能力，角色等级3级",
+    "benefit_zh": "你获得一个额外幻形点数（Manifestation Points）池，数值相当于你的角色等级的一半。无论何时，你都能够在异能决斗（Psychic Duel）中使用这些点数。然而当你没有参与异能决斗之时，能够以迅捷动作从幻形点数池中花费1点，来使你的豁免检定在对抗异能法术时获得+1加值，持续至你的下个回合开始为止；或者也可以以迅捷动作花费3点，来使豁免检定在对抗异能法术时获得+2加值，持续至你的下个回合开始为止。这个幻形点数池会在每日开始时恢复。"
 }

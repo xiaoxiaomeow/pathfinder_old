@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Town%20Tamer",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 73"],
-    "description": "This town needs cleaning up, and you’re just the one to do it.",
+    "text": "This town needs cleaning up, and you’re just the one to do it.",
     "prerequisites": "You must have 5 ranks in Intimidate and a personal motivation to clean up a particular town (such as an old friend calling in a favor, or seeking a place to settle down), or you must have the Bounty Hunter or Champion of the People background.",
-    "benefit": "Choose a particular settlement. When you’re in your chosen settlement, the DC of Intimidate checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks."
+    "benefit": "Choose a particular settlement. When you’re in your chosen settlement, the DC of Intimidate checks made against you increases by 10. You gain a +1 bonus on attack rolls and a +1 dodge bonus to AC against undesirable elements like criminals or ruffians in your chosen settlement. This bonus increases to +2 for combat maneuver checks.",
+    "goal": "Defeat 10 more troublemakers in your chosen settlement with a CR equal to your character level or higher, and in the process eliminate a serious criminal threat or otherwise clean up the streets.",
+    "completionBenefit": "You gain the ability to designate a new chosen settlement as often as you wish. You must first live in a settlement for 1 week to make it your chosen settlement. In addition, you gain a +2 bonus on initiative checks and a +1 bonus on saving throws when in your chosen settlement.",
+    "name_zh": "清道专员",
+    "text_zh": "这小镇需要清理，而你正是干这行的。",
+    "prerequisites_zh": "你必须在威吓技能受训5级且具有“清理”特定城镇的动机（譬如老友求援，或寻求安居之所等）；或拥有“赏金猎手（Bounty Hunter）”、“人民卫士（Champion of the People）”等角色背景之一。",
+    "benefit_zh": "选择一个特定的定居点。当处于选定的定居点时，对你进行威吓的检定DC提高10；同时你在对付不受欢迎的家伙、如罪犯和盗匪时，攻击检定和闪避AC+1。此加值在战技检定中增至+2。",
+    "goal_zh": "在你的所选定居点中打败10个以上CR在你角色等级以上的不速之客，并在此过程中剿灭一个严重犯罪团伙、或以类似手段清理街道。",
+    "completionBenefit_zh": "如你愿意，你获得随时选定一个新的定居点的能力。你在做出类似选定前必须先在该地居留1周以上。此外，当处于选定的定居点时，你的先攻检定+2，豁免+1。"
 }

@@ -7,7 +7,15 @@
         "Quests and Campaigns pg. 12",
         "Ultimate Campaign pg. 71"
     ],
-    "description": "The truth has been revealed, and you have been chosen to deliver it.",
+    "text": "The truth has been revealed, and you have been chosen to deliver it.",
     "prerequisites": "Ability to cast divine spells, and you must either have received a vision from your god (or another appropriate supernatural entity) or have the Marked by the Gods background (see <i>Ultimate Campaign<\/i>).",
-    "benefit": "If you are nonevil and worship a nonevil deity, whenever you cast a beneficial spell on an ally you gain a +1 sacred bonus to AC for 1 round per spell level. If you are evil or worship an evil deity, whenever you cast a harmful spell on an enemy you gain a +1 profane bonus to AC for 1 round per spell level. Casting a spell on yourself does not count unless it also affects an ally."
+    "benefit": "If you are nonevil and worship a nonevil deity, whenever you cast a beneficial spell on an ally you gain a +1 sacred bonus to AC for 1 round per spell level. If you are evil or worship an evil deity, whenever you cast a harmful spell on an enemy you gain a +1 profane bonus to AC for 1 round per spell level. Casting a spell on yourself does not count unless it also affects an ally.",
+    "goal": "Convert an appropriate number of creatures to the worship of your deity.",
+    "completionBenefit": "Your bonus to AC for casting beneficial or harmful spells on allies increases to +2, and the bonus also applies on saving throws for the same duration. ",
+    "name_zh": "布道先知",
+    "text_zh": "真相已然显露，而你则被选定令其实现。",
+    "prerequisites_zh": "你必须能够施放神术、并且从你所信奉的神祇（或其他合适的超自然存在）处获得一项神谕；或你拥有“神赋刻印（Marked by the Gods）”角色背景。",
+    "benefit_zh": "若你非邪恶且侍奉非邪恶神祇，当你为同伴施放有益法术时，你获得神圣AC+1，持续每法术等级1轮。若你邪恶或侍奉邪恶神祇，当你向敌人施放有害法术时，你获得亵渎AC+1，持续每法术等级1轮。对自己施法则无此效果，除非该法术同时也影响同伴。",
+    "goal_zh": "使适当数量的生物皈依到你所信奉的神祇座下。",
+    "completionBenefit_zh": "你对他人施放有益或有害法术后获得的AC加值增至+2，并且这些加值在效果时间内还能应用于豁免。"
 }

@@ -3,12 +3,13 @@
     "name": "Natural Charmer",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Natural%20Charmer",
     "source": ["Advanced Race Guide pg. 100"],
-    "description": "You possess some of the dominating powers of your vampire progenitor.",
+    "text": "You possess some of the dominating powers of your vampire progenitor.",
     "prerequisites": "Cha 17, dhampir.",
     "benefit": "You can take 20 on any Charisma-based skills to charm, convince, persuade, or seduce humanoids whose attitude is at least friendly to you. Taking 20 still requires 20 times the normal time to perform the skill.",
     "normal": "You cannot take 20 on any check where you incur penalties for failure.",
     "name_zh": "天生丽质",
-    "description_zh": "你掌握了一些吸血鬼先祖的控制之力。",
+    "text_zh": "你掌握了一些吸血鬼先祖的控制之力。",
     "prerequisites_zh": "魅力17，吸血裔。",
-    "benefit_zh": "当你使用任何基于魅力的技能吸引、劝说、说服或引诱人形生物时可以取20，这些生物对你的起始态度至少需要友善。取20依旧需要20倍于正常的时间执行技能。<\/p><p>通常状况：你不能在任何失败后会遭受惩罚的技能检定上取20。"
+    "benefit_zh": "当你使用任何基于魅力的技能吸引、劝说、说服或引诱人形生物时可以取20，这些生物对你的起始态度至少需要友善。取20依旧需要20倍于正常的时间执行技能。",
+    "normal_zh": "你不能在任何失败后会遭受惩罚的技能检定上取20。"
 }

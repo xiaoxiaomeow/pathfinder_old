@@ -4,11 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Snatch",
     "descriptors": ["Monster"],
     "source": ["Pathfinder RPG Bestiary pg. 316"],
-    "description": "This creature can grab other creatures with ease.",
+    "text": "This creature can grab other creatures with ease.",
     "prerequisites": "Size Huge or larger.",
     "benefit": "The creature can start a grapple when it hits with a claw or bite attack, as though it had the grab ability. If it grapples a creature three or more sizes smaller, it squeezes each round for automatic bite or claw damage with a successful grapple check. A snatched opponent held in the creature’s mouth is not allowed a Reflex save against the creature’s breath weapon, if it has one.<br><br> The creature can drop a creature it has snatched as a free action or use a standard action to fling it aside. A flung creature travels 1d6 × 10 feet, and takes 1d6 points of damage per 10 feet traveled. If the creature flings a snatched opponent while flying, the opponent takes this amount or falling damage, whichever is greater.",
     "name_zh": "攫抓",
-    "description_zh": "这个生物可以轻松抓握住另一个生物。",
+    "text_zh": "这个生物可以轻松抓握住另一个生物。",
     "prerequisites_zh": "体型超大型以上。",
     "benefit_zh": "生物能以一次爪抓或啮咬攻击展开擒抱战技，如同它具有＜攫抓（Grab）＞能力。如果目标生物的体型比该生物至少小三个级别，该生物可以每轮通过一个成功的擒抱检定自动对目标造成一个爪抓或啮咬伤害。如果目标生物因为受到啮咬攻击而被擒抱、且攻击生物拥有喷吐武器武器攻击，那么目标生物无法对此喷吐武器攻击进行反射检定。生物可以通过一个自由动作丢下被擒抱的生物或者通过一个标准动作将其抛飞。被抛飞的生物会移动“1d6×10尺”距离，并且每被移动10尺就会承受1d6点伤害。如果生物在飞行状态抛出被攫抓的目标，目标还要承受相应的坠落伤害。"
 }

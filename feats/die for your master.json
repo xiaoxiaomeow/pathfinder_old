@@ -3,11 +3,11 @@
     "name": "Die for Your Master",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Die%20for%20Your%20Master",
     "source": ["Ultimate Magic pg. 148"],
-    "description": "Your tumor familiar goes to any length to save your life.",
+    "text": "Your tumor familiar goes to any length to save your life.",
     "prerequisites": "Tumor familiar alchemist discovery.",
     "benefit": "If your tumor familiar is attached, and you would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the familiar throws itself in the way of the attack as an immediate action. If it makes a Reflex saving throw (DC = damage dealt), it takes all the damage from the attack; if it fails, it takes half damage and you take half damage.<br><br> The familiar must be aware of the attack and able to react to it in order to use this ability, and it can only do this once per day—if it is denied its Dexterity bonus to AC, it can’t use this ability. Since this effect would not normally allow the familiar to make a Reflex save for half damage, its improved evasion ability does not apply on this saving throw.",
     "name_zh": "丢卒保帅",
-    "description_zh": "你的囊肿魔宠替你去挡刀。",
+    "text_zh": "你的囊肿魔宠替你去挡刀。",
     "prerequisites_zh": "【囊肿魔宠】科研发现。",
     "benefit_zh": "如果你的囊肿魔宠连接在身上，而你的HP将被战斗伤害（源自武器或者其他类似的攻击，不包括法术和特殊能力）降低到0或者更低，魔宠会以一个直觉动作插入到攻击中。如果它通过了DC为造成的伤害的反射豁免，它会承受这次攻击所造成的所有伤害；如果豁免失败，则它只受到一半的伤害，而你受到另一半的伤害。<\/p><p>这个能力每天只能使用1次，魔宠必须要意识到这次攻击并且能够做出反应才能使用这个能力——如果它在AC上失去敏捷加值就无法使用此能力。因为这个效果不是通常意义上的通过反射豁免则减半伤害，所以【精通反射闪避】能力不使用于这一豁免。"
 }

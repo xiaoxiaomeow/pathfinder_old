@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Rending%20Fury",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 103"],
-    "description": "When your claws latch on to an opponent, the effect is bloody and horrific.",
+    "text": "When your claws latch on to an opponent, the effect is bloody and horrific.",
     "prerequisites": "Improved Rending Fury, Rending Fury, base attack bonus +12, rend special attack.",
     "benefit": "Whenever you rend an opponent, you deal 1d6 bleed damage to that opponent. This is an addition to the effects of the rend.",
-    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaSource": "Pathfinder Unchained pg. 121",
     "staminaText": "When you rend an opponent, you can spend 2 stamina points to deal 1d6+2 points of bleed damage to your opponent instead of 1d6 points of bleed damage.",
     "prerequisiteKeys":     [
         "improved rending fury",
         "rending fury"
     ],
     "name_zh": "高等疯狂撕扯",
-    "description_zh": "你撕开对手时的场面血腥而又恐怖。",
+    "text_zh": "你撕开对手时的场面血腥而又恐怖。",
     "prerequisites_zh": "疯狂撕扯，精通疯狂撕扯，基本攻击加值+12，＜撕扯＞特殊攻击。",
     "benefit_zh": "当你撕扯一名对手，你对其造成1d6出血伤害。这是在撕扯伤害额外的效果。"
 }

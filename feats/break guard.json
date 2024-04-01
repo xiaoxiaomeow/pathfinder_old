@@ -4,10 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Break%20Guard",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 91"],
-    "description": "You can use one of your two weapons to occupy your opponent’s defenses while attacking with the other.",
+    "text": "You can use one of your two weapons to occupy your opponent’s defenses while attacking with the other.",
     "prerequisites": "Dex 15, Int 13, Combat Expertise, Improved Disarm, Two-Weapon Fighting.",
     "benefit": "While wielding two weapons, whenever you successfully use one weapon to disarm an opponent, you can spend a swift action to attack the opponent you attempted to disarm using your other weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 114"],
+    "staminaSource": "Pathfinder Unchained pg. 114",
     "staminaText": "You can spend 5 stamina points to attack the opponent you disarmed with a free action instead of a swift action.",
     "prerequisiteKeys":     [
         "combat expertise",
@@ -15,7 +15,7 @@
         "two-weapon fighting"
     ],
     "name_zh": "破除防御",
-    "description_zh": "你用你两把武器的其中之一打乱了对方的防御，随之用另一把武器进行攻击。",
+    "text_zh": "你用你两把武器的其中之一打乱了对方的防御，随之用另一把武器进行攻击。",
     "prerequisites_zh": "精通卸武，双武器格斗。",
     "benefit_zh": "当你装备两把武器，只要你成功的用其中一把卸除了敌人的武器，你可以消耗一次迅捷动作来用另一把武器立刻对其进行一次攻击。"
 }

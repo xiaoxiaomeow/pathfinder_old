@@ -3,7 +3,11 @@
     "name": "Extra Touch Treatment",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Extra%20Touch%20Treatment",
     "source": ["Occult Adventures pg. 133"],
-    "description": "You can use your touch treatment more often.",
+    "text": "You can use your touch treatment more often.",
     "prerequisites": "Touch treatment class feature.",
-    "benefit": "You can use touch treatment two additional times per day."
+    "benefit": "You can use touch treatment two additional times per day.",
+    "name_zh": "额外接触疗法",
+    "text_zh": "你可以比以往使用更多次的接触疗法。",
+    "prerequisites_zh": "接触疗法（Touch Treatment）职业能力",
+    "benefit_zh": "你每日可以额外使用2次接触疗法（Touch Treatment）。"
 }

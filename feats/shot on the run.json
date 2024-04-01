@@ -4,15 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shot%20on%20the%20Run",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 133"],
-    "description": "You can move, fire a ranged weapon, and move again before your foes can react.",
+    "text": "You can move, fire a ranged weapon, and move again before your foes can react.",
     "prerequisites": "Dex 13, Dodge, Mobility, Point-Blank Shot, base attack bonus +4.",
     "benefit": "As a full-round action, you can move up to your speed and make a single ranged attack at any point during your movement.",
     "normal": "You cannot move before and after an attack with a ranged weapon.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "You can spend 5 stamina points to use this feat as a standard action instead of a full-round action.",
-    "mythicSource": ["Mythic Adventures pg. 73"],
-    "mythicDescription": "With ease, you can snap off two shots while dashing across the battlefield.",
-    "mythicPrerequisites": "Shot on the Run, base attack bonus +6.<br><br",
+    "mythicSource": "Mythic Adventures pg. 73",
+    "mythicText": "With ease, you can snap off two shots while dashing across the battlefield.",
+    "mythicPrerequisites": "Shot on the Run, base attack bonus +6.",
     "mythicBenefit": "Whenever you use Shot on the Run, you can make two ranged attacks at your highest base attack bonus at any point during your movement, instead of just one.",
     "prerequisiteKeys":     [
         "dodge",
@@ -20,7 +20,8 @@
         "point-blank shot"
     ],
     "name_zh": "移动射击",
-    "description_zh": "你能够移动，射击一件远程武器，然后在你的敌人能够反应之前再次移动。",
+    "text_zh": "你能够移动，射击一件远程武器，然后在你的敌人能够反应之前再次移动。",
     "prerequisites_zh": "敏捷13，闪避，灵活移动，近距射击，基本攻击加值+4。",
-    "benefit_zh": "以一个整轮动作，你能够移动至多等同于你速度的距离，并在移动的任意时点做一次单独的远程攻击。<\/p><p>通常状况：你不能在使用远程武器进行攻击之前和之后都移动。"
+    "benefit_zh": "以一个整轮动作，你能够移动至多等同于你速度的距离，并在移动的任意时点做一次单独的远程攻击。",
+    "normal_zh": "你不能在使用远程武器进行攻击之前和之后都移动。"
 }

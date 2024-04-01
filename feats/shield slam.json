@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Shield%20Slam",
     "descriptors": ["Combat"],
     "source": ["PRPG Core Rulebook pg. 133"],
-    "description": "In the right position, your shield can be used to send opponents flying.",
+    "text": "In the right position, your shield can be used to send opponents flying.",
     "prerequisites": "Improved Shield Bash, Shield Proficiency, Two-Weapon Fighting, base attack bonus +6.",
     "benefit": "Any opponents hit by your shield bash are also hit with a free bull rush attack, substituting your attack roll for the combat maneuver check (see Combat). This bull rush does not provoke an attack of opportunity. Opponents who cannot move back due to a wall or other surface are knocked prone after moving the maximum possible distance. You may choose to move with your target if you are able to take a 5-foot step or to spend an action to move this turn.",
-    "staminaSource": ["Pathfinder Unchained pg. 131"],
+    "staminaSource": "Pathfinder Unchained pg. 131",
     "staminaText": "Instead of attempting a free bull rush when using the Shield Slam feat, you can spend 2 stamina points to attempt a disarm, reposition<sup>APG<\/sup>, trip, or sunder combat maneuver. This combat maneuver attempt does not provoke an attack of opportunity from the target.",
-    "mythicSource": ["Mythic Adventures pg. 73"],
-    "mythicDescription": "Your shield bash produces a powerful kick.",
-    "mythicPrerequisites": "Shield Slam.<br><br",
+    "mythicSource": "Mythic Adventures pg. 73",
+    "mythicText": "Your shield bash produces a powerful kick.",
+    "mythicPrerequisites": "Shield Slam.",
     "mythicBenefit": "When using Shield Slam to bull rush, an opponent knocked prone because of an intervening wall or other surface also takes damage from the collision. The damage dealt is equal to 1d6 points per 2 tiers you possess. As an immediate action, you can expend one use of mythic power to add your tier to your combat maneuver checks when resolving a bull rush made due to Shield Slam.",
     "prerequisiteKeys":     [
         "improved shield bash",
@@ -19,7 +19,7 @@
         "two-weapon fighting"
     ],
     "name_zh": "盾牌猛冲",
-    "description_zh": "只要地形合适，你能用盾牌让对手飞起来。",
+    "text_zh": "只要地形合适，你能用盾牌让对手飞起来。",
     "prerequisites_zh": "精通盾击，擅长盾牌，双武器格斗，基本攻击加值+6。",
-    "benefit_zh": "任何被你盾击命中的对手也受到一次自由动作的冲撞攻击，用这次攻击检定的结果来替代战技检定。这次冲撞不会触发藉机攻击。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。"
+    "benefit_zh": "任何被你盾击命中的对手也受到一次附带的冲撞攻击，用这次攻击检定的结果来替代战技检定。这次冲撞不会触发借机攻击。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。"
 }

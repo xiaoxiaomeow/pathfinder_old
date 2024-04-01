@@ -3,8 +3,8 @@
     "name": "Block Chakras",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Block%20Chakras",
     "source": ["Martial Arts Handbook pg. 28"],
-    "description": "You’ve learned how to block the lower chakras of your foes.",
-    "prerequisites": "Psychic Sensitivity or levels in an occult class, brawler's flurry or flurry of blows class feature, ki pool.",
+    "text": "You’ve learned how to block the lower chakras of your foes.",
+    "prerequisites": "Psychic Sensitivity or levels in an occult class, brawler’s flurry or flurry of blows class feature, ki pool.",
     "benefit": "As a standard action, you can spend 1 ki point to make a single unarmed strike that attempts to block one of the target’s chakras. If you hit the target and deal damage, you can select either the root, sacral, or navel chakra, as long as you can open that chakra yourself. The target suffers a specific effect based on the chosen chakra (see below), though it can reduce these effects with a successful Fortitude save (DC = 10 + half your character level + the ability modifier you use to calculate your ki pool).<br><br> <i>Root<\/i>: The target’s DR is reduced by 10 for 1 minute. If the target has multiple forms of DR, you choose which DR is reduced. On a successful save, the target’s DR is instead reduced by 5 for 1 round.<br><br> <i>Sacral<\/i>: The target can’t use any of its speeds except its land speed (or swim speed for an aquatic creature) for 1 round, and it moves at half speed for 1 minute. If it was flying, the target can attempt a Fly check to fall safely. On a successful save, the target instead moves at half speed for 1 round.<br><br> <i>Navel<\/i>: The target takes a –2 penalty on attack rolls and damage rolls, and it reduces the DCs of its spells and abilities by 2 for 1 minute. On a successful save, the penalty and reduction is halved and lasts for 1 round.",
     "prerequisiteKeys": ["psychic sensitivity"]
 }

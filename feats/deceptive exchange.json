@@ -3,7 +3,7 @@
     "name": "Deceptive Exchange",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Deceptive%20Exchange",
     "source": ["Ultimate Combat pg. 95"],
-    "description": "You trick an adversary into grabbing an object you hand them, even in the midst of combat.",
+    "text": "You trick an adversary into grabbing an object you hand them, even in the midst of combat.",
     "prerequisites": "Int 13, Combat Expertise, Improved Feint.",
     "benefit": "If you successfully feint an opponent, you can trick that opponent into accepting a one-handed object you are holding instead of denying that opponent its Dexterity bonus to AC against your next attack. The opponent must have appendages capable of holding the object you offer, and it must have one such appendage free to take the object.",
     "special": "An alchemist who has the delayed bomb alchemist discovery can use this feat to hand an enemy a delayed bomb. Such a delayed bomb detonates at the end of the alchemist’s turn. If the bomb is in a creature’s square at the end of the alchemist’s turn, the bomb deals that creature a direct hit.",
@@ -12,7 +12,7 @@
         "improved feint"
     ],
     "name_zh": "欺诈交换",
-    "description_zh": "即使是在激烈的战斗中，你也可以成功的欺骗对手并将东西塞到他手里。",
+    "text_zh": "即使是在激烈的战斗中，你也可以成功的欺骗对手并将东西塞到他手里。",
     "prerequisites_zh": "智力13，寓守于攻，精通虚招。",
     "benefit_zh": "如果你成功的对敌人使用了虚招，你可以选择不让他对你下一次攻击失去AC的敏捷加值，而是将你手里的一件东西塞给他。该敌人必须有肢体用于接取物品，而且必须有肢体是空闲状态才能接住物品。",
     "special_zh": "一个拥有〔定时炸弹（Delayed bomb, APG）〕科研发现的炼金术士可以用这个专长把定时炸弹塞给敌人。定时炸弹将在炼金术士行动结束时爆炸。如果炸弹在炼金术士行动结束时在一个生物手里，该生物将被视为被直接命中而无需其他检定。"

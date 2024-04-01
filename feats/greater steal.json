@@ -4,18 +4,19 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Steal",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 162"],
-    "description": "You have a knack for snatching items from your opponents in combat.",
+    "text": "You have a knack for snatching items from your opponents in combat.",
     "prerequisites": "Int 13, Combat Expertise, Improved Steal, base attack bonus +6.",
     "benefit": "You receive a +2 bonus on checks made to steal an item from a foe. This bonus stacks with the bonus granted by Improved Steal. If you successfully steal an item from a foe during combat, it does not notice the theft until after combat is over or if it attempts to use the missing item.",
     "normal": "Creatures automatically notice items taken from them through the steal combat maneuver.",
-    "staminaSource": ["Pathfinder Unchained pg. 121"],
+    "staminaSource": "Pathfinder Unchained pg. 121",
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When attempting a steal<sup>APG<\/sup> combat maneuver with a whip, you can spend 2 stamina points to negate the –4 penalty on the check.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved steal"
     ],
     "name_zh": "高等盗取",
-    "description_zh": "你懂得在战斗中从敌人那里扒窃道具的敲门。",
+    "text_zh": "你懂得在战斗中从敌人那里扒窃道具的敲门。",
     "prerequisites_zh": "智力13，寓守于攻，精通盗取，基本攻击加值+6。",
-    "benefit_zh": "你所实行的盗取战技检定获得+2加值。这个加值与“精通盗取”提供的加值叠加。如果你成功在战斗中从敌人身上盗取一件物品，那么他直至战斗结束或者尝试使用这件丢失的物品前不会察觉这件事情。<\/p><p>通常状况：被盗取战技检定取走物品的生物会自动察觉这点。"
+    "benefit_zh": "你所实行的盗取战技检定获得+2加值。这个加值与“精通盗取”提供的加值叠加。如果你成功在战斗中从敌人身上盗取一件物品，那么他直至战斗结束或者尝试使用这件丢失的物品前不会察觉这件事情。",
+    "normal_zh": "被盗取战技检定取走物品的生物会自动察觉这点。"
 }

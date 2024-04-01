@@ -3,7 +3,10 @@
     "name": "Psychic Sensitivity",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Psychic%20Sensitivity",
     "source": ["Occult Adventures pg. 138"],
-    "description": "You unlock the secrets of the occult world.",
+    "text": "You unlock the secrets of the occult world.",
     "benefit": "You gain access to occult skill unlocks (see page 194) for any skills in which you have ranks. If you have no ranks in the appropriate skill, you can’t use the occult skill unlock, even if that skill can be used untrained.",
-    "normal": "You must have the ability to cast psychic spells in order to use occult skill unlocks."
+    "normal": "You must have the ability to cast psychic spells in order to use occult skill unlocks.",
+    "name_zh": "异能敏感",
+    "text_zh": "你了解了世界的神秘侧面。",
+    "benefit_zh": "你获得对于所有你拥有技能等级的技能的神秘技能解放（Occult Skill Unlock）。如果你在特定技能上并未受训，那么你就不能使用该技能的神秘技能解放，即使你可以在未受训的情况下使用这个技能进行检定也不行。<\/p><p>正常：你必须能够施放异能法术才能获得神秘技能解放。"
 }

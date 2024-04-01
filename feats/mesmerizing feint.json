@@ -4,8 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Mesmerizing%20Feint",
     "descriptors": ["Combat"],
     "source": ["Occult Adventures pg. 137"],
-    "description": "You’re adept at feinting against even the least imaginative of creatures.",
+    "text": "You’re adept at feinting against even the least imaginative of creatures.",
     "prerequisites": "Hypnotic stare class feature.",
     "benefit": "You take only a –2 penalty when feinting against a non-humanoid and a –4 penalty when feinting against creatures with animal intelligence, as long as the target is a subject of your hypnotic stare. If you have at least 10 ranks in Bluff, you instead take no penalty when feinting against non-humanoids and creatures of animal intelligence under your hypnotic stare.",
-    "normal": "When feinting against a non-humanoid, you take a –4 penalty. Against a creature of animal intelligence, you take a –8 penalty."
+    "normal": "When feinting against a non-humanoid, you take a –4 penalty. Against a creature of animal intelligence, you take a –8 penalty.",
+    "name_zh": "摄神虚招",
+    "text_zh": "即便是最缺乏想像力的生物，也会被你那逼真的假动作所引导。",
+    "prerequisites_zh": "催眠注视（Hypnotic Stare）职业能力",
+    "benefit_zh": "只要目标是你的催眠注视（Hypnotic Stare）的受术者，那么在使用虚招对抗非类人生物（non-humanoid）时，你仅会受到-2减值；在使用虚招对抗仅具有动物智能（animal intelligence）的生物时，你仅会受到-4减值。若你在唬骗技能上至少投入了10个技能点，且你的虚招目标同时是你的催眠注视的受术者的话，虚招检定在对抗非类人生物以及仅具有动物智能的生物时将不会承受任何减值。<\/p><p>正常：当对一个非类人生物进行虚招检定时，你承受-4减值。对一个只有动物智力水平（1 – 2）的生物使用虚招时，你承受-8减值。"
 }

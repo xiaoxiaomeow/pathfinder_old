@@ -3,11 +3,12 @@
     "name": "Crusader's Flurry",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Crusader's%20Flurry",
     "source": ["Ultimate Combat pg. 94"],
-    "description": "You learned to use your deity’s favored weapon as part of your martial arts form.",
-    "prerequisites": "Channel energy class feature, flurry of blows class feature, Weapon Focus with your deity's favored melee weapon.",
+    "text": "You learned to use your deity’s favored weapon as part of your martial arts form.",
+    "prerequisites": "Channel energy class feature, flurry of blows class feature, Weapon Focus with your deity’s favored melee weapon.",
     "benefit": "You can use your deity’s favored weapon as if it were a monk weapon.",
+    "prerequisiteKeys": ["weapon focus"],
     "name_zh": "圣战连击",
-    "description_zh": "你学会了如何将你信仰的神祇的偏好武器融入你所使用的武术架势。",
+    "text_zh": "你学会了如何将你信仰的神祇的偏好武器融入你所使用的武术架势。",
     "prerequisites_zh": "【引导能量】职业特性，【疾风连击】职业特性，武器专攻（神祇的偏好近战武器）。",
     "benefit_zh": "你可以将神祇的偏好武器用于疾风连击，就像它是一件武僧武器一样。"
 }

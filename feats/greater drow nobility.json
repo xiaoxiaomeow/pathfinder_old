@@ -3,7 +3,7 @@
     "name": "Greater Drow Nobility",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Greater%20Drow%20Nobility",
     "source": ["Advanced Race Guide pg. 105"],
-    "description": "You have mastered the lesser spell-like abilities of the drow, demonstrating true nobility.",
+    "text": "You have mastered the lesser spell-like abilities of the drow, demonstrating true nobility.",
     "prerequisites": "Cha 13, Drow Nobility, Improved Drow Nobility, able to use drow spell-like abilities, drow.",
     "benefit": "Your <i>detect magic <\/i>spell-like ability is now constant. You may use your <i>dancing lights<\/i>, <i>deeper darkness<\/i>, <i>faerie fire<\/i>, <i>feather fall<\/i>, and <i>levitate <\/i>spell-like abilities at will.",
     "prerequisiteKeys":     [
@@ -11,7 +11,7 @@
         "improved drow nobility"
     ],
     "name_zh": "高等卓尔贵族",
-    "description_zh": "你已经精通了低阶的卓尔类法术能力，以此彰显你真正的贵族身份。",
+    "text_zh": "你已经精通了低阶的卓尔类法术能力，以此彰显你真正的贵族身份。",
     "prerequisites_zh": "魅力13，卓尔贵族，进阶卓尔贵族，能够使用卓尔的类法术能力，卓尔。",
     "benefit_zh": "你的‘侦测魔法’类法术能力现在恒定存在。你可以随意以类法术能力使用‘舞光术’，‘深幽黑暗术’，‘妖火’，‘羽落术’与‘浮空术’。"
 }

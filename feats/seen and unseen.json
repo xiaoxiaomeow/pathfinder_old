@@ -3,12 +3,11 @@
     "name": "Seen and Unseen",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Seen%20and%20Unseen",
     "source": ["Advanced Race Guide pg. 47"],
-    "description": "Your anonymity makes you difficult to find through magical or mundane means, and you have learned how to combat both of your progenitor races.",
-    "prerequisites": "Exile's Path, character level 5th, half-elf.",
+    "text": "Your anonymity makes you difficult to find through magical or mundane means, and you have learned how to combat both of your progenitor races.",
+    "prerequisites": "Exile’s Path, character level 5th, half-elf.",
     "benefit": "You gain a +2 bonus on all saving throws against scrying or divination effects. Additionally, you gain a +2 bonus on all Stealth checks, and elves, half-elves, and humans take a –4 penalty on all efforts to track you through the Survival skill.",
-    "prerequisiteKeys": ["exile's path"],
     "name_zh": "飘忽不定",
-    "description_zh": "隐匿自身的你难以被魔法或者常规方式所探寻，同时你学会了与自身先祖战斗的技巧。",
+    "text_zh": "隐匿自身的你难以被魔法或者常规方式所探寻，同时你学会了与自身先祖战斗的技巧。",
     "prerequisites_zh": "流放之路，角色等级5，半精灵。",
     "benefit_zh": "你在对抗所有〔探知〕以及〔预言〕效果时，豁免检定获得+2加值。此外你的所有隐匿检定获得+2加值，并且精灵、半精灵以及人类在使用生存检定追踪你时受到-4减值。"
 }

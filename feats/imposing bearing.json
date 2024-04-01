@@ -7,10 +7,10 @@
         "Combat"
     ],
     "source": ["Armor Master's Handbook pg. 17"],
-    "description": "Your armor allows you to push your opponents around.",
+    "text": "Your armor allows you to push your opponents around.",
     "prerequisites": "Poised Bearing, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with heavy armor.",
     "benefit": "You treat your size as two categories larger for the purposes of determining the size of creatures against which you can attempt bull rush, drag<sup>APG<\/sup>, overrun, and trip combat maneuvers.",
-    "staminaSource": ["Armor Master's Handbook pg. 20"],
+    "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points as a swift action to add half your armor bonus to your next combat maneuver check this turn. Alternatively, you can spend 5 stamina points as an immediate action to add half your armor bonus to your CMD against a single combat maneuver this turn. (See page 17.)",
     "prerequisiteKeys": ["poised bearing"]
 }

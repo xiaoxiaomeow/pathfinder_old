@@ -4,14 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sap%20Master",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 116"],
-    "description": "You knock the sense out of foes with a well-timed surprise attack.",
+    "text": "You knock the sense out of foes with a well-timed surprise attack.",
     "prerequisites": "Sneak attack +3d6, Sap Adept.",
     "benefit": "Whenever you use a bludgeoning weapon to deal nonlethal sneak attack damage to a flat-footed opponent, roll your sneak attack dice twice, totaling the results as your nonlethal sneak attack damage for that attack.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "You can spend 10 stamina points to use this feat on one attack against an opponent you are flanking, instead of one that is flat-footed.",
     "prerequisiteKeys": ["sap adept"],
     "name_zh": "闷棍师",
-    "description_zh": "你在最恰当的时点敲中对手的七寸。",
+    "text_zh": "你在最恰当的时点敲中对手的七寸。",
     "prerequisites_zh": "偷袭+3d6，闷棍手。",
     "benefit_zh": "当你使用钝击武器、对一个措手不及的对象造成非致命伤害的偷袭时，将所有偷袭d6双骰合计作为非致命偷袭伤害。"
 }

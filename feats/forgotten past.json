@@ -4,8 +4,16 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Forgotten%20Past",
     "descriptors": ["Story"],
     "source": ["Ultimate Campaign pg. 69"],
-    "description": "A pivotal event from your past eludes your memory.",
+    "text": "A pivotal event from your past eludes your memory.",
     "prerequisites": "You must have suffered permanent memory loss or have the Reincarnated background.",
     "benefit": "The duration of mind-affecting spells (even beneficial ones) is halved for you, to a minimum of 1 round. Your inquisitive nature gives you a +2 bonus on Perception checks. If you have 10 or more ranks in Perception, this bonus increases to +4.",
-    "special": "Restoration of memories by means less significant than <i>miracle <\/i>or <i>wish <\/i>does not qualify for the prerequisite."
+    "special": "Restoration of memories by means less significant than <i>miracle <\/i>or <i>wish <\/i>does not qualify for the prerequisite.",
+    "goal": "Regain a major portion of your lost memories. The exact means varies, possibly requiring a <i>wish<\/i>, assistance from a divine being, reliving a past life, or confronting the situation that led to your memory loss. This process must involve encountering a challenging foe, though possibly in ways other than direct confrontation.",
+    "completionBenefit": "You roll twice whenever you attempt a saving throw against a mind-affecting effect, keeping the better result.",
+    "name_zh": "忘却回忆",
+    "text_zh": "某个重大事件从你的记忆中隐去了。",
+    "prerequisites_zh": "你必须遭受持久的失忆之苦；或拥有“转世轮回（Reincarnated background）”角色背景。",
+    "benefit_zh": "影响心智法术（即便是有利效果）对你的持续时间减半，至少1轮。你的求知本能使你的察觉检定+2。如果你在察觉技能受训10级以上，该加值升至+4。",
+    "goal_zh": "拾回你重要的记忆残片。具体实现的手段多变，可以通过‘许愿术’法术、神祇协助、往事重现或直面导致你失忆的情境。该过程必须伴随着一位强大敌手的登场，尽管并不一定需要你们直接对峙。",
+    "completionBenefit_zh": "你在对抗影响心智效果的豁免中可以双骰取高。<\/p><p>特殊备注：以低于‘奇迹术’和‘祈愿术’层次的法术重获记忆并不满足目标条件。"
 }

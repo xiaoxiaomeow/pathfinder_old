@@ -4,13 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Haunted%20Gnome",
     "descriptors": ["Combat"],
     "source": ["Ultimate Combat pg. 104"],
-    "description": "You use your gnome magic to take on an eerie illusory appearance.",
+    "text": "You use your gnome magic to take on an eerie illusory appearance.",
     "prerequisites": "Cha 13, gnome magic racial trait, Knowledge (arcana) 1 rank.",
     "benefit": "You add <i>haunted fey aspect <\/i>(page 230) to your list of gnome magic spell-like abilities, and you can use this spell-like ability twice per day.",
-    "staminaSource": ["Pathfinder Unchained pg. 122"],
+    "staminaSource": "Pathfinder Unchained pg. 122",
     "staminaText": "You can spend 5 stamina points to use <i>haunted fey aspect<\/i><sup>UC<\/sup> an additional time in a day.",
     "name_zh": "精怪侏儒",
-    "description_zh": "你能用你的侏儒幻术制造令人毛骨悚然的幻象。",
+    "text_zh": "你能用你的侏儒幻术制造令人毛骨悚然的幻象。",
     "prerequisites_zh": "魅力13，【侏儒魔法】种族特性，知识（奥秘）1级。",
     "benefit_zh": "将‘精怪之相（Haunted Fey Aspect, UC）’法术加入你的类法术能力列表中，你能每天使用这项类法术能力2次。"
 }

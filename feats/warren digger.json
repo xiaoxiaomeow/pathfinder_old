@@ -6,8 +6,12 @@
         "Monster Codex pg. 81",
         "Classic Horrors Revisited pg. 32"
     ],
-    "description": "After years spent digging up graves, you are able to move through dirt almost as easily as a fish through water.",
+    "text": "After years spent digging up graves, you are able to move through dirt almost as easily as a fish through water.",
     "prerequisites": "Ghoul.",
     "benefit": "You gain a burrow speed of 10 feet through earth, sand, or soil.",
-    "special": "You can gain this feat multiple times. Each time you take it, add 10 feet to your burrow speed, up to a maximum of your base land speed."
+    "special": "You can gain this feat multiple times. Each time you take it, add 10 feet to your burrow speed, up to a maximum of your base land speed.",
+    "name_zh": "挖坟者",
+    "text_zh": "你挖墓无数，最后你可以像在水里游泳一样挖穿千年古坟。",
+    "prerequisites_zh": "食尸鬼",
+    "benefit_zh": "在挖掘泥土，沙子或泥地时，你获得10尺掘穴速度。"
 }

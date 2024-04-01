@@ -3,7 +3,11 @@
     "name": "Bred Commander",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Bred%20Commander",
     "source": ["Monster Codex pg. 116"],
-    "description": "You possess a long pedigree of ruthless generals and military tacticians, and an army under your command is more difficult to rout as a result.",
+    "text": "You possess a long pedigree of ruthless generals and military tacticians, and an army under your command is more difficult to rout as a result.",
     "prerequisites": "Hobgoblin.",
-    "benefit": "When serving as a commander using the mass combat rules presented in Chapter 4 of <i>Ultimate Campaign<\/i>, you can add your class level to your army’s Morale checks in place of your Charisma modifier."
+    "benefit": "When serving as a commander using the mass combat rules presented in Chapter 4 of <i>Ultimate Campaign<\/i>, you can add your class level to your army’s Morale checks in place of your Charisma modifier.",
+    "name_zh": "将才",
+    "text_zh": "你从小便熟读兵书军略，冷酷无情的战争与死亡对你来说只是统计数字的变化而已，而你的军团也学会更加服从和畏惧他们的指挥官——获得胜利的唯一保障。",
+    "prerequisites_zh": "大地精",
+    "benefit_zh": "当你作为一支军队的指挥官，并应用极限战役中的集团战斗（Mass Combat）规则进行战斗时，你可以将自己的职业等级取代魅力调整值加到你的军队的士气检定上。"
 }

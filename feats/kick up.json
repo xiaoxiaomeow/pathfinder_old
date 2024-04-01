@@ -4,10 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Kick%20Up",
     "descriptors": ["Combat"],
     "source": ["Advanced Class Guide pg. 152"],
-    "description": "You have learned how to kick items on the ground to a ready hand.",
+    "text": "You have learned how to kick items on the ground to a ready hand.",
     "prerequisites": "Dex 12, Acrobatic, Acrobatics 1 rank; slayer level 1st or swashbuckler level 1st.",
     "benefit": "As long as you have at least one hand free, you can use a swift action to retrieve a single unattended item or weapon that weighs 10 pounds or less from the ground, either in your square or in any adjacent square not occupied or threatened by an enemy. Additionally, when you kick up a weapon and attempt a feint before the end of your turn, you receive a +2 circumstance bonus on the feint attempt.",
-    "staminaSource": ["Pathfinder Unchained pg. 125"],
+    "staminaSource": "Pathfinder Unchained pg. 125",
     "staminaText": "You can spend 2 stamina points to kick up an unattended object in an adjacent space occupied by an enemy.",
-    "prerequisiteKeys": ["acrobatic"]
+    "prerequisiteKeys": ["acrobatic"],
+    "name_zh": "挂金勾",
+    "text_zh": "只用脚尖一挑，掉在地上的武器就飞回到你的手里。",
+    "prerequisites_zh": "敏捷12，特技专家（Acrobatic），特技动作技能1级，杀手或游荡剑客职业等级1",
+    "benefit_zh": "只要你有一只手空着，你就可以以一个迅捷动作将一件在你或者邻接你且不在敌人威胁范围中的无人看管的，重量轻于10磅的物品或武器收回手中。除此之外，如果你在踢起一件武器的同一轮中进行一次虚招尝试，那么你可以在这次虚招检定上获得+2环境加值。"
 }

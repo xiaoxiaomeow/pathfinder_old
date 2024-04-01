@@ -4,17 +4,17 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Ray%20Shield",
     "descriptors": ["Combat"],
     "source": ["Advanced Player's Guide pg. 168"],
-    "description": "You can even deflect rays with your shield.",
+    "text": "You can even deflect rays with your shield.",
     "prerequisites": "Dex 15, Missile Shield, Spellbreaker.",
     "benefit": "You must be using a light, heavy, or tower shield to use this feat. Once per round when you would normally be hit with a ranged touch attack (including rays and similar magical effects), you may deflect it so that you take no damage from it. Your shield suffers the full effects of the spell or effect, if applicable.",
-    "staminaSource": ["Pathfinder Unchained pg. 130"],
+    "staminaSource": "Pathfinder Unchained pg. 130",
     "staminaText": "You can spend 2 stamina points to gain the effect of this feat while preventing the spell or effect from affecting your shield.",
     "prerequisiteKeys":     [
         "missile shield",
         "spellbreaker"
     ],
     "name_zh": "盾牌反射",
-    "description_zh": "你甚至可以使用盾牌偏转射线。",
+    "text_zh": "你甚至可以使用盾牌偏转射线。",
     "prerequisites_zh": "敏捷15，盾牌辟矢，破法者。",
     "benefit_zh": "你必须使用轻型盾牌，重型盾牌或者塔盾才能使用该专长。每轮1次，当你将要被远程接触攻击命中时（包括射线以及类似的魔法效果），你可以使其偏斜，并且不会因其而受到伤害。如果该效果适用的话，你的盾牌会遭受完整的法术或效果的影响。"
 }

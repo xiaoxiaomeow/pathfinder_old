@@ -3,7 +3,7 @@
     "name": "Malicious Eye",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Malicious%20Eye",
     "source": ["Halflings of Golarion pg. 27"],
-    "description": "You can combine the effects of your evil eye and your jinx.",
+    "text": "You can combine the effects of your evil eye and your jinx.",
     "prerequisites": "Evil eye witch hex, Halfling Jinx trait.",
     "benefit": "When a creature fails its save against your evil eye hex, add the effect of your jinx to the effect of the hex. The save penalties from the hex and jinx stack. Using your jinx on another creature does not end the hex or the jinx effect on the hexed target."
 }

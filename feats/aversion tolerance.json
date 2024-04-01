@@ -6,7 +6,11 @@
         "Monster Codex pg. 237",
         "Blood of the Night pg. 28"
     ],
-    "description": "You have been hunted for so long that you have developed resistances to slayers’ usual scare tactics.",
+    "text": "You have been hunted for so long that you have developed resistances to slayers’ usual scare tactics.",
     "prerequisites": "Vampire.",
-    "benefit": "You gain a +2 bonus on saves made to resist aversions to objects, sounds, and materials appropriate to your vampire type (such as garlic, holy symbols, and mirrors for a moroi). When confronted with such things, you can attempt a saving throw immediately instead of after 1 round."
+    "benefit": "You gain a +2 bonus on saves made to resist aversions to objects, sounds, and materials appropriate to your vampire type (such as garlic, holy symbols, and mirrors for a moroi). When confronted with such things, you can attempt a saving throw immediately instead of after 1 round.",
+    "name_zh": "忍耐禁忌",
+    "text_zh": "你已经活了够久，一般人所知的吸血鬼的禁忌对你并没有那么有用了",
+    "prerequisites_zh": "吸血鬼",
+    "benefit_zh": "你在对抗对你产生影响的禁忌之物（比如茉莉血族害怕的大蒜，圣徽和镜子）的豁免检定上获得+2加值。当你受到这些禁忌影响时，你可以立刻重新进行豁免检定而无需等待1轮时间。"
 }

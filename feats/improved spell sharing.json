@@ -4,7 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Spell%20Sharing",
     "descriptors": ["Teamwork"],
     "source": ["Advanced Class Guide pg. 150"],
-    "description": "Your link with your companion creature allows you to share your magic with it.",
+    "text": "Your link with your companion creature allows you to share your magic with it.",
     "prerequisites": "Ability to acquire an animal companion, eidolon, familiar, or special mount.",
-    "benefit": "When you are adjacent to or sharing a square with your companion creature and that companion creature has this feat, you can cast a spell on yourself and divide the duration evenly between yourself and the companion creature. You can use this feat only on spells with a duration of at least 2 rounds. For example, you could cast <i>bull’s strength<\/i> on yourself, and instead of the spell lasting 1 minute per level on yourself, it lasts 5 rounds per level on yourself and 5 rounds per level on your companion.<br><br> Once the spell is cast, you and the companion creature can move farther apart without ending the effect."
+    "benefit": "When you are adjacent to or sharing a square with your companion creature and that companion creature has this feat, you can cast a spell on yourself and divide the duration evenly between yourself and the companion creature. You can use this feat only on spells with a duration of at least 2 rounds. For example, you could cast <i>bull’s strength<\/i> on yourself, and instead of the spell lasting 1 minute per level on yourself, it lasts 5 rounds per level on yourself and 5 rounds per level on your companion.<br><br> Once the spell is cast, you and the companion creature can move farther apart without ending the effect.",
+    "name_zh": "精通法术共享",
+    "text_zh": "你与同伴间紧密的联结让魔法在你们之间畅行无阻。",
+    "prerequisites_zh": "拥有动物伙伴，召唤师幻灵，魔宠或坐骑",
+    "benefit_zh": "当你邻接或是和拥有此团队专长的伙伴生物共享占据空间时，你可以将一个施放到自己身上的法术平分给你和伙伴生物，法术的持续时间也同样平分，但它的持续时间至少需要为2轮。举例来说，你可以向自己施放一个持续时间每施法者等级一分钟的法术牛之力量，那么你可以将这个法术的效果分享给你的一个伙伴生物，这样做法术将均在你们身上生效每施法者等级5轮时间。<\/p><p>一旦法术施放完成，你和伙伴生物就可以自由分开。"
 }

@@ -3,15 +3,12 @@
     "name": "Neither Elf nor Human",
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Neither%20Elf%20nor%20Human",
     "source": ["Advanced Race Guide pg. 47"],
-    "description": "You have removed yourself from your heritage so thoroughly that even magic does not recognize you.",
-    "prerequisites": "Exile's Path, Seen and Unseen, character level 11th, half-elf.",
+    "text": "You have removed yourself from your heritage so thoroughly that even magic does not recognize you.",
+    "prerequisites": "Exile’s Path, Seen and Unseen, character level 11th, half-elf.",
     "benefit": "You are not considered elven or human for the purpose of harmful spells or effects based on your type, like a bane weapon or a ranger’s favored enemy class feature.",
-    "prerequisiteKeys":     [
-        "exile's path",
-        "seen and unseen"
-    ],
+    "prerequisiteKeys": ["seen and unseen"],
     "name_zh": "既非精灵也非人类",
-    "description_zh": "你将自身从你的血脉中抹除得如此彻底，就连魔法也无法识别出你。",
+    "text_zh": "你将自身从你的血脉中抹除得如此彻底，就连魔法也无法识别出你。",
     "prerequisites_zh": "流放之路，飘忽不定，角色等级11，半精灵。",
     "benefit_zh": "在判断与你的类别相关的有害法术以及效果时，你既不被视为精灵也不被视为人类，比如〈破敌〉武器或者游侠的【宿敌】职业能力。"
 }
