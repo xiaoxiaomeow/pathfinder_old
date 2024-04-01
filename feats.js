@@ -42,6 +42,7 @@ function markTree (key, tree, mark) {
 		let node = tree[i];
 		if (mark) {
 			node["marked"] = true;
+			markTree(key, node["children"], true);
 		}
 		if (node["key"] == key) {
 			node["marked"] = true;
