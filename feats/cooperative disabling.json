@@ -6,5 +6,9 @@
     "source": ["Ultimate Intrigue pg. 81"],
     "text": "You are skilled at working with an ally to disable traps.",
     "prerequisites": "Disable Device 1 rank, trapfinding class feature.",
-    "benefit": "When you use the Disable Device skill and fail the check against a trap, a single adjacent ally with this feat who is also within reach of the trap can attempt a Disable Device check against the same device as an immediate action. The ally must have remained adjacent throughout the process of disabling the device and must have either aided your Disable Device check or taken no other action. If your ally succeeds at the check, your attempt is considered to be successful. If your ally fails, your attempt is considered to have failed by 5 or more, even if the original check failed by 4 or less."
+    "benefit": "When you use the Disable Device skill and fail the check against a trap, a single adjacent ally with this feat who is also within reach of the trap can attempt a Disable Device check against the same device as an immediate action. The ally must have remained adjacent throughout the process of disabling the device and must have either aided your Disable Device check or taken no other action. If your ally succeeds at the check, your attempt is considered to be successful. If your ally fails, your attempt is considered to have failed by 5 or more, even if the original check failed by 4 or less.",
+    "name_zh": "拆除小队",
+    "text_zh": "你擅长与盟友一同携手拆除陷阱。",
+    "prerequisites_zh": "解除装置1级，寻找陷阱（Trapfinding）职业能力",
+    "benefit_zh": "当你对1个陷阱使用解除装置检定并且失败时，单个具有该专长且与你相邻的盟友如果也能触及到陷阱的话，能够以直觉动作（immediate action）尝试1次解除装置检定对抗相同的装置。该名盟友必须在你解除装置的过程中一直与你相邻，而且必须协助你的解除装置检定或者不采取任何其他动作。若你的盟友检定成功，那么你的尝试会被视作成功了。若你的盟友检定失败，那么你的尝试被视作失败了5点或更多，即便你原本的检定仅仅失败了4点或更少也是如此。"
 }

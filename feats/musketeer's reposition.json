@@ -9,5 +9,9 @@
     "source": ["Villain Codex pg. 56"],
     "text": "You can knock a foe away with your two-handed firearm.",
     "prerequisites": "Exotic Weapon Proficiency (firearms)<sup>UC<\/sup>, gunslinger level 6th, pistol-whip deed.",
-    "benefit": "When you hit an opponent with a two-handed firearm while using the pistol-whip deed, you can perform a reposition<sup>APG<\/sup> combat maneuver instead of knocking the target prone. However, you can’t reposition the foe closer to you. This combat maneuver does not provoke attacks of opportunity."
+    "benefit": "When you hit an opponent with a two-handed firearm while using the pistol-whip deed, you can perform a reposition<sup>APG<\/sup> combat maneuver instead of knocking the target prone. However, you can’t reposition the foe closer to you. This combat maneuver does not provoke attacks of opportunity.",
+    "name_zh": "火枪手换位",
+    "text_zh": "你可以用手中的双手火器击退敌人。",
+    "prerequisites_zh": "异种武器擅长（火器），枪手6级，枪柄抽击炫技。",
+    "benefit_zh": "当你使用枪柄抽击炫技并以双手火器命中敌人时，你可以不击倒目标，而是改为进行换位战技。不过，你不能将敌人换位到更接近你的位置上。此战技不会引发借机攻击。"
 }

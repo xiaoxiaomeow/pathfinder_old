@@ -7,5 +7,10 @@
     "prerequisites": "Acrobatic, Fly 5 ranks.",
     "benefit": "As long as you take a move action to fly, even when moving less than half your speed, you do not need to succeed at a Fly check to continue flying. When moving less than half your speed in a round, you also gain a +2 bonus on Acrobatics checks to avoid attacks of opportunity and a +2 bonus to your AC against attacks of opportunity you provoke because of movement.",
     "normal": "You must succeed at a Fly check to continue flying unless you move at least half your speed.",
-    "prerequisiteKeys": ["acrobatic"]
+    "prerequisiteKeys": ["acrobatic"],
+    "name_zh": "谨慎飞行者",
+    "text_zh": "你能够轻松地以缓慢速度进行飞行。",
+    "prerequisites_zh": "特技专家（Acrobatic），飞行5级",
+    "benefit_zh": "只要你以移动动作进行飞行，即便速度低于你的速度的一半，也不需要通过成功的飞行检定来维持飞行。当你在1轮内移动的距离不足速度的一半时，你仍会在避免借机攻击的特技动作检定中获得+2加值，而且AC还会在对抗由于移动而引起的借机攻击时获得+2加值。",
+    "normal_zh": "除非你至少以半速飞行，否则必须成功通过飞行检定才能够继续飞行。"
 }

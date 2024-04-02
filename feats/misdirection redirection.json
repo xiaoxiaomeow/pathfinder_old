@@ -11,5 +11,9 @@
         "combat expertise",
         "deceitful",
         "misdirection tactics"
-    ]
+    ],
+    "name_zh": "转向误导",
+    "text_zh": "在误导敌人的武器攻击后，你引导着他打向了其他人。",
+    "prerequisites_zh": "智力 13，寓守于攻，诈欺师，误导战法，唬骗10级",
+    "benefit_zh": "当你成功使用了误导战法（Misdirection Tactics）专长让1次近战武器攻击失效时，可以重定向敌人的攻击，引导敌人依照你的选择来攻击其近战触及范围内的其他生物。要处理该次攻击，你的敌人必须对抗新目标做出1次新的攻击检定。"
 }

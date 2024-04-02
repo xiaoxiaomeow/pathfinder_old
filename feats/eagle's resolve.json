@@ -9,5 +9,9 @@
     "text": "You are resolute in your opposition to slavery and oppression, and the very thought of mental control disgusts you.",
     "prerequisites": "Iron Will.",
     "benefit": "You receive a +1 bonus on saving throws against mind-affecting effects. When you succeed at such a saving throw, you gain a +2 morale bonus on all attack rolls, damage rolls, and saving throws against the source of that effect for a number of rounds equal to the spell’s level, or if the effect is not a spell, for a number of rounds equal to one-third the Hit Dice of the creature that created the effect.",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "鹰之决意",
+    "text_zh": "你坚决反对奴隶制和压迫，一想到精神控制就使你厌恨。",
+    "prerequisites_zh": "钢铁意志",
+    "benefit_zh": "你在对抗影响心灵效果的豁免检定上获得+1加值。当你成功的对抗一个此类豁免，你在等于法术环级的轮数内，所有对该效果来源者的攻击骰、伤害骰和豁免骰上获得+2士气加值，如果该效果不是法术，则持续时间等于施展该效果生物HD的轮数。"
 }

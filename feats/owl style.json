@@ -10,5 +10,9 @@
     "text": "You can move with the quiet grace of an owl.",
     "prerequisites": "Dex 13, Skill Focus (Stealth), Stealth 1 rank.",
     "benefit": "While using this style, you can use your base attack bonus in place of your ranks in Stealth to determine your Stealth skill modifier (as usual, this does not replace your ranks for other purposes, such as determining the effects of Skill Focus). While in this stance and using Stealth, you can charge at a –10 penalty beyond the penalty you take for using Stealth at full speed (which is typically –5). Foes that fail their Perception checks and don’t otherwise notice you (for instance, with an ability like blindsight) are denied their Dexterity bonuses to AC against all attacks you make against them during or at the end of that charge instead of just against the first attack.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "枭冲式",
+    "text_zh": "你的攻击就像枭一般安静。",
+    "prerequisites_zh": "敏捷 13，技能专攻（潜行），潜行1级",
+    "benefit_zh": "当你使用这个流派时，能够使用你的基本攻击加值取代你在潜行技能中投入的技能点数，并以此来判断你的潜行技能调整值（与正常情况一样，这不会替换掉其他来源提供的技能加值，比如技能专攻带来的效果）。当你以这种架势进行潜行时，能够在承受以全速潜行（Stealth at full speed）而带来的减值（这通常为-5减值）之外，承受-10减值来进行冲锋（charge）。如果敌人的察觉检定失败，而且没有以其他方式（比如盲感之类的能力）发现你的话，这些敌人在对抗你于冲锋期间或者冲锋结束时作出的攻击（以取代正常的第一次攻击）时，AC会失去敏捷加值。"
 }

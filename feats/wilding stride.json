@@ -6,5 +6,9 @@
     "text": "Your wild-hearted drive and honed physique allow you to move with great swiftness.",
     "prerequisites": "Con 13, Wilding.",
     "benefit": "Your base speed increases by 10 feet. This does not stack with the fast movement class feature or similar effects, unless that class feature or effect provides an enhancement bonus.",
-    "prerequisiteKeys": ["wilding"]
+    "prerequisiteKeys": ["wilding"],
+    "name_zh": "荒野步伐",
+    "text_zh": "你的狂野冲动与健壮体格使你的行动更加迅捷。",
+    "prerequisites_zh": "体质13，荒野之痕。",
+    "benefit_zh": "你的基本陆上速度增加10尺。这不会与快速移动能力或类似效果叠加，除非该能力或效果提供的是增强加值。"
 }

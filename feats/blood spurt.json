@@ -6,5 +6,9 @@
     "source": ["Horror Adventures pg. 82"],
     "text": "When cut in combat, you spray your blood into the faces of your foes.",
     "prerequisites": "Base attack bonus +2, susceptibility to bleed damage.",
-    "benefit": "Whenever a creature adjacent to you hits you with a melee attack that deals bleed damage, that creature must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Constitution modifier) or become blinded for 1d4 rounds as your blood sprays it in the face. Additionally, if you have a special ability that deals bleed damage (such as a rogue’s bleeding strike rogue talent), as a standard action, you can deal 1 point of bleed damage to yourself to spray blood in the face of an adjacent creature of your choice, causing the same effect. The creature only needs to attempt the saving throw for the first of its attacks that deals bleed damage."
+    "benefit": "Whenever a creature adjacent to you hits you with a melee attack that deals bleed damage, that creature must succeed at a Fortitude save (DC = 10 + 1/2 your character level + your Constitution modifier) or become blinded for 1d4 rounds as your blood sprays it in the face. Additionally, if you have a special ability that deals bleed damage (such as a rogue’s bleeding strike rogue talent), as a standard action, you can deal 1 point of bleed damage to yourself to spray blood in the face of an adjacent creature of your choice, causing the same effect. The creature only needs to attempt the saving throw for the first of its attacks that deals bleed damage.",
+    "name_zh": "以血蒙眼",
+    "text_zh": "在战斗中被击中后，你把自己的血溅到敌人脸上。",
+    "prerequisites_zh": "BAB+2，流血敏感（susceptibility to bleed damage）",
+    "benefit_zh": "当一名邻近的敌人用一次造成流血伤害的近战攻击击中你时，他必须通过一次强韧豁免（DC=10+1/2你的角色等级+你的体质调整值），否则飞洒的血液会遮住他的眼睛导致他被目盲1d4轮。额外地，如果你具有一项能够造成流血伤害的特殊能力（比如盗贼的 流血偷袭 盗贼天赋【译注：此处原文为bleeding strike，但提及的天赋为bleeding attack】），以一个标准动作，你可以对自己造成一点流血伤害来将血液飞洒到你指定的一个邻近敌人脸上，造成上述的相同效果。只有你第一次受到一名生物的流血攻击时，他才需要通过该检定。"
 }

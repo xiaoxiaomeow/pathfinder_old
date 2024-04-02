@@ -6,5 +6,8 @@
     "text": "Rather than bringing forth positive or negative energy to heal allies or blast undead, you channel a fraction of your deity’s power into yourself.",
     "prerequisites": "Alignment Channel, channel energy 5d6, domain class feature, same alignment as patron deity.",
     "benefit": "As a standard action, you can expend a use of channel energy to select a domain you have. You gain the ability associated with that domain from the <i>invoke deity<\/i> spell for a number of rounds equal to your number of channel energy dice. While this ability is active, taking actions directly opposed to your deity’s teachings or alignment causes you to take the penalties listed in <i>invoke deity<\/i> and ends this effect. You can gain only one ability from this feat at a time, and its effects do not stack with <i>invoke deity<\/i>.<br><br> If you instead expend two uses of channel energy, you can instead infuse a single willing target within 30 feet with deific essence. The target need not be a worshiper of your deity, but is subject to the same penalties if it takes actions directly opposed to your deity’s teachings or alignment.",
-    "prerequisiteKeys": ["alignment channel"]
+    "prerequisiteKeys": ["alignment channel"],
+    "name_zh": "引导圣临",
+    "text_zh": "除了引导正能量或负能量来治疗盟友或轰击亡灵，你可以引导所信奉神灵的一小部分力量降临自身。",
+    "benefit_zh": "以一个标准动作，你可以消耗一次引导能量次数并选择一个你具有的领域。你获得唤起神力PA中对应领域带来的特殊能力，上述效果持续轮数等同于你的引导能量骰数。当此能力被激活时，执行违背你信奉的神祇的教条或阵营的行为将导致你承受唤起神力PA法术详述中的减值。同一时间内你仅能从此专长获得一种能力，而且此专长的效果不与唤起神力PA叠加。<\/p><p>如果你消耗两次引导能量次数，你可以为30尺内一名自愿的目标注入神力。目标不需要信奉你所信奉的神祇，但如果其做出了违反你信奉的神祇的教条或阵营的行为，其仍需承受与前述相同的减值。"
 }

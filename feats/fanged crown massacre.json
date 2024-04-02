@@ -6,5 +6,9 @@
     "text": "Driven by your loyalty to a fallen queen, you can inspire your allies to brutal acts.",
     "prerequisites": "Bodyguard<sup>APG<\/sup>, Combat Reflexes, Perform (oratory) 3 ranks, any evil alignment.",
     "benefit": "Whenever an ally within 30 feet makes an attack, you can attempt a DC 10 Perform (oratory) check as an immediate action. If you are successful, the ally gains a +2 morale bonus on her attack roll. If an attack affected in this way would normally deal nonlethal damage, it deals lethal damage instead. This ability has no effect if your ally cannot hear you speak or understand your words.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys": ["combat reflexes"],
+    "name_zh": "尖牙王冠的屠戮",
+    "text_zh": "为你对陨落女皇的忠诚所驱使，你激励自己的盟友残暴的行动。",
+    "prerequisites_zh": "保镖；战斗反射；表演（演讲）3级；任意邪恶阵营",
+    "benefit_zh": "每当你30尺内的盟友进行1次攻击时,你可以用一个直觉动作进行一次DC10的表演(演讲)检定.如果你成功了,盟友会在攻击骰上获得+2的士气加值.如果一个被本专长影响的攻击原本会造成非致命伤害,作为代替，它会造成致命伤害。这个能力在你的盟友无法听见或者理解你的话时不会生效。"
 }

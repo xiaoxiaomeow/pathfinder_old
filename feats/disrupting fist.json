@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "channel smite",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "归尘拳",
+    "text_zh": "你充满力量的拳击甚至可以令亡灵归于尘埃。",
+    "prerequisites_zh": "导能打击，精通徒手打击，BAB+9，引导正能量4d6",
+    "benefit_zh": "当你对不死生物进行的徒手打击重击确认后，你可以以迅捷动作花费2次引导能量使用次数摧毁这个不死生物。该不死生物可以通过一次成功的意志豁免（DC=10+你的基础攻击加值）来免受上述效果的影响。"
 }

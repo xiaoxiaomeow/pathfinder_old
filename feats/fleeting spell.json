@@ -6,5 +6,9 @@
     "source": ["Ultimate Intrigue pg. 83"],
     "text": "Your spells vanish with unusual speed.",
     "benefit": "A fleeting spell’s duration becomes dismissible, if it is not already. You can dismiss your own fleeting spell as a swift action. When you dismiss a fleeting spell, its lingering aura cannot be detected by magic unless the caster succeeds at a caster level check against a DC equal to 11 + your caster level. The DC of dispel checks to counter a fleeting spell is reduced by 2, and once active, dispel magic removes a fleeting spell without a caster level check. A fleeting spell has half its normal duration (with an extended fleeting spell, these duration adjustments cancel out). Only spells with a duration of at least 2 rounds can be made fleeting, and instantaneous or permanent spells cannot be fleeting spells. A fleeting spell does not use up a higher-level spell slot than the spell’s actual level.",
-    "normal": "It is a standard action to dismiss a dismissible spell, and only spells whose Duration entry is marked with a D are dismissible."
+    "normal": "It is a standard action to dismiss a dismissible spell, and only spells whose Duration entry is marked with a D are dismissible.",
+    "name_zh": "短暂法术",
+    "text_zh": "你的法术会以不同以往的速度加速消逝。",
+    "benefit_zh": "如果原法术不允许解消的话，那么短暂法术在持续时间内将会变得可以解消（dismissible）。你能够以迅捷动作（swift action）解消自己的短暂法术。当你解消短暂法术后，若有人想以魔法侦测该法术所残留的灵光时，进行侦测的施法者必须成功以施法者等级检定对抗DC才能发现灵光，该DC为11 + 你的施法者等级。反制（counter）短暂法术的解除检定（dispel checks）DC降低2点，移除短暂法术的解除魔法（dispel magic）无需通过施法者等级检定便可成功。短暂法术的持续时间为其正常持续时间的一半（对于延时短暂法术来说，法术持续时间的调整会相互抵消掉）。只有持续时间至少为2轮的法术才能够受到短暂法术超魔调整，立即（instantaneous）或永久（permanent）的法术无法成为短暂法术。短暂法术不会让法术占用比其实际环级更高的法术位。",
+    "normal_zh": "解消可解消的法术是标准动作，而且只有法术持续时间一栏内标注“（可解消）”的法术能够被解消。"
 }

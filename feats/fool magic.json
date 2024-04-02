@@ -6,5 +6,9 @@
     "text": "You can mislead magic items by virtue of your disguise.",
     "prerequisites": "Deceitful, Disguise 1 rank, Use Magic Device 1 rank.",
     "benefit": "When you are in disguise as a member of a particular race or a person of a particular alignment, you can use your Disguise bonus instead of your Use Magic Device bonus to emulate that race and alignment for the purpose of attempting to activate a magic item.",
-    "prerequisiteKeys": ["deceitful"]
+    "prerequisiteKeys": ["deceitful"],
+    "name_zh": "愚弄魔道具",
+    "text_zh": "你能通过巧妙的化妆来误导魔法物品。",
+    "prerequisites_zh": "诈欺师，易容1级，使用魔法装置1级",
+    "benefit_zh": "当你易容成特定种族的成员、或者特定阵营的人时，可以使用你的易容加值取代使用魔法装置加值，以此来在启动魔法物品的尝试中模仿为上述种族和阵营。"
 }

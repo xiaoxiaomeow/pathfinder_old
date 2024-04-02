@@ -8,5 +8,10 @@
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "You receive a +2 bonus on attack rolls when making a called shot. When taking a full-round or standard action that gives you multiple attacks, you can replace a single attack with a called shot. You may only attempt one called shot per round.",
     "normal": "You can make one called shot per round as a full-round action.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通狙击",
+    "text_zh": "你熟知如何让攻击落在你瞄准的地方。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "你在狙击时获得+2加值。当你进行多次攻击的整轮动作或标准动作时，你可以将一次攻击置换为狙击。你每轮只能尝试一次狙击。",
+    "normal_zh": "你每轮只能以标准动作做一次狙击。"
 }

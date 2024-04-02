@@ -6,5 +6,9 @@
     "text": "The wilderness speaks to you, giving you a preternatural sense of approaching danger.",
     "prerequisites": "Wis 13, Wilding.",
     "benefit": "You gain a +2 bonus on Perception checks; this bonus increases to +4 when determining if you can act during a surprise round. If you have 10 or more ranks in Perception, this bonus increases to +4 (or +8 when determining whether you can act during a surprise round). This bonus does not stack with that granted by the Alertness feat, though Wilding Senses counts as the Alertness feat for the purpose of fulfilling feat prerequisites and prestige class requirements.",
-    "prerequisiteKeys": ["wilding"]
+    "prerequisiteKeys": ["wilding"],
+    "name_zh": "荒野感官",
+    "text_zh": "自然在你耳边低语，给予你超常的感官以应对到来的危险。",
+    "prerequisites_zh": "感知13，荒野之痕。",
+    "benefit_zh": "你在察觉技能检定上获得+2奖励，当用以决定你是否在突袭轮行动时，这个奖励提升到+4。如果某技能受训等级10以上，对于该技能检定的奖励为+4(或者在用以决定你是否在突袭轮行动时增加到+8)。该奖励与警觉专长所授予的奖励不相叠加，尽管在满足专长先决条件与进阶职业时荒野感官被视为警觉专长。"
 }

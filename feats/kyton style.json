@@ -10,5 +10,9 @@
     "text": "Your fighting style emulates the disciplined nature of the kytons, with passion and pain held tightly in chains.",
     "prerequisites": "Wis 13, Exotic Weapon Proficiency (spiked chain), Knowledge (planes) 3 ranks, ki pool class feature.",
     "benefit": "When using this style, you treat spiked chains as if they had the monk special weapon feature. Additionally, if you have Stunning Fist, you can spend 1 point from your ki pool to make a Stunning Fist attack with your spiked chain instead of an unarmed strike. This still costs a use of Stunning Fist as normal.",
-    "prerequisiteKeys": ["exotic weapon proficiency"]
+    "prerequisiteKeys": ["exotic weapon proficiency"],
+    "name_zh": "链魔流",
+    "text_zh": "你的战斗风格就像链魔一般，将盛怒与痛苦紧锁于锁链中。",
+    "prerequisites_zh": "感知13，擅长异种武器（刺链），知识（位面）3级，气池职业能力",
+    "benefit_zh": "当你使用这个流派时，你视作刺链拥有武僧武器特性。此外，如果你有震慑拳专长，你可以花费1点气来用刺链使出震慑拳，而不是徒手攻击。这仍然需要花费震慑拳的使用次数。"
 }

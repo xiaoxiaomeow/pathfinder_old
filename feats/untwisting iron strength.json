@@ -12,5 +12,10 @@
     "benefit": "When using Perfect Style, your attacks ignore an amount of hardness equal to your character level. Additionally, you gain a +4 bonus on Strength checks to break objects. If you spend 1 ki point as a swift action, you also gain the benefits of Improved Sunder for 1 round.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "You can spend 2 stamina points instead of 1 ki point when using Untwisting Iron Strength.",
-    "prerequisiteKeys": ["perfect style"]
+    "prerequisiteKeys": ["perfect style"],
+    "name_zh": "金刚劲",
+    "text_zh": "你精通了断金折铁的武艺，你的拳头就如同精金铁锤一般，能够打破坚硬的物体。",
+    "prerequisites_zh": "力量15，感知13，无瑕流，BAB+9或9级武僧等级",
+    "benefit_zh": "若你正在使用无瑕流，则能够忽略一定量的硬度，数值与你的角色等级相等。此外，你在破坏物体的力量检定中获得+4加值。若你以迅捷动作花费1点气，则能够在1轮内获得精通破武的好处。",
+    "staminaText_zh": "你可以在使用金刚劲时消耗2点耐力而不是1点气。"
 }

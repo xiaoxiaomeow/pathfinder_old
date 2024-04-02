@@ -6,5 +6,9 @@
     "text": "You can fool others into believing you have ensorcelled them.",
     "prerequisites": "Deceitful, Bluff 5 ranks, Spellcraft 1 rank.",
     "benefit": "As a standard action, you can feign placing a curse on a target. The target must attempt a Sense Motive or Spellcraft check (whichever skill that target has a higher bonus with) against a DC equal to 15 + your number of ranks in Bluff + your Charisma modifier, with a bonus on his skill check equal to any conditional bonus he has on saving throws against hexes or curses (like from the spell <i>hex ward<sup>UM<\/sup><\/i>). If he fails, he becomes plagued by self-doubt and second-guesses himself. For his next two attack rolls, saving throws, skill checks, or ability checks, he rolls twice and takes the lower result; for every 5 ranks of Bluff you possess beyond 5, this ability affects an additional roll. This is a mind-affecting effect, and it doesn’t work if the target is immune to curses or has an intelligence score of 2 or lower. Once you attempt to feign putting a curse on a creature, you cannot do so again against the same creature for 24 hours, and if the target succeeds at detecting your ruse, he gains a +10 bonus against future attempts.",
-    "prerequisiteKeys": ["deceitful"]
+    "prerequisiteKeys": ["deceitful"],
+    "name_zh": "杯弓蛇咒",
+    "text_zh": "你能够忽悠别人，使其相信你对它施下了毒咒。",
+    "prerequisites_zh": "诈欺师，唬骗5级，法术辨识1级",
+    "benefit_zh": "以标准动作，你能够装出对1名目标施以诅咒的样子。目标必须尝试1次察言观色或法术辨识检定（以目标具有加值的技能为准），对抗DC为15 + 你在唬骗中投入的技能点数 + 你的魅力调整值，目标会在技能检定中获得加值，数值与限定条件为对抗巫术（hexes）或诅咒（curses）时才可应用至豁免检定的加值相同，比如防护巫术（Hex Ward；UM）提供的加值。如果他的检定失败了，则会因为自怨自艾和自我怀疑而受苦。在他接下来的2次攻击检定、豁免检定、技能检定或属性检定中，要投掷2次并取较差的结果；你在唬骗技能中投入的技能点数每比5点高5点，该能力就会额外影响1次检定。这是个影响心灵（mind-affecting）效果，而且不会对免疫诅咒（immune to curses）的目标生效。一旦你尝试如此假装对1名生物施以诅咒之后，则无法再次在24小时内对相同生物这么做，而且如果目标成功看破了你的伎俩，则会在后续的尝试中获得+10加值。"
 }

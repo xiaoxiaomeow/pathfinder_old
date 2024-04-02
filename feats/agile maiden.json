@@ -7,5 +7,9 @@
     "text": "The Gray Maidens’ signature armor hinders you less than others.",
     "prerequisites": "Str 13; Dex 13; Endurance or armor training class feature; proficiency with heavy armor.",
     "benefit": "For the purpose of class features (such as a ranger’s combat style, a barbarian’s fast movement, or a magus’s spellcasting), you treat Gray Maiden plate as medium armor or heavy armor, whichever is more beneficial to a given ability. This does not affect the armor’s statistics, and it is still considered heavy armor for all other purposes.",
-    "prerequisiteKeys": ["endurance"]
+    "prerequisiteKeys": ["endurance"],
+    "name_zh": "灵巧少女",
+    "text_zh": "灰少女的标志性盔甲对你的妨碍会比其他盔甲小的多。",
+    "prerequisites_zh": "力量13；敏捷13；坚忍或盔甲训练（armor training）职业能力；擅长重甲",
+    "benefit_zh": "在判断职业能力的前提时（比如游侠的战斗流派（combat style），野蛮人的快速移动（fast movement），或是魔战士的施法能力（spellcasting）），你可以把灰少女全身甲视为中甲和重甲中对你较为有利的一种。这个并不会影响盔甲的属性，并且在决定其他效果的前提时它依旧视为重甲。"
 }

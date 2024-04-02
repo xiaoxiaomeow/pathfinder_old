@@ -6,5 +6,9 @@
     "text": "You are skilled at moving quickly through forbidding parts of cities.",
     "prerequisites": "Street Smarts.",
     "benefit": "You do not treat crowds as difficult terrain. You also gain an additional +2 bonus on Acrobatics checks to move along rooftops and on slippery sections of city streets and sewers.",
-    "prerequisiteKeys": ["street smarts"]
+    "prerequisiteKeys": ["street smarts"],
+    "name_zh": "城市跑者",
+    "text_zh": "你很擅长快速穿越城市内的禁区。",
+    "prerequisites_zh": "街头智慧",
+    "benefit_zh": "人群（crowds）对你来说不会被视为困难地形（difficult terrain）。你还会在穿行于房顶、在城市街道或下水道中的光滑材质上行动的特技动作检定中获得额外+2加值。"
 }

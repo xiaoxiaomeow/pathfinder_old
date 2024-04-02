@@ -106,6 +106,7 @@ var featDict = {
     "acrobatic spellcaster":     {
         "key": "acrobatic spellcaster",
         "name": "Acrobatic Spellcaster",
+        "name_zh": "特技施法者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 75"],
         "prerequisiteKeys":         [
@@ -228,6 +229,7 @@ var featDict = {
     "agent of fear":     {
         "key": "agent of fear",
         "name": "Agent of Fear",
+        "name_zh": "恐惧化身",
         "source": ["Ultimate Intrigue pg. 75"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -240,6 +242,7 @@ var featDict = {
     "agile maiden":     {
         "key": "agile maiden",
         "name": "Agile Maiden",
+        "name_zh": "灵巧少女",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 84"],
         "prerequisiteKeys": ["endurance"]
@@ -283,6 +286,7 @@ var featDict = {
     "aldori artistry":     {
         "key": "aldori artistry",
         "name": "Aldori Artistry",
+        "name_zh": "奥多里战斗技艺",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 24"],
         "prerequisiteKeys":         [
@@ -293,6 +297,7 @@ var featDict = {
     "aldori dueling disciple":     {
         "key": "aldori dueling disciple",
         "name": "Aldori Dueling Disciple",
+        "name_zh": "奥多里决斗学徒",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 24",
@@ -307,6 +312,7 @@ var featDict = {
     "aldori dueling mastery":     {
         "key": "aldori dueling mastery",
         "name": "Aldori Dueling Mastery",
+        "name_zh": "奥多里决斗大师",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 24",
@@ -323,6 +329,7 @@ var featDict = {
     "aldori style aegis":     {
         "key": "aldori style aegis",
         "name": "Aldori Style Aegis",
+        "name_zh": "奥多里神盾",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 24"],
         "prerequisiteKeys":         [
@@ -337,6 +344,7 @@ var featDict = {
     "aldori style conquest":     {
         "key": "aldori style conquest",
         "name": "Aldori Style Conquest",
+        "name_zh": "奥多里征服",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 25"],
         "prerequisiteKeys":         [
@@ -352,6 +360,7 @@ var featDict = {
     "aldori style":     {
         "key": "aldori style",
         "name": "Aldori Style",
+        "name_zh": "奥多里决斗流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -664,6 +673,7 @@ var featDict = {
     "apocalyptic spell":     {
         "key": "apocalyptic spell",
         "name": "Apocalyptic Spell",
+        "name_zh": "末日法术",
         "descriptors": ["Metamagic"],
         "source": ["Planar Adventures pg. 22"]
     },
@@ -814,6 +824,7 @@ var featDict = {
     "archon diversion":     {
         "key": "archon diversion",
         "name": "Archon Diversion",
+        "name_zh": "神使援护",
         "descriptors": ["Combat"],
         "source":         [
             "Planar Adventures pg. 25",
@@ -828,6 +839,7 @@ var featDict = {
     "archon justice":     {
         "key": "archon justice",
         "name": "Archon Justice",
+        "name_zh": "神使正义",
         "descriptors": ["Combat"],
         "source":         [
             "Planar Adventures pg. 25",
@@ -843,6 +855,7 @@ var featDict = {
     "archon style":     {
         "key": "archon style",
         "name": "Archon Style",
+        "name_zh": "神使之型",
         "descriptors":         [
             "Combat",
             "Style"
@@ -1063,6 +1076,7 @@ var featDict = {
     "aspis partner":     {
         "key": "aspis partner",
         "name": "Aspis Partner",
+        "name_zh": "盾徽赞助人",
         "source":         [
             "Adventurer's Guide pg. 35",
             "Agents of Evil pg. 13"
@@ -1151,6 +1165,7 @@ var featDict = {
     "aura flare":     {
         "key": "aura flare",
         "name": "Aura Flare",
+        "name_zh": "灵光爆发",
         "source": ["Horror Adventures pg. 82"]
     },
     "aura of succumbing":     {
@@ -1172,6 +1187,7 @@ var featDict = {
     "authoritative spell":     {
         "key": "authoritative spell",
         "name": "Authoritative Spell",
+        "name_zh": "喝令法术",
         "descriptors": ["Metamagic"],
         "source": ["Planar Adventures pg. 25"]
     },
@@ -1244,12 +1260,14 @@ var featDict = {
     "axiomatic discourse":     {
         "key": "axiomatic discourse",
         "name": "Axiomatic Discourse",
+        "name_zh": "公理化论述",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 25"]
     },
     "azata mischief":     {
         "key": "azata mischief",
         "name": "Azata Mischief",
+        "name_zh": "爱塔诡计",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 25"],
         "prerequisiteKeys":         [
@@ -1262,6 +1280,7 @@ var featDict = {
     "azata sprint":     {
         "key": "azata sprint",
         "name": "Azata Sprint",
+        "name_zh": "爱塔疾行",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 26"],
         "prerequisiteKeys":         [
@@ -1276,6 +1295,7 @@ var featDict = {
     "azata style":     {
         "key": "azata style",
         "name": "Azata Style",
+        "name_zh": "爱塔之型",
         "descriptors":         [
             "Combat",
             "Style"
@@ -1312,6 +1332,7 @@ var featDict = {
     "balor whip":     {
         "key": "balor whip",
         "name": "Balor Whip",
+        "name_zh": "巴洛炎魔之鞭笞",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 80"],
         "prerequisiteKeys": ["weapon focus"]
@@ -1507,6 +1528,7 @@ var featDict = {
     "beastmaster ire":     {
         "key": "beastmaster ire",
         "name": "Beastmaster Ire",
+        "name_zh": "兽王怒",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 107"],
         "prerequisiteKeys":         [
@@ -1518,6 +1540,7 @@ var featDict = {
     "beastmaster salvation":     {
         "key": "beastmaster salvation",
         "name": "Beastmaster Salvation",
+        "name_zh": "兽王援",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 107"],
         "prerequisiteKeys":         [
@@ -1528,6 +1551,7 @@ var featDict = {
     "beastmaster style":     {
         "key": "beastmaster style",
         "name": "Beastmaster Style",
+        "name_zh": "兽王流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -1617,6 +1641,7 @@ var featDict = {
     "betrayal sense":     {
         "key": "betrayal sense",
         "name": "Betrayal Sense",
+        "name_zh": "感知背叛",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 75"]
     },
@@ -1763,6 +1788,7 @@ var featDict = {
     "blazing aura (pa)":     {
         "key": "blazing aura (pa)",
         "name": "Blazing Aura (PA)",
+        "name_zh": "炽焰护体",
         "source": ["Planar Adventures pg. 26"]
     },
     "blazing channel":     {
@@ -1925,6 +1951,7 @@ var featDict = {
     "blissful spell":     {
         "key": "blissful spell",
         "name": "Blissful Spell",
+        "name_zh": "福佑法术",
         "descriptors": ["Metamagic"],
         "source": ["Planar Adventures pg. 26"]
     },
@@ -2047,6 +2074,7 @@ var featDict = {
     "blood spurt":     {
         "key": "blood spurt",
         "name": "Blood Spurt",
+        "name_zh": "以血蒙眼",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 82"]
     },
@@ -2166,6 +2194,7 @@ var featDict = {
     "blustering bluff":     {
         "key": "blustering bluff",
         "name": "Blustering Bluff",
+        "name_zh": "虚张声势",
         "source": ["Ultimate Intrigue pg. 75"]
     },
     "boar ferocity":     {
@@ -2287,6 +2316,7 @@ var featDict = {
     "boon companion":     {
         "key": "boon companion",
         "name": "Boon Companion",
+        "name_zh": "好伙伴",
         "source":         [
             "Ultimate Wilderness pg. 217",
             "Seekers of Secrets pg. 16",
@@ -2355,6 +2385,7 @@ var featDict = {
     "branch pounce":     {
         "key": "branch pounce",
         "name": "Branch Pounce",
+        "name_zh": "树冠突袭",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Wilderness pg. 107",
@@ -2438,11 +2469,13 @@ var featDict = {
     "brilliant planner":     {
         "key": "brilliant planner",
         "name": "Brilliant Planner",
+        "name_zh": "锦囊妙计",
         "source": ["Ultimate Intrigue pg. 75"]
     },
     "brilliant spell preparation":     {
         "key": "brilliant spell preparation",
         "name": "Brilliant Spell Preparation",
+        "name_zh": "精妙术法制备技巧",
         "source": ["Ultimate Intrigue pg. 79"]
     },
     "brisk spell":     {
@@ -2509,6 +2542,7 @@ var featDict = {
     "brute assault":     {
         "key": "brute assault",
         "name": "Brute Assault",
+        "name_zh": "残暴袭",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 83"],
         "prerequisiteKeys":         [
@@ -2523,6 +2557,7 @@ var featDict = {
     "brute stomp":     {
         "key": "brute stomp",
         "name": "Brute Stomp",
+        "name_zh": "残暴踏",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 83"],
         "prerequisiteKeys":         [
@@ -2536,6 +2571,7 @@ var featDict = {
     "brute style":     {
         "key": "brute style",
         "name": "Brute Style",
+        "name_zh": "残暴流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -2745,6 +2781,7 @@ var featDict = {
     "but a scratch":     {
         "key": "but a scratch",
         "name": "But a Scratch",
+        "name_zh": "不痛不痒",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 79"]
     },
@@ -2773,6 +2810,7 @@ var featDict = {
     "call truce":     {
         "key": "call truce",
         "name": "Call Truce",
+        "name_zh": "呼吁停战",
         "source": ["Ultimate Intrigue pg. 79"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -2816,6 +2854,7 @@ var featDict = {
     "careful flyer":     {
         "key": "careful flyer",
         "name": "Careful Flyer",
+        "name_zh": "谨慎飞行者",
         "source": ["Ultimate Intrigue pg. 79"],
         "prerequisiteKeys": ["acrobatic"]
     },
@@ -2827,6 +2866,7 @@ var featDict = {
     "careful sneak":     {
         "key": "careful sneak",
         "name": "Careful Sneak",
+        "name_zh": "悄声慢行",
         "source": ["Ultimate Intrigue pg. 79"]
     },
     "careful speaker":     {
@@ -2846,6 +2886,7 @@ var featDict = {
     "cartogramancer":     {
         "key": "cartogramancer",
         "name": "Cartogramancer",
+        "name_zh": "地理传送学",
         "source": ["Ultimate Intrigue pg. 79"]
     },
     "cartwheel dodge":     {
@@ -2888,12 +2929,14 @@ var featDict = {
     "cat and mouse":     {
         "key": "cat and mouse",
         "name": "Cat and Mouse",
+        "name_zh": "猫鼠游戏",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 80"]
     },
     "cat's fall":     {
         "key": "cat's fall",
         "name": "Cat's Fall",
+        "name_zh": "猫落技巧",
         "source": ["Ultimate Intrigue pg. 80"]
     },
     "cataract":     {
@@ -3020,6 +3063,7 @@ var featDict = {
     "chain mastery":     {
         "key": "chain mastery",
         "name": "Chain Mastery",
+        "name_zh": "锁链熟稔",
         "descriptors": ["Combat"],
         "source": ["Book of the Damned pg. 178"],
         "prerequisiteKeys": ["exotic weapon proficiency"]
@@ -3145,6 +3189,7 @@ var featDict = {
     "channel deific essence":     {
         "key": "channel deific essence",
         "name": "Channel Deific Essence",
+        "name_zh": "引导圣临",
         "source": ["Planar Adventures pg. 26"],
         "prerequisiteKeys": ["alignment channel"]
     },
@@ -3236,6 +3281,7 @@ var featDict = {
     "chaos reigns":     {
         "key": "chaos reigns",
         "name": "Chaos Reigns",
+        "name_zh": "混沌降临",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 26"]
     },
@@ -3390,6 +3436,7 @@ var featDict = {
     "circuitous shot":     {
         "key": "circuitous shot",
         "name": "Circuitous Shot",
+        "name_zh": "迂回射击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 80"],
         "prerequisiteKeys":         [
@@ -3407,6 +3454,7 @@ var featDict = {
     "city sprinter":     {
         "key": "city sprinter",
         "name": "City Sprinter",
+        "name_zh": "城市跑者",
         "source": ["Ultimate Intrigue pg. 80"],
         "prerequisiteKeys": ["street smarts"]
     },
@@ -3429,6 +3477,7 @@ var featDict = {
     "clambering escape":     {
         "key": "clambering escape",
         "name": "Clambering Escape",
+        "name_zh": "攀附脱逃",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 80"],
         "prerequisiteKeys": ["combat expertise"]
@@ -3774,11 +3823,13 @@ var featDict = {
     "command animals":     {
         "key": "command animals",
         "name": "Command Animals",
+        "name_zh": "命令动物",
         "source": ["Ultimate Wilderness pg. 108"]
     },
     "command plants":     {
         "key": "command plants",
         "name": "Command Plants",
+        "name_zh": "命令植物",
         "source": ["Ultimate Wilderness pg. 108"]
     },
     "command undead":     {
@@ -3831,6 +3882,7 @@ var featDict = {
     "conceal spell":     {
         "key": "conceal spell",
         "name": "Conceal Spell",
+        "name_zh": "掩饰施法",
         "source": ["Ultimate Intrigue pg. 80"],
         "prerequisiteKeys": ["deceitful"]
     },
@@ -3888,6 +3940,7 @@ var featDict = {
     "confabulist":     {
         "key": "confabulist",
         "name": "Confabulist",
+        "name_zh": "大话王",
         "source": ["Ultimate Intrigue pg. 81"]
     },
     "confounding tumble deed":     {
@@ -3948,6 +4001,7 @@ var featDict = {
     "contagious spell":     {
         "key": "contagious spell",
         "name": "Contagious Spell",
+        "name_zh": "瘟疫法术",
         "descriptors": ["Metamagic"],
         "source": ["Horror Adventures pg. 84"]
     },
@@ -4009,6 +4063,7 @@ var featDict = {
     "cooperative disabling":     {
         "key": "cooperative disabling",
         "name": "Cooperative Disabling",
+        "name_zh": "拆除小队",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Intrigue pg. 81"]
     },
@@ -4439,6 +4494,7 @@ var featDict = {
     "crashing wave buffet":     {
         "key": "crashing wave buffet",
         "name": "Crashing Wave Buffet",
+        "name_zh": "碎浪搏",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 108"],
         "prerequisiteKeys":         [
@@ -4451,6 +4507,7 @@ var featDict = {
     "crashing wave fist":     {
         "key": "crashing wave fist",
         "name": "Crashing Wave Fist",
+        "name_zh": "碎浪破",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 109"],
         "prerequisiteKeys":         [
@@ -4464,6 +4521,7 @@ var featDict = {
     "crashing wave style":     {
         "key": "crashing wave style",
         "name": "Crashing Wave Style",
+        "name_zh": "碎浪流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -4524,6 +4582,7 @@ var featDict = {
     "criminal reputation":     {
         "key": "criminal reputation",
         "name": "Criminal Reputation",
+        "name_zh": "黑道名声",
         "source": ["Ultimate Intrigue pg. 81"]
     },
     "crippling critical":     {
@@ -4672,6 +4731,7 @@ var featDict = {
     "crypt spell":     {
         "key": "crypt spell",
         "name": "Crypt Spell",
+        "name_zh": "墓园法术",
         "descriptors": ["Metamagic"],
         "source": ["Planar Adventures pg. 26"]
     },
@@ -4709,6 +4769,7 @@ var featDict = {
     "cultivate magic plants":     {
         "key": "cultivate magic plants",
         "name": "Cultivate Magic Plants",
+        "name_zh": "奇植培育",
         "descriptors": ["Item Creation"],
         "source": ["Ultimate Wilderness pg. 109"],
         "prerequisiteKeys":         [
@@ -4725,6 +4786,7 @@ var featDict = {
     "cunning intuition":     {
         "key": "cunning intuition",
         "name": "Cunning Intuition",
+        "name_zh": "诡诈直感",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 81"],
         "prerequisiteKeys":         [
@@ -4743,6 +4805,7 @@ var featDict = {
     "cunning":     {
         "key": "cunning",
         "name": "Cunning",
+        "name_zh": "狡黠",
         "source": ["Villain Codex pg. 128"]
     },
     "curative mastery":     {
@@ -4817,6 +4880,7 @@ var featDict = {
     "cutting humiliation":     {
         "key": "cutting humiliation",
         "name": "Cutting Humiliation",
+        "name_zh": "刻薄羞辱",
         "source": ["Ultimate Intrigue pg. 81"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -4847,12 +4911,14 @@ var featDict = {
     "damned disciple":     {
         "key": "damned disciple",
         "name": "Damned Disciple",
+        "name_zh": "罪恶使徒",
         "source": ["Book of the Damned pg. 178"],
         "prerequisiteKeys": ["fiendish obedience"]
     },
     "damned soldier":     {
         "key": "damned soldier",
         "name": "Damned Soldier",
+        "name_zh": "罪恶尖兵",
         "source": ["Book of the Damned pg. 178"],
         "prerequisiteKeys": ["fiendish obedience"]
     },
@@ -4875,6 +4941,7 @@ var featDict = {
     "dance of chains":     {
         "key": "dance of chains",
         "name": "Dance of Chains",
+        "name_zh": "链舞",
         "descriptors": ["Combat"],
         "source": ["Book of the Damned pg. 178"],
         "prerequisiteKeys":         [
@@ -4919,6 +4986,7 @@ var featDict = {
     "darkness trick":     {
         "key": "darkness trick",
         "name": "Darkness Trick",
+        "name_zh": "遮光戏法",
         "source": ["Ultimate Intrigue pg. 81"]
     },
     "darting retrieval":     {
@@ -5073,6 +5141,7 @@ var featDict = {
     "deadly horns":     {
         "key": "deadly horns",
         "name": "Deadly Horns",
+        "name_zh": "致命之角",
         "descriptors": ["Combat"],
         "source": ["Book of the Damned pg. 178"]
     },
@@ -5125,6 +5194,7 @@ var featDict = {
     "death field":     {
         "key": "death field",
         "name": "Death Field",
+        "name_zh": "死亡荒原",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 27"]
     },
@@ -5322,6 +5392,7 @@ var featDict = {
     "deft catcher":     {
         "key": "deft catcher",
         "name": "Deft Catcher",
+        "name_zh": "灵巧捕手",
         "source": ["Ultimate Intrigue pg. 82"],
         "prerequisiteKeys": ["skill focus"]
     },
@@ -5399,6 +5470,7 @@ var featDict = {
     "demonic momentum":     {
         "key": "demonic momentum",
         "name": "Demonic Momentum",
+        "name_zh": "恶魔冲击",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 27"],
         "prerequisiteKeys":         [
@@ -5426,6 +5498,7 @@ var featDict = {
     "demonic slaughter":     {
         "key": "demonic slaughter",
         "name": "Demonic Slaughter",
+        "name_zh": "恶魔屠戮",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 27"],
         "prerequisiteKeys":         [
@@ -5440,6 +5513,7 @@ var featDict = {
     "demonic style":     {
         "key": "demonic style",
         "name": "Demonic Style",
+        "name_zh": "恶魔之型",
         "descriptors":         [
             "Combat",
             "Style"
@@ -5597,6 +5671,7 @@ var featDict = {
     "devil sense":     {
         "key": "devil sense",
         "name": "Devil Sense",
+        "name_zh": "魔鬼感知",
         "source": ["Adventurer's Guide pg. 176"]
     },
     "devil's foe":     {
@@ -5614,11 +5689,13 @@ var featDict = {
     "devotion against the unnatural":     {
         "key": "devotion against the unnatural",
         "name": "Devotion against the Unnatural",
+        "name_zh": "忠贞不异",
         "source": ["Ultimate Wilderness pg. 217"]
     },
     "diabolic humiliation":     {
         "key": "diabolic humiliation",
         "name": "Diabolic Humiliation",
+        "name_zh": "魔鬼凌辱",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 27"],
         "prerequisiteKeys":         [
@@ -5632,6 +5709,7 @@ var featDict = {
     "diabolic judgement":     {
         "key": "diabolic judgement",
         "name": "Diabolic Judgement",
+        "name_zh": "魔鬼决裁",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 27"],
         "prerequisiteKeys":         [
@@ -5647,6 +5725,7 @@ var featDict = {
     "diabolic style":     {
         "key": "diabolic style",
         "name": "Diabolic Style",
+        "name_zh": "魔鬼之型",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6029,6 +6108,7 @@ var featDict = {
     "disrupting fist":     {
         "key": "disrupting fist",
         "name": "Disrupting Fist",
+        "name_zh": "归尘拳",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 85"],
         "prerequisiteKeys":         [
@@ -6047,6 +6127,7 @@ var featDict = {
     "disruptive companion":     {
         "key": "disruptive companion",
         "name": "Disruptive Companion",
+        "name_zh": "扰法伙伴",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 217"]
     },
@@ -6118,6 +6199,7 @@ var featDict = {
     "diva advance":     {
         "key": "diva advance",
         "name": "Diva Advance",
+        "name_zh": "高歌猛进",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 176"],
         "prerequisiteKeys":         [
@@ -6130,6 +6212,7 @@ var featDict = {
     "diva strike":     {
         "key": "diva strike",
         "name": "Diva Strike",
+        "name_zh": "剧中奇袭",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 176"],
         "prerequisiteKeys":         [
@@ -6141,6 +6224,7 @@ var featDict = {
     "diva style":     {
         "key": "diva style",
         "name": "Diva Style",
+        "name_zh": "歌姬流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -6649,6 +6733,7 @@ var featDict = {
     "drunkard's recovery":     {
         "key": "drunkard's recovery",
         "name": "Drunkard's Recovery",
+        "name_zh": "酒鬼的坚毅",
         "source": ["Ultimate Intrigue pg. 82"]
     },
     "drunken brawler":     {
@@ -6709,6 +6794,7 @@ var featDict = {
     "duelist of the roaring falls":     {
         "key": "duelist of the roaring falls",
         "name": "Duelist of the Roaring Falls",
+        "name_zh": "怒流剑式",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 25",
@@ -6724,6 +6810,7 @@ var featDict = {
     "duelist of the shrouded lake":     {
         "key": "duelist of the shrouded lake",
         "name": "Duelist of the Shrouded Lake",
+        "name_zh": "雾池剑式",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 25",
@@ -6789,6 +6876,7 @@ var featDict = {
     "eagle's resolve":     {
         "key": "eagle's resolve",
         "name": "Eagle's Resolve",
+        "name_zh": "鹰之决意",
         "source":         [
             "Adventurer's Guide pg. 76",
             "Andoran, Birthplace of Freedom pg. 28"
@@ -7411,6 +7499,7 @@ var featDict = {
     "enrage opponent":     {
         "key": "enrage opponent",
         "name": "Enrage Opponent",
+        "name_zh": "激怒敌人",
         "descriptors":         [
             "Combat",
             "Panache"
@@ -7428,6 +7517,7 @@ var featDict = {
     "entreating critical":     {
         "key": "entreating critical",
         "name": "Entreating Critical",
+        "name_zh": "终战重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -7496,6 +7586,7 @@ var featDict = {
     "esoteric abjuration":     {
         "key": "esoteric abjuration",
         "name": "Esoteric Abjuration",
+        "name_zh": "奇特防护",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
@@ -7507,30 +7598,35 @@ var featDict = {
     "esoteric conjuration":     {
         "key": "esoteric conjuration",
         "name": "Esoteric Conjuration",
+        "name_zh": "奇特咒法",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "esoteric divination":     {
         "key": "esoteric divination",
         "name": "Esoteric Divination",
+        "name_zh": "奇特预言",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "esoteric enchantment":     {
         "key": "esoteric enchantment",
         "name": "Esoteric Enchantment",
+        "name_zh": "奇特惑控",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "esoteric evocation":     {
         "key": "esoteric evocation",
         "name": "Esoteric Evocation",
+        "name_zh": "奇特塑能",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "esoteric illusion":     {
         "key": "esoteric illusion",
         "name": "Esoteric Illusion",
+        "name_zh": "奇特幻术",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
@@ -7544,12 +7640,14 @@ var featDict = {
     "esoteric necromancy":     {
         "key": "esoteric necromancy",
         "name": "Esoteric Necromancy",
+        "name_zh": "奇特死灵",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "esoteric transmutation":     {
         "key": "esoteric transmutation",
         "name": "Esoteric Transmutation",
+        "name_zh": "奇特变化",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
@@ -7721,6 +7819,7 @@ var featDict = {
     "expeditious sleuth":     {
         "key": "expeditious sleuth",
         "name": "Expeditious Sleuth",
+        "name_zh": "敏锐探子",
         "source": ["Ultimate Intrigue pg. 82"]
     },
     "experienced ghost hunter":     {
@@ -7736,12 +7835,14 @@ var featDict = {
     "experimental spellcaster":     {
         "key": "experimental spellcaster",
         "name": "Experimental Spellcaster",
+        "name_zh": "实验型施法者",
         "descriptors": ["Words of Power"],
         "source": ["Ultimate Magic pg. 166"]
     },
     "expert boarder":     {
         "key": "expert boarder",
         "name": "Expert Boarder",
+        "name_zh": "船上专家",
         "source":         [
             "Adventurer's Guide pg. 76",
             "Andoran, Birthplace of Freedom pg. 32"
@@ -7817,6 +7918,7 @@ var featDict = {
     "exquisite sneak":     {
         "key": "exquisite sneak",
         "name": "Exquisite Sneak",
+        "name_zh": "悄声潜行",
         "source": ["Ultimate Intrigue pg. 82"],
         "prerequisiteKeys": ["careful sneak"]
     },
@@ -7860,6 +7962,7 @@ var featDict = {
     "extended aspects":     {
         "key": "extended aspects",
         "name": "Extended Aspects",
+        "name_zh": "额外拟态",
         "source": ["Ultimate Wilderness pg. 111"]
     },
     "extended bane":     {
@@ -7951,6 +8054,7 @@ var featDict = {
     "extra contingency":     {
         "key": "extra contingency",
         "name": "Extra Contingency",
+        "name_zh": "双重触发术",
         "source": ["Ultimate Intrigue pg. 82"]
     },
     "extra croaking":     {
@@ -8222,6 +8326,7 @@ var featDict = {
     "extra word":     {
         "key": "extra word",
         "name": "Extra Word",
+        "name_zh": "额外咒字",
         "descriptors": ["Words of Power"],
         "source": ["Ultimate Magic pg. 166"]
     },
@@ -8247,6 +8352,7 @@ var featDict = {
     "eye for ingredients":     {
         "key": "eye for ingredients",
         "name": "Eye for Ingredients",
+        "name_zh": "慧眼识材料",
         "source": ["Ultimate Intrigue pg. 82"],
         "prerequisiteKeys": ["eschew materials"]
     },
@@ -8294,6 +8400,7 @@ var featDict = {
     "falcon's cry":     {
         "key": "falcon's cry",
         "name": "Falcon's Cry",
+        "name_zh": "钢隼之鸣",
         "source":         [
             "Adventurer's Guide pg. 76",
             "Andoran, Birthplace of Freedom pg. 30"
@@ -8308,6 +8415,7 @@ var featDict = {
     "falling water gambit":     {
         "key": "falling water gambit",
         "name": "Falling Water Gambit",
+        "name_zh": "落花流水剑",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 25",
@@ -8397,6 +8505,7 @@ var featDict = {
     "fanged crown massacre":     {
         "key": "fanged crown massacre",
         "name": "Fanged Crown Massacre",
+        "name_zh": "尖牙王冠的屠戮",
         "source": ["Adventurer's Guide pg. 84"],
         "prerequisiteKeys": ["combat reflexes"]
     },
@@ -8575,6 +8684,7 @@ var featDict = {
     "feign curse":     {
         "key": "feign curse",
         "name": "Feign Curse",
+        "name_zh": "杯弓蛇咒",
         "source": ["Ultimate Intrigue pg. 82"],
         "prerequisiteKeys": ["deceitful"]
     },
@@ -8637,6 +8747,7 @@ var featDict = {
     "fencing grace":     {
         "key": "fencing grace",
         "name": "Fencing Grace",
+        "name_zh": "优雅挑刺",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Intrigue pg. 83",
@@ -8661,6 +8772,7 @@ var featDict = {
     "feral grace":     {
         "key": "feral grace",
         "name": "Feral Grace",
+        "name_zh": "野性优雅",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 218"],
         "prerequisiteKeys": ["weapon finesse"]
@@ -8681,12 +8793,14 @@ var featDict = {
     "ferocious beast":     {
         "key": "ferocious beast",
         "name": "Ferocious Beast",
+        "name_zh": "凶猛野兽",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 218"]
     },
     "ferocious feint":     {
         "key": "ferocious feint",
         "name": "Ferocious Feint",
+        "name_zh": "凶猛虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 218"]
     },
@@ -8769,11 +8883,13 @@ var featDict = {
     "fey spell lore":     {
         "key": "fey spell lore",
         "name": "Fey Spell Lore",
+        "name_zh": "精怪术法学识",
         "source": ["Ultimate Intrigue pg. 83"]
     },
     "fey spell versatility":     {
         "key": "fey spell versatility",
         "name": "Fey Spell Versatility",
+        "name_zh": "精怪术法技巧",
         "source": ["Ultimate Intrigue pg. 83"]
     },
     "fey-guarded":     {
@@ -8814,6 +8930,7 @@ var featDict = {
     "fiendish obedience":     {
         "key": "fiendish obedience",
         "name": "Fiendish Obedience",
+        "name_zh": "魔族仪典",
         "source": ["Book of the Damned pg. 178"]
     },
     "fiendish resilience":     {
@@ -8824,11 +8941,13 @@ var featDict = {
     "fiendish serpent":     {
         "key": "fiendish serpent",
         "name": "Fiendish Serpent",
+        "name_zh": "蛇魔",
         "source": ["Book of the Damned pg. 178"]
     },
     "fiendish wings":     {
         "key": "fiendish wings",
         "name": "Fiendish Wings",
+        "name_zh": "翼魔",
         "source": ["Book of the Damned pg. 179"]
     },
     "fiendskin":     {
@@ -9034,6 +9153,7 @@ var featDict = {
     "fleeting spell":     {
         "key": "fleeting spell",
         "name": "Fleeting Spell",
+        "name_zh": "短暂法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Intrigue pg. 83"]
     },
@@ -9075,6 +9195,7 @@ var featDict = {
     "flickering step":     {
         "key": "flickering step",
         "name": "Flickering Step",
+        "name_zh": "闪现步",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 28"]
     },
@@ -9315,6 +9436,7 @@ var featDict = {
     "fool magic":     {
         "key": "fool magic",
         "name": "Fool Magic",
+        "name_zh": "愚弄魔道具",
         "source": ["Ultimate Intrigue pg. 83"],
         "prerequisiteKeys": ["deceitful"]
     },
@@ -9434,6 +9556,7 @@ var featDict = {
     "fox insight":     {
         "key": "fox insight",
         "name": "Fox Insight",
+        "name_zh": "狡狐之智",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 84"],
         "prerequisiteKeys": ["fox style"]
@@ -9446,6 +9569,7 @@ var featDict = {
     "fox style":     {
         "key": "fox style",
         "name": "Fox Style",
+        "name_zh": "狡狐式",
         "descriptors":         [
             "Combat",
             "Style"
@@ -9455,6 +9579,7 @@ var featDict = {
     "fox trickery":     {
         "key": "fox trickery",
         "name": "Fox Trickery",
+        "name_zh": "狡狐之策",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 84"],
         "prerequisiteKeys":         [
@@ -9615,6 +9740,7 @@ var featDict = {
     "garen's discipline":     {
         "key": "garen's discipline",
         "name": "Garen's Discipline",
+        "name_zh": "加仑之戒",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 26"],
         "prerequisiteKeys":         [
@@ -9641,6 +9767,7 @@ var featDict = {
     "gaze reflection":     {
         "key": "gaze reflection",
         "name": "Gaze Reflection",
+        "name_zh": "凝视映射",
         "source": ["Ultimate Intrigue pg. 84"]
     },
     "genie-touched companion":     {
@@ -9809,6 +9936,7 @@ var featDict = {
     "gloomstorm":     {
         "key": "gloomstorm",
         "name": "Gloomstorm",
+        "name_zh": "暗影风暴",
         "descriptors":         [
             "Combat",
             "Conduit"
@@ -10004,6 +10132,7 @@ var featDict = {
     "graceful steal":     {
         "key": "graceful steal",
         "name": "Graceful Steal",
+        "name_zh": "华丽盗技",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 84"],
         "prerequisiteKeys": ["agile maneuvers"]
@@ -10081,6 +10210,7 @@ var featDict = {
     "gray maiden initiate":     {
         "key": "gray maiden initiate",
         "name": "Gray Maiden Initiate",
+        "name_zh": "灰少女新兵",
         "source": ["Adventurer's Guide pg. 84"]
     },
     "great cleave":     {
@@ -10196,6 +10326,7 @@ var featDict = {
     "greater called shot":     {
         "key": "greater called shot",
         "name": "Greater Called Shot",
+        "name_zh": "高等狙击",
         "descriptors": ["Called Shot"],
         "source": ["Ultimate Combat pg. 195"],
         "prerequisiteKeys":         [
@@ -10395,6 +10526,7 @@ var featDict = {
     "greater planar infusion":     {
         "key": "greater planar infusion",
         "name": "Greater Planar Infusion",
+        "name_zh": "高等位面谐律",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 28"],
         "prerequisiteKeys":         [
@@ -10584,6 +10716,7 @@ var featDict = {
     "greater tenacious hunter":     {
         "key": "greater tenacious hunter",
         "name": "Greater Tenacious Hunter",
+        "name_zh": "高等追猎不止",
         "source": ["Ultimate Wilderness pg. 218"],
         "prerequisiteKeys":         [
             "combat reflexes",
@@ -11089,6 +11222,7 @@ var featDict = {
     "healer's hands":     {
         "key": "healer's hands",
         "name": "Healer's Hands",
+        "name_zh": "治疗者之手",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 28"]
     },
@@ -11107,6 +11241,7 @@ var featDict = {
     "heaven's light":     {
         "key": "heaven's light",
         "name": "Heaven's Light",
+        "name_zh": "天堂之光",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 28"]
     },
@@ -11180,16 +11315,19 @@ var featDict = {
     "hellknight aegis":     {
         "key": "hellknight aegis",
         "name": "Hellknight Aegis",
+        "name_zh": "地狱骑士之庇护",
         "source": ["Path of the Hellknight pg. 62"]
     },
     "hellknight obedience":     {
         "key": "hellknight obedience",
         "name": "Hellknight Obedience",
+        "name_zh": "地狱骑士的准则",
         "source": ["Path of the Hellknight pg. 62"]
     },
     "hellknight obsession":     {
         "key": "hellknight obsession",
         "name": "Hellknight Obsession",
+        "name_zh": "地狱骑士的狂热",
         "source": ["Path of the Hellknight pg. 62"],
         "prerequisiteKeys": ["hellknight obedience"]
     },
@@ -11345,6 +11483,7 @@ var featDict = {
     "hollow soul":     {
         "key": "hollow soul",
         "name": "Hollow Soul",
+        "name_zh": "空无之魂",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 29"]
     },
@@ -11657,6 +11796,7 @@ var featDict = {
     "improved balor whip":     {
         "key": "improved balor whip",
         "name": "Improved Balor Whip",
+        "name_zh": "精通巴洛炎魔之鞭笞",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 80"],
         "prerequisiteKeys":         [
@@ -11693,6 +11833,7 @@ var featDict = {
     "improved bravery":     {
         "key": "improved bravery",
         "name": "Improved Bravery",
+        "name_zh": "精通英勇",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 84"]
     },
@@ -11707,6 +11848,7 @@ var featDict = {
     "improved called shot":     {
         "key": "improved called shot",
         "name": "Improved Called Shot",
+        "name_zh": "精通狙击",
         "descriptors": ["Called Shot"],
         "source": ["Ultimate Combat pg. 195"],
         "prerequisiteKeys": ["combat expertise"]
@@ -11757,6 +11899,7 @@ var featDict = {
     "improved conceal spell":     {
         "key": "improved conceal spell",
         "name": "Improved Conceal Spell",
+        "name_zh": "精通掩饰施法",
         "source": ["Ultimate Intrigue pg. 84"],
         "prerequisiteKeys":         [
             "conceal spell",
@@ -11893,7 +12036,7 @@ var featDict = {
     "improved feint partner":     {
         "key": "improved feint partner",
         "name": "Improved Feint Partner",
-        "name_zh": "高等联合虚招",
+        "name_zh": "精通联合虚招",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -12045,6 +12188,7 @@ var featDict = {
     "improved intercept blow":     {
         "key": "improved intercept blow",
         "name": "Improved Intercept Blow",
+        "name_zh": "精通拦截攻击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 218"],
         "prerequisiteKeys": ["intercept blow"]
@@ -12073,6 +12217,7 @@ var featDict = {
     "improved legendary influence":     {
         "key": "improved legendary influence",
         "name": "Improved Legendary Influence",
+        "name_zh": "精通传说共鸣",
         "source": ["Ultimate Intrigue pg. 85"],
         "prerequisiteKeys": ["legendary influence"]
     },
@@ -12157,6 +12302,7 @@ var featDict = {
     "improved planar infusion":     {
         "key": "improved planar infusion",
         "name": "Improved Planar Infusion",
+        "name_zh": "进阶位面谐律",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 29"],
         "prerequisiteKeys": ["planar infusion"]
@@ -12170,6 +12316,7 @@ var featDict = {
     "improved plane shift":     {
         "key": "improved plane shift",
         "name": "Improved Plane Shift",
+        "name_zh": "精通异界传送",
         "source": ["Planar Adventures pg. 30"]
     },
     "improved position of strength":     {
@@ -12243,6 +12390,7 @@ var featDict = {
     "improved sabotaging sunder":     {
         "key": "improved sabotaging sunder",
         "name": "Improved Sabotaging Sunder",
+        "name_zh": "精通诡技破武",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 85"],
         "prerequisiteKeys":         [
@@ -12593,6 +12741,7 @@ var featDict = {
     "incite paranoia":     {
         "key": "incite paranoia",
         "name": "Incite Paranoia",
+        "name_zh": "煽动猜忌",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 85"],
         "prerequisiteKeys":         [
@@ -12631,6 +12780,7 @@ var featDict = {
     "indomitable mountain avalanche":     {
         "key": "indomitable mountain avalanche",
         "name": "Indomitable Mountain Avalanche",
+        "name_zh": "岳峙渊渟",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 114"],
         "prerequisiteKeys":         [
@@ -12643,6 +12793,7 @@ var featDict = {
     "indomitable mountain peak":     {
         "key": "indomitable mountain peak",
         "name": "Indomitable Mountain Peak",
+        "name_zh": "岳峙巅",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 114"],
         "prerequisiteKeys":         [
@@ -12654,6 +12805,7 @@ var featDict = {
     "indomitable mountain style":     {
         "key": "indomitable mountain style",
         "name": "Indomitable Mountain Style",
+        "name_zh": "岳峙流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -12780,6 +12932,7 @@ var featDict = {
     "insightful advice":     {
         "key": "insightful advice",
         "name": "Insightful Advice",
+        "name_zh": "金玉良言",
         "source": ["Ultimate Intrigue pg. 85"]
     },
     "insightful delivery":     {
@@ -12826,12 +12979,14 @@ var featDict = {
     "inspiring bravery":     {
         "key": "inspiring bravery",
         "name": "Inspiring Bravery",
+        "name_zh": "英勇启迪",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 85"]
     },
     "inspiring mentor":     {
         "key": "inspiring mentor",
         "name": "Inspiring Mentor",
+        "name_zh": "激励师",
         "source": ["Ultimate Intrigue pg. 85"]
     },
     "inspiring talent":     {
@@ -12892,6 +13047,7 @@ var featDict = {
     "intercept blow":     {
         "key": "intercept blow",
         "name": "Intercept Blow",
+        "name_zh": "拦截攻击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 219"]
     },
@@ -12968,6 +13124,7 @@ var featDict = {
     "intoxicating flattery":     {
         "key": "intoxicating flattery",
         "name": "Intoxicating Flattery",
+        "name_zh": "戴高帽",
         "source": ["Ultimate Intrigue pg. 85"],
         "prerequisiteKeys": ["deceitful"]
     },
@@ -13040,6 +13197,7 @@ var featDict = {
     "ironclad logic":     {
         "key": "ironclad logic",
         "name": "Ironclad Logic",
+        "name_zh": "不破的逻辑",
         "source": ["Ultimate Intrigue pg. 85"]
     },
     "ironclad reactions":     {
@@ -13571,6 +13729,7 @@ var featDict = {
     "kyton cut":     {
         "key": "kyton cut",
         "name": "Kyton Cut",
+        "name_zh": "链魔割",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 88"],
         "prerequisiteKeys":         [
@@ -13582,6 +13741,7 @@ var featDict = {
     "kyton shield":     {
         "key": "kyton shield",
         "name": "Kyton Shield",
+        "name_zh": "链魔盾",
         "descriptors": ["Combat"],
         "source": ["Horror Adventures pg. 88"],
         "prerequisiteKeys":         [
@@ -13592,6 +13752,7 @@ var featDict = {
     "kyton style":     {
         "key": "kyton style",
         "name": "Kyton Style",
+        "name_zh": "链魔流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13665,6 +13826,7 @@ var featDict = {
     "lashing tail":     {
         "key": "lashing tail",
         "name": "Lashing Tail",
+        "name_zh": "鞭击用尾巴",
         "descriptors": ["Combat"],
         "source": ["Planar Adventures pg. 30"],
         "prerequisiteKeys": ["grasping tail"]
@@ -13672,6 +13834,7 @@ var featDict = {
     "last rites":     {
         "key": "last rites",
         "name": "Last Rites",
+        "name_zh": "最终仪式",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 30"]
     },
@@ -13786,11 +13949,13 @@ var featDict = {
     "legendary influence":     {
         "key": "legendary influence",
         "name": "Legendary Influence",
+        "name_zh": "传说共鸣",
         "source": ["Ultimate Intrigue pg. 86"]
     },
     "legionnaire's inspiration":     {
         "key": "legionnaire's inspiration",
         "name": "Legionnaire's Inspiration",
+        "name_zh": "军团激励",
         "source":         [
             "Adventurer's Guide pg. 76",
             "Andoran, Birthplace of Freedom pg. 29"
@@ -13915,6 +14080,7 @@ var featDict = {
     "lightning draw":     {
         "key": "lightning draw",
         "name": "Lightning Draw",
+        "name_zh": "闪电备战",
         "descriptors":         [
             "Combat",
             "Panache"
@@ -14335,6 +14501,7 @@ var featDict = {
     "malleable form":     {
         "key": "malleable form",
         "name": "Malleable Form",
+        "name_zh": "可塑形体",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 30"]
     },
@@ -14356,6 +14523,7 @@ var featDict = {
     "manipulative agility":     {
         "key": "manipulative agility",
         "name": "Manipulative Agility",
+        "name_zh": "灵巧手技",
         "source": ["Ultimate Intrigue pg. 86"]
     },
     "manipulative presence":     {
@@ -14486,6 +14654,7 @@ var featDict = {
     "martial dominance":     {
         "key": "martial dominance",
         "name": "Martial Dominance",
+        "name_zh": "武装权威",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 86"]
     },
@@ -14721,6 +14890,7 @@ var featDict = {
     "measure foe":     {
         "key": "measure foe",
         "name": "Measure Foe",
+        "name_zh": "武艺评估",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 86"],
         "prerequisiteKeys": ["street smarts"]
@@ -14848,6 +15018,7 @@ var featDict = {
     "meta word mastery":     {
         "key": "meta word mastery",
         "name": "Meta Word Mastery",
+        "name_zh": "掌握超魔咒字",
         "descriptors": ["Words of Power"],
         "source": ["Ultimate Magic pg. 166"]
     },
@@ -14952,12 +15123,14 @@ var featDict = {
     "mischievous tail":     {
         "key": "mischievous tail",
         "name": "Mischievous Tail",
+        "name_zh": "调皮用尾巴",
         "source": ["Planar Adventures pg. 30"],
         "prerequisiteKeys": ["grasping tail"]
     },
     "misdirection attack":     {
         "key": "misdirection attack",
         "name": "Misdirection Attack",
+        "name_zh": "反击误导",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys":         [
@@ -14970,6 +15143,7 @@ var featDict = {
     "misdirection redirection":     {
         "key": "misdirection redirection",
         "name": "Misdirection Redirection",
+        "name_zh": "转向误导",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys":         [
@@ -14981,6 +15155,7 @@ var featDict = {
     "misdirection tactics":     {
         "key": "misdirection tactics",
         "name": "Misdirection Tactics",
+        "name_zh": "误导战法",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys":         [
@@ -15459,6 +15634,7 @@ var featDict = {
     "musketeer's dodge":     {
         "key": "musketeer's dodge",
         "name": "Musketeer's Dodge",
+        "name_zh": "火枪手闪避",
         "descriptors":         [
             "Combat",
             "Grit"
@@ -15468,6 +15644,7 @@ var featDict = {
     "musketeer's reposition":     {
         "key": "musketeer's reposition",
         "name": "Musketeer's Reposition",
+        "name_zh": "火枪手换位",
         "descriptors":         [
             "Combat",
             "Grit"
@@ -15503,6 +15680,7 @@ var featDict = {
     "my blade is yours":     {
         "key": "my blade is yours",
         "name": "My Blade is Yours",
+        "name_zh": "武器协同",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -15619,6 +15797,7 @@ var featDict = {
     "nature's freedom":     {
         "key": "nature's freedom",
         "name": "Nature's Freedom",
+        "name_zh": "荒野自如",
         "source": ["Ultimate Wilderness pg. 116"]
     },
     "nature's weapons":     {
@@ -15680,6 +15859,7 @@ var featDict = {
     "nerve-racking negotiator":     {
         "key": "nerve-racking negotiator",
         "name": "Nerve-Racking Negotiator",
+        "name_zh": "冷面交涉人",
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -15755,6 +15935,7 @@ var featDict = {
     "nightmare chains":     {
         "key": "nightmare chains",
         "name": "Nightmare Chains",
+        "name_zh": "梦魇之链",
         "source": ["Book of the Damned pg. 179"]
     },
     "nightmare fist":     {
@@ -15864,6 +16045,7 @@ var featDict = {
     "notorious vigilante":     {
         "key": "notorious vigilante",
         "name": "Notorious Vigilante",
+        "name_zh": "煞面义警",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys":         [
@@ -15990,6 +16172,7 @@ var featDict = {
     "omnipresent mentor":     {
         "key": "omnipresent mentor",
         "name": "Omnipresent Mentor",
+        "name_zh": "激励师之惠",
         "source": ["Ultimate Intrigue pg. 87"],
         "prerequisiteKeys": ["inspiring mentor"]
     },
@@ -16183,6 +16366,7 @@ var featDict = {
     "ostentatious rager":     {
         "key": "ostentatious rager",
         "name": "Ostentatious Rager",
+        "name_zh": "招摇狂暴者",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 87"]
     },
@@ -16361,6 +16545,7 @@ var featDict = {
     "owl dive":     {
         "key": "owl dive",
         "name": "Owl Dive",
+        "name_zh": "枭穿式",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys":         [
@@ -16372,6 +16557,7 @@ var featDict = {
     "owl style":     {
         "key": "owl style",
         "name": "Owl Style",
+        "name_zh": "枭冲式",
         "descriptors":         [
             "Combat",
             "Style"
@@ -16382,6 +16568,7 @@ var featDict = {
     "owl swoop":     {
         "key": "owl swoop",
         "name": "Owl Swoop",
+        "name_zh": "枭落式",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys":         [
@@ -16620,6 +16807,7 @@ var featDict = {
     "peace of mind":     {
         "key": "peace of mind",
         "name": "Peace of Mind",
+        "name_zh": "神清气正",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 31"]
     },
@@ -16701,6 +16889,7 @@ var featDict = {
     "perfect style":     {
         "key": "perfect style",
         "name": "Perfect Style",
+        "name_zh": "无瑕流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -16713,7 +16902,7 @@ var featDict = {
     "performance weapon mastery":     {
         "key": "performance weapon mastery",
         "name": "Performance Weapon Mastery",
-        "name_zh": "演武武器精通",
+        "name_zh": "演武武器熟稔",
         "descriptors": ["Combat"],
         "source": ["Ultimate Combat pg. 112"]
     },
@@ -16746,6 +16935,7 @@ var featDict = {
     "persuasive bribery":     {
         "key": "persuasive bribery",
         "name": "Persuasive Bribery",
+        "name_zh": "行贿高手",
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -16827,6 +17017,7 @@ var featDict = {
     "phase strike":     {
         "key": "phase strike",
         "name": "Phase Strike",
+        "name_zh": "相位打击",
         "descriptors":         [
             "Combat",
             "Conduit"
@@ -16853,6 +17044,7 @@ var featDict = {
     "piercing grapple":     {
         "key": "piercing grapple",
         "name": "Piercing Grapple",
+        "name_zh": "刺击擒抱",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys":         [
@@ -16972,6 +17164,7 @@ var featDict = {
     "planar heritage":     {
         "key": "planar heritage",
         "name": "Planar Heritage",
+        "name_zh": "位面血脉",
         "source": ["Planar Adventures pg. 31"]
     },
     "planar hunter":     {
@@ -16982,6 +17175,7 @@ var featDict = {
     "planar infusion":     {
         "key": "planar infusion",
         "name": "Planar Infusion",
+        "name_zh": "位面谐律",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 31"]
     },
@@ -17015,6 +17209,7 @@ var featDict = {
     "planar wanderer":     {
         "key": "planar wanderer",
         "name": "Planar Wanderer",
+        "name_zh": "异界漫游者",
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys": ["cartogramancer"]
     },
@@ -17037,6 +17232,7 @@ var featDict = {
     "play to the crowd":     {
         "key": "play to the crowd",
         "name": "Play to the Crowd",
+        "name_zh": "投其所好",
         "source": ["Ultimate Intrigue pg. 88"],
         "prerequisiteKeys": ["ironclad logic"]
     },
@@ -17285,6 +17481,7 @@ var featDict = {
     "primal bloom":     {
         "key": "primal bloom",
         "name": "Primal Bloom",
+        "name_zh": "原初绽放",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 31"]
     },
@@ -17567,6 +17764,7 @@ var featDict = {
     "purifying channel":     {
         "key": "purifying channel",
         "name": "Purifying Channel",
+        "name_zh": "涤净引导",
         "source": ["Adventurer's Guide pg. 15"],
         "prerequisiteKeys": ["selective channeling"]
     },
@@ -17670,6 +17868,7 @@ var featDict = {
     "quick favor":     {
         "key": "quick favor",
         "name": "Quick Favor",
+        "name_zh": "略施小惠",
         "source": ["Ultimate Intrigue pg. 89"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -17710,6 +17909,7 @@ var featDict = {
     "quick study":     {
         "key": "quick study",
         "name": "Quick Study",
+        "name_zh": "快速研习",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 89"]
     },
@@ -17748,6 +17948,7 @@ var featDict = {
     "quiet death":     {
         "key": "quiet death",
         "name": "Quiet Death",
+        "name_zh": "无声击杀",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 89"]
     },
@@ -17880,6 +18081,7 @@ var featDict = {
     "ranged disable":     {
         "key": "ranged disable",
         "name": "Ranged Disable",
+        "name_zh": "远距解除装置",
         "source": ["Ultimate Intrigue pg. 89"],
         "prerequisiteKeys":         [
             "far shot",
@@ -17900,6 +18102,7 @@ var featDict = {
     "ranged feint":     {
         "key": "ranged feint",
         "name": "Ranged Feint",
+        "name_zh": "远距虚招",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 89"]
     },
@@ -18049,6 +18252,7 @@ var featDict = {
     "read spell traces":     {
         "key": "read spell traces",
         "name": "Read Spell Traces",
+        "name_zh": "解读魔力残留",
         "source": ["Ultimate Intrigue pg. 90"]
     },
     "read the room":     {
@@ -18060,6 +18264,7 @@ var featDict = {
     "ready for anything":     {
         "key": "ready for anything",
         "name": "Ready for Anything",
+        "name_zh": "时刻备战",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 90"],
         "prerequisiteKeys":         [
@@ -18161,6 +18366,7 @@ var featDict = {
     "recruits":     {
         "key": "recruits",
         "name": "Recruits",
+        "name_zh": "新手",
         "source":         [
             "Ultimate Intrigue pg. 134",
             "Cohorts and Companions pg. 30"
@@ -18208,6 +18414,7 @@ var featDict = {
     "redistributed might":     {
         "key": "redistributed might",
         "name": "Redistributed Might",
+        "name_zh": "触力旁通",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 26"],
         "prerequisiteKeys":         [
@@ -18230,6 +18437,7 @@ var featDict = {
     "reflexive interception":     {
         "key": "reflexive interception",
         "name": "Reflexive Interception",
+        "name_zh": "闪电拦截",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 219"],
         "prerequisiteKeys": ["intercept blow"]
@@ -18702,18 +18910,21 @@ var featDict = {
     "sabotage magic item":     {
         "key": "sabotage magic item",
         "name": "Sabotage Magic Item",
+        "name_zh": "机关魔道具",
         "source": ["Ultimate Intrigue pg. 90"],
         "prerequisiteKeys": ["magical aptitude"]
     },
     "sabotage specialist":     {
         "key": "sabotage specialist",
         "name": "Sabotage Specialist",
+        "name_zh": "破坏专家",
         "source": ["Ultimate Intrigue pg. 90"],
         "prerequisiteKeys": ["deft hands"]
     },
     "sabotaging sunder":     {
         "key": "sabotaging sunder",
         "name": "Sabotaging Sunder",
+        "name_zh": "诡技破武",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 90"],
         "prerequisiteKeys":         [
@@ -18751,6 +18962,7 @@ var featDict = {
     "sacrificial potency":     {
         "key": "sacrificial potency",
         "name": "Sacrificial Potency",
+        "name_zh": "牺牲效力",
         "source": ["Book of the Damned pg. 179"]
     },
     "sacrificial ritualist":     {
@@ -18901,6 +19113,7 @@ var featDict = {
     "scarlet rose devotion":     {
         "key": "scarlet rose devotion",
         "name": "Scarlet Rose Devotion",
+        "name_zh": "绯红玫瑰的奉献",
         "source": ["Adventurer's Guide pg. 85"],
         "prerequisiteKeys": ["combat reflexes"]
     },
@@ -19183,6 +19396,7 @@ var featDict = {
     "seize advantage":     {
         "key": "seize advantage",
         "name": "Seize Advantage",
+        "name_zh": "巧夺优势",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Guide pg. 156"]
     },
@@ -19238,6 +19452,7 @@ var featDict = {
     "sense assumptions":     {
         "key": "sense assumptions",
         "name": "Sense Assumptions",
+        "name_zh": "查知观念",
         "source": ["Ultimate Intrigue pg. 91"]
     },
     "sense link":     {
@@ -19264,6 +19479,7 @@ var featDict = {
     "sense relationships":     {
         "key": "sense relationships",
         "name": "Sense Relationships",
+        "name_zh": "查知关系",
         "source": ["Ultimate Intrigue pg. 91"],
         "prerequisiteKeys": ["street smarts"]
     },
@@ -19296,6 +19512,7 @@ var featDict = {
     "serren's masterstroke":     {
         "key": "serren's masterstroke",
         "name": "Serren's Masterstroke",
+        "name_zh": "西瑞安之证",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 26"],
         "prerequisiteKeys":         [
@@ -19386,12 +19603,14 @@ var featDict = {
     "shadow's shroud":     {
         "key": "shadow's shroud",
         "name": "Shadow's Shroud",
+        "name_zh": "暗影护罩",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 32"]
     },
     "shadows of fear":     {
         "key": "shadows of fear",
         "name": "Shadows of Fear",
+        "name_zh": "恐惧之影",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 91"]
     },
@@ -19517,6 +19736,7 @@ var featDict = {
     "share feature":     {
         "key": "share feature",
         "name": "Share Feature",
+        "name_zh": "共享特性",
         "source": ["Ultimate Wilderness pg. 219"]
     },
     "share healing":     {
@@ -20122,6 +20342,7 @@ var featDict = {
     "signifer armor training":     {
         "key": "signifer armor training",
         "name": "Signifer Armor Training",
+        "name_zh": "持节士护甲训练",
         "source": ["Path of the Hellknight pg. 62"],
         "prerequisiteKeys":         [
             "arcane armor mastery",
@@ -20189,6 +20410,7 @@ var featDict = {
     "sinister reputation":     {
         "key": "sinister reputation",
         "name": "Sinister Reputation",
+        "name_zh": "恶名昭彰",
         "source": ["Adventurer's Guide pg. 35"],
         "prerequisiteKeys": ["persuasive"]
     },
@@ -20224,6 +20446,7 @@ var featDict = {
     "sisterhood dedication":     {
         "key": "sisterhood dedication",
         "name": "Sisterhood Dedication",
+        "name_zh": "姊妹献身",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 85"],
         "prerequisiteKeys":         [
@@ -20236,6 +20459,7 @@ var featDict = {
     "sisterhood rampart":     {
         "key": "sisterhood rampart",
         "name": "Sisterhood Rampart",
+        "name_zh": "姊妹壁垒",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 85"],
         "prerequisiteKeys":         [
@@ -20247,6 +20471,7 @@ var featDict = {
     "sisterhood style":     {
         "key": "sisterhood style",
         "name": "Sisterhood Style",
+        "name_zh": "姊妹流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -20404,6 +20629,7 @@ var featDict = {
     "sliding dash":     {
         "key": "sliding dash",
         "name": "Sliding Dash",
+        "name_zh": "滑步冲锋",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 91"]
     },
@@ -20790,6 +21016,7 @@ var featDict = {
     "social bravery":     {
         "key": "social bravery",
         "name": "Social Bravery",
+        "name_zh": "英勇交际",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 92"]
     },
@@ -20842,6 +21069,7 @@ var featDict = {
     "soul-powered magic":     {
         "key": "soul-powered magic",
         "name": "Soul-Powered Magic",
+        "name_zh": "魂力魔法",
         "source": ["Book of the Damned pg. 179"]
     },
     "soulblade":     {
@@ -21563,6 +21791,7 @@ var featDict = {
     "starry grace":     {
         "key": "starry grace",
         "name": "Starry Grace",
+        "name_zh": "优雅繁星",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 92"],
         "prerequisiteKeys":         [
@@ -21573,6 +21802,7 @@ var featDict = {
     "startling getaway":     {
         "key": "startling getaway",
         "name": "Startling Getaway",
+        "name_zh": "惊愕诡步",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 92"]
     },
@@ -21883,6 +22113,7 @@ var featDict = {
     "stony rampart":     {
         "key": "stony rampart",
         "name": "Stony Rampart",
+        "name_zh": "塑石为墙",
         "descriptors":         [
             "Combat",
             "Conduit"
@@ -21976,6 +22207,7 @@ var featDict = {
     "street carnage":     {
         "key": "street carnage",
         "name": "Street Carnage",
+        "name_zh": "街霸残虐击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 92"],
         "prerequisiteKeys":         [
@@ -21989,11 +22221,13 @@ var featDict = {
     "street smarts":     {
         "key": "street smarts",
         "name": "Street Smarts",
+        "name_zh": "街头智慧",
         "source": ["Ultimate Intrigue pg. 92"]
     },
     "street style":     {
         "key": "street style",
         "name": "Street Style",
+        "name_zh": "街霸流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -22008,6 +22242,7 @@ var featDict = {
     "street sweep":     {
         "key": "street sweep",
         "name": "Street Sweep",
+        "name_zh": "街角霸王拳",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 92"],
         "prerequisiteKeys":         [
@@ -22086,6 +22321,7 @@ var featDict = {
     "structural strike":     {
         "key": "structural strike",
         "name": "Structural Strike",
+        "name_zh": "解构刺击",
         "descriptors":         [
             "Combat",
             "Panache"
@@ -22117,6 +22353,7 @@ var featDict = {
     "studied spell":     {
         "key": "studied spell",
         "name": "Studied Spell",
+        "name_zh": "格物法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Intrigue pg. 93"]
     },
@@ -22221,6 +22458,7 @@ var featDict = {
     "stylized spell":     {
         "key": "stylized spell",
         "name": "Stylized Spell",
+        "name_zh": "时髦法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Intrigue pg. 93"]
     },
@@ -22255,6 +22493,7 @@ var featDict = {
     "subtle enchantments":     {
         "key": "subtle enchantments",
         "name": "Subtle Enchantments",
+        "name_zh": "飘渺附魔术",
         "source": ["Ultimate Intrigue pg. 93"],
         "prerequisiteKeys":         [
             "deceitful",
@@ -22375,6 +22614,7 @@ var featDict = {
     "superior scryer":     {
         "key": "superior scryer",
         "name": "Superior Scryer",
+        "name_zh": "优秀探测者",
         "source": ["Ultimate Intrigue pg. 94"],
         "prerequisiteKeys": ["spell focus"]
     },
@@ -22650,6 +22890,7 @@ var featDict = {
     "swipe and stash":     {
         "key": "swipe and stash",
         "name": "Swipe and Stash",
+        "name_zh": "偷天换日",
         "descriptors": ["Combat"],
         "source": ["Ultimate Intrigue pg. 94"]
     },
@@ -23038,6 +23279,7 @@ var featDict = {
     "telepathy tap":     {
         "key": "telepathy tap",
         "name": "Telepathy Tap",
+        "name_zh": "窃听感应",
         "source": ["Ultimate Intrigue pg. 94"]
     },
     "teleport sense":     {
@@ -23071,11 +23313,13 @@ var featDict = {
     "tenacious hunter":     {
         "key": "tenacious hunter",
         "name": "Tenacious Hunter",
+        "name_zh": "追猎不止",
         "source": ["Ultimate Wilderness pg. 219"]
     },
     "tenacious spell":     {
         "key": "tenacious spell",
         "name": "Tenacious Spell",
+        "name_zh": "强固法术",
         "descriptors": ["Metamagic"],
         "source": ["Ultimate Intrigue pg. 94"]
     },
@@ -23218,6 +23462,7 @@ var featDict = {
     "threatening negotiator":     {
         "key": "threatening negotiator",
         "name": "Threatening Negotiator",
+        "name_zh": "凶恶交涉人",
         "source": ["Ultimate Intrigue pg. 94"],
         "prerequisiteKeys":         [
             "nerve-racking negotiator",
@@ -23329,6 +23574,7 @@ var featDict = {
     "tidal swiftness":     {
         "key": "tidal swiftness",
         "name": "Tidal Swiftness",
+        "name_zh": "迅如潮汐",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 33"]
     },
@@ -23370,6 +23616,7 @@ var featDict = {
     "timely coordination":     {
         "key": "timely coordination",
         "name": "Timely Coordination",
+        "name_zh": "适时协同",
         "descriptors": ["Teamwork"],
         "source": ["Ultimate Intrigue pg. 94"]
     },
@@ -23497,6 +23744,7 @@ var featDict = {
     "totemic disciple":     {
         "key": "totemic disciple",
         "name": "Totemic Disciple",
+        "name_zh": "图腾门徒",
         "source": ["Ultimate Wilderness pg. 118"],
         "prerequisiteKeys":         [
             "athletic",
@@ -23506,12 +23754,14 @@ var featDict = {
     "totemic initiate":     {
         "key": "totemic initiate",
         "name": "Totemic Initiate",
+        "name_zh": "图腾学徒",
         "source": ["Ultimate Wilderness pg. 118"],
         "prerequisiteKeys": ["athletic"]
     },
     "totemic master":     {
         "key": "totemic master",
         "name": "Totemic Master",
+        "name_zh": "图腾大师",
         "source": ["Ultimate Wilderness pg. 119"],
         "prerequisiteKeys":         [
             "athletic",
@@ -23522,6 +23772,7 @@ var featDict = {
     "touch of evil":     {
         "key": "touch of evil",
         "name": "Touch of Evil",
+        "name_zh": "恶念之触",
         "source": ["Horror Adventures pg. 94"]
     },
     "touch of serenity":     {
@@ -23847,6 +24098,7 @@ var featDict = {
     "true deception":     {
         "key": "true deception",
         "name": "True Deception",
+        "name_zh": "弄假成真",
         "source": ["Ultimate Intrigue pg. 95"]
     },
     "true love":     {
@@ -23909,6 +24161,7 @@ var featDict = {
     "twilight tattoo":     {
         "key": "twilight tattoo",
         "name": "Twilight Tattoo",
+        "name_zh": "暮光纹身",
         "source":         [
             "Adventurer's Guide pg. 76",
             "Andoran, Birthplace of Freedom pg. 31"
@@ -23922,6 +24175,7 @@ var featDict = {
     "twin fang lunge":     {
         "key": "twin fang lunge",
         "name": "Twin Fang Lunge",
+        "name_zh": "贰牙突",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 105"],
         "prerequisiteKeys":         [
@@ -23934,6 +24188,7 @@ var featDict = {
     "twin fang strike":     {
         "key": "twin fang strike",
         "name": "Twin Fang Strike",
+        "name_zh": "贰牙击",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 105"],
         "prerequisiteKeys":         [
@@ -23944,6 +24199,7 @@ var featDict = {
     "twin fang style":     {
         "key": "twin fang style",
         "name": "Twin Fang Style",
+        "name_zh": "贰牙流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -24058,6 +24314,7 @@ var featDict = {
     "two-weapon grace":     {
         "key": "two-weapon grace",
         "name": "Two-Weapon Grace",
+        "name_zh": "优雅双武",
         "descriptors": ["Combat"],
         "source": ["Villain Codex pg. 224"],
         "prerequisiteKeys":         [
@@ -24080,6 +24337,7 @@ var featDict = {
     "tyrant's rebuke":     {
         "key": "tyrant's rebuke",
         "name": "Tyrant's Rebuke",
+        "name_zh": "暴君怒斥",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 33"]
     },
@@ -24139,6 +24397,7 @@ var featDict = {
     "unblinking flame feint":     {
         "key": "unblinking flame feint",
         "name": "Unblinking Flame Feint",
+        "name_zh": "业火袭",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 106",
@@ -24152,6 +24411,7 @@ var featDict = {
     "unblinking flame fist":     {
         "key": "unblinking flame fist",
         "name": "Unblinking Flame Fist",
+        "name_zh": "业火灼身",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 106",
@@ -24172,6 +24432,7 @@ var featDict = {
     "unbreakable":     {
         "key": "unbreakable",
         "name": "Unbreakable",
+        "name_zh": "坚不可摧",
         "descriptors": ["Combat"],
         "source": ["Adventurer's Guide pg. 86"],
         "prerequisiteKeys":         [
@@ -24335,6 +24596,7 @@ var featDict = {
     "unfolding wind rush":     {
         "key": "unfolding wind rush",
         "name": "Unfolding Wind Rush",
+        "name_zh": "八风流转",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 106",
@@ -24351,6 +24613,7 @@ var featDict = {
     "unfolding wind strike":     {
         "key": "unfolding wind strike",
         "name": "Unfolding Wind Strike",
+        "name_zh": "八风涌",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 106",
@@ -24381,6 +24644,7 @@ var featDict = {
     "unimpeachable honor":     {
         "key": "unimpeachable honor",
         "name": "Unimpeachable Honor",
+        "name_zh": "不破的荣耀",
         "source": ["Ultimate Intrigue pg. 95"],
         "prerequisiteKeys": ["iron will"]
     },
@@ -24433,12 +24697,14 @@ var featDict = {
     "unstoppable esotery":     {
         "key": "unstoppable esotery",
         "name": "Unstoppable Esotery",
+        "name_zh": "无尽奇特",
         "descriptors": ["Esoteric"],
         "source": ["Pathfinder Unchained pg. 154"]
     },
     "untwisting iron skin":     {
         "key": "untwisting iron skin",
         "name": "Untwisting Iron Skin",
+        "name_zh": "金刚霸体",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 107",
@@ -24453,6 +24719,7 @@ var featDict = {
     "untwisting iron strength":     {
         "key": "untwisting iron strength",
         "name": "Untwisting Iron Strength",
+        "name_zh": "金刚劲",
         "descriptors": ["Combat"],
         "source":         [
             "Adventurer's Guide pg. 107",
@@ -24927,6 +25194,7 @@ var featDict = {
     "walking sleight":     {
         "key": "walking sleight",
         "name": "Walking Sleight",
+        "name_zh": "顺手牵羊",
         "source": ["Ultimate Intrigue pg. 95"],
         "prerequisiteKeys": ["deft hands"]
     },
@@ -24951,6 +25219,7 @@ var featDict = {
     "wanderer's fortune":     {
         "key": "wanderer's fortune",
         "name": "Wanderer's Fortune",
+        "name_zh": "浪徒之幸",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 33"]
     },
@@ -25278,6 +25547,7 @@ var featDict = {
     "wild growth channel":     {
         "key": "wild growth channel",
         "name": "Wild Growth Channel",
+        "name_zh": "丛生引导",
         "source": ["Ultimate Wilderness pg. 119"]
     },
     "wild growth hex":     {
@@ -25299,29 +25569,34 @@ var featDict = {
     "wild vigor":     {
         "key": "wild vigor",
         "name": "Wild Vigor",
+        "name_zh": "野性活力",
         "source": ["Ultimate Wilderness pg. 120"]
     },
     "wilding mind":     {
         "key": "wilding mind",
         "name": "Wilding Mind",
+        "name_zh": "荒野思维",
         "source": ["Ultimate Wilderness pg. 120"],
         "prerequisiteKeys": ["wilding"]
     },
     "wilding senses":     {
         "key": "wilding senses",
         "name": "Wilding Senses",
+        "name_zh": "荒野感官",
         "source": ["Ultimate Wilderness pg. 120"],
         "prerequisiteKeys": ["wilding"]
     },
     "wilding stride":     {
         "key": "wilding stride",
         "name": "Wilding Stride",
+        "name_zh": "荒野步伐",
         "source": ["Ultimate Wilderness pg. 120"],
         "prerequisiteKeys": ["wilding"]
     },
     "wilding strike":     {
         "key": "wilding strike",
         "name": "Wilding Strike",
+        "name_zh": "荒野打击",
         "descriptors": ["Combat"],
         "source": ["Ultimate Wilderness pg. 120"],
         "prerequisiteKeys":         [
@@ -25332,6 +25607,7 @@ var featDict = {
     "wilding":     {
         "key": "wilding",
         "name": "Wilding",
+        "name_zh": "荒野之痕",
         "source": ["Ultimate Wilderness pg. 120"]
     },
     "will of giants":     {
@@ -25343,6 +25619,7 @@ var featDict = {
     "willing accomplice":     {
         "key": "willing accomplice",
         "name": "Willing Accomplice",
+        "name_zh": "义警帮手",
         "source": ["Ultimate Intrigue pg. 95"]
     },
     "willing death":     {
@@ -25360,6 +25637,7 @@ var featDict = {
     "wind leaper":     {
         "key": "wind leaper",
         "name": "Wind Leaper",
+        "name_zh": "风中跃者",
         "descriptors": ["Conduit"],
         "source": ["Planar Adventures pg. 33"]
     },
@@ -25452,6 +25730,7 @@ var featDict = {
     "wolf savage":     {
         "key": "wolf savage",
         "name": "Wolf Savage",
+        "name_zh": "狼抓",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Wilderness pg. 120",
@@ -25466,6 +25745,7 @@ var featDict = {
     "wolf style":     {
         "key": "wolf style",
         "name": "Wolf Style",
+        "name_zh": "狼拳",
         "descriptors":         [
             "Combat",
             "Style"
@@ -25479,6 +25759,7 @@ var featDict = {
     "wolf trip":     {
         "key": "wolf trip",
         "name": "Wolf Trip",
+        "name_zh": "狼摔",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Wilderness pg. 121",

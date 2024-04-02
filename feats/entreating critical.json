@@ -14,5 +14,9 @@
         "call truce",
         "critical focus",
         "persuasive"
-    ]
+    ],
+    "name_zh": "终战重击",
+    "text_zh": "重击能让你有机会让敌人看清现状。",
+    "prerequisites_zh": "魅力 15，呼吁停战，重击专攻，谈判专家，BAB +11，交涉5级",
+    "benefit_zh": "每当你确认了1次重击（confirm a critical hit）时，攻击带来的威慑力总会带来一次机遇，让你能够以一次简短的请求（quick entreaty）终结敌意。在确认重击（confirming the critical hit）后立即通过直觉动作（immediate action），你能够尝试1次交涉检定改变目标的态度，就好像花费了1整轮（full round）的时间使用呼吁停战（Call Truce）专长一般。所有其他呼吁停战（Call Truce）专长所具有的条件与限制依旧有效。"
 }

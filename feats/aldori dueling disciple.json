@@ -16,5 +16,9 @@
         "exotic weapon proficiency",
         "weapon finesse",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "奥多里决斗学徒",
+    "text_zh": "先决条件：异种武器擅长（奥多里决斗剑），武器娴熟，武器专攻（奥多里决斗剑）。",
+    "prerequisites_zh": "异种武器擅长（奥多里决斗剑），武器娴熟，武器专攻（奥多里决斗剑）。",
+    "benefit_zh": "你可以在威吓鉴定中获得+2的士气加值，而任何试图降低你士气的DC都会增加2。当你参加一场决斗时，这些奖励就会增加到+4。"
 }

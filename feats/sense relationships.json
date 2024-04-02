@@ -6,5 +6,9 @@
     "text": "You can quickly sense relationships between others and use that knowledge to manipulate them.",
     "prerequisites": "Street Smarts.",
     "benefit": "After 1 minute or more of interaction or observation, you can attempt a DC 20 Sense Motive check to get a hunch in order to intuit the relationship between any two creatures interacting with one another. If you don’t understand the language they are speaking, you take a –5 penalty on the check, and if the creatures are a different type than you, you take an additional –5 penalty on the check.<br><br> If you succeed at this check by 5 or more, for the next hour, you gain a +2 bonus on Bluff checks to lie about one of the creatures to the other and on Diplomacy checks to request that one act against the other. If you fail the check, you cannot attempt this ability on the same creatures again until you gain an additional rank in Sense Motive.",
-    "prerequisiteKeys": ["street smarts"]
+    "prerequisiteKeys": ["street smarts"],
+    "name_zh": "查知关系",
+    "text_zh": "你能够快速查知两人间的关系，并以此为依据操弄它们。",
+    "prerequisites_zh": "街头智慧",
+    "benefit_zh": "在经过1分钟或更长时间的互动（interaction）或观察（observation）后，你能尝试1次DC为20的察言观色检定来评估氛围（get a hunch），以此来查知任意两个正在彼此互动的生物间的关系。如果你不了解它们正在说的语言，则会在检定中承受-5减值，而且如果这些生物与你的生物类型不同，你还会在检定中额外承受-5减值。<\/p><p>若你在检定中成功了5点或更多的话，在接下来的1小时内，你以唬骗技能对其中1个生物说出关于另外1名生物的谎言、以及使用交涉技能要求其中1个生物对抗另外1名生物的检定中获得+2加值。若你的检定失败了，则不能再尝试对相同的生物使用该能力，直至你在察言观色技能中投入了新的技能点为止。"
 }

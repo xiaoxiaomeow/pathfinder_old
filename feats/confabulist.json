@@ -6,5 +6,10 @@
     "text": "Sometimes your second attempt at a deception does the trick.",
     "prerequisites": "Bluff 9 ranks, Sense Motive 9 ranks.",
     "benefit": "When you fail to deceive someone with a Bluff check, you can immediately attempt another version of the same basic deception against that creature at a –5 penalty by downplaying the failed Bluff and quickly moving on to another one. You cannot use this ability if the first Bluff was so egregious that further checks would have been impossible (as per the Bluff skill). If you fail the second attempt, you cannot retry the Bluff check and all further attempts to perpetrate that particular deception are impossible.",
-    "normal": "When you fail a Bluff check against a creature, that creature is innately suspicious. You take a –10 penalty on future attempts to deceive that creature, or at the GM’s discretion, such attempts may be impossible."
+    "normal": "When you fail a Bluff check against a creature, that creature is innately suspicious. You take a –10 penalty on future attempts to deceive that creature, or at the GM’s discretion, such attempts may be impossible.",
+    "name_zh": "大话王",
+    "text_zh": "有时你能靠着话术重新展开相同的骗术。",
+    "prerequisites_zh": "唬骗9级，察言观色9级",
+    "benefit_zh": "当你在使用唬骗检定欺骗某人的检定中失败时，你能够立即尝试相同谎言的另一种版本（another version of the same basic deception）对抗同一名生物，不过由于你轻描淡写地忽视失败的唬骗并且快速转移话题，你会在后续的这次检定上承受-5减值。如果最初的唬骗过于离谱（egregious），导致根本无法发生（就如同唬骗技能描述中所说的一般），那么你也无法使用该能力。如果第二次尝试的唬骗仍旧失败了，那么你便无法再次重试唬骗检定，而且关于特定谎言（particular deception）的所有后续尝试都会变得不可行。",
+    "normal_zh": "当你在对抗1名生物的唬骗检定中失败时，该名生物会变得多疑（innately suspicious）。你为了欺骗该名生物所作的后续尝试会承受-10减值，依照GM的判断，此类尝试可能会变得完全不可行。"
 }

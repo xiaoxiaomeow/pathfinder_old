@@ -7,5 +7,9 @@
     "text": "The animal’s intervention completely protects its master from harm.",
     "prerequisites": "Intercept Blow, base attack bonus +6, animal companion.",
     "benefit": "When the animal companion uses Intercept Blow to intercept an opponent’s melee attack and succeeds, it can take all the damage from the intercepted attack, in which case its master takes no damage from the intercepted attack and doesn’t suffer effects that trigger on a hit.",
-    "prerequisiteKeys": ["intercept blow"]
+    "prerequisiteKeys": ["intercept blow"],
+    "name_zh": "精通拦截攻击",
+    "text_zh": "动物伙伴的介入可以让主人完全免于受到伤害。",
+    "prerequisites_zh": "“拦截攻击”，BAB+6，动物伙伴。",
+    "benefit_zh": "当动物伙伴使用“拦截攻击”拦截敌人的近战攻击并成功时，它可以承受所有被拦截攻击的伤害，此时其主人不会受到任何被拦截攻击的伤害，而且也不会承受会因命中而触发的效果。"
 }

@@ -6,5 +6,9 @@
     "text": "You know how to compromise a target’s judgment with lies.",
     "prerequisites": "Deceitful, Bluff 5 ranks.",
     "benefit": "You can flatter a creature in a protracted interaction (taking at least 1 minute) to bestow in them an inflated sense of self worth that muddles their judgment. At the end of the tirade of flattery, attempt a Bluff check against a DC equal to 10 + the creature’s HD + the creature’s Wisdom modifier or equal to 10 + the creature’s Sense Motive modifier, whichever is higher. If you succeed, the target takes a –2 penalty on Will saving throws, Wisdombased skill checks, and Wisdom ability checks for 1 hour plus an additional hour for every 5 by which your result exceeds the DC. The target can remove the effect early by taking 10 minutes to compose herself. If you fail this check, any creature who witnesses the failure is immune to your flattery from this feat for 24 hours. If you fail by 5 or more, the target’s attitude toward you decreases by 1 step.",
-    "prerequisiteKeys": ["deceitful"]
+    "prerequisiteKeys": ["deceitful"],
+    "name_zh": "戴高帽",
+    "text_zh": "你懂得如何用谎言削弱目标的判断力。",
+    "prerequisites_zh": "诈欺师，唬骗5级",
+    "benefit_zh": "你能够在1次长期互动（花费至少1分钟）中奉承1名生物，让他变得自我膨胀，从而影响其判断力。在这段奉承的最后，尝试1次唬骗检定，对抗DC为10 + 该生物的HD + 该生物的感知调整值或者10 + 该生物的察言观色调整值，以较高者为准。若你的检定成功，目标则会在意志豁免检定、基于感知的技能检定和感知属性检定上承受-2减值，持续1小时，你的检定结果每比DC高5点，就会再额外持续1小时。目标可以通过花费10分钟调整心态来提前移除该效果。如果你的检定失败，任何目击到你的失败的生物均会免疫你使用该专长作出的奉承，持续24小时。若你失败了5点或更多的话，目标对你的态度会降低1级。"
 }

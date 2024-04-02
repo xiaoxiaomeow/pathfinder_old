@@ -5,5 +5,9 @@
     "source": ["Ultimate Wilderness pg. 120"],
     "text": "The forces of nature bolster your vitality when you use wild shape.",
     "prerequisites": "Wild shape class feature.",
-    "benefit": "A number of times per day equal to your Wisdom bonus (minimum 1), when you use wild shape, you can gain a number of temporary hit points equal to your base attack bonus. These temporary hit points last for the duration of the wild shape or until they are lost."
+    "benefit": "A number of times per day equal to your Wisdom bonus (minimum 1), when you use wild shape, you can gain a number of temporary hit points equal to your base attack bonus. These temporary hit points last for the duration of the wild shape or until they are lost.",
+    "name_zh": "野性活力",
+    "text_zh": "当你使用自然变身时，自然之力会增强你的活力。",
+    "prerequisites_zh": "「自然变身」职业能力。",
+    "benefit_zh": "每天可使用你的「感知修正」次（最少1次），当你使用自然变身，你可以获得额外的临时生命，其数值等于你的基本攻击加值。这些临时生命会在自然变身持续时间一直存在，直到解除。"
 }

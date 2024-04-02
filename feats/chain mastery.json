@@ -7,5 +7,9 @@
     "text": "You wield spiked chains with effortless lethality.",
     "prerequisites": "Dex 15, Exotic Weapon Proficiency (spiked chain).",
     "benefit": "You treat a spiked chain as a one-handed martial weapon for all purposes. You can still choose to wield a spiked chain as a two-handed weapon, and if you do so, you gain a +2 bonus on combat maneuver checks to disarm or trip foes with your spiked chain.",
-    "prerequisiteKeys": ["exotic weapon proficiency"]
+    "prerequisiteKeys": ["exotic weapon proficiency"],
+    "name_zh": "锁链熟稔",
+    "text_zh": "你轻易就能让手中的刺链化为致命凶器。",
+    "prerequisites_zh": "敏捷15，擅长异种武器（刺链）",
+    "benefit_zh": "你在所有方面都将刺链视为单手军用武器。你依然可以将刺链作为双手武器来持用，且若你这么做，你在用你的刺链对敌人进行绊摔或卸武的战技检定上获得+2加值。"
 }

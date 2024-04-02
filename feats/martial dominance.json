@@ -6,5 +6,9 @@
     "source": ["Ultimate Intrigue pg. 86"],
     "text": "Your skill at arms intimidates your foes.",
     "prerequisites": "Base attack bonus +5, Intimidate 1 rank.",
-    "benefit": "You can use your base attack bonus in place of your ranks in Intimidate to determine your Intimidate skill bonus. When you confirm a critical hit against a creature, you can attempt an Intimidate check to demoralize that creature as an immediate action."
+    "benefit": "You can use your base attack bonus in place of your ranks in Intimidate to determine your Intimidate skill bonus. When you confirm a critical hit against a creature, you can attempt an Intimidate check to demoralize that creature as an immediate action.",
+    "name_zh": "武装权威",
+    "text_zh": "你很擅长用手里的家伙警告别人。",
+    "prerequisites_zh": "BAB +5，威吓1级",
+    "benefit_zh": "在判断你的威吓技能加值时，你可以使用基本攻击加值取代你在威吓技能上投入的技能点数。当你对1名生物确认了重击（confirm a critical hit）时，能够以直觉动作（immediate action）尝试1次威吓检定，用于挫败该生物的士气（demoralize）。"
 }
