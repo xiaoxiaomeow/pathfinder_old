@@ -8,18 +8,19 @@
     ],
     "source": ["Horror Adventures pg. 83"],
     "text": "Through strength, study, and intense inner reflection, you have become an expert at battering fallen opponents.",
-    "prerequisites": "Str 15, Int 13, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp<sup>UC<\/sup>, base attack bonus +6.",
+    "prerequisites": "Str 15, Int 13, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +6.",
     "benefit": "While using this style, you can use your Vicious Stomp feat against any opponent within 10 feet of you, as long as it is within your natural reach. If you don’t have the Vicious Stomp feat, you gain no benefit from this feat.",
     "normal": "The Vicious Stomp feat only works against an opponent that falls prone adjacent to you.",
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved overrun",
         "improved trip",
-        "improved unarmed strike"
+        "improved unarmed strike",
+        "vicious stomp"
     ],
     "name_zh": "残暴流",
     "text_zh": "通过角力、研习和冥想，你已经成为殴打倒地对手的专家。",
-    "prerequisites_zh": "力量15，智力13，战斗反射，精通闯越，精通绊摔，精通徒手打击，恶毒践踏，BAB+6",
+    "prerequisites_zh": "力量15，智力13，战斗反射，精通闯越，精通绊摔，精通徒手打击，恶毒践踏，BAB+6。",
     "benefit_zh": "使用此流派时，只要敌人处于你的威胁范围内，你就可以对十尺以内的一名【译注：此处应为俯卧的敌人】敌人使用你的恶毒践踏专长。如果你不具有恶毒践踏专长，那么你不会获得该专长的好处。",
     "normal_zh": "恶毒践踏专长只能对一名与你相邻的俯卧敌人使用。"
 }

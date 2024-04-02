@@ -7,6 +7,11 @@
         "Faiths of Balance pg. 24"
     ],
     "text": "Magical insight helps you evade attacks.",
-    "prerequisites": "Arcane Shield<sup>APG<\/sup>, arcane spellcaster, caster level 10th, worshiper of Nethys.",
-    "benefit": "Whenever you use Arcane Shield, you also gain a +1 insight bonus to AC for 1 round."
+    "prerequisites": "Arcane Shield, arcane spellcaster, caster level 10th, worshiper of Nethys.",
+    "benefit": "Whenever you use Arcane Shield, you also gain a +1 insight bonus to AC for 1 round.",
+    "prerequisiteKeys": ["arcane shield"],
+    "name_zh": "洞观奥秘",
+    "text_zh": "奥术魔法的力量帮助你洞悉对手的招数。",
+    "prerequisites_zh": "信仰内希斯，奥能之盾，施法者等级10。",
+    "benefit_zh": "当你启动奥能之盾专长时，你还会在一轮内在AC上获得+1洞察加值。"
 }

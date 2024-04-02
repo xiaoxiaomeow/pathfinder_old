@@ -9,13 +9,13 @@
     ],
     "text": "Your dashing style and fluid rapier forms allow you to use agility rather than brute force to fell your foes.",
     "prerequisites": "Dex 13, Weapon Finesse, Weapon Focus (rapier).",
-    "benefit": "When wielding a rapier one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon’s damage. The rapier must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or anytime another hand is otherwise occupied.<br><br> In addition, if you have the panache<sup>ACG<\/sup> class feature, you gain a +2 bonus to your CMD against attempts to disarm you of your rapier while you have at least 1 panache point.",
+    "benefit": "When wielding a rapier one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon’s damage. The rapier must be one appropriate for your size. You do not gain this benefit while fighting with two weapons or using flurry of blows, or anytime another hand is otherwise occupied.<br><br> In addition, if you have the panache class feature, you gain a +2 bonus to your CMD against attempts to disarm you of your rapier while you have at least 1 panache point.",
     "prerequisiteKeys":     [
         "weapon finesse",
         "weapon focus"
     ],
     "name_zh": "优雅挑刺",
     "text_zh": "你那优雅的架势和刺剑组合起来，使得你能够以灵活性、而非蛮力来制服敌人。",
-    "prerequisites_zh": "敏捷 13，武器娴熟，武器专攻（细剑）",
+    "prerequisites_zh": "敏捷 13，武器娴熟，武器专攻（细剑）。",
     "benefit_zh": "当你以单手持用细剑（rapier）时，能够将敏捷调整值取代力量调整值，以应用至该武器的伤害上。这把细剑必须符合你的体型。当你以双武器或者使用疾风连击（flurry of blows）进行战斗、或者另一只手被占用（occupied）时，便无法获得该好处。<\/p><p>此外，若你具有派头（panache；ACG）职业能力，且至少还有1点时髦值（panache point）时，你会在对抗向你的细剑进行卸武（disarm）尝试中，CMD获得+2加值。"
 }

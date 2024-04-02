@@ -6,5 +6,10 @@
     "text": "You can use a divine focus to cast arcane spells.",
     "prerequisites": "Knowledge (religion) 1 rank, ability to cast arcane spells.",
     "benefit": "By using a divine focus as part of casting, you can cast any spell with a material component costing the value of that divine focus (maximum 100 gp) or less without needing that component. For example, if you use a silver holy symbol worth 25 gp, you do not have to provide material components for an arcane spell if its components are worth 25 gp or less. The casting of the spell still provokes attacks of opportunity as normal. If the spell requires a material component that costs more than the value of the divine focus, you must have the material component on hand to cast the spell, as normal.",
-    "normal": "A divine focus has no effect when used as a component in arcane spells."
+    "normal": "A divine focus has no effect when used as a component in arcane spells.",
+    "name_zh": "虚假法器",
+    "text_zh": "你能够使用法器施放奥术。",
+    "prerequisites_zh": "知识（宗教）1级，施放奥术的能力。",
+    "benefit_zh": "通过将使用法器（divine focus）作为施法的一部分，你能够施放任何需要价值为该法器的材料（material）成分（最高100gp），或者不足这一价值，甚至不需要该成分的法术。举例说明：如果你使用价值25gp的银质圣徽（silver holy symbol），你就不需为了奥术提供任何价值25gp或更低的材料作为材料成分（material components）。施放法术仍旧会如常引起借机攻击。如果法术需求的材料成分的价值比你的法器价值要高，你手头就必须拥有等值的材料成分才能如通常一般施放法术。",
+    "normal_zh": "使用法器作为奥术的成分没有任何效果。"
 }

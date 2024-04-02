@@ -8,13 +8,19 @@
     ],
     "source": ["Inner Sea Combat pg. 17"],
     "text": "You can redirect your allies’ poorly aimed ranged attacks with incredible accuracy.",
-    "prerequisites": "Amateur Gunslinger<sup>UC<\/sup> or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot.",
+    "prerequisites": "Amateur Gunslinger or the grit class feature, Deadly Aim, Point-Blank Shot, Precise Shot.",
     "benefit": "As long as you have at least 1 grit point, after an ally has made a ranged attack roll but before the results of the roll have been revealed, you can fire a loaded firearm at the volley as it moves toward its target, redirecting its path. Make an attack roll using your highest attack bonus, and use your result in place of your ally’s original attack roll. On a successful hit, your ally’s attack deals damage as normal. You may perform this action a number of times per round up to your Wisdom bonus (minimum 1).",
     "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "By spending 4 stamina points, you can use this feat an additional time per round.",
     "prerequisiteKeys":     [
+        "amateur gunslinger",
         "deadly aim",
         "point-blank shot",
         "precise shot"
-    ]
+    ],
+    "name_zh": "撞球射艺",
+    "text_zh": "你能以让人咋舌的精准度改变盟友那糟糕的射击弹道。",
+    "prerequisites_zh": "业余铳士或勇毅（Grit）职业能力，致命瞄准，近距射击，精准射击。",
+    "benefit_zh": "只要你至少还保留1点勇毅，那么你就能在一个盟友做出远程攻击检定，但是在检定结果揭示出来之前，使用已经装填好的火器对正在向着目标运动的弹药开火以变更它的路径。使用你最高的攻击加值进行一次攻击检定，并且使用你的结果来替代盟友原本的攻击检定。若成功命中，那么盟友的攻击会如常造成伤害。你在每轮中可以执行此动作的次数至多等同于你的感知加值（最低为1）。",
+    "staminaText_zh": "通过消耗4点耐力，你可以在每轮中额外使用一次该专长。"
 }

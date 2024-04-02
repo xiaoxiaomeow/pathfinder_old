@@ -5,6 +5,7 @@
     "descriptors": ["Teamwork"],
     "source": ["Antihero's Handbook pg. 10"],
     "text": "When you antagonize your foes, you can redirect their enmity to your ally.",
-    "prerequisites": "Antagonize<sup>UM<\/sup>.",
-    "benefit": "When you succeed at a skill check using Antagonize, you can cause the target creature to focus its efforts on a willing ally who also has this feat, as if the ally had been the one to use the ability."
+    "prerequisites": "Antagonize.",
+    "benefit": "When you succeed at a skill check using Antagonize, you can cause the target creature to focus its efforts on a willing ally who also has this feat, as if the ally had been the one to use the ability.",
+    "prerequisiteKeys": ["antagonize"]
 }

@@ -8,7 +8,10 @@
     ],
     "source": ["Weapon Master's Handbook pg. 13"],
     "text": "You inspire great fear in your enemies.",
-    "prerequisites": "Bullying Blow<sup>ARG<\/sup>, Intimidating Prowess, Intimidate 3 ranks, weapon familiarity racial trait.",
+    "prerequisites": "Bullying Blow, Intimidating Prowess, Intimidate 3 ranks, weapon familiarity racial trait.",
     "benefit": "While wielding a greataxe, a falchion, or any melee weapon that has “orc” in its name, you can use the Bullying Blow feat with the first attack of a full-attack action or as part of a standard action to make one or more attacks (such as with the Cleave feat).",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys":     [
+        "bullying blow",
+        "intimidating prowess"
+    ]
 }

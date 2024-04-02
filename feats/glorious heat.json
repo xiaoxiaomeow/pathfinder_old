@@ -8,5 +8,9 @@
     ],
     "text": "When you cast divine fire spells, their heat empowers nearby allies.",
     "prerequisites": "Ability to cast divine spells, caster level 5th, worshiper of Sarenrae.",
-    "benefit": "Whenever you cast a divine spell with the fire descriptor, choose a single ally within 30 feet that you can see. That ally heals a number of hit points equal to half your level and gains a +1 morale bonus on attack rolls until the end of its next turn."
+    "benefit": "Whenever you cast a divine spell with the fire descriptor, choose a single ally within 30 feet that you can see. That ally heals a number of hit points equal to half your level and gains a +1 morale bonus on attack rolls until the end of its next turn.",
+    "name_zh": "火热荣耀",
+    "text_zh": "先决条件：可以施放神术，施法者等级5，信仰沙莱伦",
+    "prerequisites_zh": "可以施放神术，施法者等级5，信仰沙莱伦。",
+    "benefit_zh": "当你施放一个具有火焰描述符的神术时，选择一个你可以看见且距离你30尺内的盟友，你可以治疗他相当于法术环数的生命值，并且他在攻击检定上获得+1士气加值，直到他的下一轮结束。"
 }

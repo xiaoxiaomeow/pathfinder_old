@@ -4,12 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Draconic%20Magic",
     "source": ["Monster Codex pg. 129"],
     "text": "Your draconic aspect manifests as magical might.",
-    "prerequisites": "Draconic Aspect<sup>ARG<\/sup>, kobold.",
-    "benefit": "You gain a group of spell-like abilities based on the color of your dragon aspect. Each spell-like ability can be used once per day, and the DC of any of these spelllike abilities is 10 + 1/2 your Hit Dice + Charisma modifier.<br><br> <i>Black<\/i>: <i>Corrosive touch<\/i><sup>UM, †<\/sup>, <i>darkness<\/i>.<br> <i>Blue<\/i>: <i>Minor image<\/i>, <i>shocking grasp<\/i>†.<br> <i>Green<\/i>: <i>Entangle<\/i>†, <i>gust of wind<\/i>.<br> <i>Red<\/i>: <i>Burning hands<\/i>†, <i>pyrotechnics<\/i>.<br> <i>White<\/i>: <i>Burning hands<\/i>† (deals cold damage instead of fire), <i>fog cloud<\/i>.",
-    "special": "You can use this feat instead of Draconic Breath<sup>ARG<\/sup> or Draconic Glide<sup>ARG<\/sup> to qualify for the Draconic Paragon<sup>ARG<\/sup> feat. If you have this feat and Draconic Paragon, you can use the spell-like ability marked with a dagger (†) twice per day.",
+    "prerequisites": "Draconic Aspect, kobold.",
+    "benefit": "You gain a group of spell-like abilities based on the color of your dragon aspect. Each spell-like ability can be used once per day, and the DC of any of these spelllike abilities is 10 + 1/2 your Hit Dice + Charisma modifier.<br><br> <i>Black<\/i>: <i>Corrosive touch<\/i>, <i>darkness<\/i>.<br> <i>Blue<\/i>: <i>Minor image<\/i>, <i>shocking grasp<\/i>†.<br> <i>Green<\/i>: <i>Entangle<\/i>†, <i>gust of wind<\/i>.<br> <i>Red<\/i>: <i>Burning hands<\/i>†, <i>pyrotechnics<\/i>.<br> <i>White<\/i>: <i>Burning hands<\/i>† (deals cold damage instead of fire), <i>fog cloud<\/i>.",
+    "special": "You can use this feat instead of Draconic Breath or Draconic Glide to qualify for the Draconic Paragon feat. If you have this feat and Draconic Paragon, you can use the spell-like ability marked with a dagger (†) twice per day.",
+    "prerequisiteKeys": ["draconic aspect"],
     "name_zh": "龙血魔法",
     "text_zh": "你的龙类血统为你提供了一些天生的魔力。",
-    "prerequisites_zh": "龙之相（Draconic Aspect）ARG，狗头人",
+    "prerequisites_zh": "龙之相（Draconic Aspect）ARG，狗头人。",
     "benefit_zh": "你获得一些类法术能力，具体的法术类型则取决于你拥有的龙类颜色，这些类法术能力每天只能使用一次。这些类法术能力的DC=10+你的HD的1/2+你的魅力调整值。<\/p><p>黑龙：酸蚀之触*，黑暗术<\/p><p>蓝龙：无声幻影，电爪*<\/p><p>绿龙：纠缠术*，造风术<\/p><p>红龙：燃烧之手*，烟火术<\/p><p>白龙：燃烧之手（造成寒冷而非火焰伤害）*，重雾术",
     "special_zh": "你可以以此专长取代龙之息（Draconic Breath）ARG或是龙之滑翔（Draconic Glide）ARG专长以作为选取龙之典范（Draconic Paragon）ARG专长的先决条件之一。如果你同时拥有本专长和龙之典范专长，你可以每天使用两次标注了*号的类法术能力而非一次。"
 }

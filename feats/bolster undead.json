@@ -5,5 +5,9 @@
     "source": ["Inner Sea Gods pg. 208"],
     "text": "You can fortify undead against positive energy.",
     "prerequisites": "Channel energy 6d6, worshiper of Urgathoa.",
-    "benefit": "Whenever you channel negative energy to heal undead creatures, you grant all undead you heal +1 channel resistance (or a +1 bonus to their existing channel resistance) for a number of rounds equal to your Charisma modifier (minimum 1 round)."
+    "benefit": "Whenever you channel negative energy to heal undead creatures, you grant all undead you heal +1 channel resistance (or a +1 bonus to their existing channel resistance) for a number of rounds equal to your Charisma modifier (minimum 1 round).",
+    "name_zh": "支持亡灵",
+    "text_zh": "你可以增强自己控制的不死者，让它们无惧正能量的效力。",
+    "prerequisites_zh": "引导能量6d6，信仰厄迦图娅。",
+    "benefit_zh": "每当你通过引导能量能量治疗不死生物时，你可以让所有被治疗的不死生物获得+1引导抗力（或是在现有的引导抗力上额外+1），效果持续等同于你的魅力调整值轮（最小1轮）。"
 }

@@ -6,13 +6,13 @@
     "source": ["Adventurer's Guide pg. 26"],
     "text": "You’ve gained enough control over your body to translate strength into swiftness.",
     "prerequisites": "Con 13 or Wis 13, Enhanced Morale, Exotic Weapon Proficiency (Aldori dueling sword), Iron Will, base attack bonus +4.",
-    "benefit": "Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via <i>bull’s strength<\/i> or a skald’s inspired rage<sup>ACG<\/sup> performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change.",
+    "benefit": "Whenever an effect would grant you an enhancement or morale bonus to your Strength score (such as via <i>bull’s strength<\/i> or a skald’s inspired rage performance), you can instead apply that bonus to your Dexterity score. You make this choice when you first gain the bonus. The bonus type does not change.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
         "iron will"
     ],
     "name_zh": "触力旁通",
     "text_zh": "你对自己身躯的控制炉火纯青，以至于可以将力量迸发为灵活度。",
-    "prerequisites_zh": "体质或感知13，专长Enhanced Morale，异种武器擅长（奥多里决斗剑），钢铁意志，BAB+4",
+    "prerequisites_zh": "体质或感知13，专长Enhanced Morale，异种武器擅长（奥多里决斗剑），钢铁意志，BAB+4。",
     "benefit_zh": "当一个效果能给你的力量属性带来增强加值或士气加值时（如牛之力量或歌者的激发狂暴），你可以将该加值应用到敏捷上。你必须在得到这个加值的一开始做出决定，一旦决定不能更改。<\/p><p>（译注：Enhanced Morale专长从未存在过，故请DM判断此专长是否可用，如果可用的话请删除这个先决条件。）"
 }

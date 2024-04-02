@@ -8,6 +8,7 @@
     ],
     "source": ["Legacy of the First World pg. 19"],
     "text": "Your precise timing and smooth teamwork allow you to strike a foe where it hurts.",
-    "prerequisites": "Dex 13, Precise Strike<sup>APG<\/sup>, base attack bonus +4.",
-    "benefit": "Whenever you deal additional damage with Precise Strike, you also deal 1 point of bleed damage. This bleed damage does not stack with itself."
+    "prerequisites": "Dex 13, Precise Strike, base attack bonus +4.",
+    "benefit": "Whenever you deal additional damage with Precise Strike, you also deal 1 point of bleed damage. This bleed damage does not stack with itself.",
+    "prerequisiteKeys": ["precise strike"]
 }

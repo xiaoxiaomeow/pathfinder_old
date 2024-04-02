@@ -12,5 +12,10 @@
     "benefit": "When attempting a performance combat check while raging, you may, as a free action, expend a number of your daily rounds of rage up to half your barbarian level to create a display of savagery. You gain a bonus on the performance combat check equal to half the number of rounds expended, rounded down. If you expend all your remaining rounds of rage in this manner, thus ending your rage, you gain an additional +2 bonus on the check.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "You can spend stamina points instead of rounds of rage when using Savage Surge.",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys": ["intimidating prowess"],
+    "name_zh": "汹涌狂怒",
+    "text_zh": "你能够控制自身的狂野之力，把它变为让观众疯狂的暴行，以此来帮助你在竞技场中获得优势。",
+    "prerequisites_zh": "威逼，狂暴（rage）职业能力。",
+    "benefit_zh": "当你在狂暴中尝试演武检定时，你可以以自由动作花费一定轮数的每日狂暴轮数，最高花费数量为你的野蛮人等级的一半，以此来进行野蛮的武力展示。你的演武检定会获得加值，该加值为你所花费的狂暴轮数的一半，向下取整。若你以此方式花费所有剩余的狂暴轮数，如此会结束你的狂暴，而你会在检定中获得额外+2加值。",
+    "staminaText_zh": "你可以消耗耐力点而不是狂暴轮数来使用汹涌狂怒。"
 }

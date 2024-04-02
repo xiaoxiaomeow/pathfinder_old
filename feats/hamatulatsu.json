@@ -16,5 +16,11 @@
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "尖刺魔之击",
+    "text_zh": "你精通了这种致命的战斗技艺，创造这种武艺的灵感源自尖刺魔那骇人的攻击。",
+    "prerequisites_zh": "精通徒手打击（Improved Unarmed Strike），武器专攻：徒手打击（Weapon Focus：unarmed strike）。",
+    "benefit_zh": "你的徒手打击能造成钝击或穿刺伤害。当你攻击敌人时决定你造成何种种类的伤害，但是你同时只能从中选择一种。如果你在使用徒手打击造成穿刺伤害时对敌人造成重击，那么这次攻击造成的疼痛会使得敌人恶心（sickened）1轮（如果目标已经恶心，则恍惚staggered 1轮）。在1轮之内对同一个敌人造成多次重击并不会增加恶心或恍惚状态的持续时间。",
+    "special_zh": "武僧可以在6级时将尖刺魔之击作为替换奖励专长进行选择，即使他并不满足这项专长的先决条件。这种格斗术通常来说只会教授给金怒魔姐妹会的女性（women of the Sisterhood of the Golden Erinyes）。",
+    "staminaText_zh": "通过消耗5点耐力，你可以将一次徒手击打做出的攻击在决定你从尖刺魔之击获得的好处时视为重击。"
 }

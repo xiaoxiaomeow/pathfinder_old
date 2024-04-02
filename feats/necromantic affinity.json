@@ -5,5 +5,9 @@
     "source": ["Inner Sea World Guide pg. 287"],
     "text": "Long exposure to necromantic energies has granted you a small measure of resistance against them.",
     "prerequisites": "Con 15.",
-    "benefit": "You gain a +2 bonus on saving throws made to resist spells and effects that utilize negative energy, cause negative levels, or cause ability damage, ability drain, or ability penalties. In addition, damage caused by inflict spells heals you as if you were an undead creature, but you also take damage from cure spells."
+    "benefit": "You gain a +2 bonus on saving throws made to resist spells and effects that utilize negative energy, cause negative levels, or cause ability damage, ability drain, or ability penalties. In addition, damage caused by inflict spells heals you as if you were an undead creature, but you also take damage from cure spells.",
+    "name_zh": "死灵术亲和",
+    "text_zh": "长时间暴露在死灵能量之下，使得你在抵御它们时获得了小小的变化。",
+    "prerequisites_zh": "体质15。",
+    "benefit_zh": "你在对抗任何利用负能量（utilize negative energy），造成负向等级（cause negative levels），造成属性伤害（cause ability damage），属性吸取（ability drain）或者属性罚值（ability penalties）的法术或效果时，豁免获得+2加值。此外，造成伤害类法术（inflict spells）会治疗你，就如同你是不死生物一般，但是你会被治疗伤害类法术（cure spells）所伤害。"
 }

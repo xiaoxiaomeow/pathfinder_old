@@ -8,12 +8,18 @@
     ],
     "source": ["Inner Sea Combat pg. 17"],
     "text": "Life in the Mana Wastes, where magic has unpredictable and often fatal effects, has taught you to disable spellcasters with your firearms.",
-    "prerequisites": "Amateur Gunslinger<sup>UC<\/sup> or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4.",
+    "prerequisites": "Amateur Gunslinger or the grit class feature, Point-Blank Shot, Precise Shot, base attack bonus +4.",
     "benefit": "If you ready a ranged attack with a firearm to attack a spellcaster when he begins casting a spell and successfully hit your opponent, you can expend 1 grit point to increase the target’s concentration check DC for being injured while casting by 5.",
     "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "When using Casterbane Shot, you can spend up to 5 stamina points to increase the DC of the concentration check imposed by the feat by an amount equal to the number of stamina points spent.",
     "prerequisiteKeys":     [
+        "amateur gunslinger",
         "point-blank shot",
         "precise shot"
-    ]
+    ],
+    "name_zh": "破法枪击",
+    "text_zh": "在法力荒漠中生活的人们明白，此处的魔力是不可预知并且通常会产生致命的影响，这使得你很善于使用火器破坏他人施法。",
+    "prerequisites_zh": "业余铳士或勇毅（Grit）职业能力，近距射击，精准射击，基本攻击加值+4。",
+    "benefit_zh": "若你使用准备动作（ready），指定当施法者开始施法时使用火器对其进行远程攻击，而且成功命中敌人时，你能够花费1点勇毅来将目标由于施法时受伤而进行的专注检定DC增加5点。",
+    "staminaText_zh": "当你使用破法枪击时，你可以消耗至多5点耐力来提升由该专长造成的专注检定的DC，提升的点数等于你消耗的耐力。"
 }

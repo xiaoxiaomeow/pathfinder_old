@@ -5,11 +5,12 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 14"],
     "text": "You can apply your ranged fighting feats to melee attacks.",
-    "prerequisites": "Empty Quiver Style, Rapid Shot, Stabbing Shot<sup>APG<\/sup>, Weapon Focus with the chosen weapon.",
+    "prerequisites": "Empty Quiver Style, Rapid Shot, Stabbing Shot, Weapon Focus with the chosen weapon.",
     "benefit": "While using Empty Quiver Style, you can apply any feats and class abilities you possess that modify your ranged attack rolls and damage rolls with the chosen weapon to melee attack rolls and damage rolls made with that weapon. Additionally, you are considered to be threatening the area around you as if you were wielding a melee weapon.",
     "prerequisiteKeys":     [
         "empty quiver style",
         "rapid shot",
+        "stabbing shot",
         "weapon focus"
     ]
 }

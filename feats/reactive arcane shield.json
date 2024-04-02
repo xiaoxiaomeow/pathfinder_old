@@ -4,6 +4,7 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Reactive%20Arcane%20Shield",
     "source": ["Melee Tactics Toolbox pg. 15"],
     "text": "Your arcane shield responds to threats even if you’re caught off guard.",
-    "prerequisites": "Arcane Shield<sup>APG<\/sup>, arcane spellcaster, caster level 12th.",
-    "benefit": "If you are aware of an attack against you that has already been declared and you choose to use the Arcane Shield<sup>APG<\/sup> feat, the immediate action to activate the feat occurs before the attack roll against you is resolved. In addition, all adjacent allies also gain the feat’s deflection bonus to AC for 1 round."
+    "prerequisites": "Arcane Shield, arcane spellcaster, caster level 12th.",
+    "benefit": "If you are aware of an attack against you that has already been declared and you choose to use the Arcane Shield feat, the immediate action to activate the feat occurs before the attack roll against you is resolved. In addition, all adjacent allies also gain the feat’s deflection bonus to AC for 1 round.",
+    "prerequisiteKeys": ["arcane shield"]
 }

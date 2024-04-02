@@ -5,5 +5,9 @@
     "source": ["Inner Sea Gods pg. 215"],
     "text": "Calling on the power of Erastil, you can fire an arrow that heals instead of harms.",
     "prerequisites": "Ability to cast cure spells, proficient with longbow, worshiper of Erastil.",
-    "benefit": "Once per day when you cast a cure spell, you can replace the normal somatic component with drawing a longbow to create a shaft of green glowing light. When you fire the bow as a part of casting the spell and hit your target with a ranged touch attack, the green shaft of light cures the target as if it were touched by the cure spell."
+    "benefit": "Once per day when you cast a cure spell, you can replace the normal somatic component with drawing a longbow to create a shaft of green glowing light. When you fire the bow as a part of casting the spell and hit your target with a ranged touch attack, the green shaft of light cures the target as if it were touched by the cure spell.",
+    "name_zh": "救命箭",
+    "text_zh": "先决条件：可以施放治疗伤害法术，擅长长弓，信仰埃拉斯蒂尔",
+    "prerequisites_zh": "可以施放治疗伤害法术，擅长长弓，信仰埃拉斯蒂尔。",
+    "benefit_zh": "每天一次，当你在施放一个治疗伤害法术时，你可以拉开长弓，将法术的效果凝聚为一支发出绿色萤光的能量矢。作为施法动作的一部分，你可以用这只箭矢射击你的目标，进行一次远程接触攻击检定。如果成功命中，则视为法术成功的接触了目标并造成治疗。"
 }

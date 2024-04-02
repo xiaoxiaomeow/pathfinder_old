@@ -5,5 +5,9 @@
     "source": ["Inner Sea Gods pg. 212"],
     "text": "You can channel the shackles of Hell onto your foes.",
     "prerequisites": "Channel energy 5d6; worshiper of an archdevil, infernal duke, malbranche, or whore queen.",
-    "benefit": "Once per day when you channel negative energy to damage living creatures, you can attempt to affect damaged creatures with a <i>dimensional anchor<\/i>. Those damaged must make a successful Will save (DC equal to the DC of the channel effect) in addition to the normal Will save to halve damage from the channeled energy. Those that fail their save against the channeled energy take a –4 penalty on their saving throw against the <i>dimensional anchor <\/i>effect. Those that fail their second Will save are affected by <i>dimensional anchor <\/i>for a number of minutes equal to your Charisma modifier (minimum 1 minute)."
+    "benefit": "Once per day when you channel negative energy to damage living creatures, you can attempt to affect damaged creatures with a <i>dimensional anchor<\/i>. Those damaged must make a successful Will save (DC equal to the DC of the channel effect) in addition to the normal Will save to halve damage from the channeled energy. Those that fail their save against the channeled energy take a –4 penalty on their saving throw against the <i>dimensional anchor <\/i>effect. Those that fail their second Will save are affected by <i>dimensional anchor <\/i>for a number of minutes equal to your Charisma modifier (minimum 1 minute).",
+    "name_zh": "炼狱镣铐",
+    "text_zh": "先决条件：引导能量5d6，信仰魔鬼大公，炼狱公爵，雄霸魔（Malbranche）或娼妇女王（Whore Queen）之一",
+    "prerequisites_zh": "引导能量5d6，信仰魔鬼大公，炼狱公爵，雄霸魔（Malbranche）或娼妇女王（Whore Queen）之一。",
+    "benefit_zh": "每天一次，当你引导负能量伤害活物时，你可以尝试使被伤害的生物受到法术次元锚的影响。受到引导能量伤害的生物必须通过一个DC等同于你的引导能量DC的意志检定（如果在对抗引导负能量的意志检定中失败，该检定还会承受-4减值），否则将受到法术次元锚的影响，持续等同于你的魅力调整值分钟（至少一分钟）。"
 }

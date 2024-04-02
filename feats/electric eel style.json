@@ -8,7 +8,10 @@
     ],
     "source": ["Blood of the Sea pg. 11"],
     "text": "You have learned how to harness electrical energy to momentarily disorient your foes.",
-    "prerequisites": "Wis 13, Elemental Fist<sup>APG<\/sup>, Improved Unarmed Strike, base attack bonus +9 or monk level 5th.",
+    "prerequisites": "Wis 13, Elemental Fist, Improved Unarmed Strike, base attack bonus +9 or monk level 5th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide<\/i> 158) attempt per day. While you are in this style, your Elemental Fist attack deals electricity damage. When a creature takes electricity damage from your Elemental Fist attack, you gain a +4 bonus for 1 round on combat maneuver checks to grapple the creature.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys":     [
+        "elemental fist",
+        "improved unarmed strike"
+    ]
 }

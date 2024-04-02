@@ -8,5 +8,9 @@
     ],
     "text": "Your negative energy causes despair in those you harm.",
     "prerequisites": "Channel energy class feature, worshiper of Urgathoa.",
-    "benefit": "When you damage a creature by channeling negative energy, you fill your foe with fear. A creature that fails its Will save against your channeled energy also becomes shaken for a number of rounds equal to the number of dice you roll for your channel energy ability."
+    "benefit": "When you damage a creature by channeling negative energy, you fill your foe with fear. A creature that fails its Will save against your channeled energy also becomes shaken for a number of rounds equal to the number of dice you roll for your channel energy ability.",
+    "name_zh": "崩溃意志",
+    "text_zh": "先决条件：引导负能量职业能力，信仰厄加图娅",
+    "prerequisites_zh": "引导负能量职业能力，信仰厄加图娅。",
+    "benefit_zh": "当你使用引导负能量能力伤害一个生物时，你将同时在他心中植入恐惧。受到你的引导负能量能力影响的生物如果未能成功通过意志检定，那么他们将受到一半负能量伤害，但同时会战栗相当于你的引导骰数轮的时间（引导负能量1d6战栗1轮，2d6战栗2轮，以此类推）。"
 }

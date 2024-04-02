@@ -6,5 +6,9 @@
     "text": "When using a magic item, you can trick onlookers into thinking you used spellcasting instead.",
     "prerequisites": "Magical Aptitude, Bluff 1 rank, Sleight of Hand 1 rank.",
     "benefit": "When you use a magic item or a spelllike ability to create a magical effect, you may add additional magic-seeming words and hand gestures to trick onlookers into believing you cast the spell yourself. If using an item that is recognizable as a magical implement (such as a wand or ring), you can trick viewers into thinking you are just using the item as a focus component. Onlookers who have no ranks in Spellcraft have no knowledge of what is genuine spellcasting, and automatically believe you are casting a spell.<br><br> If an onlooker attempts a Spellcraft check to identify your “casting,” his check is opposed by your Bluff check. If he succeeds, he realizes the deception. If he fails, he believes you cast the spell. Regardless of the result of that opposed check, he uses the result of that Spellcraft check to identify the “spell” you cast, except the DC is 20 + the spell’s level instead of 15 + the spell’s level.",
-    "prerequisiteKeys": ["magical aptitude"]
+    "prerequisiteKeys": ["magical aptitude"],
+    "name_zh": "虚假施法",
+    "text_zh": "当使用魔法物品时，你能够欺骗旁观者，让他们误以为是你在施放法术。",
+    "prerequisites_zh": "魔法天赋（Magical Aptitude，核心专长），唬骗1级，巧手1级。",
+    "benefit_zh": "当你使用魔法物品（magic item）或类法术能力以创造魔法效果时，可以添加好似施咒一般的语言以及手势，来欺骗旁观者以相信这是你在以自己的能力施放法术。如果使用的物品是可以被辨识魔法器具（比如魔杖或戒指），你能够欺骗旁观者，使他们认为你只是使用物品作为器材成分（focus component）。若旁观者在法术辨识技能上没有级别，则无法了解真正施法的是什么，并且自动相信你正在施法。<\/p><p>如果旁观者试图使用法术辨识检定仪鉴别你的“施法”，他的检定会与你的唬骗检定对抗。如果他成功，则会发现这一骗局。如果他失败，他会相信你施放了法术。无论对抗检定的结果为何，他都能使用该法术辨识检定鉴别出你所施放的“法术”，不过DC为20 + 法术的等级，而非原本的15 + 法术的等级。"
 }

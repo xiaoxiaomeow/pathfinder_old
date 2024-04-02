@@ -9,5 +9,9 @@
     "text": "Your summoned natural allies may walk the wild parts of the world unimpeded.",
     "prerequisites": "Augmented Summoning, Spell Focus (conjuration), ability to cast <i>summon nature’s ally<\/i>, caster level 6th, worshiper of Erastil.",
     "benefit": "Creatures you summon with <i>summon nature’s ally <\/i>can move through any sort of undergrowth (such as natural thorns, briars, and similar terrain) at their normal speeds without taking damage or suffering other impairment. Thorns, briars, and undergrowth areas that have been magically manipulated to impede motion, however, still affect summoned creatures.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "灵巧自然盟友",
+    "text_zh": "先决条件：增强召唤，法术专攻（咒法系），施法者等级6，能够施放法术召唤自然盟友，信仰埃拉斯蒂尔",
+    "prerequisites_zh": "增强召唤，法术专攻（咒法系），施法者等级6，能够施放法术召唤自然盟友，信仰埃拉斯蒂尔。",
+    "benefit_zh": "你通过召唤自然盟友法术召唤的生物可以穿越自然灌木（如荆棘，石楠和类似的地形）而不受到伤害和其他减值，由魔法效果制造的此类地形仍然会影响你召唤的生物。"
 }

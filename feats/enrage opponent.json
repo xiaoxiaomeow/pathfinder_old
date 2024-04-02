@@ -8,11 +8,14 @@
     ],
     "source": ["Ultimate Intrigue pg. 82"],
     "text": "With a quip or a suggestive gesture, you send your enemy into a tizzy.",
-    "prerequisites": "Cha 13, Amateur Swashbuckler<sup>ACG<\/sup> or panache class feature<sup>ACG<\/sup>, Persuasive.",
+    "prerequisites": "Cha 13, Amateur Swashbuckler or panache class feature, Persuasive.",
     "benefit": "As a swift action, you can spend 1 panache point to enrage a creature with an Intelligence of 4 or more within 60 feet that can see or hear you. Attempt an Intimidate check as if to demoralize the creature. If you succeed, the creature takes a –2 penalty to its AC until it has made at least one attack against you (including area effects that include you) or until it can no longer see or hear you. You can have only one opponent enraged at you with this feat at a time, and once you’ve enraged a creature, you can’t enrage it again for 24 hours.",
-    "prerequisiteKeys": ["persuasive"],
+    "prerequisiteKeys":     [
+        "amateur swashbuckler",
+        "persuasive"
+    ],
     "name_zh": "激怒敌人",
     "text_zh": "靠着几句嘲弄或者挑衅的动作，你能把敌人气得牙齿发痒。",
-    "prerequisites_zh": "魅力 13，业余剑客或派头（panache；ACG）职业能力，谈判专家",
+    "prerequisites_zh": "魅力 13，业余剑客或派头（panache；ACG）职业能力，谈判专家。",
     "benefit_zh": "以迅捷动作（swift action），你能够花费1点时髦值（panache point）来激怒（enrage）1名60尺范围内、智力为4或更多、且能够看到或听到你的生物。就如同挫败该生物士气一般尝试1次威吓检定。如果你成功了，那么该生物的AC会承受-2减值，直至它至少对你作出1次攻击（包括将你包含在内的区域型攻击）或者直至它不再能看到或听到你为止。在同一时间内，你只能以此专长激怒1名敌人对你发火，而且一旦你激怒了1名生物，则在24小时内无法再次激怒它。"
 }

@@ -12,5 +12,10 @@
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
         "two-weapon fighting"
-    ]
+    ],
+    "name_zh": "血腥双刀",
+    "text_zh": "模仿着螳螂神的威能，你的双刀削斩既深且狠，让对手鲜血喷涌。",
+    "prerequisites_zh": "敏捷15，擅长异种武器（锯齿刀），双武器战斗，信仰阿卡埃克克（Achaekek）。",
+    "benefit_zh": "每当你成功的同时以主手和副手武器攻击命中一个目标，并且这两把武器都是锯齿刀的话，你会在造成正常伤害以外多造成1点流血伤害。",
+    "staminaText_zh": "在使用血腥双刀造成流血伤害时，你可以消耗2点耐力提升你对对手造成的流血伤害1点。"
 }

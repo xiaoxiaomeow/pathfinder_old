@@ -5,5 +5,9 @@
     "source": ["Inner Sea Gods pg. 207"],
     "text": "The teachings of your deity help you keep your secrets safe.",
     "prerequisites": "Caster level 3rd, ability to cast at least one glamer or figment, worshiper of Sivanah.",
-    "benefit": "Once per day when you create a glamer or figment effect, you can empower the effect so that the DC to disbelieve it is 2 higher than normal."
+    "benefit": "Once per day when you create a glamer or figment effect, you can empower the effect so that the DC to disbelieve it is 2 higher than normal.",
+    "name_zh": "迷信幻纱",
+    "text_zh": "你所信奉的神祇教谕使你可以安全的保护自己的秘密。",
+    "prerequisites_zh": "施法者等级3，可以施放至少一个具有五官幻象（Glamer）或虚假幻象（Figment）子系的法术，信仰西芙娜（Sivanah）。",
+    "benefit_zh": "每天一次，你在创造一个具有五官幻象（Glamer）或虚假幻象（Figment）的效果时，你可以使识破此效果的DC+2."
 }

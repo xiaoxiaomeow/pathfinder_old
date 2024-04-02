@@ -12,5 +12,10 @@
     "benefit": "When you confirm a critical hit against a creature, you can choose to forgo the effect of the critical hit and grant a critical hit to the next ally who hits that creature with a melee attack before the start of your next turn. Your attack only deals normal damage, and the next ally to hit the target automatically confirms the attack as a critical hit.",
     "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "When you confirm a critical hit, you can spend 10 stamina points to use Butterfly’s Sting without forgoing your own critical hit.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "彩蝶毒蛰",
+    "text_zh": "你懂得如何将自己造成的致命一击机会度让给更能有效发挥它们作用的队友。",
+    "prerequisites_zh": "寓守于攻，信仰戴斯娜。",
+    "benefit_zh": "当你成功对一个生物确认了一次重击时，你可以选择放弃这次重击机会，而是将其转让给在你的下一轮开始之前对同一生物近战攻击命中的队友。你的此次攻击造成普通伤害，而你选择的队友在他的下一次近战攻击命中时将自动确认重击。",
+    "staminaText_zh": "当你确认一次重击时，你可以消耗10点耐力来在不放弃自己重击的情况下使用彩蝶毒蛰。"
 }

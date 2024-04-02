@@ -8,7 +8,7 @@
     "prerequisites": "Con 15, Wis 15, Efreeti Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using Efreeti Style, you gain fire resistance equal to your base attack bonus or your monk level plus any base attack bonus gained from levels in classes other than monk, whichever is higher. While denied your Dexterity bonus to AC you are also denied this resistance. Creatures that take fire damage from your Elemental Fist attack must succeed at a Reflex save (DC 10 + 1/2 your character level + your Wis modifier) or catch on fire.",
     "staminaSource": "Pathfinder Unchained pg. 119",
-    "staminaText": "When making an Elemental Fist<sup>APG<\/sup> attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid catching on fire by an amount equal to the number of stamina points you spent.",
+    "staminaText": "When making an Elemental Fist attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid catching on fire by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "efreeti style",
         "elemental fist",
