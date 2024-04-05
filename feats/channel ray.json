@@ -5,5 +5,9 @@
     "source": ["Ranged Tactics Toolbox pg. 12"],
     "text": "You can focus your channeled energy on a single target.",
     "prerequisites": "Channel energy class feature.",
-    "benefit": "When you channel energy, you can project a ray from your holy symbol instead of creating a burst. You must succeed at a ranged touch attack to hit an unwilling target; your target is then affected by the channeled energy as normal and receives a saving throw. You need not make an attack roll to affect a willing creature with the ray. The ray has a range of 30 feet per channel energy die, and its save DC is increased by 2."
+    "benefit": "When you channel energy, you can project a ray from your holy symbol instead of creating a burst. You must succeed at a ranged touch attack to hit an unwilling target; your target is then affected by the channeled energy as normal and receives a saving throw. You need not make an attack roll to affect a willing creature with the ray. The ray has a range of 30 feet per channel energy die, and its save DC is increased by 2.",
+    "name_zh": "引导射线",
+    "text_zh": "你可以将引导出的能量集中到一个目标身上。",
+    "prerequisites_zh": "引导能量职业特性。",
+    "benefit_zh": "当你引导能量时，你可以从圣徽上射出一道射线而非能量爆。对非自愿目标射出的能量需要进行远程接触攻击检定以命中；命中目标受到正常引导能量效果，非自愿目标正常需要进行豁免检定。对自愿生物引导射线无需攻击检定。引导射线的射程为每引导骰30尺，且此法引导出的能量射线豁免DC增加2。<\/p><p> <\/p><p>远距法术链接（Distant Spell Link）<\/p><p>你可以远距离给盟友使用法术共享或传递接触法术。"
 }

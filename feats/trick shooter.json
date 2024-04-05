@@ -7,5 +7,9 @@
     "text": "Your uncanny aim allows you to disable your opponents without harming them.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +1.",
     "benefit": "You gain a +2 bonus on ranged combat maneuvers. When you attempt to perform a ranged combat maneuver, you can refrain from damaging the target at no penalty.",
-    "prerequisiteKeys": ["deadly aim"]
+    "prerequisiteKeys": ["deadly aim"],
+    "name_zh": "诡诈射手",
+    "text_zh": "你诡异的瞄准技术可以让你在不伤害目标的情况削弱目标。",
+    "prerequisites_zh": "敏捷13，致命瞄准，BAB+1。",
+    "benefit_zh": "你的远程战技检定获得+2加值。当你尝试远程战技时，可以选择不造成伤害而无需承受罚值。"
 }

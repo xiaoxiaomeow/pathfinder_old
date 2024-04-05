@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "危险擒抱人",
+    "text_zh": "你在擒抱时，会变得更加凶险。",
+    "prerequisites_zh": "敏捷13，精通擒抱，精通徒手打击。",
+    "benefit_zh": "你可以运用擒抱者的重量来对付他。当你处于擒抱时（无论是主动还是被动），你对擒抱者进行的甲刺攻击、轻型或单手武器攻击、天武攻击、徒手攻击造成的伤害骰视为增大1级。"
 }

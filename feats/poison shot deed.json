@@ -7,5 +7,9 @@
     "text": "You can specially prepare bullets to deliver poisons that are normally used more subtly.",
     "prerequisites": "Amateur Gunslinger or grit class feature.",
     "benefit": "You can spend 1 grit point to load your firearm with 1 dose of inhaled or ingested poison as a move action. This action has no chance of exposing you to the poison (as if you had the poison use class feature). Shooting a firearm loaded with a poison in this manner is a standard action that provokes attacks of opportunity and sprays out the poison in a 15-foot cone. Any creatures caught in the blast take no damage but are exposed to this poison and must each immediately attempt a save against the poison as though the onset time had elapsed.",
-    "prerequisiteKeys": ["amateur gunslinger"]
+    "prerequisiteKeys": ["amateur gunslinger"],
+    "name_zh": "药铳",
+    "text_zh": "你手中的枪支犹如毒龙喷烟，所当者皆糜烂。",
+    "prerequisites_zh": "业余铳士UC专长或勇毅（Grit）UC职业能力。",
+    "benefit_zh": "通过消耗1点勇毅值，你可以以一个移动动作在枪管铳填入一剂吸入（Inhaled）或摄入（Ingested）型毒药，你不会因为这样做而失误使自己中毒（如同你拥有用毒职业能力一般）。然后，如果你以一个可引发借机攻击的标准动作把这发毒弹发射出去，它可以影响15尺锥形范围的所有敌人。这些敌人不承受伤害，但是会立刻暴露在毒素之中并必须进行一次豁免检定（如同毒素的潜伏期已经过去）否则中毒。"
 }

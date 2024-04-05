@@ -9,5 +9,10 @@
     "benefit": "Once per turn, when an opponent only you threaten fails an attack against you, you can redirect the attack to target another foe. The new target must be adjacent to you and within reach of the opponent that missed you. Attempt a combat maneuver check; if the result exceeds both the Combat Maneuver Defense of the opponent who missed you and the Armor Class of the new target, the attack strikes and deals its normal damage.",
     "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend up to 5 stamina points to grant yourself a bonus on the combat maneuver check equal to the number of stamina points you spent. (<I>Melee Tactics Toolbox 7<\/i>)",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "乾坤挪移",
+    "text_zh": "当你闪避掉一次攻击时，你可以将该次攻击偏斜对付另一个目标。",
+    "prerequisites_zh": "敏捷15，智力15，闪避。",
+    "benefit_zh": "每轮1次，当只有你威胁的一个目标对你的攻击失败时，你可以反转该次攻击对付另一个敌人。新的目标必须邻接你并且处于攻击者的触及内。你进行一次战技检定；若检定结果同时大于攻击者的CMD和新目标的AC，则被反转的攻击命中，正常造成伤害。",
+    "staminaText_zh": "你可以消耗至多5点耐力来让自己在该战技检定上获得等同于你消耗耐力的加值。"
 }

@@ -26,6 +26,7 @@ var featDict = {
     "ability mastery":     {
         "key": "ability mastery",
         "name": "Ability Mastery",
+        "name_zh": "能力掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -54,6 +55,7 @@ var featDict = {
     "accomplished sneak attacker":     {
         "key": "accomplished sneak attacker",
         "name": "Accomplished Sneak Attacker",
+        "name_zh": "催命",
         "source": ["Dirty Tactics Toolbox pg. 10"]
     },
     "accursed critical":     {
@@ -135,6 +137,7 @@ var featDict = {
     "acute shot":     {
         "key": "acute shot",
         "name": "Acute Shot",
+        "name_zh": "敏锐射击",
         "source": ["Magic Tactics Toolbox pg. 5"],
         "prerequisiteKeys":         [
             "far shot",
@@ -279,6 +282,7 @@ var featDict = {
     "alchemical strike":     {
         "key": "alchemical strike",
         "name": "Alchemical Strike",
+        "name_zh": "炼金打击",
         "descriptors": ["Combat"],
         "source": ["Magic Tactics Toolbox pg. 12"],
         "prerequisiteKeys": ["throw anything"]
@@ -388,6 +392,7 @@ var featDict = {
     "align equipment":     {
         "key": "align equipment",
         "name": "Align Equipment",
+        "name_zh": "阵营武具",
         "source": ["Undead Slayer's Handbook pg. 6"],
         "prerequisiteKeys":         [
             "alignment channel",
@@ -488,11 +493,13 @@ var featDict = {
     "ambuscading spell":     {
         "key": "ambuscading spell",
         "name": "Ambuscading Spell",
+        "name_zh": "伏击施法",
         "source": ["Dirty Tactics Toolbox pg. 12"]
     },
     "ambush awareness":     {
         "key": "ambush awareness",
         "name": "Ambush Awareness",
+        "name_zh": "突袭警惕",
         "source":         [
             "Ultimate Wilderness pg. 106",
             "Dirty Tactics Toolbox pg. 12"
@@ -502,6 +509,7 @@ var featDict = {
     "ambush sense":     {
         "key": "ambush sense",
         "name": "Ambush Sense",
+        "name_zh": "伏击感知",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Origins pg. 26"]
     },
@@ -523,6 +531,7 @@ var featDict = {
     "amplified hex":     {
         "key": "amplified hex",
         "name": "Amplified Hex",
+        "name_zh": "强能巫术",
         "source": ["Advanced Class Origins pg. 26"]
     },
     "amplified radiance":     {
@@ -724,6 +733,7 @@ var featDict = {
     "aquatic combatant":     {
         "key": "aquatic combatant",
         "name": "Aquatic Combatant",
+        "name_zh": "水下战斗法",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Wilderness pg. 106",
@@ -733,6 +743,7 @@ var featDict = {
     "aquatic spell":     {
         "key": "aquatic spell",
         "name": "Aquatic Spell",
+        "name_zh": "辟水法术",
         "descriptors": ["Metamagic"],
         "source":         [
             "Ultimate Wilderness pg. 106",
@@ -815,6 +826,7 @@ var featDict = {
     "arcane trap suppressor":     {
         "key": "arcane trap suppressor",
         "name": "Arcane Trap Suppressor",
+        "name_zh": "奥法陷阱压制者",
         "source": ["Dungeoneer's Handbook pg. 8"]
     },
     "arcane vendetta":     {
@@ -992,6 +1004,7 @@ var featDict = {
     "armored athlete":     {
         "key": "armored athlete",
         "name": "Armored Athlete",
+        "name_zh": "着甲运动者",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 9"]
     },
@@ -1004,6 +1017,7 @@ var featDict = {
     "artful dodge":     {
         "key": "artful dodge",
         "name": "Artful Dodge",
+        "name_zh": "巧妙闪躲",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"]
     },
@@ -1576,6 +1590,7 @@ var featDict = {
     "befuddling initiative":     {
         "key": "befuddling initiative",
         "name": "Befuddling Initiative",
+        "name_zh": "诡异先攻",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 13"],
         "prerequisiteKeys": ["improved initiative"]
@@ -1841,6 +1856,7 @@ var featDict = {
     "bless equipment":     {
         "key": "bless equipment",
         "name": "Bless Equipment",
+        "name_zh": "祝福武具",
         "source": ["Undead Slayer's Handbook pg. 7"]
     },
     "blessed hammer":     {
@@ -1946,6 +1962,7 @@ var featDict = {
     "blinding flash":     {
         "key": "blinding flash",
         "name": "Blinding Flash",
+        "name_zh": "盲目眩光",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 24"],
         "prerequisiteKeys": ["combat expertise"]
@@ -2508,6 +2525,7 @@ var featDict = {
     "brisk spell":     {
         "key": "brisk spell",
         "name": "Brisk Spell",
+        "name_zh": "轻快超魔",
         "descriptors": ["Metamagic"],
         "source": ["Magic Tactics Toolbox pg. 5"]
     },
@@ -2775,6 +2793,7 @@ var featDict = {
     "burning amplification":     {
         "key": "burning amplification",
         "name": "Burning Amplification",
+        "name_zh": "燃烧扩增",
         "source": ["Magic Tactics Toolbox pg. 8"]
     },
     "burning spell":     {
@@ -3260,6 +3279,7 @@ var featDict = {
     "channel ray":     {
         "key": "channel ray",
         "name": "Channel Ray",
+        "name_zh": "引导射线",
         "source": ["Ranged Tactics Toolbox pg. 12"]
     },
     "channel smite":     {
@@ -3320,6 +3340,7 @@ var featDict = {
     "channeling variance":     {
         "key": "channeling variance",
         "name": "Channeling Variance",
+        "name_zh": "引导变化",
         "source": ["Magic Tactics Toolbox pg. 9"]
     },
     "chaos reigns":     {
@@ -3415,6 +3436,7 @@ var featDict = {
     "chilling amplification":     {
         "key": "chilling amplification",
         "name": "Chilling Amplification",
+        "name_zh": "寒冷扩增",
         "source": ["Magic Tactics Toolbox pg. 9"]
     },
     "chimeric adept":     {
@@ -3457,6 +3479,7 @@ var featDict = {
     "circling mongoose":     {
         "key": "circling mongoose",
         "name": "Circling Mongoose",
+        "name_zh": "环形杀法",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"],
         "prerequisiteKeys":         [
@@ -3626,6 +3649,7 @@ var featDict = {
     "clinging climber":     {
         "key": "clinging climber",
         "name": "Clinging Climber",
+        "name_zh": "贴附攀爬",
         "descriptors": ["Combat"],
         "source":         [
             "Ultimate Wilderness pg. 108",
@@ -3690,6 +3714,7 @@ var featDict = {
     "close call":     {
         "key": "close call",
         "name": "Close Call",
+        "name_zh": "千钧一发",
         "source": ["Dungeoneer's Handbook pg. 8"],
         "prerequisiteKeys": ["deft hands"]
     },
@@ -3787,6 +3812,7 @@ var featDict = {
     "combat advice":     {
         "key": "combat advice",
         "name": "Combat Advice",
+        "name_zh": "战斗建议",
         "source": ["Ranged Tactics Toolbox pg. 14"]
     },
     "combat casting":     {
@@ -3941,6 +3967,7 @@ var featDict = {
     "concealment mastery":     {
         "key": "concealment mastery",
         "name": "Concealment Mastery",
+        "name_zh": "隐藏掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -3957,6 +3984,7 @@ var featDict = {
     "concentrated splash":     {
         "key": "concentrated splash",
         "name": "Concentrated Splash",
+        "name_zh": "集中泼溅",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 6"],
         "prerequisiteKeys":         [
@@ -4357,6 +4385,7 @@ var featDict = {
     "covering fire (rtt)":     {
         "key": "covering fire (rtt)",
         "name": "Covering Fire (RTT)",
+        "name_zh": "掩护射击",
         "source": ["Ranged Tactics Toolbox pg. 10"],
         "prerequisiteKeys": ["point-blank shot"]
     },
@@ -4807,6 +4836,7 @@ var featDict = {
     "cudgeler style":     {
         "key": "cudgeler style",
         "name": "Cudgeler Style",
+        "name_zh": "蛮锤式",
         "descriptors":         [
             "Combat",
             "Style"
@@ -4817,6 +4847,7 @@ var featDict = {
     "cudgeler sweep":     {
         "key": "cudgeler sweep",
         "name": "Cudgeler Sweep",
+        "name_zh": "蛮锤扫",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
         "prerequisiteKeys":         [
@@ -4827,6 +4858,7 @@ var featDict = {
     "cudgeler takedown":     {
         "key": "cudgeler takedown",
         "name": "Cudgeler Takedown",
+        "name_zh": "蛮锤撞",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
         "prerequisiteKeys":         [
@@ -4908,6 +4940,7 @@ var featDict = {
     "cursed item detection":     {
         "key": "cursed item detection",
         "name": "Cursed Item Detection",
+        "name_zh": "诅咒魔法物品鉴定",
         "source": ["Dungeoneer's Handbook pg. 12"]
     },
     "cursed love":     {
@@ -4978,6 +5011,7 @@ var featDict = {
     "daggermark lore":     {
         "key": "daggermark lore",
         "name": "Daggermark Lore",
+        "name_zh": "匕痕毒经",
         "source": ["Advanced Class Origins pg. 26"]
     },
     "damned disciple":     {
@@ -5007,6 +5041,7 @@ var featDict = {
     "dampen presence":     {
         "key": "dampen presence",
         "name": "Dampen Presence",
+        "name_zh": "淡化身形",
         "source": ["Dungeoneer's Handbook pg. 10"],
         "prerequisiteKeys": ["skill focus"]
     },
@@ -5093,6 +5128,7 @@ var featDict = {
     "dastardly trick":     {
         "key": "dastardly trick",
         "name": "Dastardly Trick",
+        "name_zh": "流氓剑",
         "descriptors":         [
             "Combat",
             "Panache"
@@ -5207,6 +5243,7 @@ var featDict = {
     "deadly grappler":     {
         "key": "deadly grappler",
         "name": "Deadly Grappler",
+        "name_zh": "危险擒抱人",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
@@ -5389,6 +5426,7 @@ var featDict = {
     "dedicated adversary":     {
         "key": "dedicated adversary",
         "name": "Dedicated Adversary",
+        "name_zh": "业余宿敌",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 10"]
     },
@@ -5947,6 +5985,7 @@ var featDict = {
     "directed disarm":     {
         "key": "directed disarm",
         "name": "Directed Disarm",
+        "name_zh": "定向卸武",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 6"],
         "prerequisiteKeys":         [
@@ -5958,6 +5997,7 @@ var featDict = {
     "dirty critical hit":     {
         "key": "dirty critical hit",
         "name": "Dirty Critical Hit",
+        "name_zh": "阴招重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -5972,6 +6012,7 @@ var featDict = {
     "dirty disarm":     {
         "key": "dirty disarm",
         "name": "Dirty Disarm",
+        "name_zh": "阴招卸武",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
@@ -5983,12 +6024,14 @@ var featDict = {
     "dirty fighting":     {
         "key": "dirty fighting",
         "name": "Dirty Fighting",
+        "name_zh": "何须荣誉",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 14"]
     },
     "dirty grapple":     {
         "key": "dirty grapple",
         "name": "Dirty Grapple",
+        "name_zh": "阴招擒抱",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
@@ -6076,6 +6119,7 @@ var featDict = {
     "disconcerting stare":     {
         "key": "disconcerting stare",
         "name": "Disconcerting Stare",
+        "name_zh": "脱节凝视",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -6144,6 +6188,7 @@ var featDict = {
     "disorienting blow":     {
         "key": "disorienting blow",
         "name": "Disorienting Blow",
+        "name_zh": "迷失打击",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 24"],
         "prerequisiteKeys": ["stunning fist"]
@@ -7165,11 +7210,13 @@ var featDict = {
     "eldritch aid":     {
         "key": "eldritch aid",
         "name": "Eldritch Aid",
+        "name_zh": "秘法援助",
         "source": ["Advanced Class Origins pg. 26"]
     },
     "eldritch assault":     {
         "key": "eldritch assault",
         "name": "Eldritch Assault",
+        "name_zh": "奥法强袭",
         "source": ["Magic Tactics Toolbox pg. 5"],
         "prerequisiteKeys":         [
             "blind-fight",
@@ -7503,6 +7550,7 @@ var featDict = {
     "encouraging spell":     {
         "key": "encouraging spell",
         "name": "Encouraging Spell",
+        "name_zh": "激励法术",
         "descriptors": ["Metamagic"],
         "source": ["Magic Tactics Toolbox pg. 5"]
     },
@@ -7597,6 +7645,7 @@ var featDict = {
     "enhanced ki throw":     {
         "key": "enhanced ki throw",
         "name": "Enhanced Ki Throw",
+        "name_zh": "进阶太极推手",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 24"]
     },
@@ -7810,6 +7859,7 @@ var featDict = {
     "exceptional pull":     {
         "key": "exceptional pull",
         "name": "Exceptional Pull",
+        "name_zh": "超力开弓",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 10"],
         "prerequisiteKeys": ["deadly aim"]
@@ -7901,6 +7951,7 @@ var featDict = {
     "expanded metakinesis":     {
         "key": "expanded metakinesis",
         "name": "Expanded Metakinesis",
+        "name_zh": "扩展超念",
         "source": ["Magic Tactics Toolbox pg. 9"]
     },
     "expanded phrenic pool":     {
@@ -7924,11 +7975,13 @@ var featDict = {
     "expanded spell kenning":     {
         "key": "expanded spell kenning",
         "name": "Expanded Spell Kenning",
+        "name_zh": "额外汲借",
         "source": ["Advanced Class Origins pg. 26"]
     },
     "expanded studies":     {
         "key": "expanded studies",
         "name": "Expanded Studies",
+        "name_zh": "高等学识",
         "source": ["Advanced Class Origins pg. 26"]
     },
     "expanded summon monster":     {
@@ -7939,6 +7992,7 @@ var featDict = {
     "expansive trap ability":     {
         "key": "expansive trap ability",
         "name": "Expansive Trap Ability",
+        "name_zh": "进阶陷阱能力",
         "source": ["Ranged Tactics Toolbox pg. 14"]
     },
     "expeditious sleuth":     {
@@ -7998,6 +8052,7 @@ var featDict = {
     "expert sniper":     {
         "key": "expert sniper",
         "name": "Expert Sniper",
+        "name_zh": "老练狙击",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 10"]
     },
@@ -8021,6 +8076,7 @@ var featDict = {
     "explosive escape":     {
         "key": "explosive escape",
         "name": "Explosive Escape",
+        "name_zh": "爆发脱擒",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 14"],
         "prerequisiteKeys":         [
@@ -8257,6 +8313,7 @@ var featDict = {
     "extra impromptu sneak attack":     {
         "key": "extra impromptu sneak attack",
         "name": "Extra Impromptu Sneak Attack",
+        "name_zh": "额外强行偷袭",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 10"]
     },
@@ -8434,6 +8491,7 @@ var featDict = {
     "extra variance":     {
         "key": "extra variance",
         "name": "Extra Variance",
+        "name_zh": "额外变化",
         "source": ["Magic Tactics Toolbox pg. 9"],
         "prerequisiteKeys": ["channeling variance"]
     },
@@ -8845,6 +8903,7 @@ var featDict = {
     "feinting flurry":     {
         "key": "feinting flurry",
         "name": "Feinting Flurry",
+        "name_zh": "佯攻疾风",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 24"],
         "prerequisiteKeys": ["combat expertise"]
@@ -9101,6 +9160,7 @@ var featDict = {
     "fighting frenzy":     {
         "key": "fighting frenzy",
         "name": "Fighting Frenzy",
+        "name_zh": "战狂之心",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -9201,6 +9261,7 @@ var featDict = {
     "firebrand":     {
         "key": "firebrand",
         "name": "Firebrand",
+        "name_zh": "火罚之烙",
         "descriptors": ["Combat"],
         "source": ["Faiths of Corruption pg. 24"]
     },
@@ -9309,6 +9370,7 @@ var featDict = {
     "flexible foe":     {
         "key": "flexible foe",
         "name": "Flexible Foe",
+        "name_zh": "灵活宿敌",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 10"]
     },
@@ -9383,6 +9445,7 @@ var featDict = {
     "flying tackle":     {
         "key": "flying tackle",
         "name": "Flying Tackle",
+        "name_zh": "飞身扑",
         "source": ["Dirty Tactics Toolbox pg. 13"],
         "prerequisiteKeys": ["improved overrun"]
     },
@@ -9594,6 +9657,7 @@ var featDict = {
     "force shield mastery":     {
         "key": "force shield mastery",
         "name": "Force Shield Mastery",
+        "name_zh": "力场盾掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -9705,6 +9769,7 @@ var featDict = {
     "fox shape":     {
         "key": "fox shape",
         "name": "Fox Shape",
+        "name_zh": "狐身",
         "source": ["Dragon Empires Primer pg. 5"]
     },
     "fox style":     {
@@ -9759,6 +9824,7 @@ var featDict = {
     "friendly fire maneuvers":     {
         "key": "friendly fire maneuvers",
         "name": "Friendly Fire Maneuvers",
+        "name_zh": "友军炮火打击战术",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -9791,6 +9857,7 @@ var featDict = {
     "friendly shroud":     {
         "key": "friendly shroud",
         "name": "Friendly Shroud",
+        "name_zh": "遮掩队友",
         "source": ["Dirty Tactics Toolbox pg. 13"]
     },
     "friendly switch":     {
@@ -9801,6 +9868,7 @@ var featDict = {
     "frightening ambush":     {
         "key": "frightening ambush",
         "name": "Frightening Ambush",
+        "name_zh": "震撼伏击",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 13"]
     },
@@ -10212,6 +10280,7 @@ var featDict = {
     "got your back":     {
         "key": "got your back",
         "name": "Got Your Back",
+        "name_zh": "注意背后",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -10310,6 +10379,7 @@ var featDict = {
     "grappled caster":     {
         "key": "grappled caster",
         "name": "Grappled Caster",
+        "name_zh": "擒抱施法",
         "source": ["Melee Tactics Toolbox pg. 15"],
         "prerequisiteKeys": ["combat casting"]
     },
@@ -10434,6 +10504,7 @@ var featDict = {
     "greater bless equipment":     {
         "key": "greater bless equipment",
         "name": "Greater Bless Equipment",
+        "name_zh": "高等祝福武具",
         "source": ["Undead Slayer's Handbook pg. 7"],
         "prerequisiteKeys":         [
             "bless equipment",
@@ -11328,6 +11399,7 @@ var featDict = {
     "harrying partners":     {
         "key": "harrying partners",
         "name": "Harrying Partners",
+        "name_zh": "掠阵搭档",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -11566,6 +11638,7 @@ var featDict = {
     "heroic leader":     {
         "key": "heroic leader",
         "name": "Heroic Leader",
+        "name_zh": "英雄领袖",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"]
     },
@@ -11620,6 +11693,7 @@ var featDict = {
     "hinderance dismissal":     {
         "key": "hinderance dismissal",
         "name": "Hinderance Dismissal",
+        "name_zh": "消解障碍",
         "source": ["Magic Tactics Toolbox pg. 13"]
     },
     "history of scars":     {
@@ -11637,6 +11711,7 @@ var featDict = {
     "hold the blade":     {
         "key": "hold the blade",
         "name": "Hold the Blade",
+        "name_zh": "夺刀术",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"],
         "prerequisiteKeys": ["improved disarm"]
@@ -11651,6 +11726,7 @@ var featDict = {
     "holy water assault":     {
         "key": "holy water assault",
         "name": "Holy Water Assault",
+        "name_zh": "圣水攻袭",
         "descriptors": ["Combat"],
         "source": ["Undead Slayer's Handbook pg. 23"]
     },
@@ -11905,6 +11981,7 @@ var featDict = {
     "implement mastery":     {
         "key": "implement mastery",
         "name": "Implement Mastery",
+        "name_zh": "灵器掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -11985,6 +12062,7 @@ var featDict = {
     "improved bless equipment":     {
         "key": "improved bless equipment",
         "name": "Improved Bless Equipment",
+        "name_zh": "精通祝福武具",
         "source": ["Undead Slayer's Handbook pg. 7"],
         "prerequisiteKeys": ["bless equipment"]
     },
@@ -12224,6 +12302,7 @@ var featDict = {
     "improved feinting flurry":     {
         "key": "improved feinting flurry",
         "name": "Improved Feinting Flurry",
+        "name_zh": "精通佯攻疾风",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"],
         "prerequisiteKeys":         [
@@ -12397,6 +12476,7 @@ var featDict = {
     "improved lookout":     {
         "key": "improved lookout",
         "name": "Improved Lookout",
+        "name_zh": "精通警备",
         "source": ["Dirty Tactics Toolbox pg. 13"],
         "prerequisiteKeys": ["lookout"]
     },
@@ -13141,6 +13221,7 @@ var featDict = {
     "inspired sneak attack":     {
         "key": "inspired sneak attack",
         "name": "Inspired Sneak Attack",
+        "name_zh": "灵感猛袭",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 11"]
     },
@@ -13551,6 +13632,7 @@ var featDict = {
     "juke":     {
         "key": "juke",
         "name": "Juke",
+        "name_zh": "杂技换位",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
@@ -13572,6 +13654,7 @@ var featDict = {
     "just out of reach":     {
         "key": "just out of reach",
         "name": "Just Out of Reach",
+        "name_zh": "不在范围内",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 9"],
         "prerequisiteKeys":         [
@@ -13702,6 +13785,7 @@ var featDict = {
     "kitsune style":     {
         "key": "kitsune style",
         "name": "Kitsune Style",
+        "name_zh": "灵狐式",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13715,6 +13799,7 @@ var featDict = {
     "kitsune tricks":     {
         "key": "kitsune tricks",
         "name": "Kitsune Tricks",
+        "name_zh": "灵狐计",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
@@ -13726,6 +13811,7 @@ var featDict = {
     "kitsune vengeance":     {
         "key": "kitsune vengeance",
         "name": "Kitsune Vengeance",
+        "name_zh": "灵狐倾城",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
@@ -13775,6 +13861,7 @@ var featDict = {
     "know weakness":     {
         "key": "know weakness",
         "name": "Know Weakness",
+        "name_zh": "知晓弱点",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Origins pg. 27"]
     },
@@ -13842,6 +13929,7 @@ var featDict = {
     "kraken style":     {
         "key": "kraken style",
         "name": "Kraken Style",
+        "name_zh": "触手流",
         "descriptors":         [
             "Combat",
             "Style"
@@ -13855,6 +13943,7 @@ var featDict = {
     "kraken throttle":     {
         "key": "kraken throttle",
         "name": "Kraken Throttle",
+        "name_zh": "触手锁",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
         "prerequisiteKeys":         [
@@ -13866,6 +13955,7 @@ var featDict = {
     "kraken wrack":     {
         "key": "kraken wrack",
         "name": "Kraken Wrack",
+        "name_zh": "触手紧缚",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 13"],
         "prerequisiteKeys":         [
@@ -14081,6 +14171,7 @@ var featDict = {
     "leaping evasion":     {
         "key": "leaping evasion",
         "name": "Leaping Evasion",
+        "name_zh": "跳跃躲避",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 9"],
         "prerequisiteKeys": ["lightning reflexes"]
@@ -14195,6 +14286,7 @@ var featDict = {
     "lie low":     {
         "key": "lie low",
         "name": "Lie Low",
+        "name_zh": "潜伏",
         "source": ["Ranged Tactics Toolbox pg. 10"]
     },
     "life lure":     {
@@ -14275,6 +14367,7 @@ var featDict = {
     "lightning rager":     {
         "key": "lightning rager",
         "name": "Lightning Rager",
+        "name_zh": "电光怒闪",
         "source": ["Dirty Tactics Toolbox pg. 13"]
     },
     "lightning reflexes":     {
@@ -14314,6 +14407,7 @@ var featDict = {
     "lingering smite":     {
         "key": "lingering smite",
         "name": "Lingering Smite",
+        "name_zh": "残悔斩",
         "source": ["Undead Slayer's Handbook pg. 25"],
         "prerequisiteKeys": ["channel smite"]
     },
@@ -14424,6 +14518,7 @@ var featDict = {
     "lob shot":     {
         "key": "lob shot",
         "name": "Lob Shot",
+        "name_zh": "曲射",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 10"],
         "prerequisiteKeys":         [
@@ -14557,6 +14652,7 @@ var featDict = {
     "mad magic":     {
         "key": "mad magic",
         "name": "Mad Magic",
+        "name_zh": "狂躁魔法",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Origins pg. 27"]
     },
@@ -14700,6 +14796,7 @@ var featDict = {
     "manifold stare":     {
         "key": "manifold stare",
         "name": "Manifold Stare",
+        "name_zh": "多样凝视",
         "descriptors":         [
             "Combat",
             "Stare"
@@ -15015,6 +15112,7 @@ var featDict = {
     "master sniper":     {
         "key": "master sniper",
         "name": "Master Sniper",
+        "name_zh": "狙杀王牌",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 11"],
         "prerequisiteKeys":         [
@@ -15310,6 +15408,7 @@ var featDict = {
     "mirror move":     {
         "key": "mirror move",
         "name": "Mirror Move",
+        "name_zh": "如影随形",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"],
         "prerequisiteKeys": ["combat expertise"]
@@ -16385,6 +16484,7 @@ var featDict = {
     "one eye open":     {
         "key": "one eye open",
         "name": "One Eye Open",
+        "name_zh": "睁一只眼",
         "source":         [
             "Ultimate Wilderness pg. 116",
             "Melee Tactics Toolbox pg. 15"
@@ -16423,6 +16523,7 @@ var featDict = {
     "onslaught":     {
         "key": "onslaught",
         "name": "Onslaught",
+        "name_zh": "轰杀",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Origins pg. 27"],
         "prerequisiteKeys": ["power attack"]
@@ -16446,6 +16547,7 @@ var featDict = {
     "open up":     {
         "key": "open up",
         "name": "Open Up",
+        "name_zh": "空门大开",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -16573,6 +16675,7 @@ var featDict = {
     "ostentatious display":     {
         "key": "ostentatious display",
         "name": "Ostentatious Display",
+        "name_zh": "炫耀财富",
         "source": ["Dungeoneer's Handbook pg. 12"]
     },
     "ostentatious rager":     {
@@ -16833,6 +16936,7 @@ var featDict = {
     "pack tactics":     {
         "key": "pack tactics",
         "name": "Pack Tactics",
+        "name_zh": "群体战术",
         "source": ["Advanced Class Origins pg. 27"]
     },
     "page":     {
@@ -17209,6 +17313,7 @@ var featDict = {
     "phalanx formation":     {
         "key": "phalanx formation",
         "name": "Phalanx Formation",
+        "name_zh": "集团方阵战术",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 10"]
     },
@@ -17488,6 +17593,7 @@ var featDict = {
     "poison shot deed":     {
         "key": "poison shot deed",
         "name": "Poison Shot Deed",
+        "name_zh": "药铳",
         "descriptors": ["Grit"],
         "source": ["Dirty Tactics Toolbox pg. 9"],
         "prerequisiteKeys": ["amateur gunslinger"]
@@ -17582,6 +17688,7 @@ var featDict = {
     "powerful poisoning":     {
         "key": "powerful poisoning",
         "name": "Powerful Poisoning",
+        "name_zh": "迅猛之毒",
         "source": ["Dirty Tactics Toolbox pg. 6"],
         "prerequisiteKeys": ["power attack"]
     },
@@ -17629,6 +17736,7 @@ var featDict = {
     "practiced ritualist":     {
         "key": "practiced ritualist",
         "name": "Practiced Ritualist",
+        "name_zh": "熟练祭祀",
         "source": ["Magic Tactics Toolbox pg. 5"]
     },
     "practiced tactician":     {
@@ -17676,6 +17784,7 @@ var featDict = {
     "press to the wall":     {
         "key": "press to the wall",
         "name": "Press to the Wall",
+        "name_zh": "墙角战法",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"],
         "prerequisiteKeys": ["step up"]
@@ -17801,6 +17910,7 @@ var featDict = {
     "proxy summoning":     {
         "key": "proxy summoning",
         "name": "Proxy Summoning",
+        "name_zh": "代理召唤",
         "source": ["Ranged Tactics Toolbox pg. 12"]
     },
     "psychic adept":     {
@@ -18182,12 +18292,14 @@ var featDict = {
     "quivering palm adept":     {
         "key": "quivering palm adept",
         "name": "Quivering Palm Adept",
+        "name_zh": "精通浸透劲",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"]
     },
     "quivering palm versatility":     {
         "key": "quivering palm versatility",
         "name": "Quivering Palm Versatility",
+        "name_zh": "百变浸透劲",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"]
     },
@@ -18200,6 +18312,7 @@ var featDict = {
     "racial item mastery":     {
         "key": "racial item mastery",
         "name": "Racial Item Mastery",
+        "name_zh": "种族物品掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -18313,6 +18426,7 @@ var featDict = {
     "ranged disarm":     {
         "key": "ranged disarm",
         "name": "Ranged Disarm",
+        "name_zh": "远程卸武",
         "descriptors":         [
             "Combat",
             "Targeting"
@@ -18337,6 +18451,7 @@ var featDict = {
     "ranged trip":     {
         "key": "ranged trip",
         "name": "Ranged Trip",
+        "name_zh": "远程摔绊",
         "descriptors":         [
             "Combat",
             "Targeting"
@@ -18453,6 +18568,7 @@ var featDict = {
     "reactive arcane shield":     {
         "key": "reactive arcane shield",
         "name": "Reactive Arcane Shield",
+        "name_zh": "反应式奥能之盾",
         "source": ["Melee Tactics Toolbox pg. 15"],
         "prerequisiteKeys": ["arcane shield"]
     },
@@ -18615,6 +18731,7 @@ var featDict = {
     "redirect attack":     {
         "key": "redirect attack",
         "name": "Redirect Attack",
+        "name_zh": "乾坤挪移",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"],
         "prerequisiteKeys": ["dodge"]
@@ -18649,6 +18766,7 @@ var featDict = {
     "reflexive caster":     {
         "key": "reflexive caster",
         "name": "Reflexive Caster",
+        "name_zh": "反射护法",
         "source": ["Dirty Tactics Toolbox pg. 13"],
         "prerequisiteKeys": ["combat reflexes"]
     },
@@ -18710,6 +18828,7 @@ var featDict = {
     "relentless shot":     {
         "key": "relentless shot",
         "name": "Relentless Shot",
+        "name_zh": "稳固射击",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 7"],
         "prerequisiteKeys": ["point-blank shot"]
@@ -18807,6 +18926,7 @@ var featDict = {
     "resistance mastery":     {
         "key": "resistance mastery",
         "name": "Resistance Mastery",
+        "name_zh": "抗力掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 30"]
     },
@@ -18830,6 +18950,7 @@ var featDict = {
     "restoration mastery":     {
         "key": "restoration mastery",
         "name": "Restoration Mastery",
+        "name_zh": "复原掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 31"]
     },
@@ -19327,6 +19448,7 @@ var featDict = {
     "scale and skin":     {
         "key": "scale and skin",
         "name": "Scale and Skin",
+        "name_zh": "鳞片与毛皮",
         "source": ["Magic Tactics Toolbox pg. 5"]
     },
     "scaled disciple":     {
@@ -19610,6 +19732,7 @@ var featDict = {
     "seeking spell":     {
         "key": "seeking spell",
         "name": "Seeking Spell",
+        "name_zh": "法术寻踪",
         "descriptors": ["Metamagic"],
         "source": ["Ranged Tactics Toolbox pg. 13"]
     },
@@ -20414,6 +20537,7 @@ var featDict = {
     "shocking amplification":     {
         "key": "shocking amplification",
         "name": "Shocking Amplification",
+        "name_zh": "冲击扩增",
         "source": ["Magic Tactics Toolbox pg. 9"]
     },
     "shocking bellow":     {
@@ -20475,6 +20599,7 @@ var featDict = {
     "shrug on":     {
         "key": "shrug on",
         "name": "Shrug On",
+        "name_zh": "急速披挂",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 15"]
     },
@@ -20858,6 +20983,7 @@ var featDict = {
     "sleeper hold":     {
         "key": "sleeper hold",
         "name": "Sleeper Hold",
+        "name_zh": "昏厥之握",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"],
         "prerequisiteKeys": ["greater grapple"]
@@ -21201,6 +21327,7 @@ var featDict = {
     "sneaking critical":     {
         "key": "sneaking critical",
         "name": "Sneaking Critical",
+        "name_zh": "偷袭重击",
         "descriptors":         [
             "Combat",
             "Critical"
@@ -22115,6 +22242,7 @@ var featDict = {
     "steadfast slayer":     {
         "key": "steadfast slayer",
         "name": "Steadfast Slayer",
+        "name_zh": "孤胆侩子手",
         "descriptors": ["Combat"],
         "source": ["Melee Tactics Toolbox pg. 7"]
     },
@@ -22200,6 +22328,7 @@ var featDict = {
     "stick together":     {
         "key": "stick together",
         "name": "Stick Together",
+        "name_zh": "齐步走",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -22664,6 +22793,7 @@ var featDict = {
     "stunning fist adept":     {
         "key": "stunning fist adept",
         "name": "Stunning Fist Adept",
+        "name_zh": "熟练震慑拳",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 25"],
         "prerequisiteKeys": ["stunning fist"]
@@ -22862,6 +22992,7 @@ var featDict = {
     "superior dirty trick":     {
         "key": "superior dirty trick",
         "name": "Superior Dirty Trick",
+        "name_zh": "至高阴招",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 15"],
         "prerequisiteKeys":         [
@@ -23125,6 +23256,7 @@ var featDict = {
     "swift kitsune shapechanger":     {
         "key": "swift kitsune shapechanger",
         "name": "Swift Kitsune Shapechanger",
+        "name_zh": "迅捷狐变",
         "source": ["Dragon Empires Primer pg. 5"]
     },
     "swift refuge":     {
@@ -23235,6 +23367,7 @@ var featDict = {
     "symbolic mastery":     {
         "key": "symbolic mastery",
         "name": "Symbolic Mastery",
+        "name_zh": "圣徽掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 31"]
     },
@@ -23251,6 +23384,7 @@ var featDict = {
     "tactical reposition":     {
         "key": "tactical reposition",
         "name": "Tactical Reposition",
+        "name_zh": "战术性复位",
         "descriptors": ["Combat"],
         "source": ["Dungeoneer's Handbook pg. 8"],
         "prerequisiteKeys":         [
@@ -23659,6 +23793,7 @@ var featDict = {
     "terrifying assault":     {
         "key": "terrifying assault",
         "name": "Terrifying Assault",
+        "name_zh": "裂胆突击",
         "descriptors": ["Combat"],
         "source": ["Dirty Tactics Toolbox pg. 13"],
         "prerequisiteKeys": ["frightening ambush"]
@@ -23816,6 +23951,7 @@ var featDict = {
     "throw back arrows":     {
         "key": "throw back arrows",
         "name": "Throw Back Arrows",
+        "name_zh": "飞箭流转",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 9"],
         "prerequisiteKeys":         [
@@ -24002,11 +24138,13 @@ var featDict = {
     "torch handling":     {
         "key": "torch handling",
         "name": "Torch Handling",
+        "name_zh": "持火炬者",
         "source": ["Dungeoneer's Handbook pg. 21"]
     },
     "torchbearer":     {
         "key": "torchbearer",
         "name": "Torchbearer",
+        "name_zh": "火炬手",
         "source": ["Dungeoneer's Handbook pg. 20"]
     },
     "torrid tolerance":     {
@@ -24021,6 +24159,7 @@ var featDict = {
     "totem beast":     {
         "key": "totem beast",
         "name": "Totem Beast",
+        "name_zh": "兽魂图腾",
         "source": ["Advanced Class Origins pg. 27"]
     },
     "totem spirit":     {
@@ -24147,6 +24286,7 @@ var featDict = {
     "toxic spell":     {
         "key": "toxic spell",
         "name": "Toxic Spell",
+        "name_zh": "剧毒法术",
         "descriptors": ["Metamagic"],
         "source": ["Dirty Tactics Toolbox pg. 9"]
     },
@@ -24241,6 +24381,7 @@ var featDict = {
     "treacherous toxin":     {
         "key": "treacherous toxin",
         "name": "Treacherous Toxin",
+        "name_zh": "阴损之毒",
         "source": ["Dirty Tactics Toolbox pg. 6"]
     },
     "treant's call":     {
@@ -24315,6 +24456,7 @@ var featDict = {
     "trick shooter":     {
         "key": "trick shooter",
         "name": "Trick Shooter",
+        "name_zh": "诡诈射手",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 9"],
         "prerequisiteKeys": ["deadly aim"]
@@ -24322,6 +24464,7 @@ var featDict = {
     "trick spell":     {
         "key": "trick spell",
         "name": "Trick Spell",
+        "name_zh": "诡诈法术",
         "descriptors": ["Metamagic"],
         "source": ["Dirty Tactics Toolbox pg. 17"]
     },
@@ -24873,6 +25016,7 @@ var featDict = {
     "unfair grip":     {
         "key": "unfair grip",
         "name": "Unfair Grip",
+        "name_zh": "盘身扭",
         "descriptors": ["Combat"],
         "source": ["Advanced Class Origins pg. 27"],
         "prerequisiteKeys":         [
@@ -24985,6 +25129,7 @@ var featDict = {
     "unseen poison":     {
         "key": "unseen poison",
         "name": "Unseen Poison",
+        "name_zh": "无色无味",
         "source": ["Dirty Tactics Toolbox pg. 9"]
     },
     "unspoken bond":     {
@@ -25208,6 +25353,7 @@ var featDict = {
     "vast spell":     {
         "key": "vast spell",
         "name": "Vast Spell",
+        "name_zh": "广域法术",
         "descriptors": ["Metamagic"],
         "source": ["Magic Tactics Toolbox pg. 5"]
     },
@@ -25468,6 +25614,7 @@ var featDict = {
     "volley fire":     {
         "key": "volley fire",
         "name": "Volley Fire",
+        "name_zh": "排队枪毙",
         "descriptors":         [
             "Combat",
             "Teamwork"
@@ -25485,6 +25632,7 @@ var featDict = {
     "vulpine pounce":     {
         "key": "vulpine pounce",
         "name": "Vulpine Pounce",
+        "name_zh": "狐冲",
         "descriptors": ["Combat"],
         "source": ["Dragon Empires Primer pg. 5"],
         "prerequisiteKeys": ["swift kitsune shapechanger"]
@@ -25568,6 +25716,7 @@ var featDict = {
     "warning shot":     {
         "key": "warning shot",
         "name": "Warning Shot",
+        "name_zh": "警告射击",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 11"],
         "prerequisiteKeys":         [
@@ -25604,6 +25753,7 @@ var featDict = {
     "wasp familiar":     {
         "key": "wasp familiar",
         "name": "Wasp Familiar",
+        "name_zh": "巨蜂魔宠",
         "source": ["Dirty Tactics Toolbox pg. 17"]
     },
     "water skinned":     {
@@ -25659,6 +25809,7 @@ var featDict = {
     "weapon evoker mastery":     {
         "key": "weapon evoker mastery",
         "name": "Weapon Evoker Mastery",
+        "name_zh": "武器觉醒掌握",
         "descriptors": ["Item Mastery"],
         "source": ["Magic Tactics Toolbox pg. 31"]
     },
@@ -25724,6 +25875,7 @@ var featDict = {
     "weapon versatility":     {
         "key": "weapon versatility",
         "name": "Weapon Versatility",
+        "name_zh": "可能性之兵",
         "descriptors": ["Combat"],
         "source": ["Undead Slayer's Handbook pg. 25"],
         "prerequisiteKeys": ["weapon focus"]
@@ -25736,6 +25888,7 @@ var featDict = {
     "weathered warrior":     {
         "key": "weathered warrior",
         "name": "Weathered Warrior",
+        "name_zh": "风语战士",
         "descriptors": ["Combat"],
         "source": ["Ranged Tactics Toolbox pg. 15"],
         "prerequisiteKeys": ["endurance"]
@@ -25743,6 +25896,7 @@ var featDict = {
     "welcome pain":     {
         "key": "welcome pain",
         "name": "Welcome Pain",
+        "name_zh": "拥抱痛觉",
         "source": ["Faiths of Corruption pg. 25"],
         "prerequisiteKeys": ["iron will"]
     },

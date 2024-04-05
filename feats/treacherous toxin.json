@@ -5,5 +5,9 @@
     "source": ["Dirty Tactics Toolbox pg. 6"],
     "text": "You twist a blade to force more of the poison on it into an enemy’s bloodstream.",
     "prerequisites": "Base attack bonus +5, sneak attack class feature.",
-    "benefit": "When you make a sneak attack with a poisoned weapon, you can forgo some of your sneak attack damage to increase the save DC of your poison, increasing the poison’s save DC by 1 for every 1d6 points of sneak attack damage you forgo. This can’t cause the save DC to exceed 15 + 1/2 your character level."
+    "benefit": "When you make a sneak attack with a poisoned weapon, you can forgo some of your sneak attack damage to increase the save DC of your poison, increasing the poison’s save DC by 1 for every 1d6 points of sneak attack damage you forgo. This can’t cause the save DC to exceed 15 + 1/2 your character level.",
+    "name_zh": "阴损之毒",
+    "text_zh": "你在敌人的伤口中翻转涂毒的武器，让它快速流入血液系统。",
+    "prerequisites_zh": "基础攻击加值+5，偷袭（Sneak Attack）职业能力。",
+    "benefit_zh": "每当你使用一件施加了毒药的武器进行偷袭攻击时，你都可以选择放弃偷袭造成的额外伤害而选择强化毒药的威力。你的偷袭伤害每有+1d6，这个换取的DC就增加+1。但是，本专长的效果不会让毒药的DC增加到超过15+你的角色等级的一半。"
 }

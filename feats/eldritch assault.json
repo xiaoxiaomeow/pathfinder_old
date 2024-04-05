@@ -9,5 +9,9 @@
     "prerequisiteKeys":     [
         "blind-fight",
         "improved initiative"
-    ]
+    ],
+    "name_zh": "奥法强袭",
+    "text_zh": "当魔法掩盖你的位置时，你能造成致命一击。",
+    "prerequisites_zh": "盲斗，精通先攻。",
+    "benefit_zh": "每当你在魔法来源的全隐蔽效果中（例如移位术或者隐形术）攻击，你每轮第一个攻击骰若是重击威胁则自动确认重击。"
 }

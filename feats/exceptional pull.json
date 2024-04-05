@@ -7,5 +7,9 @@
     "text": "You have mastered techniques to get the most out of composite bows.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +3.",
     "benefit": "When you wield a ranged weapon that you are proficient with and that has a strength rating, add 2 to the weapon’s strength rating. You don’t take a penalty on attack rolls for having a Strength modifier lower than the strength rating of a weapon, provided you’re proficient with that weapon.",
-    "prerequisiteKeys": ["deadly aim"]
+    "prerequisiteKeys": ["deadly aim"],
+    "name_zh": "超力开弓",
+    "text_zh": "你使用复合弓的技术更为精巧。",
+    "prerequisites_zh": "敏捷13，致命瞄准，BAB+3。",
+    "benefit_zh": "当你使用一个你擅长且有力量等级的远程武器时，该武器的力量等级增加2。只要你擅长该武器，就不会因为力量调整值低于武器力量等级而承受攻击罚值。"
 }

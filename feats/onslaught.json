@@ -7,5 +7,9 @@
     "text": "No one is prepared for how hard you strike until they see it firsthand.",
     "prerequisites": "Str 13, Power Attack, base attack bonus +1, sneak attack class feature.",
     "benefit": "If you use Power Attack with the first melee attack you make during a surprise round, you can sneak attack even if you are not flanking your target and it’s not denied its Dexterity bonus to AC.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "轰杀",
+    "text_zh": "在被你的突袭命中之前，很少有敌人能对他们将承受的打击做好准备。",
+    "prerequisites_zh": "力量13，猛力攻击，基础攻击加值+1，偷袭职业能力。",
+    "benefit_zh": "如果你在突袭轮中以猛力攻击发动第一次近战攻击，你会自动在攻击时造成偷袭伤害，即使你并没有夹击目标或是他并不处于措手不及状态。"
 }

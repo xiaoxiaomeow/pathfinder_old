@@ -5,5 +5,9 @@
     "source": ["Dirty Tactics Toolbox pg. 9"],
     "text": "You can conceal the magic auras of poisons that you carry.",
     "prerequisites": "Bluff 5 ranks, Craft (poison) 5 ranks, ability to cast <i>nondetection<\/i>.",
-    "benefit": "Whenever a creature attempts to magically detect poison you are carrying, the creature must succeed at a caster level check with a DC equal to 10 + your character level. On a failed check, that spell or magic ability fails to detect any poison you possess for the duration of the spell."
+    "benefit": "Whenever a creature attempts to magically detect poison you are carrying, the creature must succeed at a caster level check with a DC equal to 10 + your character level. On a failed check, that spell or magic ability fails to detect any poison you possess for the duration of the spell.",
+    "name_zh": "无色无味",
+    "text_zh": "你可以隐蔽随身毒物的魔法灵光。",
+    "prerequisites_zh": "唬骗技能5级，手艺（制毒）技能5级，那个施放法术回避侦测（Nondetection）。",
+    "benefit_zh": "每当一个生物尝试使用魔法手段探测你携带的毒药时，他就必须通过一个DC=10+你的角色等级的施法者等级检定。如果该检定失败，此生物将在法术有效期间不能用它探测出任何你携带的毒物。"
 }

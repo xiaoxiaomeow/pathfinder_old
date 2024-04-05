@@ -8,5 +8,10 @@
     "prerequisites": "Throw Anything, base attack bonus +6.",
     "benefit": "You can throw a single alchemical item as a full-attack action, increasing the effectiveness of the alchemical agent thrown. When throwing a single alchemical item as a full-attack action, you increase the DC of any effects associated with that alchemical item by 2. When your base attack bonus reaches +11 and every 5 points of bonus thereafter, increase the saving throw DC of the alchemical item by an additional 2. This feat does not apply to an alchemist’s bombs.",
     "special": "An alchemist can take this feat in place of an alchemist discovery. He does not need to meet its prerequisites. The alchemist uses his class level, rather than the base attack bonus granted by the alchemist class, to calculate his total base attack bonus for the purposes of determining the bonus granted by this feat.",
-    "prerequisiteKeys": ["throw anything"]
+    "prerequisiteKeys": ["throw anything"],
+    "name_zh": "炼金打击",
+    "text_zh": "你专注于一次攻击中，大幅度提升了你投掷的炼金物品的效果。",
+    "prerequisites_zh": "随手投掷，BAB+6。",
+    "benefit_zh": "你可以以一个全回合攻击动作投掷一个炼金物品，提升该炼金物品的效果。当你用全回合攻击动作投掷单一个炼金物品时，该物品造成的所有效果DC+2。当你的BAB加值达到+11以及之后的每多5点，DC就再增加2.该专长不能应用在炼金术师的炼金炸弹上。",
+    "special_zh": "炼金术师可以选择该专长来取代一个炼金术士科研发现。他不需要达到该专长的先决条件。炼金术士使用他的职业等级而非BAB来计算该专长中涉及BAB的效果。"
 }

@@ -6,5 +6,9 @@
     "text": "You can make powerful attacks that place more of your weapon’s poison into a target’s wounds.",
     "prerequisites": "Power Attack; Craft (poison) 3 ranks or poison use class feature.",
     "benefit": "When you damage an opponent with a Power Attack while using a poisoned weapon, you can forgo the bonus damage from Power Attack to increase the save DC of the poison by 1. When your base attack bonus reaches +4, and every +4 thereafter, the bonus to the poison’s save DC increases by an additional 1. This can’t cause the save DC to exceed 15 + 1/2 your character level.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "迅猛之毒",
+    "text_zh": "依靠蛮力，你将武器上涂抹的毒药深深打进敌人的身体。",
+    "prerequisites_zh": "猛力攻击，手艺（制毒）技能3级或用毒（Poison Use）职业能力。",
+    "benefit_zh": "当你使用一件施加过毒药的武器并发动猛力攻击专长对一个对手造成伤害时，你可以放弃猛力攻击提供的伤害加值，而选择将武器附带毒素的DC+1。当你的基础攻击加值增加到+4以及之后每再提升+4时，这个DC加值也随之增加1点。但是，本专长的效果不会让毒药的DC增加到超过15+你的角色等级的一半。"
 }

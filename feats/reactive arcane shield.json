@@ -6,5 +6,9 @@
     "text": "Your arcane shield responds to threats even if you’re caught off guard.",
     "prerequisites": "Arcane Shield, arcane spellcaster, caster level 12th.",
     "benefit": "If you are aware of an attack against you that has already been declared and you choose to use the Arcane Shield feat, the immediate action to activate the feat occurs before the attack roll against you is resolved. In addition, all adjacent allies also gain the feat’s deflection bonus to AC for 1 round.",
-    "prerequisiteKeys": ["arcane shield"]
+    "prerequisiteKeys": ["arcane shield"],
+    "name_zh": "反应式奥能之盾",
+    "text_zh": "就算你没有察觉到危险，奥能之盾也能应对。",
+    "prerequisites_zh": "奥能之盾，奥术施法者，施法者等级12。",
+    "benefit_zh": "若你察觉到一次已宣布的针对你的攻击，而你选择使用奥能之盾专长，则激活该专长的直觉动作将在攻击骰骰出之前进行。另外，任何邻接你的盟友都可以获得该专长提供的偏斜AC加值持续1轮。"
 }

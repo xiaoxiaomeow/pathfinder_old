@@ -14,5 +14,9 @@
         "amateur swashbuckler",
         "combat expertise",
         "improved dirty trick"
-    ]
+    ],
+    "name_zh": "流氓剑",
+    "text_zh": "你顺带问候对手祖宗三代的剑法使他面子上挂不住。",
+    "prerequisites_zh": "智力13，业余剑客ACG专长或派头ACG职业能力，寓守于攻；精通阴招APG。",
+    "benefit_zh": "当你发动一次阴招战技攻击时，通过消耗1点时髦值，如果战技攻击成功，你的对手就必须通过一个DC=10+你等级的一半+你的魅力调整值的意志检定，否则将无法移除因为阴招战技而承受的不良状态。"
 }

@@ -6,5 +6,9 @@
     "text": "You can channel even more energy into weapons and armor to grant them several divine powers at once.",
     "prerequisites": "Bless Equipment, caster level 9th, channel energy class feature.",
     "benefit": "The number of uses of channeled energy you must expend to bless a piece of equipment using Bless Equipment and Align Equipment decreases by one (to a minimum of one use of channel energy per blessing).<br><br> You can also bless a piece of equipment with up to two blessings at a time. Each blessing provides a different special ability drawn from the Bless Equipment list (and the Align Equipment list if you possess that feat). You must still have a high enough caster level to bless a piece of equipment with each of the selected blessings.<br><br> You expend the appropriate number of uses of channeled energy required for each blessing, taking into account the reduction granted by this feat (and the increase for blessing a masterwork item, if needed). For example, a cleric with this feat would need to expend two uses of channeled energy to bless a weapon with the <i>undead-bane <\/i>and <i>ghost touch <\/i>special abilities (one use for <i>bane <\/i>plus one use for <i>ghost touch<\/i>).<br><br> If a given piece of equipment already has a blessing on it, you can give it a second blessing. When another blessing is applied to a piece of equipment that currently has a blessing active on it, the durations for the two blessings are tracked separately.",
-    "prerequisiteKeys": ["bless equipment"]
+    "prerequisiteKeys": ["bless equipment"],
+    "name_zh": "精通祝福武具",
+    "text_zh": "你可以引导更多能量来祝福武具，获得更多能力。",
+    "prerequisites_zh": "祝福武具、施法者等级9、引导能力职业能力。",
+    "benefit_zh": "进行祝福武具与阵营武具时，每个能力所消耗的引导次数减少1，每次祝福至少需要消耗1次。<\/p><p>你可以祝福一件武具至多2次。每次都可以选择一种不同的特殊能力。每个能力施法者等级需求你都必须满足。<\/p><p>例如，牧师需要花费2次来祝福一柄长剑破敌不死和幽冥（破敌不死消耗1次，幽冥消耗1次）。<\/p><p>若一件武具已经被祝福过1次，你可以为它祝福第二次。不同的祝福所获得的特殊能力持续时间分开计算。"
 }

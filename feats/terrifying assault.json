@@ -7,5 +7,9 @@
     "text": "Your foes flee when you appear suddenly.",
     "prerequisites": "Frightening Ambush, Intimidate 5 ranks.",
     "benefit": "When using Intimidate to demoralize an opponent during a surprise round, if you exceed the DC by 10 or more, you can make the target frightened for 1 round instead of shaken.",
-    "prerequisiteKeys": ["frightening ambush"]
+    "prerequisiteKeys": ["frightening ambush"],
+    "name_zh": "裂胆突击",
+    "text_zh": "你突然冒出来的时候，敌人被吓得到处乱跑。",
+    "prerequisites_zh": "震慑伏击，威吓技能5级。",
+    "benefit_zh": "当你在突袭轮中使用威吓技能使一个敌人被挫败士气时，如果你的威吓检定结果超过DC至少10点，你的目标会惊惧（Frightened）1轮而非战栗。<\/p><p>阴招制敌"
 }

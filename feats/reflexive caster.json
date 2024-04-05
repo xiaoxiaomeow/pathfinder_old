@@ -6,5 +6,9 @@
     "text": "You are ready to defend yourself with a spell at a moment’s notice.",
     "prerequisites": "Combat Reflexes, caster level 5th.",
     "benefit": "If you fail a Perception check that results in you being unable to act in a surprise round, you still roll initiative normally. You can act on your initiative count in the surprise round, but can only take a standard action to cast an abjuration spell that targets only yourself.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys": ["combat reflexes"],
+    "name_zh": "反射护法",
+    "text_zh": "你随时都捏着一个可以马上挡下打击的法术。",
+    "prerequisites_zh": "战斗反射，施法者等级5。",
+    "benefit_zh": "当你因为察觉检定失败而无法在突袭轮行动时，你仍然可以正常进行先攻检定并且可以在轮到你的先攻位时行动——但是，你只能执行一个标准动作，并且只能用这个动作施放一个防护系法术。"
 }

@@ -7,5 +7,9 @@
     "text": "Your subtle flourishes mislead your enemy, tricking it into changing its footing.",
     "prerequisites": "Dex 15, flurry of blows class feature, Combat Expertise.",
     "benefit": "While using flurry of blows to make melee attacks, you can forgo your first attack to make a Bluff check to feint.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "佯攻疾风",
+    "text_zh": "你用为妙的动作误导你的敌人，让他陷入措手不及。",
+    "prerequisites_zh": "敏捷15，疾风连击职业能力，寓守于攻。",
+    "benefit_zh": "当你使用疾风连击的时候，你可以牺牲你的第一击，发动一次唬弄检定进行佯攻。"
 }

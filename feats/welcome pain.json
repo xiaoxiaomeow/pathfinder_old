@@ -6,5 +6,9 @@
     "text": "Your appreciation of pain grants you great stamina.",
     "prerequisites": "Iron Will, worshiper of Zon-Kuthon.",
     "benefit": "Whenever you would be reduced to 0 or fewer hit points because of an ongoing or repeating damage effect (such as bleed), you may make a last-ditch effort to shed the condition. If you succeed at a DC 25 Will save, you ignore the damage that would reduce you to 0 or fewer hit points that turn. The DC of each subsequent save made in this manner increases by 1. In addition, spells or abilities that have the pain descriptor deal only half damage to you (if any).",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "拥抱痛觉",
+    "text_zh": "愈是承受剧烈的伤痛，你就愈发坚韧",
+    "prerequisites_zh": "钢铁意志，信仰宗-库山。",
+    "benefit_zh": "每当你因为承受持续性的伤害效果（如流血伤害）而使自己的生命值被降到0或更低时，你可以每轮进行一个DC25的意志检定以完全忽略这些痛苦。每使用此能力一轮，你的下一次意志检定DC就要额外累积增加1。除此之外，任何具有疼痛描述符的法术或能力只能对你造成一半伤害。"
 }

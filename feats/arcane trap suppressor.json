@@ -6,5 +6,10 @@
     "text": "Your magic can suppress magic traps longer than usual.",
     "prerequisites": "Ability to cast <i>dispel magic <\/i>or <i>greater dispel magic <\/i>as a spell or spell-like ability.",
     "benefit": "When you target a magic trap with <i>dispel magic <\/i>or <i>greater dispel magic<\/i>, if your caster level check exceeds the Disable Device DC of the trap, the trap is disabled for 1d4 minutes.",
-    "normal": "<i>Dispel magic <\/i>suppresses an item’s magical properties for 1d4 rounds."
+    "normal": "<i>Dispel magic <\/i>suppresses an item’s magical properties for 1d4 rounds.",
+    "name_zh": "奥法陷阱压制者",
+    "text_zh": "你的法术可以长时间压制魔法陷阱。",
+    "prerequisites_zh": "可以施展或以类法术能力施放解除魔法或高等解除魔法。",
+    "benefit_zh": "你可以用解除魔法或高等解除魔法压制魔法陷阱，DC等于解除装置的DC，成功的话能使陷阱失效1d4分钟。",
+    "normal_zh": "解除魔法可以压制物品的魔法特性1d4轮。"
 }

@@ -5,5 +5,9 @@
     "source": ["Dirty Tactics Toolbox pg. 10"],
     "text": "Your strikes against a foe’s vital spots are extra deadly.",
     "prerequisites": "Sneak attack class feature.",
-    "benefit": "Your sneak attack damage increases by 1d6. Your number of sneak attack dice cannot exceed half your character level (rounded up)."
+    "benefit": "Your sneak attack damage increases by 1d6. Your number of sneak attack dice cannot exceed half your character level (rounded up).",
+    "name_zh": "催命",
+    "text_zh": "只要能偷袭的，就是神也杀给你看！",
+    "prerequisites_zh": "偷袭职业能力。",
+    "benefit_zh": "你的偷袭伤害上升+1d6，但是你的偷袭伤害骰数最多不超过你的角色等级的一半（向上取整）。"
 }

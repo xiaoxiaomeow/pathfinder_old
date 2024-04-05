@@ -6,5 +6,9 @@
     "text": "You have trained to cast spells while wrestling an opponent.",
     "prerequisites": "Combat Casting.",
     "benefit": "You gain a +4 bonus on concentration checks to cast spells while grappled. This bonus stacks with the bonus granted by Combat Casting.",
-    "prerequisiteKeys": ["combat casting"]
+    "prerequisiteKeys": ["combat casting"],
+    "name_zh": "擒抱施法",
+    "text_zh": "你受过训练如何在擒抱时施法。",
+    "prerequisites_zh": "战斗施法。",
+    "benefit_zh": "擒抱时你的施法专注检定获得+4加值。该加值与战斗施法专长赋予的叠加。"
 }

@@ -248,6 +248,7 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
 }
 var descriptorsBoxes = [];
 var sourceBoxes = [];
+var source2Boxes = [];
 var translations;
 function loadTransAndSearchElements () {
     fetch("/pathfinder/script/translations.json").then(response => {
@@ -264,7 +265,8 @@ function loadTransAndSearchElements () {
         translations = JSON.parse(text);
 
         addBoxes(translations.featDescriptorsTranslations, document.getElementById("descriptors"), descriptorsBoxes);
-		addBoxes(["CRB", "Bst", "APG", "UM", "UC", "ARG", "UCa", "MA", "MC", "Uch", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
+		addBoxes(["CRB", "APG", "ARG", "ACG", "UM", "UC", "UI", "OA"], document.getElementById("source"), sourceBoxes, true, true, false);
+		addBoxes(["Bst", "UCa", "MA", "MC", "Uch", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source2"), source2Boxes, true, true, false);
     }).catch(error => {
         console.log(error);
     });
@@ -322,6 +324,15 @@ function sourceLegal (ft) {
 			for (j in source) {
 				let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
 				source_legal |= sourceBoxes[i].name == src.split("-")[0];
+				if (source_legal) break;
+			}
+		}
+	}
+	for (i in source2Boxes) {
+		if (source2Boxes[i].checked) {
+			for (j in source) {
+				let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
+				source_legal |= source2Boxes[i].name == src.split("-")[0];
 				if (source_legal) break;
 			}
 		}

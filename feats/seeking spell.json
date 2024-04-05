@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Ranged Tactics Toolbox pg. 13"],
     "text": "You can cast spells that bend around barriers to reach their intended destination.",
-    "benefit": "A seeking spell’s range can bend around obstacles to reach the intended target. You can define the route yourself or unambiguously identify a target and allow the spell to determine its own path. However, the spell fails if it would have to travel farther than its maximum range to reach the identified target. A ranged attack roll made to deliver a seeking spell is not subject to cover or concealment. In order to benefit from this feat, the selected spell must have a range greater than touch and target one or more creatures, or it must require the caster to make a ranged touch attack. A seeking spell uses up a spell slot 2 levels higher than the spell’s actual level."
+    "benefit": "A seeking spell’s range can bend around obstacles to reach the intended target. You can define the route yourself or unambiguously identify a target and allow the spell to determine its own path. However, the spell fails if it would have to travel farther than its maximum range to reach the identified target. A ranged attack roll made to deliver a seeking spell is not subject to cover or concealment. In order to benefit from this feat, the selected spell must have a range greater than touch and target one or more creatures, or it must require the caster to make a ranged touch attack. A seeking spell uses up a spell slot 2 levels higher than the spell’s actual level.",
+    "name_zh": "法术寻踪",
+    "text_zh": "你施展的法术可以绕过障碍命中目标。",
+    "benefit_zh": "寻踪法术可以绕过射程内的障碍命中目标。你可以自主决定法术的飞行路径或干脆直接指定目标让法术自行寻路。但若该法术在寻路绕行中会超出法术的最大射程的话，该法术就会失败。寻踪法术进行的攻击检定不会被掩蔽和隐蔽所影响。能被该专长影响的法术射程至少必须大于接触、目标必须为一个或多个生物，或该法术需要进行远程接触攻击。寻踪法术占用比法术的实际环位高2级的法术位。"
 }

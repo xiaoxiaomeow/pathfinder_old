@@ -11,5 +11,10 @@
     "prerequisiteKeys":     [
         "combat expertise",
         "feinting flurry"
-    ]
+    ],
+    "name_zh": "精通佯攻疾风",
+    "text_zh": "你高速的连续攻击足以把对方打飞上半空。",
+    "prerequisites_zh": "敏捷17，疾风连击职业特性，寓守于攻，佯攻疾风，基本攻击加值+6。",
+    "benefit_zh": "当你使用佯攻疾风成功，对手将在你的回合结束之前持续失去其AC的敏捷加值。",
+    "normal_zh": "成功的佯攻只会让对手对你的下一击失去敏捷加值。"
 }

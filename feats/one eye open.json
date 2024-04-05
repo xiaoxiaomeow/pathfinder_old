@@ -10,5 +10,10 @@
     "prerequisites": "Wis 13, Alertness.",
     "benefit": "The DCs of your Perception checks don’t increase when you are asleep. If you succeed at a Perception check to notice something dangerous while asleep, you can wake up to confront the danger.",
     "normal": "The DC for a Perception check attempted by a sleeping creature increases by 10.",
-    "prerequisiteKeys": ["alertness"]
+    "prerequisiteKeys": ["alertness"],
+    "name_zh": "睁一只眼",
+    "text_zh": "睡觉也不会影响你对危险的感知。",
+    "prerequisites_zh": "感知13，警觉。",
+    "benefit_zh": "你睡觉时察觉检定DC不会改变。当你成功在睡眠时通过察觉检定察觉到危险，你可以立刻醒来对抗危机。",
+    "normal_zh": "睡觉时进行的任何察觉检定DC会增加10。"
 }

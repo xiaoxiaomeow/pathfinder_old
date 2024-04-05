@@ -6,5 +6,9 @@
     "text": "Your habitual stillness makes you difficult to perceive for creatures that use blindsight or blindsense.",
     "prerequisites": "Skill Focus (Stealth), Stealth 5 ranks.",
     "benefit": "You may use the Stealth skill to hide from any creature attempting to perceive you using blindsight or blindsense, even if you are clearly in that creature’s perceptual field. This feat does not confer any advantages against other forms of perception, such as scent, vision, or tremorsense.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "淡化身形",
+    "text_zh": "先决条件：技能专供（潜行），潜行技能5级",
+    "prerequisites_zh": "技能专供（潜行），潜行技能5级。",
+    "benefit_zh": "你可以用潜行技能避开任何想用盲视或盲感察觉你的生物，即使你已经完全进入那个生物的可察觉区域。该专长不提供对抗其他种类察觉方法的优势，例如灵敏嗅觉，视觉或震颤感知。"
 }

@@ -7,5 +7,9 @@
     "text": "Your Stunning Fist strikes become even deadlier.",
     "prerequisites": "Stunning Fist, base attack bonus +3.",
     "benefit": "Add +1 to the saving throw DC against your Stunning Fist attacks. This bonus does not stack with feats that grant you bonuses to the DC for saving throws against your Stunning Fist attacks, such as Mantis Style (see <i>Pathfinder RPG Ultimate Combat<\/i>).",
-    "prerequisiteKeys": ["stunning fist"]
+    "prerequisiteKeys": ["stunning fist"],
+    "name_zh": "熟练震慑拳",
+    "text_zh": "你的震慑拳变得更加要命。",
+    "prerequisites_zh": "震慑拳、基本攻击加值+3。",
+    "benefit_zh": "对抗你震慑拳的DC+1，此专长不会和任何增加震慑拳DC的效果叠加。"
 }
