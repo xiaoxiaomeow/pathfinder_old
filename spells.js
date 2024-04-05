@@ -84,6 +84,7 @@ function loadFeat(sp, div, containSource = false) {
 	else if (sp["components"] != null) $(div).append($("<div><b>成分</b>&#12288;&#12288;&#12288;&#12288;" + sp["components"] + "</div>"));
 	if (sp["range_zh"] != null) $(div).append($("<div><b>范围</b>&#12288;&#12288;&#12288;&#12288;" + sp["range_zh"] + "</div>"));
 	if (sp["effect_zh"] != null) $(div).append($("<div><b>效果</b>&#12288;&#12288;&#12288;&#12288;" + sp["effect_zh"] + "</div>"));
+	else if (sp["effect"] != null) $(div).append($("<div><b>效果</b>&#12288;&#12288;&#12288;&#12288;" + sp["effect"] + "</div>"));
 	if (sp["targetOrArea_zh"] != null) $(div).append($("<div><b>目标或范围</b>&#12288;" + sp["targetOrArea_zh"] + "</div>"));
 	if (sp["target_zh"] != null) $(div).append($("<div><b>目标</b>&#12288;&#12288;&#12288;&#12288;" + sp["target_zh"] + "</div>"));
 	if (sp["area_zh"] != null) $(div).append($("<div><b>区域</b>&#12288;&#12288;&#12288;&#12288;" + sp["area_zh"] + "</div>"));
