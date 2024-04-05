@@ -21,13 +21,13 @@ function getSimpTranslatedSource (sp) {
     for (key in sp["source"]) {
         let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
         if (!cur.includes("-")) {
-            return cur + " ...";
+            return cur + ", ...";
         }
     }
     for (key in sp["source"]) {
         let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
         if (cur.includes("PCS") || cur.includes("PPC")) {
-            return cur + " ...";
+            return cur + ", ...";
         }
     }
     for (key in sp["source"]) {

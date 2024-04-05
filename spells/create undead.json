@@ -24,12 +24,12 @@
     "spellResistance": "no",
     "text": "A much more potent spell than <i>animate dead<\/i>, this evil spell allows you to infuse a dead body with negative energy to create more powerful sorts of undead: ghouls, ghasts, mummies, and mohrgs. The type or types of undead you can create are based on your caster level, as shown on the table below.<br><br><table class=\"inner\"><tr><td><b>Caster Level<\/b><\/td><td><b>Undead Created<\/b><\/td><\/tr><tr><td>11th or lower<\/td><td>Ghoul<\/td><\/tr><tr><td>12th-14th<\/td><td>Ghast<\/td><\/tr><tr><td>15th-17th<\/td><td>Mummy<\/td><\/tr><tr><td>18th or higher<\/td><td>Mohrg<\/td><\/tr><\/table><br>You may create less powerful undead than your level would allow if you choose. Created undead are not automatically under the control of their animator. If you are capable of commanding undead, you may attempt to command the undead creature as it forms.<br><br>This spell must be cast at night.",
     "name_zh": "唤起死灵",
-    "castingTime_zh": "1小声",
+    "castingTime_zh": "1小时",
     "components_zh": "语言, 姿势, 材料 (一个装满墓土的陶罐, 外加要创造的不死生物所具有的                   每个HD花费至少价值50gp的黑玛瑙)",
     "range_zh": "近距 (25尺+每2等级5尺)",
     "target_zh": "一具尸体",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
+    "spellResistance_zh": "否",
     "text_zh": "<p>该法术比‘<a href=\"spell.html?spell=animate dead\">操纵死尸 (animate dead)<\/a>’更强大，这个邪恶的法术使你能够向一具尸体灌入负能量，以此来创造出各种强大的不死生物：食尸鬼、妖鬼、木乃伊以及魔魂尸。你所能创造的不死生物的类型取决于你的CL，如下表所述。<div class=\"inner\"><table><tr><th>施法者等级<\/th><th>可创造的不死生物<\/th><\/tr><tr><td>11或更低<\/td><td>食尸鬼 (ghouls)<\/td><\/tr><tr><td>12 – 14<\/td><td>妖鬼 (ghasts)<\/td><\/tr><tr><td>15 – 17<\/td><td>木乃伊 (mummies)<\/td><\/tr><tr><td>18或更高<\/td><td>魔魂尸 (mohrgs)<\/td><\/tr><\/table><\/div><\/p><p>如果你愿意，你可以选择制造比你CL所能允许的种类更为弱小的不死生物。被唤起的死灵不会自动受到他们制造者的控制。如果你有能力命令不死生物，则尝试在之后以这种方式控制它们。<\/p><p>该法术必须在夜间施放。<\/p>"
 }

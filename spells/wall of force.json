@@ -30,7 +30,7 @@
     "effect_zh": "面积为至多每等级10尺见方的墙",
     "duration_zh": "1轮/等级 (可解消)",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
+    "spellResistance_zh": "否",
     "text_zh": "<p>力墙术能创造出由纯粹的立场构成的隐形墙壁。该墙无法移动，而且难以被摧毁。力墙免疫包括‘<a href=\"spell.html?spell=dispel magic\">解除魔法 (dispel magic)<\/a>’，但‘<a href=\"spell.html?spell=mage's disjunction\">法师裂解术 (mage's disjunction)<\/a>’仍旧能够消除它。力墙能够如常被法术所伤害，除了‘<a href=\"spell.html?spell=disintegrate\">解离术 (disintegrate)<\/a>’，它会立即将力墙摧毁。力墙也能够被武器和超自然能力 (supernatural abilities) 伤害，但是力墙的硬度为30, 而且HP为每CL 20点。碰触到<抹消权杖 (rod of cancellation)>或<毁灭黑洞 (sphere of annihilation)>会立即毁灭力墙。<\/p><p>喷吐攻击和法术不能从任何方向穿过力墙，不过‘<a href=\"spell.html?spell=dimension door\">任意门 (dimension door)<\/a>’、‘<a href=\"spell.html?spell=teleport\">传送术 (teleport)<\/a>’以及类似的效果可以穿越障碍。灵体生物 (ethereal creatures) 和实体生物都会被阻挡 (但灵体生物可以从上方或下方穿过地板或天花板而绕过这堵墙)。“凝视攻击”可以穿过力墙。<\/p><p>施法者可造出平整的竖直力墙，其面积最多为每等级10英尺见方。制造出的力墙必须是连续无间断的。如果其表面被任何物品或生物阻断，则法术失效。<\/p><p>力墙术可以被‘<a href=\"spell.html?spell=permanency\">魔法恒定术 (permanency)<\/a>’恒定。<\/p>",
     "mythicText_zh": "<p>墙壁的硬度增加至40点，而且它的生命值增加至每施法者等级30点。非神话解离术（disintegrate）或者消抹权杖（rod of cancellation）能够在1轮内使10立方尺的神话力墙失效，不过在此之后墙壁便会恢复完整。墙壁的一侧（由你选择）会排斥5尺范围内的生物，如同排斥术（repulsion）一般（使用力墙术可能具有的DC，就如同它允许进行豁免一般）。<\/p>"
 }

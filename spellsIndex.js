@@ -20,6 +20,8 @@ var spellsIndex = [
         ],
         "race": "Abadar",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37,6 +39,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #82: Secrets of the Sphinx pg. 74"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59,7 +63,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Combat pg. 221"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "ablative barrier",
@@ -83,8 +89,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 221"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "ablative sphere (garundi)",
@@ -97,7 +106,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Humans of Golarion pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "aboleth's lung",
@@ -119,6 +130,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 189"],
         "race": "gillman",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -135,7 +148,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 203"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -157,6 +172,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即+1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -179,6 +196,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即+1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -196,6 +215,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即+1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -217,7 +238,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 221"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -236,7 +259,9 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -260,7 +285,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -274,7 +301,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 200"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -298,6 +327,8 @@ var spellsIndex = [
         ],
         "race": "Irori",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -322,7 +353,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 108"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -346,7 +379,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 222"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -368,6 +402,8 @@ var spellsIndex = [
         "source": ["Pathfinder #78: City of Locusts pg. 75"],
         "race": "Deskari",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -389,6 +425,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 201"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -412,6 +450,8 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -431,6 +471,8 @@ var spellsIndex = [
         "source": ["Blood of the Moon pg. 9"],
         "race": "werebat",
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -450,7 +492,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 239"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮+每3个等级1轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -469,7 +513,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 239"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -485,6 +531,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Origins pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -504,7 +552,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 204"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 + 每等级1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -525,7 +575,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 239"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -543,6 +595,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -563,6 +617,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -584,7 +640,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -604,7 +662,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 或 直至能量发散; 见文本",
+        "range_zh": "15尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -631,7 +691,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Advanced Class Guide pg. 172"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "adjustable polymorph",
@@ -657,7 +719,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Advanced Class Guide pg. 172"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "admonishing ray",
@@ -675,6 +739,8 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -700,6 +766,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -715,6 +783,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -737,6 +807,8 @@ var spellsIndex = [
         "source": ["Pathfinder #55: The Wormwood Mutiny pg. 73"],
         "race": "Besmara",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -755,7 +827,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 203"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -775,7 +849,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Magic pg. 205"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "age resistance, lesser",
@@ -796,7 +872,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Magic pg. 205"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "age resistance",
@@ -816,7 +894,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Ultimate Magic pg. 205"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "aggravate affliction",
@@ -836,6 +916,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #82: Secrets of the Sphinx pg. 75"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -860,6 +942,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 和 强韧, 通过则无效; 见文本"
     },
@@ -880,6 +964,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 172"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -910,6 +996,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 1: Princes of Darkness pg. 46"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -938,6 +1026,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 126"],
         "race": "hobgoblin",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -962,6 +1052,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -990,6 +1082,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 189"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -1014,6 +1108,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -1036,6 +1132,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -1051,7 +1149,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 218"],
         "race": "Taldan",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "air step",
@@ -1078,7 +1178,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Class Guide pg. 173"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "air walk, communal",
@@ -1098,6 +1200,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -1119,6 +1223,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -1142,7 +1248,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Magic Tactics Toolbox pg. 16"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "akashic form",
@@ -1151,8 +1259,10 @@ var spellsIndex = [
         "school": "necromancy",
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 156"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1177,7 +1287,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1204,6 +1316,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -1217,7 +1331,9 @@ var spellsIndex = [
             "investigator": 2
         },
         "source": ["Advanced Player's Guide pg. 201"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "alchemical tinkering",
@@ -1237,6 +1353,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 155"],
         "race": "ratfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -1253,7 +1371,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Adventurer's Guide pg. 27"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "align weapon, communal",
@@ -1269,6 +1389,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -1286,6 +1408,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -1299,7 +1423,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Ultimate Magic pg. 205"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至解消",
+        "range_zh": "个人"
     },
         {
         "key": "alleviate addiction",
@@ -1323,6 +1449,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -1342,6 +1470,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 108"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -1356,6 +1486,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 201"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -1378,6 +1510,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -1394,6 +1528,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #134: It Came from Hollow Mountain pg. 72"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -1411,6 +1547,8 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -1437,7 +1575,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1458,7 +1598,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Ultimate Wilderness pg. 227"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "alter musical instrument",
@@ -1478,6 +1620,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -1499,7 +1643,9 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1527,7 +1673,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["PRPG Core Rulebook pg. 240"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "alter summoned monster",
@@ -1553,6 +1701,8 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -1574,6 +1724,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 201"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -1596,6 +1748,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 8"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -1609,7 +1763,9 @@ var spellsIndex = [
             "investigator": 3
         },
         "source": ["Advanced Player's Guide pg. 201"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "amplify stench",
@@ -1629,7 +1785,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Monster Codex pg. 213"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "analyze aura",
@@ -1645,7 +1803,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 156"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1668,7 +1828,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 或 意志, 通过则无效, 见文本"
     },
         {
@@ -1684,7 +1846,9 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Dwarves of Golarion pg. 24"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ancestral gift",
@@ -1700,7 +1864,9 @@ var spellsIndex = [
             "warpriest": 4
         },
         "source": ["Dwarves of Golarion pg. 24"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ancestral memory",
@@ -1718,7 +1884,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["Inner Sea World Guide pg. 294"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ancestral regression",
@@ -1743,6 +1911,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 107"],
         "race": "drow",
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -1765,7 +1935,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Advanced Class Guide pg. 173"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "angelic aspect, greater",
@@ -1783,7 +1955,9 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1804,7 +1978,9 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1824,7 +2000,9 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -1844,7 +2022,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 204"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1日/等级 或 直至讯息送达",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -1869,6 +2049,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -1894,8 +2076,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "animal growth",
@@ -1913,6 +2098,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -1935,6 +2122,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 241"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -1960,6 +2149,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 173"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -1975,6 +2166,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -2000,6 +2193,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2022,7 +2217,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 205"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2046,8 +2243,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 241"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "animate objects",
@@ -2066,8 +2266,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 242"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "animate plants",
@@ -2080,8 +2283,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 242"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 或 1小时/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "animate rope",
@@ -2100,7 +2306,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 242"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2115,7 +2323,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -2130,7 +2340,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -2149,6 +2361,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2177,6 +2391,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -2206,6 +2422,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 201"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -2226,6 +2444,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -2245,6 +2465,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 174"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -2265,6 +2487,8 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2291,8 +2515,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 效果发动",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "anticipate thoughts",
@@ -2314,6 +2541,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 157"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -2333,6 +2562,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 242"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -2352,8 +2583,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 242"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "见文本",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "antipathy",
@@ -2377,7 +2611,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 243"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -2392,6 +2628,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -2409,6 +2647,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -2429,6 +2669,8 @@ var spellsIndex = [
         },
         "source": ["Champions of Balance pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2448,6 +2690,8 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -2469,7 +2713,9 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 38"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -2495,6 +2741,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2514,6 +2762,8 @@ var spellsIndex = [
         },
         "source": ["Sargava, the Lost Colony pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -2536,6 +2786,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -2552,6 +2804,8 @@ var spellsIndex = [
         },
         "source": ["Guardians of Dragonfall pg. 32"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2571,6 +2825,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #74: Sword of Valor pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2595,7 +2851,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 8"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不信 或 意志, 通过则无效; 见文本"
     },
         {
@@ -2620,7 +2878,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 108"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不信 或 意志, 通过则无效; 见文本"
     },
         {
@@ -2644,6 +2904,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 157"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -2667,6 +2929,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 157"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -2690,6 +2954,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Legacy of Dragons pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "意志，通通过则无效（无害）"
     },
@@ -2711,7 +2977,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 227"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2729,7 +2997,9 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 59"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2752,7 +3022,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 202"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -2770,7 +3042,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Pathfinder Society Field Guide pg. 56"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "aram zey's trap ward",
@@ -2783,7 +3057,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Pathfinder Society Field Guide pg. 56"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "arbitrament",
@@ -2801,6 +3077,8 @@ var spellsIndex = [
             "Champions of Balance pg. 26"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -2815,8 +3093,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 206"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "arcana theft",
@@ -2829,6 +3110,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -2844,8 +3127,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 223"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "arcane concordance",
@@ -2858,7 +3144,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 203"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2884,6 +3172,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Origins pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -2906,7 +3196,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 243"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2922,7 +3214,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 243"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2943,7 +3237,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 244"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2959,7 +3255,9 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 27"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -2974,7 +3272,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Faction Guide pg. 60"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "专注 (最长8小时)",
+        "range_zh": "个人"
     },
         {
         "key": "arcane sight, greater",
@@ -2989,7 +3289,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 244"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "arcane sight",
@@ -3009,7 +3311,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["PRPG Core Rulebook pg. 244"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "archon's aura",
@@ -3029,6 +3333,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3054,6 +3360,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Champions of Purity pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -3073,6 +3381,8 @@ var spellsIndex = [
             "Champions of Balance pg. 26"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1d6轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -3092,7 +3402,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Sea pg. 21"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -3103,6 +3415,8 @@ var spellsIndex = [
         "descriptors": ["darkness"],
         "source": ["Pathfinder Campaign Setting pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -3129,7 +3443,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -3145,6 +3461,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -3160,8 +3478,11 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 52"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "见文本",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "aroden's spellsword",
@@ -3181,6 +3502,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -3199,6 +3522,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 202"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -3216,6 +3541,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1轮); 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -3239,6 +3566,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -3258,9 +3587,12 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["Mythic Adventures pg. 113"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "2小时/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "ash storm",
@@ -3279,7 +3611,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -3300,7 +3634,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -3315,7 +3651,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Advanced Player's Guide pg. 203"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "aspect of the falcon",
@@ -3329,7 +3667,9 @@ var spellsIndex = [
             "ranger": 1
         },
         "source": ["Advanced Player's Guide pg. 203"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "aspect of the nightingale",
@@ -3355,7 +3695,9 @@ var spellsIndex = [
             "Pathfinder #50: Night of Frozen Shadows pg. 75"
         ],
         "race": "Shelyn",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "aspect of the stag",
@@ -3369,7 +3711,9 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Advanced Player's Guide pg. 203"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "aspect of the wolf",
@@ -3383,7 +3727,9 @@ var spellsIndex = [
             "ranger": 4
         },
         "source": ["Advanced Player's Guide pg. 204"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "assume appearance, greater",
@@ -3410,7 +3756,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Horror Adventures pg. 109"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "assume appearance",
@@ -3437,7 +3785,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Horror Adventures pg. 108"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "assumed likeness",
@@ -3464,6 +3814,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -3483,6 +3835,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "30分钟",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -3502,6 +3856,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 244"],
         "castingTime_zh": "30分钟",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -3513,6 +3869,8 @@ var spellsIndex = [
         "levels": {"druid": 8},
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -3527,6 +3885,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -3544,7 +3904,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["PRPG Core Rulebook pg. 245"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -3569,6 +3931,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 3轮 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -3593,6 +3957,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -3610,6 +3976,8 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/2等级; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -3631,7 +3999,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["PRPG Core Rulebook pg. 245"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "aura alteration",
@@ -3647,6 +4017,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 157"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -3667,6 +4039,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -3685,6 +4059,7 @@ var spellsIndex = [
         },
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3708,6 +4083,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3720,6 +4097,8 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -3737,6 +4116,8 @@ var spellsIndex = [
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -3762,6 +4143,8 @@ var spellsIndex = [
             "Cheliax, Empire of Devils pg. 22"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消) 和 立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3787,7 +4170,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Advanced Class Guide pg. 174"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "authenticating gaze",
@@ -3806,7 +4191,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Black Markets pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "aversion",
@@ -3830,6 +4217,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 158"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -3850,7 +4239,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 158"],
         "castingTime_zh": "24小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -3877,6 +4268,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 以及 1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -3892,6 +4285,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 245"],
         "castingTime_zh": "24小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3914,6 +4309,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 158"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -3937,6 +4334,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -3958,6 +4357,8 @@ var spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -3982,8 +4383,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效; 意志, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则无效; 意志, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "baleful shadow transmutation",
@@ -4009,6 +4413,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信, 然后强韧, 通过则无效"
     },
@@ -4035,6 +4441,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 204"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -4056,6 +4464,7 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 109"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 加上 1轮/等级, 至多1小时/等级",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4082,8 +4491,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "50尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "banish seeming",
@@ -4097,7 +4509,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 204"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 和 1轮/等级; 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -4121,6 +4535,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无 或 意志, 通过则部分生效 (见文本)"
     },
@@ -4145,6 +4561,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4169,6 +4587,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1轮/等级; 见文本",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则无效; 见文本"
     },
@@ -4195,6 +4615,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -4223,7 +4645,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 109"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
         {
@@ -4238,7 +4662,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 204"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -4253,6 +4679,8 @@ var spellsIndex = [
         "source": ["Pathfinder #117: Assault on Longshadow pg. 76"],
         "race": "Hadregash",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4273,8 +4701,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "barrow haze",
@@ -4289,7 +4720,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 174"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -4309,6 +4742,8 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 11"],
         "race": "Grippli",
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1+每3等级1轮 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -4325,6 +4760,8 @@ var spellsIndex = [
         },
         "source": ["Dungeons of Golarion pg. 33"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -4354,8 +4791,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 58"],
         "race": "half-orc",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "battlemind link",
@@ -4375,8 +4815,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人 和 近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "beacon of guilt",
@@ -4395,6 +4838,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 44"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 或 直至能量发散, 然后立即生效",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -4414,7 +4859,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 229"],
         "race": "Desna",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人; 见文本"
     },
         {
         "key": "beanstalk",
@@ -4431,7 +4878,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 70"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -4456,6 +4905,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4488,6 +4939,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4508,7 +4961,10 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["PRPG Core Rulebook pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "beast shape ii",
@@ -4527,7 +4983,10 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["PRPG Core Rulebook pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "beast shape iii",
@@ -4544,7 +5003,10 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["PRPG Core Rulebook pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "beast shape iv",
@@ -4561,7 +5023,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "beastspeak",
@@ -4575,7 +5040,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Advanced Class Guide pg. 175"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bed of iron",
@@ -4592,6 +5059,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -4619,6 +5088,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Healer's Handbook pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4638,6 +5109,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "5尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4657,7 +5130,9 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Heroes of the Streets pg. 22"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bereave",
@@ -4678,6 +5153,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4703,6 +5180,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -4717,6 +5196,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4735,6 +5216,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #82: Secrets of the Sphinx pg. 75"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4763,6 +5246,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -4783,6 +5268,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "可 (无害)"
     },
@@ -4794,6 +5281,8 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志 (无害)"
     },
@@ -4821,6 +5310,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 69"],
         "race": "human",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4847,6 +5338,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 39"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -4873,6 +5366,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 39"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -4892,6 +5387,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 39"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -4922,6 +5419,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -4941,6 +5440,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -4962,6 +5463,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -4979,7 +5482,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 158"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5001,6 +5506,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 17"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5018,6 +5525,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 149"],
         "race": "oread",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -5035,6 +5544,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 149"],
         "race": "oread",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -5054,6 +5565,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 248"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "见文本 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5079,7 +5592,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 7"],
         "race": "Catfolk",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bite the hand, mass",
@@ -5100,6 +5615,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 57"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5122,6 +5639,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 56"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5142,7 +5661,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Magic Tactics Toolbox pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -5162,8 +5683,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 69"],
         "race": "human",
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "black spot",
@@ -5181,6 +5705,8 @@ var spellsIndex = [
         },
         "source": ["Pirates of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5203,6 +5729,8 @@ var spellsIndex = [
         "source": ["Pathfinder #71: Rasputin Must Die! pg. 75"],
         "race": "Szuriel",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -5226,8 +5754,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 248"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "blacklight",
@@ -5242,6 +5773,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Campaign Setting pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "有 或 无 (物体)",
         "savingThrow_zh": "意志, 通过则无效 或 无 (物体)"
     },
@@ -5261,8 +5794,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半 或 反射, 通过则无效; 见文本"
+        "savingThrow_zh": "反射, 通过则减半 或 反射, 通过则无效; 见文本",
+        "mythic": true
     },
         {
         "key": "blade lash",
@@ -5275,7 +5811,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5287,7 +5825,9 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["Ultimate Magic pg. 208"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -5299,7 +5839,9 @@ var spellsIndex = [
         "levels": {"antipaladin": 3},
         "source": ["Ultimate Magic pg. 208"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -5317,7 +5859,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 16"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5337,7 +5881,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 230"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5357,7 +5903,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bladed dash, greater",
@@ -5370,7 +5918,9 @@ var spellsIndex = [
             "skald": 5
         },
         "source": ["Inner Sea Magic pg. 52"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "bladed dash",
@@ -5383,7 +5933,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Inner Sea Magic pg. 52"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "blasphemy",
@@ -5402,8 +5954,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "blast barrier",
@@ -5423,6 +5978,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 52"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1轮/2等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "反射过则减半; 见文本"
     },
@@ -5441,6 +5998,8 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -5458,6 +6017,7 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 205"],
         "castingTime_zh": "标准动作 或 直觉动作; 见文本",
+        "duration_zh": "立即 和 1轮/等级; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -5473,7 +6033,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "0尺 或 每等级10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5495,7 +6057,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 218"],
         "race": "Gnome",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "bleed for your master",
@@ -5519,7 +6083,9 @@ var spellsIndex = [
             "Animal Archive pg. 24"
         ],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5542,6 +6108,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 113"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5568,6 +6136,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -5588,6 +6158,8 @@ var spellsIndex = [
         "source": ["Pathfinder #77: Herald of the Ivory Labyrinth pg. 75"],
         "race": "Baphomet",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -5614,6 +6186,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 30"],
         "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害) 或 意志来识破 (若有互动)"
     },
@@ -5641,7 +6215,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 29"],
         "race": "elf",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bless army",
@@ -5657,6 +6233,8 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1场战斗",
+        "range_zh": "1个单元格",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -5675,6 +6253,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 249"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -5686,7 +6266,9 @@ var spellsIndex = [
         "levels": {"paladin": 1},
         "source": ["PRPG Core Rulebook pg. 250"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -5707,8 +6289,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "50尺",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "blessed fist",
@@ -5724,6 +6309,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -5742,6 +6329,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -5757,8 +6346,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "blessing of liberty",
@@ -5771,7 +6363,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Heroes of the Streets pg. 22"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "blessing of luck and resolve, mass",
@@ -5790,6 +6384,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 68"],
         "race": "halfling",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级, 特殊见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -5810,6 +6406,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 68"],
         "race": "halfling",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级, 特殊见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -5829,6 +6427,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 208"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
@@ -5845,6 +6445,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -5869,6 +6471,8 @@ var spellsIndex = [
         ],
         "race": "Abadar ",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "50尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -5888,6 +6492,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 250"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -5908,6 +6514,8 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -5931,8 +6539,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 101"],
         "race": "dhampir",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "blindness-deafness",
@@ -5959,8 +6570,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 250"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "blink",
@@ -5978,7 +6592,10 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["PRPG Core Rulebook pg. 250"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "blistering invective",
@@ -6000,8 +6617,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人",
         "spellResistance_zh": "特殊, 见文本",
-        "savingThrow_zh": "反射, 通过则部分生效; 见文本"
+        "savingThrow_zh": "反射, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "bloatbomb",
@@ -6024,6 +6644,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 175"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 或 反射, 通过则减半; 见文本"
     },
@@ -6046,7 +6668,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Class Guide pg. 176"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "blood biography",
@@ -6070,7 +6694,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 206"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -6098,6 +6724,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 143"],
         "race": "orc",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -6115,6 +6743,8 @@ var spellsIndex = [
         },
         "source": ["Magical Marketplace pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -6131,8 +6761,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 208"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "blood in the water",
@@ -6152,6 +6785,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 189"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6168,6 +6803,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 209"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -6188,7 +6825,9 @@ var spellsIndex = [
             "Rise of the Runelords Anniversary Edition pg. 418",
             "Pathfinder #5: Sins of the Saviors pg. 59"
         ],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "0尺"
     },
         {
         "key": "blood of the martyr",
@@ -6203,6 +6842,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of the Righteous pg. 50"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6226,6 +6867,8 @@ var spellsIndex = [
         },
         "source": ["Orcs of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6236,7 +6879,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"bloodrager": 3},
         "source": ["Advanced Class Origins pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (D; 见文本)",
+        "range_zh": "个人"
     },
         {
         "key": "blood scent",
@@ -6265,6 +6910,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 143"],
         "race": "orc",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6283,7 +6930,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 176"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无"
     },
         {
@@ -6297,6 +6946,8 @@ var spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 28"],
         "castingTime_zh": "2分钟",
+        "duration_zh": "1天 或 直至消散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6319,7 +6970,9 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -6342,7 +6995,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 110"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "无限; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -6361,7 +7016,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 209"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -6386,6 +7043,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 110"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6403,7 +7062,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Advanced Player's Guide pg. 206"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bloodstone mirror",
@@ -6417,7 +7078,9 @@ var spellsIndex = [
             "witch": 7
         },
         "source": ["Pathfinder #140: Eulogy for Roslar's Coffer pg. 72"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bloodsworn retribution",
@@ -6434,7 +7097,9 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Dranngvit",
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "特殊 (见文本)",
+        "range_zh": "个人"
     },
         {
         "key": "bloody arrows",
@@ -6455,7 +7120,9 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -6470,6 +7137,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -6489,6 +7158,8 @@ var spellsIndex = [
         "source": ["Pathfinder #71: Rasputin Must Die! pg. 75"],
         "race": "Szuriel",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人 和 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -6510,6 +7181,8 @@ var spellsIndex = [
         },
         "source": ["Goblins of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -6539,6 +7212,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6566,7 +7241,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 176"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "body capacitance",
@@ -6583,7 +7260,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 176"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "body double",
@@ -6602,6 +7281,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -6626,8 +7307,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 209"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效; 见文本"
+        "savingThrow_zh": "强韧, 通过则无效; 见文本",
+        "mythic": true
     },
         {
         "key": "bolt of glory",
@@ -6637,6 +7321,8 @@ var spellsIndex = [
         "descriptors": ["good"],
         "source": ["Pathfinder Campaign Setting pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -6648,6 +7334,8 @@ var spellsIndex = [
         "descriptors": ["mind-affecting"],
         "source": ["Pathfinder Campaign Setting pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -6661,7 +7349,9 @@ var spellsIndex = [
             "investigator": 1
         },
         "source": ["Advanced Player's Guide pg. 206"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bone fists",
@@ -6684,7 +7374,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 5"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -6708,7 +7400,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 160"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -6730,6 +7424,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 110"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效 或 无效; 见文本"
     },
@@ -6751,6 +7447,8 @@ var spellsIndex = [
             "Osirion, Land of the Pharaohs pg. 26"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1分钟/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -6771,6 +7469,8 @@ var spellsIndex = [
         },
         "source": ["Seekers of Secrets pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 或 直到释放; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -6796,7 +7496,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 111"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -6810,7 +7512,9 @@ var spellsIndex = [
             "psychic": 3
         },
         "source": ["Advanced Player's Guide pg. 206"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "borrow skill",
@@ -6825,6 +7529,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "最多1轮/等级 (见描述)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -6844,7 +7550,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Mythic Origins pg. 14"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "bouncing bomb admixture",
@@ -6857,7 +7566,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 10"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -6875,7 +7586,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Monster Codex pg. 105"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触"
     },
         {
         "key": "bountiful banquet",
@@ -6895,7 +7608,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 205"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -6909,7 +7624,9 @@ var spellsIndex = [
             "ranger": 4
         },
         "source": ["Advanced Player's Guide pg. 207"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "bowstaff",
@@ -6925,6 +7642,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 224"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -6940,6 +7659,8 @@ var spellsIndex = [
             "Path of the Hellknight pg. 60"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6955,6 +7676,8 @@ var spellsIndex = [
             "Path of the Hellknight pg. 60"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6970,6 +7693,8 @@ var spellsIndex = [
             "Path of the Hellknight pg. 60"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6982,6 +7707,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 4},
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "1轮",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -6994,6 +7721,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 0},
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -7024,8 +7753,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "break, greater",
@@ -7042,6 +7774,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 205"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "无"
     },
@@ -7061,8 +7795,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
+        "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
+        "mythic": true
     },
         {
         "key": "breath of life",
@@ -7079,8 +7816,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害) 或 可, 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则减半, 见文本"
+        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则减半, 见文本",
+        "mythic": true
     },
         {
         "key": "breeze",
@@ -7094,6 +7834,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7125,7 +7867,9 @@ var spellsIndex = [
             "Inner Sea Intrigue pg. 58"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7149,7 +7893,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7165,6 +7911,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 以及特殊; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7179,6 +7927,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -7207,6 +7957,8 @@ var spellsIndex = [
         ],
         "race": "Rovagug",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -7228,6 +7980,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -7249,6 +8003,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 205"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1日/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7274,6 +8030,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7307,6 +8065,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7327,6 +8087,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7350,7 +8112,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Class Guide pg. 176"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "bungle",
@@ -7368,6 +8132,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 209"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 2轮 或 效果触发",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7392,6 +8158,8 @@ var spellsIndex = [
             "Pirates of the Inner Sea pg. 28"
         ],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "至多为1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (物体)"
     },
@@ -7413,6 +8181,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7436,6 +8206,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 218"],
         "race": "Elf",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -7452,6 +8224,8 @@ var spellsIndex = [
         },
         "source": ["Humans of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -7474,6 +8248,8 @@ var spellsIndex = [
         },
         "source": ["Cheliax, Empire of Devils pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射, 通过则无效 (物品, 见文本)"
     },
@@ -7491,7 +8267,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 140"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效 或 部分生效; 见文本"
     },
         {
@@ -7515,8 +8293,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效; 见文本"
+        "savingThrow_zh": "强韧, 通过则无效; 见文本",
+        "mythic": true
     },
         {
         "key": "burning hands",
@@ -7537,8 +8318,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "burning sands",
@@ -7563,7 +8347,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Adventurer's Guide pg. 16"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7585,8 +8371,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "burst bonds",
@@ -7596,6 +8385,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 1},
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 或 伤害减半 (仅对物体)"
     },
@@ -7611,7 +8402,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 160"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7628,6 +8421,7 @@ var spellsIndex = [
         },
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -7651,6 +8445,8 @@ var spellsIndex = [
         ],
         "race": "Iomedae",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -7667,7 +8463,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 160"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7682,6 +8480,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -7707,6 +8507,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Champions of Purity pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -7729,7 +8531,9 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Ultimate Combat pg. 225"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "burst with light",
@@ -7745,6 +8549,8 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/4等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -7762,7 +8568,9 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7774,6 +8582,8 @@ var spellsIndex = [
         "levels": {"witch": 3},
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7790,6 +8600,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7806,6 +8618,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7820,7 +8634,9 @@ var spellsIndex = [
             "investigator": 6
         },
         "source": ["Ultimate Combat pg. 225"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "calamitous flailing",
@@ -7843,6 +8659,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Coven pg. 20"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -7862,6 +8680,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -7878,7 +8698,9 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 50"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7898,7 +8720,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 58"],
         "castingTime_zh": "10分钟; 见文本",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7916,8 +8740,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 209"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "call construct",
@@ -7936,7 +8763,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -7953,6 +8782,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -7970,8 +8801,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 251"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "call spirit",
@@ -7992,7 +8826,9 @@ var spellsIndex = [
             "Occult Mysteries pg. 54"
         ],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -8008,6 +8844,8 @@ var spellsIndex = [
         },
         "source": ["Dragon Empires Primer pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -8024,7 +8862,9 @@ var spellsIndex = [
             "skald": 1
         },
         "source": ["Inner Sea Magic pg. 53"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺"
     },
         {
         "key": "callback, greater",
@@ -8044,6 +8884,8 @@ var spellsIndex = [
             "Familiar Folio pg. 22"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "每等级1里",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -8065,6 +8907,8 @@ var spellsIndex = [
             "Familiar Folio pg. 22"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -8085,6 +8929,8 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -8108,6 +8954,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -8137,6 +8985,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -8158,6 +9008,8 @@ var spellsIndex = [
             "Occult Mysteries pg. 55"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 或 1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 或 无; 见文本"
     },
@@ -8184,6 +9036,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级, 见文本 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -8209,6 +9063,8 @@ var spellsIndex = [
             "Osirion, Land of the Pharaohs pg. 26"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即 或 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -8224,7 +9080,10 @@ var spellsIndex = [
             "witch": 4
         },
         "source": ["Ultimate Magic pg. 210"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "carrion compass",
@@ -8244,7 +9103,9 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -8265,6 +9126,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -8280,7 +9143,9 @@ var spellsIndex = [
             "shaman": 3
         },
         "source": ["Elemental Master's Handbook pg. 17"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "carve passage",
@@ -8297,7 +9162,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 218"],
         "race": "Kobold",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -8312,6 +9179,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -8334,6 +9203,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -8356,6 +9227,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -8379,6 +9252,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8410,6 +9285,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8437,6 +9314,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 161"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -8474,6 +9353,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4轮 或 1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -8501,7 +9382,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 230"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射通过则减半 或 无效; 见文本 ; "
     },
         {
@@ -8518,7 +9401,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 210"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 以及 2轮; 见文本",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -8538,7 +9423,9 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 30"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -8559,6 +9446,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Primer pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -8577,7 +9466,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 或 直至能量发散 (可消解)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射过则减半; 见文本"
     },
         {
@@ -8600,6 +9491,8 @@ var spellsIndex = [
         },
         "source": ["Plane-Hopper's Handbook pg. 12"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8624,6 +9517,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 13"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/2等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8648,6 +9543,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 13"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/2等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8663,6 +9560,8 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 25"],
         "castingTime_zh": "8小时",
+        "duration_zh": "1小时/等级 或 1天/等级 (见文本)",
+        "range_zh": "接触 或 中距 (100尺+每等级10尺); 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -8685,6 +9584,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -8704,8 +9605,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 253"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "chain of perdition",
@@ -8725,6 +9629,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -8743,6 +9649,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -8765,7 +9673,9 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -8778,6 +9688,8 @@ var spellsIndex = [
         "levels": {"paladin": 1},
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -8797,7 +9709,9 @@ var spellsIndex = [
             "wizard": 0
         },
         "source": ["Kobolds of Golarion pg. 26"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "chameleon stride, greater",
@@ -8810,7 +9724,9 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Advanced Class Guide pg. 177"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "5尺"
     },
         {
         "key": "chameleon stride",
@@ -8823,7 +9739,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Advanced Player's Guide pg. 210"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "champion's bout",
@@ -8842,6 +9760,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 218"],
         "race": "Shoanti",
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -8853,8 +9773,11 @@ var spellsIndex = [
         "levels": {"druid": 7},
         "source": ["PRPG Core Rulebook pg. 253"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "channel the gift",
@@ -8881,6 +9804,8 @@ var spellsIndex = [
         ],
         "race": "Nethys",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮 或 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "有 (无害) 或 无",
         "savingThrow_zh": "意志, 通过则无效 (无害) 或 无"
     },
@@ -8904,7 +9829,9 @@ var spellsIndex = [
             "Gods and Magic pg. 23"
         ],
         "race": "Irori",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "chaos hammer",
@@ -8920,8 +9847,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1d6轮); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "charge object",
@@ -8937,7 +9867,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 161"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -8960,6 +9892,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of the Righteous pg. 50"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -8979,6 +9913,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -8998,6 +9934,8 @@ var spellsIndex = [
         },
         "source": ["The First World, Realm of the Fey pg. 12"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9022,6 +9960,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9047,6 +9987,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9071,6 +10013,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9095,6 +10039,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9123,7 +10069,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 111"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
@@ -9151,6 +10099,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -9168,7 +10118,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Faction Guide pg. 61"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "cheetah's sprint",
@@ -9184,7 +10136,9 @@ var spellsIndex = [
             "witch": 1
         },
         "source": ["Heroes of the Wild pg. 30"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "chill metal",
@@ -9200,8 +10154,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "7轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "意志, 通过则无效 (物体)"
+        "savingThrow_zh": "意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "chill touch",
@@ -9220,6 +10177,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 255"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效 或 意志, 通过则无效; 见文本"
     },
@@ -9234,8 +10193,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "反射, 通过则无效"
+        "duration_zh": "立即",
+        "range_zh": "15尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "反射, 通过则无效",
+        "mythic": true
     },
         {
         "key": "circle of clarity",
@@ -9253,6 +10215,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -9271,8 +10235,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 255"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "claim identity, greater",
@@ -9297,6 +10264,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -9323,6 +10292,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -9348,7 +10319,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 255"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9370,6 +10343,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -9388,7 +10363,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 210"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -9410,6 +10387,8 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -9425,7 +10404,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["Advanced Player's Guide pg. 211"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "cleansing fire",
@@ -9446,6 +10427,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Adventurer's Guide pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -9463,7 +10446,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Wild pg. 30"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9480,6 +10465,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 255"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -9501,7 +10488,9 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 50"],
         "castingTime_zh": "整轮动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9516,7 +10505,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Advanced Class Guide pg. 177"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "cloak of chaos",
@@ -9530,6 +10521,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 255"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "见文本"
     },
@@ -9554,6 +10547,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 211"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "5尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9578,7 +10573,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 30"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9593,6 +10590,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 211"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -9617,7 +10616,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Villain Codex pg. 80"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "cloak of winds",
@@ -9639,6 +10640,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 211"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -9655,7 +10658,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 256"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9678,7 +10683,9 @@ var spellsIndex = [
         "source": ["Pathfinder #55: The Wormwood Mutiny pg. 73"],
         "race": "Besmara",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -9699,7 +10706,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9720,8 +10729,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 256"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "codespeak",
@@ -9745,7 +10757,9 @@ var spellsIndex = [
             "Black Markets pg. 24"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -9762,6 +10776,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 161"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9784,6 +10800,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟 或 直至消散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "无"
     },
@@ -9804,6 +10822,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -9831,7 +10851,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -9856,7 +10878,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Pathfinder Society Primer pg. 12"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "color spray",
@@ -9877,8 +10901,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 256"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "command plants",
@@ -9893,6 +10920,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 257"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9908,6 +10937,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 257"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9934,6 +10965,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 257"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -9963,8 +10996,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 256"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "commune with birds",
@@ -9987,7 +11023,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 167"],
         "race": "tengu",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "commune with nature",
@@ -10002,7 +11040,9 @@ var spellsIndex = [
             "shaman": 5
         },
         "source": ["PRPG Core Rulebook pg. 258"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "commune with plane",
@@ -10021,7 +11061,9 @@ var spellsIndex = [
             "witch": 5
         },
         "source": ["Planar Adventures pg. 39"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "commune with texts",
@@ -10044,7 +11086,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Inner Sea Intrigue pg. 59"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "commune",
@@ -10061,7 +11105,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["PRPG Core Rulebook pg. 257"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "companion life link",
@@ -10079,6 +11125,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -10095,7 +11143,10 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Ultimate Combat pg. 226"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "mythic": true
     },
         {
         "key": "companion transportation",
@@ -10117,7 +11168,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -10146,6 +11199,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10175,6 +11230,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -10200,6 +11257,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10225,6 +11284,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10248,7 +11309,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 111"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 +  1轮/等级 , 至多1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -10273,6 +11336,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 3轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -10303,7 +11368,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["PRPG Core Rulebook pg. 258"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "compulsive liar",
@@ -10324,6 +11391,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10349,6 +11418,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -10366,7 +11437,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 162"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -10394,6 +11467,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 206"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10417,6 +11492,7 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 206"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1天/等级 (可解消)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -10437,8 +11513,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 258"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "confess",
@@ -10458,6 +11537,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -10478,6 +11559,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 258"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10504,8 +11587,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 258"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "conjuration foil",
@@ -10529,6 +11615,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 207"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -10549,8 +11637,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "conjure carriage",
@@ -10571,7 +11662,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 207"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -10588,6 +11681,8 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -10605,8 +11700,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 258"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "constricting coils",
@@ -10625,6 +11723,8 @@ var spellsIndex = [
         "source": ["Pathfinder #42: Sanctum of the Serpent God pg. 71"],
         "race": "Ydersius",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10649,7 +11749,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 112"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "100里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -10673,7 +11775,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Horror Adventures pg. 113"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "200里"
     },
         {
         "key": "contact entity iii",
@@ -10696,7 +11800,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Horror Adventures pg. 113"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "200里"
     },
         {
         "key": "contact entity iv",
@@ -10718,7 +11824,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Horror Adventures pg. 114"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "500里"
     },
         {
         "key": "contact high",
@@ -10738,6 +11846,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -10756,7 +11866,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Demons Revisited pg. 50"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "专注",
+        "range_zh": "个人"
     },
         {
         "key": "contact other plane",
@@ -10777,7 +11889,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["PRPG Core Rulebook pg. 259"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "专注",
+        "range_zh": "个人"
     },
         {
         "key": "contagion, greater",
@@ -10802,6 +11916,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -10830,8 +11946,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 259"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "contagious flame",
@@ -10848,6 +11967,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -10875,7 +11996,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Blood of the Beast pg. 14"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直到完成 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "contagious zeal",
@@ -10903,6 +12026,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 162"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -10923,6 +12048,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -10939,7 +12066,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 259"],
-        "castingTime_zh": "至少10分钟; 见文本"
+        "castingTime_zh": "至少10分钟; 见文本",
+        "duration_zh": "1天/等级 (可解消) 或 直至能量发散",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "contingent action",
@@ -10956,6 +12086,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 178"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -10975,6 +12107,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 178"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级 (可解消) 或 直至能量发散",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -10992,6 +12126,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -11015,7 +12151,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 260"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11031,7 +12169,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 211"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -11042,7 +12182,9 @@ var spellsIndex = [
         "levels": {"druid": 8},
         "source": ["PRPG Core Rulebook pg. 260"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -11069,6 +12211,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11084,6 +12228,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 260"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11106,7 +12252,9 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 45"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -11128,7 +12276,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 260"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11148,8 +12298,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 261"],
         "castingTime_zh": "10分钟; 见文本",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "4d12小时; 见文本",
+        "range_zh": "2里",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "control winds",
@@ -11165,7 +12318,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 261"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "每等级40尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -11188,6 +12343,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -11206,7 +12363,9 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "每等级1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11222,7 +12381,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 212"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11239,7 +12400,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 57"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11257,6 +12420,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -11278,6 +12443,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 213"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -11300,6 +12467,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -11316,6 +12485,8 @@ var spellsIndex = [
         },
         "source": ["People of the Stars pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -11333,6 +12504,8 @@ var spellsIndex = [
             "Champions of Balance pg. 26"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -11356,6 +12529,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 213"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -11376,8 +12551,11 @@ var spellsIndex = [
             "Inner Sea World Guide pg. 294"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "covetous urge",
@@ -11402,6 +12580,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Villain Codex pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11429,7 +12609,9 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -11442,6 +12624,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 4},
         "source": ["Advanced Player's Guide pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -11460,6 +12644,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 213"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11479,6 +12665,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 213"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -11510,6 +12698,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11532,7 +12722,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11552,7 +12744,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 213"],
         "castingTime_zh": "6小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 或 立即; 见文本",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11575,7 +12769,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 214"],
         "castingTime_zh": "2小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11597,7 +12793,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 213"],
         "castingTime_zh": "4小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 或 立即; 见文本",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11621,7 +12819,9 @@ var spellsIndex = [
             "Pathfinder #99: Dance of the Damned pg. 74"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -11639,7 +12839,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 261"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11657,8 +12859,10 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["PRPG Core Rulebook pg. 261"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11677,7 +12881,9 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11696,6 +12902,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 163"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 见文本"
     },
@@ -11716,6 +12924,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 162"],
         "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 见文本"
     },
@@ -11734,7 +12944,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 213"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 + 每等级1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -11764,6 +12976,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11786,8 +13000,10 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Player's Guide pg. 214"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11807,8 +13023,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 262"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11825,8 +13043,10 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Pathfinder #81: Shifting Sands pg. 73"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11850,7 +13070,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -11867,7 +13089,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺) 或 100尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -11887,6 +13111,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 178"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -11903,6 +13129,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11924,6 +13152,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 208"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -11947,7 +13177,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 160"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -11965,6 +13197,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久 和 1小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -11975,6 +13209,8 @@ var spellsIndex = [
         "school": "evocation",
         "source": ["Pathfinder Campaign Setting pg. 206"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12006,7 +13242,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -12024,8 +13262,11 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 53"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "crushing despair",
@@ -12052,6 +13293,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12069,6 +13312,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -12088,7 +13333,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Humans of Golarion pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "cultural adaptation",
@@ -12109,7 +13356,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Intrigue pg. 208"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "cup of dust",
@@ -12127,8 +13376,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 214"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "curative distillation",
@@ -12145,6 +13397,8 @@ var spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
     },
@@ -12163,6 +13417,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害) 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则减半 (无害) 或 意志, 通过则减半; 见文本"
     },
@@ -12191,8 +13447,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 262"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害); 见文本",
-        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
+        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本",
+        "mythic": true
     },
         {
         "key": "cure light wounds, mass",
@@ -12215,6 +13474,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害) 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则减半 (无害) 或 意志, 通过则减半; 见文本"
     },
@@ -12245,8 +13506,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害); 见文本",
-        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
+        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本",
+        "mythic": true
     },
         {
         "key": "cure moderate wounds, mass",
@@ -12268,6 +13532,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害) 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则减半 (无害) 或 意志, 通过则减半; 见文本"
     },
@@ -12298,8 +13564,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害); 见文本",
-        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
+        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本",
+        "mythic": true
     },
         {
         "key": "cure serious wounds, mass",
@@ -12316,6 +13585,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害) 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则减半 (无害) 或 意志, 通过则减半; 见文本"
     },
@@ -12346,8 +13617,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害); 见文本",
-        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
+        "savingThrow_zh": "意志, 通过则减半 (无害); 见文本",
+        "mythic": true
     },
         {
         "key": "curse item",
@@ -12363,6 +13637,8 @@ var spellsIndex = [
         "source": ["Pathfinder #64: Beyond the Doomsday Door pg. 73"],
         "race": "Groetus",
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -12388,6 +13664,8 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 7"],
         "race": "Catfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12412,6 +13690,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -12440,6 +13720,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12466,6 +13748,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of the Coven pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12489,7 +13773,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -12506,6 +13792,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12530,7 +13818,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -12554,7 +13844,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (见文本诅咒)"
     },
         {
@@ -12582,6 +13874,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 209"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12605,6 +13899,8 @@ var spellsIndex = [
         "source": ["Pathfinder #89: Palace of Fallen Stars pg. 74"],
         "race": "Zyphus",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -12631,7 +13927,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1天 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "curse terrain, lesser",
@@ -12657,7 +13955,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -12681,7 +13981,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 115"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1天 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "curse terrain",
@@ -12706,7 +14008,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 114"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1天 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "curse water",
@@ -12723,6 +14027,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -12748,6 +14054,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12771,7 +14079,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -12795,6 +14105,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 188"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "永久直到发散, 然后永久; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "有(物体), 然后有; 见文本",
         "savingThrow_zh": "强韧, 通过则无效 (物体), 然后是意志, 通过则无效; 见文本"
     },
@@ -12815,6 +14127,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -12829,6 +14143,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 13"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -12851,6 +14167,8 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -12875,7 +14193,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Inner Sea Intrigue pg. 59"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "dahak's release",
@@ -12899,6 +14219,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Legacy of Dragons pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12915,7 +14237,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 218"],
         "race": "Garundi",
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "永久",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -12937,8 +14261,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 173"],
         "race": "tiefling",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "反射, 通过则减半; 见文本"
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "反射, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "damnation",
@@ -12955,6 +14282,7 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 115"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半"
     },
@@ -12974,6 +14302,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -12987,7 +14317,9 @@ var spellsIndex = [
             "skald": 4
         },
         "source": ["Ultimate Magic pg. 215"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "dance of a thousand cuts",
@@ -12999,7 +14331,9 @@ var spellsIndex = [
             "skald": 6
         },
         "source": ["Ultimate Magic pg. 216"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "dancing darkness",
@@ -13026,7 +14360,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13056,7 +14392,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 214"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13081,7 +14419,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13111,6 +14451,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 209"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -13132,6 +14474,8 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -13159,8 +14503,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 263"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "darkvault",
@@ -13184,7 +14531,9 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 15"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13207,6 +14556,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -13231,6 +14582,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -13255,6 +14608,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -13277,6 +14632,8 @@ var spellsIndex = [
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "5尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13296,8 +14653,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "daylight",
@@ -13325,8 +14685,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "daywalker",
@@ -13345,6 +14708,8 @@ var spellsIndex = [
         },
         "source": ["Cohorts and Companions pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -13372,6 +14737,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13399,6 +14766,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13429,6 +14798,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13446,6 +14817,8 @@ var spellsIndex = [
         },
         "source": ["Rival Guide pg. 5"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -13465,6 +14838,8 @@ var spellsIndex = [
         },
         "source": ["Rival Guide pg. 5"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -13492,6 +14867,8 @@ var spellsIndex = [
         ],
         "race": "Erastil",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1轮; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺) 或 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -13515,7 +14892,9 @@ var spellsIndex = [
             "Ultimate Combat pg. 226",
             "Faiths of Purity pg. 28"
         ],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "deadly finale",
@@ -13529,6 +14908,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 214"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -13547,7 +14928,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["Ultimate Combat pg. 227"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "deadman's contingency",
@@ -13567,7 +14950,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Intrigue pg. 210"],
-        "castingTime_zh": "至少10分钟; 见文本"
+        "castingTime_zh": "至少10分钟; 见文本",
+        "duration_zh": "1小时/等级 外加 1d6轮 (可解消) ; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "deafening song bolt",
@@ -13581,7 +14966,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 214"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13606,6 +14993,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "1轮",
+        "duration_zh": "立即/对像每HD1轮; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -13631,6 +15020,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 115"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -13650,6 +15041,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -13675,6 +15068,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13700,6 +15095,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13724,8 +15121,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即/受术者的每个HD持续10分钟; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "death pact",
@@ -13740,6 +15140,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 13"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13765,6 +15167,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 264"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -13789,8 +15193,11 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 113"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "deathwatch",
@@ -13806,7 +15213,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13829,6 +15238,8 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 58"
         ],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -13849,6 +15260,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/3等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 (见文本)"
     },
@@ -13869,6 +15282,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/3等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -13889,6 +15304,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消, 见文本)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -13909,6 +15326,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Disciple's Doctrine pg. 10"],
         "castingTime_zh": "见文本",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13927,6 +15346,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 115"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -13948,6 +15369,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -13968,7 +15391,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 或 直至能量发散, 之后为 1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -13992,6 +15417,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 116"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -14017,6 +15444,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1分钟; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -14039,7 +15468,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 163"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (物体) 或 意志, 通过则不相信 (若有互动)"
     },
         {
@@ -14064,8 +15495,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "deeper darkness",
@@ -14085,7 +15519,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14110,6 +15546,8 @@ var spellsIndex = [
         ],
         "race": "Pharasma",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -14120,7 +15558,9 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"investigator": 5},
         "source": ["Advanced Class Origins pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (D; 见文本)",
+        "range_zh": "个人"
     },
         {
         "key": "defensive shock",
@@ -14139,7 +15579,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Magic pg. 216"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "defile armor",
@@ -14153,8 +15595,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "deflect blame",
@@ -14175,6 +15620,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14191,7 +15638,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Advanced Player's Guide pg. 215"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "defoliate",
@@ -14208,6 +15657,8 @@ var spellsIndex = [
         },
         "source": ["Sargava, the Lost Colony pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -14230,7 +15681,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 19"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害, 物品)"
     },
         {
@@ -14244,7 +15697,9 @@ var spellsIndex = [
             "skald": 1
         },
         "source": ["Adventurer's Guide pg. 27"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "deja vu",
@@ -14264,6 +15719,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 163"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -14290,6 +15747,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 155"],
         "race": "ratfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -14316,6 +15775,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14342,6 +15803,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -14372,6 +15835,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -14388,6 +15853,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "5轮 或 更少; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -14401,7 +15868,9 @@ var spellsIndex = [
             "investigator": 5
         },
         "source": ["Advanced Player's Guide pg. 215"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消) 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "delectable flesh",
@@ -14424,6 +15893,8 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 19"],
         "race": "Ghoran",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14451,6 +15922,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14476,6 +15949,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 164"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1轮",
+        "range_zh": "5尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14496,6 +15971,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -14523,6 +16000,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直至完成 (可解消) ; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -14547,6 +16026,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级, 之后 1小时/等级 或 直至完成 (可解消) ; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -14567,6 +16048,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder Comics #10 pg. 26"],
         "castingTime_zh": "见文本",
+        "duration_zh": "见文本",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -14590,6 +16073,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14611,6 +16096,8 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 27"],
         "race": "Tengu",
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -14629,8 +16116,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 265"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "desperate weapon",
@@ -14657,7 +16147,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 210"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14674,6 +16166,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -14691,6 +16185,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -14708,6 +16204,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 266"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -14724,7 +16222,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 215"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 最高10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14741,7 +16241,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 266"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14770,7 +16272,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 211"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -14789,7 +16293,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 266"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14821,7 +16327,9 @@ var spellsIndex = [
             "Andoran, Spirit of Liberty pg. 27"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14838,7 +16346,9 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 最高10分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -14867,7 +16377,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 211"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -14886,7 +16398,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 266"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14908,7 +16422,9 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 16"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 最高10分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14927,7 +16443,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 267"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14946,7 +16464,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 267"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -14979,7 +16499,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 212"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15013,7 +16535,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 267"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15034,7 +16558,9 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15052,7 +16578,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 164"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -15081,7 +16609,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 268"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15098,7 +16628,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 164"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15121,7 +16653,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 8"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "120尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15140,7 +16674,9 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "N/A",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -15165,8 +16701,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 268"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "24小时",
+        "range_zh": "40尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "detect secret doors",
@@ -15188,7 +16727,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 268"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15204,7 +16745,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 268"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级10分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15228,7 +16771,9 @@ var spellsIndex = [
             "Taldor, Echoes of Glory pg. 25"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15256,7 +16801,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 268"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -15283,7 +16830,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 269"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15302,7 +16851,9 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1轮/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15328,6 +16879,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 215"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮, 之后立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -15350,6 +16903,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 115"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -15369,6 +16924,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 17"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -15388,8 +16945,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "diagnose disease",
@@ -15411,7 +16971,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 216"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15426,6 +16988,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #24: The Final Wish pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -15446,8 +17010,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 269"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无 或 意志, 通过则无效, 见文本"
+        "savingThrow_zh": "无 或 意志, 通过则无效, 见文本",
+        "mythic": true
     },
         {
         "key": "die for your master",
@@ -15466,7 +17033,9 @@ var spellsIndex = [
         },
         "source": ["Animal Archive pg. 24"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15493,8 +17062,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 269"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否 和 可 (物体)",
-        "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
+        "savingThrow_zh": "无 或 意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "dimensional anchor",
@@ -15518,6 +17090,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 270"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "无"
     },
@@ -15540,7 +17114,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "dimensional bounce",
@@ -15559,6 +17135,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -15578,8 +17156,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 270"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "diminish plants",
@@ -15593,7 +17174,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 270"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15621,6 +17204,8 @@ var spellsIndex = [
             "Monster Hunter's Handbook pg. 30"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -15640,7 +17225,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Inner Sea Intrigue pg. 59"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "dirge of the victorious knights",
@@ -15658,8 +17245,11 @@ var spellsIndex = [
             "Cheliax, Empire of Devils pg. 22"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "120尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "disable construct",
@@ -15677,7 +17267,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -15699,7 +17291,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 270"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -15720,7 +17314,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 270"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15745,6 +17341,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -15762,7 +17360,9 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15784,7 +17384,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -15806,7 +17408,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -15821,8 +17425,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "10尺 或 30尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "discovery torch",
@@ -15840,7 +17447,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15869,8 +17478,11 @@ var spellsIndex = [
             "Book of the Damned - Volume 2: Lords of Chaos pg. 48"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "disguise other",
@@ -15891,7 +17503,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Magic pg. 217"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "disguise self",
@@ -15916,7 +17530,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["PRPG Core Rulebook pg. 271"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "disguise weapon",
@@ -15940,7 +17556,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 180"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -15959,8 +17577,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效 (物体)"
+        "savingThrow_zh": "强韧, 通过则部分生效 (物体)",
+        "mythic": true
     },
         {
         "key": "dismissal",
@@ -15985,6 +17606,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16004,6 +17627,8 @@ var spellsIndex = [
             "Champions of Balance pg. 27"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -16023,6 +17648,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -16042,6 +17669,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 271"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -16061,6 +17690,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -16080,6 +17711,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散, 以先到的为准",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -16111,7 +17744,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16146,8 +17781,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 272"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "displacement",
@@ -16175,6 +17813,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 273"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -16198,7 +17838,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Blood of the Night pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1d4轮",
+        "range_zh": "远距 (400尺+每等级40尺)"
     },
         {
         "key": "disrupt link",
@@ -16217,6 +17859,8 @@ var spellsIndex = [
         },
         "source": ["Familiar Folio pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16236,6 +17880,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16253,6 +17899,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 273"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -16270,6 +17918,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 273"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -16289,7 +17939,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 19"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -16308,6 +17960,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 217"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -16324,6 +17978,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 217"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -16336,7 +17992,9 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 164"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16357,7 +18015,9 @@ var spellsIndex = [
             "witch": 4
         },
         "source": ["PRPG Core Rulebook pg. 273"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "divine arrow",
@@ -16368,7 +18028,9 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16384,7 +18046,10 @@ var spellsIndex = [
             "warpriest": 1
         },
         "source": ["PRPG Core Rulebook pg. 273"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "divine power",
@@ -16399,7 +18064,9 @@ var spellsIndex = [
             "warpriest": 4
         },
         "source": ["PRPG Core Rulebook pg. 273"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "divine pursuit",
@@ -16408,7 +18075,10 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"inquisitor": 5},
         "source": ["Ultimate Magic pg. 217"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "divine transfer",
@@ -16418,6 +18088,8 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["Advanced Player's Guide pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 + 1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -16435,7 +18107,9 @@ var spellsIndex = [
         "levels": {"oracle": 8},
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 216"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "dominate animal",
@@ -16453,6 +18127,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 273"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16473,6 +18149,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 274"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16498,8 +18176,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 274"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "domination link",
@@ -16518,7 +18199,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Night pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1分钟 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -16536,7 +18219,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 59"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16562,6 +18247,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 274"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16581,7 +18268,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 176"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16606,7 +18295,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 28"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16634,7 +18325,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -16659,8 +18352,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 217"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "draconic suppression",
@@ -16675,6 +18371,8 @@ var spellsIndex = [
         },
         "source": ["Dragonslayer's Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -16696,7 +18394,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Dragonslayer's Handbook pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "dragon's breath",
@@ -16721,8 +18421,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 217"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺 或 60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "dragonvoice",
@@ -16741,7 +18444,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Dragonslayer's Handbook pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "drain construct",
@@ -16756,7 +18461,9 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -16779,7 +18486,9 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -16795,6 +18504,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 217"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1d4轮)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -16822,6 +18533,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 116"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16844,6 +18557,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 165"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16863,6 +18578,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 30"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信, 随后意志, 通过则部分生效 (见描述)"
     },
@@ -16887,6 +18604,8 @@ var spellsIndex = [
         ],
         "race": "Desna",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -16914,6 +18633,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -16935,6 +18656,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 165"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16959,7 +18682,9 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -16975,6 +18700,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 166"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -16988,6 +18715,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 167"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -17014,8 +18743,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 274"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "见文本",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "drench",
@@ -17030,6 +18762,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射, 通过则无效 (物体)"
     },
@@ -17049,7 +18783,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 212"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17068,7 +18804,9 @@ var spellsIndex = [
         "source": ["Pathfinder #14: Children of the Void pg. 61"],
         "race": "Cayden Cailean",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -17088,7 +18826,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Dragonslayer's Handbook pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "duplicate familiar",
@@ -17106,7 +18846,9 @@ var spellsIndex = [
         },
         "source": ["Familiar Folio pg. 22"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -17127,7 +18869,9 @@ var spellsIndex = [
             "witch": 6
         },
         "source": ["Ultimate Combat pg. 228"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "dust of twilight",
@@ -17145,8 +18889,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 217"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "强韧, 通过则无效 (仅对疲乏)"
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "强韧, 通过则无效 (仅对疲乏)",
+        "mythic": true
     },
         {
         "key": "dust ward",
@@ -17164,7 +18911,9 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 45"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17181,6 +18930,8 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Bolka",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -17196,6 +18947,8 @@ var spellsIndex = [
         },
         "source": ["Cheliax, Empire of Devils pg. 22"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -17214,7 +18967,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 217"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17231,7 +18986,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 217"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17255,6 +19012,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 275"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -17287,6 +19046,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 275"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -17306,7 +19067,9 @@ var spellsIndex = [
             "warpriest": 6
         },
         "source": ["Inner Sea Magic pg. 53"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "ear-piercing scream",
@@ -17328,8 +19091,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "early judgment",
@@ -17349,6 +19115,8 @@ var spellsIndex = [
         ],
         "race": "Pharasma",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -17372,6 +19140,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -17389,7 +19159,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 25"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -17413,6 +19185,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 205"],
         "race": "svirfneblin",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -17435,7 +19209,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "至多30尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -17453,8 +19229,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 275"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "echean's excellent enclosure",
@@ -17469,6 +19248,8 @@ var spellsIndex = [
         },
         "source": ["Rival Guide pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "无"
     },
@@ -17493,6 +19274,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺) 或 远距 (400尺+每等级40尺); 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -17516,7 +19299,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Ultimate Magic pg. 218"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ectoplasmic eruption",
@@ -17529,6 +19314,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 168"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则部分生效; 见文本"
     },
@@ -17544,7 +19331,9 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17563,6 +19352,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 168"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -17584,7 +19375,9 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Ultimate Combat pg. 228"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ego whip i",
@@ -17600,6 +19393,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -17617,6 +19412,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -17634,6 +19431,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -17651,6 +19450,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -17668,6 +19469,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -17691,6 +19494,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即, 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -17707,6 +19512,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 54"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -17724,6 +19531,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 54"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -17748,6 +19557,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -17773,6 +19584,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Chronicle of the Righteous pg. 50"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4+1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -17799,6 +19612,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -17819,7 +19634,10 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["PRPG Core Rulebook pg. 275"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "elemental body ii",
@@ -17836,7 +19654,10 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["PRPG Core Rulebook pg. 276"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "elemental body iii",
@@ -17853,7 +19674,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 276"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "elemental body iv",
@@ -17867,7 +19691,10 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 277"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "elemental bombardment",
@@ -17883,8 +19710,11 @@ var spellsIndex = [
         },
         "source": ["Mythic Origins pg. 14"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/2等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "elemental mastery",
@@ -17904,7 +19734,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 219"],
         "race": "Ifrit, Oread, Suli, Sylph, Undine",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "elemental speech",
@@ -17932,7 +19764,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 218"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "elemental swarm",
@@ -17947,7 +19781,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 277"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -17973,7 +19809,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 218"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -17987,7 +19825,9 @@ var spellsIndex = [
             "psychic": 7
         },
         "source": ["Advanced Player's Guide pg. 218"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "emblazon crest",
@@ -18004,6 +19844,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -18027,7 +19869,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (物体)"
     },
         {
@@ -18043,7 +19887,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Lost Kingdoms pg. 12"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "emergency force sphere",
@@ -18058,7 +19904,9 @@ var spellsIndex = [
         },
         "source": ["Cheliax, Empire of Devils pg. 23"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "5尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18075,6 +19923,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 169"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18092,6 +19942,8 @@ var spellsIndex = [
         },
         "source": ["Familiar Folio pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18110,7 +19962,9 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (物体)"
     },
         {
@@ -18134,7 +19988,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Advanced Class Guide pg. 180"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "enchantment sight",
@@ -18162,7 +20018,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Heroes of the High Court pg. 10"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "endothermic touch",
@@ -18180,6 +20038,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 141"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -18205,6 +20065,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -18236,8 +20098,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 277"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "enemy hammer",
@@ -18254,8 +20119,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "enemy insight",
@@ -18268,7 +20136,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 181"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18295,6 +20165,8 @@ var spellsIndex = [
         ],
         "race": "orc",
         "castingTime_zh": "整轮动作; 见文本",
+        "duration_zh": "专注/每受术者HD1分钟; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -18313,6 +20185,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 277"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -18334,7 +20208,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Advanced Class Origins pg. 31"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "energy siege shot, greater",
@@ -18351,6 +20227,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 229"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
     },
@@ -18369,6 +20247,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 228"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
     },
@@ -18388,8 +20268,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 277"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "enhance water",
@@ -18410,6 +20293,8 @@ var spellsIndex = [
         ],
         "race": "Cayden Cailean",
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
     },
@@ -18427,6 +20312,8 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -18448,6 +20335,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 278"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -18474,8 +20363,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 277"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "enlarge tail",
@@ -18498,7 +20390,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Kobolds of Golarion pg. 27"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "enlightened step",
@@ -18517,7 +20411,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Divine Anthology pg. 12"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "enshroud thoughts",
@@ -18544,6 +20440,8 @@ var spellsIndex = [
             "Blood of the Elements pg. 13"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -18560,8 +20458,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 278"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "反射, 通过则部分生效; 见文本"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "反射, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "enter image",
@@ -18585,7 +20486,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 219"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注",
+        "range_zh": "每等级50尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18614,6 +20517,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 278"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时 或 更短",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18629,7 +20534,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 213"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18649,7 +20556,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 213"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18666,7 +20575,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 213"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18685,6 +20596,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18703,7 +20616,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18719,6 +20634,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 170"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18734,7 +20651,10 @@ var spellsIndex = [
             "warpriest": 1
         },
         "source": ["PRPG Core Rulebook pg. 278"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "envious urge",
@@ -18758,6 +20678,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18784,6 +20706,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -18801,6 +20725,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 170"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -18821,7 +20747,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 279"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -18839,6 +20767,8 @@ var spellsIndex = [
         },
         "source": ["Dragonslayer's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -18859,7 +20789,9 @@ var spellsIndex = [
         },
         "source": ["Plane-Hopper's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18880,6 +20812,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -18905,7 +20839,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 45"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -18926,7 +20862,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 68"],
         "race": "halfling",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ether step",
@@ -18940,7 +20878,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Planar Adventures pg. 40"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "ethereal envelope",
@@ -18953,7 +20893,9 @@ var spellsIndex = [
             "spiritualist": 4
         },
         "source": ["Occult Adventures pg. 170"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ethereal envelopment",
@@ -18967,6 +20909,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 170"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -18980,7 +20924,9 @@ var spellsIndex = [
             "spiritualist": 3
         },
         "source": ["Occult Adventures pg. 171"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ethereal jaunt",
@@ -18998,7 +20944,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 279"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "etherealness",
@@ -19016,6 +20964,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 279"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触; 见文本",
         "spellResistance_zh": "可"
     },
         {
@@ -19031,7 +20981,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 171"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效 或 反射, 通过则无效; 见文本"
     },
         {
@@ -19058,7 +21010,9 @@ var spellsIndex = [
             "Dark Markets - A Guide to Katapesh pg. 57"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
         {
@@ -19086,6 +21040,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无 或 意志, 通过则部分生效; 见文本"
     },
@@ -19104,7 +21060,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Black Markets pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "evolution surge, greater",
@@ -19117,7 +21075,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -19131,7 +21091,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -19145,7 +21107,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -19170,6 +21134,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -19189,7 +21155,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 7"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19208,7 +21176,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -19237,7 +21207,10 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["PRPG Core Rulebook pg. 279"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "expel blood",
@@ -19259,6 +21232,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Elemental Master's Handbook pg. 13"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即 和 1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -19274,6 +21249,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -19291,6 +21268,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 171"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "特殊; 见文本"
     },
@@ -19308,6 +21287,8 @@ var spellsIndex = [
             "Champions of Balance pg. 25"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -19325,6 +21306,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 279"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -19341,7 +21324,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19365,6 +21350,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 59"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -19387,7 +21374,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Class Guide pg. 181"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "eyebite",
@@ -19413,6 +21402,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 280"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -19432,7 +21423,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Advanced Class Guide pg. 181"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "fable tapestry",
@@ -19448,6 +21441,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 219"],
         "race": "Varisian",
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -19464,7 +21459,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 229"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19487,7 +21484,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19504,7 +21503,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 280"],
         "castingTime_zh": "见文本",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19533,6 +21534,8 @@ var spellsIndex = [
         ],
         "race": "Rovagug",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -19549,8 +21552,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 280"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "fair is foul",
@@ -19572,6 +21578,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Coven pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -19595,6 +21603,8 @@ var spellsIndex = [
         ],
         "race": "Abadar",
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -19611,7 +21621,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 181"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19632,7 +21644,9 @@ var spellsIndex = [
             "Gods and Magic pg. 39"
         ],
         "race": "Torag",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直到释放; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "false age",
@@ -19651,7 +21665,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Heroes from the Fringe pg. 23"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "false alibi",
@@ -19674,6 +21690,8 @@ var spellsIndex = [
         ],
         "race": "Norgorber",
         "castingTime_zh": "1轮",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -19692,6 +21710,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "10分钟, 加上改变的记忆长度",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -19714,7 +21734,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Heroes of the High Court pg. 25"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "false future",
@@ -19740,6 +21762,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 或 意志, 通过则不相信; 见文本"
     },
@@ -19764,7 +21788,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Magic pg. 219"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "false life",
@@ -19787,7 +21813,10 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["PRPG Core Rulebook pg. 280"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散; 见文本",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "false resurrection, greater",
@@ -19807,6 +21836,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -19830,6 +21861,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -19850,7 +21883,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 214"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -19873,7 +21908,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 280"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19885,7 +21922,9 @@ var spellsIndex = [
         "levels": {"witch": 7},
         "source": ["Advanced Class Guide pg. 181"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -19903,7 +21942,9 @@ var spellsIndex = [
         },
         "source": ["Animal Archive pg. 24"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -19920,6 +21961,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -19943,7 +21986,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Disciple's Doctrine pg. 13"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "fear the sun",
@@ -19969,6 +22014,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -20002,6 +22049,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 281"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见文本",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -20026,7 +22075,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 68"],
         "race": "halfling",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -20044,8 +22095,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "feast on fear",
@@ -20072,6 +22126,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 181"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -20097,8 +22153,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 281"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "直至落地 或 1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "feather step, mass",
@@ -20115,6 +22174,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -20133,6 +22194,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -20155,6 +22218,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 281"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -20180,6 +22245,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -20194,6 +22261,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -20208,6 +22277,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -20222,6 +22293,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder #119: Prisoners of the Blight pg. 73"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "see below (D)",
+        "range_zh": "接触 和 近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -20231,6 +22304,8 @@ var spellsIndex = [
         "school": "transmutation",
         "source": ["Pathfinder #119: Prisoners of the Blight pg. 73"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "see below (D)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -20254,7 +22329,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Wilderness pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "fey form ii",
@@ -20275,7 +22352,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Ultimate Wilderness pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "fey form iii",
@@ -20295,7 +22374,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Wilderness pg. 230"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "fey form iv",
@@ -20312,7 +22393,9 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["Ultimate Wilderness pg. 230"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "fey gate",
@@ -20338,7 +22421,9 @@ var spellsIndex = [
             "The First World, Realm of the Fey pg. 12"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -20361,6 +22446,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -20392,6 +22479,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Plane-Hopper's Handbook pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -20407,7 +22496,9 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["Advanced Player's Guide pg. 221"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "fiery runes",
@@ -20428,6 +22519,8 @@ var spellsIndex = [
         },
         "source": ["Melee Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无"
     },
@@ -20445,6 +22538,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -20468,6 +22563,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #74: Sword of Valor pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -20491,6 +22588,8 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 然后反射, 通过则减半"
     },
@@ -20516,6 +22615,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -20532,7 +22633,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 230"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -20557,6 +22660,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 281"],
         "castingTime_zh": "3轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "否 或 可 (无害)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (无害)"
     },
@@ -20576,7 +22681,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["PRPG Core Rulebook pg. 281"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "finger of death",
@@ -20593,8 +22700,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "fins to feet",
@@ -20615,6 +22725,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 195"],
         "race": "merfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -20635,6 +22747,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 能量耗尽; 见文本",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -20646,6 +22760,8 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "特殊; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -20657,6 +22773,8 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["Advanced Player's Guide pg. 221"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "特殊; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -20669,7 +22787,9 @@ var spellsIndex = [
         "levels": {"paladin": 4},
         "source": ["Advanced Player's Guide pg. 222"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "特殊; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -20686,8 +22806,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无 或 反射, 通过则减半; 见文本"
+        "duration_zh": "10分钟/等级 或 直至使用",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无 或 反射, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "fire shield",
@@ -20712,7 +22835,10 @@ var spellsIndex = [
         },
         "descriptorsOperator": "or",
         "source": ["PRPG Core Rulebook pg. 282"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "fire snake",
@@ -20731,8 +22857,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "fire sneeze",
@@ -20755,6 +22884,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Goblins of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮+1轮/2等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -20772,8 +22903,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "fire trail",
@@ -20794,6 +22928,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 119"],
         "race": "goblin",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -20813,6 +22949,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 282"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -20830,7 +22968,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 220"],
         "race": "Goblin",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "fireball",
@@ -20848,8 +22988,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 283"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "firebelly",
@@ -20873,6 +23016,8 @@ var spellsIndex = [
         ],
         "race": "Torag",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -20889,6 +23034,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害); 见文本"
     },
@@ -20908,7 +23055,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 222"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 以及 反射, 通过则部分生效; 见文本"
     },
         {
@@ -20927,8 +23076,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 最高1轮/等级; 见文本",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "firewalker's meditation",
@@ -20946,7 +23098,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Divine Anthology pg. 12"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "first world revisions",
@@ -20971,6 +23125,8 @@ var spellsIndex = [
         "source": ["Blood of Shadows pg. 11"],
         "race": "Wayang",
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -20991,7 +23147,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 283"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -21007,8 +23165,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 283"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "flame steed",
@@ -21029,7 +23190,9 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 28"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -21049,8 +23212,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 283"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "flames of the faithful",
@@ -21061,8 +23227,11 @@ var spellsIndex = [
         "levels": {"inquisitor": 2},
         "source": ["Advanced Player's Guide pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体, 无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (物体, 无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (物体, 无害)",
+        "mythic": true
     },
         {
         "key": "flaming aura",
@@ -21086,6 +23255,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 70"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "否 (无害, 见文本)",
         "savingThrow_zh": "无 (无害, 见文本)"
     },
@@ -21107,6 +23278,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 182"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -21128,6 +23301,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 283"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -21151,6 +23326,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -21176,6 +23353,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 284"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -21193,6 +23372,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体, 见文本)"
     },
@@ -21213,7 +23394,9 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 27"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 和 1轮/等级",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -21241,7 +23424,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 5"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -21257,6 +23442,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射过则无效 (物体) 和 强韧过则无效"
     },
@@ -21276,7 +23463,9 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体); 见文本"
     },
         {
@@ -21295,6 +23484,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -21314,6 +23505,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -21337,7 +23530,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Horror Adventures pg. 117"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "flesh puppet",
@@ -21360,7 +23555,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 117"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -21376,7 +23573,9 @@ var spellsIndex = [
         },
         "source": ["Dungeon Denizens Revisited pg. 19"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效; 意志, 通过则部分生效; 见文本"
     },
         {
@@ -21394,8 +23593,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 284"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "flesh wall",
@@ -21418,7 +23620,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 117"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -21435,8 +23639,11 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 55"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "fleshwarping swarm (drow)",
@@ -21454,7 +23661,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Drow",
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注+2 轮 和 1小时/等级 (见下)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -21477,6 +23686,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -21500,6 +23711,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 81"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "可 (无害)"
     },
@@ -21513,7 +23726,9 @@ var spellsIndex = [
             "skald": 3
         },
         "source": ["Advanced Class Guide pg. 182"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "flexile curse",
@@ -21535,6 +23750,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -21564,6 +23781,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 118"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -21583,8 +23802,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 284"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "fluid form",
@@ -21601,7 +23823,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Advanced Player's Guide pg. 223"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "flurry of snowballs",
@@ -21627,7 +23851,9 @@ var spellsIndex = [
             "People of the North pg. 26"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
@@ -21643,6 +23869,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -21671,8 +23899,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 284"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "focused scrutiny",
@@ -21691,7 +23922,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Advanced Class Guide pg. 182"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "foe to friend",
@@ -21708,6 +23941,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 224"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -21730,8 +23965,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 284"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "follow aura",
@@ -21750,7 +23988,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 224"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "font of spirit magic",
@@ -21761,7 +24001,9 @@ var spellsIndex = [
         "levels": {"shaman": 3},
         "source": ["Advanced Class Guide pg. 182"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -21777,6 +24019,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -21802,6 +24046,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (物品, 见文本)"
     },
@@ -21822,7 +24068,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 117"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 或 意志, 通过则不相信 (见下)"
     },
         {
@@ -21840,7 +24088,9 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人 和 接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志无效 (无害) , 见文本; "
     },
         {
@@ -21865,6 +24115,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -21890,6 +24142,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -21907,6 +24161,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 285"],
         "castingTime_zh": "6小时",
+        "duration_zh": "永久",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -21928,6 +24184,8 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -21944,6 +24202,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -21964,8 +24224,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "force sword",
@@ -21986,6 +24249,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -22003,7 +24268,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 285"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -22025,6 +24292,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -22048,6 +24317,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22068,6 +24339,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22087,6 +24360,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 285"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -22106,6 +24381,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 55"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "接触 或 近战武器触及范围",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -22125,8 +24402,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 285"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "否 或 可 (无害)",
-        "savingThrow_zh": "无 或 意志, 通过则无效 (无害)"
+        "savingThrow_zh": "无 或 意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "forest friend",
@@ -22140,7 +24420,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 230"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -22157,6 +24439,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可消解) ; 见文本",
+        "range_zh": "每等级1里",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22177,7 +24461,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Arcane Anthology pg. 24"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "forgetful slumber",
@@ -22199,6 +24485,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 48"],
         "race": "half-elf",
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22218,7 +24506,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22235,7 +24525,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22252,7 +24544,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22271,8 +24565,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 286"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "form of the dragon ii",
@@ -22287,8 +24584,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 286"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "form of the dragon iii",
@@ -22303,8 +24603,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 286"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "form of the exotic dragon i",
@@ -22322,7 +24625,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22339,7 +24644,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22356,7 +24663,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -22375,7 +24684,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Disciple's Doctrine pg. 10"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "foster hatred",
@@ -22393,6 +24704,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 172"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22413,6 +24726,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 286"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22437,6 +24752,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 286"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22462,7 +24779,9 @@ var spellsIndex = [
             "Pathfinder #41: The Thousand Fangs Below pg. 73"
         ],
         "race": "Nethys",
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "free spirit",
@@ -22483,7 +24802,9 @@ var spellsIndex = [
             "witch": 3
         },
         "source": ["Inner Sea Temples pg. 23"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "free swim",
@@ -22510,6 +24831,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 59"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22538,6 +24861,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 287"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22561,6 +24886,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 234"],
         "race": "Cayden Cailean",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22577,6 +24904,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 287"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺) 或 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22595,6 +24924,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 287"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1轮/等级; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -22615,7 +24946,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Ultimate Combat pg. 230"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "frigid souls",
@@ -22645,6 +24978,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22665,6 +25000,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -22685,6 +25022,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/2等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -22711,7 +25050,9 @@ var spellsIndex = [
             "People of the North pg. 26"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -22730,6 +25071,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -22751,6 +25094,8 @@ var spellsIndex = [
         "source": ["Pathfinder #69: Maiden, Mother, Crone pg. 66"],
         "race": "Kostchtchie",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -22776,6 +25121,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "否 (无害, 见文本)",
         "savingThrow_zh": "无 (无害, 见文本)"
     },
@@ -22796,6 +25143,7 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (最高为1轮/等级); 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -22820,7 +25168,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -22839,6 +25189,8 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 27"],
         "race": "Tengu",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -22858,6 +25210,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -22876,6 +25230,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 42"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -22895,7 +25251,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #119: Prisoners of the Blight pg. 70"],
         "race": "Cyth-V'sug",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "fungal infestation",
@@ -22909,6 +25267,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d3天",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -22927,6 +25287,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -22948,6 +25310,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -22962,6 +25326,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 225"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -22984,7 +25350,9 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -23010,6 +25378,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Spymaster's Handbook pg. 28"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -23035,8 +25405,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 287"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "2分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "gate",
@@ -23058,7 +25431,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 287"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 或 专注 (至多1轮/等级); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23086,6 +25461,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 288"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -23117,6 +25494,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 288"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -23133,6 +25512,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 55"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -23144,7 +25525,9 @@ var spellsIndex = [
         "subSchools": ["creation"],
         "source": ["Pathfinder Campaign Setting pg. 207"],
         "castingTime_zh": "1周 (8小时/天)",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "180尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23166,7 +25549,10 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Inner Sea Magic pg. 55"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "genius avaricious",
@@ -23185,7 +25571,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #30: The Twice-Damned Prince pg. 69"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23205,6 +25593,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -23228,6 +25618,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 289"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -23249,7 +25641,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 237"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23271,7 +25665,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 225"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23295,7 +25691,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 225"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -23313,7 +25711,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 215"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23337,7 +25737,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 289"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
@@ -23361,6 +25763,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 172"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -23385,7 +25789,9 @@ var spellsIndex = [
         ],
         "race": "half-orc",
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消) 或 1轮/等级; 见文本",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (见描述)"
     },
         {
@@ -23406,6 +25812,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -23427,6 +25835,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -23453,7 +25863,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Magic pg. 222"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ghoul hunger",
@@ -23481,6 +25893,8 @@ var spellsIndex = [
         ],
         "race": "Urgathoa",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -23499,6 +25913,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 289"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d6+2轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -23516,7 +25932,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 289"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "giant form ii",
@@ -23530,7 +25948,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["PRPG Core Rulebook pg. 289"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "giant vermin",
@@ -23547,8 +25967,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "gift of the deep",
@@ -23566,6 +25989,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 189"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -23584,6 +26009,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 57"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -23606,7 +26033,9 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 22"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23620,7 +26049,9 @@ var spellsIndex = [
             "skald": 3
         },
         "source": ["PRPG Core Rulebook pg. 290"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "glide",
@@ -23643,7 +26074,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Player's Guide pg. 225"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 着陆为止 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "glimpse of the akashic",
@@ -23652,7 +26085,9 @@ var spellsIndex = [
         "school": "divination",
         "levels": {"psychic": 8},
         "source": ["Psychic Anthology pg. 10"],
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "1天 或 直到发散 (见描述)",
+        "range_zh": "个人"
     },
         {
         "key": "glimpse of truth",
@@ -23681,7 +26116,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 215"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23701,6 +26138,8 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -23726,7 +26165,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (仅限目盲)"
     },
         {
@@ -23743,7 +26184,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23760,8 +26203,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "globe of tranquil water",
@@ -23782,7 +26228,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Wild pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -23803,6 +26251,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 113"],
         "race": "fetchling",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -23825,7 +26275,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 183"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -23841,6 +26293,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
     },
@@ -23858,8 +26312,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 290"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
-        "savingThrow_zh": "见文本"
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "golden guise",
@@ -23876,6 +26333,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -23896,6 +26355,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -23911,8 +26372,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "gorum's armor",
@@ -23933,8 +26397,11 @@ var spellsIndex = [
             "Gods and Magic pg. 17"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "gozreh's trident",
@@ -23957,6 +26424,8 @@ var spellsIndex = [
         ],
         "race": "Gozreh",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -23972,7 +26441,9 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Advanced Player's Guide pg. 226"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "grand destiny",
@@ -23995,6 +26466,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
@@ -24014,6 +26487,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -24039,7 +26514,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 9"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24063,7 +26540,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 118"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24080,6 +26559,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -24100,7 +26581,9 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24123,7 +26606,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 25"],
         "race": "Vine Leshy",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "grave words",
@@ -24138,7 +26623,9 @@ var spellsIndex = [
             "spiritualist": 0
         },
         "source": ["Occult Adventures pg. 172"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1轮",
+        "range_zh": "接触"
     },
         {
         "key": "gravel vortex",
@@ -24155,6 +26642,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #93: Forge of the Giant God pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -24173,7 +26662,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Player's Guide pg. 226"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "gravity sphere",
@@ -24189,7 +26680,9 @@ var spellsIndex = [
         },
         "source": ["People of the Stars pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -24206,7 +26699,9 @@ var spellsIndex = [
         },
         "source": ["Dragonslayer's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -24225,7 +26720,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Dirty Tactics Toolbox pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)"
     },
         {
         "key": "grease",
@@ -24246,8 +26743,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 291"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "greater reversion",
@@ -24265,7 +26765,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Plane-Hopper's Handbook pg. 28"],
-        "castingTime_zh": "20分钟"
+        "castingTime_zh": "20分钟",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "green caress",
@@ -24281,6 +26783,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 119"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "7天 (见下)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -24302,7 +26806,9 @@ var spellsIndex = [
             "Rival Guide pg. 23"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -24331,6 +26837,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 27"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -24352,6 +26860,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 19"],
         "race": "dwarf",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -24369,7 +26879,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 226"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24394,6 +26906,8 @@ var spellsIndex = [
         },
         "source": ["Armor Master's Handbook pg. 23"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -24415,6 +26929,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -24439,6 +26955,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 8"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -24456,7 +26974,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 183"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -24480,7 +27000,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Monster Hunter's Handbook pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "guards and wards",
@@ -24495,8 +27017,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 292"],
         "castingTime_zh": "30分钟",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "被保护区域内的所有地点",
         "spellResistance_zh": "见文本",
-        "savingThrow_zh": "见文本"
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "guidance",
@@ -24521,6 +27046,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 292"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -24540,7 +27067,9 @@ var spellsIndex = [
             "witch": 3
         },
         "source": ["Advanced Player's Guide pg. 226"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "gullibility",
@@ -24563,6 +27092,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -24584,8 +27115,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "gusting sphere",
@@ -24605,6 +27139,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (物体) 或 反射, 通过则无效; 见文本"
     },
@@ -24624,6 +27160,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Coven pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -24648,6 +27186,8 @@ var spellsIndex = [
         ],
         "race": "Torag",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -24672,8 +27212,10 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 59"],
         "race": "half-orc",
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24689,6 +27231,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #131: The Reaper's Right Hand pg. 72"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -24706,6 +27250,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #131: The Reaper's Right Hand pg. 72"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -24725,6 +27271,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "24小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -24745,7 +27293,9 @@ var spellsIndex = [
         },
         "source": ["Disciple's Doctrine pg. 19"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -24766,7 +27316,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -24783,6 +27335,8 @@ var spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮/等级 或 直到消散; 见文本",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -24799,6 +27353,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -24820,6 +27376,7 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 235"],
         "race": "Torag",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -24838,7 +27395,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 215"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -24859,7 +27418,9 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 26"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -24874,6 +27435,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Campaign Setting pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "无"
     },
@@ -24894,8 +27457,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则减半; 见文本"
+        "savingThrow_zh": "意志, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "harmless form",
@@ -24915,6 +27481,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -24932,7 +27500,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["The Harrow Handbook pg. 9"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "一天/等级 或 直到应验",
+        "range_zh": "接触"
     },
         {
         "key": "harrowing",
@@ -24949,7 +27519,10 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Inner Sea World Guide pg. 295"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "一天/等级 或 直到应验",
+        "range_zh": "接触",
+        "mythic": true
     },
         {
         "key": "harvest knowledge",
@@ -24973,7 +27546,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 62"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 最高1分钟/等级",
+        "range_zh": "接触; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -24988,7 +27563,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 23"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25016,8 +27593,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 293"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "hasten judgment",
@@ -25041,6 +27621,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 40"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25061,7 +27643,9 @@ var spellsIndex = [
             "wizard": 0
         },
         "source": ["Ultimate Combat pg. 230"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "haunting choir",
@@ -25080,6 +27664,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25107,7 +27693,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 222"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
         {
@@ -25132,6 +27720,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "12小时 + 2小时/等级 或 直至能量发散, 之后 1日/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25163,6 +27753,8 @@ var spellsIndex = [
         ],
         "race": "Desna",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25175,6 +27767,8 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["PRPG Core Rulebook pg. 294"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25191,6 +27785,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 294"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25216,8 +27812,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 294"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "healing flames",
@@ -25239,6 +27838,7 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Healer's Handbook pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -25260,6 +27860,8 @@ var spellsIndex = [
         },
         "source": ["Plane-Hopper's Handbook pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25279,8 +27881,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "healing token",
@@ -25301,6 +27906,8 @@ var spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -25322,7 +27929,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "heart of the mammoth",
@@ -25340,7 +27949,9 @@ var spellsIndex = [
         },
         "source": ["Dragonslayer's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志 (无害)"
     },
         {
@@ -25360,7 +27971,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 183"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25377,8 +27990,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 294"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "7轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "意志, 通过则无效 (物体)"
+        "savingThrow_zh": "意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "heatstroke",
@@ -25395,6 +28011,8 @@ var spellsIndex = [
         },
         "source": ["Sargava, the Lost Colony pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -25414,7 +28032,9 @@ var spellsIndex = [
         },
         "source": ["Magical Marketplace pg. 8"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -25441,6 +28061,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Arcane Anthology pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25459,7 +28081,9 @@ var spellsIndex = [
             "warpriest": 1
         },
         "source": ["Horror Adventures pg. 119"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "heightened awareness",
@@ -25485,7 +28109,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 183"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "heightened reflexes",
@@ -25498,6 +28124,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25522,6 +28150,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 1: Princes of Darkness pg. 46"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -25546,7 +28176,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Race Guide pg. 173"],
         "race": "tiefling",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "helping hand",
@@ -25563,7 +28195,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 295"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "5里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25581,6 +28215,8 @@ var spellsIndex = [
         "source": ["Pathfinder #107: Scourge of the Godclaw pg. 72"],
         "race": "Geryon",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25599,7 +28235,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of Dragons pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -25610,7 +28248,9 @@ var spellsIndex = [
         "subSchools": ["healing"],
         "levels": {"paladin": 1},
         "source": ["Advanced Player's Guide pg. 226"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "heroes' feast",
@@ -25628,7 +28268,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 295"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时 加 12小时; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25644,6 +28286,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25661,7 +28305,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 324"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -25681,7 +28327,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 324"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -25700,6 +28348,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25724,6 +28374,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 295"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25753,8 +28405,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 295"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "hex glyph, greater",
@@ -25767,6 +28422,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
     },
@@ -25781,6 +28438,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "见文本"
     },
@@ -25796,6 +28455,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 184"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25812,8 +28473,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "hibernate",
@@ -25826,7 +28490,9 @@ var spellsIndex = [
         },
         "source": ["Faction Guide pg. 61"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25851,6 +28517,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -25874,7 +28542,9 @@ var spellsIndex = [
             "Adventurer's Guide pg. 60",
             "Second Darkness Player's Guide pg. 26"
         ],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级",
+        "range_zh": "个人"
     },
         {
         "key": "hidden presence",
@@ -25896,6 +28566,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -25916,6 +28588,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -25936,8 +28610,10 @@ var spellsIndex = [
             "witch": 1
         },
         "source": ["Ultimate Wilderness pg. 231"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -25961,6 +28637,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 20"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 与 意志, 通过则不相信; 见文本"
     },
@@ -25977,7 +28655,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 227"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -25993,6 +28673,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26009,6 +28691,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26025,6 +28709,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26045,7 +28731,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Dirty Tactics Toolbox pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "hideous laughter",
@@ -26066,8 +28754,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "hobble",
@@ -26089,6 +28780,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 200"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -26102,7 +28795,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #117: Assault on Longshadow pg. 76"],
         "race": "Hadregash",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "hold animal",
@@ -26120,6 +28815,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26143,6 +28840,8 @@ var spellsIndex = [
         },
         "source": ["The First World, Realm of the Fey pg. 12"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26162,6 +28861,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26189,6 +28890,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26209,6 +28912,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26240,6 +28945,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 296"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26257,8 +28964,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 297"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "hollow blades",
@@ -26277,6 +28987,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 26"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -26302,6 +29014,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26333,6 +29047,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26348,6 +29064,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 297"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "见文本"
     },
@@ -26370,7 +29088,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 185"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -26391,6 +29111,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级, 立即, 或 直至能量发散; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 或 无; 见文本"
     },
@@ -26410,6 +29132,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 119"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮 + 1轮/4等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -26421,7 +29145,9 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -26438,8 +29164,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 297"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1轮); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "holy sword",
@@ -26450,7 +29179,9 @@ var spellsIndex = [
         "levels": {"paladin": 4},
         "source": ["PRPG Core Rulebook pg. 297"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -26462,6 +29193,8 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["Advanced Player's Guide pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -26482,8 +29215,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 297"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "homeward bound",
@@ -26500,6 +29236,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 41"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26516,7 +29254,9 @@ var spellsIndex = [
             "skald": 2
         },
         "source": ["Advanced Player's Guide pg. 228"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "hoodwink",
@@ -26538,6 +29278,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 212"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26557,7 +29299,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -26574,6 +29318,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 298"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -26594,7 +29340,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Horror Adventures pg. 120"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "horrifying visage",
@@ -26626,6 +29374,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26646,6 +29396,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26667,6 +29419,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26690,6 +29444,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26716,6 +29472,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -26735,6 +29493,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26756,6 +29516,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26781,7 +29543,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 121"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "hunger for flesh",
@@ -26808,6 +29572,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 120"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -26828,6 +29594,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Magic pg. 56"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无"
     },
@@ -26846,7 +29614,9 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 81"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -26864,7 +29634,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 + 每等级1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 反射, 通过则减半; 见文本"
     },
         {
@@ -26884,6 +29656,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 235"],
         "race": "Erastil",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -26899,6 +29673,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -26914,7 +29690,9 @@ var spellsIndex = [
         },
         "source": ["Animal Archive pg. 24"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -26934,7 +29712,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 228"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -26948,7 +29728,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Inner Sea Magic pg. 56"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "huntmaster's spear",
@@ -26969,6 +29751,8 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 30"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -26986,7 +29770,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #24: The Final Wish pg. 60"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -27007,8 +29793,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "hydraulic torrent",
@@ -27027,8 +29816,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "hydrophobia",
@@ -27056,6 +29848,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Magical Marketplace pg. 8"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27079,6 +29873,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Champions of Purity pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27096,6 +29892,8 @@ var spellsIndex = [
         },
         "source": ["Champions of Purity pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27116,7 +29914,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Occult Adventures pg. 172"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "hypnotic pattern",
@@ -27137,6 +29937,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 298"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27160,7 +29962,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 19"],
         "race": "Nagaji",
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "2d4轮 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "hypnotism",
@@ -27182,6 +29986,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 298"],
         "castingTime_zh": "1轮",
+        "duration_zh": "2d4轮 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27209,7 +30015,9 @@ var spellsIndex = [
         ],
         "race": "Gozreh",
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至被摧毁",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -27226,7 +30034,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Magic pg. 224"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ice crystal teleport",
@@ -27245,6 +30055,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4轮 和 立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27266,6 +30078,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 69"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "见下文",
         "savingThrow_zh": "反射通过则部分无效（见下文）"
     },
@@ -27288,7 +30102,9 @@ var spellsIndex = [
             "Inner Sea Magic pg. 57"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -27311,8 +30127,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 298"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "icicle dagger",
@@ -27333,7 +30152,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 224"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -27349,6 +30170,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -27365,6 +30188,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -27378,6 +30203,8 @@ var spellsIndex = [
         "levels": {"psychic": 2},
         "source": ["Occult Adventures pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27391,6 +30218,8 @@ var spellsIndex = [
         "levels": {"psychic": 3},
         "source": ["Occult Adventures pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27404,6 +30233,8 @@ var spellsIndex = [
         "levels": {"psychic": 4},
         "source": ["Occult Adventures pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27417,6 +30248,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 173"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27438,6 +30271,8 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮 + 1轮/等级, 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -27464,7 +30299,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "3轮/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -27490,7 +30327,9 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 16"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
@@ -27512,8 +30351,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "illusion of calm",
@@ -27535,7 +30377,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 231"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (被击中时; 见文本)"
     },
         {
@@ -27556,6 +30400,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -27577,6 +30423,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 216"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -27594,7 +30442,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 30"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -27613,6 +30463,8 @@ var spellsIndex = [
         },
         "source": ["Dragonslayer's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -27632,6 +30484,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Monster Codex pg. 41"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -27649,6 +30503,8 @@ var spellsIndex = [
         },
         "source": ["Gnomes of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "Will disbelief, then Fortitude (see text)"
     },
@@ -27672,6 +30528,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "每页1分钟",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27692,7 +30550,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -27706,6 +30566,8 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1场战斗",
+        "range_zh": "1个单元格",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无 或 意志, 通过则无效 (无害)"
     },
@@ -27720,6 +30582,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Origins pg. 31"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -27742,6 +30606,8 @@ var spellsIndex = [
             "Magical Marketplace pg. 24"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -27757,6 +30623,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -27779,6 +30647,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 203"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "24小时 或 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -27794,8 +30664,11 @@ var spellsIndex = [
         },
         "source": ["Mythic Origins pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "imbue with spell ability",
@@ -27811,6 +30684,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -27830,7 +30705,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 57"],
         "castingTime_zh": "2轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -27847,6 +30724,8 @@ var spellsIndex = [
         },
         "source": ["Second Darkness Player's Guide pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27867,6 +30746,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -27883,7 +30764,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 173"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -27906,6 +30789,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -27926,6 +30811,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27941,6 +30828,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 299"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (至多每2个等级1轮)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -27961,6 +30850,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 121"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -27977,6 +30868,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28000,6 +30893,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 137"],
         "race": "kobold",
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -28018,7 +30913,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -28034,6 +30931,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -28056,6 +30955,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28071,6 +30972,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -28096,7 +30999,9 @@ var spellsIndex = [
             "Path of the Hellknight pg. 60"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28125,6 +31030,8 @@ var spellsIndex = [
             "Inner Sea World Guide pg. 295"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -28155,6 +31062,8 @@ var spellsIndex = [
             "Inner Sea World Guide pg. 295"
         ],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -28171,6 +31080,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -28191,8 +31102,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则减半; 见文本"
+        "savingThrow_zh": "意志, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "inflict light wounds, mass",
@@ -28210,6 +31124,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -28231,8 +31147,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则减半; 见文本"
+        "savingThrow_zh": "意志, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "inflict moderate wounds, mass",
@@ -28250,6 +31169,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -28271,8 +31192,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 300"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则减半; 见文本"
+        "savingThrow_zh": "意志, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "inflict pain, mass",
@@ -28299,6 +31223,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -28327,6 +31253,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -28343,6 +31271,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -28364,8 +31294,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则减半; 见文本"
+        "savingThrow_zh": "意志, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "influence wild magic",
@@ -28392,7 +31325,9 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -28408,6 +31343,8 @@ var spellsIndex = [
         },
         "source": ["Curse of the Crimson Throne (PFRPG) pg. 453"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -28428,7 +31365,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Lands of the Linnorm Kings pg. 48"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "永久, 直到释放(可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -28448,6 +31387,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28469,7 +31410,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Planar Adventures pg. 41"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "inheritor's smite",
@@ -28488,7 +31431,9 @@ var spellsIndex = [
             "Pathfinder #26: The Sixfold Trial pg. 71"
         ],
         "race": "Iomedae",
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "inhibiting patterns",
@@ -28506,6 +31451,8 @@ var spellsIndex = [
         },
         "source": ["Distant Realms pg. 42"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28529,7 +31476,9 @@ var spellsIndex = [
         },
         "source": ["People of the Sands pg. 21"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -28543,7 +31492,9 @@ var spellsIndex = [
             "skald": 1
         },
         "source": ["Advanced Player's Guide pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "innocuous shape",
@@ -28563,6 +31514,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -28583,6 +31536,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28604,7 +31559,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28631,7 +31588,9 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 29"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1d6小时, 加上1小时/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28651,7 +31610,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28672,7 +31633,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28693,6 +31656,8 @@ var spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1分钟",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
     },
@@ -28711,7 +31676,9 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Advanced Player's Guide pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "instant clot",
@@ -28737,6 +31704,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Sea pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
@@ -28751,7 +31720,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 229"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28774,7 +31745,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "1个接触到的物品",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -28802,7 +31775,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 176"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28823,7 +31798,9 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 22"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28841,7 +31818,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 217"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 或 直至能量发散",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28859,7 +31838,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -28883,7 +31864,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Melee Tactics Toolbox pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "0尺"
     },
         {
         "key": "instigate psychic duel",
@@ -28901,6 +31884,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 174"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -28917,6 +31902,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体, 见文本)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体, 见文本)"
     },
@@ -28928,6 +31915,8 @@ var spellsIndex = [
         "levels": {"psychic": 4},
         "source": ["Occult Adventures pg. 174"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -28939,6 +31928,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 175"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -28950,6 +31941,8 @@ var spellsIndex = [
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 175"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -28980,6 +31973,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Heroes of the Darklands pg. 20"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29003,6 +31998,8 @@ var spellsIndex = [
             "Inner Sea World Guide pg. 295"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人 和 接触",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -29022,6 +32019,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29041,6 +32040,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 225"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -29065,6 +32066,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 225"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -29087,6 +32090,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29109,6 +32114,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29134,7 +32141,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Advanced Class Guide pg. 185"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "invigorate, mass",
@@ -29150,6 +32159,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29168,6 +32179,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29188,6 +32201,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -29204,7 +32219,9 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Magrim",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "invisibility alarm",
@@ -29226,7 +32243,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 185"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -29249,6 +32268,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29269,6 +32290,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29299,6 +32322,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29316,7 +32341,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["PRPG Core Rulebook pg. 302"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "invisibility sphere",
@@ -29338,6 +32365,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 302"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29369,6 +32398,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 302"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29389,6 +32420,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 302"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29421,8 +32454,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 301"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人 或 接触",
         "spellResistance_zh": "可 (无害) 或 可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害) 或 意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "invoke deity",
@@ -29444,7 +32480,9 @@ var spellsIndex = [
             "witch": 6
         },
         "source": ["Planar Adventures pg. 41"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "invoke primal power",
@@ -29456,7 +32494,9 @@ var spellsIndex = [
             "hunter": 5
         },
         "source": ["Adventurer's Guide pg. 134"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "iron body",
@@ -29470,7 +32510,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["PRPG Core Rulebook pg. 302"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "iron spine",
@@ -29489,6 +32531,8 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29516,7 +32560,9 @@ var spellsIndex = [
             "The First World, Realm of the Fey pg. 12"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 或 1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -29537,6 +32583,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 19"],
         "race": "dwarf",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -29555,6 +32603,8 @@ var spellsIndex = [
         "source": ["Pathfinder #62: Curse of the Lady's Light pg. 75"],
         "race": "Torag",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29580,7 +32630,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Monster Codex pg. 45"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "ironwood",
@@ -29594,7 +32646,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 303"],
         "castingTime_zh": "每创造1磅1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -29619,7 +32673,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -29646,6 +32702,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -29669,8 +32727,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 303"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4+1轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "irriseni mirror sight",
@@ -29689,7 +32750,9 @@ var spellsIndex = [
             "Cities of Golarion pg. 63"
         ],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -29712,6 +32775,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -29737,6 +32802,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29759,6 +32826,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #115: Trail of the Hunted pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (D; 见文本)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -29784,6 +32853,8 @@ var spellsIndex = [
         },
         "source": ["Planes of Power pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29802,7 +32873,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -29829,7 +32902,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -29845,6 +32920,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -29868,8 +32945,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "jolt",
@@ -29883,6 +32963,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29898,6 +32980,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消, 见文本)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29922,6 +33006,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -29934,6 +33020,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 4},
         "source": ["Ultimate Combat pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -29950,7 +33038,9 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 43"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -29976,6 +33066,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 303"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -29993,7 +33085,9 @@ var spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 28"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -30017,6 +33111,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
     },
@@ -30044,6 +33140,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30062,6 +33160,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 199"],
         "race": "samsaran",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30082,6 +33182,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 303"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -30100,6 +33202,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30120,6 +33224,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 或 更少; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30139,7 +33245,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #143: Borne by the Sun's Grace pg. 78"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "特殊; 见文本"
     },
         {
@@ -30159,7 +33267,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 57"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "5尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
         {
@@ -30178,6 +33288,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体)"
     },
@@ -30198,7 +33310,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Ultimate Magic pg. 225"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ki shout",
@@ -30216,6 +33330,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -30235,6 +33351,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -30247,6 +33365,8 @@ var spellsIndex = [
         "levels": {"paladin": 4},
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30263,6 +33383,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30289,6 +33411,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of the Coven pg. 21"],
         "castingTime_zh": "1轮",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30302,6 +33426,8 @@ var spellsIndex = [
         "levels": {"paladin": 1},
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30324,7 +33450,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 23"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -30345,8 +33473,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 303"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "know direction",
@@ -30363,7 +33494,9 @@ var spellsIndex = [
             "skald": 0
         },
         "source": ["PRPG Core Rulebook pg. 304"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "know peerage",
@@ -30389,6 +33522,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30408,8 +33543,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 226"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "kreighton's perusal",
@@ -30429,6 +33567,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Primer pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -30451,6 +33591,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Ulfen",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -30467,6 +33609,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (特殊, 见文本)"
     },
@@ -30487,6 +33631,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -30511,6 +33657,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 38"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -30527,6 +33675,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -30546,6 +33696,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -30567,6 +33719,8 @@ var spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 29"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -30591,6 +33745,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30605,7 +33761,9 @@ var spellsIndex = [
             "ranger": 1
         },
         "source": ["Advanced Player's Guide pg. 230"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "lead plating",
@@ -30629,6 +33787,8 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -30648,6 +33808,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -30670,7 +33832,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 304"],
-        "castingTime_zh": "见文本"
+        "castingTime_zh": "见文本",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "legendary proportions",
@@ -30689,7 +33853,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 20"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
@@ -30700,6 +33866,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 5},
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30711,6 +33879,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 1},
         "source": ["Ultimate Magic pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30739,6 +33909,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 114"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30761,7 +33933,9 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 25"],
         "race": "Vine Leshy",
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -30789,8 +33963,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 304"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人 或 近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "liberating command",
@@ -30820,6 +33997,8 @@ var spellsIndex = [
             "Andoran, Spirit of Liberty pg. 27"
         ],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30836,6 +34015,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 121"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "150尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -30859,6 +34040,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -30875,6 +34058,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 101"],
         "race": "dhampir",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -30889,7 +34074,9 @@ var spellsIndex = [
             "summoner (unchained)": 5
         },
         "source": ["Ultimate Combat pg. 234"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "life conduit, improved",
@@ -30902,7 +34089,9 @@ var spellsIndex = [
             "summoner (unchained)": 3
         },
         "source": ["Ultimate Combat pg. 234"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "life conduit",
@@ -30915,7 +34104,9 @@ var spellsIndex = [
             "summoner (unchained)": 1
         },
         "source": ["Ultimate Combat pg. 233"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "life current",
@@ -30936,6 +34127,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -30962,6 +34155,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 218"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -30984,6 +34179,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 186"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -31002,7 +34199,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["Undead Slayer's Handbook pg. 27"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "light lance",
@@ -31016,7 +34215,9 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 231"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮 + 1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "light of iomedae",
@@ -31037,6 +34238,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Magic pg. 58"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -31061,6 +34264,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 236"],
         "race": "Iomedae",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -31096,7 +34301,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 304"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31121,6 +34328,8 @@ var spellsIndex = [
         ],
         "race": "Gorum",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -31149,6 +34358,8 @@ var spellsIndex = [
         ],
         "race": "Gorum",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -31165,6 +34376,8 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 27"],
         "race": "Tengu",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31181,8 +34394,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可; 见文本",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "lightning bolt",
@@ -31202,8 +34418,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 304"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "120尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则减半"
+        "savingThrow_zh": "反射, 通过则减半",
+        "mythic": true
     },
         {
         "key": "lightning conductor",
@@ -31221,7 +34440,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Elemental Master's Handbook pg. 18"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "lightning lash bomb admixture",
@@ -31235,6 +34456,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "特殊, 见文本",
         "savingThrow_zh": "特殊; 见文本"
     },
@@ -31255,6 +34478,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #74: Sword of Valor pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -31269,7 +34494,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消); 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31285,8 +34512,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 305"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无, 见文本"
+        "savingThrow_zh": "无, 见文本",
+        "mythic": true
     },
         {
         "key": "limp lash",
@@ -31301,6 +34531,8 @@ var spellsIndex = [
         },
         "source": ["Goblins of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "特殊; 见文本",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31318,7 +34550,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 186"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "5尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31338,7 +34572,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 59"],
         "race": "half-orc",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "linked legacy",
@@ -31360,6 +34596,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31376,6 +34614,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 57"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -31397,7 +34637,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 21"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -31415,7 +34657,9 @@ var spellsIndex = [
         "source": ["Pathfinder #65: Into the Nightmare Rift pg. 75"],
         "race": "Lissala",
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "permanent or until discharged; 1 day/level; see text",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -31431,6 +34675,8 @@ var spellsIndex = [
         },
         "source": ["Disciple's Doctrine pg. 13"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -31446,6 +34692,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31462,6 +34710,8 @@ var spellsIndex = [
         },
         "source": ["Disciple's Doctrine pg. 13"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31476,7 +34726,9 @@ var spellsIndex = [
             "paladin": 1
         },
         "source": ["Disciple's Doctrine pg. 13"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "litany of eloquence",
@@ -31496,6 +34748,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31513,6 +34767,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31530,6 +34786,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31550,6 +34808,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 234"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1 或 更多轮数; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -31569,6 +34829,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Disciple's Doctrine pg. 13"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31588,6 +34850,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 235"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31603,6 +34867,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 235"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31624,6 +34890,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 235"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31639,6 +34907,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #140: Eulogy for Roslar's Coffer pg. 72"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -31659,6 +34929,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 235"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -31674,6 +34946,8 @@ var spellsIndex = [
         },
         "source": ["Qadira, Jewel of the East pg. 33"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31690,6 +34964,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 235"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31704,7 +34980,9 @@ var spellsIndex = [
             "paladin": 2
         },
         "source": ["Ultimate Combat pg. 235"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "litany of weakness",
@@ -31718,6 +34996,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -31733,7 +35013,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 305"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31754,6 +35036,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31779,7 +35063,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 305"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31803,7 +35089,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 121"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31830,7 +35118,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 305"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -31857,7 +35147,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["The First World, Realm of the Fey pg. 12"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 最高1分钟/等级",
+        "range_zh": "每等级1里"
     },
         {
         "key": "locate weakness",
@@ -31878,7 +35170,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Ultimate Combat pg. 236"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "lock gaze",
@@ -31901,6 +35195,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -31916,6 +35212,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -31937,6 +35235,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -31961,7 +35261,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 186"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "longshot",
@@ -31985,7 +35287,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Combat pg. 236"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "longstrider, greater",
@@ -31998,7 +35302,9 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Advanced Class Guide pg. 186"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "longstrider",
@@ -32011,7 +35317,9 @@ var spellsIndex = [
             "ranger": 1
         },
         "source": ["PRPG Core Rulebook pg. 305"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "lose the trail",
@@ -32034,6 +35342,8 @@ var spellsIndex = [
         ],
         "race": "Norgorber",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32062,6 +35372,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Magic Tactics Toolbox pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32080,6 +35392,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Samsaran",
         "castingTime_zh": "24小时",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "每等级1里",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -32100,6 +35414,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Samsaran",
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -32128,6 +35444,8 @@ var spellsIndex = [
             "Gods and Magic pg. 9"
         ],
         "castingTime_zh": "1分钟",
+        "duration_zh": "最多1天/等级 (D) 或 直到释放",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32156,7 +35474,9 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 50"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32174,6 +35494,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 305"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32199,7 +35521,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -32221,6 +35545,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "5分钟/等级 (最高1小时)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32243,7 +35569,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 227"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32270,6 +35598,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 122"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32290,6 +35620,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 237"],
         "race": "Zon-Kuthon",
         "castingTime_zh": "1轮",
+        "duration_zh": "特殊, 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32314,8 +35646,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 306"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "mage hand",
@@ -32339,7 +35674,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 306"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32356,7 +35693,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32382,7 +35721,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 218"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "至多每等级1里; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32398,8 +35739,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 306"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "意志, 通过则无效 (物体)"
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "mage's faithful hound",
@@ -32417,7 +35761,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 306"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至能量发散, 之后1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32427,7 +35773,9 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"wizard": 6},
         "source": ["PRPG Core Rulebook pg. 306"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "mage's magnificent mansion",
@@ -32443,7 +35791,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 307"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32462,7 +35812,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 307"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32479,6 +35831,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 307"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -32500,7 +35854,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 219"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -32522,7 +35878,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 307"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -32540,6 +35898,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 69"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "30分钟 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -32567,6 +35927,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 308"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32594,6 +35956,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 308"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32621,6 +35985,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 308"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32648,6 +36014,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 308"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -32666,7 +36034,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志无效 (无害) , 见文本; "
     },
         {
@@ -32684,8 +36054,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 309"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "magic fang",
@@ -32702,8 +36075,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 308"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "magic jar",
@@ -32722,6 +36098,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 309"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -32741,8 +36119,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 309"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "magic mouth",
@@ -32766,6 +36147,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -32789,6 +36172,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -32812,6 +36197,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -32830,6 +36217,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "30分钟 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -32848,8 +36237,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "magic weapon, greater",
@@ -32874,8 +36266,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "magic weapon",
@@ -32900,6 +36295,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 310"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -32915,7 +36312,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Wilderness pg. 231"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "magnetic field",
@@ -32937,6 +36336,8 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/2等级 (可解消)",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射, 通过则无效 (物品, 见文本)"
     },
@@ -32952,6 +36353,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 186"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -32976,6 +36379,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 219"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "每等级200尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -32998,7 +36403,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 311"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -33022,7 +36429,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 311"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 3轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -33042,6 +36451,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33061,6 +36472,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Monster Codex pg. 41"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33080,6 +36493,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -33101,8 +36516,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 311"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "malediction (hero points)",
@@ -33122,6 +36540,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即/1分钟每目标HD; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33149,6 +36569,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 1: Princes of Darkness pg. 46"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 与 立即; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33166,6 +36588,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -33191,6 +36615,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33217,6 +36643,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 186"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
     },
@@ -33237,7 +36665,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 30"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "mantle of the magic warriors",
@@ -33256,6 +36686,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 220"],
         "race": "Mwangi",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -33273,6 +36705,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 187"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -33299,6 +36733,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 178"],
         "race": "undine",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -33321,6 +36757,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 228"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直到你返回自己的身体",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -33343,6 +36781,8 @@ var spellsIndex = [
             "Faction Guide pg. 61"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 和 永久; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33368,6 +36808,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -33387,6 +36829,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 312"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -33403,6 +36847,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33421,6 +36867,8 @@ var spellsIndex = [
         },
         "source": ["Heroes from the Fringe pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -33439,6 +36887,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 213"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -33451,6 +36901,8 @@ var spellsIndex = [
         "levels": {"paladin": 3},
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33467,6 +36919,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33484,6 +36938,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 221"],
         "race": "Vudrani",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志无效 (物体) 或 无, 见文本"
     },
@@ -33501,7 +36957,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 58"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -33520,6 +36978,8 @@ var spellsIndex = [
         "source": ["Pathfinder #68: The Shackled Hut pg. 69"],
         "race": "Milani",
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级 或 立即; 见文本",
+        "range_zh": "个人; 见文本",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志减半 (无害, 见文本)"
     },
@@ -33536,7 +36996,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -33552,7 +37014,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -33576,6 +37040,8 @@ var spellsIndex = [
             "Arcane Anthology pg. 14"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -33602,6 +37068,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效, 随后反射, 通过则部分生效; 见描述"
     },
@@ -33622,6 +37090,7 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 122"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -33645,7 +37114,9 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 22"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -33665,7 +37136,9 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 23"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -33689,8 +37162,10 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Magic pg. 228"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -33711,6 +37186,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -33734,6 +37211,8 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 51"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33753,6 +37232,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #74: Sword of Valor pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (至多1轮/等级)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -33776,6 +37257,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 122"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -33795,8 +37278,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 312"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "medusa's bane",
@@ -33810,7 +37296,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Divine Anthology pg. 5"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "meld into stone",
@@ -33827,7 +37315,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["PRPG Core Rulebook pg. 312"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "memorize page",
@@ -33848,6 +37338,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 187"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -33868,8 +37360,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "memory of function",
@@ -33885,6 +37380,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33915,6 +37412,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 312"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -33925,7 +37424,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 2},
         "source": ["Occult Adventures pg. 175"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "mental barrier ii",
@@ -33934,7 +37435,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 3},
         "source": ["Occult Adventures pg. 175"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "mental barrier iii",
@@ -33943,7 +37446,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 4},
         "source": ["Occult Adventures pg. 175"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "mental barrier iv",
@@ -33952,7 +37457,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 176"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "mental barrier v",
@@ -33961,7 +37468,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 176"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "mental block",
@@ -33977,6 +37486,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 176"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -33997,6 +37508,8 @@ var spellsIndex = [
             "Familiar Folio pg. 23"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -34023,7 +37536,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 313"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -34043,7 +37558,9 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 19"],
         "race": "Nagaji",
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -34059,8 +37576,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 313"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无 或 反射, 通过则减半; 见文本"
+        "savingThrow_zh": "无 或 反射, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "meticulous match",
@@ -34081,6 +37601,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 220"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体)"
     },
@@ -34105,7 +37627,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 221"],
         "race": "Half-Orc",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -34129,7 +37653,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -34142,6 +37668,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 176"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -34162,8 +37690,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 149"],
         "race": "oread",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "mighty strength",
@@ -34178,7 +37709,9 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Trudd",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "mind blank, communal",
@@ -34194,6 +37727,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -34211,6 +37746,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 313"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -34235,6 +37772,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 313"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "30分钟 和 2d6轮; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34256,6 +37795,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Monster Codex pg. 41"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34271,6 +37812,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -34291,6 +37834,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 176"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34304,6 +37849,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 176"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34328,6 +37875,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 176"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34340,6 +37889,8 @@ var spellsIndex = [
         "levels": {"psychic": 1},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34351,6 +37902,8 @@ var spellsIndex = [
         "levels": {"psychic": 2},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34362,6 +37915,8 @@ var spellsIndex = [
         "levels": {"psychic": 3},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34373,6 +37928,8 @@ var spellsIndex = [
         "levels": {"psychic": 4},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34384,6 +37941,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34395,6 +37954,8 @@ var spellsIndex = [
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -34417,6 +37978,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -34445,6 +38008,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 187"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久 直至能量发散; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -34465,7 +38030,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 177"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -34490,7 +38057,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 28"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "mindwipe",
@@ -34511,6 +38080,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 178"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34534,7 +38105,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 313"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -34561,6 +38134,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
         "castingTime_zh": "1分钟",
+        "duration_zh": "见文本",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -34585,7 +38160,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 314"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -34606,6 +38183,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
         "castingTime_zh": "1分钟",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34625,7 +38204,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Plane-Hopper's Handbook pg. 28"],
-        "castingTime_zh": "30分钟"
+        "castingTime_zh": "30分钟",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "minor reversion",
@@ -34643,7 +38224,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Plane-Hopper's Handbook pg. 28"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "24小时",
+        "range_zh": "个人"
     },
         {
         "key": "miracle",
@@ -34656,6 +38239,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 314"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -34676,7 +38261,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 314"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 1小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -34697,6 +38284,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 232"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志过则不相信; 见文本"
     },
@@ -34716,7 +38305,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 188"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -34741,7 +38332,10 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["PRPG Core Rulebook pg. 314"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "mirror mantis",
@@ -34765,6 +38359,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 160"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34783,6 +38379,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "可 (物体)"
     },
@@ -34801,7 +38399,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Combat pg. 236"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "mirror transport",
@@ -34820,6 +38420,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "可 (物体)"
     },
@@ -34851,6 +38453,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -34877,7 +38481,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 314"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 或 意志, 通过则无效, 见文本"
     },
         {
@@ -34902,6 +38508,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 和 1分钟; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -34931,8 +38539,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 315"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无 或 意志, 通过则不相信 (若有互动); 见文本"
+        "duration_zh": "1轮/等级 (可解消) 和 {专注+3} 轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无 或 意志, 通过则不相信 (若有互动); 见文本",
+        "mythic": true
     },
         {
         "key": "mnemonic enhancer",
@@ -34941,7 +38552,9 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"wizard": 4},
         "source": ["PRPG Core Rulebook pg. 315"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "mnemonic siphon",
@@ -34958,7 +38571,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 26"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -34977,8 +38592,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 315"],
         "castingTime_zh": "1轮; 见文本",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "molten orb",
@@ -35000,6 +38618,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -35023,6 +38643,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "50尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -35039,7 +38661,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["PRPG Core Rulebook pg. 315"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "monkey fish",
@@ -35060,7 +38684,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 188"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "monstrous extremities",
@@ -35085,6 +38711,8 @@ var spellsIndex = [
         ],
         "race": "Lamashtu",
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35105,7 +38733,10 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Ultimate Magic pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "monstrous physique ii",
@@ -35124,7 +38755,10 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Magic pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "monstrous physique iii",
@@ -35141,7 +38775,10 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Ultimate Magic pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "monstrous physique iv",
@@ -35158,7 +38795,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Ultimate Magic pg. 229"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "moonrise arrow",
@@ -35177,6 +38817,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #134: It Came from Hollow Mountain pg. 72"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
     },
@@ -35203,6 +38845,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35221,7 +38865,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 15"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效以及反射, 通过则减半; 见文本"
     },
         {
@@ -35252,6 +38898,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Legacy of the First World pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -35281,7 +38929,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 28"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35302,7 +38952,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 237"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35324,7 +38976,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 315"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35342,8 +38996,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 316"],
         "castingTime_zh": "见文本",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "mud buddy",
@@ -35360,7 +39017,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Monster Codex pg. 105"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可消解)",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "mudball",
@@ -35382,7 +39041,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 119"],
         "race": "goblin",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -35403,6 +39064,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 188"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志，通过则无效"
     },
@@ -35425,8 +39088,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "murderous crow",
@@ -35450,7 +39116,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 221"],
         "race": "Orc",
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35469,6 +39137,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 59"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1轮/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -35483,6 +39153,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "特殊; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -35508,6 +39180,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35533,6 +39207,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35557,6 +39233,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 114"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35577,7 +39255,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 19"],
         "race": "Nagaji",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "naga shape ii",
@@ -35595,7 +39275,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 19"],
         "race": "Nagaji",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "naga shape iii",
@@ -35613,7 +39295,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Beast pg. 19"],
         "race": "Nagaji",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "named bullet, greater",
@@ -35632,6 +39316,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -35652,8 +39338,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "nap stack",
@@ -35667,6 +39356,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 233"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "8小时",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -35681,6 +39372,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -35697,6 +39390,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35719,6 +39414,8 @@ var spellsIndex = [
             "Heroes of the Wild pg. 31"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -35734,7 +39431,9 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 31"],
         "castingTime_zh": "目标每HD10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35750,7 +39449,9 @@ var spellsIndex = [
         },
         "source": ["Dungeoneer's Handbook pg. 31"],
         "castingTime_zh": "目标每HD1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -35767,7 +39468,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 189"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -35790,7 +39493,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 189"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 和 强韧, 通过则无效; 见文本"
     },
         {
@@ -35809,6 +39514,8 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 27"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35831,6 +39538,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 42"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35849,6 +39558,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -35872,6 +39583,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35887,7 +39600,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 179"],
         "race": "undine",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "neutral buoyancy",
@@ -35908,6 +39623,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -35932,6 +39649,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -35961,6 +39680,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 316"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 10分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -35983,6 +39704,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -36012,7 +39735,9 @@ var spellsIndex = [
             "Dark Markets - A Guide to Katapesh pg. 57"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -36037,6 +39762,8 @@ var spellsIndex = [
         ],
         "race": "Norgorber",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -36064,6 +39791,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 123"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36089,8 +39818,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 316"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "nine lives",
@@ -36105,6 +39837,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 95"],
         "race": "catfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -36136,6 +39870,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 179"],
         "race": "undine",
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "300尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36153,7 +39889,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 178"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
         {
@@ -36172,6 +39910,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -36194,7 +39934,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 25"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -36222,6 +39964,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -36239,6 +39983,8 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 51"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -36257,7 +40003,9 @@ var spellsIndex = [
         },
         "source": ["Occult Mysteries pg. 51"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36277,7 +40025,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Wild pg. 31"],
         "castingTime_zh": "30分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36297,7 +40047,9 @@ var spellsIndex = [
             "wizard": 0
         },
         "source": ["Inner Sea Intrigue pg. 60"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "oath of justice",
@@ -36313,7 +40065,9 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 22"],
         "race": "Kols",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36323,7 +40077,10 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"paladin": 4},
         "source": ["Advanced Player's Guide pg. 234"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "object possession, greater",
@@ -36341,7 +40098,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36362,7 +40121,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36383,7 +40144,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36400,7 +40163,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1轮 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36425,6 +40190,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -36453,7 +40220,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 220"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36473,7 +40242,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36501,8 +40272,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "obsidian flow",
@@ -36526,7 +40300,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -36544,6 +40320,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 69"],
         "race": "human",
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36566,6 +40344,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 强韧, 通过则无效; 见文本"
     },
@@ -36588,6 +40368,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36606,7 +40388,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Ultimate Wilderness pg. 232"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ooze form ii",
@@ -36623,7 +40407,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Ultimate Wilderness pg. 233"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ooze form iii",
@@ -36637,7 +40423,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Wilderness pg. 233"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "open and shut",
@@ -36656,7 +40444,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 220"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
@@ -36671,7 +40461,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 21"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -36694,6 +40486,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 220"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36709,6 +40503,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #143: Borne by the Sun's Grace pg. 78"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -36734,6 +40530,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -36755,6 +40553,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #115: Trail of the Hunted pg. 75"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36781,6 +40581,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至被打破; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -36793,6 +40595,8 @@ var spellsIndex = [
         "levels": {"oracle": 2},
         "source": ["Advanced Player's Guide pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36804,6 +40608,8 @@ var spellsIndex = [
         "levels": {"oracle": 4},
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -36822,8 +40628,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "orchid's drop",
@@ -36835,7 +40644,9 @@ var spellsIndex = [
             "investigator": 3
         },
         "source": ["Inner Sea Magic pg. 59"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "order's wrath",
@@ -36851,8 +40662,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1轮); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "out of sight",
@@ -36867,6 +40681,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可消解) ; 见文本",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -36889,6 +40705,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 69"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -36914,6 +40732,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 317"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -36930,7 +40750,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 221"],
         "race": "Halfling",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "overstimulate",
@@ -36957,6 +40779,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -36982,6 +40806,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -37004,7 +40830,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37032,6 +40860,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 230"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37056,6 +40886,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 318"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -37086,6 +40918,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 318"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -37111,7 +40945,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37132,7 +40968,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Primer pg. 10"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37155,6 +40993,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -37179,6 +41019,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -37204,7 +41046,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Temples pg. 63"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
         {
@@ -37215,6 +41059,8 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 234"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -37231,6 +41077,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -37258,7 +41106,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 48"],
         "race": "half-elf",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人 (仅限半精灵)"
     },
         {
         "key": "paranoia",
@@ -37280,6 +41130,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 179"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37308,6 +41160,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37325,6 +41179,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 180"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -37345,7 +41201,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 6"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -37362,6 +41220,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 318"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -37382,7 +41242,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Spymaster's Handbook pg. 29"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "4d4轮 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "passing fancy",
@@ -37403,6 +41265,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "4d4轮 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37420,7 +41284,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 318"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37438,7 +41304,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 189"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37456,7 +41324,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 189"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37475,6 +41345,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮",
+        "range_zh": "100尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -37490,7 +41362,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Second Darkness Player's Guide pg. 27"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "peace bond",
@@ -37515,7 +41389,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37534,6 +41410,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -37553,6 +41431,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -37575,6 +41455,8 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 23"],
         "race": "Grundinnar",
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37597,6 +41479,8 @@ var spellsIndex = [
         "source": ["Pathfinder #68: The Shackled Hut pg. 69"],
         "race": "Milani",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -37616,7 +41500,9 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 或 意志, 通过则无效; 见文本"
     },
         {
@@ -37637,7 +41523,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
@@ -37652,6 +41540,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -37676,7 +41566,9 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37695,7 +41587,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Heroes of the High Court pg. 25"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "perceive cues",
@@ -37714,7 +41608,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Advanced Player's Guide pg. 235"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "perfect placement",
@@ -37734,6 +41630,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -37750,7 +41648,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 318"],
         "castingTime_zh": "2轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37768,6 +41668,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -37789,7 +41691,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 319"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -37810,8 +41714,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "pernicious pranksters",
@@ -37833,7 +41740,9 @@ var spellsIndex = [
         },
         "source": ["Heroes from the Fringe pg. 18"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -37855,7 +41764,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 319"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -37875,7 +41786,9 @@ var spellsIndex = [
             "witch": 4
         },
         "source": ["Advanced Class Guide pg. 190"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "persuasive goad",
@@ -37886,6 +41799,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 1},
         "source": ["Ultimate Magic pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1分钟",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -37897,6 +41812,8 @@ var spellsIndex = [
         "levels": {"sahirafiyun": 3},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37908,6 +41825,8 @@ var spellsIndex = [
         "levels": {"sahirafiyun": 5},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1天/等级 或 直至能量发散 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -37939,6 +41858,8 @@ var spellsIndex = [
             "Dark Markets - A Guide to Katapesh pg. 57"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37966,6 +41887,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 123"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -37981,6 +41904,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -38001,6 +41926,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 221"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 之后 强韧 或 意志, 通过则无效; 见文本"
     },
@@ -38023,6 +41950,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 123"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不信; 然后 强韧, 通过则部分生效; 见文本"
     },
@@ -38053,8 +41982,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 319"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则不相信; 之后强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "意志, 通过则不相信; 之后强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "phantasmal putrefaction",
@@ -38077,6 +42009,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 124"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不信; 然后 强韧, 通过则部分生效; 见文本"
     },
@@ -38101,6 +42035,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 之后强韧, 通过则部分生效; 见文本"
     },
@@ -38125,6 +42061,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触 和 无限; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 痛过则不相信; 强韧, 通过则部分生效; 见文本"
     },
@@ -38147,6 +42085,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 痛过则不相信; 强韧, 通过则部分生效; 见文本"
     },
@@ -38166,7 +42106,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 190"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "phantom chariot",
@@ -38184,7 +42126,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 239"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38204,7 +42148,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 239"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38218,7 +42164,9 @@ var spellsIndex = [
             "ranger": 4
         },
         "source": ["Advanced Class Origins pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人; 见文本"
     },
         {
         "key": "phantom limb",
@@ -38231,6 +42179,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -38253,7 +42203,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 239"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38277,8 +42229,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 319"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "phantom trap",
@@ -38298,7 +42253,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 320"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38316,7 +42273,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 320"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "每两个等级一次使用次数",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38340,6 +42299,8 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -38361,6 +42322,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 6"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38388,6 +42351,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 124"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38413,6 +42378,8 @@ var spellsIndex = [
         ],
         "race": "Cayden Cailean",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -38433,6 +42400,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "90尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
@@ -38454,7 +42423,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Advanced Class Guide pg. 190"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "pierce facade",
@@ -38478,6 +42449,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the High Court pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -38498,6 +42471,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -38525,6 +42500,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "无"
     },
@@ -38542,8 +42519,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 236"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "pillow talk",
@@ -38569,6 +42549,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Temples pg. 63"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38586,6 +42568,8 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -38603,6 +42587,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 180"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则不相信 (无害)"
     },
@@ -38634,6 +42620,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 238"],
         "race": "Urgathoa",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -38660,6 +42648,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 231"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -38686,7 +42676,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 231"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 和 立即; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -38708,6 +42700,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -38733,7 +42727,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Advanced Player's Guide pg. 236"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "planar aegis",
@@ -38752,7 +42748,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Plane-Hopper's Handbook pg. 12"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "planar ally, greater",
@@ -38769,7 +42767,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 320"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38789,7 +42789,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 320"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38808,7 +42810,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 320"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38827,6 +42831,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 321"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38849,6 +42855,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 321"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38870,6 +42878,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 321"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 或 可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -38899,7 +42909,9 @@ var spellsIndex = [
             "Arcane Anthology pg. 14"
         ],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38927,7 +42939,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["The First World, Realm of the Fey pg. 13"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "planar refuge",
@@ -38947,8 +42961,10 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Heroes of the Wild pg. 31"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -38974,8 +42990,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 322"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "planeslayer's call",
@@ -38995,6 +43014,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 190"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -39021,6 +43042,8 @@ var spellsIndex = [
         },
         "source": ["People of the Stars pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 3轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "意志, 通过则不信 (无害)",
         "savingThrow_zh": "无"
     },
@@ -39044,6 +43067,8 @@ var spellsIndex = [
             "Distant Worlds pg. 55"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -39068,7 +43093,9 @@ var spellsIndex = [
             "People of the Stars pg. 29",
             "Distant Worlds pg. 55"
         ],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "planned assault",
@@ -39086,7 +43113,9 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 23"],
         "race": "Angradd",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -39101,7 +43130,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 322"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -39118,7 +43149,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["PRPG Core Rulebook pg. 322"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "plant shape ii",
@@ -39134,7 +43167,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 323"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "plant shape iii",
@@ -39148,7 +43183,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 323"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "plant voice",
@@ -39166,6 +43203,8 @@ var spellsIndex = [
         },
         "source": ["Cohorts and Companions pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -39179,7 +43218,9 @@ var spellsIndex = [
             "skald": 1
         },
         "source": ["Ultimate Magic pg. 231"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "plundered power",
@@ -39202,7 +43243,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 124"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -39220,7 +43263,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 222"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 或 直至能量发散 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -39238,6 +43283,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -39261,6 +43308,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 323"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -39291,6 +43340,8 @@ var spellsIndex = [
         ],
         "race": "Norgorber",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -39316,6 +43367,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 222"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即, 之后1小时 或 直至触发 外加 6轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则部分生效 (无害) , 之后 强韧, 通过则无效; 见文本"
     },
@@ -39339,7 +43392,9 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 11"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -39361,6 +43416,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -39377,8 +43434,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 323"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "polymorph any object",
@@ -39393,6 +43453,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 323"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -39412,6 +43474,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 190"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -39428,6 +43492,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -39447,6 +43513,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 323"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -39466,7 +43534,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Magic pg. 232"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "positive pulse, greater",
@@ -39490,6 +43560,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 43"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即+1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志过则无效 或 意志过则无效 (无害) ; 见文本"
     },
@@ -39515,6 +43587,8 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 43"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即+1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志过则无效 或 意志过则无效 (无害) ; 见文本"
     },
@@ -39531,6 +43605,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至你回到你的身体",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -39546,7 +43622,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Undead Slayer's Handbook pg. 19"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 或 直到触发; 见文本; 1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "possession, greater",
@@ -39564,6 +43642,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 181"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -39586,6 +43666,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 180"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -39611,7 +43693,9 @@ var spellsIndex = [
             "Ultimate Wilderness pg. 233",
             "Blood of the Beast pg. 7"
         ],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "power word blind",
@@ -39630,8 +43714,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "power word kill",
@@ -39653,8 +43740,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "power word stun",
@@ -39672,8 +43762,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "pox of rumors",
@@ -39701,6 +43794,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 222"],
         "castingTime_zh": "8小时",
+        "duration_zh": "1天/等级",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效, 之后 意志, 通过则部分生效; 见文本"
     },
@@ -39717,8 +43812,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "prayer",
@@ -39736,8 +43834,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "prediction of failure",
@@ -39760,6 +43861,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 232"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 或 1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -39782,6 +43885,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 207"],
         "race": "vanara",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -39800,7 +43905,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 115"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -39826,6 +43933,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 43"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1周",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -39851,6 +43960,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -39872,7 +43983,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 325"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -39892,6 +44005,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 181"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -39911,7 +44026,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 232"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "prismatic sphere",
@@ -39925,8 +44042,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 325"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "见文本",
-        "savingThrow_zh": "见文本"
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "prismatic spray",
@@ -39940,8 +44060,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 325"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "见文本"
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "prismatic wall",
@@ -39956,6 +44079,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 325"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -39978,6 +44103,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 222"],
         "race": "Half-Elf",
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -39994,6 +44121,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 326"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -40011,7 +44140,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["Horror Adventures pg. 125"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "prognostication",
@@ -40031,7 +44162,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 223"],
         "castingTime_zh": "8小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -40051,7 +44184,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久直至能量发散, 之后1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -40073,7 +44208,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -40098,6 +44235,8 @@ var spellsIndex = [
         "source": ["Blood of the Night pg. 30"],
         "race": "vampire",
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -40112,7 +44251,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Disciple's Doctrine pg. 11"],
-        "castingTime_zh": "见文本"
+        "castingTime_zh": "见文本",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "prosperous room",
@@ -40128,6 +44269,8 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "1天",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -40148,6 +44291,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -40170,8 +44315,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "protection from chaos, communal",
@@ -40193,7 +44341,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -40221,8 +44371,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "protection from energy, communal",
@@ -40246,6 +44399,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -40277,6 +44432,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -40300,7 +44457,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -40328,8 +44487,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 327"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "protection from good, communal",
@@ -40351,7 +44513,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -40379,8 +44543,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 328"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "protection from law, communal",
@@ -40402,7 +44569,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -40430,8 +44599,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 328"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否; 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "protection from natural attacks",
@@ -40452,6 +44624,8 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -40470,7 +44644,9 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -40487,6 +44663,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 328"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -40508,7 +44686,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #113: What Grows Within pg. 66"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
@@ -40526,6 +44706,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "无, 见文本",
         "savingThrow_zh": "意志无效 (无害) , 见文本; "
     },
@@ -40549,6 +44731,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 233"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -40563,7 +44747,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Advanced Player's Guide pg. 237"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "prying eyes, greater",
@@ -40579,7 +44765,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 326"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级; 见文本 (可解消)",
+        "range_zh": "1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -40599,7 +44787,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 326"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级; 见文本 (可解消)",
+        "range_zh": "1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -40618,7 +44808,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 181"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -40630,6 +44822,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 182"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本"
     },
@@ -40642,6 +44836,8 @@ var spellsIndex = [
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 182"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本"
     },
@@ -40654,6 +44850,8 @@ var spellsIndex = [
         "levels": {"psychic": 7},
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本"
     },
@@ -40666,6 +44864,8 @@ var spellsIndex = [
         "levels": {"psychic": 8},
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本"
     },
@@ -40678,6 +44878,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 和 强韧, 通过则部分生效; 见文本"
     },
@@ -40690,6 +44892,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -40718,6 +44922,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -40741,6 +44947,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -40756,7 +44964,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 183"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -40773,7 +44983,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Origins pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -40793,6 +45005,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 59"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -40815,7 +45029,9 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 19"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
         {
@@ -40835,6 +45051,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 ( 和 意志, 特殊; 见文本)"
     },
@@ -40855,6 +45073,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 184"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -40870,6 +45090,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -40884,7 +45106,9 @@ var spellsIndex = [
             "summoner (unchained)": 4
         },
         "source": ["Advanced Player's Guide pg. 237"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "个人"
     },
         {
         "key": "purify body",
@@ -40903,6 +45127,8 @@ var spellsIndex = [
         },
         "source": ["Healer's Handbook pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 和 1小时 或 直到消散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -40923,6 +45149,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 328"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -40935,6 +45163,8 @@ var spellsIndex = [
         "levels": {"witch": 0},
         "source": ["Advanced Player's Guide pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -40959,6 +45189,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Monster Codex pg. 41"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 或 无"
     },
@@ -40978,6 +45210,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 125"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -41000,6 +45234,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 328"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4+1轮, 或 生物离开烟雾后1d4+1轮; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 或 否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 或 强韧, 通过则无效; 见文本"
     },
@@ -41020,6 +45256,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #135: Runeplague pg. 74"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10 minutes/level (see text)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -41044,6 +45282,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -41066,6 +45306,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -41080,6 +45322,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 329"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "否 或 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -41097,7 +45341,9 @@ var spellsIndex = [
         },
         "source": ["Seekers of Secrets pg. 17"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触 和 无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41130,7 +45376,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Horror Adventures pg. 125"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "quick throwing",
@@ -41146,6 +45394,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -41174,6 +45424,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -41191,7 +45443,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Planar Adventures pg. 43"],
-        "castingTime_zh": "1轮 或 4小时; 见文本"
+        "castingTime_zh": "1轮 或 4小时; 见文本",
+        "duration_zh": "1小时/等级 或 1天/等级; 见文本",
+        "range_zh": "个人 或 至多每等级10尺立方 (可变)"
     },
         {
         "key": "quintessence",
@@ -41212,6 +45466,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 184"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害) 和 意志, 通过则不相信; 见文本"
     },
@@ -41235,6 +45491,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -41266,6 +45524,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 329"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -41293,6 +45553,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 149"],
         "race": "oread",
         "castingTime_zh": "1轮",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -41318,7 +45580,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 21"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -41339,7 +45603,9 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 61"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "Will"
     },
         {
@@ -41355,7 +45621,9 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
@@ -41380,7 +45648,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 233"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41401,6 +45671,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 329"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -41418,6 +45690,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 233"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -41438,6 +45712,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 329"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -41456,6 +45732,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "5尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -41474,7 +45752,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 237"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41493,6 +45773,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -41516,7 +45798,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Heroes of the Wild pg. 31"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "ray of enfeeblement",
@@ -41534,8 +45818,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 329"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则减半; 见文本"
+        "savingThrow_zh": "强韧, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "ray of exhaustion",
@@ -41554,6 +45841,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 330"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -41571,6 +45860,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 330"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -41600,6 +45891,8 @@ var spellsIndex = [
             "Dark Markets - A Guide to Katapesh pg. 57"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -41636,7 +45929,9 @@ var spellsIndex = [
             "wizard": 0
         },
         "source": ["PRPG Core Rulebook pg. 330"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "read weather",
@@ -41660,7 +45955,9 @@ var spellsIndex = [
             "Faiths of Balance pg. 28"
         ],
         "race": "Gozreh",
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "realm retribution",
@@ -41676,7 +45973,9 @@ var spellsIndex = [
         },
         "source": ["Chronicle of Legends pg. 14"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -41696,7 +45995,9 @@ var spellsIndex = [
         },
         "source": ["Melee Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41717,7 +46018,9 @@ var spellsIndex = [
         },
         "source": ["People of the Stars pg. 29"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41734,6 +46037,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -41746,6 +46051,8 @@ var spellsIndex = [
         "levels": {"inquisitor": 4},
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -41763,6 +46070,8 @@ var spellsIndex = [
         },
         "source": ["Champions of Balance pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -41793,7 +46102,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 39"],
         "race": "gnome",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "recharge",
@@ -41813,6 +46124,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 11"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -41839,6 +46152,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -41856,6 +46171,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -41875,7 +46192,9 @@ var spellsIndex = [
             "Pathfinder #16: Endless Night pg. 10"
         ],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1周/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41902,6 +46221,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 223"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -41924,6 +46245,8 @@ var spellsIndex = [
         },
         "source": ["Heroes from the Fringe pg. 18"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -41939,7 +46262,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 330"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -41960,6 +46285,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 331"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -41986,8 +46313,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 330"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "refine improvised weapon",
@@ -42009,6 +46339,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 190"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -42024,7 +46356,9 @@ var spellsIndex = [
         },
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -42044,7 +46378,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 331"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42062,8 +46398,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 331"],
         "castingTime_zh": "3轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "reincarnate spy",
@@ -42079,6 +46418,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 223"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -42096,6 +46437,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 331"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -42118,6 +46461,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -42140,6 +46485,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -42164,6 +46511,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Villain Codex pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42179,7 +46528,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42194,7 +46545,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42209,7 +46562,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42233,7 +46588,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 10"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42252,6 +46609,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 242"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害，物体)",
         "savingThrow_zh": "意志，通过则无效 (无害，物体)"
     },
@@ -42268,7 +46627,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Black Markets pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "remote viewing",
@@ -42283,7 +46644,9 @@ var spellsIndex = [
             "spiritualist": 5
         },
         "source": ["Occult Adventures pg. 184"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "见文本"
     },
         {
         "key": "remove blindness-deafness",
@@ -42305,6 +46668,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 332"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -42335,6 +46700,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 332"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42361,6 +46728,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 332"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -42385,6 +46754,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 332"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42405,6 +46776,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 332"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42422,6 +46795,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -42446,6 +46821,8 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -42467,6 +46844,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 234"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -42478,6 +46857,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Psychic Anthology pg. 10"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -42488,7 +46869,9 @@ var spellsIndex = [
         "school": "evocation",
         "levels": {"psychic": 6},
         "source": ["Psychic Anthology pg. 10"],
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "rend body iii",
@@ -42497,7 +46880,9 @@ var spellsIndex = [
         "school": "evocation",
         "levels": {"psychic": 7},
         "source": ["Psychic Anthology pg. 10"],
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "rend body iv",
@@ -42506,7 +46891,9 @@ var spellsIndex = [
         "school": "evocation",
         "levels": {"psychic": 8},
         "source": ["Psychic Anthology pg. 10"],
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "renovation",
@@ -42523,7 +46910,9 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "8小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (物品; 见文本)"
     },
         {
@@ -42539,6 +46928,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
     },
@@ -42554,6 +46945,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
     },
@@ -42566,7 +46959,9 @@ var spellsIndex = [
         "levels": {"druid": 8},
         "source": ["PRPG Core Rulebook pg. 333"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42588,6 +46983,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 333"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无 或 意志, 通过则无效, 见文本"
     },
@@ -42602,8 +46999,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 333"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "replay tracks",
@@ -42620,7 +47020,9 @@ var spellsIndex = [
             "ranger": 2
         },
         "source": ["Ultimate Wilderness pg. 233"],
-        "castingTime_zh": "3轮"
+        "castingTime_zh": "3轮",
+        "duration_zh": "专注, 最长1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "replenish ki",
@@ -42639,6 +47041,8 @@ var spellsIndex = [
         ],
         "race": "Irori",
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42656,7 +47060,9 @@ var spellsIndex = [
             "skald": 5
         },
         "source": ["Occult Adventures pg. 184"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "reprobation",
@@ -42676,6 +47082,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 234"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -42699,6 +47107,8 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -42722,6 +47132,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 333"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "至多每等级10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -42737,7 +47149,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -42759,6 +47173,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 49"],
         "race": "half-elf",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -42777,6 +47193,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 333"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -42799,7 +47217,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 242"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -42828,6 +47248,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 242"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -42861,8 +47283,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "强韧, 通过则无效 (无害)"
+        "savingThrow_zh": "强韧, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "resist starvation",
@@ -42878,6 +47303,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42910,6 +47337,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -42924,6 +47353,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 33"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -42943,8 +47374,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "resounding blow",
@@ -42959,7 +47393,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -42973,6 +47409,8 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -42993,6 +47431,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 222"],
         "race": "Chelaxian",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -43010,7 +47450,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 224"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43030,7 +47472,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 238"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43052,6 +47496,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -43066,6 +47512,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 239"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "8小时 或 24小时; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -43082,6 +47530,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "3轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43107,6 +47557,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "3轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43131,6 +47583,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "3轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43155,7 +47609,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 235"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43170,6 +47626,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 235"],
         "castingTime_zh": "3轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43185,6 +47643,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 235"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43209,6 +47669,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 114"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43223,7 +47685,9 @@ var spellsIndex = [
             "investigator": 5
         },
         "source": ["Advanced Player's Guide pg. 239"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直到触发, 之后持续1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "resurrection",
@@ -43239,6 +47703,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 334"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -43255,6 +47721,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -43273,6 +47741,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 或 直到消散, 以及永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (物体) 与 意志, 通过则无效; 见文本"
     },
@@ -43291,7 +47761,9 @@ var spellsIndex = [
         },
         "source": ["Classic Treasures Revisited pg. 27"],
         "castingTime_zh": "整轮动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久, 直至能量发散",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43308,7 +47780,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Occult Adventures pg. 185"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "专注, 最高1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "returning weapon, communal",
@@ -43335,6 +47809,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -43364,6 +47840,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 242"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -43381,6 +47859,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the High Court pg. 10"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -43402,7 +47882,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Osirion, Legacy of the Pharaohs pg. 46"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "reveal secrets",
@@ -43428,6 +47910,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Temples pg. 63"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -43449,6 +47933,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #19: Howl of the Carrion King pg. 75"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -43473,7 +47959,9 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43492,7 +47980,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Seekers of Secrets pg. 17"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "revenant armor",
@@ -43517,7 +48007,9 @@ var spellsIndex = [
         },
         "source": ["Armor Master's Handbook pg. 23"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 或 1小时/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43534,8 +48026,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 335"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无, 见文本"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无, 见文本",
+        "mythic": true
     },
         {
         "key": "reviving finale",
@@ -43549,6 +48044,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 239"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则减半 (无害); 见文本"
     },
@@ -43566,8 +48063,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "ride the lightning",
@@ -43581,7 +48081,9 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["Ultimate Magic pg. 235"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "ride the waves",
@@ -43605,6 +48107,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43627,6 +48131,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 185"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -43654,7 +48160,9 @@ var spellsIndex = [
             "Book of the Damned - Volume 2: Lords of Chaos pg. 48"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -43669,6 +48177,8 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43691,6 +48201,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Plane-Hopper's Handbook pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -43706,7 +48218,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["PRPG Core Rulebook pg. 335"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "righteous vigor",
@@ -43721,6 +48235,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43746,6 +48262,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 126"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -43772,7 +48290,9 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 14"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43790,7 +48310,9 @@ var spellsIndex = [
             "warpriest": 1
         },
         "source": ["Divine Anthology pg. 13"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "rite of centered mind",
@@ -43807,7 +48329,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Divine Anthology pg. 13"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "rival's weald",
@@ -43821,6 +48345,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of Legends pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "Fortitude negates, Will partial (see text)"
     },
@@ -43842,6 +48368,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "120尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -43861,7 +48389,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散; 见文本",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43882,7 +48412,9 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 27"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43906,7 +48438,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -43931,7 +48465,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -43946,6 +48482,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -43968,6 +48506,8 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "120尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -43987,7 +48527,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 335"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44002,7 +48544,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 233"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44022,6 +48566,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 188"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -44045,6 +48591,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -44073,6 +48621,8 @@ var spellsIndex = [
         ],
         "race": "Rovagug",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -44091,7 +48641,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Melee Tactics Toolbox pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "rumormonger",
@@ -44108,6 +48660,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -44124,7 +48678,9 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 25"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44139,7 +48695,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #77: Herald of the Ivory Labyrinth pg. 50"],
         "castingTime_zh": "3轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -44161,7 +48719,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 22"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
         {
@@ -44180,6 +48740,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 61"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天 或 直至被启动 (见描述)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志 (无害)"
     },
@@ -44194,7 +48756,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Dwarves of Golarion pg. 25"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体) 和 可; 见文本",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -44217,7 +48781,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 60"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44236,6 +48802,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -44251,7 +48819,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 335"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44270,6 +48840,8 @@ var spellsIndex = [
         },
         "source": ["People of the River pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -44284,6 +48856,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 126"],
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -44302,8 +48876,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 240"],
         "castingTime_zh": "1轮",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触; 见文本",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "sacred nimbus",
@@ -44319,7 +48896,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["Horror Adventures pg. 126"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "sacred space",
@@ -44336,7 +48915,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 89"],
         "race": "aasimar",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44359,7 +48940,9 @@ var spellsIndex = [
             "Book of the Damned - Volume 1: Princes of Darkness pg. 47"
         ],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即, 1小时 或 1天; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44370,6 +48953,8 @@ var spellsIndex = [
         "levels": {"paladin": 4},
         "source": ["Advanced Player's Guide pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -44380,7 +48965,9 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 240"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "sadomasochism",
@@ -44404,6 +48991,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 239"],
         "race": "Zon-Kuthon",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -44421,6 +49010,8 @@ var spellsIndex = [
         },
         "source": ["Pirates of the Inner Sea pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -44436,8 +49027,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "sanctify corpse",
@@ -44456,7 +49050,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 236"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44472,6 +49068,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of the Righteous pg. 50"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -44489,8 +49087,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 336"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "sand table",
@@ -44509,7 +49110,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 165"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44525,7 +49128,9 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 25"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (仅限目盲)"
     },
         {
@@ -44541,7 +49146,9 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 25"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (仅限目盲)"
     },
         {
@@ -44567,8 +49174,11 @@ var spellsIndex = [
             "Osirion, Land of the Pharaohs pg. 27"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 立即; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "sarzari shadow memory",
@@ -44589,8 +49199,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Adventurer's Guide pg. 160"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可 (无害)",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1个月",
+        "range_zh": "个人",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -44612,7 +49224,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 59"],
         "race": "half-orc",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消), 特殊; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "saving finale",
@@ -44626,8 +49240,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 241"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "sawtooth terrain",
@@ -44648,6 +49265,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 161"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -44671,6 +49290,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 141"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -44694,6 +49315,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 141"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -44717,7 +49340,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Legacy of Dragons pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "scamper",
@@ -44734,7 +49359,9 @@ var spellsIndex = [
             "Animal Archive pg. 25"
         ],
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -44765,6 +49392,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 336"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1轮; 见惊恐术描述",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -44790,6 +49419,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -44804,6 +49435,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -44822,6 +49455,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 336"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -44841,7 +49476,9 @@ var spellsIndex = [
         },
         "source": ["Distant Realms pg. 42"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -44856,6 +49493,8 @@ var spellsIndex = [
         },
         "source": ["Paizo Blog - Ultimate Cantrips pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -44876,8 +49515,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "scorching ray",
@@ -44895,8 +49537,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 337"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "scourge of the horsemen",
@@ -44917,6 +49562,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -44939,8 +49586,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可; 见文本",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "screaming flames",
@@ -44961,6 +49611,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Horror Adventures pg. 126"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半 和 意志, 通过则无效; 见文本"
     },
@@ -44973,6 +49625,8 @@ var spellsIndex = [
         "levels": {"witch": 3},
         "source": ["Advanced Player's Guide pg. 241"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -44990,7 +49644,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 337"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 或 意志, 通过则不相信 (若有互动); 见文本"
     },
         {
@@ -45008,6 +49664,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -45032,6 +49690,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 224"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -45052,6 +49712,8 @@ var spellsIndex = [
         },
         "source": ["Seekers of Secrets pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 最高1分钟/等级",
+        "range_zh": "5尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志 (无害, 物体)"
     },
@@ -45078,6 +49740,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 337"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -45107,7 +49771,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["PRPG Core Rulebook pg. 337"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -45124,7 +49790,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 241"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
         {
@@ -45141,6 +49809,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -45155,6 +49825,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -45177,6 +49849,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -45188,8 +49862,10 @@ var spellsIndex = [
         "descriptors": ["water"],
         "levels": {"druid": 9},
         "source": ["Ultimate Wilderness pg. 234"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "永久",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45209,6 +49885,8 @@ var spellsIndex = [
             "Animal Archive pg. 25"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -45229,6 +49907,8 @@ var spellsIndex = [
             "Animal Archive pg. 25"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -45240,6 +49920,8 @@ var spellsIndex = [
         "levels": {"spiritualist": 6},
         "source": ["Occult Adventures pg. 185"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -45254,6 +49936,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 185"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -45271,7 +49955,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 61"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "无限",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -45288,7 +49974,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Advanced Player's Guide pg. 241"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "searching shadows",
@@ -45306,6 +49994,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -45322,8 +50012,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "sebaceous twin",
@@ -45344,6 +50037,8 @@ var spellsIndex = [
         "source": ["Pathfinder #119: Prisoners of the Blight pg. 70"],
         "race": "Cyth-V'sug",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无; 见文本"
     },
@@ -45361,7 +50056,9 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 17"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45382,7 +50079,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["Elemental Master's Handbook pg. 18"],
-        "castingTime_zh": "迅捷动作 或 直觉动作; 见文本"
+        "castingTime_zh": "迅捷动作 或 直觉动作; 见文本",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "secret chest",
@@ -45402,7 +50101,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "60天 或 直至消散",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45422,7 +50123,9 @@ var spellsIndex = [
             "Heroes of the Streets pg. 31"
         ],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "60天 或 直至消散",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45442,7 +50145,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45463,6 +50168,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -45489,7 +50196,9 @@ var spellsIndex = [
         ],
         "race": "Calistria",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -45506,7 +50215,9 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 31"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "60天 或 直至消散",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45525,7 +50236,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 338"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45548,7 +50261,9 @@ var spellsIndex = [
             "Faiths of Balance pg. 28"
         ],
         "race": "Calistria",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "see alignment",
@@ -45566,7 +50281,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Combat pg. 243"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "see beyond",
@@ -45583,7 +50300,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Divine Anthology pg. 13"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "see invisibility",
@@ -45610,7 +50329,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["PRPG Core Rulebook pg. 339"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "see through stone",
@@ -45624,6 +50345,8 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -45646,7 +50369,9 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 14"],
         "race": "Gathlain",
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45673,6 +50398,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -45700,6 +50427,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -45732,6 +50461,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Intrigue pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -45761,7 +50492,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 242"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 最高1分钟/等级",
+        "range_zh": "40尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -45783,6 +50516,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 339"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "12小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 或 否; 见文本",
         "savingThrow_zh": "意志, 通过则无效 或 意志, 通过则不相信 (若有互动)"
     },
@@ -45800,6 +50535,8 @@ var spellsIndex = [
         "source": ["Pathfinder #102: Breaking the Bones of Hell pg. 75"],
         "race": "Mephistopheles",
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -45815,7 +50552,9 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 27"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -45840,7 +50579,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 224"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45864,6 +50605,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -45883,7 +50626,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #86: Lords of Rust pg. 75"],
         "race": "Brigh",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触"
     },
         {
         "key": "sending",
@@ -45911,8 +50656,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 339"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "sense fear",
@@ -45937,7 +50685,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Horror Adventures pg. 127"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "sense madness",
@@ -45956,7 +50706,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 127"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45967,7 +50719,9 @@ var spellsIndex = [
         "levels": {"shaman": 1},
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "24小时",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -45986,7 +50740,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Dirty Tactics Toolbox pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "sensory amplifier",
@@ -46004,6 +50760,8 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46023,6 +50781,8 @@ var spellsIndex = [
         },
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -46044,8 +50804,10 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 143"],
         "race": "orc",
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "永久 (可解消); 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46066,7 +50828,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 339"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久 或 直至能量发散; 直至被释放 或 1d4日+每等级1日; 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -46084,7 +50848,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Pathfinder Society Field Guide pg. 58"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "永久 直至能量发散; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "sequester",
@@ -46101,6 +50867,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 或 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -46129,6 +50897,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46147,6 +50917,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -46165,6 +50937,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -46186,6 +50960,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 185"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -46202,6 +50978,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 324"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46227,7 +51005,9 @@ var spellsIndex = [
             "Path of the Hellknight pg. 61"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -46244,6 +51024,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -46268,8 +51050,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 211"],
         "race": "wayang",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "shadow barbs",
@@ -46290,7 +51075,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 59"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -46307,7 +51094,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Occult Adventures pg. 186"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "shadow bomb admixture",
@@ -46321,6 +51110,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "特殊, 见文本",
         "savingThrow_zh": "特殊; 见文本"
     },
@@ -46343,7 +51134,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Villain Codex pg. 81"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "shadow conjuration, greater",
@@ -46359,6 +51152,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -46381,6 +51176,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -46401,6 +51198,8 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则不信 (如果有互动), 见文本"
     },
@@ -46420,6 +51219,8 @@ var spellsIndex = [
         },
         "source": ["Occult Realms pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 见文本"
     },
@@ -46439,6 +51240,8 @@ var spellsIndex = [
         },
         "source": ["Occult Realms pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 见文本"
     },
@@ -46461,6 +51264,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级直到生效, 随后1分钟/等级, 见说明",
+        "range_zh": "个人",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "意志, 通过则不相信 (如果产生互动) ; 可变; 见描述"
     },
@@ -46478,6 +51283,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -46499,6 +51306,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 340"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
@@ -46518,7 +51327,9 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 44"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46540,7 +51351,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Villain Codex pg. 81"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即 以及 1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "shadow of doubt",
@@ -46563,6 +51376,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 222"],
         "race": "Tiefling",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -46578,7 +51393,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Advanced Player's Guide pg. 243"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "shadow step",
@@ -46600,7 +51417,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 237"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46619,6 +51438,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则不相信 (如果产生互动) ; 可变; 见描述"
     },
@@ -46643,6 +51464,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则不相信 (如果产生互动) ; 可变; 见描述"
     },
@@ -46671,6 +51494,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46694,6 +51519,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 341"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46716,8 +51543,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
+        "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+        "mythic": true
     },
         {
         "key": "shadowbard",
@@ -46732,7 +51562,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 236"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46754,6 +51586,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 9"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -46778,6 +51612,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -46806,6 +51642,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 16"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46824,7 +51662,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 113"],
         "race": "fetchling",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46839,7 +51679,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 341"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "7天 或 7个月 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -46858,6 +51700,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 225"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -46875,7 +51719,9 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["PRPG Core Rulebook pg. 341"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "shapechanger's gift, greater",
@@ -46890,6 +51736,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -46909,6 +51757,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 235"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -46925,6 +51775,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -46953,6 +51805,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 114"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -46978,6 +51832,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47004,6 +51860,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47026,6 +51884,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -47045,6 +51905,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 243"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47064,7 +51926,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Animal Archive pg. 25"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "share skin, greater",
@@ -47074,7 +51938,9 @@ var spellsIndex = [
         "levels": {"witch": 8},
         "source": ["Blood of the Moon pg. 11"],
         "race": "werebear",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直到你回到你体内",
+        "range_zh": "接触"
     },
         {
         "key": "share skin",
@@ -47088,7 +51954,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Moon pg. 11"],
         "race": "werebear",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直到你回到你体内",
+        "range_zh": "接触"
     },
         {
         "key": "shared sacrifice",
@@ -47112,6 +51980,8 @@ var spellsIndex = [
         ],
         "race": "Asmodeus",
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -47131,6 +52001,8 @@ var spellsIndex = [
         },
         "source": ["Champions of Corruption pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -47158,7 +52030,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 13"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47175,6 +52049,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47191,6 +52067,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47216,8 +52094,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 341"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效 (物体)"
+        "savingThrow_zh": "意志, 通过则无效 (物体)",
+        "mythic": true
     },
         {
         "key": "sheet lightning",
@@ -47234,6 +52115,8 @@ var spellsIndex = [
         },
         "source": ["Rival Guide pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -47255,6 +52138,8 @@ var spellsIndex = [
         },
         "source": ["Animal Archive pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47276,6 +52161,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 191"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47300,7 +52187,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47316,8 +52205,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 342"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "shield of fortification, greater",
@@ -47334,6 +52226,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -47352,6 +52246,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -47367,6 +52263,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 342"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "见文本"
     },
@@ -47388,6 +52286,8 @@ var spellsIndex = [
         },
         "source": ["Armor Master's Handbook pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -47413,6 +52313,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 240"],
         "race": "Sarenrae",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "见下文"
     },
@@ -47444,8 +52346,11 @@ var spellsIndex = [
         ],
         "race": "Sarenrae",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "shield of wings",
@@ -47464,7 +52369,9 @@ var spellsIndex = [
         "source": ["Paths of the Righteous pg. 9"],
         "race": "Ragathiel",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47482,8 +52389,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 342"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "shield speech, greater",
@@ -47502,6 +52412,8 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47524,6 +52436,8 @@ var spellsIndex = [
         },
         "source": ["Taldor, Echoes of Glory pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -47540,7 +52454,9 @@ var spellsIndex = [
         },
         "source": ["Orcs of Golarion pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -47564,7 +52480,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["PRPG Core Rulebook pg. 342"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "shifted steps",
@@ -47592,7 +52510,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 225"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害) 和 意志, 通过则不相信 (若有互动) ; 见文本"
     },
         {
@@ -47611,7 +52531,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 243"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -47630,7 +52552,9 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无, 见文本"
     },
         {
@@ -47644,6 +52568,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 342"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -47656,6 +52582,8 @@ var spellsIndex = [
         "levels": {"magus": 3},
         "source": ["Inner Sea Magic pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 立即; 见文本",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -47680,7 +52608,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 243"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "shocking grasp",
@@ -47698,8 +52628,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "shocking image",
@@ -47721,6 +52654,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "无"
     },
@@ -47740,6 +52675,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则部分生效 或 反射, 通过则无效 (物体); 见文本"
     },
@@ -47762,8 +52699,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "强韧, 通过则部分生效 或 反射, 通过则无效 (物体); 见文本"
+        "savingThrow_zh": "强韧, 通过则部分生效 或 反射, 通过则无效 (物体); 见文本",
+        "mythic": true
     },
         {
         "key": "shrink item",
@@ -47780,6 +52720,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 342"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1日/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -47805,6 +52747,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -47828,7 +52772,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the High Court pg. 10"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无 (无害)"
     },
         {
@@ -47845,6 +52791,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "反射，通过则部分生效 和 强韧，通过则无效（见后文）"
     },
@@ -47867,6 +52815,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 155"],
         "race": "ratfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -47878,7 +52828,9 @@ var spellsIndex = [
         "levels": {"druid": 9},
         "source": ["Ultimate Combat pg. 244"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47889,7 +52841,9 @@ var spellsIndex = [
         "levels": {"druid": 7},
         "source": ["Ultimate Combat pg. 244"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47907,6 +52861,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Dwarf",
         "castingTime_zh": "1轮",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -47925,7 +52881,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 244"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47945,7 +52903,9 @@ var spellsIndex = [
         "source": ["Taldor, Echoes of Glory pg. 25"],
         "race": "Sarenrae",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -47966,6 +52926,8 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 63"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -47985,6 +52947,8 @@ var spellsIndex = [
         },
         "source": ["Cheliax, Empire of Devils pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -48000,7 +52964,9 @@ var spellsIndex = [
             "shaman": 3
         },
         "source": ["Ultimate Wilderness pg. 235"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "silence",
@@ -48021,8 +52987,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可; 见文本 或 否 (物体)",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "silent image",
@@ -48045,8 +53014,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
+        "duration_zh": "专注",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "意志, 通过则不相信 (若有互动)",
+        "mythic": true
     },
         {
         "key": "silent table",
@@ -48070,6 +53042,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -48090,7 +53064,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 238"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48108,7 +53084,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Sea pg. 21"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48127,6 +53105,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -48151,7 +53131,9 @@ var spellsIndex = [
         },
         "source": ["Guide to the River Kingdoms pg. 25"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -48168,8 +53150,10 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Magic pg. 238"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1小时/等级",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48187,7 +53171,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 343"],
         "castingTime_zh": "12小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48206,7 +53192,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 60"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48227,6 +53215,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 27"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -48251,6 +53241,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 244"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -48272,7 +53264,9 @@ var spellsIndex = [
         },
         "source": ["Pirates of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48299,7 +53293,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Blood of the Ancients pg. 17"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人"
     },
         {
         "key": "skin tag",
@@ -48325,6 +53321,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 28"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1天+1天/等级 (可解消)",
+        "range_zh": "接触 (物体); 1里 (远程效果)",
         "spellResistance_zh": "无 (物体); 有 (生物)",
         "savingThrow_zh": "无 (物体); 强韧, 通过则无效; 见文本"
     },
@@ -48344,7 +53342,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Magic pg. 238"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "sky steed",
@@ -48358,6 +53358,8 @@ var spellsIndex = [
             "Animal Archive pg. 25"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -48383,6 +53385,8 @@ var spellsIndex = [
         ],
         "race": "Gozreh",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无 (无害)"
     },
@@ -48404,7 +53408,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 9"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "远距 (400尺+每等级40尺); 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48434,6 +53440,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Adventurer's Guide pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志无效; 见文本"
     },
@@ -48454,6 +53462,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -48480,8 +53490,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "sleepwalk",
@@ -48498,6 +53511,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 244"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -48520,6 +53535,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 127"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 或 没有; 见文本"
     },
@@ -48543,7 +53560,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48564,7 +53583,9 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48585,7 +53606,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 244"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效 (无害)"
     },
         {
@@ -48608,6 +53631,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 128"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -48634,8 +53659,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "slowing mud",
@@ -48650,6 +53678,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 192"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -48669,7 +53699,9 @@ var spellsIndex = [
             "Pathfinder #44: Trial of the Beast pg. 69"
         ],
         "race": "Pharasma",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "smug narcissism",
@@ -48694,6 +53726,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 238"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -48712,6 +53746,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -48735,6 +53771,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效"
     },
@@ -48750,7 +53788,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 344"],
         "castingTime_zh": "3轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "直至触发 或 损毁",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48772,7 +53812,9 @@ var spellsIndex = [
         },
         "source": ["Humans of Golarion pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48803,6 +53845,8 @@ var spellsIndex = [
             "Pathfinder #67: The Snows of Summer pg. 73"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -48818,7 +53862,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 345"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48840,8 +53886,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 345"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "solid note",
@@ -48855,7 +53904,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 245"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -48877,7 +53928,9 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -48898,6 +53951,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Chronicle of Legends pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -48919,6 +53974,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 345"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -48933,7 +53990,9 @@ var spellsIndex = [
             "skald": 4
         },
         "source": ["Inner Sea Magic pg. 60"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至吟游表演结束 或 被变更; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "songbird",
@@ -48955,7 +54014,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Planar Adventures pg. 44"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "sonic form",
@@ -48975,7 +54036,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Advanced Class Guide pg. 193"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "sonic scream",
@@ -48995,6 +54058,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 193"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散; 见文本",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
@@ -49014,6 +54079,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 239"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体) ; 见文本",
         "savingThrow_zh": "意志, 通过则无效 (物体) 或 无; 见文本"
     },
@@ -49033,7 +54100,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 239"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -49055,7 +54124,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Wilderness pg. 236"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -49076,6 +54147,8 @@ var spellsIndex = [
         },
         "source": ["GameMastery Condition Cards pg. 0"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49102,6 +54175,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Faction Guide pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49122,7 +54197,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 345"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -49147,6 +54224,8 @@ var spellsIndex = [
             "Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49172,6 +54251,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 33"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49190,8 +54271,11 @@ var spellsIndex = [
         },
         "source": ["Mythic Origins pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则减半; 见文本"
+        "savingThrow_zh": "强韧, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "soulseeker",
@@ -49208,8 +54292,10 @@ var spellsIndex = [
             "witch": 8
         },
         "source": ["Planar Adventures pg. 44"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即 或 1小时/等级",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -49235,6 +54321,8 @@ var spellsIndex = [
         },
         "source": ["Familiar Folio pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49254,6 +54342,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 346"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -49272,6 +54362,8 @@ var spellsIndex = [
         },
         "source": ["Faiths and Philosophies pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "5尺",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "无"
     },
@@ -49295,6 +54387,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 185"],
         "race": "changeling",
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49321,6 +54415,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -49346,8 +54442,11 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 241"],
         "race": "Rovagug",
         "castingTime_zh": "1星期",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "spawn ward",
@@ -49363,6 +54462,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 101"],
         "race": "dhampir",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -49387,7 +54488,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -49404,7 +54507,9 @@ var spellsIndex = [
             "skald": 3
         },
         "source": ["PRPG Core Rulebook pg. 346"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "speak with dead",
@@ -49425,7 +54530,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 346"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -49446,7 +54553,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 193"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "10尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -49469,6 +54578,8 @@ var spellsIndex = [
         },
         "source": ["Plane-Hopper's Handbook pg. 12"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -49485,7 +54596,9 @@ var spellsIndex = [
             "skald": 4
         },
         "source": ["PRPG Core Rulebook pg. 346"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "speak with soul",
@@ -49504,7 +54617,9 @@ var spellsIndex = [
         },
         "source": ["Planar Adventures pg. 45"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -49519,7 +54634,9 @@ var spellsIndex = [
             "shaman": 7
         },
         "source": ["Elemental Master's Handbook pg. 14"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "spear of purity",
@@ -49534,6 +54651,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1轮)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -49554,7 +54673,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 346"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -49573,7 +54694,9 @@ var spellsIndex = [
             "Osirion, Land of the Pharaohs pg. 27"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -49594,7 +54717,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #116: Fangs of War pg. 67"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -49622,7 +54747,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Heroes of the High Court pg. 10"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "spell absorption, greater",
@@ -49635,7 +54762,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Inner Sea Magic pg. 61"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "spell absorption",
@@ -49648,7 +54777,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Inner Sea Magic pg. 61"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "spell gauge",
@@ -49674,6 +54805,8 @@ var spellsIndex = [
         ],
         "race": "Nethys",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49692,6 +54825,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 244"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49707,6 +54842,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49722,6 +54859,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49743,6 +54882,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 346"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49764,6 +54905,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49783,6 +54926,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 243"],
         "race": "Nethys",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 1d4轮, 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49800,7 +54945,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 347"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "直至耗尽 或 10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "spellcasting contract, greater",
@@ -49814,6 +54961,8 @@ var spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 68"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49830,6 +54979,8 @@ var spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 67"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49845,6 +54996,8 @@ var spellsIndex = [
         "source": ["Pathfinder #29: Mother of Flies pg. 68"],
         "race": "Asmodeus",
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -49863,6 +55016,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49883,6 +55038,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49903,6 +55060,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 193"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49924,6 +55083,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 6"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -49940,7 +55101,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Inner Sea Magic pg. 61"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)"
     },
         {
         "key": "spellstaff",
@@ -49953,6 +55116,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -49973,6 +55138,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 200"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 或 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -49990,6 +55157,8 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -50005,8 +55174,10 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Classic Treasures Revisited pg. 45"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -50030,6 +55201,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50057,8 +55230,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "spike growth",
@@ -50072,6 +55248,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 347"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -50088,8 +55266,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 348"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则部分生效; 见文本"
+        "savingThrow_zh": "反射, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "spiked pit",
@@ -50106,7 +55287,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 246"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 + 每等级1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -50130,6 +55313,8 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 14"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50154,6 +55339,8 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 14"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50171,6 +55358,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 43"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -50188,6 +55377,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 43"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -50206,7 +55397,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Divine Anthology pg. 13"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "spirit call",
@@ -50219,7 +55412,9 @@ var spellsIndex = [
             "shaman": 1
         },
         "source": ["Advanced Class Origins pg. 31"],
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "100尺"
     },
         {
         "key": "spirit share",
@@ -50244,7 +55439,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Inner Sea Temples pg. 23"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "spirit-bound blade",
@@ -50259,7 +55456,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 186"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
         {
@@ -50277,6 +55476,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -50298,7 +55499,9 @@ var spellsIndex = [
         },
         "source": ["Armor Master's Handbook pg. 23"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -50318,8 +55521,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 348"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "spit venom",
@@ -50338,7 +55544,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
         {
@@ -50351,7 +55559,9 @@ var spellsIndex = [
             "witch": 4
         },
         "source": ["Advanced Player's Guide pg. 246"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消) 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "splinter spell resistance",
@@ -50371,7 +55581,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 9"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -50391,6 +55603,8 @@ var spellsIndex = [
             "Orcs of Golarion pg. 28"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半 和 反射; 见文本"
     },
@@ -50409,7 +55623,9 @@ var spellsIndex = [
         },
         "source": ["Cohorts and Companions pg. 21"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "特殊; 见文本"
     },
         {
@@ -50442,6 +55658,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -50463,6 +55681,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 209"],
         "race": "vishkanya",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -50480,6 +55700,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -50505,6 +55727,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -50531,6 +55755,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 348"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50559,6 +55785,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Arcane Anthology pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -50579,6 +55807,8 @@ var spellsIndex = [
         },
         "source": ["Rival Guide pg. 35"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -50601,6 +55831,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 58"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50626,7 +55858,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["People of the Stars pg. 29"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "statue",
@@ -50643,6 +55877,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 349"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50653,6 +55889,8 @@ var spellsIndex = [
         "school": "divination",
         "source": ["Pathfinder Campaign Setting pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50673,6 +55911,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 349"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50689,6 +55929,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 128"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/2等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -50702,6 +55944,8 @@ var spellsIndex = [
         "levels": {"paladin": 4},
         "source": ["Advanced Player's Guide pg. 246"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级 和 特殊; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效"
     },
@@ -50719,6 +55963,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -50745,6 +55991,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 95"],
         "race": "catfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -50766,6 +56014,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Adventures pg. 114"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -50786,6 +56036,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -50807,6 +56059,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -50828,6 +56082,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Night pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -50850,6 +56106,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Night pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -50869,7 +56127,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Aquatic Adventures pg. 61"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "stench of prey",
@@ -50884,6 +56144,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -50906,8 +56168,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 349"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "强韧, 通过则无效"
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "强韧, 通过则无效",
+        "mythic": true
     },
         {
         "key": "stoke the inner fire",
@@ -50923,7 +56188,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #95: Anvil of Fire pg. 66"],
         "race": "Zursvaater",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "stolen light",
@@ -50941,6 +56208,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Society Field Guide pg. 59"],
         "castingTime_zh": "整轮动作",
+        "duration_zh": "永久 或 1分钟/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -50963,7 +56232,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 247"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -50985,7 +56256,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51007,7 +56280,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Player's Guide pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "stone shape",
@@ -51030,8 +56305,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 349"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "stone shield",
@@ -51058,7 +56336,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 149"],
         "race": "oread",
         "castingTime_zh": "直觉动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51073,7 +56353,9 @@ var spellsIndex = [
             "shaman": 7
         },
         "source": ["PRPG Core Rulebook pg. 349"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "stone throwing",
@@ -51095,6 +56377,7 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -51113,6 +56396,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -51137,6 +56422,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -51165,8 +56452,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
-        "savingThrow_zh": "意志, 通过则无效 (无害)"
+        "savingThrow_zh": "意志, 通过则无效 (无害)",
+        "mythic": true
     },
         {
         "key": "storm of blades",
@@ -51185,7 +56475,9 @@ var spellsIndex = [
         },
         "source": ["People of the Sands pg. 11"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51203,8 +56495,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "1轮",
+        "duration_zh": "专注 (至多10轮)  (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "见文本"
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "storm sight",
@@ -51226,6 +56521,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 184"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -51245,6 +56542,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Elements pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -51266,6 +56565,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -51286,6 +56587,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 128"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -51303,7 +56606,9 @@ var spellsIndex = [
             "witch": 1
         },
         "source": ["Legacy of the First World pg. 17"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "strangling hair",
@@ -51320,8 +56625,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注, 至多每等级1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "stricken heart",
@@ -51342,6 +56650,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -51360,6 +56670,8 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -51375,6 +56687,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -51397,6 +56711,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 201"],
         "race": "strix",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -51413,7 +56729,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 247"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 + 每等级1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -51434,6 +56752,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "个人",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
     },
@@ -51455,6 +56775,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 194"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "个人",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
     },
@@ -51471,6 +56793,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -51486,7 +56810,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 236"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51508,7 +56834,9 @@ var spellsIndex = [
         },
         "source": ["Occult Origins pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51525,7 +56853,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #56: Raiders of the Fever Sea pg. 70"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -51540,7 +56870,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 62"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51552,6 +56884,8 @@ var spellsIndex = [
         "levels": {"sahirafiyun": 5},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -51569,6 +56903,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -51581,6 +56917,8 @@ var spellsIndex = [
         "levels": {"sahirafiyun": 2},
         "source": ["Dark Markets - A Guide to Katapesh pg. 57"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -51600,6 +56938,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "3轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -51627,6 +56967,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至完成",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -51655,8 +56997,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至完成",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "summon accuser",
@@ -51684,7 +57029,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Rival Guide pg. 59"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51702,6 +57049,8 @@ var spellsIndex = [
         },
         "source": ["Dwarves of Golarion pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -51718,7 +57067,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Comics #10 pg. 26"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51734,7 +57085,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder Comics #10 pg. 27"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51757,7 +57110,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51780,7 +57135,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51803,7 +57160,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51823,7 +57182,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51838,7 +57199,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 248"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51850,7 +57213,9 @@ var spellsIndex = [
         "levels": {"druid": 9},
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51863,7 +57228,9 @@ var spellsIndex = [
         "levels": {"druid": 9},
         "source": ["Faction Guide pg. 61"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51885,7 +57252,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51912,7 +57281,9 @@ var spellsIndex = [
             "Andoran, Spirit of Liberty pg. 27"
         ],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51924,7 +57295,9 @@ var spellsIndex = [
         "levels": {"druid": 9},
         "source": ["Ultimate Magic pg. 240"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51946,7 +57319,9 @@ var spellsIndex = [
         },
         "source": ["People of the Sands pg. 11"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51968,7 +57343,9 @@ var spellsIndex = [
         },
         "source": ["People of the Sands pg. 11"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -51990,7 +57367,9 @@ var spellsIndex = [
         },
         "source": ["People of the Sands pg. 11"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52007,7 +57386,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Kellid",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52021,7 +57402,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Kellid",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52035,7 +57418,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Kellid",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52059,7 +57444,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder #74: Sword of Valor pg. 75"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52088,7 +57475,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Rival Guide pg. 59"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52103,7 +57492,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52120,7 +57511,9 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Tian",
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52139,7 +57532,9 @@ var spellsIndex = [
         },
         "source": ["Monster Summoner's Handbook pg. 23"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52166,7 +57561,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder #74: Sword of Valor pg. 75"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52188,7 +57585,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #80: Empty Graves pg. 28"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52210,7 +57609,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52226,7 +57627,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52253,7 +57656,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52282,7 +57687,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 350"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52311,7 +57718,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52337,7 +57746,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52366,7 +57777,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52394,7 +57807,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52420,7 +57835,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52443,7 +57860,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52465,7 +57884,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52486,7 +57907,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 352"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52503,7 +57926,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52520,7 +57945,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52537,7 +57964,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52554,7 +57983,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52570,7 +58001,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52586,7 +58019,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52601,7 +58036,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52616,7 +58053,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52631,7 +58070,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52656,7 +58097,9 @@ var spellsIndex = [
         },
         "source": ["Blood of the Ancients pg. 17"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52676,7 +58119,9 @@ var spellsIndex = [
         },
         "source": ["Chronicle of the Righteous pg. 51"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半; 见文本"
     },
         {
@@ -52700,8 +58145,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "专注 + 2轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "summon thanadaemon",
@@ -52720,7 +58168,9 @@ var spellsIndex = [
         },
         "source": ["Book of the Damned - Volume 3: Horsemen of the Apocalypse pg. 39"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52744,7 +58194,9 @@ var spellsIndex = [
         },
         "source": ["Humans of Golarion pg. 29"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52766,7 +58218,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #80: Empty Graves pg. 28"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -52789,6 +58243,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -52811,8 +58267,11 @@ var spellsIndex = [
             "Faiths of Purity pg. 28"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
-        "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
+        "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本",
+        "mythic": true
     },
         {
         "key": "sun's disdain, mass",
@@ -52833,6 +58292,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -52856,6 +58317,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -52871,8 +58334,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 354"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至所有射线耗尽",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则无效 和 反射, 通过则减半; 见文本"
+        "savingThrow_zh": "反射, 通过则无效 和 反射, 通过则减半; 见文本",
+        "mythic": true
     },
         {
         "key": "sunburst",
@@ -52889,6 +58355,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 355"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
@@ -52907,6 +58375,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消) 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害) 和 见文本",
         "savingThrow_zh": "意志, 通过则无效 (无害) 和 见文本"
     },
@@ -52927,6 +58397,8 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 200"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -52948,6 +58420,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 195"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -52968,6 +58442,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 17"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -52995,6 +58471,8 @@ var spellsIndex = [
             "Andoran, Spirit of Liberty pg. 27"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟, 或 专注 (最多1轮/等级) ; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -53012,7 +58490,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Inner Sea Magic pg. 61"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "10尺"
     },
         {
         "key": "suppressing stone",
@@ -53026,7 +58506,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Races pg. 223"],
         "race": "Azlanti",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直到消散 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "sure casting",
@@ -53046,7 +58528,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Pathfinder Society Primer pg. 13"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "surefoot boots",
@@ -53062,6 +58546,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Armory 2 pg. 21"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "无",
         "savingThrow_zh": "无"
     },
@@ -53071,7 +58557,9 @@ var spellsIndex = [
         "name_zh": "保命术",
         "school": "abjuration",
         "source": ["Pathfinder Campaign Setting pg. 207"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/2等级",
+        "range_zh": "个人"
     },
         {
         "key": "surface excursion",
@@ -53094,7 +58582,9 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Darklands pg. 21"],
         "castingTime_zh": "3轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -53110,7 +58600,10 @@ var spellsIndex = [
             "warpriest": 2
         },
         "source": ["Ultimate Magic pg. 241"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "自己",
+        "mythic": true
     },
         {
         "key": "suspend drowning",
@@ -53129,6 +58622,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Sea pg. 21"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -53146,6 +58641,8 @@ var spellsIndex = [
         },
         "source": ["Mythic Origins pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -53163,7 +58660,9 @@ var spellsIndex = [
             "witch": 5
         },
         "source": ["Ultimate Intrigue pg. 226"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "swallow your fear",
@@ -53180,6 +58679,8 @@ var spellsIndex = [
         "source": ["Pathfinder #35: War of the River Kings pg. 73"],
         "race": "Gorum",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -53202,7 +58703,9 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 213"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53216,7 +58719,9 @@ var spellsIndex = [
             "witch": 6
         },
         "source": ["Advanced Player's Guide pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "sweat poison",
@@ -53235,7 +58740,9 @@ var spellsIndex = [
         "source": ["Blood of the Beast pg. 11"],
         "race": "Grippli",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53255,7 +58762,9 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 62"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "instant",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53278,6 +58787,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -53294,7 +58805,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #116: Fangs of War pg. 67"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53314,6 +58827,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 355"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -53340,6 +58855,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Inner Sea Gods pg. 243"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53359,7 +58876,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 243"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53384,6 +58903,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 26"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53406,6 +58927,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 129"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -53432,6 +58955,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53451,6 +58976,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可 (无害) ; 见文本",
         "savingThrow_zh": "意志, 通过则减半 (无害) ; 见文本"
     },
@@ -53472,6 +58999,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53492,6 +59021,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53512,6 +59043,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分生效 (无害)"
     },
@@ -53538,6 +59071,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -53561,6 +59096,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53581,6 +59118,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -53602,7 +59141,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 241"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53623,7 +59164,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 242"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53647,6 +59190,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53668,6 +59213,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 242"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53695,6 +59242,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of the Ancients pg. 26"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -53716,6 +59265,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 242"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53738,6 +59289,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 245"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -53759,6 +59312,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 356"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53778,7 +59333,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 243"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -53797,6 +59354,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 357"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -53818,7 +59377,9 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 37"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无; 见文本"
     },
         {
@@ -53833,6 +59394,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 357"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "至多1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -53852,6 +59415,8 @@ var spellsIndex = [
         "source": ["Gods and Magic pg. 43"],
         "race": "Zon-Kuthon",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53877,7 +59442,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 357"],
-        "castingTime_zh": "1小声",
+        "castingTime_zh": "1小时",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53893,6 +59460,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -53909,6 +59478,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1d4轮; 见文本",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53925,6 +59496,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53941,6 +59514,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53957,6 +59532,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53973,6 +59550,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 187"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -53998,6 +59577,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "30尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志，通过则无效 (无害)"
     },
@@ -54008,7 +59589,9 @@ var spellsIndex = [
         "school": "transmutation",
         "levels": {"magus": 3},
         "source": ["Adventurer's Guide pg. 27"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "tactical formation",
@@ -54026,6 +59609,8 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 23"],
         "race": "Torag",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -54041,7 +59626,9 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1场战斗",
+        "range_zh": "1个单元格",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54064,6 +59651,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder Society Primer pg. 15"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -54091,6 +59680,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "120尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -54112,7 +59703,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Legacy of Dragons pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "tailwind",
@@ -54138,6 +59731,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "120尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -54154,7 +59749,9 @@ var spellsIndex = [
             "warpriest": 5
         },
         "source": ["Plane-Hopper's Handbook pg. 12"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)"
     },
         {
         "key": "talismanic implement",
@@ -54163,7 +59760,9 @@ var spellsIndex = [
         "school": "evocation",
         "levels": {"occultist": 3},
         "source": ["Occult Adventures pg. 188"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "1小时/等级 (可解消) 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "tamer's lash",
@@ -54181,6 +59780,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 236"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -54202,7 +59803,9 @@ var spellsIndex = [
             "Faiths of Purity pg. 29"
         ],
         "race": "Shelyn",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "tar ball",
@@ -54215,7 +59818,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 243"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54239,7 +59844,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Combat pg. 246"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -54252,7 +59859,9 @@ var spellsIndex = [
             "investigator": 1
         },
         "source": ["Ultimate Combat pg. 246"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "tattoo potion",
@@ -54272,7 +59881,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 62"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "一瓶药水",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54300,6 +59911,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -54317,7 +59930,9 @@ var spellsIndex = [
         },
         "source": ["Technology Guide pg. 11"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "3轮/等级",
+        "range_zh": "60尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54327,7 +59942,9 @@ var spellsIndex = [
         "school": "divination",
         "levels": {"druid": 7},
         "source": ["Faiths and Philosophies pg. 29"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "telekinesis",
@@ -54345,8 +59962,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 357"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (至多1轮/等级) 或 立即; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体); 见文本",
-        "savingThrow_zh": "意志, 通过则无效 (物体) 或 无; 见文本"
+        "savingThrow_zh": "意志, 通过则无效 (物体) 或 无; 见文本",
+        "mythic": true
     },
         {
         "key": "telekinetic assembly",
@@ -54364,6 +59984,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 246"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
@@ -54383,6 +60005,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -54401,6 +60025,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (至多为1轮/等级)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -54416,7 +60042,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54433,6 +60061,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 358"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "反射, 通过则无效 (物体)"
     },
@@ -54445,6 +60075,7 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -54463,6 +60094,8 @@ var spellsIndex = [
         },
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -54479,6 +60112,8 @@ var spellsIndex = [
         },
         "source": ["Ranged Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直到被摧毁为止 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "否 (物体)",
         "savingThrow_zh": "无 (物体)"
     },
@@ -54500,6 +60135,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 188"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -54521,7 +60158,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 358"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54536,6 +60175,8 @@ var spellsIndex = [
         },
         "source": ["Demon Hunter's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -54554,7 +60195,9 @@ var spellsIndex = [
         },
         "source": ["Monster Hunter's Handbook pg. 31"],
         "castingTime_zh": "1轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54573,7 +60216,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Occult Adventures pg. 189"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "teleport object",
@@ -54590,6 +60235,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 359"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -54606,6 +60253,8 @@ var spellsIndex = [
         },
         "source": ["Quests and Campaigns pg. 29"],
         "castingTime_zh": "8小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -54624,6 +60273,8 @@ var spellsIndex = [
             "Seekers of Secrets pg. 18"
         ],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1天/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -54644,6 +60295,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 359"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人 和 接触",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -54668,6 +60321,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 358"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人 和 接触",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -54687,6 +60342,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 359"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -54703,7 +60360,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Legacy of the First World pg. 31"],
-        "castingTime_zh": "迅捷动作"
+        "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "temporal regression",
@@ -54720,7 +60379,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 31"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 或 直至能量发散",
+        "range_zh": "个人 和 近距 (25尺+每2等级5尺); 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54736,6 +60397,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 359"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -54755,7 +60418,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Horror Adventures pg. 129"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "temporary resurrection",
@@ -54771,7 +60436,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Magic pg. 243"],
-        "castingTime_zh": "10分钟"
+        "castingTime_zh": "10分钟",
+        "duration_zh": "24小时",
+        "range_zh": "接触"
     },
         {
         "key": "teratoid caress",
@@ -54791,6 +60458,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder Comics #10 pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -54811,8 +60480,10 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Mythic Adventures pg. 114"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "1日/级; 见文本",
+        "range_zh": "100尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -54827,7 +60498,9 @@ var spellsIndex = [
             "ranger": 4
         },
         "source": ["Ultimate Combat pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/2等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "terrible remorse",
@@ -54856,6 +60529,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -54870,7 +60545,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "thaumaturgic circle",
@@ -54891,7 +60568,9 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 189"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -54913,8 +60592,11 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 167"],
         "race": "tengu",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
-        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
+        "savingThrow_zh": "意志, 通过则无效 (无害, 物体)",
+        "mythic": true
     },
         {
         "key": "they know",
@@ -54939,6 +60621,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Intrigue pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -54955,7 +60639,9 @@ var spellsIndex = [
         },
         "source": ["Legacy of the First World pg. 17"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -54971,7 +60657,9 @@ var spellsIndex = [
             "shaman": 4
         },
         "source": ["Advanced Player's Guide pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "thorn javelin",
@@ -54988,7 +60676,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -55002,7 +60692,9 @@ var spellsIndex = [
         },
         "source": ["Conquest of Bloodsworn Vale pg. 29"],
         "castingTime_zh": "3轮",
-        "spellResistance_zh": "不可",
+        "duration_zh": "直至触发 或 损毁",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -55019,6 +60711,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "否",
         "savingThrow_zh": "反射，通过则部分生效（见后文）"
     },
@@ -55034,6 +60728,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 189"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -55044,7 +60740,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 2},
         "source": ["Occult Adventures pg. 189"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "thought shield ii",
@@ -55053,7 +60751,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 3},
         "source": ["Occult Adventures pg. 189"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "thought shield iii",
@@ -55062,7 +60762,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 4},
         "source": ["Occult Adventures pg. 190"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "thought shield iv",
@@ -55071,7 +60773,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 190"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "个人"
     },
         {
         "key": "thought shield v",
@@ -55080,7 +60784,9 @@ var spellsIndex = [
         "school": "abjuration",
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 190"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "thought worm i",
@@ -55092,6 +60798,8 @@ var spellsIndex = [
         "levels": {"psychic": 2},
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55105,6 +60813,8 @@ var spellsIndex = [
         "levels": {"psychic": 3},
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55118,6 +60828,8 @@ var spellsIndex = [
         "levels": {"psychic": 4},
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -55131,6 +60843,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Psychic Anthology pg. 11"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -55150,7 +60864,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Occult Adventures pg. 190"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "threefold aspect",
@@ -55163,7 +60879,9 @@ var spellsIndex = [
             "witch": 4
         },
         "source": ["Advanced Player's Guide pg. 249"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "24小时 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "threefold face",
@@ -55178,7 +60896,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Legacy of the First World pg. 25"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "9分钟",
+        "range_zh": "个人"
     },
         {
         "key": "threefold form",
@@ -55191,7 +60911,9 @@ var spellsIndex = [
             "witch": 9
         },
         "source": ["Legacy of the First World pg. 25"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "9轮",
+        "range_zh": "个人"
     },
         {
         "key": "threefold sight",
@@ -55210,7 +60932,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Legacy of the First World pg. 25"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "3分钟",
+        "range_zh": "个人"
     },
         {
         "key": "thunder fire",
@@ -55228,6 +60952,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 247"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体, 见文本)",
         "savingThrow_zh": "意志, 通过则无效 (物体, 见文本)"
     },
@@ -55243,6 +60969,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "15尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -55259,7 +60987,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可 (无害)",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
         {
@@ -55280,6 +61010,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -55301,6 +61033,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -55318,7 +61052,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 237"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "30尺 或 60尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则减半"
     },
         {
@@ -55334,6 +61070,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "20尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55354,6 +61092,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 196"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -55369,7 +61109,10 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["PRPG Core Rulebook pg. 359"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1d4+1轮 (表面时间); 见文本",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "timely inspiration",
@@ -55382,6 +61125,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 249"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -55401,7 +61146,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 360"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "2小时/等级 (可解消)",
+        "range_zh": "20尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -55416,6 +61163,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -55430,7 +61179,9 @@ var spellsIndex = [
             "ranger": 1
         },
         "source": ["Advanced Player's Guide pg. 249"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "titanic anchoring",
@@ -55449,7 +61200,9 @@ var spellsIndex = [
             "warpriest": 3
         },
         "source": ["Pathfinder #91: Battle of Bloodmarch Hills pg. 71"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "toilsome chant",
@@ -55465,6 +61218,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 19"],
         "race": "dwarf",
         "castingTime_zh": "见文本",
+        "duration_zh": "见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -55486,7 +61241,9 @@ var spellsIndex = [
             "Osirion, Land of the Pharaohs pg. 27"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "7天 或 7个月 (可解消); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -55513,7 +61270,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 248"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -55545,7 +61304,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 360"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -55568,7 +61329,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 130"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 以及 立即; 见文本",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -55589,6 +61352,7 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder #24: The Final Wish pg. 60"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "concentration, 1 round/3 levels (see below)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -55608,8 +61372,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 247"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1小时/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "touch of blindness",
@@ -55636,6 +61403,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -55664,6 +61433,8 @@ var spellsIndex = [
         ],
         "race": "Zon-Kuthon",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55688,6 +61459,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 131"],
         "race": "ifrit",
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -55708,6 +61481,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 360"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -55729,6 +61504,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -55752,6 +61529,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 360"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -55763,6 +61542,8 @@ var spellsIndex = [
         "descriptors": ["mind-affecting"],
         "source": ["Pathfinder Campaign Setting pg. 207"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55789,6 +61570,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Champions of Purity pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55813,6 +61596,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -55840,6 +61625,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 26"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -55861,6 +61648,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 250"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -55881,6 +61670,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -55892,6 +61683,8 @@ var spellsIndex = [
         "levels": {"psychic": 5},
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -55903,6 +61696,8 @@ var spellsIndex = [
         "levels": {"psychic": 6},
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "2轮",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -55914,6 +61709,8 @@ var spellsIndex = [
         "levels": {"psychic": 7},
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "3轮",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -55925,6 +61722,8 @@ var spellsIndex = [
         "levels": {"psychic": 8},
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "4轮",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -55936,6 +61735,8 @@ var spellsIndex = [
         "levels": {"psychic": 9},
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "5轮",
+        "range_zh": "10尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -55964,7 +61765,9 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 11"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -55982,6 +61785,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 243"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -56002,6 +61807,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -56018,7 +61825,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 226"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "40尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56039,6 +61848,8 @@ var spellsIndex = [
         },
         "source": ["Pirates of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "见文本",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -56063,6 +61874,8 @@ var spellsIndex = [
         ],
         "race": "Erastil",
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -56084,6 +61897,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 226"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -56103,7 +61918,9 @@ var spellsIndex = [
         "source": ["Faiths of Purity pg. 29"],
         "race": "Shelyn",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56119,7 +61936,9 @@ var spellsIndex = [
         },
         "source": ["Familiar Folio pg. 23"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56139,7 +61958,9 @@ var spellsIndex = [
         },
         "source": ["Monster Codex pg. 225"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56158,6 +61979,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -56176,7 +61999,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 63"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56197,7 +62022,10 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["PRPG Core Rulebook pg. 360"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "transmogrify",
@@ -56209,8 +62037,10 @@ var spellsIndex = [
             "summoner (unchained)": 4
         },
         "source": ["Advanced Player's Guide pg. 250"],
-        "castingTime_zh": "1小声",
-        "spellResistance_zh": "不可",
+        "castingTime_zh": "1小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -56231,6 +62061,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 244"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 (最高1轮/5级)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -56249,7 +62081,9 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 22"],
         "castingTime_zh": "8小时",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56260,6 +62094,8 @@ var spellsIndex = [
         "levels": {"druid": 7},
         "source": ["PRPG Core Rulebook pg. 361"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (物体; 见文本)",
         "savingThrow_zh": "无"
     },
@@ -56279,7 +62115,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 361"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -56293,7 +62131,9 @@ var spellsIndex = [
             "investigator": 2
         },
         "source": ["Advanced Player's Guide pg. 250"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮之后1分钟/等级; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "transmute rock to mud",
@@ -56311,7 +62151,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 361"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -56331,6 +62173,8 @@ var spellsIndex = [
         },
         "source": ["Blood of the Night pg. 30"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -56356,7 +62200,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Inner Sea Gods pg. 244"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "永久",
+        "range_zh": "个人"
     },
         {
         "key": "transport via plants",
@@ -56371,7 +62217,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 361"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56389,6 +62237,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 362"],
         "castingTime_zh": "标准动作 或 见文本",
+        "duration_zh": "永久; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "见文本"
     },
@@ -56411,7 +62261,9 @@ var spellsIndex = [
         ],
         "race": "Desna",
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "无限",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56435,6 +62287,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人 和 接触",
         "spellResistance_zh": "否 和 可 (物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (物体)"
     },
@@ -56456,6 +62310,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 250"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "强韧, 通过则无效 (物体); 见文本"
     },
@@ -56471,7 +62327,9 @@ var spellsIndex = [
             "shaman": 2
         },
         "source": ["PRPG Core Rulebook pg. 362"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "tree stride",
@@ -56485,7 +62343,9 @@ var spellsIndex = [
             "ranger": 4
         },
         "source": ["PRPG Core Rulebook pg. 362"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 或 直至离开树木; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "trial by fire",
@@ -56503,6 +62363,8 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 22"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -56530,7 +62392,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Monster Codex pg. 225"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
         {
@@ -56552,6 +62416,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 227"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 直至 触发, 之后 1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信"
     },
@@ -56578,6 +62444,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 197"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1日/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -56598,7 +62466,9 @@ var spellsIndex = [
         },
         "source": ["Faction Guide pg. 62"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效"
     },
         {
@@ -56618,7 +62488,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Temples pg. 33"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "8小时",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56629,7 +62501,9 @@ var spellsIndex = [
         "subSchools": ["creation"],
         "source": ["Pathfinder Campaign Setting pg. 207"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56648,8 +62522,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 251"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则无效"
+        "savingThrow_zh": "意志, 通过则无效",
+        "mythic": true
     },
         {
         "key": "true prognostication",
@@ -56664,7 +62541,9 @@ var spellsIndex = [
             "witch": 8
         },
         "source": ["Ultimate Intrigue pg. 228"],
-        "castingTime_zh": "1星期"
+        "castingTime_zh": "1星期",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "true resurrection",
@@ -56678,6 +62557,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 362"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无, 见文本"
     },
@@ -56711,6 +62592,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 363"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -56732,7 +62615,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Inner Sea Intrigue pg. 63"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "true strike",
@@ -56752,7 +62637,10 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["PRPG Core Rulebook pg. 363"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "truespeak",
@@ -56774,7 +62662,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 89"],
         "race": "aasimar",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "tsunami",
@@ -56792,8 +62682,11 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 251"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "5轮",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "twilight haze",
@@ -56818,7 +62711,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 197"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56839,6 +62734,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 252"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -56852,7 +62749,9 @@ var spellsIndex = [
             "investigator": 6
         },
         "source": ["Advanced Player's Guide pg. 252"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直到被摧毁为止 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "twine double",
@@ -56868,7 +62767,9 @@ var spellsIndex = [
         },
         "source": ["Cheliax, Empire of Devils pg. 23"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -56892,6 +62793,8 @@ var spellsIndex = [
         },
         "source": ["Giant Hunter's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -56909,7 +62812,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Pathfinder Society Field Guide pg. 59"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "twisted space",
@@ -56928,6 +62833,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -56947,6 +62854,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -56973,6 +62882,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57000,6 +62911,8 @@ var spellsIndex = [
         },
         "source": ["Blood of Shadows pg. 16"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -57025,6 +62938,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Melee Tactics Toolbox pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -57052,6 +62967,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 244"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57073,6 +62990,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 197"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人 和 30尺; 见文本",
         "spellResistance_zh": "否 和 可; 见文本",
         "savingThrow_zh": "无 和 反射, 通过则部分生效; 见文本"
     },
@@ -57089,7 +63008,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 244"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -57116,6 +63037,8 @@ var spellsIndex = [
             "Gods and Magic pg. 37"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -57134,6 +63057,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of Legends pg. 14"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57162,6 +63087,8 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 61"
         ],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1周/等级 或 直到消解 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57183,7 +63110,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Ultimate Magic pg. 244"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "undead anatomy ii",
@@ -57201,7 +63130,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Ultimate Magic pg. 244"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "undead anatomy iii",
@@ -57219,7 +63150,9 @@ var spellsIndex = [
             "wizard": 6
         },
         "source": ["Ultimate Magic pg. 245"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "undead anatomy iv",
@@ -57233,7 +63166,9 @@ var spellsIndex = [
             "wizard": 8
         },
         "source": ["Ultimate Magic pg. 245"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消) ; 见文本",
+        "range_zh": "个人"
     },
         {
         "key": "undeath inversion",
@@ -57251,6 +63186,8 @@ var spellsIndex = [
         },
         "source": ["Undead Slayer's Handbook pg. 27"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消); 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57274,7 +63211,9 @@ var spellsIndex = [
         },
         "source": ["Potions and Poisons pg. 18"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57294,6 +63233,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 363"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57314,6 +63255,8 @@ var spellsIndex = [
         },
         "source": ["Dungeons of Golarion pg. 63"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "10尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无 或 抑制, 通过则无效; 见文本"
     },
@@ -57330,6 +63273,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 228"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -57354,6 +63299,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 363"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -57371,7 +63318,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 228"],
         "castingTime_zh": "10分钟; 见文本",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57393,6 +63342,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 179"],
         "race": "undine",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57411,7 +63362,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 228"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57434,6 +63387,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -57448,7 +63403,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 253"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -57469,6 +63426,8 @@ var spellsIndex = [
         },
         "source": ["Disciple's Doctrine pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 或 直到释放; 见文本",
+        "range_zh": "个人",
         "savingThrow_zh": "见文本"
     },
         {
@@ -57487,6 +63446,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 363"],
         "castingTime_zh": "24小时",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "见文本"
     },
@@ -57509,6 +63470,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -57531,6 +63494,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -57546,6 +63511,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 364"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "20尺",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "见文本"
     },
@@ -57563,8 +63530,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 364"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即 (1d4轮); 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "意志, 通过则部分生效"
+        "savingThrow_zh": "意志, 通过则部分生效",
+        "mythic": true
     },
         {
         "key": "unholy ice weapon",
@@ -57585,7 +63555,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Class Guide pg. 198"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57606,6 +63578,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级, 立即, 或 直至能量发散; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效 或 无; 见文本"
     },
@@ -57618,7 +63592,9 @@ var spellsIndex = [
         "levels": {"antipaladin": 4},
         "source": ["Ultimate Magic pg. 245"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57639,6 +63615,8 @@ var spellsIndex = [
         },
         "source": ["Agents of Evil pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "有（无害）",
         "savingThrow_zh": "强韧通过则无效 (无害)"
     },
@@ -57652,7 +63630,9 @@ var spellsIndex = [
             "investigator": 4
         },
         "source": ["Advanced Player's Guide pg. 253"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "unleash pandemonium",
@@ -57670,7 +63650,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #74: Sword of Valor pg. 75"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "专注 (至多1轮/等级)+1轮 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则部分生效; 见文本"
     },
         {
@@ -57692,6 +63674,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
@@ -57713,6 +63697,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 198"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注 + 1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -57728,6 +63714,8 @@ var spellsIndex = [
         },
         "source": ["Curse of the Crimson Throne (PFRPG) pg. 453"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1 round/level (living creature) or instantaneous (undead target); see below",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -57754,6 +63742,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57781,6 +63771,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57800,6 +63792,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 325"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57821,7 +63815,9 @@ var spellsIndex = [
         },
         "source": ["Pirates of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57840,7 +63836,9 @@ var spellsIndex = [
         },
         "source": ["Kobolds of Golarion pg. 27"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57867,7 +63865,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 364"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -57896,6 +63896,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -57916,8 +63918,11 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级; 见文本",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "强韧, 通过则无效; 见文本"
+        "savingThrow_zh": "强韧, 通过则无效; 见文本",
+        "mythic": true
     },
         {
         "key": "unshakable zeal",
@@ -57939,6 +63944,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -57957,7 +63964,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Pathfinder #140: Eulogy for Roslar's Coffer pg. 73"],
-        "castingTime_zh": "1分钟"
+        "castingTime_zh": "1分钟",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "untold wonder",
@@ -57981,6 +63990,8 @@ var spellsIndex = [
         },
         "source": ["Heroes from the Fringe pg. 19"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -58002,6 +64013,8 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 244"],
         "race": "Sarenrae",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58025,6 +64038,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 253"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58043,6 +64058,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 253"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58066,7 +64083,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 49"],
         "race": "half-elf",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "urban step",
@@ -58086,7 +64105,9 @@ var spellsIndex = [
             "wizard": 3
         },
         "source": ["Ultimate Intrigue pg. 228"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮",
+        "range_zh": "中距 (100尺+每等级10尺)"
     },
         {
         "key": "urgathoa's beacon",
@@ -58109,6 +64130,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Haunted Heroes Handbook pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58130,6 +64153,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 246"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58148,6 +64173,8 @@ var spellsIndex = [
         },
         "source": ["Black Markets pg. 27"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可, 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58172,6 +64199,8 @@ var spellsIndex = [
         },
         "source": ["Faiths of Corruption pg. 29"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58188,7 +64217,9 @@ var spellsIndex = [
             "wizard": 5
         },
         "source": ["Advanced Class Guide pg. 198"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "vampiric touch",
@@ -58210,8 +64241,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 364"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即/1小时; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "vanish",
@@ -58233,6 +64267,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 253"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (最多5轮, 可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -58248,6 +64284,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #24: The Final Wish pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -58261,7 +64299,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 89"],
         "race": "aasimar",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人 或 5尺; 见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则减半; 见文本"
     },
         {
@@ -58272,7 +64312,9 @@ var spellsIndex = [
         "descriptors": ["good"],
         "levels": {"paladin": 1},
         "source": ["Advanced Player's Guide pg. 254"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人 或 5尺; 见文本"
     },
         {
         "key": "veil",
@@ -58291,6 +64333,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 364"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58309,6 +64353,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 62"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 直至能量完全发散; 见文本",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -58336,6 +64382,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 246"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58361,7 +64409,9 @@ var spellsIndex = [
         "source": ["Inner Sea Gods pg. 245"],
         "race": "Calistria",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "强韧, 通过则无效"
     },
         {
@@ -58382,6 +64432,8 @@ var spellsIndex = [
         },
         "source": ["Dirty Tactics Toolbox pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "强韧, 通过则无效 (无害)"
     },
@@ -58397,6 +64449,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 254"],
         "castingTime_zh": "迅捷动作",
+        "duration_zh": "立即",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -58419,6 +64473,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Black Markets pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "永久 或 直到触发",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "可"
     },
@@ -58444,7 +64500,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 365"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信 (若有互动)"
     },
         {
@@ -58467,7 +64525,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Pathfinder #74: Sword of Valor pg. 75"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -58494,7 +64554,10 @@ var spellsIndex = [
             "Book of the Damned - Volume 2: Lords of Chaos pg. 48",
             "Inner Sea World Guide pg. 297"
         ],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "vermin shape ii",
@@ -58518,7 +64581,10 @@ var spellsIndex = [
             "Book of the Damned - Volume 2: Lords of Chaos pg. 49",
             "Inner Sea World Guide pg. 297"
         ],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "verminous transformation",
@@ -58533,7 +64599,9 @@ var spellsIndex = [
             "witch": 7
         },
         "source": ["Horror Adventures pg. 130"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "versatile weapon",
@@ -58556,6 +64624,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -58570,7 +64640,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 247"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -58583,7 +64655,9 @@ var spellsIndex = [
             "ranger": 3
         },
         "source": ["Inner Sea Magic pg. 63"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "vexing miscalculation",
@@ -58601,6 +64675,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Gods pg. 245"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 或 直至能量发散",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -58626,6 +64702,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -58651,6 +64729,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志 (无害)"
     },
@@ -58667,6 +64747,8 @@ var spellsIndex = [
         },
         "source": ["Orcs of Golarion pg. 28"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟 或 直至能量发散",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -58692,7 +64774,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 130"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
         {
@@ -58718,7 +64802,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 68"],
         "race": "halfling",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则不相信"
     },
         {
@@ -58745,6 +64831,8 @@ var spellsIndex = [
             "Melee Tactics Toolbox pg. 31"
         ],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射过则无效（见正文）"
     },
@@ -58760,6 +64848,8 @@ var spellsIndex = [
         },
         "source": ["Chronicle of the Righteous pg. 51"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -58779,6 +64869,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 63"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1天 或 直到被释放",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半"
     },
@@ -58794,6 +64886,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -58809,6 +64903,8 @@ var spellsIndex = [
         },
         "source": ["People of the Wastes pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -58823,7 +64919,9 @@ var spellsIndex = [
             "investigator": 4
         },
         "source": ["Ultimate Combat pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "virtue",
@@ -58845,6 +64943,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 365"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "无"
     },
@@ -58858,7 +64958,9 @@ var spellsIndex = [
             "skald": 4
         },
         "source": ["Ultimate Magic pg. 247"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "virulence",
@@ -58874,6 +64976,8 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #81: Shifting Sands pg. 73"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -58893,6 +64997,8 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 69"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "见文本",
         "savingThrow_zh": "强韧, 通过则无效; 见文本"
     },
@@ -58928,7 +65034,9 @@ var spellsIndex = [
             "Book of the Damned - Volume 1: Princes of Darkness pg. 47"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效"
     },
         {
@@ -58954,6 +65062,8 @@ var spellsIndex = [
             "Pathfinder #5: Sins of the Saviors pg. 71"
         ],
         "castingTime_zh": "10分钟; 见文本",
+        "duration_zh": "立即",
+        "range_zh": "无限",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效; 见文本"
     },
@@ -58971,7 +65081,9 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["PRPG Core Rulebook pg. 365"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "个人"
     },
         {
         "key": "visualization of the body",
@@ -58990,7 +65102,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Divine Anthology pg. 13"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "visualization of the mind",
@@ -59006,7 +65120,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Divine Anthology pg. 14"],
-        "castingTime_zh": "1小声"
+        "castingTime_zh": "1小时",
+        "duration_zh": "24小时, 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "vitriolic mist",
@@ -59025,7 +65141,9 @@ var spellsIndex = [
             "wizard": 4
         },
         "source": ["Ultimate Magic pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "vocal alteration",
@@ -59050,6 +65168,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -59070,6 +65190,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -59100,6 +65222,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "8小时 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59115,7 +65239,9 @@ var spellsIndex = [
             "witch": 2
         },
         "source": ["Advanced Player's Guide pg. 254"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "vomit twin",
@@ -59140,7 +65266,10 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 119"],
         "race": "goblin",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "vortex",
@@ -59157,6 +65286,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
@@ -59182,6 +65313,8 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 14"],
         "race": "Gathlain",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -59205,6 +65338,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 365"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -59217,6 +65352,8 @@ var spellsIndex = [
         "levels": {"paladin": 2},
         "source": ["Advanced Player's Guide pg. 254"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "120尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -59235,7 +65372,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 188"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮 加 1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -59256,7 +65395,10 @@ var spellsIndex = [
             "wizard": 7
         },
         "source": ["Ultimate Combat pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "mythic": true
     },
         {
         "key": "wall of blindness-deafness",
@@ -59277,6 +65419,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 198"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -59299,6 +65443,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 13"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可; 见文本",
         "savingThrow_zh": "无"
     },
@@ -59322,6 +65468,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Merfolk",
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无, 见文本"
     },
@@ -59341,6 +65489,8 @@ var spellsIndex = [
         },
         "source": ["Heroes of the Streets pg. 23"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "反射, 通过则减半 或 反射, 通过则无效; 见文本"
     },
@@ -59361,6 +65511,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 190"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无 和 意志, 通过则无效; 见文本"
     },
@@ -59386,8 +65538,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 365"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无"
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "wall of force",
@@ -59405,8 +65560,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 365"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "wall of ice",
@@ -59426,8 +65584,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 366"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则无效"
+        "savingThrow_zh": "反射, 通过则无效",
+        "mythic": true
     },
         {
         "key": "wall of iron",
@@ -59446,8 +65607,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 367"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "wall of lava",
@@ -59468,7 +65632,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 255"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -59485,6 +65651,8 @@ var spellsIndex = [
         },
         "source": ["The Dragon's Demand pg. 24"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
     },
@@ -59504,7 +65672,9 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 18"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59525,7 +65695,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 199"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -59547,6 +65719,8 @@ var spellsIndex = [
         },
         "source": ["Adventurer's Guide pg. 177"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "见文本"
     },
@@ -59569,6 +65743,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 248"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "专注+1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -59598,7 +65774,9 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Blood of Shadows pg. 29"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59626,8 +65804,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 367"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "见文本"
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "见文本",
+        "mythic": true
     },
         {
         "key": "wall of suppression",
@@ -59642,7 +65823,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 255"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级; 见文本",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59658,8 +65841,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 367"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "无"
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "无",
+        "mythic": true
     },
         {
         "key": "wandering star motes",
@@ -59686,6 +65872,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 255"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -59700,7 +65888,9 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Intrigue pg. 63"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级 (可解消)",
+        "range_zh": "每等级1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59720,7 +65910,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 237"],
         "castingTime_zh": "10分钟; 见文本",
-        "spellResistance_zh": "不可",
+        "duration_zh": "4d12小时; 见文本",
+        "range_zh": "2里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59741,7 +65933,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 29"],
         "race": "elf",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -59761,6 +65955,8 @@ var spellsIndex = [
         },
         "source": ["Knights of the Inner Sea pg. 29"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59772,7 +65968,9 @@ var spellsIndex = [
         "levels": {"inquisitor": 3},
         "source": ["Advanced Player's Guide pg. 256"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
         {
@@ -59792,7 +65990,9 @@ var spellsIndex = [
             "wizard": 2
         },
         "source": ["Ultimate Combat pg. 248"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "warp metal",
@@ -59816,6 +66016,8 @@ var spellsIndex = [
         },
         "source": ["Magic Tactics Toolbox pg. 6"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -59832,6 +66034,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -59855,6 +66059,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 248"],
         "castingTime_zh": "1分钟",
+        "duration_zh": "1小时/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -59876,7 +66082,9 @@ var spellsIndex = [
         },
         "source": ["Spymaster's Handbook pg. 22"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -59893,6 +66101,8 @@ var spellsIndex = [
         "source": ["Dwarves of Golarion pg. 23"],
         "race": "Folgrit",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59922,6 +66132,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "2小时/等级; 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59946,7 +66158,9 @@ var spellsIndex = [
         },
         "descriptorsOperator": ",",
         "source": ["Pathfinder #24: The Final Wish pg. 61"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "water walk, communal",
@@ -59964,6 +66178,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -59986,6 +66202,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -60016,6 +66234,8 @@ var spellsIndex = [
         },
         "source": ["Elemental Master's Handbook pg. 14"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -60044,8 +66264,11 @@ var spellsIndex = [
             "Pathfinder Comics #5 pg. 28"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "强韧, 通过则部分生效; 见文本"
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "强韧, 通过则部分生效; 见文本",
+        "mythic": true
     },
         {
         "key": "wave form",
@@ -60067,6 +66290,8 @@ var spellsIndex = [
         },
         "source": ["Aquatic Adventures pg. 61"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "个人",
         "savingThrow_zh": "见文本"
     },
         {
@@ -60087,7 +66312,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Advanced Class Guide pg. 199"],
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮 或 直至能量发散",
+        "range_zh": "个人"
     },
         {
         "key": "waves of blood",
@@ -60107,7 +66334,9 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 130"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "立即 以及 1轮; 见文本",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 强韧, 通过则无效; 见文本"
     },
         {
@@ -60135,6 +66364,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Ultimate Magic pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级; 见文本",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则部分; 见文本"
     },
@@ -60153,6 +66384,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "60尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60172,6 +66405,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "30尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60191,6 +66426,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -60210,6 +66447,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Player's Guide pg. 256"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -60231,6 +66470,8 @@ var spellsIndex = [
         ],
         "race": "Iomedae",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "强韧, 通过则无效 (无害, 物体)"
     },
@@ -60250,6 +66491,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 63"],
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -60270,7 +66513,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 107"],
         "race": "drow",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则无效; 见文本"
     },
         {
@@ -60288,7 +66533,9 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 107"],
         "race": "drow",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "反射, 通过则部分生效; 见文本"
     },
         {
@@ -60314,7 +66561,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 249"],
         "castingTime_zh": "1分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "近距 (25尺+每2等级5尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60333,8 +66582,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 368"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
-        "savingThrow_zh": "反射, 通过则无效"
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
+        "savingThrow_zh": "反射, 通过则无效",
+        "mythic": true
     },
         {
         "key": "weird",
@@ -60356,6 +66608,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 369"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则不相信; 之后强韧, 通过则部分生效; 见文本"
     },
@@ -60382,7 +66636,9 @@ var spellsIndex = [
         "source": ["Pathfinder #113: What Grows Within pg. 66"],
         "race": "Xhamen-Dor",
         "castingTime_zh": "迅捷动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "见文本"
     },
         {
@@ -60405,6 +66661,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 199"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消; 见文本)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60428,6 +66686,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 199"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消; 见文本)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60451,6 +66711,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Guide pg. 199"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消; 见文本)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60466,8 +66728,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 369"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "反射, 通过则无效"
+        "savingThrow_zh": "反射, 通过则无效",
+        "mythic": true
     },
         {
         "key": "whispering lore",
@@ -60487,7 +66752,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 29"],
         "race": "elf",
-        "castingTime_zh": "整轮动作"
+        "castingTime_zh": "整轮动作",
+        "duration_zh": "10分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "whispering wind",
@@ -60509,7 +66776,9 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 369"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "不超过1小时/等级 或 者直至能量发散 (持续时间结束)",
+        "range_zh": "每等级1里",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60527,7 +66796,9 @@ var spellsIndex = [
         },
         "source": ["Villain Codex pg. 177"],
         "castingTime_zh": "10分钟; 见文本",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "接触",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60540,7 +66811,9 @@ var spellsIndex = [
             "paladin": 2
         },
         "source": ["Advanced Class Guide pg. 199"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "wild instinct",
@@ -60555,7 +66828,9 @@ var spellsIndex = [
             "shaman": 2
         },
         "source": ["Heroes of the Wild pg. 31"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "8小时",
+        "range_zh": "个人"
     },
         {
         "key": "wilderness soldiers",
@@ -60569,7 +66844,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 249"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "30尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60590,6 +66867,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -60610,6 +66889,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 369"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级 (可解消); 见文本",
+        "range_zh": "接触",
         "spellResistance_zh": "否 和 可 (无害)",
         "savingThrow_zh": "无 和 意志, 通过则无效 (无害)"
     },
@@ -60639,6 +66920,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 370"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60658,7 +66941,9 @@ var spellsIndex = [
             "wizard": 9
         },
         "source": ["Advanced Player's Guide pg. 256"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "个人"
     },
         {
         "key": "windy escape",
@@ -60680,7 +66965,9 @@ var spellsIndex = [
         },
         "source": ["Advanced Race Guide pg. 160"],
         "race": "sylph",
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "个人"
     },
         {
         "key": "wing bounty",
@@ -60696,7 +66983,9 @@ var spellsIndex = [
         "source": ["Ultimate Wilderness pg. 14"],
         "race": "Gathlain",
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1天/等级",
+        "range_zh": "0尺",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60718,7 +67007,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 14"],
         "race": "Gathlain",
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人"
     },
         {
         "key": "winged sword",
@@ -60737,6 +67028,8 @@ var spellsIndex = [
         },
         "source": ["Arcane Anthology pg. 10"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "10分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害, 物体)",
         "savingThrow_zh": "意志, 通过则无效 (无害, 物体)"
     },
@@ -60761,6 +67054,8 @@ var spellsIndex = [
         "source": ["Advanced Race Guide pg. 167"],
         "race": "tengu",
         "castingTime_zh": "标准动作",
+        "duration_zh": "24小时",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -60786,7 +67081,9 @@ var spellsIndex = [
             "People of the North pg. 26"
         ],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮/等级",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60802,8 +67099,11 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 370"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "见文本",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无, 见文本"
+        "savingThrow_zh": "无, 见文本",
+        "mythic": true
     },
         {
         "key": "with the wind",
@@ -60825,6 +67125,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 237"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -60841,6 +67143,8 @@ var spellsIndex = [
         },
         "source": ["Occult Adventures pg. 191"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -60863,6 +67167,8 @@ var spellsIndex = [
         },
         "source": ["Horror Adventures pg. 131"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -60884,6 +67190,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级 (可解消)",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -60909,6 +67217,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Intrigue pg. 229"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -60925,6 +67235,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 370"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志, 通过则无效 (物体)"
     },
@@ -60943,7 +67255,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Magic pg. 249"],
         "castingTime_zh": "标准动作",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "中距 (100尺+每等级10尺)",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -60961,7 +67275,9 @@ var spellsIndex = [
         },
         "source": ["Ultimate Wilderness pg. 14"],
         "race": "Gathlain",
-        "castingTime_zh": "直觉动作"
+        "castingTime_zh": "直觉动作",
+        "duration_zh": "1轮/等级 或 直到你移动",
+        "range_zh": "个人"
     },
         {
         "key": "woodland rune",
@@ -60977,6 +67293,8 @@ var spellsIndex = [
         },
         "source": ["Wilderness Origins pg. 13"],
         "castingTime_zh": "10分钟",
+        "duration_zh": "永久, 直至能量发散 (可解消)",
+        "range_zh": "0尺",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则无效"
     },
@@ -60993,7 +67311,9 @@ var spellsIndex = [
         },
         "source": ["Pathfinder #131: The Reaper's Right Hand pg. 72"],
         "castingTime_zh": "10分钟",
-        "spellResistance_zh": "不可",
+        "duration_zh": "1轮; 见文本",
+        "range_zh": "见文本",
+        "spellResistance_zh": "否",
         "savingThrow_zh": "无"
     },
         {
@@ -61013,8 +67333,11 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["PRPG Core Rulebook pg. 371"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "40尺",
         "spellResistance_zh": "可",
-        "savingThrow_zh": "无 或 意志, 通过则无效, 见文本"
+        "savingThrow_zh": "无 或 意志, 通过则无效, 见文本",
+        "mythic": true
     },
         {
         "key": "word of recall",
@@ -61031,6 +67354,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 371"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "无限",
         "spellResistance_zh": "否 或 可 (无害, 物体)",
         "savingThrow_zh": "无 或 意志, 通过则无效 (无害, 物体)"
     },
@@ -61042,6 +67367,8 @@ var spellsIndex = [
         "levels": {"paladin": 1},
         "source": ["Ultimate Magic pg. 249"],
         "castingTime_zh": "直觉动作",
+        "duration_zh": "立即",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -61063,6 +67390,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 256"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级 或 1小时/等级; 见文本 (可解消)",
+        "range_zh": "见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "无"
     },
@@ -61084,6 +67413,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Champions of Corruption pg. 25"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "立即",
+        "range_zh": "中距 (100尺+每等级10尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "强韧, 通过则减半; 见文本"
     },
@@ -61100,7 +67431,9 @@ var spellsIndex = [
         "levels": {"inquisitor": 1},
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 257"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟",
+        "range_zh": "个人"
     },
         {
         "key": "wrathful mantle",
@@ -61120,6 +67453,8 @@ var spellsIndex = [
         "descriptorsOperator": ",",
         "source": ["Advanced Player's Guide pg. 257"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触 或 5尺; 见文本",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -61136,6 +67471,8 @@ var spellsIndex = [
         },
         "source": ["Advanced Class Origins pg. 31"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "接触",
         "spellResistance_zh": "可 (物体)",
         "savingThrow_zh": "意志 (无害, 物体)"
     },
@@ -61158,6 +67495,8 @@ var spellsIndex = [
         },
         "source": ["Ultimate Combat pg. 249"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1轮/等级",
+        "range_zh": "个人",
         "spellResistance_zh": "否 (特殊, 见文本)",
         "savingThrow_zh": "反射, 通过则减半 (特殊, 见文本)"
     },
@@ -61180,6 +67519,8 @@ var spellsIndex = [
         "source": ["Pathfinder #110: The Thrushmoor Terror pg. 72"],
         "race": "Hastur",
         "castingTime_zh": "10分钟",
+        "duration_zh": "见文本",
+        "range_zh": "0尺; 见文本",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -61204,7 +67545,9 @@ var spellsIndex = [
             "wizard": 1
         },
         "source": ["Ultimate Magic pg. 249"],
-        "castingTime_zh": "标准动作"
+        "castingTime_zh": "标准动作",
+        "duration_zh": "1小时/等级",
+        "range_zh": "接触"
     },
         {
         "key": "zephyr's fleetness",
@@ -61219,6 +67562,8 @@ var spellsIndex = [
         "source": ["Inner Sea Races pg. 223"],
         "race": "Keleshite",
         "castingTime_zh": "1轮",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "远距 (400尺+每等级40尺)",
         "spellResistance_zh": "可 (无害)",
         "savingThrow_zh": "意志, 通过则无效 (无害)"
     },
@@ -61233,6 +67578,8 @@ var spellsIndex = [
         },
         "source": ["Inner Sea Magic pg. 63"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     },
@@ -61248,7 +67595,9 @@ var spellsIndex = [
             "skald": 4
         },
         "source": ["PRPG Core Rulebook pg. 371"],
-        "castingTime_zh": "1轮"
+        "castingTime_zh": "1轮",
+        "duration_zh": "1小时/等级 (可解消)",
+        "range_zh": "个人"
     },
         {
         "key": "zone of truth",
@@ -61269,6 +67618,8 @@ var spellsIndex = [
         },
         "source": ["PRPG Core Rulebook pg. 371"],
         "castingTime_zh": "标准动作",
+        "duration_zh": "1分钟/等级",
+        "range_zh": "近距 (25尺+每2等级5尺)",
         "spellResistance_zh": "可",
         "savingThrow_zh": "意志, 通过则无效"
     }
