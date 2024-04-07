@@ -10,5 +10,9 @@
     "text": "You use your gauntlet to shield you from harm.",
     "prerequisites": "Weapon Focus (gauntlet or spiked gauntlet), proficiency with bucklers and light shields.",
     "benefit": "When using this style, if you begin your turn wearing a gauntlet or spiked gauntlet on your off hand, and you are not using that hand to hold or make attacks with any other weapons or shield, you gain a +1 shield bonus to AC. You lose this shield bonus whenever you attack with your gauntlet or hold a weapon or shield in that hand. While receiving this shield bonus to AC, your gauntlet or spiked gauntlet is treated as a buckler for the purpose of using other feats and abilities (though you are also considered to have a free hand). This feat acts as the Improved Unarmed Strike feat for the purpose of satisfying the prerequisites of the Deflect Arrows and Snatch Arrows feats.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "铁手流",
+    "text_zh": "你能使用你的铁手套来防止自己受到伤害。",
+    "prerequisites_zh": "武器专攻(铁手套或带刺铁手套)，擅长小圆盾和轻盾。",
+    "benefit_zh": "开启此流派后，如果在你的回合开始时，你副手穿着铁手套，且没有持有或使用武器和盾牌，那你获得+1盾牌AC。无论何时，只要你使用铁手套攻击，或者用该手持有或使用武器和盾牌，你会失去该AC加值。在你获得该盾牌AC时，将你的铁手套(或带刺铁手套)视作小圆盾来使用其他专长和能力(不过你仍然被视为有一只自由手 free hand)。在满足拨挡飞箭和抓取飞箭专长的前置条件时，本专长视为精通徒手打击专长。"
 }

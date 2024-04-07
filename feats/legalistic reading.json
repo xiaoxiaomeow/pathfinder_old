@@ -6,5 +6,9 @@
     "text": "Your ability to find loopholes in technical, legalistic writing extends even to magical writing on scrolls.",
     "prerequisites": "Scribe Scroll, Linguistics 3 ranks.",
     "benefit": "Any Wisdom check you attempt to avoid a mishap when casting a spell from a scroll fails only on a natural 1. When you cast a spell from a scroll, you can attempt a caster level check with a DC equal to 25 + the scroll’s caster level as a free action. If you succeed, the magical writing does not vanish for 1 round; if the spell’s casting time is no longer than a standard action, the scroll can be used again in the following round before its writing fades. You can’t use this feat on a scroll a second time, and you can’t use this feat if the spell on the scroll requires a material component worth more than 10 gp.",
-    "prerequisiteKeys": ["scribe scroll"]
+    "prerequisiteKeys": ["scribe scroll"],
+    "name_zh": "循规阅读",
+    "text_zh": "你能在技术性、循规蹈矩的抄写中，乃至抄写具有法力的卷轴时找到其中的漏洞。",
+    "prerequisites_zh": "抄写卷轴，语言学3级。",
+    "benefit_zh": "你在任何试图避免卷轴施法失败的检定中，只在骰出自然1时失败。当你从卷轴中施法一个法术时，你可以尝试以一个自由动作做出一个DC = 25 +卷轴的施法等级的施法等级检定。如果你成功了，卷轴上的法术在1轮内不会消失；如果法术的施法时间不超过一个标准动作，你可以在接下来的一轮字迹消失前再次使用该卷轴。你不能对同一卷轴使用这一专长超过一次，如果卷轴上法术需要的材料成分价值超过10GP你不能使用该专长。"
 }

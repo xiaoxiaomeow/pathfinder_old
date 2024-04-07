@@ -10,5 +10,9 @@
     "text": "You emphasize and exploit the potential of the special material from which your shield is made.",
     "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th.",
     "benefit": "When wielding a shield made of one of the materials listed below, you can use the listed ability twice per day.<br><br><i>Darkwood<\/i>: As a free action as part of an attack with your shield, you can drive splinters of your shield into your opponent, dealing an amount of bleed damage equal to 1 + the shield’s enhancement bonus.<br><br><I>Dragonhide<\/i>: As an immediate action when you take energy damage of the type to which the dragonhide shield is immune, you can reduce the amount of damage you take by 10 hit points.<br><br><I>Living Steel<\/i>: As a free action as part of an attack with your shield, you can attempt a sunder combat maneuver check against a metal weapon wielded by your target. If you succeed at the attempt, the weapon gains the broken condition; if the weapon already has the broken condition, it is destroyed.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "盾牌材料专家",
+    "text_zh": "你注意并开发了制造你的盾牌的特殊材料的潜力。",
+    "prerequisites_zh": "盾牌专攻，BAB+6或者战士4级。",
+    "benefit_zh": "在持用由以下一种材料制成的盾牌时，你能每天两次使用列表中的能力。<\/p><p><b>黑木<\/b>：盾击时以自由动作将盾牌的毛刺扎入敌人体内，造成等同于1+盾牌增强加值的出血伤害。<\/p><p><b>龙革<\/b>：当受到你的龙革盾牌免疫的能量类型的伤害时，以直觉动作你能减少10点你受到的伤害。<\/p><p><b>活钢<\/b>：盾击时以自由动作对目标握持的一件金属武器尝试破武战技。如果你尝试成功，目标武器进入破损状态；如果该武器已经破损，则它会毁坏。"
 }

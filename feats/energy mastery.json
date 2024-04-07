@@ -6,5 +6,9 @@
     "source": ["Weapon Master's Handbook pg. 26"],
     "text": "You can project energy from evocation magic items.",
     "prerequisites": "Use Magic Device 1 rank, base Fortitude save bonus +4.",
-    "benefit": "You can cause an item that has a 1st level or higher evocation spell with the acid, cold, electricity, or fire descriptor in its construction requirements to cast <i>burning hands<\/i>. The spell has the energy descriptor from the appropriate requirement spell and deals that type of damage instead of fire damage. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12.<br><br> You can spend two daily uses of this feat to cast <i>lightning bolt<\/i> this way if the spell listed in the item’s construction requirements is at least 3rd level (still dealing a type of energy damage appropriate to that spell)."
+    "benefit": "You can cause an item that has a 1st level or higher evocation spell with the acid, cold, electricity, or fire descriptor in its construction requirements to cast <i>burning hands<\/i>. The spell has the energy descriptor from the appropriate requirement spell and deals that type of damage instead of fire damage. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +6, +8, +10, and +12.<br><br> You can spend two daily uses of this feat to cast <i>lightning bolt<\/i> this way if the spell listed in the item’s construction requirements is at least 3rd level (still dealing a type of energy damage appropriate to that spell).",
+    "name_zh": "能量掌握",
+    "text_zh": "你引导塑能系物品的魔法力量，以奔流的元素吞噬敌人。",
+    "prerequisites_zh": "使用魔法装置技能1级，基础强韧豁免加值+4。",
+    "benefit_zh": "你可以引导一件制造时需求使用塑能系法术，带有火焰，寒冷，强酸或电击描述符，且该法术至少为一环的魔法物品中的能量，施放一次法术燃烧之手（Burning Hand）。这个法术效果具有你所使用的魔法物品制造所需法术的对应描述符，且造成与该描述符对应的能量伤害。你每天可以使用本类法术能力一次，在基础强韧豁免加值达到+6，+8，+10和+12时可以获得额外一次每日使用次数。<\/p><p>除此之外，你也可以选择消耗两次本专长的每日使用次数，施放一个法术闪电束（Lightning Bolt）。这件魔法物品的制造所需法术等级至少需要为三环（仍然造成对应描述符的能量伤害）。"
 }

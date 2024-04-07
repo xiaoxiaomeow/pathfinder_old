@@ -11,5 +11,9 @@
         "mobile bulwark style",
         "shield focus",
         "tower shield proficiency"
-    ]
+    ],
+    "name_zh": "铁壁·坚",
+    "text_zh": "你可以随时使用塔盾保护自己或盟友。",
+    "prerequisites_zh": "力量15，铁壁流，盾牌专攻，擅长塔盾，BAB+4。",
+    "benefit_zh": "当你持用一面塔盾时，将一半的盾牌AC加值(包括增强加值)加到你的接触AC上，并且由塔盾造成的对攻击检定的减值仅为-1。开启铁壁流后，每当你使用塔盾制造全掩蔽效果时，对于越过你选取的那条边到来的攻击，你所有邻接盟友均视为有全掩蔽。"
 }

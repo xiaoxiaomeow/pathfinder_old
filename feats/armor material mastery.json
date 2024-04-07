@@ -12,5 +12,10 @@
     "benefit": "You can use the ability granted by Armor Material Expertise two additional times per day.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points to use an armor material ability without it counting against your daily limit. (See page 16.)",
-    "prerequisiteKeys": ["armor material expertise"]
+    "prerequisiteKeys": ["armor material expertise"],
+    "name_zh": "盔甲材料大师",
+    "text_zh": "你引出你盔甲特殊材料几乎全部的潜力。",
+    "prerequisites_zh": "盔甲材料专家，基本攻击加值+11或者战士8级，盔甲训练职业特性。",
+    "benefit_zh": "你每天可以使用盔甲材料专家赋予的能力额外两次。",
+    "staminaText_zh": "你可以使用5点耐力来在不消耗每日盔甲材料能力使用次数的情况下使用它。"
 }

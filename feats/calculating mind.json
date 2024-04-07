@@ -6,5 +6,9 @@
     "text": "You see potential in the world around you that nobody else notices. Your numerological abilities are heightened by this uncommon aptitude.",
     "prerequisites": "Sacred Geometry, Knowledge (engineering) 5 ranks.",
     "benefit": "Anytime you use the Sacred Geometry feat, you can use d8s instead of d6s when rolling your dice pool. You can use any combination of d6s and d8s that you wish, as long as the number of dice does not exceed the number of ranks you possess in Knowledge (engineering).",
-    "prerequisiteKeys": ["sacred geometry"]
+    "prerequisiteKeys": ["sacred geometry"],
+    "name_zh": "算术思维",
+    "text_zh": "你可以看到其他人都无法注意到的世界潜质。你的数字占卜能力通过这种特殊的资质得到提高。",
+    "prerequisites_zh": "神圣几何学，知识（工程学）5级。",
+    "benefit_zh": "任何时候你使用神圣几何学专长，你可以使用d8骰代替d6骰构造你的骰池。你可以使用d8和d6骰的任意组合，只要骰子的总数不超过你的知识（工程学）的等级。"
 }

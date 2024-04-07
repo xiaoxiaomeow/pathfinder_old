@@ -11,5 +11,10 @@
     "prerequisites": "Weapon Focus with the chosen melee weapon; base attack bonus +1 or monk level 1st.",
     "benefit": "Choose one weapon from the monk fighter weapon group. While using this style and wielding the chosen weapon, you can apply the effects of feats that have Improved Unarmed Strike as a prerequisite, as well as effects that augment an unarmed strike, as if attacks with the weapon were unarmed attacks.",
     "special": "A 5th-level monk or character with the weapon training (monk) class feature can use Ascetic Style with any monk weapon, in addition to the chosen melee weapon.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "无极式",
+    "text_zh": "你将刀剑与体术技法融合并蓄，如臂使指般使用你的武器。",
+    "prerequisites_zh": "对所选武器拥有武器专攻专长，基础攻击加值+1或武僧等级+1。",
+    "benefit_zh": "从武僧武器组里选择一件武器。当你开启此流派架势并持用该武器时，你可以适用需要精通徒手击打为先决条件的专长效果和增强徒手攻击的效果，好像此武器的攻击为徒手攻击一般。",
+    "special_zh": "一个5级武僧或拥有武器训练（武僧武器）职业能力的角色可以使用任何武僧武器而非仅限于他所选的单件武器来获得此流派的好处。"
 }

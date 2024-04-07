@@ -6,5 +6,9 @@
     "source": ["Weapon Master's Handbook pg. 26"],
     "text": "You can coax curses from necromantic magic items.",
     "prerequisites": "Use Magic Device 3 ranks, base Fortitude save bonus +6.",
-    "benefit": "You can cause an item that has a necromancy spell of 3rd level or higher in its construction requirements to cast <i>bestow curse<\/i>. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12."
+    "benefit": "You can cause an item that has a necromancy spell of 3rd level or higher in its construction requirements to cast <i>bestow curse<\/i>. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.",
+    "name_zh": "诅咒掌握",
+    "text_zh": "你引导死灵系物品的魔法力量，对敌人施加恶毒的诅咒。",
+    "prerequisites_zh": "使用魔法装置技能3级，基础强韧豁免加值+6。",
+    "benefit_zh": "你可以引导一件制造时需求使用死灵系法术，且该法术至少为三环的魔法物品中的能量，施放一次法术降咒（Bestow Curse）。你每天可以使用本类法术能力一次，在基础强韧豁免加值达到+9和+12时可以获得额外一次每日使用次数。"
 }

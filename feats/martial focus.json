@@ -7,5 +7,10 @@
     "text": "You have honed your skills with a group of related weapons.",
     "prerequisites": "Base attack bonus +5.",
     "benefit": "Choose one fighter weapon group. While wielding a weapon from this group with which you are proficient, you gain a +1 bonus on damage rolls.",
-    "special": "The Martial Focus feat counts as the weapon training class feature with the chosen fighter weapon group for the purpose of weapon mastery feat prerequisites and what weapons you can use with weapon mastery feats."
+    "special": "The Martial Focus feat counts as the weapon training class feature with the chosen fighter weapon group for the purpose of weapon mastery feat prerequisites and what weapons you can use with weapon mastery feats.",
+    "name_zh": "武器专家",
+    "text_zh": "你熟练地掌握了一些武器的用法。",
+    "prerequisites_zh": "BAB+5。",
+    "benefit_zh": "选择一个战士武器组（Fighter Weapon Group），你在持用该武器组中你擅长的武器时，在伤害检定上获得+1加值。",
+    "special_zh": "本专长可以在你选择需要战士武器训练职业能力作为先决条件的武器掌握专长，以及决定该武器掌握专长影响的武器类型时视为你拥有对所选武器组的武器训练职业能力。"
 }

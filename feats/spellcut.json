@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "cut from the air",
         "power attack"
-    ]
+    ],
+    "name_zh": "法切",
+    "text_zh": "你可以以武器一击阻碍法术的流动。",
+    "prerequisites_zh": "力量13，猛力攻击，矢切，BAB+9，对所选近战武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "每轮一次，若仅有你一人受到非近战攻击或是需要反射豁免的法术、类法术能力、超自然能力影响时，使用你的基础攻击加值来取代全部豁免加值进行这次豁免检定。"
 }

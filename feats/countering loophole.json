@@ -7,5 +7,9 @@
     "prerequisites": "Improved Counterspell.",
     "benefit": "When you successfully counter a charm or compulsion spell, you immediately redirect the spell against the caster as though you were the caster of the spell and the caster were the target (as long as you can cast a spell of that level). Even if the spell originally targeted multiple creatures, the caster becomes the sole target of the redirected spell. The spell’s save DC remains the same, but you make any decisions about the effects of the spell (revising a <i>suggestion<\/i> or the conditions of a <i>lesser geas<\/i>, for example).",
     "normal": "If you successfully counter a spell, both spells automatically negate each other with no other results.",
-    "prerequisiteKeys": ["improved counterspell"]
+    "prerequisiteKeys": ["improved counterspell"],
+    "name_zh": "乘间伺隙",
+    "text_zh": "你可以发现法术中的漏洞，摆脱法术的效果，并反制施法者。",
+    "prerequisites_zh": "精通法术反制。",
+    "benefit_zh": "当你成功地反制一个魅惑系或胁迫系法术，你立即将该法术反转给施法者如同你是法术的施法者，而原施法者成为目标（只要你可以施展该施法等级的法术）。即使法术最初的目标是复数个生物，反转的法术的原施法者成为唯一的目标。法术的豁免DC仍然相同，但是你可以做任何影响法术的决定（例如修改一项建议或次等指使术的条件）。<\/p><p>正常情况：如果你成功反制法术，法术互相否定对应法术，不产生其他的效果。"
 }

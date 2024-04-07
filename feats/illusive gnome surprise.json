@@ -12,5 +12,9 @@
         "gnome weapon focus",
         "illusive gnome style",
         "improved feint"
-    ]
+    ],
+    "name_zh": "侏儒幻影奇袭",
+    "text_zh": "你能够以不同寻常的方式使用侏儒武器。",
+    "prerequisites_zh": "智力13，寓守于攻，侏儒武器专攻，侏儒幻影武技，精通虚招。",
+    "benefit_zh": "当你使用侏儒幻影武技时，执行阴招APG（dirty tricks）战技的战技检定以及执行虚招的唬骗检定均会获得+2加值。此外，当你成功使用唬骗对一名敌人进行虚招时，可以选择不让该名敌人失去AC上的敏捷加值，取而代之的是让你正在持用的一把“侏儒（gnome）”武器视为拥有后述武器特殊能力中的一种：格挡UC（Blocking）、反冲锋（Brace）、虚实UC（Distracting）、演武UC（Performance）、破武*（sunder）或摔绊（trip）。该效果仅能用于对抗该名敌人，持续轮数等同于你的魅力调整值（最低1轮）。<\/p><p>译注：武器特性中有卸武（Disarm），但是没有破武（sunder），此处怀疑作者笔误。"
 }

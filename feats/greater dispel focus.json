@@ -6,5 +6,9 @@
     "text": "You are a master of the art of dispelling.",
     "prerequisites": "Dispel Focus, ability to cast <i>dispel magic<\/i>.",
     "benefit": "Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus to the check. This stacks with the bonus from Dispel Focus.",
-    "prerequisiteKeys": ["dispel focus"]
+    "prerequisiteKeys": ["dispel focus"],
+    "name_zh": "高等解法专攻",
+    "text_zh": "你成为了解法技艺的大师。",
+    "prerequisites_zh": "解法专攻，能够施放解除魔法法术。",
+    "benefit_zh": "每当你尝试一次基于施法者等级的解除检定时，你在这次检定中获得+2加值。此加值与解法专攻专长带来的加值叠加。"
 }

@@ -9,5 +9,9 @@
     "text": "Your skill with handling a deck and your arcane talents allow you to turn mundane cards into weapons.",
     "prerequisites": "Arcane Strike, Sleight of Hand 5 ranks.",
     "benefit": "You can throw a card as though it were a dart, with the same damage, range, and other features. You must use the Arcane Strike feat when throwing a card in this way, or else the card lacks the magical force and precision to deal lethal damage. A card is destroyed when thrown in this way.<br><br> Harrow cards are treated as masterwork weapons when thrown using this feat, but are still destroyed after they are thrown. A harrow deck can no longer be used as a fortune-telling device after even a single card is thrown.<br><br> A spellcaster with this feat can enhance a deck of cards as though it were a ranged weapon with 54 pieces of ammunition. This enhancement functions only when used in tandem with this feat, and has no affect on any other way the cards might be used. Only a character who possesses this feat can use an enhanced deck of cards; she must still use the Arcane Strike feat to activate the cards’ enhancement.",
-    "prerequisiteKeys": ["arcane strike"]
+    "prerequisiteKeys": ["arcane strike"],
+    "name_zh": "致命发牌",
+    "text_zh": "你发牌的技巧和奥术天赋让你把普通的卡片变成致命武器。",
+    "prerequisites_zh": "奥术打击，巧手5级。",
+    "benefit_zh": "你可以把卡片当作飞镖来投掷，在考虑伤害、射程和其他特性时，将卡片视做飞镖。你必须使用奥术打击专长才能用这种方式投掷卡片，否则缺乏魔法力量和精度的卡片只会造成非致命伤害。把卡片当飞镖射出去会彻底毁掉卡片。<\/p><p>使用此专长发射哈罗牌时，哈罗牌被视为精致品武器，不过射出去之后仍然会损毁，只要一套牌里面有一张被拿去发射，这套哈罗牌就没办法再作为占卜工具使用了。<\/p><p>一个有此专长的奥术施法者可以把卡牌视为有54发弹药的远程武器赋予增强加值。增强加值只有在用致命发牌投掷卡片的时候才会有用，用其他的方式使用卡片时，赋予的增强加值不会有任何效果。只有拥有此专长的角色才能使用这些增强过的牌，而且仍须使用奥术打击专长来活化这些牌。"
 }

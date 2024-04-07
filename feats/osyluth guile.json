@@ -7,5 +7,9 @@
     "text": "You are skilled at misdirecting an opponent’s attacks.",
     "prerequisites": "Bluff 8 ranks, Dodge.",
     "benefit": "While you are fighting defensively or using the total defense action, select one opponent. Add your Charisma bonus to your AC as a dodge bonus against that opponent’s melee attacks until your next turn. You cannot use this feat if you cannot see the selected opponent.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "骨魔之狡诈",
+    "text_zh": "你有技巧地使你的对手的攻击失准。",
+    "prerequisites_zh": "唬骗8级，闪避。",
+    "benefit_zh": "当你使用防御式战斗或者采用全防御时，你可以选择一名对手。到你的下回合为止，你在针对其的近战攻击时在AC上获得等同于你的魅力调整值的闪避加值。当你不能看到你所选择的对手时你不能使用此专长。"
 }

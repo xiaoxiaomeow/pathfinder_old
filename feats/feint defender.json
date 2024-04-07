@@ -12,5 +12,10 @@
     "benefit": "You add your shield’s bonus to AC to the DC of feint attempts against you.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points to force a foe to attempt two Bluff checks when trying to feint against you in combat, and use the lower of the two results. (See page 18.)",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "防御虚招",
+    "text_zh": "你使用你的盾牌来遮蔽你的肢体语言并使自己集中注意力。",
+    "prerequisites_zh": "盾牌专攻，BAB+6或者战士4级，察言观色1级。",
+    "benefit_zh": "将盾牌的AC加值加到敌人对你虚招的DC上。",
+    "staminaText_zh": "你可以消耗5点耐力来迫使一名对手在对你尝试虚招时做出两次唬骗检定，并使用较低的结果。"
 }

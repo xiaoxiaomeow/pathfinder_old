@@ -10,5 +10,9 @@
     "text": "You have learned how to cast spells from behind the safety of a shield.",
     "prerequisites": "Shield Focus, base attack bonus +3 or fighter level 1st.",
     "benefit": "You reduce the arcane spell failure of any shield you use by 15% (to a minimum of 0%). Using a shield does not prevent you from completing somatic spell components with the hand wielding the shield.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "持盾法师",
+    "text_zh": "你学习了如何在盾牌后面安全地施法。",
+    "prerequisites_zh": "盾牌专攻，BAB+3或者战士1级。",
+    "benefit_zh": "减少你使用的任何盾牌15%的奥术失败率（最低至0%）。你可以使用持盾手施放有姿势成分的法术。"
 }

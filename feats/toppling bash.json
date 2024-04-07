@@ -16,5 +16,10 @@
         "improved shield bash",
         "shield focus",
         "stumbling bash"
-    ]
+    ],
+    "name_zh": "倾覆盾击",
+    "text_zh": "你的盾击可以使你的敌人失去平衡。",
+    "prerequisites_zh": "精通盾击，盾牌专攻，衰弱盾击，BAB+11或者战士8级。",
+    "benefit_zh": "在你盾击一个生物时，你能以迅捷动作承受-5减值对该生物进行一次绊摔战技尝试。这不会导致借机攻击，且即便你失败10点或以上，你也不会被击倒在地。",
+    "staminaText_zh": "你可以消耗5点耐力来忽视掉你在用于击倒一个生物的战技检定上的减值。"
 }

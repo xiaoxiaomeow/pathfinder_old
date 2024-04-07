@@ -11,5 +11,9 @@
     "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th, proficiency with bucklers.",
     "benefit": "You still gain a buckler’s bonus to AC even if you use your shield hand for some other purpose. When you wield a buckler, your shield hand is considered free for the purposes of casting spells, wielding weapons, and using any other abilities that require you to have a free hand or interact with your shield, such as the swashbuckler’s precise strike deed or the Weapon Finesse feat.",
     "special": "A monk with this feat is not considered to be using a shield for the purposes of his AC bonus, fast movement, or flurry of blows.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "自由之盾",
+    "text_zh": "你习惯于装备盾牌战斗。",
+    "prerequisites_zh": "盾牌专攻，BAB+6或者战士4级，擅长小圆盾。",
+    "benefit_zh": "在使用装备小圆盾的手做其他事情的时候，你也能获得小圆盾的AC。当你装备了小圆盾，在考虑施法，持用武器和其他需要有一只空闲手或与你的盾牌相互作用的能力（如游荡剑客的精确刺击炫技或武器娴熟专长）时，持盾手视为空闲无碍的。<\/p><p>特殊情况：拥有此专长的武僧在考虑获得AC加值，快速移动或疾风连击职业能力时不视作装备盾牌。"
 }

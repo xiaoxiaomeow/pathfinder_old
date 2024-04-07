@@ -7,5 +7,9 @@
     "text": "Your terrible attacks strike fear into your enemies.",
     "prerequisites": "Power Attack, Intimidate 6 ranks.",
     "benefit": "When you damage an opponent with a Power Attack, you may make an immediate Intimidate check as a free action to attempt to demoralize your opponent.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "角魔之猛击",
+    "text_zh": "先决条件：猛力攻击，威吓6级",
+    "prerequisites_zh": "猛力攻击，威吓6级。",
+    "benefit_zh": "当你以猛力攻击的方式对你的对手造成伤害时，你可以立即以一个自由动作对你的对手做一次威吓检定用以挫败士气。"
 }

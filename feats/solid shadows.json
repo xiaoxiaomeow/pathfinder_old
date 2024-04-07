@@ -7,5 +7,9 @@
     "text": "Your shadowy illusions are more potent.",
     "prerequisites": "Spell Focus (illusion).",
     "benefit": "When casting <i>greater shadow conjuration<\/i>, <i>greater shadow evocation<\/i>, <i>shadow conjuration<\/i>, or <i>shadow evocation<\/i> (and, at the GM’s discretion, any similar spell with the shadow descriptor that mimics a spell of another school), that spell is 20% more real then normal. A solid shadows spell takes up a spell slot 1 level higher than the spell’s actual level.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "实体幽影",
+    "text_zh": "你的阴影幻觉更加强而有力。",
+    "prerequisites_zh": "法术专攻（幻术）。",
+    "benefit_zh": "当释放高等幽影召唤术，高等幽影塑能术，幽影召唤术，幽影塑能术（以及，根据GM的决定，任何带有“阴影”描述符并模仿其他学派的法术），那个咒语比通常更真实20%。一个实体幽影法术须占用高于原本1个环位的法术位。"
 }

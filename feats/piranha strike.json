@@ -7,5 +7,9 @@
     "text": "You make a combination of quick strikes, sacrificing accuracy for multiple, minor wounds that prove exceptionally deadly.",
     "prerequisites": "Weapon Finesse, base attack bonus +1.",
     "benefit": "When wielding a light weapon, you can choose to take a –1 penalty on all melee attack rolls and combat maneuver checks to gain a +2 bonus on all melee damage rolls. This bonus to damage is halved (–50%) if you are making an attack with an off-hand weapon or secondary natural weapon. When your base attack bonus reaches +4, and for every 4 points thereafter, the penalty increases by –1 and the bonus on damage rolls increases by +2. You must choose to use this feat before the attack roll, and its effects last until your next turn. The bonus damage does not apply to touch attacks or effects that do not deal hit point damage. This feat cannot be used in conjunction with the Power Attack feat.",
-    "prerequisiteKeys": ["weapon finesse"]
+    "prerequisiteKeys": ["weapon finesse"],
+    "name_zh": "食人鱼打击",
+    "text_zh": "你进行快速的组合打击，牺牲精确度，造成大量致命的小伤口。",
+    "prerequisites_zh": "武器娴熟，基本攻击加质+1。",
+    "benefit_zh": "你使用轻武器时可以选择在命中和战技检定上承受-1的惩罚，使伤害增加2，此加值在你使用副手武器的时候减半，当你的基本攻击加值达到+4和之后每增加4点的时候命中减值上升1点，而伤害增加2点，你必须在攻击前使用此专长，且效果延续到你下一轮开始。此伤害加值不会在碰触攻击或不造成生命值伤害的攻击上生效，食人鱼打击无法和猛力攻击一起使用。"
 }

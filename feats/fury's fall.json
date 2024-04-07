@@ -7,5 +7,9 @@
     "text": "You can use strength and agility to send foes crashing to the ground.",
     "prerequisites": "Improved Trip.",
     "benefit": "When making a trip attack, add your Dexterity bonus to your CMB.",
-    "prerequisiteKeys": ["improved trip"]
+    "prerequisiteKeys": ["improved trip"],
+    "name_zh": "怒魔之落袭",
+    "text_zh": "你同时使用力量和机敏将你的对手放倒在地。",
+    "prerequisites_zh": "精通绊摔。",
+    "benefit_zh": "当你使用绊摔战技时，将你的敏捷调整值加到你的战技加值上。"
 }

@@ -11,5 +11,10 @@
     "prerequisites": "Spell Focus (enchantment), Knowledge (nature) 6 ranks.",
     "benefit": "A verdant spell affects plant creatures (even mindless plant creatures) as if they weren’t immune to mind-affecting effects, but it has no effect on other types of creatures. A verdant spell uses up a spell slot 2 levels higher than the spell’s actual level. This feat works only on mind-affecting spells.",
     "normal": "Creatures of the plant type are immune to mind-affecting effects.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "青翠法术",
+    "text_zh": "你与大自然的神奇联系允许你去引诱、愚弄和误导植物和真菌，就如同它们是人一样。",
+    "prerequisites_zh": "法术专攻（附魔），知识（自然）6级。",
+    "benefit_zh": "青翠法术可以影响植物（甚至是无心智的植物生物）就如同他们并不免疫影响心灵的效果一样，但对其他类型的生物没有影响。一个青翠法术消耗高2个环级的法术位。本专长只能用于影响心灵的法术。",
+    "normal_zh": "植物生物免疫心灵影响效果。"
 }

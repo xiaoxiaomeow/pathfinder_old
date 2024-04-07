@@ -7,5 +7,9 @@
     "text": "You entangle your foe in your weapon.",
     "prerequisites": "Fury’s Fall, Improved Trip.",
     "benefit": "If you successfully use a whip to trip a foe, you can choose to drop your whip. Your tripped target gains the entangled condition. The target can break free of the whip by making a DC 10 Strength check or a DC 15 Escape Artist check (add the enhancement bonus of the whip to these DCs), or by using a full-round action to disentangle himself. Escaping the whip by making a Strength check means the whip gains the broken condition. If the whip has a magical quality such as <i>flaming<\/i>, apply this quality’s damage to the target every round on your turn.",
-    "prerequisiteKeys": ["improved trip"]
+    "prerequisiteKeys": ["improved trip"],
+    "name_zh": "怒魔之圈套",
+    "text_zh": "你使用你的武器纠缠你的对手。",
+    "prerequisites_zh": "怒魔之落袭，精通绊摔。",
+    "benefit_zh": "如果你成功使用鞭子绊摔了一名敌人，你可以放开你的鞭子。被你绊摔的目标将会陷入纠缠状态。该目标可以尝试做一个DC10的力量检定或者DC15的脱逃检定来获得自由（将你的鞭子的增强加值加入DC中去），该目标还可以用一个全回合动作来摆脱纠缠。如果该目标以力量检定的方式逃脱鞭子，则鞭子进入破损状态。如果鞭子上附有魔法效果，例如火焰，则每回合都造成该魔法效果的伤害（在你的回合造成）。"
 }

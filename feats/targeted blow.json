@@ -7,5 +7,9 @@
     "text": "You can inflict special injuries on your foes by attacking specific areas.",
     "prerequisites": "Str 13, Power Attack, base attack bonus +9, weapon training class feature with a melee weapon.",
     "benefit": "As a standard action, you can make a single melee attack with an appropriate weapon while targeting a specific body part of your foe. On a successful attack, you affect the target as if you had used the targeting gunslinger deed. You can use this ability two times per day, plus one additional time per day when your base attack bonus reaches +10, +15, and +20.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "瞄准一击",
+    "text_zh": "你能够精确地伤害对手的某一身体部位。",
+    "prerequisites_zh": "力量13，BAB+9，对所选近战武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "以一个标准动作，你可以以所选的近战武器发动一次攻击，瞄准敌人身体的特定部位。如果攻击成功命中，你造成相当于铳士的精确瞄准（Targeting）勇毅动作的效果。你每天可以发动本专长的效果两次，在你的基础攻击加值达到+10，+15和+20时可以获得额外一次每日使用次数。"
 }

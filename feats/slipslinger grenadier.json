@@ -12,5 +12,10 @@
         "slipslinger style",
         "throw anything",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "半身人投弹兵",
+    "text_zh": "你能用投石索发射溅射武器。",
+    "prerequisites_zh": "半身人投石术，随手投掷，武器专攻（投石索）或武器训练（投掷类）职业能力，战争投石者种族特性。",
+    "benefit_zh": "当你使用半身人投石术时，能够以标准动作使用投石索抛掷（hurl）一个炼金溅射武器（alchemical splash weapon），它在取出物品以及向投石索进行装填之时被视为投石索弹丸（sling bullet）。你的投石索会造成正常的武器伤害，外加被装填上的溅射武器的效果或伤害。这些额外伤害不会在重击时翻倍。",
+    "special_zh": "炼金术士的炸弹（alchemists’ bombs）不适用于该专长。"
 }

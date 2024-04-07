@@ -7,5 +7,9 @@
     "text": "You can use your weapon attacks to set up a foe for an unarmed strike.",
     "prerequisites": "Improved Unarmed Strike, base attack bonus +5, weapon training class feature with a melee weapon.",
     "benefit": "When you make a full attack with an appropriate melee weapon and your first attack misses or is blocked, deflected, parried, or otherwise caused to not hit the target, you can immediately make an unarmed attack against the same target with the same attack bonus. You then cannot make any more attacks as part of that full attack.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "变剑为掌",
+    "text_zh": "你的武器攻击只是你接下来拳打脚踢的前奏。",
+    "prerequisites_zh": "精通徒手击打，BAB+5，对所选近战武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "在以所选的近战武器进行整轮攻击时，若你的第一次攻击失手，被格挡，招架或是因为任何情况未能成功命中目标，你可以立刻以相同的攻击加值对目标发动一次徒手击打攻击。但是，这样做的话你无法在接下来未完成的这次整轮攻击中继续进行攻击。"
 }

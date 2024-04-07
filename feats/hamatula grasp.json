@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "hamatula strike",
         "improved grapple"
-    ]
+    ],
+    "name_zh": "尖刺魔之握",
+    "text_zh": "你对被“刺穿”的敌人造成可怕的伤害。",
+    "prerequisites_zh": "尖刺魔之触，精通擒抱，力量13，基础攻击加值+9。",
+    "benefit_zh": "当你对被“刺穿”（见“尖刺魔之触”）的敌人使用那把刺穿它的武器时，你在擒抱检定中仅受到-2的罚值。如果该擒抱检定成功，你还可以造成额外的1d6点伤害。"
 }

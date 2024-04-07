@@ -10,5 +10,10 @@
     "text": "Choose one weapon trick option (one-handed weapon, polearm, ranged, two-handed weapon, two-weapon, or weapon and shield). You can perform weapon tricks in combat when armed appropriately for that option.",
     "prerequisites": "Base attack bonus +1.",
     "benefit": "You can use any weapon tricks relating to the chosen weapon option if you meet the trick’s prerequisites and are proficient with any weapon or shield that you use as part of the trick.",
-    "special": "You can gain Weapon Trick multiple times. Each time you take the feat, it applies to a new weapon trick option."
+    "special": "You can gain Weapon Trick multiple times. Each time you take the feat, it applies to a new weapon trick option.",
+    "name_zh": "武器技法",
+    "text_zh": "选择一种武器技法类别（单手武器、长武器、远程武器、双手武器、双武器、或者盾武双持）。如果你装备着对应武器，那么便可以在战斗中执行相应的武器技法。",
+    "prerequisites_zh": "基本攻击加值+1。",
+    "benefit_zh": "选择一种武器技法类别，如果你满足武器技法的先决条件，而且擅长执行技法时所使用的任何武器或盾牌，那么你就可以使用与其相关的任何<a href=\"pages/weapon_trick.html\">武器技法<\/a>。",
+    "special_zh": "你可以多次选择武器技法专长。每当你选取该专长时，它都会对新的一种武器技法类别生效。"
 }

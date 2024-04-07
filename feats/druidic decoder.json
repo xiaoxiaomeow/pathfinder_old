@@ -5,5 +5,9 @@
     "source": ["Faiths and Philosophies pg. 11"],
     "text": "You have a natural understanding of the Druidic language.",
     "prerequisites": "Linguistics 1 rank, cannot be a druid.",
-    "benefit": "You gain a +5 bonus on Linguistics checks made to decipher writings in the Druidic language. If you have 10 or more ranks in Linguistics, add Druidic to the list of bonus languages available to you."
+    "benefit": "You gain a +5 bonus on Linguistics checks made to decipher writings in the Druidic language. If you have 10 or more ranks in Linguistics, add Druidic to the list of bonus languages available to you.",
+    "name_zh": "密语解码",
+    "text_zh": "你与生俱来可以理解德鲁伊语。",
+    "prerequisites_zh": "语言学1级，且不是德鲁伊。",
+    "benefit_zh": "你在解读以德鲁伊语写成的密文时，语言学检定获得+5加值。如果你在语言学拥有10个技能等级，将德鲁伊语添加到可学习语言列表。"
 }

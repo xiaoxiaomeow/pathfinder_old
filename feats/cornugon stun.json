@@ -8,5 +8,10 @@
     "prerequisites": "Stunning Fist.",
     "benefit": "You may use Stunning Fist when making melee attacks with special monk weapons as well as when making unarmed attacks.",
     "normal": "You can only use Stunning Fist when making an attack with an unarmed strike.",
-    "prerequisiteKeys": ["stunning fist"]
+    "prerequisiteKeys": ["stunning fist"],
+    "name_zh": "角魔之震慑",
+    "text_zh": "你可以使用特别的武僧武器发动震慑拳。",
+    "prerequisites_zh": "震慑拳。",
+    "benefit_zh": "当你用特别的武僧武器进行近战攻击时，你可以如同徒手攻击一样使用震慑拳。",
+    "normal_zh": "你只能在徒手攻击时使用震慑拳。"
 }
