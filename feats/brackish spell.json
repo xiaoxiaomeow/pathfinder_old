@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Elemental Master's Handbook pg. 15"],
     "text": "You can conjure a seawater orb to protect yourself.",
-    "benefit": "This feat can be applied only to spells with the water descriptor. You can modify the spell to surround you with a thin sheath of brackish salt water in addition to the spell’s normal effect. You gain DR/piercing equal to the spell’s level for 1 round after you finish casting the spell. After this round, the water collapses into a briny puddle and the effect ends. A brackish spell does not use up a higher-level spell slot than the spell’s actual level."
+    "benefit": "This feat can be applied only to spells with the water descriptor. You can modify the spell to surround you with a thin sheath of brackish salt water in addition to the spell’s normal effect. You gain DR/piercing equal to the spell’s level for 1 round after you finish casting the spell. After this round, the water collapses into a briny puddle and the effect ends. A brackish spell does not use up a higher-level spell slot than the spell’s actual level.",
+    "name_zh": "咸水法术",
+    "text_zh": "你可以用海水法球来保护自己。",
+    "benefit_zh": "这个专长只适用于有水描述符的法术。你可以调整这个法术，使其在产生原本效果外还在你周围产生一层薄薄的咸水护膜。你在你完成施法后获得等同于法术环位的DR/挥砍，持续1轮。在这轮结束后，这些水崩塌为一个水坑。并且效果结束<\/p><p>咸水法术会占用高于原本1个环位的法术位。"
 }

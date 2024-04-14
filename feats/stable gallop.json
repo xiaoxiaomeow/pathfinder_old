@@ -5,5 +5,9 @@
     "source": ["Animal Archive pg. 19"],
     "text": "You run with a smooth and steady gait.",
     "prerequisites": "Animal or magical beast.",
-    "benefit": "Your AC penalty when charging is halved. The penalties on ranged attacks made by your rider are reduced by 1 when you take a double move and by 2 when you run (minimum penalty of 0). Your rider gains a +4 bonus on concentration checks caused by your motion."
+    "benefit": "Your AC penalty when charging is halved. The penalties on ranged attacks made by your rider are reduced by 1 when you take a double move and by 2 when you run (minimum penalty of 0). Your rider gains a +4 bonus on concentration checks caused by your motion.",
+    "name_zh": "稳健奔驰",
+    "text_zh": "你奔跑的姿态流畅而又平稳。",
+    "prerequisites_zh": "动物或魔法兽。",
+    "benefit_zh": "你的AC在冲锋时受到的减值减半。当你进行双移动（double move）时，骑乘你的骑手所进行的远程攻击所受到的减值减少1点；当你奔跑（run）时则为减少2点（最低为0点减值）。骑乘你的骑手由于你的运动而进行的专注检定获得+4加值。"
 }

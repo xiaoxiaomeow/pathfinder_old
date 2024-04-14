@@ -8,5 +8,10 @@
     "prerequisites": "Weapon Focus, base attack bonus +1.",
     "benefit": "You don’t take additional penalties on attack and damage rolls for fighting underwater with bludgeoning and slashing melee weapons for which you have taken the Weapon Focus feat.",
     "normal": "When using bludgeoning and slashing melee weapons underwater, you take a –2 penalty on attack rolls and deal half damage.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "水下战斗专攻",
+    "text_zh": "你在你所选择武器的技艺上太过娴熟，以至于你在水下使用它们时不会受到任何阻碍。",
+    "prerequisites_zh": "武器专攻，基本攻击加值+1。",
+    "benefit_zh": "你在水下战斗使用拥有武器专攻专长的挥砍和钝击近战武器时，不会承受额外的命中和伤害减值。",
+    "normal_zh": "当你在水下使用钝击和挥砍的近战武器时，你会在攻击骰上有-2减值，并且伤害减半。"
 }

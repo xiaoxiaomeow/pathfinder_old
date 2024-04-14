@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "combat meditation",
         "meditation master"
-    ]
+    ],
+    "name_zh": "高阶冥想大师",
+    "text_zh": "你能够从短暂冥想中获得更多的洞察。",
+    "prerequisites_zh": "感知15，战斗冥想，冥想大师，角色等级11。",
+    "benefit_zh": "当你冥想时，你获得+2洞察加值而不是+1洞察加值。你使用战斗冥想时，可以将这个加值任意分配到两个D20检定上，每个D20检定+1或者对任何一个D20检定使用全部加值，对单个检定+2。"
 }

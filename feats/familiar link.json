@@ -10,5 +10,9 @@
     "text": "Within your coven, you have formed a bond with your fellow witches’ familiars.",
     "prerequisites": "Coven hex or Coven-Touched, familiar or spirit animal class feature, witch level 1st.",
     "benefit": "You share an empathic link with the familiars of all other witches in your coven who also have this feat, as per the witch’s familiar ability. Additionally, you can use the share spells, deliver touch spells, and scry on familiar abilities with a coven member’s familiar as the target, as long as your witch level is high enough to grant access to these abilities. You can communicate with the familiar using its speak with master ability. You gain a +5 bonus on Spellcraft checks to help your familiar learn spells from a coven member’s familiar.",
-    "prerequisiteKeys": ["coven-touched"]
+    "prerequisiteKeys": ["coven-touched"],
+    "name_zh": "魔宠连接",
+    "text_zh": "在你的战团（coven）内，你与你同伴的女巫魔宠产生联系。",
+    "prerequisites_zh": "战团巫术（Coven hex）或战团之触（Coven-Touched），魔宠（familiar）或魂兽（spirit animal）职业能力，女巫1级。",
+    "benefit_zh": "你分享了你战团（coven）内所有其他拥有此项专长女巫的魔宠的情感连接（empathic link）。此外，你可以以一个战团（coven）的魔宠为目标，使用法术共享（share spells）、传递接触法术（deliver touch spells）、以及探知魔宠（scry on familiar）能力，只要你的女巫等级足够高到获取这些能力。你可以与该魔宠使用它与主人交谈（speak with master）的能力进行交流。你在帮助你的魔宠从你战团（coven）成员的魔宠那里学习法术的法术辨识检定（Spellcraft checks）获得+5加值。"
 }

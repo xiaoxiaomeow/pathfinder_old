@@ -7,5 +7,9 @@
     "text": "Drawing upon techniques to combat animated creatures, you bring a strike like an avalanche of stone.",
     "prerequisites": "Str 13, Stunning Fist.",
     "benefit": "Before making a melee attack with an unarmed strike, you can expend one use of Stunning Fist to declare a stone-handed strike. Resolve the attack normally, except your attack ignores an amount of the target’s hardness equal to your monk level or one-quarter your base attack bonus (minimum 1), whichever is higher. This effect replaces other effects or conditions that would be caused by your Stunning Fist.",
-    "prerequisiteKeys": ["stunning fist"]
+    "prerequisiteKeys": ["stunning fist"],
+    "name_zh": "碎石拳",
+    "text_zh": "你通过技巧来对付那些活化生物，你的攻击就如同是崩裂的碎石。",
+    "prerequisites_zh": "力量13，震慑拳。",
+    "benefit_zh": "在你使用徒手攻击进行一次近战攻击之前，你可以花费一次震慑拳的使用次数来宣言进行一次碎石拳。这次攻击和普通攻击相同，除了你的这次攻击可以忽视目标最多等同于你武僧等级或1/4你的BAB（最小为1）的硬度，两者取高。这个效果会替代你震慑拳所引发的其他效果。"
 }

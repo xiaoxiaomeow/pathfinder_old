@@ -6,5 +6,9 @@
     "source": ["Blood of Fiends pg. 24"],
     "text": "When you strike from the cover of darkness, you inject foes with a fraction of your foul magic.",
     "prerequisites": "Base attack bonus +5, <i>darkness <\/i>spell-like ability, sneak attack class feature, tiefling.",
-    "benefit": "When you successfully deal sneak attack damage to a foe while you are within an area of magical darkness, you temporarily blind your opponent for 1 round. A successful Fortitude save (DC 10 + the amount of sneak attack damage dealt) negates this effect."
+    "benefit": "When you successfully deal sneak attack damage to a foe while you are within an area of magical darkness, you temporarily blind your opponent for 1 round. A successful Fortitude save (DC 10 + the amount of sneak attack damage dealt) negates this effect.",
+    "name_zh": "致盲偷袭",
+    "text_zh": "当你以黑暗作为掩护打击敌人，会将部分源于你的污秽魔法注入敌人的身体。",
+    "prerequisites_zh": "基本攻击加值+5，黑暗术类法术能力，偷袭职业能力，魔裔。",
+    "benefit_zh": "当你在魔法黑暗覆盖的区域内成功对敌人造成偷袭伤害时，你会使目标暂时目盲1轮。成功的强韧豁免（DC 10 + 偷袭造成的伤害）能够免受该效果。"
 }

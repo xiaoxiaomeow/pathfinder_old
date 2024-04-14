@@ -6,5 +6,9 @@
     "source": ["Elemental Master's Handbook pg. 11"],
     "text": "You have learned one of the secrets of Kraggodan’s defenders and can lock your armor and shield into an impenetrable barrier.",
     "prerequisites": "Con 13, proficiency with heavy armor and shields.",
-    "benefit": "As a move action when wearing heavy armor and using a heavy shield or tower shield, you increase the bonus to AC granted by your armor and your shield by 1 each until you move or are moved from your current square. You must be in contact with solid ground to gain this benefit. You can never increase an armor or shield bonus to AC by more than 1 each in this way."
+    "benefit": "As a move action when wearing heavy armor and using a heavy shield or tower shield, you increase the bonus to AC granted by your armor and your shield by 1 each until you move or are moved from your current square. You must be in contact with solid ground to gain this benefit. You can never increase an armor or shield bonus to AC by more than 1 each in this way.",
+    "name_zh": "库拉贡敦姿态",
+    "text_zh": "你已经学会了库拉贡敦守卫者的一个秘密并且可以把你的盔甲和盾牌化为一道难以逾越的障碍。",
+    "prerequisites_zh": "体质13，擅长重甲和盾牌。",
+    "benefit_zh": "当你穿着重甲和使用重盾或者塔盾时，你可以用一个移动动作让你的盔甲和盾牌提供的AC加值各额外提升1点，直到你移出你现在占据的空间。你必须与坚实地面相接触才能得到这种好处。你不能用这个方法让你的盔甲或盾牌获得的额外AC加值超过1点。"
 }

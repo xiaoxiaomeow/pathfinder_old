@@ -7,5 +7,9 @@
     "text": "You can shield your partner’s body with your own.",
     "prerequisites": "Bonded Mind, base attack bonus +6.",
     "benefit": "As long as an ally with the Bonded Mind feat is adjacent to you, you can choose to absorb up to half of the hit point damage from any attack that strikes him, as if subject to a <i>shield other<\/i> spell. Using this ability is an immediate action, and it only applies to one attack, even if the ally is hit by multiple attacks as part of the same action.",
-    "prerequisiteKeys": ["bonded mind"]
+    "prerequisiteKeys": ["bonded mind"],
+    "name_zh": "吃下这一击",
+    "text_zh": "你可以用自己的身体保护你的伙伴。",
+    "prerequisites_zh": "心灵羁绊，BAB+6。",
+    "benefit_zh": "只要一名拥有心灵羁绊专长的盟友与你相邻，你就可以选择从任何造成生命值损失的攻击中吸收高达一半的伤害，就像受到护卫他人（shield other）法术的影响一样。使用该能力是一个直觉动作，即便该盟友在同一动作中被多次攻击击中，但它也仅适用于一次攻击。"
 }

@@ -5,5 +5,9 @@
     "source": ["Blood of the Ancients pg. 20"],
     "text": "You are able to treat deadly wounds with an almost supernatural skill.",
     "prerequisites": "Heal 5 ranks.",
-    "benefit": "When you use the Heal skill to treat deadly wounds, the target heals a number of hit points equal to either the result of your Heal check or the normal amount, whichever is higher. A creature can still benefit from having deadly wounds treated no more than once per day."
+    "benefit": "When you use the Heal skill to treat deadly wounds, the target heals a number of hit points equal to either the result of your Heal check or the normal amount, whichever is higher. A creature can still benefit from having deadly wounds treated no more than once per day.",
+    "name_zh": "惊异治疗者",
+    "text_zh": "你可以以一种几乎是魔法的技巧治疗严重伤害。",
+    "prerequisites_zh": "医疗5级。",
+    "benefit_zh": "当你使用医疗技能治疗严重伤害时，目标被治疗的生命值等于医疗技能的检定结果或通常值，以较高者为准。同一个生物24小时内仍然只能接受一次治疗严重伤害的过程。"
 }

@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "bonded mind",
         "share spells"
-    ]
+    ],
+    "name_zh": "特殊快递",
+    "text_zh": "你的伙伴可将你的法术带给他们的目标。",
+    "prerequisites_zh": "心灵羁绊，分享法术（Share Spells），通过动物伙伴、幻灵、魔宠或魅影传递法术的能力，施法者等级3级。",
+    "benefit_zh": "每当你与一名拥有心灵羁绊专长的盟友保有联系，且你施展了一道接触法术时，你可以指定该盟友为“接触者”，如同传递接触法术（deliver touch spells）魔宠能力一般。"
 }

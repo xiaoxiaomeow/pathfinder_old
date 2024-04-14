@@ -6,5 +6,9 @@
     "text": "Your innate ability to shroud others in darkness is further empowered.",
     "prerequisites": "Fiendish Darkness, <i>darkness <\/i>spell-like ability, caster level 3rd, tiefling.",
     "benefit": "You gain a +2 bonus to your effective caster level when using your <i>darkness <\/i>spell-like ability. In addition, whenever you cast a spell with the evil descriptor that targets another creature, you can spend a swift action to apply the effects of your <i>darkness <\/i>spell-like ability to the spell cast, with the <i>darkness <\/i>effect centered on the spell’s target. Using the <i>darkness <\/i>spell-like ability in this way expends all three uses of it for the day, and it cannot be used if fewer than three uses of it remain for that day.",
-    "prerequisiteKeys": ["fiendish darkness"]
+    "prerequisiteKeys": ["fiendish darkness"],
+    "name_zh": "精通炼狱黑暗",
+    "text_zh": "你将他人置于黑暗中的天赋得到进一步的提升。",
+    "prerequisites_zh": "炼狱黑暗，黑暗术类法术能力，施法者等级3，魔裔。",
+    "benefit_zh": "当你使用黑暗术类法术能力时，有效施法者等级获得+2加值。此外，当你对其他生物施放带有邪恶描述符（evil descriptor）的法术时，你可以以一个迅捷动作在该法术中应用黑暗术类法术能力的效果，法术的目标为黑暗术效果的中心。以此方式施放黑暗术类法术能力会消耗其每天3次的全部使用次数，并且该效果在当使用次数不足3次的时候无法使用。"
 }

@@ -11,8 +11,8 @@
     "staminaText": "You can spend 5 stamina points to declare that you are using Dazing Fist after you’ve hit with an unarmed strike attack.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "眩晕拳",
-    "text_zh": "你知道如何一拳将目标打懵的方法。 ",
-    "prerequisites_zh": "敏捷13，感知13，精通徒手击打，基础攻击加值+4。",
+    "text_zh": "你知道如何一拳将目标打懵的方法。",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手击打，BAB+4。",
     "benefit_zh": "你必须在投掷攻击骰之前宣告使用此专长（因此，未命中会导致尝试失败）。眩晕拳在正常造成伤害的同时，还会强制受到你徒手击打伤害的敌人进行一次DC=10+1/2你的角色等级+感知调整值的强韧豁免检定。豁免检定失败的防御者将眩晕1轮。每4级你每天可以多尝试一次眩晕攻击，每轮不能超过1次。构装、泥怪、植物、不死、虚体生物，无心智和免疫重击的生物不会被本能力影响。",
     "staminaText_zh": "如果花费5点耐力，你可以在命中后再宣布使用眩晕拳。"
 }

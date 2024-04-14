@@ -7,5 +7,9 @@
     "text": "You’re always ready to lend your partner a hand.",
     "prerequisites": "Bonded Mind.",
     "benefit": "When you successfully use the Aid Another action to assist an ally’s skill check, and the ally also has this feat, the bonus is +4 instead of +2.",
-    "prerequisiteKeys": ["bonded mind"]
+    "prerequisiteKeys": ["bonded mind"],
+    "name_zh": "额外援助",
+    "text_zh": "你总是准备好给予你伙伴帮助。",
+    "prerequisites_zh": "心灵羁绊。",
+    "benefit_zh": "当你成功使用援助他人动作来为一名盟友的技能检定提供帮助时，且该盟友也同样拥有该专长的话，该加值可为+4而非+2。"
 }

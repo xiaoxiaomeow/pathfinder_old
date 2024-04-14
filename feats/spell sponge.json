@@ -5,5 +5,9 @@
     "source": ["Animal Archive pg. 19"],
     "text": "Your mystical connection with your spellcasting master attunes you to helpful magical effects.",
     "prerequisites": "Animal companion or familiar, share spells ability.",
-    "benefit": "Whenever your master targets you with a harmless spell with a target of “you,” the spell’s duration is doubled as if modified by the Extend Spell metamagic feat. This does not affect spells with a duration of concentration, instantaneous, or permanent, or spells already modified by Extend Spell."
+    "benefit": "Whenever your master targets you with a harmless spell with a target of “you,” the spell’s duration is doubled as if modified by the Extend Spell metamagic feat. This does not affect spells with a duration of concentration, instantaneous, or permanent, or spells already modified by Extend Spell.",
+    "name_zh": "法术海绵",
+    "text_zh": "你与你的施法者主人间的神秘联系，使你与有益的魔法效果融为一体。",
+    "prerequisites_zh": "动物伙伴或者魔宠，法术共享能力。",
+    "benefit_zh": "每当你的主人以你为目标，施放无害并且法术目标为“自己（you）”法术时，法术的持续时间加倍，就如同被法术延时（Extend Spell）超魔专长调整了一般。这不会影响持续时间为专注、立即或永久的法术，也不会影响已经被法术延时调整的法术。"
 }

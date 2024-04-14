@@ -6,5 +6,9 @@
     "text": "You can become a dire bat.",
     "prerequisites": "Cha 13, Bat Shape, base attack bonus +3, werebat-kin.",
     "benefit": "When you use Bat Shape to become a bat, you can choose to become a bat or a dire bat.",
-    "prerequisiteKeys": ["bat shape"]
+    "prerequisiteKeys": ["bat shape"],
+    "name_zh": "凶暴蝙蝠化形",
+    "text_zh": "你能转变成一只凶暴蝙蝠。",
+    "prerequisites_zh": "魅力13，蝙蝠化形，BAB+3，蝙蝠人后裔。",
+    "benefit_zh": "当你使用蝙蝠化形时，可以变成一只凶暴蝙蝠。"
 }

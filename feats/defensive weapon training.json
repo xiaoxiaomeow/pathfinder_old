@@ -12,7 +12,7 @@
     "staminaText": "You can spend 5 stamina points at the beginning of your turn to switch the weapon group of this feat to any other weapon group on the fighter’s weapon training class ability list (except natural weapons). This benefit lasts for 3 rounds.",
     "name_zh": "防御式武器训练",
     "text_zh": "你知道在面对一种武器时如何保护自己。",
-    "prerequisites_zh": "智力13，基本攻击加值+5。",
+    "prerequisites_zh": "智力13，BAB+5。",
     "benefit_zh": "从战士【武器训练】列表的武器组（除了天生武器）中选择一种。在面对使用你选择的列表中的武器攻击你的敌人时，你的AC获得+2闪避加值。如果你同时拥有相同种类的【武器训练】能力，你的闪避加值增加至+3。",
     "special_zh": "你可以多次选择该专长。效果不会叠加，不过每次你都可以选择不同的武器组。",
     "staminaText_zh": "花费5点耐力，你可以将所选择的武器组临时切换为另一种（天生武器除外），持续3轮。"

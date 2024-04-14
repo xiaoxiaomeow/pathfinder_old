@@ -6,5 +6,9 @@
     "text": "You can offer greater care for diseases and poisons than other healers can.",
     "prerequisites": "Incredible Healer.",
     "benefit": "When you use the Heal skill to treat disease or poison, instead of granting a +4 competence bonus on the target’s saving throws to resist the affliction, you may instead choose to allow the target to use the result of your Heal check in place of his next saving throw to resist the disease or poison.",
-    "prerequisiteKeys": ["incredible healer"]
+    "prerequisiteKeys": ["incredible healer"],
+    "name_zh": "病理学家",
+    "text_zh": "你比其他治疗者更擅长对付疾病和毒素。",
+    "prerequisites_zh": "惊异治疗者(Incredible Healer)。",
+    "benefit_zh": "当你使用医疗技能治疗疾病或治疗中毒时，你可以选择让目标在直接使用你的医疗检定结果，而不是在目标的的豁免检定获得+4环境加值来对抗下一次疾病或毒素药的DC。"
 }

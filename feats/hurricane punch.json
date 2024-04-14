@@ -11,5 +11,9 @@
         "improved bull rush",
         "improved unarmed strike",
         "power attack"
-    ]
+    ],
+    "name_zh": "暴风拳",
+    "text_zh": "随着你带有暴风之力的快速攻击，你的敌人就被撞飞了。",
+    "prerequisites_zh": "力量13，精通冲撞，精通徒手攻击，猛力攻击。",
+    "benefit_zh": "当你一轮内对一个生物命中至少2次徒手攻击时，你可以用迅捷动作尝试冲撞敌人。你可以在你没有剩余移动力的情况下和目标一起移动，但是你移动的距离不能超过你速度的一半。"
 }

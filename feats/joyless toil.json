@@ -7,5 +7,9 @@
     "text": "Your strikes render your enemy distracted and unable to focus on productive action.",
     "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "Joyless Toil forces a foe damaged by your unarmed attack to attempt a Fortitude saving throw (DC = 10 + half your character level + your Wisdom modifier) in addition to taking damage normally. You must declare that you are using this feat before you make your attack roll—thus, a failed attack roll wastes the attempt. An opponent who fails this saving throw is nauseated for 1 round or until the opponent is attacked. You can attempt to use Joyless Toil once per day for every 4 character levels you have, but you can use it no more than once per round. Constructs, incorporeal creatures, mindless creatures, plants, undead, and creatures that are immune to critical hits cannot be affected by this ability.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "无趣劳作",
+    "text_zh": "你的攻击会令敌人反胃，从而无法专心进行有效行动。",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手攻击，BAB+8。",
+    "benefit_zh": "这个专长会让一个被你徒手攻击击中的敌人在正常受到伤害的同时，尝试进行一次强韧检定（DC=10+1/2角色等级+你的感知调整值）。你必须在你投攻击骰之前宣言使用这一专长——因此，就算是失败了，也会消耗次数。没有通过强韧检定的敌人会反胃一轮，或知道他遭受攻击。你每有4个等级，就可以尝试使用一次，但你一轮只能使用一次。构装体，虚体生物，无心智生物，植物，不死生物还有免疫重击的生物不会受到这个效果影响。"
 }
