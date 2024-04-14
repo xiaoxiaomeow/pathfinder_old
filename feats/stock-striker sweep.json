@@ -7,5 +7,9 @@
     "text": "The force of your firearm strikes can drive back your foe or damage a second target.",
     "prerequisites": "Stock-Striker Style, base attack bonus +7, pistol-whip gunslinger deed.",
     "benefit": "When you are using Stock-Striker Style and successfully knock a target prone with the pistol-whip deed, as a swift action you can either push the target 5 feet away from you or perform the pistol-whip deed a second time against a foe that is adjacent to the first and within your reach. This second use of pistol-whip costs 0 grit points.",
-    "prerequisiteKeys": ["stock-striker style"]
+    "prerequisiteKeys": ["stock-striker style"],
+    "name_zh": "枪托横扫",
+    "text_zh": "你挥舞火器的力气足以击退敌寇，或是伤及另一个目标。",
+    "prerequisites_zh": "枪托势，bab+7，铳士炫技：枪柄打击。",
+    "benefit_zh": "当你处于枪托势并成功以枪柄打击炫技将目标击至俯卧时，你可以通过一个迅捷动作将目标推离5尺，或是对你触及内第二个邻接该目标的敌人再进行一次枪柄打击。第二次枪柄打击炫技花费0点勇毅值。"
 }

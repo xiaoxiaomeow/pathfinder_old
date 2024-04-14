@@ -6,5 +6,9 @@
     "text": "Your intense faith in your deity allows you to gain boons not granted to most followers.",
     "prerequisites": "Deific Obedience, Knowledge (religion) 5 ranks, alignment must match that of your worshiped deity.",
     "benefit": "You are treated as though you had 2 more Hit Dice than you actually do for the purposes of determining what divine boons you gain as a result of performing your deity’s obedience. Diverse Obedience doesn’t allow access to divine boons granted through prestige classes early, as those boons are tied to prestige class levels gained, not overall Hit Dice. If you take levels in a prestige class or archetype that offers accelerated access to a boon, this benefit may be superfluous. <br><br> Additionally, whenever you would gain a boon as a result of your Deific Obedience feat (and not through a prestige class), you can choose among the options available for evangelist, exalted, or sentinel boons. Once you make the selection, it is permanent, but you can choose from a different category each time you gain a new boon as you increase your Hit Dice.",
-    "prerequisiteKeys": ["deific obedience"]
+    "prerequisiteKeys": ["deific obedience"],
+    "name_zh": "多样尊崇",
+    "text_zh": "你对神祇的强烈信仰令你得到了大多数信徒都未曾得到的神恩。",
+    "prerequisites_zh": "崇神仪典（Deific Obedience），宗教知识5级，与信仰神祇阵营一致。",
+    "benefit_zh": "当你确定你因崇神仪典获得的神恩时，将你的HD视为比实际高2。多样尊崇不允许你通过进阶职业提前获得神恩，因为这些职业通过职业等级而非HD获取神恩。如果你从进阶职业中提前获取神恩，那么本专长的好处或许是多余的。<\/p><p>此外，每当你因崇神仪典专长（而非通过进阶职业）获得神恩时，你可以从颂教者神恩、传音者神恩和卫道者神恩中进行选择，一经选择不能改变。每当你因HD增加获得新神恩时，你都可以从不同的类别中进行选取。"
 }

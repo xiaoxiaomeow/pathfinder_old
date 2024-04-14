@@ -7,5 +7,9 @@
     "text": "Sometimes smacking your firearm against a solid surface is all that’s needed to unjam it. Sometimes that solid surface is a creature.",
     "prerequisites": "Craft (alchemy) 3 ranks; grit class feature or Amateur Gunslinger; pistol-whip gunslinger deed; quick clear gunslinger deed.",
     "benefit": "You can ignore the broken condition of a firearm you’re wielding to perform the pistol-whip deed. If you hit a creature with this deed, you can spend 1 grit point as an immediate action to remove the broken condition from the firearm, but only if the firearm gained that condition from a misfire.",
-    "prerequisiteKeys": ["amateur gunslinger"]
+    "prerequisiteKeys": ["amateur gunslinger"],
+    "name_zh": "暴力修复",
+    "text_zh": "有时候仅需要将火器往硬物上——或者某个生物上——用力猛砸即可解决其堵塞问题",
+    "prerequisites_zh": "工艺（炼金）3级；勇毅职业特性或者业余铳士；铳士炫技：枪柄打击；铳士炫技：快速清膛。",
+    "benefit_zh": "你在使用持用的火器进行枪柄打击炫技时可以忽略其破碎状态。若你以该炫技击中某一生物，你能以一个直觉动作花费1点勇毅值移除火器上的破损状态，前提是该破损状态是因为火器哑火而致。"
 }

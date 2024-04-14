@@ -5,5 +5,9 @@
     "source": ["Heroes of Golarion pg. 10"],
     "text": "Your faith in Sarenrae and the power of flame allows you to lace fire with holy power and burn things that normally can’t be burned.",
     "prerequisites": "Goblin, worshipper of <DEITIES%SARENRAE\">Sarenrae<\/a>.",
-    "benefit": "Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical. An incorporeal creature’s 50% reduction in damage from corporeal sources does not apply to any fire damage that you deal."
+    "benefit": "Whenever you make an attack or cast a spell that deals fire damage, the fire damage applies to incorporeal creatures, regardless of whether the fire is magical. An incorporeal creature’s 50% reduction in damage from corporeal sources does not apply to any fire damage that you deal.",
+    "name_zh": "神圣纵火狂",
+    "text_zh": "你对莎伦莱的信仰和火焰力量使你能够将神圣力量注入火焰之中，焚烧那些通常无法燃烧的东西。",
+    "prerequisites_zh": "地精，信仰莎伦莱（Sarenrae）。",
+    "benefit_zh": "当你的攻击或由你施放的法术造成火焰伤害时，无论火焰是否具有魔力，火焰伤害都可如常应用至虚体（incorporeal）生物。虚体生物受到实体伤害减半的特性不适用于你造成的火焰伤害。"
 }

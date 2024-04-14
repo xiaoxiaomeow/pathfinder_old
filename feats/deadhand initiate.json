@@ -7,5 +7,12 @@
     "text": "Your adulation of death not only shields you from your fears, it allows you to feed on them.",
     "prerequisites": "Wis 19, Deadhand Style†, Improved Unarmed Strike, Knowledge (religion) 6 ranks, ki pool class feature, nongood alignment.",
     "benefit": "While using Deadhand Style, as long as you have at least 1 point in your ki pool, your bonus on saving throws against fear effects increases to +4, and the DC of Intimidate checks attempted against you increases by 8. <br><br> Additionally, if an enemy targets you with a fear effect, you can spend 1 point from your ki pool as an immediate action to gain a number of temporary hit points equal to twice your Hit Dice.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys":     [
+        "deadhand style",
+        "improved unarmed strike"
+    ],
+    "name_zh": "死手汲能",
+    "text_zh": "你对死亡的崇拜不仅让你免于恐惧，还让你以恐惧为食。",
+    "prerequisites_zh": "感知 19，死手流, 精通徒手打击, 知识（宗教）6级，气池职业能力，非善良阵营。",
+    "benefit_zh": "当使用死手流时，且你的气池中至少有1点气，你在对抗恐惧豁免的加值提升到+4，并且对你的威吓DC增加到+8点。此外，当你成为敌人释放的一个恐惧效果的目标，以一个迅捷动作，你可以从你的气池中花费1点气，来获得相当于你的生命骰两倍的临时生命值。"
 }

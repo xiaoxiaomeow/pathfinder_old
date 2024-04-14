@@ -524,7 +524,9 @@ function search() {
 		let race_legal = !document.getElementById("race").checked || sp["race"] != null;
 		let mythic_legal = !document.getElementById("mythic").checked || sp["mythic"];
 
-		let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchools_legal && descriptors_legal && levels_legal && source_legal && castingTime_legal && duration_legal && range_legal && spellResistance_legal && savingThrow_legal && race_legal && mythic_legal);
+		let en_legal = (!document.getElementById("en").checked) || sp["name_zh"] == null;
+
+		let legal = (name != "" && name_legal) || (name == "" && school_legal && subSchools_legal && descriptors_legal && levels_legal && source_legal && castingTime_legal && duration_legal && range_legal && spellResistance_legal && savingThrow_legal && race_legal && mythic_legal && en_legal);
 		if (legal) {
 			let row = document.createElement("tr");
 			let nameCell = cell(sp["name_zh"] ?? sp["name"]);

@@ -5,5 +5,9 @@
     "source": ["Divine Anthology pg. 11"],
     "text": "You can call upon your deity for a minor miracle.",
     "prerequisites": "Wis 12, Knowledge (religion) 5 ranks, alignment must match that of your worshiped deity.",
-    "benefit": "Choose two domains associated with your deity (if you have access to one or more domains already, the chosen domains can be the same ones you already have access to, or different ones). Once per day, by presenting a holy symbol of your deity and calling out in supplication, you can cast the 1st-level spell associated with either of the two chosen domains as a spell-like ability. You choose which domain’s spell you cast at the time you use the ability. Your caster level for this effect is equal to your total Hit Dice, and the saving throw DC, if any, is Charisma-based."
+    "benefit": "Choose two domains associated with your deity (if you have access to one or more domains already, the chosen domains can be the same ones you already have access to, or different ones). Once per day, by presenting a holy symbol of your deity and calling out in supplication, you can cast the 1st-level spell associated with either of the two chosen domains as a spell-like ability. You choose which domain’s spell you cast at the time you use the ability. Your caster level for this effect is equal to your total Hit Dice, and the saving throw DC, if any, is Charisma-based.",
+    "name_zh": "小型奇迹",
+    "text_zh": "你可以呼唤神祇创造小型的奇迹。",
+    "prerequisites_zh": "感知12，宗教知识5级，与信仰神祇阵营一致。",
+    "benefit_zh": "选择两个你的神祇相关的领域（若你已连接一个或多个领域，那么你既可以选择与你连接领域相同的领域也可以选择不同的领域）。每日一次，通过展示你的神祇的圣徽并且祈祷中呼唤，你可以以类法术能力施放所选领域的一环领域法术。你在使用该能力时选择从哪个领域中施放法术。施法者等级基于你的HD，且豁免检定DC（若有）基于魅力。"
 }

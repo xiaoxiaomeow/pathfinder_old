@@ -6,5 +6,9 @@
     "text": "You can brew potions whose effects are delayed slightly.",
     "prerequisites": "Brew Potion, caster level 5th.",
     "benefit": "When you brew a potion, you can have the potion’s effects be delayed by up to 10 rounds after a creature consumes it. Once you decide how many rounds the potion’s effects will be delayed by, that decision cannot later be changed. When a delayed potion is imbibed, it has no effect for the chosen number of rounds, and then it affects the imbiber as normal. The rounds in which the potion’s effects are delayed do not count against the duration of the potion’s effect. A spell brewed into a potion this way does not use up a higher-level spell slot than the spell’s actual level.",
-    "prerequisiteKeys": ["brew potion"]
+    "prerequisiteKeys": ["brew potion"],
+    "name_zh": "延迟药水",
+    "text_zh": "你可以制造出稍微延迟一些生效的药剂",
+    "prerequisites_zh": "制造药水，施法者等级5级。",
+    "benefit_zh": "当你制造一份药水时，你可以让药水的效果在被一名生物服用后延迟最多10轮生效。一旦你决定了这个药水会延时多少轮生效，该决定就无法更改。当一份延时药水被喝下，它会在选定的轮数内不生效，但是之后就会对喝下的人如常生效。药水延迟生效的轮数不计入药水效果的持续时间内。制造进药水的法术不会因此需要占用比法术本身更高环境的法术位。"
 }

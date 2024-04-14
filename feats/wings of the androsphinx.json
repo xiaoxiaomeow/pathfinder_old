@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "combat expertise",
         "improved reposition"
-    ]
+    ],
+    "name_zh": "人面狮身之翼",
+    "text_zh": "你学会如何将敌人冲锋的动能重新导向。",
+    "prerequisites_zh": "智力13，寓守于攻，精通移位，BAB+1或武僧等级1。",
+    "benefit_zh": "你针对冲锋攻击在AC上获得+2加值。当某生物冲锋你但攻击失误，你可以直觉动作尝试1次移位战技来移位该敌人。若你用准备动作来攻击冲锋你的生物，你可在进行攻击后以自由动作在敌人结算他的冲锋攻击以前尝试移位之。"
 }

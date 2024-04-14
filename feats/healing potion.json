@@ -6,5 +6,9 @@
     "text": "You can infuse a healing spell into a potion that produces a different effect.",
     "prerequisites": "Brew Potion, ability to cast <i>cure serious wounds<\/i>.",
     "benefit": "When you brew a potion, you can add the effects of one of the following spells to the potion’s effects: <i>cure light wounds<\/i>, <i>cure moderate wounds<\/i>, or <i>cure serious wounds<\/i>. When imbibed, the potion has the effect of both the chosen cure spell and the spell used to brew the potion. When brewing the potion, you must expend both spells as though you were creating two separate potions. Due to the intricacies of making such a carefully blended potion, you must use particularly fine and rare ingredients, meaning you must pay twice the cost of creating each potion separately. The combined spell levels of the cure spell and the other spell used in the potion must be level 3 or less (for example, you could combine <i>cure light wounds<\/i> with a 2nd-level spell to create a healing potion, or <i>cure moderate wounds<\/i> with a 1st-level spell, or <i>cure serious wounds<\/i> with a 0-level spell).",
-    "prerequisiteKeys": ["brew potion"]
+    "prerequisiteKeys": ["brew potion"],
+    "name_zh": "治疗药水",
+    "text_zh": "你可以将一个治疗法术混合进一瓶药水中产生不一样的效果。",
+    "prerequisites_zh": "制造药水，可以施展治疗重伤。",
+    "benefit_zh": "当年你制造一瓶药水时，你可以将以下一个法术的效果加进药水效果中：治疗轻伤，治疗中伤，治疗重伤。当喝下这份药剂时，选择的治疗法术和用来制造药水的原法术都会生效。在制造药水时，你必须同时花费两个法术，如同制造了了两份独立的药水。由于制作这种精心调配药水的复杂性，必须使用特别精细和罕见的成分，意味着你必须分别为两瓶独立药水都支付双倍成本。治疗法术和另一个法术的合计法术等级必须是3级或者更低（举个例子，你可以合并治疗轻伤和一个2环法术来制造一瓶治愈药剂，或者治疗中伤和一个1环法书，或者治疗重伤和一个0环法术）。"
 }

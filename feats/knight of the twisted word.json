@@ -7,5 +7,9 @@
     "text": "You’ve so impressed the Traitor that he’s given you a title in his court-in-exile—possibly to keep an eye on you.",
     "prerequisites": "Fey creature type or Fey Obedience (Count Ranalc), character level 7th, you must have betrayed or deceived in a major fashion a demon with a CR at least 2 higher than your level when you took the feat.",
     "benefit": "Once per day, you can cast <i>glibness<\/i> as a spell-like ability with a caster level equal to your Hit Dice.",
-    "prerequisiteKeys": ["fey obedience"]
+    "prerequisiteKeys": ["fey obedience"],
+    "name_zh": "曲言骑士",
+    "text_zh": "你给背叛者者留下了深刻的印象，或许是为了监视你，他在放逐者法庭给了你一个头衔。",
+    "prerequisites_zh": "精类或精类服从仪式（莱诺克伯爵），角色等级7级，选择此专长时你必须背叛或欺骗过一个CR至少比你等级高2的恶魔。",
+    "benefit_zh": "每日一次，你可以将花言巧语作为类法能力使用，施法等级如同你的HD。"
 }

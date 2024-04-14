@@ -11,5 +11,9 @@
         "improved grapple",
         "improved unarmed strike",
         "tatzlwyrm claw style"
-    ]
+    ],
+    "name_zh": "泰兹瑞亚龙擒抱者",
+    "text_zh": "你可以扭动自己的身躯让难以被擒抱。",
+    "prerequisites_zh": "敏捷13，精通擒抱，精通徒手打击，泰兹瑞亚龙爪击流，逃脱3级。",
+    "benefit_zh": "当你使用泰兹瑞亚龙流时，每当对手试图对你进行擒抱时，你可以尝试一个逃脱检定。如果结果高于你的CMD，你可以用这个结果来代替你的CMD对抗这次战技检定。你必须注意到攻击且不处于措手不及。"
 }

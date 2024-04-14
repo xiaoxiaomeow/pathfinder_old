@@ -9,5 +9,9 @@
     "source": ["Psychic Anthology pg. 17"],
     "text": "Your stare dulls your foe’s reactions.",
     "prerequisites": "Mesmerist level 5th, painful stare class feature.",
-    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or lose its Dexterity modifier to AC for 1 round."
+    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or lose its Dexterity modifier to AC for 1 round.",
+    "name_zh": "烦扰注视",
+    "text_zh": "你的注视令你的敌人行动呆滞。",
+    "prerequisites_zh": "催眠师5级，痛苦注视职业特性。",
+    "benefit_zh": "当你使用痛苦注视时，目标必须通过一次意志豁免（DC等于10+你的催眠师等级的一半+你的魅力调整值），失败则在1轮中失去AC上的敏捷加值。"
 }

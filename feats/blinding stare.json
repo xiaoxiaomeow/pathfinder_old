@@ -9,5 +9,9 @@
     "source": ["Psychic Anthology pg. 16"],
     "text": "Your stare robs your foe of all sight.",
     "prerequisites": "Mesmerist level 7th, painful stare class feature.",
-    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or be blinded for 1 round."
+    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + half your mesmerist level + your Charisma modifier) or be blinded for 1 round.",
+    "name_zh": "致盲注视",
+    "text_zh": "你的注视夺去了你的敌人全部的视野。",
+    "prerequisites_zh": "催眠师7级，痛苦注视职业特性。",
+    "benefit_zh": "当你使用痛苦注视时，目标必须通过一次意志豁免（DC等于10+你的催眠师等级的一半+你的魅力调整值），失败则目盲（Blinded）1轮。"
 }

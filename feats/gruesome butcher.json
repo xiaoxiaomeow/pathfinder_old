@@ -9,5 +9,11 @@
     "benefit": "Select a particular nation, organization, or humanoid subtype (such as Cheliax, Eagle Knights, or goblinoids). You gain a +4 bonus on Sense Motive checks to determine whether a given creature is affiliated with that group and a +4 bonus on Bluff and Diplomacy checks to conceal your animosity toward members of that group.",
     "special": "By meeting the goal of this feat, your name becomes known to your enemy. Creatures of your chosen enemy faction gain a +1 morale bonus on attack and damage rolls against you should they become aware of your identity with a successful Knowledge (local) check (DC = 10 + your character level).",
     "goal": "Deliver the killing blow to a number of your hated foes whose combined Hit Dice total is equal to 10 × your current character level.",
-    "completionBenefit": "You gain a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against foes of your selected type, and a +2 bonus on weapon attack and damage rolls against them. These bonuses stack with a ranger’s favored enemy bonuses."
+    "completionBenefit": "You gain a +2 bonus on Bluff, Knowledge, Perception, Sense Motive, and Survival checks against foes of your selected type, and a +2 bonus on weapon attack and damage rolls against them. These bonuses stack with a ranger’s favored enemy bonuses.",
+    "name_zh": "恐怖屠夫",
+    "text_zh": "你因为个人原因致力于屠杀特定的团体或人们，无论是为了国家，复仇，也可能只是为了愉悦。",
+    "prerequisites_zh": "你必须曾经在一场两军交战的战场上失去意识且濒死，或拥有“儿童士兵”或“征招入伍”角色背景。",
+    "benefit_zh": "选择一个特定的国家，组织或类人生物 (例如切利亚斯，雄鹰骑士，或是地精)。你在确认一名生物是否隶属于该类型成员时的察言观色检定上获得+4加值，并且在隐藏你对该类型成员的敌意时的唬骗和交涉检定上获得+4加值。",
+    "goal_zh": "对你所仇恨的敌人带来噩梦般的杀戮，击杀类型成员的总HD要达到10 ×你的角色等级。",
+    "completionBenefit_zh": "你在针对在你所选择的类型成员上的唬骗,，知识，察觉，察言观色和生存检定上获得+2加值，且在针对该类型成员的攻击和伤害检定也+2。此加值与游侠的宿敌加值叠加。.<\/p><p>特殊备注：透过完成这个专长，你的名字会被你的敌人熟知。在他们透过成功的知识(地方) 检定 (DC = 10 +你的角色等级)认出你的身份时，你所选择类型成员的敌人在对抗你的攻击和伤害检定上获得+1士气加值。"
 }

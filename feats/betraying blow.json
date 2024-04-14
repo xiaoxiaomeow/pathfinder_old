@@ -7,5 +7,9 @@
     "text": "When you break an alliance, you make sure it’s broken for good.",
     "prerequisites": "Solo Maneuvers, base attack bonus +8.",
     "benefit": "Whenever you use a melee attack to deal nonlethal damage to a creature that only you threaten, roll a Bluff check opposed by your opponent’s Sense Motive check. You deal an additional amount of nonlethal damage equal to 1/2 the difference between your Bluff check and your opponent’s Sense Motive check (minimum 0). If your opponent has an attitude of friendly or helpful toward you (including temporarily due to Intimidate checks, <i>charm person<\/i>, and similar effects), you instead deal an amount of extra nonlethal damage equal to the difference between your checks. Regardless, the amount of extra nonlethal damage you deal with this feat cannot exceed your Hit Dice.",
-    "prerequisiteKeys": ["solo maneuvers"]
+    "prerequisiteKeys": ["solo maneuvers"],
+    "name_zh": "叛逆打击",
+    "text_zh": "当你打破任何同盟之时，你心知此举是为了一劳永逸。",
+    "prerequisites_zh": "孤狼独舞, BAB+8。",
+    "benefit_zh": "无论何时当你通过近战攻击对仅被你威胁的目标造成非致命伤害时。 骰唬骗检定对抗目标的察言观色检定。 你额外造成等同于你唬骗检定和目标察言观色检定之差的1/2的非致命伤害（最小为0）。 如果你的目标对你的态度为友好或乐于帮助（包括因为威吓检定, 魅惑人类或其他类似效果造成暂时状态）, 你会额外造成造成等同于你唬骗检定和目标察言观色检定之差的的非致命伤害（最小为0）取而代之。无论如何,由本专长造成的额外非致命伤害不能超过你的HD。"
 }

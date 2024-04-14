@@ -7,5 +7,10 @@
     "text": "With a single curse, you make your rival less fearsome in combat.",
     "prerequisites": "Int 13, base attack bonus +6, Use Magic Device 1 rank.",
     "benefit": "As a standard action, you can curse the accuracy of an enemy you have dealt damage to in the last minute. The target must succeed at a Fortitude save or it automatically fails to confirm all critical threats. This effect lasts for 1 round.",
-    "special": "If a shaman or witch uses this blood hex, the target is unable to deal precision damage or sneak attack damage for the hex’s duration."
+    "special": "If a shaman or witch uses this blood hex, the target is unable to deal precision damage or sneak attack damage for the hex’s duration.",
+    "name_zh": "钝刃",
+    "text_zh": "你用一次诅咒让你的对手在战斗中变得不再可怕。",
+    "prerequisites_zh": "智力13，基础攻击加值+6，使用魔法装置1级。",
+    "benefit_zh": "以一个标准动作，你诅咒一个你在上一分钟内曾对其造成过伤害的敌人，让他的精准度下降。目标必须通过一个成功的强韧检定，否则他会在确认所有重击威胁时自动失败。该效果持续一轮。",
+    "special_zh": "如果一个萨满或女巫使用这个血巫术，目标在巫术持续时间内也不能造成精准伤害或偷袭攻击伤害。"
 }

@@ -11,5 +11,10 @@
     "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 3 ranks, Swim 3 ranks.",
     "benefit": "Your unarmed strikes deal normal damage underwater, and you don’t take penalties on attack rolls with unarmed strikes made underwater. You add your Wisdom modifier in addition to your Strength modifier on Swim checks.",
     "normal": "Attacks with bludgeoning weapons (such as unarmed strikes) deal half damage and take a –2 penalty on attack rolls underwater.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "梭鱼流",
+    "text_zh": "你学会了一种由流畅与循环的动作构成的战斗架势，它擅于在水下移动和战斗。",
+    "prerequisites_zh": "感知 13，精通徒手击打，特技3级，游泳3级。",
+    "benefit_zh": "你的徒手打击在水下造成正常伤害，你在水下进行徒手打击时不会受到减值。除了力量修正外你还将感知修正加到在游泳检定上。",
+    "normal_zh": "造成钝击伤害的武器攻击(如徒手打击)仅造成一半伤害且在水下战斗的攻击检定上受到-2减值。"
 }

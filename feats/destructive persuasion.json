@@ -7,5 +7,9 @@
     "text": "Sometimes, you have to break things if you want people to get your point.",
     "prerequisites": "Str 13, Power Attack, Intimidate 1 rank.",
     "benefit": "As a standard action, you can attempt to smash an unattended inanimate object while attempting an Intimidate check (see Smashing an Object, <i>Pathfinder RPG Core Rulebook<\/i> 173). If you break the object, you gain a bonus to the Intimidate check equal to half its hardness (minimum +1). If you destroy the object, the bonus is equal to its hardness (minimum +1). Creatures intimidated by this feat cannot be affected by it again for 24 hours.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "毁灭劝服",
+    "text_zh": "有时候你得打碎点什么才能让别人明白你的意思。",
+    "prerequisites_zh": "力量13，猛力攻击，威吓1级。",
+    "benefit_zh": "你可以标准动作在尝试威吓检定的同时粉碎一个无主的无生命物品。若你破坏了这件物品，你的威吓检定获得“1/2物品硬度”的加值（最少+1）。若你粉碎了这间物品，加值为“物品硬度”。被该专长惊吓的生物在24小时内不再受该专长影响。"
 }

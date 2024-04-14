@@ -9,5 +9,9 @@
     "prerequisiteKeys":     [
         "bodyguard",
         "combat reflexes"
-    ]
+    ],
+    "name_zh": "巢穴守卫者",
+    "text_zh": "当某人在你的保护之下被袭击时，你立刻反抗攻击者。",
+    "prerequisites_zh": "保镖，战斗反射，翼龙人。",
+    "benefit_zh": "如果一个盟友在这轮通过你成功地使用援助他人提高AC之后，躲过了敌人的攻击，你可以尝试以直觉动作进行一次威吓检定来挫败这个敌人的士气。"
 }

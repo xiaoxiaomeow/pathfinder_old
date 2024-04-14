@@ -5,5 +5,9 @@
     "source": ["Heroes of Golarion pg. 6"],
     "text": "You can absorb magic items to gain a boost in power.",
     "prerequisites": "Spellcraft 3 ranks, wyrwood.",
-    "benefit": "Once per day as a full-round action, you can consume a single magical item in your possession. The item is destroyed upon consumption, but you regain 1d6 hit points + 1 additional hit point per caster level of the item. You also gain a +1 bonus on attack and damage rolls for a number of rounds equal to the caster level of the item."
+    "benefit": "Once per day as a full-round action, you can consume a single magical item in your possession. The item is destroyed upon consumption, but you regain 1d6 hit points + 1 additional hit point per caster level of the item. You also gain a +1 bonus on attack and damage rolls for a number of rounds equal to the caster level of the item.",
+    "name_zh": "竭耗力量",
+    "text_zh": "你可以同化魔法物品来增强力量。",
+    "prerequisites_zh": "法术辨识3级，汲魂木。",
+    "benefit_zh": "每日一次以整轮动作，你可以竭耗一件你拥有的魔法物品。该物品因此被摧毁，但你恢复1D6+该物品每施法者等级1点生命值。并且，你在攻击与伤害骰上获得+1加值，持续轮数等于物品的施法者等级。"
 }

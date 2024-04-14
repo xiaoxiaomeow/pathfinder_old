@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "arcane strike",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "魔力心脏",
+    "text_zh": "集中注意力，你的魔法攻击便能强化你的艾恩心脏。",
+    "prerequisites_zh": "奥术打击，精通徒手打击，汲魂木。",
+    "benefit_zh": "当你以徒手打击发挥奥术打击时，成功命中的徒手打击也会赋予你临时生命，数值等同于奥术打击造成的额外伤害。"
 }

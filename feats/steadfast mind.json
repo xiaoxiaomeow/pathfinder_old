@@ -6,5 +6,9 @@
     "text": "You can concentrate even in the direst circumstances, and know how to retain your magic even when it would otherwise be wasted.",
     "prerequisites": "Cha 15, Int 15, or Wis 15 (see special).",
     "benefit": "Whenever you fail a concentration check while casting defensively and would normally lose a prepared spell or spell slot, you may attempt a Will save (DC = 15 + spell level) to retain the spell as though you had not attempted to cast it. The failed concentration check still results in the spell’s failure, even if the spell is retained.",
-    "special": "To gain the benefits of this feat, you must meet the prerequisite that matches the ability score you use to determine your save DCs, bonus spells per day, and ability to cast spells of a given level. If you gain spells from multiple classes, you must meet the prerequisite ability score for each class to gain the benefits of this feat when casting spells from that class’s spell list."
+    "special": "To gain the benefits of this feat, you must meet the prerequisite that matches the ability score you use to determine your save DCs, bonus spells per day, and ability to cast spells of a given level. If you gain spells from multiple classes, you must meet the prerequisite ability score for each class to gain the benefits of this feat when casting spells from that class’s spell list.",
+    "name_zh": "魔法回收",
+    "text_zh": "甚至在极端情况下你也可以集中注意力，甚至知道如何收回你行将溃散的魔法。",
+    "prerequisites_zh": "魅力15、智力15或者感知15（视特殊情况而定）。",
+    "benefit_zh": "无论何时，当你在一次防御式施法中的专注检定失败时，通常你会失去这一法术。你可以尝试一次意志豁免（DC = 15 + 施法者等级）来保留住这个法术就像你从来没有试着释放它一样。即使该法术被保留，失败的专注检定仍然导致该法术的失败。<\/p><p>特别说明：要获得这一专长的好处，你必须能用属性决定DC，获得每日奖励法术，拥有释放该法术的环位。如果你从多个职业中获得施法能力，你使用该职业法术列表中的法术时，以各自职业的施法属性来获得专长效果。"
 }

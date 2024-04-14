@@ -10,5 +10,9 @@
     "text": "You can sense the thoughts of others, allowing you to predict their movements.",
     "prerequisites": "Improved Unarmed Strike, Sense Motive 3 ranks.",
     "benefit": "When using this style, you can attempt a Sense Motive check (DC = 15 + CR of target) as a move action against a creature with an Intelligence score of 3 or higher. If you succeed, you gain a +1 dodge bonus to your AC against attacks from the target creature until you are no longer using this style. You can have this bonus against only one creature at a time: if you succeed at this Sense Motive check against another creature, you lose the bonus against the first creature. This bonus increases to +2 when you have 8 ranks in Sense Motive, and to +3 when you have 13 ranks in Sense Motive.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "噬心流",
+    "text_zh": "你能感知其他人的思想并预判他们的动作。",
+    "prerequisites_zh": "精通徒手击打，察言观色3级。",
+    "benefit_zh": "当使用此流派时，你可以用一个移动动作尝试对一个智力为3或更高的生物进行察言观色检定(DC=15+目标的CR)。如果你成功了，你对目标生物的攻击获得AC+1的闪避加值，直到你不再使用此流派。你同时只能对一个生物保存这个加值：如果你对另一个生物的察言观色成功，你将失去对第一个生物的奖励。当你的察言观色等级达到8级时，这个加值增加到+2，当你的察言观色等级达到13级时，这个加值增加到+3。"
 }

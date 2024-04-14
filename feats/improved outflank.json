@@ -11,5 +11,10 @@
     "prerequisites": "Outflank, base attack bonus +6.",
     "benefit": "Whenever you and an ally who also has this feat are threatening the same foe, you are considered to be flanking that foe if you are adjacent to an unoccupied square from which you would be able to flank the foe with your ally.",
     "normal": "You must be positioned opposite an ally to flank an opponent.",
-    "prerequisiteKeys": ["outflank"]
+    "prerequisiteKeys": ["outflank"],
+    "name_zh": "精通包抄",
+    "text_zh": "你能轻而易举地找到敌人防御的薄弱之处。",
+    "prerequisites_zh": "包抄，BAB+6。",
+    "benefit_zh": "当你和一名同样拥有这个专长的盟友威胁同一个敌人时，若你邻接一个没有被占据的方格，并且你身处该方格时可以与该名盟友形成夹击，那么你视作夹击这名敌人。",
+    "normal_zh": "你必须处于盟友的正对角来夹击一名对手。"
 }

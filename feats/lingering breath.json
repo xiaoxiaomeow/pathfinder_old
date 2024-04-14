@@ -5,5 +5,9 @@
     "source": ["Chronicle of Legends pg. 9"],
     "text": "Your powerful draconic breath coats the battlefield.",
     "prerequisites": "Dragon disciple level 3rd.",
-    "benefit": "A creature that fails its save against your breath weapon is covered in a clinging effect that deals a number of points of damage equal to 1d6 × the number of times per day you can use your breath weapon. This lingering damage is of the same energy type as your breath weapon. The lingering breath effect remains for a number of rounds equal to your dragon disciple level, but in each subsequent round, a creature can spend a standard action to attempt another save against your breath weapon DC to remove the effect."
+    "benefit": "A creature that fails its save against your breath weapon is covered in a clinging effect that deals a number of points of damage equal to 1d6 × the number of times per day you can use your breath weapon. This lingering damage is of the same energy type as your breath weapon. The lingering breath effect remains for a number of rounds equal to your dragon disciple level, but in each subsequent round, a creature can spend a standard action to attempt another save against your breath weapon DC to remove the effect.",
+    "name_zh": "龙息延续",
+    "text_zh": "你强大的龙息复盖着战场。",
+    "prerequisites_zh": "龙脉术士3级。",
+    "benefit_zh": "在对抗你的龙息时豁免检定失败的生物，将被附着性的效果笼罩，每轮受到「1d6×你每天可使用龙息的次数」点伤害。延续龙息的效果持续等同「你龙脉术士等级」轮，但过程中的每一轮，受此效果的生物皆可用一个标准动作重新进行豁免检定（对抗你的龙息DC）来移除此效果。"
 }

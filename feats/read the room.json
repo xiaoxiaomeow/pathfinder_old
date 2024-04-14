@@ -6,5 +6,9 @@
     "text": "You can gain some insight into the mood of a crowd with just a look.",
     "prerequisites": "Drunken Sing-Along, Diplomacy 1 rank, Performance (sing) 1 rank, Sense Motive 1 rank.",
     "benefit": "Before you use the Drunken Sing-Along feat, you can attempt a DC 20 Sense Motive check as a free action to pick the exact right song for that crowd. If you are successful, you gain a +4 circumstance bonus on your next Diplomacy check to gather information in that tavern.",
-    "prerequisiteKeys": ["drunken sing-along"]
+    "prerequisiteKeys": ["drunken sing-along"],
+    "name_zh": "阅读空气",
+    "text_zh": "你瞥一眼就能读出对人群的氛围。 ",
+    "prerequisites_zh": "对酒当歌，交涉1级，表演（演唱）1级，察言观色1级。",
+    "benefit_zh": "在你使用祝酒歌之前，你可以以一个自由动作尝试一次DC20的察言观色鉴定来为这些人群选择一个合适的歌曲。如果你成功了，你在接下来在这个酒馆获取信息时获得+4的环境加值。"
 }

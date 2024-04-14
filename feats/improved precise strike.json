@@ -10,5 +10,9 @@
     "text": "Your precise timing and smooth teamwork allow you to strike a foe where it hurts.",
     "prerequisites": "Dex 13, Precise Strike, base attack bonus +4.",
     "benefit": "Whenever you deal additional damage with Precise Strike, you also deal 1 point of bleed damage. This bleed damage does not stack with itself.",
-    "prerequisiteKeys": ["precise strike"]
+    "prerequisiteKeys": ["precise strike"],
+    "name_zh": "精通精淮打击",
+    "text_zh": "你对于时间的精淮把控和娴熟的团队合作让你能够痛击敌人的伤处。",
+    "prerequisites_zh": "敏捷13，精淮打击，BAB+4。",
+    "benefit_zh": "当你通过精淮打击造成额外伤害时，你会同时造成1点流血伤害。这个流血伤害不会与自身叠加。"
 }

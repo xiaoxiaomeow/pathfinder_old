@@ -7,5 +7,9 @@
     "text": "The poison that drips from your fangs is potent enough to burn through flesh and wood.",
     "prerequisites": "Spit Venom, nagaji.",
     "benefit": "Your ability to spit poison granted by the Spit Venom feat deals 1d6 points of acid damage plus an additional 1d6 points of acid damage for every 3 Hit Dice you have, in addition to all other effects. This additional damage affects creatures even if they are immune to poison or succeed at their Fortitude saving throws. In addition, you gain one additional use per day of the ability to spit poison granted by the Spit Venom feat.",
-    "prerequisiteKeys": ["spit venom"]
+    "prerequisiteKeys": ["spit venom"],
+    "name_zh": "致命毒液",
+    "text_zh": "从你尖牙中滴落的毒液足以烧穿肉身与树木。",
+    "prerequisites_zh": "喷毒，娜迦裔。",
+    "benefit_zh": "你在使用喷毒专长喷射毒素时，在所有效果之外额外造成1d6点强酸伤害，每拥有3个HD额外增加1d6点强酸伤害。即使生物免疫毒素或者成功通过豁免，强酸伤害仍然对其有效。此外，你获得每天额外一次的喷毒专长的使用次数。"
 }

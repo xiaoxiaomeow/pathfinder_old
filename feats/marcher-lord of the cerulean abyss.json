@@ -7,5 +7,9 @@
     "text": "You’ve made your case to become one of Ragadahn’s nobles in the traditional way—by carving your sigil and the Water Lord’s ouroboros in the flesh of a living dragon or of another massive monstrosity—and earned some of his might as a reward.",
     "prerequisites": "Fey creature type or Fey Obedience (Ragadahn), you must have carved your name and Ragadahn's holy symbol on the hide of a living dragon or outsider with either the aquatic or water subtype and a CR at least 2 higher than your level when you took the feat.",
     "benefit": "You claim ownership of that which you strike. If you have dealt hit point damage to a creature this round, that creature takes a –2 penalty on combat maneuver checks and to its CMD until the beginning of your next round.",
-    "prerequisiteKeys": ["fey obedience"]
+    "prerequisiteKeys": ["fey obedience"],
+    "name_zh": "蔚蓝深渊的边境领主",
+    "text_zh": "你以传统的方式成为了拉格达恩的贵族之一——在一条活着的龙或巨怪身上刻上你和水之主的印记，并取得了他的力量作为奖励。",
+    "prerequisites_zh": "精类或精类服从仪式（拉格达恩），选择此专长时你必须在一只CR至少比你等级高2的活着的龙或水栖及水系亚种的异界生物的皮肤上刻上你的名字和拉格达恩的圣徽。",
+    "benefit_zh": "你对所击中者宣称具有所有权。若你在本轮中对一个生物造成伤害，则该生物在战技检定及CMD上受到-2减值，直到你下一轮开始时。"
 }

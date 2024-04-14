@@ -5,5 +5,9 @@
     "source": ["Distant Realms pg. 33"],
     "text": "You can target an unconscious ally to gain additional benefit from your channeled energy.",
     "prerequisites": "Channel energy 3d6.",
-    "benefit": "When you use channel energy, you can focus on one creature within range that would be healed by your channel energy whose hit points are below 0. When you do so, no other creatures are healed, but the target creature is restored to 0 hit points before the normal healing takes effect."
+    "benefit": "When you use channel energy, you can focus on one creature within range that would be healed by your channel energy whose hit points are below 0. When you do so, no other creatures are healed, but the target creature is restored to 0 hit points before the normal healing takes effect.",
+    "name_zh": "复兴导能",
+    "text_zh": "你可以通过聚焦来让失去意识的盟友从你引导的能量中获得额外的好处。",
+    "prerequisites_zh": "引导能量3d6。",
+    "benefit_zh": "当你引导能量时，你可以选择聚焦于范围内一个生命值在0以下的，能被你所引导的能量所治愈的生物。当你这么做时，其他范围内的生物都不会受到治疗，而被聚焦的生物在正常接受治疗效果影响之前生命值首先恢复到0。"
 }

@@ -6,5 +6,9 @@
     "source": ["Legacy of the First World pg. 23"],
     "text": "You can make a spell explode around you, leaving a safe zone for yourself at the center of the blast.",
     "prerequisites": "Spellcraft 3 ranks.",
-    "benefit": "You can center the area of a spell with an area effect and duration of instantaneous on you, and exclude yourself from the effects of the spell. Your familiar (if any) is also excluded from the effect, provided that it is in your square and at least one size category smaller than you.<br><br> A centered spell does not use up a higher-level spell slot than the spell’s actual level."
+    "benefit": "You can center the area of a spell with an area effect and duration of instantaneous on you, and exclude yourself from the effects of the spell. Your familiar (if any) is also excluded from the effect, provided that it is in your square and at least one size category smaller than you.<br><br> A centered spell does not use up a higher-level spell slot than the spell’s actual level.",
+    "name_zh": "中空法术",
+    "text_zh": "你可以让法术在你身边爆发，而在法术的中心为你自己留出一个安全的区域。",
+    "prerequisites_zh": "法术辨识3级。",
+    "benefit_zh": "你可以将自己当做一个持续时间为立即拥有范围效果的法术的范围的中心，并将你自己排除在法术效果之外。你的魔宠（如果有）也会被排除在法术的效果外，只要它位于你的方格，并且体型至少比你小1级。中空法术不会占用比法术的实际环级高的法术位。"
 }

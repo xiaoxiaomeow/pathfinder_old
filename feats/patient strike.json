@@ -7,5 +7,10 @@
     "text": "Your training under the Master of Swords has taught you that a well-timed strike is worth waiting for and that patience will serve you well in the long run.",
     "prerequisites": "Int 13.",
     "benefit": "You can choose to ready an attack as a fullround action instead of a standard action. When you do so, you gain a +2 bonus on your attack roll when your readied action triggers.",
-    "normal": "Readying an attack is a standard action and doesn’t grant a bonus on your attack roll."
+    "normal": "Readying an attack is a standard action and doesn’t grant a bonus on your attack roll.",
+    "name_zh": "蓄势待发",
+    "text_zh": "你受训于剑术大师的经历告诉你：为了一次恰到好处的打击，等待是值得的，而这种耐心会使你受益终生。",
+    "prerequisites_zh": "智力13。",
+    "benefit_zh": "你可以以一个整轮动作而非一次标准动作进行一次准备攻击。如果你这样做，在准备动作触发时，你获得+2的攻击加值。",
+    "normal_zh": "以准备动作进行攻击是一次标准动作，而且不会在攻击骰获得任何加值。"
 }

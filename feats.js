@@ -189,7 +189,7 @@ function loadUrlFeat() {
         console.log(error);
     });
 }
-function addBoxes(dict, element, array, nonempty = false, check = true, sort = true) {
+function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, extra = null) {
     let boxAll = document.createElement("div");
     boxAll.style = "display: flex; ";
     let checkboxAll = document.createElement("input");
@@ -245,6 +245,28 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
         element.appendChild(box);
     }
 
+    let extraKeys;
+    if (sort) {
+        extraKeys = Object.keys(extra);
+        extraKeys.sort();
+    } else {
+        extraKeys = extra;
+    }
+    for (i in extraKeys) {
+        let box = document.createElement("div");
+        box.style = "display: flex; ";
+        let checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.name = extraKeys[i];
+        checkbox.checked = check;
+        box.appendChild(checkbox);
+        array.push(checkbox);
+        let label = document.createElement("div");
+        label.innerHTML = sort ? extra[extraKeys[i]] : extraKeys[i];
+        box.appendChild(label);
+        element.appendChild(box);
+    }
+
 }
 var descriptorsBoxes = [];
 var sourceBoxes = [];
@@ -264,7 +286,19 @@ function loadTransAndSearchElements () {
 		}
         translations = JSON.parse(text);
 
-        addBoxes(translations.featDescriptorsTranslations, document.getElementById("descriptors"), descriptorsBoxes);
+		let commonDescriptors = ["Combat", "Critical", "Item Creation", "Metamagic", "Monster", "Style", "Teamwork"];
+		let commonDescriptorTrans = {};
+		let uncommonDescriptorTrans = {};
+		for (key in translations.featDescriptorsTranslations) {
+			uncommonDescriptorTrans[key] = translations.featDescriptorsTranslations[key];
+		}
+		for (i in commonDescriptors) {
+			let key = commonDescriptors[i];
+			commonDescriptorTrans[key] = uncommonDescriptorTrans[key];
+			delete uncommonDescriptorTrans[key];
+		}
+
+        addBoxes(commonDescriptorTrans, document.getElementById("descriptors"), descriptorsBoxes, false, true, true, uncommonDescriptorTrans);
 		addBoxes(["CRB", "APG", "ARG", "ACG", "UM", "UC", "UI", "OA"], document.getElementById("source"), sourceBoxes, true, true, false);
 		addBoxes(["Bst", "UCa", "MA", "MC", "Uch", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source2"), source2Boxes, true, true, false);
     }).catch(error => {
@@ -358,7 +392,9 @@ function featLegal (ft) {
 
 	let source_legal = sourceLegal(ft);
 
-	let legal = (name != "" && name_legal) || (name == "" && descriptors_legal && source_legal);
+	let en_legal = (!document.getElementById("en").checked) || ft["name_zh"] == null;
+
+	let legal = (name != "" && name_legal) || (name == "" && descriptors_legal && source_legal && en_legal);
 	return legal;
 }
 function populateFeat (ft, table, indent, gray) {

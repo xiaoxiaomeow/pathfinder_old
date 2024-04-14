@@ -6,5 +6,10 @@
     "text": "You accept a creed to guide your destiny toward good.",
     "prerequisites": "You must be good.",
     "benefit": "Select one of the following virtues. You must adhere to that virtue’s creed in order to benefit from its bonus. If you break any part of the creed, you are unable to gain the benefits from that virtue for 24 hours. Significant violations require <i>atonement <\/i>for you to be able to benefit from this feat again.",
-    "special": "You can gain this feat multiple times. Each time you take this feat, you must choose a new virtue."
+    "special": "You can gain this feat multiple times. Each time you take this feat, you must choose a new virtue.",
+    "name_zh": "美德信条",
+    "text_zh": "该信条在你向善的命运中指引着你。",
+    "prerequisites_zh": "你必须是善良阵营。",
+    "benefit_zh": "在下列美德中选择一个。你必须遵守该美德的信条，并得到相应奖励。如果你打破了该美德的任一信条，你将失去该美德所赋予的奖励24小时。严重地违反则只有通过赎罪术atonement才能使你重新受益于该专长。",
+    "special_zh": "你可以多次选择该专长。每次选择该专长时，你必须选择一个新的美德。<\/p><p><h4>谦虚 Humility<\/h4><\/p><p><b>信条<\/b>：你必须对他人保持尊重。你必须在群体生活中优先满足他人而不是自己。你必须在你的穿着和行为上保守。你必须谨慎不要因自己的财富和成就而自满和炫耀。<br><b>效果<\/b>：你可以将你的感知调整值和魅力调整值同时添加到交涉技能检定上。<\/p><p><h4>勇气 Courage<\/h4><\/p><p><b>信条<\/b>：若他人有危险，你不能自主逃离战斗。在你的敌人面前，你不能流露出一丝胆怯。<br><b>效果<\/b>：当你处于战栗shaken时，若有其他效果会使你变得更加恐惧（即惊惧frightened和恐慌panicked），你在对抗这些效果时的意志豁免得到+3加值。<\/p><p><h4>自由 Freedom<\/h4><\/p><p><b>信条<\/b>：你必须时刻确保人们能以自己的意愿自由生活的道路畅通无阻。当你见到奴隶制时，你必须终结这种统治，打碎一切誓缚人民的锁链，无论是抽像的枷锁或是现实的镣铐。<br><b>效果<\/b>：一天一次，你可以重骰一次【魅惑】或【胁迫】效果的意志豁免，并且在重骰时得到+2加值。你必须在结果出来前宣布重骰。你必须接受重骰结果，哪怕它更糟。<\/p><p><h4>纯洁 Purity<\/h4><\/p><p><b>信条<\/b>：你必须克制你与不洁事物的联系，保持自己的无垢。你不能接触邪恶阵营的武器和生物。你必须支持洁净的食物，并且只摄取适当的准备好的食物，以此磨练身心。<br><b>效果<\/b>：你对抗疾病和毒素的所有豁免检定得到+2加值、额外的，你所中疾病和毒素的潜伏期（onset time）变为双倍。<\/p><p><h4>守护 Protection<\/h4><\/p><p><b>信条<\/b>：你必须在弱者面前挺身而出。你必须在有什么试图凌虐你的家园community时守护它。<br><b>效果<\/b>：当你使用援助他人aid another动作来给盟友带来AC加值时，这个加值由+2增加为+4.<\/p><p><h4>怜悯 Mercy<\/h4><\/p><p><b>信条<\/b>：你必须接受敌人的投降。当你的敌人在战斗中被击败时，你必须竭尽所能稳定他们的伤势。面对无辜，你不能给予他们过分的待遇。<br><b>效果<\/b>：当你使用武器造成瘀伤而不是致命伤时，你的攻击骰子不受到瘀伤惩罚。"
 }

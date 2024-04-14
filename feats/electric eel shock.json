@@ -11,5 +11,9 @@
         "electric eel style",
         "elemental fist",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "电鳗休克",
+    "text_zh": "电流的震荡使你的对手陷入恍惚。",
+    "prerequisites_zh": "感知15，电鳗流，元素之拳，精通徒手打击，BAB+11或武僧7级。",
+    "benefit_zh": "你每天获得一次额外的元素之拳次数。受到元素之拳的闪电伤害的生物必须通过强韧豁免检定（DC=10+1/2人物等级+感知修正）否则恍惚1轮。本效果也适用于受到电鳗导管专长的闪电伤害的生物。"
 }

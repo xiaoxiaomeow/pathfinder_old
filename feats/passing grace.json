@@ -5,5 +5,8 @@
     "descriptors": ["Teamwork"],
     "source": ["Distant Realms pg. 33"],
     "text": "Your bond with your allies allows you to share positive energy between yourselves.",
-    "benefit": "Whenever a healing spell or an effect would restore you to above your maximum hit points, you can redirect excess hit points to an adjacent ally who has this feat. This ability functions only for effects that require an action to activate—fast healing, regeneration, and other passive effects that restore hit points are not shared."
+    "benefit": "Whenever a healing spell or an effect would restore you to above your maximum hit points, you can redirect excess hit points to an adjacent ally who has this feat. This ability functions only for effects that require an action to activate—fast healing, regeneration, and other passive effects that restore hit points are not shared.",
+    "name_zh": "传递恩惠",
+    "text_zh": "你与你的盟友之间的联系使得在你们之间可以自由分享正能量。",
+    "benefit_zh": "每当一个治疗法术或者能力将你的生命恢复到最大值时，你可以将多余的生命值重新分配给邻接的另一个拥有此专长的盟友。这一专长仅适用于那些需要动作来激活的能力——快速痊愈、再生和其他类似的被动效果不会触发生命值的分享。"
 }

@@ -10,5 +10,9 @@
     "text": "You’re able to manipulate foes that are caught off guard.",
     "prerequisites": "Combat Expertise, Small size or smaller.",
     "benefit": "You gain a +4 bonus on combat maneuver checks against enemies denied their Dexterity bonus to AC.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "狗头人流",
+    "text_zh": "你可以控制措手不及的敌人。",
+    "prerequisites_zh": "寓守于攻，小体型或更小。",
+    "benefit_zh": "你对AC上失去敏捷加值的敌人的战技检定获得+4加值。"
 }

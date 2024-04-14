@@ -10,5 +10,9 @@
     "text": "You know how to duck and weave through small gaps in a foe’s defense to close the distance between yourself and your enemy.",
     "prerequisites": "Step Up, base attack bonus +1.",
     "benefit": "Once per round, when an opponent attacks you with a reach weapon, you can take a 5-foot step towards your opponent as an immediate action. If the movement takes you to a square that the opponent’s reach weapon does not threaten, you receive a +4 bonus to AC against that attack. If you take this step, you cannot take a 5-foot step during your next turn. If you take an action to move during your next turn, subtract 5 feet from your total available movement.",
-    "prerequisiteKeys": ["step up"]
+    "prerequisiteKeys": ["step up"],
+    "name_zh": "寻天流",
+    "text_zh": "你知道如何踏进敌人防御之中的间隙，以缩短你与敌人的距离。",
+    "prerequisites_zh": "快步跟进，BAB+1。",
+    "benefit_zh": "每轮一次，当敌人用长触及武器攻击你时，你可以以一个直觉动作朝他进行一个五尺快步。如果此次移动让你来到了一个敌人的长触及武器无法威胁的方格，那么你会在对抗这次攻击的AC上获得+4加值。如果你如此移动，那么你下一个回合无法进行五尺快步。如果你下一回合进行了移动，从你的总移动距离里面减去5尺。"
 }

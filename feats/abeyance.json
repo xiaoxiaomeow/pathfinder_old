@@ -7,5 +7,9 @@
     "text": "You can disrupt your opponent’s connection to its own magical power.",
     "prerequisites": "Int 13, Spellcraft 5 ranks, Use Magic Device 1 rank.",
     "benefit": "As a standard action, you can drain the innate magical ability of a creature you’ve dealt damage to with a metal weapon since the beginning of your last turn. That creature must succeed at a Will save or be unable to access any spell-like abilities it can use more than once per day, until it is healed of all hit point damage, or up to a maximum duration of 1 minute.",
-    "special": "If a shaman or witch uses this blood hex, the target is unable to use any of its spell-like abilities for the hex’s duration."
+    "special": "If a shaman or witch uses this blood hex, the target is unable to use any of its spell-like abilities for the hex’s duration.",
+    "name_zh": "暂停",
+    "prerequisites_zh": "智力13，法术辨识5级，使用魔法装置1级。",
+    "benefit_zh": "以一个标准动作，你选取一个自你上一轮开始以来被你用金属武器造成过伤害的敌人，你能吸取他内在的魔法能力。这个生物必须通过一个成功的意志豁免检定，否则会无法使用任何它原本可以每天使用超过一次的类法术能力，直到它身上所有的伤害都被治疗，或者直到1分钟的最大持续时间结束。",
+    "special_zh": "如果萨满或女巫使用该血巫术，目标在巫术持续时间内无法使用任何类法术能力。"
 }

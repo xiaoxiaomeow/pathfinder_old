@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "craft magic arms and armor",
         "gunsmithing"
-    ]
+    ],
+    "name_zh": "制造强化火器",
+    "text_zh": "你能制作出优异的火器。",
+    "prerequisites_zh": "制造魔法武器与防具；1级工艺（武器）或者枪匠专长。",
+    "benefit_zh": "当你制作火器或者魔法火器的时候，你能利用加强过的零件使这把武器更为可靠。该物品的总制作成本会因此增加10%，而这把武器的哑火值会减少1点。但这种方法永远无法使火器的哑火减少超过1点。"
 }

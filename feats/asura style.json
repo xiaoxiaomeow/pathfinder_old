@@ -10,5 +10,9 @@
     "text": "Blasphemy comes quite naturally to you. When you interrupt your foes’ divine spells, you use words, symbols, or gestures so abhorrent to their faith that they are repulsed by your deeds.",
     "prerequisites": "Wis 13, Improved Unarmed Strike, base attack bonus +5 or monk level 5th.",
     "benefit": "When you use a monk weapon or unarmed strike to attack a creature that is casting a divine spell, the target is sickened for 1d4 rounds. A target can attempt a Fortitude save (DC = 10 + half your character level + your Wisdom modifier) to reduce the duration of the sickened effect to 1 round.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "阿修罗之型",
+    "text_zh": "亵渎神灵是你的天性。当你打断敌方神术时，你用被其信仰厌弃的词汇、符文或手势，使得他们被你的行为所驱逐。",
+    "prerequisites_zh": "感知13，精通徒手打击，基础攻击加值+5或武僧5级。",
+    "benefit_zh": "当你使用一件武僧武器或徒手打击攻击一个正在施放神术的目标时，目标陷入恶心状态，持续1d4轮。目标可以尝试进行一次强韧检定（DC=10+1/2你的角色等级+感知调整值）将恶心状态的持续时间降低至1轮。"
 }

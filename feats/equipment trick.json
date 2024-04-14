@@ -13,5 +13,10 @@
     "text": "Choose a piece of equipment, such as an anvil, boots, a cloak, a heavy blade scabbard, a sunrod, or a wondrous item. You understand how to use that piece of equipment in combat.",
     "prerequisites": "Base attack bonus +1.",
     "benefit": "You can use any equipment trick related to the chosen item as long as you meet the trick’s prerequisites. If the item would normally be considered an improvised weapon, you can treat it as either a normal weapon or an improvised weapon, depending on which is more beneficial for you.",
-    "special": "You can gain Equipment Trick multiple times. Each time you take the feat, it applies to a new type of equipment."
+    "special": "You can gain Equipment Trick multiple times. Each time you take the feat, it applies to a new type of equipment.",
+    "name_zh": "装备技法",
+    "text_zh": "选择一件装备，如靴子、斗篷、重刃剑鞘、绳索或盾牌。你知道如何将这个物品运用在战斗中。",
+    "prerequisites_zh": "BAB+1。",
+    "benefit_zh": "只要满足对应的要求，你可以使用任何与该物品对应的<a href=\"pages/equipment_trick.html\">装备技法<\/a>，如果该物品通常被认为是临时武器，你可以随意将其视为正常武器或临时武器，视那种情况对你更有利而定。",
+    "special_zh": "你可以多次选择本专长。每次选择本专长时，选择一个新的装备技法。"
 }
