@@ -6,5 +6,9 @@
     "source": ["Dragonslayer's Handbook pg. 25"],
     "text": "You have been trained to fight flying creatures.",
     "prerequisites": "Base attack bonus +1.",
-    "benefit": "You gain a +2 circumstance bonus against flying opponents when you have set a weapon against a charge, or when you are allowed an attack of opportunity against the flying opponent."
+    "benefit": "You gain a +2 circumstance bonus against flying opponents when you have set a weapon against a charge, or when you are allowed an attack of opportunity against the flying opponent.",
+    "name_zh": "死自下现",
+    "text_zh": "你被训练过如何对抗飞行中的生物。",
+    "prerequisites_zh": "BAB+1。",
+    "benefit_zh": "当你设置好一件武器用于反冲锋或你能对一个飞行中的对手借机攻击时，你在对此飞行中的对手的攻击检定上获得+2环境加值。"
 }

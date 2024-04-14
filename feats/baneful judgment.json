@@ -6,5 +6,9 @@
     "source": ["Monster Hunter's Handbook pg. 5"],
     "text": "You dole out judgment to a particular foe.",
     "prerequisites": "Bane class feature, judgment class feature, monster lore class feature.",
-    "benefit": "You can declare a specialized judgment against a creature as a swift action. When pronouncing this judgment, you attempt a Knowledge check to identify the creature, or refer to your previous result if you’ve already identified the creature. If you succeed at the check or have already identified the creature, you can spend 1 round of bane and choose one judgment other than the healing judgment. You gain the benefits of this judgment against that creature for only 1 round plus 1 additional round for every 5 by which you exceeded the DC to identify the target. Subsequent uses of this judgment do not stack with this ability. A creature cannot be the target of this ability again for 24 hours."
+    "benefit": "You can declare a specialized judgment against a creature as a swift action. When pronouncing this judgment, you attempt a Knowledge check to identify the creature, or refer to your previous result if you’ve already identified the creature. If you succeed at the check or have already identified the creature, you can spend 1 round of bane and choose one judgment other than the healing judgment. You gain the benefits of this judgment against that creature for only 1 round plus 1 additional round for every 5 by which you exceeded the DC to identify the target. Subsequent uses of this judgment do not stack with this ability. A creature cannot be the target of this ability again for 24 hours.",
+    "name_zh": "破敌审判",
+    "text_zh": "你对一名特定的敌人做出审判。",
+    "prerequisites_zh": "破敌职业能力，审判职业能力，怪物学识职业能力。",
+    "benefit_zh": "你可以以一个迅捷动作对一个敌人宣告一项特殊的审判。宣告此审判时，你尝试一次知识检定以辩识目标，如果你此前已经辨识过该生物，依照之前的检定结果。当你成功辨识目标，你可以消耗1轮破敌并选择除治疗审判外的另一个审判。你在1轮内对目标获得此审判的好处，知识检定每超过DC 5点延长1轮。后续使用的审判无法与本能力叠加。一名敌人在24小时内不能重复成为本能力的目标。"
 }

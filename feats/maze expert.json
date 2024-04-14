@@ -6,5 +6,9 @@
     "text": "You have a near-perfect sense of direction.",
     "prerequisites": "Skill Focus (Survival), Survival 5 ranks.",
     "benefit": "You gain a +4 bonus on Survival checks to avoid becoming lost and to determine whether you are lost. You also gain a +4 bonus on Intelligence checks to navigate mazes, including to escape a <i>maze <\/i>spell. Once per day, you can use your intuition to determine whether traveling a particular direction from a fork in the road (or other junction) might be productive or dangerous. This functions like the <i>augury<\/i> spell, except it provides weal or woe based on traveling in a particular direction.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "迷宫专家",
+    "text_zh": "你有近乎完美的方向感。",
+    "prerequisites_zh": "技能专攻（生存），生存5级。",
+    "benefit_zh": "在避免迷路以及判断是否已经迷路时，你在生存检定上获得+4加值。你在逃离迷宫时的智力检定获得+4加值，包括逃离迷宫术。每天一次，你可以靠直觉判断从岔路口(或其他交叉路口)走一个特定的方向是安全还是危险。它的作用类似于占卜术，不同的是它依据在某一特定方向上的旅行得到吉或凶。"
 }

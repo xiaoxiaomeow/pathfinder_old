@@ -9,5 +9,9 @@
     "source": ["Martial Arts Handbook pg. 27"],
     "text": "The more your attacks land, the more confident your strikes.",
     "prerequisites": "Base attack bonus +6 or monk level 6th.",
-    "benefit": "When you deal damage with a melee attack to an opponent you have already damaged this round, you can reduce the total of any voluntary penalties to your melee attack rolls imposed by actions or feats (such as the Power Attack feat) by 1 (to a minimum penalty of 0). This reduction in penalties lasts until the beginning of your next turn and stacks with itself."
+    "benefit": "When you deal damage with a melee attack to an opponent you have already damaged this round, you can reduce the total of any voluntary penalties to your melee attack rolls imposed by actions or feats (such as the Power Attack feat) by 1 (to a minimum penalty of 0). This reduction in penalties lasts until the beginning of your next turn and stacks with itself.",
+    "name_zh": "战斗韵律",
+    "text_zh": "你攻击得越多，你打击得更加自信。",
+    "prerequisites_zh": "BAB+6或武僧6级。",
+    "benefit_zh": "当你用近战攻击对本轮你已经伤害过的对手造成伤害时，你可以将动作或专长（例如猛力攻击专长）对你的近战攻击检定施加的任何惩罚的总和减少1（至最低减值0）。这种减值减少会持续到你的下一轮开始并与自身叠加。"
 }

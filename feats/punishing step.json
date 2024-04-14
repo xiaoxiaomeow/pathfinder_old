@@ -7,5 +7,9 @@
     "text": "You can hurt a foe that uses a combat maneuver against you.",
     "prerequisites": "Dex 13, Dodge.",
     "benefit": "Your bonus to AC from the Dodge feat increases to +2 when calculating your CMD. When a creature attempts a combat maneuver against you and fails, you gain a +2 circumstance bonus on attack rolls against that creature until the end of your next turn.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "梅花步",
+    "text_zh": "你可以伤害一个使用战技对付你的敌人。",
+    "prerequisites_zh": "敏捷13, 闪避。",
+    "benefit_zh": "计算CMD时，你从闪避专长获得的AC加值增加到+2。当一个生物对你使用战技且失败时，你对该生物的攻击骰获得+2环境加值，直到你下一轮结束。"
 }

@@ -11,5 +11,10 @@
     "prerequisiteKeys":     [
         "catch off-guard",
         "throw anything"
-    ]
+    ],
+    "name_zh": "临时专攻",
+    "text_zh": "你手中的随手武器与其他暴力工具一样致命。",
+    "prerequisites_zh": "随手武器或随手投掷，BAB+1。",
+    "benefit_zh": "你在使用临时武器的攻击骰上获得+1加值。你在满足其他需要选择特定武器的专长时视为拥有对临时武器的武器专攻专长，如武器专精等。",
+    "special_zh": "在决定这一专长效果时，投炸武器并不算是临时武器。"
 }

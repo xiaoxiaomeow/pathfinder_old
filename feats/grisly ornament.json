@@ -7,5 +7,9 @@
     "text": "You adorn your gear with mementos from your foes.",
     "prerequisites": "Harvest Parts.",
     "benefit": "You can attempt a Craft or Heal check to craft a special type of trophy called an ornament from part of a creature that’s been dead for less than an hour. You take a –4 penalty on this check if you or an ally didn’t slay the creature. You can craft one ornament per character level per day. Each corpse provides enough material for one ornament plus one additional ornament per size category above Medium. You can wear one ornament in each magic item slot not already occupied by another item. When you craft an ornament, you choose whether it affects Armor Class, attack rolls, CMB, CMD, saving throws, or skill checks. The ornament provides a morale bonus equal to the monster’s CR divided by 4 (round down, minimum 1) to the selected statistic against creatures of the same creature type as the source of the ornament. This bonus increases by 1 against creatures of the exact same variety (so a red dragon’s talon provides the increased bonus against red dragons but not all dragons). An ornament remains effective for 1 day, plus 1 additional day for every 5 by which you exceed the DC to craft it. You can give ornaments to others, but gifted ornaments have a morale bonus equal to the monster’s CR divided by 6 (round down, minimum 0) and remain effective for only 24 hours.",
-    "prerequisiteKeys": ["harvest parts"]
+    "prerequisiteKeys": ["harvest parts"],
+    "name_zh": "骇人饰物",
+    "text_zh": "你用敌人留下的纪念品来装饰你的装备。",
+    "prerequisites_zh": "采集残骸。",
+    "benefit_zh": "你可以进行一次工艺或医疗检定，以尝试从死亡时间少于一小时的生物身上制造一种特殊的饰品类战利品。如果你或你的盟友没有杀死该生物，你将在此检定上承受-4的罚值。你每天可以制造每角色等级一份饰品。每具尸体提供可以提供足以制造一件饰品的材料，尸体的体型每比中等大一级便能多提供制造一份饰品所需的材料。你可以在每个未被占用的魔法物品栏位中佩戴一份饰品。当你制作一份饰品时，你可以选择它的效果是影响AC、攻击骰、CMB、CMD、豁免检定或是技能检定。在对抗与该饰品来源有着相同生物类型的生物时，一份饰品可以在选定的效果上提供等同于怪物CR除以4(向下取整，最小值为1)的士气奖励。此加值对同种生物增加1(因此一个红龙之爪提供了对红龙增加的加值，而不是所有种类的龙)。一份饰品的效果保持1天，在制造时你的检定结果每超过DC5点就能延长1天。你可以将饰品送给他人，但被送出的饰品士气奖励等于怪物的CR除以6(最低为0)，并且只在24小时内有效。"
 }

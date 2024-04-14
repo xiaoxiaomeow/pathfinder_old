@@ -10,5 +10,9 @@
     "text": "You can leap off walls and objects to strike from above.",
     "prerequisites": "Wis 13, Improved Unarmed Strike, Acrobatics 2 ranks, Climb 2 ranks.",
     "benefit": "You add your Wisdom modifier to Acrobatics checks in addition to your Dexterity modifier. While using this style, when you are adjacent to a vertical surface or object capable of supporting your weight, such as a wall or a tree, you gain a +1 bonus on melee attack rolls against opponents your size or smaller, as if you were on higher ground.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "蜻蜓流",
+    "text_zh": "你可以跳离墙壁和物体从上方攻击。",
+    "prerequisites_zh": "感知13，精通徒手打击，特技2级，攀爬2级。",
+    "benefit_zh": "你在敏捷调整之外，额外将感知调整值加在特技检定上。当使用这一流派时，如果你与可以承载你体重的垂直表面或物体相邻，比如一堵墙或者一棵树，则你如同居高临下对与你体型相同或更小的敌人攻击上获得+1加值。"
 }

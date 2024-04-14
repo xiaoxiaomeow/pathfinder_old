@@ -7,5 +7,9 @@
     "text": "You can recover from additional kinds of damage using your vigor.",
     "prerequisites": "Con 15, Combat Vigor, character level 8th.",
     "benefit": "Your vigor pool gains 1 vigor point. Whenever you spend vigor points, you can recover from 1d3 points of ability score damage from one physical ability score (Strength, Dexterity, or Constitution) instead of regaining 1d6 hit points. You can choose separately for each vigor point spent. For example, if you spend 2 vigor points, you could regain 2d6 hit points; recover 2d3 points of ability damage from up to two physical ability scores total; or regain 1d6 hit points and recover from 1d3 points of ability damage from one physical ability score.",
-    "prerequisiteKeys": ["combat vigor"]
+    "prerequisiteKeys": ["combat vigor"],
+    "name_zh": "复原活力",
+    "text_zh": "你使用你的活力从多种类型的伤害中恢复过来。",
+    "prerequisites_zh": "体质15，战斗活力，角色等级8。",
+    "benefit_zh": "你的活力池获得1点活力点。每当你花费活力点，你可以恢复1D3点的肉体属性伤害（力量，敏捷，体质）而不是恢复1D6生命值。你可以分开选择每一点活力点的使用方式。例如，如果你花费了2点活力点，你可以恢复2D6生命值；恢复最多两个肉体属性2D3点的属性伤害；或者恢复1D6生命值和恢复一个肉体属性1D3点属性伤害。"
 }

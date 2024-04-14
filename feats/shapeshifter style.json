@@ -10,5 +10,10 @@
     "text": "You can shift your physiology without fully changing your shape, giving you an advantage in battle.",
     "prerequisites": "Base attack bonus +3, change shape ability, shapechanger subtype.",
     "benefit": "You reshape your body, gaining one of the following benefits. You choose the benefit when you enter the style, and while in the style you can change the benefit as a swift action. <br><br><i>Brutal Attack<\/i>: Choose one of your natural attacks. You gain a +1 bonus on damage rolls with that attack when using this style, plus an additional +1 for every feat you have that lists Shapeshifter Style as a prerequisite (maximum +3). <br><br><i>Steady Grip<\/i>: You gain a climb speed of 10 feet. <br><br><i>Tensed Sinews<\/i>: You gain a +1 bonus on Reflex saving throws and a +5 enhancement bonus to your base speed. <br><br><i>Toughened Hide<\/i>: You gain a +1 enhancement bonus to your existing natural armor bonus.",
-    "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites."
+    "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites.",
+    "name_zh": "化形势",
+    "text_zh": "你能改变你的生理机能而无需完全变形，这让你在战斗中获得一项优势。",
+    "prerequisites_zh": "BAB+3、变形能力、变形者子类。",
+    "benefit_zh": "你重塑你的躯体，得到下列好处之一。你在进入这个架势时选择这个好处，或是在该架势中使用一个迅捷动作切换。<\/p><p><ul><li>暴击：选择你的一个天生攻击。你在该架势中使用这种武器攻击时，在伤害骰上得到+1加值，每拥有一个以该专长为前置的专长额外+1（最多+3）。 <\/li><\/p><p><li>稳抓：你得到10尺的攀爬速度。 <\/li><\/p><p><li>反射：你在反射豁免上得到+1加值，在基础速度上得到+5增强加值。 <\/li><\/p><p><li>厚皮：你在已有的天生护甲加值上得到+1增强加值。<\/li><\/ul>",
+    "special_zh": "在满足先决条件时，一个拥有自然变身职业能力的角色视作拥有变形能力和变形者子类。"
 }

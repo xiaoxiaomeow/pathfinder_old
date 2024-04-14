@@ -7,5 +7,9 @@
     "text": "Your determination and enthusiasm help you shake off the most grievous wounds and soldier on against your enemies.",
     "prerequisites": "Con 13, Combat Vigor, character level 4th.",
     "benefit": "Your vigor pool gains 1 vigor point. Whenever you roll a natural 20 on an ability check, attack roll, saving throw, or skill check, and whenever you threaten a critical hit with an attack, you can spend 1 or more vigor points as a swift action to regain hit points as described in the Combat Vigor feat.",
-    "prerequisiteKeys": ["combat vigor"]
+    "prerequisiteKeys": ["combat vigor"],
+    "name_zh": "强韧活力",
+    "text_zh": "你的决心和热诚帮助你忘却了多数严重的伤害并且迎难而上继续对抗你的敌人",
+    "prerequisites_zh": "体质13，战斗活力，角色等级4。",
+    "benefit_zh": "你的活力池获得1点活力点。每当你在属性检定，攻击检定，豁免检定或者技能检定时天然投掷出20，或者每当你投掷出了重击威胁，你能以一个迅捷动作，花费1点或者更多的活力点，根据战斗活力所描述的情况来恢复生命值。"
 }

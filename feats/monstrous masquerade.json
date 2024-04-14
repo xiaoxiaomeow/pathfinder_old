@@ -6,5 +6,9 @@
     "text": "When you disguise yourself as a monstrous humanoid, you can gain some of its qualities.",
     "prerequisites": "Monstrous Disguise, Disguise 9 ranks, Knowledge (nature) 9 ranks.",
     "benefit": "When you use the Monstrous Disguise feat to assume the shape of a monstrous humanoid, you can gain a rudimentary version of one of that creature’s abilities selected from the following list: climb 10 feet, fly 20 feet (clumsy maneuverability), swim 20 feet, damage reduction 3/magic, or resistance 5 to one energy type. Preparing a disguise in this way takes 1 additional hour and costs an extra 500 gp. The bonus ability granted by this feat has a 25% chance to cease functioning every hour after you apply the disguise. This disguise automatically falls apart after 8 hours.",
-    "prerequisiteKeys": ["monstrous disguise"]
+    "prerequisiteKeys": ["monstrous disguise"],
+    "name_zh": "怪物假面",
+    "text_zh": "当你伪装成一个人形怪物，你可以获得它的一些能力。",
+    "prerequisites_zh": "怪物伪装，易容9级，知识（自然）9级。",
+    "benefit_zh": "当你使用怪物伪装专长扮作人形怪物时,你可以从以下列表里获得该生物一个能力的低等版本：攀爬速度10尺，飞行速度20尺(笨拙)，游泳速度20尺，DR3/魔法，或对一种能量类型的5点抗力。以这种方式伪装需要额外1小时和500gp。在你完成伪装后，由此专长获取的能力每小时有25%的几率失效(译：没弄明白这个意思是时灵时不灵还是说失效后就再也不行了)。8小时后，这个伪装就会自动瓦解。"
 }

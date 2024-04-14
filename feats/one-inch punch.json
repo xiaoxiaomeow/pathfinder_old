@@ -7,5 +7,9 @@
     "text": "You combine the force of multiple blows into a single strike to potentially send a foe flying.",
     "prerequisites": "Improved Unarmed Strike, base attack bonus +6, brawler’s flurry class feature or flurry of blows class feature.",
     "benefit": "When making a full attack against a corporeal foe, you can forgo multiple attacks to make one unarmed strike at your highest base attack bonus. For each attack you forgo, you can add half your Strength modifier (minimum +0) to your damage roll. If you hit with this attack, you can attempt a bull rush combat maneuver check as a free action, substituting your attack roll result for the combat maneuver check result and adding a bonus equal to half your Strength modifier for each attack you forgo. This bull rush does not provoke an attack of opportunity, and you do not move as a result of the bull rush.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "寸拳",
+    "text_zh": "你将多次攻击的伤害化为一点，将对手击飞。",
+    "prerequisites_zh": "精通徒手攻击，BAB+6，连打或疾风连击职业能力。",
+    "benefit_zh": "当对一个实体生物进行全回合攻击时，你可以放弃若干攻击次数来用最高攻击加值进行一次徒手攻击，你每放弃一次攻击，可以将你力量调整值的一半（最小+0）加入伤害骰。如果你这次攻击命中，你可以用自由动作尝试一次冲撞战技，用你攻击骰的结果作为战技检定的结果，每次你放弃的攻击再加入你力量调整值的一半的加值。这次冲撞不会引发借机攻击，你也不会因为冲撞而移动。"
 }

@@ -6,5 +6,9 @@
     "source": ["Haunted Heroes Handbook pg. 4"],
     "text": "You can’t always count on having a source of positive energy to fight haunts, and have mastered an eerie talent for briefly focusing your own life energy into your weapons.",
     "prerequisites": "Knowledge (religion) 1 rank, Perception 1 rank.",
-    "benefit": "As a standard action, you can make a weapon attack against a haunt. If successful, your attack deals damage equal to your weapon dice plus any enhancement bonus (but not other bonuses, such as those granted by Strength, Weapon Specialization, or class features like sneak attack). You can use any Vital Strike feat in order to enhance this attack."
+    "benefit": "As a standard action, you can make a weapon attack against a haunt. If successful, your attack deals damage equal to your weapon dice plus any enhancement bonus (but not other bonuses, such as those granted by Strength, Weapon Specialization, or class features like sneak attack). You can use any Vital Strike feat in order to enhance this attack.",
+    "name_zh": "魂刃",
+    "text_zh": "你无法总是依赖正能量对抗作祟，因而选择精通了一门将自身生命能量短暂灌注入武器中的怪诞外道。",
+    "prerequisites_zh": "知识（宗教）1级，察觉1级。",
+    "benefit_zh": "你能通过一个标准动作以使用武器对单一作祟进行攻击。如果成功，你能对其造成等同于 [ 武器伤害骰+增强加值 ] 的伤害，但其他来源的加值——比如说源自力量，武器专精，或偷袭等职业能力的加值则不能计算入内。此外，你能同时使用任何要害打击专长以增强本次攻击的效果。同时，只要你距离作祟范围10尺以内，你就能如同使用了侦测亡灵一般尝试发现作祟，但仍要受到常规的-4减值。"
 }

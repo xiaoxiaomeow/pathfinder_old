@@ -6,5 +6,9 @@
     "source": ["Dragonslayer's Handbook pg. 25"],
     "text": "Your attacks can prevent winged opponents from flying.",
     "prerequisites": "Base attack bonus +9.",
-    "benefit": "Whenever you confirm a critical hit against an opponent that uses wings to fly, you can forgo the extra critical damage to instead prevent it from flying for a number of rounds equal to twice the critical multiplier of your attack. Opponents that are flying at the time of the critical effect must succeed at a DC 20 Fly check to avoid taking falling damage."
+    "benefit": "Whenever you confirm a critical hit against an opponent that uses wings to fly, you can forgo the extra critical damage to instead prevent it from flying for a number of rounds equal to twice the critical multiplier of your attack. Opponents that are flying at the time of the critical effect must succeed at a DC 20 Fly check to avoid taking falling damage.",
+    "name_zh": "削翼",
+    "text_zh": "你的攻击可以阻碍有翼的对手飞行。",
+    "prerequisites_zh": "BAB+9。",
+    "benefit_zh": "当你对能使用翅膀飞行的对手确认一次重击时，你可以放弃额外的重击伤害来阻止他在等于两倍于你的攻击重击乘数的回合内飞行。正在飞行中的对手在遭受此重击效果后必须成功通过一个DC20的飞行检定来避免承受坠落伤害。"
 }

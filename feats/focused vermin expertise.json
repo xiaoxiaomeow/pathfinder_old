@@ -6,5 +6,9 @@
     "source": ["Monster Hunter's Handbook pg. 23"],
     "text": "Your experience with vermin resists the attacks of swarms.",
     "prerequisites": "Favored enemy (vermin) class feature.",
-    "benefit": "You gain DR/— equal to half your favored enemy (vermin) bonus against vermin and creatures with the swarm subtype. When attempting Fortitude saves against a swarm’s distraction ability, you gain a bonus on the save equal to the damage prevented by this feat. Against vermin with the swarm subtype, the amount of damage reduction is equal to your full favored enemy (vermin) bonus. This damage reduction does not stack with that from other sources."
+    "benefit": "You gain DR/— equal to half your favored enemy (vermin) bonus against vermin and creatures with the swarm subtype. When attempting Fortitude saves against a swarm’s distraction ability, you gain a bonus on the save equal to the damage prevented by this feat. Against vermin with the swarm subtype, the amount of damage reduction is equal to your full favored enemy (vermin) bonus. This damage reduction does not stack with that from other sources.",
+    "name_zh": "虫类专精",
+    "text_zh": "你对付害虫的经验可以抵抗蜂群的攻击。",
+    "prerequisites_zh": "宿敌（虫类）职业特性。",
+    "benefit_zh": "在对抗虫类和具有集群子类的生物时，你获得等于你宿敌（虫类）加值一半的DR/-。对抗集群的扰乱心神能力时，你在强韧豁免上获得与此DR相等的加值。对抗具有集群子类的虫类生物时，伤害减免将等于你完整的宿敌（虫类）加值。此伤害减免不会与其他来源的伤害减免叠加。"
 }

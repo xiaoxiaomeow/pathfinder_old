@@ -11,5 +11,9 @@
         "combat expertise",
         "improved disarm",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "跟进追击",
+    "text_zh": "你打飞敌人的武器，为你的拳脚创造出一个破绽。",
+    "prerequisites_zh": "智力13，寓守于攻，精通卸武，精通徒手打击，BAB+6或武僧6级。",
+    "benefit_zh": "当你成功进行战技检定卸武时，你可以用一个迅捷动作以你最高的攻击加值对你卸武的目标进行一次徒手攻击。"
 }

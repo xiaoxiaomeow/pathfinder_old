@@ -12,5 +12,9 @@
         "combat reflexes",
         "improved disarm",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "擒腕",
+    "text_zh": "当一个敌人过于激进的攻击你，你快速抓住他的手臂并击落武器。",
+    "prerequisites_zh": "敏捷13，智力13，寓守于攻，战斗反射，精通卸武，精通徒手打击，BAB+6。",
+    "benefit_zh": "当一个敌人未命中你且检定值低5或以上，你可以用一个直觉动作对其进行一次卸武检定。"
 }
