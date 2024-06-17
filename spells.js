@@ -1,3 +1,12 @@
+let curSpell = null;
+function getMDText() {
+    if (curSpell == null) {
+        return "[pf法术速查](https://xiaoxiaomeow.github.io/pathfinder/spells.html)";
+    } else {
+        let name = curSpell["name_zh"] != null ? curSpell["name_zh"] : en_name;
+        return "[" + name + "](" + location.href + ")<sup>" + getTranslatedSource(curSpell) + "</sup>";
+    }
+}
 function connect(content, connector, translation) {
     let str = "";
     for (key in content) {
@@ -43,8 +52,9 @@ function getSimpTranslatedSource (sp) {
     }
     return "";
 }
-function loadFeat(sp, div, containSource = false) {
+function loadSpell(sp, div, containSource = false) {
     div.innerHTML = "";
+    curSpell = sp;
 
 	if (containSource) {
 		div.appendChild(getTopBar());
@@ -127,7 +137,7 @@ function loadUrlFeat() {
     }).then(text => {
 		if (text != null) {
 			sp = JSON.parse(text);
-			loadFeat(sp, document.getElementById("box"), true);
+			loadSpell(sp, document.getElementById("box"), true);
 		}
     }).catch(error => {
         console.log(error);
@@ -443,7 +453,7 @@ function search() {
                     }).then(text => {
                         sp = JSON.parse(text);
                         tooltip.innerHTML = "";
-                        loadFeat(sp, tooltip);
+                        loadSpell(sp, tooltip);
                     }).catch(error => {
                         alert('Error: ' + error.message);
                         throw error;

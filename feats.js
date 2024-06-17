@@ -1,3 +1,12 @@
+let curFeat = null;
+function getMDText() {
+    if (curFeat == null) {
+        return "[pf专长速查](https://xiaoxiaomeow.github.io/pathfinder/feats.html)";
+    } else {
+        let name = curFeat["name_zh"] != null ? curFeat["name_zh"] : en_name;
+        return "[" + name + "](" + location.href + ")<sup>" + getTranslatedSource(curFeat) + "</sup>";
+    }
+}
 function connect(content, connector, translation) {
     let str = "";
     for (key in content) {
@@ -98,9 +107,9 @@ function loadFeat(ft, div, containSource = false) {
 			sources[source[sk].split("-")[0]] = "";
 		}
 	}
-	console.log(sources);
 
     div.innerHTML = "";
+	curFeat = ft;
 
 	if (containSource) {
 		div.appendChild(getTopBar());
