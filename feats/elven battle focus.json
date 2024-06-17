@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 12"],
     "text": "Your fighting style is enhanced by your keen intellect.",
-    "prerequisites": "Int 13, Elven Battle Style, Elven Battle Training<sup>ARG<\/sup>, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait.",
+    "prerequisites": "Int 13, Elven Battle Style, Elven Battle Training, Weapon Finesse, base attack bonus +4, weapon familiarity racial trait.",
     "benefit": "While using Elven Battle Style, you can add your Intelligence modifier to that weapon’s damage (instead of any other ability bonus or modifier you can add to your weapon damage). The weapon must be one appropriate for your size.",
     "prerequisiteKeys":     [
         "elven battle style",
+        "elven battle training",
         "weapon finesse"
-    ]
+    ],
+    "name_zh": "精灵武技专攻",
+    "text_zh": "聪明才智能帮助你强化攻击的威力。",
+    "prerequisites_zh": "智力13，精灵武技，精灵战斗训练，武器娴熟，BAB+4，武器熟悉种族特性。",
+    "benefit_zh": "当你使用精灵武技时，你能够将智力调整值加到武器的伤害上（来取代任何其他让你能够加到武器伤害上的属性加值或调整值）。该武器必须符合你的体型。"
 }

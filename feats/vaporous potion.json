@@ -6,5 +6,9 @@
     "text": "You know how to brew potions that can be delivered as a gaseous cloud.",
     "prerequisites": "Brew Potion.",
     "benefit": "When you brew a potion, you can brew it in such a way that when exposed suddenly to air and force, it diffuses into a cloud of vapor that can be inhaled. The potion can still be consumed normally, but it can also be delivered by throwing it at another creature as a splash weapon. The potion vial has a range increment of 10 feet and is considered an improvised weapon. On impact, the vial breaks and a cloud of barely visible potion vapor fills the square it lands in (this vapor does not obscure normal sight in any way). If a creature is in that square, it gains the benefits of the potion immediately as though it had imbibed the potion.<br><br> Otherwise, the vapor persists for 1d3+1 rounds in only that square before dissipating, and the first creature to enter the square before the vapor dissipates gains the potion’s benefits. A creature entering the vapor’s space can hold its breath to refrain from inhaling the potion. No more than one creature can benefit from a potion’s vapor, and if more than one creature is in the potion’s space after it is thrown, the potion is wasted and has no effect. The thrown potion deals no damage to creatures or objects it hits. A spell brewed into a potion this way does not use up a higher-level spell slot than the spell’s actual level.",
-    "prerequisiteKeys": ["brew potion"]
+    "prerequisiteKeys": ["brew potion"],
+    "name_zh": "蒸汽药水",
+    "text_zh": "你知道如何制造出可以变成云雾的药水。",
+    "prerequisites_zh": "制造药水。",
+    "benefit_zh": "当你制造药水时，你可以用一种特殊手法使其在突然暴露于空气中并受力时，扩散成一片可以吸入的蒸汽云。药水仍然可以被正常消耗，但是也可以被如同投炸武器（splash weapon）扔到其他人身上传递效果。这个药水瓶拥有10尺射程增量并被视为简易武器。一旦命中，瓶子就会破碎并且一股几乎不可见的药水蒸汽云会充满它着陆的方格（这股蒸汽不会以任何方式影响任何正常视觉）。如果一个生物在该格子里，它会立刻获得药水的好处，如同它喝下了药水。<\/p><p>否则蒸汽云会在消散前在该格子持续1d3+1轮时间，在蒸汽云消散前第一个进入该格子的人会得到药水的增益。一名进入蒸汽格子的人可以通过屏住呼吸来避免吸入药水。无法有超过一名生物获得药水蒸汽的增益。如果有超过一个生物在药水抛出在该格子内，药水会被浪费并且无效。投掷药水不会对命中的生物或物体造成伤害。一名通过这种方式制造进药水的法术不需要占用比法术实际环级更高环级的法术位。"
 }

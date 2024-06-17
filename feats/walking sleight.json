@@ -7,5 +7,10 @@
     "prerequisites": "Deft Hands, Sleight of Hand 5 ranks.",
     "benefit": "You no longer take the –20 penalty for attempting a Sleight of Hand check as a move action. You can attempt a Sleight of Hand check as a standard action in the middle of your move action.",
     "normal": "You can attempt a Sleight of Hand check as a move action only by taking a –20 penalty on the check.",
-    "prerequisiteKeys": ["deft hands"]
+    "prerequisiteKeys": ["deft hands"],
+    "name_zh": "顺手牵羊",
+    "text_zh": "你能凭藉着精湛的技术在行走时顺走物品。",
+    "prerequisites_zh": "妙手，巧手5级。",
+    "benefit_zh": "当你以移动动作尝试巧手检定时，不会再承受-20减值。你能够在移动行动之中（in the middle of your move action）以标准动作尝试1次巧手检定。",
+    "normal_zh": "你只能在检定承受-20减值的前提下以移动动作尝试1次巧手检定。"
 }

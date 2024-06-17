@@ -5,5 +5,9 @@
     "source": ["Healer's Handbook pg. 8"],
     "text": "Your healing spells exacerbate rather than alleviate pain.",
     "prerequisites": "Evil alignment.",
-    "benefit": "Whenever you use a spell to restore hit points to a living creature, you can cause that creature to be wracked with waves of searing pain. If you do, the spell gains the evil and pain (<i>Pathfinder RPG Ultimate Magic 251<\/i>) descriptors. The target takes nonlethal damage equal to the number of hit points restored. If the target fails its saving throw or chooses not to attempt one against your healing spell, it takes a –2 penalty on saving throws and skill checks for 10 minutes per caster level. If the spell does not normally allow a saving throw, it instead allows a Fortitude saving throw to negate this penalty (but not the nonlethal damage dealt)."
+    "benefit": "Whenever you use a spell to restore hit points to a living creature, you can cause that creature to be wracked with waves of searing pain. If you do, the spell gains the evil and pain (<i>Pathfinder RPG Ultimate Magic 251<\/i>) descriptors. The target takes nonlethal damage equal to the number of hit points restored. If the target fails its saving throw or chooses not to attempt one against your healing spell, it takes a –2 penalty on saving throws and skill checks for 10 minutes per caster level. If the spell does not normally allow a saving throw, it instead allows a Fortitude saving throw to negate this penalty (but not the nonlethal damage dealt).",
+    "name_zh": "痛苦治愈",
+    "text_zh": "你的医疗法术会加重而不是减轻痛苦。",
+    "prerequisites_zh": "邪恶阵营。",
+    "benefit_zh": "每当你使用一个法术来恢复一个生物的生命值，你可以使那个生物被阵阵灼烧般的苦痛蹂躏。如果你这样做，这个法术会获得[邪恶, 痛苦]描述符。目标会受到等同于恢复生命值的非致命伤害。如果目标在对抗你的治疗法术的豁免中失败或者放弃豁免，那么他会在10分钟每施法者等级的时间内，在豁免检定和技能检定上承受-2的罚值。如果这个法术不允许正常的豁免检定，那么它也会允许一次强韧检定来使这个罚值失效（但是非致命伤害不会受到影响）。"
 }

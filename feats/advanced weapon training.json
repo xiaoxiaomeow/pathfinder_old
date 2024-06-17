@@ -7,5 +7,10 @@
     "text": "You are specially trained to use your weapon skills in new ways.",
     "prerequisites": "Fighter level 5th, weapon training class feature.",
     "benefit": "Select one advanced weapon training option, applying it to one fighter weapon group you have already selected with the weapon training class feature.",
-    "special": "This feat can be taken more than once, but at most once per 5 fighter levels."
+    "special": "This feat can be taken more than once, but at most once per 5 fighter levels.",
+    "name_zh": "进阶武器训练",
+    "text_zh": "你已经学到了使用老武器的新方法。",
+    "prerequisites_zh": "战士等级5，战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "你可以获得一个进阶武器训练选项，该进阶武器训练必须属于你已拥有武器训练的战士武器组。",
+    "special_zh": "你可以多次选择本专长，但每5个战士等级仅可选择一次。<\/p><p>拥有武器大师（Weapon Master）APG职业变体的战士可以在4级时选择本专长。武器大师选择的进阶武器训练只对他所选的单件武器而非整个战士武器组生效，并且他不可选择百兵一心进阶武器训练。不过，武器大师可以选择本专长作为战士奖励专长，并且这样做的话他不会受到每5个战士等级仅可选择一次本专长的限制。"
 }

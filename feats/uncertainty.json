@@ -7,5 +7,10 @@
     "text": "When you draw a foe’s blood in combat, that creature begins to doubt its skills.",
     "prerequisites": "Int 13; Bluff, Diplomacy, and Intimidate 5 ranks.",
     "benefit": "As a full-round action, you can diminish the confidence of a creature you’ve dealt damage to within the last minute. That creature must succeed at a Will save or take a –6 penalty on skill checks for one of the following skills of your choice: Bluff, Diplomacy, or Intimidate. This ability lasts until the subject is healed of all hit point damage, up to a maximum of 1 hour.",
-    "special": "A shaman or witch with this blood hex can use it as a standard action. Additionally, if a shaman or witch uses this blood hex, the target takes the penalty on Bluff, Diplomacy, and Intimidate checks."
+    "special": "A shaman or witch with this blood hex can use it as a standard action. Additionally, if a shaman or witch uses this blood hex, the target takes the penalty on Bluff, Diplomacy, and Intimidate checks.",
+    "name_zh": "不确定性",
+    "text_zh": "当你在战斗中汲取了敌人的血液，它会对自己的技能产生怀疑。",
+    "prerequisites_zh": "智力13，唬骗，交涉和威吓5级。",
+    "benefit_zh": "以一个整轮动作，你能挫败一个在上一分钟内被你造成过伤害的敌人的自信。该生物必须通过一个成功的意志检定，否则会在以下一项你所选定的技能检定中承受-6罚值：唬骗，交涉，或威吓。该效果最多持续1小时，或直到目标受到的所有伤害都被治疗。",
+    "special_zh": "一个萨满或女巫能用标准动作使用该血巫术。另外，如果一个萨满或女巫使用了该血巫术，目标在唬骗，交涉和威吓技能上同时承受罚值。"
 }

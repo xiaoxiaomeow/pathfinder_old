@@ -8,7 +8,7 @@
     "prerequisites": "Con 15, Wis 17, Elemental Fist, Improved Unarmed Strike, Shaitan Skin, Shaitan Style, base attack bonus +13 or monk level 11th.",
     "benefit": "While using the Shaitan Style feat, as a standard action, you can spend two Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempts to unleash a 20-foot column of acid that has a 5-foot radius and erupts from a point of origin within 30 feet of you. Creatures caught in the column take your unarmed strike damage plus the acid damage from your Elemental Fist and are staggered for 1 round. A successful Reflex save (DC 10 + 1/2 your character level + your Wis modifier) reduces the damage by half and prevents a target from being staggered.",
     "staminaSource": "Pathfinder Unchained pg. 131",
-    "staminaText": "Instead of spending two uses of Elemental Fist<sup>APG<\/sup> to unleash a column of acid, you can spend one use of Elemental Fist and 2 stamina points.",
+    "staminaText": "Instead of spending two uses of Elemental Fist to unleash a column of acid, you can spend one use of Elemental Fist and 2 stamina points.",
     "prerequisiteKeys":     [
         "elemental fist",
         "improved unarmed strike",
@@ -17,6 +17,7 @@
     ],
     "name_zh": "地裂",
     "text_zh": "你以强劲的一记跺脚，使地底喷薄而出的强酸烧灼敌人。",
-    "prerequisites_zh": "体质15，感知17，元素之拳，精通徒手打击，土隐，土灵，基本攻击加值+13或武僧11级。",
-    "benefit_zh": "当你处于土灵流派架势时，以一个标准动作，消耗2次“元素之拳”使用次数，你可以在30尺内召唤一道高20尺半径5尺的酸柱，对范围内所有生物造成你的徒手打击伤害，外加元素之拳酸性伤害，并恍惚1轮。通过DC为“10+1/2角色等级+感知修正”的反射豁免则伤害减半，且不会恍惚。"
+    "prerequisites_zh": "体质15，感知17，元素之拳，精通徒手打击，土隐，土灵，BAB+13或武僧11级。",
+    "benefit_zh": "当你处于土灵流派架势时，以一个标准动作，消耗2次“元素之拳”使用次数，你可以在30尺内召唤一道高20尺半径5尺的酸柱，对范围内所有生物造成你的徒手打击伤害，外加元素之拳酸性伤害，并恍惚1轮。通过DC为“10+1/2角色等级+感知修正”的反射豁免则伤害减半，且不会恍惚。",
+    "staminaText_zh": "你可以消耗2点耐力和一次元素拳使用次数而不是两次元素拳的使用次数来施放一道酸柱。"
 }

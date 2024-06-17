@@ -7,5 +7,9 @@
     "text": "You can take your opponent’s weapon after being stabbed in the back.",
     "prerequisites": "Improved Disarm, base attack bonus +10.",
     "benefit": "Whenever an enemy deals damage to you with a melee weapon as part of a flanking attack or sneak attack, you can make a combat maneuver check to disarm against that opponent as an immediate action. You must have at least one hand free when you use this feat. When you use this feat, you take a –4 penalty to your AC until your next turn. You can only use this feat once per round.",
-    "prerequisiteKeys": ["improved disarm"]
+    "prerequisiteKeys": ["improved disarm"],
+    "name_zh": "夺刀术",
+    "text_zh": "你可以在被偷袭的同时夺下对手手中的武器。",
+    "prerequisites_zh": "精通卸除武器，BAB+10。",
+    "benefit_zh": "当你受到手持进战武器的敌人的夹击或偷袭伤害时，你可以透过一个直觉动作进行一次战技检定，以卸除对方的武器。你必须至少有一手空闲才能使用此专长。当你使出夺刀术之后，你将在下一轮开始之前承受-4AC的惩罚，你一轮只能使用此专长一次。"
 }

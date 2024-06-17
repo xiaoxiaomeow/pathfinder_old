@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tattoo%20Transformation",
     "source": ["Monster Summoner's Handbook pg. 15"],
     "text": "You’ve learned to take on some of the resistance of a summoned creature when you absorb it as a tattoo.",
-    "prerequisites": "Inscribe Magical Tattoo<sup>ISM<\/sup> or Varisian Tattoo<sup>ISWG<\/sup>; Tattoo Attunement; Spellcraft 9 ranks.",
+    "prerequisites": "Inscribe Magical Tattoo or Varisian Tattoo; Tattoo Attunement; Spellcraft 9 ranks.",
     "benefit": "When you use Tattoo Attunement on a creature you’ve summoned, you can gain that creature’s elemental resistance as long as it is in tattoo form. If the creature has resistance to multiple elemental types, you gain only one of them. If the creature is immune to an elemental type, you gain resistance 20 to that type. For example, if the creature has resistance 10 to both fire and cold and immunity to electricity, you can gain resistance 10 to either fire or cold or resistance 20 to electricity as long as the creature is in tattoo form.",
-    "prerequisiteKeys": ["tattoo attunement"]
+    "prerequisiteKeys":     [
+        "inscribe magical tattoo",
+        "tattoo attunement",
+        "varisian tattoo"
+    ],
+    "name_zh": "刺青转换",
+    "text_zh": "你学会了如何呈现你吸入刺青的召唤生物的部分抗力。",
+    "prerequisites_zh": "绘制魔法刺青（ISM）或者瓦瑞西安刺青（ISWG）；刺青协调；法术辨识9级。",
+    "benefit_zh": "当你对一个你召唤的生物使用图腾协调时，你可以在它处在刺青中的时间内获得该生物的元素抗力。如果该生物对多种元素类型具有抗力，你只能获得其中一个。如果该生物对某种元素类型免疫，你获得该种类型的20点抗力。例如，如果该生物对寒冷和火焰都具有10点抗力并且免疫电击，你可以获得10点对寒冷或者火焰的抗力并获得20点对电击的抗力，只要该生物出于刺青中。"
 }

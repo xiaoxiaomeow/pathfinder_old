@@ -5,11 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Blood of Shadows pg. 25"],
     "text": "Your increased martial skill allows you to take advantage of distracted foes to easily impose conditions, and even steal items without being noticed.",
-    "prerequisites": "Int 13, Cloak and Dagger Style, Combat Expertise, Improved Dirty Trick<sup>APG<\/sup>, Weapon Focus with the chosen weapon, base attack bonus +11.",
-    "benefit": "While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you make an attack of opportunity against a target, you can attempt a free dirty trick<sup>APG<\/sup> combat maneuver check against the target as a free action as well. Additionally, whenever you successfully perform a dirty trick maneuver against a target, you can immediately attempt a steal<sup>APG<\/sup> combat maneuver check against the target as a free action. If you succeed, the target is unaware you have stolen an item.",
+    "prerequisites": "Int 13, Cloak and Dagger Style, Combat Expertise, Improved Dirty Trick, Weapon Focus with the chosen weapon, base attack bonus +11.",
+    "benefit": "While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you make an attack of opportunity against a target, you can attempt a free dirty trick combat maneuver check against the target as a free action as well. Additionally, whenever you successfully perform a dirty trick maneuver against a target, you can immediately attempt a steal combat maneuver check against the target as a free action. If you succeed, the target is unaware you have stolen an item.",
     "prerequisiteKeys":     [
         "cloak and dagger style",
         "combat expertise",
+        "improved dirty trick",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "蓬匕伎",
+    "text_zh": "你越发精湛的武艺让你能让分心的对手更易遭受各类效果，甚至能不被发现地窃取物品。",
+    "prerequisites_zh": "智力13，蓬匕流，寓守于攻，精通阴招，对所选武器拥有武器专攻专长，BAB+11。",
+    "benefit_zh": "当你开启蓬匕式并持用你所选的武器时，每当你对一个敌人进行借机攻击时，你同时还能用一个自由动作对他进行一次额外的阴招战技检定。另外。每当你成功对一个敌人进行阴招战技时，你能立刻以一个自由动作对他进行一次盗取战技检定。若你成功，敌人不会注意到你偷走了一件物品。"
 }

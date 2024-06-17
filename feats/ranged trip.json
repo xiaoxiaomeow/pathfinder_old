@@ -10,5 +10,9 @@
     "text": "A shot to the leg causes your foe to fall prone.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +1.",
     "benefit": "As a full-round action, you can attempt to perform a trip combat maneuver with any ranged weapon at a –2 penalty. Add your Dexterity modifier to your CMB in place of your Strength modifier and apply range penalties to your combat maneuver check, doubling the penalties from range increments. If your target is more than 30 feet away, you take an additional –2 penalty. If the trip attempt is successful, the target also takes damage as if you had made a successful attack with that weapon. You can’t be knocked prone by failing the trip attempt.",
-    "prerequisiteKeys": ["deadly aim"]
+    "prerequisiteKeys": ["deadly aim"],
+    "name_zh": "远程摔绊",
+    "text_zh": "通过精确射击目标的脚让其倒地。",
+    "prerequisites_zh": "敏捷13，致命瞄准，BAB+1。",
+    "benefit_zh": "以一个全回合动作，你可以使用远程武器对目标尝试一次受-2罚值的摔绊战技。使用敏捷调整值代替力量调整值来计算该次战技修正，并加减一切会修正远程攻击的调整，由射程增量带来的减值会加倍。若目标在30尺外，还会额外承受-2罚值。若摔绊战技检定成功，目标会承受1次伤害，如同你通过武器成功命中目标一样。你不会因为战技失败而自己倒地。"
 }

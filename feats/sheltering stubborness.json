@@ -6,5 +6,9 @@
     "text": "Your stubborn mind is not easy to sway.",
     "prerequisites": "Iron Will.",
     "benefit": "When you fail a saving throw against a mind-affecting effect with a duration of 1 round or longer (such as <i>confusion<\/i>), you can choose to be dazzled for the first round of the duration instead of suffering the usual effect. On subsequent rounds, the effect functions normally. If an effect, immunity, or other ability prevents you from being dazzled, this feat has no effect.",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "矢志不移",
+    "text_zh": "你顽固的心灵难以被他人所撼动。",
+    "prerequisites_zh": "钢铁意志。",
+    "benefit_zh": "当你在对抗持续时间为1轮或更长（例如困惑术）的影响心灵效果的豁免检定中失败时，你可以选择在该持续时间的第一轮中陷入目眩，而非承受正常的效果。在后续轮中，该效果如常生效。若某个效果、免疫或其他能力让你不会陷入目眩，则本专长无效。"
 }

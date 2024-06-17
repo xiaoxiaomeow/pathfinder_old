@@ -15,6 +15,10 @@
     "mythicBenefit": "When you use Power Attack, you gain a +3 bonus on melee damage rolls instead of +2. When your base attack bonus reaches +4 and every 4 points thereafter, the amount of bonus damage increases by +3 instead of +2. In addition, the bonus damage from this feat is doubled on a critical hit, before it’s multiplied by the weapon’s critical multiplier.<br><br> You can expend one use of mythic power when you activate Power Attack to ignore the penalties on melee attack rolls and combat maneuver checks for 1 minute.",
     "name_zh": "猛力攻击",
     "text_zh": "通过牺牲准度来换取力道，你能够做出异常致命的近战攻击。",
-    "prerequisites_zh": "力量13，基本攻击加值+1。",
-    "benefit_zh": "你可以选择在所有近战攻击和战技检定上承受-1减值，以在所有近战伤害检定上获得+2加值。如果你进行攻击时使用的是双手武器、双手持用的单手武器或可在伤害检定上加上1.5倍力量修正的主要天生武器，此伤害加值提升一半（+50%）。如果你进行攻击时使用的是副手武器或次要天生武器，此伤害加值减半（-50%）。当你的BAB达到+4，和以后的每4点提升，攻击减值再-1，伤害加值再+2。你必须在进行攻击检定前选择使用此专长，其效果持续到你的下回合之前。接触攻击和不造成生命点数伤害的效果无法获得伤害加值。"
+    "prerequisites_zh": "力量13，BAB+1。",
+    "benefit_zh": "你可以选择在所有近战攻击和战技检定上承受-1减值，以在所有近战伤害检定上获得+2加值。如果你进行攻击时使用的是双手武器、双手持用的单手武器或可在伤害检定上加上1.5倍力量修正的主要天生武器，此伤害加值提升一半（+50%）。如果你进行攻击时使用的是副手武器或次要天生武器，此伤害加值减半（-50%）。当你的BAB达到+4，和以后的每4点提升，攻击减值再-1，伤害加值再+2。你必须在进行攻击检定前选择使用此专长，其效果持续到你的下回合之前。接触攻击和不造成生命点数伤害的效果无法获得伤害加值。",
+    "mythicText_zh": "你的攻击极具毁灭性。",
+    "mythicPrerequisites_zh": "猛力攻击",
+    "mythicBenefit_zh": "当你使用猛力攻击时，你的近战伤害检定获得+3加值，而非原本的+2点。当你的基本攻击加值达到+4以及之后每提高4点时，伤害加值的数值都会+3点以取代原本的+2点。此外，来自该专长的伤害加值会在重击时翻倍，而且这是在应用武器重击倍率之前进行的。<\/p><p>当你启动猛力攻击时，能够花费1次神话之力，以此在1分钟内忽略该专长对近战攻击检定与战技检定带来的惩罚。",
+    "staminaText_zh": "当你使用这个专长时，你可以消耗2点耐力来获得这个专长的好处和缺陷直到你的回合结束，而不是到你下一回合开始。"
 }

@@ -8,7 +8,7 @@
     "prerequisites": "Con 15, Wis 15, Efreeti Style, Elemental Fist, Improved Unarmed Strike, base attack bonus +11 or monk level 9th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using Efreeti Style, you gain fire resistance equal to your base attack bonus or your monk level plus any base attack bonus gained from levels in classes other than monk, whichever is higher. While denied your Dexterity bonus to AC you are also denied this resistance. Creatures that take fire damage from your Elemental Fist attack must succeed at a Reflex save (DC 10 + 1/2 your character level + your Wis modifier) or catch on fire.",
     "staminaSource": "Pathfinder Unchained pg. 119",
-    "staminaText": "When making an Elemental Fist<sup>APG<\/sup> attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid catching on fire by an amount equal to the number of stamina points you spent.",
+    "staminaText": "When making an Elemental Fist attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid catching on fire by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "efreeti style",
         "elemental fist",
@@ -16,6 +16,7 @@
     ],
     "name_zh": "炎宿",
     "text_zh": "你呼唤出实体化的炎之灵魂保护自己，并将敌人烧为灰烬。",
-    "prerequisites_zh": "体质15，炎灵，基本攻击加值+11或武僧9级。",
-    "benefit_zh": "你获得额外1次额外“元素之拳”每日使用次数。当你使用炎灵流派架势时获得以下好处：你获得火焰抗力，数值等同于你的基本攻击加值、或你的武僧等级加上你从其他职业得到的基本攻击加值（取高者）。当你失去AC的敏捷加值时，你也会失去此抗力。受到你元素之拳火焰伤害的对手须进行一次DC为“10+1/2角色等级+感知修正”的反射豁免，失败将着火。"
+    "prerequisites_zh": "体质15，炎灵，BAB+11或武僧9级。",
+    "benefit_zh": "你获得额外1次额外“元素之拳”每日使用次数。当你使用炎灵流派架势时获得以下专长效果：你获得火焰抗力，数值等同于你的基本攻击加值、或你的武僧等级加上你从其他职业得到的基本攻击加值（取高者）。当你失去AC的敏捷加值时，你也会失去此抗力。受到你元素之拳火焰伤害的对手须进行一次DC为“10+1/2角色等级+感知修正”的反射豁免，失败将着火。",
+    "staminaText_zh": "使用元素之拳令对手着火时你可花费最多5点耐力，每点耐力提升DC1点。"
 }

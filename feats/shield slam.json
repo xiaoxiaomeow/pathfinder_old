@@ -8,7 +8,7 @@
     "prerequisites": "Improved Shield Bash, Shield Proficiency, Two-Weapon Fighting, base attack bonus +6.",
     "benefit": "Any opponents hit by your shield bash are also hit with a free bull rush attack, substituting your attack roll for the combat maneuver check (see Combat). This bull rush does not provoke an attack of opportunity. Opponents who cannot move back due to a wall or other surface are knocked prone after moving the maximum possible distance. You may choose to move with your target if you are able to take a 5-foot step or to spend an action to move this turn.",
     "staminaSource": "Pathfinder Unchained pg. 131",
-    "staminaText": "Instead of attempting a free bull rush when using the Shield Slam feat, you can spend 2 stamina points to attempt a disarm, reposition<sup>APG<\/sup>, trip, or sunder combat maneuver. This combat maneuver attempt does not provoke an attack of opportunity from the target.",
+    "staminaText": "Instead of attempting a free bull rush when using the Shield Slam feat, you can spend 2 stamina points to attempt a disarm, reposition, trip, or sunder combat maneuver. This combat maneuver attempt does not provoke an attack of opportunity from the target.",
     "mythicSource": "Mythic Adventures pg. 73",
     "mythicText": "Your shield bash produces a powerful kick.",
     "mythicPrerequisites": "Shield Slam.",
@@ -20,6 +20,10 @@
     ],
     "name_zh": "盾牌猛冲",
     "text_zh": "只要地形合适，你能用盾牌让对手飞起来。",
-    "prerequisites_zh": "精通盾击，擅长盾牌，双武器格斗，基本攻击加值+6。",
-    "benefit_zh": "任何被你盾击命中的对手也受到一次附带的冲撞攻击，用这次攻击检定的结果来替代战技检定。这次冲撞不会触发借机攻击。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。"
+    "prerequisites_zh": "精通盾击，擅长盾牌，双武器格斗，BAB+6。",
+    "benefit_zh": "任何被你盾击命中的对手也受到一次附带的冲撞攻击，用这次攻击检定的结果来替代战技检定。这次冲撞不会触发借机攻击。因墙或其他表面不能后退的对手在移动最大的可行距离后被击倒在地。如果你本轮能够做一次五尺快步或花费一个动作来移动，你可以选择跟随你的目标移动。",
+    "mythicText_zh": "你的盾牌会以极大的力量冲击敌人。",
+    "mythicPrerequisites_zh": "盾牌猛冲",
+    "mythicBenefit_zh": "当你使用盾牌猛冲专长冲撞时，若1名敌人由于墙壁或者其他表面而被击倒在地的话，他还会由于碰撞而受到伤害。你每拥有2个阶层就会造成1d6点伤害。当你由于盾牌猛冲专长而进行冲撞检定时，以直觉动作，你能够花费1次神话之力将你的阶层加到你的战技检定上。",
+    "staminaText_zh": "你可以消耗2点耐力来在使用盾牌猛冲专长时尝试卸武，移位APG，绊摔，或者破武战技，而不是尝试一次自由冲撞。该战技尝试不会引起目标的借机攻击。"
 }

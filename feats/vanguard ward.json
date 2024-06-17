@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Armor Master's Handbook pg. 13"],
     "text": "You strongly defend your allies.",
-    "prerequisites": "Bodyguard<sup>APG<\/sup>, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields.",
+    "prerequisites": "Bodyguard, Combat Reflexes, Vanguard Style, proficiency with light or heavy shields.",
     "benefit": "While using Vanguard Style, when an adjacent ally is attacked or required to make a Reflex saving throw, you can expend a use of an attack of opportunity to use both Bodyguard and Vanguard Style to protect that ally. You can also lose your shield bonus to AC to grant your ally a shield bonus to AC of the same value for as long as that ally gains a bonus to Reflex saves from Vanguard Style.",
     "prerequisiteKeys":     [
+        "bodyguard",
         "combat reflexes",
         "vanguard style"
-    ]
+    ],
+    "name_zh": "先锋·盾",
+    "text_zh": "你能有力地护卫盟友。",
+    "prerequisites_zh": "保镖APG，战斗反射，先锋流，擅长轻盾或重盾。",
+    "benefit_zh": "开启先锋流后，若你一个邻接盟友被攻击或者需要骰反射豁免，你可以使用借机攻击来同时使用保镖专长和先锋流来保护他。只要他在反射豁免上有先锋流的加值，你就可以舍弃你自身的盾牌AC加值，来为该盟友添加相同的盾牌AC。"
 }

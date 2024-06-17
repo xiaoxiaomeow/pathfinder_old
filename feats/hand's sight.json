@@ -6,5 +6,9 @@
     "text": "By manifesting an eerie, spiritual eye of its own, your possessed hand can “see” on your behalf.",
     "prerequisites": "Possessed Hand.",
     "benefit": "While your possessed hand isn’t carrying anything, you gain darkvision with a range of 60 feet and cannot be flanked.",
-    "prerequisiteKeys": ["possessed hand"]
+    "prerequisiteKeys": ["possessed hand"],
+    "name_zh": "手心长眼",
+    "text_zh": "透过显现出一只怪异恐怖的精魄之眼，你的鬼手能替你「看」东西。",
+    "prerequisites_zh": "鬼上手。",
+    "benefit_zh": "当你的鬼手没持有任何东西时，你获得黑暗视觉60尺并不能被夹击。"
 }

@@ -11,5 +11,9 @@
         "improved two-weapon fighting",
         "shielded staff style",
         "two-weapon fighting"
-    ]
+    ],
+    "name_zh": "盾杖大师",
+    "text_zh": "你的木棍与盾合为一体。",
+    "prerequisites_zh": "敏捷17，精通双武器格斗，盾杖流，双武器格斗，BAB+8。",
+    "benefit_zh": "当使用盾杖流时，你将安装的小圆盾或盾牌的增强加值（如果有）加在你从流派获得的盾牌加值上。另外，你不会受到使用盾杖攻击造成的-1攻击减值。如果你的盾牌和武器都拥有增强加值，使用更高的加值来决定你盾杖攻击和伤害骰的加值。"
 }

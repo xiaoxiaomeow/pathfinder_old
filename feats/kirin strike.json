@@ -8,7 +8,7 @@
     "prerequisites": "Int 13, Kirin Style, Improved Unarmed Strike, Knowledge (arcana) 9 ranks, Knowledge (dungeoneering, local, nature, planes, or religion) 3 ranks.",
     "benefit": "You gain a +2 insight bonus on Knowledge checks made to identify creatures, including the one Kirin Style allows. While using Kirin Style against a creature you have identified using that feat, as a swift action after you have hit a creature with a melee or ranged attack, you can add twice your Intelligence modifier in damage (minimum 2).",
     "staminaSource": "Pathfinder Unchained pg. 125",
-    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identified with Kirin Style<sup>UC<\/sup>, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.",
+    "staminaText": "As long as you have at least 1 stamina point in your stamina pool, when you hit a creature you have identified with Kirin Style, you add your Intelligence modifier to melee and ranged attack damage rolls against that creature for the next 24 hours. You still can take a swift action to add twice your Intelligence modifier to damage rolls, but that damage doesn’t stack with the damage from this combat trick.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "kirin style"
@@ -16,5 +16,6 @@
     "name_zh": "麒麟破",
     "text_zh": "你已精研过相关典籍，并知晓如何攻击敌人防御最薄弱之处。",
     "prerequisites_zh": "智力13，麒麟势，精通徒手打击，知识（奥秘）9级，知识（地城，地方，自然，位面，或宗教）3级。",
-    "benefit_zh": "你鉴定生物的知识检定得到+2洞察加值。当你处于麒麟流派架势时，在你的近战攻击或远程攻击击中对手后，用一个迅捷动作，你对知识检定成功的生物造成等于你两倍智力修正的额外伤害（最少为2）。"
+    "benefit_zh": "你鉴定生物的知识检定得到+2洞察加值。当你处于麒麟流派架势时，在你的近战攻击或远程攻击击中对手后，用一个迅捷动作，你对知识检定成功的生物造成等于你两倍智力修正的额外伤害（最少为2）。",
+    "staminaText_zh": "只要你在你的耐力池中还拥有至少1点耐力，当你击中一个你用麒麟势鉴定过的生物时，你可以在之后的24小时将你的智力调整值加到对抗那个生物的近战和远程伤害骰上。你可以以一个迅捷动作将两倍智力调整值加到伤害骰上，但不会与来自这个战策的伤害叠加。"
 }

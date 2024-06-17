@@ -11,6 +11,7 @@
     "staminaText": "When you reduce an opponent to 0 hit points, you can spend 2 stamina points to force the creature to succeed at the saving throw for Deadly Finish or die.",
     "name_zh": "致命终结",
     "text_zh": "你的攻击从不击倒对手——因为他们都直接死了。",
-    "prerequisites_zh": "基本攻击加值+11。",
-    "benefit_zh": "当你用近战攻击将你的敌人的生命值减少至-1或更低时，他必须进行一次DC为“15+最后一击伤害”的强韧检定，否则立刻死亡。"
+    "prerequisites_zh": "BAB+11。",
+    "benefit_zh": "当你用近战攻击将你的敌人的生命值减少至-1或更低时，他必须进行一次DC为“15+最后一击伤害”的强韧检定，否则立刻死亡。",
+    "staminaText_zh": "花费2点耐力，你可以令目标的强韧检定必然成功。"
 }

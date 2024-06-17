@@ -7,5 +7,9 @@
     "text": "Targets of your darkness spells radiate darkness.",
     "prerequisites": "Tenebrous Spell.",
     "benefit": "An umbral spell gains the darkness descriptor. As long as the spell is in effect, the creature or object affected radiates darkness in a 10-foot radius, reducing illumination similar to the effects of the darkness spell. Nonmagical sources of light, such as torches or lanterns, do not increase the light level in this area. Magical light sources only increase the light level in an area affected by an umbral spell if they are of a higher level than the umbral spell’s unmodified spell level. This effect does not stack with itself or with any other effect that creates darkness. An umbral spell uses up a spell slot two levels higher than the spell’s actual level.<br><br> You cannot use this feat on a spell with an instantaneous duration or a spell that does not target a creature or object.",
-    "prerequisiteKeys": ["tenebrous spell"]
+    "prerequisiteKeys": ["tenebrous spell"],
+    "name_zh": "辐影法术",
+    "text_zh": "你的黑暗法术的目标会辐射出黑暗。",
+    "prerequisites_zh": "晦暗法术（Tenebrous Spell）。",
+    "benefit_zh": "辐影法术会获得黑暗描述符（darkness descriptor）。只要法术仍旧生效，受到影响的生物或物体就会辐射出半径10尺的黑暗，以类似黑暗术（darkness）的效果降低光照。诸如火把或提灯的非魔法光源无法在该区域内提高光照等级（light level）。魔法光源只有在等级比辐影法术的未调整法术等级（unmodified spell level）高时，才能增加被辐影法术影响区域内的光照等级。该效果与自身或其他创造黑暗的效果相互之间不会叠加。辐影法术占用高于原本法术等级2级的法术位。<\/p><p>你无法将该专长应用于持续时间为立即，或者不以生物或物体为目标的法术。"
 }

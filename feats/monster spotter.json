@@ -6,5 +6,9 @@
     "text": "Your knowledge of strange life forms makes you adept at piercing their disguises and detecting their hiding places.",
     "prerequisites": "Skill Focus (Knowledge [any]), Knowledge (any) 3 ranks.",
     "benefit": "You can substitute a Knowledge skill for opposed Perception checks against creatures’ Disguise and Stealth checks, and for Survival checks to track creatures. You must have 3 ranks in the Knowledge skill that corresponds to the creature’s type (<i>Pathfinder RPG Core Rulebook 99–100<\/i>).",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "怪物雷达",
+    "text_zh": "你对奇异生命形式的了解使你能熟练地洞穿它们的伪装，发现它们的藏身之处。",
+    "prerequisites_zh": "技能专攻（知识（任意）），知识（任意）3级。",
+    "benefit_zh": "你可以用知识检定代替对抗生物的易容和隐匿的察觉检定，以及追踪生物的生存检定。你必须在与对应生物类型(探路者RPG CRB 99-100)相关的知识上有3个等级。"
 }

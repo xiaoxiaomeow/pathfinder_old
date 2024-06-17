@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 13"],
     "text": "You effortlessly savage fearful enemies.",
-    "prerequisites": "Bullying Blow<sup>ARG<\/sup>, Intimidating Prowess, Orc Fury Style, Intimidate 5 ranks, weapon familiarity racial trait.",
+    "prerequisites": "Bullying Blow, Intimidating Prowess, Orc Fury Style, Intimidate 5 ranks, weapon familiarity racial trait.",
     "benefit": "While using Orc Fury Style, you gain a +1 bonus on attack rolls and damage rolls against shaken opponents, and you don’t take an attack penalty when using the Bullying Blow feat.",
     "prerequisiteKeys":     [
+        "bullying blow",
         "intimidating prowess",
         "orc fury style"
-    ]
+    ],
+    "name_zh": "兽人狂怒斩",
+    "text_zh": "你能轻松地斩杀心生惧意的敌人。",
+    "prerequisites_zh": "威吓猛击，威逼，兽人暴怒斩，威吓5级，武器熟悉种族特性。",
+    "benefit_zh": "当你使用兽人暴怒斩时，对抗战栗（shaken）敌人的攻击检定和伤害检定会获得+1加值，而且你的攻击不再会因为使用威吓猛击专长而承受减值。"
 }

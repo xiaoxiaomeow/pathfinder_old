@@ -7,5 +7,9 @@
     "text": "Your experiments with the connection between summoners and the creatures they summon have taught you to see through the eyes of a summoned creature for a short time.",
     "prerequisites": "Spell Focus (conjuration), ability to cast <i>magic jar<\/i>.",
     "benefit": "When casting a conjuration (summoning) spell that summons a single creature, you can possess the creature as per <i>magic jar<\/i> (but with no receptacle necessary). If the creature takes damage while you possess it, you must succeed at a concentration check (DC equal to the amount of damage taken) or be ejected from the creature immediately. If the creature takes enough damage to reduce it to 0 hit points or fewer, you are immediately ejected from the creature and take an amount of damage equal to double the level of the spell slot used to summon that creature. A scouting summons spell takes up a spell slot 2 levels higher than the spell’s actual level.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "侦查召唤",
+    "text_zh": "你对召唤者和召唤物之间联系的研究教会了你如何在短时间内通过召唤物的眼睛进行观察。",
+    "prerequisites_zh": "法术专攻（咒法），使用魔魂壶的能力。",
+    "benefit_zh": "当你使用一个召唤（summoning）法术召唤单一生物时，你可以占据这个生物如同一个魔魂壶（但不需要可用的容器）。如果生物在被你占据的时间内受到伤害，你必须通过一个专注鉴定（DC等同于受到的伤害）或者被立刻从生物身上驱逐出来。如果生物受到了足够把它的生命减少到0或者更少的伤害，你立刻被从生物身上驱逐出来并受到等同于召唤这个生物所用法术位两倍的伤害。一个侦察召唤法术须占用高于原本2个环位的法术位。"
 }

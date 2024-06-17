@@ -12,5 +12,10 @@
     "prerequisiteKeys":     [
         "dodge",
         "mobility"
-    ]
+    ],
+    "name_zh": "不在范围内",
+    "text_zh": "攻击者离你越远，你越容易闪躲近战攻击。",
+    "prerequisites_zh": "敏捷13，闪避，灵活移动。",
+    "benefit_zh": "当距离你5尺之外的目标因长触及近战攻击你时，你对抗该种攻击的AC获得+4闪避加值。",
+    "staminaText_zh": "你可以消耗5点耐力来在任意一次近战攻击上获得该专长的好处。"
 }

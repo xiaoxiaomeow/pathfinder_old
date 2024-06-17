@@ -6,5 +6,9 @@
     "text": "Your healing energy also damages your enemies.",
     "prerequisites": "Cha 15, Selective Channeling, channel energy class feature.",
     "benefit": "When you channel positive energy to heal, one creature that you exclude from your channeling takes an amount of fire damage equal to the die result you roll for healing, and is dazzled for 1 round by the light of these flames. A successful saving throw against your channel energy halves the fire damage and negates the dazzled effect.",
-    "prerequisiteKeys": ["selective channeling"]
+    "prerequisiteKeys": ["selective channeling"],
+    "name_zh": "涤净引导",
+    "text_zh": "你的治疗能量能够同时伤害敌人。",
+    "prerequisites_zh": "魅力 15，选择引导，引导能量职业特性。",
+    "benefit_zh": "当你引导正能量治疗生物时，选择一个被你排除在引导能量治疗效果之外的生物，令其受到等同于你治疗骰结果的火焰伤害，并因这些火焰的强光而目眩一轮。一次成功的对抗你的引导能量的豁免检定可以减半火焰伤害并抵抗目眩效果。"
 }

@@ -11,5 +11,9 @@
         "combat reflexes",
         "improved shield bash",
         "upsetting shield style"
-    ]
+    ],
+    "name_zh": "强击·返",
+    "text_zh": "对于晕头转向的敌人你能逆转攻防。",
+    "prerequisites_zh": "敏捷15，战斗反射，精通盾击，强击流，擅长小圆盾。",
+    "benefit_zh": "开启强击流后，如果敌人因强击流的效果而在对你的攻击骰上承受减值，并且他对你攻击失手，且至少少于你的AC5点或以上时，该敌人会引起你的借机攻击。每轮你只能像这样对一个敌人进行一次借机攻击。"
 }

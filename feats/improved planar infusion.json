@@ -7,5 +7,8 @@
     "text": "Your connection to the planes has grown stronger.",
     "prerequisites": "Planar Infusion, character level 7th.",
     "benefit": "Choose a plane you’ve gained an infusion from via Planar Infusion. You now gain that plane’s improved infusion as well.",
-    "prerequisiteKeys": ["planar infusion"]
+    "prerequisiteKeys": ["planar infusion"],
+    "name_zh": "进阶位面谐律",
+    "text_zh": "你与位面之间的联系变得更强大了。",
+    "benefit_zh": "选择一个你已经通过位面谐律获得了其谐律的位面，你同样获得其进阶谐律。"
 }

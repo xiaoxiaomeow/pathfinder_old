@@ -9,5 +9,9 @@
     "benefit": "Whenever an opponent you threaten makes an attack against a helpless, prone, or stunned ally or any attack against a noncombatant, that opponent provokes an attack of opportunity from you. If your attack of opportunity hits your foe, she takes a –4 penalty on the attack roll that provoked this attack of opportunity.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "When an opponent provokes an attack of opportunity from you as a result of the Intrepid Rescuer feat, if your attack of opportunity hits, you can spend 5 stamina points to cause the opponent’s attack to automatically miss your ally.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys": ["combat reflexes"],
+    "name_zh": "无畏救援",
+    "prerequisites_zh": "战斗反射，信仰库尔吉斯（Kurgess）。",
+    "benefit_zh": "每当一个你威胁的敌人承受攻击一个陷入无助，俯卧或震慑状态的盟友，或是尝试攻击非战斗人员时，这将会导致你对他进行借机攻击。如果你的借机攻击命中目标，那么他在导致这一借机攻击的攻击检定上承受-4减值。",
+    "staminaText_zh": "当一个敌人因为无畏救援引发了来自你的借机攻击时，如果你的借机攻击命中了，你可以消耗5点耐力来让对手的攻击对你的盟友自动失手。"
 }

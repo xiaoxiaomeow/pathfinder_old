@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "arcane strike",
         "disruptive"
-    ]
+    ],
+    "name_zh": "放逐重击",
+    "text_zh": "依靠你纯属的作战技术和法术知识，你将异界怪物送回他们的老家。",
+    "prerequisites_zh": "重击专攻，施放驱逐术（dismissal）或放逐术（banishment）的能力，施法者等级9。",
+    "benefit_zh": "当你用一把挥砍或钝击武器造成攻击，你可以用一次直觉动作施放驱逐术或放逐术，并且目标在对抗这次法术的意志检定中有-4罚值。你必须准备有或能够自发施放驱逐术或放逐术才能使用该能力。"
 }

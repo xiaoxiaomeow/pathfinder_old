@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "shielded staff style",
         "two-weapon fighting"
-    ]
+    ],
+    "name_zh": "盾杖突袭",
+    "text_zh": "你可以出其不意的用战技攻击敌人。",
+    "prerequisites_zh": "敏捷15，盾杖流，双武器格斗，BAB+4。",
+    "benefit_zh": "当使用盾杖流时，如果你用盾杖击中一个敌人，你可以用直觉动作尝试一次冲撞、卸武、破武或摔绊战技。如果你尝试战技的话，在下一轮开始前你会失去盾牌加值。"
 }

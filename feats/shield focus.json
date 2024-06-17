@@ -16,6 +16,10 @@
     "prerequisiteKeys": ["shield proficiency"],
     "name_zh": "盾牌专攻",
     "text_zh": "你善于用盾牌偏转攻击。",
-    "prerequisites_zh": "擅长盾牌，基本攻击加值+1。",
-    "benefit_zh": "你由盾牌获得的AC加值+1。"
+    "prerequisites_zh": "擅长盾牌，BAB+1。",
+    "benefit_zh": "你由盾牌获得的AC加值+1。",
+    "mythicText_zh": "你是利用盾牌保护自身的行家里手。",
+    "mythicPrerequisites_zh": "盾牌专攻",
+    "mythicBenefit_zh": "将你的盾牌加值以及你的盾牌的增强加值算入你的接触AC中。以直觉动作，你能够花费1次神话之力，以此将你的盾牌加值与你的盾牌的增强加值应用到1次你将要进行的强韧或反射豁免中。",
+    "staminaText_zh": "当你使用盾牌时，你可以在一次针对你的攻击做出后消耗至多2点耐力。如果你这样做了，对抗那次攻击的AC盾牌加值将会提升等同于你消耗的耐力。"
 }

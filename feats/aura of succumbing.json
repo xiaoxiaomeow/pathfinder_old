@@ -5,5 +5,9 @@
     "source": ["Inner Sea Gods pg. 207"],
     "text": "Your foul patron’s influence hastens death’s approach.",
     "prerequisites": "Channel energy class feature, worshiper of one of the Four Horsemen.",
-    "benefit": "As a swift action, you can expend one of your uses of channel energy to emanate a 30-foot-radius aura of succumbing for a number of rounds equal to your effective cleric level. Dying creatures in the area take 1 point of damage per die of your normal channel negative energy damage at the start of your turn each round. A successful Will save (DC equal to the DC of your channel energy ability) halves this damage. Whenever a living creature dies while within your aura of succumbing, you gain a number of temporary hit points equal to that creature’s Hit Dice. These temporary hit points last for 1 hour."
+    "benefit": "As a swift action, you can expend one of your uses of channel energy to emanate a 30-foot-radius aura of succumbing for a number of rounds equal to your effective cleric level. Dying creatures in the area take 1 point of damage per die of your normal channel negative energy damage at the start of your turn each round. A successful Will save (DC equal to the DC of your channel energy ability) halves this damage. Whenever a living creature dies while within your aura of succumbing, you gain a number of temporary hit points equal to that creature’s Hit Dice. These temporary hit points last for 1 hour.",
+    "name_zh": "崩坏灵光",
+    "text_zh": "你的邪恶主宰赋予你为万物带来死亡的大能。",
+    "prerequisites_zh": "引导能量职业能力，信仰四驭者（The Four Horsemen）之一。",
+    "benefit_zh": "以一个迅捷动作，你可以消耗一发本日的引导能量次数，散发出范围30尺的崩坏灵光，灵光持续的轮数等同于你的有效牧师等级。在你的每轮开始时，所有处于灵光范围内的濒死（Dying）生物受到你的引导能量骰数点伤害，该伤害可以通过一个成功的意志检定（DC等同于你的引导能量DC）减半。每当任何一个活物在你的崩坏灵光范围内死亡，你就会获得相当于该生物HD的临时生命值。这些临时生命值持续1小时。"
 }

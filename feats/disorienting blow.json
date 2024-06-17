@@ -7,5 +7,9 @@
     "text": "When you successfully strike your opponent with your Stunning Fist, you leave it in a state of confusion.",
     "prerequisites": "Stunning Fist, base attack bonus +11.",
     "benefit": "You must choose to use this ability before making an attack roll with your Stunning Fist, and this effect replaces other effects or conditions that would be caused by Stunning Fist. If you successfully hit your opponent and it fails its Fortitude save, it becomes confused for 1 round. Additional disorienting blows to the confused target add to the duration of its confusion. This feat is otherwise subject to all of the limits and conditions of Stunning Fist.",
-    "prerequisiteKeys": ["stunning fist"]
+    "prerequisiteKeys": ["stunning fist"],
+    "name_zh": "迷失打击",
+    "text_zh": "当你成功用震慑拳击中敌人的时候，你可以让他陷入困惑。",
+    "prerequisites_zh": "震慑拳，基本攻击加值11。",
+    "benefit_zh": "你必须在使用震慑拳之前宣布使用迷失打击，此专长将会取代其他由震慑拳造成的效果。一但你成功击中敌人，而且他强韧检定失败，那么他将会困惑一轮，额外生效的迷失打击将会延长困惑效果的持续时间，迷失打击在其他部分皆与震慑拳相同，且受到相同的限制。"
 }

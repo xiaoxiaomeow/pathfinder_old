@@ -7,5 +7,9 @@
     "prerequisites": "Combat Casting, ability to cast divine spells, worshiper of Abadar.",
     "benefit": "Three times per day, as a free action when you cast a harmless divine spell or a domain spell, you can choose for the casting to not provoke attacks of opportunity.",
     "special": "You can take this feat multiple times. When you do, you can use this feat three more times per day.",
-    "prerequisiteKeys": ["combat casting"]
+    "prerequisiteKeys": ["combat casting"],
+    "name_zh": "神之严密",
+    "prerequisites_zh": "战斗施法，能够施放神术，信仰阿巴达尔。",
+    "benefit_zh": "每天3次，当你施放一个无害法术或领域法术时，你可以以一个自由动作保护自己不受施法借机攻击。",
+    "special_zh": "你可以多次选择本专长，每次选择将使你获得每天额外3次使用机会。"
 }

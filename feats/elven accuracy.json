@@ -11,10 +11,14 @@
     "staminaText": "If you miss an attack with a longbow or shortbow due to concealment, you can spend 5 stamina points to automatically succeed at the miss chance reroll from this feat.",
     "mythicSource": "Mythic Adventures pg. 64",
     "mythicText": "Your elven eyesight cuts though concealment.",
-    "mythicPrerequisites": "Elven Accuracy<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Elven Accuracy.",
     "mythicBenefit": "When you make an attack with a longbow or short bow (including composite bows), you can ignore concealment, but not total concealment. You still suffer a miss chance for total concealment, but if you miss due to total concealment, you may reroll your miss chance as per Elven Accuracy.",
     "name_zh": "精灵之眼",
     "text_zh": "你那敏锐的视觉使得困难的射击变得从容。",
     "prerequisites_zh": "精灵。",
-    "benefit_zh": "如果你使用长弓或短弓（包括复合弓）进行远程攻击，却由于隐蔽而失手，那么你能够重新投掷一次失手率检定来看看你是否真的命中。"
+    "benefit_zh": "如果你使用长弓或短弓（包括复合弓）进行远程攻击，却由于隐蔽而失手，那么你能够重新投掷一次失手率检定来看看你是否真的命中。",
+    "mythicText_zh": "精灵天生的视觉能力会让你找到敌人掩体的缺口。",
+    "mythicPrerequisites_zh": "精灵之眼",
+    "mythicBenefit_zh": "当你使用长弓或短弓（包括复合弓）进行攻击时，你能够忽略隐蔽（concealment），但是无法忽略全隐蔽（total concealment）。你仍旧会受到全隐蔽带来的失手率，但是如果你由于全隐蔽而失手，那么你就可以如同精灵之眼专长一般重掷失手率。",
+    "staminaText_zh": "花费5点耐力，你可在重投失手检定时自动通过。"
 }

@@ -11,5 +11,10 @@
     "prerequisites": "Two-Weapon Fighting, base attack bonus +4, proficiency with the dwarven dorn-dergar.",
     "benefit": "You can use a dorn-dergar as a one-handed weapon. When using it one-handed, changing whether it’s a normal or reach weapon is a full-round action. If you have the Darting Viper feat, changing its reach is a move action.",
     "normal": "A dorn-dergar requires two hands to wield.",
-    "prerequisiteKeys": ["two-weapon fighting"]
+    "prerequisiteKeys": ["two-weapon fighting"],
+    "name_zh": "链锤大师",
+    "text_zh": "你可以用一只手轻松地操作链子锤。",
+    "prerequisites_zh": "双武器格斗，基础攻击加值+4，擅长矮人链子锤。",
+    "benefit_zh": "你可以将矮人链子锤作为单手武器使用。在以单手持用矮人链子锤时，你需要一个整轮动作来调整链子锤的触及或非触及特性；如果你拥有铁蟒出洞专长，那么你可以以一个移动动作将矮人链子锤切换为触及或非触及武器。",
+    "normal_zh": "矮人链子锤是需要双手持用的武器。"
 }

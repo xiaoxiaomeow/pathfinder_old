@@ -6,5 +6,9 @@
     "text": "You are adept at seeing more when scrying.",
     "prerequisites": "Spell Focus (divination), the ability to cast at least one spell of the scrying subschool.",
     "benefit": "When casting a scrying spell, you see through the spell’s sensor with darkvision 60 feet, whether or not you possess darkvision normally and whether or not the spell normally allows you to see with darkvision. If the spell sends back sensory information only within 10 feet of the sensor (such as with <i>scrying<\/i> and <i>greater scrying<\/i>), this feat doesn’t increase that range. You receive a +2 bonus on Perception checks to notice things through a scrying sensor, and your prying eyes and insect spies also receive a +2 bonus on Perception checks.<br><br> When you use the <i>scrying<\/i> or <i>greater scrying<\/i> spell, you have a 10% increase to the chance of using spells through the sensor.",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "优秀探测者",
+    "text_zh": "你能在进行探知时看到更多的信息。",
+    "prerequisites_zh": "法术专攻（预言），至少能够施放1个探知子学派（scrying subschool）法术的能力。",
+    "benefit_zh": "当你施放探知系法术（scrying spell）时，无论你本身是否具有黑暗视觉（darkvision）、或者法术在正常情况下是否允许你使用黑暗视觉进行观察，你通过法术的感受器（sensor）进行观察时都会视为具有60尺黑暗视觉（darkvision）。如果法术传回的感觉信息仅限于感受器周围10尺范围之内时，比如探知（Scrying）和高等探知（Greater Scrying）法术，该专长便无法增加它能探知的范围。当你通过探知感受器进行观察时，察觉事物（notice things）的察觉检定会获得+2加值；你的窥视魔眼（Prying Eyes）与昆虫探子*（Insect Spies）也会在察觉检定中获得+2加值。<\/p><p>在使用探知（Scrying）或高等探知（Greater Scrying）法术时，你正在使用的法术能通过感受器运作的概率增加10%。"
 }

@@ -6,5 +6,9 @@
     "text": "Your fiendish visage has made you a truly terrifying spectacle to behold, and you can force others to betray their feelings with a single look.",
     "prerequisites": "Cha 13, Monstrous Mask, tiefling.",
     "benefit": "Anytime you can make a Sense Motive check to get a hunch or detect whether someone is trustworthy or not, you can choose to instead make an Intimidate check at a –2 penalty. This ability only works on creatures of the humanoid type.",
-    "prerequisiteKeys": ["monstrous mask"]
+    "prerequisiteKeys": ["monstrous mask"],
+    "name_zh": "骇人面容",
+    "text_zh": "你的炼狱面容使你成为了真正可怖的景象，仅仅四目相交就能迫使他人泄露自己的本心。",
+    "prerequisites_zh": "魅力13，恐怖面容，魔裔。",
+    "benefit_zh": "无论何时你都能进行察言观色检定获得直觉（get a hunch）或者检测出某人是否值得信任，你也能够选择使用受到-2减值的威吓检定替代察言观色。该能力只对类人类型的生物（creatures of the humanoid type）生效。"
 }

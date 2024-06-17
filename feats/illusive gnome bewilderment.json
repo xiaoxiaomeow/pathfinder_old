@@ -5,12 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 12"],
     "text": "You can use your gnome weapons in unusual ways.",
-    "prerequisites": "Int 13, Combat Expertise, Gnome Weapon Focus<sup>ARG<\/sup>, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits.",
+    "prerequisites": "Int 13, Combat Expertise, Gnome Weapon Focus, Illusive Gnome Style, Illusive Gnome Surprise, Improved Feint, gnome magic and weapon familiarity racial traits.",
     "benefit": "While using Illusive Gnome Style, when you successfully use Bluff to feint against an opponent, you can pick one special weapon feature from among those listed by Illusive Gnome Surprise and deny the opponent its Dexterity modifier to AC, as normal for feinting; alternatively, you can pick two special weapon features instead of one.",
     "prerequisiteKeys":     [
         "combat expertise",
+        "gnome weapon focus",
         "illusive gnome style",
         "illusive gnome surprise",
         "improved feint"
-    ]
+    ],
+    "name_zh": "侏儒迷乱打",
+    "text_zh": "你能以更为奇特的姿势使用侏儒武器。",
+    "prerequisites_zh": "智力13，寓守于攻，侏儒武器专攻，侏儒幻影武技，侏儒幻影奇袭，精通虚招，侏儒魔法与武器熟悉种族特性。",
+    "benefit_zh": "在你使用侏儒幻影武技期间，当你成功以唬骗对一名敌人使用了虚招的时候，能够从侏儒幻影奇袭中列出的特殊武器特性中选择一种，与此同时还可以让敌人失去AC上的敏捷调整值，就如同普通的虚招一般；或者你也可以选择两种特殊武器特性，以取代选择一种（但是不会让敌人的AC失去敏捷加值）。"
 }

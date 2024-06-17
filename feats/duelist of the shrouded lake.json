@@ -9,7 +9,7 @@
     ],
     "text": "You have embraced the Shrouded Lake style of Aldori swordplay, known for its circuitous footwork.",
     "prerequisites": "Aldori Dueling Disciple, Exotic Weapon Proficiency (Aldori dueling sword), Weapon Finesse, Weapon Focus (Aldori dueling sword), base attack bonus +5.",
-    "benefit": "When attempting to bull rush or reposition<sup>APG<\/sup> a foe, you gain a +1 insight bonus on the combat maneuver check and a +4 dodge bonus to your AC against attacks of opportunity you provoke. You also gain a +1 insight bonus to your CMD against bull rush and reposition attempts. When you attempt a dueling dodge during a duel, your bonus to AC increases to +6. To gain these benefits, you must be wielding only an Aldori dueling sword (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons).",
+    "benefit": "When attempting to bull rush or reposition a foe, you gain a +1 insight bonus on the combat maneuver check and a +4 dodge bonus to your AC against attacks of opportunity you provoke. You also gain a +1 insight bonus to your CMD against bull rush and reposition attempts. When you attempt a dueling dodge during a duel, your bonus to AC increases to +6. To gain these benefits, you must be wielding only an Aldori dueling sword (not using a shield, an off-hand weapon, armor spikes, unarmed strikes, or natural weapons).",
     "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "By spending 5 stamina points when you attempt a combat maneuver check with an Aldori dueling sword, you gain a +4 bonus to your AC against attacks made by that target until the beginning of your next turn.",
     "prerequisiteKeys":     [
@@ -17,5 +17,10 @@
         "exotic weapon proficiency",
         "weapon finesse",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "雾池剑式",
+    "text_zh": "你学会了奥多里剑术中的雾池剑式，这招以迂回而诡诈的步伐而闻名。",
+    "prerequisites_zh": "奥多里剑斗学徒，擅长异种武器（奥多里决斗剑），武器娴熟，武器专攻（奥多里决斗剑），BAB+5。",
+    "benefit_zh": "当你尝试对敌人进行冲撞（bull rush）或移位（reposition）战技时，你的战技检定获得+1洞察加值，并且AC在对抗你所引起的借机攻击时获得+4闪避加值。此外，你在对抗冲撞或移位战技的尝试时，CMD获得+1洞察加值。当你尝试在决斗中进行决斗闪避（dueling dodge）时，你在AC上获得的加值增加至+6点。你只有在持握奥多里决斗剑（没有使用盾牌、副手武器、甲刺、徒手打击或天生武器）的时候才能获得这些好处。",
+    "staminaText_zh": "当你在使用奥多里决斗剑尝试战技检定时，通过消耗5点耐力，你在对抗该目标的AC上获得+4加值，直到你的下一回合开始。"
 }

@@ -21,11 +21,11 @@
     "spellResistance": "no",
     "text": "This spell functions as <i>simulacrum<\/i>, except you can’t create a <i>simulacrum <\/i>of a creature whose HD or levels exceed your caster level, and it has no magical abilities. The creature is not under your control, though it recognizes you are its creator.",
     "name_zh": "次级拟像术",
-    "castingTime_zh": "1小声",
-    "components_zh": "语言, 姿势, 材料 (一个目标的冰雪雕像毛坯，加上拟像每HD50GP的红宝石)持续时间            1小时/等级",
+    "castingTime_zh": "1小时",
+    "components_zh": "语言, 姿势, 材料 (一个目标的冰雪雕像毛坯，加上拟像每HD50GP的红宝石)",
     "range_zh": "0尺",
     "duration_zh": "1小时/等级",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
+    "spellResistance_zh": "否",
     "text_zh": "<p>这个法术工作方式如同拟像术 (simulacrum)，但是你创造的拟像的HD或等级不得高于你的施法者等级，并且没有魔法类能力。<\/p><p>这个造物并不处于你的控制之下，虽然它会承认你是它的创造者<\/p>"
 }

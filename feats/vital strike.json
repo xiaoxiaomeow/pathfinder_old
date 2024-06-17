@@ -15,6 +15,10 @@
     "mythicBenefit": "Whenever you use Vital Strike, Improved Vital Strike, or Greater Vital Strike, multiply the Strength bonus, magic bonus, and other bonuses that would normally be multiplied on a critical hit by the number of weapon damage dice you roll for that feat.<br><br> Extra damage from sources that wouldn’t normally be multiplied on a critical hit isn’t multiplied by this feat.",
     "name_zh": "要害打击",
     "text_zh": "你在一击中造成明显超乎寻常的伤害。",
-    "prerequisites_zh": "基本攻击加值+6。",
-    "benefit_zh": "你能以一个攻击动作，利用你的最高基本攻击加值做出一次可造成额外伤害的攻击。该次攻击扔武器伤害骰两次并相加，之后再加算力量、武器能力（例如〔炽焰〕附魔），基于精准的伤害和其它伤害加值。本专长带来的额外武器伤害在重击时不翻倍，而只加在总值上。"
+    "prerequisites_zh": "BAB+6。",
+    "benefit_zh": "你能以一个攻击动作，利用你的最高基本攻击加值做出一次可造成额外伤害的攻击。该次攻击扔武器伤害骰两次并相加，之后再加算力量、武器能力（例如〔炽焰〕附魔），基于精准的伤害和其它伤害加值。本专长带来的额外武器伤害在重击时不翻倍，而只加在总值上。",
+    "mythicText_zh": "你能够用不可思议的力量打击敌人。",
+    "mythicPrerequisites_zh": "要害打击",
+    "mythicBenefit_zh": "每当你使用要害打击（Vital Strike）、精通要害打击（Improved Vital Strike）或高等要害打击（Greater Vital Strike）专长时，力量加值、魔法加值以及其他通常会在重击中依照重击倍率加倍的加值，均会按照上述专长中武器伤害骰的数量翻倍。<\/p><p>通常无法在重击中翻倍的额外伤害也无法被该专长所翻倍。",
+    "staminaText_zh": "在你投出要害打击的攻击后，你可以消耗2点耐力来重投至多两个武器伤害骰。（对于拥有多于一个伤害骰的武器，将所有武器的基本伤害骰视为一个）。你必须接受第二次结果，即使它更糟。"
 }

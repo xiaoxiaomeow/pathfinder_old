@@ -8,7 +8,14 @@
     ],
     "source": ["Armor Master's Handbook pg. 13"],
     "text": "You can bring your shield to bear against dangers that threaten your allies.",
-    "prerequisites": "Bodyguard<sup>APG<\/sup>, Combat Reflexes, proficiency with light or heavy shields.",
+    "prerequisites": "Bodyguard, Combat Reflexes, proficiency with light or heavy shields.",
     "benefit": "While using this style, when an adjacent ally is required to make a Reflex saving throw, you can expend a use of an attack of opportunity to attempt the aid another action to improve your ally’s Reflex save. Your ally gains a +2 bonus to all Reflex saves while adjacent to you until the beginning of your next turn.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys":     [
+        "bodyguard",
+        "combat reflexes"
+    ],
+    "name_zh": "先锋流",
+    "text_zh": "你使用你盾在前方护卫盟友。",
+    "prerequisites_zh": "保镖APG，战斗反射，擅长轻盾或重盾。",
+    "benefit_zh": "开启此流派后，若你一个邻接盟友需要骰反射豁免，你可以使用借机攻击来尝试进行援助他人，来增强你的盟友的反射豁免。在你的下一轮开始前，你的盟友在与你邻接时获得+2加值在所有反射豁免上。"
 }

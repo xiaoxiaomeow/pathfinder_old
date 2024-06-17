@@ -6,5 +6,9 @@
     "text": "Your possessed hand can act independently.",
     "prerequisites": "Possessed Hand.",
     "benefit": "You reduce the penalties for fighting with two weapons (including fighting with double weapons or when throwing weapons from each hand) by 2, to a minimum penalty of –1. This benefit stacks with the Two-Weapon Fighting feat. When you are unconscious, paralyzed, asleep, or stunned, your possessed hand can still act on your behalf in a limited fashion. The hand uses your statistics when performing any action in this manner. The hand can’t take attacks of opportunity, but can draw attacks of opportunity from actions it takes. The hand can perform the following actions each turn on your initiative count.<ul><li>The hand can retrieve or pick up an item or weapon as a standard action.<\/li><li>The hand can attempt any of the following skill checks at a –4 penalty: Disable Device, Escape Artist, Heal, Sleight of Hand, or Use Magic Device. <\/li><li>The hand can knock you prone as a free action, and drag you while you’re prone at a speed of 5 feet as a fullround action.<\/li><li> The hand can perform any other action appropriate for a hand and an arm, such as pouring a held potion into your mouth or awakening you from a sleep spell. <\/li><li> The hand can make a single melee or ranged attack with a light or one-handed weapon as a full-round action.<\/li><\/ul>",
-    "prerequisiteKeys": ["possessed hand"]
+    "prerequisiteKeys": ["possessed hand"],
+    "name_zh": "自动手",
+    "text_zh": "你的鬼手能独立行动。",
+    "prerequisites_zh": "鬼上手。",
+    "benefit_zh": "你用双武器战斗（包括用双头武器或每只手都投掷武器）的罚值减少2点，最低为-1。此好处跟双武器格斗专长叠加。当你失去意识、麻痺、睡眠、或震慑时，你的鬼手仍能代表你以有限的方式行动。此手以这种方式执行任何操作时使用你的数据。此手不能作出借机攻击，但能从它的行动引发借机攻击。此手能每回合在你的先攻位时作出以下行动：<\/p><p><ul><li>此手能以一个标准动作抽出或拿起道具或武器。<\/li><\/p><p><li>此手能以-4罚值尝试下列技能检定：解除装置、脱逃、医疗、巧手、或使用魔法装置。<\/li><\/p><p><li>此手能以一个自由动作使你俯卧（prone），以一个整轮动作拉你匍匐爬行5尺。<\/li><\/p><p><li>此手能执行适合任何其他用手和手臂的动作，例如给你喂药或在睡眠法术中抽醒你。<\/li><\/p><p><li>此手能以一个整轮动作用轻型武器或单手武器作出单次近战或远程攻击。<\/li><\/ul>"
 }

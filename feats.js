@@ -30,13 +30,13 @@ function getSimpTranslatedSource (sp) {
     for (key in sp["source"]) {
         let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
         if (!cur.includes("-")) {
-            return cur + " ...";
+            return cur + ", ...";
         }
     }
     for (key in sp["source"]) {
         let cur = translations.sourceTranslations[sp["source"][key].split(" pg.")[0]];
         if (cur.includes("PCS") || cur.includes("PPC")) {
-            return cur + " ...";
+            return cur + ", ...";
         }
     }
     for (key in sp["source"]) {
@@ -198,7 +198,7 @@ function loadUrlFeat() {
         console.log(error);
     });
 }
-function addBoxes(dict, element, array, nonempty = false, check = true, sort = true) {
+function addBoxes(dict, element, array, nonempty = false, check = true, sort = true, extra = null) {
     let boxAll = document.createElement("div");
     boxAll.style = "display: flex; ";
     let checkboxAll = document.createElement("input");
@@ -254,9 +254,32 @@ function addBoxes(dict, element, array, nonempty = false, check = true, sort = t
         element.appendChild(box);
     }
 
+    let extraKeys;
+    if (sort) {
+        extraKeys = Object.keys(extra);
+        extraKeys.sort();
+    } else {
+        extraKeys = extra;
+    }
+    for (i in extraKeys) {
+        let box = document.createElement("div");
+        box.style = "display: flex; ";
+        let checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.name = extraKeys[i];
+        checkbox.checked = check;
+        box.appendChild(checkbox);
+        array.push(checkbox);
+        let label = document.createElement("div");
+        label.innerHTML = sort ? extra[extraKeys[i]] : extraKeys[i];
+        box.appendChild(label);
+        element.appendChild(box);
+    }
+
 }
 var descriptorsBoxes = [];
 var sourceBoxes = [];
+var source2Boxes = [];
 var translations;
 function loadTransAndSearchElements () {
     fetch("/pathfinder/script/translations.json").then(response => {
@@ -272,8 +295,21 @@ function loadTransAndSearchElements () {
 		}
         translations = JSON.parse(text);
 
-        addBoxes(translations.featDescriptorsTranslations, document.getElementById("descriptors"), descriptorsBoxes);
-		addBoxes(["CRB", "Bst", "APG", "UM", "UC", "ARG", "UCa", "MA", "MC", "Uch", "OA", "ACG", "UI", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source"), sourceBoxes, true, true, false);
+		let commonDescriptors = ["Combat", "Critical", "Item Creation", "Metamagic", "Monster", "Style", "Teamwork"];
+		let commonDescriptorTrans = {};
+		let uncommonDescriptorTrans = {};
+		for (key in translations.featDescriptorsTranslations) {
+			uncommonDescriptorTrans[key] = translations.featDescriptorsTranslations[key];
+		}
+		for (i in commonDescriptors) {
+			let key = commonDescriptors[i];
+			commonDescriptorTrans[key] = uncommonDescriptorTrans[key];
+			delete uncommonDescriptorTrans[key];
+		}
+
+        addBoxes(commonDescriptorTrans, document.getElementById("descriptors"), descriptorsBoxes, false, true, true, uncommonDescriptorTrans);
+		addBoxes(["CRB", "APG", "ARG", "ACG", "UM", "UC", "UI", "OA"], document.getElementById("source"), sourceBoxes, true, true, false);
+		addBoxes(["Bst", "UCa", "MA", "MC", "Uch", "HA", "VC", "AG", "BotD", "UW", "PA", "AP", "PCS", "PPC", "Mod", "other"], document.getElementById("source2"), source2Boxes, true, true, false);
     }).catch(error => {
         console.log(error);
     });
@@ -335,6 +371,15 @@ function sourceLegal (ft) {
 			}
 		}
 	}
+	for (i in source2Boxes) {
+		if (source2Boxes[i].checked) {
+			for (j in source) {
+				let src = translations.sourceTranslations[source[j].split(" pg.")[0]];
+				source_legal |= source2Boxes[i].name == src.split("-")[0];
+				if (source_legal) break;
+			}
+		}
+	}
 	return source_legal;
 }
 function featLegal (ft) {
@@ -356,7 +401,9 @@ function featLegal (ft) {
 
 	let source_legal = sourceLegal(ft);
 
-	let legal = (name != "" && name_legal) || (name == "" && descriptors_legal && source_legal);
+	let en_legal = (!document.getElementById("en").checked) || ft["name_zh"] == null;
+
+	let legal = (name != "" && name_legal) || (name == "" && descriptors_legal && source_legal && en_legal);
 	return legal;
 }
 function populateFeat (ft, table, indent, gray) {

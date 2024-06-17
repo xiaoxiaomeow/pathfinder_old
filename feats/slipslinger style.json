@@ -8,7 +8,11 @@
     ],
     "source": ["Weapon Master's Handbook pg. 13"],
     "text": "You can fire all manner of slings and sling-like weapons.",
-    "prerequisites": "Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait<sup>ARG<\/sup>.",
+    "prerequisites": "Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait.",
     "benefit": "You gain a +1 bonus on damage rolls made with all types of slings, and don’t provoke attacks of opportunity when reloading a sling. In addition, you treat all ranged and thrown weapons that have “sling” in their name as if they were slings for all feats and class abilities that require such weapons, as well as the warslinger racial trait.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "半身人投石术",
+    "text_zh": "你能够使用所有类型的投石索以及与投石索相近的武器。",
+    "prerequisites_zh": "武器专攻（投石索）或武器训练（投掷类）职业能力，战争投石者（Warslinger）种族特性。",
+    "benefit_zh": "你所使用的任何类型的投石索（slings）造成的伤害检定均会获得+1加值，而且在给投石索装填弹药时不会引起借机攻击。此外，你可以将所有名称内具有“投石（sling）”的远程和投掷武器视为投石索（slings），不过仅适用于需要上述武器的专长和职业能力、以及战争投石者种族特性。"
 }

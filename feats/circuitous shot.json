@@ -12,5 +12,9 @@
         "improved precise shot",
         "point-blank shot",
         "precise shot"
-    ]
+    ],
+    "name_zh": "迂回射击",
+    "text_zh": "你能够让远程攻击进行弹射，以此来隐藏攻击的去向，并且给敌人带来惊喜。",
+    "prerequisites_zh": "敏捷 19，盲斗（Blind-Fight），精通精准射击（Improved Precise Shot），近距射击（Point-Blank Shot），精准射击（Precise Shot），BAB+11。",
+    "benefit_zh": "你可以选择让1次远程武器攻击承受-2的减值，来让攻击在石质或金属表面上进行弹射，使得攻击的起始点就如同是在弹射点一般，并以此来判断掩蔽（cover）的情况（但是无法以此来判断隐蔽的情况）。用武器或弹药的所经过的完整距离来判断距离对攻击带来的减值。以此方式进行弹射攻击有可能绕过障碍，使得你可以对对你具有全掩蔽（total cover）的敌人进行远程攻击，但是这些敌人在对抗你的攻击时仍旧具有全隐蔽（total concealment）。"
 }

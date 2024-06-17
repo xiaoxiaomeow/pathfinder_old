@@ -8,11 +8,14 @@
     "benefit": "When you cast <i>animate dead <\/i>or use the Command Undead feat, you are considered to be four levels higher when determining the number of Hit Dice you animate. When you cast <i>command undead<\/i>, your duration is doubled.",
     "mythicSource": "Mythic Adventures pg. 76",
     "mythicText": "Through your fearsome mythic nature, you have matchless power over the undead.",
-    "mythicPrerequisites": "Undead Master<sup>UM<\/sup>.",
+    "mythicPrerequisites": "Undead Master.",
     "mythicBenefit": "When you cast <i>animate dead <\/i>or use the Command Undead feat, add your tier to your caster level when determining the number of Hit Dice of undead you animate. This stacks with the increased caster level of Undead Master. When you cast <i>command undead<\/i>, your duration is tripled rather than doubled.",
     "prerequisiteKeys": ["spell focus"],
     "name_zh": "亡灵之主",
     "text_zh": "你可以统帅亡灵大军为你所用。",
     "prerequisites_zh": "法术专攻（死灵），能够施放‘操纵死尸’或者‘命令死灵’。",
-    "benefit_zh": "当你施放‘操纵死尸’法术或者使用‘命令死灵’专长时，你可以在决定HD数量时将有效等级提高4级。当你施放‘命令死灵’法术时，你的持续时间翻倍。"
+    "benefit_zh": "当你施放‘操纵死尸’法术或者使用‘命令死灵’专长时，你可以在决定HD数量时将有效等级提高4级。当你施放‘命令死灵’法术时，你的持续时间翻倍。",
+    "mythicText_zh": "利用自身那让人战栗的神话本质，在用于制御亡灵时，你有着无与伦比的力量。",
+    "mythicPrerequisites_zh": "亡灵之主",
+    "mythicBenefit_zh": "当你施放操纵死尸（animate dead）法术或者使用命令死灵（Command Undead）专长时，将你的阶层加到你的施法者等级上，用于确定你能够操控的不死生物的生命骰数量。这与亡灵之主专长增加的施法者等级叠加。当你施放命令死灵（command undead）时，持续时间为原本的3倍，用于取代非神话版的亡灵之主专长的2倍。"
 }

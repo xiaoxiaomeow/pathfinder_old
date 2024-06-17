@@ -8,7 +8,7 @@
     "prerequisites": "Improved Unarmed Strike, Janni Style, Acrobatics 5 ranks, Perform (dance) 5 ranks.",
     "benefit": "While you are using the Janni Style feat, whenever you make an unarmed attack and hit an opponent, you gain a +4 bonus on checks made to bull rush or trip that opponent, as long as the combat maneuver is your next attack by the end of your turn. You do not provoke an attack of opportunity from the target of the maneuver.",
     "staminaSource": "Pathfinder Unchained pg. 124",
-    "staminaText": "When you hit an opponent with an unarmed strike while using Janni Style<sup>UC<\/sup>, you can spend 2 stamina points to increase this feat’s bonus by 2. You can also spend 2 stamina points to apply the feat’s bonus on checks to a drag<sup>APG<\/sup> or reposition<sup>APG<\/sup> combat maneuver instead of a bull rush or trip.",
+    "staminaText": "When you hit an opponent with an unarmed strike while using Janni Style, you can spend 2 stamina points to increase this feat’s bonus by 2. You can also spend 2 stamina points to apply the feat’s bonus on checks to a drag or reposition combat maneuver instead of a bull rush or trip.",
     "prerequisiteKeys":     [
         "improved unarmed strike",
         "janni style"
@@ -16,5 +16,6 @@
     "name_zh": "乱披风",
     "text_zh": "你的烈风攻势可轻易令对手失去平衡。",
     "prerequisites_zh": "精通徒手打击，御风，特技5级，表演（舞蹈）5级。",
-    "benefit_zh": "你处于风灵流派架势时，只要你徒手击打命中对手，你对此对手的冲撞和摔绊的战技检定有+4加值，但战技必须在你该轮结束前发动。你的这次战技不会引发借机攻击。"
+    "benefit_zh": "你处于风灵流派架势时，只要你徒手击打命中对手，你对此对手的冲撞和摔绊的战技检定有+4加值，但战技必须在你该轮结束前发动。你的这次战技不会引发借机攻击。",
+    "staminaText_zh": "当你在处于御风UC架势下使用徒手击打命中了一个敌人时，你可以消耗2点耐力来提升这个专长的加值2点。你可以消耗2点耐力来将这个专长的加值应用在拖拽APG或者移位APG战技检定而不是冲撞或者绊摔。"
 }

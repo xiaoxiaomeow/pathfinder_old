@@ -4,6 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Noble%20Stipend",
     "source": ["Heroes of the High Court pg. 5"],
     "text": "You receive a small allowance from your noble family or inheritance.",
-    "prerequisites": "Cha 13, Noble Scion<sup>ISWG<\/sup>.",
-    "benefit": "You receive 100 gp at the beginning of every week that you can spend only on services and nonmaterial goods. Services and nonmaterial goods include the following. <ul><li>Hiring entertainers, messengers, mounts, servants, transport, workers, and so on.<\/li><li>Improving your lifestyle quality (see Cost of Living on page 405 of the <i>Pathfinder RPG Core Rulebook<\/i>).<\/li><li>Obtaining invitations to exclusive events or entry into privileged locations.<\/li><li>Paying for lodgings, stabling, taxes, and tolls.<\/li><\/ul>"
+    "prerequisites": "Cha 13, Noble Scion.",
+    "benefit": "You receive 100 gp at the beginning of every week that you can spend only on services and nonmaterial goods. Services and nonmaterial goods include the following. <ul><li>Hiring entertainers, messengers, mounts, servants, transport, workers, and so on.<\/li><li>Improving your lifestyle quality (see Cost of Living on page 405 of the <i>Pathfinder RPG Core Rulebook<\/i>).<\/li><li>Obtaining invitations to exclusive events or entry into privileged locations.<\/li><li>Paying for lodgings, stabling, taxes, and tolls.<\/li><\/ul>",
+    "prerequisiteKeys": ["noble scion"],
+    "name_zh": "贵族津贴",
+    "text_zh": "你从你的家族或继承的遗产中获得了一些补贴。",
+    "prerequisites_zh": "13魅力，贵族后裔。",
+    "benefit_zh": "每周开始，你收到100GP，你只能将其花费在以下服务和非实物商品上：<\/p><p><ul><li>招聘演员，使者，坐骑，仆人，车马，工人等等；<\/li><\/p><p><li>改善你的生活质量（见CRB405页的生活成本）；<\/li><\/p><p><li>获取互动事件或进入特殊地点的邀请；<\/li><\/p><p><li>支付住宿、马厩、税收和收费。<\/li><\/ul>"
 }

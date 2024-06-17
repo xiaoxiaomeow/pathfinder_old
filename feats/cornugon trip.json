@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "improved trip",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "角魔之绊摔",
+    "text_zh": "你可以投掷出你的刺链去做绊摔攻击。",
+    "prerequisites_zh": "敏捷15，精通绊摔，武器专攻（刺链）。",
+    "benefit_zh": "你可以投掷刺链（被视为一个具有10尺射程增量的投掷武器），投掷刺链时你可以做一个绊摔攻击。如果此次绊摔攻击失败了，你不会受到绊摔。"
 }

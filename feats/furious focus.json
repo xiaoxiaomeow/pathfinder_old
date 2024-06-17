@@ -11,11 +11,15 @@
     "staminaText": "When using the Power Attack feat and wielding a two-handed melee weapon or a onehanded melee weapon with two hands, you can spend 5 stamina points. If you do, each successful attack you make against a target reduces your Power Attack penalty against that target by 1 (to a minimum of 0) until the beginning of your next turn.",
     "mythicSource": "Mythic Adventures pg. 65",
     "mythicText": "Your attacks create a rhythmic barrage that doesn’t sacrifice precision for force.",
-    "mythicPrerequisites": "Furious Focus<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Furious Focus.",
     "mythicBenefit": "When you are using Furious Focus, you don’t take Power Attack’s penalty on attack rolls that are made as attacks of opportunity. As a free action, you can expend one use of mythic power to negate Power Attack’s penalty on all melee attacks you make for 1 round while using this feat.",
     "prerequisiteKeys": ["power attack"],
     "name_zh": "沉着暴怒",
     "text_zh": "即使是在激烈的狂怒攻击中，你仍旧可以专注于眼前的屠杀，使用你那野蛮的攻击切中要害。",
-    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+1。",
-    "benefit_zh": "当你持用双手武器、或者使用双手持握单手武器并且使用“猛力攻击”专长时，每轮的第一次攻击所进行近战攻击检定不会承受猛力攻击的减值。你仍旧会在其他的攻击中承受减值，包括借机攻击。"
+    "prerequisites_zh": "力量13，猛力攻击，BAB+1。",
+    "benefit_zh": "当你持用双手武器、或者使用双手持握单手武器并且使用“猛力攻击”专长时，每轮的第一次攻击所进行近战攻击检定不会承受猛力攻击的减值。你仍旧会在其他的攻击中承受减值，包括借机攻击。",
+    "mythicText_zh": "你能够有节奏地连续攻击，而又不必为了力量牺牲精准度。",
+    "mythicPrerequisites_zh": "沉着暴怒",
+    "mythicBenefit_zh": "当你使用沉着暴怒专长时，你在借机攻击中做出的攻击检定不会受到猛力攻击的减值。以自由动作，你能够花费1次神话之力，来使你在1轮内使用该专长时做出的任何近战攻击都免受猛力攻击的减值。",
+    "staminaText_zh": "当你使用猛力攻击专长并持用双手近战武器或者用两只手持用单手近战武器时，你可以消耗5点耐力。如果你这样做了，你对一个目标每次成功的攻击都能降低你对那个目标的猛力攻击罚值1点（最小值为0），直到你的下一回合开始。"
 }

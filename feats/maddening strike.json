@@ -10,6 +10,12 @@
     "special": "If you are using the sanity system (page 12), when you miss with a Maddening Strike, you take 4 points of sanity damage. If you hit, the target takes damage from the unarmed strike plus 8 points of sanity damage (or 4 points of sanity damage on a successful Will save).",
     "prerequisiteKeys":     [
         "improved unarmed strike",
+        "maddening style",
         "stunning fist"
-    ]
+    ],
+    "name_zh": "狂乱打击",
+    "text_zh": "你的拳头带着吞噬心神的疯狂。",
+    "prerequisites_zh": "感知 17，魅力 13，精通徒手打击，噬心流，震慑拳，知识（奥秘）8级，气池职业能力，非善良阵营。",
+    "benefit_zh": "以一个迅捷动作，你可以从你的气池花费1点气，将群星之间的疯狂之力注入你在这个回合的下一次徒手打击之中。如果这次攻击失手，你将受到2点感知伤害。如果攻击命中，你的对手将受到你的徒手打击的伤害并且附带1d4+1点感知伤害。一次成功的意志豁免检定(DC = 10+1/2你的角色等级+你的感知调整值)将把这个感知伤害减少到2点。",
+    "special_zh": "如果你正在使用理智系统sanity system(见第12页)，当你狂乱击失手时，你受到4点理智伤害。如果命中，目标将受到徒手打击的伤害外加上8点理智伤害(或者在成功通过意志检定后受到4点理智伤害)。"
 }

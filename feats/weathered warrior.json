@@ -8,5 +8,10 @@
     "prerequisites": "Endurance.",
     "benefit": "In areas of strong or severe wind (<i>Pathfinder RPG Core Rulebook<\/i> 439) or when affected by wind effects or spells that penalize ranged attacks, you take only half the ranged attack penalty. You can make ranged attacks in windstorm-level winds at a –4 penalty.",
     "normal": "Strong and severe winds impose –2 and –4 penalties on ranged attack rolls, respectively. Making ranged attacks in windstorms is impossible.",
-    "prerequisiteKeys": ["endurance"]
+    "prerequisiteKeys": ["endurance"],
+    "name_zh": "风语战士",
+    "text_zh": "你的手再任何天气都很稳。",
+    "prerequisites_zh": "坚忍。",
+    "benefit_zh": "当你处于强风或烈风（strong or severe）中或被风系法术效果影响到远程攻击时，你只会受到一半的远程攻击罚值。你可以在暴风环境（windstorm）中以-4罚值发动远程攻击。",
+    "normal_zh": "强风使远程攻击承受-2罚值，烈风使远程攻击承受-4罚值。无法在暴风中进行远程攻击。"
 }

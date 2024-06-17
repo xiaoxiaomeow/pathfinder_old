@@ -10,5 +10,10 @@
     "text": "You have trained to fight while submerged in water.",
     "prerequisites": "Swim 1 rank.",
     "benefit": "You gain a +2 bonus on Swim checks and don’t take the usual penalties on melee attack rolls made underwater. Your slashing melee attacks and unarmed bludgeoning attacks deal full damage underwater.",
-    "normal": "When you’re underwater, most of your melee attacks take a –2 penalty and deal only half damage."
+    "normal": "When you’re underwater, most of your melee attacks take a –2 penalty and deal only half damage.",
+    "name_zh": "水下战斗法",
+    "text_zh": "你受过水下战斗相关的训练。",
+    "prerequisites_zh": "游泳等级1。",
+    "benefit_zh": "你的游泳检定获得+2加值并且水下近战攻击不会受到水下减值。你的挥砍攻击和徒手钝击攻击在水下造成全额伤害。",
+    "normal_zh": "在水下，大多数近战攻击都承受-2罚值并只造成一半伤害。"
 }

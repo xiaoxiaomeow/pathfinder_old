@@ -10,5 +10,9 @@
     "text": "Quick momentary meditation allows you to gain insight in combat.",
     "prerequisites": "Wis 13, Meditation Master, character level 5th.",
     "benefit": "You can meditate as a full-round action. If you do, you gain all the benefits of your meditation feats, but they last for only 1 round per character level. Combat meditation allows you to expend the +1 insight bonus granted from the Meditation Master feat to instead roll twice when attempting an ability check, attack roll, saving throw, or skill check, taking the better of the two results. You must decide to use this ability before the initial roll is made. You may only use this alternate ability in place of bonuses granted by the Meditation Master feat. You can perform combat meditation a number of times per day equal to your Wisdom modifier.",
-    "prerequisiteKeys": ["meditation master"]
+    "prerequisiteKeys": ["meditation master"],
+    "name_zh": "战斗冥想",
+    "text_zh": "快速的短期冥想会令你在战斗中获得洞悉。",
+    "prerequisites_zh": "感知13，冥想大师，角色等级5。",
+    "benefit_zh": "你可以用一个整轮动作进行冥想。如果你这么做，你会获得所有你拥有的冥想专长的好处，但是只会持续每角色等级1轮。战斗冥想允许你花费来自冥想大师的+1洞察加值来使一次能力检定，攻击检定，豁免检定或技能检定中双骰取高。你必须在最初的检定之前决定是否使用这个能力。你可以只使用这个替换能力来取代来自冥想大师的奖励。你每天可以使用战斗冥想的次数等于你的感知修正。"
 }

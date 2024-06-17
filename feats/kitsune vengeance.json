@@ -5,11 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Dirty Tactics Toolbox pg. 15"],
     "text": "You cleverly hide your attacks within your devious antics.",
-    "prerequisites": "Int 13; Combat Expertise; Improved Dirty Trick<sup>APG<\/sup>; Kitsune Style; Kitsune Tricks; base attack bonus +6 or monk level 6th.",
+    "prerequisites": "Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; Kitsune Tricks; base attack bonus +6 or monk level 6th.",
     "benefit": "While using the Kitsune Style feat, when a foe provokes an attack of opportunity from you, you can attempt to perform a dirty trick combat maneuver in place of making a melee attack.",
     "prerequisiteKeys":     [
         "combat expertise",
+        "improved dirty trick",
         "kitsune style",
         "kitsune tricks"
-    ]
+    ],
+    "name_zh": "灵狐倾城",
+    "text_zh": "看似优雅的姿态背后，你隐藏着险恶的后手。",
+    "prerequisites_zh": "智力13，寓守于攻，精通阴招APG，灵狐式，灵狐计，BAB+6或武僧等级6。",
+    "benefit_zh": "当处于灵狐流的架势时，如果你的对手引发了一次你的借机攻击，你可以选择对他进行一次阴招战技攻击以取代正常的攻击。"
 }

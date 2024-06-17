@@ -7,5 +7,10 @@
     "prerequisites": "Channeling Variance or variant channeling ability, channel energy class feature.",
     "benefit": "You gain one additional variant channeling ability that matches one of your deity’s domains, subdomains, or areas of concern. Three times per day, you can apply the modifications of this variant channel energy, reducing the damage dealt or healing performed by your channeled energy as normal. You cannot apply more than one variant channeling ability to your channeled energy at once.",
     "special": "You can select this feat multiple times. Each time you do, you gain another variant channeling ability. If you have chosen Channeling Variance twice, you can use any variant channeling ability chosen with this feat whenever you channel energy.",
-    "prerequisiteKeys": ["channeling variance"]
+    "prerequisiteKeys": ["channeling variance"],
+    "name_zh": "额外变化",
+    "text_zh": "你可以用新的方式提高你引导的能量。",
+    "prerequisites_zh": "引导变化专长或变体引导能力，引导能量职业能力。",
+    "benefit_zh": "你获得额外多一种符合你神祇的领域，子域或神职的变体引导能力。每天3次，你可以应用这种变体引导的调整到你的引导能量上，包括降低伤害或治疗量。你不能同时将多种变体引导能力应用到一次引导中。",
+    "special_zh": "该专长能选择多次。每次选择，都可以获得一种变体引导能力。如果你已选择引导变化专长2次，你可以在引导能量时任意使用该专长获得的变体引导。"
 }

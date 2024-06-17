@@ -11,5 +11,10 @@
     "prerequisites": "Shield Focus, base attack bonus +6 or fighter level 4th.",
     "benefit": "When performing a bull rush or overrun combat maneuver as part of a charge, you don’t provoke an attack of opportunity for that maneuver. If you already have the improved Bull Rush or Improved Overrun feats, you gain an additional +2 bonus on your combat maneuver check when attempting the respective maneuver.",
     "special": "This feat counts as having a Strength score of 13 and Power Attack for the purposes of meeting the prerequisites of Improved Bull Rush and Improved Overrun, and for feats that require either of those two feats as prerequisites.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "警戒冲锋",
+    "text_zh": "向前冲锋时你举起的盾牌保护着你。",
+    "prerequisites_zh": "盾牌专攻，BAB+6或者战士4级。",
+    "benefit_zh": "在使用冲撞或者闯越战技作为冲锋的一部分时，你不会导致借机攻击。如果你已经有精通冲撞或精通闯越专长，则在各自的战技检定上上获得额外的+2加值。",
+    "special_zh": "这个专长在选择精通闯越、精通冲撞以及要求这两个专长作为前置的专长时，被视为拥有13力量和猛力攻击专长"
 }

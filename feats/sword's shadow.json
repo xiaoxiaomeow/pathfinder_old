@@ -7,5 +7,9 @@
     "text": "You attack with a second strike before your opponent can recover from the first.",
     "prerequisites": "Deft Hands, base attack bonus +7, wyrwood.",
     "benefit": "When you successfully damage an enemy with the first attack of a full attack, you can attempt a Sleight of Hand check against that enemy’s CMD as an immediate action. If you succeed, you can treat that enemy as flat-footed for the next attack you make as part of the full attack action.",
-    "prerequisiteKeys": ["deft hands"]
+    "prerequisiteKeys": ["deft hands"],
+    "name_zh": "剑影",
+    "text_zh": "在对手从第一剑的威力中恢复态势之前斩出第二剑。",
+    "prerequisites_zh": "妙手，BAB+7，汲魂木。",
+    "benefit_zh": "当你以全力攻击的第一次攻击造成伤害时，你可以以直觉动作进行一次巧手检定对抗敌人的CMD。若你成功，作为本次全力攻击的一部分，你可以令敌人对你的下一次攻击措手不及。"
 }

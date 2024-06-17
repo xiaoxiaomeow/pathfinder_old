@@ -8,7 +8,7 @@
     "benefit": "Once per day as a standard action you may attempt a new saving throw against a harmful condition or affliction requiring a Fortitude save that is affecting you. If this save against the affliction fails, there is no additional effect, but a successful save counts toward curing an affliction such as poison or disease. You cannot use this feat to recover from instantaneous effects, effects that do not allow a saving throw, or effects that do not require a Fortitude save.",
     "mythicSource": "Mythic Adventures pg. 66",
     "mythicText": "You can shrug off the effects of harmful conditions after they’ve taken effect.",
-    "mythicPrerequisites": "Heroic Recovery<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Heroic Recovery.",
     "mythicBenefit": "As a swift action, you can expend one use of mythic power to use Heroic Recovery additional times. Whenever you do, add your tier to the result of the Fortitude save.",
     "prerequisiteKeys":     [
         "diehard",
@@ -17,5 +17,8 @@
     "name_zh": "英勇自愈",
     "text_zh": "你能够摆脱削弱自己的状态。",
     "prerequisites_zh": "顽强，坚忍，基本强韧豁免+4。",
-    "benefit_zh": "每日1次以标准动作，你能够尝试针对一个正在影响你，并且需要强韧豁免的有害状态或者苦难（affliction），进行一次新的豁免。如果对抗苦难的豁免失败，那么这不会产生任何效果，但是成功的豁免能够用于治愈诸如毒素或者疾病的苦难。你无法使用该专长恢复瞬时效果、不允许豁免的效果以及不需要强韧豁免的效果。"
+    "benefit_zh": "每日1次以标准动作，你能够尝试针对一个正在影响你，并且需要强韧豁免的有害状态或者苦难（affliction），进行一次新的豁免。如果对抗苦难的豁免失败，那么这不会产生任何效果，但是成功的豁免能够用于治愈诸如毒素或者疾病的苦难。你无法使用该专长恢复瞬时效果、不允许豁免的效果以及不需要强韧豁免的效果。",
+    "mythicText_zh": "你能够在有害状态产生效果后摆脱它们。",
+    "mythicPrerequisites_zh": "英勇自愈",
+    "mythicBenefit_zh": "以迅捷动作，你能够花费1次神话之力额外使用1次英勇自愈专长。每当你这么做时，就将你的阶层加到强韧豁免的结果上。"
 }

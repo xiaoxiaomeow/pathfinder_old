@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Elemental Master's Handbook pg. 14"],
     "text": "Explorers in the depths of the Arcadian Ocean have learned that deadly pressure can be just as lethal as any flame.",
-    "benefit": "You can modify a spell that deals acid, cold, electricity, or fire damage to deal damage through high-pressure water instead. The spell gains the water descriptor, and you can either replace the spell’s normal damage with bludgeoning damage or split the spell’s damage so that half is bludgeoning and half is of its normal type. Creatures with damage reduction apply their damage reduction to bludgeoning damage from a benthic spell, but the spell counts as bludgeoning and magic for the purposes of bypassing damage reduction.<br><br> A benthic spell uses up a spell slot one level higher than the spell’s actual level."
+    "benefit": "You can modify a spell that deals acid, cold, electricity, or fire damage to deal damage through high-pressure water instead. The spell gains the water descriptor, and you can either replace the spell’s normal damage with bludgeoning damage or split the spell’s damage so that half is bludgeoning and half is of its normal type. Creatures with damage reduction apply their damage reduction to bludgeoning damage from a benthic spell, but the spell counts as bludgeoning and magic for the purposes of bypassing damage reduction.<br><br> A benthic spell uses up a spell slot one level higher than the spell’s actual level.",
+    "name_zh": "深海法术",
+    "text_zh": "阿卡狄亚洋深处的探险者已经了解到致命的压力能够如同火焰一般制造死亡。",
+    "benefit_zh": "你可以调整一个造成酸液，寒冷，闪电或者火焰伤害的法术来通过高压造水流成伤害。法术会获得[水]描述符，并且你也可以用钝击伤害来代替原本法术伤害，或者是把法术伤害一半转换为钝击伤害，一半不变。受到深海法术钝击伤害的生物可以运用他们的钝击伤害减免，但是法术会在击破伤害减免时同时视为钝击和魔法。<\/p><p>深海法术会占用高于原本1个环位的法术位。"
 }

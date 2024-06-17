@@ -11,5 +11,9 @@
         "improved grapple",
         "improved unarmed strike",
         "power attack"
-    ]
+    ],
+    "name_zh": "盘身扭",
+    "text_zh": "你在那些全无规则可言的格斗场——比如阿巴萨罗姆的黑街——上磨练自己的摔角技，被你抓住的对手极难挣脱。",
+    "prerequisites_zh": "力量13，敏捷13，精通擒抱猛力攻击，BAB+1。",
+    "benefit_zh": "当你发动擒抱战技攻击时，你在维持擒抱的战技检定上获得+1加值，你的对手在挣脱你的擒抱的战技对抗检定上承受-1减值。"
 }

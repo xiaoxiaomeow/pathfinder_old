@@ -6,5 +6,9 @@
     "text": "You know how to move silently even while wearing some forms of armor.",
     "prerequisites": "Dex 15, Careful Sneak, Stealth 6 ranks.",
     "benefit": "You do not apply the armor check penalty for light and medium armor on Stealth skill checks no matter how fast you move. You still cannot use Stealth while running or charging.",
-    "prerequisiteKeys": ["careful sneak"]
+    "prerequisiteKeys": ["careful sneak"],
+    "name_zh": "悄声潜行",
+    "text_zh": "你知道在穿戴某些种类的盔甲时如何悄声行动。",
+    "prerequisites_zh": "敏捷 15，悄声慢行，潜行6级。",
+    "benefit_zh": "无论你用多快的速度移动，都不会将轻甲和中甲的护甲检定减值应用至潜行技能检定上。你仍旧无法在奔跑（running）或冲锋（charging）时进行潜行。"
 }

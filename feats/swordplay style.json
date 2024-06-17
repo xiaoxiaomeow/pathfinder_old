@@ -10,9 +10,14 @@
     "text": "Your defense relies on perfectly timed attacks.",
     "prerequisites": "Combat Expertise, Weapon Focus with the chosen weapon, base attack bonus +3.",
     "benefit": "Choose one weapon from the heavy blades or light blades fighter weapon group. While using this style, wielding the chosen weapon, and fighting defensively or using either the total defense action or the Combat Expertise feat, you gain a +1 shield bonus to your Armor Class. In addition, you do not take the penalty on melee attacks from Combat Expertise on the first attack roll you make each turn. You still take the penalty on additional attacks, including attacks of opportunity.",
-    "special": "A character with the swashbuckler weapon training<sup>ACG<\/sup> or weapon training (heavy blades or light blades) class feature can use Swordplay Style with any light or one-handed piercing melee weapon, heavy blade, or light blade, respectively, in addition to the chosen weapon.",
+    "special": "A character with the swashbuckler weapon training or weapon training (heavy blades or light blades) class feature can use Swordplay Style with any light or one-handed piercing melee weapon, heavy blade, or light blade, respectively, in addition to the chosen weapon.",
     "prerequisiteKeys":     [
         "combat expertise",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "刺剑式",
+    "text_zh": "你以拿捏准确的刺击换取回防的机会。",
+    "prerequisites_zh": "寓守于攻，对所选武器拥有武器专攻专长，BAB+3。",
+    "benefit_zh": "从重刃或轻刃战士武器组中选择一件武器，当你开启此流派架势时，如果你持用这把武器并进行防御式战斗，全防御或使用寓守于攻专长，那么你会在防御等级上获得+1盾牌加值。除此之外，你在使用寓守于攻专长时每轮发动的第一次近战攻击不会因为使用寓守于攻而承受减值。你本轮的其他攻击，包括借机攻击，仍然会承受正常减值。",
+    "special_zh": "一个拥有游荡剑客武器训练职业能力的角色可以使用任何轻型或单手穿刺近战武器而非仅限于他所选的单件武器来获得此流派的好处。一个拥有重刃或轻刃武器组对应的武器训练职业能力的角色可以使用任意重刃或轻刃（如果拥有对应武器组的武器训练能力）而非仅限于所选的单件武器来获得此流派的好处。"
 }

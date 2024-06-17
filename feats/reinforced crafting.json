@@ -7,5 +7,9 @@
     "text": "Your magical creations are hardier than most.",
     "prerequisites": "Craft Magic Arms and Armor, ability to cast <i>make whole<\/i> or <i>mending<\/i>.",
     "benefit": "When you craft a magic weapon, magic armor, or magic shield, you can add a fortifying element to the item. This increases the item’s total construction cost by 10%. If it’s a weapon, when it becomes broken, the penalty to attack and damage rolls is reduced to –1 (this can never reduce a broken weapon’s penalty to attack and damage to 0 or a positive number). If it’s a suit of armor or a shield, when it becomes broken, the bonus it grants to AC is reduced by one-quarter, rounding down. Other drawbacks of the broken condition to weapons, armor, and shields still apply as normal. Normal: A broken weapon imposes a –2 penalty on attack and damage rolls. The bonus a broken suit of armor or a broken shield grants to AC is halved.",
-    "prerequisiteKeys": ["craft magic arms and armor"]
+    "prerequisiteKeys": ["craft magic arms and armor"],
+    "name_zh": "强固作成",
+    "text_zh": "你的魔法造物比绝大部分的同类更要结实。",
+    "prerequisites_zh": "制造魔法武器与防具，拥有释放修复术或者完全修复术的能力。",
+    "benefit_zh": "当你制作魔法武器、魔法护甲或者魔法盾牌时，你能增加一些使其坚固的要素。这会使武器的总制作成本增加10%。如果制作的物品是一把武器，则其破损时在攻击及伤害的罚值会减少到-1（但这永远无法使破损武器的攻击及伤害罚值减少到0或者负值）。如果制作的是护甲或者盾牌，则其破损时的护甲加值只会减少1/4，结果向下取整。而武器，护甲或者盾牌因破损状态而产生的其他负面影响如常生效。"
 }

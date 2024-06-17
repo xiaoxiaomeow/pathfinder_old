@@ -10,5 +10,9 @@
     "text": "Your thrown weapons shine with a divine light that dazzles their targets.",
     "prerequisites": "Point-Blank Shot, good or lawful alignment, caster level 1st or monk level 1st.",
     "benefit": "Your thrown weapons glow with holy light, illuminating a 20-foot-radius area where they fall for 1 round. A target damaged by one of these weapons becomes dazzled for 1 round.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "流光式",
+    "text_zh": "你投掷出的武器闪烁着神圣的光芒令目标一阵目眩。",
+    "prerequisites_zh": "近距射击，守序或善良阵营，施法者等级1或武僧等级1。",
+    "benefit_zh": "你投掷出的武器将会发出神圣的光芒，照亮（illuminating）以坠落点为中心的周围半径20尺内的区域1轮。受到这种武器伤害的目标将会目眩一轮。"
 }

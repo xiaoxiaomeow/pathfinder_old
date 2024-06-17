@@ -13,5 +13,11 @@
     "normal": "You can use aid another to grant an ally a +2 bonus to AC against the next attack from an adjacent foe.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "If you spend 3 stamina points when you use this feat, your ally benefits from the AC bonus until the beginning of your next turn. (<i>Melee Tactics Toolbox 10<\/i>)",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "注意背后",
+    "text_zh": "你保护了一个未曾发现危险的同伴。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "当你成功通过援助他人动作给一个拥有该专长的盟友+2AC以对抗下一次攻击时，该盟友在直到你的下一回合开始前，将不会被夹击和陷入措手不及。",
+    "normal_zh": "你援助他人动作只会给盟友+2AC以对抗一个邻接敌人的攻击。",
+    "staminaText_zh": "如果你在使用该专长时消耗3点耐力，你的盟友获得的AC加值将会持续到你的下一回合开始。"
 }

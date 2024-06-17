@@ -6,5 +6,9 @@
     "text": "You quickly bring down an off-balanced opponent.",
     "prerequisites": "Improved Overrun.",
     "benefit": "When attempting an overrun combat maneuver check against a flat-footed opponent, if the attempt knocks the creature prone, you can also fall prone in order to attempt a grapple combat maneuver check against the creature as a free action. Doing so does not provoke an attack of opportunity from the target of your grapple.",
-    "prerequisiteKeys": ["improved overrun"]
+    "prerequisiteKeys": ["improved overrun"],
+    "name_zh": "飞身扑",
+    "text_zh": "你可以猛地推倒没来得及站稳的妹子，然后上下其手。",
+    "prerequisites_zh": "精通闯越。",
+    "benefit_zh": "当你对一个处于措手不及状态的对手发动一次闯越战技攻击时，如果你打算撞倒一个对手，你可以选择自己也同时倒地，但以一个自由动作对目标同时发动一次擒抱战技攻击。这样做不会引发被你擒抱的目标的借机攻击。"
 }

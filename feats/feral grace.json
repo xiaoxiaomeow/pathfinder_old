@@ -8,5 +8,10 @@
     "prerequisites": "Weapon Finesse, base attack bonus +3, animal companion.",
     "benefit": "Choose one of the animal companion’s natural attack. When the animal companion makes a melee attack with the chosen natural attack using its Dexterity bonus on attack rolls and its Strength bonus on damage rolls, it adds 1/4 of its Hit Dice as a bonus on damage rolls. This bonus damage doesn’t increase or decrease based upon whether the natural attack is a primary or secondary natural attack.",
     "special": "You can select this feat multiple times. Its effects don’t stack. Each time you select this feat, choose a different natural attack to apply its benefit to.",
-    "prerequisiteKeys": ["weapon finesse"]
+    "prerequisiteKeys": ["weapon finesse"],
+    "name_zh": "野性优雅",
+    "text_zh": "动物伙伴的优雅与灵巧受到战斗的磨砺，这让它成为极为致命的斗士。",
+    "prerequisites_zh": "“武器娴熟”，BAB+3，动物伙伴。",
+    "benefit_zh": "选择动物伙伴的一种天生武器。当动物伙伴用选择的天生武器进行攻击，并在攻击检定上使用敏捷加值、伤害上使用力量加值时，将它1/4的生命骰数加到伤害检定上作为加值。此加值不会因该天生武器是主要或次要天生攻击而增加或减少。",
+    "special_zh": "你可以多次选择此专长。其效果不叠加。每次你选择此专长时，选择一种不同的天生攻击，应用此专长的效果。"
 }

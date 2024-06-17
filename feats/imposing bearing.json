@@ -9,8 +9,13 @@
     "source": ["Armor Master's Handbook pg. 17"],
     "text": "Your armor allows you to push your opponents around.",
     "prerequisites": "Poised Bearing, base attack bonus +11 or fighter level 8th, armor training class feature, proficiency with heavy armor.",
-    "benefit": "You treat your size as two categories larger for the purposes of determining the size of creatures against which you can attempt bull rush, drag<sup>APG<\/sup>, overrun, and trip combat maneuvers.",
+    "benefit": "You treat your size as two categories larger for the purposes of determining the size of creatures against which you can attempt bull rush, drag, overrun, and trip combat maneuvers.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 5 stamina points as a swift action to add half your armor bonus to your next combat maneuver check this turn. Alternatively, you can spend 5 stamina points as an immediate action to add half your armor bonus to your CMD against a single combat maneuver this turn. (See page 17.)",
-    "prerequisiteKeys": ["poised bearing"]
+    "prerequisiteKeys": ["poised bearing"],
+    "name_zh": "强进姿态",
+    "text_zh": "你的盔甲可以让你将你周围的对手推开。",
+    "prerequisites_zh": "蓄势姿态，BAB+11或者战士8级，盔甲训练职业特性，擅长重甲。",
+    "benefit_zh": "在决定冲撞，拖拽APG，闯越或者摔绊战技所能对抗的生物体型时，你的体型视为比原来大两级。",
+    "staminaText_zh": "你可以以一个迅捷动作消耗5点耐力来将你护甲加值的一半加到你的下一次战技检定上。或者你也可以以一个直觉动作消耗5点耐力来将你护甲加值的一半加到当回合中对抗单次战技的CMD上。"
 }

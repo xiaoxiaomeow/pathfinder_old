@@ -7,5 +7,10 @@
     "text": "Your repeated encounters with a particular type of enemy have honed your skills against that foe.",
     "prerequisites": "No levels in a class that has the favored enemy class feature.",
     "benefit": "When you select this feat, choose a specific kind of creature, such as wolf, frost giant, goblin, or babau demon. You gain the ranger’s favored enemy class ability against this particular type of creature with a bonus of +2. This feat does not grant the favored enemy class feature for the purposes of prerequisites. If you later gain the favored enemy class feature, you can replace this feat with a feat for which you qualify and whose prerequisites include the favored enemy class feature.",
-    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different creature."
+    "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different creature.",
+    "name_zh": "业余宿敌",
+    "text_zh": "你有个十分讨厌的对手，为此你钻研过无数弄死它的计划。",
+    "prerequisites_zh": "在拥有宿敌（Favored Enemy）职业能力的职业上不拥有任何等级。",
+    "benefit_zh": "当选择这个专长时，同时选择一种特定的生物（如霜巨人，狼，地精，影魔，诸如此类），你在对抗该生物时获得游侠的宿敌职业能力的好处，宿敌加值为+2，但是本专长不会再作为先决条件时视为宿敌职业能力。如果你在选择本专长后获得了拥有宿敌能力的职业等级，那么你可以免费将本专长置换为一个你符合先决条件且先决条件要求宿敌职业能力的专长。",
+    "special_zh": "你可以多次选择本专长，每次选择时，你必须选择另一种生物类型。"
 }

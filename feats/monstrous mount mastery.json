@@ -7,5 +7,10 @@
     "prerequisites": "Monstrous Mount, character level equal to or higher than that listed in your mount’s Mastery entry.",
     "benefit": "Your monstrous mount gains the abilities and bonuses listed under Mastery in its stat block. You must be of at least the indicated level for the mount to use these abilities, so if you dismiss a mount and gain a new mount of a different type, you retain the feat but might not yet be of sufficient level for the new mount to gain its Mastery benefits.",
     "normal": "A monstrous mount is unable to use its Mastery abilities regardless of its advancement.",
-    "prerequisiteKeys": ["monstrous mount"]
+    "prerequisiteKeys": ["monstrous mount"],
+    "name_zh": "精熟怪物坐骑",
+    "text_zh": "你的怪物坐骑掌握了那些只有野生同类才能拥有的能力。",
+    "prerequisites_zh": "怪物坐骑，角色等级大于或等于坐骑的精熟要求中列出的等级。",
+    "benefit_zh": "你的怪物坐骑会获得其属性中标注为“精熟”一栏的能力与加值。你的等级必须至少与该栏标示的等级相同才能使用这些能力，因此如果你遣散一只怪物坐骑并更换不同种的新坐骑的话，尽管你可能会保留该专长，但是你的等级未必足够获取新坐骑的精熟一栏所带来的好处。",
+    "normal_zh": "怪物坐骑无论如何成长都无法使用自身的精熟能力。"
 }

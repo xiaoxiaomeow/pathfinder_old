@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Melee Tactics Toolbox pg. 13"],
     "text": "Opponents you batter to the ground stay down.",
-    "prerequisites": "Bludgeoner<sup>UC<\/sup>, Cudgeler Style, Cudgeler Sweep, base attack bonus +9 or monk level 9th.",
+    "prerequisites": "Bludgeoner, Cudgeler Style, Cudgeler Sweep, base attack bonus +9 or monk level 9th.",
     "benefit": "When you hit with a charge attack using the Cudgeler Style feat, your weapon deals damage as though it were one size category larger for 1 round or until it leaves your hand. When you successfully trip an opponent with the Cudgeler Sweep feat, your opponent must succeed at a Fortitude save (DC = 10 + your character level + your Strength modifier) or be stunned for 1 round.",
     "prerequisiteKeys":     [
+        "bludgeoner",
         "cudgeler style",
         "cudgeler sweep"
-    ]
+    ],
+    "name_zh": "蛮锤撞",
+    "text_zh": "被你击倒的敌人很难再起。",
+    "prerequisites_zh": "钝击士，蛮锤式，蛮锤扫，BAB+9或武僧等级9。",
+    "benefit_zh": "当你处于蛮锤式流派下冲锋攻击时，你的武器伤害骰视为增大1级持续1轮或直到武器离开你的手。当你成功通过蛮锤扫专长摔绊敌人时，该敌人必须通过强韧豁免检定（DC=10+你的角色等级+你的力量调整值），否则被震慑1轮。"
 }

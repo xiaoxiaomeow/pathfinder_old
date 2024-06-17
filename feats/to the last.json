@@ -12,5 +12,9 @@
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
-    ]
+    ],
+    "name_zh": "死战不休",
+    "prerequisites_zh": "死硬，坚忍，信仰古拉姆。",
+    "benefit_zh": "当你瘫痪（Disable）时，你不会恍惚，但是进行一个标准动作仍然会使你受到1点伤害。你也可以进行整轮动作，但受到2点伤害。",
+    "staminaText_zh": "当你瘫痪时你可以消耗1点耐力来让自己在不损失1点生命值的情况下做出一个标准动作。"
 }

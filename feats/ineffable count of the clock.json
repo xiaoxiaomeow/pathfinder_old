@@ -7,5 +7,9 @@
     "text": "You realize that the endless march of time is more of a drunkard’s lurch, and this grants you status in the eyes of the Many.",
     "prerequisites": "Fey creature type or Fey Obedience (Shyka), you must have either visited or interacted with an outsider from the Dimension of Time.",
     "benefit": "Three times per day as a free action, you can increase your speed by any amount up to your base speed until the end of your turn. On the subsequent round, your speed is reduced by the same amount.",
-    "prerequisiteKeys": ["fey obedience"]
+    "prerequisiteKeys": ["fey obedience"],
+    "name_zh": "无以时计伯爵",
+    "text_zh": "你察觉到时间无止休的流逝如同一个蹒跚而行的醉鬼，这直观的反馈到你的外在标识成为超脱的存在。",
+    "prerequisites_zh": "精类或精类服从仪式（夏依卡），你必须拜访过时间维度之外者或与之互动。",
+    "benefit_zh": "每日三次，自有动作，你可以提高自身速度，最多不超过基础速度，持续至回合结束。在之后回合，你的速度会减少相应的幅度。"
 }

@@ -8,11 +8,14 @@
     "benefit": "When using the Diplomacy skill to make a request or change a creature’s attitude, you can use verbal misdirection. To do so, make a Bluff check against that creature. If you succeed, you gain a +4 bonus on your next Diplomacy check against that creature if the check is made within the next minute. If you fail by 5 or more, you instead take a –2 penalty on your next Diplomacy check against that creature. <br><br> Alternatively, you can use this feat to retry a single failed Diplomacy check against a creature. You take a –4 penalty on your Bluff check when using Rhetorical Flourish in this way. If you succeed, rather than gaining this feat’s normal bonus, you can retry your last Diplomacy check against the creature if that check was made in the past minute.",
     "mythicSource": "Mythic Adventures pg. 72",
     "mythicText": "You’re supremely skilled at using verbal misdirection and",
-    "mythicPrerequisites": "Rhetorical Flourish<sup>UC<\/sup>.",
+    "mythicPrerequisites": "Rhetorical Flourish.",
     "mythicBenefit": "When you successfully use Rhetorical Flourish against a non-mythic creature, the bonus on your Diplomacy check increases by your tier. If the target is a mythic creature, you instead increase the bonus by half your tier.<br><br> You can expend one use of mythic power to reroll a single failed Bluff check. You must take the new result even if it is lower.",
     "prerequisiteKeys": ["persuasive"],
     "name_zh": "舌绽莲花",
     "text_zh": "你快速地转移话题，以华丽繁复的修辞掩盖自己的真意。",
     "prerequisites_zh": "魅力13，说服者。",
-    "benefit_zh": "当时用交涉技能提出要求或改变生物态度时，你能够用误导性的说辞。如此做需要对该生物进行一次唬骗，若你成功则可在1分钟内对他的下次交涉检定获得+4加值。若你失败5点以上，你的下次交涉检定反而将遭受-2减值。此外，你还能利用此专长对一次失败的交涉检定展开重试。以这种方式使用“舌绽莲花”专长将在唬骗检定中承受-4减值。若你唬骗成功，你并不会如常获得交涉加值，而是能够重试1分钟内最后一次对该生物的交涉检定。"
+    "benefit_zh": "当时用交涉技能提出要求或改变生物态度时，你能够用误导性的说辞。如此做需要对该生物进行一次唬骗，若你成功则可在1分钟内对他的下次交涉检定获得+4加值。若你失败5点以上，你的下次交涉检定反而将遭受-2减值。此外，你还能利用此专长对一次失败的交涉检定展开重试。以这种方式使用“舌绽莲花”专长将在唬骗检定中承受-4减值。若你唬骗成功，你并不会如常获得交涉加值，而是能够重试1分钟内最后一次对该生物的交涉检定。",
+    "mythicText_zh": "你非常善于使用语言进行误导并巧妙地影响他人。",
+    "mythicPrerequisites_zh": "舌绽莲花",
+    "mythicBenefit_zh": "当你成功使用舌绽莲花专长对抗非神话生物时，你的交涉检定加值获得提高，提升数值等同于你的阶层。若目标是神话生物，该加值则减少为你的阶层的一半。<\/p><p>你能够花费1次神话之力，以此来重掷失败的唬骗检定。你必须接受新结果，即便它比之前更低。"
 }

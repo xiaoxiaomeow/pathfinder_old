@@ -7,5 +7,10 @@
     "text": "Your seemingly reckless advance becomes an agile strike at the last moment.",
     "prerequisites": "Dex 15, Acrobatics 10 ranks or acrobatic charge class feature, Bluff 3 ranks.",
     "benefit": "When charging, instead of moving to the closest space from which you can attack your target, you can move to the space adjacent to your target and on the other side of it, as long as you move through the closest space from which you can attack the target and through the target’s space to get there. When you move through the target’s space, you must attempt an Acrobatics check with a DC equal to 10 + your opponent’s CMD. Success allows you to move through the target’s space without provoking an attack of opportunity from that target, and when you arrive in the destination space and make your attack, the target is considered flanked for that attack (or the first attack if you have more than one attack on a charge). On a failed check, you instead provoke an attack of opportunity and complete the charge as normal. Whether or not you succeed at the Acrobatics check, you take a –4 penalty to your AC until the start of your turn, instead of the normal –2 penalty.",
-    "normal": "When charging, you must end the movement part of a charge in the closest space in which you can attack your target."
+    "normal": "When charging, you must end the movement part of a charge in the closest space in which you can attack your target.",
+    "name_zh": "滑步冲锋",
+    "text_zh": "你那看似鲁莽的猪突猛进会在最后一刻变为敏捷的突袭。",
+    "prerequisites_zh": "敏捷 15，特技动作10级或杂技冲锋（acrobatic charge）职业能力，唬骗3级。",
+    "benefit_zh": "在冲锋时，你可以不必停留在能够攻击到目标且距离你最近的位置，取而代之的是你能够移动到与目标相邻、并且位于另一侧的位置，就如同你穿过了可以攻击到目标并且距离你最近的位置，然后再穿过目标占据的空间后所处的位置。当你穿过目标占据的空间时，必须尝试1次特技动作检定，DC为10 + 你的敌人的CMD。成功则让你在不引发冲锋目标借机攻击的前提下穿过目标所占据的空间，之后你会抵达目标区域并作出攻击，目标会被视同为受到该次攻击的夹击（若你在冲锋中可以作出多次攻击的话，则只有第1次攻击视为目标受到夹击）。如果你的检定失败了，则会引起目标的借机攻击，之后如正常情况一般完成冲锋。无论特技动作检定是否成功，你的AC都会受到-4减值以取代正常的-2减值，持续至你的下个回合开始为止。",
+    "normal_zh": "在冲锋时，你必须以冲锋的一部分结束移动，并停留在能够攻击到目标且距离你最近的位置。<\/p><p>译注：本专长先决条件的acrobatic charge虽然标记*号，但是本书并无同名能力。整个pf规则似乎也只有核心手册的进阶职业决斗家6级是同名能力。"
 }

@@ -6,5 +6,9 @@
     "text": "You can repress your conscious mind in favor of a primal state that helps you resist mental influence.",
     "prerequisites": "Wis 13, Wilding.",
     "benefit": "Whenever you fail a saving throw against a fear or mind-affecting effect, you can take 1d3 points of Intelligence damage as an immediate action and reroll the saving throw. This damage cannot be reduced or avoided in any way. You must take the new result, even if it is worse.",
-    "prerequisiteKeys": ["wilding"]
+    "prerequisiteKeys": ["wilding"],
+    "name_zh": "荒野思维",
+    "text_zh": "你可以压制自己的意识，依靠原始野性抵抗心灵影响。",
+    "prerequisites_zh": "感知13，荒野之痕。",
+    "benefit_zh": "如果你在一次对抗恐惧或影响心灵的意志豁免中失败，那么你能够立即获得1d3点的智力伤害并重骰豁免检定。这种损害不能以任何方式减少或避免。你必须接受第二次结果，即使结果更差。"
 }

@@ -12,5 +12,10 @@
     "normal": "If you are unable to act in the surprise round because you failed a Perception check, you can’t take any actions during the surprise round.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 3 stamina points to grant the benefit of this feat to an adjacent ally. (<i>Dirty Tactics Toolbox 12<\/i>)",
-    "prerequisiteKeys": ["alertness"]
+    "prerequisiteKeys": ["alertness"],
+    "name_zh": "突袭警惕",
+    "text_zh": "你极少会被打个措手不及。",
+    "prerequisites_zh": "警觉。",
+    "benefit_zh": "如果你因为察觉检定失败而在突袭轮中无法行动，你仍然可以正常进行先攻检定并且可以在轮到你的先攻位时行动——但是，你只能进行全防御。",
+    "staminaText_zh": "你可以消耗3点耐力来将该专长的好处赋予一名临近的盟友。"
 }

@@ -5,12 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 16"],
     "text": "You land precise attacks from afar.",
-    "prerequisites": "Int 13; Combat Expertise or brawler’s cunning<sup>ACG<\/sup> class feature; Lunge; Outslug Style; Weapon Focus with the chosen weapon.",
+    "prerequisites": "Int 13; Combat Expertise or brawler’s cunning class feature; Lunge; Outslug Style; Weapon Focus with the chosen weapon.",
     "benefit": "While using Outslug Style, you don’t take a –2 penalty to your AC when using the Lunge feat. The bonuses to AC and on weapon damage rolls that you gain from Outslug Style increase to +2.",
     "prerequisiteKeys":     [
         "combat expertise",
         "lunge",
         "outslug style",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "牙突进",
+    "text_zh": "你可以在远处对敌人的要害发动突击。",
+    "prerequisites_zh": "牙突式，智力13，突刺（Lunge），寓守于攻或拳师武学智慧（Brawler's Cunning）职业能力，对所选武器拥有武器专攻专长，BAB+5或武僧等级+5。",
+    "benefit_zh": "当你开启牙突式架势时，你不会在使用突刺专长的效果时在防御等级上承受-2减值。并且，牙突式专长为你在防御等级和武器伤害上提供的加值上升到+2。"
 }

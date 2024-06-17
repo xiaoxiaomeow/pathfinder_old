@@ -8,5 +8,10 @@
     "prerequisites": "Improved Grapple, Strength 13, Base Attack Bonus +7.",
     "benefit": "Whenever you damage an opponent with a piercing weapon, you can immediately make a grapple check; success means the opponent is impaled on your weapon and you both gain the grappled condition. While the opponent is impaled, as an attack action you may make a grapple check on your turn at a –4 penalty to damage the opponent with your weapon, even if your weapon cannot normally be used in a grapple.",
     "normal": "You can only attack with an unarmed strike, natural weapon, or light weapon against opponents you are grappling.",
-    "prerequisiteKeys": ["improved grapple"]
+    "prerequisiteKeys": ["improved grapple"],
+    "name_zh": "尖刺魔之触",
+    "text_zh": "你可以用你的武器抓住对手并将它们控制在原地。",
+    "prerequisites_zh": "精通擒抱，力量13，BAB+7。",
+    "benefit_zh": "无论何时，当你的穿刺武器对敌人造成伤害时，你可以立即做一个擒抱检定；如果成功则意味着敌人被你的武器所“刺穿”，你们同时进入擒抱状态。当你的对手处于“刺穿”状态时，在你的回合你可以承受-4罚值的以攻击动作进行擒抱检定来用武器来伤害你的对手，即便是正常擒抱中不能使用的武器此时也可。",
+    "normal_zh": "当你在擒抱时，你只能对使用徒手武器，天生武器和轻型武器。"
 }

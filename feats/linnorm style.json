@@ -10,5 +10,9 @@
     "text": "Your open stance invites opponents to attack you, and like a linnorm’s death curse, your retributive strikes punish those foolish enough to accept the invitation.",
     "prerequisites": "Wis 13, Improved Unarmed Strike, base attack bonus +3 or monk level 3rd.",
     "benefit": "While using this style, you take a -2 penalty to your AC against melee attacks. After a creature makes a melee attack against you, you can choose to add your Wisdom bonus to the damage from your unarmed strikes against that creature, rather than your Strength bonus. If you can normally add your Dexterity bonus to the attack’s damage, you can instead replace it with your Wisdom bonus. This lasts until the beginning of the target creature’s next turn.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "蛇龙流",
+    "text_zh": "你放开姿态邀请敌人攻击你，就像蛇龙的死亡诅咒一样，你的报复打击将会惩罚那些愚蠢到接受要求的人。",
+    "prerequisites_zh": "感知13，精通徒手打击，BAB+3或3级武僧等级。",
+    "benefit_zh": "当你使用此流派时，你在对抗近战攻击的AC上受到-2减值。当一个生物对你进行近战攻击后，你可以将你的感知加值加到你对该生物的徒手攻击伤害上，而不是力量加值。如果你平常能在攻击伤害上增加敏捷加值，那么你能够用感知加值代替。持续到目标生物的下一个回合开始。"
 }

@@ -9,14 +9,15 @@
     "benefit": "When you reroll a missed attack using the Second Chance feat, you can still make the rest of your attacks that turn, albeit at a –5 penalty to each attack.",
     "normal": "When using the Second Chance feat, you must normally forgo the rest of your attacks that turn.",
     "staminaSource": "Pathfinder Unchained pg. 123",
-    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to use Second Chance<sup>APG<\/sup> to reroll any attack after the first in a full attack at the same bonus. If you use Second Chance more than once in the same full attack, the penalties stack.",
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 5 stamina points to use Second Chance to reroll any attack after the first in a full attack at the same bonus. If you use Second Chance more than once in the same full attack, the penalties stack.",
     "prerequisiteKeys":     [
         "combat expertise",
         "second chance"
     ],
     "name_zh": "精通燕归来",
     "text_zh": "你能够将失手的攻击变为第二次进攻的机会，而不用放弃剩余的后招。",
-    "prerequisites_zh": "智力13，寓守于攻，燕归来，基本攻击加值+11。",
+    "prerequisites_zh": "智力13，寓守于攻，燕归来，BAB+11。",
     "benefit_zh": "当你使用“燕归来”专长重掷失手攻击时，你仍旧能够在该回合进行剩下的攻击，不过每个攻击都会受到-5减值。",
-    "normal_zh": "当你使用“燕归来”专长时，通常情况下必须放弃该回合内剩下的攻击。"
+    "normal_zh": "当你使用“燕归来”专长时，通常情况下必须放弃该回合内剩下的攻击。",
+    "staminaText_zh": "即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。你可以消耗5点耐力在全力攻击的第一次攻击后的任何攻击上使用燕归来APG进行重投，使用相同的加值。如果在同一次全力攻击中使用了多于一次燕归来，这些减值将会叠加。"
 }

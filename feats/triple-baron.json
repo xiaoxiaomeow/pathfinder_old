@@ -7,5 +7,9 @@
     "text": "The Three have seen your offerings and proclaimed them satisfactory, even before you actually had the chance to show those offerings to them.",
     "prerequisites": "Fey creature type or Fey Obedience (Magdh), you must have collected three gifts worth at least 100 gp each from three different planes across the Great Beyond. At least two of the planes must be diametrically opposed to one another in terms of planar traits.",
     "benefit": "Three times per day as an immediate action, when you are about to roll for an attack, saving throw, or skill check, you can roll three d20s and use the middle of the three results. This ability cannot be combined with other effects that involve rerolling dice or involve rolling twice and taking either the higher or lower result.",
-    "prerequisiteKeys": ["fey obedience"]
+    "prerequisiteKeys": ["fey obedience"],
+    "name_zh": "三相男爵",
+    "text_zh": "在你像三相展现之前，他们已经看到了你的供品，并声称他们的满意。",
+    "prerequisites_zh": "精类或精类服从仪式（玛芙），你必须从三个不同的位面收集三个加值至少100g的礼物，就位面特效而言至少两个必须截然相反。",
+    "benefit_zh": "每日三次，自由动作，当你准备进行命中、豁免或者技能检定时，你可以投掷三个D20骰，并使用三个中的中间值。该能力不能与其他重骰或两次取高或取低的效果相结合。"
 }

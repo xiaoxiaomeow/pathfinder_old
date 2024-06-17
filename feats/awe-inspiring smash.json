@@ -12,5 +12,10 @@
     "benefit": "You can apply your Strength modifier instead of your Charisma modifier to performance combat checks.<br><br> In addition, when you spend a swift action to attempt a performance combat check that was triggered by a successful bull rush or sunder combat maneuver check, you gain a +2 bonus on the performance combat check. For every 5 points by which your attack exceeded your opponent’s CMD, this bonus increases by 2.",
     "staminaSource": "Weapon Master's Handbook pg. 24",
     "staminaText": "After successfully performing a bull rush or sunder combat maneuver, you can spend up to 5 stamina points to increase the bonus on performance combat checks that you gain from Awe-Inspiring Smash by 1 per stamina point spent.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "惊人重挥",
+    "text_zh": "你的武勇在战斗中被转化为让观众欢呼的展示。",
+    "prerequisites_zh": "力量15，猛力攻击，BAB+3。",
+    "benefit_zh": "你能够用力量调整值来替代魅力调整值进行演武检定（performance combat checks）。<\/p><p>此外，当你以成功的冲撞（bull rush）或破武（sunder）战技检定，进而触发迅捷动作尝试的演武检定时，你会在此次演武检定中获得+2加值。你的攻击每超过敌人CMD 5点，该加值就会增加2点。",
+    "staminaText_zh": "在你成功进行了一次冲撞或者破武战技检定时，你可以消耗至多5点耐力来提升来自惊人重挥的演武表演的战斗检定加值，每一点耐力能够提升1点。"
 }

@@ -5,5 +5,9 @@
     "source": ["Inner Sea Combat pg. 17"],
     "text": "You have spent significant time in the Grand Duchy of Alkenstar, and your proximity to so many firearms has given you a familiarity with their delicate handling.",
     "prerequisites": "Base attack bonus +3, proficiency with at least one firearm.",
-    "benefit": "Once per day as an immediate action, you can reroll an attack roll with a firearm that would have resulted in a misfire. You must take the results of the new roll, even if it results in a misfire as well."
+    "benefit": "Once per day as an immediate action, you can reroll an attack roll with a firearm that would have resulted in a misfire. You must take the results of the new roll, even if it results in a misfire as well.",
+    "name_zh": "枪械亲熟",
+    "text_zh": "你曾经在阿肯斯塔大公国境内度过了一些日子，在此期间与大量火器的接触使你获得了巧妙处理它们的能力。",
+    "prerequisites_zh": "BAB+3，至少擅长一种火器。",
+    "benefit_zh": "每日1次以直觉动作，你能够在使用火器进行一次攻击检定并得到哑火的结果时重掷攻击检定。你必须接受重掷检定得到的结果，即便这次结果仍旧哑火也是如此。"
 }

@@ -6,5 +6,10 @@
     "text": "Your arcane prowess is so great that even cursed items fail to befuddle you.",
     "prerequisites": "Spellcraft 5 ranks, ability to cast <i>detect magic <\/i>as a spell or spell-like ability.",
     "benefit": "You gain a +2 bonus on checks made to identify the properties of magic items. In addition, you need only exceed the DC of these checks by 5 in order to determine whether or not an item is cursed.",
-    "normal": "Unless the check made to identify a cursed item exceeds the DC by 10 or more, the item’s curse cannot be detected."
+    "normal": "Unless the check made to identify a cursed item exceeds the DC by 10 or more, the item’s curse cannot be detected.",
+    "name_zh": "诅咒魔法物品鉴定",
+    "text_zh": "你对奥术强大的掌握让诅咒物品也难以将你迷惑。",
+    "prerequisites_zh": "法术辨识5级，能施展侦测魔法或以侦测魔法做类法术能力。",
+    "benefit_zh": "你在鉴定魔法物品的属性上得到+2的加值，此外，你只要超过鉴定DC5点就可以辨识出物品是否被诅咒。",
+    "normal_zh": "你需要超过辨识所需DC10点才能鉴别出受诅咒的魔法物品。"
 }

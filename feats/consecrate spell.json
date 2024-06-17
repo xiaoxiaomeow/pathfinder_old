@@ -6,5 +6,9 @@
     "source": ["Blood of Angels pg. 25"],
     "text": "You infuse spells with heavenly power, drastically increasing their effectiveness against would-be heralds of evil.",
     "prerequisites": "Aasimar, able to prepare or cast <i>consecrate<\/i>.",
-    "benefit": "A consecrated spell is treated as a maximized spell against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated <i>fireball <\/i>acts as a normal <i>fireball <\/i>against neutral or good creatures). This feat does not stack with Maximize Spell. A consecrated spell uses up a spell slot two levels higher than the spell’s actual level."
+    "benefit": "A consecrated spell is treated as a maximized spell against evil creatures and creatures with the evil subtype. Against all other creatures, this feat does not modify the spell in any way (for example, a consecrated <i>fireball <\/i>acts as a normal <i>fireball <\/i>against neutral or good creatures). This feat does not stack with Maximize Spell. A consecrated spell uses up a spell slot two levels higher than the spell’s actual level.",
+    "name_zh": "法术祝圣",
+    "text_zh": "你向法术中注入神圣的能量，使其对邪恶的爪牙的效果大幅提升。",
+    "prerequisites_zh": "神裔，能准备或施放祝圣术（consecrate）。",
+    "benefit_zh": "被添加了法术祝圣的法术将会对邪恶生物或拥有邪恶子类别的异界生物产生法术极效的效果。对其他所有生物，这个专长都不会让法术产生任何变化（比如，一个祝圣化的火球对一个中立或善良生物来说就是一个普通的火球）。该专长效果不会与法术极效叠加。法术祝圣将占用比原法术高两级的法术位。"
 }

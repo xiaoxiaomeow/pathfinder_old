@@ -12,11 +12,15 @@
     "staminaText": "You can spend 10 stamina points to deliver a coup de grace against two helpless, cowering, or stunned targets within your reach as a fullround action. This provokes attacks of opportunity twice—one for each coup de grace.",
     "mythicSource": "Mythic Adventures pg. 61",
     "mythicText": "You strike downed, dazed, and staggered opponents with deadly efficiency.",
-    "mythicPrerequisites": "Dastardly Finish<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Dastardly Finish.",
     "mythicBenefit": "You can deliver a coup de grace to dazed and staggered non-mythic opponents. In addition, when any creature makes a Fortitude saving throw to survive one of your coup de grace attempts, it takes a penalty to that saving throw equal to your tier.",
     "name_zh": "慈悯终结",
     "text_zh": "你能够趁着敌人虚弱的时候进行致命一击。",
     "prerequisites_zh": "偷袭+5d6。",
     "benefit_zh": "你能够对畏缩或者震慑的目标进行致命一击（coup de grace）。",
-    "normal_zh": "你只能对无助的目标进行致命一击。"
+    "normal_zh": "你只能对无助的目标进行致命一击。",
+    "mythicText_zh": "你能够对倒地、眩晕和恍惚的敌人进行致命地攻击。",
+    "mythicPrerequisites_zh": "慈悯终结",
+    "mythicBenefit_zh": "你能够对眩晕（dazed）以及恍惚（staggered）的非神话敌人执行致命一击（coup de grace）。此外，当任何生物尝试从你的致命一击中存活而进行强韧豁免时，它在该检定中会受到等同于你的阶层点减值。",
+    "staminaText_zh": "如果花费10点耐力，你可以以一个全轮动作对攻击范围内的2个适合目标发动致命一击，但会引发两次借机攻击。"
 }

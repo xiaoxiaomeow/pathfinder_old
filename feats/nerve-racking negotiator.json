@@ -7,5 +7,10 @@
     "prerequisites": "Persuasive.",
     "benefit": "When you successfully use the Intimidate skill to force an opponent to act friendly toward you, the target must attempt a Will save once the intimidation wears off. The DC is equal to 10 + your number of ranks in Intimidate. If the target fails this save, after the intimidation period expires, the target counts as having the same attitude toward you as it initially did (usually indifferent) and will not report you to the authorities for intimidating it.",
     "normal": "The target of a successful Intimidate check is unfriendly to you and potentially reports you to the authorities after the duration ends.",
-    "prerequisiteKeys": ["persuasive"]
+    "prerequisiteKeys": ["persuasive"],
+    "name_zh": "冷面交涉人",
+    "text_zh": "你已经掌握了恐吓他人的技术，明白如何在获得自己想要的同时不会引起不必要的管处。",
+    "prerequisites_zh": "谈判专家。",
+    "benefit_zh": "当你成功使用威吓技能迫使1名敌人向你表示友善（act friendly toward you）时，目标必须在威吓效果消退后尝试1次意志豁免。DC为10 + 你在威吓中投入的技能点数。若目标在该次豁免中失败的话，它在威吓带来的效果期限结束之后对你的态度视为与最初相同——通常为冷漠（indifferent）——而且不会因为被你威胁而上报权力机构。",
+    "normal_zh": "在威吓技能的持续时间结束后，成功受到威吓检定的目标对你的态度会变为不友善（unfriendly），而且可能会举报你。"
 }

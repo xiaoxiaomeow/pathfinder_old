@@ -8,10 +8,13 @@
     "benefit": "As an immediate action, when an enemy within 30 feet hits an ally with an attack, you can sacrifice a prepared divine spell or (if you are a spontaneous caster) an unused spell slot and make the enemy reroll the attack roll. The second attack roll takes a penalty equal to the level of the spell you sacrifice. You must sacrifice a spell of 1st-level or higher to use this ability. Whether or not the second attack is successful, you cannot use this effect on the same creature again for 1 day.",
     "mythicSource": "Mythic Adventures pg. 63",
     "mythicText": "Your divine power thwarts enemies of your faith.",
-    "mythicPrerequisites": "Divine Interference<sup>UM<\/sup>.",
+    "mythicPrerequisites": "Divine Interference.",
     "mythicBenefit": "When you use Divine Interference, the penalty on your opponent’s attack roll is equal to twice the level of the spell sacrificed. You can expend one use of mythic power when you sacrifice the spell to increase the penalty to triple the level of the spell sacrificed.",
     "name_zh": "神圣干涉",
     "text_zh": "你可以转换你的法术用以干涉敌人的攻击。",
     "prerequisites_zh": "神术施法者，施法者等级10级。",
-    "benefit_zh": "以一个直觉动作，当一个30尺内的敌人攻击并伤害了你的一个盟友时，你可以牺牲一个准备好的神术或者一个未使用的法术位（如果你是自发施法者）使敌人重投攻击骰。重投的攻击骰受到等同于所牺牲法术环级的罚值。你必须牺牲一个1级或者更高环级的法术来使用此能力。无论重骰的攻击是否成功，你都无法在1天内对同一个目标再次使用这个能力。"
+    "benefit_zh": "以一个直觉动作，当一个30尺内的敌人攻击并伤害了你的一个盟友时，你可以牺牲一个准备好的神术或者一个未使用的法术位（如果你是自发施法者）使敌人重投攻击骰。重投的攻击骰受到等同于所牺牲法术环级的罚值。你必须牺牲一个1级或者更高环级的法术来使用此能力。无论重骰的攻击是否成功，你都无法在1天内对同一个目标再次使用这个能力。",
+    "mythicText_zh": "你的神力会阻碍你的信仰之敌。",
+    "mythicPrerequisites_zh": "神圣干涉",
+    "mythicBenefit_zh": "当你使用神圣干涉专长时，你的敌人的攻击检定受到两倍被牺牲的法术等级的减值。当你牺牲法术使，能够花费1次神话之力来使减值增加至三倍于被牺牲法术的等级。"
 }

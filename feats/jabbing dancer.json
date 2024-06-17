@@ -8,7 +8,7 @@
     "prerequisites": "Dodge, Improved Unarmed Strike, Jabbing Style, Mobility; base attack bonus +9, brawler level 5th, or monk level 5th.",
     "benefit": "Each time you hit with an unarmed strike while using Jabbing Style, you can move 5 feet without provoking an attack of opportunity as long as you move to a space adjacent to the opponent you hit with the unarmed strike. If you use this feat, you cannot take a 5-foot step during your next turn.",
     "staminaSource": "Pathfinder Unchained pg. 124",
-    "staminaText": "After you use Jabbing Style<sup>ACG<\/sup> to move 5 feet without provoking attacks of opportunity, if you have at least 1 stamina point in your stamina pool, you can still take a 5-foot step on your next turn.",
+    "staminaText": "After you use Jabbing Style to move 5 feet without provoking attacks of opportunity, if you have at least 1 stamina point in your stamina pool, you can still take a 5-foot step on your next turn.",
     "prerequisiteKeys":     [
         "dodge",
         "improved unarmed strike",
@@ -17,6 +17,7 @@
     ],
     "name_zh": "百裂步",
     "text_zh": "你可以在发动连续拳击的间隙摆出各种姿势，从不同角度殴打对手。",
-    "prerequisites_zh": "闪避，精通徒手击打，百裂拳，灵活移动，基础攻击加值+9或拳师等级5或武僧等级5",
-    "benefit_zh": "在使用百裂拳流派时，你的徒手攻击每命中目标一次，你就可以移动5尺一次且不引发借机攻击，但你的移动落点必须邻接你徒手击打命中的目标。但是，你的下一轮无法进行五尺快步。"
+    "prerequisites_zh": "闪避，精通徒手击打，百裂拳，灵活移动，BAB+9或拳师等级5或武僧等级5。",
+    "benefit_zh": "在使用百裂拳流派时，你的徒手攻击每命中目标一次，你就可以移动5尺一次且不引发借机攻击，但你的移动落点必须邻接你徒手击打命中的目标。但是，你的下一轮无法进行五尺快步。",
+    "staminaText_zh": "在你使用百裂拳ACG移动五尺而不受借机攻击时，如果你的耐力池中还有1点耐力，你仍可以在你的下一轮使用5尺快步。"
 }

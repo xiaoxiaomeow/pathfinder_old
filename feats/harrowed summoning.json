@@ -6,5 +6,9 @@
     "text": "Your summoned creatures are empowered by the magic of the harrow.",
     "prerequisites": "Harrowed (<i>Pathfinder Campaign Setting: The Inner Sea World Guide <\/i>287).",
     "benefit": "When you cast a conjuration (summoning) spell or use a spell-like ability to summon one or more creatures, you can draw two random cards from a complete harrow deck you own. Doing so adds both a somatic component (if the spell does not already have one) and a focus component (the harrow deck) to the spell, but does not increase the spell’s casting time. For the duration of the spell, each summoned creature gains a +4 enhancement bonus to the corresponding ability scores of the drawn card’s suits. If both cards are the same suit, each summoned creature gains a +6 bonus to that ability score instead. If either card’s alignment is a true match for the summoned creatures’ alignment, the duration of the spell is doubled, while drawing an opposite match halves the duration of the spell. If both a true match and an opposite match are drawn, the spell’s duration is unchanged.<br><br> A creature summoned in this way is distinctly altered by the cards drawn. Its physical appearance reflects the visual elements of the cards (for example, a creature summoned with The Publican might have only one eye). The creature’s personality is also influenced by the cards, but not so much as to alter its alignment (for example, The Snakebite might summon a creature that likes to gossip).",
-    "prerequisiteKeys": ["harrowed"]
+    "prerequisiteKeys": ["harrowed"],
+    "name_zh": "哈罗召唤术",
+    "text_zh": "你召唤的生物被哈罗牌的魔法强化了。",
+    "prerequisites_zh": "哈罗牌。",
+    "benefit_zh": "当你释放一个咒法(召唤)法术，或使用类法术能力召唤一只或多只生物，你可以从你所有的一个完整牌堆随机抽2张牌。如此做会给法术增加姿势（若法术本身没有）和法器（哈罗牌）成分，但不会增加施法时间。在法术持续时间内，每只被召唤来的生物在抽出的牌组对应的属性上获得+4增强加值。若两张牌的牌组相同，则该属性加值增至+6。若两张牌任何一张的阵营和被召唤生物完全相同，则法术持续时间加倍；若有一张完全相反，则法术持续时间减半。若刚好一张完全相同，一张完全相反，则不变。<\/p><p>以此方式召唤出的生物已经被牌组彻底改造。其物理外表反映了牌张的视觉元素（比如，被“老板(The Publican)”召唤出的生物可能只长了一只眼睛）。生物的个性也被牌张影响，但不会很大，不会因此改变阵营（比如，“蛇咬(Snakebite)”这张牌可能召唤出一只很爱八卦的生物）。"
 }

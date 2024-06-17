@@ -9,5 +9,9 @@
     "prerequisiteKeys":     [
         "diehard",
         "endurance"
-    ]
+    ],
+    "name_zh": "顽恶之勇",
+    "text_zh": "炼狱之血快速地在你体内循环，这使你的伤口比常人更快愈合。",
+    "prerequisites_zh": "体质15，顽强，坚忍，魔裔。",
+    "benefit_zh": "当你通过休息恢复生命值时，你会治愈双倍于正常数值的伤害。该专长的不会与任何同样能够影响通过休息恢复的伤害值的物品或效果叠加。该专长只在整晚休息（full night's rest）时生效；完全卧床休息（complete bed rest）并不受该专长影响。"
 }

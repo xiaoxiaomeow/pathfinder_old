@@ -7,5 +7,9 @@
     "text": "With a forceful strike, you throw your foe off-balance.",
     "prerequisites": "Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +4.",
     "benefit": "When using this feat, in addition to dealing damage normally, you force a foe damaged by your unarmed attack to attempt a Reflex saving throw (DC = 10 + half your character level + your Wisdom modifier). A creature that fails this saving throw is flat-footed, and if it is larger than Medium size, it loses any special size modifier to its CMD against effects or combat maneuvers that would move it until its next turn. It is also knocked out of any stance associated with a style feat. You must declare that you are using this feat before you make your attack roll; if your attack roll fails, the target is unaffected and your attempt is wasted. You can attempt to use Unbalancing Blow once per day for every 4 character levels you have, but no more than once per round. Creatures immune to tripping are immune to this effect.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "失衡击",
+    "text_zh": "你用一次猛力攻击让敌人失去平衡。",
+    "prerequisites_zh": "敏捷13，感知13，精通徒手攻击，BAB+4。",
+    "benefit_zh": "当使用这一专长时，除了正常造成伤害，你可以让被你徒手攻击击中的敌人进行一次反射豁免（DC=10+你角色等级的一半+你的感知调整值）.豁免失败的生物陷入措手不及，如果体型大于中型，他会失去CMD上的体型调整值，持续到他的下一回合。他也会失去任何流派专长进入的架势。你必须在攻击之前宣言使用这一专长，如果攻击失手，则目标没有受到效果，你的本次尝试被浪费。你每天可以使用失衡击的次数为每4个角色等级一次。免疫摔绊的生物无法被此效果影响。"
 }

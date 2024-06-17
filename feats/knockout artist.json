@@ -8,11 +8,14 @@
     "benefit": "When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent denied his Dexterity bonus to AC, you gain a +1 bonus on the damage roll per each sneak attack damage die you roll.",
     "mythicSource": "Mythic Adventures pg. 68",
     "mythicText": "Your knockout punches are truly mighty.",
-    "mythicPrerequisites": "Knockout Artist<sup>UC<\/sup>.",
+    "mythicPrerequisites": "Knockout Artist.",
     "mythicBenefit": "When you use your unarmed strike to deal nonlethal damage and sneak attack damage to an opponent, roll d8s for each sneak attack die instead of d6s.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "斗殴艺术",
     "text_zh": "你的拳头充满破坏力。",
     "prerequisites_zh": "【偷袭】职业特性，精通徒手打击。",
-    "benefit_zh": "当你使用徒手打击对一个失去AC上的敏捷加值的敌人进行非致命性伤害的偷袭时，你的每个偷袭伤害骰获得+1额外伤害。"
+    "benefit_zh": "当你使用徒手打击对一个失去AC上的敏捷加值的敌人进行非致命性伤害的偷袭时，你的每个偷袭伤害骰获得+1额外伤害。",
+    "mythicText_zh": "就算是真正的勇士也击倒给你看。",
+    "mythicPrerequisites_zh": "斗殴艺术",
+    "mythicBenefit_zh": "当你使用徒手打击对敌人造成非致命伤害和偷袭伤害时，每个偷袭攻击骰都使用d8以取代原本的d6。"
 }

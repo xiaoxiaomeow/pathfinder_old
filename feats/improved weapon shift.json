@@ -6,5 +6,9 @@
     "text": "When you change forms, your natural attacks take on not just the physical properties of your weapons, but their magical abilities as well.",
     "prerequisites": "Weapon Shift, base attack bonus +6, wild shape class feature.",
     "benefit": "When you apply a melee weapon’s damage type and properties to your natural attacks using the Weapon Shift feat, your natural attacks also gain the weapon special abilities of the weapon, such as the <i>flaming<\/i> special ability. Improved Weapon Shift does not apply the <i>dancing<\/i> special ability or any special abilities limited to thrown or ranged weapons, and it does not apply the weapon’s enhancement bonuses to your attacks.",
-    "prerequisiteKeys": ["weapon shift"]
+    "prerequisiteKeys": ["weapon shift"],
+    "name_zh": "精通武器变形",
+    "text_zh": "当你改变型态时，你的天生攻击不单只得到你的武器的物理特性，还得到它们的魔法能力。 ",
+    "prerequisites_zh": "武器变形，BAB+6，自然变身职业特性。",
+    "benefit_zh": "当你使用武器变形专长一把近战武器的伤害类型和特性应用至你的天生攻击时，你的天生攻击还获得此武器的特殊附魔，例如炽焰附魔。精通武器变形不会应用舞空附魔或任何限制在远程武器的附魔，而且它不会将武器的增强加值给予你的天生攻击。"
 }

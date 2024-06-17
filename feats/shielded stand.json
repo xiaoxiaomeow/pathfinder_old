@@ -10,5 +10,9 @@
     "text": "You can cover an effort to regain your feet.",
     "prerequisites": "Shield Focus, base attack bonus +3 or fighter level 1st.",
     "benefit": "As a swift action, you can prevent yourself or an adjacent ally from provoking an attack of opportunity when standing from prone or when picking up an object from the ground.",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "持盾姿态",
+    "text_zh": "你能够重新站起。",
+    "prerequisites_zh": "盾牌专攻，BAB+3或者战士1级。",
+    "benefit_zh": "以迅捷动作保护你或你邻接的盟友，从倒地状态起身或者捡拾地上的物品时不受借机攻击。"
 }

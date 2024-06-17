@@ -7,5 +7,9 @@
     "text": "You can share individual magic with your partner.",
     "prerequisites": "Bonded Mind, ability to share spells with an animal companion, eidolon, familiar, or phantom, caster level 1st.",
     "benefit": "You can cast a spell with a target of “you” on an ally as a touch spell, as per the share spells familiar ability, so long as the ally possesses the Bonded Mind feat.",
-    "prerequisiteKeys": ["bonded mind"]
+    "prerequisiteKeys": ["bonded mind"],
+    "name_zh": "分享法术",
+    "text_zh": "你可以与你的伙伴分享个人法术。",
+    "prerequisites_zh": "心灵羁绊，与一名动物伙伴、幻灵、魔宠或魅影有法术共享（share spells）能力，施法者等级1级。",
+    "benefit_zh": "只要盟友拥有心灵羁绊专长的话，你就可以将目标为〔自身〕的法术如同接触法术一般的施展到一名盟友身上，如同法术共享（share spells）魔宠能力一般。"
 }

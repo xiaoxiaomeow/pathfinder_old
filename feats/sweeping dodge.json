@@ -7,5 +7,9 @@
     "text": "A quick sweep of your cloak deflects an incoming attack.",
     "prerequisites": "Dex 13, Dodge.",
     "benefit": "When you make a dueling dodge while wearing a cloak, you gain evasion (as the rogue ability). If a critical hit or sneak attack is scored on you, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This feat only applies until the attack that triggered the immediate action is resolved. This feat does not stack with the <i>fortification <\/i>armor special ability or similar effects.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "回旋闪避",
+    "text_zh": "快速挥动斗篷，偏斜敌方的攻击。",
+    "prerequisites_zh": "敏捷13，闪避。",
+    "benefit_zh": "当你穿着斗篷进行决斗闪避（Dueling Dodge）时，你会获得反射闪避（如同盗贼职业能力）。当你收到重击或偷袭时，你有25%的几率忽视重击或偷袭伤害，只受到正常伤害。此专长只能在触发这个直觉动作的那次攻击的伤害骰被掷出之前声明使用。此专长不与护命（fortification）附魔或类似的效果叠加。"
 }

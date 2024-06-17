@@ -8,11 +8,14 @@
     "benefit": "Select one sorcerer bloodline. You must have Skill focus in the class skill that bloodline grants to a sorcerer at 1st level (for example, Heal for the celestial bloodline). This bloodline cannot be a bloodline you already have. You gain the first-level bloodline power for the selected bloodline. For purposes of using that power, treat your sorcerer level as equal to your character level – 2, even if you have levels in sorcerer. You do not gain any of the other bloodline abilities.",
     "mythicSource": "Mythic Adventures pg. 64",
     "mythicText": "The blood of your sorcerous ancestor mingles with your mythic power to great effect.",
-    "mythicPrerequisites": "Eldritch Heritage<sup>UM<\/sup>.",
+    "mythicPrerequisites": "Eldritch Heritage.",
     "mythicBenefit": "You gain sorcerer bloodline powers of the bloodline tied to Eldritch Heritage as if your sorcerer level were your character level – 2. For that bloodline’s 1st-level bloodline power, use your full character level to determine its effect; for all other bloodline powers, treat your sorcerer level as your character level – 2.",
     "prerequisiteKeys": ["skill focus"],
     "name_zh": "悠远血脉",
     "text_zh": "你是历史悠久的术士家族的后裔，一些血统力量流淌在你的血液之中。",
     "prerequisites_zh": "魅力13，对应你为此专长所选择血统的技能专攻（见下文），角色等级3级。",
-    "benefit_zh": "选择一个术士血统。你必须拥有选择血统1级时赋予术士额外本职技能所对应的“技能专攻”（例如天界血统为医疗技能）。所选的血统不能是你已经拥有的血统。你获得所选血统的1级血统力量。在使用所选择的能力时，将你的“角色等级-2”作为术士等级，即使你已经拥有术士等级也是如此。你不会得到其它血统能力。"
+    "benefit_zh": "选择一个术士血统。你必须拥有选择血统1级时赋予术士额外本职技能所对应的“技能专攻”（例如天界血统为医疗技能）。所选的血统不能是你已经拥有的血统。你获得所选血统的1级血统力量。在使用所选择的能力时，将你的“角色等级-2”作为术士等级，即使你已经拥有术士等级也是如此。你不会得到其它血统能力。",
+    "mythicText_zh": "你的术士祖先所流传下的血脉融入了你的神话力量，并且产生了很大的影响。",
+    "mythicPrerequisites_zh": "悠远血脉",
+    "mythicBenefit_zh": "你会获得悠远血脉专长中所选术士血统的血统力量，就如同你的术士等级为你的角色等级-2一般。对于血统的1级血统力量来说，使用你的完整角色等级来确定其效果，而其他血统力量则视你的术士等级为你的角色等级-2级。"
 }

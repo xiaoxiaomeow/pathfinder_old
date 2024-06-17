@@ -10,5 +10,9 @@
     "text": "When flanking, you use your position to rain grievous blows upon a trapped foe, though you have little regard to the well-being of your flanking partner as you wildly hack away.",
     "prerequisites": "Power Attack, base attack bonus +4.",
     "benefit": "When you are flanking an opponent with an ally who also possesses this feat, you can throw yourself into your attacks in such a way that your opponent takes extra damage, at the risk of these attacks striking your ally as well. When you choose to use this feat, check the results of your attack roll against both your opponent’s AC and your ally’s AC. If you hit your opponent, you deal bonus damage as though you were using Power Attack. If you hit your ally, the ally takes no damage from your attack except this bonus damage. It is possible to hit both your enemy and your abettor with one attack. Extra damage from this feat stacks with Power Attack.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "狂野夹击",
+    "text_zh": "当夹击时，你懂得利用你的位置优势给你的敌人带来狂风暴雨式的打击——尽管这会很难顾及到你夹击伙伴的安全。",
+    "prerequisites_zh": "猛力攻击，BAB+4。",
+    "benefit_zh": "当你和一个拥有此专长的盟友共同夹击一个敌人时，你在攻击投入全力使敌人承受额外伤害，哪怕这会使得你的盟友受伤。当你使用这个专长时，用你的攻击骰同时对抗敌人和盟友的AC.如果你击中了敌人，你会如同使用猛力攻击专长一般对他造成额外伤害；如果你击中了你的盟友，他仅会承受此专长带来的额外伤害。同时击中盟友和敌人是可能发生的。此专长带来的额外伤害和猛力攻击专长叠加。"
 }

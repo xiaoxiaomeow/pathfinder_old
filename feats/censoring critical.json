@@ -11,5 +11,10 @@
     "prerequisites": "Critical Focus, base attack bonus +15.",
     "benefit": "Whenever you score a critical hit against an opponent, the victim is unable to speak for 1d4+1 rounds. This prevents spellcasters from using spells with verbal components. A successful Fortitude saving throw reduces this muteness to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus.",
     "special": "You can apply the effects of only one critical feat to a given critical hit unless you have Critical Mastery.",
-    "prerequisiteKeys": ["critical focus"]
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "审查重击",
+    "text_zh": "你的重击迫使敌人沉默。",
+    "prerequisites_zh": "重击专攻，BAB+15。",
+    "benefit_zh": "当你对敌人造成重击时，目标在1D4+1轮内无法说话、这可以阻止施法者施放带有语言成分的法术。通过强韧豁免可将沉默减少至1轮，强韧豁免的DC=10+你的BAB。",
+    "special_zh": "除非你拥有重击熟稔（Critical Mastery）专长，你只能为一次重击附加一种重击专长效果。"
 }

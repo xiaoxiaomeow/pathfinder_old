@@ -11,5 +11,9 @@
         "combat reflexes",
         "improved unarmed strike",
         "indomitable mountain style"
-    ]
+    ],
+    "name_zh": "岳峙巅",
+    "text_zh": "你变得更难移动或通过。",
+    "prerequisites_zh": "感知15，战斗反射，精通徒手击打，岳峙流，BAB+6。",
+    "benefit_zh": "每当对手成功对你释放战技，或在通过你威胁的空间的特技检定中成功时，你立即在下一次对抗战技检定的CMD，和下一次对抗通过你威胁的空间的特技检定中的DC上，获得+2士气加值。此加值将一直持续到敌人任何一次上述尝试失败为止。"
 }

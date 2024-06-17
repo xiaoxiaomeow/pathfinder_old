@@ -7,5 +7,10 @@
     "prerequisites": "Improved Feint or canny feint vigilante talent, change shape ability, shapechanger subtype.",
     "benefit": "Whenever you use your change shape ability to assume a new form or to return to your true form, you can attempt a Bluff check as a swift action to feint one opponent within 30 feet who witnessed your transformation. You take a –4 penalty on Bluff checks to feint an opponent who is aware that you are a shapechanger. You don’t take the usual penalties for feinting a creature of a different type or a creature with an Intelligence score of 1 or 2 when feinting in this manner.",
     "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites. A character with wild shape can use this feat’s benefit whenever she uses wild shape to assume a new form or return to her true form.",
-    "prerequisiteKeys": ["improved feint"]
+    "prerequisiteKeys": ["improved feint"],
+    "name_zh": "野蛮变形",
+    "text_zh": "当你变换形态时你可以出其不意地抓住你的敌人。",
+    "prerequisites_zh": "精通虚招或侠客天赋狡黠虚招（Cunning Feint），变身（Change shape）能力，变形生物子类（shapechanger subtype）。",
+    "benefit_zh": "每当你使用你的变身能力呈现一个新形态或者变回你的真实形态，你可以用一个迅捷动作来对一个在30尺内看见你变形的对手进行唬骗。如果对手意识到你是一个变身者，那么你在这次唬骗检定中承受-4罚值。你在对一个不同类型的生物或者一个智力只有1或2的生物以此方法进行唬骗时不用承受正常的罚值。",
+    "special_zh": "在判断是否满足先决条件时，一个拥有自然变身（wild shape）职业能力的角色被认为拥有变身能力和变形生物子类。"
 }

@@ -6,5 +6,10 @@
     "text": "You have been trained to expend your own spell energy to boost the effects of an ally’s spell.",
     "prerequisites": "Caster level 1st.",
     "benefit": "As a standard action, you can expend a 1st-level or higher prepared spell or spell slot to grant additional magic energy to an allied spellcaster within close range (25 feet + 5 feet/2 levels). If that ally casts an instantaneous spell of an equal or lower level before the beginning of your next turn, all level-dependent calculations and caster level checks the spell requires are made as if the ally’s caster level were 2 higher. If the prepared spell or spell slot you expended is at least twice the level of the spell your ally casts, your ally’s caster level is treated as 4 higher instead. If your ally is able to cast more than one spell before the beginning of your next turn, only the first spell cast gains this bonus.",
-    "special": "An arcanist can select this feat as an exploit. A wizard can select this feat as a bonus feat."
+    "special": "An arcanist can select this feat as an exploit. A wizard can select this feat as a bonus feat.",
+    "name_zh": "秘法援助",
+    "text_zh": "你学习过如何使用自己的魔法力量支援盟友的法术。",
+    "prerequisites_zh": "施法者等级1级。",
+    "benefit_zh": "以一个标准动作，你可以消耗一个至少为1环的已准备法术或法术位，用它的能量强化一个近距（25尺+5尺/2个等级）内的施法者盟友。如果该盟友在你的下一个回合开始前施放一个环数不高于你消耗法术的法术，他的法术的施法者等级检定与依赖施法者等级计算的效果都视为+2.如果你消耗的法术环数至少比你盟友施放的法术环数高一倍，那么这个加值翻倍。如果在你的回合开始前你的盟友可以施放多于一个法术，那么这个加值只会在他的第一个法术上生效。",
+    "special_zh": "奥能师可以选择本专长替换一个奥术发现，法师可以选择本专长作为他的职业奖励专长。"
 }

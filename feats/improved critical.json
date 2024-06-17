@@ -17,7 +17,12 @@
     "mythicSpecial": "You can gain this feat multiple times. The effects do not stack. Each time you take this feat, it applies to a different non-mythic Improved Critical feat.",
     "name_zh": "精通重击",
     "text_zh": "你使用特定的武器攻击起来更易击中敌人要害。",
-    "prerequisites_zh": "擅长选择的特定武器，基本攻击加值+8。",
+    "prerequisites_zh": "擅长选择的特定武器，BAB+8。",
     "benefit_zh": "使用特定武器的重击威胁范围加倍。",
-    "special_zh": "你可以多次选择本专长，但并非累加效果。每次你选择本专长时，需选择一个新的武器类型。本专长不可与任何增加重击威胁范围的效果累加。"
+    "special_zh": "你可以多次选择本专长，但并非累加效果。每次你选择本专长时，需选择一个新的武器类型。本专长不可与任何增加重击威胁范围的效果累加。",
+    "mythicText_zh": "你所选择的武器所打出的重击极其致命。",
+    "mythicPrerequisites_zh": "精通重击，BAB+8",
+    "mythicBenefit_zh": "你所选武器的重击倍率增加1点（最高为x6）。",
+    "mythicSpecial_zh": "你能够多次选取该专长。其效果不会叠加。每当你选取该专长时，它会应用至不同的非神话版的精通重击专长。",
+    "staminaText_zh": "当你一次攻击命中，但投骰离重击威胁不超过3点时，你可以消耗5点耐力来让这次攻击造成两倍伤害。然后如同确认重击一样投骰。如果这次确认骰成功了，你的攻击可以造成两倍伤害，但仍然不能算作是重击。"
 }

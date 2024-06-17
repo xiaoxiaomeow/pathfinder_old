@@ -33,13 +33,12 @@
     "spellResistance": "yes (harmless)",
     "text": "You anoint a wounded creature with devil’s blood or unholy water, giving it fast healing 1. This ability cannot repair damage caused by silver weapons, good-aligned weapons, or spells or effects with the good descriptor. The target detects as evil for the duration of the spell and can sense the evil of the magic, though this has no long-term effect on the target’s alignment.",
     "name_zh": "地狱治疗",
-    "race_zh": "阿莫斯蒂亚斯",
     "castingTime_zh": "1轮",
-    "components_zh": "语言、姿势、材料 (一滴恶魔血液)",
+    "components_zh": "语言，姿势，材料（一滴魔鬼血液或一份诅咒邪水）",
     "range_zh": "接触",
-    "target_zh": "被碰触的生物",
+    "target_zh": "接触到的生物",
     "duration_zh": "1分钟",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
     "spellResistance_zh": "可 (无害)",
-    "text_zh": "<p>你将一滴恶魔血液滴给一名受伤的生物，给予他快速治疗1。此能力无法恢复因为银制武器、善良阵营武器或有着善良描述符的法术或是效果所造成的伤害。在法术持续时间内，目标在被侦测时如同一位邪恶生物，并且可以感知到魔法的邪恶，但本魔法没有长期效果。<\/p>"
+    "text_zh": "<p>你以魔鬼血液或诅咒邪水涂抹受伤生物，使其获得1快速治疗。<\/p><p>这种能力无法治疗银武器、善良武器或描述符带有善良的法术和效果造成的伤害。<\/p><p>在法术持续时间内，相关的侦测法术将会把目标视为邪恶生物，并发现该魔法的邪恶力量，不过这并不会对目标带来任何的长期效果。<\/p>"
 }

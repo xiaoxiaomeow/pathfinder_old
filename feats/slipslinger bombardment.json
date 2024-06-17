@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Weapon Master's Handbook pg. 13"],
     "text": "You can sling a rain of splash weapons at your enemies.",
-    "prerequisites": "Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait<sup>ARG<\/sup>.",
+    "prerequisites": "Quick Draw, Slipslinger Grenadier, Slipslinger Style, Throw Anything, Weapon Focus (sling) or weapon training (thrown) class feature, warslinger racial trait.",
     "benefit": "You can use a sling to hurl alchemical splash weapons as ammunition with Slipslinger Grenadier during an attack action or a full-attack action, loading your sling with such weapons as a free action.",
     "special": "This feat can’t be used with alchemists’ bombs.",
     "prerequisiteKeys":     [
@@ -14,5 +14,9 @@
         "slipslinger style",
         "throw anything",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "半身人轰击手",
+    "prerequisites_zh": "即时备战，半身人投弹兵，半身人投石术，随手投掷，武器专攻（投石索）或武器训练（投掷类）职业能力，战争投石者种族特性。",
+    "benefit_zh": "在使用半身人投弹兵专长时，你能在攻击动作（attack action）或全力攻击动作（full-attack action）中，将炼金溅射武器（alchemical splash weapon）当做投石索的弹药一般使用，并且能够以自由动作进行装填。",
+    "special_zh": "炼金术士的炸弹（alchemists’ bombs）不适用于该专长。"
 }

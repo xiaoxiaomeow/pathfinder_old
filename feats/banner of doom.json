@@ -6,5 +6,9 @@
     "source": ["Blood of Fiends pg. 24"],
     "text": "The mere sight of your fiendish banner is enough to send ripples of fear through your enemies.",
     "prerequisites": "Base attack bonus +8, banner class feature, tiefling.",
-    "benefit": "As long your banner is clearly visible, all enemies within 60 feet take a –2 penalty on saving throws against fear. This penalty does not stack with other effects that provide enemies with penalties on saving throws against fear."
+    "benefit": "As long your banner is clearly visible, all enemies within 60 feet take a –2 penalty on saving throws against fear. This penalty does not stack with other effects that provide enemies with penalties on saving throws against fear.",
+    "name_zh": "毁灭之旗",
+    "text_zh": "仅仅看到你的炼狱大旗，就足够使你的敌人之间泛起恐惧的涟漪。",
+    "prerequisites_zh": "BAB+8，旗帜职业能力，魔裔。",
+    "benefit_zh": "只要你的旗帜能够被清楚看到，所有60尺范围内的敌人在对抗恐惧时的豁免检定受到-2减值。该减值不与其他使敌人对抗恐惧的豁免受到惩罚的效果叠加。"
 }

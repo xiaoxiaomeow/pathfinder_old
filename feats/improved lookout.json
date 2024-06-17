@@ -4,6 +4,11 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Improved%20Lookout",
     "source": ["Dirty Tactics Toolbox pg. 13"],
     "text": "You and your allies alert each other to surprise attacks.",
-    "prerequisites": "Lookout<sup>APG<\/sup>.",
-    "benefit": "Whenever you are adjacent to an ally who also has the Lookout teamwork feat, when either of you first takes an action, you both lose the flat-footed condition."
+    "prerequisites": "Lookout.",
+    "benefit": "Whenever you are adjacent to an ally who also has the Lookout teamwork feat, when either of you first takes an action, you both lose the flat-footed condition.",
+    "prerequisiteKeys": ["lookout"],
+    "name_zh": "精通警备",
+    "text_zh": "你和盟友背靠背警戒任何可能的偷袭。",
+    "prerequisites_zh": "警备APG。",
+    "benefit_zh": "每当你邻接一个同样拥有警备团队专长的盟友时，无论你们哪一方可以在突袭轮行动，你们双方都可以脱离措手不及状态。"
 }

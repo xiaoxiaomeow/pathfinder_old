@@ -5,5 +5,8 @@
     "source": ["Martial Arts Handbook pg. 26"],
     "text": "At the moment of your victory, you can help your foe to see as you do.",
     "prerequisites": "Base attack bonus +6 or monk level 6th.",
-    "benefit": "When your melee attack would reduce an opponent to 0 or fewer hit points or render the opponent unconscious, you can elect to forgo this damage and instead attempt a Diplomacy check to influence the target’s attitude. The DC of this check is equal to 20 + the creature’s Hit Dice + the creature’s Charisma modifier. You gain a bonus equal to half the damage you would have dealt and can use your base attack bonus instead of your ranks in Diplomacy. Unlike with a normal Diplomacy check, you can increase the target’s attitude toward you by more than two steps. You can use the benefits of this feat only against enemies who attacked you and whom you did not attack or otherwise provoke first."
+    "benefit": "When your melee attack would reduce an opponent to 0 or fewer hit points or render the opponent unconscious, you can elect to forgo this damage and instead attempt a Diplomacy check to influence the target’s attitude. The DC of this check is equal to 20 + the creature’s Hit Dice + the creature’s Charisma modifier. You gain a bonus equal to half the damage you would have dealt and can use your base attack bonus instead of your ranks in Diplomacy. Unlike with a normal Diplomacy check, you can increase the target’s attitude toward you by more than two steps. You can use the benefits of this feat only against enemies who attacked you and whom you did not attack or otherwise provoke first.",
+    "name_zh": "回心转意",
+    "text_zh": "在胜利的时刻，你能帮助对手理解你的视角。",
+    "benefit_zh": "当你的近战攻击会使对手的生命值降至0或更低，或使对手失去知觉时，你可以选择放弃这次伤害，而是尝试交涉检定来影响目标的态度。<\/p><p>该检定的DC等于20+该生物的HD+该生物的魅力调整值。你获得相当于你这次攻击将造成的伤害的一半的加值，并且可以使用你的基本攻击加值替代你的交涉技能等级。与普通的交涉检定不同，你可以一次将目标对你的态度提高两阶以上。你只能对那些向你发动攻击，而非你首先攻击或挑起战斗的敌人使用该专长。"
 }

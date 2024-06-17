@@ -10,5 +10,9 @@
     "text": "Your attacks are calculated to draw the most blood possible. With every swing, you open persistent, vicious wounds that drain the life from your enemies.",
     "prerequisites": "Weapon Focus with slashing weapon.",
     "benefit": "When you deal damage with a melee attack with a slashing weapon to an opponent you have already damaged this round, you can also deal 1 point of bleed damage that lasts for 2 rounds. This bleed damage stacks with itself, but only if dealt in the same round.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "千斩",
+    "text_zh": "你的攻击只为攫取尽可能多的血液。每一次挥砍，你都会打开永久的严重创口，耗尽敌人的生命。",
+    "prerequisites_zh": "对挥砍武器拥有武器专攻专长。",
+    "benefit_zh": "当你在一次近战攻击中用挥砍武器对你本轮已经伤害过的对手造成伤害时，你还可以造成1点流血伤害，持续2轮。这种流血伤害会与自身叠加，但前提是在同一轮造成的。"
 }

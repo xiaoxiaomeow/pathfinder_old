@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "爆发脱擒",
+    "text_zh": "当你打破擒抱时，你可以直接将擒抱者爆飞开外。",
+    "prerequisites_zh": "敏捷13，力量13，精通擒抱，精通徒手打击。",
+    "benefit_zh": "当你成功通过战技检定脱离擒抱时，你可以选择将任何参与擒抱的不大于你体型1级的擒抱者投飞出去。被投飞出去的擒抱者将被直线扔出去5尺，并受到等同于你徒手攻击伤害的瘀伤。"
 }

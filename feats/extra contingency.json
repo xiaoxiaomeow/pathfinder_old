@@ -6,5 +6,10 @@
     "text": "You can manage multiple <i>contingency<\/i> effects.",
     "prerequisites": "Character level 19th.",
     "benefit": "You can have two <i>contingency<\/i> effects active at one time. If they would both trigger on the same round, one (chosen randomly) does not trigger until 1 round later. ",
-    "normal": "You can benefit from only a single <i>contingency<\/i> active at a time."
+    "normal": "You can benefit from only a single <i>contingency<\/i> active at a time.",
+    "name_zh": "双重触发术",
+    "text_zh": "你能够管理多个触发术效果。",
+    "prerequisites_zh": "角色等级19级。",
+    "benefit_zh": "你能够在同一时间激活2个触发术（Contingency）效果。若它们两个全部将会在同一轮内被触发，则其中1个（随机选择）暂时不会被触发，直至1轮之后才会触发。",
+    "normal_zh": "同一时间你只能获得单一一个已激活的触发术带来的好处。"
 }

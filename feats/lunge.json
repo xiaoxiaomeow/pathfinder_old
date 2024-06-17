@@ -15,6 +15,10 @@
     "mythicBenefit": "Whenever you use Lunge and hit a creature with the melee attack, you no longer take a –2 penalty to AC against that creature. You can expend one use of mythic power when you use Lunge to negate the –2 penalty to AC whether you hit or miss, and gain a +2 bonus on attacks of opportunity you make while Lunge is in effect.",
     "name_zh": "突刺",
     "text_zh": "你可以攻击正常触及之外的敌人。",
-    "prerequisites_zh": "基本攻击加值+6。",
-    "benefit_zh": "你可以令近战攻击距离增加5尺直到你的回合结束，但直到你的下轮行动时AC受-2减值。你必须在做出任何攻击前宣布使用此能力。"
+    "prerequisites_zh": "BAB+6。",
+    "benefit_zh": "你可以令近战攻击距离增加5尺直到你的回合结束，但直到你的下轮行动时AC受-2减值。你必须在做出任何攻击前宣布使用此能力。",
+    "mythicText_zh": "突刺的攻击能够帮助你抵御那些被你命中的敌人。",
+    "mythicPrerequisites_zh": "突刺",
+    "mythicBenefit_zh": "每当你使用突刺专长并且以近战攻击命中1名生物时，在对抗该名生物时你的AC不会受到-2减值。当你使用突刺专长时，你能够花费1次神话之力，无论你是否命中目标，AC都不会受到-2减值，而且只要突刺专长还在生效，你所做出的借机攻击就会获得+2加值。",
+    "staminaText_zh": "当你使用这个专长时，你可以消耗2点耐力来避免在使用这个专长时受到AC上的-2减值。"
 }

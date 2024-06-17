@@ -12,12 +12,16 @@
     "staminaText": "You can spend 5 stamina points to declare the use of Elemental Fist after making a successful attack roll.",
     "mythicSource": "Mythic Adventures pg. 64",
     "mythicText": "Your ability to channel elemental power through your unarmed attacks is ferociously potent.",
-    "mythicPrerequisites": "Elemental Fist<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Elemental Fist.",
     "mythicBenefit": "The extra energy damage dealt by Elemental Fist increases to 1d8 points, and you gain additional uses of Elemental Fist per day equal to your tier. You can expend one use of mythic power as an immediate action to add the extra damage from your Elemental Fist to all of the unarmed strikes you make until the beginning of your next turn. This counts as only one use of Elemental Fist, regardless of the number of attacks that you make in this fashion.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "元素之拳",
     "text_zh": "你将元素能量赋到打击之上。",
-    "prerequisites_zh": "体质13，感知13，精通徒手打击，基本攻击加值+8。",
+    "prerequisites_zh": "体质13，感知13，精通徒手打击，BAB+8。",
     "benefit_zh": "当你使用元素之拳时需要从后述能量类型中选择一种：强酸，寒冷，闪电或火焰。若成功命中，此次攻击造成正常伤害外加1d6点所选元素类型的伤害。你必须在进行攻击检定前声明使用这个专长（因此失败的攻击检定会浪费这次机会）。你每拥有4个等级，每日可以尝试元素之拳的次数就增加1次（见特殊），每轮尝试的次数不能超过1次。",
-    "special_zh": "修验僧（Monk of the Four Winds, APG武僧变体）在1级获得“元素之拳”作为奖励专长，即使他不满足先决条件。武僧每日可以尝试使用元素之拳的次数等同于他的武僧等级，额外加上每4个非武僧职业等级1次。"
+    "special_zh": "修验僧（Monk of the Four Winds, APG武僧变体）在1级获得“元素之拳”作为奖励专长，即使他不满足先决条件。武僧每日可以尝试使用元素之拳的次数等同于他的武僧等级，额外加上每4个非武僧职业等级1次。",
+    "mythicText_zh": "凝聚元素之力能使你的双拳更为有力。",
+    "mythicPrerequisites_zh": "元素之拳",
+    "mythicBenefit_zh": "元素之拳专长所增加的额外能量伤害增加至1d8点，而且每日你能够使用元素之拳专长的次数会额外增加，数量等同于你的阶层。你能够以直觉动作花费1次神话之力，来将元素之拳带来的额外伤害加到你所进行的所有徒手打击（unarmed strikes）上，直至你的下一回合开始为止。无论你以此方式进行多少次攻击，这只被算作使用1次元素之拳。",
+    "staminaText_zh": "花费5点耐力，你可以在攻击命中后选择使用元素之拳。"
 }

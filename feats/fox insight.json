@@ -7,5 +7,9 @@
     "text": "Your foxlike movements protect you from your opponents’ attempts to manipulate you.",
     "prerequisites": "Int 13, Fox Style.",
     "benefit": "While using Fox Style, you can use your base attack bonus in place of your ranks in Sense Motive to determine your Sense Motive skill bonus when foes attempt to feint against you, and creatures attempting to demoralize you don’t gain a bonus for being bigger than you (though they still take a penalty for being smaller). If your Intelligence score is at least 19, the DC to demoralize or feint you increases by 4.",
-    "prerequisiteKeys": ["fox style"]
+    "prerequisiteKeys": ["fox style"],
+    "name_zh": "狡狐之智",
+    "text_zh": "你那如同狐狸一般的动作可以防止敌人操弄你。",
+    "prerequisites_zh": "智力 13，狡狐式。",
+    "benefit_zh": "当你使用狡狐式（Fox Style），且有敌人尝试对你使用虚招时，你可以使用基本攻击加值来替代察言观色检定中投入的技能点数，并以此来判断你的察言观色技能加值。此外尝试对你进行挫败士气的生物不会因为体型比你大而获得加值（不过体型比你小的依旧会承受减值）。如果你的智力至少达到了19，那么对你进行虚招或者挫败士气的DC增加4点。"
 }

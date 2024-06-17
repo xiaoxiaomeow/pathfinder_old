@@ -11,10 +11,14 @@
     "staminaText": "When making an attack with a thrown weapon, you can spend 2 stamina points to reduce your penalty on ranged attack rolls due to range by an additional 4.",
     "mythicSource": "Mythic Adventures pg. 63",
     "mythicText": "There’s virtually no limit to your powerful throwing arm.",
-    "mythicPrerequisites": "Str 17, Distance Thrower<sup>UC<\/sup>.",
+    "mythicPrerequisites": "Str 17, Distance Thrower.",
     "mythicBenefit": "Thrown weapons wielded by you have twice their normal range.",
     "name_zh": "长距投掷",
     "text_zh": "你能将投掷武器扔得更远。",
     "prerequisites_zh": "力量13。",
-    "benefit_zh": "当你使用投掷武器时，你超过射程的攻击检定罚值下降2点。"
+    "benefit_zh": "当你使用投掷武器时，你超过射程的攻击检定罚值下降2点。",
+    "mythicText_zh": "对于你那强有力的手臂来说，投掷是没有极限的。",
+    "mythicPrerequisites_zh": "力量17，长距投掷",
+    "mythicBenefit_zh": "对于被你持用的投掷武器来说，它们的射程为正常的两倍。",
+    "staminaText_zh": "使用投掷武器时，如果花费2点耐力，可以将超过射程的攻击检定惩罚再减4点。"
 }

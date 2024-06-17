@@ -8,6 +8,11 @@
     ],
     "source": ["Villain Codex pg. 56"],
     "text": "You dodge ranged attacks with greater proficiency than most.",
-    "prerequisites": "Exotic Weapon Proficiency (firearms)<sup>UC<\/sup>, gunslinger level 3rd, gunslinger’s dodge deed.",
-    "benefit": "When you use the gunslinger’s dodge deed to move, the movement granted by that deed does not provoke attacks of opportunity, and you gain a +4 dodge bonus to your Armor Class."
+    "prerequisites": "Exotic Weapon Proficiency (firearms), gunslinger level 3rd, gunslinger’s dodge deed.",
+    "benefit": "When you use the gunslinger’s dodge deed to move, the movement granted by that deed does not provoke attacks of opportunity, and you gain a +4 dodge bonus to your Armor Class.",
+    "prerequisiteKeys": ["exotic weapon proficiency"],
+    "name_zh": "火枪手闪避",
+    "text_zh": "你比大多数人更善于躲避远程攻击。",
+    "prerequisites_zh": "异种武器擅长（火器），枪手3级，枪手闪避炫技。",
+    "benefit_zh": "当你使用枪手闪避炫技进行移动时，该炫技提供的移动不会引发借机攻击，且你在AC上获得+4闪避加值。"
 }

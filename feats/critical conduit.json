@@ -5,5 +5,9 @@
     "source": ["Animal Archive pg. 18"],
     "text": "You are deadly when delivering your master’s magic.",
     "prerequisites": "Deliver touch spells ability, familiar.",
-    "benefit": "When delivering a touch spell for your master, the critical threat range of your touch attack is doubled. This feat does not stack with Improved Critical or other effects that increase critical threat range."
+    "benefit": "When delivering a touch spell for your master, the critical threat range of your touch attack is doubled. This feat does not stack with Improved Critical or other effects that increase critical threat range.",
+    "name_zh": "重击导魔",
+    "text_zh": "在传递主人的魔法时，你十分致命。",
+    "prerequisites_zh": "传递接触法术（Deliver touch spells ability），魔宠。",
+    "benefit_zh": "当你为了主人传递接触法术时，你的接触攻击的重击威胁范围加倍。该专长不会与精通重击（Improved Critical）或者其他提高重击威胁范围的效果叠加。"
 }

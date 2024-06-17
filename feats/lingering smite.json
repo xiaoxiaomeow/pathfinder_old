@@ -6,5 +6,9 @@
     "text": "You can channel your divine energy through a melee weapon to cause lingering damage to undead creatures.",
     "prerequisites": "Channel Smite, channel energy 3d6.",
     "benefit": "When you use Channel Smite against a living creature (if you channel negative energy) or an undead creature (if you channel positive energy), you can damage your target slowly over a longer duration, rather than inflicting the normal effects of Channel Smite. Instead of the normal effects of successfully hitting with Channel Smite, you may choose the following effect. Starting on your target’s next turn, it takes 1d8 points of damage each round at the beginning of its turn. This effect lasts for a number of rounds equal to the number of damage dice you use to roll your channel energy ability. Your target can attempt a Will save each round, as if saving against your channeled energy, to negate the damage dealt to it by this feat on that round. If your initial attack misses, the use of channel energy is still expended with no effect. Multiple uses of Lingering Smite (including those from multiple sources) do not stack, and instead reset the duration of the effect.",
-    "prerequisiteKeys": ["channel smite"]
+    "prerequisiteKeys": ["channel smite"],
+    "name_zh": "残悔斩",
+    "text_zh": "你可以引导正能量在武器上给不死生物造成一次延时伤害。",
+    "prerequisites_zh": "引导打击、引导能量3d6。",
+    "benefit_zh": "当你使用引导打击专长对抗活物（引导负能量）或不死（引导正能量）时，你可以在命中后延时一点再造成伤害，同时延时的还有引导打击的其它效果。取代引导打击的普通效果，你可以选择下面的效果。从目标的下一回合开始，它的每回合开始时都会受到1d8点伤害，持续轮数等于你的引导股数。目标可以每轮尝试一次意志豁免检定，成功则该轮不会受到伤害。若残悔斩的攻击未命中，引导次数如此消耗。多次命中的残悔斩不会叠加，只会刷新持续时间。"
 }

@@ -6,5 +6,9 @@
     "source": ["Weapon Master's Handbook pg. 26"],
     "text": "You can gain influence over the minds of others using enchantment magic items.",
     "prerequisites": "Use Magic Device 3 ranks, base Fortitude save bonus +6.",
-    "benefit": "You can cast <i>suggestion<\/i> as per the spell by using an item that has an enchantment spell of 3rd level or higher in its construction requirements. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12."
+    "benefit": "You can cast <i>suggestion<\/i> as per the spell by using an item that has an enchantment spell of 3rd level or higher in its construction requirements. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.",
+    "name_zh": "惑控掌握",
+    "text_zh": "你引导附魔系物品的魔法力量，干扰生物的心智。",
+    "prerequisites_zh": "使用魔法装置技能3级，基础强韧豁免加值+6。",
+    "benefit_zh": "你可以引导一件制造时需求使用附魔系法术，且该法术至少为三环的魔法物品中的能量，施放一次法术暗示术（Suggestion）。你每天可以使用本类法术能力一次，在基础强韧豁免加值达到+9和+12时可以获得额外一次每日使用次数。"
 }

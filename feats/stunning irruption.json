@@ -7,5 +7,9 @@
     "text": "When you smash your way into a room, you gain more than just the element of surprise.",
     "prerequisites": "Str 15, Power Attack, base attack bonus +5.",
     "benefit": "Before starting combat, you can attempt to break through a door, window, or wall to enter a room. If you succeed, the violence of your arrival is so great that all characters within 20 feet of your entry point must succeed at a Fortitude saving throw (DC = 10 + your base attack bonus) or be stunned instead of acting in the surprise round (if there is one) plus 1 round thereafter. Characters who succeed at this save are instead shaken for 1d4 rounds.",
-    "prerequisiteKeys": ["power attack"]
+    "prerequisiteKeys": ["power attack"],
+    "name_zh": "惊骇闯入",
+    "text_zh": "当你闯入房间时，你带来的并不仅仅是惊异。",
+    "prerequisites_zh": "力量15，猛力攻击，BAB+5。",
+    "benefit_zh": "你可在战斗前尝试打碎门窗或墙壁闯入房间。若你成功，展现得淋漓尽致的暴力迫使闯入点20尺内的所有角色必须通过强韧豁免（DC＝10+你的BAB）否则会在突袭轮（若有）和第一轮中震慑（Stunned）。豁免成功的角色战栗（Shaken）1D4轮。"
 }

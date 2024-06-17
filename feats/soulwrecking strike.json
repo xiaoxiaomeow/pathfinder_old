@@ -7,5 +7,9 @@
     "text": "Your strikes are so powerful that they harm both your target and any force possessing it.",
     "prerequisites": "Vital Strike, base attack bonus +6.",
     "benefit": "Whenever you use the attack action against a creature that is possessed, both the creature and any creature possessing it are damaged by your attack (the amount of damage includes your weapon’s damage dice, your Strength modifier, weapon special abilities, and so on). The possessing creature can attempt a Will save (DC = 10 + 1/2 your base attack bonus + your Charisma modifier) to halve the damage. Damage reduction applies normally against this attack, but incorporeal creatures take full damage from this attack as if they were corporeal.",
-    "prerequisiteKeys": ["vital strike"]
+    "prerequisiteKeys": ["vital strike"],
+    "name_zh": "灵魂打击",
+    "text_zh": "你的攻击如此强大，甚至可以伤害到你的目标和附身它身体的灵魂。",
+    "prerequisites_zh": "要害打击，BAB+6。",
+    "benefit_zh": "每当你对一个被附身的生物使用攻击动作时，生物和被附身的生物都会受到你的所有攻击伤害（你的武器伤害骰，力量修正，武器特殊伤害等等）。被附身的生物可以尝试进行意志豁免（DC=10+1/2你的BAB+你的魅力修正）将伤害减半。被附身生物的伤害减免适用于这种攻击，但是附身于此身体的虚体生物，会从这种攻击中受到所有的伤害，就好像它们是有形的。"
 }

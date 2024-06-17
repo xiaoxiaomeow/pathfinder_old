@@ -6,5 +6,9 @@
     "text": "You know how to adjust the amount of time required for a poison to take effect.",
     "prerequisites": "Craft (alchemy) 11 ranks, Toxicological Timing.",
     "benefit": "Whenever you craft a poison with the Craft (alchemy) skill, you can add or subtract up to 1 day from its onset time (to a minimum onset period of 1 round).",
-    "prerequisiteKeys": ["toxicological timing"]
+    "prerequisiteKeys": ["toxicological timing"],
+    "name_zh": "精通毒性时间",
+    "text_zh": "你知道如何调整毒药生效所需的时间。",
+    "prerequisites_zh": "工艺（炼金术）11级，毒性时间。",
+    "benefit_zh": "每当你使用工艺（炼金术）技能制造毒药时，你可以增加或减少发作时间最多1天（最小发作时间为1轮）。"
 }

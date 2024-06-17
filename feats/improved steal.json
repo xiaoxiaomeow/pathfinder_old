@@ -9,15 +9,19 @@
     "benefit": "You do not provoke an attack of opportunity when performing a steal combat maneuver. In addition, you receive a +2 bonus on checks made to steal an item from a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to steal an item from you.",
     "normal": "You provoke an attack of opportunity when performing a steal combat maneuver.",
     "staminaSource": "Pathfinder Unchained pg. 124",
-    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a steal<sup>APG<\/sup> combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that steal attempt increases by that number.",
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a steal combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that steal attempt increases by that number.",
     "mythicSource": "Mythic Adventures pg. 67",
     "mythicText": "Your light fingers can lift even the most closely held item off an enemy.",
-    "mythicPrerequisites": "Improved Steal<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Improved Steal.",
     "mythicBenefit": "You gain a bonus equal to half your tier on checks to attempt a steal combat maneuver, and to your CMD when an opponent attempts a steal combat maneuver on you. These bonuses stack with those granted by Improved Steal.<br><br> Furthermore, you can make an attack of opportunity against any creature that attempts a steal maneuver against, you unless it also has this feat.",
     "prerequisiteKeys": ["combat expertise"],
     "name_zh": "精通盗取",
     "text_zh": "你懂得从敌人那里抢夺物品的诀窍。",
     "prerequisites_zh": "智力13，寓守于攻。",
     "benefit_zh": "当你使用盗取战技时不会引起借机攻击。此外，你所实行的盗取战技检定获得+2加值。你还在对抗针对自身的盗取战技时，CMD获得+2加值。",
-    "normal_zh": "当你使用盗取战技时会引起借机攻击。"
+    "normal_zh": "当你使用盗取战技时会引起借机攻击。",
+    "mythicText_zh": "即便敌人将物品藏得再严实，你那轻巧的手指也能够轻松顺走这些宝贝。",
+    "mythicPrerequisites_zh": "精通盗取",
+    "mythicBenefit_zh": "你的盗取战技检定获得加值，数值等同于你的阶层的一半，当敌人对你进行盗取战技时，你的CMD也获得此加值。这些加值与非神话版的精通盗取专长所赋予的加值叠加。<\/p><p>除此之外，你还能对任何尝试对你进行盗取战技的敌人进行借机攻击，除非对方也拥有该专长。",
+    "staminaText_zh": "即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。当你作为盗取APG战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗盗取尝试的CMD提升等同于你消耗的耐力点的点数。"
 }

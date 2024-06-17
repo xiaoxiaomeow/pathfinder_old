@@ -6,12 +6,16 @@
     "source": ["Weapon Master's Handbook pg. 17"],
     "text": "You can deflect incoming attacks.",
     "prerequisites": "Combat Expertise, Improved Feint, Swordplay Style, Swordplay Upset, Weapon Focus with the chosen weapon, base attack bonus +7.",
-    "benefit": "While using Swordplay Style, when you make one or more melee attacks, you can forgo a single melee attack to prepare an action to disrupt an opponent’s attack. This functions as a swashbuckler’s opportune parry and riposte<sup>ACG<\/sup> deed, except that if your result is greater than your opponent’s, you gain a +4 shield bonus to your Armor Class against attacks made by your opponent until the start of your next turn instead of preventing the hit, and you cannot attempt to riposte. If you have the opportune parry and riposte deed, you gain this Armor Class bonus anytime you successfully parry an opponent’s attack.",
+    "benefit": "While using Swordplay Style, when you make one or more melee attacks, you can forgo a single melee attack to prepare an action to disrupt an opponent’s attack. This functions as a swashbuckler’s opportune parry and riposte deed, except that if your result is greater than your opponent’s, you gain a +4 shield bonus to your Armor Class against attacks made by your opponent until the start of your next turn instead of preventing the hit, and you cannot attempt to riposte. If you have the opportune parry and riposte deed, you gain this Armor Class bonus anytime you successfully parry an opponent’s attack.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved feint",
         "swordplay style",
         "swordplay upset",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "刺剑格",
+    "text_zh": "你能够使用长剑的利刃偏转敌人的攻势。",
+    "prerequisites_zh": "寓守于攻，刺剑式，刺剑闪，对所选武器拥有武器专攻专长，精通虚招（Improved Feint），BAB+5。",
+    "benefit_zh": "当开启刺剑流架势时，每当你发动一次或多次攻击时，你都可以自愿保留一次攻击准备下这个动作来偏斜敌人的攻击。这个专长的效果与游荡剑客的适时格挡反击（Opportune Parry and Riposte）炫技机制相同，但你在发动格挡时的攻击检定如果高于对方的攻击检定，你不会因此而直接忽略这次攻击，而是只能在对抗这个敌人攻击时在防御等级上获得+4盾牌加值，持续到你的下一回合开始。并且你无法做到反击。如果你确实拥有适时格挡反击炫技，那么每当你使用此炫技成功格挡敌人的攻击时，你将获得上述防御等级的盾牌加值的好处。"
 }

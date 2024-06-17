@@ -11,5 +11,9 @@
         "bulette charge style",
         "improved overrun",
         "power attack"
-    ]
+    ],
+    "name_zh": "鲨蜥·扑",
+    "text_zh": "跃入空中的你能够强行挤过多个敌人。",
+    "prerequisites_zh": "力量15，鲨蜥流，精通闯越，猛力攻击，擅长重甲。",
+    "benefit_zh": "开启鲨蜥流后，在跳跃的特技检定上获得等同于你力量调整值的加值。额外的，在你进行闯越战技时，你可以闯越多个目标，但该轮内的每个成功的闯越检定均会累积-2减值(you take a cumulative –2 penalty on each successive overrun attempt in the same round)。如果一次闯越失败，直到你的下一轮你都不能进行进一步尝试。"
 }

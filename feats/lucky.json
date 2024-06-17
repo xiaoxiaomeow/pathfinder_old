@@ -4,7 +4,12 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Lucky",
     "source": ["Blood of the Beast pg. 6"],
     "text": "Your luck-based abilities seem limitless.",
-    "prerequisites": "Black Cat<sup><sup>ARG<\/sup><\/sup> or Lucky Halfling<sup><sup>ARG<\/sup><\/sup>; must have a racial trait with “luck” in its name.",
+    "prerequisites": "Black Cat<sup><\/sup> or Lucky Halfling<sup><\/sup>; must have a racial trait with “luck” in its name.",
     "benefit": "Choose one of the following feats: Black Cat, Lucky Halfling, or any feat that lists one of these feats as a prerequisite and is usable once per day. Add two to the number of times per day that you can use the chosen feat. You must have the chosen feat in order to select it with Lucky.",
-    "special": "This feat can be selected multiple times. You cannot add more than six uses to a single feat in this manner. A character with the Defiant Luck<sup><sup>ARG<\/sup><\/sup> feat can ignore this feat’s prerequisites, but she must choose Defiant Luck or a feat that lists Defiant Luck as a prerequisite and is usable once per day."
+    "special": "This feat can be selected multiple times. You cannot add more than six uses to a single feat in this manner. A character with the Defiant Luck<sup><\/sup> feat can ignore this feat’s prerequisites, but she must choose Defiant Luck or a feat that lists Defiant Luck as a prerequisite and is usable once per day.",
+    "name_zh": "幸运",
+    "text_zh": "你的基于幸运的能力看起来没有限制。",
+    "prerequisites_zh": "黑猫（Black Cat）或幸运半身人（Lucky Halfling，ARG）；必须拥有名字中含有“幸运”的种族特性。",
+    "benefit_zh": "从下列专长中选择一个：黑猫，幸运半身人或其他任何以这两个专长为先决条件的并且只能每天使用1次的专长。你所选择的专长，每日使用次数+2。你必须拥有你选择的专长来使幸运对其生效。",
+    "special_zh": "这个专长可以被多次选择。你不可以用这个方式让一个专长的每日使用次数超过6次。一个拥有专长挑战机运（Defiant Luck）的角色可以无视这个专长的先决条件，但是她必须选择挑战机运或者以挑战机运为先决条件并且每日使用1次的专长。"
 }

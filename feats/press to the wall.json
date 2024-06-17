@@ -7,5 +7,9 @@
     "text": "You gain an advantage when your opponent can’t easily retreat.",
     "prerequisites": "Step Up, base attack bonus +3.",
     "benefit": "If you are the only character threatening an opponent, you can treat solid, immovable objects that occupy a square (such as columns, tree trunks, and walls) and are adjacent to that opponent as allies threatening the opponent when determining whether you flank the foe.",
-    "prerequisiteKeys": ["step up"]
+    "prerequisiteKeys": ["step up"],
+    "name_zh": "墙角战法",
+    "text_zh": "当你的目标没法轻易逃离时，你更加牛逼。",
+    "prerequisites_zh": "快步跟进，BAB+3。",
+    "benefit_zh": "若你是唯一一个威胁目标的单位，你可以在决定是否夹击目标时，将邻接目标的占据一个格子的固态不可移动物体（例如柱子、树干、墙）视为正威胁目标。"
 }

@@ -9,6 +9,10 @@
     "source": ["Blood of Shadows pg. 24"],
     "text": "You hold no fear of blindness, as your other senses improve without the distractions of sight.",
     "prerequisites": "Blind-Fight, Perception 5 ranks.",
-    "benefit": "While you are using this style, you gain a number of benefits whenever you are blinded or unable to see (including when you wear a blindfold or close your eyes). Under such circumstances, you do not take any penalties on Strength- or Dexterity-based skill checks due to blindness. In addition, you gain a +4 bonus on hearing- and smell-based Perception checks and gain the scent special ability with a range of 10 feet; if you already have scent, the range of your scent ability increases by 10 feet instead. Having this feat counts as having 10 ranks in Perception for the purpose of satisfying the prerequisites of the Improved Blind-Fight<sup>APG<\/sup> feat, as well as any feat that lists Improved Blind-Fight<sup>APG<\/sup> as a prerequisite.",
-    "prerequisiteKeys": ["blind-fight"]
+    "benefit": "While you are using this style, you gain a number of benefits whenever you are blinded or unable to see (including when you wear a blindfold or close your eyes). Under such circumstances, you do not take any penalties on Strength- or Dexterity-based skill checks due to blindness. In addition, you gain a +4 bonus on hearing- and smell-based Perception checks and gain the scent special ability with a range of 10 feet; if you already have scent, the range of your scent ability increases by 10 feet instead. Having this feat counts as having 10 ranks in Perception for the purpose of satisfying the prerequisites of the Improved Blind-Fight feat, as well as any feat that lists Improved Blind-Fight as a prerequisite.",
+    "prerequisiteKeys": ["blind-fight"],
+    "name_zh": "盲刃流",
+    "text_zh": "你无惧于目盲，盖因失去视觉的干扰使你其他感官变得尤为敏锐。",
+    "prerequisites_zh": "盲斗，察觉5级。",
+    "benefit_zh": "当你使用该流派时，你可以在目盲或不可视物（包括你戴上眼罩或闭眼）时获得一些增益效果。在此类情况下，你不会因为失明而在基于力量或敏捷的技能检定上承受减值。此外，你在基于听觉和嗅觉的察觉检定上获得+4加值，获得10尺范围的灵敏嗅觉Scent特殊能力；如果你已经获得灵敏嗅觉，则灵敏嗅觉范围增加10尺。在选择精通盲斗Improved Blind-FightAPG或基于精通盲斗为先决条件的专长时，拥有本专长视为满足察觉10级的先决条件。"
 }

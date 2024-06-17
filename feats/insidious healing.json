@@ -4,5 +4,8 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Insidious%20Healing",
     "source": ["Healer's Handbook pg. 8"],
     "text": "Your healing spells give you an advantage when you choose to affect those targets with other spells.",
-    "benefit": "Any creature that chooses not to attempt a saving throw against any healing spell you cast takes a –4 penalty on saving throws against other targeted spells you cast for 24 hours."
+    "benefit": "Any creature that chooses not to attempt a saving throw against any healing spell you cast takes a –4 penalty on saving throws against other targeted spells you cast for 24 hours.",
+    "name_zh": "阴险治疗",
+    "text_zh": "你在对接受过你治疗法术的生物施展其他法术时获得优势。",
+    "benefit_zh": "任何在接受过你任何治疗法术并且不选择豁免对抗的生物，会在接下来的24小时内在对你的其他目标型法术进行豁免时承受-4的惩罚。"
 }

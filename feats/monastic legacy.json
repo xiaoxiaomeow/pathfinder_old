@@ -11,11 +11,15 @@
     "staminaText": "At the start of your turn, you can spend 5 stamina points to use your full character level to determine your effective monk level for your unarmed strike damage. This increase lasts until the start of your next turn.",
     "mythicSource": "Mythic Adventures pg. 69",
     "mythicText": "Every new experience carries you another step further along your path to enlightenment.",
-    "mythicPrerequisites": "Monastic Legacy<sup>UC<\/sup>.",
+    "mythicPrerequisites": "Monastic Legacy.",
     "mythicBenefit": "Add half the levels you have in classes other than monk to your monk level to determine your effective monk level for your AC bonus. As a free action, you can expend one use of mythic power to add half your tier to your effective monk level to determine your base unarmed strike damage and AC bonus until the start of your next turn.",
     "prerequisiteKeys": ["improved unarmed strike"],
     "name_zh": "修道传承",
     "text_zh": "即使投身旁门，你也不曾荒废武学的修炼。",
     "prerequisites_zh": "【心如止水】职业特性，精通徒手打击。",
-    "benefit_zh": "在计算你的基础徒手打击伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。"
+    "benefit_zh": "在计算你的基础徒手打击伤害时，将你所有其他职业等级总和的一半计入你的武僧等级。这个专长加算的等级不会让你在获得其他武僧职业能力时获得好处。",
+    "mythicText_zh": "每一份全新的体验都会让你曾经遵循的修业之道更上一层楼。",
+    "mythicPrerequisites_zh": "修道传承",
+    "mythicBenefit_zh": "在确定武僧AC加值能力的有效武僧等级时，将你所有其他职业等级总和的一半计入你的武僧等级。以自由动作，你能够花费1次神话之力，以此将你的阶层的一半加到有效武僧等级上，来确定你的基本徒手打击伤害与AC加值，该效果持续至你的下一回合开始为止。",
+    "staminaText_zh": "在你回合开始时，你可以消耗5点耐力来使用你全部的等级来在决定你的徒手击打伤害时作为你的有效武僧等级。这种提升将会持续到你的下一轮开始。"
 }

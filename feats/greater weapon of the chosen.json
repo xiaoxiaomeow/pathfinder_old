@@ -8,7 +8,7 @@
     "prerequisites": "Improved Weapon of the Chosen, Weapon Focus with deity’s favored weapon, Weapon of the Chosen, worship and receive spells from a deity.",
     "benefit": "When you use your deity’s favored weapon to attempt a single attack with the attack action, you roll two dice for your attack roll and take the higher result. You do not need to use your Weapon of the Chosen feat to gain this feat’s benefit. As usual, the reroll does not apply to any confirmation rolls.",
     "staminaSource": "Pathfinder Unchained pg. 122",
-    "staminaText": "When making an attack as part of a full attack with the weapon designated by your Weapon of the Chosen<sup>ACG<\/sup> feat, you can spend 5 stamina points to gain the benefits of this feat on that attack.",
+    "staminaText": "When making an attack as part of a full attack with the weapon designated by your Weapon of the Chosen feat, you can spend 5 stamina points to gain the benefits of this feat on that attack.",
     "prerequisiteKeys":     [
         "improved weapon of the chosen",
         "weapon focus",
@@ -16,6 +16,7 @@
     ],
     "name_zh": "高等神选武器",
     "text_zh": "神祇之手亲自指引你用祂的武器进行战斗。",
-    "prerequisites_zh": "拥有神祇偏好武器的武器专攻专长，必须信仰一个神祇并从祂获得神术，精通神选武器，神选武器",
-    "benefit_zh": "每当你使用神祇的偏好武器以一个攻击动作发动一次单次攻击时，你可以进行两次攻击检定以选择较好的那个结果。你无需激活神选武器专长来获得这个效果。通常而言，这种多骰无法应用于重击确认骰。"
+    "prerequisites_zh": "拥有神祇偏好武器的武器专攻专长，必须信仰一个神祇并从祂获得神术，精通神选武器，神选武器。",
+    "benefit_zh": "每当你使用神祇的偏好武器以一个攻击动作发动一次单次攻击时，你可以进行两次攻击检定以选择较好的那个结果。你无需激活神选武器专长来获得这个效果。通常而言，这种多骰无法应用于重击确认骰。",
+    "staminaText_zh": "当你用神选武器ACG专长指定的武器做出全力攻击中的一次攻击时，你可以消耗5点耐力来在这次攻击上获得这个专长的好处。"
 }

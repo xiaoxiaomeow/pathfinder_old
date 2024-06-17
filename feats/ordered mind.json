@@ -9,5 +9,8 @@
     "text": "You can modify a variety of your spells to use as counterspells.",
     "prerequisites": "Caster level 7th, any lawful alignment.",
     "benefit": "The DC of your Spellcraft check to identify an opponent’s spell is equal to 20 + the spell level of the opponent’s spell, but for your counterspell you can cast any spell from the same school of your foe’s spell. The level of the spell used to counterspell must be equal to or higher than the level of your foe’s spell.",
-    "normal": "The Spellcraft DC to identify an opponent’s spell is equal to 15 + the spell’s level. Generally, a spell can only counter itself."
+    "normal": "The Spellcraft DC to identify an opponent’s spell is equal to 15 + the spell’s level. Generally, a spell can only counter itself.",
+    "name_zh": "秩序之心",
+    "prerequisites_zh": "施法者等级7级，任意守序阵营。",
+    "benefit_zh": "你可以将你准备好的法术调整为适合反制法术的形式。但是，你必须通过DC=（20+对手施放的法术环数）而不是（15+法术环数的辨识法术检定）才能以此法进行反制，不过，你可以以任何和对手施放法术同一学派的法术来进行反制。你用来反制的法术环数必须等于或大于对方施放的法术环数。"
 }

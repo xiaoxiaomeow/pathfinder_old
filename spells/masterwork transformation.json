@@ -28,12 +28,12 @@
     "spellResistance": "no",
     "text": "You convert a non-masterwork item into its masterwork equivalent. A normal sword becomes a masterwork sword, a suit of leather armor becomes a masterwork suit of leather armor, a set of thieves’ tools becomes masterwork thieves’ tools, and so on. If the target object has no masterwork equivalent, the spell has no effect. You can affect 50 pieces of ammunition as if they were one weapon. You decide if the object’s appearance changes to reflect this improved quality.<br><br>The material component for the spell is magical reagents worth the cost difference between a normal item and the equivalent masterwork item (typically 300 gp for a weapon, 150 gp for armor, or 50 gp for a tool). If an object has multiple masterwork options (such as a double weapon, or a spiked shield that could be made masterwork as a weapon or armor), you choose one option of the object to affect (though you can cast the spell again to affect another option).",
     "name_zh": "鬼斧神工",
-    "castingTime_zh": "1小声",
+    "castingTime_zh": "1小时",
     "components_zh": "语言, 姿势, 材料 (见下文)",
     "range_zh": "接触",
-    "target_zh": "一件武器，一套盔甲，一个盾牌、工具，或乐器持续时间            立即",
+    "target_zh": "一件武器，一套盔甲，一个盾牌、工具，或乐器",
     "duration_zh": "立即",
     "savingThrow_zh": "无",
-    "spellResistance_zh": "不可",
+    "spellResistance_zh": "否",
     "text_zh": "<p>你把一件非精制品物品转换成它的精制品版本。一把普通的剑将变成精制品剑，一件普通的皮甲将变成精制品皮甲，一套盗贼工具将变成精致盗贼工具，以此类推。<\/p><p>如果目标物品没有精制品版本，该法术无效。你可以影响50件弹药就好像它们是一个整体。你能决定一些外观变化以显示目标物体品质的提高。<\/p><p>这个法术的材料费用是一个普通物体与它的精制品版本的差价 (通常一件武器需要300gp，一件盔甲需要150gp，一件工具需要50gp)。<\/p><p>如果一件物品有多个精制品项目 (例如一件双头武器，或可以同时作为武器和防具的，比如一个带刺盾牌)，你可以选择其中一项来作为法术影响的目标 (并且你可以再施法一次来影响另一项)。<\/p>"
 }

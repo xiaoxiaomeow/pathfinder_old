@@ -8,7 +8,7 @@
     "prerequisites": "Dodge, Improved Unarmed Strike, Jabbing Dancer, Jabbing Style, Mobility, Power Attack; base attack bonus +12, brawler level 8th, or monk level 8th.",
     "benefit": "While using Jabbing Style, the extra damage you deal when you hit a single target with two unarmed strikes increases to 2d6, and the extra damage when you hit a single target with three or more unarmed strikes increases to 4d6.",
     "staminaSource": "Pathfinder Unchained pg. 124",
-    "staminaText": "When you threaten a critical hit with an unarmed strike while using Jabbing Style<sup>ACG<\/sup>, you can spend 5 stamina points to double your extra damage from Jabbing Master against that target. You can use this ability only once per target per round.",
+    "staminaText": "When you threaten a critical hit with an unarmed strike while using Jabbing Style, you can spend 5 stamina points to double your extra damage from Jabbing Master against that target. You can use this ability only once per target per round.",
     "prerequisiteKeys":     [
         "dodge",
         "improved unarmed strike",
@@ -19,6 +19,7 @@
     ],
     "name_zh": "千手百裂",
     "text_zh": "没有人能在你暴风骤雨般的欧拉欧拉下全身而退。",
-    "prerequisites_zh": "闪避，精通徒手击打，百裂步，百裂拳，灵活移动，猛力攻击，基础攻击加值+12或拳师等级8或武僧等级8",
-    "benefit_zh": "在使用百裂拳流派时，你同一轮两次徒手击打命中造成的额外伤害提升到2d6。三次或以上徒手击打命中造成的额外伤害提升到4d6。"
+    "prerequisites_zh": "闪避，精通徒手击打，百裂步，百裂拳，灵活移动，猛力攻击，BAB+12或拳师等级8或武僧等级8。",
+    "benefit_zh": "在使用百裂拳流派时，你同一轮两次徒手击打命中造成的额外伤害提升到2d6。三次或以上徒手击打命中造成的额外伤害提升到4d6。",
+    "staminaText_zh": "当你在使用百裂拳架势时使用徒手击打造成了重击威胁，你可以消耗5点耐力来让对那个目标的千手百裂额外伤害翻倍。一轮中你只能对一个目标使用一次这个能力。"
 }

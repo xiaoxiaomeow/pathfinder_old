@@ -9,15 +9,19 @@
     "benefit": "You do not provoke an attack of opportunity when performing a dirty trick combat maneuver. In addition, you receive a +2 bonus on checks made to attempt a dirty trick. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries a dirty trick on you.",
     "normal": "You provoke an attack of opportunity when performing a dirty trick combat maneuver.",
     "staminaSource": "Pathfinder Unchained pg. 123",
-    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a dirty trick<sup>APG<\/sup> combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that dirty trick attempt increases by that number.",
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. When you are the target of a dirty trick combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that dirty trick attempt increases by that number.",
     "mythicSource": "Mythic Adventures pg. 66",
     "mythicText": "You’re a paragon of down-and-dirty fighting.",
-    "mythicPrerequisites": "Improved Dirty Trick<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Improved Dirty Trick.",
     "mythicBenefit": "You gain a bonus equal to half your tier on checks to attempt a dirty trick, and to your CMD when an opponent attempts to perform a dirty trick on you. These bonuses stack with those granted by Improved Dirty Trick.<br><br> Furthermore, you can make an attack of opportunity against any creature that attempts a dirty trick maneuver against you, unless it also has this feat.",
     "prerequisiteKeys": ["combat expertise"],
     "name_zh": "精通阴招",
     "text_zh": "你很擅长对敌人耍一些小伎俩。",
     "prerequisites_zh": "智力13，寓守于攻。",
     "benefit_zh": "当你使用阴招战技时不会引起借机攻击。此外，你所实行的阴招战技检定获得+2加值。你还在对抗针对自身的阴招战技时，CMD获得+2加值。",
-    "normal_zh": "当你使用阴招战技时会引起借机攻击。"
+    "normal_zh": "当你使用阴招战技时会引起借机攻击。",
+    "mythicText_zh": "你就是卑鄙战法的典范。",
+    "mythicPrerequisites_zh": "精通阴招",
+    "mythicBenefit_zh": "你的阴招检定获得加值，数值等同于你的阶层的一半，当敌人对你使用阴招时，你的CMD也获得此加值。这些加值与非神话版的精通阴招专长所赋予的加值叠加。<\/p><p>除此之外，你还能对任何尝试对你使用阴招的敌人进行借机攻击，除非对方也拥有该专长。",
+    "staminaText_zh": "即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。当你作为阴招APG战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗阴招尝试的CMD提升等同于你消耗的耐力点的点数。"
 }

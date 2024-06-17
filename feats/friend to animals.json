@@ -6,5 +6,9 @@
     "text": "You show great respect for all living things, and they sense and return the gesture.",
     "prerequisites": "Nature Soul, Handle Animal 3 ranks.",
     "benefit": "As a standard action you can require all animals within 30 feet to make a Will saving throw. Animals who fail the save cannot attack you unless you attack them or one of their allies first. The DC of the Will save is equal to 10 + half your character level + your Charisma modifier.",
-    "prerequisiteKeys": ["nature soul"]
+    "prerequisiteKeys": ["nature soul"],
+    "name_zh": "动物之友",
+    "text_zh": "你对所有活物展示敬意，并且他们感觉到并会以友善。",
+    "prerequisites_zh": "自然之魂，驯养动物3级。",
+    "benefit_zh": "以一个标准动作，你可以要求所有在你30尺内的动物进行一次意志检定。检定失败的动物不能主动攻击你除非你首先攻击他们或者攻击他们的盟友。这个意志豁免的DC等于10+1/2角色等级+你的魅力修正。"
 }

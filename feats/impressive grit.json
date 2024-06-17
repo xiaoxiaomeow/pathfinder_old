@@ -6,6 +6,11 @@
     "source": ["Weapon Master's Handbook pg. 21"],
     "text": "Your mastery of ranged weapons allows you to perform impressive deeds.",
     "prerequisites": "Base attack bonus +11, weapon training class feature with a ranged weapon.",
-    "benefit": "Select one of the following gunslinger deeds<sup>UC<\/sup>: dead shot, startling shot, or targeting. You can perform the selected deed a number of times per day equal to your highest mental ability score modifier (Intelligence, Wisdom, or Charisma; minimum 1). You can use this deed with an appropriate ranged weapon. If you also have the selected deed as a class feature, reduce the number of grit points that you need to use it by 1, as per the Signature Deed<sup>UC<\/sup> feat.",
-    "special": "You can select Impressive Grit up to three times. Each time you select it, choose a different gunslinger deed. A gunslinger<sup>UC<\/sup> can ignore the weapon training class feature prerequisite of Impressive Grit."
+    "benefit": "Select one of the following gunslinger deeds: dead shot, startling shot, or targeting. You can perform the selected deed a number of times per day equal to your highest mental ability score modifier (Intelligence, Wisdom, or Charisma; minimum 1). You can use this deed with an appropriate ranged weapon. If you also have the selected deed as a class feature, reduce the number of grit points that you need to use it by 1, as per the Signature Deed feat.",
+    "special": "You can select Impressive Grit up to three times. Each time you select it, choose a different gunslinger deed. A gunslinger can ignore the weapon training class feature prerequisite of Impressive Grit.",
+    "name_zh": "神勇射击",
+    "text_zh": "你对于远程武器的娴熟运用使你可以用它们来表演一些勇毅动作。",
+    "prerequisites_zh": "BAB+11，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "选择以下铳士的勇毅动作UC职业能力的勇毅动作之一：致命射击（Dead Shot），惊异射击（Starling Shot）和精确瞄准（Targeting）。你可以使用你所选的勇毅动作，每天最多相当于你的心智属性（智力，感知或魅力）中最高一项的属性调整值次（最多一次）。你必须使用所选的远程武器来发动这些勇毅动作，如果你已经拥有这些勇毅动作作为职业能力，那么这些勇毅动作的勇毅消耗减少1点，如同招牌动作UC专长的效果一般。",
+    "special_zh": "你可以选择本专长最多3次，每次选择本专长时必须选择一个不同的勇毅动作。铳士可以忽略武器训练职业能力的先决条件来选择本专长。"
 }

@@ -6,6 +6,11 @@
     "source": ["Weapon Master's Handbook pg. 21"],
     "text": "Your mastery of ranged weapons enables you to use them to perform deeds that you would normally need a firearm to accomplish.",
     "prerequisites": "Base attack bonus +6, weapon training class feature with a ranged weapon.",
-    "benefit": "You can perform the utility shot<sup>UC<\/sup> gunslinger deed with an appropriate ranged weapon with which you are proficient. If you have both the utility shot deed and this feat, you gain a +4 bonus on attack rolls made as part of a utility shot and you can use the utility shot deed while you have no grit points.",
-    "special": "A gunslinger<sup>UC<\/sup> can ignore the weapon training class feature prerequisite of Marksman’s Deed."
+    "benefit": "You can perform the utility shot gunslinger deed with an appropriate ranged weapon with which you are proficient. If you have both the utility shot deed and this feat, you gain a +4 bonus on attack rolls made as part of a utility shot and you can use the utility shot deed while you have no grit points.",
+    "special": "A gunslinger can ignore the weapon training class feature prerequisite of Marksman’s Deed.",
+    "name_zh": "万能射击",
+    "text_zh": "你对于远程武器的娴熟运用使你可以用它们来发动一些需要火器进行精确打击才能做到的效果。",
+    "prerequisites_zh": "BAB+6，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "你可以使用一件你所擅长的所选远程武器来发动铳士的万用射击UC勇毅动作。如果你本身就拥有万用射击勇毅动作，那么你可以在发动万用射击的攻击检定上获得+4加值，并且可以在没有勇毅点数的情况下使用万用射击",
+    "special_zh": "铳士可以忽略武器训练职业能力的先决条件来选择本专长。"
 }

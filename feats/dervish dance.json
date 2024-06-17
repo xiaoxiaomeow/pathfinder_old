@@ -10,5 +10,9 @@
     "text": "You have learned to turn your speed into power, even with a heavier blade.",
     "prerequisites": "Dexterity 13, Weapon Finesse, Perform (dance) 2 ranks, proficient with scimitar.",
     "benefit": "When wielding a scimitar with one hand, you can use your Dexterity modifier instead of your Strength modifier on melee attack and damage rolls. You treat the scimitar as a one-handed piercing weapon for all feats and class abilities that require such a weapon (such as a duelist’s precise strike ability). The scimitar must be for a creature of your size. You cannot use this feat if you are carrying a weapon or shield in your off hand.",
-    "prerequisiteKeys": ["weapon finesse"]
+    "prerequisiteKeys": ["weapon finesse"],
+    "name_zh": "狂舞",
+    "text_zh": "你学会了如何用速度增强力量，即使是使用较重的武器。",
+    "prerequisites_zh": "敏捷13，武器娴熟，表演（舞蹈）2级，擅长弯刀（scimitar）。",
+    "benefit_zh": "当你单手持用弯刀时，你能够使用敏捷调整值替代你的力量调整值，加到近战攻击与伤害检定上。对于所有需要单手穿刺类武器的专长与职业能力（如决斗家的精准刺击能力），你将弯刀视为该类武器。弯刀的大小必须适合你的体型。你的副手携带（carrying）武器或盾牌时无法使用该专长。"
 }

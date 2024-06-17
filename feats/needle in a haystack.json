@@ -6,5 +6,9 @@
     "text": "Once you have even the trace of a creature you’re tracking, you can’t be thrown off the trail.",
     "prerequisites": "Skill Focus (Perception), Perception 3 ranks.",
     "benefit": "You can use Perception (rather than Survival) to follow tracks. After you track a creature using the Perception skill, you gain a +2 insight bonus on Perception checks to avoid being surprised by that creature for 1 hour. If you have 10 or more ranks in Perception, this bonus increases to +4.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "大海捞针",
+    "text_zh": "一旦你发现了你正在追踪的生物的痕迹，你就不会被让它溜走。",
+    "prerequisites_zh": "技能专攻（察觉），察觉3级。",
+    "benefit_zh": "你可以用察觉(而非生存)来追踪痕迹。当你使用察觉技能追踪一个生物后，你在1小时内避免被该生物突袭的察觉检定中获得+2洞察加值。如果你的察觉达到10级或更高，这个加值增加到+4。"
 }

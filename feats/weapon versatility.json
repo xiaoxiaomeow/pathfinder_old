@@ -7,5 +7,8 @@
     "text": "You can use your favored weapons in unconventional ways.",
     "prerequisites": "Weapon Focus, base attack bonus +1.",
     "benefit": "When wielding a weapon with which you have Weapon Focus, you can shift your grip as a swift action so that your weapon deals bludgeoning, piercing, or slashing damage instead of the damage type normally dealt by that weapon. You may switch back to the weapon’s normal damage type or another damage type as a swift action. If your base attack bonus is +5 or higher, using this feat is a free action instead.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "可能性之兵",
+    "prerequisites_zh": "武器专攻、BAB+1。",
+    "benefit_zh": "当你使用你武器专攻的武器时，用一个迅捷动作，你可以改变武器的握法，让该武器造成钝击、穿刺或挥砍之一的伤害类型，取代正常的伤害类型。改变回原初伤害类型或再次改变都是迅捷动作。若你的BAB为+5或更高，改变伤害类型则是一个自由动作。"
 }

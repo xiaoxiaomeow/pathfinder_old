@@ -14,5 +14,10 @@
         "improved unarmed strike",
         "vital strike",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "魔鬼凌辱",
+    "text_zh": "你羞辱性的攻击会降低敌人的士气。",
+    "prerequisites_zh": "战斗反射；魔鬼之型；要害打击;精通徒手打击或武器专攻（徒手打击）; BAB+8或7级武僧等级.。",
+    "benefit_zh": "目标在因这种方式恍惚后的1分钟内不能获得任何士气加值的好处，在这1分钟内，你的借机攻击所造成的任何额外恍惚效果将持续2轮而不是1轮。持续时间内多个因此产生的恍惚效果将相互叠加。",
+    "special_zh": "一个10级以上的武僧可以选择精通要害打击Improved Vital Strike作为武僧奖励专长。"
 }

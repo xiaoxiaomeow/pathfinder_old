@@ -7,5 +7,9 @@
     "text": "By maintaining a grapple hold on your opponent, you can cause it to lose consciousness.",
     "prerequisites": "Greater Grapple, base attack bonus +8.",
     "benefit": "You must declare that you are using this feat before you make a combat maneuver check to maintain a grapple (thus a failed check to maintain the grapple ruins the attempt). If you maintain a grapple for a number of consecutive rounds equal to your opponent’s Constitution bonus (minimum 1 round), you can attempt to knock out your opponent. The victim must succeed at a Fortitude save (DC 10 + 1/2 your character level + your Str modifier) or else it falls unconscious for 1d4 rounds. Each successive round you attempt this, the target takes a cumulative –1 penalty on its saving throw. When you use this feat, you take an additional –2 penalty to your AC. Creatures that are immune to bleed damage, stunning, or critical hits are immune to this ability.",
-    "prerequisiteKeys": ["greater grapple"]
+    "prerequisiteKeys": ["greater grapple"],
+    "name_zh": "昏厥之握",
+    "text_zh": "当你维持擒拿压制你的对手，你可以尝试让对方陷入昏迷之中。",
+    "prerequisites_zh": "高等擒拿，BAB+8。",
+    "benefit_zh": "你必须在展开擒抱之前宣布使用此专长，当你成功擒拿对手的持续时间超过对手的体质加值〔至少一轮〕，那么你就可以试着让对方陷入昏迷，他必须通过一次DC相当于10+1/2你的等级+你的力量调整质的强韧检定，否则陷入昏迷1d4轮，只要你每轮连续尝试让对手陷入昏迷，对方的强韧检定就会承受每轮-1的罚值。当你使用昏厥之握进入擒抱，你将额外承受-2AC的惩罚。<\/p><p>免疫流血、震慑或致命一击的生物也免疫昏厥之握。"
 }

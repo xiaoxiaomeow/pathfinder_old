@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Aquatic Adventures pg. 59"],
     "text": "You’ve built off of some of the closely-guarded secrets of the undine steamcasters, allowing you to use fire magic underwater easily.",
-    "benefit": "You can apply Steam Spell only to a spell with the fire descriptor. A steam spell works underwater without a caster level check, but it requires a caster level check to function above water. A steam spell uses up a slot the same spell level as the spell’s actual level."
+    "benefit": "You can apply Steam Spell only to a spell with the fire descriptor. A steam spell works underwater without a caster level check, but it requires a caster level check to function above water. A steam spell uses up a slot the same spell level as the spell’s actual level.",
+    "name_zh": "蒸汽法术",
+    "text_zh": "你成功研究出了一些水元素裔蒸汽术者（steamcaster）们所牢牢保护的秘密，这让你能够轻易地在水下使用火焰魔法。",
+    "benefit_zh": "你只能将蒸汽法术应用到拥有火焰描述符的法术上。在水下使用蒸汽法术不需要施法者等级检定，但在水上则需要一个施法者等级检定才能生效。火焰法术不会占用比法术的实际环级高的法术位。"
 }

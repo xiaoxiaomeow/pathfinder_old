@@ -7,5 +7,9 @@
     "text": "Your hatred drives every swing of your weapon.",
     "prerequisites": "Dwarven Hatred Style, base attack bonus +5, defensive training and hatred racial traits, Medium size.",
     "benefit": "While using Dwarven Hatred Style, when an opponent hits you with an attack (including a spell that requires an attack roll), you can apply your defensive training or your hatred racial trait bonus (your choice) against that target, regardless of the opponent’s type or subtype, as an immediate action. This ability lasts until the opponent dies, the combat ends, you change styles, or you designate a different opponent with this ability, whichever occurs first.",
-    "prerequisiteKeys": ["dwarven hatred style"]
+    "prerequisiteKeys": ["dwarven hatred style"],
+    "name_zh": "矮人怒如火",
+    "text_zh": "是仇恨驱使着你挥舞着手中的武器。",
+    "prerequisites_zh": "矮人恨意流，BAB+5，防御训练与仇恨种族特性，中等体型。",
+    "benefit_zh": "当你使用矮人恨意流时，若有一名敌人以一次攻击命中你（包括需要进行攻击检定的法术），你便能够以直觉动作，来使用防御训练或仇恨种族特性的加值（由你选择）对抗该目标，无论敌人的种族类型或亚种为何。该能力持续至敌人死亡、战斗结束、你改变流派、或者你使用该能力指定不同的敌人为目标时为止，以较先发生者为准。"
 }

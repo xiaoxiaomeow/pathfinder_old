@@ -7,5 +7,9 @@
     "text": "You and your teammates can deliver touch spells through each other’s familiars.",
     "prerequisites": "Group Shared Spells, must have a familiar with the share spells and deliver touch spells abilities.",
     "benefit": "You and any allies with this feat can cast spells through one another’s familiars as though each ally had the share spells ability with each other familiar. This feat otherwise functions as the share spells ability.",
-    "prerequisiteKeys": ["group shared spells"]
+    "prerequisiteKeys": ["group shared spells"],
+    "name_zh": "团队传递接触法术",
+    "text_zh": "你和其他队伍成员可以通过彼此的魔宠传递接触法术。",
+    "prerequisites_zh": "团队法术共享（Group Shared Spells），必须具有拥有传递接触法术（Deliver Touch Spells）和法术共享（Share Spells）能力的魔宠。",
+    "benefit_zh": "你和任何具有该专长的盟友均能凭借彼此的魔宠施放法术，就如每个盟友都能使用彼此魔宠的法术共享能力一般。该专长在其他方面就如同传递接触法术（Deliver Touch Spells）能力一般。"
 }

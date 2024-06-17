@@ -6,5 +6,9 @@
     "text": "You’ve trained at swimming in combat and over long distances for so long that you can move through the water like a native.",
     "prerequisites": "Skill Focus (Swim), Swim 10 ranks.",
     "benefit": "You gain a swim speed of 30 feet or your unmodified base land speed, whichever is slower; your racial bonus on Swim checks for having a swim speed is +2, instead of +8.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "游泳大师",
+    "text_zh": "你接受过游泳战斗以及长距离游泳的长时间训练，因此你可以像水生居民一样自如在水中行动。",
+    "prerequisites_zh": "技能专攻（游泳），游泳10级。",
+    "benefit_zh": "你获得30尺游泳速度，或者等同于你未修正过的陆地速度的游泳速度，两者取低；你在因为拥有游泳速度获得游泳种族加值为+2，而不是+8。"
 }

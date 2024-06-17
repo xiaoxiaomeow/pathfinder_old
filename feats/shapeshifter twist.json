@@ -8,5 +8,10 @@
     "prerequisites": "Shapeshifter Style, base attack bonus +5, change shape ability, shapechanger subtype.",
     "benefit": "While you are using Shapeshifter Style, you gain a +2 bonus to your CMD versus bull rush, drag, grapple, overrun, reposition, and trip combat maneuvers. If you begin your turn with the grappled condition, you can attempt a combat maneuver check or an Escape Artist check as a move action to attempt to break the grapple.",
     "special": "A character with the wild shape class feature counts as having the change shape ability and shapechanger subtype for the purpose of meeting this feat’s prerequisites.",
-    "prerequisiteKeys": ["shapeshifter style"]
+    "prerequisiteKeys": ["shapeshifter style"],
+    "name_zh": "化形扭",
+    "text_zh": "你的形态以诡异的方式扭曲，这让你的敌人很难故意将你挪动。",
+    "prerequisites_zh": "化形势、BAB+5、变形能力、变形者子类。",
+    "benefit_zh": "当你处于化形势，你在对抗冲撞、拖拽、擒抱、闯越、移位APG与绊摔战技时，CMD获得+2加值。如果你在回合开始时处于擒抱状态，你可以一个移动动作尝试一次战技检定或者一次脱逃检定来解除擒抱。",
+    "special_zh": "在满足先决条件时，一个拥有自然变身职业能力的角色视作拥有变形能力和变形者子类。"
 }

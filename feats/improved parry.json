@@ -7,5 +7,9 @@
     "text": "A flick of the wrist binds your opponent’s weapon.",
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "When you successfully parry a foe’s melee attack (with a dueling parry or the parry class feature), your next melee attack against the target does not allow the enemy to apply its Dexterity bonus to AC (if any). This attack must be made before the end of your next turn.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "精通格挡",
+    "text_zh": "手腕轻轻一甩就能缠住对手的武器。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "当你成功的格挡敌方的近战攻击时（通过决斗格挡（Dueling Parry）或格挡职业能力），你下一次对该目标的近战攻击将敌方视为失敏。这一攻击必须在你的下一回合结束前完成。"
 }

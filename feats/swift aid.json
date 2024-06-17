@@ -13,7 +13,8 @@
     "prerequisiteKeys": ["combat expertise"],
     "name_zh": "迅捷协助",
     "text_zh": "通过迅捷却又无害的一击，你能够对盟友的攻击进行协助。",
-    "prerequisites_zh": "智力13，寓守于攻，基本攻击加值+6。",
+    "prerequisites_zh": "智力13，寓守于攻，BAB+6。",
     "benefit_zh": "以迅捷动作，你能够尝试进行协助他人动作，使你的盟友的下一次攻击检定获得+1加值，或者是他的AC获得+1加值。",
-    "normal_zh": "协助他人是一个标准动作。"
+    "normal_zh": "协助他人是一个标准动作。",
+    "staminaText_zh": "只要你的耐力池中还有1点耐力，你就能使用这个专长以一个移动动作援助他人。"
 }

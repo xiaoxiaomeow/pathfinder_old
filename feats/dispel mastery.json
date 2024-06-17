@@ -6,5 +6,9 @@
     "source": ["Weapon Master's Handbook pg. 26"],
     "text": "You can dispel magic with abjuration magic items.",
     "prerequisites": "Use Magic Device 3 ranks, base Fortitude save bonus +6.",
-    "benefit": "You can cause an item that has an abjuration spell of 2nd level or higher in its construction requirements to cast <i>dispel magic<\/i>, but only to perform a targeted dispel. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12."
+    "benefit": "You can cause an item that has an abjuration spell of 2nd level or higher in its construction requirements to cast <i>dispel magic<\/i>, but only to perform a targeted dispel. You can use this feat once per day, plus an additional time per day at base Fortitude save bonus +9 and +12.",
+    "name_zh": "解法掌握",
+    "text_zh": "你引导防护系物品的魔法力量，对解除其他魔法的效果。",
+    "prerequisites_zh": "使用魔法装置技能3级，基础强韧豁免加值+6。",
+    "benefit_zh": "你可以引导一件制造时需求使用防护系法术，且该法术至少为二环的魔法物品中的能量，施放一次法术解除魔法（Dispel Magic），但是你只能使用解除魔法的目标解除（Targeted Dispel）效果。你每天可以使用本类法术能力一次，在基础强韧豁免加值达到+9和+12时可以获得额外一次每日使用次数。"
 }

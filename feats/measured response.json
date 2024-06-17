@@ -11,5 +11,9 @@
     "prerequisites": "Base attack bonus +1, worshiper of Abadar.",
     "benefit": "When you hit an opponent with a melee or ranged weapon attack, you may choose to deal average damage (rounded down), as if you had rolled exactly the average amount on the damage die or dice. You add your damage bonuses and penalties as normal.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
-    "staminaText": "You can spend 5 stamina points before making a melee or ranged attack with Measured Response to treat the attack roll’s result as a 10."
+    "staminaText": "You can spend 5 stamina points before making a melee or ranged attack with Measured Response to treat the attack roll’s result as a 10.",
+    "name_zh": "黄金律",
+    "prerequisites_zh": "信仰阿巴达尔，BAB+1。",
+    "benefit_zh": "当你在一次近战或远程攻击时，你可以选择不进行伤害投骰，而是直接取伤害的平均值（向下取整），如同你直接投出了平均值的伤害一样。除此之外，你的其他伤害加值和减值正常计算。",
+    "staminaText_zh": "你可以在做出一次应用了黄金律的近战或远程攻击之前消耗5点耐力来将这次攻击骰的结果视作10。"
 }

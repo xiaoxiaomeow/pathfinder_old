@@ -5,7 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Melee Tactics Toolbox pg. 13"],
     "text": "Your powerful blows can knock down your opponents.",
-    "prerequisites": "Bludgeoner<sup>UC<\/sup>, Cudgeler Style, base attack bonus +5 or monk level 5th.",
+    "prerequisites": "Bludgeoner, Cudgeler Style, base attack bonus +5 or monk level 5th.",
     "benefit": "When you hit with a charge attack using the Cudgeler Style feat, you can immediately attempt a single trip combat maneuver check against the target with a +2 competence bonus as a free action. This provokes an attack of opportunity as normal for a trip combat maneuver.",
-    "prerequisiteKeys": ["cudgeler style"]
+    "prerequisiteKeys":     [
+        "bludgeoner",
+        "cudgeler style"
+    ],
+    "name_zh": "蛮锤扫",
+    "text_zh": "你强力的锤击可以击倒敌人。",
+    "prerequisites_zh": "钝击士，蛮锤式，BAB+5或武僧等级5。",
+    "benefit_zh": "当你处于蛮锤式流派下冲锋攻击命中时，你可以立刻以自由动作对目标进行一次摔绊战技检定，该次检定获得+2表现加值。这种摔绊战技检定可以正常引发借机攻击。"
 }

@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "combat expertise",
         "improved feint"
-    ]
+    ],
+    "name_zh": "煽动猜忌",
+    "text_zh": "你能说服任何人相信自己的亲友心怀鬼胎。",
+    "prerequisites_zh": "智力 13，寓守于攻，诈欺师，高等虚招，精通虚招，BAB+6。",
+    "benefit_zh": "当你成功在战斗中使用了虚招时，如果你的检定成功了5点或更多，那么直至你的下个回合为止，目标便不会再为盟友提供夹击，也不会提供或获得团队专长（teamwork feats）带来的好处。<\/p><p>此外，当你尝试1次唬骗检定来说谎，而且谎言中暗指1个或更多个目标的盟友会背叛目标、或者暗中陷害她（secretly against her）的话，该谎言的可信度会比正常情况下高1级，从过于牵强（far-fetched）变为不太可靠（unlikely），从不太可靠（unlikely）变为可信（believable），如果谎言的可信度本身低于过于牵强（far-fetched），则本专长不会产生效果。"
 }

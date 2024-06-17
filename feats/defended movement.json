@@ -13,5 +13,11 @@
     "special": "Defended Movement counts as both Dodge and Mobility for the purposes of feats that have Dodge and Mobility as prerequisites.",
     "staminaSource": "Armor Master's Handbook pg. 20",
     "staminaText": "You can spend 3 stamina points as an immediate action to increase the bonus to your AC to +4 against a single attack. (See page 18.)",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "谨慎移动",
+    "text_zh": "移动时你灵巧地使用盾牌格挡攻击。",
+    "prerequisites_zh": "盾牌专攻，BAB+6或者战士4级。",
+    "benefit_zh": "对抗借机攻击获得+2加值。",
+    "special_zh": "谨慎移动可视作闪避和灵活移动专长来满足需要其作为前置条件的专长。",
+    "staminaText_zh": "你可以以一个直觉动作消耗3点耐力来在单次攻击上将你的AC加值提升到4。"
 }

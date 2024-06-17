@@ -7,5 +7,9 @@
     "text": "You lodge your ranged weapons within your target’s body.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +9, weapon training class feature with a ranged weapon.",
     "benefit": "When you successfully hit a creature with a ranged attack, as a swift action, you can have the weapon (or its ammunition, for projectile weapons) lodge itself within the creature’s body, causing the creature to take a –2 penalty on ability checks, attack rolls, saving throws, and skill checks as a result of the intense pain. Penalties from multiple lodged weapons do not stack. If the creature is a spellcaster, it gains a 25% spell failure chance with all spells it casts that include somatic components. This penalty can be removed with the treat deadly wounds use of the Heal skill or by removing the lodged weapon as a standard action, which ends the penalties and causes the creature to take an amount of damage equal to the weapon’s base damage (without any bonuses).",
-    "prerequisiteKeys": ["deadly aim"]
+    "prerequisiteKeys": ["deadly aim"],
+    "name_zh": "穿心射击",
+    "text_zh": "你将自己射出的投射物留在敌人体内作为痛苦的纪念品。",
+    "prerequisites_zh": "敏捷13，致命瞄准，BAB+9，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "当你成功地以远程攻击命中一个生物时，以一个迅捷动作，你可以将武器（或是弹药）卡在这个生物体内，使它因为剧痛而在属性检定，攻击检定，豁免检定和技能检定上承受-2减值。多次穿心射击的效果无法叠加。如果穿心射击的目标是施法者，那么他还会在施放任何带有姿势成分的法术时承受25%的施法失败率，这个状态可以通过医疗技能的治疗致命伤害用法或是一个标准动作移除。移除会同时结束该减值的影响，并且生物再承受一次相当于武器基本伤害骰（不附加任何加值）的伤害。"
 }

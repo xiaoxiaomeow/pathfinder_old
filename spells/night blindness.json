@@ -33,9 +33,11 @@
     "text": "Your target’s vision becomes impaired as if the light level were one step lower, treating bright light as normal light, normal light as dim light, and dim light as darkness. In addition, the subject gains no benefit from darkvision, low-light vision, or the see in darkness ability. The subject gains a +4 bonus on saving throws to resist the blind or dazzled condition caused by bright light (such as flare). <i>Remove blindness/deafness<\/i> dispels <i>night blindness<\/i>.",
     "name_zh": "夜盲术",
     "castingTime_zh": "标准动作",
+    "components_zh": "语言",
     "range_zh": "中距 (100尺+每等级10尺)",
+    "target_zh": "一个活物",
     "duration_zh": "1天/等级 (可解消)",
     "savingThrow_zh": "意志, 通过则无效 (无害)",
-    "spellResistance_zh": "不可",
-    "text_zh": "<p>此法术作用类似目盲/耳聋术(Blindness/Deafness)，除了本法术只影响活物，并且只造成目盲。受术者的瞳孔收缩，如同他在明亮的太阳光下，就算受术者拥有黑暗视觉或低光视觉，在明亮光照下，会致使他目盲。受术者在因强光(像是闪光术[flare]、阳炎射线[sunbeam]以及阳炎爆[sunburst]，尽管后面两个法术，是有可能发生因为本加值所以成功抵抗目盲，但却在对抗伤害的豁免上失败)而造成的目盲状态，于豁免检定上获得+4加值。<\/p>"
+    "spellResistance_zh": "否",
+    "text_zh": "<p>你的目标视力受损，如同光照等级下降一阶，将强光变成常光，常光变成昏暗，昏暗变成黑暗。此外，受术者将不会从黑暗视觉、昏暗视觉或能在黑暗中视物的能力中受益。<\/p><p>受术者在对抗目盲或目眩状态的强光上豁免获得+4的加值(如闪光术(flare))。<\/p><p>移除目盲/耳聋(Remove blindness/deafness)能解除夜盲术。<\/p>"
 }

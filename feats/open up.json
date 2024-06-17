@@ -11,5 +11,10 @@
     "prerequisites": "Int 13, Combat Expertise.",
     "benefit": "When you successfully use the aid another action to improve the next attack roll against an opponent by an ally who also has this feat, that attack also ignores any Armor Class bonus granted by the opponent’s shield. This benefit affects only physical shields, not shield bonuses from spells or other sources.",
     "special": "If both you and your ally also have the Harrying Partners teamwork feat, all of your ally’s attacks made before your next turn ignore the opponent’s Armor Class bonus from a shield.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "空门大开",
+    "text_zh": "你拨开敌人的盾牌，打开目标的空门使得盟友可以长驱直入。",
+    "prerequisites_zh": "智力13，寓守于攻。",
+    "benefit_zh": "当你成功通过援助他人动作给一个拥有该专长的盟友增加下一击的攻击时，该次攻击将会忽视目标盾牌给予的AC。这种效果只对物理盾牌有效，对法术或其它资源给予的盾牌AC加值无效。",
+    "special_zh": "若你和盟友同时拥有掠阵搭档团队专长，盟友直到你下一回合开始前所有对目标的攻击都会忽视由盾牌给予的AC加值。"
 }

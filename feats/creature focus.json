@@ -6,5 +6,10 @@
     "text": "You have deadly experience with a certain type of creature, granting you an edge in fighting its kind.",
     "prerequisites": "No levels in a class that grants the favored enemy class feature.",
     "benefit": "Choose a creature type from the ranger favored enemies table (<i>Pathfinder RPG Core Rulebook 64<\/i>) except for humanoid or monstrous humanoid. You gain a +2 bonus on Perception checks, Survival checks, and weapon damage rolls against creatures of the selected type. You can attempt Knowledge skill checks untrained when attempting to identify such creatures.",
-    "special": "This feat counts as the favored enemy class feature for the purpose of meeting feat prerequisites. If another ability references your favored enemy bonus for the creature type selected, you treat your favored enemy bonus as +2. If you later gain the favored enemy class feature, you can replace this feat with a different feat for which you qualify and whose prerequisites include the favored enemy class feature.<br><br> You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different creature type."
+    "special": "This feat counts as the favored enemy class feature for the purpose of meeting feat prerequisites. If another ability references your favored enemy bonus for the creature type selected, you treat your favored enemy bonus as +2. If you later gain the favored enemy class feature, you can replace this feat with a different feat for which you qualify and whose prerequisites include the favored enemy class feature.<br><br> You can gain this feat multiple times. Its effects do not stack. Each time you take the feat, it applies to a different creature type.",
+    "name_zh": "生物专攻",
+    "text_zh": "你对某种特定的生物有着非同寻常的经验，这让你在与此类生物的战斗中取得优势。",
+    "prerequisites_zh": "在提供宿敌职业能力的职业上没有等级。",
+    "benefit_zh": "从游侠的宿敌列表(Pathfinder RPG核心规则手册64)中选择除类人生物和人形怪物外的一种生物类型。你对所选类型的生物的察觉检定、生存检定和武器伤害骰获得+2加值。当你试图识别这些生物时，你可以尝试未受训的知识技能检定。",
+    "special_zh": "此专长在满足专长先决条件时被视为宿敌职业特性。如果另一个能力适用于你所选生物类型的宿敌加值，此时你的宿敌加值视为+2。如果你后来获得宿敌职业特性，你可以用你符合条件且先决条件包括宿敌职业特性的另一个专长替换此专长。<\/p><p>你可以多次获得此专长，它的效果不能叠加。每次你选择该专长时，它都会应用到不同类型的生物上。"
 }

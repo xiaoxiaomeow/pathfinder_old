@@ -6,5 +6,8 @@
     "text": "You treat the art of negotiation as devilish science.",
     "prerequisites": "Skill Focus (Diplomacy), worshiper of Asmodeus.",
     "benefit": "You can add your Intelligence or Wisdom modifier (whichever is higher) on Diplomacy checks in place of your Charisma modifier. You can shift a creature’s attitude more than two steps with Diplomacy, and a creature’s attitude is only decreased by one step if you roll a natural 1 and fail the check by 5 or more.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "魔鬼说客",
+    "prerequisites_zh": "技能专攻（交涉），信仰阿斯莫迪斯。",
+    "benefit_zh": "你可以选择将智力调整值或感知调整值（取其高者）取代你的魅力调整值加到你的交涉技能检定上。除此之外，你的交涉技能可以将生物的态度改变两级以上，如果你在交涉检定正骰出1或失败至少5点，目标的态度只会下降一级。"
 }

@@ -5,7 +5,7 @@
     "descriptors": ["Combat"],
     "source": ["Horror Adventures pg. 83"],
     "text": "With brute force, you can bowl over and cripple opponents by treading on them.",
-    "prerequisites": "Str 23, Int 13, Brute Stomp, Brute Style, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp<sup>UC<\/sup>, base attack bonus +10.",
+    "prerequisites": "Str 23, Int 13, Brute Stomp, Brute Style, Combat Reflexes, Improved Overrun, Improved Trip, Improved Unarmed Strike, Vicious Stomp, base attack bonus +10.",
     "benefit": "While using Brute Style, when you successfully perform an overrun or trip combat maneuver against an opponent that causes that opponent to fall prone, your opponent takes 1d6 points of Strength damage, and its base speed is halved until the Strength damage is healed. A successful Fortitude save (DC = 10 + your base attack bonus) reduces the Strength damage to 1 point and negates the movement speed reduction.",
     "prerequisiteKeys":     [
         "brute stomp",
@@ -13,6 +13,11 @@
         "combat reflexes",
         "improved overrun",
         "improved trip",
-        "improved unarmed strike"
-    ]
+        "improved unarmed strike",
+        "vicious stomp"
+    ],
+    "name_zh": "残暴袭",
+    "text_zh": "凭借残暴的手段，你可以把敌人痛殴致残。",
+    "prerequisites_zh": "力量23，智力13，残暴流，残暴踏，战斗反射，精通闯越，精通绊摔，精通徒手打击，恶毒践踏，BAB+10。",
+    "benefit_zh": "当你使用残暴流时，每当你成功地对一名敌人施展了闯越或绊摔战技并使其俯卧时，该敌人承受1d6点力量伤害并且他的移动速度降至一半，直到该力量伤害痊愈。该敌人可通过一次（DC=10+你的BAB的）强韧豁免将该力量伤害减少到1点并避免移动速度降低的效果。"
 }

@@ -5,10 +5,15 @@
     "descriptors": ["Combat"],
     "source": ["Dirty Tactics Toolbox pg. 15"],
     "text": "Your quick wit and even quicker maneuvers leave your opponents reeling.",
-    "prerequisites": "Int 13; Combat Expertise; Improved Dirty Trick<sup>APG<\/sup>; Kitsune Style; base attack bonus +3 or monk level 3rd.",
+    "prerequisites": "Int 13; Combat Expertise; Improved Dirty Trick; Kitsune Style; base attack bonus +3 or monk level 3rd.",
     "benefit": "While you are using the Kitsune Style feat, you can apply two different conditions with a single dirty trick combat maneuver check. Removing both conditions imparted in this way requires only one action.",
     "prerequisiteKeys":     [
         "combat expertise",
+        "improved dirty trick",
         "kitsune style"
-    ]
+    ],
+    "name_zh": "灵狐计",
+    "text_zh": "当你的计策层出不穷时，你的对手已经无力维持正常的思考。",
+    "prerequisites_zh": "智力13，寓守于攻，精通阴招APG，灵狐式，BAB+3或武僧等级3。",
+    "benefit_zh": "当处于灵狐流的架势时，你通过在一次阴招战技攻击为对手同时造成两个不同的不良效果，移除由此专长造成的两个效果只需要一个动作。"
 }

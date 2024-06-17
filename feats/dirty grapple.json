@@ -5,11 +5,16 @@
     "descriptors": ["Combat"],
     "source": ["Dirty Tactics Toolbox pg. 14"],
     "text": "You are skilled at pulling dirty tricks during a grapple.",
-    "prerequisites": "Dex 13, Int 13, Combat Expertise, Improved Dirty Trick<sup>APG<\/sup>, Improved Grapple, Improved Unarmed Strike, base attack bonus +6.",
+    "prerequisites": "Dex 13, Int 13, Combat Expertise, Improved Dirty Trick, Improved Grapple, Improved Unarmed Strike, base attack bonus +6.",
     "benefit": "You can attempt to perform a dirty trick and a grapple maneuver together against a single target as a full-round action when initiating or maintaining a grapple. You must attempt a single combat maneuver check for both maneuvers. If your CMB is different for the two types of maneuvers, use the lower of the two bonuses. If your target’s CMD is different against the two types of maneuvers, use the higher CMD. If you succeed at the check, you successfully perform both combat maneuvers.",
     "prerequisiteKeys":     [
         "combat expertise",
+        "improved dirty trick",
         "improved grapple",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "阴招擒抱",
+    "text_zh": "你可以在发动阴招的同时将敌人牢牢制住。",
+    "prerequisites_zh": "智力13，重击专攻，寓守于攻；精通阴招APG，精通擒抱，精通徒手击打，BAB+6。",
+    "benefit_zh": "你可以以一个整轮动作对同一个目标同时发动卸武和擒抱战技。你只进行一次战技攻击检定，但如果它超过敌人的CMD则两次战技攻击全部命中。如果你的两种战技CMB不同，则取低；如果敌人对两种战技的CMD不同，则取高。"
 }

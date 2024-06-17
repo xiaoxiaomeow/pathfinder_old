@@ -11,5 +11,8 @@
     "mythicBenefit": "Toughness provides you twice as many hit points. In addition, when you’re below 0 hit points, you gain DR 10/epic. This DR stacks with any other DR/epic you might possess.",
     "name_zh": "健壮",
     "text_zh": "你比一般人更健壮。",
-    "benefit_zh": "你的HP增加3点，且你的生命骰每比3HD高1级便额外获得1点HP。由生命骰高于3开始，每次你获得一个新的生命骰（例如当你获得一个新的等级）时你都额外获得1点HP。"
+    "benefit_zh": "你的HP增加3点，且你的生命骰每比3HD高1级便额外获得1点HP。由生命骰高于3开始，每次你获得一个新的生命骰（例如当你获得一个新的等级）时你都额外获得1点HP。",
+    "mythicText_zh": "你具有传奇般的耐久力与韧性。",
+    "mythicPrerequisites_zh": "健壮",
+    "mythicBenefit_zh": "健壮专长提供的生命值翻倍。此外，当你的生命值低于0点时，你获得DR 10/传奇。这个DR与任何其他你所具有的DR/传奇叠加。"
 }

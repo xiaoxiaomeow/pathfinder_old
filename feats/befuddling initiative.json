@@ -7,5 +7,9 @@
     "text": "Your quick reflexes leave your surprised opponents particularly disoriented.",
     "prerequisites": "Improved Initiative.",
     "benefit": "You treat each opponent that begins a surprise round flat-footed as being flat-footed until its action in the first full round of combat, even if it acts on the surprise round.",
-    "prerequisiteKeys": ["improved initiative"]
+    "prerequisiteKeys": ["improved initiative"],
+    "name_zh": "诡异先攻",
+    "text_zh": "当敌人还在骰先攻时，你已经在行动了。",
+    "prerequisites_zh": "精通先攻。",
+    "benefit_zh": "你可以将任何处于突袭轮中的敌人视为措手不及直到他在之后的第一个战斗轮中行动为止，而不是正常的如果他在突袭轮中进行了行动就不再视为措手不及。"
 }

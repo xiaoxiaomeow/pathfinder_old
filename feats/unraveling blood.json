@@ -7,5 +7,10 @@
     "prerequisites": "Dispelling Blood, Knowledge (arcana) 9 ranks, vishkanya.",
     "benefit": "As a swift action, you can alter the effects of your vishkanya venom to function as <i>break enchantment<\/i> when striking a creature, using your character level as your caster level. This dispelling effect affects creatures even if they are immune to poison effects.",
     "normal": "Vishkanya venom deals Dexterity damage.",
-    "prerequisiteKeys": ["dispelling blood"]
+    "prerequisiteKeys": ["dispelling blood"],
+    "name_zh": "拆解之血",
+    "text_zh": "你毒血中蕴含的力量不仅可以摧毁肉体也能摧毁邪恶的诅咒。",
+    "prerequisites_zh": "解法之血，知识（奥秘）9级，蝮血裔。",
+    "benefit_zh": "以一个迅捷动作，你可以改变你蝮血毒的效果，使其在击中一名生物时效果如同破除结界（break enchantment），使用的角色等级作为施法者等级。这个解除效果可以影响免疫毒素的目标。",
+    "normal_zh": "蝮血毒造成敏捷伤害。"
 }

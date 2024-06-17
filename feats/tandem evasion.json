@@ -12,5 +12,10 @@
     "benefit": "When adjacent to an ally who also has this feat, you gain evasion against a dragon’s breath weapon and tail sweep special attacks. If you already have evasion, you gain improved evasion instead.",
     "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend 5 stamina points to benefit from this feat even if there are no adjacent allies who also have this feat. However, if you fail your save, you are knocked prone. (<I>Dragonslayer’s Handbook 21<\/i>)",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "合作规避",
+    "text_zh": "你和你的盟友相互帮助以躲避致命的攻击。",
+    "prerequisites_zh": "敏捷13，闪避。",
+    "benefit_zh": "当临近的一个盟友也拥有此专长时，你获得对龙的喷吐武器和尾扫特殊攻击的反射闪避。如果你已经用有反射闪避，你改为获得精通反射闪避。",
+    "staminaText_zh": "即使你邻接的盟友并没有这个专长，你也可以消耗5点耐力来获得这个专长的效果。但如果你的豁免失败，你会被击倒。"
 }

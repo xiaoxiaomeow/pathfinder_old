@@ -6,5 +6,9 @@
     "text": "You can cause magic items to suffer mishaps.",
     "prerequisites": "Magical Aptitude, Disable Device 5 ranks, Use Magic Device 5 ranks.",
     "benefit": "You can attempt a Use Magic Device check to sabotage a magic item rather than to activate it, with the same DC as activating it blindly. If you succeed at the check, you define a condition under which the magic item will suffer a mishap, either dealing 2d6 points of damage to the creature attempting to use the magic item and failing to perform its desired function or else affecting the wrong target. The condition must be either an audible or a visual trigger, as defined by the magic mouth spell. If you fail the check, you suffer a mishap instead, just as if you had failed to activate the item blindly by 10 or more.",
-    "prerequisiteKeys": ["magical aptitude"]
+    "prerequisiteKeys": ["magical aptitude"],
+    "name_zh": "机关魔道具",
+    "text_zh": "你能让魔法物品变成引起事故的道具。",
+    "prerequisites_zh": "魔法天赋，解除装置5级，使用魔法装置5级。",
+    "benefit_zh": "你能尝试1次使用魔法装置检定来向1件魔法物品设置机关而非启动它，DC与盲目启动该魔法物品相同。若此次检定成功，你能在魔法物品上设下1个会引发事故（mishap）的触发条件，这个事故可以是对尝试使用魔法物品的生物造成2d6伤害的同时未能启动其预期的功能，或者也可以是魔法物品影响到错误的目标。事故的触发条件必须为视觉型（visual）或听觉型（audible）触发条件，就如同魔嘴（Magic Mouth）法术中所制定的一般。若你在该检定中失败，则会承受事故作为替代，就好像你在盲目启动魔法物品的检定中失败了10点或更多一般。"
 }

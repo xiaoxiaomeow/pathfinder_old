@@ -12,5 +12,9 @@
         "improved unarmed strike",
         "power attack",
         "street style"
-    ]
+    ],
+    "name_zh": "街角霸王拳",
+    "text_zh": "敌人被墙壁弹回后，会被你轻松击倒。",
+    "prerequisites_zh": "力量 15，精通冲撞，精通徒手打击，猛力攻击，街霸流，BAB+6或武僧等级5级。",
+    "benefit_zh": "当你使用街霸流期间，每轮第1次用徒手打击对1名敌人造成伤害时，如果该名敌人在你的上个回合开始后，被你用街霸流冲撞过的话，该名敌人必须进行1次强韧豁免（DC = 10 + 你的基本攻击加值），失败则会被击倒（knocked prone），而且恍惚（staggered）1轮。"
 }

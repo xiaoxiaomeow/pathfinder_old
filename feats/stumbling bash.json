@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "improved shield bash",
         "shield focus"
-    ]
+    ],
+    "name_zh": "衰弱盾击",
+    "text_zh": "你的盾击可以使你的敌人步履蹒跚。",
+    "prerequisites_zh": "精通盾击，盾牌专攻，BAB+6或者战士4级。",
+    "benefit_zh": "被你盾击击中的生物AC承受-2减值，直至你的下一回合结束。"
 }

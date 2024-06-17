@@ -5,7 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Intrigue pg. 84"],
     "text": "You can steal with surprising subtlety.",
-    "prerequisites": "Dex 13, Agile Maneuvers, Improved Steal<sup>APG<\/sup>, Sleight of Hand 3 ranks.",
-    "benefit": "When attempting Sleight of Hand checks to lift or palm objects, you can use your Combat Maneuver Bonus for a steal<sup>APG<\/sup> combat maneuver in place of your Sleight of Hand modifier, though if you do so, you must use your Dexterity modifier and not your Strength modifier. You can steal items with the steal combat maneuver even if they are hidden in a bag or pack (provided you can reach the item within), but the opponent gains at least a +5 bonus to its CMD (as for a fastened object) in this case.",
-    "prerequisiteKeys": ["agile maneuvers"]
+    "prerequisites": "Dex 13, Agile Maneuvers, Improved Steal, Sleight of Hand 3 ranks.",
+    "benefit": "When attempting Sleight of Hand checks to lift or palm objects, you can use your Combat Maneuver Bonus for a steal combat maneuver in place of your Sleight of Hand modifier, though if you do so, you must use your Dexterity modifier and not your Strength modifier. You can steal items with the steal combat maneuver even if they are hidden in a bag or pack (provided you can reach the item within), but the opponent gains at least a +5 bonus to its CMD (as for a fastened object) in this case.",
+    "prerequisiteKeys":     [
+        "agile maneuvers",
+        "improved steal"
+    ],
+    "name_zh": "华丽盗技",
+    "text_zh": "你能十分巧妙地偷窃物品。",
+    "prerequisites_zh": "敏捷 13，灵巧武艺，精通盗取，巧手3级。",
+    "benefit_zh": "当你尝试用巧手检定藏匿或盗窃物品时，能够使用盗取战技（steal combat maneuver；APG）的CMB来替代巧手的调整值（Sleight of Hand modifier），不过如果你要这么做的话，则必须使用敏捷调整值而非力量调整值。即便物品被藏在包或袋子里，你也能够使用盗取战技偷窃物品（前提是你能够触及到放在内部的物品），但是在此情况下，敌人的CMD至少会获得+5加值（由于物体是被固定住的）。"
 }

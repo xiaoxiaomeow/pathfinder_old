@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "shield focus",
         "tower shield proficiency"
-    ]
+    ],
+    "name_zh": "铁壁流",
+    "text_zh": "你可以疾风般地挥舞塔盾。",
+    "prerequisites_zh": "力量13，盾牌专攻，擅长塔盾，BAB+1。",
+    "benefit_zh": "当你持用一面塔盾时，将盾牌的AC加值(包括增强加值)加到你对冲撞和闯越战技的CMD上。开启本流派后，你可以用移动动作使用塔盾制造沿着你所处空间一条边的全掩蔽。"
 }

@@ -10,5 +10,10 @@
     "text": "You have trained in the divine fighting technique of a specific deity.",
     "prerequisites": "Must worship a single patron deity that has an established divine fighting technique.",
     "benefit": "You can use your patron deity’s fighting technique and receive any benefit associated with that technique for which you qualify, as described in the Divine Fighting Techniques section below.",
-    "special": "A cleric, inquisitor, or warpriest who worships a deity can choose to give up either the first power of one of her domains or a minor blessing benefit to gain access to her god’s divine fighting technique without having to meet the technique’s prerequisites (including the Divine Fighting Technique feat). In addition, a warpriest can give up a major blessing to gain the advanced benefit without meeting its prerequisites."
+    "special": "A cleric, inquisitor, or warpriest who worships a deity can choose to give up either the first power of one of her domains or a minor blessing benefit to gain access to her god’s divine fighting technique without having to meet the technique’s prerequisites (including the Divine Fighting Technique feat). In addition, a warpriest can give up a major blessing to gain the advanced benefit without meeting its prerequisites.",
+    "name_zh": "神圣武器技法",
+    "text_zh": "你学习了某一神祇所用的偏好武器的格斗技巧。",
+    "prerequisites_zh": "与所选神祇阵营相同。",
+    "benefit_zh": "选择一个神祇，你可以按照你已经达到的先决条件获得使用该神祇的<a href=\"pages/divine_weapon_technique.html\">武器技法<\/a>的好处，如同以下列出的神圣武器技法所示。",
+    "normal_zh": "你可以多次选择本专长，每次选择本专长时，它必须属于一个新的神祇的神圣武器技法。"
 }

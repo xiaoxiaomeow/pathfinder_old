@@ -7,5 +7,9 @@
     "text": "You clear your mind of stress and emotion by focusing on calming breathing exercises.",
     "prerequisites": "Wis 11, Meditation Master.",
     "benefit": "For 24 hours after you meditate, you gain a +1 bonus on Will saving throws against charm, compulsion, emotion, and fear effects, and increase the Bluff DC to feint you and the Intimidate DC to demoralize you by +5. These bonuses increase by 1 for every 5 Hit Dice you have to a maximum increase of +4 at 20 Hit Dice.",
-    "prerequisiteKeys": ["meditation master"]
+    "prerequisiteKeys": ["meditation master"],
+    "name_zh": "正念冥想",
+    "text_zh": "你通过平静的吐纳练习来清除你脑内的焦虑与情绪。",
+    "prerequisites_zh": "感知11，冥想大师。",
+    "benefit_zh": "在你冥想后的24小时内，你在对抗魅惑，胁迫，情绪和恐惧效果时，你的意志豁免获得+1加值，并且对你进行虚招的唬骗检定DC和挫败士气的威吓检定DC+5。这个加值每5HD+1，并在20HD时最大+4"
 }

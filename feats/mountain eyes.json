@@ -6,5 +6,9 @@
     "text": "Your gaze cuts through vapors with ease.",
     "prerequisites": "Blind-Fight, Perception 5 ranks.",
     "benefit": "You ignore concealment (but not total concealment) caused by fog, rain, smoke, wind, and other gases or weather effects (including magical effects like obscuring mist), and you ignore up to –4 in penalties on Perception checks from such effects. You treat total concealment resulting from any such gas or weather effects within 10 feet of you as concealment (20% miss chance).",
-    "prerequisiteKeys": ["blind-fight"]
+    "prerequisiteKeys": ["blind-fight"],
+    "name_zh": "群山之眼",
+    "text_zh": "你的目光可以轻松穿过云雾。",
+    "prerequisites_zh": "盲斗，察觉5级。",
+    "benefit_zh": "你会无视由雾，雨，烟，风或者其他气体以及天气效果（包括魔法效果，比如隐雾术）带来的隐蔽（不包括全隐蔽），并且你可以无视这种环境给予察觉检定的-4减值。你把10尺以内任何气体或天气效果造成的全隐蔽视为隐蔽（20%失手率）。"
 }

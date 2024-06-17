@@ -5,5 +5,9 @@
     "source": ["Heroes of Golarion pg. 10"],
     "text": "Your questionable hygiene choices may offend your allies, but exposure has inured them to other, deadlier effects.",
     "prerequisites": "Goblin.",
-    "benefit": "Allies within 5 feet of you receive a +2 morale bonus on Fortitude saving throws. This bonus ends as soon as they move more than 5 feet away from you. This bonus applies only to allies you have fought alongside at least once before."
+    "benefit": "Allies within 5 feet of you receive a +2 morale bonus on Fortitude saving throws. This bonus ends as soon as they move more than 5 feet away from you. This bonus applies only to allies you have fought alongside at least once before.",
+    "name_zh": "强健恶臭",
+    "text_zh": "你糟糕的卫生或许会冒犯你的盟友，但长期暴露其中却使他们习惯并能抵抗其他更为致命的影响。",
+    "prerequisites_zh": "地精。",
+    "benefit_zh": "距离你5尺或以内的盟友在强韧豁免检定中获得+2士气加值。当他们距离你超过5尺时该加值即时失去。该加值只适用于曾与你并肩作战至少一次的盟友。"
 }

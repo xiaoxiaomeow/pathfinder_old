@@ -6,5 +6,9 @@
     "source": ["Magic Tactics Toolbox pg. 5"],
     "text": "Your spells cover targets across a larger area.",
     "prerequisites": "Caster level 3rd.",
-    "benefit": "You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level."
+    "benefit": "You can alter a spell that targets a number of creatures no more than 30 feet apart, such as haste. The maximum distance apart of those you target with the spell increases to 60 feet. A vast spell uses up a spell slot 1 level higher than the spell’s actual level.",
+    "name_zh": "广域法术",
+    "text_zh": "你的法术覆盖更大的区域中的目标。",
+    "prerequisites_zh": "施法者等级3级。",
+    "benefit_zh": "你能调整一个目标为任意两者间距离不超过30尺的多个生物的法术（如加速术）。该法术目标间两两最大距离提高到60尺。广域法术占用比原法术环级高1级的法术位。"
 }

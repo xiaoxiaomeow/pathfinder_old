@@ -10,5 +10,9 @@
     "prerequisiteKeys":     [
         "beartrap bite",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "熊抱",
+    "text_zh": "你能用有力的上肢粉碎敌人。",
+    "prerequisites_zh": "力量17，陷阱熊咬，武器专攻（啮咬），BAB+8。",
+    "benefit_zh": "你能对一个被你熊咬住的目标尝试擒抱而不引发借机攻击。你对你擒抱的目标的伤害骰得到+2加值。"
 }

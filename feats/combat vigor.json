@@ -6,5 +6,9 @@
     "source": ["Healer's Handbook pg. 14"],
     "text": "You can quickly recuperate from devastating attacks without divine assistance.",
     "prerequisites": "Con 13.",
-    "benefit": "You gain a vigor pool with a maximum number of points equal to your Constitution bonus. As a standard action, you can spend up to 1 vigor point per 3 Hit Dice you have (minimum 1) to regain 1d6 hit points per vigor point spent (maximum 7d6). Each time you spend vigor points, you become fatigued for 1 minute. You cannot spend vigor points while fatigued or exhausted. Spending vigor points doesn’t provoke attacks of opportunity. The points in your vigor pool are replenished to their maximum after you rest for 8 hours."
+    "benefit": "You gain a vigor pool with a maximum number of points equal to your Constitution bonus. As a standard action, you can spend up to 1 vigor point per 3 Hit Dice you have (minimum 1) to regain 1d6 hit points per vigor point spent (maximum 7d6). Each time you spend vigor points, you become fatigued for 1 minute. You cannot spend vigor points while fatigued or exhausted. Spending vigor points doesn’t provoke attacks of opportunity. The points in your vigor pool are replenished to their maximum after you rest for 8 hours.",
+    "name_zh": "战斗活力",
+    "text_zh": "你可以迅速从毁灭性的攻击中回覆而不借助神圣援助。",
+    "prerequisites_zh": "体质13。",
+    "benefit_zh": "你获得一个最大值等于你体质加值的活力池。以一个标准动作，你可以花费每3个HD1点的活力点（最少1）来恢复每点活力1D6点的生命值（最高7D6）。每次你花费活力点，你会变得疲乏，持续1分钟。你不能在疲乏或力竭状态下花费活力点。花费活力点不会引起借机攻击。在你休息8小时后，这个活力池会恢复到最大值。"
 }

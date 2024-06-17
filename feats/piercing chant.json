@@ -5,5 +5,9 @@
     "source": ["Heroes of Golarion pg. 9"],
     "text": "Music plays a key role in goblin culture—at the very least, goblins are fond of cacophonous chants describing the last enemy they slew or what they’re roasting for dinner. You have gathered, however, that non-goblins don’t appreciate your songs very much.",
     "prerequisites": "Goblin.",
-    "benefit": "As a full-round action, you can sing a song so terrible and ear-splitting that each enemy within 15 feet of you that hears it must succeed at a Will save or be dazed for 1 round. The DC of this saving throw is equal to 10 + half your level + your Charisma modifier. Whether or not the initial save is successful, a creature cannot be affected by this ability again for 24 hours. This is a mind-affecting effect."
+    "benefit": "As a full-round action, you can sing a song so terrible and ear-splitting that each enemy within 15 feet of you that hears it must succeed at a Will save or be dazed for 1 round. The DC of this saving throw is equal to 10 + half your level + your Charisma modifier. Whether or not the initial save is successful, a creature cannot be affected by this ability again for 24 hours. This is a mind-affecting effect.",
+    "name_zh": "刺耳歌唱",
+    "text_zh": "音乐在地精文化中至关重要——至少，地精喜欢用尖锐刺耳的歌曲来描述它们如何杀死最后一个敌人或者他们晚餐烤了什么。不过，你已经知道非地精并不会喜欢你的歌喉。",
+    "prerequisites_zh": "地精。",
+    "benefit_zh": "你可以以一个整轮动作吟唱恐怖又震耳欲聋的歌曲，每个在你15尺范围内能够听到它的敌人必须通过一个意志豁免检定（DC=10+你等级的一半+你的魅力调整值）否则晕眩（Dazed）一轮。无论豁免是否成功，该生物在24小时内不能再次成为该能力的目标。这是一个影响心灵效果。"
 }

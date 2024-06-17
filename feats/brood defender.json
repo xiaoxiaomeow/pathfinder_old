@@ -4,7 +4,14 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Brood%20Defender",
     "source": ["Legacy of Dragons pg. 19"],
     "text": "When someone under your protection is set upon, you react viciously against the attacker.",
-    "prerequisites": "Bodyguard<sup>APG<\/sup>, Combat Reflexes, wyvaran.",
+    "prerequisites": "Bodyguard, Combat Reflexes, wyvaran.",
     "benefit": "If an opponent misses its attack on an ally after you successfully used the aid another action to improve that ally’s AC this round, you can attempt an Intimidate check as an immediate action to demoralize that opponent.",
-    "prerequisiteKeys": ["combat reflexes"]
+    "prerequisiteKeys":     [
+        "bodyguard",
+        "combat reflexes"
+    ],
+    "name_zh": "巢穴守卫者",
+    "text_zh": "当某人在你的保护之下被袭击时，你立刻反抗攻击者。",
+    "prerequisites_zh": "保镖，战斗反射，翼龙人。",
+    "benefit_zh": "如果一个盟友在这轮通过你成功地使用援助他人提高AC之后，躲过了敌人的攻击，你可以尝试以直觉动作进行一次威吓检定来挫败这个敌人的士气。"
 }

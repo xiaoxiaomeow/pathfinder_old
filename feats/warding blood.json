@@ -6,5 +6,9 @@
     "text": "Your ethereal venom is strong enough to repel anyone who attempts to cross through it.",
     "prerequisites": "Ghostbane Ichor, Knowledge (religion) 13 ranks, vishkanya.",
     "benefit": "You can spend 10 minutes and two uses of your vishkanya venom to coat an area no larger than 10 feet by 10 feet with your blood. This creates a <i>forbiddance effect<\/i>, using your character level as your caster level (maximum 20). The save DC of this effect is equal to 15 + your Charisma modifier. Creatures that take damage from the <i>forbiddance<\/i> effect are also exposed to your vishkanya venom. If you have abilities that alter the effects of your venom, you must choose which effect applies when you create the venomous area.",
-    "prerequisiteKeys": ["ghostbane ichor"]
+    "prerequisiteKeys": ["ghostbane ichor"],
+    "name_zh": "守护之血",
+    "text_zh": "你超凡的毒液强大到了可以阻止任何试图穿越它的人。",
+    "prerequisites_zh": "鬼咒脓液，知识（宗教）13级，蝮血裔。",
+    "benefit_zh": "你可以花费10分钟时间以及两次蝮血毒使用次数，来用你的血液创造一个不超过10尺*10尺的区域。这会形成一个禁制术（forbiddance）效果，以你的角色等级作为施法者等级（最高20）。这个效果的豁免DC=15+你的魅力调整值。受到禁制术效果伤害的生物同样会暴露于你的蝮血毒中。如果你有能力可以改变毒液的效果，你必须在创造毒液区域时就决定应用哪种效果。"
 }

@@ -8,5 +8,9 @@
     "prerequisites": "Weapon Focus, base attack bonus +12.",
     "benefit": "Choose one weapon with which you have the Weapon Focus feat. When you strike an opponent that has a chance of negating critical hits or sneak attacks, such as from the fortification armor special ability, reduce that chance by 25%. Treat creatures that are normally immune to critical hits and sneak attacks as instead having a 75% chance to negate the critical hit or sneak attack, taking only the attack’s normal damage.",
     "special": "You can take this feat multiple times. Each time you take the feat, it applies to a different weapon.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "解剖专家",
+    "text_zh": "你知道如何对最模糊的目标进行致命打击。",
+    "prerequisites_zh": "武器专攻，BAB+12。",
+    "benefit_zh": "选择一种你具有“武器专攻”的武器，当你用其攻击一个有几率免受重击或偷袭伤害的敌人时(如来自防具的护命附魔)，降低其25%的几率。对于通常免疫重击和偷袭的敌人，改为有75%的几率免受重击或偷袭，只受到普通伤害。<\/p><p>特殊:你可以多次选择这个专长。每次选择本专长，它将应用于不同的武器。"
 }

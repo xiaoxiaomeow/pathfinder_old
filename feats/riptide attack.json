@@ -8,9 +8,16 @@
         "Faiths of Balance pg. 24"
     ],
     "text": "You can immediately drag opponents you successfully trip.",
-    "prerequisites": "Improved Drag<sup>APG<\/sup>, Improved Trip, worshiper of Gozreh.",
+    "prerequisites": "Improved Drag, Improved Trip, worshiper of Gozreh.",
     "benefit": "Whenever you succeed at a trip combat maneuver, you can automatically attempt a drag combat maneuver against your tripped target as a swift action.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
-    "staminaText": "By spending 4 stamina points, you can attempt a drag<sup>APG<\/sup> combat maneuver check against any opponent that you successfully trip using Riptide Attack as a free action instead of a swift action.",
-    "prerequisiteKeys": ["improved trip"]
+    "staminaText": "By spending 4 stamina points, you can attempt a drag combat maneuver check against any opponent that you successfully trip using Riptide Attack as a free action instead of a swift action.",
+    "prerequisiteKeys":     [
+        "improved drag",
+        "improved trip"
+    ],
+    "name_zh": "激流冲压",
+    "prerequisites_zh": "精通拖拽APG，精通摔绊，信仰格兹雷。",
+    "benefit_zh": "当你成功的发动一次摔绊战技攻击时，你可以以一个迅捷动作，自动再对目标进行一次拖拽战技攻击尝试。",
+    "staminaText_zh": "通过消耗4点耐力，当你成功用激流冲压发动一次绊摔战技攻击时，你可以以一个自由动作而不是迅捷动作，对被绊摔成功的目标尝试一次拖拽战技。"
 }

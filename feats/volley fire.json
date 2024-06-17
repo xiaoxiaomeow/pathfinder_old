@@ -10,5 +10,9 @@
     "text": "You have trained to work in ranks of archers to rain arrows down upon your foes.",
     "prerequisites": "Point-Blank Shot.",
     "benefit": "You gain a +1 bonus on ranged attack rolls for each ally with this feat who made a ranged attack since the end of your last turn against a target within 15 feet of your target, to a maximum of +4. These allies don’t provide cover against your attacks.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "排队枪毙",
+    "text_zh": "你受过站成一排进行齐射的相关训练。",
+    "prerequisites_zh": "近程射击。",
+    "benefit_zh": "从你上一个回合结束到现在为止，每一个习得该专长的盟友远程攻击距你的目标15尺内的敌人时都可以为你的远程攻击提供+1加值(最高叠加到+4)。且这些盟友不会为你的敌人提供掩蔽。"
 }

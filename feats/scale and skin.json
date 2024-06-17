@@ -5,5 +5,9 @@
     "source": ["Magic Tactics Toolbox pg. 5"],
     "text": "When you are changed by magic, your skin also toughens.",
     "prerequisites": "Con 13.",
-    "benefit": "Whenever a transmutation spell or spell-like ability affects you, your natural armor bonus increases by 1. If you have no natural armor bonus to Armor Class, treat your natural armor bonus as 0 for the purposes of this feat. The bonus to your natural armor bonus increases by 2 if the caster level of the effect is 10th or higher."
+    "benefit": "Whenever a transmutation spell or spell-like ability affects you, your natural armor bonus increases by 1. If you have no natural armor bonus to Armor Class, treat your natural armor bonus as 0 for the purposes of this feat. The bonus to your natural armor bonus increases by 2 if the caster level of the effect is 10th or higher.",
+    "name_zh": "鳞片与毛皮",
+    "text_zh": "当你被魔法改变时，你的毛皮同样变得坚韧。",
+    "prerequisites_zh": "体质13。",
+    "benefit_zh": "每当一个变化系法术或者类法术能力影响你，你的天生防御加值+1。如果你在AC上没有天防加值，计算该专长前将你的天防加值视为0。如果该效果的施法者等级至少有10级，你天防上的加值再+2。<\/p><p>编注：原文是whenever，中文即是每当，但不代表自身可重复叠加。"
 }

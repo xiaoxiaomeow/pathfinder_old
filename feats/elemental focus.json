@@ -8,10 +8,13 @@
     "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take this feat, it applies to a new energy type.",
     "mythicSource": "Mythic Adventures pg. 64",
     "mythicText": "Your elemental spells are potent and effective.",
-    "mythicPrerequisites": "Elemental Focus<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Elemental Focus.",
     "mythicBenefit": "Choose an energy type in which you already have Elemental Focus. The increase to save DC provided by Elemental Focus and Greater Elemental Focus for spells of the selected energy type is 1 higher. When casting a spell with this energy type’s descriptor, you can expend one use of mythic power as part of the casting to force the spell’s targets to roll their saving throws twice, taking the lower result.",
     "name_zh": "元素专攻",
     "text_zh": "你所施放的某种元素法术会更加难以抵御。",
     "benefit_zh": "选择一种能量类型（强酸，寒冷，闪电或者火焰）。所有造成此类能量伤害的法术，其豁免DC提高1点。",
-    "special_zh": "你可以多次选取该专长。其效果不会叠加。每次选取该专长都会应用到一种新的能量类型上。"
+    "special_zh": "你可以多次选取该专长。其效果不会叠加。每次选取该专长都会应用到一种新的能量类型上。",
+    "mythicText_zh": "你的元素法术强而有力、行之有效。",
+    "mythicPrerequisites_zh": "元素专攻",
+    "mythicBenefit_zh": "选择一项你已经具有元素专攻专长的能量类型。元素专攻（Elemental Focus）与高等元素专攻（Greater Elemental Focus）对所选能量类型的法术提供的豁免DC加值增加1点。当你施放的法术具有此种能量类型的描述符时，作为施法的一部分，你能够花费1次神话之力迫使法术的目标进行两次豁免检定，并取较低结果。"
 }

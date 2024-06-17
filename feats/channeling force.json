@@ -11,6 +11,7 @@
     "staminaText": "When you hit with an attack while using this feat, you can spend 5 stamina points to not have that attack count as one of the three attacks you can make with the force-imbued weapon.",
     "name_zh": "引导力刃",
     "text_zh": "你引导的能量化为锋锐的力场结附在武器之上",
-    "prerequisites_zh": "可以施放至少一个力场法术（Force Spell），引导能量职业能力",
-    "benefit_zh": "以一个迅捷动作，你可以消耗一次本日的引导能量，使你的武器攻击获得相当于你引导能量骰数的额外伤害。本伤害是力场伤害。这个效果持续3次攻击或是战斗结束，取其先者。"
+    "prerequisites_zh": "可以施放至少一个力场法术（Force Spell），引导能量职业能力。",
+    "benefit_zh": "以一个迅捷动作，你可以消耗一次本日的引导能量，使你的武器攻击获得相当于你引导能量骰数的额外伤害。本伤害是力场伤害。这个效果持续3次攻击或是战斗结束，取其先者。",
+    "staminaText_zh": "引导利刃命中敌人时，你可以选择花费5点耐力，令此次攻击不计入持续3次的限额中。"
 }

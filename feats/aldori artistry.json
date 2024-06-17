@@ -6,10 +6,13 @@
     "source": ["Adventurer's Guide pg. 24"],
     "text": "You can do more with your blade than slash and stab.",
     "prerequisites": "Exotic Weapon Proficiency (Aldori dueling sword), Weapon Finesse, base attack bonus +2.",
-    "benefit": "Choose one of the following combat maneuvers: disarm, reposition<sup>APG<\/sup>, steal<sup>APG<\/sup>, sunder, or trip. You gain a +2 bonus when performing the selected maneuver while wielding an Aldori dueling sword. This bonus does not stack with the bonus provided by a combat maneuver feat with “improved” in its name (such as Improved Trip).",
+    "benefit": "Choose one of the following combat maneuvers: disarm, reposition, steal, sunder, or trip. You gain a +2 bonus when performing the selected maneuver while wielding an Aldori dueling sword. This bonus does not stack with the bonus provided by a combat maneuver feat with “improved” in its name (such as Improved Trip).",
     "special": "You can select this feat multiple times, choosing a different combat maneuver each time.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
         "weapon finesse"
-    ]
+    ],
+    "name_zh": "奥多里战斗技艺",
+    "prerequisites_zh": "异种武器擅长（奥多里决斗剑），武器娴熟，BAB+2。",
+    "benefit_zh": "选择以下战技之一：卸武，移位、偷盗、破武或摔绊。当你挥舞着奥多里决斗剑进行选择的战技时，你会获得+2加值。这个加值不会与“精通”类的战技专长相叠加（如精通摔绊）。<\/p><p>特别的：你可以多次选择这个专长，每次选择额外选择一项战技。"
 }

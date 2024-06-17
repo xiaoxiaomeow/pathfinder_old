@@ -10,5 +10,9 @@
     "text": "You bear intricate tattoos that inspire and empower your natural magic ability. These tattoos mark you as a worker of the ancient traditions of Varisian magic. A Varisian tattoo typically consists of a long string of complex characters from the Thassilonian alphabet.",
     "prerequisites": "Spell Focus.",
     "benefit": "Select a school of magic (other than divination) in which you have Spell Focus—you cast spells from this school at +1 caster level. Additionally, you gain a single spell-like ability usable up to three times per day. The spell-like ability gained (and its Varisian name) are as follows:<br><br><i>Abjuration (avidais): resistance<\/i><br><i>Conjuration (idolis): acid splash<\/i><br><i>Enchantment (carnasia): daze<\/i><br><i>Evocation (ragario): dancing lights<\/i><br><i>Illusion (vangloris): ghost sound<\/i><br><i>Necromancy (voratalo): touch of fatigue<\/i><br><i>Transmutation (avaria): mage hand<\/i>",
-    "prerequisiteKeys": ["spell focus"]
+    "prerequisiteKeys": ["spell focus"],
+    "name_zh": "瓦瑞西安刺青",
+    "text_zh": "你身上所负有的刺青激发并增强你自身的魔法力量。这些刺青时刻提醒你是古老而又传统的瓦瑞西安（Varisian）魔法传承者。传统的瓦瑞西安刺青通常由一长串瑟西隆语（Thassilonian）字母表中的字符组成。",
+    "prerequisites_zh": "法术专攻。",
+    "benefit_zh": "选择一种你已经拥有对应的法术专攻专长的魔法学派（预言系之外的）——你施放该学派的法术时施法者等级+1级。此外，你获得一种每日可以使用3次的类法术能力。对应学派的类法术能力（以及它的瓦瑞西安名称）如后述所述：<\/p><p>防护系（avidais）：提升抗力（resistance）<\/p><p>咒法系（idolis）：酸液飞溅（acid splash）<\/p><p>附魔系（carnasia）：晕眩术（daze）<\/p><p>塑能系（ragario）：舞光术（dancing lights）<\/p><p>幻术系（vangloris）：幻音术（ghost sound）<\/p><p>死灵系（voratalo）：疲乏之触（touch of fatigue）<\/p><p>变化系（avaria）：法师之手（mage hand）"
 }

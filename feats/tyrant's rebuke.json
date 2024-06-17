@@ -6,5 +6,9 @@
     "source": ["Planar Adventures pg. 33"],
     "text": "By decree of Asmodeus, Hell is a place antithetical to free will; wielding its power humbles foes and renders them vulnerable to your commands. Those who you target with a pointed rebuke feel as if the disdain of Hell itself has turned its attention to their acts.",
     "prerequisites": "Knowledge (planes) 5 ranks.",
-    "benefit": "As a standard action, you can make a melee touch attack. A creature successfully hit by this touch attack must succeed at a Will save (DC = 10 + half your level + your Charisma modifier) or be staggered until the end of your next turn. If you use Tyrant’s Rebuke on a creature that is already staggered by this effect and it fails its Will save, it takes 1d4 points of Charisma damage in addition to being staggered.<br><br> You can use this feat once per day for every 5 ranks you have in Knowledge (planes)."
+    "benefit": "As a standard action, you can make a melee touch attack. A creature successfully hit by this touch attack must succeed at a Will save (DC = 10 + half your level + your Charisma modifier) or be staggered until the end of your next turn. If you use Tyrant’s Rebuke on a creature that is already staggered by this effect and it fails its Will save, it takes 1d4 points of Charisma damage in addition to being staggered.<br><br> You can use this feat once per day for every 5 ranks you have in Knowledge (planes).",
+    "name_zh": "暴君怒斥",
+    "text_zh": "奉阿斯摩蒂斯之令，地狱与自由意志势不两立，地狱之力使得击败强敌对你来说易如反掌，也使他们更容易被你的怒斥所伤。对于被你严加斥责之辈来说，仿佛地狱本身亦对其举止加以蔑视",
+    "prerequisites_zh": "知识（位面）5级。",
+    "benefit_zh": "以一个标准动作，你能进行一次近战接触攻击。被该种接触攻击成功击中的生物必须成功通过DC＝10+你等级的一半+你的魅力调整值的意志豁免，否则该生物陷入恍惚直到你下一轮行动结束。如果你对一个已经因本专长陷入恍惚的生物使用暴君怒斥且该生物再次未通过意志豁免，那么除了陷入恍惚之外其还会额外受到1d4点魅力伤害。你每天可使用一次本专长，此外你在知识（位面）上每增加5个等级，本专长每日使用次数+1。"
 }

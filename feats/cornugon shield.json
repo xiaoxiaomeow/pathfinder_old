@@ -7,5 +7,9 @@
     "text": "You can use your spiked chain as both armor and weapon.",
     "prerequisites": "Dex 15, Weapon Focus (spiked chain).",
     "benefit": "When wielding a spiked chain, you gain a +1 shield bonus to your AC. When you are fighting defensively or using the total defense action, this shield bonus increases to +2.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "角魔之防护",
+    "text_zh": "你使用你的刺链就好像同时使用武器与防具一样。",
+    "prerequisites_zh": "敏捷15，武器专攻（刺链）。",
+    "benefit_zh": "当你使用刺链时，你获得+1的盾牌AC。你使用防御式战斗或者全防御时，该加值提升至+2."
 }

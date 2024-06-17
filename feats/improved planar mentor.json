@@ -6,5 +6,9 @@
     "text": "As you grow, so too does your mentor’s influence.",
     "prerequisites": "Planar Mentor, character level 7th.",
     "benefit": "You can benefit from your Planar Mentor feat one additional time per day. While your mentor’s boon is active, weapons and natural weapons you wield overcome damage reduction as though they were weapons of that alignment (e.g., as good weapons for earning good approval). For neutral approval, your weapons and natural weapons overcome damage reduction as cold iron and silver weapons.<br><br> Once per day while benefiting from your mentor’s boon, you can cast one of the following spell-like abilities based on the active boon’s alignment (CL = your character level). Once you cast the spell-like ability, your mentor’s boon ends immediately.<br><br> <i>Chaotic<\/i>: <i>Chaos hammer<\/i>, <i>magic circle against law<\/i>, <i>summon monster IV<\/i> (chaotic outsiders only).<br><br> <i>Evil<\/i>: <i>Magic circle against good<\/i>, <i>summon monster IV<\/i> (evil outsiders only), <i>unholy blight<\/i>.<br><br> <i>Good<\/i>: <i>Holy smite<\/i>, <i>magic circle against evil<\/i>, <i>summon monster IV<\/i> (good outsiders only).<br><br> <i>Lawful<\/i>: <i>Magic circle against chaos<\/i>, <i>order’s wrath<\/i>, <i>summon monster IV<\/i> (lawful outsiders only).<br><br> <i>Neutral<\/i>: <i>Bestow curse<\/i>, <i>prayer<\/i>, <i>summon monster IV<\/i> (outsiders without alignment subtypes only).",
-    "prerequisiteKeys": ["planar mentor"]
+    "prerequisiteKeys": ["planar mentor"],
+    "name_zh": "进阶位面训导",
+    "text_zh": "随着你的成长，你的导师的影响力也会越来越大。",
+    "prerequisites_zh": "位面训导，角色等级7级。",
+    "benefit_zh": "你每天可以从你的位面训导专长中额外受益一次。当你的导师的恩惠处于激活状态时，你所持有的武器和天生武器能克服伤害减免，就像它们是该阵营的武器一样（例如，获得善良认可的视为善良武器）。对于中立阵营，你的武器和天生武器能如同寒铁和银制武器般克服伤害减免。<\/p><p>每天一次，当受益于导师的恩赐时，你可以根据恩赐的位面（CL=你的角色等级）施放以下一种类法术能力。一旦你施放了类法术能力，你的导师的恩惠就会立即结束。<\/p><p><ul><li>混乱：混沌之锤，反守序法阵，召唤怪物IV（仅限混乱异界生物）。<\/li><\/p><p><li>邪恶：反善良法阵，秽邪恶疫，召唤怪物IV（仅限邪恶异界生物）。<\/li><\/p><p><li>善良：神圣之裁，反邪恶法阵，召唤怪物IV（仅限善良异界生物）。<\/li><\/p><p><li>守序：反混乱法阵，秩序之怒，召唤怪物IV（仅限守序异界生物）。<\/li><\/p><p><li>中立：降咒、祈祷术、召唤怪物IV（仅限无位面子类的异界生物）。<\/li><\/ul>"
 }

@@ -9,5 +9,10 @@
     "benefit": "If you are the only character threatening an opponent and that opponent uses a combat feat (including taking an action that benefits from a combat feat, or gaining any bonus to AC, attack rolls, damage rolls, or saving throws from a combat feat), you can take an immediate action to gain the benefit of that feat until the end of your next turn. You must meet all the feat’s prerequisites. If a feat has a daily use limitation, as does Stunning Fist, any uses of that feat while you’re using Mirror Move count toward that feat’s daily limit for you. You can use Mirror Move once per day for every 4 levels you have attained.",
     "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend up to 5 stamina points to extend the duration that you benefit from a mirrored feat by 1 round per stamina point spent. (<I>Melee Tactics Toolbox 7<\/i>)",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "如影随形",
+    "text_zh": "通过模仿目标的移动方式，你可以尝试复制他的技巧。",
+    "prerequisites_zh": "智力13，寓守于攻，BAB+4。",
+    "benefit_zh": "若目标在使用战斗专长时（包括使用动作从战斗专长受益、从战斗专长获得AC攻击伤害骰豁免骰加值），你是唯一一个威胁目标的单位，你可立刻用一个直觉动作获得那个战斗专长的效果，直到你的下一轮结束。你必须满足该专长的所有先决条件。若该专长有每日使用次数限制，比如震慑拳，你使用该种专长的次数都会消耗你如影随形的每日使用次数。如影随影的每日使用次数为每4个等级1次。",
+    "staminaText_zh": "你可以消耗至多5点耐力来延长如影随形专长的效果，每消耗1点就能延长1轮。"
 }

@@ -13,5 +13,9 @@
     "text": "While in this style, you hamper foes that turn their backs on you.",
     "prerequisites": "Wis 13, Improved Unarmed Strike, Knowledge (nature) 3 ranks.",
     "benefit": "While using this style, whenever you deal at least 10 points of damage to a foe with an attack of opportunity, that foe’s base speed decreases by 5 feet until the end of its next turn. For every 10 points of damage your attack deals beyond 10, the foe’s base speed decreases by an additional 5 feet. If the penalty meets or exceeds the total base speed of the foe, you can attempt to trip the foe as a free action after the attack of opportunity is resolved.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "狼拳",
+    "text_zh": "处于这个流派中时，你可以阻碍背对你的敌人。",
+    "prerequisites_zh": "感知13，精通徒手打击，知识（自然）3级。",
+    "benefit_zh": "使用狼拳时，每当你的借机攻击对敌人造成至少10点伤害时，该敌人的基础移动速度就会降低5尺，直到其下个回合结束。你的攻击每比10点伤害再多造成10点，敌人的基础移动速度就会额外降低5尺。如果该罚值达到或超过敌人的总基础移动速度，那么你可以在执行借机攻击后以自由动作尝试拌摔。"
 }

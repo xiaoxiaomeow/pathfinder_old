@@ -8,7 +8,14 @@
     ],
     "source": ["Weapon Master's Handbook pg. 13"],
     "text": "You inspire great fear in your enemies.",
-    "prerequisites": "Bullying Blow<sup>ARG<\/sup>, Intimidating Prowess, Intimidate 3 ranks, weapon familiarity racial trait.",
+    "prerequisites": "Bullying Blow, Intimidating Prowess, Intimidate 3 ranks, weapon familiarity racial trait.",
     "benefit": "While wielding a greataxe, a falchion, or any melee weapon that has “orc” in its name, you can use the Bullying Blow feat with the first attack of a full-attack action or as part of a standard action to make one or more attacks (such as with the Cleave feat).",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys":     [
+        "bullying blow",
+        "intimidating prowess"
+    ],
+    "name_zh": "兽人暴怒斩",
+    "text_zh": "你能在敌群中散播恐惧。",
+    "prerequisites_zh": "威吓猛击，威逼，威吓3级，武器熟悉（Weapon Familiarity）种族特性。",
+    "benefit_zh": "当你持用巨斧（Greataxe）、弯刃大刀（Falchion）、或任何冠有“兽人（orc）”之名的近战武器时，能够以全力攻击（full-attack action）的首次攻击或以标准动作的一部分做出一次或更多次攻击（比如使用顺势斩专长）时使用威吓猛击（Bullying Blow）专长。"
 }

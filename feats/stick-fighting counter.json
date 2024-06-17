@@ -7,5 +7,9 @@
     "text": "Using stick-fighting techniques both defensively and offensively, you can turn your parries into counterattacks.",
     "prerequisites": "Stick-Fighting Style, base attack bonus +4.",
     "benefit": "While you are fighting defensively, as a free action you can select an opponent you have attacked on that turn and prepare yourself to counter one of its attacks. Once per round, when that opponent attempts a melee attack against you and the attack misses, the attacker provokes an attack of opportunity from you, provided that it is within your threatened area. You must use a club, quarterstaff, dan bong, sap, or tonfa to perform the attack of opportunity.",
-    "prerequisiteKeys": ["stick-fighting style"]
+    "prerequisiteKeys": ["stick-fighting style"],
+    "name_zh": "棍斗截击",
+    "text_zh": "结合棍斗技法的防御与攻击，你可以在招架中进行反击。",
+    "prerequisites_zh": "棍斗流，BAB+4。",
+    "benefit_zh": "当你防御式战斗时，你可以用一个自由动作选择一个你在当轮攻击过的敌人，准备招架他的一次攻击。每轮一次，当该敌人尝试对你进行近战攻击且失手时，攻击者如果处于你的威胁范围内，会引发你的一次借机攻击。你必须使用木棒，木棍，短棒，闷棍或旋棍执行借机攻击。"
 }

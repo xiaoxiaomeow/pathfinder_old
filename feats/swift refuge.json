@@ -7,5 +7,9 @@
     "text": "You quickly turn, forcing devastating blows to be blunted by the thickest part of your armor.",
     "prerequisites": "Str 13, Dex 13, Swift Iron Style, proficiency with medium armor.",
     "benefit": "Once per day when using Swift Iron Style, when you’re hit by a weapon, unarmed attack, or natural weapon, you can treat all dice other than the weapon’s base damage dice (including extra dice from sneak attack, critical hit, magic special weapon abilities, and Vital Strike) as having rolled 1s. You can use this ability a second time per day when your base attack bonus reaches +8, and a third time at +16.",
-    "prerequisiteKeys": ["swift iron style"]
+    "prerequisiteKeys": ["swift iron style"],
+    "name_zh": "金雕·卸",
+    "text_zh": "你灵活的移动，使用盔甲最厚实的地方抵挡敌人毁灭性的打击。",
+    "prerequisites_zh": "力量13，敏捷13，金雕流，擅长中甲。",
+    "benefit_zh": "开启金雕流时，每天一次，当你被武器，徒手，天生武器击中时，将除了武器基本伤害骰外的所有伤害骰都视为已骰出1(包括由偷袭，重击，魔法特殊武器能力和要害打击提供的骰子)。在你BAB达到+8时每天可以使用第二次，+16时第三次。"
 }

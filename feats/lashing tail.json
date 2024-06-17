@@ -7,5 +7,9 @@
     "text": "Your tail is either thick and heavy enough to serve as a weapon, or else is adorned with barbs or quills that weaponize its lashing length.",
     "prerequisites": "Grasping Tail, you must have a tail.",
     "benefit": "You gain a tail slap natural attack that deals damage as appropriate for your size (1d6 points for a Medium creature, or 1d4 points for a small creature). When you first gain this feat, choose bludgeoning, piercing, or slashing; this is the type of damage your tail inflicts, and it cannot be later changed. Due to the inherent awkwardness of attacking with your tail, you can’t make a tail slap attack and other natural weapon attacks as part of the same full attack. Treat your tail slap attack as a secondary attack if you also attack with a manufactured weapon as part of a full-attack action.",
-    "prerequisiteKeys": ["grasping tail"]
+    "prerequisiteKeys": ["grasping tail"],
+    "name_zh": "鞭击用尾巴",
+    "text_zh": "你的尾巴可能既厚又重，或者长有倒钩或刺羽，在他挥动时化作武器的优势。",
+    "prerequisites_zh": "贪婪之尾，你必须拥有尾巴。",
+    "benefit_zh": "你获得尾扫天生攻击，造成适合你体型的伤害（中型生物1d6，小型生物1d4）。当你首次获得此专长时，选择钝击、穿刺或挥砍；此为你的尾扫的伤害类型而且不能在及后改变。由于与生俱来用尾巴进攻的尴尬，你不能进行尾扫攻击和其他天生武器攻击作为同一全回合攻击的一部分。若你以人造武器攻击作为全回合攻击行动的一部分，将你的尾扫攻击视为次要天生攻击。"
 }

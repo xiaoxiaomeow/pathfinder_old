@@ -8,7 +8,7 @@
     "prerequisites": "Improved Reposition, Improved Trip, Improved Unarmed Strike, Pummeling Style; base attack bonus +9, brawler level 5th, or monk level 5th.",
     "benefit": "When you use Pummeling Style to make an entire full attack or flurry of blows against a single target, if you hit with any of your attacks, you can attempt a reposition or trip combat maneuver check as a free action.",
     "staminaSource": "Pathfinder Unchained pg. 129",
-    "staminaText": "When you hit with a Pummeling Style<sup>ACG<\/sup> attack, you can spend 2 stamina points to make a bull rush attempt as a free action instead of a reposition attempt.",
+    "staminaText": "When you hit with a Pummeling Style attack, you can spend 2 stamina points to make a bull rush attempt as a free action instead of a reposition attempt.",
     "prerequisiteKeys":     [
         "improved reposition",
         "improved trip",
@@ -17,6 +17,7 @@
     ],
     "name_zh": "刚掌波",
     "text_zh": "你的力道刚猛无比，足以将弱者吹走或掀翻。",
-    "prerequisites_zh": "精通复位（Improved Reposition）APG，精通摔绊，精通徒手击打，刚烈掌，基础攻击加值+9或拳师等级5或武僧等级5",
-    "benefit_zh": "在使用刚烈掌流派时，若全回合疾风连击只针对单个目标，则你伴随攻击可以发动一次复位或摔绊战技攻击尝试。"
+    "prerequisites_zh": "精通复位（Improved Reposition）APG，精通摔绊，精通徒手击打，刚烈掌，BAB+9或拳师等级5或武僧等级5。",
+    "benefit_zh": "在使用刚烈掌流派时，若全回合疾风连击只针对单个目标，则你伴随攻击可以发动一次复位或摔绊战技攻击尝试。",
+    "staminaText_zh": "当你使用刚烈掌进行攻击时，你可以消耗2点耐力来以一个自由动作做出一次冲撞而不是移位尝试。"
 }

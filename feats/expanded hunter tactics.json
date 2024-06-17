@@ -5,6 +5,10 @@
     "descriptors": ["Combat"],
     "source": ["Monster Hunter's Handbook pg. 5"],
     "text": "You’re able to train your allies as you do your animal companion.",
-    "prerequisites": "Hunter tactics<sup>ACG<\/sup> class feature.",
-    "benefit": "As a move action, you can grant a teamwork feat you know to a single ally within 30 feet who can see and hear you. The selected ally gains the benefits of this bonus feat for 1 round plus 1 additional round for every 2 character levels you have, but only while the ally is adjacent to you or your animal companion. A given ally can benefit from this feat only once per day."
+    "prerequisites": "Hunter tactics class feature.",
+    "benefit": "As a move action, you can grant a teamwork feat you know to a single ally within 30 feet who can see and hear you. The selected ally gains the benefits of this bonus feat for 1 round plus 1 additional round for every 2 character levels you have, but only while the ally is adjacent to you or your animal companion. A given ally can benefit from this feat only once per day.",
+    "name_zh": "扩展猎人战术",
+    "text_zh": "你可以像训练动物伙伴一样训练你的盟友。",
+    "prerequisites_zh": "猎人战术职业特性。",
+    "benefit_zh": "以一个移动动作，你可以将你知道的一个团队专长分享给一个在30英尺内能看到且听到你的队友。被选中的队友获得此专长的效果，持续1+你每2级额外1轮，但仅限于当此队友与你或你的动物伙伴相邻时。一名特定的盟友每天只能从该专长中受益一次。"
 }

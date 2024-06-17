@@ -8,6 +8,10 @@
     ],
     "source": ["Magic Tactics Toolbox pg. 13"],
     "text": "Your painful stare unnerves your target, making it oblivious to its surroundings.",
-    "prerequisites": "Mesmerist level 5th, painful stare<sup>OA<\/sup> class feature.",
-    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or take a –6 penalty on Disable Device and Perception checks and a –2 penalty on Reflex saves for the next minute. If the target has the trap finding or trap sense class ability and fails this save, the target also loses the benefit of that ability (or abilities) for 1 minute."
+    "prerequisites": "Mesmerist level 5th, painful stare class feature.",
+    "benefit": "When you trigger your painful stare, the target must succeed at a Will save (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or take a –6 penalty on Disable Device and Perception checks and a –2 penalty on Reflex saves for the next minute. If the target has the trap finding or trap sense class ability and fails this save, the target also loses the benefit of that ability (or abilities) for 1 minute.",
+    "name_zh": "脱节凝视",
+    "text_zh": "你的痛苦注视让你的目标失常，无法注意他的周围。",
+    "prerequisites_zh": "催眠师5级，痛苦注视职业能力。",
+    "benefit_zh": "当你触发你的痛苦注视，目标必须通过一个意志豁免(DC=10+1/2催眠师等级+魅力调整)，否则要在解除装置和察觉技能检定上承受-6罚值，反射豁免检定承受-2罚值，持续1分钟。如果目标拥有寻找陷阱或陷阱感知职业能力且在豁免中失败，目标还会失去这些职业能力1分钟。"
 }

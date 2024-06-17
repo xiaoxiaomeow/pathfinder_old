@@ -7,5 +7,9 @@
     "text": "You can directly manipulate your autonomic functions.",
     "prerequisites": "Wis 11, Meditation Master.",
     "benefit": "For 24 hours after you meditate, you gain a +1 bonus on Fortitude saving throws against poison, disease, starvation, and effects that would make you fatigued or exhausted. You need only half as much food to avoid starvation, half as much water to avoid dehydration, and half as much sleep to heal injuries, avoid fatigue or exhaustion, and prepare spells.",
-    "prerequisiteKeys": ["meditation master"]
+    "prerequisiteKeys": ["meditation master"],
+    "name_zh": "身体制御",
+    "text_zh": "你可以立即调整你的自主神经功能。",
+    "prerequisites_zh": "感知11，冥想大师。",
+    "benefit_zh": "在你冥想后的24小时内，你在对抗毒素，疾病，饥饿和其他会令你疲乏或力竭的效果时强韧豁免获得+1加值。你只需要一半的食物就可以避免饥饿，一半的水分就可以避免脱水以及一半的睡眠时间来恢复伤害，避免疲乏或力竭以及重新准备法术。"
 }

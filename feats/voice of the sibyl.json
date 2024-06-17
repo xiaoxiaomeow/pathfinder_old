@@ -8,10 +8,13 @@
     "benefit": "You get a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks. If you have 10 or more ranks in one of these skills, the bonus increases to +3 for that skill. You do not get these bonuses if you do not use your voice when using the skill (such as using Bluff to feint in combat).",
     "mythicSource": "Mythic Adventures pg. 77",
     "mythicText": "You overpower weaker and more vulnerable minds with your voice alone.",
-    "mythicPrerequisites": "Voice of the Sibyl<sup>UM<\/sup>.",
+    "mythicPrerequisites": "Voice of the Sibyl.",
     "mythicBenefit": "You gain a +1 bonus on all Bluff, Diplomacy, and Perform (oratory) skill checks for every 3 tiers you possess. This bonus stacks with the bonus from Voice of the Sibyl. If you have 10 or more ranks in at least two of these skills, gain a +2 bonus to the DC of any language-dependent spell you cast.",
     "name_zh": "贤者之音",
     "text_zh": "你的声音是如此的奇妙而又得引人入胜。",
     "prerequisites_zh": "魅力15。",
-    "benefit_zh": "你在所有的唬骗、交涉、表演（演讲）检定上获得+1加值。如果你在这些技能上拥有10或更高的等级，则加值增加为+3。如果你在使用这些技能时并未出声，则加值不生效（例如战斗中使用唬骗进行虚招）。"
+    "benefit_zh": "你在所有的唬骗、交涉、表演（演讲）检定上获得+1加值。如果你在这些技能上拥有10或更高的等级，则加值增加为+3。如果你在使用这些技能时并未出声，则加值不生效（例如战斗中使用唬骗进行虚招）。",
+    "mythicText_zh": "仅仅使用你的声音，就已经能够压制弱者和意志脆弱的人。",
+    "mythicPrerequisites_zh": "贤者之音",
+    "mythicBenefit_zh": "每拥有3个阶层，你就能够在唬骗、交涉以及表演（演讲）技能检定中获得+1加值。这些加值与贤者之音专长的叠加。若你在其中至少两项技能中拥有10或更高的等级，那么任何你所施放的依赖语言法术DC获得+2加值。"
 }

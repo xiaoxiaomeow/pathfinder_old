@@ -6,5 +6,9 @@
     "source": ["Halflings of Golarion pg. 23"],
     "text": "The larger a creature is, the easier you find it to strike a vulnerable spot when attacking with a sling.",
     "prerequisites": "Proficient with sling.",
-    "benefit": "Your attacks with all kinds of slings add a +1 bonus on damage rolls for every size category your opponent is larger than you. For example, if you are Small and your opponent Large (a difference of two sizes), you gain a +2 damage bonus. This is considered precision damage and is not multiplied on a critical hit."
+    "benefit": "Your attacks with all kinds of slings add a +1 bonus on damage rolls for every size category your opponent is larger than you. For example, if you are Small and your opponent Large (a difference of two sizes), you gain a +2 damage bonus. This is considered precision damage and is not multiplied on a critical hit.",
+    "name_zh": "大型目标",
+    "text_zh": "越大的敌人越容易被你的投石索打中要害。",
+    "prerequisites_zh": "擅长投石索。",
+    "benefit_zh": "你使用任何投石索攻击时，目标体型比你每大一级，伤害+1。例如你的体型是小型，攻击一个大型生物，就会造成额外2点伤害（因为体型差2级）。这是基于精准的伤害，在重击时不翻倍。"
 }

@@ -5,7 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Ultimate Intrigue pg. 80"],
     "text": "You can escape an area effect by throwing an enemy in its path to shield yourself.",
-    "prerequisites": "Int 13, Combat Expertise, Improved Reposition<sup>APG<\/sup>, evasion class feature.",
-    "benefit": "When you successfully use your evasion class feature to avoid taking damage from an effect that allows a Reflex saving throw, you can attempt a special reposition<sup>APG<\/sup> combat maneuver check against any one foe within reach as an immediate action. If successful, you switch positions with the target of your combat maneuver. If your foe was not initially within range of the effect that you evaded, it must save against the effect as if it had been within the area of effect.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisites": "Int 13, Combat Expertise, Improved Reposition, evasion class feature.",
+    "benefit": "When you successfully use your evasion class feature to avoid taking damage from an effect that allows a Reflex saving throw, you can attempt a special reposition combat maneuver check against any one foe within reach as an immediate action. If successful, you switch positions with the target of your combat maneuver. If your foe was not initially within range of the effect that you evaded, it must save against the effect as if it had been within the area of effect.",
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "improved reposition"
+    ],
+    "name_zh": "攀附脱逃",
+    "text_zh": "你可以通过把一名敌人放到区域效果的路径上遮挡自己来躲避攻击。",
+    "prerequisites_zh": "智力 13，寓守于攻，精通移位，反射闪避（Evasion）职业能力。",
+    "benefit_zh": "当你成功使用反射闪避（Evasion）职业能力避免允许进行反射豁免检定的效果带来的伤害时，你能够以直觉动作（immediate action）尝试1次特殊的移位（reposition；APG）战技检定，对抗触及范围内的任意1名敌人。若检定成功，你会与战技的目标交换位置。若该名敌人最初时并没有位于你通过反射闪避躲避的效果范围内，那么它必须进行豁免对抗该效果，就如同身处效果的区域范围内一般。"
 }

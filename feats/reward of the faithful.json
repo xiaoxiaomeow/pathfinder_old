@@ -5,5 +5,9 @@
     "source": ["Divine Anthology pg. 11"],
     "text": "Your intense belief in your deity allows you to benefit more from divine magic he or she provides.",
     "prerequisites": "Knowledge (religion) 1 rank, alignment must match that of your worshiped deity.",
-    "benefit": "Whenever you are the only target of a divine spell cast by a follower of your chosen deity other than you, the spell’s caster level is treated as though it were 2 higher than it actually is. Additionally, whenever you regain hit points as a result of a worshiper of your deity other than you channeling energy or casting a cure spell, you regain 1 additional hit point per die rolled for the healing gained."
+    "benefit": "Whenever you are the only target of a divine spell cast by a follower of your chosen deity other than you, the spell’s caster level is treated as though it were 2 higher than it actually is. Additionally, whenever you regain hit points as a result of a worshiper of your deity other than you channeling energy or casting a cure spell, you regain 1 additional hit point per die rolled for the healing gained.",
+    "name_zh": "信仰回报",
+    "text_zh": "你对神祇的强烈信仰使你能够从神术中获得更多恩惠。",
+    "prerequisites_zh": "宗教知识1级，与信仰神祇阵营一致。",
+    "benefit_zh": "如果你成为其他你信仰神祇的信徒所施放神术的唯一目标，则该法术的施法者等级视为比实际高2。此外，每当你因其他你信仰神祇的信徒的引导能量或治疗法术恢复生命值时，每个骰子额外造成1点治疗。"
 }

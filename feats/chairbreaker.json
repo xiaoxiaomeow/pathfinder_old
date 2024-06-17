@@ -7,5 +7,9 @@
     "text": "You deal more damage by breaking nearby objects against your enemies.",
     "prerequisites": "Catch Off-Guard, base attack bonus +1.",
     "benefit": "When you attack a target with an improvised weapon, you can give that weapon the broken condition to deal 1d4 points of additional damage on that attack. Additionally, you gain a +4 bonus on the roll to confirm a critical hit with this attack. If you confirm the crit, the extra damage granted by this feat is also multiplied and the improvised weapon is destroyed.",
-    "prerequisiteKeys": ["catch off-guard"]
+    "prerequisiteKeys": ["catch off-guard"],
+    "name_zh": "碎物者",
+    "text_zh": "你可以破坏随手之物对敌人造成更多伤害。",
+    "prerequisites_zh": "随手武器，BAB+1。",
+    "benefit_zh": "当你使用临时武器攻击时，你可以为武器附加破损状态来使本次攻击额外造成1D4点额外伤害。此外，本次攻击的确认重击检定获得+4加值。若确认重击，该专长的额外伤害也会加倍，同时临时武器彻底损毁。"
 }

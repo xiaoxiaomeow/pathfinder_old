@@ -6,5 +6,9 @@
     "text": "The connection to the memories of the spirit possessing your hand deepens.",
     "prerequisites": "Possessed Hand.",
     "benefit": "Select one Knowledge skill; this skill becomes a class skill for you. Additionally, select one of the following skills: Disable Device, Escape Artist, Heal, Sleight of Hand, or Use Magic Device. This skill becomes a class skill for you and you can attempt checks with the skill untrained. Once per day as a swift action, you can gain a bonus to any of the above skill checks equal to 1/2 your character level.",
-    "prerequisiteKeys": ["possessed hand"]
+    "prerequisiteKeys": ["possessed hand"],
+    "name_zh": "手不释卷",
+    "text_zh": "你深化了跟附身精魄的记忆连系。",
+    "prerequisites_zh": "鬼上手。",
+    "benefit_zh": "选择一种知识技能；此技能成为你的本职技能。此外，选择下列一种技能：解除装置、脱逃、医疗、巧手、或使用魔法装置。此技能成为你的本职技能并且你能未受训尝试检定。每天1次以迅捷动作，你能在任何上述技能检定获得等同1/2角色等级的加值。"
 }

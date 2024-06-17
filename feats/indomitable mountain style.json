@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "combat reflexes",
         "improved unarmed strike"
-    ]
+    ],
+    "name_zh": "岳峙流",
+    "text_zh": "你像山岳一般不可逾越，不可移动。",
+    "prerequisites_zh": "感知13，战斗反射，精通徒手打击，BAB+4。",
+    "benefit_zh": "只要你不采取移动动作，你的CMD和尝试对你进行虚招的唬骗检定的DC将获得+4士气加值。此外，当生物试图通过特技检定通过你威胁的空间而不引发借机攻击时，你被视作大一个体型的生物来决定CMD。"
 }

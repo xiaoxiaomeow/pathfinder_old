@@ -8,9 +8,10 @@
     "prerequisites": "Base attack bonus +5, adaptive luck racial trait, halfling.",
     "benefit": "Spend a use of your adaptive luck racial trait to reroll the damage from a single weapon attack. You deal damage equal to the new damage roll, or the original roll, whichever is greater.",
     "staminaSource": "Pathfinder Unchained pg. 125",
-    "staminaText": "You can spend 5 stamina points instead of a use of adaptable luck<sup>ARG<\/sup> to reroll the damage from a single attack.",
+    "staminaText": "You can spend 5 stamina points instead of a use of adaptable luck to reroll the damage from a single attack.",
     "name_zh": "幸运打击",
     "text_zh": "你的运气使你的武器造成更大的伤害。",
-    "prerequisites_zh": "基本攻击加值+5，【万用幸运】种族特性，半身人。",
-    "benefit_zh": "使用一次【万用幸运】特性，你在一次伤害检定时骰两次并取较好者。"
+    "prerequisites_zh": "BAB+5，【万用幸运】种族特性，半身人。",
+    "benefit_zh": "使用一次【万用幸运】特性，你在一次伤害检定时骰两次并取较好者。",
+    "staminaText_zh": "你可以消耗5点耐力而不是万用幸运的次数来重投单次攻击的伤害骰。"
 }

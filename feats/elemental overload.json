@@ -5,5 +5,10 @@
     "source": ["Psychic Anthology pg. 24"],
     "text": "As you become suffused with power, you become more and more like an elemental.",
     "prerequisites": "Elemental overflow class feature, kineticist level 15th.",
-    "benefit": "Whenever you have accepted at least 4 points of burn, the chance to ignore the effects of a critical hit or sneak attack increases by an additional 10%. This chance increases by an additional 5% for every 2 points of burn you accept after that. This chance can’t exceed 100%. Normal: Whenever you have accepted at least 3 points of burn, your chance to ignore the effects of a critical hit or sneak attack equals 5% × your current number of points of burn."
+    "benefit": "Whenever you have accepted at least 4 points of burn, the chance to ignore the effects of a critical hit or sneak attack increases by an additional 10%. This chance increases by an additional 5% for every 2 points of burn you accept after that. This chance can’t exceed 100%. Normal: Whenever you have accepted at least 3 points of burn, your chance to ignore the effects of a critical hit or sneak attack equals 5% × your current number of points of burn.",
+    "name_zh": "元素过载",
+    "text_zh": "随着元素之力充盈你的身躯，你变得越来越接近元素。",
+    "prerequisites_zh": "元素满溢（Elemental Overflow）职业特性，操念使15级。",
+    "benefit_zh": "当你承受了至少4点超载时，你忽视重击和偷袭攻击的概率增加10%。每有2点额外承受的超载，该概率提升5%。这个概率无法超过100%、",
+    "normal_zh": "当你承受了至少3点超载时，你忽视重击和偷袭攻击的概率等于5%×你当前的超载数。"
 }

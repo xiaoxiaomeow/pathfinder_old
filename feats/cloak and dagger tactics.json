@@ -5,13 +5,18 @@
     "descriptors": ["Combat"],
     "source": ["Blood of Shadows pg. 25"],
     "text": "You devastate enemies that you catch off-guard.",
-    "prerequisites": "Int 13, Cloak and Dagger Style, Cloak and Dagger Subterfuge, Combat Expertise, Improved Dirty Trick<sup>APG<\/sup>, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +16.",
-    "benefit": "While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you hit an opponent that is denied its Dexterity bonus to AC or that you are flanking, or make an attack using Vital Strike (or its improved or greater versions), you can attempt a dirty trick<sup>APG<\/sup> combat maneuver check against that opponent as a free action. If you succeed, the target must succeed at a Fortitude save (DC = 10 + 1/2 your base attack bonus + your Intelligence modifier) or take an additional penalty from the dirty trick selected from the following list: anchored in place and unable to move from that square, confused, exhausted, or staggered. This additional penalty lasts only 1 round, regardless of how long the dirty trick’s normal penalty lasts, and can be removed by the target with a standard action. You can only attempt one free dirty trick combat maneuver check per round using this feat.",
+    "prerequisites": "Int 13, Cloak and Dagger Style, Cloak and Dagger Subterfuge, Combat Expertise, Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +16.",
+    "benefit": "While you are using Cloak and Dagger Style and wielding your chosen weapon, whenever you hit an opponent that is denied its Dexterity bonus to AC or that you are flanking, or make an attack using Vital Strike (or its improved or greater versions), you can attempt a dirty trick combat maneuver check against that opponent as a free action. If you succeed, the target must succeed at a Fortitude save (DC = 10 + 1/2 your base attack bonus + your Intelligence modifier) or take an additional penalty from the dirty trick selected from the following list: anchored in place and unable to move from that square, confused, exhausted, or staggered. This additional penalty lasts only 1 round, regardless of how long the dirty trick’s normal penalty lasts, and can be removed by the target with a standard action. You can only attempt one free dirty trick combat maneuver check per round using this feat.",
     "prerequisiteKeys":     [
         "cloak and dagger style",
         "cloak and dagger subterfuge",
         "combat expertise",
+        "improved dirty trick",
         "vital strike",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "蓬匕策",
+    "text_zh": "你蹂躏那些不提防你的敌人。",
+    "prerequisites_zh": "智力13，蓬匕流，蓬匕伎，寓守于攻，精通阴招，对所选武器拥有武器专攻专长，BAB+16。",
+    "benefit_zh": "当你开启蓬匕流并持用你所选的武器时，每当你击中一个失去AC上的敏捷加值或被你夹击的敌人，或是使用要害打击（以及其精通和高等版本）进行一次攻击时，你可以用自由动作对该敌人进行一次阴招战技检定。如果你成功了，该目标必须成功通过强韧检定（DC=10+1/2你的BAB+你的智力调整），否则就会从阴招中额外遭受下表所列的惩罚之一：被定身在原地无法移动到其他方格，困惑，力竭，或恍惚。无论阴招造成的普通惩罚持续多久，该额外的惩罚只持续一轮，并可以被目标以一个标准动作来移除。你每轮只能使用该专长一次来以进行额外的阴招战技检定。"
 }

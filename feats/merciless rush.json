@@ -10,5 +10,8 @@
     "text": "Though hordes stand against you, they rarely stand long.",
     "prerequisites": "Improved Bull Rush, worshiper of Rovagug.",
     "benefit": "When you bull rush a creature and your check exceeds the target’s CMD by 5 or more, you deal damage equal to your Strength modifier to that target.",
-    "prerequisiteKeys": ["improved bull rush"]
+    "prerequisiteKeys": ["improved bull rush"],
+    "name_zh": "横冲直撞",
+    "prerequisites_zh": "精通冲撞，信仰拉瓦古格。",
+    "benefit_zh": "当你对一个生物发动冲撞战技攻击且你的检定结果超过对方的CMD5点或更多，那么你可以选择直接践踏过目标而非将其击退，在你穿越目标时，你可以对其造成相当于你力量调整值的伤害。"
 }

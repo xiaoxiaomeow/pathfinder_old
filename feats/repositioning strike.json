@@ -10,15 +10,16 @@
     "normal": "You must perform a reposition combat maneuver to reposition an opponent.",
     "special": "You can only apply the effects of one of the following feats to a given critical hit: Bull Rush Strike, Disarming Strike, Repositioning Strike, Sundering Strike, or Tripping Strike. You may choose to use this feat after you make your confirmation roll.",
     "staminaSource": "Pathfinder Unchained pg. 130",
-    "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to reposition the target anyway. If you do, reroll the confirmation roll and use it to determine if the reposition<sup>APG<\/sup> attempt exceeds the opponent’s CMD. This reroll is used only for the reposition combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
+    "staminaText": "When you fail to confirm a critical hit with a melee attack, you can spend 2 stamina points to attempt to reposition the target anyway. If you do, reroll the confirmation roll and use it to determine if the reposition attempt exceeds the opponent’s CMD. This reroll is used only for the reposition combat maneuver; it can’t cause the critical hit to be confirmed. You still can’t make the attempt if the target is immune to critical hits.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved reposition"
     ],
     "name_zh": "移位重击",
     "text_zh": "你的重击能够让你任意挪动敌人。",
-    "prerequisites_zh": "智力13，寓守于攻，精通移位，基本攻击加值+9。",
+    "prerequisites_zh": "智力13，寓守于攻，精通移位，BAB+9。",
     "benefit_zh": "当你的近战攻击成功重击时，除了攻击正常造成的伤害之外还能够移动敌人。如果你的重击确认检定超过了敌人的CMD，那么你能够将移动敌人，就如同进行了移位战技检定一般。这不会引起借机攻击。",
     "normal_zh": "你必须进行移位战技检定才能改变敌人位置。",
-    "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。"
+    "special_zh": "你只能将后述专长中的一个应用在一次确认的重击上：冲撞重击，移位重击，破武重击，卸武重击或者绊摔重击。你可以在重击确认检定之后选择使用该专长。",
+    "staminaText_zh": "当你在近战攻击中确认重击失败时，你仍可以消耗2点耐力来对目标尝试移位元。如果你这样做了，重投确认骰，并使用这次的结果来决定移位APG尝试是不是能超过对手的CMD。这次重投只能用于移位战技，它不能让重击确认。你仍不能对免疫重击的目标做出该尝试。"
 }

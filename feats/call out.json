@@ -5,5 +5,8 @@
     "descriptors": ["Combat"],
     "source": ["People of the River pg. 12"],
     "text": "A well-crafted insult forces an opponent to duel you.",
-    "benefit": "As a standard action, you can make an Intimidate check against a hostile target within 30 feet that can clearly see and hear you. The DC of this check is equal to 10 + your opponent’s Hit Dice + its Wisdom modifier. If the target is trained in Sense Motive, the DC is instead equal to 10 + your opponent’s Sense Motive bonus, if higher. If you succeed at this check, the target enters a duel with you (<i>Ultimate Combat<\/i> 150). The target cannot withdraw from the duel for 1 round + 1 round for every 5 by which the check beat the DC."
+    "benefit": "As a standard action, you can make an Intimidate check against a hostile target within 30 feet that can clearly see and hear you. The DC of this check is equal to 10 + your opponent’s Hit Dice + its Wisdom modifier. If the target is trained in Sense Motive, the DC is instead equal to 10 + your opponent’s Sense Motive bonus, if higher. If you succeed at this check, the target enters a duel with you (<i>Ultimate Combat<\/i> 150). The target cannot withdraw from the duel for 1 round + 1 round for every 5 by which the check beat the DC.",
+    "name_zh": "怒嚎挑战",
+    "text_zh": "一个精心设计的“冒犯”会迫使对手与你决斗。",
+    "benefit_zh": "以一个标准动作，你可以对30尺内、一个能清楚的看到你并听到你的声音的的敌方目标进行威吓检定。该检定的DC等于10 +你对手的生命骰+他的感知调整值。如果目标在察言观色上受训，DC也可以使用10 +对手的察言观色加值，二者取高。如果你在此检定中成功，目标将与你决斗（Pathfinder RPG Ultimate Combat 150）。对手无法在1轮内从决斗中退出，你的检定结果每高出DC 5点，则此轮数再增加1轮。"
 }

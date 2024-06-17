@@ -10,5 +10,9 @@
     "text": "Your ranged attacks startle your enemies, partly because you’re not even trying to avoid hitting your allies.",
     "prerequisites": "Precise Shot.",
     "benefit": "You initiate this feat as a standard action, making a ranged attack against a foe engaged in melee with at least one abettor. This shot deliberately forsakes normal precautions, putting your abettor at risk, but also is unexpected enough to surprise your mutual opponent. You gain a +2 bonus on your attack roll if the attack passes through an abettor’s space. If your shot misses the target, you must immediately make a second attack roll with all the same modifiers against the abettor, potentially hitting her with the attack instead of the opponent. When the attack resolves (regardless of whether either potential target was hit), the intended target’s startled reaction provokes an attack of opportunity from the abettor.",
-    "prerequisiteKeys": ["precise shot"]
+    "prerequisiteKeys": ["precise shot"],
+    "name_zh": "火力支援",
+    "text_zh": "你的远程攻击吓坏了敌人，因为你毫不介意会击中你的盟友。",
+    "prerequisites_zh": "精准射击。",
+    "benefit_zh": "你可以用一个标准动作激活此专长进行一次远程攻击，被攻击的目标必须与至少一个牺牲者处于接战状态。这次舍弃完全没有任何预示以至于让你的盟友处于险境之中，但因此也成功地出乎敌人的预料。<\/p><p>如果你的攻击从牺牲者的位置穿过，你在此攻击骰上获得2点加值。如果你的射击失手了，你必须立刻用相同的调整值攻击牺牲者，这可能会造成击中牺牲者而非敌人。当攻击结算完毕后（无论攻击到了谁），原定的攻击目标会因惊吓给牺牲者提供一次借机攻击的机会。"
 }

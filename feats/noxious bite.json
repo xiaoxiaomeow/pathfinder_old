@@ -5,5 +5,9 @@
     "source": ["Dragons Revisited pg. 9"],
     "text": "Your acid-dripping breath causes those you bite to become ill.",
     "prerequisites": "Acidic breath weapon, bite attack.",
-    "benefit": "Your bite attack deals 1 point of acid damage in addition to its normal damage. Living creatures you bite must make a Fort save (DC equal to your breath weapon's DC) or be nauseated for a number of rounds equal to 1 + your Constitution modifier (minimum 1 round)."
+    "benefit": "Your bite attack deals 1 point of acid damage in addition to its normal damage. Living creatures you bite must make a Fort save (DC equal to your breath weapon's DC) or be nauseated for a number of rounds equal to 1 + your Constitution modifier (minimum 1 round).",
+    "name_zh": "剧毒咬撃",
+    "text_zh": "你滴落强酸的吐息使得被你啃咬的生物不适。",
+    "prerequisites_zh": "强酸吐息武器，啃咬攻击。",
+    "benefit_zh": "你的啃咬攻击在其正常伤害之上造成额外1点强酸伤害。被你啃咬的活物必须通过强韧豁免（DC=你的吐息武器DC）否则反胃1+你的体质调整值的轮数（最少为1轮）。"
 }

@@ -6,5 +6,9 @@
     "text": "Your devotion to your principles and your allies makes acting against them unthinkable.",
     "prerequisites": "Iron Will.",
     "benefit": "Whenever you are under the effects of a charm or compulsion effect and would be compelled to take an action that violates your fundamental nature, explicitly violates the strictures of your religion, or would be an act of an alignment that directly opposes your own (for instance, a chaotic or evil act if you are lawful good), you gain a +4 bonus on any saving throw or opposed Charisma check to resist that command or break free from the effect. Whenever you are compelled to attack an ally, you take a –4 penalty on your attack rolls and damage rolls.",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "不破的荣耀",
+    "text_zh": "让你作出与坚守原则和背叛盟友的行为几乎是不可能的。",
+    "prerequisites_zh": "钢铁意志。",
+    "benefit_zh": "当你正处于魅惑（charm）或胁迫（compulsion）效果的影响时，如果该效果会迫使你采取的行动包含后述内容，你就会在抵抗该命令或者打破效果的任何豁免检定或对抗性魅力检定中获得+4加值，具体的行为包括：违背你的本性（fundamental nature）的行为、明确违反了你的宗教限制的行为、或者与你的阵营完全相反的行为（举例说明，让守序善良的你执行邪恶或混乱的行为）。每当你被迫（compelled）攻击盟友时，你的攻击检定与伤害检定均会受到-4减值。"
 }

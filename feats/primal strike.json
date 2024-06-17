@@ -8,5 +8,10 @@
     "prerequisites": "Wis 17, Improved Unarmed Strike, base attack bonus +8.",
     "benefit": "Before making an attack roll, you can declare a primal strike. If you do and the attack hits, it deals damage normally and your target must attempt a Fortitude saving throw (DC = 10 + half your character level + your Wisdom modifier). A target who fails this saving throw is confused for 1 round. If you are in an area of primal magic, the confused condition lasts for 1d4 rounds. You can attempt a primal strike attack once per day for every 4 character levels you have (see Special below if you have monk levels), but no more than once per round. A primal strike is a mind-affecting compulsion effect.",
     "special": "If you have levels in the monk class, you can make a primal attack a number of times per day equal to your monk level, plus one additional time per day for every 4 levels you have in classes other than monk, though still no more than once per round.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "原能打击",
+    "text_zh": "你学会了让原能魔法流经自己的躯体以让敌寇陷入困惑。",
+    "prerequisites_zh": "感知17，精通徒手打击，BAB+8。",
+    "benefit_zh": "在投攻击骰前，你能宣告一次原能打击。若你如此宣告且该次攻击命中，则其会正常造成伤害，同时目标必须进行一次DC=10+你一半等级+感知修正的强韧豁免。豁免失败的目标将困惑一轮。若你处于原能魔法区域，则困惑状态持续1d4轮。你每天能尝试原能打击的次数等同于已有角色等级的1/4（若你具有武僧等级则看下面的特殊说明），但每轮使用次数不能超过1次。原能打击是一个影响心灵的胁迫效果。",
+    "special_zh": "如果你具有武僧等级，你每天可以使用原能打击的次数等同于你的武僧等级+已有非武僧角色等级的1/4，但每轮的使用次数仍然不能超过1次。"
 }

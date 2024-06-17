@@ -7,5 +7,9 @@
     "text": "You can hold your foes even if you do not manage to grapple them.",
     "prerequisites": "Weapon Focus (bite), base attack bonus +6.",
     "benefit": "Whenever you confirm a critical hit against a foe with your bite attack, if your confirmation roll matches or exceeds your foe’s CMD, you can clamp down on your foe to prevent it from moving away as a free action. The foe cannot move outside the area threatened by your bite attack unless it breaks free of your bite. It can attempt to free itself with a combat maneuver check or Escape Artist check as if you were grappling it, but neither of you gains the grappled condition. You cannot use your bite attack while you maintain your grip on your foe, but you can release the bite as a swift action to end the effect.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "陷阱熊咬",
+    "text_zh": "即便你没刻意擒抱敌人，你也能让他们行动不得。",
+    "prerequisites_zh": "武器专攻（啮咬），BAB+6。",
+    "benefit_zh": "当你在啮咬攻击确认重击时，如果重击确认骰达到目标的CMD，你能以自由动作限制目标的行动。他无法离开你啮咬攻击的威胁范围，除非做一个战技检定或逃脱检定，就像你正在擒抱他一样。但是你们都不会得到被擒抱状态。在你维持这种状态时，你无法使用啮咬攻击，但你可以以一个迅捷动作接触这个效果。"
 }

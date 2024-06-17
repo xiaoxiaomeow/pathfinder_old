@@ -11,5 +11,10 @@
     "prerequisites": "Str 13, Improved Unarmed Strike, base attack bonus +1, aquatic subtype.",
     "benefit": "While you are using Blood Frenzy Style, you gain a +2 bonus to your Strength and Constitution, and you take a –2 penalty to AC.",
     "special": "You can enter Blood Frenzy Style only as an immediate action when you take damage. You cannot enter this style as a swift action, as with other style feats.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "血怒流",
+    "text_zh": "你已经学会了将你的痛苦转化为力量，每当你受到伤害时，你将激发血性的狂怒。",
+    "prerequisites_zh": "力量 13，精通徒手打击，基础攻击加值+1，水生亚种。",
+    "benefit_zh": "当你使用血怒流时，你的力量和体质得到+2加值，在AC上受到-2减值。",
+    "special_zh": "只有当你受到伤害时，你才能以直觉动作开启血怒流。你无法与其他流派专长一样，以一个迅捷动作启动血怒流。"
 }

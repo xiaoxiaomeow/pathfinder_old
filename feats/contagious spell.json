@@ -6,5 +6,9 @@
     "source": ["Horror Adventures pg. 84"],
     "text": "Your spells are dangerous to dispel and likely to backfire upon those who try.",
     "benefit": "A caster level check to dispel or remove a contagious spell that fails by 5 or more causes it to spread from the original target to the creature that attempted to remove it. The spell spreads to the new target regardless of its normal range or any special targeting requirement like a melee or ranged touch attack. The spell is treated as if you had just cast it on the new target. The new target receives a saving throw or the benefit of spell resistance (if applicable) if the spell normally allows it.<br><br> You can apply Contagious Spell only to targeted spells that are harmful to their target and don’t have a range of personal; a contagious spell never spreads to someone who would benefit from being the target of the spell. A contagious spell uses up a spell slot 2 levels higher than the spell’s actual level.",
-    "special": "A contagious spell can be identified normally as it is being cast with a successful Spellcraft check. Identifying whether a spell is contagious by its effect, however, requires the use of the analyze dweomer spell or a similar effect."
+    "special": "A contagious spell can be identified normally as it is being cast with a successful Spellcraft check. Identifying whether a spell is contagious by its effect, however, requires the use of the analyze dweomer spell or a similar effect.",
+    "name_zh": "瘟疫法术",
+    "text_zh": "解除你的你的法术变得具有风险，并且可能适得其反。",
+    "benefit_zh": "当一次尝试移除或是解除瘟疫法术施法者检定失败了5点或以上时，将会使得法术效果从原始的目标生物上传播到尝试进行本次检定的生物身上。传播出去的法术效果忽视其范围与其他例如接触或攻击检定需求的限制。法术被视为你直接对新的目标释放，新的目标可以尝试一次豁免或（or）法术抗力检定（若适用）如果原本的法术允许豁免。<\/p><p>你只能对那些距离非个人的有害法术添加瘟疫法术，瘟疫法术永远不会传播到那些能从成为瘟疫法术获益的生物身上。瘟疫法术使用高于原本法术环级2级的法术位。",
+    "special_zh": "一个瘟疫法术能够通过一个成功的法术辨识检定被正常的辨识，然而，辨识一个法术是否具有传染性需要使用解析咒文 (Analyze Dweomer)或是类似的效果。"
 }

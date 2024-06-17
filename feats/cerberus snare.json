@@ -7,5 +7,9 @@
     "text": "Your strikes latch onto your opponent like the jaws of a cerberus, preventing them from fleeing across planes.",
     "prerequisites": "Cerberus Style, base attack bonus +9 or monk level 9th.",
     "benefit": "Whenever you damage an opponent with Cerberus Style, that opponent cannot take 5-foot steps until the beginning of your next turn. Additionally, it is barred from dimensional travel. This effect functions as <i>dimensional anchor<\/i>, except that its duration is 1 round. Spell resistance applies; for the purpose of checks to overcome spell resistance, your caster level is equal to your character level.",
-    "prerequisiteKeys": ["cerberus style"]
+    "prerequisiteKeys": ["cerberus style"],
+    "name_zh": "三头犬罗网",
+    "text_zh": "你的攻击像刻耳柏洛斯的啮咬一样抓住你的对手，使他们无法从本位面逃离。",
+    "prerequisites_zh": "三头犬流，BAB+9或武僧9级。",
+    "benefit_zh": "当你用三头犬流对对手造成伤害时，直到你的下一回合开始，该对手都不能进行五尺快步。并且也禁止维度旅行。除了持续时间为一轮外，这个效果就像次元锚（dimensional anchor）。法术抗力生效。在克服法术抗力的检定中，你的施法者等级等同于你的角色等级。"
 }

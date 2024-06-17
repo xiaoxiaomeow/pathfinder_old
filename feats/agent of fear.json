@@ -7,5 +7,10 @@
     "prerequisites": "Persuasive, frightening appearance class feature.",
     "benefit": "When you target a creature with your frightening appearance or stunning appearance class feature, it does not become immune to the effects of those features for 24 hours, but does gain a +2 bonus on the saving throws against those class features for 24 hours. This bonus stacks with itself if you use those abilities against the same creature multiple times in the same 24- hour period. Because these abilities alert the creature to your presence, you still can’t use them on the creature again until after the end of that specific combat.",
     "normal": "A creature targeted by frightening appearance or stunning appearance becomes immune to the feature’s effect for 24 hours.",
-    "prerequisiteKeys": ["persuasive"]
+    "prerequisiteKeys": ["persuasive"],
+    "name_zh": "恐惧化身",
+    "text_zh": "你所带来的恐惧是如此深邃，摆脱这种脊背发凉的感觉简直难上加难。",
+    "prerequisites_zh": "谈判专家，骇人现身（Frightening Appearance）职业能力。",
+    "benefit_zh": "当你以对1个目标使用骇人现身（Frightening Appearance）或震撼现身（Stunning Appearance）时，它无法在接下来的24小时内免疫这些效果，不过在这段时间内，它在对抗这些职业能力时豁免检定会获得+2加值。如果你在24小时内对相同的目标重复使用这些能力的话，上述豁免加值会与自身叠加。由于这些能力会让目标生物意识到你的存在，因此在特定的战斗结束之前，你仍旧无法对这些目标使用这些能力。",
+    "normal_zh": "当生物成为了骇人现身（Frightening Appearance）或震撼现身（Stunning Appearance）的目标时，它会在24小时内免疫这些职业能力的效果。"
 }

@@ -7,5 +7,10 @@
     "prerequisites": "Spirit Ridden or spirit class feature.",
     "benefit": "Select one of the spirit legends available to a medium (see pages 33–37 of <i>Pathfinder RPG Occult Adventures<\/i> for more information about these spirits). You can trade control of your body to a spirit of this type for power. You must perform a seance, taking 1 hour and requiring your concentration. At the end of the seance, you invite a spirit of the chosen type to inhabit your body. You do not require an appropriate location to channel the spirit. You gain the benefits of the spirit’s spirit bonus and seance boon, but no spirit powers. Your spirit bonus is +1, or equal to your spirit bonus from any medium class levels you have (whichever is higher). You don’t select a taboo and the spirit gains no influence over you. You can continue to gain the benefits of the spiritual possession for up to 1 hour per character level you have. At the end of the duration, the spirit takes over your body, and you become an NPC under the GM’s control for a duration equal to the amount of time the spirit possessed you. You can end the duration prematurely as a free action, but the spirit still takes over your body. If you have the spirit class feature, you can’t use this feat and act as a vessel for a second spirit simultaneously, but you gain spirit powers as normal for your medium level.",
     "special": "You can gain this feat multiple times. Its effects do not stack. Each time you take this feat, you gain a new spirit you can channel.",
-    "prerequisiteKeys": ["spirit ridden"]
+    "prerequisiteKeys": ["spirit ridden"],
+    "name_zh": "英灵受体",
+    "text_zh": "你心甘情愿地允许精魄附身于你，品味你的生活换取他们的知识和能力。",
+    "prerequisites_zh": "精魄受体或英灵职业特性。",
+    "benefit_zh": "选择其中1个通灵者的可用英灵（详见Pathfinder RPG Occult Adventures pg. 33–37）。你以你身体的控制权来换居这种力量。你必需进行降灵（Seance）仪式，花费1小时并专注。在降灵结束后，你邀请的英灵栖息于你的身体。你不须要在偏好降灵区域降灵。你获得该英灵的英灵同调（spirit bonus）和降灵奖励（seance boon）的好处，但不会获得英灵之力（spirit powers）。你的英灵同调为+1，或等同你的通灵者的英灵同调职业特性（两者取高）。你不选择禁忌而英灵也不会对你造成共鸣。你能获得的通灵好处持续每角色等级1小时。在此持续时间结束后，该英灵接管你的身体，而你变成一个由GM控制的NPC，持续时间等同你的通灵时间。你能以自由动作提早结束此持续时间，但英灵仍会接管你的身体。若你拥有英灵职业特性，你不能使用此专长来同时降灵第2位英灵，但你获得如常按你的通灵者等级获得英灵之力。",
+    "special_zh": "你能多次选择此专长。此效果不叠加。每次选择此专长时，你获得新的附体英灵。"
 }

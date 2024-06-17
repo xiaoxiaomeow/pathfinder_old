@@ -5,5 +5,9 @@
     "source": ["Dirty Tactics Toolbox pg. 13"],
     "text": "You can help conceal your allies.",
     "prerequisites": "Stealth 1 rank.",
-    "benefit": "Whenever you are adjacent to an ally, and neither you nor that ally move for at least 1 round, and both you and that ally attempt Stealth checks, that ally can use your Stealth check result if it is better than his own."
+    "benefit": "Whenever you are adjacent to an ally, and neither you nor that ally move for at least 1 round, and both you and that ally attempt Stealth checks, that ally can use your Stealth check result if it is better than his own.",
+    "name_zh": "遮掩队友",
+    "text_zh": "你可以帮助队友避开他人的视线。",
+    "prerequisites_zh": "潜行技能1级。",
+    "benefit_zh": "当你邻接一个盟友时，双方至少在1轮中都没有移动，并且同时尝试进行潜行检定时，你们双方都可以选择两人中较好的能够检定结果作为潜行检定结果。"
 }

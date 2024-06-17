@@ -10,5 +10,9 @@
     "text": "Together, you and your allies tear through enemies’ defenses.",
     "prerequisites": "Dex 15, Rat Stack, swarming racial trait.",
     "benefit": "You gain a +1 bonus on all melee damage rolls for each allied creature you share a square with that also has this feat. <br><br> If two or more allies sharing a square have this feat and hit the same adjacent creature in a round, they tear it in different directions, dealing additional damage at the end of the round. This rend attack deals an amount of damage equal to 1d6 + the highest Strength modifier of all qualifying allies in the same square who struck the target this round.",
-    "prerequisiteKeys": ["rat stack"]
+    "prerequisiteKeys": ["rat stack"],
+    "name_zh": "鼠群撕裂",
+    "text_zh": "你和你的同伴一起撕开敌人的防御。",
+    "prerequisites_zh": "敏捷15，鼠群堆叠，群居种族特性。",
+    "benefit_zh": "每有一个拥有此专长的盟友与你占据一个方格，你就会在所有近战伤害骰中获得+1加值。<\/p><p>如果两个或者更多拥有此专长的盟友占据一个方格并且在一轮内击中了同一个相邻的目标，他们会从不同的方向撕扯它，并在这个回合结束时造成额外伤害。这个撕扯伤害会造成1D6+力量调整，此力量调整为所有本轮中在同一个方格内具有此专长并击中目标的生物之中的最高值。"
 }

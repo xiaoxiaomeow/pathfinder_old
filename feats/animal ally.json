@@ -6,5 +6,9 @@
     "text": "Your respect for nature is so great that you can form a deep and lasting friendship with an animal.",
     "prerequisites": "Nature Soul, character level 4th, must not have an animal companion or mount that advances as an animal companion.",
     "benefit": "You gain an animal companion as if you were a druid of your character level –3 from the following list: badger, bird, camel, cat (small), dire rat, dog, horse, pony, snake (viper), or wolf. If you later gain an animal companion through another source (such as the Animal domain, divine bond, hunter’s bond, mount, or nature bond class features), the effective druid level granted by this feat stacks with that granted by other sources.",
-    "prerequisiteKeys": ["nature soul"]
+    "prerequisiteKeys": ["nature soul"],
+    "name_zh": "动物盟友",
+    "text_zh": "你是如此尊敬自然因此你可以与一只动物缔结更加深层和长久的友谊。",
+    "prerequisites_zh": "自然之魂，角色等级4，必须没有如动物伙伴那样增长的动物伙伴或坐骑（must not have an animal companion or mount that advances as an animal）。",
+    "benefit_zh": "你从以下列表中选择一个动物伙伴，如同你是一个【你的角色等级-3】的德鲁伊：獾，禽，骆驼，猫（小型），凶暴鼠，狗，马，矮种马，蛇（毒蛇）或者狼。如果你之后通过其他途径获得了一个动物伙伴（例如动物领域，神契，猎手羁绊，坐骑或自然纽带职业特性），从这个专长中获得的有效德鲁伊等级会与其他来源叠加。"
 }

@@ -12,7 +12,7 @@
     "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool.",
     "mythicSource": "Mythic Adventures pg. 75",
     "mythicText": "Your staff is valuable for attack and defensive balance.",
-    "mythicPrerequisites": "Tripping Staff<sup>UM<\/sup>.",
+    "mythicPrerequisites": "Tripping Staff.",
     "mythicBenefit": "You add half your tier to CMD against trip maneuvers and on combat maneuver checks to trip with a quarterstaff. When you’re wielding a quarterstaff and an opponent you threaten attempts to trip you and fails, it provokes an attack of opportunity from you. You must use your staff for this attack of opportunity.",
     "prerequisiteKeys":     [
         "combat expertise",
@@ -23,5 +23,9 @@
     "text_zh": "你能用你的木棍发起绊摔攻击。",
     "prerequisites_zh": "智力13，寓守于攻，精通绊摔，武器专攻（木棍）。",
     "benefit_zh": "你能将木棍当作有绊摔特性的武器使用。",
-    "special_zh": "如果你是魔剑士变体的法杖士（Staff Magus, UM），你可以在使用木棍进行绊摔的时候发动【法术战斗】。"
+    "special_zh": "如果你是魔剑士变体的法杖士（Staff Magus, UM），你可以在使用木棍进行绊摔的时候发动【法术战斗】。",
+    "mythicText_zh": "你手中的木棍可攻可守、可进可退。",
+    "mythicPrerequisites_zh": "木棍绊摔",
+    "mythicBenefit_zh": "当你对抗摔绊战技时，CMD获得等同于你的阶层的一半的加值。此外你使用木棍（quarterstaff）进行摔绊战技时，也获得上述加值。当你持用木棍时，若1名被你威胁的敌人对你进行摔绊的尝试而且失败的话，他会引起你的借机攻击。你必须使用木棍进行此次借机攻击。",
+    "staminaText_zh": "即使在你没有满足属性先决条件（智力13）的时候你也能选择这个专长。只有当你的耐力池中还有1点耐力时你才能获得这个专长的效果。"
 }

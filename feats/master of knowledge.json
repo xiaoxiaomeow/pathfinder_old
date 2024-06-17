@@ -6,5 +6,8 @@
     "text": "In times of need, you have the answers.",
     "prerequisites": "Int 17, Skill Focus (Knowledge [any]), worshiper of Irori.",
     "benefit": "Choose a single Knowledge skill with which you have Skill Focus. Once per day, when you wish to make a check with that Knowledge skill, you need not roll, and may treat the result as if you had rolled a natural 20 instead.",
-    "prerequisiteKeys": ["skill focus"]
+    "prerequisiteKeys": ["skill focus"],
+    "name_zh": "知识大师",
+    "prerequisites_zh": "智力17，技能专攻（知识[任一]），信仰义洛理。",
+    "benefit_zh": "选择一项你拥有技能专攻的知识技能。每天一次当你需要进行此知识技能检定时，你不必投骰，而是直接获得相当于投出20的结果。"
 }

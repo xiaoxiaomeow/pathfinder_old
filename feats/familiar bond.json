@@ -7,5 +7,10 @@
     "prerequisites": "Iron Will.",
     "benefit": "You gain a familiar, as the wizard arcane bond class feature. You do not gain the special ability the familiar normally grants its master, and the familiar does not gain the deliver touch spells, scry on familiar, share spells, speak with animals of its kind, or spell resistance special abilities. Otherwise, your total Hit Dice are used as your wizard level for determining the familiar’s abilities.",
     "special": "If you have (or later gain) levels in a class that grants a familiar, whenever you select a familiar, you can either base your familiar’s abilities on your total Hit Dice per this feat (including the restrictions on its special abilities), or choose to apply only your levels in classes that grant a familiar (and thus gain all the special abilities that familiar would grant based on those class levels). You can never have more than one familiar.",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "魔宠契约",
+    "text_zh": "你学会了一种让自己获得魔宠的仪式。",
+    "prerequisites_zh": "钢铁意志。",
+    "benefit_zh": "你获得一个魔宠，就如同法师的奥术联结（Arcane Bond）职业能力一样。你不会获得魔宠通常会赋予主人的特殊能力，魔宠也不会获得传递接触法术（Deliver Touch Spells）、探知魔宠（Scry on Familiar）、法术共享（Share Spells）、与动物同类交谈（Speak with Animals of Its Kind）或法术抗力（Spell Resistance）这些特殊能力。此外，使用你的总生命骰来作为法师等级，用以判断魔宠的能力。",
+    "special_zh": "若你具有（或在之后获得）会获得魔宠的职业的等级，那么你可以选择使用该专长的效果，使用总生命骰来判断你的魔宠的能力（这也包括对它的特殊能力的限制），或者选择仅用那个提供魔宠的职业等级来判断魔宠的能力（因此它会获得所有基于这些职业等级而提供给魔宠的特殊能力）。你仅能拥有1个魔宠。"
 }

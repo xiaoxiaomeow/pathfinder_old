@@ -12,5 +12,10 @@
     "benefit": "When you must attempt a performance combat check because you used the withdraw action, you can attempt an Acrobatics check against your opponent’s CMD before the performance combat check. Success allows you to withdraw without taking the standard –5 penalty on your check. In addition, for every 5 points by which your Acrobatics check result exceeds your opponent’s CMD, you gain a +1 bonus on all Perform checks you make for the remainder of the round.",
     "staminaSource": "Weapon Master's Handbook pg. 25",
     "staminaText": "When you use Spectacular Exit to withdraw without taking the –5 penalty on performance combat checks and you spend 5 stamina points, you don’t need to succeed at an Acrobatics check in order to avoid the penalty.",
-    "prerequisiteKeys": ["dodge"]
+    "prerequisiteKeys": ["dodge"],
+    "name_zh": "华丽转进",
+    "text_zh": "你所掌握的特技动作甚至能把后退演绎成让人叹为观止技巧。",
+    "prerequisites_zh": "敏捷15，闪避（Dodge），特技动作7级。",
+    "benefit_zh": "当你由于使用撤退动作（withdraw action）而被迫进行演武检定时，你能够在进行该次演武检定之前，尝试进行一次特技动作检定对抗敌人的CMD。成功则可以让你进行撤退而不会在检定中受到标准的-5减值。此外，你的特技动作结果每比敌人的CMD高5点，则能够在该轮剩余的时间内进行的所有演武检定获得+1加值。",
+    "staminaText_zh": "当你使用华丽转进避免因为撤退在演武检定上受到-5减值，你可以消耗5点耐力，这样你就不需要成功通过特技检定来避免减值。"
 }

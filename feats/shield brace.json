@@ -12,5 +12,10 @@
     "benefit": "You can use a two-handed weapon sized appropriately for you from the polearm or spears weapon group while also using a light, heavy, or tower shield with which you are proficient. The shield’s armor check penalty (if any) applies to attacks made with the weapon.",
     "staminaSource": "Armor Master's Handbook pg. 21",
     "staminaText": "You can spend 1 stamina point to negate the penalty on attacks for using this feat for a single round. (See page 19.)",
-    "prerequisiteKeys": ["shield focus"]
+    "prerequisiteKeys": ["shield focus"],
+    "name_zh": "盾牌支撑",
+    "text_zh": "你擅长平衡长柄武器的重量和盾牌的稳定性。",
+    "prerequisites_zh": "盾牌专攻，BAB+3或者战士1级，擅长轻盾，重盾或者塔盾。",
+    "benefit_zh": "在使用轻盾，重盾或者塔盾时，你能够使用符合体型的，选自长柄或矛武器组中的你擅长的双手武器。盾牌的护甲检定减值(若有)会应用到你使用该武器的攻击检定上。",
+    "staminaText_zh": "你可以消耗1点耐力来在一轮中无视因为使用该专长造成的攻击减值。"
 }

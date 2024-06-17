@@ -7,5 +7,9 @@
     "text": "Your allies give you courage when you face an enemy as one.",
     "prerequisites": "Iron Will.",
     "benefit": "You gain a +2 morale bonus on saves against fear for every ally within 10 feet who possesses this feat (maximum +8).",
-    "prerequisiteKeys": ["iron will"]
+    "prerequisiteKeys": ["iron will"],
+    "name_zh": "人多胆壮",
+    "text_zh": "当你面对敌人时，你身边的盟友给予你以勇气。",
+    "prerequisites_zh": "钢铁意志。",
+    "benefit_zh": "在对抗恐惧时每个距你10英尺内且拥有此专长的盟友都使你获得+2士气加值（最大+8）"
 }

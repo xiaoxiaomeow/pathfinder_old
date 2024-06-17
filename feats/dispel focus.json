@@ -5,5 +5,9 @@
     "source": ["Monster Summoner's Handbook pg. 9"],
     "text": "You are skilled at the art of dispelling.",
     "prerequisites": "Ability to cast <i>dispel magic<\/i>.",
-    "benefit": "Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus on the check."
+    "benefit": "Whenever you attempt a dispel check based on your caster level, you gain a +2 bonus on the check.",
+    "name_zh": "解法专攻",
+    "text_zh": "你很擅长于解除魔法效应。",
+    "prerequisites_zh": "能够施放解除魔法法术。",
+    "benefit_zh": "每当你尝试一次基于施法者等级的解除检定时，你在这次检定中获得+2加值。"
 }

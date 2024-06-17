@@ -10,5 +10,9 @@
     "text": "The roar of the crowd strengthens your resolve.",
     "prerequisites": "Endurance.",
     "benefit": "When you spend a swift action to attempt a performance combat check, you gain a +2 bonus on your performance combat check, and if you are shaken, sickened, or fatigued, these conditions are suppressed until the end of your next turn.",
-    "prerequisiteKeys": ["endurance"]
+    "prerequisiteKeys": ["endurance"],
+    "name_zh": "复苏之风",
+    "text_zh": "观众的吼声使你的决心更加坚定。",
+    "prerequisites_zh": "坚忍。",
+    "benefit_zh": "当你用一个迅捷动作做演武检定时，该次演武检定获得+2加值；如果此时你处于震慑、恶心或疲乏状态，直到你的下一个回合结束之前，这些状态都将被抑制。"
 }

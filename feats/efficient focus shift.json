@@ -10,7 +10,8 @@
     "special": "You can take this feat multiple times. Its effects stack.",
     "name_zh": "等效心智转移",
     "text_zh": "你比大多数人擅长转移灵器中的心智点。",
-    "prerequisites_zh": "秘学士7级",
-    "benefit_zh": "每日两次，当你从一个灵器（Implements）向另一个转移心智点（Mental Focus）时，能够将与前者移除的数量相同的心智点转移至后者。<\/p><p>正常：当你将一个灵器的心智点转移至另一个灵器时，仅能将相同数值-1个心智点转移过去。",
+    "prerequisites_zh": "秘学士7级。",
+    "benefit_zh": "每日两次，当你从一个灵器（Implements）向另一个转移心智点（Mental Focus）时，能够将与前者移除的数量相同的心智点转移至后者。",
+    "normal_zh": "当你将一个灵器的心智点转移至另一个灵器时，仅能将相同数值-1个心智点转移过去。",
     "special_zh": "你可以多次选取该专长。专长效果会叠加。"
 }

@@ -8,11 +8,17 @@
     ],
     "source": ["Dirty Tactics Toolbox pg. 14"],
     "text": "Your blows are not only deadly, but debilitating as well.",
-    "prerequisites": "Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick<sup>APG<\/sup>, base attack bonus +11.",
+    "prerequisites": "Int 13, Combat Expertise, Critical Focus, Improved Dirty Trick, base attack bonus +11.",
     "benefit": "Whenever you confirm a critical hit, you can also affect the target as if you had succeeded at a dirty trick combat maneuver check. Doing so normally causes the target to suffer for 1 round one of the conditions applied by a dirty trick, unless you have feats or abilities that give you more dirty trick options.",
     "special": "You can apply the effects of only one critical feat to a given critical hit unless you possess Critical Mastery.",
     "prerequisiteKeys":     [
         "combat expertise",
-        "critical focus"
-    ]
+        "critical focus",
+        "improved dirty trick"
+    ],
+    "name_zh": "阴招重击",
+    "text_zh": "你的重击不但可怕，而且阴毒。",
+    "prerequisites_zh": "智力13，重击专攻，寓守于攻；精通阴招APG，BAB+11。",
+    "benefit_zh": "每当你确认一次重击时，你都可以在造成伤害时同时对目标施加一个不良效果，如同你成功的对他发动了阴招战技攻击一样。这样做会让对手正常承受1轮阴招中的一种不良状态（除非你有别的专长或能力给你更多的阴招选择）。",
+    "special_zh": "如果你不拥有重击大师专长的话，那么每次造成重击时你只能应用一个重击专长的效果。"
 }

@@ -9,5 +9,9 @@
     "text": "You instill hope in the creatures you heal.",
     "prerequisites": "Improved Channel, channel energy class feature, worshiper of Sarenrae.",
     "benefit": "When you heal a creature by channeling positive energy, you also relieve its fear. If a creature you heal is shaken, that condition ends. If the creature is frightened, it becomes shaken instead. If the creature is panicked, it becomes frightened instead.",
-    "prerequisiteKeys": ["improved channel"]
+    "prerequisiteKeys": ["improved channel"],
+    "name_zh": "赋予希望",
+    "text_zh": "在以正能量医疗盟友之外，你还会散发出激励他们继续战斗的勇气之光。",
+    "prerequisites_zh": "引导正能量职业能力，精通引导，信仰沙莱伦。",
+    "benefit_zh": "每当你以引导能量能力治疗了一个生物，你还可以减轻他承受的恐惧。如果生物处于战栗状态，他将从此效果中解除；如果他处于恐慌状态，他将改为战栗；如果他处于惊惧状态，他将改为恐慌。"
 }

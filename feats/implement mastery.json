@@ -5,7 +5,12 @@
     "descriptors": ["Item Mastery"],
     "source": ["Magic Tactics Toolbox pg. 30"],
     "text": "You can use your implements to unlock secrets of mastering relics and other items of power.",
-    "prerequisites": "Implements<sup>OA<\/sup> class feature, mental focus<sup>OA<\/sup> class feature.",
+    "prerequisites": "Implements class feature, mental focus class feature.",
     "benefit": "For the purposes of using item mastery feats, you treat your implements as magic items with all spells that you know from each implement’s associated implement school functioning as their effective construction requirements. When using an implement to activate an item mastery feat, you can spend a number of points of mental focus equal to half of the feat’s base Fortitude save bonus prerequisite to activate the feat without counting the use against the item mastery feat’s total number of daily uses.",
-    "special": "An occultist who has this feat can select item mastery feats in place of focus powers, provided he meets the feats’ prerequisites."
+    "special": "An occultist who has this feat can select item mastery feats in place of focus powers, provided he meets the feats’ prerequisites.",
+    "name_zh": "灵器掌握",
+    "text_zh": "你可以使用你的灵器来解开你掌控的圣遗物和其他强力魔法物品中的秘密。",
+    "prerequisites_zh": "灵器职业能力OA，心智点职业能力OA。",
+    "benefit_zh": "你将你的灵器视为一件制造条件里有全部该灵器连接灵器学派的已知法术的魔法物品，来使用物品掌握专长。当使用灵器来启动一个物品掌握专长时，你可以消耗等同于该专长先决要求中基础强韧豁免加值一半数值的心智点来激活专长，以此使用不计入该专长的每日使用次数中。",
+    "special_zh": "只要满足了专长的先决条件，一个拥有该专长的秘学士可以选择物品掌握专长来代替选择灵器之力。"
 }

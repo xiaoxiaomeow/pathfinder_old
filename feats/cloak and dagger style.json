@@ -8,12 +8,17 @@
     ],
     "source": ["Blood of Shadows pg. 24"],
     "text": "Your attacks effortlessly inflict debilitating conditions on unaware opponents.",
-    "prerequisites": "Int 13, Combat Expertise, Improved Dirty Trick<sup>APG<\/sup>, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +6.",
-    "benefit": "Choose one light melee weapon. While using this style, whenever you use the attack action to attack an opponent during a surprise round with your chosen weapon, you can attempt a dirty trick<sup>APG<\/sup> combat maneuver check against that opponent as a free action. Additionally, if an adjacent target attempts to remove a condition that you inflicted upon it with the dirty trick combat maneuver, it provokes an attack of opportunity from you.",
-    "special": "In addition to the chosen weapon, a character with the weapon training class feature can use Cloak and Dagger Style with any light melee weapon belonging to any fighter weapon group he has selected with weapon training. A character with the swashbuckler weapon training<sup>ACG<\/sup> class feature can use Cloak and Dagger Style with light and one-handed piercing weapons.",
+    "prerequisites": "Int 13, Combat Expertise, Improved Dirty Trick, Vital Strike, Weapon Focus with the chosen weapon, base attack bonus +6.",
+    "benefit": "Choose one light melee weapon. While using this style, whenever you use the attack action to attack an opponent during a surprise round with your chosen weapon, you can attempt a dirty trick combat maneuver check against that opponent as a free action. Additionally, if an adjacent target attempts to remove a condition that you inflicted upon it with the dirty trick combat maneuver, it provokes an attack of opportunity from you.",
+    "special": "In addition to the chosen weapon, a character with the weapon training class feature can use Cloak and Dagger Style with any light melee weapon belonging to any fighter weapon group he has selected with weapon training. A character with the swashbuckler weapon training class feature can use Cloak and Dagger Style with light and one-handed piercing weapons.",
     "prerequisiteKeys":     [
         "combat expertise",
+        "improved dirty trick",
         "vital strike",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "蓬匕流",
+    "text_zh": "你的攻击能轻易对未察觉的对手造成不良状态。",
+    "prerequisites_zh": "智力13，寓守于攻，精通阴招，要害打击，对所选武器拥有武器专攻专长，BAB+6。",
+    "benefit_zh": "选择一种轻型近战武器。当你开启该流派时，每当你用所选的武器在突袭轮中用攻击动作来攻击一个敌人时，你可以用自由动作对该敌人进行一次阴招战技检定。另外，如果一个临近你的敌人试图移除一个你用阴招战技对他造成的状态时，他会引发你的借机攻击。<\/p><p>特殊情况：除了所选的武器之外，拥有武器训练职业能力的角色可以用任何属于他武器训练已选的战士武器组中的轻型近战武器来使用蓬匕流。拥有游荡剑客武器训练职业能力的角色则可以用所有轻型和单手穿刺武器来使用蓬匕流。"
 }

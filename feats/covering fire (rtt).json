@@ -6,5 +6,9 @@
     "text": "You distract your enemies with ranged attacks to protect your allies.",
     "prerequisites": "Point-Blank Shot.",
     "benefit": "You can use the aid another action with a ranged attack against an opponent, regardless of whether the opponent threatens an ally. Range penalties apply to this attack roll. Choose one ally when making the attack. If the attack is successful, that ally gains a +2 bonus to AC against that opponent’s next attack, as long as the attack comes before the beginning of your next turn. All allies with this feat also gain this bonus against that opponent.",
-    "prerequisiteKeys": ["point-blank shot"]
+    "prerequisiteKeys": ["point-blank shot"],
+    "name_zh": "掩护射击",
+    "text_zh": "你用远程攻击使敌人分心，从而保护队友。",
+    "prerequisites_zh": "近程射击。",
+    "benefit_zh": "你可以通过远程攻击敌人来发动援助他人动作，且无需该敌人正威胁盟友中。该次攻击检定承受一切正常加减值。你攻击时选择一个盟友，若攻击命中，只要目标在你的下一回合开始前对该盟友发动攻击，该盟友在对抗目标的下一次攻击时，AC获得+2加值。拥有该专长的所有盟友在对抗目标时都可以获得该专长效果。"
 }

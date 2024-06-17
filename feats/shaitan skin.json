@@ -8,7 +8,7 @@
     "prerequisites": "Con 15, Wis 15, Elemental Fist, Improved Unarmed Strike, Shaitan Style, base attack bonus +11 or monk level 9th.",
     "benefit": "You gain one additional Elemental Fist (<i>Advanced Player’s Guide <\/i>158) attempt per day. While using the Shaitan Style feat, you gain acid resistance equal to your base attack bonus, or your monk level plus BAB gained from levels in classes other than monk, whichever is higher. While denied your Dexterity bonus to AC you are also denied this resistance. Creatures that take acid damage from your Elemental Fist attack must succeed at a Reflex save (DC 10 + 1/2 your character level + your Wis modifier) or be staggered for 1 round.",
     "staminaSource": "Pathfinder Unchained pg. 131",
-    "staminaText": "When you make an Elemental Fist<sup>APG<\/sup> attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid being staggered by an amount equal to the number of stamina points you spent.",
+    "staminaText": "When you make an Elemental Fist attack, you can spend up to 5 stamina points to increase the DC of the saving throw to avoid being staggered by an amount equal to the number of stamina points you spent.",
     "prerequisiteKeys":     [
         "elemental fist",
         "improved unarmed strike",
@@ -16,6 +16,7 @@
     ],
     "name_zh": "土隐",
     "text_zh": "你能用强酸保护自己、伤害敌人。",
-    "prerequisites_zh": "体质15，感知15，土灵，元素之拳，精通徒手打击，基本攻击加值+11或武僧9级。",
-    "benefit_zh": "你获得1次额外“元素之拳”使用次数。当你处于土灵流派架势时获得以下好处：你获得酸抗力，数值等同于你的基本攻击加值，或你的武僧等级加上你其他职业得到的基本攻击加值（取高者）。当你失去AC的敏捷加值时，你也会失去此抗力。受到你元素之拳酸性伤害的对手须进行一次DC为“10+1/2角色等级+感知修正”的反射豁免，失败将恍惚1轮。"
+    "prerequisites_zh": "体质15，感知15，土灵，元素之拳，精通徒手打击，BAB+11或武僧9级。",
+    "benefit_zh": "你获得1次额外“元素之拳”使用次数。当你处于土灵流派架势时获得以下专长效果：你获得酸抗力，数值等同于你的基本攻击加值，或你的武僧等级加上你其他职业得到的基本攻击加值（取高者）。当你失去AC的敏捷加值时，你也会失去此抗力。受到你元素之拳酸性伤害的对手须进行一次DC为“10+1/2角色等级+感知修正”的反射豁免，失败将恍惚1轮。",
+    "staminaText_zh": "当你使用元素拳APG攻击时，你可以消耗至多5点耐力来提升避免恍惚的豁免DC，提升的点数等于你消耗的耐力。"
 }

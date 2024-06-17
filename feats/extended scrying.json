@@ -5,5 +5,9 @@
     "source": ["Path of the Hellknight pg. 21"],
     "text": "Your scrying spells last longer.",
     "prerequisites": "Ability to cast a spell of the scrying subschool.",
-    "benefit": "Any scrying spell you cast lasts twice as long as normal, as if it were cast as an extended spell with the Extend Spell metamagic feat. Additionally, when you cast a scrying spell with a casting time of 10 minutes or longer, that casting time is halved."
+    "benefit": "Any scrying spell you cast lasts twice as long as normal, as if it were cast as an extended spell with the Extend Spell metamagic feat. Additionally, when you cast a scrying spell with a casting time of 10 minutes or longer, that casting time is halved.",
+    "name_zh": "延时探知",
+    "text_zh": "你的探知法术持续时间更长。",
+    "prerequisites_zh": "能够施放探知（Scrying）子学派的法术。",
+    "benefit_zh": "你施放的任何探知子学派法术的持续时间是通常的两倍，如同它是通过法术延时（Extend Spell）超魔专长施放的延时法术一般。此外，当你施放施法时间为10分钟或更长的探知法术时，施放时间减半。"
 }

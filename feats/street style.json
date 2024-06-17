@@ -15,5 +15,10 @@
         "improved bull rush",
         "improved unarmed strike",
         "power attack"
-    ]
+    ],
+    "name_zh": "街霸流",
+    "text_zh": "你能利用城市的环境带来战斗优势，猛击敌人并把它弹向建筑。",
+    "prerequisites_zh": "力量 15，精通冲撞，精通徒手打击，猛力攻击，BAB+4或武僧等级3级。",
+    "benefit_zh": "当你使用街霸流期间，每轮1次以迅捷动作，能够在徒手打击命中目标时，额外造成1d6点伤害，并对目标尝试1次冲撞战技（bull rush combat maneuver）。",
+    "special_zh": "你只能在城市地形（urban terrain）启动街霸流的架势，当你离开城市地形后，该架势会立即终止。"
 }

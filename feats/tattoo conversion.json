@@ -4,7 +4,15 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Tattoo%20Conversion",
     "source": ["Monster Summoner's Handbook pg. 15"],
     "text": "Your have turned your deep knowledge of creating tattoos from summoned creatures into an offensive weapon.",
-    "prerequisites": "Inscribe Magical Tattoo<sup>ISM<\/sup> or Varisian Tattoo<sup>ISWG<\/sup>; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature<sup>UM<\/sup>.",
+    "prerequisites": "Inscribe Magical Tattoo or Varisian Tattoo; Tattoo Attunement; Spellcraft 15 ranks; ability to cast control summoned creature.",
     "benefit": "Once per day as a standard action that provokes attacks of opportunity, you can make a melee touch attack against a summoned creature to transform it into a magical tattoo on your body as per Tattoo Attunement. When you later transform the creature from tattoo to creature form, you can attempt an opposed Spellcraft check against the creature’s original summoner; if that summoner is unconscious or dead, you automatically succeed at the check. If you succeed, the creature must succeed at a Will save (DC = 10 + your caster level) or treat you as the caster of the spell that originally summoned it for the remaining duration of the spell. This is a supernatural ability.",
-    "prerequisiteKeys": ["tattoo attunement"]
+    "prerequisiteKeys":     [
+        "inscribe magical tattoo",
+        "tattoo attunement",
+        "varisian tattoo"
+    ],
+    "name_zh": "刺青转变",
+    "text_zh": "你把你在制作刺青上的深厚知识从召唤生物转变为进攻的武器。",
+    "prerequisites_zh": "绘制魔法刺青（ISM）或者瓦瑞西安刺青（ISWG）；刺青协调；法术辨识15级；使用控制召唤生物（UM）的能力。",
+    "benefit_zh": "一天一次，通过一个不会引发借机攻击的标准动作，你可以对召唤生物进行一次近战武器攻击来把它转变为你身上的一个魔法刺青，如同刺青协调。当你在之后把生物从图腾转变为生物时，你可以进行一次法术辨识对抗该生物的原本召唤者；如果召唤者失去意识或者死亡，则你在鉴定中自动胜利。如果你成功，该生物必须通过一个意志检定（DC=10+你的施法者等级）否则将在召唤法术的剩余持续时间中把你当成原本的召唤者。这是一个超自然能力。"
 }

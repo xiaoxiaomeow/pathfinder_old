@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Healer's Handbook pg. 8"],
     "text": "You know how to apply restrictions on how a creature can use the benefits of your spells.",
-    "benefit": "A conditional spell is subject to the rules laid out in the spell <i>conditional favor<\/i> (<i>Pathfinder RPG Ultimate Intrigue 206<\/i>). A conditional spell takes up a spell slot 1 level higher than normal."
+    "benefit": "A conditional spell is subject to the rules laid out in the spell <i>conditional favor<\/i> (<i>Pathfinder RPG Ultimate Intrigue 206<\/i>). A conditional spell takes up a spell slot 1 level higher than normal.",
+    "name_zh": "限制法术",
+    "text_zh": "你知道如何在让一个生物如何从你的法术中获得益处这件事上加以限制。",
+    "benefit_zh": "一个限制法术会应用conditional favor(Pathfnder RPG Ultimate Intrigue206)这个法术所列出的规则。一个限制法术须占用高于原本1个环位的法术位。"
 }

@@ -5,5 +5,9 @@
     "source": ["Familiar Folio pg. 18"],
     "text": "Distance can’t sever the bond between you and your familiar.",
     "prerequisites": "Intelligence 13, must have a familiar.",
-    "benefit": "You retain your empathic link to your familiar regardless of distance, though lead blocks the link at distances greater than 1 mile (similar to the way lead blocks <i>detect magic<\/i> effects)."
+    "benefit": "You retain your empathic link to your familiar regardless of distance, though lead blocks the link at distances greater than 1 mile (similar to the way lead blocks <i>detect magic<\/i> effects).",
+    "name_zh": "远行魔宠",
+    "text_zh": "距离无法切断你与魔宠间的联系。",
+    "prerequisites_zh": "智力13，必须具有魔宠。",
+    "benefit_zh": "无论距离有多远，你和魔宠之间的情感连接（Empathic Link）都不会中断，但是当你与魔宠间的距离超过1英里以上时，可以用铅来隔断连接（这类似于用铅板阻挡侦测魔法效果）。"
 }

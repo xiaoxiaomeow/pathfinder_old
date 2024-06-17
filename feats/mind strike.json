@@ -6,5 +6,9 @@
     "source": ["Chronicle of Legends pg. 9"],
     "text": "Your sneak attacks strike not only your target’s body but also their willpower.",
     "prerequisites": "Ranged legerdemain class feature.",
-    "benefit": "Whenever you deal sneak attack damage, you fluster your foe, causing your target to take a penalty on Will saves equal to the number of sneak attack dice you rolled on the attack for 1 round. This penalty does not stack with itself, but each time you deal sneak attack damage to an affected target, the duration is extended by 1 round."
+    "benefit": "Whenever you deal sneak attack damage, you fluster your foe, causing your target to take a penalty on Will saves equal to the number of sneak attack dice you rolled on the attack for 1 round. This penalty does not stack with itself, but each time you deal sneak attack damage to an affected target, the duration is extended by 1 round.",
+    "name_zh": "摧残心智",
+    "text_zh": "你的偷袭不但能伤害目标的身体，也能击垮他们的意志。",
+    "prerequisites_zh": "远程诡计职业能力。",
+    "benefit_zh": "当你造成偷袭伤害时，你使敌人心烦意乱。目标因此在意志豁免上承受减值（数值等同于你在该次攻击上所投的偷袭伤害骰数），持续1轮。此减值不与自身叠加，但每次你对受影响的生物进行偷袭攻击时，持续时间便延长1轮。"
 }

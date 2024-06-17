@@ -7,5 +7,9 @@
     "text": "You can channel magical power through your weapon to devastating effect.",
     "prerequisites": "Arcing Weapon, diverse training class feature.",
     "benefit": "As a standard action, you can cast a spell with an area of effect and a duration of instantaneous, such as <i>fireball<\/i>, and release it through your melee weapon as part of a melee attack. This functions as the magus spellstrike ability, except the spell damage does not multiply on a critical hit, the spell effect is centered on you, and you are excluded from its effects.",
-    "prerequisiteKeys": ["arcing weapon"]
+    "prerequisiteKeys": ["arcing weapon"],
+    "name_zh": "爆裂武器",
+    "text_zh": "你可以透过武器引导魔法能量，产生出毁灭性的效果。",
+    "prerequisites_zh": "弧光武器，多样化训练职业能力。",
+    "benefit_zh": "以一个标准动作，你可以施展一个效果影响范围且持续时间为立即的法术（例如火球术），并作为近战攻击的一部分将其释放。此专长效果如同魔战士的法术打击能力，但法术伤害并不会因为重击而乘倍。该法术的效果以你为中心点，但你不受其效果影响。"
 }

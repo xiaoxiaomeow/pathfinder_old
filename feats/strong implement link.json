@@ -10,7 +10,8 @@
     "special": "You can take this feat multiple times. Its effects don’t stack. Each time you take the feat, you gain the benefits for a different school of implements. If you have more than one implement of a single school, you can select that school multiple times and apply the benefits to another one of those implements each time you take this feat and select that school.",
     "name_zh": "灵器羁绊",
     "text_zh": "你与特定灵器具有强烈的联结，这让你能在未持有灵器时更有效地使用它的力量。",
-    "prerequisites_zh": "灵器（Implements）职业能力",
-    "benefit_zh": "当你与你的灵器相距30尺之内时，则不需要尝试专注检定便能够施放与该灵器相关的法术。当你和灵器间的距离大于30尺的话，则专注检定的DC仅为15 + 法术环级。<\/p><p>正常：如果你要尝试施法，但是并没随身携带与该法术相关的灵器时，必须成功通过一次专注检定才能施放法术，检定DC为20 + 法术环级。",
+    "prerequisites_zh": "灵器（Implements）职业能力。",
+    "benefit_zh": "当你与你的灵器相距30尺之内时，则不需要尝试专注检定便能够施放与该灵器相关的法术。当你和灵器间的距离大于30尺的话，则专注检定的DC仅为15 + 法术环级。",
+    "normal_zh": "如果你要尝试施法，但是并没随身携带与该法术相关的灵器时，必须成功通过一次专注检定才能施放法术，检定DC为20 + 法术环级。",
     "special_zh": "你可以多次选取该专长。其效果不会叠加。每当你选取该专长时，都会将其效果应用至一个不同的灵器学派上。若你在单个学派上有多个灵器，则可以多次选择该学派；不过每次选择该专长而且选择该学派时，仅能将该专长的好处应用至属于该学派的不同灵器上。"
 }

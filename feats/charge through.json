@@ -12,7 +12,7 @@
     "staminaText": "When you attempt and fail to overrun a creature in the path of your charge, you can spend 5 stamina points to finish your charge against that creature instead of losing your charge.",
     "mythicSource": "Mythic Adventures pg. 60",
     "mythicText": "You can plow through those who stand between you and the target of your charge.",
-    "mythicPrerequisites": "Charge Through<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Charge Through.",
     "mythicBenefit": "When charging, you can ignore allies in your path when determining whether or not you can charge your target. Furthermore, after you have attempted at least one overrun with Charge Through, you can expend one use of mythic power as a free action to attempt another overrun against a different opponent in the path of the same charge.",
     "prerequisiteKeys":     [
         "improved overrun",
@@ -20,7 +20,11 @@
     ],
     "name_zh": "闯越冲锋",
     "text_zh": "你能够在冲锋时进行闯越。",
-    "prerequisites_zh": "力量13，精通闯越，猛力攻击，基本攻击加值+1。",
+    "prerequisites_zh": "力量13，精通闯越，猛力攻击，BAB+1。",
     "benefit_zh": "当你进行冲锋时，可以尝试以自由动作闯越路径上的一个生物。如果你成功闯越该名生物，就能够完成此次冲锋。如果闯越失败，则冲锋会在该名生物面前的空间结束。",
-    "normal_zh": "为了冲锋目标，你与目标之间不能有障碍。"
+    "normal_zh": "为了冲锋目标，你与目标之间不能有障碍。",
+    "mythicText_zh": "你能够铲平挡在你与冲锋目标之间的家伙。",
+    "mythicPrerequisites_zh": "闯越冲锋",
+    "mythicBenefit_zh": "当你冲锋时，在判断你是否能够冲锋你的目标时，你能够忽略路径上的盟友。此外，当你在进行闯越冲锋时至少尝试完1次闯越之后，能够以自由动作花费1次神话之力，以此来在同一次冲锋中对路径上的不同敌人尝试另一次闯越。",
+    "staminaText_zh": "如果闯越失败，你的冲锋终止于障碍生物，花费5点耐力可使你将此生物作为冲锋的目标。"
 }

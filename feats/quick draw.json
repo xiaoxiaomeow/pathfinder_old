@@ -16,7 +16,11 @@
     "mythicBenefit": "You can use Quick Draw to draw items of any kind, not just weapons, provided they are stored or concealed on your person. As a move action, you can expend one use of mythic power to retrieve up to two hidden items. You must have two hands free to do so.",
     "name_zh": "即时备战",
     "text_zh": "你能够比大多数人更快的拔出武器。",
-    "prerequisites_zh": "基本攻击加值+1。",
+    "prerequisites_zh": "BAB+1。",
     "benefit_zh": "你能够以自由动作而不是移动动作拔出一把武器。你能够以移动动作拔出一把隐藏的武器（见巧手技能）。选择此专长的人物能以他的正常攻击频率投掷武器（如同使用弓的人物一样）。炼金物品、药水、卷轴和魔杖不能用此专长快速拿取。",
-    "normal_zh": "没有此专长，你拔出一把武器是移动动作，或做为移动一部分的自由动作（如果你的BAB+1以上）。没有此专长，你拔出一把隐藏的武器是标准动作。"
+    "normal_zh": "没有此专长，你拔出一把武器是移动动作，或做为移动一部分的自由动作（如果你的BAB+1以上）。没有此专长，你拔出一把隐藏的武器是标准动作。",
+    "mythicText_zh": "你能够快速取出任何物品，而不仅仅是武器。",
+    "mythicPrerequisites_zh": "即时备战",
+    "mythicBenefit_zh": "你能够使用即时备战专长取出任意种类的物品，而不仅仅是武器，不过这需要在这些物品收纳（stored）或隐藏（concealed）在你的身上。以移动动作，你能够花费1次神话之力，以此来取出两件隐藏的物品。你必须双手都空着才能这么做。",
+    "staminaText_zh": "只要你的耐力池中还有1点耐力，你就能以一个迅捷动作将武器放回鞘中。"
 }

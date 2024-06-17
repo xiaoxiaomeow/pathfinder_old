@@ -9,14 +9,15 @@
     "benefit": "On your turn, you can perform a single dirty trick combat maneuver (<i>Advanced Players Guide<\/i> 320) in place of one of your melee attacks. You must choose the melee attack with the highest base attack bonus to make the dirty trick combat maneuver.",
     "normal": "A dirty trick combat maneuver is a standard action.",
     "staminaSource": "Pathfinder Unchained pg. 129",
-    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 2 stamina points to change an attack that does not have your highest base attack bonus into a dirty trick<sup>APG<\/sup> combat maneuver. You can use this combat trick only once per round, but you can use it even if you already used your attack at the highest base attack bonus for a dirty trick.",
+    "staminaText": "You can select this feat even if you don’t meet the ability score prerequisite (Intelligence 13). You gain the benefits of this feat only as long as you have at least 1 stamina point in your stamina pool. You can spend 2 stamina points to change an attack that does not have your highest base attack bonus into a dirty trick combat maneuver. You can use this combat trick only once per round, but you can use it even if you already used your attack at the highest base attack bonus for a dirty trick.",
     "prerequisiteKeys":     [
         "combat expertise",
         "improved dirty trick"
     ],
     "name_zh": "快速阴招",
     "text_zh": "你在攻击中夹杂一些阴险下流的伎俩，让你的对手来不及反应。",
-    "prerequisites_zh": "智力13，寓守于攻，精通阴招，基本攻击加值+6。",
+    "prerequisites_zh": "智力13，寓守于攻，精通阴招，BAB+6。",
     "benefit_zh": "当你行动时，你可以用一次单独的阴招战技检定来代替你的一次近战攻击。你只能用使用最高攻击加值的那次攻击来阴招。",
-    "normal_zh": "阴招战技检定是一个标准动作。"
+    "normal_zh": "阴招战技检定是一个标准动作。",
+    "staminaText_zh": "即使你没有满足属性值先决条件（智力13）时也可以选择这个专长。只有在你的耐力池中至少还有1点耐力时你才能获得这个专长的好处。你可以消耗2点耐力来让一次不是最高基本攻击加值的攻击变成阴招APG战技。你每轮只能使用这个战策1次，但你可以在你已经使用你最高基本攻击加值进行虚招之后使用这个战策。"
 }

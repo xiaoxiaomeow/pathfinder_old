@@ -5,5 +5,8 @@
     "descriptors": ["Metamagic"],
     "source": ["Ultimate Intrigue pg. 94"],
     "text": "Your magic is difficult to unravel.",
-    "benefit": "Increase the DC of caster level checks to counter or dispel a tenacious spell by 2. If a tenacious spell is dispelled or dismissed, it lasts for 1d4 further rounds (to a maximum of the spell’s normal duration) before ending (this does not occur if antimagic field or a similar spell or effect suppresses or ends the spell’s effect without dispelling or dismissing it). The lingering auras of tenacious spells detectable with detect magic last for twice as long as usual after the spells end. A tenacious spell uses up a spell slot 1 level higher than the spell’s actual level."
+    "benefit": "Increase the DC of caster level checks to counter or dispel a tenacious spell by 2. If a tenacious spell is dispelled or dismissed, it lasts for 1d4 further rounds (to a maximum of the spell’s normal duration) before ending (this does not occur if antimagic field or a similar spell or effect suppresses or ends the spell’s effect without dispelling or dismissing it). The lingering auras of tenacious spells detectable with detect magic last for twice as long as usual after the spells end. A tenacious spell uses up a spell slot 1 level higher than the spell’s actual level.",
+    "name_zh": "强固法术",
+    "text_zh": "你法术难以破除。",
+    "benefit_zh": "反制（counter）或解除（dispel）强固法术的施法者等级检定DC增加2点。若强固法术被解消或解除了的话，它仍会在结束之前持续1d4轮（最高持续至法术正常的持续时间）；如果反魔场（antimagic field）或者类似的法术或效果将强固法术压制了、或者强固法术并非是由于解消或解除而结束的话，上述效果就不会发生。在使用侦测魔法侦测时，强固法术结束后残留的灵光所存续的时间为正常的两倍。强固法术使用比法术的实际环级高1级的法术位。"
 }

@@ -9,6 +9,10 @@
     "source": ["Ultimate Intrigue pg. 87"],
     "text": "You fight with seamless grace alongside your allies, complementing the inherent strengths of your weaponry.",
     "prerequisites": "Int 13, Combat Expertise, Sense Motive 3 ranks.",
-    "benefit": "When adjacent to an ally with this feat who is wielding a weapon with the blocking<sup>UE<\/sup>, disarm, distracting<sup>UE<\/sup>, or trip weapon special feature, you can treat your own weapon as if it also had that feature. If your ally’s weapon has more than one of those features, you choose one feature to emulate at the start of your turn.",
-    "prerequisiteKeys": ["combat expertise"]
+    "benefit": "When adjacent to an ally with this feat who is wielding a weapon with the blocking, disarm, distracting, or trip weapon special feature, you can treat your own weapon as if it also had that feature. If your ally’s weapon has more than one of those features, you choose one feature to emulate at the start of your turn.",
+    "prerequisiteKeys": ["combat expertise"],
+    "name_zh": "武器协同",
+    "text_zh": "在战斗中，你与盟友的协作如行云流水一般，而这也为你的武器提供了更多的优势。",
+    "prerequisites_zh": "智力 13，寓守于攻，察言观色3级。",
+    "benefit_zh": "当你与1名具有该专长的盟友相邻、而且它持用着的武器具有格挡（blocking）、卸武（disarm）、虚实（distracting）或摔绊（trip）武器特性时，你自己的武器也能被视同为具有相应的特性。若盟友的武器具有多个合适的特性，那么你要在自己回合开始时决定自己的武器获得哪1种特性。"
 }

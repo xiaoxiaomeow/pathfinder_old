@@ -10,5 +10,9 @@
     "text": "Your intimacy with runes and the mysteries of ancient arcana has taught you secret ways to draw greater power from magical writings. The Cyphermages of Riddleport initially devised these unusual methods, but they have since spread far and wide through the Inner Sea region.",
     "prerequisites": "Int 15, Scribe Scroll.",
     "benefit": "You cast spells from scrolls at 1 caster level higher than the scroll’s caster level. In addition, you gain a +2 bonus on caster level checks to activate a scroll with a higher caster level than your own.",
-    "prerequisiteKeys": ["scribe scroll"]
+    "prerequisiteKeys": ["scribe scroll"],
+    "name_zh": "密文魔法",
+    "text_zh": "你对符文与古代奥术之秘的熟悉教会了你从魔法文字中吸收强大力量的秘术。这些不同寻常的使用方法最初是由谜港城（Riddleport）的密文法师（Cyphermages）发明的，现在这些知识已经广泛传播至整个内海地区。",
+    "prerequisites_zh": "智力15，抄写卷轴。",
+    "benefit_zh": "当你使用卷轴施法时，视卷轴比其自身的施法者等级高1级。这种好处会延伸至你所制作的卷轴中。此外，如果你使用的卷轴的施法者等级比你自身的施法者等级高，那么你会在激活这个卷轴的施法者等级检定中获得+2加值。"
 }

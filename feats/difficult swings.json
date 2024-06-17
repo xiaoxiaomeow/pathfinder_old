@@ -6,5 +6,9 @@
     "source": ["Weapon Master's Handbook pg. 22"],
     "text": "You can force foes to move cautiously when near you.",
     "prerequisites": "Base attack bonus +5, weapon training class feature with a melee weapon.",
-    "benefit": "When you make a full attack with an appropriate melee weapon, you can force creatures to treat squares adjacent to you as difficult terrain until the beginning of your next turn. You can choose to allow any creature you are aware of to ignore the difficult terrain you effectively create with this feat."
+    "benefit": "When you make a full attack with an appropriate melee weapon, you can force creatures to treat squares adjacent to you as difficult terrain until the beginning of your next turn. You can choose to allow any creature you are aware of to ignore the difficult terrain you effectively create with this feat.",
+    "name_zh": "横扫六合",
+    "text_zh": "你的攻击压制敌人，使他们必须在你身周谨慎的行动。",
+    "prerequisites_zh": "BAB+5，对所选近战武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "在以所选的近战武器进行整轮攻击时，你能够迫使其他生物在直到你的下一轮开始前将所有邻接你的方格视为困难地形。你可以选择任意生物不受到你通过本专长造成的这些困难地形的效果影响。"
 }

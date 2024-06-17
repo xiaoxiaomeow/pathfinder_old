@@ -4,6 +4,10 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Studied%20Expertise",
     "source": ["Haunted Heroes Handbook pg. 6"],
     "text": "Your insight lingers within the minds of your allies.",
-    "prerequisites": "Inspirational expertise investigator talent<sup>ACG<\/sup>.",
-    "benefit": "You can spend one use of inspiration as a swift action to grant allies within 30 feet that can hear you a +4  insight bonus on attack rolls against one type of monster for 1 round, provided you succeeded at a Knowledge check to identify that type of monster’s special powers or vulnerabilities no more than 1 minute earlier."
+    "prerequisites": "Inspirational expertise investigator talent.",
+    "benefit": "You can spend one use of inspiration as a swift action to grant allies within 30 feet that can hear you a +4  insight bonus on attack rolls against one type of monster for 1 round, provided you succeeded at a Knowledge check to identify that type of monster’s special powers or vulnerabilities no more than 1 minute earlier.",
+    "name_zh": "解说之策",
+    "text_zh": "你的洞见卓识长久萦绕在战友的脑海之中。",
+    "prerequisites_zh": "解说灵感调查员天赋。",
+    "benefit_zh": "你可以消耗1点灵感点数，以一个迅捷动作，使所有距离你30尺内且可以听到声音的盟友在1轮内对于此怪物或此类型的怪物的攻击投骰获得+4洞察加值。只要你成功辨识出该怪物类型的特殊能力或者弱点不超过1分钟的时间。"
 }

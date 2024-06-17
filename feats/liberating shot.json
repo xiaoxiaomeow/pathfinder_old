@@ -7,5 +7,9 @@
     "text": "You can use ranged weapons to help grappled allies escape their captors’ clutches.",
     "prerequisites": "Dex 13, Deadly Aim, base attack bonus +7, weapon training class feature with a ranged weapon.",
     "benefit": "When you hit an opponent with a ranged attack as part of an attack action and that opponent is grappling an ally, your grappled ally can use your attack roll result in place of her combat maneuver check result, whichever is higher, to escape from the grapple during her next turn.",
-    "prerequisiteKeys": ["deadly aim"]
+    "prerequisiteKeys": ["deadly aim"],
+    "name_zh": "解放射击",
+    "text_zh": "你可以通过远程武器攻击来解放被攫住的盟友。",
+    "prerequisites_zh": "敏捷13，致命瞄准，BAB+7，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "当你以一个攻击动作发动的远程攻击成功命中一个正在擒抱你盟友的敌人时，这个盟友可以使用你在这次远程攻击检定时投出结果作为他的战技攻击检定结果，在下一轮时用来尝试挣脱擒抱。"
 }

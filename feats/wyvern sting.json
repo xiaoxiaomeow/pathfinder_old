@@ -5,10 +5,14 @@
     "descriptors": ["Combat"],
     "source": ["Legacy of Dragons pg. 21"],
     "text": "You can use your whip like a wyvern’s sting, forcing foes to give it their undivided attention.",
-    "prerequisites": "Exotic Weapon Proficiency (whip), Wyvern Fury Style, Acrobatics 6 ranks, brawler’s flurry<sup>ACG<\/sup> class feature or flurry of blows class feature.",
-    "benefit": "While using Wyvern Fury Style, if you successfully attack a foe with a whip or scorpion whip<sup>UC<\/sup>, as a swift action you can choose one ally. Until the beginning of your next turn, that ally can leave spaces threatened by that foe without provoking an attack of opportunity from the foe.",
+    "prerequisites": "Exotic Weapon Proficiency (whip), Wyvern Fury Style, Acrobatics 6 ranks, brawler’s flurry class feature or flurry of blows class feature.",
+    "benefit": "While using Wyvern Fury Style, if you successfully attack a foe with a whip or scorpion whip, as a swift action you can choose one ally. Until the beginning of your next turn, that ally can leave spaces threatened by that foe without provoking an attack of opportunity from the foe.",
     "prerequisiteKeys":     [
         "exotic weapon proficiency",
         "wyvern fury style"
-    ]
+    ],
+    "name_zh": "飞龙钉刺",
+    "text_zh": "你的鞭子就像飞龙的钉刺一样，迫使敌人集中注意力。",
+    "prerequisites_zh": "擅长异种武器（长鞭），飞龙狂怒流，特技6级，连打职业能力或疾风连击职业能力。",
+    "benefit_zh": "当使用飞龙狂怒流时，如果你成功地用长鞭或蝎尾鞭攻击了敌人，你可以以一个迅捷动作选择一个盟友。在你的下一回合开始前，该盟友可以离开被敌人威胁的空间而不会引起敌人的借机攻击。"
 }

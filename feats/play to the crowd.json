@@ -6,5 +6,9 @@
     "text": "You can glean the interests of others and use that information to strengthen your rhetoric.",
     "prerequisites": "Int 19, Ironclad Logic, Diplomacy 5 ranks, Sense Motive 5 ranks.",
     "benefit": "When you use Diplomacy to change the attitude of a character, you can first attempt a Sense Motive check against that NPC to get a hunch to determine whether the character is under the influence of an enchantment, to use Sense Assumptions, or to determine biases for a verbal duel. If you succeed at the Sense Motive check, you gain a +2 bonus on the Diplomacy check, and if you learned any biases for a verbal duel, you learn one additional bias of your choice. You do not worsen an NPC’s attitude if you fail a Diplomacy check by 5 or more.",
-    "prerequisiteKeys": ["ironclad logic"]
+    "prerequisiteKeys": ["ironclad logic"],
+    "name_zh": "投其所好",
+    "text_zh": "你能够搜集他人的利益关系，并使用这些信息来强化言语的力度。",
+    "prerequisites_zh": "智力 19，不破的逻辑，交涉5级，察言观色5级。",
+    "benefit_zh": "当你使用交涉来改变1名角色的态度时，可以首先尝试1次察言观色检定对抗该名NPC，以此来获得一种直觉（get a hunch），了解该名角色是否正受到附魔系效果（enchantment）的影响、对其使用查知观念*（Sense Assumptions）专长或用于在舌战（verbal duel；见本书176页）中评估偏好（biases）。若你的察言观色检定成功了，则会在交涉检定中获得+2加值，而且若你在舌战（verbal duel）中得知了任何对方的偏好（biases），则可以选择额外得知一种偏好。如果你在交涉检定中失败5点或共多的话，不会因此而让NPC的态度变差。"
 }

@@ -9,9 +9,13 @@
     "source": ["Weapon Master's Handbook pg. 20"],
     "text": "You catch objects with your ranged attacks and drag them along with you.",
     "prerequisites": "Dex 13, Deadly Aim, Ranged Disarm (<i>Ranged Tactics Toolbox<\/i> 8), base attack bonus +6, weapon training class feature with a ranged weapon.",
-    "benefit": "You don’t take the –2 penalty for attempting disarm combat maneuver checks with a ranged weapon using Ranged Disarm, and you can attempt a steal<sup>APG<\/sup> combat maneuver check instead of a disarm combat maneuver check when using Ranged Disarm. In addition, when you successfully disarm or steal an item from an opponent, that item is deposited in that opponent’s square. For every 5 by which your attack exceeds the target’s CMD, you can deposit the item 5 feet away from the target (to a maximum of the attack’s maximum range or until your projectile strikes an object that it cannot penetrate). If you use this ability with a thrown weapon and have the Ricochet Toss feat, both the weapon and the item return to you.",
+    "benefit": "You don’t take the –2 penalty for attempting disarm combat maneuver checks with a ranged weapon using Ranged Disarm, and you can attempt a steal combat maneuver check instead of a disarm combat maneuver check when using Ranged Disarm. In addition, when you successfully disarm or steal an item from an opponent, that item is deposited in that opponent’s square. For every 5 by which your attack exceeds the target’s CMD, you can deposit the item 5 feet away from the target (to a maximum of the attack’s maximum range or until your projectile strikes an object that it cannot penetrate). If you use this ability with a thrown weapon and have the Ricochet Toss feat, both the weapon and the item return to you.",
     "prerequisiteKeys":     [
         "deadly aim",
         "ranged disarm"
-    ]
+    ],
+    "name_zh": "神射卸武",
+    "text_zh": "你可以射飞敌人手中的装备，然后自己抓住它们。",
+    "prerequisites_zh": "敏捷13，致命瞄准，远程卸武RTT 远程战术工具匣，BAB+6，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "当你使用远程卸武专长以远程武器发动卸武战技攻击时，你不会在攻击检定上承受-2减值。除此之外，你可以使用远程卸武专长来尝试发动偷窃战技攻击而非卸武战技攻击。另外，如果你成功地从对手那里卸除或偷窃了一件物品，这件武器将会掉在目标所占据的方格。你的战技攻击检定结果每超过目标的CMD5点，这件物品就会飞离他5尺远（最远不超过这次攻击的最大射程，或是你这次射击的弹药携带着它击中一个无法穿越的障碍物为止）。如果你在拥有回弹投射专长的同时使用本专长的效果，那么你的武器和被卸除/偷窃的物品会一起返回你的手中。"
 }

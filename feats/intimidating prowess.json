@@ -14,5 +14,9 @@
     "mythicBenefit": "You gain a bonus on Intimidate checks equal to your tier against non-mythic creatures, or half your tier against mythic creatures. If you also have the Persuasive (mythic) feat, you can expend one use of mythic power to treat the Intimidate check as if you had rolled a natural 20. You must decide to use this ability before the roll is made.",
     "name_zh": "威逼",
     "text_zh": "你的力量令他人恐惧。",
-    "benefit_zh": "你的威吓技能检定在魅力调整之外再计入力量修正。"
+    "benefit_zh": "你的威吓技能检定在魅力调整之外再计入力量修正。",
+    "mythicText_zh": "你那神话般的身形让人感到不安。",
+    "mythicPrerequisites_zh": "威逼",
+    "mythicBenefit_zh": "在对抗非神话生物时，你的威吓检定获得加值，数值等同于你的神话阶层，这个加值在对抗神话生物时减半。若你同时具有谈判专家（神话）专长，你能够花费1次神话之力来让你的威吓检定如同掷出自然20一般。你必须在进行检定之前决定是否使用该能力。",
+    "staminaText_zh": "当你尝试威吓检定时，你可以通过消耗耐力来消除你和目标之间的体型差距带来的减值，每消耗2点可以消除一个体型的差距。"
 }

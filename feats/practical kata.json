@@ -10,5 +10,9 @@
     "text": "Your martial meditation extends onto the battlefield.",
     "prerequisites": "Improved Unarmed Strike, ki pool class feature.",
     "benefit": "When you hit with a melee attack against an opponent you have already damaged this round, you can forgo dealing damage to instead regain 1 ki point. This feat can restore only 1 ki point every minute, to a maximum per day of 1 point for every 4 class levels you have.",
-    "prerequisiteKeys": ["improved unarmed strike"]
+    "prerequisiteKeys": ["improved unarmed strike"],
+    "name_zh": "实用形",
+    "text_zh": "你的武学冥想延伸至战场上。",
+    "prerequisites_zh": "精通徒手打击，气池职业特性。",
+    "benefit_zh": "当你用近战攻击命中你本轮已经造成伤害的对手时，你可以放弃造成伤害，而是恢复1点气。该专长每分钟只能恢复1点气。你每拥有4个职业等级，每天最多可恢复1点气。"
 }

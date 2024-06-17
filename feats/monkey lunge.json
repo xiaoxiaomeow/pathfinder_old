@@ -8,5 +8,9 @@
     "prerequisites": "Lunge, Acrobatics 1 rank.",
     "benefit": "As a standard action, you can use the Lunge feat to increase the reach of your melee attacks by 5 feet until the end of your turn, without suffering a penalty to your AC. You cannot use this feat if you carry a medium or heavy load.",
     "normal": "You take a –2 penalty to your AC until your next turn when making a lunge attack.",
-    "prerequisiteKeys": ["lunge"]
+    "prerequisiteKeys": ["lunge"],
+    "name_zh": "灵猴突刺",
+    "text_zh": "你可以快速调整你的步伐，让你免受反击。",
+    "prerequisites_zh": "突刺专长，特技动作1级。",
+    "benefit_zh": "以一个标准动作发动攻击，你可以使用突刺专长在你的回合结束之前增加你的可触距离五尺，而不需承受AC减值。你不能在中载或重载的时候使用此专长。<\/p><p>正常情况：使用突刺专长将使你承受-2AC的惩罚。"
 }

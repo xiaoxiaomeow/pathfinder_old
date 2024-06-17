@@ -9,7 +9,12 @@
     "source": ["Weapon Master's Handbook pg. 14"],
     "text": "You can fight in melee with your bow, crossbow, or firearm.",
     "prerequisites": "Weapon Focus with the chosen weapon.",
-    "benefit": "While using this style, you can make melee attacks with the chosen weapon as if it were a heavy mace (or a light mace for melee attack made with a hand crossbow or one-handed firearm), though you don’t automatically threaten the area around you as if you were wielding a melee weapon. You can switch between melee and ranged attacks with this weapon without penalty, even during the same round. In addition, you ignore the elf prerequisite for the Stabbing Shot feat<sup>APG<\/sup>. If you have the Stabbing Shot feat, you can use it with a crossbow or firearm, substituting a loaded bolt or firearm ammunition for an arrow.",
+    "benefit": "While using this style, you can make melee attacks with the chosen weapon as if it were a heavy mace (or a light mace for melee attack made with a hand crossbow or one-handed firearm), though you don’t automatically threaten the area around you as if you were wielding a melee weapon. You can switch between melee and ranged attacks with this weapon without penalty, even during the same round. In addition, you ignore the elf prerequisite for the Stabbing Shot feat. If you have the Stabbing Shot feat, you can use it with a crossbow or firearm, substituting a loaded bolt or firearm ammunition for an arrow.",
     "special": "In addition to the chosen weapon, a character with this feat and the weapon training (bows, crossbows, or firearms) class feature can use Empty Quiver Style with any bow, crossbow, or firearm, respectively.",
-    "prerequisiteKeys": ["weapon focus"]
+    "prerequisiteKeys": ["weapon focus"],
+    "name_zh": "折翎式",
+    "text_zh": "你可以用自己的弓，十字弓或是火器痛击贴近的敌人。",
+    "prerequisites_zh": "对所选武器拥有武器专攻专长。",
+    "benefit_zh": "当你开启此流派的架势时，你可以持用自己所选的远程武器，使用重型硬头锤（如果是单手火器或手弩则是轻型硬头锤）的数据对敌人进行近战攻击，但此法并不会使你如同持用近战武器一样威胁周围格子。你可以自由转换近战和远战模式而没有任何惩罚，就算是同一轮内也无妨。除此之外，你可以无视先决条件而选择针刺射击（Stabbing Shot）APG专长。如果你确实拥有针刺射击专长，那么你可以使用十字弓或火器来进行针刺射击效果中的近战攻击（使用它们的装填好的弩矢或子弹的替代箭矢）。",
+    "special_zh": "一个拥有武器训练（弓，弩或火器）职业能力的角色可以使用任何弓，弩或火器而非仅限于他所选的单件武器来获得此流派的好处。"
 }

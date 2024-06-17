@@ -9,15 +9,19 @@
     "benefit": "You do not provoke an attack of opportunity when performing a drag combat maneuver. In addition, you receive a +2 bonus on checks made to drag a foe. You also receive a +2 bonus to your Combat Maneuver Defense when an opponent tries to drag you.",
     "normal": "You provoke an attack of opportunity when performing a drag combat maneuver.",
     "staminaSource": "Pathfinder Unchained pg. 123",
-    "staminaText": "When you are the target of a drag<sup>APG<\/sup> combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that drag attempt increases by that number.",
+    "staminaText": "When you are the target of a drag combat maneuver, you can spend a number of stamina points up to your Strength or Dexterity bonus, whichever is greater. Your CMD against that drag attempt increases by that number.",
     "mythicSource": "Mythic Adventures pg. 67",
     "mythicText": "You pull your enemies around the battlefield with great ease.",
-    "mythicPrerequisites": "Improved Drag<sup>APG<\/sup>.",
+    "mythicPrerequisites": "Improved Drag.",
     "mythicBenefit": "You gain a bonus equal to half your tier on checks to attempt a drag combat maneuver, and to your CMD when an opponent attempts a drag combat maneuver against you. These bonuses stack with those granted by Improved Drag.<br><br> Furthermore, you can make an attack of opportunity against any creature that attempts a drag maneuver against you, unless it also has this feat.",
     "prerequisiteKeys": ["power attack"],
     "name_zh": "精通拖拽",
     "text_zh": "你擅长在战场中拖拽敌人。",
-    "prerequisites_zh": "力量13，猛力攻击，基本攻击加值+1。",
+    "prerequisites_zh": "力量13，猛力攻击，BAB+1。",
     "benefit_zh": "当你使用拖拽战技时不会引起借机攻击。此外，你所实行的拖拽战技检定获得+2加值。你还在对抗针对自身的拖拽战技时，CMD获得+2加值。",
-    "normal_zh": "当你使用拖拽战技时会引起借机攻击。"
+    "normal_zh": "当你使用拖拽战技时会引起借机攻击。",
+    "mythicText_zh": "你能够轻松地拖着敌人环绕战场。",
+    "mythicPrerequisites_zh": "精通拖拽",
+    "mythicBenefit_zh": "你的拖拽战技检定获得加值，数值等同于你的阶层的一半，当敌人试图拖拽你时，你的CMD也获得此加值。这些加值与非神话版的精通拖拽专长所赋予的加值叠加。<\/p><p>除此之外，你还能对任何尝试拖拽你的敌人进行借机攻击，除非对方也拥有该专长。",
+    "staminaText_zh": "当你作为拖拽APG战技的目标时，你可以消耗至多为你的力量或者敏捷加值的耐力，两者取高。你对抗拖拽尝试的CMD提升等同于你消耗的耐力点的点数。"
 }

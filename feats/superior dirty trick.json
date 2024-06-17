@@ -5,8 +5,17 @@
     "descriptors": ["Combat"],
     "source": ["Dirty Tactics Toolbox pg. 15"],
     "text": "Your training in a particular dirty trick makes it especially effective.",
-    "prerequisites": "Int 13, Combat Expertise, Greater Dirty Trick<sup>APG<\/sup>, Improved Dirty Trick<sup>APG<\/sup>, base attack bonus +8.",
+    "prerequisites": "Int 13, Combat Expertise, Greater Dirty Trick, Improved Dirty Trick, base attack bonus +8.",
     "benefit": "Choose one condition imposed by the dirty trick combat maneuver, such as blinded or entangled. The target must spend a full-round action in order to remove that condition.",
     "special": "You can gain this feat multiple times. Each time you take the feat, it applies to a different condition.",
-    "prerequisiteKeys": ["combat expertise"]
+    "prerequisiteKeys":     [
+        "combat expertise",
+        "greater dirty trick",
+        "improved dirty trick"
+    ],
+    "name_zh": "至高阴招",
+    "text_zh": "你将一个阴招技巧练习的炉火纯青，神都恶心。",
+    "prerequisites_zh": "智力13，重击专攻，寓守于攻；精通阴招APG，高等阴招APG，BAB+8。",
+    "benefit_zh": "选择一个阴招战技可能造成的不良状态，如目盲或纠缠，你的阴招战技的目标在承受该效果影响时必须要花费一整轮时间来解除这个效果。",
+    "special_zh": "你可以多次选择本专长，每次你选择本专长时，选择一种不同的不良效果。"
 }

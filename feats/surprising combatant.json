@@ -7,5 +7,9 @@
     "text": "You can briefly trick your foes into discounting you as a combatant.",
     "prerequisites": "Improved Initiative, Bluff 3 ranks.",
     "benefit": "At the beginning of combat, after initiative is rolled but before the first round of combat begins, you can attempt a Bluff check as a free action. Each opponent who is aware of you must succeed at a Sense Motive check (DC equal to the result of your Bluff check). Failure means that an opponent is treated as if it were not aware of you when determining whether it is aware combat has begun. If none of your opponents are aware of you, you may act during the surprise round. If an opponent is effectively unaware of any foes, it cannot act during the surprise round.",
-    "prerequisiteKeys": ["improved initiative"]
+    "prerequisiteKeys": ["improved initiative"],
+    "name_zh": "意外战斗者",
+    "text_zh": "你能短暂地让敌人忽略你的威胁。",
+    "prerequisites_zh": "精通先攻，唬骗3级。",
+    "benefit_zh": "在战斗最开始，先攻顺序被确定之后，第一轮开始之前，你可以以自由动作尝试唬骗。所有察觉到你的敌人必须进行察言观色检定对抗你的唬骗检定结果，否则他视为没有察觉到你。如果所有敌人都没察觉到你，那么你在突袭轮中可以行动。如果一个敌人没有察觉到任何对手，他无法在突袭轮中行动。"
 }

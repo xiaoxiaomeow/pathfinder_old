@@ -13,5 +13,9 @@
     "prerequisiteKeys":     [
         "shield focus",
         "tower shield proficiency"
-    ]
+    ],
+    "name_zh": "塔盾专家",
+    "text_zh": "你毫不费力地使用塔盾。",
+    "prerequisites_zh": "盾牌专攻，擅长塔盾，BAB+11或者战士8级。",
+    "benefit_zh": "你对塔盾的护甲检定减值少3，并且若你有护甲训练职业特性，你可以将塔盾当成护甲来调整它的护甲检定减值和最大敏捷调整。"
 }

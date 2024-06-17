@@ -10,5 +10,8 @@
     "text": "Your critical hits weaken your opponents’ defenses.",
     "prerequisites": "Critical Focus, base attack bonus +11.",
     "benefit": "Whenever you score a critical hit, your opponent takes a –1 penalty to its natural armor bonus for the duration of the encounter. This penalty is cumulative, but cannot reduce an opponent’s natural armor bonus below 0.",
-    "prerequisiteKeys": ["critical focus"]
+    "prerequisiteKeys": ["critical focus"],
+    "name_zh": "剥皮重击",
+    "prerequisites_zh": "重击专攻，BAB+11。",
+    "benefit_zh": "每当你造成一次重击伤害时，你的对手的天生防御加值在这场战斗中都会承受-1罚值。这一罚值是能累积的，但不能让对手的天生防御加值低于0。"
 }

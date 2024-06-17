@@ -7,5 +7,9 @@
     "text": "You are able to angle your thrown weapon attacks in such a way that the weapon ricochets and immediately returns to you.",
     "prerequisites": "Quick Draw, base attack bonus +6, weapon training class feature with a ranged weapon.",
     "benefit": "When you make a ranged attack with an appropriate thrown weapon, the weapon returns to your hand immediately after the attack is resolved. This ability does not allow bullets, thrown ammunition such as darts or shuriken, or thrown splash weapons to return to you. Improvised thrown weapons don’t return to you unless you have the Throw Anything feat.",
-    "prerequisiteKeys": ["quick draw"]
+    "prerequisiteKeys": ["quick draw"],
+    "name_zh": "回弹投射",
+    "text_zh": "你精确计划投射武器的角度，让它们在击中敌人的时候立刻弹回你的手中。",
+    "prerequisites_zh": "即时备战，BAB+6，对所选远程武器拥有战士武器训练（Weapon Training）职业能力。",
+    "benefit_zh": "当你使用一件所选的投掷武器发动一次远程攻击时，你的武器会在攻击结束时立刻弹回你的手里。这个能力对于弹药型投掷武器比如飞镖，手里剑还有任何溅射类武器无效。除非你拥有随手投掷专长，否则你投出的临时武器也不会因为被专长的效果而回返。"
 }

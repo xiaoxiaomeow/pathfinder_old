@@ -11,5 +11,9 @@
         "shield gauntlet style",
         "shielded gauntlet attack",
         "weapon focus"
-    ]
+    ],
+    "name_zh": "铁手·技",
+    "text_zh": "你能有效地使用你的铁手套进行进和防御。",
+    "prerequisites_zh": "铁手流，铁手·击，武器专攻(铁手套或带刺铁手套)，擅长小圆盾和轻盾。",
+    "benefit_zh": "开启铁手流后，你不再因为使用铁手套(或带刺铁手套)进行攻击或者使用该手持有武器而失去盾牌AC加值。额外的，你可以将你铁手套的增强加值加到铁手流带来的盾牌AC上，就好像它是盾牌增强加值一样。"
 }

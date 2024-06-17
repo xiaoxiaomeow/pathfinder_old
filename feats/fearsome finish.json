@@ -10,5 +10,8 @@
     "text": "When you slay enemies, you frighten other opponents.",
     "prerequisites": "Intimidating Prowess, worshiper of Lamashtu.",
     "benefit": "Upon reducing an enemy to 0 or fewer hit points, for the remaining duration of the combat encounter, you gain a +4 bonus on any Intimidate checks made to demoralize opponents who can see both you and the opponent you dropped.",
-    "prerequisiteKeys": ["intimidating prowess"]
+    "prerequisiteKeys": ["intimidating prowess"],
+    "name_zh": "恐怖处决",
+    "prerequisites_zh": "威逼，信仰拉玛什图。",
+    "benefit_zh": "当你将一个对手的生命值降至0或更少时，你将在整场遭遇中，对于所有可以看到你和被你击倒对手的生物，在用于挫败对方士气的威吓检定上获得+4加值。该加值无法叠加。"
 }

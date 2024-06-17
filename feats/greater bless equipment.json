@@ -9,5 +9,9 @@
     "prerequisiteKeys":     [
         "bless equipment",
         "improved bless equipment"
-    ]
+    ],
+    "name_zh": "高等祝福武具",
+    "text_zh": "你的祝福持续更长时间，并且可以同时保持多次祝福。",
+    "prerequisites_zh": "祝福武具、精通祝福武具、施法者等级12、引导能量职业能力。",
+    "benefit_zh": "祝福武具的持续时间加倍。额外的，以一个标准动作你可以祝福至多2件射程内的武具，消耗的引导次数如同只祝福1件武具。"
 }

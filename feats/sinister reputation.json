@@ -4,8 +4,13 @@
     "url": "https://www.aonprd.com/FeatDisplay.aspx?ItemName=Sinister%20Reputation",
     "source": ["Adventurer's Guide pg. 35"],
     "text": "You need spook only a few souls to scare a whole city.",
-    "prerequisites": "Cha 13; Intimidate 5 ranks; Persuasive or renown social talent<sup>UI<\/sup>.",
+    "prerequisites": "Cha 13; Intimidate 5 ranks; Persuasive or renown social talent.",
     "benefit": "By spending 8 hours cultivating your local legend in a settlement and then succeeding at an Intimidate check, your fearsome reputation becomes common knowledge. The DC is based on the size of the settlement (see the Sinister Reputation table below and page 203 of <i>Pathfinder RPG GameMastery Guide<\/i>). If the check succeeds, you can attempt an Intimidate check to demoralize a creature that has fewer Hit Dice than you as a swift action, and using Intimidate to force a creature to act friendly to you takes only half as long. You gain these benefits only while within the settlement and while not disguised. These benefits last for a number of days equal to your half your level + your Charisma modifier.",
-    "special": "This feat’s benefits always apply to a vigilante’s<sup>UI<\/sup> area of renown, and he can choose whether the reputation and benefits apply to his social identity, vigilante identity, or both. You can always apply this feat’s benefits to followers and cohorts gained from Leadership or similar abilities. Sinister Reputation <table class=\"inner\"><tr><td>",
-    "prerequisiteKeys": ["persuasive"]
+    "special": "This feat’s benefits always apply to a vigilante’s area of renown, and he can choose whether the reputation and benefits apply to his social identity, vigilante identity, or both. You can always apply this feat’s benefits to followers and cohorts gained from Leadership or similar abilities. Sinister Reputation <table class=\"inner\"><tr><td>",
+    "prerequisiteKeys": ["persuasive"],
+    "name_zh": "恶名昭彰",
+    "text_zh": "只要把几个人吓破胆，整个城市就会惧怕你。",
+    "prerequisites_zh": "魅力 13；威吓5级；谈判专家或声誉社交天赋（Renown Social Talent）。",
+    "benefit_zh": "通过花费8个小时来在1个定居点内扩散你在本地的传闻，之后再成功进行1次威吓检定，你那可怖的声名便会成为这里的常识。威吓DC会根据定居点的规模而变化（见下表以及GMG 203页）。若检定成功，你能以迅捷动作（swift action）对1名生命骰比你低的生物尝试1次威吓检定，而且在使用威吓技能迫使1名生物向你表示友善时需要耗费的时间减半。你只有在没有易容，而且身处定居点内的时候才会获得这些好处。这些好处持续的天数等同于你的等级的一半 + 你的魅力调整值。",
+    "special_zh": "该专长的好处总是适用于侠客（vigilante）建立声誉的地区，他能够选择让专长的好处应用到社交身份（social identity）、应用到侠客身份（vigilante identity）、或者同时应用到两个身份上。你总是能够将专长的好处应用到领导力（Leadership）或其他类似能力赋予的追随者（followers）或部署（cohorts）身上。"
 }

@@ -8,5 +8,8 @@
     ],
     "text": "You deity grants you greater guidance and divine insight.",
     "prerequisites": "Caster level 3rd, ability to cast <i>augury <\/i>or <i>divination<\/i>, must worship a deity.",
-    "benefit": "Whenever you cast <i>augury <\/i>or <i>divination<\/i>, you receive further guidance from your deity’s agents. You gain a +1 sacred bonus if your worship a good deity or a +1 profane bonus if you worship an evil deity (if you worship a neutral deity the type of bonus is either determined by the type of energy you channel with the channel energy class feature or, if you don’t have that class ability, your choice upon taking this feat) on all saving throws for 1 minute per caster level of the <i>augury <\/i>or <i>divination <\/i>spell you cast."
+    "benefit": "Whenever you cast <i>augury <\/i>or <i>divination<\/i>, you receive further guidance from your deity’s agents. You gain a +1 sacred bonus if your worship a good deity or a +1 profane bonus if you worship an evil deity (if you worship a neutral deity the type of bonus is either determined by the type of energy you channel with the channel energy class feature or, if you don’t have that class ability, your choice upon taking this feat) on all saving throws for 1 minute per caster level of the <i>augury <\/i>or <i>divination <\/i>spell you cast.",
+    "name_zh": "占决预导",
+    "prerequisites_zh": "能够施放法术卜筮（Augury）或占卜术（Divination），施法者等级3，必须信仰一个神祇。",
+    "benefit_zh": "每当你成功施放卜筮或占卜术，你将获得一些额外的启示。这些效果将使你在所有的豁免检定上获得+1神圣/亵渎加值（取决于你所信奉的神祇阵营如果你是中立职业并拥有引导能量职业能力，这将与你引导的能量类型一致；如果你不拥有引导能量能力，那么你需要选择其中之一），持续时间等同于每1分钟/你可以施放卜筮或占卜术的施法者职业等级。"
 }

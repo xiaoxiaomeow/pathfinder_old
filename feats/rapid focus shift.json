@@ -10,7 +10,8 @@
     "special": "You can take this feat multiple times. Each time you do, you gain an additional daily use of Rapid Focus Shift.",
     "name_zh": "快速心智转移",
     "text_zh": "你可以更快地转移灵器内的心智点。",
-    "prerequisites_zh": "施法者等级5级，心智点（Mental Focus）职业能力",
-    "benefit_zh": "每日1次，你能够以整轮动作将一个灵器（Implement）内的心智点转移至另一个灵器。你必须在不受干扰且能够维持专注的情况下才能这么做。若你在转移时承受了任何伤害的话，则必须进行一次专注检定（DC = 10 + 受到的伤害数值），成功才能够完成此次转移。如果检定失败，你会失去此次转移的心智点，以取代原本的转移至另一个灵器内。<\/p><p>正常：在两个灵器之间进行心智转移（Shift Focus）需要花费1分钟安静的冥想。",
+    "prerequisites_zh": "施法者等级5级，心智点（Mental Focus）职业能力。",
+    "benefit_zh": "每日1次，你能够以整轮动作将一个灵器（Implement）内的心智点转移至另一个灵器。你必须在不受干扰且能够维持专注的情况下才能这么做。若你在转移时承受了任何伤害的话，则必须进行一次专注检定（DC = 10 + 受到的伤害数值），成功才能够完成此次转移。如果检定失败，你会失去此次转移的心智点，以取代原本的转移至另一个灵器内。",
+    "normal_zh": "在两个灵器之间进行心智转移（Shift Focus）需要花费1分钟安静的冥想。",
     "special_zh": "你可以多次选取该专长，每次选取都会让快速心智转移的每日使用次数增加一次。"
 }
