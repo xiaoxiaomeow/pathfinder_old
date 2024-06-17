@@ -586,7 +586,7 @@ function search() {
 					}).then(text => {
 						sp = JSON.parse(text);
 						tooltip.innerHTML = "";
-						loadFeat(sp, tooltip);
+						loadSpell(sp, tooltip);
 					}).catch(error => {
 						alert('Error: ' + error.message);
 						throw error;
