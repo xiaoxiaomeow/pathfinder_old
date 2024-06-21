@@ -3,7 +3,7 @@ function getMDText() {
     if (curSpell == null) {
         return "[pf法术速查](https://xiaoxiaomeow.github.io/pathfinder/spells.html)";
     } else {
-        let name = curSpell["name_zh"] != null ? curSpell["name_zh"] : en_name;
+        let name = curSpell["name_zh"] != null ? curSpell["name_zh"] : curSpell["name_en"];
         return "[" + name + "](" + location.href + ")<sup>" + getTranslatedSource(curSpell) + "</sup>";
     }
 }

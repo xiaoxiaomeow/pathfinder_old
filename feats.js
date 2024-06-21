@@ -3,7 +3,7 @@ function getMDText() {
     if (curFeat == null) {
         return "[pf专长速查](https://xiaoxiaomeow.github.io/pathfinder/feats.html)";
     } else {
-        let name = curFeat["name_zh"] != null ? curFeat["name_zh"] : en_name;
+        let name = curFeat["name_zh"] != null ? curFeat["name_zh"] : curFeat["name_en"];
         return "[" + name + "](" + location.href + ")<sup>" + getTranslatedSource(curFeat) + "</sup>";
     }
 }
